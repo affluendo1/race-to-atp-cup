@@ -1,0 +1,114 @@
+ATP CUP SETUP WORKBOOK — PLAIN-LANGUAGE GUIDE
+
+WHAT THIS WORKBOOK DOES
+Use this workbook to set up the competition: its name and seasons, teams, players, team lists, rosters, venues, rules, and match schedule. It does not contain score entry. Match scores and results already entered on the site stay there when you import a setup workbook.
+
+The site starts with the current competition setup filled in. You can edit those rows, add new rows, and remove rows that should no longer be part of the setup. Import replaces the setup shown in the workbook. Before saving, the site shows a review of the changes and checks the details. It will stop and explain any issue it cannot safely resolve.
+
+THE SHORT VERSION
+1. Download a fresh “ATP Cup setup workbook.xlsx” from the site.
+2. Open it in Excel, Numbers, or LibreOffice Calc. Keep the tab names and column headings as they are.
+3. Edit the yellow cells. Add each team and player once, then connect them to seasons on the other tabs.
+4. Save the workbook as an Excel .xlsx file.
+5. On the site, open Manual data → Data & rules, choose the workbook, and review the summary.
+6. Select “Apply this setup” only after the summary looks right.
+
+A NOTE ABOUT RESULTS
+Scores, players selected for a matchday, and match rubbers are not included in this workbook. Enter or correct them on the site’s Fixture editor. When a match already has a result, leave its match reference, season, date, stage, teams, and Finals match slot unchanged. Those details keep the saved result attached to the same match. You can update that match’s venue, playing surface, and host city in the workbook; the result stays with it.
+
+TABS AND WHAT TO ENTER
+
+Start here
+A quick reminder of the workflow. It is not imported.
+
+Competition
+One row describes the competition.
+- Application name: the name used in the site interface.
+- Competition name: the race or league name.
+- Finals name: the name shown for the end-of-season tournament.
+- Introduction: a short description shown on the site.
+
+Teams
+One row per team. Team name is required.
+- Team reference: a saved reference used to keep links stable. Leave existing values as they are. Leave this blank on new rows; the site will create one. If two teams have the same name, give each a different reference using letters, numbers, hyphens, or underscores; use that reference wherever the team is linked from another tab.
+- Team name: the full name shown on the site.
+- Short name and abbreviation: compact names used in tables and scorecards.
+- Home city, country, and region: where the team is based.
+- Home venue and home surface: optional home-ground details.
+- Founded year and arena capacity: optional numbers.
+- Team colours: optional colours separated by semicolons, for example “#173328; #D5A332”.
+- Team description: optional background text.
+- Rival teams: optional team names separated by semicolons.
+- Active?: enter Yes or No.
+- Logo image: optional image path already available to the website.
+- Other names: optional alternate names separated by semicolons.
+
+Players
+One row per player. Full name is required.
+- Player reference: leave existing values as they are; leave blank for a new player. The site creates a reference for new rows. If two players have the same full name, give each a different reference using letters, numbers, hyphens, or underscores, then use that reference on the Rosters tab.
+- Full name and name shown on site: a player's full name and an optional shorter display name.
+- Nationality, date of birth, playing hand: optional background information. Dates use YYYY-MM-DD.
+- Active?: enter Yes or No.
+- Photo image: optional image path already available to the website.
+- Other names: alternate spellings or names separated by semicolons.
+
+Seasons
+One row per season. Season name, year, start, and end dates are required. Dates use YYYY-MM-DD.
+- Season reference: keep existing values unchanged. Leave blank for a new season and the site will create a reference.
+- Finals cycle name and years: optional label and the two years covered by the alternating host cycle. The end year is normally one year after the start year.
+- Host A and Host B: enter each host city, country, venue, and playing surface. These are the two alternating Finals locations.
+- Quarterfinal dates: one or more dates separated by semicolons. Semifinal date and final date are single dates.
+- Final seed teams: optional team names separated by semicolons. Leave blank when the teams will qualify from the standings.
+
+Season Teams
+Add one row for every team taking part in a season. Enter the season name and the team name exactly as shown on the Seasons and Teams tabs. A team must be listed here before you can assign its players or schedule its matches.
+
+Team Venues
+Use this tab only when a team has a different home venue or surface in a particular season. Add the season, team, and the alternate venue or surface. Leave the tab empty if there are no season-specific changes.
+
+Rosters
+Add one row for each player registered to a team in a season.
+- Season, Team, Player name: connect the player to the team and season using the names already listed in the workbook.
+- Roster order: a whole number giving the player's place on that team's roster.
+- Player role: choose the role name shown for the competition. The usual names are “Singles Player”, “ATP Cup Player”, and “Doubles Specialist”.
+- Active?: enter Yes or No.
+- Registered from / registered through: optional dates for a mid-season move or time-limited registration. Leave blank when the registration covers the full season.
+
+Fixtures
+One row per scheduled match. The home team, away team, match date, season, and stage are needed.
+- Match reference: leave existing values unchanged, especially for matches with results. Leave blank for new matches and the site creates a reference.
+- Season, round, and match date: identify when the fixture takes place. Regular-season matches need a round number. Dates use YYYY-MM-DD.
+- Stage: use Regular season, Quarterfinal, Semifinal, or Final.
+- Home team and away team: use the team names on the Teams tab. The two teams must be different.
+- Venue and playing surface: optional for a regular-season match; a blank venue uses the home team's venue. Finals fixtures need their own neutral venue, host city, surface, and match slot.
+- Status: for a new match use Scheduled, Postponed, or Cancelled. Existing matches with results may say Completed; leave that status as it is. Do not use this workbook to mark a new match Completed or to enter a score.
+- Finals host city and Finals match slot: used only for Finals matches. The slot is 1, 2, 3, or 4 for quarterfinals; 1 or 2 for semifinals; and 1 for the final.
+
+Rules
+Optional settings only. You do not need to add anything here to use the site. If a setting is not listed, the competition uses its built-in setting. To change a setting, add one row with its name and value. Leave the Season cell blank for a competition-wide setting, or enter a season name for a one-season change.
+
+Settings and examples:
+- Teams in each season: a whole number, such as 18.
+- Players on a full team roster: a whole number, such as 12.
+- Players selected for one match: a whole number, such as 8.
+- Singles matches per fixture / doubles matches per fixture: whole numbers.
+- Singles places / all-round places / doubles specialist places in a full roster: whole numbers that together equal the full roster size.
+- Regular-season rounds / teams qualifying for the Finals: whole numbers.
+- Race points for a win, draw, or loss: numbers.
+- Standings tie-break order: names separated by semicolons, for example “Race points; Rubber difference; Set difference; Game difference; Match wins”.
+- Each singles player can play once per fixture?, Doubles pairs use the whole selected squad?, Allow a player to transfer during a season?, Include retirement results in ratings?: Yes or No.
+- Playing surfaces shown on the site: surface names separated by semicolons, for example “Hard; Indoor Hard; Clay; Grass”.
+- Finals allowed surfaces: surface names separated by semicolons.
+- Resolve an exact Finals tie by: Manual decision.
+- Quarterfinal seed pairings: pairs separated by semicolons, for example “1-8; 4-5; 2-7; 3-6”.
+- Final host order: “Host A then Host B” or “Host B then Host A”.
+- Rating settings: use a positive or whole number as indicated by the setting name.
+- Role names: enter the wording you want shown for singles, all-round, and doubles specialist roles.
+
+EVERYDAY EDITING TIPS
+- Add a new entry on the next empty row. Avoid blank rows in the middle of a list.
+- Do not rename or remove worksheet tabs or column headings; the site uses them to understand your workbook.
+- For lists in one cell, separate entries with semicolons. Do not use commas as separators.
+- Choose names exactly as shown on the Teams, Players, and Seasons tabs. When names are duplicated, use the reference from that tab.
+- If the site shows an error, fix the named row or column in the workbook, save it, and choose the file again. Nothing is saved until the review is error-free and you apply it.
+- Import affects this browser's saved competition data. To publish changes, use the site's normal data publishing workflow. Keep a downloaded JSON backup only if you already use the advanced backup tools; most people can use this workbook instead.
