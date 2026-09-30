@@ -1,0 +1,25 @@
+name: One-time mirror BRTA repository
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mirror brta-power-ratings into this repository
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TARGET_REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          git clone --bare https://github.com/affluendo1/brta-power-ratings.git source.git
+          cd source.git
+          git remote add destination "https://x-access-token:${GH_TOKEN}@github.com/${TARGET_REPO}.git"
+          git push --force destination --all
+          git push --force destination --tags
