@@ -109,7 +109,7 @@ npx playwright install chromium
 npm run test:browser
 ```
 
-The GitHub workflow performs engine tests, audit, build and browser integration tests before publishing `dist/` through Pages. In repository Settings → Pages, choose GitHub Actions if it is not already configured. It has no scheduled trigger and does not download sporting data. Service-worker activation clears obsolete caches within this site’s origin; each response is network-first, with an offline fallback. Bump its cache version when changing the shell inventory.
+The GitHub workflow performs engine tests, audit, build and browser integration tests before publishing `dist/` through Pages. In repository Settings → Pages, choose GitHub Actions if it is not already configured. It has no scheduled trigger and does not download sporting data. Service-worker activation clears only this site’s scoped cache entries, preserving neighboring applications on the same origin; each response is network-first, with an offline fallback. Bump its cache version when changing the shell inventory.
 
 ## Backup, migration and limitations
 
