@@ -1,4 +1,4 @@
-name: One-time mirror BRTA repository
+name: One-time snapshot BRTA repository
 
 on:
   push:
@@ -12,14 +12,34 @@ jobs:
   mirror:
     runs-on: ubuntu-latest
     steps:
-      - name: Mirror brta-power-ratings into this repository
+      - name: Copy current brta-power-ratings snapshot
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TARGET_REPO: ${{ github.repository }}
         run: |
           set -euo pipefail
-          git clone --bare https://github.com/affluendo1/brta-power-ratings.git source.git
-          cd source.git
-          git remote add destination "https://x-access-token:${GH_TOKEN}@github.com/${TARGET_REPO}.git"
-          git push --force destination --all
-          git push --force destination --tags
+
+          git clone --depth 1 "https://github.com/${TARGET_REPO}.git" target
+          git clone --depth 1 https://github.com/affluendo1/brta-power-ratings.git source
+
+          cd target
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Replace the destination working tree with the current BRTA snapshot.
+          # Keep this one temporary workflow in place because GITHUB_TOKEN cannot
+          # create/update/delete workflow files from another repository.
+          rsync -a --delete \
+            --exclude='.git/' \
+            --exclude='.github/workflows/' \
+            ../source/ ./
+
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Destination already matches the BRTA snapshot outside workflow files."
+            exit 0
+          fi
+
+          git commit -m "Duplicate current brta-power-ratings snapshot"
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${TARGET_REPO}.git"
+          git push origin main
