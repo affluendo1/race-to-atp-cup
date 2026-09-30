@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA004012,16 Jul 23,1,regular,Round 1,Royal Ave,Royal South Yarra,2,8,2,4,,,19,29,Completed,
+UA004013,16 Jul 23,1,regular,Round 1,Hurlingham Park Red,Le Page,8,2,4,2,,,29,20,Completed,
+UA004014,16 Jul 23,1,regular,Round 1,Glen Huntly,Highett,5,5,3,3,,,28,28,Completed,
+pending-ua004-r1-gphc-bye,16 Jul 23,1,regular,Round 1,GPHC,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA004021,23 Jul 23,2,regular,Round 2,Highett,GPHC,0,10,0,6,,,16,36,Completed,
+UA004023,23 Jul 23,2,regular,Round 2,Royal South Yarra,Hurlingham Park Red,5.5,4.5,3,2,,,29,25,Completed,
+UA004024,23 Jul 23,2,regular,Round 2,Le Page,Glen Huntly,0.5,9.5,0,5,,,15,34,Completed,
+pending-ua004-r2-bye-royal-ave,23 Jul 23,2,regular,Round 2,Bye,Royal Ave,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA004031,30 Jul 23,3,regular,Round 3,GPHC,Le Page,2,8,2,4,,,25,36,Completed,
+UA004032,30 Jul 23,3,regular,Round 3,Royal Ave,Highett,8,2,4,2,,,33,23,Completed,
+UA004034,30 Jul 23,3,regular,Round 3,Glen Huntly,Royal South Yarra,10,0,6,0,,,36,11,Completed,
+pending-ua004-r3-hurlingham-park-red-bye,30 Jul 23,3,regular,Round 3,Hurlingham Park Red,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA004041,06 Aug 23,4,regular,Round 4,Royal South Yarra,GPHC,2,8,2,4,,,24,28,Completed,
+UA004042,06 Aug 23,4,regular,Round 4,Le Page,Royal Ave,8,2,4,2,,,30,19,Completed,
+UA004043,06 Aug 23,4,regular,Round 4,Highett,Hurlingham Park Red,0,10,0,6,,,22,37,Completed,
+pending-ua004-r4-bye-glen-huntly,06 Aug 23,4,regular,Round 4,Bye,Glen Huntly,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA004051,13 Aug 23,5,regular,Round 5,Hurlingham Park Red,Glen Huntly,1,9,1,5,,,18,32,Completed,
+UA004052,13 Aug 23,5,regular,Round 5,Highett,Le Page,1,9,1,5,,,21,34,Completed,
+UA004054,13 Aug 23,5,regular,Round 5,GPHC,Royal Ave,3,7,3,3,,,33,37,Completed,
+pending-ua004-r5-royal-south-yarra-bye,13 Aug 23,5,regular,Round 5,Royal South Yarra,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA004061,20 Aug 23,6,regular,Round 6,Royal Ave,Hurlingham Park Red,8,2,4,2,,,28,19,Completed,
+UA004062,20 Aug 23,6,regular,Round 6,Glen Huntly,GPHC,9,1,5,1,,,32,15,Completed,
+UA004063,20 Aug 23,6,regular,Round 6,Le Page,Royal South Yarra,5,5,3,3,,,29,29,Completed,
+pending-ua004-r6-bye-highett,20 Aug 23,6,regular,Round 6,Bye,Highett,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA004071,27 Aug 23,7,regular,Round 7,GPHC,Hurlingham Park Red,3,7,3,3,,,27,28,Completed,
+UA004072,27 Aug 23,7,regular,Round 7,Royal Ave,Glen Huntly,1,9,1,5,,,13,36,Completed,
+UA004073,27 Aug 23,7,regular,Round 7,Highett,Royal South Yarra,5,5,3,3,,,26,26,Completed,
+pending-ua004-r7-le-page-bye,27 Aug 23,7,regular,Round 7,Le Page,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA004082,03 Sep 23,8,regular,Round 8,Royal South Yarra,Royal Ave,0,10,0,6,,,11,36,Completed,
+UA004083,03 Sep 23,8,regular,Round 8,Le Page,Hurlingham Park Red,8,2,4,2,,,33,21,Completed,
+UA004084,03 Sep 23,8,regular,Round 8,Highett,Glen Huntly,0,10,0,6,,,18,38,Completed,
+pending-ua004-r8-bye-gphc,03 Sep 23,8,regular,Round 8,Bye,GPHC,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA004091,10 Sep 23,9,regular,Round 9,GPHC,Highett,9,1,5,1,,,34,20,Completed,
+UA004093,10 Sep 23,9,regular,Round 9,Hurlingham Park Red,Royal South Yarra,1,9,1,5,,,27,36,Completed,
+UA004094,10 Sep 23,9,regular,Round 9,Glen Huntly,Le Page,7,3,3,3,,,29,22,Completed,
+pending-ua004-r9-royal-ave-bye,10 Sep 23,9,regular,Round 9,Royal Ave,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA004101,08 Oct 23,10,regular,Round 10,Le Page,GPHC,8,2,4,2,,,35,24,Completed,
+UA004102,08 Oct 23,10,regular,Round 10,Highett,Royal Ave,1,9,1,5,,,17,33,Completed,
+UA004104,08 Oct 23,10,regular,Round 10,Royal South Yarra,Glen Huntly,1,9,1,5,,,20,34,Completed,
+pending-ua004-r10-bye-hurlingham-park-red,08 Oct 23,10,regular,Round 10,Bye,Hurlingham Park Red,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA004111,15 Oct 23,11,regular,Round 11,GPHC,Royal South Yarra,2,8,2,4,,,19,29,Completed,
+UA004112,15 Oct 23,11,regular,Round 11,Royal Ave,Le Page,3,7,3,3,,,25,31,Completed,
+UA004113,15 Oct 23,11,regular,Round 11,Hurlingham Park Red,Highett,9,1,5,1,,,36,29,Completed,
+pending-ua004-r11-glen-huntly-bye,15 Oct 23,11,regular,Round 11,Glen Huntly,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA004121,22 Oct 23,12,regular,Round 12,Glen Huntly,Hurlingham Park Red,8,2,4,2,,,32,23,Completed,
+UA004122,22 Oct 23,12,regular,Round 12,Le Page,Highett,9,1,5,1,,,33,15,Completed,
+UA004124,22 Oct 23,12,regular,Round 12,Royal Ave,GPHC,7,3,3,3,,,32,28,Completed,
+pending-ua004-r12-bye-royal-south-yarra,22 Oct 23,12,regular,Round 12,Bye,Royal South Yarra,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA004131,29 Oct 23,13,regular,Round 13,Hurlingham Park Red,Royal Ave,5,5,3,3,,,29,29,Completed,
+UA004132,29 Oct 23,13,regular,Round 13,GPHC,Glen Huntly,8,2,4,2,,,29,29,Completed,
+UA004133,29 Oct 23,13,regular,Round 13,Royal South Yarra,Le Page,7,3,3,3,,,31,29,Completed,
+pending-ua004-r13-highett-bye,29 Oct 23,13,regular,Round 13,Highett,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA004141,12 Nov 23,14,regular,Round 14,Hurlingham Park Red,GPHC,9,1,5,1,,,35,21,Completed,
+UA004142,12 Nov 23,14,regular,Round 14,Glen Huntly,Royal Ave,3,7,3,3,,,21,28,Completed,
+UA004143,12 Nov 23,14,regular,Round 14,Royal South Yarra,Highett,10,0,6,0,,,36,6,Completed,
+pending-ua004-r14-bye-le-page,12 Nov 23,14,regular,Round 14,Bye,Le Page,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA004301,,16,semi_final,Semi-final,Glen Huntly,Royal South Yarra,8,2,4,2,,,32,20,Completed,
+UA004302,,16,semi_final,Semi-final,Le Page,Royal Ave,3,7,3,3,,,26,29,Completed,
+UA004321,,17,grand_final,Grand final · TROLS entry 2,Glen Huntly,Royal Ave,8,2,4,2,,,29,26,Completed,

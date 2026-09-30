@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA15-UA009",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2014",
+  "season_id": "UA15",
+  "season_label": "Spring 2014",
+  "source_section_code": "UA009",
+  "section_label": "Section 9",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong Scotch",
+      "wins": 11,
+      "points": 104,
+      "percentage": 138.93,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Hampton 1",
+      "wins": 9,
+      "points": 90,
+      "percentage": 123.79,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Lauriston",
+      "wins": 9,
+      "points": 84,
+      "percentage": 112.2,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Hampton 2",
+      "wins": 7,
+      "points": 75,
+      "percentage": 98.9,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 5,
+      "points": 65,
+      "percentage": 102.89,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Coatesville",
+      "wins": 5,
+      "points": 59,
+      "percentage": 90.86,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Carmelite",
+      "wins": 3,
+      "points": 47,
+      "percentage": 86.68,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC",
+      "wins": 2,
+      "points": 36,
+      "percentage": 63.35,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA15-UA009",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

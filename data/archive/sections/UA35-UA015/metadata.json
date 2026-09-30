@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA35-UA015",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2024",
+  "season_id": "UA35",
+  "season_label": "Spring 2024",
+  "source_section_code": "UA015",
+  "section_label": "Section 15",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Beaumaris CC",
+      "wins": 14,
+      "points": 132,
+      "percentage": 227.27,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Mentone",
+      "wins": 9,
+      "points": 83,
+      "percentage": 127.67,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Parkdale",
+      "wins": 7,
+      "points": 75,
+      "percentage": 106.74,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Royal South Yarra",
+      "wins": 7,
+      "points": 73,
+      "percentage": 97.97,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Elsternwick Park",
+      "wins": 5,
+      "points": 59,
+      "percentage": 86.14,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Hurlingham Park Red",
+      "wins": 6,
+      "points": 58,
+      "percentage": 86.75,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Maccabi",
+      "wins": 3,
+      "points": 43,
+      "percentage": 67.37,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hurlingham Park Blue",
+      "wins": 3,
+      "points": 37,
+      "percentage": 66.18,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA35-UA015",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

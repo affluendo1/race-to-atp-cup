@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA24-UA022",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2019",
+  "season_id": "UA24",
+  "season_label": "Autumn 2019",
+  "source_section_code": "UA022",
+  "section_label": "Section 22",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Parkdale",
+      "wins": 12,
+      "points": 114.5,
+      "percentage": 183.2,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Centenary Park",
+      "wins": 10,
+      "points": 106,
+      "percentage": 161.54,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Le Page",
+      "wins": 10,
+      "points": 98,
+      "percentage": 142.33,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "St Pauls",
+      "wins": 4,
+      "points": 68,
+      "percentage": 102.05,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Lauriston",
+      "wins": 7,
+      "points": 66,
+      "percentage": 95.74,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Mentone",
+      "wins": 5,
+      "points": 56,
+      "percentage": 84.53,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kings Park",
+      "wins": 3,
+      "points": 45,
+      "percentage": 79.79,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal South Yarra",
+      "wins": 0,
+      "points": 6.5,
+      "percentage": 27.18,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA24-UA022",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 45,
+  "singles_rubbers": 228,
+  "doubles_rubbers": 114,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

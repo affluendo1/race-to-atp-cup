@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA28-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2021",
+  "season_id": "UA28",
+  "season_label": "Autumn 2021",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Elsternwick Park",
+      "wins": 10,
+      "points": 98,
+      "percentage": 178.0,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Carmelite",
+      "wins": 8,
+      "points": 88,
+      "percentage": 148.48,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "St Andrews MB 2 KE",
+      "wins": 6,
+      "points": 76,
+      "percentage": 110.76,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Hurlingham Park",
+      "wins": 4,
+      "points": 67,
+      "percentage": 116.13,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Coatesville",
+      "wins": 4,
+      "points": 64.5,
+      "percentage": 108.24,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St Andrews MB 1 KE",
+      "wins": 5,
+      "points": 58,
+      "percentage": 89.16,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St Pats Mentone",
+      "wins": 3,
+      "points": 46,
+      "percentage": 70.82,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Patterson Lakes",
+      "wins": 0,
+      "points": 22.5,
+      "percentage": 29.67,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA28-UA014",
+  "fixtures": 55,
+  "completed_fixtures": 43,
+  "draw_fixtures": 59,
+  "singles_rubbers": 170,
+  "doubles_rubbers": 86,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for UA014091"
+  ]
+}

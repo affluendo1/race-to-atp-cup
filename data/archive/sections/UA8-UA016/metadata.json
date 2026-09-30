@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA8-UA016",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2011",
+  "season_id": "UA8",
+  "season_label": "Autumn 2011",
+  "source_section_code": "UA016",
+  "section_label": "Section 16",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Victory Park",
+      "wins": 0,
+      "points": 114,
+      "percentage": 190.67,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 0,
+      "points": 96,
+      "percentage": 152.9,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 82,
+      "percentage": 104.53,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Hampton",
+      "wins": 0,
+      "points": 68,
+      "percentage": 101.25,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Mordialloc",
+      "wins": 0,
+      "points": 67,
+      "percentage": 100.64,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Aspendale",
+      "wins": 0,
+      "points": 48,
+      "percentage": 83.44,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 46,
+      "percentage": 68.81,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Glen Eira Beech",
+      "wins": 0,
+      "points": 37,
+      "percentage": 53.69,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA8-UA016",
+  "fixtures": 59,
+  "completed_fixtures": 51,
+  "draw_fixtures": 59,
+  "singles_rubbers": 202,
+  "doubles_rubbers": 102,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

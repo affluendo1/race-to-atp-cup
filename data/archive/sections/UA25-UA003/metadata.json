@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA25-UA003",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2019",
+  "season_id": "UA25",
+  "season_label": "Spring 2019",
+  "source_section_code": "UA003",
+  "section_label": "Section 3",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Elsternwick Park",
+      "wins": 10,
+      "points": 92,
+      "percentage": 157.32,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Kooyong",
+      "wins": 10,
+      "points": 91,
+      "percentage": 142.04,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "BLTC 2",
+      "wins": 4,
+      "points": 57,
+      "percentage": 102.27,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC 1",
+      "wins": 5,
+      "points": 55,
+      "percentage": 93.0,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Tennis World",
+      "wins": 3,
+      "points": 44,
+      "percentage": 77.29,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Highett",
+      "wins": 3,
+      "points": 42,
+      "percentage": 79.35,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Coatesville",
+      "wins": 3,
+      "points": 39,
+      "percentage": 72.35,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA25-UA003",
+  "fixtures": 59,
+  "completed_fixtures": 41,
+  "draw_fixtures": 45,
+  "singles_rubbers": 164,
+  "doubles_rubbers": 82,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

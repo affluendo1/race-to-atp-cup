@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA32-UA001",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2023",
+  "season_id": "UA32",
+  "season_label": "Autumn 2023",
+  "source_section_code": "UA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Royal South Yarra Gold",
+      "wins": 9,
+      "points": 100,
+      "percentage": 192.26,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 8,
+      "points": 89,
+      "percentage": 145.93,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "BLTC Blue",
+      "wins": 8,
+      "points": 84,
+      "percentage": 132.07,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Le Page",
+      "wins": 7,
+      "points": 74,
+      "percentage": 108.13,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC",
+      "wins": 3,
+      "points": 55,
+      "percentage": 92.23,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Hurlingham Park",
+      "wins": 2,
+      "points": 43,
+      "percentage": 70.43,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park",
+      "wins": 2,
+      "points": 40,
+      "percentage": 61.94,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Highmoor Uniting",
+      "wins": 1,
+      "points": 35,
+      "percentage": 63.8,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA32-UA001",
+  "fixtures": 55,
+  "completed_fixtures": 43,
+  "draw_fixtures": 59,
+  "singles_rubbers": 172,
+  "doubles_rubbers": 86,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

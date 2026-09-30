@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA13-UA012",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2013",
+  "season_id": "UA13",
+  "season_label": "Spring 2013",
+  "source_section_code": "UA012",
+  "section_label": "Section 12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Parkdale",
+      "wins": 13,
+      "points": 117.5,
+      "percentage": 184.58,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "GPHC 2",
+      "wins": 13,
+      "points": 113,
+      "percentage": 169.57,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Royal South Yarra",
+      "wins": 8,
+      "points": 73,
+      "percentage": 102.07,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Hampton",
+      "wins": 6,
+      "points": 68,
+      "percentage": 100.85,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC 1",
+      "wins": 5,
+      "points": 67,
+      "percentage": 109.41,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Glen Eira Beech",
+      "wins": 5,
+      "points": 67,
+      "percentage": 95.44,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Carmelite",
+      "wins": 3,
+      "points": 44.5,
+      "percentage": 70.44,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Tennis World",
+      "wins": 0,
+      "points": 10,
+      "percentage": 39.58,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA13-UA012",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 45,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for UA012101"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA25-UA018",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2019",
+  "season_id": "UA25",
+  "season_label": "Spring 2019",
+  "source_section_code": "UA018",
+  "section_label": "Section 18",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Dendy Park",
+      "wins": 10,
+      "points": 105,
+      "percentage": 167.62,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Highmoor Uniting",
+      "wins": 6,
+      "points": 89,
+      "percentage": 159.32,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Centenary Park",
+      "wins": 7,
+      "points": 82,
+      "percentage": 119.18,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Parkdale",
+      "wins": 7,
+      "points": 72,
+      "percentage": 102.63,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Le Page",
+      "wins": 7,
+      "points": 71,
+      "percentage": 92.66,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Victory Park",
+      "wins": 5,
+      "points": 59,
+      "percentage": 77.1,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong Xavier",
+      "wins": 5,
+      "points": 52,
+      "percentage": 69.84,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 30,
+      "percentage": 62.63,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA25-UA018",
+  "fixtures": 59,
+  "completed_fixtures": 50,
+  "draw_fixtures": 59,
+  "singles_rubbers": 200,
+  "doubles_rubbers": 100,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,53 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA010011,15 Nov 20,1,Murrumbeena,Le Page,No. 1,Thomas Moore,Chanithu Wickramasinghe,Thomas Moore,6-4,6,4,1,0,Completed,true,false,false
+UA010011,15 Nov 20,1,Murrumbeena,Le Page,No. 2,Bailey Loke,Shrish Kumaran,Bailey Loke,6-1,6,1,1,0,Completed,true,false,false
+UA010011,15 Nov 20,1,Murrumbeena,Le Page,No. 3,Jamie Ubachs,Sai Karthick Neerukonda,Sai Karthick Neerukonda,1-6,1,6,0,1,Completed,true,false,false
+UA010011,15 Nov 20,1,Murrumbeena,Le Page,No. 4,Oliver Huggins,[Unnamed player — TROLS UA010011 away code 4],Oliver Huggins,6-0,6,0,1,0,Completed,false,false,false
+UA010012,15 Nov 20,1,Caulfield Rec,Black Rock,No. 1,Georgia Papasotiriou,Ella Rankin,Ella Rankin,2-6,2,6,0,1,Completed,true,false,false
+UA010012,15 Nov 20,1,Caulfield Rec,Black Rock,No. 2,Aaron Pattishman,Emma Enkelman,Aaron Pattishman,6-1,6,1,1,0,Completed,true,false,false
+UA010012,15 Nov 20,1,Caulfield Rec,Black Rock,No. 3,Ronnie Bhuteja,Natalie Dureau,Ronnie Bhuteja,7-6,7,6,1,0,Completed,true,false,false
+UA010012,15 Nov 20,1,Caulfield Rec,Black Rock,No. 4,Jude Teo,Maylin Roy,Jude Teo,6-0,6,0,1,0,Completed,true,false,true
+UA010013,15 Nov 20,1,St Pats Mentone,Carmelite,No. 1,Jeremy Cormick,Amie Greenall,Jeremy Cormick,6-2,6,2,1,0,Completed,true,false,false
+UA010013,15 Nov 20,1,St Pats Mentone,Carmelite,No. 2,Liam Parsons,Millie Tisdall,Liam Parsons,6-2,6,2,1,0,Completed,true,false,false
+UA010013,15 Nov 20,1,St Pats Mentone,Carmelite,No. 3,Thomas Gregory,Tom Tisdall,Thomas Gregory,6-4,6,4,1,0,Completed,true,false,false
+UA010013,15 Nov 20,1,St Pats Mentone,Carmelite,No. 4,Matthew Gleeson,Charlotte Parletta,Matthew Gleeson,7-5,7,5,1,0,Completed,true,false,false
+UA010021,22 Nov 20,2,Patterson Lakes,Murrumbeena,No. 1,Marion Liew,Thomas Moore,Thomas Moore,1-6,1,6,0,1,Completed,true,false,false
+UA010021,22 Nov 20,2,Patterson Lakes,Murrumbeena,No. 2,Riley Kernutt,Bailey Loke,Riley Kernutt,6-4,6,4,1,0,Completed,true,false,false
+UA010021,22 Nov 20,2,Patterson Lakes,Murrumbeena,No. 3,Josh Oaks,Jamie Ubachs,Jamie Ubachs,0-6,0,6,0,1,Completed,true,false,false
+UA010021,22 Nov 20,2,Patterson Lakes,Murrumbeena,No. 4,Ryan Helmore,Oliver Huggins,Oliver Huggins,2-6,2,6,0,1,Completed,true,false,false
+UA010022,22 Nov 20,2,Le Page,Caulfield Rec,No. 1,Chanithu Wickramasinghe,Georgia Papasotiriou,Georgia Papasotiriou,3-6,3,6,0,1,Completed,true,false,false
+UA010022,22 Nov 20,2,Le Page,Caulfield Rec,No. 2,Shrish Kumaran,Aaron Pattishman,Aaron Pattishman,2-6,2,6,0,1,Completed,true,false,false
+UA010022,22 Nov 20,2,Le Page,Caulfield Rec,No. 3,Sai Karthick Neerukonda,Ronnie Bhuteja,Sai Karthick Neerukonda,6-4,6,4,1,0,Completed,true,false,false
+UA010022,22 Nov 20,2,Le Page,Caulfield Rec,No. 4,Noah Heimann,Jude Teo,Jude Teo,0-6,0,6,0,1,Completed,true,false,false
+UA010023,22 Nov 20,2,Black Rock,St Pats Mentone,No. 1,Alicia Whitfield,Sam Harris,Sam Harris,4-6,4,6,0,1,Completed,true,false,false
+UA010023,22 Nov 20,2,Black Rock,St Pats Mentone,No. 2,Samantha Martin,Thomas Gregory,Thomas Gregory,0-6,0,6,0,1,Completed,true,false,false
+UA010023,22 Nov 20,2,Black Rock,St Pats Mentone,No. 3,Maylin Roy,Musashi Roche,Musashi Roche,0-6,0,6,0,1,Completed,true,true,false
+UA010023,22 Nov 20,2,Black Rock,St Pats Mentone,No. 4,Emma Enkelman,Braedan Carey,Emma Enkelman,6-1,6,1,1,0,Completed,true,false,false
+UA010033,29 Nov 20,3,St Pats Mentone,Le Page,No. 1,Jeremy Cormick,Chanithu Wickramasinghe,Jeremy Cormick,6-0,6,0,1,0,Completed,true,false,false
+UA010033,29 Nov 20,3,St Pats Mentone,Le Page,No. 2,Liam Parsons,Shrish Kumaran,Liam Parsons,6-2,6,2,1,0,Completed,true,false,false
+UA010033,29 Nov 20,3,St Pats Mentone,Le Page,No. 3,Thomas Gregory,Sai Karthick Neerukonda,Thomas Gregory,6-3,6,3,1,0,Completed,true,false,false
+UA010033,29 Nov 20,3,St Pats Mentone,Le Page,No. 4,Matthew Gleeson,Noah Heimann,Matthew Gleeson,6-0,6,0,1,0,Completed,true,false,false
+UA010041,06 Dec 20,4,Black Rock,Murrumbeena,No. 1,Alicia Whitfield,Bailey Loke,Alicia Whitfield,6-0,6,0,1,0,Completed,true,false,false
+UA010041,06 Dec 20,4,Black Rock,Murrumbeena,No. 2,Ella Rankin,Jamie Ubachs,Jamie Ubachs,4-6,4,6,0,1,Completed,true,false,false
+UA010041,06 Dec 20,4,Black Rock,Murrumbeena,No. 3,Maylin Roy,Oliver Huggins,Maylin Roy,6-2,6,2,1,0,Completed,true,true,false
+UA010041,06 Dec 20,4,Black Rock,Murrumbeena,No. 4,Natalie Dureau,Aodhan Monteiro,Aodhan Monteiro,6-7,6,7,0,1,Completed,true,false,false
+UA010042,06 Dec 20,4,Carmelite,Caulfield Rec,No. 1,Nick Kefalas,Georgia Papasotiriou,Georgia Papasotiriou,4-6,4,6,0,1,Completed,true,false,false
+UA010042,06 Dec 20,4,Carmelite,Caulfield Rec,No. 2,Helen Kefalas,Aaron Pattishman,Aaron Pattishman,0-6,0,6,0,1,Completed,true,false,false
+UA010042,06 Dec 20,4,Carmelite,Caulfield Rec,No. 3,Mali Moore,Mohan Parmar,Mohan Parmar,2-6,2,6,0,1,Completed,true,true,false
+UA010042,06 Dec 20,4,Carmelite,Caulfield Rec,No. 4,Elizabethjane Birmingham,Lexi Pattishman,Elizabethjane Birmingham,6-3,6,3,1,0,Completed,true,true,true
+UA010053,13 Dec 20,5,Black Rock,Le Page,No. 1,Alicia Whitfield,Chanithu Wickramasinghe,Alicia Whitfield,6-1,6,1,1,0,Completed,true,false,false
+UA010053,13 Dec 20,5,Black Rock,Le Page,No. 2,Samantha Martin,Joshua Tesler,Samantha Martin,6-4,6,4,1,0,Completed,true,false,true
+UA010053,13 Dec 20,5,Black Rock,Le Page,No. 3,Ella Rankin,Sven Cooper,Ella Rankin,6-1,6,1,1,0,Completed,true,false,true
+UA010053,13 Dec 20,5,Black Rock,Le Page,No. 4,Emma Enkelman,Noah Heimann,Emma Enkelman,6-0,6,0,1,0,Completed,true,false,false
+UA010054,13 Dec 20,5,Murrumbeena,Caulfield Rec,No. 1,Bailey Loke,Georgia Papasotiriou,Bailey Loke,7-6,7,6,1,0,Completed,true,false,false
+UA010054,13 Dec 20,5,Murrumbeena,Caulfield Rec,No. 2,Jamie Ubachs,Ronnie Bhuteja,Jamie Ubachs,6-0,6,0,1,0,Completed,true,false,false
+UA010054,13 Dec 20,5,Murrumbeena,Caulfield Rec,No. 3,Oliver Huggins,[Unnamed player — TROLS UA010054 away code 3],Oliver Huggins,6-0,6,0,1,0,Completed,false,false,false
+UA010054,13 Dec 20,5,Murrumbeena,Caulfield Rec,No. 4,Aodhan Monteiro,Jude Teo,Jude Teo,0-6,0,6,0,1,Completed,true,false,false
+UA010061,20 Dec 20,6,Caulfield Rec,St Pats Mentone,No. 1,Georgia Papasotiriou,Sam Harris,Sam Harris,6-7,6,7,0,1,Completed,true,false,false
+UA010061,20 Dec 20,6,Caulfield Rec,St Pats Mentone,No. 2,Aaron Pattishman,Tom Marani,Aaron Pattishman,6-3,6,3,1,0,Completed,true,false,true
+UA010061,20 Dec 20,6,Caulfield Rec,St Pats Mentone,No. 3,Ronnie Bhuteja,Musashi Roche,Musashi Roche,3-6,3,6,0,1,Completed,true,false,false
+UA010061,20 Dec 20,6,Caulfield Rec,St Pats Mentone,No. 4,Natalie Duieb,Braedan Carey,Natalie Duieb,6-3,6,3,1,0,Completed,true,true,false
+UA010064,20 Dec 20,6,Le Page,Patterson Lakes,No. 1,Chanithu Wickramasinghe,Marion Liew,Chanithu Wickramasinghe,6-1,6,1,1,0,Completed,true,false,false
+UA010064,20 Dec 20,6,Le Page,Patterson Lakes,No. 2,Sven Cooper,Riley Kernutt,Sven Cooper,6-0,6,0,1,0,Completed,true,true,false
+UA010064,20 Dec 20,6,Le Page,Patterson Lakes,No. 3,Sai Karthick Neerukonda,Luka Peterson,Sai Karthick Neerukonda,6-0,6,0,1,0,Completed,true,false,false
+UA010064,20 Dec 20,6,Le Page,Patterson Lakes,No. 4,Joshua Tesler,Josh Oaks,Joshua Tesler,6-2,6,2,1,0,Completed,true,true,false

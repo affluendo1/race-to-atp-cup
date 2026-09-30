@@ -1,0 +1,171 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA002012,04 Feb 18,1,BLTC,GPHC,No. 1,Seb Zahra,Alex Brendish,Seb Zahra,6-3,6,3,1,0,Completed,true,false,false
+UA002012,04 Feb 18,1,BLTC,GPHC,No. 2,Hugh Moir,Axel Rives,Hugh Moir,6-4,6,4,1,0,Completed,true,false,false
+UA002012,04 Feb 18,1,BLTC,GPHC,No. 3,Ben Gerresheim,Charlotte McIntosh,Charlotte McIntosh,0-6,0,6,0,1,Completed,true,false,false
+UA002012,04 Feb 18,1,BLTC,GPHC,No. 4,Jacqueline Dickinson,Sam Heeps,Sam Heeps,1-6,1,6,0,1,Completed,true,false,false
+UA002013,04 Feb 18,1,Kooyong 1,Kooyong 2,No. 1,Angus Cosgriff,Patrick Wraith-Bell,Patrick Wraith-Bell,3-6,3,6,0,1,Completed,true,false,false
+UA002013,04 Feb 18,1,Kooyong 1,Kooyong 2,No. 2,Aaron Koh,Linus Wraith-Bell,Linus Wraith-Bell,3-6,3,6,0,1,Completed,true,false,false
+UA002013,04 Feb 18,1,Kooyong 1,Kooyong 2,No. 3,Nick Wotherspoon,Seamus Synnott,Nick Wotherspoon,6-1,6,1,1,0,Completed,true,false,false
+UA002013,04 Feb 18,1,Kooyong 1,Kooyong 2,No. 4,Ben Fallon,Conor Game,Ben Fallon,6-0,6,0,1,0,Completed,true,false,false
+UA002014,04 Feb 18,1,Aspendale,Royal South Yarra,No. 1,Ben Garside Weinert,Oscar Lynagh,Ben Garside Weinert,7-6,7,6,1,0,Completed,true,false,false
+UA002014,04 Feb 18,1,Aspendale,Royal South Yarra,No. 2,Dean Stavrou,Vivienne Johnston,Dean Stavrou,6-3,6,3,1,0,Completed,true,false,false
+UA002014,04 Feb 18,1,Aspendale,Royal South Yarra,No. 3,Jeremy Cullen,Bailey McLean,Bailey McLean,4-6,4,6,0,1,Completed,true,false,false
+UA002014,04 Feb 18,1,Aspendale,Royal South Yarra,No. 4,Caleb Curtis,Sam McLean,Caleb Curtis,6-2,6,2,1,0,Completed,true,false,false
+UA002021,11 Feb 18,2,Royal South Yarra,Coatesville,No. 1,Vivienne Johnston,Adrian Mitsel,Adrian Mitsel,5-7,5,7,0,1,Completed,true,false,false
+UA002021,11 Feb 18,2,Royal South Yarra,Coatesville,No. 2,Bailey McLean,Luigi Cortez,Bailey McLean,6-2,6,2,1,0,Completed,true,false,false
+UA002021,11 Feb 18,2,Royal South Yarra,Coatesville,No. 3,Sam McLean,Rakia Shwartz,Sam McLean,6-1,6,1,1,0,Completed,true,false,false
+UA002021,11 Feb 18,2,Royal South Yarra,Coatesville,No. 4,Tom Ritter,Daniel Jiang,Tom Ritter,6-2,6,2,1,0,Completed,true,false,false
+UA002023,11 Feb 18,2,GPHC,Kooyong 1,No. 1,Axel Rives,Angus Cosgriff,Axel Rives,6-3,6,3,1,0,Completed,true,false,false
+UA002023,11 Feb 18,2,GPHC,Kooyong 1,No. 2,Charlotte McIntosh,Sam Palazzo,Charlotte McIntosh,6-2,6,2,1,0,Completed,true,false,false
+UA002023,11 Feb 18,2,GPHC,Kooyong 1,No. 3,Charlie Dobrotwir,Nick Wotherspoon,Charlie Dobrotwir,7-5,7,5,1,0,Completed,true,false,false
+UA002023,11 Feb 18,2,GPHC,Kooyong 1,No. 4,Ethan Amalfi,Sienna Opray,Ethan Amalfi,7-6,7,6,1,0,Completed,true,false,false
+UA002024,11 Feb 18,2,Kooyong 2,Aspendale,No. 1,Linus Wraith-Bell,Ben Garside Weinert,Linus Wraith-Bell,7-5,7,5,1,0,Completed,true,false,false
+UA002024,11 Feb 18,2,Kooyong 2,Aspendale,No. 2,Seamus Synnott,Bailey Judd,Bailey Judd,2-6,2,6,0,1,Completed,true,false,false
+UA002024,11 Feb 18,2,Kooyong 2,Aspendale,No. 3,Hudson Ciavarella,Jeremy Cullen,Hudson Ciavarella,6-2,6,2,1,0,Completed,true,false,false
+UA002024,11 Feb 18,2,Kooyong 2,Aspendale,No. 4,Matthew Sweetnam,Jasper Smith,Jasper Smith,5-7,5,7,0,1,Completed,true,false,false
+UA002031,18 Feb 18,3,Coatesville,Kooyong 2,No. 1,Thomas So,Patrick Wraith-Bell,Patrick Wraith-Bell,5-7,5,7,0,1,Completed,true,false,false
+UA002031,18 Feb 18,3,Coatesville,Kooyong 2,No. 2,Luigi Cortez,Conor Game,Conor Game,0-6,0,6,0,1,Completed,true,false,false
+UA002031,18 Feb 18,3,Coatesville,Kooyong 2,No. 3,Rakia Shwartz,Hudson Ciavarella,Rakia Shwartz,6-2,6,2,1,0,Completed,true,false,false
+UA002031,18 Feb 18,3,Coatesville,Kooyong 2,No. 4,Daniel Jiang,Matthew Sweetnam,Matthew Sweetnam,3-6,3,6,0,1,Completed,true,false,false
+UA002032,18 Feb 18,3,BLTC,Royal South Yarra,No. 1,Seb Zahra,Oscar Lynagh,Oscar Lynagh,1-6,1,6,0,1,Completed,true,false,false
+UA002032,18 Feb 18,3,BLTC,Royal South Yarra,No. 2,Ben Gerresheim,Vivienne Johnston,Ben Gerresheim,6-2,6,2,1,0,Completed,true,false,false
+UA002032,18 Feb 18,3,BLTC,Royal South Yarra,No. 3,Jacqueline Dickinson,Bailey McLean,Bailey McLean,4-6,4,6,0,1,Completed,true,false,false
+UA002032,18 Feb 18,3,BLTC,Royal South Yarra,No. 4,James Pilcher,Sam McLean,Sam McLean,0-6,0,6,0,1,Completed,true,false,false
+UA002034,18 Feb 18,3,Aspendale,GPHC,No. 1,Ben Garside Weinert,Alex Brendish,Alex Brendish,2-6,2,6,0,1,Completed,true,false,false
+UA002034,18 Feb 18,3,Aspendale,GPHC,No. 2,Dean Stavrou,Charlotte McIntosh,Charlotte McIntosh,4-6,4,6,0,1,Completed,true,false,false
+UA002034,18 Feb 18,3,Aspendale,GPHC,No. 3,Bailey Judd,Sam Heeps,Bailey Judd,6-2,6,2,1,0,Completed,true,false,false
+UA002034,18 Feb 18,3,Aspendale,GPHC,No. 4,Jeremy Cullen,Charlie Dobrotwir,Charlie Dobrotwir,3-6,3,6,0,1,Completed,true,false,false
+UA002041,25 Feb 18,4,GPHC,Coatesville,No. 1,Alex Brendish,Adrian Mitsel,Alex Brendish,6-3,6,3,1,0,Completed,true,false,false
+UA002041,25 Feb 18,4,GPHC,Coatesville,No. 2,Axel Rives,Thomas So,Thomas So,2-6,2,6,0,1,Completed,true,false,false
+UA002041,25 Feb 18,4,GPHC,Coatesville,No. 3,Charlotte McIntosh,Alexander Fell,Charlotte McIntosh,6-2,6,2,1,0,Completed,true,false,false
+UA002041,25 Feb 18,4,GPHC,Coatesville,No. 4,Ethan Amalfi,Rakia Shwartz,Rakia Shwartz,4-6,4,6,0,1,Completed,true,false,false
+UA002042,25 Feb 18,4,Kooyong 2,BLTC,No. 1,Patrick Wraith-Bell,Seb Zahra,Seb Zahra,3-6,3,6,0,1,Completed,true,false,false
+UA002042,25 Feb 18,4,Kooyong 2,BLTC,No. 2,Linus Wraith-Bell,Ben Gerresheim,Linus Wraith-Bell,6-3,6,3,1,0,Completed,true,false,false
+UA002042,25 Feb 18,4,Kooyong 2,BLTC,No. 3,Conor Game,Julius Schulze,Julius Schulze,5-7,5,7,0,1,Completed,true,false,false
+UA002042,25 Feb 18,4,Kooyong 2,BLTC,No. 4,Seamus Synnott,Nick Morris,Nick Morris,1-6,1,6,0,1,Completed,true,false,false
+UA002043,25 Feb 18,4,Royal South Yarra,Kooyong 1,No. 1,Oscar Lynagh,Sam Palazzo,Oscar Lynagh,6-0,6,0,1,0,Completed,true,false,false
+UA002043,25 Feb 18,4,Royal South Yarra,Kooyong 1,No. 2,Vivienne Johnston,Aaron Koh,Aaron Koh,1-6,1,6,0,1,Completed,true,false,false
+UA002043,25 Feb 18,4,Royal South Yarra,Kooyong 1,No. 3,Bailey McLean,Nick Wotherspoon,Bailey McLean,6-3,6,3,1,0,Completed,true,false,false
+UA002043,25 Feb 18,4,Royal South Yarra,Kooyong 1,No. 4,Sam McLean,Ben Fallon,Sam McLean,6-3,6,3,1,0,Completed,true,false,false
+UA002051,04 Mar 18,5,Kooyong 1,Aspendale,No. 1,Aaron Koh,Bailey Judd,Aaron Koh,7-5,7,5,1,0,Completed,true,false,false
+UA002051,04 Mar 18,5,Kooyong 1,Aspendale,No. 2,Nick Wotherspoon,Jeremy Cullen,Nick Wotherspoon,7-6,7,6,1,0,Completed,true,false,false
+UA002051,04 Mar 18,5,Kooyong 1,Aspendale,No. 3,Ben Fallon,Jasper Smith,Jasper Smith,2-6,2,6,0,1,Completed,true,false,false
+UA002051,04 Mar 18,5,Kooyong 1,Aspendale,No. 4,Sienna Opray,Max Kendall,Max Kendall,2-6,2,6,0,1,Completed,true,false,false
+UA002052,04 Mar 18,5,Royal South Yarra,Kooyong 2,No. 1,Oscar Lynagh,Patrick Wraith-Bell,Oscar Lynagh,6-1,6,1,1,0,Completed,true,false,false
+UA002052,04 Mar 18,5,Royal South Yarra,Kooyong 2,No. 2,Vivienne Johnston,Linus Wraith-Bell,Linus Wraith-Bell,6-7,6,7,0,1,Completed,true,false,false
+UA002052,04 Mar 18,5,Royal South Yarra,Kooyong 2,No. 3,Bailey McLean,Hudson Ciavarella,Bailey McLean,6-0,6,0,1,0,Completed,true,false,false
+UA002052,04 Mar 18,5,Royal South Yarra,Kooyong 2,No. 4,Sam McLean,Matthew Sweetnam,Matthew Sweetnam,2-6,2,6,0,1,Completed,true,false,false
+UA002054,04 Mar 18,5,Coatesville,BLTC,No. 1,Adrian Mitsel,Seb Zahra,Seb Zahra,5-7,5,7,0,1,Completed,true,false,false
+UA002054,04 Mar 18,5,Coatesville,BLTC,No. 2,Luigi Cortez,Ben Gerresheim,Ben Gerresheim,3-6,3,6,0,1,Completed,true,false,false
+UA002054,04 Mar 18,5,Coatesville,BLTC,No. 3,Alexander Fell,Jacqueline Dickinson,Jacqueline Dickinson,1-6,1,6,0,1,Completed,true,false,false
+UA002054,04 Mar 18,5,Coatesville,BLTC,No. 4,Daniel Jiang,Nick Morris,Daniel Jiang,6-4,6,4,1,0,Completed,true,false,false
+UA002061,18 Mar 18,6,BLTC,Kooyong 1,No. 1,Seb Zahra,Angus Cosgriff,Seb Zahra,4-3,4,3,1,0,Completed,false,false,false
+UA002061,18 Mar 18,6,BLTC,Kooyong 1,No. 2,Hugh Moir,Aaron Koh,Aaron Koh,1-6,1,6,0,1,Completed,true,false,false
+UA002061,18 Mar 18,6,BLTC,Kooyong 1,No. 3,Ben Gerresheim,Nick Wotherspoon,Ben Gerresheim,2-0,2,0,1,0,Completed,false,false,false
+UA002063,18 Mar 18,6,Kooyong 2,GPHC,No. 1,Patrick Wraith-Bell,Alex Brendish,Patrick Wraith-Bell,7-6,7,6,1,0,Completed,true,false,false
+UA002063,18 Mar 18,6,Kooyong 2,GPHC,No. 2,Conor Game,Charlotte McIntosh,Charlotte McIntosh,1-6,1,6,0,1,Completed,true,false,false
+UA002063,18 Mar 18,6,Kooyong 2,GPHC,No. 3,Hudson Ciavarella,Sam Heeps,Hudson Ciavarella,6-2,6,2,1,0,Completed,true,false,false
+UA002063,18 Mar 18,6,Kooyong 2,GPHC,No. 4,Matthew Sweetnam,Charlie Dobrotwir,Charlie Dobrotwir,5-7,5,7,0,1,Completed,true,false,false
+UA002071,25 Mar 18,7,Coatesville,Kooyong 1,No. 1,Adrian Mitsel,Sam Palazzo,Adrian Mitsel,6-3,6,3,1,0,Completed,true,false,false
+UA002071,25 Mar 18,7,Coatesville,Kooyong 1,No. 2,Thomas So,Nick Wotherspoon,Nick Wotherspoon,6-7,6,7,0,1,Completed,true,false,false
+UA002071,25 Mar 18,7,Coatesville,Kooyong 1,No. 3,Alexander Fell,Sienna Opray,Sienna Opray,1-6,1,6,0,1,Completed,true,false,false
+UA002071,25 Mar 18,7,Coatesville,Kooyong 1,No. 4,Rakia Shwartz,Jameson Lee,Rakia Shwartz,6-1,6,1,1,0,Completed,true,false,false
+UA002072,25 Mar 18,7,BLTC,Aspendale,No. 1,Seb Zahra,Bailey Judd,Bailey Judd,0-6,0,6,0,1,Completed,true,false,false
+UA002072,25 Mar 18,7,BLTC,Aspendale,No. 2,Hugh Moir,Jeremy Cullen,Hugh Moir,6-3,6,3,1,0,Completed,true,false,false
+UA002072,25 Mar 18,7,BLTC,Aspendale,No. 3,Ben Gerresheim,Jasper Smith,Ben Gerresheim,7-5,7,5,1,0,Completed,true,false,false
+UA002072,25 Mar 18,7,BLTC,Aspendale,No. 4,Jacqueline Dickinson,Caleb Curtis,Caleb Curtis,4-6,4,6,0,1,Completed,true,false,false
+UA002073,25 Mar 18,7,Royal South Yarra,GPHC,No. 1,Oscar Lynagh,Axel Rives,Oscar Lynagh,6-0,6,0,1,0,Completed,true,false,false
+UA002073,25 Mar 18,7,Royal South Yarra,GPHC,No. 2,Vivienne Johnston,Charlotte McIntosh,Charlotte McIntosh,1-6,1,6,0,1,Completed,true,false,false
+UA002073,25 Mar 18,7,Royal South Yarra,GPHC,No. 3,Sam McLean,Charlie Dobrotwir,Sam McLean,6-4,6,4,1,0,Completed,true,false,false
+UA002073,25 Mar 18,7,Royal South Yarra,GPHC,No. 4,Max Griffiths,Ethan Amalfi,Max Griffiths,6-2,6,2,1,0,Completed,true,false,false
+UA002082,22 Apr 18,8,GPHC,BLTC,No. 1,Alex Brendish,Seb Zahra,Alex Brendish,6-1,6,1,1,0,Completed,true,false,false
+UA002082,22 Apr 18,8,GPHC,BLTC,No. 2,Axel Rives,Hugh Moir,Hugh Moir,1-6,1,6,0,1,Completed,true,false,false
+UA002082,22 Apr 18,8,GPHC,BLTC,No. 3,Charlie Dobrotwir,Ben Gerresheim,Charlie Dobrotwir,6-4,6,4,1,0,Completed,true,false,false
+UA002082,22 Apr 18,8,GPHC,BLTC,No. 4,Ethan Amalfi,James Pilcher,James Pilcher,4-6,4,6,0,1,Completed,true,false,false
+UA002083,22 Apr 18,8,Kooyong 2,Kooyong 1,No. 1,Linus Wraith-Bell,Angus Cosgriff,Linus Wraith-Bell,6-2,6,2,1,0,Completed,true,false,false
+UA002083,22 Apr 18,8,Kooyong 2,Kooyong 1,No. 2,Seamus Synnott,Sam Palazzo,Sam Palazzo,2-6,2,6,0,1,Completed,true,false,false
+UA002083,22 Apr 18,8,Kooyong 2,Kooyong 1,No. 3,Hudson Ciavarella,Aaron Koh,Aaron Koh,3-6,3,6,0,1,Completed,true,false,false
+UA002083,22 Apr 18,8,Kooyong 2,Kooyong 1,No. 4,Matthew Sweetnam,Ben Fallon,Ben Fallon,0-6,0,6,0,1,Completed,true,false,false
+UA002084,22 Apr 18,8,Royal South Yarra,Aspendale,No. 1,Vivienne Johnston,Ben Garside Weinert,Vivienne Johnston,6-4,6,4,1,0,Completed,true,false,false
+UA002084,22 Apr 18,8,Royal South Yarra,Aspendale,No. 2,Oscar Lynagh,Jeremy Cullen,Jeremy Cullen,0-6,0,6,0,1,Completed,true,false,false
+UA002084,22 Apr 18,8,Royal South Yarra,Aspendale,No. 3,Bailey McLean,Jasper Smith,Bailey McLean,7-6,7,6,1,0,Completed,true,false,false
+UA002084,22 Apr 18,8,Royal South Yarra,Aspendale,No. 4,Sam McLean,Caleb Curtis,Caleb Curtis,0-6,0,6,0,1,Completed,true,false,false
+UA002091,29 Apr 18,9,Coatesville,Royal South Yarra,No. 1,Thomas So,Oscar Lynagh,Oscar Lynagh,3-6,3,6,0,1,Completed,true,false,false
+UA002091,29 Apr 18,9,Coatesville,Royal South Yarra,No. 2,Luigi Cortez,Vivienne Johnston,Vivienne Johnston,4-6,4,6,0,1,Completed,true,false,false
+UA002091,29 Apr 18,9,Coatesville,Royal South Yarra,No. 3,Rakia Shwartz,Bailey McLean,Bailey McLean,6-7,6,7,0,1,Completed,true,false,false
+UA002091,29 Apr 18,9,Coatesville,Royal South Yarra,No. 4,Daniel Jiang,Tom Ritter,Daniel Jiang,6-4,6,4,1,0,Completed,true,false,false
+UA002093,29 Apr 18,9,Kooyong 1,GPHC,No. 1,Aaron Koh,Alex Brendish,Alex Brendish,5-7,5,7,0,1,Completed,true,false,false
+UA002093,29 Apr 18,9,Kooyong 1,GPHC,No. 2,Nick Wotherspoon,Axel Rives,Nick Wotherspoon,6-1,6,1,1,0,Completed,true,false,false
+UA002093,29 Apr 18,9,Kooyong 1,GPHC,No. 3,Ben Fallon,Sam Heeps,Ben Fallon,6-4,6,4,1,0,Completed,true,false,false
+UA002093,29 Apr 18,9,Kooyong 1,GPHC,No. 4,Sienna Opray,Charlie Dobrotwir,Charlie Dobrotwir,0-6,0,6,0,1,Completed,true,false,false
+UA002094,29 Apr 18,9,Aspendale,Kooyong 2,No. 1,Ben Garside Weinert,Patrick Wraith-Bell,Ben Garside Weinert,6-2,6,2,1,0,Completed,true,false,false
+UA002094,29 Apr 18,9,Aspendale,Kooyong 2,No. 2,Bailey Judd,Linus Wraith-Bell,Linus Wraith-Bell,2-3,2,3,0,1,Completed,false,false,false
+UA002094,29 Apr 18,9,Aspendale,Kooyong 2,No. 3,Jeremy Ockerby,Conor Game,,6-6,6,6,0,0,Completed,false,false,false
+UA002101,06 May 18,10,Kooyong 2,Coatesville,No. 1,Patrick Wraith-Bell,Adrian Mitsel,Patrick Wraith-Bell,6-0,6,0,1,0,Completed,true,false,false
+UA002101,06 May 18,10,Kooyong 2,Coatesville,No. 2,Linus Wraith-Bell,Luigi Cortez,Linus Wraith-Bell,6-2,6,2,1,0,Completed,true,false,false
+UA002101,06 May 18,10,Kooyong 2,Coatesville,No. 3,Seamus Synnott,Alexander Fell,Alexander Fell,4-6,4,6,0,1,Completed,true,false,false
+UA002101,06 May 18,10,Kooyong 2,Coatesville,No. 4,Matthew Sweetnam,Rakia Shwartz,Rakia Shwartz,6-7,6,7,0,1,Completed,true,false,false
+UA002102,06 May 18,10,Royal South Yarra,BLTC,No. 1,Vivienne Johnston,Hugh Moir,Vivienne Johnston,6-1,6,1,1,0,Completed,true,false,false
+UA002102,06 May 18,10,Royal South Yarra,BLTC,No. 2,Oscar Lynagh,Ben Gerresheim,Ben Gerresheim,0-6,0,6,0,1,Completed,true,false,false
+UA002102,06 May 18,10,Royal South Yarra,BLTC,No. 3,Bailey McLean,Jacqueline Dickinson,Bailey McLean,6-0,6,0,1,0,Completed,true,false,false
+UA002102,06 May 18,10,Royal South Yarra,BLTC,No. 4,Tom Ritter,James Pilcher,Tom Ritter,6-2,6,2,1,0,Completed,true,false,false
+UA002104,06 May 18,10,GPHC,Aspendale,No. 1,Alex Brendish,Ben Garside Weinert,Ben Garside Weinert,5-7,5,7,0,1,Completed,true,false,false
+UA002104,06 May 18,10,GPHC,Aspendale,No. 2,Axel Rives,Bailey Judd,Bailey Judd,2-6,2,6,0,1,Completed,true,false,false
+UA002104,06 May 18,10,GPHC,Aspendale,No. 3,Sam Heeps,Jeremy Cullen,Sam Heeps,6-1,6,1,1,0,Completed,true,false,false
+UA002104,06 May 18,10,GPHC,Aspendale,No. 4,Jessica Brown,Caleb Curtis,Caleb Curtis,2-6,2,6,0,1,Completed,true,false,false
+UA002111,13 May 18,11,Coatesville,GPHC,No. 1,Adrian Mitsel,Alex Brendish,Alex Brendish,2-6,2,6,0,1,Completed,true,false,false
+UA002111,13 May 18,11,Coatesville,GPHC,No. 2,Luigi Cortez,Axel Rives,Luigi Cortez,6-2,6,2,1,0,Completed,true,false,false
+UA002111,13 May 18,11,Coatesville,GPHC,No. 3,Alexander Fell,Sam Heeps,Sam Heeps,2-6,2,6,0,1,Completed,true,false,false
+UA002111,13 May 18,11,Coatesville,GPHC,No. 4,Rakia Shwartz,Charlie Dobrotwir,Rakia Shwartz,6-4,6,4,1,0,Completed,true,false,false
+UA002112,13 May 18,11,BLTC,Kooyong 2,No. 1,Seb Zahra,Linus Wraith-Bell,Linus Wraith-Bell,1-6,1,6,0,1,Completed,true,false,false
+UA002112,13 May 18,11,BLTC,Kooyong 2,No. 2,Hugh Moir,Conor Game,Conor Game,3-6,3,6,0,1,Completed,true,false,false
+UA002112,13 May 18,11,BLTC,Kooyong 2,No. 3,Ben Gerresheim,Seamus Synnott,Ben Gerresheim,6-0,6,0,1,0,Completed,true,false,false
+UA002112,13 May 18,11,BLTC,Kooyong 2,No. 4,Jacqueline Dickinson,Hudson Ciavarella,Jacqueline Dickinson,6-4,6,4,1,0,Completed,true,false,false
+UA002121,20 May 18,12,Aspendale,Kooyong 1,No. 1,Dean Stavrou,Angus Cosgriff,Angus Cosgriff,4-6,4,6,0,1,Completed,true,false,false
+UA002121,20 May 18,12,Aspendale,Kooyong 1,No. 2,Bailey Judd,Aaron Koh,Aaron Koh,0-6,0,6,0,1,Completed,true,false,false
+UA002121,20 May 18,12,Aspendale,Kooyong 1,No. 3,Jeremy Cullen,Nick Wotherspoon,Nick Wotherspoon,2-6,2,6,0,1,Completed,true,false,false
+UA002121,20 May 18,12,Aspendale,Kooyong 1,No. 4,Caleb Curtis,Jameson Lee,Caleb Curtis,6-1,6,1,1,0,Completed,true,false,false
+UA002122,20 May 18,12,Kooyong 2,Royal South Yarra,No. 1,Linus Wraith-Bell,Vivienne Johnston,Linus Wraith-Bell,6-4,6,4,1,0,Completed,true,false,false
+UA002122,20 May 18,12,Kooyong 2,Royal South Yarra,No. 2,Conor Game,Bailey McLean,Bailey McLean,1-6,1,6,0,1,Completed,true,false,false
+UA002122,20 May 18,12,Kooyong 2,Royal South Yarra,No. 3,Seamus Synnott,Sam McLean,Sam McLean,1-6,1,6,0,1,Completed,true,false,false
+UA002122,20 May 18,12,Kooyong 2,Royal South Yarra,No. 4,Hudson Ciavarella,Laura O'Farrell,Hudson Ciavarella,7-5,7,5,1,0,Completed,true,false,false
+UA002124,20 May 18,12,BLTC,Coatesville,No. 1,Seb Zahra,Thomas So,Seb Zahra,6-0,6,0,1,0,Completed,true,false,false
+UA002124,20 May 18,12,BLTC,Coatesville,No. 2,Hugh Moir,Luigi Cortez,Hugh Moir,6-3,6,3,1,0,Completed,true,false,false
+UA002124,20 May 18,12,BLTC,Coatesville,No. 3,Jacqueline Dickinson,Rakia Shwartz,Rakia Shwartz,4-6,4,6,0,1,Completed,true,false,false
+UA002124,20 May 18,12,BLTC,Coatesville,No. 4,James Pilcher,Daniel Jiang,Daniel Jiang,2-6,2,6,0,1,Completed,true,false,false
+UA002131,27 May 18,13,Kooyong 1,BLTC,No. 1,Angus Cosgriff,Seb Zahra,Seb Zahra,4-6,4,6,0,1,Completed,true,false,false
+UA002131,27 May 18,13,Kooyong 1,BLTC,No. 2,Aaron Koh,Hugh Moir,Aaron Koh,6-4,6,4,1,0,Completed,true,false,false
+UA002131,27 May 18,13,Kooyong 1,BLTC,No. 3,Ben Fallon,Ben Gerresheim,Ben Fallon,6-4,6,4,1,0,Completed,true,false,false
+UA002131,27 May 18,13,Kooyong 1,BLTC,No. 4,Lachlan Main,James Pilcher,Lachlan Main,6-3,6,3,1,0,Completed,true,false,false
+UA002132,27 May 18,13,Coatesville,Aspendale,No. 1,Thomas So,Dean Stavrou,Dean Stavrou,1-6,1,6,0,1,Completed,true,false,false
+UA002132,27 May 18,13,Coatesville,Aspendale,No. 2,Alexander Fell,Bailey Judd,Bailey Judd,1-6,1,6,0,1,Completed,true,false,false
+UA002132,27 May 18,13,Coatesville,Aspendale,No. 3,Rakia Shwartz,Jeremy Cullen,Rakia Shwartz,7-5,7,5,1,0,Completed,true,false,false
+UA002132,27 May 18,13,Coatesville,Aspendale,No. 4,Daniel Jiang,Caleb Curtis,Caleb Curtis,6-7,6,7,0,1,Completed,true,false,false
+UA002133,27 May 18,13,GPHC,Kooyong 2,No. 1,Axel Rives,Linus Wraith-Bell,Linus Wraith-Bell,0-6,0,6,0,1,Completed,true,false,false
+UA002133,27 May 18,13,GPHC,Kooyong 2,No. 2,Sam Heeps,Seamus Synnott,Seamus Synnott,4-6,4,6,0,1,Completed,true,false,false
+UA002133,27 May 18,13,GPHC,Kooyong 2,No. 3,Charlie Dobrotwir,Hudson Ciavarella,Charlie Dobrotwir,7-5,7,5,1,0,Completed,true,false,false
+UA002133,27 May 18,13,GPHC,Kooyong 2,No. 4,Ethan Amalfi,Matthew Sweetnam,Matthew Sweetnam,2-6,2,6,0,1,Completed,true,false,false
+UA002141,03 Jun 18,14,Kooyong 1,Coatesville,No. 1,Angus Cosgriff,Adrian Mitsel,Adrian Mitsel,6-7,6,7,0,1,Completed,true,false,false
+UA002141,03 Jun 18,14,Kooyong 1,Coatesville,No. 2,Aaron Koh,Luigi Cortez,Aaron Koh,6-0,6,0,1,0,Completed,true,false,false
+UA002141,03 Jun 18,14,Kooyong 1,Coatesville,No. 3,Nick Wotherspoon,Alexander Fell,Nick Wotherspoon,6-4,6,4,1,0,Completed,true,false,false
+UA002141,03 Jun 18,14,Kooyong 1,Coatesville,No. 4,Ben Fallon,Rakia Shwartz,Ben Fallon,7-6,7,6,1,0,Completed,true,false,false
+UA002142,03 Jun 18,14,Aspendale,BLTC,No. 1,Ben Garside Weinert,Hugh Moir,Ben Garside Weinert,6-0,6,0,1,0,Completed,true,false,false
+UA002142,03 Jun 18,14,Aspendale,BLTC,No. 2,Dean Stavrou,Ben Gerresheim,Dean Stavrou,7-5,7,5,1,0,Completed,true,false,false
+UA002142,03 Jun 18,14,Aspendale,BLTC,No. 3,Jeremy Cullen,Jacqueline Dickinson,Jacqueline Dickinson,2-6,2,6,0,1,Completed,true,false,false
+UA002142,03 Jun 18,14,Aspendale,BLTC,No. 4,Mitchell Bean,James Pilcher,Mitchell Bean,6-0,6,0,1,0,Completed,true,false,false
+UA002143,03 Jun 18,14,GPHC,Royal South Yarra,No. 1,Alex Brendish,Oscar Lynagh,Oscar Lynagh,5-7,5,7,0,1,Completed,true,false,false
+UA002143,03 Jun 18,14,GPHC,Royal South Yarra,No. 2,Sam Heeps,Bailey McLean,Bailey McLean,1-6,1,6,0,1,Completed,true,false,false
+UA002143,03 Jun 18,14,GPHC,Royal South Yarra,No. 3,Charlie Dobrotwir,Sam McLean,Charlie Dobrotwir,6-2,6,2,1,0,Completed,true,false,false
+UA002143,03 Jun 18,14,GPHC,Royal South Yarra,No. 4,Ethan Amalfi,Tom Ritter,Tom Ritter,2-6,2,6,0,1,Completed,true,false,false
+UA002301,,16,Royal South Yarra,Kooyong 2,No. 1,Oscar Lynagh,Patrick Wraith-Bell,Oscar Lynagh,6-1,6,1,1,0,Completed,true,false,false
+UA002301,,16,Royal South Yarra,Kooyong 2,No. 2,Bailey McLean,Linus Wraith-Bell,Bailey McLean,6-4,6,4,1,0,Completed,true,false,false
+UA002301,,16,Royal South Yarra,Kooyong 2,No. 3,Tom Ritter,Conor Game,Conor Game,1-2,1,2,0,1,Completed,false,false,false
+UA002301,,16,Royal South Yarra,Kooyong 2,No. 4,William Beaton,Seamus Synnott,,3-3,3,3,0,0,Completed,false,true,false
+UA002302,,16,Aspendale,GPHC,No. 1,Ben Garside Weinert,Alex Brendish,Ben Garside Weinert,7-6,7,6,1,0,Completed,true,false,false
+UA002302,,16,Aspendale,GPHC,No. 2,Dean Stavrou,Charlotte McIntosh,Charlotte McIntosh,1-6,1,6,0,1,Completed,true,false,false
+UA002302,,16,Aspendale,GPHC,No. 3,Bailey Judd,Sam Heeps,Bailey Judd,6-3,6,3,1,0,Completed,true,false,false
+UA002302,,16,Aspendale,GPHC,No. 4,Caleb Curtis,Charlie Dobrotwir,Charlie Dobrotwir,6-7,6,7,0,1,Completed,true,false,false
+UA002321,,17,Royal South Yarra,GPHC,No. 1,Oscar Lynagh,Alex Brendish,Oscar Lynagh,6-4,6,4,1,0,Completed,true,false,false
+UA002321,,17,Royal South Yarra,GPHC,No. 2,Bailey McLean,Charlotte McIntosh,Bailey McLean,6-4,6,4,1,0,Completed,true,false,false
+UA002321,,17,Royal South Yarra,GPHC,No. 3,Tom Ritter,Sam Heeps,Sam Heeps,2-6,2,6,0,1,Completed,true,false,false
+UA002321,,17,Royal South Yarra,GPHC,No. 4,William Beaton,Charlie Dobrotwir,Charlie Dobrotwir,4-6,4,6,0,1,Completed,true,true,false

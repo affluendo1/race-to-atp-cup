@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA18-UA018",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2016",
+  "season_id": "UA18",
+  "season_label": "Autumn 2016",
+  "source_section_code": "UA018",
+  "section_label": "Section 18",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Coatesville",
+      "wins": 13,
+      "points": 121,
+      "percentage": 203.24,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "St Pauls",
+      "wins": 8,
+      "points": 85,
+      "percentage": 130.8,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "GPHC MLC",
+      "wins": 9,
+      "points": 80,
+      "percentage": 109.54,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Hampton",
+      "wins": 6,
+      "points": 74,
+      "percentage": 110.62,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Bodley Tennis Plus",
+      "wins": 6,
+      "points": 73,
+      "percentage": 96.14,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave",
+      "wins": 6,
+      "points": 59,
+      "percentage": 83.73,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong Xavier",
+      "wins": 2,
+      "points": 35,
+      "percentage": 64.41,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Victory Park",
+      "wins": 1,
+      "points": 33,
+      "percentage": 62.35,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA18-UA018",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 216,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

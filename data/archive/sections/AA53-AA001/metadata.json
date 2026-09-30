@@ -1,0 +1,69 @@
+{
+  "asset_id": "AA53-AA001",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Spring 2022",
+  "season_id": "AA53",
+  "season_label": "Spring 2022",
+  "source_section_code": "AA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Port Melbourne Red",
+      "wins": 7,
+      "points": 77,
+      "percentage": 132.79,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Port Melbourne Blue",
+      "wins": 7,
+      "points": 76,
+      "percentage": 123.5,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Carmelite Blue",
+      "wins": 5,
+      "points": 71,
+      "percentage": 123.91,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Royal South Yarra",
+      "wins": 3,
+      "points": 50,
+      "percentage": 91.82,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Carmelite Red",
+      "wins": 0,
+      "points": 26,
+      "percentage": 55.37,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA53-AA001",
+  "fixtures": 46,
+  "completed_fixtures": 22,
+  "draw_fixtures": 1,
+  "singles_rubbers": 88,
+  "doubles_rubbers": 44,
+  "latest_round": 16,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for AA001321"
+  ]
+}

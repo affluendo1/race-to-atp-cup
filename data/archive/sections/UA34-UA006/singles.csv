@@ -1,0 +1,233 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA006011,04 Feb 24,1,Le Page,Dendy Park #2,No. 1,Alex Zhao,Sean Stolyarov,Sean Stolyarov,5-7,5,7,0,1,Completed,true,false,false
+UA006011,04 Feb 24,1,Le Page,Dendy Park #2,No. 2,Timur Akhmedov,James Kim,James Kim,1-6,1,6,0,1,Completed,true,false,false
+UA006011,04 Feb 24,1,Le Page,Dendy Park #2,No. 3,Mitchell Campbell,Mason Ma,Mitchell Campbell,6-4,6,4,1,0,Completed,true,false,false
+UA006011,04 Feb 24,1,Le Page,Dendy Park #2,No. 4,James Wu,Aryamaan Kumar,James Wu,6-0,6,0,1,0,Completed,true,false,false
+UA006012,04 Feb 24,1,Black Rock Maroon,Hurlingham Park,No. 1,Ernie Brooks,Zachary Boatto,Ernie Brooks,6-4,6,4,1,0,Completed,true,false,false
+UA006012,04 Feb 24,1,Black Rock Maroon,Hurlingham Park,No. 2,Ella Rankin,Timeo Massenet,Timeo Massenet,1-6,1,6,0,1,Completed,true,false,false
+UA006012,04 Feb 24,1,Black Rock Maroon,Hurlingham Park,No. 3,Emma Enkelman,Veitel Lin,Veitel Lin,3-6,3,6,0,1,Completed,true,false,false
+UA006012,04 Feb 24,1,Black Rock Maroon,Hurlingham Park,No. 4,Kiara Morris,Archie Braithwaite,Archie Braithwaite,1-6,1,6,0,1,Completed,true,false,false
+UA006013,04 Feb 24,1,St Joan of Arc,Black Rock Navy,No. 1,Mac Rogers-Wilson,Marco Damiani,Mac Rogers-Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA006013,04 Feb 24,1,St Joan of Arc,Black Rock Navy,No. 2,Alexander Lasocki,Ethan Kleiman,Alexander Lasocki,6-2,6,2,1,0,Completed,true,false,false
+UA006013,04 Feb 24,1,St Joan of Arc,Black Rock Navy,No. 3,Jack Paton,Charlie Pettifer,Charlie Pettifer,0-6,0,6,0,1,Completed,true,false,false
+UA006013,04 Feb 24,1,St Joan of Arc,Black Rock Navy,No. 4,Owen Yu,Lachie Rhodes,Lachie Rhodes,1-6,1,6,0,1,Completed,true,false,false
+UA006014,04 Feb 24,1,Elsternwick Park,St Pats Mentone,No. 1,Nathan Crouch-Phan,Sam Harris,Nathan Crouch-Phan,6-1,6,1,1,0,Completed,true,false,false
+UA006014,04 Feb 24,1,Elsternwick Park,St Pats Mentone,No. 2,Tasmin Ride,Tom Gregory,Tom Gregory,1-6,1,6,0,1,Completed,true,false,false
+UA006014,04 Feb 24,1,Elsternwick Park,St Pats Mentone,No. 3,Ayaka Marutani,Xavier Stainthorpe,Xavier Stainthorpe,3-6,3,6,0,1,Completed,true,false,false
+UA006014,04 Feb 24,1,Elsternwick Park,St Pats Mentone,No. 4,Louis Wu,Noah Ryan,Noah Ryan,4-6,4,6,0,1,Completed,true,false,false
+UA006021,11 Feb 24,2,St Pats Mentone,Le Page,No. 1,Sam Harris,Alex Zhao,Sam Harris,6-4,6,4,1,0,Completed,true,false,false
+UA006021,11 Feb 24,2,St Pats Mentone,Le Page,No. 2,Tom Gregory,Timur Akhmedov,Tom Gregory,6-1,6,1,1,0,Completed,true,false,false
+UA006021,11 Feb 24,2,St Pats Mentone,Le Page,No. 3,Noah Ryan,Ethan Su,Ethan Su,3-6,3,6,0,1,Completed,true,false,false
+UA006021,11 Feb 24,2,St Pats Mentone,Le Page,No. 4,Kristof Buschkuehl,James Wu,James Wu,1-6,1,6,0,1,Completed,true,false,false
+UA006022,11 Feb 24,2,Dendy Park #2,Black Rock Maroon,No. 1,James Kim,Ernie Brooks,James Kim,6-4,6,4,1,0,Completed,true,false,false
+UA006022,11 Feb 24,2,Dendy Park #2,Black Rock Maroon,No. 2,Mason Ma,Ella Rankin,Ella Rankin,3-6,3,6,0,1,Completed,true,false,false
+UA006022,11 Feb 24,2,Dendy Park #2,Black Rock Maroon,No. 3,Aryamaan Kumar,Emma Enkelman,Aryamaan Kumar,7-6,7,6,1,0,Completed,true,false,false
+UA006022,11 Feb 24,2,Dendy Park #2,Black Rock Maroon,No. 4,Giorgio Colla,Kiara Morris,Kiara Morris,0-6,0,6,0,1,Completed,true,false,false
+UA006023,11 Feb 24,2,Hurlingham Park,St Joan of Arc,No. 1,Timeo Massenet,Mac Rogers-Wilson,Mac Rogers-Wilson,2-6,2,6,0,1,Completed,true,false,false
+UA006023,11 Feb 24,2,Hurlingham Park,St Joan of Arc,No. 2,Tomek Foroncewicz,Tiger Zhang,Tiger Zhang,3-6,3,6,0,1,Completed,true,false,false
+UA006023,11 Feb 24,2,Hurlingham Park,St Joan of Arc,No. 3,Veitel Lin,Jack Paton,Veitel Lin,7-5,7,5,1,0,Completed,true,false,false
+UA006023,11 Feb 24,2,Hurlingham Park,St Joan of Arc,No. 4,Archie Braithwaite,Owen Yu,Archie Braithwaite,6-4,6,4,1,0,Completed,true,false,false
+UA006024,11 Feb 24,2,Black Rock Navy,Elsternwick Park,No. 1,Marco Damiani,Nathan Crouch-Phan,Nathan Crouch-Phan,5-7,5,7,0,1,Completed,true,false,false
+UA006024,11 Feb 24,2,Black Rock Navy,Elsternwick Park,No. 2,Ethan Kleiman,Zavier Evans,Ethan Kleiman,6-3,6,3,1,0,Completed,true,false,false
+UA006024,11 Feb 24,2,Black Rock Navy,Elsternwick Park,No. 3,Charlie Pettifer,Nayuta Tsuchiya,Charlie Pettifer,7-6,7,6,1,0,Completed,true,false,false
+UA006024,11 Feb 24,2,Black Rock Navy,Elsternwick Park,No. 4,Lachie Rhodes,Louis Wu,Lachie Rhodes,6-0,6,0,1,0,Completed,true,false,false
+UA006031,18 Feb 24,3,Le Page,Black Rock Navy,No. 1,Alex Zhao,Marco Damiani,Alex Zhao,7-6,7,6,1,0,Completed,true,false,false
+UA006031,18 Feb 24,3,Le Page,Black Rock Navy,No. 2,Timur Akhmedov,Ethan Kleiman,Ethan Kleiman,3-6,3,6,0,1,Completed,true,false,false
+UA006031,18 Feb 24,3,Le Page,Black Rock Navy,No. 3,Ethan Su,Charlie Pettifer,Charlie Pettifer,0-6,0,6,0,1,Completed,true,false,false
+UA006031,18 Feb 24,3,Le Page,Black Rock Navy,No. 4,Mitchell Campbell,Lachie Rhodes,Lachie Rhodes,5-7,5,7,0,1,Completed,true,false,false
+UA006032,18 Feb 24,3,Black Rock Maroon,St Pats Mentone,No. 1,Ernie Brooks,Sam Harris,Ernie Brooks,6-3,6,3,1,0,Completed,true,false,false
+UA006032,18 Feb 24,3,Black Rock Maroon,St Pats Mentone,No. 2,Ella Rankin,Tom Gregory,Tom Gregory,1-6,1,6,0,1,Completed,true,false,false
+UA006032,18 Feb 24,3,Black Rock Maroon,St Pats Mentone,No. 3,Emma Enkelman,Xavier Stainthorpe,Xavier Stainthorpe,4-6,4,6,0,1,Completed,true,false,false
+UA006032,18 Feb 24,3,Black Rock Maroon,St Pats Mentone,No. 4,Kiara Morris,Noah Ryan,Noah Ryan,4-6,4,6,0,1,Completed,true,false,false
+UA006033,18 Feb 24,3,St Joan of Arc,Dendy Park #2,No. 1,Mac Rogers-Wilson,James Kim,Mac Rogers-Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA006033,18 Feb 24,3,St Joan of Arc,Dendy Park #2,No. 2,Alexander Lasocki,Mason Ma,Alexander Lasocki,6-1,6,1,1,0,Completed,true,false,false
+UA006033,18 Feb 24,3,St Joan of Arc,Dendy Park #2,No. 3,Tiger Zhang,Aryamaan Kumar,Tiger Zhang,6-4,6,4,1,0,Completed,true,false,false
+UA006033,18 Feb 24,3,St Joan of Arc,Dendy Park #2,No. 4,Jack Paton,Giorgio Colla,Jack Paton,6-2,6,2,1,0,Completed,true,false,false
+UA006034,18 Feb 24,3,Elsternwick Park,Hurlingham Park,No. 1,Zavier Evans,Zachary Boatto,Zachary Boatto,2-6,2,6,0,1,Completed,true,false,false
+UA006034,18 Feb 24,3,Elsternwick Park,Hurlingham Park,No. 2,Tasmin Ride,Timeo Massenet,Timeo Massenet,2-6,2,6,0,1,Completed,true,false,false
+UA006034,18 Feb 24,3,Elsternwick Park,Hurlingham Park,No. 3,Ayaka Marutani,Tomek Foroncewicz,Ayaka Marutani,7-5,7,5,1,0,Completed,true,false,false
+UA006034,18 Feb 24,3,Elsternwick Park,Hurlingham Park,No. 4,Nayuta Tsuchiya,Veitel Lin,Nayuta Tsuchiya,6-3,6,3,1,0,Completed,true,false,false
+UA006041,25 Feb 24,4,Hurlingham Park,Le Page,No. 1,Zachary Boatto,Timur Akhmedov,Timur Akhmedov,5-7,5,7,0,1,Completed,true,false,false
+UA006041,25 Feb 24,4,Hurlingham Park,Le Page,No. 2,Tomek Foroncewicz,Ethan Su,Tomek Foroncewicz,7-6,7,6,1,0,Completed,true,false,false
+UA006041,25 Feb 24,4,Hurlingham Park,Le Page,No. 3,Veitel Lin,Mitchell Campbell,Veitel Lin,6-3,6,3,1,0,Completed,true,false,false
+UA006041,25 Feb 24,4,Hurlingham Park,Le Page,No. 4,Archie Braithwaite,James Wu,Archie Braithwaite,6-1,6,1,1,0,Completed,true,false,false
+UA006042,25 Feb 24,4,Black Rock Navy,Black Rock Maroon,No. 1,Charlie Pettifer,James Gilbert,Charlie Pettifer,6-4,6,4,1,0,Completed,true,false,false
+UA006042,25 Feb 24,4,Black Rock Navy,Black Rock Maroon,No. 2,Ethan Kleiman,Ernie Brooks,Ethan Kleiman,6-2,6,2,1,0,Completed,true,false,false
+UA006042,25 Feb 24,4,Black Rock Navy,Black Rock Maroon,No. 3,Lachie Rhodes,Emma Enkelman,Lachie Rhodes,6-2,6,2,1,0,Completed,true,false,false
+UA006042,25 Feb 24,4,Black Rock Navy,Black Rock Maroon,No. 4,Marco Damiani,Kiara Morris,Marco Damiani,6-4,6,4,1,0,Completed,true,false,false
+UA006043,25 Feb 24,4,St Pats Mentone,St Joan of Arc,No. 1,Tom Gregory,Mac Rogers-Wilson,Mac Rogers-Wilson,4-6,4,6,0,1,Completed,true,false,false
+UA006043,25 Feb 24,4,St Pats Mentone,St Joan of Arc,No. 2,Xavier Stainthorpe,Alexander Lasocki,Alexander Lasocki,0-6,0,6,0,1,Completed,true,false,false
+UA006043,25 Feb 24,4,St Pats Mentone,St Joan of Arc,No. 3,Noah Ryan,Jack Paton,Noah Ryan,6-0,6,0,1,0,Completed,true,false,false
+UA006043,25 Feb 24,4,St Pats Mentone,St Joan of Arc,No. 4,Kristof Buschkuehl,Owen Yu,Owen Yu,2-6,2,6,0,1,Completed,true,false,false
+UA006044,25 Feb 24,4,Dendy Park #2,Elsternwick Park,No. 1,James Kim,Nathan Crouch-Phan,Nathan Crouch-Phan,3-6,3,6,0,1,Completed,true,false,false
+UA006044,25 Feb 24,4,Dendy Park #2,Elsternwick Park,No. 2,Mason Ma,Ayaka Marutani,Ayaka Marutani,0-6,0,6,0,1,Completed,true,false,false
+UA006044,25 Feb 24,4,Dendy Park #2,Elsternwick Park,No. 3,Aryamaan Kumar,Nayuta Tsuchiya,Nayuta Tsuchiya,4-6,4,6,0,1,Completed,true,false,false
+UA006044,25 Feb 24,4,Dendy Park #2,Elsternwick Park,No. 4,Giorgio Colla,Louis Wu,Louis Wu,6-7,6,7,0,1,Completed,true,false,false
+UA006051,03 Mar 24,5,St Joan of Arc,Elsternwick Park,No. 1,Mac Rogers-Wilson,Nathan Crouch-Phan,Mac Rogers-Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA006051,03 Mar 24,5,St Joan of Arc,Elsternwick Park,No. 2,Alexander Lasocki,Zavier Evans,Alexander Lasocki,6-0,6,0,1,0,Completed,true,false,false
+UA006051,03 Mar 24,5,St Joan of Arc,Elsternwick Park,No. 3,Jack Paton,Tasmin Ride,Tasmin Ride,4-6,4,6,0,1,Completed,true,false,false
+UA006051,03 Mar 24,5,St Joan of Arc,Elsternwick Park,No. 4,Owen Yu,Louis Wu,Louis Wu,2-6,2,6,0,1,Completed,true,false,false
+UA006052,03 Mar 24,5,St Pats Mentone,Black Rock Navy,No. 1,Tom Gregory,Charlie Pettifer,Charlie Pettifer,4-6,4,6,0,1,Completed,true,false,false
+UA006052,03 Mar 24,5,St Pats Mentone,Black Rock Navy,No. 2,Xavier Stainthorpe,Ethan Kleiman,Ethan Kleiman,3-6,3,6,0,1,Completed,true,false,false
+UA006052,03 Mar 24,5,St Pats Mentone,Black Rock Navy,No. 3,Noah Ryan,Marco Damiani,Marco Damiani,5-7,5,7,0,1,Completed,true,false,false
+UA006052,03 Mar 24,5,St Pats Mentone,Black Rock Navy,No. 4,Kristof Buschkuehl,Luke Desmond,Luke Desmond,0-6,0,6,0,1,Completed,true,false,true
+UA006053,03 Mar 24,5,Hurlingham Park,Dendy Park #2,No. 1,Zachary Boatto,James Kim,James Kim,6-7,6,7,0,1,Completed,true,false,false
+UA006053,03 Mar 24,5,Hurlingham Park,Dendy Park #2,No. 2,Timeo Massenet,Mason Ma,Timeo Massenet,6-0,6,0,1,0,Completed,true,false,false
+UA006053,03 Mar 24,5,Hurlingham Park,Dendy Park #2,No. 3,Tomek Foroncewicz,Giorgio Colla,Giorgio Colla,4-6,4,6,0,1,Completed,true,false,false
+UA006053,03 Mar 24,5,Hurlingham Park,Dendy Park #2,No. 4,Archie Braithwaite,Flynn Nguyen,Archie Braithwaite,6-3,6,3,1,0,Completed,true,false,false
+UA006054,03 Mar 24,5,Le Page,Black Rock Maroon,No. 1,Alex Zhao,James Gilbert,Alex Zhao,6-3,6,3,1,0,Completed,true,false,false
+UA006054,03 Mar 24,5,Le Page,Black Rock Maroon,No. 2,Timur Akhmedov,Ernie Brooks,Ernie Brooks,0-6,0,6,0,1,Completed,true,false,false
+UA006054,03 Mar 24,5,Le Page,Black Rock Maroon,No. 3,Ethan Su,Ella Rankin,Ethan Su,6-4,6,4,1,0,Completed,true,false,false
+UA006054,03 Mar 24,5,Le Page,Black Rock Maroon,No. 4,Mitchell Campbell,Emma Enkelman,Emma Enkelman,5-7,5,7,0,1,Completed,true,false,false
+UA006061,17 Mar 24,6,Black Rock Maroon,St Joan of Arc,No. 1,James Gilbert,Mac Rogers-Wilson,Mac Rogers-Wilson,2-6,2,6,0,1,Completed,true,false,false
+UA006061,17 Mar 24,6,Black Rock Maroon,St Joan of Arc,No. 2,Ella Rankin,Alexander Lasocki,Alexander Lasocki,1-6,1,6,0,1,Completed,true,false,false
+UA006061,17 Mar 24,6,Black Rock Maroon,St Joan of Arc,No. 3,Kiara Morris,Tiger Zhang,Kiara Morris,6-4,6,4,1,0,Completed,true,false,false
+UA006061,17 Mar 24,6,Black Rock Maroon,St Joan of Arc,No. 4,Amelie Smith,Owen Yu,Amelie Smith,7-5,7,5,1,0,Completed,true,false,false
+UA006062,17 Mar 24,6,Elsternwick Park,Le Page,No. 1,Nathan Crouch-Phan,Alex Zhao,Nathan Crouch-Phan,6-1,6,1,1,0,Completed,true,false,false
+UA006062,17 Mar 24,6,Elsternwick Park,Le Page,No. 2,Tasmin Ride,Timur Akhmedov,Tasmin Ride,6-1,6,1,1,0,Completed,true,false,false
+UA006062,17 Mar 24,6,Elsternwick Park,Le Page,No. 3,Ayaka Marutani,Ethan Su,Ethan Su,4-6,4,6,0,1,Completed,true,false,false
+UA006062,17 Mar 24,6,Elsternwick Park,Le Page,No. 4,Nayuta Tsuchiya,Mitchell Campbell,Mitchell Campbell,5-7,5,7,0,1,Completed,true,false,false
+UA006063,17 Mar 24,6,Black Rock Navy,Hurlingham Park,No. 1,Charlie Pettifer,Renny Thurlow,Charlie Pettifer,6-1,6,1,1,0,Completed,true,false,true
+UA006063,17 Mar 24,6,Black Rock Navy,Hurlingham Park,No. 2,Ethan Kleiman,Timeo Massenet,Ethan Kleiman,6-1,6,1,1,0,Completed,true,false,false
+UA006063,17 Mar 24,6,Black Rock Navy,Hurlingham Park,No. 3,Lachie Rhodes,Veitel Lin,Lachie Rhodes,6-2,6,2,1,0,Completed,true,false,false
+UA006063,17 Mar 24,6,Black Rock Navy,Hurlingham Park,No. 4,Marco Damiani,Archie Braithwaite,Marco Damiani,6-1,6,1,1,0,Completed,true,false,false
+UA006064,17 Mar 24,6,Dendy Park #2,St Pats Mentone,No. 1,James Kim,Sam Harris,James Kim,6-3,6,3,1,0,Completed,true,false,false
+UA006064,17 Mar 24,6,Dendy Park #2,St Pats Mentone,No. 2,Aryamaan Kumar,Tom Gregory,Aryamaan Kumar,6-3,6,3,1,0,Completed,true,false,false
+UA006064,17 Mar 24,6,Dendy Park #2,St Pats Mentone,No. 3,Giorgio Colla,Xavier Stainthorpe,Xavier Stainthorpe,4-6,4,6,0,1,Completed,true,false,false
+UA006064,17 Mar 24,6,Dendy Park #2,St Pats Mentone,No. 4,Flynn Nguyen,Kristof Buschkuehl,Kristof Buschkuehl,3-6,3,6,0,1,Completed,true,false,false
+UA006071,24 Mar 24,7,Le Page,St Joan of Arc,No. 1,Alex Zhao,Mac Rogers-Wilson,Mac Rogers-Wilson,3-6,3,6,0,1,Completed,true,false,false
+UA006071,24 Mar 24,7,Le Page,St Joan of Arc,No. 2,Timur Akhmedov,Alexander Lasocki,Alexander Lasocki,1-6,1,6,0,1,Completed,true,false,false
+UA006071,24 Mar 24,7,Le Page,St Joan of Arc,No. 3,Ethan Su,Jack Paton,Ethan Su,6-2,6,2,1,0,Completed,true,false,false
+UA006071,24 Mar 24,7,Le Page,St Joan of Arc,No. 4,Mitchell Campbell,[Unnamed player — TROLS UA006071 away code 4],Mitchell Campbell,6-0,6,0,1,0,Completed,false,false,false
+UA006072,24 Mar 24,7,Black Rock Maroon,Elsternwick Park,No. 1,James Gilbert,Tasmin Ride,Tasmin Ride,3-6,3,6,0,1,Completed,true,false,false
+UA006072,24 Mar 24,7,Black Rock Maroon,Elsternwick Park,No. 2,Ernie Brooks,Nayuta Tsuchiya,Ernie Brooks,6-3,6,3,1,0,Completed,true,false,false
+UA006072,24 Mar 24,7,Black Rock Maroon,Elsternwick Park,No. 3,Emma Enkelman,Louis Wu,Emma Enkelman,6-2,6,2,1,0,Completed,true,false,false
+UA006072,24 Mar 24,7,Black Rock Maroon,Elsternwick Park,No. 4,Amelie Smith,Henry Sims,Henry Sims,0-6,0,6,0,1,Completed,true,false,true
+UA006073,24 Mar 24,7,St Pats Mentone,Hurlingham Park,No. 1,Tom Gregory,Zachary Boatto,Tom Gregory,7-5,7,5,1,0,Completed,true,false,false
+UA006073,24 Mar 24,7,St Pats Mentone,Hurlingham Park,No. 2,Xavier Stainthorpe,Timeo Massenet,Timeo Massenet,1-6,1,6,0,1,Completed,true,false,false
+UA006073,24 Mar 24,7,St Pats Mentone,Hurlingham Park,No. 3,Noah Ryan,Tomek Foroncewicz,Noah Ryan,6-4,6,4,1,0,Completed,true,false,false
+UA006073,24 Mar 24,7,St Pats Mentone,Hurlingham Park,No. 4,Kristof Buschkuehl,Archie Braithwaite,Archie Braithwaite,3-6,3,6,0,1,Completed,true,false,false
+UA006074,24 Mar 24,7,Black Rock Navy,Dendy Park #2,No. 1,Charlie Pettifer,James Kim,James Kim,2-6,2,6,0,1,Completed,true,false,false
+UA006074,24 Mar 24,7,Black Rock Navy,Dendy Park #2,No. 2,Ethan Kleiman,Aryamaan Kumar,Ethan Kleiman,6-3,6,3,1,0,Completed,true,false,false
+UA006074,24 Mar 24,7,Black Rock Navy,Dendy Park #2,No. 3,Lachie Rhodes,Giorgio Colla,Lachie Rhodes,6-1,6,1,1,0,Completed,true,false,false
+UA006074,24 Mar 24,7,Black Rock Navy,Dendy Park #2,No. 4,Marco Damiani,Flynn Nguyen,Marco Damiani,6-1,6,1,1,0,Completed,true,false,false
+UA006081,21 Apr 24,8,Dendy Park #2,Le Page,No. 1,James Kim,Alex Zhao,James Kim,7-6,7,6,1,0,Completed,true,false,false
+UA006081,21 Apr 24,8,Dendy Park #2,Le Page,No. 2,Sean Stolyarov,Timur Akhmedov,Sean Stolyarov,6-2,6,2,1,0,Completed,true,false,false
+UA006081,21 Apr 24,8,Dendy Park #2,Le Page,No. 3,Aryamaan Kumar,Ethan Su,Ethan Su,6-7,6,7,0,1,Completed,true,false,false
+UA006081,21 Apr 24,8,Dendy Park #2,Le Page,No. 4,Giorgio Colla,Mitchell Campbell,Mitchell Campbell,1-6,1,6,0,1,Completed,true,false,false
+UA006082,21 Apr 24,8,Hurlingham Park,Black Rock Maroon,No. 1,Zachary Boatto,Ella Rankin,Zachary Boatto,6-4,6,4,1,0,Completed,true,false,false
+UA006082,21 Apr 24,8,Hurlingham Park,Black Rock Maroon,No. 2,Tomek Foroncewicz,Emma Enkelman,Tomek Foroncewicz,6-4,6,4,1,0,Completed,true,false,false
+UA006082,21 Apr 24,8,Hurlingham Park,Black Rock Maroon,No. 3,Veitel Lin,Kiara Morris,Veitel Lin,6-3,6,3,1,0,Completed,true,false,false
+UA006082,21 Apr 24,8,Hurlingham Park,Black Rock Maroon,No. 4,Archie Braithwaite,Amelie Smith,Archie Braithwaite,7-6,7,6,1,0,Completed,true,false,false
+UA006083,21 Apr 24,8,Black Rock Navy,St Joan of Arc,No. 1,Charlie Pettifer,Mac Rogers-Wilson,Mac Rogers-Wilson,4-6,4,6,0,1,Completed,true,false,false
+UA006083,21 Apr 24,8,Black Rock Navy,St Joan of Arc,No. 2,Ethan Kleiman,Alexander Lasocki,Ethan Kleiman,7-5,7,5,1,0,Completed,true,false,false
+UA006083,21 Apr 24,8,Black Rock Navy,St Joan of Arc,No. 3,Marco Damiani,Jack Paton,Marco Damiani,6-1,6,1,1,0,Completed,true,false,false
+UA006083,21 Apr 24,8,Black Rock Navy,St Joan of Arc,No. 4,Luke Desmond,Owen Yu,Luke Desmond,6-3,6,3,1,0,Completed,true,true,false
+UA006084,21 Apr 24,8,St Pats Mentone,Elsternwick Park,No. 1,Sam Harris,Nathan Crouch-Phan,Nathan Crouch-Phan,0-6,0,6,0,1,Completed,true,false,false
+UA006084,21 Apr 24,8,St Pats Mentone,Elsternwick Park,No. 2,Tom Gregory,Tasmin Ride,Tom Gregory,6-4,6,4,1,0,Completed,true,false,false
+UA006084,21 Apr 24,8,St Pats Mentone,Elsternwick Park,No. 3,Braedan Carey,Ayaka Marutani,Ayaka Marutani,2-6,2,6,0,1,Completed,true,true,false
+UA006084,21 Apr 24,8,St Pats Mentone,Elsternwick Park,No. 4,Kristof Buschkuehl,Louis Wu,Kristof Buschkuehl,6-3,6,3,1,0,Completed,true,false,false
+UA006091,28 Apr 24,9,Le Page,St Pats Mentone,No. 1,Alex Zhao,Sam Harris,Alex Zhao,6-2,6,2,1,0,Completed,true,false,false
+UA006091,28 Apr 24,9,Le Page,St Pats Mentone,No. 2,Ethan Su,Tom Gregory,Tom Gregory,4-6,4,6,0,1,Completed,true,false,false
+UA006091,28 Apr 24,9,Le Page,St Pats Mentone,No. 3,Mitchell Campbell,Noah Ryan,Mitchell Campbell,6-4,6,4,1,0,Completed,true,false,false
+UA006091,28 Apr 24,9,Le Page,St Pats Mentone,No. 4,James Wu,Kristof Buschkuehl,James Wu,6-2,6,2,1,0,Completed,true,false,false
+UA006092,28 Apr 24,9,Black Rock Maroon,Dendy Park #2,No. 1,Ernie Brooks,James Kim,James Kim,2-6,2,6,0,1,Completed,true,false,false
+UA006092,28 Apr 24,9,Black Rock Maroon,Dendy Park #2,No. 2,Emma Enkelman,Sean Stolyarov,Sean Stolyarov,2-6,2,6,0,1,Completed,true,false,false
+UA006092,28 Apr 24,9,Black Rock Maroon,Dendy Park #2,No. 3,Kiara Morris,Aryamaan Kumar,Aryamaan Kumar,2-6,2,6,0,1,Completed,true,false,false
+UA006092,28 Apr 24,9,Black Rock Maroon,Dendy Park #2,No. 4,Amelie Smith,Giorgio Colla,Giorgio Colla,4-6,4,6,0,1,Completed,true,false,false
+UA006093,28 Apr 24,9,St Joan of Arc,Hurlingham Park,No. 1,Mac Rogers-Wilson,Zachary Boatto,Zachary Boatto,3-6,3,6,0,1,Completed,true,false,false
+UA006093,28 Apr 24,9,St Joan of Arc,Hurlingham Park,No. 2,Alexander Lasocki,Timeo Massenet,Alexander Lasocki,6-1,6,1,1,0,Completed,true,false,false
+UA006093,28 Apr 24,9,St Joan of Arc,Hurlingham Park,No. 3,Jack Paton,Tomek Foroncewicz,Jack Paton,7-5,7,5,1,0,Completed,true,false,false
+UA006093,28 Apr 24,9,St Joan of Arc,Hurlingham Park,No. 4,Owen Yu,Veitel Lin,Veitel Lin,5-7,5,7,0,1,Completed,true,false,false
+UA006094,28 Apr 24,9,Elsternwick Park,Black Rock Navy,No. 1,Tasmin Ride,Charlie Pettifer,Charlie Pettifer,2-6,2,6,0,1,Completed,true,false,false
+UA006094,28 Apr 24,9,Elsternwick Park,Black Rock Navy,No. 2,Ayaka Marutani,Ethan Kleiman,Ethan Kleiman,3-6,3,6,0,1,Completed,true,false,false
+UA006094,28 Apr 24,9,Elsternwick Park,Black Rock Navy,No. 3,Nayuta Tsuchiya,Lachie Rhodes,Nayuta Tsuchiya,6-4,6,4,1,0,Completed,true,false,false
+UA006094,28 Apr 24,9,Elsternwick Park,Black Rock Navy,No. 4,Louis Wu,Marco Damiani,Marco Damiani,1-6,1,6,0,1,Completed,true,false,false
+UA006101,05 May 24,10,Black Rock Navy,Le Page,No. 1,Charlie Pettifer,Alex Zhao,Charlie Pettifer,6-2,6,2,1,0,Completed,true,false,false
+UA006101,05 May 24,10,Black Rock Navy,Le Page,No. 2,Ethan Kleiman,Ethan Su,Ethan Kleiman,6-3,6,3,1,0,Completed,true,false,false
+UA006101,05 May 24,10,Black Rock Navy,Le Page,No. 3,[Unnamed player — TROLS UA006101 home code 3],Jasmine Petkoff,Jasmine Petkoff,0-6,0,6,0,1,Completed,false,false,true
+UA006101,05 May 24,10,Black Rock Navy,Le Page,No. 4,Marco Damiani,Jacinta Li,Marco Damiani,6-0,6,0,1,0,Completed,true,false,true
+UA006102,05 May 24,10,St Pats Mentone,Black Rock Maroon,No. 1,Sam Harris,Ernie Brooks,Ernie Brooks,1-6,1,6,0,1,Completed,true,false,false
+UA006102,05 May 24,10,St Pats Mentone,Black Rock Maroon,No. 2,Tom Gregory,Ella Rankin,Tom Gregory,6-2,6,2,1,0,Completed,true,false,false
+UA006102,05 May 24,10,St Pats Mentone,Black Rock Maroon,No. 3,Noah Ryan,Emma Enkelman,Noah Ryan,7-5,7,5,1,0,Completed,true,false,false
+UA006102,05 May 24,10,St Pats Mentone,Black Rock Maroon,No. 4,Kristof Buschkuehl,Amelie Smith,Kristof Buschkuehl,7-5,7,5,1,0,Completed,true,false,false
+UA006103,05 May 24,10,Dendy Park #2,St Joan of Arc,No. 1,James Kim,Mac Rogers-Wilson,James Kim,6-4,6,4,1,0,Completed,true,false,false
+UA006103,05 May 24,10,Dendy Park #2,St Joan of Arc,No. 2,Sean Stolyarov,Alexander Lasocki,Alexander Lasocki,1-6,1,6,0,1,Completed,true,false,false
+UA006103,05 May 24,10,Dendy Park #2,St Joan of Arc,No. 3,Flynn Nguyen,Tiger Zhang,Tiger Zhang,1-6,1,6,0,1,Completed,true,false,false
+UA006103,05 May 24,10,Dendy Park #2,St Joan of Arc,No. 4,Mason Ma,Jack Paton,Jack Paton,5-7,5,7,0,1,Completed,true,false,false
+UA006104,05 May 24,10,Hurlingham Park,Elsternwick Park,No. 1,Zachary Boatto,Ayaka Marutani,Zachary Boatto,6-2,6,2,1,0,Completed,true,false,false
+UA006104,05 May 24,10,Hurlingham Park,Elsternwick Park,No. 2,Timeo Massenet,Nayuta Tsuchiya,Timeo Massenet,6-1,6,1,1,0,Completed,true,false,false
+UA006104,05 May 24,10,Hurlingham Park,Elsternwick Park,No. 3,Veitel Lin,Anikin Margis,Anikin Margis,6-7,6,7,0,1,Completed,true,false,true
+UA006104,05 May 24,10,Hurlingham Park,Elsternwick Park,No. 4,Archie Braithwaite,Masa Asano,Archie Braithwaite,7-5,7,5,1,0,Completed,true,false,true
+UA006111,12 May 24,11,Le Page,Hurlingham Park,No. 1,Alex Zhao,Zachary Boatto,Alex Zhao,6-3,6,3,1,0,Completed,true,false,false
+UA006111,12 May 24,11,Le Page,Hurlingham Park,No. 2,Timur Akhmedov,Timeo Massenet,Timeo Massenet,0-6,0,6,0,1,Completed,true,false,false
+UA006111,12 May 24,11,Le Page,Hurlingham Park,No. 3,Ethan Su,Tomek Foroncewicz,Ethan Su,6-4,6,4,1,0,Completed,true,false,false
+UA006111,12 May 24,11,Le Page,Hurlingham Park,No. 4,Mitchell Campbell,Veitel Lin,Mitchell Campbell,6-3,6,3,1,0,Completed,true,false,false
+UA006113,12 May 24,11,St Joan of Arc,St Pats Mentone,No. 1,Mac Rogers-Wilson,Sam Harris,Mac Rogers-Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA006113,12 May 24,11,St Joan of Arc,St Pats Mentone,No. 2,Alexander Lasocki,Tom Gregory,Alexander Lasocki,6-2,6,2,1,0,Completed,true,false,false
+UA006113,12 May 24,11,St Joan of Arc,St Pats Mentone,No. 3,Jack Paton,Noah Ryan,Jack Paton,6-2,6,2,1,0,Completed,true,false,false
+UA006113,12 May 24,11,St Joan of Arc,St Pats Mentone,No. 4,Owen Yu,Kristof Buschkuehl,Owen Yu,6-3,6,3,1,0,Completed,true,false,false
+UA006114,12 May 24,11,Elsternwick Park,Dendy Park #2,No. 1,Nathan Crouch-Phan,James Kim,Nathan Crouch-Phan,6-3,6,3,1,0,Completed,true,false,false
+UA006114,12 May 24,11,Elsternwick Park,Dendy Park #2,No. 2,Ayaka Marutani,Sean Stolyarov,Sean Stolyarov,4-6,4,6,0,1,Completed,true,false,false
+UA006114,12 May 24,11,Elsternwick Park,Dendy Park #2,No. 3,Nayuta Tsuchiya,Aryamaan Kumar,Nayuta Tsuchiya,7-5,7,5,1,0,Completed,true,false,false
+UA006114,12 May 24,11,Elsternwick Park,Dendy Park #2,No. 4,Louis Wu,Giorgio Colla,Giorgio Colla,5-7,5,7,0,1,Completed,true,false,false
+UA006121,19 May 24,12,Elsternwick Park,St Joan of Arc,No. 1,Nathan Crouch-Phan,Mac Rogers-Wilson,Mac Rogers-Wilson,5-7,5,7,0,1,Completed,true,false,false
+UA006121,19 May 24,12,Elsternwick Park,St Joan of Arc,No. 2,Nayuta Tsuchiya,Alexander Lasocki,Alexander Lasocki,4-6,4,6,0,1,Completed,true,false,false
+UA006121,19 May 24,12,Elsternwick Park,St Joan of Arc,No. 3,Louis Wu,Jack Paton,Louis Wu,7-6,7,6,1,0,Completed,true,false,false
+UA006121,19 May 24,12,Elsternwick Park,St Joan of Arc,No. 4,Evan Yu,Owen Yu,Owen Yu,1-6,1,6,0,1,Completed,true,true,false
+UA006122,19 May 24,12,Black Rock Navy,St Pats Mentone,No. 1,Charlie Pettifer,Sam Harris,Charlie Pettifer,6-0,6,0,1,0,Completed,true,false,false
+UA006122,19 May 24,12,Black Rock Navy,St Pats Mentone,No. 2,Ethan Kleiman,Xavier Stainthorpe,Xavier Stainthorpe,3-6,3,6,0,1,Completed,true,false,false
+UA006122,19 May 24,12,Black Rock Navy,St Pats Mentone,No. 3,Lachie Rhodes,Noah Ryan,Noah Ryan,3-6,3,6,0,1,Completed,true,false,false
+UA006122,19 May 24,12,Black Rock Navy,St Pats Mentone,No. 4,Marco Damiani,Kristof Buschkuehl,Marco Damiani,6-1,6,1,1,0,Completed,true,false,false
+UA006123,19 May 24,12,Dendy Park #2,Hurlingham Park,No. 1,James Kim,Zachary Boatto,Zachary Boatto,4-6,4,6,0,1,Completed,true,false,false
+UA006123,19 May 24,12,Dendy Park #2,Hurlingham Park,No. 2,Sean Stolyarov,Timeo Massenet,Timeo Massenet,3-6,3,6,0,1,Completed,true,false,false
+UA006123,19 May 24,12,Dendy Park #2,Hurlingham Park,No. 3,Aryamaan Kumar,Veitel Lin,Aryamaan Kumar,6-2,6,2,1,0,Completed,true,false,false
+UA006123,19 May 24,12,Dendy Park #2,Hurlingham Park,No. 4,Giorgio Colla,Archie Braithwaite,Archie Braithwaite,3-6,3,6,0,1,Completed,true,false,false
+UA006124,19 May 24,12,Black Rock Maroon,Le Page,No. 1,Ernie Brooks,Alex Zhao,Alex Zhao,3-6,3,6,0,1,Completed,true,false,false
+UA006124,19 May 24,12,Black Rock Maroon,Le Page,No. 2,Ella Rankin,Timur Akhmedov,Timur Akhmedov,2-6,2,6,0,1,Completed,true,false,false
+UA006124,19 May 24,12,Black Rock Maroon,Le Page,No. 3,Kiara Morris,Mitchell Campbell,Mitchell Campbell,5-7,5,7,0,1,Completed,true,false,false
+UA006124,19 May 24,12,Black Rock Maroon,Le Page,No. 4,Amelie Smith,James Wu,Amelie Smith,6-4,6,4,1,0,Completed,true,false,false
+UA006131,26 May 24,13,St Joan of Arc,Black Rock Maroon,No. 1,Mac Rogers-Wilson,Ella Rankin,Mac Rogers-Wilson,6-0,6,0,1,0,Completed,true,false,false
+UA006131,26 May 24,13,St Joan of Arc,Black Rock Maroon,No. 2,Alexander Lasocki,Emma Enkelman,Alexander Lasocki,6-0,6,0,1,0,Completed,true,false,false
+UA006131,26 May 24,13,St Joan of Arc,Black Rock Maroon,No. 3,Jack Paton,Kiara Morris,Kiara Morris,5-7,5,7,0,1,Completed,true,false,false
+UA006131,26 May 24,13,St Joan of Arc,Black Rock Maroon,No. 4,Owen Yu,Amelie Smith,Amelie Smith,3-6,3,6,0,1,Completed,true,false,false
+UA006132,26 May 24,13,Le Page,Elsternwick Park,No. 1,Timur Akhmedov,Nathan Crouch-Phan,Nathan Crouch-Phan,0-6,0,6,0,1,Completed,true,false,false
+UA006132,26 May 24,13,Le Page,Elsternwick Park,No. 2,Ethan Su,Ayaka Marutani,Ayaka Marutani,4-6,4,6,0,1,Completed,true,false,false
+UA006132,26 May 24,13,Le Page,Elsternwick Park,No. 3,Mitchell Campbell,Nayuta Tsuchiya,Mitchell Campbell,6-2,6,2,1,0,Completed,true,false,false
+UA006132,26 May 24,13,Le Page,Elsternwick Park,No. 4,James Wu,Louis Wu,James Wu,6-4,6,4,1,0,Completed,true,false,false
+UA006133,26 May 24,13,Hurlingham Park,Black Rock Navy,No. 1,Timeo Massenet,Charlie Pettifer,Charlie Pettifer,0-6,0,6,0,1,Completed,true,false,false
+UA006133,26 May 24,13,Hurlingham Park,Black Rock Navy,No. 2,Tomek Foroncewicz,Ethan Kleiman,Ethan Kleiman,1-6,1,6,0,1,Completed,true,false,false
+UA006133,26 May 24,13,Hurlingham Park,Black Rock Navy,No. 3,Veitel Lin,Lachie Rhodes,Lachie Rhodes,6-7,6,7,0,1,Completed,true,false,false
+UA006133,26 May 24,13,Hurlingham Park,Black Rock Navy,No. 4,Archie Braithwaite,Marco Damiani,Marco Damiani,2-6,2,6,0,1,Completed,true,false,false
+UA006134,26 May 24,13,St Pats Mentone,Dendy Park #2,No. 1,Tom Gregory,James Kim,Tom Gregory,6-0,6,0,1,0,Completed,true,false,false
+UA006134,26 May 24,13,St Pats Mentone,Dendy Park #2,No. 2,Xavier Stainthorpe,Sean Stolyarov,Sean Stolyarov,2-6,2,6,0,1,Completed,true,false,false
+UA006134,26 May 24,13,St Pats Mentone,Dendy Park #2,No. 3,Noah Ryan,Aryamaan Kumar,Aryamaan Kumar,3-6,3,6,0,1,Completed,true,false,false
+UA006134,26 May 24,13,St Pats Mentone,Dendy Park #2,No. 4,Kristof Buschkuehl,Giorgio Colla,Giorgio Colla,2-6,2,6,0,1,Completed,true,false,false
+UA006141,02 Jun 24,14,St Joan of Arc,Le Page,No. 1,Mac Rogers-Wilson,Alex Zhao,Mac Rogers-Wilson,6-2,6,2,1,0,Completed,true,false,false
+UA006141,02 Jun 24,14,St Joan of Arc,Le Page,No. 2,Alexander Lasocki,Timur Akhmedov,Alexander Lasocki,6-0,6,0,1,0,Completed,true,false,false
+UA006141,02 Jun 24,14,St Joan of Arc,Le Page,No. 3,Jack Paton,Ethan Su,Jack Paton,6-3,6,3,1,0,Completed,true,false,false
+UA006141,02 Jun 24,14,St Joan of Arc,Le Page,No. 4,Owen Yu,Mitchell Campbell,Mitchell Campbell,5-7,5,7,0,1,Completed,true,false,false
+UA006142,02 Jun 24,14,Elsternwick Park,Black Rock Maroon,No. 1,Nathan Crouch-Phan,Ella Rankin,Nathan Crouch-Phan,6-4,6,4,1,0,Completed,true,false,false
+UA006142,02 Jun 24,14,Elsternwick Park,Black Rock Maroon,No. 2,Ayaka Marutani,Emma Enkelman,Emma Enkelman,0-6,0,6,0,1,Completed,true,false,false
+UA006142,02 Jun 24,14,Elsternwick Park,Black Rock Maroon,No. 3,Nayuta Tsuchiya,Kiara Morris,Nayuta Tsuchiya,6-2,6,2,1,0,Completed,true,false,false
+UA006142,02 Jun 24,14,Elsternwick Park,Black Rock Maroon,No. 4,Louis Wu,Alex Enkelman,Alex Enkelman,3-6,3,6,0,1,Completed,true,false,true
+UA006143,02 Jun 24,14,Hurlingham Park,St Pats Mentone,No. 1,Zachary Boatto,Sam Harris,Zachary Boatto,6-2,6,2,1,0,Completed,true,false,false
+UA006143,02 Jun 24,14,Hurlingham Park,St Pats Mentone,No. 2,Timeo Massenet,Tom Gregory,Tom Gregory,4-6,4,6,0,1,Completed,true,false,false
+UA006143,02 Jun 24,14,Hurlingham Park,St Pats Mentone,No. 3,Tomek Foroncewicz,Xavier Stainthorpe,Tomek Foroncewicz,6-2,6,2,1,0,Completed,true,false,false
+UA006143,02 Jun 24,14,Hurlingham Park,St Pats Mentone,No. 4,Archie Braithwaite,Noah Ryan,Archie Braithwaite,7-6,7,6,1,0,Completed,true,false,false
+UA006144,02 Jun 24,14,Dendy Park #2,Black Rock Navy,No. 1,James Kim,Charlie Pettifer,Charlie Pettifer,3-6,3,6,0,1,Completed,true,false,false
+UA006144,02 Jun 24,14,Dendy Park #2,Black Rock Navy,No. 2,Sean Stolyarov,Ethan Kleiman,Ethan Kleiman,3-6,3,6,0,1,Completed,true,false,false
+UA006144,02 Jun 24,14,Dendy Park #2,Black Rock Navy,No. 3,Flynn Nguyen,Lachie Rhodes,Lachie Rhodes,0-6,0,6,0,1,Completed,true,false,false
+UA006144,02 Jun 24,14,Dendy Park #2,Black Rock Navy,No. 4,Mason Ma,Marco Damiani,Marco Damiani,0-6,0,6,0,1,Completed,true,false,false
+UA006301,,16,Black Rock Navy,Le Page,No. 1,Charlie Pettifer,Alex Zhao,Charlie Pettifer,6-3,6,3,1,0,Completed,true,false,false
+UA006301,,16,Black Rock Navy,Le Page,No. 2,Ethan Kleiman,Timur Akhmedov,Ethan Kleiman,6-0,6,0,1,0,Completed,true,false,false
+UA006301,,16,Black Rock Navy,Le Page,No. 3,Lachie Rhodes,Ethan Su,Lachie Rhodes,6-3,6,3,1,0,Completed,true,false,false
+UA006301,,16,Black Rock Navy,Le Page,No. 4,Marco Damiani,Mitchell Campbell,Marco Damiani,6-1,6,1,1,0,Completed,true,false,false
+UA006302,,16,Hurlingham Park,St Joan of Arc,No. 1,Zachary Boatto,Mac Rogers-Wilson,Zachary Boatto,7-5,7,5,1,0,Completed,true,false,false
+UA006302,,16,Hurlingham Park,St Joan of Arc,No. 2,Timeo Massenet,Alexander Lasocki,Alexander Lasocki,5-7,5,7,0,1,Completed,true,false,false
+UA006302,,16,Hurlingham Park,St Joan of Arc,No. 3,Veitel Lin,Jack Paton,Veitel Lin,6-2,6,2,1,0,Completed,true,false,false
+UA006302,,16,Hurlingham Park,St Joan of Arc,No. 4,Archie Braithwaite,Owen Yu,Archie Braithwaite,6-1,6,1,1,0,Completed,true,false,false
+UA006321,,17,Black Rock Navy,Hurlingham Park,No. 1,Charlie Pettifer,Zachary Boatto,Charlie Pettifer,6-3,6,3,1,0,Completed,true,false,false
+UA006321,,17,Black Rock Navy,Hurlingham Park,No. 2,Ethan Kleiman,Timeo Massenet,Ethan Kleiman,6-1,6,1,1,0,Completed,true,false,false
+UA006321,,17,Black Rock Navy,Hurlingham Park,No. 3,Marco Damiani,Tomek Foroncewicz,Marco Damiani,6-3,6,3,1,0,Completed,true,false,false
+UA006321,,17,Black Rock Navy,Hurlingham Park,No. 4,Toby Leeds,Veitel Lin,Veitel Lin,2-6,2,6,0,1,Completed,true,true,false

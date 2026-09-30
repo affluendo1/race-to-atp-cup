@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA16-UA005",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2015",
+  "season_id": "UA16",
+  "season_label": "Autumn 2015",
+  "source_section_code": "UA005",
+  "section_label": "Section 5",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Hampton",
+      "wins": 9,
+      "points": 104,
+      "percentage": 186.47,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "GPHC",
+      "wins": 6,
+      "points": 94,
+      "percentage": 153.23,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kooyong 1",
+      "wins": 6,
+      "points": 76,
+      "percentage": 109.6,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 7,
+      "points": 74,
+      "percentage": 90.53,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Maccabi",
+      "wins": 4,
+      "points": 62,
+      "percentage": 90.06,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Lauriston",
+      "wins": 4,
+      "points": 56,
+      "percentage": 79.31,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Bodley Tennis Plus",
+      "wins": 3,
+      "points": 55,
+      "percentage": 82.35,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong 2",
+      "wins": 1,
+      "points": 39,
+      "percentage": 71.6,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA16-UA005",
+  "fixtures": 59,
+  "completed_fixtures": 44,
+  "draw_fixtures": 59,
+  "singles_rubbers": 176,
+  "doubles_rubbers": 88,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,81 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA001021,11 Feb 23,2,Port Melbourne Red,Carmelite Red,No. 1,Lachlan Gordon,Danill Levashov,Lachlan Gordon,7-5,7,5,1,0,Completed,true,false,false
+AA001021,11 Feb 23,2,Port Melbourne Red,Carmelite Red,No. 2,Nicholas Cifone,Hudson Bacon,Hudson Bacon,3-6,3,6,0,1,Completed,true,false,false
+AA001021,11 Feb 23,2,Port Melbourne Red,Carmelite Red,No. 3,Cooper Griggs,Talia Kiprilis,Cooper Griggs,6-1,6,1,1,0,Completed,true,false,false
+AA001021,11 Feb 23,2,Port Melbourne Red,Carmelite Red,No. 4,Liam Chadwick,Zack Slade,Zack Slade,2-6,2,6,0,1,Completed,true,false,false
+AA001022,11 Feb 23,2,Carmelite Blue,Port Melbourne Blue,No. 1,Charlie Smit,Cameron Gordon,Cameron Gordon,3-6,3,6,0,1,Completed,true,false,false
+AA001022,11 Feb 23,2,Carmelite Blue,Port Melbourne Blue,No. 2,Marcus Eddy,Omar Kamel,Omar Kamel,4-6,4,6,0,1,Completed,true,false,false
+AA001022,11 Feb 23,2,Carmelite Blue,Port Melbourne Blue,No. 3,Levijn Van den Brink,Lucas Daskalos,Levijn Van den Brink,6-4,6,4,1,0,Completed,true,false,false
+AA001022,11 Feb 23,2,Carmelite Blue,Port Melbourne Blue,No. 4,Oscar Barnett,Stefan Karapandzic,Oscar Barnett,6-2,6,2,1,0,Completed,true,false,false
+AA001031,18 Feb 23,3,Port Melbourne Blue,Carmelite Red,No. 1,Omar Kamel,Danill Levashov,Omar Kamel,7-5,7,5,1,0,Completed,true,false,false
+AA001031,18 Feb 23,3,Port Melbourne Blue,Carmelite Red,No. 2,Lucas Daskalos,Hudson Bacon,Hudson Bacon,6-7,6,7,0,1,Completed,true,false,false
+AA001031,18 Feb 23,3,Port Melbourne Blue,Carmelite Red,No. 3,Stefan Karapandzic,Marius Gozdzicki,Marius Gozdzicki,1-6,1,6,0,1,Completed,true,false,false
+AA001031,18 Feb 23,3,Port Melbourne Blue,Carmelite Red,No. 4,Bryson Walters,Zack Slade,Zack Slade,2-6,2,6,0,1,Completed,true,false,false
+AA001032,18 Feb 23,3,Carmelite Blue,Port Melbourne Red,No. 1,Charlie Smit,Lachlan Gordon,Lachlan Gordon,2-6,2,6,0,1,Completed,true,false,false
+AA001032,18 Feb 23,3,Carmelite Blue,Port Melbourne Red,No. 2,Levijn Van den Brink,Aariv Singh,Levijn Van den Brink,6-3,6,3,1,0,Completed,true,false,false
+AA001032,18 Feb 23,3,Carmelite Blue,Port Melbourne Red,No. 3,Oscar Barnett,Cooper Griggs,Oscar Barnett,6-1,6,1,1,0,Completed,true,false,false
+AA001032,18 Feb 23,3,Carmelite Blue,Port Melbourne Red,No. 4,Mani Peter,Liam Chadwick,Liam Chadwick,0-6,0,6,0,1,Completed,true,false,false
+AA001041,25 Feb 23,4,Port Melbourne Red,Port Melbourne Blue,No. 1,Nicholas Cifone,Cameron Gordon,Cameron Gordon,4-6,4,6,0,1,Completed,true,false,false
+AA001041,25 Feb 23,4,Port Melbourne Red,Port Melbourne Blue,No. 2,Aariv Singh,Omar Kamel,Omar Kamel,2-6,2,6,0,1,Completed,true,false,false
+AA001041,25 Feb 23,4,Port Melbourne Red,Port Melbourne Blue,No. 3,Cooper Griggs,Stefan Karapandzic,Cooper Griggs,6-3,6,3,1,0,Completed,true,false,false
+AA001041,25 Feb 23,4,Port Melbourne Red,Port Melbourne Blue,No. 4,Liam Chadwick,Bryson Walters,Liam Chadwick,6-3,6,3,1,0,Completed,true,false,false
+AA001042,25 Feb 23,4,Carmelite Blue,Carmelite Red,No. 1,Charlie Smit,Danill Levashov,Charlie Smit,6-2,6,2,1,0,Completed,true,false,false
+AA001042,25 Feb 23,4,Carmelite Blue,Carmelite Red,No. 2,Marcus Eddy,Marius Gozdzicki,Marcus Eddy,6-1,6,1,1,0,Completed,true,false,false
+AA001042,25 Feb 23,4,Carmelite Blue,Carmelite Red,No. 3,Levijn Van den Brink,Talia Kiprilis,Levijn Van den Brink,6-2,6,2,1,0,Completed,true,false,false
+AA001042,25 Feb 23,4,Carmelite Blue,Carmelite Red,No. 4,Mani Peter,Zack Slade,Mani Peter,6-1,6,1,1,0,Completed,true,false,false
+AA001051,04 Mar 23,5,Carmelite Red,Port Melbourne Red,No. 1,Danill Levashov,Lachlan Gordon,Danill Levashov,6-0,6,0,1,0,Completed,true,false,false
+AA001051,04 Mar 23,5,Carmelite Red,Port Melbourne Red,No. 2,Hudson Bacon,Nicholas Cifone,Nicholas Cifone,3-6,3,6,0,1,Completed,true,false,false
+AA001051,04 Mar 23,5,Carmelite Red,Port Melbourne Red,No. 3,Marius Gozdzicki,Aariv Singh,Aariv Singh,3-6,3,6,0,1,Completed,true,false,false
+AA001051,04 Mar 23,5,Carmelite Red,Port Melbourne Red,No. 4,Talia Kiprilis,Liam Chadwick,Liam Chadwick,6-7,6,7,0,1,Completed,true,false,false
+AA001052,04 Mar 23,5,Port Melbourne Blue,Carmelite Blue,No. 1,Cameron Gordon,Charlie Smit,Charlie Smit,2-6,2,6,0,1,Completed,true,false,false
+AA001052,04 Mar 23,5,Port Melbourne Blue,Carmelite Blue,No. 2,Omar Kamel,Marcus Eddy,Omar Kamel,6-1,6,1,1,0,Completed,true,false,false
+AA001052,04 Mar 23,5,Port Melbourne Blue,Carmelite Blue,No. 3,Lucas Daskalos,Oscar Barnett,Lucas Daskalos,6-2,6,2,1,0,Completed,true,false,false
+AA001052,04 Mar 23,5,Port Melbourne Blue,Carmelite Blue,No. 4,Bryson Walters,Mani Peter,Mani Peter,1-6,1,6,0,1,Completed,true,false,false
+AA001061,18 Mar 23,6,Carmelite Red,Port Melbourne Blue,No. 1,Hudson Bacon,Cameron Gordon,Cameron Gordon,1-6,1,6,0,1,Completed,true,false,false
+AA001061,18 Mar 23,6,Carmelite Red,Port Melbourne Blue,No. 2,Marius Gozdzicki,Lucas Daskalos,Marius Gozdzicki,6-1,6,1,1,0,Completed,true,false,false
+AA001061,18 Mar 23,6,Carmelite Red,Port Melbourne Blue,No. 3,Talia Kiprilis,Stefan Karapandzic,Stefan Karapandzic,2-6,2,6,0,1,Completed,true,false,false
+AA001061,18 Mar 23,6,Carmelite Red,Port Melbourne Blue,No. 4,Zack Slade,Bryson Walters,Bryson Walters,4-6,4,6,0,1,Completed,true,false,false
+AA001062,18 Mar 23,6,Port Melbourne Red,Carmelite Blue,No. 1,Lachlan Gordon,Charlie Smit,Lachlan Gordon,6-3,6,3,1,0,Completed,true,false,false
+AA001062,18 Mar 23,6,Port Melbourne Red,Carmelite Blue,No. 2,Nicholas Cifone,Levijn Van den Brink,Nicholas Cifone,6-3,6,3,1,0,Completed,true,false,false
+AA001062,18 Mar 23,6,Port Melbourne Red,Carmelite Blue,No. 3,Aariv Singh,Oscar Barnett,Aariv Singh,6-0,6,0,1,0,Completed,true,false,false
+AA001062,18 Mar 23,6,Port Melbourne Red,Carmelite Blue,No. 4,Cooper Griggs,Mani Peter,Cooper Griggs,6-1,6,1,1,0,Completed,true,false,false
+AA001071,25 Mar 23,7,Port Melbourne Blue,Port Melbourne Red,No. 1,Cameron Gordon,Lachlan Gordon,Lachlan Gordon,4-6,4,6,0,1,Completed,true,false,false
+AA001071,25 Mar 23,7,Port Melbourne Blue,Port Melbourne Red,No. 2,Omar Kamel,Nicholas Cifone,Omar Kamel,7-6,7,6,1,0,Completed,true,false,false
+AA001071,25 Mar 23,7,Port Melbourne Blue,Port Melbourne Red,No. 3,Lucas Daskalos,Cooper Griggs,Lucas Daskalos,6-4,6,4,1,0,Completed,true,false,false
+AA001071,25 Mar 23,7,Port Melbourne Blue,Port Melbourne Red,No. 4,Stefan Karapandzic,Liam Chadwick,Liam Chadwick,6-7,6,7,0,1,Completed,true,false,false
+AA001072,25 Mar 23,7,Carmelite Red,Carmelite Blue,No. 1,Danill Levashov,Nicholas Peyerl,Danill Levashov,6-4,6,4,1,0,Completed,true,false,true
+AA001072,25 Mar 23,7,Carmelite Red,Carmelite Blue,No. 2,Hudson Bacon,Levijn Van den Brink,Hudson Bacon,7-6,7,6,1,0,Completed,true,false,false
+AA001072,25 Mar 23,7,Carmelite Red,Carmelite Blue,No. 3,Talia Kiprilis,Oscar Barnett,Talia Kiprilis,6-3,6,3,1,0,Completed,true,false,false
+AA001072,25 Mar 23,7,Carmelite Red,Carmelite Blue,No. 4,Zack Slade,Mani Peter,Mani Peter,3-6,3,6,0,1,Completed,true,false,false
+AA001091,29 Apr 23,9,Port Melbourne Blue,Carmelite Red,No. 1,Cameron Gordon,Danill Levashov,Danill Levashov,2-6,2,6,0,1,Completed,true,false,false
+AA001091,29 Apr 23,9,Port Melbourne Blue,Carmelite Red,No. 2,Omar Kamel,Peter Schmollinger,Peter Schmollinger,1-6,1,6,0,1,Completed,true,false,true
+AA001091,29 Apr 23,9,Port Melbourne Blue,Carmelite Red,No. 3,Lucas Daskalos,Hudson Bacon,Hudson Bacon,5-7,5,7,0,1,Completed,true,false,false
+AA001091,29 Apr 23,9,Port Melbourne Blue,Carmelite Red,No. 4,Bryson Walters,Zack Slade,Bryson Walters,6-1,6,1,1,0,Completed,true,false,false
+AA001092,29 Apr 23,9,Carmelite Blue,Port Melbourne Red,No. 1,Marcus Eddy,Nicholas Cifone,Nicholas Cifone,6-7,6,7,0,1,Completed,true,false,false
+AA001092,29 Apr 23,9,Carmelite Blue,Port Melbourne Red,No. 2,Levijn Van den Brink,Aariv Singh,Aariv Singh,4-6,4,6,0,1,Completed,true,false,false
+AA001092,29 Apr 23,9,Carmelite Blue,Port Melbourne Red,No. 3,Oscar Barnett,Cooper Griggs,Cooper Griggs,4-6,4,6,0,1,Completed,true,false,false
+AA001092,29 Apr 23,9,Carmelite Blue,Port Melbourne Red,No. 4,Mani Peter,Liam Chadwick,Liam Chadwick,4-6,4,6,0,1,Completed,true,false,false
+AA001111,13 May 23,11,Carmelite Red,Port Melbourne Red,No. 1,Danill Levashov,Lachlan Gordon,Danill Levashov,6-4,6,4,1,0,Completed,true,false,false
+AA001111,13 May 23,11,Carmelite Red,Port Melbourne Red,No. 2,Peter Schmollinger,Nicholas Cifone,Peter Schmollinger,6-2,6,2,1,0,Completed,true,true,false
+AA001111,13 May 23,11,Carmelite Red,Port Melbourne Red,No. 3,Jakob Schmollinger,Aariv Singh,Jakob Schmollinger,6-1,6,1,1,0,Completed,true,true,false
+AA001111,13 May 23,11,Carmelite Red,Port Melbourne Red,No. 4,Talia Kiprilis,Cooper Griggs,Talia Kiprilis,6-1,6,1,1,0,Completed,true,false,false
+AA001112,13 May 23,11,Port Melbourne Blue,Carmelite Blue,No. 1,Cameron Gordon,Charlie Smit,Charlie Smit,4-6,4,6,0,1,Completed,true,false,false
+AA001112,13 May 23,11,Port Melbourne Blue,Carmelite Blue,No. 2,Omar Kamel,Marcus Eddy,Omar Kamel,6-0,6,0,1,0,Completed,true,false,false
+AA001112,13 May 23,11,Port Melbourne Blue,Carmelite Blue,No. 3,Lucas Daskalos,Levijn Van den Brink,Levijn Van den Brink,0-6,0,6,0,1,Completed,true,false,false
+AA001112,13 May 23,11,Port Melbourne Blue,Carmelite Blue,No. 4,Stefan Karapandzic,Oscar Barnett,Oscar Barnett,1-6,1,6,0,1,Completed,true,false,false
+AA001121,20 May 23,12,Carmelite Red,Port Melbourne Blue,No. 1,Danill Levashov,Cameron Gordon,,5-5,5,5,0,0,Completed,false,false,false
+AA001121,20 May 23,12,Carmelite Red,Port Melbourne Blue,No. 2,Marius Gozdzicki,Lucas Daskalos,Marius Gozdzicki,5-1,5,1,1,0,Completed,true,false,false
+AA001121,20 May 23,12,Carmelite Red,Port Melbourne Blue,No. 3,Talia Kiprilis,Stefan Karapandzic,Talia Kiprilis,6-2,6,2,1,0,Completed,true,false,false
+AA001121,20 May 23,12,Carmelite Red,Port Melbourne Blue,No. 4,Zack Slade,Bryson Walters,Zack Slade,6-2,6,2,1,0,Completed,true,false,false
+AA001131,27 May 23,13,Port Melbourne Blue,Port Melbourne Red,No. 1,Omar Kamel,Nicholas Cifone,Omar Kamel,6-1,6,1,1,0,Completed,true,false,false
+AA001131,27 May 23,13,Port Melbourne Blue,Port Melbourne Red,No. 2,Lucas Daskalos,Aariv Singh,Aariv Singh,1-6,1,6,0,1,Completed,true,false,false
+AA001131,27 May 23,13,Port Melbourne Blue,Port Melbourne Red,No. 3,Stefan Karapandzic,Cooper Griggs,Cooper Griggs,1-6,1,6,0,1,Completed,true,false,false
+AA001131,27 May 23,13,Port Melbourne Blue,Port Melbourne Red,No. 4,Bryson Walters,Liam Chadwick,Bryson Walters,6-4,6,4,1,0,Completed,true,false,false
+AA001132,27 May 23,13,Carmelite Red,Carmelite Blue,No. 1,Danill Levashov,Charlie Smit,Danill Levashov,6-4,6,4,1,0,Completed,true,false,false
+AA001132,27 May 23,13,Carmelite Red,Carmelite Blue,No. 2,Hudson Bacon,Marcus Eddy,Marcus Eddy,1-6,1,6,0,1,Completed,true,false,false
+AA001132,27 May 23,13,Carmelite Red,Carmelite Blue,No. 3,Marius Gozdzicki,Oscar Barnett,Marius Gozdzicki,6-0,6,0,1,0,Completed,true,false,false
+AA001132,27 May 23,13,Carmelite Red,Carmelite Blue,No. 4,Zack Slade,Mani Peter,Mani Peter,4-6,4,6,0,1,Completed,true,false,false
+AA001321,,16,Carmelite Red,Port Melbourne Red,No. 1,Danill Levashov,Lachlan Gordon,Lachlan Gordon,2-6,2,6,0,1,Completed,true,false,false
+AA001321,,16,Carmelite Red,Port Melbourne Red,No. 2,Marcus Eddy,Nicholas Cifone,Marcus Eddy,7-5,7,5,1,0,Completed,true,true,false
+AA001321,,16,Carmelite Red,Port Melbourne Red,No. 3,Hudson Bacon,Cooper Griggs,Hudson Bacon,6-2,6,2,1,0,Completed,true,false,false
+AA001321,,16,Carmelite Red,Port Melbourne Red,No. 4,Talia Kiprilis,Liam Chadwick,Liam Chadwick,2-6,2,6,0,1,Completed,true,false,false

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA20-UA019",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2017",
+  "season_id": "UA20",
+  "season_label": "Autumn 2017",
+  "source_section_code": "UA019",
+  "section_label": "Section 19",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Elsternwick Park",
+      "wins": 13,
+      "points": 120,
+      "percentage": 188.71,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Black Rock 1",
+      "wins": 10,
+      "points": 88,
+      "percentage": 116.17,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "St Andrews MB BG",
+      "wins": 8,
+      "points": 73.5,
+      "percentage": 104.24,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC MLC",
+      "wins": 6,
+      "points": 62,
+      "percentage": 94.01,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St Pauls 1",
+      "wins": 5,
+      "points": 62,
+      "percentage": 92.8,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Black Rock 2",
+      "wins": 4,
+      "points": 55,
+      "percentage": 80.53,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St Pauls 2",
+      "wins": 4,
+      "points": 50,
+      "percentage": 82.62,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Coatesville",
+      "wins": 4,
+      "points": 49.5,
+      "percentage": 74.47,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA20-UA019",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

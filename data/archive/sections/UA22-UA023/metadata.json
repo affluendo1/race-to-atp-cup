@@ -1,0 +1,85 @@
+{
+  "asset_id": "UA22-UA023",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA023",
+  "section_label": "Section 23",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Parkdale",
+      "wins": 11,
+      "points": 98.5,
+      "percentage": 184.5,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Hurlingham Park",
+      "wins": 10,
+      "points": 86,
+      "percentage": 135.16,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Coatesville",
+      "wins": 8,
+      "points": 79,
+      "percentage": 140.5,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "St Leonards Tennis",
+      "wins": 4,
+      "points": 54,
+      "percentage": 101.08,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Victory Park",
+      "wins": 4,
+      "points": 46,
+      "percentage": 76.28,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong Xavier",
+      "wins": 3,
+      "points": 41,
+      "percentage": 83.02,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 0,
+      "points": 15.5,
+      "percentage": 36.69,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA023",
+  "fixtures": 59,
+  "completed_fixtures": 44,
+  "draw_fixtures": 45,
+  "singles_rubbers": 176,
+  "doubles_rubbers": 88,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for UA023101"
+  ]
+}

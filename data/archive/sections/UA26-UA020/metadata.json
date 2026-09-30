@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA26-UA020",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2020",
+  "season_id": "UA26",
+  "season_label": "Autumn 2020",
+  "source_section_code": "UA020",
+  "section_label": "Section 20",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Elsternwick Park",
+      "wins": 5,
+      "points": 55,
+      "percentage": 366.0,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Glen Huntly",
+      "wins": 5,
+      "points": 50,
+      "percentage": 272.13,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Lauriston",
+      "wins": 4,
+      "points": 43,
+      "percentage": 152.48,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kings Park",
+      "wins": 4,
+      "points": 40,
+      "percentage": 121.14,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Mentone",
+      "wins": 1,
+      "points": 20,
+      "percentage": 76.22,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC MLC",
+      "wins": 1,
+      "points": 15,
+      "percentage": 52.5,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 11,
+      "percentage": 63.91,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Centenary Park",
+      "wins": 0,
+      "points": 6,
+      "percentage": 17.98,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA26-UA020",
+  "fixtures": 24,
+  "completed_fixtures": 20,
+  "draw_fixtures": 42,
+  "singles_rubbers": 80,
+  "doubles_rubbers": 40,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

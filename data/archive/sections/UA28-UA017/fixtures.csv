@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA017011,31 Jan 21,1,regular,Round 1,Mentone,St Pauls,10,0,6,0,,,36,7,Completed,
+UA017012,31 Jan 21,1,regular,Round 1,GPHC,Elsternwick Park,2,8,2,4,,,28,29,Completed,
+UA017013,31 Jan 21,1,regular,Round 1,Black Rock,Highett,2,8,2,4,,,17,30,Completed,
+UA017014,31 Jan 21,1,regular,Round 1,Murrumbeena,Carmelite,7,3,3,3,,,32,26,Completed,
+UA017022,07 Feb 21,2,regular,Round 2,St Pauls,GPHC,2,8,2,4,,,21,30,Completed,
+UA017023,07 Feb 21,2,regular,Round 2,Elsternwick Park,Black Rock,9,1,5,1,,,37,19,Completed,
+UA017024,07 Feb 21,2,regular,Round 2,Highett,Murrumbeena,8,2,4,2,,,27,23,Completed,
+pending-ua017-r2-carmelite-mentone,07 Feb 21,2,regular,Round 2,Carmelite,Mentone,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua017-r3-black-rock-st-pauls,14 Feb 21,3,regular,Round 3,Black Rock,St Pauls,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua017-r3-gphc-carmelite,14 Feb 21,3,regular,Round 3,GPHC,Carmelite,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua017-r3-mentone-highett,14 Feb 21,3,regular,Round 3,Mentone,Highett,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua017-r3-murrumbeena-elsternwick-park,14 Feb 21,3,regular,Round 3,Murrumbeena,Elsternwick Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA017041,21 Feb 21,4,regular,Round 4,Elsternwick Park,Mentone,2,8,2,4,,,25,28,Completed,
+UA017042,21 Feb 21,4,regular,Round 4,Highett,GPHC,8,2,4,2,,,28,24,Completed,
+UA017044,21 Feb 21,4,regular,Round 4,St Pauls,Murrumbeena,2,8,2,4,,,25,35,Completed,
+pending-ua017-r4-carmelite-black-rock,21 Feb 21,4,regular,Round 4,Carmelite,Black Rock,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA017051,28 Feb 21,5,regular,Round 5,Black Rock,Murrumbeena,7,3,3,3,,,29,25,Completed,
+UA017052,28 Feb 21,5,regular,Round 5,Carmelite,Highett,1,9,1,5,,,17,35,Completed,
+UA017053,28 Feb 21,5,regular,Round 5,Elsternwick Park,St Pauls,9,1,5,1,,,36,24,Completed,
+UA017054,28 Feb 21,5,regular,Round 5,Mentone,GPHC,7,3,3,3,,,31,23,Completed,
+UA017061,14 Mar 21,6,regular,Round 6,GPHC,Black Rock,1,9,1,5,,,23,31,Completed,
+UA017062,14 Mar 21,6,regular,Round 6,Murrumbeena,Mentone,9,1,5,1,,,31,20,Completed,
+UA017063,14 Mar 21,6,regular,Round 6,Highett,Elsternwick Park,9,1,5,1,,,32,24,Completed,
+UA017064,14 Mar 21,6,regular,Round 6,St Pauls,Carmelite,7,3,3,3,,,28,26,Completed,
+UA017071,21 Mar 21,7,regular,Round 7,Mentone,Black Rock,8,2,4,2,,,25,24,Completed,
+UA017074,21 Mar 21,7,regular,Round 7,Highett,St Pauls,9,1,5,1,,,36,15,Completed,
+pending-ua017-r7-carmelite-elsternwick-park,21 Mar 21,7,regular,Round 7,Carmelite,Elsternwick Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua017-r7-gphc-murrumbeena,21 Mar 21,7,regular,Round 7,GPHC,Murrumbeena,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA017081,28 Mar 21,8,regular,Round 8,St Pauls,Mentone,2,8,2,4,,,25,32,Completed,
+UA017082,28 Mar 21,8,regular,Round 8,Elsternwick Park,GPHC,2,8,2,4,,,25,29,Completed,
+UA017083,28 Mar 21,8,regular,Round 8,Highett,Black Rock,2,8,2,4,,,26,35,Completed,
+UA017084,28 Mar 21,8,regular,Round 8,Carmelite,Murrumbeena,2,8,2,4,,,29,29,Completed,
+UA017091,02 May 21,9,regular,Round 9,Mentone,Carmelite,2,8,2,4,,,21,25,Completed,
+UA017092,02 May 21,9,regular,Round 9,GPHC,St Pauls,9,1,5,1,,,33,17,Completed,
+UA017093,02 May 21,9,regular,Round 9,Black Rock,Elsternwick Park,2,8,2,4,,,22,28,Completed,
+UA017094,02 May 21,9,regular,Round 9,Murrumbeena,Highett,2,8,2,4,,,22,29,Completed,
+UA017101,09 May 21,10,regular,Round 10,Highett,Mentone,9,1,5,1,,,34,21,Completed,
+UA017102,09 May 21,10,regular,Round 10,Carmelite,GPHC,3,7,3,3,,,21,28,Completed,
+UA017103,09 May 21,10,regular,Round 10,St Pauls,Black Rock,1,9,1,5,,,16,32,Completed,
+UA017104,09 May 21,10,regular,Round 10,Elsternwick Park,Murrumbeena,4,6,4,2,,,25,22,Completed,
+UA017111,16 May 21,11,regular,Round 11,Mentone,Elsternwick Park,1,9,1,5,,,20,32,Completed,
+UA017112,16 May 21,11,regular,Round 11,GPHC,Highett,1,9,1,5,,,21,31,Completed,
+UA017113,16 May 21,11,regular,Round 11,Black Rock,Carmelite,7,3,3,3,,,28,23,Completed,
+UA017114,16 May 21,11,regular,Round 11,Murrumbeena,St Pauls,7,3,3,3,,,27,20,Completed,
+UA017121,23 May 21,12,regular,Round 12,Murrumbeena,Black Rock,5,5,3,3,,,22,22,Completed,
+UA017122,23 May 21,12,regular,Round 12,Highett,Carmelite,9,1,5,1,,,34,17,Completed,
+UA017123,23 May 21,12,regular,Round 12,St Pauls,Elsternwick Park,2,8,2,4,,,24,32,Completed,
+UA017124,23 May 21,12,regular,Round 12,GPHC,Mentone,2,8,2,4,,,28,31,Completed,
+pending-ua017-r13-black-rock-gphc,30 May 21,13,regular,Round 13,Black Rock,GPHC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua017-r13-carmelite-st-pauls,30 May 21,13,regular,Round 13,Carmelite,St Pauls,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua017-r13-elsternwick-park-highett,30 May 21,13,regular,Round 13,Elsternwick Park,Highett,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua017-r13-mentone-murrumbeena,30 May 21,13,regular,Round 13,Mentone,Murrumbeena,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA017301,,16,semi_final,Semi-final,Highett,Mentone,8.5,1.5,4,1,,,27,15,Completed,
+UA017302,,16,semi_final,Semi-final,Elsternwick Park,Murrumbeena,8.5,1.5,4,1,,,26,21,Completed,
+UA017321,,17,grand_final,Grand final · TROLS entry 2,Highett,Elsternwick Park,7,3,3,3,,,32,24,Completed,

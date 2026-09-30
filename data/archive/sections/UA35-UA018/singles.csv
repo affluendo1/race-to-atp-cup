@@ -1,0 +1,221 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA018011,21 Jul 24,1,Le Page,GPHC,No. 1,Yohan Singh,Josh Chew,Yohan Singh,6-4,6,4,1,0,Completed,true,false,false
+UA018011,21 Jul 24,1,Le Page,GPHC,No. 2,Jacob Pho,Edmund Tee-Wu,Jacob Pho,6-0,6,0,1,0,Completed,true,false,false
+UA018011,21 Jul 24,1,Le Page,GPHC,No. 3,Alex Liang,Claire Upjohn,Claire Upjohn,2-6,2,6,0,1,Completed,true,false,false
+UA018011,21 Jul 24,1,Le Page,GPHC,No. 4,Mitchell Loimaranta,Ella Pearce,Ella Pearce,3-6,3,6,0,1,Completed,true,false,false
+UA018012,21 Jul 24,1,Coatesville,Kooyong,No. 1,Leia Marwick,Freddy Nasis,Freddy Nasis,2-6,2,6,0,1,Completed,true,false,false
+UA018012,21 Jul 24,1,Coatesville,Kooyong,No. 2,Shivika Singh,Angus Murray,Shivika Singh,6-4,6,4,1,0,Completed,true,false,false
+UA018012,21 Jul 24,1,Coatesville,Kooyong,No. 3,Max Beruldsen,Ivan Cesal,Ivan Cesal,4-6,4,6,0,1,Completed,true,true,false
+UA018012,21 Jul 24,1,Coatesville,Kooyong,No. 4,Zoe Vines,Ashton Koon,Ashton Koon,3-6,3,6,0,1,Completed,true,false,false
+UA018013,21 Jul 24,1,Highmoor Uniting,Black Rock,No. 1,Lachlan Stark,Emelia Huxley,Lachlan Stark,6-2,6,2,1,0,Completed,true,false,false
+UA018013,21 Jul 24,1,Highmoor Uniting,Black Rock,No. 2,Samuel Wende,Isaac Donovan,Isaac Donovan,2-6,2,6,0,1,Completed,true,false,false
+UA018013,21 Jul 24,1,Highmoor Uniting,Black Rock,No. 3,Thomas Saynor,Sam Lynn,Thomas Saynor,6-4,6,4,1,0,Completed,true,false,false
+UA018013,21 Jul 24,1,Highmoor Uniting,Black Rock,No. 4,Lucas Smith,Robbie North,Robbie North,2-6,2,6,0,1,Completed,true,true,false
+UA018014,21 Jul 24,1,St Joan of Arc,Victory Park,No. 1,Kris Xu,So Nagayama,So Nagayama,6-7,6,7,0,1,Completed,true,false,false
+UA018014,21 Jul 24,1,St Joan of Arc,Victory Park,No. 2,Kevin Courtney,Aoi Mizuta,Kevin Courtney,6-0,6,0,1,0,Completed,true,false,false
+UA018014,21 Jul 24,1,St Joan of Arc,Victory Park,No. 3,Eddie Sauerbrunn,An Higuchi,An Higuchi,4-6,4,6,0,1,Completed,true,false,false
+UA018014,21 Jul 24,1,St Joan of Arc,Victory Park,No. 4,Sam Tregear,Cameron Wilson,Sam Tregear,6-0,6,0,1,0,Completed,true,false,false
+UA018031,04 Aug 24,3,Le Page,Black Rock,No. 1,Yohan Singh,Emelia Huxley,Emelia Huxley,5-7,5,7,0,1,Completed,true,false,false
+UA018031,04 Aug 24,3,Le Page,Black Rock,No. 2,Jacob Pho,Sam Lynn,Sam Lynn,3-6,3,6,0,1,Completed,true,false,false
+UA018031,04 Aug 24,3,Le Page,Black Rock,No. 3,Alex Liang,Jacob Qu,Alex Liang,6-2,6,2,1,0,Completed,true,false,false
+UA018031,04 Aug 24,3,Le Page,Black Rock,No. 4,Mitchell Loimaranta,Cleo Pye,Mitchell Loimaranta,6-1,6,1,1,0,Completed,true,false,false
+UA018032,04 Aug 24,3,Coatesville,Victory Park,No. 1,Shivika Singh,So Nagayama,Shivika Singh,6-4,6,4,1,0,Completed,true,false,false
+UA018032,04 Aug 24,3,Coatesville,Victory Park,No. 2,Hayley Lam,Aoi Mizuta,Hayley Lam,6-2,6,2,1,0,Completed,true,false,false
+UA018032,04 Aug 24,3,Coatesville,Victory Park,No. 3,Zoe Vines,An Higuchi,An Higuchi,4-6,4,6,0,1,Completed,true,false,false
+UA018032,04 Aug 24,3,Coatesville,Victory Park,No. 4,Marina Chinan,Cameron Wilson,Marina Chinan,6-4,6,4,1,0,Completed,true,false,false
+UA018033,04 Aug 24,3,Highmoor Uniting,GPHC,No. 1,Lachlan Stark,Josh Chew,Lachlan Stark,6-3,6,3,1,0,Completed,true,false,false
+UA018033,04 Aug 24,3,Highmoor Uniting,GPHC,No. 2,Samuel Wende,Edmund Tee-Wu,Samuel Wende,6-0,6,0,1,0,Completed,true,false,false
+UA018033,04 Aug 24,3,Highmoor Uniting,GPHC,No. 3,Thomas Saynor,Claire Upjohn,Thomas Saynor,6-4,6,4,1,0,Completed,true,false,false
+UA018033,04 Aug 24,3,Highmoor Uniting,GPHC,No. 4,Lucas Smith,[Unnamed player — TROLS UA018033 away code 4],Lucas Smith,6-0,6,0,1,0,Completed,false,true,false
+UA018034,04 Aug 24,3,St Joan of Arc,Kooyong,No. 1,Kris Xu,Freddy Nasis,Freddy Nasis,3-6,3,6,0,1,Completed,true,false,false
+UA018034,04 Aug 24,3,St Joan of Arc,Kooyong,No. 2,Kevin Courtney,Angus Murray,Angus Murray,5-7,5,7,0,1,Completed,true,false,false
+UA018034,04 Aug 24,3,St Joan of Arc,Kooyong,No. 3,Sam Tregear,Ivan Cesal,Ivan Cesal,3-6,3,6,0,1,Completed,true,false,false
+UA018034,04 Aug 24,3,St Joan of Arc,Kooyong,No. 4,Thomas Falan,Elliot Doukas,Thomas Falan,6-4,6,4,1,0,Completed,true,false,false
+UA018041,11 Aug 24,4,Kooyong,Le Page,No. 1,Freddy Nasis,Yohan Singh,Freddy Nasis,6-3,6,3,1,0,Completed,true,false,false
+UA018041,11 Aug 24,4,Kooyong,Le Page,No. 2,Angus Murray,Jacob Pho,Jacob Pho,1-6,1,6,0,1,Completed,true,false,false
+UA018041,11 Aug 24,4,Kooyong,Le Page,No. 3,Angus Clements,Alex Liang,Alex Liang,3-6,3,6,0,1,Completed,true,false,false
+UA018041,11 Aug 24,4,Kooyong,Le Page,No. 4,Ivan Cesal,Mitchell Loimaranta,Ivan Cesal,6-4,6,4,1,0,Completed,true,false,false
+UA018042,11 Aug 24,4,Black Rock,Coatesville,No. 1,Emelia Huxley,Leia Marwick,Emelia Huxley,6-1,6,1,1,0,Completed,true,false,false
+UA018042,11 Aug 24,4,Black Rock,Coatesville,No. 2,Isaac Donovan,Hayley Lam,Hayley Lam,1-6,1,6,0,1,Completed,true,false,false
+UA018042,11 Aug 24,4,Black Rock,Coatesville,No. 3,Sam Lynn,Cristian Wilkin,Sam Lynn,6-4,6,4,1,0,Completed,true,false,true
+UA018042,11 Aug 24,4,Black Rock,Coatesville,No. 4,Jacob Qu,Eli Board,Jacob Qu,6-0,6,0,1,0,Completed,true,false,true
+UA018043,11 Aug 24,4,Victory Park,Highmoor Uniting,No. 1,So Nagayama,Lachlan Stark,Lachlan Stark,2-6,2,6,0,1,Completed,true,false,false
+UA018043,11 Aug 24,4,Victory Park,Highmoor Uniting,No. 2,Aoi Mizuta,Samuel Wende,Samuel Wende,3-6,3,6,0,1,Completed,true,false,false
+UA018043,11 Aug 24,4,Victory Park,Highmoor Uniting,No. 3,An Higuchi,Lily Beckett,Lily Beckett,1-6,1,6,0,1,Completed,true,false,false
+UA018043,11 Aug 24,4,Victory Park,Highmoor Uniting,No. 4,Shogo Nakamoto,Lucas Smith,Shogo Nakamoto,6-0,6,0,1,0,Completed,true,true,true
+UA018044,11 Aug 24,4,GPHC,St Joan of Arc,No. 1,Josh Chew,Kris Xu,Kris Xu,2-6,2,6,0,1,Completed,true,false,false
+UA018044,11 Aug 24,4,GPHC,St Joan of Arc,No. 2,Edmund Tee-Wu,Kevin Courtney,Kevin Courtney,2-6,2,6,0,1,Completed,true,false,false
+UA018044,11 Aug 24,4,GPHC,St Joan of Arc,No. 3,Ella Pearce,Eddie Sauerbrunn,Ella Pearce,6-2,6,2,1,0,Completed,true,false,false
+UA018044,11 Aug 24,4,GPHC,St Joan of Arc,No. 4,Megan Clarke,Thomas Falan,Megan Clarke,6-2,6,2,1,0,Completed,true,true,false
+UA018051,18 Aug 24,5,Highmoor Uniting,St Joan of Arc,No. 1,Lachlan Stark,Kris Xu,Lachlan Stark,7-6,7,6,1,0,Completed,true,false,false
+UA018051,18 Aug 24,5,Highmoor Uniting,St Joan of Arc,No. 2,Samuel Wende,Kevin Courtney,Kevin Courtney,3-6,3,6,0,1,Completed,true,false,false
+UA018051,18 Aug 24,5,Highmoor Uniting,St Joan of Arc,No. 3,Lily Beckett,Eddie Sauerbrunn,Lily Beckett,6-1,6,1,1,0,Completed,true,false,false
+UA018051,18 Aug 24,5,Highmoor Uniting,St Joan of Arc,No. 4,Thomas Saynor,Thomas Falan,Thomas Saynor,6-2,6,2,1,0,Completed,true,false,false
+UA018052,18 Aug 24,5,Victory Park,Black Rock,No. 1,So Nagayama,Isaac Donovan,So Nagayama,6-0,6,0,1,0,Completed,true,false,false
+UA018052,18 Aug 24,5,Victory Park,Black Rock,No. 2,Aoi Mizuta,Sam Lynn,Sam Lynn,3-6,3,6,0,1,Completed,true,false,false
+UA018052,18 Aug 24,5,Victory Park,Black Rock,No. 3,An Higuchi,Jacob Qu,Jacob Qu,0-6,0,6,0,1,Completed,true,false,false
+UA018052,18 Aug 24,5,Victory Park,Black Rock,No. 4,Cameron Wilson,Cleo Pye,Cleo Pye,4-6,4,6,0,1,Completed,true,false,false
+UA018053,18 Aug 24,5,Kooyong,GPHC,No. 1,Freddy Nasis,Edmund Tee-Wu,Freddy Nasis,6-3,6,3,1,0,Completed,true,false,false
+UA018053,18 Aug 24,5,Kooyong,GPHC,No. 2,Angus Clements,Kingsley Layh,Kingsley Layh,2-6,2,6,0,1,Completed,true,false,false
+UA018053,18 Aug 24,5,Kooyong,GPHC,No. 3,Ivan Cesal,Claire Upjohn,Ivan Cesal,6-3,6,3,1,0,Completed,true,false,false
+UA018053,18 Aug 24,5,Kooyong,GPHC,No. 4,Elliot Doukas,Ella Pearce,Elliot Doukas,6-3,6,3,1,0,Completed,true,false,false
+UA018054,18 Aug 24,5,Le Page,Coatesville,No. 1,Jacob Pho,Shivika Singh,Shivika Singh,3-6,3,6,0,1,Completed,true,false,false
+UA018054,18 Aug 24,5,Le Page,Coatesville,No. 2,Johnny Wu,Hayley Lam,Hayley Lam,1-6,1,6,0,1,Completed,true,false,false
+UA018054,18 Aug 24,5,Le Page,Coatesville,No. 3,Alex Liang,Zoe Vines,Alex Liang,6-0,6,0,1,0,Completed,true,false,false
+UA018054,18 Aug 24,5,Le Page,Coatesville,No. 4,Mitchell Loimaranta,Kane Duckworth,Mitchell Loimaranta,6-2,6,2,1,0,Completed,true,false,false
+UA018061,25 Aug 24,6,Coatesville,Highmoor Uniting,No. 1,Leia Marwick,Lachlan Stark,Lachlan Stark,1-6,1,6,0,1,Completed,true,false,false
+UA018061,25 Aug 24,6,Coatesville,Highmoor Uniting,No. 2,Shivika Singh,Samuel Wende,Shivika Singh,7-5,7,5,1,0,Completed,true,false,false
+UA018061,25 Aug 24,6,Coatesville,Highmoor Uniting,No. 3,Hayley Lam,Thomas Saynor,Hayley Lam,7-5,7,5,1,0,Completed,true,false,false
+UA018061,25 Aug 24,6,Coatesville,Highmoor Uniting,No. 4,Zoe Vines,Amy Morgan,Zoe Vines,6-0,6,0,1,0,Completed,true,false,false
+UA018062,25 Aug 24,6,St Joan of Arc,Le Page,No. 1,Kris Xu,Jacob Pho,Kris Xu,6-3,6,3,1,0,Completed,true,false,false
+UA018062,25 Aug 24,6,St Joan of Arc,Le Page,No. 2,Eddie Sauerbrunn,Johnny Wu,Johnny Wu,5-7,5,7,0,1,Completed,true,false,false
+UA018062,25 Aug 24,6,St Joan of Arc,Le Page,No. 3,Sam Tregear,Alex Liang,Alex Liang,3-6,3,6,0,1,Completed,true,false,false
+UA018062,25 Aug 24,6,St Joan of Arc,Le Page,No. 4,Thomas Falan,Mitchell Loimaranta,Mitchell Loimaranta,0-6,0,6,0,1,Completed,true,false,false
+UA018063,25 Aug 24,6,Black Rock,Kooyong,No. 1,Emelia Huxley,Freddy Nasis,Freddy Nasis,1-6,1,6,0,1,Completed,true,false,false
+UA018063,25 Aug 24,6,Black Rock,Kooyong,No. 2,Isaac Donovan,Angus Clements,Angus Clements,2-6,2,6,0,1,Completed,true,false,false
+UA018063,25 Aug 24,6,Black Rock,Kooyong,No. 3,Sam Lynn,Ivan Cesal,Ivan Cesal,6-7,6,7,0,1,Completed,true,false,false
+UA018063,25 Aug 24,6,Black Rock,Kooyong,No. 4,Jacob Qu,Elliot Doukas,Jacob Qu,6-0,6,0,1,0,Completed,true,false,false
+UA018064,25 Aug 24,6,GPHC,Victory Park,No. 1,Josh Chew,So Nagayama,So Nagayama,1-6,1,6,0,1,Completed,true,false,false
+UA018064,25 Aug 24,6,GPHC,Victory Park,No. 2,Kingsley Layh,Aoi Mizuta,Kingsley Layh,6-4,6,4,1,0,Completed,true,false,false
+UA018064,25 Aug 24,6,GPHC,Victory Park,No. 3,Claire Upjohn,An Higuchi,An Higuchi,6-7,6,7,0,1,Completed,true,false,false
+UA018064,25 Aug 24,6,GPHC,Victory Park,No. 4,Ella Pearce,Cameron Wilson,Ella Pearce,6-0,6,0,1,0,Completed,true,false,false
+UA018071,01 Sep 24,7,Le Page,Highmoor Uniting,No. 1,Yohan Singh,Lachlan Stark,Lachlan Stark,2-6,2,6,0,1,Completed,true,false,false
+UA018071,01 Sep 24,7,Le Page,Highmoor Uniting,No. 2,Jacob Pho,Samuel Wende,Samuel Wende,6-7,6,7,0,1,Completed,true,false,false
+UA018071,01 Sep 24,7,Le Page,Highmoor Uniting,No. 3,Alex Liang,Lily Beckett,Alex Liang,6-3,6,3,1,0,Completed,true,false,false
+UA018071,01 Sep 24,7,Le Page,Highmoor Uniting,No. 4,Mitchell Loimaranta,Amy Morgan,Mitchell Loimaranta,6-2,6,2,1,0,Completed,true,false,false
+UA018072,01 Sep 24,7,Coatesville,St Joan of Arc,No. 1,Shivika Singh,Kris Xu,Kris Xu,2-6,2,6,0,1,Completed,true,false,false
+UA018072,01 Sep 24,7,Coatesville,St Joan of Arc,No. 2,Charlie Delacorn,Kevin Courtney,Charlie Delacorn,7-5,7,5,1,0,Completed,true,true,false
+UA018072,01 Sep 24,7,Coatesville,St Joan of Arc,No. 3,Zoe Vines,Eddie Sauerbrunn,Zoe Vines,6-4,6,4,1,0,Completed,true,false,false
+UA018072,01 Sep 24,7,Coatesville,St Joan of Arc,No. 4,Marina Chinan,Thomas Falan,Marina Chinan,7-6,7,6,1,0,Completed,true,false,false
+UA018073,01 Sep 24,7,Victory Park,Kooyong,No. 1,So Nagayama,Freddy Nasis,Freddy Nasis,0-6,0,6,0,1,Completed,true,false,false
+UA018073,01 Sep 24,7,Victory Park,Kooyong,No. 2,Aoi Mizuta,Angus Murray,Angus Murray,1-6,1,6,0,1,Completed,true,false,false
+UA018073,01 Sep 24,7,Victory Park,Kooyong,No. 3,An Higuchi,Angus Clements,An Higuchi,6-3,6,3,1,0,Completed,true,false,false
+UA018073,01 Sep 24,7,Victory Park,Kooyong,No. 4,Cameron Wilson,Ivan Cesal,Ivan Cesal,1-6,1,6,0,1,Completed,true,false,false
+UA018074,01 Sep 24,7,Black Rock,GPHC,No. 1,Emelia Huxley,Josh Chew,Emelia Huxley,6-0,6,0,1,0,Completed,true,false,false
+UA018074,01 Sep 24,7,Black Rock,GPHC,No. 2,Isaac Donovan,Edmund Tee-Wu,Isaac Donovan,6-1,6,1,1,0,Completed,true,false,false
+UA018074,01 Sep 24,7,Black Rock,GPHC,No. 3,Sam Lynn,Kingsley Layh,Kingsley Layh,0-6,0,6,0,1,Completed,true,false,false
+UA018074,01 Sep 24,7,Black Rock,GPHC,No. 4,Cleo Pye,Ella Pearce,Ella Pearce,0-6,0,6,0,1,Completed,true,false,false
+UA018081,08 Sep 24,8,GPHC,Le Page,No. 1,Josh Chew,Yohan Singh,Yohan Singh,3-6,3,6,0,1,Completed,true,false,false
+UA018081,08 Sep 24,8,GPHC,Le Page,No. 2,Edmund Tee-Wu,Jacob Pho,Jacob Pho,1-6,1,6,0,1,Completed,true,false,false
+UA018081,08 Sep 24,8,GPHC,Le Page,No. 3,Kingsley Layh,Johnny Wu,Kingsley Layh,6-1,6,1,1,0,Completed,true,false,false
+UA018081,08 Sep 24,8,GPHC,Le Page,No. 4,Charlie Robinson,Mitchell Loimaranta,Mitchell Loimaranta,0-6,0,6,0,1,Completed,true,true,false
+UA018082,08 Sep 24,8,Kooyong,Coatesville,No. 1,Angus Murray,Shivika Singh,Angus Murray,7-6,7,6,1,0,Completed,true,false,false
+UA018082,08 Sep 24,8,Kooyong,Coatesville,No. 2,Angus Clements,Hayley Lam,Hayley Lam,1-6,1,6,0,1,Completed,true,false,false
+UA018082,08 Sep 24,8,Kooyong,Coatesville,No. 3,Elliot Doukas,Zoe Vines,Elliot Doukas,6-1,6,1,1,0,Completed,true,false,false
+UA018082,08 Sep 24,8,Kooyong,Coatesville,No. 4,Ashton Koon,Marina Chinan,Ashton Koon,6-4,6,4,1,0,Completed,true,false,false
+UA018083,08 Sep 24,8,Black Rock,Highmoor Uniting,No. 1,Emelia Huxley,Lachlan Stark,Lachlan Stark,1-6,1,6,0,1,Completed,true,false,false
+UA018083,08 Sep 24,8,Black Rock,Highmoor Uniting,No. 2,Isaac Donovan,Samuel Wende,Samuel Wende,2-6,2,6,0,1,Completed,true,false,false
+UA018083,08 Sep 24,8,Black Rock,Highmoor Uniting,No. 3,Sam Lynn,Lily Beckett,Sam Lynn,6-3,6,3,1,0,Completed,true,false,false
+UA018083,08 Sep 24,8,Black Rock,Highmoor Uniting,No. 4,Jacob Qu,Amy Morgan,Jacob Qu,6-0,6,0,1,0,Completed,true,false,false
+UA018084,08 Sep 24,8,Victory Park,St Joan of Arc,No. 1,So Nagayama,Kris Xu,So Nagayama,7-6,7,6,1,0,Completed,true,false,false
+UA018084,08 Sep 24,8,Victory Park,St Joan of Arc,No. 2,Aoi Mizuta,Kevin Courtney,Kevin Courtney,3-6,3,6,0,1,Completed,true,false,false
+UA018084,08 Sep 24,8,Victory Park,St Joan of Arc,No. 3,An Higuchi,Sam Tregear,An Higuchi,6-2,6,2,1,0,Completed,true,false,false
+UA018084,08 Sep 24,8,Victory Park,St Joan of Arc,No. 4,Lavith Kurani,Thomas Falan,Thomas Falan,3-6,3,6,0,1,Completed,true,false,false
+UA018091,15 Sep 24,9,Le Page,Victory Park,No. 1,Yohan Singh,So Nagayama,So Nagayama,5-7,5,7,0,1,Completed,true,false,false
+UA018091,15 Sep 24,9,Le Page,Victory Park,No. 2,Johnny Wu,Aoi Mizuta,Johnny Wu,6-4,6,4,1,0,Completed,true,false,false
+UA018091,15 Sep 24,9,Le Page,Victory Park,No. 3,Alex Liang,Lavith Kurani,Alex Liang,6-1,6,1,1,0,Completed,true,false,false
+UA018091,15 Sep 24,9,Le Page,Victory Park,No. 4,Mitchell Loimaranta,Cameron Wilson,Mitchell Loimaranta,6-4,6,4,1,0,Completed,true,false,false
+UA018092,15 Sep 24,9,Coatesville,GPHC,No. 1,Hayley Lam,Ella Pearce,Hayley Lam,6-1,6,1,1,0,Completed,true,false,false
+UA018092,15 Sep 24,9,Coatesville,GPHC,No. 2,Zoe Vines,Claire Upjohn,Zoe Vines,6-3,6,3,1,0,Completed,true,false,false
+UA018092,15 Sep 24,9,Coatesville,GPHC,No. 3,Marina Chinan,Josh Chew,Marina Chinan,6-3,6,3,1,0,Completed,true,false,false
+UA018092,15 Sep 24,9,Coatesville,GPHC,No. 4,Kane Duckworth,Charlie Robinson,Kane Duckworth,6-2,6,2,1,0,Completed,true,false,true
+UA018093,15 Sep 24,9,Highmoor Uniting,Kooyong,No. 1,Lachlan Stark,Freddy Nasis,Freddy Nasis,6-7,6,7,0,1,Completed,true,false,false
+UA018093,15 Sep 24,9,Highmoor Uniting,Kooyong,No. 2,Samuel Wende,Ivan Cesal,Samuel Wende,6-0,6,0,1,0,Completed,true,false,false
+UA018093,15 Sep 24,9,Highmoor Uniting,Kooyong,No. 3,Lily Beckett,Elliot Doukas,Lily Beckett,6-3,6,3,1,0,Completed,true,false,false
+UA018093,15 Sep 24,9,Highmoor Uniting,Kooyong,No. 4,Amy Morgan,Morris Plomley,Morris Plomley,1-6,1,6,0,1,Completed,true,false,false
+UA018094,15 Sep 24,9,St Joan of Arc,Black Rock,No. 1,Kris Xu,Isaac Donovan,Kris Xu,7-6,7,6,1,0,Completed,true,false,false
+UA018094,15 Sep 24,9,St Joan of Arc,Black Rock,No. 2,Kevin Courtney,Sam Lynn,Kevin Courtney,6-2,6,2,1,0,Completed,true,false,false
+UA018094,15 Sep 24,9,St Joan of Arc,Black Rock,No. 3,Eddie Sauerbrunn,Jacob Qu,Jacob Qu,3-6,3,6,0,1,Completed,true,false,false
+UA018094,15 Sep 24,9,St Joan of Arc,Black Rock,No. 4,Sam Tregear,Joshua Gilham,Joshua Gilham,5-7,5,7,0,1,Completed,true,false,true
+UA018101,13 Oct 24,10,Black Rock,Le Page,No. 1,Emelia Huxley,Jacob Pho,Emelia Huxley,6-3,6,3,1,0,Completed,true,false,false
+UA018101,13 Oct 24,10,Black Rock,Le Page,No. 2,Isaac Donovan,Johnny Wu,Isaac Donovan,7-6,7,6,1,0,Completed,true,false,false
+UA018101,13 Oct 24,10,Black Rock,Le Page,No. 3,Sam Lynn,Alex Liang,Alex Liang,2-6,2,6,0,1,Completed,true,false,false
+UA018101,13 Oct 24,10,Black Rock,Le Page,No. 4,Jacob Qu,Mitchell Loimaranta,Jacob Qu,6-3,6,3,1,0,Completed,true,false,false
+UA018102,13 Oct 24,10,Victory Park,Coatesville,No. 1,So Nagayama,Leia Marwick,So Nagayama,6-3,6,3,1,0,Completed,true,false,false
+UA018102,13 Oct 24,10,Victory Park,Coatesville,No. 2,Aoi Mizuta,Shivika Singh,Aoi Mizuta,6-3,6,3,1,0,Completed,true,false,false
+UA018102,13 Oct 24,10,Victory Park,Coatesville,No. 3,An Higuchi,Hayley Lam,Hayley Lam,0-6,0,6,0,1,Completed,true,false,false
+UA018102,13 Oct 24,10,Victory Park,Coatesville,No. 4,Cameron Wilson,Zoe Vines,Zoe Vines,1-6,1,6,0,1,Completed,true,false,false
+UA018103,13 Oct 24,10,GPHC,Highmoor Uniting,No. 1,Kingsley Layh,Lily Beckett,Lily Beckett,5-7,5,7,0,1,Completed,true,false,false
+UA018103,13 Oct 24,10,GPHC,Highmoor Uniting,No. 2,Ella Pearce,Thomas Saynor,Thomas Saynor,3-6,3,6,0,1,Completed,true,false,false
+UA018103,13 Oct 24,10,GPHC,Highmoor Uniting,No. 3,Josh Chew,Amy Morgan,Josh Chew,6-2,6,2,1,0,Completed,true,false,false
+UA018103,13 Oct 24,10,GPHC,Highmoor Uniting,No. 4,Edmund Tee-Wu,Michaela Killey,Edmund Tee-Wu,6-1,6,1,1,0,Completed,true,false,true
+UA018104,13 Oct 24,10,Kooyong,St Joan of Arc,No. 1,Angus Murray,Kevin Courtney,Angus Murray,6-2,6,2,1,0,Completed,true,false,false
+UA018104,13 Oct 24,10,Kooyong,St Joan of Arc,No. 2,Angus Clements,Eddie Sauerbrunn,Eddie Sauerbrunn,3-6,3,6,0,1,Completed,true,false,false
+UA018104,13 Oct 24,10,Kooyong,St Joan of Arc,No. 3,Morris Plomley,Sam Tregear,Sam Tregear,4-6,4,6,0,1,Completed,true,false,false
+UA018104,13 Oct 24,10,Kooyong,St Joan of Arc,No. 4,Ashton Koon,Thomas Falan,Ashton Koon,7-5,7,5,1,0,Completed,true,false,false
+UA018111,20 Oct 24,11,Le Page,Kooyong,No. 1,Yohan Singh,Angus Murray,Yohan Singh,6-4,6,4,1,0,Completed,true,false,false
+UA018111,20 Oct 24,11,Le Page,Kooyong,No. 2,Johnny Wu,Elliot Doukas,Elliot Doukas,2-6,2,6,0,1,Completed,true,false,false
+UA018111,20 Oct 24,11,Le Page,Kooyong,No. 3,Alex Liang,Morris Plomley,Alex Liang,6-3,6,3,1,0,Completed,true,false,false
+UA018111,20 Oct 24,11,Le Page,Kooyong,No. 4,Mitchell Loimaranta,Ashton Koon,Mitchell Loimaranta,6-2,6,2,1,0,Completed,true,false,false
+UA018112,20 Oct 24,11,Coatesville,Black Rock,No. 1,Shivika Singh,Emelia Huxley,Shivika Singh,7-5,7,5,1,0,Completed,true,false,false
+UA018112,20 Oct 24,11,Coatesville,Black Rock,No. 2,Zoe Vines,Isaac Donovan,Zoe Vines,6-3,6,3,1,0,Completed,true,false,false
+UA018112,20 Oct 24,11,Coatesville,Black Rock,No. 3,Marina Chinan,Sam Lynn,Sam Lynn,0-6,0,6,0,1,Completed,true,false,false
+UA018112,20 Oct 24,11,Coatesville,Black Rock,No. 4,Kane Duckworth,Cleo Pye,Kane Duckworth,6-2,6,2,1,0,Completed,true,false,false
+UA018113,20 Oct 24,11,Highmoor Uniting,Victory Park,No. 1,Lachlan Stark,So Nagayama,Lachlan Stark,6-3,6,3,1,0,Completed,true,false,false
+UA018113,20 Oct 24,11,Highmoor Uniting,Victory Park,No. 2,Samuel Wende,Aoi Mizuta,Samuel Wende,6-1,6,1,1,0,Completed,true,false,false
+UA018113,20 Oct 24,11,Highmoor Uniting,Victory Park,No. 3,Lily Beckett,An Higuchi,Lily Beckett,6-1,6,1,1,0,Completed,true,false,false
+UA018113,20 Oct 24,11,Highmoor Uniting,Victory Park,No. 4,Amy Morgan,Lavith Kurani,Lavith Kurani,4-6,4,6,0,1,Completed,true,false,false
+UA018114,20 Oct 24,11,St Joan of Arc,GPHC,No. 1,Kris Xu,Kingsley Layh,Kingsley Layh,3-6,3,6,0,1,Completed,true,false,false
+UA018114,20 Oct 24,11,St Joan of Arc,GPHC,No. 2,Kevin Courtney,Claire Upjohn,Kevin Courtney,6-2,6,2,1,0,Completed,true,false,false
+UA018114,20 Oct 24,11,St Joan of Arc,GPHC,No. 3,Eddie Sauerbrunn,Josh Chew,Josh Chew,3-6,3,6,0,1,Completed,true,false,false
+UA018114,20 Oct 24,11,St Joan of Arc,GPHC,No. 4,Thomas Falan,Edmund Tee-Wu,Edmund Tee-Wu,0-6,0,6,0,1,Completed,true,false,false
+UA018121,27 Oct 24,12,St Joan of Arc,Highmoor Uniting,No. 1,Kris Xu,Lachlan Stark,Lachlan Stark,2-6,2,6,0,1,Completed,true,false,false
+UA018121,27 Oct 24,12,St Joan of Arc,Highmoor Uniting,No. 2,Kevin Courtney,Samuel Wende,Kevin Courtney,6-0,6,0,1,0,Completed,true,false,false
+UA018121,27 Oct 24,12,St Joan of Arc,Highmoor Uniting,No. 3,Eddie Sauerbrunn,Amy Morgan,Eddie Sauerbrunn,6-1,6,1,1,0,Completed,true,false,false
+UA018121,27 Oct 24,12,St Joan of Arc,Highmoor Uniting,No. 4,Sam Tregear,Michaela Killey,Sam Tregear,6-1,6,1,1,0,Completed,true,false,true
+UA018122,27 Oct 24,12,Black Rock,Victory Park,No. 1,Emelia Huxley,So Nagayama,So Nagayama,3-6,3,6,0,1,Completed,true,false,false
+UA018122,27 Oct 24,12,Black Rock,Victory Park,No. 2,Isaac Donovan,Aoi Mizuta,Isaac Donovan,6-1,6,1,1,0,Completed,true,false,false
+UA018122,27 Oct 24,12,Black Rock,Victory Park,No. 3,Sam Lynn,An Higuchi,An Higuchi,4-6,4,6,0,1,Completed,true,false,false
+UA018122,27 Oct 24,12,Black Rock,Victory Park,No. 4,Jacob Qu,Cameron Wilson,Jacob Qu,6-1,6,1,1,0,Completed,true,false,false
+UA018123,27 Oct 24,12,GPHC,Kooyong,No. 1,Kingsley Layh,Angus Clements,Kingsley Layh,6-2,6,2,1,0,Completed,true,false,false
+UA018123,27 Oct 24,12,GPHC,Kooyong,No. 2,Ella Pearce,Elliot Doukas,Elliot Doukas,0-6,0,6,0,1,Completed,true,false,false
+UA018123,27 Oct 24,12,GPHC,Kooyong,No. 3,[Unnamed player — TROLS UA018123 home code 3],Morris Plomley,Morris Plomley,0-6,0,6,0,1,Completed,false,false,false
+UA018123,27 Oct 24,12,GPHC,Kooyong,No. 4,Josh Chew,Ashton Koon,Josh Chew,6-4,6,4,1,0,Completed,true,false,false
+UA018124,27 Oct 24,12,Coatesville,Le Page,No. 1,Hayley Lam,Jacob Pho,Hayley Lam,6-2,6,2,1,0,Completed,true,false,false
+UA018124,27 Oct 24,12,Coatesville,Le Page,No. 2,Zoe Vines,Alex Liang,Alex Liang,0-6,0,6,0,1,Completed,true,false,false
+UA018124,27 Oct 24,12,Coatesville,Le Page,No. 3,Giovanni Hadjiharalambous,Mitchell Loimaranta,Giovanni Hadjiharalambous,6-2,6,2,1,0,Completed,true,true,false
+UA018124,27 Oct 24,12,Coatesville,Le Page,No. 4,Nikan Asgari,Harvey James,Harvey James,1-6,1,6,0,1,Completed,true,true,true
+UA018131,10 Nov 24,13,Highmoor Uniting,Coatesville,No. 1,Lachlan Stark,Leia Marwick,Lachlan Stark,6-2,6,2,1,0,Completed,true,false,false
+UA018131,10 Nov 24,13,Highmoor Uniting,Coatesville,No. 2,Samuel Wende,Shivika Singh,Samuel Wende,7-6,7,6,1,0,Completed,true,false,false
+UA018131,10 Nov 24,13,Highmoor Uniting,Coatesville,No. 3,Lily Beckett,Hayley Lam,Hayley Lam,0-6,0,6,0,1,Completed,true,false,false
+UA018131,10 Nov 24,13,Highmoor Uniting,Coatesville,No. 4,Amy Morgan,Zoe Vines,Zoe Vines,2-6,2,6,0,1,Completed,true,false,false
+UA018132,10 Nov 24,13,Le Page,St Joan of Arc,No. 1,Yohan Singh,Kris Xu,Yohan Singh,6-4,6,4,1,0,Completed,true,false,false
+UA018132,10 Nov 24,13,Le Page,St Joan of Arc,No. 2,Jacob Pho,Kevin Courtney,Kevin Courtney,6-7,6,7,0,1,Completed,true,false,false
+UA018132,10 Nov 24,13,Le Page,St Joan of Arc,No. 3,Johnny Wu,Eddie Sauerbrunn,Johnny Wu,6-2,6,2,1,0,Completed,true,false,false
+UA018132,10 Nov 24,13,Le Page,St Joan of Arc,No. 4,Mitchell Loimaranta,Thomas Falan,Mitchell Loimaranta,6-1,6,1,1,0,Completed,true,false,false
+UA018133,10 Nov 24,13,Kooyong,Black Rock,No. 1,Angus Murray,Emelia Huxley,Emelia Huxley,1-6,1,6,0,1,Completed,true,false,false
+UA018133,10 Nov 24,13,Kooyong,Black Rock,No. 2,Angus Clements,Isaac Donovan,Isaac Donovan,2-6,2,6,0,1,Completed,true,false,false
+UA018133,10 Nov 24,13,Kooyong,Black Rock,No. 3,Elliot Doukas,Jacob Qu,Elliot Doukas,6-2,6,2,1,0,Completed,true,false,false
+UA018133,10 Nov 24,13,Kooyong,Black Rock,No. 4,Ashton Koon,Cleo Pye,Ashton Koon,6-4,6,4,1,0,Completed,true,false,false
+UA018134,10 Nov 24,13,Victory Park,GPHC,No. 1,Aoi Mizuta,Kingsley Layh,Kingsley Layh,3-6,3,6,0,1,Completed,true,false,false
+UA018134,10 Nov 24,13,Victory Park,GPHC,No. 2,Lavith Kurani,Claire Upjohn,Claire Upjohn,1-6,1,6,0,1,Completed,true,false,false
+UA018134,10 Nov 24,13,Victory Park,GPHC,No. 3,An Higuchi,Josh Chew,Josh Chew,0-6,0,6,0,1,Completed,true,false,false
+UA018134,10 Nov 24,13,Victory Park,GPHC,No. 4,Seren Haig,Edmund Tee-Wu,Seren Haig,6-2,6,2,1,0,Completed,true,true,false
+UA018141,17 Nov 24,14,Highmoor Uniting,Le Page,No. 1,Samuel Wende,Jacob Pho,Samuel Wende,6-0,6,0,1,0,Completed,true,false,false
+UA018141,17 Nov 24,14,Highmoor Uniting,Le Page,No. 2,Lily Beckett,Alex Liang,Alex Liang,4-6,4,6,0,1,Completed,true,false,false
+UA018141,17 Nov 24,14,Highmoor Uniting,Le Page,No. 3,Thomas Saynor,Mitchell Loimaranta,Thomas Saynor,6-4,6,4,1,0,Completed,true,false,false
+UA018141,17 Nov 24,14,Highmoor Uniting,Le Page,No. 4,Amy Morgan,Harvey James,Harvey James,4-6,4,6,0,1,Completed,true,false,true
+UA018142,17 Nov 24,14,St Joan of Arc,Coatesville,No. 1,Kris Xu,Shivika Singh,Kris Xu,6-4,6,4,1,0,Completed,true,false,false
+UA018142,17 Nov 24,14,St Joan of Arc,Coatesville,No. 2,Kevin Courtney,Hayley Lam,Hayley Lam,1-6,1,6,0,1,Completed,true,false,false
+UA018142,17 Nov 24,14,St Joan of Arc,Coatesville,No. 3,Sam Tregear,Zoe Vines,Zoe Vines,0-6,0,6,0,1,Completed,true,false,false
+UA018142,17 Nov 24,14,St Joan of Arc,Coatesville,No. 4,Thomas Falan,Marina Chinan,Marina Chinan,5-7,5,7,0,1,Completed,true,false,false
+UA018143,17 Nov 24,14,Kooyong,Victory Park,No. 1,Angus Murray,So Nagayama,So Nagayama,5-7,5,7,0,1,Completed,true,false,false
+UA018143,17 Nov 24,14,Kooyong,Victory Park,No. 2,Angus Clements,An Higuchi,An Higuchi,0-6,0,6,0,1,Completed,true,false,false
+UA018143,17 Nov 24,14,Kooyong,Victory Park,No. 3,Elliot Doukas,Lavith Kurani,Elliot Doukas,6-0,6,0,1,0,Completed,true,false,false
+UA018143,17 Nov 24,14,Kooyong,Victory Park,No. 4,Morris Plomley,Cameron Wilson,Morris Plomley,6-0,6,0,1,0,Completed,true,false,false
+UA018144,17 Nov 24,14,GPHC,Black Rock,No. 1,Kingsley Layh,Emelia Huxley,Kingsley Layh,6-2,6,2,1,0,Completed,true,false,false
+UA018144,17 Nov 24,14,GPHC,Black Rock,No. 2,Claire Upjohn,Isaac Donovan,Isaac Donovan,5-7,5,7,0,1,Completed,true,false,false
+UA018144,17 Nov 24,14,GPHC,Black Rock,No. 3,Josh Chew,Sam Lynn,Josh Chew,6-1,6,1,1,0,Completed,true,false,false
+UA018144,17 Nov 24,14,GPHC,Black Rock,No. 4,Edmund Tee-Wu,Jacob Qu,Jacob Qu,0-6,0,6,0,1,Completed,true,false,false
+UA018301,,16,Kooyong,Highmoor Uniting,No. 1,Freddy Nasis,Lachlan Stark,Lachlan Stark,3-6,3,6,0,1,Completed,true,false,false
+UA018301,,16,Kooyong,Highmoor Uniting,No. 2,Angus Murray,Samuel Wende,Samuel Wende,5-7,5,7,0,1,Completed,true,false,false
+UA018301,,16,Kooyong,Highmoor Uniting,No. 3,Angus Clements,Lily Beckett,Lily Beckett,1-6,1,6,0,1,Completed,true,false,false
+UA018301,,16,Kooyong,Highmoor Uniting,No. 4,Ivan Cesal,Thomas Saynor,Ivan Cesal,6-3,6,3,1,0,Completed,true,false,false
+UA018302,,16,Coatesville,Le Page,No. 1,Shivika Singh,Yohan Singh,Yohan Singh,5-7,5,7,0,1,Completed,true,false,false
+UA018302,,16,Coatesville,Le Page,No. 2,Navin Dinesh,Jacob Pho,Jacob Pho,4-6,4,6,0,1,Completed,true,true,false
+UA018302,,16,Coatesville,Le Page,No. 3,Zoe Vines,Alex Liang,Alex Liang,0-6,0,6,0,1,Completed,true,false,false
+UA018302,,16,Coatesville,Le Page,No. 4,Marina Chinan,Mitchell Loimaranta,Mitchell Loimaranta,0-6,0,6,0,1,Completed,true,false,false
+UA018321,,17,Le Page,Highmoor Uniting,No. 1,Yohan Singh,Lachlan Stark,Lachlan Stark,3-6,3,6,0,1,Completed,true,false,false
+UA018321,,17,Le Page,Highmoor Uniting,No. 2,Jacob Pho,Samuel Wende,Samuel Wende,0-6,0,6,0,1,Completed,true,false,false
+UA018321,,17,Le Page,Highmoor Uniting,No. 3,Alex Liang,Lily Beckett,Alex Liang,7-6,7,6,1,0,Completed,true,false,false
+UA018321,,17,Le Page,Highmoor Uniting,No. 4,Mitchell Loimaranta,Thomas Saynor,Thomas Saynor,2-6,2,6,0,1,Completed,true,false,false

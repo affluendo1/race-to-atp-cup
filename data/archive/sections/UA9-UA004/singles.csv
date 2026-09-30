@@ -1,0 +1,209 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA004021,31 Jul 11,2,BLTC 2,Kings Park,No. 1,Sam Browne,Nathan Blamires,Sam Browne,6-2,6,2,1,0,Completed,true,false,false
+UA004021,31 Jul 11,2,BLTC 2,Kings Park,No. 2,Tristan Sather,Thomas Diggerson,Tristan Sather,6-3,6,3,1,0,Completed,true,false,false
+UA004021,31 Jul 11,2,BLTC 2,Kings Park,No. 3,Alex Browne,Dylan Smith,Dylan Smith,3-6,3,6,0,1,Completed,true,false,false
+UA004021,31 Jul 11,2,BLTC 2,Kings Park,No. 4,Stephen Peberton,James Loynd,James Loynd,2-6,2,6,0,1,Completed,true,false,false
+UA004022,31 Jul 11,2,Parkdale,GPHC,No. 1,Alex Cameron,Tom Griffin,Tom Griffin,1-6,1,6,0,1,Completed,true,false,false
+UA004022,31 Jul 11,2,Parkdale,GPHC,No. 2,Alex McLean,James Simondson,Alex McLean,6-4,6,4,1,0,Completed,true,false,false
+UA004022,31 Jul 11,2,Parkdale,GPHC,No. 3,Elissa Howard,David Munday,Elissa Howard,6-3,6,3,1,0,Completed,true,false,false
+UA004022,31 Jul 11,2,Parkdale,GPHC,No. 4,Ishani Herath,James Rush,Ishani Herath,6-3,6,3,1,0,Completed,true,false,false
+UA004023,31 Jul 11,2,Kooyong Scotch,Dendy Park,No. 1,Ben Flaherty,[Unnamed player — TROLS UA004023 away code 1],Ben Flaherty,6-0,6,0,1,0,Completed,false,false,false
+UA004023,31 Jul 11,2,Kooyong Scotch,Dendy Park,No. 2,David Zita,Sean Ly,Sean Ly,5-7,5,7,0,1,Completed,true,false,false
+UA004023,31 Jul 11,2,Kooyong Scotch,Dendy Park,No. 3,James Goller,Oscar Moyle,Oscar Moyle,5-7,5,7,0,1,Completed,true,false,false
+UA004023,31 Jul 11,2,Kooyong Scotch,Dendy Park,No. 4,Nicholas Lockwood,Aurthur Kaganovitch,Nicholas Lockwood,6-1,6,1,1,0,Completed,true,false,false
+UA004024,31 Jul 11,2,Glen Eira Brooklyn,BLTC 1,No. 1,Lachlan Wyness,Jack McCartney,Jack McCartney,1-6,1,6,0,1,Completed,true,false,false
+UA004024,31 Jul 11,2,Glen Eira Brooklyn,BLTC 1,No. 2,David Sacho,Cameron Milliken,David Sacho,6-2,6,2,1,0,Completed,true,false,false
+UA004024,31 Jul 11,2,Glen Eira Brooklyn,BLTC 1,No. 3,Michael Rabinowicz,Trent Martin,Trent Martin,0-6,0,6,0,1,Completed,true,false,false
+UA004024,31 Jul 11,2,Glen Eira Brooklyn,BLTC 1,No. 4,Jeremy Lyn,Josh Sinclair,Josh Sinclair,4-6,4,6,0,1,Completed,true,false,false
+UA004031,07 Aug 11,3,Kings Park,Glen Eira Brooklyn,No. 1,Nathan Blamires,Ilan Goldsmith,Nathan Blamires,7-5,7,5,1,0,Completed,true,false,false
+UA004031,07 Aug 11,3,Kings Park,Glen Eira Brooklyn,No. 2,Thomas Diggerson,Matt Metter,Matt Metter,2-6,2,6,0,1,Completed,true,false,false
+UA004031,07 Aug 11,3,Kings Park,Glen Eira Brooklyn,No. 3,Dylan Smith,Michael Rabinowicz,Dylan Smith,6-3,6,3,1,0,Completed,true,false,false
+UA004031,07 Aug 11,3,Kings Park,Glen Eira Brooklyn,No. 4,Adrian Hodgson,Jeremy Lyn,Adrian Hodgson,6-2,6,2,1,0,Completed,true,false,false
+UA004032,07 Aug 11,3,GPHC,BLTC 2,No. 1,David Munday,Sam Browne,Sam Browne,2-6,2,6,0,1,Completed,true,false,false
+UA004032,07 Aug 11,3,GPHC,BLTC 2,No. 2,Broderick Overton,Tristan Sather,Tristan Sather,1-6,1,6,0,1,Completed,true,false,false
+UA004032,07 Aug 11,3,GPHC,BLTC 2,No. 3,James Rush,Alex Browne,Alex Browne,2-6,2,6,0,1,Completed,true,false,false
+UA004032,07 Aug 11,3,GPHC,BLTC 2,No. 4,James Simondson,Stephen Peberton,Stephen Peberton,1-6,1,6,0,1,Completed,true,false,false
+UA004033,07 Aug 11,3,Dendy Park,Parkdale,No. 1,Sean Ly,Alex Cameron,Sean Ly,6-2,6,2,1,0,Completed,true,false,false
+UA004033,07 Aug 11,3,Dendy Park,Parkdale,No. 2,Kyle Didone,Damian Basterfield,Kyle Didone,6-4,6,4,1,0,Completed,true,false,false
+UA004033,07 Aug 11,3,Dendy Park,Parkdale,No. 3,Oscar Moyle,Alex McLean,Oscar Moyle,6-1,6,1,1,0,Completed,true,false,false
+UA004033,07 Aug 11,3,Dendy Park,Parkdale,No. 4,Aurthur Kaganovitch,Elissa Howard,Elissa Howard,1-6,1,6,0,1,Completed,true,false,false
+UA004034,07 Aug 11,3,BLTC 1,Kooyong Scotch,No. 1,Jack McCartney,Ben Flaherty,Ben Flaherty,2-6,2,6,0,1,Completed,true,false,false
+UA004034,07 Aug 11,3,BLTC 1,Kooyong Scotch,No. 2,Cameron Milliken,Callum Bennet,Callum Bennet,1-6,1,6,0,1,Completed,true,false,false
+UA004034,07 Aug 11,3,BLTC 1,Kooyong Scotch,No. 3,Trent Martin,James Goller,Trent Martin,6-2,6,2,1,0,Completed,true,false,false
+UA004034,07 Aug 11,3,BLTC 1,Kooyong Scotch,No. 4,Josh Sinclair,Sam Bennet,Sam Bennet,3-6,3,6,0,1,Completed,true,false,false
+UA004041,14 Aug 11,4,Kooyong Scotch,Kings Park,No. 1,Callum Bennet,Nathan Blamires,Callum Bennet,6-3,6,3,1,0,Completed,true,false,false
+UA004041,14 Aug 11,4,Kooyong Scotch,Kings Park,No. 2,David Zita,Thomas Diggerson,David Zita,6-3,6,3,1,0,Completed,true,false,false
+UA004041,14 Aug 11,4,Kooyong Scotch,Kings Park,No. 3,James Goller,Adrian Hodgson,James Goller,6-2,6,2,1,0,Completed,true,false,false
+UA004041,14 Aug 11,4,Kooyong Scotch,Kings Park,No. 4,Alexandra Bailey,James Loynd,James Loynd,4-6,4,6,0,1,Completed,true,false,false
+UA004042,14 Aug 11,4,Glen Eira Brooklyn,GPHC,No. 1,Lachlan Wyness,James Simondson,Lachlan Wyness,6-4,6,4,1,0,Completed,true,false,false
+UA004042,14 Aug 11,4,Glen Eira Brooklyn,GPHC,No. 2,David Sacho,David Munday,David Sacho,6-4,6,4,1,0,Completed,true,false,false
+UA004042,14 Aug 11,4,Glen Eira Brooklyn,GPHC,No. 3,Ilan Goldsmith,Broderick Overton,Broderick Overton,1-6,1,6,0,1,Completed,true,false,false
+UA004042,14 Aug 11,4,Glen Eira Brooklyn,GPHC,No. 4,Matt Metter,Sam McAlistair,Matt Metter,6-4,6,4,1,0,Completed,true,false,false
+UA004043,14 Aug 11,4,BLTC 2,Dendy Park,No. 1,Sam Browne,Kyle Didone,Kyle Didone,1-6,1,6,0,1,Completed,true,false,false
+UA004043,14 Aug 11,4,BLTC 2,Dendy Park,No. 2,Tristan Sather,James Doyle,Tristan Sather,7-6,7,6,1,0,Completed,true,false,false
+UA004043,14 Aug 11,4,BLTC 2,Dendy Park,No. 3,Alex Browne,Oscar Moyle,Oscar Moyle,2-6,2,6,0,1,Completed,true,false,false
+UA004043,14 Aug 11,4,BLTC 2,Dendy Park,No. 4,Stephen Peberton,Aurthur Kaganovitch,Stephen Peberton,6-3,6,3,1,0,Completed,true,false,false
+UA004044,14 Aug 11,4,Parkdale,BLTC 1,No. 1,Damian Basterfield,Jack McCartney,Jack McCartney,3-6,3,6,0,1,Completed,true,false,false
+UA004044,14 Aug 11,4,Parkdale,BLTC 1,No. 2,Alex McLean,Cameron Milliken,Cameron Milliken,2-6,2,6,0,1,Completed,true,false,false
+UA004044,14 Aug 11,4,Parkdale,BLTC 1,No. 3,Elissa Howard,Trent Martin,Trent Martin,0-6,0,6,0,1,Completed,true,false,false
+UA004044,14 Aug 11,4,Parkdale,BLTC 1,No. 4,Ishani Herath,Josh Sinclair,Ishani Herath,6-3,6,3,1,0,Completed,true,false,false
+UA004051,21 Aug 11,5,Dendy Park,BLTC 1,No. 1,Sean Ly,Jack McCartney,Jack McCartney,1-6,1,6,0,1,Completed,true,false,false
+UA004051,21 Aug 11,5,Dendy Park,BLTC 1,No. 2,James Doyle,Cameron Milliken,James Doyle,6-1,6,1,1,0,Completed,true,false,false
+UA004051,21 Aug 11,5,Dendy Park,BLTC 1,No. 3,Oscar Moyle,Trent Martin,Trent Martin,5-7,5,7,0,1,Completed,true,false,false
+UA004051,21 Aug 11,5,Dendy Park,BLTC 1,No. 4,Aurthur Kaganovitch,Josh Sinclair,Josh Sinclair,2-6,2,6,0,1,Completed,true,false,false
+UA004052,21 Aug 11,5,BLTC 2,Glen Eira Brooklyn,No. 1,Tristan Sather,Lachlan Wyness,Tristan Sather,7-6,7,6,1,0,Completed,true,false,false
+UA004052,21 Aug 11,5,BLTC 2,Glen Eira Brooklyn,No. 2,Alex Browne,David Sacho,David Sacho,0-6,0,6,0,1,Completed,true,false,false
+UA004052,21 Aug 11,5,BLTC 2,Glen Eira Brooklyn,No. 3,Stephen Peberton,Matt Metter,Matt Metter,4-6,4,6,0,1,Completed,true,false,false
+UA004052,21 Aug 11,5,BLTC 2,Glen Eira Brooklyn,No. 4,Ramona Long,Jeremy Lyn,Jeremy Lyn,3-6,3,6,0,1,Completed,true,false,false
+UA004053,21 Aug 11,5,Kooyong Scotch,Parkdale,No. 1,Ben Flaherty,Alex Cameron,Ben Flaherty,6-2,6,2,1,0,Completed,true,false,false
+UA004053,21 Aug 11,5,Kooyong Scotch,Parkdale,No. 2,David Zita,Damian Basterfield,David Zita,6-1,6,1,1,0,Completed,true,false,false
+UA004053,21 Aug 11,5,Kooyong Scotch,Parkdale,No. 3,James Goller,Alex McLean,James Goller,6-3,6,3,1,0,Completed,true,false,false
+UA004053,21 Aug 11,5,Kooyong Scotch,Parkdale,No. 4,James Wiseman,Ishani Herath,James Wiseman,6-4,6,4,1,0,Completed,true,false,false
+UA004054,21 Aug 11,5,Kings Park,GPHC,No. 1,Nathan Blamires,James Simondson,Nathan Blamires,7-5,7,5,1,0,Completed,true,false,false
+UA004054,21 Aug 11,5,Kings Park,GPHC,No. 2,Thomas Diggerson,David Munday,David Munday,4-6,4,6,0,1,Completed,true,false,false
+UA004054,21 Aug 11,5,Kings Park,GPHC,No. 3,Dylan Smith,Broderick Overton,Dylan Smith,7-6,7,6,1,0,Completed,true,false,false
+UA004054,21 Aug 11,5,Kings Park,GPHC,No. 4,James Loynd,Lok Chow,James Loynd,6-4,6,4,1,0,Completed,true,false,false
+UA004061,28 Aug 11,6,GPHC,Dendy Park,No. 1,Broderick Overton,Marcus Bulmaga,Marcus Bulmaga,1-6,1,6,0,1,Completed,true,false,false
+UA004061,28 Aug 11,6,GPHC,Dendy Park,No. 2,Sam McAlistair,Kyle Didone,Kyle Didone,2-6,2,6,0,1,Completed,true,false,false
+UA004061,28 Aug 11,6,GPHC,Dendy Park,No. 3,James Rush,Oscar Moyle,Oscar Moyle,4-6,4,6,0,1,Completed,true,false,false
+UA004061,28 Aug 11,6,GPHC,Dendy Park,No. 4,Lok Chow,Aurthur Kaganovitch,Lok Chow,6-1,6,1,1,0,Completed,true,false,false
+UA004062,28 Aug 11,6,BLTC 1,Kings Park,No. 1,Jack McCartney,Timothy Van Der Vevr,Jack McCartney,6-0,6,0,1,0,Completed,true,false,false
+UA004062,28 Aug 11,6,BLTC 1,Kings Park,No. 2,Cameron Milliken,Thomas Diggerson,Cameron Milliken,6-2,6,2,1,0,Completed,true,false,false
+UA004062,28 Aug 11,6,BLTC 1,Kings Park,No. 3,Trent Martin,Dylan Smith,Trent Martin,6-2,6,2,1,0,Completed,true,false,false
+UA004062,28 Aug 11,6,BLTC 1,Kings Park,No. 4,Josh Sinclair,Adrian Hodgson,Josh Sinclair,6-4,6,4,1,0,Completed,true,false,false
+UA004063,28 Aug 11,6,Glen Eira Brooklyn,Kooyong Scotch,No. 1,Ilan Goldsmith,Ben Flaherty,Ben Flaherty,6-7,6,7,0,1,Completed,true,false,false
+UA004063,28 Aug 11,6,Glen Eira Brooklyn,Kooyong Scotch,No. 2,Matt Metter,Corey Pabst,Matt Metter,6-2,6,2,1,0,Completed,true,false,false
+UA004063,28 Aug 11,6,Glen Eira Brooklyn,Kooyong Scotch,No. 3,Michael Rabinowicz,James Goller,James Goller,1-6,1,6,0,1,Completed,true,false,false
+UA004063,28 Aug 11,6,Glen Eira Brooklyn,Kooyong Scotch,No. 4,Jeremy Lyn,James Wiseman,James Wiseman,3-6,3,6,0,1,Completed,true,false,false
+UA004064,28 Aug 11,6,Parkdale,BLTC 2,No. 1,Alex Cameron,Sam Browne,Sam Browne,4-6,4,6,0,1,Completed,true,false,false
+UA004064,28 Aug 11,6,Parkdale,BLTC 2,No. 2,Damian Basterfield,Tristan Sather,Tristan Sather,1-6,1,6,0,1,Completed,true,false,false
+UA004064,28 Aug 11,6,Parkdale,BLTC 2,No. 3,Elissa Howard,Alex Browne,Alex Browne,4-6,4,6,0,1,Completed,true,false,false
+UA004064,28 Aug 11,6,Parkdale,BLTC 2,No. 4,Ishani Herath,Stephen Peberton,Stephen Peberton,6-7,6,7,0,1,Completed,true,false,false
+UA004071,04 Sep 11,7,Kings Park,Dendy Park,No. 1,Nathan Blamires,Kyle Didone,Kyle Didone,1-6,1,6,0,1,Completed,true,false,false
+UA004071,04 Sep 11,7,Kings Park,Dendy Park,No. 2,Timothy Van Der Vevr,Oscar Moyle,Oscar Moyle,3-6,3,6,0,1,Completed,true,false,false
+UA004071,04 Sep 11,7,Kings Park,Dendy Park,No. 3,Adrian Hodgson,Lachlan Couper,Lachlan Couper,3-6,3,6,0,1,Completed,true,false,false
+UA004071,04 Sep 11,7,Kings Park,Dendy Park,No. 4,James Loynd,Aurthur Kaganovitch,James Loynd,6-0,6,0,1,0,Completed,true,false,false
+UA004072,04 Sep 11,7,GPHC,BLTC 1,No. 1,James Simondson,Jack McCartney,Jack McCartney,4-6,4,6,0,1,Completed,true,false,false
+UA004072,04 Sep 11,7,GPHC,BLTC 1,No. 2,David Munday,Cameron Milliken,David Munday,6-3,6,3,1,0,Completed,true,false,false
+UA004072,04 Sep 11,7,GPHC,BLTC 1,No. 3,Broderick Overton,Trent Martin,Trent Martin,6-7,6,7,0,1,Completed,true,false,false
+UA004072,04 Sep 11,7,GPHC,BLTC 1,No. 4,Sam McAlistair,Josh Sinclair,Sam McAlistair,6-1,6,1,1,0,Completed,true,false,false
+UA004073,04 Sep 11,7,BLTC 2,Kooyong Scotch,No. 1,Tristan Sather,David Zita,Tristan Sather,7-6,7,6,1,0,Completed,true,false,false
+UA004073,04 Sep 11,7,BLTC 2,Kooyong Scotch,No. 2,Alex Browne,Corey Pabst,Corey Pabst,1-6,1,6,0,1,Completed,true,false,false
+UA004073,04 Sep 11,7,BLTC 2,Kooyong Scotch,No. 3,Stephen Peberton,James Goller,Stephen Peberton,7-6,7,6,1,0,Completed,true,false,false
+UA004073,04 Sep 11,7,BLTC 2,Kooyong Scotch,No. 4,Holly McCaul,James Wiseman,James Wiseman,3-6,3,6,0,1,Completed,true,false,false
+UA004074,04 Sep 11,7,Glen Eira Brooklyn,Parkdale,No. 1,Lachlan Wyness,Alex Cameron,Lachlan Wyness,6-3,6,3,1,0,Completed,true,false,false
+UA004074,04 Sep 11,7,Glen Eira Brooklyn,Parkdale,No. 2,David Sacho,Damian Basterfield,David Sacho,6-0,6,0,1,0,Completed,true,false,false
+UA004074,04 Sep 11,7,Glen Eira Brooklyn,Parkdale,No. 3,Ilan Goldsmith,Alex McLean,Ilan Goldsmith,6-3,6,3,1,0,Completed,true,false,false
+UA004074,04 Sep 11,7,Glen Eira Brooklyn,Parkdale,No. 4,Matt Metter,Elissa Howard,Matt Metter,6-3,6,3,1,0,Completed,true,false,false
+UA004082,11 Sep 11,8,Kooyong Scotch,GPHC,No. 1,David Zita,David Munday,David Zita,6-1,6,1,1,0,Completed,true,false,false
+UA004082,11 Sep 11,8,Kooyong Scotch,GPHC,No. 2,Corey Pabst,Broderick Overton,Broderick Overton,3-6,3,6,0,1,Completed,true,false,false
+UA004082,11 Sep 11,8,Kooyong Scotch,GPHC,No. 3,James Goller,James Rush,James Goller,6-1,6,1,1,0,Completed,true,false,false
+UA004082,11 Sep 11,8,Kooyong Scotch,GPHC,No. 4,Nicholas Lockwood,Sam McAlistair,Nicholas Lockwood,7-5,7,5,1,0,Completed,true,false,false
+UA004084,11 Sep 11,8,BLTC 2,BLTC 1,No. 1,Sam Browne,Jack McCartney,Jack McCartney,0-6,0,6,0,1,Completed,true,false,false
+UA004084,11 Sep 11,8,BLTC 2,BLTC 1,No. 2,Tristan Sather,Cameron Milliken,Tristan Sather,6-4,6,4,1,0,Completed,true,false,false
+UA004084,11 Sep 11,8,BLTC 2,BLTC 1,No. 3,Alex Browne,Trent Martin,Trent Martin,2-6,2,6,0,1,Completed,true,false,false
+UA004084,11 Sep 11,8,BLTC 2,BLTC 1,No. 4,Jacqueline Pacholec,Josh Sinclair,Josh Sinclair,3-6,3,6,0,1,Completed,true,false,false
+UA004091,18 Sep 11,9,Kings Park,BLTC 2,No. 1,Nathan Blamires,Sam Browne,Sam Browne,1-6,1,6,0,1,Completed,true,false,false
+UA004091,18 Sep 11,9,Kings Park,BLTC 2,No. 2,Timothy Van Der Vevr,Tristan Sather,Tristan Sather,6-7,6,7,0,1,Completed,true,false,false
+UA004091,18 Sep 11,9,Kings Park,BLTC 2,No. 3,Thomas Diggerson,Alex Browne,Thomas Diggerson,6-2,6,2,1,0,Completed,true,false,false
+UA004091,18 Sep 11,9,Kings Park,BLTC 2,No. 4,Dylan Smith,Stephen Peberton,Stephen Peberton,3-6,3,6,0,1,Completed,true,false,false
+UA004092,18 Sep 11,9,GPHC,Parkdale,No. 1,Fred Hiskens,Damian Basterfield,Fred Hiskens,6-1,6,1,1,0,Completed,true,false,false
+UA004092,18 Sep 11,9,GPHC,Parkdale,No. 2,Broderick Overton,Alex McLean,Broderick Overton,6-3,6,3,1,0,Completed,true,false,false
+UA004092,18 Sep 11,9,GPHC,Parkdale,No. 3,Jake Rolins,Elissa Howard,Elissa Howard,1-6,1,6,0,1,Completed,true,false,false
+UA004092,18 Sep 11,9,GPHC,Parkdale,No. 4,James Rush,Ishani Herath,Ishani Herath,6-7,6,7,0,1,Completed,true,false,false
+UA004093,18 Sep 11,9,Dendy Park,Kooyong Scotch,No. 1,Sean Ly,Ben Flaherty,Ben Flaherty,4-6,4,6,0,1,Completed,true,false,false
+UA004093,18 Sep 11,9,Dendy Park,Kooyong Scotch,No. 2,Kyle Didone,David Zita,David Zita,4-6,4,6,0,1,Completed,true,false,false
+UA004093,18 Sep 11,9,Dendy Park,Kooyong Scotch,No. 3,Oscar Moyle,James Goller,James Goller,3-6,3,6,0,1,Completed,true,false,false
+UA004093,18 Sep 11,9,Dendy Park,Kooyong Scotch,No. 4,Aurthur Kaganovitch,Sam Bennet,Sam Bennet,3-6,3,6,0,1,Completed,true,false,false
+UA004094,18 Sep 11,9,BLTC 1,Glen Eira Brooklyn,No. 1,Jack McCartney,Ilan Goldsmith,Jack McCartney,6-2,6,2,1,0,Completed,true,false,false
+UA004094,18 Sep 11,9,BLTC 1,Glen Eira Brooklyn,No. 2,Cameron Milliken,Matt Metter,Cameron Milliken,6-3,6,3,1,0,Completed,true,false,false
+UA004094,18 Sep 11,9,BLTC 1,Glen Eira Brooklyn,No. 3,Trent Martin,Michael Rabinowicz,Trent Martin,6-0,6,0,1,0,Completed,true,false,false
+UA004094,18 Sep 11,9,BLTC 1,Glen Eira Brooklyn,No. 4,Josh Sinclair,Jeremy Lyn,Jeremy Lyn,6-7,6,7,0,1,Completed,true,false,false
+UA004101,16 Oct 11,10,Glen Eira Brooklyn,Kings Park,No. 1,Lachlan Wyness,Nathan Blamires,Lachlan Wyness,6-1,6,1,1,0,Completed,true,false,false
+UA004101,16 Oct 11,10,Glen Eira Brooklyn,Kings Park,No. 2,David Sacho,Timothy Van Der Vevr,David Sacho,6-1,6,1,1,0,Completed,true,false,false
+UA004101,16 Oct 11,10,Glen Eira Brooklyn,Kings Park,No. 3,Ilan Goldsmith,Adrian Hodgson,Ilan Goldsmith,6-3,6,3,1,0,Completed,true,false,false
+UA004101,16 Oct 11,10,Glen Eira Brooklyn,Kings Park,No. 4,Jeremy Lyn,James Loynd,James Loynd,0-6,0,6,0,1,Completed,true,false,false
+UA004103,16 Oct 11,10,Parkdale,Dendy Park,No. 1,Alex Cameron,[Unnamed player — TROLS UA004103 away code 1],Alex Cameron,6-0,6,0,1,0,Completed,false,false,false
+UA004103,16 Oct 11,10,Parkdale,Dendy Park,No. 2,Damian Basterfield,Kyle Didone,Kyle Didone,3-6,3,6,0,1,Completed,true,false,false
+UA004103,16 Oct 11,10,Parkdale,Dendy Park,No. 3,Elissa Howard,James Doyle,James Doyle,2-6,2,6,0,1,Completed,true,false,false
+UA004103,16 Oct 11,10,Parkdale,Dendy Park,No. 4,Ishani Herath,Oscar Moyle,Oscar Moyle,2-6,2,6,0,1,Completed,true,false,false
+UA004104,16 Oct 11,10,Kooyong Scotch,BLTC 1,No. 1,Ben Flaherty,Jack McCartney,Ben Flaherty,6-0,6,0,1,0,Completed,true,false,false
+UA004104,16 Oct 11,10,Kooyong Scotch,BLTC 1,No. 2,David Zita,Cameron Milliken,David Zita,6-2,6,2,1,0,Completed,true,false,false
+UA004104,16 Oct 11,10,Kooyong Scotch,BLTC 1,No. 3,James Goller,Trent Martin,James Goller,6-0,6,0,1,0,Completed,true,false,false
+UA004104,16 Oct 11,10,Kooyong Scotch,BLTC 1,No. 4,Nicholas Lockwood,Josh Sinclair,Nicholas Lockwood,6-3,6,3,1,0,Completed,true,false,false
+UA004111,23 Oct 11,11,Kings Park,Kooyong Scotch,No. 1,Nathan Blamires,Ben Flaherty,Ben Flaherty,0-6,0,6,0,1,Completed,true,false,false
+UA004111,23 Oct 11,11,Kings Park,Kooyong Scotch,No. 2,Thomas Diggerson,David Zita,David Zita,1-6,1,6,0,1,Completed,true,false,false
+UA004111,23 Oct 11,11,Kings Park,Kooyong Scotch,No. 3,Dylan Smith,Corey Pabst,Corey Pabst,3-6,3,6,0,1,Completed,true,false,false
+UA004111,23 Oct 11,11,Kings Park,Kooyong Scotch,No. 4,James Loynd,James Goller,James Loynd,6-1,6,1,1,0,Completed,true,false,false
+UA004112,23 Oct 11,11,GPHC,Glen Eira Brooklyn,No. 1,James Simondson,Lachlan Wyness,Lachlan Wyness,4-6,4,6,0,1,Completed,true,false,false
+UA004112,23 Oct 11,11,GPHC,Glen Eira Brooklyn,No. 2,Broderick Overton,David Sacho,David Sacho,3-6,3,6,0,1,Completed,true,false,false
+UA004112,23 Oct 11,11,GPHC,Glen Eira Brooklyn,No. 3,James Rush,Michael Rabinowicz,Michael Rabinowicz,1-6,1,6,0,1,Completed,true,false,false
+UA004112,23 Oct 11,11,GPHC,Glen Eira Brooklyn,No. 4,Sam McAlistair,Jeremy Lyn,Jeremy Lyn,0-6,0,6,0,1,Completed,true,false,false
+UA004113,23 Oct 11,11,Dendy Park,BLTC 2,No. 1,Sean Ly,Sam Browne,Sean Ly,6-3,6,3,1,0,Completed,true,false,false
+UA004113,23 Oct 11,11,Dendy Park,BLTC 2,No. 2,Kyle Didone,Tristan Sather,Kyle Didone,7-5,7,5,1,0,Completed,true,false,false
+UA004113,23 Oct 11,11,Dendy Park,BLTC 2,No. 3,James Doyle,Alex Browne,James Doyle,7-5,7,5,1,0,Completed,true,false,false
+UA004113,23 Oct 11,11,Dendy Park,BLTC 2,No. 4,Aurthur Kaganovitch,Stephen Peberton,Aurthur Kaganovitch,7-5,7,5,1,0,Completed,true,false,false
+UA004114,23 Oct 11,11,BLTC 1,Parkdale,No. 1,Darcy Stuttard,Nicholas Charlson,Darcy Stuttard,7-6,7,6,1,0,Completed,true,false,false
+UA004114,23 Oct 11,11,BLTC 1,Parkdale,No. 2,Cameron Milliken,Damian Basterfield,Cameron Milliken,6-2,6,2,1,0,Completed,true,false,false
+UA004114,23 Oct 11,11,BLTC 1,Parkdale,No. 3,Trent Martin,Alex McLean,Trent Martin,7-5,7,5,1,0,Completed,true,false,false
+UA004114,23 Oct 11,11,BLTC 1,Parkdale,No. 4,Josh Sinclair,Elissa Howard,Elissa Howard,4-6,4,6,0,1,Completed,true,false,false
+UA004121,06 Nov 11,12,BLTC 1,Dendy Park,No. 1,Jack McCartney,Sean Ly,Jack McCartney,6-3,6,3,1,0,Completed,true,false,false
+UA004121,06 Nov 11,12,BLTC 1,Dendy Park,No. 2,Cameron Milliken,Kyle Didone,Kyle Didone,0-6,0,6,0,1,Completed,true,false,false
+UA004121,06 Nov 11,12,BLTC 1,Dendy Park,No. 3,Trent Martin,James Doyle,James Doyle,2-6,2,6,0,1,Completed,true,false,false
+UA004121,06 Nov 11,12,BLTC 1,Dendy Park,No. 4,Josh Sinclair,Oscar Moyle,Oscar Moyle,3-6,3,6,0,1,Completed,true,false,false
+UA004122,06 Nov 11,12,Glen Eira Brooklyn,BLTC 2,No. 1,Lachlan Wyness,Tristan Sather,Lachlan Wyness,6-2,6,2,1,0,Completed,true,false,false
+UA004122,06 Nov 11,12,Glen Eira Brooklyn,BLTC 2,No. 2,Ilan Goldsmith,Stephen Peberton,Ilan Goldsmith,6-1,6,1,1,0,Completed,true,false,false
+UA004122,06 Nov 11,12,Glen Eira Brooklyn,BLTC 2,No. 3,Michael Rabinowicz,Alex Browne,Michael Rabinowicz,6-0,6,0,1,0,Completed,true,false,false
+UA004122,06 Nov 11,12,Glen Eira Brooklyn,BLTC 2,No. 4,Jeremy Lyn,Abby Wilson,Jeremy Lyn,7-6,7,6,1,0,Completed,true,false,false
+UA004123,06 Nov 11,12,Parkdale,Kooyong Scotch,No. 1,Alex Cameron,Ben Flaherty,Ben Flaherty,3-6,3,6,0,1,Completed,true,false,false
+UA004123,06 Nov 11,12,Parkdale,Kooyong Scotch,No. 2,Alex McLean,Corey Pabst,Corey Pabst,1-6,1,6,0,1,Completed,true,false,false
+UA004123,06 Nov 11,12,Parkdale,Kooyong Scotch,No. 3,Elissa Howard,Nicholas Lockwood,Elissa Howard,7-5,7,5,1,0,Completed,true,false,false
+UA004123,06 Nov 11,12,Parkdale,Kooyong Scotch,No. 4,Ishani Herath,Nick Pullen,Nick Pullen,1-6,1,6,0,1,Completed,true,false,false
+UA004124,06 Nov 11,12,GPHC,Kings Park,No. 1,James Simondson,Timothy Van Der Vevr,Timothy Van Der Vevr,3-6,3,6,0,1,Completed,true,false,false
+UA004124,06 Nov 11,12,GPHC,Kings Park,No. 2,Lok Chow,Thomas Diggerson,Lok Chow,6-0,6,0,1,0,Completed,true,false,false
+UA004124,06 Nov 11,12,GPHC,Kings Park,No. 3,Sam McAlistair,Dylan Smith,Sam McAlistair,7-6,7,6,1,0,Completed,true,false,false
+UA004124,06 Nov 11,12,GPHC,Kings Park,No. 4,James Rush,Adrian Hodgson,Adrian Hodgson,4-6,4,6,0,1,Completed,true,false,false
+UA004131,13 Nov 11,13,Dendy Park,GPHC,No. 1,Sean Ly,David Munday,Sean Ly,6-3,6,3,1,0,Completed,true,false,false
+UA004131,13 Nov 11,13,Dendy Park,GPHC,No. 2,Kyle Didone,Broderick Overton,Kyle Didone,6-0,6,0,1,0,Completed,true,false,false
+UA004131,13 Nov 11,13,Dendy Park,GPHC,No. 3,James Doyle,Sam McAlistair,James Doyle,6-3,6,3,1,0,Completed,true,false,false
+UA004131,13 Nov 11,13,Dendy Park,GPHC,No. 4,Aurthur Kaganovitch,James Rush,Aurthur Kaganovitch,6-3,6,3,1,0,Completed,true,false,false
+UA004132,13 Nov 11,13,Kings Park,BLTC 1,No. 1,Nathan Blamires,Jack McCartney,Jack McCartney,2-6,2,6,0,1,Completed,true,false,false
+UA004132,13 Nov 11,13,Kings Park,BLTC 1,No. 2,Timothy Van Der Vevr,Cameron Milliken,Cameron Milliken,4-6,4,6,0,1,Completed,true,false,false
+UA004132,13 Nov 11,13,Kings Park,BLTC 1,No. 3,Adrian Hodgson,Trent Martin,Trent Martin,3-6,3,6,0,1,Completed,true,false,false
+UA004132,13 Nov 11,13,Kings Park,BLTC 1,No. 4,James Loynd,Josh Sinclair,James Loynd,6-0,6,0,1,0,Completed,true,false,false
+UA004133,13 Nov 11,13,Kooyong Scotch,Glen Eira Brooklyn,No. 1,David Zita,Lachlan Wyness,David Zita,7-5,7,5,1,0,Completed,true,false,false
+UA004133,13 Nov 11,13,Kooyong Scotch,Glen Eira Brooklyn,No. 2,Corey Pabst,David Sacho,David Sacho,4-6,4,6,0,1,Completed,true,false,false
+UA004133,13 Nov 11,13,Kooyong Scotch,Glen Eira Brooklyn,No. 3,James Goller,Ilan Goldsmith,James Goller,7-5,7,5,1,0,Completed,true,false,false
+UA004133,13 Nov 11,13,Kooyong Scotch,Glen Eira Brooklyn,No. 4,Nicholas Lockwood,Matt Metter,Matt Metter,2-6,2,6,0,1,Completed,true,false,false
+UA004134,13 Nov 11,13,BLTC 2,Parkdale,No. 1,Alex Browne,Damian Basterfield,Damian Basterfield,1-6,1,6,0,1,Completed,true,false,false
+UA004134,13 Nov 11,13,BLTC 2,Parkdale,No. 2,Stephen Peberton,Alex McLean,Stephen Peberton,6-1,6,1,1,0,Completed,true,false,false
+UA004134,13 Nov 11,13,BLTC 2,Parkdale,No. 3,Abby Wilson,Elissa Howard,Elissa Howard,0-6,0,6,0,1,Completed,true,false,false
+UA004134,13 Nov 11,13,BLTC 2,Parkdale,No. 4,Natasha Simmonds,Ishani Herath,Natasha Simmonds,7-5,7,5,1,0,Completed,true,false,false
+UA004141,20 Nov 11,14,Dendy Park,Kings Park,No. 1,Kyle Didone,Nathan Blamires,Kyle Didone,6-4,6,4,1,0,Completed,true,false,false
+UA004141,20 Nov 11,14,Dendy Park,Kings Park,No. 2,James Doyle,Thomas Diggerson,James Doyle,6-0,6,0,1,0,Completed,true,false,false
+UA004141,20 Nov 11,14,Dendy Park,Kings Park,No. 3,Oscar Moyle,Dylan Smith,Oscar Moyle,6-4,6,4,1,0,Completed,true,false,false
+UA004141,20 Nov 11,14,Dendy Park,Kings Park,No. 4,Aurthur Kaganovitch,James Loynd,James Loynd,0-6,0,6,0,1,Completed,true,false,false
+UA004142,20 Nov 11,14,BLTC 1,GPHC,No. 1,Jack McCartney,James Simondson,Jack McCartney,6-0,6,0,1,0,Completed,true,false,false
+UA004142,20 Nov 11,14,BLTC 1,GPHC,No. 2,Cameron Milliken,David Munday,Cameron Milliken,6-4,6,4,1,0,Completed,true,false,false
+UA004142,20 Nov 11,14,BLTC 1,GPHC,No. 3,Trent Martin,Broderick Overton,Trent Martin,7-5,7,5,1,0,Completed,true,false,false
+UA004142,20 Nov 11,14,BLTC 1,GPHC,No. 4,Josh Sinclair,James Rush,Josh Sinclair,6-3,6,3,1,0,Completed,true,false,false
+UA004143,20 Nov 11,14,Kooyong Scotch,BLTC 2,No. 1,Ben Flaherty,Tristan Sather,Ben Flaherty,6-1,6,1,1,0,Completed,true,false,false
+UA004143,20 Nov 11,14,Kooyong Scotch,BLTC 2,No. 2,Corey Pabst,Alex Browne,Corey Pabst,6-2,6,2,1,0,Completed,true,false,false
+UA004143,20 Nov 11,14,Kooyong Scotch,BLTC 2,No. 3,James Goller,Stephen Peberton,James Goller,7-5,7,5,1,0,Completed,true,false,false
+UA004143,20 Nov 11,14,Kooyong Scotch,BLTC 2,No. 4,Nicholas Lockwood,Abby Wilson,Nicholas Lockwood,6-0,6,0,1,0,Completed,true,false,false
+UA004144,20 Nov 11,14,Parkdale,Glen Eira Brooklyn,No. 1,Alex Cameron,Lachlan Wyness,Lachlan Wyness,0-6,0,6,0,1,Completed,true,false,false
+UA004144,20 Nov 11,14,Parkdale,Glen Eira Brooklyn,No. 2,Damian Basterfield,David Sacho,David Sacho,0-6,0,6,0,1,Completed,true,false,false
+UA004144,20 Nov 11,14,Parkdale,Glen Eira Brooklyn,No. 3,Alex McLean,Ilan Goldsmith,Ilan Goldsmith,4-6,4,6,0,1,Completed,true,false,false
+UA004144,20 Nov 11,14,Parkdale,Glen Eira Brooklyn,No. 4,Vinnie Van Dyk,Matt Metter,Vinnie Van Dyk,6-2,6,2,1,0,Completed,true,false,false
+UA004301,,16,Kooyong Scotch,Dendy Park,No. 1,Ben Flaherty,Sean Ly,Ben Flaherty,6-1,6,1,1,0,Completed,true,false,false
+UA004301,,16,Kooyong Scotch,Dendy Park,No. 2,David Zita,Kyle Didone,Kyle Didone,2-6,2,6,0,1,Completed,true,false,false
+UA004301,,16,Kooyong Scotch,Dendy Park,No. 3,Corey Pabst,Oscar Moyle,Corey Pabst,6-1,6,1,1,0,Completed,true,false,false
+UA004301,,16,Kooyong Scotch,Dendy Park,No. 4,James Goller,Aurthur Kaganovitch,James Goller,6-3,6,3,1,0,Completed,true,false,false
+UA004302,,16,BLTC 1,Glen Eira Brooklyn,No. 1,Jack McCartney,Lachlan Wyness,Lachlan Wyness,3-6,3,6,0,1,Completed,true,false,false
+UA004302,,16,BLTC 1,Glen Eira Brooklyn,No. 2,Cameron Milliken,David Sacho,David Sacho,1-6,1,6,0,1,Completed,true,false,false
+UA004302,,16,BLTC 1,Glen Eira Brooklyn,No. 3,Trent Martin,Ilan Goldsmith,Trent Martin,6-3,6,3,1,0,Completed,true,false,false
+UA004302,,16,BLTC 1,Glen Eira Brooklyn,No. 4,Josh Sinclair,Matt Metter,Matt Metter,0-6,0,6,0,1,Completed,true,false,false
+UA004321,,17,Kooyong Scotch,Glen Eira Brooklyn,No. 1,Ben Flaherty,Lachlan Wyness,Ben Flaherty,6-1,6,1,1,0,Completed,true,true,false
+UA004321,,17,Kooyong Scotch,Glen Eira Brooklyn,No. 2,David Zita,David Sacho,David Sacho,3-6,3,6,0,1,Completed,true,false,false
+UA004321,,17,Kooyong Scotch,Glen Eira Brooklyn,No. 3,Corey Pabst,Ilan Goldsmith,Corey Pabst,6-4,6,4,1,0,Completed,true,false,false
+UA004321,,17,Kooyong Scotch,Glen Eira Brooklyn,No. 4,James Goller,Matt Metter,Matt Metter,1-6,1,6,0,1,Completed,true,false,false

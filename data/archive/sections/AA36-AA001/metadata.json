@@ -1,0 +1,77 @@
+{
+  "asset_id": "AA36-AA001",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Autumn 2016",
+  "season_id": "AA36",
+  "season_label": "Autumn 2016",
+  "source_section_code": "AA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong MLC1",
+      "wins": 13,
+      "points": 135.5,
+      "percentage": 292.02,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Carmelite",
+      "wins": 11,
+      "points": 112,
+      "percentage": 163.2,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Port Melbourne",
+      "wins": 8,
+      "points": 83.5,
+      "percentage": 103.99,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong MLC2",
+      "wins": 4,
+      "points": 53,
+      "percentage": 79.34,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal South Yarra 1",
+      "wins": 3,
+      "points": 33,
+      "percentage": 56.76,
+      "marker": "*"
+    },
+    {
+      "position": 6,
+      "team": "Royal South Yarra 2",
+      "wins": 1,
+      "points": 23,
+      "percentage": 50.0,
+      "marker": "*"
+    }
+  ],
+  "section_code": "AA36-AA001",
+  "fixtures": 45,
+  "completed_fixtures": 40,
+  "draw_fixtures": 0,
+  "singles_rubbers": 160,
+  "doubles_rubbers": 80,
+  "latest_round": 15,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for AA001141"
+  ]
+}

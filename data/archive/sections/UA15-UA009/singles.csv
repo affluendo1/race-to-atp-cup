@@ -1,0 +1,221 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA009011,20 Jul 14,1,Dendy Park,Lauriston,No. 1,Tom Brown,Linus Cheung,Linus Cheung,0-6,0,6,0,1,Completed,true,false,false
+UA009011,20 Jul 14,1,Dendy Park,Lauriston,No. 2,Harpo Barrett,Brooklyn Giacometti,Brooklyn Giacometti,6-7,6,7,0,1,Completed,true,false,false
+UA009011,20 Jul 14,1,Dendy Park,Lauriston,No. 3,Miguel Bragagnolo,Kyle Howden,Miguel Bragagnolo,6-0,6,0,1,0,Completed,true,false,false
+UA009011,20 Jul 14,1,Dendy Park,Lauriston,No. 4,Fleur Wackett,Alex Tritt,Fleur Wackett,7-6,7,6,1,0,Completed,true,false,false
+UA009012,20 Jul 14,1,Kooyong Scotch,Hampton 1,No. 1,Seamus Synnott,Fletcher Pullen,Fletcher Pullen,6-7,6,7,0,1,Completed,true,false,false
+UA009012,20 Jul 14,1,Kooyong Scotch,Hampton 1,No. 2,Anthony James,Majella Howey,Majella Howey,1-6,1,6,0,1,Completed,true,false,false
+UA009012,20 Jul 14,1,Kooyong Scotch,Hampton 1,No. 3,Linus Wraith-Bell,Laura Dann,Laura Dann,2-6,2,6,0,1,Completed,true,false,false
+UA009012,20 Jul 14,1,Kooyong Scotch,Hampton 1,No. 4,Patrick Wraith-Bell,Jemma Gray,Patrick Wraith-Bell,6-4,6,4,1,0,Completed,true,false,false
+UA009013,20 Jul 14,1,Hampton 2,Carmelite,No. 1,Sean Howey,Ella Pinto,Sean Howey,7-5,7,5,1,0,Completed,true,false,false
+UA009013,20 Jul 14,1,Hampton 2,Carmelite,No. 2,Mathew Warman,Stella Barker,Stella Barker,3-6,3,6,0,1,Completed,true,false,false
+UA009013,20 Jul 14,1,Hampton 2,Carmelite,No. 3,Connor McConville,Noah Jensz,Connor McConville,7-5,7,5,1,0,Completed,true,false,false
+UA009013,20 Jul 14,1,Hampton 2,Carmelite,No. 4,Lachie Hernadi,Saskia Gunner,Lachie Hernadi,6-3,6,3,1,0,Completed,true,false,false
+UA009014,20 Jul 14,1,Coatesville,GPHC,No. 1,Sam Basman,Angus Crawford,Angus Crawford,4-6,4,6,0,1,Completed,true,false,false
+UA009014,20 Jul 14,1,Coatesville,GPHC,No. 2,Thomas So,Jessica Brown,Thomas So,7-5,7,5,1,0,Completed,true,false,false
+UA009014,20 Jul 14,1,Coatesville,GPHC,No. 3,Jacob Mundy,Alex Kay,Jacob Mundy,6-4,6,4,1,0,Completed,true,false,false
+UA009014,20 Jul 14,1,Coatesville,GPHC,No. 4,Yao Shau,Hannah Todhunter,Yao Shau,6-0,6,0,1,0,Completed,true,false,false
+UA009021,27 Jul 14,2,GPHC,Dendy Park,No. 1,Hamish Hicks,Tom Brown,Tom Brown,1-6,1,6,0,1,Completed,true,false,false
+UA009021,27 Jul 14,2,GPHC,Dendy Park,No. 2,Angus Crawford,Harpo Barrett,Harpo Barrett,2-6,2,6,0,1,Completed,true,false,false
+UA009021,27 Jul 14,2,GPHC,Dendy Park,No. 3,Jessica Brown,Jonty Wells,Jonty Wells,5-7,5,7,0,1,Completed,true,false,false
+UA009021,27 Jul 14,2,GPHC,Dendy Park,No. 4,Hannah Todhunter,Henry Armstrong,Henry Armstrong,3-6,3,6,0,1,Completed,true,false,false
+UA009022,27 Jul 14,2,Lauriston,Kooyong Scotch,No. 1,Linus Cheung,Seamus Synnott,Linus Cheung,7-6,7,6,1,0,Completed,true,false,false
+UA009022,27 Jul 14,2,Lauriston,Kooyong Scotch,No. 2,Brooklyn Giacometti,Linus Wraith-Bell,Linus Wraith-Bell,5-7,5,7,0,1,Completed,true,false,false
+UA009022,27 Jul 14,2,Lauriston,Kooyong Scotch,No. 3,Demeke Durant,Patrick Wraith-Bell,Demeke Durant,6-3,6,3,1,0,Completed,true,false,false
+UA009022,27 Jul 14,2,Lauriston,Kooyong Scotch,No. 4,Emma Yue,Phillip Mann-Segal,Phillip Mann-Segal,2-6,2,6,0,1,Completed,true,false,false
+UA009023,27 Jul 14,2,Hampton 1,Hampton 2,No. 1,Fletcher Pullen,Sean Howey,Fletcher Pullen,6-1,6,1,1,0,Completed,true,false,false
+UA009023,27 Jul 14,2,Hampton 1,Hampton 2,No. 2,Jemma Gray,Paulina Lopez,Jemma Gray,6-1,6,1,1,0,Completed,true,false,false
+UA009023,27 Jul 14,2,Hampton 1,Hampton 2,No. 3,Lucy Hagan,Daniel Reberger,Daniel Reberger,5-7,5,7,0,1,Completed,true,false,false
+UA009023,27 Jul 14,2,Hampton 1,Hampton 2,No. 4,Bridgette Hagan,Jackson Lang,Bridgette Hagan,6-1,6,1,1,0,Completed,true,false,false
+UA009024,27 Jul 14,2,Carmelite,Coatesville,No. 1,Ella Pinto,Luigi Cortez,Luigi Cortez,4-6,4,6,0,1,Completed,true,false,false
+UA009024,27 Jul 14,2,Carmelite,Coatesville,No. 2,Stella Barker,Thomas So,Stella Barker,6-2,6,2,1,0,Completed,true,false,false
+UA009024,27 Jul 14,2,Carmelite,Coatesville,No. 3,Noah Jensz,Jacob Mundy,Noah Jensz,6-3,6,3,1,0,Completed,true,false,false
+UA009024,27 Jul 14,2,Carmelite,Coatesville,No. 4,Anders Costelloe,Yao Shau,Yao Shau,1-6,1,6,0,1,Completed,true,false,false
+UA009031,03 Aug 14,3,Dendy Park,Carmelite,No. 1,Miguel Bragagnolo,Stella Barker,Miguel Bragagnolo,6-1,6,1,1,0,Completed,true,false,false
+UA009031,03 Aug 14,3,Dendy Park,Carmelite,No. 2,Fleur Wackett,Noah Jensz,Noah Jensz,4-6,4,6,0,1,Completed,true,false,false
+UA009031,03 Aug 14,3,Dendy Park,Carmelite,No. 3,Jonty Wells,Anders Costelloe,Jonty Wells,6-2,6,2,1,0,Completed,true,false,false
+UA009031,03 Aug 14,3,Dendy Park,Carmelite,No. 4,Henry Armstrong,Saskia Gunner,Henry Armstrong,6-2,6,2,1,0,Completed,true,false,false
+UA009032,03 Aug 14,3,Kooyong Scotch,GPHC,No. 1,Seamus Synnott,Angus Crawford,Seamus Synnott,6-1,6,1,1,0,Completed,true,false,false
+UA009032,03 Aug 14,3,Kooyong Scotch,GPHC,No. 2,Anthony James,Jessica Brown,Anthony James,6-1,6,1,1,0,Completed,true,false,false
+UA009032,03 Aug 14,3,Kooyong Scotch,GPHC,No. 3,Linus Wraith-Bell,Alistair McGillivray,Linus Wraith-Bell,6-2,6,2,1,0,Completed,true,false,false
+UA009032,03 Aug 14,3,Kooyong Scotch,GPHC,No. 4,Phillip Mann-Segal,Hannah Todhunter,Phillip Mann-Segal,6-0,6,0,1,0,Completed,true,false,false
+UA009033,03 Aug 14,3,Hampton 2,Lauriston,No. 1,Sean Howey,Kyle Howden,Sean Howey,6-2,6,2,1,0,Completed,true,false,false
+UA009033,03 Aug 14,3,Hampton 2,Lauriston,No. 2,Mathew Warman,Demeke Durant,Demeke Durant,3-6,3,6,0,1,Completed,true,false,false
+UA009033,03 Aug 14,3,Hampton 2,Lauriston,No. 3,Daniel Reberger,Emma Yue,Emma Yue,3-6,3,6,0,1,Completed,true,false,false
+UA009033,03 Aug 14,3,Hampton 2,Lauriston,No. 4,Connor McConville,Alex Tritt,Alex Tritt,0-6,0,6,0,1,Completed,true,false,false
+UA009034,03 Aug 14,3,Coatesville,Hampton 1,No. 1,Adrian Mitsel,Majella Howey,Majella Howey,4-6,4,6,0,1,Completed,true,false,false
+UA009034,03 Aug 14,3,Coatesville,Hampton 1,No. 2,Sam Basman,Laura Dann,Laura Dann,3-6,3,6,0,1,Completed,true,false,false
+UA009034,03 Aug 14,3,Coatesville,Hampton 1,No. 3,Thomas So,Lucy Hagan,Lucy Hagan,5-7,5,7,0,1,Completed,true,false,false
+UA009034,03 Aug 14,3,Coatesville,Hampton 1,No. 4,Yao Shau,Bridgette Hagan,Bridgette Hagan,2-6,2,6,0,1,Completed,true,false,false
+UA009041,10 Aug 14,4,Hampton 1,Dendy Park,No. 1,Fletcher Pullen,Tom Brown,Fletcher Pullen,6-3,6,3,1,0,Completed,true,false,false
+UA009041,10 Aug 14,4,Hampton 1,Dendy Park,No. 2,Majella Howey,Fleur Wackett,Majella Howey,6-4,6,4,1,0,Completed,true,false,false
+UA009041,10 Aug 14,4,Hampton 1,Dendy Park,No. 3,Laura Dann,Jonty Wells,Laura Dann,6-1,6,1,1,0,Completed,true,false,false
+UA009041,10 Aug 14,4,Hampton 1,Dendy Park,No. 4,Jemma Gray,Henry Armstrong,Henry Armstrong,2-6,2,6,0,1,Completed,true,false,false
+UA009042,10 Aug 14,4,Carmelite,Kooyong Scotch,No. 1,Stella Barker,Anthony James,Stella Barker,6-4,6,4,1,0,Completed,true,false,false
+UA009042,10 Aug 14,4,Carmelite,Kooyong Scotch,No. 2,Noah Jensz,Linus Wraith-Bell,Linus Wraith-Bell,4-6,4,6,0,1,Completed,true,false,false
+UA009042,10 Aug 14,4,Carmelite,Kooyong Scotch,No. 3,Anders Costelloe,Patrick Wraith-Bell,Patrick Wraith-Bell,2-6,2,6,0,1,Completed,true,false,false
+UA009042,10 Aug 14,4,Carmelite,Kooyong Scotch,No. 4,Saskia Gunner,Phillip Mann-Segal,Phillip Mann-Segal,1-6,1,6,0,1,Completed,true,false,false
+UA009043,10 Aug 14,4,GPHC,Hampton 2,No. 1,Angus Crawford,Sean Howey,Sean Howey,1-6,1,6,0,1,Completed,true,false,false
+UA009043,10 Aug 14,4,GPHC,Hampton 2,No. 2,Jessica Brown,Daniel Reberger,Daniel Reberger,1-6,1,6,0,1,Completed,true,false,false
+UA009043,10 Aug 14,4,GPHC,Hampton 2,No. 3,Alistair McGillivray,Connor McConville,Connor McConville,0-6,0,6,0,1,Completed,true,false,false
+UA009043,10 Aug 14,4,GPHC,Hampton 2,No. 4,Hannah Todhunter,Lachie Hernadi,Lachie Hernadi,5-7,5,7,0,1,Completed,true,false,false
+UA009044,10 Aug 14,4,Lauriston,Coatesville,No. 1,Linus Cheung,Adrian Mitsel,Adrian Mitsel,5-7,5,7,0,1,Completed,true,false,false
+UA009044,10 Aug 14,4,Lauriston,Coatesville,No. 2,Brooklyn Giacometti,Luigi Cortez,Brooklyn Giacometti,7-5,7,5,1,0,Completed,true,false,false
+UA009044,10 Aug 14,4,Lauriston,Coatesville,No. 3,Emma Yue,Sam Basman,Sam Basman,0-6,0,6,0,1,Completed,true,false,false
+UA009044,10 Aug 14,4,Lauriston,Coatesville,No. 4,Alex Tritt,Jacob Mundy,Jacob Mundy,1-6,1,6,0,1,Completed,true,false,false
+UA009051,17 Aug 14,5,Hampton 2,Coatesville,No. 1,Mathew Warman,Sam Basman,Mathew Warman,6-4,6,4,1,0,Completed,true,false,false
+UA009051,17 Aug 14,5,Hampton 2,Coatesville,No. 2,Daniel Reberger,Thomas So,Daniel Reberger,7-6,7,6,1,0,Completed,true,false,false
+UA009051,17 Aug 14,5,Hampton 2,Coatesville,No. 3,Connor McConville,Jacob Mundy,Connor McConville,6-4,6,4,1,0,Completed,true,false,false
+UA009051,17 Aug 14,5,Hampton 2,Coatesville,No. 4,Lachie Hernadi,Yao Shau,Yao Shau,5-7,5,7,0,1,Completed,true,false,false
+UA009052,17 Aug 14,5,GPHC,Carmelite,No. 1,Hamish Hicks,Ella Pinto,Hamish Hicks,6-4,6,4,1,0,Completed,true,false,false
+UA009052,17 Aug 14,5,GPHC,Carmelite,No. 2,Angus Crawford,Stella Barker,Stella Barker,1-6,1,6,0,1,Completed,true,false,false
+UA009052,17 Aug 14,5,GPHC,Carmelite,No. 3,Jessica Brown,Georgia Plant,Jessica Brown,6-4,6,4,1,0,Completed,true,false,false
+UA009052,17 Aug 14,5,GPHC,Carmelite,No. 4,Alistair McGillivray,Anders Costelloe,Anders Costelloe,4-6,4,6,0,1,Completed,true,false,false
+UA009053,17 Aug 14,5,Hampton 1,Lauriston,No. 1,Fletcher Pullen,Linus Cheung,Fletcher Pullen,6-3,6,3,1,0,Completed,true,false,false
+UA009053,17 Aug 14,5,Hampton 1,Lauriston,No. 2,Majella Howey,Kyle Howden,Majella Howey,6-3,6,3,1,0,Completed,true,false,false
+UA009053,17 Aug 14,5,Hampton 1,Lauriston,No. 3,Laura Dann,Brooklyn Giacometti,Laura Dann,6-3,6,3,1,0,Completed,true,false,false
+UA009053,17 Aug 14,5,Hampton 1,Lauriston,No. 4,Lucy Hagan,Emma Yue,Lucy Hagan,6-3,6,3,1,0,Completed,true,false,false
+UA009054,17 Aug 14,5,Dendy Park,Kooyong Scotch,No. 1,Miguel Bragagnolo,Seamus Synnott,Miguel Bragagnolo,6-0,6,0,1,0,Completed,true,false,false
+UA009054,17 Aug 14,5,Dendy Park,Kooyong Scotch,No. 2,Fleur Wackett,Linus Wraith-Bell,Fleur Wackett,6-2,6,2,1,0,Completed,true,false,false
+UA009054,17 Aug 14,5,Dendy Park,Kooyong Scotch,No. 3,Jonty Wells,Patrick Wraith-Bell,Patrick Wraith-Bell,4-6,4,6,0,1,Completed,true,false,false
+UA009054,17 Aug 14,5,Dendy Park,Kooyong Scotch,No. 4,Henry Armstrong,Phillip Mann-Segal,Phillip Mann-Segal,2-6,2,6,0,1,Completed,true,false,false
+UA009061,24 Aug 14,6,Kooyong Scotch,Hampton 2,No. 1,Seamus Synnott,Daniel Reberger,Seamus Synnott,6-2,6,2,1,0,Completed,true,false,false
+UA009061,24 Aug 14,6,Kooyong Scotch,Hampton 2,No. 2,Anthony James,Connor McConville,Anthony James,6-2,6,2,1,0,Completed,true,false,false
+UA009061,24 Aug 14,6,Kooyong Scotch,Hampton 2,No. 3,Patrick Wraith-Bell,Tom Maginness,Patrick Wraith-Bell,6-4,6,4,1,0,Completed,true,false,false
+UA009061,24 Aug 14,6,Kooyong Scotch,Hampton 2,No. 4,Phillip Mann-Segal,Jacob Travers,Phillip Mann-Segal,6-3,6,3,1,0,Completed,true,false,false
+UA009062,24 Aug 14,6,Coatesville,Dendy Park,No. 1,Luigi Cortez,Tom Brown,Luigi Cortez,6-4,6,4,1,0,Completed,true,false,false
+UA009062,24 Aug 14,6,Coatesville,Dendy Park,No. 2,Sam Basman,Harpo Barrett,Harpo Barrett,4-6,4,6,0,1,Completed,true,false,false
+UA009062,24 Aug 14,6,Coatesville,Dendy Park,No. 3,Thomas So,Miguel Bragagnolo,Miguel Bragagnolo,4-6,4,6,0,1,Completed,true,false,false
+UA009062,24 Aug 14,6,Coatesville,Dendy Park,No. 4,Yao Shau,Henry Armstrong,Henry Armstrong,5-7,5,7,0,1,Completed,true,false,false
+UA009063,24 Aug 14,6,Carmelite,Hampton 1,No. 1,Ella Pinto,Laura Dann,Laura Dann,6-7,6,7,0,1,Completed,true,false,false
+UA009063,24 Aug 14,6,Carmelite,Hampton 1,No. 2,Stella Barker,Jemma Gray,Stella Barker,6-2,6,2,1,0,Completed,true,false,false
+UA009063,24 Aug 14,6,Carmelite,Hampton 1,No. 3,Noah Jensz,Lucy Hagan,Noah Jensz,6-4,6,4,1,0,Completed,true,false,false
+UA009063,24 Aug 14,6,Carmelite,Hampton 1,No. 4,Georgia Plant,Dauliea Lopez,Georgia Plant,6-1,6,1,1,0,Completed,true,false,false
+UA009064,24 Aug 14,6,Lauriston,GPHC,No. 1,Kyle Howden,Hamish Hicks,Kyle Howden,6-2,6,2,1,0,Completed,true,false,false
+UA009064,24 Aug 14,6,Lauriston,GPHC,No. 2,Brooklyn Giacometti,Angus Crawford,Angus Crawford,2-6,2,6,0,1,Completed,true,false,false
+UA009064,24 Aug 14,6,Lauriston,GPHC,No. 3,Demeke Durant,Alistair McGillivray,Demeke Durant,6-3,6,3,1,0,Completed,true,false,false
+UA009064,24 Aug 14,6,Lauriston,GPHC,No. 4,Emma Yue,Hannah Todhunter,Emma Yue,6-1,6,1,1,0,Completed,true,false,false
+UA009071,31 Aug 14,7,Dendy Park,Hampton 2,No. 1,Tom Brown,Sean Howey,Sean Howey,5-7,5,7,0,1,Completed,true,false,false
+UA009071,31 Aug 14,7,Dendy Park,Hampton 2,No. 2,Harpo Barrett,Mathew Warman,Harpo Barrett,6-1,6,1,1,0,Completed,true,false,false
+UA009071,31 Aug 14,7,Dendy Park,Hampton 2,No. 3,Fleur Wackett,Daniel Reberger,Fleur Wackett,7-5,7,5,1,0,Completed,true,false,false
+UA009071,31 Aug 14,7,Dendy Park,Hampton 2,No. 4,Jonty Wells,Lachie Hernadi,Lachie Hernadi,3-6,3,6,0,1,Completed,true,false,false
+UA009072,31 Aug 14,7,Kooyong Scotch,Coatesville,No. 1,Seamus Synnott,Adrian Mitsel,Adrian Mitsel,6-7,6,7,0,1,Completed,true,false,false
+UA009072,31 Aug 14,7,Kooyong Scotch,Coatesville,No. 2,Anthony James,Luigi Cortez,Anthony James,6-2,6,2,1,0,Completed,true,false,false
+UA009072,31 Aug 14,7,Kooyong Scotch,Coatesville,No. 3,Linus Wraith-Bell,Sam Basman,Linus Wraith-Bell,6-2,6,2,1,0,Completed,true,false,false
+UA009072,31 Aug 14,7,Kooyong Scotch,Coatesville,No. 4,Patrick Wraith-Bell,Jacob Mundy,Patrick Wraith-Bell,6-1,6,1,1,0,Completed,true,false,false
+UA009073,31 Aug 14,7,GPHC,Hampton 1,No. 1,Angus Crawford,Fletcher Pullen,Fletcher Pullen,3-6,3,6,0,1,Completed,true,false,false
+UA009073,31 Aug 14,7,GPHC,Hampton 1,No. 2,Jessica Brown,Majella Howey,Majella Howey,2-6,2,6,0,1,Completed,true,false,false
+UA009073,31 Aug 14,7,GPHC,Hampton 1,No. 3,[Unnamed player — TROLS UA009073 home code 3],Laura Dann,Laura Dann,0-6,0,6,0,1,Completed,false,false,false
+UA009073,31 Aug 14,7,GPHC,Hampton 1,No. 4,Alistair McGillivray,Jemma Gray,Jemma Gray,3-6,3,6,0,1,Completed,true,false,false
+UA009074,31 Aug 14,7,Carmelite,Lauriston,No. 1,Ella Pinto,Brooklyn Giacometti,Ella Pinto,6-4,6,4,1,0,Completed,true,false,false
+UA009074,31 Aug 14,7,Carmelite,Lauriston,No. 2,Noah Jensz,Demeke Durant,Demeke Durant,2-6,2,6,0,1,Completed,true,false,false
+UA009074,31 Aug 14,7,Carmelite,Lauriston,No. 3,Georgia Plant,Emma Yue,Emma Yue,2-6,2,6,0,1,Completed,true,false,false
+UA009074,31 Aug 14,7,Carmelite,Lauriston,No. 4,Anders Costelloe,Alex Tritt,Alex Tritt,2-6,2,6,0,1,Completed,true,false,false
+UA009081,07 Sep 14,8,Lauriston,Dendy Park,No. 1,Linus Cheung,Tom Brown,Linus Cheung,6-0,6,0,1,0,Completed,true,false,false
+UA009081,07 Sep 14,8,Lauriston,Dendy Park,No. 2,Demeke Durant,Harpo Barrett,Demeke Durant,6-0,6,0,1,0,Completed,true,false,false
+UA009081,07 Sep 14,8,Lauriston,Dendy Park,No. 3,Emma Yue,Fleur Wackett,Fleur Wackett,2-6,2,6,0,1,Completed,true,false,false
+UA009081,07 Sep 14,8,Lauriston,Dendy Park,No. 4,Alex Tritt,Jonty Wells,Jonty Wells,3-6,3,6,0,1,Completed,true,false,false
+UA009082,07 Sep 14,8,Hampton 1,Kooyong Scotch,No. 1,Fletcher Pullen,Seamus Synnott,Fletcher Pullen,6-3,6,3,1,0,Completed,true,false,false
+UA009082,07 Sep 14,8,Hampton 1,Kooyong Scotch,No. 2,Majella Howey,Linus Wraith-Bell,Majella Howey,6-2,6,2,1,0,Completed,true,false,false
+UA009082,07 Sep 14,8,Hampton 1,Kooyong Scotch,No. 3,Jemma Gray,Patrick Wraith-Bell,Patrick Wraith-Bell,1-6,1,6,0,1,Completed,true,false,false
+UA009082,07 Sep 14,8,Hampton 1,Kooyong Scotch,No. 4,Lucy Hagan,Phillip Mann-Segal,Phillip Mann-Segal,1-6,1,6,0,1,Completed,true,false,false
+UA009083,07 Sep 14,8,Carmelite,Hampton 2,No. 1,Ella Pinto,Sean Howey,Sean Howey,4-6,4,6,0,1,Completed,true,false,false
+UA009083,07 Sep 14,8,Carmelite,Hampton 2,No. 2,Stella Barker,Mathew Warman,Mathew Warman,5-7,5,7,0,1,Completed,true,false,false
+UA009083,07 Sep 14,8,Carmelite,Hampton 2,No. 3,Noah Jensz,Connor McConville,Noah Jensz,6-1,6,1,1,0,Completed,true,false,false
+UA009083,07 Sep 14,8,Carmelite,Hampton 2,No. 4,Anders Costelloe,Lachie Hernadi,Lachie Hernadi,4-6,4,6,0,1,Completed,true,false,false
+UA009084,07 Sep 14,8,GPHC,Coatesville,No. 1,Hamish Hicks,Luigi Cortez,Hamish Hicks,6-4,6,4,1,0,Completed,true,false,false
+UA009084,07 Sep 14,8,GPHC,Coatesville,No. 2,Jessica Brown,Thomas So,Jessica Brown,6-4,6,4,1,0,Completed,true,false,false
+UA009084,07 Sep 14,8,GPHC,Coatesville,No. 3,Alex Kay,Jacob Mundy,Jacob Mundy,2-6,2,6,0,1,Completed,true,false,false
+UA009084,07 Sep 14,8,GPHC,Coatesville,No. 4,Hannah Todhunter,Yao Shau,Hannah Todhunter,6-1,6,1,1,0,Completed,true,false,false
+UA009091,14 Sep 14,9,Dendy Park,GPHC,No. 1,Harpo Barrett,Jessica Brown,Harpo Barrett,6-3,6,3,1,0,Completed,true,false,false
+UA009091,14 Sep 14,9,Dendy Park,GPHC,No. 2,Miguel Bragagnolo,Hannah Todhunter,Miguel Bragagnolo,6-0,6,0,1,0,Completed,true,false,false
+UA009091,14 Sep 14,9,Dendy Park,GPHC,No. 3,Fleur Wackett,Charlotte McIntosh,Charlotte McIntosh,3-6,3,6,0,1,Completed,true,false,false
+UA009091,14 Sep 14,9,Dendy Park,GPHC,No. 4,Jonty Wells,Celest Chidichimo,Celest Chidichimo,2-6,2,6,0,1,Completed,true,false,false
+UA009092,14 Sep 14,9,Kooyong Scotch,Lauriston,No. 1,Anthony James,Linus Cheung,Linus Cheung,2-6,2,6,0,1,Completed,true,false,false
+UA009092,14 Sep 14,9,Kooyong Scotch,Lauriston,No. 2,Linus Wraith-Bell,Kyle Howden,Kyle Howden,6-7,6,7,0,1,Completed,true,false,false
+UA009092,14 Sep 14,9,Kooyong Scotch,Lauriston,No. 3,Patrick Wraith-Bell,Brooklyn Giacometti,Patrick Wraith-Bell,6-0,6,0,1,0,Completed,true,false,false
+UA009092,14 Sep 14,9,Kooyong Scotch,Lauriston,No. 4,Phillip Mann-Segal,Alex Tritt,Phillip Mann-Segal,6-4,6,4,1,0,Completed,true,false,false
+UA009093,14 Sep 14,9,Hampton 2,Hampton 1,No. 1,Sean Howey,Laura Dann,Sean Howey,6-1,6,1,1,0,Completed,true,false,false
+UA009093,14 Sep 14,9,Hampton 2,Hampton 1,No. 2,Mathew Warman,Jemma Gray,Mathew Warman,6-4,6,4,1,0,Completed,true,false,false
+UA009093,14 Sep 14,9,Hampton 2,Hampton 1,No. 3,Lachie Hernadi,Lucy Hagan,Lachie Hernadi,7-5,7,5,1,0,Completed,true,false,false
+UA009093,14 Sep 14,9,Hampton 2,Hampton 1,No. 4,Jacob Travers,Bridgette Hagan,Jacob Travers,7-6,7,6,1,0,Completed,true,false,false
+UA009094,14 Sep 14,9,Coatesville,Carmelite,No. 1,Adrian Mitsel,Ella Pinto,Adrian Mitsel,6-4,6,4,1,0,Completed,true,false,false
+UA009094,14 Sep 14,9,Coatesville,Carmelite,No. 2,Sam Basman,Stella Barker,Sam Basman,6-0,6,0,1,0,Completed,true,false,false
+UA009094,14 Sep 14,9,Coatesville,Carmelite,No. 3,Thomas So,Noah Jensz,Noah Jensz,2-6,2,6,0,1,Completed,true,false,false
+UA009094,14 Sep 14,9,Coatesville,Carmelite,No. 4,Yao Shau,Georgia Plant,Yao Shau,6-3,6,3,1,0,Completed,true,false,false
+UA009101,12 Oct 14,10,Carmelite,Dendy Park,No. 1,Stella Barker,Tom Brown,Stella Barker,6-1,6,1,1,0,Completed,true,false,false
+UA009101,12 Oct 14,10,Carmelite,Dendy Park,No. 2,Noah Jensz,Harpo Barrett,Harpo Barrett,5-7,5,7,0,1,Completed,true,false,false
+UA009101,12 Oct 14,10,Carmelite,Dendy Park,No. 3,Georgia Plant,Fleur Wackett,Georgia Plant,6-4,6,4,1,0,Completed,true,false,false
+UA009101,12 Oct 14,10,Carmelite,Dendy Park,No. 4,Anders Costelloe,Jonty Wells,Anders Costelloe,6-2,6,2,1,0,Completed,true,false,false
+UA009102,12 Oct 14,10,GPHC,Kooyong Scotch,No. 1,Hamish Hicks,Seamus Synnott,Seamus Synnott,1-6,1,6,0,1,Completed,true,false,false
+UA009102,12 Oct 14,10,GPHC,Kooyong Scotch,No. 2,Angus Crawford,Anthony James,Anthony James,2-6,2,6,0,1,Completed,true,false,false
+UA009102,12 Oct 14,10,GPHC,Kooyong Scotch,No. 3,Jessica Brown,Linus Wraith-Bell,Linus Wraith-Bell,0-6,0,6,0,1,Completed,true,false,false
+UA009102,12 Oct 14,10,GPHC,Kooyong Scotch,No. 4,Alex Kay,Phillip Mann-Segal,Phillip Mann-Segal,3-6,3,6,0,1,Completed,true,false,false
+UA009103,12 Oct 14,10,Lauriston,Hampton 2,No. 1,Kyle Howden,Mathew Warman,Kyle Howden,6-3,6,3,1,0,Completed,true,false,false
+UA009103,12 Oct 14,10,Lauriston,Hampton 2,No. 2,Brooklyn Giacometti,Daniel Reberger,Daniel Reberger,1-6,1,6,0,1,Completed,true,false,false
+UA009103,12 Oct 14,10,Lauriston,Hampton 2,No. 3,Demeke Durant,Connor McConville,Demeke Durant,6-0,6,0,1,0,Completed,true,false,false
+UA009103,12 Oct 14,10,Lauriston,Hampton 2,No. 4,Alex Tritt,Lachie Hernadi,Alex Tritt,6-3,6,3,1,0,Completed,true,false,false
+UA009104,12 Oct 14,10,Hampton 1,Coatesville,No. 1,Fletcher Pullen,Adrian Mitsel,Fletcher Pullen,6-4,6,4,1,0,Completed,true,false,false
+UA009104,12 Oct 14,10,Hampton 1,Coatesville,No. 2,Majella Howey,Luigi Cortez,Majella Howey,6-3,6,3,1,0,Completed,true,false,false
+UA009104,12 Oct 14,10,Hampton 1,Coatesville,No. 3,Laura Dann,Sam Basman,Laura Dann,6-0,6,0,1,0,Completed,true,false,false
+UA009104,12 Oct 14,10,Hampton 1,Coatesville,No. 4,Jemma Gray,Jacob Mundy,Jacob Mundy,4-6,4,6,0,1,Completed,true,false,false
+UA009111,19 Oct 14,11,Dendy Park,Hampton 1,No. 1,Tom Brown,Fletcher Pullen,Fletcher Pullen,1-6,1,6,0,1,Completed,true,false,false
+UA009111,19 Oct 14,11,Dendy Park,Hampton 1,No. 2,Miguel Bragagnolo,Majella Howey,Majella Howey,4-6,4,6,0,1,Completed,true,false,false
+UA009111,19 Oct 14,11,Dendy Park,Hampton 1,No. 3,Jonty Wells,Lucy Hagan,Lucy Hagan,2-6,2,6,0,1,Completed,true,false,false
+UA009111,19 Oct 14,11,Dendy Park,Hampton 1,No. 4,Henry Armstrong,Bridgette Hagan,Henry Armstrong,6-3,6,3,1,0,Completed,true,false,false
+UA009112,19 Oct 14,11,Kooyong Scotch,Carmelite,No. 1,Anthony James,Ella Pinto,Anthony James,7-6,7,6,1,0,Completed,true,false,false
+UA009112,19 Oct 14,11,Kooyong Scotch,Carmelite,No. 2,Linus Wraith-Bell,Stella Barker,Linus Wraith-Bell,6-1,6,1,1,0,Completed,true,false,false
+UA009112,19 Oct 14,11,Kooyong Scotch,Carmelite,No. 3,Patrick Wraith-Bell,Georgia Plant,Patrick Wraith-Bell,6-1,6,1,1,0,Completed,true,false,false
+UA009112,19 Oct 14,11,Kooyong Scotch,Carmelite,No. 4,Phillip Mann-Segal,Anders Costelloe,Phillip Mann-Segal,6-4,6,4,1,0,Completed,true,false,false
+UA009113,19 Oct 14,11,Hampton 2,GPHC,No. 1,Sean Howey,Angus Crawford,Sean Howey,6-1,6,1,1,0,Completed,true,false,false
+UA009113,19 Oct 14,11,Hampton 2,GPHC,No. 2,Mathew Warman,Jessica Brown,Jessica Brown,1-6,1,6,0,1,Completed,true,false,false
+UA009113,19 Oct 14,11,Hampton 2,GPHC,No. 3,Daniel Reberger,Alex Kay,Daniel Reberger,6-4,6,4,1,0,Completed,true,false,false
+UA009113,19 Oct 14,11,Hampton 2,GPHC,No. 4,Connor McConville,Hannah Todhunter,Connor McConville,6-3,6,3,1,0,Completed,true,false,false
+UA009114,19 Oct 14,11,Coatesville,Lauriston,No. 1,Luigi Cortez,Kyle Howden,Kyle Howden,4-6,4,6,0,1,Completed,true,false,false
+UA009114,19 Oct 14,11,Coatesville,Lauriston,No. 2,Thomas So,Brooklyn Giacometti,Thomas So,6-2,6,2,1,0,Completed,true,false,false
+UA009114,19 Oct 14,11,Coatesville,Lauriston,No. 3,Jacob Mundy,Emma Yue,Emma Yue,3-6,3,6,0,1,Completed,true,false,false
+UA009114,19 Oct 14,11,Coatesville,Lauriston,No. 4,Yao Shau,Alex Tritt,Yao Shau,6-1,6,1,1,0,Completed,true,false,false
+UA009121,26 Oct 14,12,Coatesville,Hampton 2,No. 1,Adrian Mitsel,Mathew Warman,Mathew Warman,4-6,4,6,0,1,Completed,true,false,false
+UA009121,26 Oct 14,12,Coatesville,Hampton 2,No. 2,Sam Basman,Daniel Reberger,Daniel Reberger,2-6,2,6,0,1,Completed,true,false,false
+UA009121,26 Oct 14,12,Coatesville,Hampton 2,No. 3,Thomas So,Connor McConville,Connor McConville,1-6,1,6,0,1,Completed,true,false,false
+UA009121,26 Oct 14,12,Coatesville,Hampton 2,No. 4,Yao Shau,Lachie Hernadi,Lachie Hernadi,3-6,3,6,0,1,Completed,true,false,false
+UA009122,26 Oct 14,12,Carmelite,GPHC,No. 1,Ella Pinto,Hamish Hicks,Hamish Hicks,1-6,1,6,0,1,Completed,true,false,false
+UA009122,26 Oct 14,12,Carmelite,GPHC,No. 2,Stella Barker,Angus Crawford,Stella Barker,7-5,7,5,1,0,Completed,true,false,false
+UA009122,26 Oct 14,12,Carmelite,GPHC,No. 3,Georgia Plant,Alex Kay,Georgia Plant,6-3,6,3,1,0,Completed,true,false,false
+UA009122,26 Oct 14,12,Carmelite,GPHC,No. 4,Anders Costelloe,Alistair McGillivray,Anders Costelloe,6-1,6,1,1,0,Completed,true,false,false
+UA009123,26 Oct 14,12,Lauriston,Hampton 1,No. 1,Linus Cheung,Jemma Gray,Linus Cheung,6-1,6,1,1,0,Completed,true,false,false
+UA009123,26 Oct 14,12,Lauriston,Hampton 1,No. 2,Demeke Durant,Lucy Hagan,Demeke Durant,6-2,6,2,1,0,Completed,true,false,false
+UA009123,26 Oct 14,12,Lauriston,Hampton 1,No. 3,Emma Yue,Bridgette Hagan,Emma Yue,6-3,6,3,1,0,Completed,true,false,false
+UA009123,26 Oct 14,12,Lauriston,Hampton 1,No. 4,Alex Tritt,Emily Dann,Emily Dann,4-6,4,6,0,1,Completed,true,false,false
+UA009124,26 Oct 14,12,Kooyong Scotch,Dendy Park,No. 1,Seamus Synnott,Tom Brown,Seamus Synnott,6-1,6,1,1,0,Completed,true,false,false
+UA009124,26 Oct 14,12,Kooyong Scotch,Dendy Park,No. 2,Anthony James,Harpo Barrett,Harpo Barrett,4-6,4,6,0,1,Completed,true,false,false
+UA009124,26 Oct 14,12,Kooyong Scotch,Dendy Park,No. 3,Linus Wraith-Bell,Miguel Bragagnolo,Linus Wraith-Bell,6-4,6,4,1,0,Completed,true,false,false
+UA009124,26 Oct 14,12,Kooyong Scotch,Dendy Park,No. 4,Phillip Mann-Segal,Henry Armstrong,Phillip Mann-Segal,6-2,6,2,1,0,Completed,true,false,false
+UA009131,09 Nov 14,13,Hampton 2,Kooyong Scotch,No. 1,Sean Howey,Seamus Synnott,Sean Howey,6-3,6,3,1,0,Completed,true,false,false
+UA009131,09 Nov 14,13,Hampton 2,Kooyong Scotch,No. 2,Mathew Warman,Anthony James,Anthony James,4-6,4,6,0,1,Completed,true,false,false
+UA009131,09 Nov 14,13,Hampton 2,Kooyong Scotch,No. 3,Connor McConville,Linus Wraith-Bell,Linus Wraith-Bell,3-6,3,6,0,1,Completed,true,false,false
+UA009131,09 Nov 14,13,Hampton 2,Kooyong Scotch,No. 4,Lachie Hernadi,Phillip Mann-Segal,Phillip Mann-Segal,4-6,4,6,0,1,Completed,true,false,false
+UA009132,09 Nov 14,13,Dendy Park,Coatesville,No. 1,Tom Brown,Adrian Mitsel,Tom Brown,6-1,6,1,1,0,Completed,true,false,false
+UA009132,09 Nov 14,13,Dendy Park,Coatesville,No. 2,Harpo Barrett,Luigi Cortez,Harpo Barrett,6-3,6,3,1,0,Completed,true,false,false
+UA009132,09 Nov 14,13,Dendy Park,Coatesville,No. 3,Miguel Bragagnolo,Sam Basman,Miguel Bragagnolo,6-2,6,2,1,0,Completed,true,false,false
+UA009132,09 Nov 14,13,Dendy Park,Coatesville,No. 4,Fleur Wackett,Jacob Mundy,Fleur Wackett,6-3,6,3,1,0,Completed,true,false,false
+UA009133,09 Nov 14,13,Hampton 1,Carmelite,No. 1,Fletcher Pullen,Ella Pinto,Fletcher Pullen,6-0,6,0,1,0,Completed,true,false,false
+UA009133,09 Nov 14,13,Hampton 1,Carmelite,No. 2,Majella Howey,Noah Jensz,Majella Howey,6-3,6,3,1,0,Completed,true,false,false
+UA009133,09 Nov 14,13,Hampton 1,Carmelite,No. 3,Lucy Hagan,Georgia Plant,Lucy Hagan,6-3,6,3,1,0,Completed,true,false,false
+UA009133,09 Nov 14,13,Hampton 1,Carmelite,No. 4,Eliza Maginness,Anders Costelloe,Anders Costelloe,4-6,4,6,0,1,Completed,true,false,false
+UA009134,09 Nov 14,13,GPHC,Lauriston,No. 1,Hamish Hicks,Linus Cheung,Linus Cheung,3-6,3,6,0,1,Completed,true,false,false
+UA009134,09 Nov 14,13,GPHC,Lauriston,No. 2,Angus Crawford,Kyle Howden,Kyle Howden,1-6,1,6,0,1,Completed,true,false,false
+UA009134,09 Nov 14,13,GPHC,Lauriston,No. 3,Jessica Brown,Brooklyn Giacometti,Jessica Brown,6-4,6,4,1,0,Completed,true,false,false
+UA009134,09 Nov 14,13,GPHC,Lauriston,No. 4,Alistair McGillivray,Demeke Durant,Demeke Durant,1-6,1,6,0,1,Completed,true,false,false
+UA009301,,16,Kooyong Scotch,Hampton 2,No. 1,Seamus Synnott,Sean Howey,Seamus Synnott,6-2,6,2,1,0,Completed,true,false,false
+UA009301,,16,Kooyong Scotch,Hampton 2,No. 2,Anthony James,Mathew Warman,Anthony James,6-1,6,1,1,0,Completed,true,false,false
+UA009301,,16,Kooyong Scotch,Hampton 2,No. 3,Patrick Wraith-Bell,Daniel Reberger,Patrick Wraith-Bell,6-0,6,0,1,0,Completed,true,false,false
+UA009301,,16,Kooyong Scotch,Hampton 2,No. 4,Phillip Mann-Segal,Connor McConville,Phillip Mann-Segal,7-6,7,6,1,0,Completed,true,false,false
+UA009302,,16,Hampton 1,Lauriston,No. 1,Fletcher Pullen,Linus Cheung,Fletcher Pullen,6-2,6,2,1,0,Completed,true,false,false
+UA009302,,16,Hampton 1,Lauriston,No. 2,Majella Howey,Kyle Howden,Majella Howey,7-5,7,5,1,0,Completed,true,false,false
+UA009302,,16,Hampton 1,Lauriston,No. 3,Laura Dann,Brooklyn Giacometti,Laura Dann,6-3,6,3,1,0,Completed,true,false,false
+UA009302,,16,Hampton 1,Lauriston,No. 4,Lucy Hagan,Demeke Durant,Demeke Durant,0-6,0,6,0,1,Completed,true,false,false
+UA009321,,17,Kooyong Scotch,Hampton 1,No. 1,Seamus Synnott,Fletcher Pullen,Fletcher Pullen,3-6,3,6,0,1,Completed,true,false,false
+UA009321,,17,Kooyong Scotch,Hampton 1,No. 2,Anthony James,Majella Howey,Majella Howey,4-6,4,6,0,1,Completed,true,false,false
+UA009321,,17,Kooyong Scotch,Hampton 1,No. 3,Patrick Wraith-Bell,Laura Dann,Patrick Wraith-Bell,6-1,6,1,1,0,Completed,true,false,false
+UA009321,,17,Kooyong Scotch,Hampton 1,No. 4,Phillip Mann-Segal,Jemma Gray,Phillip Mann-Segal,6-0,6,0,1,0,Completed,true,false,false

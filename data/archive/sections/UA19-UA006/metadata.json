@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA19-UA006",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2016",
+  "season_id": "UA19",
+  "season_label": "Spring 2016",
+  "source_section_code": "UA006",
+  "section_label": "Section 6",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Lauriston",
+      "wins": 13,
+      "points": 109,
+      "percentage": 149.49,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Bentleigh Rec",
+      "wins": 10,
+      "points": 94,
+      "percentage": 124.0,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Carmelite",
+      "wins": 8,
+      "points": 83,
+      "percentage": 105.81,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong Scotch 2",
+      "wins": 7,
+      "points": 73,
+      "percentage": 101.77,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong Scotch 1",
+      "wins": 5,
+      "points": 58,
+      "percentage": 88.44,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal South Yarra",
+      "wins": 3,
+      "points": 53,
+      "percentage": 90.94,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Glen Eira",
+      "wins": 3,
+      "points": 49,
+      "percentage": 85.71,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Maccabi",
+      "wins": 2,
+      "points": 41,
+      "percentage": 69.95,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA19-UA006",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

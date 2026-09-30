@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA33-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2023",
+  "season_id": "UA33",
+  "season_label": "Spring 2023",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Hurlingham Park",
+      "wins": 10,
+      "points": 94,
+      "percentage": 177.21,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Royal Ave",
+      "wins": 7,
+      "points": 72,
+      "percentage": 109.35,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "BLTC Blue",
+      "wins": 7,
+      "points": 70,
+      "percentage": 123.53,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Carmelite",
+      "wins": 6,
+      "points": 56,
+      "percentage": 95.08,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 5,
+      "points": 51,
+      "percentage": 76.76,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Highmoor Uniting",
+      "wins": 4,
+      "points": 49,
+      "percentage": 93.4,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong",
+      "wins": 1,
+      "points": 28,
+      "percentage": 64.65,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA33-UA002",
+  "fixtures": 59,
+  "completed_fixtures": 43,
+  "draw_fixtures": 59,
+  "singles_rubbers": 172,
+  "doubles_rubbers": 86,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

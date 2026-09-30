@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA12-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2013",
+  "season_id": "UA12",
+  "season_label": "Autumn 2013",
+  "source_section_code": "UA017",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Andrews MB",
+      "wins": 10,
+      "points": 106,
+      "percentage": 169.26,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "GPHC",
+      "wins": 11,
+      "points": 99,
+      "percentage": 123.2,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "St Kevin's",
+      "wins": 6,
+      "points": 79,
+      "percentage": 115.33,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Lauriston",
+      "wins": 7,
+      "points": 70,
+      "percentage": 89.84,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Tennis World",
+      "wins": 6,
+      "points": 67,
+      "percentage": 101.17,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC",
+      "wins": 5,
+      "points": 52,
+      "percentage": 84.25,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kings Park",
+      "wins": 4,
+      "points": 49,
+      "percentage": 73.32,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Coatesville",
+      "wins": 1,
+      "points": 38,
+      "percentage": 79.78,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA12-UA017",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 45,
+  "singles_rubbers": 216,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

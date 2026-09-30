@@ -1,0 +1,237 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA001011,17 Jul 22,1,BLTC,Royal South Yarra,No. 1,Adam Livermore,Charlie Anderson,Adam Livermore,6-2,6,2,1,0,Completed,true,false,false
+UA001011,17 Jul 22,1,BLTC,Royal South Yarra,No. 2,Vivashh Maheswaran,Peter Tabain,Peter Tabain,2-6,2,6,0,1,Completed,true,false,false
+UA001011,17 Jul 22,1,BLTC,Royal South Yarra,No. 3,Christian Tomasic,Parth Chitroda,Parth Chitroda,0-6,0,6,0,1,Completed,true,false,false
+UA001011,17 Jul 22,1,BLTC,Royal South Yarra,No. 4,Julian Catala Prieto,Ben Frewin,Julian Catala Prieto,6-4,6,4,1,0,Completed,true,false,false
+UA001012,17 Jul 22,1,Coatesville,Le Page,No. 1,Daniel Dela Cruz,Mark Petkoff,Mark Petkoff,2-6,2,6,0,1,Completed,true,false,false
+UA001012,17 Jul 22,1,Coatesville,Le Page,No. 2,Sam Basman,Diesel Reid,Sam Basman,7-6,7,6,1,0,Completed,true,false,false
+UA001012,17 Jul 22,1,Coatesville,Le Page,No. 3,Michael Gershenzon,Sarah Daniell,Michael Gershenzon,6-0,6,0,1,0,Completed,true,false,false
+UA001012,17 Jul 22,1,Coatesville,Le Page,No. 4,Nicolas Chau,Lucy Sutton,Nicolas Chau,6-0,6,0,1,0,Completed,true,false,false
+UA001013,17 Jul 22,1,Dendy Park 1,Dendy Park 2,No. 1,Andreas Tanti,Damien Hookway,Andreas Tanti,6-4,6,4,1,0,Completed,true,false,false
+UA001013,17 Jul 22,1,Dendy Park 1,Dendy Park 2,No. 2,Jonathon Henquin,Jackson Follett,Jonathon Henquin,6-2,6,2,1,0,Completed,true,false,true
+UA001013,17 Jul 22,1,Dendy Park 1,Dendy Park 2,No. 3,Jackson Mullaly,Christian Karatzas,Christian Karatzas,3-6,3,6,0,1,Completed,true,false,false
+UA001013,17 Jul 22,1,Dendy Park 1,Dendy Park 2,No. 4,Ashley Small,Tom Stein,Tom Stein,1-6,1,6,0,1,Completed,true,false,false
+UA001014,17 Jul 22,1,GPHC,Kooyong,No. 1,Luca Bond,Lysander Mitchell,Luca Bond,6-0,6,0,1,0,Completed,true,false,false
+UA001014,17 Jul 22,1,GPHC,Kooyong,No. 2,Harri Joughin,Alex Satyendra,Harri Joughin,6-0,6,0,1,0,Completed,true,false,false
+UA001014,17 Jul 22,1,GPHC,Kooyong,No. 3,Max Noble,Joshua Icasiano,Joshua Icasiano,1-6,1,6,0,1,Completed,true,false,false
+UA001014,17 Jul 22,1,GPHC,Kooyong,No. 4,Joey Govenlock,Jesse Theodore,Joey Govenlock,6-0,6,0,1,0,Completed,true,false,false
+UA001021,24 Jul 22,2,Kooyong,BLTC,No. 1,Carl Gerstman,Adam Livermore,Adam Livermore,2-6,2,6,0,1,Completed,true,false,false
+UA001021,24 Jul 22,2,Kooyong,BLTC,No. 2,Lysander Mitchell,Vivashh Maheswaran,Vivashh Maheswaran,3-6,3,6,0,1,Completed,true,false,false
+UA001021,24 Jul 22,2,Kooyong,BLTC,No. 3,Harriet Venn,Christian Tomasic,Christian Tomasic,2-6,2,6,0,1,Completed,true,false,false
+UA001021,24 Jul 22,2,Kooyong,BLTC,No. 4,Jesse Theodore,Julian Catala Prieto,Julian Catala Prieto,2-6,2,6,0,1,Completed,true,false,false
+UA001022,24 Jul 22,2,Royal South Yarra,Coatesville,No. 1,Charlie Anderson,Daniel Dela Cruz,Daniel Dela Cruz,4-6,4,6,0,1,Completed,true,false,false
+UA001022,24 Jul 22,2,Royal South Yarra,Coatesville,No. 2,Peter Tabain,Sam Basman,Peter Tabain,6-3,6,3,1,0,Completed,true,false,false
+UA001022,24 Jul 22,2,Royal South Yarra,Coatesville,No. 3,Zac Havryluk,Nicolas Chau,Zac Havryluk,6-4,6,4,1,0,Completed,true,false,false
+UA001022,24 Jul 22,2,Royal South Yarra,Coatesville,No. 4,Ben Frewin,Ashton Eikilis,Ashton Eikilis,6-7,6,7,0,1,Completed,true,false,false
+UA001023,24 Jul 22,2,Le Page,Dendy Park 1,No. 1,Diesel Reid,Andreas Tanti,Andreas Tanti,3-6,3,6,0,1,Completed,true,false,false
+UA001023,24 Jul 22,2,Le Page,Dendy Park 1,No. 2,Sarah Daniell,Jonathon Henquin,Jonathon Henquin,2-6,2,6,0,1,Completed,true,false,false
+UA001023,24 Jul 22,2,Le Page,Dendy Park 1,No. 3,Lucy Sutton,Jackson Mullaly,Lucy Sutton,6-4,6,4,1,0,Completed,true,false,false
+UA001023,24 Jul 22,2,Le Page,Dendy Park 1,No. 4,Dane Lazic,Ashley Small,Ashley Small,4-6,4,6,0,1,Completed,true,false,false
+UA001024,24 Jul 22,2,Dendy Park 2,GPHC,No. 1,Henri Robinson,Max Noble,Henri Robinson,6-2,6,2,1,0,Completed,true,false,false
+UA001024,24 Jul 22,2,Dendy Park 2,GPHC,No. 2,Angelee Singh,Joey Govenlock,Joey Govenlock,1-6,1,6,0,1,Completed,true,false,false
+UA001024,24 Jul 22,2,Dendy Park 2,GPHC,No. 3,Christian Karatzas,Aaryan Antil,Aaryan Antil,3-6,3,6,0,1,Completed,true,false,false
+UA001024,24 Jul 22,2,Dendy Park 2,GPHC,No. 4,Tom Stein,Oliver Bond,Oliver Bond,2-6,2,6,0,1,Completed,true,false,false
+UA001031,31 Jul 22,3,BLTC,Dendy Park 2,No. 1,Adam Livermore,Angelee Singh,Adam Livermore,6-1,6,1,1,0,Completed,true,false,false
+UA001031,31 Jul 22,3,BLTC,Dendy Park 2,No. 2,Vivashh Maheswaran,Damien Hookway,Vivashh Maheswaran,6-4,6,4,1,0,Completed,true,false,false
+UA001031,31 Jul 22,3,BLTC,Dendy Park 2,No. 3,Christian Tomasic,Jackson Follett,Jackson Follett,0-6,0,6,0,1,Completed,true,false,true
+UA001031,31 Jul 22,3,BLTC,Dendy Park 2,No. 4,Julian Catala Prieto,Tom Stein,Tom Stein,2-6,2,6,0,1,Completed,true,false,false
+UA001032,31 Jul 22,3,Coatesville,Kooyong,No. 1,Daniel Dela Cruz,Lysander Mitchell,Daniel Dela Cruz,6-0,6,0,1,0,Completed,true,false,false
+UA001032,31 Jul 22,3,Coatesville,Kooyong,No. 2,Sam Basman,Joshua Icasiano,Sam Basman,6-4,6,4,1,0,Completed,true,false,false
+UA001032,31 Jul 22,3,Coatesville,Kooyong,No. 3,Michael Gershenzon,Nick Howitt,Michael Gershenzon,6-0,6,0,1,0,Completed,true,false,false
+UA001032,31 Jul 22,3,Coatesville,Kooyong,No. 4,Nicolas Chau,Harriet Venn,Nicolas Chau,6-1,6,1,1,0,Completed,true,false,false
+UA001033,31 Jul 22,3,Dendy Park 1,Royal South Yarra,No. 1,Andreas Tanti,Charlie Anderson,Andreas Tanti,6-4,6,4,1,0,Completed,true,false,false
+UA001033,31 Jul 22,3,Dendy Park 1,Royal South Yarra,No. 2,Jonathon Henquin,Parth Chitroda,Jonathon Henquin,6-2,6,2,1,0,Completed,true,false,false
+UA001033,31 Jul 22,3,Dendy Park 1,Royal South Yarra,No. 3,Jackson Mullaly,Freddie Hunt,Jackson Mullaly,6-1,6,1,1,0,Completed,true,false,false
+UA001033,31 Jul 22,3,Dendy Park 1,Royal South Yarra,No. 4,Ashley Small,Zac Havryluk,Ashley Small,6-4,6,4,1,0,Completed,true,false,false
+UA001034,31 Jul 22,3,GPHC,Le Page,No. 1,Max Noble,Mark Petkoff,Mark Petkoff,1-6,1,6,0,1,Completed,true,false,false
+UA001034,31 Jul 22,3,GPHC,Le Page,No. 2,Joey Govenlock,Jonathon Deriboklou,Joey Govenlock,6-2,6,2,1,0,Completed,true,false,false
+UA001034,31 Jul 22,3,GPHC,Le Page,No. 3,Aaryan Antil,Diesel Reid,Aaryan Antil,6-3,6,3,1,0,Completed,true,false,false
+UA001034,31 Jul 22,3,GPHC,Le Page,No. 4,Will Marquat,Sarah Daniell,Will Marquat,6-4,6,4,1,0,Completed,true,false,false
+UA001041,07 Aug 22,4,Le Page,BLTC,No. 1,Jonathon Deriboklou,Adam Livermore,Adam Livermore,5-7,5,7,0,1,Completed,true,false,false
+UA001041,07 Aug 22,4,Le Page,BLTC,No. 2,Diesel Reid,Vivashh Maheswaran,Vivashh Maheswaran,2-6,2,6,0,1,Completed,true,false,false
+UA001041,07 Aug 22,4,Le Page,BLTC,No. 3,Lucy Sutton,Christian Tomasic,Christian Tomasic,1-6,1,6,0,1,Completed,true,false,false
+UA001041,07 Aug 22,4,Le Page,BLTC,No. 4,Dane Lazic,Julian Catala Prieto,Julian Catala Prieto,1-6,1,6,0,1,Completed,true,false,false
+UA001042,07 Aug 22,4,Dendy Park 2,Coatesville,No. 1,Henri Robinson,Daniel Dela Cruz,Daniel Dela Cruz,0-6,0,6,0,1,Completed,true,false,false
+UA001042,07 Aug 22,4,Dendy Park 2,Coatesville,No. 2,Damien Hookway,Meiji Forni,Meiji Forni,0-6,0,6,0,1,Completed,true,false,false
+UA001042,07 Aug 22,4,Dendy Park 2,Coatesville,No. 3,Jackson Follett,Michael Gershenzon,Jackson Follett,6-1,6,1,1,0,Completed,true,true,false
+UA001042,07 Aug 22,4,Dendy Park 2,Coatesville,No. 4,Tom Stein,Ashton Eikilis,Ashton Eikilis,3-6,3,6,0,1,Completed,true,false,false
+UA001043,07 Aug 22,4,Kooyong,Dendy Park 1,No. 1,Lysander Mitchell,Andreas Tanti,Andreas Tanti,0-6,0,6,0,1,Completed,true,false,false
+UA001043,07 Aug 22,4,Kooyong,Dendy Park 1,No. 2,Alex Satyendra,Jonathon Henquin,Jonathon Henquin,0-6,0,6,0,1,Completed,true,false,false
+UA001043,07 Aug 22,4,Kooyong,Dendy Park 1,No. 3,Harriet Venn,Jackson Mullaly,Jackson Mullaly,1-6,1,6,0,1,Completed,true,false,false
+UA001043,07 Aug 22,4,Kooyong,Dendy Park 1,No. 4,Thomas Earle,Ashley Small,Thomas Earle,6-2,6,2,1,0,Completed,true,true,false
+UA001044,07 Aug 22,4,Royal South Yarra,GPHC,No. 1,Peter Tabain,Max Noble,Peter Tabain,6-2,6,2,1,0,Completed,true,false,false
+UA001044,07 Aug 22,4,Royal South Yarra,GPHC,No. 2,Freddie Hunt,Joey Govenlock,Freddie Hunt,6-3,6,3,1,0,Completed,true,false,false
+UA001044,07 Aug 22,4,Royal South Yarra,GPHC,No. 3,Zac Havryluk,Aaryan Antil,Aaryan Antil,1-6,1,6,0,1,Completed,true,false,false
+UA001044,07 Aug 22,4,Royal South Yarra,GPHC,No. 4,Ben Frewin,Will Marquat,Ben Frewin,6-1,6,1,1,0,Completed,true,false,false
+UA001051,14 Aug 22,5,Dendy Park 1,GPHC,No. 1,Andreas Tanti,[Unnamed player — TROLS UA001051 away code 1],Andreas Tanti,6-0,6,0,1,0,Completed,false,false,false
+UA001051,14 Aug 22,5,Dendy Park 1,GPHC,No. 2,Jonathon Henquin,Joey Govenlock,Jonathon Henquin,6-0,6,0,1,0,Completed,true,false,false
+UA001051,14 Aug 22,5,Dendy Park 1,GPHC,No. 3,Jackson Mullaly,Aaryan Antil,Aaryan Antil,2-6,2,6,0,1,Completed,true,false,false
+UA001051,14 Aug 22,5,Dendy Park 1,GPHC,No. 4,Ashley Small,Bill Sanders,Ashley Small,6-4,6,4,1,0,Completed,true,false,true
+UA001052,14 Aug 22,5,Kooyong,Dendy Park 2,No. 1,Lysander Mitchell,Damien Hookway,Lysander Mitchell,6-3,6,3,1,0,Completed,true,false,false
+UA001052,14 Aug 22,5,Kooyong,Dendy Park 2,No. 2,Alex Satyendra,Christian Karatzas,Christian Karatzas,1-6,1,6,0,1,Completed,true,false,false
+UA001052,14 Aug 22,5,Kooyong,Dendy Park 2,No. 3,Joshua Icasiano,Tom Stein,Tom Stein,1-6,1,6,0,1,Completed,true,false,false
+UA001052,14 Aug 22,5,Kooyong,Dendy Park 2,No. 4,Nick Howitt,Noam Barel,Noam Barel,2-6,2,6,0,1,Completed,true,false,true
+UA001053,14 Aug 22,5,Le Page,Royal South Yarra,No. 1,Mark Petkoff,Charlie Anderson,Mark Petkoff,6-3,6,3,1,0,Completed,true,false,false
+UA001053,14 Aug 22,5,Le Page,Royal South Yarra,No. 2,Jonathon Deriboklou,Parth Chitroda,Jonathon Deriboklou,6-4,6,4,1,0,Completed,true,false,false
+UA001053,14 Aug 22,5,Le Page,Royal South Yarra,No. 3,Lucy Sutton,[Unnamed player — TROLS UA001053 away code 3],Lucy Sutton,6-0,6,0,1,0,Completed,false,false,false
+UA001053,14 Aug 22,5,Le Page,Royal South Yarra,No. 4,Dane Lazic,Freddie Hunt,Freddie Hunt,1-6,1,6,0,1,Completed,true,false,false
+UA001054,14 Aug 22,5,BLTC,Coatesville,No. 1,Adam Livermore,Daniel Dela Cruz,Adam Livermore,6-0,6,0,1,0,Completed,true,false,false
+UA001054,14 Aug 22,5,BLTC,Coatesville,No. 2,Vivashh Maheswaran,Meiji Forni,Meiji Forni,1-6,1,6,0,1,Completed,true,false,false
+UA001054,14 Aug 22,5,BLTC,Coatesville,No. 3,Christian Tomasic,Sam Basman,Christian Tomasic,7-6,7,6,1,0,Completed,true,false,false
+UA001054,14 Aug 22,5,BLTC,Coatesville,No. 4,Julian Catala Prieto,Ashton Eikilis,Ashton Eikilis,3-6,3,6,0,1,Completed,true,false,false
+UA001061,21 Aug 22,6,Coatesville,Dendy Park 1,No. 1,Daniel Dela Cruz,Andreas Tanti,Andreas Tanti,1-6,1,6,0,1,Completed,true,false,false
+UA001061,21 Aug 22,6,Coatesville,Dendy Park 1,No. 2,Meiji Forni,Jonathon Henquin,Jonathon Henquin,4-6,4,6,0,1,Completed,true,false,false
+UA001061,21 Aug 22,6,Coatesville,Dendy Park 1,No. 3,Sam Basman,Jackson Mullaly,Sam Basman,6-2,6,2,1,0,Completed,true,false,false
+UA001061,21 Aug 22,6,Coatesville,Dendy Park 1,No. 4,Michael Gershenzon,Ashley Small,Michael Gershenzon,6-1,6,1,1,0,Completed,true,false,false
+UA001062,21 Aug 22,6,GPHC,BLTC,No. 1,Luca Bond,Adam Livermore,Luca Bond,6-1,6,1,1,0,Completed,true,false,false
+UA001062,21 Aug 22,6,GPHC,BLTC,No. 2,Joey Govenlock,Vivashh Maheswaran,Joey Govenlock,6-3,6,3,1,0,Completed,true,false,false
+UA001062,21 Aug 22,6,GPHC,BLTC,No. 3,Aaryan Antil,Joshua Freeman,Aaryan Antil,6-0,6,0,1,0,Completed,true,false,true
+UA001062,21 Aug 22,6,GPHC,BLTC,No. 4,Jem Danacher,Christian Tomasic,Christian Tomasic,4-6,4,6,0,1,Completed,true,true,false
+UA001063,21 Aug 22,6,Dendy Park 2,Le Page,No. 1,Henri Robinson,Mark Petkoff,Mark Petkoff,0-6,0,6,0,1,Completed,true,false,false
+UA001063,21 Aug 22,6,Dendy Park 2,Le Page,No. 2,Angelee Singh,Jonathon Deriboklou,Jonathon Deriboklou,4-6,4,6,0,1,Completed,true,false,false
+UA001063,21 Aug 22,6,Dendy Park 2,Le Page,No. 3,Tom Stein,Diesel Reid,Tom Stein,6-4,6,4,1,0,Completed,true,false,false
+UA001063,21 Aug 22,6,Dendy Park 2,Le Page,No. 4,Jackson Trigger,Dane Lazic,Jackson Trigger,7-5,7,5,1,0,Completed,true,true,false
+UA001064,21 Aug 22,6,Royal South Yarra,Kooyong,No. 1,Charlie Anderson,Charlie Williams,Charlie Anderson,6-2,6,2,1,0,Completed,true,false,false
+UA001064,21 Aug 22,6,Royal South Yarra,Kooyong,No. 2,Parth Chitroda,Alex Satyendra,Parth Chitroda,6-1,6,1,1,0,Completed,true,false,false
+UA001064,21 Aug 22,6,Royal South Yarra,Kooyong,No. 3,Zac Havryluk,Harriet Venn,Zac Havryluk,6-0,6,0,1,0,Completed,true,false,false
+UA001064,21 Aug 22,6,Royal South Yarra,Kooyong,No. 4,Tom Anderson,Thomas Earle,Thomas Earle,5-7,5,7,0,1,Completed,true,true,true
+UA001071,28 Aug 22,7,BLTC,Dendy Park 1,No. 1,Adam Livermore,Andreas Tanti,Adam Livermore,6-3,6,3,1,0,Completed,true,false,false
+UA001071,28 Aug 22,7,BLTC,Dendy Park 1,No. 2,Vivashh Maheswaran,Jonathon Henquin,Jonathon Henquin,2-6,2,6,0,1,Completed,true,false,false
+UA001071,28 Aug 22,7,BLTC,Dendy Park 1,No. 3,Christian Tomasic,Ashley Small,Ashley Small,3-6,3,6,0,1,Completed,true,false,false
+UA001071,28 Aug 22,7,BLTC,Dendy Park 1,No. 4,Julian Catala Prieto,Len Yatsuzuka,Len Yatsuzuka,1-6,1,6,0,1,Completed,true,false,true
+UA001072,28 Aug 22,7,Coatesville,GPHC,No. 1,Meiji Forni,Luca Bond,Meiji Forni,6-1,6,1,1,0,Completed,true,false,false
+UA001072,28 Aug 22,7,Coatesville,GPHC,No. 2,Michael Gershenzon,Max Noble,Michael Gershenzon,6-4,6,4,1,0,Completed,true,false,false
+UA001072,28 Aug 22,7,Coatesville,GPHC,No. 3,Nicolas Chau,Joey Govenlock,Joey Govenlock,3-6,3,6,0,1,Completed,true,false,false
+UA001072,28 Aug 22,7,Coatesville,GPHC,No. 4,Ashton Eikilis,Aaryan Antil,Aaryan Antil,3-6,3,6,0,1,Completed,true,false,false
+UA001073,28 Aug 22,7,Kooyong,Le Page,No. 1,Lysander Mitchell,Mark Petkoff,Mark Petkoff,2-6,2,6,0,1,Completed,true,false,false
+UA001073,28 Aug 22,7,Kooyong,Le Page,No. 2,Alex Satyendra,Jonathon Deriboklou,Jonathon Deriboklou,1-6,1,6,0,1,Completed,true,false,false
+UA001073,28 Aug 22,7,Kooyong,Le Page,No. 3,Joshua Icasiano,Diesel Reid,Diesel Reid,1-6,1,6,0,1,Completed,true,false,false
+UA001073,28 Aug 22,7,Kooyong,Le Page,No. 4,Nick Howitt,Lucy Sutton,Lucy Sutton,3-6,3,6,0,1,Completed,true,false,false
+UA001074,28 Aug 22,7,Dendy Park 2,Royal South Yarra,No. 1,Angelee Singh,Charlie Anderson,Charlie Anderson,4-6,4,6,0,1,Completed,true,false,false
+UA001074,28 Aug 22,7,Dendy Park 2,Royal South Yarra,No. 2,Damien Hookway,Peter Tabain,Peter Tabain,4-6,4,6,0,1,Completed,true,false,false
+UA001074,28 Aug 22,7,Dendy Park 2,Royal South Yarra,No. 3,Christian Karatzas,Parth Chitroda,Parth Chitroda,1-6,1,6,0,1,Completed,true,false,false
+UA001074,28 Aug 22,7,Dendy Park 2,Royal South Yarra,No. 4,Tom Stein,Zac Havryluk,Zac Havryluk,2-6,2,6,0,1,Completed,true,false,false
+UA001081,04 Sep 22,8,Royal South Yarra,BLTC,No. 1,Charlie Anderson,Adam Livermore,Adam Livermore,2-6,2,6,0,1,Completed,true,false,false
+UA001081,04 Sep 22,8,Royal South Yarra,BLTC,No. 2,Peter Tabain,Vivashh Maheswaran,Vivashh Maheswaran,3-6,3,6,0,1,Completed,true,false,false
+UA001081,04 Sep 22,8,Royal South Yarra,BLTC,No. 3,Parth Chitroda,Christian Tomasic,Parth Chitroda,6-2,6,2,1,0,Completed,true,false,false
+UA001081,04 Sep 22,8,Royal South Yarra,BLTC,No. 4,Freddie Hunt,Julian Catala Prieto,Julian Catala Prieto,1-6,1,6,0,1,Completed,true,false,false
+UA001082,04 Sep 22,8,Le Page,Coatesville,No. 1,Jonathon Deriboklou,Meiji Forni,Meiji Forni,5-7,5,7,0,1,Completed,true,false,false
+UA001082,04 Sep 22,8,Le Page,Coatesville,No. 2,Diesel Reid,Sam Basman,Diesel Reid,6-4,6,4,1,0,Completed,true,false,false
+UA001082,04 Sep 22,8,Le Page,Coatesville,No. 3,Lucy Sutton,Nicolas Chau,Nicolas Chau,2-6,2,6,0,1,Completed,true,false,false
+UA001082,04 Sep 22,8,Le Page,Coatesville,No. 4,Dane Lazic,Ashton Eikilis,Ashton Eikilis,4-6,4,6,0,1,Completed,true,false,false
+UA001083,04 Sep 22,8,Dendy Park 2,Dendy Park 1,No. 1,Henri Robinson,Andreas Tanti,Henri Robinson,7-5,7,5,1,0,Completed,true,false,false
+UA001083,04 Sep 22,8,Dendy Park 2,Dendy Park 1,No. 2,Angelee Singh,Jonathon Henquin,Jonathon Henquin,0-6,0,6,0,1,Completed,true,false,false
+UA001083,04 Sep 22,8,Dendy Park 2,Dendy Park 1,No. 3,Damien Hookway,Jackson Mullaly,Jackson Mullaly,1-6,1,6,0,1,Completed,true,false,false
+UA001083,04 Sep 22,8,Dendy Park 2,Dendy Park 1,No. 4,Christian Karatzas,Ashley Small,Christian Karatzas,7-6,7,6,1,0,Completed,true,false,false
+UA001084,04 Sep 22,8,Kooyong,GPHC,No. 1,Lysander Mitchell,Joey Govenlock,Joey Govenlock,2-6,2,6,0,1,Completed,true,false,false
+UA001084,04 Sep 22,8,Kooyong,GPHC,No. 2,Charlie Williams,Oliver Bond,Oliver Bond,2-6,2,6,0,1,Completed,true,false,false
+UA001084,04 Sep 22,8,Kooyong,GPHC,No. 3,Harriet Venn,Leo Prapas,Leo Prapas,3-6,3,6,0,1,Completed,true,false,true
+UA001084,04 Sep 22,8,Kooyong,GPHC,No. 4,Jesse Theodore,Jem Danacher,Jem Danacher,1-6,1,6,0,1,Completed,true,false,true
+UA001091,11 Sep 22,9,BLTC,Kooyong,No. 1,Adam Livermore,Carl Gerstman,Adam Livermore,6-0,6,0,1,0,Completed,true,false,false
+UA001091,11 Sep 22,9,BLTC,Kooyong,No. 2,Vivashh Maheswaran,Alex Satyendra,Vivashh Maheswaran,6-2,6,2,1,0,Completed,true,false,false
+UA001091,11 Sep 22,9,BLTC,Kooyong,No. 3,Perry Maher,Nick Howitt,Perry Maher,6-0,6,0,1,0,Completed,true,true,false
+UA001091,11 Sep 22,9,BLTC,Kooyong,No. 4,Christian Tomasic,Jesse Theodore,Christian Tomasic,6-1,6,1,1,0,Completed,true,false,false
+UA001092,11 Sep 22,9,Coatesville,Royal South Yarra,No. 1,Daniel Dela Cruz,Peter Tabain,Daniel Dela Cruz,6-4,6,4,1,0,Completed,true,false,false
+UA001092,11 Sep 22,9,Coatesville,Royal South Yarra,No. 2,Sam Basman,Freddie Hunt,Freddie Hunt,2-6,2,6,0,1,Completed,true,false,false
+UA001092,11 Sep 22,9,Coatesville,Royal South Yarra,No. 3,Michael Gershenzon,Zac Havryluk,Michael Gershenzon,7-5,7,5,1,0,Completed,true,false,false
+UA001092,11 Sep 22,9,Coatesville,Royal South Yarra,No. 4,Nicolas Chau,Ben Frewin,Ben Frewin,3-6,3,6,0,1,Completed,true,false,false
+UA001093,11 Sep 22,9,Dendy Park 1,Le Page,No. 1,Andreas Tanti,Mark Petkoff,Mark Petkoff,2-6,2,6,0,1,Completed,true,false,false
+UA001093,11 Sep 22,9,Dendy Park 1,Le Page,No. 2,Jonathon Henquin,Jonathon Deriboklou,Jonathon Henquin,6-0,6,0,1,0,Completed,true,false,false
+UA001093,11 Sep 22,9,Dendy Park 1,Le Page,No. 3,Jackson Mullaly,Diesel Reid,Diesel Reid,0-6,0,6,0,1,Completed,true,false,false
+UA001093,11 Sep 22,9,Dendy Park 1,Le Page,No. 4,Ashley Small,Dane Lazic,Ashley Small,6-4,6,4,1,0,Completed,true,false,false
+UA001094,11 Sep 22,9,GPHC,Dendy Park 2,No. 1,Luca Bond,Angelee Singh,Luca Bond,6-1,6,1,1,0,Completed,true,false,false
+UA001094,11 Sep 22,9,GPHC,Dendy Park 2,No. 2,Joey Govenlock,Damien Hookway,Joey Govenlock,6-4,6,4,1,0,Completed,true,false,false
+UA001094,11 Sep 22,9,GPHC,Dendy Park 2,No. 3,Oliver Bond,Christian Karatzas,Christian Karatzas,6-7,6,7,0,1,Completed,true,false,false
+UA001094,11 Sep 22,9,GPHC,Dendy Park 2,No. 4,Jacob Elliot,Tom Stein,Tom Stein,0-6,0,6,0,1,Completed,true,true,false
+UA001101,09 Oct 22,10,Dendy Park 2,BLTC,No. 1,Henri Robinson,Vivashh Maheswaran,Henri Robinson,6-2,6,2,1,0,Completed,true,false,false
+UA001101,09 Oct 22,10,Dendy Park 2,BLTC,No. 2,Angelee Singh,Luca Magro,Luca Magro,5-7,5,7,0,1,Completed,true,false,true
+UA001101,09 Oct 22,10,Dendy Park 2,BLTC,No. 3,Damien Hookway,Christian Tomasic,Damien Hookway,6-2,6,2,1,0,Completed,true,false,false
+UA001101,09 Oct 22,10,Dendy Park 2,BLTC,No. 4,Christian Karatzas,Julian Catala Prieto,Julian Catala Prieto,6-7,6,7,0,1,Completed,true,false,false
+UA001102,09 Oct 22,10,Kooyong,Coatesville,No. 1,Carl Gerstman,Daniel Dela Cruz,Daniel Dela Cruz,3-6,3,6,0,1,Completed,true,false,false
+UA001102,09 Oct 22,10,Kooyong,Coatesville,No. 2,Lysander Mitchell,Meiji Forni,Meiji Forni,1-6,1,6,0,1,Completed,true,false,false
+UA001102,09 Oct 22,10,Kooyong,Coatesville,No. 3,Alex Satyendra,Michael Gershenzon,Michael Gershenzon,3-6,3,6,0,1,Completed,true,false,false
+UA001102,09 Oct 22,10,Kooyong,Coatesville,No. 4,Jesse Theodore,Nicolas Chau,Nicolas Chau,2-6,2,6,0,1,Completed,true,false,false
+UA001103,09 Oct 22,10,Royal South Yarra,Dendy Park 1,No. 1,Mietta Passon,Andreas Tanti,Andreas Tanti,4-6,4,6,0,1,Completed,true,false,false
+UA001103,09 Oct 22,10,Royal South Yarra,Dendy Park 1,No. 2,Charlie Anderson,Josh Chu-Wise,Josh Chu-Wise,0-6,0,6,0,1,Completed,true,false,true
+UA001103,09 Oct 22,10,Royal South Yarra,Dendy Park 1,No. 3,Peter Tabain,Jackson Mullaly,Jackson Mullaly,5-7,5,7,0,1,Completed,true,false,false
+UA001103,09 Oct 22,10,Royal South Yarra,Dendy Park 1,No. 4,Ben Frewin,Ashley Small,Ben Frewin,6-4,6,4,1,0,Completed,true,false,false
+UA001104,09 Oct 22,10,Le Page,GPHC,No. 1,Mark Petkoff,Luca Bond,Mark Petkoff,6-3,6,3,1,0,Completed,true,false,false
+UA001104,09 Oct 22,10,Le Page,GPHC,No. 2,Jonathon Deriboklou,Harri Joughin,Jonathon Deriboklou,6-1,6,1,1,0,Completed,true,false,false
+UA001104,09 Oct 22,10,Le Page,GPHC,No. 3,Sarah Daniell,Aaryan Antil,Aaryan Antil,1-6,1,6,0,1,Completed,true,false,false
+UA001104,09 Oct 22,10,Le Page,GPHC,No. 4,Lucy Sutton,Max Noble,Max Noble,2-6,2,6,0,1,Completed,true,false,false
+UA001111,16 Oct 22,11,BLTC,Le Page,No. 1,Vivashh Maheswaran,Mark Petkoff,Mark Petkoff,0-6,0,6,0,1,Completed,true,false,false
+UA001111,16 Oct 22,11,BLTC,Le Page,No. 2,Christian Tomasic,Jonathon Deriboklou,Jonathon Deriboklou,4-6,4,6,0,1,Completed,true,false,false
+UA001111,16 Oct 22,11,BLTC,Le Page,No. 3,Julian Catala Prieto,Diesel Reid,Julian Catala Prieto,6-4,6,4,1,0,Completed,true,false,false
+UA001111,16 Oct 22,11,BLTC,Le Page,No. 4,Joshua Freeman,Lucy Sutton,Joshua Freeman,6-4,6,4,1,0,Completed,true,true,false
+UA001112,16 Oct 22,11,Coatesville,Dendy Park 2,No. 1,Meiji Forni,Henri Robinson,Meiji Forni,6-0,6,0,1,0,Completed,true,false,false
+UA001112,16 Oct 22,11,Coatesville,Dendy Park 2,No. 2,Michael Gershenzon,Angelee Singh,Angelee Singh,3-6,3,6,0,1,Completed,true,false,false
+UA001112,16 Oct 22,11,Coatesville,Dendy Park 2,No. 3,Nicolas Chau,Damien Hookway,Damien Hookway,2-6,2,6,0,1,Completed,true,false,false
+UA001112,16 Oct 22,11,Coatesville,Dendy Park 2,No. 4,Ashton Eikilis,Christian Karatzas,Ashton Eikilis,6-2,6,2,1,0,Completed,true,false,false
+UA001113,16 Oct 22,11,Dendy Park 1,Kooyong,No. 1,Andreas Tanti,Carl Gerstman,Andreas Tanti,6-2,6,2,1,0,Completed,true,false,false
+UA001113,16 Oct 22,11,Dendy Park 1,Kooyong,No. 2,Jonathon Henquin,Alex Satyendra,Jonathon Henquin,6-0,6,0,1,0,Completed,true,false,false
+UA001113,16 Oct 22,11,Dendy Park 1,Kooyong,No. 3,Jackson Mullaly,Nick Howitt,Jackson Mullaly,6-0,6,0,1,0,Completed,true,false,false
+UA001113,16 Oct 22,11,Dendy Park 1,Kooyong,No. 4,Ashley Small,Jesse Theodore,Ashley Small,6-4,6,4,1,0,Completed,true,false,false
+UA001114,16 Oct 22,11,GPHC,Royal South Yarra,No. 1,Harri Joughin,Parth Chitroda,Parth Chitroda,3-6,3,6,0,1,Completed,true,false,false
+UA001114,16 Oct 22,11,GPHC,Royal South Yarra,No. 2,Joey Govenlock,Charlie Anderson,Charlie Anderson,5-7,5,7,0,1,Completed,true,false,false
+UA001114,16 Oct 22,11,GPHC,Royal South Yarra,No. 3,Aaryan Antil,Zac Havryluk,Zac Havryluk,4-6,4,6,0,1,Completed,true,false,false
+UA001114,16 Oct 22,11,GPHC,Royal South Yarra,No. 4,Max Noble,Mietta Passon,Max Noble,6-2,6,2,1,0,Completed,true,false,false
+UA001121,23 Oct 22,12,GPHC,Dendy Park 1,No. 1,Harri Joughin,Andreas Tanti,Andreas Tanti,4-6,4,6,0,1,Completed,true,false,false
+UA001121,23 Oct 22,12,GPHC,Dendy Park 1,No. 2,Joey Govenlock,Jonathon Henquin,Jonathon Henquin,5-7,5,7,0,1,Completed,true,false,false
+UA001121,23 Oct 22,12,GPHC,Dendy Park 1,No. 3,Aaryan Antil,Jackson Mullaly,Jackson Mullaly,4-6,4,6,0,1,Completed,true,false,false
+UA001121,23 Oct 22,12,GPHC,Dendy Park 1,No. 4,Max Noble,Ashley Small,Ashley Small,4-6,4,6,0,1,Completed,true,false,false
+UA001122,23 Oct 22,12,Dendy Park 2,Kooyong,No. 1,Henri Robinson,Carl Gerstman,Henri Robinson,6-1,6,1,1,0,Completed,true,false,false
+UA001122,23 Oct 22,12,Dendy Park 2,Kooyong,No. 2,Tom Stein,Lysander Mitchell,Tom Stein,6-1,6,1,1,0,Completed,true,false,false
+UA001122,23 Oct 22,12,Dendy Park 2,Kooyong,No. 3,Len Yatsuzuka,Charlie Williams,Len Yatsuzuka,6-4,6,4,1,0,Completed,true,true,false
+UA001122,23 Oct 22,12,Dendy Park 2,Kooyong,No. 4,Lara Marasco,Nick Howitt,Nick Howitt,2-6,2,6,0,1,Completed,true,true,false
+UA001123,23 Oct 22,12,Royal South Yarra,Le Page,No. 1,Charlie Anderson,Jonathon Deriboklou,Charlie Anderson,6-2,6,2,1,0,Completed,true,false,false
+UA001123,23 Oct 22,12,Royal South Yarra,Le Page,No. 2,Peter Tabain,Diesel Reid,Peter Tabain,6-3,6,3,1,0,Completed,true,false,false
+UA001123,23 Oct 22,12,Royal South Yarra,Le Page,No. 3,Ben Frewin,Dane Lazic,Ben Frewin,6-1,6,1,1,0,Completed,true,false,false
+UA001123,23 Oct 22,12,Royal South Yarra,Le Page,No. 4,Tom Anderson,Lucy Sutton,Tom Anderson,6-0,6,0,1,0,Completed,true,true,false
+UA001124,23 Oct 22,12,Coatesville,BLTC,No. 1,Daniel Dela Cruz,Vivashh Maheswaran,Daniel Dela Cruz,7-6,7,6,1,0,Completed,true,false,false
+UA001124,23 Oct 22,12,Coatesville,BLTC,No. 2,Michael Gershenzon,Lola Grigor,Lola Grigor,3-6,3,6,0,1,Completed,true,false,true
+UA001124,23 Oct 22,12,Coatesville,BLTC,No. 3,Nicolas Chau,Christian Tomasic,Christian Tomasic,3-6,3,6,0,1,Completed,true,false,false
+UA001124,23 Oct 22,12,Coatesville,BLTC,No. 4,Ashton Eikilis,Julian Catala Prieto,Ashton Eikilis,6-1,6,1,1,0,Completed,true,false,false
+UA001131,06 Nov 22,13,Dendy Park 1,Coatesville,No. 1,Andreas Tanti,Daniel Dela Cruz,Daniel Dela Cruz,1-6,1,6,0,1,Completed,true,false,false
+UA001131,06 Nov 22,13,Dendy Park 1,Coatesville,No. 2,Jonathon Henquin,Meiji Forni,Meiji Forni,2-6,2,6,0,1,Completed,true,false,false
+UA001131,06 Nov 22,13,Dendy Park 1,Coatesville,No. 3,Daniel Whitson,Michael Gershenzon,Daniel Whitson,6-2,6,2,1,0,Completed,true,false,false
+UA001131,06 Nov 22,13,Dendy Park 1,Coatesville,No. 4,Jackson Mullaly,Ashton Eikilis,Jackson Mullaly,6-3,6,3,1,0,Completed,true,false,false
+UA001132,06 Nov 22,13,BLTC,GPHC,No. 1,Kai Ballantyne,Luca Bond,Kai Ballantyne,6-3,6,3,1,0,Completed,true,true,false
+UA001132,06 Nov 22,13,BLTC,GPHC,No. 2,Vivashh Maheswaran,Harri Joughin,Vivashh Maheswaran,6-4,6,4,1,0,Completed,true,false,false
+UA001132,06 Nov 22,13,BLTC,GPHC,No. 3,Christian Tomasic,Joey Govenlock,Joey Govenlock,4-6,4,6,0,1,Completed,true,false,false
+UA001132,06 Nov 22,13,BLTC,GPHC,No. 4,Julian Catala Prieto,Max Noble,Max Noble,4-6,4,6,0,1,Completed,true,false,false
+UA001133,06 Nov 22,13,Le Page,Dendy Park 2,No. 1,Jonathon Deriboklou,Henri Robinson,Jonathon Deriboklou,6-4,6,4,1,0,Completed,true,false,false
+UA001133,06 Nov 22,13,Le Page,Dendy Park 2,No. 2,Diesel Reid,Angelee Singh,Diesel Reid,6-1,6,1,1,0,Completed,true,false,false
+UA001133,06 Nov 22,13,Le Page,Dendy Park 2,No. 3,Lucy Sutton,Christian Karatzas,Christian Karatzas,1-6,1,6,0,1,Completed,true,false,false
+UA001133,06 Nov 22,13,Le Page,Dendy Park 2,No. 4,Dane Lazic,Tom Stein,Tom Stein,2-6,2,6,0,1,Completed,true,false,false
+UA001134,06 Nov 22,13,Kooyong,Royal South Yarra,No. 1,Carl Gerstman,Parth Chitroda,Parth Chitroda,1-6,1,6,0,1,Completed,true,false,false
+UA001134,06 Nov 22,13,Kooyong,Royal South Yarra,No. 2,Lysander Mitchell,Charlie Anderson,Charlie Anderson,3-6,3,6,0,1,Completed,true,false,false
+UA001134,06 Nov 22,13,Kooyong,Royal South Yarra,No. 3,Charlie Williams,Peter Tabain,Peter Tabain,4-6,4,6,0,1,Completed,true,false,false
+UA001134,06 Nov 22,13,Kooyong,Royal South Yarra,No. 4,Alex Satyendra,Freddie Hunt,Freddie Hunt,2-6,2,6,0,1,Completed,true,false,false
+UA001141,13 Nov 22,14,Dendy Park 1,BLTC,No. 1,Andreas Tanti,Kai Ballantyne,Kai Ballantyne,1-6,1,6,0,1,Completed,true,false,true
+UA001141,13 Nov 22,14,Dendy Park 1,BLTC,No. 2,Jonathon Henquin,Vivashh Maheswaran,Jonathon Henquin,6-4,6,4,1,0,Completed,true,false,false
+UA001141,13 Nov 22,14,Dendy Park 1,BLTC,No. 3,Daniel Whitson,Christian Tomasic,Christian Tomasic,3-6,3,6,0,1,Completed,true,false,false
+UA001141,13 Nov 22,14,Dendy Park 1,BLTC,No. 4,Ashley Small,Julian Catala Prieto,Julian Catala Prieto,0-6,0,6,0,1,Completed,true,false,false
+UA001142,13 Nov 22,14,GPHC,Coatesville,No. 1,Harri Joughin,Daniel Dela Cruz,Daniel Dela Cruz,2-6,2,6,0,1,Completed,true,false,false
+UA001142,13 Nov 22,14,GPHC,Coatesville,No. 2,Joey Govenlock,Meiji Forni,Meiji Forni,3-6,3,6,0,1,Completed,true,false,false
+UA001142,13 Nov 22,14,GPHC,Coatesville,No. 3,Aaryan Antil,Michael Gershenzon,Aaryan Antil,6-1,6,1,1,0,Completed,true,false,false
+UA001142,13 Nov 22,14,GPHC,Coatesville,No. 4,Max Noble,Nicolas Chau,Max Noble,7-5,7,5,1,0,Completed,true,false,false
+UA001143,13 Nov 22,14,Le Page,Kooyong,No. 1,Mark Petkoff,Carl Gerstman,Mark Petkoff,6-1,6,1,1,0,Completed,true,false,false
+UA001143,13 Nov 22,14,Le Page,Kooyong,No. 2,Jonathon Deriboklou,Lysander Mitchell,Jonathon Deriboklou,6-1,6,1,1,0,Completed,true,false,false
+UA001143,13 Nov 22,14,Le Page,Kooyong,No. 3,Diesel Reid,Joshua Icasiano,Diesel Reid,6-0,6,0,1,0,Completed,true,false,false
+UA001143,13 Nov 22,14,Le Page,Kooyong,No. 4,Dane Lazic,Jesse Theodore,Dane Lazic,6-0,6,0,1,0,Completed,true,false,false
+UA001144,13 Nov 22,14,Royal South Yarra,Dendy Park 2,No. 1,Charlie Anderson,Henri Robinson,Henri Robinson,4-6,4,6,0,1,Completed,true,false,false
+UA001144,13 Nov 22,14,Royal South Yarra,Dendy Park 2,No. 2,Peter Tabain,Angelee Singh,Peter Tabain,6-3,6,3,1,0,Completed,true,false,false
+UA001144,13 Nov 22,14,Royal South Yarra,Dendy Park 2,No. 3,Freddie Hunt,Damien Hookway,Damien Hookway,3-6,3,6,0,1,Completed,true,false,false
+UA001144,13 Nov 22,14,Royal South Yarra,Dendy Park 2,No. 4,Ben Frewin,Christian Karatzas,Ben Frewin,6-3,6,3,1,0,Completed,true,false,false
+UA001301,,16,Coatesville,Royal South Yarra,No. 1,Daniel Dela Cruz,Parth Chitroda,Parth Chitroda,0-6,0,6,0,1,Completed,true,false,false
+UA001301,,16,Coatesville,Royal South Yarra,No. 2,Meiji Forni,Charlie Anderson,Meiji Forni,6-1,6,1,1,0,Completed,true,false,false
+UA001301,,16,Coatesville,Royal South Yarra,No. 3,Michael Gershenzon,Peter Tabain,Peter Tabain,1-6,1,6,0,1,Completed,true,false,false
+UA001301,,16,Coatesville,Royal South Yarra,No. 4,Ashton Eikilis,Ben Frewin,Ben Frewin,6-7,6,7,0,1,Completed,true,false,false
+UA001302,,16,Dendy Park 1,BLTC,No. 1,Andreas Tanti,Adam Livermore,Andreas Tanti,6-0,6,0,1,0,Completed,true,false,false
+UA001302,,16,Dendy Park 1,BLTC,No. 2,Jonathon Henquin,Vivashh Maheswaran,Jonathon Henquin,6-4,6,4,1,0,Completed,true,false,false
+UA001302,,16,Dendy Park 1,BLTC,No. 3,Jackson Mullaly,Christian Tomasic,Christian Tomasic,2-6,2,6,0,1,Completed,true,false,false
+UA001302,,16,Dendy Park 1,BLTC,No. 4,Ashley Small,Julian Catala Prieto,Julian Catala Prieto,4-6,4,6,0,1,Completed,true,false,false
+UA001321,,17,Dendy Park 1,Royal South Yarra,No. 1,Andreas Tanti,Parth Chitroda,Parth Chitroda,3-6,3,6,0,1,Completed,true,false,false
+UA001321,,17,Dendy Park 1,Royal South Yarra,No. 2,Jonathon Henquin,Charlie Anderson,Charlie Anderson,4-6,4,6,0,1,Completed,true,false,false
+UA001321,,17,Dendy Park 1,Royal South Yarra,No. 3,Jackson Mullaly,Peter Tabain,Peter Tabain,5-7,5,7,0,1,Completed,true,false,false
+UA001321,,17,Dendy Park 1,Royal South Yarra,No. 4,Ashley Small,Ben Frewin,Ben Frewin,1-6,1,6,0,1,Completed,true,false,false

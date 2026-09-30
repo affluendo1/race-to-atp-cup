@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA16-UA012",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2015",
+  "season_id": "UA16",
+  "season_label": "Autumn 2015",
+  "source_section_code": "UA012",
+  "section_label": "Section 12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong 2",
+      "wins": 8,
+      "points": 97,
+      "percentage": 175.13,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Lauriston",
+      "wins": 7,
+      "points": 83,
+      "percentage": 112.64,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kings Park",
+      "wins": 5,
+      "points": 71,
+      "percentage": 107.33,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Kooyong 1",
+      "wins": 5,
+      "points": 70,
+      "percentage": 103.79,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Glen Eira",
+      "wins": 4,
+      "points": 68.5,
+      "percentage": 105.88,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC",
+      "wins": 5,
+      "points": 68,
+      "percentage": 90.07,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 5,
+      "points": 66.5,
+      "percentage": 89.57,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong",
+      "wins": 1,
+      "points": 36,
+      "percentage": 48.51,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA16-UA012",
+  "fixtures": 59,
+  "completed_fixtures": 45,
+  "draw_fixtures": 45,
+  "singles_rubbers": 176,
+  "doubles_rubbers": 89,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

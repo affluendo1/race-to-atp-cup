@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA31-UA013",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2022",
+  "season_id": "UA31",
+  "season_label": "Spring 2022",
+  "source_section_code": "UA013",
+  "section_label": "Section 13",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite Blue",
+      "wins": 13,
+      "points": 114,
+      "percentage": 143.14,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Royal Ave",
+      "wins": 10,
+      "points": 88,
+      "percentage": 123.93,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Lauriston",
+      "wins": 9,
+      "points": 88,
+      "percentage": 119.94,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "St Pauls",
+      "wins": 9,
+      "points": 87,
+      "percentage": 129.91,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "Elsternwick Park Blue",
+      "wins": 7,
+      "points": 76,
+      "percentage": 112.68,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Carmelite Red",
+      "wins": 4,
+      "points": 41,
+      "percentage": 64.84,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Murrumbeena",
+      "wins": 2,
+      "points": 35,
+      "percentage": 71.29,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "St James",
+      "wins": 1,
+      "points": 31,
+      "percentage": 68.55,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA31-UA013",
+  "fixtures": 59,
+  "completed_fixtures": 59,
+  "draw_fixtures": 59,
+  "singles_rubbers": 236,
+  "doubles_rubbers": 118,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

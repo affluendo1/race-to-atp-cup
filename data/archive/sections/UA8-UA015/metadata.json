@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA8-UA015",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2011",
+  "season_id": "UA8",
+  "season_label": "Autumn 2011",
+  "source_section_code": "UA015",
+  "section_label": "Section 15",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Joan of Arc",
+      "wins": 0,
+      "points": 122,
+      "percentage": 216.83,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Tennis World",
+      "wins": 0,
+      "points": 111.5,
+      "percentage": 185.28,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "GPHC MLC",
+      "wins": 0,
+      "points": 76.5,
+      "percentage": 108.18,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Royal Ave",
+      "wins": 0,
+      "points": 74,
+      "percentage": 111.94,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 70,
+      "percentage": 106.5,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Black Rock",
+      "wins": 0,
+      "points": 53,
+      "percentage": 82.4,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong Xavier 2",
+      "wins": 0,
+      "points": 39,
+      "percentage": 59.6,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong Xavier 1",
+      "wins": 0,
+      "points": 14,
+      "percentage": 33.41,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA8-UA015",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

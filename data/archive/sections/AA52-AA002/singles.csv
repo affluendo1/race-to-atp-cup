@@ -1,0 +1,109 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA002011,05 Feb 22,1,Carmelite Green,Port Melbourne Gold,No. 1,Manni Peter,Bryson Walters,Bryson Walters,0-6,0,6,0,1,Completed,true,false,false
+AA002011,05 Feb 22,1,Carmelite Green,Port Melbourne Gold,No. 2,Michael Cameron,Lucas Daskalos,Michael Cameron,6-4,6,4,1,0,Completed,true,false,false
+AA002011,05 Feb 22,1,Carmelite Green,Port Melbourne Gold,No. 3,Liam McKeefry,Angus Debien,Angus Debien,2-6,2,6,0,1,Completed,true,false,false
+AA002011,05 Feb 22,1,Carmelite Green,Port Melbourne Gold,No. 4,Louis Barnett,Kaleb Wendashin,Kaleb Wendashin,4-6,4,6,0,1,Completed,true,false,false
+AA002013,05 Feb 22,1,Kooyong,Carmelite Blue,No. 1,Alia Van Aalst,Talia Kiprilis,Talia Kiprilis,4-6,4,6,0,1,Completed,true,false,false
+AA002013,05 Feb 22,1,Kooyong,Carmelite Blue,No. 2,Montgomery Bernadou,Stephanie Fourlanos,Stephanie Fourlanos,2-6,2,6,0,1,Completed,true,false,false
+AA002013,05 Feb 22,1,Kooyong,Carmelite Blue,No. 3,George Stevens,Anna Fourlanos,Anna Fourlanos,1-6,1,6,0,1,Completed,true,false,false
+AA002013,05 Feb 22,1,Kooyong,Carmelite Blue,No. 4,Oliver Dennis,Jocelyn Doig,Jocelyn Doig,0-6,0,6,0,1,Completed,true,false,false
+AA002021,12 Feb 22,2,Carmelite Blue,Carmelite Green,No. 1,Talia Kiprilis,Will Matthews,Will Matthews,3-6,3,6,0,1,Completed,true,false,false
+AA002021,12 Feb 22,2,Carmelite Blue,Carmelite Green,No. 2,Stephanie Fourlanos,Michael Cameron,Stephanie Fourlanos,6-2,6,2,1,0,Completed,true,false,false
+AA002021,12 Feb 22,2,Carmelite Blue,Carmelite Green,No. 3,Anna Fourlanos,Liam McKeefry,Anna Fourlanos,6-0,6,0,1,0,Completed,true,false,false
+AA002021,12 Feb 22,2,Carmelite Blue,Carmelite Green,No. 4,Jocelyn Doig,Louis Barnett,Jocelyn Doig,6-3,6,3,1,0,Completed,true,false,false
+AA002023,12 Feb 22,2,Port Melbourne Gold,Carmelite Red,No. 1,Lucas Daskalos,Oscar Barnett,Lucas Daskalos,6-3,6,3,1,0,Completed,true,false,false
+AA002023,12 Feb 22,2,Port Melbourne Gold,Carmelite Red,No. 2,Angus Debien,Manni Peter,Angus Debien,7-6,7,6,1,0,Completed,true,false,true
+AA002023,12 Feb 22,2,Port Melbourne Gold,Carmelite Red,No. 3,Kaleb Wendashin,Levijn Van den Brink,Levijn Van den Brink,1-6,1,6,0,1,Completed,true,false,false
+AA002023,12 Feb 22,2,Port Melbourne Gold,Carmelite Red,No. 4,Stefan Karapandzic,Harry Law,Harry Law,6-7,6,7,0,1,Completed,true,false,false
+AA002031,19 Feb 22,3,Carmelite Green,Carmelite Red,No. 1,Will Matthews,Oscar Barnett,Oscar Barnett,5-7,5,7,0,1,Completed,true,false,false
+AA002031,19 Feb 22,3,Carmelite Green,Carmelite Red,No. 2,Liam McKeefry,Levijn Van den Brink,Levijn Van den Brink,1-6,1,6,0,1,Completed,true,false,false
+AA002031,19 Feb 22,3,Carmelite Green,Carmelite Red,No. 3,Anna Fourlanos,Harry Law,Anna Fourlanos,6-2,6,2,1,0,Completed,true,true,false
+AA002031,19 Feb 22,3,Carmelite Green,Carmelite Red,No. 4,Louis Barnett,Jocelyn Doig,Jocelyn Doig,0-6,0,6,0,1,Completed,true,false,true
+AA002032,19 Feb 22,3,Kooyong,Port Melbourne Gold,No. 1,Edward Pollard,Bryson Walters,Edward Pollard,6-1,6,1,1,0,Completed,true,false,false
+AA002032,19 Feb 22,3,Kooyong,Port Melbourne Gold,No. 2,Alia Van Aalst,Angus Debien,Alia Van Aalst,6-1,6,1,1,0,Completed,true,false,false
+AA002032,19 Feb 22,3,Kooyong,Port Melbourne Gold,No. 3,George Stevens,Kaleb Wendashin,George Stevens,6-1,6,1,1,0,Completed,true,false,false
+AA002032,19 Feb 22,3,Kooyong,Port Melbourne Gold,No. 4,Oliver Dennis,Stefan Karapandzic,Stefan Karapandzic,4-6,4,6,0,1,Completed,true,false,false
+AA002042,26 Feb 22,4,Port Melbourne Gold,Carmelite Blue,No. 1,Bryson Walters,Talia Kiprilis,Talia Kiprilis,1-6,1,6,0,1,Completed,true,false,false
+AA002042,26 Feb 22,4,Port Melbourne Gold,Carmelite Blue,No. 2,Lucas Daskalos,Cooper Griggs,Cooper Griggs,1-6,1,6,0,1,Completed,true,false,true
+AA002042,26 Feb 22,4,Port Melbourne Gold,Carmelite Blue,No. 3,Kaleb Wendashin,Jocelyn Doig,Jocelyn Doig,4-6,4,6,0,1,Completed,true,false,false
+AA002042,26 Feb 22,4,Port Melbourne Gold,Carmelite Blue,No. 4,Stefan Karapandzic,Elise Doig,Stefan Karapandzic,6-2,6,2,1,0,Completed,true,false,true
+AA002043,26 Feb 22,4,Carmelite Red,Kooyong,No. 1,Oscar Barnett,Montgomery Bernadou,Oscar Barnett,7-5,7,5,1,0,Completed,true,false,false
+AA002043,26 Feb 22,4,Carmelite Red,Kooyong,No. 2,Will Matthews,George Stevens,Will Matthews,7-5,7,5,1,0,Completed,true,true,false
+AA002043,26 Feb 22,4,Carmelite Red,Kooyong,No. 3,Levijn Van den Brink,Oliver Dennis,Levijn Van den Brink,6-1,6,1,1,0,Completed,true,false,false
+AA002043,26 Feb 22,4,Carmelite Red,Kooyong,No. 4,Zack Slade,Henry Colbert,Zack Slade,6-0,6,0,1,0,Completed,true,false,true
+AA002061,19 Mar 22,6,Port Melbourne Gold,Carmelite Green,No. 1,Bryson Walters,Manni Peter,Manni Peter,2-6,2,6,0,1,Completed,true,false,false
+AA002061,19 Mar 22,6,Port Melbourne Gold,Carmelite Green,No. 2,Lucas Daskalos,Will Matthews,Will Matthews,4-6,4,6,0,1,Completed,true,false,false
+AA002061,19 Mar 22,6,Port Melbourne Gold,Carmelite Green,No. 3,Angus Debien,Michael Cameron,Angus Debien,6-4,6,4,1,0,Completed,true,false,false
+AA002061,19 Mar 22,6,Port Melbourne Gold,Carmelite Green,No. 4,Stefan Karapandzic,Louis Barnett,Stefan Karapandzic,6-0,6,0,1,0,Completed,true,false,false
+AA002063,19 Mar 22,6,Carmelite Blue,Kooyong,No. 1,Talia Kiprilis,Edward Pollard,Edward Pollard,1-6,1,6,0,1,Completed,true,false,false
+AA002063,19 Mar 22,6,Carmelite Blue,Kooyong,No. 2,Stephanie Fourlanos,Harvey Devlin,Harvey Devlin,2-6,2,6,0,1,Completed,true,false,true
+AA002063,19 Mar 22,6,Carmelite Blue,Kooyong,No. 3,Anna Fourlanos,Montgomery Bernadou,Anna Fourlanos,6-4,6,4,1,0,Completed,true,false,false
+AA002063,19 Mar 22,6,Carmelite Blue,Kooyong,No. 4,Gene Tullah,Oliver Dennis,Oliver Dennis,3-6,3,6,0,1,Completed,true,false,false
+AA002071,26 Mar 22,7,Carmelite Green,Carmelite Blue,No. 1,Manni Peter,Talia Kiprilis,Talia Kiprilis,2-6,2,6,0,1,Completed,true,false,false
+AA002071,26 Mar 22,7,Carmelite Green,Carmelite Blue,No. 2,Will Matthews,Anna Fourlanos,Will Matthews,6-4,6,4,1,0,Completed,true,false,false
+AA002071,26 Mar 22,7,Carmelite Green,Carmelite Blue,No. 3,Michael Cameron,Jocelyn Doig,Michael Cameron,6-1,6,1,1,0,Completed,true,false,false
+AA002071,26 Mar 22,7,Carmelite Green,Carmelite Blue,No. 4,Liam McKeefry,Gene Tullah,Liam McKeefry,7-5,7,5,1,0,Completed,true,false,false
+AA002073,26 Mar 22,7,Carmelite Red,Port Melbourne Gold,No. 1,Oscar Barnett,Bryson Walters,Oscar Barnett,6-0,6,0,1,0,Completed,true,false,false
+AA002073,26 Mar 22,7,Carmelite Red,Port Melbourne Gold,No. 2,Zack Slade,Lucas Daskalos,Lucas Daskalos,2-6,2,6,0,1,Completed,true,false,false
+AA002073,26 Mar 22,7,Carmelite Red,Port Melbourne Gold,No. 3,Harry Law,Angus Debien,Angus Debien,4-6,4,6,0,1,Completed,true,false,false
+AA002073,26 Mar 22,7,Carmelite Red,Port Melbourne Gold,No. 4,Topi Wilson,Kaleb Wendashin,Topi Wilson,6-1,6,1,1,0,Completed,true,false,false
+AA002081,02 Apr 22,8,Carmelite Red,Carmelite Green,No. 1,Oscar Barnett,Will Matthews,Will Matthews,2-6,2,6,0,1,Completed,true,false,false
+AA002081,02 Apr 22,8,Carmelite Red,Carmelite Green,No. 2,Levijn Van den Brink,Michael Cameron,Levijn Van den Brink,7-5,7,5,1,0,Completed,true,false,false
+AA002081,02 Apr 22,8,Carmelite Red,Carmelite Green,No. 3,Zack Slade,Liam McKeefry,Liam McKeefry,2-6,2,6,0,1,Completed,true,false,false
+AA002081,02 Apr 22,8,Carmelite Red,Carmelite Green,No. 4,Topi Wilson,Louis Barnett,Topi Wilson,6-0,6,0,1,0,Completed,true,false,false
+AA002082,02 Apr 22,8,Port Melbourne Gold,Kooyong,No. 1,Lucas Daskalos,Edward Pollard,Edward Pollard,1-6,1,6,0,1,Completed,true,false,false
+AA002082,02 Apr 22,8,Port Melbourne Gold,Kooyong,No. 2,Angus Debien,George Stevens,George Stevens,3-6,3,6,0,1,Completed,true,false,false
+AA002082,02 Apr 22,8,Port Melbourne Gold,Kooyong,No. 3,Kaleb Wendashin,Oliver Dennis,Kaleb Wendashin,6-2,6,2,1,0,Completed,true,false,false
+AA002082,02 Apr 22,8,Port Melbourne Gold,Kooyong,No. 4,Stefan Karapandzic,William Stevens,Stefan Karapandzic,6-1,6,1,1,0,Completed,true,false,false
+AA002092,30 Apr 22,9,Carmelite Blue,Port Melbourne Gold,No. 1,Talia Kiprilis,Bryson Walters,Talia Kiprilis,6-1,6,1,1,0,Completed,true,false,false
+AA002092,30 Apr 22,9,Carmelite Blue,Port Melbourne Gold,No. 2,Stephanie Fourlanos,Angus Debien,Stephanie Fourlanos,6-3,6,3,1,0,Completed,true,false,false
+AA002092,30 Apr 22,9,Carmelite Blue,Port Melbourne Gold,No. 3,Jocelyn Doig,Kaleb Wendashin,Jocelyn Doig,6-2,6,2,1,0,Completed,true,false,false
+AA002092,30 Apr 22,9,Carmelite Blue,Port Melbourne Gold,No. 4,Gene Tullah,Stefan Karapandzic,Stefan Karapandzic,3-6,3,6,0,1,Completed,true,false,false
+AA002093,30 Apr 22,9,Kooyong,Carmelite Red,No. 1,Edward Pollard,Oscar Barnett,Edward Pollard,6-0,6,0,1,0,Completed,true,false,false
+AA002093,30 Apr 22,9,Kooyong,Carmelite Red,No. 2,Montgomery Bernadou,Levijn Van den Brink,Levijn Van den Brink,0-6,0,6,0,1,Completed,true,false,false
+AA002093,30 Apr 22,9,Kooyong,Carmelite Red,No. 3,George Stevens,Harry Law,George Stevens,6-4,6,4,1,0,Completed,true,false,false
+AA002093,30 Apr 22,9,Kooyong,Carmelite Red,No. 4,Oliver Dennis,Topi Wilson,Topi Wilson,1-6,1,6,0,1,Completed,true,false,false
+AA002101,07 May 22,10,Kooyong,Carmelite Green,No. 1,Edward Pollard,Manni Peter,Edward Pollard,6-0,6,0,1,0,Completed,true,false,false
+AA002101,07 May 22,10,Kooyong,Carmelite Green,No. 2,Montgomery Bernadou,Michael Cameron,Michael Cameron,1-6,1,6,0,1,Completed,true,false,false
+AA002101,07 May 22,10,Kooyong,Carmelite Green,No. 3,George Stevens,Liam McKeefry,George Stevens,6-2,6,2,1,0,Completed,true,false,false
+AA002101,07 May 22,10,Kooyong,Carmelite Green,No. 4,William Stevens,Louis Barnett,Louis Barnett,3-6,3,6,0,1,Completed,true,false,false
+AA002103,07 May 22,10,Carmelite Red,Carmelite Blue,No. 1,Oscar Barnett,Stephanie Fourlanos,Oscar Barnett,6-4,6,4,1,0,Completed,true,false,false
+AA002103,07 May 22,10,Carmelite Red,Carmelite Blue,No. 2,Zack Slade,Anna Fourlanos,Zack Slade,6-2,6,2,1,0,Completed,true,false,false
+AA002103,07 May 22,10,Carmelite Red,Carmelite Blue,No. 3,Harry Law,Jocelyn Doig,Jocelyn Doig,1-6,1,6,0,1,Completed,true,false,false
+AA002103,07 May 22,10,Carmelite Red,Carmelite Blue,No. 4,Topi Wilson,Gene Tullah,Topi Wilson,6-0,6,0,1,0,Completed,true,false,false
+AA002111,14 May 22,11,Carmelite Green,Port Melbourne Gold,No. 1,Manni Peter,Bryson Walters,Bryson Walters,3-6,3,6,0,1,Completed,true,false,false
+AA002111,14 May 22,11,Carmelite Green,Port Melbourne Gold,No. 2,Michael Cameron,Angus Debien,Michael Cameron,6-1,6,1,1,0,Completed,true,false,false
+AA002111,14 May 22,11,Carmelite Green,Port Melbourne Gold,No. 3,Liam McKeefry,Kaleb Wendashin,Liam McKeefry,6-2,6,2,1,0,Completed,true,false,false
+AA002111,14 May 22,11,Carmelite Green,Port Melbourne Gold,No. 4,Louis Barnett,Stefan Karapandzic,Stefan Karapandzic,0-6,0,6,0,1,Completed,true,false,false
+AA002113,14 May 22,11,Kooyong,Carmelite Blue,No. 1,Edward Pollard,Talia Kiprilis,Edward Pollard,6-1,6,1,1,0,Completed,true,false,false
+AA002113,14 May 22,11,Kooyong,Carmelite Blue,No. 2,Montgomery Bernadou,Anna Fourlanos,Anna Fourlanos,4-6,4,6,0,1,Completed,true,false,false
+AA002113,14 May 22,11,Kooyong,Carmelite Blue,No. 3,George Stevens,Jocelyn Doig,George Stevens,6-4,6,4,1,0,Completed,true,false,false
+AA002113,14 May 22,11,Kooyong,Carmelite Blue,No. 4,William Stevens,Olivia Anderson,William Stevens,7-6,7,6,1,0,Completed,true,false,true
+AA002121,21 May 22,12,Carmelite Blue,Carmelite Green,No. 1,Talia Kiprilis,Manni Peter,Talia Kiprilis,7-5,7,5,1,0,Completed,true,false,false
+AA002121,21 May 22,12,Carmelite Blue,Carmelite Green,No. 2,Anna Fourlanos,Will Matthews,Will Matthews,2-6,2,6,0,1,Completed,true,false,false
+AA002121,21 May 22,12,Carmelite Blue,Carmelite Green,No. 3,Jocelyn Doig,Liam McKeefry,Jocelyn Doig,6-4,6,4,1,0,Completed,true,false,false
+AA002121,21 May 22,12,Carmelite Blue,Carmelite Green,No. 4,Gene Tullah,Louis Barnett,Gene Tullah,6-1,6,1,1,0,Completed,true,false,false
+AA002123,21 May 22,12,Port Melbourne Gold,Carmelite Red,No. 1,Bryson Walters,Oscar Barnett,Oscar Barnett,3-6,3,6,0,1,Completed,true,false,false
+AA002123,21 May 22,12,Port Melbourne Gold,Carmelite Red,No. 2,Lucas Daskalos,Levijn Van den Brink,Levijn Van den Brink,0-6,0,6,0,1,Completed,true,false,false
+AA002123,21 May 22,12,Port Melbourne Gold,Carmelite Red,No. 3,Angus Debien,Zack Slade,Zack Slade,6-7,6,7,0,1,Completed,true,false,false
+AA002123,21 May 22,12,Port Melbourne Gold,Carmelite Red,No. 4,Stefan Karapandzic,Harry Law,Stefan Karapandzic,6-2,6,2,1,0,Completed,true,false,false
+AA002131,28 May 22,13,Carmelite Green,Carmelite Red,No. 1,Manni Peter,Oscar Barnett,Manni Peter,6-3,6,3,1,0,Completed,true,false,false
+AA002131,28 May 22,13,Carmelite Green,Carmelite Red,No. 2,Will Matthews,Levijn Van den Brink,Levijn Van den Brink,2-6,2,6,0,1,Completed,true,false,false
+AA002131,28 May 22,13,Carmelite Green,Carmelite Red,No. 3,Michael Cameron,Harry Law,Michael Cameron,6-0,6,0,1,0,Completed,true,false,false
+AA002131,28 May 22,13,Carmelite Green,Carmelite Red,No. 4,Liam McKeefry,Topi Wilson,Topi Wilson,0-6,0,6,0,1,Completed,true,false,false
+AA002132,28 May 22,13,Kooyong,Port Melbourne Gold,No. 1,Edward Pollard,Lucas Daskalos,Edward Pollard,6-3,6,3,1,0,Completed,true,false,false
+AA002132,28 May 22,13,Kooyong,Port Melbourne Gold,No. 2,Montgomery Bernadou,Angus Debien,Montgomery Bernadou,6-4,6,4,1,0,Completed,true,false,false
+AA002132,28 May 22,13,Kooyong,Port Melbourne Gold,No. 3,Oliver Dennis,Kaleb Wendashin,Oliver Dennis,6-1,6,1,1,0,Completed,true,false,false
+AA002132,28 May 22,13,Kooyong,Port Melbourne Gold,No. 4,William Stevens,Stefan Karapandzic,Stefan Karapandzic,1-6,1,6,0,1,Completed,true,false,false
+AA002142,04 Jun 22,14,Port Melbourne Gold,Carmelite Blue,No. 1,Bryson Walters,Talia Kiprilis,Talia Kiprilis,2-6,2,6,0,1,Completed,true,false,false
+AA002142,04 Jun 22,14,Port Melbourne Gold,Carmelite Blue,No. 2,Lucas Daskalos,Stephanie Fourlanos,Lucas Daskalos,7-5,7,5,1,0,Completed,true,false,false
+AA002142,04 Jun 22,14,Port Melbourne Gold,Carmelite Blue,No. 3,Angus Debien,Jocelyn Doig,Jocelyn Doig,4-6,4,6,0,1,Completed,true,false,false
+AA002142,04 Jun 22,14,Port Melbourne Gold,Carmelite Blue,No. 4,Kaleb Wendashin,Gene Tullah,Gene Tullah,4-6,4,6,0,1,Completed,true,false,false
+AA002143,04 Jun 22,14,Carmelite Red,Kooyong,No. 1,Levijn Van den Brink,Edward Pollard,Levijn Van den Brink,7-5,7,5,1,0,Completed,true,false,false
+AA002143,04 Jun 22,14,Carmelite Red,Kooyong,No. 2,Zack Slade,Montgomery Bernadou,Zack Slade,6-4,6,4,1,0,Completed,true,false,false
+AA002143,04 Jun 22,14,Carmelite Red,Kooyong,No. 3,Harry Law,George Stevens,George Stevens,1-6,1,6,0,1,Completed,true,false,false
+AA002143,04 Jun 22,14,Carmelite Red,Kooyong,No. 4,Topi Wilson,Oliver Dennis,Topi Wilson,6-0,6,0,1,0,Completed,true,false,false
+AA002321,,16,Carmelite Red,Carmelite Blue,No. 1,Oscar Barnett,Talia Kiprilis,Talia Kiprilis,0-6,0,6,0,1,Completed,true,false,false
+AA002321,,16,Carmelite Red,Carmelite Blue,No. 2,Zack Slade,Anna Fourlanos,Anna Fourlanos,4-6,4,6,0,1,Completed,true,false,false
+AA002321,,16,Carmelite Red,Carmelite Blue,No. 3,Harry Law,Jocelyn Doig,Jocelyn Doig,2-6,2,6,0,1,Completed,true,false,false
+AA002321,,16,Carmelite Red,Carmelite Blue,No. 4,Topi Wilson,Gene Tullah,Topi Wilson,6-2,6,2,1,0,Completed,true,false,false

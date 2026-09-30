@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA5-UA037",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2009",
+  "season_id": "UA5",
+  "season_label": "Spring 2009",
+  "source_section_code": "UA037",
+  "section_label": "1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 105,
+      "percentage": 156.84,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 86,
+      "percentage": 115.03,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 0,
+      "points": 81,
+      "percentage": 97.24,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "St Louis de Mont",
+      "wins": 0,
+      "points": 80,
+      "percentage": 118.69,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 68,
+      "percentage": 101.09,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong",
+      "wins": 0,
+      "points": 59,
+      "percentage": 84.56,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Mordialloc",
+      "wins": 0,
+      "points": 43,
+      "percentage": 78.66,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "St Joan of Arc RA",
+      "wins": 0,
+      "points": 38,
+      "percentage": 68.39,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA5-UA037",
+  "fixtures": 59,
+  "completed_fixtures": 56,
+  "draw_fixtures": 3,
+  "singles_rubbers": 224,
+  "doubles_rubbers": 112,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

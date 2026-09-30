@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA17-UA004",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2015",
+  "season_id": "UA17",
+  "season_label": "Spring 2015",
+  "source_section_code": "UA004",
+  "section_label": "Section 4",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Hampton",
+      "wins": 12,
+      "points": 109,
+      "percentage": 154.67,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Maccabi",
+      "wins": 8,
+      "points": 78,
+      "percentage": 105.19,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 8,
+      "points": 75,
+      "percentage": 104.02,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Tennis World",
+      "wins": 7,
+      "points": 69,
+      "percentage": 90.72,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC 2",
+      "wins": 5,
+      "points": 66,
+      "percentage": 100.0,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC 1",
+      "wins": 5,
+      "points": 59,
+      "percentage": 91.93,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Coatesville",
+      "wins": 5,
+      "points": 55,
+      "percentage": 90.03,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hurlingham Park",
+      "wins": 4,
+      "points": 49,
+      "percentage": 76.96,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA17-UA004",
+  "fixtures": 59,
+  "completed_fixtures": 59,
+  "draw_fixtures": 59,
+  "singles_rubbers": 236,
+  "doubles_rubbers": 118,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

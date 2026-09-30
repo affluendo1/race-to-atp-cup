@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA7-UA036",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2010",
+  "season_id": "UA7",
+  "season_label": "Spring 2010",
+  "source_section_code": "UA036",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 103,
+      "percentage": 229.81,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Middle Brighton",
+      "wins": 0,
+      "points": 88,
+      "percentage": 148.25,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Chelsea Heights",
+      "wins": 0,
+      "points": 80,
+      "percentage": 134.78,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Caulfield Rec",
+      "wins": 0,
+      "points": 51,
+      "percentage": 84.73,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Glen Eira Beech",
+      "wins": 0,
+      "points": 42,
+      "percentage": 77.31,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC MLC",
+      "wins": 0,
+      "points": 30,
+      "percentage": 67.06,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 26,
+      "percentage": 53.13,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA7-UA036",
+  "fixtures": 59,
+  "completed_fixtures": 42,
+  "draw_fixtures": 3,
+  "singles_rubbers": 162,
+  "doubles_rubbers": 82,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

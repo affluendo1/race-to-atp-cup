@@ -1,0 +1,67 @@
+{
+  "asset_id": "AA51-AA001",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Spring 2021",
+  "season_id": "AA51",
+  "season_label": "Spring 2021",
+  "source_section_code": "AA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Royal South Yarra",
+      "wins": 0,
+      "points": 0,
+      "percentage": 0.0,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Port Melbourne BlueS2",
+      "wins": 0,
+      "points": 0,
+      "percentage": 0.0,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Port Melbourne Red",
+      "wins": 0,
+      "points": 0,
+      "percentage": 0.0,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Port Melbourne GreenS",
+      "wins": 0,
+      "points": 0,
+      "percentage": 0.0,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 0,
+      "percentage": 0.0,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA51-AA001",
+  "fixtures": 0,
+  "completed_fixtures": 0,
+  "draw_fixtures": 0,
+  "singles_rubbers": 0,
+  "doubles_rubbers": 0,
+  "latest_round": 0,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

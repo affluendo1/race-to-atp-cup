@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA34-UA024",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2024",
+  "season_id": "UA34",
+  "season_label": "Autumn 2024",
+  "source_section_code": "UA024",
+  "section_label": "Section 24 Green",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Royal South Yarra White",
+      "wins": 9,
+      "points": 87,
+      "percentage": 138.76,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Royal South Yarra Gold",
+      "wins": 7,
+      "points": 80,
+      "percentage": 148.61,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kings Park Red",
+      "wins": 8,
+      "points": 78,
+      "percentage": 121.05,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Lauriston",
+      "wins": 6,
+      "points": 61,
+      "percentage": 97.78,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Mentone",
+      "wins": 5,
+      "points": 47,
+      "percentage": 83.53,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kings Park White",
+      "wins": 3,
+      "points": 41,
+      "percentage": 76.26,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kings Park Blue",
+      "wins": 1,
+      "points": 26,
+      "percentage": 64.38,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA34-UA024",
+  "fixtures": 59,
+  "completed_fixtures": 45,
+  "draw_fixtures": 45,
+  "singles_rubbers": 180,
+  "doubles_rubbers": 90,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA003011,19 Jul 15,1,regular,Round 1,BLTC,Mordialloc,2,8,2,4,,,23,31,Completed,
+UA003012,19 Jul 15,1,regular,Round 1,Kooyong 1,Kooyong 2,8,2,4,2,,,25,22,Completed,
+UA003014,19 Jul 15,1,regular,Round 1,Dendy Park,Coatesville,2,8,2,4,,,27,37,Completed,
+pending-ua003-r1-bye-glen-eira-brook,19 Jul 15,1,regular,Round 1,Bye,Glen Eira Brook,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA003021,26 Jul 15,2,regular,Round 2,Coatesville,BLTC,8,2,4,2,,,31,27,Completed,
+UA003022,26 Jul 15,2,regular,Round 2,Mordialloc,Kooyong 1,1,9,1,5,,,22,31,Completed,
+UA003024,26 Jul 15,2,regular,Round 2,Glen Eira Brook,Dendy Park,9,1,5,1,,,33,16,Completed,
+pending-ua003-r2-kooyong-2-bye,26 Jul 15,2,regular,Round 2,Kooyong 2,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA003031,02 Aug 15,3,regular,Round 3,BLTC,Glen Eira Brook,2,8,2,4,,,17,26,Completed,
+UA003032,02 Aug 15,3,regular,Round 3,Kooyong 1,Coatesville,8,2,4,2,,,31,27,Completed,
+UA003034,02 Aug 15,3,regular,Round 3,Dendy Park,Kooyong 2,8,2,4,2,,,26,25,Completed,
+pending-ua003-r3-bye-mordialloc,02 Aug 15,3,regular,Round 3,Bye,Mordialloc,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA003041,09 Aug 15,4,regular,Round 4,Kooyong 2,BLTC,8,2,4,2,,,31,24,Completed,
+UA003042,09 Aug 15,4,regular,Round 4,Glen Eira Brook,Kooyong 1,2,8,2,4,,,22,29,Completed,
+UA003044,09 Aug 15,4,regular,Round 4,Mordialloc,Dendy Park,2,8,2,4,,,25,32,Completed,
+pending-ua003-r4-coatesville-bye,09 Aug 15,4,regular,Round 4,Coatesville,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA003052,16 Aug 15,5,regular,Round 5,Coatesville,Glen Eira Brook,2,8,2,4,,,24,32,Completed,
+UA003053,16 Aug 15,5,regular,Round 5,Kooyong 2,Mordialloc,5,5,3,3,,,27,27,Completed,
+UA003054,16 Aug 15,5,regular,Round 5,BLTC,Kooyong 1,0,10,0,6,,,11,36,Completed,
+pending-ua003-r5-bye-dendy-park,16 Aug 15,5,regular,Round 5,Bye,Dendy Park,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA003062,23 Aug 15,6,regular,Round 6,Dendy Park,BLTC,3,7,3,3,,,27,33,Completed,
+UA003063,23 Aug 15,6,regular,Round 6,Glen Eira Brook,Kooyong 2,7,3,3,3,,,33,26,Completed,
+UA003064,23 Aug 15,6,regular,Round 6,Mordialloc,Coatesville,2,8,2,4,,,21,29,Completed,
+pending-ua003-r6-kooyong-1-bye,23 Aug 15,6,regular,Round 6,Kooyong 1,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA003072,30 Aug 15,7,regular,Round 7,Kooyong 1,Dendy Park,10,0,6,0,,,37,10,Completed,
+UA003073,30 Aug 15,7,regular,Round 7,Coatesville,Kooyong 2,9,1,5,1,,,31,25,Completed,
+UA003074,30 Aug 15,7,regular,Round 7,Glen Eira Brook,Mordialloc,9,1,5,1,,,33,17,Completed,
+pending-ua003-r7-bltc-bye,30 Aug 15,7,regular,Round 7,BLTC,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA003081,06 Sep 15,8,regular,Round 8,Mordialloc,BLTC,8,2,4,2,,,32,24,Completed,
+UA003082,06 Sep 15,8,regular,Round 8,Kooyong 2,Kooyong 1,2,8,2,4,,,25,31,Completed,
+UA003084,06 Sep 15,8,regular,Round 8,Coatesville,Dendy Park,7,3,3,3,,,28,26,Completed,
+pending-ua003-r8-glen-eira-brook-bye,06 Sep 15,8,regular,Round 8,Glen Eira Brook,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA003091,13 Sep 15,9,regular,Round 9,BLTC,Coatesville,2,8,2,4,,,23,33,Completed,
+UA003092,13 Sep 15,9,regular,Round 9,Kooyong 1,Mordialloc,10,0,6,0,,,37,16,Completed,
+UA003094,13 Sep 15,9,regular,Round 9,Dendy Park,Glen Eira Brook,3,7,3,3,,,23,29,Completed,
+pending-ua003-r9-bye-kooyong-2,13 Sep 15,9,regular,Round 9,Bye,Kooyong 2,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA003101,11 Oct 15,10,regular,Round 10,Glen Eira Brook,BLTC,8,2,4,2,,,33,25,Completed,
+UA003102,11 Oct 15,10,regular,Round 10,Coatesville,Kooyong 1,2,8,2,4,,,19,28,Completed,
+UA003104,11 Oct 15,10,regular,Round 10,Kooyong 2,Dendy Park,8,2,4,2,,,32,24,Completed,
+pending-ua003-r10-mordialloc-bye,11 Oct 15,10,regular,Round 10,Mordialloc,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA003111,18 Oct 15,11,regular,Round 11,BLTC,Kooyong 2,1,9,1,5,,,16,32,Completed,
+UA003112,18 Oct 15,11,regular,Round 11,Kooyong 1,Glen Eira Brook,8,2,4,2,,,28,23,Completed,
+UA003114,18 Oct 15,11,regular,Round 11,Dendy Park,Mordialloc,10,0,6,0,,,36,11,Completed,
+pending-ua003-r11-bye-coatesville,18 Oct 15,11,regular,Round 11,Bye,Coatesville,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA003122,25 Oct 15,12,regular,Round 12,Glen Eira Brook,Coatesville,2,8,2,4,,,24,33,Completed,
+UA003123,25 Oct 15,12,regular,Round 12,Mordialloc,Kooyong 2,8,2,4,2,,,34,27,Completed,
+UA003124,25 Oct 15,12,regular,Round 12,Kooyong 1,BLTC,9,1,5,1,,,36,21,Completed,
+pending-ua003-r12-dendy-park-bye,25 Oct 15,12,regular,Round 12,Dendy Park,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA003132,08 Nov 15,13,regular,Round 13,BLTC,Dendy Park,1,9,1,5,,,15,35,Completed,
+UA003133,08 Nov 15,13,regular,Round 13,Kooyong 2,Glen Eira Brook,1,9,1,5,,,25,34,Completed,
+UA003134,08 Nov 15,13,regular,Round 13,Coatesville,Mordialloc,1,9,1,5,,,25,35,Completed,
+pending-ua003-r13-bye-kooyong-1,08 Nov 15,13,regular,Round 13,Bye,Kooyong 1,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA003142,15 Nov 15,14,regular,Round 14,Dendy Park,Kooyong 1,2,8,2,4,,,17,29,Completed,
+UA003143,15 Nov 15,14,regular,Round 14,Kooyong 2,Coatesville,0,10,0,6,,,22,38,Completed,
+UA003144,15 Nov 15,14,regular,Round 14,Mordialloc,Glen Eira Brook,10,0,6,0,,,38,16,Completed,
+pending-ua003-r14-bye-bltc,15 Nov 15,14,regular,Round 14,Bye,BLTC,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA003301,,16,semi_final,Semi-final,Kooyong 1,Mordialloc,8,2,4,2,,,33,25,Completed,
+UA003302,,16,semi_final,Semi-final,Coatesville,Glen Eira Brook,7,3,3,3,,,27,25,Completed,
+UA003321,,17,grand_final,Grand final · TROLS entry 2,Kooyong 1,Coatesville,2,8,2,4,,,24,30,Completed,

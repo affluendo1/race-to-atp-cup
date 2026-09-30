@@ -1,0 +1,35 @@
+{
+  "asset_id": "AA25-AA003",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Winter 2012",
+  "season_id": "AA25",
+  "season_label": "Winter 2012",
+  "source_section_code": "AA003",
+  "section_label": "Saturday Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Caulfield Rec GP1",
+      "wins": 0,
+      "points": 0,
+      "percentage": 0.0,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA25-AA003",
+  "fixtures": 0,
+  "completed_fixtures": 0,
+  "draw_fixtures": 56,
+  "singles_rubbers": 0,
+  "doubles_rubbers": 0,
+  "latest_round": 0,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

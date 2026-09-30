@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA001012,21 Jul 24,1,regular,Round 1,BLTC Blue,BLTC White,7,3,3,3,,,28,24,Completed,
+UA001013,21 Jul 24,1,regular,Round 1,Dendy Park,Carmelite,9,1,5,1,,,32,22,Completed,
+UA001014,21 Jul 24,1,regular,Round 1,Highmoor Uniting,Royal South Yarra,0,10,0,6,,,14,36,Completed,
+pending-ua001-r1-bye-royal-ave,21 Jul 24,1,regular,Round 1,Bye,Royal Ave,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001023,28 Jul 24,2,regular,Round 2,BLTC White,Dendy Park,8,2,4,2,,,32,27,Completed,
+pending-ua001-r2-carmelite-highmoor-uniting,28 Jul 24,2,regular,Round 2,Carmelite,Highmoor Uniting,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r2-royal-ave-bltc-blue,28 Jul 24,2,regular,Round 2,Royal Ave,BLTC Blue,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r2-royal-south-yarra-bye,28 Jul 24,2,regular,Round 2,Royal South Yarra,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001032,04 Aug 24,3,regular,Round 3,BLTC Blue,Royal South Yarra,9,1,5,1,,,35,24,Completed,
+UA001033,04 Aug 24,3,regular,Round 3,Dendy Park,Royal Ave,2,8,2,4,,,21,28,Completed,
+UA001034,04 Aug 24,3,regular,Round 3,Highmoor Uniting,BLTC White,8,2,4,2,,,30,22,Completed,
+pending-ua001-r3-bye-carmelite,04 Aug 24,3,regular,Round 3,Bye,Carmelite,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001042,11 Aug 24,4,regular,Round 4,Carmelite,BLTC Blue,2,8,2,4,,,23,35,Completed,
+UA001043,11 Aug 24,4,regular,Round 4,Royal South Yarra,Dendy Park,9,1,5,1,,,34,12,Completed,
+UA001044,11 Aug 24,4,regular,Round 4,Royal Ave,Highmoor Uniting,7,3,3,3,,,29,26,Completed,
+pending-ua001-r4-bltc-white-bye,11 Aug 24,4,regular,Round 4,BLTC White,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001051,18 Aug 24,5,regular,Round 5,Dendy Park,Highmoor Uniting,5,5,3,3,,,28,28,Completed,
+UA001052,18 Aug 24,5,regular,Round 5,Royal South Yarra,Carmelite,2,8,2,4,,,23,28,Completed,
+UA001053,18 Aug 24,5,regular,Round 5,BLTC White,Royal Ave,2,8,2,4,,,23,32,Completed,
+pending-ua001-r5-bye-bltc-blue,18 Aug 24,5,regular,Round 5,Bye,BLTC Blue,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001061,25 Aug 24,6,regular,Round 6,BLTC Blue,Dendy Park,9,1,5,1,,,30,17,Completed,
+UA001063,25 Aug 24,6,regular,Round 6,Carmelite,BLTC White,3,7,3,3,,,29,30,Completed,
+UA001064,25 Aug 24,6,regular,Round 6,Royal Ave,Royal South Yarra,2,8,2,4,,,24,28,Completed,
+pending-ua001-r6-highmoor-uniting-bye,25 Aug 24,6,regular,Round 6,Highmoor Uniting,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001072,01 Sep 24,7,regular,Round 7,BLTC Blue,Highmoor Uniting,10,0,6,0,,,37,22,Completed,
+UA001073,01 Sep 24,7,regular,Round 7,Royal South Yarra,BLTC White,7,3,3,3,,,28,26,Completed,
+UA001074,01 Sep 24,7,regular,Round 7,Carmelite,Royal Ave,8,2,4,2,,,31,25,Completed,
+pending-ua001-r7-bye-dendy-park,01 Sep 24,7,regular,Round 7,Bye,Dendy Park,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001082,08 Sep 24,8,regular,Round 8,BLTC White,BLTC Blue,7,3,3,3,,,33,31,Completed,
+UA001083,08 Sep 24,8,regular,Round 8,Carmelite,Dendy Park,9,1,5,1,,,32,25,Completed,
+UA001084,08 Sep 24,8,regular,Round 8,Royal South Yarra,Highmoor Uniting,2,8,2,4,,,29,34,Completed,
+pending-ua001-r8-royal-ave-bye,08 Sep 24,8,regular,Round 8,Royal Ave,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001092,15 Sep 24,9,regular,Round 9,BLTC Blue,Royal Ave,8,2,4,2,,,32,18,Completed,
+UA001093,15 Sep 24,9,regular,Round 9,Dendy Park,BLTC White,0,10,0,6,,,8,36,Completed,
+UA001094,15 Sep 24,9,regular,Round 9,Highmoor Uniting,Carmelite,3,7,3,3,,,25,27,Completed,
+pending-ua001-r9-bye-royal-south-yarra,15 Sep 24,9,regular,Round 9,Bye,Royal South Yarra,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001102,13 Oct 24,10,regular,Round 10,Royal South Yarra,BLTC Blue,2,8,2,4,,,24,32,Completed,
+UA001103,13 Oct 24,10,regular,Round 10,Royal Ave,Dendy Park,9,1,5,1,,,32,19,Completed,
+UA001104,13 Oct 24,10,regular,Round 10,BLTC White,Highmoor Uniting,3,7,3,3,,,25,26,Completed,
+pending-ua001-r10-carmelite-bye,13 Oct 24,10,regular,Round 10,Carmelite,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001112,20 Oct 24,11,regular,Round 11,BLTC Blue,Carmelite,10,0,6,0,,,38,19,Completed,
+UA001113,20 Oct 24,11,regular,Round 11,Dendy Park,Royal South Yarra,1,9,1,5,,,9,34,Completed,
+UA001114,20 Oct 24,11,regular,Round 11,Highmoor Uniting,Royal Ave,9,1,5,1,,,32,16,Completed,
+pending-ua001-r11-bye-bltc-white,20 Oct 24,11,regular,Round 11,Bye,BLTC White,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001121,27 Oct 24,12,regular,Round 12,Highmoor Uniting,Dendy Park,8,2,4,2,,,28,21,Completed,
+UA001122,27 Oct 24,12,regular,Round 12,Carmelite,Royal South Yarra,2,8,2,4,,,28,36,Completed,
+UA001123,27 Oct 24,12,regular,Round 12,Royal Ave,BLTC White,9,1,5,1,,,33,15,Completed,
+pending-ua001-r12-bltc-blue-bye,27 Oct 24,12,regular,Round 12,BLTC Blue,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001131,10 Nov 24,13,regular,Round 13,Dendy Park,BLTC Blue,1,9,1,5,,,18,33,Completed,
+UA001133,10 Nov 24,13,regular,Round 13,BLTC White,Carmelite,9,1,5,1,,,36,17,Completed,
+UA001134,10 Nov 24,13,regular,Round 13,Royal South Yarra,Royal Ave,3,7,3,3,,,28,31,Completed,
+pending-ua001-r13-bye-highmoor-uniting,10 Nov 24,13,regular,Round 13,Bye,Highmoor Uniting,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001142,17 Nov 24,14,regular,Round 14,Highmoor Uniting,BLTC Blue,3,7,3,3,,,25,30,Completed,
+UA001143,17 Nov 24,14,regular,Round 14,BLTC White,Royal South Yarra,2,8,2,4,,,15,27,Completed,
+UA001144,17 Nov 24,14,regular,Round 14,Royal Ave,Carmelite,9,1,5,1,,,34,21,Completed,
+pending-ua001-r14-dendy-park-bye,17 Nov 24,14,regular,Round 14,Dendy Park,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001301,,16,semi_final,Semi-final,BLTC Blue,Highmoor Uniting,8,2,4,2,,,30,16,Completed,
+UA001302,,16,semi_final,Semi-final,Royal South Yarra,Royal Ave,9,1,5,1,,,35,21,Completed,
+UA001321,,17,grand_final,Grand final · TROLS entry 2,BLTC Blue,Royal South Yarra,2,8,2,4,,,29,32,Completed,

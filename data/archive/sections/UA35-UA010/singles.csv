@@ -1,0 +1,217 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA010011,21 Jul 24,1,Tennis World,BLTC White,No. 1,Oskar Holmes,Finn Haines,Oskar Holmes,6-1,6,1,1,0,Completed,true,false,false
+UA010011,21 Jul 24,1,Tennis World,BLTC White,No. 2,Chalwe Bowler,Maddie Ballantyne,Maddie Ballantyne,2-6,2,6,0,1,Completed,true,false,false
+UA010011,21 Jul 24,1,Tennis World,BLTC White,No. 3,Xavier La Roche,Aidan Tan,Xavier La Roche,6-2,6,2,1,0,Completed,true,false,false
+UA010011,21 Jul 24,1,Tennis World,BLTC White,No. 4,Srivas Nadiminti,Annabelle Gorton,Annabelle Gorton,1-6,1,6,0,1,Completed,true,false,false
+UA010012,21 Jul 24,1,Kings Park,Dendy Park Yellow,No. 1,Shiven Lal,Leo Tang,Shiven Lal,6-4,6,4,1,0,Completed,true,false,false
+UA010012,21 Jul 24,1,Kings Park,Dendy Park Yellow,No. 2,Julian Wang,Peter Dai,Julian Wang,7-5,7,5,1,0,Completed,true,false,false
+UA010012,21 Jul 24,1,Kings Park,Dendy Park Yellow,No. 3,Lucas Huang,Jiho Jung,Lucas Huang,6-3,6,3,1,0,Completed,true,false,false
+UA010012,21 Jul 24,1,Kings Park,Dendy Park Yellow,No. 4,Caelan Vekas,Ryan Qui,Ryan Qui,1-6,1,6,0,1,Completed,true,false,true
+UA010014,21 Jul 24,1,GPHC,Coatesville,No. 1,Edison Zheng,Ronan Raulings,Ronan Raulings,3-6,3,6,0,1,Completed,true,false,false
+UA010014,21 Jul 24,1,GPHC,Coatesville,No. 2,Emily Saw,Allegra Romangnino,Allegra Romangnino,3-6,3,6,0,1,Completed,true,false,false
+UA010014,21 Jul 24,1,GPHC,Coatesville,No. 3,Andrew Wang,Matthew Strupl,Matthew Strupl,0-6,0,6,0,1,Completed,true,false,false
+UA010014,21 Jul 24,1,GPHC,Coatesville,No. 4,Thomas Rogers,Timothy Tan,Timothy Tan,5-7,5,7,0,1,Completed,true,false,false
+UA010022,28 Jul 24,2,BLTC White,Kings Park,No. 1,Marat Zhuang,Shiven Lal,Marat Zhuang,6-2,6,2,1,0,Completed,true,false,false
+UA010022,28 Jul 24,2,BLTC White,Kings Park,No. 2,Maddie Ballantyne,Julian Wang,Maddie Ballantyne,6-4,6,4,1,0,Completed,true,false,false
+UA010022,28 Jul 24,2,BLTC White,Kings Park,No. 3,Calvin George,Jude Horchner,Jude Horchner,6-7,6,7,0,1,Completed,true,false,false
+UA010022,28 Jul 24,2,BLTC White,Kings Park,No. 4,Annabelle Gorton,Lucas Huang,Lucas Huang,1-6,1,6,0,1,Completed,true,false,false
+UA010031,04 Aug 24,3,Tennis World,Dendy Park Blue,No. 1,Oskar Holmes,Charlie Schultz,Oskar Holmes,6-2,6,2,1,0,Completed,true,false,false
+UA010031,04 Aug 24,3,Tennis World,Dendy Park Blue,No. 2,Chalwe Bowler,Jake Bloom,Chalwe Bowler,6-1,6,1,1,0,Completed,true,false,false
+UA010031,04 Aug 24,3,Tennis World,Dendy Park Blue,No. 3,Srivas Nadiminti,Jack Loffel,Jack Loffel,1-6,1,6,0,1,Completed,true,false,false
+UA010031,04 Aug 24,3,Tennis World,Dendy Park Blue,No. 4,Aiden Artemas,Sascha Whitelaw,Aiden Artemas,6-2,6,2,1,0,Completed,true,false,false
+UA010032,04 Aug 24,3,Kings Park,Coatesville,No. 1,Shiven Lal,Ronan Raulings,Shiven Lal,6-3,6,3,1,0,Completed,true,false,false
+UA010032,04 Aug 24,3,Kings Park,Coatesville,No. 2,Julian Wang,Allegra Romangnino,Allegra Romangnino,4-6,4,6,0,1,Completed,true,false,false
+UA010032,04 Aug 24,3,Kings Park,Coatesville,No. 3,Lucas Huang,Timothy Tan,Lucas Huang,6-2,6,2,1,0,Completed,true,false,false
+UA010032,04 Aug 24,3,Kings Park,Coatesville,No. 4,Jun Lee,Dax Chen,Jun Lee,6-1,6,1,1,0,Completed,true,true,false
+UA010033,04 Aug 24,3,Murrumbeena,BLTC White,No. 1,Janoah Gray-Taito,Marat Zhuang,Janoah Gray-Taito,6-3,6,3,1,0,Completed,true,false,false
+UA010033,04 Aug 24,3,Murrumbeena,BLTC White,No. 2,Sanjay Bandla,Maddie Ballantyne,Sanjay Bandla,7-6,7,6,1,0,Completed,true,false,false
+UA010033,04 Aug 24,3,Murrumbeena,BLTC White,No. 3,Max Tanner,Calvin George,Calvin George,3-6,3,6,0,1,Completed,true,true,false
+UA010033,04 Aug 24,3,Murrumbeena,BLTC White,No. 4,Myra Singhania,Aidan Tan,Aidan Tan,3-6,3,6,0,1,Completed,true,true,false
+UA010034,04 Aug 24,3,GPHC,Dendy Park Yellow,No. 1,Oliver Chew,Leo Tang,Leo Tang,4-6,4,6,0,1,Completed,true,false,false
+UA010034,04 Aug 24,3,GPHC,Dendy Park Yellow,No. 2,Emily Saw,Peter Dai,Peter Dai,2-6,2,6,0,1,Completed,true,false,false
+UA010034,04 Aug 24,3,GPHC,Dendy Park Yellow,No. 3,Andrew Wang,Jiho Jung,Jiho Jung,1-6,1,6,0,1,Completed,true,false,false
+UA010034,04 Aug 24,3,GPHC,Dendy Park Yellow,No. 4,Thomas Rogers,Shiv Gaind,Thomas Rogers,6-4,6,4,1,0,Completed,true,false,true
+UA010041,11 Aug 24,4,Dendy Park Yellow,Tennis World,No. 1,Vivaan Ram,Oskar Holmes,Oskar Holmes,5-7,5,7,0,1,Completed,true,true,false
+UA010041,11 Aug 24,4,Dendy Park Yellow,Tennis World,No. 2,Peter Dai,Xavier La Roche,Xavier La Roche,4-6,4,6,0,1,Completed,true,false,false
+UA010041,11 Aug 24,4,Dendy Park Yellow,Tennis World,No. 3,Zack Harrison,Aiden Artemas,Aiden Artemas,0-6,0,6,0,1,Completed,true,false,false
+UA010041,11 Aug 24,4,Dendy Park Yellow,Tennis World,No. 4,Jiho Jung,Caitlin Artemas,Caitlin Artemas,0-6,0,6,0,1,Completed,true,false,true
+UA010042,11 Aug 24,4,Dendy Park Blue,Kings Park,No. 1,Charlie Schultz,Shiven Lal,Shiven Lal,4-6,4,6,0,1,Completed,true,false,false
+UA010042,11 Aug 24,4,Dendy Park Blue,Kings Park,No. 2,Jake Bloom,Julian Wang,Julian Wang,1-6,1,6,0,1,Completed,true,false,false
+UA010042,11 Aug 24,4,Dendy Park Blue,Kings Park,No. 3,Roby Capomolla,Jude Horchner,Jude Horchner,2-6,2,6,0,1,Completed,true,false,false
+UA010042,11 Aug 24,4,Dendy Park Blue,Kings Park,No. 4,Sascha Whitelaw,Caelan Vekas,Sascha Whitelaw,6-2,6,2,1,0,Completed,true,false,false
+UA010043,11 Aug 24,4,Coatesville,Murrumbeena,No. 1,Allegra Romangnino,Soham Gunjal,Allegra Romangnino,6-2,6,2,1,0,Completed,true,false,false
+UA010043,11 Aug 24,4,Coatesville,Murrumbeena,No. 2,Matthew Strupl,Sanjay Bandla,Sanjay Bandla,4-6,4,6,0,1,Completed,true,false,false
+UA010043,11 Aug 24,4,Coatesville,Murrumbeena,No. 3,Timothy Tan,Eric Tran,Eric Tran,3-6,3,6,0,1,Completed,true,false,false
+UA010043,11 Aug 24,4,Coatesville,Murrumbeena,No. 4,Dax Chen,Hazel Hoon,Hazel Hoon,3-6,3,6,0,1,Completed,true,false,false
+UA010044,11 Aug 24,4,BLTC White,GPHC,No. 1,Finn Haines,Edison Zheng,Edison Zheng,3-6,3,6,0,1,Completed,true,false,false
+UA010044,11 Aug 24,4,BLTC White,GPHC,No. 2,Calvin George,Oliver Chew,Oliver Chew,2-6,2,6,0,1,Completed,true,false,false
+UA010044,11 Aug 24,4,BLTC White,GPHC,No. 3,Aidan Tan,Emily Saw,Aidan Tan,6-3,6,3,1,0,Completed,true,false,false
+UA010044,11 Aug 24,4,BLTC White,GPHC,No. 4,Annabelle Gorton,Andrew Wang,Andrew Wang,6-7,6,7,0,1,Completed,true,false,false
+UA010051,18 Aug 24,5,Murrumbeena,GPHC,No. 1,Min Cheng (duncan) Hung,Oliver Chew,Min Cheng (duncan) Hung,6-1,6,1,1,0,Completed,true,true,false
+UA010051,18 Aug 24,5,Murrumbeena,GPHC,No. 2,Soham Gunjal,Andrew Wang,Soham Gunjal,6-4,6,4,1,0,Completed,true,false,false
+UA010051,18 Aug 24,5,Murrumbeena,GPHC,No. 3,Hazel Hoon,Thomas Rogers,Hazel Hoon,6-3,6,3,1,0,Completed,true,false,false
+UA010051,18 Aug 24,5,Murrumbeena,GPHC,No. 4,Kyle Yamada,Jackson Kitchen,Kyle Yamada,6-4,6,4,1,0,Completed,true,true,false
+UA010052,18 Aug 24,5,Coatesville,Dendy Park Blue,No. 1,Ronan Raulings,Jake Bloom,Ronan Raulings,6-3,6,3,1,0,Completed,true,false,false
+UA010052,18 Aug 24,5,Coatesville,Dendy Park Blue,No. 2,Allegra Romangnino,Jack Loffel,Allegra Romangnino,6-1,6,1,1,0,Completed,true,false,false
+UA010052,18 Aug 24,5,Coatesville,Dendy Park Blue,No. 3,Matthew Strupl,Sascha Whitelaw,Matthew Strupl,6-0,6,0,1,0,Completed,true,false,false
+UA010052,18 Aug 24,5,Coatesville,Dendy Park Blue,No. 4,Dax Chen,Emily Loffel,Dax Chen,6-0,6,0,1,0,Completed,true,false,true
+UA010053,18 Aug 24,5,Dendy Park Yellow,BLTC White,No. 1,Leo Tang,Finn Haines,Leo Tang,6-4,6,4,1,0,Completed,true,false,false
+UA010053,18 Aug 24,5,Dendy Park Yellow,BLTC White,No. 2,Peter Dai,Calvin George,Calvin George,3-6,3,6,0,1,Completed,true,false,false
+UA010053,18 Aug 24,5,Dendy Park Yellow,BLTC White,No. 3,Jiho Jung,Aidan Tan,Aidan Tan,3-6,3,6,0,1,Completed,true,false,false
+UA010053,18 Aug 24,5,Dendy Park Yellow,BLTC White,No. 4,Vivaan Ram,Annabelle Gorton,Vivaan Ram,6-0,6,0,1,0,Completed,true,true,false
+UA010054,18 Aug 24,5,Tennis World,Kings Park,No. 1,Frankie Morlino,Shiven Lal,Frankie Morlino,6-4,6,4,1,0,Completed,true,true,false
+UA010054,18 Aug 24,5,Tennis World,Kings Park,No. 2,Oskar Holmes,Jude Horchner,Jude Horchner,0-6,0,6,0,1,Completed,true,false,false
+UA010054,18 Aug 24,5,Tennis World,Kings Park,No. 3,Xavier La Roche,Lucas Huang,Xavier La Roche,6-3,6,3,1,0,Completed,true,false,false
+UA010054,18 Aug 24,5,Tennis World,Kings Park,No. 4,Srivas Nadiminti,Caelan Vekas,Caelan Vekas,3-6,3,6,0,1,Completed,true,false,false
+UA010061,25 Aug 24,6,Kings Park,Murrumbeena,No. 1,Shiven Lal,Soham Gunjal,Shiven Lal,7-5,7,5,1,0,Completed,true,false,false
+UA010061,25 Aug 24,6,Kings Park,Murrumbeena,No. 2,Julian Wang,Sanjay Bandla,Sanjay Bandla,2-6,2,6,0,1,Completed,true,false,false
+UA010061,25 Aug 24,6,Kings Park,Murrumbeena,No. 3,Lucas Huang,Eric Tran,Lucas Huang,6-1,6,1,1,0,Completed,true,false,false
+UA010061,25 Aug 24,6,Kings Park,Murrumbeena,No. 4,Arav Nambiar,Chloe Bow,Chloe Bow,1-6,1,6,0,1,Completed,true,true,false
+UA010062,25 Aug 24,6,GPHC,Tennis World,No. 1,Edison Zheng,Oskar Holmes,Edison Zheng,6-3,6,3,1,0,Completed,true,false,false
+UA010062,25 Aug 24,6,GPHC,Tennis World,No. 2,Emily Saw,Xavier La Roche,Xavier La Roche,2-6,2,6,0,1,Completed,true,false,false
+UA010062,25 Aug 24,6,GPHC,Tennis World,No. 3,Andrew Wang,Srivas Nadiminti,Andrew Wang,6-1,6,1,1,0,Completed,true,false,false
+UA010062,25 Aug 24,6,GPHC,Tennis World,No. 4,Jackson Kitchen,Aiden Artemas,Jackson Kitchen,6-4,6,4,1,0,Completed,true,false,false
+UA010063,25 Aug 24,6,Dendy Park Blue,Dendy Park Yellow,No. 1,Charlie Schultz,Jiho Jung,Charlie Schultz,6-3,6,3,1,0,Completed,true,false,false
+UA010063,25 Aug 24,6,Dendy Park Blue,Dendy Park Yellow,No. 2,Tobias Maddams,Leo Tang,Leo Tang,5-7,5,7,0,1,Completed,true,false,false
+UA010063,25 Aug 24,6,Dendy Park Blue,Dendy Park Yellow,No. 3,Jake Bloom,Peter Dai,Jake Bloom,6-3,6,3,1,0,Completed,true,false,false
+UA010063,25 Aug 24,6,Dendy Park Blue,Dendy Park Yellow,No. 4,Jack Loffel,Zack Harrison,Jack Loffel,7-6,7,6,1,0,Completed,true,false,false
+UA010064,25 Aug 24,6,BLTC White,Coatesville,No. 1,Finn Haines,Allegra Romangnino,Allegra Romangnino,1-6,1,6,0,1,Completed,true,false,false
+UA010064,25 Aug 24,6,BLTC White,Coatesville,No. 2,Maddie Ballantyne,Matthew Strupl,Matthew Strupl,2-6,2,6,0,1,Completed,true,false,false
+UA010064,25 Aug 24,6,BLTC White,Coatesville,No. 3,Calvin George,Timothy Tan,Calvin George,6-3,6,3,1,0,Completed,true,false,false
+UA010064,25 Aug 24,6,BLTC White,Coatesville,No. 4,Aidan Tan,Dax Chen,Aidan Tan,6-2,6,2,1,0,Completed,true,false,false
+UA010071,01 Sep 24,7,Tennis World,Murrumbeena,No. 1,Oskar Holmes,Min Cheng (duncan) Hung,Min Cheng (duncan) Hung,1-6,1,6,0,1,Completed,true,false,true
+UA010071,01 Sep 24,7,Tennis World,Murrumbeena,No. 2,Xavier La Roche,Janoah Gray-Taito,Janoah Gray-Taito,6-7,6,7,0,1,Completed,true,false,false
+UA010071,01 Sep 24,7,Tennis World,Murrumbeena,No. 3,Srivas Nadiminti,Sanjay Bandla,Sanjay Bandla,2-6,2,6,0,1,Completed,true,false,false
+UA010071,01 Sep 24,7,Tennis World,Murrumbeena,No. 4,Aiden Artemas,Chloe Bow,Chloe Bow,3-6,3,6,0,1,Completed,true,false,false
+UA010073,01 Sep 24,7,Coatesville,Dendy Park Yellow,No. 1,Ronan Raulings,Leo Tang,Leo Tang,1-6,1,6,0,1,Completed,true,false,false
+UA010073,01 Sep 24,7,Coatesville,Dendy Park Yellow,No. 2,Allegra Romangnino,Peter Dai,Allegra Romangnino,6-0,6,0,1,0,Completed,true,false,false
+UA010073,01 Sep 24,7,Coatesville,Dendy Park Yellow,No. 3,Matthew Strupl,Zack Harrison,Matthew Strupl,6-0,6,0,1,0,Completed,true,false,false
+UA010073,01 Sep 24,7,Coatesville,Dendy Park Yellow,No. 4,Timothy Tan,Shiv Gaind,Timothy Tan,6-1,6,1,1,0,Completed,true,false,true
+UA010074,01 Sep 24,7,Dendy Park Blue,BLTC White,No. 1,Charlie Schultz,Marat Zhuang,Marat Zhuang,3-6,3,6,0,1,Completed,true,false,false
+UA010074,01 Sep 24,7,Dendy Park Blue,BLTC White,No. 2,Tobias Maddams,Maddie Ballantyne,Maddie Ballantyne,3-6,3,6,0,1,Completed,true,false,false
+UA010074,01 Sep 24,7,Dendy Park Blue,BLTC White,No. 3,Jake Bloom,Calvin George,Jake Bloom,6-4,6,4,1,0,Completed,true,false,false
+UA010074,01 Sep 24,7,Dendy Park Blue,BLTC White,No. 4,Sascha Whitelaw,Annabelle Gorton,Sascha Whitelaw,6-0,6,0,1,0,Completed,true,false,false
+UA010081,08 Sep 24,8,BLTC White,Tennis World,No. 1,Finn Haines,Oskar Holmes,Oskar Holmes,0-6,0,6,0,1,Completed,true,false,false
+UA010081,08 Sep 24,8,BLTC White,Tennis World,No. 2,Marat Zhuang,Chalwe Bowler,Marat Zhuang,7-6,7,6,1,0,Completed,true,false,false
+UA010081,08 Sep 24,8,BLTC White,Tennis World,No. 3,Aidan Tan,Xavier La Roche,Aidan Tan,6-4,6,4,1,0,Completed,true,false,false
+UA010081,08 Sep 24,8,BLTC White,Tennis World,No. 4,Annabelle Gorton,Aiden Artemas,Annabelle Gorton,6-2,6,2,1,0,Completed,true,false,false
+UA010082,08 Sep 24,8,Dendy Park Yellow,Kings Park,No. 1,Jiho Jung,Julian Wang,Jiho Jung,6-2,6,2,1,0,Completed,true,false,false
+UA010082,08 Sep 24,8,Dendy Park Yellow,Kings Park,No. 2,Leo Tang,Jude Horchner,Jude Horchner,2-6,2,6,0,1,Completed,true,false,false
+UA010082,08 Sep 24,8,Dendy Park Yellow,Kings Park,No. 3,Peter Dai,Lucas Huang,Lucas Huang,4-6,4,6,0,1,Completed,true,false,false
+UA010082,08 Sep 24,8,Dendy Park Yellow,Kings Park,No. 4,Zack Harrison,Caelan Vekas,Caelan Vekas,1-6,1,6,0,1,Completed,true,false,false
+UA010083,08 Sep 24,8,Dendy Park Blue,Murrumbeena,No. 1,Charlie Schultz,Soham Gunjal,Charlie Schultz,7-5,7,5,1,0,Completed,true,false,false
+UA010083,08 Sep 24,8,Dendy Park Blue,Murrumbeena,No. 2,Tobias Maddams,Sanjay Bandla,Sanjay Bandla,4-6,4,6,0,1,Completed,true,false,false
+UA010083,08 Sep 24,8,Dendy Park Blue,Murrumbeena,No. 3,Roby Capomolla,Hazel Hoon,Hazel Hoon,2-6,2,6,0,1,Completed,true,false,false
+UA010083,08 Sep 24,8,Dendy Park Blue,Murrumbeena,No. 4,Sascha Whitelaw,Chloe Bow,Chloe Bow,1-6,1,6,0,1,Completed,true,false,false
+UA010084,08 Sep 24,8,Coatesville,GPHC,No. 1,Allegra Romangnino,Oliver Chew,Oliver Chew,5-7,5,7,0,1,Completed,true,false,false
+UA010084,08 Sep 24,8,Coatesville,GPHC,No. 2,Matthew Strupl,Andrew Wang,Matthew Strupl,6-1,6,1,1,0,Completed,true,false,false
+UA010084,08 Sep 24,8,Coatesville,GPHC,No. 3,Timothy Tan,Thomas Rogers,Thomas Rogers,5-7,5,7,0,1,Completed,true,false,false
+UA010084,08 Sep 24,8,Coatesville,GPHC,No. 4,Dax Chen,Jackson Kitchen,Jackson Kitchen,3-6,3,6,0,1,Completed,true,false,false
+UA010091,15 Sep 24,9,Tennis World,Coatesville,No. 1,Oskar Holmes,Ronan Raulings,Ronan Raulings,3-6,3,6,0,1,Completed,true,false,false
+UA010091,15 Sep 24,9,Tennis World,Coatesville,No. 2,Xavier La Roche,Allegra Romangnino,Xavier La Roche,6-1,6,1,1,0,Completed,true,false,false
+UA010091,15 Sep 24,9,Tennis World,Coatesville,No. 3,Srivas Nadiminti,Matthew Strupl,Matthew Strupl,6-7,6,7,0,1,Completed,true,false,false
+UA010091,15 Sep 24,9,Tennis World,Coatesville,No. 4,Aiden Artemas,Timothy Tan,Aiden Artemas,6-4,6,4,1,0,Completed,true,false,false
+UA010092,15 Sep 24,9,Kings Park,BLTC White,No. 1,Jude Horchner,Marat Zhuang,Marat Zhuang,4-6,4,6,0,1,Completed,true,false,false
+UA010092,15 Sep 24,9,Kings Park,BLTC White,No. 2,Lucas Huang,Maddie Ballantyne,Lucas Huang,6-1,6,1,1,0,Completed,true,false,false
+UA010092,15 Sep 24,9,Kings Park,BLTC White,No. 3,Tavi Bai,Calvin George,Calvin George,2-6,2,6,0,1,Completed,true,false,false
+UA010092,15 Sep 24,9,Kings Park,BLTC White,No. 4,Jun Lee,Aidan Tan,Aidan Tan,3-6,3,6,0,1,Completed,true,true,false
+UA010093,15 Sep 24,9,Murrumbeena,Dendy Park Yellow,No. 1,Janoah Gray-Taito,Jiho Jung,Janoah Gray-Taito,7-6,7,6,1,0,Completed,true,false,false
+UA010093,15 Sep 24,9,Murrumbeena,Dendy Park Yellow,No. 2,Soham Gunjal,Leo Tang,Leo Tang,2-6,2,6,0,1,Completed,true,false,false
+UA010093,15 Sep 24,9,Murrumbeena,Dendy Park Yellow,No. 3,Sanjay Bandla,Peter Dai,Sanjay Bandla,7-5,7,5,1,0,Completed,true,false,false
+UA010093,15 Sep 24,9,Murrumbeena,Dendy Park Yellow,No. 4,Eric Tran,[Unnamed player — TROLS UA010093 away code 4],[Unnamed player — TROLS UA010093 away code 4],1-6,1,6,0,1,Completed,false,false,false
+UA010094,15 Sep 24,9,GPHC,Dendy Park Blue,No. 1,Oliver Chew,Tobias Maddams,Tobias Maddams,1-6,1,6,0,1,Completed,true,false,false
+UA010094,15 Sep 24,9,GPHC,Dendy Park Blue,No. 2,Thomas Rogers,Jake Bloom,Thomas Rogers,6-2,6,2,1,0,Completed,true,false,false
+UA010094,15 Sep 24,9,GPHC,Dendy Park Blue,No. 3,Jackson Kitchen,Jack Loffel,Jackson Kitchen,6-3,6,3,1,0,Completed,true,false,false
+UA010094,15 Sep 24,9,GPHC,Dendy Park Blue,No. 4,Toby Ludeman,Sascha Whitelaw,Sascha Whitelaw,4-6,4,6,0,1,Completed,true,true,false
+UA010101,13 Oct 24,10,Dendy Park Blue,Tennis World,No. 1,Charlie Schultz,Chalwe Bowler,Chalwe Bowler,0-6,0,6,0,1,Completed,true,false,false
+UA010101,13 Oct 24,10,Dendy Park Blue,Tennis World,No. 2,Jake Bloom,Xavier La Roche,Xavier La Roche,1-6,1,6,0,1,Completed,true,false,false
+UA010101,13 Oct 24,10,Dendy Park Blue,Tennis World,No. 3,Jack Loffel,Srivas Nadiminti,Srivas Nadiminti,2-6,2,6,0,1,Completed,true,false,false
+UA010101,13 Oct 24,10,Dendy Park Blue,Tennis World,No. 4,Roby Capomolla,Aiden Artemas,Aiden Artemas,3-6,3,6,0,1,Completed,true,false,false
+UA010102,13 Oct 24,10,Coatesville,Kings Park,No. 1,Allegra Romangnino,Shiven Lal,Allegra Romangnino,6-0,6,0,1,0,Completed,true,false,false
+UA010102,13 Oct 24,10,Coatesville,Kings Park,No. 2,Lara Smith,Julian Wang,Lara Smith,6-3,6,3,1,0,Completed,true,false,false
+UA010102,13 Oct 24,10,Coatesville,Kings Park,No. 3,Martin Curnow,Jude Horchner,Jude Horchner,4-6,4,6,0,1,Completed,true,true,false
+UA010102,13 Oct 24,10,Coatesville,Kings Park,No. 4,Dax Chen,Tavi Bai,Dax Chen,6-0,6,0,1,0,Completed,true,false,false
+UA010103,13 Oct 24,10,BLTC White,Murrumbeena,No. 1,Finn Haines,Soham Gunjal,Finn Haines,6-1,6,1,1,0,Completed,true,false,false
+UA010103,13 Oct 24,10,BLTC White,Murrumbeena,No. 2,Marat Zhuang,Sanjay Bandla,Sanjay Bandla,2-6,2,6,0,1,Completed,true,false,false
+UA010103,13 Oct 24,10,BLTC White,Murrumbeena,No. 3,Annabelle Gorton,Max Tanner,Annabelle Gorton,6-2,6,2,1,0,Completed,true,false,true
+UA010103,13 Oct 24,10,BLTC White,Murrumbeena,No. 4,Rita Wong,Kyle Yamada,Kyle Yamada,2-6,2,6,0,1,Completed,true,true,true
+UA010104,13 Oct 24,10,Dendy Park Yellow,GPHC,No. 1,Nathaniel Michaelides,Edison Zheng,Nathaniel Michaelides,6-4,6,4,1,0,Completed,true,false,false
+UA010104,13 Oct 24,10,Dendy Park Yellow,GPHC,No. 2,Leo Tang,Emily Saw,Emily Saw,3-6,3,6,0,1,Completed,true,false,false
+UA010104,13 Oct 24,10,Dendy Park Yellow,GPHC,No. 3,Peter Dai,Andrew Wang,Andrew Wang,6-7,6,7,0,1,Completed,true,false,false
+UA010104,13 Oct 24,10,Dendy Park Yellow,GPHC,No. 4,Zack Harrison,Jackson Kitchen,Jackson Kitchen,0-6,0,6,0,1,Completed,true,false,false
+UA010111,20 Oct 24,11,Tennis World,Dendy Park Yellow,No. 1,Oskar Holmes,Nathaniel Michaelides,Nathaniel Michaelides,5-7,5,7,0,1,Completed,true,false,false
+UA010111,20 Oct 24,11,Tennis World,Dendy Park Yellow,No. 2,Xavier La Roche,Leo Tang,Xavier La Roche,6-3,6,3,1,0,Completed,true,false,false
+UA010111,20 Oct 24,11,Tennis World,Dendy Park Yellow,No. 3,Srivas Nadiminti,Peter Dai,Peter Dai,2-6,2,6,0,1,Completed,true,false,false
+UA010111,20 Oct 24,11,Tennis World,Dendy Park Yellow,No. 4,Aiden Artemas,Zack Harrison,Aiden Artemas,6-1,6,1,1,0,Completed,true,false,false
+UA010112,20 Oct 24,11,Kings Park,Dendy Park Blue,No. 1,Shiven Lal,Tobias Maddams,Shiven Lal,6-4,6,4,1,0,Completed,true,false,false
+UA010112,20 Oct 24,11,Kings Park,Dendy Park Blue,No. 2,Jude Horchner,Jake Bloom,Jude Horchner,6-1,6,1,1,0,Completed,true,false,false
+UA010112,20 Oct 24,11,Kings Park,Dendy Park Blue,No. 3,Lucas Huang,Jack Loffel,Lucas Huang,6-2,6,2,1,0,Completed,true,false,false
+UA010112,20 Oct 24,11,Kings Park,Dendy Park Blue,No. 4,Caelan Vekas,Sascha Whitelaw,Caelan Vekas,6-3,6,3,1,0,Completed,true,false,false
+UA010113,20 Oct 24,11,Murrumbeena,Coatesville,No. 1,Janoah Gray-Taito,Allegra Romangnino,Janoah Gray-Taito,6-3,6,3,1,0,Completed,true,false,false
+UA010113,20 Oct 24,11,Murrumbeena,Coatesville,No. 2,Soham Gunjal,Timothy Tan,Soham Gunjal,7-6,7,6,1,0,Completed,true,false,false
+UA010113,20 Oct 24,11,Murrumbeena,Coatesville,No. 3,Sanjay Bandla,[Unnamed player — TROLS UA010113 away code 3],Sanjay Bandla,6-0,6,0,1,0,Completed,false,false,false
+UA010113,20 Oct 24,11,Murrumbeena,Coatesville,No. 4,Eric Tran,Jimmy Docking,Jimmy Docking,1-6,1,6,0,1,Completed,true,false,true
+UA010114,20 Oct 24,11,GPHC,BLTC White,No. 1,Edison Zheng,Shawn Lyu,Shawn Lyu,1-6,1,6,0,1,Completed,true,false,true
+UA010114,20 Oct 24,11,GPHC,BLTC White,No. 2,Oliver Chew,Maddie Ballantyne,Maddie Ballantyne,2-6,2,6,0,1,Completed,true,false,false
+UA010114,20 Oct 24,11,GPHC,BLTC White,No. 3,Emily Saw,Calvin George,Emily Saw,6-3,6,3,1,0,Completed,true,false,false
+UA010114,20 Oct 24,11,GPHC,BLTC White,No. 4,Thomas Rogers,Annabelle Gorton,Thomas Rogers,6-2,6,2,1,0,Completed,true,false,false
+UA010121,27 Oct 24,12,GPHC,Murrumbeena,No. 1,Edison Zheng,Janoah Gray-Taito,Janoah Gray-Taito,1-6,1,6,0,1,Completed,true,false,false
+UA010121,27 Oct 24,12,GPHC,Murrumbeena,No. 2,Oliver Chew,Soham Gunjal,Oliver Chew,7-5,7,5,1,0,Completed,true,false,false
+UA010121,27 Oct 24,12,GPHC,Murrumbeena,No. 3,Emily Saw,Sanjay Bandla,Sanjay Bandla,2-6,2,6,0,1,Completed,true,false,false
+UA010121,27 Oct 24,12,GPHC,Murrumbeena,No. 4,Thomas Rogers,Max Tanner,Thomas Rogers,6-3,6,3,1,0,Completed,true,false,true
+UA010122,27 Oct 24,12,Dendy Park Blue,Coatesville,No. 1,Charlie Schultz,Ronan Raulings,Ronan Raulings,3-6,3,6,0,1,Completed,true,false,false
+UA010122,27 Oct 24,12,Dendy Park Blue,Coatesville,No. 2,Tobias Maddams,Allegra Romangnino,Tobias Maddams,6-4,6,4,1,0,Completed,true,false,false
+UA010122,27 Oct 24,12,Dendy Park Blue,Coatesville,No. 3,Roby Capomolla,Matthew Strupl,Matthew Strupl,0-6,0,6,0,1,Completed,true,false,false
+UA010122,27 Oct 24,12,Dendy Park Blue,Coatesville,No. 4,Sascha Whitelaw,Timothy Tan,Sascha Whitelaw,6-4,6,4,1,0,Completed,true,false,false
+UA010123,27 Oct 24,12,BLTC White,Dendy Park Yellow,No. 1,Marat Zhuang,Nathaniel Michaelides,Nathaniel Michaelides,4-6,4,6,0,1,Completed,true,false,false
+UA010123,27 Oct 24,12,BLTC White,Dendy Park Yellow,No. 2,Maddie Ballantyne,Leo Tang,Maddie Ballantyne,6-4,6,4,1,0,Completed,true,false,false
+UA010123,27 Oct 24,12,BLTC White,Dendy Park Yellow,No. 3,Aidan Tan,Peter Dai,Aidan Tan,6-0,6,0,1,0,Completed,true,false,false
+UA010123,27 Oct 24,12,BLTC White,Dendy Park Yellow,No. 4,Annabelle Gorton,Zack Harrison,Annabelle Gorton,7-5,7,5,1,0,Completed,true,false,false
+UA010124,27 Oct 24,12,Kings Park,Tennis World,No. 1,Jude Horchner,Oskar Holmes,Jude Horchner,6-2,6,2,1,0,Completed,true,false,false
+UA010124,27 Oct 24,12,Kings Park,Tennis World,No. 2,Lucas Huang,Xavier La Roche,Xavier La Roche,3-6,3,6,0,1,Completed,true,false,false
+UA010124,27 Oct 24,12,Kings Park,Tennis World,No. 3,Tavi Bai,Srivas Nadiminti,Tavi Bai,6-0,6,0,1,0,Completed,true,false,false
+UA010124,27 Oct 24,12,Kings Park,Tennis World,No. 4,Caelan Vekas,Aiden Artemas,Caelan Vekas,6-2,6,2,1,0,Completed,true,false,false
+UA010131,10 Nov 24,13,Murrumbeena,Kings Park,No. 1,Soham Gunjal,Shiven Lal,Shiven Lal,1-6,1,6,0,1,Completed,true,false,false
+UA010131,10 Nov 24,13,Murrumbeena,Kings Park,No. 2,Sanjay Bandla,Julian Wang,Sanjay Bandla,6-0,6,0,1,0,Completed,true,false,false
+UA010131,10 Nov 24,13,Murrumbeena,Kings Park,No. 3,Hazel Hoon,Jude Horchner,Jude Horchner,3-6,3,6,0,1,Completed,true,false,false
+UA010131,10 Nov 24,13,Murrumbeena,Kings Park,No. 4,Chloe Bow,Tavi Bai,Chloe Bow,6-3,6,3,1,0,Completed,true,false,false
+UA010132,10 Nov 24,13,Tennis World,GPHC,No. 1,Chalwe Bowler,Edison Zheng,Edison Zheng,0-6,0,6,0,1,Completed,true,false,false
+UA010132,10 Nov 24,13,Tennis World,GPHC,No. 2,Xavier La Roche,Emily Saw,Xavier La Roche,6-1,6,1,1,0,Completed,true,false,false
+UA010132,10 Nov 24,13,Tennis World,GPHC,No. 3,Srivas Nadiminti,Andrew Wang,Srivas Nadiminti,6-3,6,3,1,0,Completed,true,false,false
+UA010132,10 Nov 24,13,Tennis World,GPHC,No. 4,Aiden Artemas,Thomas Rogers,Aiden Artemas,7-6,7,6,1,0,Completed,true,false,false
+UA010133,10 Nov 24,13,Dendy Park Yellow,Dendy Park Blue,No. 1,Nathaniel Michaelides,Tobias Maddams,Nathaniel Michaelides,6-4,6,4,1,0,Completed,true,false,false
+UA010133,10 Nov 24,13,Dendy Park Yellow,Dendy Park Blue,No. 2,Leo Tang,Jack Loffel,Leo Tang,6-2,6,2,1,0,Completed,true,false,false
+UA010133,10 Nov 24,13,Dendy Park Yellow,Dendy Park Blue,No. 3,Peter Dai,Roby Capomolla,Roby Capomolla,3-6,3,6,0,1,Completed,true,false,false
+UA010133,10 Nov 24,13,Dendy Park Yellow,Dendy Park Blue,No. 4,Zack Harrison,Sascha Whitelaw,Sascha Whitelaw,2-6,2,6,0,1,Completed,true,false,false
+UA010134,10 Nov 24,13,Coatesville,BLTC White,No. 1,Ronan Raulings,Finn Haines,Ronan Raulings,6-0,6,0,1,0,Completed,true,false,false
+UA010134,10 Nov 24,13,Coatesville,BLTC White,No. 2,Martin Curnow,Marat Zhuang,Marat Zhuang,4-6,4,6,0,1,Completed,true,true,false
+UA010134,10 Nov 24,13,Coatesville,BLTC White,No. 3,Timothy Tan,Aidan Tan,Aidan Tan,2-6,2,6,0,1,Completed,true,false,false
+UA010134,10 Nov 24,13,Coatesville,BLTC White,No. 4,Dax Chen,Annabelle Gorton,Dax Chen,6-4,6,4,1,0,Completed,true,false,false
+UA010141,17 Nov 24,14,Murrumbeena,Tennis World,No. 1,Soham Gunjal,Oskar Holmes,Oskar Holmes,3-6,3,6,0,1,Completed,true,false,false
+UA010141,17 Nov 24,14,Murrumbeena,Tennis World,No. 2,Kyle Yamada,Chalwe Bowler,Chalwe Bowler,2-6,2,6,0,1,Completed,true,true,false
+UA010141,17 Nov 24,14,Murrumbeena,Tennis World,No. 3,Max Tanner,Xavier La Roche,Xavier La Roche,0-6,0,6,0,1,Completed,true,true,false
+UA010141,17 Nov 24,14,Murrumbeena,Tennis World,No. 4,Noah Panjkovic,Srivas Nadiminti,Srivas Nadiminti,0-6,0,6,0,1,Completed,true,true,false
+UA010142,17 Nov 24,14,GPHC,Kings Park,No. 1,Oliver Chew,Shiven Lal,Oliver Chew,7-5,7,5,1,0,Completed,true,false,false
+UA010142,17 Nov 24,14,GPHC,Kings Park,No. 2,Emily Saw,Jude Horchner,Jude Horchner,5-7,5,7,0,1,Completed,true,false,false
+UA010142,17 Nov 24,14,GPHC,Kings Park,No. 3,Andrew Wang,Lucas Huang,Lucas Huang,4-6,4,6,0,1,Completed,true,false,false
+UA010142,17 Nov 24,14,GPHC,Kings Park,No. 4,Thomas Rogers,Caelan Vekas,Thomas Rogers,6-4,6,4,1,0,Completed,true,false,false
+UA010143,17 Nov 24,14,Dendy Park Yellow,Coatesville,No. 1,Nathaniel Michaelides,Allegra Romangnino,Nathaniel Michaelides,6-3,6,3,1,0,Completed,true,false,false
+UA010143,17 Nov 24,14,Dendy Park Yellow,Coatesville,No. 2,Leo Tang,Matthew Strupl,Matthew Strupl,3-6,3,6,0,1,Completed,true,false,false
+UA010143,17 Nov 24,14,Dendy Park Yellow,Coatesville,No. 3,Peter Dai,Timothy Tan,Timothy Tan,3-6,3,6,0,1,Completed,true,false,false
+UA010143,17 Nov 24,14,Dendy Park Yellow,Coatesville,No. 4,Zack Harrison,Dax Chen,Dax Chen,2-6,2,6,0,1,Completed,true,false,false
+UA010144,17 Nov 24,14,BLTC White,Dendy Park Blue,No. 1,Finn Haines,Charlie Schultz,Finn Haines,6-2,6,2,1,0,Completed,true,false,false
+UA010144,17 Nov 24,14,BLTC White,Dendy Park Blue,No. 2,Marat Zhuang,Jake Bloom,Marat Zhuang,6-1,6,1,1,0,Completed,true,false,false
+UA010144,17 Nov 24,14,BLTC White,Dendy Park Blue,No. 3,Maddie Ballantyne,Jack Walsh,Maddie Ballantyne,6-3,6,3,1,0,Completed,true,false,true
+UA010144,17 Nov 24,14,BLTC White,Dendy Park Blue,No. 4,Annabelle Gorton,Roby Capomolla,Annabelle Gorton,7-5,7,5,1,0,Completed,true,false,false
+UA010301,,16,Kings Park,Tennis World,No. 1,Shiven Lal,Oskar Holmes,Shiven Lal,6-4,6,4,1,0,Completed,true,false,false
+UA010301,,16,Kings Park,Tennis World,No. 2,Julian Wang,Chalwe Bowler,Chalwe Bowler,5-7,5,7,0,1,Completed,true,false,false
+UA010301,,16,Kings Park,Tennis World,No. 3,Jude Horchner,Xavier La Roche,Jude Horchner,7-5,7,5,1,0,Completed,true,false,false
+UA010301,,16,Kings Park,Tennis World,No. 4,Lucas Huang,Srivas Nadiminti,Lucas Huang,7-5,7,5,1,0,Completed,true,false,false
+UA010302,,16,Coatesville,Murrumbeena,No. 1,Ronan Raulings,Janoah Gray-Taito,Ronan Raulings,7-5,7,5,1,0,Completed,true,false,false
+UA010302,,16,Coatesville,Murrumbeena,No. 2,Allegra Romangnino,Sanjay Bandla,Sanjay Bandla,4-6,4,6,0,1,Completed,true,false,false
+UA010302,,16,Coatesville,Murrumbeena,No. 3,Matthew Strupl,Chloe Bow,Matthew Strupl,6-3,6,3,1,0,Completed,true,false,false
+UA010302,,16,Coatesville,Murrumbeena,No. 4,Dax Chen,Felix Nguyen,Felix Nguyen,2-6,2,6,0,1,Completed,true,false,true
+UA010321,,17,Kings Park,Murrumbeena,No. 1,Shiven Lal,Janoah Gray-Taito,Janoah Gray-Taito,0-6,0,6,0,1,Completed,true,false,false
+UA010321,,17,Kings Park,Murrumbeena,No. 2,Julian Wang,Sanjay Bandla,Sanjay Bandla,4-6,4,6,0,1,Completed,true,false,false
+UA010321,,17,Kings Park,Murrumbeena,No. 3,Jude Horchner,Felix Nguyen,Jude Horchner,6-1,6,1,1,0,Completed,true,false,true
+UA010321,,17,Kings Park,Murrumbeena,No. 4,Lucas Huang,Phelix Ma,Phelix Ma,2-6,2,6,0,1,Completed,true,false,true

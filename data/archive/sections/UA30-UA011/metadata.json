@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA30-UA011",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2022",
+  "season_id": "UA30",
+  "season_label": "Autumn 2022",
+  "source_section_code": "UA011",
+  "section_label": "Section 11",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Andrews MB GO 1",
+      "wins": 12,
+      "points": 109,
+      "percentage": 157.41,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Joan of Arc",
+      "wins": 9,
+      "points": 88,
+      "percentage": 128.24,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Le Page",
+      "wins": 7,
+      "points": 78,
+      "percentage": 129.35,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "St Andrews MB GO 2",
+      "wins": 7,
+      "points": 77,
+      "percentage": 126.06,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 5,
+      "points": 66,
+      "percentage": 101.93,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Black Rock",
+      "wins": 3,
+      "points": 44,
+      "percentage": 80.26,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St Pats Mentone",
+      "wins": 2,
+      "points": 30,
+      "percentage": 64.55,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Caulfield Rec",
+      "wins": 1,
+      "points": 28,
+      "percentage": 53.79,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA30-UA011",
+  "fixtures": 55,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

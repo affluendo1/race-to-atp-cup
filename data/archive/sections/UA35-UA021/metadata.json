@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA35-UA021",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2024",
+  "season_id": "UA35",
+  "season_label": "Spring 2024",
+  "source_section_code": "UA021",
+  "section_label": "Section 21",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Glen Huntly",
+      "wins": 12,
+      "points": 116,
+      "percentage": 185.04,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Kings Park",
+      "wins": 12,
+      "points": 109,
+      "percentage": 170.69,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Hurlingham Park",
+      "wins": 7,
+      "points": 79,
+      "percentage": 118.54,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Murrumbeena",
+      "wins": 8,
+      "points": 78,
+      "percentage": 113.71,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Carmelite",
+      "wins": 7,
+      "points": 73,
+      "percentage": 99.13,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Coatesville",
+      "wins": 3,
+      "points": 48,
+      "percentage": 77.42,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 2,
+      "points": 35,
+      "percentage": 56.62,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong",
+      "wins": 2,
+      "points": 22,
+      "percentage": 50.0,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA35-UA021",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 216,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,217 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA010011,21 Jul 19,1,BLTC,Aspendale,No. 1,Finlay Hickey,Bailey Dorian,Bailey Dorian,1-6,1,6,0,1,Completed,true,false,false
+UA010011,21 Jul 19,1,BLTC,Aspendale,No. 2,Nic Salah,Jarvis Dorian,Jarvis Dorian,3-6,3,6,0,1,Completed,true,false,false
+UA010011,21 Jul 19,1,BLTC,Aspendale,No. 3,Austin Taleb,Nicholas Kircher-Wilson,Austin Taleb,7-5,7,5,1,0,Completed,true,false,false
+UA010011,21 Jul 19,1,BLTC,Aspendale,No. 4,Jack Falconer,Harry Maginness,Jack Falconer,6-1,6,1,1,0,Completed,true,false,false
+UA010012,21 Jul 19,1,Lauriston,Royal Ave,No. 1,Yani Rakach,Kai Saxon,Yani Rakach,6-3,6,3,1,0,Completed,true,false,false
+UA010012,21 Jul 19,1,Lauriston,Royal Ave,No. 2,Miah Khan,Anthony Pain,Anthony Pain,2-6,2,6,0,1,Completed,true,false,false
+UA010012,21 Jul 19,1,Lauriston,Royal Ave,No. 3,Tyler Jones,Charlie Fogarty,Charlie Fogarty,2-6,2,6,0,1,Completed,true,false,false
+UA010012,21 Jul 19,1,Lauriston,Royal Ave,No. 4,Leonie Miller,Isabel Goldsmith,Isabel Goldsmith,4-6,4,6,0,1,Completed,true,false,false
+UA010013,21 Jul 19,1,Bentleigh Rec,Carmelite,No. 1,Ishan Mitra,Amie Greenall,Ishan Mitra,6-2,6,2,1,0,Completed,true,false,false
+UA010013,21 Jul 19,1,Bentleigh Rec,Carmelite,No. 2,Jono Manoussis,Nick Kefalas,Jono Manoussis,6-0,6,0,1,0,Completed,true,false,false
+UA010013,21 Jul 19,1,Bentleigh Rec,Carmelite,No. 3,Charlie Redman,Helen Kefalas,Charlie Redman,7-6,7,6,1,0,Completed,true,false,false
+UA010013,21 Jul 19,1,Bentleigh Rec,Carmelite,No. 4,Sean Yao,Milo Shaw,Sean Yao,6-1,6,1,1,0,Completed,true,false,false
+UA010014,21 Jul 19,1,Elsternwick Park,GPHC,No. 1,Hugo Moyano,Marissa Majumdar,Hugo Moyano,6-1,6,1,1,0,Completed,true,false,false
+UA010014,21 Jul 19,1,Elsternwick Park,GPHC,No. 2,Victor Hart,Rosie Beadle,Victor Hart,6-2,6,2,1,0,Completed,true,false,false
+UA010014,21 Jul 19,1,Elsternwick Park,GPHC,No. 3,Zac Waterson,Annie Timm,Zac Waterson,6-3,6,3,1,0,Completed,true,false,false
+UA010014,21 Jul 19,1,Elsternwick Park,GPHC,No. 4,Katelyn Argent,Gabbi Brown,Katelyn Argent,6-1,6,1,1,0,Completed,true,false,false
+UA010021,28 Jul 19,2,GPHC,BLTC,No. 1,Marissa Majumdar,Finlay Hickey,Finlay Hickey,1-6,1,6,0,1,Completed,true,false,false
+UA010021,28 Jul 19,2,GPHC,BLTC,No. 2,Annie Timm,Nic Salah,Annie Timm,6-4,6,4,1,0,Completed,true,false,false
+UA010021,28 Jul 19,2,GPHC,BLTC,No. 3,Gabbi Brown,Austin Taleb,Austin Taleb,4-6,4,6,0,1,Completed,true,false,false
+UA010021,28 Jul 19,2,GPHC,BLTC,No. 4,Oliver Bond,Jack Falconer,Jack Falconer,4-6,4,6,0,1,Completed,true,false,false
+UA010022,28 Jul 19,2,Aspendale,Lauriston,No. 1,Jarvis Dorian,Yani Rakach,Yani Rakach,4-6,4,6,0,1,Completed,true,false,false
+UA010022,28 Jul 19,2,Aspendale,Lauriston,No. 2,Nicholas Kircher-Wilson,Miah Khan,Nicholas Kircher-Wilson,6-2,6,2,1,0,Completed,true,false,false
+UA010022,28 Jul 19,2,Aspendale,Lauriston,No. 3,Chris Rodas,Tyler Jones,Chris Rodas,6-0,6,0,1,0,Completed,true,false,false
+UA010022,28 Jul 19,2,Aspendale,Lauriston,No. 4,Arend Geist,Leonie Miller,Leonie Miller,1-6,1,6,0,1,Completed,true,false,false
+UA010023,28 Jul 19,2,Royal Ave,Bentleigh Rec,No. 1,Anthony Pain,Kevin Zhou,Kevin Zhou,2-6,2,6,0,1,Completed,true,false,false
+UA010023,28 Jul 19,2,Royal Ave,Bentleigh Rec,No. 2,Charlie Fogarty,Ishan Mitra,Ishan Mitra,4-6,4,6,0,1,Completed,true,false,false
+UA010023,28 Jul 19,2,Royal Ave,Bentleigh Rec,No. 3,Ethan Pham,Jono Manoussis,Jono Manoussis,5-7,5,7,0,1,Completed,true,false,false
+UA010023,28 Jul 19,2,Royal Ave,Bentleigh Rec,No. 4,Charles McNabney-Stevens,Charlie Redman,Charlie Redman,5-7,5,7,0,1,Completed,true,false,false
+UA010024,28 Jul 19,2,Carmelite,Elsternwick Park,No. 1,Amie Greenall,Hugo Moyano,Hugo Moyano,2-6,2,6,0,1,Completed,true,false,false
+UA010024,28 Jul 19,2,Carmelite,Elsternwick Park,No. 2,Nick Kefalas,Victor Hart,Victor Hart,3-6,3,6,0,1,Completed,true,false,false
+UA010024,28 Jul 19,2,Carmelite,Elsternwick Park,No. 3,Millie Tisdall,Zac Waterson,Zac Waterson,5-7,5,7,0,1,Completed,true,false,false
+UA010024,28 Jul 19,2,Carmelite,Elsternwick Park,No. 4,Helen Kefalas,Katelyn Argent,Katelyn Argent,2-6,2,6,0,1,Completed,true,false,false
+UA010031,04 Aug 19,3,BLTC,Carmelite,No. 1,Finlay Hickey,Nick Kefalas,Nick Kefalas,4-6,4,6,0,1,Completed,true,false,false
+UA010031,04 Aug 19,3,BLTC,Carmelite,No. 2,Nic Salah,Millie Tisdall,Nic Salah,6-3,6,3,1,0,Completed,true,false,false
+UA010031,04 Aug 19,3,BLTC,Carmelite,No. 3,Austin Taleb,Helen Kefalas,Austin Taleb,6-4,6,4,1,0,Completed,true,false,false
+UA010031,04 Aug 19,3,BLTC,Carmelite,No. 4,Jack Falconer,Alexandra Arenius,Jack Falconer,6-0,6,0,1,0,Completed,true,false,false
+UA010032,04 Aug 19,3,Lauriston,GPHC,No. 1,Yani Rakach,James Young,Yani Rakach,7-6,7,6,1,0,Completed,true,false,false
+UA010032,04 Aug 19,3,Lauriston,GPHC,No. 2,Miah Khan,Annie Timm,Miah Khan,6-3,6,3,1,0,Completed,true,false,false
+UA010032,04 Aug 19,3,Lauriston,GPHC,No. 3,Tyler Jones,Gabbi Brown,Tyler Jones,6-0,6,0,1,0,Completed,true,false,false
+UA010032,04 Aug 19,3,Lauriston,GPHC,No. 4,Leonie Miller,Oliver Bond,Oliver Bond,1-6,1,6,0,1,Completed,true,false,false
+UA010033,04 Aug 19,3,Bentleigh Rec,Aspendale,No. 1,Kevin Zhou,Bailey Dorian,Kevin Zhou,6-4,6,4,1,0,Completed,true,false,false
+UA010033,04 Aug 19,3,Bentleigh Rec,Aspendale,No. 2,Ishan Mitra,Jarvis Dorian,Ishan Mitra,6-4,6,4,1,0,Completed,true,false,false
+UA010033,04 Aug 19,3,Bentleigh Rec,Aspendale,No. 3,Jono Manoussis,Nicholas Kircher-Wilson,Jono Manoussis,6-1,6,1,1,0,Completed,true,false,false
+UA010033,04 Aug 19,3,Bentleigh Rec,Aspendale,No. 4,Charlie Redman,Harry Maginness,Charlie Redman,6-3,6,3,1,0,Completed,true,false,false
+UA010034,04 Aug 19,3,Elsternwick Park,Royal Ave,No. 1,Hugo Moyano,Kai Saxon,Hugo Moyano,7-6,7,6,1,0,Completed,true,false,false
+UA010034,04 Aug 19,3,Elsternwick Park,Royal Ave,No. 2,Victor Hart,Anthony Pain,Victor Hart,6-3,6,3,1,0,Completed,true,false,false
+UA010034,04 Aug 19,3,Elsternwick Park,Royal Ave,No. 3,Zac Waterson,Ethan Pham,Ethan Pham,4-6,4,6,0,1,Completed,true,false,false
+UA010034,04 Aug 19,3,Elsternwick Park,Royal Ave,No. 4,Katelyn Argent,Isabel Goldsmith,Katelyn Argent,6-2,6,2,1,0,Completed,true,false,false
+UA010043,11 Aug 19,4,GPHC,Bentleigh Rec,No. 1,James Young,Kevin Zhou,Kevin Zhou,1-6,1,6,0,1,Completed,true,false,false
+UA010043,11 Aug 19,4,GPHC,Bentleigh Rec,No. 2,Marissa Majumdar,Ishan Mitra,Ishan Mitra,1-6,1,6,0,1,Completed,true,false,false
+UA010043,11 Aug 19,4,GPHC,Bentleigh Rec,No. 3,Annie Timm,Jono Manoussis,Jono Manoussis,2-6,2,6,0,1,Completed,true,false,false
+UA010043,11 Aug 19,4,GPHC,Bentleigh Rec,No. 4,Gabbi Brown,Charlie Redman,Charlie Redman,4-6,4,6,0,1,Completed,true,false,false
+UA010051,18 Aug 19,5,Bentleigh Rec,Elsternwick Park,No. 1,Kevin Zhou,Hugo Moyano,Kevin Zhou,6-1,6,1,1,0,Completed,true,false,false
+UA010051,18 Aug 19,5,Bentleigh Rec,Elsternwick Park,No. 2,Jono Manoussis,Victor Hart,Victor Hart,4-6,4,6,0,1,Completed,true,false,false
+UA010051,18 Aug 19,5,Bentleigh Rec,Elsternwick Park,No. 3,Charlie Redman,Katelyn Argent,Katelyn Argent,2-6,2,6,0,1,Completed,true,false,false
+UA010051,18 Aug 19,5,Bentleigh Rec,Elsternwick Park,No. 4,Sean Yao,Angus Coughlan,Sean Yao,6-2,6,2,1,0,Completed,true,false,false
+UA010052,18 Aug 19,5,GPHC,Carmelite,No. 1,James Young,Nick Kefalas,James Young,6-3,6,3,1,0,Completed,true,false,false
+UA010052,18 Aug 19,5,GPHC,Carmelite,No. 2,Marissa Majumdar,Millie Tisdall,Marissa Majumdar,6-2,6,2,1,0,Completed,true,false,false
+UA010052,18 Aug 19,5,GPHC,Carmelite,No. 3,Gabbi Brown,Helen Kefalas,Gabbi Brown,6-4,6,4,1,0,Completed,true,false,false
+UA010052,18 Aug 19,5,GPHC,Carmelite,No. 4,Oliver Bond,Milo Shaw,Oliver Bond,6-0,6,0,1,0,Completed,true,false,false
+UA010053,18 Aug 19,5,Royal Ave,Aspendale,No. 1,Kai Saxon,Bailey Dorian,Bailey Dorian,2-6,2,6,0,1,Completed,true,false,false
+UA010053,18 Aug 19,5,Royal Ave,Aspendale,No. 2,Anthony Pain,Jarvis Dorian,Anthony Pain,6-1,6,1,1,0,Completed,true,false,false
+UA010053,18 Aug 19,5,Royal Ave,Aspendale,No. 3,Charlie Fogarty,Nicholas Kircher-Wilson,Charlie Fogarty,6-3,6,3,1,0,Completed,true,false,false
+UA010053,18 Aug 19,5,Royal Ave,Aspendale,No. 4,Charles McNabney-Stevens,Michael Schneider-loos,Charles McNabney-Stevens,6-3,6,3,1,0,Completed,true,false,false
+UA010054,18 Aug 19,5,BLTC,Lauriston,No. 1,Finlay Hickey,Yani Rakach,Yani Rakach,1-6,1,6,0,1,Completed,true,false,false
+UA010054,18 Aug 19,5,BLTC,Lauriston,No. 2,Jack Falconer,Miah Khan,Jack Falconer,6-0,6,0,1,0,Completed,true,false,false
+UA010054,18 Aug 19,5,BLTC,Lauriston,No. 3,Nic Salah,Tyler Jones,Nic Salah,6-0,6,0,1,0,Completed,true,false,false
+UA010054,18 Aug 19,5,BLTC,Lauriston,No. 4,Austin Taleb,Leonie Miller,Austin Taleb,6-2,6,2,1,0,Completed,true,false,false
+UA010062,25 Aug 19,6,Elsternwick Park,BLTC,No. 1,Hugo Moyano,Finlay Hickey,Hugo Moyano,6-2,6,2,1,0,Completed,true,false,false
+UA010062,25 Aug 19,6,Elsternwick Park,BLTC,No. 2,Victor Hart,Jack Falconer,Jack Falconer,2-6,2,6,0,1,Completed,true,false,false
+UA010062,25 Aug 19,6,Elsternwick Park,BLTC,No. 3,Zac Waterson,Austin Taleb,Austin Taleb,2-6,2,6,0,1,Completed,true,false,false
+UA010062,25 Aug 19,6,Elsternwick Park,BLTC,No. 4,Katelyn Argent,Nick Capel,Nick Capel,5-7,5,7,0,1,Completed,true,false,false
+UA010063,25 Aug 19,6,Carmelite,Royal Ave,No. 1,Amie Greenall,Anthony Pain,Anthony Pain,4-6,4,6,0,1,Completed,true,false,false
+UA010063,25 Aug 19,6,Carmelite,Royal Ave,No. 2,Millie Tisdall,Charlie Fogarty,Charlie Fogarty,5-7,5,7,0,1,Completed,true,false,false
+UA010063,25 Aug 19,6,Carmelite,Royal Ave,No. 3,Milo Shaw,Isabel Goldsmith,Isabel Goldsmith,3-6,3,6,0,1,Completed,true,false,false
+UA010063,25 Aug 19,6,Carmelite,Royal Ave,No. 4,Alexandra Arenius,William Farrugia,William Farrugia,0-6,0,6,0,1,Completed,true,false,true
+UA010064,25 Aug 19,6,Aspendale,GPHC,No. 1,Jarvis Dorian,Marissa Majumdar,Jarvis Dorian,6-2,6,2,1,0,Completed,true,false,false
+UA010064,25 Aug 19,6,Aspendale,GPHC,No. 2,Nicholas Kircher-Wilson,Annie Timm,Nicholas Kircher-Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA010064,25 Aug 19,6,Aspendale,GPHC,No. 3,Thomas Jacobs,Gabbi Brown,Gabbi Brown,2-6,2,6,0,1,Completed,true,false,false
+UA010064,25 Aug 19,6,Aspendale,GPHC,No. 4,Chris Rodas,Oliver Bond,Oliver Bond,0-6,0,6,0,1,Completed,true,false,false
+UA010071,01 Sep 19,7,BLTC,Bentleigh Rec,No. 1,Finlay Hickey,Jono Manoussis,Jono Manoussis,2-6,2,6,0,1,Completed,true,false,false
+UA010071,01 Sep 19,7,BLTC,Bentleigh Rec,No. 2,Jack Falconer,Charlie Redman,Jack Falconer,6-3,6,3,1,0,Completed,true,false,false
+UA010071,01 Sep 19,7,BLTC,Bentleigh Rec,No. 3,Nic Salah,Declan McCormack,Declan McCormack,2-6,2,6,0,1,Completed,true,false,false
+UA010071,01 Sep 19,7,BLTC,Bentleigh Rec,No. 4,Austin Taleb,[Unnamed player — TROLS UA010071 away code 4],Austin Taleb,6-0,6,0,1,0,Completed,false,false,false
+UA010072,01 Sep 19,7,Lauriston,Elsternwick Park,No. 1,Yani Rakach,Hugo Moyano,Hugo Moyano,3-6,3,6,0,1,Completed,true,false,false
+UA010072,01 Sep 19,7,Lauriston,Elsternwick Park,No. 2,Miah Khan,Victor Hart,Miah Khan,6-1,6,1,1,0,Completed,true,false,false
+UA010072,01 Sep 19,7,Lauriston,Elsternwick Park,No. 3,Leonie Miller,Zac Waterson,Zac Waterson,5-7,5,7,0,1,Completed,true,false,false
+UA010072,01 Sep 19,7,Lauriston,Elsternwick Park,No. 4,Lucas Nenke,Katelyn Argent,Katelyn Argent,0-6,0,6,0,1,Completed,true,false,false
+UA010073,01 Sep 19,7,GPHC,Royal Ave,No. 1,Marissa Majumdar,Kai Saxon,Kai Saxon,3-6,3,6,0,1,Completed,true,false,false
+UA010073,01 Sep 19,7,GPHC,Royal Ave,No. 2,Rosie Beadle,Charlie Fogarty,Charlie Fogarty,1-6,1,6,0,1,Completed,true,false,false
+UA010073,01 Sep 19,7,GPHC,Royal Ave,No. 3,Annie Timm,Isabel Goldsmith,Annie Timm,6-4,6,4,1,0,Completed,true,false,false
+UA010073,01 Sep 19,7,GPHC,Royal Ave,No. 4,Kara Majumdar,Charles McNabney-Stevens,Charles McNabney-Stevens,4-6,4,6,0,1,Completed,true,false,false
+UA010074,01 Sep 19,7,Carmelite,Aspendale,No. 1,Nick Kefalas,Bailey Dorian,Bailey Dorian,3-6,3,6,0,1,Completed,true,false,false
+UA010074,01 Sep 19,7,Carmelite,Aspendale,No. 2,Millie Tisdall,Jarvis Dorian,Millie Tisdall,7-6,7,6,1,0,Completed,true,false,false
+UA010074,01 Sep 19,7,Carmelite,Aspendale,No. 3,Helen Kefalas,Nicholas Kircher-Wilson,Nicholas Kircher-Wilson,6-7,6,7,0,1,Completed,true,false,false
+UA010074,01 Sep 19,7,Carmelite,Aspendale,No. 4,Alexandra Arenius,Thomas Jacobs,Alexandra Arenius,7-5,7,5,1,0,Completed,true,false,false
+UA010081,08 Sep 19,8,Aspendale,BLTC,No. 1,Bailey Dorian,Finlay Hickey,Bailey Dorian,6-1,6,1,1,0,Completed,true,false,false
+UA010081,08 Sep 19,8,Aspendale,BLTC,No. 2,Nicholas Kircher-Wilson,Austin Taleb,Austin Taleb,6-7,6,7,0,1,Completed,true,false,false
+UA010081,08 Sep 19,8,Aspendale,BLTC,No. 3,Thomas Jacobs,Kai Ballantyne,Kai Ballantyne,2-6,2,6,0,1,Completed,true,false,false
+UA010081,08 Sep 19,8,Aspendale,BLTC,No. 4,Chris Rodas,Nick Capel,Chris Rodas,7-5,7,5,1,0,Completed,true,false,false
+UA010082,08 Sep 19,8,Royal Ave,Lauriston,No. 1,Charlie Fogarty,Yani Rakach,Yani Rakach,1-6,1,6,0,1,Completed,true,false,false
+UA010082,08 Sep 19,8,Royal Ave,Lauriston,No. 2,Ethan Pham,Miah Khan,Ethan Pham,6-0,6,0,1,0,Completed,true,false,false
+UA010082,08 Sep 19,8,Royal Ave,Lauriston,No. 3,Isabel Goldsmith,Leonie Miller,Isabel Goldsmith,6-0,6,0,1,0,Completed,true,false,false
+UA010082,08 Sep 19,8,Royal Ave,Lauriston,No. 4,Charles McNabney-Stevens,Lucas Nenke,Lucas Nenke,1-6,1,6,0,1,Completed,true,false,false
+UA010083,08 Sep 19,8,Carmelite,Bentleigh Rec,No. 1,Amie Greenall,Kevin Zhou,Kevin Zhou,1-6,1,6,0,1,Completed,true,false,false
+UA010083,08 Sep 19,8,Carmelite,Bentleigh Rec,No. 2,Nick Kefalas,Declan McCormack,Declan McCormack,3-6,3,6,0,1,Completed,true,false,false
+UA010083,08 Sep 19,8,Carmelite,Bentleigh Rec,No. 3,Helen Kefalas,Charlie Redman,Charlie Redman,2-6,2,6,0,1,Completed,true,false,false
+UA010083,08 Sep 19,8,Carmelite,Bentleigh Rec,No. 4,Alexandra Arenius,Stephen Rassias,Stephen Rassias,4-6,4,6,0,1,Completed,true,false,false
+UA010084,08 Sep 19,8,GPHC,Elsternwick Park,No. 1,Marissa Majumdar,Hugo Moyano,Hugo Moyano,3-6,3,6,0,1,Completed,true,false,false
+UA010084,08 Sep 19,8,GPHC,Elsternwick Park,No. 2,Annie Timm,Max McMahon,Max McMahon,2-6,2,6,0,1,Completed,true,false,false
+UA010084,08 Sep 19,8,GPHC,Elsternwick Park,No. 3,Gabbi Brown,Katelyn Argent,Katelyn Argent,0-6,0,6,0,1,Completed,true,false,false
+UA010084,08 Sep 19,8,GPHC,Elsternwick Park,No. 4,Oliver Bond,Angus Coughlan,Oliver Bond,6-1,6,1,1,0,Completed,true,false,false
+UA010092,15 Sep 19,9,Lauriston,Aspendale,No. 1,Yani Rakach,Bailey Dorian,Yani Rakach,6-4,6,4,1,0,Completed,true,false,false
+UA010092,15 Sep 19,9,Lauriston,Aspendale,No. 2,Miah Khan,Jarvis Dorian,Miah Khan,6-4,6,4,1,0,Completed,true,false,false
+UA010092,15 Sep 19,9,Lauriston,Aspendale,No. 3,Tyler Jones,Nicholas Kircher-Wilson,Nicholas Kircher-Wilson,1-6,1,6,0,1,Completed,true,false,false
+UA010092,15 Sep 19,9,Lauriston,Aspendale,No. 4,Lucas Nenke,Chris Rodas,Lucas Nenke,6-4,6,4,1,0,Completed,true,false,false
+UA010093,15 Sep 19,9,Bentleigh Rec,Royal Ave,No. 1,Kevin Zhou,Kai Saxon,Kai Saxon,4-6,4,6,0,1,Completed,true,false,false
+UA010093,15 Sep 19,9,Bentleigh Rec,Royal Ave,No. 2,Jono Manoussis,Anthony Pain,Jono Manoussis,6-3,6,3,1,0,Completed,true,false,false
+UA010093,15 Sep 19,9,Bentleigh Rec,Royal Ave,No. 3,Declan McCormack,Charlie Fogarty,Declan McCormack,7-5,7,5,1,0,Completed,true,false,false
+UA010093,15 Sep 19,9,Bentleigh Rec,Royal Ave,No. 4,Stephen Rassias,Ethan Pham,Ethan Pham,5-7,5,7,0,1,Completed,true,false,false
+UA010094,15 Sep 19,9,Elsternwick Park,Carmelite,No. 1,Max McMahon,Amie Greenall,Max McMahon,6-4,6,4,1,0,Completed,true,false,false
+UA010094,15 Sep 19,9,Elsternwick Park,Carmelite,No. 2,Victor Hart,Millie Tisdall,Millie Tisdall,5-7,5,7,0,1,Completed,true,false,false
+UA010094,15 Sep 19,9,Elsternwick Park,Carmelite,No. 3,Katelyn Argent,Helen Kefalas,Katelyn Argent,6-1,6,1,1,0,Completed,true,false,false
+UA010094,15 Sep 19,9,Elsternwick Park,Carmelite,No. 4,Vincent Fiorelli,Alexandra Arenius,Vincent Fiorelli,6-1,6,1,1,0,Completed,true,false,false
+UA010101,13 Oct 19,10,Carmelite,BLTC,No. 1,Nick Kefalas,Jack Falconer,Jack Falconer,1-6,1,6,0,1,Completed,true,false,false
+UA010101,13 Oct 19,10,Carmelite,BLTC,No. 2,Millie Tisdall,Austin Taleb,Millie Tisdall,6-3,6,3,1,0,Completed,true,false,false
+UA010101,13 Oct 19,10,Carmelite,BLTC,No. 3,Helen Kefalas,Kai Ballantyne,Kai Ballantyne,3-6,3,6,0,1,Completed,true,false,false
+UA010101,13 Oct 19,10,Carmelite,BLTC,No. 4,Milo Shaw,Nick Capel,Nick Capel,2-6,2,6,0,1,Completed,true,false,false
+UA010102,13 Oct 19,10,GPHC,Lauriston,No. 1,James Young,Miah Khan,Miah Khan,3-6,3,6,0,1,Completed,true,false,false
+UA010102,13 Oct 19,10,GPHC,Lauriston,No. 2,Rosie Beadle,Tyler Jones,Tyler Jones,2-6,2,6,0,1,Completed,true,false,false
+UA010102,13 Oct 19,10,GPHC,Lauriston,No. 3,Oliver Bond,Leonie Miller,Oliver Bond,6-4,6,4,1,0,Completed,true,false,false
+UA010102,13 Oct 19,10,GPHC,Lauriston,No. 4,James Walsh,Lucas Nenke,Lucas Nenke,2-6,2,6,0,1,Completed,true,false,false
+UA010103,13 Oct 19,10,Aspendale,Bentleigh Rec,No. 1,Jarvis Dorian,Kevin Zhou,Kevin Zhou,1-6,1,6,0,1,Completed,true,false,false
+UA010103,13 Oct 19,10,Aspendale,Bentleigh Rec,No. 2,Nicholas Kircher-Wilson,[Unnamed player — TROLS UA010103 away code 2],Nicholas Kircher-Wilson,6-0,6,0,1,0,Completed,false,false,false
+UA010103,13 Oct 19,10,Aspendale,Bentleigh Rec,No. 3,Thomas Jacobs,Charlie Redman,Charlie Redman,1-6,1,6,0,1,Completed,true,false,false
+UA010103,13 Oct 19,10,Aspendale,Bentleigh Rec,No. 4,Chris Rodas,Stephen Rassias,Chris Rodas,6-3,6,3,1,0,Completed,true,false,false
+UA010104,13 Oct 19,10,Royal Ave,Elsternwick Park,No. 1,Anthony Pain,Max McMahon,Max McMahon,2-6,2,6,0,1,Completed,true,false,false
+UA010104,13 Oct 19,10,Royal Ave,Elsternwick Park,No. 2,Isabel Goldsmith,Vincent Fiorelli,Vincent Fiorelli,2-6,2,6,0,1,Completed,true,false,false
+UA010104,13 Oct 19,10,Royal Ave,Elsternwick Park,No. 3,Charlie Fogarty,Zac Waterson,Zac Waterson,0-6,0,6,0,1,Completed,true,false,false
+UA010104,13 Oct 19,10,Royal Ave,Elsternwick Park,No. 4,Olivia Todd-Chidley,Katelyn Argent,Katelyn Argent,0-6,0,6,0,1,Completed,true,false,false
+UA010111,20 Oct 19,11,BLTC,Royal Ave,No. 1,Finlay Hickey,Anthony Pain,Finlay Hickey,7-6,7,6,1,0,Completed,true,false,false
+UA010111,20 Oct 19,11,BLTC,Royal Ave,No. 2,Nic Salah,Charlie Fogarty,Charlie Fogarty,3-6,3,6,0,1,Completed,true,false,false
+UA010111,20 Oct 19,11,BLTC,Royal Ave,No. 3,Austin Taleb,Ethan Pham,Austin Taleb,6-2,6,2,1,0,Completed,true,false,false
+UA010111,20 Oct 19,11,BLTC,Royal Ave,No. 4,Kai Ballantyne,Olivia Todd-Chidley,Kai Ballantyne,6-0,6,0,1,0,Completed,true,false,false
+UA010112,20 Oct 19,11,Lauriston,Carmelite,No. 1,Yani Rakach,Nick Kefalas,Yani Rakach,6-1,6,1,1,0,Completed,true,false,false
+UA010112,20 Oct 19,11,Lauriston,Carmelite,No. 2,Miah Khan,Millie Tisdall,Millie Tisdall,1-6,1,6,0,1,Completed,true,false,false
+UA010112,20 Oct 19,11,Lauriston,Carmelite,No. 3,Tyler Jones,Helen Kefalas,Tyler Jones,6-2,6,2,1,0,Completed,true,false,false
+UA010112,20 Oct 19,11,Lauriston,Carmelite,No. 4,Lucas Nenke,Milo Shaw,Lucas Nenke,6-0,6,0,1,0,Completed,true,false,false
+UA010113,20 Oct 19,11,Bentleigh Rec,GPHC,No. 1,Kevin Zhou,Marissa Majumdar,Kevin Zhou,6-3,6,3,1,0,Completed,true,false,false
+UA010113,20 Oct 19,11,Bentleigh Rec,GPHC,No. 2,[Unnamed player — TROLS UA010113 home code 2],Oliver Bond,Oliver Bond,0-6,0,6,0,1,Completed,false,false,false
+UA010113,20 Oct 19,11,Bentleigh Rec,GPHC,No. 3,Charlie Redman,Annie Timm,Charlie Redman,6-2,6,2,1,0,Completed,true,false,false
+UA010113,20 Oct 19,11,Bentleigh Rec,GPHC,No. 4,Stephen Rassias,Gabbi Brown,Stephen Rassias,6-0,6,0,1,0,Completed,true,false,false
+UA010114,20 Oct 19,11,Elsternwick Park,Aspendale,No. 1,Hugo Moyano,Bailey Dorian,Hugo Moyano,6-4,6,4,1,0,Completed,true,false,false
+UA010114,20 Oct 19,11,Elsternwick Park,Aspendale,No. 2,Victor Hart,Jarvis Dorian,Victor Hart,6-3,6,3,1,0,Completed,true,false,false
+UA010114,20 Oct 19,11,Elsternwick Park,Aspendale,No. 3,Zac Waterson,Thomas Jacobs,Zac Waterson,6-2,6,2,1,0,Completed,true,false,false
+UA010114,20 Oct 19,11,Elsternwick Park,Aspendale,No. 4,Katelyn Argent,Chris Rodas,Katelyn Argent,6-0,6,0,1,0,Completed,true,false,false
+UA010121,27 Oct 19,12,Elsternwick Park,Bentleigh Rec,No. 1,Hugo Moyano,Kevin Zhou,Hugo Moyano,7-6,7,6,1,0,Completed,true,false,false
+UA010121,27 Oct 19,12,Elsternwick Park,Bentleigh Rec,No. 2,Max McMahon,Jono Manoussis,Max McMahon,6-2,6,2,1,0,Completed,true,false,false
+UA010121,27 Oct 19,12,Elsternwick Park,Bentleigh Rec,No. 3,Zac Waterson,Charlie Redman,Charlie Redman,2-6,2,6,0,1,Completed,true,false,false
+UA010121,27 Oct 19,12,Elsternwick Park,Bentleigh Rec,No. 4,Leo Hart,Stephen Rassias,Stephen Rassias,1-6,1,6,0,1,Completed,true,false,false
+UA010122,27 Oct 19,12,Carmelite,GPHC,No. 1,Amie Greenall,James Young,Amie Greenall,6-3,6,3,1,0,Completed,true,false,false
+UA010122,27 Oct 19,12,Carmelite,GPHC,No. 2,Millie Tisdall,Oliver Bond,Oliver Bond,1-6,1,6,0,1,Completed,true,false,false
+UA010122,27 Oct 19,12,Carmelite,GPHC,No. 3,Helen Kefalas,Annie Timm,Annie Timm,3-6,3,6,0,1,Completed,true,false,false
+UA010122,27 Oct 19,12,Carmelite,GPHC,No. 4,Milo Shaw,Gabbi Brown,Gabbi Brown,0-6,0,6,0,1,Completed,true,false,false
+UA010123,27 Oct 19,12,Aspendale,Royal Ave,No. 1,Bailey Dorian,Anthony Pain,Anthony Pain,1-6,1,6,0,1,Completed,true,false,false
+UA010123,27 Oct 19,12,Aspendale,Royal Ave,No. 2,Nicholas Kircher-Wilson,Ethan Pham,Nicholas Kircher-Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA010123,27 Oct 19,12,Aspendale,Royal Ave,No. 3,Thomas Jacobs,Charles McNabney-Stevens,Charles McNabney-Stevens,6-7,6,7,0,1,Completed,true,false,false
+UA010123,27 Oct 19,12,Aspendale,Royal Ave,No. 4,Chris Rodas,Charlie Fogarty,Chris Rodas,6-0,6,0,1,0,Completed,true,false,false
+UA010124,27 Oct 19,12,Lauriston,BLTC,No. 1,Yani Rakach,Finlay Hickey,Yani Rakach,6-3,6,3,1,0,Completed,true,false,false
+UA010124,27 Oct 19,12,Lauriston,BLTC,No. 2,Miah Khan,Jack Falconer,Jack Falconer,3-6,3,6,0,1,Completed,true,false,false
+UA010124,27 Oct 19,12,Lauriston,BLTC,No. 3,Tyler Jones,Kai Ballantyne,Kai Ballantyne,0-6,0,6,0,1,Completed,true,false,false
+UA010124,27 Oct 19,12,Lauriston,BLTC,No. 4,Lucas Nenke,Nick Capel,Lucas Nenke,6-0,6,0,1,0,Completed,true,false,false
+UA010131,10 Nov 19,13,Bentleigh Rec,Lauriston,No. 1,Kevin Zhou,Miah Khan,Kevin Zhou,6-1,6,1,1,0,Completed,true,false,false
+UA010131,10 Nov 19,13,Bentleigh Rec,Lauriston,No. 2,Declan McCormack,Tyler Jones,Tyler Jones,3-6,3,6,0,1,Completed,true,false,false
+UA010131,10 Nov 19,13,Bentleigh Rec,Lauriston,No. 3,Charlie Redman,Leonie Miller,Leonie Miller,1-6,1,6,0,1,Completed,true,false,false
+UA010131,10 Nov 19,13,Bentleigh Rec,Lauriston,No. 4,Stephen Rassias,Lucas Nenke,Lucas Nenke,2-6,2,6,0,1,Completed,true,false,false
+UA010132,10 Nov 19,13,BLTC,Elsternwick Park,No. 1,Finlay Hickey,Hugo Moyano,Hugo Moyano,0-6,0,6,0,1,Completed,true,false,false
+UA010132,10 Nov 19,13,BLTC,Elsternwick Park,No. 2,Jack Falconer,Victor Hart,Jack Falconer,6-1,6,1,1,0,Completed,true,false,false
+UA010132,10 Nov 19,13,BLTC,Elsternwick Park,No. 3,Austin Taleb,Katelyn Argent,Katelyn Argent,5-7,5,7,0,1,Completed,true,false,false
+UA010132,10 Nov 19,13,BLTC,Elsternwick Park,No. 4,Kai Ballantyne,Angus Coughlan,Kai Ballantyne,6-3,6,3,1,0,Completed,true,false,false
+UA010133,10 Nov 19,13,Royal Ave,Carmelite,No. 1,Charlie Fogarty,Amie Greenall,Charlie Fogarty,6-2,6,2,1,0,Completed,true,false,false
+UA010133,10 Nov 19,13,Royal Ave,Carmelite,No. 2,Isabel Goldsmith,Nick Kefalas,Nick Kefalas,6-7,6,7,0,1,Completed,true,false,false
+UA010133,10 Nov 19,13,Royal Ave,Carmelite,No. 3,Charles McNabney-Stevens,Millie Tisdall,Charles McNabney-Stevens,6-3,6,3,1,0,Completed,true,false,false
+UA010133,10 Nov 19,13,Royal Ave,Carmelite,No. 4,Olivia Todd-Chidley,Helen Kefalas,Helen Kefalas,3-6,3,6,0,1,Completed,true,false,false
+UA010134,10 Nov 19,13,GPHC,Aspendale,No. 1,James Young,Bailey Dorian,Bailey Dorian,0-6,0,6,0,1,Completed,true,false,false
+UA010134,10 Nov 19,13,GPHC,Aspendale,No. 2,Marissa Majumdar,Jarvis Dorian,Jarvis Dorian,4-6,4,6,0,1,Completed,true,false,false
+UA010134,10 Nov 19,13,GPHC,Aspendale,No. 3,Rosie Beadle,Nicholas Kircher-Wilson,Nicholas Kircher-Wilson,0-6,0,6,0,1,Completed,true,false,false
+UA010134,10 Nov 19,13,GPHC,Aspendale,No. 4,Annie Timm,Thomas Jacobs,Thomas Jacobs,3-6,3,6,0,1,Completed,true,false,false
+UA010141,17 Nov 19,14,Bentleigh Rec,BLTC,No. 1,Kevin Zhou,Finlay Hickey,Kevin Zhou,6-1,6,1,1,0,Completed,true,false,false
+UA010141,17 Nov 19,14,Bentleigh Rec,BLTC,No. 2,Ishan Mitra,Jack Falconer,Jack Falconer,2-6,2,6,0,1,Completed,true,false,false
+UA010141,17 Nov 19,14,Bentleigh Rec,BLTC,No. 3,Charlie Redman,Austin Taleb,Austin Taleb,3-6,3,6,0,1,Completed,true,false,false
+UA010141,17 Nov 19,14,Bentleigh Rec,BLTC,No. 4,Sean Yao,Kai Ballantyne,Kai Ballantyne,2-6,2,6,0,1,Completed,true,false,false
+UA010142,17 Nov 19,14,Elsternwick Park,Lauriston,No. 1,Hugo Moyano,Yani Rakach,Hugo Moyano,6-0,6,0,1,0,Completed,true,false,false
+UA010142,17 Nov 19,14,Elsternwick Park,Lauriston,No. 2,Max McMahon,Miah Khan,Max McMahon,6-2,6,2,1,0,Completed,true,false,false
+UA010142,17 Nov 19,14,Elsternwick Park,Lauriston,No. 3,Victor Hart,Leonie Miller,Leonie Miller,3-6,3,6,0,1,Completed,true,false,false
+UA010142,17 Nov 19,14,Elsternwick Park,Lauriston,No. 4,Zac Waterson,Lucas Nenke,Lucas Nenke,0-6,0,6,0,1,Completed,true,false,false
+UA010143,17 Nov 19,14,Royal Ave,GPHC,No. 1,Anthony Pain,James Young,Anthony Pain,6-2,6,2,1,0,Completed,true,false,false
+UA010143,17 Nov 19,14,Royal Ave,GPHC,No. 2,Ethan Pham,Marissa Majumdar,Ethan Pham,6-2,6,2,1,0,Completed,true,false,false
+UA010143,17 Nov 19,14,Royal Ave,GPHC,No. 3,Charles McNabney-Stevens,Rosie Beadle,Charles McNabney-Stevens,6-0,6,0,1,0,Completed,true,false,false
+UA010143,17 Nov 19,14,Royal Ave,GPHC,No. 4,William Furrugia,Gabbi Brown,William Furrugia,6-0,6,0,1,0,Completed,true,false,false
+UA010144,17 Nov 19,14,Aspendale,Carmelite,No. 1,Bailey Dorian,Amie Greenall,Bailey Dorian,6-2,6,2,1,0,Completed,true,false,false
+UA010144,17 Nov 19,14,Aspendale,Carmelite,No. 2,Jarvis Dorian,Nick Kefalas,Jarvis Dorian,6-2,6,2,1,0,Completed,true,false,false
+UA010144,17 Nov 19,14,Aspendale,Carmelite,No. 3,Nicholas Kircher-Wilson,Millie Tisdall,Nicholas Kircher-Wilson,6-0,6,0,1,0,Completed,true,false,false
+UA010144,17 Nov 19,14,Aspendale,Carmelite,No. 4,Chris Rodas,Milo Shaw,Chris Rodas,6-0,6,0,1,0,Completed,true,false,false
+UA010301,,16,BLTC,Bentleigh Rec,No. 1,Jack Falconer,Kevin Zhou,Kevin Zhou,3-6,3,6,0,1,Completed,true,false,false
+UA010301,,16,BLTC,Bentleigh Rec,No. 2,Nick Capel,Ishan Mitra,Ishan Mitra,2-6,2,6,0,1,Completed,true,false,false
+UA010301,,16,BLTC,Bentleigh Rec,No. 3,Austin Taleb,Declan McCormack,Declan McCormack,4-6,4,6,0,1,Completed,true,false,false
+UA010301,,16,BLTC,Bentleigh Rec,No. 4,Kai Ballantyne,Charlie Redman,Kai Ballantyne,7-5,7,5,1,0,Completed,true,false,false
+UA010302,,16,Elsternwick Park,Aspendale,No. 1,Hugo Moyano,Bailey Dorian,Bailey Dorian,4-6,4,6,0,1,Completed,true,false,false
+UA010302,,16,Elsternwick Park,Aspendale,No. 2,Max McMahon,Jarvis Dorian,Max McMahon,6-2,6,2,1,0,Completed,true,false,false
+UA010302,,16,Elsternwick Park,Aspendale,No. 3,Victor Hart,Nicholas Kircher-Wilson,Victor Hart,6-3,6,3,1,0,Completed,true,false,false
+UA010302,,16,Elsternwick Park,Aspendale,No. 4,Katelyn Argent,Chris Rodas,Katelyn Argent,6-1,6,1,1,0,Completed,true,false,false
+UA010321,,17,Elsternwick Park,Bentleigh Rec,No. 1,Hugo Moyano,Kevin Zhou,Hugo Moyano,7-5,7,5,1,0,Completed,true,false,false
+UA010321,,17,Elsternwick Park,Bentleigh Rec,No. 2,Max McMahon,Ishan Mitra,Ishan Mitra,4-6,4,6,0,1,Completed,true,false,false
+UA010321,,17,Elsternwick Park,Bentleigh Rec,No. 3,Victor Hart,Declan McCormack,Declan McCormack,1-6,1,6,0,1,Completed,true,false,false
+UA010321,,17,Elsternwick Park,Bentleigh Rec,No. 4,Katelyn Argent,Charlie Redman,Katelyn Argent,6-2,6,2,1,0,Completed,true,false,false

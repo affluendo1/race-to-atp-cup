@@ -1,0 +1,75 @@
+{
+  "asset_id": "AA40-AA002",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Autumn 2017",
+  "season_id": "AA40",
+  "season_label": "Autumn 2017",
+  "source_section_code": "AA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "GPHC",
+      "wins": 0,
+      "points": 0,
+      "percentage": 0.0,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Kooyong MLC 1",
+      "wins": 0,
+      "points": 0,
+      "percentage": 0.0,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kooyong MLC 2",
+      "wins": 0,
+      "points": 0,
+      "percentage": 0.0,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Port Melbourne",
+      "wins": 0,
+      "points": 0,
+      "percentage": 0.0,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Carmelite 2",
+      "wins": 0,
+      "points": 0,
+      "percentage": 0.0,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Carmelite 1",
+      "wins": 0,
+      "points": 0,
+      "percentage": 0.0,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA40-AA002",
+  "fixtures": 32,
+  "completed_fixtures": 14,
+  "draw_fixtures": 44,
+  "singles_rubbers": 56,
+  "doubles_rubbers": 28,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

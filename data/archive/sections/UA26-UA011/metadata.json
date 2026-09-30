@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA26-UA011",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2020",
+  "season_id": "UA26",
+  "season_label": "Autumn 2020",
+  "source_section_code": "UA011",
+  "section_label": "Section 11",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Parkdale",
+      "wins": 5,
+      "points": 51,
+      "percentage": 261.54,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Dendy Park",
+      "wins": 4,
+      "points": 38,
+      "percentage": 118.64,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Royal South Yarra",
+      "wins": 3,
+      "points": 35,
+      "percentage": 119.51,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Royal Ave",
+      "wins": 3,
+      "points": 30,
+      "percentage": 88.51,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Lauriston",
+      "wins": 2,
+      "points": 27,
+      "percentage": 88.81,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Black Rock 2",
+      "wins": 2,
+      "points": 26,
+      "percentage": 98.41,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Black Rock 1",
+      "wins": 1,
+      "points": 19,
+      "percentage": 70.27,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Tennis World",
+      "wins": 0,
+      "points": 14,
+      "percentage": 55.56,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA26-UA011",
+  "fixtures": 24,
+  "completed_fixtures": 20,
+  "draw_fixtures": 56,
+  "singles_rubbers": 80,
+  "doubles_rubbers": 40,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

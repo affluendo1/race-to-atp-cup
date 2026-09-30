@@ -1,0 +1,165 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA002011,27 Jul 25,1,Mentone,BLTC,No. 1,Tom Carroll,Alexander Lasocki,Alexander Lasocki,3-6,3,6,0,1,Completed,true,false,false
+UA002011,27 Jul 25,1,Mentone,BLTC,No. 2,Lennox Carroll,David Haidor,Lennox Carroll,6-3,6,3,1,0,Completed,true,false,false
+UA002011,27 Jul 25,1,Mentone,BLTC,No. 3,Xavier Ashlock,Willem Duncan,Xavier Ashlock,6-2,6,2,1,0,Completed,true,false,false
+UA002011,27 Jul 25,1,Mentone,BLTC,No. 4,Eric Strelnikov,Minato Sata,Minato Sata,5-7,5,7,0,1,Completed,true,false,false
+UA002013,27 Jul 25,1,Hurlingham Park,Le Page,No. 1,Zachary Boatto,Lucas Hansen,Zachary Boatto,6-4,6,4,1,0,Completed,true,false,false
+UA002013,27 Jul 25,1,Hurlingham Park,Le Page,No. 2,Timeo Massenet,Dane Lazic,Timeo Massenet,6-2,6,2,1,0,Completed,true,false,false
+UA002013,27 Jul 25,1,Hurlingham Park,Le Page,No. 3,Lucas Wu,Alex Zhao,Lucas Wu,6-2,6,2,1,0,Completed,true,false,false
+UA002013,27 Jul 25,1,Hurlingham Park,Le Page,No. 4,Renny Thurlow,Aryan Singh,Renny Thurlow,6-0,6,0,1,0,Completed,true,false,true
+UA002014,27 Jul 25,1,Murrumbeena,Elsternwick Park,No. 1,Pranav Arora,Hugo Morgan,Hugo Morgan,6-7,6,7,0,1,Completed,true,false,false
+UA002014,27 Jul 25,1,Murrumbeena,Elsternwick Park,No. 2,Min Cheng (duncan) Hung,Austin Haines,Austin Haines,4-6,4,6,0,1,Completed,true,false,false
+UA002014,27 Jul 25,1,Murrumbeena,Elsternwick Park,No. 3,Tomas Albani,Wynn Arumugam,Tomas Albani,7-5,7,5,1,0,Completed,true,false,false
+UA002014,27 Jul 25,1,Murrumbeena,Elsternwick Park,No. 4,Egor Barabanov,Alastair Smith,Egor Barabanov,7-5,7,5,1,0,Completed,true,false,false
+UA002021,03 Aug 25,2,Elsternwick Park,Mentone,No. 1,Hugo Morgan,Lennox Carroll,Hugo Morgan,6-4,6,4,1,0,Completed,true,false,false
+UA002021,03 Aug 25,2,Elsternwick Park,Mentone,No. 2,Austin Haines,Xavier Ashlock,Xavier Ashlock,1-6,1,6,0,1,Completed,true,false,false
+UA002021,03 Aug 25,2,Elsternwick Park,Mentone,No. 3,Wynn Arumugam,Robert Proudfoot,Wynn Arumugam,6-1,6,1,1,0,Completed,true,false,false
+UA002021,03 Aug 25,2,Elsternwick Park,Mentone,No. 4,Matthew Rebelo,Sol Louev,Matthew Rebelo,6-0,6,0,1,0,Completed,true,false,true
+UA002022,03 Aug 25,2,BLTC,Kings Park,No. 1,Alexander Lasocki,Yoon Lee,Alexander Lasocki,6-2,6,2,1,0,Completed,true,false,false
+UA002022,03 Aug 25,2,BLTC,Kings Park,No. 2,Willem Duncan,Daniel Qin,Daniel Qin,6-7,6,7,0,1,Completed,true,false,false
+UA002022,03 Aug 25,2,BLTC,Kings Park,No. 3,Ben Tohill,Cooper Hodge,Cooper Hodge,0-6,0,6,0,1,Completed,true,false,false
+UA002022,03 Aug 25,2,BLTC,Kings Park,No. 4,Minato Sata,U-zin Goh,U-zin Goh,2-6,2,6,0,1,Completed,true,false,false
+UA002024,03 Aug 25,2,Le Page,Murrumbeena,No. 1,Adyaan Tata,Kevin Liang,Kevin Liang,2-6,2,6,0,1,Completed,true,false,false
+UA002024,03 Aug 25,2,Le Page,Murrumbeena,No. 2,Lucas Hansen,Patrick Francese,Lucas Hansen,6-2,6,2,1,0,Completed,true,false,false
+UA002024,03 Aug 25,2,Le Page,Murrumbeena,No. 3,Dane Lazic,Min Cheng (duncan) Hung,Min Cheng (duncan) Hung,1-6,1,6,0,1,Completed,true,false,false
+UA002024,03 Aug 25,2,Le Page,Murrumbeena,No. 4,Alex Zhao,Egor Barabanov,Egor Barabanov,2-6,2,6,0,1,Completed,true,false,false
+UA002031,10 Aug 25,3,Mentone,Le Page,No. 1,Xavier Ashlock,Adyaan Tata,Adyaan Tata,6-7,6,7,0,1,Completed,true,false,false
+UA002031,10 Aug 25,3,Mentone,Le Page,No. 2,Eric Strelnikov,Lucas Hansen,Lucas Hansen,2-6,2,6,0,1,Completed,true,false,false
+UA002031,10 Aug 25,3,Mentone,Le Page,No. 3,Robert Proudfoot,Dane Lazic,Dane Lazic,2-6,2,6,0,1,Completed,true,false,false
+UA002031,10 Aug 25,3,Mentone,Le Page,No. 4,Jack Forster,Alex Zhao,Alex Zhao,3-6,3,6,0,1,Completed,true,true,false
+UA002032,10 Aug 25,3,Kings Park,Elsternwick Park,No. 1,Yoon Lee,Hugo Morgan,Hugo Morgan,3-6,3,6,0,1,Completed,true,false,false
+UA002032,10 Aug 25,3,Kings Park,Elsternwick Park,No. 2,Miles Hancox,Wynn Arumugam,Miles Hancox,6-2,6,2,1,0,Completed,true,false,false
+UA002032,10 Aug 25,3,Kings Park,Elsternwick Park,No. 3,Cooper Hodge,Alastair Smith,Cooper Hodge,7-5,7,5,1,0,Completed,true,false,false
+UA002032,10 Aug 25,3,Kings Park,Elsternwick Park,No. 4,Matthew Peng,Matthew Rebelo,Matthew Rebelo,2-6,2,6,0,1,Completed,true,false,false
+UA002033,10 Aug 25,3,Hurlingham Park,BLTC,No. 1,Zachary Boatto,David Haidor,David Haidor,4-6,4,6,0,1,Completed,true,false,false
+UA002033,10 Aug 25,3,Hurlingham Park,BLTC,No. 2,Lucas Wu,Willem Duncan,Lucas Wu,6-2,6,2,1,0,Completed,true,false,false
+UA002033,10 Aug 25,3,Hurlingham Park,BLTC,No. 3,Veitel Lin,Ben Tohill,Ben Tohill,2-6,2,6,0,1,Completed,true,false,false
+UA002033,10 Aug 25,3,Hurlingham Park,BLTC,No. 4,Renny Thurlow,Minato Sata,Minato Sata,5-7,5,7,0,1,Completed,true,false,false
+UA002042,17 Aug 25,4,Le Page,Kings Park,No. 1,Adyaan Tata,Miles Hancox,Miles Hancox,1-6,1,6,0,1,Completed,true,false,false
+UA002042,17 Aug 25,4,Le Page,Kings Park,No. 2,Lucas Hansen,Cooper Hodge,Lucas Hansen,6-1,6,1,1,0,Completed,true,false,false
+UA002042,17 Aug 25,4,Le Page,Kings Park,No. 3,Aaron Vu,U-zin Goh,Aaron Vu,7-5,7,5,1,0,Completed,true,false,false
+UA002042,17 Aug 25,4,Le Page,Kings Park,No. 4,Alex Zhao,Matthew Peng,Alex Zhao,6-4,6,4,1,0,Completed,true,false,false
+UA002043,17 Aug 25,4,Elsternwick Park,Hurlingham Park,No. 1,Hugo Morgan,Timeo Massenet,Hugo Morgan,6-3,6,3,1,0,Completed,true,false,false
+UA002043,17 Aug 25,4,Elsternwick Park,Hurlingham Park,No. 2,Austin Haines,Lucas Wu,Lucas Wu,4-6,4,6,0,1,Completed,true,false,false
+UA002043,17 Aug 25,4,Elsternwick Park,Hurlingham Park,No. 3,Alastair Smith,Archie Braithwaite,Archie Braithwaite,4-6,4,6,0,1,Completed,true,false,false
+UA002043,17 Aug 25,4,Elsternwick Park,Hurlingham Park,No. 4,Matthew Rebelo,Tomek Foroncewicz,Matthew Rebelo,7-6,7,6,1,0,Completed,true,false,false
+UA002044,17 Aug 25,4,BLTC,Murrumbeena,No. 1,Alexander Lasocki,Kevin Liang,Kevin Liang,2-6,2,6,0,1,Completed,true,false,false
+UA002044,17 Aug 25,4,BLTC,Murrumbeena,No. 2,David Haidor,Pranav Arora,David Haidor,6-0,6,0,1,0,Completed,true,false,false
+UA002044,17 Aug 25,4,BLTC,Murrumbeena,No. 3,Minato Sata,Tomas Albani,Tomas Albani,2-6,2,6,0,1,Completed,true,false,false
+UA002044,17 Aug 25,4,BLTC,Murrumbeena,No. 4,Finlay Bennett,Egor Barabanov,Egor Barabanov,0-6,0,6,0,1,Completed,true,true,false
+UA002051,24 Aug 25,5,Hurlingham Park,Murrumbeena,No. 1,Timeo Massenet,Patrick Francese,Patrick Francese,3-6,3,6,0,1,Completed,true,false,false
+UA002051,24 Aug 25,5,Hurlingham Park,Murrumbeena,No. 2,Lucas Wu,Pranav Arora,Lucas Wu,6-0,6,0,1,0,Completed,true,false,false
+UA002051,24 Aug 25,5,Hurlingham Park,Murrumbeena,No. 3,Veitel Lin,Min Cheng (duncan) Hung,Min Cheng (duncan) Hung,3-6,3,6,0,1,Completed,true,false,false
+UA002051,24 Aug 25,5,Hurlingham Park,Murrumbeena,No. 4,Archie Braithwaite,Egor Barabanov,Archie Braithwaite,6-2,6,2,1,0,Completed,true,false,false
+UA002052,24 Aug 25,5,Elsternwick Park,Le Page,No. 1,Hugo Morgan,Adyaan Tata,Hugo Morgan,6-3,6,3,1,0,Completed,true,false,false
+UA002052,24 Aug 25,5,Elsternwick Park,Le Page,No. 2,Austin Haines,Lucas Hansen,Lucas Hansen,2-6,2,6,0,1,Completed,true,false,false
+UA002052,24 Aug 25,5,Elsternwick Park,Le Page,No. 3,Wynn Arumugam,Dane Lazic,Wynn Arumugam,6-2,6,2,1,0,Completed,true,false,false
+UA002052,24 Aug 25,5,Elsternwick Park,Le Page,No. 4,Matthew Rebelo,Alex Zhao,Matthew Rebelo,6-2,6,2,1,0,Completed,true,false,false
+UA002054,24 Aug 25,5,Mentone,Kings Park,No. 1,Tom Carroll,Yoon Lee,Yoon Lee,4-6,4,6,0,1,Completed,true,false,false
+UA002054,24 Aug 25,5,Mentone,Kings Park,No. 2,Lennox Carroll,Daniel Qin,Lennox Carroll,6-4,6,4,1,0,Completed,true,false,false
+UA002054,24 Aug 25,5,Mentone,Kings Park,No. 3,Xavier Ashlock,Miles Hancox,Xavier Ashlock,7-6,7,6,1,0,Completed,true,false,false
+UA002054,24 Aug 25,5,Mentone,Kings Park,No. 4,Eric Strelnikov,Cooper Hodge,Eric Strelnikov,6-0,6,0,1,0,Completed,true,false,false
+UA002061,31 Aug 25,6,Kings Park,Hurlingham Park,No. 1,Miles Hancox,Zachary Boatto,Miles Hancox,7-5,7,5,1,0,Completed,true,false,false
+UA002061,31 Aug 25,6,Kings Park,Hurlingham Park,No. 2,U-zin Goh,Lucas Wu,Lucas Wu,3-6,3,6,0,1,Completed,true,false,false
+UA002061,31 Aug 25,6,Kings Park,Hurlingham Park,No. 3,Mason Hancox,Veitel Lin,Mason Hancox,6-1,6,1,1,0,Completed,true,true,false
+UA002061,31 Aug 25,6,Kings Park,Hurlingham Park,No. 4,Matthew Peng,Tomek Foroncewicz,Tomek Foroncewicz,3-6,3,6,0,1,Completed,true,false,false
+UA002062,31 Aug 25,6,Murrumbeena,Mentone,No. 1,Patrick Francese,Tom Carroll,Tom Carroll,3-6,3,6,0,1,Completed,true,false,false
+UA002062,31 Aug 25,6,Murrumbeena,Mentone,No. 2,Pranav Arora,Lennox Carroll,Lennox Carroll,6-7,6,7,0,1,Completed,true,false,false
+UA002062,31 Aug 25,6,Murrumbeena,Mentone,No. 3,Min Cheng (duncan) Hung,Xavier Ashlock,Xavier Ashlock,4-6,4,6,0,1,Completed,true,false,false
+UA002062,31 Aug 25,6,Murrumbeena,Mentone,No. 4,Tomas Albani,Robert Proudfoot,Tomas Albani,6-3,6,3,1,0,Completed,true,false,false
+UA002064,31 Aug 25,6,BLTC,Elsternwick Park,No. 1,Willem Duncan,Hugo Morgan,Hugo Morgan,1-6,1,6,0,1,Completed,true,false,false
+UA002064,31 Aug 25,6,BLTC,Elsternwick Park,No. 2,Ben Tohill,Austin Haines,Austin Haines,4-6,4,6,0,1,Completed,true,false,false
+UA002064,31 Aug 25,6,BLTC,Elsternwick Park,No. 3,Minato Sata,Wynn Arumugam,Minato Sata,6-3,6,3,1,0,Completed,true,false,false
+UA002064,31 Aug 25,6,BLTC,Elsternwick Park,No. 4,Casper Stisen Billing,Alastair Smith,Alastair Smith,2-6,2,6,0,1,Completed,true,false,false
+UA002071,07 Sep 25,7,Mentone,Hurlingham Park,No. 1,Tom Carroll,Zachary Boatto,Zachary Boatto,3-6,3,6,0,1,Completed,true,false,false
+UA002071,07 Sep 25,7,Mentone,Hurlingham Park,No. 2,Xavier Ashlock,Timeo Massenet,Xavier Ashlock,6-2,6,2,1,0,Completed,true,false,false
+UA002071,07 Sep 25,7,Mentone,Hurlingham Park,No. 3,Eric Strelnikov,Renny Thurlow,Eric Strelnikov,6-2,6,2,1,0,Completed,true,false,false
+UA002071,07 Sep 25,7,Mentone,Hurlingham Park,No. 4,Robert Proudfoot,Archie Braithwaite,Archie Braithwaite,6-7,6,7,0,1,Completed,true,false,false
+UA002072,07 Sep 25,7,Kings Park,Murrumbeena,No. 1,Yoon Lee,Patrick Francese,Patrick Francese,2-6,2,6,0,1,Completed,true,false,false
+UA002072,07 Sep 25,7,Kings Park,Murrumbeena,No. 2,Miles Hancox,Pranav Arora,Miles Hancox,6-3,6,3,1,0,Completed,true,false,false
+UA002072,07 Sep 25,7,Kings Park,Murrumbeena,No. 3,Cooper Hodge,Tomas Albani,Tomas Albani,0-6,0,6,0,1,Completed,true,false,false
+UA002072,07 Sep 25,7,Kings Park,Murrumbeena,No. 4,U-zin Goh,Egor Barabanov,U-zin Goh,6-3,6,3,1,0,Completed,true,false,false
+UA002074,07 Sep 25,7,Le Page,BLTC,No. 1,Lucas Hansen,Alexander Lasocki,Lucas Hansen,6-2,6,2,1,0,Completed,true,false,false
+UA002074,07 Sep 25,7,Le Page,BLTC,No. 2,Aaron Vu,Ben Tohill,Aaron Vu,7-6,7,6,1,0,Completed,true,false,false
+UA002074,07 Sep 25,7,Le Page,BLTC,No. 3,Dane Lazic,Minato Sata,Minato Sata,1-6,1,6,0,1,Completed,true,false,false
+UA002074,07 Sep 25,7,Le Page,BLTC,No. 4,Alex Zhao,Casper Stisen Billing,Casper Stisen Billing,2-6,2,6,0,1,Completed,true,false,false
+UA002081,14 Sep 25,8,BLTC,Mentone,No. 1,David Haidor,Lennox Carroll,David Haidor,7-5,7,5,1,0,Completed,true,false,false
+UA002081,14 Sep 25,8,BLTC,Mentone,No. 2,Ben Tohill,Xavier Ashlock,Xavier Ashlock,6-7,6,7,0,1,Completed,true,false,false
+UA002081,14 Sep 25,8,BLTC,Mentone,No. 3,Minato Sata,Eric Strelnikov,Minato Sata,6-1,6,1,1,0,Completed,true,false,false
+UA002081,14 Sep 25,8,BLTC,Mentone,No. 4,Casper Stisen Billing,Robert Proudfoot,Casper Stisen Billing,6-3,6,3,1,0,Completed,true,false,false
+UA002083,14 Sep 25,8,Le Page,Hurlingham Park,No. 1,Lucas Hansen,Lucas Wu,Lucas Hansen,7-6,7,6,1,0,Completed,true,false,false
+UA002083,14 Sep 25,8,Le Page,Hurlingham Park,No. 2,Aaron Vu,Veitel Lin,Aaron Vu,6-0,6,0,1,0,Completed,true,false,false
+UA002083,14 Sep 25,8,Le Page,Hurlingham Park,No. 3,Dane Lazic,Renny Thurlow,Renny Thurlow,3-6,3,6,0,1,Completed,true,false,false
+UA002083,14 Sep 25,8,Le Page,Hurlingham Park,No. 4,Alex Zhao,Tomek Foroncewicz,Alex Zhao,7-5,7,5,1,0,Completed,true,false,false
+UA002084,14 Sep 25,8,Elsternwick Park,Murrumbeena,No. 1,Hugo Morgan,Min Cheng (duncan) Hung,Hugo Morgan,6-2,6,2,1,0,Completed,true,false,false
+UA002084,14 Sep 25,8,Elsternwick Park,Murrumbeena,No. 2,Austin Haines,Tomas Albani,Tomas Albani,0-6,0,6,0,1,Completed,true,false,false
+UA002084,14 Sep 25,8,Elsternwick Park,Murrumbeena,No. 3,Matthew Rebelo,Egor Barabanov,Egor Barabanov,4-6,4,6,0,1,Completed,true,false,false
+UA002084,14 Sep 25,8,Elsternwick Park,Murrumbeena,No. 4,Nayuta Tsuchiya,Pranav Arora,Nayuta Tsuchiya,7-6,7,6,1,0,Completed,true,true,false
+UA002091,12 Oct 25,9,Mentone,Elsternwick Park,No. 1,Tom Carroll,Austin Haines,Tom Carroll,6-3,6,3,1,0,Completed,true,false,false
+UA002091,12 Oct 25,9,Mentone,Elsternwick Park,No. 2,Lennox Carroll,Wynn Arumugam,Lennox Carroll,6-0,6,0,1,0,Completed,true,false,false
+UA002091,12 Oct 25,9,Mentone,Elsternwick Park,No. 3,Xavier Ashlock,Alastair Smith,Xavier Ashlock,6-2,6,2,1,0,Completed,true,false,false
+UA002091,12 Oct 25,9,Mentone,Elsternwick Park,No. 4,Eric Strelnikov,Matthew Rebelo,Eric Strelnikov,6-4,6,4,1,0,Completed,true,false,false
+UA002092,12 Oct 25,9,Kings Park,BLTC,No. 1,Yoon Lee,Alexander Lasocki,Alexander Lasocki,0-6,0,6,0,1,Completed,true,false,false
+UA002092,12 Oct 25,9,Kings Park,BLTC,No. 2,Miles Hancox,Willem Duncan,Miles Hancox,6-2,6,2,1,0,Completed,true,false,false
+UA002092,12 Oct 25,9,Kings Park,BLTC,No. 3,Mason Hancox,Casper Stisen Billing,Mason Hancox,6-4,6,4,1,0,Completed,true,true,false
+UA002092,12 Oct 25,9,Kings Park,BLTC,No. 4,Cooper Hodge,Samuel Jena,Cooper Hodge,6-0,6,0,1,0,Completed,true,false,false
+UA002094,12 Oct 25,9,Murrumbeena,Le Page,No. 1,Kevin Liang,Adyaan Tata,Kevin Liang,6-3,6,3,1,0,Completed,true,false,false
+UA002094,12 Oct 25,9,Murrumbeena,Le Page,No. 2,Patrick Francese,Lucas Hansen,Lucas Hansen,6-7,6,7,0,1,Completed,true,false,false
+UA002094,12 Oct 25,9,Murrumbeena,Le Page,No. 3,Min Cheng (duncan) Hung,Aaron Vu,Aaron Vu,6-7,6,7,0,1,Completed,true,false,false
+UA002094,12 Oct 25,9,Murrumbeena,Le Page,No. 4,Tomas Albani,Dane Lazic,Tomas Albani,6-3,6,3,1,0,Completed,true,false,false
+UA002101,19 Oct 25,10,Le Page,Mentone,No. 1,Adyaan Tata,Tom Carroll,Tom Carroll,2-6,2,6,0,1,Completed,true,false,false
+UA002101,19 Oct 25,10,Le Page,Mentone,No. 2,Lucas Hansen,Lennox Carroll,Lennox Carroll,3-6,3,6,0,1,Completed,true,false,false
+UA002101,19 Oct 25,10,Le Page,Mentone,No. 3,Dane Lazic,Eric Strelnikov,Dane Lazic,7-6,7,6,1,0,Completed,true,false,false
+UA002101,19 Oct 25,10,Le Page,Mentone,No. 4,Alex Zhao,Robert Proudfoot,Alex Zhao,6-0,6,0,1,0,Completed,true,false,false
+UA002102,19 Oct 25,10,Elsternwick Park,Kings Park,No. 1,Hugo Morgan,Yoon Lee,Hugo Morgan,6-1,6,1,1,0,Completed,true,false,false
+UA002102,19 Oct 25,10,Elsternwick Park,Kings Park,No. 2,Austin Haines,Lucas Tucker,Austin Haines,6-3,6,3,1,0,Completed,true,false,true
+UA002102,19 Oct 25,10,Elsternwick Park,Kings Park,No. 3,Wynn Arumugam,Miles Hancox,Miles Hancox,2-6,2,6,0,1,Completed,true,false,false
+UA002102,19 Oct 25,10,Elsternwick Park,Kings Park,No. 4,Matthew Rebelo,Cooper Hodge,Matthew Rebelo,6-4,6,4,1,0,Completed,true,false,false
+UA002103,19 Oct 25,10,BLTC,Hurlingham Park,No. 1,Alexander Lasocki,Zachary Boatto,Alexander Lasocki,6-1,6,1,1,0,Completed,true,false,false
+UA002103,19 Oct 25,10,BLTC,Hurlingham Park,No. 2,David Haidor,Lucas Wu,Lucas Wu,4-6,4,6,0,1,Completed,true,false,false
+UA002103,19 Oct 25,10,BLTC,Hurlingham Park,No. 3,Willem Duncan,Veitel Lin,Willem Duncan,7-6,7,6,1,0,Completed,true,false,false
+UA002103,19 Oct 25,10,BLTC,Hurlingham Park,No. 4,Casper Stisen Billing,Archie Braithwaite,Archie Braithwaite,5-7,5,7,0,1,Completed,true,false,false
+UA002113,26 Oct 25,11,Hurlingham Park,Elsternwick Park,No. 1,Lucas Wu,Hugo Morgan,Lucas Wu,4-3,4,3,1,0,Completed,false,false,false
+UA002113,26 Oct 25,11,Hurlingham Park,Elsternwick Park,No. 2,Zachary Boatto,Austin Haines,Zachary Boatto,6-1,6,1,1,0,Completed,true,false,false
+UA002113,26 Oct 25,11,Hurlingham Park,Elsternwick Park,No. 3,Veitel Lin,Wynn Arumugam,Wynn Arumugam,1-6,1,6,0,1,Completed,true,false,false
+UA002113,26 Oct 25,11,Hurlingham Park,Elsternwick Park,No. 4,Tomek Foroncewicz,Alastair Smith,Tomek Foroncewicz,6-3,6,3,1,0,Completed,true,false,false
+UA002114,26 Oct 25,11,Murrumbeena,BLTC,No. 1,Min Cheng (duncan) Hung,Alexander Lasocki,Min Cheng (duncan) Hung,6-3,6,3,1,0,Completed,true,false,false
+UA002114,26 Oct 25,11,Murrumbeena,BLTC,No. 2,Egor Barabanov,David Haidor,David Haidor,2-6,2,6,0,1,Completed,true,false,false
+UA002114,26 Oct 25,11,Murrumbeena,BLTC,No. 3,Pranav Arora,Willem Duncan,Pranav Arora,6-0,6,0,1,0,Completed,true,false,false
+UA002114,26 Oct 25,11,Murrumbeena,BLTC,No. 4,Janoah Gray-Taito,Casper Stisen Billing,Janoah Gray-Taito,6-4,6,4,1,0,Completed,true,true,false
+UA002122,09 Nov 25,12,Le Page,Elsternwick Park,No. 1,Adyaan Tata,Hugo Morgan,Adyaan Tata,6-1,6,1,1,0,Completed,true,false,false
+UA002122,09 Nov 25,12,Le Page,Elsternwick Park,No. 2,Lucas Hansen,Austin Haines,Lucas Hansen,6-1,6,1,1,0,Completed,true,false,false
+UA002122,09 Nov 25,12,Le Page,Elsternwick Park,No. 3,Aaron Vu,Wynn Arumugam,Aaron Vu,6-3,6,3,1,0,Completed,true,false,false
+UA002122,09 Nov 25,12,Le Page,Elsternwick Park,No. 4,Alex Zhao,Matthew Rebelo,Matthew Rebelo,2-6,2,6,0,1,Completed,true,false,false
+UA002124,09 Nov 25,12,Kings Park,Mentone,No. 1,Yoon Lee,Tom Carroll,Tom Carroll,3-6,3,6,0,1,Completed,true,false,false
+UA002124,09 Nov 25,12,Kings Park,Mentone,No. 2,Miles Hancox,Xavier Ashlock,Miles Hancox,6-0,6,0,1,0,Completed,true,false,false
+UA002124,09 Nov 25,12,Kings Park,Mentone,No. 3,Cooper Hodge,Eric Strelnikov,Cooper Hodge,7-5,7,5,1,0,Completed,true,false,false
+UA002124,09 Nov 25,12,Kings Park,Mentone,No. 4,U-zin Goh,Robert Proudfoot,U-zin Goh,6-1,6,1,1,0,Completed,true,false,false
+UA002131,16 Nov 25,13,Hurlingham Park,Kings Park,No. 1,Lucas Wu,Yoon Lee,Lucas Wu,6-2,6,2,1,0,Completed,true,false,false
+UA002131,16 Nov 25,13,Hurlingham Park,Kings Park,No. 2,Timeo Massenet,Miles Hancox,Timeo Massenet,7-5,7,5,1,0,Completed,true,false,false
+UA002131,16 Nov 25,13,Hurlingham Park,Kings Park,No. 3,Archie Braithwaite,U-zin Goh,U-zin Goh,4-6,4,6,0,1,Completed,true,false,false
+UA002131,16 Nov 25,13,Hurlingham Park,Kings Park,No. 4,Tomek Foroncewicz,Matthew Peng,Tomek Foroncewicz,6-2,6,2,1,0,Completed,true,false,false
+UA002132,16 Nov 25,13,Mentone,Murrumbeena,No. 1,Tom Carroll,Min Cheng (duncan) Hung,Min Cheng (duncan) Hung,5-7,5,7,0,1,Completed,true,false,false
+UA002132,16 Nov 25,13,Mentone,Murrumbeena,No. 2,Xavier Ashlock,Tomas Albani,Tomas Albani,4-6,4,6,0,1,Completed,true,false,false
+UA002132,16 Nov 25,13,Mentone,Murrumbeena,No. 3,Eric Strelnikov,Egor Barabanov,Eric Strelnikov,6-1,6,1,1,0,Completed,true,false,false
+UA002132,16 Nov 25,13,Mentone,Murrumbeena,No. 4,Robert Proudfoot,Pranav Arora,Pranav Arora,1-6,1,6,0,1,Completed,true,false,false
+UA002134,16 Nov 25,13,Elsternwick Park,BLTC,No. 1,Hugo Morgan,Alexander Lasocki,,2-2,2,2,0,0,Completed,false,false,false
+UA002134,16 Nov 25,13,Elsternwick Park,BLTC,No. 2,Wynn Arumugam,David Haidor,Wynn Arumugam,7-6,7,6,1,0,Completed,true,false,false
+UA002134,16 Nov 25,13,Elsternwick Park,BLTC,No. 3,Alastair Smith,Willem Duncan,Alastair Smith,6-1,6,1,1,0,Completed,true,false,false
+UA002134,16 Nov 25,13,Elsternwick Park,BLTC,No. 4,Matthew Rebelo,Casper Stisen Billing,Casper Stisen Billing,5-7,5,7,0,1,Completed,true,false,false
+UA002141,23 Nov 25,14,Hurlingham Park,Mentone,No. 1,Dylan Pfahl,Tom Carroll,Dylan Pfahl,6-2,6,2,1,0,Completed,true,true,false
+UA002141,23 Nov 25,14,Hurlingham Park,Mentone,No. 2,Lucas Wu,Lennox Carroll,Lennox Carroll,4-6,4,6,0,1,Completed,true,false,false
+UA002141,23 Nov 25,14,Hurlingham Park,Mentone,No. 3,Zachary Boatto,Eric Strelnikov,Zachary Boatto,6-1,6,1,1,0,Completed,true,false,false
+UA002141,23 Nov 25,14,Hurlingham Park,Mentone,No. 4,Tomek Foroncewicz,Robert Proudfoot,Tomek Foroncewicz,6-2,6,2,1,0,Completed,true,false,false
+UA002301,,16,Murrumbeena,Kings Park,No. 1,Kevin Liang,Yoon Lee,Kevin Liang,3-0,3,0,1,0,Completed,false,false,false
+UA002301,,16,Murrumbeena,Kings Park,No. 2,Min Cheng (duncan) Hung,Daniel Qin,Min Cheng (duncan) Hung,6-1,6,1,1,0,Completed,true,false,false
+UA002301,,16,Murrumbeena,Kings Park,No. 3,Tomas Albani,Miles Hancox,Miles Hancox,0-6,0,6,0,1,Completed,true,false,false
+UA002301,,16,Murrumbeena,Kings Park,No. 4,Pranav Arora,U-zin Goh,U-zin Goh,4-6,4,6,0,1,Completed,true,false,false
+UA002302,,16,Le Page,Hurlingham Park,No. 1,Adyaan Tata,Lucas Wu,Lucas Wu,3-6,3,6,0,1,Completed,true,false,false
+UA002302,,16,Le Page,Hurlingham Park,No. 2,Lucas Hansen,Zachary Boatto,Zachary Boatto,3-6,3,6,0,1,Completed,true,false,false
+UA002302,,16,Le Page,Hurlingham Park,No. 3,Aaron Vu,Timeo Massenet,Aaron Vu,6-3,6,3,1,0,Completed,true,false,false
+UA002302,,16,Le Page,Hurlingham Park,No. 4,Dane Lazic,Tomek Foroncewicz,Tomek Foroncewicz,2-6,2,6,0,1,Completed,true,false,false
+UA002321,,17,Murrumbeena,Le Page,No. 1,Kevin Liang,Adyaan Tata,Kevin Liang,6-4,6,4,1,0,Completed,true,false,false
+UA002321,,17,Murrumbeena,Le Page,No. 2,Min Cheng (duncan) Hung,Lucas Hansen,Lucas Hansen,5-7,5,7,0,1,Completed,true,false,false
+UA002321,,17,Murrumbeena,Le Page,No. 3,Tomas Albani,Aaron Vu,Aaron Vu,2-6,2,6,0,1,Completed,true,false,false
+UA002321,,17,Murrumbeena,Le Page,No. 4,Egor Barabanov,Dane Lazic,Egor Barabanov,6-2,6,2,1,0,Completed,true,false,false

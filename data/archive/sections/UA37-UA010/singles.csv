@@ -1,0 +1,200 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA010011,27 Jul 25,1,Dendy Park,Royal South Yarra,No. 1,Shiv Gaind,Ted Read,Shiv Gaind,7-5,7,5,1,0,Completed,true,false,false
+UA010011,27 Jul 25,1,Dendy Park,Royal South Yarra,No. 2,Lucia Colla,Lincoln Karlovic,Lucia Colla,6-0,6,0,1,0,Completed,true,false,false
+UA010011,27 Jul 25,1,Dendy Park,Royal South Yarra,No. 3,Jake Bloom,Tommy McGirr,Tommy McGirr,5-7,5,7,0,1,Completed,true,false,false
+UA010011,27 Jul 25,1,Dendy Park,Royal South Yarra,No. 4,[Unnamed player — TROLS UA010011 home code 4],Orlando Moran,Orlando Moran,0-6,0,6,0,1,Completed,false,false,true
+UA010012,27 Jul 25,1,GPHC,Kings Park,No. 1,William Carmichael,Matthias Cheng,Matthias Cheng,4-6,4,6,0,1,Completed,true,false,false
+UA010012,27 Jul 25,1,GPHC,Kings Park,No. 2,Oscar Cray,Lucas Huang,Oscar Cray,7-6,7,6,1,0,Completed,true,false,false
+UA010012,27 Jul 25,1,GPHC,Kings Park,No. 3,Maddie James,Julian Wang,Julian Wang,1-6,1,6,0,1,Completed,true,false,false
+UA010012,27 Jul 25,1,GPHC,Kings Park,No. 4,Isla French,Daniel Zhao,Isla French,6-0,6,0,1,0,Completed,true,false,false
+UA010013,27 Jul 25,1,St James,Mentone,No. 1,William Cunningham,Arav Nambiar,William Cunningham,6-3,6,3,1,0,Completed,true,false,false
+UA010013,27 Jul 25,1,St James,Mentone,No. 2,Hugh Harrington,Phillip Nyamukondiwa,Phillip Nyamukondiwa,2-6,2,6,0,1,Completed,true,false,false
+UA010013,27 Jul 25,1,St James,Mentone,No. 3,Finlay Davies,Jocelyn Ledo,Jocelyn Ledo,2-6,2,6,0,1,Completed,true,false,false
+UA010013,27 Jul 25,1,St James,Mentone,No. 4,Toby Storer,Liam Angelone,Liam Angelone,2-6,2,6,0,1,Completed,true,false,false
+UA010021,03 Aug 25,2,Carmelite,Dendy Park,No. 1,Zac Unsworth,Tobias Maddams,Zac Unsworth,7-5,7,5,1,0,Completed,true,false,false
+UA010021,03 Aug 25,2,Carmelite,Dendy Park,No. 2,Oliver Heaton,Shiv Gaind,Oliver Heaton,6-4,6,4,1,0,Completed,true,false,false
+UA010021,03 Aug 25,2,Carmelite,Dendy Park,No. 3,William Kerlidis,Lucia Colla,William Kerlidis,6-2,6,2,1,0,Completed,true,false,false
+UA010021,03 Aug 25,2,Carmelite,Dendy Park,No. 4,Curtis Brown,Jack Loffel,Jack Loffel,4-6,4,6,0,1,Completed,true,false,false
+UA010022,03 Aug 25,2,Royal South Yarra,GPHC,No. 1,Ted Read,Gavin Rutherford,Ted Read,6-4,6,4,1,0,Completed,true,false,false
+UA010022,03 Aug 25,2,Royal South Yarra,GPHC,No. 2,Bella Sullivan,William Carmichael,Bella Sullivan,6-2,6,2,1,0,Completed,true,false,false
+UA010022,03 Aug 25,2,Royal South Yarra,GPHC,No. 3,Tommy McGirr,Oscar Cray,Tommy McGirr,7-5,7,5,1,0,Completed,true,false,false
+UA010022,03 Aug 25,2,Royal South Yarra,GPHC,No. 4,Sophia Syed,Maddie James,Maddie James,2-6,2,6,0,1,Completed,true,false,false
+UA010023,03 Aug 25,2,Kings Park,St James,No. 1,Matthias Cheng,William Cunningham,William Cunningham,2-6,2,6,0,1,Completed,true,false,false
+UA010023,03 Aug 25,2,Kings Park,St James,No. 2,Lucas Huang,Finlay Davies,Lucas Huang,6-2,6,2,1,0,Completed,true,false,false
+UA010023,03 Aug 25,2,Kings Park,St James,No. 3,Julian Wang,Toby Storer,Julian Wang,6-0,6,0,1,0,Completed,true,false,false
+UA010023,03 Aug 25,2,Kings Park,St James,No. 4,James Shen,Jackson Crinis,Jackson Crinis,2-6,2,6,0,1,Completed,true,false,true
+UA010024,03 Aug 25,2,Mentone,Aspendale,No. 1,Arav Nambiar,Liam Schoots,Liam Schoots,5-7,5,7,0,1,Completed,true,false,false
+UA010024,03 Aug 25,2,Mentone,Aspendale,No. 2,Phillip Nyamukondiwa,Brendan McCaul,Phillip Nyamukondiwa,7-5,7,5,1,0,Completed,true,false,false
+UA010024,03 Aug 25,2,Mentone,Aspendale,No. 3,Jocelyn Ledo,Lucy Beatie,Jocelyn Ledo,6-2,6,2,1,0,Completed,true,false,false
+UA010024,03 Aug 25,2,Mentone,Aspendale,No. 4,Yizhe Ma,Leon Schoots,Yizhe Ma,6-0,6,0,1,0,Completed,true,false,false
+UA010031,10 Aug 25,3,Dendy Park,Mentone,No. 1,Shiv Gaind,Phillip Nyamukondiwa,Shiv Gaind,6-4,6,4,1,0,Completed,true,false,false
+UA010031,10 Aug 25,3,Dendy Park,Mentone,No. 2,Jake Bloom,Jocelyn Ledo,Jocelyn Ledo,0-6,0,6,0,1,Completed,true,false,false
+UA010031,10 Aug 25,3,Dendy Park,Mentone,No. 3,Jack Loffel,Yizhe Ma,Yizhe Ma,6-7,6,7,0,1,Completed,true,false,false
+UA010031,10 Aug 25,3,Dendy Park,Mentone,No. 4,Emily Van De Water,Liam Angelone,Emily Van De Water,6-3,6,3,1,0,Completed,true,false,false
+UA010032,10 Aug 25,3,GPHC,Carmelite,No. 1,Gavin Rutherford,Oliver Heaton,Oliver Heaton,1-6,1,6,0,1,Completed,true,false,false
+UA010032,10 Aug 25,3,GPHC,Carmelite,No. 2,William Carmichael,William Kerlidis,William Kerlidis,0-6,0,6,0,1,Completed,true,false,false
+UA010032,10 Aug 25,3,GPHC,Carmelite,No. 3,Oscar Cray,Curtis Brown,Oscar Cray,6-2,6,2,1,0,Completed,true,false,false
+UA010032,10 Aug 25,3,GPHC,Carmelite,No. 4,Isla French,Hugo Dinelli,Hugo Dinelli,2-6,2,6,0,1,Completed,true,false,false
+UA010033,10 Aug 25,3,St James,Royal South Yarra,No. 1,William Cunningham,Ted Read,Ted Read,3-6,3,6,0,1,Completed,true,false,false
+UA010033,10 Aug 25,3,St James,Royal South Yarra,No. 2,Hugh Harrington,Lincoln Karlovic,Lincoln Karlovic,3-6,3,6,0,1,Completed,true,false,false
+UA010033,10 Aug 25,3,St James,Royal South Yarra,No. 3,Finlay Davies,Tommy McGirr,Tommy McGirr,4-6,4,6,0,1,Completed,true,false,false
+UA010033,10 Aug 25,3,St James,Royal South Yarra,No. 4,Charlie Pfahl,Asher Landau,Charlie Pfahl,6-2,6,2,1,0,Completed,true,false,true
+UA010034,10 Aug 25,3,Aspendale,Kings Park,No. 1,Liam Schoots,Matthias Cheng,Liam Schoots,6-3,6,3,1,0,Completed,true,false,false
+UA010034,10 Aug 25,3,Aspendale,Kings Park,No. 2,Brendan McCaul,Lucas Huang,Lucas Huang,0-6,0,6,0,1,Completed,true,false,false
+UA010034,10 Aug 25,3,Aspendale,Kings Park,No. 3,Sean Butler,Julian Wang,Julian Wang,2-6,2,6,0,1,Completed,true,false,false
+UA010034,10 Aug 25,3,Aspendale,Kings Park,No. 4,Leon Schoots,Siddharth Basa,Siddharth Basa,2-6,2,6,0,1,Completed,true,false,false
+UA010041,17 Aug 25,4,Kings Park,Dendy Park,No. 1,Matthias Cheng,Lucia Colla,Lucia Colla,3-6,3,6,0,1,Completed,true,false,false
+UA010041,17 Aug 25,4,Kings Park,Dendy Park,No. 2,Lucas Huang,Jake Bloom,Lucas Huang,6-2,6,2,1,0,Completed,true,false,false
+UA010041,17 Aug 25,4,Kings Park,Dendy Park,No. 3,Siddharth Basa,Jack Loffel,Siddharth Basa,6-2,6,2,1,0,Completed,true,false,false
+UA010041,17 Aug 25,4,Kings Park,Dendy Park,No. 4,James Shen,Emily Van De Water,Emily Van De Water,4-6,4,6,0,1,Completed,true,false,false
+UA010042,17 Aug 25,4,Mentone,GPHC,No. 1,Arav Nambiar,Gavin Rutherford,Arav Nambiar,6-4,6,4,1,0,Completed,true,false,false
+UA010042,17 Aug 25,4,Mentone,GPHC,No. 2,Jocelyn Ledo,William Carmichael,Jocelyn Ledo,6-0,6,0,1,0,Completed,true,false,false
+UA010042,17 Aug 25,4,Mentone,GPHC,No. 3,Yizhe Ma,Maddie James,Yizhe Ma,6-3,6,3,1,0,Completed,true,false,false
+UA010042,17 Aug 25,4,Mentone,GPHC,No. 4,Liam Angelone,Isla French,Isla French,3-6,3,6,0,1,Completed,true,false,false
+UA010043,17 Aug 25,4,Carmelite,St James,No. 1,Andre Cartel,William Cunningham,Andre Cartel,6-3,6,3,1,0,Completed,true,false,false
+UA010043,17 Aug 25,4,Carmelite,St James,No. 2,William Kerlidis,Finlay Davies,William Kerlidis,6-2,6,2,1,0,Completed,true,false,false
+UA010043,17 Aug 25,4,Carmelite,St James,No. 3,Curtis Brown,Toby Storer,Curtis Brown,6-1,6,1,1,0,Completed,true,false,false
+UA010043,17 Aug 25,4,Carmelite,St James,No. 4,Andrew Ferlzis,Charlie Pfahl,Andrew Ferlzis,6-1,6,1,1,0,Completed,true,true,false
+UA010044,17 Aug 25,4,Royal South Yarra,Aspendale,No. 1,Ted Read,Liam Schoots,Liam Schoots,6-7,6,7,0,1,Completed,true,false,false
+UA010044,17 Aug 25,4,Royal South Yarra,Aspendale,No. 2,Lincoln Karlovic,Lucy Beatie,Lincoln Karlovic,6-2,6,2,1,0,Completed,true,false,false
+UA010044,17 Aug 25,4,Royal South Yarra,Aspendale,No. 3,Sophia Syed,Sean Butler,Sean Butler,0-6,0,6,0,1,Completed,true,false,false
+UA010044,17 Aug 25,4,Royal South Yarra,Aspendale,No. 4,Jack Hutchins,Leon Schoots,Jack Hutchins,6-2,6,2,1,0,Completed,true,false,false
+UA010051,24 Aug 25,5,St James,Aspendale,No. 1,William Cunningham,Brendan McCaul,William Cunningham,6-1,6,1,1,0,Completed,true,false,false
+UA010051,24 Aug 25,5,St James,Aspendale,No. 2,Hugh Harrington,Lucy Beatie,Lucy Beatie,3-6,3,6,0,1,Completed,true,false,false
+UA010051,24 Aug 25,5,St James,Aspendale,No. 3,[Unnamed player — TROLS UA010051 home code 3],Sean Butler,Sean Butler,0-6,0,6,0,1,Completed,false,false,false
+UA010051,24 Aug 25,5,St James,Aspendale,No. 4,Charlie Pfahl,James Maglaras,Charlie Pfahl,6-1,6,1,1,0,Completed,true,false,false
+UA010052,24 Aug 25,5,Carmelite,Mentone,No. 1,Zac Unsworth,Arav Nambiar,Zac Unsworth,6-2,6,2,1,0,Completed,true,false,false
+UA010052,24 Aug 25,5,Carmelite,Mentone,No. 2,Andre Cartel,Phillip Nyamukondiwa,Andre Cartel,7-5,7,5,1,0,Completed,true,false,false
+UA010052,24 Aug 25,5,Carmelite,Mentone,No. 3,William Kerlidis,Yizhe Ma,William Kerlidis,6-4,6,4,1,0,Completed,true,false,false
+UA010052,24 Aug 25,5,Carmelite,Mentone,No. 4,Curtis Brown,Liam Angelone,Curtis Brown,6-0,6,0,1,0,Completed,true,false,false
+UA010053,24 Aug 25,5,Kings Park,Royal South Yarra,No. 1,Matthias Cheng,Ted Read,Ted Read,2-6,2,6,0,1,Completed,true,false,false
+UA010053,24 Aug 25,5,Kings Park,Royal South Yarra,No. 2,Lucas Huang,Tommy McGirr,Lucas Huang,6-0,6,0,1,0,Completed,true,false,false
+UA010053,24 Aug 25,5,Kings Park,Royal South Yarra,No. 3,James Shen,Sophia Syed,James Shen,7-5,7,5,1,0,Completed,true,false,false
+UA010053,24 Aug 25,5,Kings Park,Royal South Yarra,No. 4,Daniel Zhao,Jack Hutchins,Jack Hutchins,1-6,1,6,0,1,Completed,true,false,false
+UA010054,24 Aug 25,5,Dendy Park,GPHC,No. 1,Shiv Gaind,Gavin Rutherford,Shiv Gaind,6-0,6,0,1,0,Completed,true,false,false
+UA010054,24 Aug 25,5,Dendy Park,GPHC,No. 2,Lucia Colla,William Carmichael,Lucia Colla,6-3,6,3,1,0,Completed,true,false,false
+UA010054,24 Aug 25,5,Dendy Park,GPHC,No. 3,Jake Bloom,Oscar Cray,Oscar Cray,2-6,2,6,0,1,Completed,true,false,false
+UA010054,24 Aug 25,5,Dendy Park,GPHC,No. 4,Emily Van De Water,Isla French,Emily Van De Water,6-4,6,4,1,0,Completed,true,false,false
+UA010061,31 Aug 25,6,GPHC,St James,No. 1,William Carmichael,William Cunningham,William Cunningham,2-6,2,6,0,1,Completed,true,false,false
+UA010061,31 Aug 25,6,GPHC,St James,No. 2,Oscar Cray,Hugh Harrington,Oscar Cray,6-0,6,0,1,0,Completed,true,false,false
+UA010061,31 Aug 25,6,GPHC,St James,No. 3,Maddie James,Finlay Davies,Maddie James,6-4,6,4,1,0,Completed,true,false,false
+UA010061,31 Aug 25,6,GPHC,St James,No. 4,Isla French,Charlie Pfahl,Isla French,6-4,6,4,1,0,Completed,true,false,false
+UA010062,31 Aug 25,6,Aspendale,Dendy Park,No. 1,Liam Schoots,Shiv Gaind,Liam Schoots,7-6,7,6,1,0,Completed,true,false,false
+UA010062,31 Aug 25,6,Aspendale,Dendy Park,No. 2,Lucy Beatie,Lucia Colla,Lucia Colla,3-6,3,6,0,1,Completed,true,false,false
+UA010062,31 Aug 25,6,Aspendale,Dendy Park,No. 3,Sean Butler,Jake Bloom,Sean Butler,6-3,6,3,1,0,Completed,true,false,false
+UA010062,31 Aug 25,6,Aspendale,Dendy Park,No. 4,Leon Schoots,Emily Van De Water,Emily Van De Water,4-6,4,6,0,1,Completed,true,false,false
+UA010063,31 Aug 25,6,Mentone,Kings Park,No. 1,Arav Nambiar,Lucas Huang,Arav Nambiar,6-2,6,2,1,0,Completed,true,false,false
+UA010063,31 Aug 25,6,Mentone,Kings Park,No. 2,Phillip Nyamukondiwa,Siddharth Basa,Phillip Nyamukondiwa,6-4,6,4,1,0,Completed,true,false,false
+UA010063,31 Aug 25,6,Mentone,Kings Park,No. 3,Jocelyn Ledo,James Shen,Jocelyn Ledo,6-1,6,1,1,0,Completed,true,false,false
+UA010063,31 Aug 25,6,Mentone,Kings Park,No. 4,Liam Angelone,Daniel Zhao,Liam Angelone,6-2,6,2,1,0,Completed,true,false,false
+UA010064,31 Aug 25,6,Royal South Yarra,Carmelite,No. 1,Ted Read,William Kerlidis,William Kerlidis,3-6,3,6,0,1,Completed,true,false,false
+UA010064,31 Aug 25,6,Royal South Yarra,Carmelite,No. 2,Tommy McGirr,Hugo Dinelli,Hugo Dinelli,1-6,1,6,0,1,Completed,true,false,false
+UA010064,31 Aug 25,6,Royal South Yarra,Carmelite,No. 3,Sophia Syed,Curtis Brown,Curtis Brown,0-6,0,6,0,1,Completed,true,false,false
+UA010064,31 Aug 25,6,Royal South Yarra,Carmelite,No. 4,Jack Hutchins,Paddy Peng,Paddy Peng,2-6,2,6,0,1,Completed,true,false,true
+UA010071,07 Sep 25,7,Dendy Park,St James,No. 1,Lucia Colla,William Cunningham,William Cunningham,3-6,3,6,0,1,Completed,true,false,false
+UA010071,07 Sep 25,7,Dendy Park,St James,No. 2,Jake Bloom,Finlay Davies,Finlay Davies,6-7,6,7,0,1,Completed,true,false,false
+UA010071,07 Sep 25,7,Dendy Park,St James,No. 3,Jack Loffel,Toby Storer,Toby Storer,0-6,0,6,0,1,Completed,true,false,false
+UA010071,07 Sep 25,7,Dendy Park,St James,No. 4,Emily Van De Water,Charlie Pfahl,Charlie Pfahl,4-6,4,6,0,1,Completed,true,false,false
+UA010072,07 Sep 25,7,GPHC,Aspendale,No. 1,Gavin Rutherford,Liam Schoots,Liam Schoots,2-6,2,6,0,1,Completed,true,false,false
+UA010072,07 Sep 25,7,GPHC,Aspendale,No. 2,William Carmichael,Lucy Beatie,Lucy Beatie,1-6,1,6,0,1,Completed,true,false,false
+UA010072,07 Sep 25,7,GPHC,Aspendale,No. 3,Oscar Cray,Sean Butler,Sean Butler,4-6,4,6,0,1,Completed,true,false,false
+UA010072,07 Sep 25,7,GPHC,Aspendale,No. 4,Maddie James,Leon Schoots,Maddie James,7-6,7,6,1,0,Completed,true,false,false
+UA010073,07 Sep 25,7,Carmelite,Kings Park,No. 1,Zac Unsworth,Matthias Cheng,Zac Unsworth,6-1,6,1,1,0,Completed,true,false,false
+UA010073,07 Sep 25,7,Carmelite,Kings Park,No. 2,Andre Cartel,Lucas Huang,Andre Cartel,7-6,7,6,1,0,Completed,true,false,false
+UA010073,07 Sep 25,7,Carmelite,Kings Park,No. 3,William Kerlidis,Siddharth Basa,William Kerlidis,6-3,6,3,1,0,Completed,true,false,false
+UA010073,07 Sep 25,7,Carmelite,Kings Park,No. 4,Curtis Brown,James Shen,Curtis Brown,6-1,6,1,1,0,Completed,true,false,false
+UA010074,07 Sep 25,7,Mentone,Royal South Yarra,No. 1,Arav Nambiar,Ted Read,Arav Nambiar,7-6,7,6,1,0,Completed,true,false,false
+UA010074,07 Sep 25,7,Mentone,Royal South Yarra,No. 2,Phillip Nyamukondiwa,Jack Hutchins,Phillip Nyamukondiwa,6-1,6,1,1,0,Completed,true,false,false
+UA010074,07 Sep 25,7,Mentone,Royal South Yarra,No. 3,Jocelyn Ledo,Johnny Koidl,Jocelyn Ledo,6-0,6,0,1,0,Completed,true,false,true
+UA010074,07 Sep 25,7,Mentone,Royal South Yarra,No. 4,Yizhe Ma,Herbie Jones,Yizhe Ma,6-3,6,3,1,0,Completed,true,false,true
+UA010081,14 Sep 25,8,Royal South Yarra,Dendy Park,No. 1,Ted Read,Shiv Gaind,Shiv Gaind,1-6,1,6,0,1,Completed,true,false,false
+UA010081,14 Sep 25,8,Royal South Yarra,Dendy Park,No. 2,Lincoln Karlovic,Lucia Colla,Lincoln Karlovic,6-4,6,4,1,0,Completed,true,false,false
+UA010081,14 Sep 25,8,Royal South Yarra,Dendy Park,No. 3,Tommy McGirr,Jack Loffel,Tommy McGirr,6-4,6,4,1,0,Completed,true,false,false
+UA010081,14 Sep 25,8,Royal South Yarra,Dendy Park,No. 4,Archer Luff,Emily Van De Water,Emily Van De Water,4-6,4,6,0,1,Completed,true,false,false
+UA010082,14 Sep 25,8,Kings Park,GPHC,No. 1,Lucas Huang,Angelina Olivetto,Lucas Huang,6-1,6,1,1,0,Completed,true,false,false
+UA010082,14 Sep 25,8,Kings Park,GPHC,No. 2,Julian Wang,Oscar Cray,Julian Wang,6-3,6,3,1,0,Completed,true,false,false
+UA010082,14 Sep 25,8,Kings Park,GPHC,No. 3,James Shen,Maddie James,Maddie James,3-6,3,6,0,1,Completed,true,false,false
+UA010082,14 Sep 25,8,Kings Park,GPHC,No. 4,Daniel Zhao,Isla French,Isla French,0-6,0,6,0,1,Completed,true,false,false
+UA010083,14 Sep 25,8,Mentone,St James,No. 1,Arav Nambiar,William Cunningham,Arav Nambiar,6-3,6,3,1,0,Completed,true,false,false
+UA010083,14 Sep 25,8,Mentone,St James,No. 2,Phillip Nyamukondiwa,Hugh Harrington,Phillip Nyamukondiwa,6-3,6,3,1,0,Completed,true,false,false
+UA010083,14 Sep 25,8,Mentone,St James,No. 3,Jocelyn Ledo,Finlay Davies,Jocelyn Ledo,6-3,6,3,1,0,Completed,true,false,false
+UA010083,14 Sep 25,8,Mentone,St James,No. 4,Liam Angelone,Charlie Pfahl,Liam Angelone,6-3,6,3,1,0,Completed,true,false,false
+UA010084,14 Sep 25,8,Carmelite,Aspendale,No. 1,Zac Unsworth,Brendan McCaul,Zac Unsworth,6-0,6,0,1,0,Completed,true,false,false
+UA010084,14 Sep 25,8,Carmelite,Aspendale,No. 2,Oliver Heaton,Tom McCaul,Oliver Heaton,6-3,6,3,1,0,Completed,true,false,false
+UA010084,14 Sep 25,8,Carmelite,Aspendale,No. 3,Andre Cartel,Sean Butler,Andre Cartel,6-3,6,3,1,0,Completed,true,false,false
+UA010084,14 Sep 25,8,Carmelite,Aspendale,No. 4,William Kerlidis,Conor Butler,William Kerlidis,6-1,6,1,1,0,Completed,true,false,true
+UA010091,12 Oct 25,9,Dendy Park,Carmelite,No. 1,Shiv Gaind,Zac Unsworth,Zac Unsworth,3-6,3,6,0,1,Completed,true,false,false
+UA010091,12 Oct 25,9,Dendy Park,Carmelite,No. 2,Jake Bloom,Andre Cartel,Andre Cartel,6-7,6,7,0,1,Completed,true,false,false
+UA010091,12 Oct 25,9,Dendy Park,Carmelite,No. 3,Jack Loffel,Curtis Brown,Curtis Brown,4-6,4,6,0,1,Completed,true,false,false
+UA010091,12 Oct 25,9,Dendy Park,Carmelite,No. 4,Emily Van De Water,Adelaide Blyga-syrysta,Emily Van De Water,6-4,6,4,1,0,Completed,true,false,true
+UA010092,12 Oct 25,9,GPHC,Royal South Yarra,No. 1,Angelina Olivetto,Lincoln Karlovic,Lincoln Karlovic,0-6,0,6,0,1,Completed,true,false,false
+UA010092,12 Oct 25,9,GPHC,Royal South Yarra,No. 2,Oscar Cray,Tommy McGirr,Oscar Cray,6-2,6,2,1,0,Completed,true,false,false
+UA010092,12 Oct 25,9,GPHC,Royal South Yarra,No. 3,Maddie James,Jack Hutchins,Maddie James,6-4,6,4,1,0,Completed,true,false,false
+UA010092,12 Oct 25,9,GPHC,Royal South Yarra,No. 4,Isla French,Johnny Koidl,Isla French,6-1,6,1,1,0,Completed,true,false,true
+UA010093,12 Oct 25,9,St James,Kings Park,No. 1,William Cunningham,Lucas Huang,William Cunningham,7-6,7,6,1,0,Completed,true,false,false
+UA010093,12 Oct 25,9,St James,Kings Park,No. 2,Hugh Harrington,Julian Wang,Julian Wang,0-6,0,6,0,1,Completed,true,false,false
+UA010093,12 Oct 25,9,St James,Kings Park,No. 3,Finlay Davies,James Shen,Finlay Davies,6-0,6,0,1,0,Completed,true,false,false
+UA010093,12 Oct 25,9,St James,Kings Park,No. 4,Charlie Pfahl,Daniel Zhao,Charlie Pfahl,6-0,6,0,1,0,Completed,true,false,false
+UA010094,12 Oct 25,9,Aspendale,Mentone,No. 1,Brendan McCaul,Phillip Nyamukondiwa,Phillip Nyamukondiwa,0-6,0,6,0,1,Completed,true,false,false
+UA010094,12 Oct 25,9,Aspendale,Mentone,No. 2,Lucy Beatie,Jocelyn Ledo,Jocelyn Ledo,0-6,0,6,0,1,Completed,true,false,false
+UA010094,12 Oct 25,9,Aspendale,Mentone,No. 3,Tom McCaul,Yizhe Ma,Tom McCaul,6-4,6,4,1,0,Completed,true,false,false
+UA010094,12 Oct 25,9,Aspendale,Mentone,No. 4,James Maglaras,Liam Angelone,Liam Angelone,1-6,1,6,0,1,Completed,true,false,false
+UA010102,19 Oct 25,10,Carmelite,GPHC,No. 1,Zac Unsworth,Gavin Rutherford,Zac Unsworth,6-1,6,1,1,0,Completed,true,false,false
+UA010102,19 Oct 25,10,Carmelite,GPHC,No. 2,Andre Cartel,Angelina Olivetto,Andre Cartel,6-2,6,2,1,0,Completed,true,false,false
+UA010102,19 Oct 25,10,Carmelite,GPHC,No. 3,Curtis Brown,Maddie James,Curtis Brown,6-3,6,3,1,0,Completed,true,false,false
+UA010102,19 Oct 25,10,Carmelite,GPHC,No. 4,Paddy Peng,Isla French,Paddy Peng,6-2,6,2,1,0,Completed,true,true,false
+UA010103,19 Oct 25,10,Royal South Yarra,St James,No. 1,Ted Read,Hugh Harrington,Ted Read,7-5,7,5,1,0,Completed,true,false,false
+UA010103,19 Oct 25,10,Royal South Yarra,St James,No. 2,Lincoln Karlovic,Finlay Davies,Lincoln Karlovic,6-2,6,2,1,0,Completed,true,false,false
+UA010103,19 Oct 25,10,Royal South Yarra,St James,No. 3,Bella Sullivan,Toby Storer,Bella Sullivan,6-0,6,0,1,0,Completed,true,false,false
+UA010103,19 Oct 25,10,Royal South Yarra,St James,No. 4,Tommy McGirr,Charlie Pfahl,Tommy McGirr,6-3,6,3,1,0,Completed,true,false,false
+UA010104,19 Oct 25,10,Kings Park,Aspendale,No. 1,Matthias Cheng,Liam Schoots,Liam Schoots,2-6,2,6,0,1,Completed,true,false,false
+UA010104,19 Oct 25,10,Kings Park,Aspendale,No. 2,Lucas Huang,Tom McCaul,Lucas Huang,6-2,6,2,1,0,Completed,true,false,false
+UA010104,19 Oct 25,10,Kings Park,Aspendale,No. 3,Julian Wang,Sean Butler,Julian Wang,6-3,6,3,1,0,Completed,true,false,false
+UA010104,19 Oct 25,10,Kings Park,Aspendale,No. 4,Daniel Zhao,Leon Schoots,Leon Schoots,0-6,0,6,0,1,Completed,true,false,false
+UA010112,26 Oct 25,11,GPHC,Mentone,No. 1,Gavin Rutherford,Arav Nambiar,Arav Nambiar,0-6,0,6,0,1,Completed,true,false,false
+UA010112,26 Oct 25,11,GPHC,Mentone,No. 2,Angelina Olivetto,Phillip Nyamukondiwa,Phillip Nyamukondiwa,0-6,0,6,0,1,Completed,true,false,false
+UA010112,26 Oct 25,11,GPHC,Mentone,No. 3,Oscar Cray,Jocelyn Ledo,Jocelyn Ledo,0-6,0,6,0,1,Completed,true,false,false
+UA010112,26 Oct 25,11,GPHC,Mentone,No. 4,Isla French,Liam Angelone,Isla French,6-0,6,0,1,0,Completed,true,false,false
+UA010113,26 Oct 25,11,St James,Carmelite,No. 1,William Cunningham,Zac Unsworth,Zac Unsworth,4-6,4,6,0,1,Completed,true,false,false
+UA010113,26 Oct 25,11,St James,Carmelite,No. 2,Hugh Harrington,Andre Cartel,Andre Cartel,0-6,0,6,0,1,Completed,true,false,false
+UA010113,26 Oct 25,11,St James,Carmelite,No. 3,Finlay Davies,William Kerlidis,William Kerlidis,0-6,0,6,0,1,Completed,true,false,false
+UA010113,26 Oct 25,11,St James,Carmelite,No. 4,Toby Storer,Curtis Brown,Curtis Brown,1-6,1,6,0,1,Completed,true,false,false
+UA010121,09 Nov 25,12,Aspendale,St James,No. 1,Liam Schoots,William Cunningham,Liam Schoots,6-1,6,1,1,0,Completed,true,false,false
+UA010121,09 Nov 25,12,Aspendale,St James,No. 2,Brendan McCaul,Hugh Harrington,Brendan McCaul,6-2,6,2,1,0,Completed,true,false,false
+UA010121,09 Nov 25,12,Aspendale,St James,No. 3,Sean Butler,Toby Storer,Toby Storer,2-6,2,6,0,1,Completed,true,false,false
+UA010121,09 Nov 25,12,Aspendale,St James,No. 4,Leon Schoots,Charlie Pfahl,Leon Schoots,6-4,6,4,1,0,Completed,true,false,false
+UA010122,09 Nov 25,12,Mentone,Carmelite,No. 1,Arav Nambiar,Zac Unsworth,Zac Unsworth,4-6,4,6,0,1,Completed,true,false,false
+UA010122,09 Nov 25,12,Mentone,Carmelite,No. 2,Phillip Nyamukondiwa,Andre Cartel,Phillip Nyamukondiwa,6-3,6,3,1,0,Completed,true,false,false
+UA010122,09 Nov 25,12,Mentone,Carmelite,No. 3,Jocelyn Ledo,William Kerlidis,Jocelyn Ledo,6-2,6,2,1,0,Completed,true,false,false
+UA010122,09 Nov 25,12,Mentone,Carmelite,No. 4,Yizhe Ma,Curtis Brown,Curtis Brown,2-6,2,6,0,1,Completed,true,false,false
+UA010124,09 Nov 25,12,GPHC,Dendy Park,No. 1,William Carmichael,Jake Bloom,Jake Bloom,1-6,1,6,0,1,Completed,true,false,false
+UA010124,09 Nov 25,12,GPHC,Dendy Park,No. 2,Angelina Olivetto,Jack Loffel,Angelina Olivetto,6-1,6,1,1,0,Completed,true,false,false
+UA010124,09 Nov 25,12,GPHC,Dendy Park,No. 3,Oscar Cray,Emily Van De Water,Oscar Cray,6-4,6,4,1,0,Completed,true,false,false
+UA010131,16 Nov 25,13,St James,GPHC,No. 1,Hugh Harrington,Gavin Rutherford,Hugh Harrington,6-1,6,1,1,0,Completed,true,false,false
+UA010131,16 Nov 25,13,St James,GPHC,No. 2,Finlay Davies,William Carmichael,Finlay Davies,6-0,6,0,1,0,Completed,true,false,false
+UA010131,16 Nov 25,13,St James,GPHC,No. 3,Toby Storer,Oscar Cray,Toby Storer,6-2,6,2,1,0,Completed,true,false,false
+UA010131,16 Nov 25,13,St James,GPHC,No. 4,Charlie Pfahl,Isla French,Isla French,2-6,2,6,0,1,Completed,true,false,false
+UA010132,16 Nov 25,13,Dendy Park,Aspendale,No. 1,Tobias Maddams,Brendan McCaul,Tobias Maddams,6-2,6,2,1,0,Completed,true,false,false
+UA010132,16 Nov 25,13,Dendy Park,Aspendale,No. 2,Lucia Colla,Lucy Beatie,Lucia Colla,6-1,6,1,1,0,Completed,true,false,false
+UA010132,16 Nov 25,13,Dendy Park,Aspendale,No. 3,Jake Bloom,Sean Butler,Jake Bloom,7-6,7,6,1,0,Completed,true,false,false
+UA010132,16 Nov 25,13,Dendy Park,Aspendale,No. 4,Emily Van De Water,Leon Schoots,Emily Van De Water,6-4,6,4,1,0,Completed,true,false,false
+UA010133,16 Nov 25,13,Kings Park,Mentone,No. 1,Matthias Cheng,Phillip Nyamukondiwa,Phillip Nyamukondiwa,0-6,0,6,0,1,Completed,true,false,false
+UA010133,16 Nov 25,13,Kings Park,Mentone,No. 2,Julian Wang,Jocelyn Ledo,Jocelyn Ledo,4-6,4,6,0,1,Completed,true,false,false
+UA010133,16 Nov 25,13,Kings Park,Mentone,No. 3,James Shen,Yizhe Ma,Yizhe Ma,3-6,3,6,0,1,Completed,true,false,false
+UA010133,16 Nov 25,13,Kings Park,Mentone,No. 4,Daniel Zhao,Hudson Harris,Hudson Harris,0-6,0,6,0,1,Completed,true,false,true
+UA010134,16 Nov 25,13,Carmelite,Royal South Yarra,No. 1,Zac Unsworth,Lincoln Karlovic,Zac Unsworth,6-1,6,1,1,0,Completed,true,false,false
+UA010134,16 Nov 25,13,Carmelite,Royal South Yarra,No. 2,Andre Cartel,Jack Hutchins,Andre Cartel,6-1,6,1,1,0,Completed,true,false,false
+UA010134,16 Nov 25,13,Carmelite,Royal South Yarra,No. 3,William Kerlidis,Archer Luff,William Kerlidis,6-1,6,1,1,0,Completed,true,false,false
+UA010134,16 Nov 25,13,Carmelite,Royal South Yarra,No. 4,Curtis Brown,Johnny Koidl,Johnny Koidl,3-6,3,6,0,1,Completed,true,false,true
+UA010301,,16,Carmelite,Royal South Yarra,No. 1,Zac Unsworth,Ted Read,Zac Unsworth,6-2,6,2,1,0,Completed,true,false,false
+UA010301,,16,Carmelite,Royal South Yarra,No. 2,Andre Cartel,Lincoln Karlovic,Andre Cartel,6-3,6,3,1,0,Completed,true,false,false
+UA010301,,16,Carmelite,Royal South Yarra,No. 3,William Kerlidis,Sophia Syed,William Kerlidis,7-5,7,5,1,0,Completed,true,false,false
+UA010301,,16,Carmelite,Royal South Yarra,No. 4,Curtis Brown,Jack Hutchins,Curtis Brown,6-1,6,1,1,0,Completed,true,false,false
+UA010302,,16,Mentone,Aspendale,No. 1,Arav Nambiar,Liam Schoots,Arav Nambiar,6-2,6,2,1,0,Completed,true,false,false
+UA010302,,16,Mentone,Aspendale,No. 2,Phillip Nyamukondiwa,Tom McCaul,Tom McCaul,5-7,5,7,0,1,Completed,true,false,false
+UA010302,,16,Mentone,Aspendale,No. 3,Jocelyn Ledo,Sean Butler,Jocelyn Ledo,6-0,6,0,1,0,Completed,true,false,false
+UA010302,,16,Mentone,Aspendale,No. 4,Liam Angelone,Leon Schoots,Leon Schoots,3-6,3,6,0,1,Completed,true,false,false
+UA010321,,17,Carmelite,Aspendale,No. 1,Zac Unsworth,Liam Schoots,Zac Unsworth,6-0,6,0,1,0,Completed,true,false,false
+UA010321,,17,Carmelite,Aspendale,No. 2,Andre Cartel,Tom McCaul,Andre Cartel,6-2,6,2,1,0,Completed,true,false,false
+UA010321,,17,Carmelite,Aspendale,No. 3,William Kerlidis,Sean Butler,William Kerlidis,6-3,6,3,1,0,Completed,true,false,false
+UA010321,,17,Carmelite,Aspendale,No. 4,Curtis Brown,Leon Schoots,Curtis Brown,6-1,6,1,1,0,Completed,true,false,false

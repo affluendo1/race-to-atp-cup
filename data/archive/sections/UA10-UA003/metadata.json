@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA10-UA003",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2012",
+  "season_id": "UA10",
+  "season_label": "Autumn 2012",
+  "source_section_code": "UA003",
+  "section_label": "Section 3",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong Scotch 1",
+      "wins": 10,
+      "points": 108,
+      "percentage": 189.64,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Glen Eira Beech",
+      "wins": 10,
+      "points": 97,
+      "percentage": 141.79,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Kooyong",
+      "wins": 10,
+      "points": 97,
+      "percentage": 129.77,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong Scotch 2",
+      "wins": 7,
+      "points": 73,
+      "percentage": 102.05,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 6,
+      "points": 67,
+      "percentage": 89.73,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park",
+      "wins": 4,
+      "points": 57,
+      "percentage": 88.0,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Tennis World",
+      "wins": 3,
+      "points": 45,
+      "percentage": 71.98,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Bodley Tennis Plus",
+      "wins": 0,
+      "points": 16,
+      "percentage": 50.0,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA10-UA003",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 45,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

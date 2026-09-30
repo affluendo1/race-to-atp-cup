@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA20-UA005",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2017",
+  "season_id": "UA20",
+  "season_label": "Autumn 2017",
+  "source_section_code": "UA005",
+  "section_label": "Section 5",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Bentleigh Rec",
+      "wins": 10,
+      "points": 98,
+      "percentage": 131.19,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Beaumaris CC",
+      "wins": 10,
+      "points": 91.5,
+      "percentage": 119.52,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Dendy Park",
+      "wins": 8,
+      "points": 85,
+      "percentage": 121.91,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Royal Ave",
+      "wins": 6,
+      "points": 73,
+      "percentage": 107.34,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "GPHC",
+      "wins": 6,
+      "points": 68.5,
+      "percentage": 98.85,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Mentone",
+      "wins": 6,
+      "points": 67,
+      "percentage": 98.49,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Lauriston 1",
+      "wins": 4,
+      "points": 51,
+      "percentage": 85.61,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Lauriston 2",
+      "wins": 1,
+      "points": 26,
+      "percentage": 56.46,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA20-UA005",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 59,
+  "singles_rubbers": 224,
+  "doubles_rubbers": 114,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

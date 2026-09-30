@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA17-UA003",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2015",
+  "season_id": "UA17",
+  "season_label": "Spring 2015",
+  "source_section_code": "UA003",
+  "section_label": "Section 3",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong 1",
+      "wins": 12,
+      "points": 104,
+      "percentage": 160.85,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 8,
+      "points": 73,
+      "percentage": 110.59,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Glen Eira Brook",
+      "wins": 8,
+      "points": 71,
+      "percentage": 112.29,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Mordialloc",
+      "wins": 5,
+      "points": 54,
+      "percentage": 90.88,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 4,
+      "points": 51,
+      "percentage": 89.52,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong 2",
+      "wins": 3,
+      "points": 43,
+      "percentage": 93.0,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC",
+      "wins": 1,
+      "points": 24,
+      "percentage": 67.62,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA17-UA003",
+  "fixtures": 59,
+  "completed_fixtures": 45,
+  "draw_fixtures": 45,
+  "singles_rubbers": 180,
+  "doubles_rubbers": 90,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

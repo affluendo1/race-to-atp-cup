@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA22-UA011",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA011",
+  "section_label": "Section 11",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Leonards Tennis",
+      "wins": 11,
+      "points": 105,
+      "percentage": 141.48,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "St Andrews MB BG",
+      "wins": 10,
+      "points": 102,
+      "percentage": 153.66,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Coatesville",
+      "wins": 10,
+      "points": 95,
+      "percentage": 132.8,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 7,
+      "points": 76,
+      "percentage": 109.97,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Maccabi",
+      "wins": 6,
+      "points": 63,
+      "percentage": 97.18,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Bodley Tennis Plus",
+      "wins": 5,
+      "points": 54,
+      "percentage": 78.16,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra",
+      "wins": 3,
+      "points": 53,
+      "percentage": 91.01,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Glen Eira",
+      "wins": 0,
+      "points": 12,
+      "percentage": 36.73,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA011",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 59,
+  "singles_rubbers": 224,
+  "doubles_rubbers": 114,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

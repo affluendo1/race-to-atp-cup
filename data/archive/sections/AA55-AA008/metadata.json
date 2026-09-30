@@ -1,0 +1,83 @@
+{
+  "asset_id": "AA55-AA008",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Autumn 2026",
+  "season_id": "AA55",
+  "season_label": "Autumn 2026",
+  "source_section_code": "AA008",
+  "section_label": "Sets 7",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Mentone Gold",
+      "wins": 8,
+      "points": 79,
+      "percentage": 143.05,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Kings Park",
+      "wins": 9,
+      "points": 79,
+      "percentage": 142.36,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Port Melbourne",
+      "wins": 8,
+      "points": 74,
+      "percentage": 125.94,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Dendy Park",
+      "wins": 6,
+      "points": 65,
+      "percentage": 104.05,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Chelsea Heights",
+      "wins": 4,
+      "points": 55,
+      "percentage": 122.5,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Mentone Blue",
+      "wins": 1,
+      "points": 24,
+      "percentage": 54.25,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 0,
+      "points": 14,
+      "percentage": 49.47,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA55-AA008",
+  "fixtures": 55,
+  "completed_fixtures": 40,
+  "draw_fixtures": 45,
+  "singles_rubbers": 160,
+  "doubles_rubbers": 80,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

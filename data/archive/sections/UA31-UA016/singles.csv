@@ -1,0 +1,174 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA016012,17 Jul 22,1,Parkdale,Coatesville,No. 1,Alexander Collins,Charlie Fishman,Alexander Collins,5-2,5,2,1,0,Completed,true,false,false
+UA016013,17 Jul 22,1,St James,St Pats Mentone,No. 1,James Harrington,Tom Vella,James Harrington,6-0,6,0,1,0,Completed,true,false,false
+UA016013,17 Jul 22,1,St James,St Pats Mentone,No. 2,Charlie Storer,Blake Schiffner,Charlie Storer,6-3,6,3,1,0,Completed,true,false,false
+UA016013,17 Jul 22,1,St James,St Pats Mentone,No. 3,Jackson Chaponnel,Justin Pregnalato,Jackson Chaponnel,6-2,6,2,1,0,Completed,true,false,false
+UA016013,17 Jul 22,1,St James,St Pats Mentone,No. 4,William Cunningham,Harvey Burnside,William Cunningham,6-0,6,0,1,0,Completed,true,false,true
+UA016014,17 Jul 22,1,Highett,St Andrews MB,No. 1,Josie Inserra,Milla Edwards,Josie Inserra,6-4,6,4,1,0,Completed,true,false,false
+UA016014,17 Jul 22,1,Highett,St Andrews MB,No. 2,Alex McEvoy,David Sotelo,David Sotelo,1-6,1,6,0,1,Completed,true,false,false
+UA016014,17 Jul 22,1,Highett,St Andrews MB,No. 3,Odesa Kaurin,George Savides,George Savides,3-6,3,6,0,1,Completed,true,false,false
+UA016014,17 Jul 22,1,Highett,St Andrews MB,No. 4,Sophie Klettke-Sullivan,Amy Sommers,Sophie Klettke-Sullivan,6-1,6,1,1,0,Completed,true,false,false
+UA016021,24 Jul 22,2,St Andrews MB,Hurlingham Park,No. 1,David Sotelo,Dane Sujica-Zimmermann,Dane Sujica-Zimmermann,1-6,1,6,0,1,Completed,true,false,false
+UA016021,24 Jul 22,2,St Andrews MB,Hurlingham Park,No. 2,George Savides,Thomas Lyon,George Savides,6-4,6,4,1,0,Completed,true,false,false
+UA016021,24 Jul 22,2,St Andrews MB,Hurlingham Park,No. 3,Amy Sommers,Asher Vaughan,Asher Vaughan,5-7,5,7,0,1,Completed,true,false,false
+UA016021,24 Jul 22,2,St Andrews MB,Hurlingham Park,No. 4,Beau Sallabank,Angus O'Neil,Beau Sallabank,6-1,6,1,1,0,Completed,true,true,false
+UA016023,24 Jul 22,2,Coatesville,St James,No. 1,Ben Grant,James Harrington,Ben Grant,6-1,6,1,1,0,Completed,true,false,false
+UA016023,24 Jul 22,2,Coatesville,St James,No. 2,Oscar McCallum,Charlie Storer,Oscar McCallum,6-0,6,0,1,0,Completed,true,false,false
+UA016023,24 Jul 22,2,Coatesville,St James,No. 3,Charlie Fishman,William Cunningham,Charlie Fishman,6-0,6,0,1,0,Completed,true,false,false
+UA016023,24 Jul 22,2,Coatesville,St James,No. 4,Georgi Demosthenous,Sophie Stewart,Sophie Stewart,5-7,5,7,0,1,Completed,true,false,false
+UA016024,24 Jul 22,2,St Pats Mentone,Highett,No. 1,Patrick Begic,Alex Lunardello,Patrick Begic,6-0,6,0,1,0,Completed,true,false,false
+UA016024,24 Jul 22,2,St Pats Mentone,Highett,No. 2,Tom Vella,Odesa Kaurin,Tom Vella,6-0,6,0,1,0,Completed,true,false,false
+UA016024,24 Jul 22,2,St Pats Mentone,Highett,No. 3,Blake Schiffner,Sophie Klettke-Sullivan,Blake Schiffner,6-1,6,1,1,0,Completed,true,false,false
+UA016024,24 Jul 22,2,St Pats Mentone,Highett,No. 4,Anthony Mirhom,Mia Thomas,Anthony Mirhom,6-3,6,3,1,0,Completed,true,false,true
+UA016031,31 Jul 22,3,Hurlingham Park,St Pats Mentone,No. 1,Brandon Lim,Patrick Begic,Patrick Begic,2-6,2,6,0,1,Completed,true,false,false
+UA016031,31 Jul 22,3,Hurlingham Park,St Pats Mentone,No. 2,Thomas Lyon,Tom Vella,Tom Vella,4-6,4,6,0,1,Completed,true,false,false
+UA016031,31 Jul 22,3,Hurlingham Park,St Pats Mentone,No. 3,Dominic Eather,Anthony Mirhom,Anthony Mirhom,1-6,1,6,0,1,Completed,true,false,false
+UA016031,31 Jul 22,3,Hurlingham Park,St Pats Mentone,No. 4,Angus O'Neil,Justin Pregnalato,Justin Pregnalato,1-6,1,6,0,1,Completed,true,false,false
+UA016032,31 Jul 22,3,Parkdale,St Andrews MB,No. 1,Xander Louey,David Sotelo,Xander Louey,6-0,6,0,1,0,Completed,true,false,false
+UA016032,31 Jul 22,3,Parkdale,St Andrews MB,No. 2,Alexander Collins,George Savides,Alexander Collins,6-3,6,3,1,0,Completed,true,false,false
+UA016032,31 Jul 22,3,Parkdale,St Andrews MB,No. 3,Atalay Simek,Beau Sallabank,Atalay Simek,6-1,6,1,1,0,Completed,true,false,true
+UA016032,31 Jul 22,3,Parkdale,St Andrews MB,No. 4,Georgia Bellette,Jack Bulfin,Georgia Bellette,6-0,6,0,1,0,Completed,true,false,true
+UA016034,31 Jul 22,3,Highett,Coatesville,No. 1,Josie Inserra,Ben Grant,Ben Grant,3-6,3,6,0,1,Completed,true,false,false
+UA016034,31 Jul 22,3,Highett,Coatesville,No. 2,[Unnamed player — TROLS UA016034 home code 2],Oscar McCallum,Oscar McCallum,0-6,0,6,0,1,Completed,false,false,false
+UA016034,31 Jul 22,3,Highett,Coatesville,No. 3,Sophie Klettke-Sullivan,Charlie Fishman,Charlie Fishman,1-6,1,6,0,1,Completed,true,false,false
+UA016034,31 Jul 22,3,Highett,Coatesville,No. 4,Mia Thomas,Georgi Demosthenous,Georgi Demosthenous,1-6,1,6,0,1,Completed,true,true,false
+UA016041,07 Aug 22,4,Coatesville,Hurlingham Park,No. 1,Ben Grant,Dane Sujica-Zimmermann,Ben Grant,6-1,6,1,1,0,Completed,true,false,false
+UA016041,07 Aug 22,4,Coatesville,Hurlingham Park,No. 2,Oscar McCallum,Brandon Lim,Oscar McCallum,6-2,6,2,1,0,Completed,true,false,false
+UA016041,07 Aug 22,4,Coatesville,Hurlingham Park,No. 3,Charlie Fishman,Asher Vaughan,Charlie Fishman,6-1,6,1,1,0,Completed,true,false,false
+UA016041,07 Aug 22,4,Coatesville,Hurlingham Park,No. 4,Georgi Demosthenous,Dominic Eather,Georgi Demosthenous,6-1,6,1,1,0,Completed,true,false,false
+UA016042,07 Aug 22,4,St Pats Mentone,Parkdale,No. 1,Patrick Begic,Taina Harwood,Patrick Begic,6-0,6,0,1,0,Completed,true,false,false
+UA016042,07 Aug 22,4,St Pats Mentone,Parkdale,No. 2,Ollie Clifton,Alexander Collins,Alexander Collins,4-6,4,6,0,1,Completed,true,false,false
+UA016042,07 Aug 22,4,St Pats Mentone,Parkdale,No. 3,Blake Schiffner,Atalay Simek,Atalay Simek,2-6,2,6,0,1,Completed,true,false,false
+UA016042,07 Aug 22,4,St Pats Mentone,Parkdale,No. 4,Anthony Mirhom,Cleo McKay,Anthony Mirhom,6-1,6,1,1,0,Completed,true,false,false
+UA016043,07 Aug 22,4,St Andrews MB,St James,No. 1,Milla Edwards,Jackson Chaponnel,Jackson Chaponnel,0-6,0,6,0,1,Completed,true,false,false
+UA016043,07 Aug 22,4,St Andrews MB,St James,No. 2,Hudson Vassallo,William Cunningham,William Cunningham,4-6,4,6,0,1,Completed,true,false,false
+UA016043,07 Aug 22,4,St Andrews MB,St James,No. 3,David Sotelo,Sophie Stewart,Sophie Stewart,4-6,4,6,0,1,Completed,true,false,false
+UA016043,07 Aug 22,4,St Andrews MB,St James,No. 4,George Savides,Katie Zhang,Katie Zhang,2-6,2,6,0,1,Completed,true,false,true
+UA016051,14 Aug 22,5,St James,Highett,No. 1,James Harrington,Alex Lunardello,James Harrington,6-1,6,1,1,0,Completed,true,false,false
+UA016051,14 Aug 22,5,St James,Highett,No. 2,Charlie Storer,Josie Inserra,Josie Inserra,5-7,5,7,0,1,Completed,true,false,false
+UA016051,14 Aug 22,5,St James,Highett,No. 3,Lucy Stein,Odesa Kaurin,Lucy Stein,7-5,7,5,1,0,Completed,true,false,false
+UA016051,14 Aug 22,5,St James,Highett,No. 4,Sophie Stewart,Sophie Klettke-Sullivan,Sophie Stewart,7-5,7,5,1,0,Completed,true,false,false
+UA016052,14 Aug 22,5,St Andrews MB,St Pats Mentone,No. 1,Milla Edwards,Tom Vella,Tom Vella,1-6,1,6,0,1,Completed,true,false,false
+UA016052,14 Aug 22,5,St Andrews MB,St Pats Mentone,No. 2,Hudson Vassallo,Blake Schiffner,Blake Schiffner,2-6,2,6,0,1,Completed,true,false,false
+UA016052,14 Aug 22,5,St Andrews MB,St Pats Mentone,No. 3,David Sotelo,Anthony Mirhom,Anthony Mirhom,3-6,3,6,0,1,Completed,true,false,false
+UA016052,14 Aug 22,5,St Andrews MB,St Pats Mentone,No. 4,Amy Sommers,Justin Pregnalato,Justin Pregnalato,1-6,1,6,0,1,Completed,true,false,false
+UA016054,14 Aug 22,5,Hurlingham Park,Parkdale,No. 1,Dane Sujica-Zimmermann,Alexander Collins,Alexander Collins,1-6,1,6,0,1,Completed,true,false,false
+UA016054,14 Aug 22,5,Hurlingham Park,Parkdale,No. 2,Brandon Lim,Atalay Simek,Atalay Simek,3-6,3,6,0,1,Completed,true,false,false
+UA016054,14 Aug 22,5,Hurlingham Park,Parkdale,No. 3,Dominic Eather,Georgia Bellette,Georgia Bellette,0-6,0,6,0,1,Completed,true,false,false
+UA016054,14 Aug 22,5,Hurlingham Park,Parkdale,No. 4,Angus O'Neil,Cleo McKay,Cleo McKay,2-6,2,6,0,1,Completed,true,false,false
+UA016061,21 Aug 22,6,Parkdale,St James,No. 1,Xander Louey,James Harrington,James Harrington,1-6,1,6,0,1,Completed,true,false,false
+UA016061,21 Aug 22,6,Parkdale,St James,No. 2,Taina Harwood,Charlie Storer,Charlie Storer,3-6,3,6,0,1,Completed,true,false,false
+UA016061,21 Aug 22,6,Parkdale,St James,No. 3,Alexander Collins,William Cunningham,Alexander Collins,6-0,6,0,1,0,Completed,true,false,false
+UA016061,21 Aug 22,6,Parkdale,St James,No. 4,Cleo McKay,Lucy Stein,Lucy Stein,2-6,2,6,0,1,Completed,true,false,false
+UA016062,21 Aug 22,6,Highett,Hurlingham Park,No. 1,Josie Inserra,Brandon Lim,Josie Inserra,6-1,6,1,1,0,Completed,true,false,false
+UA016062,21 Aug 22,6,Highett,Hurlingham Park,No. 2,Alex McEvoy,Thomas Lyon,Thomas Lyon,2-6,2,6,0,1,Completed,true,false,false
+UA016062,21 Aug 22,6,Highett,Hurlingham Park,No. 3,Odesa Kaurin,Asher Vaughan,Odesa Kaurin,6-0,6,0,1,0,Completed,true,false,false
+UA016062,21 Aug 22,6,Highett,Hurlingham Park,No. 4,Sophie Klettke-Sullivan,Dominic Eather,Sophie Klettke-Sullivan,7-5,7,5,1,0,Completed,true,false,false
+UA016063,21 Aug 22,6,St Pats Mentone,Coatesville,No. 1,Patrick Begic,Ben Grant,Patrick Begic,7-6,7,6,1,0,Completed,true,false,false
+UA016063,21 Aug 22,6,St Pats Mentone,Coatesville,No. 2,Tom Vella,Oscar McCallum,Oscar McCallum,2-6,2,6,0,1,Completed,true,false,false
+UA016063,21 Aug 22,6,St Pats Mentone,Coatesville,No. 3,Blake Schiffner,Charlie Fishman,Charlie Fishman,2-6,2,6,0,1,Completed,true,false,false
+UA016063,21 Aug 22,6,St Pats Mentone,Coatesville,No. 4,Justin Pregnalato,Georgi Demosthenous,Georgi Demosthenous,5-7,5,7,0,1,Completed,true,false,false
+UA016071,28 Aug 22,7,Hurlingham Park,St James,No. 1,Thomas Lyon,James Harrington,James Harrington,1-6,1,6,0,1,Completed,true,false,false
+UA016071,28 Aug 22,7,Hurlingham Park,St James,No. 2,Asher Vaughan,Jackson Chaponnel,Jackson Chaponnel,0-6,0,6,0,1,Completed,true,false,false
+UA016071,28 Aug 22,7,Hurlingham Park,St James,No. 3,Dominic Eather,William Cunningham,William Cunningham,1-6,1,6,0,1,Completed,true,false,false
+UA016071,28 Aug 22,7,Hurlingham Park,St James,No. 4,Hudson Sumner,Katie Zhang,Katie Zhang,0-6,0,6,0,1,Completed,true,true,true
+UA016072,28 Aug 22,7,Parkdale,Highett,No. 1,Xander Louey,Josie Inserra,Xander Louey,6-4,6,4,1,0,Completed,true,false,false
+UA016072,28 Aug 22,7,Parkdale,Highett,No. 2,Taina Harwood,Alex McEvoy,Taina Harwood,6-1,6,1,1,0,Completed,true,false,false
+UA016072,28 Aug 22,7,Parkdale,Highett,No. 3,Alexander Collins,Odesa Kaurin,Alexander Collins,6-0,6,0,1,0,Completed,true,false,false
+UA016072,28 Aug 22,7,Parkdale,Highett,No. 4,Cleo McKay,Sophie Klettke-Sullivan,Sophie Klettke-Sullivan,1-6,1,6,0,1,Completed,true,false,false
+UA016073,28 Aug 22,7,St Andrews MB,Coatesville,No. 1,Milla Edwards,Oscar McCallum,Oscar McCallum,1-6,1,6,0,1,Completed,true,false,false
+UA016073,28 Aug 22,7,St Andrews MB,Coatesville,No. 2,David Sotelo,Charlie Fishman,David Sotelo,7-6,7,6,1,0,Completed,true,false,false
+UA016073,28 Aug 22,7,St Andrews MB,Coatesville,No. 3,George Savides,Georgi Demosthenous,Georgi Demosthenous,2-6,2,6,0,1,Completed,true,false,false
+UA016073,28 Aug 22,7,St Andrews MB,Coatesville,No. 4,Amy Sommers,Hugo Szynkowski,Hugo Szynkowski,2-6,2,6,0,1,Completed,true,false,false
+UA016082,04 Sep 22,8,Coatesville,Parkdale,No. 1,Ben Grant,Taina Harwood,Taina Harwood,3-6,3,6,0,1,Completed,true,false,false
+UA016082,04 Sep 22,8,Coatesville,Parkdale,No. 2,Charlie Fishman,Alexander Collins,Alexander Collins,3-6,3,6,0,1,Completed,true,false,false
+UA016082,04 Sep 22,8,Coatesville,Parkdale,No. 3,Georgi Demosthenous,Georgia Bellette,Georgi Demosthenous,6-1,6,1,1,0,Completed,true,false,false
+UA016082,04 Sep 22,8,Coatesville,Parkdale,No. 4,Hugo Szynkowski,Cleo McKay,Cleo McKay,5-7,5,7,0,1,Completed,true,false,false
+UA016083,04 Sep 22,8,St Pats Mentone,St James,No. 1,Patrick Begic,James Harrington,James Harrington,5-7,5,7,0,1,Completed,true,false,false
+UA016083,04 Sep 22,8,St Pats Mentone,St James,No. 2,Tom Vella,Charlie Storer,Tom Vella,6-3,6,3,1,0,Completed,true,false,false
+UA016083,04 Sep 22,8,St Pats Mentone,St James,No. 3,Anthony Mirhom,Jackson Chaponnel,Jackson Chaponnel,2-6,2,6,0,1,Completed,true,false,false
+UA016083,04 Sep 22,8,St Pats Mentone,St James,No. 4,Justin Pregnalato,Sophie Stewart,Sophie Stewart,4-6,4,6,0,1,Completed,true,false,false
+UA016084,04 Sep 22,8,St Andrews MB,Highett,No. 1,George Savides,Josie Inserra,Josie Inserra,6-7,6,7,0,1,Completed,true,false,false
+UA016084,04 Sep 22,8,St Andrews MB,Highett,No. 2,David Sotelo,Alex McEvoy,Alex McEvoy,4-6,4,6,0,1,Completed,true,false,false
+UA016084,04 Sep 22,8,St Andrews MB,Highett,No. 3,Hudson Vassallo,Odesa Kaurin,Odesa Kaurin,0-6,0,6,0,1,Completed,true,false,false
+UA016084,04 Sep 22,8,St Andrews MB,Highett,No. 4,Beau Sallabank,Sophie Klettke-Sullivan,Beau Sallabank,6-3,6,3,1,0,Completed,true,true,false
+UA016091,11 Sep 22,9,Hurlingham Park,St Andrews MB,No. 1,Dane Sujica-Zimmermann,Hudson Vassallo,Hudson Vassallo,1-6,1,6,0,1,Completed,true,false,false
+UA016091,11 Sep 22,9,Hurlingham Park,St Andrews MB,No. 2,Thomas Lyon,David Sotelo,David Sotelo,0-6,0,6,0,1,Completed,true,false,false
+UA016091,11 Sep 22,9,Hurlingham Park,St Andrews MB,No. 3,Asher Vaughan,George Savides,George Savides,0-6,0,6,0,1,Completed,true,false,false
+UA016091,11 Sep 22,9,Hurlingham Park,St Andrews MB,No. 4,Dominic Eather,Amy Sommers,Dominic Eather,6-2,6,2,1,0,Completed,true,false,false
+UA016093,11 Sep 22,9,St James,Coatesville,No. 1,James Harrington,Ben Grant,James Harrington,6-2,6,2,1,0,Completed,true,false,false
+UA016093,11 Sep 22,9,St James,Coatesville,No. 2,Charlie Storer,Oscar McCallum,Oscar McCallum,1-6,1,6,0,1,Completed,true,false,false
+UA016093,11 Sep 22,9,St James,Coatesville,No. 3,William Cunningham,Georgi Demosthenous,William Cunningham,6-4,6,4,1,0,Completed,true,false,false
+UA016093,11 Sep 22,9,St James,Coatesville,No. 4,Sophie Stewart,Hugo Szynkowski,Hugo Szynkowski,4-6,4,6,0,1,Completed,true,false,false
+UA016094,11 Sep 22,9,Highett,St Pats Mentone,No. 1,Josie Inserra,Patrick Begic,Patrick Begic,2-6,2,6,0,1,Completed,true,false,false
+UA016094,11 Sep 22,9,Highett,St Pats Mentone,No. 2,Alex McEvoy,Tom Vella,Tom Vella,0-6,0,6,0,1,Completed,true,false,false
+UA016094,11 Sep 22,9,Highett,St Pats Mentone,No. 3,Odesa Kaurin,Ollie Clifton,Ollie Clifton,2-6,2,6,0,1,Completed,true,false,false
+UA016094,11 Sep 22,9,Highett,St Pats Mentone,No. 4,Juliette Hostein,Blake Schiffner,Blake Schiffner,3-6,3,6,0,1,Completed,true,false,false
+UA016101,09 Oct 22,10,St Pats Mentone,Hurlingham Park,No. 1,Tom Vella,Dane Sujica-Zimmermann,Tom Vella,6-2,6,2,1,0,Completed,true,false,false
+UA016101,09 Oct 22,10,St Pats Mentone,Hurlingham Park,No. 2,Ollie Clifton,Brandon Lim,Ollie Clifton,6-3,6,3,1,0,Completed,true,false,false
+UA016101,09 Oct 22,10,St Pats Mentone,Hurlingham Park,No. 3,Blake Schiffner,Asher Vaughan,Blake Schiffner,6-0,6,0,1,0,Completed,true,false,false
+UA016101,09 Oct 22,10,St Pats Mentone,Hurlingham Park,No. 4,Justin Pregnalato,Angus O'Neil,Angus O'Neil,0-6,0,6,0,1,Completed,true,false,false
+UA016102,09 Oct 22,10,St Andrews MB,Parkdale,No. 1,Milla Edwards,Joshua O'Connor,Joshua O'Connor,1-6,1,6,0,1,Completed,true,false,true
+UA016102,09 Oct 22,10,St Andrews MB,Parkdale,No. 2,Hudson Vassallo,Taina Harwood,Taina Harwood,3-6,3,6,0,1,Completed,true,false,false
+UA016102,09 Oct 22,10,St Andrews MB,Parkdale,No. 3,George Savides,Atalay Simek,Atalay Simek,1-6,1,6,0,1,Completed,true,false,false
+UA016102,09 Oct 22,10,St Andrews MB,Parkdale,No. 4,Amy Sommers,Cleo McKay,Cleo McKay,3-6,3,6,0,1,Completed,true,false,false
+UA016104,09 Oct 22,10,Coatesville,Highett,No. 1,Ben Grant,Josie Inserra,Ben Grant,6-1,6,1,1,0,Completed,true,false,false
+UA016104,09 Oct 22,10,Coatesville,Highett,No. 2,Oscar McCallum,Alex McEvoy,Oscar McCallum,6-0,6,0,1,0,Completed,true,false,false
+UA016104,09 Oct 22,10,Coatesville,Highett,No. 3,Charlie Fishman,Odesa Kaurin,Charlie Fishman,6-0,6,0,1,0,Completed,true,false,false
+UA016104,09 Oct 22,10,Coatesville,Highett,No. 4,Hugo Szynkowski,Sophie Klettke-Sullivan,Hugo Szynkowski,7-6,7,6,1,0,Completed,true,false,false
+UA016111,16 Oct 22,11,Hurlingham Park,Coatesville,No. 1,Dane Sujica-Zimmermann,Ben Grant,Ben Grant,4-6,4,6,0,1,Completed,true,false,false
+UA016111,16 Oct 22,11,Hurlingham Park,Coatesville,No. 2,Thomas Lyon,Oscar McCallum,Oscar McCallum,1-6,1,6,0,1,Completed,true,false,false
+UA016111,16 Oct 22,11,Hurlingham Park,Coatesville,No. 3,Asher Vaughan,Charlie Fishman,Charlie Fishman,0-6,0,6,0,1,Completed,true,false,false
+UA016111,16 Oct 22,11,Hurlingham Park,Coatesville,No. 4,Dominic Eather,Georgi Demosthenous,Georgi Demosthenous,2-6,2,6,0,1,Completed,true,false,false
+UA016112,16 Oct 22,11,Parkdale,St Pats Mentone,No. 1,Xander Louey,Tom Vella,Xander Louey,6-2,6,2,1,0,Completed,true,false,false
+UA016112,16 Oct 22,11,Parkdale,St Pats Mentone,No. 2,Alexander Collins,Ollie Clifton,Ollie Clifton,6-7,6,7,0,1,Completed,true,false,false
+UA016112,16 Oct 22,11,Parkdale,St Pats Mentone,No. 3,Georgia Bellette,Blake Schiffner,Blake Schiffner,0-6,0,6,0,1,Completed,true,false,false
+UA016112,16 Oct 22,11,Parkdale,St Pats Mentone,No. 4,Cleo McKay,Anthony Mirhom,Anthony Mirhom,0-6,0,6,0,1,Completed,true,false,false
+UA016113,16 Oct 22,11,St James,St Andrews MB,No. 1,James Harrington,Milla Edwards,James Harrington,6-0,6,0,1,0,Completed,true,false,false
+UA016113,16 Oct 22,11,St James,St Andrews MB,No. 2,Charlie Storer,Hudson Vassallo,Charlie Storer,6-0,6,0,1,0,Completed,true,false,false
+UA016113,16 Oct 22,11,St James,St Andrews MB,No. 3,William Cunningham,David Sotelo,William Cunningham,6-0,6,0,1,0,Completed,true,false,false
+UA016113,16 Oct 22,11,St James,St Andrews MB,No. 4,Lucy Stein,Amy Sommers,Lucy Stein,6-3,6,3,1,0,Completed,true,false,false
+UA016121,23 Oct 22,12,Highett,St James,No. 1,Alessia Cozijnsen,Charlie Storer,Charlie Storer,3-6,3,6,0,1,Completed,true,true,false
+UA016121,23 Oct 22,12,Highett,St James,No. 2,Josie Inserra,Jackson Chaponnel,Jackson Chaponnel,4-6,4,6,0,1,Completed,true,false,false
+UA016121,23 Oct 22,12,Highett,St James,No. 3,Sophie Klettke-Sullivan,William Cunningham,Sophie Klettke-Sullivan,6-4,6,4,1,0,Completed,true,false,false
+UA016121,23 Oct 22,12,Highett,St James,No. 4,Juliette Hostein,Sophie Stewart,Sophie Stewart,1-6,1,6,0,1,Completed,true,false,false
+UA016122,23 Oct 22,12,St Pats Mentone,St Andrews MB,No. 1,Ollie Clifton,Milla Edwards,Ollie Clifton,6-2,6,2,1,0,Completed,true,false,false
+UA016122,23 Oct 22,12,St Pats Mentone,St Andrews MB,No. 2,Blake Schiffner,Hudson Vassallo,Hudson Vassallo,5-7,5,7,0,1,Completed,true,false,false
+UA016122,23 Oct 22,12,St Pats Mentone,St Andrews MB,No. 3,Anthony Mirhom,David Sotelo,Anthony Mirhom,6-2,6,2,1,0,Completed,true,false,false
+UA016122,23 Oct 22,12,St Pats Mentone,St Andrews MB,No. 4,Justin Pregnalato,George Savides,Justin Pregnalato,6-0,6,0,1,0,Completed,true,false,false
+UA016124,23 Oct 22,12,Parkdale,Hurlingham Park,No. 1,Charlton Humphrey,Dane Sujica-Zimmermann,Charlton Humphrey,6-4,6,4,1,0,Completed,true,true,false
+UA016124,23 Oct 22,12,Parkdale,Hurlingham Park,No. 2,Taina Harwood,Thomas Lyon,Taina Harwood,6-4,6,4,1,0,Completed,true,false,false
+UA016124,23 Oct 22,12,Parkdale,Hurlingham Park,No. 3,Georgia Bellette,Dominic Eather,Georgia Bellette,6-3,6,3,1,0,Completed,true,false,false
+UA016124,23 Oct 22,12,Parkdale,Hurlingham Park,No. 4,Cleo McKay,Angus O'Neil,Angus O'Neil,4-6,4,6,0,1,Completed,true,false,false
+UA016131,06 Nov 22,13,St James,Parkdale,No. 1,James Harrington,Taina Harwood,James Harrington,7-6,7,6,1,0,Completed,true,false,false
+UA016131,06 Nov 22,13,St James,Parkdale,No. 2,Charlie Storer,Atalay Simek,Atalay Simek,3-6,3,6,0,1,Completed,true,false,false
+UA016131,06 Nov 22,13,St James,Parkdale,No. 3,Jackson Chaponnel,Georgia Bellette,Jackson Chaponnel,6-1,6,1,1,0,Completed,true,false,false
+UA016131,06 Nov 22,13,St James,Parkdale,No. 4,Lucy Stein,Cleo McKay,Lucy Stein,6-0,6,0,1,0,Completed,true,false,false
+UA016133,06 Nov 22,13,Coatesville,St Pats Mentone,No. 1,Ben Grant,Tom Vella,Ben Grant,6-0,6,0,1,0,Completed,true,false,false
+UA016133,06 Nov 22,13,Coatesville,St Pats Mentone,No. 2,Oscar McCallum,Ollie Clifton,Oscar McCallum,6-1,6,1,1,0,Completed,true,false,false
+UA016133,06 Nov 22,13,Coatesville,St Pats Mentone,No. 3,Georgi Demosthenous,Anthony Mirhom,Georgi Demosthenous,7-6,7,6,1,0,Completed,true,false,false
+UA016133,06 Nov 22,13,Coatesville,St Pats Mentone,No. 4,Ashton Lewski,Justin Pregnalato,Justin Pregnalato,5-7,5,7,0,1,Completed,true,true,false
+UA016141,13 Nov 22,14,St James,Hurlingham Park,No. 1,James Harrington,Brandon Lim,James Harrington,6-2,6,2,1,0,Completed,true,false,false
+UA016141,13 Nov 22,14,St James,Hurlingham Park,No. 2,Jackson Chaponnel,Thomas Lyon,Jackson Chaponnel,6-3,6,3,1,0,Completed,true,false,false
+UA016141,13 Nov 22,14,St James,Hurlingham Park,No. 3,William Cunningham,Asher Vaughan,William Cunningham,6-0,6,0,1,0,Completed,true,false,false
+UA016141,13 Nov 22,14,St James,Hurlingham Park,No. 4,Lucy Stein,Dominic Eather,Lucy Stein,6-4,6,4,1,0,Completed,true,false,false
+UA016142,13 Nov 22,14,Highett,Parkdale,No. 1,Josie Inserra,Taina Harwood,Taina Harwood,3-6,3,6,0,1,Completed,true,false,false
+UA016142,13 Nov 22,14,Highett,Parkdale,No. 2,Alex McEvoy,Alexander Collins,Alexander Collins,3-6,3,6,0,1,Completed,true,false,false
+UA016142,13 Nov 22,14,Highett,Parkdale,No. 3,Odesa Kaurin,Atalay Simek,Atalay Simek,0-6,0,6,0,1,Completed,true,false,false
+UA016142,13 Nov 22,14,Highett,Parkdale,No. 4,Sophie Klettke-Sullivan,Cleo McKay,Sophie Klettke-Sullivan,6-1,6,1,1,0,Completed,true,false,false
+UA016143,13 Nov 22,14,Coatesville,St Andrews MB,No. 1,Ben Grant,Hudson Vassallo,Ben Grant,6-0,6,0,1,0,Completed,true,false,false
+UA016143,13 Nov 22,14,Coatesville,St Andrews MB,No. 2,Oscar McCallum,David Sotelo,Oscar McCallum,6-1,6,1,1,0,Completed,true,false,false
+UA016143,13 Nov 22,14,Coatesville,St Andrews MB,No. 3,Georgi Demosthenous,George Savides,Georgi Demosthenous,6-2,6,2,1,0,Completed,true,false,false
+UA016143,13 Nov 22,14,Coatesville,St Andrews MB,No. 4,Hugo Szynkowski,Amy Sommers,Hugo Szynkowski,6-0,6,0,1,0,Completed,true,false,false
+UA016301,,16,St James,Parkdale,No. 1,James Harrington,Xander Louey,Xander Louey,3-6,3,6,0,1,Completed,true,false,false
+UA016301,,16,St James,Parkdale,No. 2,Charlie Storer,Taina Harwood,Charlie Storer,7-5,7,5,1,0,Completed,true,false,false
+UA016301,,16,St James,Parkdale,No. 3,Jackson Chaponnel,Alexander Collins,Alexander Collins,4-6,4,6,0,1,Completed,true,false,false
+UA016301,,16,St James,Parkdale,No. 4,William Cunningham,Atalay Simek,Atalay Simek,0-6,0,6,0,1,Completed,true,false,false
+UA016302,,16,Coatesville,St Pats Mentone,No. 1,Ben Grant,Patrick Begic,Ben Grant,6-3,6,3,1,0,Completed,true,false,false
+UA016302,,16,Coatesville,St Pats Mentone,No. 2,Oscar McCallum,Tom Vella,Oscar McCallum,6-1,6,1,1,0,Completed,true,false,false
+UA016302,,16,Coatesville,St Pats Mentone,No. 3,Georgi Demosthenous,Ollie Clifton,Georgi Demosthenous,6-4,6,4,1,0,Completed,true,false,false
+UA016302,,16,Coatesville,St Pats Mentone,No. 4,Hugo Szynkowski,Blake Schiffner,Hugo Szynkowski,6-4,6,4,1,0,Completed,true,false,false
+UA016321,,17,Coatesville,Parkdale,No. 1,Ben Grant,Xander Louey,Xander Louey,1-6,1,6,0,1,Completed,true,false,false
+UA016321,,17,Coatesville,Parkdale,No. 2,Oscar McCallum,Taina Harwood,Oscar McCallum,6-1,6,1,1,0,Completed,true,false,false
+UA016321,,17,Coatesville,Parkdale,No. 3,Charlie Fishman,Alexander Collins,Alexander Collins,2-6,2,6,0,1,Completed,true,false,false
+UA016321,,17,Coatesville,Parkdale,No. 4,Georgi Demosthenous,Georgia Bellette,Georgi Demosthenous,6-1,6,1,1,0,Completed,true,false,false

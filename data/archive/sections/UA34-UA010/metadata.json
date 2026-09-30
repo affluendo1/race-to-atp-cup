@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA34-UA010",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2024",
+  "season_id": "UA34",
+  "season_label": "Autumn 2024",
+  "source_section_code": "UA010",
+  "section_label": "Section 10",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St James Green",
+      "wins": 11,
+      "points": 105,
+      "percentage": 144.37,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Black Rock",
+      "wins": 11,
+      "points": 95,
+      "percentage": 123.72,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 10,
+      "points": 92,
+      "percentage": 106.48,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC Blue",
+      "wins": 8,
+      "points": 79,
+      "percentage": 111.21,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Coatesville",
+      "wins": 7,
+      "points": 70,
+      "percentage": 103.23,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong",
+      "wins": 4,
+      "points": 57,
+      "percentage": 89.28,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Parkdale",
+      "wins": 2,
+      "points": 33,
+      "percentage": 70.95,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Murrumbeena",
+      "wins": 2,
+      "points": 29,
+      "percentage": 69.88,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA34-UA010",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

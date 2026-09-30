@@ -1,0 +1,177 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA009021,08 Feb 15,2,Carmelite,Kooyong,No. 1,Stella Barker,Lucy Scott,Stella Barker,6-1,6,1,1,0,Completed,true,false,false
+UA009021,08 Feb 15,2,Carmelite,Kooyong,No. 2,Noah Jensz,Olivia McGrath,Noah Jensz,6-1,6,1,1,0,Completed,true,false,false
+UA009021,08 Feb 15,2,Carmelite,Kooyong,No. 3,William Sturge,Sophia McGrath,William Sturge,7-5,7,5,1,0,Completed,true,false,false
+UA009021,08 Feb 15,2,Carmelite,Kooyong,No. 4,Anders Costelloe,Zoe Kantanis,Anders Costelloe,7-5,7,5,1,0,Completed,true,false,false
+UA009022,08 Feb 15,2,Tennis World,Parkdale,No. 1,Lara Burns,Ben Stone,Ben Stone,4-6,4,6,0,1,Completed,true,false,false
+UA009022,08 Feb 15,2,Tennis World,Parkdale,No. 2,Jake Temby,Reid Terrell,Reid Terrell,5-7,5,7,0,1,Completed,true,false,false
+UA009022,08 Feb 15,2,Tennis World,Parkdale,No. 3,George Fedorov,Nicholas Pudney,Nicholas Pudney,6-7,6,7,0,1,Completed,true,false,false
+UA009022,08 Feb 15,2,Tennis World,Parkdale,No. 4,Bailey Liu,James Booth,Bailey Liu,6-1,6,1,1,0,Completed,true,false,false
+UA009023,08 Feb 15,2,Royal South Yarra,Coatesville,No. 1,William Glover,Adrian Mitsel,Adrian Mitsel,1-6,1,6,0,1,Completed,true,false,false
+UA009023,08 Feb 15,2,Royal South Yarra,Coatesville,No. 2,Charlotte Ritman,Luigi Cortez,Luigi Cortez,5-7,5,7,0,1,Completed,true,false,false
+UA009023,08 Feb 15,2,Royal South Yarra,Coatesville,No. 3,James Ollerenshaw,Thomas So,Thomas So,1-6,1,6,0,1,Completed,true,false,false
+UA009023,08 Feb 15,2,Royal South Yarra,Coatesville,No. 4,Nicole Anders,Jacob Mundy,Jacob Mundy,1-6,1,6,0,1,Completed,true,false,false
+UA009024,08 Feb 15,2,BLTC,Dendy Park,No. 1,Lachlan Robertson,Miguel Bragagnolo,Lachlan Robertson,6-4,6,4,1,0,Completed,true,false,false
+UA009024,08 Feb 15,2,BLTC,Dendy Park,No. 2,Henry Bradman,Fleur Wackett,Fleur Wackett,2-6,2,6,0,1,Completed,true,false,false
+UA009024,08 Feb 15,2,BLTC,Dendy Park,No. 3,Henr;y Pickering,Henry Armstrong,Henr;y Pickering,6-2,6,2,1,0,Completed,true,false,false
+UA009024,08 Feb 15,2,BLTC,Dendy Park,No. 4,Julius Schulze,Jonty Wells,Julius Schulze,6-4,6,4,1,0,Completed,true,false,false
+UA009031,15 Feb 15,3,Kooyong,BLTC,No. 1,Camilla Kaufman,Lachlan Robertson,Lachlan Robertson,2-6,2,6,0,1,Completed,true,false,false
+UA009031,15 Feb 15,3,Kooyong,BLTC,No. 2,Lucy Scott,Jonas Schulze,Jonas Schulze,6-7,6,7,0,1,Completed,true,false,false
+UA009031,15 Feb 15,3,Kooyong,BLTC,No. 3,Julia Clark,Henry Bradman,Henry Bradman,0-6,0,6,0,1,Completed,true,false,false
+UA009031,15 Feb 15,3,Kooyong,BLTC,No. 4,Sarah Kaufman,Julius Schulze,Julius Schulze,5-7,5,7,0,1,Completed,true,false,false
+UA009032,15 Feb 15,3,Parkdale,Carmelite,No. 1,Ben Stone,Ella Pinto,Ella Pinto,4-6,4,6,0,1,Completed,true,false,false
+UA009032,15 Feb 15,3,Parkdale,Carmelite,No. 2,Reid Terrell,Stella Barker,Reid Terrell,6-2,6,2,1,0,Completed,true,false,false
+UA009032,15 Feb 15,3,Parkdale,Carmelite,No. 3,John Paterson,Noah Jensz,John Paterson,7-5,7,5,1,0,Completed,true,false,false
+UA009032,15 Feb 15,3,Parkdale,Carmelite,No. 4,James Booth,William Sturge,William Sturge,0-6,0,6,0,1,Completed,true,false,false
+UA009033,15 Feb 15,3,Coatesville,Tennis World,No. 1,Adrian Mitsel,Lara Burns,Adrian Mitsel,6-3,6,3,1,0,Completed,true,false,false
+UA009033,15 Feb 15,3,Coatesville,Tennis World,No. 2,Luigi Cortez,Jake Temby,Jake Temby,5-7,5,7,0,1,Completed,true,false,false
+UA009033,15 Feb 15,3,Coatesville,Tennis World,No. 3,Sam Basman,James Schultz,James Schultz,2-6,2,6,0,1,Completed,true,false,false
+UA009033,15 Feb 15,3,Coatesville,Tennis World,No. 4,Yao Shau,George Fedorov,George Fedorov,1-6,1,6,0,1,Completed,true,false,false
+UA009034,15 Feb 15,3,Dendy Park,Royal South Yarra,No. 1,Fleur Wackett,Archie Abbott,Fleur Wackett,6-0,6,0,1,0,Completed,true,false,false
+UA009034,15 Feb 15,3,Dendy Park,Royal South Yarra,No. 2,Tom Brown,Charlotte Ritman,Tom Brown,6-1,6,1,1,0,Completed,true,false,false
+UA009034,15 Feb 15,3,Dendy Park,Royal South Yarra,No. 3,Henry Armstrong,Josie Happell,Henry Armstrong,6-4,6,4,1,0,Completed,true,false,false
+UA009034,15 Feb 15,3,Dendy Park,Royal South Yarra,No. 4,Jonty Wells,James Ollerenshaw,Jonty Wells,6-1,6,1,1,0,Completed,true,false,false
+UA009041,22 Feb 15,4,Royal South Yarra,Kooyong,No. 1,Charlotte Ritman,Camilla Kaufman,Camilla Kaufman,4-6,4,6,0,1,Completed,true,false,false
+UA009041,22 Feb 15,4,Royal South Yarra,Kooyong,No. 2,James Ollerenshaw,Olivia McGrath,Olivia McGrath,0-6,0,6,0,1,Completed,true,false,false
+UA009041,22 Feb 15,4,Royal South Yarra,Kooyong,No. 3,Archie Abbott,Sophia Davis,Sophia Davis,1-6,1,6,0,1,Completed,true,false,false
+UA009041,22 Feb 15,4,Royal South Yarra,Kooyong,No. 4,William Glover,Julia Clark,Julia Clark,2-6,2,6,0,1,Completed,true,false,false
+UA009042,22 Feb 15,4,BLTC,Parkdale,No. 1,Lachlan Robertson,Reid Terrell,Lachlan Robertson,6-4,6,4,1,0,Completed,true,false,false
+UA009042,22 Feb 15,4,BLTC,Parkdale,No. 2,Jonas Schulze,James Bryan,Jonas Schulze,6-2,6,2,1,0,Completed,true,false,false
+UA009042,22 Feb 15,4,BLTC,Parkdale,No. 3,Henry Bradman,Nicholas Pudney,Nicholas Pudney,0-6,0,6,0,1,Completed,true,false,false
+UA009042,22 Feb 15,4,BLTC,Parkdale,No. 4,Julius Schulze,James Booth,Julius Schulze,6-1,6,1,1,0,Completed,true,false,false
+UA009043,22 Feb 15,4,Carmelite,Coatesville,No. 1,Noah Jensz,Luigi Cortez,Luigi Cortez,3-6,3,6,0,1,Completed,true,false,false
+UA009043,22 Feb 15,4,Carmelite,Coatesville,No. 2,William Sturge,Thomas So,Thomas So,2-6,2,6,0,1,Completed,true,false,false
+UA009043,22 Feb 15,4,Carmelite,Coatesville,No. 3,Georgia Plant,Sam Basman,Sam Basman,1-6,1,6,0,1,Completed,true,false,false
+UA009043,22 Feb 15,4,Carmelite,Coatesville,No. 4,Anders Costelloe,Jacob Mundy,Anders Costelloe,6-4,6,4,1,0,Completed,true,false,false
+UA009044,22 Feb 15,4,Tennis World,Dendy Park,No. 1,Lara Burns,Miguel Bragagnolo,Miguel Bragagnolo,3-6,3,6,0,1,Completed,true,false,false
+UA009044,22 Feb 15,4,Tennis World,Dendy Park,No. 2,Jake Temby,Tom Brown,Tom Brown,1-6,1,6,0,1,Completed,true,false,false
+UA009044,22 Feb 15,4,Tennis World,Dendy Park,No. 3,James Schultz,Henry Armstrong,James Schultz,6-4,6,4,1,0,Completed,true,false,false
+UA009044,22 Feb 15,4,Tennis World,Dendy Park,No. 4,Bailey Liu,Jonty Wells,Bailey Liu,6-4,6,4,1,0,Completed,true,false,false
+UA009051,01 Mar 15,5,Coatesville,Dendy Park,No. 1,Adrian Mitsel,Miguel Bragagnolo,Adrian Mitsel,6-0,6,0,1,0,Completed,true,false,false
+UA009051,01 Mar 15,5,Coatesville,Dendy Park,No. 2,Thomas So,Fleur Wackett,Thomas So,7-5,7,5,1,0,Completed,true,false,false
+UA009051,01 Mar 15,5,Coatesville,Dendy Park,No. 3,Sam Basman,Tom Brown,Tom Brown,0-6,0,6,0,1,Completed,true,false,false
+UA009051,01 Mar 15,5,Coatesville,Dendy Park,No. 4,Yao Shau,Jonty Wells,Jonty Wells,2-6,2,6,0,1,Completed,true,false,false
+UA009052,01 Mar 15,5,Carmelite,BLTC,No. 1,Ella Pinto,Lachlan Robertson,Lachlan Robertson,2-6,2,6,0,1,Completed,true,false,false
+UA009052,01 Mar 15,5,Carmelite,BLTC,No. 2,Stella Barker,Jonas Schulze,Stella Barker,6-1,6,1,1,0,Completed,true,false,false
+UA009052,01 Mar 15,5,Carmelite,BLTC,No. 3,Georgia Plant,Henry Bradman,Henry Bradman,4-6,4,6,0,1,Completed,true,false,false
+UA009052,01 Mar 15,5,Carmelite,BLTC,No. 4,Anders Costelloe,Julius Schulze,Anders Costelloe,7-6,7,6,1,0,Completed,true,false,false
+UA009053,01 Mar 15,5,Royal South Yarra,Tennis World,No. 1,Josie Happell,Jake Temby,Josie Happell,6-1,6,1,1,0,Completed,true,false,false
+UA009053,01 Mar 15,5,Royal South Yarra,Tennis World,No. 2,James Ollerenshaw,James Schultz,James Schultz,5-7,5,7,0,1,Completed,true,false,false
+UA009053,01 Mar 15,5,Royal South Yarra,Tennis World,No. 3,Archie Abbott,George Fedorov,George Fedorov,1-6,1,6,0,1,Completed,true,false,false
+UA009053,01 Mar 15,5,Royal South Yarra,Tennis World,No. 4,Nicole Anders,Bailey Liu,Bailey Liu,2-6,2,6,0,1,Completed,true,false,false
+UA009054,01 Mar 15,5,Kooyong,Parkdale,No. 1,Sarah Kaufman,Reid Terrell,Reid Terrell,1-6,1,6,0,1,Completed,true,false,false
+UA009054,01 Mar 15,5,Kooyong,Parkdale,No. 2,Zoe Kantanis,Nicholas Pudney,Zoe Kantanis,6-3,6,3,1,0,Completed,true,false,false
+UA009054,01 Mar 15,5,Kooyong,Parkdale,No. 3,Lucy Scott,Abbey Pudney,Abbey Pudney,0-6,0,6,0,1,Completed,true,false,false
+UA009054,01 Mar 15,5,Kooyong,Parkdale,No. 4,Julia Clark,James Booth,James Booth,5-7,5,7,0,1,Completed,true,false,false
+UA009061,15 Mar 15,6,Parkdale,Coatesville,No. 1,Ben Stone,Adrian Mitsel,Adrian Mitsel,3-6,3,6,0,1,Completed,true,false,false
+UA009061,15 Mar 15,6,Parkdale,Coatesville,No. 2,Reid Terrell,Luigi Cortez,Luigi Cortez,6-7,6,7,0,1,Completed,true,false,false
+UA009061,15 Mar 15,6,Parkdale,Coatesville,No. 3,John Paterson,Sam Basman,Sam Basman,4-6,4,6,0,1,Completed,true,false,false
+UA009061,15 Mar 15,6,Parkdale,Coatesville,No. 4,Abbey Pudney,Jacob Mundy,Abbey Pudney,7-5,7,5,1,0,Completed,true,false,false
+UA009062,15 Mar 15,6,Dendy Park,Kooyong,No. 1,Miguel Bragagnolo,Camilla Kaufman,Camilla Kaufman,4-6,4,6,0,1,Completed,true,false,false
+UA009062,15 Mar 15,6,Dendy Park,Kooyong,No. 2,Fleur Wackett,Sophia McGrath,Fleur Wackett,6-2,6,2,1,0,Completed,true,false,false
+UA009062,15 Mar 15,6,Dendy Park,Kooyong,No. 3,Henry Armstrong,Zoe Kantanis,Henry Armstrong,7-5,7,5,1,0,Completed,true,false,false
+UA009062,15 Mar 15,6,Dendy Park,Kooyong,No. 4,Jonty Wells,Lucy Scott,Jonty Wells,6-0,6,0,1,0,Completed,true,false,false
+UA009063,15 Mar 15,6,BLTC,Royal South Yarra,No. 1,Lachlan Robertson,Xavier Morgan Schlicht,Lachlan Robertson,6-2,6,2,1,0,Completed,true,false,false
+UA009063,15 Mar 15,6,BLTC,Royal South Yarra,No. 2,Jonas Schulze,James Ollerenshaw,Jonas Schulze,7-5,7,5,1,0,Completed,true,false,false
+UA009063,15 Mar 15,6,BLTC,Royal South Yarra,No. 3,Henry Bradman,Archie Abbott,Henry Bradman,6-3,6,3,1,0,Completed,true,false,false
+UA009063,15 Mar 15,6,BLTC,Royal South Yarra,No. 4,Henr;y Pickering,William Glover,Henr;y Pickering,6-3,6,3,1,0,Completed,true,false,false
+UA009064,15 Mar 15,6,Tennis World,Carmelite,No. 1,Lara Burns,Ella Pinto,Lara Burns,6-4,6,4,1,0,Completed,true,false,false
+UA009064,15 Mar 15,6,Tennis World,Carmelite,No. 2,Jake Temby,Stella Barker,Stella Barker,4-6,4,6,0,1,Completed,true,false,false
+UA009064,15 Mar 15,6,Tennis World,Carmelite,No. 3,George Fedorov,Georgia Plant,George Fedorov,6-1,6,1,1,0,Completed,true,false,false
+UA009064,15 Mar 15,6,Tennis World,Carmelite,No. 4,Bailey Liu,Anders Costelloe,Anders Costelloe,4-6,4,6,0,1,Completed,true,false,false
+UA009072,22 Mar 15,7,Parkdale,Dendy Park,No. 1,James Bryan,Miguel Bragagnolo,Miguel Bragagnolo,2-6,2,6,0,1,Completed,true,false,false
+UA009072,22 Mar 15,7,Parkdale,Dendy Park,No. 2,John Paterson,Fleur Wackett,Fleur Wackett,6-7,6,7,0,1,Completed,true,false,false
+UA009072,22 Mar 15,7,Parkdale,Dendy Park,No. 3,Nicholas Pudney,Tom Brown,Tom Brown,3-6,3,6,0,1,Completed,true,false,false
+UA009072,22 Mar 15,7,Parkdale,Dendy Park,No. 4,James Booth,Henry Armstrong,Henry Armstrong,0-6,0,6,0,1,Completed,true,false,false
+UA009073,22 Mar 15,7,Carmelite,Royal South Yarra,No. 1,Ella Pinto,Charlotte Ritman,Ella Pinto,6-2,6,2,1,0,Completed,true,false,false
+UA009073,22 Mar 15,7,Carmelite,Royal South Yarra,No. 2,Stella Barker,James Ollerenshaw,Stella Barker,7-5,7,5,1,0,Completed,true,false,false
+UA009073,22 Mar 15,7,Carmelite,Royal South Yarra,No. 3,William Sturge,William Glover,William Sturge,6-0,6,0,1,0,Completed,true,false,false
+UA009073,22 Mar 15,7,Carmelite,Royal South Yarra,No. 4,Georgia Plant,Nicole Anders,Georgia Plant,6-1,6,1,1,0,Completed,true,false,false
+UA009074,22 Mar 15,7,BLTC,Tennis World,No. 1,Lachlan Robertson,Lara Burns,Lachlan Robertson,6-2,6,2,1,0,Completed,true,false,false
+UA009074,22 Mar 15,7,BLTC,Tennis World,No. 2,Julius Schulze,Jake Temby,Julius Schulze,6-4,6,4,1,0,Completed,true,false,false
+UA009074,22 Mar 15,7,BLTC,Tennis World,No. 3,Jake Owen,James Schultz,James Schultz,6-7,6,7,0,1,Completed,true,false,false
+UA009074,22 Mar 15,7,BLTC,Tennis World,No. 4,Jonas Schulze,George Fedorov,Jonas Schulze,6-4,6,4,1,0,Completed,true,false,false
+UA009083,19 Apr 15,8,BLTC,Coatesville,No. 1,Lachlan Robertson,Adrian Mitsel,Adrian Mitsel,5-7,5,7,0,1,Completed,true,false,false
+UA009083,19 Apr 15,8,BLTC,Coatesville,No. 2,Jonas Schulze,Thomas So,Thomas So,0-6,0,6,0,1,Completed,true,false,false
+UA009083,19 Apr 15,8,BLTC,Coatesville,No. 3,Henry Bradman,Sam Basman,Sam Basman,6-7,6,7,0,1,Completed,true,false,false
+UA009083,19 Apr 15,8,BLTC,Coatesville,No. 4,Julius Schulze,Jacob Mundy,Julius Schulze,6-3,6,3,1,0,Completed,true,false,false
+UA009092,26 Apr 15,9,Parkdale,Tennis World,No. 1,Reid Terrell,Lara Burns,Lara Burns,2-6,2,6,0,1,Completed,true,false,false
+UA009092,26 Apr 15,9,Parkdale,Tennis World,No. 2,James Bryan,[Unnamed player — TROLS UA009092 away code 2],James Bryan,6-0,6,0,1,0,Completed,false,false,false
+UA009092,26 Apr 15,9,Parkdale,Tennis World,No. 3,John Paterson,George Fedorov,George Fedorov,4-6,4,6,0,1,Completed,true,false,false
+UA009092,26 Apr 15,9,Parkdale,Tennis World,No. 4,Nicholas Pudney,Bailey Liu,Bailey Liu,1-6,1,6,0,1,Completed,true,false,false
+UA009093,26 Apr 15,9,Coatesville,Royal South Yarra,No. 1,Adrian Mitsel,Josie Happell,Adrian Mitsel,7-5,7,5,1,0,Completed,true,false,false
+UA009093,26 Apr 15,9,Coatesville,Royal South Yarra,No. 2,Luigi Cortez,Nicole Anders,Luigi Cortez,6-1,6,1,1,0,Completed,true,false,false
+UA009093,26 Apr 15,9,Coatesville,Royal South Yarra,No. 3,Sam Basman,Archie Abbott,Sam Basman,6-0,6,0,1,0,Completed,true,false,false
+UA009093,26 Apr 15,9,Coatesville,Royal South Yarra,No. 4,Yao Shau,Sam McLean,,3-3,3,3,0,0,Completed,false,false,false
+UA009101,03 May 15,10,BLTC,Kooyong,No. 1,Lachlan Robertson,Olivia McGrath,Lachlan Robertson,6-0,6,0,1,0,Completed,true,false,false
+UA009101,03 May 15,10,BLTC,Kooyong,No. 2,Jacob Altho-McDowell,Zoe Kantanis,Zoe Kantanis,4-6,4,6,0,1,Completed,true,false,false
+UA009101,03 May 15,10,BLTC,Kooyong,No. 3,Henry Bradman,Lucy Scott,Henry Bradman,6-0,6,0,1,0,Completed,true,false,false
+UA009101,03 May 15,10,BLTC,Kooyong,No. 4,Henr;y Pickering,Sophia Davis,Henr;y Pickering,6-0,6,0,1,0,Completed,true,false,false
+UA009102,03 May 15,10,Carmelite,Parkdale,No. 1,Ella Pinto,Reid Terrell,Reid Terrell,0-6,0,6,0,1,Completed,true,false,false
+UA009102,03 May 15,10,Carmelite,Parkdale,No. 2,Stella Barker,John Paterson,John Paterson,2-6,2,6,0,1,Completed,true,false,false
+UA009102,03 May 15,10,Carmelite,Parkdale,No. 3,William Sturge,Nicholas Pudney,William Sturge,6-4,6,4,1,0,Completed,true,false,false
+UA009102,03 May 15,10,Carmelite,Parkdale,No. 4,Chloe Brown-john,James Booth,James Booth,0-6,0,6,0,1,Completed,true,false,false
+UA009103,03 May 15,10,Tennis World,Coatesville,No. 1,Lara Burns,Adrian Mitsel,Adrian Mitsel,6-7,6,7,0,1,Completed,true,false,false
+UA009103,03 May 15,10,Tennis World,Coatesville,No. 2,Jake Temby,Thomas So,Jake Temby,6-1,6,1,1,0,Completed,true,false,false
+UA009103,03 May 15,10,Tennis World,Coatesville,No. 3,Bailey Liu,Sam Basman,Bailey Liu,6-2,6,2,1,0,Completed,true,false,false
+UA009103,03 May 15,10,Tennis World,Coatesville,No. 4,Steph Peterson,Jacob Mundy,Jacob Mundy,3-6,3,6,0,1,Completed,true,false,false
+UA009104,03 May 15,10,Royal South Yarra,Dendy Park,No. 1,Josie Happell,Miguel Bragagnolo,Miguel Bragagnolo,0-6,0,6,0,1,Completed,true,false,false
+UA009104,03 May 15,10,Royal South Yarra,Dendy Park,No. 2,James Ollerenshaw,Tom Brown,Tom Brown,2-6,2,6,0,1,Completed,true,false,false
+UA009104,03 May 15,10,Royal South Yarra,Dendy Park,No. 3,Archie Abbott,Henry Armstrong,Henry Armstrong,0-6,0,6,0,1,Completed,true,false,false
+UA009104,03 May 15,10,Royal South Yarra,Dendy Park,No. 4,Nicole Anders,Jonty Wells,Jonty Wells,2-6,2,6,0,1,Completed,true,false,false
+UA009121,17 May 15,12,Dendy Park,Coatesville,No. 1,Harpo Barrett,Adrian Mitsel,Adrian Mitsel,4-6,4,6,0,1,Completed,true,false,false
+UA009121,17 May 15,12,Dendy Park,Coatesville,No. 2,Miguel Bragagnolo,Luigi Cortez,Miguel Bragagnolo,6-0,6,0,1,0,Completed,true,false,false
+UA009121,17 May 15,12,Dendy Park,Coatesville,No. 3,Tom Brown,Sam Basman,Sam Basman,4-6,4,6,0,1,Completed,true,false,false
+UA009121,17 May 15,12,Dendy Park,Coatesville,No. 4,Henry Armstrong,Yao Shau,Yao Shau,4-6,4,6,0,1,Completed,true,false,false
+UA009122,17 May 15,12,BLTC,Carmelite,No. 1,Lachlan Robertson,Ella Pinto,Lachlan Robertson,6-1,6,1,1,0,Completed,true,false,false
+UA009122,17 May 15,12,BLTC,Carmelite,No. 2,Jacob Altho-McDowell,Stella Barker,Stella Barker,2-6,2,6,0,1,Completed,true,false,false
+UA009122,17 May 15,12,BLTC,Carmelite,No. 3,Henr;y Pickering,Georgia Plant,Henr;y Pickering,6-3,6,3,1,0,Completed,true,false,false
+UA009122,17 May 15,12,BLTC,Carmelite,No. 4,Elise Robertson,William Sturge,Elise Robertson,6-0,6,0,1,0,Completed,true,false,false
+UA009123,17 May 15,12,Tennis World,Royal South Yarra,No. 1,Lara Burns,Archie Abbott,Lara Burns,6-1,6,1,1,0,Completed,true,false,false
+UA009123,17 May 15,12,Tennis World,Royal South Yarra,No. 2,George Fedorov,William Glover,William Glover,6-7,6,7,0,1,Completed,true,false,false
+UA009123,17 May 15,12,Tennis World,Royal South Yarra,No. 3,Bailey Liu,Nicole Anders,Bailey Liu,6-0,6,0,1,0,Completed,true,false,false
+UA009123,17 May 15,12,Tennis World,Royal South Yarra,No. 4,Steph Peterson,Sam McLean,Sam McLean,1-6,1,6,0,1,Completed,true,false,false
+UA009124,17 May 15,12,Parkdale,Kooyong,No. 1,Reid Terrell,Lucy Scott,Reid Terrell,6-0,6,0,1,0,Completed,true,false,false
+UA009124,17 May 15,12,Parkdale,Kooyong,No. 2,James Bryan,Sophia Davis,Sophia Davis,2-6,2,6,0,1,Completed,true,false,false
+UA009124,17 May 15,12,Parkdale,Kooyong,No. 3,John Paterson,Julia Clark,John Paterson,6-1,6,1,1,0,Completed,true,false,false
+UA009124,17 May 15,12,Parkdale,Kooyong,No. 4,Nicholas Pudney,Sarah Kaufman,Sarah Kaufman,3-6,3,6,0,1,Completed,true,false,false
+UA009131,24 May 15,13,Coatesville,Parkdale,No. 1,Luigi Cortez,Ben Stone,Luigi Cortez,6-1,6,1,1,0,Completed,true,false,false
+UA009131,24 May 15,13,Coatesville,Parkdale,No. 2,Thomas So,Reid Terrell,Thomas So,6-2,6,2,1,0,Completed,true,false,false
+UA009131,24 May 15,13,Coatesville,Parkdale,No. 3,Jacob Mundy,James Bryan,Jacob Mundy,6-3,6,3,1,0,Completed,true,false,false
+UA009131,24 May 15,13,Coatesville,Parkdale,No. 4,Yao Shau,James Booth,Yao Shau,6-1,6,1,1,0,Completed,true,false,false
+UA009132,24 May 15,13,Kooyong,Dendy Park,No. 1,Camilla Kaufman,Harpo Barrett,Harpo Barrett,1-6,1,6,0,1,Completed,true,false,false
+UA009132,24 May 15,13,Kooyong,Dendy Park,No. 2,Olivia McGrath,Miguel Bragagnolo,Miguel Bragagnolo,3-6,3,6,0,1,Completed,true,false,false
+UA009132,24 May 15,13,Kooyong,Dendy Park,No. 3,Sophia McGrath,Fleur Wackett,Fleur Wackett,5-7,5,7,0,1,Completed,true,false,false
+UA009132,24 May 15,13,Kooyong,Dendy Park,No. 4,Zoe Kantanis,Jonty Wells,Zoe Kantanis,6-1,6,1,1,0,Completed,true,false,false
+UA009133,24 May 15,13,Royal South Yarra,BLTC,No. 1,Archie Abbott,Lachlan Robertson,Lachlan Robertson,3-6,3,6,0,1,Completed,true,false,false
+UA009133,24 May 15,13,Royal South Yarra,BLTC,No. 2,William Glover,Jacob Altho-McDowell,Jacob Altho-McDowell,2-6,2,6,0,1,Completed,true,false,false
+UA009133,24 May 15,13,Royal South Yarra,BLTC,No. 3,Nicole Anders,Henry Bradman,Henry Bradman,2-6,2,6,0,1,Completed,true,false,false
+UA009133,24 May 15,13,Royal South Yarra,BLTC,No. 4,Sam McLean,Julius Schulze,Sam McLean,6-3,6,3,1,0,Completed,true,false,false
+UA009134,24 May 15,13,Carmelite,Tennis World,No. 1,Ella Pinto,Lara Burns,Lara Burns,4-6,4,6,0,1,Completed,true,false,false
+UA009134,24 May 15,13,Carmelite,Tennis World,No. 2,Stella Barker,George Fedorov,Stella Barker,6-4,6,4,1,0,Completed,true,false,false
+UA009134,24 May 15,13,Carmelite,Tennis World,No. 3,Georgia Plant,Bailey Liu,Bailey Liu,0-6,0,6,0,1,Completed,true,false,false
+UA009134,24 May 15,13,Carmelite,Tennis World,No. 4,William Sturge,Maria Francesca Cascino,Maria Francesca Cascino,0-6,0,6,0,1,Completed,true,false,false
+UA009142,31 May 15,14,Dendy Park,Parkdale,No. 1,Harpo Barrett,Ben Stone,Harpo Barrett,6-1,6,1,1,0,Completed,true,false,false
+UA009142,31 May 15,14,Dendy Park,Parkdale,No. 2,Tom Brown,Reid Terrell,Reid Terrell,0-6,0,6,0,1,Completed,true,false,false
+UA009142,31 May 15,14,Dendy Park,Parkdale,No. 3,Henry Armstrong,James Bryan,Henry Armstrong,6-0,6,0,1,0,Completed,true,false,false
+UA009142,31 May 15,14,Dendy Park,Parkdale,No. 4,Jonty Wells,John Paterson,Jonty Wells,6-4,6,4,1,0,Completed,true,false,false
+UA009143,31 May 15,14,Royal South Yarra,Carmelite,No. 1,James Ollerenshaw,Ella Pinto,Ella Pinto,1-6,1,6,0,1,Completed,true,false,false
+UA009143,31 May 15,14,Royal South Yarra,Carmelite,No. 2,Isabelle Gough,Stella Barker,Stella Barker,0-6,0,6,0,1,Completed,true,false,false
+UA009143,31 May 15,14,Royal South Yarra,Carmelite,No. 3,Nicole Anders,William Sturge,William Sturge,0-6,0,6,0,1,Completed,true,false,false
+UA009143,31 May 15,14,Royal South Yarra,Carmelite,No. 4,Sam McLean,Georgia Plant,Sam McLean,6-0,6,0,1,0,Completed,true,false,false
+UA009144,31 May 15,14,Tennis World,BLTC,No. 1,Lara Burns,Lachlan Robertson,Lachlan Robertson,2-6,2,6,0,1,Completed,true,false,false
+UA009144,31 May 15,14,Tennis World,BLTC,No. 2,George Fedorov,Jacob Altho-McDowell,George Fedorov,6-2,6,2,1,0,Completed,true,false,false
+UA009144,31 May 15,14,Tennis World,BLTC,No. 3,Bailey Liu,Henr;y Pickering,Henr;y Pickering,1-6,1,6,0,1,Completed,true,false,false
+UA009144,31 May 15,14,Tennis World,BLTC,No. 4,Steph Peterson,Julius Schulze,Julius Schulze,3-6,3,6,0,1,Completed,true,false,false
+UA009301,,16,Dendy Park,Carmelite,No. 1,Harpo Barrett,Ella Pinto,Ella Pinto,5-7,5,7,0,1,Completed,true,false,false
+UA009301,,16,Dendy Park,Carmelite,No. 2,Miguel Bragagnolo,Stella Barker,Miguel Bragagnolo,7-6,7,6,1,0,Completed,true,false,false
+UA009301,,16,Dendy Park,Carmelite,No. 3,Fleur Wackett,Noah Jensz,Noah Jensz,2-6,2,6,0,1,Completed,true,false,false
+UA009301,,16,Dendy Park,Carmelite,No. 4,Tom Brown,William Sturge,Tom Brown,6-1,6,1,1,0,Completed,true,false,false
+UA009302,,16,BLTC,Coatesville,No. 1,Lachlan Robertson,Adrian Mitsel,Adrian Mitsel,4-6,4,6,0,1,Completed,true,false,false
+UA009302,,16,BLTC,Coatesville,No. 2,Jonas Schulze,Luigi Cortez,Luigi Cortez,5-7,5,7,0,1,Completed,true,false,false
+UA009302,,16,BLTC,Coatesville,No. 3,Henr;y Pickering,Thomas So,Thomas So,0-6,0,6,0,1,Completed,true,false,false
+UA009302,,16,BLTC,Coatesville,No. 4,Julius Schulze,Sam Basman,Julius Schulze,6-3,6,3,1,0,Completed,true,false,false
+UA009321,,17,Dendy Park,Coatesville,No. 1,Miguel Bragagnolo,Adrian Mitsel,Miguel Bragagnolo,6-2,6,2,1,0,Completed,true,false,false
+UA009321,,17,Dendy Park,Coatesville,No. 2,Fleur Wackett,Luigi Cortez,Luigi Cortez,3-6,3,6,0,1,Completed,true,false,false
+UA009321,,17,Dendy Park,Coatesville,No. 3,Tom Brown,Thomas So,Tom Brown,7-5,7,5,1,0,Completed,true,false,false
+UA009321,,17,Dendy Park,Coatesville,No. 4,Henry Armstrong,Sam Basman,Henry Armstrong,6-2,6,2,1,0,Completed,true,false,false

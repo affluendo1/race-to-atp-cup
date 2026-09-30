@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA24-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2019",
+  "season_id": "UA24",
+  "season_label": "Autumn 2019",
+  "source_section_code": "UA017",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Hurlingham Park",
+      "wins": 8,
+      "points": 89,
+      "percentage": 173.06,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Andrews MB Kevin",
+      "wins": 9,
+      "points": 80,
+      "percentage": 138.08,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kings Park",
+      "wins": 6,
+      "points": 65,
+      "percentage": 111.73,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Lauriston",
+      "wins": 6,
+      "points": 63,
+      "percentage": 97.48,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Le Page",
+      "wins": 4,
+      "points": 55,
+      "percentage": 93.54,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC",
+      "wins": 4,
+      "points": 41,
+      "percentage": 68.38,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Coatesville",
+      "wins": 2,
+      "points": 27,
+      "percentage": 60.56,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA24-UA017",
+  "fixtures": 59,
+  "completed_fixtures": 44,
+  "draw_fixtures": 45,
+  "singles_rubbers": 176,
+  "doubles_rubbers": 88,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

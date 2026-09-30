@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA22-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Bodley Tennis Plus",
+      "wins": 11,
+      "points": 106.5,
+      "percentage": 159.54,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Glen Eira 1",
+      "wins": 11,
+      "points": 104,
+      "percentage": 163.47,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Royal Ave",
+      "wins": 9,
+      "points": 98,
+      "percentage": 158.87,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Kooyong St Kevin's",
+      "wins": 8,
+      "points": 92,
+      "percentage": 149.28,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Coatesville",
+      "wins": 6,
+      "points": 63,
+      "percentage": 92.84,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC",
+      "wins": 3,
+      "points": 48,
+      "percentage": 74.4,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Black Rock",
+      "wins": 1,
+      "points": 25,
+      "percentage": 43.16,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Glen Eira 2",
+      "wins": 0,
+      "points": 23.5,
+      "percentage": 46.54,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA014",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 218,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

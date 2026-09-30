@@ -1,0 +1,231 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA002011,21 Jul 13,1,Tennis World,GPHC,No. 1,Miles Castan,Tim Kay,Miles Castan,6-3,6,3,1,0,Completed,true,false,false
+UA002011,21 Jul 13,1,Tennis World,GPHC,No. 2,Lucas Kellett,Jordan Capannolo,Jordan Capannolo,0-6,0,6,0,1,Completed,true,false,false
+UA002011,21 Jul 13,1,Tennis World,GPHC,No. 3,Harry Wood,Anthony Horton,Anthony Horton,3-6,3,6,0,1,Completed,true,false,false
+UA002011,21 Jul 13,1,Tennis World,GPHC,No. 4,James Caserly,Shay Manchanda,Shay Manchanda,5-7,5,7,0,1,Completed,true,false,false
+UA002012,21 Jul 13,1,Kooyong 1,Kooyong 2,No. 1,Lachlan McAndrew,Will Swannson,Lachlan McAndrew,6-1,6,1,1,0,Completed,true,false,false
+UA002012,21 Jul 13,1,Kooyong 1,Kooyong 2,No. 2,Charlie Geason,Hamish McIroy,Charlie Geason,6-4,6,4,1,0,Completed,true,false,false
+UA002012,21 Jul 13,1,Kooyong 1,Kooyong 2,No. 3,Max Potter,Coco Swansson,Max Potter,6-2,6,2,1,0,Completed,true,false,false
+UA002012,21 Jul 13,1,Kooyong 1,Kooyong 2,No. 4,Alex Main,Christopher Iramiyan,Christopher Iramiyan,3-6,3,6,0,1,Completed,true,false,false
+UA002013,21 Jul 13,1,Mordialloc,Parkdale,No. 1,Chelsea Dutt,Nicholas Charlson,Nicholas Charlson,6-7,6,7,0,1,Completed,true,false,false
+UA002013,21 Jul 13,1,Mordialloc,Parkdale,No. 2,Chloe Vuong,Alex Cameron,Chloe Vuong,7-6,7,6,1,0,Completed,true,false,false
+UA002013,21 Jul 13,1,Mordialloc,Parkdale,No. 3,Vishal Ravi,Damian Basterfield,Vishal Ravi,6-1,6,1,1,0,Completed,true,false,false
+UA002013,21 Jul 13,1,Mordialloc,Parkdale,No. 4,Sahishnu Siva-Ram,Matthew Williams,Sahishnu Siva-Ram,6-3,6,3,1,0,Completed,true,false,false
+UA002014,21 Jul 13,1,Dendy Park,Chelsea Heights,No. 1,David Mirmilstein,Alex Pratrico,Alex Pratrico,0-6,0,6,0,1,Completed,true,false,false
+UA002014,21 Jul 13,1,Dendy Park,Chelsea Heights,No. 2,Alex Demiri,Thomas O'Donnell,Thomas O'Donnell,2-6,2,6,0,1,Completed,true,false,false
+UA002014,21 Jul 13,1,Dendy Park,Chelsea Heights,No. 3,Johnny Tzouvelis,Jimmy Danckert,Jimmy Danckert,3-6,3,6,0,1,Completed,true,false,false
+UA002014,21 Jul 13,1,Dendy Park,Chelsea Heights,No. 4,Dean Metter,Callum Thompson,Callum Thompson,0-6,0,6,0,1,Completed,true,false,false
+UA002021,28 Jul 13,2,Chelsea Heights,Tennis World,No. 1,Patrick McAllister,Miles Castan,Miles Castan,3-6,3,6,0,1,Completed,true,false,false
+UA002021,28 Jul 13,2,Chelsea Heights,Tennis World,No. 2,Brandon Sissons,Lucas Kellett,Brandon Sissons,6-0,6,0,1,0,Completed,true,false,false
+UA002021,28 Jul 13,2,Chelsea Heights,Tennis World,No. 3,Jimmy Danckert,Harry Wood,Harry Wood,0-6,0,6,0,1,Completed,true,false,false
+UA002021,28 Jul 13,2,Chelsea Heights,Tennis World,No. 4,Callum Thompson,Josh Warin,Josh Warin,3-6,3,6,0,1,Completed,true,false,false
+UA002022,28 Jul 13,2,GPHC,Kooyong 1,No. 1,Jordan Capannolo,Lachlan McAndrew,Lachlan McAndrew,5-7,5,7,0,1,Completed,true,false,false
+UA002022,28 Jul 13,2,GPHC,Kooyong 1,No. 2,Jack Chelotti,Jack Geason,Jack Geason,2-6,2,6,0,1,Completed,true,false,false
+UA002022,28 Jul 13,2,GPHC,Kooyong 1,No. 3,Anthony Horton,Charlie Geason,Anthony Horton,7-6,7,6,1,0,Completed,true,false,false
+UA002022,28 Jul 13,2,GPHC,Kooyong 1,No. 4,Shay Manchanda,Harry Gell,Shay Manchanda,6-0,6,0,1,0,Completed,true,false,false
+UA002023,28 Jul 13,2,Kooyong 2,Mordialloc,No. 1,Will Swannson,Chloe Vuong,Chloe Vuong,5-7,5,7,0,1,Completed,true,false,false
+UA002023,28 Jul 13,2,Kooyong 2,Mordialloc,No. 2,Hamish McIroy,Vishal Ravi,Vishal Ravi,3-6,3,6,0,1,Completed,true,false,false
+UA002023,28 Jul 13,2,Kooyong 2,Mordialloc,No. 3,Coco Swansson,Sahishnu Siva-Ram,Sahishnu Siva-Ram,5-7,5,7,0,1,Completed,true,false,false
+UA002023,28 Jul 13,2,Kooyong 2,Mordialloc,No. 4,Christopher Iramiyan,Aimee Vuong,Christopher Iramiyan,6-1,6,1,1,0,Completed,true,false,false
+UA002024,28 Jul 13,2,Parkdale,Dendy Park,No. 1,Nicholas Charlson,David Mirmilstein,Nicholas Charlson,6-2,6,2,1,0,Completed,true,false,false
+UA002024,28 Jul 13,2,Parkdale,Dendy Park,No. 2,Alex Cameron,Alex Demiri,Alex Cameron,6-2,6,2,1,0,Completed,true,false,false
+UA002024,28 Jul 13,2,Parkdale,Dendy Park,No. 3,Damian Basterfield,Joshua Vinton,Joshua Vinton,0-6,0,6,0,1,Completed,true,false,false
+UA002024,28 Jul 13,2,Parkdale,Dendy Park,No. 4,Matthew Williams,Luke Platt,Matthew Williams,7-6,7,6,1,0,Completed,true,false,false
+UA002031,04 Aug 13,3,Tennis World,Parkdale,No. 1,Miles Castan,Nicholas Charlson,Nicholas Charlson,4-6,4,6,0,1,Completed,true,false,false
+UA002031,04 Aug 13,3,Tennis World,Parkdale,No. 2,Lucas Kellett,Alex Cameron,Lucas Kellett,6-0,6,0,1,0,Completed,true,false,false
+UA002031,04 Aug 13,3,Tennis World,Parkdale,No. 3,Harry Wood,Damian Basterfield,Harry Wood,7-5,7,5,1,0,Completed,true,false,false
+UA002031,04 Aug 13,3,Tennis World,Parkdale,No. 4,James Caserly,Matthew Williams,James Caserly,6-1,6,1,1,0,Completed,true,false,false
+UA002032,04 Aug 13,3,Kooyong 1,Chelsea Heights,No. 1,Jack Geason,Patrick McAllister,Patrick McAllister,6-7,6,7,0,1,Completed,true,false,false
+UA002032,04 Aug 13,3,Kooyong 1,Chelsea Heights,No. 2,Max Potter,Brandon Sissons,Brandon Sissons,3-6,3,6,0,1,Completed,true,false,false
+UA002032,04 Aug 13,3,Kooyong 1,Chelsea Heights,No. 3,Alex Main,Jimmy Danckert,Alex Main,6-4,6,4,1,0,Completed,true,false,false
+UA002032,04 Aug 13,3,Kooyong 1,Chelsea Heights,No. 4,Harry Gell,Callum Thompson,Callum Thompson,5-7,5,7,0,1,Completed,true,false,false
+UA002033,04 Aug 13,3,Mordialloc,GPHC,No. 1,Chelsea Dutt,Tim Kay,Tim Kay,2-6,2,6,0,1,Completed,true,false,false
+UA002033,04 Aug 13,3,Mordialloc,GPHC,No. 2,Chloe Vuong,Jordan Capannolo,Jordan Capannolo,0-6,0,6,0,1,Completed,true,false,false
+UA002033,04 Aug 13,3,Mordialloc,GPHC,No. 3,Vishal Ravi,Anthony Horton,Vishal Ravi,6-4,6,4,1,0,Completed,true,false,false
+UA002033,04 Aug 13,3,Mordialloc,GPHC,No. 4,Aimee Vuong,James Roach,Aimee Vuong,7-6,7,6,1,0,Completed,true,false,false
+UA002034,04 Aug 13,3,Dendy Park,Kooyong 2,No. 1,David Mirmilstein,Will Swannson,Will Swannson,4-6,4,6,0,1,Completed,true,false,false
+UA002034,04 Aug 13,3,Dendy Park,Kooyong 2,No. 2,Johnny Tzouvelis,Henry Marcel,Johnny Tzouvelis,6-0,6,0,1,0,Completed,true,false,false
+UA002034,04 Aug 13,3,Dendy Park,Kooyong 2,No. 3,Joshua Vinton,Sebastian Tabain,Sebastian Tabain,1-6,1,6,0,1,Completed,true,false,false
+UA002034,04 Aug 13,3,Dendy Park,Kooyong 2,No. 4,Luke Platt,Coco Swansson,Coco Swansson,0-6,0,6,0,1,Completed,true,false,false
+UA002041,11 Aug 13,4,Kooyong 2,Tennis World,No. 1,Will Swannson,Miles Castan,Miles Castan,4-6,4,6,0,1,Completed,true,false,false
+UA002041,11 Aug 13,4,Kooyong 2,Tennis World,No. 2,Coco Swansson,Lucas Kellett,Coco Swansson,6-3,6,3,1,0,Completed,true,false,false
+UA002041,11 Aug 13,4,Kooyong 2,Tennis World,No. 3,Christopher Iramiyan,James Caserly,Christopher Iramiyan,6-3,6,3,1,0,Completed,true,false,false
+UA002041,11 Aug 13,4,Kooyong 2,Tennis World,No. 4,Stephanie Hird,Adam Ross,Stephanie Hird,7-5,7,5,1,0,Completed,true,false,false
+UA002042,11 Aug 13,4,Parkdale,Kooyong 1,No. 1,Nicholas Charlson,Lachlan McAndrew,Lachlan McAndrew,4-6,4,6,0,1,Completed,true,false,false
+UA002042,11 Aug 13,4,Parkdale,Kooyong 1,No. 2,Alex Cameron,Max Potter,Alex Cameron,6-1,6,1,1,0,Completed,true,false,false
+UA002042,11 Aug 13,4,Parkdale,Kooyong 1,No. 3,Damian Basterfield,Harry Gell,Damian Basterfield,6-2,6,2,1,0,Completed,true,false,false
+UA002042,11 Aug 13,4,Parkdale,Kooyong 1,No. 4,Matthew Williams,Ned Hummerston,Ned Hummerston,1-6,1,6,0,1,Completed,true,false,false
+UA002043,11 Aug 13,4,Chelsea Heights,Mordialloc,No. 1,Patrick McAllister,Chelsea Dutt,Chelsea Dutt,2-6,2,6,0,1,Completed,true,false,false
+UA002043,11 Aug 13,4,Chelsea Heights,Mordialloc,No. 2,Brandon Sissons,Vishal Ravi,Brandon Sissons,6-3,6,3,1,0,Completed,true,false,false
+UA002043,11 Aug 13,4,Chelsea Heights,Mordialloc,No. 3,Alex Pratrico,Sahishnu Siva-Ram,Alex Pratrico,6-1,6,1,1,0,Completed,true,false,false
+UA002043,11 Aug 13,4,Chelsea Heights,Mordialloc,No. 4,Callum Thompson,Aimee Vuong,Callum Thompson,6-1,6,1,1,0,Completed,true,false,false
+UA002044,11 Aug 13,4,GPHC,Dendy Park,No. 1,Jordan Capannolo,David Mirmilstein,David Mirmilstein,1-6,1,6,0,1,Completed,true,false,false
+UA002044,11 Aug 13,4,GPHC,Dendy Park,No. 2,Jack Chelotti,Johnny Tzouvelis,Jack Chelotti,7-6,7,6,1,0,Completed,true,false,false
+UA002044,11 Aug 13,4,GPHC,Dendy Park,No. 3,Anthony Horton,Joshua Vinton,Joshua Vinton,1-6,1,6,0,1,Completed,true,false,false
+UA002044,11 Aug 13,4,GPHC,Dendy Park,No. 4,Shay Manchanda,Luke Platt,Shay Manchanda,6-1,6,1,1,0,Completed,true,false,false
+UA002051,18 Aug 13,5,Mordialloc,Dendy Park,No. 1,Chelsea Dutt,David Mirmilstein,Chelsea Dutt,6-0,6,0,1,0,Completed,true,false,false
+UA002051,18 Aug 13,5,Mordialloc,Dendy Park,No. 2,Vishal Ravi,Johnny Tzouvelis,Vishal Ravi,7-6,7,6,1,0,Completed,true,false,false
+UA002051,18 Aug 13,5,Mordialloc,Dendy Park,No. 3,Sahishnu Siva-Ram,Joshua Vinton,Sahishnu Siva-Ram,6-1,6,1,1,0,Completed,true,false,false
+UA002051,18 Aug 13,5,Mordialloc,Dendy Park,No. 4,Aimee Vuong,Luke Platt,Aimee Vuong,6-4,6,4,1,0,Completed,true,false,false
+UA002052,18 Aug 13,5,Chelsea Heights,Parkdale,No. 1,Patrick McAllister,Nicholas Charlson,Nicholas Charlson,1-6,1,6,0,1,Completed,true,false,false
+UA002052,18 Aug 13,5,Chelsea Heights,Parkdale,No. 2,Brandon Sissons,Alex Cameron,Brandon Sissons,6-3,6,3,1,0,Completed,true,false,false
+UA002052,18 Aug 13,5,Chelsea Heights,Parkdale,No. 3,Jimmy Danckert,Damian Basterfield,Jimmy Danckert,7-6,7,6,1,0,Completed,true,false,false
+UA002052,18 Aug 13,5,Chelsea Heights,Parkdale,No. 4,Callum Thompson,Matthew Williams,Callum Thompson,6-3,6,3,1,0,Completed,true,false,false
+UA002053,18 Aug 13,5,Kooyong 2,GPHC,No. 1,Hamish McIroy,Tim Kay,Hamish McIroy,6-3,6,3,1,0,Completed,true,false,false
+UA002053,18 Aug 13,5,Kooyong 2,GPHC,No. 2,Christopher Iramiyan,Jordan Capannolo,Christopher Iramiyan,6-4,6,4,1,0,Completed,true,false,false
+UA002053,18 Aug 13,5,Kooyong 2,GPHC,No. 3,Sam Quinn,Jack Chelotti,Jack Chelotti,3-6,3,6,0,1,Completed,true,false,false
+UA002053,18 Aug 13,5,Kooyong 2,GPHC,No. 4,Cate Vesely,James Roach,James Roach,3-6,3,6,0,1,Completed,true,false,false
+UA002054,18 Aug 13,5,Tennis World,Kooyong 1,No. 1,Miles Castan,Lachlan McAndrew,Miles Castan,7-6,7,6,1,0,Completed,true,false,false
+UA002054,18 Aug 13,5,Tennis World,Kooyong 1,No. 2,Harry Wood,Jack Geason,Jack Geason,6-7,6,7,0,1,Completed,true,false,false
+UA002054,18 Aug 13,5,Tennis World,Kooyong 1,No. 3,James Caserly,Charlie Geason,James Caserly,7-5,7,5,1,0,Completed,true,false,false
+UA002054,18 Aug 13,5,Tennis World,Kooyong 1,No. 4,Adam Ross,Max Potter,Adam Ross,6-4,6,4,1,0,Completed,true,false,false
+UA002061,25 Aug 13,6,Kooyong 1,Mordialloc,No. 1,Lachlan McAndrew,Chloe Vuong,Lachlan McAndrew,6-3,6,3,1,0,Completed,true,false,false
+UA002061,25 Aug 13,6,Kooyong 1,Mordialloc,No. 2,Jack Geason,Vishal Ravi,Jack Geason,6-3,6,3,1,0,Completed,true,false,false
+UA002061,25 Aug 13,6,Kooyong 1,Mordialloc,No. 3,Charlie Geason,Sahishnu Siva-Ram,Charlie Geason,6-2,6,2,1,0,Completed,true,false,false
+UA002061,25 Aug 13,6,Kooyong 1,Mordialloc,No. 4,Max Potter,Aimee Vuong,Max Potter,6-4,6,4,1,0,Completed,true,false,false
+UA002062,25 Aug 13,6,Dendy Park,Tennis World,No. 1,David Mirmilstein,Lucas Kellett,Lucas Kellett,4-6,4,6,0,1,Completed,true,false,false
+UA002062,25 Aug 13,6,Dendy Park,Tennis World,No. 2,Alex Demiri,Harry Wood,Alex Demiri,6-4,6,4,1,0,Completed,true,false,false
+UA002062,25 Aug 13,6,Dendy Park,Tennis World,No. 3,Joshua Vinton,James Caserly,James Caserly,6-7,6,7,0,1,Completed,true,false,false
+UA002062,25 Aug 13,6,Dendy Park,Tennis World,No. 4,Dean Metter,Adam Ross,Adam Ross,1-6,1,6,0,1,Completed,true,false,false
+UA002063,25 Aug 13,6,Parkdale,Kooyong 2,No. 1,Nicholas Charlson,Will Swannson,Nicholas Charlson,6-3,6,3,1,0,Completed,true,false,false
+UA002063,25 Aug 13,6,Parkdale,Kooyong 2,No. 2,Alex Cameron,Henry Marcel,Alex Cameron,6-0,6,0,1,0,Completed,true,false,false
+UA002063,25 Aug 13,6,Parkdale,Kooyong 2,No. 3,Damian Basterfield,Sebastian Tabain,Damian Basterfield,7-5,7,5,1,0,Completed,true,false,false
+UA002063,25 Aug 13,6,Parkdale,Kooyong 2,No. 4,Matthew Williams,Coco Swansson,Coco Swansson,1-6,1,6,0,1,Completed,true,false,false
+UA002064,25 Aug 13,6,GPHC,Chelsea Heights,No. 1,Tim Kay,Patrick McAllister,Tim Kay,6-4,6,4,1,0,Completed,true,false,false
+UA002064,25 Aug 13,6,GPHC,Chelsea Heights,No. 2,Jack Chelotti,Brandon Sissons,Brandon Sissons,1-6,1,6,0,1,Completed,true,false,false
+UA002064,25 Aug 13,6,GPHC,Chelsea Heights,No. 3,Shay Manchanda,Jimmy Danckert,Jimmy Danckert,2-6,2,6,0,1,Completed,true,false,false
+UA002064,25 Aug 13,6,GPHC,Chelsea Heights,No. 4,Will Goss,Callum Thompson,Callum Thompson,0-6,0,6,0,1,Completed,true,false,false
+UA002071,01 Sep 13,7,Tennis World,Mordialloc,No. 1,Miles Castan,Chelsea Dutt,Chelsea Dutt,2-6,2,6,0,1,Completed,true,false,false
+UA002071,01 Sep 13,7,Tennis World,Mordialloc,No. 2,Lucas Kellett,Chloe Vuong,Chloe Vuong,3-6,3,6,0,1,Completed,true,false,false
+UA002071,01 Sep 13,7,Tennis World,Mordialloc,No. 3,Harry Wood,Vishal Ravi,Vishal Ravi,4-6,4,6,0,1,Completed,true,false,false
+UA002071,01 Sep 13,7,Tennis World,Mordialloc,No. 4,Adam Ross,Aimee Vuong,Aimee Vuong,3-6,3,6,0,1,Completed,true,false,false
+UA002072,01 Sep 13,7,Kooyong 1,Dendy Park,No. 1,Lachlan McAndrew,Nick Jeffery,Nick Jeffery,1-6,1,6,0,1,Completed,true,false,false
+UA002072,01 Sep 13,7,Kooyong 1,Dendy Park,No. 2,Charlie Geason,Alex Demiri,Charlie Geason,7-5,7,5,1,0,Completed,true,false,false
+UA002072,01 Sep 13,7,Kooyong 1,Dendy Park,No. 3,Max Potter,Angela Jeffery,Max Potter,6-3,6,3,1,0,Completed,true,false,false
+UA002072,01 Sep 13,7,Kooyong 1,Dendy Park,No. 4,Harry Gell,Dean Metter,Harry Gell,6-1,6,1,1,0,Completed,true,false,false
+UA002073,01 Sep 13,7,Chelsea Heights,Kooyong 2,No. 1,Patrick McAllister,Will Swannson,Patrick McAllister,6-3,6,3,1,0,Completed,true,false,false
+UA002073,01 Sep 13,7,Chelsea Heights,Kooyong 2,No. 2,Brandon Sissons,Henry Marcel,Brandon Sissons,6-2,6,2,1,0,Completed,true,false,false
+UA002073,01 Sep 13,7,Chelsea Heights,Kooyong 2,No. 3,Jimmy Danckert,Coco Swansson,Jimmy Danckert,6-4,6,4,1,0,Completed,true,false,false
+UA002073,01 Sep 13,7,Chelsea Heights,Kooyong 2,No. 4,Callum Thompson,Christopher Iramiyan,Callum Thompson,6-3,6,3,1,0,Completed,true,false,false
+UA002074,01 Sep 13,7,Parkdale,GPHC,No. 1,Nicholas Charlson,Tim Kay,Nicholas Charlson,6-3,6,3,1,0,Completed,true,false,false
+UA002074,01 Sep 13,7,Parkdale,GPHC,No. 2,Alex Cameron,Jordan Capannolo,Jordan Capannolo,3-6,3,6,0,1,Completed,true,false,false
+UA002074,01 Sep 13,7,Parkdale,GPHC,No. 3,Damian Basterfield,Shay Manchanda,Shay Manchanda,2-6,2,6,0,1,Completed,true,false,false
+UA002074,01 Sep 13,7,Parkdale,GPHC,No. 4,Matthew Williams,Lachlan Barnett,Lachlan Barnett,3-6,3,6,0,1,Completed,true,false,false
+UA002081,08 Sep 13,8,GPHC,Tennis World,No. 1,Tim Kay,Miles Castan,Tim Kay,6-2,6,2,1,0,Completed,true,false,false
+UA002081,08 Sep 13,8,GPHC,Tennis World,No. 2,Jordan Capannolo,Lucas Kellett,Lucas Kellett,4-6,4,6,0,1,Completed,true,false,false
+UA002081,08 Sep 13,8,GPHC,Tennis World,No. 3,Jack Chelotti,Harry Wood,Jack Chelotti,6-4,6,4,1,0,Completed,true,false,false
+UA002081,08 Sep 13,8,GPHC,Tennis World,No. 4,Shay Manchanda,James Caserly,Shay Manchanda,6-4,6,4,1,0,Completed,true,false,false
+UA002082,08 Sep 13,8,Kooyong 2,Kooyong 1,No. 1,Will Swannson,Lachlan McAndrew,Lachlan McAndrew,3-6,3,6,0,1,Completed,true,false,false
+UA002082,08 Sep 13,8,Kooyong 2,Kooyong 1,No. 2,Henry Marcel,Jack Geason,Henry Marcel,7-6,7,6,1,0,Completed,true,false,false
+UA002082,08 Sep 13,8,Kooyong 2,Kooyong 1,No. 3,Sebastian Tabain,Charlie Geason,Charlie Geason,0-6,0,6,0,1,Completed,true,false,false
+UA002082,08 Sep 13,8,Kooyong 2,Kooyong 1,No. 4,Hamish McIroy,Harry Gell,Hamish McIroy,6-1,6,1,1,0,Completed,true,false,false
+UA002083,08 Sep 13,8,Parkdale,Mordialloc,No. 1,Nicholas Charlson,Chelsea Dutt,Nicholas Charlson,7-5,7,5,1,0,Completed,true,false,false
+UA002083,08 Sep 13,8,Parkdale,Mordialloc,No. 2,Alex Cameron,Chloe Vuong,Chloe Vuong,4-6,4,6,0,1,Completed,true,false,false
+UA002083,08 Sep 13,8,Parkdale,Mordialloc,No. 3,Damian Basterfield,Sahishnu Siva-Ram,Sahishnu Siva-Ram,5-7,5,7,0,1,Completed,true,false,false
+UA002083,08 Sep 13,8,Parkdale,Mordialloc,No. 4,Matthew Williams,Aimee Vuong,Matthew Williams,6-4,6,4,1,0,Completed,true,false,false
+UA002084,08 Sep 13,8,Chelsea Heights,Dendy Park,No. 1,Patrick McAllister,David Mirmilstein,Patrick McAllister,6-4,6,4,1,0,Completed,true,false,false
+UA002084,08 Sep 13,8,Chelsea Heights,Dendy Park,No. 2,Brandon Sissons,Johnny Tzouvelis,Brandon Sissons,6-2,6,2,1,0,Completed,true,false,false
+UA002084,08 Sep 13,8,Chelsea Heights,Dendy Park,No. 3,Jimmy Danckert,Joshua Vinton,Joshua Vinton,2-6,2,6,0,1,Completed,true,false,false
+UA002084,08 Sep 13,8,Chelsea Heights,Dendy Park,No. 4,Callum Thompson,Luke Platt,Callum Thompson,6-0,6,0,1,0,Completed,true,false,false
+UA002091,15 Sep 13,9,Tennis World,Chelsea Heights,No. 1,Miles Castan,Patrick McAllister,Patrick McAllister,4-6,4,6,0,1,Completed,true,false,false
+UA002091,15 Sep 13,9,Tennis World,Chelsea Heights,No. 2,Lucas Kellett,Brandon Sissons,Brandon Sissons,2-6,2,6,0,1,Completed,true,false,false
+UA002091,15 Sep 13,9,Tennis World,Chelsea Heights,No. 3,James Caserly,Jimmy Danckert,James Caserly,6-3,6,3,1,0,Completed,true,false,false
+UA002091,15 Sep 13,9,Tennis World,Chelsea Heights,No. 4,Adam Ross,Lachlan Pywell,Adam Ross,6-1,6,1,1,0,Completed,true,false,false
+UA002092,15 Sep 13,9,Kooyong 1,GPHC,No. 1,Lachlan McAndrew,Tim Kay,Lachlan McAndrew,7-5,7,5,1,0,Completed,true,false,false
+UA002092,15 Sep 13,9,Kooyong 1,GPHC,No. 2,Jack Geason,Shay Manchanda,Jack Geason,6-1,6,1,1,0,Completed,true,false,false
+UA002092,15 Sep 13,9,Kooyong 1,GPHC,No. 3,Charlie Geason,Emma Selbie,Charlie Geason,6-1,6,1,1,0,Completed,true,false,false
+UA002092,15 Sep 13,9,Kooyong 1,GPHC,No. 4,Max Potter,[Unnamed player — TROLS UA002092 away code 4],Max Potter,6-0,6,0,1,0,Completed,false,false,false
+UA002093,15 Sep 13,9,Mordialloc,Kooyong 2,No. 1,Chelsea Dutt,Sebastian Tabain,Chelsea Dutt,6-2,6,2,1,0,Completed,true,false,false
+UA002093,15 Sep 13,9,Mordialloc,Kooyong 2,No. 2,Chloe Vuong,Hamish McIroy,Hamish McIroy,4-6,4,6,0,1,Completed,true,false,false
+UA002093,15 Sep 13,9,Mordialloc,Kooyong 2,No. 3,Vishal Ravi,Coco Swansson,Coco Swansson,4-6,4,6,0,1,Completed,true,false,false
+UA002093,15 Sep 13,9,Mordialloc,Kooyong 2,No. 4,Sahishnu Siva-Ram,Christopher Iramiyan,Christopher Iramiyan,0-6,0,6,0,1,Completed,true,false,false
+UA002094,15 Sep 13,9,Dendy Park,Parkdale,No. 1,David Mirmilstein,Alex Cameron,David Mirmilstein,6-1,6,1,1,0,Completed,true,false,false
+UA002094,15 Sep 13,9,Dendy Park,Parkdale,No. 2,Alex Demiri,Damian Basterfield,Damian Basterfield,0-6,0,6,0,1,Completed,true,false,false
+UA002094,15 Sep 13,9,Dendy Park,Parkdale,No. 3,Lachlan Couper,Matthew Williams,Lachlan Couper,6-0,6,0,1,0,Completed,true,false,false
+UA002094,15 Sep 13,9,Dendy Park,Parkdale,No. 4,Joshua Vinton,Tyler Bradley,Tyler Bradley,1-6,1,6,0,1,Completed,true,false,false
+UA002101,13 Oct 13,10,Parkdale,Tennis World,No. 1,Alex Cameron,Miles Castan,Miles Castan,0-6,0,6,0,1,Completed,true,false,false
+UA002101,13 Oct 13,10,Parkdale,Tennis World,No. 2,Damian Basterfield,Lucas Kellett,Lucas Kellett,2-6,2,6,0,1,Completed,true,false,false
+UA002101,13 Oct 13,10,Parkdale,Tennis World,No. 3,Angus Catt,James Caserly,Angus Catt,6-3,6,3,1,0,Completed,true,false,false
+UA002101,13 Oct 13,10,Parkdale,Tennis World,No. 4,Matthew Williams,Adam Ross,Adam Ross,2-6,2,6,0,1,Completed,true,false,false
+UA002102,13 Oct 13,10,Chelsea Heights,Kooyong 1,No. 1,Alex Pratrico,Lachlan McAndrew,Alex Pratrico,6-0,6,0,1,0,Completed,true,false,false
+UA002102,13 Oct 13,10,Chelsea Heights,Kooyong 1,No. 2,Brandon Sissons,Jack Geason,Brandon Sissons,6-3,6,3,1,0,Completed,true,false,false
+UA002102,13 Oct 13,10,Chelsea Heights,Kooyong 1,No. 3,Jimmy Danckert,Charlie Geason,Charlie Geason,3-6,3,6,0,1,Completed,true,false,false
+UA002102,13 Oct 13,10,Chelsea Heights,Kooyong 1,No. 4,Callum Thompson,Max Potter,Callum Thompson,6-4,6,4,1,0,Completed,true,false,false
+UA002103,13 Oct 13,10,GPHC,Mordialloc,No. 1,Jack Chelotti,Vishal Ravi,Jack Chelotti,4-3,4,3,1,0,Completed,false,false,false
+UA002103,13 Oct 13,10,GPHC,Mordialloc,No. 2,Shay Manchanda,Max Cohen,Shay Manchanda,5-2,5,2,1,0,Completed,true,false,false
+UA002104,13 Oct 13,10,Kooyong 2,Dendy Park,No. 1,Will Swannson,David Mirmilstein,Will Swannson,6-4,6,4,1,0,Completed,true,false,false
+UA002104,13 Oct 13,10,Kooyong 2,Dendy Park,No. 2,Henry Marcel,Alex Demiri,Alex Demiri,5-7,5,7,0,1,Completed,true,false,false
+UA002104,13 Oct 13,10,Kooyong 2,Dendy Park,No. 3,Hamish McIroy,Johnny Tzouvelis,Hamish McIroy,2-0,2,0,1,0,Completed,false,false,false
+UA002104,13 Oct 13,10,Kooyong 2,Dendy Park,No. 4,Coco Swansson,Dean Metter,Dean Metter,5-7,5,7,0,1,Completed,true,false,false
+UA002111,20 Oct 13,11,Tennis World,Kooyong 2,No. 1,Lucas Kellett,Henry Marcel,Henry Marcel,3-6,3,6,0,1,Completed,true,false,false
+UA002111,20 Oct 13,11,Tennis World,Kooyong 2,No. 2,Harry Wood,Sebastian Tabain,Sebastian Tabain,0-6,0,6,0,1,Completed,true,false,false
+UA002111,20 Oct 13,11,Tennis World,Kooyong 2,No. 3,James Caserly,Hamish McIroy,Hamish McIroy,5-7,5,7,0,1,Completed,true,false,false
+UA002111,20 Oct 13,11,Tennis World,Kooyong 2,No. 4,Adam Ross,Christopher Iramiyan,Christopher Iramiyan,4-6,4,6,0,1,Completed,true,false,false
+UA002112,20 Oct 13,11,Kooyong 1,Parkdale,No. 1,Jack Geason,Nicholas Charlson,Jack Geason,7-6,7,6,1,0,Completed,true,false,false
+UA002112,20 Oct 13,11,Kooyong 1,Parkdale,No. 2,Charlie Geason,Alex Cameron,Charlie Geason,6-1,6,1,1,0,Completed,true,false,false
+UA002112,20 Oct 13,11,Kooyong 1,Parkdale,No. 3,Max Potter,Damian Basterfield,Max Potter,7-5,7,5,1,0,Completed,true,false,false
+UA002112,20 Oct 13,11,Kooyong 1,Parkdale,No. 4,Harry Gell,Matthew Williams,Harry Gell,6-1,6,1,1,0,Completed,true,false,false
+UA002114,20 Oct 13,11,Dendy Park,GPHC,No. 1,Johnny Tzouvelis,Jordan Capannolo,Johnny Tzouvelis,6-4,6,4,1,0,Completed,true,false,false
+UA002114,20 Oct 13,11,Dendy Park,GPHC,No. 2,Joshua Vinton,Jack Chelotti,Jack Chelotti,1-6,1,6,0,1,Completed,true,false,false
+UA002114,20 Oct 13,11,Dendy Park,GPHC,No. 3,Luke Platt,Anthony Horton,Anthony Horton,0-6,0,6,0,1,Completed,true,false,false
+UA002114,20 Oct 13,11,Dendy Park,GPHC,No. 4,Dean Metter,Shay Manchanda,Dean Metter,6-2,6,2,1,0,Completed,true,false,false
+UA002121,27 Oct 13,12,Dendy Park,Mordialloc,No. 1,Alex Demiri,Chelsea Dutt,Chelsea Dutt,1-6,1,6,0,1,Completed,true,false,false
+UA002121,27 Oct 13,12,Dendy Park,Mordialloc,No. 2,Luke Platt,Chloe Vuong,Chloe Vuong,1-6,1,6,0,1,Completed,true,false,false
+UA002121,27 Oct 13,12,Dendy Park,Mordialloc,No. 3,Dean Metter,Sahishnu Siva-Ram,Sahishnu Siva-Ram,2-6,2,6,0,1,Completed,true,false,false
+UA002121,27 Oct 13,12,Dendy Park,Mordialloc,No. 4,Angela Jeffery,Aimee Vuong,Aimee Vuong,0-6,0,6,0,1,Completed,true,false,false
+UA002122,27 Oct 13,12,Parkdale,Chelsea Heights,No. 1,Nicholas Charlson,Patrick McAllister,Nicholas Charlson,6-3,6,3,1,0,Completed,true,false,false
+UA002122,27 Oct 13,12,Parkdale,Chelsea Heights,No. 2,Alex Cameron,Brandon Sissons,Brandon Sissons,2-6,2,6,0,1,Completed,true,false,false
+UA002122,27 Oct 13,12,Parkdale,Chelsea Heights,No. 3,Damian Basterfield,Alex Pratrico,Alex Pratrico,0-6,0,6,0,1,Completed,true,false,false
+UA002122,27 Oct 13,12,Parkdale,Chelsea Heights,No. 4,Matthew Williams,Callum Thompson,Callum Thompson,2-6,2,6,0,1,Completed,true,false,false
+UA002123,27 Oct 13,12,GPHC,Kooyong 2,No. 1,Jordan Capannolo,Will Swannson,Will Swannson,2-6,2,6,0,1,Completed,true,false,false
+UA002123,27 Oct 13,12,GPHC,Kooyong 2,No. 2,Jack Chelotti,Henry Marcel,Jack Chelotti,6-2,6,2,1,0,Completed,true,false,false
+UA002123,27 Oct 13,12,GPHC,Kooyong 2,No. 3,Anthony Horton,Sebastian Tabain,Sebastian Tabain,4-6,4,6,0,1,Completed,true,false,false
+UA002123,27 Oct 13,12,GPHC,Kooyong 2,No. 4,Shay Manchanda,Hamish McIroy,Hamish McIroy,4-6,4,6,0,1,Completed,true,false,false
+UA002124,27 Oct 13,12,Kooyong 1,Tennis World,No. 1,Lachlan McAndrew,Miles Castan,Miles Castan,4-6,4,6,0,1,Completed,true,false,false
+UA002124,27 Oct 13,12,Kooyong 1,Tennis World,No. 2,Jack Geason,Lucas Kellett,Jack Geason,7-5,7,5,1,0,Completed,true,false,false
+UA002124,27 Oct 13,12,Kooyong 1,Tennis World,No. 3,Max Potter,Harry Wood,Max Potter,6-1,6,1,1,0,Completed,true,false,false
+UA002124,27 Oct 13,12,Kooyong 1,Tennis World,No. 4,Harry Gell,Adam Ross,Adam Ross,1-6,1,6,0,1,Completed,true,false,false
+UA002131,10 Nov 13,13,Mordialloc,Kooyong 1,No. 1,Chelsea Dutt,Lachlan McAndrew,Lachlan McAndrew,3-6,3,6,0,1,Completed,true,false,false
+UA002131,10 Nov 13,13,Mordialloc,Kooyong 1,No. 2,Chloe Vuong,Charlie Geason,Charlie Geason,2-6,2,6,0,1,Completed,true,false,false
+UA002131,10 Nov 13,13,Mordialloc,Kooyong 1,No. 3,Sahishnu Siva-Ram,Max Potter,Max Potter,3-6,3,6,0,1,Completed,true,false,false
+UA002131,10 Nov 13,13,Mordialloc,Kooyong 1,No. 4,Aimee Vuong,Alex Main,Alex Main,5-7,5,7,0,1,Completed,true,false,false
+UA002132,10 Nov 13,13,Tennis World,Dendy Park,No. 1,Miles Castan,David Mirmilstein,Miles Castan,7-5,7,5,1,0,Completed,true,false,false
+UA002132,10 Nov 13,13,Tennis World,Dendy Park,No. 2,Harry Wood,Alex Demiri,Harry Wood,6-0,6,0,1,0,Completed,true,false,false
+UA002132,10 Nov 13,13,Tennis World,Dendy Park,No. 3,James Caserly,Joshua Vinton,James Caserly,6-4,6,4,1,0,Completed,true,false,false
+UA002132,10 Nov 13,13,Tennis World,Dendy Park,No. 4,Adam Ross,Dean Metter,Adam Ross,6-1,6,1,1,0,Completed,true,false,false
+UA002133,10 Nov 13,13,Kooyong 2,Parkdale,No. 1,Will Swannson,Nicholas Charlson,Nicholas Charlson,1-6,1,6,0,1,Completed,true,false,false
+UA002133,10 Nov 13,13,Kooyong 2,Parkdale,No. 2,Sebastian Tabain,Alex Cameron,Sebastian Tabain,6-3,6,3,1,0,Completed,true,false,false
+UA002133,10 Nov 13,13,Kooyong 2,Parkdale,No. 3,Lachie Height,Matthew Williams,Lachie Height,6-3,6,3,1,0,Completed,true,false,false
+UA002133,10 Nov 13,13,Kooyong 2,Parkdale,No. 4,Sam Quinn,Charlie Salter,Sam Quinn,7-6,7,6,1,0,Completed,true,false,false
+UA002134,10 Nov 13,13,Chelsea Heights,GPHC,No. 1,Patrick McAllister,Tim Kay,Tim Kay,3-6,3,6,0,1,Completed,true,false,false
+UA002134,10 Nov 13,13,Chelsea Heights,GPHC,No. 2,Brandon Sissons,Jordan Capannolo,Brandon Sissons,6-4,6,4,1,0,Completed,true,false,false
+UA002134,10 Nov 13,13,Chelsea Heights,GPHC,No. 3,Callum Thompson,Jack Chelotti,Callum Thompson,6-3,6,3,1,0,Completed,true,false,false
+UA002134,10 Nov 13,13,Chelsea Heights,GPHC,No. 4,[Unnamed player — TROLS UA002134 home code 4],Anthony Horton,Anthony Horton,0-6,0,6,0,1,Completed,false,false,false
+UA002141,17 Nov 13,14,Mordialloc,Tennis World,No. 1,Chelsea Dutt,Miles Castan,Chelsea Dutt,6-2,6,2,1,0,Completed,true,false,false
+UA002141,17 Nov 13,14,Mordialloc,Tennis World,No. 2,Vishal Ravi,Harry Wood,Harry Wood,0-6,0,6,0,1,Completed,true,false,false
+UA002141,17 Nov 13,14,Mordialloc,Tennis World,No. 3,Sahishnu Siva-Ram,James Caserly,Sahishnu Siva-Ram,7-5,7,5,1,0,Completed,true,false,false
+UA002141,17 Nov 13,14,Mordialloc,Tennis World,No. 4,Aimee Vuong,Adam Ross,Adam Ross,4-6,4,6,0,1,Completed,true,false,false
+UA002142,17 Nov 13,14,Dendy Park,Kooyong 1,No. 1,David Mirmilstein,Jack Geason,Jack Geason,1-6,1,6,0,1,Completed,true,false,false
+UA002142,17 Nov 13,14,Dendy Park,Kooyong 1,No. 2,Alex Demiri,Max Potter,Max Potter,1-6,1,6,0,1,Completed,true,false,false
+UA002142,17 Nov 13,14,Dendy Park,Kooyong 1,No. 3,Johnny Tzouvelis,Alex Main,Alex Main,4-6,4,6,0,1,Completed,true,false,false
+UA002142,17 Nov 13,14,Dendy Park,Kooyong 1,No. 4,Luke Platt,Harry Gell,Harry Gell,5-7,5,7,0,1,Completed,true,false,false
+UA002143,17 Nov 13,14,Kooyong 2,Chelsea Heights,No. 1,Henry Marcel,Brandon Sissons,Brandon Sissons,0-6,0,6,0,1,Completed,true,false,false
+UA002143,17 Nov 13,14,Kooyong 2,Chelsea Heights,No. 2,Sebastian Tabain,Jimmy Danckert,Jimmy Danckert,3-6,3,6,0,1,Completed,true,false,false
+UA002143,17 Nov 13,14,Kooyong 2,Chelsea Heights,No. 3,Hamish McIroy,Callum Thompson,Callum Thompson,4-6,4,6,0,1,Completed,true,false,false
+UA002143,17 Nov 13,14,Kooyong 2,Chelsea Heights,No. 4,Christopher Iramiyan,Lachlan Pywell,Christopher Iramiyan,6-0,6,0,1,0,Completed,true,false,false
+UA002144,17 Nov 13,14,GPHC,Parkdale,No. 1,Tim Kay,Nicholas Charlson,Nicholas Charlson,3-6,3,6,0,1,Completed,true,false,false
+UA002144,17 Nov 13,14,GPHC,Parkdale,No. 2,Jordan Capannolo,Alex Cameron,Jordan Capannolo,6-1,6,1,1,0,Completed,true,false,false
+UA002144,17 Nov 13,14,GPHC,Parkdale,No. 3,Anthony Horton,Damian Basterfield,Anthony Horton,6-2,6,2,1,0,Completed,true,false,false
+UA002144,17 Nov 13,14,GPHC,Parkdale,No. 4,Shay Manchanda,Matthew Williams,Shay Manchanda,6-2,6,2,1,0,Completed,true,false,false
+UA002301,,16,Chelsea Heights,Kooyong 2,No. 1,Patrick McAllister,Will Swannson,Will Swannson,3-6,3,6,0,1,Completed,true,false,false
+UA002301,,16,Chelsea Heights,Kooyong 2,No. 2,Brandon Sissons,Sebastian Tabain,Brandon Sissons,6-4,6,4,1,0,Completed,true,false,false
+UA002301,,16,Chelsea Heights,Kooyong 2,No. 3,Jimmy Danckert,Hamish McIroy,Hamish McIroy,5-7,5,7,0,1,Completed,true,false,false
+UA002301,,16,Chelsea Heights,Kooyong 2,No. 4,Callum Thompson,Christopher Iramiyan,Christopher Iramiyan,3-6,3,6,0,1,Completed,true,false,false
+UA002302,,16,Kooyong 1,GPHC,No. 1,Jack Geason,Jordan Capannolo,Jack Geason,6-4,6,4,1,0,Completed,true,false,false
+UA002302,,16,Kooyong 1,GPHC,No. 2,Charlie Geason,Jack Chelotti,Charlie Geason,6-3,6,3,1,0,Completed,true,false,false
+UA002302,,16,Kooyong 1,GPHC,No. 3,Max Potter,Anthony Horton,Max Potter,6-3,6,3,1,0,Completed,true,false,false
+UA002302,,16,Kooyong 1,GPHC,No. 4,Alex Main,Shay Manchanda,Alex Main,6-1,6,1,1,0,Completed,true,false,false
+UA002321,,17,Kooyong 1,Kooyong 2,No. 1,Jack Geason,Will Swannson,Jack Geason,6-4,6,4,1,0,Completed,true,false,false
+UA002321,,17,Kooyong 1,Kooyong 2,No. 2,Charlie Geason,Sebastian Tabain,Charlie Geason,6-3,6,3,1,0,Completed,true,false,false
+UA002321,,17,Kooyong 1,Kooyong 2,No. 3,Max Potter,Coco Swansson,Max Potter,6-2,6,2,1,0,Completed,true,false,false
+UA002321,,17,Kooyong 1,Kooyong 2,No. 4,Alex Main,Christopher Iramiyan,Christopher Iramiyan,4-6,4,6,0,1,Completed,true,false,false

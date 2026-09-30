@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA26-UA023",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2020",
+  "season_id": "UA26",
+  "season_label": "Autumn 2020",
+  "source_section_code": "UA023",
+  "section_label": "Section 23",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Elsternwick Park 2",
+      "wins": 5,
+      "points": 50,
+      "percentage": 220.78,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Elsternwick Park 1",
+      "wins": 3,
+      "points": 37,
+      "percentage": 144.86,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Coatesville",
+      "wins": 3,
+      "points": 36,
+      "percentage": 114.62,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Parkdale",
+      "wins": 2,
+      "points": 31,
+      "percentage": 135.24,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal Ave",
+      "wins": 3,
+      "points": 31,
+      "percentage": 85.0,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Murrumbeena",
+      "wins": 2,
+      "points": 29,
+      "percentage": 100.92,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Black Rock",
+      "wins": 0,
+      "points": 18,
+      "percentage": 51.97,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hurlingham Park",
+      "wins": 0,
+      "points": 8,
+      "percentage": 30.95,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA26-UA023",
+  "fixtures": 24,
+  "completed_fixtures": 19,
+  "draw_fixtures": 42,
+  "singles_rubbers": 76,
+  "doubles_rubbers": 38,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

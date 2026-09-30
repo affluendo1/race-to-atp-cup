@@ -1,0 +1,97 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA013011,18 Jul 26,1,Coatesville Blue,Coatesville White,No. 1,Vivica Surapaneni,Rishi Suresh,Vivica Surapaneni,6-3,6,3,1,0,Completed,true,false,false
+AA013011,18 Jul 26,1,Coatesville Blue,Coatesville White,No. 2,Mya Lee,Rohan Shukin,Mya Lee,6-0,6,0,1,0,Completed,true,false,false
+AA013011,18 Jul 26,1,Coatesville Blue,Coatesville White,No. 3,Emily Kemp,Benjamin Vashchenko,Emily Kemp,6-2,6,2,1,0,Completed,true,false,false
+AA013011,18 Jul 26,1,Coatesville Blue,Coatesville White,No. 4,Zara O'Ryan,Aarush Jain,Aarush Jain,4-6,4,6,0,1,Completed,true,false,false
+AA013012,18 Jul 26,1,Clarinda,St James,No. 1,Heyan Patel,Alexander Kuzma,Alexander Kuzma,5-6,5,6,0,1,Completed,true,false,false
+AA013012,18 Jul 26,1,Clarinda,St James,No. 2,Athan Katsis,He Li,Athan Katsis,6-1,6,1,1,0,Completed,true,false,false
+AA013012,18 Jul 26,1,Clarinda,St James,No. 3,Kai Foo,Yuvein Iddamalgoda,Kai Foo,6-5,6,5,1,0,Completed,true,false,false
+AA013012,18 Jul 26,1,Clarinda,St James,No. 4,Ryan Garg,Xiao Li,Ryan Garg,6-3,6,3,1,0,Completed,true,false,false
+AA013013,18 Jul 26,1,St Pauls,St Joan of Arc,No. 1,Max Foster,Pia Hobart,Max Foster,6-2,6,2,1,0,Completed,true,false,false
+AA013013,18 Jul 26,1,St Pauls,St Joan of Arc,No. 2,William Van Dyke,Mia Blackwood,William Van Dyke,6-3,6,3,1,0,Completed,true,false,false
+AA013013,18 Jul 26,1,St Pauls,St Joan of Arc,No. 3,Zayn Soufan,Archie Chamberlain,Zayn Soufan,6-5,6,5,1,0,Completed,true,false,false
+AA013013,18 Jul 26,1,St Pauls,St Joan of Arc,No. 4,Hamish Hill,Pip Hassall,Hamish Hill,6-0,6,0,1,0,Completed,true,true,false
+AA013021,25 Jul 26,2,St Joan of Arc,Coatesville Blue,No. 1,Mia Blackwood,Vivica Surapaneni,Vivica Surapaneni,1-6,1,6,0,1,Completed,true,false,false
+AA013021,25 Jul 26,2,St Joan of Arc,Coatesville Blue,No. 2,Archie Chamberlain,Mya Lee,Mya Lee,3-6,3,6,0,1,Completed,true,false,false
+AA013021,25 Jul 26,2,St Joan of Arc,Coatesville Blue,No. 3,Felix Allsop,Emily Kemp,Felix Allsop,6-3,6,3,1,0,Completed,true,false,false
+AA013021,25 Jul 26,2,St Joan of Arc,Coatesville Blue,No. 4,Pip Hassall,Annalise Baratta,Annalise Baratta,4-6,4,6,0,1,Completed,true,false,false
+AA013022,25 Jul 26,2,St James,St Pauls,No. 1,He Li,Max Foster,Max Foster,0-6,0,6,0,1,Completed,true,false,false
+AA013022,25 Jul 26,2,St James,St Pauls,No. 2,Reuben Dangerfield,Auyush Saini,Auyush Saini,2-6,2,6,0,1,Completed,true,false,false
+AA013022,25 Jul 26,2,St James,St Pauls,No. 3,Yuvein Iddamalgoda,William Van Dyke,William Van Dyke,1-6,1,6,0,1,Completed,true,false,false
+AA013022,25 Jul 26,2,St James,St Pauls,No. 4,Xiao Li,Zayn Soufan,Zayn Soufan,5-6,5,6,0,1,Completed,true,false,false
+AA013023,25 Jul 26,2,Coatesville White,Clarinda,No. 1,Hari Damle,Heyan Patel,Hari Damle,6-3,6,3,1,0,Completed,true,false,false
+AA013023,25 Jul 26,2,Coatesville White,Clarinda,No. 2,Rohan Shukin,Athan Katsis,Athan Katsis,0-6,0,6,0,1,Completed,true,false,false
+AA013023,25 Jul 26,2,Coatesville White,Clarinda,No. 3,Rishi Suresh,Robbie Peeters,Robbie Peeters,4-6,4,6,0,1,Completed,true,false,false
+AA013023,25 Jul 26,2,Coatesville White,Clarinda,No. 4,Benjamin Vashchenko,Kai Foo,Kai Foo,0-6,0,6,0,1,Completed,true,false,false
+AA013031,01 Aug 26,3,Coatesville Blue,Clarinda,No. 1,Vivica Surapaneni,Heyan Patel,Vivica Surapaneni,6-5,6,5,1,0,Completed,true,false,false
+AA013031,01 Aug 26,3,Coatesville Blue,Clarinda,No. 2,Emily Kemp,Robbie Peeters,Emily Kemp,6-1,6,1,1,0,Completed,true,false,false
+AA013031,01 Aug 26,3,Coatesville Blue,Clarinda,No. 3,Zara O'Ryan,Kai Foo,Kai Foo,0-6,0,6,0,1,Completed,true,false,false
+AA013031,01 Aug 26,3,Coatesville Blue,Clarinda,No. 4,Annalise Baratta,Ryan Garg,Ryan Garg,0-6,0,6,0,1,Completed,true,false,false
+AA013032,01 Aug 26,3,St Pauls,Coatesville White,No. 1,Max Foster,Rishi Suresh,Max Foster,6-2,6,2,1,0,Completed,true,false,false
+AA013032,01 Aug 26,3,St Pauls,Coatesville White,No. 2,Auyush Saini,Rohan Shukin,Auyush Saini,6-3,6,3,1,0,Completed,true,false,false
+AA013032,01 Aug 26,3,St Pauls,Coatesville White,No. 3,William Van Dyke,Sumanth Baliga,William Van Dyke,6-0,6,0,1,0,Completed,true,false,false
+AA013032,01 Aug 26,3,St Pauls,Coatesville White,No. 4,Zayn Soufan,Aarush Jain,Zayn Soufan,6-4,6,4,1,0,Completed,true,false,false
+AA013033,01 Aug 26,3,St Joan of Arc,St James,No. 1,Pia Hobart,Alexander Kuzma,Alexander Kuzma,0-6,0,6,0,1,Completed,true,false,false
+AA013033,01 Aug 26,3,St Joan of Arc,St James,No. 2,Archie Chamberlain,He Li,Archie Chamberlain,6-4,6,4,1,0,Completed,true,false,false
+AA013033,01 Aug 26,3,St Joan of Arc,St James,No. 3,Felix Allsop,Yuvein Iddamalgoda,Felix Allsop,6-2,6,2,1,0,Completed,true,false,false
+AA013033,01 Aug 26,3,St Joan of Arc,St James,No. 4,Pip Hassall,Xiao Li,Xiao Li,5-6,5,6,0,1,Completed,true,false,false
+AA013041,08 Aug 26,4,St James,Coatesville Blue,No. 1,Alexander Kuzma,Vivica Surapaneni,Alexander Kuzma,6-3,6,3,1,0,Completed,true,false,false
+AA013041,08 Aug 26,4,St James,Coatesville Blue,No. 2,He Li,Mya Lee,He Li,6-3,6,3,1,0,Completed,true,false,false
+AA013041,08 Aug 26,4,St James,Coatesville Blue,No. 3,Reuben Dangerfield,Zara O'Ryan,Reuben Dangerfield,6-0,6,0,1,0,Completed,true,false,false
+AA013041,08 Aug 26,4,St James,Coatesville Blue,No. 4,Xiao Li,Annalise Baratta,Xiao Li,6-2,6,2,1,0,Completed,true,false,false
+AA013042,08 Aug 26,4,Coatesville White,St Joan of Arc,No. 1,Rishi Suresh,Pia Hobart,Rishi Suresh,6-3,6,3,1,0,Completed,true,false,false
+AA013042,08 Aug 26,4,Coatesville White,St Joan of Arc,No. 2,Hari Damle,Mia Blackwood,Hari Damle,6-5,6,5,1,0,Completed,true,false,false
+AA013042,08 Aug 26,4,Coatesville White,St Joan of Arc,No. 3,Benjamin Vashchenko,Archie Chamberlain,Benjamin Vashchenko,6-1,6,1,1,0,Completed,true,false,false
+AA013042,08 Aug 26,4,Coatesville White,St Joan of Arc,No. 4,Aarush Jain,Pip Hassall,Pip Hassall,1-6,1,6,0,1,Completed,true,false,false
+AA013043,08 Aug 26,4,Clarinda,St Pauls,No. 1,Heyan Patel,Max Foster,Max Foster,2-6,2,6,0,1,Completed,true,false,false
+AA013043,08 Aug 26,4,Clarinda,St Pauls,No. 2,Athan Katsis,Auyush Saini,Athan Katsis,6-3,6,3,1,0,Completed,true,false,false
+AA013043,08 Aug 26,4,Clarinda,St Pauls,No. 3,Robbie Peeters,William Van Dyke,William Van Dyke,0-6,0,6,0,1,Completed,true,false,false
+AA013043,08 Aug 26,4,Clarinda,St Pauls,No. 4,Ryan Garg,Zayn Soufan,Zayn Soufan,3-6,3,6,0,1,Completed,true,false,false
+AA013051,15 Aug 26,5,Coatesville Blue,St Pauls,No. 1,Mya Lee,Max Foster,Max Foster,4-6,4,6,0,1,Completed,true,false,false
+AA013051,15 Aug 26,5,Coatesville Blue,St Pauls,No. 2,Emily Kemp,Hamish Hill,Hamish Hill,1-6,1,6,0,1,Completed,true,false,true
+AA013051,15 Aug 26,5,Coatesville Blue,St Pauls,No. 3,Zara O'Ryan,William Van Dyke,William Van Dyke,0-6,0,6,0,1,Completed,true,false,false
+AA013051,15 Aug 26,5,Coatesville Blue,St Pauls,No. 4,Annalise Baratta,Zayn Soufan,Zayn Soufan,5-6,5,6,0,1,Completed,true,false,false
+AA013052,15 Aug 26,5,St James,Coatesville White,No. 1,Alexander Kuzma,Hari Damle,Alexander Kuzma,6-3,6,3,1,0,Completed,true,false,false
+AA013052,15 Aug 26,5,St James,Coatesville White,No. 2,Reuben Dangerfield,Aarush Jain,Reuben Dangerfield,6-4,6,4,1,0,Completed,true,false,false
+AA013052,15 Aug 26,5,St James,Coatesville White,No. 3,Yuvein Iddamalgoda,Sumanth Baliga,Yuvein Iddamalgoda,6-2,6,2,1,0,Completed,true,false,false
+AA013052,15 Aug 26,5,St James,Coatesville White,No. 4,Xiao Li,Rohan Shukin,Xiao Li,6-0,6,0,1,0,Completed,true,false,false
+AA013053,15 Aug 26,5,St Joan of Arc,Clarinda,No. 1,Ollie Chamberlain,Athan Katsis,Ollie Chamberlain,6-1,6,1,1,0,Completed,true,true,false
+AA013053,15 Aug 26,5,St Joan of Arc,Clarinda,No. 2,Felix Allsop,Robbie Peeters,Felix Allsop,6-1,6,1,1,0,Completed,true,false,false
+AA013053,15 Aug 26,5,St Joan of Arc,Clarinda,No. 3,Pip Hassall,Kai Foo,Kai Foo,1-6,1,6,0,1,Completed,true,false,false
+AA013053,15 Aug 26,5,St Joan of Arc,Clarinda,No. 4,Bror Boehm,Ryan Garg,Ryan Garg,1-6,1,6,0,1,Completed,true,true,false
+AA013061,22 Aug 26,6,Coatesville White,Coatesville Blue,No. 1,Rishi Suresh,Vivica Surapaneni,Vivica Surapaneni,5-6,5,6,0,1,Completed,true,false,false
+AA013061,22 Aug 26,6,Coatesville White,Coatesville Blue,No. 2,Hari Damle,Mya Lee,Hari Damle,6-2,6,2,1,0,Completed,true,false,false
+AA013061,22 Aug 26,6,Coatesville White,Coatesville Blue,No. 3,Rohan Shukin,Emily Kemp,Emily Kemp,1-6,1,6,0,1,Completed,true,false,false
+AA013061,22 Aug 26,6,Coatesville White,Coatesville Blue,No. 4,Aarush Jain,Zara O'Ryan,Aarush Jain,6-2,6,2,1,0,Completed,true,false,false
+AA013062,22 Aug 26,6,St James,Clarinda,No. 1,Alexander Kuzma,Heyan Patel,Alexander Kuzma,6-3,6,3,1,0,Completed,true,false,false
+AA013062,22 Aug 26,6,St James,Clarinda,No. 2,He Li,Athan Katsis,Athan Katsis,1-6,1,6,0,1,Completed,true,false,false
+AA013062,22 Aug 26,6,St James,Clarinda,No. 3,Reuben Dangerfield,Kai Foo,Kai Foo,2-6,2,6,0,1,Completed,true,false,false
+AA013062,22 Aug 26,6,St James,Clarinda,No. 4,Yuvein Iddamalgoda,Ryan Garg,Ryan Garg,1-6,1,6,0,1,Completed,true,false,false
+AA013063,22 Aug 26,6,St Joan of Arc,St Pauls,No. 1,Mia Blackwood,Max Foster,Max Foster,4-6,4,6,0,1,Completed,true,false,false
+AA013063,22 Aug 26,6,St Joan of Arc,St Pauls,No. 2,Archie Chamberlain,Auyush Saini,Auyush Saini,3-6,3,6,0,1,Completed,true,false,false
+AA013063,22 Aug 26,6,St Joan of Arc,St Pauls,No. 3,Felix Allsop,William Van Dyke,William Van Dyke,2-6,2,6,0,1,Completed,true,false,false
+AA013063,22 Aug 26,6,St Joan of Arc,St Pauls,No. 4,Pip Hassall,Zayn Soufan,Zayn Soufan,4-6,4,6,0,1,Completed,true,false,false
+AA013071,29 Aug 26,7,Coatesville Blue,St Joan of Arc,No. 1,Vivica Surapaneni,Pia Hobart,Pia Hobart,3-6,3,6,0,1,Completed,true,false,false
+AA013071,29 Aug 26,7,Coatesville Blue,St Joan of Arc,No. 2,Mya Lee,Archie Chamberlain,Mya Lee,6-0,6,0,1,0,Completed,true,false,false
+AA013071,29 Aug 26,7,Coatesville Blue,St Joan of Arc,No. 3,Emily Kemp,Pip Hassall,Emily Kemp,6-2,6,2,1,0,Completed,true,false,false
+AA013071,29 Aug 26,7,Coatesville Blue,St Joan of Arc,No. 4,Annalise Baratta,Bror Boehm,Bror Boehm,4-6,4,6,0,1,Completed,true,false,true
+AA013072,29 Aug 26,7,St Pauls,St James,No. 1,Auyush Saini,Reuben Dangerfield,Auyush Saini,6-2,6,2,1,0,Completed,true,false,false
+AA013072,29 Aug 26,7,St Pauls,St James,No. 2,William Van Dyke,Yuvein Iddamalgoda,William Van Dyke,6-1,6,1,1,0,Completed,true,false,false
+AA013072,29 Aug 26,7,St Pauls,St James,No. 3,Zayn Soufan,Xiao Li,Xiao Li,5-6,5,6,0,1,Completed,true,false,false
+AA013072,29 Aug 26,7,St Pauls,St James,No. 4,Archer Vasqueuz,Alex Sorokin,Alex Sorokin,5-6,5,6,0,1,Completed,true,false,true
+AA013073,29 Aug 26,7,Clarinda,Coatesville White,No. 1,Heyan Patel,Rishi Suresh,Rishi Suresh,2-6,2,6,0,1,Completed,true,false,false
+AA013073,29 Aug 26,7,Clarinda,Coatesville White,No. 2,Robbie Peeters,Hari Damle,Hari Damle,4-6,4,6,0,1,Completed,true,false,false
+AA013073,29 Aug 26,7,Clarinda,Coatesville White,No. 3,Kai Foo,Benjamin Vashchenko,Kai Foo,6-0,6,0,1,0,Completed,true,false,false
+AA013073,29 Aug 26,7,Clarinda,Coatesville White,No. 4,Ryan Garg,Aarush Jain,Ryan Garg,6-3,6,3,1,0,Completed,true,false,false
+AA013091,12 Sep 26,9,Coatesville Blue,St James,No. 1,Vivica Surapaneni,He Li,Vivica Surapaneni,6-1,6,1,1,0,Completed,true,false,false
+AA013091,12 Sep 26,9,Coatesville Blue,St James,No. 2,Mya Lee,Edward Foote,Mya Lee,6-1,6,1,1,0,Completed,true,false,false
+AA013091,12 Sep 26,9,Coatesville Blue,St James,No. 3,Emily Kemp,Yuvein Iddamalgoda,Yuvein Iddamalgoda,1-6,1,6,0,1,Completed,true,false,false
+AA013091,12 Sep 26,9,Coatesville Blue,St James,No. 4,Zara O'Ryan,Xiao Li,Xiao Li,0-6,0,6,0,1,Completed,true,false,false
+AA013092,12 Sep 26,9,St Joan of Arc,Coatesville White,No. 1,Ollie Chamberlain,Hari Damle,Ollie Chamberlain,6-4,6,4,1,0,Completed,true,true,false
+AA013092,12 Sep 26,9,St Joan of Arc,Coatesville White,No. 2,Archie Chamberlain,Rohan Shukin,Archie Chamberlain,6-4,6,4,1,0,Completed,true,false,false
+AA013092,12 Sep 26,9,St Joan of Arc,Coatesville White,No. 3,Felix Allsop,Sumanth Baliga,Felix Allsop,6-1,6,1,1,0,Completed,true,false,false
+AA013092,12 Sep 26,9,St Joan of Arc,Coatesville White,No. 4,Bror Boehm,Benjamin Vashchenko,Bror Boehm,6-3,6,3,1,0,Completed,true,true,false
+AA013093,12 Sep 26,9,St Pauls,Clarinda,No. 1,Max Foster,Heyan Patel,Max Foster,6-1,6,1,1,0,Completed,true,false,false
+AA013093,12 Sep 26,9,St Pauls,Clarinda,No. 2,Auyush Saini,Robbie Peeters,Auyush Saini,6-2,6,2,1,0,Completed,true,false,false
+AA013093,12 Sep 26,9,St Pauls,Clarinda,No. 3,Archer Vasqueuz,Kai Foo,Kai Foo,2-6,2,6,0,1,Completed,true,false,false
+AA013093,12 Sep 26,9,St Pauls,Clarinda,No. 4,Zayn Soufan,Ryan Garg,Ryan Garg,2-6,2,6,0,1,Completed,true,false,false

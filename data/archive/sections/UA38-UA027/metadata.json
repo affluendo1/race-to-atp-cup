@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA38-UA027",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2026",
+  "season_id": "UA38",
+  "season_label": "Autumn 2026",
+  "source_section_code": "UA027",
+  "section_label": "Sets 2 Green Ball",
+  "format": "sets",
+  "green_ball": true,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Lauriston",
+      "wins": 11,
+      "points": 104,
+      "percentage": 148.97,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Pats Mentone",
+      "wins": 10,
+      "points": 99,
+      "percentage": 137.73,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Mentone",
+      "wins": 8,
+      "points": 92,
+      "percentage": 139.76,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Royal South Yarra Gold",
+      "wins": 7,
+      "points": 79,
+      "percentage": 125.32,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal South Yarra Blue",
+      "wins": 5,
+      "points": 60.5,
+      "percentage": 87.86,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St Joan of Arc",
+      "wins": 5,
+      "points": 58.5,
+      "percentage": 95.74,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kings Park",
+      "wins": 3,
+      "points": 51,
+      "percentage": 74.25,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 16,
+      "percentage": 40.0,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA38-UA027",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 45,
+  "singles_rubbers": 207,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA027301"
+  ]
+}

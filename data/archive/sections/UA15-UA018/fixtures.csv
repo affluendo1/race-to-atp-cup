@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA018011,20 Jul 14,1,regular,Round 1,Beaumaris CC,Coatesville 2,9,1,5,1,,,30,16,Completed,
+UA018012,20 Jul 14,1,regular,Round 1,GPHC 1,GPHC 2,8,2,4,2,,,25,22,Completed,
+UA018013,20 Jul 14,1,regular,Round 1,Coatesville 1,Kooyong Xavier,8,2,4,2,,,30,17,Completed,
+UA018014,20 Jul 14,1,regular,Round 1,St Joan of Arc,Aspendale,1,9,1,5,,,14,33,Completed,
+UA018021,27 Jul 14,2,regular,Round 2,Aspendale,Beaumaris CC,0,10,0,6,,,17,36,Completed,
+UA018022,27 Jul 14,2,regular,Round 2,Coatesville 2,GPHC 1,8,2,4,2,,,27,14,Completed,
+UA018023,27 Jul 14,2,regular,Round 2,GPHC 2,Coatesville 1,7,3,3,3,,,26,23,Completed,
+UA018024,27 Jul 14,2,regular,Round 2,Kooyong Xavier,St Joan of Arc,8,2,4,2,,,27,16,Completed,
+UA018031,03 Aug 14,3,regular,Round 3,Beaumaris CC,Kooyong Xavier,10,0,6,0,,,36,12,Completed,
+UA018032,03 Aug 14,3,regular,Round 3,GPHC 1,Aspendale,3,7,3,3,,,24,31,Completed,
+UA018033,03 Aug 14,3,regular,Round 3,Coatesville 1,Coatesville 2,1,9,1,5,,,15,32,Completed,
+pending-ua018-r3-st-joan-of-arc-gphc-2,03 Aug 14,3,regular,Round 3,St Joan of Arc,GPHC 2,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA018041,10 Aug 14,4,regular,Round 4,GPHC 2,Beaumaris CC,8,2,4,2,,,29,22,Completed,
+UA018042,10 Aug 14,4,regular,Round 4,Kooyong Xavier,GPHC 1,7,3,3,3,,,25,21,Completed,
+pending-ua018-r4-aspendale-coatesville-1,10 Aug 14,4,regular,Round 4,Aspendale,Coatesville 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua018-r4-coatesville-2-st-joan-of-arc,10 Aug 14,4,regular,Round 4,Coatesville 2,St Joan of Arc,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA018051,17 Aug 14,5,regular,Round 5,Coatesville 1,St Joan of Arc,8,2,4,2,,,32,22,Completed,
+UA018052,17 Aug 14,5,regular,Round 5,Aspendale,Kooyong Xavier,10,0,6,0,,,37,13,Completed,
+UA018053,17 Aug 14,5,regular,Round 5,GPHC 2,Coatesville 2,7,3,3,3,,,30,28,Completed,
+UA018054,17 Aug 14,5,regular,Round 5,Beaumaris CC,GPHC 1,10,0,6,0,,,37,17,Completed,
+UA018061,24 Aug 14,6,regular,Round 6,GPHC 1,Coatesville 1,3,7,3,3,,,23,28,Completed,
+UA018062,24 Aug 14,6,regular,Round 6,St Joan of Arc,Beaumaris CC,1,9,1,5,,,14,34,Completed,
+UA018063,24 Aug 14,6,regular,Round 6,Kooyong Xavier,GPHC 2,0,10,0,6,,,11,36,Completed,
+UA018064,24 Aug 14,6,regular,Round 6,Coatesville 2,Aspendale,1,9,1,5,,,17,32,Completed,
+UA018071,31 Aug 14,7,regular,Round 7,Beaumaris CC,Coatesville 1,8,2,4,2,,,27,17,Completed,
+UA018072,31 Aug 14,7,regular,Round 7,GPHC 1,St Joan of Arc,9,1,5,1,,,34,17,Completed,
+UA018073,31 Aug 14,7,regular,Round 7,Aspendale,GPHC 2,9,1,5,1,,,32,22,Completed,
+UA018074,31 Aug 14,7,regular,Round 7,Kooyong Xavier,Coatesville 2,1,9,1,5,,,18,35,Completed,
+UA018081,07 Sep 14,8,regular,Round 8,Coatesville 2,Beaumaris CC,3,7,3,3,,,23,28,Completed,
+UA018082,07 Sep 14,8,regular,Round 8,GPHC 2,GPHC 1,3,7,3,3,,,24,25,Completed,
+UA018083,07 Sep 14,8,regular,Round 8,Kooyong Xavier,Coatesville 1,1,9,1,5,,,23,36,Completed,
+UA018084,07 Sep 14,8,regular,Round 8,Aspendale,St Joan of Arc,10,0,6,0,,,36,10,Completed,
+UA018091,14 Sep 14,9,regular,Round 9,Beaumaris CC,Aspendale,2,8,2,4,,,20,27,Completed,
+UA018092,14 Sep 14,9,regular,Round 9,GPHC 1,Coatesville 2,8,2,4,2,,,29,18,Completed,
+UA018093,14 Sep 14,9,regular,Round 9,Coatesville 1,GPHC 2,3,7,3,3,,,27,31,Completed,
+UA018094,14 Sep 14,9,regular,Round 9,St Joan of Arc,Kooyong Xavier,9,1,5,1,,,34,22,Completed,
+UA018101,12 Oct 14,10,regular,Round 10,Kooyong Xavier,Beaumaris CC,2,8,2,4,,,20,30,Completed,
+UA018102,12 Oct 14,10,regular,Round 10,Aspendale,GPHC 1,10,0,6,0,,,37,11,Completed,
+UA018103,12 Oct 14,10,regular,Round 10,Coatesville 2,Coatesville 1,2,8,2,4,,,28,28,Completed,
+UA018104,12 Oct 14,10,regular,Round 10,GPHC 2,St Joan of Arc,2,8,2,4,,,24,31,Completed,
+UA018112,19 Oct 14,11,regular,Round 11,GPHC 1,Kooyong Xavier,8,2,4,2,,,24,19,Completed,
+UA018113,19 Oct 14,11,regular,Round 11,Coatesville 1,Aspendale,2,8,2,4,,,28,36,Completed,
+UA018114,19 Oct 14,11,regular,Round 11,St Joan of Arc,Coatesville 2,1,9,1,5,,,20,35,Completed,
+pending-ua018-r11-beaumaris-cc-gphc-2,19 Oct 14,11,regular,Round 11,Beaumaris CC,GPHC 2,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA018121,26 Oct 14,12,regular,Round 12,St Joan of Arc,Coatesville 1,1,9,1,5,,,19,33,Completed,
+UA018122,26 Oct 14,12,regular,Round 12,Kooyong Xavier,Aspendale,1,9,1,5,,,13,32,Completed,
+UA018123,26 Oct 14,12,regular,Round 12,Coatesville 2,GPHC 2,1,9,1,5,,,13,32,Completed,
+pending-ua018-r12-gphc-1-beaumaris-cc,26 Oct 14,12,regular,Round 12,GPHC 1,Beaumaris CC,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA018131,09 Nov 14,13,regular,Round 13,Coatesville 1,GPHC 1,2,8,2,4,,,20,29,Completed,
+UA018132,09 Nov 14,13,regular,Round 13,Beaumaris CC,St Joan of Arc,9,1,5,1,,,34,6,Completed,
+UA018134,09 Nov 14,13,regular,Round 13,Aspendale,Coatesville 2,8,2,4,2,,,30,17,Completed,
+pending-ua018-r13-gphc-2-kooyong-xavier,09 Nov 14,13,regular,Round 13,GPHC 2,Kooyong Xavier,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+pending-ua018-r14-coatesville-1-beaumaris-cc,16 Nov 14,14,regular,Round 14,Coatesville 1,Beaumaris CC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua018-r14-coatesville-2-kooyong-xavier,16 Nov 14,14,regular,Round 14,Coatesville 2,Kooyong Xavier,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua018-r14-gphc-2-aspendale,16 Nov 14,14,regular,Round 14,GPHC 2,Aspendale,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua018-r14-st-joan-of-arc-gphc-1,16 Nov 14,14,regular,Round 14,St Joan of Arc,GPHC 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA018301,,16,semi_final,Semi-final,Aspendale,Coatesville 1,8,2,4,2,,,32,20,Completed,
+UA018302,,16,semi_final,Semi-final,Beaumaris CC,GPHC 1,3,7,3,3,,,25,26,Completed,
+UA018321,,17,grand_final,Grand final · TROLS entry 2,Aspendale,GPHC 1,9,1,5,1,,,33,21,Completed,

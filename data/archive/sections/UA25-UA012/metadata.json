@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA25-UA012",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2019",
+  "season_id": "UA25",
+  "season_label": "Spring 2019",
+  "source_section_code": "UA012",
+  "section_label": "Section 12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Highett",
+      "wins": 13,
+      "points": 127,
+      "percentage": 247.83,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Dendy Park",
+      "wins": 8,
+      "points": 79,
+      "percentage": 106.8,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Royal South Yarra",
+      "wins": 7,
+      "points": 77,
+      "percentage": 99.41,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Black Rock",
+      "wins": 7,
+      "points": 68,
+      "percentage": 81.25,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Hurlingham Park",
+      "wins": 4,
+      "points": 62,
+      "percentage": 99.72,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong Scotch",
+      "wins": 4,
+      "points": 55,
+      "percentage": 85.26,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Caulfield Rec",
+      "wins": 2,
+      "points": 47,
+      "percentage": 84.27,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC",
+      "wins": 3,
+      "points": 45,
+      "percentage": 68.1,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA25-UA012",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 45,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

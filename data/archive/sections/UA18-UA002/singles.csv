@@ -1,0 +1,213 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA002011,31 Jan 16,1,Parkdale,Mordialloc,No. 1,Sean Enright,Samisdh Siva-Ram,Samisdh Siva-Ram,5-7,5,7,0,1,Completed,true,false,false
+UA002011,31 Jan 16,1,Parkdale,Mordialloc,No. 2,Luke Shi,Kartik Sehgal,Kartik Sehgal,3-6,3,6,0,1,Completed,true,false,false
+UA002011,31 Jan 16,1,Parkdale,Mordialloc,No. 3,James Comben,Mitchell Standfield,Mitchell Standfield,0-6,0,6,0,1,Completed,true,false,false
+UA002011,31 Jan 16,1,Parkdale,Mordialloc,No. 4,Jeremy Gonis,Kunal Sehgal,Jeremy Gonis,7-6,7,6,1,0,Completed,true,false,false
+UA002012,31 Jan 16,1,GPHC,Coatesville,No. 1,Charlie Zagon-Davies,Gabi Basman,Gabi Basman,6-7,6,7,0,1,Completed,true,false,false
+UA002012,31 Jan 16,1,GPHC,Coatesville,No. 2,Oliver McIntosh,Daniel Gershezan,Daniel Gershezan,1-6,1,6,0,1,Completed,true,false,false
+UA002012,31 Jan 16,1,GPHC,Coatesville,No. 3,Simon Tarrant,Adrian Mitsel,Simon Tarrant,7-6,7,6,1,0,Completed,true,false,false
+UA002012,31 Jan 16,1,GPHC,Coatesville,No. 4,Oliver Tehan,Bayden Hill,Oliver Tehan,6-4,6,4,1,0,Completed,true,false,false
+UA002013,31 Jan 16,1,Kings Park,Hampton,No. 1,Hamish Styring,Callen Neasmith,Hamish Styring,6-1,6,1,1,0,Completed,true,false,false
+UA002013,31 Jan 16,1,Kings Park,Hampton,No. 2,Tait Pascoe,Ollie Evans,Tait Pascoe,6-2,6,2,1,0,Completed,true,false,false
+UA002013,31 Jan 16,1,Kings Park,Hampton,No. 3,Stephanie McLachlan,Fletcher Pullen,Stephanie McLachlan,6-0,6,0,1,0,Completed,true,false,false
+UA002013,31 Jan 16,1,Kings Park,Hampton,No. 4,Oscar Eden,Sean Howey,Oscar Eden,6-1,6,1,1,0,Completed,true,false,false
+UA002014,31 Jan 16,1,Royal Ave,Glen Eira Brook,No. 1,Ethan Holden,Adam Pierias,Ethan Holden,6-3,6,3,1,0,Completed,true,false,false
+UA002014,31 Jan 16,1,Royal Ave,Glen Eira Brook,No. 2,Cole Rooney,Evan Best,Cole Rooney,6-4,6,4,1,0,Completed,true,false,false
+UA002014,31 Jan 16,1,Royal Ave,Glen Eira Brook,No. 3,Nate Hollis,Jared Want,Nate Hollis,6-2,6,2,1,0,Completed,true,false,false
+UA002014,31 Jan 16,1,Royal Ave,Glen Eira Brook,No. 4,Justin Alway,Jedd Zetzer,Justin Alway,6-0,6,0,1,0,Completed,true,false,false
+UA002021,07 Feb 16,2,Glen Eira Brook,Parkdale,No. 1,Adam Pierias,Sean Enright,Adam Pierias,6-2,6,2,1,0,Completed,true,false,false
+UA002021,07 Feb 16,2,Glen Eira Brook,Parkdale,No. 2,Evan Best,Luke Shi,Luke Shi,6-7,6,7,0,1,Completed,true,false,false
+UA002021,07 Feb 16,2,Glen Eira Brook,Parkdale,No. 3,Jared Want,James Comben,Jared Want,6-2,6,2,1,0,Completed,true,false,false
+UA002021,07 Feb 16,2,Glen Eira Brook,Parkdale,No. 4,Jameson Clarke,Jeremy Gonis,Jeremy Gonis,3-6,3,6,0,1,Completed,true,false,false
+UA002022,07 Feb 16,2,Mordialloc,GPHC,No. 1,Samisdh Siva-Ram,Charlie Zagon-Davies,Charlie Zagon-Davies,1-6,1,6,0,1,Completed,true,false,false
+UA002022,07 Feb 16,2,Mordialloc,GPHC,No. 2,Kartik Sehgal,Oliver McIntosh,Oliver McIntosh,2-6,2,6,0,1,Completed,true,false,false
+UA002022,07 Feb 16,2,Mordialloc,GPHC,No. 3,Kunal Sehgal,Simon Tarrant,Kunal Sehgal,6-4,6,4,1,0,Completed,true,false,false
+UA002022,07 Feb 16,2,Mordialloc,GPHC,No. 4,Lachlan Jones,Oliver Tehan,Oliver Tehan,0-6,0,6,0,1,Completed,true,false,false
+UA002023,07 Feb 16,2,Coatesville,Kings Park,No. 1,Jonathoan Bong,Hamish Styring,Hamish Styring,3-6,3,6,0,1,Completed,true,false,false
+UA002023,07 Feb 16,2,Coatesville,Kings Park,No. 2,Gabi Basman,Chloe Green,Chloe Green,1-6,1,6,0,1,Completed,true,false,false
+UA002023,07 Feb 16,2,Coatesville,Kings Park,No. 3,Daniel Gershezan,Tait Pascoe,Tait Pascoe,1-6,1,6,0,1,Completed,true,false,false
+UA002023,07 Feb 16,2,Coatesville,Kings Park,No. 4,Adrian Mitsel,Sienna Di Natale,Sienna Di Natale,0-6,0,6,0,1,Completed,true,false,false
+UA002024,07 Feb 16,2,Hampton,Royal Ave,No. 1,Ollie Evans,Cole Rooney,Cole Rooney,2-6,2,6,0,1,Completed,true,false,false
+UA002024,07 Feb 16,2,Hampton,Royal Ave,No. 2,Sean Howey,Gabi Zafrin,Gabi Zafrin,1-6,1,6,0,1,Completed,true,false,false
+UA002024,07 Feb 16,2,Hampton,Royal Ave,No. 3,Curtis Neasmith,Nate Hollis,Nate Hollis,5-7,5,7,0,1,Completed,true,false,false
+UA002024,07 Feb 16,2,Hampton,Royal Ave,No. 4,Majella Howey,Wen Rui Wong,Wen Rui Wong,6-7,6,7,0,1,Completed,true,false,false
+UA002031,14 Feb 16,3,Parkdale,Hampton,No. 1,Sean Enright,Callen Neasmith,Callen Neasmith,5-7,5,7,0,1,Completed,true,false,false
+UA002031,14 Feb 16,3,Parkdale,Hampton,No. 2,Luke Shi,Fletcher Pullen,Luke Shi,6-4,6,4,1,0,Completed,true,false,false
+UA002031,14 Feb 16,3,Parkdale,Hampton,No. 3,James Comben,Curtis Neasmith,James Comben,6-4,6,4,1,0,Completed,true,false,false
+UA002031,14 Feb 16,3,Parkdale,Hampton,No. 4,Jeremy Gonis,Majella Howey,Jeremy Gonis,6-3,6,3,1,0,Completed,true,false,false
+UA002032,14 Feb 16,3,GPHC,Glen Eira Brook,No. 1,Charlie Zagon-Davies,Adam Pierias,Adam Pierias,2-6,2,6,0,1,Completed,true,false,false
+UA002032,14 Feb 16,3,GPHC,Glen Eira Brook,No. 2,Oliver McIntosh,Evan Best,Oliver McIntosh,7-5,7,5,1,0,Completed,true,false,false
+UA002032,14 Feb 16,3,GPHC,Glen Eira Brook,No. 3,Simon Tarrant,Jedd Zetzer,Simon Tarrant,6-1,6,1,1,0,Completed,true,false,false
+UA002032,14 Feb 16,3,GPHC,Glen Eira Brook,No. 4,Alec Gaudin,Jameson Clarke,Alec Gaudin,6-0,6,0,1,0,Completed,true,false,false
+UA002033,14 Feb 16,3,Kings Park,Mordialloc,No. 1,Hamish Styring,Kartik Sehgal,Hamish Styring,6-3,6,3,1,0,Completed,true,false,false
+UA002033,14 Feb 16,3,Kings Park,Mordialloc,No. 2,Tait Pascoe,Mitchell Standfield,Tait Pascoe,6-0,6,0,1,0,Completed,true,false,false
+UA002033,14 Feb 16,3,Kings Park,Mordialloc,No. 3,Oscar Eden,Kunal Sehgal,Oscar Eden,6-1,6,1,1,0,Completed,true,false,false
+UA002033,14 Feb 16,3,Kings Park,Mordialloc,No. 4,Sienna Di Natale,Aryon Raghav,Sienna Di Natale,6-0,6,0,1,0,Completed,true,false,false
+UA002034,14 Feb 16,3,Royal Ave,Coatesville,No. 1,Ethan Holden,Jonathoan Bong,Ethan Holden,6-0,6,0,1,0,Completed,true,false,false
+UA002034,14 Feb 16,3,Royal Ave,Coatesville,No. 2,Gabi Zafrin,Gabi Basman,Gabi Zafrin,7-5,7,5,1,0,Completed,true,false,false
+UA002034,14 Feb 16,3,Royal Ave,Coatesville,No. 3,Justin Alway,Daniel Gershezan,Daniel Gershezan,6-7,6,7,0,1,Completed,true,false,false
+UA002034,14 Feb 16,3,Royal Ave,Coatesville,No. 4,Wen Rui Wong,Adrian Mitsel,Adrian Mitsel,5-7,5,7,0,1,Completed,true,false,false
+UA002041,21 Feb 16,4,Coatesville,Parkdale,No. 1,Jonathoan Bong,Luke Shi,Jonathoan Bong,6-4,6,4,1,0,Completed,true,false,false
+UA002041,21 Feb 16,4,Coatesville,Parkdale,No. 2,Gabi Basman,James Comben,Gabi Basman,7-6,7,6,1,0,Completed,true,false,false
+UA002041,21 Feb 16,4,Coatesville,Parkdale,No. 3,Adrian Mitsel,Jeremy Gonis,Adrian Mitsel,7-6,7,6,1,0,Completed,true,false,false
+UA002041,21 Feb 16,4,Coatesville,Parkdale,No. 4,Alexander Fell,[Unnamed player — TROLS UA002041 away code 4],Alexander Fell,6-0,6,0,1,0,Completed,false,false,false
+UA002042,21 Feb 16,4,Hampton,GPHC,No. 1,Callen Neasmith,Charlie Zagon-Davies,Callen Neasmith,6-1,6,1,1,0,Completed,true,false,false
+UA002042,21 Feb 16,4,Hampton,GPHC,No. 2,Ollie Evans,Simon Tarrant,Ollie Evans,6-3,6,3,1,0,Completed,true,false,false
+UA002042,21 Feb 16,4,Hampton,GPHC,No. 3,Fletcher Pullen,Oliver Tehan,Oliver Tehan,3-6,3,6,0,1,Completed,true,false,false
+UA002042,21 Feb 16,4,Hampton,GPHC,No. 4,Sean Howey,Alec Gaudin,Sean Howey,6-0,6,0,1,0,Completed,true,false,false
+UA002043,21 Feb 16,4,Glen Eira Brook,Kings Park,No. 1,Adam Pierias,Hamish Styring,Hamish Styring,5-7,5,7,0,1,Completed,true,false,false
+UA002043,21 Feb 16,4,Glen Eira Brook,Kings Park,No. 2,Jared Want,Tait Pascoe,Tait Pascoe,2-6,2,6,0,1,Completed,true,false,false
+UA002043,21 Feb 16,4,Glen Eira Brook,Kings Park,No. 3,Jedd Zetzer,Stephanie McLachlan,Stephanie McLachlan,0-6,0,6,0,1,Completed,true,false,false
+UA002043,21 Feb 16,4,Glen Eira Brook,Kings Park,No. 4,Jameson Clarke,Oscar Eden,Oscar Eden,2-6,2,6,0,1,Completed,true,false,false
+UA002044,21 Feb 16,4,Mordialloc,Royal Ave,No. 1,Samisdh Siva-Ram,Ethan Holden,Ethan Holden,2-6,2,6,0,1,Completed,true,false,false
+UA002044,21 Feb 16,4,Mordialloc,Royal Ave,No. 2,Mitchell Standfield,Cole Rooney,Cole Rooney,0-6,0,6,0,1,Completed,true,false,false
+UA002044,21 Feb 16,4,Mordialloc,Royal Ave,No. 3,Lachlan Jones,Nate Hollis,Lachlan Jones,6-2,6,2,1,0,Completed,true,false,false
+UA002044,21 Feb 16,4,Mordialloc,Royal Ave,No. 4,Aryon Raghav,Wen Rui Wong,Aryon Raghav,6-3,6,3,1,0,Completed,true,false,false
+UA002051,28 Feb 16,5,Kings Park,Royal Ave,No. 1,Chloe Green,Ethan Holden,Chloe Green,6-2,6,2,1,0,Completed,true,false,false
+UA002051,28 Feb 16,5,Kings Park,Royal Ave,No. 2,Tait Pascoe,Cole Rooney,Tait Pascoe,6-3,6,3,1,0,Completed,true,false,false
+UA002051,28 Feb 16,5,Kings Park,Royal Ave,No. 3,Ryoku Nishikawa,Nate Hollis,Ryoku Nishikawa,6-0,6,0,1,0,Completed,true,false,false
+UA002051,28 Feb 16,5,Kings Park,Royal Ave,No. 4,Sienna Di Natale,Justin Alway,Sienna Di Natale,6-3,6,3,1,0,Completed,true,false,false
+UA002052,28 Feb 16,5,Glen Eira Brook,Hampton,No. 1,Evan Best,Ollie Evans,Evan Best,6-2,6,2,1,0,Completed,true,false,false
+UA002052,28 Feb 16,5,Glen Eira Brook,Hampton,No. 2,Jared Want,Fletcher Pullen,Fletcher Pullen,5-7,5,7,0,1,Completed,true,false,false
+UA002052,28 Feb 16,5,Glen Eira Brook,Hampton,No. 3,Jedd Zetzer,Curtis Neasmith,Jedd Zetzer,6-0,6,0,1,0,Completed,true,false,false
+UA002052,28 Feb 16,5,Glen Eira Brook,Hampton,No. 4,Jameson Clarke,Sean Howey,Jameson Clarke,6-0,6,0,1,0,Completed,true,false,false
+UA002053,28 Feb 16,5,Coatesville,Mordialloc,No. 1,Jonathoan Bong,Samisdh Siva-Ram,Samisdh Siva-Ram,2-6,2,6,0,1,Completed,true,false,false
+UA002053,28 Feb 16,5,Coatesville,Mordialloc,No. 2,Gabi Basman,Kartik Sehgal,Kartik Sehgal,2-6,2,6,0,1,Completed,true,false,false
+UA002053,28 Feb 16,5,Coatesville,Mordialloc,No. 3,Daniel Gershezan,Kunal Sehgal,Kunal Sehgal,1-6,1,6,0,1,Completed,true,false,false
+UA002053,28 Feb 16,5,Coatesville,Mordialloc,No. 4,Adrian Mitsel,Lachlan Jones,Adrian Mitsel,6-0,6,0,1,0,Completed,true,false,false
+UA002054,28 Feb 16,5,Parkdale,GPHC,No. 1,Sean Enright,Charlie Zagon-Davies,Charlie Zagon-Davies,5-7,5,7,0,1,Completed,true,false,false
+UA002054,28 Feb 16,5,Parkdale,GPHC,No. 2,Luke Shi,Oliver McIntosh,Oliver McIntosh,5-7,5,7,0,1,Completed,true,false,false
+UA002054,28 Feb 16,5,Parkdale,GPHC,No. 3,James Comben,Simon Tarrant,James Comben,6-4,6,4,1,0,Completed,true,false,false
+UA002054,28 Feb 16,5,Parkdale,GPHC,No. 4,Jeremy Gonis,Oliver Tehan,Oliver Tehan,3-6,3,6,0,1,Completed,true,false,false
+UA002061,06 Mar 16,6,GPHC,Kings Park,No. 1,Charlie Zagon-Davies,Chloe Green,Chloe Green,3-6,3,6,0,1,Completed,true,false,false
+UA002061,06 Mar 16,6,GPHC,Kings Park,No. 2,Simon Tarrant,Tait Pascoe,Tait Pascoe,0-6,0,6,0,1,Completed,true,false,false
+UA002061,06 Mar 16,6,GPHC,Kings Park,No. 3,Alec Gaudin,Stephanie McLachlan,Alec Gaudin,6-4,6,4,1,0,Completed,true,false,false
+UA002061,06 Mar 16,6,GPHC,Kings Park,No. 4,Oliver Tehan,Sasha Djurovic,Oliver Tehan,6-2,6,2,1,0,Completed,true,false,false
+UA002062,06 Mar 16,6,Royal Ave,Parkdale,No. 1,Ethan Holden,Tyler Bradley,Tyler Bradley,1-6,1,6,0,1,Completed,true,false,false
+UA002062,06 Mar 16,6,Royal Ave,Parkdale,No. 2,Cole Rooney,Sean Enright,Cole Rooney,6-0,6,0,1,0,Completed,true,false,false
+UA002062,06 Mar 16,6,Royal Ave,Parkdale,No. 3,Gabi Zafrin,James Comben,Gabi Zafrin,6-2,6,2,1,0,Completed,true,false,false
+UA002062,06 Mar 16,6,Royal Ave,Parkdale,No. 4,Justin Alway,Jeremy Gonis,Justin Alway,6-1,6,1,1,0,Completed,true,false,false
+UA002063,06 Mar 16,6,Hampton,Coatesville,No. 1,Callen Neasmith,Jonathoan Bong,Callen Neasmith,6-2,6,2,1,0,Completed,true,false,false
+UA002063,06 Mar 16,6,Hampton,Coatesville,No. 2,Ollie Evans,Gabi Basman,Ollie Evans,7-5,7,5,1,0,Completed,true,false,false
+UA002063,06 Mar 16,6,Hampton,Coatesville,No. 3,Sean Howey,Daniel Gershezan,Daniel Gershezan,4-6,4,6,0,1,Completed,true,false,false
+UA002063,06 Mar 16,6,Hampton,Coatesville,No. 4,Majella Howey,Adrian Mitsel,Adrian Mitsel,2-6,2,6,0,1,Completed,true,false,false
+UA002064,06 Mar 16,6,Mordialloc,Glen Eira Brook,No. 1,Kartik Sehgal,Adam Pierias,Adam Pierias,1-6,1,6,0,1,Completed,true,false,false
+UA002064,06 Mar 16,6,Mordialloc,Glen Eira Brook,No. 2,Mitchell Standfield,Evan Best,Mitchell Standfield,7-6,7,6,1,0,Completed,true,false,false
+UA002064,06 Mar 16,6,Mordialloc,Glen Eira Brook,No. 3,Kunal Sehgal,Jared Want,Kunal Sehgal,6-3,6,3,1,0,Completed,true,false,false
+UA002064,06 Mar 16,6,Mordialloc,Glen Eira Brook,No. 4,Aryon Raghav,Jameson Clarke,Aryon Raghav,6-3,6,3,1,0,Completed,true,false,false
+UA002071,20 Mar 16,7,Parkdale,Kings Park,No. 1,Sean Enright,Hamish Styring,Sean Enright,6-1,6,1,1,0,Completed,true,false,false
+UA002071,20 Mar 16,7,Parkdale,Kings Park,No. 2,Luke Shi,Chloe Green,Luke Shi,7-6,7,6,1,0,Completed,true,false,false
+UA002071,20 Mar 16,7,Parkdale,Kings Park,No. 3,James Comben,Stephanie McLachlan,Stephanie McLachlan,4-6,4,6,0,1,Completed,true,false,false
+UA002071,20 Mar 16,7,Parkdale,Kings Park,No. 4,Jeremy Gonis,Chloe Stewart,Jeremy Gonis,6-1,6,1,1,0,Completed,true,false,false
+UA002072,20 Mar 16,7,GPHC,Royal Ave,No. 1,Oliver McIntosh,[Unnamed player — TROLS UA002072 away code 1],[Unnamed player — TROLS UA002072 away code 1],2-6,2,6,0,1,Completed,false,false,false
+UA002072,20 Mar 16,7,GPHC,Royal Ave,No. 2,Simon Tarrant,[Unnamed player — TROLS UA002072 away code 2],[Unnamed player — TROLS UA002072 away code 2],3-6,3,6,0,1,Completed,false,false,false
+UA002072,20 Mar 16,7,GPHC,Royal Ave,No. 3,Oliver Tehan,[Unnamed player — TROLS UA002072 away code 3],Oliver Tehan,6-1,6,1,1,0,Completed,false,false,false
+UA002072,20 Mar 16,7,GPHC,Royal Ave,No. 4,Ethan Amalfi,[Unnamed player — TROLS UA002072 away code 4],[Unnamed player — TROLS UA002072 away code 4],1-6,1,6,0,1,Completed,false,false,false
+UA002073,20 Mar 16,7,Glen Eira Brook,Coatesville,No. 1,Adam Pierias,Jonathoan Bong,Adam Pierias,6-1,6,1,1,0,Completed,true,false,false
+UA002073,20 Mar 16,7,Glen Eira Brook,Coatesville,No. 2,Evan Best,Gabi Basman,Gabi Basman,5-7,5,7,0,1,Completed,true,false,false
+UA002073,20 Mar 16,7,Glen Eira Brook,Coatesville,No. 3,Jared Want,Daniel Gershezan,Daniel Gershezan,2-6,2,6,0,1,Completed,true,false,false
+UA002073,20 Mar 16,7,Glen Eira Brook,Coatesville,No. 4,Jameson Clarke,Adrian Mitsel,Jameson Clarke,6-3,6,3,1,0,Completed,true,false,false
+UA002074,20 Mar 16,7,Hampton,Mordialloc,No. 1,Callen Neasmith,Samisdh Siva-Ram,Callen Neasmith,6-3,6,3,1,0,Completed,true,false,false
+UA002074,20 Mar 16,7,Hampton,Mordialloc,No. 2,Ollie Evans,Mitchell Standfield,Ollie Evans,6-3,6,3,1,0,Completed,true,false,false
+UA002074,20 Mar 16,7,Hampton,Mordialloc,No. 3,Fletcher Pullen,Lachlan Jones,Fletcher Pullen,6-3,6,3,1,0,Completed,true,false,false
+UA002074,20 Mar 16,7,Hampton,Mordialloc,No. 4,Curtis Neasmith,Aryon Raghav,Curtis Neasmith,6-3,6,3,1,0,Completed,true,false,false
+UA002081,17 Apr 16,8,Mordialloc,Parkdale,No. 1,Samisdh Siva-Ram,Sean Enright,Samisdh Siva-Ram,7-5,7,5,1,0,Completed,true,false,false
+UA002081,17 Apr 16,8,Mordialloc,Parkdale,No. 2,Mitchell Standfield,Luke Shi,Mitchell Standfield,7-5,7,5,1,0,Completed,true,false,false
+UA002081,17 Apr 16,8,Mordialloc,Parkdale,No. 3,Kunal Sehgal,James Comben,James Comben,0-6,0,6,0,1,Completed,true,false,false
+UA002081,17 Apr 16,8,Mordialloc,Parkdale,No. 4,Lachlan Jones,Jeremy Gonis,Lachlan Jones,6-4,6,4,1,0,Completed,true,false,false
+UA002082,17 Apr 16,8,Coatesville,GPHC,No. 1,Jonathoan Bong,Charlie Zagon-Davies,Charlie Zagon-Davies,0-6,0,6,0,1,Completed,true,false,false
+UA002082,17 Apr 16,8,Coatesville,GPHC,No. 2,Daniel Gershezan,Oliver McIntosh,Oliver McIntosh,0-6,0,6,0,1,Completed,true,false,false
+UA002082,17 Apr 16,8,Coatesville,GPHC,No. 3,Adrian Mitsel,Simon Tarrant,Simon Tarrant,2-6,2,6,0,1,Completed,true,false,false
+UA002082,17 Apr 16,8,Coatesville,GPHC,No. 4,James Teague,Alec Gaudin,Alec Gaudin,4-6,4,6,0,1,Completed,true,false,false
+UA002083,17 Apr 16,8,Hampton,Kings Park,No. 1,Callen Neasmith,Hamish Styring,Callen Neasmith,7-5,7,5,1,0,Completed,true,false,false
+UA002083,17 Apr 16,8,Hampton,Kings Park,No. 2,Ollie Evans,Chloe Green,Chloe Green,1-6,1,6,0,1,Completed,true,false,false
+UA002083,17 Apr 16,8,Hampton,Kings Park,No. 3,Curtis Neasmith,Tait Pascoe,Tait Pascoe,4-6,4,6,0,1,Completed,true,false,false
+UA002083,17 Apr 16,8,Hampton,Kings Park,No. 4,Majella Howey,Oscar Eden,Oscar Eden,0-6,0,6,0,1,Completed,true,false,false
+UA002084,17 Apr 16,8,Glen Eira Brook,Royal Ave,No. 1,Adam Pierias,Ethan Holden,Adam Pierias,7-5,7,5,1,0,Completed,true,false,false
+UA002084,17 Apr 16,8,Glen Eira Brook,Royal Ave,No. 2,Evan Best,Nate Hollis,Evan Best,6-1,6,1,1,0,Completed,true,false,false
+UA002084,17 Apr 16,8,Glen Eira Brook,Royal Ave,No. 3,Jedd Zetzer,Justin Alway,Justin Alway,2-6,2,6,0,1,Completed,true,false,false
+UA002084,17 Apr 16,8,Glen Eira Brook,Royal Ave,No. 4,Jameson Clarke,Wen Rui Wong,Jameson Clarke,6-1,6,1,1,0,Completed,true,false,false
+UA002091,24 Apr 16,9,Parkdale,Glen Eira Brook,No. 1,Sean Enright,Adam Pierias,Adam Pierias,3-6,3,6,0,1,Completed,true,false,false
+UA002091,24 Apr 16,9,Parkdale,Glen Eira Brook,No. 2,Luke Shi,Jared Want,Luke Shi,6-1,6,1,1,0,Completed,true,false,false
+UA002091,24 Apr 16,9,Parkdale,Glen Eira Brook,No. 3,James Comben,Jedd Zetzer,James Comben,6-0,6,0,1,0,Completed,true,false,false
+UA002091,24 Apr 16,9,Parkdale,Glen Eira Brook,No. 4,Jeremy Gonis,Jameson Clarke,Jeremy Gonis,6-3,6,3,1,0,Completed,true,false,false
+UA002092,24 Apr 16,9,GPHC,Mordialloc,No. 1,Charlie Zagon-Davies,Kartik Sehgal,Charlie Zagon-Davies,6-2,6,2,1,0,Completed,true,false,false
+UA002092,24 Apr 16,9,GPHC,Mordialloc,No. 2,Oliver McIntosh,Kunal Sehgal,Oliver McIntosh,6-4,6,4,1,0,Completed,true,false,false
+UA002092,24 Apr 16,9,GPHC,Mordialloc,No. 3,Lachie Brown-Rogers,Lachlan Jones,Lachlan Jones,5-7,5,7,0,1,Completed,true,false,false
+UA002092,24 Apr 16,9,GPHC,Mordialloc,No. 4,Charlotte McIntosh,Aryon Raghav,Aryon Raghav,3-6,3,6,0,1,Completed,true,false,false
+UA002093,24 Apr 16,9,Kings Park,Coatesville,No. 1,Ryoku Nishikawa,Gabi Basman,Ryoku Nishikawa,7-6,7,6,1,0,Completed,true,false,false
+UA002093,24 Apr 16,9,Kings Park,Coatesville,No. 2,Sienna Di Natale,Daniel Gershezan,Sienna Di Natale,6-4,6,4,1,0,Completed,true,false,false
+UA002093,24 Apr 16,9,Kings Park,Coatesville,No. 3,Dominika Bucko,Adrian Mitsel,Dominika Bucko,7-6,7,6,1,0,Completed,true,false,false
+UA002093,24 Apr 16,9,Kings Park,Coatesville,No. 4,Craig Stewart,James Teague,James Teague,5-7,5,7,0,1,Completed,true,false,false
+UA002094,24 Apr 16,9,Royal Ave,Hampton,No. 1,Ethan Holden,Callen Neasmith,Ethan Holden,7-6,7,6,1,0,Completed,true,false,false
+UA002094,24 Apr 16,9,Royal Ave,Hampton,No. 2,Cole Rooney,Curtis Neasmith,Cole Rooney,6-1,6,1,1,0,Completed,true,false,false
+UA002094,24 Apr 16,9,Royal Ave,Hampton,No. 3,Gabi Zafrin,Sean Howey,Gabi Zafrin,6-0,6,0,1,0,Completed,true,false,false
+UA002094,24 Apr 16,9,Royal Ave,Hampton,No. 4,Wen Rui Wong,Majella Howey,Majella Howey,0-6,0,6,0,1,Completed,true,false,false
+UA002102,01 May 16,10,Glen Eira Brook,GPHC,No. 1,Evan Best,Charlie Zagon-Davies,Charlie Zagon-Davies,5-7,5,7,0,1,Completed,true,false,false
+UA002102,01 May 16,10,Glen Eira Brook,GPHC,No. 2,Jared Want,Oliver McIntosh,Oliver McIntosh,0-6,0,6,0,1,Completed,true,false,false
+UA002102,01 May 16,10,Glen Eira Brook,GPHC,No. 3,Jedd Zetzer,Alec Gaudin,Alec Gaudin,2-6,2,6,0,1,Completed,true,false,false
+UA002102,01 May 16,10,Glen Eira Brook,GPHC,No. 4,Jameson Clarke,Oliver Tehan,Oliver Tehan,2-6,2,6,0,1,Completed,true,false,false
+UA002104,01 May 16,10,Coatesville,Royal Ave,No. 1,Jonathoan Bong,Cole Rooney,Jonathoan Bong,7-5,7,5,1,0,Completed,true,false,false
+UA002104,01 May 16,10,Coatesville,Royal Ave,No. 2,Gabi Basman,Gabi Zafrin,Gabi Zafrin,4-6,4,6,0,1,Completed,true,false,false
+UA002104,01 May 16,10,Coatesville,Royal Ave,No. 3,Daniel Gershezan,Nate Hollis,Nate Hollis,3-6,3,6,0,1,Completed,true,false,false
+UA002104,01 May 16,10,Coatesville,Royal Ave,No. 4,James Teague,Justin Alway,Justin Alway,4-6,4,6,0,1,Completed,true,false,false
+UA002121,15 May 16,12,Royal Ave,Kings Park,No. 1,Ethan Holden,Hamish Styring,Hamish Styring,5-7,5,7,0,1,Completed,true,false,false
+UA002121,15 May 16,12,Royal Ave,Kings Park,No. 2,Gabi Zafrin,Chloe Green,Chloe Green,0-6,0,6,0,1,Completed,true,false,false
+UA002121,15 May 16,12,Royal Ave,Kings Park,No. 3,Justin Alway,Oscar Eden,Justin Alway,6-1,6,1,1,0,Completed,true,false,false
+UA002121,15 May 16,12,Royal Ave,Kings Park,No. 4,Wen Rui Wong,Sienna Di Natale,Wen Rui Wong,6-4,6,4,1,0,Completed,true,false,false
+UA002122,15 May 16,12,Hampton,Glen Eira Brook,No. 1,Callen Neasmith,Adam Pierias,Callen Neasmith,6-3,6,3,1,0,Completed,true,false,false
+UA002122,15 May 16,12,Hampton,Glen Eira Brook,No. 2,Ollie Evans,Evan Best,Evan Best,3-6,3,6,0,1,Completed,true,false,false
+UA002122,15 May 16,12,Hampton,Glen Eira Brook,No. 3,Sean Howey,Jared Want,Jared Want,3-6,3,6,0,1,Completed,true,false,false
+UA002122,15 May 16,12,Hampton,Glen Eira Brook,No. 4,Majella Howey,Jameson Clarke,Jameson Clarke,4-6,4,6,0,1,Completed,true,false,false
+UA002123,15 May 16,12,Mordialloc,Coatesville,No. 1,Samisdh Siva-Ram,Gabi Basman,Samisdh Siva-Ram,6-1,6,1,1,0,Completed,true,false,false
+UA002123,15 May 16,12,Mordialloc,Coatesville,No. 2,Kartik Sehgal,Daniel Gershezan,Daniel Gershezan,4-6,4,6,0,1,Completed,true,false,false
+UA002123,15 May 16,12,Mordialloc,Coatesville,No. 3,Kunal Sehgal,Adrian Mitsel,Kunal Sehgal,6-0,6,0,1,0,Completed,true,false,false
+UA002123,15 May 16,12,Mordialloc,Coatesville,No. 4,Lachlan Jones,James Teague,Lachlan Jones,6-3,6,3,1,0,Completed,true,false,false
+UA002124,15 May 16,12,GPHC,Parkdale,No. 1,Simon Tarrant,Sean Vandenbroek,Sean Vandenbroek,4-6,4,6,0,1,Completed,true,false,false
+UA002124,15 May 16,12,GPHC,Parkdale,No. 2,Alec Gaudin,Sean Enright,Sean Enright,2-6,2,6,0,1,Completed,true,false,false
+UA002124,15 May 16,12,GPHC,Parkdale,No. 3,Oliver Tehan,Luke Shi,Oliver Tehan,6-2,6,2,1,0,Completed,true,false,false
+UA002124,15 May 16,12,GPHC,Parkdale,No. 4,Nathan Savundra-shephard,James Comben,Nathan Savundra-shephard,6-2,6,2,1,0,Completed,true,false,false
+UA002131,22 May 16,13,Kings Park,GPHC,No. 1,Hamish Styring,Charlie Zagon-Davies,Hamish Styring,6-3,6,3,1,0,Completed,true,false,false
+UA002131,22 May 16,13,Kings Park,GPHC,No. 2,Tait Pascoe,Oliver McIntosh,Tait Pascoe,6-4,6,4,1,0,Completed,true,false,false
+UA002131,22 May 16,13,Kings Park,GPHC,No. 3,Stephanie McLachlan,Simon Tarrant,Stephanie McLachlan,6-2,6,2,1,0,Completed,true,false,false
+UA002131,22 May 16,13,Kings Park,GPHC,No. 4,Oscar Eden,Alec Gaudin,Alec Gaudin,4-6,4,6,0,1,Completed,true,false,false
+UA002132,22 May 16,13,Parkdale,Royal Ave,No. 1,Sean Enright,Ethan Holden,Ethan Holden,4-6,4,6,0,1,Completed,true,false,false
+UA002132,22 May 16,13,Parkdale,Royal Ave,No. 2,Luke Shi,Cole Rooney,Luke Shi,6-1,6,1,1,0,Completed,true,false,false
+UA002132,22 May 16,13,Parkdale,Royal Ave,No. 3,James Comben,Nate Hollis,James Comben,6-4,6,4,1,0,Completed,true,false,false
+UA002132,22 May 16,13,Parkdale,Royal Ave,No. 4,Jeremy Gonis,Wen Rui Wong,Jeremy Gonis,6-3,6,3,1,0,Completed,true,false,false
+UA002133,22 May 16,13,Coatesville,Hampton,No. 1,Jonathoan Bong,Callen Neasmith,Callen Neasmith,2-6,2,6,0,1,Completed,true,false,false
+UA002133,22 May 16,13,Coatesville,Hampton,No. 2,Daniel Gershezan,Ollie Evans,Daniel Gershezan,7-5,7,5,1,0,Completed,true,false,false
+UA002133,22 May 16,13,Coatesville,Hampton,No. 3,Adrian Mitsel,Sean Howey,Sean Howey,3-6,3,6,0,1,Completed,true,false,false
+UA002133,22 May 16,13,Coatesville,Hampton,No. 4,James Teague,Majella Howey,James Teague,6-4,6,4,1,0,Completed,true,false,false
+UA002134,22 May 16,13,Glen Eira Brook,Mordialloc,No. 1,Adam Pierias,Samisdh Siva-Ram,Adam Pierias,6-3,6,3,1,0,Completed,true,false,false
+UA002134,22 May 16,13,Glen Eira Brook,Mordialloc,No. 2,Evan Best,Mitchell Standfield,Evan Best,6-1,6,1,1,0,Completed,true,false,false
+UA002134,22 May 16,13,Glen Eira Brook,Mordialloc,No. 3,Jedd Zetzer,Lachlan Jones,Lachlan Jones,0-6,0,6,0,1,Completed,true,false,false
+UA002134,22 May 16,13,Glen Eira Brook,Mordialloc,No. 4,Jameson Clarke,Aryon Raghav,Jameson Clarke,6-4,6,4,1,0,Completed,true,false,false
+UA002141,29 May 16,14,Kings Park,Parkdale,No. 1,Hamish Styring,Sean Enright,Hamish Styring,6-1,6,1,1,0,Completed,true,false,false
+UA002141,29 May 16,14,Kings Park,Parkdale,No. 2,Tait Pascoe,Luke Shi,Tait Pascoe,6-3,6,3,1,0,Completed,true,false,false
+UA002141,29 May 16,14,Kings Park,Parkdale,No. 3,Oscar Eden,James Comben,Oscar Eden,7-5,7,5,1,0,Completed,true,false,false
+UA002141,29 May 16,14,Kings Park,Parkdale,No. 4,Sienna Di Natale,Jeremy Gonis,Jeremy Gonis,6-7,6,7,0,1,Completed,true,false,false
+UA002142,29 May 16,14,Royal Ave,GPHC,No. 1,Cole Rooney,Simon Tarrant,Cole Rooney,6-0,6,0,1,0,Completed,true,false,false
+UA002142,29 May 16,14,Royal Ave,GPHC,No. 2,Gabi Zafrin,Alec Gaudin,Alec Gaudin,4-6,4,6,0,1,Completed,true,false,false
+UA002142,29 May 16,14,Royal Ave,GPHC,No. 3,Justin Alway,Oliver Tehan,Oliver Tehan,5-7,5,7,0,1,Completed,true,false,false
+UA002142,29 May 16,14,Royal Ave,GPHC,No. 4,Wen Rui Wong,Marcus Nield,Marcus Nield,0-6,0,6,0,1,Completed,true,false,false
+UA002143,29 May 16,14,Coatesville,Glen Eira Brook,No. 1,Jonathoan Bong,Adam Pierias,Adam Pierias,2-6,2,6,0,1,Completed,true,false,false
+UA002143,29 May 16,14,Coatesville,Glen Eira Brook,No. 2,Gabi Basman,Jared Want,Gabi Basman,6-3,6,3,1,0,Completed,true,false,false
+UA002143,29 May 16,14,Coatesville,Glen Eira Brook,No. 3,Adrian Mitsel,Jedd Zetzer,Adrian Mitsel,6-4,6,4,1,0,Completed,true,false,false
+UA002143,29 May 16,14,Coatesville,Glen Eira Brook,No. 4,James Teague,Jameson Clarke,James Teague,6-2,6,2,1,0,Completed,true,false,false
+UA002144,29 May 16,14,Mordialloc,Hampton,No. 1,Kartik Sehgal,Callen Neasmith,Kartik Sehgal,6-2,6,2,1,0,Completed,true,false,false
+UA002144,29 May 16,14,Mordialloc,Hampton,No. 2,Mitchell Standfield,Ollie Evans,Mitchell Standfield,6-4,6,4,1,0,Completed,true,false,false
+UA002144,29 May 16,14,Mordialloc,Hampton,No. 3,Kunal Sehgal,Matt Krstic,Matt Krstic,3-6,3,6,0,1,Completed,true,false,false
+UA002144,29 May 16,14,Mordialloc,Hampton,No. 4,Aryon Raghav,Sean Howey,Sean Howey,2-6,2,6,0,1,Completed,true,false,false
+UA002301,,16,Kings Park,Mordialloc,No. 1,Hamish Styring,Samisdh Siva-Ram,Samisdh Siva-Ram,5-7,5,7,0,1,Completed,true,false,false
+UA002301,,16,Kings Park,Mordialloc,No. 2,Tait Pascoe,Kartik Sehgal,Tait Pascoe,6-0,6,0,1,0,Completed,true,false,false
+UA002301,,16,Kings Park,Mordialloc,No. 3,Stephanie McLachlan,Mitchell Standfield,Stephanie McLachlan,6-3,6,3,1,0,Completed,true,false,false
+UA002301,,16,Kings Park,Mordialloc,No. 4,Oscar Eden,Lachlan Jones,Oscar Eden,6-2,6,2,1,0,Completed,true,false,false
+UA002302,,16,GPHC,Royal Ave,No. 1,Charlie Zagon-Davies,Ethan Holden,Ethan Holden,4-6,4,6,0,1,Completed,true,false,false
+UA002302,,16,GPHC,Royal Ave,No. 2,Oliver McIntosh,Cole Rooney,Cole Rooney,5-7,5,7,0,1,Completed,true,false,false
+UA002302,,16,GPHC,Royal Ave,No. 3,Alec Gaudin,Gabi Zafrin,Alec Gaudin,6-2,6,2,1,0,Completed,true,false,false
+UA002302,,16,GPHC,Royal Ave,No. 4,Oliver Tehan,Justin Alway,Oliver Tehan,7-6,7,6,1,0,Completed,true,false,false
+UA002321,,17,Kings Park,GPHC,No. 1,Hamish Styring,Charlie Zagon-Davies,Hamish Styring,6-1,6,1,1,0,Completed,true,false,false
+UA002321,,17,Kings Park,GPHC,No. 2,Chloe Green,Oliver McIntosh,Chloe Green,6-3,6,3,1,0,Completed,true,false,false
+UA002321,,17,Kings Park,GPHC,No. 3,Tait Pascoe,Simon Tarrant,Simon Tarrant,3-6,3,6,0,1,Completed,true,false,false
+UA002321,,17,Kings Park,GPHC,No. 4,Stephanie McLachlan,Oliver Tehan,Stephanie McLachlan,7-5,7,5,1,0,Completed,true,false,false

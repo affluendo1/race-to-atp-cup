@@ -1,0 +1,91 @@
+{
+  "asset_id": "AA55-AA003",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Autumn 2026",
+  "season_id": "AA55",
+  "season_label": "Autumn 2026",
+  "source_section_code": "AA003",
+  "section_label": "Sets 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC Blue",
+      "wins": 10,
+      "points": 101,
+      "percentage": 157.89,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "BLTC White",
+      "wins": 10,
+      "points": 98,
+      "percentage": 142.03,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Royal Ave",
+      "wins": 11,
+      "points": 89,
+      "percentage": 121.1,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Kings Park",
+      "wins": 8,
+      "points": 74,
+      "percentage": 113.64,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Glen Huntly",
+      "wins": 5,
+      "points": 61,
+      "percentage": 97.48,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Maccabi",
+      "wins": 1,
+      "points": 33,
+      "percentage": 67.86,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Coatesville",
+      "wins": 2,
+      "points": 32.5,
+      "percentage": 73.51,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Mentone",
+      "wins": 1,
+      "points": 31.5,
+      "percentage": 62.79,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA55-AA003",
+  "fixtures": 55,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

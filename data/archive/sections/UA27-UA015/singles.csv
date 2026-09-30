@@ -1,0 +1,89 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA015011,15 Nov 20,1,Centenary Park,Highmoor Uniting,No. 1,Sienna Le,Jackson Ralph,Sienna Le,6-4,6,4,1,0,Completed,true,false,false
+UA015011,15 Nov 20,1,Centenary Park,Highmoor Uniting,No. 2,Elle Gordon,Lazar Suluburic,Elle Gordon,6-2,6,2,1,0,Completed,true,false,false
+UA015011,15 Nov 20,1,Centenary Park,Highmoor Uniting,No. 3,Mieka Gordon,Luka Suluburic,Mieka Gordon,6-4,6,4,1,0,Completed,true,false,false
+UA015011,15 Nov 20,1,Centenary Park,Highmoor Uniting,No. 4,Sasha Minnin,Remy Pfeiffer,Remy Pfeiffer,6-7,6,7,0,1,Completed,true,false,false
+UA015012,15 Nov 20,1,BLTC,Aspendale,No. 1,Zoe Livermore,Lisa Jawalekar,Zoe Livermore,6-3,6,3,1,0,Completed,true,false,false
+UA015012,15 Nov 20,1,BLTC,Aspendale,No. 2,Mathieson Meakins,Pip Jawalekar,Pip Jawalekar,1-6,1,6,0,1,Completed,true,false,false
+UA015012,15 Nov 20,1,BLTC,Aspendale,No. 3,Justin Le,Ben Macaw,Justin Le,6-0,6,0,1,0,Completed,true,false,false
+UA015012,15 Nov 20,1,BLTC,Aspendale,No. 4,Rita Lu,Oscar Chipperfield,Rita Lu,6-1,6,1,1,0,Completed,true,false,false
+UA015013,15 Nov 20,1,Caulfield Rec,Maccabi,No. 1,Oliver Cordover,Ethan Cohen,Oliver Cordover,7-5,7,5,1,0,Completed,true,false,false
+UA015013,15 Nov 20,1,Caulfield Rec,Maccabi,No. 2,Franki Hillier,Liron Errez,Franki Hillier,6-2,6,2,1,0,Completed,true,false,false
+UA015013,15 Nov 20,1,Caulfield Rec,Maccabi,No. 3,Gaby Duieb,Merav Lelah,Gaby Duieb,6-2,6,2,1,0,Completed,true,false,false
+UA015013,15 Nov 20,1,Caulfield Rec,Maccabi,No. 4,Atticus Dhimann,Aaron Kramer,Aaron Kramer,0-6,0,6,0,1,Completed,true,false,false
+UA015014,15 Nov 20,1,Dendy Park 1,Dendy Park 2,No. 1,Olivia Frank,Lihang Jiang,Olivia Frank,6-1,6,1,1,0,Completed,true,false,false
+UA015014,15 Nov 20,1,Dendy Park 1,Dendy Park 2,No. 2,Adrian Guo,Sebastian Maddams,Sebastian Maddams,1-6,1,6,0,1,Completed,true,false,false
+UA015014,15 Nov 20,1,Dendy Park 1,Dendy Park 2,No. 3,Miller Bennett,Lauren Hermann,Lauren Hermann,1-6,1,6,0,1,Completed,true,false,false
+UA015014,15 Nov 20,1,Dendy Park 1,Dendy Park 2,No. 4,[Unnamed player — TROLS UA015014 home code 4],Olivia Hermann,Olivia Hermann,0-6,0,6,0,1,Completed,false,false,false
+UA015021,22 Nov 20,2,Dendy Park 2,Centenary Park,No. 1,Lauren Hermann,Elle Gordon,Elle Gordon,1-6,1,6,0,1,Completed,true,false,false
+UA015021,22 Nov 20,2,Dendy Park 2,Centenary Park,No. 2,Harry Taphouse,Mieka Gordon,Mieka Gordon,1-6,1,6,0,1,Completed,true,false,false
+UA015021,22 Nov 20,2,Dendy Park 2,Centenary Park,No. 3,Sebastian Maddams,Sasha Minnin,Sebastian Maddams,6-2,6,2,1,0,Completed,true,false,false
+UA015021,22 Nov 20,2,Dendy Park 2,Centenary Park,No. 4,Olivia Hermann,Julia Khorouj,Julia Khorouj,3-6,3,6,0,1,Completed,true,false,true
+UA015022,22 Nov 20,2,Highmoor Uniting,BLTC,No. 1,Jackson Ralph,Zoe Livermore,Zoe Livermore,6-7,6,7,0,1,Completed,true,false,false
+UA015022,22 Nov 20,2,Highmoor Uniting,BLTC,No. 2,Remy Pfeiffer,Amy Livermore,Amy Livermore,2-6,2,6,0,1,Completed,true,false,false
+UA015022,22 Nov 20,2,Highmoor Uniting,BLTC,No. 3,Leon Thomas,Andrew Livermore,Andrew Livermore,2-6,2,6,0,1,Completed,true,false,false
+UA015022,22 Nov 20,2,Highmoor Uniting,BLTC,No. 4,Veer Mehta,Rita Lu,Rita Lu,0-6,0,6,0,1,Completed,true,true,false
+UA015023,22 Nov 20,2,Aspendale,Caulfield Rec,No. 1,Lisa Jawalekar,Oliver Cordover,Oliver Cordover,4-6,4,6,0,1,Completed,true,false,false
+UA015023,22 Nov 20,2,Aspendale,Caulfield Rec,No. 2,Pip Jawalekar,Franki Hillier,Franki Hillier,5-7,5,7,0,1,Completed,true,false,false
+UA015023,22 Nov 20,2,Aspendale,Caulfield Rec,No. 3,Mia Courtie,Gaby Duieb,Gaby Duieb,0-6,0,6,0,1,Completed,true,false,false
+UA015023,22 Nov 20,2,Aspendale,Caulfield Rec,No. 4,Elliott Fairlie,Atticus Dhimann,Atticus Dhimann,1-6,1,6,0,1,Completed,true,false,false
+UA015024,22 Nov 20,2,Maccabi,Dendy Park 1,No. 1,Gabriel Segal,Olivia Frank,Olivia Frank,3-6,3,6,0,1,Completed,true,false,false
+UA015024,22 Nov 20,2,Maccabi,Dendy Park 1,No. 2,Ethan Cohen,Adrian Guo,Ethan Cohen,6-2,6,2,1,0,Completed,true,false,false
+UA015024,22 Nov 20,2,Maccabi,Dendy Park 1,No. 3,Liron Errez,Miller Bennett,Liron Errez,6-1,6,1,1,0,Completed,true,false,false
+UA015024,22 Nov 20,2,Maccabi,Dendy Park 1,No. 4,Jesse Stowe-Lindner,Kavin Chandran,Jesse Stowe-Lindner,6-0,6,0,1,0,Completed,true,true,false
+UA015032,29 Nov 20,3,BLTC,Dendy Park 2,No. 1,Zoe Livermore,Manol Atanasov,Zoe Livermore,6-2,6,2,1,0,Completed,true,false,false
+UA015032,29 Nov 20,3,BLTC,Dendy Park 2,No. 2,Amy Livermore,Harry Taphouse,Amy Livermore,6-3,6,3,1,0,Completed,true,false,false
+UA015032,29 Nov 20,3,BLTC,Dendy Park 2,No. 3,Justin Le,Lihang Jiang,Justin Le,6-2,6,2,1,0,Completed,true,false,false
+UA015032,29 Nov 20,3,BLTC,Dendy Park 2,No. 4,Andrew Livermore,Sebastian Maddams,Sebastian Maddams,1-6,1,6,0,1,Completed,true,false,false
+UA015033,29 Nov 20,3,Caulfield Rec,Highmoor Uniting,No. 1,Oliver Cordover,Jackson Ralph,Oliver Cordover,6-3,6,3,1,0,Completed,true,false,false
+UA015033,29 Nov 20,3,Caulfield Rec,Highmoor Uniting,No. 2,Andrew Sslesarev,Lazar Suluburic,Andrew Sslesarev,7-5,7,5,1,0,Completed,true,true,false
+UA015033,29 Nov 20,3,Caulfield Rec,Highmoor Uniting,No. 3,Gaby Duieb,Luka Suluburic,Gaby Duieb,6-4,6,4,1,0,Completed,true,false,false
+UA015033,29 Nov 20,3,Caulfield Rec,Highmoor Uniting,No. 4,Atticus Dhimann,Leon Thomas,Atticus Dhimann,7-6,7,6,1,0,Completed,true,false,false
+UA015041,06 Dec 20,4,Aspendale,Centenary Park,No. 1,Lisa Jawalekar,Sienna Le,Sienna Le,2-6,2,6,0,1,Completed,true,false,false
+UA015041,06 Dec 20,4,Aspendale,Centenary Park,No. 2,Pip Jawalekar,Elle Gordon,Elle Gordon,1-6,1,6,0,1,Completed,true,false,false
+UA015041,06 Dec 20,4,Aspendale,Centenary Park,No. 3,Ben Macaw,Mieka Gordon,Mieka Gordon,1-6,1,6,0,1,Completed,true,false,false
+UA015041,06 Dec 20,4,Aspendale,Centenary Park,No. 4,Oscar Chipperfield,Sasha Minnin,Sasha Minnin,1-6,1,6,0,1,Completed,true,false,false
+UA015042,06 Dec 20,4,Maccabi,BLTC,No. 1,Gabriel Segal,Zoe Livermore,Zoe Livermore,4-6,4,6,0,1,Completed,true,false,false
+UA015042,06 Dec 20,4,Maccabi,BLTC,No. 2,Ethan Cohen,Mathieson Meakins,Ethan Cohen,6-2,6,2,1,0,Completed,true,false,false
+UA015042,06 Dec 20,4,Maccabi,BLTC,No. 3,Jonah Stowe-Lindner,Justin Le,Justin Le,3-6,3,6,0,1,Completed,true,false,false
+UA015042,06 Dec 20,4,Maccabi,BLTC,No. 4,Liron Errez,Rita Lu,Liron Errez,6-2,6,2,1,0,Completed,true,false,false
+UA015043,06 Dec 20,4,Dendy Park 2,Caulfield Rec,No. 1,Manol Atanasov,Andrew Sslesarev,Manol Atanasov,6-1,6,1,1,0,Completed,true,false,true
+UA015043,06 Dec 20,4,Dendy Park 2,Caulfield Rec,No. 2,Lihang Jiang,Franki Hillier,Franki Hillier,2-6,2,6,0,1,Completed,true,false,false
+UA015043,06 Dec 20,4,Dendy Park 2,Caulfield Rec,No. 3,Sebastian Maddams,Gaby Duieb,Sebastian Maddams,6-1,6,1,1,0,Completed,true,false,false
+UA015043,06 Dec 20,4,Dendy Park 2,Caulfield Rec,No. 4,Olivia Hermann,Atticus Dhimann,Atticus Dhimann,2-6,2,6,0,1,Completed,true,false,false
+UA015044,06 Dec 20,4,Highmoor Uniting,Dendy Park 1,No. 1,Lazar Suluburic,Olivia Frank,Lazar Suluburic,6-2,6,2,1,0,Completed,true,false,false
+UA015044,06 Dec 20,4,Highmoor Uniting,Dendy Park 1,No. 2,Luka Suluburic,Adrian Guo,Luka Suluburic,6-4,6,4,1,0,Completed,true,false,false
+UA015044,06 Dec 20,4,Highmoor Uniting,Dendy Park 1,No. 3,Remy Pfeiffer,Miller Bennett,Remy Pfeiffer,6-4,6,4,1,0,Completed,true,false,false
+UA015044,06 Dec 20,4,Highmoor Uniting,Dendy Park 1,No. 4,Veer Mehta,Ryan Zheng,Ryan Zheng,1-6,1,6,0,1,Completed,true,true,true
+UA015051,13 Dec 20,5,Caulfield Rec,Dendy Park 1,No. 1,Franki Hillier,Ryan Zheng,Franki Hillier,6-4,6,4,1,0,Completed,true,false,true
+UA015051,13 Dec 20,5,Caulfield Rec,Dendy Park 1,No. 2,Andrew Sslesarev,Adrian Guo,Andrew Sslesarev,6-2,6,2,1,0,Completed,true,true,false
+UA015051,13 Dec 20,5,Caulfield Rec,Dendy Park 1,No. 3,Gaby Duieb,Miller Bennett,Gaby Duieb,6-1,6,1,1,0,Completed,true,false,false
+UA015051,13 Dec 20,5,Caulfield Rec,Dendy Park 1,No. 4,Atticus Dhimann,Kavin Chandran,Atticus Dhimann,6-3,6,3,1,0,Completed,true,false,false
+UA015052,13 Dec 20,5,Dendy Park 2,Maccabi,No. 1,Lauren Hermann,Ethan Cohen,Ethan Cohen,0-6,0,6,0,1,Completed,true,false,false
+UA015052,13 Dec 20,5,Dendy Park 2,Maccabi,No. 2,Harry Taphouse,Jonah Stowe-Lindner,Harry Taphouse,6-3,6,3,1,0,Completed,true,false,false
+UA015052,13 Dec 20,5,Dendy Park 2,Maccabi,No. 3,Lihang Jiang,Merav Lelah,Lihang Jiang,6-2,6,2,1,0,Completed,true,false,false
+UA015052,13 Dec 20,5,Dendy Park 2,Maccabi,No. 4,Olivia Hermann,Aaron Kramer,Aaron Kramer,0-6,0,6,0,1,Completed,true,false,false
+UA015053,13 Dec 20,5,Aspendale,Highmoor Uniting,No. 1,Mia Courtie,Jackson Ralph,Mia Courtie,6-4,6,4,1,0,Completed,true,false,false
+UA015053,13 Dec 20,5,Aspendale,Highmoor Uniting,No. 2,Ben Macaw,Remy Pfeiffer,Remy Pfeiffer,2-6,2,6,0,1,Completed,true,false,false
+UA015053,13 Dec 20,5,Aspendale,Highmoor Uniting,No. 3,Oscar Chipperfield,Leon Thomas,Oscar Chipperfield,6-2,6,2,1,0,Completed,true,false,false
+UA015053,13 Dec 20,5,Aspendale,Highmoor Uniting,No. 4,Elliott Fairlie,Veer Mehta,Veer Mehta,5-7,5,7,0,1,Completed,true,false,true
+UA015054,13 Dec 20,5,Centenary Park,BLTC,No. 1,Sienna Le,Amy Livermore,Amy Livermore,1-6,1,6,0,1,Completed,true,false,false
+UA015054,13 Dec 20,5,Centenary Park,BLTC,No. 2,Julia Khorouj,Mathieson Meakins,Mathieson Meakins,2-6,2,6,0,1,Completed,true,true,false
+UA015054,13 Dec 20,5,Centenary Park,BLTC,No. 3,Ashey Horton,Andrew Livermore,Andrew Livermore,1-6,1,6,0,1,Completed,true,true,false
+UA015054,13 Dec 20,5,Centenary Park,BLTC,No. 4,Cassandra Bereszkowski,Rita Lu,Rita Lu,1-6,1,6,0,1,Completed,true,true,false
+UA015061,20 Dec 20,6,BLTC,Caulfield Rec,No. 1,Zoe Livermore,Oliver Cordover,Zoe Livermore,6-4,6,4,1,0,Completed,true,false,false
+UA015061,20 Dec 20,6,BLTC,Caulfield Rec,No. 2,Amy Livermore,Franki Hillier,Franki Hillier,1-6,1,6,0,1,Completed,true,false,false
+UA015061,20 Dec 20,6,BLTC,Caulfield Rec,No. 3,Justin Le,Gaby Duieb,Justin Le,6-3,6,3,1,0,Completed,true,false,false
+UA015061,20 Dec 20,6,BLTC,Caulfield Rec,No. 4,Andrew Livermore,Atticus Dhimann,Andrew Livermore,6-3,6,3,1,0,Completed,true,false,false
+UA015062,20 Dec 20,6,Dendy Park 1,Centenary Park,No. 1,Olivia Frank,Norway Gordon,Norway Gordon,0-6,0,6,0,1,Completed,true,false,true
+UA015062,20 Dec 20,6,Dendy Park 1,Centenary Park,No. 2,Adrian Guo,Elle Gordon,Elle Gordon,3-6,3,6,0,1,Completed,true,false,false
+UA015062,20 Dec 20,6,Dendy Park 1,Centenary Park,No. 3,Ryan Zheng,Mieka Gordon,Mieka Gordon,5-7,5,7,0,1,Completed,true,true,false
+UA015062,20 Dec 20,6,Dendy Park 1,Centenary Park,No. 4,Kavin Chandran,Sasha Minnin,Sasha Minnin,3-6,3,6,0,1,Completed,true,false,false
+UA015063,20 Dec 20,6,Maccabi,Aspendale,No. 1,Gabriel Segal,Lisa Jawalekar,Gabriel Segal,6-2,6,2,1,0,Completed,true,false,false
+UA015063,20 Dec 20,6,Maccabi,Aspendale,No. 2,Jonah Stowe-Lindner,Pip Jawalekar,Pip Jawalekar,1-6,1,6,0,1,Completed,true,false,false
+UA015063,20 Dec 20,6,Maccabi,Aspendale,No. 3,Aaron Kramer,Mia Courtie,Aaron Kramer,6-0,6,0,1,0,Completed,true,false,false
+UA015063,20 Dec 20,6,Maccabi,Aspendale,No. 4,Merav Lelah,Oscar Chipperfield,Merav Lelah,6-4,6,4,1,0,Completed,true,false,false
+UA015064,20 Dec 20,6,Highmoor Uniting,Dendy Park 2,No. 1,Jackson Ralph,Manol Atanasov,Jackson Ralph,6-2,6,2,1,0,Completed,true,false,false
+UA015064,20 Dec 20,6,Highmoor Uniting,Dendy Park 2,No. 2,James Morton,Harry Taphouse,Harry Taphouse,3-6,3,6,0,1,Completed,true,true,false
+UA015064,20 Dec 20,6,Highmoor Uniting,Dendy Park 2,No. 3,Remy Pfeiffer,Lihang Jiang,Lihang Jiang,1-6,1,6,0,1,Completed,true,false,false
+UA015064,20 Dec 20,6,Highmoor Uniting,Dendy Park 2,No. 4,Leon Thomas,Olivia Hermann,Leon Thomas,7-5,7,5,1,0,Completed,true,false,false

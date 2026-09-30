@@ -1,0 +1,228 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA009011,31 Jan 10,1,Caulfield Rec,Coatesville,No. 1,Nick Tsampoulos,Chris McLaren,Nick Tsampoulos,7-5,7,5,1,0,Completed,true,false,false
+UA009011,31 Jan 10,1,Caulfield Rec,Coatesville,No. 2,Mitch Hendley,Ben Burke,Mitch Hendley,6-4,6,4,1,0,Completed,true,false,false
+UA009011,31 Jan 10,1,Caulfield Rec,Coatesville,No. 3,Charles Wylie,Meg Hickey,Charles Wylie,6-1,6,1,1,0,Completed,true,false,false
+UA009011,31 Jan 10,1,Caulfield Rec,Coatesville,No. 4,Josh Patti,Emma McLaren,Emma McLaren,4-6,4,6,0,1,Completed,true,false,false
+UA009012,31 Jan 10,1,BLTC,St Louis de Mont,No. 1,Sam Browne,Eamon Tuke,Eamon Tuke,4-6,4,6,0,1,Completed,true,false,false
+UA009012,31 Jan 10,1,BLTC,St Louis de Mont,No. 2,Alex Browne,Tyler Brodie,Alex Browne,6-2,6,2,1,0,Completed,true,false,false
+UA009012,31 Jan 10,1,BLTC,St Louis de Mont,No. 3,Ian Buenafe Lysaght,Pat Hewitson,Pat Hewitson,2-6,2,6,0,1,Completed,true,false,false
+UA009012,31 Jan 10,1,BLTC,St Louis de Mont,No. 4,Harrison Tate,Taylor Wills,Harrison Tate,7-5,7,5,1,0,Completed,true,false,false
+UA009013,31 Jan 10,1,St James,Kooyong Scotch,No. 1,Sophie Glynn,Sarah Shellard,Sarah Shellard,5-7,5,7,0,1,Completed,true,false,false
+UA009013,31 Jan 10,1,St James,Kooyong Scotch,No. 2,Annabelle Harkins,Sarah Lockwood,Sarah Lockwood,3-6,3,6,0,1,Completed,true,false,false
+UA009013,31 Jan 10,1,St James,Kooyong Scotch,No. 3,Sasha Taranto,Milly Lawson-kelleway,Sasha Taranto,6-4,6,4,1,0,Completed,true,false,false
+UA009013,31 Jan 10,1,St James,Kooyong Scotch,No. 4,Christopher James,Kate Cunningham,Kate Cunningham,2-6,2,6,0,1,Completed,true,false,false
+UA009014,31 Jan 10,1,Hampton,Bodley Tennis Plus,No. 1,Fraser Gillies,Denholm Oliver,Denholm Oliver,0-6,0,6,0,1,Completed,true,false,false
+UA009014,31 Jan 10,1,Hampton,Bodley Tennis Plus,No. 2,Callum Neasmith,Shaun Evans,Shaun Evans,0-6,0,6,0,1,Completed,true,false,false
+UA009014,31 Jan 10,1,Hampton,Bodley Tennis Plus,No. 3,Harrison Jones,Will Serpell,Will Serpell,1-6,1,6,0,1,Completed,true,false,false
+UA009014,31 Jan 10,1,Hampton,Bodley Tennis Plus,No. 4,Curtis Neasmith,James Burgess,James Burgess,4-6,4,6,0,1,Completed,true,false,false
+UA009021,07 Feb 10,2,Bodley Tennis Plus,Caulfield Rec,No. 1,Denholm Oliver,Nick Tsampoulos,Denholm Oliver,6-3,6,3,1,0,Completed,true,false,false
+UA009021,07 Feb 10,2,Bodley Tennis Plus,Caulfield Rec,No. 2,Shaun Evans,Charles Wylie,Charles Wylie,3-6,3,6,0,1,Completed,true,false,false
+UA009021,07 Feb 10,2,Bodley Tennis Plus,Caulfield Rec,No. 3,Will Serpell,Josh Hendley,Will Serpell,6-3,6,3,1,0,Completed,true,false,false
+UA009021,07 Feb 10,2,Bodley Tennis Plus,Caulfield Rec,No. 4,James Burgess,Josh Patti,Josh Patti,3-6,3,6,0,1,Completed,true,false,false
+UA009022,07 Feb 10,2,Coatesville,BLTC,No. 1,Andrew Chen,Sam Browne,Sam Browne,5-7,5,7,0,1,Completed,true,false,false
+UA009022,07 Feb 10,2,Coatesville,BLTC,No. 2,Ben Burke,Alex Browne,Ben Burke,6-0,6,0,1,0,Completed,true,false,false
+UA009022,07 Feb 10,2,Coatesville,BLTC,No. 3,Meg Hickey,Ian Buenafe Lysaght,Meg Hickey,7-6,7,6,1,0,Completed,true,false,false
+UA009022,07 Feb 10,2,Coatesville,BLTC,No. 4,Emma McLaren,Tristan Sather,Tristan Sather,0-6,0,6,0,1,Completed,true,false,false
+UA009023,07 Feb 10,2,St Louis de Mont,St James,No. 1,Kellie Barnhoorn,Annabelle Harkins,Annabelle Harkins,6-7,6,7,0,1,Completed,true,false,false
+UA009023,07 Feb 10,2,St Louis de Mont,St James,No. 2,Eamon Tuke,Oliver Matterson,Eamon Tuke,6-1,6,1,1,0,Completed,true,false,false
+UA009023,07 Feb 10,2,St Louis de Mont,St James,No. 3,Seamus Tuke,Sasha Taranto,Sasha Taranto,1-6,1,6,0,1,Completed,true,false,false
+UA009023,07 Feb 10,2,St Louis de Mont,St James,No. 4,Taylor Wills,Christopher James,Taylor Wills,7-6,7,6,1,0,Completed,true,false,false
+UA009024,07 Feb 10,2,Kooyong Scotch,Hampton,No. 1,Sarah Shellard,Dean Kolovos,Sarah Shellard,6-1,6,1,1,0,Completed,true,false,false
+UA009024,07 Feb 10,2,Kooyong Scotch,Hampton,No. 2,Annabel Jones,Amelia Scott,Annabel Jones,6-4,6,4,1,0,Completed,true,false,false
+UA009024,07 Feb 10,2,Kooyong Scotch,Hampton,No. 3,Claire Shellard,Callum Neasmith,Claire Shellard,6-2,6,2,1,0,Completed,true,false,false
+UA009024,07 Feb 10,2,Kooyong Scotch,Hampton,No. 4,Sarah Lockwood,Curtis Neasmith,Sarah Lockwood,6-0,6,0,1,0,Completed,true,false,false
+UA009031,14 Feb 10,3,Caulfield Rec,Kooyong Scotch,No. 1,Nick Tsampoulos,Annabel Jones,Nick Tsampoulos,6-1,6,1,1,0,Completed,true,false,false
+UA009031,14 Feb 10,3,Caulfield Rec,Kooyong Scotch,No. 2,Charles Wylie,Claire Shellard,Claire Shellard,0-6,0,6,0,1,Completed,true,false,false
+UA009031,14 Feb 10,3,Caulfield Rec,Kooyong Scotch,No. 3,Josh Hendley,Milly Lawson-kelleway,Milly Lawson-kelleway,4-6,4,6,0,1,Completed,true,false,false
+UA009031,14 Feb 10,3,Caulfield Rec,Kooyong Scotch,No. 4,Josh Patti,Georgina Cunningham,Josh Patti,6-1,6,1,1,0,Completed,true,false,false
+UA009032,14 Feb 10,3,BLTC,Bodley Tennis Plus,No. 1,Sam Browne,Shaun Evans,Sam Browne,6-3,6,3,1,0,Completed,true,false,false
+UA009032,14 Feb 10,3,BLTC,Bodley Tennis Plus,No. 2,Alex Browne,Will Serpell,Alex Browne,6-3,6,3,1,0,Completed,true,false,false
+UA009032,14 Feb 10,3,BLTC,Bodley Tennis Plus,No. 3,Harrison Tate,George Mavrogiannis,Harrison Tate,7-5,7,5,1,0,Completed,true,false,false
+UA009032,14 Feb 10,3,BLTC,Bodley Tennis Plus,No. 4,Ian Buenafe Lysaght,James Burgess,Ian Buenafe Lysaght,7-6,7,6,1,0,Completed,true,false,false
+UA009033,14 Feb 10,3,St James,Coatesville,No. 1,Sophie Glynn,Andrew Chen,Sophie Glynn,7-6,7,6,1,0,Completed,true,false,false
+UA009033,14 Feb 10,3,St James,Coatesville,No. 2,Annabelle Harkins,Ben Burke,Annabelle Harkins,6-3,6,3,1,0,Completed,true,false,false
+UA009033,14 Feb 10,3,St James,Coatesville,No. 3,Oliver Matterson,Meg Hickey,Oliver Matterson,6-1,6,1,1,0,Completed,true,false,false
+UA009033,14 Feb 10,3,St James,Coatesville,No. 4,Christopher James,Dean Antos,Dean Antos,1-6,1,6,0,1,Completed,true,false,false
+UA009041,21 Feb 10,4,St Louis de Mont,Caulfield Rec,No. 1,Eamon Tuke,Nick Tsampoulos,Nick Tsampoulos,2-6,2,6,0,1,Completed,true,false,false
+UA009041,21 Feb 10,4,St Louis de Mont,Caulfield Rec,No. 2,Pat Hewitson,Charles Wylie,Charles Wylie,3-6,3,6,0,1,Completed,true,false,false
+UA009041,21 Feb 10,4,St Louis de Mont,Caulfield Rec,No. 3,Tyler Brodie,Josh Hendley,Josh Hendley,2-6,2,6,0,1,Completed,true,false,false
+UA009041,21 Feb 10,4,St Louis de Mont,Caulfield Rec,No. 4,Seamus Tuke,Josh Patti,Josh Patti,1-6,1,6,0,1,Completed,true,false,false
+UA009042,21 Feb 10,4,Kooyong Scotch,BLTC,No. 1,Sarah Shellard,Sam Browne,Sarah Shellard,6-4,6,4,1,0,Completed,true,false,false
+UA009042,21 Feb 10,4,Kooyong Scotch,BLTC,No. 2,Annabel Jones,Alex Browne,Alex Browne,3-6,3,6,0,1,Completed,true,false,false
+UA009042,21 Feb 10,4,Kooyong Scotch,BLTC,No. 3,Claire Shellard,Harrison Tate,Claire Shellard,6-2,6,2,1,0,Completed,true,false,false
+UA009042,21 Feb 10,4,Kooyong Scotch,BLTC,No. 4,Sarah Lockwood,Tristan Sather,Tristan Sather,6-7,6,7,0,1,Completed,true,false,false
+UA009043,21 Feb 10,4,Bodley Tennis Plus,St James,No. 1,Denholm Oliver,Sophie Glynn,Denholm Oliver,6-3,6,3,1,0,Completed,true,false,false
+UA009043,21 Feb 10,4,Bodley Tennis Plus,St James,No. 2,Shaun Evans,Annabelle Harkins,Shaun Evans,7-5,7,5,1,0,Completed,true,false,false
+UA009043,21 Feb 10,4,Bodley Tennis Plus,St James,No. 3,Will Serpell,Oliver Matterson,Oliver Matterson,2-6,2,6,0,1,Completed,true,false,false
+UA009043,21 Feb 10,4,Bodley Tennis Plus,St James,No. 4,George Mavrogiannis,Sasha Taranto,Sasha Taranto,6-7,6,7,0,1,Completed,true,false,false
+UA009044,21 Feb 10,4,Coatesville,Hampton,No. 1,Chris McLaren,Fraser Gillies,Chris McLaren,6-1,6,1,1,0,Completed,true,false,false
+UA009044,21 Feb 10,4,Coatesville,Hampton,No. 2,Andrew Chen,Danny Kouovos,Andrew Chen,7-5,7,5,1,0,Completed,true,false,false
+UA009044,21 Feb 10,4,Coatesville,Hampton,No. 3,Emma McLaren,Callum Neasmith,Callum Neasmith,3-6,3,6,0,1,Completed,true,false,false
+UA009044,21 Feb 10,4,Coatesville,Hampton,No. 4,Dean Antos,Curtis Neasmith,Dean Antos,6-1,6,1,1,0,Completed,true,false,false
+UA009051,28 Feb 10,5,St James,Hampton,No. 1,Sophie Glynn,Dean Kolovos,Sophie Glynn,6-4,6,4,1,0,Completed,true,false,false
+UA009051,28 Feb 10,5,St James,Hampton,No. 2,Oliver Matterson,Amelia Scott,Amelia Scott,4-6,4,6,0,1,Completed,true,false,false
+UA009051,28 Feb 10,5,St James,Hampton,No. 3,Sasha Taranto,Calleu Neaurt,Calleu Neaurt,0-6,0,6,0,1,Completed,true,false,false
+UA009051,28 Feb 10,5,St James,Hampton,No. 4,Christopher James,Nicola Pohl,Nicola Pohl,2-6,2,6,0,1,Completed,true,false,false
+UA009052,28 Feb 10,5,Bodley Tennis Plus,Kooyong Scotch,No. 1,Denholm Oliver,Sarah Shellard,Denholm Oliver,6-4,6,4,1,0,Completed,true,false,false
+UA009052,28 Feb 10,5,Bodley Tennis Plus,Kooyong Scotch,No. 2,Will Serpell,Claire Shellard,Will Serpell,6-4,6,4,1,0,Completed,true,false,false
+UA009052,28 Feb 10,5,Bodley Tennis Plus,Kooyong Scotch,No. 3,George Mavrogiannis,Kate Cunningham,George Mavrogiannis,6-0,6,0,1,0,Completed,true,false,false
+UA009052,28 Feb 10,5,Bodley Tennis Plus,Kooyong Scotch,No. 4,James Burgess,Georgina Cunningham,James Burgess,6-1,6,1,1,0,Completed,true,false,false
+UA009053,28 Feb 10,5,St Louis de Mont,Coatesville,No. 1,Eamon Tuke,Andrew Chen,Eamon Tuke,6-4,6,4,1,0,Completed,true,false,false
+UA009053,28 Feb 10,5,St Louis de Mont,Coatesville,No. 2,Pat Hewitson,Ben Burke,Ben Burke,3-6,3,6,0,1,Completed,true,false,false
+UA009053,28 Feb 10,5,St Louis de Mont,Coatesville,No. 3,Tyler Brodie,Megan Supple,Megan Supple,3-6,3,6,0,1,Completed,true,false,false
+UA009053,28 Feb 10,5,St Louis de Mont,Coatesville,No. 4,Eliza Ballas,Emma McLaren,Emma McLaren,1-6,1,6,0,1,Completed,true,false,false
+UA009054,28 Feb 10,5,Caulfield Rec,BLTC,No. 1,Nick Tsampoulos,Alex Browne,Nick Tsampoulos,6-1,6,1,1,0,Completed,true,false,false
+UA009054,28 Feb 10,5,Caulfield Rec,BLTC,No. 2,Josh Hendley,Harrison Tate,Harrison Tate,2-6,2,6,0,1,Completed,true,false,false
+UA009054,28 Feb 10,5,Caulfield Rec,BLTC,No. 3,James Clark,Ian Buenafe Lysaght,James Clark,6-4,6,4,1,0,Completed,true,false,false
+UA009054,28 Feb 10,5,Caulfield Rec,BLTC,No. 4,Darren Chen,Tristan Sather,Tristan Sather,3-6,3,6,0,1,Completed,true,false,false
+UA009061,14 Mar 10,6,BLTC,St James,No. 1,Sam Browne,Sophie Glynn,Sam Browne,6-4,6,4,1,0,Completed,true,false,false
+UA009061,14 Mar 10,6,BLTC,St James,No. 2,Harrison Tate,Annabelle Harkins,Annabelle Harkins,3-6,3,6,0,1,Completed,true,false,false
+UA009061,14 Mar 10,6,BLTC,St James,No. 3,Ian Buenafe Lysaght,Sasha Taranto,Ian Buenafe Lysaght,6-4,6,4,1,0,Completed,true,false,false
+UA009061,14 Mar 10,6,BLTC,St James,No. 4,Tristan Sather,Christopher James,Tristan Sather,6-1,6,1,1,0,Completed,true,false,false
+UA009062,14 Mar 10,6,Hampton,Caulfield Rec,No. 1,Fraser Gillies,Nick Tsampoulos,Nick Tsampoulos,3-6,3,6,0,1,Completed,true,false,false
+UA009062,14 Mar 10,6,Hampton,Caulfield Rec,No. 2,Callum Neasmith,Charles Wylie,Charles Wylie,3-6,3,6,0,1,Completed,true,false,false
+UA009062,14 Mar 10,6,Hampton,Caulfield Rec,No. 3,Curtis Neasmith,Josh Patti,Josh Patti,1-6,1,6,0,1,Completed,true,false,false
+UA009062,14 Mar 10,6,Hampton,Caulfield Rec,No. 4,Nicola Pohl,Darren Chen,Darren Chen,1-6,1,6,0,1,Completed,true,false,false
+UA009063,14 Mar 10,6,Kooyong Scotch,St Louis de Mont,No. 1,Sarah Shellard,Kellie Barnhoorn,Sarah Shellard,6-1,6,1,1,0,Completed,true,false,false
+UA009063,14 Mar 10,6,Kooyong Scotch,St Louis de Mont,No. 2,Claire Shellard,Eamon Tuke,Claire Shellard,6-3,6,3,1,0,Completed,true,false,false
+UA009063,14 Mar 10,6,Kooyong Scotch,St Louis de Mont,No. 3,Milly Lawson-kelleway,Tyler Brodie,Tyler Brodie,4-6,4,6,0,1,Completed,true,false,false
+UA009063,14 Mar 10,6,Kooyong Scotch,St Louis de Mont,No. 4,Georgina Cunningham,Seamus Tuke,Seamus Tuke,1-6,1,6,0,1,Completed,true,false,false
+UA009064,14 Mar 10,6,Coatesville,Bodley Tennis Plus,No. 1,Chris McLaren,Denholm Oliver,Chris McLaren,6-1,6,1,1,0,Completed,true,false,false
+UA009064,14 Mar 10,6,Coatesville,Bodley Tennis Plus,No. 2,Andrew Chen,Shaun Evans,Andrew Chen,6-1,6,1,1,0,Completed,true,false,false
+UA009064,14 Mar 10,6,Coatesville,Bodley Tennis Plus,No. 3,Meg Hickey,George Mavrogiannis,George Mavrogiannis,4-6,4,6,0,1,Completed,true,false,false
+UA009064,14 Mar 10,6,Coatesville,Bodley Tennis Plus,No. 4,Emma McLaren,James Burgess,Emma McLaren,6-1,6,1,1,0,Completed,true,false,false
+UA009071,21 Mar 10,7,Caulfield Rec,St James,No. 1,Nick Tsampoulos,Sophie Glynn,Nick Tsampoulos,6-1,6,1,1,0,Completed,true,false,false
+UA009071,21 Mar 10,7,Caulfield Rec,St James,No. 2,Charles Wylie,Oliver Matterson,Charles Wylie,6-1,6,1,1,0,Completed,true,false,false
+UA009071,21 Mar 10,7,Caulfield Rec,St James,No. 3,Josh Hendley,Sasha Taranto,Josh Hendley,6-1,6,1,1,0,Completed,true,false,false
+UA009071,21 Mar 10,7,Caulfield Rec,St James,No. 4,Josh Patti,Christopher James,Christopher James,2-6,2,6,0,1,Completed,true,false,false
+UA009072,21 Mar 10,7,BLTC,Hampton,No. 1,Sam Browne,Fraser Gillies,Sam Browne,6-2,6,2,1,0,Completed,true,false,false
+UA009072,21 Mar 10,7,BLTC,Hampton,No. 2,Alex Browne,Callum Neasmith,Alex Browne,6-1,6,1,1,0,Completed,true,false,false
+UA009072,21 Mar 10,7,BLTC,Hampton,No. 3,Harrison Tate,Nicola Pohl,Harrison Tate,6-0,6,0,1,0,Completed,true,false,false
+UA009072,21 Mar 10,7,BLTC,Hampton,No. 4,Tristan Sather,Curtis Neasmith,Tristan Sather,6-3,6,3,1,0,Completed,true,false,false
+UA009073,21 Mar 10,7,Bodley Tennis Plus,St Louis de Mont,No. 1,Matt Zagni,Kellie Barnhoorn,Matt Zagni,6-3,6,3,1,0,Completed,true,false,false
+UA009073,21 Mar 10,7,Bodley Tennis Plus,St Louis de Mont,No. 2,Denholm Oliver,Eamon Tuke,Eamon Tuke,1-6,1,6,0,1,Completed,true,false,false
+UA009073,21 Mar 10,7,Bodley Tennis Plus,St Louis de Mont,No. 3,Shaun Evans,Tyler Brodie,Tyler Brodie,2-6,2,6,0,1,Completed,true,false,false
+UA009073,21 Mar 10,7,Bodley Tennis Plus,St Louis de Mont,No. 4,James Burgess,Seamus Tuke,James Burgess,6-1,6,1,1,0,Completed,true,false,false
+UA009074,21 Mar 10,7,Kooyong Scotch,Coatesville,No. 1,Sarah Shellard,Ben Burke,Sarah Shellard,6-4,6,4,1,0,Completed,true,false,false
+UA009074,21 Mar 10,7,Kooyong Scotch,Coatesville,No. 2,Sarah Lockwood,Meg Hickey,Sarah Lockwood,6-0,6,0,1,0,Completed,true,false,false
+UA009074,21 Mar 10,7,Kooyong Scotch,Coatesville,No. 3,Milly Lawson-kelleway,Emma McLaren,Milly Lawson-kelleway,6-4,6,4,1,0,Completed,true,false,false
+UA009074,21 Mar 10,7,Kooyong Scotch,Coatesville,No. 4,Kate Cunningham,Dean Antos,Dean Antos,5-7,5,7,0,1,Completed,true,false,false
+UA009081,28 Mar 10,8,Coatesville,Caulfield Rec,No. 1,Andrew Chen,Nick Tsampoulos,Nick Tsampoulos,3-6,3,6,0,1,Completed,true,false,false
+UA009081,28 Mar 10,8,Coatesville,Caulfield Rec,No. 2,Ben Burke,Tim Kati,Tim Kati,1-6,1,6,0,1,Completed,true,false,false
+UA009081,28 Mar 10,8,Coatesville,Caulfield Rec,No. 3,Meg Hickey,Josh Patti,Josh Patti,3-6,3,6,0,1,Completed,true,false,false
+UA009081,28 Mar 10,8,Coatesville,Caulfield Rec,No. 4,Dean Antos,Meric Oz,Dean Antos,7-6,7,6,1,0,Completed,true,false,false
+UA009082,28 Mar 10,8,St Louis de Mont,BLTC,No. 1,Kellie Barnhoorn,Sam Browne,Sam Browne,3-6,3,6,0,1,Completed,true,false,false
+UA009082,28 Mar 10,8,St Louis de Mont,BLTC,No. 2,Eamon Tuke,Tristan Sather,Eamon Tuke,6-4,6,4,1,0,Completed,true,false,false
+UA009082,28 Mar 10,8,St Louis de Mont,BLTC,No. 3,Tyler Brodie,Derrick Thompson,Derrick Thompson,4-6,4,6,0,1,Completed,true,false,false
+UA009082,28 Mar 10,8,St Louis de Mont,BLTC,No. 4,Taylor Wills,Jacob De Kleijzer,Taylor Wills,7-6,7,6,1,0,Completed,true,false,false
+UA009083,28 Mar 10,8,Kooyong Scotch,St James,No. 1,Sarah Shellard,Annabelle Harkins,Sarah Shellard,6-3,6,3,1,0,Completed,true,false,false
+UA009083,28 Mar 10,8,Kooyong Scotch,St James,No. 2,Annabel Jones,Oliver Matterson,Annabel Jones,7-5,7,5,1,0,Completed,true,false,false
+UA009083,28 Mar 10,8,Kooyong Scotch,St James,No. 3,Claire Shellard,Olivia Wallace,Claire Shellard,6-0,6,0,1,0,Completed,true,false,false
+UA009083,28 Mar 10,8,Kooyong Scotch,St James,No. 4,Milly Lawson-kelleway,Sasha Taranto,Sasha Taranto,4-6,4,6,0,1,Completed,true,false,false
+UA009084,28 Mar 10,8,Bodley Tennis Plus,Hampton,No. 1,Denholm Oliver,Dean Kolovos,Dean Kolovos,4-6,4,6,0,1,Completed,true,false,false
+UA009084,28 Mar 10,8,Bodley Tennis Plus,Hampton,No. 2,Shaun Evans,Amelia Scott,Shaun Evans,6-0,6,0,1,0,Completed,true,false,false
+UA009084,28 Mar 10,8,Bodley Tennis Plus,Hampton,No. 3,George Mavrogiannis,Callum Neasmith,Callum Neasmith,6-7,6,7,0,1,Completed,true,false,false
+UA009084,28 Mar 10,8,Bodley Tennis Plus,Hampton,No. 4,James Burgess,Curtis Neasmith,James Burgess,6-3,6,3,1,0,Completed,true,false,false
+UA009091,18 Apr 10,9,Caulfield Rec,Bodley Tennis Plus,No. 1,Nick Tsampoulos,Denholm Oliver,Nick Tsampoulos,6-1,6,1,1,0,Completed,true,false,false
+UA009091,18 Apr 10,9,Caulfield Rec,Bodley Tennis Plus,No. 2,Tim Kati,Shaun Evans,Tim Kati,6-2,6,2,1,0,Completed,true,false,false
+UA009091,18 Apr 10,9,Caulfield Rec,Bodley Tennis Plus,No. 3,Charles Wylie,George Mavrogiannis,Charles Wylie,6-2,6,2,1,0,Completed,true,false,false
+UA009091,18 Apr 10,9,Caulfield Rec,Bodley Tennis Plus,No. 4,Josh Hendley,Will Serpell,Will Serpell,0-6,0,6,0,1,Completed,true,false,false
+UA009092,18 Apr 10,9,BLTC,Coatesville,No. 1,Sam Browne,Andrew Chen,Sam Browne,6-2,6,2,1,0,Completed,true,false,false
+UA009092,18 Apr 10,9,BLTC,Coatesville,No. 2,Alex Browne,Matthew Wall,Matthew Wall,3-6,3,6,0,1,Completed,true,false,false
+UA009092,18 Apr 10,9,BLTC,Coatesville,No. 3,Tristan Sather,Meg Hickey,Tristan Sather,6-2,6,2,1,0,Completed,true,false,false
+UA009092,18 Apr 10,9,BLTC,Coatesville,No. 4,Wes Flavell,Dean Antos,Dean Antos,4-6,4,6,0,1,Completed,true,false,false
+UA009093,18 Apr 10,9,St James,St Louis de Mont,No. 1,Sophie Glynn,Kellie Barnhoorn,Sophie Glynn,6-0,6,0,1,0,Completed,true,false,false
+UA009093,18 Apr 10,9,St James,St Louis de Mont,No. 2,Annabelle Harkins,Eamon Tuke,Annabelle Harkins,6-2,6,2,1,0,Completed,true,false,false
+UA009093,18 Apr 10,9,St James,St Louis de Mont,No. 3,Oliver Matterson,Tyler Brodie,Tyler Brodie,2-6,2,6,0,1,Completed,true,false,false
+UA009093,18 Apr 10,9,St James,St Louis de Mont,No. 4,Sasha Taranto,Seamus Tuke,Sasha Taranto,6-1,6,1,1,0,Completed,true,false,false
+UA009094,18 Apr 10,9,Hampton,Kooyong Scotch,No. 1,Amelia Scott,Annabel Jones,Annabel Jones,3-6,3,6,0,1,Completed,true,false,false
+UA009094,18 Apr 10,9,Hampton,Kooyong Scotch,No. 2,Fraser Gillies,Claire Shellard,Claire Shellard,6-7,6,7,0,1,Completed,true,false,false
+UA009094,18 Apr 10,9,Hampton,Kooyong Scotch,No. 3,Nicola Pohl,Sarah Lockwood,Sarah Lockwood,4-6,4,6,0,1,Completed,true,false,false
+UA009094,18 Apr 10,9,Hampton,Kooyong Scotch,No. 4,Curtis Neasmith,Kate Cunningham,Kate Cunningham,0-6,0,6,0,1,Completed,true,false,false
+UA009101,02 May 10,10,Kooyong Scotch,Caulfield Rec,No. 1,Sarah Shellard,Nick Tsampoulos,Nick Tsampoulos,5-7,5,7,0,1,Completed,true,false,false
+UA009101,02 May 10,10,Kooyong Scotch,Caulfield Rec,No. 2,Kate Cunningham,Darren Chen,Darren Chen,5-7,5,7,0,1,Completed,true,false,false
+UA009101,02 May 10,10,Kooyong Scotch,Caulfield Rec,No. 3,Georgina Cunningham,Josh Tarrant,Georgina Cunningham,6-0,6,0,1,0,Completed,true,false,true
+UA009102,02 May 10,10,Bodley Tennis Plus,BLTC,No. 1,Denholm Oliver,Sam Browne,Denholm Oliver,6-4,6,4,1,0,Completed,true,false,false
+UA009102,02 May 10,10,Bodley Tennis Plus,BLTC,No. 2,Will Serpell,Alex Browne,Alex Browne,6-7,6,7,0,1,Completed,true,false,false
+UA009102,02 May 10,10,Bodley Tennis Plus,BLTC,No. 3,George Mavrogiannis,Harrison Tate,Harrison Tate,1-6,1,6,0,1,Completed,true,false,false
+UA009102,02 May 10,10,Bodley Tennis Plus,BLTC,No. 4,James Burgess,Ian Buenafe Lysaght,Ian Buenafe Lysaght,0-6,0,6,0,1,Completed,true,false,false
+UA009103,02 May 10,10,Coatesville,St James,No. 1,Andrew Chen,Sophie Glynn,Andrew Chen,6-1,6,1,1,0,Completed,true,false,false
+UA009103,02 May 10,10,Coatesville,St James,No. 2,Ben Burke,Oliver Matterson,Ben Burke,6-1,6,1,1,0,Completed,true,false,false
+UA009103,02 May 10,10,Coatesville,St James,No. 3,Meg Hickey,Sasha Taranto,Meg Hickey,6-4,6,4,1,0,Completed,true,false,false
+UA009103,02 May 10,10,Coatesville,St James,No. 4,Dean Antos,Christopher James,Dean Antos,6-0,6,0,1,0,Completed,true,false,false
+UA009104,02 May 10,10,St Louis de Mont,Hampton,No. 1,Kellie Barnhoorn,Dean Kolovos,Kellie Barnhoorn,6-3,6,3,1,0,Completed,true,false,false
+UA009104,02 May 10,10,St Louis de Mont,Hampton,No. 2,Eamon Tuke,Fraser Gillies,Eamon Tuke,6-0,6,0,1,0,Completed,true,false,false
+UA009104,02 May 10,10,St Louis de Mont,Hampton,No. 3,Tyler Brodie,Nicola Pohl,Tyler Brodie,6-3,6,3,1,0,Completed,true,false,false
+UA009104,02 May 10,10,St Louis de Mont,Hampton,No. 4,Pat Hewitson,Curtis Neasmith,Pat Hewitson,6-2,6,2,1,0,Completed,true,false,false
+UA009111,09 May 10,11,Caulfield Rec,St Louis de Mont,No. 1,Nick Tsampoulos,Billy Flaelle,Nick Tsampoulos,6-2,6,2,1,0,Completed,true,false,false
+UA009111,09 May 10,11,Caulfield Rec,St Louis de Mont,No. 2,Tim Kati,Tyler Brodie,Tim Kati,6-1,6,1,1,0,Completed,true,false,false
+UA009111,09 May 10,11,Caulfield Rec,St Louis de Mont,No. 3,Charles Wylie,Pat Hewitson,Charles Wylie,6-3,6,3,1,0,Completed,true,false,false
+UA009111,09 May 10,11,Caulfield Rec,St Louis de Mont,No. 4,Josh Patti,Seamus Tuke,Seamus Tuke,2-6,2,6,0,1,Completed,true,false,false
+UA009112,09 May 10,11,BLTC,Kooyong Scotch,No. 1,Sam Browne,Sarah Shellard,Sarah Shellard,2-6,2,6,0,1,Completed,true,false,false
+UA009112,09 May 10,11,BLTC,Kooyong Scotch,No. 2,Alex Browne,Annabel Jones,Annabel Jones,1-6,1,6,0,1,Completed,true,false,false
+UA009112,09 May 10,11,BLTC,Kooyong Scotch,No. 3,Ian Buenafe Lysaght,Claire Shellard,Claire Shellard,2-6,2,6,0,1,Completed,true,false,false
+UA009112,09 May 10,11,BLTC,Kooyong Scotch,No. 4,Tristan Sather,Milly Lawson-kelleway,Tristan Sather,6-2,6,2,1,0,Completed,true,false,false
+UA009113,09 May 10,11,St James,Bodley Tennis Plus,No. 1,Sophie Glynn,Denholm Oliver,Denholm Oliver,2-6,2,6,0,1,Completed,true,false,false
+UA009113,09 May 10,11,St James,Bodley Tennis Plus,No. 2,Oliver Matterson,Will Serpell,Will Serpell,3-6,3,6,0,1,Completed,true,false,false
+UA009113,09 May 10,11,St James,Bodley Tennis Plus,No. 3,Sasha Taranto,George Mavrogiannis,Sasha Taranto,6-2,6,2,1,0,Completed,true,false,false
+UA009113,09 May 10,11,St James,Bodley Tennis Plus,No. 4,Christopher James,James Burgess,Christopher James,6-3,6,3,1,0,Completed,true,false,false
+UA009114,09 May 10,11,Hampton,Coatesville,No. 1,Dean Kolovos,Andrew Chen,Andrew Chen,0-6,0,6,0,1,Completed,true,false,false
+UA009114,09 May 10,11,Hampton,Coatesville,No. 2,Amelia Scott,Ben Burke,Ben Burke,0-6,0,6,0,1,Completed,true,false,false
+UA009114,09 May 10,11,Hampton,Coatesville,No. 3,Callum Neasmith,Meg Hickey,Callum Neasmith,6-1,6,1,1,0,Completed,true,false,false
+UA009114,09 May 10,11,Hampton,Coatesville,No. 4,Curtis Neasmith,Emma McLaren,Emma McLaren,0-6,0,6,0,1,Completed,true,false,false
+UA009121,16 May 10,12,Hampton,St James,No. 1,Amelia Scott,Sophie Glynn,Sophie Glynn,6-7,6,7,0,1,Completed,true,false,false
+UA009121,16 May 10,12,Hampton,St James,No. 2,Harrison Jones,Oliver Matterson,Oliver Matterson,1-6,1,6,0,1,Completed,true,false,false
+UA009121,16 May 10,12,Hampton,St James,No. 3,Nicola Pohl,Sasha Taranto,Sasha Taranto,1-6,1,6,0,1,Completed,true,false,false
+UA009121,16 May 10,12,Hampton,St James,No. 4,Curtis Neasmith,Christopher James,Christopher James,3-6,3,6,0,1,Completed,true,false,false
+UA009122,16 May 10,12,Kooyong Scotch,Bodley Tennis Plus,No. 1,Sarah Shellard,Denholm Oliver,Sarah Shellard,6-1,6,1,1,0,Completed,true,false,false
+UA009122,16 May 10,12,Kooyong Scotch,Bodley Tennis Plus,No. 2,Annabel Jones,George Mavrogiannis,Annabel Jones,6-3,6,3,1,0,Completed,true,false,false
+UA009122,16 May 10,12,Kooyong Scotch,Bodley Tennis Plus,No. 3,Claire Shellard,Shaun Evans,Claire Shellard,6-0,6,0,1,0,Completed,true,false,false
+UA009122,16 May 10,12,Kooyong Scotch,Bodley Tennis Plus,No. 4,Sarah Lockwood,James Burgess,Sarah Lockwood,6-2,6,2,1,0,Completed,true,false,false
+UA009123,16 May 10,12,Coatesville,St Louis de Mont,No. 1,Ben Burke,Kellie Barnhoorn,Ben Burke,6-0,6,0,1,0,Completed,true,false,false
+UA009123,16 May 10,12,Coatesville,St Louis de Mont,No. 2,Meg Hickey,Eamon Tuke,Eamon Tuke,2-6,2,6,0,1,Completed,true,false,false
+UA009123,16 May 10,12,Coatesville,St Louis de Mont,No. 3,Emma McLaren,Pat Hewitson,Pat Hewitson,0-6,0,6,0,1,Completed,true,false,false
+UA009123,16 May 10,12,Coatesville,St Louis de Mont,No. 4,Dean Antos,Seamus Tuke,Dean Antos,6-3,6,3,1,0,Completed,true,false,false
+UA009124,16 May 10,12,BLTC,Caulfield Rec,No. 1,Sam Browne,Nick Tsampoulos,Nick Tsampoulos,6-7,6,7,0,1,Completed,true,false,false
+UA009124,16 May 10,12,BLTC,Caulfield Rec,No. 2,Harrison Tate,Tim Kati,Tim Kati,5-7,5,7,0,1,Completed,true,false,false
+UA009124,16 May 10,12,BLTC,Caulfield Rec,No. 3,Ian Buenafe Lysaght,Charles Wylie,Charles Wylie,2-6,2,6,0,1,Completed,true,false,false
+UA009124,16 May 10,12,BLTC,Caulfield Rec,No. 4,Tristan Sather,Darren Chen,Darren Chen,0-6,0,6,0,1,Completed,true,false,false
+UA009131,23 May 10,13,St James,BLTC,No. 1,Sophie Glynn,Sam Browne,Sam Browne,4-6,4,6,0,1,Completed,true,false,false
+UA009131,23 May 10,13,St James,BLTC,No. 2,Annabelle Harkins,Derrick Thompson,Annabelle Harkins,6-1,6,1,1,0,Completed,true,false,false
+UA009131,23 May 10,13,St James,BLTC,No. 3,Oliver Matterson,Harrison Tate,Harrison Tate,5-7,5,7,0,1,Completed,true,false,false
+UA009131,23 May 10,13,St James,BLTC,No. 4,Christopher James,Ian Buenafe Lysaght,Christopher James,7-6,7,6,1,0,Completed,true,false,false
+UA009132,23 May 10,13,Caulfield Rec,Hampton,No. 1,Nick Tsampoulos,Danny Kouovos,Nick Tsampoulos,6-0,6,0,1,0,Completed,true,false,false
+UA009132,23 May 10,13,Caulfield Rec,Hampton,No. 2,Tim Kati,Harrison Jones,Tim Kati,6-0,6,0,1,0,Completed,true,false,false
+UA009132,23 May 10,13,Caulfield Rec,Hampton,No. 3,Charles Wylie,Curtis Neasmith,Charles Wylie,6-2,6,2,1,0,Completed,true,false,false
+UA009132,23 May 10,13,Caulfield Rec,Hampton,No. 4,Darren Chen,Nicola Pohl,Darren Chen,6-1,6,1,1,0,Completed,true,false,false
+UA009133,23 May 10,13,St Louis de Mont,Kooyong Scotch,No. 1,Kellie Barnhoorn,Sarah Shellard,Sarah Shellard,2-6,2,6,0,1,Completed,true,false,false
+UA009133,23 May 10,13,St Louis de Mont,Kooyong Scotch,No. 2,Eamon Tuke,Sarah Lockwood,Sarah Lockwood,4-6,4,6,0,1,Completed,true,false,false
+UA009133,23 May 10,13,St Louis de Mont,Kooyong Scotch,No. 3,Tyler Brodie,Kate Cunningham,Kate Cunningham,2-6,2,6,0,1,Completed,true,false,false
+UA009133,23 May 10,13,St Louis de Mont,Kooyong Scotch,No. 4,Seamus Tuke,Georgina Cunningham,Seamus Tuke,6-4,6,4,1,0,Completed,true,false,false
+UA009134,23 May 10,13,Bodley Tennis Plus,Coatesville,No. 1,Shaun Evans,Andrew Chen,Andrew Chen,5-7,5,7,0,1,Completed,true,false,false
+UA009134,23 May 10,13,Bodley Tennis Plus,Coatesville,No. 2,Will Serpell,Ben Burke,Ben Burke,4-6,4,6,0,1,Completed,true,false,false
+UA009134,23 May 10,13,Bodley Tennis Plus,Coatesville,No. 3,George Mavrogiannis,Meg Hickey,George Mavrogiannis,6-1,6,1,1,0,Completed,true,false,false
+UA009134,23 May 10,13,Bodley Tennis Plus,Coatesville,No. 4,James Burgess,Dean Antos,Dean Antos,0-6,0,6,0,1,Completed,true,false,false
+UA009141,30 May 10,14,St James,Caulfield Rec,No. 1,Sophie Glynn,Nick Tsampoulos,Nick Tsampoulos,2-6,2,6,0,1,Completed,true,false,false
+UA009141,30 May 10,14,St James,Caulfield Rec,No. 2,Annabelle Harkins,Tim Kati,Tim Kati,1-6,1,6,0,1,Completed,true,false,false
+UA009141,30 May 10,14,St James,Caulfield Rec,No. 3,Oliver Matterson,Charles Wylie,Oliver Matterson,6-3,6,3,1,0,Completed,true,false,false
+UA009141,30 May 10,14,St James,Caulfield Rec,No. 4,Sasha Taranto,Josh Hendley,Josh Hendley,1-6,1,6,0,1,Completed,true,false,false
+UA009143,30 May 10,14,St Louis de Mont,Bodley Tennis Plus,No. 1,Kellie Barnhoorn,Denholm Oliver,Kellie Barnhoorn,6-2,6,2,1,0,Completed,true,false,false
+UA009143,30 May 10,14,St Louis de Mont,Bodley Tennis Plus,No. 2,Eamon Tuke,Will Serpell,Eamon Tuke,6-3,6,3,1,0,Completed,true,false,false
+UA009143,30 May 10,14,St Louis de Mont,Bodley Tennis Plus,No. 3,Seamus Tuke,George Mavrogiannis,Seamus Tuke,6-2,6,2,1,0,Completed,true,false,false
+UA009143,30 May 10,14,St Louis de Mont,Bodley Tennis Plus,No. 4,Pat Hewitson,Gerry Halliday,Gerry Halliday,6-7,6,7,0,1,Completed,true,false,false
+UA009144,30 May 10,14,Coatesville,Kooyong Scotch,No. 1,Andrew Chen,Sarah Shellard,Andrew Chen,6-2,6,2,1,0,Completed,true,false,false
+UA009144,30 May 10,14,Coatesville,Kooyong Scotch,No. 2,Meg Hickey,Claire Shellard,Claire Shellard,3-6,3,6,0,1,Completed,true,false,false
+UA009144,30 May 10,14,Coatesville,Kooyong Scotch,No. 3,Emma McLaren,Sarah Lockwood,Sarah Lockwood,2-6,2,6,0,1,Completed,true,false,false
+UA009144,30 May 10,14,Coatesville,Kooyong Scotch,No. 4,Dean Antos,Milly Lawson-kelleway,Dean Antos,6-2,6,2,1,0,Completed,true,false,false
+UA009301,,16,Caulfield Rec,Coatesville,No. 1,Nick Tsampoulos,Andrew Chen,Nick Tsampoulos,6-4,6,4,1,0,Completed,true,false,false
+UA009301,,16,Caulfield Rec,Coatesville,No. 2,Tim Kati,Ben Burke,Ben Burke,6-7,6,7,0,1,Completed,true,false,false
+UA009301,,16,Caulfield Rec,Coatesville,No. 3,Darren Chen,Emma McLaren,Darren Chen,6-4,6,4,1,0,Completed,true,true,false
+UA009301,,16,Caulfield Rec,Coatesville,No. 4,Josh Hendley,Dean Antos,Josh Hendley,6-3,6,3,1,0,Completed,true,false,true
+UA009302,,16,Kooyong Scotch,BLTC,No. 1,Sarah Shellard,Sam Browne,Sarah Shellard,6-3,6,3,1,0,Completed,true,false,false
+UA009302,,16,Kooyong Scotch,BLTC,No. 2,Annabel Jones,Alex Browne,Annabel Jones,6-3,6,3,1,0,Completed,true,false,false
+UA009302,,16,Kooyong Scotch,BLTC,No. 3,Claire Shellard,Harrison Tate,Claire Shellard,6-3,6,3,1,0,Completed,true,false,true
+UA009302,,16,Kooyong Scotch,BLTC,No. 4,Sarah Lockwood,Ian Buenafe Lysaght,Ian Buenafe Lysaght,3-6,3,6,0,1,Completed,true,false,false
+UA009321,,17,Caulfield Rec,Kooyong Scotch,No. 1,Nick Tsampoulos,Sarah Shellard,Nick Tsampoulos,6-1,6,1,1,0,Completed,true,false,false
+UA009321,,17,Caulfield Rec,Kooyong Scotch,No. 2,Tim Kati,Annabel Jones,Tim Kati,6-3,6,3,1,0,Completed,true,false,false
+UA009321,,17,Caulfield Rec,Kooyong Scotch,No. 3,Charles Wylie,Claire Shellard,Claire Shellard,3-6,3,6,0,1,Completed,true,false,false
+UA009321,,17,Caulfield Rec,Kooyong Scotch,No. 4,Josh Hendley,Milly Lawson-kelleway,Milly Lawson-kelleway,2-6,2,6,0,1,Completed,true,false,true

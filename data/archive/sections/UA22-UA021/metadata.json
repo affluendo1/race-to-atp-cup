@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA22-UA021",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA021",
+  "section_label": "Section 21",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Dendy Park",
+      "wins": 14,
+      "points": 125,
+      "percentage": 217.76,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Black Rock",
+      "wins": 9,
+      "points": 94,
+      "percentage": 141.35,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "St Andrews MB Kevin",
+      "wins": 8,
+      "points": 83,
+      "percentage": 125.32,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Aspendale",
+      "wins": 8,
+      "points": 78,
+      "percentage": 108.11,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Le Page",
+      "wins": 7,
+      "points": 72,
+      "percentage": 108.19,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave",
+      "wins": 6,
+      "points": 68,
+      "percentage": 100.32,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra",
+      "wins": 2,
+      "points": 24,
+      "percentage": 43.64,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC MLC",
+      "wins": 0,
+      "points": 16,
+      "percentage": 47.01,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA021",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 231,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,94 @@
+{
+  "asset_id": "UA6-UA008",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2010",
+  "season_id": "UA6",
+  "season_label": "Autumn 2010",
+  "source_section_code": "UA008",
+  "section_label": "Section 8",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Port Melbourne",
+      "wins": 0,
+      "points": 91,
+      "percentage": 149.8,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Mordialloc",
+      "wins": 0,
+      "points": 90,
+      "percentage": 113.25,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Black Rock",
+      "wins": 0,
+      "points": 87,
+      "percentage": 128.8,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 0,
+      "points": 80,
+      "percentage": 108.67,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Beaumaris CC",
+      "wins": 0,
+      "points": 71,
+      "percentage": 111.11,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 61.5,
+      "percentage": 94.81,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Caulfield Rec",
+      "wins": 0,
+      "points": 43,
+      "percentage": 59.84,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC MLC",
+      "wins": 0,
+      "points": 36.5,
+      "percentage": 56.9,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA6-UA008",
+  "fixtures": 59,
+  "completed_fixtures": 56,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "No scorecard rubbers for UA008032",
+    "Fixture game totals do not match rubbers for UA008032"
+  ]
+}

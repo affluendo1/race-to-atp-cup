@@ -1,0 +1,65 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA022011,15 Nov 20,1,BLTC,Dendy Park,No. 1,Noah Anderson,Alexia Frank,Alexia Frank,3-6,3,6,0,1,Completed,true,false,false
+UA022011,15 Nov 20,1,BLTC,Dendy Park,No. 2,Zane Rushton,Ben Vodilsoki,Ben Vodilsoki,0-6,0,6,0,1,Completed,true,false,false
+UA022011,15 Nov 20,1,BLTC,Dendy Park,No. 3,Ryder Anderson,Toby Hansen,Toby Hansen,0-6,0,6,0,1,Completed,true,false,false
+UA022011,15 Nov 20,1,BLTC,Dendy Park,No. 4,Jimmy Rushton,Harvey Stroeder,Harvey Stroeder,3-6,3,6,0,1,Completed,true,false,false
+UA022012,15 Nov 20,1,Coatesville,Mentone,No. 1,Anthony Nicolaides,Samuel Leard,Anthony Nicolaides,6-4,6,4,1,0,Completed,true,false,false
+UA022012,15 Nov 20,1,Coatesville,Mentone,No. 2,Mira Kegly,Lewis Moore,Mira Kegly,6-0,6,0,1,0,Completed,true,false,false
+UA022012,15 Nov 20,1,Coatesville,Mentone,No. 3,Georgia Nicolaides,Alexander Granell,Georgia Nicolaides,6-1,6,1,1,0,Completed,true,false,false
+UA022012,15 Nov 20,1,Coatesville,Mentone,No. 4,Lara Kam,Michelle Ye,Michelle Ye,3-6,3,6,0,1,Completed,true,false,false
+UA022014,15 Nov 20,1,Royal Ave,Hurlingham Park,No. 1,Zane Khan,James Russo,James Russo,3-6,3,6,0,1,Completed,true,false,false
+UA022014,15 Nov 20,1,Royal Ave,Hurlingham Park,No. 2,Oliver Young,Dane Sujica-Zimmermann,Oliver Young,6-1,6,1,1,0,Completed,true,false,false
+UA022014,15 Nov 20,1,Royal Ave,Hurlingham Park,No. 3,Matthew Varis,Sam Russo,Sam Russo,0-6,0,6,0,1,Completed,true,false,false
+UA022014,15 Nov 20,1,Royal Ave,Hurlingham Park,No. 4,Emilio Thirard,Thomas Lyon,Emilio Thirard,6-3,6,3,1,0,Completed,true,false,true
+UA022021,22 Nov 20,2,Hurlingham Park,BLTC,No. 1,James Russo,Noah Anderson,Noah Anderson,4-6,4,6,0,1,Completed,true,false,false
+UA022021,22 Nov 20,2,Hurlingham Park,BLTC,No. 2,Dane Sujica-Zimmermann,Andrew McIntyre,Andrew McIntyre,4-6,4,6,0,1,Completed,true,false,false
+UA022021,22 Nov 20,2,Hurlingham Park,BLTC,No. 3,Sam Russo,Zane Rushton,Sam Russo,6-2,6,2,1,0,Completed,true,false,false
+UA022021,22 Nov 20,2,Hurlingham Park,BLTC,No. 4,Thomas Lyon,Ryder Anderson,Ryder Anderson,1-6,1,6,0,1,Completed,true,true,false
+UA022022,22 Nov 20,2,Dendy Park,Coatesville,No. 1,Toby Hansen,Lia Nemenon,Toby Hansen,6-1,6,1,1,0,Completed,true,false,false
+UA022022,22 Nov 20,2,Dendy Park,Coatesville,No. 2,Alexia Frank,Sophie Gershenzen,Alexia Frank,6-0,6,0,1,0,Completed,true,false,false
+UA022022,22 Nov 20,2,Dendy Park,Coatesville,No. 3,Harvey Stroeder,Anthony Nicolaides,Anthony Nicolaides,3-6,3,6,0,1,Completed,true,false,false
+UA022022,22 Nov 20,2,Dendy Park,Coatesville,No. 4,Ben Vodilsoki,Georgia Nicolaides,Ben Vodilsoki,6-0,6,0,1,0,Completed,true,false,false
+UA022023,22 Nov 20,2,Mentone,Kings Park,No. 1,Tome Lazic,[Unnamed player — TROLS UA022023 away code 1],Tome Lazic,6-0,6,0,1,0,Completed,false,false,false
+UA022023,22 Nov 20,2,Mentone,Kings Park,No. 2,Michelle Ye,Krish Chopra,Krish Chopra,3-6,3,6,0,1,Completed,true,false,false
+UA022023,22 Nov 20,2,Mentone,Kings Park,No. 3,Lewis Moore,Pujan Kukadiya,Pujan Kukadiya,3-6,3,6,0,1,Completed,true,false,false
+UA022023,22 Nov 20,2,Mentone,Kings Park,No. 4,Alexander Granell,Suzanne Shaiil,Suzanne Shaiil,0-6,0,6,0,1,Completed,true,false,false
+UA022032,29 Nov 20,3,Coatesville,Hurlingham Park,No. 1,Mira Kegly,James Russo,Mira Kegly,6-3,6,3,1,0,Completed,true,false,false
+UA022032,29 Nov 20,3,Coatesville,Hurlingham Park,No. 2,Lia Nemenon,Dane Sujica-Zimmermann,Dane Sujica-Zimmermann,2-6,2,6,0,1,Completed,true,false,false
+UA022032,29 Nov 20,3,Coatesville,Hurlingham Park,No. 3,Lara Kam,Sam Russo,Sam Russo,0-6,0,6,0,1,Completed,true,false,false
+UA022032,29 Nov 20,3,Coatesville,Hurlingham Park,No. 4,Sophie Gershenzen,Thomas Lyon,Thomas Lyon,2-6,2,6,0,1,Completed,true,false,true
+UA022034,29 Nov 20,3,Royal Ave,Mentone,No. 1,Zane Khan,Samuel Leard,Samuel Leard,4-6,4,6,0,1,Completed,true,false,false
+UA022034,29 Nov 20,3,Royal Ave,Mentone,No. 2,Oliver Young,Tome Lazic,Oliver Young,6-1,6,1,1,0,Completed,true,false,false
+UA022034,29 Nov 20,3,Royal Ave,Mentone,No. 3,Matthew Varis,Lewis Moore,Matthew Varis,6-3,6,3,1,0,Completed,true,false,false
+UA022034,29 Nov 20,3,Royal Ave,Mentone,No. 4,Emilio Thirard,Alexander Granell,Emilio Thirard,6-2,6,2,1,0,Completed,true,false,false
+UA022041,06 Dec 20,4,Mentone,BLTC,No. 1,Samuel Leard,Noah Anderson,Noah Anderson,6-7,6,7,0,1,Completed,true,false,false
+UA022041,06 Dec 20,4,Mentone,BLTC,No. 2,Michelle Ye,Zane Rushton,Zane Rushton,1-6,1,6,0,1,Completed,true,false,false
+UA022041,06 Dec 20,4,Mentone,BLTC,No. 3,Lewis Moore,Ryder Anderson,Lewis Moore,6-1,6,1,1,0,Completed,true,false,false
+UA022041,06 Dec 20,4,Mentone,BLTC,No. 4,Alexander Granell,Jimmy Rushton,Jimmy Rushton,1-6,1,6,0,1,Completed,true,false,false
+UA022043,06 Dec 20,4,Hurlingham Park,Kings Park,No. 1,James Russo,Tintin Tran,Tintin Tran,4-6,4,6,0,1,Completed,true,false,false
+UA022043,06 Dec 20,4,Hurlingham Park,Kings Park,No. 2,Dane Sujica-Zimmermann,Krish Chopra,Krish Chopra,4-6,4,6,0,1,Completed,true,false,false
+UA022043,06 Dec 20,4,Hurlingham Park,Kings Park,No. 3,Sam Russo,Pujan Kukadiya,Pujan Kukadiya,2-6,2,6,0,1,Completed,true,false,false
+UA022043,06 Dec 20,4,Hurlingham Park,Kings Park,No. 4,Thomas Lyon,Suzanne Shaiil,Suzanne Shaiil,0-6,0,6,0,1,Completed,true,true,false
+UA022044,06 Dec 20,4,Dendy Park,Royal Ave,No. 1,Toby Hansen,Emilio Thirard,Emilio Thirard,2-6,2,6,0,1,Completed,true,false,false
+UA022044,06 Dec 20,4,Dendy Park,Royal Ave,No. 2,Alexia Frank,Zane Khan,Zane Khan,2-6,2,6,0,1,Completed,true,false,false
+UA022044,06 Dec 20,4,Dendy Park,Royal Ave,No. 3,Harvey Stroeder,Matthew Varis,Harvey Stroeder,6-1,6,1,1,0,Completed,true,false,false
+UA022044,06 Dec 20,4,Dendy Park,Royal Ave,No. 4,Ben Vodilsoki,Oliver Young,Oliver Young,1-6,1,6,0,1,Completed,true,false,false
+UA022051,13 Dec 20,5,Kings Park,Royal Ave,No. 1,Tintin Tran,Zane Khan,Tintin Tran,6-4,6,4,1,0,Completed,true,false,false
+UA022051,13 Dec 20,5,Kings Park,Royal Ave,No. 2,Krish Chopra,Oliver Young,Krish Chopra,6-0,6,0,1,0,Completed,true,false,false
+UA022051,13 Dec 20,5,Kings Park,Royal Ave,No. 3,Suzanne Shaiil,Matthew Varis,Suzanne Shaiil,6-2,6,2,1,0,Completed,true,false,false
+UA022051,13 Dec 20,5,Kings Park,Royal Ave,No. 4,Aaron Fitzgerald,Emilio Thirard,Emilio Thirard,4-6,4,6,0,1,Completed,true,true,false
+UA022053,13 Dec 20,5,Mentone,Dendy Park,No. 1,Samuel Leard,Toby Hansen,Toby Hansen,1-6,1,6,0,1,Completed,true,false,false
+UA022053,13 Dec 20,5,Mentone,Dendy Park,No. 2,Michelle Ye,Harvey Stroeder,Harvey Stroeder,3-6,3,6,0,1,Completed,true,false,false
+UA022053,13 Dec 20,5,Mentone,Dendy Park,No. 3,Tome Lazic,Ben Vodilsoki,Tome Lazic,6-3,6,3,1,0,Completed,true,false,false
+UA022053,13 Dec 20,5,Mentone,Dendy Park,No. 4,Lewis Moore,Jake Leske,Lewis Moore,7-5,7,5,1,0,Completed,true,false,true
+UA022054,13 Dec 20,5,BLTC,Coatesville,No. 1,Noah Anderson,Anthony Nicolaides,Noah Anderson,6-1,6,1,1,0,Completed,true,false,false
+UA022054,13 Dec 20,5,BLTC,Coatesville,No. 2,Andrew McIntyre,Mira Kegly,Mira Kegly,2-6,2,6,0,1,Completed,true,false,false
+UA022054,13 Dec 20,5,BLTC,Coatesville,No. 3,Zane Rushton,Georgia Nicolaides,Zane Rushton,6-4,6,4,1,0,Completed,true,false,false
+UA022054,13 Dec 20,5,BLTC,Coatesville,No. 4,Ryder Anderson,Sophie Gershenzen,Ryder Anderson,6-0,6,0,1,0,Completed,true,false,false
+UA022062,20 Dec 20,6,Royal Ave,BLTC,No. 1,Zane Khan,Noah Anderson,Zane Khan,6-3,6,3,1,0,Completed,true,false,false
+UA022062,20 Dec 20,6,Royal Ave,BLTC,No. 2,Oliver Young,Andrew McIntyre,Oliver Young,6-3,6,3,1,0,Completed,true,false,false
+UA022062,20 Dec 20,6,Royal Ave,BLTC,No. 3,Matthew Varis,Ryder Anderson,Matthew Varis,6-0,6,0,1,0,Completed,true,false,false
+UA022062,20 Dec 20,6,Royal Ave,BLTC,No. 4,Emilio Thirard,Jimmy Rushton,Emilio Thirard,7-6,7,6,1,0,Completed,true,false,false
+UA022064,20 Dec 20,6,Dendy Park,Hurlingham Park,No. 1,Toby Hansen,James Russo,James Russo,4-6,4,6,0,1,Completed,true,false,false
+UA022064,20 Dec 20,6,Dendy Park,Hurlingham Park,No. 2,Alexia Frank,Dane Sujica-Zimmermann,Alexia Frank,6-3,6,3,1,0,Completed,true,false,false
+UA022064,20 Dec 20,6,Dendy Park,Hurlingham Park,No. 3,Ben Vodilsoki,Sam Russo,Sam Russo,5-7,5,7,0,1,Completed,true,false,false
+UA022064,20 Dec 20,6,Dendy Park,Hurlingham Park,No. 4,Jake Leske,Thomas Lyon,Thomas Lyon,2-6,2,6,0,1,Completed,true,true,true

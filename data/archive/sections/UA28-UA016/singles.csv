@@ -1,0 +1,185 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA016011,31 Jan 21,1,Dendy Park 1,Dendy Park 2,No. 1,Mitchell Glass,Lauren Yim,Mitchell Glass,6-3,6,3,1,0,Completed,true,true,false
+UA016011,31 Jan 21,1,Dendy Park 1,Dendy Park 2,No. 2,Lihang Jiang,Isabella Tsoukalas,Isabella Tsoukalas,6-7,6,7,0,1,Completed,true,false,false
+UA016011,31 Jan 21,1,Dendy Park 1,Dendy Park 2,No. 3,Lauren Hermann,Elsa Sima,Lauren Hermann,6-4,6,4,1,0,Completed,true,false,false
+UA016011,31 Jan 21,1,Dendy Park 1,Dendy Park 2,No. 4,Olivia Hermann,Chloe Yim,Olivia Hermann,7-5,7,5,1,0,Completed,true,false,false
+UA016012,31 Jan 21,1,Sandringham,Royal Ave,No. 1,Nate Woff,Liv De Beer,Nate Woff,6-4,6,4,1,0,Completed,true,false,false
+UA016012,31 Jan 21,1,Sandringham,Royal Ave,No. 2,Danko Kovacevic,Sam Arbuckle,Danko Kovacevic,6-1,6,1,1,0,Completed,true,false,false
+UA016012,31 Jan 21,1,Sandringham,Royal Ave,No. 3,Mia Daniell,Max Chruszcz,Max Chruszcz,1-6,1,6,0,1,Completed,true,false,false
+UA016012,31 Jan 21,1,Sandringham,Royal Ave,No. 4,Adyaan Tata,Hannah Chruszcz,Hannah Chruszcz,2-6,2,6,0,1,Completed,true,false,false
+UA016013,31 Jan 21,1,Hurlingham Park,Elsternwick Park,No. 1,Oscar Rey,Oliver Jorgensen,Oscar Rey,6-1,6,1,1,0,Completed,true,false,false
+UA016013,31 Jan 21,1,Hurlingham Park,Elsternwick Park,No. 2,Isshin McLean,Alexander Dowling,Alexander Dowling,0-6,0,6,0,1,Completed,true,false,false
+UA016013,31 Jan 21,1,Hurlingham Park,Elsternwick Park,No. 3,Josh Nowell,Gus Hurst,Josh Nowell,6-1,6,1,1,0,Completed,true,false,false
+UA016013,31 Jan 21,1,Hurlingham Park,Elsternwick Park,No. 4,Edward Ruckel,Benjamin Pinkus,Benjamin Pinkus,0-6,0,6,0,1,Completed,true,false,false
+UA016014,31 Jan 21,1,Kings Park,St Andrews MB BG,No. 1,Nash Lin,Mika Looschilder,Mika Looschilder,0-6,0,6,0,1,Completed,true,false,false
+UA016014,31 Jan 21,1,Kings Park,St Andrews MB BG,No. 2,[Unnamed player — TROLS UA016014 home code 2],Stella Kemp,Stella Kemp,0-6,0,6,0,1,Completed,false,false,false
+UA016014,31 Jan 21,1,Kings Park,St Andrews MB BG,No. 3,Michael Periera,Isabella Telford,Isabella Telford,0-6,0,6,0,1,Completed,true,false,false
+UA016014,31 Jan 21,1,Kings Park,St Andrews MB BG,No. 4,Aimi Hatigan,Hanna Langridge,Hanna Langridge,1-6,1,6,0,1,Completed,true,false,false
+UA016021,07 Feb 21,2,St Andrews MB BG,Dendy Park 1,No. 1,Stella Kemp,Jackson Trigger,Jackson Trigger,1-6,1,6,0,1,Completed,true,false,true
+UA016021,07 Feb 21,2,St Andrews MB BG,Dendy Park 1,No. 2,Isabella Telford,Lihang Jiang,Lihang Jiang,4-6,4,6,0,1,Completed,true,false,false
+UA016021,07 Feb 21,2,St Andrews MB BG,Dendy Park 1,No. 3,Hanna Langridge,Lauren Hermann,Hanna Langridge,6-0,6,0,1,0,Completed,true,false,false
+UA016021,07 Feb 21,2,St Andrews MB BG,Dendy Park 1,No. 4,Maddie Effeny,Olivia Hermann,Olivia Hermann,3-6,3,6,0,1,Completed,true,false,false
+UA016022,07 Feb 21,2,Dendy Park 2,Sandringham,No. 1,Lauren Yim,Nate Woff,Nate Woff,2-6,2,6,0,1,Completed,true,false,false
+UA016022,07 Feb 21,2,Dendy Park 2,Sandringham,No. 2,Ella Shewry,Mia Daniell,Mia Daniell,0-6,0,6,0,1,Completed,true,false,false
+UA016022,07 Feb 21,2,Dendy Park 2,Sandringham,No. 3,Chloe Yim,Adyaan Tata,Adyaan Tata,0-6,0,6,0,1,Completed,true,false,false
+UA016022,07 Feb 21,2,Dendy Park 2,Sandringham,No. 4,Charlotte O'Brien,Talyssa Toskov,Talyssa Toskov,1-6,1,6,0,1,Completed,true,false,false
+UA016023,07 Feb 21,2,Royal Ave,Hurlingham Park,No. 1,Liv De Beer,Oscar Rey,Liv De Beer,6-1,6,1,1,0,Completed,true,false,false
+UA016023,07 Feb 21,2,Royal Ave,Hurlingham Park,No. 2,Jack James,Isshin McLean,Jack James,6-3,6,3,1,0,Completed,true,false,false
+UA016023,07 Feb 21,2,Royal Ave,Hurlingham Park,No. 3,Sam Arbuckle,Tomek Forenciwz,Tomek Forenciwz,2-6,2,6,0,1,Completed,true,false,false
+UA016023,07 Feb 21,2,Royal Ave,Hurlingham Park,No. 4,Hannah Chruszcz,Josh Nowell,Hannah Chruszcz,6-1,6,1,1,0,Completed,true,false,false
+UA016024,07 Feb 21,2,Elsternwick Park,Kings Park,No. 1,Benjamin Pinkus,Nash Lin,Benjamin Pinkus,6-1,6,1,1,0,Completed,true,false,false
+UA016024,07 Feb 21,2,Elsternwick Park,Kings Park,No. 2,Gus Hurst,Michael Periera,Gus Hurst,6-1,6,1,1,0,Completed,true,false,false
+UA016024,07 Feb 21,2,Elsternwick Park,Kings Park,No. 3,Abigail Lord,Aimi Hatigan,Aimi Hatigan,2-6,2,6,0,1,Completed,true,false,false
+UA016024,07 Feb 21,2,Elsternwick Park,Kings Park,No. 4,Indigo Jellis,Joanna Wang,Indigo Jellis,6-4,6,4,1,0,Completed,true,false,true
+UA016041,21 Feb 21,4,Royal Ave,Dendy Park 1,No. 1,Liv De Beer,Atish Ramu,Atish Ramu,0-6,0,6,0,1,Completed,true,false,true
+UA016041,21 Feb 21,4,Royal Ave,Dendy Park 1,No. 2,Jack James,Darcy Maher,Darcy Maher,2-6,2,6,0,1,Completed,true,false,false
+UA016041,21 Feb 21,4,Royal Ave,Dendy Park 1,No. 3,Max Chruszcz,Lihang Jiang,Max Chruszcz,6-2,6,2,1,0,Completed,true,false,false
+UA016041,21 Feb 21,4,Royal Ave,Dendy Park 1,No. 4,Hannah Chruszcz,Olivia Hermann,Hannah Chruszcz,6-0,6,0,1,0,Completed,true,false,false
+UA016042,21 Feb 21,4,Elsternwick Park,Sandringham,No. 1,Oliver Jorgensen,Nate Woff,Nate Woff,6-7,6,7,0,1,Completed,true,false,false
+UA016042,21 Feb 21,4,Elsternwick Park,Sandringham,No. 2,Alexander Dowling,Anya Khatsernov,Anya Khatsernov,2-6,2,6,0,1,Completed,true,false,false
+UA016042,21 Feb 21,4,Elsternwick Park,Sandringham,No. 3,Gus Hurst,Danko Kovacevic,Danko Kovacevic,2-6,2,6,0,1,Completed,true,false,false
+UA016042,21 Feb 21,4,Elsternwick Park,Sandringham,No. 4,Abigail Lord,Adyaan Tata,Adyaan Tata,6-7,6,7,0,1,Completed,true,false,false
+UA016043,21 Feb 21,4,St Andrews MB BG,Hurlingham Park,No. 1,Stella Kemp,Isshin McLean,Stella Kemp,6-2,6,2,1,0,Completed,true,false,false
+UA016043,21 Feb 21,4,St Andrews MB BG,Hurlingham Park,No. 2,Isabella Telford,Tomek Forenciwz,Isabella Telford,6-2,6,2,1,0,Completed,true,false,false
+UA016043,21 Feb 21,4,St Andrews MB BG,Hurlingham Park,No. 3,Hanna Langridge,Josh Nowell,Hanna Langridge,7-5,7,5,1,0,Completed,true,false,false
+UA016043,21 Feb 21,4,St Andrews MB BG,Hurlingham Park,No. 4,Maddie Effeny,Edward Ruckel,Edward Ruckel,1-6,1,6,0,1,Completed,true,false,false
+UA016044,21 Feb 21,4,Dendy Park 2,Kings Park,No. 1,Lauren Yim,Nash Lin,Nash Lin,6-7,6,7,0,1,Completed,true,false,false
+UA016044,21 Feb 21,4,Dendy Park 2,Kings Park,No. 2,Ella Shewry,Eric Chopra,Eric Chopra,0-6,0,6,0,1,Completed,true,false,false
+UA016044,21 Feb 21,4,Dendy Park 2,Kings Park,No. 3,Chloe Yim,Michael Periera,Chloe Yim,7-6,7,6,1,0,Completed,true,false,false
+UA016044,21 Feb 21,4,Dendy Park 2,Kings Park,No. 4,Charlotte O'Brien,Joanna Wang,Joanna Wang,3-6,3,6,0,1,Completed,true,false,true
+UA016051,28 Feb 21,5,Hurlingham Park,Kings Park,No. 1,Oscar Rey,Eric Chopra,Oscar Rey,6-0,6,0,1,0,Completed,true,false,false
+UA016051,28 Feb 21,5,Hurlingham Park,Kings Park,No. 2,Isshin McLean,Michael Periera,Isshin McLean,6-2,6,2,1,0,Completed,true,false,false
+UA016051,28 Feb 21,5,Hurlingham Park,Kings Park,No. 3,Josh Nowell,Aimi Hatigan,Josh Nowell,6-2,6,2,1,0,Completed,true,false,false
+UA016051,28 Feb 21,5,Hurlingham Park,Kings Park,No. 4,Edward Ruckel,Joanna Wang,Joanna Wang,1-6,1,6,0,1,Completed,true,false,true
+UA016052,28 Feb 21,5,St Andrews MB BG,Elsternwick Park,No. 1,Mika Looschilder,Benjamin Pinkus,Benjamin Pinkus,1-6,1,6,0,1,Completed,true,false,false
+UA016052,28 Feb 21,5,St Andrews MB BG,Elsternwick Park,No. 2,Stella Kemp,Alexander Dowling,Stella Kemp,6-1,6,1,1,0,Completed,true,false,false
+UA016052,28 Feb 21,5,St Andrews MB BG,Elsternwick Park,No. 3,Hanna Langridge,Oliver Jorgensen,Hanna Langridge,6-0,6,0,1,0,Completed,true,false,false
+UA016052,28 Feb 21,5,St Andrews MB BG,Elsternwick Park,No. 4,Maddie Effeny,Indigo Jellis,Indigo Jellis,1-6,1,6,0,1,Completed,true,false,false
+UA016053,28 Feb 21,5,Royal Ave,Dendy Park 2,No. 1,Jack James,Lauren Yim,Jack James,7-5,7,5,1,0,Completed,true,false,false
+UA016053,28 Feb 21,5,Royal Ave,Dendy Park 2,No. 2,Sam Arbuckle,Isabella Tsoukalas,Isabella Tsoukalas,2-6,2,6,0,1,Completed,true,false,false
+UA016053,28 Feb 21,5,Royal Ave,Dendy Park 2,No. 3,Max Chruszcz,Elsa Sima,Max Chruszcz,6-0,6,0,1,0,Completed,true,false,false
+UA016053,28 Feb 21,5,Royal Ave,Dendy Park 2,No. 4,Hannah Chruszcz,Chloe Yim,Hannah Chruszcz,6-1,6,1,1,0,Completed,true,false,false
+UA016054,28 Feb 21,5,Dendy Park 1,Sandringham,No. 1,Darcy Maher,Nate Woff,Nate Woff,1-6,1,6,0,1,Completed,true,false,false
+UA016054,28 Feb 21,5,Dendy Park 1,Sandringham,No. 2,Lihang Jiang,Danko Kovacevic,Danko Kovacevic,6-7,6,7,0,1,Completed,true,false,false
+UA016054,28 Feb 21,5,Dendy Park 1,Sandringham,No. 3,Lauren Hermann,Mia Daniell,Mia Daniell,1-6,1,6,0,1,Completed,true,false,false
+UA016054,28 Feb 21,5,Dendy Park 1,Sandringham,No. 4,Olivia Hermann,Adyaan Tata,Adyaan Tata,2-6,2,6,0,1,Completed,true,false,false
+UA016061,14 Mar 21,6,Sandringham,Hurlingham Park,No. 1,Nate Woff,Oscar Rey,Nate Woff,6-1,6,1,1,0,Completed,true,false,false
+UA016061,14 Mar 21,6,Sandringham,Hurlingham Park,No. 2,Danko Kovacevic,Isshin McLean,Danko Kovacevic,6-1,6,1,1,0,Completed,true,false,false
+UA016061,14 Mar 21,6,Sandringham,Hurlingham Park,No. 3,Mia Daniell,Josh Nowell,Mia Daniell,6-1,6,1,1,0,Completed,true,false,false
+UA016061,14 Mar 21,6,Sandringham,Hurlingham Park,No. 4,Talyssa Toskov,Edward Ruckel,Talyssa Toskov,6-2,6,2,1,0,Completed,true,false,false
+UA016062,14 Mar 21,6,Kings Park,Dendy Park 1,No. 1,Nash Lin,Jackson Trigger,Jackson Trigger,1-6,1,6,0,1,Completed,true,false,true
+UA016062,14 Mar 21,6,Kings Park,Dendy Park 1,No. 2,Eric Chopra,Darcy Maher,Darcy Maher,2-6,2,6,0,1,Completed,true,false,false
+UA016062,14 Mar 21,6,Kings Park,Dendy Park 1,No. 3,Michael Periera,Lihang Jiang,Lihang Jiang,0-6,0,6,0,1,Completed,true,false,false
+UA016062,14 Mar 21,6,Kings Park,Dendy Park 1,No. 4,Aimi Hatigan,Olivia Hermann,Aimi Hatigan,6-2,6,2,1,0,Completed,true,false,false
+UA016063,14 Mar 21,6,Elsternwick Park,Royal Ave,No. 1,Oliver Jorgensen,Jack James,Oliver Jorgensen,6-2,6,2,1,0,Completed,true,false,false
+UA016063,14 Mar 21,6,Elsternwick Park,Royal Ave,No. 2,Alexander Dowling,Sam Arbuckle,Alexander Dowling,6-2,6,2,1,0,Completed,true,false,false
+UA016063,14 Mar 21,6,Elsternwick Park,Royal Ave,No. 3,Abigail Lord,Max Chruszcz,Max Chruszcz,1-6,1,6,0,1,Completed,true,false,false
+UA016063,14 Mar 21,6,Elsternwick Park,Royal Ave,No. 4,Indigo Jellis,Hannah Chruszcz,Hannah Chruszcz,1-6,1,6,0,1,Completed,true,false,false
+UA016071,21 Mar 21,7,Dendy Park 1,Hurlingham Park,No. 1,Jackson Trigger,Oscar Rey,Jackson Trigger,6-3,6,3,1,0,Completed,true,true,false
+UA016071,21 Mar 21,7,Dendy Park 1,Hurlingham Park,No. 2,Darcy Maher,Isshin McLean,Darcy Maher,6-3,6,3,1,0,Completed,true,false,false
+UA016071,21 Mar 21,7,Dendy Park 1,Hurlingham Park,No. 3,Lihang Jiang,Tomek Forenciwz,Lihang Jiang,6-0,6,0,1,0,Completed,true,false,false
+UA016071,21 Mar 21,7,Dendy Park 1,Hurlingham Park,No. 4,Lauren Hermann,Edward Ruckel,Edward Ruckel,4-6,4,6,0,1,Completed,true,false,false
+UA016072,21 Mar 21,7,Sandringham,Kings Park,No. 1,Nate Woff,Eric Chopra,Nate Woff,6-2,6,2,1,0,Completed,true,false,false
+UA016072,21 Mar 21,7,Sandringham,Kings Park,No. 2,Anya Khatsernov,Michael Periera,Anya Khatsernov,6-1,6,1,1,0,Completed,true,false,false
+UA016072,21 Mar 21,7,Sandringham,Kings Park,No. 3,Adyaan Tata,Aimi Hatigan,Adyaan Tata,6-1,6,1,1,0,Completed,true,false,false
+UA016072,21 Mar 21,7,Sandringham,Kings Park,No. 4,Talyssa Toskov,Joanna Wang,Talyssa Toskov,6-1,6,1,1,0,Completed,true,false,true
+UA016073,21 Mar 21,7,St Andrews MB BG,Royal Ave,No. 1,Mika Looschilder,Liv De Beer,Mika Looschilder,6-0,6,0,1,0,Completed,true,false,false
+UA016073,21 Mar 21,7,St Andrews MB BG,Royal Ave,No. 2,Max Looschilder,Jack James,Max Looschilder,6-3,6,3,1,0,Completed,true,true,false
+UA016073,21 Mar 21,7,St Andrews MB BG,Royal Ave,No. 3,Isabella Telford,Sam Arbuckle,Isabella Telford,6-1,6,1,1,0,Completed,true,false,false
+UA016073,21 Mar 21,7,St Andrews MB BG,Royal Ave,No. 4,Maddie Effeny,Max Chruszcz,Max Chruszcz,1-6,1,6,0,1,Completed,true,false,false
+UA016074,21 Mar 21,7,Elsternwick Park,Dendy Park 2,No. 1,Oliver Jorgensen,Lauren Yim,Lauren Yim,4-6,4,6,0,1,Completed,true,false,false
+UA016074,21 Mar 21,7,Elsternwick Park,Dendy Park 2,No. 2,Alexander Dowling,Isabella Tsoukalas,Alexander Dowling,6-3,6,3,1,0,Completed,true,false,false
+UA016074,21 Mar 21,7,Elsternwick Park,Dendy Park 2,No. 3,Gus Hurst,Ella Shewry,Gus Hurst,6-1,6,1,1,0,Completed,true,false,false
+UA016074,21 Mar 21,7,Elsternwick Park,Dendy Park 2,No. 4,Abigail Lord,Elsa Sima,Abigail Lord,7-5,7,5,1,0,Completed,true,false,false
+UA016081,28 Mar 21,8,Dendy Park 2,Dendy Park 1,No. 1,Lauren Yim,Darcy Maher,Lauren Yim,6-3,6,3,1,0,Completed,true,false,false
+UA016081,28 Mar 21,8,Dendy Park 2,Dendy Park 1,No. 2,Isabella Tsoukalas,Lihang Jiang,Lihang Jiang,0-6,0,6,0,1,Completed,true,false,false
+UA016081,28 Mar 21,8,Dendy Park 2,Dendy Park 1,No. 3,Chloe Yim,Lauren Hermann,Lauren Hermann,1-6,1,6,0,1,Completed,true,false,false
+UA016081,28 Mar 21,8,Dendy Park 2,Dendy Park 1,No. 4,Charlotte O'Brien,Olivia Hermann,Charlotte O'Brien,6-2,6,2,1,0,Completed,true,false,false
+UA016082,28 Mar 21,8,Royal Ave,Sandringham,No. 1,Jack James,Nate Woff,Nate Woff,4-6,4,6,0,1,Completed,true,false,false
+UA016082,28 Mar 21,8,Royal Ave,Sandringham,No. 2,Sam Arbuckle,Danko Kovacevic,Danko Kovacevic,0-6,0,6,0,1,Completed,true,false,false
+UA016082,28 Mar 21,8,Royal Ave,Sandringham,No. 3,Max Chruszcz,Mia Daniell,Max Chruszcz,6-0,6,0,1,0,Completed,true,false,false
+UA016082,28 Mar 21,8,Royal Ave,Sandringham,No. 4,Hannah Chruszcz,Adyaan Tata,Hannah Chruszcz,6-0,6,0,1,0,Completed,true,false,false
+UA016083,28 Mar 21,8,Elsternwick Park,Hurlingham Park,No. 1,Oliver Jorgensen,Oscar Rey,Oliver Jorgensen,6-2,6,2,1,0,Completed,true,false,false
+UA016083,28 Mar 21,8,Elsternwick Park,Hurlingham Park,No. 2,Gus Hurst,Isshin McLean,Gus Hurst,6-4,6,4,1,0,Completed,true,false,false
+UA016083,28 Mar 21,8,Elsternwick Park,Hurlingham Park,No. 3,Indigo Jellis,Josh Nowell,Josh Nowell,3-6,3,6,0,1,Completed,true,false,false
+UA016083,28 Mar 21,8,Elsternwick Park,Hurlingham Park,No. 4,William Wang-Ward,Edward Ruckel,William Wang-Ward,6-2,6,2,1,0,Completed,true,true,false
+UA016084,28 Mar 21,8,St Andrews MB BG,Kings Park,No. 1,Mika Looschilder,Nash Lin,Mika Looschilder,6-3,6,3,1,0,Completed,true,false,false
+UA016084,28 Mar 21,8,St Andrews MB BG,Kings Park,No. 2,Stella Kemp,Eric Chopra,Stella Kemp,6-0,6,0,1,0,Completed,true,false,false
+UA016084,28 Mar 21,8,St Andrews MB BG,Kings Park,No. 3,Hanna Langridge,Aimi Hatigan,Hanna Langridge,6-3,6,3,1,0,Completed,true,false,false
+UA016084,28 Mar 21,8,St Andrews MB BG,Kings Park,No. 4,Maddie Effeny,Joanna Wang,Joanna Wang,0-6,0,6,0,1,Completed,true,false,true
+UA016091,02 May 21,9,Dendy Park 1,St Andrews MB BG,No. 1,Darcy Maher,Stella Kemp,Stella Kemp,5-7,5,7,0,1,Completed,true,false,false
+UA016091,02 May 21,9,Dendy Park 1,St Andrews MB BG,No. 2,Lihang Jiang,Isabella Telford,Lihang Jiang,6-4,6,4,1,0,Completed,true,false,false
+UA016091,02 May 21,9,Dendy Park 1,St Andrews MB BG,No. 3,Lauren Hermann,Hanna Langridge,Hanna Langridge,0-6,0,6,0,1,Completed,true,false,false
+UA016091,02 May 21,9,Dendy Park 1,St Andrews MB BG,No. 4,Olivia Hermann,Maddie Effeny,Olivia Hermann,6-3,6,3,1,0,Completed,true,false,false
+UA016092,02 May 21,9,Sandringham,Dendy Park 2,No. 1,Nate Woff,Isabella Tsoukalas,Nate Woff,6-2,6,2,1,0,Completed,true,false,false
+UA016092,02 May 21,9,Sandringham,Dendy Park 2,No. 2,Olivia Foster,Ella Shewry,Olivia Foster,6-0,6,0,1,0,Completed,true,true,false
+UA016092,02 May 21,9,Sandringham,Dendy Park 2,No. 3,Adyaan Tata,Elsa Sima,Adyaan Tata,6-3,6,3,1,0,Completed,true,false,false
+UA016092,02 May 21,9,Sandringham,Dendy Park 2,No. 4,Ben Brady,Charlotte O'Brien,Ben Brady,6-0,6,0,1,0,Completed,true,true,false
+UA016093,02 May 21,9,Hurlingham Park,Royal Ave,No. 1,Oscar Rey,Liv De Beer,Oscar Rey,6-0,6,0,1,0,Completed,true,false,false
+UA016093,02 May 21,9,Hurlingham Park,Royal Ave,No. 2,Isshin McLean,Jack James,Jack James,6-7,6,7,0,1,Completed,true,false,false
+UA016093,02 May 21,9,Hurlingham Park,Royal Ave,No. 3,Tomek Forenciwz,Sam Arbuckle,Tomek Forenciwz,6-1,6,1,1,0,Completed,true,false,false
+UA016093,02 May 21,9,Hurlingham Park,Royal Ave,No. 4,Edward Ruckel,Hannah Chruszcz,Hannah Chruszcz,0-6,0,6,0,1,Completed,true,false,false
+UA016094,02 May 21,9,Kings Park,Elsternwick Park,No. 1,Madhav Gokulanathan,Alexander Dowling,Alexander Dowling,1-6,1,6,0,1,Completed,true,false,false
+UA016094,02 May 21,9,Kings Park,Elsternwick Park,No. 2,Michael Periera,Abigail Lord,Michael Periera,6-4,6,4,1,0,Completed,true,false,false
+UA016094,02 May 21,9,Kings Park,Elsternwick Park,No. 3,Aimi Hatigan,Indigo Jellis,Indigo Jellis,4-6,4,6,0,1,Completed,true,false,false
+UA016094,02 May 21,9,Kings Park,Elsternwick Park,No. 4,Daniel Gao,Nayuta Tsuchyia,Nayuta Tsuchyia,3-6,3,6,0,1,Completed,true,true,true
+UA016101,09 May 21,10,Elsternwick Park,Dendy Park 1,No. 1,Gus Hurst,Darcy Maher,Darcy Maher,3-6,3,6,0,1,Completed,true,false,false
+UA016101,09 May 21,10,Elsternwick Park,Dendy Park 1,No. 2,Abigail Lord,Lihang Jiang,Lihang Jiang,4-6,4,6,0,1,Completed,true,false,false
+UA016101,09 May 21,10,Elsternwick Park,Dendy Park 1,No. 3,Monty Taylor,Lauren Hermann,Lauren Hermann,4-6,4,6,0,1,Completed,true,true,false
+UA016101,09 May 21,10,Elsternwick Park,Dendy Park 1,No. 4,Finley Taylor,Olivia Hermann,Finley Taylor,6-0,6,0,1,0,Completed,true,true,false
+UA016102,09 May 21,10,St Andrews MB BG,Sandringham,No. 1,Mika Looschilder,Nate Woff,Mika Looschilder,6-3,6,3,1,0,Completed,true,false,false
+UA016102,09 May 21,10,St Andrews MB BG,Sandringham,No. 2,Stella Kemp,Danko Kovacevic,Stella Kemp,6-2,6,2,1,0,Completed,true,false,false
+UA016102,09 May 21,10,St Andrews MB BG,Sandringham,No. 3,Hanna Langridge,Adyaan Tata,Hanna Langridge,6-0,6,0,1,0,Completed,true,false,false
+UA016102,09 May 21,10,St Andrews MB BG,Sandringham,No. 4,Maddie Effeny,Talyssa Toskov,Talyssa Toskov,1-6,1,6,0,1,Completed,true,false,false
+UA016103,09 May 21,10,Dendy Park 2,Hurlingham Park,No. 1,Lauren Yim,Oscar Rey,Lauren Yim,6-4,6,4,1,0,Completed,true,false,false
+UA016103,09 May 21,10,Dendy Park 2,Hurlingham Park,No. 2,Ella Shewry,Isshin McLean,Isshin McLean,0-6,0,6,0,1,Completed,true,false,false
+UA016103,09 May 21,10,Dendy Park 2,Hurlingham Park,No. 3,Chloe Yim,Tomek Forenciwz,Chloe Yim,6-3,6,3,1,0,Completed,true,false,false
+UA016103,09 May 21,10,Dendy Park 2,Hurlingham Park,No. 4,Charlotte O'Brien,Josh Nowell,Josh Nowell,1-6,1,6,0,1,Completed,true,false,false
+UA016104,09 May 21,10,Royal Ave,Kings Park,No. 1,Liv De Beer,Nash Lin,Liv De Beer,6-4,6,4,1,0,Completed,true,false,false
+UA016104,09 May 21,10,Royal Ave,Kings Park,No. 2,Sam Arbuckle,Michael Periera,Michael Periera,2-6,2,6,0,1,Completed,true,false,false
+UA016104,09 May 21,10,Royal Ave,Kings Park,No. 3,Hannah Chruszcz,Aimi Hatigan,Hannah Chruszcz,6-4,6,4,1,0,Completed,true,false,false
+UA016104,09 May 21,10,Royal Ave,Kings Park,No. 4,Jake Barr,[Unnamed player — TROLS UA016104 away code 4],Jake Barr,6-0,6,0,1,0,Completed,false,true,false
+UA016111,16 May 21,11,Dendy Park 1,Royal Ave,No. 1,Darcy Maher,Liv De Beer,Liv De Beer,3-6,3,6,0,1,Completed,true,false,false
+UA016111,16 May 21,11,Dendy Park 1,Royal Ave,No. 2,Lihang Jiang,Jack James,Jack James,0-6,0,6,0,1,Completed,true,false,false
+UA016111,16 May 21,11,Dendy Park 1,Royal Ave,No. 3,Lauren Hermann,Sam Arbuckle,Sam Arbuckle,5-7,5,7,0,1,Completed,true,false,false
+UA016111,16 May 21,11,Dendy Park 1,Royal Ave,No. 4,Olivia Hermann,Tom Oldman,Tom Oldman,5-7,5,7,0,1,Completed,true,false,false
+UA016112,16 May 21,11,Sandringham,Elsternwick Park,No. 1,Nate Woff,Oliver Jorgensen,Nate Woff,6-3,6,3,1,0,Completed,true,false,false
+UA016112,16 May 21,11,Sandringham,Elsternwick Park,No. 2,Danko Kovacevic,[Unnamed player — TROLS UA016112 away code 2],Danko Kovacevic,6-0,6,0,1,0,Completed,false,false,false
+UA016112,16 May 21,11,Sandringham,Elsternwick Park,No. 3,Mia Daniell,Gus Hurst,Mia Daniell,6-2,6,2,1,0,Completed,true,false,false
+UA016112,16 May 21,11,Sandringham,Elsternwick Park,No. 4,Talyssa Toskov,Indigo Jellis,Talyssa Toskov,7-6,7,6,1,0,Completed,true,false,false
+UA016113,16 May 21,11,Hurlingham Park,St Andrews MB BG,No. 1,Oscar Rey,Stella Kemp,Stella Kemp,4-6,4,6,0,1,Completed,true,false,false
+UA016113,16 May 21,11,Hurlingham Park,St Andrews MB BG,No. 2,Isshin McLean,Isabella Telford,Isabella Telford,5-7,5,7,0,1,Completed,true,false,false
+UA016113,16 May 21,11,Hurlingham Park,St Andrews MB BG,No. 3,Tomek Forenciwz,Hanna Langridge,Hanna Langridge,1-6,1,6,0,1,Completed,true,false,false
+UA016113,16 May 21,11,Hurlingham Park,St Andrews MB BG,No. 4,Josh Nowell,Madison Kwok,Josh Nowell,6-3,6,3,1,0,Completed,true,false,true
+UA016114,16 May 21,11,Kings Park,Dendy Park 2,No. 1,Madhav Gokulanathan,Isabella Tsoukalas,Madhav Gokulanathan,7-5,7,5,1,0,Completed,true,false,false
+UA016114,16 May 21,11,Kings Park,Dendy Park 2,No. 2,Nash Lin,Ella Shewry,Nash Lin,6-1,6,1,1,0,Completed,true,false,false
+UA016114,16 May 21,11,Kings Park,Dendy Park 2,No. 3,Michael Periera,Elsa Sima,Michael Periera,7-5,7,5,1,0,Completed,true,false,false
+UA016114,16 May 21,11,Kings Park,Dendy Park 2,No. 4,Aimi Hatigan,Charlotte O'Brien,Aimi Hatigan,6-4,6,4,1,0,Completed,true,false,false
+UA016121,23 May 21,12,Kings Park,Hurlingham Park,No. 1,Madhav Gokulanathan,Oscar Rey,Madhav Gokulanathan,6-3,6,3,1,0,Completed,true,false,false
+UA016121,23 May 21,12,Kings Park,Hurlingham Park,No. 2,Nash Lin,Isshin McLean,Nash Lin,6-1,6,1,1,0,Completed,true,false,false
+UA016121,23 May 21,12,Kings Park,Hurlingham Park,No. 3,Michael Periera,Josh Nowell,Josh Nowell,3-6,3,6,0,1,Completed,true,false,false
+UA016121,23 May 21,12,Kings Park,Hurlingham Park,No. 4,Aimi Hatigan,Edward Ruckel,Edward Ruckel,6-7,6,7,0,1,Completed,true,false,false
+UA016122,23 May 21,12,Elsternwick Park,St Andrews MB BG,No. 1,Oliver Jorgensen,Stella Kemp,Stella Kemp,0-6,0,6,0,1,Completed,true,false,false
+UA016122,23 May 21,12,Elsternwick Park,St Andrews MB BG,No. 2,Alexander Dowling,Madison Kwok,Madison Kwok,6-7,6,7,0,1,Completed,true,false,true
+UA016122,23 May 21,12,Elsternwick Park,St Andrews MB BG,No. 3,Gus Hurst,Max Looschilder,Max Looschilder,3-6,3,6,0,1,Completed,true,false,true
+UA016122,23 May 21,12,Elsternwick Park,St Andrews MB BG,No. 4,Ori Diamond,Maddie Effeny,Ori Diamond,6-1,6,1,1,0,Completed,true,true,false
+UA016123,23 May 21,12,Dendy Park 2,Royal Ave,No. 1,Lauren Yim,Liv De Beer,Liv De Beer,1-6,1,6,0,1,Completed,true,false,false
+UA016123,23 May 21,12,Dendy Park 2,Royal Ave,No. 2,Isabella Tsoukalas,Cooper Delly,Cooper Delly,1-6,1,6,0,1,Completed,true,false,true
+UA016123,23 May 21,12,Dendy Park 2,Royal Ave,No. 3,Elsa Sima,Sam Arbuckle,Sam Arbuckle,5-7,5,7,0,1,Completed,true,false,false
+UA016123,23 May 21,12,Dendy Park 2,Royal Ave,No. 4,Chloe Yim,Liam O'Donnell,Liam O'Donnell,3-6,3,6,0,1,Completed,true,false,true
+UA016124,23 May 21,12,Sandringham,Dendy Park 1,No. 1,Danko Kovacevic,Darcy Maher,Darcy Maher,4-6,4,6,0,1,Completed,true,false,false
+UA016124,23 May 21,12,Sandringham,Dendy Park 1,No. 2,Mia Daniell,Lihang Jiang,Mia Daniell,6-3,6,3,1,0,Completed,true,false,false
+UA016124,23 May 21,12,Sandringham,Dendy Park 1,No. 3,Adyaan Tata,Lauren Hermann,Adyaan Tata,6-0,6,0,1,0,Completed,true,false,false
+UA016124,23 May 21,12,Sandringham,Dendy Park 1,No. 4,Talyssa Toskov,Olivia Hermann,Talyssa Toskov,6-2,6,2,1,0,Completed,true,false,false
+UA016301,,16,Sandringham,Elsternwick Park,No. 1,Nate Woff,Oliver Jorgensen,Nate Woff,7-5,7,5,1,0,Completed,true,false,false
+UA016301,,16,Sandringham,Elsternwick Park,No. 2,Danko Kovacevic,Alexander Dowling,Danko Kovacevic,6-2,6,2,1,0,Completed,true,false,false
+UA016301,,16,Sandringham,Elsternwick Park,No. 3,Mia Daniell,Gus Hurst,Mia Daniell,6-2,6,2,1,0,Completed,true,false,false
+UA016301,,16,Sandringham,Elsternwick Park,No. 4,Talyssa Toskov,Indigo Jellis,Indigo Jellis,1-6,1,6,0,1,Completed,true,false,false
+UA016302,,16,Royal Ave,St Andrews MB BG,No. 1,Liv De Beer,Mika Looschilder,Liv De Beer,6-3,6,3,1,0,Completed,true,false,false
+UA016302,,16,Royal Ave,St Andrews MB BG,No. 2,Jack James,Stella Kemp,Stella Kemp,2-6,2,6,0,1,Completed,true,false,false
+UA016302,,16,Royal Ave,St Andrews MB BG,No. 3,Sam Arbuckle,Isabella Telford,Sam Arbuckle,6-3,6,3,1,0,Completed,true,false,false
+UA016302,,16,Royal Ave,St Andrews MB BG,No. 4,Hannah Chruszcz,Hanna Langridge,Hanna Langridge,1-6,1,6,0,1,Completed,true,false,false
+UA016321,,17,Sandringham,St Andrews MB BG,No. 1,Nate Woff,Mika Looschilder,Nate Woff,6-1,6,1,1,0,Completed,true,false,false
+UA016321,,17,Sandringham,St Andrews MB BG,No. 2,Danko Kovacevic,Stella Kemp,Stella Kemp,4-6,4,6,0,1,Completed,true,false,false
+UA016321,,17,Sandringham,St Andrews MB BG,No. 3,Mia Daniell,Isabella Telford,Mia Daniell,6-3,6,3,1,0,Completed,true,false,false
+UA016321,,17,Sandringham,St Andrews MB BG,No. 4,Talyssa Toskov,Hanna Langridge,Hanna Langridge,2-6,2,6,0,1,Completed,true,false,false

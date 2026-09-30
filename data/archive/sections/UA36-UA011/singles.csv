@@ -1,0 +1,215 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA011011,02 Feb 25,1,Aspendale,Dendy Park Blue,No. 1,Brendan McCaul,Charlie Schutz,Charlie Schutz,3-6,3,6,0,1,Completed,true,false,false
+UA011011,02 Feb 25,1,Aspendale,Dendy Park Blue,No. 2,Lucy Beatie,Sascha Whitelaw,Sascha Whitelaw,4-6,4,6,0,1,Completed,true,false,false
+UA011011,02 Feb 25,1,Aspendale,Dendy Park Blue,No. 3,Sean Butler,Jake Bloom,Sean Butler,6-3,6,3,1,0,Completed,true,false,false
+UA011011,02 Feb 25,1,Aspendale,Dendy Park Blue,No. 4,Conor Butler,Jack Loffel,Conor Butler,6-2,6,2,1,0,Completed,true,false,false
+UA011012,02 Feb 25,1,Kings Park Blue,Kings Park White,No. 1,Siddharth Basa,Caelan Vekas,Siddharth Basa,6-2,6,2,1,0,Completed,true,false,false
+UA011012,02 Feb 25,1,Kings Park Blue,Kings Park White,No. 2,Lucas Yang,[Unnamed player — TROLS UA011012 away code 2],Lucas Yang,6-0,6,0,1,0,Completed,false,false,false
+UA011012,02 Feb 25,1,Kings Park Blue,Kings Park White,No. 3,George Si,James Shen,George Si,6-2,6,2,1,0,Completed,true,false,false
+UA011012,02 Feb 25,1,Kings Park Blue,Kings Park White,No. 4,Maxwell Luo,Eric Wu,Maxwell Luo,6-0,6,0,1,0,Completed,true,false,true
+UA011013,02 Feb 25,1,Black Rock,GPHC Blue,No. 1,Hamish Pendred,Samuel Wong,Hamish Pendred,6-1,6,1,1,0,Completed,true,false,false
+UA011013,02 Feb 25,1,Black Rock,GPHC Blue,No. 2,Leo Suszko,Gavin Rutherford,Leo Suszko,6-2,6,2,1,0,Completed,true,false,false
+UA011013,02 Feb 25,1,Black Rock,GPHC Blue,No. 3,Tilly Sowunmi,William Carmichael,William Carmichael,3-6,3,6,0,1,Completed,true,false,false
+UA011013,02 Feb 25,1,Black Rock,GPHC Blue,No. 4,Ruby Murray,Oscar Cray,Ruby Murray,7-6,7,6,1,0,Completed,true,false,false
+UA011014,02 Feb 25,1,GPHC Yellow,Royal Ave Green,No. 1,Jackson Kitchen,Noah Bradley,Jackson Kitchen,6-4,6,4,1,0,Completed,true,false,false
+UA011014,02 Feb 25,1,GPHC Yellow,Royal Ave Green,No. 2,Harry Mansell,Sebastian Snell,Harry Mansell,6-3,6,3,1,0,Completed,true,false,false
+UA011014,02 Feb 25,1,GPHC Yellow,Royal Ave Green,No. 3,Toby Ludeman,Dylan Keyvanloo,Toby Ludeman,6-4,6,4,1,0,Completed,true,false,false
+UA011014,02 Feb 25,1,GPHC Yellow,Royal Ave Green,No. 4,Kingsley Layh,Luke Ng,Kingsley Layh,6-4,6,4,1,0,Completed,true,false,false
+UA011021,09 Feb 25,2,Royal Ave Green,Aspendale,No. 1,Noah Bradley,Liam Schoots,Liam Schoots,3-6,3,6,0,1,Completed,true,false,false
+UA011021,09 Feb 25,2,Royal Ave Green,Aspendale,No. 2,Sonny Baker,Tom McCaul,Sonny Baker,7-6,7,6,1,0,Completed,true,false,false
+UA011021,09 Feb 25,2,Royal Ave Green,Aspendale,No. 3,Dylan Keyvanloo,Leon Schoots,Leon Schoots,1-6,1,6,0,1,Completed,true,false,false
+UA011021,09 Feb 25,2,Royal Ave Green,Aspendale,No. 4,Lachlan Robertson,James Maglaras,Lachlan Robertson,6-1,6,1,1,0,Completed,true,false,false
+UA011022,09 Feb 25,2,Dendy Park Blue,Kings Park Blue,No. 1,Charlie Schutz,Siddharth Basa,Charlie Schutz,7-5,7,5,1,0,Completed,true,false,false
+UA011022,09 Feb 25,2,Dendy Park Blue,Kings Park Blue,No. 2,Sascha Whitelaw,Lucas Yang,Sascha Whitelaw,6-2,6,2,1,0,Completed,true,false,false
+UA011022,09 Feb 25,2,Dendy Park Blue,Kings Park Blue,No. 3,Jack Loffel,George Si,George Si,4-6,4,6,0,1,Completed,true,false,false
+UA011022,09 Feb 25,2,Dendy Park Blue,Kings Park Blue,No. 4,Zack Harrison,Maxwell Luo,Zack Harrison,6-0,6,0,1,0,Completed,true,false,false
+UA011023,09 Feb 25,2,Kings Park White,Black Rock,No. 1,Caelan Vekas,Hamish Pendred,Hamish Pendred,2-6,2,6,0,1,Completed,true,false,false
+UA011023,09 Feb 25,2,Kings Park White,Black Rock,No. 2,[Unnamed player — TROLS UA011023 home code 2],Leo Suszko,Leo Suszko,0-6,0,6,0,1,Completed,false,false,false
+UA011023,09 Feb 25,2,Kings Park White,Black Rock,No. 3,James Shen,Hugo Davis,Hugo Davis,2-6,2,6,0,1,Completed,true,false,false
+UA011023,09 Feb 25,2,Kings Park White,Black Rock,No. 4,Davide Destefanis,Asha Bishop,Asha Bishop,2-6,2,6,0,1,Completed,true,false,false
+UA011024,09 Feb 25,2,GPHC Blue,GPHC Yellow,No. 1,Samuel Wong,Noah Lakkis,Samuel Wong,6-2,6,2,1,0,Completed,true,false,false
+UA011024,09 Feb 25,2,GPHC Blue,GPHC Yellow,No. 2,Gavin Rutherford,Harry Mansell,Harry Mansell,2-6,2,6,0,1,Completed,true,false,false
+UA011024,09 Feb 25,2,GPHC Blue,GPHC Yellow,No. 3,Oscar Cray,Toby Ludeman,Oscar Cray,6-3,6,3,1,0,Completed,true,false,false
+UA011024,09 Feb 25,2,GPHC Blue,GPHC Yellow,No. 4,Maddie James,Kingsley Layh,Kingsley Layh,3-6,3,6,0,1,Completed,true,false,false
+UA011031,16 Feb 25,3,Aspendale,GPHC Blue,No. 1,Lucy Beatie,Samuel Wong,Samuel Wong,3-6,3,6,0,1,Completed,true,false,false
+UA011031,16 Feb 25,3,Aspendale,GPHC Blue,No. 2,Liam Schoots,Gavin Rutherford,Liam Schoots,6-1,6,1,1,0,Completed,true,false,false
+UA011031,16 Feb 25,3,Aspendale,GPHC Blue,No. 3,Tom McCaul,William Carmichael,William Carmichael,3-6,3,6,0,1,Completed,true,false,false
+UA011031,16 Feb 25,3,Aspendale,GPHC Blue,No. 4,Sean Butler,Oscar Cray,Sean Butler,6-3,6,3,1,0,Completed,true,false,false
+UA011032,16 Feb 25,3,Kings Park Blue,Royal Ave Green,No. 1,Siddharth Basa,Sonny Baker,Siddharth Basa,7-6,7,6,1,0,Completed,true,false,false
+UA011032,16 Feb 25,3,Kings Park Blue,Royal Ave Green,No. 2,Lucas Yang,Sebastian Snell,Lucas Yang,6-1,6,1,1,0,Completed,true,false,false
+UA011032,16 Feb 25,3,Kings Park Blue,Royal Ave Green,No. 3,George Si,Lachlan Robertson,Lachlan Robertson,4-6,4,6,0,1,Completed,true,false,false
+UA011032,16 Feb 25,3,Kings Park Blue,Royal Ave Green,No. 4,Maxwell Luo,Luke Ng,Luke Ng,4-6,4,6,0,1,Completed,true,false,false
+UA011033,16 Feb 25,3,Black Rock,Dendy Park Blue,No. 1,Hugo Davis,Tobias Maddams,Hugo Davis,6-4,6,4,1,0,Completed,true,false,false
+UA011033,16 Feb 25,3,Black Rock,Dendy Park Blue,No. 2,Tilly Sowunmi,Sascha Whitelaw,Sascha Whitelaw,3-6,3,6,0,1,Completed,true,false,false
+UA011033,16 Feb 25,3,Black Rock,Dendy Park Blue,No. 3,Ruby Murray,Jake Bloom,Ruby Murray,6-4,6,4,1,0,Completed,true,false,false
+UA011033,16 Feb 25,3,Black Rock,Dendy Park Blue,No. 4,Asha Bishop,Jack Loffel,Asha Bishop,6-4,6,4,1,0,Completed,true,false,false
+UA011034,16 Feb 25,3,GPHC Yellow,Kings Park White,No. 1,Jackson Kitchen,Caelan Vekas,Jackson Kitchen,6-3,6,3,1,0,Completed,true,false,false
+UA011034,16 Feb 25,3,GPHC Yellow,Kings Park White,No. 2,Noah Lakkis,Scott Xu,Noah Lakkis,6-4,6,4,1,0,Completed,true,false,false
+UA011034,16 Feb 25,3,GPHC Yellow,Kings Park White,No. 3,Toby Ludeman,[Unnamed player — TROLS UA011034 away code 3],Toby Ludeman,6-0,6,0,1,0,Completed,false,false,false
+UA011034,16 Feb 25,3,GPHC Yellow,Kings Park White,No. 4,Kingsley Layh,James Shen,Kingsley Layh,6-1,6,1,1,0,Completed,true,false,false
+UA011041,23 Feb 25,4,Kings Park White,Aspendale,No. 1,Caelan Vekas,Brendan McCaul,Brendan McCaul,4-6,4,6,0,1,Completed,true,false,false
+UA011041,23 Feb 25,4,Kings Park White,Aspendale,No. 2,Scott Xu,Sean Butler,Sean Butler,3-6,3,6,0,1,Completed,true,false,false
+UA011041,23 Feb 25,4,Kings Park White,Aspendale,No. 3,[Unnamed player — TROLS UA011041 home code 3],Conor Butler,Conor Butler,0-6,0,6,0,1,Completed,false,false,false
+UA011041,23 Feb 25,4,Kings Park White,Aspendale,No. 4,James Shen,Leon Schoots,James Shen,6-1,6,1,1,0,Completed,true,false,false
+UA011043,23 Feb 25,4,Royal Ave Green,Black Rock,No. 1,Noah Bradley,Hamish Pendred,Hamish Pendred,0-6,0,6,0,1,Completed,true,false,false
+UA011043,23 Feb 25,4,Royal Ave Green,Black Rock,No. 2,Sebastian Snell,Leo Suszko,Leo Suszko,1-6,1,6,0,1,Completed,true,false,false
+UA011043,23 Feb 25,4,Royal Ave Green,Black Rock,No. 3,Dylan Keyvanloo,Hugo Davis,Hugo Davis,1-6,1,6,0,1,Completed,true,false,false
+UA011043,23 Feb 25,4,Royal Ave Green,Black Rock,No. 4,Luke Ng,Asha Bishop,Luke Ng,6-0,6,0,1,0,Completed,true,false,false
+UA011044,23 Feb 25,4,Dendy Park Blue,GPHC Yellow,No. 1,Tobias Maddams,Jackson Kitchen,Tobias Maddams,6-1,6,1,1,0,Completed,true,false,false
+UA011044,23 Feb 25,4,Dendy Park Blue,GPHC Yellow,No. 2,Jake Bloom,Noah Lakkis,Noah Lakkis,2-6,2,6,0,1,Completed,true,false,false
+UA011044,23 Feb 25,4,Dendy Park Blue,GPHC Yellow,No. 3,Jack Loffel,Harry Mansell,Harry Mansell,2-6,2,6,0,1,Completed,true,false,false
+UA011044,23 Feb 25,4,Dendy Park Blue,GPHC Yellow,No. 4,Zack Harrison,Toby Ludeman,Toby Ludeman,1-6,1,6,0,1,Completed,true,false,false
+UA011051,02 Mar 25,5,Black Rock,GPHC Yellow,No. 1,Hamish Pendred,Jackson Kitchen,Hamish Pendred,6-4,6,4,1,0,Completed,true,false,false
+UA011051,02 Mar 25,5,Black Rock,GPHC Yellow,No. 2,Leo Suszko,Noah Lakkis,Leo Suszko,6-3,6,3,1,0,Completed,true,false,false
+UA011051,02 Mar 25,5,Black Rock,GPHC Yellow,No. 3,Ruby Murray,Harry Mansell,Harry Mansell,4-6,4,6,0,1,Completed,true,false,false
+UA011051,02 Mar 25,5,Black Rock,GPHC Yellow,No. 4,Tilly Sowunmi,Kingsley Layh,Kingsley Layh,0-6,0,6,0,1,Completed,true,false,false
+UA011052,02 Mar 25,5,Royal Ave Green,GPHC Blue,No. 1,Noah Bradley,Gavin Rutherford,Gavin Rutherford,1-6,1,6,0,1,Completed,true,false,false
+UA011052,02 Mar 25,5,Royal Ave Green,GPHC Blue,No. 2,Sonny Baker,William Carmichael,Sonny Baker,6-4,6,4,1,0,Completed,true,false,false
+UA011052,02 Mar 25,5,Royal Ave Green,GPHC Blue,No. 3,Dylan Keyvanloo,Oscar Cray,Oscar Cray,0-6,0,6,0,1,Completed,true,false,false
+UA011052,02 Mar 25,5,Royal Ave Green,GPHC Blue,No. 4,Lachlan Robertson,Maddie James,Maddie James,3-6,3,6,0,1,Completed,true,false,false
+UA011053,02 Mar 25,5,Kings Park White,Dendy Park Blue,No. 1,Caelan Vekas,Charlie Schutz,Charlie Schutz,2-6,2,6,0,1,Completed,true,false,false
+UA011053,02 Mar 25,5,Kings Park White,Dendy Park Blue,No. 2,Scott Xu,Sascha Whitelaw,Scott Xu,6-0,6,0,1,0,Completed,true,false,false
+UA011053,02 Mar 25,5,Kings Park White,Dendy Park Blue,No. 3,[Unnamed player — TROLS UA011053 home code 3],Jack Loffel,Jack Loffel,0-6,0,6,0,1,Completed,false,false,false
+UA011053,02 Mar 25,5,Kings Park White,Dendy Park Blue,No. 4,James Shen,Zack Harrison,James Shen,7-6,7,6,1,0,Completed,true,false,false
+UA011054,02 Mar 25,5,Aspendale,Kings Park Blue,No. 1,Brendan McCaul,Lucas Yang,Brendan McCaul,6-3,6,3,1,0,Completed,true,false,false
+UA011054,02 Mar 25,5,Aspendale,Kings Park Blue,No. 2,Lucy Beatie,George Si,Lucy Beatie,6-2,6,2,1,0,Completed,true,false,false
+UA011054,02 Mar 25,5,Aspendale,Kings Park Blue,No. 3,Sean Butler,Maxwell Luo,Sean Butler,6-0,6,0,1,0,Completed,true,false,false
+UA011054,02 Mar 25,5,Aspendale,Kings Park Blue,No. 4,Conor Butler,Liam Huang,Conor Butler,6-0,6,0,1,0,Completed,true,false,true
+UA011071,23 Mar 25,7,Aspendale,Black Rock,No. 1,Liam Schoots,Hamish Pendred,Liam Schoots,6-2,6,2,1,0,Completed,true,false,false
+UA011071,23 Mar 25,7,Aspendale,Black Rock,No. 2,Tom McCaul,Hugo Davis,Hugo Davis,4-6,4,6,0,1,Completed,true,false,false
+UA011071,23 Mar 25,7,Aspendale,Black Rock,No. 3,Leon Schoots,Tilly Sowunmi,Tilly Sowunmi,2-6,2,6,0,1,Completed,true,false,false
+UA011071,23 Mar 25,7,Aspendale,Black Rock,No. 4,James Maglaras,Asha Bishop,Asha Bishop,1-6,1,6,0,1,Completed,true,false,false
+UA011072,23 Mar 25,7,Kings Park Blue,GPHC Yellow,No. 1,Siddharth Basa,Jackson Kitchen,Jackson Kitchen,3-6,3,6,0,1,Completed,true,false,false
+UA011072,23 Mar 25,7,Kings Park Blue,GPHC Yellow,No. 2,Lucas Yang,Harry Mansell,Harry Mansell,1-6,1,6,0,1,Completed,true,false,false
+UA011072,23 Mar 25,7,Kings Park Blue,GPHC Yellow,No. 3,George Si,Toby Ludeman,Toby Ludeman,2-6,2,6,0,1,Completed,true,false,false
+UA011072,23 Mar 25,7,Kings Park Blue,GPHC Yellow,No. 4,Maxwell Luo,Kingsley Layh,Kingsley Layh,1-6,1,6,0,1,Completed,true,false,false
+UA011073,23 Mar 25,7,Royal Ave Green,Kings Park White,No. 1,Noah Bradley,Tavi Bai,Noah Bradley,7-5,7,5,1,0,Completed,true,false,false
+UA011073,23 Mar 25,7,Royal Ave Green,Kings Park White,No. 2,Dylan Keyvanloo,Caelan Vekas,Caelan Vekas,4-6,4,6,0,1,Completed,true,false,false
+UA011073,23 Mar 25,7,Royal Ave Green,Kings Park White,No. 3,Lachlan Robertson,Rohan Satish,Rohan Satish,4-6,4,6,0,1,Completed,true,false,false
+UA011073,23 Mar 25,7,Royal Ave Green,Kings Park White,No. 4,Luke Ng,James Shen,Luke Ng,6-1,6,1,1,0,Completed,true,false,false
+UA011074,23 Mar 25,7,GPHC Blue,Dendy Park Blue,No. 1,Gavin Rutherford,Sascha Whitelaw,Gavin Rutherford,6-4,6,4,1,0,Completed,true,false,false
+UA011074,23 Mar 25,7,GPHC Blue,Dendy Park Blue,No. 2,William Carmichael,Jake Bloom,William Carmichael,6-3,6,3,1,0,Completed,true,false,false
+UA011074,23 Mar 25,7,GPHC Blue,Dendy Park Blue,No. 3,Angelina Olivetto,Jack Loffel,Jack Loffel,4-6,4,6,0,1,Completed,true,false,false
+UA011074,23 Mar 25,7,GPHC Blue,Dendy Park Blue,No. 4,Maddie James,Adele Navjalyte,Adele Navjalyte,4-6,4,6,0,1,Completed,true,false,true
+UA011081,30 Mar 25,8,Dendy Park Blue,Aspendale,No. 1,Tobias Maddams,Liam Schoots,Liam Schoots,4-6,4,6,0,1,Completed,true,false,false
+UA011081,30 Mar 25,8,Dendy Park Blue,Aspendale,No. 2,Charlie Schutz,Leon Schoots,Charlie Schutz,6-2,6,2,1,0,Completed,true,false,false
+UA011081,30 Mar 25,8,Dendy Park Blue,Aspendale,No. 3,Jack Loffel,Sean Butler,Jack Loffel,6-4,6,4,1,0,Completed,true,false,false
+UA011081,30 Mar 25,8,Dendy Park Blue,Aspendale,No. 4,Shiv Gaind,James Maglaras,Shiv Gaind,6-1,6,1,1,0,Completed,true,true,false
+UA011082,30 Mar 25,8,Kings Park White,Kings Park Blue,No. 1,Tavi Bai,Siddharth Basa,Siddharth Basa,5-7,5,7,0,1,Completed,true,false,false
+UA011082,30 Mar 25,8,Kings Park White,Kings Park Blue,No. 2,Caelan Vekas,Lucas Yang,Caelan Vekas,6-2,6,2,1,0,Completed,true,false,false
+UA011082,30 Mar 25,8,Kings Park White,Kings Park Blue,No. 3,Scott Xu,George Si,Scott Xu,6-2,6,2,1,0,Completed,true,false,false
+UA011082,30 Mar 25,8,Kings Park White,Kings Park Blue,No. 4,James Shen,Maxwell Luo,Maxwell Luo,2-6,2,6,0,1,Completed,true,false,false
+UA011083,30 Mar 25,8,GPHC Blue,Black Rock,No. 1,Samuel Wong,Hamish Pendred,Samuel Wong,6-4,6,4,1,0,Completed,true,false,false
+UA011083,30 Mar 25,8,GPHC Blue,Black Rock,No. 2,Gavin Rutherford,Leo Suszko,Leo Suszko,3-6,3,6,0,1,Completed,true,false,false
+UA011083,30 Mar 25,8,GPHC Blue,Black Rock,No. 3,Oscar Cray,Hugo Davis,Hugo Davis,2-6,2,6,0,1,Completed,true,false,false
+UA011083,30 Mar 25,8,GPHC Blue,Black Rock,No. 4,Angelina Olivetto,Tilly Sowunmi,Angelina Olivetto,7-6,7,6,1,0,Completed,true,false,false
+UA011084,30 Mar 25,8,Royal Ave Green,GPHC Yellow,No. 1,Noah Bradley,Jackson Kitchen,Jackson Kitchen,4-6,4,6,0,1,Completed,true,false,false
+UA011084,30 Mar 25,8,Royal Ave Green,GPHC Yellow,No. 2,Sonny Baker,Noah Lakkis,Noah Lakkis,4-6,4,6,0,1,Completed,true,false,false
+UA011084,30 Mar 25,8,Royal Ave Green,GPHC Yellow,No. 3,Sebastian Snell,Toby Ludeman,Toby Ludeman,1-6,1,6,0,1,Completed,true,false,false
+UA011084,30 Mar 25,8,Royal Ave Green,GPHC Yellow,No. 4,Dylan Keyvanloo,Kingsley Layh,Kingsley Layh,0-6,0,6,0,1,Completed,true,false,false
+UA011091,04 May 25,9,Aspendale,Royal Ave Green,No. 1,Brendan McCaul,Sonny Baker,Brendan McCaul,6-4,6,4,1,0,Completed,true,false,false
+UA011091,04 May 25,9,Aspendale,Royal Ave Green,No. 2,Lucy Beatie,Sebastian Snell,Lucy Beatie,6-3,6,3,1,0,Completed,true,false,false
+UA011091,04 May 25,9,Aspendale,Royal Ave Green,No. 3,Liam Schoots,Lachlan Robertson,Liam Schoots,6-1,6,1,1,0,Completed,true,false,false
+UA011091,04 May 25,9,Aspendale,Royal Ave Green,No. 4,Leon Schoots,Luke Ng,Luke Ng,4-6,4,6,0,1,Completed,true,false,false
+UA011092,04 May 25,9,Kings Park Blue,Dendy Park Blue,No. 1,Siddharth Basa,Tobias Maddams,Tobias Maddams,1-6,1,6,0,1,Completed,true,false,false
+UA011092,04 May 25,9,Kings Park Blue,Dendy Park Blue,No. 2,Lucas Yang,Sascha Whitelaw,Sascha Whitelaw,1-6,1,6,0,1,Completed,true,false,false
+UA011092,04 May 25,9,Kings Park Blue,Dendy Park Blue,No. 3,George Si,Jake Bloom,Jake Bloom,3-6,3,6,0,1,Completed,true,false,false
+UA011092,04 May 25,9,Kings Park Blue,Dendy Park Blue,No. 4,Maxwell Luo,Zack Harrison,Maxwell Luo,6-2,6,2,1,0,Completed,true,false,false
+UA011093,04 May 25,9,Black Rock,Kings Park White,No. 1,Hamish Pendred,Scott Xu,Hamish Pendred,7-5,7,5,1,0,Completed,true,false,false
+UA011093,04 May 25,9,Black Rock,Kings Park White,No. 2,Leo Suszko,Rohan Satish,Leo Suszko,6-1,6,1,1,0,Completed,true,false,false
+UA011093,04 May 25,9,Black Rock,Kings Park White,No. 3,Hugo Davis,James Shen,Hugo Davis,6-2,6,2,1,0,Completed,true,false,false
+UA011093,04 May 25,9,Black Rock,Kings Park White,No. 4,Asha Bishop,Davide Destefanis,Asha Bishop,7-5,7,5,1,0,Completed,true,false,false
+UA011094,04 May 25,9,GPHC Yellow,GPHC Blue,No. 1,Jackson Kitchen,Samuel Wong,Samuel Wong,5-7,5,7,0,1,Completed,true,false,false
+UA011094,04 May 25,9,GPHC Yellow,GPHC Blue,No. 2,Noah Lakkis,Gavin Rutherford,Noah Lakkis,7-5,7,5,1,0,Completed,true,false,false
+UA011094,04 May 25,9,GPHC Yellow,GPHC Blue,No. 3,Harry Mansell,William Carmichael,Harry Mansell,6-3,6,3,1,0,Completed,true,false,false
+UA011094,04 May 25,9,GPHC Yellow,GPHC Blue,No. 4,Archie Smithers,Oscar Cray,Oscar Cray,3-6,3,6,0,1,Completed,true,true,false
+UA011101,11 May 25,10,GPHC Blue,Aspendale,No. 1,Samuel Wong,Lucy Beatie,Samuel Wong,6-0,6,0,1,0,Completed,true,false,false
+UA011101,11 May 25,10,GPHC Blue,Aspendale,No. 2,William Carmichael,Liam Schoots,Liam Schoots,4-6,4,6,0,1,Completed,true,false,false
+UA011101,11 May 25,10,GPHC Blue,Aspendale,No. 3,Oscar Cray,Leon Schoots,Oscar Cray,6-3,6,3,1,0,Completed,true,false,false
+UA011101,11 May 25,10,GPHC Blue,Aspendale,No. 4,Angelina Olivetto,James Maglaras,Angelina Olivetto,6-1,6,1,1,0,Completed,true,false,false
+UA011102,11 May 25,10,Royal Ave Green,Kings Park Blue,No. 1,Noah Bradley,Siddharth Basa,Noah Bradley,7-5,7,5,1,0,Completed,true,false,false
+UA011102,11 May 25,10,Royal Ave Green,Kings Park Blue,No. 2,Sonny Baker,George Si,Sonny Baker,6-0,6,0,1,0,Completed,true,false,false
+UA011102,11 May 25,10,Royal Ave Green,Kings Park Blue,No. 3,Dylan Keyvanloo,Maxwell Luo,Maxwell Luo,3-6,3,6,0,1,Completed,true,false,false
+UA011102,11 May 25,10,Royal Ave Green,Kings Park Blue,No. 4,Luke Ng,Liam Huang,Luke Ng,6-2,6,2,1,0,Completed,true,false,true
+UA011103,11 May 25,10,Dendy Park Blue,Black Rock,No. 1,Charlie Schutz,Hamish Pendred,Hamish Pendred,1-6,1,6,0,1,Completed,true,false,false
+UA011103,11 May 25,10,Dendy Park Blue,Black Rock,No. 2,Sascha Whitelaw,Leo Suszko,Sascha Whitelaw,7-6,7,6,1,0,Completed,true,false,false
+UA011103,11 May 25,10,Dendy Park Blue,Black Rock,No. 3,Jack Loffel,Ruby Murray,Ruby Murray,2-6,2,6,0,1,Completed,true,false,false
+UA011103,11 May 25,10,Dendy Park Blue,Black Rock,No. 4,Zack Harrison,Tilly Sowunmi,Tilly Sowunmi,1-6,1,6,0,1,Completed,true,false,false
+UA011104,11 May 25,10,Kings Park White,GPHC Yellow,No. 1,Caelan Vekas,Jackson Kitchen,Jackson Kitchen,1-6,1,6,0,1,Completed,true,false,false
+UA011104,11 May 25,10,Kings Park White,GPHC Yellow,No. 2,Scott Xu,Noah Lakkis,Scott Xu,7-5,7,5,1,0,Completed,true,false,false
+UA011104,11 May 25,10,Kings Park White,GPHC Yellow,No. 3,James Shen,Harry Mansell,Harry Mansell,0-6,0,6,0,1,Completed,true,false,false
+UA011104,11 May 25,10,Kings Park White,GPHC Yellow,No. 4,Davide Destefanis,Archie Smithers,Davide Destefanis,6-2,6,2,1,0,Completed,true,false,true
+UA011111,18 May 25,11,Aspendale,Kings Park White,No. 1,Brendan McCaul,Scott Xu,Scott Xu,3-6,3,6,0,1,Completed,true,false,false
+UA011111,18 May 25,11,Aspendale,Kings Park White,No. 2,Liam Schoots,Rohan Satish,Liam Schoots,6-1,6,1,1,0,Completed,true,false,false
+UA011111,18 May 25,11,Aspendale,Kings Park White,No. 3,Leon Schoots,James Shen,Leon Schoots,6-2,6,2,1,0,Completed,true,false,false
+UA011111,18 May 25,11,Aspendale,Kings Park White,No. 4,James Maglaras,Davide Destefanis,Davide Destefanis,0-6,0,6,0,1,Completed,true,false,false
+UA011112,18 May 25,11,Kings Park Blue,GPHC Blue,No. 1,Siddharth Basa,Samuel Wong,Samuel Wong,0-6,0,6,0,1,Completed,true,false,false
+UA011112,18 May 25,11,Kings Park Blue,GPHC Blue,No. 2,Lucas Yang,Gavin Rutherford,Gavin Rutherford,1-6,1,6,0,1,Completed,true,false,false
+UA011112,18 May 25,11,Kings Park Blue,GPHC Blue,No. 3,George Si,Oscar Cray,Oscar Cray,3-6,3,6,0,1,Completed,true,false,false
+UA011112,18 May 25,11,Kings Park Blue,GPHC Blue,No. 4,Maxwell Luo,Maddie James,Maddie James,6-7,6,7,0,1,Completed,true,false,false
+UA011113,18 May 25,11,Black Rock,Royal Ave Green,No. 1,Hamish Pendred,Noah Bradley,Hamish Pendred,6-0,6,0,1,0,Completed,true,false,false
+UA011113,18 May 25,11,Black Rock,Royal Ave Green,No. 2,Hugo Davis,Sebastian Snell,Hugo Davis,6-0,6,0,1,0,Completed,true,false,false
+UA011113,18 May 25,11,Black Rock,Royal Ave Green,No. 3,Ruby Murray,Dylan Keyvanloo,Ruby Murray,6-4,6,4,1,0,Completed,true,false,false
+UA011113,18 May 25,11,Black Rock,Royal Ave Green,No. 4,Tilly Sowunmi,Lachlan Robertson,Tilly Sowunmi,6-3,6,3,1,0,Completed,true,false,false
+UA011114,18 May 25,11,GPHC Yellow,Dendy Park Blue,No. 1,Jackson Kitchen,Charlie Schutz,Charlie Schutz,6-7,6,7,0,1,Completed,true,false,false
+UA011114,18 May 25,11,GPHC Yellow,Dendy Park Blue,No. 2,Kingsley Layh,Adele Navjalyte,Adele Navjalyte,2-6,2,6,0,1,Completed,true,false,true
+UA011121,25 May 25,12,GPHC Yellow,Black Rock,No. 1,Jackson Kitchen,Hamish Pendred,Hamish Pendred,4-6,4,6,0,1,Completed,true,false,false
+UA011121,25 May 25,12,GPHC Yellow,Black Rock,No. 2,Noah Lakkis,Leo Suszko,Leo Suszko,4-6,4,6,0,1,Completed,true,false,false
+UA011121,25 May 25,12,GPHC Yellow,Black Rock,No. 3,Harry Mansell,Hugo Davis,Hugo Davis,4-6,4,6,0,1,Completed,true,false,false
+UA011121,25 May 25,12,GPHC Yellow,Black Rock,No. 4,Ollie Dent,Ruby Murray,Ruby Murray,0-6,0,6,0,1,Completed,true,true,false
+UA011122,25 May 25,12,GPHC Blue,Royal Ave Green,No. 1,Gavin Rutherford,Sebastian Snell,Sebastian Snell,1-6,1,6,0,1,Completed,true,false,false
+UA011122,25 May 25,12,GPHC Blue,Royal Ave Green,No. 2,Oscar Cray,Dylan Keyvanloo,Dylan Keyvanloo,2-6,2,6,0,1,Completed,true,false,false
+UA011122,25 May 25,12,GPHC Blue,Royal Ave Green,No. 3,Angelina Olivetto,Lachlan Robertson,Angelina Olivetto,6-2,6,2,1,0,Completed,true,false,false
+UA011122,25 May 25,12,GPHC Blue,Royal Ave Green,No. 4,Maddie James,Luke Ng,Luke Ng,1-6,1,6,0,1,Completed,true,false,false
+UA011123,25 May 25,12,Dendy Park Blue,Kings Park White,No. 1,Sascha Whitelaw,Scott Xu,Scott Xu,0-6,0,6,0,1,Completed,true,false,false
+UA011123,25 May 25,12,Dendy Park Blue,Kings Park White,No. 2,Jake Bloom,James Shen,Jake Bloom,6-1,6,1,1,0,Completed,true,false,false
+UA011123,25 May 25,12,Dendy Park Blue,Kings Park White,No. 3,Jack Loffel,Davide Destefanis,Davide Destefanis,5-7,5,7,0,1,Completed,true,false,false
+UA011123,25 May 25,12,Dendy Park Blue,Kings Park White,No. 4,Zack Harrison,Matthew Pang,Matthew Pang,0-6,0,6,0,1,Completed,true,false,true
+UA011124,25 May 25,12,Kings Park Blue,Aspendale,No. 1,Siddharth Basa,Lucy Beatie,Siddharth Basa,7-6,7,6,1,0,Completed,true,false,false
+UA011124,25 May 25,12,Kings Park Blue,Aspendale,No. 2,Lucas Yang,Liam Schoots,Liam Schoots,1-6,1,6,0,1,Completed,true,false,false
+UA011124,25 May 25,12,Kings Park Blue,Aspendale,No. 3,George Si,Tom McCaul,Tom McCaul,0-6,0,6,0,1,Completed,true,false,false
+UA011124,25 May 25,12,Kings Park Blue,Aspendale,No. 4,Maxwell Luo,Leon Schoots,Leon Schoots,4-6,4,6,0,1,Completed,true,false,false
+UA011131,01 Jun 25,13,Black Rock,Kings Park Blue,No. 1,Leo Suszko,Siddharth Basa,Leo Suszko,6-1,6,1,1,0,Completed,true,false,false
+UA011131,01 Jun 25,13,Black Rock,Kings Park Blue,No. 2,Hugo Davis,Lucas Yang,Hugo Davis,6-1,6,1,1,0,Completed,true,false,false
+UA011131,01 Jun 25,13,Black Rock,Kings Park Blue,No. 3,Tilly Sowunmi,George Si,Tilly Sowunmi,6-4,6,4,1,0,Completed,true,false,false
+UA011131,01 Jun 25,13,Black Rock,Kings Park Blue,No. 4,Asha Bishop,Maxwell Luo,Asha Bishop,6-3,6,3,1,0,Completed,true,false,false
+UA011132,01 Jun 25,13,Aspendale,GPHC Yellow,No. 1,Brendan McCaul,Jackson Kitchen,Jackson Kitchen,1-6,1,6,0,1,Completed,true,false,false
+UA011132,01 Jun 25,13,Aspendale,GPHC Yellow,No. 2,Lucy Beatie,Harry Mansell,Harry Mansell,5-7,5,7,0,1,Completed,true,false,false
+UA011132,01 Jun 25,13,Aspendale,GPHC Yellow,No. 3,Finn Kuperus,Toby Ludeman,Finn Kuperus,6-4,6,4,1,0,Completed,true,true,false
+UA011132,01 Jun 25,13,Aspendale,GPHC Yellow,No. 4,Leon Schoots,Kingsley Layh,Kingsley Layh,4-6,4,6,0,1,Completed,true,false,false
+UA011133,01 Jun 25,13,Kings Park White,GPHC Blue,No. 1,Caelan Vekas,William Carmichael,Caelan Vekas,6-1,6,1,1,0,Completed,true,false,false
+UA011133,01 Jun 25,13,Kings Park White,GPHC Blue,No. 2,Rohan Satish,Oscar Cray,Oscar Cray,2-6,2,6,0,1,Completed,true,false,false
+UA011133,01 Jun 25,13,Kings Park White,GPHC Blue,No. 3,James Shen,Angelina Olivetto,Angelina Olivetto,2-6,2,6,0,1,Completed,true,false,false
+UA011133,01 Jun 25,13,Kings Park White,GPHC Blue,No. 4,Davide Destefanis,Maddie James,Maddie James,1-6,1,6,0,1,Completed,true,false,false
+UA011134,01 Jun 25,13,Royal Ave Green,Dendy Park Blue,No. 1,Noah Bradley,Charlie Schutz,Charlie Schutz,3-6,3,6,0,1,Completed,true,false,false
+UA011134,01 Jun 25,13,Royal Ave Green,Dendy Park Blue,No. 2,Sonny Baker,Jake Bloom,Sonny Baker,6-2,6,2,1,0,Completed,true,false,false
+UA011134,01 Jun 25,13,Royal Ave Green,Dendy Park Blue,No. 3,Lachlan Robertson,Jack Loffel,Jack Loffel,2-6,2,6,0,1,Completed,true,false,false
+UA011134,01 Jun 25,13,Royal Ave Green,Dendy Park Blue,No. 4,Luke Ng,Zack Harrison,Luke Ng,7-5,7,5,1,0,Completed,true,false,false
+UA011141,15 Jun 25,14,Black Rock,Aspendale,No. 1,Hamish Pendred,Brendan McCaul,Hamish Pendred,6-0,6,0,1,0,Completed,true,false,false
+UA011141,15 Jun 25,14,Black Rock,Aspendale,No. 2,Leo Suszko,Finn Kuperus,Leo Suszko,6-1,6,1,1,0,Completed,true,false,true
+UA011141,15 Jun 25,14,Black Rock,Aspendale,No. 3,Hugo Davis,Leon Schoots,Hugo Davis,6-2,6,2,1,0,Completed,true,false,false
+UA011141,15 Jun 25,14,Black Rock,Aspendale,No. 4,Ruby Murray,James Maglaras,Ruby Murray,6-0,6,0,1,0,Completed,true,false,false
+UA011142,15 Jun 25,14,GPHC Yellow,Kings Park Blue,No. 1,Jackson Kitchen,Siddharth Basa,Jackson Kitchen,6-4,6,4,1,0,Completed,true,false,false
+UA011142,15 Jun 25,14,GPHC Yellow,Kings Park Blue,No. 2,Noah Lakkis,Lucas Yang,Noah Lakkis,6-4,6,4,1,0,Completed,true,false,false
+UA011142,15 Jun 25,14,GPHC Yellow,Kings Park Blue,No. 3,Kingsley Layh,George Si,Kingsley Layh,6-1,6,1,1,0,Completed,true,false,false
+UA011142,15 Jun 25,14,GPHC Yellow,Kings Park Blue,No. 4,Ollie Dent,Maxwell Luo,Maxwell Luo,4-6,4,6,0,1,Completed,true,true,false
+UA011143,15 Jun 25,14,Kings Park White,Royal Ave Green,No. 1,Tavi Bai,Noah Bradley,Noah Bradley,2-6,2,6,0,1,Completed,true,false,false
+UA011143,15 Jun 25,14,Kings Park White,Royal Ave Green,No. 2,Caelan Vekas,Sonny Baker,Sonny Baker,4-6,4,6,0,1,Completed,true,false,false
+UA011143,15 Jun 25,14,Kings Park White,Royal Ave Green,No. 3,Rohan Satish,Sebastian Snell,Sebastian Snell,2-6,2,6,0,1,Completed,true,false,false
+UA011143,15 Jun 25,14,Kings Park White,Royal Ave Green,No. 4,James Shen,Dylan Keyvanloo,Dylan Keyvanloo,2-6,2,6,0,1,Completed,true,false,false
+UA011144,15 Jun 25,14,Dendy Park Blue,GPHC Blue,No. 1,Charlie Schutz,Samuel Wong,Samuel Wong,5-7,5,7,0,1,Completed,true,false,false
+UA011144,15 Jun 25,14,Dendy Park Blue,GPHC Blue,No. 2,Sascha Whitelaw,William Carmichael,Sascha Whitelaw,6-1,6,1,1,0,Completed,true,false,false
+UA011144,15 Jun 25,14,Dendy Park Blue,GPHC Blue,No. 3,Jake Bloom,Angelina Olivetto,Jake Bloom,6-0,6,0,1,0,Completed,true,false,false
+UA011144,15 Jun 25,14,Dendy Park Blue,GPHC Blue,No. 4,Zack Harrison,Maddie James,Maddie James,3-6,3,6,0,1,Completed,true,false,false
+UA011301,,16,Black Rock,GPHC Blue,No. 1,Hamish Pendred,Samuel Wong,Samuel Wong,4-6,4,6,0,1,Completed,true,false,false
+UA011301,,16,Black Rock,GPHC Blue,No. 2,Leo Suszko,Gavin Rutherford,Leo Suszko,6-2,6,2,1,0,Completed,true,false,false
+UA011301,,16,Black Rock,GPHC Blue,No. 3,Hugo Davis,William Carmichael,Hugo Davis,6-1,6,1,1,0,Completed,true,false,false
+UA011301,,16,Black Rock,GPHC Blue,No. 4,Asha Bishop,Oscar Cray,Asha Bishop,6-4,6,4,1,0,Completed,true,false,false
+UA011302,,16,GPHC Yellow,Aspendale,No. 1,Jackson Kitchen,Brendan McCaul,Jackson Kitchen,6-4,6,4,1,0,Completed,true,false,false
+UA011302,,16,GPHC Yellow,Aspendale,No. 2,Noah Lakkis,Lucy Beatie,Noah Lakkis,6-3,6,3,1,0,Completed,true,false,false
+UA011302,,16,GPHC Yellow,Aspendale,No. 3,Harry Mansell,Leon Schoots,Harry Mansell,6-0,6,0,1,0,Completed,true,false,false
+UA011302,,16,GPHC Yellow,Aspendale,No. 4,Toby Ludeman,James Maglaras,Toby Ludeman,6-2,6,2,1,0,Completed,true,false,false
+UA011321,,17,Black Rock,GPHC Yellow,No. 1,Hamish Pendred,Jackson Kitchen,Hamish Pendred,6-3,6,3,1,0,Completed,true,false,false
+UA011321,,17,Black Rock,GPHC Yellow,No. 2,Hugo Davis,Noah Lakkis,Hugo Davis,6-3,6,3,1,0,Completed,true,false,false
+UA011321,,17,Black Rock,GPHC Yellow,No. 3,Ruby Murray,Harry Mansell,Harry Mansell,4-6,4,6,0,1,Completed,true,false,false
+UA011321,,17,Black Rock,GPHC Yellow,No. 4,Asha Bishop,Toby Ludeman,Asha Bishop,6-0,6,0,1,0,Completed,true,false,false

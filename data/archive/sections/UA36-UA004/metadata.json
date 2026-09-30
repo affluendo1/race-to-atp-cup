@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA36-UA004",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2025",
+  "season_id": "UA36",
+  "season_label": "Autumn 2025",
+  "source_section_code": "UA004",
+  "section_label": "Section 4",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC Blue",
+      "wins": 12,
+      "points": 115,
+      "percentage": 186.58,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Royal Ave",
+      "wins": 7,
+      "points": 79,
+      "percentage": 118.24,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Mentone",
+      "wins": 8,
+      "points": 78,
+      "percentage": 101.13,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong",
+      "wins": 7,
+      "points": 73,
+      "percentage": 102.36,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Tennis World",
+      "wins": 5,
+      "points": 65,
+      "percentage": 95.12,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Hurlingham Park",
+      "wins": 6,
+      "points": 64,
+      "percentage": 88.44,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Middle Brighton",
+      "wins": 3,
+      "points": 49,
+      "percentage": 83.47,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park",
+      "wins": 2,
+      "points": 37,
+      "percentage": 59.79,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA36-UA004",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 216,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

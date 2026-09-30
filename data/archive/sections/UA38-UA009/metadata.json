@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA38-UA009",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2026",
+  "season_id": "UA38",
+  "season_label": "Autumn 2026",
+  "source_section_code": "UA009",
+  "section_label": "Sets 6",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Beaumaris CC",
+      "wins": 9,
+      "points": 97,
+      "percentage": 144.7,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Glen Huntly",
+      "wins": 8,
+      "points": 91,
+      "percentage": 124.43,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "GPHC Blue",
+      "wins": 10,
+      "points": 90,
+      "percentage": 116.25,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Black Rock",
+      "wins": 8,
+      "points": 86,
+      "percentage": 119.56,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "Coatesville",
+      "wins": 3,
+      "points": 53,
+      "percentage": 87.96,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC",
+      "wins": 4,
+      "points": 52,
+      "percentage": 78.57,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC Yellow",
+      "wins": 3,
+      "points": 49,
+      "percentage": 81.9,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Lauriston",
+      "wins": 2,
+      "points": 42,
+      "percentage": 70.0,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA38-UA009",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

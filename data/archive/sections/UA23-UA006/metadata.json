@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA23-UA006",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2018",
+  "season_id": "UA23",
+  "season_label": "Spring 2018",
+  "source_section_code": "UA006",
+  "section_label": "Section 6",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Maccabi",
+      "wins": 11,
+      "points": 107,
+      "percentage": 170.94,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Andrews MB RA",
+      "wins": 8,
+      "points": 82,
+      "percentage": 123.63,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Tennis World",
+      "wins": 8,
+      "points": 78,
+      "percentage": 103.75,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 6,
+      "points": 74,
+      "percentage": 102.91,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC",
+      "wins": 6,
+      "points": 65,
+      "percentage": 91.67,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Hurlingham Park",
+      "wins": 4,
+      "points": 62,
+      "percentage": 98.2,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kings Park",
+      "wins": 4,
+      "points": 49,
+      "percentage": 70.95,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "St Louis de Mont",
+      "wins": 2,
+      "points": 43,
+      "percentage": 74.55,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA23-UA006",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

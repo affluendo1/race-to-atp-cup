@@ -1,0 +1,211 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA004011,27 Jul 25,1,FCTC,Lauriston,No. 1,Myra Janjua,Mark Ma,Myra Janjua,6-1,6,1,1,0,Completed,true,false,false
+UA004011,27 Jul 25,1,FCTC,Lauriston,No. 2,Harry Grose,Sam Morris,Harry Grose,6-2,6,2,1,0,Completed,true,false,false
+UA004011,27 Jul 25,1,FCTC,Lauriston,No. 3,Mischa Harris,Jack Wiesner,Mischa Harris,6-2,6,2,1,0,Completed,true,false,false
+UA004011,27 Jul 25,1,FCTC,Lauriston,No. 4,Millie Rosoman,Arjun Nair,Arjun Nair,1-6,1,6,0,1,Completed,true,false,false
+UA004012,27 Jul 25,1,GPHC Blue,GPHC Yellow,No. 1,Riley Bladeni,Jeremy Wong,Riley Bladeni,7-6,7,6,1,0,Completed,true,false,false
+UA004012,27 Jul 25,1,GPHC Blue,GPHC Yellow,No. 2,Ned Jeffreys,Arata Tanaka,Ned Jeffreys,6-4,6,4,1,0,Completed,true,false,true
+UA004012,27 Jul 25,1,GPHC Blue,GPHC Yellow,No. 3,Gus Latimer,Oscar Hilbert,Oscar Hilbert,3-6,3,6,0,1,Completed,true,false,false
+UA004012,27 Jul 25,1,GPHC Blue,GPHC Yellow,No. 4,Eli Jeffreys,Leo De Luca,Leo De Luca,4-6,4,6,0,1,Completed,true,false,false
+UA004013,27 Jul 25,1,Kooyong,St James,No. 1,Adriano D'Angelo,James Harrington,Adriano D'Angelo,7-5,7,5,1,0,Completed,true,false,false
+UA004013,27 Jul 25,1,Kooyong,St James,No. 2,Kevin Bai,Emma Stewart,Kevin Bai,6-3,6,3,1,0,Completed,true,false,false
+UA004013,27 Jul 25,1,Kooyong,St James,No. 3,Freddie Tulloch,Mali Davies,Freddie Tulloch,6-2,6,2,1,0,Completed,true,false,false
+UA004013,27 Jul 25,1,Kooyong,St James,No. 4,Liam Tesmer,Lucy Davies,Liam Tesmer,6-1,6,1,1,0,Completed,true,true,false
+UA004014,27 Jul 25,1,Elsternwick Park,Glen Huntly,No. 1,Masa Asano,Gabriel Torres Alvarez,Masa Asano,6-0,6,0,1,0,Completed,true,false,false
+UA004014,27 Jul 25,1,Elsternwick Park,Glen Huntly,No. 2,Nayuta Tsuchiya,Jamie Dodd,Nayuta Tsuchiya,6-2,6,2,1,0,Completed,true,false,false
+UA004014,27 Jul 25,1,Elsternwick Park,Glen Huntly,No. 3,Flynn Armstrong,Amir Egre,Flynn Armstrong,7-5,7,5,1,0,Completed,true,false,true
+UA004014,27 Jul 25,1,Elsternwick Park,Glen Huntly,No. 4,Austin Sun,Gabrielle Duieb,Austin Sun,7-6,7,6,1,0,Completed,true,false,true
+UA004021,03 Aug 25,2,Glen Huntly,FCTC,No. 1,Nile Roberts,Myra Janjua,Myra Janjua,2-6,2,6,0,1,Completed,true,false,false
+UA004021,03 Aug 25,2,Glen Huntly,FCTC,No. 2,Gabriel Torres Alvarez,Mischa Harris,Mischa Harris,0-6,0,6,0,1,Completed,true,false,false
+UA004021,03 Aug 25,2,Glen Huntly,FCTC,No. 3,Jamie Dodd,Millie Rosoman,Jamie Dodd,6-0,6,0,1,0,Completed,true,false,false
+UA004021,03 Aug 25,2,Glen Huntly,FCTC,No. 4,Isaac Egre,Tehila Hancock,Isaac Egre,6-1,6,1,1,0,Completed,true,true,true
+UA004022,03 Aug 25,2,Lauriston,GPHC Blue,No. 1,Mark Ma,Riley Bladeni,Riley Bladeni,3-6,3,6,0,1,Completed,true,false,false
+UA004022,03 Aug 25,2,Lauriston,GPHC Blue,No. 2,Sam Morris,Gus Latimer,Sam Morris,6-2,6,2,1,0,Completed,true,false,false
+UA004022,03 Aug 25,2,Lauriston,GPHC Blue,No. 3,Jack Wiesner,Claire Lo,Jack Wiesner,6-3,6,3,1,0,Completed,true,false,false
+UA004022,03 Aug 25,2,Lauriston,GPHC Blue,No. 4,Juliet Nazaretian,Jack Boussioutas,Juliet Nazaretian,6-0,6,0,1,0,Completed,true,false,false
+UA004023,03 Aug 25,2,GPHC Yellow,Kooyong,No. 1,Jeremy Wong,Angus Collett,Angus Collett,5-7,5,7,0,1,Completed,true,false,false
+UA004023,03 Aug 25,2,GPHC Yellow,Kooyong,No. 2,Patrick Cassidy,Kevin Bai,Patrick Cassidy,6-0,6,0,1,0,Completed,true,false,false
+UA004023,03 Aug 25,2,GPHC Yellow,Kooyong,No. 3,Hugo Taylor,Theo Edelstein,Hugo Taylor,6-1,6,1,1,0,Completed,true,false,false
+UA004023,03 Aug 25,2,GPHC Yellow,Kooyong,No. 4,Archer Black,Freddie Tulloch,Archer Black,6-3,6,3,1,0,Completed,true,false,false
+UA004024,03 Aug 25,2,St James,Elsternwick Park,No. 1,Jonah Davies,Nayuta Tsuchiya,Jonah Davies,6-2,6,2,1,0,Completed,true,false,false
+UA004024,03 Aug 25,2,St James,Elsternwick Park,No. 2,Emma Stewart,Flynn Armstrong,Flynn Armstrong,3-6,3,6,0,1,Completed,true,false,false
+UA004024,03 Aug 25,2,St James,Elsternwick Park,No. 3,Aithan Georgas,Austin Sun,Austin Sun,2-6,2,6,0,1,Completed,true,false,false
+UA004024,03 Aug 25,2,St James,Elsternwick Park,No. 4,Sophie Stewart,Naoko Hashimoto,Sophie Stewart,7-6,7,6,1,0,Completed,true,false,false
+UA004031,10 Aug 25,3,FCTC,St James,No. 1,Myra Janjua,James Harrington,Myra Janjua,6-0,6,0,1,0,Completed,true,false,false
+UA004031,10 Aug 25,3,FCTC,St James,No. 2,Mischa Harris,Emma Stewart,Mischa Harris,6-2,6,2,1,0,Completed,true,false,false
+UA004031,10 Aug 25,3,FCTC,St James,No. 3,Millie Rosoman,Aithan Georgas,Aithan Georgas,0-6,0,6,0,1,Completed,true,false,false
+UA004031,10 Aug 25,3,FCTC,St James,No. 4,Tehila Hancock,Lucy Davies,Lucy Davies,3-6,3,6,0,1,Completed,true,true,false
+UA004032,10 Aug 25,3,GPHC Blue,Glen Huntly,No. 1,Ned Jeffreys,Atticus Dhimann,Atticus Dhimann,3-6,3,6,0,1,Completed,true,false,false
+UA004032,10 Aug 25,3,GPHC Blue,Glen Huntly,No. 2,Eli Jeffreys,Gabriel Torres Alvarez,Gabriel Torres Alvarez,6-7,6,7,0,1,Completed,true,false,false
+UA004032,10 Aug 25,3,GPHC Blue,Glen Huntly,No. 3,Jack Boussioutas,Nile Roberts,Nile Roberts,2-6,2,6,0,1,Completed,true,false,false
+UA004032,10 Aug 25,3,GPHC Blue,Glen Huntly,No. 4,Claire Lo,Jamie Dodd,Jamie Dodd,4-6,4,6,0,1,Completed,true,false,false
+UA004033,10 Aug 25,3,Kooyong,Lauriston,No. 1,Adriano D'Angelo,Mark Ma,Mark Ma,2-6,2,6,0,1,Completed,true,false,false
+UA004033,10 Aug 25,3,Kooyong,Lauriston,No. 2,Angus Collett,Sam Morris,Angus Collett,6-3,6,3,1,0,Completed,true,false,false
+UA004033,10 Aug 25,3,Kooyong,Lauriston,No. 3,Freddie Tulloch,Arjun Nair,Freddie Tulloch,7-6,7,6,1,0,Completed,true,false,false
+UA004033,10 Aug 25,3,Kooyong,Lauriston,No. 4,Liam Tesmer,Taiga Torii,Liam Tesmer,6-3,6,3,1,0,Completed,true,true,false
+UA004034,10 Aug 25,3,Elsternwick Park,GPHC Yellow,No. 1,Masa Asano,Hugo Taylor,Hugo Taylor,2-6,2,6,0,1,Completed,true,false,false
+UA004034,10 Aug 25,3,Elsternwick Park,GPHC Yellow,No. 2,Nayuta Tsuchiya,Arata Tanaka,Nayuta Tsuchiya,6-4,6,4,1,0,Completed,true,false,true
+UA004034,10 Aug 25,3,Elsternwick Park,GPHC Yellow,No. 3,Flynn Armstrong,Oscar Hilbert,Oscar Hilbert,4-6,4,6,0,1,Completed,true,false,false
+UA004034,10 Aug 25,3,Elsternwick Park,GPHC Yellow,No. 4,Naoko Hashimoto,Leo De Luca,Leo De Luca,4-6,4,6,0,1,Completed,true,false,false
+UA004041,17 Aug 25,4,GPHC Yellow,FCTC,No. 1,Jeremy Wong,Myra Janjua,Myra Janjua,2-6,2,6,0,1,Completed,true,false,false
+UA004041,17 Aug 25,4,GPHC Yellow,FCTC,No. 2,Patrick Cassidy,Mischa Harris,Patrick Cassidy,6-3,6,3,1,0,Completed,true,false,false
+UA004041,17 Aug 25,4,GPHC Yellow,FCTC,No. 3,Oscar Hilbert,Millie Rosoman,Oscar Hilbert,6-3,6,3,1,0,Completed,true,false,false
+UA004041,17 Aug 25,4,GPHC Yellow,FCTC,No. 4,Archer Black,Tehila Hancock,Archer Black,6-0,6,0,1,0,Completed,true,false,true
+UA004042,17 Aug 25,4,St James,GPHC Blue,No. 1,Jonah Davies,Riley Bladeni,Riley Bladeni,0-6,0,6,0,1,Completed,true,false,false
+UA004042,17 Aug 25,4,St James,GPHC Blue,No. 2,James Harrington,Ned Jeffreys,Ned Jeffreys,3-6,3,6,0,1,Completed,true,false,false
+UA004042,17 Aug 25,4,St James,GPHC Blue,No. 3,Aithan Georgas,Gus Latimer,Aithan Georgas,6-3,6,3,1,0,Completed,true,false,false
+UA004042,17 Aug 25,4,St James,GPHC Blue,No. 4,Sophie Stewart,Jack Boussioutas,Sophie Stewart,6-3,6,3,1,0,Completed,true,false,false
+UA004043,17 Aug 25,4,Glen Huntly,Kooyong,No. 1,Tim Kalapoutis,Adriano D'Angelo,Tim Kalapoutis,6-3,6,3,1,0,Completed,true,false,false
+UA004043,17 Aug 25,4,Glen Huntly,Kooyong,No. 2,Gabriel Torres Alvarez,Angus Collett,Angus Collett,2-6,2,6,0,1,Completed,true,false,false
+UA004043,17 Aug 25,4,Glen Huntly,Kooyong,No. 3,Isaac Egre,Kevin Bai,Isaac Egre,6-4,6,4,1,0,Completed,true,true,false
+UA004043,17 Aug 25,4,Glen Huntly,Kooyong,No. 4,Amir Egre,Theo Edelstein,Theo Edelstein,1-6,1,6,0,1,Completed,true,true,false
+UA004044,17 Aug 25,4,Lauriston,Elsternwick Park,No. 1,Sam Morris,Masa Asano,Sam Morris,6-3,6,3,1,0,Completed,true,false,false
+UA004044,17 Aug 25,4,Lauriston,Elsternwick Park,No. 2,Jack Wiesner,Nayuta Tsuchiya,Jack Wiesner,7-6,7,6,1,0,Completed,true,false,false
+UA004044,17 Aug 25,4,Lauriston,Elsternwick Park,No. 3,Juliet Nazaretian,Austin Sun,Juliet Nazaretian,7-5,7,5,1,0,Completed,true,false,false
+UA004044,17 Aug 25,4,Lauriston,Elsternwick Park,No. 4,Taiga Torii,Naoko Hashimoto,Naoko Hashimoto,3-6,3,6,0,1,Completed,true,false,false
+UA004051,24 Aug 25,5,Kooyong,Elsternwick Park,No. 1,Adriano D'Angelo,Masa Asano,Adriano D'Angelo,6-0,6,0,1,0,Completed,true,false,false
+UA004051,24 Aug 25,5,Kooyong,Elsternwick Park,No. 2,Angus Collett,Nayuta Tsuchiya,Nayuta Tsuchiya,3-6,3,6,0,1,Completed,true,false,false
+UA004051,24 Aug 25,5,Kooyong,Elsternwick Park,No. 3,Theo Edelstein,Naoko Hashimoto,Theo Edelstein,6-0,6,0,1,0,Completed,true,false,false
+UA004051,24 Aug 25,5,Kooyong,Elsternwick Park,No. 4,Freddie Tulloch,Alex Black,Freddie Tulloch,6-2,6,2,1,0,Completed,true,false,true
+UA004052,24 Aug 25,5,Glen Huntly,St James,No. 1,Tim Kalapoutis,Jonah Davies,Jonah Davies,1-6,1,6,0,1,Completed,true,false,false
+UA004052,24 Aug 25,5,Glen Huntly,St James,No. 2,Atticus Dhimann,Emma Stewart,Atticus Dhimann,6-1,6,1,1,0,Completed,true,false,false
+UA004052,24 Aug 25,5,Glen Huntly,St James,No. 3,Gabriel Torres Alvarez,Aithan Georgas,Aithan Georgas,1-6,1,6,0,1,Completed,true,false,false
+UA004052,24 Aug 25,5,Glen Huntly,St James,No. 4,Amir Egre,Sophie Stewart,Amir Egre,6-2,6,2,1,0,Completed,true,true,false
+UA004053,24 Aug 25,5,GPHC Yellow,Lauriston,No. 1,Jeremy Wong,Mark Ma,Jeremy Wong,6-3,6,3,1,0,Completed,true,false,false
+UA004053,24 Aug 25,5,GPHC Yellow,Lauriston,No. 2,Hugo Taylor,Sam Morris,Sam Morris,1-6,1,6,0,1,Completed,true,false,false
+UA004053,24 Aug 25,5,GPHC Yellow,Lauriston,No. 3,Archer Black,Arjun Nair,Archer Black,6-3,6,3,1,0,Completed,true,false,false
+UA004053,24 Aug 25,5,GPHC Yellow,Lauriston,No. 4,Leo De Luca,Juliet Nazaretian,Leo De Luca,6-4,6,4,1,0,Completed,true,false,false
+UA004054,24 Aug 25,5,FCTC,GPHC Blue,No. 1,Myra Janjua,Riley Bladeni,Myra Janjua,6-4,6,4,1,0,Completed,true,false,false
+UA004054,24 Aug 25,5,FCTC,GPHC Blue,No. 2,Harry Grose,Gus Latimer,Harry Grose,7-5,7,5,1,0,Completed,true,false,false
+UA004054,24 Aug 25,5,FCTC,GPHC Blue,No. 3,Max Rosoman,Jack Boussioutas,Jack Boussioutas,4-6,4,6,0,1,Completed,true,false,false
+UA004054,24 Aug 25,5,FCTC,GPHC Blue,No. 4,Millie Rosoman,Claire Lo,Claire Lo,4-6,4,6,0,1,Completed,true,false,false
+UA004061,31 Aug 25,6,GPHC Blue,Kooyong,No. 1,Riley Bladeni,Adriano D'Angelo,Adriano D'Angelo,5-7,5,7,0,1,Completed,true,false,false
+UA004061,31 Aug 25,6,GPHC Blue,Kooyong,No. 2,Ned Jeffreys,Angus Collett,Angus Collett,3-6,3,6,0,1,Completed,true,false,false
+UA004061,31 Aug 25,6,GPHC Blue,Kooyong,No. 3,Gus Latimer,Kevin Bai,Kevin Bai,3-6,3,6,0,1,Completed,true,false,false
+UA004061,31 Aug 25,6,GPHC Blue,Kooyong,No. 4,Eli Jeffreys,Freddie Tulloch,Freddie Tulloch,6-7,6,7,0,1,Completed,true,false,false
+UA004062,31 Aug 25,6,Elsternwick Park,FCTC,No. 1,Nayuta Tsuchiya,Myra Janjua,Myra Janjua,1-6,1,6,0,1,Completed,true,false,false
+UA004062,31 Aug 25,6,Elsternwick Park,FCTC,No. 2,Flynn Armstrong,Mischa Harris,Flynn Armstrong,6-1,6,1,1,0,Completed,true,false,false
+UA004062,31 Aug 25,6,Elsternwick Park,FCTC,No. 3,Austin Sun,Max Rosoman,Austin Sun,6-3,6,3,1,0,Completed,true,false,false
+UA004062,31 Aug 25,6,Elsternwick Park,FCTC,No. 4,Naoko Hashimoto,Millie Rosoman,Millie Rosoman,5-7,5,7,0,1,Completed,true,false,false
+UA004063,31 Aug 25,6,St James,GPHC Yellow,No. 1,Jonah Davies,Patrick Cassidy,Jonah Davies,6-3,6,3,1,0,Completed,true,false,false
+UA004063,31 Aug 25,6,St James,GPHC Yellow,No. 2,James Harrington,Hugo Taylor,Hugo Taylor,3-6,3,6,0,1,Completed,true,false,false
+UA004063,31 Aug 25,6,St James,GPHC Yellow,No. 3,Lucy Davies,Oscar Hilbert,Oscar Hilbert,2-6,2,6,0,1,Completed,true,false,false
+UA004063,31 Aug 25,6,St James,GPHC Yellow,No. 4,Sophie Stewart,Leo De Luca,Leo De Luca,4-6,4,6,0,1,Completed,true,false,false
+UA004064,31 Aug 25,6,Lauriston,Glen Huntly,No. 1,Mark Ma,Tim Kalapoutis,Tim Kalapoutis,4-6,4,6,0,1,Completed,true,false,false
+UA004064,31 Aug 25,6,Lauriston,Glen Huntly,No. 2,Arjun Nair,Atticus Dhimann,Atticus Dhimann,6-7,6,7,0,1,Completed,true,false,false
+UA004064,31 Aug 25,6,Lauriston,Glen Huntly,No. 3,Juliet Nazaretian,Nile Roberts,Nile Roberts,5-7,5,7,0,1,Completed,true,false,false
+UA004064,31 Aug 25,6,Lauriston,Glen Huntly,No. 4,Taiga Torii,Jamie Dodd,Taiga Torii,7-5,7,5,1,0,Completed,true,false,false
+UA004071,07 Sep 25,7,FCTC,Kooyong,No. 1,Myra Janjua,Phillip Brophy,Phillip Brophy,2-6,2,6,0,1,Completed,true,false,true
+UA004071,07 Sep 25,7,FCTC,Kooyong,No. 2,Harli Bartling,Angus Collett,Angus Collett,4-6,4,6,0,1,Completed,true,false,false
+UA004071,07 Sep 25,7,FCTC,Kooyong,No. 3,Mischa Harris,Kevin Bai,Kevin Bai,4-6,4,6,0,1,Completed,true,false,false
+UA004071,07 Sep 25,7,FCTC,Kooyong,No. 4,Millie Rosoman,David Varano,David Varano,0-6,0,6,0,1,Completed,true,false,true
+UA004072,07 Sep 25,7,GPHC Blue,Elsternwick Park,No. 1,Riley Bladeni,Nayuta Tsuchiya,Riley Bladeni,6-2,6,2,1,0,Completed,true,false,false
+UA004072,07 Sep 25,7,GPHC Blue,Elsternwick Park,No. 2,Ned Jeffreys,Flynn Armstrong,Ned Jeffreys,6-2,6,2,1,0,Completed,true,false,false
+UA004072,07 Sep 25,7,GPHC Blue,Elsternwick Park,No. 3,Eli Jeffreys,Austin Sun,Eli Jeffreys,6-2,6,2,1,0,Completed,true,false,false
+UA004072,07 Sep 25,7,GPHC Blue,Elsternwick Park,No. 4,Claire Lo,Naoko Hashimoto,Claire Lo,6-4,6,4,1,0,Completed,true,false,false
+UA004073,07 Sep 25,7,Glen Huntly,GPHC Yellow,No. 1,Tim Kalapoutis,Jeremy Wong,Tim Kalapoutis,6-3,6,3,1,0,Completed,true,false,false
+UA004073,07 Sep 25,7,Glen Huntly,GPHC Yellow,No. 2,Atticus Dhimann,Hugo Taylor,Atticus Dhimann,6-2,6,2,1,0,Completed,true,false,false
+UA004073,07 Sep 25,7,Glen Huntly,GPHC Yellow,No. 3,Gabriel Torres Alvarez,Oscar Hilbert,Oscar Hilbert,1-6,1,6,0,1,Completed,true,false,false
+UA004073,07 Sep 25,7,Glen Huntly,GPHC Yellow,No. 4,Nile Roberts,Archer Black,Nile Roberts,6-2,6,2,1,0,Completed,true,false,false
+UA004074,07 Sep 25,7,St James,Lauriston,No. 1,Jonah Davies,Sam Morris,Jonah Davies,6-2,6,2,1,0,Completed,true,false,false
+UA004074,07 Sep 25,7,St James,Lauriston,No. 2,Emma Stewart,Jack Wiesner,Emma Stewart,6-3,6,3,1,0,Completed,true,false,false
+UA004074,07 Sep 25,7,St James,Lauriston,No. 3,Aithan Georgas,Juliet Nazaretian,Aithan Georgas,6-1,6,1,1,0,Completed,true,false,false
+UA004074,07 Sep 25,7,St James,Lauriston,No. 4,Lucy Davies,Taiga Torii,Lucy Davies,6-2,6,2,1,0,Completed,true,false,false
+UA004081,14 Sep 25,8,Lauriston,FCTC,No. 1,Mark Ma,Myra Janjua,Myra Janjua,4-6,4,6,0,1,Completed,true,false,false
+UA004081,14 Sep 25,8,Lauriston,FCTC,No. 2,Sam Morris,Harli Bartling,Sam Morris,6-2,6,2,1,0,Completed,true,false,false
+UA004081,14 Sep 25,8,Lauriston,FCTC,No. 3,Arjun Nair,Mischa Harris,Arjun Nair,6-4,6,4,1,0,Completed,true,false,false
+UA004081,14 Sep 25,8,Lauriston,FCTC,No. 4,Juliet Nazaretian,Millie Rosoman,Juliet Nazaretian,6-4,6,4,1,0,Completed,true,false,false
+UA004082,14 Sep 25,8,GPHC Yellow,GPHC Blue,No. 1,Jeremy Wong,Riley Bladeni,Jeremy Wong,7-6,7,6,1,0,Completed,true,false,false
+UA004082,14 Sep 25,8,GPHC Yellow,GPHC Blue,No. 2,Patrick Cassidy,Ned Jeffreys,Patrick Cassidy,6-3,6,3,1,0,Completed,true,false,false
+UA004082,14 Sep 25,8,GPHC Yellow,GPHC Blue,No. 3,Hugo Taylor,Gus Latimer,Hugo Taylor,6-1,6,1,1,0,Completed,true,false,false
+UA004082,14 Sep 25,8,GPHC Yellow,GPHC Blue,No. 4,Oscar Hilbert,Jack Boussioutas,Oscar Hilbert,6-4,6,4,1,0,Completed,true,false,false
+UA004083,14 Sep 25,8,St James,Kooyong,No. 1,Emma Stewart,Adriano D'Angelo,Adriano D'Angelo,4-6,4,6,0,1,Completed,true,false,false
+UA004083,14 Sep 25,8,St James,Kooyong,No. 2,Annabel Henshall,Kevin Bai,Kevin Bai,0-6,0,6,0,1,Completed,true,true,false
+UA004083,14 Sep 25,8,St James,Kooyong,No. 3,Sophie Stewart,Theo Edelstein,Theo Edelstein,1-6,1,6,0,1,Completed,true,false,false
+UA004083,14 Sep 25,8,St James,Kooyong,No. 4,Drishana Siwakoti,Freddie Tulloch,Freddie Tulloch,1-6,1,6,0,1,Completed,true,true,false
+UA004084,14 Sep 25,8,Glen Huntly,Elsternwick Park,No. 1,Atticus Dhimann,Masa Asano,Atticus Dhimann,6-2,6,2,1,0,Completed,true,false,false
+UA004084,14 Sep 25,8,Glen Huntly,Elsternwick Park,No. 2,Gabriel Torres Alvarez,Austin Sun,Gabriel Torres Alvarez,6-2,6,2,1,0,Completed,true,false,false
+UA004084,14 Sep 25,8,Glen Huntly,Elsternwick Park,No. 3,Nile Roberts,Naoko Hashimoto,Nile Roberts,7-5,7,5,1,0,Completed,true,false,false
+UA004084,14 Sep 25,8,Glen Huntly,Elsternwick Park,No. 4,Jamie Dodd,Alex Black,Jamie Dodd,6-1,6,1,1,0,Completed,true,false,true
+UA004091,12 Oct 25,9,FCTC,Glen Huntly,No. 1,Zelin Cong,Tim Kalapoutis,Zelin Cong,6-2,6,2,1,0,Completed,true,true,false
+UA004091,12 Oct 25,9,FCTC,Glen Huntly,No. 2,Mischa Harris,Atticus Dhimann,Atticus Dhimann,1-6,1,6,0,1,Completed,true,false,false
+UA004091,12 Oct 25,9,FCTC,Glen Huntly,No. 3,Max Rosoman,Nile Roberts,Max Rosoman,6-2,6,2,1,0,Completed,true,false,false
+UA004091,12 Oct 25,9,FCTC,Glen Huntly,No. 4,Millie Rosoman,Jamie Dodd,Jamie Dodd,2-6,2,6,0,1,Completed,true,false,false
+UA004092,12 Oct 25,9,GPHC Blue,Lauriston,No. 1,Ned Jeffreys,Mark Ma,Mark Ma,1-6,1,6,0,1,Completed,true,false,false
+UA004092,12 Oct 25,9,GPHC Blue,Lauriston,No. 2,Gus Latimer,Arjun Nair,Arjun Nair,5-7,5,7,0,1,Completed,true,false,false
+UA004092,12 Oct 25,9,GPHC Blue,Lauriston,No. 3,Jack Boussioutas,Juliet Nazaretian,Juliet Nazaretian,2-6,2,6,0,1,Completed,true,false,false
+UA004092,12 Oct 25,9,GPHC Blue,Lauriston,No. 4,Claire Lo,Taiga Torii,Taiga Torii,1-6,1,6,0,1,Completed,true,false,false
+UA004093,12 Oct 25,9,Kooyong,GPHC Yellow,No. 1,Angus Collett,Jeremy Wong,Angus Collett,6-4,6,4,1,0,Completed,true,false,false
+UA004093,12 Oct 25,9,Kooyong,GPHC Yellow,No. 2,Kevin Bai,Patrick Cassidy,Patrick Cassidy,0-6,0,6,0,1,Completed,true,false,false
+UA004093,12 Oct 25,9,Kooyong,GPHC Yellow,No. 3,Freddie Tulloch,[Unnamed player — TROLS UA004093 away code 3],Freddie Tulloch,6-0,6,0,1,0,Completed,false,false,false
+UA004093,12 Oct 25,9,Kooyong,GPHC Yellow,No. 4,Oscar Nicholson,Oscar Hilbert,Oscar Hilbert,0-6,0,6,0,1,Completed,true,false,false
+UA004094,12 Oct 25,9,Elsternwick Park,St James,No. 1,Masa Asano,Jonah Davies,Masa Asano,6-3,6,3,1,0,Completed,true,false,false
+UA004094,12 Oct 25,9,Elsternwick Park,St James,No. 2,Flynn Armstrong,James Harrington,Flynn Armstrong,6-3,6,3,1,0,Completed,true,false,false
+UA004094,12 Oct 25,9,Elsternwick Park,St James,No. 3,Austin Sun,Aithan Georgas,Austin Sun,6-4,6,4,1,0,Completed,true,false,false
+UA004094,12 Oct 25,9,Elsternwick Park,St James,No. 4,Naoko Hashimoto,Sophie Stewart,Sophie Stewart,4-6,4,6,0,1,Completed,true,false,false
+UA004101,19 Oct 25,10,St James,FCTC,No. 1,James Harrington,Myra Janjua,Myra Janjua,2-6,2,6,0,1,Completed,true,false,false
+UA004101,19 Oct 25,10,St James,FCTC,No. 2,Emma Stewart,Mischa Harris,Emma Stewart,6-4,6,4,1,0,Completed,true,false,false
+UA004101,19 Oct 25,10,St James,FCTC,No. 3,Aithan Georgas,Max Rosoman,Max Rosoman,1-6,1,6,0,1,Completed,true,false,false
+UA004101,19 Oct 25,10,St James,FCTC,No. 4,Mali Davies,Millie Rosoman,Mali Davies,7-5,7,5,1,0,Completed,true,false,false
+UA004102,19 Oct 25,10,Glen Huntly,GPHC Blue,No. 1,Tim Kalapoutis,Riley Bladeni,Riley Bladeni,2-6,2,6,0,1,Completed,true,false,false
+UA004102,19 Oct 25,10,Glen Huntly,GPHC Blue,No. 2,Atticus Dhimann,Gus Latimer,Atticus Dhimann,6-1,6,1,1,0,Completed,true,false,false
+UA004102,19 Oct 25,10,Glen Huntly,GPHC Blue,No. 3,Gabriel Torres Alvarez,Eli Jeffreys,Eli Jeffreys,6-7,6,7,0,1,Completed,true,false,false
+UA004102,19 Oct 25,10,Glen Huntly,GPHC Blue,No. 4,Jamie Dodd,Jack Boussioutas,Jack Boussioutas,5-7,5,7,0,1,Completed,true,false,false
+UA004103,19 Oct 25,10,Lauriston,Kooyong,No. 1,Mark Ma,Adriano D'Angelo,Adriano D'Angelo,3-6,3,6,0,1,Completed,true,false,false
+UA004103,19 Oct 25,10,Lauriston,Kooyong,No. 2,Jack Wiesner,Theo Edelstein,Theo Edelstein,1-6,1,6,0,1,Completed,true,false,false
+UA004103,19 Oct 25,10,Lauriston,Kooyong,No. 3,Arjun Nair,Freddie Tulloch,Arjun Nair,6-1,6,1,1,0,Completed,true,false,false
+UA004103,19 Oct 25,10,Lauriston,Kooyong,No. 4,Taiga Torii,Oscar Nicholson,Taiga Torii,6-4,6,4,1,0,Completed,true,false,false
+UA004104,19 Oct 25,10,GPHC Yellow,Elsternwick Park,No. 1,Jeremy Wong,Masa Asano,Jeremy Wong,6-4,6,4,1,0,Completed,true,false,false
+UA004104,19 Oct 25,10,GPHC Yellow,Elsternwick Park,No. 2,Hugo Taylor,Nayuta Tsuchiya,Nayuta Tsuchiya,4-6,4,6,0,1,Completed,true,false,false
+UA004104,19 Oct 25,10,GPHC Yellow,Elsternwick Park,No. 3,Archer Black,Flynn Armstrong,Archer Black,6-2,6,2,1,0,Completed,true,false,false
+UA004104,19 Oct 25,10,GPHC Yellow,Elsternwick Park,No. 4,Leo De Luca,Naoko Hashimoto,Leo De Luca,6-0,6,0,1,0,Completed,true,false,false
+UA004111,26 Oct 25,11,FCTC,GPHC Yellow,No. 1,Myra Janjua,Jeremy Wong,Myra Janjua,6-2,6,2,1,0,Completed,true,false,false
+UA004111,26 Oct 25,11,FCTC,GPHC Yellow,No. 2,Mischa Harris,Hugo Taylor,Mischa Harris,6-2,6,2,1,0,Completed,true,false,false
+UA004111,26 Oct 25,11,FCTC,GPHC Yellow,No. 3,Max Rosoman,Archer Black,Archer Black,1-6,1,6,0,1,Completed,true,false,false
+UA004111,26 Oct 25,11,FCTC,GPHC Yellow,No. 4,Millie Rosoman,Leo De Luca,Leo De Luca,4-6,4,6,0,1,Completed,true,false,false
+UA004112,26 Oct 25,11,GPHC Blue,St James,No. 1,Riley Bladeni,Jonah Davies,Jonah Davies,4-6,4,6,0,1,Completed,true,false,false
+UA004112,26 Oct 25,11,GPHC Blue,St James,No. 2,Ned Jeffreys,Emma Stewart,Ned Jeffreys,6-1,6,1,1,0,Completed,true,false,false
+UA004112,26 Oct 25,11,GPHC Blue,St James,No. 3,Eli Jeffreys,Mali Davies,Mali Davies,4-6,4,6,0,1,Completed,true,false,false
+UA004112,26 Oct 25,11,GPHC Blue,St James,No. 4,Claire Lo,Lucy Davies,Claire Lo,6-1,6,1,1,0,Completed,true,false,false
+UA004113,26 Oct 25,11,Kooyong,Glen Huntly,No. 1,Kevin Bai,Tim Kalapoutis,Tim Kalapoutis,4-6,4,6,0,1,Completed,true,false,false
+UA004113,26 Oct 25,11,Kooyong,Glen Huntly,No. 2,Theo Edelstein,Atticus Dhimann,Theo Edelstein,6-3,6,3,1,0,Completed,true,false,false
+UA004113,26 Oct 25,11,Kooyong,Glen Huntly,No. 3,Freddie Tulloch,Nile Roberts,Nile Roberts,2-6,2,6,0,1,Completed,true,false,false
+UA004113,26 Oct 25,11,Kooyong,Glen Huntly,No. 4,Camilla Tulloch,Jamie Dodd,Jamie Dodd,0-6,0,6,0,1,Completed,true,true,false
+UA004121,09 Nov 25,12,Elsternwick Park,Kooyong,No. 1,Nayuta Tsuchiya,Adriano D'Angelo,Nayuta Tsuchiya,6-4,6,4,1,0,Completed,true,false,false
+UA004121,09 Nov 25,12,Elsternwick Park,Kooyong,No. 2,Flynn Armstrong,Angus Collett,Angus Collett,0-6,0,6,0,1,Completed,true,false,false
+UA004121,09 Nov 25,12,Elsternwick Park,Kooyong,No. 3,Austin Sun,Kevin Bai,Austin Sun,6-1,6,1,1,0,Completed,true,false,false
+UA004121,09 Nov 25,12,Elsternwick Park,Kooyong,No. 4,Naoko Hashimoto,Freddie Tulloch,Freddie Tulloch,1-6,1,6,0,1,Completed,true,false,false
+UA004124,09 Nov 25,12,GPHC Blue,FCTC,No. 1,Riley Bladeni,Harry Grose,Riley Bladeni,6-3,6,3,1,0,Completed,true,false,false
+UA004124,09 Nov 25,12,GPHC Blue,FCTC,No. 2,Gus Latimer,Mischa Harris,Mischa Harris,0-6,0,6,0,1,Completed,true,false,false
+UA004124,09 Nov 25,12,GPHC Blue,FCTC,No. 3,Eli Jeffreys,Max Rosoman,Max Rosoman,5-7,5,7,0,1,Completed,true,false,false
+UA004124,09 Nov 25,12,GPHC Blue,FCTC,No. 4,Jack Boussioutas,Millie Rosoman,Jack Boussioutas,6-4,6,4,1,0,Completed,true,false,false
+UA004131,16 Nov 25,13,Kooyong,GPHC Blue,No. 1,Kevin Bai,Riley Bladeni,Riley Bladeni,4-6,4,6,0,1,Completed,true,false,false
+UA004131,16 Nov 25,13,Kooyong,GPHC Blue,No. 2,Theo Edelstein,Ned Jeffreys,Ned Jeffreys,6-7,6,7,0,1,Completed,true,false,false
+UA004131,16 Nov 25,13,Kooyong,GPHC Blue,No. 3,Liam Tesmer,Eli Jeffreys,Liam Tesmer,6-1,6,1,1,0,Completed,true,true,false
+UA004131,16 Nov 25,13,Kooyong,GPHC Blue,No. 4,Stefan Savic,Jack Boussioutas,Jack Boussioutas,4-6,4,6,0,1,Completed,true,true,false
+UA004132,16 Nov 25,13,FCTC,Elsternwick Park,No. 1,Zelin Cong,Nayuta Tsuchiya,Zelin Cong,6-0,6,0,1,0,Completed,true,true,false
+UA004132,16 Nov 25,13,FCTC,Elsternwick Park,No. 2,Elyse Cerquaglia,Austin Sun,Elyse Cerquaglia,6-1,6,1,1,0,Completed,true,true,false
+UA004132,16 Nov 25,13,FCTC,Elsternwick Park,No. 3,Max Rosoman,Naoko Hashimoto,Max Rosoman,6-0,6,0,1,0,Completed,true,false,false
+UA004132,16 Nov 25,13,FCTC,Elsternwick Park,No. 4,Millie Rosoman,Jesse Colberg,Jesse Colberg,3-6,3,6,0,1,Completed,true,false,true
+UA004133,16 Nov 25,13,GPHC Yellow,St James,No. 1,Hugo Taylor,Aithan Georgas,Aithan Georgas,5-6,5,6,0,1,Completed,true,false,false
+UA004133,16 Nov 25,13,GPHC Yellow,St James,No. 2,Oscar Hilbert,Sophie Stewart,,4-4,4,4,0,0,Completed,false,false,false
+UA004134,16 Nov 25,13,Glen Huntly,Lauriston,No. 1,Tim Kalapoutis,Mark Ma,Tim Kalapoutis,6-0,6,0,1,0,Completed,true,false,false
+UA004134,16 Nov 25,13,Glen Huntly,Lauriston,No. 2,Atticus Dhimann,Jack Wiesner,Atticus Dhimann,6-4,6,4,1,0,Completed,true,false,false
+UA004134,16 Nov 25,13,Glen Huntly,Lauriston,No. 3,Gabriel Torres Alvarez,Arjun Nair,Arjun Nair,3-6,3,6,0,1,Completed,true,false,false
+UA004134,16 Nov 25,13,Glen Huntly,Lauriston,No. 4,Jamie Dodd,Juliet Nazaretian,Jamie Dodd,6-4,6,4,1,0,Completed,true,false,false
+UA004142,23 Nov 25,14,Elsternwick Park,GPHC Blue,No. 1,Nayuta Tsuchiya,Riley Bladeni,Nayuta Tsuchiya,6-4,6,4,1,0,Completed,true,false,false
+UA004142,23 Nov 25,14,Elsternwick Park,GPHC Blue,No. 2,Flynn Armstrong,Gus Latimer,Flynn Armstrong,6-2,6,2,1,0,Completed,true,false,false
+UA004142,23 Nov 25,14,Elsternwick Park,GPHC Blue,No. 3,Austin Sun,Eli Jeffreys,Austin Sun,6-2,6,2,1,0,Completed,true,false,false
+UA004142,23 Nov 25,14,Elsternwick Park,GPHC Blue,No. 4,Naoko Hashimoto,Jack Boussioutas,Jack Boussioutas,0-6,0,6,0,1,Completed,true,false,false
+UA004301,,16,GPHC Yellow,FCTC,No. 1,Jeremy Wong,Myra Janjua,Myra Janjua,3-6,3,6,0,1,Completed,true,false,false
+UA004301,,16,GPHC Yellow,FCTC,No. 2,Patrick Cassidy,Mischa Harris,Patrick Cassidy,6-1,6,1,1,0,Completed,true,false,false
+UA004301,,16,GPHC Yellow,FCTC,No. 3,Hugo Taylor,Max Rosoman,Max Rosoman,5-7,5,7,0,1,Completed,true,false,false
+UA004301,,16,GPHC Yellow,FCTC,No. 4,Oscar Hilbert,Millie Rosoman,Millie Rosoman,3-6,3,6,0,1,Completed,true,false,false
+UA004302,,16,Kooyong,Glen Huntly,No. 1,Adriano D'Angelo,Tim Kalapoutis,Tim Kalapoutis,0-6,0,6,0,1,Completed,true,false,false
+UA004302,,16,Kooyong,Glen Huntly,No. 2,Angus Collett,Atticus Dhimann,Angus Collett,6-4,6,4,1,0,Completed,true,false,false
+UA004302,,16,Kooyong,Glen Huntly,No. 3,Kevin Bai,Nile Roberts,Kevin Bai,6-1,6,1,1,0,Completed,true,false,false
+UA004302,,16,Kooyong,Glen Huntly,No. 4,Freddie Tulloch,Jamie Dodd,Freddie Tulloch,6-4,6,4,1,0,Completed,true,false,false
+UA004321,,17,Glen Huntly,FCTC,No. 1,Tim Kalapoutis,Myra Janjua,Tim Kalapoutis,6-2,6,2,1,0,Completed,true,false,false
+UA004321,,17,Glen Huntly,FCTC,No. 2,Atticus Dhimann,Mischa Harris,Atticus Dhimann,6-3,6,3,1,0,Completed,true,false,false
+UA004321,,17,Glen Huntly,FCTC,No. 3,Gabriel Torres Alvarez,Max Rosoman,Max Rosoman,3-6,3,6,0,1,Completed,true,false,false
+UA004321,,17,Glen Huntly,FCTC,No. 4,Nile Roberts,Millie Rosoman,Nile Roberts,6-4,6,4,1,0,Completed,true,false,false

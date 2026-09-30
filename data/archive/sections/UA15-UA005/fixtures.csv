@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA005011,20 Jul 14,1,regular,Round 1,Mordialloc,Maccabi,10,0,6,0,,,37,12,Completed,
+UA005012,20 Jul 14,1,regular,Round 1,Dendy Park,Royal South Yarra,10,0,6,0,,,36,9,Completed,
+UA005014,20 Jul 14,1,regular,Round 1,Lauriston,St Joan of Arc,1,9,1,5,,,19,36,Completed,
+pending-ua005-r1-bye-kooyong-scotch,20 Jul 14,1,regular,Round 1,Bye,Kooyong Scotch,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA005021,27 Jul 14,2,regular,Round 2,St Joan of Arc,Mordialloc,8,2,4,2,,,31,29,Completed,
+UA005022,27 Jul 14,2,regular,Round 2,Maccabi,Dendy Park,0,10,0,6,,,14,36,Completed,
+UA005024,27 Jul 14,2,regular,Round 2,Kooyong Scotch,Lauriston,7,3,3,3,,,32,27,Completed,
+pending-ua005-r2-royal-south-yarra-bye,27 Jul 14,2,regular,Round 2,Royal South Yarra,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA005031,03 Aug 14,3,regular,Round 3,Mordialloc,Kooyong Scotch,8,2,4,2,,,30,24,Completed,
+UA005032,03 Aug 14,3,regular,Round 3,Dendy Park,St Joan of Arc,8,2,4,2,,,33,20,Completed,
+UA005034,03 Aug 14,3,regular,Round 3,Lauriston,Royal South Yarra,10,0,6,0,,,36,4,Completed,
+pending-ua005-r3-bye-maccabi,03 Aug 14,3,regular,Round 3,Bye,Maccabi,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA005041,10 Aug 14,4,regular,Round 4,Royal South Yarra,Mordialloc,2,8,2,4,,,17,31,Completed,
+UA005042,10 Aug 14,4,regular,Round 4,Kooyong Scotch,Dendy Park,3,7,3,3,,,23,25,Completed,
+UA005044,10 Aug 14,4,regular,Round 4,Maccabi,Lauriston,3,7,3,3,,,29,30,Completed,
+pending-ua005-r4-st-joan-of-arc-bye,10 Aug 14,4,regular,Round 4,St Joan of Arc,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA005052,17 Aug 14,5,regular,Round 5,St Joan of Arc,Kooyong Scotch,2,8,2,4,,,25,29,Completed,
+UA005053,17 Aug 14,5,regular,Round 5,Royal South Yarra,Maccabi,8,2,4,2,,,27,27,Completed,
+UA005054,17 Aug 14,5,regular,Round 5,Mordialloc,Dendy Park,3,7,3,3,,,24,25,Completed,
+pending-ua005-r5-bye-lauriston,17 Aug 14,5,regular,Round 5,Bye,Lauriston,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA005062,24 Aug 14,6,regular,Round 6,Lauriston,Mordialloc,2,8,2,4,,,23,30,Completed,
+UA005063,24 Aug 14,6,regular,Round 6,Kooyong Scotch,Royal South Yarra,10,0,6,0,,,36,12,Completed,
+UA005064,24 Aug 14,6,regular,Round 6,Maccabi,St Joan of Arc,0,10,0,6,,,20,37,Completed,
+pending-ua005-r6-dendy-park-bye,24 Aug 14,6,regular,Round 6,Dendy Park,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA005072,31 Aug 14,7,regular,Round 7,Dendy Park,Lauriston,5,5,3,3,,,31,31,Completed,
+UA005073,31 Aug 14,7,regular,Round 7,St Joan of Arc,Royal South Yarra,10,0,6,0,,,36,11,Completed,
+UA005074,31 Aug 14,7,regular,Round 7,Kooyong Scotch,Maccabi,3,7,3,3,,,26,28,Completed,
+pending-ua005-r7-mordialloc-bye,31 Aug 14,7,regular,Round 7,Mordialloc,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA005081,07 Sep 14,8,regular,Round 8,Maccabi,Mordialloc,2,8,2,4,,,26,30,Completed,
+UA005082,07 Sep 14,8,regular,Round 8,Royal South Yarra,Dendy Park,1,9,1,5,,,16,35,Completed,
+UA005084,07 Sep 14,8,regular,Round 8,St Joan of Arc,Lauriston,8,2,4,2,,,33,22,Completed,
+pending-ua005-r8-kooyong-scotch-bye,07 Sep 14,8,regular,Round 8,Kooyong Scotch,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA005091,14 Sep 14,9,regular,Round 9,Mordialloc,St Joan of Arc,2,8,2,4,,,27,30,Completed,
+UA005092,14 Sep 14,9,regular,Round 9,Dendy Park,Maccabi,10,0,6,0,,,36,17,Completed,
+UA005094,14 Sep 14,9,regular,Round 9,Lauriston,Kooyong Scotch,2,8,2,4,,,29,34,Completed,
+pending-ua005-r9-bye-royal-south-yarra,14 Sep 14,9,regular,Round 9,Bye,Royal South Yarra,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA005101,12 Oct 14,10,regular,Round 10,Kooyong Scotch,Mordialloc,2,8,2,4,,,26,29,Completed,
+UA005102,12 Oct 14,10,regular,Round 10,St Joan of Arc,Dendy Park,2,8,2,4,,,21,30,Completed,
+UA005104,12 Oct 14,10,regular,Round 10,Royal South Yarra,Lauriston,1,9,1,5,,,9,32,Completed,
+pending-ua005-r10-maccabi-bye,12 Oct 14,10,regular,Round 10,Maccabi,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA005111,19 Oct 14,11,regular,Round 11,Mordialloc,Royal South Yarra,9,1,5,1,,,31,17,Completed,
+UA005112,19 Oct 14,11,regular,Round 11,Dendy Park,Kooyong Scotch,8,2,4,2,,,30,23,Completed,
+UA005114,19 Oct 14,11,regular,Round 11,Lauriston,Maccabi,9,1,5,1,,,37,26,Completed,
+pending-ua005-r11-bye-st-joan-of-arc,19 Oct 14,11,regular,Round 11,Bye,St Joan of Arc,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA005122,26 Oct 14,12,regular,Round 12,Kooyong Scotch,St Joan of Arc,1,9,1,5,,,19,34,Completed,
+UA005123,26 Oct 14,12,regular,Round 12,Maccabi,Royal South Yarra,9,1,5,1,,,34,17,Completed,
+UA005124,26 Oct 14,12,regular,Round 12,Dendy Park,Mordialloc,9,1,5,1,,,34,18,Completed,
+pending-ua005-r12-lauriston-bye,26 Oct 14,12,regular,Round 12,Lauriston,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA005132,09 Nov 14,13,regular,Round 13,Mordialloc,Lauriston,10,0,6,0,,,36,17,Completed,
+UA005133,09 Nov 14,13,regular,Round 13,Royal South Yarra,Kooyong Scotch,2,8,2,4,,,18,28,Completed,
+UA005134,09 Nov 14,13,regular,Round 13,St Joan of Arc,Maccabi,9,1,5,1,,,31,21,Completed,
+pending-ua005-r13-bye-dendy-park,09 Nov 14,13,regular,Round 13,Bye,Dendy Park,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua005-r14-bye-mordialloc,16 Nov 14,14,regular,Round 14,Bye,Mordialloc,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua005-r14-lauriston-dendy-park,16 Nov 14,14,regular,Round 14,Lauriston,Dendy Park,,,,,,,,,Missing Result,No individual scorecard / no rubbers recorded
+pending-ua005-r14-maccabi-kooyong-scotch,16 Nov 14,14,regular,Round 14,Maccabi,Kooyong Scotch,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua005-r14-royal-south-yarra-st-joan-of-arc,16 Nov 14,14,regular,Round 14,Royal South Yarra,St Joan of Arc,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA005301,,16,semi_final,Semi-final,Dendy Park,Kooyong Scotch,8,2,4,2,,,30,23,Completed,
+UA005302,,16,semi_final,Semi-final,St Joan of Arc,Mordialloc,10,0,6,0,,,36,18,Completed,
+UA005321,,17,grand_final,Grand final · TROLS entry 2,Dendy Park,St Joan of Arc,9,1,5,1,,,31,22,Completed,

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA7-UA026",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2010",
+  "season_id": "UA7",
+  "season_label": "Spring 2010",
+  "source_section_code": "UA026",
+  "section_label": "Section 7",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Dendy Park 3",
+      "wins": 0,
+      "points": 102,
+      "percentage": 150.61,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Beaumaris CC",
+      "wins": 0,
+      "points": 93,
+      "percentage": 132.12,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Maccabi",
+      "wins": 0,
+      "points": 73.5,
+      "percentage": 115.05,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Tennis World",
+      "wins": 0,
+      "points": 71,
+      "percentage": 97.05,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 63.5,
+      "percentage": 86.57,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park 2",
+      "wins": 0,
+      "points": 58,
+      "percentage": 81.99,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Caulfield Rec",
+      "wins": 0,
+      "points": 55,
+      "percentage": 80.94,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park 1",
+      "wins": 0,
+      "points": 44,
+      "percentage": 77.45,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA7-UA026",
+  "fixtures": 59,
+  "completed_fixtures": 50,
+  "draw_fixtures": 59,
+  "singles_rubbers": 196,
+  "doubles_rubbers": 96,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

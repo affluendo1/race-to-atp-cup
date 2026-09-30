@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA22-UA010",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA010",
+  "section_label": "Section 10",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Wattle",
+      "wins": 10,
+      "points": 109,
+      "percentage": 198.7,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Joan of Arc",
+      "wins": 11,
+      "points": 100,
+      "percentage": 135.81,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Mordialloc",
+      "wins": 9,
+      "points": 83,
+      "percentage": 112.32,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 6,
+      "points": 61,
+      "percentage": 87.31,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal South Yarra 2",
+      "wins": 5,
+      "points": 59,
+      "percentage": 79.35,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Caulfield Rec",
+      "wins": 2,
+      "points": 56,
+      "percentage": 102.27,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Murrumbeena",
+      "wins": 5,
+      "points": 54,
+      "percentage": 81.65,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal South Yarra 1",
+      "wins": 4,
+      "points": 38,
+      "percentage": 56.28,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA010",
+  "fixtures": 59,
+  "completed_fixtures": 56,
+  "draw_fixtures": 59,
+  "singles_rubbers": 224,
+  "doubles_rubbers": 112,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

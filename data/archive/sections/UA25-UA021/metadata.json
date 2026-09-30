@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA25-UA021",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2019",
+  "season_id": "UA25",
+  "season_label": "Spring 2019",
+  "source_section_code": "UA021",
+  "section_label": "Section 21",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Royal South Yarra",
+      "wins": 12,
+      "points": 115,
+      "percentage": 204.31,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Andrews MB Kevin",
+      "wins": 10,
+      "points": 105,
+      "percentage": 161.11,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "BLTC",
+      "wins": 9,
+      "points": 99,
+      "percentage": 140.86,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "St Pauls",
+      "wins": 6,
+      "points": 70,
+      "percentage": 102.99,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kings Park",
+      "wins": 6,
+      "points": 66,
+      "percentage": 94.65,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Maccabi",
+      "wins": 4,
+      "points": 57,
+      "percentage": 82.6,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Carmelite",
+      "wins": 2,
+      "points": 33,
+      "percentage": 61.39,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Le Page",
+      "wins": 0,
+      "points": 15,
+      "percentage": 39.64,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA25-UA021",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 216,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,85 @@
+{
+  "asset_id": "UA19-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2016",
+  "season_id": "UA19",
+  "season_label": "Spring 2016",
+  "source_section_code": "UA017",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Glen Eira",
+      "wins": 10,
+      "points": 88,
+      "percentage": 130.22,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "GPHC MLC",
+      "wins": 7,
+      "points": 83,
+      "percentage": 141.99,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Hampton",
+      "wins": 6,
+      "points": 65,
+      "percentage": 107.61,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Parkdale",
+      "wins": 6,
+      "points": 56,
+      "percentage": 94.12,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 3,
+      "points": 46,
+      "percentage": 84.15,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Lauriston",
+      "wins": 4,
+      "points": 45,
+      "percentage": 82.88,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park",
+      "wins": 2,
+      "points": 37,
+      "percentage": 76.25,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA19-UA017",
+  "fixtures": 59,
+  "completed_fixtures": 42,
+  "draw_fixtures": 45,
+  "singles_rubbers": 168,
+  "doubles_rubbers": 84,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA017302"
+  ]
+}

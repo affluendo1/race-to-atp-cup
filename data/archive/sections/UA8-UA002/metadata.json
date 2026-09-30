@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA8-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2011",
+  "season_id": "UA8",
+  "season_label": "Autumn 2011",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong 1",
+      "wins": 0,
+      "points": 104,
+      "percentage": 158.09,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Glen Eira Beech",
+      "wins": 0,
+      "points": 100,
+      "percentage": 134.2,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Maccabi",
+      "wins": 0,
+      "points": 72,
+      "percentage": 99.4,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 0,
+      "points": 71,
+      "percentage": 104.64,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park 2",
+      "wins": 0,
+      "points": 69,
+      "percentage": 88.29,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong 2",
+      "wins": 0,
+      "points": 52,
+      "percentage": 83.57,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park 1",
+      "wins": 0,
+      "points": 51,
+      "percentage": 83.15,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hurlingham Park",
+      "wins": 0,
+      "points": 41,
+      "percentage": 76.5,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA8-UA002",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 210,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

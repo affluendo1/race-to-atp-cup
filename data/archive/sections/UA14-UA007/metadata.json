@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA14-UA007",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2014",
+  "season_id": "UA14",
+  "season_label": "Autumn 2014",
+  "source_section_code": "UA007",
+  "section_label": "Section 7",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Mordialloc 2",
+      "wins": 9,
+      "points": 99,
+      "percentage": 137.32,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Mordialloc 1",
+      "wins": 9,
+      "points": 99,
+      "percentage": 135.62,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Royal South Yarra",
+      "wins": 6,
+      "points": 88,
+      "percentage": 123.53,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "St Louis de Mont",
+      "wins": 9,
+      "points": 82,
+      "percentage": 105.31,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Maccabi",
+      "wins": 5,
+      "points": 64.5,
+      "percentage": 100.28,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Lauriston",
+      "wins": 6,
+      "points": 63,
+      "percentage": 96.62,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Tennis World",
+      "wins": 1,
+      "points": 37,
+      "percentage": 62.25,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 27.5,
+      "percentage": 64.69,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA14-UA007",
+  "fixtures": 59,
+  "completed_fixtures": 51,
+  "draw_fixtures": 59,
+  "singles_rubbers": 202,
+  "doubles_rubbers": 100,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

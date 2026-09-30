@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA27-UA022",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2020",
+  "season_id": "UA27",
+  "season_label": "Spring 2020",
+  "source_section_code": "UA022",
+  "section_label": "Section 22",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Dendy Park",
+      "wins": 3,
+      "points": 34,
+      "percentage": 125.89,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Royal Ave",
+      "wins": 3,
+      "points": 30,
+      "percentage": 121.55,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Hurlingham Park",
+      "wins": 3,
+      "points": 28,
+      "percentage": 114.75,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kings Park",
+      "wins": 2,
+      "points": 26,
+      "percentage": 150.0,
+      "marker": "*"
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 3,
+      "points": 26,
+      "percentage": 89.55,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Mentone",
+      "wins": 0,
+      "points": 13,
+      "percentage": 67.76,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Coatesville",
+      "wins": 1,
+      "points": 13,
+      "percentage": 67.24,
+      "marker": "*"
+    }
+  ],
+  "section_code": "UA27-UA022",
+  "fixtures": 24,
+  "completed_fixtures": 16,
+  "draw_fixtures": 42,
+  "singles_rubbers": 64,
+  "doubles_rubbers": 32,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

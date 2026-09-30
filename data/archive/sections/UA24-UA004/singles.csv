@@ -1,0 +1,237 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA004011,03 Feb 19,1,Kings Park,Maccabi,No. 1,Sam Fritzlaff,Jay Landau,Sam Fritzlaff,6-3,6,3,1,0,Completed,true,false,false
+UA004011,03 Feb 19,1,Kings Park,Maccabi,No. 2,Axel Blitzman,Lachie Zuker,Lachie Zuker,0-6,0,6,0,1,Completed,true,false,false
+UA004011,03 Feb 19,1,Kings Park,Maccabi,No. 3,Korben Brough,Nathan Needleman,Korben Brough,6-3,6,3,1,0,Completed,true,false,false
+UA004011,03 Feb 19,1,Kings Park,Maccabi,No. 4,Chloe Eden,Alex Dang,Alex Dang,5-7,5,7,0,1,Completed,true,false,false
+UA004012,03 Feb 19,1,Royal Ave,BLTC 1,No. 1,Tommy Sullivan-Dunne,Patrick Millar,Patrick Millar,4-6,4,6,0,1,Completed,true,false,false
+UA004012,03 Feb 19,1,Royal Ave,BLTC 1,No. 2,Luke Saliba,Adam Marrow,Adam Marrow,1-6,1,6,0,1,Completed,true,false,false
+UA004012,03 Feb 19,1,Royal Ave,BLTC 1,No. 3,Patrick Gu,Lauren Malby-Luke,Patrick Gu,6-3,6,3,1,0,Completed,true,false,false
+UA004012,03 Feb 19,1,Royal Ave,BLTC 1,No. 4,Nick Bolmat,Jamie Turner,Jamie Turner,0-6,0,6,0,1,Completed,true,false,false
+UA004013,03 Feb 19,1,Elsternwick Park,BLTC 2,No. 1,Sasha Milentijevic-Vague,Olivia Moir,Sasha Milentijevic-Vague,6-0,6,0,1,0,Completed,true,false,false
+UA004013,03 Feb 19,1,Elsternwick Park,BLTC 2,No. 2,Raphael Schwalb,Hayden Heng,Raphael Schwalb,7-5,7,5,1,0,Completed,true,false,false
+UA004013,03 Feb 19,1,Elsternwick Park,BLTC 2,No. 3,Nicole Bennett,Sophie Christie,Sophie Christie,5-7,5,7,0,1,Completed,true,false,false
+UA004013,03 Feb 19,1,Elsternwick Park,BLTC 2,No. 4,Gil Kras,Indiana Marostica,Gil Kras,6-3,6,3,1,0,Completed,true,false,false
+UA004014,03 Feb 19,1,Kooyong 1,Kooyong 2,No. 1,Lachlan Main,Lachlan Tingate,Lachlan Tingate,1-6,1,6,0,1,Completed,true,false,false
+UA004014,03 Feb 19,1,Kooyong 1,Kooyong 2,No. 2,Spencer Hunter,Carrie Shi,Spencer Hunter,6-4,6,4,1,0,Completed,true,false,false
+UA004014,03 Feb 19,1,Kooyong 1,Kooyong 2,No. 3,Aydan Kumar,Leo Morrison,Aydan Kumar,6-4,6,4,1,0,Completed,true,false,false
+UA004014,03 Feb 19,1,Kooyong 1,Kooyong 2,No. 4,Sophie Siddons,Annabel Sweetnam,Annabel Sweetnam,3-6,3,6,0,1,Completed,true,false,false
+UA004021,10 Feb 19,2,Kooyong 2,Kings Park,No. 1,Koharu Nishikawa,Sam Fritzlaff,Koharu Nishikawa,6-0,6,0,1,0,Completed,true,false,false
+UA004021,10 Feb 19,2,Kooyong 2,Kings Park,No. 2,Lachlan Tingate,Korben Brough,Korben Brough,1-6,1,6,0,1,Completed,true,false,false
+UA004021,10 Feb 19,2,Kooyong 2,Kings Park,No. 3,Carrie Shi,Joni Deriboklou,Carrie Shi,6-2,6,2,1,0,Completed,true,false,false
+UA004021,10 Feb 19,2,Kooyong 2,Kings Park,No. 4,Annabel Sweetnam,Joanna Lee,Annabel Sweetnam,6-2,6,2,1,0,Completed,true,false,false
+UA004022,10 Feb 19,2,Maccabi,Royal Ave,No. 1,Charlie Landau,Tommy Sullivan-Dunne,Tommy Sullivan-Dunne,1-6,1,6,0,1,Completed,true,false,false
+UA004022,10 Feb 19,2,Maccabi,Royal Ave,No. 2,Jay Landau,Patrick Gu,Jay Landau,6-4,6,4,1,0,Completed,true,false,false
+UA004022,10 Feb 19,2,Maccabi,Royal Ave,No. 3,Lachie Zuker,Nick Bolmat,Lachie Zuker,6-0,6,0,1,0,Completed,true,false,false
+UA004022,10 Feb 19,2,Maccabi,Royal Ave,No. 4,Nathan Needleman,Jesse Hodge,Nathan Needleman,6-2,6,2,1,0,Completed,true,false,false
+UA004023,10 Feb 19,2,BLTC 1,Elsternwick Park,No. 1,Adam Marrow,Sasha Milentijevic-Vague,Sasha Milentijevic-Vague,1-6,1,6,0,1,Completed,true,false,false
+UA004023,10 Feb 19,2,BLTC 1,Elsternwick Park,No. 2,Lauren Malby-Luke,Raphael Schwalb,Raphael Schwalb,0-6,0,6,0,1,Completed,true,false,false
+UA004023,10 Feb 19,2,BLTC 1,Elsternwick Park,No. 3,Jamie Turner,Nicole Bennett,Jamie Turner,6-2,6,2,1,0,Completed,true,false,false
+UA004023,10 Feb 19,2,BLTC 1,Elsternwick Park,No. 4,Xavier Carter,Oscar Wynan,Xavier Carter,6-3,6,3,1,0,Completed,true,false,false
+UA004024,10 Feb 19,2,BLTC 2,Kooyong 1,No. 1,Hayden Heng,Dustin Feldman,Hayden Heng,6-3,6,3,1,0,Completed,true,false,false
+UA004024,10 Feb 19,2,BLTC 2,Kooyong 1,No. 2,Olivia Moir,Jack Lennon,Olivia Moir,6-1,6,1,1,0,Completed,true,false,false
+UA004024,10 Feb 19,2,BLTC 2,Kooyong 1,No. 3,Sophie Christie,Aydan Kumar,Sophie Christie,6-3,6,3,1,0,Completed,true,false,false
+UA004024,10 Feb 19,2,BLTC 2,Kooyong 1,No. 4,Lachlan Christie,Sophie Siddons,Lachlan Christie,7-5,7,5,1,0,Completed,true,false,false
+UA004031,17 Feb 19,3,Kings Park,BLTC 2,No. 1,Korben Brough,Hayden Heng,Hayden Heng,4-6,4,6,0,1,Completed,true,false,false
+UA004031,17 Feb 19,3,Kings Park,BLTC 2,No. 2,Sam Fritzlaff,Sophie Christie,Sophie Christie,5-7,5,7,0,1,Completed,true,false,false
+UA004031,17 Feb 19,3,Kings Park,BLTC 2,No. 3,Joanna Lee,Lachlan Christie,Joanna Lee,6-2,6,2,1,0,Completed,true,false,false
+UA004031,17 Feb 19,3,Kings Park,BLTC 2,No. 4,Chloe Eden,Jake Daniels,Jake Daniels,5-7,5,7,0,1,Completed,true,false,false
+UA004032,17 Feb 19,3,Royal Ave,Kooyong 2,No. 1,Thomas Antonis,Koharu Nishikawa,Koharu Nishikawa,0-6,0,6,0,1,Completed,true,false,false
+UA004032,17 Feb 19,3,Royal Ave,Kooyong 2,No. 2,Patrick Gu,Lachlan Tingate,Lachlan Tingate,1-6,1,6,0,1,Completed,true,false,false
+UA004032,17 Feb 19,3,Royal Ave,Kooyong 2,No. 3,Louis McNabney-Stevens,Leo Morrison,Louis McNabney-Stevens,6-4,6,4,1,0,Completed,true,false,false
+UA004032,17 Feb 19,3,Royal Ave,Kooyong 2,No. 4,Jesse Hodge,Annabel Sweetnam,Annabel Sweetnam,2-6,2,6,0,1,Completed,true,false,false
+UA004033,17 Feb 19,3,Elsternwick Park,Maccabi,No. 1,Sasha Milentijevic-Vague,Lachie Zuker,Sasha Milentijevic-Vague,6-0,6,0,1,0,Completed,true,false,false
+UA004033,17 Feb 19,3,Elsternwick Park,Maccabi,No. 2,Raphael Schwalb,Nathan Needleman,Raphael Schwalb,6-4,6,4,1,0,Completed,true,false,false
+UA004033,17 Feb 19,3,Elsternwick Park,Maccabi,No. 3,Gil Kras,Alex Dang,Alex Dang,2-6,2,6,0,1,Completed,true,false,false
+UA004033,17 Feb 19,3,Elsternwick Park,Maccabi,No. 4,Oscar Wynan,Liam Shapino,Liam Shapino,1-6,1,6,0,1,Completed,true,false,false
+UA004034,17 Feb 19,3,Kooyong 1,BLTC 1,No. 1,Lachlan Main,Adam Marrow,Adam Marrow,4-6,4,6,0,1,Completed,true,false,false
+UA004034,17 Feb 19,3,Kooyong 1,BLTC 1,No. 2,Jack Lennon,Jamie Turner,Jamie Turner,5-7,5,7,0,1,Completed,true,false,false
+UA004034,17 Feb 19,3,Kooyong 1,BLTC 1,No. 3,Spencer Hunter,Xavier Carter,Xavier Carter,3-6,3,6,0,1,Completed,true,false,false
+UA004034,17 Feb 19,3,Kooyong 1,BLTC 1,No. 4,Sophie Siddons,Jenna Brown,Sophie Siddons,6-2,6,2,1,0,Completed,true,false,false
+UA004041,24 Feb 19,4,BLTC 1,Kings Park,No. 1,Patrick Millar,Korben Brough,Patrick Millar,6-1,6,1,1,0,Completed,true,false,false
+UA004041,24 Feb 19,4,BLTC 1,Kings Park,No. 2,Adam Marrow,Sam Fritzlaff,Sam Fritzlaff,2-6,2,6,0,1,Completed,true,false,false
+UA004041,24 Feb 19,4,BLTC 1,Kings Park,No. 3,Lauren Malby-Luke,Joanna Lee,Joanna Lee,2-6,2,6,0,1,Completed,true,false,false
+UA004041,24 Feb 19,4,BLTC 1,Kings Park,No. 4,Xavier Carter,Chloe Eden,Xavier Carter,6-2,6,2,1,0,Completed,true,false,false
+UA004042,24 Feb 19,4,BLTC 2,Royal Ave,No. 1,Hayden Heng,Tommy Sullivan-Dunne,Hayden Heng,6-2,6,2,1,0,Completed,true,false,false
+UA004042,24 Feb 19,4,BLTC 2,Royal Ave,No. 2,Olivia Moir,Thomas Antonis,Olivia Moir,6-4,6,4,1,0,Completed,true,false,false
+UA004042,24 Feb 19,4,BLTC 2,Royal Ave,No. 3,Sophie Christie,Nick Bolmat,Nick Bolmat,2-6,2,6,0,1,Completed,true,false,false
+UA004042,24 Feb 19,4,BLTC 2,Royal Ave,No. 4,Lachlan Christie,Louis McNabney-Stevens,Louis McNabney-Stevens,3-6,3,6,0,1,Completed,true,false,false
+UA004043,24 Feb 19,4,Kooyong 2,Elsternwick Park,No. 1,Koharu Nishikawa,Sasha Milentijevic-Vague,Sasha Milentijevic-Vague,0-6,0,6,0,1,Completed,true,false,false
+UA004043,24 Feb 19,4,Kooyong 2,Elsternwick Park,No. 2,Lachlan Tingate,Raphael Schwalb,Raphael Schwalb,0-6,0,6,0,1,Completed,true,false,false
+UA004043,24 Feb 19,4,Kooyong 2,Elsternwick Park,No. 3,Carrie Shi,Nicole Bennett,Carrie Shi,6-4,6,4,1,0,Completed,true,false,false
+UA004043,24 Feb 19,4,Kooyong 2,Elsternwick Park,No. 4,Leo Morrison,Oscar Wynan,Oscar Wynan,4-6,4,6,0,1,Completed,true,false,false
+UA004044,24 Feb 19,4,Maccabi,Kooyong 1,No. 1,Jay Landau,Lachlan Main,Lachlan Main,2-6,2,6,0,1,Completed,true,false,false
+UA004044,24 Feb 19,4,Maccabi,Kooyong 1,No. 2,Lachie Zuker,Spencer Hunter,Lachie Zuker,6-1,6,1,1,0,Completed,true,false,false
+UA004044,24 Feb 19,4,Maccabi,Kooyong 1,No. 3,Nathan Needleman,Aydan Kumar,Nathan Needleman,7-6,7,6,1,0,Completed,true,false,false
+UA004044,24 Feb 19,4,Maccabi,Kooyong 1,No. 4,Alex Dang,Sophie Siddons,Alex Dang,6-0,6,0,1,0,Completed,true,false,false
+UA004051,03 Mar 19,5,Elsternwick Park,Kooyong 1,No. 1,Sasha Milentijevic-Vague,Dustin Feldman,Dustin Feldman,1-6,1,6,0,1,Completed,true,false,false
+UA004051,03 Mar 19,5,Elsternwick Park,Kooyong 1,No. 2,Gil Kras,Lachlan Main,Lachlan Main,2-6,2,6,0,1,Completed,true,false,false
+UA004051,03 Mar 19,5,Elsternwick Park,Kooyong 1,No. 3,Nicole Bennett,Jack Lennon,Jack Lennon,3-6,3,6,0,1,Completed,true,false,false
+UA004051,03 Mar 19,5,Elsternwick Park,Kooyong 1,No. 4,Oscar Wynan,Aydan Kumar,Aydan Kumar,3-6,3,6,0,1,Completed,true,false,false
+UA004052,03 Mar 19,5,Kooyong 2,BLTC 2,No. 1,Koharu Nishikawa,Hayden Heng,Hayden Heng,4-6,4,6,0,1,Completed,true,false,false
+UA004052,03 Mar 19,5,Kooyong 2,BLTC 2,No. 2,Lachlan Tingate,Sophie Christie,Sophie Christie,2-6,2,6,0,1,Completed,true,false,false
+UA004052,03 Mar 19,5,Kooyong 2,BLTC 2,No. 3,Leo Morrison,Indiana Marostica,Leo Morrison,6-4,6,4,1,0,Completed,true,false,false
+UA004052,03 Mar 19,5,Kooyong 2,BLTC 2,No. 4,Annabel Sweetnam,Lachlan Christie,Annabel Sweetnam,6-0,6,0,1,0,Completed,true,false,false
+UA004053,03 Mar 19,5,BLTC 1,Maccabi,No. 1,Patrick Millar,Charlie Landau,Patrick Millar,6-4,6,4,1,0,Completed,true,false,false
+UA004053,03 Mar 19,5,BLTC 1,Maccabi,No. 2,Adam Marrow,Jay Landau,Adam Marrow,6-1,6,1,1,0,Completed,true,false,false
+UA004053,03 Mar 19,5,BLTC 1,Maccabi,No. 3,Jamie Turner,Lachie Zuker,Jamie Turner,6-2,6,2,1,0,Completed,true,false,false
+UA004053,03 Mar 19,5,BLTC 1,Maccabi,No. 4,Xavier Carter,Nathan Needleman,Xavier Carter,7-6,7,6,1,0,Completed,true,false,false
+UA004054,03 Mar 19,5,Kings Park,Royal Ave,No. 1,Korben Brough,Tommy Sullivan-Dunne,Korben Brough,6-0,6,0,1,0,Completed,true,false,false
+UA004054,03 Mar 19,5,Kings Park,Royal Ave,No. 2,Joni Deriboklou,Thomas Antonis,Joni Deriboklou,6-0,6,0,1,0,Completed,true,false,false
+UA004054,03 Mar 19,5,Kings Park,Royal Ave,No. 3,Joanna Lee,Nick Bolmat,Joanna Lee,6-0,6,0,1,0,Completed,true,false,false
+UA004054,03 Mar 19,5,Kings Park,Royal Ave,No. 4,Chloe Eden,Tal Zafrin,Tal Zafrin,2-6,2,6,0,1,Completed,true,false,false
+UA004061,17 Mar 19,6,Royal Ave,Elsternwick Park,No. 1,Tommy Sullivan-Dunne,Sasha Milentijevic-Vague,Sasha Milentijevic-Vague,0-6,0,6,0,1,Completed,true,false,false
+UA004061,17 Mar 19,6,Royal Ave,Elsternwick Park,No. 2,Nick Bolmat,Raphael Schwalb,Raphael Schwalb,3-6,3,6,0,1,Completed,true,false,false
+UA004061,17 Mar 19,6,Royal Ave,Elsternwick Park,No. 3,Louis McNabney-Stevens,Gil Kras,Gil Kras,5-7,5,7,0,1,Completed,true,false,false
+UA004061,17 Mar 19,6,Royal Ave,Elsternwick Park,No. 4,Jesse Hodge,Nicole Bennett,Nicole Bennett,5-7,5,7,0,1,Completed,true,false,false
+UA004062,17 Mar 19,6,Kooyong 1,Kings Park,No. 1,Jack Lennon,Korben Brough,Korben Brough,5-7,5,7,0,1,Completed,true,false,false
+UA004062,17 Mar 19,6,Kooyong 1,Kings Park,No. 2,Spencer Hunter,Joni Deriboklou,Spencer Hunter,7-6,7,6,1,0,Completed,true,false,false
+UA004062,17 Mar 19,6,Kooyong 1,Kings Park,No. 3,Aydan Kumar,Joanna Lee,Aydan Kumar,6-4,6,4,1,0,Completed,true,false,false
+UA004062,17 Mar 19,6,Kooyong 1,Kings Park,No. 4,Sophie Siddons,Chloe Eden,Sophie Siddons,6-1,6,1,1,0,Completed,true,false,false
+UA004063,17 Mar 19,6,BLTC 2,BLTC 1,No. 1,Hayden Heng,Patrick Millar,Hayden Heng,6-1,6,1,1,0,Completed,true,false,false
+UA004063,17 Mar 19,6,BLTC 2,BLTC 1,No. 2,Olivia Moir,Adam Marrow,Olivia Moir,6-2,6,2,1,0,Completed,true,false,false
+UA004063,17 Mar 19,6,BLTC 2,BLTC 1,No. 3,Thomas Flood,Lauren Malby-Luke,Thomas Flood,6-4,6,4,1,0,Completed,true,false,false
+UA004063,17 Mar 19,6,BLTC 2,BLTC 1,No. 4,Lachlan Christie,Jamie Turner,Jamie Turner,3-6,3,6,0,1,Completed,true,false,false
+UA004064,17 Mar 19,6,Maccabi,Kooyong 2,No. 1,Jay Landau,Koharu Nishikawa,Koharu Nishikawa,3-6,3,6,0,1,Completed,true,false,false
+UA004064,17 Mar 19,6,Maccabi,Kooyong 2,No. 2,Lachie Zuker,Lachlan Tingate,Lachlan Tingate,0-6,0,6,0,1,Completed,true,false,false
+UA004064,17 Mar 19,6,Maccabi,Kooyong 2,No. 3,Nathan Needleman,Carrie Shi,Nathan Needleman,7-5,7,5,1,0,Completed,true,false,false
+UA004064,17 Mar 19,6,Maccabi,Kooyong 2,No. 4,Alex Dang,Annabel Sweetnam,Annabel Sweetnam,2-6,2,6,0,1,Completed,true,false,false
+UA004071,24 Mar 19,7,Kings Park,Elsternwick Park,No. 1,Korben Brough,Raphael Schwalb,Korben Brough,6-4,6,4,1,0,Completed,true,false,false
+UA004071,24 Mar 19,7,Kings Park,Elsternwick Park,No. 2,Sam Fritzlaff,Gil Kras,Gil Kras,0-6,0,6,0,1,Completed,true,false,false
+UA004071,24 Mar 19,7,Kings Park,Elsternwick Park,No. 3,Joni Deriboklou,Nicole Bennett,Joni Deriboklou,7-6,7,6,1,0,Completed,true,false,false
+UA004071,24 Mar 19,7,Kings Park,Elsternwick Park,No. 4,Chloe Eden,Oscar Wynan,Oscar Wynan,3-6,3,6,0,1,Completed,true,false,false
+UA004072,24 Mar 19,7,Royal Ave,Kooyong 1,No. 1,Thomas Antonis,Lachlan Main,Lachlan Main,0-6,0,6,0,1,Completed,true,false,false
+UA004072,24 Mar 19,7,Royal Ave,Kooyong 1,No. 2,Patrick Gu,Jack Lennon,Jack Lennon,0-6,0,6,0,1,Completed,true,false,false
+UA004072,24 Mar 19,7,Royal Ave,Kooyong 1,No. 3,Nick Bolmat,Spencer Hunter,Spencer Hunter,3-6,3,6,0,1,Completed,true,false,false
+UA004072,24 Mar 19,7,Royal Ave,Kooyong 1,No. 4,Louis McNabney-Stevens,Aydan Kumar,Louis McNabney-Stevens,6-3,6,3,1,0,Completed,true,false,false
+UA004073,24 Mar 19,7,Kooyong 2,BLTC 1,No. 1,Angus Jones,Adam Marrow,Adam Marrow,3-6,3,6,0,1,Completed,true,false,false
+UA004073,24 Mar 19,7,Kooyong 2,BLTC 1,No. 2,Michael Kantanis,Lauren Malby-Luke,Michael Kantanis,6-0,6,0,1,0,Completed,true,false,false
+UA004073,24 Mar 19,7,Kooyong 2,BLTC 1,No. 3,Leo Morrison,Jamie Turner,Jamie Turner,0-6,0,6,0,1,Completed,true,false,false
+UA004073,24 Mar 19,7,Kooyong 2,BLTC 1,No. 4,Annabel Sweetnam,Xavier Carter,Annabel Sweetnam,6-1,6,1,1,0,Completed,true,false,false
+UA004074,24 Mar 19,7,BLTC 2,Maccabi,No. 1,Olivia Moir,Charlie Landau,Olivia Moir,6-1,6,1,1,0,Completed,true,false,false
+UA004074,24 Mar 19,7,BLTC 2,Maccabi,No. 2,Sophie Christie,Jay Landau,Sophie Christie,6-2,6,2,1,0,Completed,true,false,false
+UA004074,24 Mar 19,7,BLTC 2,Maccabi,No. 3,Indiana Marostica,Lachie Zuker,Lachie Zuker,0-6,0,6,0,1,Completed,true,false,false
+UA004074,24 Mar 19,7,BLTC 2,Maccabi,No. 4,Lachlan Christie,Nathan Needleman,Nathan Needleman,4-6,4,6,0,1,Completed,true,false,false
+UA004081,31 Mar 19,8,Maccabi,Kings Park,No. 1,Charlie Landau,Korben Brough,Korben Brough,3-6,3,6,0,1,Completed,true,false,false
+UA004081,31 Mar 19,8,Maccabi,Kings Park,No. 2,Jay Landau,Sam Fritzlaff,Jay Landau,6-3,6,3,1,0,Completed,true,false,false
+UA004081,31 Mar 19,8,Maccabi,Kings Park,No. 3,Nathan Needleman,Joni Deriboklou,Joni Deriboklou,6-7,6,7,0,1,Completed,true,false,false
+UA004081,31 Mar 19,8,Maccabi,Kings Park,No. 4,Alex Dang,Joanna Lee,Alex Dang,7-6,7,6,1,0,Completed,true,false,false
+UA004082,31 Mar 19,8,BLTC 1,Royal Ave,No. 1,Patrick Millar,Thomas Antonis,Patrick Millar,6-0,6,0,1,0,Completed,true,false,false
+UA004082,31 Mar 19,8,BLTC 1,Royal Ave,No. 2,Lauren Malby-Luke,Patrick Gu,Lauren Malby-Luke,6-0,6,0,1,0,Completed,true,false,false
+UA004082,31 Mar 19,8,BLTC 1,Royal Ave,No. 3,Jamie Turner,Nick Bolmat,Jamie Turner,6-1,6,1,1,0,Completed,true,false,false
+UA004082,31 Mar 19,8,BLTC 1,Royal Ave,No. 4,Xavier Carter,Louis McNabney-Stevens,Louis McNabney-Stevens,4-6,4,6,0,1,Completed,true,false,false
+UA004083,31 Mar 19,8,BLTC 2,Elsternwick Park,No. 1,Hayden Heng,Sasha Milentijevic-Vague,Sasha Milentijevic-Vague,2-6,2,6,0,1,Completed,true,false,false
+UA004083,31 Mar 19,8,BLTC 2,Elsternwick Park,No. 2,Olivia Moir,Raphael Schwalb,Olivia Moir,6-3,6,3,1,0,Completed,true,false,false
+UA004083,31 Mar 19,8,BLTC 2,Elsternwick Park,No. 3,Sophie Christie,Gil Kras,Gil Kras,1-6,1,6,0,1,Completed,true,false,false
+UA004083,31 Mar 19,8,BLTC 2,Elsternwick Park,No. 4,Indiana Marostica,Oscar Wynan,Oscar Wynan,2-6,2,6,0,1,Completed,true,false,false
+UA004084,31 Mar 19,8,Kooyong 2,Kooyong 1,No. 1,Angus Jones,Lachlan Main,Lachlan Main,4-6,4,6,0,1,Completed,true,false,false
+UA004084,31 Mar 19,8,Kooyong 2,Kooyong 1,No. 2,Lachlan Tingate,Max Macciolli,Max Macciolli,1-6,1,6,0,1,Completed,true,false,false
+UA004084,31 Mar 19,8,Kooyong 2,Kooyong 1,No. 3,Carrie Shi,Aydan Kumar,Carrie Shi,7-5,7,5,1,0,Completed,true,false,false
+UA004084,31 Mar 19,8,Kooyong 2,Kooyong 1,No. 4,Leo Morrison,Sophie Siddons,Sophie Siddons,1-6,1,6,0,1,Completed,true,false,false
+UA004091,28 Apr 19,9,Kings Park,Kooyong 2,No. 1,Korben Brough,Koharu Nishikawa,Koharu Nishikawa,1-6,1,6,0,1,Completed,true,false,false
+UA004091,28 Apr 19,9,Kings Park,Kooyong 2,No. 2,Sam Fritzlaff,Lachlan Tingate,Sam Fritzlaff,6-4,6,4,1,0,Completed,true,false,false
+UA004091,28 Apr 19,9,Kings Park,Kooyong 2,No. 3,Joanna Lee,Carrie Shi,Carrie Shi,1-6,1,6,0,1,Completed,true,false,false
+UA004091,28 Apr 19,9,Kings Park,Kooyong 2,No. 4,Chloe Eden,Annabel Sweetnam,Annabel Sweetnam,1-6,1,6,0,1,Completed,true,false,false
+UA004092,28 Apr 19,9,Royal Ave,Maccabi,No. 1,Tommy Sullivan-Dunne,Charlie Landau,Tommy Sullivan-Dunne,6-4,6,4,1,0,Completed,true,false,false
+UA004092,28 Apr 19,9,Royal Ave,Maccabi,No. 2,Presley Evans,Jay Landau,Presley Evans,6-0,6,0,1,0,Completed,true,false,false
+UA004092,28 Apr 19,9,Royal Ave,Maccabi,No. 3,Patrick Gu,Lachie Zuker,Lachie Zuker,2-6,2,6,0,1,Completed,true,false,false
+UA004092,28 Apr 19,9,Royal Ave,Maccabi,No. 4,Nick Bolmat,Alex Dang,Alex Dang,4-6,4,6,0,1,Completed,true,false,false
+UA004093,28 Apr 19,9,Elsternwick Park,BLTC 1,No. 1,Sasha Milentijevic-Vague,Patrick Millar,Sasha Milentijevic-Vague,6-0,6,0,1,0,Completed,true,false,false
+UA004093,28 Apr 19,9,Elsternwick Park,BLTC 1,No. 2,Raphael Schwalb,Adam Marrow,Raphael Schwalb,6-1,6,1,1,0,Completed,true,false,false
+UA004093,28 Apr 19,9,Elsternwick Park,BLTC 1,No. 3,Nicole Bennett,Lauren Malby-Luke,Nicole Bennett,6-3,6,3,1,0,Completed,true,false,false
+UA004093,28 Apr 19,9,Elsternwick Park,BLTC 1,No. 4,Gil Kras,Xavier Carter,Xavier Carter,0-6,0,6,0,1,Completed,true,false,false
+UA004094,28 Apr 19,9,Kooyong 1,BLTC 2,No. 1,Dustin Feldman,Olivia Moir,Olivia Moir,1-6,1,6,0,1,Completed,true,false,false
+UA004094,28 Apr 19,9,Kooyong 1,BLTC 2,No. 2,Jack Lennon,Sophie Christie,Sophie Christie,2-6,2,6,0,1,Completed,true,false,false
+UA004094,28 Apr 19,9,Kooyong 1,BLTC 2,No. 3,Aydan Kumar,Lachlan Christie,Lachlan Christie,0-6,0,6,0,1,Completed,true,false,false
+UA004094,28 Apr 19,9,Kooyong 1,BLTC 2,No. 4,[Unnamed player — TROLS UA004094 home code 4],Daniel Brown,Daniel Brown,0-6,0,6,0,1,Completed,false,false,false
+UA004101,05 May 19,10,BLTC 2,Kings Park,No. 1,[Unnamed player — TROLS UA004101 home code 1],Korben Brough,Korben Brough,0-6,0,6,0,1,Completed,false,false,false
+UA004101,05 May 19,10,BLTC 2,Kings Park,No. 2,Olivia Moir,Sam Fritzlaff,Olivia Moir,6-1,6,1,1,0,Completed,true,false,false
+UA004101,05 May 19,10,BLTC 2,Kings Park,No. 3,Sophie Christie,Joni Deriboklou,Sophie Christie,6-4,6,4,1,0,Completed,true,false,false
+UA004101,05 May 19,10,BLTC 2,Kings Park,No. 4,Lachlan Christie,Ewan Cumming,Lachlan Christie,6-4,6,4,1,0,Completed,true,false,false
+UA004102,05 May 19,10,Kooyong 2,Royal Ave,No. 1,Koharu Nishikawa,Tommy Sullivan-Dunne,Koharu Nishikawa,6-1,6,1,1,0,Completed,true,false,false
+UA004102,05 May 19,10,Kooyong 2,Royal Ave,No. 2,Lachlan Tingate,Patrick Gu,Lachlan Tingate,6-0,6,0,1,0,Completed,true,false,false
+UA004102,05 May 19,10,Kooyong 2,Royal Ave,No. 3,Leo Morrison,Nick Bolmat,Nick Bolmat,2-6,2,6,0,1,Completed,true,false,false
+UA004102,05 May 19,10,Kooyong 2,Royal Ave,No. 4,Annabel Sweetnam,Louis McNabney-Stevens,Annabel Sweetnam,6-2,6,2,1,0,Completed,true,false,false
+UA004103,05 May 19,10,Maccabi,Elsternwick Park,No. 1,Charlie Landau,Sasha Milentijevic-Vague,Sasha Milentijevic-Vague,0-6,0,6,0,1,Completed,true,false,false
+UA004103,05 May 19,10,Maccabi,Elsternwick Park,No. 2,Jay Landau,Gil Kras,Gil Kras,2-6,2,6,0,1,Completed,true,false,false
+UA004103,05 May 19,10,Maccabi,Elsternwick Park,No. 3,Lachie Zuker,Nicole Bennett,Lachie Zuker,7-5,7,5,1,0,Completed,true,false,false
+UA004103,05 May 19,10,Maccabi,Elsternwick Park,No. 4,Nathan Needleman,Oscar Wynan,Nathan Needleman,6-4,6,4,1,0,Completed,true,false,false
+UA004104,05 May 19,10,BLTC 1,Kooyong 1,No. 1,Patrick Millar,Dustin Feldman,Patrick Millar,6-2,6,2,1,0,Completed,true,false,false
+UA004104,05 May 19,10,BLTC 1,Kooyong 1,No. 2,Lauren Malby-Luke,Lachlan Main,Lachlan Main,3-6,3,6,0,1,Completed,true,false,false
+UA004104,05 May 19,10,BLTC 1,Kooyong 1,No. 3,Jamie Turner,Spencer Hunter,Jamie Turner,6-0,6,0,1,0,Completed,true,false,false
+UA004104,05 May 19,10,BLTC 1,Kooyong 1,No. 4,Xavier Carter,Aydan Kumar,Aydan Kumar,2-6,2,6,0,1,Completed,true,false,false
+UA004111,12 May 19,11,Kings Park,BLTC 1,No. 1,Korben Brough,Patrick Millar,Patrick Millar,1-6,1,6,0,1,Completed,true,false,false
+UA004111,12 May 19,11,Kings Park,BLTC 1,No. 2,Sam Fritzlaff,Lauren Malby-Luke,Sam Fritzlaff,6-2,6,2,1,0,Completed,true,false,false
+UA004111,12 May 19,11,Kings Park,BLTC 1,No. 3,Joni Deriboklou,Jamie Turner,Joni Deriboklou,6-2,6,2,1,0,Completed,true,false,false
+UA004111,12 May 19,11,Kings Park,BLTC 1,No. 4,Chloe Eden,Xavier Carter,Xavier Carter,3-6,3,6,0,1,Completed,true,false,false
+UA004112,12 May 19,11,Royal Ave,BLTC 2,No. 1,Tommy Sullivan-Dunne,Hayden Heng,Tommy Sullivan-Dunne,6-1,6,1,1,0,Completed,true,false,false
+UA004112,12 May 19,11,Royal Ave,BLTC 2,No. 2,Patrick Gu,Olivia Moir,Olivia Moir,0-6,0,6,0,1,Completed,true,false,false
+UA004112,12 May 19,11,Royal Ave,BLTC 2,No. 3,Louis McNabney-Stevens,Sophie Christie,Sophie Christie,3-6,3,6,0,1,Completed,true,false,false
+UA004112,12 May 19,11,Royal Ave,BLTC 2,No. 4,Jesse Hodge,Indiana Marostica,Indiana Marostica,3-6,3,6,0,1,Completed,true,false,false
+UA004113,12 May 19,11,Elsternwick Park,Kooyong 2,No. 1,Raphael Schwalb,Koharu Nishikawa,Koharu Nishikawa,4-6,4,6,0,1,Completed,true,false,false
+UA004113,12 May 19,11,Elsternwick Park,Kooyong 2,No. 2,Gil Kras,Lachlan Tingate,Gil Kras,6-4,6,4,1,0,Completed,true,false,false
+UA004113,12 May 19,11,Elsternwick Park,Kooyong 2,No. 3,Nicole Bennett,Carrie Shi,Nicole Bennett,6-2,6,2,1,0,Completed,true,false,false
+UA004113,12 May 19,11,Elsternwick Park,Kooyong 2,No. 4,Oscar Wynan,Annabel Sweetnam,Annabel Sweetnam,1-6,1,6,0,1,Completed,true,false,false
+UA004114,12 May 19,11,Kooyong 1,Maccabi,No. 1,Max Macciolli,Charlie Landau,Max Macciolli,6-4,6,4,1,0,Completed,true,false,false
+UA004114,12 May 19,11,Kooyong 1,Maccabi,No. 2,Lachlan Main,Lachie Zuker,Lachie Zuker,1-6,1,6,0,1,Completed,true,false,false
+UA004114,12 May 19,11,Kooyong 1,Maccabi,No. 3,Jack Lennon,Nathan Needleman,Nathan Needleman,5-7,5,7,0,1,Completed,true,false,false
+UA004114,12 May 19,11,Kooyong 1,Maccabi,No. 4,Aydan Kumar,Alex Dang,Aydan Kumar,6-4,6,4,1,0,Completed,true,false,false
+UA004121,19 May 19,12,Kooyong 1,Elsternwick Park,No. 1,Dustin Feldman,Raphael Schwalb,Dustin Feldman,6-4,6,4,1,0,Completed,true,false,false
+UA004121,19 May 19,12,Kooyong 1,Elsternwick Park,No. 2,Lachlan Main,Gil Kras,Gil Kras,4-6,4,6,0,1,Completed,true,false,false
+UA004121,19 May 19,12,Kooyong 1,Elsternwick Park,No. 3,Jack Lennon,Nicole Bennett,Nicole Bennett,0-6,0,6,0,1,Completed,true,false,false
+UA004121,19 May 19,12,Kooyong 1,Elsternwick Park,No. 4,Sophie Siddons,Joe Barr,Sophie Siddons,6-3,6,3,1,0,Completed,true,false,false
+UA004122,19 May 19,12,BLTC 2,Kooyong 2,No. 1,Hayden Heng,Koharu Nishikawa,Koharu Nishikawa,1-6,1,6,0,1,Completed,true,false,false
+UA004122,19 May 19,12,BLTC 2,Kooyong 2,No. 2,Olivia Moir,Lachlan Tingate,Olivia Moir,6-3,6,3,1,0,Completed,true,false,false
+UA004122,19 May 19,12,BLTC 2,Kooyong 2,No. 3,India Illingworth,Carrie Shi,Carrie Shi,2-6,2,6,0,1,Completed,true,false,false
+UA004122,19 May 19,12,BLTC 2,Kooyong 2,No. 4,Indiana Marostica,Annabel Sweetnam,Annabel Sweetnam,0-6,0,6,0,1,Completed,true,false,false
+UA004123,19 May 19,12,Maccabi,BLTC 1,No. 1,Jay Landau,Adam Marrow,Jay Landau,7-6,7,6,1,0,Completed,true,false,false
+UA004123,19 May 19,12,Maccabi,BLTC 1,No. 2,Lachie Zuker,Lauren Malby-Luke,Lachie Zuker,7-6,7,6,1,0,Completed,true,false,false
+UA004123,19 May 19,12,Maccabi,BLTC 1,No. 3,Nathan Needleman,Jamie Turner,Nathan Needleman,6-2,6,2,1,0,Completed,true,false,false
+UA004123,19 May 19,12,Maccabi,BLTC 1,No. 4,Alex Dang,Xavier Carter,Alex Dang,6-3,6,3,1,0,Completed,true,false,false
+UA004124,19 May 19,12,Royal Ave,Kings Park,No. 1,Tommy Sullivan-Dunne,Korben Brough,Korben Brough,2-6,2,6,0,1,Completed,true,false,false
+UA004124,19 May 19,12,Royal Ave,Kings Park,No. 2,Patrick Gu,Sam Fritzlaff,Patrick Gu,6-4,6,4,1,0,Completed,true,false,false
+UA004124,19 May 19,12,Royal Ave,Kings Park,No. 3,Nick Bolmat,Joanna Lee,Nick Bolmat,6-3,6,3,1,0,Completed,true,false,false
+UA004124,19 May 19,12,Royal Ave,Kings Park,No. 4,Jesse Hodge,Chloe Eden,Chloe Eden,2-6,2,6,0,1,Completed,true,false,false
+UA004131,26 May 19,13,Elsternwick Park,Royal Ave,No. 1,Raphael Schwalb,Tommy Sullivan-Dunne,Raphael Schwalb,6-2,6,2,1,0,Completed,true,false,false
+UA004131,26 May 19,13,Elsternwick Park,Royal Ave,No. 2,Gil Kras,Nick Bolmat,Gil Kras,6-2,6,2,1,0,Completed,true,false,false
+UA004131,26 May 19,13,Elsternwick Park,Royal Ave,No. 3,Nicole Bennett,Louis McNabney-Stevens,Nicole Bennett,6-1,6,1,1,0,Completed,true,false,false
+UA004131,26 May 19,13,Elsternwick Park,Royal Ave,No. 4,Lucas Womersley,Isabel Dureau,Lucas Womersley,6-2,6,2,1,0,Completed,true,false,false
+UA004132,26 May 19,13,Kings Park,Kooyong 1,No. 1,Korben Brough,Dustin Feldman,Korben Brough,6-2,6,2,1,0,Completed,true,false,false
+UA004132,26 May 19,13,Kings Park,Kooyong 1,No. 2,Joni Deriboklou,Jack Lennon,Joni Deriboklou,6-3,6,3,1,0,Completed,true,false,false
+UA004132,26 May 19,13,Kings Park,Kooyong 1,No. 3,Joanna Lee,Aydan Kumar,Joanna Lee,7-5,7,5,1,0,Completed,true,false,false
+UA004132,26 May 19,13,Kings Park,Kooyong 1,No. 4,Chloe Eden,Sophie Siddons,Chloe Eden,6-2,6,2,1,0,Completed,true,false,false
+UA004133,26 May 19,13,BLTC 1,BLTC 2,No. 1,Patrick Millar,Hayden Heng,Hayden Heng,4-6,4,6,0,1,Completed,true,false,false
+UA004133,26 May 19,13,BLTC 1,BLTC 2,No. 2,Lauren Malby-Luke,Olivia Moir,Olivia Moir,2-6,2,6,0,1,Completed,true,false,false
+UA004133,26 May 19,13,BLTC 1,BLTC 2,No. 3,Jamie Turner,Sophie Christie,Sophie Christie,3-6,3,6,0,1,Completed,true,false,false
+UA004133,26 May 19,13,BLTC 1,BLTC 2,No. 4,Xavier Carter,Lachlan Christie,Lachlan Christie,4-6,4,6,0,1,Completed,true,false,false
+UA004134,26 May 19,13,Kooyong 2,Maccabi,No. 1,Koharu Nishikawa,Charlie Landau,Koharu Nishikawa,6-0,6,0,1,0,Completed,true,false,false
+UA004134,26 May 19,13,Kooyong 2,Maccabi,No. 2,Lachlan Tingate,Jay Landau,Jay Landau,3-6,3,6,0,1,Completed,true,false,false
+UA004134,26 May 19,13,Kooyong 2,Maccabi,No. 3,Carrie Shi,Lachie Zuker,Lachie Zuker,1-6,1,6,0,1,Completed,true,false,false
+UA004134,26 May 19,13,Kooyong 2,Maccabi,No. 4,Annabel Sweetnam,Nathan Needleman,Annabel Sweetnam,7-6,7,6,1,0,Completed,true,false,false
+UA004141,02 Jun 19,14,Elsternwick Park,Kings Park,No. 1,Raphael Schwalb,Korben Brough,Raphael Schwalb,6-3,6,3,1,0,Completed,true,false,false
+UA004141,02 Jun 19,14,Elsternwick Park,Kings Park,No. 2,Gil Kras,Sam Fritzlaff,Gil Kras,6-3,6,3,1,0,Completed,true,false,false
+UA004141,02 Jun 19,14,Elsternwick Park,Kings Park,No. 3,Nicole Bennett,Joni Deriboklou,Joni Deriboklou,3-6,3,6,0,1,Completed,true,false,false
+UA004141,02 Jun 19,14,Elsternwick Park,Kings Park,No. 4,Lucas Womersley,Joanna Lee,Joanna Lee,0-6,0,6,0,1,Completed,true,false,false
+UA004142,02 Jun 19,14,Kooyong 1,Royal Ave,No. 1,Dustin Feldman,Tommy Sullivan-Dunne,Dustin Feldman,6-0,6,0,1,0,Completed,true,false,false
+UA004142,02 Jun 19,14,Kooyong 1,Royal Ave,No. 2,Lachlan Main,Patrick Gu,Lachlan Main,6-3,6,3,1,0,Completed,true,false,false
+UA004142,02 Jun 19,14,Kooyong 1,Royal Ave,No. 3,Jack Lennon,Nick Bolmat,Nick Bolmat,4-6,4,6,0,1,Completed,true,false,false
+UA004142,02 Jun 19,14,Kooyong 1,Royal Ave,No. 4,Spencer Hunter,Louis McNabney-Stevens,Spencer Hunter,6-2,6,2,1,0,Completed,true,false,false
+UA004143,02 Jun 19,14,BLTC 1,Kooyong 2,No. 1,Patrick Millar,Koharu Nishikawa,Koharu Nishikawa,0-6,0,6,0,1,Completed,true,false,false
+UA004143,02 Jun 19,14,BLTC 1,Kooyong 2,No. 2,Adam Marrow,Michael Kantanis,Michael Kantanis,2-6,2,6,0,1,Completed,true,false,false
+UA004143,02 Jun 19,14,BLTC 1,Kooyong 2,No. 3,Lauren Malby-Luke,Lachlan Tingate,Lauren Malby-Luke,6-0,6,0,1,0,Completed,true,false,false
+UA004143,02 Jun 19,14,BLTC 1,Kooyong 2,No. 4,Xavier Carter,Annabel Sweetnam,Annabel Sweetnam,1-6,1,6,0,1,Completed,true,false,false
+UA004144,02 Jun 19,14,Maccabi,BLTC 2,No. 1,Charlie Landau,Hayden Heng,Hayden Heng,1-6,1,6,0,1,Completed,true,false,false
+UA004144,02 Jun 19,14,Maccabi,BLTC 2,No. 2,Jay Landau,Sophie Christie,Sophie Christie,4-6,4,6,0,1,Completed,true,false,false
+UA004144,02 Jun 19,14,Maccabi,BLTC 2,No. 3,Lachie Zuker,Lachlan Christie,Lachie Zuker,6-1,6,1,1,0,Completed,true,false,false
+UA004144,02 Jun 19,14,Maccabi,BLTC 2,No. 4,Nathan Needleman,Daniel Brown,Nathan Needleman,6-0,6,0,1,0,Completed,true,false,false
+UA004301,,16,Elsternwick Park,Kings Park,No. 1,Raphael Schwalb,Sam Fritzlaff,Sam Fritzlaff,4-6,4,6,0,1,Completed,true,false,false
+UA004301,,16,Elsternwick Park,Kings Park,No. 2,Gil Kras,Joni Deriboklou,Joni Deriboklou,6-7,6,7,0,1,Completed,true,false,false
+UA004301,,16,Elsternwick Park,Kings Park,No. 3,Nicole Bennett,Joanna Lee,Nicole Bennett,6-2,6,2,1,0,Completed,true,false,false
+UA004301,,16,Elsternwick Park,Kings Park,No. 4,Oscar Wynan,Chloe Eden,Oscar Wynan,6-3,6,3,1,0,Completed,true,false,false
+UA004302,,16,Kooyong 2,BLTC 2,No. 1,Koharu Nishikawa,Hayden Heng,Koharu Nishikawa,6-3,6,3,1,0,Completed,true,false,false
+UA004302,,16,Kooyong 2,BLTC 2,No. 2,Michael Kantanis,Olivia Moir,Olivia Moir,4-6,4,6,0,1,Completed,true,false,false
+UA004302,,16,Kooyong 2,BLTC 2,No. 3,Lachlan Tingate,Sophie Christie,Sophie Christie,0-6,0,6,0,1,Completed,true,false,false
+UA004302,,16,Kooyong 2,BLTC 2,No. 4,Annabel Sweetnam,Lachlan Christie,Annabel Sweetnam,6-2,6,2,1,0,Completed,true,false,false
+UA004321,,17,Elsternwick Park,BLTC 2,No. 1,Raphael Schwalb,Hayden Heng,Hayden Heng,1-6,1,6,0,1,Completed,true,false,false
+UA004321,,17,Elsternwick Park,BLTC 2,No. 2,Gil Kras,Sophie Christie,Sophie Christie,4-6,4,6,0,1,Completed,true,false,false
+UA004321,,17,Elsternwick Park,BLTC 2,No. 3,Nicole Bennett,Lachlan Christie,Nicole Bennett,6-3,6,3,1,0,Completed,true,false,false
+UA004321,,17,Elsternwick Park,BLTC 2,No. 4,Oscar Wynan,Daniel Brown,Daniel Brown,6-7,6,7,0,1,Completed,true,false,false

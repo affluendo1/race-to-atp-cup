@@ -1,0 +1,67 @@
+{
+  "asset_id": "AA51-AA002",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Spring 2021",
+  "season_id": "AA51",
+  "season_label": "Spring 2021",
+  "source_section_code": "AA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Port Melbourne GoldS1",
+      "wins": 0,
+      "points": 0,
+      "percentage": 0.0,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Kooyong",
+      "wins": 0,
+      "points": 0,
+      "percentage": 0.0,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Carmelite Green",
+      "wins": 0,
+      "points": 0,
+      "percentage": 0.0,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Carmelite Blue",
+      "wins": 0,
+      "points": 0,
+      "percentage": 0.0,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Carmelite Red",
+      "wins": 0,
+      "points": 0,
+      "percentage": 0.0,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA51-AA002",
+  "fixtures": 0,
+  "completed_fixtures": 0,
+  "draw_fixtures": 42,
+  "singles_rubbers": 0,
+  "doubles_rubbers": 0,
+  "latest_round": 0,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

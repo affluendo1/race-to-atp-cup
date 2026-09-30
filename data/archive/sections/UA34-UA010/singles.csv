@@ -1,0 +1,233 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA010011,04 Feb 24,1,Parkdale,BLTC Blue,No. 1,Ben White,Audrey James,Audrey James,4-6,4,6,0,1,Completed,true,false,false
+UA010011,04 Feb 24,1,Parkdale,BLTC Blue,No. 2,Ilinca Di Suciu,Mali Nayna,Mali Nayna,0-6,0,6,0,1,Completed,true,false,false
+UA010011,04 Feb 24,1,Parkdale,BLTC Blue,No. 3,Flynn Hodgkinson,Zara Measures,Zara Measures,3-6,3,6,0,1,Completed,true,false,false
+UA010011,04 Feb 24,1,Parkdale,BLTC Blue,No. 4,William Wang,Amelia Quintana,Amelia Quintana,3-6,3,6,0,1,Completed,true,false,false
+UA010012,04 Feb 24,1,GPHC,Black Rock,No. 1,Jeremy Wong,Andrew Martin,Andrew Martin,2-6,2,6,0,1,Completed,true,false,false
+UA010012,04 Feb 24,1,GPHC,Black Rock,No. 2,Eli Jeffreys,Natalie Dureau,Eli Jeffreys,6-0,6,0,1,0,Completed,true,false,false
+UA010012,04 Feb 24,1,GPHC,Black Rock,No. 3,Arata Tanaka,Joseph Desmond,Joseph Desmond,3-6,3,6,0,1,Completed,true,false,false
+UA010012,04 Feb 24,1,GPHC,Black Rock,No. 4,Kai Maynard,Luke Desmond,Luke Desmond,3-6,3,6,0,1,Completed,true,false,false
+UA010013,04 Feb 24,1,St James Green,Coatesville,No. 1,Mali Davies,Ethan Nemenman,Ethan Nemenman,3-6,3,6,0,1,Completed,true,false,false
+UA010013,04 Feb 24,1,St James Green,Coatesville,No. 2,Sophie Stewart,Faris Buturovic,Sophie Stewart,7-5,7,5,1,0,Completed,true,false,false
+UA010013,04 Feb 24,1,St James Green,Coatesville,No. 3,Jonah Davies,Jack Tan,Jonah Davies,6-1,6,1,1,0,Completed,true,false,false
+UA010013,04 Feb 24,1,St James Green,Coatesville,No. 4,Tilly Chesnau,Hugo Szynkowski,Hugo Szynkowski,2-6,2,6,0,1,Completed,true,false,false
+UA010014,04 Feb 24,1,Murrumbeena,Kooyong,No. 1,Soham Gunjal,Adriano D'Angelo,Adriano D'Angelo,3-6,3,6,0,1,Completed,true,false,false
+UA010014,04 Feb 24,1,Murrumbeena,Kooyong,No. 2,Min Cheng (duncan) Hung,Alexander Anderson,Min Cheng (duncan) Hung,6-1,6,1,1,0,Completed,true,false,false
+UA010014,04 Feb 24,1,Murrumbeena,Kooyong,No. 3,Eric Tran,George Stevens,George Stevens,4-6,4,6,0,1,Completed,true,false,false
+UA010014,04 Feb 24,1,Murrumbeena,Kooyong,No. 4,Max Chang,Oliver Dennis,Max Chang,6-4,6,4,1,0,Completed,true,true,true
+UA010021,11 Feb 24,2,Kooyong,Parkdale,No. 1,Adriano D'Angelo,Ben White,Adriano D'Angelo,6-2,6,2,1,0,Completed,true,false,false
+UA010021,11 Feb 24,2,Kooyong,Parkdale,No. 2,George Stevens,Ilinca Di Suciu,George Stevens,6-4,6,4,1,0,Completed,true,false,false
+UA010021,11 Feb 24,2,Kooyong,Parkdale,No. 3,Oliver Dennis,Flynn Hodgkinson,Flynn Hodgkinson,2-6,2,6,0,1,Completed,true,true,false
+UA010021,11 Feb 24,2,Kooyong,Parkdale,No. 4,William Stevens,Matthew Lan,William Stevens,7-5,7,5,1,0,Completed,true,true,true
+UA010022,11 Feb 24,2,BLTC Blue,GPHC,No. 1,Mali Nayna,Jeremy Wong,Mali Nayna,6-2,6,2,1,0,Completed,true,false,false
+UA010022,11 Feb 24,2,BLTC Blue,GPHC,No. 2,Zara Measures,Eli Jeffreys,Zara Measures,6-2,6,2,1,0,Completed,true,false,false
+UA010022,11 Feb 24,2,BLTC Blue,GPHC,No. 3,Amelia Quintana,Arata Tanaka,Amelia Quintana,6-3,6,3,1,0,Completed,true,false,false
+UA010022,11 Feb 24,2,BLTC Blue,GPHC,No. 4,Sara Catala Prieto,Joseph Karalapillai,Joseph Karalapillai,1-6,1,6,0,1,Completed,true,false,false
+UA010023,11 Feb 24,2,Black Rock,St James Green,No. 1,Andrew Martin,Emma Stewart,Andrew Martin,7-6,7,6,1,0,Completed,true,false,false
+UA010023,11 Feb 24,2,Black Rock,St James Green,No. 2,Natalie Dureau,Mali Davies,Mali Davies,3-6,3,6,0,1,Completed,true,false,false
+UA010023,11 Feb 24,2,Black Rock,St James Green,No. 3,Joseph Desmond,Jonah Davies,Joseph Desmond,6-4,6,4,1,0,Completed,true,false,false
+UA010023,11 Feb 24,2,Black Rock,St James Green,No. 4,Malek Marouff,Tilly Chesnau,Malek Marouff,6-0,6,0,1,0,Completed,true,false,false
+UA010024,11 Feb 24,2,Coatesville,Murrumbeena,No. 1,Georgi Demosthenous,Soham Gunjal,Georgi Demosthenous,7-5,7,5,1,0,Completed,true,false,false
+UA010024,11 Feb 24,2,Coatesville,Murrumbeena,No. 2,Ethan Nemenman,Min Cheng (duncan) Hung,Ethan Nemenman,7-5,7,5,1,0,Completed,true,false,false
+UA010024,11 Feb 24,2,Coatesville,Murrumbeena,No. 3,Faris Buturovic,Eric Tran,Faris Buturovic,6-4,6,4,1,0,Completed,true,false,false
+UA010024,11 Feb 24,2,Coatesville,Murrumbeena,No. 4,Jack Tan,Lillia Givargis,Jack Tan,6-2,6,2,1,0,Completed,true,false,false
+UA010031,18 Feb 24,3,Parkdale,Coatesville,No. 1,Ilinca Di Suciu,Georgi Demosthenous,Georgi Demosthenous,5-7,5,7,0,1,Completed,true,false,false
+UA010031,18 Feb 24,3,Parkdale,Coatesville,No. 2,William Wang,Faris Buturovic,William Wang,6-3,6,3,1,0,Completed,true,false,false
+UA010031,18 Feb 24,3,Parkdale,Coatesville,No. 3,Matthew Lan,Jack Tan,Jack Tan,0-6,0,6,0,1,Completed,true,true,false
+UA010031,18 Feb 24,3,Parkdale,Coatesville,No. 4,Calvin George,Hugo Szynkowski,Hugo Szynkowski,4-6,4,6,0,1,Completed,true,true,false
+UA010032,18 Feb 24,3,GPHC,Kooyong,No. 1,Eli Jeffreys,Adriano D'Angelo,Adriano D'Angelo,5-7,5,7,0,1,Completed,true,false,false
+UA010032,18 Feb 24,3,GPHC,Kooyong,No. 2,Arata Tanaka,Pia Stewart,Arata Tanaka,6-4,6,4,1,0,Completed,true,false,false
+UA010032,18 Feb 24,3,GPHC,Kooyong,No. 3,Joseph Karalapillai,Oliver Dennis,Joseph Karalapillai,7-5,7,5,1,0,Completed,true,false,true
+UA010032,18 Feb 24,3,GPHC,Kooyong,No. 4,Kai Maynard,Theo Edelstein,Kai Maynard,6-4,6,4,1,0,Completed,true,false,true
+UA010033,18 Feb 24,3,St James Green,BLTC Blue,No. 1,Emma Stewart,Zara Measures,Emma Stewart,6-3,6,3,1,0,Completed,true,false,false
+UA010033,18 Feb 24,3,St James Green,BLTC Blue,No. 2,Mali Davies,Amelia Quintana,Amelia Quintana,1-6,1,6,0,1,Completed,true,false,false
+UA010033,18 Feb 24,3,St James Green,BLTC Blue,No. 3,Sophie Stewart,Maddie Ballantyne,Sophie Stewart,6-3,6,3,1,0,Completed,true,false,false
+UA010033,18 Feb 24,3,St James Green,BLTC Blue,No. 4,Jonah Davies,Sara Catala Prieto,Jonah Davies,6-0,6,0,1,0,Completed,true,false,false
+UA010034,18 Feb 24,3,Murrumbeena,Black Rock,No. 1,Soham Gunjal,Andrew Martin,Soham Gunjal,6-4,6,4,1,0,Completed,true,false,false
+UA010034,18 Feb 24,3,Murrumbeena,Black Rock,No. 2,Min Cheng (duncan) Hung,Joseph Desmond,Joseph Desmond,3-6,3,6,0,1,Completed,true,false,false
+UA010034,18 Feb 24,3,Murrumbeena,Black Rock,No. 3,Eric Tran,Luke Desmond,Luke Desmond,0-6,0,6,0,1,Completed,true,false,false
+UA010034,18 Feb 24,3,Murrumbeena,Black Rock,No. 4,Max Tanner,Malek Marouff,Malek Marouff,0-6,0,6,0,1,Completed,true,true,false
+UA010041,25 Feb 24,4,Black Rock,Parkdale,No. 1,Joseph Desmond,Ilinca Di Suciu,Joseph Desmond,6-2,6,2,1,0,Completed,true,false,false
+UA010041,25 Feb 24,4,Black Rock,Parkdale,No. 2,Luke Desmond,Flynn Hodgkinson,Luke Desmond,6-3,6,3,1,0,Completed,true,false,false
+UA010041,25 Feb 24,4,Black Rock,Parkdale,No. 3,Malek Marouff,William Wang,William Wang,6-7,6,7,0,1,Completed,true,false,false
+UA010041,25 Feb 24,4,Black Rock,Parkdale,No. 4,Christian Desmond,Matthew Lan,Christian Desmond,6-4,6,4,1,0,Completed,true,true,true
+UA010042,25 Feb 24,4,Coatesville,GPHC,No. 1,Georgi Demosthenous,Eli Jeffreys,Eli Jeffreys,3-6,3,6,0,1,Completed,true,false,false
+UA010042,25 Feb 24,4,Coatesville,GPHC,No. 2,Ethan Nemenman,Arata Tanaka,Arata Tanaka,4-6,4,6,0,1,Completed,true,false,false
+UA010042,25 Feb 24,4,Coatesville,GPHC,No. 3,Jack Tan,Joseph Karalapillai,Joseph Karalapillai,2-6,2,6,0,1,Completed,true,false,false
+UA010042,25 Feb 24,4,Coatesville,GPHC,No. 4,Hugo Szynkowski,Kai Maynard,Hugo Szynkowski,6-4,6,4,1,0,Completed,true,false,false
+UA010043,25 Feb 24,4,Kooyong,St James Green,No. 1,Adriano D'Angelo,Emma Stewart,Adriano D'Angelo,6-4,6,4,1,0,Completed,true,false,false
+UA010043,25 Feb 24,4,Kooyong,St James Green,No. 2,Alexander Anderson,Mali Davies,Mali Davies,5-7,5,7,0,1,Completed,true,false,false
+UA010043,25 Feb 24,4,Kooyong,St James Green,No. 3,Pia Stewart,Sophie Stewart,Pia Stewart,6-4,6,4,1,0,Completed,true,false,false
+UA010043,25 Feb 24,4,Kooyong,St James Green,No. 4,George Stevens,Jonah Davies,Jonah Davies,0-6,0,6,0,1,Completed,true,false,false
+UA010044,25 Feb 24,4,BLTC Blue,Murrumbeena,No. 1,Mali Nayna,Soham Gunjal,Mali Nayna,6-3,6,3,1,0,Completed,true,false,false
+UA010044,25 Feb 24,4,BLTC Blue,Murrumbeena,No. 2,Zara Measures,Min Cheng (duncan) Hung,Zara Measures,7-5,7,5,1,0,Completed,true,false,false
+UA010044,25 Feb 24,4,BLTC Blue,Murrumbeena,No. 3,Amelia Quintana,Eric Tran,Amelia Quintana,6-0,6,0,1,0,Completed,true,false,false
+UA010044,25 Feb 24,4,BLTC Blue,Murrumbeena,No. 4,Sara Catala Prieto,Lillia Givargis,Lillia Givargis,6-7,6,7,0,1,Completed,true,false,false
+UA010051,03 Mar 24,5,St James Green,Murrumbeena,No. 1,Emma Stewart,Soham Gunjal,Emma Stewart,6-0,6,0,1,0,Completed,true,false,false
+UA010051,03 Mar 24,5,St James Green,Murrumbeena,No. 2,Sophie Stewart,Min Cheng (duncan) Hung,Min Cheng (duncan) Hung,2-6,2,6,0,1,Completed,true,false,false
+UA010051,03 Mar 24,5,St James Green,Murrumbeena,No. 3,Jonah Davies,Eric Tran,Jonah Davies,6-0,6,0,1,0,Completed,true,false,false
+UA010051,03 Mar 24,5,St James Green,Murrumbeena,No. 4,Tilly Chesnau,Lillia Givargis,Tilly Chesnau,6-3,6,3,1,0,Completed,true,false,false
+UA010052,03 Mar 24,5,Kooyong,Coatesville,No. 1,Adriano D'Angelo,Georgi Demosthenous,Adriano D'Angelo,6-3,6,3,1,0,Completed,true,false,false
+UA010052,03 Mar 24,5,Kooyong,Coatesville,No. 2,Maximilian Lord,Ethan Nemenman,Maximilian Lord,6-4,6,4,1,0,Completed,true,false,false
+UA010052,03 Mar 24,5,Kooyong,Coatesville,No. 3,Pia Stewart,Faris Buturovic,Faris Buturovic,3-6,3,6,0,1,Completed,true,false,false
+UA010052,03 Mar 24,5,Kooyong,Coatesville,No. 4,George Stevens,Hugo Szynkowski,George Stevens,6-3,6,3,1,0,Completed,true,false,false
+UA010053,03 Mar 24,5,Black Rock,BLTC Blue,No. 1,Andrew Martin,Mali Nayna,Mali Nayna,6-7,6,7,0,1,Completed,true,false,false
+UA010053,03 Mar 24,5,Black Rock,BLTC Blue,No. 2,Natalie Dureau,Zara Measures,Natalie Dureau,6-2,6,2,1,0,Completed,true,false,false
+UA010053,03 Mar 24,5,Black Rock,BLTC Blue,No. 3,Joseph Desmond,Maddie Ballantyne,Joseph Desmond,6-0,6,0,1,0,Completed,true,false,false
+UA010053,03 Mar 24,5,Black Rock,BLTC Blue,No. 4,Malek Marouff,Sara Catala Prieto,Malek Marouff,6-0,6,0,1,0,Completed,true,false,false
+UA010054,03 Mar 24,5,Parkdale,GPHC,No. 1,Ilinca Di Suciu,Jeremy Wong,Jeremy Wong,2-6,2,6,0,1,Completed,true,false,false
+UA010054,03 Mar 24,5,Parkdale,GPHC,No. 2,Flynn Hodgkinson,Eli Jeffreys,Eli Jeffreys,4-6,4,6,0,1,Completed,true,false,false
+UA010054,03 Mar 24,5,Parkdale,GPHC,No. 3,William Wang,Arata Tanaka,William Wang,7-6,7,6,1,0,Completed,true,false,false
+UA010054,03 Mar 24,5,Parkdale,GPHC,No. 4,Matthew Lan,Joseph Karalapillai,Joseph Karalapillai,1-6,1,6,0,1,Completed,true,true,false
+UA010061,17 Mar 24,6,GPHC,St James Green,No. 1,Jeremy Wong,Emma Stewart,Emma Stewart,5-7,5,7,0,1,Completed,true,false,false
+UA010061,17 Mar 24,6,GPHC,St James Green,No. 2,Eli Jeffreys,Mali Davies,Mali Davies,4-6,4,6,0,1,Completed,true,false,false
+UA010061,17 Mar 24,6,GPHC,St James Green,No. 3,Arata Tanaka,Sophie Stewart,Sophie Stewart,3-6,3,6,0,1,Completed,true,false,false
+UA010061,17 Mar 24,6,GPHC,St James Green,No. 4,Joseph Karalapillai,Louis Virlombier,Louis Virlombier,0-6,0,6,0,1,Completed,true,false,false
+UA010062,17 Mar 24,6,Murrumbeena,Parkdale,No. 1,Soham Gunjal,Ben White,Soham Gunjal,6-4,6,4,1,0,Completed,true,false,false
+UA010062,17 Mar 24,6,Murrumbeena,Parkdale,No. 2,Min Cheng (duncan) Hung,Ilinca Di Suciu,Min Cheng (duncan) Hung,6-2,6,2,1,0,Completed,true,false,false
+UA010062,17 Mar 24,6,Murrumbeena,Parkdale,No. 3,Eric Tran,Flynn Hodgkinson,Flynn Hodgkinson,1-6,1,6,0,1,Completed,true,false,false
+UA010062,17 Mar 24,6,Murrumbeena,Parkdale,No. 4,Lillia Givargis,William Wang,William Wang,1-6,1,6,0,1,Completed,true,false,false
+UA010063,17 Mar 24,6,Coatesville,Black Rock,No. 1,Georgi Demosthenous,Andrew Martin,Georgi Demosthenous,6-1,6,1,1,0,Completed,true,false,false
+UA010063,17 Mar 24,6,Coatesville,Black Rock,No. 2,Ethan Nemenman,Natalie Dureau,Ethan Nemenman,6-3,6,3,1,0,Completed,true,false,false
+UA010063,17 Mar 24,6,Coatesville,Black Rock,No. 3,Faris Buturovic,Luke Desmond,Luke Desmond,2-6,2,6,0,1,Completed,true,false,false
+UA010063,17 Mar 24,6,Coatesville,Black Rock,No. 4,Jack Tan,Malek Marouff,Malek Marouff,3-6,3,6,0,1,Completed,true,false,false
+UA010064,17 Mar 24,6,BLTC Blue,Kooyong,No. 1,Audrey James,Adriano D'Angelo,Adriano D'Angelo,3-6,3,6,0,1,Completed,true,false,false
+UA010064,17 Mar 24,6,BLTC Blue,Kooyong,No. 2,Mali Nayna,Mia Peng,Mali Nayna,6-1,6,1,1,0,Completed,true,false,false
+UA010064,17 Mar 24,6,BLTC Blue,Kooyong,No. 3,Zara Measures,Maximilian Lord,Zara Measures,6-3,6,3,1,0,Completed,true,false,false
+UA010064,17 Mar 24,6,BLTC Blue,Kooyong,No. 4,Maddie Ballantyne,Pia Stewart,Pia Stewart,0-6,0,6,0,1,Completed,true,false,false
+UA010071,24 Mar 24,7,Parkdale,St James Green,No. 1,Ben White,Emma Stewart,Emma Stewart,0-6,0,6,0,1,Completed,true,false,false
+UA010071,24 Mar 24,7,Parkdale,St James Green,No. 2,Flynn Hodgkinson,Mali Davies,Mali Davies,4-6,4,6,0,1,Completed,true,false,false
+UA010071,24 Mar 24,7,Parkdale,St James Green,No. 3,William Wang,Sophie Stewart,William Wang,6-1,6,1,1,0,Completed,true,false,false
+UA010071,24 Mar 24,7,Parkdale,St James Green,No. 4,Matthew Lan,Louis Virlombier,Louis Virlombier,0-6,0,6,0,1,Completed,true,true,false
+UA010072,24 Mar 24,7,GPHC,Murrumbeena,No. 1,Jeremy Wong,Soham Gunjal,Jeremy Wong,6-2,6,2,1,0,Completed,true,false,false
+UA010072,24 Mar 24,7,GPHC,Murrumbeena,No. 2,Joseph Karalapillai,Min Cheng (duncan) Hung,Joseph Karalapillai,6-2,6,2,1,0,Completed,true,false,false
+UA010072,24 Mar 24,7,GPHC,Murrumbeena,No. 3,Kai Maynard,Lillia Givargis,Kai Maynard,7-5,7,5,1,0,Completed,true,false,false
+UA010072,24 Mar 24,7,GPHC,Murrumbeena,No. 4,Nicholas Myers,Janoah Gray-Taito,Janoah Gray-Taito,2-6,2,6,0,1,Completed,true,false,true
+UA010073,24 Mar 24,7,Kooyong,Black Rock,No. 1,Alexander Anderson,Andrew Martin,Alexander Anderson,7-5,7,5,1,0,Completed,true,false,false
+UA010073,24 Mar 24,7,Kooyong,Black Rock,No. 2,Maximilian Lord,Natalie Dureau,Maximilian Lord,7-6,7,6,1,0,Completed,true,false,false
+UA010073,24 Mar 24,7,Kooyong,Black Rock,No. 3,Pia Stewart,Joseph Desmond,Joseph Desmond,1-6,1,6,0,1,Completed,true,false,false
+UA010073,24 Mar 24,7,Kooyong,Black Rock,No. 4,George Stevens,Luke Desmond,Luke Desmond,0-6,0,6,0,1,Completed,true,false,false
+UA010074,24 Mar 24,7,Coatesville,BLTC Blue,No. 1,Ethan Nemenman,Zara Measures,Ethan Nemenman,6-1,6,1,1,0,Completed,true,false,false
+UA010074,24 Mar 24,7,Coatesville,BLTC Blue,No. 2,Faris Buturovic,Amelia Quintana,Amelia Quintana,5-7,5,7,0,1,Completed,true,false,false
+UA010074,24 Mar 24,7,Coatesville,BLTC Blue,No. 3,Jack Tan,Maddie Ballantyne,Jack Tan,6-1,6,1,1,0,Completed,true,false,false
+UA010074,24 Mar 24,7,Coatesville,BLTC Blue,No. 4,Hugo Szynkowski,Sara Catala Prieto,Hugo Szynkowski,6-3,6,3,1,0,Completed,true,false,false
+UA010081,21 Apr 24,8,BLTC Blue,Parkdale,No. 1,Audrey James,Ben White,Audrey James,6-3,6,3,1,0,Completed,true,false,false
+UA010081,21 Apr 24,8,BLTC Blue,Parkdale,No. 2,Zara Measures,Ilinca Di Suciu,Zara Measures,6-1,6,1,1,0,Completed,true,false,false
+UA010081,21 Apr 24,8,BLTC Blue,Parkdale,No. 3,Maddie Ballantyne,William Wang,William Wang,0-6,0,6,0,1,Completed,true,false,false
+UA010081,21 Apr 24,8,BLTC Blue,Parkdale,No. 4,Sara Catala Prieto,Rafe White,Rafe White,0-6,0,6,0,1,Completed,true,false,true
+UA010082,21 Apr 24,8,Black Rock,GPHC,No. 1,Andrew Martin,Jeremy Wong,Jeremy Wong,0-6,0,6,0,1,Completed,true,false,false
+UA010082,21 Apr 24,8,Black Rock,GPHC,No. 2,Natalie Dureau,Eli Jeffreys,Eli Jeffreys,2-6,2,6,0,1,Completed,true,false,false
+UA010082,21 Apr 24,8,Black Rock,GPHC,No. 3,Joseph Desmond,Arata Tanaka,Joseph Desmond,6-1,6,1,1,0,Completed,true,false,false
+UA010082,21 Apr 24,8,Black Rock,GPHC,No. 4,Malek Marouff,Kai Maynard,Malek Marouff,6-2,6,2,1,0,Completed,true,false,false
+UA010083,21 Apr 24,8,Coatesville,St James Green,No. 1,Georgi Demosthenous,Emma Stewart,Emma Stewart,2-6,2,6,0,1,Completed,true,false,false
+UA010083,21 Apr 24,8,Coatesville,St James Green,No. 2,Ethan Nemenman,Mali Davies,Mali Davies,4-6,4,6,0,1,Completed,true,false,false
+UA010083,21 Apr 24,8,Coatesville,St James Green,No. 3,Faris Buturovic,Sophie Stewart,Faris Buturovic,6-2,6,2,1,0,Completed,true,false,false
+UA010083,21 Apr 24,8,Coatesville,St James Green,No. 4,Jack Tan,Jonah Davies,Jonah Davies,0-6,0,6,0,1,Completed,true,false,false
+UA010084,21 Apr 24,8,Kooyong,Murrumbeena,No. 1,Alexander Anderson,Soham Gunjal,Alexander Anderson,6-3,6,3,1,0,Completed,true,false,false
+UA010084,21 Apr 24,8,Kooyong,Murrumbeena,No. 2,Maximilian Lord,Min Cheng (duncan) Hung,Maximilian Lord,6-4,6,4,1,0,Completed,true,false,false
+UA010084,21 Apr 24,8,Kooyong,Murrumbeena,No. 3,Pia Stewart,Lillia Givargis,Pia Stewart,6-3,6,3,1,0,Completed,true,false,false
+UA010084,21 Apr 24,8,Kooyong,Murrumbeena,No. 4,George Stevens,Janoah Gray-Taito,George Stevens,6-4,6,4,1,0,Completed,true,false,true
+UA010091,28 Apr 24,9,Parkdale,Kooyong,No. 1,Ben White,Adriano D'Angelo,Adriano D'Angelo,1-6,1,6,0,1,Completed,true,false,false
+UA010091,28 Apr 24,9,Parkdale,Kooyong,No. 2,Ilinca Di Suciu,Alexander Anderson,Alexander Anderson,2-6,2,6,0,1,Completed,true,false,false
+UA010091,28 Apr 24,9,Parkdale,Kooyong,No. 3,Flynn Hodgkinson,Pia Stewart,Flynn Hodgkinson,6-3,6,3,1,0,Completed,true,false,false
+UA010091,28 Apr 24,9,Parkdale,Kooyong,No. 4,William Wang,Mia Peng,William Wang,6-0,6,0,1,0,Completed,true,false,false
+UA010092,28 Apr 24,9,GPHC,BLTC Blue,No. 1,Jeremy Wong,Audrey James,Jeremy Wong,7-5,7,5,1,0,Completed,true,false,false
+UA010092,28 Apr 24,9,GPHC,BLTC Blue,No. 2,Eli Jeffreys,Mali Nayna,Eli Jeffreys,7-5,7,5,1,0,Completed,true,false,false
+UA010092,28 Apr 24,9,GPHC,BLTC Blue,No. 3,Arata Tanaka,Amelia Quintana,Amelia Quintana,0-6,0,6,0,1,Completed,true,false,false
+UA010092,28 Apr 24,9,GPHC,BLTC Blue,No. 4,Kai Maynard,Sara Catala Prieto,Kai Maynard,6-4,6,4,1,0,Completed,true,false,false
+UA010093,28 Apr 24,9,St James Green,Black Rock,No. 1,Emma Stewart,Andrew Martin,Emma Stewart,6-1,6,1,1,0,Completed,true,false,false
+UA010093,28 Apr 24,9,St James Green,Black Rock,No. 2,Sophie Stewart,Joseph Desmond,Sophie Stewart,6-4,6,4,1,0,Completed,true,false,false
+UA010093,28 Apr 24,9,St James Green,Black Rock,No. 3,Jonah Davies,Malek Marouff,Jonah Davies,6-4,6,4,1,0,Completed,true,false,false
+UA010093,28 Apr 24,9,St James Green,Black Rock,No. 4,Louis Virlombier,Natalie Dureau,Louis Virlombier,6-2,6,2,1,0,Completed,true,false,false
+UA010094,28 Apr 24,9,Murrumbeena,Coatesville,No. 1,Min Cheng (duncan) Hung,Georgi Demosthenous,Min Cheng (duncan) Hung,6-1,6,1,1,0,Completed,true,false,false
+UA010094,28 Apr 24,9,Murrumbeena,Coatesville,No. 2,Eric Tran,Faris Buturovic,Faris Buturovic,2-6,2,6,0,1,Completed,true,false,false
+UA010094,28 Apr 24,9,Murrumbeena,Coatesville,No. 3,Lillia Givargis,Jack Tan,Jack Tan,2-6,2,6,0,1,Completed,true,false,false
+UA010094,28 Apr 24,9,Murrumbeena,Coatesville,No. 4,Max Tanner,Martin Curnow,Martin Curnow,1-6,1,6,0,1,Completed,true,true,false
+UA010101,05 May 24,10,Coatesville,Parkdale,No. 1,Georgi Demosthenous,Ilinca Di Suciu,Georgi Demosthenous,6-1,6,1,1,0,Completed,true,false,false
+UA010101,05 May 24,10,Coatesville,Parkdale,No. 2,Ethan Nemenman,Flynn Hodgkinson,Ethan Nemenman,6-4,6,4,1,0,Completed,true,false,false
+UA010101,05 May 24,10,Coatesville,Parkdale,No. 3,Faris Buturovic,William Wang,William Wang,3-6,3,6,0,1,Completed,true,false,false
+UA010101,05 May 24,10,Coatesville,Parkdale,No. 4,Jack Tan,Matthew Lan,Jack Tan,6-1,6,1,1,0,Completed,true,false,true
+UA010102,05 May 24,10,Kooyong,GPHC,No. 1,Alexander Anderson,Jeremy Wong,Jeremy Wong,2-6,2,6,0,1,Completed,true,false,false
+UA010102,05 May 24,10,Kooyong,GPHC,No. 2,Maximilian Lord,Arata Tanaka,Arata Tanaka,3-6,3,6,0,1,Completed,true,false,false
+UA010102,05 May 24,10,Kooyong,GPHC,No. 3,Pia Stewart,Joseph Karalapillai,Joseph Karalapillai,4-6,4,6,0,1,Completed,true,false,false
+UA010102,05 May 24,10,Kooyong,GPHC,No. 4,George Stevens,Kai Maynard,George Stevens,6-2,6,2,1,0,Completed,true,false,false
+UA010103,05 May 24,10,BLTC Blue,St James Green,No. 1,Audrey James,Mali Davies,Audrey James,6-1,6,1,1,0,Completed,true,false,false
+UA010103,05 May 24,10,BLTC Blue,St James Green,No. 2,Mali Nayna,Jonah Davies,Mali Nayna,6-3,6,3,1,0,Completed,true,false,false
+UA010103,05 May 24,10,BLTC Blue,St James Green,No. 3,Amelia Quintana,Louis Virlombier,Louis Virlombier,5-7,5,7,0,1,Completed,true,false,false
+UA010103,05 May 24,10,BLTC Blue,St James Green,No. 4,Maddie Ballantyne,Tilly Chesnau,Maddie Ballantyne,6-3,6,3,1,0,Completed,true,false,false
+UA010104,05 May 24,10,Black Rock,Murrumbeena,No. 1,Andrew Martin,Soham Gunjal,Andrew Martin,7-5,7,5,1,0,Completed,true,false,false
+UA010104,05 May 24,10,Black Rock,Murrumbeena,No. 2,Joseph Desmond,Min Cheng (duncan) Hung,Min Cheng (duncan) Hung,2-6,2,6,0,1,Completed,true,false,false
+UA010104,05 May 24,10,Black Rock,Murrumbeena,No. 3,Luke Desmond,Eric Tran,Luke Desmond,6-1,6,1,1,0,Completed,true,false,false
+UA010104,05 May 24,10,Black Rock,Murrumbeena,No. 4,Malek Marouff,Kyle Yamada,Malek Marouff,6-0,6,0,1,0,Completed,true,false,true
+UA010111,12 May 24,11,Parkdale,Black Rock,No. 1,Ben White,Andrew Martin,Ben White,6-1,6,1,1,0,Completed,true,false,false
+UA010111,12 May 24,11,Parkdale,Black Rock,No. 2,Ilinca Di Suciu,Joseph Desmond,Joseph Desmond,2-6,2,6,0,1,Completed,true,false,false
+UA010111,12 May 24,11,Parkdale,Black Rock,No. 3,Flynn Hodgkinson,Luke Desmond,Luke Desmond,1-6,1,6,0,1,Completed,true,false,false
+UA010111,12 May 24,11,Parkdale,Black Rock,No. 4,William Wang,Natalie Dureau,William Wang,6-0,6,0,1,0,Completed,true,false,false
+UA010112,12 May 24,11,GPHC,Coatesville,No. 1,Jeremy Wong,Georgi Demosthenous,Jeremy Wong,6-3,6,3,1,0,Completed,true,false,false
+UA010112,12 May 24,11,GPHC,Coatesville,No. 2,Eli Jeffreys,Ethan Nemenman,Eli Jeffreys,6-1,6,1,1,0,Completed,true,false,false
+UA010112,12 May 24,11,GPHC,Coatesville,No. 3,Kai Maynard,Faris Buturovic,Faris Buturovic,1-6,1,6,0,1,Completed,true,false,false
+UA010112,12 May 24,11,GPHC,Coatesville,No. 4,Jordan Hicks,Jack Tan,Jack Tan,2-6,2,6,0,1,Completed,true,true,false
+UA010113,12 May 24,11,St James Green,Kooyong,No. 1,Emma Stewart,Adriano D'Angelo,Adriano D'Angelo,0-6,0,6,0,1,Completed,true,false,false
+UA010113,12 May 24,11,St James Green,Kooyong,No. 2,Mali Davies,Alexander Anderson,Mali Davies,6-4,6,4,1,0,Completed,true,false,false
+UA010113,12 May 24,11,St James Green,Kooyong,No. 3,Sophie Stewart,Maximilian Lord,Maximilian Lord,4-6,4,6,0,1,Completed,true,false,false
+UA010113,12 May 24,11,St James Green,Kooyong,No. 4,Jonah Davies,Pia Stewart,Jonah Davies,6-0,6,0,1,0,Completed,true,false,false
+UA010114,12 May 24,11,Murrumbeena,BLTC Blue,No. 1,Soham Gunjal,Audrey James,Audrey James,1-6,1,6,0,1,Completed,true,false,false
+UA010114,12 May 24,11,Murrumbeena,BLTC Blue,No. 2,Min Cheng (duncan) Hung,Mali Nayna,Min Cheng (duncan) Hung,6-2,6,2,1,0,Completed,true,false,false
+UA010114,12 May 24,11,Murrumbeena,BLTC Blue,No. 3,Eric Tran,Amelia Quintana,Amelia Quintana,1-6,1,6,0,1,Completed,true,false,false
+UA010114,12 May 24,11,Murrumbeena,BLTC Blue,No. 4,Lillia Givargis,Sara Catala Prieto,Lillia Givargis,6-1,6,1,1,0,Completed,true,false,false
+UA010121,19 May 24,12,Murrumbeena,St James Green,No. 1,Soham Gunjal,Emma Stewart,Emma Stewart,2-6,2,6,0,1,Completed,true,false,false
+UA010121,19 May 24,12,Murrumbeena,St James Green,No. 2,Min Cheng (duncan) Hung,Mali Davies,Min Cheng (duncan) Hung,6-1,6,1,1,0,Completed,true,false,false
+UA010121,19 May 24,12,Murrumbeena,St James Green,No. 3,Hazel Hoon,Sophie Stewart,Sophie Stewart,1-6,1,6,0,1,Completed,true,true,false
+UA010121,19 May 24,12,Murrumbeena,St James Green,No. 4,Sanjay Bandla,Jonah Davies,Jonah Davies,4-6,4,6,0,1,Completed,true,true,false
+UA010122,19 May 24,12,Coatesville,Kooyong,No. 1,Georgi Demosthenous,Adriano D'Angelo,Adriano D'Angelo,3-6,3,6,0,1,Completed,true,false,false
+UA010122,19 May 24,12,Coatesville,Kooyong,No. 2,Ethan Nemenman,Alexander Anderson,Ethan Nemenman,6-4,6,4,1,0,Completed,true,false,false
+UA010122,19 May 24,12,Coatesville,Kooyong,No. 3,Faris Buturovic,Maximilian Lord,Maximilian Lord,6-7,6,7,0,1,Completed,true,false,false
+UA010122,19 May 24,12,Coatesville,Kooyong,No. 4,Jack Tan,George Stevens,Jack Tan,6-1,6,1,1,0,Completed,true,false,false
+UA010123,19 May 24,12,BLTC Blue,Black Rock,No. 1,Audrey James,Andrew Martin,Audrey James,6-2,6,2,1,0,Completed,true,false,false
+UA010123,19 May 24,12,BLTC Blue,Black Rock,No. 2,Zara Measures,Luke Desmond,Zara Measures,6-4,6,4,1,0,Completed,true,false,false
+UA010123,19 May 24,12,BLTC Blue,Black Rock,No. 3,Amelia Quintana,Malek Marouff,Amelia Quintana,6-3,6,3,1,0,Completed,true,false,false
+UA010123,19 May 24,12,BLTC Blue,Black Rock,No. 4,Maddie Ballantyne,Natalie Dureau,Maddie Ballantyne,6-4,6,4,1,0,Completed,true,false,false
+UA010124,19 May 24,12,GPHC,Parkdale,No. 1,Eli Jeffreys,Ben White,Ben White,4-6,4,6,0,1,Completed,true,false,false
+UA010124,19 May 24,12,GPHC,Parkdale,No. 2,Arata Tanaka,Flynn Hodgkinson,Arata Tanaka,7-5,7,5,1,0,Completed,true,false,false
+UA010124,19 May 24,12,GPHC,Parkdale,No. 3,Joseph Karalapillai,William Wang,William Wang,1-6,1,6,0,1,Completed,true,false,false
+UA010124,19 May 24,12,GPHC,Parkdale,No. 4,Kai Maynard,Matthew Lan,Kai Maynard,6-3,6,3,1,0,Completed,true,false,true
+UA010131,26 May 24,13,St James Green,GPHC,No. 1,Emma Stewart,Jeremy Wong,Emma Stewart,6-2,6,2,1,0,Completed,true,false,false
+UA010131,26 May 24,13,St James Green,GPHC,No. 2,Mali Davies,Eli Jeffreys,Mali Davies,6-3,6,3,1,0,Completed,true,false,false
+UA010131,26 May 24,13,St James Green,GPHC,No. 3,Sophie Stewart,Arata Tanaka,Arata Tanaka,6-7,6,7,0,1,Completed,true,false,false
+UA010131,26 May 24,13,St James Green,GPHC,No. 4,Jonah Davies,Kai Maynard,Jonah Davies,6-3,6,3,1,0,Completed,true,false,false
+UA010132,26 May 24,13,Parkdale,Murrumbeena,No. 1,Ben White,Min Cheng (duncan) Hung,Min Cheng (duncan) Hung,0-6,0,6,0,1,Completed,true,false,false
+UA010132,26 May 24,13,Parkdale,Murrumbeena,No. 2,Ilinca Di Suciu,Eric Tran,Eric Tran,1-6,1,6,0,1,Completed,true,false,false
+UA010132,26 May 24,13,Parkdale,Murrumbeena,No. 3,William Wang,Hazel Hoon,William Wang,6-1,6,1,1,0,Completed,true,false,true
+UA010132,26 May 24,13,Parkdale,Murrumbeena,No. 4,Matthew Lan,Alex Brown,Matthew Lan,6-3,6,3,1,0,Completed,true,true,true
+UA010133,26 May 24,13,Black Rock,Coatesville,No. 1,Andrew Martin,Georgi Demosthenous,Andrew Martin,6-4,6,4,1,0,Completed,true,false,false
+UA010133,26 May 24,13,Black Rock,Coatesville,No. 2,Joseph Desmond,Ethan Nemenman,Joseph Desmond,6-4,6,4,1,0,Completed,true,false,false
+UA010133,26 May 24,13,Black Rock,Coatesville,No. 3,Luke Desmond,Faris Buturovic,Luke Desmond,6-1,6,1,1,0,Completed,true,false,false
+UA010133,26 May 24,13,Black Rock,Coatesville,No. 4,Malek Marouff,Jack Tan,Malek Marouff,6-4,6,4,1,0,Completed,true,false,false
+UA010134,26 May 24,13,Kooyong,BLTC Blue,No. 1,Alexander Anderson,Audrey James,Alexander Anderson,6-2,6,2,1,0,Completed,true,false,false
+UA010134,26 May 24,13,Kooyong,BLTC Blue,No. 2,Pia Stewart,Mali Nayna,Mali Nayna,0-6,0,6,0,1,Completed,true,false,false
+UA010134,26 May 24,13,Kooyong,BLTC Blue,No. 3,George Stevens,Zara Measures,Zara Measures,1-6,1,6,0,1,Completed,true,false,false
+UA010134,26 May 24,13,Kooyong,BLTC Blue,No. 4,Mia Peng,Amelia Quintana,Amelia Quintana,0-6,0,6,0,1,Completed,true,false,false
+UA010141,02 Jun 24,14,St James Green,Parkdale,No. 1,Mali Davies,Ben White,Mali Davies,6-1,6,1,1,0,Completed,true,false,false
+UA010141,02 Jun 24,14,St James Green,Parkdale,No. 2,Jonah Davies,Flynn Hodgkinson,Jonah Davies,6-0,6,0,1,0,Completed,true,false,false
+UA010141,02 Jun 24,14,St James Green,Parkdale,No. 3,Lucy Davies,William Wang,William Wang,2-6,2,6,0,1,Completed,true,true,false
+UA010141,02 Jun 24,14,St James Green,Parkdale,No. 4,Jack Mair,Matthew Lan,Matthew Lan,3-6,3,6,0,1,Completed,true,true,true
+UA010143,02 Jun 24,14,Black Rock,Kooyong,No. 1,Andrew Martin,Adriano D'Angelo,Adriano D'Angelo,6-7,6,7,0,1,Completed,true,false,false
+UA010143,02 Jun 24,14,Black Rock,Kooyong,No. 2,Malek Marouff,Alexander Anderson,Malek Marouff,6-2,6,2,1,0,Completed,true,false,false
+UA010143,02 Jun 24,14,Black Rock,Kooyong,No. 3,Natalie Dureau,Maximilian Lord,Maximilian Lord,0-6,0,6,0,1,Completed,true,false,false
+UA010143,02 Jun 24,14,Black Rock,Kooyong,No. 4,Samuel Jenna,Pia Stewart,Samuel Jenna,6-0,6,0,1,0,Completed,true,true,false
+UA010144,02 Jun 24,14,BLTC Blue,Coatesville,No. 1,Audrey James,Georgi Demosthenous,Audrey James,6-4,6,4,1,0,Completed,true,false,false
+UA010144,02 Jun 24,14,BLTC Blue,Coatesville,No. 2,Mali Nayna,Ethan Nemenman,Mali Nayna,6-2,6,2,1,0,Completed,true,false,false
+UA010144,02 Jun 24,14,BLTC Blue,Coatesville,No. 3,Maddie Ballantyne,Faris Buturovic,Faris Buturovic,2-6,2,6,0,1,Completed,true,false,false
+UA010144,02 Jun 24,14,BLTC Blue,Coatesville,No. 4,Sara Catala Prieto,Jack Tan,Jack Tan,2-6,2,6,0,1,Completed,true,false,false
+UA010301,,16,St James Green,BLTC Blue,No. 1,Emma Stewart,Audrey James,Emma Stewart,7-6,7,6,1,0,Completed,true,false,false
+UA010301,,16,St James Green,BLTC Blue,No. 2,Mali Davies,Mali Nayna,Mali Nayna,4-6,4,6,0,1,Completed,true,false,false
+UA010301,,16,St James Green,BLTC Blue,No. 3,Sophie Stewart,Zara Measures,Sophie Stewart,7-5,7,5,1,0,Completed,true,false,false
+UA010301,,16,St James Green,BLTC Blue,No. 4,Jonah Davies,Amelia Quintana,Amelia Quintana,2-6,2,6,0,1,Completed,true,false,false
+UA010302,,16,Black Rock,GPHC,No. 1,Andrew Martin,Jeremy Wong,Jeremy Wong,1-6,1,6,0,1,Completed,true,false,false
+UA010302,,16,Black Rock,GPHC,No. 2,Joseph Desmond,Eli Jeffreys,Joseph Desmond,6-2,6,2,1,0,Completed,true,false,false
+UA010302,,16,Black Rock,GPHC,No. 3,Luke Desmond,Arata Tanaka,Luke Desmond,6-2,6,2,1,0,Completed,true,false,false
+UA010302,,16,Black Rock,GPHC,No. 4,Malek Marouff,Kai Maynard,Malek Marouff,6-3,6,3,1,0,Completed,true,false,false
+UA010321,,17,St James Green,Black Rock,No. 1,Emma Stewart,Andrew Martin,Emma Stewart,6-3,6,3,1,0,Completed,true,false,false
+UA010321,,17,St James Green,Black Rock,No. 2,Mali Davies,Joseph Desmond,Joseph Desmond,4-6,4,6,0,1,Completed,true,false,false
+UA010321,,17,St James Green,Black Rock,No. 3,Sophie Stewart,Luke Desmond,Luke Desmond,2-6,2,6,0,1,Completed,true,false,false
+UA010321,,17,St James Green,Black Rock,No. 4,Jonah Davies,Malek Marouff,Malek Marouff,1-6,1,6,0,1,Completed,true,false,false

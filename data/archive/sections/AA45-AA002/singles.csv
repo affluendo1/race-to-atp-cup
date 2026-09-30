@@ -1,0 +1,205 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA002011,20 Jul 19,1,Kooyong 1,Kooyong 2,No. 1,Charlie Williams,Julia Stern,Charlie Williams,6-4,6,4,1,0,Completed,true,false,false
+AA002011,20 Jul 19,1,Kooyong 1,Kooyong 2,No. 2,Harrison Twitt,Julia Thompson,Julia Thompson,1-6,1,6,0,1,Completed,true,false,false
+AA002011,20 Jul 19,1,Kooyong 1,Kooyong 2,No. 3,James Wright,India McKinnon,James Wright,6-4,6,4,1,0,Completed,true,false,false
+AA002011,20 Jul 19,1,Kooyong 1,Kooyong 2,No. 4,Jack Meinert,Sienna McKinnon,Jack Meinert,6-1,6,1,1,0,Completed,true,false,false
+AA002012,20 Jul 19,1,Royal South Yarra 1,Royal South Yarra 2,No. 1,Tommaso Palombaro,Will Sladen,Will Sladen,5-7,5,7,0,1,Completed,true,false,false
+AA002012,20 Jul 19,1,Royal South Yarra 1,Royal South Yarra 2,No. 2,Jono Ingram,George Banks,Jono Ingram,7-6,7,6,1,0,Completed,true,false,false
+AA002012,20 Jul 19,1,Royal South Yarra 1,Royal South Yarra 2,No. 3,Miles Forster,Will Officer,Miles Forster,6-4,6,4,1,0,Completed,true,false,false
+AA002012,20 Jul 19,1,Royal South Yarra 1,Royal South Yarra 2,No. 4,Toby Bonnici,[Unnamed player — TROLS AA002012 away code 4],Toby Bonnici,6-1,6,1,1,0,Completed,false,false,false
+AA002013,20 Jul 19,1,Port Melbourne Blue,Port Melbourne Red,No. 1,Giselle Doslakoski,Farces Hussain,Farces Hussain,0-6,0,6,0,1,Completed,true,false,false
+AA002013,20 Jul 19,1,Port Melbourne Blue,Port Melbourne Red,No. 2,Cameron Gordon,Avediz Lo,Cameron Gordon,7-5,7,5,1,0,Completed,true,false,false
+AA002013,20 Jul 19,1,Port Melbourne Blue,Port Melbourne Red,No. 3,Bryson Walters,Druhv Sharma,Druhv Sharma,0-6,0,6,0,1,Completed,true,false,false
+AA002013,20 Jul 19,1,Port Melbourne Blue,Port Melbourne Red,No. 4,Jack Collis,Jack Jones,Jack Jones,2-6,2,6,0,1,Completed,true,false,false
+AA002014,20 Jul 19,1,Carmelite 1,Carmelite 2,No. 1,Percy Cassin,Arlo Douglas-Hines,Arlo Douglas-Hines,2-6,2,6,0,1,Completed,true,false,false
+AA002014,20 Jul 19,1,Carmelite 1,Carmelite 2,No. 2,Sam Nicholson,Amelia McComb Supply,Sam Nicholson,7-6,7,6,1,0,Completed,true,false,false
+AA002014,20 Jul 19,1,Carmelite 1,Carmelite 2,No. 3,Oscar Barnett,Matthew McComb Supply,Matthew McComb Supply,2-6,2,6,0,1,Completed,true,false,false
+AA002014,20 Jul 19,1,Carmelite 1,Carmelite 2,No. 4,Toby Derbyshire,Samuel Wilson,Samuel Wilson,3-6,3,6,0,1,Completed,true,false,false
+AA002021,27 Jul 19,2,Carmelite 2,Kooyong 1,No. 1,Amelia McComb Supply,Charlie Williams,Charlie Williams,1-6,1,6,0,1,Completed,true,false,false
+AA002021,27 Jul 19,2,Carmelite 2,Kooyong 1,No. 2,Matthew McComb Supply,James Wright,James Wright,1-6,1,6,0,1,Completed,true,false,false
+AA002021,27 Jul 19,2,Carmelite 2,Kooyong 1,No. 3,Samuel Wilson,Harrison Twitt,Samuel Wilson,6-4,6,4,1,0,Completed,true,false,false
+AA002021,27 Jul 19,2,Carmelite 2,Kooyong 1,No. 4,Jack Ridley Supply,William Turnbull,Jack Ridley Supply,6-4,6,4,1,0,Completed,true,false,false
+AA002022,27 Jul 19,2,Kooyong 2,Royal South Yarra 1,No. 1,Julia Stern,Tommaso Palombaro,Tommaso Palombaro,4-6,4,6,0,1,Completed,true,false,false
+AA002022,27 Jul 19,2,Kooyong 2,Royal South Yarra 1,No. 2,Julia Thompson,Jono Ingram,Julia Thompson,6-0,6,0,1,0,Completed,true,false,false
+AA002022,27 Jul 19,2,Kooyong 2,Royal South Yarra 1,No. 3,Sienna McKinnon,Toby Bonnici,Sienna McKinnon,6-0,6,0,1,0,Completed,true,false,false
+AA002022,27 Jul 19,2,Kooyong 2,Royal South Yarra 1,No. 4,Issa Duggan,Miles Forster,Issa Duggan,6-0,6,0,1,0,Completed,true,false,false
+AA002023,27 Jul 19,2,Royal South Yarra 2,Port Melbourne Blue,No. 1,Will Sladen,Giselle Doslakoski,Will Sladen,6-3,6,3,1,0,Completed,true,false,false
+AA002023,27 Jul 19,2,Royal South Yarra 2,Port Melbourne Blue,No. 2,Will Officer,Cameron Gordon,Will Officer,7-6,7,6,1,0,Completed,true,false,false
+AA002023,27 Jul 19,2,Royal South Yarra 2,Port Melbourne Blue,No. 3,[Unnamed player — TROLS AA002023 home code 3],Jack Collis,[Unnamed player — TROLS AA002023 home code 3],6-0,6,0,1,0,Completed,false,false,false
+AA002023,27 Jul 19,2,Royal South Yarra 2,Port Melbourne Blue,No. 4,[Unnamed player — TROLS AA002023 home code 4],Aurora McBride,[Unnamed player — TROLS AA002023 home code 4],6-1,6,1,1,0,Completed,false,false,false
+AA002024,27 Jul 19,2,Port Melbourne Red,Carmelite 1,No. 1,Farces Hussain,Oscar Dunstan,Farces Hussain,6-0,6,0,1,0,Completed,true,false,false
+AA002024,27 Jul 19,2,Port Melbourne Red,Carmelite 1,No. 2,Avediz Lo,Charles Smitt,Avediz Lo,6-2,6,2,1,0,Completed,true,false,false
+AA002024,27 Jul 19,2,Port Melbourne Red,Carmelite 1,No. 3,Druhv Sharma,Oscar Barnett,Druhv Sharma,6-3,6,3,1,0,Completed,true,false,false
+AA002024,27 Jul 19,2,Port Melbourne Red,Carmelite 1,No. 4,Zuhayr Hussain,Toby Derbyshire,Zuhayr Hussain,6-4,6,4,1,0,Completed,true,false,false
+AA002031,03 Aug 19,3,Kooyong 1,Port Melbourne Red,No. 1,Charlie Williams,Farces Hussain,Farces Hussain,3-6,3,6,0,1,Completed,true,false,false
+AA002031,03 Aug 19,3,Kooyong 1,Port Melbourne Red,No. 2,James Wright,Jack Jones,James Wright,7-6,7,6,1,0,Completed,true,false,false
+AA002031,03 Aug 19,3,Kooyong 1,Port Melbourne Red,No. 3,Jack Meinert,Zuhayr Hussain,Jack Meinert,6-0,6,0,1,0,Completed,true,false,false
+AA002031,03 Aug 19,3,Kooyong 1,Port Melbourne Red,No. 4,William Turnbull,Charlie Moss,William Turnbull,6-1,6,1,1,0,Completed,true,false,false
+AA002032,03 Aug 19,3,Royal South Yarra 1,Carmelite 2,No. 1,Jono Ingram,Arlo Douglas-Hines,Arlo Douglas-Hines,0-6,0,6,0,1,Completed,true,false,false
+AA002032,03 Aug 19,3,Royal South Yarra 1,Carmelite 2,No. 2,Toby Bonnici,Amelia McComb Supply,Toby Bonnici,6-0,6,0,1,0,Completed,true,false,false
+AA002032,03 Aug 19,3,Royal South Yarra 1,Carmelite 2,No. 3,Lachie Scott,Hamish Bramich,Lachie Scott,6-0,6,0,1,0,Completed,true,false,false
+AA002032,03 Aug 19,3,Royal South Yarra 1,Carmelite 2,No. 4,[Unnamed player — TROLS AA002032 home code 4],Samuel Wilson,[Unnamed player — TROLS AA002032 home code 4],6-4,6,4,1,0,Completed,false,false,false
+AA002033,03 Aug 19,3,Port Melbourne Blue,Kooyong 2,No. 1,Giselle Doslakoski,Julia Stern,Julia Stern,5-7,5,7,0,1,Completed,true,false,false
+AA002033,03 Aug 19,3,Port Melbourne Blue,Kooyong 2,No. 2,Bryson Walters,Julia Thompson,Julia Thompson,5-7,5,7,0,1,Completed,true,false,false
+AA002033,03 Aug 19,3,Port Melbourne Blue,Kooyong 2,No. 3,Jack Collis,India McKinnon,India McKinnon,6-7,6,7,0,1,Completed,true,false,false
+AA002033,03 Aug 19,3,Port Melbourne Blue,Kooyong 2,No. 4,Michaela Cifone,Sienna McKinnon,Michaela Cifone,6-2,6,2,1,0,Completed,true,false,false
+AA002034,03 Aug 19,3,Carmelite 1,Royal South Yarra 2,No. 1,Percy Cassin,Will Sladen,Percy Cassin,7-6,7,6,1,0,Completed,true,false,false
+AA002034,03 Aug 19,3,Carmelite 1,Royal South Yarra 2,No. 2,Sam Nicholson,George Banks,George Banks,6-7,6,7,0,1,Completed,true,false,false
+AA002034,03 Aug 19,3,Carmelite 1,Royal South Yarra 2,No. 3,Oscar Dunstan,Will Officer,Will Officer,2-6,2,6,0,1,Completed,true,false,false
+AA002034,03 Aug 19,3,Carmelite 1,Royal South Yarra 2,No. 4,Charles Smitt,Gianni Walker,Gianni Walker,2-6,2,6,0,1,Completed,true,false,false
+AA002051,17 Aug 19,5,Port Melbourne Blue,Carmelite 1,No. 1,Bryson Walters,Percy Cassin,Percy Cassin,1-6,1,6,0,1,Completed,true,false,false
+AA002051,17 Aug 19,5,Port Melbourne Blue,Carmelite 1,No. 2,Jack Collis,Charles Smitt,Charles Smitt,6-7,6,7,0,1,Completed,true,false,false
+AA002051,17 Aug 19,5,Port Melbourne Blue,Carmelite 1,No. 3,Aurora McBride,Oscar Barnett,Oscar Barnett,2-6,2,6,0,1,Completed,true,false,false
+AA002051,17 Aug 19,5,Port Melbourne Blue,Carmelite 1,No. 4,Michaela Cifone,Toby Derbyshire,Toby Derbyshire,4-6,4,6,0,1,Completed,true,false,false
+AA002052,17 Aug 19,5,Carmelite 2,Port Melbourne Red,No. 1,Arlo Douglas-Hines,Avediz Lo,Arlo Douglas-Hines,6-4,6,4,1,0,Completed,true,false,false
+AA002052,17 Aug 19,5,Carmelite 2,Port Melbourne Red,No. 2,Matthew McComb Supply,Druhv Sharma,Matthew McComb Supply,6-3,6,3,1,0,Completed,true,false,false
+AA002052,17 Aug 19,5,Carmelite 2,Port Melbourne Red,No. 3,Hamish Bramich,Jack Jones,Jack Jones,1-6,1,6,0,1,Completed,true,false,false
+AA002052,17 Aug 19,5,Carmelite 2,Port Melbourne Red,No. 4,Marcus Cattivera,Charlie Moss,Marcus Cattivera,7-5,7,5,1,0,Completed,true,false,false
+AA002053,17 Aug 19,5,Royal South Yarra 2,Kooyong 2,No. 1,Will Sladen,Julia Thompson,Julia Thompson,4-6,4,6,0,1,Completed,true,false,false
+AA002053,17 Aug 19,5,Royal South Yarra 2,Kooyong 2,No. 2,Will Officer,India McKinnon,Will Officer,6-3,6,3,1,0,Completed,true,false,false
+AA002053,17 Aug 19,5,Royal South Yarra 2,Kooyong 2,No. 3,George Banks,Sienna McKinnon,Sienna McKinnon,0-6,0,6,0,1,Completed,true,false,false
+AA002053,17 Aug 19,5,Royal South Yarra 2,Kooyong 2,No. 4,Gianni Walker,Issa Duggan,Issa Duggan,0-6,0,6,0,1,Completed,true,false,false
+AA002054,17 Aug 19,5,Kooyong 1,Royal South Yarra 1,No. 1,Charlie Williams,Tommaso Palombaro,Charlie Williams,6-2,6,2,1,0,Completed,true,false,false
+AA002054,17 Aug 19,5,Kooyong 1,Royal South Yarra 1,No. 2,Harrison Twitt,Toby Bonnici,Harrison Twitt,6-2,6,2,1,0,Completed,true,false,false
+AA002054,17 Aug 19,5,Kooyong 1,Royal South Yarra 1,No. 3,Jack Meinert,Lachie Scott,Jack Meinert,6-3,6,3,1,0,Completed,true,false,false
+AA002054,17 Aug 19,5,Kooyong 1,Royal South Yarra 1,No. 4,James Wright,[Unnamed player — TROLS AA002054 away code 4],James Wright,6-0,6,0,1,0,Completed,false,false,false
+AA002061,24 Aug 19,6,Royal South Yarra 1,Port Melbourne Blue,No. 1,Tommaso Palombaro,Giselle Doslakoski,Tommaso Palombaro,6-1,6,1,1,0,Completed,true,false,false
+AA002061,24 Aug 19,6,Royal South Yarra 1,Port Melbourne Blue,No. 2,Toby Bonnici,Cameron Gordon,Cameron Gordon,4-6,4,6,0,1,Completed,true,false,false
+AA002061,24 Aug 19,6,Royal South Yarra 1,Port Melbourne Blue,No. 3,Miles Forster,Jack Collis,Jack Collis,6-7,6,7,0,1,Completed,true,false,false
+AA002061,24 Aug 19,6,Royal South Yarra 1,Port Melbourne Blue,No. 4,Freddie Hunt,Michaela Cifone,Freddie Hunt,6-0,6,0,1,0,Completed,true,false,false
+AA002062,24 Aug 19,6,Carmelite 1,Kooyong 1,No. 1,Sam Nicholson,Charlie Williams,Charlie Williams,1-6,1,6,0,1,Completed,true,false,false
+AA002062,24 Aug 19,6,Carmelite 1,Kooyong 1,No. 2,Oscar Dunstan,James Wright,James Wright,2-6,2,6,0,1,Completed,true,false,false
+AA002062,24 Aug 19,6,Carmelite 1,Kooyong 1,No. 3,Charles Smitt,Jack Meinert,Jack Meinert,5-7,5,7,0,1,Completed,true,false,false
+AA002062,24 Aug 19,6,Carmelite 1,Kooyong 1,No. 4,Oscar Barnett,William Turnbull,William Turnbull,1-6,1,6,0,1,Completed,true,false,false
+AA002063,24 Aug 19,6,Port Melbourne Red,Royal South Yarra 2,No. 1,Farces Hussain,George Banks,George Banks,4-6,4,6,0,1,Completed,true,false,false
+AA002063,24 Aug 19,6,Port Melbourne Red,Royal South Yarra 2,No. 2,Druhv Sharma,Will Officer,Will Officer,2-6,2,6,0,1,Completed,true,false,false
+AA002063,24 Aug 19,6,Port Melbourne Red,Royal South Yarra 2,No. 3,Jack Jones,Gianni Walker,Jack Jones,6-2,6,2,1,0,Completed,true,false,false
+AA002063,24 Aug 19,6,Port Melbourne Red,Royal South Yarra 2,No. 4,Zuhayr Hussain,Will Sladen,Zuhayr Hussain,7-6,7,6,1,0,Completed,true,false,false
+AA002064,24 Aug 19,6,Kooyong 2,Carmelite 2,No. 1,Julia Stern,Arlo Douglas-Hines,Arlo Douglas-Hines,6-7,6,7,0,1,Completed,true,false,false
+AA002064,24 Aug 19,6,Kooyong 2,Carmelite 2,No. 2,Julia Thompson,Matthew McComb Supply,Julia Thompson,6-2,6,2,1,0,Completed,true,false,false
+AA002064,24 Aug 19,6,Kooyong 2,Carmelite 2,No. 3,Issa Duggan,Samuel Wilson,Issa Duggan,6-1,6,1,1,0,Completed,true,false,false
+AA002064,24 Aug 19,6,Kooyong 2,Carmelite 2,No. 4,[Unnamed player — TROLS AA002064 home code 4],Marcus Cattivera,[Unnamed player — TROLS AA002064 home code 4],6-2,6,2,1,0,Completed,false,false,false
+AA002071,31 Aug 19,7,Kooyong 1,Port Melbourne Blue,No. 1,Charlie Williams,Cameron Gordon,Charlie Williams,6-2,6,2,1,0,Completed,true,false,false
+AA002071,31 Aug 19,7,Kooyong 1,Port Melbourne Blue,No. 2,James Wright,Bryson Walters,James Wright,6-0,6,0,1,0,Completed,true,false,false
+AA002071,31 Aug 19,7,Kooyong 1,Port Melbourne Blue,No. 3,Harrison Twitt,Michaela Cifone,Harrison Twitt,6-3,6,3,1,0,Completed,true,false,false
+AA002071,31 Aug 19,7,Kooyong 1,Port Melbourne Blue,No. 4,Jack Meinert,Aurora McBride,Jack Meinert,6-1,6,1,1,0,Completed,true,false,false
+AA002072,31 Aug 19,7,Royal South Yarra 1,Carmelite 1,No. 1,Tommaso Palombaro,Percy Cassin,Tommaso Palombaro,6-4,6,4,1,0,Completed,true,false,false
+AA002072,31 Aug 19,7,Royal South Yarra 1,Carmelite 1,No. 2,Toby Bonnici,Oscar Dunstan,Toby Bonnici,6-1,6,1,1,0,Completed,true,false,false
+AA002072,31 Aug 19,7,Royal South Yarra 1,Carmelite 1,No. 3,Miles Forster,Charles Smitt,Charles Smitt,3-6,3,6,0,1,Completed,true,false,false
+AA002072,31 Aug 19,7,Royal South Yarra 1,Carmelite 1,No. 4,Lachie Scott,Toby Derbyshire,Lachie Scott,6-1,6,1,1,0,Completed,true,false,false
+AA002073,31 Aug 19,7,Carmelite 2,Royal South Yarra 2,No. 1,Thomas Field,George Banks,George Banks,2-6,2,6,0,1,Completed,true,false,false
+AA002073,31 Aug 19,7,Carmelite 2,Royal South Yarra 2,No. 2,Samuel Wilson,Will Officer,Will Officer,0-6,0,6,0,1,Completed,true,false,false
+AA002073,31 Aug 19,7,Carmelite 2,Royal South Yarra 2,No. 3,Hamish Bramich,Christos S,Hamish Bramich,6-2,6,2,1,0,Completed,true,false,false
+AA002073,31 Aug 19,7,Carmelite 2,Royal South Yarra 2,No. 4,Marcus Cattivera,Gianni Walker,Marcus Cattivera,6-3,6,3,1,0,Completed,true,false,false
+AA002074,31 Aug 19,7,Port Melbourne Red,Kooyong 2,No. 1,Druhv Sharma,Julia Stern,Druhv Sharma,6-2,6,2,1,0,Completed,true,false,false
+AA002074,31 Aug 19,7,Port Melbourne Red,Kooyong 2,No. 2,Avediz Lo,Julia Thompson,Julia Thompson,1-6,1,6,0,1,Completed,true,false,false
+AA002074,31 Aug 19,7,Port Melbourne Red,Kooyong 2,No. 3,Jack Jones,India McKinnon,India McKinnon,3-6,3,6,0,1,Completed,true,false,false
+AA002074,31 Aug 19,7,Port Melbourne Red,Kooyong 2,No. 4,Charlie Moss,Sienna McKinnon,Charlie Moss,6-1,6,1,1,0,Completed,true,false,false
+AA002081,07 Sep 19,8,Kooyong 2,Kooyong 1,No. 1,Julia Stern,Charlie Williams,Julia Stern,6-3,6,3,1,0,Completed,true,false,false
+AA002081,07 Sep 19,8,Kooyong 2,Kooyong 1,No. 2,Julia Thompson,James Wright,James Wright,3-6,3,6,0,1,Completed,true,false,false
+AA002081,07 Sep 19,8,Kooyong 2,Kooyong 1,No. 3,India McKinnon,Jack Meinert,Jack Meinert,4-6,4,6,0,1,Completed,true,false,false
+AA002081,07 Sep 19,8,Kooyong 2,Kooyong 1,No. 4,Sienna McKinnon,William Turnbull,William Turnbull,1-6,1,6,0,1,Completed,true,false,false
+AA002082,07 Sep 19,8,Royal South Yarra 2,Royal South Yarra 1,No. 1,Will Sladen,Tommaso Palombaro,Tommaso Palombaro,2-6,2,6,0,1,Completed,true,false,false
+AA002082,07 Sep 19,8,Royal South Yarra 2,Royal South Yarra 1,No. 2,George Banks,Freddie Hunt,Freddie Hunt,0-6,0,6,0,1,Completed,true,false,false
+AA002082,07 Sep 19,8,Royal South Yarra 2,Royal South Yarra 1,No. 3,Will Officer,Jono Ingram,Will Officer,6-2,6,2,1,0,Completed,true,false,false
+AA002082,07 Sep 19,8,Royal South Yarra 2,Royal South Yarra 1,No. 4,Christos S,Lachie Scott,Lachie Scott,2-6,2,6,0,1,Completed,true,false,false
+AA002083,07 Sep 19,8,Port Melbourne Red,Port Melbourne Blue,No. 1,Farces Hussain,Giselle Doslakoski,Farces Hussain,6-1,6,1,1,0,Completed,true,false,false
+AA002083,07 Sep 19,8,Port Melbourne Red,Port Melbourne Blue,No. 2,Avediz Lo,Bryson Walters,Avediz Lo,6-3,6,3,1,0,Completed,true,false,false
+AA002083,07 Sep 19,8,Port Melbourne Red,Port Melbourne Blue,No. 3,Jack Jones,Jack Collis,Jack Jones,6-4,6,4,1,0,Completed,true,false,false
+AA002083,07 Sep 19,8,Port Melbourne Red,Port Melbourne Blue,No. 4,Zuhayr Hussain,Aurora McBride,Zuhayr Hussain,6-0,6,0,1,0,Completed,true,false,false
+AA002084,07 Sep 19,8,Carmelite 2,Carmelite 1,No. 1,Amelia McComb Supply,Percy Cassin,Percy Cassin,5-7,5,7,0,1,Completed,true,false,false
+AA002084,07 Sep 19,8,Carmelite 2,Carmelite 1,No. 2,Matthew McComb Supply,Sam Nicholson,Sam Nicholson,1-6,1,6,0,1,Completed,true,false,false
+AA002084,07 Sep 19,8,Carmelite 2,Carmelite 1,No. 3,Samuel Wilson,Oscar Barnett,Samuel Wilson,6-1,6,1,1,0,Completed,true,false,false
+AA002084,07 Sep 19,8,Carmelite 2,Carmelite 1,No. 4,Marcus Cattivera,Toby Derbyshire,Marcus Cattivera,6-1,6,1,1,0,Completed,true,false,false
+AA002091,14 Sep 19,9,Kooyong 1,Carmelite 2,No. 1,Charlie Williams,Arlo Douglas-Hines,Charlie Williams,6-1,6,1,1,0,Completed,true,false,false
+AA002091,14 Sep 19,9,Kooyong 1,Carmelite 2,No. 2,James Wright,Amelia McComb Supply,Amelia McComb Supply,3-6,3,6,0,1,Completed,true,false,false
+AA002091,14 Sep 19,9,Kooyong 1,Carmelite 2,No. 3,Harrison Twitt,Matthew McComb Supply,Matthew McComb Supply,2-6,2,6,0,1,Completed,true,false,false
+AA002091,14 Sep 19,9,Kooyong 1,Carmelite 2,No. 4,William Turnbull,Samuel Wilson,William Turnbull,6-2,6,2,1,0,Completed,true,false,false
+AA002092,14 Sep 19,9,Royal South Yarra 1,Kooyong 2,No. 1,Tommaso Palombaro,Julia Stern,Tommaso Palombaro,7-6,7,6,1,0,Completed,true,false,false
+AA002092,14 Sep 19,9,Royal South Yarra 1,Kooyong 2,No. 2,Toby Bonnici,Julia Thompson,Toby Bonnici,6-3,6,3,1,0,Completed,true,false,false
+AA002092,14 Sep 19,9,Royal South Yarra 1,Kooyong 2,No. 3,Miles Forster,India McKinnon,Miles Forster,7-6,7,6,1,0,Completed,true,false,false
+AA002092,14 Sep 19,9,Royal South Yarra 1,Kooyong 2,No. 4,Lachie Scott,Sienna McKinnon,Lachie Scott,6-2,6,2,1,0,Completed,true,false,false
+AA002093,14 Sep 19,9,Port Melbourne Blue,Royal South Yarra 2,No. 1,Giselle Doslakoski,Will Officer,Giselle Doslakoski,7-6,7,6,1,0,Completed,true,false,false
+AA002093,14 Sep 19,9,Port Melbourne Blue,Royal South Yarra 2,No. 2,Cameron Gordon,Christos Zampelis,Cameron Gordon,6-0,6,0,1,0,Completed,true,false,false
+AA002093,14 Sep 19,9,Port Melbourne Blue,Royal South Yarra 2,No. 3,Bryson Walters,George Banks,George Banks,0-6,0,6,0,1,Completed,true,false,false
+AA002093,14 Sep 19,9,Port Melbourne Blue,Royal South Yarra 2,No. 4,Michaela Cifone,Christos S,Michaela Cifone,6-4,6,4,1,0,Completed,true,false,false
+AA002094,14 Sep 19,9,Carmelite 1,Port Melbourne Red,No. 1,Oscar Dunstan,Farces Hussain,Farces Hussain,0-6,0,6,0,1,Completed,true,false,false
+AA002094,14 Sep 19,9,Carmelite 1,Port Melbourne Red,No. 2,Charles Smitt,Jack Jones,Jack Jones,2-6,2,6,0,1,Completed,true,false,false
+AA002094,14 Sep 19,9,Carmelite 1,Port Melbourne Red,No. 3,Oscar Barnett,Zuhayr Hussain,Oscar Barnett,6-4,6,4,1,0,Completed,true,false,false
+AA002094,14 Sep 19,9,Carmelite 1,Port Melbourne Red,No. 4,Toby Derbyshire,Charlie Moss,Charlie Moss,4-6,4,6,0,1,Completed,true,false,false
+AA002101,12 Oct 19,10,Port Melbourne Red,Kooyong 1,No. 1,Farces Hussain,Charlie Williams,Charlie Williams,5-7,5,7,0,1,Completed,true,false,false
+AA002101,12 Oct 19,10,Port Melbourne Red,Kooyong 1,No. 2,Avediz Lo,[Unnamed player — TROLS AA002101 away code 2],Avediz Lo,6-4,6,4,1,0,Completed,false,false,false
+AA002101,12 Oct 19,10,Port Melbourne Red,Kooyong 1,No. 3,Jack Jones,Jack Meinert,Jack Meinert,3-6,3,6,0,1,Completed,true,false,false
+AA002101,12 Oct 19,10,Port Melbourne Red,Kooyong 1,No. 4,Charlie Moss,William Turnbull,Charlie Moss,6-4,6,4,1,0,Completed,true,false,false
+AA002102,12 Oct 19,10,Carmelite 2,Royal South Yarra 1,No. 1,Amelia McComb Supply,Jono Ingram,Jono Ingram,0-6,0,6,0,1,Completed,true,false,false
+AA002102,12 Oct 19,10,Carmelite 2,Royal South Yarra 1,No. 2,Matthew McComb Supply,Toby Bonnici,Toby Bonnici,2-6,2,6,0,1,Completed,true,false,false
+AA002102,12 Oct 19,10,Carmelite 2,Royal South Yarra 1,No. 3,Samuel Wilson,Miles Forster,Samuel Wilson,6-4,6,4,1,0,Completed,true,false,false
+AA002102,12 Oct 19,10,Carmelite 2,Royal South Yarra 1,No. 4,Hamish Bramich,Lachie Scott,Hamish Bramich,6-4,6,4,1,0,Completed,true,false,false
+AA002103,12 Oct 19,10,Kooyong 2,Port Melbourne Blue,No. 1,Julia Stern,Bryson Walters,Julia Stern,6-1,6,1,1,0,Completed,true,false,false
+AA002103,12 Oct 19,10,Kooyong 2,Port Melbourne Blue,No. 2,Julia Thompson,Jack Collis,Julia Thompson,6-0,6,0,1,0,Completed,true,false,false
+AA002103,12 Oct 19,10,Kooyong 2,Port Melbourne Blue,No. 3,India McKinnon,Michaela Cifone,Michaela Cifone,5-7,5,7,0,1,Completed,true,false,false
+AA002103,12 Oct 19,10,Kooyong 2,Port Melbourne Blue,No. 4,Sienna McKinnon,Aurora McBride,Sienna McKinnon,6-1,6,1,1,0,Completed,true,false,false
+AA002104,12 Oct 19,10,Royal South Yarra 2,Carmelite 1,No. 1,Gianni Walker,Percy Cassin,Percy Cassin,2-6,2,6,0,1,Completed,true,false,false
+AA002104,12 Oct 19,10,Royal South Yarra 2,Carmelite 1,No. 2,Will Sladen,Sam Nicholson,Sam Nicholson,4-6,4,6,0,1,Completed,true,false,false
+AA002104,12 Oct 19,10,Royal South Yarra 2,Carmelite 1,No. 3,Christos Zampelis,Oscar Dunstan,Christos Zampelis,6-4,6,4,1,0,Completed,true,false,false
+AA002104,12 Oct 19,10,Royal South Yarra 2,Carmelite 1,No. 4,Will Officer,Oscar Barnett,Will Officer,6-2,6,2,1,0,Completed,true,false,false
+AA002111,19 Oct 19,11,Kooyong 1,Royal South Yarra 2,No. 1,Charlie Williams,Will Sladen,Will Sladen,3-6,3,6,0,1,Completed,true,false,false
+AA002111,19 Oct 19,11,Kooyong 1,Royal South Yarra 2,No. 2,James Wright,Christos Zampelis,James Wright,6-1,6,1,1,0,Completed,true,false,false
+AA002111,19 Oct 19,11,Kooyong 1,Royal South Yarra 2,No. 3,Jack Meinert,George Banks,Jack Meinert,6-3,6,3,1,0,Completed,true,false,false
+AA002111,19 Oct 19,11,Kooyong 1,Royal South Yarra 2,No. 4,William Turnbull,Lachie Lawson,William Turnbull,6-1,6,1,1,0,Completed,true,false,false
+AA002112,19 Oct 19,11,Royal South Yarra 1,Port Melbourne Red,No. 1,Tommaso Palombaro,Farces Hussain,Farces Hussain,1-6,1,6,0,1,Completed,true,false,false
+AA002112,19 Oct 19,11,Royal South Yarra 1,Port Melbourne Red,No. 2,Jono Ingram,Avediz Lo,Avediz Lo,2-6,2,6,0,1,Completed,true,false,false
+AA002112,19 Oct 19,11,Royal South Yarra 1,Port Melbourne Red,No. 3,Toby Bonnici,Zuhayr Hussain,Toby Bonnici,6-2,6,2,1,0,Completed,true,false,false
+AA002112,19 Oct 19,11,Royal South Yarra 1,Port Melbourne Red,No. 4,Lachie Scott,Charlie Moss,Lachie Scott,7-6,7,6,1,0,Completed,true,false,false
+AA002113,19 Oct 19,11,Port Melbourne Blue,Carmelite 2,No. 1,Giselle Doslakoski,Arlo Douglas-Hines,Arlo Douglas-Hines,1-6,1,6,0,1,Completed,true,false,false
+AA002113,19 Oct 19,11,Port Melbourne Blue,Carmelite 2,No. 2,Cameron Gordon,Samuel Wilson,Cameron Gordon,6-3,6,3,1,0,Completed,true,false,false
+AA002113,19 Oct 19,11,Port Melbourne Blue,Carmelite 2,No. 3,Bryson Walters,Hamish Bramich,Hamish Bramich,2-6,2,6,0,1,Completed,true,false,false
+AA002113,19 Oct 19,11,Port Melbourne Blue,Carmelite 2,No. 4,Jack Collis,Marcus Cattivera,Marcus Cattivera,4-6,4,6,0,1,Completed,true,false,false
+AA002114,19 Oct 19,11,Carmelite 1,Kooyong 2,No. 1,Percy Cassin,Julia Stern,Percy Cassin,6-2,6,2,1,0,Completed,true,false,false
+AA002114,19 Oct 19,11,Carmelite 1,Kooyong 2,No. 2,Sam Nicholson,Julia Thompson,Sam Nicholson,6-3,6,3,1,0,Completed,true,false,false
+AA002114,19 Oct 19,11,Carmelite 1,Kooyong 2,No. 3,Charles Smitt,India McKinnon,India McKinnon,1-6,1,6,0,1,Completed,true,false,false
+AA002114,19 Oct 19,11,Carmelite 1,Kooyong 2,No. 4,Toby Derbyshire,Sienna McKinnon,Toby Derbyshire,6-1,6,1,1,0,Completed,true,false,false
+AA002121,26 Oct 19,12,Carmelite 1,Port Melbourne Blue,No. 1,Percy Cassin,Giselle Doslakoski,Percy Cassin,6-1,6,1,1,0,Completed,true,false,false
+AA002121,26 Oct 19,12,Carmelite 1,Port Melbourne Blue,No. 2,Sam Nicholson,Bryson Walters,,4-4,4,4,0,0,Completed,false,false,false
+AA002121,26 Oct 19,12,Carmelite 1,Port Melbourne Blue,No. 3,Charles Smitt,Michaela Cifone,Michaela Cifone,5-6,5,6,0,1,Completed,true,false,false
+AA002121,26 Oct 19,12,Carmelite 1,Port Melbourne Blue,No. 4,Toby Derbyshire,Aurora McBride,Toby Derbyshire,6-1,6,1,1,0,Completed,true,false,false
+AA002131,09 Nov 19,13,Port Melbourne Blue,Royal South Yarra 1,No. 1,Bryson Walters,Toby Bonnici,Toby Bonnici,3-6,3,6,0,1,Completed,true,false,false
+AA002131,09 Nov 19,13,Port Melbourne Blue,Royal South Yarra 1,No. 2,Jack Collis,Miles Forster,Miles Forster,4-6,4,6,0,1,Completed,true,false,false
+AA002131,09 Nov 19,13,Port Melbourne Blue,Royal South Yarra 1,No. 3,Michaela Cifone,Lachie Scott,Lachie Scott,2-6,2,6,0,1,Completed,true,false,false
+AA002131,09 Nov 19,13,Port Melbourne Blue,Royal South Yarra 1,No. 4,Aurora McBride,[Unnamed player — TROLS AA002131 away code 4],[Unnamed player — TROLS AA002131 away code 4],2-6,2,6,0,1,Completed,false,false,false
+AA002132,09 Nov 19,13,Kooyong 1,Carmelite 1,No. 1,Charlie Williams,Sam Nicholson,Charlie Williams,6-1,6,1,1,0,Completed,true,false,false
+AA002132,09 Nov 19,13,Kooyong 1,Carmelite 1,No. 2,Jack Meinert,Oscar Dunstan,Jack Meinert,6-2,6,2,1,0,Completed,true,false,false
+AA002132,09 Nov 19,13,Kooyong 1,Carmelite 1,No. 3,Harrison Twitt,Charles Smitt,Harrison Twitt,6-1,6,1,1,0,Completed,true,false,false
+AA002132,09 Nov 19,13,Kooyong 1,Carmelite 1,No. 4,William Turnbull,Oscar Barnett,William Turnbull,6-1,6,1,1,0,Completed,true,false,false
+AA002133,09 Nov 19,13,Royal South Yarra 2,Port Melbourne Red,No. 1,Gianni Walker,Avediz Lo,Avediz Lo,2-6,2,6,0,1,Completed,true,false,false
+AA002133,09 Nov 19,13,Royal South Yarra 2,Port Melbourne Red,No. 2,Will Sladen,Druhv Sharma,Druhv Sharma,1-6,1,6,0,1,Completed,true,false,false
+AA002133,09 Nov 19,13,Royal South Yarra 2,Port Melbourne Red,No. 3,George Banks,Jack Jones,Jack Jones,3-6,3,6,0,1,Completed,true,false,false
+AA002133,09 Nov 19,13,Royal South Yarra 2,Port Melbourne Red,No. 4,Lachie Lawson,Charlie Moss,Charlie Moss,3-6,3,6,0,1,Completed,true,false,false
+AA002134,09 Nov 19,13,Carmelite 2,Kooyong 2,No. 1,Arlo Douglas-Hines,Ruby Cheetham,Arlo Douglas-Hines,6-1,6,1,1,0,Completed,true,false,false
+AA002134,09 Nov 19,13,Carmelite 2,Kooyong 2,No. 2,Amelia McComb Supply,Jacqui Eades,Amelia McComb Supply,6-0,6,0,1,0,Completed,true,false,false
+AA002134,09 Nov 19,13,Carmelite 2,Kooyong 2,No. 3,Hamish Bramich,India McKinnon,India McKinnon,2-6,2,6,0,1,Completed,true,false,false
+AA002134,09 Nov 19,13,Carmelite 2,Kooyong 2,No. 4,Marcus Cattivera,Sienna McKinnon,Marcus Cattivera,6-0,6,0,1,0,Completed,true,false,false
+AA002141,16 Nov 19,14,Port Melbourne Blue,Kooyong 1,No. 1,Giselle Doslakoski,Charlie Williams,Charlie Williams,0-6,0,6,0,1,Completed,true,false,false
+AA002141,16 Nov 19,14,Port Melbourne Blue,Kooyong 1,No. 2,Cameron Gordon,James Wright,James Wright,6-7,6,7,0,1,Completed,true,false,false
+AA002141,16 Nov 19,14,Port Melbourne Blue,Kooyong 1,No. 3,Bryson Walters,Jack Meinert,Jack Meinert,0-6,0,6,0,1,Completed,true,false,false
+AA002141,16 Nov 19,14,Port Melbourne Blue,Kooyong 1,No. 4,Aurora McBride,William Turnbull,William Turnbull,0-6,0,6,0,1,Completed,true,false,false
+AA002142,16 Nov 19,14,Carmelite 1,Royal South Yarra 1,No. 1,Percy Cassin,Tommaso Palombaro,Percy Cassin,7-6,7,6,1,0,Completed,true,false,false
+AA002142,16 Nov 19,14,Carmelite 1,Royal South Yarra 1,No. 2,Sam Nicholson,Jono Ingram,Jono Ingram,4-6,4,6,0,1,Completed,true,false,false
+AA002142,16 Nov 19,14,Carmelite 1,Royal South Yarra 1,No. 3,Oscar Dunstan,Toby Bonnici,Toby Bonnici,4-6,4,6,0,1,Completed,true,false,false
+AA002142,16 Nov 19,14,Carmelite 1,Royal South Yarra 1,No. 4,Toby Derbyshire,Miles Forster,Miles Forster,2-6,2,6,0,1,Completed,true,false,false
+AA002143,16 Nov 19,14,Royal South Yarra 2,Carmelite 2,No. 1,Gianni Walker,Arlo Douglas-Hines,Arlo Douglas-Hines,0-6,0,6,0,1,Completed,true,false,false
+AA002143,16 Nov 19,14,Royal South Yarra 2,Carmelite 2,No. 2,Will Sladen,Amelia McComb Supply,Amelia McComb Supply,0-6,0,6,0,1,Completed,true,false,false
+AA002143,16 Nov 19,14,Royal South Yarra 2,Carmelite 2,No. 3,Tom Park,Matthew McComb Supply,Matthew McComb Supply,1-6,1,6,0,1,Completed,true,false,false
+AA002143,16 Nov 19,14,Royal South Yarra 2,Carmelite 2,No. 4,Lachie Lawson,Samuel Wilson,Samuel Wilson,0-6,0,6,0,1,Completed,true,false,false
+AA002301,,16,Kooyong 1,Kooyong 2,No. 1,Charlie Williams,Julia Stern,Charlie Williams,6-0,6,0,1,0,Completed,true,false,false
+AA002301,,16,Kooyong 1,Kooyong 2,No. 2,[Unnamed player — TROLS AA002301 home code 2],Julia Thompson,[Unnamed player — TROLS AA002301 home code 2],7-5,7,5,1,0,Completed,false,false,false
+AA002301,,16,Kooyong 1,Kooyong 2,No. 3,Harrison Twitt,India McKinnon,Harrison Twitt,6-3,6,3,1,0,Completed,true,false,false
+AA002301,,16,Kooyong 1,Kooyong 2,No. 4,Jack Meinert,Sienna McKinnon,Jack Meinert,6-0,6,0,1,0,Completed,true,false,false
+AA002302,,16,Port Melbourne Red,Royal South Yarra 1,No. 1,Farces Hussain,Tommaso Palombaro,Farces Hussain,6-2,6,2,1,0,Completed,true,false,false
+AA002302,,16,Port Melbourne Red,Royal South Yarra 1,No. 2,Avediz Lo,Jono Ingram,Jono Ingram,3-6,3,6,0,1,Completed,true,false,false
+AA002302,,16,Port Melbourne Red,Royal South Yarra 1,No. 3,Druhv Sharma,Toby Bonnici,Toby Bonnici,4-6,4,6,0,1,Completed,true,false,false
+AA002302,,16,Port Melbourne Red,Royal South Yarra 1,No. 4,Jack Jones,Miles Forster,Jack Jones,6-1,6,1,1,0,Completed,true,false,false
+AA002321,,17,Kooyong 1,Port Melbourne Red,No. 1,Charlie Williams,Farces Hussain,Charlie Williams,7-5,7,5,1,0,Completed,true,false,false
+AA002321,,17,Kooyong 1,Port Melbourne Red,No. 2,[Unnamed player — TROLS AA002321 home code 2],Avediz Lo,[Unnamed player — TROLS AA002321 home code 2],6-0,6,0,1,0,Completed,false,false,false
+AA002321,,17,Kooyong 1,Port Melbourne Red,No. 3,Harrison Twitt,Druhv Sharma,Harrison Twitt,6-1,6,1,1,0,Completed,true,false,false
+AA002321,,17,Kooyong 1,Port Melbourne Red,No. 4,Jack Meinert,Jack Jones,Jack Jones,2-6,2,6,0,1,Completed,true,false,false

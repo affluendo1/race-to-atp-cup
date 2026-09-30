@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA35-UA009",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2024",
+  "season_id": "UA35",
+  "season_label": "Spring 2024",
+  "source_section_code": "UA009",
+  "section_label": "Section 9",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Maccabi Moorleigh",
+      "wins": 10,
+      "points": 105,
+      "percentage": 164.46,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 7,
+      "points": 84.5,
+      "percentage": 126.01,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Hurlingham Park",
+      "wins": 8,
+      "points": 82,
+      "percentage": 110.8,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Glen Huntly",
+      "wins": 8,
+      "points": 78.5,
+      "percentage": 111.52,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong",
+      "wins": 7,
+      "points": 77,
+      "percentage": 102.69,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC",
+      "wins": 6,
+      "points": 70,
+      "percentage": 105.95,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Elsternwick Park",
+      "wins": 4,
+      "points": 47,
+      "percentage": 76.5,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave",
+      "wins": 0,
+      "points": 16,
+      "percentage": 42.18,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA35-UA009",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 59,
+  "singles_rubbers": 226,
+  "doubles_rubbers": 114,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA35-UA010",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2024",
+  "season_id": "UA35",
+  "season_label": "Spring 2024",
+  "source_section_code": "UA010",
+  "section_label": "Section 10",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park",
+      "wins": 10,
+      "points": 91,
+      "percentage": 118.32,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 9,
+      "points": 88,
+      "percentage": 126.4,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Murrumbeena",
+      "wins": 7,
+      "points": 85,
+      "percentage": 115.23,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Tennis World",
+      "wins": 8,
+      "points": 79,
+      "percentage": 110.56,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC White",
+      "wins": 8,
+      "points": 79,
+      "percentage": 105.12,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC",
+      "wins": 4,
+      "points": 61,
+      "percentage": 93.51,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park Yellow",
+      "wins": 3,
+      "points": 43,
+      "percentage": 81.96,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park Blue",
+      "wins": 1,
+      "points": 34,
+      "percentage": 60.86,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA35-UA010",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 216,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA6-UA015",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2010",
+  "season_id": "UA6",
+  "season_label": "Autumn 2010",
+  "source_section_code": "UA015",
+  "section_label": "Section 15",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Beaumaris CC",
+      "wins": 0,
+      "points": 116,
+      "percentage": 484.88,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Glen Eira Brooklyn",
+      "wins": 0,
+      "points": 68,
+      "percentage": 107.41,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Parkdale",
+      "wins": 0,
+      "points": 67,
+      "percentage": 99.25,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Hurlingham Park",
+      "wins": 0,
+      "points": 55,
+      "percentage": 71.47,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St Joan of Arc RA",
+      "wins": 0,
+      "points": 54,
+      "percentage": 98.82,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 31,
+      "percentage": 69.01,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Aspendale",
+      "wins": 0,
+      "points": 29,
+      "percentage": 59.73,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA6-UA015",
+  "fixtures": 59,
+  "completed_fixtures": 43,
+  "draw_fixtures": 59,
+  "singles_rubbers": 172,
+  "doubles_rubbers": 86,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

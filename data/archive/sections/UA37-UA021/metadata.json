@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA37-UA021",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2025",
+  "season_id": "UA37",
+  "season_label": "Spring 2025",
+  "source_section_code": "UA021",
+  "section_label": "Section 21",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park",
+      "wins": 10,
+      "points": 104.5,
+      "percentage": 174.09,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Highmoor Uniting",
+      "wins": 8,
+      "points": 86,
+      "percentage": 118.11,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Aspendale",
+      "wins": 7,
+      "points": 81,
+      "percentage": 115.69,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 6,
+      "points": 73,
+      "percentage": 111.76,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Royal Ave",
+      "wins": 5,
+      "points": 66,
+      "percentage": 92.65,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park",
+      "wins": 4,
+      "points": 60,
+      "percentage": 84.98,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 4,
+      "points": 58.5,
+      "percentage": 90.99,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Beaumaris CC",
+      "wins": 1,
+      "points": 31,
+      "percentage": 57.69,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA37-UA021",
+  "fixtures": 59,
+  "completed_fixtures": 50,
+  "draw_fixtures": 59,
+  "singles_rubbers": 199,
+  "doubles_rubbers": 100,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

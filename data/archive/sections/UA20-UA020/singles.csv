@@ -1,0 +1,219 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA020011,05 Feb 17,1,Caulfield Rec,GPHC MLC,No. 1,Chris Liolios,Will Graham,Will Graham,2-6,2,6,0,1,Completed,true,false,false
+UA020011,05 Feb 17,1,Caulfield Rec,GPHC MLC,No. 2,Arina Kostenko,Sam Bundey,Arina Kostenko,6-0,6,0,1,0,Completed,true,false,false
+UA020011,05 Feb 17,1,Caulfield Rec,GPHC MLC,No. 3,Sofiya Vladimirov,Noah Fernando,Sofiya Vladimirov,6-0,6,0,1,0,Completed,true,false,false
+UA020011,05 Feb 17,1,Caulfield Rec,GPHC MLC,No. 4,Jasmin Furugia,Lachlan Ash-Grimm,Lachlan Ash-Grimm,6-7,6,7,0,1,Completed,true,false,false
+UA020012,05 Feb 17,1,Royal Ave 1,Royal Ave 2,No. 1,Georgia Bowles,William Farrugia,Georgia Bowles,6-3,6,3,1,0,Completed,true,false,false
+UA020012,05 Feb 17,1,Royal Ave 1,Royal Ave 2,No. 2,Rosie Mackenzie,Ava Shannon,Ava Shannon,3-6,3,6,0,1,Completed,true,false,false
+UA020012,05 Feb 17,1,Royal Ave 1,Royal Ave 2,No. 3,Anthony Pain,Mia Hilaris,Anthony Pain,6-2,6,2,1,0,Completed,true,false,false
+UA020012,05 Feb 17,1,Royal Ave 1,Royal Ave 2,No. 4,Reilly Clark,Isabel Goldsmith,Isabel Goldsmith,4-6,4,6,0,1,Completed,true,false,false
+UA020013,05 Feb 17,1,St James 1,St James 2,No. 1,Madison King,Isaac Walsh,Isaac Walsh,6-7,6,7,0,1,Completed,true,false,false
+UA020013,05 Feb 17,1,St James 1,St James 2,No. 2,Samuel Sheddon,Vaughn Bodnar,Samuel Sheddon,6-1,6,1,1,0,Completed,true,false,false
+UA020013,05 Feb 17,1,St James 1,St James 2,No. 3,Barney Smith,Lukas Morfeld,Barney Smith,7-6,7,6,1,0,Completed,true,false,false
+UA020013,05 Feb 17,1,St James 1,St James 2,No. 4,Lachlan King,Leah Burns,Lachlan King,6-3,6,3,1,0,Completed,true,false,false
+UA020014,05 Feb 17,1,St Mary's,Black Rock,No. 1,Mark Cahill,Chloe Johnson,Chloe Johnson,1-6,1,6,0,1,Completed,true,false,false
+UA020014,05 Feb 17,1,St Mary's,Black Rock,No. 2,Sasha Gallo,Camille Brewer,Sasha Gallo,6-4,6,4,1,0,Completed,true,false,false
+UA020014,05 Feb 17,1,St Mary's,Black Rock,No. 3,Sebastian Ralph,Lucy Norton,Lucy Norton,4-6,4,6,0,1,Completed,true,false,false
+UA020014,05 Feb 17,1,St Mary's,Black Rock,No. 4,Zoe Tognarini,Sophie Skinner,Zoe Tognarini,6-4,6,4,1,0,Completed,true,false,false
+UA020021,12 Feb 17,2,Black Rock,Caulfield Rec,No. 1,Samantha Martin,Chris Liolios,Chris Liolios,1-6,1,6,0,1,Completed,true,false,false
+UA020021,12 Feb 17,2,Black Rock,Caulfield Rec,No. 2,Chloe Johnson,Arina Kostenko,Chloe Johnson,6-4,6,4,1,0,Completed,true,false,false
+UA020021,12 Feb 17,2,Black Rock,Caulfield Rec,No. 3,Camille Brewer,Sofiya Vladimirov,Camille Brewer,6-0,6,0,1,0,Completed,true,false,false
+UA020021,12 Feb 17,2,Black Rock,Caulfield Rec,No. 4,Lucy Norton,Jasmin Furugia,Lucy Norton,6-2,6,2,1,0,Completed,true,false,false
+UA020022,12 Feb 17,2,GPHC MLC,Royal Ave 1,No. 1,Will Graham,Georgia Bowles,Will Graham,6-1,6,1,1,0,Completed,true,false,false
+UA020022,12 Feb 17,2,GPHC MLC,Royal Ave 1,No. 2,Charlotte Gibson,Rosie Mackenzie,Charlotte Gibson,6-4,6,4,1,0,Completed,true,false,false
+UA020022,12 Feb 17,2,GPHC MLC,Royal Ave 1,No. 3,Noah Fernando,Reilly Clark,Noah Fernando,6-4,6,4,1,0,Completed,true,false,false
+UA020022,12 Feb 17,2,GPHC MLC,Royal Ave 1,No. 4,Lachlan Ash-Grimm,Marlo Evans,Lachlan Ash-Grimm,6-4,6,4,1,0,Completed,true,false,false
+UA020023,12 Feb 17,2,Royal Ave 2,St James 1,No. 1,William Farrugia,Madison King,Madison King,1-6,1,6,0,1,Completed,true,false,false
+UA020023,12 Feb 17,2,Royal Ave 2,St James 1,No. 2,Ava Shannon,Samuel Sheddon,Samuel Sheddon,1-6,1,6,0,1,Completed,true,false,false
+UA020023,12 Feb 17,2,Royal Ave 2,St James 1,No. 3,Mia Hilaris,Barney Smith,Barney Smith,4-6,4,6,0,1,Completed,true,false,false
+UA020023,12 Feb 17,2,Royal Ave 2,St James 1,No. 4,Isabel Goldsmith,Lachlan King,Lachlan King,5-7,5,7,0,1,Completed,true,false,false
+UA020024,12 Feb 17,2,St James 2,St Mary's,No. 1,Isaac Walsh,Mark Cahill,Mark Cahill,6-7,6,7,0,1,Completed,true,false,false
+UA020024,12 Feb 17,2,St James 2,St Mary's,No. 2,Vaughn Bodnar,Will ???,Will ???,3-6,3,6,0,1,Completed,true,false,false
+UA020024,12 Feb 17,2,St James 2,St Mary's,No. 3,Lukas Morfeld,Zoe Tognarini,Lukas Morfeld,6-2,6,2,1,0,Completed,true,false,false
+UA020024,12 Feb 17,2,St James 2,St Mary's,No. 4,Leah Burns,Michael Cirillo,Michael Cirillo,3-6,3,6,0,1,Completed,true,false,false
+UA020032,19 Feb 17,3,Royal Ave 1,Black Rock,No. 1,Rosie Mackenzie,Samantha Martin,Samantha Martin,3-6,3,6,0,1,Completed,true,false,false
+UA020032,19 Feb 17,3,Royal Ave 1,Black Rock,No. 2,Anthony Pain,Chloe Johnson,Chloe Johnson,2-6,2,6,0,1,Completed,true,false,false
+UA020032,19 Feb 17,3,Royal Ave 1,Black Rock,No. 3,Reilly Clark,Camille Brewer,Reilly Clark,6-1,6,1,1,0,Completed,true,false,false
+UA020032,19 Feb 17,3,Royal Ave 1,Black Rock,No. 4,Marlo Evans,Sophie Skinner,Sophie Skinner,0-6,0,6,0,1,Completed,true,false,false
+UA020033,19 Feb 17,3,St James 1,GPHC MLC,No. 1,Madison King,Hannah Croft,Hannah Croft,4-6,4,6,0,1,Completed,true,false,false
+UA020033,19 Feb 17,3,St James 1,GPHC MLC,No. 2,Samuel Sheddon,Datt Jani,Samuel Sheddon,7-6,7,6,1,0,Completed,true,false,false
+UA020033,19 Feb 17,3,St James 1,GPHC MLC,No. 3,Marcel Szynkowska,Lachlan Ash-Grimm,Marcel Szynkowska,6-1,6,1,1,0,Completed,true,false,false
+UA020033,19 Feb 17,3,St James 1,GPHC MLC,No. 4,Barney Smith,Scarlett Blyth,Barney Smith,6-0,6,0,1,0,Completed,true,false,false
+UA020034,19 Feb 17,3,St Mary's,Royal Ave 2,No. 1,Sasha Gallo,Isaac Jacques,,2-2,2,2,0,0,Completed,false,false,false
+UA020034,19 Feb 17,3,St Mary's,Royal Ave 2,No. 2,Zoe Tognarini,Ava Shannon,,3-3,3,3,0,0,Completed,false,false,false
+UA020034,19 Feb 17,3,St Mary's,Royal Ave 2,No. 3,[Unnamed player — TROLS UA020034 home code 4],Mia Hilaris,Mia Hilaris,0-6,0,6,0,1,Completed,false,false,false
+UA020041,26 Feb 17,4,Royal Ave 2,Caulfield Rec,No. 1,William Farrugia,Chris Liolios,Chris Liolios,0-6,0,6,0,1,Completed,true,false,false
+UA020041,26 Feb 17,4,Royal Ave 2,Caulfield Rec,No. 2,Ava Shannon,Arina Kostenko,Arina Kostenko,2-6,2,6,0,1,Completed,true,false,false
+UA020041,26 Feb 17,4,Royal Ave 2,Caulfield Rec,No. 3,Mia Hilaris,Sofiya Vladimirov,Sofiya Vladimirov,4-6,4,6,0,1,Completed,true,false,false
+UA020041,26 Feb 17,4,Royal Ave 2,Caulfield Rec,No. 4,Isaac Jacques,Jasmin Furugia,Isaac Jacques,6-1,6,1,1,0,Completed,true,false,false
+UA020042,26 Feb 17,4,St James 2,Royal Ave 1,No. 1,Isaac Walsh,Georgia Bowles,Isaac Walsh,6-0,6,0,1,0,Completed,true,false,false
+UA020042,26 Feb 17,4,St James 2,Royal Ave 1,No. 2,Vaughn Bodnar,Rosie Mackenzie,Vaughn Bodnar,6-4,6,4,1,0,Completed,true,false,false
+UA020042,26 Feb 17,4,St James 2,Royal Ave 1,No. 3,Lukas Morfeld,Reilly Clark,Lukas Morfeld,6-1,6,1,1,0,Completed,true,false,false
+UA020042,26 Feb 17,4,St James 2,Royal Ave 1,No. 4,Leah Burns,Marlo Evans,Leah Burns,6-1,6,1,1,0,Completed,true,false,false
+UA020043,26 Feb 17,4,Black Rock,St James 1,No. 1,Samantha Martin,Samuel Sheddon,Samuel Sheddon,3-6,3,6,0,1,Completed,true,false,false
+UA020043,26 Feb 17,4,Black Rock,St James 1,No. 2,Lucy Norton,Marcel Szynkowska,Marcel Szynkowska,6-7,6,7,0,1,Completed,true,false,false
+UA020043,26 Feb 17,4,Black Rock,St James 1,No. 3,Sophie Skinner,Barney Smith,Barney Smith,2-6,2,6,0,1,Completed,true,false,false
+UA020043,26 Feb 17,4,Black Rock,St James 1,No. 4,Angus Tweedle,Lachlan King,Lachlan King,1-6,1,6,0,1,Completed,true,false,false
+UA020044,26 Feb 17,4,GPHC MLC,St Mary's,No. 1,Hannah Croft,Mark Cahill,Hannah Croft,6-3,6,3,1,0,Completed,true,false,false
+UA020044,26 Feb 17,4,GPHC MLC,St Mary's,No. 2,Noah Fernando,Sasha Gallo,Sasha Gallo,0-6,0,6,0,1,Completed,true,false,false
+UA020044,26 Feb 17,4,GPHC MLC,St Mary's,No. 3,Charlotte Gibson,Sebastian Ralph,Sebastian Ralph,0-6,0,6,0,1,Completed,true,false,false
+UA020044,26 Feb 17,4,GPHC MLC,St Mary's,No. 4,Scarlett Blyth,Ben Murphy,Ben Murphy,0-6,0,6,0,1,Completed,true,false,false
+UA020051,05 Mar 17,5,St James 1,St Mary's,No. 1,Madison King,Sasha Gallo,Madison King,7-5,7,5,1,0,Completed,true,false,false
+UA020051,05 Mar 17,5,St James 1,St Mary's,No. 2,Samuel Sheddon,Sebastian Ralph,Samuel Sheddon,6-1,6,1,1,0,Completed,true,false,false
+UA020051,05 Mar 17,5,St James 1,St Mary's,No. 3,Marcel Szynkowska,Ben Murphy,Ben Murphy,6-7,6,7,0,1,Completed,true,false,false
+UA020051,05 Mar 17,5,St James 1,St Mary's,No. 4,Lachlan King,Michael Cirillo,Lachlan King,6-3,6,3,1,0,Completed,true,false,false
+UA020052,05 Mar 17,5,Black Rock,St James 2,No. 1,Samantha Martin,Isaac Walsh,Isaac Walsh,1-6,1,6,0,1,Completed,true,false,false
+UA020052,05 Mar 17,5,Black Rock,St James 2,No. 2,Chloe Johnson,Vaughn Bodnar,Chloe Johnson,6-3,6,3,1,0,Completed,true,false,false
+UA020052,05 Mar 17,5,Black Rock,St James 2,No. 3,Camille Brewer,Leah Burns,Camille Brewer,6-2,6,2,1,0,Completed,true,false,false
+UA020052,05 Mar 17,5,Black Rock,St James 2,No. 4,Lucy Norton,Sam Jowett,Sam Jowett,3-6,3,6,0,1,Completed,true,false,false
+UA020053,05 Mar 17,5,Royal Ave 2,GPHC MLC,No. 1,William Farrugia,Hannah Croft,Hannah Croft,0-6,0,6,0,1,Completed,true,false,false
+UA020053,05 Mar 17,5,Royal Ave 2,GPHC MLC,No. 2,Mia Hilaris,Charlotte Gibson,Mia Hilaris,6-3,6,3,1,0,Completed,true,false,false
+UA020053,05 Mar 17,5,Royal Ave 2,GPHC MLC,No. 3,Ava Shannon,Lachlan Ash-Grimm,Lachlan Ash-Grimm,0-6,0,6,0,1,Completed,true,false,false
+UA020053,05 Mar 17,5,Royal Ave 2,GPHC MLC,No. 4,Isaac Jacques,[Unnamed player — TROLS UA020053 away code 4],Isaac Jacques,6-0,6,0,1,0,Completed,false,false,false
+UA020054,05 Mar 17,5,Caulfield Rec,Royal Ave 1,No. 1,Chris Liolios,Georgia Bowles,Chris Liolios,6-0,6,0,1,0,Completed,true,false,false
+UA020054,05 Mar 17,5,Caulfield Rec,Royal Ave 1,No. 2,Arina Kostenko,Rosie Mackenzie,Arina Kostenko,6-0,6,0,1,0,Completed,true,false,false
+UA020054,05 Mar 17,5,Caulfield Rec,Royal Ave 1,No. 3,Sofiya Vladimirov,Anthony Pain,Anthony Pain,3-6,3,6,0,1,Completed,true,false,false
+UA020054,05 Mar 17,5,Caulfield Rec,Royal Ave 1,No. 4,Jasmin Furugia,Reilly Clark,Jasmin Furugia,6-3,6,3,1,0,Completed,true,false,false
+UA020061,19 Mar 17,6,Royal Ave 1,St James 1,No. 1,Georgia Bowles,Madison King,Madison King,4-6,4,6,0,1,Completed,true,false,false
+UA020061,19 Mar 17,6,Royal Ave 1,St James 1,No. 2,Rosie Mackenzie,Samuel Sheddon,Samuel Sheddon,3-6,3,6,0,1,Completed,true,false,false
+UA020061,19 Mar 17,6,Royal Ave 1,St James 1,No. 3,Anthony Pain,Barney Smith,Barney Smith,2-6,2,6,0,1,Completed,true,false,false
+UA020061,19 Mar 17,6,Royal Ave 1,St James 1,No. 4,Marlo Evans,Lachlan King,Lachlan King,0-6,0,6,0,1,Completed,true,false,false
+UA020062,19 Mar 17,6,St Mary's,Caulfield Rec,No. 1,Mark Cahill,Chris Liolios,Chris Liolios,4-6,4,6,0,1,Completed,true,false,false
+UA020062,19 Mar 17,6,St Mary's,Caulfield Rec,No. 2,Sebastian Ralph,Arina Kostenko,Arina Kostenko,5-7,5,7,0,1,Completed,true,false,false
+UA020062,19 Mar 17,6,St Mary's,Caulfield Rec,No. 3,Zoe Tognarini,Sofiya Vladimirov,Sofiya Vladimirov,2-6,2,6,0,1,Completed,true,false,false
+UA020062,19 Mar 17,6,St Mary's,Caulfield Rec,No. 4,Ben Murphy,Jasmin Furugia,Ben Murphy,6-1,6,1,1,0,Completed,true,false,false
+UA020063,19 Mar 17,6,St James 2,Royal Ave 2,No. 1,Isaac Walsh,William Farrugia,Isaac Walsh,6-1,6,1,1,0,Completed,true,false,false
+UA020063,19 Mar 17,6,St James 2,Royal Ave 2,No. 2,Vaughn Bodnar,Ava Shannon,Ava Shannon,3-6,3,6,0,1,Completed,true,false,false
+UA020063,19 Mar 17,6,St James 2,Royal Ave 2,No. 3,Lukas Morfeld,Mia Hilaris,Lukas Morfeld,6-2,6,2,1,0,Completed,true,false,false
+UA020063,19 Mar 17,6,St James 2,Royal Ave 2,No. 4,Leah Burns,Isabel Goldsmith,Isabel Goldsmith,2-6,2,6,0,1,Completed,true,false,false
+UA020064,19 Mar 17,6,GPHC MLC,Black Rock,No. 1,Datt Jani,Samantha Martin,Datt Jani,6-1,6,1,1,0,Completed,true,false,false
+UA020064,19 Mar 17,6,GPHC MLC,Black Rock,No. 2,Noah Fernando,Lucy Norton,Lucy Norton,0-6,0,6,0,1,Completed,true,false,false
+UA020064,19 Mar 17,6,GPHC MLC,Black Rock,No. 3,Lachlan Ash-Grimm,Sophie Skinner,Sophie Skinner,2-6,2,6,0,1,Completed,true,false,false
+UA020064,19 Mar 17,6,GPHC MLC,Black Rock,No. 4,Scarlett Blyth,Angus Tweedle,Angus Tweedle,3-6,3,6,0,1,Completed,true,false,false
+UA020071,26 Mar 17,7,Caulfield Rec,St James 1,No. 1,Chris Liolios,Madison King,Chris Liolios,6-1,6,1,1,0,Completed,true,false,false
+UA020071,26 Mar 17,7,Caulfield Rec,St James 1,No. 2,Arina Kostenko,Samuel Sheddon,Samuel Sheddon,4-6,4,6,0,1,Completed,true,false,false
+UA020071,26 Mar 17,7,Caulfield Rec,St James 1,No. 3,Sofiya Vladimirov,Marcel Szynkowska,Marcel Szynkowska,3-6,3,6,0,1,Completed,true,false,false
+UA020071,26 Mar 17,7,Caulfield Rec,St James 1,No. 4,Jasmin Furugia,Lachlan King,Lachlan King,2-6,2,6,0,1,Completed,true,false,false
+UA020072,26 Mar 17,7,Royal Ave 1,St Mary's,No. 1,Georgia Bowles,Sasha Gallo,Sasha Gallo,3-6,3,6,0,1,Completed,true,false,false
+UA020072,26 Mar 17,7,Royal Ave 1,St Mary's,No. 2,Rosie Mackenzie,Zoe Tognarini,Zoe Tognarini,1-6,1,6,0,1,Completed,true,false,false
+UA020072,26 Mar 17,7,Royal Ave 1,St Mary's,No. 3,Reilly Clark,Ben Murphy,Ben Murphy,2-6,2,6,0,1,Completed,true,false,false
+UA020072,26 Mar 17,7,Royal Ave 1,St Mary's,No. 4,Vadim Goreux,Michael Cirillo,Michael Cirillo,2-6,2,6,0,1,Completed,true,false,false
+UA020073,26 Mar 17,7,Black Rock,Royal Ave 2,No. 1,Chloe Johnson,William Farrugia,Chloe Johnson,6-0,6,0,1,0,Completed,true,false,false
+UA020073,26 Mar 17,7,Black Rock,Royal Ave 2,No. 2,Camille Brewer,Ava Shannon,Ava Shannon,3-6,3,6,0,1,Completed,true,false,false
+UA020073,26 Mar 17,7,Black Rock,Royal Ave 2,No. 3,Lucy Norton,Mia Hilaris,Lucy Norton,6-3,6,3,1,0,Completed,true,false,false
+UA020073,26 Mar 17,7,Black Rock,Royal Ave 2,No. 4,Sophie Skinner,Isabel Goldsmith,Sophie Skinner,7-6,7,6,1,0,Completed,true,false,false
+UA020074,26 Mar 17,7,St James 2,GPHC MLC,No. 1,Isaac Walsh,Hannah Croft,Hannah Croft,2-6,2,6,0,1,Completed,true,false,false
+UA020074,26 Mar 17,7,St James 2,GPHC MLC,No. 2,Vaughn Bodnar,Datt Jani,Datt Jani,2-6,2,6,0,1,Completed,true,false,false
+UA020074,26 Mar 17,7,St James 2,GPHC MLC,No. 3,Lukas Morfeld,Charlotte Gibson,Lukas Morfeld,6-2,6,2,1,0,Completed,true,false,false
+UA020074,26 Mar 17,7,St James 2,GPHC MLC,No. 4,Leah Burns,Noah Fernando,Noah Fernando,4-6,4,6,0,1,Completed,true,false,false
+UA020081,23 Apr 17,8,GPHC MLC,Caulfield Rec,No. 1,Hannah Croft,Chris Liolios,Chris Liolios,1-6,1,6,0,1,Completed,true,false,false
+UA020081,23 Apr 17,8,GPHC MLC,Caulfield Rec,No. 2,Datt Jani,Arina Kostenko,Datt Jani,6-1,6,1,1,0,Completed,true,false,false
+UA020081,23 Apr 17,8,GPHC MLC,Caulfield Rec,No. 3,Scarlett Blyth,Jasmin Furugia,Jasmin Furugia,3-6,3,6,0,1,Completed,true,false,false
+UA020082,23 Apr 17,8,Royal Ave 2,Royal Ave 1,No. 1,Mia Hilaris,Anthony Pain,Anthony Pain,3-6,3,6,0,1,Completed,true,false,false
+UA020082,23 Apr 17,8,Royal Ave 2,Royal Ave 1,No. 2,Isabel Goldsmith,Reilly Clark,Isabel Goldsmith,6-2,6,2,1,0,Completed,true,false,false
+UA020082,23 Apr 17,8,Royal Ave 2,Royal Ave 1,No. 3,William Farrugia,Marlo Evans,Marlo Evans,0-6,0,6,0,1,Completed,true,false,false
+UA020082,23 Apr 17,8,Royal Ave 2,Royal Ave 1,No. 4,Isaac Jacques,Vadim Goreux,Isaac Jacques,6-3,6,3,1,0,Completed,true,false,false
+UA020083,23 Apr 17,8,St James 2,St James 1,No. 1,Isaac Walsh,Madison King,Isaac Walsh,6-3,6,3,1,0,Completed,true,false,false
+UA020083,23 Apr 17,8,St James 2,St James 1,No. 2,Vaughn Bodnar,Samuel Sheddon,Samuel Sheddon,2-6,2,6,0,1,Completed,true,false,false
+UA020083,23 Apr 17,8,St James 2,St James 1,No. 3,Lukas Morfeld,Marcel Szynkowska,Marcel Szynkowska,2-6,2,6,0,1,Completed,true,false,false
+UA020083,23 Apr 17,8,St James 2,St James 1,No. 4,Leah Burns,Barney Smith,Barney Smith,3-6,3,6,0,1,Completed,true,false,false
+UA020084,23 Apr 17,8,Black Rock,St Mary's,No. 1,Samantha Martin,Mark Cahill,Mark Cahill,1-6,1,6,0,1,Completed,true,false,false
+UA020084,23 Apr 17,8,Black Rock,St Mary's,No. 2,Camille Brewer,Sasha Gallo,Camille Brewer,6-4,6,4,1,0,Completed,true,false,false
+UA020084,23 Apr 17,8,Black Rock,St Mary's,No. 3,Lucy Norton,Zoe Tognarini,Zoe Tognarini,2-6,2,6,0,1,Completed,true,false,false
+UA020084,23 Apr 17,8,Black Rock,St Mary's,No. 4,Angus Tweedle,Michael Cirillo,Angus Tweedle,6-4,6,4,1,0,Completed,true,false,false
+UA020091,30 Apr 17,9,Caulfield Rec,Black Rock,No. 1,Chris Liolios,Samantha Martin,Chris Liolios,6-0,6,0,1,0,Completed,true,false,false
+UA020091,30 Apr 17,9,Caulfield Rec,Black Rock,No. 2,Arina Kostenko,Chloe Johnson,Chloe Johnson,3-6,3,6,0,1,Completed,true,false,false
+UA020091,30 Apr 17,9,Caulfield Rec,Black Rock,No. 3,Sofiya Vladimirov,Lucy Norton,Lucy Norton,4-6,4,6,0,1,Completed,true,false,false
+UA020091,30 Apr 17,9,Caulfield Rec,Black Rock,No. 4,Jasmin Furugia,Angus Tweedle,Angus Tweedle,2-6,2,6,0,1,Completed,true,false,false
+UA020092,30 Apr 17,9,Royal Ave 1,GPHC MLC,No. 1,Georgia Bowles,Hannah Croft,Hannah Croft,0-6,0,6,0,1,Completed,true,false,false
+UA020092,30 Apr 17,9,Royal Ave 1,GPHC MLC,No. 2,Anthony Pain,Datt Jani,Anthony Pain,6-4,6,4,1,0,Completed,true,false,false
+UA020092,30 Apr 17,9,Royal Ave 1,GPHC MLC,No. 3,Reilly Clark,Charlotte Gibson,Charlotte Gibson,2-6,2,6,0,1,Completed,true,false,false
+UA020092,30 Apr 17,9,Royal Ave 1,GPHC MLC,No. 4,Lugh Connolly,Noah Fernando,Lugh Connolly,6-0,6,0,1,0,Completed,true,false,false
+UA020093,30 Apr 17,9,St James 1,Royal Ave 2,No. 1,Samuel Sheddon,Mia Hilaris,Samuel Sheddon,6-2,6,2,1,0,Completed,true,false,false
+UA020093,30 Apr 17,9,St James 1,Royal Ave 2,No. 2,Marcel Szynkowska,Isabel Goldsmith,Marcel Szynkowska,6-2,6,2,1,0,Completed,true,false,false
+UA020093,30 Apr 17,9,St James 1,Royal Ave 2,No. 3,Barney Smith,William Farrugia,Barney Smith,6-0,6,0,1,0,Completed,true,false,false
+UA020093,30 Apr 17,9,St James 1,Royal Ave 2,No. 4,Lachlan King,Isaac Jacques,Lachlan King,6-3,6,3,1,0,Completed,true,false,false
+UA020094,30 Apr 17,9,St Mary's,St James 2,No. 1,Mark Cahill,Bridie Hill,Bridie Hill,2-6,2,6,0,1,Completed,true,false,false
+UA020094,30 Apr 17,9,St Mary's,St James 2,No. 2,Sebastian Ralph,Isaac Walsh,Isaac Walsh,2-6,2,6,0,1,Completed,true,false,false
+UA020094,30 Apr 17,9,St Mary's,St James 2,No. 3,Zoe Tognarini,Lukas Morfeld,Lukas Morfeld,1-6,1,6,0,1,Completed,true,false,false
+UA020094,30 Apr 17,9,St Mary's,St James 2,No. 4,Michael Cirillo,Leah Burns,Leah Burns,2-6,2,6,0,1,Completed,true,false,false
+UA020101,07 May 17,10,St James 2,Caulfield Rec,No. 1,Bridie Hill,Chris Liolios,Chris Liolios,6-7,6,7,0,1,Completed,true,false,false
+UA020101,07 May 17,10,St James 2,Caulfield Rec,No. 2,Isaac Walsh,Arina Kostenko,Arina Kostenko,3-6,3,6,0,1,Completed,true,false,false
+UA020101,07 May 17,10,St James 2,Caulfield Rec,No. 3,Vaughn Bodnar,Sofiya Vladimirov,Sofiya Vladimirov,6-7,6,7,0,1,Completed,true,false,false
+UA020101,07 May 17,10,St James 2,Caulfield Rec,No. 4,Lukas Morfeld,Jasmin Furugia,Lukas Morfeld,6-2,6,2,1,0,Completed,true,false,false
+UA020102,07 May 17,10,Black Rock,Royal Ave 1,No. 1,Samantha Martin,Georgia Bowles,Samantha Martin,6-1,6,1,1,0,Completed,true,false,false
+UA020102,07 May 17,10,Black Rock,Royal Ave 1,No. 2,Camille Brewer,Rosie Mackenzie,Camille Brewer,6-4,6,4,1,0,Completed,true,false,false
+UA020102,07 May 17,10,Black Rock,Royal Ave 1,No. 3,Lucy Norton,Anthony Pain,Anthony Pain,1-6,1,6,0,1,Completed,true,false,false
+UA020102,07 May 17,10,Black Rock,Royal Ave 1,No. 4,Angus Tweedle,Reilly Clark,Angus Tweedle,6-0,6,0,1,0,Completed,true,false,false
+UA020103,07 May 17,10,GPHC MLC,St James 1,No. 1,Hannah Croft,Madison King,Hannah Croft,7-5,7,5,1,0,Completed,true,false,false
+UA020103,07 May 17,10,GPHC MLC,St James 1,No. 2,Datt Jani,Marcel Szynkowska,Datt Jani,6-2,6,2,1,0,Completed,true,false,false
+UA020103,07 May 17,10,GPHC MLC,St James 1,No. 3,Noah Fernando,Barney Smith,Barney Smith,0-6,0,6,0,1,Completed,true,false,false
+UA020103,07 May 17,10,GPHC MLC,St James 1,No. 4,Scarlett Blyth,Lachlan King,Lachlan King,1-6,1,6,0,1,Completed,true,false,false
+UA020104,07 May 17,10,Royal Ave 2,St Mary's,No. 1,Mia Hilaris,Sebastian Ralph,Mia Hilaris,6-2,6,2,1,0,Completed,true,false,false
+UA020104,07 May 17,10,Royal Ave 2,St Mary's,No. 2,William Farrugia,Michael Cirillo,Michael Cirillo,0-6,0,6,0,1,Completed,true,false,false
+UA020104,07 May 17,10,Royal Ave 2,St Mary's,No. 3,Ava Shannon,Zoe Tognarini,Ava Shannon,6-0,6,0,1,0,Completed,true,false,false
+UA020104,07 May 17,10,Royal Ave 2,St Mary's,No. 4,Isabel Goldsmith,Ben Murphy,Ben Murphy,3-6,3,6,0,1,Completed,true,false,false
+UA020111,14 May 17,11,Caulfield Rec,Royal Ave 2,No. 1,Chris Liolios,Mia Hilaris,Chris Liolios,6-1,6,1,1,0,Completed,true,false,false
+UA020111,14 May 17,11,Caulfield Rec,Royal Ave 2,No. 2,Arina Kostenko,William Farrugia,Arina Kostenko,6-0,6,0,1,0,Completed,true,false,false
+UA020111,14 May 17,11,Caulfield Rec,Royal Ave 2,No. 3,Sofiya Vladimirov,Ava Shannon,Sofiya Vladimirov,6-0,6,0,1,0,Completed,true,false,false
+UA020111,14 May 17,11,Caulfield Rec,Royal Ave 2,No. 4,Jasmin Furugia,Isabel Goldsmith,Jasmin Furugia,6-4,6,4,1,0,Completed,true,false,false
+UA020112,14 May 17,11,Royal Ave 1,St James 2,No. 1,Georgia Bowles,Bridie Hill,Bridie Hill,0-6,0,6,0,1,Completed,true,false,false
+UA020112,14 May 17,11,Royal Ave 1,St James 2,No. 2,Rosie Mackenzie,Vaughn Bodnar,Vaughn Bodnar,2-6,2,6,0,1,Completed,true,false,false
+UA020112,14 May 17,11,Royal Ave 1,St James 2,No. 3,Reilly Clark,Lukas Morfeld,Lukas Morfeld,1-6,1,6,0,1,Completed,true,false,false
+UA020112,14 May 17,11,Royal Ave 1,St James 2,No. 4,Marlo Evans,Leah Burns,Leah Burns,1-6,1,6,0,1,Completed,true,false,false
+UA020113,14 May 17,11,St James 1,Black Rock,No. 1,Madison King,Samantha Martin,Madison King,6-3,6,3,1,0,Completed,true,false,false
+UA020113,14 May 17,11,St James 1,Black Rock,No. 2,Samuel Sheddon,Camille Brewer,Samuel Sheddon,6-2,6,2,1,0,Completed,true,false,false
+UA020113,14 May 17,11,St James 1,Black Rock,No. 3,Barney Smith,Lucy Norton,Barney Smith,6-3,6,3,1,0,Completed,true,false,false
+UA020113,14 May 17,11,St James 1,Black Rock,No. 4,Lachlan King,Angus Tweedle,Lachlan King,6-0,6,0,1,0,Completed,true,false,false
+UA020114,14 May 17,11,St Mary's,GPHC MLC,No. 1,Mark Cahill,Datt Jani,Mark Cahill,6-1,6,1,1,0,Completed,true,false,false
+UA020114,14 May 17,11,St Mary's,GPHC MLC,No. 2,Sasha Gallo,Charlotte Gibson,Charlotte Gibson,4-6,4,6,0,1,Completed,true,false,false
+UA020114,14 May 17,11,St Mary's,GPHC MLC,No. 3,Zoe Tognarini,Noah Fernando,Zoe Tognarini,6-2,6,2,1,0,Completed,true,false,false
+UA020114,14 May 17,11,St Mary's,GPHC MLC,No. 4,Alex Tognarini,Scarlett Blyth,Alex Tognarini,6-0,6,0,1,0,Completed,true,false,false
+UA020122,21 May 17,12,St James 2,Black Rock,No. 1,Isaac Walsh,Samantha Martin,Isaac Walsh,6-4,6,4,1,0,Completed,true,false,false
+UA020122,21 May 17,12,St James 2,Black Rock,No. 2,Vaughn Bodnar,Angus Tweedle,Vaughn Bodnar,6-3,6,3,1,0,Completed,true,false,false
+UA020122,21 May 17,12,St James 2,Black Rock,No. 3,Lukas Morfeld,Jotaro Kato,Jotaro Kato,0-6,0,6,0,1,Completed,true,false,false
+UA020122,21 May 17,12,St James 2,Black Rock,No. 4,Leah Burns,Bowen Ke,Leah Burns,6-1,6,1,1,0,Completed,true,false,true
+UA020124,21 May 17,12,Royal Ave 1,Caulfield Rec,No. 1,Georgia Bowles,Chris Liolios,Chris Liolios,0-6,0,6,0,1,Completed,true,false,false
+UA020124,21 May 17,12,Royal Ave 1,Caulfield Rec,No. 2,Rosie Mackenzie,Arina Kostenko,Arina Kostenko,0-6,0,6,0,1,Completed,true,false,false
+UA020124,21 May 17,12,Royal Ave 1,Caulfield Rec,No. 3,Anthony Pain,Sofiya Vladimirov,Anthony Pain,6-1,6,1,1,0,Completed,true,false,false
+UA020124,21 May 17,12,Royal Ave 1,Caulfield Rec,No. 4,Lugh Connolly,Jasmin Furugia,Lugh Connolly,6-0,6,0,1,0,Completed,true,false,false
+UA020131,28 May 17,13,St James 1,Royal Ave 1,No. 1,Madison King,Georgia Bowles,Madison King,6-4,6,4,1,0,Completed,true,false,false
+UA020131,28 May 17,13,St James 1,Royal Ave 1,No. 2,Samuel Sheddon,Anthony Pain,Samuel Sheddon,6-4,6,4,1,0,Completed,true,false,false
+UA020131,28 May 17,13,St James 1,Royal Ave 1,No. 3,Marcel Szynkowska,Marlo Evans,Marcel Szynkowska,6-0,6,0,1,0,Completed,true,false,false
+UA020131,28 May 17,13,St James 1,Royal Ave 1,No. 4,Barney Smith,Lugh Connolly,Barney Smith,6-2,6,2,1,0,Completed,true,false,false
+UA020132,28 May 17,13,Caulfield Rec,St Mary's,No. 1,Chris Liolios,Sasha Gallo,Chris Liolios,6-0,6,0,1,0,Completed,true,false,false
+UA020132,28 May 17,13,Caulfield Rec,St Mary's,No. 2,Arina Kostenko,Zoe Tognarini,Arina Kostenko,6-2,6,2,1,0,Completed,true,false,false
+UA020132,28 May 17,13,Caulfield Rec,St Mary's,No. 3,Sofiya Vladimirov,Michael Cirillo,Sofiya Vladimirov,6-4,6,4,1,0,Completed,true,false,false
+UA020132,28 May 17,13,Caulfield Rec,St Mary's,No. 4,Jasmin Furugia,Chloe Millar,Chloe Millar,2-6,2,6,0,1,Completed,true,false,false
+UA020133,28 May 17,13,Royal Ave 2,St James 2,No. 1,Ava Shannon,Bridie Hill,Bridie Hill,2-6,2,6,0,1,Completed,true,false,false
+UA020133,28 May 17,13,Royal Ave 2,St James 2,No. 2,William Farrugia,Vaughn Bodnar,Vaughn Bodnar,0-6,0,6,0,1,Completed,true,false,false
+UA020133,28 May 17,13,Royal Ave 2,St James 2,No. 3,Mia Hilaris,Lukas Morfeld,Lukas Morfeld,5-7,5,7,0,1,Completed,true,false,false
+UA020133,28 May 17,13,Royal Ave 2,St James 2,No. 4,Harry Toomey,Leah Burns,Leah Burns,5-6,5,6,0,1,Completed,true,false,false
+UA020141,04 Jun 17,14,St James 1,Caulfield Rec,No. 1,Samuel Sheddon,Chris Liolios,Chris Liolios,4-6,4,6,0,1,Completed,true,false,false
+UA020141,04 Jun 17,14,St James 1,Caulfield Rec,No. 2,Marcel Szynkowska,Arina Kostenko,Marcel Szynkowska,6-0,6,0,1,0,Completed,true,false,false
+UA020141,04 Jun 17,14,St James 1,Caulfield Rec,No. 3,Barney Smith,Sofiya Vladimirov,Barney Smith,6-3,6,3,1,0,Completed,true,false,false
+UA020141,04 Jun 17,14,St James 1,Caulfield Rec,No. 4,Lachlan King,Jasmin Furugia,Lachlan King,6-1,6,1,1,0,Completed,true,false,false
+UA020142,04 Jun 17,14,St Mary's,Royal Ave 1,No. 1,Mark Cahill,Georgia Bowles,Mark Cahill,6-0,6,0,1,0,Completed,true,false,false
+UA020142,04 Jun 17,14,St Mary's,Royal Ave 1,No. 2,Zoe Tognarini,Rosie Mackenzie,Zoe Tognarini,7-5,7,5,1,0,Completed,true,false,false
+UA020142,04 Jun 17,14,St Mary's,Royal Ave 1,No. 3,Ben Murphy,Marlo Evans,Ben Murphy,6-0,6,0,1,0,Completed,true,false,false
+UA020142,04 Jun 17,14,St Mary's,Royal Ave 1,No. 4,Finley Ward,Vadim Goreux,Vadim Goreux,4-6,4,6,0,1,Completed,true,false,false
+UA020143,04 Jun 17,14,Royal Ave 2,Black Rock,No. 1,Mia Hilaris,Samantha Martin,Mia Hilaris,6-2,6,2,1,0,Completed,true,false,false
+UA020143,04 Jun 17,14,Royal Ave 2,Black Rock,No. 2,William Farrugia,Camille Brewer,Camille Brewer,0-6,0,6,0,1,Completed,true,false,false
+UA020143,04 Jun 17,14,Royal Ave 2,Black Rock,No. 3,Ava Shannon,Lucy Norton,Ava Shannon,6-2,6,2,1,0,Completed,true,false,false
+UA020143,04 Jun 17,14,Royal Ave 2,Black Rock,No. 4,Isabel Goldsmith,Angus Tweedle,Angus Tweedle,5-7,5,7,0,1,Completed,true,false,false
+UA020144,04 Jun 17,14,GPHC MLC,St James 2,No. 1,Hannah Croft,Bridie Hill,Hannah Croft,7-6,7,6,1,0,Completed,true,false,false
+UA020144,04 Jun 17,14,GPHC MLC,St James 2,No. 2,Datt Jani,Isaac Walsh,Datt Jani,6-0,6,0,1,0,Completed,true,false,false
+UA020144,04 Jun 17,14,GPHC MLC,St James 2,No. 3,Charlotte Gibson,Vaughn Bodnar,Charlotte Gibson,6-3,6,3,1,0,Completed,true,false,false
+UA020144,04 Jun 17,14,GPHC MLC,St James 2,No. 4,Noah Fernando,Leah Burns,Leah Burns,2-6,2,6,0,1,Completed,true,false,false
+UA020301,,16,St James 1,Black Rock,No. 1,Madison King,Samantha Martin,Madison King,6-4,6,4,1,0,Completed,true,false,false
+UA020301,,16,St James 1,Black Rock,No. 2,Marcel Szynkowska,Camille Brewer,Marcel Szynkowska,6-1,6,1,1,0,Completed,true,false,false
+UA020301,,16,St James 1,Black Rock,No. 3,Barney Smith,Lucy Norton,Barney Smith,6-2,6,2,1,0,Completed,true,false,false
+UA020301,,16,St James 1,Black Rock,No. 4,Lachlan King,Angus Tweedle,Lachlan King,6-3,6,3,1,0,Completed,true,false,false
+UA020302,,16,Caulfield Rec,St James 2,No. 1,Chris Liolios,Bridie Hill,Bridie Hill,5-7,5,7,0,1,Completed,true,false,false
+UA020302,,16,Caulfield Rec,St James 2,No. 2,Arina Kostenko,Isaac Walsh,Arina Kostenko,6-3,6,3,1,0,Completed,true,false,false
+UA020302,,16,Caulfield Rec,St James 2,No. 3,Sofiya Vladimirov,Vaughn Bodnar,Vaughn Bodnar,5-7,5,7,0,1,Completed,true,false,false
+UA020302,,16,Caulfield Rec,St James 2,No. 4,Jasmin Furugia,Lukas Morfeld,Lukas Morfeld,2-6,2,6,0,1,Completed,true,false,false
+UA020321,,17,St James 1,St James 2,No. 1,Samuel Sheddon,Bridie Hill,Samuel Sheddon,7-5,7,5,1,0,Completed,true,false,false
+UA020321,,17,St James 1,St James 2,No. 2,Marcel Szynkowska,Isaac Walsh,Marcel Szynkowska,6-3,6,3,1,0,Completed,true,false,false
+UA020321,,17,St James 1,St James 2,No. 3,Barney Smith,Vaughn Bodnar,Barney Smith,6-3,6,3,1,0,Completed,true,false,false
+UA020321,,17,St James 1,St James 2,No. 4,Lachlan King,Lukas Morfeld,Lachlan King,6-1,6,1,1,0,Completed,true,false,false

@@ -1,0 +1,209 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA013011,06 Feb 22,1,Maccabi,Kings Park,No. 1,Jonah Stowe-Lindner,Madhav Gokulanathan,Jonah Stowe-Lindner,6-4,6,4,1,0,Completed,true,false,false
+UA013011,06 Feb 22,1,Maccabi,Kings Park,No. 2,Jesse Stowe-Lindner,Suzanne Shaiil,Jesse Stowe-Lindner,6-3,6,3,1,0,Completed,true,false,false
+UA013011,06 Feb 22,1,Maccabi,Kings Park,No. 3,Bailey Kawalsky,Daniel Qin,Daniel Qin,3-6,3,6,0,1,Completed,true,false,true
+UA013011,06 Feb 22,1,Maccabi,Kings Park,No. 4,Ari Gordon,Khushi Kukadiya,Ari Gordon,6-3,6,3,1,0,Completed,true,false,true
+UA013012,06 Feb 22,1,Hurlingham Park,Lauriston,No. 1,Oscar Rey,Elliott Davies,Oscar Rey,6-4,6,4,1,0,Completed,true,false,false
+UA013012,06 Feb 22,1,Hurlingham Park,Lauriston,No. 2,Josh Nowell,Juliet Nazaretian,Juliet Nazaretian,2-6,2,6,0,1,Completed,true,false,false
+UA013012,06 Feb 22,1,Hurlingham Park,Lauriston,No. 3,Tomek Foroncewicz,Brody Smith,Tomek Foroncewicz,6-0,6,0,1,0,Completed,true,false,false
+UA013012,06 Feb 22,1,Hurlingham Park,Lauriston,No. 4,Renny Thurlow,Hannah Ross-John,Renny Thurlow,6-2,6,2,1,0,Completed,true,false,false
+UA013013,06 Feb 22,1,Black Rock,Elsternwick Park,No. 1,Amelie Smith,Rex Ettershank,Amelie Smith,6-3,6,3,1,0,Completed,true,false,false
+UA013013,06 Feb 22,1,Black Rock,Elsternwick Park,No. 2,Harrison Yang,Ori Diamond,Ori Diamond,2-6,2,6,0,1,Completed,true,false,false
+UA013013,06 Feb 22,1,Black Rock,Elsternwick Park,No. 3,Lucy Letham,Charlie Pettifer,Charlie Pettifer,2-6,2,6,0,1,Completed,true,false,false
+UA013013,06 Feb 22,1,Black Rock,Elsternwick Park,No. 4,Adam Martin,Will Marino,Adam Martin,6-0,6,0,1,0,Completed,true,false,false
+UA013014,06 Feb 22,1,St James,Mentone,No. 1,Emma Stewart,Ray Lai Cheong,Ray Lai Cheong,1-6,1,6,0,1,Completed,true,false,false
+UA013014,06 Feb 22,1,St James,Mentone,No. 2,Ben Lajbcygier,Kosta Mavrikos,Kosta Mavrikos,2-6,2,6,0,1,Completed,true,false,false
+UA013014,06 Feb 22,1,St James,Mentone,No. 3,Mac Rogers-Wilson,Robert Proudfoot,Mac Rogers-Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA013014,06 Feb 22,1,St James,Mentone,No. 4,Julia Luo,Lila Anderson,Lila Anderson,2-6,2,6,0,1,Completed,true,false,false
+UA013021,13 Feb 22,2,Mentone,Maccabi,No. 1,Lee Moore,Jonah Stowe-Lindner,Jonah Stowe-Lindner,6-7,6,7,0,1,Completed,true,false,false
+UA013021,13 Feb 22,2,Mentone,Maccabi,No. 2,Wanda Bacskai,Jesse Stowe-Lindner,Jesse Stowe-Lindner,4-6,4,6,0,1,Completed,true,false,false
+UA013021,13 Feb 22,2,Mentone,Maccabi,No. 3,Robert Proudfoot,Bailey Kawalsky,Robert Proudfoot,6-2,6,2,1,0,Completed,true,false,false
+UA013021,13 Feb 22,2,Mentone,Maccabi,No. 4,Lila Anderson,Noam Goldberger,Lila Anderson,6-2,6,2,1,0,Completed,true,false,true
+UA013022,13 Feb 22,2,Kings Park,Hurlingham Park,No. 1,Madhav Gokulanathan,Josh Nowell,Josh Nowell,5-7,5,7,0,1,Completed,true,false,false
+UA013022,13 Feb 22,2,Kings Park,Hurlingham Park,No. 2,Suzanne Shaiil,Edward Ruckel,Edward Ruckel,4-6,4,6,0,1,Completed,true,false,false
+UA013022,13 Feb 22,2,Kings Park,Hurlingham Park,No. 3,Daniel Qin,Renny Thurlow,Renny Thurlow,0-6,0,6,0,1,Completed,true,true,false
+UA013022,13 Feb 22,2,Kings Park,Hurlingham Park,No. 4,Khushi Kukadiya,Isshin McLean,Isshin McLean,1-6,1,6,0,1,Completed,true,true,false
+UA013023,13 Feb 22,2,Lauriston,Black Rock,No. 1,Elliott Davies,Amelie Smith,Elliott Davies,6-3,6,3,1,0,Completed,true,false,false
+UA013023,13 Feb 22,2,Lauriston,Black Rock,No. 2,Mathew Kwong,Harrison Yang,Harrison Yang,2-6,2,6,0,1,Completed,true,false,false
+UA013023,13 Feb 22,2,Lauriston,Black Rock,No. 3,Juliet Nazaretian,Lucy Letham,Lucy Letham,0-6,0,6,0,1,Completed,true,false,false
+UA013023,13 Feb 22,2,Lauriston,Black Rock,No. 4,Brody Smith,Adam Martin,Brody Smith,6-3,6,3,1,0,Completed,true,false,false
+UA013024,13 Feb 22,2,Elsternwick Park,St James,No. 1,Ori Diamond,Emma Stewart,Emma Stewart,4-6,4,6,0,1,Completed,true,false,false
+UA013024,13 Feb 22,2,Elsternwick Park,St James,No. 2,Charlie Pettifer,Ben Lajbcygier,Charlie Pettifer,6-2,6,2,1,0,Completed,true,false,false
+UA013024,13 Feb 22,2,Elsternwick Park,St James,No. 3,James Grace,Julia Luo,James Grace,6-3,6,3,1,0,Completed,true,false,false
+UA013024,13 Feb 22,2,Elsternwick Park,St James,No. 4,Rafael Schneider,Sophie Stewart,Rafael Schneider,6-3,6,3,1,0,Completed,true,true,true
+UA013031,20 Feb 22,3,Maccabi,Elsternwick Park,No. 1,Jonah Stowe-Lindner,Ori Diamond,Jonah Stowe-Lindner,6-3,6,3,1,0,Completed,true,false,false
+UA013031,20 Feb 22,3,Maccabi,Elsternwick Park,No. 2,Jesse Stowe-Lindner,Charlie Pettifer,Jesse Stowe-Lindner,6-1,6,1,1,0,Completed,true,false,false
+UA013031,20 Feb 22,3,Maccabi,Elsternwick Park,No. 3,Bailey Kawalsky,James Grace,James Grace,3-6,3,6,0,1,Completed,true,false,false
+UA013031,20 Feb 22,3,Maccabi,Elsternwick Park,No. 4,Gabey Paluch,Jeremy Anstee,Jeremy Anstee,3-6,3,6,0,1,Completed,true,false,true
+UA013032,20 Feb 22,3,Hurlingham Park,Mentone,No. 1,Oscar Rey,Lee Moore,Oscar Rey,6-1,6,1,1,0,Completed,true,false,false
+UA013032,20 Feb 22,3,Hurlingham Park,Mentone,No. 2,Josh Nowell,Ray Lai Cheong,Ray Lai Cheong,2-6,2,6,0,1,Completed,true,false,false
+UA013032,20 Feb 22,3,Hurlingham Park,Mentone,No. 3,Edward Ruckel,Wanda Bacskai,Wanda Bacskai,3-6,3,6,0,1,Completed,true,false,false
+UA013032,20 Feb 22,3,Hurlingham Park,Mentone,No. 4,Isshin McLean,Kosta Mavrikos,Kosta Mavrikos,2-6,2,6,0,1,Completed,true,false,false
+UA013033,20 Feb 22,3,Black Rock,Kings Park,No. 1,Amelie Smith,Madhav Gokulanathan,Amelie Smith,6-4,6,4,1,0,Completed,true,false,false
+UA013033,20 Feb 22,3,Black Rock,Kings Park,No. 2,Harrison Yang,Suzanne Shaiil,Harrison Yang,6-3,6,3,1,0,Completed,true,false,false
+UA013033,20 Feb 22,3,Black Rock,Kings Park,No. 3,Lucy Letham,Daniel Qin,Lucy Letham,6-3,6,3,1,0,Completed,true,false,true
+UA013033,20 Feb 22,3,Black Rock,Kings Park,No. 4,Anna Tweddle,Khushi Kukadiya,Khushi Kukadiya,4-6,4,6,0,1,Completed,true,false,true
+UA013034,20 Feb 22,3,St James,Lauriston,No. 1,Emma Stewart,Elliott Davies,Elliott Davies,3-6,3,6,0,1,Completed,true,false,false
+UA013034,20 Feb 22,3,St James,Lauriston,No. 2,Ben Lajbcygier,Mathew Kwong,Ben Lajbcygier,6-2,6,2,1,0,Completed,true,false,false
+UA013034,20 Feb 22,3,St James,Lauriston,No. 3,Mac Rogers-Wilson,Brody Smith,Mac Rogers-Wilson,6-0,6,0,1,0,Completed,true,false,false
+UA013034,20 Feb 22,3,St James,Lauriston,No. 4,Julia Luo,Hannah Ross-John,Hannah Ross-John,4-6,4,6,0,1,Completed,true,false,false
+UA013041,27 Feb 22,4,Lauriston,Maccabi,No. 1,Elliott Davies,Ari Gordon,Elliott Davies,6-4,6,4,1,0,Completed,true,false,false
+UA013041,27 Feb 22,4,Lauriston,Maccabi,No. 2,Juliet Nazaretian,Gabey Paluch,Juliet Nazaretian,6-0,6,0,1,0,Completed,true,false,false
+UA013041,27 Feb 22,4,Lauriston,Maccabi,No. 3,Brody Smith,Benji Houseman,Benji Houseman,1-6,1,6,0,1,Completed,true,false,true
+UA013041,27 Feb 22,4,Lauriston,Maccabi,No. 4,Hannah Ross-John,Shua Pinson,Hannah Ross-John,6-1,6,1,1,0,Completed,true,false,false
+UA013042,27 Feb 22,4,Elsternwick Park,Hurlingham Park,No. 1,Ori Diamond,Oscar Rey,Ori Diamond,6-4,6,4,1,0,Completed,true,false,false
+UA013042,27 Feb 22,4,Elsternwick Park,Hurlingham Park,No. 2,Charlie Pettifer,Josh Nowell,Josh Nowell,2-6,2,6,0,1,Completed,true,false,false
+UA013042,27 Feb 22,4,Elsternwick Park,Hurlingham Park,No. 3,James Grace,Tomek Foroncewicz,Tomek Foroncewicz,4-6,4,6,0,1,Completed,true,false,false
+UA013042,27 Feb 22,4,Elsternwick Park,Hurlingham Park,No. 4,Rafael Schneider,Renny Thurlow,Renny Thurlow,1-6,1,6,0,1,Completed,true,true,false
+UA013043,27 Feb 22,4,Mentone,Black Rock,No. 1,Wanda Bacskai,Amelie Smith,Wanda Bacskai,6-1,6,1,1,0,Completed,true,false,false
+UA013043,27 Feb 22,4,Mentone,Black Rock,No. 2,Kosta Mavrikos,Adam Martin,Kosta Mavrikos,6-3,6,3,1,0,Completed,true,false,false
+UA013043,27 Feb 22,4,Mentone,Black Rock,No. 3,Robert Proudfoot,Erine Brooke,Robert Proudfoot,6-4,6,4,1,0,Completed,true,false,true
+UA013043,27 Feb 22,4,Mentone,Black Rock,No. 4,Lila Anderson,Gene Malcolm,Gene Malcolm,4-6,4,6,0,1,Completed,true,false,true
+UA013044,27 Feb 22,4,Kings Park,St James,No. 1,Suzanne Shaiil,Emma Stewart,Emma Stewart,1-6,1,6,0,1,Completed,true,false,false
+UA013044,27 Feb 22,4,Kings Park,St James,No. 2,Khushi Kukadiya,Mac Rogers-Wilson,Mac Rogers-Wilson,4-6,4,6,0,1,Completed,true,true,false
+UA013044,27 Feb 22,4,Kings Park,St James,No. 3,Daniel Qin,Ben Lajbcygier,Ben Lajbcygier,5-7,5,7,0,1,Completed,true,true,false
+UA013044,27 Feb 22,4,Kings Park,St James,No. 4,[Unnamed player — TROLS UA013044 home code 4],Julia Luo,Julia Luo,0-6,0,6,0,1,Completed,false,false,false
+UA013051,06 Mar 22,5,Black Rock,St James,No. 1,Amelie Smith,Emma Stewart,Amelie Smith,7-6,7,6,1,0,Completed,true,false,false
+UA013051,06 Mar 22,5,Black Rock,St James,No. 2,Harrison Yang,Mac Rogers-Wilson,Harrison Yang,6-3,6,3,1,0,Completed,true,false,false
+UA013051,06 Mar 22,5,Black Rock,St James,No. 3,Adam Martin,Julia Luo,Adam Martin,6-3,6,3,1,0,Completed,true,false,false
+UA013051,06 Mar 22,5,Black Rock,St James,No. 4,Anna Tweddle,Sophie Stewart,Sophie Stewart,4-6,4,6,0,1,Completed,true,false,true
+UA013052,06 Mar 22,5,Mentone,Elsternwick Park,No. 1,Ray Lai Cheong,Ori Diamond,Ray Lai Cheong,6-3,6,3,1,0,Completed,true,false,false
+UA013052,06 Mar 22,5,Mentone,Elsternwick Park,No. 2,Wanda Bacskai,Charlie Pettifer,Wanda Bacskai,6-0,6,0,1,0,Completed,true,false,false
+UA013052,06 Mar 22,5,Mentone,Elsternwick Park,No. 3,Robert Proudfoot,James Grace,Robert Proudfoot,6-3,6,3,1,0,Completed,true,false,false
+UA013052,06 Mar 22,5,Mentone,Elsternwick Park,No. 4,Lila Anderson,Christian Cunico,Lila Anderson,6-1,6,1,1,0,Completed,true,false,true
+UA013053,06 Mar 22,5,Lauriston,Kings Park,No. 1,Mathew Kwong,Madhav Gokulanathan,Madhav Gokulanathan,3-6,3,6,0,1,Completed,true,false,false
+UA013053,06 Mar 22,5,Lauriston,Kings Park,No. 2,Juliet Nazaretian,Suzanne Shaiil,Juliet Nazaretian,6-2,6,2,1,0,Completed,true,false,false
+UA013053,06 Mar 22,5,Lauriston,Kings Park,No. 3,Brody Smith,Daniel Qin,Daniel Qin,1-6,1,6,0,1,Completed,true,false,true
+UA013053,06 Mar 22,5,Lauriston,Kings Park,No. 4,Hannah Ross-John,Khushi Kukadiya,Hannah Ross-John,7-5,7,5,1,0,Completed,true,false,true
+UA013061,20 Mar 22,6,Hurlingham Park,Black Rock,No. 1,Oscar Rey,Amelie Smith,Oscar Rey,6-4,6,4,1,0,Completed,true,false,false
+UA013061,20 Mar 22,6,Hurlingham Park,Black Rock,No. 2,Josh Nowell,Harrison Yang,Harrison Yang,3-6,3,6,0,1,Completed,true,false,false
+UA013061,20 Mar 22,6,Hurlingham Park,Black Rock,No. 3,Tomek Foroncewicz,Lucy Letham,Tomek Foroncewicz,7-5,7,5,1,0,Completed,true,false,false
+UA013061,20 Mar 22,6,Hurlingham Park,Black Rock,No. 4,Edward Ruckel,Adam Martin,Edward Ruckel,6-0,6,0,1,0,Completed,true,false,false
+UA013062,20 Mar 22,6,St James,Maccabi,No. 1,Mac Rogers-Wilson,Jonah Stowe-Lindner,Mac Rogers-Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA013062,20 Mar 22,6,St James,Maccabi,No. 2,Ben Lajbcygier,Jesse Stowe-Lindner,Jesse Stowe-Lindner,1-6,1,6,0,1,Completed,true,false,false
+UA013062,20 Mar 22,6,St James,Maccabi,No. 3,Julia Luo,Bailey Kawalsky,Bailey Kawalsky,4-6,4,6,0,1,Completed,true,false,false
+UA013062,20 Mar 22,6,St James,Maccabi,No. 4,Jackson Chaponnel,Shua Pinson,Jackson Chaponnel,6-3,6,3,1,0,Completed,true,true,false
+UA013063,20 Mar 22,6,Elsternwick Park,Lauriston,No. 1,Charlie Pettifer,Elliott Davies,Charlie Pettifer,7-5,7,5,1,0,Completed,true,false,false
+UA013063,20 Mar 22,6,Elsternwick Park,Lauriston,No. 2,Elodie Wittenberg,Hannah Ross-John,Elodie Wittenberg,6-4,6,4,1,0,Completed,true,true,false
+UA013063,20 Mar 22,6,Elsternwick Park,Lauriston,No. 3,James Grace,Pranav Swarup,James Grace,6-3,6,3,1,0,Completed,true,false,true
+UA013063,20 Mar 22,6,Elsternwick Park,Lauriston,No. 4,Rafael Schneider,Xavier Misso,Xavier Misso,6-7,6,7,0,1,Completed,true,true,true
+UA013064,20 Mar 22,6,Kings Park,Mentone,No. 1,Madhav Gokulanathan,Lee Moore,Lee Moore,1-6,1,6,0,1,Completed,true,false,false
+UA013064,20 Mar 22,6,Kings Park,Mentone,No. 2,Suzanne Shaiil,Ray Lai Cheong,Ray Lai Cheong,1-6,1,6,0,1,Completed,true,false,false
+UA013064,20 Mar 22,6,Kings Park,Mentone,No. 3,Daniel Qin,Wanda Bacskai,Wanda Bacskai,1-6,1,6,0,1,Completed,true,true,false
+UA013064,20 Mar 22,6,Kings Park,Mentone,No. 4,Khushi Kukadiya,Kosta Mavrikos,Khushi Kukadiya,6-4,6,4,1,0,Completed,true,true,false
+UA013071,27 Mar 22,7,Maccabi,Black Rock,No. 1,Jonah Stowe-Lindner,Harrison Yang,Harrison Yang,2-6,2,6,0,1,Completed,true,false,false
+UA013071,27 Mar 22,7,Maccabi,Black Rock,No. 2,Jesse Stowe-Lindner,Lucy Letham,Jesse Stowe-Lindner,6-0,6,0,1,0,Completed,true,false,false
+UA013071,27 Mar 22,7,Maccabi,Black Rock,No. 3,Bailey Kawalsky,Adam Martin,Bailey Kawalsky,6-4,6,4,1,0,Completed,true,false,false
+UA013071,27 Mar 22,7,Maccabi,Black Rock,No. 4,Gabey Paluch,Christian Desmond,Gabey Paluch,6-3,6,3,1,0,Completed,true,false,true
+UA013072,27 Mar 22,7,Hurlingham Park,St James,No. 1,Oscar Rey,Mac Rogers-Wilson,Mac Rogers-Wilson,3-6,3,6,0,1,Completed,true,false,false
+UA013072,27 Mar 22,7,Hurlingham Park,St James,No. 2,Josh Nowell,Ben Lajbcygier,Josh Nowell,6-0,6,0,1,0,Completed,true,false,false
+UA013072,27 Mar 22,7,Hurlingham Park,St James,No. 3,Renny Thurlow,Julia Luo,Renny Thurlow,6-0,6,0,1,0,Completed,true,false,false
+UA013072,27 Mar 22,7,Hurlingham Park,St James,No. 4,Isshin McLean,Jackson Chaponnel,Isshin McLean,6-2,6,2,1,0,Completed,true,false,true
+UA013073,27 Mar 22,7,Mentone,Lauriston,No. 1,Lee Moore,Elliott Davies,Lee Moore,6-2,6,2,1,0,Completed,true,false,false
+UA013073,27 Mar 22,7,Mentone,Lauriston,No. 2,Kosta Mavrikos,Juliet Nazaretian,Juliet Nazaretian,4-6,4,6,0,1,Completed,true,false,false
+UA013073,27 Mar 22,7,Mentone,Lauriston,No. 3,Wanda Bacskai,Hannah Ross-John,Hannah Ross-John,0-6,0,6,0,1,Completed,true,false,false
+UA013073,27 Mar 22,7,Mentone,Lauriston,No. 4,Lila Anderson,Xavier Misso,Xavier Misso,2-6,2,6,0,1,Completed,true,false,true
+UA013074,27 Mar 22,7,Elsternwick Park,Kings Park,No. 1,Ori Diamond,Kokoro Bremmell,Ori Diamond,6-4,6,4,1,0,Completed,true,false,true
+UA013074,27 Mar 22,7,Elsternwick Park,Kings Park,No. 2,Charlie Pettifer,Suzanne Shaiil,Charlie Pettifer,6-4,6,4,1,0,Completed,true,false,false
+UA013074,27 Mar 22,7,Elsternwick Park,Kings Park,No. 3,James Grace,Daniel Qin,James Grace,6-2,6,2,1,0,Completed,true,false,true
+UA013074,27 Mar 22,7,Elsternwick Park,Kings Park,No. 4,Christian Cunico,Khushi Kukadiya,Christian Cunico,6-0,6,0,1,0,Completed,true,true,true
+UA013081,03 Apr 22,8,Kings Park,Maccabi,No. 1,Kokoro Bremmell,Ari Gordon,Kokoro Bremmell,6-1,6,1,1,0,Completed,true,true,false
+UA013081,03 Apr 22,8,Kings Park,Maccabi,No. 2,Suzanne Shaiil,Gabey Paluch,Suzanne Shaiil,7-6,7,6,1,0,Completed,true,false,false
+UA013081,03 Apr 22,8,Kings Park,Maccabi,No. 3,Daniel Qin,Bailey Kawalsky,Daniel Qin,6-0,6,0,1,0,Completed,true,true,false
+UA013081,03 Apr 22,8,Kings Park,Maccabi,No. 4,U-Zin Goh,Shua Pinson,U-Zin Goh,6-2,6,2,1,0,Completed,true,true,false
+UA013082,03 Apr 22,8,Lauriston,Hurlingham Park,No. 1,Elliott Davies,Josh Nowell,Josh Nowell,4-6,4,6,0,1,Completed,true,false,false
+UA013082,03 Apr 22,8,Lauriston,Hurlingham Park,No. 2,Juliet Nazaretian,Tomek Foroncewicz,Juliet Nazaretian,6-2,6,2,1,0,Completed,true,false,false
+UA013082,03 Apr 22,8,Lauriston,Hurlingham Park,No. 3,Brody Smith,Edward Ruckel,Edward Ruckel,0-6,0,6,0,1,Completed,true,false,false
+UA013082,03 Apr 22,8,Lauriston,Hurlingham Park,No. 4,Hannah Ross-John,Renny Thurlow,Renny Thurlow,2-6,2,6,0,1,Completed,true,false,false
+UA013083,03 Apr 22,8,Elsternwick Park,Black Rock,No. 1,[Unnamed player — TROLS UA013083 home code 1],Harrison Yang,Harrison Yang,0-6,0,6,0,1,Completed,false,false,false
+UA013083,03 Apr 22,8,Elsternwick Park,Black Rock,No. 2,Charlie Pettifer,Lucy Letham,Charlie Pettifer,6-4,6,4,1,0,Completed,true,false,false
+UA013083,03 Apr 22,8,Elsternwick Park,Black Rock,No. 3,James Grace,Anna Tweddle,James Grace,6-2,6,2,1,0,Completed,true,false,false
+UA013083,03 Apr 22,8,Elsternwick Park,Black Rock,No. 4,Rafael Schneider,Zara Kiley,Rafael Schneider,6-0,6,0,1,0,Completed,true,true,true
+UA013084,03 Apr 22,8,Mentone,St James,No. 1,Lee Moore,Emma Stewart,Lee Moore,7-6,7,6,1,0,Completed,true,false,false
+UA013084,03 Apr 22,8,Mentone,St James,No. 2,Wanda Bacskai,Mac Rogers-Wilson,Wanda Bacskai,6-2,6,2,1,0,Completed,true,false,false
+UA013084,03 Apr 22,8,Mentone,St James,No. 3,Robert Proudfoot,Julia Luo,Robert Proudfoot,6-2,6,2,1,0,Completed,true,false,false
+UA013084,03 Apr 22,8,Mentone,St James,No. 4,Lila Anderson,Sophie Stewart,Lila Anderson,6-3,6,3,1,0,Completed,true,false,true
+UA013091,01 May 22,9,Maccabi,Mentone,No. 1,Jonah Stowe-Lindner,Lee Moore,Jonah Stowe-Lindner,7-6,7,6,1,0,Completed,true,false,false
+UA013091,01 May 22,9,Maccabi,Mentone,No. 2,Jesse Stowe-Lindner,Ray Lai Cheong,Ray Lai Cheong,3-6,3,6,0,1,Completed,true,false,false
+UA013091,01 May 22,9,Maccabi,Mentone,No. 3,Ari Gordon,Wanda Bacskai,Wanda Bacskai,1-6,1,6,0,1,Completed,true,false,false
+UA013091,01 May 22,9,Maccabi,Mentone,No. 4,Gabey Paluch,Kosta Mavrikos,Gabey Paluch,6-2,6,2,1,0,Completed,true,false,false
+UA013093,01 May 22,9,Black Rock,Lauriston,No. 1,Amelie Smith,Mathew Kwong,Amelie Smith,6-3,6,3,1,0,Completed,true,false,false
+UA013093,01 May 22,9,Black Rock,Lauriston,No. 2,Harrison Yang,Juliet Nazaretian,Juliet Nazaretian,2-6,2,6,0,1,Completed,true,false,false
+UA013093,01 May 22,9,Black Rock,Lauriston,No. 3,Lucy Letham,Brody Smith,Lucy Letham,6-0,6,0,1,0,Completed,true,false,false
+UA013093,01 May 22,9,Black Rock,Lauriston,No. 4,Adam Martin,Hannah Ross-John,Hannah Ross-John,3-6,3,6,0,1,Completed,true,false,false
+UA013101,08 May 22,10,Elsternwick Park,Maccabi,No. 1,Ori Diamond,Jonah Stowe-Lindner,Jonah Stowe-Lindner,3-6,3,6,0,1,Completed,true,false,false
+UA013101,08 May 22,10,Elsternwick Park,Maccabi,No. 2,James Grace,Bailey Kawalsky,James Grace,6-3,6,3,1,0,Completed,true,false,false
+UA013101,08 May 22,10,Elsternwick Park,Maccabi,No. 3,Rafael Schneider,Ari Gordon,Rafael Schneider,6-4,6,4,1,0,Completed,true,true,false
+UA013101,08 May 22,10,Elsternwick Park,Maccabi,No. 4,Hanbo Zhang,Gabey Paluch,Hanbo Zhang,6-3,6,3,1,0,Completed,true,true,false
+UA013102,08 May 22,10,Mentone,Hurlingham Park,No. 1,Lee Moore,Josh Nowell,Josh Nowell,3-6,3,6,0,1,Completed,true,false,false
+UA013102,08 May 22,10,Mentone,Hurlingham Park,No. 2,Wanda Bacskai,Edward Ruckel,Edward Ruckel,6-7,6,7,0,1,Completed,true,false,false
+UA013102,08 May 22,10,Mentone,Hurlingham Park,No. 3,Robert Proudfoot,Renny Thurlow,Renny Thurlow,4-6,4,6,0,1,Completed,true,false,false
+UA013102,08 May 22,10,Mentone,Hurlingham Park,No. 4,Lila Anderson,Isshin McLean,Isshin McLean,3-6,3,6,0,1,Completed,true,false,false
+UA013103,08 May 22,10,Kings Park,Black Rock,No. 1,[Unnamed player — TROLS UA013103 home code 1],Amelie Smith,Amelie Smith,0-6,0,6,0,1,Completed,false,false,false
+UA013103,08 May 22,10,Kings Park,Black Rock,No. 2,[Unnamed player — TROLS UA013103 home code 2],Harrison Yang,Harrison Yang,0-6,0,6,0,1,Completed,false,false,false
+UA013103,08 May 22,10,Kings Park,Black Rock,No. 3,Daniel Qin,Lucy Letham,Lucy Letham,0-6,0,6,0,1,Completed,true,true,false
+UA013103,08 May 22,10,Kings Park,Black Rock,No. 4,U-Zin Goh,Javi Munnik,U-Zin Goh,6-2,6,2,1,0,Completed,true,true,true
+UA013104,08 May 22,10,Lauriston,St James,No. 1,Elliott Davies,Emma Stewart,Elliott Davies,6-2,6,2,1,0,Completed,true,false,false
+UA013104,08 May 22,10,Lauriston,St James,No. 2,Juliet Nazaretian,Ben Lajbcygier,Juliet Nazaretian,6-2,6,2,1,0,Completed,true,false,false
+UA013104,08 May 22,10,Lauriston,St James,No. 3,Mathew Kwong,Mac Rogers-Wilson,Mathew Kwong,6-0,6,0,1,0,Completed,true,false,false
+UA013104,08 May 22,10,Lauriston,St James,No. 4,Brody Smith,Sophie Stewart,Brody Smith,6-2,6,2,1,0,Completed,true,false,true
+UA013111,15 May 22,11,Maccabi,Lauriston,No. 1,Jonah Stowe-Lindner,Juliet Nazaretian,Juliet Nazaretian,6-7,6,7,0,1,Completed,true,false,false
+UA013111,15 May 22,11,Maccabi,Lauriston,No. 2,Jesse Stowe-Lindner,Mathew Kwong,Jesse Stowe-Lindner,6-2,6,2,1,0,Completed,true,false,false
+UA013111,15 May 22,11,Maccabi,Lauriston,No. 3,Bailey Kawalsky,Hannah Ross-John,Bailey Kawalsky,6-2,6,2,1,0,Completed,true,false,false
+UA013111,15 May 22,11,Maccabi,Lauriston,No. 4,Gabey Paluch,Chris Wang,Gabey Paluch,6-1,6,1,1,0,Completed,true,false,true
+UA013112,15 May 22,11,Hurlingham Park,Elsternwick Park,No. 1,Oscar Rey,Ori Diamond,Oscar Rey,6-3,6,3,1,0,Completed,true,false,false
+UA013112,15 May 22,11,Hurlingham Park,Elsternwick Park,No. 2,Tomek Foroncewicz,Charlie Pettifer,Charlie Pettifer,3-6,3,6,0,1,Completed,true,false,false
+UA013112,15 May 22,11,Hurlingham Park,Elsternwick Park,No. 3,Edward Ruckel,James Grace,Edward Ruckel,6-4,6,4,1,0,Completed,true,false,false
+UA013112,15 May 22,11,Hurlingham Park,Elsternwick Park,No. 4,Renny Thurlow,Rafael Schneider,Renny Thurlow,6-1,6,1,1,0,Completed,true,false,true
+UA013113,15 May 22,11,Black Rock,Mentone,No. 1,Amelie Smith,Lee Moore,Amelie Smith,6-3,6,3,1,0,Completed,true,false,false
+UA013113,15 May 22,11,Black Rock,Mentone,No. 2,Harrison Yang,Kosta Mavrikos,Harrison Yang,6-2,6,2,1,0,Completed,true,false,false
+UA013113,15 May 22,11,Black Rock,Mentone,No. 3,Lucy Letham,Robert Proudfoot,Lucy Letham,6-3,6,3,1,0,Completed,true,false,false
+UA013113,15 May 22,11,Black Rock,Mentone,No. 4,Adam Martin,Lila Anderson,Lila Anderson,0-6,0,6,0,1,Completed,true,false,false
+UA013114,15 May 22,11,St James,Kings Park,No. 1,Emma Stewart,Suzanne Shaiil,Emma Stewart,6-1,6,1,1,0,Completed,true,false,false
+UA013114,15 May 22,11,St James,Kings Park,No. 2,Mac Rogers-Wilson,U-Zin Goh,Mac Rogers-Wilson,6-2,6,2,1,0,Completed,true,false,true
+UA013114,15 May 22,11,St James,Kings Park,No. 3,Ben Lajbcygier,Daniel Qin,Ben Lajbcygier,6-0,6,0,1,0,Completed,true,false,true
+UA013114,15 May 22,11,St James,Kings Park,No. 4,Julia Luo,Khushi Kukadiya,Khushi Kukadiya,2-6,2,6,0,1,Completed,true,false,true
+UA013121,22 May 22,12,St James,Black Rock,No. 1,Emma Stewart,Amelie Smith,Amelie Smith,4-6,4,6,0,1,Completed,true,false,false
+UA013121,22 May 22,12,St James,Black Rock,No. 2,Mac Rogers-Wilson,Harrison Yang,Mac Rogers-Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA013121,22 May 22,12,St James,Black Rock,No. 3,Julia Luo,Lucy Letham,Lucy Letham,3-6,3,6,0,1,Completed,true,false,false
+UA013121,22 May 22,12,St James,Black Rock,No. 4,Sophie Stewart,Adam Martin,Adam Martin,2-6,2,6,0,1,Completed,true,true,false
+UA013122,22 May 22,12,Elsternwick Park,Mentone,No. 1,Ori Diamond,Wanda Bacskai,Wanda Bacskai,2-6,2,6,0,1,Completed,true,false,false
+UA013122,22 May 22,12,Elsternwick Park,Mentone,No. 2,Charlie Pettifer,Kosta Mavrikos,Charlie Pettifer,6-2,6,2,1,0,Completed,true,false,false
+UA013122,22 May 22,12,Elsternwick Park,Mentone,No. 3,James Grace,Robert Proudfoot,James Grace,6-4,6,4,1,0,Completed,true,false,false
+UA013122,22 May 22,12,Elsternwick Park,Mentone,No. 4,Rafael Schneider,Lila Anderson,Rafael Schneider,6-2,6,2,1,0,Completed,true,true,false
+UA013123,22 May 22,12,Kings Park,Lauriston,No. 1,Kokoro Bremmell,Elliott Davies,Kokoro Bremmell,6-1,6,1,1,0,Completed,true,true,false
+UA013123,22 May 22,12,Kings Park,Lauriston,No. 2,Suzanne Shaiil,Juliet Nazaretian,Juliet Nazaretian,4-6,4,6,0,1,Completed,true,false,false
+UA013123,22 May 22,12,Kings Park,Lauriston,No. 3,Daniel Qin,Mathew Kwong,Mathew Kwong,4-6,4,6,0,1,Completed,true,true,false
+UA013123,22 May 22,12,Kings Park,Lauriston,No. 4,Khushi Kukadiya,Hannah Ross-John,Hannah Ross-John,6-7,6,7,0,1,Completed,true,true,false
+UA013124,22 May 22,12,Hurlingham Park,Maccabi,No. 1,Oscar Rey,Jesse Stowe-Lindner,Jesse Stowe-Lindner,1-6,1,6,0,1,Completed,true,false,false
+UA013124,22 May 22,12,Hurlingham Park,Maccabi,No. 2,Tomek Foroncewicz,Bailey Kawalsky,Tomek Foroncewicz,6-1,6,1,1,0,Completed,true,false,false
+UA013124,22 May 22,12,Hurlingham Park,Maccabi,No. 3,Edward Ruckel,Gabey Paluch,Edward Ruckel,6-2,6,2,1,0,Completed,true,false,false
+UA013124,22 May 22,12,Hurlingham Park,Maccabi,No. 4,Isshin McLean,Shua Pinson,Isshin McLean,6-0,6,0,1,0,Completed,true,false,false
+UA013131,29 May 22,13,Black Rock,Hurlingham Park,No. 1,Amelie Smith,Josh Nowell,Josh Nowell,4-6,4,6,0,1,Completed,true,false,false
+UA013131,29 May 22,13,Black Rock,Hurlingham Park,No. 2,Harrison Yang,Tomek Foroncewicz,Harrison Yang,6-2,6,2,1,0,Completed,true,false,false
+UA013131,29 May 22,13,Black Rock,Hurlingham Park,No. 3,Lucy Letham,Renny Thurlow,Renny Thurlow,5-7,5,7,0,1,Completed,true,false,false
+UA013131,29 May 22,13,Black Rock,Hurlingham Park,No. 4,Anna Tweddle,Isshin McLean,Isshin McLean,3-6,3,6,0,1,Completed,true,false,false
+UA013132,29 May 22,13,Maccabi,St James,No. 1,Jonah Stowe-Lindner,Emma Stewart,Jonah Stowe-Lindner,6-1,6,1,1,0,Completed,true,false,false
+UA013132,29 May 22,13,Maccabi,St James,No. 2,Jesse Stowe-Lindner,Mac Rogers-Wilson,Jesse Stowe-Lindner,6-3,6,3,1,0,Completed,true,false,false
+UA013132,29 May 22,13,Maccabi,St James,No. 3,Ari Gordon,Ben Lajbcygier,Ari Gordon,6-2,6,2,1,0,Completed,true,false,false
+UA013132,29 May 22,13,Maccabi,St James,No. 4,Gabey Paluch,Sophie Stewart,Gabey Paluch,6-3,6,3,1,0,Completed,true,false,true
+UA013133,29 May 22,13,Lauriston,Elsternwick Park,No. 1,Elliott Davies,Ori Diamond,Ori Diamond,5-7,5,7,0,1,Completed,true,false,false
+UA013133,29 May 22,13,Lauriston,Elsternwick Park,No. 2,Mathew Kwong,Charlie Pettifer,Mathew Kwong,7-6,7,6,1,0,Completed,true,false,false
+UA013133,29 May 22,13,Lauriston,Elsternwick Park,No. 3,Hannah Ross-John,James Grace,James Grace,1-6,1,6,0,1,Completed,true,false,false
+UA013133,29 May 22,13,Lauriston,Elsternwick Park,No. 4,Brody Smith,Rafael Schneider,Rafael Schneider,0-6,0,6,0,1,Completed,true,false,true
+UA013134,29 May 22,13,Mentone,Kings Park,No. 1,Lee Moore,Suzanne Shaiil,Lee Moore,6-3,6,3,1,0,Completed,true,false,false
+UA013134,29 May 22,13,Mentone,Kings Park,No. 2,Wanda Bacskai,U-Zin Goh,Wanda Bacskai,6-1,6,1,1,0,Completed,true,false,true
+UA013134,29 May 22,13,Mentone,Kings Park,No. 3,Kosta Mavrikos,Daniel Qin,Kosta Mavrikos,6-0,6,0,1,0,Completed,true,false,true
+UA013134,29 May 22,13,Mentone,Kings Park,No. 4,Robert Proudfoot,Khushi Kukadiya,Robert Proudfoot,6-0,6,0,1,0,Completed,true,false,true
+UA013301,,16,Hurlingham Park,Maccabi,No. 1,Oscar Rey,Jonah Stowe-Lindner,Oscar Rey,6-4,6,4,1,0,Completed,true,false,false
+UA013301,,16,Hurlingham Park,Maccabi,No. 2,Tomek Foroncewicz,Jesse Stowe-Lindner,Jesse Stowe-Lindner,2-6,2,6,0,1,Completed,true,false,false
+UA013301,,16,Hurlingham Park,Maccabi,No. 3,Edward Ruckel,Ari Gordon,Edward Ruckel,6-0,6,0,1,0,Completed,true,false,false
+UA013301,,16,Hurlingham Park,Maccabi,No. 4,Renny Thurlow,Gabey Paluch,Gabey Paluch,4-6,4,6,0,1,Completed,true,false,false
+UA013302,,16,Mentone,Black Rock,No. 1,Lee Moore,Amelie Smith,Lee Moore,6-2,6,2,1,0,Completed,true,false,false
+UA013302,,16,Mentone,Black Rock,No. 2,Wanda Bacskai,Harrison Yang,Wanda Bacskai,5-1,5,1,1,0,Completed,true,false,false
+UA013302,,16,Mentone,Black Rock,No. 3,Kosta Mavrikos,Lucy Letham,Lucy Letham,2-6,2,6,0,1,Completed,true,false,false
+UA013302,,16,Mentone,Black Rock,No. 4,Robert Proudfoot,Anna Tweddle,Robert Proudfoot,6-4,6,4,1,0,Completed,true,false,false
+UA013321,,17,Hurlingham Park,Mentone,No. 1,Josh Nowell,Lee Moore,Lee Moore,3-6,3,6,0,1,Completed,true,false,false
+UA013321,,17,Hurlingham Park,Mentone,No. 2,Edward Ruckel,Wanda Bacskai,Edward Ruckel,6-2,6,2,1,0,Completed,true,false,false
+UA013321,,17,Hurlingham Park,Mentone,No. 3,Renny Thurlow,Kosta Mavrikos,Renny Thurlow,6-4,6,4,1,0,Completed,true,false,false
+UA013321,,17,Hurlingham Park,Mentone,No. 4,Isshin McLean,Lila Anderson,Isshin McLean,6-4,6,4,1,0,Completed,true,false,false

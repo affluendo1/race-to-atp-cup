@@ -1,0 +1,237 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA001011,19 Jul 15,1,Mordialloc,Beaumaris CC,No. 1,Curtis Burge,Cameron Clarke,Cameron Clarke,2-6,2,6,0,1,Completed,true,false,false
+UA001011,19 Jul 15,1,Mordialloc,Beaumaris CC,No. 2,Sahishnu Siva-Ram,Andrew Todd,Sahishnu Siva-Ram,6-3,6,3,1,0,Completed,true,false,false
+UA001011,19 Jul 15,1,Mordialloc,Beaumaris CC,No. 3,Matt Ballas,Holly Schlatter,Holly Schlatter,2-6,2,6,0,1,Completed,true,false,false
+UA001011,19 Jul 15,1,Mordialloc,Beaumaris CC,No. 4,Matt Lannan,Michael Todd,Matt Lannan,6-1,6,1,1,0,Completed,true,false,false
+UA001012,19 Jul 15,1,Dendy Park,GPHC,No. 1,Matthew Gatti,Jack Chelotti,Matthew Gatti,6-0,6,0,1,0,Completed,true,false,false
+UA001012,19 Jul 15,1,Dendy Park,GPHC,No. 2,Theodore Vlamis,Nick Leach,Nick Leach,4-6,4,6,0,1,Completed,true,false,false
+UA001012,19 Jul 15,1,Dendy Park,GPHC,No. 3,Tom Dubbeld,James Roach,James Roach,4-6,4,6,0,1,Completed,true,false,false
+UA001012,19 Jul 15,1,Dendy Park,GPHC,No. 4,William McLorinan,Max Double,William McLorinan,7-5,7,5,1,0,Completed,true,false,false
+UA001013,19 Jul 15,1,Kooyong 1,Kooyong 2,No. 1,Charlie Geason,Zac Stathis,Zac Stathis,2-6,2,6,0,1,Completed,true,false,false
+UA001013,19 Jul 15,1,Kooyong 1,Kooyong 2,No. 2,Hamish McIlroy,Damon Bernard,Damon Bernard,1-6,1,6,0,1,Completed,true,false,false
+UA001013,19 Jul 15,1,Kooyong 1,Kooyong 2,No. 3,Thomas Gilbert,Kristofer Hyde,Thomas Gilbert,6-1,6,1,1,0,Completed,true,false,false
+UA001013,19 Jul 15,1,Kooyong 1,Kooyong 2,No. 4,Harry Gell,Andrew Harris,Andrew Harris,4-6,4,6,0,1,Completed,true,false,false
+UA001014,19 Jul 15,1,Highmoor Uniting,Lauriston,No. 1,Matt Krstic,Basile Nock,Basile Nock,1-6,1,6,0,1,Completed,true,false,false
+UA001014,19 Jul 15,1,Highmoor Uniting,Lauriston,No. 2,Oliver Shepard,Evan Polydroulos,Evan Polydroulos,0-6,0,6,0,1,Completed,true,false,false
+UA001014,19 Jul 15,1,Highmoor Uniting,Lauriston,No. 3,James Stynes,Nicholas Grandison,James Stynes,7-5,7,5,1,0,Completed,true,false,false
+UA001014,19 Jul 15,1,Highmoor Uniting,Lauriston,No. 4,Calum Ireland,Katerina Georgopolous,Calum Ireland,6-0,6,0,1,0,Completed,true,false,false
+UA001021,26 Jul 15,2,Lauriston,Mordialloc,No. 1,Basile Nock,Curtis Burge,Curtis Burge,2-6,2,6,0,1,Completed,true,false,false
+UA001021,26 Jul 15,2,Lauriston,Mordialloc,No. 2,Evan Polydroulos,Sahishnu Siva-Ram,Evan Polydroulos,6-3,6,3,1,0,Completed,true,false,false
+UA001021,26 Jul 15,2,Lauriston,Mordialloc,No. 3,Nicholas Grandison,Matt Ballas,Matt Ballas,5-7,5,7,0,1,Completed,true,false,false
+UA001021,26 Jul 15,2,Lauriston,Mordialloc,No. 4,Katerina Georgopolous,Matt Lannan,Matt Lannan,0-6,0,6,0,1,Completed,true,false,false
+UA001022,26 Jul 15,2,Beaumaris CC,Dendy Park,No. 1,Cameron Clarke,Matthew Gatti,Matthew Gatti,0-6,0,6,0,1,Completed,true,false,false
+UA001022,26 Jul 15,2,Beaumaris CC,Dendy Park,No. 2,Holly Schlatter,Theodore Vlamis,Theodore Vlamis,2-6,2,6,0,1,Completed,true,false,false
+UA001022,26 Jul 15,2,Beaumaris CC,Dendy Park,No. 3,Ben Pease,Tom Dubbeld,Ben Pease,6-0,6,0,1,0,Completed,true,false,false
+UA001022,26 Jul 15,2,Beaumaris CC,Dendy Park,No. 4,Michael Todd,Sam Bennoun,Michael Todd,6-3,6,3,1,0,Completed,true,false,false
+UA001023,26 Jul 15,2,GPHC,Kooyong 1,No. 1,Jack Chelotti,Charlie Geason,Charlie Geason,3-6,3,6,0,1,Completed,true,false,false
+UA001023,26 Jul 15,2,GPHC,Kooyong 1,No. 2,Nick Leach,Hamish McIlroy,Nick Leach,7-6,7,6,1,0,Completed,true,false,false
+UA001023,26 Jul 15,2,GPHC,Kooyong 1,No. 3,James Roach,Thomas Gilbert,James Roach,6-0,6,0,1,0,Completed,true,false,false
+UA001023,26 Jul 15,2,GPHC,Kooyong 1,No. 4,Oliver McIntosh,Coco Swansson,Oliver McIntosh,6-4,6,4,1,0,Completed,true,false,false
+UA001024,26 Jul 15,2,Kooyong 2,Highmoor Uniting,No. 1,Zac Stathis,[Unnamed player — TROLS UA001024 away code 1],Zac Stathis,6-0,6,0,1,0,Completed,false,false,false
+UA001024,26 Jul 15,2,Kooyong 2,Highmoor Uniting,No. 2,Damon Bernard,Oliver Shepard,Damon Bernard,6-3,6,3,1,0,Completed,true,false,false
+UA001024,26 Jul 15,2,Kooyong 2,Highmoor Uniting,No. 3,Kristofer Hyde,James Stynes,Kristofer Hyde,6-2,6,2,1,0,Completed,true,false,false
+UA001024,26 Jul 15,2,Kooyong 2,Highmoor Uniting,No. 4,Andrew Harris,Calum Ireland,Andrew Harris,6-1,6,1,1,0,Completed,true,false,false
+UA001031,02 Aug 15,3,Mordialloc,Kooyong 2,No. 1,Curtis Burge,Zac Stathis,Zac Stathis,0-6,0,6,0,1,Completed,true,false,false
+UA001031,02 Aug 15,3,Mordialloc,Kooyong 2,No. 2,Sahishnu Siva-Ram,Damon Bernard,Sahishnu Siva-Ram,6-4,6,4,1,0,Completed,true,false,false
+UA001031,02 Aug 15,3,Mordialloc,Kooyong 2,No. 3,Chelsea Dutt,Kristofer Hyde,Chelsea Dutt,6-4,6,4,1,0,Completed,true,false,false
+UA001031,02 Aug 15,3,Mordialloc,Kooyong 2,No. 4,Matt Ballas,Andrew Harris,Andrew Harris,4-6,4,6,0,1,Completed,true,false,false
+UA001032,02 Aug 15,3,Dendy Park,Lauriston,No. 1,Theodore Vlamis,Matthew Marguglio,Theodore Vlamis,6-1,6,1,1,0,Completed,true,false,false
+UA001032,02 Aug 15,3,Dendy Park,Lauriston,No. 2,Tom Dubbeld,Evan Polydroulos,Tom Dubbeld,7-6,7,6,1,0,Completed,true,false,false
+UA001032,02 Aug 15,3,Dendy Park,Lauriston,No. 3,William McLorinan,Nicholas Grandison,Nicholas Grandison,3-6,3,6,0,1,Completed,true,false,false
+UA001032,02 Aug 15,3,Dendy Park,Lauriston,No. 4,Dean Metter,Katerina Georgopolous,Dean Metter,6-1,6,1,1,0,Completed,true,false,false
+UA001033,02 Aug 15,3,Kooyong 1,Beaumaris CC,No. 1,Max Flaherty,Andrew Todd,Max Flaherty,6-1,6,1,1,0,Completed,true,false,false
+UA001033,02 Aug 15,3,Kooyong 1,Beaumaris CC,No. 2,Thomas Gilbert,Michael Puli,Michael Puli,3-6,3,6,0,1,Completed,true,false,false
+UA001033,02 Aug 15,3,Kooyong 1,Beaumaris CC,No. 3,Coco Swansson,Ben Pease,Ben Pease,2-6,2,6,0,1,Completed,true,false,false
+UA001033,02 Aug 15,3,Kooyong 1,Beaumaris CC,No. 4,Sara Aprile,Michael Todd,Michael Todd,4-6,4,6,0,1,Completed,true,false,false
+UA001034,02 Aug 15,3,Highmoor Uniting,GPHC,No. 1,Matt Krstic,Jack Chelotti,Jack Chelotti,1-6,1,6,0,1,Completed,true,false,false
+UA001034,02 Aug 15,3,Highmoor Uniting,GPHC,No. 2,Oliver Shepard,Nick Leach,Nick Leach,2-6,2,6,0,1,Completed,true,false,false
+UA001034,02 Aug 15,3,Highmoor Uniting,GPHC,No. 3,James Stynes,Charlie Zagon-Davies,Charlie Zagon-Davies,5-7,5,7,0,1,Completed,true,false,false
+UA001034,02 Aug 15,3,Highmoor Uniting,GPHC,No. 4,Calum Ireland,Max Double,Max Double,2-6,2,6,0,1,Completed,true,false,false
+UA001041,09 Aug 15,4,GPHC,Mordialloc,No. 1,Nick Leach,Sahishnu Siva-Ram,Sahishnu Siva-Ram,3-6,3,6,0,1,Completed,true,false,false
+UA001041,09 Aug 15,4,GPHC,Mordialloc,No. 2,James Roach,Chelsea Dutt,Chelsea Dutt,3-6,3,6,0,1,Completed,true,false,false
+UA001041,09 Aug 15,4,GPHC,Mordialloc,No. 3,Max Double,Matt Ballas,Max Double,6-4,6,4,1,0,Completed,true,false,false
+UA001041,09 Aug 15,4,GPHC,Mordialloc,No. 4,Oliver McIntosh,Mitch Pattison,Oliver McIntosh,6-3,6,3,1,0,Completed,true,false,false
+UA001042,09 Aug 15,4,Kooyong 2,Dendy Park,No. 1,Zac Stathis,Matthew Gatti,Zac Stathis,6-0,6,0,1,0,Completed,true,false,false
+UA001042,09 Aug 15,4,Kooyong 2,Dendy Park,No. 2,Damon Bernard,Tom Dubbeld,Damon Bernard,6-4,6,4,1,0,Completed,true,false,false
+UA001042,09 Aug 15,4,Kooyong 2,Dendy Park,No. 3,Kristofer Hyde,Sam Bennoun,Kristofer Hyde,6-1,6,1,1,0,Completed,true,false,false
+UA001042,09 Aug 15,4,Kooyong 2,Dendy Park,No. 4,Andrew Harris,Dean Metter,Andrew Harris,6-4,6,4,1,0,Completed,true,false,false
+UA001043,09 Aug 15,4,Lauriston,Kooyong 1,No. 1,Basile Nock,Charlie Geason,Charlie Geason,2-6,2,6,0,1,Completed,true,false,false
+UA001043,09 Aug 15,4,Lauriston,Kooyong 1,No. 2,Matthew Marguglio,Lachlan McAndrew,Lachlan McAndrew,4-6,4,6,0,1,Completed,true,false,false
+UA001043,09 Aug 15,4,Lauriston,Kooyong 1,No. 3,Nicholas Grandison,Harry Gell,Harry Gell,1-6,1,6,0,1,Completed,true,false,false
+UA001043,09 Aug 15,4,Lauriston,Kooyong 1,No. 4,Katerina Georgopolous,Andrew Argyrou,Andrew Argyrou,4-6,4,6,0,1,Completed,true,false,false
+UA001044,09 Aug 15,4,Beaumaris CC,Highmoor Uniting,No. 1,Andrew Todd,Matt Krstic,Andrew Todd,6-4,6,4,1,0,Completed,true,false,false
+UA001044,09 Aug 15,4,Beaumaris CC,Highmoor Uniting,No. 2,Holly Schlatter,Oliver Shepard,Holly Schlatter,6-4,6,4,1,0,Completed,true,false,false
+UA001044,09 Aug 15,4,Beaumaris CC,Highmoor Uniting,No. 3,Ben Pease,James Stynes,Ben Pease,6-3,6,3,1,0,Completed,true,false,false
+UA001044,09 Aug 15,4,Beaumaris CC,Highmoor Uniting,No. 4,Michael Todd,Calum Ireland,Michael Todd,6-3,6,3,1,0,Completed,true,false,false
+UA001051,16 Aug 15,5,Kooyong 1,Highmoor Uniting,No. 1,Max Potter,Matt Krstic,Max Potter,6-4,6,4,1,0,Completed,true,false,false
+UA001051,16 Aug 15,5,Kooyong 1,Highmoor Uniting,No. 2,Hamish McIlroy,Oliver Shepard,Hamish McIlroy,6-3,6,3,1,0,Completed,true,false,false
+UA001051,16 Aug 15,5,Kooyong 1,Highmoor Uniting,No. 3,Coco Swansson,James Stynes,Coco Swansson,7-6,7,6,1,0,Completed,true,false,false
+UA001051,16 Aug 15,5,Kooyong 1,Highmoor Uniting,No. 4,Harry Gell,Calum Ireland,Calum Ireland,0-6,0,6,0,1,Completed,true,false,false
+UA001052,16 Aug 15,5,Lauriston,Kooyong 2,No. 1,Basile Nock,Damon Bernard,Damon Bernard,1-6,1,6,0,1,Completed,true,false,false
+UA001052,16 Aug 15,5,Lauriston,Kooyong 2,No. 2,Evan Polydroulos,Kristofer Hyde,Evan Polydroulos,7-5,7,5,1,0,Completed,true,false,false
+UA001052,16 Aug 15,5,Lauriston,Kooyong 2,No. 3,Nicholas Grandison,Andrew Harris,Andrew Harris,6-7,6,7,0,1,Completed,true,false,false
+UA001052,16 Aug 15,5,Lauriston,Kooyong 2,No. 4,Katerina Georgopolous,Simon Savage,Simon Savage,1-6,1,6,0,1,Completed,true,false,false
+UA001053,16 Aug 15,5,GPHC,Beaumaris CC,No. 1,Jack Chelotti,Cameron Clarke,Cameron Clarke,4-6,4,6,0,1,Completed,true,false,false
+UA001053,16 Aug 15,5,GPHC,Beaumaris CC,No. 2,James Roach,Michael Puli,Michael Puli,3-6,3,6,0,1,Completed,true,false,false
+UA001053,16 Aug 15,5,GPHC,Beaumaris CC,No. 3,Max Double,Holly Schlatter,Holly Schlatter,5-7,5,7,0,1,Completed,true,false,false
+UA001053,16 Aug 15,5,GPHC,Beaumaris CC,No. 4,Oliver McIntosh,Ben Pease,Ben Pease,0-6,0,6,0,1,Completed,true,false,false
+UA001054,16 Aug 15,5,Mordialloc,Dendy Park,No. 1,Curtis Burge,Matthew Gatti,Matthew Gatti,4-6,4,6,0,1,Completed,true,false,false
+UA001054,16 Aug 15,5,Mordialloc,Dendy Park,No. 2,Sahishnu Siva-Ram,Theodore Vlamis,Sahishnu Siva-Ram,7-5,7,5,1,0,Completed,true,false,false
+UA001054,16 Aug 15,5,Mordialloc,Dendy Park,No. 3,Chelsea Dutt,Sam Bennoun,Sam Bennoun,3-6,3,6,0,1,Completed,true,false,false
+UA001054,16 Aug 15,5,Mordialloc,Dendy Park,No. 4,Matt Ballas,William McLorinan,William McLorinan,5-7,5,7,0,1,Completed,true,false,false
+UA001061,23 Aug 15,6,Dendy Park,Kooyong 1,No. 1,Theodore Vlamis,Charlie Geason,Theodore Vlamis,6-0,6,0,1,0,Completed,true,false,false
+UA001061,23 Aug 15,6,Dendy Park,Kooyong 1,No. 2,Tom Dubbeld,Hamish McIlroy,Tom Dubbeld,6-3,6,3,1,0,Completed,true,false,false
+UA001061,23 Aug 15,6,Dendy Park,Kooyong 1,No. 3,Sam Bennoun,Coco Swansson,Coco Swansson,4-6,4,6,0,1,Completed,true,false,false
+UA001061,23 Aug 15,6,Dendy Park,Kooyong 1,No. 4,William McLorinan,Andrew Argyrou,Andrew Argyrou,6-7,6,7,0,1,Completed,true,false,false
+UA001062,23 Aug 15,6,Highmoor Uniting,Mordialloc,No. 1,Matt Krstic,Curtis Burge,Curtis Burge,0-6,0,6,0,1,Completed,true,false,false
+UA001062,23 Aug 15,6,Highmoor Uniting,Mordialloc,No. 2,Oliver Shepard,Sahishnu Siva-Ram,Sahishnu Siva-Ram,0-6,0,6,0,1,Completed,true,false,false
+UA001062,23 Aug 15,6,Highmoor Uniting,Mordialloc,No. 3,James Stynes,Chelsea Dutt,Chelsea Dutt,4-6,4,6,0,1,Completed,true,false,false
+UA001062,23 Aug 15,6,Highmoor Uniting,Mordialloc,No. 4,Calum Ireland,Matt Ballas,Matt Ballas,3-6,3,6,0,1,Completed,true,false,false
+UA001063,23 Aug 15,6,Kooyong 2,GPHC,No. 1,Zac Stathis,Jack Chelotti,Jack Chelotti,6-7,6,7,0,1,Completed,true,false,false
+UA001063,23 Aug 15,6,Kooyong 2,GPHC,No. 2,Damon Bernard,Nick Leach,Damon Bernard,6-4,6,4,1,0,Completed,true,false,false
+UA001063,23 Aug 15,6,Kooyong 2,GPHC,No. 3,Andrew Harris,James Roach,James Roach,4-6,4,6,0,1,Completed,true,false,false
+UA001063,23 Aug 15,6,Kooyong 2,GPHC,No. 4,Simon Savage,Oliver McIntosh,Simon Savage,6-0,6,0,1,0,Completed,true,false,false
+UA001064,23 Aug 15,6,Beaumaris CC,Lauriston,No. 1,Cameron Clarke,Basile Nock,Cameron Clarke,6-4,6,4,1,0,Completed,true,false,false
+UA001064,23 Aug 15,6,Beaumaris CC,Lauriston,No. 2,Andrew Todd,Matthew Marguglio,Andrew Todd,6-4,6,4,1,0,Completed,true,false,false
+UA001064,23 Aug 15,6,Beaumaris CC,Lauriston,No. 3,Michael Puli,Nicholas Grandison,Michael Puli,6-0,6,0,1,0,Completed,true,false,false
+UA001064,23 Aug 15,6,Beaumaris CC,Lauriston,No. 4,Michael Todd,Athan Vlachos,Athan Vlachos,4-6,4,6,0,1,Completed,true,false,false
+UA001071,30 Aug 15,7,Mordialloc,Kooyong 1,No. 1,Curtis Burge,Charlie Geason,Charlie Geason,2-6,2,6,0,1,Completed,true,false,false
+UA001071,30 Aug 15,7,Mordialloc,Kooyong 1,No. 2,Sahishnu Siva-Ram,Thomas Gilbert,Sahishnu Siva-Ram,6-2,6,2,1,0,Completed,true,false,false
+UA001071,30 Aug 15,7,Mordialloc,Kooyong 1,No. 3,Matt Ballas,Harry Gell,Matt Ballas,6-2,6,2,1,0,Completed,true,false,false
+UA001071,30 Aug 15,7,Mordialloc,Kooyong 1,No. 4,Lachlan Palmer,Andrew Argyrou,Andrew Argyrou,2-6,2,6,0,1,Completed,true,false,false
+UA001072,30 Aug 15,7,Dendy Park,Highmoor Uniting,No. 1,Theodore Vlamis,Matt Krstic,Theodore Vlamis,6-1,6,1,1,0,Completed,true,false,false
+UA001072,30 Aug 15,7,Dendy Park,Highmoor Uniting,No. 2,Tom Dubbeld,Oliver Shepard,Tom Dubbeld,6-3,6,3,1,0,Completed,true,false,false
+UA001072,30 Aug 15,7,Dendy Park,Highmoor Uniting,No. 3,William McLorinan,James Stynes,James Stynes,2-6,2,6,0,1,Completed,true,false,false
+UA001072,30 Aug 15,7,Dendy Park,Highmoor Uniting,No. 4,Dean Metter,Calum Ireland,Dean Metter,6-3,6,3,1,0,Completed,true,false,false
+UA001073,30 Aug 15,7,Lauriston,GPHC,No. 1,Basile Nock,Jack Chelotti,Jack Chelotti,2-6,2,6,0,1,Completed,true,false,false
+UA001073,30 Aug 15,7,Lauriston,GPHC,No. 2,Matthew Marguglio,Nick Leach,Matthew Marguglio,6-4,6,4,1,0,Completed,true,false,false
+UA001073,30 Aug 15,7,Lauriston,GPHC,No. 3,Evan Polydroulos,Max Double,Evan Polydroulos,6-3,6,3,1,0,Completed,true,false,false
+UA001073,30 Aug 15,7,Lauriston,GPHC,No. 4,Katerina Georgopolous,Oliver McIntosh,Oliver McIntosh,0-6,0,6,0,1,Completed,true,false,false
+UA001074,30 Aug 15,7,Kooyong 2,Beaumaris CC,No. 1,Zac Stathis,Cameron Clarke,Cameron Clarke,0-6,0,6,0,1,Completed,true,false,false
+UA001074,30 Aug 15,7,Kooyong 2,Beaumaris CC,No. 2,Damon Bernard,Andrew Todd,Damon Bernard,6-4,6,4,1,0,Completed,true,false,false
+UA001074,30 Aug 15,7,Kooyong 2,Beaumaris CC,No. 3,Kristofer Hyde,Holly Schlatter,Holly Schlatter,3-6,3,6,0,1,Completed,true,false,false
+UA001074,30 Aug 15,7,Kooyong 2,Beaumaris CC,No. 4,Andrew Harris,Ben Pease,Andrew Harris,6-4,6,4,1,0,Completed,true,false,false
+UA001081,06 Sep 15,8,Beaumaris CC,Mordialloc,No. 1,Cameron Clarke,Sahishnu Siva-Ram,Cameron Clarke,6-2,6,2,1,0,Completed,true,false,false
+UA001081,06 Sep 15,8,Beaumaris CC,Mordialloc,No. 2,Michael Puli,Chelsea Dutt,Michael Puli,7-6,7,6,1,0,Completed,true,false,false
+UA001081,06 Sep 15,8,Beaumaris CC,Mordialloc,No. 3,Holly Schlatter,Matt Ballas,Holly Schlatter,6-4,6,4,1,0,Completed,true,false,false
+UA001081,06 Sep 15,8,Beaumaris CC,Mordialloc,No. 4,Ben Pease,Matt Lannan,Matt Lannan,2-6,2,6,0,1,Completed,true,false,false
+UA001082,06 Sep 15,8,GPHC,Dendy Park,No. 1,Jack Chelotti,Theodore Vlamis,Theodore Vlamis,3-6,3,6,0,1,Completed,true,false,false
+UA001082,06 Sep 15,8,GPHC,Dendy Park,No. 2,Nick Leach,Sam Bennoun,Nick Leach,6-0,6,0,1,0,Completed,true,false,false
+UA001082,06 Sep 15,8,GPHC,Dendy Park,No. 3,James Roach,William McLorinan,James Roach,6-1,6,1,1,0,Completed,true,false,false
+UA001082,06 Sep 15,8,GPHC,Dendy Park,No. 4,Max Double,Dean Metter,Dean Metter,3-6,3,6,0,1,Completed,true,false,false
+UA001083,06 Sep 15,8,Kooyong 2,Kooyong 1,No. 1,Zac Stathis,Hamish McIlroy,Zac Stathis,6-3,6,3,1,0,Completed,true,false,false
+UA001083,06 Sep 15,8,Kooyong 2,Kooyong 1,No. 2,Damon Bernard,Thomas Gilbert,Damon Bernard,6-2,6,2,1,0,Completed,true,false,false
+UA001083,06 Sep 15,8,Kooyong 2,Kooyong 1,No. 3,Kristofer Hyde,Harry Gell,Harry Gell,2-6,2,6,0,1,Completed,true,false,false
+UA001083,06 Sep 15,8,Kooyong 2,Kooyong 1,No. 4,Simon Savage,Coco Swansson,Simon Savage,7-5,7,5,1,0,Completed,true,false,false
+UA001084,06 Sep 15,8,Lauriston,Highmoor Uniting,No. 1,Matthew Marguglio,Oliver Shepard,Matthew Marguglio,6-2,6,2,1,0,Completed,true,false,false
+UA001084,06 Sep 15,8,Lauriston,Highmoor Uniting,No. 2,Evan Polydroulos,James Stynes,Evan Polydroulos,6-1,6,1,1,0,Completed,true,false,false
+UA001084,06 Sep 15,8,Lauriston,Highmoor Uniting,No. 3,Nicholas Grandison,Calum Ireland,Calum Ireland,5-7,5,7,0,1,Completed,true,false,false
+UA001084,06 Sep 15,8,Lauriston,Highmoor Uniting,No. 4,Katerina Georgopolous,Josh Rowe,Katerina Georgopolous,7-5,7,5,1,0,Completed,true,false,false
+UA001091,13 Sep 15,9,Mordialloc,Lauriston,No. 1,Curtis Burge,Nathan Kazakevich,Nathan Kazakevich,5-7,5,7,0,1,Completed,true,false,false
+UA001091,13 Sep 15,9,Mordialloc,Lauriston,No. 2,Sahishnu Siva-Ram,Basile Nock,Sahishnu Siva-Ram,6-0,6,0,1,0,Completed,true,false,false
+UA001091,13 Sep 15,9,Mordialloc,Lauriston,No. 3,Chelsea Dutt,Matthew Marguglio,Matthew Marguglio,4-6,4,6,0,1,Completed,true,false,false
+UA001091,13 Sep 15,9,Mordialloc,Lauriston,No. 4,Matt Ballas,Katerina Georgopolous,Matt Ballas,6-2,6,2,1,0,Completed,true,false,false
+UA001092,13 Sep 15,9,Dendy Park,Beaumaris CC,No. 1,Theodore Vlamis,Andrew Todd,Andrew Todd,4-6,4,6,0,1,Completed,true,false,false
+UA001092,13 Sep 15,9,Dendy Park,Beaumaris CC,No. 2,Sam Bennoun,Holly Schlatter,Sam Bennoun,7-6,7,6,1,0,Completed,true,false,false
+UA001092,13 Sep 15,9,Dendy Park,Beaumaris CC,No. 3,William McLorinan,Michael Todd,Michael Todd,0-6,0,6,0,1,Completed,true,false,false
+UA001092,13 Sep 15,9,Dendy Park,Beaumaris CC,No. 4,Dean Metter,Ben Pease,Dean Metter,6-0,6,0,1,0,Completed,true,false,false
+UA001093,13 Sep 15,9,Kooyong 1,GPHC,No. 1,Max Flaherty,Jack Chelotti,Max Flaherty,6-1,6,1,1,0,Completed,true,false,false
+UA001093,13 Sep 15,9,Kooyong 1,GPHC,No. 2,Charlie Geason,Nick Leach,Charlie Geason,6-1,6,1,1,0,Completed,true,false,false
+UA001093,13 Sep 15,9,Kooyong 1,GPHC,No. 3,Thomas Gilbert,James Roach,James Roach,3-6,3,6,0,1,Completed,true,false,false
+UA001093,13 Sep 15,9,Kooyong 1,GPHC,No. 4,Harry Gell,Max Double,Harry Gell,6-4,6,4,1,0,Completed,true,false,false
+UA001094,13 Sep 15,9,Highmoor Uniting,Kooyong 2,No. 1,Matt Krstic,Zac Stathis,Zac Stathis,0-6,0,6,0,1,Completed,true,false,false
+UA001094,13 Sep 15,9,Highmoor Uniting,Kooyong 2,No. 2,Oliver Shepard,Damon Bernard,Damon Bernard,1-6,1,6,0,1,Completed,true,false,false
+UA001094,13 Sep 15,9,Highmoor Uniting,Kooyong 2,No. 3,[Unnamed player — TROLS UA001094 home code 3],Kristofer Hyde,Kristofer Hyde,0-6,0,6,0,1,Completed,false,false,false
+UA001094,13 Sep 15,9,Highmoor Uniting,Kooyong 2,No. 4,Calum Ireland,Simon Savage,Simon Savage,3-6,3,6,0,1,Completed,true,false,false
+UA001101,11 Oct 15,10,Kooyong 2,Mordialloc,No. 1,Zac Stathis,Curtis Burge,Zac Stathis,6-2,6,2,1,0,Completed,true,false,false
+UA001101,11 Oct 15,10,Kooyong 2,Mordialloc,No. 2,Damon Bernard,Sahishnu Siva-Ram,Damon Bernard,7-6,7,6,1,0,Completed,true,false,false
+UA001101,11 Oct 15,10,Kooyong 2,Mordialloc,No. 3,Kristofer Hyde,Chelsea Dutt,Chelsea Dutt,2-6,2,6,0,1,Completed,true,false,false
+UA001101,11 Oct 15,10,Kooyong 2,Mordialloc,No. 4,Andrew Harris,Matt Ballas,Andrew Harris,6-0,6,0,1,0,Completed,true,false,false
+UA001102,11 Oct 15,10,Lauriston,Dendy Park,No. 1,Nathan Kazakevich,Tom Dubbeld,Nathan Kazakevich,6-2,6,2,1,0,Completed,true,false,false
+UA001102,11 Oct 15,10,Lauriston,Dendy Park,No. 2,Evan Polydroulos,Sam Bennoun,Sam Bennoun,4-6,4,6,0,1,Completed,true,false,false
+UA001102,11 Oct 15,10,Lauriston,Dendy Park,No. 3,Nicholas Grandison,William McLorinan,William McLorinan,3-6,3,6,0,1,Completed,true,false,false
+UA001102,11 Oct 15,10,Lauriston,Dendy Park,No. 4,Katerina Georgopolous,Dean Metter,Dean Metter,4-6,4,6,0,1,Completed,true,false,false
+UA001103,11 Oct 15,10,Beaumaris CC,Kooyong 1,No. 1,Andrew Todd,Charlie Geason,Charlie Geason,3-6,3,6,0,1,Completed,true,false,false
+UA001103,11 Oct 15,10,Beaumaris CC,Kooyong 1,No. 2,Michael Puli,Hamish McIlroy,Michael Puli,6-1,6,1,1,0,Completed,true,false,false
+UA001103,11 Oct 15,10,Beaumaris CC,Kooyong 1,No. 3,Holly Schlatter,Thomas Gilbert,Thomas Gilbert,2-6,2,6,0,1,Completed,true,false,false
+UA001103,11 Oct 15,10,Beaumaris CC,Kooyong 1,No. 4,Michael Todd,Andrew Argyrou,Michael Todd,7-6,7,6,1,0,Completed,true,false,false
+UA001104,11 Oct 15,10,GPHC,Highmoor Uniting,No. 1,Nick Leach,Matt Krstic,Nick Leach,6-1,6,1,1,0,Completed,true,false,false
+UA001104,11 Oct 15,10,GPHC,Highmoor Uniting,No. 2,Max Double,Oliver Shepard,Max Double,6-3,6,3,1,0,Completed,true,false,false
+UA001104,11 Oct 15,10,GPHC,Highmoor Uniting,No. 3,Oliver McIntosh,Calum Ireland,Calum Ireland,1-6,1,6,0,1,Completed,true,false,false
+UA001104,11 Oct 15,10,GPHC,Highmoor Uniting,No. 4,James Tarrant,Daniel Abbott,James Tarrant,6-3,6,3,1,0,Completed,true,false,false
+UA001111,18 Oct 15,11,Mordialloc,GPHC,No. 1,Curtis Burge,Jack Chelotti,Jack Chelotti,2-6,2,6,0,1,Completed,true,false,false
+UA001111,18 Oct 15,11,Mordialloc,GPHC,No. 2,Sahishnu Siva-Ram,James Roach,Sahishnu Siva-Ram,6-3,6,3,1,0,Completed,true,false,false
+UA001111,18 Oct 15,11,Mordialloc,GPHC,No. 3,Chelsea Dutt,Charlie Zagon-Davies,Chelsea Dutt,6-2,6,2,1,0,Completed,true,false,false
+UA001111,18 Oct 15,11,Mordialloc,GPHC,No. 4,Matt Ballas,Oliver McIntosh,Matt Ballas,6-3,6,3,1,0,Completed,true,false,false
+UA001112,18 Oct 15,11,Dendy Park,Kooyong 2,No. 1,Theodore Vlamis,Zac Stathis,Zac Stathis,4-6,4,6,0,1,Completed,true,false,false
+UA001112,18 Oct 15,11,Dendy Park,Kooyong 2,No. 2,Tom Dubbeld,Damon Bernard,Damon Bernard,2-6,2,6,0,1,Completed,true,false,false
+UA001112,18 Oct 15,11,Dendy Park,Kooyong 2,No. 3,William McLorinan,Andrew Harris,Andrew Harris,4-6,4,6,0,1,Completed,true,false,false
+UA001112,18 Oct 15,11,Dendy Park,Kooyong 2,No. 4,Dean Metter,Simon Savage,Dean Metter,7-5,7,5,1,0,Completed,true,false,false
+UA001113,18 Oct 15,11,Kooyong 1,Lauriston,No. 1,Charlie Geason,Basile Nock,Charlie Geason,6-2,6,2,1,0,Completed,true,false,false
+UA001113,18 Oct 15,11,Kooyong 1,Lauriston,No. 2,Hamish McIlroy,Evan Polydroulos,Evan Polydroulos,0-6,0,6,0,1,Completed,true,false,false
+UA001113,18 Oct 15,11,Kooyong 1,Lauriston,No. 3,Thomas Gilbert,Nicholas Grandison,Thomas Gilbert,6-2,6,2,1,0,Completed,true,false,false
+UA001113,18 Oct 15,11,Kooyong 1,Lauriston,No. 4,Harry Gell,Katerina Georgopolous,Harry Gell,6-0,6,0,1,0,Completed,true,false,false
+UA001114,18 Oct 15,11,Highmoor Uniting,Beaumaris CC,No. 1,Matt Krstic,Cameron Clarke,Cameron Clarke,2-6,2,6,0,1,Completed,true,false,false
+UA001114,18 Oct 15,11,Highmoor Uniting,Beaumaris CC,No. 2,Oliver Shepard,Andrew Todd,Andrew Todd,2-6,2,6,0,1,Completed,true,false,false
+UA001114,18 Oct 15,11,Highmoor Uniting,Beaumaris CC,No. 3,Daniel Abbott,Michael Puli,Daniel Abbott,6-3,6,3,1,0,Completed,true,false,false
+UA001114,18 Oct 15,11,Highmoor Uniting,Beaumaris CC,No. 4,Sam May,Michael Todd,Michael Todd,0-6,0,6,0,1,Completed,true,false,false
+UA001121,25 Oct 15,12,Highmoor Uniting,Kooyong 1,No. 1,Matt Krstic,Charlie Geason,Charlie Geason,0-6,0,6,0,1,Completed,true,false,false
+UA001121,25 Oct 15,12,Highmoor Uniting,Kooyong 1,No. 2,Oliver Shepard,Harry Gell,Harry Gell,0-6,0,6,0,1,Completed,true,false,false
+UA001121,25 Oct 15,12,Highmoor Uniting,Kooyong 1,No. 3,Calum Ireland,Coco Swansson,Calum Ireland,7-6,7,6,1,0,Completed,true,false,false
+UA001121,25 Oct 15,12,Highmoor Uniting,Kooyong 1,No. 4,Daniel Abbott,Andrew Argyrou,Andrew Argyrou,4-6,4,6,0,1,Completed,true,false,false
+UA001122,25 Oct 15,12,Kooyong 2,Lauriston,No. 1,Zac Stathis,Basile Nock,Zac Stathis,6-3,6,3,1,0,Completed,true,false,false
+UA001122,25 Oct 15,12,Kooyong 2,Lauriston,No. 2,Damon Bernard,Matthew Marguglio,Damon Bernard,6-1,6,1,1,0,Completed,true,false,false
+UA001122,25 Oct 15,12,Kooyong 2,Lauriston,No. 3,Kristofer Hyde,Evan Polydroulos,Kristofer Hyde,6-3,6,3,1,0,Completed,true,false,false
+UA001122,25 Oct 15,12,Kooyong 2,Lauriston,No. 4,Simon Savage,Nicholas Grandison,Simon Savage,7-5,7,5,1,0,Completed,true,false,false
+UA001123,25 Oct 15,12,Beaumaris CC,GPHC,No. 1,Cameron Clarke,Nick Leach,Nick Leach,4-6,4,6,0,1,Completed,true,false,false
+UA001123,25 Oct 15,12,Beaumaris CC,GPHC,No. 2,Michael Puli,James Roach,Michael Puli,6-3,6,3,1,0,Completed,true,false,false
+UA001123,25 Oct 15,12,Beaumaris CC,GPHC,No. 3,Ben Pease,Charlie Zagon-Davies,Charlie Zagon-Davies,5-7,5,7,0,1,Completed,true,false,false
+UA001123,25 Oct 15,12,Beaumaris CC,GPHC,No. 4,Michael Todd,Oliver McIntosh,Michael Todd,6-2,6,2,1,0,Completed,true,false,false
+UA001124,25 Oct 15,12,Dendy Park,Mordialloc,No. 1,Theodore Vlamis,Curtis Burge,Theodore Vlamis,6-1,6,1,1,0,Completed,true,false,false
+UA001124,25 Oct 15,12,Dendy Park,Mordialloc,No. 2,Tom Dubbeld,Sahishnu Siva-Ram,Sahishnu Siva-Ram,2-6,2,6,0,1,Completed,true,false,false
+UA001124,25 Oct 15,12,Dendy Park,Mordialloc,No. 3,Sam Bennoun,Chelsea Dutt,Chelsea Dutt,1-6,1,6,0,1,Completed,true,false,false
+UA001124,25 Oct 15,12,Dendy Park,Mordialloc,No. 4,Dean Metter,Matt Ballas,Dean Metter,6-3,6,3,1,0,Completed,true,false,false
+UA001131,08 Nov 15,13,Kooyong 1,Dendy Park,No. 1,Hamish McIlroy,Tom Dubbeld,Tom Dubbeld,1-6,1,6,0,1,Completed,true,false,false
+UA001131,08 Nov 15,13,Kooyong 1,Dendy Park,No. 2,Harry Gell,Sam Bennoun,Harry Gell,7-6,7,6,1,0,Completed,true,false,false
+UA001131,08 Nov 15,13,Kooyong 1,Dendy Park,No. 3,Coco Swansson,William McLorinan,William McLorinan,4-6,4,6,0,1,Completed,true,false,false
+UA001131,08 Nov 15,13,Kooyong 1,Dendy Park,No. 4,Andrew Argyrou,Dean Metter,Andrew Argyrou,6-2,6,2,1,0,Completed,true,false,false
+UA001132,08 Nov 15,13,Mordialloc,Highmoor Uniting,No. 1,Curtis Burge,Matt Krstic,Curtis Burge,6-4,6,4,1,0,Completed,true,false,false
+UA001132,08 Nov 15,13,Mordialloc,Highmoor Uniting,No. 2,Sahishnu Siva-Ram,Oliver Shepard,Sahishnu Siva-Ram,6-0,6,0,1,0,Completed,true,false,false
+UA001132,08 Nov 15,13,Mordialloc,Highmoor Uniting,No. 3,Chelsea Dutt,Daniel Abbott,Chelsea Dutt,6-3,6,3,1,0,Completed,true,false,false
+UA001132,08 Nov 15,13,Mordialloc,Highmoor Uniting,No. 4,Matt Ballas,[Unnamed player — TROLS UA001132 away code 4],Matt Ballas,6-0,6,0,1,0,Completed,false,false,false
+UA001133,08 Nov 15,13,GPHC,Kooyong 2,No. 1,Jack Chelotti,Zac Stathis,Zac Stathis,4-6,4,6,0,1,Completed,true,false,false
+UA001133,08 Nov 15,13,GPHC,Kooyong 2,No. 2,Nick Leach,Kristofer Hyde,Nick Leach,6-4,6,4,1,0,Completed,true,false,false
+UA001133,08 Nov 15,13,GPHC,Kooyong 2,No. 3,James Roach,Andrew Harris,James Roach,6-4,6,4,1,0,Completed,true,false,false
+UA001133,08 Nov 15,13,GPHC,Kooyong 2,No. 4,Oliver McIntosh,Simon Savage,Oliver McIntosh,6-2,6,2,1,0,Completed,true,false,false
+UA001134,08 Nov 15,13,Lauriston,Beaumaris CC,No. 1,Basile Nock,Michael Puli,Basile Nock,6-4,6,4,1,0,Completed,true,false,false
+UA001134,08 Nov 15,13,Lauriston,Beaumaris CC,No. 2,Matthew Marguglio,Holly Schlatter,Holly Schlatter,3-6,3,6,0,1,Completed,true,false,false
+UA001134,08 Nov 15,13,Lauriston,Beaumaris CC,No. 3,Nicholas Grandison,Ben Pease,Ben Pease,2-6,2,6,0,1,Completed,true,false,false
+UA001134,08 Nov 15,13,Lauriston,Beaumaris CC,No. 4,Katerina Georgopolous,Michael Todd,Michael Todd,2-6,2,6,0,1,Completed,true,false,false
+UA001141,15 Nov 15,14,Kooyong 1,Mordialloc,No. 1,Charlie Geason,Curtis Burge,Charlie Geason,6-4,6,4,1,0,Completed,true,false,false
+UA001141,15 Nov 15,14,Kooyong 1,Mordialloc,No. 2,Hamish McIlroy,Sahishnu Siva-Ram,Sahishnu Siva-Ram,2-6,2,6,0,1,Completed,true,false,false
+UA001141,15 Nov 15,14,Kooyong 1,Mordialloc,No. 3,Thomas Gilbert,Chelsea Dutt,Thomas Gilbert,6-3,6,3,1,0,Completed,true,false,false
+UA001141,15 Nov 15,14,Kooyong 1,Mordialloc,No. 4,Andrew Argyrou,Matt Ballas,Andrew Argyrou,7-5,7,5,1,0,Completed,true,false,false
+UA001142,15 Nov 15,14,Highmoor Uniting,Dendy Park,No. 1,[Unnamed player — TROLS UA001142 home code 1],Theodore Vlamis,Theodore Vlamis,0-6,0,6,0,1,Completed,false,false,false
+UA001142,15 Nov 15,14,Highmoor Uniting,Dendy Park,No. 2,Oliver Shepard,Tom Dubbeld,Tom Dubbeld,4-6,4,6,0,1,Completed,true,false,false
+UA001142,15 Nov 15,14,Highmoor Uniting,Dendy Park,No. 3,Calum Ireland,Sam Bennoun,Sam Bennoun,1-6,1,6,0,1,Completed,true,false,false
+UA001142,15 Nov 15,14,Highmoor Uniting,Dendy Park,No. 4,Daniel Abbott,William McLorinan,Daniel Abbott,6-2,6,2,1,0,Completed,true,false,false
+UA001143,15 Nov 15,14,GPHC,Lauriston,No. 1,Jack Chelotti,Basile Nock,Jack Chelotti,7-6,7,6,1,0,Completed,true,false,false
+UA001143,15 Nov 15,14,GPHC,Lauriston,No. 2,Nick Leach,Matthew Marguglio,Nick Leach,6-2,6,2,1,0,Completed,true,false,false
+UA001143,15 Nov 15,14,GPHC,Lauriston,No. 3,James Roach,Evan Polydroulos,James Roach,6-4,6,4,1,0,Completed,true,false,false
+UA001143,15 Nov 15,14,GPHC,Lauriston,No. 4,Oliver McIntosh,Katerina Georgopolous,Katerina Georgopolous,1-6,1,6,0,1,Completed,true,false,false
+UA001144,15 Nov 15,14,Beaumaris CC,Kooyong 2,No. 1,Cameron Clarke,Damon Bernard,Damon Bernard,1-6,1,6,0,1,Completed,true,false,false
+UA001144,15 Nov 15,14,Beaumaris CC,Kooyong 2,No. 2,Andrew Todd,Kristofer Hyde,Kristofer Hyde,4-6,4,6,0,1,Completed,true,false,false
+UA001144,15 Nov 15,14,Beaumaris CC,Kooyong 2,No. 3,Michael Puli,Andrew Harris,Michael Puli,6-3,6,3,1,0,Completed,true,false,false
+UA001144,15 Nov 15,14,Beaumaris CC,Kooyong 2,No. 4,Ben Pease,Jack Unknown,Ben Pease,6-1,6,1,1,0,Completed,true,false,false
+UA001301,,16,Beaumaris CC,Mordialloc,No. 1,Cameron Clarke,Curtis Burge,Cameron Clarke,7-6,7,6,1,0,Completed,true,false,false
+UA001301,,16,Beaumaris CC,Mordialloc,No. 2,Holly Schlatter,Sahishnu Siva-Ram,Sahishnu Siva-Ram,2-6,2,6,0,1,Completed,true,false,false
+UA001301,,16,Beaumaris CC,Mordialloc,No. 3,Ben Pease,Matt Ballas,Ben Pease,6-3,6,3,1,0,Completed,true,false,false
+UA001301,,16,Beaumaris CC,Mordialloc,No. 4,Michael Todd,Matt Lannan,Matt Lannan,3-6,3,6,0,1,Completed,true,false,false
+UA001302,,16,Kooyong 2,Dendy Park,No. 1,Zac Stathis,Theodore Vlamis,Zac Stathis,6-3,6,3,1,0,Completed,true,false,false
+UA001302,,16,Kooyong 2,Dendy Park,No. 2,Damon Bernard,Tom Dubbeld,Damon Bernard,6-2,6,2,1,0,Completed,true,false,false
+UA001302,,16,Kooyong 2,Dendy Park,No. 3,Kristofer Hyde,Sam Bennoun,Kristofer Hyde,6-3,6,3,1,0,Completed,true,false,false
+UA001302,,16,Kooyong 2,Dendy Park,No. 4,Andrew Harris,Dean Metter,Andrew Harris,6-3,6,3,1,0,Completed,true,false,false
+UA001321,,17,Kooyong 2,Mordialloc,No. 1,Zac Stathis,Curtis Burge,Zac Stathis,6-2,6,2,1,0,Completed,true,false,false
+UA001321,,17,Kooyong 2,Mordialloc,No. 2,Damon Bernard,Sahishnu Siva-Ram,Damon Bernard,6-2,6,2,1,0,Completed,true,false,false
+UA001321,,17,Kooyong 2,Mordialloc,No. 3,Kristofer Hyde,Matt Ballas,Kristofer Hyde,6-2,6,2,1,0,Completed,true,false,false
+UA001321,,17,Kooyong 2,Mordialloc,No. 4,Andrew Harris,Harrison Davis,Harrison Davis,3-6,3,6,0,1,Completed,true,false,false

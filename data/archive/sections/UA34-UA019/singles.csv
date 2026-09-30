@@ -1,0 +1,233 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA019011,04 Feb 24,1,GPHC,BLTC Blue,No. 1,Patrick Cruickshanks,Aidan Tan,Aidan Tan,3-6,3,6,0,1,Completed,true,false,false
+UA019011,04 Feb 24,1,GPHC,BLTC Blue,No. 2,Harrison Bond,Charles O'Haire,Harrison Bond,6-3,6,3,1,0,Completed,true,false,false
+UA019011,04 Feb 24,1,GPHC,BLTC Blue,No. 3,Levi Goulding,Henry Sullivan,Henry Sullivan,3-6,3,6,0,1,Completed,true,false,false
+UA019011,04 Feb 24,1,GPHC,BLTC Blue,No. 4,Lilly Hobbs,Annabelle Gorton,Annabelle Gorton,2-6,2,6,0,1,Completed,true,false,false
+UA019012,04 Feb 24,1,Le Page,Kooyong,No. 1,Yohan Singh,Raghav Chandrasekaran,Yohan Singh,6-1,6,1,1,0,Completed,true,false,false
+UA019012,04 Feb 24,1,Le Page,Kooyong,No. 2,Johnny Wu,Ethan Wu,Ethan Wu,4-6,4,6,0,1,Completed,true,false,false
+UA019012,04 Feb 24,1,Le Page,Kooyong,No. 3,Jacob Pho,Henry Colbert,Jacob Pho,6-0,6,0,1,0,Completed,true,false,false
+UA019012,04 Feb 24,1,Le Page,Kooyong,No. 4,Yatharth Manware,Oliver Colbert,Yatharth Manware,6-0,6,0,1,0,Completed,true,false,false
+UA019013,04 Feb 24,1,Beaumaris CC,Parkdale,No. 1,Amara Naing,Zoe Sedunary,Amara Naing,6-1,6,1,1,0,Completed,true,false,false
+UA019013,04 Feb 24,1,Beaumaris CC,Parkdale,No. 2,Tamara Tran,Samaira Tandon,Tamara Tran,6-4,6,4,1,0,Completed,true,false,false
+UA019013,04 Feb 24,1,Beaumaris CC,Parkdale,No. 3,Harper Gehrig,Aidan Roach,Harper Gehrig,7-6,7,6,1,0,Completed,true,false,false
+UA019013,04 Feb 24,1,Beaumaris CC,Parkdale,No. 4,Vita Tran,Lucas Jin,Lucas Jin,0-6,0,6,0,1,Completed,true,false,false
+UA019014,04 Feb 24,1,St Pats Mentone,Hurlingham Park,No. 1,Lee O'Gradie,Chloe O'Neill,Lee O'Gradie,6-4,6,4,1,0,Completed,true,false,false
+UA019014,04 Feb 24,1,St Pats Mentone,Hurlingham Park,No. 2,Karl Van Spaandonk,Vivienne Wittenberg,Karl Van Spaandonk,7-5,7,5,1,0,Completed,true,false,false
+UA019014,04 Feb 24,1,St Pats Mentone,Hurlingham Park,No. 3,Wiliam Dormer,Edward Wittenberg,Edward Wittenberg,3-6,3,6,0,1,Completed,true,false,false
+UA019014,04 Feb 24,1,St Pats Mentone,Hurlingham Park,No. 4,Ryan Piao,Mimi Hearnden,Ryan Piao,6-1,6,1,1,0,Completed,true,false,false
+UA019021,11 Feb 24,2,Hurlingham Park,GPHC,No. 1,Charlie O'Neil,Patrick Cruickshanks,Charlie O'Neil,6-1,6,1,1,0,Completed,true,false,false
+UA019021,11 Feb 24,2,Hurlingham Park,GPHC,No. 2,Chloe O'Neill,Harrison Bond,Harrison Bond,1-6,1,6,0,1,Completed,true,false,false
+UA019021,11 Feb 24,2,Hurlingham Park,GPHC,No. 3,Josh Krodkiewski,Alex Tasiopoulos,Josh Krodkiewski,7-6,7,6,1,0,Completed,true,false,false
+UA019021,11 Feb 24,2,Hurlingham Park,GPHC,No. 4,Mimi Hearnden,Lilly Hobbs,Lilly Hobbs,4-6,4,6,0,1,Completed,true,false,false
+UA019022,11 Feb 24,2,BLTC Blue,Le Page,No. 1,Aidan Tan,Yohan Singh,Aidan Tan,7-5,7,5,1,0,Completed,true,false,false
+UA019022,11 Feb 24,2,BLTC Blue,Le Page,No. 2,Charles O'Haire,Johnny Wu,Johnny Wu,4-6,4,6,0,1,Completed,true,false,false
+UA019022,11 Feb 24,2,BLTC Blue,Le Page,No. 3,Spencer Witherington,Yatharth Manware,Spencer Witherington,6-3,6,3,1,0,Completed,true,false,false
+UA019022,11 Feb 24,2,BLTC Blue,Le Page,No. 4,Annabelle Gorton,Mitchell Loimaranta,Annabelle Gorton,6-0,6,0,1,0,Completed,true,false,false
+UA019023,11 Feb 24,2,Kooyong,Beaumaris CC,No. 1,Ava Byrne,Tamara Tran,Tamara Tran,1-6,1,6,0,1,Completed,true,false,false
+UA019023,11 Feb 24,2,Kooyong,Beaumaris CC,No. 2,Henry Colbert,Harper Gehrig,Harper Gehrig,0-6,0,6,0,1,Completed,true,false,false
+UA019023,11 Feb 24,2,Kooyong,Beaumaris CC,No. 3,Oliver Colbert,Vita Tran,Vita Tran,4-6,4,6,0,1,Completed,true,false,false
+UA019023,11 Feb 24,2,Kooyong,Beaumaris CC,No. 4,Leo Nuttall,Zoey Bhatt,Leo Nuttall,6-2,6,2,1,0,Completed,true,false,false
+UA019024,11 Feb 24,2,Parkdale,St Pats Mentone,No. 1,Samaira Tandon,Lee O'Gradie,Lee O'Gradie,4-6,4,6,0,1,Completed,true,false,false
+UA019024,11 Feb 24,2,Parkdale,St Pats Mentone,No. 2,Aidan Roach,Dominik Buschkuehl,Dominik Buschkuehl,3-6,3,6,0,1,Completed,true,false,false
+UA019024,11 Feb 24,2,Parkdale,St Pats Mentone,No. 3,Evie Mustica,Levi Rizun,Levi Rizun,2-6,2,6,0,1,Completed,true,false,false
+UA019024,11 Feb 24,2,Parkdale,St Pats Mentone,No. 4,Lilly Millard,Ryan Piao,Ryan Piao,4-6,4,6,0,1,Completed,true,false,false
+UA019031,18 Feb 24,3,GPHC,Parkdale,No. 1,Angelina Olivetto,Samaira Tandon,Samaira Tandon,4-6,4,6,0,1,Completed,true,false,false
+UA019031,18 Feb 24,3,GPHC,Parkdale,No. 2,Patrick Cruickshanks,Lucas Jin,Patrick Cruickshanks,7-5,7,5,1,0,Completed,true,false,false
+UA019031,18 Feb 24,3,GPHC,Parkdale,No. 3,Alex Tasiopoulos,Evie Mustica,Alex Tasiopoulos,7-6,7,6,1,0,Completed,true,false,false
+UA019031,18 Feb 24,3,GPHC,Parkdale,No. 4,Lilly Hobbs,Lilly Millard,Lilly Millard,4-6,4,6,0,1,Completed,true,false,false
+UA019032,18 Feb 24,3,Le Page,Hurlingham Park,No. 1,Johnny Wu,Charlie O'Neil,Charlie O'Neil,4-6,4,6,0,1,Completed,true,false,false
+UA019032,18 Feb 24,3,Le Page,Hurlingham Park,No. 2,Jacob Pho,Vivienne Wittenberg,Vivienne Wittenberg,4-6,4,6,0,1,Completed,true,false,false
+UA019032,18 Feb 24,3,Le Page,Hurlingham Park,No. 3,Louis Super,Josh Krodkiewski,Josh Krodkiewski,0-6,0,6,0,1,Completed,true,false,false
+UA019032,18 Feb 24,3,Le Page,Hurlingham Park,No. 4,Mitchell Loimaranta,Edward Wittenberg,Edward Wittenberg,4-6,4,6,0,1,Completed,true,false,false
+UA019033,18 Feb 24,3,Beaumaris CC,BLTC Blue,No. 1,Amara Naing,Aidan Tan,Amara Naing,6-4,6,4,1,0,Completed,true,false,false
+UA019033,18 Feb 24,3,Beaumaris CC,BLTC Blue,No. 2,Tamara Tran,Charles O'Haire,Tamara Tran,6-3,6,3,1,0,Completed,true,false,false
+UA019033,18 Feb 24,3,Beaumaris CC,BLTC Blue,No. 3,Harper Gehrig,Spencer Witherington,Spencer Witherington,5-7,5,7,0,1,Completed,true,false,false
+UA019033,18 Feb 24,3,Beaumaris CC,BLTC Blue,No. 4,Zoey Bhatt,Annabelle Gorton,Annabelle Gorton,1-6,1,6,0,1,Completed,true,false,false
+UA019034,18 Feb 24,3,St Pats Mentone,Kooyong,No. 1,Lee O'Gradie,Raghav Chandrasekaran,Raghav Chandrasekaran,5-7,5,7,0,1,Completed,true,false,false
+UA019034,18 Feb 24,3,St Pats Mentone,Kooyong,No. 2,Dominik Buschkuehl,Ava Byrne,Dominik Buschkuehl,6-1,6,1,1,0,Completed,true,false,false
+UA019034,18 Feb 24,3,St Pats Mentone,Kooyong,No. 3,Wiliam Dormer,Henry Colbert,Wiliam Dormer,6-3,6,3,1,0,Completed,true,false,false
+UA019034,18 Feb 24,3,St Pats Mentone,Kooyong,No. 4,Ryan Piao,Leo Nuttall,Leo Nuttall,2-6,2,6,0,1,Completed,true,false,false
+UA019041,25 Feb 24,4,Kooyong,GPHC,No. 1,Raghav Chandrasekaran,Angelina Olivetto,Angelina Olivetto,4-6,4,6,0,1,Completed,true,false,false
+UA019041,25 Feb 24,4,Kooyong,GPHC,No. 2,Ava Byrne,Harrison Bond,Harrison Bond,1-6,1,6,0,1,Completed,true,false,false
+UA019041,25 Feb 24,4,Kooyong,GPHC,No. 3,Henry Colbert,Levi Goulding,Levi Goulding,0-6,0,6,0,1,Completed,true,false,false
+UA019041,25 Feb 24,4,Kooyong,GPHC,No. 4,Oliver Colbert,Alex Tasiopoulos,Alex Tasiopoulos,0-6,0,6,0,1,Completed,true,false,false
+UA019042,25 Feb 24,4,Parkdale,Le Page,No. 1,Aidan Roach,Yohan Singh,Yohan Singh,0-6,0,6,0,1,Completed,true,false,false
+UA019042,25 Feb 24,4,Parkdale,Le Page,No. 2,Lucas Jin,Jacob Pho,Lucas Jin,6-3,6,3,1,0,Completed,true,false,false
+UA019042,25 Feb 24,4,Parkdale,Le Page,No. 3,Evie Mustica,Louis Super,Evie Mustica,6-0,6,0,1,0,Completed,true,false,false
+UA019042,25 Feb 24,4,Parkdale,Le Page,No. 4,Lilly Millard,Yatharth Manware,Yatharth Manware,0-6,0,6,0,1,Completed,true,false,false
+UA019043,25 Feb 24,4,Hurlingham Park,Beaumaris CC,No. 1,Vivienne Wittenberg,Amara Naing,Amara Naing,1-6,1,6,0,1,Completed,true,false,false
+UA019043,25 Feb 24,4,Hurlingham Park,Beaumaris CC,No. 2,Josh Krodkiewski,Harper Gehrig,Harper Gehrig,3-6,3,6,0,1,Completed,true,false,false
+UA019043,25 Feb 24,4,Hurlingham Park,Beaumaris CC,No. 3,Edward Wittenberg,Vita Tran,Edward Wittenberg,6-1,6,1,1,0,Completed,true,false,false
+UA019043,25 Feb 24,4,Hurlingham Park,Beaumaris CC,No. 4,Mimi Hearnden,Zoey Bhatt,Mimi Hearnden,6-2,6,2,1,0,Completed,true,false,false
+UA019044,25 Feb 24,4,BLTC Blue,St Pats Mentone,No. 1,Charles O'Haire,Lee O'Gradie,Charles O'Haire,6-2,6,2,1,0,Completed,true,false,false
+UA019044,25 Feb 24,4,BLTC Blue,St Pats Mentone,No. 2,Henry Sullivan,Dominik Buschkuehl,Henry Sullivan,6-4,6,4,1,0,Completed,true,false,false
+UA019044,25 Feb 24,4,BLTC Blue,St Pats Mentone,No. 3,Spencer Witherington,Wiliam Dormer,Wiliam Dormer,3-6,3,6,0,1,Completed,true,false,false
+UA019044,25 Feb 24,4,BLTC Blue,St Pats Mentone,No. 4,Annabelle Gorton,Ryan Piao,Annabelle Gorton,6-2,6,2,1,0,Completed,true,false,false
+UA019051,03 Mar 24,5,Beaumaris CC,St Pats Mentone,No. 1,Amara Naing,Lee O'Gradie,Amara Naing,6-2,6,2,1,0,Completed,true,false,false
+UA019051,03 Mar 24,5,Beaumaris CC,St Pats Mentone,No. 2,Tamara Tran,Dominik Buschkuehl,Tamara Tran,6-0,6,0,1,0,Completed,true,false,false
+UA019051,03 Mar 24,5,Beaumaris CC,St Pats Mentone,No. 3,Vita Tran,Levi Rizun,Vita Tran,6-4,6,4,1,0,Completed,true,false,false
+UA019051,03 Mar 24,5,Beaumaris CC,St Pats Mentone,No. 4,Zoey Bhatt,Wiliam Dormer,Wiliam Dormer,2-6,2,6,0,1,Completed,true,false,false
+UA019052,03 Mar 24,5,Hurlingham Park,Parkdale,No. 1,Charlie O'Neil,Zoe Sedunary,Charlie O'Neil,6-1,6,1,1,0,Completed,true,false,false
+UA019052,03 Mar 24,5,Hurlingham Park,Parkdale,No. 2,Chloe O'Neill,Samaira Tandon,Samaira Tandon,3-6,3,6,0,1,Completed,true,false,false
+UA019052,03 Mar 24,5,Hurlingham Park,Parkdale,No. 3,Josh Krodkiewski,Aidan Roach,Josh Krodkiewski,6-4,6,4,1,0,Completed,true,false,false
+UA019052,03 Mar 24,5,Hurlingham Park,Parkdale,No. 4,Mimi Hearnden,Lucas Jin,Lucas Jin,0-6,0,6,0,1,Completed,true,false,false
+UA019053,03 Mar 24,5,Kooyong,BLTC Blue,No. 1,Leo Nuttall,Aidan Tan,Aidan Tan,6-7,6,7,0,1,Completed,true,false,false
+UA019053,03 Mar 24,5,Kooyong,BLTC Blue,No. 2,Raghav Chandrasekaran,Henry Sullivan,Henry Sullivan,6-7,6,7,0,1,Completed,true,false,false
+UA019053,03 Mar 24,5,Kooyong,BLTC Blue,No. 3,Ethan Wu,Spencer Witherington,Ethan Wu,6-4,6,4,1,0,Completed,true,false,false
+UA019053,03 Mar 24,5,Kooyong,BLTC Blue,No. 4,Henry Colbert,Annabelle Gorton,Annabelle Gorton,0-6,0,6,0,1,Completed,true,false,false
+UA019054,03 Mar 24,5,GPHC,Le Page,No. 1,Angelina Olivetto,Yohan Singh,Angelina Olivetto,6-1,6,1,1,0,Completed,true,false,false
+UA019054,03 Mar 24,5,GPHC,Le Page,No. 2,Patrick Cruickshanks,Yatharth Manware,Yatharth Manware,2-6,2,6,0,1,Completed,true,false,false
+UA019054,03 Mar 24,5,GPHC,Le Page,No. 3,Levi Goulding,Louis Super,Levi Goulding,6-0,6,0,1,0,Completed,true,false,false
+UA019054,03 Mar 24,5,GPHC,Le Page,No. 4,Lilly Hobbs,Mitchell Loimaranta,Lilly Hobbs,6-2,6,2,1,0,Completed,true,false,false
+UA019061,17 Mar 24,6,Le Page,Beaumaris CC,No. 1,Johnny Wu,Amara Naing,Amara Naing,1-6,1,6,0,1,Completed,true,false,false
+UA019061,17 Mar 24,6,Le Page,Beaumaris CC,No. 2,Jacob Pho,Tamara Tran,Tamara Tran,1-6,1,6,0,1,Completed,true,false,false
+UA019061,17 Mar 24,6,Le Page,Beaumaris CC,No. 3,Yatharth Manware,Harper Gehrig,Yatharth Manware,6-0,6,0,1,0,Completed,true,false,false
+UA019061,17 Mar 24,6,Le Page,Beaumaris CC,No. 4,Mitchell Loimaranta,Vita Tran,Mitchell Loimaranta,6-3,6,3,1,0,Completed,true,false,false
+UA019062,17 Mar 24,6,St Pats Mentone,GPHC,No. 1,Lee O'Gradie,Angelina Olivetto,Angelina Olivetto,2-6,2,6,0,1,Completed,true,false,false
+UA019062,17 Mar 24,6,St Pats Mentone,GPHC,No. 2,Dominik Buschkuehl,Alex Tasiopoulos,Dominik Buschkuehl,6-2,6,2,1,0,Completed,true,false,false
+UA019062,17 Mar 24,6,St Pats Mentone,GPHC,No. 3,Wiliam Dormer,Lilly Hobbs,Lilly Hobbs,2-6,2,6,0,1,Completed,true,false,false
+UA019062,17 Mar 24,6,St Pats Mentone,GPHC,No. 4,Ryan Piao,Jasper Nevill,Jasper Nevill,5-7,5,7,0,1,Completed,true,false,true
+UA019063,17 Mar 24,6,Parkdale,Kooyong,No. 1,Samaira Tandon,Leo Nuttall,Leo Nuttall,1-6,1,6,0,1,Completed,true,false,false
+UA019063,17 Mar 24,6,Parkdale,Kooyong,No. 2,Aidan Roach,Raghav Chandrasekaran,Raghav Chandrasekaran,0-6,0,6,0,1,Completed,true,false,false
+UA019063,17 Mar 24,6,Parkdale,Kooyong,No. 3,Evie Mustica,Ethan Wu,Ethan Wu,1-6,1,6,0,1,Completed,true,false,false
+UA019063,17 Mar 24,6,Parkdale,Kooyong,No. 4,Lilly Millard,Nate O'Donohue,Nate O'Donohue,0-6,0,6,0,1,Completed,true,false,true
+UA019064,17 Mar 24,6,BLTC Blue,Hurlingham Park,No. 1,Aidan Tan,Charlie O'Neil,Charlie O'Neil,4-6,4,6,0,1,Completed,true,false,false
+UA019064,17 Mar 24,6,BLTC Blue,Hurlingham Park,No. 2,Charles O'Haire,Chloe O'Neill,Chloe O'Neill,4-6,4,6,0,1,Completed,true,false,false
+UA019064,17 Mar 24,6,BLTC Blue,Hurlingham Park,No. 3,Henry Sullivan,Vivienne Wittenberg,Vivienne Wittenberg,2-6,2,6,0,1,Completed,true,false,false
+UA019064,17 Mar 24,6,BLTC Blue,Hurlingham Park,No. 4,Spencer Witherington,Edward Wittenberg,Edward Wittenberg,3-6,3,6,0,1,Completed,true,false,false
+UA019071,24 Mar 24,7,GPHC,Beaumaris CC,No. 1,Angelina Olivetto,Amara Naing,Amara Naing,6-7,6,7,0,1,Completed,true,false,false
+UA019071,24 Mar 24,7,GPHC,Beaumaris CC,No. 2,Patrick Cruickshanks,Tamara Tran,Tamara Tran,1-6,1,6,0,1,Completed,true,false,false
+UA019071,24 Mar 24,7,GPHC,Beaumaris CC,No. 3,Levi Goulding,Harper Gehrig,Harper Gehrig,4-6,4,6,0,1,Completed,true,false,false
+UA019071,24 Mar 24,7,GPHC,Beaumaris CC,No. 4,Alex Tasiopoulos,Oliver Naing,Alex Tasiopoulos,6-0,6,0,1,0,Completed,true,false,true
+UA019072,24 Mar 24,7,Le Page,St Pats Mentone,No. 1,Yohan Singh,Lee O'Gradie,Lee O'Gradie,3-6,3,6,0,1,Completed,true,false,false
+UA019072,24 Mar 24,7,Le Page,St Pats Mentone,No. 2,Johnny Wu,Levi Rizun,Levi Rizun,4-6,4,6,0,1,Completed,true,false,false
+UA019072,24 Mar 24,7,Le Page,St Pats Mentone,No. 3,Jacob Pho,Wiliam Dormer,Jacob Pho,7-5,7,5,1,0,Completed,true,false,false
+UA019072,24 Mar 24,7,Le Page,St Pats Mentone,No. 4,Louis Super,Ryan Piao,Ryan Piao,3-6,3,6,0,1,Completed,true,false,false
+UA019073,24 Mar 24,7,Hurlingham Park,Kooyong,No. 1,Charlie O'Neil,Leo Nuttall,Leo Nuttall,0-6,0,6,0,1,Completed,true,false,false
+UA019073,24 Mar 24,7,Hurlingham Park,Kooyong,No. 2,Chloe O'Neill,Ethan Wu,Chloe O'Neill,6-4,6,4,1,0,Completed,true,false,false
+UA019073,24 Mar 24,7,Hurlingham Park,Kooyong,No. 3,Edward Wittenberg,Ava Byrne,Edward Wittenberg,6-2,6,2,1,0,Completed,true,false,false
+UA019073,24 Mar 24,7,Hurlingham Park,Kooyong,No. 4,Mimi Hearnden,Henry Colbert,Mimi Hearnden,6-0,6,0,1,0,Completed,true,false,false
+UA019074,24 Mar 24,7,Parkdale,BLTC Blue,No. 1,Aidan Roach,Aidan Tan,Aidan Tan,1-6,1,6,0,1,Completed,true,false,false
+UA019074,24 Mar 24,7,Parkdale,BLTC Blue,No. 2,Lucas Jin,Charles O'Haire,Charles O'Haire,2-6,2,6,0,1,Completed,true,false,false
+UA019074,24 Mar 24,7,Parkdale,BLTC Blue,No. 3,Evie Mustica,Spencer Witherington,Spencer Witherington,3-6,3,6,0,1,Completed,true,false,false
+UA019074,24 Mar 24,7,Parkdale,BLTC Blue,No. 4,Lilly Millard,Annabelle Gorton,Annabelle Gorton,2-6,2,6,0,1,Completed,true,false,false
+UA019081,21 Apr 24,8,BLTC Blue,GPHC,No. 1,Aidan Tan,Angelina Olivetto,Aidan Tan,6-2,6,2,1,0,Completed,true,false,false
+UA019081,21 Apr 24,8,BLTC Blue,GPHC,No. 2,Charles O'Haire,Patrick Cruickshanks,Charles O'Haire,6-4,6,4,1,0,Completed,true,false,false
+UA019081,21 Apr 24,8,BLTC Blue,GPHC,No. 3,Henry Sullivan,Levi Goulding,Levi Goulding,4-6,4,6,0,1,Completed,true,false,false
+UA019081,21 Apr 24,8,BLTC Blue,GPHC,No. 4,Annabelle Gorton,Alex Tasiopoulos,Annabelle Gorton,6-4,6,4,1,0,Completed,true,false,false
+UA019082,21 Apr 24,8,Kooyong,Le Page,No. 1,Leo Nuttall,Yohan Singh,Leo Nuttall,6-1,6,1,1,0,Completed,true,false,false
+UA019082,21 Apr 24,8,Kooyong,Le Page,No. 2,Raghav Chandrasekaran,Johnny Wu,Johnny Wu,2-6,2,6,0,1,Completed,true,false,false
+UA019082,21 Apr 24,8,Kooyong,Le Page,No. 3,Ava Byrne,Yatharth Manware,Yatharth Manware,0-6,0,6,0,1,Completed,true,false,false
+UA019082,21 Apr 24,8,Kooyong,Le Page,No. 4,Henry Colbert,Mitchell Loimaranta,Mitchell Loimaranta,1-6,1,6,0,1,Completed,true,false,false
+UA019083,21 Apr 24,8,Parkdale,Beaumaris CC,No. 1,Samaira Tandon,Amara Naing,Amara Naing,0-6,0,6,0,1,Completed,true,false,false
+UA019083,21 Apr 24,8,Parkdale,Beaumaris CC,No. 2,Lucas Jin,Tamara Tran,Lucas Jin,6-3,6,3,1,0,Completed,true,false,false
+UA019083,21 Apr 24,8,Parkdale,Beaumaris CC,No. 3,Evie Mustica,Vita Tran,Vita Tran,5-7,5,7,0,1,Completed,true,false,false
+UA019083,21 Apr 24,8,Parkdale,Beaumaris CC,No. 4,Lilly Millard,Zoey Bhatt,Zoey Bhatt,5-7,5,7,0,1,Completed,true,false,false
+UA019084,21 Apr 24,8,Hurlingham Park,St Pats Mentone,No. 1,Chloe O'Neill,Lee O'Gradie,Lee O'Gradie,6-7,6,7,0,1,Completed,true,false,false
+UA019084,21 Apr 24,8,Hurlingham Park,St Pats Mentone,No. 2,Vivienne Wittenberg,Dominik Buschkuehl,Dominik Buschkuehl,3-6,3,6,0,1,Completed,true,false,false
+UA019084,21 Apr 24,8,Hurlingham Park,St Pats Mentone,No. 3,Josh Krodkiewski,Wiliam Dormer,Josh Krodkiewski,6-1,6,1,1,0,Completed,true,false,false
+UA019084,21 Apr 24,8,Hurlingham Park,St Pats Mentone,No. 4,Mimi Hearnden,Ryan Piao,Ryan Piao,3-6,3,6,0,1,Completed,true,false,false
+UA019091,28 Apr 24,9,GPHC,Hurlingham Park,No. 1,Angelina Olivetto,Charlie O'Neil,Angelina Olivetto,6-3,6,3,1,0,Completed,true,false,false
+UA019091,28 Apr 24,9,GPHC,Hurlingham Park,No. 2,Patrick Cruickshanks,Vivienne Wittenberg,Patrick Cruickshanks,6-2,6,2,1,0,Completed,true,false,false
+UA019091,28 Apr 24,9,GPHC,Hurlingham Park,No. 3,Lilly Hobbs,Josh Krodkiewski,Lilly Hobbs,6-4,6,4,1,0,Completed,true,false,false
+UA019091,28 Apr 24,9,GPHC,Hurlingham Park,No. 4,Gavin Rutherford,Edward Wittenberg,Gavin Rutherford,6-3,6,3,1,0,Completed,true,true,false
+UA019092,28 Apr 24,9,Le Page,BLTC Blue,No. 1,Yohan Singh,Aidan Tan,Aidan Tan,1-6,1,6,0,1,Completed,true,false,false
+UA019092,28 Apr 24,9,Le Page,BLTC Blue,No. 2,Jacob Pho,Charles O'Haire,Charles O'Haire,3-6,3,6,0,1,Completed,true,false,false
+UA019092,28 Apr 24,9,Le Page,BLTC Blue,No. 3,Louis Super,Spencer Witherington,Louis Super,6-1,6,1,1,0,Completed,true,false,false
+UA019092,28 Apr 24,9,Le Page,BLTC Blue,No. 4,Mitchell Loimaranta,Annabelle Gorton,Annabelle Gorton,2-6,2,6,0,1,Completed,true,false,false
+UA019093,28 Apr 24,9,Beaumaris CC,Kooyong,No. 1,Amara Naing,Leo Nuttall,Leo Nuttall,5-7,5,7,0,1,Completed,true,false,false
+UA019093,28 Apr 24,9,Beaumaris CC,Kooyong,No. 2,Tamara Tran,Raghav Chandrasekaran,Raghav Chandrasekaran,4-6,4,6,0,1,Completed,true,false,false
+UA019093,28 Apr 24,9,Beaumaris CC,Kooyong,No. 3,Vita Tran,Ethan Wu,Ethan Wu,2-6,2,6,0,1,Completed,true,false,false
+UA019093,28 Apr 24,9,Beaumaris CC,Kooyong,No. 4,Zoey Bhatt,Ava Byrne,Zoey Bhatt,6-0,6,0,1,0,Completed,true,false,false
+UA019094,28 Apr 24,9,St Pats Mentone,Parkdale,No. 1,Lee O'Gradie,Zoe Sedunary,Zoe Sedunary,1-6,1,6,0,1,Completed,true,false,false
+UA019094,28 Apr 24,9,St Pats Mentone,Parkdale,No. 2,Dominik Buschkuehl,Samaira Tandon,Samaira Tandon,5-7,5,7,0,1,Completed,true,false,false
+UA019094,28 Apr 24,9,St Pats Mentone,Parkdale,No. 3,Wiliam Dormer,Aidan Roach,Wiliam Dormer,6-1,6,1,1,0,Completed,true,false,false
+UA019094,28 Apr 24,9,St Pats Mentone,Parkdale,No. 4,Cooper Henderson,Lucas Jin,Cooper Henderson,7-5,7,5,1,0,Completed,true,false,false
+UA019101,05 May 24,10,Parkdale,GPHC,No. 1,Samaira Tandon,Angelina Olivetto,Angelina Olivetto,3-6,3,6,0,1,Completed,true,false,false
+UA019101,05 May 24,10,Parkdale,GPHC,No. 2,Aidan Roach,Patrick Cruickshanks,Patrick Cruickshanks,2-6,2,6,0,1,Completed,true,false,false
+UA019101,05 May 24,10,Parkdale,GPHC,No. 3,Lucas Jin,Levi Goulding,Levi Goulding,3-6,3,6,0,1,Completed,true,false,false
+UA019101,05 May 24,10,Parkdale,GPHC,No. 4,Lilly Millard,Lilly Hobbs,Lilly Hobbs,1-6,1,6,0,1,Completed,true,false,false
+UA019102,05 May 24,10,Hurlingham Park,Le Page,No. 1,Charlie O'Neil,Johnny Wu,Charlie O'Neil,6-0,6,0,1,0,Completed,true,false,false
+UA019102,05 May 24,10,Hurlingham Park,Le Page,No. 2,Chloe O'Neill,Jacob Pho,Chloe O'Neill,6-2,6,2,1,0,Completed,true,false,false
+UA019102,05 May 24,10,Hurlingham Park,Le Page,No. 3,Vivienne Wittenberg,Yatharth Manware,Yatharth Manware,4-6,4,6,0,1,Completed,true,false,false
+UA019102,05 May 24,10,Hurlingham Park,Le Page,No. 4,Josh Krodkiewski,Mitchell Loimaranta,Mitchell Loimaranta,2-6,2,6,0,1,Completed,true,false,false
+UA019103,05 May 24,10,BLTC Blue,Beaumaris CC,No. 1,Aidan Tan,Amara Naing,Aidan Tan,6-3,6,3,1,0,Completed,true,false,false
+UA019103,05 May 24,10,BLTC Blue,Beaumaris CC,No. 2,Henry Sullivan,Tamara Tran,Henry Sullivan,6-3,6,3,1,0,Completed,true,false,false
+UA019103,05 May 24,10,BLTC Blue,Beaumaris CC,No. 3,Spencer Witherington,Vita Tran,Vita Tran,1-6,1,6,0,1,Completed,true,false,false
+UA019103,05 May 24,10,BLTC Blue,Beaumaris CC,No. 4,Annabelle Gorton,Zoey Bhatt,Annabelle Gorton,6-0,6,0,1,0,Completed,true,false,false
+UA019104,05 May 24,10,Kooyong,St Pats Mentone,No. 1,Ethan Wu,Lee O'Gradie,Lee O'Gradie,2-6,2,6,0,1,Completed,true,false,false
+UA019104,05 May 24,10,Kooyong,St Pats Mentone,No. 2,Ava Byrne,Dominik Buschkuehl,Dominik Buschkuehl,0-6,0,6,0,1,Completed,true,false,false
+UA019104,05 May 24,10,Kooyong,St Pats Mentone,No. 3,Henry Colbert,Wiliam Dormer,Wiliam Dormer,0-6,0,6,0,1,Completed,true,false,false
+UA019104,05 May 24,10,Kooyong,St Pats Mentone,No. 4,Oliver Colbert,Cooper Henderson,Cooper Henderson,0-6,0,6,0,1,Completed,true,false,false
+UA019111,12 May 24,11,GPHC,Kooyong,No. 1,Angelina Olivetto,Raghav Chandrasekaran,Angelina Olivetto,6-2,6,2,1,0,Completed,true,false,false
+UA019111,12 May 24,11,GPHC,Kooyong,No. 2,Levi Goulding,Ethan Wu,Levi Goulding,6-1,6,1,1,0,Completed,true,false,false
+UA019111,12 May 24,11,GPHC,Kooyong,No. 3,Alex Tasiopoulos,Ava Byrne,Alex Tasiopoulos,6-3,6,3,1,0,Completed,true,false,false
+UA019111,12 May 24,11,GPHC,Kooyong,No. 4,Lilly Hobbs,Lucy Ball,Lucy Ball,3-6,3,6,0,1,Completed,true,false,true
+UA019112,12 May 24,11,Le Page,Parkdale,No. 1,Johnny Wu,Zoe Sedunary,Zoe Sedunary,3-6,3,6,0,1,Completed,true,false,false
+UA019112,12 May 24,11,Le Page,Parkdale,No. 2,Jacob Pho,Lucas Jin,Lucas Jin,2-6,2,6,0,1,Completed,true,false,false
+UA019112,12 May 24,11,Le Page,Parkdale,No. 3,Louis Super,Lilly Millard,Louis Super,6-4,6,4,1,0,Completed,true,false,false
+UA019112,12 May 24,11,Le Page,Parkdale,No. 4,Yatharth Manware,Casper Tozer,Yatharth Manware,6-2,6,2,1,0,Completed,true,false,true
+UA019113,12 May 24,11,Beaumaris CC,Hurlingham Park,No. 1,Amara Naing,Chloe O'Neill,Amara Naing,6-0,6,0,1,0,Completed,true,false,false
+UA019113,12 May 24,11,Beaumaris CC,Hurlingham Park,No. 2,Tamara Tran,Vivienne Wittenberg,Tamara Tran,6-2,6,2,1,0,Completed,true,false,false
+UA019113,12 May 24,11,Beaumaris CC,Hurlingham Park,No. 3,Vita Tran,Edward Wittenberg,Vita Tran,7-5,7,5,1,0,Completed,true,false,false
+UA019113,12 May 24,11,Beaumaris CC,Hurlingham Park,No. 4,Zoey Bhatt,Mimi Hearnden,Zoey Bhatt,6-3,6,3,1,0,Completed,true,false,false
+UA019114,12 May 24,11,St Pats Mentone,BLTC Blue,No. 1,Lee O'Gradie,Charles O'Haire,Lee O'Gradie,6-2,6,2,1,0,Completed,true,false,false
+UA019114,12 May 24,11,St Pats Mentone,BLTC Blue,No. 2,Dominik Buschkuehl,Henry Sullivan,Henry Sullivan,3-6,3,6,0,1,Completed,true,false,false
+UA019114,12 May 24,11,St Pats Mentone,BLTC Blue,No. 3,Wiliam Dormer,Spencer Witherington,Spencer Witherington,0-6,0,6,0,1,Completed,true,false,false
+UA019114,12 May 24,11,St Pats Mentone,BLTC Blue,No. 4,Cooper Henderson,Annabelle Gorton,Annabelle Gorton,3-6,3,6,0,1,Completed,true,false,false
+UA019121,19 May 24,12,St Pats Mentone,Beaumaris CC,No. 1,Lee O'Gradie,Amara Naing,Amara Naing,1-6,1,6,0,1,Completed,true,false,false
+UA019121,19 May 24,12,St Pats Mentone,Beaumaris CC,No. 2,Dominik Buschkuehl,Tamara Tran,Dominik Buschkuehl,6-2,6,2,1,0,Completed,true,false,false
+UA019121,19 May 24,12,St Pats Mentone,Beaumaris CC,No. 3,Wiliam Dormer,Vita Tran,Vita Tran,5-7,5,7,0,1,Completed,true,false,false
+UA019121,19 May 24,12,St Pats Mentone,Beaumaris CC,No. 4,Cooper Henderson,Zoey Bhatt,Cooper Henderson,6-3,6,3,1,0,Completed,true,false,false
+UA019122,19 May 24,12,Parkdale,Hurlingham Park,No. 1,Samaira Tandon,Chloe O'Neill,Chloe O'Neill,4-6,4,6,0,1,Completed,true,false,false
+UA019122,19 May 24,12,Parkdale,Hurlingham Park,No. 2,Aidan Roach,Vivienne Wittenberg,Vivienne Wittenberg,1-6,1,6,0,1,Completed,true,false,false
+UA019122,19 May 24,12,Parkdale,Hurlingham Park,No. 3,Lucas Jin,Josh Krodkiewski,Josh Krodkiewski,5-7,5,7,0,1,Completed,true,false,false
+UA019122,19 May 24,12,Parkdale,Hurlingham Park,No. 4,Evie Mustica,Mimi Hearnden,Mimi Hearnden,3-6,3,6,0,1,Completed,true,false,false
+UA019124,19 May 24,12,Le Page,GPHC,No. 1,Yohan Singh,Patrick Cruickshanks,Patrick Cruickshanks,1-6,1,6,0,1,Completed,true,false,false
+UA019124,19 May 24,12,Le Page,GPHC,No. 2,Jacob Pho,Alex Tasiopoulos,Jacob Pho,6-3,6,3,1,0,Completed,true,false,false
+UA019124,19 May 24,12,Le Page,GPHC,No. 3,Louis Super,Lilly Hobbs,Lilly Hobbs,4-6,4,6,0,1,Completed,true,false,false
+UA019124,19 May 24,12,Le Page,GPHC,No. 4,Yatharth Manware,Ella Thiel,Yatharth Manware,6-2,6,2,1,0,Completed,true,false,true
+UA019131,26 May 24,13,Beaumaris CC,Le Page,No. 1,Amara Naing,Yohan Singh,Amara Naing,6-0,6,0,1,0,Completed,true,false,false
+UA019131,26 May 24,13,Beaumaris CC,Le Page,No. 2,Tamara Tran,Johnny Wu,Tamara Tran,6-1,6,1,1,0,Completed,true,false,false
+UA019131,26 May 24,13,Beaumaris CC,Le Page,No. 3,Vita Tran,Yatharth Manware,Yatharth Manware,1-6,1,6,0,1,Completed,true,false,false
+UA019131,26 May 24,13,Beaumaris CC,Le Page,No. 4,Oliver Naing,Mitchell Loimaranta,Oliver Naing,6-4,6,4,1,0,Completed,true,true,false
+UA019132,26 May 24,13,GPHC,St Pats Mentone,No. 1,Angelina Olivetto,Lee O'Gradie,Angelina Olivetto,6-1,6,1,1,0,Completed,true,false,false
+UA019132,26 May 24,13,GPHC,St Pats Mentone,No. 2,Patrick Cruickshanks,Caleb Logan,Caleb Logan,5-7,5,7,0,1,Completed,true,false,true
+UA019132,26 May 24,13,GPHC,St Pats Mentone,No. 3,Levi Goulding,Wiliam Dormer,Wiliam Dormer,5-7,5,7,0,1,Completed,true,false,false
+UA019132,26 May 24,13,GPHC,St Pats Mentone,No. 4,Lilly Hobbs,Ryan Piao,Lilly Hobbs,6-0,6,0,1,0,Completed,true,false,false
+UA019133,26 May 24,13,Kooyong,Parkdale,No. 1,Leo Nuttall,Zoe Sedunary,Leo Nuttall,6-3,6,3,1,0,Completed,true,false,false
+UA019133,26 May 24,13,Kooyong,Parkdale,No. 2,Raghav Chandrasekaran,Samaira Tandon,Samaira Tandon,2-6,2,6,0,1,Completed,true,false,false
+UA019133,26 May 24,13,Kooyong,Parkdale,No. 3,Ava Byrne,Aidan Roach,Aidan Roach,4-6,4,6,0,1,Completed,true,false,false
+UA019133,26 May 24,13,Kooyong,Parkdale,No. 4,Millie Gillon,Lilly Millard,Lilly Millard,4-6,4,6,0,1,Completed,true,true,false
+UA019134,26 May 24,13,Hurlingham Park,BLTC Blue,No. 1,Charlie O'Neil,Aidan Tan,Aidan Tan,3-6,3,6,0,1,Completed,true,false,false
+UA019134,26 May 24,13,Hurlingham Park,BLTC Blue,No. 2,Chloe O'Neill,Charles O'Haire,Chloe O'Neill,6-4,6,4,1,0,Completed,true,false,false
+UA019134,26 May 24,13,Hurlingham Park,BLTC Blue,No. 3,Josh Krodkiewski,Henry Sullivan,Henry Sullivan,4-6,4,6,0,1,Completed,true,false,false
+UA019134,26 May 24,13,Hurlingham Park,BLTC Blue,No. 4,Mimi Hearnden,Annabelle Gorton,Annabelle Gorton,3-6,3,6,0,1,Completed,true,false,false
+UA019141,02 Jun 24,14,Beaumaris CC,GPHC,No. 1,Amara Naing,Angelina Olivetto,Amara Naing,6-2,6,2,1,0,Completed,true,false,false
+UA019141,02 Jun 24,14,Beaumaris CC,GPHC,No. 2,Tamara Tran,Patrick Cruickshanks,Tamara Tran,6-3,6,3,1,0,Completed,true,false,false
+UA019141,02 Jun 24,14,Beaumaris CC,GPHC,No. 3,Vita Tran,Alex Tasiopoulos,Alex Tasiopoulos,4-6,4,6,0,1,Completed,true,false,false
+UA019141,02 Jun 24,14,Beaumaris CC,GPHC,No. 4,Zoey Bhatt,Lilly Hobbs,Lilly Hobbs,6-7,6,7,0,1,Completed,true,false,false
+UA019142,02 Jun 24,14,St Pats Mentone,Le Page,No. 1,Lee O'Gradie,Yohan Singh,Lee O'Gradie,6-2,6,2,1,0,Completed,true,false,false
+UA019142,02 Jun 24,14,St Pats Mentone,Le Page,No. 2,Wiliam Dormer,Johnny Wu,Johnny Wu,1-6,1,6,0,1,Completed,true,false,false
+UA019142,02 Jun 24,14,St Pats Mentone,Le Page,No. 3,Cooper Henderson,Louis Super,Cooper Henderson,6-1,6,1,1,0,Completed,true,false,false
+UA019142,02 Jun 24,14,St Pats Mentone,Le Page,No. 4,Luke Tate,Mitchell Loimaranta,Luke Tate,6-4,6,4,1,0,Completed,true,true,false
+UA019143,02 Jun 24,14,Kooyong,Hurlingham Park,No. 1,Leo Nuttall,Charlie O'Neil,Leo Nuttall,6-0,6,0,1,0,Completed,true,false,false
+UA019143,02 Jun 24,14,Kooyong,Hurlingham Park,No. 2,Raghav Chandrasekaran,Chloe O'Neill,Chloe O'Neill,1-6,1,6,0,1,Completed,true,false,false
+UA019143,02 Jun 24,14,Kooyong,Hurlingham Park,No. 3,Ethan Wu,Vivienne Wittenberg,Vivienne Wittenberg,6-7,6,7,0,1,Completed,true,false,false
+UA019143,02 Jun 24,14,Kooyong,Hurlingham Park,No. 4,Henry Colbert,Josh Krodkiewski,Josh Krodkiewski,0-6,0,6,0,1,Completed,true,false,false
+UA019144,02 Jun 24,14,BLTC Blue,Parkdale,No. 1,Aidan Tan,Lucas Jin,Aidan Tan,6-3,6,3,1,0,Completed,true,false,false
+UA019144,02 Jun 24,14,BLTC Blue,Parkdale,No. 2,Charles O'Haire,Evie Mustica,Charles O'Haire,6-2,6,2,1,0,Completed,true,false,false
+UA019144,02 Jun 24,14,BLTC Blue,Parkdale,No. 3,Henry Sullivan,Lilly Millard,Henry Sullivan,7-5,7,5,1,0,Completed,true,false,false
+UA019144,02 Jun 24,14,BLTC Blue,Parkdale,No. 4,Annabelle Gorton,Casper Tozer,Annabelle Gorton,6-2,6,2,1,0,Completed,true,false,true
+UA019301,,16,BLTC Blue,St Pats Mentone,No. 1,Aidan Tan,Lee O'Gradie,Aidan Tan,6-0,6,0,1,0,Completed,true,false,false
+UA019301,,16,BLTC Blue,St Pats Mentone,No. 2,Charles O'Haire,Dominik Buschkuehl,Dominik Buschkuehl,2-6,2,6,0,1,Completed,true,false,false
+UA019301,,16,BLTC Blue,St Pats Mentone,No. 3,Henry Sullivan,Levi Rizun,Henry Sullivan,6-2,6,2,1,0,Completed,true,false,false
+UA019301,,16,BLTC Blue,St Pats Mentone,No. 4,Lucas Volum,Wiliam Dormer,Lucas Volum,6-0,6,0,1,0,Completed,true,true,false
+UA019302,,16,GPHC,Beaumaris CC,No. 1,Angelina Olivetto,Amara Naing,Amara Naing,4-6,4,6,0,1,Completed,true,false,false
+UA019302,,16,GPHC,Beaumaris CC,No. 2,Patrick Cruickshanks,Tamara Tran,Tamara Tran,3-6,3,6,0,1,Completed,true,false,false
+UA019302,,16,GPHC,Beaumaris CC,No. 3,Levi Goulding,Vita Tran,Levi Goulding,6-4,6,4,1,0,Completed,true,false,false
+UA019302,,16,GPHC,Beaumaris CC,No. 4,Alex Tasiopoulos,Zoey Bhatt,Alex Tasiopoulos,6-1,6,1,1,0,Completed,true,false,false
+UA019321,,17,BLTC Blue,GPHC,No. 1,Aidan Tan,Angelina Olivetto,Aidan Tan,6-2,6,2,1,0,Completed,true,false,false
+UA019321,,17,BLTC Blue,GPHC,No. 2,Charles O'Haire,Patrick Cruickshanks,Patrick Cruickshanks,0-6,0,6,0,1,Completed,true,false,false
+UA019321,,17,BLTC Blue,GPHC,No. 3,Henry Sullivan,Levi Goulding,Levi Goulding,6-7,6,7,0,1,Completed,true,false,false
+UA019321,,17,BLTC Blue,GPHC,No. 4,Annabelle Gorton,Alex Tasiopoulos,Alex Tasiopoulos,3-6,3,6,0,1,Completed,true,false,false

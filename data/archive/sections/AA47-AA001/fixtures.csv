@@ -1,0 +1,45 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+AA001011,01 Feb 20,1,regular,Round 1,Kooyong MLC,Carmelite 1,0.5,9.5,0,5,,,8,35,Completed,
+AA001012,01 Feb 20,1,regular,Round 1,Royal South Yarra 1,Royal South Yarra 2,9,1,5,1,,,33,19,Completed,
+AA001013,01 Feb 20,1,regular,Round 1,Port Melbourne Red,Port Melbourne Blue,5,5,2,2,,,18,18,Completed,
+AA001014,01 Feb 20,1,regular,Round 1,Carmelite 2,Carmelite 3,5,5,2,2,,,18,23,Completed,
+AA001021,08 Feb 20,2,regular,Round 2,Carmelite 3,Kooyong MLC,10,0,6,0,,,37,16,Completed,
+AA001022,08 Feb 20,2,regular,Round 2,Carmelite 1,Royal South Yarra 1,9,1,5,1,,,36,18,Completed,
+AA001023,08 Feb 20,2,regular,Round 2,Royal South Yarra 2,Port Melbourne Red,0,10,0,6,,,9,36,Completed,
+AA001024,08 Feb 20,2,regular,Round 2,Port Melbourne Blue,Carmelite 2,7,3,3,3,,,27,23,Completed,
+AA001031,15 Feb 20,3,regular,Round 3,Kooyong MLC,Port Melbourne Blue,2,8,2,4,,,23,35,Completed,
+AA001032,15 Feb 20,3,regular,Round 3,Royal South Yarra 1,Carmelite 3,2,8,2,4,,,19,32,Completed,
+AA001033,15 Feb 20,3,regular,Round 3,Port Melbourne Red,Carmelite 1,0,10,0,6,,,8,36,Completed,
+AA001034,15 Feb 20,3,regular,Round 3,Carmelite 2,Royal South Yarra 2,9.5,0.5,5,0,,,33,5,Completed,
+AA001041,22 Feb 20,4,regular,Round 4,Royal South Yarra 2,Kooyong MLC,2,8,2,4,,,18,35,Completed,
+AA001042,22 Feb 20,4,regular,Round 4,Port Melbourne Blue,Royal South Yarra 1,7,3,3,3,,,29,24,Completed,
+AA001043,22 Feb 20,4,regular,Round 4,Carmelite 3,Port Melbourne Red,3,7,3,3,,,29,30,Completed,
+AA001044,22 Feb 20,4,regular,Round 4,Carmelite 1,Carmelite 2,9,1,5,1,,,36,17,Completed,
+AA001051,29 Feb 20,5,regular,Round 5,Port Melbourne Red,Carmelite 2,2,8,2,4,,,22,29,Completed,
+AA001052,29 Feb 20,5,regular,Round 5,Carmelite 3,Port Melbourne Blue,0,10,0,6,,,15,37,Completed,
+AA001053,29 Feb 20,5,regular,Round 5,Royal South Yarra 2,Carmelite 1,1,9,1,5,,,15,36,Completed,
+AA001054,29 Feb 20,5,regular,Round 5,Kooyong MLC,Royal South Yarra 1,8,2,4,2,,,29,22,Completed,
+pending-aa001-r6-carmelite-1-carmelite-3,14 Mar 20,6,regular,Round 6,Carmelite 1,Carmelite 3,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-aa001-r6-carmelite-2-kooyong-mlc,14 Mar 20,6,regular,Round 6,Carmelite 2,Kooyong MLC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-aa001-r6-port-melbourne-blue-royal-south-yarra-2,14 Mar 20,6,regular,Round 6,Port Melbourne Blue,Royal South Yarra 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-aa001-r6-royal-south-yarra-1-port-melbourne-red,14 Mar 20,6,regular,Round 6,Royal South Yarra 1,Port Melbourne Red,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-aa001-r7-carmelite-3-royal-south-yarra-2,21 Mar 20,7,regular,Round 7,Carmelite 3,Royal South Yarra 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-aa001-r7-kooyong-mlc-port-melbourne-red,21 Mar 20,7,regular,Round 7,Kooyong MLC,Port Melbourne Red,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-aa001-r7-port-melbourne-blue-carmelite-1,21 Mar 20,7,regular,Round 7,Port Melbourne Blue,Carmelite 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-aa001-r7-royal-south-yarra-1-carmelite-2,21 Mar 20,7,regular,Round 7,Royal South Yarra 1,Carmelite 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+AA001081,18 Apr 20,8,regular,Round 8,Carmelite 1,Kooyong MLC,5,5,0,0,,,30,30,Completed,
+AA001082,18 Apr 20,8,regular,Round 8,Royal South Yarra 2,Royal South Yarra 1,5,5,0,0,,,30,30,Completed,
+AA001083,18 Apr 20,8,regular,Round 8,Port Melbourne Blue,Port Melbourne Red,5,5,0,0,,,28,29,Completed,
+AA001084,18 Apr 20,8,regular,Round 8,Carmelite 3,Carmelite 2,5,5,0,0,,,30,30,Completed,
+AA001091,02 May 20,9,regular,Round 9,Kooyong MLC,Carmelite 3,5,5,0,0,,,30,30,Completed,
+AA001092,02 May 20,9,regular,Round 9,Royal South Yarra 1,Carmelite 1,5,5,0,0,,,28,29,Completed,
+AA001093,02 May 20,9,regular,Round 9,Port Melbourne Red,Royal South Yarra 2,5,5,0,0,,,30,30,Completed,
+AA001094,02 May 20,9,regular,Round 9,Carmelite 2,Port Melbourne Blue,5,5,0,0,,,30,30,Completed,
+AA001101,09 May 20,10,regular,Round 10,Port Melbourne Blue,Kooyong MLC,5,5,0,0,,,30,30,Completed,
+AA001102,09 May 20,10,regular,Round 10,Carmelite 3,Royal South Yarra 1,5,5,0,0,,,30,30,Completed,
+AA001103,09 May 20,10,regular,Round 10,Carmelite 1,Port Melbourne Red,5,5,0,0,,,30,30,Completed,
+AA001104,09 May 20,10,regular,Round 10,Royal South Yarra 2,Carmelite 2,5,5,0,0,,,30,30,Completed,
+AA001111,16 May 20,11,regular,Round 11,Kooyong MLC,Royal South Yarra 2,5,5,0,0,,,30,25,Completed,
+AA001112,16 May 20,11,regular,Round 11,Royal South Yarra 1,Port Melbourne Blue,5,5,0,0,,,30,30,Completed,
+AA001113,16 May 20,11,regular,Round 11,Port Melbourne Red,Carmelite 3,5,5,0,0,,,30,30,Completed,
+AA001114,16 May 20,11,regular,Round 11,Carmelite 2,Carmelite 1,5,5,0,0,,,30,30,Completed,

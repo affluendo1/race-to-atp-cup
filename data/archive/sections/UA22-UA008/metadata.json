@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA22-UA008",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA008",
+  "section_label": "Section 8",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World",
+      "wins": 9,
+      "points": 104,
+      "percentage": 170.63,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Beaumaris CC",
+      "wins": 11,
+      "points": 95,
+      "percentage": 127.96,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "St Louis de Mont",
+      "wins": 9,
+      "points": 83,
+      "percentage": 101.95,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC 2",
+      "wins": 6,
+      "points": 69,
+      "percentage": 97.56,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC 1",
+      "wins": 6,
+      "points": 66,
+      "percentage": 100.56,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave",
+      "wins": 5,
+      "points": 66,
+      "percentage": 99.73,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 6,
+      "points": 64,
+      "percentage": 99.47,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong Scotch",
+      "wins": 0,
+      "points": 13,
+      "percentage": 42.83,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA008",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 115,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

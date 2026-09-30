@@ -1,0 +1,217 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA009011,21 Jul 19,1,Aspendale,Clarinda,No. 1,Matthew Billing,Brandon Tsan,Brandon Tsan,2-6,2,6,0,1,Completed,true,false,false
+UA009011,21 Jul 19,1,Aspendale,Clarinda,No. 2,Cooper Smith,Arhaan Khan,Cooper Smith,6-0,6,0,1,0,Completed,true,false,false
+UA009011,21 Jul 19,1,Aspendale,Clarinda,No. 3,James Kocsis,Ellie Tsan,James Kocsis,6-0,6,0,1,0,Completed,true,false,false
+UA009011,21 Jul 19,1,Aspendale,Clarinda,No. 4,Giles Elton,Ashley Tsan,Ashley Tsan,3-6,3,6,0,1,Completed,true,false,false
+UA009012,21 Jul 19,1,Hurlingham Park,Mentone,No. 1,Luke McKenzie,Laoise Comerford,Luke McKenzie,6-2,6,2,1,0,Completed,true,false,false
+UA009012,21 Jul 19,1,Hurlingham Park,Mentone,No. 2,Nicole Vassilett,Dane Lazic,Nicole Vassilett,6-2,6,2,1,0,Completed,true,false,false
+UA009012,21 Jul 19,1,Hurlingham Park,Mentone,No. 3,William Schiavello,Isabella Donat,William Schiavello,6-2,6,2,1,0,Completed,true,false,false
+UA009012,21 Jul 19,1,Hurlingham Park,Mentone,No. 4,Jeremy Hutchins,Sarah McKenna,Sarah McKenna,0-6,0,6,0,1,Completed,true,false,false
+UA009013,21 Jul 19,1,Coatesville,Maccabi,No. 1,Jenson Yokota-Ho,Jed Kaufman,Jenson Yokota-Ho,6-0,6,0,1,0,Completed,true,false,false
+UA009013,21 Jul 19,1,Coatesville,Maccabi,No. 2,Hugo Pickering,Josh Kallenbach,Hugo Pickering,6-4,6,4,1,0,Completed,true,false,false
+UA009013,21 Jul 19,1,Coatesville,Maccabi,No. 3,Sienna Yokota-Ho,Aaron Birnbaum,Sienna Yokota-Ho,6-2,6,2,1,0,Completed,true,false,false
+UA009013,21 Jul 19,1,Coatesville,Maccabi,No. 4,Aaron Ryan,Jason Khasin,Jason Khasin,3-6,3,6,0,1,Completed,true,false,false
+UA009014,21 Jul 19,1,Glen Eira,St James,No. 1,Barnaby Kinsella,Samuel Sheddon,Samuel Sheddon,2-6,2,6,0,1,Completed,true,false,false
+UA009014,21 Jul 19,1,Glen Eira,St James,No. 2,Maxime Demathieu,Barney Smith,Maxime Demathieu,7-5,7,5,1,0,Completed,true,false,false
+UA009014,21 Jul 19,1,Glen Eira,St James,No. 3,Ashleigh Datt,Gabe Pozo,Gabe Pozo,2-6,2,6,0,1,Completed,true,false,false
+UA009014,21 Jul 19,1,Glen Eira,St James,No. 4,Josh Datt,Oliver Riley,Josh Datt,6-1,6,1,1,0,Completed,true,false,false
+UA009021,28 Jul 19,2,St James,Aspendale,No. 1,Marcel Szynkowska,Matthew Billing,Matthew Billing,1-6,1,6,0,1,Completed,true,false,false
+UA009021,28 Jul 19,2,St James,Aspendale,No. 2,Gabe Pozo,Cooper Smith,Cooper Smith,6-7,6,7,0,1,Completed,true,false,false
+UA009021,28 Jul 19,2,St James,Aspendale,No. 3,Isaac Walsh,James Kocsis,Isaac Walsh,6-4,6,4,1,0,Completed,true,false,false
+UA009021,28 Jul 19,2,St James,Aspendale,No. 4,Vaughn Bodnar,Giles Elton,Giles Elton,2-6,2,6,0,1,Completed,true,false,false
+UA009022,28 Jul 19,2,Clarinda,Hurlingham Park,No. 1,Brandon Tsan,Daniel Deguara,Brandon Tsan,6-4,6,4,1,0,Completed,true,false,false
+UA009022,28 Jul 19,2,Clarinda,Hurlingham Park,No. 2,Ellie Tsan,Nicole Vassilett,Ellie Tsan,6-4,6,4,1,0,Completed,true,false,false
+UA009022,28 Jul 19,2,Clarinda,Hurlingham Park,No. 3,Ashley Tsan,Angus Haddon,Ashley Tsan,6-3,6,3,1,0,Completed,true,false,false
+UA009022,28 Jul 19,2,Clarinda,Hurlingham Park,No. 4,Arhaan Khan,William Schiavello,William Schiavello,4-6,4,6,0,1,Completed,true,false,false
+UA009023,28 Jul 19,2,Mentone,Coatesville,No. 1,Laoise Comerford,Jenson Yokota-Ho,Jenson Yokota-Ho,1-6,1,6,0,1,Completed,true,false,false
+UA009023,28 Jul 19,2,Mentone,Coatesville,No. 2,Isabella Donat,Sienna Yokota-Ho,Sienna Yokota-Ho,0-6,0,6,0,1,Completed,true,false,false
+UA009023,28 Jul 19,2,Mentone,Coatesville,No. 3,James Dimopoulos,Kirk Monterio,Kirk Monterio,3-6,3,6,0,1,Completed,true,false,false
+UA009023,28 Jul 19,2,Mentone,Coatesville,No. 4,Sarah McKenna,Arirudh Sonti,Arirudh Sonti,6-7,6,7,0,1,Completed,true,false,false
+UA009024,28 Jul 19,2,Maccabi,Glen Eira,No. 1,Jed Kaufman,Barnaby Kinsella,Barnaby Kinsella,0-6,0,6,0,1,Completed,true,false,false
+UA009024,28 Jul 19,2,Maccabi,Glen Eira,No. 2,Josh Kallenbach,Maxime Demathieu,Josh Kallenbach,6-3,6,3,1,0,Completed,true,false,false
+UA009024,28 Jul 19,2,Maccabi,Glen Eira,No. 3,Aaron Birnbaum,Rachel Gluzman,Aaron Birnbaum,6-0,6,0,1,0,Completed,true,false,false
+UA009024,28 Jul 19,2,Maccabi,Glen Eira,No. 4,Jordyn Birnbaum,Amira Kacser,Jordyn Birnbaum,6-2,6,2,1,0,Completed,true,false,false
+UA009031,04 Aug 19,3,Aspendale,Maccabi,No. 1,Matthew Billing,Josh Kallenbach,Josh Kallenbach,3-6,3,6,0,1,Completed,true,false,false
+UA009031,04 Aug 19,3,Aspendale,Maccabi,No. 2,Cooper Smith,Aaron Birnbaum,Aaron Birnbaum,4-6,4,6,0,1,Completed,true,false,false
+UA009031,04 Aug 19,3,Aspendale,Maccabi,No. 3,James Kocsis,Jordyn Birnbaum,James Kocsis,7-5,7,5,1,0,Completed,true,false,false
+UA009031,04 Aug 19,3,Aspendale,Maccabi,No. 4,Giles Elton,Jed Kaufman,Giles Elton,6-2,6,2,1,0,Completed,true,false,false
+UA009032,04 Aug 19,3,Hurlingham Park,St James,No. 1,Luke McKenzie,Samuel Sheddon,Samuel Sheddon,4-6,4,6,0,1,Completed,true,false,false
+UA009032,04 Aug 19,3,Hurlingham Park,St James,No. 2,Nicole Vassilett,Marcel Szynkowska,Marcel Szynkowska,4-6,4,6,0,1,Completed,true,false,false
+UA009032,04 Aug 19,3,Hurlingham Park,St James,No. 3,Angus Haddon,Isaac Walsh,Isaac Walsh,4-6,4,6,0,1,Completed,true,false,false
+UA009032,04 Aug 19,3,Hurlingham Park,St James,No. 4,Jeremy Hutchins,Oliver Riley,Oliver Riley,2-6,2,6,0,1,Completed,true,false,false
+UA009034,04 Aug 19,3,Glen Eira,Mentone,No. 1,Ashleigh Datt,Isabella Donat,Ashleigh Datt,6-4,6,4,1,0,Completed,true,false,false
+UA009034,04 Aug 19,3,Glen Eira,Mentone,No. 2,Rachel Gluzman,James Dimopoulos,Rachel Gluzman,6-3,6,3,1,0,Completed,true,false,false
+UA009034,04 Aug 19,3,Glen Eira,Mentone,No. 3,Renae Bekas,Sarah McKenna,Sarah McKenna,2-6,2,6,0,1,Completed,true,false,false
+UA009034,04 Aug 19,3,Glen Eira,Mentone,No. 4,Amira Kacser,Anna Begkli,Anna Begkli,3-6,3,6,0,1,Completed,true,false,false
+UA009051,18 Aug 19,5,Coatesville,Glen Eira,No. 1,Hugo Pickering,Barnaby Kinsella,Hugo Pickering,7-6,7,6,1,0,Completed,true,false,false
+UA009051,18 Aug 19,5,Coatesville,Glen Eira,No. 2,Kirk Monterio,Maxime Demathieu,Kirk Monterio,6-2,6,2,1,0,Completed,true,false,false
+UA009051,18 Aug 19,5,Coatesville,Glen Eira,No. 3,Arirudh Sonti,Renae Bekas,Arirudh Sonti,6-2,6,2,1,0,Completed,true,false,false
+UA009051,18 Aug 19,5,Coatesville,Glen Eira,No. 4,Aaron Ryan,Amira Kacser,Aaron Ryan,6-4,6,4,1,0,Completed,true,false,false
+UA009052,18 Aug 19,5,St James,Maccabi,No. 1,Samuel Sheddon,Jason Khasin,Samuel Sheddon,6-4,6,4,1,0,Completed,true,false,false
+UA009052,18 Aug 19,5,St James,Maccabi,No. 2,Barney Smith,Tom Troski,Barney Smith,6-4,6,4,1,0,Completed,true,false,false
+UA009052,18 Aug 19,5,St James,Maccabi,No. 3,Gabe Pozo,Jordyn Birnbaum,Gabe Pozo,6-1,6,1,1,0,Completed,true,false,false
+UA009052,18 Aug 19,5,St James,Maccabi,No. 4,Isaac Walsh,Jed Kaufman,Jed Kaufman,5-7,5,7,0,1,Completed,true,false,false
+UA009053,18 Aug 19,5,Mentone,Clarinda,No. 1,Laoise Comerford,Brandon Tsan,Brandon Tsan,3-6,3,6,0,1,Completed,true,false,false
+UA009053,18 Aug 19,5,Mentone,Clarinda,No. 2,Isabella Donat,Ellie Tsan,Isabella Donat,7-6,7,6,1,0,Completed,true,false,false
+UA009053,18 Aug 19,5,Mentone,Clarinda,No. 3,Sarah McKenna,Ashley Tsan,Sarah McKenna,7-5,7,5,1,0,Completed,true,false,false
+UA009053,18 Aug 19,5,Mentone,Clarinda,No. 4,Anna Begkli,Arhaan Khan,Arhaan Khan,4-6,4,6,0,1,Completed,true,false,false
+UA009054,18 Aug 19,5,Aspendale,Hurlingham Park,No. 1,Matthew Billing,Nicole Vassilett,Matthew Billing,6-4,6,4,1,0,Completed,true,false,false
+UA009054,18 Aug 19,5,Aspendale,Hurlingham Park,No. 2,Max Jaszewski,Angus Haddon,Max Jaszewski,6-0,6,0,1,0,Completed,true,false,false
+UA009054,18 Aug 19,5,Aspendale,Hurlingham Park,No. 3,James Kocsis,William Schiavello,James Kocsis,6-4,6,4,1,0,Completed,true,false,false
+UA009054,18 Aug 19,5,Aspendale,Hurlingham Park,No. 4,Giles Elton,Jeremy Hutchins,Giles Elton,6-1,6,1,1,0,Completed,true,false,false
+UA009061,25 Aug 19,6,Hurlingham Park,Coatesville,No. 1,Nicole Vassilett,Hugo Pickering,Hugo Pickering,5-7,5,7,0,1,Completed,true,false,false
+UA009061,25 Aug 19,6,Hurlingham Park,Coatesville,No. 2,Angus Haddon,Kirk Monterio,Angus Haddon,7-6,7,6,1,0,Completed,true,false,false
+UA009061,25 Aug 19,6,Hurlingham Park,Coatesville,No. 3,William Schiavello,Arirudh Sonti,Arirudh Sonti,3-6,3,6,0,1,Completed,true,false,false
+UA009061,25 Aug 19,6,Hurlingham Park,Coatesville,No. 4,Jeremy Hutchins,Aaron Ryan,Aaron Ryan,4-6,4,6,0,1,Completed,true,false,false
+UA009062,25 Aug 19,6,Glen Eira,Aspendale,No. 1,Ashleigh Datt,Matthew Billing,Matthew Billing,0-6,0,6,0,1,Completed,true,false,false
+UA009062,25 Aug 19,6,Glen Eira,Aspendale,No. 2,Rachel Gluzman,Cooper Smith,Cooper Smith,3-6,3,6,0,1,Completed,true,false,false
+UA009062,25 Aug 19,6,Glen Eira,Aspendale,No. 3,Renae Bekas,James Kocsis,James Kocsis,1-6,1,6,0,1,Completed,true,false,false
+UA009062,25 Aug 19,6,Glen Eira,Aspendale,No. 4,Amira Kacser,Darcy Nicholson,Darcy Nicholson,3-6,3,6,0,1,Completed,true,false,false
+UA009063,25 Aug 19,6,Maccabi,Mentone,No. 1,Jordyn Birnbaum,Laoise Comerford,Laoise Comerford,0-6,0,6,0,1,Completed,true,false,false
+UA009063,25 Aug 19,6,Maccabi,Mentone,No. 2,Sebastian Raboy,Isabella Donat,Sebastian Raboy,6-0,6,0,1,0,Completed,true,false,false
+UA009063,25 Aug 19,6,Maccabi,Mentone,No. 3,Harley Kaufman,James Dimopoulos,Harley Kaufman,6-1,6,1,1,0,Completed,true,false,false
+UA009063,25 Aug 19,6,Maccabi,Mentone,No. 4,Jed Kaufman,Sarah McKenna,Sarah McKenna,2-6,2,6,0,1,Completed,true,false,false
+UA009064,25 Aug 19,6,Clarinda,St James,No. 1,Brandon Tsan,Marcel Szynkowska,Marcel Szynkowska,5-7,5,7,0,1,Completed,true,false,false
+UA009064,25 Aug 19,6,Clarinda,St James,No. 2,Ellie Tsan,Gabe Pozo,Ellie Tsan,6-3,6,3,1,0,Completed,true,false,false
+UA009064,25 Aug 19,6,Clarinda,St James,No. 3,Ashley Tsan,Isaac Walsh,Ashley Tsan,6-2,6,2,1,0,Completed,true,false,false
+UA009064,25 Aug 19,6,Clarinda,St James,No. 4,Arhaan Khan,Vaughn Bodnar,Arhaan Khan,6-0,6,0,1,0,Completed,true,false,false
+UA009071,01 Sep 19,7,Aspendale,Coatesville,No. 1,Matthew Billing,Hugo Pickering,Hugo Pickering,5-7,5,7,0,1,Completed,true,false,false
+UA009071,01 Sep 19,7,Aspendale,Coatesville,No. 2,Cooper Smith,Kirk Monterio,Cooper Smith,6-1,6,1,1,0,Completed,true,false,false
+UA009071,01 Sep 19,7,Aspendale,Coatesville,No. 3,James Kocsis,Arirudh Sonti,James Kocsis,6-4,6,4,1,0,Completed,true,false,false
+UA009071,01 Sep 19,7,Aspendale,Coatesville,No. 4,Giles Elton,Aaron Ryan,Aaron Ryan,4-6,4,6,0,1,Completed,true,false,false
+UA009072,01 Sep 19,7,Hurlingham Park,Glen Eira,No. 1,Daniel Deguara,Barnaby Kinsella,Barnaby Kinsella,2-6,2,6,0,1,Completed,true,false,false
+UA009072,01 Sep 19,7,Hurlingham Park,Glen Eira,No. 2,Luke McKenzie,Maxime Demathieu,Luke McKenzie,6-4,6,4,1,0,Completed,true,false,false
+UA009072,01 Sep 19,7,Hurlingham Park,Glen Eira,No. 3,Nicole Vassilett,Ashleigh Datt,Nicole Vassilett,7-5,7,5,1,0,Completed,true,false,false
+UA009072,01 Sep 19,7,Hurlingham Park,Glen Eira,No. 4,Jeremy Hutchins,Rachel Gluzman,Rachel Gluzman,2-6,2,6,0,1,Completed,true,false,false
+UA009073,01 Sep 19,7,St James,Mentone,No. 1,Samuel Sheddon,Laoise Comerford,Laoise Comerford,4-6,4,6,0,1,Completed,true,false,false
+UA009073,01 Sep 19,7,St James,Mentone,No. 2,Barney Smith,Dane Lazic,Barney Smith,6-2,6,2,1,0,Completed,true,false,false
+UA009073,01 Sep 19,7,St James,Mentone,No. 3,Vaughn Bodnar,Isabella Donat,Isabella Donat,4-6,4,6,0,1,Completed,true,false,false
+UA009073,01 Sep 19,7,St James,Mentone,No. 4,Oliver Riley,James Dimopoulos,James Dimopoulos,0-6,0,6,0,1,Completed,true,false,false
+UA009074,01 Sep 19,7,Maccabi,Clarinda,No. 1,Aaron Birnbaum,Brandon Tsan,Brandon Tsan,6-7,6,7,0,1,Completed,true,false,false
+UA009074,01 Sep 19,7,Maccabi,Clarinda,No. 2,Jason Khasin,Ellie Tsan,Jason Khasin,6-3,6,3,1,0,Completed,true,false,false
+UA009074,01 Sep 19,7,Maccabi,Clarinda,No. 3,Tom Troski,Ashley Tsan,Ashley Tsan,0-6,0,6,0,1,Completed,true,false,false
+UA009074,01 Sep 19,7,Maccabi,Clarinda,No. 4,Jed Kaufman,Arhaan Khan,Arhaan Khan,0-6,0,6,0,1,Completed,true,false,false
+UA009081,08 Sep 19,8,Clarinda,Aspendale,No. 1,Brandon Tsan,Matthew Billing,Matthew Billing,5-7,5,7,0,1,Completed,true,false,false
+UA009081,08 Sep 19,8,Clarinda,Aspendale,No. 2,Ellie Tsan,Max Jaszewski,Max Jaszewski,3-6,3,6,0,1,Completed,true,false,false
+UA009081,08 Sep 19,8,Clarinda,Aspendale,No. 3,Ashley Tsan,James Kocsis,Ashley Tsan,6-2,6,2,1,0,Completed,true,false,false
+UA009081,08 Sep 19,8,Clarinda,Aspendale,No. 4,Arhaan Khan,Giles Elton,Arhaan Khan,6-0,6,0,1,0,Completed,true,false,false
+UA009082,08 Sep 19,8,Mentone,Hurlingham Park,No. 1,Laoise Comerford,Nicole Vassilett,Nicole Vassilett,4-6,4,6,0,1,Completed,true,false,false
+UA009082,08 Sep 19,8,Mentone,Hurlingham Park,No. 2,Dane Lazic,William Schiavello,Dane Lazic,6-4,6,4,1,0,Completed,true,false,false
+UA009082,08 Sep 19,8,Mentone,Hurlingham Park,No. 3,Sarah McKenna,Jeremy Hutchins,Sarah McKenna,6-2,6,2,1,0,Completed,true,false,false
+UA009082,08 Sep 19,8,Mentone,Hurlingham Park,No. 4,Anna Begkli,Sarah Daniell,Sarah Daniell,5-7,5,7,0,1,Completed,true,false,false
+UA009083,08 Sep 19,8,Maccabi,Coatesville,No. 1,Josh Kallenbach,Hugo Pickering,Josh Kallenbach,7-6,7,6,1,0,Completed,true,false,false
+UA009083,08 Sep 19,8,Maccabi,Coatesville,No. 2,Aaron Birnbaum,Nathan Barlas,Nathan Barlas,1-6,1,6,0,1,Completed,true,false,false
+UA009083,08 Sep 19,8,Maccabi,Coatesville,No. 3,Jason Khasin,Arirudh Sonti,Jason Khasin,7-6,7,6,1,0,Completed,true,false,false
+UA009083,08 Sep 19,8,Maccabi,Coatesville,No. 4,Jed Kaufman,Aaron Ryan,Aaron Ryan,3-6,3,6,0,1,Completed,true,false,false
+UA009084,08 Sep 19,8,St James,Glen Eira,No. 1,Barney Smith,Barnaby Kinsella,Barnaby Kinsella,0-6,0,6,0,1,Completed,true,false,false
+UA009084,08 Sep 19,8,St James,Glen Eira,No. 2,Gabe Pozo,Maxime Demathieu,Gabe Pozo,6-1,6,1,1,0,Completed,true,false,false
+UA009084,08 Sep 19,8,St James,Glen Eira,No. 3,Vaughn Bodnar,Renae Bekas,Renae Bekas,1-6,1,6,0,1,Completed,true,false,false
+UA009084,08 Sep 19,8,St James,Glen Eira,No. 4,Oliver Riley,Amira Kacser,Oliver Riley,6-2,6,2,1,0,Completed,true,false,false
+UA009091,15 Sep 19,9,Aspendale,St James,No. 1,Matthew Billing,Samuel Sheddon,Matthew Billing,6-3,6,3,1,0,Completed,true,false,false
+UA009091,15 Sep 19,9,Aspendale,St James,No. 2,Max Jaszewski,Barney Smith,Max Jaszewski,6-0,6,0,1,0,Completed,true,false,false
+UA009091,15 Sep 19,9,Aspendale,St James,No. 3,James Kocsis,Gabe Pozo,James Kocsis,6-4,6,4,1,0,Completed,true,false,false
+UA009091,15 Sep 19,9,Aspendale,St James,No. 4,Giles Elton,Isaac Walsh,Giles Elton,6-3,6,3,1,0,Completed,true,false,false
+UA009092,15 Sep 19,9,Hurlingham Park,Clarinda,No. 1,Daniel Deguara,Brandon Tsan,Brandon Tsan,5-7,5,7,0,1,Completed,true,false,false
+UA009092,15 Sep 19,9,Hurlingham Park,Clarinda,No. 2,Luke McKenzie,Ellie Tsan,Luke McKenzie,7-6,7,6,1,0,Completed,true,false,false
+UA009092,15 Sep 19,9,Hurlingham Park,Clarinda,No. 3,Angus Haddon,Ashley Tsan,Ashley Tsan,0-6,0,6,0,1,Completed,true,false,false
+UA009092,15 Sep 19,9,Hurlingham Park,Clarinda,No. 4,William Schiavello,Arhaan Khan,Arhaan Khan,1-6,1,6,0,1,Completed,true,false,false
+UA009093,15 Sep 19,9,Coatesville,Mentone,No. 1,Jenson Yokota-Ho,Dane Lazic,Jenson Yokota-Ho,6-1,6,1,1,0,Completed,true,false,false
+UA009093,15 Sep 19,9,Coatesville,Mentone,No. 2,Hugo Pickering,Sarah McKenna,Hugo Pickering,6-2,6,2,1,0,Completed,true,false,false
+UA009093,15 Sep 19,9,Coatesville,Mentone,No. 3,Arirudh Sonti,Anna Begkli,Arirudh Sonti,6-1,6,1,1,0,Completed,true,false,false
+UA009093,15 Sep 19,9,Coatesville,Mentone,No. 4,Aaron Ryan,[Unnamed player — TROLS UA009093 away code 4],Aaron Ryan,6-0,6,0,1,0,Completed,false,false,false
+UA009094,15 Sep 19,9,Glen Eira,Maccabi,No. 1,Barnaby Kinsella,Josh Kallenbach,Josh Kallenbach,2-6,2,6,0,1,Completed,true,false,false
+UA009094,15 Sep 19,9,Glen Eira,Maccabi,No. 2,Ashleigh Datt,Aaron Birnbaum,Ashleigh Datt,6-1,6,1,1,0,Completed,true,false,false
+UA009094,15 Sep 19,9,Glen Eira,Maccabi,No. 3,Rachel Gluzman,Jordyn Birnbaum,Rachel Gluzman,6-4,6,4,1,0,Completed,true,false,false
+UA009094,15 Sep 19,9,Glen Eira,Maccabi,No. 4,Renae Bekas,Dean Smith,Renae Bekas,6-2,6,2,1,0,Completed,true,false,false
+UA009101,13 Oct 19,10,Maccabi,Aspendale,No. 1,Josh Kallenbach,Matthew Billing,Matthew Billing,4-6,4,6,0,1,Completed,true,false,false
+UA009101,13 Oct 19,10,Maccabi,Aspendale,No. 2,Aaron Birnbaum,Darcy Nicholson,Darcy Nicholson,2-6,2,6,0,1,Completed,true,false,false
+UA009101,13 Oct 19,10,Maccabi,Aspendale,No. 3,Jason Khasin,James Kocsis,Jason Khasin,6-1,6,1,1,0,Completed,true,false,false
+UA009101,13 Oct 19,10,Maccabi,Aspendale,No. 4,Tom Troski,Giles Elton,Giles Elton,4-6,4,6,0,1,Completed,true,false,false
+UA009102,13 Oct 19,10,St James,Hurlingham Park,No. 1,Marcel Szynkowska,Daniel Deguara,Marcel Szynkowska,6-3,6,3,1,0,Completed,true,false,false
+UA009102,13 Oct 19,10,St James,Hurlingham Park,No. 2,Barney Smith,Angus Haddon,Barney Smith,7-5,7,5,1,0,Completed,true,false,false
+UA009102,13 Oct 19,10,St James,Hurlingham Park,No. 3,Gabe Pozo,William Schiavello,Gabe Pozo,7-6,7,6,1,0,Completed,true,false,false
+UA009102,13 Oct 19,10,St James,Hurlingham Park,No. 4,Oliver Riley,Jeremy Hutchins,Oliver Riley,6-0,6,0,1,0,Completed,true,false,false
+UA009103,13 Oct 19,10,Clarinda,Coatesville,No. 1,Ellie Tsan,Hugo Pickering,Hugo Pickering,2-6,2,6,0,1,Completed,true,false,false
+UA009103,13 Oct 19,10,Clarinda,Coatesville,No. 2,Ashley Tsan,Nathan Barlas,Ashley Tsan,6-2,6,2,1,0,Completed,true,false,false
+UA009103,13 Oct 19,10,Clarinda,Coatesville,No. 3,Arhaan Khan,Arirudh Sonti,Arhaan Khan,6-2,6,2,1,0,Completed,true,false,false
+UA009103,13 Oct 19,10,Clarinda,Coatesville,No. 4,Spiro Louras,Aaron Ryan,Spiro Louras,6-1,6,1,1,0,Completed,true,false,false
+UA009104,13 Oct 19,10,Mentone,Glen Eira,No. 1,Laoise Comerford,Barnaby Kinsella,Laoise Comerford,6-4,6,4,1,0,Completed,true,false,false
+UA009104,13 Oct 19,10,Mentone,Glen Eira,No. 2,Dane Lazic,Maxime Demathieu,Maxime Demathieu,5-7,5,7,0,1,Completed,true,false,false
+UA009104,13 Oct 19,10,Mentone,Glen Eira,No. 3,Anna Begkli,Ashleigh Datt,Ashleigh Datt,4-6,4,6,0,1,Completed,true,false,false
+UA009104,13 Oct 19,10,Mentone,Glen Eira,No. 4,Tyra Kousis,Josh Datt,Josh Datt,0-6,0,6,0,1,Completed,true,false,false
+UA009111,20 Oct 19,11,Aspendale,Mentone,No. 1,Matthew Billing,Laoise Comerford,Matthew Billing,6-1,6,1,1,0,Completed,true,false,false
+UA009111,20 Oct 19,11,Aspendale,Mentone,No. 2,Max Jaszewski,Dane Lazic,Max Jaszewski,6-1,6,1,1,0,Completed,true,false,false
+UA009111,20 Oct 19,11,Aspendale,Mentone,No. 3,James Kocsis,Isabella Donat,James Kocsis,6-1,6,1,1,0,Completed,true,false,false
+UA009111,20 Oct 19,11,Aspendale,Mentone,No. 4,Giles Elton,James Dimopoulos,James Dimopoulos,1-6,1,6,0,1,Completed,true,false,false
+UA009112,20 Oct 19,11,Hurlingham Park,Maccabi,No. 1,Daniel Deguara,Josh Kallenbach,Josh Kallenbach,4-6,4,6,0,1,Completed,true,false,false
+UA009112,20 Oct 19,11,Hurlingham Park,Maccabi,No. 2,Angus Haddon,Aaron Birnbaum,Aaron Birnbaum,3-6,3,6,0,1,Completed,true,false,false
+UA009112,20 Oct 19,11,Hurlingham Park,Maccabi,No. 3,William Schiavello,Jason Khasin,Jason Khasin,3-6,3,6,0,1,Completed,true,false,false
+UA009112,20 Oct 19,11,Hurlingham Park,Maccabi,No. 4,Jeremy Hutchins,Tom Troski,Jeremy Hutchins,6-2,6,2,1,0,Completed,true,false,false
+UA009113,20 Oct 19,11,Coatesville,St James,No. 1,Hugo Pickering,Marcel Szynkowska,Marcel Szynkowska,6-7,6,7,0,1,Completed,true,false,false
+UA009113,20 Oct 19,11,Coatesville,St James,No. 2,Kirk Monterio,Barney Smith,Kirk Monterio,6-3,6,3,1,0,Completed,true,false,false
+UA009113,20 Oct 19,11,Coatesville,St James,No. 3,Arirudh Sonti,Isaac Walsh,Arirudh Sonti,6-3,6,3,1,0,Completed,true,false,false
+UA009113,20 Oct 19,11,Coatesville,St James,No. 4,Aaron Ryan,Vaughn Bodnar,Aaron Ryan,7-6,7,6,1,0,Completed,true,false,false
+UA009114,20 Oct 19,11,Glen Eira,Clarinda,No. 1,Barnaby Kinsella,Brandon Tsan,Brandon Tsan,4-6,4,6,0,1,Completed,true,false,false
+UA009114,20 Oct 19,11,Glen Eira,Clarinda,No. 2,Maxime Demathieu,Ellie Tsan,Maxime Demathieu,6-4,6,4,1,0,Completed,true,false,false
+UA009114,20 Oct 19,11,Glen Eira,Clarinda,No. 3,Rachel Gluzman,Ashley Tsan,Ashley Tsan,3-6,3,6,0,1,Completed,true,false,false
+UA009114,20 Oct 19,11,Glen Eira,Clarinda,No. 4,Amira Kacser,Arhaan Khan,Arhaan Khan,0-6,0,6,0,1,Completed,true,false,false
+UA009121,27 Oct 19,12,Glen Eira,Coatesville,No. 1,Maxime Demathieu,Hugo Pickering,Maxime Demathieu,6-3,6,3,1,0,Completed,true,false,false
+UA009121,27 Oct 19,12,Glen Eira,Coatesville,No. 2,Ashleigh Datt,Kirk Monterio,Kirk Monterio,4-6,4,6,0,1,Completed,true,false,false
+UA009121,27 Oct 19,12,Glen Eira,Coatesville,No. 3,Rachel Gluzman,Arirudh Sonti,Arirudh Sonti,1-6,1,6,0,1,Completed,true,false,false
+UA009121,27 Oct 19,12,Glen Eira,Coatesville,No. 4,Amira Kacser,Sara Plionis,Sara Plionis,3-6,3,6,0,1,Completed,true,false,true
+UA009122,27 Oct 19,12,Maccabi,St James,No. 1,Josh Kallenbach,Samuel Sheddon,Josh Kallenbach,6-0,6,0,1,0,Completed,true,false,false
+UA009122,27 Oct 19,12,Maccabi,St James,No. 2,Aaron Birnbaum,Barney Smith,Aaron Birnbaum,6-1,6,1,1,0,Completed,true,false,false
+UA009122,27 Oct 19,12,Maccabi,St James,No. 3,Jason Khasin,Isaac Walsh,Jason Khasin,6-3,6,3,1,0,Completed,true,false,false
+UA009122,27 Oct 19,12,Maccabi,St James,No. 4,Tom Troski,Oliver Riley,Oliver Riley,3-6,3,6,0,1,Completed,true,false,false
+UA009123,27 Oct 19,12,Clarinda,Mentone,No. 1,Brandon Tsan,Laoise Comerford,Brandon Tsan,7-5,7,5,1,0,Completed,true,false,false
+UA009123,27 Oct 19,12,Clarinda,Mentone,No. 2,Ellie Tsan,Dane Lazic,Ellie Tsan,6-1,6,1,1,0,Completed,true,false,false
+UA009123,27 Oct 19,12,Clarinda,Mentone,No. 3,Ashley Tsan,Isabella Donat,Ashley Tsan,6-3,6,3,1,0,Completed,true,false,false
+UA009123,27 Oct 19,12,Clarinda,Mentone,No. 4,Arhaan Khan,James Dimopoulos,James Dimopoulos,4-6,4,6,0,1,Completed,true,false,false
+UA009124,27 Oct 19,12,Hurlingham Park,Aspendale,No. 1,Daniel Deguara,Matthew Billing,Matthew Billing,0-6,0,6,0,1,Completed,true,false,false
+UA009124,27 Oct 19,12,Hurlingham Park,Aspendale,No. 2,Luke McKenzie,Max Jaszewski,Max Jaszewski,0-6,0,6,0,1,Completed,true,false,false
+UA009124,27 Oct 19,12,Hurlingham Park,Aspendale,No. 3,Nicole Vassilett,James Kocsis,James Kocsis,4-6,4,6,0,1,Completed,true,false,false
+UA009124,27 Oct 19,12,Hurlingham Park,Aspendale,No. 4,Angus Haddon,Giles Elton,Giles Elton,4-6,4,6,0,1,Completed,true,false,false
+UA009131,10 Nov 19,13,Coatesville,Hurlingham Park,No. 1,Hugo Pickering,Daniel Deguara,Hugo Pickering,6-0,6,0,1,0,Completed,true,false,false
+UA009131,10 Nov 19,13,Coatesville,Hurlingham Park,No. 2,Kirk Monterio,Nicole Vassilett,Kirk Monterio,6-4,6,4,1,0,Completed,true,false,false
+UA009131,10 Nov 19,13,Coatesville,Hurlingham Park,No. 3,Arirudh Sonti,William Schiavello,Arirudh Sonti,6-3,6,3,1,0,Completed,true,false,false
+UA009131,10 Nov 19,13,Coatesville,Hurlingham Park,No. 4,Aaron Ryan,Jeremy Hutchins,Jeremy Hutchins,5-7,5,7,0,1,Completed,true,false,false
+UA009132,10 Nov 19,13,Aspendale,Glen Eira,No. 1,Matthew Billing,Maxime Demathieu,Matthew Billing,6-0,6,0,1,0,Completed,true,false,false
+UA009132,10 Nov 19,13,Aspendale,Glen Eira,No. 2,Brodie Faulds,Ashleigh Datt,Brodie Faulds,6-0,6,0,1,0,Completed,true,false,false
+UA009132,10 Nov 19,13,Aspendale,Glen Eira,No. 3,James Kocsis,Amira Kacser,James Kocsis,6-3,6,3,1,0,Completed,true,false,false
+UA009132,10 Nov 19,13,Aspendale,Glen Eira,No. 4,Giles Elton,Josh Datt,Josh Datt,1-6,1,6,0,1,Completed,true,false,false
+UA009133,10 Nov 19,13,Mentone,Maccabi,No. 1,Laoise Comerford,Josh Kallenbach,Josh Kallenbach,3-6,3,6,0,1,Completed,true,false,false
+UA009133,10 Nov 19,13,Mentone,Maccabi,No. 2,Dane Lazic,Aaron Birnbaum,Aaron Birnbaum,1-6,1,6,0,1,Completed,true,false,false
+UA009133,10 Nov 19,13,Mentone,Maccabi,No. 3,Isabella Donat,Jason Khasin,Jason Khasin,1-6,1,6,0,1,Completed,true,false,false
+UA009133,10 Nov 19,13,Mentone,Maccabi,No. 4,James Dimopoulos,Jed Kaufman,James Dimopoulos,6-1,6,1,1,0,Completed,true,false,false
+UA009134,10 Nov 19,13,St James,Clarinda,No. 1,Marcel Szynkowska,Brandon Tsan,Marcel Szynkowska,6-3,6,3,1,0,Completed,true,false,false
+UA009134,10 Nov 19,13,St James,Clarinda,No. 2,Gabe Pozo,Ellie Tsan,Gabe Pozo,6-2,6,2,1,0,Completed,true,false,false
+UA009134,10 Nov 19,13,St James,Clarinda,No. 3,Oliver Riley,Ashley Tsan,Ashley Tsan,4-6,4,6,0,1,Completed,true,false,false
+UA009134,10 Nov 19,13,St James,Clarinda,No. 4,Sebastian Fyfe,Arhaan Khan,Arhaan Khan,0-6,0,6,0,1,Completed,true,false,false
+UA009141,17 Nov 19,14,Coatesville,Aspendale,No. 1,Nathan Barlas,Matthew Billing,Nathan Barlas,7-5,7,5,1,0,Completed,true,false,false
+UA009141,17 Nov 19,14,Coatesville,Aspendale,No. 2,Kirk Monterio,Max Jaszewski,Kirk Monterio,6-3,6,3,1,0,Completed,true,false,false
+UA009141,17 Nov 19,14,Coatesville,Aspendale,No. 3,Arirudh Sonti,Darcy Nicholson,Darcy Nicholson,4-6,4,6,0,1,Completed,true,false,false
+UA009141,17 Nov 19,14,Coatesville,Aspendale,No. 4,Aaron Ryan,Giles Elton,Aaron Ryan,6-4,6,4,1,0,Completed,true,false,false
+UA009142,17 Nov 19,14,Glen Eira,Hurlingham Park,No. 1,Maxime Demathieu,Daniel Deguara,Maxime Demathieu,6-4,6,4,1,0,Completed,true,false,false
+UA009142,17 Nov 19,14,Glen Eira,Hurlingham Park,No. 2,Ashleigh Datt,Angus Haddon,Ashleigh Datt,6-4,6,4,1,0,Completed,true,false,false
+UA009142,17 Nov 19,14,Glen Eira,Hurlingham Park,No. 3,Rachel Gluzman,William Schiavello,William Schiavello,2-6,2,6,0,1,Completed,true,false,false
+UA009142,17 Nov 19,14,Glen Eira,Hurlingham Park,No. 4,Amira Kacser,Jeremy Hutchins,Jeremy Hutchins,5-7,5,7,0,1,Completed,true,false,false
+UA009143,17 Nov 19,14,Mentone,St James,No. 1,Laoise Comerford,Samuel Sheddon,Samuel Sheddon,1-6,1,6,0,1,Completed,true,false,false
+UA009143,17 Nov 19,14,Mentone,St James,No. 2,Dane Lazic,Marcel Szynkowska,Marcel Szynkowska,1-6,1,6,0,1,Completed,true,false,false
+UA009143,17 Nov 19,14,Mentone,St James,No. 3,Isabella Donat,Vaughn Bodnar,Isabella Donat,6-4,6,4,1,0,Completed,true,false,false
+UA009143,17 Nov 19,14,Mentone,St James,No. 4,James Dimopoulos,Oliver Riley,Oliver Riley,4-6,4,6,0,1,Completed,true,false,false
+UA009144,17 Nov 19,14,Clarinda,Maccabi,No. 1,Brandon Tsan,Josh Kallenbach,Josh Kallenbach,4-6,4,6,0,1,Completed,true,false,false
+UA009144,17 Nov 19,14,Clarinda,Maccabi,No. 2,Ellie Tsan,Tom Troski,Ellie Tsan,6-1,6,1,1,0,Completed,true,false,false
+UA009144,17 Nov 19,14,Clarinda,Maccabi,No. 3,Ashley Tsan,Jordyn Birnbaum,Ashley Tsan,6-0,6,0,1,0,Completed,true,false,false
+UA009144,17 Nov 19,14,Clarinda,Maccabi,No. 4,Arhaan Khan,Jed Kaufman,Arhaan Khan,6-0,6,0,1,0,Completed,true,false,false
+UA009301,,16,Clarinda,Glen Eira,No. 1,Brandon Tsan,Maxime Demathieu,Brandon Tsan,6-3,6,3,1,0,Completed,true,false,false
+UA009301,,16,Clarinda,Glen Eira,No. 2,Ellie Tsan,[Unnamed player — TROLS UA009301 away code 2],Ellie Tsan,6-0,6,0,1,0,Completed,false,false,false
+UA009301,,16,Clarinda,Glen Eira,No. 3,Ashley Tsan,[Unnamed player — TROLS UA009301 away code 3],Ashley Tsan,6-0,6,0,1,0,Completed,false,false,false
+UA009301,,16,Clarinda,Glen Eira,No. 4,Arhaan Khan,[Unnamed player — TROLS UA009301 away code 4],Arhaan Khan,6-0,6,0,1,0,Completed,false,false,false
+UA009302,,16,Coatesville,Aspendale,No. 1,Hugo Pickering,Matthew Billing,Hugo Pickering,6-1,6,1,1,0,Completed,true,false,false
+UA009302,,16,Coatesville,Aspendale,No. 2,Sienna Yokota-Ho,Max Jaszewski,Sienna Yokota-Ho,6-2,6,2,1,0,Completed,true,false,false
+UA009302,,16,Coatesville,Aspendale,No. 3,Kirk Monterio,Darcy Nicholson,Darcy Nicholson,3-6,3,6,0,1,Completed,true,false,false
+UA009302,,16,Coatesville,Aspendale,No. 4,Arirudh Sonti,James Kocsis,Arirudh Sonti,6-1,6,1,1,0,Completed,true,false,false
+UA009321,,17,Clarinda,Coatesville,No. 1,Brandon Tsan,Hugo Pickering,Hugo Pickering,2-6,2,6,0,1,Completed,true,false,false
+UA009321,,17,Clarinda,Coatesville,No. 2,Ellie Tsan,Kirk Monterio,Kirk Monterio,3-6,3,6,0,1,Completed,true,false,false
+UA009321,,17,Clarinda,Coatesville,No. 3,Ashley Tsan,Arirudh Sonti,Ashley Tsan,6-1,6,1,1,0,Completed,true,false,false
+UA009321,,17,Clarinda,Coatesville,No. 4,Arhaan Khan,Aaron Ryan,Arhaan Khan,6-1,6,1,1,0,Completed,true,false,false

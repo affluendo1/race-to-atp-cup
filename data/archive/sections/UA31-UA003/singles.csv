@@ -1,0 +1,237 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA003011,17 Jul 22,1,Dendy Park,BLTC,No. 1,Jackson Trigger,Davis Nguyen,Davis Nguyen,4-6,4,6,0,1,Completed,true,false,false
+UA003011,17 Jul 22,1,Dendy Park,BLTC,No. 2,Jackson Chen,Sebastian Brown,Jackson Chen,6-2,6,2,1,0,Completed,true,false,false
+UA003011,17 Jul 22,1,Dendy Park,BLTC,No. 3,Noam Barel,Alex Brown,Alex Brown,6-7,6,7,0,1,Completed,true,false,false
+UA003011,17 Jul 22,1,Dendy Park,BLTC,No. 4,Rocca Theuna,Campbell Orchard,Rocca Theuna,6-4,6,4,1,0,Completed,true,false,false
+UA003012,17 Jul 22,1,Tennis World,Mordialloc,No. 1,James King,Hamish Roberts,Hamish Roberts,0-6,0,6,0,1,Completed,true,false,false
+UA003012,17 Jul 22,1,Tennis World,Mordialloc,No. 2,Lance Maxwell,Cooper Smith,Lance Maxwell,6-3,6,3,1,0,Completed,true,false,false
+UA003012,17 Jul 22,1,Tennis World,Mordialloc,No. 3,Claudia Popovic,Nicholas Kircher-Wilson,Nicholas Kircher-Wilson,1-6,1,6,0,1,Completed,true,false,false
+UA003012,17 Jul 22,1,Tennis World,Mordialloc,No. 4,Noah Patushi,Justin Li,Noah Patushi,6-3,6,3,1,0,Completed,true,true,false
+UA003013,17 Jul 22,1,Black Rock,Mentone,No. 1,Lewis Smith,James Dimopoulos,James Dimopoulos,5-7,5,7,0,1,Completed,true,false,false
+UA003013,17 Jul 22,1,Black Rock,Mentone,No. 2,Harvey Lansley,Tiara Wickramage,Tiara Wickramage,2-5,2,5,0,1,Completed,true,false,true
+UA003013,17 Jul 22,1,Black Rock,Mentone,No. 3,Connor Tasci,Paris Stenhouse,Paris Stenhouse,4-6,4,6,0,1,Completed,true,false,true
+UA003013,17 Jul 22,1,Black Rock,Mentone,No. 4,Oliver Capel,Chanithu Wickramasinghe,,4-4,4,4,0,0,Completed,false,false,false
+UA003014,17 Jul 22,1,Royal Ave 1,Royal Ave 2,No. 1,Nick Bolmat,Caleb Jackson-Wright,Caleb Jackson-Wright,4-6,4,6,0,1,Completed,true,false,false
+UA003014,17 Jul 22,1,Royal Ave 1,Royal Ave 2,No. 2,Louis McNabney-Stevens,Mia Hilaris,Louis McNabney-Stevens,6-1,6,1,1,0,Completed,true,false,false
+UA003014,17 Jul 22,1,Royal Ave 1,Royal Ave 2,No. 3,Nicolette Hilaris,Jack Vakrinos,Jack Vakrinos,2-6,2,6,0,1,Completed,true,false,false
+UA003014,17 Jul 22,1,Royal Ave 1,Royal Ave 2,No. 4,Leo Wang,Gideon Gomes,Gideon Gomes,4-6,4,6,0,1,Completed,true,false,false
+UA003021,24 Jul 22,2,Royal Ave 2,Dendy Park,No. 1,Harry Toomey,Jackson Chen,Jackson Chen,0-6,0,6,0,1,Completed,true,false,false
+UA003021,24 Jul 22,2,Royal Ave 2,Dendy Park,No. 2,Mia Hilaris,Noah Hansen,Noah Hansen,2-6,2,6,0,1,Completed,true,false,false
+UA003021,24 Jul 22,2,Royal Ave 2,Dendy Park,No. 3,William Farrugia,Anh Ngo,Anh Ngo,3-6,3,6,0,1,Completed,true,false,false
+UA003021,24 Jul 22,2,Royal Ave 2,Dendy Park,No. 4,Jack Vakrinos,Jeremy Mayger,Jack Vakrinos,6-0,6,0,1,0,Completed,true,false,false
+UA003022,24 Jul 22,2,BLTC,Tennis World,No. 1,Davis Nguyen,Lance Maxwell,Lance Maxwell,5-7,5,7,0,1,Completed,true,false,false
+UA003022,24 Jul 22,2,BLTC,Tennis World,No. 2,Sebastian Brown,Sebastian Ng,Sebastian Brown,6-0,6,0,1,0,Completed,true,false,false
+UA003022,24 Jul 22,2,BLTC,Tennis World,No. 3,Alex Brown,Adrian Peter Evans,Alex Brown,6-4,6,4,1,0,Completed,true,false,false
+UA003022,24 Jul 22,2,BLTC,Tennis World,No. 4,Campbell Orchard,Joel Dalidowicz,Campbell Orchard,6-1,6,1,1,0,Completed,true,false,false
+UA003023,24 Jul 22,2,Mordialloc,Black Rock,No. 1,Hamish Roberts,Lewis Smith,Hamish Roberts,6-1,6,1,1,0,Completed,true,false,false
+UA003023,24 Jul 22,2,Mordialloc,Black Rock,No. 2,Cooper Smith,Harvey Lansley,Cooper Smith,6-0,6,0,1,0,Completed,true,false,false
+UA003023,24 Jul 22,2,Mordialloc,Black Rock,No. 3,Nicholas Kircher-Wilson,Connor Tasci,Connor Tasci,4-6,4,6,0,1,Completed,true,false,false
+UA003023,24 Jul 22,2,Mordialloc,Black Rock,No. 4,Justin Li,Aryan Palai,Aryan Palai,4-6,4,6,0,1,Completed,true,false,false
+UA003024,24 Jul 22,2,Mentone,Royal Ave 1,No. 1,James Dimopoulos,Nick Bolmat,Nick Bolmat,6-7,6,7,0,1,Completed,true,false,false
+UA003024,24 Jul 22,2,Mentone,Royal Ave 1,No. 2,Sai Karthik Neerukonda,Kai Saxon,Sai Karthik Neerukonda,6-0,6,0,1,0,Completed,true,false,false
+UA003024,24 Jul 22,2,Mentone,Royal Ave 1,No. 3,Chanithu Wickramasinghe,Louis McNabney-Stevens,Louis McNabney-Stevens,2-6,2,6,0,1,Completed,true,false,false
+UA003024,24 Jul 22,2,Mentone,Royal Ave 1,No. 4,Wanda Bacskai,Leo Wang,Leo Wang,0-6,0,6,0,1,Completed,true,false,false
+UA003031,31 Jul 22,3,Dendy Park,Mentone,No. 1,Jeremy Mayger,James Dimopoulos,James Dimopoulos,2-6,2,6,0,1,Completed,true,false,false
+UA003031,31 Jul 22,3,Dendy Park,Mentone,No. 2,Anh Ngo,Sai Karthik Neerukonda,Sai Karthik Neerukonda,0-6,0,6,0,1,Completed,true,false,false
+UA003031,31 Jul 22,3,Dendy Park,Mentone,No. 3,Noah Hansen,Jackson Ralph,Jackson Ralph,2-6,2,6,0,1,Completed,true,false,false
+UA003031,31 Jul 22,3,Dendy Park,Mentone,No. 4,Rocca Theuna,Chanithu Wickramasinghe,Rocca Theuna,7-5,7,5,1,0,Completed,true,false,false
+UA003032,31 Jul 22,3,Tennis World,Royal Ave 2,No. 1,Claudia Popovic,Caleb Jackson-Wright,Caleb Jackson-Wright,2-6,2,6,0,1,Completed,true,false,false
+UA003032,31 Jul 22,3,Tennis World,Royal Ave 2,No. 2,Sebastian Ng,William Farrugia,William Farrugia,0-6,0,6,0,1,Completed,true,false,false
+UA003032,31 Jul 22,3,Tennis World,Royal Ave 2,No. 3,Noah Palushi,Gideon Gomes,Gideon Gomes,6-7,6,7,0,1,Completed,true,false,false
+UA003032,31 Jul 22,3,Tennis World,Royal Ave 2,No. 4,James King,[Unnamed player — TROLS UA003032 away code 4],James King,7-6,7,6,1,0,Completed,false,false,false
+UA003033,31 Jul 22,3,Black Rock,BLTC,No. 1,Lewis Smith,Stuart Pagel,Lewis Smith,6-0,6,0,1,0,Completed,true,false,true
+UA003033,31 Jul 22,3,Black Rock,BLTC,No. 2,Jacky Kong,Davis Nguyen,Davis Nguyen,2-6,2,6,0,1,Completed,true,false,false
+UA003033,31 Jul 22,3,Black Rock,BLTC,No. 3,Oliver Capel,Alex Brown,Oliver Capel,6-4,6,4,1,0,Completed,true,false,false
+UA003033,31 Jul 22,3,Black Rock,BLTC,No. 4,Aryan Palai,Campbell Orchard,Campbell Orchard,3-6,3,6,0,1,Completed,true,false,false
+UA003034,31 Jul 22,3,Royal Ave 1,Mordialloc,No. 1,Nick Bolmat,Hamish Roberts,Hamish Roberts,0-6,0,6,0,1,Completed,true,false,false
+UA003034,31 Jul 22,3,Royal Ave 1,Mordialloc,No. 2,Louis McNabney-Stevens,Cooper Smith,Cooper Smith,5-7,5,7,0,1,Completed,true,false,false
+UA003034,31 Jul 22,3,Royal Ave 1,Mordialloc,No. 3,Nicolette Hilaris,Justin Li,Nicolette Hilaris,7-5,7,5,1,0,Completed,true,false,false
+UA003034,31 Jul 22,3,Royal Ave 1,Mordialloc,No. 4,Leo Wang,Owen Matthews,Owen Matthews,0-6,0,6,0,1,Completed,true,false,true
+UA003041,07 Aug 22,4,Mordialloc,Dendy Park,No. 1,Hamish Roberts,Jackson Chen,Hamish Roberts,7-6,7,6,1,0,Completed,true,false,false
+UA003041,07 Aug 22,4,Mordialloc,Dendy Park,No. 2,Cooper Smith,Jeremy Mayger,Cooper Smith,6-4,6,4,1,0,Completed,true,false,false
+UA003041,07 Aug 22,4,Mordialloc,Dendy Park,No. 3,Nicholas Kircher-Wilson,Anh Ngo,Anh Ngo,4-6,4,6,0,1,Completed,true,false,false
+UA003041,07 Aug 22,4,Mordialloc,Dendy Park,No. 4,Justin Li,Noah Hansen,Noah Hansen,1-6,1,6,0,1,Completed,true,false,false
+UA003042,07 Aug 22,4,Mentone,Tennis World,No. 1,James Dimopoulos,Lance Maxwell,Lance Maxwell,6-7,6,7,0,1,Completed,true,false,false
+UA003042,07 Aug 22,4,Mentone,Tennis World,No. 2,Sai Karthik Neerukonda,Claudia Popovic,Sai Karthik Neerukonda,6-1,6,1,1,0,Completed,true,false,false
+UA003042,07 Aug 22,4,Mentone,Tennis World,No. 3,Chanithu Wickramasinghe,Adrian Peter Evans,Adrian Peter Evans,1-6,1,6,0,1,Completed,true,false,false
+UA003042,07 Aug 22,4,Mentone,Tennis World,No. 4,Wanda Bacskai,Joel Dalidowicz,Wanda Bacskai,6-4,6,4,1,0,Completed,true,false,false
+UA003043,07 Aug 22,4,Royal Ave 2,Black Rock,No. 1,Caleb Jackson-Wright,Lewis Smith,Caleb Jackson-Wright,6-3,6,3,1,0,Completed,true,false,false
+UA003043,07 Aug 22,4,Royal Ave 2,Black Rock,No. 2,Mia Hilaris,Harvey Lansley,Harvey Lansley,1-6,1,6,0,1,Completed,true,false,false
+UA003043,07 Aug 22,4,Royal Ave 2,Black Rock,No. 3,William Farrugia,Oliver Capel,William Farrugia,6-3,6,3,1,0,Completed,true,false,false
+UA003043,07 Aug 22,4,Royal Ave 2,Black Rock,No. 4,Jack Vakrinos,Aryan Palai,Jack Vakrinos,6-2,6,2,1,0,Completed,true,false,false
+UA003044,07 Aug 22,4,BLTC,Royal Ave 1,No. 1,Davis Nguyen,Nick Bolmat,Davis Nguyen,6-2,6,2,1,0,Completed,true,false,false
+UA003044,07 Aug 22,4,BLTC,Royal Ave 1,No. 2,Sebastian Brown,Kai Saxon,Sebastian Brown,6-1,6,1,1,0,Completed,true,false,false
+UA003044,07 Aug 22,4,BLTC,Royal Ave 1,No. 3,Alex Brown,Louis McNabney-Stevens,Alex Brown,6-2,6,2,1,0,Completed,true,false,false
+UA003044,07 Aug 22,4,BLTC,Royal Ave 1,No. 4,Campbell Orchard,Nicolette Hilaris,Campbell Orchard,6-2,6,2,1,0,Completed,true,false,false
+UA003051,14 Aug 22,5,Black Rock,Royal Ave 1,No. 1,Lewis Smith,Nick Bolmat,Lewis Smith,7-6,7,6,1,0,Completed,true,false,false
+UA003051,14 Aug 22,5,Black Rock,Royal Ave 1,No. 2,Jacky Kong,Louis McNabney-Stevens,Louis McNabney-Stevens,3-6,3,6,0,1,Completed,true,false,false
+UA003051,14 Aug 22,5,Black Rock,Royal Ave 1,No. 3,Connor Tasci,Nicolette Hilaris,Nicolette Hilaris,1-6,1,6,0,1,Completed,true,false,false
+UA003051,14 Aug 22,5,Black Rock,Royal Ave 1,No. 4,Aryan Palai,Leo Wang,Leo Wang,3-6,3,6,0,1,Completed,true,false,false
+UA003052,14 Aug 22,5,Royal Ave 2,Mentone,No. 1,Harry Toomey,James Dimopoulos,Harry Toomey,7-5,7,5,1,0,Completed,true,false,false
+UA003052,14 Aug 22,5,Royal Ave 2,Mentone,No. 2,Caleb Jackson-Wright,Sai Karthik Neerukonda,Sai Karthik Neerukonda,2-6,2,6,0,1,Completed,true,false,false
+UA003052,14 Aug 22,5,Royal Ave 2,Mentone,No. 3,William Farrugia,Jackson Ralph,William Farrugia,6-3,6,3,1,0,Completed,true,false,false
+UA003052,14 Aug 22,5,Royal Ave 2,Mentone,No. 4,Gideon Gomes,Wanda Bacskai,Gideon Gomes,6-2,6,2,1,0,Completed,true,false,false
+UA003053,14 Aug 22,5,Mordialloc,BLTC,No. 1,Hamish Roberts,Davis Nguyen,Hamish Roberts,6-1,6,1,1,0,Completed,true,false,false
+UA003053,14 Aug 22,5,Mordialloc,BLTC,No. 2,Cooper Smith,Sebastian Brown,Sebastian Brown,5-7,5,7,0,1,Completed,true,false,false
+UA003053,14 Aug 22,5,Mordialloc,BLTC,No. 3,Nicholas Kircher-Wilson,Alex Brown,Nicholas Kircher-Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA003053,14 Aug 22,5,Mordialloc,BLTC,No. 4,Justin Li,Campbell Orchard,Justin Li,6-3,6,3,1,0,Completed,true,false,false
+UA003054,14 Aug 22,5,Dendy Park,Tennis World,No. 1,Jackson Chen,Lance Maxwell,Jackson Chen,6-4,6,4,1,0,Completed,true,false,false
+UA003054,14 Aug 22,5,Dendy Park,Tennis World,No. 2,Jeremy Mayger,Aileen Diamanti,Jeremy Mayger,6-2,6,2,1,0,Completed,true,false,true
+UA003054,14 Aug 22,5,Dendy Park,Tennis World,No. 3,Anh Ngo,Joel Dalidowicz,Anh Ngo,6-1,6,1,1,0,Completed,true,false,false
+UA003054,14 Aug 22,5,Dendy Park,Tennis World,No. 4,Nicholas Girgis,James King,James King,2-6,2,6,0,1,Completed,true,true,false
+UA003061,21 Aug 22,6,Tennis World,Black Rock,No. 1,Claudia Popovic,Harvey Lansley,Harvey Lansley,4-6,4,6,0,1,Completed,true,false,false
+UA003061,21 Aug 22,6,Tennis World,Black Rock,No. 2,Sebastian Ng,Jacky Kong,Jacky Kong,3-6,3,6,0,1,Completed,true,false,false
+UA003061,21 Aug 22,6,Tennis World,Black Rock,No. 3,Joel Dalidowicz,Connor Tasci,Connor Tasci,0-6,0,6,0,1,Completed,true,false,false
+UA003061,21 Aug 22,6,Tennis World,Black Rock,No. 4,James King,Oliver Capel,Oliver Capel,1-6,1,6,0,1,Completed,true,false,false
+UA003062,21 Aug 22,6,Royal Ave 1,Dendy Park,No. 1,Nick Bolmat,Anh Ngo,Anh Ngo,3-6,3,6,0,1,Completed,true,false,false
+UA003062,21 Aug 22,6,Royal Ave 1,Dendy Park,No. 2,Kai Saxon,Noah Hansen,Noah Hansen,3-6,3,6,0,1,Completed,true,false,false
+UA003062,21 Aug 22,6,Royal Ave 1,Dendy Park,No. 3,Louis McNabney-Stevens,Rocca Theuna,Louis McNabney-Stevens,6-3,6,3,1,0,Completed,true,false,false
+UA003062,21 Aug 22,6,Royal Ave 1,Dendy Park,No. 4,Leo Wang,Len Yatsuzuka,Len Yatsuzuka,2-6,2,6,0,1,Completed,true,false,true
+UA003063,21 Aug 22,6,Mentone,Mordialloc,No. 1,James Dimopoulos,Hamish Roberts,Hamish Roberts,1-6,1,6,0,1,Completed,true,false,false
+UA003063,21 Aug 22,6,Mentone,Mordialloc,No. 2,Sai Karthik Neerukonda,Cooper Smith,Sai Karthik Neerukonda,6-4,6,4,1,0,Completed,true,false,false
+UA003063,21 Aug 22,6,Mentone,Mordialloc,No. 3,Chanithu Wickramasinghe,Nicholas Kircher-Wilson,Nicholas Kircher-Wilson,1-6,1,6,0,1,Completed,true,false,false
+UA003063,21 Aug 22,6,Mentone,Mordialloc,No. 4,Wanda Bacskai,Justin Li,Justin Li,1-6,1,6,0,1,Completed,true,false,false
+UA003064,21 Aug 22,6,BLTC,Royal Ave 2,No. 1,Davis Nguyen,Harry Toomey,Harry Toomey,6-7,6,7,0,1,Completed,true,false,false
+UA003064,21 Aug 22,6,BLTC,Royal Ave 2,No. 2,Sebastian Brown,William Farrugia,Sebastian Brown,6-1,6,1,1,0,Completed,true,false,false
+UA003064,21 Aug 22,6,BLTC,Royal Ave 2,No. 3,Alex Brown,[Unnamed player — TROLS UA003064 away code 3],Alex Brown,6-0,6,0,1,0,Completed,false,false,false
+UA003064,21 Aug 22,6,BLTC,Royal Ave 2,No. 4,Campbell Orchard,Jack Vakrinos,Campbell Orchard,6-3,6,3,1,0,Completed,true,false,false
+UA003071,28 Aug 22,7,Dendy Park,Black Rock,No. 1,Jackson Chen,Lewis Smith,Jackson Chen,7-5,7,5,1,0,Completed,true,false,false
+UA003071,28 Aug 22,7,Dendy Park,Black Rock,No. 2,Jeremy Mayger,Harvey Lansley,Harvey Lansley,6-7,6,7,0,1,Completed,true,false,false
+UA003071,28 Aug 22,7,Dendy Park,Black Rock,No. 3,Noah Hansen,Connor Tasci,Noah Hansen,6-4,6,4,1,0,Completed,true,false,false
+UA003071,28 Aug 22,7,Dendy Park,Black Rock,No. 4,Rocca Theuna,Oliver Capel,Rocca Theuna,6-0,6,0,1,0,Completed,true,false,false
+UA003072,28 Aug 22,7,Tennis World,Royal Ave 1,No. 1,Lance Maxwell,Nick Bolmat,Nick Bolmat,5-7,5,7,0,1,Completed,true,false,false
+UA003072,28 Aug 22,7,Tennis World,Royal Ave 1,No. 2,Adrian Peter Evans,Louis McNabney-Stevens,Louis McNabney-Stevens,4-6,4,6,0,1,Completed,true,false,false
+UA003072,28 Aug 22,7,Tennis World,Royal Ave 1,No. 3,Noah Palushi,Nicolette Hilaris,Nicolette Hilaris,0-6,0,6,0,1,Completed,true,false,false
+UA003072,28 Aug 22,7,Tennis World,Royal Ave 1,No. 4,Joel Dalidowicz,Leo Wang,Leo Wang,1-6,1,6,0,1,Completed,true,false,false
+UA003073,28 Aug 22,7,Royal Ave 2,Mordialloc,No. 1,Mia Hilaris,Hamish Roberts,Hamish Roberts,0-6,0,6,0,1,Completed,true,false,false
+UA003073,28 Aug 22,7,Royal Ave 2,Mordialloc,No. 2,William Farrugia,Cooper Smith,Cooper Smith,1-6,1,6,0,1,Completed,true,false,false
+UA003073,28 Aug 22,7,Royal Ave 2,Mordialloc,No. 3,Jack Vakrinos,Nicholas Kircher-Wilson,Nicholas Kircher-Wilson,3-6,3,6,0,1,Completed,true,false,false
+UA003073,28 Aug 22,7,Royal Ave 2,Mordialloc,No. 4,Gideon Gomes,Justin Li,Gideon Gomes,6-0,6,0,1,0,Completed,true,false,false
+UA003074,28 Aug 22,7,Mentone,BLTC,No. 1,James Dimopoulos,Davis Nguyen,James Dimopoulos,6-1,6,1,1,0,Completed,true,false,false
+UA003074,28 Aug 22,7,Mentone,BLTC,No. 2,Jackson Ralph,Sebastian Brown,Sebastian Brown,3-6,3,6,0,1,Completed,true,false,false
+UA003074,28 Aug 22,7,Mentone,BLTC,No. 3,Chanithu Wickramasinghe,Alex Brown,Alex Brown,2-6,2,6,0,1,Completed,true,false,false
+UA003074,28 Aug 22,7,Mentone,BLTC,No. 4,Wanda Bacskai,Campbell Orchard,Campbell Orchard,3-6,3,6,0,1,Completed,true,false,false
+UA003081,04 Sep 22,8,BLTC,Dendy Park,No. 1,Davis Nguyen,Jackson Chen,Jackson Chen,1-6,1,6,0,1,Completed,true,false,false
+UA003081,04 Sep 22,8,BLTC,Dendy Park,No. 2,Sebastian Brown,Anh Ngo,Sebastian Brown,6-2,6,2,1,0,Completed,true,false,false
+UA003081,04 Sep 22,8,BLTC,Dendy Park,No. 3,Alex Brown,Noah Hansen,Alex Brown,6-3,6,3,1,0,Completed,true,false,false
+UA003081,04 Sep 22,8,BLTC,Dendy Park,No. 4,Campbell Orchard,Rocca Theuna,Campbell Orchard,6-2,6,2,1,0,Completed,true,false,false
+UA003082,04 Sep 22,8,Mordialloc,Tennis World,No. 1,Hamish Roberts,Lance Maxwell,Hamish Roberts,6-1,6,1,1,0,Completed,true,false,false
+UA003082,04 Sep 22,8,Mordialloc,Tennis World,No. 2,Cooper Smith,Sebastian Ng,Sebastian Ng,3-6,3,6,0,1,Completed,true,false,false
+UA003082,04 Sep 22,8,Mordialloc,Tennis World,No. 3,Nicholas Kircher-Wilson,Aileen Diamanti,Nicholas Kircher-Wilson,6-2,6,2,1,0,Completed,true,false,true
+UA003082,04 Sep 22,8,Mordialloc,Tennis World,No. 4,Justin Li,Joel Dalidowicz,Justin Li,6-0,6,0,1,0,Completed,true,false,false
+UA003083,04 Sep 22,8,Mentone,Black Rock,No. 1,James Dimopoulos,Harvey Lansley,James Dimopoulos,6-3,6,3,1,0,Completed,true,false,false
+UA003083,04 Sep 22,8,Mentone,Black Rock,No. 2,Tiara Wickramage,Jacky Kong,Tiara Wickramage,6-4,6,4,1,0,Completed,true,true,false
+UA003083,04 Sep 22,8,Mentone,Black Rock,No. 3,Jackson Ralph,Connor Tasci,Jackson Ralph,6-4,6,4,1,0,Completed,true,false,false
+UA003083,04 Sep 22,8,Mentone,Black Rock,No. 4,Wanda Bacskai,Oliver Capel,Wanda Bacskai,6-4,6,4,1,0,Completed,true,false,false
+UA003084,04 Sep 22,8,Royal Ave 2,Royal Ave 1,No. 1,Harry Toomey,Kai Saxon,Kai Saxon,6-7,6,7,0,1,Completed,true,false,false
+UA003084,04 Sep 22,8,Royal Ave 2,Royal Ave 1,No. 2,Caleb Jackson-Wright,Louis McNabney-Stevens,Louis McNabney-Stevens,4-6,4,6,0,1,Completed,true,false,false
+UA003084,04 Sep 22,8,Royal Ave 2,Royal Ave 1,No. 3,Mia Hilaris,Nicolette Hilaris,Nicolette Hilaris,3-6,3,6,0,1,Completed,true,false,false
+UA003084,04 Sep 22,8,Royal Ave 2,Royal Ave 1,No. 4,Gideon Gomes,Leo Wang,Leo Wang,3-6,3,6,0,1,Completed,true,false,false
+UA003091,11 Sep 22,9,Dendy Park,Royal Ave 2,No. 1,Jackson Chen,Harry Toomey,Jackson Chen,6-4,6,4,1,0,Completed,true,false,false
+UA003091,11 Sep 22,9,Dendy Park,Royal Ave 2,No. 2,Anh Ngo,Caleb Jackson-Wright,Caleb Jackson-Wright,3-6,3,6,0,1,Completed,true,false,false
+UA003091,11 Sep 22,9,Dendy Park,Royal Ave 2,No. 3,Noah Hansen,Mia Hilaris,Noah Hansen,6-3,6,3,1,0,Completed,true,false,false
+UA003091,11 Sep 22,9,Dendy Park,Royal Ave 2,No. 4,Rocca Theuna,William Farrugia,William Farrugia,5-7,5,7,0,1,Completed,true,false,false
+UA003092,11 Sep 22,9,Tennis World,BLTC,No. 1,Lance Maxwell,Davis Nguyen,Davis Nguyen,3-6,3,6,0,1,Completed,true,false,false
+UA003092,11 Sep 22,9,Tennis World,BLTC,No. 2,Sebastian Ng,Sebastian Brown,Sebastian Brown,5-7,5,7,0,1,Completed,true,false,false
+UA003092,11 Sep 22,9,Tennis World,BLTC,No. 3,Adrian Peter Evans,Campbell Orchard,Campbell Orchard,4-6,4,6,0,1,Completed,true,false,false
+UA003092,11 Sep 22,9,Tennis World,BLTC,No. 4,Noah Palushi,Dean Nguyen,Dean Nguyen,0-6,0,6,0,1,Completed,true,false,true
+UA003093,11 Sep 22,9,Black Rock,Mordialloc,No. 1,Lewis Smith,Hamish Roberts,Hamish Roberts,2-6,2,6,0,1,Completed,true,false,false
+UA003093,11 Sep 22,9,Black Rock,Mordialloc,No. 2,Harvey Lansley,Cooper Smith,Cooper Smith,1-6,1,6,0,1,Completed,true,false,false
+UA003093,11 Sep 22,9,Black Rock,Mordialloc,No. 3,Oliver Capel,Nicholas Kircher-Wilson,Nicholas Kircher-Wilson,4-6,4,6,0,1,Completed,true,false,false
+UA003093,11 Sep 22,9,Black Rock,Mordialloc,No. 4,Aryan Palai,Justin Li,Aryan Palai,6-4,6,4,1,0,Completed,true,false,false
+UA003094,11 Sep 22,9,Royal Ave 1,Mentone,No. 1,Nick Bolmat,James Dimopoulos,James Dimopoulos,1-6,1,6,0,1,Completed,true,false,false
+UA003094,11 Sep 22,9,Royal Ave 1,Mentone,No. 2,Kai Saxon,Sai Karthik Neerukonda,Sai Karthik Neerukonda,4-6,4,6,0,1,Completed,true,false,false
+UA003094,11 Sep 22,9,Royal Ave 1,Mentone,No. 3,Louis McNabney-Stevens,Chanithu Wickramasinghe,Louis McNabney-Stevens,6-1,6,1,1,0,Completed,true,false,false
+UA003094,11 Sep 22,9,Royal Ave 1,Mentone,No. 4,Nicolette Hilaris,Wanda Bacskai,Nicolette Hilaris,6-2,6,2,1,0,Completed,true,false,false
+UA003101,09 Oct 22,10,Mentone,Dendy Park,No. 1,James Dimopoulos,Jeremy Mayger,James Dimopoulos,6-1,6,1,1,0,Completed,true,false,false
+UA003101,09 Oct 22,10,Mentone,Dendy Park,No. 2,Jackson Ralph,Anh Ngo,Jackson Ralph,7-5,7,5,1,0,Completed,true,false,false
+UA003101,09 Oct 22,10,Mentone,Dendy Park,No. 3,Chanithu Wickramasinghe,Noah Hansen,Chanithu Wickramasinghe,7-6,7,6,1,0,Completed,true,false,false
+UA003101,09 Oct 22,10,Mentone,Dendy Park,No. 4,Wanda Bacskai,Rocca Theuna,Rocca Theuna,4-6,4,6,0,1,Completed,true,false,false
+UA003102,09 Oct 22,10,Royal Ave 2,Tennis World,No. 1,Harry Toomey,Claudia Popovic,Claudia Popovic,3-6,3,6,0,1,Completed,true,false,false
+UA003102,09 Oct 22,10,Royal Ave 2,Tennis World,No. 2,Caleb Jackson-Wright,Sebastian Ng,Caleb Jackson-Wright,6-2,6,2,1,0,Completed,true,false,false
+UA003102,09 Oct 22,10,Royal Ave 2,Tennis World,No. 3,Mia Hilaris,Aileen Diamanti,Mia Hilaris,6-2,6,2,1,0,Completed,true,false,true
+UA003102,09 Oct 22,10,Royal Ave 2,Tennis World,No. 4,Gideon Gomes,James King,Gideon Gomes,6-0,6,0,1,0,Completed,true,false,false
+UA003103,09 Oct 22,10,BLTC,Black Rock,No. 1,Davis Nguyen,Lewis Smith,Davis Nguyen,6-3,6,3,1,0,Completed,true,false,false
+UA003103,09 Oct 22,10,BLTC,Black Rock,No. 2,Sebastian Brown,Connor Tasci,Sebastian Brown,6-3,6,3,1,0,Completed,true,false,false
+UA003103,09 Oct 22,10,BLTC,Black Rock,No. 3,Alex Brown,Oliver Capel,Alex Brown,6-4,6,4,1,0,Completed,true,false,false
+UA003103,09 Oct 22,10,BLTC,Black Rock,No. 4,Campbell Orchard,Aryan Palai,Aryan Palai,6-7,6,7,0,1,Completed,true,false,false
+UA003104,09 Oct 22,10,Mordialloc,Royal Ave 1,No. 1,Hamish Roberts,Nick Bolmat,Hamish Roberts,6-2,6,2,1,0,Completed,true,false,false
+UA003104,09 Oct 22,10,Mordialloc,Royal Ave 1,No. 2,Cooper Smith,Louis McNabney-Stevens,Louis McNabney-Stevens,1-6,1,6,0,1,Completed,true,false,false
+UA003104,09 Oct 22,10,Mordialloc,Royal Ave 1,No. 3,Nicholas Kircher-Wilson,Nicolette Hilaris,Nicholas Kircher-Wilson,7-5,7,5,1,0,Completed,true,false,false
+UA003104,09 Oct 22,10,Mordialloc,Royal Ave 1,No. 4,Justin Li,Leo Wang,Justin Li,6-3,6,3,1,0,Completed,true,false,false
+UA003111,16 Oct 22,11,Dendy Park,Mordialloc,No. 1,Jackson Chen,Hamish Roberts,Hamish Roberts,2-6,2,6,0,1,Completed,true,false,false
+UA003111,16 Oct 22,11,Dendy Park,Mordialloc,No. 2,Anh Ngo,Cooper Smith,Cooper Smith,3-6,3,6,0,1,Completed,true,false,false
+UA003111,16 Oct 22,11,Dendy Park,Mordialloc,No. 3,Noah Hansen,Nicholas Kircher-Wilson,Noah Hansen,6-4,6,4,1,0,Completed,true,false,false
+UA003111,16 Oct 22,11,Dendy Park,Mordialloc,No. 4,Rocca Theuna,Justin Li,Rocca Theuna,6-1,6,1,1,0,Completed,true,false,false
+UA003112,16 Oct 22,11,Tennis World,Mentone,No. 1,Lance Maxwell,James Dimopoulos,James Dimopoulos,3-6,3,6,0,1,Completed,true,false,false
+UA003112,16 Oct 22,11,Tennis World,Mentone,No. 2,Claudia Popovic,Paris Stenhouse,Claudia Popovic,6-4,6,4,1,0,Completed,true,false,true
+UA003112,16 Oct 22,11,Tennis World,Mentone,No. 3,Adrian Peter Evans,Chanithu Wickramasinghe,Adrian Peter Evans,6-1,6,1,1,0,Completed,true,false,false
+UA003112,16 Oct 22,11,Tennis World,Mentone,No. 4,Joel Dalidowicz,Wanda Bacskai,Wanda Bacskai,1-6,1,6,0,1,Completed,true,false,false
+UA003113,16 Oct 22,11,Black Rock,Royal Ave 2,No. 1,Lewis Smith,Harry Toomey,Lewis Smith,7-6,7,6,1,0,Completed,true,false,false
+UA003113,16 Oct 22,11,Black Rock,Royal Ave 2,No. 2,Harvey Lansley,Caleb Jackson-Wright,Caleb Jackson-Wright,4-6,4,6,0,1,Completed,true,false,false
+UA003113,16 Oct 22,11,Black Rock,Royal Ave 2,No. 3,Connor Tasci,William Farrugia,William Farrugia,5-7,5,7,0,1,Completed,true,false,false
+UA003113,16 Oct 22,11,Black Rock,Royal Ave 2,No. 4,Aryan Palai,Jack Vakrinos,Jack Vakrinos,2-6,2,6,0,1,Completed,true,false,false
+UA003114,16 Oct 22,11,Royal Ave 1,BLTC,No. 1,Nick Bolmat,Davis Nguyen,Davis Nguyen,0-6,0,6,0,1,Completed,true,false,false
+UA003114,16 Oct 22,11,Royal Ave 1,BLTC,No. 2,Kai Saxon,Sebastian Brown,Sebastian Brown,1-6,1,6,0,1,Completed,true,false,false
+UA003114,16 Oct 22,11,Royal Ave 1,BLTC,No. 3,Leo Wang,Alex Brown,Leo Wang,6-2,6,2,1,0,Completed,true,false,false
+UA003114,16 Oct 22,11,Royal Ave 1,BLTC,No. 4,Sanjeeva Attygale,Campbell Orchard,Campbell Orchard,2-6,2,6,0,1,Completed,true,true,false
+UA003121,23 Oct 22,12,Royal Ave 1,Black Rock,No. 1,Nick Bolmat,Lewis Smith,Lewis Smith,4-6,4,6,0,1,Completed,true,false,false
+UA003121,23 Oct 22,12,Royal Ave 1,Black Rock,No. 2,Louis McNabney-Stevens,Harvey Lansley,Louis McNabney-Stevens,7-5,7,5,1,0,Completed,true,false,false
+UA003121,23 Oct 22,12,Royal Ave 1,Black Rock,No. 3,Nicolette Hilaris,Oliver Capel,Oliver Capel,4-6,4,6,0,1,Completed,true,false,false
+UA003121,23 Oct 22,12,Royal Ave 1,Black Rock,No. 4,Leo Wang,Aryan Palai,Leo Wang,6-1,6,1,1,0,Completed,true,false,false
+UA003122,23 Oct 22,12,Mentone,Royal Ave 2,No. 1,James Dimopoulos,Harry Toomey,James Dimopoulos,6-4,6,4,1,0,Completed,true,false,false
+UA003122,23 Oct 22,12,Mentone,Royal Ave 2,No. 2,Sai Karthik Neerukonda,Mia Hilaris,Sai Karthik Neerukonda,6-3,6,3,1,0,Completed,true,false,false
+UA003122,23 Oct 22,12,Mentone,Royal Ave 2,No. 3,Chanithu Wickramasinghe,Jack Vakrinos,Jack Vakrinos,2-6,2,6,0,1,Completed,true,false,false
+UA003122,23 Oct 22,12,Mentone,Royal Ave 2,No. 4,Wanda Bacskai,Gideon Gomes,Gideon Gomes,0-6,0,6,0,1,Completed,true,false,false
+UA003123,23 Oct 22,12,BLTC,Mordialloc,No. 1,Davis Nguyen,Hamish Roberts,Hamish Roberts,3-6,3,6,0,1,Completed,true,false,false
+UA003123,23 Oct 22,12,BLTC,Mordialloc,No. 2,Sebastian Brown,Cooper Smith,Sebastian Brown,6-3,6,3,1,0,Completed,true,false,false
+UA003123,23 Oct 22,12,BLTC,Mordialloc,No. 3,Alex Brown,Nicholas Kircher-Wilson,Nicholas Kircher-Wilson,3-6,3,6,0,1,Completed,true,false,false
+UA003123,23 Oct 22,12,BLTC,Mordialloc,No. 4,Campbell Orchard,Justin Li,Campbell Orchard,6-2,6,2,1,0,Completed,true,false,false
+UA003124,23 Oct 22,12,Tennis World,Dendy Park,No. 1,Sebastian Ng,Jackson Chen,Jackson Chen,1-6,1,6,0,1,Completed,true,false,false
+UA003124,23 Oct 22,12,Tennis World,Dendy Park,No. 2,Noah Palushi,Jeremy Mayger,Jeremy Mayger,4-6,4,6,0,1,Completed,true,false,false
+UA003124,23 Oct 22,12,Tennis World,Dendy Park,No. 3,Adrian Peter Evans,Anh Ngo,Anh Ngo,3-6,3,6,0,1,Completed,true,false,false
+UA003124,23 Oct 22,12,Tennis World,Dendy Park,No. 4,James King,Rocca Theuna,Rocca Theuna,0-6,0,6,0,1,Completed,true,false,false
+UA003131,06 Nov 22,13,Black Rock,Tennis World,No. 1,Lewis Smith,Adrian Peter Evans,Lewis Smith,6-2,6,2,1,0,Completed,true,false,false
+UA003131,06 Nov 22,13,Black Rock,Tennis World,No. 2,Harvey Lansley,Joel Dalidowicz,Harvey Lansley,6-0,6,0,1,0,Completed,true,false,false
+UA003131,06 Nov 22,13,Black Rock,Tennis World,No. 3,Connor Tasci,James King,Connor Tasci,6-1,6,1,1,0,Completed,true,false,false
+UA003131,06 Nov 22,13,Black Rock,Tennis World,No. 4,Aryan Palai,Karl Smitz,Aryan Palai,6-1,6,1,1,0,Completed,true,false,true
+UA003132,06 Nov 22,13,Dendy Park,Royal Ave 1,No. 1,Jackson Chen,Nick Bolmat,Jackson Chen,6-2,6,2,1,0,Completed,true,false,false
+UA003132,06 Nov 22,13,Dendy Park,Royal Ave 1,No. 2,Jeremy Mayger,Louis McNabney-Stevens,Louis McNabney-Stevens,3-6,3,6,0,1,Completed,true,false,false
+UA003132,06 Nov 22,13,Dendy Park,Royal Ave 1,No. 3,Anh Ngo,Nicolette Hilaris,Anh Ngo,7-6,7,6,1,0,Completed,true,false,false
+UA003132,06 Nov 22,13,Dendy Park,Royal Ave 1,No. 4,Noah Hansen,Leo Wang,Noah Hansen,6-4,6,4,1,0,Completed,true,false,false
+UA003133,06 Nov 22,13,Mordialloc,Mentone,No. 1,Hamish Roberts,James Dimopoulos,Hamish Roberts,7-6,7,6,1,0,Completed,true,false,false
+UA003133,06 Nov 22,13,Mordialloc,Mentone,No. 2,Cooper Smith,Sai Karthik Neerukonda,Cooper Smith,6-3,6,3,1,0,Completed,true,false,false
+UA003133,06 Nov 22,13,Mordialloc,Mentone,No. 3,Nicholas Kircher-Wilson,Chanithu Wickramasinghe,Nicholas Kircher-Wilson,6-0,6,0,1,0,Completed,true,false,false
+UA003133,06 Nov 22,13,Mordialloc,Mentone,No. 4,Justin Li,Wanda Bacskai,Wanda Bacskai,0-6,0,6,0,1,Completed,true,false,false
+UA003134,06 Nov 22,13,Royal Ave 2,BLTC,No. 1,Caleb Jackson-Wright,Davis Nguyen,Caleb Jackson-Wright,6-3,6,3,1,0,Completed,true,false,false
+UA003134,06 Nov 22,13,Royal Ave 2,BLTC,No. 2,Mia Hilaris,Sebastian Brown,Sebastian Brown,5-7,5,7,0,1,Completed,true,false,false
+UA003134,06 Nov 22,13,Royal Ave 2,BLTC,No. 3,William Farrugia,Alex Brown,Alex Brown,3-6,3,6,0,1,Completed,true,false,false
+UA003134,06 Nov 22,13,Royal Ave 2,BLTC,No. 4,Jack Vakrinos,Campbell Orchard,Jack Vakrinos,6-1,6,1,1,0,Completed,true,false,false
+UA003141,13 Nov 22,14,Black Rock,Dendy Park,No. 1,Lewis Smith,Jackson Chen,Jackson Chen,4-6,4,6,0,1,Completed,true,false,false
+UA003141,13 Nov 22,14,Black Rock,Dendy Park,No. 2,Connor Tasci,Jeremy Mayger,Connor Tasci,6-3,6,3,1,0,Completed,true,false,false
+UA003141,13 Nov 22,14,Black Rock,Dendy Park,No. 3,Oliver Capel,Anh Ngo,Anh Ngo,3-6,3,6,0,1,Completed,true,false,false
+UA003141,13 Nov 22,14,Black Rock,Dendy Park,No. 4,Aryan Palai,Noah Hansen,Noah Hansen,2-6,2,6,0,1,Completed,true,false,false
+UA003142,13 Nov 22,14,Royal Ave 1,Tennis World,No. 1,Nick Bolmat,Lance Maxwell,Lance Maxwell,5-7,5,7,0,1,Completed,true,false,false
+UA003142,13 Nov 22,14,Royal Ave 1,Tennis World,No. 2,Kai Saxon,Sebastian Ng,Sebastian Ng,2-6,2,6,0,1,Completed,true,false,false
+UA003142,13 Nov 22,14,Royal Ave 1,Tennis World,No. 3,Louis McNabney-Stevens,James King,Louis McNabney-Stevens,6-0,6,0,1,0,Completed,true,false,false
+UA003142,13 Nov 22,14,Royal Ave 1,Tennis World,No. 4,Leo Wang,Joel Dalidowicz,Leo Wang,6-0,6,0,1,0,Completed,true,false,false
+UA003143,13 Nov 22,14,Mordialloc,Royal Ave 2,No. 1,Hamish Roberts,Caleb Jackson-Wright,Hamish Roberts,6-0,6,0,1,0,Completed,true,false,false
+UA003143,13 Nov 22,14,Mordialloc,Royal Ave 2,No. 2,Cooper Smith,Mia Hilaris,Cooper Smith,7-5,7,5,1,0,Completed,true,false,false
+UA003143,13 Nov 22,14,Mordialloc,Royal Ave 2,No. 3,Nicholas Kircher-Wilson,Jack Vakrinos,Jack Vakrinos,4-6,4,6,0,1,Completed,true,false,false
+UA003143,13 Nov 22,14,Mordialloc,Royal Ave 2,No. 4,Aariyon Gokhale,Gideon Gomes,Gideon Gomes,1-6,1,6,0,1,Completed,true,false,false
+UA003144,13 Nov 22,14,BLTC,Mentone,No. 1,Davis Nguyen,James Dimopoulos,James Dimopoulos,1-6,1,6,0,1,Completed,true,false,false
+UA003144,13 Nov 22,14,BLTC,Mentone,No. 2,Sebastian Brown,Sai Karthik Neerukonda,Sebastian Brown,7-5,7,5,1,0,Completed,true,false,false
+UA003144,13 Nov 22,14,BLTC,Mentone,No. 3,Alex Brown,Jackson Ralph,Alex Brown,6-3,6,3,1,0,Completed,true,false,false
+UA003144,13 Nov 22,14,BLTC,Mentone,No. 4,Campbell Orchard,Wanda Bacskai,Wanda Bacskai,4-6,4,6,0,1,Completed,true,false,false
+UA003301,,16,Mordialloc,Mentone,No. 1,Hamish Roberts,James Dimopoulos,Hamish Roberts,6-3,6,3,1,0,Completed,true,false,false
+UA003301,,16,Mordialloc,Mentone,No. 2,Cooper Smith,Sai Karthik Neerukonda,Sai Karthik Neerukonda,5-7,5,7,0,1,Completed,true,false,false
+UA003301,,16,Mordialloc,Mentone,No. 3,Nicholas Kircher-Wilson,Jackson Ralph,Jackson Ralph,2-6,2,6,0,1,Completed,true,false,false
+UA003301,,16,Mordialloc,Mentone,No. 4,Justin Li,Wanda Bacskai,Wanda Bacskai,3-6,3,6,0,1,Completed,true,false,false
+UA003302,,16,Dendy Park,BLTC,No. 1,Jackson Chen,Sebastian Brown,Jackson Chen,6-2,6,2,1,0,Completed,true,false,false
+UA003302,,16,Dendy Park,BLTC,No. 2,Jeremy Mayger,Alex Brown,Alex Brown,4-6,4,6,0,1,Completed,true,false,false
+UA003302,,16,Dendy Park,BLTC,No. 3,Anh Ngo,Davis Nguyen,Davis Nguyen,5-7,5,7,0,1,Completed,true,false,false
+UA003302,,16,Dendy Park,BLTC,No. 4,Noah Hansen,Campbell Orchard,Noah Hansen,6-1,6,1,1,0,Completed,true,false,false
+UA003321,,17,Mordialloc,Dendy Park,No. 1,Hamish Roberts,Jackson Chen,Jackson Chen,4-6,4,6,0,1,Completed,true,false,false
+UA003321,,17,Mordialloc,Dendy Park,No. 2,Cooper Smith,Jeremy Mayger,Cooper Smith,6-1,6,1,1,0,Completed,true,false,false
+UA003321,,17,Mordialloc,Dendy Park,No. 3,Nicholas Kircher-Wilson,Anh Ngo,Nicholas Kircher-Wilson,7-5,7,5,1,0,Completed,true,false,false
+UA003321,,17,Mordialloc,Dendy Park,No. 4,Justin Li,Noam Barel,Noam Barel,2-6,2,6,0,1,Completed,true,false,true

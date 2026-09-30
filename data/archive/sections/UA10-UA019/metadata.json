@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA10-UA019",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2012",
+  "season_id": "UA10",
+  "season_label": "Autumn 2012",
+  "source_section_code": "UA019",
+  "section_label": "Section 19",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Glen Eira Beech",
+      "wins": 11,
+      "points": 116,
+      "percentage": 189.41,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "St Andrews MB",
+      "wins": 12,
+      "points": 109,
+      "percentage": 185.15,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Murrumbeena",
+      "wins": 8,
+      "points": 84,
+      "percentage": 113.1,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Mentone",
+      "wins": 6,
+      "points": 63,
+      "percentage": 92.56,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Black Rock",
+      "wins": 3,
+      "points": 56,
+      "percentage": 86.63,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Lauriston",
+      "wins": 3,
+      "points": 46,
+      "percentage": 71.77,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC",
+      "wins": 3,
+      "points": 44.5,
+      "percentage": 66.76,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kings Park",
+      "wins": 1,
+      "points": 41.5,
+      "percentage": 59.07,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA10-UA019",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 215,
+  "doubles_rubbers": 107,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for UA019141"
+  ]
+}

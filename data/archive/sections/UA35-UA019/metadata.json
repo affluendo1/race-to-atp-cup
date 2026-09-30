@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA35-UA019",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2024",
+  "season_id": "UA35",
+  "season_label": "Spring 2024",
+  "source_section_code": "UA019",
+  "section_label": "Section 19",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World Blue",
+      "wins": 12,
+      "points": 120,
+      "percentage": 248.28,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Tennis World Green",
+      "wins": 10,
+      "points": 108,
+      "percentage": 186.26,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kings Park",
+      "wins": 7,
+      "points": 79,
+      "percentage": 104.78,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Le Page Blue",
+      "wins": 8,
+      "points": 78,
+      "percentage": 106.98,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC Blue",
+      "wins": 6,
+      "points": 68,
+      "percentage": 95.85,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Mentone",
+      "wins": 4,
+      "points": 55,
+      "percentage": 75.82,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC White",
+      "wins": 2,
+      "points": 37,
+      "percentage": 64.0,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Highmoor Uniting",
+      "wins": 0,
+      "points": 15,
+      "percentage": 47.74,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA35-UA019",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 216,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

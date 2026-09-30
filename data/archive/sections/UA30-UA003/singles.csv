@@ -1,0 +1,213 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA003011,06 Feb 22,1,Royal Ave 1,Royal Ave 2,No. 1,Oliver Letham,Max Leeds,Oliver Letham,6-2,6,2,1,0,Completed,true,false,false
+UA003011,06 Feb 22,1,Royal Ave 1,Royal Ave 2,No. 2,Nick Bolmat,Leo Wang,Nick Bolmat,6-3,6,3,1,0,Completed,true,false,false
+UA003011,06 Feb 22,1,Royal Ave 1,Royal Ave 2,No. 3,Louis McNabney-Stevens,Elliott Tay,Elliott Tay,3-6,3,6,0,1,Completed,true,false,false
+UA003011,06 Feb 22,1,Royal Ave 1,Royal Ave 2,No. 4,Tal Zafrin,Nicolette Hilaris,Nicolette Hilaris,4-6,4,6,0,1,Completed,true,false,false
+UA003012,06 Feb 22,1,Mordialloc,Beaumaris CC,No. 1,Hamish Roberts,Jamie Turner,Jamie Turner,4-6,4,6,0,1,Completed,true,false,false
+UA003012,06 Feb 22,1,Mordialloc,Beaumaris CC,No. 2,Nicholas Kircher-Wilson,Xavier Carter,Xavier Carter,2-6,2,6,0,1,Completed,true,false,false
+UA003012,06 Feb 22,1,Mordialloc,Beaumaris CC,No. 3,Aariyon Gokhale,Kylah Schuwalow,Kylah Schuwalow,0-6,0,6,0,1,Completed,true,false,false
+UA003012,06 Feb 22,1,Mordialloc,Beaumaris CC,No. 4,Justin Li,Eliza Anderson,Justin Li,6-0,6,0,1,0,Completed,true,false,false
+UA003013,06 Feb 22,1,Elsternwick Park,Kooyong,No. 1,Joe Barr,Josie Best,Joe Barr,6-3,6,3,1,0,Completed,true,false,false
+UA003013,06 Feb 22,1,Elsternwick Park,Kooyong,No. 2,Lachlan Hudson,Mikhail Kouzionis,Lachlan Hudson,6-0,6,0,1,0,Completed,true,false,false
+UA003013,06 Feb 22,1,Elsternwick Park,Kooyong,No. 3,Bayden Pritchard,Ashton Coster,Ashton Coster,3-6,3,6,0,1,Completed,true,false,false
+UA003013,06 Feb 22,1,Elsternwick Park,Kooyong,No. 4,Vincent Fiorello,Caroline Marcel,Vincent Fiorello,6-1,6,1,1,0,Completed,true,false,false
+UA003014,06 Feb 22,1,Hurlingham Park,Highett,No. 1,Kynan Enwright,Ethan Badcock,Ethan Badcock,4-6,4,6,0,1,Completed,true,false,false
+UA003014,06 Feb 22,1,Hurlingham Park,Highett,No. 2,Luka Thurlow,Maksi Kaurin,Luka Thurlow,6-2,6,2,1,0,Completed,true,false,false
+UA003014,06 Feb 22,1,Hurlingham Park,Highett,No. 3,Hugh Du Toit,Chloe Miller,Chloe Miller,2-6,2,6,0,1,Completed,true,false,false
+UA003014,06 Feb 22,1,Hurlingham Park,Highett,No. 4,Albert MacGowan,Harry Kidd,Albert MacGowan,6-1,6,1,1,0,Completed,true,false,false
+UA003021,13 Feb 22,2,Highett,Royal Ave 1,No. 1,Ethan Badcock,Oliver Letham,Ethan Badcock,6-1,6,1,1,0,Completed,true,false,false
+UA003021,13 Feb 22,2,Highett,Royal Ave 1,No. 2,Maksi Kaurin,Nick Bolmat,Nick Bolmat,6-7,6,7,0,1,Completed,true,false,false
+UA003021,13 Feb 22,2,Highett,Royal Ave 1,No. 3,Chloe Miller,Louis McNabney-Stevens,Chloe Miller,6-0,6,0,1,0,Completed,true,false,false
+UA003021,13 Feb 22,2,Highett,Royal Ave 1,No. 4,Harry Kidd,Kai Saxon,Kai Saxon,3-6,3,6,0,1,Completed,true,false,false
+UA003022,13 Feb 22,2,Royal Ave 2,Mordialloc,No. 1,Anthony Power,Hamish Roberts,Hamish Roberts,1-6,1,6,0,1,Completed,true,true,false
+UA003022,13 Feb 22,2,Royal Ave 2,Mordialloc,No. 2,Leo Wang,Nicholas Kircher-Wilson,Nicholas Kircher-Wilson,2-6,2,6,0,1,Completed,true,false,false
+UA003022,13 Feb 22,2,Royal Ave 2,Mordialloc,No. 3,Elliott Tay,Justin Li,Elliott Tay,6-4,6,4,1,0,Completed,true,false,false
+UA003022,13 Feb 22,2,Royal Ave 2,Mordialloc,No. 4,Nicolette Hilaris,Zeke Stainthorpe,Nicolette Hilaris,6-0,6,0,1,0,Completed,true,false,false
+UA003023,13 Feb 22,2,Beaumaris CC,Elsternwick Park,No. 1,Jamie Turner,Joe Barr,Joe Barr,4-6,4,6,0,1,Completed,true,false,false
+UA003023,13 Feb 22,2,Beaumaris CC,Elsternwick Park,No. 2,Xavier Carter,Lachlan Hudson,Lachlan Hudson,0-6,0,6,0,1,Completed,true,false,false
+UA003023,13 Feb 22,2,Beaumaris CC,Elsternwick Park,No. 3,Kylah Schuwalow,Bayden Pritchard,Bayden Pritchard,4-6,4,6,0,1,Completed,true,false,false
+UA003023,13 Feb 22,2,Beaumaris CC,Elsternwick Park,No. 4,Eliza Anderson,Vincent Fiorello,Eliza Anderson,6-2,6,2,1,0,Completed,true,false,false
+UA003024,13 Feb 22,2,Kooyong,Hurlingham Park,No. 1,Josie Best,Kynan Enwright,Kynan Enwright,0-6,0,6,0,1,Completed,true,false,false
+UA003024,13 Feb 22,2,Kooyong,Hurlingham Park,No. 2,Mikhail Kouzionis,Tianqi Luo,Tianqi Luo,3-6,3,6,0,1,Completed,true,false,true
+UA003024,13 Feb 22,2,Kooyong,Hurlingham Park,No. 3,Ashton Coster,Luka Thurlow,Ashton Coster,6-2,6,2,1,0,Completed,true,false,false
+UA003024,13 Feb 22,2,Kooyong,Hurlingham Park,No. 4,Ned Cohen,Albert MacGowan,Albert MacGowan,6-7,6,7,0,1,Completed,true,false,false
+UA003031,20 Feb 22,3,Royal Ave 1,Kooyong,No. 1,Oliver Letham,Josie Best,Oliver Letham,6-0,6,0,1,0,Completed,true,false,false
+UA003031,20 Feb 22,3,Royal Ave 1,Kooyong,No. 2,Anthony Power,Mikhail Kouzionis,Anthony Power,6-2,6,2,1,0,Completed,true,false,false
+UA003031,20 Feb 22,3,Royal Ave 1,Kooyong,No. 3,Nick Bolmat,Caroline Marcel,Nick Bolmat,6-3,6,3,1,0,Completed,true,false,false
+UA003031,20 Feb 22,3,Royal Ave 1,Kooyong,No. 4,Tal Zafrin,Nuwan Dodanwela,Nuwan Dodanwela,3-6,3,6,0,1,Completed,true,false,true
+UA003032,20 Feb 22,3,Mordialloc,Highett,No. 1,Hamish Roberts,Ethan Badcock,Ethan Badcock,6-7,6,7,0,1,Completed,true,false,false
+UA003032,20 Feb 22,3,Mordialloc,Highett,No. 2,Nicholas Kircher-Wilson,Chloe Miller,Nicholas Kircher-Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA003032,20 Feb 22,3,Mordialloc,Highett,No. 3,Aariyon Gokhale,Maksi Kaurin,Maksi Kaurin,3-6,3,6,0,1,Completed,true,false,false
+UA003032,20 Feb 22,3,Mordialloc,Highett,No. 4,Cooper Smith,Harry Kidd,Cooper Smith,6-2,6,2,1,0,Completed,true,true,false
+UA003033,20 Feb 22,3,Elsternwick Park,Royal Ave 2,No. 1,Joe Barr,Max Leeds,Joe Barr,7-6,7,6,1,0,Completed,true,false,false
+UA003033,20 Feb 22,3,Elsternwick Park,Royal Ave 2,No. 2,Lachlan Hudson,Leo Wang,Lachlan Hudson,6-0,6,0,1,0,Completed,true,false,false
+UA003033,20 Feb 22,3,Elsternwick Park,Royal Ave 2,No. 3,Alison Bennett,Nicolette Hilaris,Nicolette Hilaris,3-6,3,6,0,1,Completed,true,false,false
+UA003033,20 Feb 22,3,Elsternwick Park,Royal Ave 2,No. 4,Bayden Pritchard,Harrison Moller,Bayden Pritchard,6-3,6,3,1,0,Completed,true,false,false
+UA003034,20 Feb 22,3,Hurlingham Park,Beaumaris CC,No. 1,Kynan Enwright,Jamie Turner,Kynan Enwright,7-6,7,6,1,0,Completed,true,false,false
+UA003034,20 Feb 22,3,Hurlingham Park,Beaumaris CC,No. 2,Luka Thurlow,Kylah Schuwalow,Luka Thurlow,6-2,6,2,1,0,Completed,true,false,false
+UA003034,20 Feb 22,3,Hurlingham Park,Beaumaris CC,No. 3,Hugh Du Toit,Eliza Anderson,Hugh Du Toit,6-2,6,2,1,0,Completed,true,false,false
+UA003034,20 Feb 22,3,Hurlingham Park,Beaumaris CC,No. 4,Albert MacGowan,Aliya Appleby,Albert MacGowan,6-0,6,0,1,0,Completed,true,false,true
+UA003041,27 Feb 22,4,Beaumaris CC,Royal Ave 1,No. 1,Jamie Turner,Oliver Letham,Oliver Letham,6-7,6,7,0,1,Completed,true,false,false
+UA003041,27 Feb 22,4,Beaumaris CC,Royal Ave 1,No. 2,Kylah Schuwalow,Louis McNabney-Stevens,Kylah Schuwalow,6-4,6,4,1,0,Completed,true,false,false
+UA003041,27 Feb 22,4,Beaumaris CC,Royal Ave 1,No. 3,Eliza Anderson,Tal Zafrin,Eliza Anderson,6-1,6,1,1,0,Completed,true,false,false
+UA003041,27 Feb 22,4,Beaumaris CC,Royal Ave 1,No. 4,Aliya Appleby,Kai Saxon,Kai Saxon,0-6,0,6,0,1,Completed,true,true,false
+UA003042,27 Feb 22,4,Kooyong,Mordialloc,No. 1,Ashton Coster,Hamish Roberts,Hamish Roberts,4-6,4,6,0,1,Completed,true,false,false
+UA003042,27 Feb 22,4,Kooyong,Mordialloc,No. 2,Mikhail Kouzionis,Aariyon Gokhale,Mikhail Kouzionis,6-4,6,4,1,0,Completed,true,false,false
+UA003042,27 Feb 22,4,Kooyong,Mordialloc,No. 3,Caroline Marcel,Justin Li,Justin Li,3-6,3,6,0,1,Completed,true,false,false
+UA003042,27 Feb 22,4,Kooyong,Mordialloc,No. 4,Will Dawkins,Zeke Stainthorpe,Will Dawkins,6-2,6,2,1,0,Completed,true,false,false
+UA003043,27 Feb 22,4,Highett,Elsternwick Park,No. 1,Ethan Badcock,Lachlan Hudson,Ethan Badcock,6-4,6,4,1,0,Completed,true,false,false
+UA003043,27 Feb 22,4,Highett,Elsternwick Park,No. 2,Angus Sanders,Alison Bennett,Angus Sanders,6-0,6,0,1,0,Completed,true,false,false
+UA003043,27 Feb 22,4,Highett,Elsternwick Park,No. 3,Chloe Miller,Bayden Pritchard,Bayden Pritchard,3-6,3,6,0,1,Completed,true,false,false
+UA003043,27 Feb 22,4,Highett,Elsternwick Park,No. 4,Maksi Kaurin,Vincent Fiorello,Maksi Kaurin,6-0,6,0,1,0,Completed,true,false,false
+UA003044,27 Feb 22,4,Royal Ave 2,Hurlingham Park,No. 1,Anthony Power,Kynan Enwright,Kynan Enwright,0-6,0,6,0,1,Completed,true,true,false
+UA003044,27 Feb 22,4,Royal Ave 2,Hurlingham Park,No. 2,Leo Wang,Luka Thurlow,Luka Thurlow,1-6,1,6,0,1,Completed,true,false,false
+UA003044,27 Feb 22,4,Royal Ave 2,Hurlingham Park,No. 3,Elliott Tay,Hugh Du Toit,Hugh Du Toit,2-6,2,6,0,1,Completed,true,false,false
+UA003044,27 Feb 22,4,Royal Ave 2,Hurlingham Park,No. 4,Harrison Moller,Albert MacGowan,Albert MacGowan,3-6,3,6,0,1,Completed,true,false,false
+UA003051,06 Mar 22,5,Elsternwick Park,Hurlingham Park,No. 1,Joe Barr,Kynan Enwright,Kynan Enwright,6-7,6,7,0,1,Completed,true,false,false
+UA003051,06 Mar 22,5,Elsternwick Park,Hurlingham Park,No. 2,Lachlan Hudson,Luka Thurlow,Lachlan Hudson,6-3,6,3,1,0,Completed,true,false,false
+UA003051,06 Mar 22,5,Elsternwick Park,Hurlingham Park,No. 3,Alison Bennett,Hugh Du Toit,Hugh Du Toit,3-6,3,6,0,1,Completed,true,false,false
+UA003051,06 Mar 22,5,Elsternwick Park,Hurlingham Park,No. 4,Vincent Fiorello,Albert MacGowan,Albert MacGowan,2-6,2,6,0,1,Completed,true,false,false
+UA003052,06 Mar 22,5,Highett,Kooyong,No. 1,Ethan Badcock,Ashton Coster,Ethan Badcock,6-4,6,4,1,0,Completed,true,false,false
+UA003052,06 Mar 22,5,Highett,Kooyong,No. 2,Chloe Miller,Josie Best,Chloe Miller,7-6,7,6,1,0,Completed,true,false,false
+UA003052,06 Mar 22,5,Highett,Kooyong,No. 3,Maksi Kaurin,Caroline Marcel,Maksi Kaurin,6-0,6,0,1,0,Completed,true,false,false
+UA003052,06 Mar 22,5,Highett,Kooyong,No. 4,Harry Kidd,Will Dawkins,Harry Kidd,6-0,6,0,1,0,Completed,true,false,false
+UA003053,06 Mar 22,5,Beaumaris CC,Royal Ave 2,No. 1,Jamie Turner,Leo Wang,Jamie Turner,6-1,6,1,1,0,Completed,true,false,false
+UA003053,06 Mar 22,5,Beaumaris CC,Royal Ave 2,No. 2,Kylah Schuwalow,Elliott Tay,Elliott Tay,3-6,3,6,0,1,Completed,true,false,false
+UA003053,06 Mar 22,5,Beaumaris CC,Royal Ave 2,No. 3,Eliza Anderson,Nicolette Hilaris,Nicolette Hilaris,2-6,2,6,0,1,Completed,true,false,false
+UA003053,06 Mar 22,5,Beaumaris CC,Royal Ave 2,No. 4,Aliya Appleby,Harrison Moller,Aliya Appleby,6-3,6,3,1,0,Completed,true,true,false
+UA003054,06 Mar 22,5,Royal Ave 1,Mordialloc,No. 1,Oliver Letham,Hamish Roberts,Hamish Roberts,4-6,4,6,0,1,Completed,true,false,false
+UA003054,06 Mar 22,5,Royal Ave 1,Mordialloc,No. 2,Nick Bolmat,Nicholas Kircher-Wilson,Nicholas Kircher-Wilson,5-7,5,7,0,1,Completed,true,false,false
+UA003054,06 Mar 22,5,Royal Ave 1,Mordialloc,No. 3,Louis McNabney-Stevens,Aariyon Gokhale,Louis McNabney-Stevens,6-1,6,1,1,0,Completed,true,false,false
+UA003054,06 Mar 22,5,Royal Ave 1,Mordialloc,No. 4,Tal Zafrin,Zeke Stainthorpe,Tal Zafrin,6-1,6,1,1,0,Completed,true,false,false
+UA003061,20 Mar 22,6,Mordialloc,Elsternwick Park,No. 1,Hamish Roberts,Joe Barr,Hamish Roberts,6-2,6,2,1,0,Completed,true,false,false
+UA003061,20 Mar 22,6,Mordialloc,Elsternwick Park,No. 2,Nicholas Kircher-Wilson,Lachlan Hudson,Lachlan Hudson,3-6,3,6,0,1,Completed,true,false,false
+UA003061,20 Mar 22,6,Mordialloc,Elsternwick Park,No. 3,Aariyon Gokhale,Zac Waterston,Zac Waterston,0-6,0,6,0,1,Completed,true,false,false
+UA003061,20 Mar 22,6,Mordialloc,Elsternwick Park,No. 4,Zeke Stainthorpe,Victor Hart,Victor Hart,0-6,0,6,0,1,Completed,true,false,true
+UA003062,20 Mar 22,6,Hurlingham Park,Royal Ave 1,No. 1,Kynan Enwright,Oliver Letham,Kynan Enwright,6-4,6,4,1,0,Completed,true,false,false
+UA003062,20 Mar 22,6,Hurlingham Park,Royal Ave 1,No. 2,Luka Thurlow,Louis McNabney-Stevens,Luka Thurlow,6-0,6,0,1,0,Completed,true,false,false
+UA003062,20 Mar 22,6,Hurlingham Park,Royal Ave 1,No. 3,Hugh Du Toit,Nick Bolmat,Hugh Du Toit,6-0,6,0,1,0,Completed,true,false,false
+UA003062,20 Mar 22,6,Hurlingham Park,Royal Ave 1,No. 4,Albert MacGowan,Tal Zafrin,Albert MacGowan,6-1,6,1,1,0,Completed,true,false,false
+UA003063,20 Mar 22,6,Kooyong,Beaumaris CC,No. 1,Ashton Coster,Jamie Turner,Ashton Coster,6-1,6,1,1,0,Completed,true,false,false
+UA003063,20 Mar 22,6,Kooyong,Beaumaris CC,No. 2,Josie Best,Xavier Carter,Xavier Carter,1-6,1,6,0,1,Completed,true,false,false
+UA003063,20 Mar 22,6,Kooyong,Beaumaris CC,No. 3,Caroline Marcel,Cammie Shannon,Cammie Shannon,0-6,0,6,0,1,Completed,true,false,false
+UA003063,20 Mar 22,6,Kooyong,Beaumaris CC,No. 4,Will Dawkins,Kylah Schuwalow,Kylah Schuwalow,3-6,3,6,0,1,Completed,true,false,false
+UA003071,27 Mar 22,7,Royal Ave 1,Elsternwick Park,No. 1,Oliver Letham,Joe Barr,Joe Barr,1-6,1,6,0,1,Completed,true,false,false
+UA003071,27 Mar 22,7,Royal Ave 1,Elsternwick Park,No. 2,Nick Bolmat,Lachlan Hudson,Lachlan Hudson,2-6,2,6,0,1,Completed,true,false,false
+UA003071,27 Mar 22,7,Royal Ave 1,Elsternwick Park,No. 3,Louis McNabney-Stevens,Bayden Pritchard,Louis McNabney-Stevens,6-3,6,3,1,0,Completed,true,false,false
+UA003071,27 Mar 22,7,Royal Ave 1,Elsternwick Park,No. 4,Kai Saxon,Vincent Fiorello,Vincent Fiorello,0-6,0,6,0,1,Completed,true,false,false
+UA003072,27 Mar 22,7,Mordialloc,Hurlingham Park,No. 1,Nicholas Kircher-Wilson,Kynan Enwright,Kynan Enwright,1-6,1,6,0,1,Completed,true,false,false
+UA003072,27 Mar 22,7,Mordialloc,Hurlingham Park,No. 2,Aariyon Gokhale,Luka Thurlow,Luka Thurlow,1-6,1,6,0,1,Completed,true,false,false
+UA003072,27 Mar 22,7,Mordialloc,Hurlingham Park,No. 3,Justin Li,Hugh Du Toit,Hugh Du Toit,3-6,3,6,0,1,Completed,true,false,false
+UA003072,27 Mar 22,7,Mordialloc,Hurlingham Park,No. 4,Zeke Stainthorpe,Albert MacGowan,Albert MacGowan,0-6,0,6,0,1,Completed,true,false,false
+UA003073,27 Mar 22,7,Highett,Beaumaris CC,No. 1,Ethan Badcock,Jamie Turner,Ethan Badcock,6-3,6,3,1,0,Completed,true,false,false
+UA003073,27 Mar 22,7,Highett,Beaumaris CC,No. 2,Angus Sanders,Xavier Carter,Xavier Carter,1-6,1,6,0,1,Completed,true,false,false
+UA003073,27 Mar 22,7,Highett,Beaumaris CC,No. 3,Chloe Miller,Cammie Shannon,Chloe Miller,6-2,6,2,1,0,Completed,true,false,false
+UA003073,27 Mar 22,7,Highett,Beaumaris CC,No. 4,Harry Kidd,Kayla Johnstone,Harry Kidd,6-1,6,1,1,0,Completed,true,false,true
+UA003074,27 Mar 22,7,Kooyong,Royal Ave 2,No. 1,Ashton Coster,Leo Wang,Ashton Coster,6-1,6,1,1,0,Completed,true,false,false
+UA003074,27 Mar 22,7,Kooyong,Royal Ave 2,No. 2,Josie Best,Harrison Moller,Harrison Moller,4-6,4,6,0,1,Completed,true,false,false
+UA003074,27 Mar 22,7,Kooyong,Royal Ave 2,No. 3,Mikhail Kouzionis,Toby Brett,Toby Brett,3-6,3,6,0,1,Completed,true,false,false
+UA003074,27 Mar 22,7,Kooyong,Royal Ave 2,No. 4,Caroline Marcel,Vadim Goreux,Caroline Marcel,7-6,7,6,1,0,Completed,true,false,true
+UA003081,03 Apr 22,8,Royal Ave 2,Royal Ave 1,No. 1,Max Leeds,Oliver Letham,Oliver Letham,1-6,1,6,0,1,Completed,true,false,false
+UA003081,03 Apr 22,8,Royal Ave 2,Royal Ave 1,No. 2,Elliott Tay,Nick Bolmat,Nick Bolmat,3-6,3,6,0,1,Completed,true,false,false
+UA003081,03 Apr 22,8,Royal Ave 2,Royal Ave 1,No. 3,Nicolette Hilaris,Louis McNabney-Stevens,Louis McNabney-Stevens,5-7,5,7,0,1,Completed,true,false,false
+UA003081,03 Apr 22,8,Royal Ave 2,Royal Ave 1,No. 4,Harrison Moller,Tal Zafrin,Harrison Moller,6-0,6,0,1,0,Completed,true,false,false
+UA003082,03 Apr 22,8,Beaumaris CC,Mordialloc,No. 1,Jamie Turner,Hamish Roberts,Hamish Roberts,0-6,0,6,0,1,Completed,true,false,false
+UA003082,03 Apr 22,8,Beaumaris CC,Mordialloc,No. 2,Xavier Carter,Nicholas Kircher-Wilson,Xavier Carter,6-1,6,1,1,0,Completed,true,false,false
+UA003082,03 Apr 22,8,Beaumaris CC,Mordialloc,No. 3,Cammie Shannon,Aariyon Gokhale,Cammie Shannon,6-4,6,4,1,0,Completed,true,false,false
+UA003082,03 Apr 22,8,Beaumaris CC,Mordialloc,No. 4,Kylah Schuwalow,Justin Li,Kylah Schuwalow,6-4,6,4,1,0,Completed,true,false,false
+UA003083,03 Apr 22,8,Kooyong,Elsternwick Park,No. 1,Ashton Coster,Joe Barr,Ashton Coster,6-2,6,2,1,0,Completed,true,false,false
+UA003083,03 Apr 22,8,Kooyong,Elsternwick Park,No. 2,Josie Best,Alison Bennett,Alison Bennett,4-6,4,6,0,1,Completed,true,false,false
+UA003083,03 Apr 22,8,Kooyong,Elsternwick Park,No. 3,Caroline Marcel,Bayden Pritchard,Bayden Pritchard,3-6,3,6,0,1,Completed,true,false,false
+UA003083,03 Apr 22,8,Kooyong,Elsternwick Park,No. 4,Will Dawkins,Vincent Fiorello,Vincent Fiorello,3-6,3,6,0,1,Completed,true,false,false
+UA003084,03 Apr 22,8,Highett,Hurlingham Park,No. 1,Ethan Badcock,Kynan Enwright,Ethan Badcock,6-4,6,4,1,0,Completed,true,false,false
+UA003084,03 Apr 22,8,Highett,Hurlingham Park,No. 2,Angus Sanders,Luka Thurlow,Angus Sanders,6-3,6,3,1,0,Completed,true,false,false
+UA003084,03 Apr 22,8,Highett,Hurlingham Park,No. 3,Chloe Miller,Hugh Du Toit,Chloe Miller,6-2,6,2,1,0,Completed,true,false,false
+UA003084,03 Apr 22,8,Highett,Hurlingham Park,No. 4,Maksi Kaurin,Albert MacGowan,Albert MacGowan,0-6,0,6,0,1,Completed,true,false,false
+UA003091,01 May 22,9,Royal Ave 1,Highett,No. 1,Oliver Letham,Ethan Badcock,Oliver Letham,7-6,7,6,1,0,Completed,true,false,false
+UA003091,01 May 22,9,Royal Ave 1,Highett,No. 2,Anthony Power,Chloe Miller,Chloe Miller,2-6,2,6,0,1,Completed,true,false,false
+UA003091,01 May 22,9,Royal Ave 1,Highett,No. 3,Nick Bolmat,Maksi Kaurin,Maksi Kaurin,1-6,1,6,0,1,Completed,true,false,false
+UA003091,01 May 22,9,Royal Ave 1,Highett,No. 4,Louis McNabney-Stevens,Harry Kidd,Harry Kidd,4-6,4,6,0,1,Completed,true,false,false
+UA003092,01 May 22,9,Mordialloc,Royal Ave 2,No. 1,Hamish Roberts,Leo Wang,Hamish Roberts,6-1,6,1,1,0,Completed,true,false,false
+UA003092,01 May 22,9,Mordialloc,Royal Ave 2,No. 2,Nicholas Kircher-Wilson,Elliott Tay,Nicholas Kircher-Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA003092,01 May 22,9,Mordialloc,Royal Ave 2,No. 3,Aariyon Gokhale,Nicolette Hilaris,Nicolette Hilaris,4-6,4,6,0,1,Completed,true,false,false
+UA003092,01 May 22,9,Mordialloc,Royal Ave 2,No. 4,Justin Li,Toby Brett,Justin Li,6-1,6,1,1,0,Completed,true,false,false
+UA003093,01 May 22,9,Elsternwick Park,Beaumaris CC,No. 1,Joe Barr,Jamie Turner,Joe Barr,6-1,6,1,1,0,Completed,true,false,false
+UA003093,01 May 22,9,Elsternwick Park,Beaumaris CC,No. 2,Alison Bennett,Xavier Carter,Xavier Carter,2-6,2,6,0,1,Completed,true,false,false
+UA003093,01 May 22,9,Elsternwick Park,Beaumaris CC,No. 3,Bayden Pritchard,Cammie Shannon,Bayden Pritchard,6-4,6,4,1,0,Completed,true,false,false
+UA003093,01 May 22,9,Elsternwick Park,Beaumaris CC,No. 4,Vincent Fiorello,Kylah Schuwalow,Kylah Schuwalow,3-6,3,6,0,1,Completed,true,false,false
+UA003094,01 May 22,9,Hurlingham Park,Kooyong,No. 1,Noah Mies,Ashton Coster,Ashton Coster,0-6,0,6,0,1,Completed,true,false,false
+UA003094,01 May 22,9,Hurlingham Park,Kooyong,No. 2,Kynan Enwright,Josie Best,Kynan Enwright,6-0,6,0,1,0,Completed,true,false,false
+UA003094,01 May 22,9,Hurlingham Park,Kooyong,No. 3,Luka Thurlow,Caroline Marcel,Luka Thurlow,6-0,6,0,1,0,Completed,true,false,false
+UA003094,01 May 22,9,Hurlingham Park,Kooyong,No. 4,Hugh Du Toit,Will Dawkins,Hugh Du Toit,6-2,6,2,1,0,Completed,true,false,false
+UA003101,08 May 22,10,Kooyong,Royal Ave 1,No. 1,Ashton Coster,Oliver Letham,Oliver Letham,0-6,0,6,0,1,Completed,true,false,false
+UA003101,08 May 22,10,Kooyong,Royal Ave 1,No. 2,Josie Best,Nick Bolmat,Nick Bolmat,1-6,1,6,0,1,Completed,true,false,false
+UA003101,08 May 22,10,Kooyong,Royal Ave 1,No. 3,Mikhail Kouzionis,Tal Zafrin,Mikhail Kouzionis,6-1,6,1,1,0,Completed,true,false,false
+UA003101,08 May 22,10,Kooyong,Royal Ave 1,No. 4,Caroline Marcel,Kai Saxon,Kai Saxon,0-6,0,6,0,1,Completed,true,false,false
+UA003102,08 May 22,10,Highett,Mordialloc,No. 1,Ethan Badcock,Nicholas Kircher-Wilson,Ethan Badcock,6-1,6,1,1,0,Completed,true,false,false
+UA003102,08 May 22,10,Highett,Mordialloc,No. 2,Angus Sanders,Aariyon Gokhale,Angus Sanders,6-4,6,4,1,0,Completed,true,false,false
+UA003102,08 May 22,10,Highett,Mordialloc,No. 3,Maksi Kaurin,Justin Li,Maksi Kaurin,6-1,6,1,1,0,Completed,true,false,false
+UA003102,08 May 22,10,Highett,Mordialloc,No. 4,Harry Kidd,Cooper Smith,Harry Kidd,6-2,6,2,1,0,Completed,true,false,true
+UA003103,08 May 22,10,Royal Ave 2,Elsternwick Park,No. 1,Leo Wang,Joe Barr,Joe Barr,3-6,3,6,0,1,Completed,true,false,false
+UA003103,08 May 22,10,Royal Ave 2,Elsternwick Park,No. 2,Elliott Tay,Alison Bennett,Elliott Tay,6-3,6,3,1,0,Completed,true,false,false
+UA003103,08 May 22,10,Royal Ave 2,Elsternwick Park,No. 3,Nicolette Hilaris,Bayden Pritchard,Bayden Pritchard,6-7,6,7,0,1,Completed,true,false,false
+UA003103,08 May 22,10,Royal Ave 2,Elsternwick Park,No. 4,Harrison Moller,Zac Waterston,Zac Waterston,0-6,0,6,0,1,Completed,true,false,false
+UA003104,08 May 22,10,Beaumaris CC,Hurlingham Park,No. 1,Xavier Carter,Kynan Enwright,Kynan Enwright,5-7,5,7,0,1,Completed,true,false,false
+UA003104,08 May 22,10,Beaumaris CC,Hurlingham Park,No. 2,Cammie Shannon,Noah Mies,Noah Mies,6-7,6,7,0,1,Completed,true,false,false
+UA003104,08 May 22,10,Beaumaris CC,Hurlingham Park,No. 3,Kylah Schuwalow,Luka Thurlow,Luka Thurlow,2-6,2,6,0,1,Completed,true,false,false
+UA003104,08 May 22,10,Beaumaris CC,Hurlingham Park,No. 4,Eliza Anderson,Hugh Du Toit,Hugh Du Toit,4-6,4,6,0,1,Completed,true,false,false
+UA003111,15 May 22,11,Royal Ave 1,Beaumaris CC,No. 1,Oliver Letham,Jamie Turner,Oliver Letham,6-2,6,2,1,0,Completed,true,false,false
+UA003111,15 May 22,11,Royal Ave 1,Beaumaris CC,No. 2,Anthony Power,Xavier Carter,Xavier Carter,3-6,3,6,0,1,Completed,true,false,false
+UA003111,15 May 22,11,Royal Ave 1,Beaumaris CC,No. 3,Nick Bolmat,Kylah Schuwalow,Nick Bolmat,6-2,6,2,1,0,Completed,true,false,false
+UA003111,15 May 22,11,Royal Ave 1,Beaumaris CC,No. 4,Tal Zafrin,Eliza Anderson,Eliza Anderson,2-6,2,6,0,1,Completed,true,false,false
+UA003112,15 May 22,11,Mordialloc,Kooyong,No. 1,Hamish Roberts,Ashton Coster,Ashton Coster,1-6,1,6,0,1,Completed,true,false,false
+UA003112,15 May 22,11,Mordialloc,Kooyong,No. 2,Nicholas Kircher-Wilson,Josie Best,Nicholas Kircher-Wilson,6-2,6,2,1,0,Completed,true,false,false
+UA003112,15 May 22,11,Mordialloc,Kooyong,No. 3,Aariyon Gokhale,Caroline Marcel,Aariyon Gokhale,6-1,6,1,1,0,Completed,true,false,false
+UA003112,15 May 22,11,Mordialloc,Kooyong,No. 4,Justin Li,Will Dawkins,Justin Li,6-4,6,4,1,0,Completed,true,false,false
+UA003113,15 May 22,11,Elsternwick Park,Highett,No. 1,Joe Barr,Angus Sanders,Joe Barr,6-2,6,2,1,0,Completed,true,false,false
+UA003113,15 May 22,11,Elsternwick Park,Highett,No. 2,Alison Bennett,Chloe Miller,Chloe Miller,1-6,1,6,0,1,Completed,true,false,false
+UA003113,15 May 22,11,Elsternwick Park,Highett,No. 3,Zac Waterston,Harry Kidd,Zac Waterston,6-2,6,2,1,0,Completed,true,false,false
+UA003113,15 May 22,11,Elsternwick Park,Highett,No. 4,Ray Yamamoto,Ben Reddy,Ray Yamamoto,6-3,6,3,1,0,Completed,true,true,true
+UA003114,15 May 22,11,Hurlingham Park,Royal Ave 2,No. 1,Kynan Enwright,Ben Brett,Kynan Enwright,6-0,6,0,1,0,Completed,true,false,true
+UA003114,15 May 22,11,Hurlingham Park,Royal Ave 2,No. 2,Noah Mies,Harrison Moller,Noah Mies,6-0,6,0,1,0,Completed,true,false,false
+UA003114,15 May 22,11,Hurlingham Park,Royal Ave 2,No. 3,Luka Thurlow,Toby Brett,Luka Thurlow,6-1,6,1,1,0,Completed,true,false,false
+UA003114,15 May 22,11,Hurlingham Park,Royal Ave 2,No. 4,Hugh Du Toit,Lachie Scott,Hugh Du Toit,6-0,6,0,1,0,Completed,true,false,true
+UA003121,22 May 22,12,Hurlingham Park,Elsternwick Park,No. 1,Noah Mies,Joe Barr,Noah Mies,7-5,7,5,1,0,Completed,true,false,false
+UA003121,22 May 22,12,Hurlingham Park,Elsternwick Park,No. 2,Luka Thurlow,Bayden Pritchard,Luka Thurlow,6-1,6,1,1,0,Completed,true,false,false
+UA003121,22 May 22,12,Hurlingham Park,Elsternwick Park,No. 3,Hugh Du Toit,Vincent Fiorello,Hugh Du Toit,6-1,6,1,1,0,Completed,true,false,false
+UA003121,22 May 22,12,Hurlingham Park,Elsternwick Park,No. 4,Albert MacGowan,Zac Waterston,Zac Waterston,1-6,1,6,0,1,Completed,true,false,false
+UA003122,22 May 22,12,Kooyong,Highett,No. 1,Josie Best,Ethan Badcock,Ethan Badcock,0-6,0,6,0,1,Completed,true,false,false
+UA003122,22 May 22,12,Kooyong,Highett,No. 2,[Unnamed player — TROLS UA003122 home code 2],Angus Sanders,Angus Sanders,0-6,0,6,0,1,Completed,false,false,false
+UA003122,22 May 22,12,Kooyong,Highett,No. 3,Caroline Marcel,Chloe Miller,Chloe Miller,3-6,3,6,0,1,Completed,true,false,false
+UA003122,22 May 22,12,Kooyong,Highett,No. 4,Will Dawkins,Maksi Kaurin,Maksi Kaurin,4-6,4,6,0,1,Completed,true,false,false
+UA003123,22 May 22,12,Royal Ave 2,Beaumaris CC,No. 1,Leo Wang,Jamie Turner,Jamie Turner,3-6,3,6,0,1,Completed,true,false,false
+UA003123,22 May 22,12,Royal Ave 2,Beaumaris CC,No. 2,Elliott Tay,Xavier Carter,Xavier Carter,1-6,1,6,0,1,Completed,true,false,false
+UA003123,22 May 22,12,Royal Ave 2,Beaumaris CC,No. 3,Toby Brett,Cammie Shannon,Cammie Shannon,2-6,2,6,0,1,Completed,true,false,false
+UA003123,22 May 22,12,Royal Ave 2,Beaumaris CC,No. 4,Sanjeeva Attygale,Eliza Anderson,Eliza Anderson,0-6,0,6,0,1,Completed,true,true,false
+UA003124,22 May 22,12,Mordialloc,Royal Ave 1,No. 1,Hamish Roberts,Oliver Letham,Oliver Letham,6-7,6,7,0,1,Completed,true,false,false
+UA003124,22 May 22,12,Mordialloc,Royal Ave 1,No. 2,Nicholas Kircher-Wilson,Nick Bolmat,Nicholas Kircher-Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA003124,22 May 22,12,Mordialloc,Royal Ave 1,No. 3,Aariyon Gokhale,Louis McNabney-Stevens,Louis McNabney-Stevens,4-6,4,6,0,1,Completed,true,false,false
+UA003124,22 May 22,12,Mordialloc,Royal Ave 1,No. 4,[Unnamed player — TROLS UA003124 home code 4],Kai Saxon,Kai Saxon,0-6,0,6,0,1,Completed,false,false,false
+UA003131,29 May 22,13,Elsternwick Park,Mordialloc,No. 1,Joe Barr,Hamish Roberts,Hamish Roberts,2-6,2,6,0,1,Completed,true,false,false
+UA003131,29 May 22,13,Elsternwick Park,Mordialloc,No. 2,Vincent Fiorello,Nicholas Kircher-Wilson,Nicholas Kircher-Wilson,0-6,0,6,0,1,Completed,true,false,false
+UA003131,29 May 22,13,Elsternwick Park,Mordialloc,No. 3,Zac Waterston,Aariyon Gokhale,Zac Waterston,6-1,6,1,1,0,Completed,true,false,false
+UA003131,29 May 22,13,Elsternwick Park,Mordialloc,No. 4,Benjamin Ride,Justin Li,Benjamin Ride,6-1,6,1,1,0,Completed,true,true,false
+UA003132,29 May 22,13,Royal Ave 1,Hurlingham Park,No. 1,Oliver Letham,Noah Mies,Noah Mies,2-6,2,6,0,1,Completed,true,false,false
+UA003132,29 May 22,13,Royal Ave 1,Hurlingham Park,No. 2,Anthony Power,Luka Thurlow,Luka Thurlow,1-6,1,6,0,1,Completed,true,false,false
+UA003132,29 May 22,13,Royal Ave 1,Hurlingham Park,No. 3,Nick Bolmat,Hugh Du Toit,Nick Bolmat,7-5,7,5,1,0,Completed,true,false,false
+UA003132,29 May 22,13,Royal Ave 1,Hurlingham Park,No. 4,Tal Zafrin,Dane Gerbic,Dane Gerbic,4-6,4,6,0,1,Completed,true,false,true
+UA003133,29 May 22,13,Beaumaris CC,Kooyong,No. 1,Xavier Carter,Ashton Coster,Ashton Coster,1-6,1,6,0,1,Completed,true,false,false
+UA003133,29 May 22,13,Beaumaris CC,Kooyong,No. 2,Cammie Shannon,Caroline Marcel,Cammie Shannon,6-1,6,1,1,0,Completed,true,false,false
+UA003133,29 May 22,13,Beaumaris CC,Kooyong,No. 3,Kylah Schuwalow,Will Dawkins,Kylah Schuwalow,6-3,6,3,1,0,Completed,true,false,false
+UA003133,29 May 22,13,Beaumaris CC,Kooyong,No. 4,Eliza Anderson,Nuwan Dodanwela,Nuwan Dodanwela,6-7,6,7,0,1,Completed,true,false,true
+UA003134,29 May 22,13,Highett,Royal Ave 2,No. 1,Ethan Badcock,Leo Wang,Ethan Badcock,6-0,6,0,1,0,Completed,true,false,false
+UA003134,29 May 22,13,Highett,Royal Ave 2,No. 2,Chloe Miller,Elliott Tay,Chloe Miller,6-3,6,3,1,0,Completed,true,false,false
+UA003134,29 May 22,13,Highett,Royal Ave 2,No. 3,Maksi Kaurin,Harrison Moller,Maksi Kaurin,7-5,7,5,1,0,Completed,true,false,false
+UA003134,29 May 22,13,Highett,Royal Ave 2,No. 4,Harry Kidd,Lachie Scott,Harry Kidd,6-0,6,0,1,0,Completed,true,false,true
+UA003302,,16,Highett,Elsternwick Park,No. 1,Ethan Badcock,Joe Barr,Joe Barr,4-6,4,6,0,1,Completed,true,false,false
+UA003302,,16,Highett,Elsternwick Park,No. 2,Angus Sanders,Bayden Pritchard,Angus Sanders,6-3,6,3,1,0,Completed,true,false,false
+UA003302,,16,Highett,Elsternwick Park,No. 3,Chloe Miller,Vincent Fiorello,Vincent Fiorello,5-7,5,7,0,1,Completed,true,false,false
+UA003302,,16,Highett,Elsternwick Park,No. 4,Maksi Kaurin,Zac Waterston,Zac Waterston,4-6,4,6,0,1,Completed,true,false,false
+UA003321,,17,Hurlingham Park,Highett,No. 1,Kynan Enwright,Ethan Badcock,Kynan Enwright,6-3,6,3,1,0,Completed,true,false,false
+UA003321,,17,Hurlingham Park,Highett,No. 2,Noah Mies,Angus Sanders,Noah Mies,6-3,6,3,1,0,Completed,true,false,false
+UA003321,,17,Hurlingham Park,Highett,No. 3,Luka Thurlow,Chloe Miller,Luka Thurlow,6-1,6,1,1,0,Completed,true,false,false
+UA003321,,17,Hurlingham Park,Highett,No. 4,Hugh Du Toit,Maksi Kaurin,Maksi Kaurin,3-6,3,6,0,1,Completed,true,false,false

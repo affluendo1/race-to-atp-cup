@@ -1,0 +1,172 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA025011,03 Feb 19,1,Kings Park,Glen Eira,No. 1,Aimi Hatigan,Oskar Williams,Oskar Williams,0-6,0,6,0,1,Completed,true,false,false
+UA025011,03 Feb 19,1,Kings Park,Glen Eira,No. 2,Jessica Leigh,Toby Shmuel,Jessica Leigh,6-2,6,2,1,0,Completed,true,false,false
+UA025011,03 Feb 19,1,Kings Park,Glen Eira,No. 3,Josh Wald,Jamie Kurc,Josh Wald,6-3,6,3,1,0,Completed,true,false,false
+UA025012,03 Feb 19,1,Dendy Park,Parkdale,No. 1,Franzi Rehse,Matt Bradley,Franzi Rehse,6-3,6,3,1,0,Completed,true,false,false
+UA025012,03 Feb 19,1,Dendy Park,Parkdale,No. 2,Hendrix Rehse,Flynn Hodgkinson,Flynn Hodgkinson,1-6,1,6,0,1,Completed,true,false,false
+UA025012,03 Feb 19,1,Dendy Park,Parkdale,No. 3,Helen Gu,Rohan Patel,Helen Gu,6-4,6,4,1,0,Completed,true,false,false
+UA025012,03 Feb 19,1,Dendy Park,Parkdale,No. 4,Jack Loiacono,Abi Arculus,Jack Loiacono,6-0,6,0,1,0,Completed,true,false,false
+UA025013,03 Feb 19,1,BLTC,Bentleigh Rec,No. 1,Charlie Rawlings,Nash Lim,Nash Lim,0-6,0,6,0,1,Completed,true,false,false
+UA025013,03 Feb 19,1,BLTC,Bentleigh Rec,No. 2,Remy Pfeiffer,Cameron Lai,Cameron Lai,1-6,1,6,0,1,Completed,true,false,false
+UA025013,03 Feb 19,1,BLTC,Bentleigh Rec,No. 3,Logan Abi,Adam Bigos,Logan Abi,6-0,6,0,1,0,Completed,true,false,false
+UA025013,03 Feb 19,1,BLTC,Bentleigh Rec,No. 4,Henry Thomas,Benjamin Liu,Henry Thomas,6-3,6,3,1,0,Completed,true,false,false
+UA025021,10 Feb 19,2,Bentleigh Rec,Kings Park,No. 1,Nash Lim,Crystal Liuk,Nash Lim,6-1,6,1,1,0,Completed,true,false,false
+UA025021,10 Feb 19,2,Bentleigh Rec,Kings Park,No. 2,Jack Ye,Aimi Hatigan,Aimi Hatigan,0-6,0,6,0,1,Completed,true,false,false
+UA025021,10 Feb 19,2,Bentleigh Rec,Kings Park,No. 3,Benjamin Liu,Jesper Isborn,Jesper Isborn,0-6,0,6,0,1,Completed,true,false,false
+UA025021,10 Feb 19,2,Bentleigh Rec,Kings Park,No. 4,Sam Sabine,Wilson Vollenbroich,Sam Sabine,6-4,6,4,1,0,Completed,true,false,false
+UA025022,10 Feb 19,2,Parkdale,BLTC,No. 1,Matt Bradley,Logan Abi,Logan Abi,2-6,2,6,0,1,Completed,true,false,false
+UA025022,10 Feb 19,2,Parkdale,BLTC,No. 2,Rohan Patel,[Unnamed player — TROLS UA025022 away code 2],Rohan Patel,6-0,6,0,1,0,Completed,false,false,false
+UA025022,10 Feb 19,2,Parkdale,BLTC,No. 3,Cleo McKay,Campbell Orchard,Campbell Orchard,0-6,0,6,0,1,Completed,true,false,false
+UA025022,10 Feb 19,2,Parkdale,BLTC,No. 4,Oscar Lewis,Jasper FitzGerald,Jasper FitzGerald,4-6,4,6,0,1,Completed,true,false,false
+UA025023,10 Feb 19,2,Glen Eira,Dendy Park,No. 1,Oskar Williams,Franzi Rehse,Franzi Rehse,2-6,2,6,0,1,Completed,true,false,false
+UA025023,10 Feb 19,2,Glen Eira,Dendy Park,No. 2,Toby Shmuel,Hendrix Rehse,Toby Shmuel,6-1,6,1,1,0,Completed,true,false,false
+UA025023,10 Feb 19,2,Glen Eira,Dendy Park,No. 3,Josh Spiegel,Helen Gu,Josh Spiegel,7-6,7,6,1,0,Completed,true,false,false
+UA025023,10 Feb 19,2,Glen Eira,Dendy Park,No. 4,Eli Boymal,Jack Loiacono,Jack Loiacono,2-6,2,6,0,1,Completed,true,false,false
+UA025031,17 Feb 19,3,Kings Park,Dendy Park,No. 1,Aimi Hatigan,Franzi Rehse,Franzi Rehse,1-6,1,6,0,1,Completed,true,false,false
+UA025031,17 Feb 19,3,Kings Park,Dendy Park,No. 2,Josh Wald,Hendrix Rehse,Josh Wald,6-1,6,1,1,0,Completed,true,false,false
+UA025031,17 Feb 19,3,Kings Park,Dendy Park,No. 3,Jessica Leigh,Helen Gu,Helen Gu,2-6,2,6,0,1,Completed,true,false,false
+UA025031,17 Feb 19,3,Kings Park,Dendy Park,No. 4,Jesper Isborn,Jack Loiacono,Jack Loiacono,1-6,1,6,0,1,Completed,true,false,false
+UA025032,17 Feb 19,3,BLTC,Glen Eira,No. 1,Charlie Rawlings,Luc Siegel,Charlie Rawlings,7-5,7,5,1,0,Completed,true,false,false
+UA025032,17 Feb 19,3,BLTC,Glen Eira,No. 2,Remy Pfeiffer,Jamie Kurc,Jamie Kurc,2-6,2,6,0,1,Completed,true,false,false
+UA025032,17 Feb 19,3,BLTC,Glen Eira,No. 3,Campbell Orchard,Josh Spiegel,Campbell Orchard,6-0,6,0,1,0,Completed,true,false,false
+UA025032,17 Feb 19,3,BLTC,Glen Eira,No. 4,Jasper FitzGerald,Eli Boymal,Jasper FitzGerald,6-2,6,2,1,0,Completed,true,false,false
+UA025033,17 Feb 19,3,Bentleigh Rec,Parkdale,No. 1,Nash Lim,Flynn Hodgkinson,Nash Lim,6-2,6,2,1,0,Completed,true,false,false
+UA025033,17 Feb 19,3,Bentleigh Rec,Parkdale,No. 2,Cameron Lai,Cleo McKay,Cameron Lai,6-3,6,3,1,0,Completed,true,false,false
+UA025033,17 Feb 19,3,Bentleigh Rec,Parkdale,No. 3,Adam Bigos,Abi Arculus,Adam Bigos,6-0,6,0,1,0,Completed,true,false,false
+UA025033,17 Feb 19,3,Bentleigh Rec,Parkdale,No. 4,Benjamin Liu,Ilinca Di Siciu,Benjamin Liu,6-3,6,3,1,0,Completed,true,false,false
+UA025041,24 Feb 19,4,Parkdale,Kings Park,No. 1,Matt Bradley,Crystal Liuk,Crystal Liuk,4-6,4,6,0,1,Completed,true,false,false
+UA025041,24 Feb 19,4,Parkdale,Kings Park,No. 2,Rohan Patel,Aimi Hatigan,Aimi Hatigan,0-6,0,6,0,1,Completed,true,false,false
+UA025041,24 Feb 19,4,Parkdale,Kings Park,No. 3,Cleo McKay,Josh Wald,Josh Wald,5-7,5,7,0,1,Completed,true,false,false
+UA025041,24 Feb 19,4,Parkdale,Kings Park,No. 4,Oscar Lewis,Jessica Leigh,Jessica Leigh,2-6,2,6,0,1,Completed,true,false,false
+UA025042,24 Feb 19,4,Glen Eira,Bentleigh Rec,No. 1,Oskar Williams,Nash Lim,Nash Lim,2-6,2,6,0,1,Completed,true,false,false
+UA025042,24 Feb 19,4,Glen Eira,Bentleigh Rec,No. 2,Toby Shmuel,Cameron Lai,Cameron Lai,3-6,3,6,0,1,Completed,true,false,false
+UA025042,24 Feb 19,4,Glen Eira,Bentleigh Rec,No. 3,Jamie Kurc,Jack Ye,Jamie Kurc,6-0,6,0,1,0,Completed,true,false,false
+UA025042,24 Feb 19,4,Glen Eira,Bentleigh Rec,No. 4,Luc Siegel,Sam Sabine,Sam Sabine,0-6,0,6,0,1,Completed,true,false,false
+UA025043,24 Feb 19,4,Dendy Park,BLTC,No. 1,Franzi Rehse,Charlie Rawlings,Franzi Rehse,6-0,6,0,1,0,Completed,true,false,false
+UA025043,24 Feb 19,4,Dendy Park,BLTC,No. 2,Hendrix Rehse,Remy Pfeiffer,Remy Pfeiffer,1-6,1,6,0,1,Completed,true,false,false
+UA025043,24 Feb 19,4,Dendy Park,BLTC,No. 3,Helen Gu,Logan Abi,Logan Abi,2-6,2,6,0,1,Completed,true,false,false
+UA025043,24 Feb 19,4,Dendy Park,BLTC,No. 4,Jack Loiacono,Jasper FitzGerald,Jack Loiacono,6-0,6,0,1,0,Completed,true,false,false
+UA025051,03 Mar 19,5,Kings Park,BLTC,No. 1,Crystal Liuk,Remy Pfeiffer,Remy Pfeiffer,2-6,2,6,0,1,Completed,true,false,false
+UA025051,03 Mar 19,5,Kings Park,BLTC,No. 2,Aimi Hatigan,Logan Abi,Aimi Hatigan,6-4,6,4,1,0,Completed,true,false,false
+UA025051,03 Mar 19,5,Kings Park,BLTC,No. 3,Josh Wald,Campbell Orchard,Campbell Orchard,1-6,1,6,0,1,Completed,true,false,false
+UA025051,03 Mar 19,5,Kings Park,BLTC,No. 4,Jesper Isborn,Jasper FitzGerald,Jesper Isborn,6-1,6,1,1,0,Completed,true,false,false
+UA025052,03 Mar 19,5,Parkdale,Glen Eira,No. 1,Flynn Hodgkinson,Oskar Williams,Flynn Hodgkinson,6-2,6,2,1,0,Completed,true,false,false
+UA025052,03 Mar 19,5,Parkdale,Glen Eira,No. 2,Abi Arculus,Toby Shmuel,Toby Shmuel,2-6,2,6,0,1,Completed,true,false,false
+UA025052,03 Mar 19,5,Parkdale,Glen Eira,No. 3,Rohan Patel,Luc Siegel,Luc Siegel,2-6,2,6,0,1,Completed,true,false,false
+UA025052,03 Mar 19,5,Parkdale,Glen Eira,No. 4,Ilinca Di Siciu,Jamie Kurc,Jamie Kurc,2-6,2,6,0,1,Completed,true,false,false
+UA025053,03 Mar 19,5,Bentleigh Rec,Dendy Park,No. 1,Nash Lim,Franzi Rehse,Nash Lim,7-6,7,6,1,0,Completed,true,false,false
+UA025053,03 Mar 19,5,Bentleigh Rec,Dendy Park,No. 2,Cameron Lai,Hendrix Rehse,Cameron Lai,6-0,6,0,1,0,Completed,true,false,false
+UA025053,03 Mar 19,5,Bentleigh Rec,Dendy Park,No. 3,Adam Bigos,Jack Loiacono,Jack Loiacono,0-6,0,6,0,1,Completed,true,false,false
+UA025053,03 Mar 19,5,Bentleigh Rec,Dendy Park,No. 4,Benjamin Liu,Helen Gu,Benjamin Liu,6-0,6,0,1,0,Completed,true,false,false
+UA025061,17 Mar 19,6,Glen Eira,Kings Park,No. 1,Oskar Williams,Crystal Liuk,Oskar Williams,6-0,6,0,1,0,Completed,true,false,false
+UA025061,17 Mar 19,6,Glen Eira,Kings Park,No. 2,Toby Shmuel,[Unnamed player — TROLS UA025061 away code 2],Toby Shmuel,6-0,6,0,1,0,Completed,false,false,false
+UA025061,17 Mar 19,6,Glen Eira,Kings Park,No. 3,Jamie Kurc,Jessica Leigh,Jamie Kurc,6-0,6,0,1,0,Completed,true,false,false
+UA025061,17 Mar 19,6,Glen Eira,Kings Park,No. 4,Eli Boymal,Jesper Isborn,Eli Boymal,6-0,6,0,1,0,Completed,true,false,false
+UA025062,17 Mar 19,6,Parkdale,Dendy Park,No. 1,Matt Bradley,Franzi Rehse,Franzi Rehse,4-6,4,6,0,1,Completed,true,false,false
+UA025062,17 Mar 19,6,Parkdale,Dendy Park,No. 2,Rohan Patel,Jack Loiacono,Jack Loiacono,1-6,1,6,0,1,Completed,true,false,false
+UA025062,17 Mar 19,6,Parkdale,Dendy Park,No. 3,Cleo McKay,Helen Gu,Helen Gu,3-6,3,6,0,1,Completed,true,false,false
+UA025062,17 Mar 19,6,Parkdale,Dendy Park,No. 4,Ilinca Di Siciu,Finley Roberts,Finley Roberts,2-6,2,6,0,1,Completed,true,false,false
+UA025063,17 Mar 19,6,Bentleigh Rec,BLTC,No. 1,Nash Lim,Campbell Orchard,Campbell Orchard,5-7,5,7,0,1,Completed,true,false,false
+UA025063,17 Mar 19,6,Bentleigh Rec,BLTC,No. 2,Jack Ye,Charlie Rawlings,Charlie Rawlings,2-6,2,6,0,1,Completed,true,false,false
+UA025063,17 Mar 19,6,Bentleigh Rec,BLTC,No. 3,Adam Bigos,Remy Pfeiffer,Remy Pfeiffer,2-6,2,6,0,1,Completed,true,false,false
+UA025063,17 Mar 19,6,Bentleigh Rec,BLTC,No. 4,Benjamin Liu,Logan Abi,Logan Abi,1-6,1,6,0,1,Completed,true,false,false
+UA025071,24 Mar 19,7,Kings Park,Bentleigh Rec,No. 1,Crystal Liuk,Nash Lim,Nash Lim,0-6,0,6,0,1,Completed,true,false,false
+UA025071,24 Mar 19,7,Kings Park,Bentleigh Rec,No. 2,Josh Wald,Cameron Lai,Josh Wald,7-6,7,6,1,0,Completed,true,false,false
+UA025071,24 Mar 19,7,Kings Park,Bentleigh Rec,No. 3,Jessica Leigh,Jack Ye,Jessica Leigh,6-3,6,3,1,0,Completed,true,false,false
+UA025071,24 Mar 19,7,Kings Park,Bentleigh Rec,No. 4,Jesper Isborn,Benjamin Liu,Jesper Isborn,6-0,6,0,1,0,Completed,true,false,false
+UA025072,24 Mar 19,7,BLTC,Parkdale,No. 1,Charlie Rawlings,Flynn Hodgkinson,Charlie Rawlings,6-3,6,3,1,0,Completed,true,false,false
+UA025072,24 Mar 19,7,BLTC,Parkdale,No. 2,Remy Pfeiffer,Abi Arculus,Remy Pfeiffer,7-5,7,5,1,0,Completed,true,false,false
+UA025072,24 Mar 19,7,BLTC,Parkdale,No. 3,Logan Abi,Cleo McKay,Logan Abi,6-1,6,1,1,0,Completed,true,false,false
+UA025072,24 Mar 19,7,BLTC,Parkdale,No. 4,Jasper FitzGerald,Oscar Lewis,Jasper FitzGerald,6-2,6,2,1,0,Completed,true,false,false
+UA025073,24 Mar 19,7,Dendy Park,Glen Eira,No. 1,Franzi Rehse,Jamie Kurc,Franzi Rehse,7-5,7,5,1,0,Completed,true,false,false
+UA025073,24 Mar 19,7,Dendy Park,Glen Eira,No. 2,Jack Loiacono,Luc Siegel,Jack Loiacono,6-0,6,0,1,0,Completed,true,false,false
+UA025073,24 Mar 19,7,Dendy Park,Glen Eira,No. 3,Helen Gu,Oskar Williams,Helen Gu,6-0,6,0,1,0,Completed,true,false,false
+UA025073,24 Mar 19,7,Dendy Park,Glen Eira,No. 4,Finley Roberts,Eli Boymal,Finley Roberts,7-6,7,6,1,0,Completed,true,false,false
+UA025082,31 Mar 19,8,Glen Eira,BLTC,No. 1,Toby Shmuel,Campbell Orchard,Campbell Orchard,0-6,0,6,0,1,Completed,true,false,false
+UA025082,31 Mar 19,8,Glen Eira,BLTC,No. 2,Luc Siegel,Remy Pfeiffer,Luc Siegel,6-4,6,4,1,0,Completed,true,false,false
+UA025082,31 Mar 19,8,Glen Eira,BLTC,No. 3,Jamie Kurc,Logan Abi,Logan Abi,0-6,0,6,0,1,Completed,true,false,false
+UA025082,31 Mar 19,8,Glen Eira,BLTC,No. 4,Eli Boymal,Jasper FitzGerald,Jasper FitzGerald,3-6,3,6,0,1,Completed,true,false,false
+UA025083,31 Mar 19,8,Parkdale,Bentleigh Rec,No. 1,Matt Bradley,Nash Lim,Nash Lim,0-6,0,6,0,1,Completed,true,false,false
+UA025083,31 Mar 19,8,Parkdale,Bentleigh Rec,No. 2,Flynn Hodgkinson,Cameron Lai,Cameron Lai,4-6,4,6,0,1,Completed,true,false,false
+UA025083,31 Mar 19,8,Parkdale,Bentleigh Rec,No. 3,Rohan Patel,Jack Ye,Rohan Patel,7-6,7,6,1,0,Completed,true,false,false
+UA025083,31 Mar 19,8,Parkdale,Bentleigh Rec,No. 4,Ilinca Di Siciu,Benjamin Liu,Ilinca Di Siciu,7-6,7,6,1,0,Completed,true,false,false
+UA025091,28 Apr 19,9,Kings Park,Parkdale,No. 1,Crystal Liuk,Rohan Patel,Crystal Liuk,6-4,6,4,1,0,Completed,true,false,false
+UA025091,28 Apr 19,9,Kings Park,Parkdale,No. 2,Aimi Hatigan,Cleo McKay,Aimi Hatigan,6-1,6,1,1,0,Completed,true,false,false
+UA025091,28 Apr 19,9,Kings Park,Parkdale,No. 3,Josh Wald,Matt Bradley,Josh Wald,6-0,6,0,1,0,Completed,true,false,false
+UA025091,28 Apr 19,9,Kings Park,Parkdale,No. 4,Jesper Isborn,Oscar Lewis,Jesper Isborn,6-1,6,1,1,0,Completed,true,false,false
+UA025092,28 Apr 19,9,Bentleigh Rec,Glen Eira,No. 1,Nash Lim,Oskar Williams,Nash Lim,6-3,6,3,1,0,Completed,true,false,false
+UA025092,28 Apr 19,9,Bentleigh Rec,Glen Eira,No. 2,Cameron Lai,Toby Shmuel,Cameron Lai,6-2,6,2,1,0,Completed,true,false,false
+UA025092,28 Apr 19,9,Bentleigh Rec,Glen Eira,No. 3,Adam Bigos,Luc Siegel,Luc Siegel,1-6,1,6,0,1,Completed,true,false,false
+UA025092,28 Apr 19,9,Bentleigh Rec,Glen Eira,No. 4,Benjamin Liu,Josh Spiegel,Benjamin Liu,6-4,6,4,1,0,Completed,true,false,false
+UA025093,28 Apr 19,9,BLTC,Dendy Park,No. 1,Campbell Orchard,Franzi Rehse,Campbell Orchard,6-4,6,4,1,0,Completed,true,false,false
+UA025093,28 Apr 19,9,BLTC,Dendy Park,No. 2,Remy Pfeiffer,Jack Loiacono,Jack Loiacono,0-6,0,6,0,1,Completed,true,false,false
+UA025093,28 Apr 19,9,BLTC,Dendy Park,No. 3,Jasper FitzGerald,Hendrix Rehse,Jasper FitzGerald,6-1,6,1,1,0,Completed,true,false,false
+UA025093,28 Apr 19,9,BLTC,Dendy Park,No. 4,Logan Abi,Finley Roberts,Finley Roberts,0-6,0,6,0,1,Completed,true,false,false
+UA025101,05 May 19,10,BLTC,Kings Park,No. 1,Campbell Orchard,Aimi Hatigan,Campbell Orchard,6-4,6,4,1,0,Completed,true,false,false
+UA025101,05 May 19,10,BLTC,Kings Park,No. 2,Remy Pfeiffer,Josh Wald,Remy Pfeiffer,6-2,6,2,1,0,Completed,true,false,false
+UA025101,05 May 19,10,BLTC,Kings Park,No. 3,Logan Abi,Jessica Leigh,Logan Abi,6-2,6,2,1,0,Completed,true,false,false
+UA025101,05 May 19,10,BLTC,Kings Park,No. 4,Jasper FitzGerald,Jesper Isborn,Jasper FitzGerald,6-3,6,3,1,0,Completed,true,false,false
+UA025102,05 May 19,10,Glen Eira,Parkdale,No. 1,Oskar Williams,Matt Bradley,Oskar Williams,7-5,7,5,1,0,Completed,true,false,false
+UA025102,05 May 19,10,Glen Eira,Parkdale,No. 2,Jamie Kurc,Flynn Hodgkinson,Jamie Kurc,6-2,6,2,1,0,Completed,true,false,false
+UA025102,05 May 19,10,Glen Eira,Parkdale,No. 3,Josh Spiegel,Abi Arculus,Josh Spiegel,6-1,6,1,1,0,Completed,true,false,false
+UA025102,05 May 19,10,Glen Eira,Parkdale,No. 4,Eli Boymal,Ilinca Di Siciu,Ilinca Di Siciu,3-6,3,6,0,1,Completed,true,false,false
+UA025103,05 May 19,10,Dendy Park,Bentleigh Rec,No. 1,[Unnamed player — TROLS UA025103 home code 1],Nash Lim,Nash Lim,0-6,0,6,0,1,Completed,false,false,false
+UA025103,05 May 19,10,Dendy Park,Bentleigh Rec,No. 2,Sebastian Maddams,Jack Ye,Sebastian Maddams,6-1,6,1,1,0,Completed,true,false,false
+UA025103,05 May 19,10,Dendy Park,Bentleigh Rec,No. 3,Helen Gu,Adam Bigos,Helen Gu,7-5,7,5,1,0,Completed,true,false,false
+UA025103,05 May 19,10,Dendy Park,Bentleigh Rec,No. 4,Hendrix Rehse,Benjamin Liu,Hendrix Rehse,6-4,6,4,1,0,Completed,true,false,false
+UA025112,12 May 19,11,Dendy Park,Parkdale,No. 1,Franzi Rehse,Matt Bradley,Franzi Rehse,6-0,6,0,1,0,Completed,true,false,false
+UA025112,12 May 19,11,Dendy Park,Parkdale,No. 2,Jack Loiacono,Rohan Patel,Jack Loiacono,6-0,6,0,1,0,Completed,true,false,false
+UA025112,12 May 19,11,Dendy Park,Parkdale,No. 3,Hendrix Rehse,Cleo McKay,Hendrix Rehse,6-2,6,2,1,0,Completed,true,false,false
+UA025112,12 May 19,11,Dendy Park,Parkdale,No. 4,Finley Roberts,Oscar Lewis,Finley Roberts,6-1,6,1,1,0,Completed,true,false,false
+UA025113,12 May 19,11,BLTC,Bentleigh Rec,No. 1,Campbell Orchard,Nash Lim,Campbell Orchard,6-3,6,3,1,0,Completed,true,false,false
+UA025113,12 May 19,11,BLTC,Bentleigh Rec,No. 2,Remy Pfeiffer,Jack Ye,Remy Pfeiffer,6-2,6,2,1,0,Completed,true,false,false
+UA025113,12 May 19,11,BLTC,Bentleigh Rec,No. 3,Logan Abi,Adam Bigos,Logan Abi,6-0,6,0,1,0,Completed,true,false,false
+UA025113,12 May 19,11,BLTC,Bentleigh Rec,No. 4,Hayley Taylor,Benjamin Liu,Benjamin Liu,6-7,6,7,0,1,Completed,true,false,false
+UA025121,19 May 19,12,Bentleigh Rec,Kings Park,No. 1,Cameron Lai,Crystal Liuk,Cameron Lai,6-1,6,1,1,0,Completed,true,false,false
+UA025121,19 May 19,12,Bentleigh Rec,Kings Park,No. 2,Jack Ye,Jessica Leigh,Jessica Leigh,1-6,1,6,0,1,Completed,true,false,false
+UA025121,19 May 19,12,Bentleigh Rec,Kings Park,No. 3,Adam Bigos,Jesper Isborn,Jesper Isborn,1-6,1,6,0,1,Completed,true,false,false
+UA025121,19 May 19,12,Bentleigh Rec,Kings Park,No. 4,Benjamin Liu,Lillie Isborn,Benjamin Liu,6-2,6,2,1,0,Completed,true,false,false
+UA025122,19 May 19,12,Parkdale,BLTC,No. 1,Flynn Hodgkinson,Lucas Hansen,Lucas Hansen,1-6,1,6,0,1,Completed,true,false,false
+UA025122,19 May 19,12,Parkdale,BLTC,No. 2,Rohan Patel,Remy Pfeiffer,Remy Pfeiffer,4-6,4,6,0,1,Completed,true,false,false
+UA025122,19 May 19,12,Parkdale,BLTC,No. 3,Abi Arculus,Logan Abi,Logan Abi,0-6,0,6,0,1,Completed,true,false,false
+UA025122,19 May 19,12,Parkdale,BLTC,No. 4,Ilinca Di Siciu,Hayley Taylor,Ilinca Di Siciu,6-0,6,0,1,0,Completed,true,false,false
+UA025123,19 May 19,12,Glen Eira,Dendy Park,No. 1,Josh Spiegel,Franzi Rehse,Franzi Rehse,5-7,5,7,0,1,Completed,true,false,false
+UA025123,19 May 19,12,Glen Eira,Dendy Park,No. 2,[Unnamed player — TROLS UA025123 home code 2],Jack Loiacono,Jack Loiacono,0-6,0,6,0,1,Completed,false,false,false
+UA025123,19 May 19,12,Glen Eira,Dendy Park,No. 3,Oskar Williams,Hendrix Rehse,Hendrix Rehse,0-6,0,6,0,1,Completed,true,false,false
+UA025123,19 May 19,12,Glen Eira,Dendy Park,No. 4,Toby Shmuel,Finley Roberts,Finley Roberts,3-6,3,6,0,1,Completed,true,false,false
+UA025131,26 May 19,13,Kings Park,Dendy Park,No. 1,Aimi Hatigan,Franzi Rehse,Aimi Hatigan,6-2,6,2,1,0,Completed,true,false,false
+UA025131,26 May 19,13,Kings Park,Dendy Park,No. 2,Josh Wald,Jack Loiacono,Jack Loiacono,0-6,0,6,0,1,Completed,true,false,false
+UA025131,26 May 19,13,Kings Park,Dendy Park,No. 3,Jessica Leigh,Helen Gu,Helen Gu,4-6,4,6,0,1,Completed,true,false,false
+UA025131,26 May 19,13,Kings Park,Dendy Park,No. 4,Jesper Isborn,Hendrix Rehse,Jesper Isborn,6-3,6,3,1,0,Completed,true,false,false
+UA025132,26 May 19,13,BLTC,Glen Eira,No. 1,Campbell Orchard,Toby Shmuel,Campbell Orchard,6-0,6,0,1,0,Completed,true,false,false
+UA025132,26 May 19,13,BLTC,Glen Eira,No. 2,Will Peterson,Jamie Kurc,Will Peterson,6-1,6,1,1,0,Completed,true,false,false
+UA025132,26 May 19,13,BLTC,Glen Eira,No. 3,Logan Abi,Josh Spiegel,Josh Spiegel,3-6,3,6,0,1,Completed,true,false,false
+UA025132,26 May 19,13,BLTC,Glen Eira,No. 4,[Unnamed player — TROLS UA025132 home code 4],Luc Siegel,Luc Siegel,0-6,0,6,0,1,Completed,false,false,false
+UA025133,26 May 19,13,Bentleigh Rec,Parkdale,No. 1,Nash Lim,Matt Bradley,Nash Lim,6-0,6,0,1,0,Completed,true,false,false
+UA025133,26 May 19,13,Bentleigh Rec,Parkdale,No. 2,Cameron Lai,Flynn Hodgkinson,Cameron Lai,6-4,6,4,1,0,Completed,true,false,false
+UA025133,26 May 19,13,Bentleigh Rec,Parkdale,No. 3,Jack Ye,Cleo McKay,Cleo McKay,2-6,2,6,0,1,Completed,true,false,false
+UA025133,26 May 19,13,Bentleigh Rec,Parkdale,No. 4,Benjamin Liu,Oscar Lewis,Benjamin Liu,6-1,6,1,1,0,Completed,true,false,false
+UA025141,02 Jun 19,14,Parkdale,Kings Park,No. 1,Matt Bradley,Crystal Liuk,Matt Bradley,6-2,6,2,1,0,Completed,true,false,false
+UA025141,02 Jun 19,14,Parkdale,Kings Park,No. 2,Ilinca Di Siciu,Aimi Hatigan,Aimi Hatigan,1-6,1,6,0,1,Completed,true,false,false
+UA025141,02 Jun 19,14,Parkdale,Kings Park,No. 3,Rohan Patel,Josh Wald,Josh Wald,1-6,1,6,0,1,Completed,true,false,false
+UA025141,02 Jun 19,14,Parkdale,Kings Park,No. 4,Abi Arculus,Jessica Leigh,Jessica Leigh,0-6,0,6,0,1,Completed,true,false,false
+UA025142,02 Jun 19,14,Glen Eira,Bentleigh Rec,No. 1,Oskar Williams,Cameron Lai,Cameron Lai,5-7,5,7,0,1,Completed,true,false,false
+UA025142,02 Jun 19,14,Glen Eira,Bentleigh Rec,No. 2,Toby Shmuel,Sam Sabine,Toby Shmuel,6-0,6,0,1,0,Completed,true,false,false
+UA025142,02 Jun 19,14,Glen Eira,Bentleigh Rec,No. 3,Luc Siegel,Adam Bigos,Luc Siegel,6-2,6,2,1,0,Completed,true,false,false
+UA025142,02 Jun 19,14,Glen Eira,Bentleigh Rec,No. 4,Josh Spiegel,Benjamin Liu,Josh Spiegel,6-0,6,0,1,0,Completed,true,false,false
+UA025143,02 Jun 19,14,Dendy Park,BLTC,No. 1,Franzi Rehse,Will Peterson,Franzi Rehse,6-4,6,4,1,0,Completed,true,false,false
+UA025143,02 Jun 19,14,Dendy Park,BLTC,No. 2,Jack Loiacono,Lucas Hansen,Jack Loiacono,6-0,6,0,1,0,Completed,true,false,false
+UA025143,02 Jun 19,14,Dendy Park,BLTC,No. 3,Helen Gu,Remy Pfeiffer,Helen Gu,6-3,6,3,1,0,Completed,true,false,false
+UA025143,02 Jun 19,14,Dendy Park,BLTC,No. 4,Finley Roberts,Logan Abi,Logan Abi,4-6,4,6,0,1,Completed,true,false,false
+UA025151,16 Jun 19,15,Kings Park,BLTC,No. 1,Crystal Liuk,Campbell Orchard,Campbell Orchard,0-6,0,6,0,1,Completed,true,false,false
+UA025151,16 Jun 19,15,Kings Park,BLTC,No. 2,Aimi Hatigan,Remy Pfeiffer,Aimi Hatigan,6-4,6,4,1,0,Completed,true,false,false
+UA025151,16 Jun 19,15,Kings Park,BLTC,No. 3,Jessica Leigh,Logan Abi,Logan Abi,1-6,1,6,0,1,Completed,true,false,false
+UA025151,16 Jun 19,15,Kings Park,BLTC,No. 4,Jesper Isborn,[Unnamed player — TROLS UA025151 away code 4],Jesper Isborn,6-0,6,0,1,0,Completed,false,false,false
+UA025153,16 Jun 19,15,Bentleigh Rec,Dendy Park,No. 1,Nash Lim,Franzi Rehse,Nash Lim,6-3,6,3,1,0,Completed,true,false,false
+UA025153,16 Jun 19,15,Bentleigh Rec,Dendy Park,No. 2,Cameron Lai,Jack Loiacono,Jack Loiacono,1-6,1,6,0,1,Completed,true,false,false
+UA025153,16 Jun 19,15,Bentleigh Rec,Dendy Park,No. 3,Jack Ye,Hendrix Rehse,Hendrix Rehse,4-6,4,6,0,1,Completed,true,false,false
+UA025153,16 Jun 19,15,Bentleigh Rec,Dendy Park,No. 4,Benjamin Liu,Finley Roberts,Finley Roberts,0-6,0,6,0,1,Completed,true,false,false
+UA025321,,16,Dendy Park,BLTC,No. 1,Franzi Rehse,Campbell Orchard,Campbell Orchard,0-6,0,6,0,1,Completed,true,false,false
+UA025321,,16,Dendy Park,BLTC,No. 2,Jack Loiacono,Charlie Rawlings,Jack Loiacono,6-0,6,0,1,0,Completed,true,false,false
+UA025321,,16,Dendy Park,BLTC,No. 3,Hendrix Rehse,Logan Abi,Logan Abi,1-6,1,6,0,1,Completed,true,false,false
+UA025321,,16,Dendy Park,BLTC,No. 4,Finley Roberts,Remy Pfeiffer,Finley Roberts,6-4,6,4,1,0,Completed,true,false,false

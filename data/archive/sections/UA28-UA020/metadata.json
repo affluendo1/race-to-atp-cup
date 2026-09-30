@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA28-UA020",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2021",
+  "season_id": "UA28",
+  "season_label": "Autumn 2021",
+  "source_section_code": "UA020",
+  "section_label": "Section 20",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World",
+      "wins": 9,
+      "points": 95,
+      "percentage": 158.62,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Kings Park 1",
+      "wins": 7,
+      "points": 81,
+      "percentage": 128.68,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Dendy Park",
+      "wins": 6,
+      "points": 76,
+      "percentage": 111.98,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Le Page",
+      "wins": 7,
+      "points": 74,
+      "percentage": 113.6,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kings Park 2",
+      "wins": 4,
+      "points": 58,
+      "percentage": 87.96,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Coatesville",
+      "wins": 3,
+      "points": 49,
+      "percentage": 86.6,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Victory Park",
+      "wins": 2,
+      "points": 44,
+      "percentage": 76.82,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Murrumbeena LA",
+      "wins": 3,
+      "points": 43,
+      "percentage": 66.06,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA28-UA020",
+  "fixtures": 55,
+  "completed_fixtures": 45,
+  "draw_fixtures": 45,
+  "singles_rubbers": 179,
+  "doubles_rubbers": 90,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

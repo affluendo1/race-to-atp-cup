@@ -1,0 +1,221 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA008011,19 Jul 15,1,Mordialloc,Coatesville,No. 1,Sanuj Ruberi,Victoria Kozbonis,Sanuj Ruberi,6-4,6,4,1,0,Completed,true,false,false
+UA008011,19 Jul 15,1,Mordialloc,Coatesville,No. 2,Keisuke Nishimura,Luke Lou,Keisuke Nishimura,6-3,6,3,1,0,Completed,true,false,false
+UA008011,19 Jul 15,1,Mordialloc,Coatesville,No. 3,Ronan Larkin,Ben Traynes,Ben Traynes,2-6,2,6,0,1,Completed,true,false,false
+UA008011,19 Jul 15,1,Mordialloc,Coatesville,No. 4,Sarthak Singh,Connor Misquitta,Connor Misquitta,5-7,5,7,0,1,Completed,true,false,false
+UA008012,19 Jul 15,1,Hampton,Royal Ave,No. 1,Eliza Maginness,Jarrad Ellis,Jarrad Ellis,2-6,2,6,0,1,Completed,true,false,false
+UA008012,19 Jul 15,1,Hampton,Royal Ave,No. 2,Isabell Bytheway,Dennis Gu,Dennis Gu,2-6,2,6,0,1,Completed,true,false,false
+UA008012,19 Jul 15,1,Hampton,Royal Ave,No. 3,Lucy Hagan,Archie Antonopoulos,Archie Antonopoulos,2-6,2,6,0,1,Completed,true,false,false
+UA008012,19 Jul 15,1,Hampton,Royal Ave,No. 4,Samantha Cameron,Riley Mollar,Riley Mollar,1-6,1,6,0,1,Completed,true,false,false
+UA008014,19 Jul 15,1,Parkdale,Maccabi,No. 1,John Paterson,Teagan Slomoi,John Paterson,6-1,6,1,1,0,Completed,true,false,false
+UA008014,19 Jul 15,1,Parkdale,Maccabi,No. 2,Reid Terrell,Edward Lichtig,Reid Terrell,6-2,6,2,1,0,Completed,true,false,false
+UA008014,19 Jul 15,1,Parkdale,Maccabi,No. 3,James Bryan,Adam Gordon,James Bryan,6-3,6,3,1,0,Completed,true,false,false
+UA008014,19 Jul 15,1,Parkdale,Maccabi,No. 4,Josh Nibbs,Nathan Lenga,Josh Nibbs,6-4,6,4,1,0,Completed,true,false,false
+UA008021,26 Jul 15,2,Maccabi,Mordialloc,No. 1,Teagan Slomoi,Sanuj Ruberi,Sanuj Ruberi,4-6,4,6,0,1,Completed,true,false,false
+UA008021,26 Jul 15,2,Maccabi,Mordialloc,No. 2,Aden Minaker,Avinash Nair,Avinash Nair,2-6,2,6,0,1,Completed,true,false,false
+UA008021,26 Jul 15,2,Maccabi,Mordialloc,No. 3,Adam Gordon,Ronan Larkin,Adam Gordon,7-6,7,6,1,0,Completed,true,false,false
+UA008021,26 Jul 15,2,Maccabi,Mordialloc,No. 4,Nathan Lenga,Tarun Ramesh,Nathan Lenga,7-5,7,5,1,0,Completed,true,false,false
+UA008022,26 Jul 15,2,Coatesville,Hampton,No. 1,Luke Lou,Jemma Gray,Luke Lou,6-4,6,4,1,0,Completed,true,false,false
+UA008022,26 Jul 15,2,Coatesville,Hampton,No. 2,Ben Traynes,Eliza Maginness,Ben Traynes,6-4,6,4,1,0,Completed,true,false,false
+UA008022,26 Jul 15,2,Coatesville,Hampton,No. 3,Connor Misquitta,Isabell Bytheway,Connor Misquitta,6-3,6,3,1,0,Completed,true,false,false
+UA008022,26 Jul 15,2,Coatesville,Hampton,No. 4,Brock Augustynski,Meg Jones,Brock Augustynski,6-1,6,1,1,0,Completed,true,false,false
+UA008023,26 Jul 15,2,Royal Ave,Kooyong Scotch,No. 1,Jarrad Ellis,Grace Fountain,Jarrad Ellis,6-1,6,1,1,0,Completed,true,false,false
+UA008023,26 Jul 15,2,Royal Ave,Kooyong Scotch,No. 2,Sam Haddon,Celeste Rayment,Celeste Rayment,0-6,0,6,0,1,Completed,true,false,false
+UA008023,26 Jul 15,2,Royal Ave,Kooyong Scotch,No. 3,Archie Antonopoulos,Bridgette Harwood,Archie Antonopoulos,6-1,6,1,1,0,Completed,true,false,false
+UA008023,26 Jul 15,2,Royal Ave,Kooyong Scotch,No. 4,Josh Chu,Mia Geason,Josh Chu,6-0,6,0,1,0,Completed,true,false,false
+UA008024,26 Jul 15,2,Murrumbeena,Parkdale,No. 1,Wyatt Bicknell,John Paterson,Wyatt Bicknell,6-3,6,3,1,0,Completed,true,false,false
+UA008024,26 Jul 15,2,Murrumbeena,Parkdale,No. 2,Mia Pisano,Reid Terrell,Reid Terrell,1-6,1,6,0,1,Completed,true,false,false
+UA008024,26 Jul 15,2,Murrumbeena,Parkdale,No. 3,Chloe Papas,James Bryan,James Bryan,2-6,2,6,0,1,Completed,true,false,false
+UA008024,26 Jul 15,2,Murrumbeena,Parkdale,No. 4,Harry Holzer,Josh Nibbs,Harry Holzer,7-5,7,5,1,0,Completed,true,false,false
+UA008032,02 Aug 15,3,Hampton,Maccabi,No. 1,Anastasia Naoumidis,Ivan Zulman,Ivan Zulman,1-6,1,6,0,1,Completed,true,false,false
+UA008032,02 Aug 15,3,Hampton,Maccabi,No. 2,Jemma Gray,Edward Lichtig,Jemma Gray,6-4,6,4,1,0,Completed,true,false,false
+UA008032,02 Aug 15,3,Hampton,Maccabi,No. 3,Ry'annah Hack,Aden Minaker,Aden Minaker,4-6,4,6,0,1,Completed,true,false,false
+UA008032,02 Aug 15,3,Hampton,Maccabi,No. 4,Siena Gittus,Nathan Lenga,Nathan Lenga,1-6,1,6,0,1,Completed,true,false,false
+UA008033,02 Aug 15,3,Kooyong Scotch,Coatesville,No. 1,Emily Harvey,Victoria Kozbonis,Victoria Kozbonis,2-6,2,6,0,1,Completed,true,false,false
+UA008033,02 Aug 15,3,Kooyong Scotch,Coatesville,No. 2,Celeste Rayment,Ben Traynes,Celeste Rayment,6-3,6,3,1,0,Completed,true,false,false
+UA008033,02 Aug 15,3,Kooyong Scotch,Coatesville,No. 3,Mia Geason,Connor Misquitta,Mia Geason,6-3,6,3,1,0,Completed,true,false,false
+UA008033,02 Aug 15,3,Kooyong Scotch,Coatesville,No. 4,Greta Wernli,Brock Augustynski,Brock Augustynski,0-6,0,6,0,1,Completed,true,false,false
+UA008034,02 Aug 15,3,Parkdale,Royal Ave,No. 1,Reid Terrell,Jarrad Ellis,Jarrad Ellis,3-6,3,6,0,1,Completed,true,false,false
+UA008034,02 Aug 15,3,Parkdale,Royal Ave,No. 2,James Bryan,Dennis Gu,James Bryan,6-1,6,1,1,0,Completed,true,false,false
+UA008034,02 Aug 15,3,Parkdale,Royal Ave,No. 3,Josh Nibbs,Riley Mollar,Josh Nibbs,6-2,6,2,1,0,Completed,true,false,false
+UA008034,02 Aug 15,3,Parkdale,Royal Ave,No. 4,Matthew Nibbs,Josh Chu,Josh Chu,2-6,2,6,0,1,Completed,true,false,false
+UA008041,09 Aug 15,4,Royal Ave,Mordialloc,No. 1,Sam Haddon,Sanuj Ruberi,Sanuj Ruberi,1-6,1,6,0,1,Completed,true,false,false
+UA008041,09 Aug 15,4,Royal Ave,Mordialloc,No. 2,Dennis Gu,Keisuke Nishimura,Dennis Gu,7-6,7,6,1,0,Completed,true,false,false
+UA008041,09 Aug 15,4,Royal Ave,Mordialloc,No. 3,Archie Antonopoulos,Avinash Nair,Archie Antonopoulos,7-5,7,5,1,0,Completed,true,false,false
+UA008041,09 Aug 15,4,Royal Ave,Mordialloc,No. 4,Riley Mollar,Tarun Ramesh,Riley Mollar,7-5,7,5,1,0,Completed,true,false,false
+UA008042,09 Aug 15,4,Murrumbeena,Hampton,No. 1,Wyatt Bicknell,Jemma Gray,Wyatt Bicknell,6-2,6,2,1,0,Completed,true,false,false
+UA008042,09 Aug 15,4,Murrumbeena,Hampton,No. 2,Mia Pisano,Eliza Maginness,Eliza Maginness,1-6,1,6,0,1,Completed,true,false,false
+UA008042,09 Aug 15,4,Murrumbeena,Hampton,No. 3,Chloe Papas,Isabell Bytheway,Isabell Bytheway,2-6,2,6,0,1,Completed,true,false,false
+UA008042,09 Aug 15,4,Murrumbeena,Hampton,No. 4,Madeiline Serle,Samantha Cameron,Madeiline Serle,6-1,6,1,1,0,Completed,true,false,false
+UA008043,09 Aug 15,4,Maccabi,Kooyong Scotch,No. 1,Ivan Zulman,Grace Fountain,Ivan Zulman,6-2,6,2,1,0,Completed,true,false,false
+UA008043,09 Aug 15,4,Maccabi,Kooyong Scotch,No. 2,Aden Minaker,Emily Harvey,Emily Harvey,0-6,0,6,0,1,Completed,true,false,false
+UA008043,09 Aug 15,4,Maccabi,Kooyong Scotch,No. 3,Nathan Lenga,Mia Geason,Nathan Lenga,6-3,6,3,1,0,Completed,true,false,false
+UA008043,09 Aug 15,4,Maccabi,Kooyong Scotch,No. 4,Jack Davis,Greta Wernli,Greta Wernli,0-6,0,6,0,1,Completed,true,false,false
+UA008044,09 Aug 15,4,Coatesville,Parkdale,No. 1,Victoria Kozbonis,John Paterson,Victoria Kozbonis,6-1,6,1,1,0,Completed,true,false,false
+UA008044,09 Aug 15,4,Coatesville,Parkdale,No. 2,Ben Traynes,Reid Terrell,Ben Traynes,6-3,6,3,1,0,Completed,true,false,false
+UA008044,09 Aug 15,4,Coatesville,Parkdale,No. 3,Connor Misquitta,James Bryan,James Bryan,5-7,5,7,0,1,Completed,true,false,false
+UA008044,09 Aug 15,4,Coatesville,Parkdale,No. 4,Brock Augustynski,Josh Nibbs,Josh Nibbs,1-6,1,6,0,1,Completed,true,false,false
+UA008051,16 Aug 15,5,Kooyong Scotch,Parkdale,No. 1,Grace Fountain,Reid Terrell,Grace Fountain,6-1,6,1,1,0,Completed,true,false,false
+UA008051,16 Aug 15,5,Kooyong Scotch,Parkdale,No. 2,Emily Harvey,James Bryan,James Bryan,2-6,2,6,0,1,Completed,true,false,false
+UA008051,16 Aug 15,5,Kooyong Scotch,Parkdale,No. 3,Celeste Rayment,Josh Nibbs,Celeste Rayment,6-3,6,3,1,0,Completed,true,false,false
+UA008051,16 Aug 15,5,Kooyong Scotch,Parkdale,No. 4,Bridgette Harwood,Matthew Nibbs,Matthew Nibbs,6-7,6,7,0,1,Completed,true,false,false
+UA008053,16 Aug 15,5,Royal Ave,Coatesville,No. 1,Jarrad Ellis,Victoria Kozbonis,Jarrad Ellis,6-2,6,2,1,0,Completed,true,false,false
+UA008053,16 Aug 15,5,Royal Ave,Coatesville,No. 2,Sam Haddon,Luke Lou,Luke Lou,2-6,2,6,0,1,Completed,true,false,false
+UA008053,16 Aug 15,5,Royal Ave,Coatesville,No. 3,Dennis Gu,Ben Traynes,Ben Traynes,6-7,6,7,0,1,Completed,true,false,false
+UA008053,16 Aug 15,5,Royal Ave,Coatesville,No. 4,Archie Antonopoulos,Brock Augustynski,Archie Antonopoulos,6-1,6,1,1,0,Completed,true,false,false
+UA008061,23 Aug 15,6,Hampton,Kooyong Scotch,No. 1,Jemma Gray,Grace Fountain,Grace Fountain,4-6,4,6,0,1,Completed,true,false,false
+UA008061,23 Aug 15,6,Hampton,Kooyong Scotch,No. 2,Eliza Maginness,Celeste Rayment,Celeste Rayment,2-6,2,6,0,1,Completed,true,false,false
+UA008061,23 Aug 15,6,Hampton,Kooyong Scotch,No. 3,Isabell Bytheway,Bridgette Harwood,Bridgette Harwood,3-6,3,6,0,1,Completed,true,false,false
+UA008061,23 Aug 15,6,Hampton,Kooyong Scotch,No. 4,Samantha Cameron,Greta Wernli,Greta Wernli,6-7,6,7,0,1,Completed,true,false,false
+UA008062,23 Aug 15,6,Parkdale,Mordialloc,No. 1,Reid Terrell,Sanuj Ruberi,Sanuj Ruberi,0-6,0,6,0,1,Completed,true,false,false
+UA008062,23 Aug 15,6,Parkdale,Mordialloc,No. 2,James Bryan,Keisuke Nishimura,James Bryan,6-3,6,3,1,0,Completed,true,false,false
+UA008062,23 Aug 15,6,Parkdale,Mordialloc,No. 3,Josh Nibbs,Tarun Ramesh,Josh Nibbs,6-3,6,3,1,0,Completed,true,false,false
+UA008062,23 Aug 15,6,Parkdale,Mordialloc,No. 4,Matthew Nibbs,Sarthak Singh,Matthew Nibbs,6-2,6,2,1,0,Completed,true,false,false
+UA008063,23 Aug 15,6,Murrumbeena,Royal Ave,No. 1,Wyatt Bicknell,Sam Haddon,Sam Haddon,3-6,3,6,0,1,Completed,true,false,false
+UA008063,23 Aug 15,6,Murrumbeena,Royal Ave,No. 2,Mia Pisano,Archie Antonopoulos,Archie Antonopoulos,2-6,2,6,0,1,Completed,true,false,false
+UA008063,23 Aug 15,6,Murrumbeena,Royal Ave,No. 3,Madeiline Serle,Riley Mollar,Riley Mollar,3-6,3,6,0,1,Completed,true,false,false
+UA008063,23 Aug 15,6,Murrumbeena,Royal Ave,No. 4,Nicola Maltman,Josh Chu,Nicola Maltman,6-3,6,3,1,0,Completed,true,false,false
+UA008064,23 Aug 15,6,Coatesville,Maccabi,No. 1,Victoria Kozbonis,Ivan Zulman,Victoria Kozbonis,6-1,6,1,1,0,Completed,true,false,false
+UA008064,23 Aug 15,6,Coatesville,Maccabi,No. 2,Luke Lou,Aden Minaker,Luke Lou,6-1,6,1,1,0,Completed,true,false,false
+UA008064,23 Aug 15,6,Coatesville,Maccabi,No. 3,Ben Traynes,Nathan Lenga,Ben Traynes,6-2,6,2,1,0,Completed,true,false,false
+UA008064,23 Aug 15,6,Coatesville,Maccabi,No. 4,Connor Misquitta,Jason Slomoi,Jason Slomoi,2-6,2,6,0,1,Completed,true,false,false
+UA008071,30 Aug 15,7,Mordialloc,Kooyong Scotch,No. 1,Keisuke Nishimura,Grace Fountain,Grace Fountain,2-6,2,6,0,1,Completed,true,false,false
+UA008071,30 Aug 15,7,Mordialloc,Kooyong Scotch,No. 2,Avinash Nair,Emily Harvey,Avinash Nair,6-3,6,3,1,0,Completed,true,false,false
+UA008071,30 Aug 15,7,Mordialloc,Kooyong Scotch,No. 3,Tarun Ramesh,Mia Geason,Mia Geason,4-6,4,6,0,1,Completed,true,false,false
+UA008071,30 Aug 15,7,Mordialloc,Kooyong Scotch,No. 4,Sarthak Singh,Kajal Balon,Kajal Balon,0-6,0,6,0,1,Completed,true,false,false
+UA008072,30 Aug 15,7,Hampton,Parkdale,No. 1,Jemma Gray,John Paterson,John Paterson,4-6,4,6,0,1,Completed,true,false,false
+UA008072,30 Aug 15,7,Hampton,Parkdale,No. 2,Eliza Maginness,Reid Terrell,Reid Terrell,0-6,0,6,0,1,Completed,true,false,false
+UA008072,30 Aug 15,7,Hampton,Parkdale,No. 3,Isabell Bytheway,James Bryan,James Bryan,3-6,3,6,0,1,Completed,true,false,false
+UA008072,30 Aug 15,7,Hampton,Parkdale,No. 4,Samantha Cameron,Josh Nibbs,Josh Nibbs,2-6,2,6,0,1,Completed,true,false,false
+UA008073,30 Aug 15,7,Maccabi,Royal Ave,No. 1,Edward Lichtig,Jarrad Ellis,Jarrad Ellis,3-6,3,6,0,1,Completed,true,false,false
+UA008073,30 Aug 15,7,Maccabi,Royal Ave,No. 2,Aden Minaker,Sam Haddon,Sam Haddon,1-6,1,6,0,1,Completed,true,false,false
+UA008073,30 Aug 15,7,Maccabi,Royal Ave,No. 3,Adam Gordon,Riley Mollar,Riley Mollar,2-6,2,6,0,1,Completed,true,false,false
+UA008073,30 Aug 15,7,Maccabi,Royal Ave,No. 4,Nathan Lenga,Josh Chu,Josh Chu,5-7,5,7,0,1,Completed,true,false,false
+UA008074,30 Aug 15,7,Murrumbeena,Coatesville,No. 1,Wyatt Bicknell,Luke Lou,Wyatt Bicknell,6-4,6,4,1,0,Completed,true,false,false
+UA008074,30 Aug 15,7,Murrumbeena,Coatesville,No. 2,Chloe Papas,Ben Traynes,Ben Traynes,2-6,2,6,0,1,Completed,true,false,false
+UA008074,30 Aug 15,7,Murrumbeena,Coatesville,No. 3,Madeiline Serle,Connor Misquitta,Connor Misquitta,2-6,2,6,0,1,Completed,true,false,false
+UA008074,30 Aug 15,7,Murrumbeena,Coatesville,No. 4,Nicola Maltman,Brock Augustynski,Brock Augustynski,4-6,4,6,0,1,Completed,true,false,false
+UA008081,06 Sep 15,8,Coatesville,Mordialloc,No. 1,Victoria Kozbonis,Keisuke Nishimura,Victoria Kozbonis,6-1,6,1,1,0,Completed,true,false,false
+UA008081,06 Sep 15,8,Coatesville,Mordialloc,No. 2,Ben Traynes,Avinash Nair,Avinash Nair,4-6,4,6,0,1,Completed,true,false,false
+UA008081,06 Sep 15,8,Coatesville,Mordialloc,No. 3,Connor Misquitta,Ronan Larkin,Connor Misquitta,6-1,6,1,1,0,Completed,true,false,false
+UA008081,06 Sep 15,8,Coatesville,Mordialloc,No. 4,Brock Augustynski,Sarthak Singh,Brock Augustynski,6-2,6,2,1,0,Completed,true,false,false
+UA008082,06 Sep 15,8,Royal Ave,Hampton,No. 1,Jarrad Ellis,[Unnamed player — TROLS UA008082 away code 1],[Unnamed player — TROLS UA008082 away code 1],0-6,0,6,0,1,Completed,false,false,false
+UA008082,06 Sep 15,8,Royal Ave,Hampton,No. 2,Sam Haddon,Jemma Gray,Sam Haddon,6-3,6,3,1,0,Completed,true,false,false
+UA008082,06 Sep 15,8,Royal Ave,Hampton,No. 3,Archie Antonopoulos,Eliza Maginness,Archie Antonopoulos,6-0,6,0,1,0,Completed,true,false,false
+UA008082,06 Sep 15,8,Royal Ave,Hampton,No. 4,Josh Chu,Isabell Bytheway,Josh Chu,6-3,6,3,1,0,Completed,true,false,false
+UA008083,06 Sep 15,8,Murrumbeena,Kooyong Scotch,No. 1,Mia Pisano,Celeste Rayment,Celeste Rayment,2-6,2,6,0,1,Completed,true,false,false
+UA008083,06 Sep 15,8,Murrumbeena,Kooyong Scotch,No. 2,Chloe Papas,Bridgette Harwood,Chloe Papas,7-6,7,6,1,0,Completed,true,false,false
+UA008083,06 Sep 15,8,Murrumbeena,Kooyong Scotch,No. 3,Madeiline Serle,Mia Geason,Madeiline Serle,6-0,6,0,1,0,Completed,true,false,false
+UA008083,06 Sep 15,8,Murrumbeena,Kooyong Scotch,No. 4,Nicola Maltman,Greta Wernli,Nicola Maltman,6-0,6,0,1,0,Completed,true,false,false
+UA008084,06 Sep 15,8,Maccabi,Parkdale,No. 1,Teagan Slomoi,John Paterson,Teagan Slomoi,7-6,7,6,1,0,Completed,true,false,false
+UA008084,06 Sep 15,8,Maccabi,Parkdale,No. 2,Aden Minaker,Reid Terrell,Reid Terrell,0-6,0,6,0,1,Completed,true,false,false
+UA008084,06 Sep 15,8,Maccabi,Parkdale,No. 3,Adam Gordon,James Bryan,James Bryan,1-6,1,6,0,1,Completed,true,false,false
+UA008084,06 Sep 15,8,Maccabi,Parkdale,No. 4,Nathan Lenga,Josh Nibbs,Josh Nibbs,1-6,1,6,0,1,Completed,true,false,false
+UA008091,13 Sep 15,9,Mordialloc,Maccabi,No. 1,Sanuj Ruberi,Teagan Slomoi,Sanuj Ruberi,6-0,6,0,1,0,Completed,true,false,false
+UA008091,13 Sep 15,9,Mordialloc,Maccabi,No. 2,Keisuke Nishimura,Jason Slomoi,Jason Slomoi,4-6,4,6,0,1,Completed,true,false,false
+UA008091,13 Sep 15,9,Mordialloc,Maccabi,No. 3,Ronan Larkin,Aden Minaker,Aden Minaker,4-6,4,6,0,1,Completed,true,false,false
+UA008091,13 Sep 15,9,Mordialloc,Maccabi,No. 4,Sarthak Singh,Nathan Lenga,Sarthak Singh,7-6,7,6,1,0,Completed,true,false,false
+UA008092,13 Sep 15,9,Hampton,Coatesville,No. 1,Jemma Gray,Victoria Kozbonis,Jemma Gray,6-4,6,4,1,0,Completed,true,false,false
+UA008092,13 Sep 15,9,Hampton,Coatesville,No. 2,Eliza Maginness,Luke Lou,Luke Lou,2-6,2,6,0,1,Completed,true,false,false
+UA008092,13 Sep 15,9,Hampton,Coatesville,No. 3,Mathew Warman,Connor Misquitta,Connor Misquitta,4-6,4,6,0,1,Completed,true,false,false
+UA008092,13 Sep 15,9,Hampton,Coatesville,No. 4,Lachie Tindall,Brock Augustynski,Lachie Tindall,6-0,6,0,1,0,Completed,true,false,false
+UA008093,13 Sep 15,9,Kooyong Scotch,Royal Ave,No. 1,Celeste Rayment,Jarrad Ellis,Celeste Rayment,7-5,7,5,1,0,Completed,true,false,false
+UA008093,13 Sep 15,9,Kooyong Scotch,Royal Ave,No. 2,Bridgette Harwood,Dennis Gu,Dennis Gu,2-6,2,6,0,1,Completed,true,false,false
+UA008093,13 Sep 15,9,Kooyong Scotch,Royal Ave,No. 3,Dasha Nishikova,Riley Mollar,Dasha Nishikova,6-1,6,1,1,0,Completed,true,false,false
+UA008093,13 Sep 15,9,Kooyong Scotch,Royal Ave,No. 4,Kajol Babu,Josh Chu,Kajol Babu,6-2,6,2,1,0,Completed,true,false,false
+UA008094,13 Sep 15,9,Parkdale,Murrumbeena,No. 1,John Paterson,Wyatt Bicknell,Wyatt Bicknell,4-6,4,6,0,1,Completed,true,false,false
+UA008094,13 Sep 15,9,Parkdale,Murrumbeena,No. 2,Reid Terrell,Mia Pisano,Reid Terrell,6-2,6,2,1,0,Completed,true,false,false
+UA008094,13 Sep 15,9,Parkdale,Murrumbeena,No. 3,James Bryan,Chloe Papas,James Bryan,6-1,6,1,1,0,Completed,true,false,false
+UA008094,13 Sep 15,9,Parkdale,Murrumbeena,No. 4,Josh Nibbs,Madeiline Serle,Madeiline Serle,2-6,2,6,0,1,Completed,true,false,false
+UA008101,11 Oct 15,10,Murrumbeena,Mordialloc,No. 1,Wyatt Bicknell,Sanuj Ruberi,Sanuj Ruberi,4-6,4,6,0,1,Completed,true,false,false
+UA008101,11 Oct 15,10,Murrumbeena,Mordialloc,No. 2,Mia Pisano,Ronan Larkin,Mia Pisano,7-6,7,6,1,0,Completed,true,false,false
+UA008101,11 Oct 15,10,Murrumbeena,Mordialloc,No. 3,Chloe Papas,Tarun Ramesh,Tarun Ramesh,3-6,3,6,0,1,Completed,true,false,false
+UA008101,11 Oct 15,10,Murrumbeena,Mordialloc,No. 4,Nicola Maltman,Sarthak Singh,Nicola Maltman,7-6,7,6,1,0,Completed,true,false,false
+UA008102,11 Oct 15,10,Maccabi,Hampton,No. 1,Teagan Slomoi,Jemma Gray,Jemma Gray,5-7,5,7,0,1,Completed,true,false,false
+UA008102,11 Oct 15,10,Maccabi,Hampton,No. 2,Edward Lichtig,Isabell Bytheway,Edward Lichtig,6-1,6,1,1,0,Completed,true,false,false
+UA008102,11 Oct 15,10,Maccabi,Hampton,No. 3,Adam Gordon,Samantha Cameron,Samantha Cameron,5-7,5,7,0,1,Completed,true,false,false
+UA008102,11 Oct 15,10,Maccabi,Hampton,No. 4,Nathan Lenga,Lachie Tindall,Lachie Tindall,0-6,0,6,0,1,Completed,true,false,false
+UA008103,11 Oct 15,10,Coatesville,Kooyong Scotch,No. 1,Victoria Kozbonis,Grace Fountain,Grace Fountain,0-6,0,6,0,1,Completed,true,false,false
+UA008103,11 Oct 15,10,Coatesville,Kooyong Scotch,No. 2,Luke Lou,Celeste Rayment,Celeste Rayment,1-6,1,6,0,1,Completed,true,false,false
+UA008103,11 Oct 15,10,Coatesville,Kooyong Scotch,No. 3,Ben Traynes,Bridgette Harwood,Ben Traynes,6-4,6,4,1,0,Completed,true,false,false
+UA008103,11 Oct 15,10,Coatesville,Kooyong Scotch,No. 4,Brock Augustynski,Mia Geason,Brock Augustynski,6-2,6,2,1,0,Completed,true,false,false
+UA008104,11 Oct 15,10,Royal Ave,Parkdale,No. 1,Sam Haddon,Reid Terrell,Reid Terrell,3-6,3,6,0,1,Completed,true,false,false
+UA008104,11 Oct 15,10,Royal Ave,Parkdale,No. 2,Dennis Gu,James Bryan,Dennis Gu,6-1,6,1,1,0,Completed,true,false,false
+UA008104,11 Oct 15,10,Royal Ave,Parkdale,No. 3,Archie Antonopoulos,Josh Nibbs,Archie Antonopoulos,7-6,7,6,1,0,Completed,true,false,false
+UA008104,11 Oct 15,10,Royal Ave,Parkdale,No. 4,Josh Chu,Matthew Nibbs,Josh Chu,6-3,6,3,1,0,Completed,true,false,false
+UA008111,18 Oct 15,11,Mordialloc,Royal Ave,No. 1,Keisuke Nishimura,Jarrad Ellis,Jarrad Ellis,2-6,2,6,0,1,Completed,true,false,false
+UA008111,18 Oct 15,11,Mordialloc,Royal Ave,No. 2,Avinash Nair,Sam Haddon,Sam Haddon,1-6,1,6,0,1,Completed,true,false,false
+UA008111,18 Oct 15,11,Mordialloc,Royal Ave,No. 3,Tarun Ramesh,Dennis Gu,Dennis Gu,0-6,0,6,0,1,Completed,true,false,false
+UA008111,18 Oct 15,11,Mordialloc,Royal Ave,No. 4,Sarthak Singh,Riley Mollar,Riley Mollar,3-6,3,6,0,1,Completed,true,false,false
+UA008112,18 Oct 15,11,Hampton,Murrumbeena,No. 1,Jemma Gray,Wyatt Bicknell,Wyatt Bicknell,4-6,4,6,0,1,Completed,true,false,false
+UA008112,18 Oct 15,11,Hampton,Murrumbeena,No. 2,Isabell Bytheway,Mia Pisano,Isabell Bytheway,6-3,6,3,1,0,Completed,true,false,false
+UA008112,18 Oct 15,11,Hampton,Murrumbeena,No. 3,Samantha Cameron,Chloe Papas,Chloe Papas,4-6,4,6,0,1,Completed,true,false,false
+UA008112,18 Oct 15,11,Hampton,Murrumbeena,No. 4,Lachie Tindall,Madeiline Serle,Madeiline Serle,4-6,4,6,0,1,Completed,true,false,false
+UA008113,18 Oct 15,11,Kooyong Scotch,Maccabi,No. 1,Grace Fountain,Teagan Slomoi,Grace Fountain,6-3,6,3,1,0,Completed,true,false,false
+UA008113,18 Oct 15,11,Kooyong Scotch,Maccabi,No. 2,Celeste Rayment,Aden Minaker,Celeste Rayment,6-0,6,0,1,0,Completed,true,false,false
+UA008113,18 Oct 15,11,Kooyong Scotch,Maccabi,No. 3,Mia Geason,Jason Slomoi,Jason Slomoi,2-6,2,6,0,1,Completed,true,false,false
+UA008113,18 Oct 15,11,Kooyong Scotch,Maccabi,No. 4,Greta Wernli,Jeremy Tusia,Jeremy Tusia,0-6,0,6,0,1,Completed,true,false,false
+UA008114,18 Oct 15,11,Parkdale,Coatesville,No. 1,John Paterson,Victoria Kozbonis,Victoria Kozbonis,3-6,3,6,0,1,Completed,true,false,false
+UA008114,18 Oct 15,11,Parkdale,Coatesville,No. 2,Reid Terrell,Luke Lou,Luke Lou,3-6,3,6,0,1,Completed,true,false,false
+UA008114,18 Oct 15,11,Parkdale,Coatesville,No. 3,James Bryan,Ben Traynes,Ben Traynes,3-6,3,6,0,1,Completed,true,false,false
+UA008114,18 Oct 15,11,Parkdale,Coatesville,No. 4,Josh Nibbs,Connor Misquitta,Josh Nibbs,6-1,6,1,1,0,Completed,true,false,false
+UA008121,25 Oct 15,12,Parkdale,Kooyong Scotch,No. 1,John Paterson,Emily Harvey,Emily Harvey,4-6,4,6,0,1,Completed,true,false,false
+UA008121,25 Oct 15,12,Parkdale,Kooyong Scotch,No. 2,Reid Terrell,Celeste Rayment,Celeste Rayment,2-6,2,6,0,1,Completed,true,false,false
+UA008121,25 Oct 15,12,Parkdale,Kooyong Scotch,No. 3,Josh Nibbs,Bridgette Harwood,Josh Nibbs,6-1,6,1,1,0,Completed,true,false,false
+UA008121,25 Oct 15,12,Parkdale,Kooyong Scotch,No. 4,Matthew Nibbs,Greta Wernli,Greta Wernli,4-6,4,6,0,1,Completed,true,false,false
+UA008122,25 Oct 15,12,Murrumbeena,Maccabi,No. 1,Mia Pisano,Teagan Slomoi,Teagan Slomoi,1-6,1,6,0,1,Completed,true,false,false
+UA008122,25 Oct 15,12,Murrumbeena,Maccabi,No. 2,Chloe Papas,Ivan Zulman,Ivan Zulman,4-6,4,6,0,1,Completed,true,false,false
+UA008122,25 Oct 15,12,Murrumbeena,Maccabi,No. 3,Madeiline Serle,Jason Slomoi,Jason Slomoi,3-6,3,6,0,1,Completed,true,false,false
+UA008122,25 Oct 15,12,Murrumbeena,Maccabi,No. 4,Nicola Maltman,Adam Gordon,Nicola Maltman,6-2,6,2,1,0,Completed,true,false,false
+UA008123,25 Oct 15,12,Coatesville,Royal Ave,No. 1,Luke Lou,Jarrad Ellis,Jarrad Ellis,0-6,0,6,0,1,Completed,true,false,false
+UA008123,25 Oct 15,12,Coatesville,Royal Ave,No. 2,Ben Traynes,Archie Antonopoulos,Archie Antonopoulos,2-6,2,6,0,1,Completed,true,false,false
+UA008123,25 Oct 15,12,Coatesville,Royal Ave,No. 3,Connor Misquitta,Riley Mollar,Riley Mollar,5-7,5,7,0,1,Completed,true,false,false
+UA008123,25 Oct 15,12,Coatesville,Royal Ave,No. 4,Brock Augustynski,Josh Chu,Brock Augustynski,6-0,6,0,1,0,Completed,true,false,false
+UA008124,25 Oct 15,12,Hampton,Mordialloc,No. 1,Jemma Gray,Sanuj Ruberi,Sanuj Ruberi,0-6,0,6,0,1,Completed,true,false,false
+UA008124,25 Oct 15,12,Hampton,Mordialloc,No. 2,Isabell Bytheway,Keisuke Nishimura,Keisuke Nishimura,3-6,3,6,0,1,Completed,true,false,false
+UA008124,25 Oct 15,12,Hampton,Mordialloc,No. 3,Samantha Cameron,Avinash Nair,Avinash Nair,3-6,3,6,0,1,Completed,true,false,false
+UA008124,25 Oct 15,12,Hampton,Mordialloc,No. 4,Lachie Tindall,Ronan Larkin,Lachie Tindall,6-3,6,3,1,0,Completed,true,false,false
+UA008131,08 Nov 15,13,Kooyong Scotch,Hampton,No. 1,Grace Fountain,Jemma Gray,Grace Fountain,6-3,6,3,1,0,Completed,true,false,false
+UA008131,08 Nov 15,13,Kooyong Scotch,Hampton,No. 2,Celeste Rayment,Isabell Bytheway,Celeste Rayment,6-0,6,0,1,0,Completed,true,false,false
+UA008131,08 Nov 15,13,Kooyong Scotch,Hampton,No. 3,Bridgette Harwood,Samantha Cameron,Bridgette Harwood,6-1,6,1,1,0,Completed,true,false,false
+UA008131,08 Nov 15,13,Kooyong Scotch,Hampton,No. 4,Greta Wernli,Lachie Tindall,Lachie Tindall,0-6,0,6,0,1,Completed,true,false,false
+UA008132,08 Nov 15,13,Mordialloc,Parkdale,No. 1,Keisuke Nishimura,John Paterson,Keisuke Nishimura,6-4,6,4,1,0,Completed,true,false,false
+UA008132,08 Nov 15,13,Mordialloc,Parkdale,No. 2,Avinash Nair,James Bryan,James Bryan,3-6,3,6,0,1,Completed,true,false,false
+UA008132,08 Nov 15,13,Mordialloc,Parkdale,No. 3,Tarun Ramesh,Josh Nibbs,Josh Nibbs,2-6,2,6,0,1,Completed,true,false,false
+UA008132,08 Nov 15,13,Mordialloc,Parkdale,No. 4,Sarthak Singh,Matthew Nibbs,Matthew Nibbs,1-6,1,6,0,1,Completed,true,false,false
+UA008133,08 Nov 15,13,Royal Ave,Murrumbeena,No. 1,Jarrad Ellis,Wyatt Bicknell,Jarrad Ellis,6-3,6,3,1,0,Completed,true,false,false
+UA008133,08 Nov 15,13,Royal Ave,Murrumbeena,No. 2,Dennis Gu,Chloe Papas,Dennis Gu,6-1,6,1,1,0,Completed,true,false,false
+UA008133,08 Nov 15,13,Royal Ave,Murrumbeena,No. 3,Riley Mollar,Madeiline Serle,Madeiline Serle,4-6,4,6,0,1,Completed,true,false,false
+UA008133,08 Nov 15,13,Royal Ave,Murrumbeena,No. 4,Josh Chu,Nicola Maltman,Josh Chu,6-2,6,2,1,0,Completed,true,false,false
+UA008134,08 Nov 15,13,Maccabi,Coatesville,No. 1,Ivan Zulman,Victoria Kozbonis,Victoria Kozbonis,0-6,0,6,0,1,Completed,true,false,false
+UA008134,08 Nov 15,13,Maccabi,Coatesville,No. 2,Edward Lichtig,Ben Traynes,Edward Lichtig,6-3,6,3,1,0,Completed,true,false,false
+UA008134,08 Nov 15,13,Maccabi,Coatesville,No. 3,Adam Gordon,Connor Misquitta,Connor Misquitta,2-6,2,6,0,1,Completed,true,false,false
+UA008134,08 Nov 15,13,Maccabi,Coatesville,No. 4,Nathan Lenga,Brock Augustynski,Nathan Lenga,6-3,6,3,1,0,Completed,true,false,false
+UA008141,15 Nov 15,14,Kooyong Scotch,Mordialloc,No. 1,Grace Fountain,Sanuj Ruberi,Grace Fountain,6-4,6,4,1,0,Completed,true,false,false
+UA008141,15 Nov 15,14,Kooyong Scotch,Mordialloc,No. 2,Celeste Rayment,Keisuke Nishimura,Celeste Rayment,6-0,6,0,1,0,Completed,true,false,false
+UA008141,15 Nov 15,14,Kooyong Scotch,Mordialloc,No. 3,Nicholas Jovanovski,Avinash Nair,Nicholas Jovanovski,6-1,6,1,1,0,Completed,true,false,false
+UA008141,15 Nov 15,14,Kooyong Scotch,Mordialloc,No. 4,Mia Geason,Ronan Larkin,Ronan Larkin,3-6,3,6,0,1,Completed,true,false,false
+UA008142,15 Nov 15,14,Parkdale,Hampton,No. 1,John Paterson,Jemma Gray,John Paterson,6-4,6,4,1,0,Completed,true,false,false
+UA008142,15 Nov 15,14,Parkdale,Hampton,No. 2,Reid Terrell,Isabell Bytheway,Reid Terrell,6-1,6,1,1,0,Completed,true,false,false
+UA008142,15 Nov 15,14,Parkdale,Hampton,No. 3,James Bryan,Samantha Cameron,James Bryan,6-1,6,1,1,0,Completed,true,false,false
+UA008142,15 Nov 15,14,Parkdale,Hampton,No. 4,Josh Nibbs,Lachie Tindall,Lachie Tindall,3-6,3,6,0,1,Completed,true,false,false
+UA008143,15 Nov 15,14,Royal Ave,Maccabi,No. 1,Jarrad Ellis,Teagan Slomoi,Jarrad Ellis,6-0,6,0,1,0,Completed,true,false,false
+UA008143,15 Nov 15,14,Royal Ave,Maccabi,No. 2,Sam Haddon,Aden Minaker,Sam Haddon,6-3,6,3,1,0,Completed,true,false,false
+UA008143,15 Nov 15,14,Royal Ave,Maccabi,No. 3,Archie Antonopoulos,Adam Gordon,Archie Antonopoulos,6-0,6,0,1,0,Completed,true,false,false
+UA008143,15 Nov 15,14,Royal Ave,Maccabi,No. 4,Riley Mollar,Nathan Lenga,Nathan Lenga,4-6,4,6,0,1,Completed,true,false,false
+UA008144,15 Nov 15,14,Coatesville,Murrumbeena,No. 1,Victoria Kozbonis,Wyatt Bicknell,Victoria Kozbonis,6-0,6,0,1,0,Completed,true,false,false
+UA008144,15 Nov 15,14,Coatesville,Murrumbeena,No. 2,Luke Lou,Chloe Papas,Luke Lou,6-1,6,1,1,0,Completed,true,false,false
+UA008144,15 Nov 15,14,Coatesville,Murrumbeena,No. 3,Connor Misquitta,Madeiline Serle,Connor Misquitta,6-3,6,3,1,0,Completed,true,false,false
+UA008144,15 Nov 15,14,Coatesville,Murrumbeena,No. 4,Brock Augustynski,Nicola Maltman,Brock Augustynski,6-3,6,3,1,0,Completed,true,false,false
+UA008301,,16,Royal Ave,Coatesville,No. 1,Jarrad Ellis,Victoria Kozbonis,Jarrad Ellis,6-3,6,3,1,0,Completed,true,false,false
+UA008301,,16,Royal Ave,Coatesville,No. 2,Sam Haddon,Luke Lou,Sam Haddon,6-0,6,0,1,0,Completed,true,false,false
+UA008301,,16,Royal Ave,Coatesville,No. 3,Dennis Gu,Ben Traynes,Ben Traynes,6-7,6,7,0,1,Completed,true,false,false
+UA008301,,16,Royal Ave,Coatesville,No. 4,Archie Antonopoulos,Connor Misquitta,Archie Antonopoulos,6-1,6,1,1,0,Completed,true,false,false
+UA008302,,16,Kooyong Scotch,Parkdale,No. 1,Grace Fountain,John Paterson,Grace Fountain,6-4,6,4,1,0,Completed,true,false,false
+UA008302,,16,Kooyong Scotch,Parkdale,No. 2,Celeste Rayment,Reid Terrell,Celeste Rayment,6-1,6,1,1,0,Completed,true,false,false
+UA008302,,16,Kooyong Scotch,Parkdale,No. 3,Bridgette Harwood,James Bryan,James Bryan,2-6,2,6,0,1,Completed,true,false,false
+UA008302,,16,Kooyong Scotch,Parkdale,No. 4,Greta Wernli,Josh Nibbs,Josh Nibbs,0-6,0,6,0,1,Completed,true,false,false
+UA008321,,17,Royal Ave,Parkdale,No. 1,Jarrad Ellis,John Paterson,Jarrad Ellis,6-1,6,1,1,0,Completed,true,false,false
+UA008321,,17,Royal Ave,Parkdale,No. 2,Sam Haddon,Reid Terrell,Sam Haddon,6-1,6,1,1,0,Completed,true,false,false
+UA008321,,17,Royal Ave,Parkdale,No. 3,Dennis Gu,James Bryan,James Bryan,2-6,2,6,0,1,Completed,true,false,false
+UA008321,,17,Royal Ave,Parkdale,No. 4,Archie Antonopoulos,Josh Nibbs,Josh Nibbs,3-6,3,6,0,1,Completed,true,false,false

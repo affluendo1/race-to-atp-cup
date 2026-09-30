@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA23-UA001",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2018",
+  "season_id": "UA23",
+  "season_label": "Spring 2018",
+  "source_section_code": "UA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Royal Ave",
+      "wins": 11,
+      "points": 105,
+      "percentage": 148.69,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "GPHC",
+      "wins": 10,
+      "points": 97,
+      "percentage": 135.29,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kooyong 1",
+      "wins": 8,
+      "points": 88,
+      "percentage": 127.57,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Coatesville",
+      "wins": 5,
+      "points": 67,
+      "percentage": 100.0,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Aspendale",
+      "wins": 6,
+      "points": 66,
+      "percentage": 96.41,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park",
+      "wins": 5,
+      "points": 63,
+      "percentage": 93.08,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong 2",
+      "wins": 4,
+      "points": 51,
+      "percentage": 80.46,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal South Yarra",
+      "wins": 1,
+      "points": 23,
+      "percentage": 54.91,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA23-UA001",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

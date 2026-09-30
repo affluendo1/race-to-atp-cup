@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA32-UA015",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2023",
+  "season_id": "UA32",
+  "season_label": "Autumn 2023",
+  "source_section_code": "UA015",
+  "section_label": "Section 15",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Elsternwick Park",
+      "wins": 8,
+      "points": 90,
+      "percentage": 148.8,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Mentone",
+      "wins": 7,
+      "points": 85,
+      "percentage": 152.4,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 5,
+      "points": 76,
+      "percentage": 117.43,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Le Page",
+      "wins": 6,
+      "points": 73,
+      "percentage": 104.18,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Parkdale",
+      "wins": 4,
+      "points": 60,
+      "percentage": 89.32,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Centenary Park",
+      "wins": 3,
+      "points": 60,
+      "percentage": 89.29,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Lauriston",
+      "wins": 3,
+      "points": 55,
+      "percentage": 90.65,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 21,
+      "percentage": 48.11,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA32-UA015",
+  "fixtures": 55,
+  "completed_fixtures": 43,
+  "draw_fixtures": 59,
+  "singles_rubbers": 172,
+  "doubles_rubbers": 86,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

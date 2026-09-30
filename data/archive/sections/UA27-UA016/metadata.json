@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA27-UA016",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2020",
+  "season_id": "UA27",
+  "season_label": "Spring 2020",
+  "source_section_code": "UA016",
+  "section_label": "Section 16",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Parkdale",
+      "wins": 3,
+      "points": 31,
+      "percentage": 115.38,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Lauriston",
+      "wins": 3,
+      "points": 30,
+      "percentage": 114.29,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Dendy Park",
+      "wins": 3,
+      "points": 29,
+      "percentage": 109.8,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Sandringham",
+      "wins": 2,
+      "points": 25,
+      "percentage": 108.08,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Hurlingham Park",
+      "wins": 2,
+      "points": 24,
+      "percentage": 93.69,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kings Park",
+      "wins": 1,
+      "points": 22,
+      "percentage": 100.0,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Carmelite",
+      "wins": 1,
+      "points": 19,
+      "percentage": 69.8,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA27-UA016",
+  "fixtures": 24,
+  "completed_fixtures": 15,
+  "draw_fixtures": 56,
+  "singles_rubbers": 60,
+  "doubles_rubbers": 30,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,237 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA015011,16 Jul 23,1,Kooyong,Dendy Park,No. 1,Stephanie Forsyth,Tobias Maddams,Stephanie Forsyth,6-4,6,4,1,0,Completed,true,false,false
+UA015011,16 Jul 23,1,Kooyong,Dendy Park,No. 2,Henry Moore,Jake Bloom,Jake Bloom,0-6,0,6,0,1,Completed,true,false,false
+UA015011,16 Jul 23,1,Kooyong,Dendy Park,No. 3,Harper Barons,Aryamaan Kumar,Aryamaan Kumar,0-6,0,6,0,1,Completed,true,false,false
+UA015011,16 Jul 23,1,Kooyong,Dendy Park,No. 4,Hugh Cotterell,Jack Loffel,Hugh Cotterell,6-3,6,3,1,0,Completed,true,true,false
+UA015012,16 Jul 23,1,Hurlingham Park Blue,Hurlingham Park Red,No. 1,Benjamin Krodkiewski,Anastasia Turner,Anastasia Turner,4-6,4,6,0,1,Completed,true,false,false
+UA015012,16 Jul 23,1,Hurlingham Park Blue,Hurlingham Park Red,No. 2,Callum Angell,Eva Moralis,Callum Angell,6-2,6,2,1,0,Completed,true,false,false
+UA015012,16 Jul 23,1,Hurlingham Park Blue,Hurlingham Park Red,No. 3,Eden Morehu,Isabelle Schiavello,Isabelle Schiavello,0-6,0,6,0,1,Completed,true,false,false
+UA015012,16 Jul 23,1,Hurlingham Park Blue,Hurlingham Park Red,No. 4,Henry Bull,Ned Bolton,Ned Bolton,0-6,0,6,0,1,Completed,true,false,true
+UA015013,16 Jul 23,1,Royal Ave Green,Royal Ave Purple,No. 1,Sonny Baker,James Broome,Sonny Baker,6-4,6,4,1,0,Completed,true,false,false
+UA015013,16 Jul 23,1,Royal Ave Green,Royal Ave Purple,No. 2,Charlie Vakrinos,Tasman Hall,Charlie Vakrinos,7-5,7,5,1,0,Completed,true,false,false
+UA015013,16 Jul 23,1,Royal Ave Green,Royal Ave Purple,No. 3,Kosta Vakrinos,Max Hunt,Kosta Vakrinos,6-0,6,0,1,0,Completed,true,false,false
+UA015013,16 Jul 23,1,Royal Ave Green,Royal Ave Purple,No. 4,Dylan Keyvanloo,Stuart Hunt,Dylan Keyvanloo,6-1,6,1,1,0,Completed,true,false,false
+UA015014,16 Jul 23,1,Elsternwick Park,Le Page,No. 1,Ruben Young,Diego Fernando,Diego Fernando,5-7,5,7,0,1,Completed,true,true,false
+UA015014,16 Jul 23,1,Elsternwick Park,Le Page,No. 2,Charlie Chidlow,Tome Lazic,Charlie Chidlow,6-4,6,4,1,0,Completed,true,false,false
+UA015014,16 Jul 23,1,Elsternwick Park,Le Page,No. 3,Giorgio Colla,Leon Sukuan Li,Giorgio Colla,6-4,6,4,1,0,Completed,true,false,false
+UA015014,16 Jul 23,1,Elsternwick Park,Le Page,No. 4,Noa Preston,Sascha Whitelaw,Noa Preston,6-3,6,3,1,0,Completed,true,false,false
+UA015021,23 Jul 23,2,Le Page,Kooyong,No. 1,Leon Sukuan Li,Tara McAuley,Leon Sukuan Li,6-2,6,2,1,0,Completed,true,false,false
+UA015021,23 Jul 23,2,Le Page,Kooyong,No. 2,Sascha Whitelaw,Henry Moore,Henry Moore,3-6,3,6,0,1,Completed,true,false,false
+UA015021,23 Jul 23,2,Le Page,Kooyong,No. 3,Matthew Lan,Harper Barons,Matthew Lan,6-3,6,3,1,0,Completed,true,true,false
+UA015021,23 Jul 23,2,Le Page,Kooyong,No. 4,Jonathan Friedman,William Stevens,Jonathan Friedman,6-3,6,3,1,0,Completed,true,true,false
+UA015022,23 Jul 23,2,Dendy Park,Hurlingham Park Blue,No. 1,Tobias Maddams,Benjamin Krodkiewski,Benjamin Krodkiewski,4-6,4,6,0,1,Completed,true,false,false
+UA015022,23 Jul 23,2,Dendy Park,Hurlingham Park Blue,No. 2,Jake Bloom,Callum Angell,Callum Angell,2-6,2,6,0,1,Completed,true,false,false
+UA015022,23 Jul 23,2,Dendy Park,Hurlingham Park Blue,No. 3,Aryamaan Kumar,Angus O'Neil,Aryamaan Kumar,6-1,6,1,1,0,Completed,true,false,false
+UA015022,23 Jul 23,2,Dendy Park,Hurlingham Park Blue,No. 4,Jack Loffel,Henry Bull,Henry Bull,5-7,5,7,0,1,Completed,true,false,false
+UA015023,23 Jul 23,2,Hurlingham Park Red,Royal Ave Green,No. 1,Anastasia Turner,Sonny Baker,Anastasia Turner,6-4,6,4,1,0,Completed,true,false,false
+UA015023,23 Jul 23,2,Hurlingham Park Red,Royal Ave Green,No. 2,Estelle Giftakis,Sebastian Snell,Sebastian Snell,4-6,4,6,0,1,Completed,true,false,false
+UA015023,23 Jul 23,2,Hurlingham Park Red,Royal Ave Green,No. 3,Isabelle Schiavello,Dylan Keyvanloo,Isabelle Schiavello,6-1,6,1,1,0,Completed,true,false,false
+UA015023,23 Jul 23,2,Hurlingham Park Red,Royal Ave Green,No. 4,Zoe Byass,Callan Curtis,Callan Curtis,2-6,2,6,0,1,Completed,true,false,true
+UA015024,23 Jul 23,2,Royal Ave Purple,Elsternwick Park,No. 1,Charlie Snell,Sol Arumgam,Charlie Snell,7-6,7,6,1,0,Completed,true,false,true
+UA015024,23 Jul 23,2,Royal Ave Purple,Elsternwick Park,No. 2,Sami Papadiimitriou,Charlie Chidlow,Charlie Chidlow,0-6,0,6,0,1,Completed,true,false,false
+UA015024,23 Jul 23,2,Royal Ave Purple,Elsternwick Park,No. 3,Max Hunt,Giorgio Colla,Giorgio Colla,0-6,0,6,0,1,Completed,true,false,false
+UA015024,23 Jul 23,2,Royal Ave Purple,Elsternwick Park,No. 4,Stuart Hunt,Laura Leunar,Laura Leunar,0-6,0,6,0,1,Completed,true,false,false
+UA015031,30 Jul 23,3,Kooyong,Royal Ave Purple,No. 1,Stephanie Forsyth,James Broome,James Broome,6-7,6,7,0,1,Completed,true,false,false
+UA015031,30 Jul 23,3,Kooyong,Royal Ave Purple,No. 2,Tara McAuley,Charlie Snell,Charlie Snell,3-6,3,6,0,1,Completed,true,false,false
+UA015031,30 Jul 23,3,Kooyong,Royal Ave Purple,No. 3,Henry Moore,Tasman Hall,Tasman Hall,2-6,2,6,0,1,Completed,true,false,false
+UA015031,30 Jul 23,3,Kooyong,Royal Ave Purple,No. 4,William Stevens,Sami Papadiimitriou,William Stevens,6-1,6,1,1,0,Completed,true,false,false
+UA015032,30 Jul 23,3,Hurlingham Park Blue,Le Page,No. 1,Benjamin Krodkiewski,Diego Fernando,Benjamin Krodkiewski,6-0,6,0,1,0,Completed,true,false,false
+UA015032,30 Jul 23,3,Hurlingham Park Blue,Le Page,No. 2,Callum Angell,Tome Lazic,Callum Angell,6-2,6,2,1,0,Completed,true,false,false
+UA015032,30 Jul 23,3,Hurlingham Park Blue,Le Page,No. 3,Henry Bull,Leon Sukuan Li,Henry Bull,6-2,6,2,1,0,Completed,true,false,false
+UA015032,30 Jul 23,3,Hurlingham Park Blue,Le Page,No. 4,Angus O'Neil,Sascha Whitelaw,Angus O'Neil,6-1,6,1,1,0,Completed,true,false,false
+UA015033,30 Jul 23,3,Royal Ave Green,Dendy Park,No. 1,Sonny Baker,Jake Bloom,Jake Bloom,5-7,5,7,0,1,Completed,true,false,false
+UA015033,30 Jul 23,3,Royal Ave Green,Dendy Park,No. 2,Kosta Vakrinos,Aryamaan Kumar,Aryamaan Kumar,1-6,1,6,0,1,Completed,true,false,false
+UA015033,30 Jul 23,3,Royal Ave Green,Dendy Park,No. 3,Sebastian Snell,Jack Loffel,Sebastian Snell,6-1,6,1,1,0,Completed,true,false,false
+UA015033,30 Jul 23,3,Royal Ave Green,Dendy Park,No. 4,Dylan Keyvanloo,[Unnamed player — TROLS UA015033 away code 4],Dylan Keyvanloo,6-0,6,0,1,0,Completed,false,false,false
+UA015034,30 Jul 23,3,Elsternwick Park,Hurlingham Park Red,No. 1,Laura Leunar,Eva Moralis,Laura Leunar,6-4,6,4,1,0,Completed,true,false,false
+UA015034,30 Jul 23,3,Elsternwick Park,Hurlingham Park Red,No. 2,Charlie Chidlow,Estelle Giftakis,Estelle Giftakis,4-6,4,6,0,1,Completed,true,false,false
+UA015034,30 Jul 23,3,Elsternwick Park,Hurlingham Park Red,No. 3,Giorgio Colla,Indigo Rubin,Giorgio Colla,6-0,6,0,1,0,Completed,true,false,false
+UA015034,30 Jul 23,3,Elsternwick Park,Hurlingham Park Red,No. 4,Noa Preston,Zoe Byass,Noa Preston,6-3,6,3,1,0,Completed,true,false,false
+UA015041,06 Aug 23,4,Hurlingham Park Red,Kooyong,No. 1,Anastasia Turner,Stephanie Forsyth,Anastasia Turner,6-4,6,4,1,0,Completed,true,false,false
+UA015041,06 Aug 23,4,Hurlingham Park Red,Kooyong,No. 2,Eva Moralis,Tara McAuley,Eva Moralis,7-6,7,6,1,0,Completed,true,false,false
+UA015041,06 Aug 23,4,Hurlingham Park Red,Kooyong,No. 3,Estelle Giftakis,Harper Barons,Estelle Giftakis,6-1,6,1,1,0,Completed,true,false,false
+UA015041,06 Aug 23,4,Hurlingham Park Red,Kooyong,No. 4,Indigo Rubin,William Stevens,William Stevens,1-6,1,6,0,1,Completed,true,false,false
+UA015042,06 Aug 23,4,Royal Ave Purple,Hurlingham Park Blue,No. 1,Charlie Snell,Benjamin Krodkiewski,Benjamin Krodkiewski,2-6,2,6,0,1,Completed,true,false,false
+UA015042,06 Aug 23,4,Royal Ave Purple,Hurlingham Park Blue,No. 2,Tasman Hall,Freddie Williams,Tasman Hall,6-0,6,0,1,0,Completed,true,false,false
+UA015042,06 Aug 23,4,Royal Ave Purple,Hurlingham Park Blue,No. 3,Max Hunt,Eden Morehu,Eden Morehu,3-6,3,6,0,1,Completed,true,false,false
+UA015042,06 Aug 23,4,Royal Ave Purple,Hurlingham Park Blue,No. 4,Stuart Hunt,Angus O'Neil,Angus O'Neil,3-6,3,6,0,1,Completed,true,false,false
+UA015043,06 Aug 23,4,Le Page,Royal Ave Green,No. 1,Tome Lazic,Charlie Vakrinos,Charlie Vakrinos,1-6,1,6,0,1,Completed,true,false,false
+UA015043,06 Aug 23,4,Le Page,Royal Ave Green,No. 2,Leon Sukuan Li,Kosta Vakrinos,Kosta Vakrinos,3-6,3,6,0,1,Completed,true,false,false
+UA015043,06 Aug 23,4,Le Page,Royal Ave Green,No. 3,Sascha Whitelaw,Sebastian Snell,Sascha Whitelaw,7-6,7,6,1,0,Completed,true,false,false
+UA015043,06 Aug 23,4,Le Page,Royal Ave Green,No. 4,Jonathan Friedman,Dylan Keyvanloo,Jonathan Friedman,6-2,6,2,1,0,Completed,true,true,false
+UA015044,06 Aug 23,4,Dendy Park,Elsternwick Park,No. 1,Jake Bloom,Laura Leunar,Jake Bloom,6-2,6,2,1,0,Completed,true,false,false
+UA015044,06 Aug 23,4,Dendy Park,Elsternwick Park,No. 2,Aryamaan Kumar,Charlie Chidlow,Aryamaan Kumar,6-1,6,1,1,0,Completed,true,false,false
+UA015044,06 Aug 23,4,Dendy Park,Elsternwick Park,No. 3,Jack Loffel,Giorgio Colla,Giorgio Colla,0-6,0,6,0,1,Completed,true,false,false
+UA015044,06 Aug 23,4,Dendy Park,Elsternwick Park,No. 4,Harrison Mills,Noa Preston,Noa Preston,2-6,2,6,0,1,Completed,true,true,false
+UA015051,13 Aug 23,5,Royal Ave Green,Elsternwick Park,No. 1,Sonny Baker,Felix Hobbs,Felix Hobbs,4-6,4,6,0,1,Completed,true,false,true
+UA015051,13 Aug 23,5,Royal Ave Green,Elsternwick Park,No. 2,Charlie Vakrinos,Laura Leunar,Charlie Vakrinos,6-0,6,0,1,0,Completed,true,false,false
+UA015051,13 Aug 23,5,Royal Ave Green,Elsternwick Park,No. 3,Kosta Vakrinos,Charlie Chidlow,Kosta Vakrinos,6-4,6,4,1,0,Completed,true,false,false
+UA015051,13 Aug 23,5,Royal Ave Green,Elsternwick Park,No. 4,Sebastian Snell,Giorgio Colla,Giorgio Colla,5-7,5,7,0,1,Completed,true,false,false
+UA015052,13 Aug 23,5,Le Page,Royal Ave Purple,No. 1,Diego Fernando,James Broome,James Broome,4-6,4,6,0,1,Completed,true,false,false
+UA015052,13 Aug 23,5,Le Page,Royal Ave Purple,No. 2,Tome Lazic,Tasman Hall,Tasman Hall,3-6,3,6,0,1,Completed,true,false,false
+UA015052,13 Aug 23,5,Le Page,Royal Ave Purple,No. 3,Leon Sukuan Li,Sami Papadiimitriou,Leon Sukuan Li,6-2,6,2,1,0,Completed,true,false,false
+UA015052,13 Aug 23,5,Le Page,Royal Ave Purple,No. 4,Matthew Lan,Max Hunt,Matthew Lan,6-4,6,4,1,0,Completed,true,true,false
+UA015053,13 Aug 23,5,Hurlingham Park Red,Dendy Park,No. 1,Eva Moralis,Tobias Maddams,Tobias Maddams,2-6,2,6,0,1,Completed,true,false,false
+UA015053,13 Aug 23,5,Hurlingham Park Red,Dendy Park,No. 2,Estelle Giftakis,Aryamaan Kumar,Aryamaan Kumar,0-6,0,6,0,1,Completed,true,false,false
+UA015053,13 Aug 23,5,Hurlingham Park Red,Dendy Park,No. 3,Indigo Rubin,Michaela Maddams,Michaela Maddams,1-6,1,6,0,1,Completed,true,false,true
+UA015053,13 Aug 23,5,Hurlingham Park Red,Dendy Park,No. 4,Zoe Byass,Lola Fromberg,Lola Fromberg,0-6,0,6,0,1,Completed,true,false,true
+UA015054,13 Aug 23,5,Kooyong,Hurlingham Park Blue,No. 1,Stephanie Forsyth,Callum Angell,Stephanie Forsyth,6-3,6,3,1,0,Completed,true,false,false
+UA015054,13 Aug 23,5,Kooyong,Hurlingham Park Blue,No. 2,Henry Moore,Freddie Williams,Henry Moore,6-4,6,4,1,0,Completed,true,false,false
+UA015054,13 Aug 23,5,Kooyong,Hurlingham Park Blue,No. 3,Stephan Merigoux,Henry Bull,Stephan Merigoux,6-2,6,2,1,0,Completed,true,false,false
+UA015054,13 Aug 23,5,Kooyong,Hurlingham Park Blue,No. 4,William Stevens,Eden Morehu,William Stevens,6-4,6,4,1,0,Completed,true,false,false
+UA015061,20 Aug 23,6,Hurlingham Park Blue,Royal Ave Green,No. 1,Benjamin Krodkiewski,Sonny Baker,Benjamin Krodkiewski,6-0,6,0,1,0,Completed,true,false,false
+UA015061,20 Aug 23,6,Hurlingham Park Blue,Royal Ave Green,No. 2,Callum Angell,Charlie Vakrinos,Charlie Vakrinos,1-6,1,6,0,1,Completed,true,false,false
+UA015061,20 Aug 23,6,Hurlingham Park Blue,Royal Ave Green,No. 3,Freddie Williams,Kosta Vakrinos,Kosta Vakrinos,4-6,4,6,0,1,Completed,true,false,false
+UA015061,20 Aug 23,6,Hurlingham Park Blue,Royal Ave Green,No. 4,Angus O'Neil,Dylan Keyvanloo,Angus O'Neil,7-5,7,5,1,0,Completed,true,false,false
+UA015062,20 Aug 23,6,Elsternwick Park,Kooyong,No. 1,Laura Leunar,Stephanie Forsyth,Laura Leunar,7-5,7,5,1,0,Completed,true,false,false
+UA015062,20 Aug 23,6,Elsternwick Park,Kooyong,No. 2,Ruben Young,Henry Moore,Ruben Young,7-5,7,5,1,0,Completed,true,true,false
+UA015062,20 Aug 23,6,Elsternwick Park,Kooyong,No. 3,Giorgio Colla,Harper Barons,Giorgio Colla,6-3,6,3,1,0,Completed,true,false,false
+UA015062,20 Aug 23,6,Elsternwick Park,Kooyong,No. 4,Noa Preston,William Stevens,William Stevens,4-6,4,6,0,1,Completed,true,false,false
+UA015063,20 Aug 23,6,Royal Ave Purple,Hurlingham Park Red,No. 1,Sami Papadiimitriou,Anastasia Turner,Anastasia Turner,4-6,4,6,0,1,Completed,true,false,false
+UA015063,20 Aug 23,6,Royal Ave Purple,Hurlingham Park Red,No. 2,Max Hunt,Eva Moralis,Eva Moralis,4-6,4,6,0,1,Completed,true,false,false
+UA015063,20 Aug 23,6,Royal Ave Purple,Hurlingham Park Red,No. 3,Stuart Hunt,Isabelle Schiavello,Isabelle Schiavello,0-6,0,6,0,1,Completed,true,false,false
+UA015063,20 Aug 23,6,Royal Ave Purple,Hurlingham Park Red,No. 4,Callan Curtis,Zoe Byass,Zoe Byass,3-6,3,6,0,1,Completed,true,true,false
+UA015064,20 Aug 23,6,Dendy Park,Le Page,No. 1,Aryamaan Kumar,Tome Lazic,Aryamaan Kumar,6-0,6,0,1,0,Completed,true,false,false
+UA015064,20 Aug 23,6,Dendy Park,Le Page,No. 2,Tobias Maddams,Leon Sukuan Li,Tobias Maddams,6-4,6,4,1,0,Completed,true,false,false
+UA015064,20 Aug 23,6,Dendy Park,Le Page,No. 3,Jake Bloom,Sascha Whitelaw,Jake Bloom,6-1,6,1,1,0,Completed,true,false,false
+UA015064,20 Aug 23,6,Dendy Park,Le Page,No. 4,Noah Liberman,Yatharth Menware,Noah Liberman,6-4,6,4,1,0,Completed,true,true,true
+UA015071,27 Aug 23,7,Kooyong,Royal Ave Green,No. 1,Tara McAuley,Charlie Vakrinos,Charlie Vakrinos,2-6,2,6,0,1,Completed,true,false,false
+UA015071,27 Aug 23,7,Kooyong,Royal Ave Green,No. 2,Henry Moore,Kosta Vakrinos,Kosta Vakrinos,3-6,3,6,0,1,Completed,true,false,false
+UA015071,27 Aug 23,7,Kooyong,Royal Ave Green,No. 3,Harper Barons,Sebastian Snell,Sebastian Snell,4-6,4,6,0,1,Completed,true,false,false
+UA015071,27 Aug 23,7,Kooyong,Royal Ave Green,No. 4,Stephan Merigoux,Dylan Keyvanloo,Stephan Merigoux,7-6,7,6,1,0,Completed,true,false,false
+UA015072,27 Aug 23,7,Hurlingham Park Blue,Elsternwick Park,No. 1,Benjamin Krodkiewski,Evan Yu,Benjamin Krodkiewski,6-0,6,0,1,0,Completed,true,false,true
+UA015072,27 Aug 23,7,Hurlingham Park Blue,Elsternwick Park,No. 2,Callum Angell,Laura Leunar,Callum Angell,6-2,6,2,1,0,Completed,true,false,false
+UA015072,27 Aug 23,7,Hurlingham Park Blue,Elsternwick Park,No. 3,Freddie Williams,Giorgio Colla,Giorgio Colla,2-6,2,6,0,1,Completed,true,false,false
+UA015072,27 Aug 23,7,Hurlingham Park Blue,Elsternwick Park,No. 4,Eden Morehu,Noa Preston,Noa Preston,0-6,0,6,0,1,Completed,true,false,false
+UA015073,27 Aug 23,7,Le Page,Hurlingham Park Red,No. 1,Diego Fernando,Anastasia Turner,Anastasia Turner,2-6,2,6,0,1,Completed,true,false,false
+UA015073,27 Aug 23,7,Le Page,Hurlingham Park Red,No. 2,Tome Lazic,Estelle Giftakis,Tome Lazic,6-3,6,3,1,0,Completed,true,false,false
+UA015073,27 Aug 23,7,Le Page,Hurlingham Park Red,No. 3,Leon Sukuan Li,Isabelle Schiavello,Isabelle Schiavello,5-7,5,7,0,1,Completed,true,false,false
+UA015073,27 Aug 23,7,Le Page,Hurlingham Park Red,No. 4,Sascha Whitelaw,Indigo Rubin,Sascha Whitelaw,6-1,6,1,1,0,Completed,true,false,false
+UA015074,27 Aug 23,7,Royal Ave Purple,Dendy Park,No. 1,Charlie Snell,Aryamaan Kumar,Aryamaan Kumar,3-6,3,6,0,1,Completed,true,false,false
+UA015074,27 Aug 23,7,Royal Ave Purple,Dendy Park,No. 2,Tasman Hall,Jake Bloom,Tasman Hall,6-4,6,4,1,0,Completed,true,false,false
+UA015074,27 Aug 23,7,Royal Ave Purple,Dendy Park,No. 3,Max Hunt,Jack Loffel,Jack Loffel,4-6,4,6,0,1,Completed,true,false,false
+UA015074,27 Aug 23,7,Royal Ave Purple,Dendy Park,No. 4,Stuart Hunt,Alexander Hookway,Alexander Hookway,0-6,0,6,0,1,Completed,true,false,true
+UA015081,03 Sep 23,8,Dendy Park,Kooyong,No. 1,Aryamaan Kumar,Stephanie Forsyth,Aryamaan Kumar,6-1,6,1,1,0,Completed,true,false,false
+UA015081,03 Sep 23,8,Dendy Park,Kooyong,No. 2,Jake Bloom,Harper Barons,Jake Bloom,6-0,6,0,1,0,Completed,true,false,false
+UA015081,03 Sep 23,8,Dendy Park,Kooyong,No. 3,Jack Loffel,Stephan Merigoux,Stephan Merigoux,0-6,0,6,0,1,Completed,true,false,false
+UA015081,03 Sep 23,8,Dendy Park,Kooyong,No. 4,Noah Liberman,William Stevens,Noah Liberman,6-0,6,0,1,0,Completed,true,true,false
+UA015082,03 Sep 23,8,Hurlingham Park Red,Hurlingham Park Blue,No. 1,Anastasia Turner,Benjamin Krodkiewski,Benjamin Krodkiewski,5-7,5,7,0,1,Completed,true,false,false
+UA015082,03 Sep 23,8,Hurlingham Park Red,Hurlingham Park Blue,No. 2,Isabelle Schiavello,Callum Angell,Isabelle Schiavello,6-3,6,3,1,0,Completed,true,false,false
+UA015082,03 Sep 23,8,Hurlingham Park Red,Hurlingham Park Blue,No. 3,Indigo Rubin,Freddie Williams,Indigo Rubin,6-2,6,2,1,0,Completed,true,false,false
+UA015082,03 Sep 23,8,Hurlingham Park Red,Hurlingham Park Blue,No. 4,Zoe Byass,Angus O'Neil,Zoe Byass,6-3,6,3,1,0,Completed,true,false,false
+UA015083,03 Sep 23,8,Royal Ave Purple,Royal Ave Green,No. 1,James Broome,Charlie Vakrinos,Charlie Vakrinos,0-6,0,6,0,1,Completed,true,false,false
+UA015083,03 Sep 23,8,Royal Ave Purple,Royal Ave Green,No. 2,Tasman Hall,Kosta Vakrinos,Tasman Hall,6-4,6,4,1,0,Completed,true,false,false
+UA015083,03 Sep 23,8,Royal Ave Purple,Royal Ave Green,No. 3,Sami Papadiimitriou,Sebastian Snell,Sebastian Snell,2-6,2,6,0,1,Completed,true,false,false
+UA015083,03 Sep 23,8,Royal Ave Purple,Royal Ave Green,No. 4,Max Hunt,Dylan Keyvanloo,Dylan Keyvanloo,2-6,2,6,0,1,Completed,true,false,false
+UA015084,03 Sep 23,8,Le Page,Elsternwick Park,No. 1,Diego Fernando,Laura Leunar,Laura Leunar,6-7,6,7,0,1,Completed,true,false,false
+UA015084,03 Sep 23,8,Le Page,Elsternwick Park,No. 2,Tome Lazic,Charlie Chidlow,Tome Lazic,6-4,6,4,1,0,Completed,true,false,false
+UA015084,03 Sep 23,8,Le Page,Elsternwick Park,No. 3,Leon Sukuan Li,Giorgio Colla,Giorgio Colla,4-6,4,6,0,1,Completed,true,false,false
+UA015084,03 Sep 23,8,Le Page,Elsternwick Park,No. 4,Sascha Whitelaw,Noa Preston,Sascha Whitelaw,6-4,6,4,1,0,Completed,true,false,false
+UA015091,10 Sep 23,9,Kooyong,Le Page,No. 1,Stephanie Forsyth,Diego Fernando,Diego Fernando,6-7,6,7,0,1,Completed,true,false,false
+UA015091,10 Sep 23,9,Kooyong,Le Page,No. 2,Tara McAuley,Leon Sukuan Li,Leon Sukuan Li,6-7,6,7,0,1,Completed,true,false,false
+UA015091,10 Sep 23,9,Kooyong,Le Page,No. 3,Henry Moore,Sascha Whitelaw,Sascha Whitelaw,4-6,4,6,0,1,Completed,true,false,false
+UA015091,10 Sep 23,9,Kooyong,Le Page,No. 4,Stephan Merigoux,[Unnamed player — TROLS UA015091 away code 4],Stephan Merigoux,6-0,6,0,1,0,Completed,false,false,false
+UA015092,10 Sep 23,9,Hurlingham Park Blue,Dendy Park,No. 1,Benjamin Krodkiewski,Aryamaan Kumar,Benjamin Krodkiewski,6-4,6,4,1,0,Completed,true,false,false
+UA015092,10 Sep 23,9,Hurlingham Park Blue,Dendy Park,No. 2,Freddie Williams,Tobias Maddams,Tobias Maddams,4-6,4,6,0,1,Completed,true,false,false
+UA015092,10 Sep 23,9,Hurlingham Park Blue,Dendy Park,No. 3,Henry Bull,Jake Bloom,Henry Bull,6-3,6,3,1,0,Completed,true,false,false
+UA015092,10 Sep 23,9,Hurlingham Park Blue,Dendy Park,No. 4,Eden Morehu,Jack Loffel,Jack Loffel,4-6,4,6,0,1,Completed,true,false,false
+UA015093,10 Sep 23,9,Royal Ave Green,Hurlingham Park Red,No. 1,Charlie Vakrinos,Isabelle Schiavello,Charlie Vakrinos,6-1,6,1,1,0,Completed,true,false,false
+UA015093,10 Sep 23,9,Royal Ave Green,Hurlingham Park Red,No. 2,Kosta Vakrinos,Ned Bolton,Ned Bolton,5-7,5,7,0,1,Completed,true,false,true
+UA015093,10 Sep 23,9,Royal Ave Green,Hurlingham Park Red,No. 3,Sebastian Snell,Indigo Rubin,Sebastian Snell,6-4,6,4,1,0,Completed,true,false,false
+UA015093,10 Sep 23,9,Royal Ave Green,Hurlingham Park Red,No. 4,Dylan Keyvanloo,Zoe Byass,Zoe Byass,3-6,3,6,0,1,Completed,true,false,false
+UA015094,10 Sep 23,9,Elsternwick Park,Royal Ave Purple,No. 1,Charlotte O'Brien,James Broome,Charlotte O'Brien,6-2,6,2,1,0,Completed,true,true,false
+UA015094,10 Sep 23,9,Elsternwick Park,Royal Ave Purple,No. 2,Evan Yu,Charlie Snell,Evan Yu,6-4,6,4,1,0,Completed,true,true,false
+UA015094,10 Sep 23,9,Elsternwick Park,Royal Ave Purple,No. 3,Giorgio Colla,Max Hunt,Giorgio Colla,6-0,6,0,1,0,Completed,true,false,false
+UA015094,10 Sep 23,9,Elsternwick Park,Royal Ave Purple,No. 4,Hamish Pendred,Stuart Hunt,Hamish Pendred,6-2,6,2,1,0,Completed,true,false,false
+UA015101,08 Oct 23,10,Royal Ave Purple,Kooyong,No. 1,Tasman Hall,Tara McAuley,Tasman Hall,6-1,6,1,1,0,Completed,true,false,false
+UA015101,08 Oct 23,10,Royal Ave Purple,Kooyong,No. 2,Sami Papadiimitriou,Henry Moore,Henry Moore,5-7,5,7,0,1,Completed,true,false,false
+UA015101,08 Oct 23,10,Royal Ave Purple,Kooyong,No. 3,Max Hunt,Harper Barons,Harper Barons,2-6,2,6,0,1,Completed,true,false,false
+UA015101,08 Oct 23,10,Royal Ave Purple,Kooyong,No. 4,Stuart Hunt,William Stevens,William Stevens,1-6,1,6,0,1,Completed,true,false,false
+UA015102,08 Oct 23,10,Le Page,Hurlingham Park Blue,No. 1,Diego Fernando,Benjamin Krodkiewski,Benjamin Krodkiewski,3-6,3,6,0,1,Completed,true,false,false
+UA015102,08 Oct 23,10,Le Page,Hurlingham Park Blue,No. 2,Tome Lazic,Callum Angell,Callum Angell,1-6,1,6,0,1,Completed,true,false,false
+UA015102,08 Oct 23,10,Le Page,Hurlingham Park Blue,No. 3,Leon Sukuan Li,Freddie Williams,Leon Sukuan Li,6-3,6,3,1,0,Completed,true,false,false
+UA015102,08 Oct 23,10,Le Page,Hurlingham Park Blue,No. 4,Sascha Whitelaw,Henry Bull,Sascha Whitelaw,6-3,6,3,1,0,Completed,true,false,false
+UA015103,08 Oct 23,10,Dendy Park,Royal Ave Green,No. 1,Aryamaan Kumar,Sonny Baker,Aryamaan Kumar,6-0,6,0,1,0,Completed,true,false,false
+UA015103,08 Oct 23,10,Dendy Park,Royal Ave Green,No. 2,Tobias Maddams,Sebastian Snell,Tobias Maddams,6-2,6,2,1,0,Completed,true,false,false
+UA015103,08 Oct 23,10,Dendy Park,Royal Ave Green,No. 3,Jake Bloom,Dylan Keyvanloo,Jake Bloom,6-2,6,2,1,0,Completed,true,false,false
+UA015103,08 Oct 23,10,Dendy Park,Royal Ave Green,No. 4,Jack Loffel,Johnny Chew,Johnny Chew,1-6,1,6,0,1,Completed,true,false,false
+UA015104,08 Oct 23,10,Hurlingham Park Red,Elsternwick Park,No. 1,Eva Moralis,Laura Leunar,Laura Leunar,1-6,1,6,0,1,Completed,true,false,false
+UA015104,08 Oct 23,10,Hurlingham Park Red,Elsternwick Park,No. 2,Estelle Giftakis,Charlie Chidlow,Charlie Chidlow,0-6,0,6,0,1,Completed,true,false,false
+UA015104,08 Oct 23,10,Hurlingham Park Red,Elsternwick Park,No. 3,Rupert Williams,Giorgio Colla,Giorgio Colla,1-6,1,6,0,1,Completed,true,true,false
+UA015104,08 Oct 23,10,Hurlingham Park Red,Elsternwick Park,No. 4,Indigo Rubin,Hamish Pendred,Indigo Rubin,7-5,7,5,1,0,Completed,true,false,false
+UA015111,15 Oct 23,11,Kooyong,Hurlingham Park Red,No. 1,Tara McAuley,Anastasia Turner,Tara McAuley,7-6,7,6,1,0,Completed,true,false,false
+UA015111,15 Oct 23,11,Kooyong,Hurlingham Park Red,No. 2,Henry Moore,Estelle Giftakis,Henry Moore,6-4,6,4,1,0,Completed,true,false,false
+UA015111,15 Oct 23,11,Kooyong,Hurlingham Park Red,No. 3,Harper Barons,Indigo Rubin,Harper Barons,6-2,6,2,1,0,Completed,true,false,false
+UA015111,15 Oct 23,11,Kooyong,Hurlingham Park Red,No. 4,Stephan Merigoux,Zoe Byass,Stephan Merigoux,6-0,6,0,1,0,Completed,true,false,false
+UA015112,15 Oct 23,11,Hurlingham Park Blue,Royal Ave Purple,No. 1,Callum Angell,James Broome,Callum Angell,6-3,6,3,1,0,Completed,true,false,false
+UA015112,15 Oct 23,11,Hurlingham Park Blue,Royal Ave Purple,No. 2,Freddie Williams,Charlie Snell,Charlie Snell,5-7,5,7,0,1,Completed,true,false,false
+UA015112,15 Oct 23,11,Hurlingham Park Blue,Royal Ave Purple,No. 3,Eden Morehu,Tasman Hall,Tasman Hall,1-6,1,6,0,1,Completed,true,false,false
+UA015112,15 Oct 23,11,Hurlingham Park Blue,Royal Ave Purple,No. 4,Angus O'Neil,Sami Papadiimitriou,Angus O'Neil,6-1,6,1,1,0,Completed,true,false,false
+UA015113,15 Oct 23,11,Royal Ave Green,Le Page,No. 1,Charlie Vakrinos,Diego Fernando,Charlie Vakrinos,6-1,6,1,1,0,Completed,true,false,false
+UA015113,15 Oct 23,11,Royal Ave Green,Le Page,No. 2,Kosta Vakrinos,Tome Lazic,Kosta Vakrinos,6-3,6,3,1,0,Completed,true,false,false
+UA015113,15 Oct 23,11,Royal Ave Green,Le Page,No. 3,Dylan Keyvanloo,Sascha Whitelaw,Sascha Whitelaw,4-6,4,6,0,1,Completed,true,false,false
+UA015113,15 Oct 23,11,Royal Ave Green,Le Page,No. 4,Johnny Chew,Mitchell Wimarana,Johnny Chew,6-4,6,4,1,0,Completed,true,false,true
+UA015114,15 Oct 23,11,Elsternwick Park,Dendy Park,No. 1,Evan Yu,Aryamaan Kumar,Aryamaan Kumar,0-6,0,6,0,1,Completed,true,true,false
+UA015114,15 Oct 23,11,Elsternwick Park,Dendy Park,No. 2,Laura Leunar,Tobias Maddams,Laura Leunar,6-4,6,4,1,0,Completed,true,false,false
+UA015114,15 Oct 23,11,Elsternwick Park,Dendy Park,No. 3,Giorgio Colla,Jake Bloom,Giorgio Colla,6-1,6,1,1,0,Completed,true,false,false
+UA015114,15 Oct 23,11,Elsternwick Park,Dendy Park,No. 4,Noa Preston,Jack Loffel,Noa Preston,6-2,6,2,1,0,Completed,true,false,false
+UA015121,22 Oct 23,12,Elsternwick Park,Royal Ave Green,No. 1,Laura Leunar,Sonny Baker,Sonny Baker,2-6,2,6,0,1,Completed,true,false,false
+UA015121,22 Oct 23,12,Elsternwick Park,Royal Ave Green,No. 2,Hamish Pendred,Charlie Vakrinos,Charlie Vakrinos,0-6,0,6,0,1,Completed,true,false,false
+UA015121,22 Oct 23,12,Elsternwick Park,Royal Ave Green,No. 3,Noa Preston,Kosta Vakrinos,Kosta Vakrinos,1-6,1,6,0,1,Completed,true,false,false
+UA015121,22 Oct 23,12,Elsternwick Park,Royal Ave Green,No. 4,Seren Haig,Sebastian Snell,Sebastian Snell,4-6,4,6,0,1,Completed,true,true,false
+UA015122,22 Oct 23,12,Royal Ave Purple,Le Page,No. 1,James Broome,Diego Fernando,James Broome,6-0,6,0,1,0,Completed,true,false,false
+UA015122,22 Oct 23,12,Royal Ave Purple,Le Page,No. 2,Charlie Snell,Tome Lazic,Charlie Snell,6-0,6,0,1,0,Completed,true,false,false
+UA015122,22 Oct 23,12,Royal Ave Purple,Le Page,No. 3,Tasman Hall,Leon Sukuan Li,Tasman Hall,6-2,6,2,1,0,Completed,true,false,false
+UA015122,22 Oct 23,12,Royal Ave Purple,Le Page,No. 4,Max Hunt,Mitchell Wimarana,Max Hunt,6-4,6,4,1,0,Completed,true,false,true
+UA015123,22 Oct 23,12,Dendy Park,Hurlingham Park Red,No. 1,Aryamaan Kumar,Anastasia Turner,Aryamaan Kumar,6-1,6,1,1,0,Completed,true,false,false
+UA015123,22 Oct 23,12,Dendy Park,Hurlingham Park Red,No. 2,Tobias Maddams,Eva Moralis,Tobias Maddams,6-3,6,3,1,0,Completed,true,false,false
+UA015123,22 Oct 23,12,Dendy Park,Hurlingham Park Red,No. 3,Jake Bloom,Isabelle Schiavello,Jake Bloom,7-6,7,6,1,0,Completed,true,false,false
+UA015123,22 Oct 23,12,Dendy Park,Hurlingham Park Red,No. 4,Jack Loffel,Zoe Byass,Zoe Byass,6-7,6,7,0,1,Completed,true,false,false
+UA015124,22 Oct 23,12,Hurlingham Park Blue,Kooyong,No. 1,Benjamin Krodkiewski,Henry Moore,Benjamin Krodkiewski,6-0,6,0,1,0,Completed,true,false,false
+UA015124,22 Oct 23,12,Hurlingham Park Blue,Kooyong,No. 2,Callum Angell,Harper Barons,Callum Angell,6-2,6,2,1,0,Completed,true,false,false
+UA015124,22 Oct 23,12,Hurlingham Park Blue,Kooyong,No. 3,Henry Bull,Stephan Merigoux,Henry Bull,6-3,6,3,1,0,Completed,true,false,false
+UA015124,22 Oct 23,12,Hurlingham Park Blue,Kooyong,No. 4,Eden Morehu,William Stevens,William Stevens,3-6,3,6,0,1,Completed,true,false,false
+UA015131,29 Oct 23,13,Royal Ave Green,Hurlingham Park Blue,No. 1,Sonny Baker,Benjamin Krodkiewski,Benjamin Krodkiewski,0-6,0,6,0,1,Completed,true,false,false
+UA015131,29 Oct 23,13,Royal Ave Green,Hurlingham Park Blue,No. 2,Sebastian Snell,Freddie Williams,Sebastian Snell,6-4,6,4,1,0,Completed,true,false,false
+UA015131,29 Oct 23,13,Royal Ave Green,Hurlingham Park Blue,No. 3,Dylan Keyvanloo,Henry Bull,Henry Bull,2-6,2,6,0,1,Completed,true,false,false
+UA015131,29 Oct 23,13,Royal Ave Green,Hurlingham Park Blue,No. 4,Johnny Chew,Angus O'Neil,Johnny Chew,6-1,6,1,1,0,Completed,true,false,false
+UA015132,29 Oct 23,13,Kooyong,Elsternwick Park,No. 1,Tara McAuley,Laura Leunar,Laura Leunar,0-6,0,6,0,1,Completed,true,false,false
+UA015132,29 Oct 23,13,Kooyong,Elsternwick Park,No. 2,Harper Barons,Giorgio Colla,Giorgio Colla,1-6,1,6,0,1,Completed,true,false,false
+UA015132,29 Oct 23,13,Kooyong,Elsternwick Park,No. 3,William Stevens,Hamish Pendred,Hamish Pendred,4-6,4,6,0,1,Completed,true,false,false
+UA015132,29 Oct 23,13,Kooyong,Elsternwick Park,No. 4,Sienna Lang,Noa Preston,Sienna Lang,6-1,6,1,1,0,Completed,true,true,false
+UA015133,29 Oct 23,13,Hurlingham Park Red,Royal Ave Purple,No. 1,Anastasia Turner,James Broome,James Broome,3-6,3,6,0,1,Completed,true,false,false
+UA015133,29 Oct 23,13,Hurlingham Park Red,Royal Ave Purple,No. 2,Eva Moralis,Charlie Snell,Eva Moralis,7-6,7,6,1,0,Completed,true,false,false
+UA015133,29 Oct 23,13,Hurlingham Park Red,Royal Ave Purple,No. 3,Estelle Giftakis,Tasman Hall,Tasman Hall,0-6,0,6,0,1,Completed,true,false,false
+UA015133,29 Oct 23,13,Hurlingham Park Red,Royal Ave Purple,No. 4,Indigo Rubin,Sami Papadiimitriou,Sami Papadiimitriou,4-6,4,6,0,1,Completed,true,false,false
+UA015134,29 Oct 23,13,Le Page,Dendy Park,No. 1,Diego Fernando,Aryamaan Kumar,Aryamaan Kumar,0-6,0,6,0,1,Completed,true,false,false
+UA015134,29 Oct 23,13,Le Page,Dendy Park,No. 2,Tome Lazic,Tobias Maddams,Tobias Maddams,2-6,2,6,0,1,Completed,true,false,false
+UA015134,29 Oct 23,13,Le Page,Dendy Park,No. 3,Leon Sukuan Li,[Unnamed player — TROLS UA015134 away code 3],Leon Sukuan Li,6-0,6,0,1,0,Completed,false,false,false
+UA015134,29 Oct 23,13,Le Page,Dendy Park,No. 4,Mitchell Loimaranta,Jack Loffel,Jack Loffel,0-6,0,6,0,1,Completed,true,true,false
+UA015141,12 Nov 23,14,Royal Ave Green,Kooyong,No. 1,Charlie Vakrinos,Stephanie Forsyth,Charlie Vakrinos,6-1,6,1,1,0,Completed,true,false,false
+UA015141,12 Nov 23,14,Royal Ave Green,Kooyong,No. 2,Kosta Vakrinos,Tara McAuley,Kosta Vakrinos,6-4,6,4,1,0,Completed,true,false,false
+UA015141,12 Nov 23,14,Royal Ave Green,Kooyong,No. 3,Dylan Keyvanloo,Henry Moore,Henry Moore,2-6,2,6,0,1,Completed,true,false,false
+UA015141,12 Nov 23,14,Royal Ave Green,Kooyong,No. 4,Johnny Chew,William Stevens,William Stevens,3-6,3,6,0,1,Completed,true,false,false
+UA015142,12 Nov 23,14,Elsternwick Park,Hurlingham Park Blue,No. 1,Laura Leunar,Benjamin Krodkiewski,Benjamin Krodkiewski,0-6,0,6,0,1,Completed,true,false,false
+UA015142,12 Nov 23,14,Elsternwick Park,Hurlingham Park Blue,No. 2,Charlie Chidlow,Callum Angell,Callum Angell,5-7,5,7,0,1,Completed,true,false,false
+UA015142,12 Nov 23,14,Elsternwick Park,Hurlingham Park Blue,No. 3,Giorgio Colla,Eden Morehu,Giorgio Colla,6-0,6,0,1,0,Completed,true,false,false
+UA015142,12 Nov 23,14,Elsternwick Park,Hurlingham Park Blue,No. 4,Hamish Pendred,Angus O'Neil,Hamish Pendred,6-1,6,1,1,0,Completed,true,false,false
+UA015143,12 Nov 23,14,Hurlingham Park Red,Le Page,No. 1,Anastasia Turner,Diego Fernando,Anastasia Turner,6-2,6,2,1,0,Completed,true,false,false
+UA015143,12 Nov 23,14,Hurlingham Park Red,Le Page,No. 2,Eva Moralis,Tome Lazic,Tome Lazic,2-6,2,6,0,1,Completed,true,false,false
+UA015143,12 Nov 23,14,Hurlingham Park Red,Le Page,No. 3,Isabelle Schiavello,Leon Sukuan Li,Isabelle Schiavello,6-2,6,2,1,0,Completed,true,false,false
+UA015143,12 Nov 23,14,Hurlingham Park Red,Le Page,No. 4,Indigo Rubin,Sascha Whitelaw,Sascha Whitelaw,2-6,2,6,0,1,Completed,true,false,false
+UA015144,12 Nov 23,14,Dendy Park,Royal Ave Purple,No. 1,Aryamaan Kumar,Max Hunt,Aryamaan Kumar,6-0,6,0,1,0,Completed,true,false,false
+UA015144,12 Nov 23,14,Dendy Park,Royal Ave Purple,No. 2,Tobias Maddams,Stuart Hunt,Tobias Maddams,6-0,6,0,1,0,Completed,true,false,false
+UA015144,12 Nov 23,14,Dendy Park,Royal Ave Purple,No. 3,Jake Bloom,Sonny Baker,Jake Bloom,6-4,6,4,1,0,Completed,true,false,true
+UA015144,12 Nov 23,14,Dendy Park,Royal Ave Purple,No. 4,Jack Loffel,Sebastian Snell,Sebastian Snell,2-6,2,6,0,1,Completed,true,false,true
+UA015301,,16,Dendy Park,Hurlingham Park Blue,No. 1,Aryamaan Kumar,Benjamin Krodkiewski,Aryamaan Kumar,6-1,6,1,1,0,Completed,true,false,false
+UA015301,,16,Dendy Park,Hurlingham Park Blue,No. 2,Tobias Maddams,Callum Angell,Tobias Maddams,6-1,6,1,1,0,Completed,true,false,false
+UA015301,,16,Dendy Park,Hurlingham Park Blue,No. 3,Jake Bloom,Henry Bull,Henry Bull,4-6,4,6,0,1,Completed,true,false,false
+UA015301,,16,Dendy Park,Hurlingham Park Blue,No. 4,Jack Loffel,Angus O'Neil,Angus O'Neil,3-6,3,6,0,1,Completed,true,false,false
+UA015302,,16,Royal Ave Green,Elsternwick Park,No. 1,Sonny Baker,Laura Leunar,Sonny Baker,6-3,6,3,1,0,Completed,true,false,false
+UA015302,,16,Royal Ave Green,Elsternwick Park,No. 2,Charlie Vakrinos,Charlie Chidlow,Charlie Vakrinos,6-1,6,1,1,0,Completed,true,false,false
+UA015302,,16,Royal Ave Green,Elsternwick Park,No. 3,Kosta Vakrinos,Giorgio Colla,Giorgio Colla,1-6,1,6,0,1,Completed,true,false,false
+UA015302,,16,Royal Ave Green,Elsternwick Park,No. 4,Sebastian Snell,Noa Preston,Sebastian Snell,6-3,6,3,1,0,Completed,true,false,false
+UA015321,,17,Royal Ave Green,Hurlingham Park Blue,No. 1,Sonny Baker,Benjamin Krodkiewski,Benjamin Krodkiewski,0-6,0,6,0,1,Completed,true,false,false
+UA015321,,17,Royal Ave Green,Hurlingham Park Blue,No. 2,Charlie Vakrinos,Callum Angell,Charlie Vakrinos,6-1,6,1,1,0,Completed,true,false,false
+UA015321,,17,Royal Ave Green,Hurlingham Park Blue,No. 3,Kosta Vakrinos,Freddie Williams,Kosta Vakrinos,7-5,7,5,1,0,Completed,true,false,false
+UA015321,,17,Royal Ave Green,Hurlingham Park Blue,No. 4,Sebastian Snell,Henry Bull,Henry Bull,3-6,3,6,0,1,Completed,true,false,false

@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA017011,21 Jul 24,1,regular,Round 1,Hurlingham Park,St Pats Mentone,9,1,5,1,,,34,19,Completed,
+UA017012,21 Jul 24,1,regular,Round 1,GPHC Blue,GPHC Yellow,1,9,1,5,,,23,34,Completed,
+UA017013,21 Jul 24,1,regular,Round 1,Maccabi,Beaumaris CC,1,9,1,5,,,17,34,Completed,
+pending-ua017-r1-royal-ave-bye,21 Jul 24,1,regular,Round 1,Royal Ave,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017024,28 Jul 24,2,regular,Round 2,Beaumaris CC,Royal Ave,9,1,5,1,,,31,9,Completed,
+pending-ua017-r2-bye-hurlingham-park,28 Jul 24,2,regular,Round 2,Bye,Hurlingham Park,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua017-r2-gphc-yellow-maccabi,28 Jul 24,2,regular,Round 2,GPHC Yellow,Maccabi,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua017-r2-st-pats-mentone-gphc-blue,28 Jul 24,2,regular,Round 2,St Pats Mentone,GPHC Blue,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA017031,04 Aug 24,3,regular,Round 3,Hurlingham Park,Beaumaris CC,3,7,3,3,,,29,30,Completed,
+UA017033,04 Aug 24,3,regular,Round 3,Maccabi,St Pats Mentone,1,3,1,3,,,15,23,Completed,
+UA017034,04 Aug 24,3,regular,Round 3,Royal Ave,GPHC Yellow,0,10,0,6,,,9,36,Completed,
+pending-ua017-r3-gphc-blue-bye,04 Aug 24,3,regular,Round 3,GPHC Blue,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017041,11 Aug 24,4,regular,Round 4,GPHC Yellow,Hurlingham Park,10,0,6,0,,,37,16,Completed,
+UA017042,11 Aug 24,4,regular,Round 4,Beaumaris CC,GPHC Blue,8,2,4,2,,,29,19,Completed,
+UA017044,11 Aug 24,4,regular,Round 4,St Pats Mentone,Royal Ave,2,8,2,4,,,29,29,Completed,
+pending-ua017-r4-bye-maccabi,11 Aug 24,4,regular,Round 4,Bye,Maccabi,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017051,18 Aug 24,5,regular,Round 5,Maccabi,Royal Ave,2,8,2,4,,,32,31,Completed,
+UA017053,18 Aug 24,5,regular,Round 5,GPHC Yellow,St Pats Mentone,10,0,6,0,,,36,10,Completed,
+UA017054,18 Aug 24,5,regular,Round 5,Hurlingham Park,GPHC Blue,7,3,3,3,,,27,26,Completed,
+pending-ua017-r5-bye-beaumaris-cc,18 Aug 24,5,regular,Round 5,Bye,Beaumaris CC,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017061,25 Aug 24,6,regular,Round 6,GPHC Blue,Maccabi,9,1,5,1,,,34,8,Completed,
+UA017062,25 Aug 24,6,regular,Round 6,Royal Ave,Hurlingham Park,1,9,1,5,,,19,33,Completed,
+UA017063,25 Aug 24,6,regular,Round 6,Beaumaris CC,GPHC Yellow,8,2,4,2,,,28,23,Completed,
+pending-ua017-r6-st-pats-mentone-bye,25 Aug 24,6,regular,Round 6,St Pats Mentone,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017071,01 Sep 24,7,regular,Round 7,Hurlingham Park,Maccabi,9,1,5,1,,,32,15,Completed,
+UA017072,01 Sep 24,7,regular,Round 7,GPHC Blue,Royal Ave,8,2,4,2,,,32,14,Completed,
+UA017074,01 Sep 24,7,regular,Round 7,Beaumaris CC,St Pats Mentone,9,1,5,1,,,32,16,Completed,
+pending-ua017-r7-bye-gphc-yellow,01 Sep 24,7,regular,Round 7,Bye,GPHC Yellow,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017081,08 Sep 24,8,regular,Round 8,St Pats Mentone,Hurlingham Park,0,10,0,6,,,13,36,Completed,
+UA017082,08 Sep 24,8,regular,Round 8,GPHC Yellow,GPHC Blue,9,1,5,1,,,33,18,Completed,
+UA017083,08 Sep 24,8,regular,Round 8,Beaumaris CC,Maccabi,9,1,5,1,,,33,13,Completed,
+pending-ua017-r8-bye-royal-ave,08 Sep 24,8,regular,Round 8,Bye,Royal Ave,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017092,15 Sep 24,9,regular,Round 9,GPHC Blue,St Pats Mentone,9,1,5,1,,,35,15,Completed,
+UA017093,15 Sep 24,9,regular,Round 9,Maccabi,GPHC Yellow,3,7,3,3,,,28,33,Completed,
+UA017094,15 Sep 24,9,regular,Round 9,Royal Ave,Beaumaris CC,2,8,2,4,,,15,25,Completed,
+pending-ua017-r9-hurlingham-park-bye,15 Sep 24,9,regular,Round 9,Hurlingham Park,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017101,13 Oct 24,10,regular,Round 10,Beaumaris CC,Hurlingham Park,9,1,5,1,,,32,20,Completed,
+UA017103,13 Oct 24,10,regular,Round 10,St Pats Mentone,Maccabi,8,2,4,2,,,28,24,Completed,
+UA017104,13 Oct 24,10,regular,Round 10,GPHC Yellow,Royal Ave,8,2,4,2,,,32,23,Completed,
+pending-ua017-r10-bye-gphc-blue,13 Oct 24,10,regular,Round 10,Bye,GPHC Blue,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017111,20 Oct 24,11,regular,Round 11,Hurlingham Park,GPHC Yellow,3,7,3,3,,,29,30,Completed,
+UA017112,20 Oct 24,11,regular,Round 11,GPHC Blue,Beaumaris CC,3,7,3,3,,,22,24,Completed,
+UA017114,20 Oct 24,11,regular,Round 11,Royal Ave,St Pats Mentone,7,3,3,3,,,21,19,Completed,
+pending-ua017-r11-maccabi-bye,20 Oct 24,11,regular,Round 11,Maccabi,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017121,27 Oct 24,12,regular,Round 12,Royal Ave,Maccabi,3,7,3,3,,,26,27,Completed,
+UA017123,27 Oct 24,12,regular,Round 12,St Pats Mentone,GPHC Yellow,2,8,2,4,,,19,31,Completed,
+UA017124,27 Oct 24,12,regular,Round 12,GPHC Blue,Hurlingham Park,9,1,5,1,,,32,21,Completed,
+pending-ua017-r12-beaumaris-cc-bye,27 Oct 24,12,regular,Round 12,Beaumaris CC,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017131,10 Nov 24,13,regular,Round 13,Maccabi,GPHC Blue,1,9,1,5,,,14,30,Completed,
+UA017132,10 Nov 24,13,regular,Round 13,Hurlingham Park,Royal Ave,9,1,5,1,,,37,19,Completed,
+UA017133,10 Nov 24,13,regular,Round 13,GPHC Yellow,Beaumaris CC,8,2,4,2,,,31,26,Completed,
+pending-ua017-r13-bye-st-pats-mentone,10 Nov 24,13,regular,Round 13,Bye,St Pats Mentone,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017141,17 Nov 24,14,regular,Round 14,Maccabi,Hurlingham Park,1,9,1,5,,,20,35,Completed,
+UA017142,17 Nov 24,14,regular,Round 14,Royal Ave,GPHC Blue,1,9,1,5,,,9,30,Completed,
+pending-ua017-r14-gphc-yellow-bye,17 Nov 24,14,regular,Round 14,GPHC Yellow,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua017-r14-st-pats-mentone-beaumaris-cc,17 Nov 24,14,regular,Round 14,St Pats Mentone,Beaumaris CC,,,,,,,,,Forfeited To,No individual scorecard / no rubbers recorded
+UA017301,,16,semi_final,Semi-final,Beaumaris CC,GPHC Blue,3,7,3,3,,,31,32,Completed,
+UA017302,,16,semi_final,Semi-final,GPHC Yellow,Hurlingham Park,9,1,5,1,,,36,27,Completed,
+UA017321,,17,grand_final,Grand final · TROLS entry 2,GPHC Yellow,GPHC Blue,9,1,5,1,,,36,19,Completed,

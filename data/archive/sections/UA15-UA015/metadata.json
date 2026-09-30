@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA15-UA015",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2014",
+  "season_id": "UA15",
+  "season_label": "Spring 2014",
+  "source_section_code": "UA015",
+  "section_label": "Section 15",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Lauriston",
+      "wins": 10,
+      "points": 91,
+      "percentage": 152.0,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Mentone",
+      "wins": 8,
+      "points": 82,
+      "percentage": 141.13,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Beaumaris CC",
+      "wins": 7,
+      "points": 77,
+      "percentage": 143.78,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 6,
+      "points": 59,
+      "percentage": 97.13,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Maccabi 1",
+      "wins": 4,
+      "points": 49,
+      "percentage": 83.93,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park",
+      "wins": 1,
+      "points": 40,
+      "percentage": 72.76,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Maccabi 2",
+      "wins": 1,
+      "points": 22,
+      "percentage": 50.91,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA15-UA015",
+  "fixtures": 59,
+  "completed_fixtures": 40,
+  "draw_fixtures": 59,
+  "singles_rubbers": 160,
+  "doubles_rubbers": 80,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

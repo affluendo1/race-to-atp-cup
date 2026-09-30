@@ -1,0 +1,185 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA006011,31 Jan 21,1,BLTC Bodley,Mordialloc,No. 1,Hamish Roberts,Aariyon Gokhale,Hamish Roberts,6-1,6,1,1,0,Completed,true,false,false
+UA006011,31 Jan 21,1,BLTC Bodley,Mordialloc,No. 2,George Fennessy,Nicholas Kircher-Wilson,Nicholas Kircher-Wilson,2-6,2,6,0,1,Completed,true,false,false
+UA006011,31 Jan 21,1,BLTC Bodley,Mordialloc,No. 3,Anirudh Hariram,Diesel Reich,Diesel Reich,2-6,2,6,0,1,Completed,true,false,false
+UA006011,31 Jan 21,1,BLTC Bodley,Mordialloc,No. 4,Stevan Dakic,Zeke Stainthorpe,Stevan Dakic,6-2,6,2,1,0,Completed,true,false,false
+UA006012,31 Jan 21,1,Royal Ave,Hurlingham Park,No. 1,Tess Dargan,Jerry Zhang,Jerry Zhang,6-7,6,7,0,1,Completed,true,false,false
+UA006012,31 Jan 21,1,Royal Ave,Hurlingham Park,No. 2,Luke Cowie,Cooper Graham,Luke Cowie,6-1,6,1,1,0,Completed,true,false,false
+UA006012,31 Jan 21,1,Royal Ave,Hurlingham Park,No. 3,Anthony Pain,Daniel Deguara,Anthony Pain,6-4,6,4,1,0,Completed,true,false,false
+UA006012,31 Jan 21,1,Royal Ave,Hurlingham Park,No. 4,Ethan Pham,Angus Haddon,Ethan Pham,6-2,6,2,1,0,Completed,true,false,false
+UA006013,31 Jan 21,1,GPHC,Coatesville,No. 1,Conor Boussioutas,Thomas Rossi,Thomas Rossi,0-6,0,6,0,1,Completed,true,false,false
+UA006013,31 Jan 21,1,GPHC,Coatesville,No. 2,Sebastion Joseph,Jonah Dela Cruz,Jonah Dela Cruz,4-6,4,6,0,1,Completed,true,true,false
+UA006013,31 Jan 21,1,GPHC,Coatesville,No. 3,Will McCarthy,Charlie Wang,Will McCarthy,7-5,7,5,1,0,Completed,true,false,false
+UA006013,31 Jan 21,1,GPHC,Coatesville,No. 4,Sophie Hart,Kewen Zheng,Kewen Zheng,3-6,3,6,0,1,Completed,true,false,false
+UA006014,31 Jan 21,1,Lauriston,Black Rock,No. 1,Lucas Nenke,Lewis Smith,Lucas Nenke,6-1,6,1,1,0,Completed,true,false,false
+UA006014,31 Jan 21,1,Lauriston,Black Rock,No. 2,Leonie Miller,Max Leeds,Max Leeds,1-6,1,6,0,1,Completed,true,false,false
+UA006014,31 Jan 21,1,Lauriston,Black Rock,No. 3,Isabelle Nazaretian,Connor Tasci,Isabelle Nazaretian,6-3,6,3,1,0,Completed,true,false,false
+UA006014,31 Jan 21,1,Lauriston,Black Rock,No. 4,Jessica Volpert,Harvey Lansley,Harvey Lansley,1-6,1,6,0,1,Completed,true,false,false
+UA006021,07 Feb 21,2,Black Rock,BLTC Bodley,No. 1,Lewis Smith,Hamish Roberts,Hamish Roberts,1-6,1,6,0,1,Completed,true,false,false
+UA006021,07 Feb 21,2,Black Rock,BLTC Bodley,No. 2,Max Leeds,George Fennessy,Max Leeds,6-3,6,3,1,0,Completed,true,false,false
+UA006021,07 Feb 21,2,Black Rock,BLTC Bodley,No. 3,Harvey Lansley,Stevan Dakic,Stevan Dakic,1-6,1,6,0,1,Completed,true,false,false
+UA006021,07 Feb 21,2,Black Rock,BLTC Bodley,No. 4,Aryan Palai,Freddie Liu,Aryan Palai,6-0,6,0,1,0,Completed,true,true,false
+UA006022,07 Feb 21,2,Mordialloc,Royal Ave,No. 1,Aariyon Gokhale,Luke Cowie,Luke Cowie,6-7,6,7,0,1,Completed,true,false,false
+UA006022,07 Feb 21,2,Mordialloc,Royal Ave,No. 2,Nicholas Kircher-Wilson,Anthony Pain,Anthony Pain,3-6,3,6,0,1,Completed,true,false,false
+UA006022,07 Feb 21,2,Mordialloc,Royal Ave,No. 3,Diesel Reich,Ethan Pham,Diesel Reich,6-0,6,0,1,0,Completed,true,false,false
+UA006022,07 Feb 21,2,Mordialloc,Royal Ave,No. 4,Zeke Stainthorpe,William Farrugia,Zeke Stainthorpe,7-6,7,6,1,0,Completed,true,false,true
+UA006023,07 Feb 21,2,Hurlingham Park,GPHC,No. 1,Jerry Zhang,Conor Boussioutas,Jerry Zhang,6-4,6,4,1,0,Completed,true,false,false
+UA006023,07 Feb 21,2,Hurlingham Park,GPHC,No. 2,Michal Forenciwz,Emily Retschko,Michal Forenciwz,6-1,6,1,1,0,Completed,true,false,false
+UA006023,07 Feb 21,2,Hurlingham Park,GPHC,No. 3,Cooper Graham,Natalya Kay,Natalya Kay,1-6,1,6,0,1,Completed,true,false,false
+UA006023,07 Feb 21,2,Hurlingham Park,GPHC,No. 4,Luke McKenzie,Sophie Hart,Sophie Hart,4-6,4,6,0,1,Completed,true,true,false
+UA006024,07 Feb 21,2,Coatesville,Lauriston,No. 1,Nicholas Dela Cruz,Lucas Nenke,Lucas Nenke,0-6,0,6,0,1,Completed,true,false,false
+UA006024,07 Feb 21,2,Coatesville,Lauriston,No. 2,Jonah Dela Cruz,Leonie Miller,Jonah Dela Cruz,7-5,7,5,1,0,Completed,true,false,false
+UA006024,07 Feb 21,2,Coatesville,Lauriston,No. 3,Charlie Wang,Isabelle Nazaretian,Charlie Wang,7-6,7,6,1,0,Completed,true,false,false
+UA006024,07 Feb 21,2,Coatesville,Lauriston,No. 4,Kewen Zheng,Jessica Volpert,Kewen Zheng,6-1,6,1,1,0,Completed,true,false,false
+UA006041,21 Feb 21,4,Hurlingham Park,BLTC Bodley,No. 1,Jerry Zhang,Hamish Roberts,Hamish Roberts,1-6,1,6,0,1,Completed,true,false,false
+UA006041,21 Feb 21,4,Hurlingham Park,BLTC Bodley,No. 2,Michal Forenciwz,George Fennessy,George Fennessy,4-6,4,6,0,1,Completed,true,false,false
+UA006041,21 Feb 21,4,Hurlingham Park,BLTC Bodley,No. 3,Angus Haddon,Stevan Dakic,Stevan Dakic,2-6,2,6,0,1,Completed,true,false,false
+UA006041,21 Feb 21,4,Hurlingham Park,BLTC Bodley,No. 4,William Schiavello,Freddie Liu,Freddie Liu,3-6,3,6,0,1,Completed,true,false,false
+UA006042,21 Feb 21,4,Coatesville,Royal Ave,No. 1,Thomas Rossi,Tess Dargan,Thomas Rossi,6-1,6,1,1,0,Completed,true,false,false
+UA006042,21 Feb 21,4,Coatesville,Royal Ave,No. 2,Nicholas Dela Cruz,Luke Cowie,Luke Cowie,1-6,1,6,0,1,Completed,true,false,false
+UA006042,21 Feb 21,4,Coatesville,Royal Ave,No. 3,Charlie Wang,Anthony Pain,Charlie Wang,7-5,7,5,1,0,Completed,true,false,false
+UA006042,21 Feb 21,4,Coatesville,Royal Ave,No. 4,Kewen Zheng,Ethan Pham,Ethan Pham,4-6,4,6,0,1,Completed,true,false,false
+UA006043,21 Feb 21,4,Black Rock,GPHC,No. 1,Max Leeds,Conor Boussioutas,Max Leeds,6-3,6,3,1,0,Completed,true,false,false
+UA006043,21 Feb 21,4,Black Rock,GPHC,No. 2,Lewis Smith,Emily Retschko,Lewis Smith,6-2,6,2,1,0,Completed,true,false,false
+UA006043,21 Feb 21,4,Black Rock,GPHC,No. 3,Connor Tasci,Will McCarthy,Will McCarthy,3-6,3,6,0,1,Completed,true,false,false
+UA006043,21 Feb 21,4,Black Rock,GPHC,No. 4,Harvey Lansley,Sophie Hart,Sophie Hart,3-6,3,6,0,1,Completed,true,false,false
+UA006044,21 Feb 21,4,Mordialloc,Lauriston,No. 1,Aariyon Gokhale,Lucas Nenke,Lucas Nenke,5-7,5,7,0,1,Completed,true,false,false
+UA006044,21 Feb 21,4,Mordialloc,Lauriston,No. 2,Nicholas Kircher-Wilson,Leonie Miller,Nicholas Kircher-Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA006044,21 Feb 21,4,Mordialloc,Lauriston,No. 3,Diesel Reich,Isabelle Nazaretian,Diesel Reich,6-0,6,0,1,0,Completed,true,false,false
+UA006044,21 Feb 21,4,Mordialloc,Lauriston,No. 4,Zeke Stainthorpe,Jessica Volpert,Zeke Stainthorpe,6-1,6,1,1,0,Completed,true,false,false
+UA006051,28 Feb 21,5,GPHC,Lauriston,No. 1,Natalya Kay,Lucas Nenke,Lucas Nenke,1-6,1,6,0,1,Completed,true,false,false
+UA006051,28 Feb 21,5,GPHC,Lauriston,No. 2,Sebastion Joseph,Leonie Miller,Leonie Miller,4-6,4,6,0,1,Completed,true,true,false
+UA006051,28 Feb 21,5,GPHC,Lauriston,No. 3,Will McCarthy,Freya Matthews,Freya Matthews,1-6,1,6,0,1,Completed,true,false,true
+UA006051,28 Feb 21,5,GPHC,Lauriston,No. 4,James McGrath,Isabelle Nazaretian,Isabelle Nazaretian,2-6,2,6,0,1,Completed,true,true,false
+UA006052,28 Feb 21,5,Black Rock,Coatesville,No. 1,Max Leeds,Thomas Rossi,Max Leeds,6-4,6,4,1,0,Completed,true,false,false
+UA006052,28 Feb 21,5,Black Rock,Coatesville,No. 2,Lewis Smith,Nicholas Dela Cruz,Lewis Smith,6-2,6,2,1,0,Completed,true,false,false
+UA006052,28 Feb 21,5,Black Rock,Coatesville,No. 3,Connor Tasci,Jonah Dela Cruz,Jonah Dela Cruz,3-6,3,6,0,1,Completed,true,false,false
+UA006052,28 Feb 21,5,Black Rock,Coatesville,No. 4,Harvey Lansley,Kewen Zheng,Harvey Lansley,6-1,6,1,1,0,Completed,true,false,false
+UA006053,28 Feb 21,5,Hurlingham Park,Mordialloc,No. 1,Jerry Zhang,Aariyon Gokhale,Jerry Zhang,6-3,6,3,1,0,Completed,true,false,false
+UA006053,28 Feb 21,5,Hurlingham Park,Mordialloc,No. 2,Cooper Graham,Nicholas Kircher-Wilson,Nicholas Kircher-Wilson,3-6,3,6,0,1,Completed,true,false,false
+UA006053,28 Feb 21,5,Hurlingham Park,Mordialloc,No. 3,Angus Haddon,Justin Li,Angus Haddon,6-1,6,1,1,0,Completed,true,false,false
+UA006053,28 Feb 21,5,Hurlingham Park,Mordialloc,No. 4,William Schiavello,Diesel Reich,Diesel Reich,1-6,1,6,0,1,Completed,true,false,false
+UA006054,28 Feb 21,5,BLTC Bodley,Royal Ave,No. 1,Hamish Roberts,Tess Dargan,Hamish Roberts,6-2,6,2,1,0,Completed,true,false,false
+UA006054,28 Feb 21,5,BLTC Bodley,Royal Ave,No. 2,Anirudh Hariram,Luke Cowie,Luke Cowie,3-6,3,6,0,1,Completed,true,false,false
+UA006054,28 Feb 21,5,BLTC Bodley,Royal Ave,No. 3,Stevan Dakic,Anthony Power,Stevan Dakic,6-2,6,2,1,0,Completed,true,false,true
+UA006054,28 Feb 21,5,BLTC Bodley,Royal Ave,No. 4,Freddie Liu,Ethan Pham,Ethan Pham,0-6,0,6,0,1,Completed,true,false,false
+UA006061,14 Mar 21,6,Royal Ave,GPHC,No. 1,Tess Dargan,Conor Boussioutas,Tess Dargan,6-2,6,2,1,0,Completed,true,false,false
+UA006061,14 Mar 21,6,Royal Ave,GPHC,No. 2,Luke Cowie,Emily Retschko,Luke Cowie,6-1,6,1,1,0,Completed,true,false,false
+UA006061,14 Mar 21,6,Royal Ave,GPHC,No. 3,Anthony Pain,Sebastion Joseph,Sebastion Joseph,3-6,3,6,0,1,Completed,true,false,true
+UA006061,14 Mar 21,6,Royal Ave,GPHC,No. 4,Ethan Pham,Will McCarthy,Ethan Pham,7-5,7,5,1,0,Completed,true,false,false
+UA006062,14 Mar 21,6,Lauriston,BLTC Bodley,No. 1,Lucas Nenke,Hamish Roberts,Lucas Nenke,7-5,7,5,1,0,Completed,true,false,false
+UA006062,14 Mar 21,6,Lauriston,BLTC Bodley,No. 2,Leonie Miller,George Fennessy,George Fennessy,3-6,3,6,0,1,Completed,true,false,false
+UA006062,14 Mar 21,6,Lauriston,BLTC Bodley,No. 3,Aaron Nazaretian,Stevan Dakic,Aaron Nazaretian,6-3,6,3,1,0,Completed,true,false,false
+UA006062,14 Mar 21,6,Lauriston,BLTC Bodley,No. 4,Isabelle Nazaretian,Freddie Liu,Isabelle Nazaretian,6-2,6,2,1,0,Completed,true,false,false
+UA006063,14 Mar 21,6,Coatesville,Hurlingham Park,No. 1,Thomas Rossi,Michal Forenciwz,Thomas Rossi,6-2,6,2,1,0,Completed,true,false,false
+UA006063,14 Mar 21,6,Coatesville,Hurlingham Park,No. 2,Nicholas Dela Cruz,Cooper Graham,Nicholas Dela Cruz,6-1,6,1,1,0,Completed,true,false,false
+UA006063,14 Mar 21,6,Coatesville,Hurlingham Park,No. 3,Jonah Dela Cruz,Daniel Deguara,Jonah Dela Cruz,6-2,6,2,1,0,Completed,true,false,false
+UA006063,14 Mar 21,6,Coatesville,Hurlingham Park,No. 4,Charlie Wang,Angus Haddon,Charlie Wang,6-2,6,2,1,0,Completed,true,false,false
+UA006064,14 Mar 21,6,Mordialloc,Black Rock,No. 1,Aariyon Gokhale,Max Leeds,Max Leeds,4-6,4,6,0,1,Completed,true,false,false
+UA006064,14 Mar 21,6,Mordialloc,Black Rock,No. 2,Nicholas Kircher-Wilson,Lewis Smith,Lewis Smith,4-6,4,6,0,1,Completed,true,false,false
+UA006064,14 Mar 21,6,Mordialloc,Black Rock,No. 3,Justin Li,Harvey Lansley,Harvey Lansley,2-6,2,6,0,1,Completed,true,false,false
+UA006064,14 Mar 21,6,Mordialloc,Black Rock,No. 4,Zeke Stainthorpe,Kai Takagi,Kai Takagi,1-6,1,6,0,1,Completed,true,false,true
+UA006071,21 Mar 21,7,BLTC Bodley,GPHC,No. 1,Hamish Roberts,Conor Boussioutas,Hamish Roberts,6-1,6,1,1,0,Completed,true,false,false
+UA006071,21 Mar 21,7,BLTC Bodley,GPHC,No. 2,George Fennessy,Emily Retschko,George Fennessy,6-3,6,3,1,0,Completed,true,false,false
+UA006071,21 Mar 21,7,BLTC Bodley,GPHC,No. 3,Anirudh Hariram,Sebastion Joseph,Anirudh Hariram,6-2,6,2,1,0,Completed,true,false,true
+UA006071,21 Mar 21,7,BLTC Bodley,GPHC,No. 4,Stevan Dakic,Sophie Hart,Stevan Dakic,6-0,6,0,1,0,Completed,true,false,false
+UA006072,21 Mar 21,7,Royal Ave,Lauriston,No. 1,Tess Dargan,Lucas Nenke,Lucas Nenke,4-6,4,6,0,1,Completed,true,false,false
+UA006072,21 Mar 21,7,Royal Ave,Lauriston,No. 2,Luke Cowie,Leonie Miller,Luke Cowie,6-0,6,0,1,0,Completed,true,false,false
+UA006072,21 Mar 21,7,Royal Ave,Lauriston,No. 3,Anthony Pain,Aaron Nazaretian,Aaron Nazaretian,0-6,0,6,0,1,Completed,true,false,false
+UA006072,21 Mar 21,7,Royal Ave,Lauriston,No. 4,Ethan Pham,Isabelle Nazaretian,Ethan Pham,6-2,6,2,1,0,Completed,true,false,false
+UA006073,21 Mar 21,7,Black Rock,Hurlingham Park,No. 1,Max Leeds,Jerry Zhang,Max Leeds,6-4,6,4,1,0,Completed,true,false,false
+UA006073,21 Mar 21,7,Black Rock,Hurlingham Park,No. 2,Lewis Smith,Michal Forenciwz,Lewis Smith,7-6,7,6,1,0,Completed,true,false,false
+UA006073,21 Mar 21,7,Black Rock,Hurlingham Park,No. 3,Connor Tasci,Cooper Graham,Cooper Graham,4-6,4,6,0,1,Completed,true,false,false
+UA006073,21 Mar 21,7,Black Rock,Hurlingham Park,No. 4,Harvey Lansley,Daniel Deguara,Daniel Deguara,4-6,4,6,0,1,Completed,true,false,false
+UA006081,28 Mar 21,8,Mordialloc,BLTC Bodley,No. 1,Aariyon Gokhale,Hamish Roberts,Hamish Roberts,3-6,3,6,0,1,Completed,true,false,false
+UA006081,28 Mar 21,8,Mordialloc,BLTC Bodley,No. 2,Nicholas Kircher-Wilson,George Fennessy,Nicholas Kircher-Wilson,7-5,7,5,1,0,Completed,true,false,false
+UA006081,28 Mar 21,8,Mordialloc,BLTC Bodley,No. 3,Justin Li,Anirudh Hariram,Anirudh Hariram,2-6,2,6,0,1,Completed,true,false,false
+UA006081,28 Mar 21,8,Mordialloc,BLTC Bodley,No. 4,Diesel Reich,Freddie Liu,Diesel Reich,6-1,6,1,1,0,Completed,true,false,false
+UA006082,28 Mar 21,8,Hurlingham Park,Royal Ave,No. 1,Michal Forenciwz,Anthony Pain,Michal Forenciwz,7-5,7,5,1,0,Completed,true,false,false
+UA006082,28 Mar 21,8,Hurlingham Park,Royal Ave,No. 2,Cooper Graham,Ethan Pham,Ethan Pham,2-6,2,6,0,1,Completed,true,false,false
+UA006082,28 Mar 21,8,Hurlingham Park,Royal Ave,No. 3,Angus Haddon,Harrison Moller,Harrison Moller,0-6,0,6,0,1,Completed,true,false,true
+UA006082,28 Mar 21,8,Hurlingham Park,Royal Ave,No. 4,Luke McKenzie,Declan Welch,Luke McKenzie,6-1,6,1,1,0,Completed,true,true,true
+UA006083,28 Mar 21,8,Coatesville,GPHC,No. 1,Thomas Rossi,Conor Boussioutas,Thomas Rossi,6-1,6,1,1,0,Completed,true,false,false
+UA006083,28 Mar 21,8,Coatesville,GPHC,No. 2,Jonah Dela Cruz,Will McCarthy,Jonah Dela Cruz,6-1,6,1,1,0,Completed,true,false,false
+UA006083,28 Mar 21,8,Coatesville,GPHC,No. 3,Charlie Wang,Sebastion Joseph,Charlie Wang,6-4,6,4,1,0,Completed,true,false,true
+UA006083,28 Mar 21,8,Coatesville,GPHC,No. 4,Kewen Zheng,Tom Scott,Kewen Zheng,6-0,6,0,1,0,Completed,true,false,false
+UA006084,28 Mar 21,8,Black Rock,Lauriston,No. 1,Max Leeds,Lucas Nenke,Lucas Nenke,2-6,2,6,0,1,Completed,true,false,false
+UA006084,28 Mar 21,8,Black Rock,Lauriston,No. 2,Lewis Smith,Leonie Miller,Lewis Smith,6-3,6,3,1,0,Completed,true,false,false
+UA006084,28 Mar 21,8,Black Rock,Lauriston,No. 3,Connor Tasci,Aaron Nazaretian,Aaron Nazaretian,1-6,1,6,0,1,Completed,true,false,false
+UA006084,28 Mar 21,8,Black Rock,Lauriston,No. 4,Harvey Lansley,Isabelle Nazaretian,Harvey Lansley,6-3,6,3,1,0,Completed,true,false,false
+UA006091,02 May 21,9,BLTC Bodley,Black Rock,No. 1,Hamish Roberts,Max Leeds,Hamish Roberts,7-6,7,6,1,0,Completed,true,false,false
+UA006091,02 May 21,9,BLTC Bodley,Black Rock,No. 2,George Fennessy,Lewis Smith,Lewis Smith,0-6,0,6,0,1,Completed,true,false,false
+UA006091,02 May 21,9,BLTC Bodley,Black Rock,No. 3,Anirudh Hariram,Connor Tasci,Connor Tasci,2-6,2,6,0,1,Completed,true,false,false
+UA006091,02 May 21,9,BLTC Bodley,Black Rock,No. 4,Freddie Liu,Harvey Lansley,Harvey Lansley,0-6,0,6,0,1,Completed,true,false,false
+UA006092,02 May 21,9,Royal Ave,Mordialloc,No. 1,Luke Cowie,Aariyon Gokhale,Luke Cowie,6-3,6,3,1,0,Completed,true,false,false
+UA006092,02 May 21,9,Royal Ave,Mordialloc,No. 2,Anthony Pain,Justin Li,Anthony Pain,7-5,7,5,1,0,Completed,true,false,false
+UA006092,02 May 21,9,Royal Ave,Mordialloc,No. 3,Ethan Pham,Diesel Reich,Diesel Reich,1-6,1,6,0,1,Completed,true,false,false
+UA006092,02 May 21,9,Royal Ave,Mordialloc,No. 4,Declan Welch,Zeke Stainthorpe,Zeke Stainthorpe,1-6,1,6,0,1,Completed,true,true,false
+UA006093,02 May 21,9,GPHC,Hurlingham Park,No. 1,Tom Scott,Michal Forenciwz,Tom Scott,6-2,6,2,1,0,Completed,true,false,false
+UA006093,02 May 21,9,GPHC,Hurlingham Park,No. 2,Emily Retschko,Angus Haddon,Angus Haddon,3-6,3,6,0,1,Completed,true,false,false
+UA006093,02 May 21,9,GPHC,Hurlingham Park,No. 3,Sebastion Joseph,William Schiavello,Sebastion Joseph,6-1,6,1,1,0,Completed,true,true,false
+UA006093,02 May 21,9,GPHC,Hurlingham Park,No. 4,Sophie Hart,Charlie Anderson,Charlie Anderson,0-6,0,6,0,1,Completed,true,false,true
+UA006094,02 May 21,9,Lauriston,Coatesville,No. 1,Lucas Nenke,Thomas Rossi,Lucas Nenke,6-1,6,1,1,0,Completed,true,false,false
+UA006094,02 May 21,9,Lauriston,Coatesville,No. 2,Leonie Miller,Nicholas Dela Cruz,Leonie Miller,7-6,7,6,1,0,Completed,true,false,false
+UA006094,02 May 21,9,Lauriston,Coatesville,No. 3,Aaron Nazaretian,Charlie Wang,Aaron Nazaretian,6-2,6,2,1,0,Completed,true,false,false
+UA006094,02 May 21,9,Lauriston,Coatesville,No. 4,Isabelle Nazaretian,Kewen Zheng,Kewen Zheng,4-6,4,6,0,1,Completed,true,false,false
+UA006101,09 May 21,10,Coatesville,BLTC Bodley,No. 1,Thomas Rossi,Hamish Roberts,Hamish Roberts,0-6,0,6,0,1,Completed,true,false,false
+UA006101,09 May 21,10,Coatesville,BLTC Bodley,No. 2,Nicholas Dela Cruz,George Fennessy,Nicholas Dela Cruz,6-2,6,2,1,0,Completed,true,false,false
+UA006101,09 May 21,10,Coatesville,BLTC Bodley,No. 3,Jonah Dela Cruz,Anirudh Hariram,Jonah Dela Cruz,6-2,6,2,1,0,Completed,true,false,false
+UA006101,09 May 21,10,Coatesville,BLTC Bodley,No. 4,Kewen Zheng,Stevan Dakic,Kewen Zheng,7-6,7,6,1,0,Completed,true,false,false
+UA006102,09 May 21,10,Black Rock,Royal Ave,No. 1,Lewis Smith,Tess Dargan,Lewis Smith,6-2,6,2,1,0,Completed,true,false,false
+UA006102,09 May 21,10,Black Rock,Royal Ave,No. 2,Connor Tasci,Luke Cowie,Luke Cowie,2-6,2,6,0,1,Completed,true,false,false
+UA006102,09 May 21,10,Black Rock,Royal Ave,No. 3,Harvey Lansley,Ethan Pham,Harvey Lansley,6-1,6,1,1,0,Completed,true,false,false
+UA006102,09 May 21,10,Black Rock,Royal Ave,No. 4,Joseph James Braithwaite,Declan Welch,Joseph James Braithwaite,6-0,6,0,1,0,Completed,true,true,true
+UA006103,09 May 21,10,Mordialloc,GPHC,No. 1,Nicholas Kircher-Wilson,Tom Scott,Nicholas Kircher-Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA006103,09 May 21,10,Mordialloc,GPHC,No. 2,Justin Li,Conor Boussioutas,Conor Boussioutas,2-6,2,6,0,1,Completed,true,false,false
+UA006103,09 May 21,10,Mordialloc,GPHC,No. 3,Diesel Reich,Sebastion Joseph,Diesel Reich,6-4,6,4,1,0,Completed,true,false,true
+UA006103,09 May 21,10,Mordialloc,GPHC,No. 4,Zeke Stainthorpe,Will McCarthy,Will McCarthy,2-6,2,6,0,1,Completed,true,false,false
+UA006104,09 May 21,10,Hurlingham Park,Lauriston,No. 1,Michal Forenciwz,Lucas Nenke,Lucas Nenke,3-6,3,6,0,1,Completed,true,false,false
+UA006104,09 May 21,10,Hurlingham Park,Lauriston,No. 2,Cooper Graham,Leonie Miller,Leonie Miller,0-6,0,6,0,1,Completed,true,false,false
+UA006104,09 May 21,10,Hurlingham Park,Lauriston,No. 3,Angus Haddon,Aaron Nazaretian,Aaron Nazaretian,3-6,3,6,0,1,Completed,true,false,false
+UA006104,09 May 21,10,Hurlingham Park,Lauriston,No. 4,William Schiavello,Isabelle Nazaretian,Isabelle Nazaretian,3-6,3,6,0,1,Completed,true,false,false
+UA006111,16 May 21,11,BLTC Bodley,Hurlingham Park,No. 1,Hamish Roberts,Michal Forenciwz,Hamish Roberts,6-1,6,1,1,0,Completed,true,false,false
+UA006111,16 May 21,11,BLTC Bodley,Hurlingham Park,No. 2,George Fennessy,Cooper Graham,George Fennessy,6-0,6,0,1,0,Completed,true,false,false
+UA006111,16 May 21,11,BLTC Bodley,Hurlingham Park,No. 3,Anirudh Hariram,Angus Haddon,Anirudh Hariram,6-2,6,2,1,0,Completed,true,false,false
+UA006111,16 May 21,11,BLTC Bodley,Hurlingham Park,No. 4,Stevan Dakic,William Schiavello,Stevan Dakic,6-3,6,3,1,0,Completed,true,false,false
+UA006112,16 May 21,11,Royal Ave,Coatesville,No. 1,Tess Dargan,Thomas Rossi,Thomas Rossi,1-6,1,6,0,1,Completed,true,false,false
+UA006112,16 May 21,11,Royal Ave,Coatesville,No. 2,Luke Cowie,Nicholas Dela Cruz,Nicholas Dela Cruz,0-6,0,6,0,1,Completed,true,false,false
+UA006112,16 May 21,11,Royal Ave,Coatesville,No. 3,Anthony Pain,Jonah Dela Cruz,Jonah Dela Cruz,2-6,2,6,0,1,Completed,true,false,false
+UA006112,16 May 21,11,Royal Ave,Coatesville,No. 4,Ethan Pham,Charlie Wang,Ethan Pham,6-1,6,1,1,0,Completed,true,false,false
+UA006113,16 May 21,11,GPHC,Black Rock,No. 1,Tom Scott,Max Leeds,Max Leeds,4-6,4,6,0,1,Completed,true,false,false
+UA006113,16 May 21,11,GPHC,Black Rock,No. 2,Sebastion Joseph,Connor Tasci,Connor Tasci,6-7,6,7,0,1,Completed,true,true,false
+UA006113,16 May 21,11,GPHC,Black Rock,No. 3,Will McCarthy,Harvey Lansley,Harvey Lansley,2-6,2,6,0,1,Completed,true,false,false
+UA006113,16 May 21,11,GPHC,Black Rock,No. 4,Sophie Hart,Angus Tweddle,Sophie Hart,6-2,6,2,1,0,Completed,true,false,false
+UA006114,16 May 21,11,Lauriston,Mordialloc,No. 1,Lucas Nenke,Aariyon Gokhale,Lucas Nenke,6-1,6,1,1,0,Completed,true,false,false
+UA006114,16 May 21,11,Lauriston,Mordialloc,No. 2,Leonie Miller,Nicholas Kircher-Wilson,Leonie Miller,7-5,7,5,1,0,Completed,true,false,false
+UA006114,16 May 21,11,Lauriston,Mordialloc,No. 3,Isabelle Nazaretian,Diesel Reich,Diesel Reich,1-6,1,6,0,1,Completed,true,false,false
+UA006114,16 May 21,11,Lauriston,Mordialloc,No. 4,Miah Khan,Zeke Stainthorpe,Zeke Stainthorpe,2-6,2,6,0,1,Completed,true,false,false
+UA006121,23 May 21,12,Lauriston,GPHC,No. 1,Lucas Nenke,Tom Scott,Lucas Nenke,6-3,6,3,1,0,Completed,true,false,false
+UA006121,23 May 21,12,Lauriston,GPHC,No. 2,Leonie Miller,Conor Boussioutas,Leonie Miller,6-4,6,4,1,0,Completed,true,false,false
+UA006121,23 May 21,12,Lauriston,GPHC,No. 3,Aaron Nazaretian,Emily Retschko,Aaron Nazaretian,6-1,6,1,1,0,Completed,true,false,false
+UA006121,23 May 21,12,Lauriston,GPHC,No. 4,Isabelle Nazaretian,Sebastion Joseph,Sebastion Joseph,2-6,2,6,0,1,Completed,true,false,true
+UA006122,23 May 21,12,Coatesville,Black Rock,No. 1,Nicholas Dela Cruz,Lewis Smith,Lewis Smith,4-6,4,6,0,1,Completed,true,false,false
+UA006122,23 May 21,12,Coatesville,Black Rock,No. 2,Jonah Dela Cruz,Connor Tasci,Jonah Dela Cruz,6-2,6,2,1,0,Completed,true,false,false
+UA006122,23 May 21,12,Coatesville,Black Rock,No. 3,Charlie Wang,Harvey Lansley,Harvey Lansley,3-6,3,6,0,1,Completed,true,false,false
+UA006122,23 May 21,12,Coatesville,Black Rock,No. 4,Kewen Zheng,Angus Tweddle,Kewen Zheng,6-2,6,2,1,0,Completed,true,false,false
+UA006123,23 May 21,12,Mordialloc,Hurlingham Park,No. 1,Aariyon Gokhale,Michal Forenciwz,Aariyon Gokhale,6-1,6,1,1,0,Completed,true,false,false
+UA006123,23 May 21,12,Mordialloc,Hurlingham Park,No. 2,Nicholas Kircher-Wilson,Cooper Graham,Nicholas Kircher-Wilson,6-0,6,0,1,0,Completed,true,false,false
+UA006123,23 May 21,12,Mordialloc,Hurlingham Park,No. 3,Justin Li,Angus Haddon,Justin Li,6-0,6,0,1,0,Completed,true,false,false
+UA006123,23 May 21,12,Mordialloc,Hurlingham Park,No. 4,Diesel Reich,William Schiavello,Diesel Reich,6-2,6,2,1,0,Completed,true,false,false
+UA006124,23 May 21,12,Royal Ave,BLTC Bodley,No. 1,Tess Dargan,Hamish Roberts,Hamish Roberts,4-6,4,6,0,1,Completed,true,false,false
+UA006124,23 May 21,12,Royal Ave,BLTC Bodley,No. 2,Luke Cowie,George Fennessy,George Fennessy,1-6,1,6,0,1,Completed,true,false,false
+UA006124,23 May 21,12,Royal Ave,BLTC Bodley,No. 3,Anthony Pain,Stevan Dakic,Stevan Dakic,4-6,4,6,0,1,Completed,true,false,false
+UA006124,23 May 21,12,Royal Ave,BLTC Bodley,No. 4,Ethan Pham,Freddie Liu,Ethan Pham,6-1,6,1,1,0,Completed,true,false,false
+UA006301,,16,Mordialloc,Black Rock,No. 1,Aariyon Gokhale,Max Leeds,Max Leeds,1-6,1,6,0,1,Completed,true,false,false
+UA006301,,16,Mordialloc,Black Rock,No. 2,Nicholas Kircher-Wilson,Lewis Smith,Lewis Smith,3-6,3,6,0,1,Completed,true,false,false
+UA006301,,16,Mordialloc,Black Rock,No. 3,Justin Li,Connor Tasci,Connor Tasci,5-7,5,7,0,1,Completed,true,false,false
+UA006301,,16,Mordialloc,Black Rock,No. 4,Diesel Reich,Harvey Lansley,Diesel Reich,6-1,6,1,1,0,Completed,true,false,false
+UA006302,,16,Coatesville,Lauriston,No. 1,Thomas Rossi,Lucas Nenke,Lucas Nenke,3-6,3,6,0,1,Completed,true,false,false
+UA006302,,16,Coatesville,Lauriston,No. 2,Nicholas Dela Cruz,Leonie Miller,Nicholas Dela Cruz,6-2,6,2,1,0,Completed,true,false,false
+UA006302,,16,Coatesville,Lauriston,No. 3,Jonah Dela Cruz,Aaron Nazaretian,Jonah Dela Cruz,6-1,6,1,1,0,Completed,true,false,false
+UA006302,,16,Coatesville,Lauriston,No. 4,Charlie Wang,Isabelle Nazaretian,Isabelle Nazaretian,4-6,4,6,0,1,Completed,true,false,false
+UA006321,,17,Mordialloc,Coatesville,No. 1,Aariyon Gokhale,Thomas Rossi,Thomas Rossi,5-7,5,7,0,1,Completed,true,false,false
+UA006321,,17,Mordialloc,Coatesville,No. 2,Nicholas Kircher-Wilson,Nicholas Dela Cruz,Nicholas Dela Cruz,4-6,4,6,0,1,Completed,true,false,false
+UA006321,,17,Mordialloc,Coatesville,No. 3,Diesel Reich,Jonah Dela Cruz,Diesel Reich,6-2,6,2,1,0,Completed,true,false,false
+UA006321,,17,Mordialloc,Coatesville,No. 4,Zeke Stainthorpe,Charlie Wang,Zeke Stainthorpe,6-3,6,3,1,0,Completed,true,false,false

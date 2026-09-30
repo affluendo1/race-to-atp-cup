@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA32-UA009",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2023",
+  "season_id": "UA32",
+  "season_label": "Autumn 2023",
+  "source_section_code": "UA009",
+  "section_label": "Section 9",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Parkdale",
+      "wins": 9,
+      "points": 90,
+      "percentage": 151.18,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Highmoor Uniting",
+      "wins": 8,
+      "points": 89,
+      "percentage": 130.29,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Elsternwick Park",
+      "wins": 6,
+      "points": 71,
+      "percentage": 107.33,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Dendy Park",
+      "wins": 5,
+      "points": 61,
+      "percentage": 91.84,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Lauriston",
+      "wins": 4,
+      "points": 59,
+      "percentage": 97.88,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Murrumbeena",
+      "wins": 4,
+      "points": 58,
+      "percentage": 88.59,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Maccabi",
+      "wins": 4,
+      "points": 54,
+      "percentage": 77.27,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "BLTC",
+      "wins": 1,
+      "points": 38,
+      "percentage": 77.31,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA32-UA009",
+  "fixtures": 55,
+  "completed_fixtures": 44,
+  "draw_fixtures": 59,
+  "singles_rubbers": 176,
+  "doubles_rubbers": 88,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

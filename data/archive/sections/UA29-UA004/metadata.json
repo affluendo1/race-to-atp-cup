@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA29-UA004",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2021",
+  "season_id": "UA29",
+  "season_label": "Spring 2021",
+  "source_section_code": "UA004",
+  "section_label": "Section 4",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Hurlingham Park",
+      "wins": 6,
+      "points": 83,
+      "percentage": 191.51,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Mordialloc",
+      "wins": 4,
+      "points": 63,
+      "percentage": 100.63,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Elsternwick Park",
+      "wins": 3,
+      "points": 62,
+      "percentage": 110.74,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Royal Ave",
+      "wins": 3,
+      "points": 61,
+      "percentage": 93.83,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 2,
+      "points": 54,
+      "percentage": 86.75,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal South Yarra",
+      "wins": 2,
+      "points": 54,
+      "percentage": 79.56,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Coatesville",
+      "wins": 0,
+      "points": 43,
+      "percentage": 72.31,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA29-UA004",
+  "fixtures": 56,
+  "completed_fixtures": 21,
+  "draw_fixtures": 56,
+  "singles_rubbers": 80,
+  "doubles_rubbers": 40,
+  "latest_round": 14,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

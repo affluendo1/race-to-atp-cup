@@ -1,0 +1,25 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA003011,02 Feb 20,1,regular,Round 1,BLTC,Dendy Park,2,8,2,4,,,24,31,Completed,
+UA003012,02 Feb 20,1,regular,Round 1,Kooyong,GPHC,1,9,1,5,,,17,31,Completed,
+UA003013,02 Feb 20,1,regular,Round 1,Royal Ave,St Joan of Arc,7,3,3,3,,,26,25,Completed,
+UA003014,02 Feb 20,1,regular,Round 1,Tennis World,Carmelite,2,8,2,4,,,16,27,Completed,
+UA003021,09 Feb 20,2,regular,Round 2,Carmelite,BLTC,9,1,5,1,,,32,18,Completed,
+UA003022,09 Feb 20,2,regular,Round 2,Dendy Park,Kooyong,9,1,5,1,,,36,23,Completed,
+UA003023,09 Feb 20,2,regular,Round 2,GPHC,Royal Ave,9,1,5,1,,,33,20,Completed,
+UA003024,09 Feb 20,2,regular,Round 2,St Joan of Arc,Tennis World,8,2,4,2,,,28,17,Completed,
+UA003031,16 Feb 20,3,regular,Round 3,BLTC,St Joan of Arc,0,10,0,6,,,11,36,Completed,
+UA003032,16 Feb 20,3,regular,Round 3,Kooyong,Carmelite,1,9,1,5,,,26,37,Completed,
+UA003033,16 Feb 20,3,regular,Round 3,Royal Ave,Dendy Park,8,2,4,2,,,29,23,Completed,
+UA003034,16 Feb 20,3,regular,Round 3,Tennis World,GPHC,2,8,2,4,,,20,34,Completed,
+UA003042,23 Feb 20,4,regular,Round 4,St Joan of Arc,Kooyong,8,2,4,2,,,29,20,Completed,
+UA003043,23 Feb 20,4,regular,Round 4,Carmelite,Royal Ave,9,1,5,1,,,34,13,Completed,
+UA003044,23 Feb 20,4,regular,Round 4,Dendy Park,Tennis World,8,2,4,2,,,28,14,Completed,
+pending-ua003-r4-gphc-bltc,23 Feb 20,4,regular,Round 4,GPHC,BLTC,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA003052,01 Mar 20,5,regular,Round 5,Carmelite,St Joan of Arc,8,2,4,2,,,31,24,Completed,
+UA003053,01 Mar 20,5,regular,Round 5,GPHC,Dendy Park,2,8,2,4,,,25,31,Completed,
+UA003054,01 Mar 20,5,regular,Round 5,BLTC,Kooyong,1,9,1,5,,,12,30,Completed,
+pending-ua003-r5-royal-ave-tennis-world,01 Mar 20,5,regular,Round 5,Royal Ave,Tennis World,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+pending-ua003-r6-dendy-park-carmelite,15 Mar 20,6,regular,Round 6,Dendy Park,Carmelite,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua003-r6-kooyong-royal-ave,15 Mar 20,6,regular,Round 6,Kooyong,Royal Ave,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua003-r6-st-joan-of-arc-gphc,15 Mar 20,6,regular,Round 6,St Joan of Arc,GPHC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua003-r6-tennis-world-bltc,15 Mar 20,6,regular,Round 6,Tennis World,BLTC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded

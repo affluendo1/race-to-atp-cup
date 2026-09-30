@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA31-UA006",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2022",
+  "season_id": "UA31",
+  "season_label": "Spring 2022",
+  "source_section_code": "UA006",
+  "section_label": "Section 6",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Hurlingham Park",
+      "wins": 10,
+      "points": 89,
+      "percentage": 121.15,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "St Joan of Arc",
+      "wins": 7,
+      "points": 74,
+      "percentage": 126.28,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Elsternwick Park Red",
+      "wins": 6,
+      "points": 62,
+      "percentage": 113.38,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "St James",
+      "wins": 7,
+      "points": 60,
+      "percentage": 89.02,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal South Yarra",
+      "wins": 6,
+      "points": 58,
+      "percentage": 100.97,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Caulfield Rec",
+      "wins": 5,
+      "points": 56,
+      "percentage": 103.44,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Coatesville",
+      "wins": 1,
+      "points": 21,
+      "percentage": 60.86,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA31-UA006",
+  "fixtures": 59,
+  "completed_fixtures": 45,
+  "draw_fixtures": 59,
+  "singles_rubbers": 180,
+  "doubles_rubbers": 90,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

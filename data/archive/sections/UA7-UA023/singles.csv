@@ -1,0 +1,207 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA023011,18 Jul 10,1,Glen Eira Pool,Hurlingham Park,No. 1,Lachlan Wyness,Asher Winn,Lachlan Wyness,6-2,6,2,1,0,Completed,true,false,false
+UA023011,18 Jul 10,1,Glen Eira Pool,Hurlingham Park,No. 2,Ilan Goldsmith,Nicholas Kelly,Ilan Goldsmith,6-2,6,2,1,0,Completed,true,false,false
+UA023011,18 Jul 10,1,Glen Eira Pool,Hurlingham Park,No. 3,Jordan Levitan,Nicholas Cheung,Jordan Levitan,6-0,6,0,1,0,Completed,true,false,false
+UA023011,18 Jul 10,1,Glen Eira Pool,Hurlingham Park,No. 4,David Sacho,Noah Harkins,David Sacho,6-1,6,1,1,0,Completed,true,false,false
+UA023012,18 Jul 10,1,Le Page,Mordialloc,No. 1,Josh Groves,Matt Parousiatis,Josh Groves,7-5,7,5,1,0,Completed,true,false,false
+UA023012,18 Jul 10,1,Le Page,Mordialloc,No. 2,Alex Lin,Daniel Lelekov,Alex Lin,6-2,6,2,1,0,Completed,true,false,false
+UA023012,18 Jul 10,1,Le Page,Mordialloc,No. 3,Adrian Zalega,Serge Krikun,Serge Krikun,1-6,1,6,0,1,Completed,true,false,false
+UA023012,18 Jul 10,1,Le Page,Mordialloc,No. 4,Cameron Dimmick,Chris Economu,Chris Economu,2-6,2,6,0,1,Completed,true,false,false
+UA023013,18 Jul 10,1,Kings Park,Kooyong Scotch,No. 1,Nathan Blamires,Nicholas Savage,Nathan Blamires,6-3,6,3,1,0,Completed,true,false,false
+UA023013,18 Jul 10,1,Kings Park,Kooyong Scotch,No. 2,Timothy Van Der Vevr,Lachlan Chan,Timothy Van Der Vevr,7-6,7,6,1,0,Completed,true,false,false
+UA023013,18 Jul 10,1,Kings Park,Kooyong Scotch,No. 3,Dylan Smith,James Hupert,Dylan Smith,7-5,7,5,1,0,Completed,true,false,false
+UA023013,18 Jul 10,1,Kings Park,Kooyong Scotch,No. 4,Thomas Diggerson,Lachlan Ewart,Thomas Diggerson,6-2,6,2,1,0,Completed,true,false,false
+UA023014,18 Jul 10,1,Tennis World,Maccabi,No. 1,Skye Srblin,Jamie Moshinsky,Jamie Moshinsky,2-6,2,6,0,1,Completed,true,false,false
+UA023014,18 Jul 10,1,Tennis World,Maccabi,No. 2,Emily Holgate,Jamie Muscatel,Jamie Muscatel,2-6,2,6,0,1,Completed,true,false,false
+UA023014,18 Jul 10,1,Tennis World,Maccabi,No. 3,Ben Glinka,Damon Flicker,Ben Glinka,6-2,6,2,1,0,Completed,true,false,false
+UA023014,18 Jul 10,1,Tennis World,Maccabi,No. 4,Ace Cooney,Jarryd Joffe,Ace Cooney,6-3,6,3,1,0,Completed,true,false,false
+UA023021,25 Jul 10,2,Maccabi,Glen Eira Pool,No. 1,Jamie Moshinsky,Lachlan Wyness,Lachlan Wyness,4-6,4,6,0,1,Completed,true,false,false
+UA023021,25 Jul 10,2,Maccabi,Glen Eira Pool,No. 2,Jamie Muscatel,[Unnamed emergency — TROLS UA023021 away code 2],Jamie Muscatel,6-0,6,0,1,0,Completed,false,false,true
+UA023021,25 Jul 10,2,Maccabi,Glen Eira Pool,No. 3,Damon Flicker,Ilan Goldsmith,Damon Flicker,6-1,6,1,1,0,Completed,true,false,false
+UA023021,25 Jul 10,2,Maccabi,Glen Eira Pool,No. 4,Jarryd Joffe,David Sacho,David Sacho,1-6,1,6,0,1,Completed,true,false,false
+UA023022,25 Jul 10,2,Hurlingham Park,Le Page,No. 1,Daniel Maloney,Josh Groves,Josh Groves,3-6,3,6,0,1,Completed,true,false,false
+UA023022,25 Jul 10,2,Hurlingham Park,Le Page,No. 2,Nicholas Kelly,Alex Lin,Alex Lin,2-6,2,6,0,1,Completed,true,false,false
+UA023022,25 Jul 10,2,Hurlingham Park,Le Page,No. 3,Noah Harkins,Adrian Zalega,Adrian Zalega,2-6,2,6,0,1,Completed,true,false,false
+UA023022,25 Jul 10,2,Hurlingham Park,Le Page,No. 4,Robert Fantozzi,Cameron Dimmick,Robert Fantozzi,6-2,6,2,1,0,Completed,true,false,false
+UA023023,25 Jul 10,2,Mordialloc,Kings Park,No. 1,Matt Parousiatis,Nathan Blamires,Nathan Blamires,2-6,2,6,0,1,Completed,true,false,false
+UA023023,25 Jul 10,2,Mordialloc,Kings Park,No. 2,Daniel Lelekov,Dylan Smith,Daniel Lelekov,6-4,6,4,1,0,Completed,true,false,false
+UA023023,25 Jul 10,2,Mordialloc,Kings Park,No. 3,Serge Krikun,Thomas Diggerson,Thomas Diggerson,6-7,6,7,0,1,Completed,true,false,false
+UA023023,25 Jul 10,2,Mordialloc,Kings Park,No. 4,Chris Economu,Adrian Hodgson,Chris Economu,6-1,6,1,1,0,Completed,true,false,false
+UA023024,25 Jul 10,2,Kooyong Scotch,Tennis World,No. 1,Lachlan Chan,Skye Srblin,Skye Srblin,2-6,2,6,0,1,Completed,true,false,false
+UA023024,25 Jul 10,2,Kooyong Scotch,Tennis World,No. 2,James Hupert,Jack Murphy,James Hupert,6-0,6,0,1,0,Completed,true,false,false
+UA023024,25 Jul 10,2,Kooyong Scotch,Tennis World,No. 3,Nicole Kaminsky,Emily Holgate,Emily Holgate,4-6,4,6,0,1,Completed,true,false,false
+UA023024,25 Jul 10,2,Kooyong Scotch,Tennis World,No. 4,Lachlan Ewart,David Robinson,David Robinson,0-6,0,6,0,1,Completed,true,false,false
+UA023041,08 Aug 10,4,Mordialloc,Glen Eira Pool,No. 1,Matt Parousiatis,Lachlan Wyness,Lachlan Wyness,3-6,3,6,0,1,Completed,true,false,false
+UA023041,08 Aug 10,4,Mordialloc,Glen Eira Pool,No. 2,Daniel Lelekov,Ilan Goldsmith,Daniel Lelekov,6-2,6,2,1,0,Completed,true,false,false
+UA023041,08 Aug 10,4,Mordialloc,Glen Eira Pool,No. 3,Serge Krikun,Jordan Levitan,Serge Krikun,6-1,6,1,1,0,Completed,true,false,false
+UA023041,08 Aug 10,4,Mordialloc,Glen Eira Pool,No. 4,Chris Economu,David Sacho,Chris Economu,7-5,7,5,1,0,Completed,true,false,false
+UA023042,08 Aug 10,4,Kooyong Scotch,Le Page,No. 1,Callum Bennet,Josh Groves,Callum Bennet,6-4,6,4,1,0,Completed,true,false,false
+UA023042,08 Aug 10,4,Kooyong Scotch,Le Page,No. 2,Lachlan Chan,Alex Lin,Alex Lin,2-6,2,6,0,1,Completed,true,false,false
+UA023042,08 Aug 10,4,Kooyong Scotch,Le Page,No. 3,Nicholas Savage,Adrian Zalega,Adrian Zalega,3-6,3,6,0,1,Completed,true,false,false
+UA023042,08 Aug 10,4,Kooyong Scotch,Le Page,No. 4,James Hupert,Cameron Dimmick,James Hupert,7-5,7,5,1,0,Completed,true,false,false
+UA023043,08 Aug 10,4,Maccabi,Kings Park,No. 1,Jamie Muscatel,Nathan Blamires,Jamie Muscatel,6-4,6,4,1,0,Completed,true,false,false
+UA023043,08 Aug 10,4,Maccabi,Kings Park,No. 2,Eli Muscatel,Dylan Smith,Eli Muscatel,6-3,6,3,1,0,Completed,true,false,false
+UA023043,08 Aug 10,4,Maccabi,Kings Park,No. 3,Damon Flicker,Thomas Diggerson,Damon Flicker,7-6,7,6,1,0,Completed,true,false,false
+UA023043,08 Aug 10,4,Maccabi,Kings Park,No. 4,Jarryd Joffe,Adrian Hodgson,Jarryd Joffe,6-2,6,2,1,0,Completed,true,false,false
+UA023044,08 Aug 10,4,Hurlingham Park,Tennis World,No. 1,Asher Winn,Skye Srblin,Asher Winn,6-1,6,1,1,0,Completed,true,false,false
+UA023044,08 Aug 10,4,Hurlingham Park,Tennis World,No. 2,Nicholas Kelly,Emily Holgate,Nicholas Kelly,6-1,6,1,1,0,Completed,true,false,false
+UA023044,08 Aug 10,4,Hurlingham Park,Tennis World,No. 3,Robert Fantozzi,James Holgate,Robert Fantozzi,7-6,7,6,1,0,Completed,true,false,false
+UA023044,08 Aug 10,4,Hurlingham Park,Tennis World,No. 4,Noah Harkins,Ace Cooney,Ace Cooney,2-6,2,6,0,1,Completed,true,false,false
+UA023051,15 Aug 10,5,Kings Park,Tennis World,No. 1,Nathan Blamires,Skye Srblin,Nathan Blamires,6-1,6,1,1,0,Completed,true,false,false
+UA023051,15 Aug 10,5,Kings Park,Tennis World,No. 2,Joel Becker,Jack Murphy,,5-5,5,5,0,0,Completed,false,false,false
+UA023053,15 Aug 10,5,Mordialloc,Hurlingham Park,No. 1,Nathan Bryant,Daniel Maloney,Nathan Bryant,4-3,4,3,1,0,Completed,false,false,false
+UA023053,15 Aug 10,5,Mordialloc,Hurlingham Park,No. 2,Daniel Lelekov,Asher Winn,Daniel Lelekov,6-0,6,0,1,0,Completed,true,false,false
+UA023061,22 Aug 10,6,Le Page,Kings Park,No. 1,Josh Groves,Nathan Blamires,Nathan Blamires,3-6,3,6,0,1,Completed,true,false,false
+UA023061,22 Aug 10,6,Le Page,Kings Park,No. 2,Alex Lin,Timothy Van Der Vevr,Alex Lin,6-1,6,1,1,0,Completed,true,false,false
+UA023061,22 Aug 10,6,Le Page,Kings Park,No. 3,Cameron Dimmick,Joel Becker,Joel Becker,0-6,0,6,0,1,Completed,true,false,false
+UA023061,22 Aug 10,6,Le Page,Kings Park,No. 4,Sam Kenny,Adrian Hodgson,Sam Kenny,6-4,6,4,1,0,Completed,true,false,false
+UA023062,22 Aug 10,6,Tennis World,Glen Eira Pool,No. 1,Skye Srblin,Lachlan Wyness,Lachlan Wyness,0-6,0,6,0,1,Completed,true,false,false
+UA023062,22 Aug 10,6,Tennis World,Glen Eira Pool,No. 2,Jack Murphy,Jordan Levitan,Jack Murphy,6-3,6,3,1,0,Completed,true,false,false
+UA023062,22 Aug 10,6,Tennis World,Glen Eira Pool,No. 3,Ace Cooney,David Sacho,David Sacho,3-6,3,6,0,1,Completed,true,false,false
+UA023062,22 Aug 10,6,Tennis World,Glen Eira Pool,No. 4,Ben Glinka,Daniel Meltser,Ben Glinka,6-0,6,0,1,0,Completed,true,false,false
+UA023063,22 Aug 10,6,Kooyong Scotch,Mordialloc,No. 1,James Goller,Matt Parousiatis,Matt Parousiatis,2-6,2,6,0,1,Completed,true,false,false
+UA023063,22 Aug 10,6,Kooyong Scotch,Mordialloc,No. 2,Callum Bennet,Daniel Lelekov,Callum Bennet,6-2,6,2,1,0,Completed,true,false,false
+UA023063,22 Aug 10,6,Kooyong Scotch,Mordialloc,No. 3,Lachlan Chan,Nathan Bryant,Nathan Bryant,2-6,2,6,0,1,Completed,true,false,false
+UA023063,22 Aug 10,6,Kooyong Scotch,Mordialloc,No. 4,James Hupert,Chris Economu,Chris Economu,0-6,0,6,0,1,Completed,true,false,false
+UA023064,22 Aug 10,6,Hurlingham Park,Maccabi,No. 1,Daniel Maloney,Jamie Moshinsky,Jamie Moshinsky,4-6,4,6,0,1,Completed,true,false,false
+UA023064,22 Aug 10,6,Hurlingham Park,Maccabi,No. 2,Nicholas Cheung,Eli Muscatel,Eli Muscatel,3-6,3,6,0,1,Completed,true,false,false
+UA023064,22 Aug 10,6,Hurlingham Park,Maccabi,No. 3,Robert Fantozzi,Damon Flicker,Robert Fantozzi,6-3,6,3,1,0,Completed,true,false,false
+UA023064,22 Aug 10,6,Hurlingham Park,Maccabi,No. 4,Noah Harkins,Max Needleman,Max Needleman,1-6,1,6,0,1,Completed,true,false,false
+UA023071,29 Aug 10,7,Glen Eira Pool,Kings Park,No. 1,Ilan Goldsmith,Nathan Blamires,Nathan Blamires,1-6,1,6,0,1,Completed,true,false,false
+UA023071,29 Aug 10,7,Glen Eira Pool,Kings Park,No. 2,David Sacho,Thomas Diggerson,David Sacho,6-2,6,2,1,0,Completed,true,false,false
+UA023071,29 Aug 10,7,Glen Eira Pool,Kings Park,No. 3,Kane Nissenbaum,Timothy Van Der Vevr,Kane Nissenbaum,6-0,6,0,1,0,Completed,true,false,false
+UA023071,29 Aug 10,7,Glen Eira Pool,Kings Park,No. 4,Daniel Meltser,Dylan Smith,Daniel Meltser,7-6,7,6,1,0,Completed,true,false,false
+UA023072,29 Aug 10,7,Le Page,Tennis World,No. 1,Josh Groves,Jack Murphy,Josh Groves,6-1,6,1,1,0,Completed,true,false,false
+UA023072,29 Aug 10,7,Le Page,Tennis World,No. 2,Adrian Zalega,Emily Holgate,Adrian Zalega,6-4,6,4,1,0,Completed,true,false,false
+UA023072,29 Aug 10,7,Le Page,Tennis World,No. 3,Cameron Dimmick,James Holgate,James Holgate,4-6,4,6,0,1,Completed,true,false,false
+UA023072,29 Aug 10,7,Le Page,Tennis World,No. 4,Sam Kenny,David Robinson,David Robinson,0-6,0,6,0,1,Completed,true,false,false
+UA023073,29 Aug 10,7,Maccabi,Mordialloc,No. 1,Jamie Moshinsky,Matt Parousiatis,Jamie Moshinsky,6-1,6,1,1,0,Completed,true,false,false
+UA023073,29 Aug 10,7,Maccabi,Mordialloc,No. 2,Jamie Muscatel,Daniel Lelekov,Jamie Muscatel,6-0,6,0,1,0,Completed,true,false,false
+UA023073,29 Aug 10,7,Maccabi,Mordialloc,No. 3,Eli Muscatel,Serge Krikun,Eli Muscatel,6-3,6,3,1,0,Completed,true,false,false
+UA023073,29 Aug 10,7,Maccabi,Mordialloc,No. 4,Jarryd Joffe,Chris Economu,Jarryd Joffe,6-3,6,3,1,0,Completed,true,false,false
+UA023074,29 Aug 10,7,Kooyong Scotch,Hurlingham Park,No. 1,James Goller,Asher Winn,Asher Winn,3-6,3,6,0,1,Completed,true,false,false
+UA023074,29 Aug 10,7,Kooyong Scotch,Hurlingham Park,No. 2,Lachlan Chan,Nicholas Kelly,Lachlan Chan,7-6,7,6,1,0,Completed,true,false,false
+UA023074,29 Aug 10,7,Kooyong Scotch,Hurlingham Park,No. 3,James Hupert,Noah Harkins,Noah Harkins,5-7,5,7,0,1,Completed,true,false,false
+UA023074,29 Aug 10,7,Kooyong Scotch,Hurlingham Park,No. 4,Nicole Kaminsky,Robert Fantozzi,Robert Fantozzi,1-6,1,6,0,1,Completed,true,false,false
+UA023081,05 Sep 10,8,Hurlingham Park,Glen Eira Pool,No. 1,Daniel Maloney,Lachlan Wyness,Daniel Maloney,6-4,6,4,1,0,Completed,true,false,false
+UA023081,05 Sep 10,8,Hurlingham Park,Glen Eira Pool,No. 2,Asher Winn,Ilan Goldsmith,Ilan Goldsmith,5-7,5,7,0,1,Completed,true,false,false
+UA023081,05 Sep 10,8,Hurlingham Park,Glen Eira Pool,No. 3,Nicholas Cheung,Kane Nissenbaum,Nicholas Cheung,6-4,6,4,1,0,Completed,true,false,false
+UA023081,05 Sep 10,8,Hurlingham Park,Glen Eira Pool,No. 4,Robert Fantozzi,Daniel Meltser,Robert Fantozzi,6-0,6,0,1,0,Completed,true,false,false
+UA023082,05 Sep 10,8,Mordialloc,Le Page,No. 1,Matt Parousiatis,Alex Lin,Alex Lin,4-6,4,6,0,1,Completed,true,false,false
+UA023082,05 Sep 10,8,Mordialloc,Le Page,No. 2,Daniel Lelekov,Adrian Zalega,Adrian Zalega,2-6,2,6,0,1,Completed,true,false,false
+UA023082,05 Sep 10,8,Mordialloc,Le Page,No. 3,Serge Krikun,Cameron Dimmick,Serge Krikun,6-3,6,3,1,0,Completed,true,false,false
+UA023082,05 Sep 10,8,Mordialloc,Le Page,No. 4,Chris Economu,Sam Kenny,Chris Economu,6-1,6,1,1,0,Completed,true,false,false
+UA023083,05 Sep 10,8,Kooyong Scotch,Kings Park,No. 1,Callum Bennet,Nathan Blamires,Nathan Blamires,2-6,2,6,0,1,Completed,true,false,false
+UA023083,05 Sep 10,8,Kooyong Scotch,Kings Park,No. 2,Nicholas Savage,Joel Becker,Joel Becker,0-6,0,6,0,1,Completed,true,false,false
+UA023083,05 Sep 10,8,Kooyong Scotch,Kings Park,No. 3,James Hupert,Dylan Smith,Dylan Smith,2-6,2,6,0,1,Completed,true,false,false
+UA023083,05 Sep 10,8,Kooyong Scotch,Kings Park,No. 4,Will Swannson,Adrian Hodgson,Adrian Hodgson,4-6,4,6,0,1,Completed,true,false,false
+UA023084,05 Sep 10,8,Maccabi,Tennis World,No. 1,Jamie Muscatel,Skye Srblin,Jamie Muscatel,6-1,6,1,1,0,Completed,true,false,false
+UA023084,05 Sep 10,8,Maccabi,Tennis World,No. 2,Damon Flicker,Jack Murphy,Damon Flicker,6-0,6,0,1,0,Completed,true,false,false
+UA023084,05 Sep 10,8,Maccabi,Tennis World,No. 3,Max Needleman,Ace Cooney,Max Needleman,6-0,6,0,1,0,Completed,true,false,false
+UA023084,05 Sep 10,8,Maccabi,Tennis World,No. 4,Jarryd Joffe,Sara Srblin,Sara Srblin,3-6,3,6,0,1,Completed,true,false,false
+UA023091,12 Sep 10,9,Glen Eira Pool,Maccabi,No. 1,Jordan Levitan,Jamie Muscatel,Jamie Muscatel,1-6,1,6,0,1,Completed,true,false,false
+UA023091,12 Sep 10,9,Glen Eira Pool,Maccabi,No. 2,David Sacho,Damon Flicker,David Sacho,6-4,6,4,1,0,Completed,true,false,false
+UA023091,12 Sep 10,9,Glen Eira Pool,Maccabi,No. 3,Kane Nissenbaum,Max Needleman,Max Needleman,2-6,2,6,0,1,Completed,true,false,false
+UA023091,12 Sep 10,9,Glen Eira Pool,Maccabi,No. 4,Daniel Meltser,Jarryd Joffe,Jarryd Joffe,2-6,2,6,0,1,Completed,true,false,false
+UA023092,12 Sep 10,9,Le Page,Hurlingham Park,No. 1,Josh Groves,Daniel Maloney,Josh Groves,6-3,6,3,1,0,Completed,true,false,false
+UA023092,12 Sep 10,9,Le Page,Hurlingham Park,No. 2,Alex Lin,Nicholas Cheung,Alex Lin,6-0,6,0,1,0,Completed,true,false,false
+UA023092,12 Sep 10,9,Le Page,Hurlingham Park,No. 3,Adrian Zalega,Robert Fantozzi,Robert Fantozzi,1-6,1,6,0,1,Completed,true,false,false
+UA023092,12 Sep 10,9,Le Page,Hurlingham Park,No. 4,Sam Kenny,Noah Harkins,Noah Harkins,2-6,2,6,0,1,Completed,true,false,false
+UA023093,12 Sep 10,9,Kings Park,Mordialloc,No. 1,Timothy Van Der Vevr,Matt Parousiatis,Timothy Van Der Vevr,7-6,7,6,1,0,Completed,true,false,false
+UA023093,12 Sep 10,9,Kings Park,Mordialloc,No. 2,Joel Becker,Daniel Lelekov,Daniel Lelekov,3-6,3,6,0,1,Completed,true,false,false
+UA023093,12 Sep 10,9,Kings Park,Mordialloc,No. 3,Thomas Diggerson,Serge Krikun,Serge Krikun,5-7,5,7,0,1,Completed,true,false,false
+UA023093,12 Sep 10,9,Kings Park,Mordialloc,No. 4,Adrian Hodgson,Chris Economu,Chris Economu,1-6,1,6,0,1,Completed,true,false,false
+UA023094,12 Sep 10,9,Tennis World,Kooyong Scotch,No. 1,Skye Srblin,James Goller,James Goller,4-6,4,6,0,1,Completed,true,false,false
+UA023094,12 Sep 10,9,Tennis World,Kooyong Scotch,No. 2,Emily Holgate,Callum Bennet,Callum Bennet,6-7,6,7,0,1,Completed,true,false,false
+UA023094,12 Sep 10,9,Tennis World,Kooyong Scotch,No. 3,James Holgate,Nicholas Savage,James Holgate,7-5,7,5,1,0,Completed,true,false,false
+UA023094,12 Sep 10,9,Tennis World,Kooyong Scotch,No. 4,David Robinson,James Hupert,David Robinson,6-3,6,3,1,0,Completed,true,false,false
+UA023101,10 Oct 10,10,Kooyong Scotch,Glen Eira Pool,No. 1,Callum Bennet,Lachlan Wyness,Callum Bennet,7-6,7,6,1,0,Completed,true,false,false
+UA023101,10 Oct 10,10,Kooyong Scotch,Glen Eira Pool,No. 2,James Hupert,Ilan Goldsmith,Ilan Goldsmith,4-6,4,6,0,1,Completed,true,false,false
+UA023101,10 Oct 10,10,Kooyong Scotch,Glen Eira Pool,No. 3,Nicole Kaminsky,Jordan Levitan,Nicole Kaminsky,6-3,6,3,1,0,Completed,true,false,false
+UA023101,10 Oct 10,10,Kooyong Scotch,Glen Eira Pool,No. 4,Alex Savage,Andrew Schulze,Andrew Schulze,0-6,0,6,0,1,Completed,true,false,false
+UA023102,10 Oct 10,10,Maccabi,Le Page,No. 1,Jamie Moshinsky,Josh Groves,Josh Groves,3-6,3,6,0,1,Completed,true,false,false
+UA023102,10 Oct 10,10,Maccabi,Le Page,No. 2,Eli Muscatel,Alex Lin,Eli Muscatel,6-4,6,4,1,0,Completed,true,false,false
+UA023102,10 Oct 10,10,Maccabi,Le Page,No. 3,Max Needleman,Adrian Zalega,Max Needleman,7-5,7,5,1,0,Completed,true,false,false
+UA023102,10 Oct 10,10,Maccabi,Le Page,No. 4,Jarryd Joffe,Cameron Dimmick,Jarryd Joffe,6-1,6,1,1,0,Completed,true,false,false
+UA023103,10 Oct 10,10,Hurlingham Park,Kings Park,No. 1,Daniel Maloney,Nathan Blamires,Nathan Blamires,2-6,2,6,0,1,Completed,true,false,false
+UA023103,10 Oct 10,10,Hurlingham Park,Kings Park,No. 2,Asher Winn,Timothy Van Der Vevr,Asher Winn,6-2,6,2,1,0,Completed,true,false,false
+UA023103,10 Oct 10,10,Hurlingham Park,Kings Park,No. 3,Nicholas Cheung,Dylan Smith,Nicholas Cheung,6-4,6,4,1,0,Completed,true,false,false
+UA023103,10 Oct 10,10,Hurlingham Park,Kings Park,No. 4,Robert Fantozzi,Thomas Diggerson,Robert Fantozzi,7-6,7,6,1,0,Completed,true,false,false
+UA023104,10 Oct 10,10,Mordialloc,Tennis World,No. 1,Nathan Bryant,Skye Srblin,Nathan Bryant,7-5,7,5,1,0,Completed,true,false,false
+UA023104,10 Oct 10,10,Mordialloc,Tennis World,No. 2,Daniel Lelekov,Emily Holgate,Emily Holgate,4-6,4,6,0,1,Completed,true,false,false
+UA023104,10 Oct 10,10,Mordialloc,Tennis World,No. 3,Serge Krikun,James Holgate,James Holgate,4-6,4,6,0,1,Completed,true,false,false
+UA023104,10 Oct 10,10,Mordialloc,Tennis World,No. 4,Chris Economu,David Robinson,Chris Economu,6-0,6,0,1,0,Completed,true,false,false
+UA023111,17 Oct 10,11,Glen Eira Pool,Mordialloc,No. 1,Lachlan Wyness,Matt Parousiatis,Matt Parousiatis,6-7,6,7,0,1,Completed,true,false,false
+UA023111,17 Oct 10,11,Glen Eira Pool,Mordialloc,No. 2,Ilan Goldsmith,Daniel Lelekov,Daniel Lelekov,1-6,1,6,0,1,Completed,true,false,false
+UA023111,17 Oct 10,11,Glen Eira Pool,Mordialloc,No. 3,Kane Nissenbaum,Serge Krikun,Kane Nissenbaum,7-6,7,6,1,0,Completed,true,false,false
+UA023111,17 Oct 10,11,Glen Eira Pool,Mordialloc,No. 4,Daniel Meltser,Chris Economu,Chris Economu,1-6,1,6,0,1,Completed,true,false,false
+UA023112,17 Oct 10,11,Le Page,Kooyong Scotch,No. 1,Josh Groves,James Goller,Josh Groves,6-0,6,0,1,0,Completed,true,false,false
+UA023112,17 Oct 10,11,Le Page,Kooyong Scotch,No. 2,Alex Lin,Callum Bennet,Alex Lin,6-3,6,3,1,0,Completed,true,false,false
+UA023112,17 Oct 10,11,Le Page,Kooyong Scotch,No. 3,Cameron Dimmick,Lachlan Chan,Lachlan Chan,4-6,4,6,0,1,Completed,true,false,false
+UA023112,17 Oct 10,11,Le Page,Kooyong Scotch,No. 4,Sam Kenny,Nicole Kaminsky,Nicole Kaminsky,2-6,2,6,0,1,Completed,true,false,false
+UA023113,17 Oct 10,11,Kings Park,Maccabi,No. 1,Nathan Blamires,Eli Muscatel,Nathan Blamires,6-0,6,0,1,0,Completed,true,false,false
+UA023113,17 Oct 10,11,Kings Park,Maccabi,No. 2,Timothy Van Der Vevr,Damon Flicker,Damon Flicker,4-6,4,6,0,1,Completed,true,false,false
+UA023113,17 Oct 10,11,Kings Park,Maccabi,No. 3,Joel Becker,Max Needleman,Joel Becker,7-6,7,6,1,0,Completed,true,false,false
+UA023113,17 Oct 10,11,Kings Park,Maccabi,No. 4,Adrian Hodgson,Joel Rabinov,Joel Rabinov,1-6,1,6,0,1,Completed,true,false,false
+UA023114,17 Oct 10,11,Tennis World,Hurlingham Park,No. 1,Skye Srblin,Daniel Maloney,Daniel Maloney,3-6,3,6,0,1,Completed,true,false,false
+UA023114,17 Oct 10,11,Tennis World,Hurlingham Park,No. 2,Emily Holgate,Asher Winn,Emily Holgate,5-4,5,4,1,0,Completed,true,false,false
+UA023121,24 Oct 10,12,Tennis World,Kings Park,No. 1,Jack Murphy,Timothy Van Der Vevr,Jack Murphy,7-5,7,5,1,0,Completed,true,false,false
+UA023121,24 Oct 10,12,Tennis World,Kings Park,No. 2,Emily Holgate,Joel Becker,Joel Becker,2-6,2,6,0,1,Completed,true,false,false
+UA023121,24 Oct 10,12,Tennis World,Kings Park,No. 3,James Holgate,Thomas Diggerson,James Holgate,6-1,6,1,1,0,Completed,true,false,false
+UA023121,24 Oct 10,12,Tennis World,Kings Park,No. 4,Ace Cooney,Adrian Hodgson,Ace Cooney,6-3,6,3,1,0,Completed,true,false,false
+UA023122,24 Oct 10,12,Kooyong Scotch,Maccabi,No. 1,James Goller,Jamie Moshinsky,Jamie Moshinsky,1-6,1,6,0,1,Completed,true,false,false
+UA023122,24 Oct 10,12,Kooyong Scotch,Maccabi,No. 2,Nicholas Savage,Jamie Muscatel,Jamie Muscatel,2-6,2,6,0,1,Completed,true,false,false
+UA023122,24 Oct 10,12,Kooyong Scotch,Maccabi,No. 3,James Hupert,Eli Muscatel,Eli Muscatel,4-6,4,6,0,1,Completed,true,false,false
+UA023122,24 Oct 10,12,Kooyong Scotch,Maccabi,No. 4,Nicole Kaminsky,Max Needleman,Max Needleman,0-6,0,6,0,1,Completed,true,false,false
+UA023123,24 Oct 10,12,Hurlingham Park,Mordialloc,No. 1,Asher Winn,Matt Parousiatis,Matt Parousiatis,2-6,2,6,0,1,Completed,true,false,false
+UA023123,24 Oct 10,12,Hurlingham Park,Mordialloc,No. 2,Nicholas Kelly,Daniel Lelekov,Daniel Lelekov,3-6,3,6,0,1,Completed,true,false,false
+UA023123,24 Oct 10,12,Hurlingham Park,Mordialloc,No. 3,Robert Fantozzi,Serge Krikun,Serge Krikun,2-6,2,6,0,1,Completed,true,false,false
+UA023123,24 Oct 10,12,Hurlingham Park,Mordialloc,No. 4,Noah Harkins,Chris Economu,Chris Economu,4-6,4,6,0,1,Completed,true,false,false
+UA023124,24 Oct 10,12,Le Page,Glen Eira Pool,No. 1,Josh Groves,Ilan Goldsmith,Josh Groves,6-4,6,4,1,0,Completed,true,false,false
+UA023124,24 Oct 10,12,Le Page,Glen Eira Pool,No. 2,Adrian Zalega,David Sacho,Adrian Zalega,6-3,6,3,1,0,Completed,true,false,false
+UA023124,24 Oct 10,12,Le Page,Glen Eira Pool,No. 3,Cameron Dimmick,Jordan Levitan,Jordan Levitan,2-6,2,6,0,1,Completed,true,false,false
+UA023124,24 Oct 10,12,Le Page,Glen Eira Pool,No. 4,Sam Kenny,Daniel Meltser,Sam Kenny,6-0,6,0,1,0,Completed,true,false,false
+UA023131,07 Nov 10,13,Kings Park,Le Page,No. 1,Nathan Blamires,Alex Lin,Nathan Blamires,7-5,7,5,1,0,Completed,true,false,false
+UA023131,07 Nov 10,13,Kings Park,Le Page,No. 2,Dylan Smith,Adrian Zalega,Adrian Zalega,2-6,2,6,0,1,Completed,true,false,false
+UA023131,07 Nov 10,13,Kings Park,Le Page,No. 3,Thomas Diggerson,Cameron Dimmick,Thomas Diggerson,6-0,6,0,1,0,Completed,true,false,false
+UA023131,07 Nov 10,13,Kings Park,Le Page,No. 4,Adrian Hodgson,Sam Kenny,Sam Kenny,2-6,2,6,0,1,Completed,true,false,false
+UA023132,07 Nov 10,13,Glen Eira Pool,Tennis World,No. 1,Lachlan Wyness,Skye Srblin,Skye Srblin,6-7,6,7,0,1,Completed,true,false,false
+UA023132,07 Nov 10,13,Glen Eira Pool,Tennis World,No. 2,Ilan Goldsmith,Jack Murphy,Ilan Goldsmith,6-1,6,1,1,0,Completed,true,false,false
+UA023132,07 Nov 10,13,Glen Eira Pool,Tennis World,No. 3,Jordan Levitan,James Holgate,James Holgate,2-6,2,6,0,1,Completed,true,false,false
+UA023132,07 Nov 10,13,Glen Eira Pool,Tennis World,No. 4,David Sacho,David Robinson,David Sacho,6-0,6,0,1,0,Completed,true,false,false
+UA023133,07 Nov 10,13,Mordialloc,Kooyong Scotch,No. 1,Matt Parousiatis,Callum Bennet,Matt Parousiatis,6-4,6,4,1,0,Completed,true,false,false
+UA023133,07 Nov 10,13,Mordialloc,Kooyong Scotch,No. 2,Daniel Lelekov,Nicole Kaminsky,Daniel Lelekov,6-0,6,0,1,0,Completed,true,false,false
+UA023133,07 Nov 10,13,Mordialloc,Kooyong Scotch,No. 3,Serge Krikun,Erin Ronge,Serge Krikun,6-2,6,2,1,0,Completed,true,false,false
+UA023133,07 Nov 10,13,Mordialloc,Kooyong Scotch,No. 4,Chris Economu,Quentin Zeigh,Chris Economu,6-0,6,0,1,0,Completed,true,false,false
+UA023134,07 Nov 10,13,Maccabi,Hurlingham Park,No. 1,Jamie Muscatel,Daniel Maloney,Jamie Muscatel,6-0,6,0,1,0,Completed,true,false,false
+UA023134,07 Nov 10,13,Maccabi,Hurlingham Park,No. 2,Eli Muscatel,Asher Winn,Eli Muscatel,6-0,6,0,1,0,Completed,true,false,false
+UA023134,07 Nov 10,13,Maccabi,Hurlingham Park,No. 3,Damon Flicker,Nicholas Kelly,Damon Flicker,6-0,6,0,1,0,Completed,true,false,false
+UA023134,07 Nov 10,13,Maccabi,Hurlingham Park,No. 4,Max Needleman,Robert Fantozzi,Max Needleman,6-1,6,1,1,0,Completed,true,false,false
+UA023141,14 Nov 10,14,Kings Park,Glen Eira Pool,No. 1,Nathan Blamires,Lachlan Wyness,Nathan Blamires,6-1,6,1,1,0,Completed,true,false,false
+UA023141,14 Nov 10,14,Kings Park,Glen Eira Pool,No. 2,Joel Becker,Ilan Goldsmith,Ilan Goldsmith,4-6,4,6,0,1,Completed,true,false,false
+UA023141,14 Nov 10,14,Kings Park,Glen Eira Pool,No. 3,Dylan Smith,David Sacho,David Sacho,0-6,0,6,0,1,Completed,true,false,false
+UA023141,14 Nov 10,14,Kings Park,Glen Eira Pool,No. 4,Adrian Hodgson,Daniel Meltser,Daniel Meltser,3-6,3,6,0,1,Completed,true,false,false
+UA023142,14 Nov 10,14,Tennis World,Le Page,No. 1,Emily Holgate,Josh Groves,Josh Groves,0-6,0,6,0,1,Completed,true,false,false
+UA023142,14 Nov 10,14,Tennis World,Le Page,No. 2,James Holgate,Alex Lin,Alex Lin,1-6,1,6,0,1,Completed,true,false,false
+UA023142,14 Nov 10,14,Tennis World,Le Page,No. 3,David Robinson,Adrian Zalega,Adrian Zalega,4-6,4,6,0,1,Completed,true,false,false
+UA023142,14 Nov 10,14,Tennis World,Le Page,No. 4,Ace Cooney,Cameron Dimmick,Ace Cooney,6-2,6,2,1,0,Completed,true,false,false
+UA023143,14 Nov 10,14,Mordialloc,Maccabi,No. 1,Matt Parousiatis,Jamie Moshinsky,Jamie Moshinsky,3-6,3,6,0,1,Completed,true,false,false
+UA023143,14 Nov 10,14,Mordialloc,Maccabi,No. 2,Daniel Lelekov,Damon Flicker,Damon Flicker,1-6,1,6,0,1,Completed,true,false,false
+UA023143,14 Nov 10,14,Mordialloc,Maccabi,No. 3,Serge Krikun,Max Needleman,Max Needleman,4-6,4,6,0,1,Completed,true,false,false
+UA023143,14 Nov 10,14,Mordialloc,Maccabi,No. 4,Chris Economu,Jarryd Joffe,Jarryd Joffe,2-6,2,6,0,1,Completed,true,false,false
+UA023144,14 Nov 10,14,Hurlingham Park,Kooyong Scotch,No. 1,Daniel Maloney,James Goller,Daniel Maloney,6-3,6,3,1,0,Completed,true,false,false
+UA023144,14 Nov 10,14,Hurlingham Park,Kooyong Scotch,No. 2,Asher Winn,Callum Bennet,Callum Bennet,2-6,2,6,0,1,Completed,true,false,false
+UA023144,14 Nov 10,14,Hurlingham Park,Kooyong Scotch,No. 3,Nicholas Kelly,Nicholas Savage,Nicholas Kelly,6-1,6,1,1,0,Completed,true,false,false
+UA023144,14 Nov 10,14,Hurlingham Park,Kooyong Scotch,No. 4,Noah Harkins,James Hupert,James Hupert,3-6,3,6,0,1,Completed,true,false,false
+UA023301,,16,Maccabi,Le Page,No. 1,Jamie Moshinsky,Josh Groves,Jamie Moshinsky,6-2,6,2,1,0,Completed,true,false,false
+UA023301,,16,Maccabi,Le Page,No. 2,Jamie Muscatel,Alex Lin,Alex Lin,3-6,3,6,0,1,Completed,true,true,false
+UA023301,,16,Maccabi,Le Page,No. 3,Eli Muscatel,Adrian Zalega,Adrian Zalega,1-6,1,6,0,1,Completed,true,false,false
+UA023301,,16,Maccabi,Le Page,No. 4,Max Needleman,Cameron Dimmick,Max Needleman,6-1,6,1,1,0,Completed,true,false,false
+UA023302,,16,Mordialloc,Kings Park,No. 1,Matt Parousiatis,Nathan Blamires,Matt Parousiatis,6-4,6,4,1,0,Completed,true,false,false
+UA023302,,16,Mordialloc,Kings Park,No. 2,Daniel Lelekov,Timothy Van Der Vevr,Daniel Lelekov,6-3,6,3,1,0,Completed,true,false,false
+UA023302,,16,Mordialloc,Kings Park,No. 3,Serge Krikun,Joel Becker,Joel Becker,3-6,3,6,0,1,Completed,true,false,false
+UA023302,,16,Mordialloc,Kings Park,No. 4,Chris Economu,Dylan Smith,Chris Economu,6-0,6,0,1,0,Completed,true,false,false
+UA023321,,17,Maccabi,Mordialloc,No. 1,Jamie Moshinsky,Matt Parousiatis,Jamie Moshinsky,6-0,6,0,1,0,Completed,true,true,false
+UA023321,,17,Maccabi,Mordialloc,No. 2,Jamie Muscatel,Daniel Lelekov,Jamie Muscatel,6-1,6,1,1,0,Completed,true,true,false
+UA023321,,17,Maccabi,Mordialloc,No. 3,Damon Flicker,Serge Krikun,Damon Flicker,6-4,6,4,1,0,Completed,true,true,false
+UA023321,,17,Maccabi,Mordialloc,No. 4,Max Needleman,Chris Economu,Chris Economu,3-6,3,6,0,1,Completed,true,false,false

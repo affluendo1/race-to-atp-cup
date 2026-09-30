@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA10-UA015",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2012",
+  "season_id": "UA10",
+  "season_label": "Autumn 2012",
+  "source_section_code": "UA015",
+  "section_label": "Section 15",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Lauriston",
+      "wins": 11,
+      "points": 111,
+      "percentage": 198.08,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Caulfield Rec",
+      "wins": 9,
+      "points": 89,
+      "percentage": 126.25,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Murrumbeena",
+      "wins": 9,
+      "points": 86,
+      "percentage": 118.87,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Mordialloc",
+      "wins": 7,
+      "points": 82,
+      "percentage": 126.88,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 6,
+      "points": 74,
+      "percentage": 110.69,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Chelsea Heights",
+      "wins": 5,
+      "points": 57,
+      "percentage": 81.55,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Maccabi",
+      "wins": 2,
+      "points": 40,
+      "percentage": 61.05,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Middle Brighton",
+      "wins": 0,
+      "points": 21,
+      "percentage": 44.55,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA10-UA015",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 59,
+  "singles_rubbers": 208,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

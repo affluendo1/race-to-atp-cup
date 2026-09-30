@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA34-UA009",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2024",
+  "season_id": "UA34",
+  "season_label": "Autumn 2024",
+  "source_section_code": "UA009",
+  "section_label": "Section 9",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park",
+      "wins": 14,
+      "points": 120,
+      "percentage": 158.54,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Le Page",
+      "wins": 11,
+      "points": 105,
+      "percentage": 149.84,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kooyong",
+      "wins": 8,
+      "points": 79,
+      "percentage": 109.29,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Lauriston",
+      "wins": 7,
+      "points": 78,
+      "percentage": 114.78,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Carmelite",
+      "wins": 6,
+      "points": 70,
+      "percentage": 106.74,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave",
+      "wins": 6,
+      "points": 57,
+      "percentage": 85.47,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Hurlingham Park",
+      "wins": 1,
+      "points": 26,
+      "percentage": 61.35,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Maccabi",
+      "wins": 2,
+      "points": 25,
+      "percentage": 56.93,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA34-UA009",
+  "fixtures": 59,
+  "completed_fixtures": 59,
+  "draw_fixtures": 59,
+  "singles_rubbers": 236,
+  "doubles_rubbers": 118,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

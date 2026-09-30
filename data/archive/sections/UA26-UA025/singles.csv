@@ -1,0 +1,61 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA025011,02 Feb 20,1,Royal South Yarra,Parkdale,No. 1,Emily Hasker,[Unnamed player — TROLS UA025011 away code 1],Emily Hasker,6-0,6,0,1,0,Completed,false,false,false
+UA025011,02 Feb 20,1,Royal South Yarra,Parkdale,No. 2,Lucy Negri,Tiffany Nikolakopoulos,Lucy Negri,6-1,6,1,1,0,Completed,true,false,false
+UA025011,02 Feb 20,1,Royal South Yarra,Parkdale,No. 3,Charlotte Cannon,Ilinca Di Siciu,Ilinca Di Siciu,2-6,2,6,0,1,Completed,true,true,false
+UA025011,02 Feb 20,1,Royal South Yarra,Parkdale,No. 4,Charlotte Cleve,Abi Arculus,Abi Arculus,1-6,1,6,0,1,Completed,true,false,false
+UA025012,02 Feb 20,1,Royal Ave,Le Page,No. 1,Hannah Chruszcz,Kai Hu,Hannah Chruszcz,6-1,6,1,1,0,Completed,true,false,false
+UA025012,02 Feb 20,1,Royal Ave,Le Page,No. 2,Tom Oldman,Marcus Sotos,Tom Oldman,6-3,6,3,1,0,Completed,true,false,false
+UA025012,02 Feb 20,1,Royal Ave,Le Page,No. 3,Charlotte Henry,Ilena Stefanou,Charlotte Henry,6-2,6,2,1,0,Completed,true,false,false
+UA025012,02 Feb 20,1,Royal Ave,Le Page,No. 4,Liam O'Donnell,Miles Kilcourse,Liam O'Donnell,7-5,7,5,1,0,Completed,true,false,false
+UA025013,02 Feb 20,1,Lauriston,Glen Eira,No. 1,Scarlett Scosensino,Oskar Williams,Scarlett Scosensino,6-4,6,4,1,0,Completed,true,false,false
+UA025013,02 Feb 20,1,Lauriston,Glen Eira,No. 2,Samiksho Autane,Toby Shmuel,Toby Shmuel,6-7,6,7,0,1,Completed,true,false,false
+UA025013,02 Feb 20,1,Lauriston,Glen Eira,No. 3,Brody Smith,Josh Spiegel,Josh Spiegel,0-6,0,6,0,1,Completed,true,false,false
+UA025013,02 Feb 20,1,Lauriston,Glen Eira,No. 4,Juliet Nazaretian,Zev Gluch,Juliet Nazaretian,6-3,6,3,1,0,Completed,true,false,false
+UA025021,09 Feb 20,2,St James,Royal South Yarra,No. 1,Ben Lajbcygier,Flo Baillieu,Ben Lajbcygier,6-1,6,1,1,0,Completed,true,false,false
+UA025021,09 Feb 20,2,St James,Royal South Yarra,No. 2,Emma Stewart,Chloe Sangster,Emma Stewart,6-0,6,0,1,0,Completed,true,false,false
+UA025021,09 Feb 20,2,St James,Royal South Yarra,No. 3,Mac Rogers-Wilson,Billy Sangster,Mac Rogers-Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA025021,09 Feb 20,2,St James,Royal South Yarra,No. 4,Emma Cunningham,Lucy Negri,Emma Cunningham,6-0,6,0,1,0,Completed,true,false,false
+UA025022,09 Feb 20,2,Parkdale,Royal Ave,No. 1,Georgia Bellette,Hannah Chruszcz,Georgia Bellette,6-3,6,3,1,0,Completed,true,false,false
+UA025022,09 Feb 20,2,Parkdale,Royal Ave,No. 2,Tiffany Nikolakopoulos,Jack James,Jack James,2-6,2,6,0,1,Completed,true,false,false
+UA025022,09 Feb 20,2,Parkdale,Royal Ave,No. 3,Ilinca Di Siciu,Liam O'Donnell,Liam O'Donnell,0-6,0,6,0,1,Completed,true,false,false
+UA025022,09 Feb 20,2,Parkdale,Royal Ave,No. 4,Mia Bellette,Amelia Haber,Mia Bellette,6-0,6,0,1,0,Completed,true,false,false
+UA025023,09 Feb 20,2,Le Page,Lauriston,No. 1,Kai Hu,Scarlett Scosensino,Scarlett Scosensino,3-6,3,6,0,1,Completed,true,false,false
+UA025023,09 Feb 20,2,Le Page,Lauriston,No. 2,Marcus Sotos,Samiksho Autane,Marcus Sotos,6-4,6,4,1,0,Completed,true,false,false
+UA025023,09 Feb 20,2,Le Page,Lauriston,No. 3,Miles Kilcourse,Brody Smith,Miles Kilcourse,7-6,7,6,1,0,Completed,true,false,false
+UA025023,09 Feb 20,2,Le Page,Lauriston,No. 4,Oliver Kilcourse,Hannah Rossjohn,Oliver Kilcourse,6-1,6,1,1,0,Completed,true,false,false
+UA025031,16 Feb 20,3,Royal South Yarra,Glen Eira,No. 1,Chloe Sangster,Josh Spiegel,Josh Spiegel,2-6,2,6,0,1,Completed,true,false,false
+UA025031,16 Feb 20,3,Royal South Yarra,Glen Eira,No. 2,Emily Hasker,Zev Gluch,Zev Gluch,1-6,1,6,0,1,Completed,true,false,false
+UA025031,16 Feb 20,3,Royal South Yarra,Glen Eira,No. 3,Billy Sangster,Mia Milner,Billy Sangster,6-4,6,4,1,0,Completed,true,false,false
+UA025031,16 Feb 20,3,Royal South Yarra,Glen Eira,No. 4,Charlotte Cannon,Mika Mihalovski,Mika Mihalovski,3-6,3,6,0,1,Completed,true,true,false
+UA025032,16 Feb 20,3,Royal Ave,St James,No. 1,Jack James,Emma Stewart,Emma Stewart,3-6,3,6,0,1,Completed,true,false,false
+UA025032,16 Feb 20,3,Royal Ave,St James,No. 2,Tom Oldman,Tom Webb,Tom Webb,1-6,1,6,0,1,Completed,true,false,false
+UA025032,16 Feb 20,3,Royal Ave,St James,No. 3,Charlotte Henry,Mac Rogers-Wilson,Mac Rogers-Wilson,1-6,1,6,0,1,Completed,true,false,false
+UA025032,16 Feb 20,3,Royal Ave,St James,No. 4,Amelia Haber,Julia Luo,Julia Luo,4-6,4,6,0,1,Completed,true,false,false
+UA025033,16 Feb 20,3,Lauriston,Parkdale,No. 1,Scarlett Scosensino,Georgia Bellette,Georgia Bellette,2-6,2,6,0,1,Completed,true,false,false
+UA025033,16 Feb 20,3,Lauriston,Parkdale,No. 2,Samiksho Autane,Tiffany Nikolakopoulos,Samiksho Autane,6-3,6,3,1,0,Completed,true,false,false
+UA025033,16 Feb 20,3,Lauriston,Parkdale,No. 3,Brody Smith,Abi Arculus,Abi Arculus,2-6,2,6,0,1,Completed,true,false,false
+UA025033,16 Feb 20,3,Lauriston,Parkdale,No. 4,Juliet Nazaretian,Mia Bellette,Juliet Nazaretian,6-2,6,2,1,0,Completed,true,false,false
+UA025041,23 Feb 20,4,Le Page,Royal South Yarra,No. 1,Kai Hu,Flo Baillieu,Flo Baillieu,0-6,0,6,0,1,Completed,true,false,false
+UA025041,23 Feb 20,4,Le Page,Royal South Yarra,No. 2,Marcus Sotos,Charlotte Cleve,Marcus Sotos,6-0,6,0,1,0,Completed,true,false,false
+UA025041,23 Feb 20,4,Le Page,Royal South Yarra,No. 3,Ilena Stefanou,Lucy Negri,Ilena Stefanou,6-1,6,1,1,0,Completed,true,false,false
+UA025041,23 Feb 20,4,Le Page,Royal South Yarra,No. 4,Oliver Kilcourse,Tom Sangester,Oliver Kilcourse,6-2,6,2,1,0,Completed,true,false,true
+UA025042,23 Feb 20,4,Glen Eira,Royal Ave,No. 1,Josh Spiegel,Jack James,Jack James,3-6,3,6,0,1,Completed,true,false,false
+UA025042,23 Feb 20,4,Glen Eira,Royal Ave,No. 2,Zev Gluch,Tom Oldman,Zev Gluch,7-6,7,6,1,0,Completed,true,false,false
+UA025042,23 Feb 20,4,Glen Eira,Royal Ave,No. 3,Mia Milner,Charlotte Henry,Mia Milner,6-2,6,2,1,0,Completed,true,false,false
+UA025042,23 Feb 20,4,Glen Eira,Royal Ave,No. 4,Mika Mihalovski,Liam O'Donnell,Mika Mihalovski,6-3,6,3,1,0,Completed,true,false,false
+UA025043,23 Feb 20,4,St James,Lauriston,No. 1,Ben Lajbcygier,Scarlett Scosensino,Scarlett Scosensino,3-6,3,6,0,1,Completed,true,false,false
+UA025043,23 Feb 20,4,St James,Lauriston,No. 2,Mac Rogers-Wilson,Samiksho Autane,Mac Rogers-Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA025043,23 Feb 20,4,St James,Lauriston,No. 3,Emma Cunningham,Juliet Nazaretian,Juliet Nazaretian,3-6,3,6,0,1,Completed,true,false,false
+UA025043,23 Feb 20,4,St James,Lauriston,No. 4,Julia Luo,Hannah Rossjohn,Julia Luo,6-0,6,0,1,0,Completed,true,false,false
+UA025052,01 Mar 20,5,St James,Glen Eira,No. 1,Ben Lajbcygier,Oskar Williams,Ben Lajbcygier,6-4,6,4,1,0,Completed,true,false,false
+UA025052,01 Mar 20,5,St James,Glen Eira,No. 2,Emma Stewart,Toby Shmuel,Emma Stewart,6-1,6,1,1,0,Completed,true,false,false
+UA025052,01 Mar 20,5,St James,Glen Eira,No. 3,Tom Webb,Josh Spiegel,Tom Webb,6-1,6,1,1,0,Completed,true,false,false
+UA025052,01 Mar 20,5,St James,Glen Eira,No. 4,Emma Cunningham,Mia Milner,Emma Cunningham,6-4,6,4,1,0,Completed,true,false,false
+UA025053,01 Mar 20,5,Le Page,Parkdale,No. 1,Kai Hu,[Unnamed player — TROLS UA025053 away code 1],Kai Hu,6-0,6,0,1,0,Completed,false,false,false
+UA025053,01 Mar 20,5,Le Page,Parkdale,No. 2,Oliver Kilcourse,Ilinca Di Siciu,Oliver Kilcourse,6-1,6,1,1,0,Completed,true,false,false
+UA025053,01 Mar 20,5,Le Page,Parkdale,No. 3,Miles Kilcourse,Abi Arculus,Miles Kilcourse,6-3,6,3,1,0,Completed,true,false,false
+UA025053,01 Mar 20,5,Le Page,Parkdale,No. 4,Angus Palmer,[Unnamed player — TROLS UA025053 away code 4],Angus Palmer,6-0,6,0,1,0,Completed,false,true,false
+UA025054,01 Mar 20,5,Royal South Yarra,Royal Ave,No. 1,Chloe Sangster,Hannah Chruszcz,Hannah Chruszcz,0-6,0,6,0,1,Completed,true,false,false
+UA025054,01 Mar 20,5,Royal South Yarra,Royal Ave,No. 2,Emily Hasker,Jack James,Jack James,2-6,2,6,0,1,Completed,true,false,false
+UA025054,01 Mar 20,5,Royal South Yarra,Royal Ave,No. 3,Charlotte Cannon,Tom Oldman,Tom Oldman,1-6,1,6,0,1,Completed,true,true,false
+UA025054,01 Mar 20,5,Royal South Yarra,Royal Ave,No. 4,Rose Baillieu,Liam O'Donnell,Liam O'Donnell,2-6,2,6,0,1,Completed,true,true,false

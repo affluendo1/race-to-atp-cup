@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA22-UA013",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA013",
+  "section_label": "Section 13",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Elsternwick Park",
+      "wins": 11,
+      "points": 106,
+      "percentage": 159.85,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 10,
+      "points": 99,
+      "percentage": 137.5,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Tennis World 1",
+      "wins": 11,
+      "points": 95,
+      "percentage": 125.32,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Tennis World 2",
+      "wins": 6,
+      "points": 70,
+      "percentage": 95.68,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Maccabi",
+      "wins": 6,
+      "points": 65,
+      "percentage": 93.49,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong St Kevin's",
+      "wins": 4,
+      "points": 61,
+      "percentage": 94.29,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC",
+      "wins": 1,
+      "points": 40,
+      "percentage": 72.75,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Carmelite",
+      "wins": 1,
+      "points": 24,
+      "percentage": 59.69,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA013",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 227,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

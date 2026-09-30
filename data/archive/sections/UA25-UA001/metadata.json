@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA25-UA001",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2019",
+  "season_id": "UA25",
+  "season_label": "Spring 2019",
+  "source_section_code": "UA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Aspendale",
+      "wins": 11,
+      "points": 110,
+      "percentage": 157.3,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "GPHC",
+      "wins": 9,
+      "points": 96,
+      "percentage": 143.64,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Royal Ave 1",
+      "wins": 10,
+      "points": 93,
+      "percentage": 125.24,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong",
+      "wins": 8,
+      "points": 75,
+      "percentage": 96.6,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Bentleigh Rec",
+      "wins": 5,
+      "points": 70,
+      "percentage": 102.35,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Coatesville",
+      "wins": 4,
+      "points": 46,
+      "percentage": 75.82,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Murrumbeena",
+      "wins": 2,
+      "points": 41,
+      "percentage": 74.94,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave 2",
+      "wins": 0,
+      "points": 29,
+      "percentage": 62.5,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA25-UA001",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

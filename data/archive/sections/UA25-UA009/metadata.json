@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA25-UA009",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2019",
+  "season_id": "UA25",
+  "season_label": "Spring 2019",
+  "source_section_code": "UA009",
+  "section_label": "Section 9",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Clarinda",
+      "wins": 11,
+      "points": 106,
+      "percentage": 162.45,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 10,
+      "points": 100,
+      "percentage": 138.04,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Aspendale",
+      "wins": 10,
+      "points": 97,
+      "percentage": 143.84,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Glen Eira",
+      "wins": 6,
+      "points": 63,
+      "percentage": 88.42,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Maccabi",
+      "wins": 5,
+      "points": 60,
+      "percentage": 88.86,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St James",
+      "wins": 4,
+      "points": 55,
+      "percentage": 82.98,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Mentone",
+      "wins": 3,
+      "points": 46,
+      "percentage": 73.47,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hurlingham Park",
+      "wins": 1,
+      "points": 33,
+      "percentage": 69.34,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA25-UA009",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 216,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

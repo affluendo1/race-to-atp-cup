@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA015011,05 Feb 23,1,regular,Round 1,Elsternwick Park,Centenary Park,5,5,3,3,,,30,30,Completed,
+UA015012,05 Feb 23,1,regular,Round 1,Parkdale,Carmelite,10,0,6,0,,,37,22,Completed,
+UA015013,05 Feb 23,1,regular,Round 1,Le Page,Mentone,0,10,0,6,,,19,37,Completed,
+UA015014,05 Feb 23,1,regular,Round 1,GPHC,Lauriston,8,2,4,2,,,31,23,Completed,
+UA015021,12 Feb 23,2,regular,Round 2,Lauriston,Elsternwick Park,3,7,3,3,,,22,28,Completed,
+UA015022,12 Feb 23,2,regular,Round 2,Centenary Park,Parkdale,8,2,4,2,,,26,21,Completed,
+UA015023,12 Feb 23,2,regular,Round 2,Carmelite,Le Page,1,9,1,5,,,18,36,Completed,
+UA015024,12 Feb 23,2,regular,Round 2,Mentone,GPHC,2,8,2,4,,,27,31,Completed,
+UA015031,19 Feb 23,3,regular,Round 3,Elsternwick Park,Mentone,8,2,4,2,,,25,24,Completed,
+UA015032,19 Feb 23,3,regular,Round 3,Parkdale,Lauriston,7,3,3,3,,,31,29,Completed,
+UA015033,19 Feb 23,3,regular,Round 3,Le Page,Centenary Park,8,2,4,2,,,28,25,Completed,
+UA015034,19 Feb 23,3,regular,Round 3,GPHC,Carmelite,9,1,5,1,,,33,17,Completed,
+UA015041,26 Feb 23,4,regular,Round 4,Carmelite,Elsternwick Park,0,10,0,6,,,10,36,Completed,
+UA015042,26 Feb 23,4,regular,Round 4,Mentone,Parkdale,9,1,5,1,,,33,12,Completed,
+UA015043,26 Feb 23,4,regular,Round 4,Lauriston,Le Page,7,3,3,3,,,27,24,Completed,
+UA015044,26 Feb 23,4,regular,Round 4,Centenary Park,GPHC,3,7,3,3,,,24,28,Completed,
+UA015051,05 Mar 23,5,regular,Round 5,Le Page,GPHC,8,2,4,2,,,31,23,Completed,
+UA015052,05 Mar 23,5,regular,Round 5,Lauriston,Mentone,0,10,0,6,,,20,39,Completed,
+UA015053,05 Mar 23,5,regular,Round 5,Carmelite,Centenary Park,1,9,1,5,,,24,31,Completed,
+UA015054,05 Mar 23,5,regular,Round 5,Elsternwick Park,Parkdale,9,1,5,1,,,33,19,Completed,
+UA015061,19 Mar 23,6,regular,Round 6,Parkdale,Le Page,2,8,2,4,,,31,33,Completed,
+UA015062,19 Mar 23,6,regular,Round 6,GPHC,Elsternwick Park,3,7,3,3,,,29,32,Completed,
+UA015063,19 Mar 23,6,regular,Round 6,Mentone,Carmelite,10,0,6,0,,,37,19,Completed,
+UA015064,19 Mar 23,6,regular,Round 6,Centenary Park,Lauriston,8,2,4,2,,,32,24,Completed,
+UA015071,26 Mar 23,7,regular,Round 7,Elsternwick Park,Le Page,8,2,4,2,,,34,20,Completed,
+UA015072,26 Mar 23,7,regular,Round 7,Parkdale,GPHC,7,3,3,3,,,25,24,Completed,
+UA015073,26 Mar 23,7,regular,Round 7,Lauriston,Carmelite,9,1,5,1,,,32,14,Completed,
+UA015074,26 Mar 23,7,regular,Round 7,Mentone,Centenary Park,7,3,3,3,,,29,23,Completed,
+UA015081,02 Apr 23,8,regular,Round 8,Centenary Park,Elsternwick Park,2,8,2,4,,,20,32,Completed,
+UA015082,02 Apr 23,8,regular,Round 8,Carmelite,Parkdale,1,9,1,5,,,18,32,Completed,
+UA015083,02 Apr 23,8,regular,Round 8,Mentone,Le Page,7,3,3,3,,,31,22,Completed,
+UA015084,02 Apr 23,8,regular,Round 8,Lauriston,GPHC,5,5,3,3,,,26,26,Completed,
+UA015091,30 Apr 23,9,regular,Round 9,Elsternwick Park,Lauriston,3,7,3,3,,,25,27,Completed,
+UA015092,30 Apr 23,9,regular,Round 9,Parkdale,Centenary Park,5,5,3,3,,,27,27,Completed,
+UA015093,30 Apr 23,9,regular,Round 9,Le Page,Carmelite,9,1,5,1,,,33,15,Completed,
+UA015094,30 Apr 23,9,regular,Round 9,GPHC,Mentone,6,4,2,4,,,21,24,Completed,
+pending-ua015-r10-carmelite-gphc,07 May 23,10,regular,Round 10,Carmelite,GPHC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r10-centenary-park-le-page,07 May 23,10,regular,Round 10,Centenary Park,Le Page,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r10-lauriston-parkdale,07 May 23,10,regular,Round 10,Lauriston,Parkdale,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r10-mentone-elsternwick-park,07 May 23,10,regular,Round 10,Mentone,Elsternwick Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA015111,14 May 23,11,regular,Round 11,Elsternwick Park,Carmelite,10,0,6,0,,,36,8,Completed,
+UA015112,14 May 23,11,regular,Round 11,Parkdale,Mentone,1,9,1,5,,,16,36,Completed,
+UA015113,14 May 23,11,regular,Round 11,Le Page,Lauriston,8,2,4,2,,,28,22,Completed,
+UA015114,14 May 23,11,regular,Round 11,GPHC,Centenary Park,10,0,6,0,,,37,12,Completed,
+pending-ua015-r12-centenary-park-carmelite,21 May 23,12,regular,Round 12,Centenary Park,Carmelite,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r12-gphc-le-page,21 May 23,12,regular,Round 12,GPHC,Le Page,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r12-mentone-lauriston,21 May 23,12,regular,Round 12,Mentone,Lauriston,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r12-parkdale-elsternwick-park,21 May 23,12,regular,Round 12,Parkdale,Elsternwick Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r13-carmelite-mentone,28 May 23,13,regular,Round 13,Carmelite,Mentone,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r13-elsternwick-park-gphc,28 May 23,13,regular,Round 13,Elsternwick Park,GPHC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r13-lauriston-centenary-park,28 May 23,13,regular,Round 13,Lauriston,Centenary Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r13-le-page-parkdale,28 May 23,13,regular,Round 13,Le Page,Parkdale,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA015301,,16,semi_final,Semi-final,Elsternwick Park,Le Page,0,10,0,6,,,20,37,Completed,
+UA015302,,16,semi_final,Semi-final,Mentone,GPHC,8,2,4,2,,,28,14,Completed,
+UA015321,,17,grand_final,Grand final · TROLS entry 2,Mentone,Le Page,8,2,4,2,,,26,25,Completed,

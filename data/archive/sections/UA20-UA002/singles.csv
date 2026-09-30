@@ -1,0 +1,233 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA002011,05 Feb 17,1,Royal South Yarra,Tennis World,No. 1,Vivienne Johnston,Raphael Bleechmore,Raphael Bleechmore,2-6,2,6,0,1,Completed,true,false,false
+UA002011,05 Feb 17,1,Royal South Yarra,Tennis World,No. 2,Henry Campbell,Harrison Raffaele,Henry Campbell,6-3,6,3,1,0,Completed,true,false,false
+UA002011,05 Feb 17,1,Royal South Yarra,Tennis World,No. 3,Hugo Druce,Bailey Liu,Bailey Liu,2-6,2,6,0,1,Completed,true,false,false
+UA002011,05 Feb 17,1,Royal South Yarra,Tennis World,No. 4,Fleur Wackett,Will Keely,Fleur Wackett,6-0,6,0,1,0,Completed,true,false,false
+UA002012,05 Feb 17,1,BLTC,GPHC,No. 1,Tim Le Grand,Jet Wigley,Tim Le Grand,6-3,6,3,1,0,Completed,true,false,false
+UA002012,05 Feb 17,1,BLTC,GPHC,No. 2,Finlay Heath,Jack Fuller,Jack Fuller,2-6,2,6,0,1,Completed,true,false,false
+UA002012,05 Feb 17,1,BLTC,GPHC,No. 3,Christian Pilcher,Axel Rives,Axel Rives,6-7,6,7,0,1,Completed,true,false,false
+UA002012,05 Feb 17,1,BLTC,GPHC,No. 4,Darcy Henschke,Sam Heeps,Darcy Henschke,6-1,6,1,1,0,Completed,true,false,false
+UA002013,05 Feb 17,1,Kooyong 1,Kooyong 2,No. 1,Matthew Tingate,Phillip Mann-Segal,Phillip Mann-Segal,6-7,6,7,0,1,Completed,true,false,false
+UA002013,05 Feb 17,1,Kooyong 1,Kooyong 2,No. 2,Angus Cosgriff,Patrick Wraith-Bell,Angus Cosgriff,6-3,6,3,1,0,Completed,true,false,false
+UA002013,05 Feb 17,1,Kooyong 1,Kooyong 2,No. 3,Sam Palazzo,Linus Wraith-Bell,Linus Wraith-Bell,4-6,4,6,0,1,Completed,true,false,false
+UA002013,05 Feb 17,1,Kooyong 1,Kooyong 2,No. 4,Conor Game,Seamus Synnott,Conor Game,6-4,6,4,1,0,Completed,true,false,false
+UA002014,05 Feb 17,1,Carmelite,Coatesville,No. 1,Lachlan Jones,Michael Gershenzen,Michael Gershenzen,2-6,2,6,0,1,Completed,true,false,false
+UA002014,05 Feb 17,1,Carmelite,Coatesville,No. 2,Sait Parlic,James Alevizos,Sait Parlic,6-3,6,3,1,0,Completed,true,false,false
+UA002014,05 Feb 17,1,Carmelite,Coatesville,No. 3,Vincent MacDonald,Nathan Chan Yam,Nathan Chan Yam,6-7,6,7,0,1,Completed,true,false,false
+UA002014,05 Feb 17,1,Carmelite,Coatesville,No. 4,Anders Costelloe,Daniel Gershenzan,Daniel Gershenzan,0-6,0,6,0,1,Completed,true,false,false
+UA002021,12 Feb 17,2,Coatesville,Royal South Yarra,No. 1,Michael Gershenzen,Vivienne Johnston,Michael Gershenzen,6-1,6,1,1,0,Completed,true,false,false
+UA002021,12 Feb 17,2,Coatesville,Royal South Yarra,No. 2,Jonathoan Bong,Laura O'Farrell,Jonathoan Bong,6-0,6,0,1,0,Completed,true,false,false
+UA002021,12 Feb 17,2,Coatesville,Royal South Yarra,No. 3,Nathan Chan Yam,Henry Campbell,Nathan Chan Yam,6-3,6,3,1,0,Completed,true,false,false
+UA002021,12 Feb 17,2,Coatesville,Royal South Yarra,No. 4,Gabi Basman,Fleur Wackett,Gabi Basman,6-2,6,2,1,0,Completed,true,false,false
+UA002023,12 Feb 17,2,GPHC,Kooyong 1,No. 1,Jet Wigley,Angus Cosgriff,Jet Wigley,6-3,6,3,1,0,Completed,true,false,false
+UA002023,12 Feb 17,2,GPHC,Kooyong 1,No. 2,Jack Fuller,Jack Sorger,Jack Sorger,3-6,3,6,0,1,Completed,true,false,false
+UA002023,12 Feb 17,2,GPHC,Kooyong 1,No. 3,Axel Rives,Sam Palazzo,Axel Rives,7-5,7,5,1,0,Completed,true,false,false
+UA002023,12 Feb 17,2,GPHC,Kooyong 1,No. 4,Ethan Amalfi,Conor Game,Ethan Amalfi,7-6,7,6,1,0,Completed,true,false,false
+UA002024,12 Feb 17,2,Kooyong 2,Carmelite,No. 1,Patrick Wraith-Bell,Lachlan Jones,Lachlan Jones,4-6,4,6,0,1,Completed,true,false,false
+UA002024,12 Feb 17,2,Kooyong 2,Carmelite,No. 2,Linus Wraith-Bell,Oliver Jensz,Oliver Jensz,4-6,4,6,0,1,Completed,true,false,false
+UA002024,12 Feb 17,2,Kooyong 2,Carmelite,No. 3,Jude Hine,Vincent MacDonald,Jude Hine,7-5,7,5,1,0,Completed,true,false,false
+UA002024,12 Feb 17,2,Kooyong 2,Carmelite,No. 4,Hudson Ciavarella,Andre Gregoriou,Hudson Ciavarella,6-0,6,0,1,0,Completed,true,false,false
+UA002031,19 Feb 17,3,Royal South Yarra,Kooyong 2,No. 1,Vivienne Johnston,Phillip Mann-Segal,Phillip Mann-Segal,3-6,3,6,0,1,Completed,true,false,false
+UA002031,19 Feb 17,3,Royal South Yarra,Kooyong 2,No. 2,Henry Campbell,Seamus Synnott,Henry Campbell,6-3,6,3,1,0,Completed,true,false,false
+UA002031,19 Feb 17,3,Royal South Yarra,Kooyong 2,No. 3,Hugo Druce,Jude Hine,Jude Hine,2-6,2,6,0,1,Completed,true,false,false
+UA002031,19 Feb 17,3,Royal South Yarra,Kooyong 2,No. 4,Fleur Wackett,Hudson Ciavarella,Hudson Ciavarella,4-6,4,6,0,1,Completed,true,false,false
+UA002032,19 Feb 17,3,BLTC,Coatesville,No. 1,Tim Le Grand,James Alevizos,Tim Le Grand,6-3,6,3,1,0,Completed,true,false,false
+UA002032,19 Feb 17,3,BLTC,Coatesville,No. 2,Finlay Heath,Jonathoan Bong,Jonathoan Bong,0-6,0,6,0,1,Completed,true,false,false
+UA002032,19 Feb 17,3,BLTC,Coatesville,No. 3,Christian Pilcher,Nathan Chan Yam,Nathan Chan Yam,0-6,0,6,0,1,Completed,true,false,false
+UA002032,19 Feb 17,3,BLTC,Coatesville,No. 4,Jordan Segar,Gabi Basman,Gabi Basman,0-6,0,6,0,1,Completed,true,false,false
+UA002033,19 Feb 17,3,Kooyong 1,Tennis World,No. 1,Matthew Tingate,Harrison Raffaele,Harrison Raffaele,2-6,2,6,0,1,Completed,true,false,false
+UA002033,19 Feb 17,3,Kooyong 1,Tennis World,No. 2,Jack Sorger,Josh Mercuri,Josh Mercuri,1-6,1,6,0,1,Completed,true,false,false
+UA002033,19 Feb 17,3,Kooyong 1,Tennis World,No. 3,Conor Game,Adam Mercuri,Adam Mercuri,1-6,1,6,0,1,Completed,true,false,false
+UA002033,19 Feb 17,3,Kooyong 1,Tennis World,No. 4,[Unnamed player — TROLS UA002033 home code 4],James Barjaktar,James Barjaktar,0-6,0,6,0,1,Completed,false,false,false
+UA002034,19 Feb 17,3,Carmelite,GPHC,No. 1,Lachlan Jones,Jet Wigley,Jet Wigley,4-6,4,6,0,1,Completed,true,false,false
+UA002034,19 Feb 17,3,Carmelite,GPHC,No. 2,Vincent MacDonald,Jack Fuller,Jack Fuller,1-6,1,6,0,1,Completed,true,false,false
+UA002034,19 Feb 17,3,Carmelite,GPHC,No. 3,Anders Costelloe,Sam Heeps,Sam Heeps,1-6,1,6,0,1,Completed,true,false,false
+UA002034,19 Feb 17,3,Carmelite,GPHC,No. 4,Andre Gregoriou,Ethan Amalfi,Ethan Amalfi,4-6,4,6,0,1,Completed,true,false,false
+UA002041,26 Feb 17,4,GPHC,Royal South Yarra,No. 1,Jet Wigley,Vivienne Johnston,Vivienne Johnston,2-6,2,6,0,1,Completed,true,false,false
+UA002041,26 Feb 17,4,GPHC,Royal South Yarra,No. 2,Jack Fuller,Laura O'Farrell,Jack Fuller,7-6,7,6,1,0,Completed,true,false,false
+UA002041,26 Feb 17,4,GPHC,Royal South Yarra,No. 3,Axel Rives,Henry Campbell,Henry Campbell,5-7,5,7,0,1,Completed,true,false,false
+UA002041,26 Feb 17,4,GPHC,Royal South Yarra,No. 4,Sam Heeps,Hugo Druce,Sam Heeps,6-3,6,3,1,0,Completed,true,false,false
+UA002042,26 Feb 17,4,Kooyong 2,BLTC,No. 1,Phillip Mann-Segal,Tim Le Grand,Phillip Mann-Segal,6-4,6,4,1,0,Completed,true,false,false
+UA002042,26 Feb 17,4,Kooyong 2,BLTC,No. 2,Patrick Wraith-Bell,Finlay Heath,Patrick Wraith-Bell,6-3,6,3,1,0,Completed,true,false,false
+UA002042,26 Feb 17,4,Kooyong 2,BLTC,No. 3,Linus Wraith-Bell,Christian Pilcher,Linus Wraith-Bell,6-3,6,3,1,0,Completed,true,false,false
+UA002042,26 Feb 17,4,Kooyong 2,BLTC,No. 4,Seamus Synnott,Darcy Henschke,Darcy Henschke,3-6,3,6,0,1,Completed,true,false,false
+UA002043,26 Feb 17,4,Coatesville,Kooyong 1,No. 1,Michael Gershenzen,Matthew Tingate,Michael Gershenzen,6-2,6,2,1,0,Completed,true,false,false
+UA002043,26 Feb 17,4,Coatesville,Kooyong 1,No. 2,James Alevizos,Angus Cosgriff,James Alevizos,6-3,6,3,1,0,Completed,true,false,false
+UA002043,26 Feb 17,4,Coatesville,Kooyong 1,No. 3,Nathan Chan Yam,Sam Palazzo,Nathan Chan Yam,6-1,6,1,1,0,Completed,true,false,false
+UA002043,26 Feb 17,4,Coatesville,Kooyong 1,No. 4,Daniel Gershenzan,Jack Sorger,Daniel Gershenzan,6-0,6,0,1,0,Completed,true,false,false
+UA002044,26 Feb 17,4,Tennis World,Carmelite,No. 1,Bailey Liu,Lachlan Jones,Bailey Liu,7-5,7,5,1,0,Completed,true,false,false
+UA002044,26 Feb 17,4,Tennis World,Carmelite,No. 2,James Barjaktar,Sait Parlic,Sait Parlic,1-6,1,6,0,1,Completed,true,false,false
+UA002044,26 Feb 17,4,Tennis World,Carmelite,No. 3,Will Keely,Vincent MacDonald,Vincent MacDonald,3-6,3,6,0,1,Completed,true,false,false
+UA002044,26 Feb 17,4,Tennis World,Carmelite,No. 4,George Georgakas,Andre Gregoriou,George Georgakas,6-2,6,2,1,0,Completed,true,false,false
+UA002051,05 Mar 17,5,Kooyong 1,Carmelite,No. 1,Matthew Tingate,Lachlan Jones,Lachlan Jones,2-6,2,6,0,1,Completed,true,false,false
+UA002051,05 Mar 17,5,Kooyong 1,Carmelite,No. 2,Angus Cosgriff,Oliver Jensz,Oliver Jensz,4-6,4,6,0,1,Completed,true,false,false
+UA002051,05 Mar 17,5,Kooyong 1,Carmelite,No. 3,Sam Palazzo,Vincent MacDonald,Vincent MacDonald,1-6,1,6,0,1,Completed,true,false,false
+UA002051,05 Mar 17,5,Kooyong 1,Carmelite,No. 4,Conor Game,Andre Gregoriou,Conor Game,7-5,7,5,1,0,Completed,true,false,false
+UA002052,05 Mar 17,5,Coatesville,Kooyong 2,No. 1,Michael Gershenzen,Patrick Wraith-Bell,Michael Gershenzen,6-2,6,2,1,0,Completed,true,false,false
+UA002052,05 Mar 17,5,Coatesville,Kooyong 2,No. 2,Jonathoan Bong,Linus Wraith-Bell,Jonathoan Bong,7-6,7,6,1,0,Completed,true,false,false
+UA002052,05 Mar 17,5,Coatesville,Kooyong 2,No. 3,Daniel Gershenzan,Jude Hine,Daniel Gershenzan,6-4,6,4,1,0,Completed,true,false,false
+UA002052,05 Mar 17,5,Coatesville,Kooyong 2,No. 4,Gabi Basman,Hudson Ciavarella,Gabi Basman,6-1,6,1,1,0,Completed,true,false,false
+UA002053,05 Mar 17,5,GPHC,Tennis World,No. 1,Jet Wigley,Josh Mercuri,Josh Mercuri,5-7,5,7,0,1,Completed,true,false,false
+UA002053,05 Mar 17,5,GPHC,Tennis World,No. 2,Jack Fuller,James Barjaktar,Jack Fuller,6-3,6,3,1,0,Completed,true,false,false
+UA002053,05 Mar 17,5,GPHC,Tennis World,No. 3,Axel Rives,Adam Mercuri,Adam Mercuri,3-6,3,6,0,1,Completed,true,false,false
+UA002053,05 Mar 17,5,GPHC,Tennis World,No. 4,Sam Heeps,Will Keely,Sam Heeps,6-3,6,3,1,0,Completed,true,false,false
+UA002054,05 Mar 17,5,Royal South Yarra,BLTC,No. 1,Vivienne Johnston,Tim Le Grand,Vivienne Johnston,6-2,6,2,1,0,Completed,true,false,false
+UA002054,05 Mar 17,5,Royal South Yarra,BLTC,No. 2,Henry Campbell,Finlay Heath,Henry Campbell,6-1,6,1,1,0,Completed,true,false,false
+UA002054,05 Mar 17,5,Royal South Yarra,BLTC,No. 3,Hugo Druce,Christian Pilcher,Christian Pilcher,1-6,1,6,0,1,Completed,true,false,false
+UA002054,05 Mar 17,5,Royal South Yarra,BLTC,No. 4,Fleur Wackett,Darcy Henschke,Darcy Henschke,1-6,1,6,0,1,Completed,true,false,false
+UA002061,19 Mar 17,6,BLTC,Kooyong 1,No. 1,Tim Le Grand,Matthew Tingate,Tim Le Grand,6-0,6,0,1,0,Completed,true,false,false
+UA002061,19 Mar 17,6,BLTC,Kooyong 1,No. 2,Christian Pilcher,Jack Sorger,Christian Pilcher,6-2,6,2,1,0,Completed,true,false,false
+UA002061,19 Mar 17,6,BLTC,Kooyong 1,No. 3,Jordan Segar,Conor Game,Conor Game,5-7,5,7,0,1,Completed,true,false,false
+UA002061,19 Mar 17,6,BLTC,Kooyong 1,No. 4,Darcy Henschke,Linus Wraith-Bell,Linus Wraith-Bell,2-6,2,6,0,1,Completed,true,false,false
+UA002062,19 Mar 17,6,Carmelite,Royal South Yarra,No. 1,Lachlan Jones,Vivienne Johnston,Lachlan Jones,6-1,6,1,1,0,Completed,true,false,false
+UA002062,19 Mar 17,6,Carmelite,Royal South Yarra,No. 2,Sait Parlic,Laura O'Farrell,Sait Parlic,6-2,6,2,1,0,Completed,true,false,false
+UA002062,19 Mar 17,6,Carmelite,Royal South Yarra,No. 3,Oliver Jensz,Hugo Druce,Oliver Jensz,6-2,6,2,1,0,Completed,true,false,false
+UA002062,19 Mar 17,6,Carmelite,Royal South Yarra,No. 4,Andre Gregoriou,Fleur Wackett,Andre Gregoriou,7-6,7,6,1,0,Completed,true,false,false
+UA002063,19 Mar 17,6,Kooyong 2,GPHC,No. 1,Patrick Wraith-Bell,Jet Wigley,Patrick Wraith-Bell,6-1,6,1,1,0,Completed,true,false,false
+UA002063,19 Mar 17,6,Kooyong 2,GPHC,No. 2,Seamus Synnott,Jack Fuller,Seamus Synnott,6-2,6,2,1,0,Completed,true,false,false
+UA002063,19 Mar 17,6,Kooyong 2,GPHC,No. 3,Jude Hine,Axel Rives,Jude Hine,6-2,6,2,1,0,Completed,true,false,false
+UA002063,19 Mar 17,6,Kooyong 2,GPHC,No. 4,Hudson Ciavarella,Ethan Amalfi,Hudson Ciavarella,6-1,6,1,1,0,Completed,true,false,false
+UA002064,19 Mar 17,6,Tennis World,Coatesville,No. 1,Raphael Bleechmore,Michael Gershenzen,Raphael Bleechmore,7-6,7,6,1,0,Completed,true,false,false
+UA002064,19 Mar 17,6,Tennis World,Coatesville,No. 2,Josh Mercuri,James Alevizos,James Alevizos,3-6,3,6,0,1,Completed,true,false,false
+UA002064,19 Mar 17,6,Tennis World,Coatesville,No. 3,Adam Mercuri,Jonathoan Bong,Jonathoan Bong,1-6,1,6,0,1,Completed,true,false,false
+UA002064,19 Mar 17,6,Tennis World,Coatesville,No. 4,Ethan Brooke,Gabi Basman,Gabi Basman,2-6,2,6,0,1,Completed,true,false,false
+UA002071,26 Mar 17,7,Royal South Yarra,Kooyong 1,No. 1,Vivienne Johnston,Matthew Tingate,Vivienne Johnston,7-5,7,5,1,0,Completed,true,false,false
+UA002071,26 Mar 17,7,Royal South Yarra,Kooyong 1,No. 2,Henry Campbell,Jack Sorger,Henry Campbell,6-2,6,2,1,0,Completed,true,false,false
+UA002071,26 Mar 17,7,Royal South Yarra,Kooyong 1,No. 3,Hugo Druce,Sam Palazzo,Sam Palazzo,3-6,3,6,0,1,Completed,true,false,false
+UA002071,26 Mar 17,7,Royal South Yarra,Kooyong 1,No. 4,Fleur Wackett,Conor Game,Conor Game,3-6,3,6,0,1,Completed,true,false,false
+UA002072,26 Mar 17,7,BLTC,Carmelite,No. 1,Tim Le Grand,Lachlan Jones,Tim Le Grand,7-5,7,5,1,0,Completed,true,false,false
+UA002072,26 Mar 17,7,BLTC,Carmelite,No. 2,Finlay Heath,Sait Parlic,Sait Parlic,1-6,1,6,0,1,Completed,true,false,false
+UA002072,26 Mar 17,7,BLTC,Carmelite,No. 3,Jordan Segar,Oliver Jensz,Oliver Jensz,0-6,0,6,0,1,Completed,true,false,false
+UA002072,26 Mar 17,7,BLTC,Carmelite,No. 4,Darcy Henschke,Vincent MacDonald,Darcy Henschke,6-1,6,1,1,0,Completed,true,false,false
+UA002073,26 Mar 17,7,Coatesville,GPHC,No. 1,Michael Gershenzen,Jack Fuller,Michael Gershenzen,6-0,6,0,1,0,Completed,true,false,false
+UA002073,26 Mar 17,7,Coatesville,GPHC,No. 2,James Alevizos,Axel Rives,James Alevizos,6-2,6,2,1,0,Completed,true,false,false
+UA002073,26 Mar 17,7,Coatesville,GPHC,No. 3,Nathan Chan Yam,Sam Heeps,Nathan Chan Yam,6-2,6,2,1,0,Completed,true,false,false
+UA002073,26 Mar 17,7,Coatesville,GPHC,No. 4,Daniel Gershenzan,Ethan Amalfi,Daniel Gershenzan,6-1,6,1,1,0,Completed,true,false,false
+UA002074,26 Mar 17,7,Kooyong 2,Tennis World,No. 1,Phillip Mann-Segal,Raphael Bleechmore,Raphael Bleechmore,2-6,2,6,0,1,Completed,true,false,false
+UA002074,26 Mar 17,7,Kooyong 2,Tennis World,No. 2,Patrick Wraith-Bell,Harrison Raffaele,Harrison Raffaele,0-6,0,6,0,1,Completed,true,false,false
+UA002074,26 Mar 17,7,Kooyong 2,Tennis World,No. 3,Linus Wraith-Bell,Bailey Liu,Bailey Liu,4-6,4,6,0,1,Completed,true,false,false
+UA002074,26 Mar 17,7,Kooyong 2,Tennis World,No. 4,Seamus Synnott,Will Keely,Seamus Synnott,6-1,6,1,1,0,Completed,true,false,false
+UA002081,23 Apr 17,8,Tennis World,Royal South Yarra,No. 1,Raphael Bleechmore,Laura O'Farrell,Raphael Bleechmore,6-0,6,0,1,0,Completed,true,false,false
+UA002081,23 Apr 17,8,Tennis World,Royal South Yarra,No. 2,Harrison Raffaele,Henry Campbell,Harrison Raffaele,6-1,6,1,1,0,Completed,true,false,false
+UA002081,23 Apr 17,8,Tennis World,Royal South Yarra,No. 3,Ethan Brooke,Hugo Druce,Ethan Brooke,6-0,6,0,1,0,Completed,true,false,false
+UA002081,23 Apr 17,8,Tennis World,Royal South Yarra,No. 4,George Georgakas,Fleur Wackett,George Georgakas,6-0,6,0,1,0,Completed,true,false,false
+UA002082,23 Apr 17,8,GPHC,BLTC,No. 1,Jet Wigley,Tim Le Grand,Tim Le Grand,3-6,3,6,0,1,Completed,true,false,false
+UA002082,23 Apr 17,8,GPHC,BLTC,No. 2,Jack Fuller,Finlay Heath,Jack Fuller,6-3,6,3,1,0,Completed,true,false,false
+UA002082,23 Apr 17,8,GPHC,BLTC,No. 3,Axel Rives,Christian Pilcher,Axel Rives,6-3,6,3,1,0,Completed,true,false,false
+UA002082,23 Apr 17,8,GPHC,BLTC,No. 4,Sam Heeps,Darcy Henschke,Sam Heeps,6-4,6,4,1,0,Completed,true,false,false
+UA002083,23 Apr 17,8,Kooyong 2,Kooyong 1,No. 1,Patrick Wraith-Bell,Matthew Tingate,Patrick Wraith-Bell,6-1,6,1,1,0,Completed,true,false,false
+UA002083,23 Apr 17,8,Kooyong 2,Kooyong 1,No. 2,Linus Wraith-Bell,Angus Cosgriff,Linus Wraith-Bell,6-2,6,2,1,0,Completed,true,false,false
+UA002083,23 Apr 17,8,Kooyong 2,Kooyong 1,No. 3,Jude Hine,Sam Palazzo,Jude Hine,6-0,6,0,1,0,Completed,true,false,false
+UA002083,23 Apr 17,8,Kooyong 2,Kooyong 1,No. 4,Hudson Ciavarella,Conor Game,Conor Game,1-6,1,6,0,1,Completed,true,false,false
+UA002084,23 Apr 17,8,Coatesville,Carmelite,No. 1,Michael Gershenzen,Lachlan Jones,Michael Gershenzen,7-6,7,6,1,0,Completed,true,false,false
+UA002084,23 Apr 17,8,Coatesville,Carmelite,No. 2,Nathan Chan Yam,Sait Parlic,Sait Parlic,3-6,3,6,0,1,Completed,true,false,false
+UA002084,23 Apr 17,8,Coatesville,Carmelite,No. 3,Daniel Gershenzan,Oliver Jensz,Oliver Jensz,3-6,3,6,0,1,Completed,true,false,false
+UA002084,23 Apr 17,8,Coatesville,Carmelite,No. 4,Gabi Basman,Vincent MacDonald,Vincent MacDonald,6-7,6,7,0,1,Completed,true,false,false
+UA002091,30 Apr 17,9,Royal South Yarra,Coatesville,No. 1,Vivienne Johnston,James Alevizos,James Alevizos,1-6,1,6,0,1,Completed,true,false,false
+UA002091,30 Apr 17,9,Royal South Yarra,Coatesville,No. 2,Laura O'Farrell,Jonathoan Bong,Jonathoan Bong,0-6,0,6,0,1,Completed,true,false,false
+UA002091,30 Apr 17,9,Royal South Yarra,Coatesville,No. 3,Henry Campbell,Nathan Chan Yam,Nathan Chan Yam,2-6,2,6,0,1,Completed,true,false,false
+UA002091,30 Apr 17,9,Royal South Yarra,Coatesville,No. 4,Fleur Wackett,Gabi Basman,Gabi Basman,3-6,3,6,0,1,Completed,true,false,false
+UA002092,30 Apr 17,9,BLTC,Tennis World,No. 1,Tim Le Grand,Harrison Raffaele,Harrison Raffaele,4-6,4,6,0,1,Completed,true,false,false
+UA002092,30 Apr 17,9,BLTC,Tennis World,No. 2,Finlay Heath,Josh Mercuri,Josh Mercuri,1-6,1,6,0,1,Completed,true,false,false
+UA002092,30 Apr 17,9,BLTC,Tennis World,No. 3,Christian Pilcher,James Barjaktar,Christian Pilcher,6-4,6,4,1,0,Completed,true,false,false
+UA002092,30 Apr 17,9,BLTC,Tennis World,No. 4,Darcy Henschke,Adam Mercuri,Adam Mercuri,4-6,4,6,0,1,Completed,true,false,false
+UA002093,30 Apr 17,9,Kooyong 1,GPHC,No. 1,Matthew Tingate,Jet Wigley,Jet Wigley,4-6,4,6,0,1,Completed,true,false,false
+UA002093,30 Apr 17,9,Kooyong 1,GPHC,No. 2,Angus Cosgriff,Jack Fuller,Angus Cosgriff,6-2,6,2,1,0,Completed,true,false,false
+UA002093,30 Apr 17,9,Kooyong 1,GPHC,No. 3,Sam Palazzo,Axel Rives,Axel Rives,4-6,4,6,0,1,Completed,true,false,false
+UA002093,30 Apr 17,9,Kooyong 1,GPHC,No. 4,Conor Game,Ethan Amalfi,Conor Game,6-1,6,1,1,0,Completed,true,false,false
+UA002094,30 Apr 17,9,Carmelite,Kooyong 2,No. 1,Sait Parlic,Phillip Mann-Segal,Sait Parlic,6-0,6,0,1,0,Completed,true,false,false
+UA002094,30 Apr 17,9,Carmelite,Kooyong 2,No. 2,Vincent MacDonald,Seamus Synnott,Vincent MacDonald,6-0,6,0,1,0,Completed,true,false,false
+UA002094,30 Apr 17,9,Carmelite,Kooyong 2,No. 3,Anders Costelloe,Jude Hine,Jude Hine,1-6,1,6,0,1,Completed,true,false,false
+UA002094,30 Apr 17,9,Carmelite,Kooyong 2,No. 4,Andre Gregoriou,Hudson Ciavarella,Andre Gregoriou,6-3,6,3,1,0,Completed,true,false,false
+UA002101,07 May 17,10,Kooyong 2,Royal South Yarra,No. 1,Phillip Mann-Segal,Vivienne Johnston,Vivienne Johnston,5-7,5,7,0,1,Completed,true,false,false
+UA002101,07 May 17,10,Kooyong 2,Royal South Yarra,No. 2,Patrick Wraith-Bell,Henry Campbell,Patrick Wraith-Bell,6-1,6,1,1,0,Completed,true,false,false
+UA002101,07 May 17,10,Kooyong 2,Royal South Yarra,No. 3,Linus Wraith-Bell,Hugo Druce,Linus Wraith-Bell,6-1,6,1,1,0,Completed,true,false,false
+UA002101,07 May 17,10,Kooyong 2,Royal South Yarra,No. 4,Jude Hine,Fleur Wackett,Jude Hine,6-0,6,0,1,0,Completed,true,false,false
+UA002102,07 May 17,10,Coatesville,BLTC,No. 1,Michael Gershenzen,Tim Le Grand,Michael Gershenzen,6-2,6,2,1,0,Completed,true,false,false
+UA002102,07 May 17,10,Coatesville,BLTC,No. 2,James Alevizos,Finlay Heath,James Alevizos,6-3,6,3,1,0,Completed,true,false,false
+UA002102,07 May 17,10,Coatesville,BLTC,No. 3,Nathan Chan Yam,Christian Pilcher,Christian Pilcher,4-6,4,6,0,1,Completed,true,false,false
+UA002102,07 May 17,10,Coatesville,BLTC,No. 4,Daniel Gershenzan,Darcy Henschke,Daniel Gershenzan,6-3,6,3,1,0,Completed,true,false,false
+UA002103,07 May 17,10,Tennis World,Kooyong 1,No. 1,Josh Mercuri,Matthew Tingate,Josh Mercuri,6-3,6,3,1,0,Completed,true,false,false
+UA002103,07 May 17,10,Tennis World,Kooyong 1,No. 2,Bailey Liu,Angus Cosgriff,Bailey Liu,6-2,6,2,1,0,Completed,true,false,false
+UA002103,07 May 17,10,Tennis World,Kooyong 1,No. 3,James Barjaktar,Jack Sorger,James Barjaktar,6-2,6,2,1,0,Completed,true,false,false
+UA002103,07 May 17,10,Tennis World,Kooyong 1,No. 4,Adam Mercuri,Conor Game,Adam Mercuri,6-1,6,1,1,0,Completed,true,false,false
+UA002104,07 May 17,10,GPHC,Carmelite,No. 1,Jet Wigley,Lachlan Jones,Lachlan Jones,3-6,3,6,0,1,Completed,true,false,false
+UA002104,07 May 17,10,GPHC,Carmelite,No. 2,Jack Fuller,Vincent MacDonald,Vincent MacDonald,3-6,3,6,0,1,Completed,true,false,false
+UA002104,07 May 17,10,GPHC,Carmelite,No. 3,Sam Heeps,Anders Costelloe,Sam Heeps,6-4,6,4,1,0,Completed,true,false,false
+UA002104,07 May 17,10,GPHC,Carmelite,No. 4,Ethan Amalfi,Andre Gregoriou,Andre Gregoriou,5-7,5,7,0,1,Completed,true,false,false
+UA002111,14 May 17,11,Royal South Yarra,GPHC,No. 1,Vivienne Johnston,Jet Wigley,Jet Wigley,5-7,5,7,0,1,Completed,true,false,false
+UA002111,14 May 17,11,Royal South Yarra,GPHC,No. 2,Laura O'Farrell,Jack Fuller,Laura O'Farrell,6-4,6,4,1,0,Completed,true,false,false
+UA002111,14 May 17,11,Royal South Yarra,GPHC,No. 3,Henry Campbell,Axel Rives,Axel Rives,4-6,4,6,0,1,Completed,true,false,false
+UA002111,14 May 17,11,Royal South Yarra,GPHC,No. 4,Fleur Wackett,Ethan Amalfi,Ethan Amalfi,0-6,0,6,0,1,Completed,true,false,false
+UA002112,14 May 17,11,BLTC,Kooyong 2,No. 1,Josh Brown,Patrick Wraith-Bell,Josh Brown,6-0,6,0,1,0,Completed,true,false,false
+UA002112,14 May 17,11,BLTC,Kooyong 2,No. 2,Tim Le Grand,Linus Wraith-Bell,Tim Le Grand,6-4,6,4,1,0,Completed,true,false,false
+UA002112,14 May 17,11,BLTC,Kooyong 2,No. 3,Christian Pilcher,Seamus Synnott,Christian Pilcher,6-3,6,3,1,0,Completed,true,false,false
+UA002112,14 May 17,11,BLTC,Kooyong 2,No. 4,Darcy Henschke,Hudson Ciavarella,Darcy Henschke,6-3,6,3,1,0,Completed,true,false,false
+UA002113,14 May 17,11,Kooyong 1,Coatesville,No. 1,Matthew Tingate,Michael Gershenzen,Michael Gershenzen,1-6,1,6,0,1,Completed,true,false,false
+UA002113,14 May 17,11,Kooyong 1,Coatesville,No. 2,Angus Cosgriff,Jonathoan Bong,Jonathoan Bong,1-6,1,6,0,1,Completed,true,false,false
+UA002113,14 May 17,11,Kooyong 1,Coatesville,No. 3,Jack Sorger,Daniel Gershenzan,Daniel Gershenzan,0-6,0,6,0,1,Completed,true,false,false
+UA002113,14 May 17,11,Kooyong 1,Coatesville,No. 4,Sam Palazzo,Gabi Basman,Gabi Basman,5-7,5,7,0,1,Completed,true,false,false
+UA002114,14 May 17,11,Carmelite,Tennis World,No. 1,Lachlan Jones,Josh Mercuri,Josh Mercuri,0-6,0,6,0,1,Completed,true,false,false
+UA002114,14 May 17,11,Carmelite,Tennis World,No. 2,Oliver Jensz,Bailey Liu,Oliver Jensz,6-4,6,4,1,0,Completed,true,false,false
+UA002114,14 May 17,11,Carmelite,Tennis World,No. 3,Vincent MacDonald,James Barjaktar,Vincent MacDonald,6-3,6,3,1,0,Completed,true,false,false
+UA002114,14 May 17,11,Carmelite,Tennis World,No. 4,Andre Gregoriou,Adam Mercuri,Adam Mercuri,1-6,1,6,0,1,Completed,true,false,false
+UA002121,21 May 17,12,Carmelite,Kooyong 1,No. 1,Sait Parlic,Matthew Tingate,Sait Parlic,7-6,7,6,1,0,Completed,true,false,false
+UA002121,21 May 17,12,Carmelite,Kooyong 1,No. 2,Oliver Jensz,Jack Sorger,Oliver Jensz,6-2,6,2,1,0,Completed,true,false,false
+UA002121,21 May 17,12,Carmelite,Kooyong 1,No. 3,Anders Costelloe,Sam Palazzo,Sam Palazzo,3-6,3,6,0,1,Completed,true,false,false
+UA002121,21 May 17,12,Carmelite,Kooyong 1,No. 4,Andre Gregoriou,Conor Game,Andre Gregoriou,7-6,7,6,1,0,Completed,true,false,false
+UA002122,21 May 17,12,Kooyong 2,Coatesville,No. 1,Phillip Mann-Segal,James Alevizos,James Alevizos,2-6,2,6,0,1,Completed,true,false,false
+UA002122,21 May 17,12,Kooyong 2,Coatesville,No. 2,Linus Wraith-Bell,Jonathoan Bong,Jonathoan Bong,4-6,4,6,0,1,Completed,true,false,false
+UA002122,21 May 17,12,Kooyong 2,Coatesville,No. 3,Jude Hine,Nathan Chan Yam,Jude Hine,6-4,6,4,1,0,Completed,true,false,false
+UA002122,21 May 17,12,Kooyong 2,Coatesville,No. 4,Hudson Ciavarella,Gabi Basman,Gabi Basman,2-6,2,6,0,1,Completed,true,false,false
+UA002123,21 May 17,12,Tennis World,GPHC,No. 1,Harrison Raffaele,Jet Wigley,Harrison Raffaele,6-1,6,1,1,0,Completed,true,false,false
+UA002123,21 May 17,12,Tennis World,GPHC,No. 2,Josh Mercuri,Jack Fuller,Josh Mercuri,6-0,6,0,1,0,Completed,true,false,false
+UA002123,21 May 17,12,Tennis World,GPHC,No. 3,Bailey Liu,Axel Rives,Bailey Liu,6-1,6,1,1,0,Completed,true,false,false
+UA002123,21 May 17,12,Tennis World,GPHC,No. 4,Ethan Brooke,Sam Heeps,Sam Heeps,1-6,1,6,0,1,Completed,true,false,false
+UA002124,21 May 17,12,BLTC,Royal South Yarra,No. 1,Tim Le Grand,Vivienne Johnston,Tim Le Grand,6-1,6,1,1,0,Completed,true,false,false
+UA002124,21 May 17,12,BLTC,Royal South Yarra,No. 2,Finlay Heath,Laura O'Farrell,Finlay Heath,6-1,6,1,1,0,Completed,true,false,false
+UA002124,21 May 17,12,BLTC,Royal South Yarra,No. 3,Christian Pilcher,Henry Campbell,Henry Campbell,3-6,3,6,0,1,Completed,true,false,false
+UA002124,21 May 17,12,BLTC,Royal South Yarra,No. 4,Darcy Henschke,Hugo Druce,Hugo Druce,2-6,2,6,0,1,Completed,true,false,false
+UA002131,28 May 17,13,Kooyong 1,BLTC,No. 1,Matthew Tingate,Sam Dyson,Matthew Tingate,6-1,6,1,1,0,Completed,true,false,false
+UA002131,28 May 17,13,Kooyong 1,BLTC,No. 2,Angus Cosgriff,Finlay Heath,Finlay Heath,1-6,1,6,0,1,Completed,true,false,false
+UA002131,28 May 17,13,Kooyong 1,BLTC,No. 3,Jack Sorger,Christian Pilcher,Jack Sorger,6-4,6,4,1,0,Completed,true,false,false
+UA002131,28 May 17,13,Kooyong 1,BLTC,No. 4,Conor Game,Darcy Henschke,Darcy Henschke,5-7,5,7,0,1,Completed,true,false,false
+UA002132,28 May 17,13,Royal South Yarra,Carmelite,No. 1,Laura O'Farrell,Lachlan Jones,Lachlan Jones,1-6,1,6,0,1,Completed,true,false,false
+UA002132,28 May 17,13,Royal South Yarra,Carmelite,No. 2,Henry Campbell,Sait Parlic,Sait Parlic,3-6,3,6,0,1,Completed,true,false,false
+UA002132,28 May 17,13,Royal South Yarra,Carmelite,No. 3,Hugo Druce,Vincent MacDonald,Vincent MacDonald,3-6,3,6,0,1,Completed,true,false,false
+UA002132,28 May 17,13,Royal South Yarra,Carmelite,No. 4,Fleur Wackett,Anders Costelloe,Anders Costelloe,3-6,3,6,0,1,Completed,true,false,false
+UA002133,28 May 17,13,GPHC,Kooyong 2,No. 1,Jet Wigley,Phillip Mann-Segal,Jet Wigley,6-3,6,3,1,0,Completed,true,false,false
+UA002133,28 May 17,13,GPHC,Kooyong 2,No. 2,Axel Rives,Linus Wraith-Bell,Linus Wraith-Bell,3-6,3,6,0,1,Completed,true,false,false
+UA002133,28 May 17,13,GPHC,Kooyong 2,No. 3,Sam Heeps,Seamus Synnott,Sam Heeps,6-2,6,2,1,0,Completed,true,false,false
+UA002133,28 May 17,13,GPHC,Kooyong 2,No. 4,Ethan Amalfi,Jude Hine,Jude Hine,5-7,5,7,0,1,Completed,true,false,false
+UA002134,28 May 17,13,Coatesville,Tennis World,No. 1,Michael Gershenzen,James Barjaktar,Michael Gershenzen,6-0,6,0,1,0,Completed,true,false,false
+UA002134,28 May 17,13,Coatesville,Tennis World,No. 2,James Alevizos,Ethan Brooke,James Alevizos,6-2,6,2,1,0,Completed,true,false,false
+UA002134,28 May 17,13,Coatesville,Tennis World,No. 3,Nathan Chan Yam,Will Keely,Nathan Chan Yam,6-2,6,2,1,0,Completed,true,false,false
+UA002134,28 May 17,13,Coatesville,Tennis World,No. 4,Daniel Gershenzan,George Georgakas,Daniel Gershenzan,6-1,6,1,1,0,Completed,true,false,false
+UA002141,04 Jun 17,14,Kooyong 1,Royal South Yarra,No. 1,Angus Cosgriff,Vivienne Johnston,Vivienne Johnston,2-6,2,6,0,1,Completed,true,false,false
+UA002141,04 Jun 17,14,Kooyong 1,Royal South Yarra,No. 2,Jack Sorger,Laura O'Farrell,Jack Sorger,7-6,7,6,1,0,Completed,true,false,false
+UA002141,04 Jun 17,14,Kooyong 1,Royal South Yarra,No. 3,Sam Palazzo,Henry Campbell,Sam Palazzo,7-5,7,5,1,0,Completed,true,false,false
+UA002141,04 Jun 17,14,Kooyong 1,Royal South Yarra,No. 4,Conor Game,Hugo Druce,Hugo Druce,3-6,3,6,0,1,Completed,true,false,false
+UA002142,04 Jun 17,14,Carmelite,BLTC,No. 1,Lachlan Jones,Tim Le Grand,Lachlan Jones,6-1,6,1,1,0,Completed,true,false,false
+UA002142,04 Jun 17,14,Carmelite,BLTC,No. 2,Oliver Jensz,Finlay Heath,Oliver Jensz,6-3,6,3,1,0,Completed,true,false,false
+UA002142,04 Jun 17,14,Carmelite,BLTC,No. 3,Vincent MacDonald,Christian Pilcher,Vincent MacDonald,7-5,7,5,1,0,Completed,true,false,false
+UA002142,04 Jun 17,14,Carmelite,BLTC,No. 4,Andre Gregoriou,Darcy Henschke,Darcy Henschke,1-6,1,6,0,1,Completed,true,false,false
+UA002143,04 Jun 17,14,GPHC,Coatesville,No. 1,Jet Wigley,Michael Gershenzen,Michael Gershenzen,5-7,5,7,0,1,Completed,true,false,false
+UA002143,04 Jun 17,14,GPHC,Coatesville,No. 2,Axel Rives,Jonathoan Bong,Jonathoan Bong,2-6,2,6,0,1,Completed,true,false,false
+UA002143,04 Jun 17,14,GPHC,Coatesville,No. 3,Sam Heeps,Daniel Gershenzan,Daniel Gershenzan,1-6,1,6,0,1,Completed,true,false,false
+UA002143,04 Jun 17,14,GPHC,Coatesville,No. 4,Ethan Amalfi,Gabi Basman,Gabi Basman,1-6,1,6,0,1,Completed,true,false,false
+UA002144,04 Jun 17,14,Tennis World,Kooyong 2,No. 1,Raphael Bleechmore,Phillip Mann-Segal,Raphael Bleechmore,6-2,6,2,1,0,Completed,true,false,false
+UA002144,04 Jun 17,14,Tennis World,Kooyong 2,No. 2,Bailey Liu,Patrick Wraith-Bell,Bailey Liu,6-2,6,2,1,0,Completed,true,false,false
+UA002144,04 Jun 17,14,Tennis World,Kooyong 2,No. 3,James Barjaktar,Seamus Synnott,Seamus Synnott,4-6,4,6,0,1,Completed,true,false,false
+UA002144,04 Jun 17,14,Tennis World,Kooyong 2,No. 4,Ethan Brooke,Hudson Ciavarella,Ethan Brooke,6-1,6,1,1,0,Completed,true,false,false
+UA002301,,16,Coatesville,BLTC,No. 1,Michael Gershenzen,Tim Le Grand,Michael Gershenzen,6-0,6,0,1,0,Completed,true,false,false
+UA002301,,16,Coatesville,BLTC,No. 2,James Alevizos,Finlay Heath,James Alevizos,6-2,6,2,1,0,Completed,true,false,false
+UA002301,,16,Coatesville,BLTC,No. 3,Jonathoan Bong,Christian Pilcher,Jonathoan Bong,6-3,6,3,1,0,Completed,true,false,false
+UA002301,,16,Coatesville,BLTC,No. 4,Nathan Chan Yam,Darcy Henschke,Darcy Henschke,3-6,3,6,0,1,Completed,true,false,false
+UA002302,,16,Tennis World,Carmelite,No. 1,Raphael Bleechmore,Lachlan Jones,Raphael Bleechmore,6-4,6,4,1,0,Completed,true,false,false
+UA002302,,16,Tennis World,Carmelite,No. 2,Harrison Raffaele,Oliver Jensz,Harrison Raffaele,6-2,6,2,1,0,Completed,true,false,false
+UA002302,,16,Tennis World,Carmelite,No. 3,Josh Mercuri,Vincent MacDonald,Josh Mercuri,6-3,6,3,1,0,Completed,true,false,false
+UA002302,,16,Tennis World,Carmelite,No. 4,Bailey Liu,Anders Costelloe,Bailey Liu,6-3,6,3,1,0,Completed,true,false,false
+UA002321,,17,Coatesville,Tennis World,No. 1,Michael Gershenzen,Raphael Bleechmore,Michael Gershenzen,6-3,6,3,1,0,Completed,true,false,false
+UA002321,,17,Coatesville,Tennis World,No. 2,James Alevizos,Harrison Raffaele,James Alevizos,6-0,6,0,1,0,Completed,true,false,false
+UA002321,,17,Coatesville,Tennis World,No. 3,Jonathoan Bong,Josh Mercuri,Jonathoan Bong,6-4,6,4,1,0,Completed,true,false,false
+UA002321,,17,Coatesville,Tennis World,No. 4,Nathan Chan Yam,Bailey Liu,Bailey Liu,2-6,2,6,0,1,Completed,true,false,false

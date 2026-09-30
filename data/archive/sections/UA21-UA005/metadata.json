@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA21-UA005",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2017",
+  "season_id": "UA21",
+  "season_label": "Spring 2017",
+  "source_section_code": "UA005",
+  "section_label": "Section 5",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Royal South Yarra",
+      "wins": 12,
+      "points": 107,
+      "percentage": 138.34,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Glen Eira",
+      "wins": 8,
+      "points": 87,
+      "percentage": 122.32,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Carmelite",
+      "wins": 7,
+      "points": 78,
+      "percentage": 108.14,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Tennis World",
+      "wins": 6,
+      "points": 73,
+      "percentage": 111.08,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Coatesville",
+      "wins": 7,
+      "points": 71,
+      "percentage": 101.36,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Lauriston",
+      "wins": 7,
+      "points": 67,
+      "percentage": 90.79,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong Scotch",
+      "wins": 3,
+      "points": 46,
+      "percentage": 83.29,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Black Rock RA",
+      "wins": 2,
+      "points": 31,
+      "percentage": 60.14,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA21-UA005",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

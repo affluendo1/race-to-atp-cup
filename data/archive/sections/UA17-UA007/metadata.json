@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA17-UA007",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2015",
+  "season_id": "UA17",
+  "season_label": "Spring 2015",
+  "source_section_code": "UA007",
+  "section_label": "Section 7",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC 1",
+      "wins": 9,
+      "points": 92,
+      "percentage": 128.71,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 10,
+      "points": 92,
+      "percentage": 121.24,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Lauriston",
+      "wins": 7,
+      "points": 68,
+      "percentage": 97.9,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Aspendale",
+      "wins": 6,
+      "points": 67,
+      "percentage": 100.54,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "BLTC 2",
+      "wins": 6,
+      "points": 65,
+      "percentage": 88.74,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC",
+      "wins": 5,
+      "points": 64,
+      "percentage": 97.4,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Tennis World",
+      "wins": 7,
+      "points": 63,
+      "percentage": 86.53,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal South Yarra",
+      "wins": 3,
+      "points": 49,
+      "percentage": 86.89,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA17-UA007",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 59,
+  "singles_rubbers": 228,
+  "doubles_rubbers": 114,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,217 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA004011,20 Jul 14,1,Dendy Park,Caulfield Rec,No. 1,Danaya Malenda,Gabriel Gibber,Danaya Malenda,7-6,7,6,1,0,Completed,true,false,false
+UA004011,20 Jul 14,1,Dendy Park,Caulfield Rec,No. 2,[Unnamed player — TROLS UA004011 home code 2],Dennis Davidson,Dennis Davidson,0-6,0,6,0,1,Completed,false,false,false
+UA004011,20 Jul 14,1,Dendy Park,Caulfield Rec,No. 3,Sam Bennoun,Richard Gorovenko,Sam Bennoun,6-0,6,0,1,0,Completed,true,false,false
+UA004011,20 Jul 14,1,Dendy Park,Caulfield Rec,No. 4,Joel Landman,Stefani Savic,Stefani Savic,3-6,3,6,0,1,Completed,true,false,false
+UA004012,20 Jul 14,1,GPHC,Beaumaris CC,No. 1,Nathan Shephard,Ben Pease,Ben Pease,0-6,0,6,0,1,Completed,true,false,false
+UA004012,20 Jul 14,1,GPHC,Beaumaris CC,No. 2,Jet Wigley,Michael Todd,Michael Todd,2-6,2,6,0,1,Completed,true,false,false
+UA004012,20 Jul 14,1,GPHC,Beaumaris CC,No. 3,George Mildred Short,Sam Saviss,George Mildred Short,6-1,6,1,1,0,Completed,true,false,false
+UA004012,20 Jul 14,1,GPHC,Beaumaris CC,No. 4,Alistair Scott,Daniel Rideout,Daniel Rideout,3-6,3,6,0,1,Completed,true,false,false
+UA004013,20 Jul 14,1,Carmelite,Hampton,No. 1,Lachie Gunner,Callen Neasmith,Lachie Gunner,6-3,6,3,1,0,Completed,true,false,false
+UA004013,20 Jul 14,1,Carmelite,Hampton,No. 2,Isabella Michaels,Oliver Haig,Isabella Michaels,6-3,6,3,1,0,Completed,true,false,false
+UA004013,20 Jul 14,1,Carmelite,Hampton,No. 3,Suhani Jain,Curtis Neasmith,Suhani Jain,7-6,7,6,1,0,Completed,true,false,false
+UA004013,20 Jul 14,1,Carmelite,Hampton,No. 4,Oscar Lynch,Diego Osorio,Oscar Lynch,6-0,6,0,1,0,Completed,true,false,false
+UA004014,20 Jul 14,1,Mordialloc 1,Mordialloc 2,No. 1,Jake Goodchild,Pranay Thakker,Jake Goodchild,6-2,6,2,1,0,Completed,true,false,false
+UA004014,20 Jul 14,1,Mordialloc 1,Mordialloc 2,No. 2,Matt Lannan,Aaron Huynh,Matt Lannan,6-0,6,0,1,0,Completed,true,false,false
+UA004014,20 Jul 14,1,Mordialloc 1,Mordialloc 2,No. 3,Sam Lundy,Tash Lamberton,Sam Lundy,6-3,6,3,1,0,Completed,true,false,false
+UA004014,20 Jul 14,1,Mordialloc 1,Mordialloc 2,No. 4,Amelia Cincotta,Amy Prentice,Amy Prentice,1-6,1,6,0,1,Completed,true,false,false
+UA004021,27 Jul 14,2,Mordialloc 2,Dendy Park,No. 1,Pranay Thakker,Danaya Malenda,Danaya Malenda,0-6,0,6,0,1,Completed,true,false,false
+UA004021,27 Jul 14,2,Mordialloc 2,Dendy Park,No. 2,Aaron Huynh,James Konstas,James Konstas,3-6,3,6,0,1,Completed,true,false,false
+UA004021,27 Jul 14,2,Mordialloc 2,Dendy Park,No. 3,Tash Lamberton,Sam Bennoun,Sam Bennoun,6-7,6,7,0,1,Completed,true,false,false
+UA004021,27 Jul 14,2,Mordialloc 2,Dendy Park,No. 4,Samisdh Siva-Ram,Joel Landman,Samisdh Siva-Ram,6-2,6,2,1,0,Completed,true,false,false
+UA004022,27 Jul 14,2,Caulfield Rec,GPHC,No. 1,James Dosser,Nathan Shephard,James Dosser,6-2,6,2,1,0,Completed,true,false,false
+UA004022,27 Jul 14,2,Caulfield Rec,GPHC,No. 2,Gabriel Gibber,George Mildred Short,Gabriel Gibber,7-6,7,6,1,0,Completed,true,false,false
+UA004022,27 Jul 14,2,Caulfield Rec,GPHC,No. 3,Dennis Davidson,Alistair Scott,Dennis Davidson,6-2,6,2,1,0,Completed,true,false,false
+UA004022,27 Jul 14,2,Caulfield Rec,GPHC,No. 4,Josh Dosser,Ethan Amalfi,Josh Dosser,6-0,6,0,1,0,Completed,true,false,false
+UA004023,27 Jul 14,2,Beaumaris CC,Carmelite,No. 1,Ben Pease,Lachie Gunner,Lachie Gunner,2-6,2,6,0,1,Completed,true,false,false
+UA004023,27 Jul 14,2,Beaumaris CC,Carmelite,No. 2,Michael Todd,Isabella Michaels,Michael Todd,6-3,6,3,1,0,Completed,true,false,false
+UA004023,27 Jul 14,2,Beaumaris CC,Carmelite,No. 3,Sam Baker,Toby Arms,Toby Arms,0-6,0,6,0,1,Completed,true,false,false
+UA004023,27 Jul 14,2,Beaumaris CC,Carmelite,No. 4,Joshua Gibbons,Suhani Jain,Joshua Gibbons,6-2,6,2,1,0,Completed,true,false,false
+UA004024,27 Jul 14,2,Hampton,Mordialloc 1,No. 1,Oliver Haig,Jake Goodchild,Jake Goodchild,0-6,0,6,0,1,Completed,true,false,false
+UA004024,27 Jul 14,2,Hampton,Mordialloc 1,No. 2,Curtis Neasmith,Amelia Cincotta,Curtis Neasmith,7-6,7,6,1,0,Completed,true,false,false
+UA004024,27 Jul 14,2,Hampton,Mordialloc 1,No. 3,Ash Knight,Mikaela Romboldo,Ash Knight,6-4,6,4,1,0,Completed,true,false,false
+UA004024,27 Jul 14,2,Hampton,Mordialloc 1,No. 4,Oliver Haig,Jake Goodchild,Jake Goodchild,0-6,0,6,0,1,Completed,true,false,false
+UA004031,03 Aug 14,3,Dendy Park,Hampton,No. 1,Danaya Malenda,Callen Neasmith,Danaya Malenda,6-1,6,1,1,0,Completed,true,false,false
+UA004031,03 Aug 14,3,Dendy Park,Hampton,No. 2,James Konstas,Oliver Haig,James Konstas,6-4,6,4,1,0,Completed,true,false,false
+UA004031,03 Aug 14,3,Dendy Park,Hampton,No. 3,Sam Bennoun,Curtis Neasmith,Sam Bennoun,6-0,6,0,1,0,Completed,true,false,false
+UA004031,03 Aug 14,3,Dendy Park,Hampton,No. 4,Joel Landman,Ash Knight,Joel Landman,6-3,6,3,1,0,Completed,true,false,false
+UA004032,03 Aug 14,3,GPHC,Mordialloc 2,No. 1,Nathan Shephard,Aaron Huynh,Aaron Huynh,2-6,2,6,0,1,Completed,true,false,false
+UA004032,03 Aug 14,3,GPHC,Mordialloc 2,No. 2,Jet Wigley,Tash Lamberton,Jet Wigley,7-6,7,6,1,0,Completed,true,false,false
+UA004032,03 Aug 14,3,GPHC,Mordialloc 2,No. 3,George Mildred Short,Samisdh Siva-Ram,George Mildred Short,6-1,6,1,1,0,Completed,true,false,false
+UA004032,03 Aug 14,3,GPHC,Mordialloc 2,No. 4,Alistair Scott,Amy Prentice,Amy Prentice,4-6,4,6,0,1,Completed,true,false,false
+UA004034,03 Aug 14,3,Mordialloc 1,Beaumaris CC,No. 1,Jake Goodchild,Michael Puli,Michael Puli,3-6,3,6,0,1,Completed,true,false,false
+UA004034,03 Aug 14,3,Mordialloc 1,Beaumaris CC,No. 2,Matt Lannan,Ben Pease,Matt Lannan,6-2,6,2,1,0,Completed,true,false,false
+UA004034,03 Aug 14,3,Mordialloc 1,Beaumaris CC,No. 3,Amelia Cincotta,Michael Todd,Michael Todd,0-6,0,6,0,1,Completed,true,false,false
+UA004034,03 Aug 14,3,Mordialloc 1,Beaumaris CC,No. 4,Mikaela Romboldo,Sam Saviss,Sam Saviss,1-6,1,6,0,1,Completed,true,false,false
+UA004041,10 Aug 14,4,Beaumaris CC,Dendy Park,No. 1,Michael Puli,Chris Kokkinos,Chris Kokkinos,4-6,4,6,0,1,Completed,true,false,false
+UA004041,10 Aug 14,4,Beaumaris CC,Dendy Park,No. 2,Ben Pease,Danaya Malenda,Ben Pease,6-2,6,2,1,0,Completed,true,false,false
+UA004041,10 Aug 14,4,Beaumaris CC,Dendy Park,No. 3,Daniel Rideout,Sam Bennoun,Daniel Rideout,7-5,7,5,1,0,Completed,true,false,false
+UA004041,10 Aug 14,4,Beaumaris CC,Dendy Park,No. 4,James Hardgrove,Joel Landman,Joel Landman,2-6,2,6,0,1,Completed,true,false,false
+UA004042,10 Aug 14,4,Hampton,GPHC,No. 1,Callen Neasmith,George Mildred Short,Callen Neasmith,6-2,6,2,1,0,Completed,true,false,false
+UA004042,10 Aug 14,4,Hampton,GPHC,No. 2,Curtis Neasmith,Alistair Scott,Curtis Neasmith,6-4,6,4,1,0,Completed,true,false,false
+UA004042,10 Aug 14,4,Hampton,GPHC,No. 3,Ash Knight,Ethan Amalfi,Ash Knight,7-6,7,6,1,0,Completed,true,false,false
+UA004042,10 Aug 14,4,Hampton,GPHC,No. 4,Diego Osorio,Alec Gaudin,Alec Gaudin,2-6,2,6,0,1,Completed,true,false,false
+UA004043,10 Aug 14,4,Mordialloc 2,Carmelite,No. 1,Pranay Thakker,Lachie Gunner,Lachie Gunner,0-6,0,6,0,1,Completed,true,false,false
+UA004043,10 Aug 14,4,Mordialloc 2,Carmelite,No. 2,Tash Lamberton,Isabella Michaels,Isabella Michaels,3-6,3,6,0,1,Completed,true,false,false
+UA004043,10 Aug 14,4,Mordialloc 2,Carmelite,No. 3,Samisdh Siva-Ram,Toby Arms,Samisdh Siva-Ram,6-2,6,2,1,0,Completed,true,false,false
+UA004043,10 Aug 14,4,Mordialloc 2,Carmelite,No. 4,Amy Prentice,Suhani Jain,Amy Prentice,6-2,6,2,1,0,Completed,true,false,false
+UA004044,10 Aug 14,4,Caulfield Rec,Mordialloc 1,No. 1,James Dosser,Jason Knipe,James Dosser,6-0,6,0,1,0,Completed,true,false,false
+UA004044,10 Aug 14,4,Caulfield Rec,Mordialloc 1,No. 2,Gabriel Gibber,Sam Lundy,Gabriel Gibber,7-5,7,5,1,0,Completed,true,false,false
+UA004044,10 Aug 14,4,Caulfield Rec,Mordialloc 1,No. 3,Dennis Davidson,Amelia Cincotta,Amelia Cincotta,4-6,4,6,0,1,Completed,true,false,false
+UA004044,10 Aug 14,4,Caulfield Rec,Mordialloc 1,No. 4,Stefani Savic,Mikaela Romboldo,Stefani Savic,6-1,6,1,1,0,Completed,true,false,false
+UA004051,17 Aug 14,5,Carmelite,Mordialloc 1,No. 1,Lachie Gunner,Jason Knipe,Lachie Gunner,6-0,6,0,1,0,Completed,true,false,false
+UA004051,17 Aug 14,5,Carmelite,Mordialloc 1,No. 2,Isabella Michaels,Sam Lundy,Sam Lundy,4-6,4,6,0,1,Completed,true,false,false
+UA004051,17 Aug 14,5,Carmelite,Mordialloc 1,No. 3,Suhani Jain,Amelia Cincotta,Suhani Jain,6-3,6,3,1,0,Completed,true,false,false
+UA004051,17 Aug 14,5,Carmelite,Mordialloc 1,No. 4,Saskia Gunner,Mikaela Romboldo,Saskia Gunner,6-3,6,3,1,0,Completed,true,false,false
+UA004052,17 Aug 14,5,Mordialloc 2,Hampton,No. 1,Pranay Thakker,Callen Neasmith,Callen Neasmith,0-6,0,6,0,1,Completed,true,false,false
+UA004052,17 Aug 14,5,Mordialloc 2,Hampton,No. 2,Aaron Huynh,Oliver Haig,Aaron Huynh,6-2,6,2,1,0,Completed,true,false,false
+UA004052,17 Aug 14,5,Mordialloc 2,Hampton,No. 3,Samisdh Siva-Ram,Ash Knight,Samisdh Siva-Ram,6-2,6,2,1,0,Completed,true,false,false
+UA004052,17 Aug 14,5,Mordialloc 2,Hampton,No. 4,Amy Prentice,Diego Osorio,Diego Osorio,0-6,0,6,0,1,Completed,true,false,false
+UA004053,17 Aug 14,5,Beaumaris CC,Caulfield Rec,No. 1,Michael Puli,Gabriel Gibber,Michael Puli,6-3,6,3,1,0,Completed,true,false,false
+UA004053,17 Aug 14,5,Beaumaris CC,Caulfield Rec,No. 2,Ben Pease,Dennis Davidson,Ben Pease,6-1,6,1,1,0,Completed,true,false,false
+UA004053,17 Aug 14,5,Beaumaris CC,Caulfield Rec,No. 3,Daniel Rideout,Josh Dosser,Daniel Rideout,6-4,6,4,1,0,Completed,true,false,false
+UA004053,17 Aug 14,5,Beaumaris CC,Caulfield Rec,No. 4,James Hardgrove,Stefani Savic,Stefani Savic,4-6,4,6,0,1,Completed,true,false,false
+UA004054,17 Aug 14,5,Dendy Park,GPHC,No. 1,Danaya Malenda,Jet Wigley,Danaya Malenda,6-3,6,3,1,0,Completed,true,false,false
+UA004054,17 Aug 14,5,Dendy Park,GPHC,No. 2,James Konstas,George Mildred Short,James Konstas,6-3,6,3,1,0,Completed,true,false,false
+UA004054,17 Aug 14,5,Dendy Park,GPHC,No. 3,Sam Bennoun,Ethan Amalfi,Sam Bennoun,6-0,6,0,1,0,Completed,true,false,false
+UA004054,17 Aug 14,5,Dendy Park,GPHC,No. 4,Alexandra Konstas,Alec Gaudin,Alexandra Konstas,6-3,6,3,1,0,Completed,true,false,false
+UA004061,24 Aug 14,6,GPHC,Carmelite,No. 1,Nathan Shephard,Lachie Gunner,Lachie Gunner,1-6,1,6,0,1,Completed,true,false,false
+UA004061,24 Aug 14,6,GPHC,Carmelite,No. 2,Jet Wigley,Isabella Michaels,Isabella Michaels,0-6,0,6,0,1,Completed,true,false,false
+UA004061,24 Aug 14,6,GPHC,Carmelite,No. 3,Alistair Scott,Suhani Jain,Alistair Scott,7-5,7,5,1,0,Completed,true,false,false
+UA004061,24 Aug 14,6,GPHC,Carmelite,No. 4,Ethan Amalfi,Saskia Gunner,Saskia Gunner,1-6,1,6,0,1,Completed,true,false,false
+UA004062,24 Aug 14,6,Mordialloc 1,Dendy Park,No. 1,Jason Knipe,Danaya Malenda,Danaya Malenda,3-6,3,6,0,1,Completed,true,false,false
+UA004062,24 Aug 14,6,Mordialloc 1,Dendy Park,No. 2,Jake Goodchild,James Konstas,Jake Goodchild,6-3,6,3,1,0,Completed,true,false,false
+UA004062,24 Aug 14,6,Mordialloc 1,Dendy Park,No. 3,Sam Lundy,Sam Bennoun,Sam Bennoun,3-6,3,6,0,1,Completed,true,false,false
+UA004062,24 Aug 14,6,Mordialloc 1,Dendy Park,No. 4,Amelia Cincotta,Joel Landman,Amelia Cincotta,6-4,6,4,1,0,Completed,true,false,false
+UA004063,24 Aug 14,6,Hampton,Beaumaris CC,No. 1,Callen Neasmith,Michael Puli,Michael Puli,2-6,2,6,0,1,Completed,true,false,false
+UA004063,24 Aug 14,6,Hampton,Beaumaris CC,No. 2,Oliver Haig,Ben Pease,Ben Pease,0-6,0,6,0,1,Completed,true,false,false
+UA004063,24 Aug 14,6,Hampton,Beaumaris CC,No. 3,Curtis Neasmith,Daniel Rideout,Daniel Rideout,5-7,5,7,0,1,Completed,true,false,false
+UA004063,24 Aug 14,6,Hampton,Beaumaris CC,No. 4,Diego Osorio,Joshua Gibbons,Joshua Gibbons,3-6,3,6,0,1,Completed,true,false,false
+UA004064,24 Aug 14,6,Caulfield Rec,Mordialloc 2,No. 1,James Dosser,Pranay Thakker,James Dosser,6-0,6,0,1,0,Completed,true,false,false
+UA004064,24 Aug 14,6,Caulfield Rec,Mordialloc 2,No. 2,Dennis Davidson,Aaron Huynh,Aaron Huynh,2-6,2,6,0,1,Completed,true,false,false
+UA004064,24 Aug 14,6,Caulfield Rec,Mordialloc 2,No. 3,Josh Dosser,Tash Lamberton,Tash Lamberton,6-7,6,7,0,1,Completed,true,false,false
+UA004064,24 Aug 14,6,Caulfield Rec,Mordialloc 2,No. 4,Stefani Savic,Samisdh Siva-Ram,Stefani Savic,7-6,7,6,1,0,Completed,true,false,false
+UA004071,31 Aug 14,7,Dendy Park,Carmelite,No. 1,Danaya Malenda,Isabella Michaels,Isabella Michaels,5-7,5,7,0,1,Completed,true,false,false
+UA004071,31 Aug 14,7,Dendy Park,Carmelite,No. 2,James Konstas,Suhani Jain,James Konstas,6-1,6,1,1,0,Completed,true,false,false
+UA004071,31 Aug 14,7,Dendy Park,Carmelite,No. 3,Alexandra Konstas,Toby Arms,Alexandra Konstas,6-0,6,0,1,0,Completed,true,false,false
+UA004071,31 Aug 14,7,Dendy Park,Carmelite,No. 4,Joel Landman,Saskia Gunner,Joel Landman,6-2,6,2,1,0,Completed,true,false,false
+UA004072,31 Aug 14,7,GPHC,Mordialloc 1,No. 1,Jet Wigley,Jason Knipe,Jet Wigley,6-2,6,2,1,0,Completed,true,false,false
+UA004072,31 Aug 14,7,GPHC,Mordialloc 1,No. 2,George Mildred Short,Jake Goodchild,Jake Goodchild,5-7,5,7,0,1,Completed,true,false,false
+UA004072,31 Aug 14,7,GPHC,Mordialloc 1,No. 3,Alistair Scott,Sam Lundy,Sam Lundy,4-6,4,6,0,1,Completed,true,false,false
+UA004072,31 Aug 14,7,GPHC,Mordialloc 1,No. 4,Alec Gaudin,Mikaela Romboldo,Alec Gaudin,6-1,6,1,1,0,Completed,true,false,false
+UA004073,31 Aug 14,7,Mordialloc 2,Beaumaris CC,No. 1,Pranay Thakker,Ben Pease,Ben Pease,0-6,0,6,0,1,Completed,true,false,false
+UA004073,31 Aug 14,7,Mordialloc 2,Beaumaris CC,No. 2,Aaron Huynh,Michael Todd,Aaron Huynh,7-5,7,5,1,0,Completed,true,false,false
+UA004073,31 Aug 14,7,Mordialloc 2,Beaumaris CC,No. 3,Tash Lamberton,Sam Saviss,Tash Lamberton,6-3,6,3,1,0,Completed,true,false,false
+UA004073,31 Aug 14,7,Mordialloc 2,Beaumaris CC,No. 4,Amy Prentice,Joshua Gibbons,Joshua Gibbons,6-7,6,7,0,1,Completed,true,false,false
+UA004074,31 Aug 14,7,Hampton,Caulfield Rec,No. 1,Callen Neasmith,James Dosser,James Dosser,6-7,6,7,0,1,Completed,true,false,false
+UA004074,31 Aug 14,7,Hampton,Caulfield Rec,No. 2,Oliver Haig,Gabriel Gibber,Gabriel Gibber,3-6,3,6,0,1,Completed,true,false,false
+UA004074,31 Aug 14,7,Hampton,Caulfield Rec,No. 3,Curtis Neasmith,Dennis Davidson,Curtis Neasmith,6-0,6,0,1,0,Completed,true,false,false
+UA004074,31 Aug 14,7,Hampton,Caulfield Rec,No. 4,Ash Knight,Josh Dosser,Josh Dosser,3-6,3,6,0,1,Completed,true,false,false
+UA004081,07 Sep 14,8,Caulfield Rec,Dendy Park,No. 1,James Dosser,Danaya Malenda,James Dosser,6-1,6,1,1,0,Completed,true,false,false
+UA004081,07 Sep 14,8,Caulfield Rec,Dendy Park,No. 2,Gabriel Gibber,James Konstas,Gabriel Gibber,7-5,7,5,1,0,Completed,true,false,false
+UA004081,07 Sep 14,8,Caulfield Rec,Dendy Park,No. 3,Josh Dosser,Sam Bennoun,Sam Bennoun,6-7,6,7,0,1,Completed,true,false,false
+UA004081,07 Sep 14,8,Caulfield Rec,Dendy Park,No. 4,Stefani Savic,Alexandra Konstas,Stefani Savic,6-1,6,1,1,0,Completed,true,false,false
+UA004082,07 Sep 14,8,Beaumaris CC,GPHC,No. 1,Michael Puli,Nathan Shephard,Michael Puli,6-0,6,0,1,0,Completed,true,false,false
+UA004082,07 Sep 14,8,Beaumaris CC,GPHC,No. 2,Ben Pease,George Mildred Short,Ben Pease,6-2,6,2,1,0,Completed,true,false,false
+UA004082,07 Sep 14,8,Beaumaris CC,GPHC,No. 3,Michael Todd,Alistair Scott,Michael Todd,6-0,6,0,1,0,Completed,true,false,false
+UA004082,07 Sep 14,8,Beaumaris CC,GPHC,No. 4,Sam Saviss,Ethan Amalfi,Sam Saviss,6-1,6,1,1,0,Completed,true,false,false
+UA004083,07 Sep 14,8,Hampton,Carmelite,No. 1,Callen Neasmith,Lachie Gunner,Lachie Gunner,1-6,1,6,0,1,Completed,true,false,false
+UA004083,07 Sep 14,8,Hampton,Carmelite,No. 2,Oliver Haig,Isabella Michaels,Isabella Michaels,0-6,0,6,0,1,Completed,true,false,false
+UA004083,07 Sep 14,8,Hampton,Carmelite,No. 3,Ash Knight,Toby Arms,Toby Arms,4-6,4,6,0,1,Completed,true,false,false
+UA004083,07 Sep 14,8,Hampton,Carmelite,No. 4,Diego Osorio,Saskia Gunner,Diego Osorio,6-0,6,0,1,0,Completed,true,false,false
+UA004084,07 Sep 14,8,Mordialloc 2,Mordialloc 1,No. 1,Pranay Thakker,Jason Knipe,Jason Knipe,0-6,0,6,0,1,Completed,true,false,false
+UA004084,07 Sep 14,8,Mordialloc 2,Mordialloc 1,No. 2,Aaron Huynh,Jake Goodchild,Aaron Huynh,6-4,6,4,1,0,Completed,true,false,false
+UA004084,07 Sep 14,8,Mordialloc 2,Mordialloc 1,No. 3,Samisdh Siva-Ram,Amelia Cincotta,Samisdh Siva-Ram,6-1,6,1,1,0,Completed,true,false,false
+UA004084,07 Sep 14,8,Mordialloc 2,Mordialloc 1,No. 4,Amy Prentice,Mikaela Romboldo,Mikaela Romboldo,2-6,2,6,0,1,Completed,true,false,false
+UA004091,14 Sep 14,9,Dendy Park,Mordialloc 2,No. 1,Danaya Malenda,Pranay Thakker,Danaya Malenda,6-3,6,3,1,0,Completed,true,false,false
+UA004091,14 Sep 14,9,Dendy Park,Mordialloc 2,No. 2,James Konstas,Tash Lamberton,James Konstas,7-5,7,5,1,0,Completed,true,false,false
+UA004091,14 Sep 14,9,Dendy Park,Mordialloc 2,No. 3,Sam Bennoun,Samisdh Siva-Ram,Sam Bennoun,6-1,6,1,1,0,Completed,true,false,false
+UA004091,14 Sep 14,9,Dendy Park,Mordialloc 2,No. 4,Joel Landman,Amy Prentice,Amy Prentice,4-6,4,6,0,1,Completed,true,false,false
+UA004092,14 Sep 14,9,GPHC,Caulfield Rec,No. 1,Nathan Shephard,James Dosser,James Dosser,2-6,2,6,0,1,Completed,true,false,false
+UA004092,14 Sep 14,9,GPHC,Caulfield Rec,No. 2,Jet Wigley,Gabriel Gibber,Gabriel Gibber,1-6,1,6,0,1,Completed,true,false,false
+UA004092,14 Sep 14,9,GPHC,Caulfield Rec,No. 3,George Mildred Short,Josh Dosser,Josh Dosser,5-7,5,7,0,1,Completed,true,false,false
+UA004092,14 Sep 14,9,GPHC,Caulfield Rec,No. 4,Alistair Scott,Stefani Savic,Stefani Savic,1-6,1,6,0,1,Completed,true,false,false
+UA004093,14 Sep 14,9,Carmelite,Beaumaris CC,No. 1,Lachie Gunner,Michael Puli,Lachie Gunner,6-4,6,4,1,0,Completed,true,false,false
+UA004093,14 Sep 14,9,Carmelite,Beaumaris CC,No. 2,Isabella Michaels,Ben Pease,Ben Pease,3-6,3,6,0,1,Completed,true,false,false
+UA004093,14 Sep 14,9,Carmelite,Beaumaris CC,No. 3,Suhani Jain,Michael Todd,Michael Todd,2-6,2,6,0,1,Completed,true,false,false
+UA004093,14 Sep 14,9,Carmelite,Beaumaris CC,No. 4,Oscar Lynch,Joshua Gibbons,Oscar Lynch,6-1,6,1,1,0,Completed,true,false,false
+UA004094,14 Sep 14,9,Mordialloc 1,Hampton,No. 1,Jason Knipe,Callen Neasmith,Callen Neasmith,1-6,1,6,0,1,Completed,true,false,false
+UA004094,14 Sep 14,9,Mordialloc 1,Hampton,No. 2,Jake Goodchild,Curtis Neasmith,Jake Goodchild,6-3,6,3,1,0,Completed,true,false,false
+UA004094,14 Sep 14,9,Mordialloc 1,Hampton,No. 3,Sam Lundy,Ash Knight,Sam Lundy,6-0,6,0,1,0,Completed,true,false,false
+UA004094,14 Sep 14,9,Mordialloc 1,Hampton,No. 4,Amelia Cincotta,Diego Osorio,Amelia Cincotta,6-4,6,4,1,0,Completed,true,false,false
+UA004101,12 Oct 14,10,Hampton,Dendy Park,No. 1,Callen Neasmith,Danaya Malenda,Callen Neasmith,6-1,6,1,1,0,Completed,true,false,false
+UA004101,12 Oct 14,10,Hampton,Dendy Park,No. 2,Oliver Haig,James Konstas,James Konstas,1-6,1,6,0,1,Completed,true,false,false
+UA004101,12 Oct 14,10,Hampton,Dendy Park,No. 3,Ash Knight,Sam Bennoun,Sam Bennoun,1-6,1,6,0,1,Completed,true,false,false
+UA004101,12 Oct 14,10,Hampton,Dendy Park,No. 4,Diego Osorio,Joel Landman,Joel Landman,2-6,2,6,0,1,Completed,true,false,false
+UA004102,12 Oct 14,10,Mordialloc 2,GPHC,No. 1,William Gallagher,Jet Wigley,William Gallagher,7-5,7,5,1,0,Completed,true,false,false
+UA004102,12 Oct 14,10,Mordialloc 2,GPHC,No. 2,Aaron Huynh,George Mildred Short,Aaron Huynh,6-1,6,1,1,0,Completed,true,false,false
+UA004102,12 Oct 14,10,Mordialloc 2,GPHC,No. 3,Samisdh Siva-Ram,Alec Gaudin,Samisdh Siva-Ram,7-6,7,6,1,0,Completed,true,false,false
+UA004102,12 Oct 14,10,Mordialloc 2,GPHC,No. 4,Amy Prentice,Ethan Amalfi,Ethan Amalfi,4-6,4,6,0,1,Completed,true,false,false
+UA004103,12 Oct 14,10,Caulfield Rec,Carmelite,No. 1,Gabriel Gibber,Isabella Michaels,Gabriel Gibber,6-4,6,4,1,0,Completed,true,false,false
+UA004103,12 Oct 14,10,Caulfield Rec,Carmelite,No. 2,Dennis Davidson,Suhani Jain,Suhani Jain,4-6,4,6,0,1,Completed,true,false,false
+UA004103,12 Oct 14,10,Caulfield Rec,Carmelite,No. 3,Josh Dosser,Toby Arms,Josh Dosser,6-0,6,0,1,0,Completed,true,false,false
+UA004103,12 Oct 14,10,Caulfield Rec,Carmelite,No. 4,Stefani Savic,Oscar Lynch,Oscar Lynch,0-6,0,6,0,1,Completed,true,false,false
+UA004104,12 Oct 14,10,Beaumaris CC,Mordialloc 1,No. 1,Ben Pease,Jake Goodchild,Ben Pease,6-1,6,1,1,0,Completed,true,false,false
+UA004104,12 Oct 14,10,Beaumaris CC,Mordialloc 1,No. 2,Michael Todd,Sam Lundy,Michael Todd,6-2,6,2,1,0,Completed,true,false,false
+UA004104,12 Oct 14,10,Beaumaris CC,Mordialloc 1,No. 3,Sam Saviss,Amelia Cincotta,Sam Saviss,6-4,6,4,1,0,Completed,true,false,false
+UA004104,12 Oct 14,10,Beaumaris CC,Mordialloc 1,No. 4,Daniel Rideout,Mikaela Romboldo,Daniel Rideout,6-1,6,1,1,0,Completed,true,false,false
+UA004111,19 Oct 14,11,Dendy Park,Beaumaris CC,No. 1,Danaya Malenda,Michael Puli,Michael Puli,5-7,5,7,0,1,Completed,true,false,false
+UA004111,19 Oct 14,11,Dendy Park,Beaumaris CC,No. 2,James Konstas,Michael Todd,James Konstas,6-3,6,3,1,0,Completed,true,false,false
+UA004111,19 Oct 14,11,Dendy Park,Beaumaris CC,No. 3,Sam Bennoun,Sam Saviss,Sam Bennoun,6-3,6,3,1,0,Completed,true,false,false
+UA004111,19 Oct 14,11,Dendy Park,Beaumaris CC,No. 4,Joel Landman,Joshua Gibbons,Joshua Gibbons,4-6,4,6,0,1,Completed,true,false,false
+UA004112,19 Oct 14,11,GPHC,Hampton,No. 1,Nathan Shephard,Callen Neasmith,Nathan Shephard,6-4,6,4,1,0,Completed,true,false,false
+UA004112,19 Oct 14,11,GPHC,Hampton,No. 2,Jet Wigley,Oliver Haig,Jet Wigley,6-3,6,3,1,0,Completed,true,false,false
+UA004112,19 Oct 14,11,GPHC,Hampton,No. 3,Alistair Scott,Curtis Neasmith,Alistair Scott,6-4,6,4,1,0,Completed,true,false,false
+UA004112,19 Oct 14,11,GPHC,Hampton,No. 4,Alec Gaudin,Ash Knight,Ash Knight,1-6,1,6,0,1,Completed,true,false,false
+UA004113,19 Oct 14,11,Carmelite,Mordialloc 2,No. 1,Lachie Gunner,Pranay Thakker,Lachie Gunner,6-0,6,0,1,0,Completed,true,false,false
+UA004113,19 Oct 14,11,Carmelite,Mordialloc 2,No. 2,Isabella Michaels,Aaron Huynh,Isabella Michaels,6-3,6,3,1,0,Completed,true,false,false
+UA004113,19 Oct 14,11,Carmelite,Mordialloc 2,No. 3,Tia Baptista,[Unnamed player — TROLS UA004113 away code 3],Tia Baptista,6-0,6,0,1,0,Completed,false,false,false
+UA004113,19 Oct 14,11,Carmelite,Mordialloc 2,No. 4,Suhani Jain,Samisdh Siva-Ram,Samisdh Siva-Ram,4-6,4,6,0,1,Completed,true,false,false
+UA004114,19 Oct 14,11,Mordialloc 1,Caulfield Rec,No. 1,Jason Knipe,James Dosser,James Dosser,3-6,3,6,0,1,Completed,true,false,false
+UA004114,19 Oct 14,11,Mordialloc 1,Caulfield Rec,No. 2,Jake Goodchild,Dennis Davidson,Jake Goodchild,6-1,6,1,1,0,Completed,true,false,false
+UA004114,19 Oct 14,11,Mordialloc 1,Caulfield Rec,No. 3,Sam Lundy,Josh Dosser,Josh Dosser,3-6,3,6,0,1,Completed,true,false,false
+UA004114,19 Oct 14,11,Mordialloc 1,Caulfield Rec,No. 4,Amelia Cincotta,Stefani Savic,Stefani Savic,3-6,3,6,0,1,Completed,true,false,false
+UA004121,26 Oct 14,12,Mordialloc 1,Carmelite,No. 1,Jason Knipe,Isabella Michaels,Isabella Michaels,4-6,4,6,0,1,Completed,true,false,false
+UA004121,26 Oct 14,12,Mordialloc 1,Carmelite,No. 2,Jake Goodchild,Suhani Jain,Jake Goodchild,6-0,6,0,1,0,Completed,true,false,false
+UA004121,26 Oct 14,12,Mordialloc 1,Carmelite,No. 3,Sam Lundy,Toby Arms,Sam Lundy,6-0,6,0,1,0,Completed,true,false,false
+UA004121,26 Oct 14,12,Mordialloc 1,Carmelite,No. 4,Mikaela Romboldo,Oscar Lynch,Oscar Lynch,0-6,0,6,0,1,Completed,true,false,false
+UA004122,26 Oct 14,12,Hampton,Mordialloc 2,No. 1,Callen Neasmith,Aaron Huynh,Callen Neasmith,6-1,6,1,1,0,Completed,true,false,false
+UA004122,26 Oct 14,12,Hampton,Mordialloc 2,No. 2,Oliver Haig,Tash Lamberton,Oliver Haig,6-2,6,2,1,0,Completed,true,false,false
+UA004122,26 Oct 14,12,Hampton,Mordialloc 2,No. 3,Curtis Neasmith,Samisdh Siva-Ram,Curtis Neasmith,6-4,6,4,1,0,Completed,true,false,false
+UA004122,26 Oct 14,12,Hampton,Mordialloc 2,No. 4,Diego Osorio,Amy Prentice,Amy Prentice,4-6,4,6,0,1,Completed,true,false,false
+UA004123,26 Oct 14,12,Caulfield Rec,Beaumaris CC,No. 1,James Dosser,Ben Pease,James Dosser,6-2,6,2,1,0,Completed,true,false,false
+UA004123,26 Oct 14,12,Caulfield Rec,Beaumaris CC,No. 2,Gabriel Gibber,Michael Todd,Gabriel Gibber,6-2,6,2,1,0,Completed,true,false,false
+UA004123,26 Oct 14,12,Caulfield Rec,Beaumaris CC,No. 3,Dennis Davidson,Daniel Rideout,Daniel Rideout,3-6,3,6,0,1,Completed,true,false,false
+UA004123,26 Oct 14,12,Caulfield Rec,Beaumaris CC,No. 4,Josh Dosser,Joshua Gibbons,Joshua Gibbons,2-6,2,6,0,1,Completed,true,false,false
+UA004124,26 Oct 14,12,GPHC,Dendy Park,No. 1,Nathan Shephard,Danaya Malenda,Danaya Malenda,2-6,2,6,0,1,Completed,true,false,false
+UA004124,26 Oct 14,12,GPHC,Dendy Park,No. 2,Jet Wigley,Chris Kokkinos,Chris Kokkinos,3-6,3,6,0,1,Completed,true,false,false
+UA004124,26 Oct 14,12,GPHC,Dendy Park,No. 3,Alec Gaudin,Sam Bennoun,Sam Bennoun,3-6,3,6,0,1,Completed,true,false,false
+UA004124,26 Oct 14,12,GPHC,Dendy Park,No. 4,Ethan Amalfi,Alexandra Konstas,Alexandra Konstas,3-6,3,6,0,1,Completed,true,false,false
+UA004131,09 Nov 14,13,Carmelite,GPHC,No. 1,Lachie Gunner,Nathan Shephard,Lachie Gunner,6-0,6,0,1,0,Completed,true,false,false
+UA004131,09 Nov 14,13,Carmelite,GPHC,No. 2,Isabella Michaels,George Mildred Short,Isabella Michaels,7-6,7,6,1,0,Completed,true,false,false
+UA004131,09 Nov 14,13,Carmelite,GPHC,No. 3,Suhani Jain,Alec Gaudin,Alec Gaudin,2-6,2,6,0,1,Completed,true,false,false
+UA004131,09 Nov 14,13,Carmelite,GPHC,No. 4,Toby Arms,Ethan Amalfi,Ethan Amalfi,0-6,0,6,0,1,Completed,true,false,false
+UA004132,09 Nov 14,13,Dendy Park,Mordialloc 1,No. 1,Danaya Malenda,Jason Knipe,Danaya Malenda,6-3,6,3,1,0,Completed,true,false,false
+UA004132,09 Nov 14,13,Dendy Park,Mordialloc 1,No. 2,James Konstas,Jake Goodchild,Jake Goodchild,2-6,2,6,0,1,Completed,true,false,false
+UA004132,09 Nov 14,13,Dendy Park,Mordialloc 1,No. 3,Sam Bennoun,Amelia Cincotta,Sam Bennoun,6-3,6,3,1,0,Completed,true,false,false
+UA004132,09 Nov 14,13,Dendy Park,Mordialloc 1,No. 4,Alexandra Konstas,Mikaela Romboldo,Alexandra Konstas,6-1,6,1,1,0,Completed,true,false,false
+UA004133,09 Nov 14,13,Beaumaris CC,Hampton,No. 1,Michael Puli,Callen Neasmith,Michael Puli,6-2,6,2,1,0,Completed,true,false,false
+UA004133,09 Nov 14,13,Beaumaris CC,Hampton,No. 2,Sam Saviss,Oliver Haig,Sam Saviss,6-4,6,4,1,0,Completed,true,false,false
+UA004133,09 Nov 14,13,Beaumaris CC,Hampton,No. 3,Daniel Rideout,Ash Knight,Daniel Rideout,6-3,6,3,1,0,Completed,true,false,false
+UA004133,09 Nov 14,13,Beaumaris CC,Hampton,No. 4,Joshua Gibbons,Diego Osorio,Joshua Gibbons,6-0,6,0,1,0,Completed,true,false,false
+UA004134,09 Nov 14,13,Mordialloc 2,Caulfield Rec,No. 1,Pranay Thakker,James Dosser,James Dosser,0-6,0,6,0,1,Completed,true,false,false
+UA004134,09 Nov 14,13,Mordialloc 2,Caulfield Rec,No. 2,Tash Lamberton,Gabriel Gibber,Gabriel Gibber,1-6,1,6,0,1,Completed,true,false,false
+UA004134,09 Nov 14,13,Mordialloc 2,Caulfield Rec,No. 3,Samisdh Siva-Ram,Josh Dosser,Josh Dosser,1-6,1,6,0,1,Completed,true,false,false
+UA004134,09 Nov 14,13,Mordialloc 2,Caulfield Rec,No. 4,Amy Prentice,Stefani Savic,Stefani Savic,3-6,3,6,0,1,Completed,true,false,false
+UA004301,,16,Beaumaris CC,Carmelite,No. 1,Michael Puli,Lachie Gunner,Michael Puli,6-1,6,1,1,0,Completed,true,false,false
+UA004301,,16,Beaumaris CC,Carmelite,No. 2,Ben Pease,Isabella Michaels,Ben Pease,6-2,6,2,1,0,Completed,true,false,false
+UA004301,,16,Beaumaris CC,Carmelite,No. 3,Michael Todd,Toby Arms,Michael Todd,6-1,6,1,1,0,Completed,true,true,false
+UA004301,,16,Beaumaris CC,Carmelite,No. 4,Sam Saviss,Saskia Gunner,Sam Saviss,6-2,6,2,1,0,Completed,true,false,false
+UA004302,,16,Caulfield Rec,Dendy Park,No. 1,James Dosser,Danaya Malenda,James Dosser,6-3,6,3,1,0,Completed,true,false,false
+UA004302,,16,Caulfield Rec,Dendy Park,No. 2,Gabriel Gibber,James Konstas,Gabriel Gibber,6-0,6,0,1,0,Completed,true,false,false
+UA004302,,16,Caulfield Rec,Dendy Park,No. 3,Dennis Davidson,Sam Bennoun,Sam Bennoun,3-6,3,6,0,1,Completed,true,false,false
+UA004302,,16,Caulfield Rec,Dendy Park,No. 4,Josh Dosser,Alexandra Konstas,Josh Dosser,6-1,6,1,1,0,Completed,true,false,false
+UA004321,,17,Beaumaris CC,Caulfield Rec,No. 1,Michael Puli,James Dosser,Michael Puli,6-3,6,3,1,0,Completed,true,false,false
+UA004321,,17,Beaumaris CC,Caulfield Rec,No. 2,Ben Pease,Gabriel Gibber,Ben Pease,6-2,6,2,1,0,Completed,true,false,false
+UA004321,,17,Beaumaris CC,Caulfield Rec,No. 3,Michael Todd,Dennis Davidson,Michael Todd,6-2,6,2,1,0,Completed,true,true,false
+UA004321,,17,Beaumaris CC,Caulfield Rec,No. 4,Sam Saviss,Josh Dosser,Josh Dosser,1-6,1,6,0,1,Completed,true,false,false

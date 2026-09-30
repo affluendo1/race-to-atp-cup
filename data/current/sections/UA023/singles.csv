@@ -1,0 +1,101 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA023011,19 Jul 26,1,GPHC,BLTC,No. 1,Hugo Rutherford,Angus Christie,Hugo Rutherford,6-4,6,4,1,0,Completed,true,false,false
+UA023011,19 Jul 26,1,GPHC,BLTC,No. 2,Lewis O'Donnell,Tomas Cabrera,Tomas Cabrera,2-6,2,6,0,1,Completed,true,false,false
+UA023011,19 Jul 26,1,GPHC,BLTC,No. 3,Finn Noonan,Celina Sakaci,Celina Sakaci,0-6,0,6,0,1,Completed,true,false,false
+UA023011,19 Jul 26,1,GPHC,BLTC,No. 4,Julian Delcoigne,Preston Liu,Preston Liu,3-6,3,6,0,1,Completed,true,false,false
+UA023012,19 Jul 26,1,Victory Park,Dendy Park,No. 1,Kit Smith,Oscar Want,Oscar Want,0-6,0,6,0,1,Completed,true,false,false
+UA023012,19 Jul 26,1,Victory Park,Dendy Park,No. 2,Alexei Moralis,Kevin Xie,Kevin Xie,3-6,3,6,0,1,Completed,true,false,false
+UA023012,19 Jul 26,1,Victory Park,Dendy Park,No. 3,Cameron Wilson,Taku Ramensky,Taku Ramensky,1-6,1,6,0,1,Completed,true,false,false
+UA023012,19 Jul 26,1,Victory Park,Dendy Park,No. 4,Aahana Dodia,Reina Hasegawa,Aahana Dodia,6-1,6,1,1,0,Completed,true,false,true
+UA023013,19 Jul 26,1,Black Rock,Maccabi,No. 1,Luca Nadal,Riley Hersz,Luca Nadal,6-1,6,1,1,0,Completed,true,false,false
+UA023013,19 Jul 26,1,Black Rock,Maccabi,No. 2,Raef Harvey,Ari Zipor,Raef Harvey,6-1,6,1,1,0,Completed,true,false,false
+UA023013,19 Jul 26,1,Black Rock,Maccabi,No. 3,Angus Ray,Eden Feinberg,Eden Feinberg,6-7,6,7,0,1,Completed,true,false,false
+UA023013,19 Jul 26,1,Black Rock,Maccabi,No. 4,Charlotte Ray,Matti Feinberg,Matti Feinberg,1-6,1,6,0,1,Completed,true,false,false
+UA023021,26 Jul 26,2,Le Page,GPHC,No. 1,Hunter Newman,Hugo Rutherford,Hunter Newman,6-1,6,1,1,0,Completed,true,false,false
+UA023021,26 Jul 26,2,Le Page,GPHC,No. 2,Eeshan Gurjar,Ella Greville,Ella Greville,3-6,3,6,0,1,Completed,true,false,false
+UA023021,26 Jul 26,2,Le Page,GPHC,No. 3,Ma'ayan Alamaru,Lewis O'Donnell,Lewis O'Donnell,1-6,1,6,0,1,Completed,true,false,false
+UA023021,26 Jul 26,2,Le Page,GPHC,No. 4,Zac Bianchi,Finn Noonan,Zac Bianchi,6-3,6,3,1,0,Completed,true,false,false
+UA023022,26 Jul 26,2,BLTC,Victory Park,No. 1,Tomas Cabrera,Kit Smith,Tomas Cabrera,6-1,6,1,1,0,Completed,true,false,false
+UA023022,26 Jul 26,2,BLTC,Victory Park,No. 2,Celina Sakaci,Nathan He,Celina Sakaci,6-3,6,3,1,0,Completed,true,false,false
+UA023022,26 Jul 26,2,BLTC,Victory Park,No. 3,Preston Liu,Alexei Moralis,Alexei Moralis,4-6,4,6,0,1,Completed,true,false,false
+UA023022,26 Jul 26,2,BLTC,Victory Park,No. 4,Angus Christie,Aahana Dodia,Aahana Dodia,1-6,1,6,0,1,Completed,true,false,false
+UA023023,26 Jul 26,2,Dendy Park,Black Rock,No. 1,Oscar Want,Luca Nadal,Oscar Want,6-4,6,4,1,0,Completed,true,false,false
+UA023023,26 Jul 26,2,Dendy Park,Black Rock,No. 2,Kevin Xie,Angus Ray,Kevin Xie,6-2,6,2,1,0,Completed,true,false,false
+UA023023,26 Jul 26,2,Dendy Park,Black Rock,No. 3,Taku Ramensky,Charlotte Ray,Taku Ramensky,6-1,6,1,1,0,Completed,true,false,false
+UA023023,26 Jul 26,2,Dendy Park,Black Rock,No. 4,Reina Hasegawa,Jess Leeds,Reina Hasegawa,6-3,6,3,1,0,Completed,true,true,false
+UA023031,02 Aug 26,3,GPHC,Maccabi,No. 1,Hugo Rutherford,Riley Hersz,Hugo Rutherford,6-3,6,3,1,0,Completed,true,false,false
+UA023031,02 Aug 26,3,GPHC,Maccabi,No. 2,Lewis O'Donnell,Matti Feinberg,Matti Feinberg,2-6,2,6,0,1,Completed,true,false,false
+UA023031,02 Aug 26,3,GPHC,Maccabi,No. 3,Finn Noonan,Eden Feinberg,Eden Feinberg,1-6,1,6,0,1,Completed,true,false,false
+UA023031,02 Aug 26,3,GPHC,Maccabi,No. 4,Julian Delcoigne,Adam Hope,Adam Hope,2-6,2,6,0,1,Completed,true,false,true
+UA023032,02 Aug 26,3,Victory Park,Le Page,No. 1,Nathan He,Hunter Newman,Hunter Newman,3-6,3,6,0,1,Completed,true,false,false
+UA023032,02 Aug 26,3,Victory Park,Le Page,No. 2,Alexei Moralis,Matan Shargian,Matan Shargian,1-6,1,6,0,1,Completed,true,false,false
+UA023032,02 Aug 26,3,Victory Park,Le Page,No. 3,Cameron Wilson,Eeshan Gurjar,Eeshan Gurjar,2-6,2,6,0,1,Completed,true,false,false
+UA023032,02 Aug 26,3,Victory Park,Le Page,No. 4,Aahana Dodia,Shlok Pawali,Shlok Pawali,1-6,1,6,0,1,Completed,true,false,false
+UA023033,02 Aug 26,3,Black Rock,BLTC,No. 1,Stirling Maguire,Sebastian Smith-Lopez,Sebastian Smith-Lopez,2-6,2,6,0,1,Completed,true,false,false
+UA023033,02 Aug 26,3,Black Rock,BLTC,No. 2,Angus Ray,Tomas Cabrera,Tomas Cabrera,1-6,1,6,0,1,Completed,true,false,false
+UA023033,02 Aug 26,3,Black Rock,BLTC,No. 3,Charlotte Ray,Celina Sakaci,Celina Sakaci,1-6,1,6,0,1,Completed,true,false,false
+UA023033,02 Aug 26,3,Black Rock,BLTC,No. 4,Jess Leeds,Preston Liu,Preston Liu,2-6,2,6,0,1,Completed,true,false,false
+UA023041,09 Aug 26,4,Dendy Park,GPHC,No. 1,Oscar Want,Hugo Rutherford,Oscar Want,6-1,6,1,1,0,Completed,true,false,false
+UA023041,09 Aug 26,4,Dendy Park,GPHC,No. 2,Kevin Xie,Phoebe Wong,Kevin Xie,6-1,6,1,1,0,Completed,true,false,false
+UA023041,09 Aug 26,4,Dendy Park,GPHC,No. 3,Daniel Bloom,Lewis O'Donnell,Lewis O'Donnell,1-6,1,6,0,1,Completed,true,false,false
+UA023041,09 Aug 26,4,Dendy Park,GPHC,No. 4,Charlie Deutscher,Julian Delcoigne,Charlie Deutscher,6-2,6,2,1,0,Completed,true,false,false
+UA023052,16 Aug 26,5,Le Page,Maccabi,No. 1,Hunter Newman,Riley Hersz,Hunter Newman,6-0,6,0,1,0,Completed,true,false,false
+UA023052,16 Aug 26,5,Le Page,Maccabi,No. 2,Eeshan Gurjar,Ari Zipor,Eeshan Gurjar,6-0,6,0,1,0,Completed,true,false,false
+UA023052,16 Aug 26,5,Le Page,Maccabi,No. 3,Shlok Pawali,Matti Feinberg,Matti Feinberg,5-7,5,7,0,1,Completed,true,false,false
+UA023052,16 Aug 26,5,Le Page,Maccabi,No. 4,Zac Bianchi,Eden Feinberg,Eden Feinberg,0-6,0,6,0,1,Completed,true,false,false
+UA023053,16 Aug 26,5,Dendy Park,BLTC,No. 1,Oscar Want,Sebastian Smith-Lopez,Oscar Want,6-3,6,3,1,0,Completed,true,false,false
+UA023053,16 Aug 26,5,Dendy Park,BLTC,No. 2,Taku Ramensky,Tomas Cabrera,Taku Ramensky,6-3,6,3,1,0,Completed,true,false,false
+UA023053,16 Aug 26,5,Dendy Park,BLTC,No. 3,Daniel Bloom,Celina Sakaci,Celina Sakaci,3-6,3,6,0,1,Completed,true,false,false
+UA023053,16 Aug 26,5,Dendy Park,BLTC,No. 4,Charlie Deutscher,Angus Christie,Angus Christie,1-6,1,6,0,1,Completed,true,false,false
+UA023054,16 Aug 26,5,GPHC,Victory Park,No. 1,Hugo Rutherford,Lenny Nunn,Lenny Nunn,0-6,0,6,0,1,Completed,true,false,false
+UA023054,16 Aug 26,5,GPHC,Victory Park,No. 2,Phoebe Wong,Kit Smith,Phoebe Wong,6-3,6,3,1,0,Completed,true,false,false
+UA023054,16 Aug 26,5,GPHC,Victory Park,No. 3,Finn Noonan,Cameron Wilson,Finn Noonan,6-1,6,1,1,0,Completed,true,false,false
+UA023054,16 Aug 26,5,GPHC,Victory Park,No. 4,Julian Delcoigne,Aahana Dodia,Aahana Dodia,2-6,2,6,0,1,Completed,true,false,false
+UA023061,23 Aug 26,6,Victory Park,Black Rock,No. 1,Lenny Nunn,Luca Nadal,Lenny Nunn,6-0,6,0,1,0,Completed,true,false,false
+UA023061,23 Aug 26,6,Victory Park,Black Rock,No. 2,Nathan He,Angus Ray,Angus Ray,2-6,2,6,0,1,Completed,true,false,false
+UA023061,23 Aug 26,6,Victory Park,Black Rock,No. 3,Alexei Moralis,Charlotte Ray,Alexei Moralis,6-1,6,1,1,0,Completed,true,false,false
+UA023061,23 Aug 26,6,Victory Park,Black Rock,No. 4,Oscar Forbes,Jess Leeds,Oscar Forbes,6-4,6,4,1,0,Completed,true,false,false
+UA023063,23 Aug 26,6,Maccabi,Dendy Park,No. 1,Matti Feinberg,Kevin Xie,Kevin Xie,4-6,4,6,0,1,Completed,true,false,false
+UA023063,23 Aug 26,6,Maccabi,Dendy Park,No. 2,Eden Feinberg,Taku Ramensky,Eden Feinberg,7-5,7,5,1,0,Completed,true,false,false
+UA023063,23 Aug 26,6,Maccabi,Dendy Park,No. 3,Riley Hersz,Daniel Bloom,Riley Hersz,6-4,6,4,1,0,Completed,true,false,false
+UA023063,23 Aug 26,6,Maccabi,Dendy Park,No. 4,Ari Zipor,Charlie Deutscher,Charlie Deutscher,0-6,0,6,0,1,Completed,true,false,false
+UA023064,23 Aug 26,6,BLTC,Le Page,No. 1,Sebastian Smith-Lopez,Hunter Newman,Sebastian Smith-Lopez,6-1,6,1,1,0,Completed,true,false,false
+UA023064,23 Aug 26,6,BLTC,Le Page,No. 2,Tomas Cabrera,Eeshan Gurjar,Tomas Cabrera,6-4,6,4,1,0,Completed,true,false,false
+UA023064,23 Aug 26,6,BLTC,Le Page,No. 3,Preston Liu,Shlok Pawali,Shlok Pawali,4-6,4,6,0,1,Completed,true,false,false
+UA023064,23 Aug 26,6,BLTC,Le Page,No. 4,Angus Christie,Ma'ayan Alamaru,Angus Christie,6-2,6,2,1,0,Completed,true,false,false
+UA023071,30 Aug 26,7,GPHC,Black Rock,No. 1,Hugo Rutherford,Luca Nadal,Luca Nadal,6-7,6,7,0,1,Completed,true,false,false
+UA023071,30 Aug 26,7,GPHC,Black Rock,No. 2,Lewis O'Donnell,Stirling Maguire,Lewis O'Donnell,6-4,6,4,1,0,Completed,true,false,false
+UA023071,30 Aug 26,7,GPHC,Black Rock,No. 3,Finn Noonan,Angus Ray,Angus Ray,1-6,1,6,0,1,Completed,true,false,false
+UA023071,30 Aug 26,7,GPHC,Black Rock,No. 4,Julian Delcoigne,Charlotte Ray,Charlotte Ray,5-7,5,7,0,1,Completed,true,false,false
+UA023073,30 Aug 26,7,Le Page,Dendy Park,No. 1,Matan Shargian,Oscar Want,Oscar Want,5-7,5,7,0,1,Completed,true,false,false
+UA023073,30 Aug 26,7,Le Page,Dendy Park,No. 2,Eeshan Gurjar,Kevin Xie,Eeshan Gurjar,6-2,6,2,1,0,Completed,true,false,false
+UA023073,30 Aug 26,7,Le Page,Dendy Park,No. 3,Shlok Pawali,Charlie Deutscher,Shlok Pawali,7-5,7,5,1,0,Completed,true,false,false
+UA023073,30 Aug 26,7,Le Page,Dendy Park,No. 4,Zac Bianchi,Reina Hasegawa,Zac Bianchi,6-0,6,0,1,0,Completed,true,false,true
+UA023074,30 Aug 26,7,Maccabi,BLTC,No. 1,Matti Feinberg,Sebastian Smith-Lopez,Sebastian Smith-Lopez,1-6,1,6,0,1,Completed,true,false,false
+UA023074,30 Aug 26,7,Maccabi,BLTC,No. 2,Eden Feinberg,Tomas Cabrera,Eden Feinberg,6-0,6,0,1,0,Completed,true,false,false
+UA023074,30 Aug 26,7,Maccabi,BLTC,No. 3,Riley Hersz,Celina Sakaci,Celina Sakaci,1-6,1,6,0,1,Completed,true,false,false
+UA023074,30 Aug 26,7,Maccabi,BLTC,No. 4,Ari Zipor,Preston Liu,Preston Liu,5-7,5,7,0,1,Completed,true,false,false
+UA023081,06 Sep 26,8,BLTC,GPHC,No. 1,Sebastian Smith-Lopez,Hugo Rutherford,Sebastian Smith-Lopez,6-3,6,3,1,0,Completed,true,false,false
+UA023081,06 Sep 26,8,BLTC,GPHC,No. 2,Tomas Cabrera,Ella Greville,Tomas Cabrera,6-2,6,2,1,0,Completed,true,false,false
+UA023081,06 Sep 26,8,BLTC,GPHC,No. 3,Celina Sakaci,Lewis O'Donnell,Celina Sakaci,6-4,6,4,1,0,Completed,true,false,false
+UA023081,06 Sep 26,8,BLTC,GPHC,No. 4,Preston Liu,Finn Noonan,Preston Liu,6-2,6,2,1,0,Completed,true,false,false
+UA023082,06 Sep 26,8,Dendy Park,Victory Park,No. 1,Oscar Want,Kit Smith,Oscar Want,6-0,6,0,1,0,Completed,true,false,false
+UA023082,06 Sep 26,8,Dendy Park,Victory Park,No. 2,Miku Higuchi,Nathan He,Nathan He,3-6,3,6,0,1,Completed,true,false,false
+UA023082,06 Sep 26,8,Dendy Park,Victory Park,No. 3,Taku Ramensky,Cameron Wilson,Cameron Wilson,4-6,4,6,0,1,Completed,true,false,false
+UA023082,06 Sep 26,8,Dendy Park,Victory Park,No. 4,Daniel Bloom,Aahana Dodia,Aahana Dodia,2-6,2,6,0,1,Completed,true,false,false
+UA023083,06 Sep 26,8,Maccabi,Black Rock,No. 1,Riley Hersz,Luca Nadal,Luca Nadal,6-7,6,7,0,1,Completed,true,false,false
+UA023083,06 Sep 26,8,Maccabi,Black Rock,No. 2,Zev Harris,Stirling Maguire,Zev Harris,6-2,6,2,1,0,Completed,true,true,false
+UA023083,06 Sep 26,8,Maccabi,Black Rock,No. 3,Josh Green,Charlotte Ray,Charlotte Ray,3-6,3,6,0,1,Completed,true,false,false
+UA023083,06 Sep 26,8,Maccabi,Black Rock,No. 4,Ari Zipor,Jess Leeds,Ari Zipor,6-2,6,2,1,0,Completed,true,false,false
+UA023091,13 Sep 26,9,GPHC,Le Page,No. 1,Hugo Rutherford,Hunter Newman,Hunter Newman,0-6,0,6,0,1,Completed,true,false,false
+UA023091,13 Sep 26,9,GPHC,Le Page,No. 2,Ella Greville,Eeshan Gurjar,Ella Greville,6-4,6,4,1,0,Completed,true,false,false
+UA023091,13 Sep 26,9,GPHC,Le Page,No. 3,Phoebe Wong,Shlok Pawali,Phoebe Wong,7-6,7,6,1,0,Completed,true,false,false
+UA023091,13 Sep 26,9,GPHC,Le Page,No. 4,Julian Delcoigne,Ma'ayan Alamaru,Ma'ayan Alamaru,3-6,3,6,0,1,Completed,true,false,false
+UA023092,13 Sep 26,9,Victory Park,BLTC,No. 1,Lenny Nunn,Tomas Cabrera,Lenny Nunn,6-2,6,2,1,0,Completed,true,false,false
+UA023092,13 Sep 26,9,Victory Park,BLTC,No. 2,Kit Smith,Celina Sakaci,Celina Sakaci,3-6,3,6,0,1,Completed,true,false,false
+UA023092,13 Sep 26,9,Victory Park,BLTC,No. 3,Cameron Wilson,Preston Liu,Preston Liu,1-6,1,6,0,1,Completed,true,false,false
+UA023092,13 Sep 26,9,Victory Park,BLTC,No. 4,Oscar Forbes,Angus Christie,Oscar Forbes,6-4,6,4,1,0,Completed,true,false,false
+UA023093,13 Sep 26,9,Black Rock,Dendy Park,No. 1,Leo Gu,Miku Higuchi,Leo Gu,6-2,6,2,1,0,Completed,true,true,false
+UA023093,13 Sep 26,9,Black Rock,Dendy Park,No. 2,Jayshan Kumaran,Kevin Xie,Kevin Xie,2-6,2,6,0,1,Completed,true,true,false
+UA023093,13 Sep 26,9,Black Rock,Dendy Park,No. 3,Stirling Maguire,Daniel Bloom,Stirling Maguire,6-1,6,1,1,0,Completed,true,false,false
+UA023093,13 Sep 26,9,Black Rock,Dendy Park,No. 4,Jess Leeds,Charlie Deutscher,Jess Leeds,6-3,6,3,1,0,Completed,true,false,false

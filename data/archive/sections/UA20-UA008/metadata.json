@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA20-UA008",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2017",
+  "season_id": "UA20",
+  "season_label": "Autumn 2017",
+  "source_section_code": "UA008",
+  "section_label": "Section 8",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Highett",
+      "wins": 10,
+      "points": 92.5,
+      "percentage": 112.67,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Tennis World",
+      "wins": 10,
+      "points": 91.5,
+      "percentage": 135.1,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Aspendale",
+      "wins": 10,
+      "points": 91,
+      "percentage": 114.8,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Maccabi",
+      "wins": 8,
+      "points": 74.5,
+      "percentage": 95.58,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St Andrews MB RA",
+      "wins": 7,
+      "points": 69,
+      "percentage": 103.22,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong Scotch 1",
+      "wins": 5,
+      "points": 55,
+      "percentage": 88.97,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC",
+      "wins": 4,
+      "points": 47,
+      "percentage": 83.05,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong Scotch 2",
+      "wins": 2,
+      "points": 39.5,
+      "percentage": 78.19,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA20-UA008",
+  "fixtures": 59,
+  "completed_fixtures": 59,
+  "draw_fixtures": 59,
+  "singles_rubbers": 235,
+  "doubles_rubbers": 118,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for UA008102"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA29-UA022",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2021",
+  "season_id": "UA29",
+  "season_label": "Spring 2021",
+  "source_section_code": "UA022",
+  "section_label": "Section 22",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Coatesville",
+      "wins": 5,
+      "points": 78,
+      "percentage": 156.31,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Kings Park",
+      "wins": 4,
+      "points": 75,
+      "percentage": 175.7,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "St Andrews MB BG",
+      "wins": 3,
+      "points": 61,
+      "percentage": 100.0,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC 2",
+      "wins": 0,
+      "points": 60,
+      "percentage": 132.89,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 2,
+      "points": 59,
+      "percentage": 101.89,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC 1",
+      "wins": 1,
+      "points": 51,
+      "percentage": 69.57,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Hurlingham Park",
+      "wins": 0,
+      "points": 36,
+      "percentage": 37.5,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA29-UA022",
+  "fixtures": 56,
+  "completed_fixtures": 16,
+  "draw_fixtures": 42,
+  "singles_rubbers": 64,
+  "doubles_rubbers": 32,
+  "latest_round": 14,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

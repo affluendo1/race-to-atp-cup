@@ -1,0 +1,233 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA015012,17 Jul 22,1,Glen Huntly,Lauriston,No. 1,Faith Green,Pranav Swarup,Faith Green,7-5,7,5,1,0,Completed,true,false,false
+UA015012,17 Jul 22,1,Glen Huntly,Lauriston,No. 2,Tim Kalapoutis,Sam Morris,Tim Kalapoutis,6-4,6,4,1,0,Completed,true,false,false
+UA015012,17 Jul 22,1,Glen Huntly,Lauriston,No. 3,Seth Green,Lucas Wu,Lucas Wu,1-6,1,6,0,1,Completed,true,false,false
+UA015012,17 Jul 22,1,Glen Huntly,Lauriston,No. 4,Simon Roquilly,Hamish Marsden,Simon Roquilly,6-2,6,2,1,0,Completed,true,false,true
+UA015013,17 Jul 22,1,Caulfield Rec,GPHC,No. 1,Danielius Buividas,Jeremy Wong,Jeremy Wong,5-7,5,7,0,1,Completed,true,false,false
+UA015013,17 Jul 22,1,Caulfield Rec,GPHC,No. 2,William Yan,Arata Tanaka,Arata Tanaka,1-6,1,6,0,1,Completed,true,false,false
+UA015013,17 Jul 22,1,Caulfield Rec,GPHC,No. 3,Jai Shah,Mimi Cross,Mimi Cross,2-6,2,6,0,1,Completed,true,false,false
+UA015013,17 Jul 22,1,Caulfield Rec,GPHC,No. 4,Alexandru Virmanescu,Kristina Bratkova,Alexandru Virmanescu,6-3,6,3,1,0,Completed,true,false,false
+UA015014,17 Jul 22,1,Kings Park,Parkdale,No. 1,Katherine Armstrong,Ilinca Di Suciu,Katherine Armstrong,6-1,6,1,1,0,Completed,true,true,false
+UA015014,17 Jul 22,1,Kings Park,Parkdale,No. 2,Ellie Frey,Abigail Arculus,Abigail Arculus,0-6,0,6,0,1,Completed,true,false,false
+UA015014,17 Jul 22,1,Kings Park,Parkdale,No. 3,Yoon Lee,Matt Bradley,Matt Bradley,0-6,0,6,0,1,Completed,true,false,false
+UA015014,17 Jul 22,1,Kings Park,Parkdale,No. 4,Maja O'Sullivan,Brad Arculus,Brad Arculus,4-6,4,6,0,1,Completed,true,false,false
+UA015021,24 Jul 22,2,Parkdale,Tennis World,No. 1,Ilinca Di Suciu,Matthew Tong,Matthew Tong,1-6,1,6,0,1,Completed,true,false,false
+UA015021,24 Jul 22,2,Parkdale,Tennis World,No. 2,Matt Bradley,Charlie-Grace Galanis,Matt Bradley,7-5,7,5,1,0,Completed,true,false,false
+UA015021,24 Jul 22,2,Parkdale,Tennis World,No. 3,Oscar Lewis,Rafael Staa,Oscar Lewis,6-0,6,0,1,0,Completed,true,false,false
+UA015021,24 Jul 22,2,Parkdale,Tennis World,No. 4,Rohan Patel,Aditya Garg,Aditya Garg,3-6,3,6,0,1,Completed,true,false,false
+UA015022,24 Jul 22,2,BLTC,Glen Huntly,No. 1,Andrew McIntyre,Faith Green,Faith Green,1-6,1,6,0,1,Completed,true,false,false
+UA015022,24 Jul 22,2,BLTC,Glen Huntly,No. 2,Noah Anderson,Tim Kalapoutis,Tim Kalapoutis,2-6,2,6,0,1,Completed,true,false,false
+UA015022,24 Jul 22,2,BLTC,Glen Huntly,No. 3,Zane Rushton,Edy Kagan,Edy Kagan,1-6,1,6,0,1,Completed,true,false,false
+UA015022,24 Jul 22,2,BLTC,Glen Huntly,No. 4,Ryder Anderson,Samay Agarwal,Samay Agarwal,0-6,0,6,0,1,Completed,true,false,false
+UA015023,24 Jul 22,2,Lauriston,Caulfield Rec,No. 1,Pranav Swarup,Danielius Buividas,Danielius Buividas,4-6,4,6,0,1,Completed,true,false,false
+UA015023,24 Jul 22,2,Lauriston,Caulfield Rec,No. 2,Sam Morris,William Yan,Sam Morris,6-3,6,3,1,0,Completed,true,false,false
+UA015023,24 Jul 22,2,Lauriston,Caulfield Rec,No. 3,Lucas Wu,Jai Shah,Lucas Wu,6-1,6,1,1,0,Completed,true,false,false
+UA015023,24 Jul 22,2,Lauriston,Caulfield Rec,No. 4,Luke Davey,Alexandru Virmanescu,Alexandru Virmanescu,6-7,6,7,0,1,Completed,true,false,false
+UA015024,24 Jul 22,2,GPHC,Kings Park,No. 1,Owen Burns,Yoon Lee,Owen Burns,6-4,6,4,1,0,Completed,true,false,false
+UA015024,24 Jul 22,2,GPHC,Kings Park,No. 2,Jeremy Wong,Maja O'Sullivan,Jeremy Wong,6-2,6,2,1,0,Completed,true,false,false
+UA015024,24 Jul 22,2,GPHC,Kings Park,No. 3,Rupert Black,Daniel Gao,Daniel Gao,1-6,1,6,0,1,Completed,true,false,false
+UA015024,24 Jul 22,2,GPHC,Kings Park,No. 4,Joseph Karalapillai,Julian Wang,Julian Wang,4-6,4,6,0,1,Completed,true,false,true
+UA015031,31 Jul 22,3,Tennis World,GPHC,No. 1,Matthew Tong,Owen Burns,Matthew Tong,6-2,6,2,1,0,Completed,true,false,false
+UA015031,31 Jul 22,3,Tennis World,GPHC,No. 2,Rafael Staa,Joseph Karalapillai,Joseph Karalapillai,6-7,6,7,0,1,Completed,true,false,false
+UA015031,31 Jul 22,3,Tennis World,GPHC,No. 3,Charlie-Grace Galanis,Mimi Cross,Charlie-Grace Galanis,6-0,6,0,1,0,Completed,true,false,false
+UA015031,31 Jul 22,3,Tennis World,GPHC,No. 4,Aiden Artemas,Kristina Bratkova,Kristina Bratkova,2-6,2,6,0,1,Completed,true,false,false
+UA015032,31 Jul 22,3,Glen Huntly,Parkdale,No. 1,Matthieu Fisssot,Abigail Arculus,Matthieu Fisssot,6-1,6,1,1,0,Completed,true,false,false
+UA015032,31 Jul 22,3,Glen Huntly,Parkdale,No. 2,Tim Kalapoutis,Oscar Lewis,Tim Kalapoutis,6-4,6,4,1,0,Completed,true,false,false
+UA015032,31 Jul 22,3,Glen Huntly,Parkdale,No. 3,Edy Kagan,Brad Arculus,Brad Arculus,4-6,4,6,0,1,Completed,true,false,false
+UA015032,31 Jul 22,3,Glen Huntly,Parkdale,No. 4,Simon Roquilly,Rohan Patel,Simon Roquilly,6-0,6,0,1,0,Completed,true,false,false
+UA015033,31 Jul 22,3,Caulfield Rec,BLTC,No. 1,Danielius Buividas,Noah Anderson,Danielius Buividas,6-1,6,1,1,0,Completed,true,false,false
+UA015033,31 Jul 22,3,Caulfield Rec,BLTC,No. 2,William Yan,Andrew McIntyre,William Yan,6-4,6,4,1,0,Completed,true,false,false
+UA015033,31 Jul 22,3,Caulfield Rec,BLTC,No. 3,Jai Shah,Jimmy Rushton,Jimmy Rushton,1-6,1,6,0,1,Completed,true,false,false
+UA015033,31 Jul 22,3,Caulfield Rec,BLTC,No. 4,Alexandru Virmanescu,Ryder Anderson,Alexandru Virmanescu,6-0,6,0,1,0,Completed,true,false,false
+UA015034,31 Jul 22,3,Kings Park,Lauriston,No. 1,Katherine Armstrong,Pranav Swarup,Katherine Armstrong,6-3,6,3,1,0,Completed,true,true,false
+UA015034,31 Jul 22,3,Kings Park,Lauriston,No. 2,Yoon Lee,Sam Morris,Sam Morris,4-6,4,6,0,1,Completed,true,false,false
+UA015034,31 Jul 22,3,Kings Park,Lauriston,No. 3,Maja O'Sullivan,Lucas Wu,Lucas Wu,1-6,1,6,0,1,Completed,true,false,false
+UA015034,31 Jul 22,3,Kings Park,Lauriston,No. 4,Daniel Gao,Luke Davey,Daniel Gao,6-1,6,1,1,0,Completed,true,false,false
+UA015041,07 Aug 22,4,Lauriston,Tennis World,No. 1,Pranav Swarup,Matthew Tong,Matthew Tong,3-6,3,6,0,1,Completed,true,false,false
+UA015041,07 Aug 22,4,Lauriston,Tennis World,No. 2,Sam Morris,Chloe Popovic,Sam Morris,6-1,6,1,1,0,Completed,true,false,false
+UA015041,07 Aug 22,4,Lauriston,Tennis World,No. 3,Lucas Wu,Klara Popovic,Lucas Wu,6-3,6,3,1,0,Completed,true,false,false
+UA015041,07 Aug 22,4,Lauriston,Tennis World,No. 4,Luke Davey,Aditya Garg,Aditya Garg,2-6,2,6,0,1,Completed,true,false,false
+UA015042,07 Aug 22,4,GPHC,Glen Huntly,No. 1,Owen Burns,Matthieu Fisssot,Matthieu Fisssot,0-6,0,6,0,1,Completed,true,false,false
+UA015042,07 Aug 22,4,GPHC,Glen Huntly,No. 2,Jeremy Wong,Faith Green,Jeremy Wong,6-0,6,0,1,0,Completed,true,false,false
+UA015042,07 Aug 22,4,GPHC,Glen Huntly,No. 3,Joseph Karalapillai,Tim Kalapoutis,Joseph Karalapillai,6-1,6,1,1,0,Completed,true,false,false
+UA015042,07 Aug 22,4,GPHC,Glen Huntly,No. 4,Arata Tanaka,Simon Roquilly,Simon Roquilly,2-6,2,6,0,1,Completed,true,false,false
+UA015043,07 Aug 22,4,Parkdale,Caulfield Rec,No. 1,Ilinca Di Suciu,Danielius Buividas,Ilinca Di Suciu,6-3,6,3,1,0,Completed,true,false,false
+UA015043,07 Aug 22,4,Parkdale,Caulfield Rec,No. 2,Abigail Arculus,William Yan,Abigail Arculus,6-2,6,2,1,0,Completed,true,false,false
+UA015043,07 Aug 22,4,Parkdale,Caulfield Rec,No. 3,Matt Bradley,Jai Shah,Matt Bradley,7-5,7,5,1,0,Completed,true,false,false
+UA015043,07 Aug 22,4,Parkdale,Caulfield Rec,No. 4,Brad Arculus,Alexandru Virmanescu,Brad Arculus,6-3,6,3,1,0,Completed,true,false,false
+UA015044,07 Aug 22,4,BLTC,Kings Park,No. 1,Noah Anderson,Katherine Armstrong,Katherine Armstrong,0-6,0,6,0,1,Completed,true,false,true
+UA015044,07 Aug 22,4,BLTC,Kings Park,No. 2,Andrew McIntyre,Yoon Lee,Yoon Lee,0-6,0,6,0,1,Completed,true,false,false
+UA015044,07 Aug 22,4,BLTC,Kings Park,No. 3,Jimmy Rushton,Daniel Gao,Daniel Gao,5-7,5,7,0,1,Completed,true,false,false
+UA015044,07 Aug 22,4,BLTC,Kings Park,No. 4,Ryder Anderson,Evelyn Pajovic,Evelyn Pajovic,2-6,2,6,0,1,Completed,true,false,false
+UA015051,14 Aug 22,5,Caulfield Rec,Kings Park,No. 1,Danielius Buividas,Katherine Armstrong,Katherine Armstrong,1-6,1,6,0,1,Completed,true,false,true
+UA015051,14 Aug 22,5,Caulfield Rec,Kings Park,No. 2,Anastasia Udrist,Maja O'Sullivan,Maja O'Sullivan,5-7,5,7,0,1,Completed,true,false,false
+UA015051,14 Aug 22,5,Caulfield Rec,Kings Park,No. 3,Jai Shah,Daniel Gao,Daniel Gao,0-6,0,6,0,1,Completed,true,false,false
+UA015051,14 Aug 22,5,Caulfield Rec,Kings Park,No. 4,Alexandru Virmanescu,Evelyn Pajovic,Evelyn Pajovic,2-6,2,6,0,1,Completed,true,false,false
+UA015052,14 Aug 22,5,Parkdale,GPHC,No. 1,Ilinca Di Suciu,Owen Burns,Ilinca Di Suciu,6-1,6,1,1,0,Completed,true,false,false
+UA015052,14 Aug 22,5,Parkdale,GPHC,No. 2,Matt Bradley,Jeremy Wong,Jeremy Wong,2-6,2,6,0,1,Completed,true,false,false
+UA015052,14 Aug 22,5,Parkdale,GPHC,No. 3,Oscar Lewis,Rupert Black,Rupert Black,4-6,4,6,0,1,Completed,true,false,false
+UA015052,14 Aug 22,5,Parkdale,GPHC,No. 4,Rohan Patel,Mimi Cross,Mimi Cross,1-6,1,6,0,1,Completed,true,false,false
+UA015053,14 Aug 22,5,Lauriston,BLTC,No. 1,Pranav Swarup,Andrew McIntyre,Pranav Swarup,6-2,6,2,1,0,Completed,true,false,false
+UA015053,14 Aug 22,5,Lauriston,BLTC,No. 2,Leo Simpson,Zane Rushton,Leo Simpson,6-1,6,1,1,0,Completed,true,true,false
+UA015053,14 Aug 22,5,Lauriston,BLTC,No. 3,Sam Morris,Jimmy Rushton,Sam Morris,6-0,6,0,1,0,Completed,true,false,false
+UA015053,14 Aug 22,5,Lauriston,BLTC,No. 4,Lucas Wu,Louis Wu,Louis Wu,4-6,4,6,0,1,Completed,true,false,true
+UA015054,14 Aug 22,5,Tennis World,Glen Huntly,No. 1,Matthew Tong,Matthieu Fisssot,Matthieu Fisssot,2-6,2,6,0,1,Completed,true,false,false
+UA015054,14 Aug 22,5,Tennis World,Glen Huntly,No. 2,Charlie-Grace Galanis,Faith Green,Charlie-Grace Galanis,6-4,6,4,1,0,Completed,true,false,false
+UA015054,14 Aug 22,5,Tennis World,Glen Huntly,No. 3,Rafael Staa,Tim Kalapoutis,Rafael Staa,6-1,6,1,1,0,Completed,true,false,false
+UA015054,14 Aug 22,5,Tennis World,Glen Huntly,No. 4,Aditya Garg,Simon Roquilly,Simon Roquilly,3-6,3,6,0,1,Completed,true,false,false
+UA015061,21 Aug 22,6,Glen Huntly,Caulfield Rec,No. 1,Matthieu Fisssot,Anastasia Udrist,Matthieu Fisssot,6-0,6,0,1,0,Completed,true,false,false
+UA015061,21 Aug 22,6,Glen Huntly,Caulfield Rec,No. 2,Tim Kalapoutis,William Yan,William Yan,2-6,2,6,0,1,Completed,true,false,false
+UA015061,21 Aug 22,6,Glen Huntly,Caulfield Rec,No. 3,Edy Kagan,Jai Shah,Edy Kagan,6-0,6,0,1,0,Completed,true,false,false
+UA015061,21 Aug 22,6,Glen Huntly,Caulfield Rec,No. 4,Simon Roquilly,Alexandru Virmanescu,Alexandru Virmanescu,0-6,0,6,0,1,Completed,true,false,false
+UA015062,21 Aug 22,6,Kings Park,Tennis World,No. 1,Yoon Lee,Charlie-Grace Galanis,Charlie-Grace Galanis,3-6,3,6,0,1,Completed,true,false,false
+UA015062,21 Aug 22,6,Kings Park,Tennis World,No. 2,Maja O'Sullivan,Rafael Staa,Maja O'Sullivan,6-2,6,2,1,0,Completed,true,false,false
+UA015062,21 Aug 22,6,Kings Park,Tennis World,No. 3,Daniel Gao,Chloe Popovic,Daniel Gao,6-2,6,2,1,0,Completed,true,false,false
+UA015062,21 Aug 22,6,Kings Park,Tennis World,No. 4,Shiven Lal,Klara Popovic,Shiven Lal,6-3,6,3,1,0,Completed,true,true,false
+UA015063,21 Aug 22,6,GPHC,Lauriston,No. 1,Owen Burns,Leo Barson,Leo Barson,4-6,4,6,0,1,Completed,true,false,true
+UA015063,21 Aug 22,6,GPHC,Lauriston,No. 2,Rupert Black,Pranav Swarup,Pranav Swarup,0-6,0,6,0,1,Completed,true,false,false
+UA015063,21 Aug 22,6,GPHC,Lauriston,No. 3,Joseph Karalapillai,Lucas Wu,Lucas Wu,4-6,4,6,0,1,Completed,true,false,false
+UA015063,21 Aug 22,6,GPHC,Lauriston,No. 4,Kristina Bratkova,Luke Davey,Kristina Bratkova,6-1,6,1,1,0,Completed,true,false,false
+UA015064,21 Aug 22,6,BLTC,Parkdale,No. 1,Andrew McIntyre,Ilinca Di Suciu,Ilinca Di Suciu,5-7,5,7,0,1,Completed,true,false,false
+UA015064,21 Aug 22,6,BLTC,Parkdale,No. 2,Zane Rushton,Abigail Arculus,Abigail Arculus,3-6,3,6,0,1,Completed,true,false,false
+UA015064,21 Aug 22,6,BLTC,Parkdale,No. 3,Jimmy Rushton,Oscar Lewis,Oscar Lewis,0-6,0,6,0,1,Completed,true,false,false
+UA015064,21 Aug 22,6,BLTC,Parkdale,No. 4,Louis Wu,Brad Arculus,Louis Wu,6-0,6,0,1,0,Completed,true,true,false
+UA015071,28 Aug 22,7,Tennis World,Caulfield Rec,No. 1,Matthew Tong,Danielius Buividas,Matthew Tong,6-2,6,2,1,0,Completed,true,false,false
+UA015071,28 Aug 22,7,Tennis World,Caulfield Rec,No. 2,Charlie-Grace Galanis,Anastasia Udrist,Charlie-Grace Galanis,7-5,7,5,1,0,Completed,true,false,false
+UA015071,28 Aug 22,7,Tennis World,Caulfield Rec,No. 3,Aditya Garg,William Yan,Aditya Garg,6-3,6,3,1,0,Completed,true,false,false
+UA015071,28 Aug 22,7,Tennis World,Caulfield Rec,No. 4,Aiden Artemas,Jai Shah,Aiden Artemas,6-0,6,0,1,0,Completed,true,false,false
+UA015072,28 Aug 22,7,Glen Huntly,Kings Park,No. 1,Faith Green,Yoon Lee,Faith Green,6-1,6,1,1,0,Completed,true,false,false
+UA015072,28 Aug 22,7,Glen Huntly,Kings Park,No. 2,Tim Kalapoutis,Maja O'Sullivan,Tim Kalapoutis,6-4,6,4,1,0,Completed,true,false,false
+UA015072,28 Aug 22,7,Glen Huntly,Kings Park,No. 3,Noah Matznar,Evelyn Pajovic,Noah Matznar,6-1,6,1,1,0,Completed,true,true,false
+UA015072,28 Aug 22,7,Glen Huntly,Kings Park,No. 4,Samay Agarwal,Shiven Lal,Samay Agarwal,6-4,6,4,1,0,Completed,true,false,true
+UA015073,28 Aug 22,7,Parkdale,Lauriston,No. 1,Ilinca Di Suciu,Pranav Swarup,Ilinca Di Suciu,6-4,6,4,1,0,Completed,true,false,false
+UA015073,28 Aug 22,7,Parkdale,Lauriston,No. 2,Matt Bradley,Daniel Davey,Matt Bradley,6-0,6,0,1,0,Completed,true,false,true
+UA015073,28 Aug 22,7,Parkdale,Lauriston,No. 3,Brad Arculus,Hikuhj Savniya,Hikuhj Savniya,4-6,4,6,0,1,Completed,true,false,true
+UA015073,28 Aug 22,7,Parkdale,Lauriston,No. 4,Rohan Patel,Luke Davey,Rohan Patel,6-3,6,3,1,0,Completed,true,false,false
+UA015074,28 Aug 22,7,GPHC,BLTC,No. 1,Rupert Black,Noah Anderson,Noah Anderson,4-6,4,6,0,1,Completed,true,false,false
+UA015074,28 Aug 22,7,GPHC,BLTC,No. 2,Joseph Karalapillai,Andrew McIntyre,Joseph Karalapillai,6-3,6,3,1,0,Completed,true,false,false
+UA015074,28 Aug 22,7,GPHC,BLTC,No. 3,Arata Tanaka,Jimmy Rushton,Arata Tanaka,6-3,6,3,1,0,Completed,true,false,false
+UA015074,28 Aug 22,7,GPHC,BLTC,No. 4,Mimi Cross,Ryder Anderson,Ryder Anderson,2-6,2,6,0,1,Completed,true,false,false
+UA015081,04 Sep 22,8,BLTC,Tennis World,No. 1,Noah Anderson,Matthew Tong,Matthew Tong,0-6,0,6,0,1,Completed,true,false,false
+UA015081,04 Sep 22,8,BLTC,Tennis World,No. 2,Andrew McIntyre,Charlie-Grace Galanis,Charlie-Grace Galanis,0-6,0,6,0,1,Completed,true,false,false
+UA015081,04 Sep 22,8,BLTC,Tennis World,No. 3,Jimmy Rushton,Rafael Staa,Rafael Staa,2-6,2,6,0,1,Completed,true,false,false
+UA015081,04 Sep 22,8,BLTC,Tennis World,No. 4,Ryder Anderson,Aiden Artemas,Aiden Artemas,2-6,2,6,0,1,Completed,true,false,false
+UA015082,04 Sep 22,8,Lauriston,Glen Huntly,No. 1,Pranav Swarup,Faith Green,Pranav Swarup,6-2,6,2,1,0,Completed,true,false,false
+UA015082,04 Sep 22,8,Lauriston,Glen Huntly,No. 2,Lucas Wu,Tim Kalapoutis,Tim Kalapoutis,4-6,4,6,0,1,Completed,true,false,false
+UA015082,04 Sep 22,8,Lauriston,Glen Huntly,No. 3,Nikunj Sanviya,Edy Kagan,Edy Kagan,5-7,5,7,0,1,Completed,true,true,false
+UA015082,04 Sep 22,8,Lauriston,Glen Huntly,No. 4,Hamish Marsden,Simon Roquilly,Simon Roquilly,0-6,0,6,0,1,Completed,true,true,false
+UA015083,04 Sep 22,8,GPHC,Caulfield Rec,No. 1,Owen Burns,William Yan,Owen Burns,6-4,6,4,1,0,Completed,true,false,false
+UA015083,04 Sep 22,8,GPHC,Caulfield Rec,No. 2,Jeremy Wong,Anastasia Udrist,Jeremy Wong,7-5,7,5,1,0,Completed,true,false,false
+UA015083,04 Sep 22,8,GPHC,Caulfield Rec,No. 3,Rupert Black,Danielius Buividas,Rupert Black,6-0,6,0,1,0,Completed,true,false,false
+UA015083,04 Sep 22,8,GPHC,Caulfield Rec,No. 4,Joseph Karalapillai,Ryan Belbaly,Ryan Belbaly,1-6,1,6,0,1,Completed,true,false,true
+UA015084,04 Sep 22,8,Parkdale,Kings Park,No. 1,Ilinca Di Suciu,Yoon Lee,Yoon Lee,5-7,5,7,0,1,Completed,true,false,false
+UA015084,04 Sep 22,8,Parkdale,Kings Park,No. 2,Matt Bradley,Maja O'Sullivan,Matt Bradley,6-4,6,4,1,0,Completed,true,false,false
+UA015084,04 Sep 22,8,Parkdale,Kings Park,No. 3,Oscar Lewis,Daniel Gao,Daniel Gao,1-6,1,6,0,1,Completed,true,false,false
+UA015084,04 Sep 22,8,Parkdale,Kings Park,No. 4,Rohan Patel,Evelyn Pajovic,Rohan Patel,7-5,7,5,1,0,Completed,true,false,false
+UA015091,11 Sep 22,9,Tennis World,Parkdale,No. 1,Matthew Tong,Abigail Arculus,Matthew Tong,6-0,6,0,1,0,Completed,true,false,false
+UA015091,11 Sep 22,9,Tennis World,Parkdale,No. 2,Charlie-Grace Galanis,Oscar Lewis,Charlie-Grace Galanis,6-2,6,2,1,0,Completed,true,false,false
+UA015091,11 Sep 22,9,Tennis World,Parkdale,No. 3,Aditya Garg,Brad Arculus,Aditya Garg,6-1,6,1,1,0,Completed,true,false,false
+UA015091,11 Sep 22,9,Tennis World,Parkdale,No. 4,Klara Popovic,Rohan Patel,Rohan Patel,4-6,4,6,0,1,Completed,true,false,false
+UA015092,11 Sep 22,9,Glen Huntly,BLTC,No. 1,Matthieu Fisssot,Noah Anderson,Matthieu Fisssot,6-0,6,0,1,0,Completed,true,false,false
+UA015092,11 Sep 22,9,Glen Huntly,BLTC,No. 2,Faith Green,Andrew McIntyre,Faith Green,6-4,6,4,1,0,Completed,true,false,false
+UA015092,11 Sep 22,9,Glen Huntly,BLTC,No. 3,Tim Kalapoutis,Jakub Szymanski,Tim Kalapoutis,6-1,6,1,1,0,Completed,true,false,true
+UA015092,11 Sep 22,9,Glen Huntly,BLTC,No. 4,Edy Kagan,Ryder Anderson,Edy Kagan,6-0,6,0,1,0,Completed,true,false,false
+UA015093,11 Sep 22,9,Caulfield Rec,Lauriston,No. 1,Danielius Buividas,Pranav Swarup,Pranav Swarup,3-6,3,6,0,1,Completed,true,false,false
+UA015093,11 Sep 22,9,Caulfield Rec,Lauriston,No. 2,William Yan,Sam Morris,William Yan,6-3,6,3,1,0,Completed,true,false,false
+UA015093,11 Sep 22,9,Caulfield Rec,Lauriston,No. 3,Jai Shah,Nikunj Sanviya,Nikunj Sanviya,2-6,2,6,0,1,Completed,true,false,true
+UA015093,11 Sep 22,9,Caulfield Rec,Lauriston,No. 4,Pranav Arora,Hamish Marsden,Pranav Arora,6-1,6,1,1,0,Completed,true,false,true
+UA015094,11 Sep 22,9,Kings Park,GPHC,No. 1,Yoon Lee,Jeremy Wong,Yoon Lee,6-3,6,3,1,0,Completed,true,false,false
+UA015094,11 Sep 22,9,Kings Park,GPHC,No. 2,Maja O'Sullivan,[Unnamed player — TROLS UA015094 away code 2],Maja O'Sullivan,6-3,6,3,1,0,Completed,false,false,false
+UA015094,11 Sep 22,9,Kings Park,GPHC,No. 3,Daniel Gao,Arata Tanaka,Daniel Gao,6-0,6,0,1,0,Completed,true,false,false
+UA015094,11 Sep 22,9,Kings Park,GPHC,No. 4,Nate Horlsey,Kristina Bratkova,Nate Horlsey,7-6,7,6,1,0,Completed,true,true,false
+UA015101,09 Oct 22,10,GPHC,Tennis World,No. 1,Owen Burns,Matthew Tong,Matthew Tong,4-6,4,6,0,1,Completed,true,false,false
+UA015101,09 Oct 22,10,GPHC,Tennis World,No. 2,Rupert Black,Rafael Staa,Rafael Staa,2-6,2,6,0,1,Completed,true,false,false
+UA015101,09 Oct 22,10,GPHC,Tennis World,No. 3,Joseph Karalapillai,Chloe Popovic,Joseph Karalapillai,6-2,6,2,1,0,Completed,true,false,false
+UA015101,09 Oct 22,10,GPHC,Tennis World,No. 4,Mimi Cross,Aditya Garg,Aditya Garg,1-6,1,6,0,1,Completed,true,false,false
+UA015102,09 Oct 22,10,Parkdale,Glen Huntly,No. 1,Ilinca Di Suciu,Matthieu Fisssot,Matthieu Fisssot,0-6,0,6,0,1,Completed,true,false,false
+UA015102,09 Oct 22,10,Parkdale,Glen Huntly,No. 2,Abigail Arculus,Faith Green,Faith Green,3-6,3,6,0,1,Completed,true,false,false
+UA015102,09 Oct 22,10,Parkdale,Glen Huntly,No. 3,Matt Bradley,Tim Kalapoutis,Tim Kalapoutis,2-6,2,6,0,1,Completed,true,false,false
+UA015102,09 Oct 22,10,Parkdale,Glen Huntly,No. 4,Brad Arculus,Edy Kagan,Edy Kagan,1-6,1,6,0,1,Completed,true,false,false
+UA015103,09 Oct 22,10,BLTC,Caulfield Rec,No. 1,Casper Stisen-billing,Anastasia Udrist,Casper Stisen-billing,6-4,6,4,1,0,Completed,true,true,false
+UA015103,09 Oct 22,10,BLTC,Caulfield Rec,No. 2,Andrew McIntyre,Alexandru Virmanescu,Andrew McIntyre,6-1,6,1,1,0,Completed,true,false,false
+UA015103,09 Oct 22,10,BLTC,Caulfield Rec,No. 3,Zane Rushton,Jai Shah,Zane Rushton,6-0,6,0,1,0,Completed,true,false,false
+UA015103,09 Oct 22,10,BLTC,Caulfield Rec,No. 4,Jimmy Rushton,Pranav Arora,Pranav Arora,0-6,0,6,0,1,Completed,true,false,false
+UA015104,09 Oct 22,10,Lauriston,Kings Park,No. 1,Michael Davey,Yoon Lee,Yoon Lee,5-7,5,7,0,1,Completed,true,false,false
+UA015104,09 Oct 22,10,Lauriston,Kings Park,No. 2,Sam Morris,Daniel Gao,Daniel Gao,2-6,2,6,0,1,Completed,true,false,false
+UA015104,09 Oct 22,10,Lauriston,Kings Park,No. 3,Lucas Wu,[Unnamed player — TROLS UA015104 away code 3],Lucas Wu,6-0,6,0,1,0,Completed,false,false,false
+UA015104,09 Oct 22,10,Lauriston,Kings Park,No. 4,Luke Davey,Shiven Lal,Luke Davey,6-4,6,4,1,0,Completed,true,false,true
+UA015111,16 Oct 22,11,Tennis World,Lauriston,No. 1,Matthew Tong,Pranav Swarup,Matthew Tong,6-1,6,1,1,0,Completed,true,false,false
+UA015111,16 Oct 22,11,Tennis World,Lauriston,No. 2,Rafael Staa,Michael Davey,Rafael Staa,6-2,6,2,1,0,Completed,true,false,false
+UA015111,16 Oct 22,11,Tennis World,Lauriston,No. 3,Aditya Garg,Sam Morris,Sam Morris,4-6,4,6,0,1,Completed,true,false,false
+UA015111,16 Oct 22,11,Tennis World,Lauriston,No. 4,Aiden Artemas,Lucas Wu,Lucas Wu,0-6,0,6,0,1,Completed,true,false,false
+UA015112,16 Oct 22,11,Glen Huntly,GPHC,No. 1,Faith Green,Owen Burns,Owen Burns,2-6,2,6,0,1,Completed,true,false,false
+UA015112,16 Oct 22,11,Glen Huntly,GPHC,No. 2,Tim Kalapoutis,Jeremy Wong,Tim Kalapoutis,6-3,6,3,1,0,Completed,true,false,false
+UA015112,16 Oct 22,11,Glen Huntly,GPHC,No. 3,Edy Kagan,Arata Tanaka,Edy Kagan,6-2,6,2,1,0,Completed,true,false,false
+UA015112,16 Oct 22,11,Glen Huntly,GPHC,No. 4,Seth Green,Sally Burns,Sally Burns,2-6,2,6,0,1,Completed,true,false,true
+UA015113,16 Oct 22,11,Caulfield Rec,Parkdale,No. 1,Danielius Buividas,Ilinca Di Suciu,Ilinca Di Suciu,6-7,6,7,0,1,Completed,true,false,false
+UA015113,16 Oct 22,11,Caulfield Rec,Parkdale,No. 2,Anastasia Udrist,Matt Bradley,Anastasia Udrist,6-3,6,3,1,0,Completed,true,false,false
+UA015113,16 Oct 22,11,Caulfield Rec,Parkdale,No. 3,William Yan,Oscar Lewis,Oscar Lewis,1-6,1,6,0,1,Completed,true,false,false
+UA015113,16 Oct 22,11,Caulfield Rec,Parkdale,No. 4,Jai Shah,Rohan Patel,Rohan Patel,2-6,2,6,0,1,Completed,true,false,false
+UA015114,16 Oct 22,11,Kings Park,BLTC,No. 1,Yoon Lee,Noah Anderson,Yoon Lee,6-2,6,2,1,0,Completed,true,false,false
+UA015114,16 Oct 22,11,Kings Park,BLTC,No. 2,Maja O'Sullivan,Andrew McIntyre,Maja O'Sullivan,6-3,6,3,1,0,Completed,true,false,false
+UA015114,16 Oct 22,11,Kings Park,BLTC,No. 3,Evelyn Pajovic,Jimmy Rushton,Evelyn Pajovic,6-0,6,0,1,0,Completed,true,false,false
+UA015114,16 Oct 22,11,Kings Park,BLTC,No. 4,Shiven Lal,Ryder Anderson,Shiven Lal,6-0,6,0,1,0,Completed,true,true,false
+UA015121,23 Oct 22,12,Kings Park,Caulfield Rec,No. 1,Yoon Lee,Danielius Buividas,Yoon Lee,6-2,6,2,1,0,Completed,true,false,false
+UA015121,23 Oct 22,12,Kings Park,Caulfield Rec,No. 2,Maja O'Sullivan,William Yan,Maja O'Sullivan,6-0,6,0,1,0,Completed,true,false,false
+UA015121,23 Oct 22,12,Kings Park,Caulfield Rec,No. 3,Daniel Gao,Jai Shah,Daniel Gao,6-0,6,0,1,0,Completed,true,false,false
+UA015121,23 Oct 22,12,Kings Park,Caulfield Rec,No. 4,Evelyn Pajovic,Pranav Arora,Evelyn Pajovic,6-4,6,4,1,0,Completed,true,false,false
+UA015122,23 Oct 22,12,GPHC,Parkdale,No. 1,Owen Burns,Ilinca Di Suciu,Owen Burns,6-2,6,2,1,0,Completed,true,false,false
+UA015122,23 Oct 22,12,GPHC,Parkdale,No. 2,Jeremy Wong,Abigail Arculus,Abigail Arculus,4-6,4,6,0,1,Completed,true,false,false
+UA015122,23 Oct 22,12,GPHC,Parkdale,No. 3,Mimi Cross,Brad Arculus,Brad Arculus,6-7,6,7,0,1,Completed,true,false,false
+UA015122,23 Oct 22,12,GPHC,Parkdale,No. 4,Kristina Bratkova,Rohan Patel,Rohan Patel,4-6,4,6,0,1,Completed,true,false,false
+UA015123,23 Oct 22,12,BLTC,Lauriston,No. 1,Noah Anderson,Michael Davey,Noah Anderson,7-6,7,6,1,0,Completed,true,false,false
+UA015123,23 Oct 22,12,BLTC,Lauriston,No. 2,Jimmy Rushton,Leo Barson,Leo Barson,3-6,3,6,0,1,Completed,true,false,true
+UA015123,23 Oct 22,12,BLTC,Lauriston,No. 3,Zane Rushton,Sam Morris,Sam Morris,2-6,2,6,0,1,Completed,true,false,false
+UA015123,23 Oct 22,12,BLTC,Lauriston,No. 4,Ryder Anderson,Luke Davey,Luke Davey,1-6,1,6,0,1,Completed,true,false,false
+UA015124,23 Oct 22,12,Glen Huntly,Tennis World,No. 1,Faith Green,Matthew Tong,Matthew Tong,3-6,3,6,0,1,Completed,true,false,false
+UA015124,23 Oct 22,12,Glen Huntly,Tennis World,No. 2,Tim Kalapoutis,Rafael Staa,Tim Kalapoutis,6-2,6,2,1,0,Completed,true,false,false
+UA015124,23 Oct 22,12,Glen Huntly,Tennis World,No. 3,Edy Kagan,Aditya Garg,Edy Kagan,7-6,7,6,1,0,Completed,true,false,false
+UA015124,23 Oct 22,12,Glen Huntly,Tennis World,No. 4,Simon Roquilly,Aiden Artemas,Simon Roquilly,6-1,6,1,1,0,Completed,true,false,false
+UA015131,06 Nov 22,13,Caulfield Rec,Glen Huntly,No. 1,Anastasia Udrist,Matthieu Fisssot,Matthieu Fisssot,1-6,1,6,0,1,Completed,true,false,false
+UA015131,06 Nov 22,13,Caulfield Rec,Glen Huntly,No. 2,Alexandru Virmanescu,Faith Green,Faith Green,2-6,2,6,0,1,Completed,true,false,false
+UA015131,06 Nov 22,13,Caulfield Rec,Glen Huntly,No. 3,Jai Shah,Edy Kagan,Edy Kagan,0-6,0,6,0,1,Completed,true,false,false
+UA015131,06 Nov 22,13,Caulfield Rec,Glen Huntly,No. 4,Pranav Arora,Seth Green,Pranav Arora,6-1,6,1,1,0,Completed,true,false,false
+UA015132,06 Nov 22,13,Tennis World,Kings Park,No. 1,Matthew Tong,Maja O'Sullivan,Matthew Tong,6-0,6,0,1,0,Completed,true,false,false
+UA015132,06 Nov 22,13,Tennis World,Kings Park,No. 2,Charlie-Grace Galanis,Daniel Gao,Daniel Gao,3-6,3,6,0,1,Completed,true,false,false
+UA015132,06 Nov 22,13,Tennis World,Kings Park,No. 3,Rafael Staa,Evelyn Pajovic,Rafael Staa,6-2,6,2,1,0,Completed,true,false,false
+UA015132,06 Nov 22,13,Tennis World,Kings Park,No. 4,Aditya Garg,Shiven Lal,Aditya Garg,7-5,7,5,1,0,Completed,true,false,true
+UA015133,06 Nov 22,13,Lauriston,GPHC,No. 1,Pranav Swarup,Rupert Black,Pranav Swarup,6-1,6,1,1,0,Completed,true,false,false
+UA015133,06 Nov 22,13,Lauriston,GPHC,No. 2,Michael Davey,Joseph Karalapillai,Joseph Karalapillai,3-6,3,6,0,1,Completed,true,false,false
+UA015133,06 Nov 22,13,Lauriston,GPHC,No. 3,Lucas Wu,Arata Tanaka,Arata Tanaka,3-6,3,6,0,1,Completed,true,false,false
+UA015133,06 Nov 22,13,Lauriston,GPHC,No. 4,Luke Davey,Kristina Bratkova,Kristina Bratkova,3-6,3,6,0,1,Completed,true,false,false
+UA015134,06 Nov 22,13,Parkdale,BLTC,No. 1,Ilinca Di Suciu,Noah Anderson,Ilinca Di Suciu,6-4,6,4,1,0,Completed,true,false,false
+UA015134,06 Nov 22,13,Parkdale,BLTC,No. 2,Matt Bradley,Andrew McIntyre,Andrew McIntyre,5-7,5,7,0,1,Completed,true,false,false
+UA015134,06 Nov 22,13,Parkdale,BLTC,No. 3,Oscar Lewis,Jimmy Rushton,Oscar Lewis,6-1,6,1,1,0,Completed,true,false,false
+UA015134,06 Nov 22,13,Parkdale,BLTC,No. 4,Brad Arculus,Ryder Anderson,Brad Arculus,6-0,6,0,1,0,Completed,true,false,false
+UA015141,13 Nov 22,14,Caulfield Rec,Tennis World,No. 1,Danielius Buividas,Matthew Tong,Matthew Tong,0-6,0,6,0,1,Completed,true,false,false
+UA015141,13 Nov 22,14,Caulfield Rec,Tennis World,No. 2,Anastasia Udrist,Charlie-Grace Galanis,Anastasia Udrist,6-3,6,3,1,0,Completed,true,false,false
+UA015141,13 Nov 22,14,Caulfield Rec,Tennis World,No. 3,William Yan,Aditya Garg,Aditya Garg,4-6,4,6,0,1,Completed,true,false,false
+UA015141,13 Nov 22,14,Caulfield Rec,Tennis World,No. 4,Alexandru Virmanescu,Aiden Artemas,Alexandru Virmanescu,6-0,6,0,1,0,Completed,true,false,false
+UA015142,13 Nov 22,14,Kings Park,Glen Huntly,No. 1,Yoon Lee,Faith Green,Yoon Lee,6-3,6,3,1,0,Completed,true,false,false
+UA015142,13 Nov 22,14,Kings Park,Glen Huntly,No. 2,Maja O'Sullivan,Tim Kalapoutis,Tim Kalapoutis,0-6,0,6,0,1,Completed,true,false,false
+UA015142,13 Nov 22,14,Kings Park,Glen Huntly,No. 3,Daniel Gao,Edy Kagan,Daniel Gao,7-5,7,5,1,0,Completed,true,false,false
+UA015142,13 Nov 22,14,Kings Park,Glen Huntly,No. 4,Shiven Lal,Samay Agarwal,Samay Agarwal,3-6,3,6,0,1,Completed,true,true,false
+UA015143,13 Nov 22,14,Lauriston,Parkdale,No. 1,Pranav Swarup,Joshua O'Connor,Joshua O'Connor,4-6,4,6,0,1,Completed,true,false,true
+UA015143,13 Nov 22,14,Lauriston,Parkdale,No. 2,Michael Davey,Ilinca Di Suciu,Ilinca Di Suciu,3-6,3,6,0,1,Completed,true,false,false
+UA015143,13 Nov 22,14,Lauriston,Parkdale,No. 3,Lucas Wu,Matt Bradley,Lucas Wu,6-4,6,4,1,0,Completed,true,false,false
+UA015143,13 Nov 22,14,Lauriston,Parkdale,No. 4,Luke Davey,Rohan Patel,Luke Davey,6-4,6,4,1,0,Completed,true,false,false
+UA015144,13 Nov 22,14,BLTC,GPHC,No. 1,Noah Anderson,Owen Burns,Owen Burns,1-6,1,6,0,1,Completed,true,false,false
+UA015144,13 Nov 22,14,BLTC,GPHC,No. 2,Andrew McIntyre,Rupert Black,Rupert Black,3-6,3,6,0,1,Completed,true,false,false
+UA015144,13 Nov 22,14,BLTC,GPHC,No. 3,Jimmy Rushton,Arata Tanaka,Arata Tanaka,0-6,0,6,0,1,Completed,true,false,false
+UA015144,13 Nov 22,14,BLTC,GPHC,No. 4,Ryder Anderson,Kristina Bratkova,Kristina Bratkova,1-6,1,6,0,1,Completed,true,false,false
+UA015301,,16,Glen Huntly,Kings Park,No. 1,Matthieu Fisssot,Yoon Lee,Matthieu Fisssot,6-1,6,1,1,0,Completed,true,false,false
+UA015301,,16,Glen Huntly,Kings Park,No. 2,Faith Green,Maja O'Sullivan,Faith Green,6-1,6,1,1,0,Completed,true,false,false
+UA015301,,16,Glen Huntly,Kings Park,No. 3,Tim Kalapoutis,Daniel Gao,Daniel Gao,4-6,4,6,0,1,Completed,true,false,false
+UA015301,,16,Glen Huntly,Kings Park,No. 4,Edy Kagan,Evelyn Pajovic,Evelyn Pajovic,4-6,4,6,0,1,Completed,true,false,false
+UA015302,,16,Tennis World,Lauriston,No. 1,Matthew Tong,Pranav Swarup,Matthew Tong,6-1,6,1,1,0,Completed,true,false,false
+UA015302,,16,Tennis World,Lauriston,No. 2,Charlie-Grace Galanis,Sam Morris,Charlie-Grace Galanis,6-2,6,2,1,0,Completed,true,false,false
+UA015302,,16,Tennis World,Lauriston,No. 3,Rafael Staa,Lucas Wu,Lucas Wu,6-7,6,7,0,1,Completed,true,false,false
+UA015302,,16,Tennis World,Lauriston,No. 4,Aditya Garg,Luke Davey,Aditya Garg,6-2,6,2,1,0,Completed,true,false,false
+UA015321,,17,Glen Huntly,Tennis World,No. 1,Faith Green,Matthew Tong,Matthew Tong,1-6,1,6,0,1,Completed,true,false,false
+UA015321,,17,Glen Huntly,Tennis World,No. 2,Edy Kagan,Charlie-Grace Galanis,Edy Kagan,6-0,6,0,1,0,Completed,true,false,false
+UA015321,,17,Glen Huntly,Tennis World,No. 3,Simon Roquilly,Rafael Staa,Simon Roquilly,6-3,6,3,1,0,Completed,true,false,false
+UA015321,,17,Glen Huntly,Tennis World,No. 4,Samay Agarwal,Aditya Garg,Aditya Garg,5-7,5,7,0,1,Completed,true,false,false

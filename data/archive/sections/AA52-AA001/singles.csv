@@ -1,0 +1,101 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA001011,05 Feb 22,1,Port Melbourne Red,Carmelite,No. 1,Lachlan Gordon,Danill Levashov,Lachlan Gordon,7-6,7,6,1,0,Completed,true,false,false
+AA001011,05 Feb 22,1,Port Melbourne Red,Carmelite,No. 2,Cameron Gordon,Hudson Bacon,Cameron Gordon,6-2,6,2,1,0,Completed,true,false,false
+AA001011,05 Feb 22,1,Port Melbourne Red,Carmelite,No. 3,Angelina Kotzakozidis,Charlie Smit,Angelina Kotzakozidis,6-3,6,3,1,0,Completed,true,false,false
+AA001011,05 Feb 22,1,Port Melbourne Red,Carmelite,No. 4,Nicholas Peyeri,Marcus Eddy,Marcus Eddy,6-7,6,7,0,1,Completed,true,false,false
+AA001012,05 Feb 22,1,Port Melbourne Blue,Royal South Yarra,No. 1,Jack Walters,Thomas Park,Thomas Park,1-6,1,6,0,1,Completed,true,false,false
+AA001012,05 Feb 22,1,Port Melbourne Blue,Royal South Yarra,No. 2,Henry Holinger,Tom Hunt,Tom Hunt,3-6,3,6,0,1,Completed,true,false,false
+AA001012,05 Feb 22,1,Port Melbourne Blue,Royal South Yarra,No. 3,Druhv Sharma,Will Jones,Druhv Sharma,6-1,6,1,1,0,Completed,true,false,false
+AA001012,05 Feb 22,1,Port Melbourne Blue,Royal South Yarra,No. 4,Nicholas Cifone,Will Howitt,Nicholas Cifone,6-2,6,2,1,0,Completed,true,false,false
+AA001021,12 Feb 22,2,Port Melbourne Green,Port Melbourne Red,No. 1,Omar Kamel,Lachlan Gordon,Omar Kamel,6-0,6,0,1,0,Completed,true,false,false
+AA001021,12 Feb 22,2,Port Melbourne Green,Port Melbourne Red,No. 2,Zuhayr Hussain,Cameron Gordon,Cameron Gordon,4-6,4,6,0,1,Completed,true,false,false
+AA001021,12 Feb 22,2,Port Melbourne Green,Port Melbourne Red,No. 3,Ashley Tall,Angelina Kotzakozidis,Ashley Tall,7-5,7,5,1,0,Completed,true,false,false
+AA001021,12 Feb 22,2,Port Melbourne Green,Port Melbourne Red,No. 4,Jamie Tall,Nicholas Peyeri,Jamie Tall,7-6,7,6,1,0,Completed,true,false,false
+AA001023,12 Feb 22,2,Carmelite,Port Melbourne Blue,No. 1,Danill Levashov,Jack Walters,Jack Walters,5-7,5,7,0,1,Completed,true,false,false
+AA001023,12 Feb 22,2,Carmelite,Port Melbourne Blue,No. 2,Hudson Bacon,Ahmed Cosic,Ahmed Cosic,5-7,5,7,0,1,Completed,true,false,false
+AA001023,12 Feb 22,2,Carmelite,Port Melbourne Blue,No. 3,Charlie Smit,Druhv Sharma,Charlie Smit,7-6,7,6,1,0,Completed,true,false,false
+AA001023,12 Feb 22,2,Carmelite,Port Melbourne Blue,No. 4,Marcus Eddy,Davud Cosic,Marcus Eddy,6-2,6,2,1,0,Completed,true,false,false
+AA001031,19 Feb 22,3,Port Melbourne Red,Port Melbourne Blue,No. 1,Lachlan Gordon,Jack Walters,Lachlan Gordon,6-1,6,1,1,0,Completed,true,false,false
+AA001031,19 Feb 22,3,Port Melbourne Red,Port Melbourne Blue,No. 2,Cameron Gordon,Ahmed Cosic,Ahmed Cosic,6-7,6,7,0,1,Completed,true,false,false
+AA001031,19 Feb 22,3,Port Melbourne Red,Port Melbourne Blue,No. 3,Angelina Kotzakozidis,Henry Holinger,Henry Holinger,5-7,5,7,0,1,Completed,true,false,false
+AA001031,19 Feb 22,3,Port Melbourne Red,Port Melbourne Blue,No. 4,Nicholas Peyeri,Nicholas Cifone,Nicholas Peyeri,6-3,6,3,1,0,Completed,true,false,false
+AA001033,19 Feb 22,3,Port Melbourne Green,Royal South Yarra,No. 1,Omar Kamel,Parth Chitroda,Parth Chitroda,3-6,3,6,0,1,Completed,true,false,false
+AA001033,19 Feb 22,3,Port Melbourne Green,Royal South Yarra,No. 2,Zuhayr Hussain,Thomas Park,Thomas Park,3-6,3,6,0,1,Completed,true,false,false
+AA001033,19 Feb 22,3,Port Melbourne Green,Royal South Yarra,No. 3,Ashley Tall,Will Jones,Will Jones,3-6,3,6,0,1,Completed,true,false,false
+AA001033,19 Feb 22,3,Port Melbourne Green,Royal South Yarra,No. 4,Jamie Tall,Will Howitt,Jamie Tall,6-2,6,2,1,0,Completed,true,false,false
+AA001041,26 Feb 22,4,Royal South Yarra,Port Melbourne Red,No. 1,Parth Chitroda,Lachlan Gordon,Parth Chitroda,6-3,6,3,1,0,Completed,true,false,false
+AA001041,26 Feb 22,4,Royal South Yarra,Port Melbourne Red,No. 2,Thomas Park,Cameron Gordon,Cameron Gordon,2-6,2,6,0,1,Completed,true,false,false
+AA001041,26 Feb 22,4,Royal South Yarra,Port Melbourne Red,No. 3,Will Jones,Henry Holinger,Henry Holinger,6-7,6,7,0,1,Completed,true,false,true
+AA001041,26 Feb 22,4,Royal South Yarra,Port Melbourne Red,No. 4,Will Howitt,Nicholas Peyeri,Nicholas Peyeri,5-7,5,7,0,1,Completed,true,false,false
+AA001042,26 Feb 22,4,Carmelite,Port Melbourne Green,No. 1,Hudson Bacon,Zuhayr Hussain,Hudson Bacon,6-3,6,3,1,0,Completed,true,false,false
+AA001042,26 Feb 22,4,Carmelite,Port Melbourne Green,No. 2,Charlie Smit,Ashley Tall,Charlie Smit,6-1,6,1,1,0,Completed,true,false,false
+AA001042,26 Feb 22,4,Carmelite,Port Melbourne Green,No. 3,Manni Peter,Jamie Tall,Jamie Tall,3-6,3,6,0,1,Completed,true,true,false
+AA001042,26 Feb 22,4,Carmelite,Port Melbourne Green,No. 4,Aleksandar McKenzie,Aariv Singh,Aariv Singh,1-6,1,6,0,1,Completed,true,true,false
+AA001061,19 Mar 22,6,Carmelite,Port Melbourne Red,No. 1,Danill Levashov,Lachlan Gordon,Lachlan Gordon,5-7,5,7,0,1,Completed,true,false,false
+AA001061,19 Mar 22,6,Carmelite,Port Melbourne Red,No. 2,Charlie Smit,Cameron Gordon,Charlie Smit,7-5,7,5,1,0,Completed,true,false,false
+AA001061,19 Mar 22,6,Carmelite,Port Melbourne Red,No. 3,Marcus Eddy,Angelina Kotzakozidis,Marcus Eddy,6-1,6,1,1,0,Completed,true,false,false
+AA001061,19 Mar 22,6,Carmelite,Port Melbourne Red,No. 4,Jakob Schmollinger,Nicholas Peyeri,Nicholas Peyeri,4-6,4,6,0,1,Completed,true,false,false
+AA001062,19 Mar 22,6,Royal South Yarra,Port Melbourne Blue,No. 1,Parth Chitroda,Jack Walters,Parth Chitroda,6-0,6,0,1,0,Completed,true,false,false
+AA001062,19 Mar 22,6,Royal South Yarra,Port Melbourne Blue,No. 2,Thomas Park,Henry Holinger,Thomas Park,6-0,6,0,1,0,Completed,true,false,false
+AA001062,19 Mar 22,6,Royal South Yarra,Port Melbourne Blue,No. 3,Will Jones,Druhv Sharma,Druhv Sharma,0-6,0,6,0,1,Completed,true,false,false
+AA001062,19 Mar 22,6,Royal South Yarra,Port Melbourne Blue,No. 4,Will Howitt,Nicholas Cifone,Nicholas Cifone,6-7,6,7,0,1,Completed,true,false,false
+AA001071,26 Mar 22,7,Port Melbourne Red,Port Melbourne Green,No. 1,Jack Walters,Omar Kamel,Omar Kamel,1-6,1,6,0,1,Completed,true,true,false
+AA001071,26 Mar 22,7,Port Melbourne Red,Port Melbourne Green,No. 2,Angelina Kotzakozidis,Ashley Tall,Ashley Tall,3-6,3,6,0,1,Completed,true,false,false
+AA001071,26 Mar 22,7,Port Melbourne Red,Port Melbourne Green,No. 3,Henry Holinger,Jamie Tall,Henry Holinger,6-3,6,3,1,0,Completed,true,true,false
+AA001071,26 Mar 22,7,Port Melbourne Red,Port Melbourne Green,No. 4,Nicholas Peyeri,Aariv Singh,Nicholas Peyeri,6-1,6,1,1,0,Completed,true,false,false
+AA001073,26 Mar 22,7,Port Melbourne Blue,Carmelite,No. 1,Ahmed Cosic,Danill Levashov,Danill Levashov,5-7,5,7,0,1,Completed,true,false,false
+AA001073,26 Mar 22,7,Port Melbourne Blue,Carmelite,No. 2,Druhv Sharma,Hudson Bacon,Hudson Bacon,2-6,2,6,0,1,Completed,true,false,false
+AA001073,26 Mar 22,7,Port Melbourne Blue,Carmelite,No. 3,Davud Cosic,Marcus Eddy,Marcus Eddy,2-6,2,6,0,1,Completed,true,false,false
+AA001073,26 Mar 22,7,Port Melbourne Blue,Carmelite,No. 4,Nicholas Cifone,Jakob Schmollinger,Jakob Schmollinger,2-6,2,6,0,1,Completed,true,false,false
+AA001081,02 Apr 22,8,Port Melbourne Blue,Port Melbourne Red,No. 1,Jack Walters,Lachlan Gordon,Lachlan Gordon,4-6,4,6,0,1,Completed,true,false,false
+AA001081,02 Apr 22,8,Port Melbourne Blue,Port Melbourne Red,No. 2,Ahmed Cosic,Cameron Gordon,Ahmed Cosic,6-4,6,4,1,0,Completed,true,false,false
+AA001081,02 Apr 22,8,Port Melbourne Blue,Port Melbourne Red,No. 3,Henry Holinger,Angelina Kotzakozidis,Henry Holinger,6-3,6,3,1,0,Completed,true,false,false
+AA001081,02 Apr 22,8,Port Melbourne Blue,Port Melbourne Red,No. 4,Davud Cosic,Nicholas Peyeri,Nicholas Peyeri,3-6,3,6,0,1,Completed,true,false,false
+AA001083,02 Apr 22,8,Royal South Yarra,Port Melbourne Green,No. 1,Thomas Park,Omar Kamel,Omar Kamel,5-7,5,7,0,1,Completed,true,false,false
+AA001083,02 Apr 22,8,Royal South Yarra,Port Melbourne Green,No. 2,Tom Hunt,Zuhayr Hussain,Zuhayr Hussain,5-7,5,7,0,1,Completed,true,false,false
+AA001083,02 Apr 22,8,Royal South Yarra,Port Melbourne Green,No. 3,Will Jones,Ashley Tall,Will Jones,6-4,6,4,1,0,Completed,true,false,false
+AA001083,02 Apr 22,8,Royal South Yarra,Port Melbourne Green,No. 4,Will Howitt,Jamie Tall,Will Howitt,7-6,7,6,1,0,Completed,true,false,false
+AA001102,07 May 22,10,Carmelite,Royal South Yarra,No. 1,Danill Levashov,Thomas Park,Danill Levashov,6-4,6,4,1,0,Completed,true,false,false
+AA001102,07 May 22,10,Carmelite,Royal South Yarra,No. 2,Charlie Smit,Will Howitt,Charlie Smit,6-4,6,4,1,0,Completed,true,false,false
+AA001102,07 May 22,10,Carmelite,Royal South Yarra,No. 3,Marcus Eddy,Tom Hunt,Marcus Eddy,6-2,6,2,1,0,Completed,true,false,false
+AA001102,07 May 22,10,Carmelite,Royal South Yarra,No. 4,Jakob Schmollinger,Will Jones,Jakob Schmollinger,6-0,6,0,1,0,Completed,true,false,false
+AA001103,07 May 22,10,Port Melbourne Blue,Port Melbourne Green,No. 1,Jack Walters,Omar Kamel,Omar Kamel,2-6,2,6,0,1,Completed,true,false,false
+AA001103,07 May 22,10,Port Melbourne Blue,Port Melbourne Green,No. 2,Cameron Gordon,Lachlan Gordon,Lachlan Gordon,4-6,4,6,0,1,Completed,true,true,true
+AA001103,07 May 22,10,Port Melbourne Blue,Port Melbourne Green,No. 3,Henry Holinger,Aariv Singh,Aariv Singh,3-6,3,6,0,1,Completed,true,false,false
+AA001103,07 May 22,10,Port Melbourne Blue,Port Melbourne Green,No. 4,Druhv Sharma,Marius Gozdzicki,Marius Gozdzicki,1-6,1,6,0,1,Completed,true,false,true
+AA001111,14 May 22,11,Port Melbourne Red,Carmelite,No. 1,Lachlan Gordon,Danill Levashov,Lachlan Gordon,6-1,6,1,1,0,Completed,true,false,false
+AA001111,14 May 22,11,Port Melbourne Red,Carmelite,No. 2,Cameron Gordon,Hudson Bacon,Cameron Gordon,6-3,6,3,1,0,Completed,true,false,false
+AA001111,14 May 22,11,Port Melbourne Red,Carmelite,No. 3,Nicholas Peyeri,Charlie Smit,Charlie Smit,6-7,6,7,0,1,Completed,true,false,false
+AA001111,14 May 22,11,Port Melbourne Red,Carmelite,No. 4,Peter Schmollinger,Marcus Eddy,Peter Schmollinger,6-4,6,4,1,0,Completed,true,true,false
+AA001112,14 May 22,11,Port Melbourne Blue,Royal South Yarra,No. 1,Jack Walters,Parth Chitroda,Parth Chitroda,0-6,0,6,0,1,Completed,true,false,false
+AA001112,14 May 22,11,Port Melbourne Blue,Royal South Yarra,No. 2,Ahmed Cosic,Will Howitt,Ahmed Cosic,6-0,6,0,1,0,Completed,true,false,false
+AA001112,14 May 22,11,Port Melbourne Blue,Royal South Yarra,No. 3,Henry Holinger,Tom Hunt,Henry Holinger,6-1,6,1,1,0,Completed,true,false,false
+AA001112,14 May 22,11,Port Melbourne Blue,Royal South Yarra,No. 4,Davud Cosic,Will Jones,Davud Cosic,6-0,6,0,1,0,Completed,true,false,false
+AA001121,21 May 22,12,Port Melbourne Green,Port Melbourne Red,No. 1,Omar Kamel,Lachlan Gordon,Omar Kamel,6-4,6,4,1,0,Completed,true,false,false
+AA001121,21 May 22,12,Port Melbourne Green,Port Melbourne Red,No. 2,Ashley Tall,Cameron Gordon,Cameron Gordon,1-6,1,6,0,1,Completed,true,false,false
+AA001121,21 May 22,12,Port Melbourne Green,Port Melbourne Red,No. 3,Aariv Singh,Angelina Kotzakozidis,Aariv Singh,6-2,6,2,1,0,Completed,true,false,false
+AA001121,21 May 22,12,Port Melbourne Green,Port Melbourne Red,No. 4,Param Shah,Nicholas Peyeri,Nicholas Peyeri,0-6,0,6,0,1,Completed,true,true,false
+AA001123,21 May 22,12,Carmelite,Port Melbourne Blue,No. 1,Danill Levashov,Jack Walters,Danill Levashov,6-3,6,3,1,0,Completed,true,false,false
+AA001123,21 May 22,12,Carmelite,Port Melbourne Blue,No. 2,Hudson Bacon,Henry Holinger,Hudson Bacon,7-5,7,5,1,0,Completed,true,false,false
+AA001123,21 May 22,12,Carmelite,Port Melbourne Blue,No. 3,Marcus Eddy,Druhv Sharma,Marcus Eddy,6-0,6,0,1,0,Completed,true,false,false
+AA001123,21 May 22,12,Carmelite,Port Melbourne Blue,No. 4,Jakob Schmollinger,Nicholas Cifone,Jakob Schmollinger,6-1,6,1,1,0,Completed,true,false,false
+AA001131,28 May 22,13,Port Melbourne Red,Port Melbourne Blue,No. 1,Lachlan Gordon,Jack Walters,Lachlan Gordon,6-4,6,4,1,0,Completed,true,false,false
+AA001131,28 May 22,13,Port Melbourne Red,Port Melbourne Blue,No. 2,Cameron Gordon,Ahmed Cosic,Cameron Gordon,6-4,6,4,1,0,Completed,true,false,false
+AA001131,28 May 22,13,Port Melbourne Red,Port Melbourne Blue,No. 3,Angelina Kotzakozidis,Henry Holinger,Henry Holinger,4-6,4,6,0,1,Completed,true,false,false
+AA001131,28 May 22,13,Port Melbourne Red,Port Melbourne Blue,No. 4,Nicholas Peyeri,Druhv Sharma,Nicholas Peyeri,6-1,6,1,1,0,Completed,true,false,false
+AA001133,28 May 22,13,Port Melbourne Green,Royal South Yarra,No. 1,Omar Kamel,Parth Chitroda,Parth Chitroda,0-6,0,6,0,1,Completed,true,false,false
+AA001133,28 May 22,13,Port Melbourne Green,Royal South Yarra,No. 2,Ashley Tall,Thomas Park,Ashley Tall,7-5,7,5,1,0,Completed,true,false,false
+AA001133,28 May 22,13,Port Melbourne Green,Royal South Yarra,No. 3,Aariv Singh,Tom Hunt,Aariv Singh,6-1,6,1,1,0,Completed,true,false,false
+AA001133,28 May 22,13,Port Melbourne Green,Royal South Yarra,No. 4,Nicholas Cifone,Will Jones,Nicholas Cifone,6-3,6,3,1,0,Completed,true,true,false
+AA001141,04 Jun 22,14,Royal South Yarra,Port Melbourne Red,No. 1,Thomas Park,Lachlan Gordon,Lachlan Gordon,4-6,4,6,0,1,Completed,true,false,false
+AA001141,04 Jun 22,14,Royal South Yarra,Port Melbourne Red,No. 2,Tom Hayden,Cameron Gordon,Tom Hayden,7-6,7,6,1,0,Completed,true,true,false
+AA001141,04 Jun 22,14,Royal South Yarra,Port Melbourne Red,No. 3,Will Howitt,Angelina Kotzakozidis,Will Howitt,6-4,6,4,1,0,Completed,true,false,false
+AA001141,04 Jun 22,14,Royal South Yarra,Port Melbourne Red,No. 4,Tom Hunt,Nicholas Peyeri,Nicholas Peyeri,2-6,2,6,0,1,Completed,true,false,false
+AA001142,04 Jun 22,14,Carmelite,Port Melbourne Green,No. 1,Danill Levashov,Omar Kamel,Danill Levashov,6-4,6,4,1,0,Completed,true,false,false
+AA001142,04 Jun 22,14,Carmelite,Port Melbourne Green,No. 2,Hudson Bacon,Druhv Sharma,Hudson Bacon,6-3,6,3,1,0,Completed,true,false,true
+AA001142,04 Jun 22,14,Carmelite,Port Melbourne Green,No. 3,Charlie Smit,Ashley Tall,Charlie Smit,7-5,7,5,1,0,Completed,true,false,false
+AA001142,04 Jun 22,14,Carmelite,Port Melbourne Green,No. 4,Jakob Schmollinger,Aariv Singh,Aariv Singh,2-6,2,6,0,1,Completed,true,false,false
+AA001321,,16,Port Melbourne Red,Carmelite,No. 1,Lachlan Gordon,Danill Levashov,Lachlan Gordon,6-3,6,3,1,0,Completed,true,false,false
+AA001321,,16,Port Melbourne Red,Carmelite,No. 2,Cameron Gordon,Hudson Bacon,Cameron Gordon,6-4,6,4,1,0,Completed,true,false,false
+AA001321,,16,Port Melbourne Red,Carmelite,No. 3,Angelina Kotzakozidis,Marcus Eddy,Angelina Kotzakozidis,6-2,6,2,1,0,Completed,true,false,false
+AA001321,,16,Port Melbourne Red,Carmelite,No. 4,Nicholas Peyeri,Jakob Schmollinger,Jakob Schmollinger,3-6,3,6,0,1,Completed,true,false,false

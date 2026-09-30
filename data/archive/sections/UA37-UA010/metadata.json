@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA37-UA010",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2025",
+  "season_id": "UA37",
+  "season_label": "Spring 2025",
+  "source_section_code": "UA010",
+  "section_label": "Section 10",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite",
+      "wins": 12,
+      "points": 120,
+      "percentage": 205.47,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Mentone",
+      "wins": 11,
+      "points": 103,
+      "percentage": 147.18,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Aspendale",
+      "wins": 5,
+      "points": 65,
+      "percentage": 90.46,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Royal South Yarra",
+      "wins": 4,
+      "points": 61,
+      "percentage": 86.69,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 4,
+      "points": 56.5,
+      "percentage": 90.37,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kings Park",
+      "wins": 3,
+      "points": 55,
+      "percentage": 80.78,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 3,
+      "points": 53.5,
+      "percentage": 74.66,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "St James",
+      "wins": 3,
+      "points": 46,
+      "percentage": 79.35,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA37-UA010",
+  "fixtures": 59,
+  "completed_fixtures": 50,
+  "draw_fixtures": 59,
+  "singles_rubbers": 199,
+  "doubles_rubbers": 100,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

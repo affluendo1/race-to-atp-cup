@@ -1,0 +1,229 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA004011,17 Jul 22,1,BLTC Blue,BLTC WHITE,No. 1,Stevan Dakic,Kensei Golec,Stevan Dakic,7-6,7,6,1,0,Completed,true,false,false
+UA004011,17 Jul 22,1,BLTC Blue,BLTC WHITE,No. 2,Justin Le,Olivia Foster,Justin Le,6-1,6,1,1,0,Completed,true,false,false
+UA004011,17 Jul 22,1,BLTC Blue,BLTC WHITE,No. 3,Daniel Murphy,Hudson Egan,Daniel Murphy,6-0,6,0,1,0,Completed,true,false,false
+UA004011,17 Jul 22,1,BLTC Blue,BLTC WHITE,No. 4,Eric (yizheng) Li,Petar Kocic,Petar Kocic,4-6,4,6,0,1,Completed,true,false,false
+UA004012,17 Jul 22,1,Royal South Yarra,Maccabi,No. 1,Christopher Manton,Elan Amler,Christopher Manton,6-3,6,3,1,0,Completed,true,false,false
+UA004012,17 Jul 22,1,Royal South Yarra,Maccabi,No. 2,Eddie Millear,Blake Golden,Blake Golden,1-6,1,6,0,1,Completed,true,false,false
+UA004012,17 Jul 22,1,Royal South Yarra,Maccabi,No. 3,Tommaso Palombaro,Jeremy Gordan,Tommaso Palombaro,6-4,6,4,1,0,Completed,true,false,true
+UA004012,17 Jul 22,1,Royal South Yarra,Maccabi,No. 4,Dash Webb,David Nguyen,David Nguyen,1-6,1,6,0,1,Completed,true,false,true
+UA004013,17 Jul 22,1,Royal Ave,Carmelite,No. 1,Tess Dargan,Jet Mackenzie,Jet Mackenzie,6-7,6,7,0,1,Completed,true,false,false
+UA004013,17 Jul 22,1,Royal Ave,Carmelite,No. 2,Anthony Pain,Jack Kinsman,Anthony Pain,6-1,6,1,1,0,Completed,true,false,false
+UA004013,17 Jul 22,1,Royal Ave,Carmelite,No. 3,Isabel Goldsmith,Jack Walters,Isabel Goldsmith,6-4,6,4,1,0,Completed,true,false,false
+UA004013,17 Jul 22,1,Royal Ave,Carmelite,No. 4,Jack James,Daniil Levashov,Jack James,7-5,7,5,1,0,Completed,true,false,false
+UA004014,17 Jul 22,1,Kooyong,GPHC,No. 1,Josie Best,Anya Lo,Anya Lo,0-6,0,6,0,1,Completed,true,false,false
+UA004014,17 Jul 22,1,Kooyong,GPHC,No. 2,Angus McCallum,George Dzolis,George Dzolis,2-6,2,6,0,1,Completed,true,false,false
+UA004014,17 Jul 22,1,Kooyong,GPHC,No. 3,Caroline Marcel,Conor Boussioutas,Conor Boussioutas,3-6,3,6,0,1,Completed,true,false,false
+UA004014,17 Jul 22,1,Kooyong,GPHC,No. 4,James Porter,Leo Motyl-Coverdale,Leo Motyl-Coverdale,2-6,2,6,0,1,Completed,true,false,false
+UA004021,24 Jul 22,2,GPHC,BLTC Blue,No. 1,Anya Lo,Stevan Dakic,Stevan Dakic,3-6,3,6,0,1,Completed,true,false,false
+UA004021,24 Jul 22,2,GPHC,BLTC Blue,No. 2,George Dzolis,[Unnamed player — TROLS UA004021 away code 2],George Dzolis,6-0,6,0,1,0,Completed,false,false,false
+UA004021,24 Jul 22,2,GPHC,BLTC Blue,No. 3,Oscar Roseman,Ray Lai Cheong,Oscar Roseman,6-0,6,0,1,0,Completed,true,false,false
+UA004021,24 Jul 22,2,GPHC,BLTC Blue,No. 4,Kai Rogerson,Brandon Sadler-gray,Kai Rogerson,6-4,6,4,1,0,Completed,true,false,true
+UA004023,24 Jul 22,2,Maccabi,Royal Ave,No. 1,Elan Amler,Luke Cowie,Elan Amler,6-3,6,3,1,0,Completed,true,false,false
+UA004023,24 Jul 22,2,Maccabi,Royal Ave,No. 2,Blake Golden,Anthony Pain,Blake Golden,6-1,6,1,1,0,Completed,true,false,false
+UA004023,24 Jul 22,2,Maccabi,Royal Ave,No. 3,Linda Li,Isabel Goldsmith,Linda Li,7-6,7,6,1,0,Completed,true,true,false
+UA004023,24 Jul 22,2,Maccabi,Royal Ave,No. 4,David Nguyen,Jack James,David Nguyen,6-2,6,2,1,0,Completed,true,true,false
+UA004024,24 Jul 22,2,Carmelite,Kooyong,No. 1,Arlo Douglas-Hines,Josie Best,Arlo Douglas-Hines,6-1,6,1,1,0,Completed,true,false,false
+UA004024,24 Jul 22,2,Carmelite,Kooyong,No. 2,Jet Mackenzie,Niki Tsemtsidis,Jet Mackenzie,6-2,6,2,1,0,Completed,true,false,true
+UA004024,24 Jul 22,2,Carmelite,Kooyong,No. 3,Jack Kinsman,Caroline Marcel,Jack Kinsman,6-3,6,3,1,0,Completed,true,false,false
+UA004024,24 Jul 22,2,Carmelite,Kooyong,No. 4,Daniil Levashov,James Porter,Daniil Levashov,6-0,6,0,1,0,Completed,true,false,false
+UA004031,31 Jul 22,3,BLTC Blue,Carmelite,No. 1,Daniel Murphy,Arlo Douglas-Hines,Arlo Douglas-Hines,2-6,2,6,0,1,Completed,true,false,false
+UA004031,31 Jul 22,3,BLTC Blue,Carmelite,No. 2,Ray Lai Cheong,Jet Mackenzie,Jet Mackenzie,1-6,1,6,0,1,Completed,true,false,false
+UA004031,31 Jul 22,3,BLTC Blue,Carmelite,No. 3,Brandon Sadler-gray,Jack Kinsman,Brandon Sadler-gray,6-1,6,1,1,0,Completed,true,true,false
+UA004031,31 Jul 22,3,BLTC Blue,Carmelite,No. 4,Riley Luong,Daniil Levashov,Daniil Levashov,2-6,2,6,0,1,Completed,true,true,false
+UA004032,31 Jul 22,3,Royal South Yarra,GPHC,No. 1,Tommaso Palombaro,Anya Lo,Anya Lo,0-6,0,6,0,1,Completed,true,false,false
+UA004032,31 Jul 22,3,Royal South Yarra,GPHC,No. 2,Dash Webb,Conor Boussioutas,Conor Boussioutas,4-6,4,6,0,1,Completed,true,false,false
+UA004032,31 Jul 22,3,Royal South Yarra,GPHC,No. 3,Boston Moran,Leo Motyl-Coverdale,Leo Motyl-Coverdale,1-6,1,6,0,1,Completed,true,false,false
+UA004032,31 Jul 22,3,Royal South Yarra,GPHC,No. 4,Phoebe Andrews,Kai Rogerson,Phoebe Andrews,6-0,6,0,1,0,Completed,true,true,false
+UA004033,31 Jul 22,3,Royal Ave,BLTC WHITE,No. 1,Tess Dargan,Olivia Foster,Tess Dargan,6-2,6,2,1,0,Completed,true,false,false
+UA004033,31 Jul 22,3,Royal Ave,BLTC WHITE,No. 2,Luke Cowie,Hudson Egan,Luke Cowie,6-2,6,2,1,0,Completed,true,false,false
+UA004033,31 Jul 22,3,Royal Ave,BLTC WHITE,No. 3,Anthony Pain,Petar Kocic,Anthony Pain,6-2,6,2,1,0,Completed,true,false,false
+UA004033,31 Jul 22,3,Royal Ave,BLTC WHITE,No. 4,Isabel Goldsmith,[Unnamed player — TROLS UA004033 away code 4],Isabel Goldsmith,6-0,6,0,1,0,Completed,false,false,false
+UA004034,31 Jul 22,3,Kooyong,Maccabi,No. 1,Josie Best,Elan Amler,Josie Best,7-6,7,6,1,0,Completed,true,false,false
+UA004034,31 Jul 22,3,Kooyong,Maccabi,No. 2,Angus McCallum,Blake Golden,Blake Golden,1-6,1,6,0,1,Completed,true,false,false
+UA004034,31 Jul 22,3,Kooyong,Maccabi,No. 3,Caroline Marcel,Joshua Sarho,Joshua Sarho,2-6,2,6,0,1,Completed,true,false,true
+UA004034,31 Jul 22,3,Kooyong,Maccabi,No. 4,Niki Tsemtsidis,David Nguyen,Niki Tsemtsidis,6-3,6,3,1,0,Completed,true,true,true
+UA004041,07 Aug 22,4,Maccabi,BLTC Blue,No. 1,Danielle Nagar,Stevan Dakic,Stevan Dakic,3-6,3,6,0,1,Completed,true,false,false
+UA004041,07 Aug 22,4,Maccabi,BLTC Blue,No. 2,Zoe Magnezi,Justin Le,Zoe Magnezi,6-2,6,2,1,0,Completed,true,false,false
+UA004041,07 Aug 22,4,Maccabi,BLTC Blue,No. 3,Jake Golshevsky,Daniel Murphy,Jake Golshevsky,6-2,6,2,1,0,Completed,true,false,false
+UA004041,07 Aug 22,4,Maccabi,BLTC Blue,No. 4,Elan Amler,Ray Lai Cheong,Elan Amler,6-2,6,2,1,0,Completed,true,false,false
+UA004042,07 Aug 22,4,Carmelite,Royal South Yarra,No. 1,Ashton Arms,Christopher Manton,Ashton Arms,6-1,6,1,1,0,Completed,true,true,false
+UA004042,07 Aug 22,4,Carmelite,Royal South Yarra,No. 2,Jack Kinsman,Eddie Millear,Eddie Millear,2-6,2,6,0,1,Completed,true,false,false
+UA004042,07 Aug 22,4,Carmelite,Royal South Yarra,No. 3,Jack Walters,Stella Kephala,Stella Kephala,3-6,3,6,0,1,Completed,true,false,false
+UA004042,07 Aug 22,4,Carmelite,Royal South Yarra,No. 4,Daniil Levashov,Boston Moran,Daniil Levashov,6-3,6,3,1,0,Completed,true,false,false
+UA004043,07 Aug 22,4,GPHC,Royal Ave,No. 1,George Dzolis,Tess Dargan,Tess Dargan,3-6,3,6,0,1,Completed,true,false,false
+UA004043,07 Aug 22,4,GPHC,Royal Ave,No. 2,Conor Boussioutas,Luke Cowie,Conor Boussioutas,6-0,6,0,1,0,Completed,true,false,false
+UA004043,07 Aug 22,4,GPHC,Royal Ave,No. 3,Leo Motyl-Coverdale,Anthony Pain,Leo Motyl-Coverdale,6-2,6,2,1,0,Completed,true,false,false
+UA004043,07 Aug 22,4,GPHC,Royal Ave,No. 4,Kai Rogerson,Jack James,Jack James,6-7,6,7,0,1,Completed,true,false,false
+UA004044,07 Aug 22,4,BLTC WHITE,Kooyong,No. 1,Frankie Hillier,Josie Best,Frankie Hillier,6-3,6,3,1,0,Completed,true,true,false
+UA004044,07 Aug 22,4,BLTC WHITE,Kooyong,No. 2,Olivia Foster,Angus McCallum,Angus McCallum,5-7,5,7,0,1,Completed,true,false,false
+UA004044,07 Aug 22,4,BLTC WHITE,Kooyong,No. 3,Hudson Egan,Caroline Marcel,Caroline Marcel,2-6,2,6,0,1,Completed,true,false,false
+UA004044,07 Aug 22,4,BLTC WHITE,Kooyong,No. 4,Petar Kocic,James Porter,Petar Kocic,6-2,6,2,1,0,Completed,true,false,false
+UA004051,14 Aug 22,5,Royal Ave,Kooyong,No. 1,Tess Dargan,Josie Best,Tess Dargan,6-4,6,4,1,0,Completed,true,false,false
+UA004051,14 Aug 22,5,Royal Ave,Kooyong,No. 2,Luke Cowie,Angus McCallum,Luke Cowie,6-1,6,1,1,0,Completed,true,false,false
+UA004051,14 Aug 22,5,Royal Ave,Kooyong,No. 3,Isabel Goldsmith,Caroline Marcel,Isabel Goldsmith,7-5,7,5,1,0,Completed,true,false,false
+UA004051,14 Aug 22,5,Royal Ave,Kooyong,No. 4,Jack James,James Porter,Jack James,6-0,6,0,1,0,Completed,true,false,false
+UA004052,14 Aug 22,5,GPHC,Carmelite,No. 1,Anya Lo,Jet Mackenzie,Anya Lo,6-0,6,0,1,0,Completed,true,false,false
+UA004052,14 Aug 22,5,GPHC,Carmelite,No. 2,George Dzolis,Jack Kinsman,George Dzolis,6-2,6,2,1,0,Completed,true,false,false
+UA004052,14 Aug 22,5,GPHC,Carmelite,No. 3,Leo Motyl-Coverdale,Jack Walters,Leo Motyl-Coverdale,6-2,6,2,1,0,Completed,true,false,false
+UA004052,14 Aug 22,5,GPHC,Carmelite,No. 4,Kai Rogerson,Henry Hollinger,Henry Hollinger,3-6,3,6,0,1,Completed,true,false,true
+UA004054,14 Aug 22,5,BLTC Blue,Royal South Yarra,No. 1,Stevan Dakic,Ashvin Jawardena,Stevan Dakic,6-4,6,4,1,0,Completed,true,false,true
+UA004054,14 Aug 22,5,BLTC Blue,Royal South Yarra,No. 2,Justin Le,Eddie Millear,Eddie Millear,5-7,5,7,0,1,Completed,true,false,false
+UA004054,14 Aug 22,5,BLTC Blue,Royal South Yarra,No. 3,Daniel Murphy,Tommaso Palombaro,Tommaso Palombaro,2-6,2,6,0,1,Completed,true,false,false
+UA004054,14 Aug 22,5,BLTC Blue,Royal South Yarra,No. 4,Ray Lai Cheong,Dash Webb,Ray Lai Cheong,6-2,6,2,1,0,Completed,true,false,false
+UA004061,21 Aug 22,6,Royal South Yarra,Royal Ave,No. 1,Christopher Manton,Tess Dargan,Christopher Manton,6-2,6,2,1,0,Completed,true,false,false
+UA004061,21 Aug 22,6,Royal South Yarra,Royal Ave,No. 2,Eddie Millear,Luke Cowie,Eddie Millear,6-3,6,3,1,0,Completed,true,false,false
+UA004061,21 Aug 22,6,Royal South Yarra,Royal Ave,No. 3,Tommaso Palombaro,Anthony Pain,Tommaso Palombaro,6-2,6,2,1,0,Completed,true,false,false
+UA004061,21 Aug 22,6,Royal South Yarra,Royal Ave,No. 4,Boston Moran,Jack James,Jack James,1-6,1,6,0,1,Completed,true,false,false
+UA004062,21 Aug 22,6,Kooyong,BLTC Blue,No. 1,Josie Best,Stevan Dakic,Stevan Dakic,0-6,0,6,0,1,Completed,true,false,false
+UA004062,21 Aug 22,6,Kooyong,BLTC Blue,No. 2,Caroline Marcel,Justin Le,Justin Le,3-6,3,6,0,1,Completed,true,false,false
+UA004062,21 Aug 22,6,Kooyong,BLTC Blue,No. 3,James Porter,Daniel Murphy,Daniel Murphy,2-6,2,6,0,1,Completed,true,false,false
+UA004062,21 Aug 22,6,Kooyong,BLTC Blue,No. 4,Louis Baeppler,Ray Lai Cheong,Ray Lai Cheong,3-6,3,6,0,1,Completed,true,true,false
+UA004063,21 Aug 22,6,Carmelite,Maccabi,No. 1,Arlo Douglas-Hines,Zoe Magnezi,Arlo Douglas-Hines,6-0,6,0,1,0,Completed,true,false,false
+UA004063,21 Aug 22,6,Carmelite,Maccabi,No. 2,Jet Mackenzie,Jake Golshevsky,Jet Mackenzie,6-2,6,2,1,0,Completed,true,false,false
+UA004063,21 Aug 22,6,Carmelite,Maccabi,No. 3,Jack Kinsman,Elan Amler,Elan Amler,0-6,0,6,0,1,Completed,true,false,false
+UA004063,21 Aug 22,6,Carmelite,Maccabi,No. 4,Jack Walters,Blake Golden,Blake Golden,1-6,1,6,0,1,Completed,true,false,false
+UA004064,21 Aug 22,6,BLTC WHITE,GPHC,No. 1,Aditiya Dogra,Anya Lo,Aditiya Dogra,6-2,6,2,1,0,Completed,true,true,false
+UA004064,21 Aug 22,6,BLTC WHITE,GPHC,No. 2,Olivia Foster,George Dzolis,George Dzolis,1-6,1,6,0,1,Completed,true,false,false
+UA004064,21 Aug 22,6,BLTC WHITE,GPHC,No. 3,Hudson Egan,Conor Boussioutas,Conor Boussioutas,1-6,1,6,0,1,Completed,true,false,false
+UA004064,21 Aug 22,6,BLTC WHITE,GPHC,No. 4,Petar Kocic,Oscar Roseman,Petar Kocic,6-4,6,4,1,0,Completed,true,false,false
+UA004071,28 Aug 22,7,BLTC Blue,Royal Ave,No. 1,Stevan Dakic,Tess Dargan,Stevan Dakic,6-0,6,0,1,0,Completed,true,false,false
+UA004071,28 Aug 22,7,BLTC Blue,Royal Ave,No. 2,Ray Lai Cheong,Anthony Pain,Ray Lai Cheong,6-3,6,3,1,0,Completed,true,false,false
+UA004071,28 Aug 22,7,BLTC Blue,Royal Ave,No. 3,Justin Le,Isabel Goldsmith,Justin Le,6-3,6,3,1,0,Completed,true,false,false
+UA004071,28 Aug 22,7,BLTC Blue,Royal Ave,No. 4,Daniel Murphy,Jack James,Jack James,2-6,2,6,0,1,Completed,true,false,false
+UA004072,28 Aug 22,7,Royal South Yarra,Kooyong,No. 1,Eddie Millear,Josie Best,Eddie Millear,6-1,6,1,1,0,Completed,true,false,false
+UA004072,28 Aug 22,7,Royal South Yarra,Kooyong,No. 2,Tommaso Palombaro,Caroline Marcel,Tommaso Palombaro,6-1,6,1,1,0,Completed,true,false,false
+UA004072,28 Aug 22,7,Royal South Yarra,Kooyong,No. 3,Dash Webb,[Unnamed player — TROLS UA004072 away code 3],Dash Webb,6-0,6,0,1,0,Completed,false,false,false
+UA004072,28 Aug 22,7,Royal South Yarra,Kooyong,No. 4,Boston Moran,Lachlan Wang,Boston Moran,6-4,6,4,1,0,Completed,true,false,false
+UA004073,28 Aug 22,7,GPHC,Maccabi,No. 1,Anya Lo,Danielle Nagar,Anya Lo,6-2,6,2,1,0,Completed,true,false,false
+UA004073,28 Aug 22,7,GPHC,Maccabi,No. 2,Hannah Croft,Zoe Magnezi,Zoe Magnezi,4-6,4,6,0,1,Completed,true,true,false
+UA004073,28 Aug 22,7,GPHC,Maccabi,No. 3,Oscar Roseman,Jake Golshevsky,Jake Golshevsky,1-6,1,6,0,1,Completed,true,false,false
+UA004073,28 Aug 22,7,GPHC,Maccabi,No. 4,Kai Rogerson,Elan Amler,Elan Amler,2-6,2,6,0,1,Completed,true,false,false
+UA004074,28 Aug 22,7,Carmelite,BLTC WHITE,No. 1,Arlo Douglas-Hines,Daniel Brown,Daniel Brown,5-7,5,7,0,1,Completed,true,false,true
+UA004074,28 Aug 22,7,Carmelite,BLTC WHITE,No. 2,Jet Mackenzie,Kensei Golec,Jet Mackenzie,6-3,6,3,1,0,Completed,true,false,false
+UA004074,28 Aug 22,7,Carmelite,BLTC WHITE,No. 3,Jack Kinsman,Olivia Foster,Jack Kinsman,6-2,6,2,1,0,Completed,true,false,false
+UA004074,28 Aug 22,7,Carmelite,BLTC WHITE,No. 4,Jack Walters,Petar Kocic,Petar Kocic,2-6,2,6,0,1,Completed,true,false,false
+UA004081,04 Sep 22,8,BLTC WHITE,BLTC Blue,No. 1,Kensei Golec,Stevan Dakic,Stevan Dakic,2-6,2,6,0,1,Completed,true,false,false
+UA004081,04 Sep 22,8,BLTC WHITE,BLTC Blue,No. 2,Olivia Foster,Ray Lai Cheong,Ray Lai Cheong,1-6,1,6,0,1,Completed,true,false,false
+UA004081,04 Sep 22,8,BLTC WHITE,BLTC Blue,No. 3,Hudson Egan,Justin Le,Justin Le,0-6,0,6,0,1,Completed,true,false,false
+UA004081,04 Sep 22,8,BLTC WHITE,BLTC Blue,No. 4,Petar Kocic,Louis Wu,Petar Kocic,6-1,6,1,1,0,Completed,true,false,true
+UA004082,04 Sep 22,8,Maccabi,Royal South Yarra,No. 1,Danielle Nagar,Eddie Millear,Eddie Millear,0-6,0,6,0,1,Completed,true,false,false
+UA004082,04 Sep 22,8,Maccabi,Royal South Yarra,No. 2,Zoe Magnezi,Fergus Cameron,Zoe Magnezi,6-0,6,0,1,0,Completed,true,false,false
+UA004082,04 Sep 22,8,Maccabi,Royal South Yarra,No. 3,Jake Golshevsky,Dash Webb,Jake Golshevsky,6-1,6,1,1,0,Completed,true,false,false
+UA004082,04 Sep 22,8,Maccabi,Royal South Yarra,No. 4,Blake Golden,Boston Moran,Blake Golden,6-1,6,1,1,0,Completed,true,false,false
+UA004083,04 Sep 22,8,Carmelite,Royal Ave,No. 1,Arlo Douglas-Hines,Tess Dargan,Arlo Douglas-Hines,6-1,6,1,1,0,Completed,true,false,false
+UA004083,04 Sep 22,8,Carmelite,Royal Ave,No. 2,Jet Mackenzie,Luke Cowie,Jet Mackenzie,6-0,6,0,1,0,Completed,true,false,false
+UA004083,04 Sep 22,8,Carmelite,Royal Ave,No. 3,Jack Walters,Anthony Pain,Jack Walters,6-4,6,4,1,0,Completed,true,false,false
+UA004083,04 Sep 22,8,Carmelite,Royal Ave,No. 4,Daniil Levashov,Isabel Goldsmith,Daniil Levashov,6-2,6,2,1,0,Completed,true,false,false
+UA004084,04 Sep 22,8,GPHC,Kooyong,No. 1,Anya Lo,Josie Best,Anya Lo,7-5,7,5,1,0,Completed,true,false,false
+UA004084,04 Sep 22,8,GPHC,Kooyong,No. 2,Leo Motyl-Coverdale,Angus McCallum,Leo Motyl-Coverdale,6-3,6,3,1,0,Completed,true,false,false
+UA004084,04 Sep 22,8,GPHC,Kooyong,No. 3,Oscar Roseman,James Porter,Oscar Roseman,6-1,6,1,1,0,Completed,true,false,false
+UA004084,04 Sep 22,8,GPHC,Kooyong,No. 4,Kai Rogerson,Edward Pollard,Kai Rogerson,6-3,6,3,1,0,Completed,true,false,true
+UA004091,11 Sep 22,9,BLTC Blue,GPHC,No. 1,Stevan Dakic,George Dzolis,Stevan Dakic,6-0,6,0,1,0,Completed,true,false,false
+UA004091,11 Sep 22,9,BLTC Blue,GPHC,No. 2,Ray Lai Cheong,Leo Motyl-Coverdale,Leo Motyl-Coverdale,3-6,3,6,0,1,Completed,true,false,false
+UA004091,11 Sep 22,9,BLTC Blue,GPHC,No. 3,Justin Le,Oscar Roseman,Justin Le,6-3,6,3,1,0,Completed,true,false,false
+UA004091,11 Sep 22,9,BLTC Blue,GPHC,No. 4,Daniel Murphy,Kai Rogerson,Kai Rogerson,0-6,0,6,0,1,Completed,true,false,false
+UA004092,11 Sep 22,9,Royal South Yarra,BLTC WHITE,No. 1,Stella Kephala,Daniel Brown,Stella Kephala,6-3,6,3,1,0,Completed,true,false,true
+UA004092,11 Sep 22,9,Royal South Yarra,BLTC WHITE,No. 2,Tommaso Palombaro,Olivia Foster,Tommaso Palombaro,6-3,6,3,1,0,Completed,true,false,false
+UA004092,11 Sep 22,9,Royal South Yarra,BLTC WHITE,No. 3,Dash Webb,Hudson Egan,Dash Webb,6-1,6,1,1,0,Completed,true,false,false
+UA004092,11 Sep 22,9,Royal South Yarra,BLTC WHITE,No. 4,Boston Moran,Petar Kocic,Boston Moran,6-4,6,4,1,0,Completed,true,false,false
+UA004093,11 Sep 22,9,Royal Ave,Maccabi,No. 1,Tess Dargan,Danielle Nagar,Tess Dargan,7-6,7,6,1,0,Completed,true,false,false
+UA004093,11 Sep 22,9,Royal Ave,Maccabi,No. 2,Luke Cowie,Zoe Magnezi,Luke Cowie,6-3,6,3,1,0,Completed,true,false,false
+UA004093,11 Sep 22,9,Royal Ave,Maccabi,No. 3,Anthony Pain,Elan Amler,Elan Amler,3-6,3,6,0,1,Completed,true,false,false
+UA004093,11 Sep 22,9,Royal Ave,Maccabi,No. 4,Isabel Goldsmith,Blake Golden,Blake Golden,0-6,0,6,0,1,Completed,true,false,false
+UA004094,11 Sep 22,9,Kooyong,Carmelite,No. 1,Gabreil Pozo,Arlo Douglas-Hines,Arlo Douglas-Hines,1-6,1,6,0,1,Completed,true,true,false
+UA004094,11 Sep 22,9,Kooyong,Carmelite,No. 2,Angus McCallum,Jack Kinsman,Jack Kinsman,1-6,1,6,0,1,Completed,true,false,false
+UA004094,11 Sep 22,9,Kooyong,Carmelite,No. 3,James Porter,Jack Walters,Jack Walters,1-6,1,6,0,1,Completed,true,false,false
+UA004094,11 Sep 22,9,Kooyong,Carmelite,No. 4,Lachlan Wang,Daniil Levashov,Daniil Levashov,5-7,5,7,0,1,Completed,true,false,false
+UA004101,09 Oct 22,10,Carmelite,BLTC Blue,No. 1,Jet Mackenzie,Stevan Dakic,Stevan Dakic,2-6,2,6,0,1,Completed,true,false,false
+UA004101,09 Oct 22,10,Carmelite,BLTC Blue,No. 2,Peter Schmollinger,Ray Lai Cheong,Peter Schmollinger,6-1,6,1,1,0,Completed,true,false,false
+UA004101,09 Oct 22,10,Carmelite,BLTC Blue,No. 3,Jack Walters,Justin Le,Jack Walters,6-4,6,4,1,0,Completed,true,false,false
+UA004101,09 Oct 22,10,Carmelite,BLTC Blue,No. 4,Henry Hollinger,Daniel Murphy,Henry Hollinger,6-0,6,0,1,0,Completed,true,true,false
+UA004102,09 Oct 22,10,GPHC,Royal South Yarra,No. 1,George Dzolis,Miles Forster,George Dzolis,7-5,7,5,1,0,Completed,true,false,false
+UA004102,09 Oct 22,10,GPHC,Royal South Yarra,No. 2,Conor Boussioutas,Eddie Millear,Eddie Millear,4-6,4,6,0,1,Completed,true,false,false
+UA004102,09 Oct 22,10,GPHC,Royal South Yarra,No. 3,Oscar Roseman,Fergus Cameron,Oscar Roseman,6-2,6,2,1,0,Completed,true,false,false
+UA004102,09 Oct 22,10,GPHC,Royal South Yarra,No. 4,Kai Rogerson,Dash Webb,Dash Webb,5-7,5,7,0,1,Completed,true,false,false
+UA004103,09 Oct 22,10,BLTC WHITE,Royal Ave,No. 1,Kensei Golec,Tess Dargan,Kensei Golec,7-6,7,6,1,0,Completed,true,false,false
+UA004103,09 Oct 22,10,BLTC WHITE,Royal Ave,No. 2,Olivia Foster,Luke Cowie,Luke Cowie,3-6,3,6,0,1,Completed,true,false,false
+UA004103,09 Oct 22,10,BLTC WHITE,Royal Ave,No. 3,Petar Kocic,Anthony Pain,Petar Kocic,6-1,6,1,1,0,Completed,true,false,false
+UA004103,09 Oct 22,10,BLTC WHITE,Royal Ave,No. 4,Willem Duncan,Isabel Goldsmith,Willem Duncan,6-3,6,3,1,0,Completed,true,false,false
+UA004104,09 Oct 22,10,Maccabi,Kooyong,No. 1,Danielle Nagar,Josie Best,Josie Best,4-6,4,6,0,1,Completed,true,false,false
+UA004104,09 Oct 22,10,Maccabi,Kooyong,No. 2,Zoe Magnezi,Angus McCallum,Zoe Magnezi,6-2,6,2,1,0,Completed,true,false,false
+UA004104,09 Oct 22,10,Maccabi,Kooyong,No. 3,Jake Golshevsky,Caroline Marcel,Jake Golshevsky,6-1,6,1,1,0,Completed,true,false,false
+UA004104,09 Oct 22,10,Maccabi,Kooyong,No. 4,Blake Golden,James Porter,Blake Golden,6-0,6,0,1,0,Completed,true,false,false
+UA004111,16 Oct 22,11,BLTC Blue,Maccabi,No. 1,Stevan Dakic,Danielle Nagar,Stevan Dakic,6-1,6,1,1,0,Completed,true,false,false
+UA004111,16 Oct 22,11,BLTC Blue,Maccabi,No. 2,Ray Lai Cheong,Jake Golshevsky,Jake Golshevsky,3-6,3,6,0,1,Completed,true,false,false
+UA004111,16 Oct 22,11,BLTC Blue,Maccabi,No. 3,Justin Le,Elan Amler,Elan Amler,2-6,2,6,0,1,Completed,true,false,false
+UA004111,16 Oct 22,11,BLTC Blue,Maccabi,No. 4,Daniel Murphy,Blake Golden,Blake Golden,0-6,0,6,0,1,Completed,true,false,false
+UA004112,16 Oct 22,11,Royal South Yarra,Carmelite,No. 1,Miles Forster,Jet Mackenzie,Miles Forster,6-3,6,3,1,0,Completed,true,false,false
+UA004112,16 Oct 22,11,Royal South Yarra,Carmelite,No. 2,Eddie Millear,Jack Kinsman,Eddie Millear,6-4,6,4,1,0,Completed,true,false,false
+UA004112,16 Oct 22,11,Royal South Yarra,Carmelite,No. 3,Stella Kephala,Jack Walters,Stella Kephala,6-1,6,1,1,0,Completed,true,false,false
+UA004112,16 Oct 22,11,Royal South Yarra,Carmelite,No. 4,Boston Moran,Henry Hollinger,Boston Moran,6-3,6,3,1,0,Completed,true,false,true
+UA004113,16 Oct 22,11,Royal Ave,GPHC,No. 1,Tess Dargan,Anya Lo,Anya Lo,3-6,3,6,0,1,Completed,true,false,false
+UA004113,16 Oct 22,11,Royal Ave,GPHC,No. 2,Luke Cowie,Conor Boussioutas,Conor Boussioutas,2-6,2,6,0,1,Completed,true,false,false
+UA004113,16 Oct 22,11,Royal Ave,GPHC,No. 3,Anthony Pain,Leo Motyl-Coverdale,Leo Motyl-Coverdale,1-6,1,6,0,1,Completed,true,false,false
+UA004113,16 Oct 22,11,Royal Ave,GPHC,No. 4,Jack James,Kai Rogerson,Jack James,7-6,7,6,1,0,Completed,true,false,false
+UA004114,16 Oct 22,11,Kooyong,BLTC WHITE,No. 1,Josie Best,Kensei Golec,Josie Best,6-2,6,2,1,0,Completed,true,false,false
+UA004114,16 Oct 22,11,Kooyong,BLTC WHITE,No. 2,Caroline Marcel,Olivia Foster,Caroline Marcel,6-2,6,2,1,0,Completed,true,false,false
+UA004114,16 Oct 22,11,Kooyong,BLTC WHITE,No. 3,James Porter,Willem Duncan,Willem Duncan,6-7,6,7,0,1,Completed,true,false,false
+UA004114,16 Oct 22,11,Kooyong,BLTC WHITE,No. 4,Lachlan Wang,Petar Kocic,Lachlan Wang,6-0,6,0,1,0,Completed,true,false,false
+UA004121,23 Oct 22,12,Kooyong,Royal Ave,No. 1,Angus McCallum,Tess Dargan,Tess Dargan,4-6,4,6,0,1,Completed,true,false,false
+UA004121,23 Oct 22,12,Kooyong,Royal Ave,No. 2,Caroline Marcel,Luke Cowie,Luke Cowie,4-6,4,6,0,1,Completed,true,false,false
+UA004121,23 Oct 22,12,Kooyong,Royal Ave,No. 3,James Porter,Anthony Pain,Anthony Pain,1-6,1,6,0,1,Completed,true,false,false
+UA004121,23 Oct 22,12,Kooyong,Royal Ave,No. 4,Lachlan Wang,Jack James,Jack James,4-6,4,6,0,1,Completed,true,false,false
+UA004122,23 Oct 22,12,Carmelite,GPHC,No. 1,Jet Mackenzie,Anya Lo,Jet Mackenzie,6-4,6,4,1,0,Completed,true,false,false
+UA004122,23 Oct 22,12,Carmelite,GPHC,No. 2,Peter Schmollinger,Conor Boussioutas,Peter Schmollinger,7-5,7,5,1,0,Completed,true,false,false
+UA004122,23 Oct 22,12,Carmelite,GPHC,No. 3,Jack Kinsman,George Dzolis,Jack Kinsman,6-0,6,0,1,0,Completed,true,false,false
+UA004122,23 Oct 22,12,Carmelite,GPHC,No. 4,Jack Walters,Leo Motyl-Coverdale,Jack Walters,6-2,6,2,1,0,Completed,true,false,false
+UA004123,23 Oct 22,12,BLTC WHITE,Maccabi,No. 1,Olivia Foster,Danielle Nagar,Olivia Foster,6-2,6,2,1,0,Completed,true,false,false
+UA004123,23 Oct 22,12,BLTC WHITE,Maccabi,No. 2,Hudson Egan,Zoe Magnezi,Zoe Magnezi,6-7,6,7,0,1,Completed,true,false,false
+UA004123,23 Oct 22,12,BLTC WHITE,Maccabi,No. 3,Petar Kocic,Jake Golshevsky,Jake Golshevsky,4-6,4,6,0,1,Completed,true,false,false
+UA004123,23 Oct 22,12,BLTC WHITE,Maccabi,No. 4,Willem Duncan,Blake Golden,Blake Golden,1-6,1,6,0,1,Completed,true,false,false
+UA004124,23 Oct 22,12,Royal South Yarra,BLTC Blue,No. 1,Eddie Millear,Stevan Dakic,Stevan Dakic,3-6,3,6,0,1,Completed,true,false,false
+UA004124,23 Oct 22,12,Royal South Yarra,BLTC Blue,No. 2,Fergus Cameron,Ray Lai Cheong,Ray Lai Cheong,2-6,2,6,0,1,Completed,true,false,false
+UA004124,23 Oct 22,12,Royal South Yarra,BLTC Blue,No. 3,Tommaso Palombaro,Justin Le,Justin Le,3-6,3,6,0,1,Completed,true,false,false
+UA004124,23 Oct 22,12,Royal South Yarra,BLTC Blue,No. 4,Dash Webb,Daniel Brown,Daniel Brown,2-6,2,6,0,1,Completed,true,false,true
+UA004131,06 Nov 22,13,Royal Ave,Royal South Yarra,No. 1,Tess Dargan,Miles Forster,Miles Forster,4-6,4,6,0,1,Completed,true,false,false
+UA004131,06 Nov 22,13,Royal Ave,Royal South Yarra,No. 2,Luke Cowie,Eddie Millear,Eddie Millear,2-6,2,6,0,1,Completed,true,false,false
+UA004131,06 Nov 22,13,Royal Ave,Royal South Yarra,No. 3,Anthony Pain,Fergus Cameron,Fergus Cameron,2-6,2,6,0,1,Completed,true,false,false
+UA004131,06 Nov 22,13,Royal Ave,Royal South Yarra,No. 4,Jack James,Tommaso Palombaro,Tommaso Palombaro,1-6,1,6,0,1,Completed,true,false,false
+UA004132,06 Nov 22,13,BLTC Blue,Kooyong,No. 1,Stevan Dakic,Angus McCallum,Stevan Dakic,6-1,6,1,1,0,Completed,true,false,false
+UA004132,06 Nov 22,13,BLTC Blue,Kooyong,No. 2,Ray Lai Cheong,Caroline Marcel,Ray Lai Cheong,6-2,6,2,1,0,Completed,true,false,false
+UA004132,06 Nov 22,13,BLTC Blue,Kooyong,No. 3,Justin Le,Gabreil Pozo,Justin Le,6-2,6,2,1,0,Completed,true,false,true
+UA004132,06 Nov 22,13,BLTC Blue,Kooyong,No. 4,Brandon Sadler-gray,[Unnamed player — TROLS UA004132 away code 4],Brandon Sadler-gray,6-0,6,0,1,0,Completed,false,true,false
+UA004133,06 Nov 22,13,Maccabi,Carmelite,No. 1,Danielle Nagar,Peter Schmollinger,Peter Schmollinger,2-6,2,6,0,1,Completed,true,false,false
+UA004133,06 Nov 22,13,Maccabi,Carmelite,No. 2,Zoe Magnezi,Jack Kinsman,Zoe Magnezi,6-3,6,3,1,0,Completed,true,false,false
+UA004133,06 Nov 22,13,Maccabi,Carmelite,No. 3,Elan Amler,Jack Walters,Jack Walters,3-6,3,6,0,1,Completed,true,false,false
+UA004133,06 Nov 22,13,Maccabi,Carmelite,No. 4,Blake Golden,Daniil Levashov,Blake Golden,6-1,6,1,1,0,Completed,true,false,false
+UA004134,06 Nov 22,13,GPHC,BLTC WHITE,No. 1,Conor Boussioutas,Kensei Golec,Kensei Golec,3-6,3,6,0,1,Completed,true,false,false
+UA004134,06 Nov 22,13,GPHC,BLTC WHITE,No. 2,Leo Motyl-Coverdale,Hudson Egan,Leo Motyl-Coverdale,6-4,6,4,1,0,Completed,true,false,false
+UA004134,06 Nov 22,13,GPHC,BLTC WHITE,No. 3,Oscar Roseman,Petar Kocic,Oscar Roseman,7-6,7,6,1,0,Completed,true,false,false
+UA004134,06 Nov 22,13,GPHC,BLTC WHITE,No. 4,Kai Rogerson,Willem Duncan,Kai Rogerson,6-3,6,3,1,0,Completed,true,false,false
+UA004141,13 Nov 22,14,Royal Ave,BLTC Blue,No. 1,Tess Dargan,Stevan Dakic,Stevan Dakic,2-6,2,6,0,1,Completed,true,false,false
+UA004141,13 Nov 22,14,Royal Ave,BLTC Blue,No. 2,Anthony Pain,Ray Lai Cheong,Ray Lai Cheong,1-6,1,6,0,1,Completed,true,false,false
+UA004141,13 Nov 22,14,Royal Ave,BLTC Blue,No. 3,Isabel Goldsmith,Justin Le,Justin Le,1-6,1,6,0,1,Completed,true,false,false
+UA004141,13 Nov 22,14,Royal Ave,BLTC Blue,No. 4,Sanjeeva Attygale,Jenna Brown,Jenna Brown,2-6,2,6,0,1,Completed,true,true,true
+UA004142,13 Nov 22,14,Kooyong,Royal South Yarra,No. 1,James Porter,Miles Forster,Miles Forster,1-6,1,6,0,1,Completed,true,false,false
+UA004142,13 Nov 22,14,Kooyong,Royal South Yarra,No. 2,Lachlan Wang,Fergus Cameron,Fergus Cameron,3-6,3,6,0,1,Completed,true,false,false
+UA004142,13 Nov 22,14,Kooyong,Royal South Yarra,No. 3,Gabreil Pozo,Tommaso Palombaro,Tommaso Palombaro,1-6,1,6,0,1,Completed,true,true,false
+UA004142,13 Nov 22,14,Kooyong,Royal South Yarra,No. 4,Mikhail Kouzionis,Boston Moran,Boston Moran,3-6,3,6,0,1,Completed,true,true,false
+UA004143,13 Nov 22,14,Maccabi,GPHC,No. 1,Danielle Nagar,Anya Lo,Anya Lo,3-6,3,6,0,1,Completed,true,false,false
+UA004143,13 Nov 22,14,Maccabi,GPHC,No. 2,Zoe Magnezi,Leo Motyl-Coverdale,Leo Motyl-Coverdale,3-6,3,6,0,1,Completed,true,false,false
+UA004143,13 Nov 22,14,Maccabi,GPHC,No. 3,Elan Amler,Oscar Roseman,Elan Amler,7-5,7,5,1,0,Completed,true,false,false
+UA004143,13 Nov 22,14,Maccabi,GPHC,No. 4,Blake Golden,Kai Rogerson,Blake Golden,6-3,6,3,1,0,Completed,true,false,false
+UA004144,13 Nov 22,14,BLTC WHITE,Carmelite,No. 1,Kensei Golec,Jet Mackenzie,Kensei Golec,6-1,6,1,1,0,Completed,true,false,false
+UA004144,13 Nov 22,14,BLTC WHITE,Carmelite,No. 2,Olivia Foster,Peter Schmollinger,Peter Schmollinger,1-6,1,6,0,1,Completed,true,false,false
+UA004144,13 Nov 22,14,BLTC WHITE,Carmelite,No. 3,Petar Kocic,Jack Kinsman,Petar Kocic,6-1,6,1,1,0,Completed,true,false,false
+UA004144,13 Nov 22,14,BLTC WHITE,Carmelite,No. 4,Willem Duncan,Jack Walters,Jack Walters,6-7,6,7,0,1,Completed,true,false,false
+UA004301,,16,Maccabi,BLTC Blue,No. 1,Danielle Nagar,Stevan Dakic,Stevan Dakic,1-6,1,6,0,1,Completed,true,false,false
+UA004301,,16,Maccabi,BLTC Blue,No. 2,Zoe Magnezi,Ray Lai Cheong,Ray Lai Cheong,1-4,1,4,0,1,Completed,false,false,false
+UA004301,,16,Maccabi,BLTC Blue,No. 3,Elan Amler,Daniel Brown,Daniel Brown,5-7,5,7,0,1,Completed,true,false,true
+UA004301,,16,Maccabi,BLTC Blue,No. 4,Blake Golden,Petar Kocic,Blake Golden,6-3,6,3,1,0,Completed,true,false,true
+UA004302,,16,Royal South Yarra,Carmelite,No. 1,Miles Forster,Jet Mackenzie,Miles Forster,6-2,6,2,1,0,Completed,true,false,false
+UA004302,,16,Royal South Yarra,Carmelite,No. 2,Eddie Millear,Peter Schmollinger,Peter Schmollinger,1-6,1,6,0,1,Completed,true,false,false
+UA004302,,16,Royal South Yarra,Carmelite,No. 3,Stella Kephala,Jack Kinsman,Stella Kephala,6-1,6,1,1,0,Completed,true,false,false
+UA004302,,16,Royal South Yarra,Carmelite,No. 4,Tommaso Palombaro,Daniil Levashov,Daniil Levashov,4-6,4,6,0,1,Completed,true,false,false
+UA004321,,17,Carmelite,BLTC Blue,No. 1,Jet Mackenzie,Stevan Dakic,Stevan Dakic,2-6,2,6,0,1,Completed,true,false,false
+UA004321,,17,Carmelite,BLTC Blue,No. 2,Peter Schmollinger,Ray Lai Cheong,Peter Schmollinger,6-4,6,4,1,0,Completed,true,false,false
+UA004321,,17,Carmelite,BLTC Blue,No. 3,Jack Walters,Justin Le,Justin Le,6-7,6,7,0,1,Completed,true,false,false
+UA004321,,17,Carmelite,BLTC Blue,No. 4,Daniil Levashov,Daniel Brown,Daniil Levashov,7-6,7,6,1,0,Completed,true,false,true

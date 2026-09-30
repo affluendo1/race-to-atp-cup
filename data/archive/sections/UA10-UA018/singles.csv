@@ -1,0 +1,215 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA018011,05 Feb 12,1,Black Rock,Tennis World,No. 1,Edward Begley,Emanuel Datario,Edward Begley,7-6,7,6,1,0,Completed,true,false,false
+UA018011,05 Feb 12,1,Black Rock,Tennis World,No. 2,Luc Dann,Isidora Garcia,Luc Dann,6-4,6,4,1,0,Completed,true,false,false
+UA018011,05 Feb 12,1,Black Rock,Tennis World,No. 3,Shimya Imazawa,Nadia Dzaferovic,Nadia Dzaferovic,1-6,1,6,0,1,Completed,true,false,false
+UA018011,05 Feb 12,1,Black Rock,Tennis World,No. 4,Thomas Dyer,[Unnamed player — TROLS UA018011 away code 4],Thomas Dyer,6-0,6,0,1,0,Completed,false,false,false
+UA018012,05 Feb 12,1,Royal Ave 1,St Joan of Arc RA,No. 1,Michael Jiang,Luke Hart,Luke Hart,1-6,1,6,0,1,Completed,true,false,false
+UA018012,05 Feb 12,1,Royal Ave 1,St Joan of Arc RA,No. 2,Tighe Taylor,Sam Davidson,Sam Davidson,1-6,1,6,0,1,Completed,true,false,false
+UA018012,05 Feb 12,1,Royal Ave 1,St Joan of Arc RA,No. 3,James Pilcher,Charlie Moore,Charlie Moore,1-6,1,6,0,1,Completed,true,false,false
+UA018012,05 Feb 12,1,Royal Ave 1,St Joan of Arc RA,No. 4,James Norbury,Ben Scanlon,James Norbury,7-6,7,6,1,0,Completed,true,false,false
+UA018013,05 Feb 12,1,Kings Park,Royal Ave 2,No. 1,Lionel Wang,Madeleine Lewis,Madeleine Lewis,0-6,0,6,0,1,Completed,true,false,false
+UA018013,05 Feb 12,1,Kings Park,Royal Ave 2,No. 2,Amy Esdaile,Kai Kurashige,Kai Kurashige,2-6,2,6,0,1,Completed,true,false,false
+UA018013,05 Feb 12,1,Kings Park,Royal Ave 2,No. 3,Neha Xavier,Sydney Buntine,Neha Xavier,6-4,6,4,1,0,Completed,true,false,false
+UA018013,05 Feb 12,1,Kings Park,Royal Ave 2,No. 4,Sierra Danon,Max Buntine,Max Buntine,3-6,3,6,0,1,Completed,true,false,false
+UA018014,05 Feb 12,1,Mentone,GPHC MLC,No. 1,Logithan Chandrakuma,Jessica Brown,Logithan Chandrakuma,6-0,6,0,1,0,Completed,true,false,false
+UA018014,05 Feb 12,1,Mentone,GPHC MLC,No. 2,Costa Comninacis,James Toohey,Costa Comninacis,6-0,6,0,1,0,Completed,true,false,false
+UA018014,05 Feb 12,1,Mentone,GPHC MLC,No. 3,Pearl Darit,Charlie Van Gerrevink,Pearl Darit,7-5,7,5,1,0,Completed,true,false,false
+UA018014,05 Feb 12,1,Mentone,GPHC MLC,No. 4,Darragh Tate,Lily Tarry-Smith,Darragh Tate,6-0,6,0,1,0,Completed,true,false,false
+UA018021,12 Feb 12,2,GPHC MLC,Black Rock,No. 1,Jessica Brown,Edward Begley,Edward Begley,6-7,6,7,0,1,Completed,true,false,false
+UA018021,12 Feb 12,2,GPHC MLC,Black Rock,No. 2,Ellen Kanellos,Luc Dann,Luc Dann,3-6,3,6,0,1,Completed,true,false,false
+UA018021,12 Feb 12,2,GPHC MLC,Black Rock,No. 3,Charlie Dobrotwir,Shimya Imazawa,Charlie Dobrotwir,7-5,7,5,1,0,Completed,true,false,false
+UA018021,12 Feb 12,2,GPHC MLC,Black Rock,No. 4,Charlie Van Gerrevink,Thomas Dyer,Thomas Dyer,0-6,0,6,0,1,Completed,true,false,false
+UA018022,12 Feb 12,2,Tennis World,Royal Ave 1,No. 1,Tegan Burns,Noah Davis,Tegan Burns,6-3,6,3,1,0,Completed,true,false,false
+UA018022,12 Feb 12,2,Tennis World,Royal Ave 1,No. 2,Bridgette Glibiota,James Norbury,James Norbury,4-6,4,6,0,1,Completed,true,false,false
+UA018022,12 Feb 12,2,Tennis World,Royal Ave 1,No. 3,Isidora Garcia,Luke Saliba,Isidora Garcia,6-1,6,1,1,0,Completed,true,false,false
+UA018022,12 Feb 12,2,Tennis World,Royal Ave 1,No. 4,Apeusita Vazirani,Nate Hollis,Apeusita Vazirani,6-2,6,2,1,0,Completed,true,false,false
+UA018023,12 Feb 12,2,St Joan of Arc RA,Kings Park,No. 1,Luke Hart,Lionel Wang,Luke Hart,6-2,6,2,1,0,Completed,true,false,false
+UA018023,12 Feb 12,2,St Joan of Arc RA,Kings Park,No. 2,Sam Davidson,Amy Esdaile,Sam Davidson,6-1,6,1,1,0,Completed,true,false,false
+UA018023,12 Feb 12,2,St Joan of Arc RA,Kings Park,No. 3,Charlie Moore,Neha Xavier,Neha Xavier,3-6,3,6,0,1,Completed,true,false,false
+UA018023,12 Feb 12,2,St Joan of Arc RA,Kings Park,No. 4,Ben Scanlon,Lachlan Evans,Ben Scanlon,6-0,6,0,1,0,Completed,true,false,false
+UA018024,12 Feb 12,2,Royal Ave 2,Mentone,No. 1,Kai Kurashige,Logithan Chandrakuma,Logithan Chandrakuma,1-6,1,6,0,1,Completed,true,false,false
+UA018024,12 Feb 12,2,Royal Ave 2,Mentone,No. 2,Max Buntine,Costa Comninacis,Costa Comninacis,1-6,1,6,0,1,Completed,true,false,false
+UA018024,12 Feb 12,2,Royal Ave 2,Mentone,No. 3,Maddie Roberts,Pearl Darit,Pearl Darit,4-6,4,6,0,1,Completed,true,false,false
+UA018024,12 Feb 12,2,Royal Ave 2,Mentone,No. 4,Isabelle Coyne,Joydeep Ghosh,Joydeep Ghosh,2-6,2,6,0,1,Completed,true,false,false
+UA018031,19 Feb 12,3,Black Rock,Royal Ave 2,No. 1,Edward Begley,Madeleine Lewis,Edward Begley,6-2,6,2,1,0,Completed,true,false,false
+UA018031,19 Feb 12,3,Black Rock,Royal Ave 2,No. 2,Luc Dann,Kai Kurashige,Luc Dann,7-6,7,6,1,0,Completed,true,false,false
+UA018031,19 Feb 12,3,Black Rock,Royal Ave 2,No. 3,Shimya Imazawa,Max Buntine,Shimya Imazawa,6-3,6,3,1,0,Completed,true,false,false
+UA018031,19 Feb 12,3,Black Rock,Royal Ave 2,No. 4,Thomas Dyer,Maddie Roberts,Thomas Dyer,6-4,6,4,1,0,Completed,true,false,false
+UA018032,19 Feb 12,3,Royal Ave 1,GPHC MLC,No. 1,James Norbury,Ellen Kanellos,James Norbury,6-4,6,4,1,0,Completed,true,false,false
+UA018032,19 Feb 12,3,Royal Ave 1,GPHC MLC,No. 2,Luke Saliba,Charlie Van Gerrevink,Charlie Van Gerrevink,4-6,4,6,0,1,Completed,true,false,false
+UA018032,19 Feb 12,3,Royal Ave 1,GPHC MLC,No. 3,Nate Hollis,Lily Tarry-Smith,Nate Hollis,6-2,6,2,1,0,Completed,true,false,false
+UA018032,19 Feb 12,3,Royal Ave 1,GPHC MLC,No. 4,James Pilcher,Amelia James,Amelia James,0-6,0,6,0,1,Completed,true,false,false
+UA018033,19 Feb 12,3,Kings Park,Tennis World,No. 1,Lionel Wang,Emanuel Datario,Lionel Wang,6-2,6,2,1,0,Completed,true,false,false
+UA018033,19 Feb 12,3,Kings Park,Tennis World,No. 2,Amy Esdaile,Tegan Burns,Tegan Burns,4-6,4,6,0,1,Completed,true,false,false
+UA018033,19 Feb 12,3,Kings Park,Tennis World,No. 3,Sierra Danon,Nadia Dzaferovic,Nadia Dzaferovic,2-6,2,6,0,1,Completed,true,false,false
+UA018033,19 Feb 12,3,Kings Park,Tennis World,No. 4,Lachlan Evans,Apeusita Vazirani,Apeusita Vazirani,0-6,0,6,0,1,Completed,true,false,false
+UA018034,19 Feb 12,3,Mentone,St Joan of Arc RA,No. 1,Logithan Chandrakuma,Luke Hart,Logithan Chandrakuma,7-5,7,5,1,0,Completed,true,false,false
+UA018034,19 Feb 12,3,Mentone,St Joan of Arc RA,No. 2,Costa Comninacis,Charlie Moore,Charlie Moore,3-6,3,6,0,1,Completed,true,false,false
+UA018034,19 Feb 12,3,Mentone,St Joan of Arc RA,No. 3,Darragh Tate,Ben Scanlon,Ben Scanlon,3-6,3,6,0,1,Completed,true,false,false
+UA018034,19 Feb 12,3,Mentone,St Joan of Arc RA,No. 4,Joydeep Ghosh,Harry Hood,Harry Hood,2-6,2,6,0,1,Completed,true,false,false
+UA018041,26 Feb 12,4,St Joan of Arc RA,Black Rock,No. 1,Luke Hart,Edward Begley,Luke Hart,6-4,6,4,1,0,Completed,true,false,false
+UA018041,26 Feb 12,4,St Joan of Arc RA,Black Rock,No. 2,Sam Davidson,Luc Dann,Sam Davidson,6-3,6,3,1,0,Completed,true,false,false
+UA018041,26 Feb 12,4,St Joan of Arc RA,Black Rock,No. 3,Charlie Moore,Shimya Imazawa,Charlie Moore,6-2,6,2,1,0,Completed,true,false,false
+UA018041,26 Feb 12,4,St Joan of Arc RA,Black Rock,No. 4,Ben Scanlon,Thomas Dyer,Thomas Dyer,4-6,4,6,0,1,Completed,true,false,false
+UA018042,26 Feb 12,4,Royal Ave 2,Royal Ave 1,No. 1,Madeleine Lewis,Noah Davis,Noah Davis,1-6,1,6,0,1,Completed,true,false,false
+UA018042,26 Feb 12,4,Royal Ave 2,Royal Ave 1,No. 2,Sydney Buntine,Luke Saliba,Sydney Buntine,6-4,6,4,1,0,Completed,true,false,false
+UA018042,26 Feb 12,4,Royal Ave 2,Royal Ave 1,No. 3,Max Buntine,Nate Hollis,Nate Hollis,3-6,3,6,0,1,Completed,true,false,false
+UA018042,26 Feb 12,4,Royal Ave 2,Royal Ave 1,No. 4,Maddie Roberts,James Pilcher,Maddie Roberts,6-3,6,3,1,0,Completed,true,false,false
+UA018043,26 Feb 12,4,GPHC MLC,Kings Park,No. 1,Ellen Kanellos,Amy Esdaile,Amy Esdaile,2-6,2,6,0,1,Completed,true,false,false
+UA018043,26 Feb 12,4,GPHC MLC,Kings Park,No. 2,James Toohey,Neha Xavier,Neha Xavier,4-6,4,6,0,1,Completed,true,false,false
+UA018043,26 Feb 12,4,GPHC MLC,Kings Park,No. 3,Charlie Dobrotwir,Sierra Danon,Charlie Dobrotwir,6-2,6,2,1,0,Completed,true,false,false
+UA018043,26 Feb 12,4,GPHC MLC,Kings Park,No. 4,Marcus Nield,Lachlan Evans,Marcus Nield,6-0,6,0,1,0,Completed,true,false,false
+UA018044,26 Feb 12,4,Tennis World,Mentone,No. 1,Emanuel Datario,Logithan Chandrakuma,Logithan Chandrakuma,1-6,1,6,0,1,Completed,true,false,false
+UA018044,26 Feb 12,4,Tennis World,Mentone,No. 2,Isidora Garcia,Pearl Darit,Isidora Garcia,6-3,6,3,1,0,Completed,true,false,false
+UA018044,26 Feb 12,4,Tennis World,Mentone,No. 3,Apeusita Vazirani,Darragh Tate,Apeusita Vazirani,6-1,6,1,1,0,Completed,true,false,false
+UA018044,26 Feb 12,4,Tennis World,Mentone,No. 4,Joshua De Koster,Joydeep Ghosh,Joydeep Ghosh,3-6,3,6,0,1,Completed,true,false,false
+UA018051,04 Mar 12,5,Kings Park,Mentone,No. 1,Grant Sandler,Logithan Chandrakuma,Logithan Chandrakuma,3-6,3,6,0,1,Completed,true,false,false
+UA018051,04 Mar 12,5,Kings Park,Mentone,No. 2,Lionel Wang,Costa Comninacis,Lionel Wang,6-4,6,4,1,0,Completed,true,false,false
+UA018051,04 Mar 12,5,Kings Park,Mentone,No. 3,Amy Esdaile,Pearl Darit,Pearl Darit,1-6,1,6,0,1,Completed,true,false,false
+UA018051,04 Mar 12,5,Kings Park,Mentone,No. 4,Andrew Wang,Joydeep Ghosh,Andrew Wang,7-6,7,6,1,0,Completed,true,false,false
+UA018052,04 Mar 12,5,GPHC MLC,Royal Ave 2,No. 1,Jessica Brown,Madeleine Lewis,Jessica Brown,7-6,7,6,1,0,Completed,true,false,false
+UA018052,04 Mar 12,5,GPHC MLC,Royal Ave 2,No. 2,James Toohey,Kai Kurashige,Kai Kurashige,2-6,2,6,0,1,Completed,true,false,false
+UA018052,04 Mar 12,5,GPHC MLC,Royal Ave 2,No. 3,Charlie Van Gerrevink,Sydney Buntine,Sydney Buntine,0-6,0,6,0,1,Completed,true,false,false
+UA018052,04 Mar 12,5,GPHC MLC,Royal Ave 2,No. 4,Lily Tarry-Smith,Max Buntine,Max Buntine,3-6,3,6,0,1,Completed,true,false,false
+UA018053,04 Mar 12,5,St Joan of Arc RA,Tennis World,No. 1,Luke Hart,Emanuel Datario,Luke Hart,6-1,6,1,1,0,Completed,true,false,false
+UA018053,04 Mar 12,5,St Joan of Arc RA,Tennis World,No. 2,Sam Davidson,Tegan Burns,Sam Davidson,6-3,6,3,1,0,Completed,true,false,false
+UA018053,04 Mar 12,5,St Joan of Arc RA,Tennis World,No. 3,Ben Scanlon,Bridgette Glibiota,Ben Scanlon,6-0,6,0,1,0,Completed,true,false,false
+UA018053,04 Mar 12,5,St Joan of Arc RA,Tennis World,No. 4,Jack Wright,Joshua De Koster,Jack Wright,6-1,6,1,1,0,Completed,true,false,false
+UA018054,04 Mar 12,5,Black Rock,Royal Ave 1,No. 1,Edward Begley,Noah Davis,Noah Davis,1-6,1,6,0,1,Completed,true,false,false
+UA018054,04 Mar 12,5,Black Rock,Royal Ave 1,No. 2,Jonah Howell,James Norbury,Jonah Howell,6-3,6,3,1,0,Completed,true,false,false
+UA018054,04 Mar 12,5,Black Rock,Royal Ave 1,No. 3,Shimya Imazawa,Michael Jiang,Shimya Imazawa,6-2,6,2,1,0,Completed,true,false,false
+UA018054,04 Mar 12,5,Black Rock,Royal Ave 1,No. 4,Thomas Dyer,James Pilcher,Thomas Dyer,6-3,6,3,1,0,Completed,true,false,false
+UA018061,18 Mar 12,6,Royal Ave 1,Kings Park,No. 1,James Norbury,Lionel Wang,Lionel Wang,4-6,4,6,0,1,Completed,true,false,false
+UA018061,18 Mar 12,6,Royal Ave 1,Kings Park,No. 2,Luke Saliba,Neha Xavier,Luke Saliba,6-2,6,2,1,0,Completed,true,false,false
+UA018061,18 Mar 12,6,Royal Ave 1,Kings Park,No. 3,Michael Jiang,Sierra Danon,Michael Jiang,6-4,6,4,1,0,Completed,true,false,false
+UA018061,18 Mar 12,6,Royal Ave 1,Kings Park,No. 4,Nate Hollis,Andrew Wang,Nate Hollis,6-1,6,1,1,0,Completed,true,false,false
+UA018062,18 Mar 12,6,Mentone,Black Rock,No. 1,Logithan Chandrakuma,Ben Jones,Logithan Chandrakuma,6-2,6,2,1,0,Completed,true,false,false
+UA018062,18 Mar 12,6,Mentone,Black Rock,No. 2,Costa Comninacis,Luc Dann,Luc Dann,1-6,1,6,0,1,Completed,true,false,false
+UA018062,18 Mar 12,6,Mentone,Black Rock,No. 3,Pearl Darit,Shimya Imazawa,Shimya Imazawa,0-6,0,6,0,1,Completed,true,false,false
+UA018062,18 Mar 12,6,Mentone,Black Rock,No. 4,Darragh Tate,Thomas Dyer,Thomas Dyer,2-6,2,6,0,1,Completed,true,false,false
+UA018063,18 Mar 12,6,Royal Ave 2,St Joan of Arc RA,No. 1,Sydney Buntine,Sam Davidson,Sam Davidson,2-6,2,6,0,1,Completed,true,false,false
+UA018063,18 Mar 12,6,Royal Ave 2,St Joan of Arc RA,No. 2,Max Buntine,Charlie Moore,Charlie Moore,1-6,1,6,0,1,Completed,true,false,false
+UA018063,18 Mar 12,6,Royal Ave 2,St Joan of Arc RA,No. 3,Maddie Roberts,Ben Scanlon,Ben Scanlon,0-6,0,6,0,1,Completed,true,false,false
+UA018063,18 Mar 12,6,Royal Ave 2,St Joan of Arc RA,No. 4,Isabelle Coyne,Jack Wright,Jack Wright,0-6,0,6,0,1,Completed,true,false,false
+UA018064,18 Mar 12,6,Tennis World,GPHC MLC,No. 1,Emanuel Datario,Jessica Brown,Jessica Brown,2-6,2,6,0,1,Completed,true,false,false
+UA018064,18 Mar 12,6,Tennis World,GPHC MLC,No. 2,Apeusita Vazirani,Lydia Beveridge,Apeusita Vazirani,6-4,6,4,1,0,Completed,true,false,false
+UA018064,18 Mar 12,6,Tennis World,GPHC MLC,No. 3,Isidora Garcia,Lily Tarry-Smith,Isidora Garcia,6-2,6,2,1,0,Completed,true,false,false
+UA018064,18 Mar 12,6,Tennis World,GPHC MLC,No. 4,Nadia Dzaferovic,Charlie Van Gerrevink,Nadia Dzaferovic,6-0,6,0,1,0,Completed,true,false,false
+UA018071,25 Mar 12,7,Black Rock,Kings Park,No. 1,Edward Begley,Lionel Wang,Lionel Wang,3-6,3,6,0,1,Completed,true,false,false
+UA018071,25 Mar 12,7,Black Rock,Kings Park,No. 2,Luc Dann,Amy Esdaile,Amy Esdaile,2-6,2,6,0,1,Completed,true,false,false
+UA018071,25 Mar 12,7,Black Rock,Kings Park,No. 3,Shimya Imazawa,Neha Xavier,Neha Xavier,4-6,4,6,0,1,Completed,true,false,false
+UA018071,25 Mar 12,7,Black Rock,Kings Park,No. 4,Thomas Dyer,Sierra Danon,Thomas Dyer,6-4,6,4,1,0,Completed,true,false,false
+UA018072,25 Mar 12,7,Royal Ave 1,Mentone,No. 1,Noah Davis,Logithan Chandrakuma,Noah Davis,7-6,7,6,1,0,Completed,true,false,false
+UA018072,25 Mar 12,7,Royal Ave 1,Mentone,No. 2,Michael Jiang,Darragh Tate,Michael Jiang,6-1,6,1,1,0,Completed,true,false,false
+UA018072,25 Mar 12,7,Royal Ave 1,Mentone,No. 3,Nate Hollis,Joydeep Ghosh,Joydeep Ghosh,5-7,5,7,0,1,Completed,true,false,false
+UA018072,25 Mar 12,7,Royal Ave 1,Mentone,No. 4,James Pilcher,Jason Bartonek,Jason Bartonek,1-6,1,6,0,1,Completed,true,false,false
+UA018073,25 Mar 12,7,GPHC MLC,St Joan of Arc RA,No. 1,James Toohey,Sam Davidson,Sam Davidson,0-6,0,6,0,1,Completed,true,false,false
+UA018073,25 Mar 12,7,GPHC MLC,St Joan of Arc RA,No. 2,Charlie Van Gerrevink,Luke Hart,Charlie Van Gerrevink,6-0,6,0,1,0,Completed,true,false,false
+UA018073,25 Mar 12,7,GPHC MLC,St Joan of Arc RA,No. 3,Lydia Beveridge,Charlie Moore,Charlie Moore,3-6,3,6,0,1,Completed,true,false,false
+UA018073,25 Mar 12,7,GPHC MLC,St Joan of Arc RA,No. 4,Charlie Dobrotwir,Ben Scanlon,Ben Scanlon,1-6,1,6,0,1,Completed,true,false,false
+UA018074,25 Mar 12,7,Royal Ave 2,Tennis World,No. 1,Sydney Buntine,Tegan Burns,Tegan Burns,4-6,4,6,0,1,Completed,true,false,false
+UA018074,25 Mar 12,7,Royal Ave 2,Tennis World,No. 2,Max Buntine,Nadia Dzaferovic,Nadia Dzaferovic,4-6,4,6,0,1,Completed,true,false,false
+UA018074,25 Mar 12,7,Royal Ave 2,Tennis World,No. 3,Maddie Roberts,Apeusita Vazirani,Apeusita Vazirani,2-6,2,6,0,1,Completed,true,false,false
+UA018074,25 Mar 12,7,Royal Ave 2,Tennis World,No. 4,Isabelle Coyne,Riley Burns,Isabelle Coyne,6-0,6,0,1,0,Completed,true,false,false
+UA018081,22 Apr 12,8,Tennis World,Black Rock,No. 1,Tegan Burns,Edward Begley,Tegan Burns,6-1,6,1,1,0,Completed,true,false,false
+UA018081,22 Apr 12,8,Tennis World,Black Rock,No. 2,Emanuel Datario,Luc Dann,Luc Dann,0-6,0,6,0,1,Completed,true,false,false
+UA018081,22 Apr 12,8,Tennis World,Black Rock,No. 3,Isidora Garcia,Shimya Imazawa,Shimya Imazawa,0-6,0,6,0,1,Completed,true,false,false
+UA018081,22 Apr 12,8,Tennis World,Black Rock,No. 4,Joshua De Koster,Thomas Dyer,Thomas Dyer,1-6,1,6,0,1,Completed,true,false,false
+UA018082,22 Apr 12,8,St Joan of Arc RA,Royal Ave 1,No. 1,Luke Hart,Noah Davis,Luke Hart,6-3,6,3,1,0,Completed,true,false,false
+UA018082,22 Apr 12,8,St Joan of Arc RA,Royal Ave 1,No. 2,Sam Davidson,James Norbury,Sam Davidson,6-2,6,2,1,0,Completed,true,false,false
+UA018082,22 Apr 12,8,St Joan of Arc RA,Royal Ave 1,No. 3,Jack Wright,Michael Jiang,Jack Wright,6-1,6,1,1,0,Completed,true,false,false
+UA018082,22 Apr 12,8,St Joan of Arc RA,Royal Ave 1,No. 4,Emma Badge,James Pilcher,Emma Badge,6-3,6,3,1,0,Completed,true,false,false
+UA018083,22 Apr 12,8,Royal Ave 2,Kings Park,No. 1,Madeleine Lewis,Grant Sandler,Grant Sandler,2-6,2,6,0,1,Completed,true,false,false
+UA018083,22 Apr 12,8,Royal Ave 2,Kings Park,No. 2,Kai Kurashige,Lionel Wang,Lionel Wang,2-6,2,6,0,1,Completed,true,false,false
+UA018083,22 Apr 12,8,Royal Ave 2,Kings Park,No. 3,Max Buntine,Neha Xavier,Neha Xavier,6-7,6,7,0,1,Completed,true,false,false
+UA018083,22 Apr 12,8,Royal Ave 2,Kings Park,No. 4,Maddie Roberts,Sierra Danon,Maddie Roberts,6-3,6,3,1,0,Completed,true,false,false
+UA018084,22 Apr 12,8,GPHC MLC,Mentone,No. 1,Jessica Brown,Logithan Chandrakuma,Logithan Chandrakuma,1-6,1,6,0,1,Completed,true,false,false
+UA018084,22 Apr 12,8,GPHC MLC,Mentone,No. 2,Ellen Kanellos,Costa Comninacis,Costa Comninacis,3-6,3,6,0,1,Completed,true,false,false
+UA018084,22 Apr 12,8,GPHC MLC,Mentone,No. 3,James Toohey,Darragh Tate,Darragh Tate,2-6,2,6,0,1,Completed,true,false,false
+UA018084,22 Apr 12,8,GPHC MLC,Mentone,No. 4,Lily Tarry-Smith,Joydeep Ghosh,Joydeep Ghosh,1-6,1,6,0,1,Completed,true,false,false
+UA018091,29 Apr 12,9,Black Rock,GPHC MLC,No. 1,Edward Begley,Jessica Brown,Edward Begley,6-3,6,3,1,0,Completed,true,false,false
+UA018091,29 Apr 12,9,Black Rock,GPHC MLC,No. 2,Luc Dann,Ellen Kanellos,Luc Dann,6-0,6,0,1,0,Completed,true,false,false
+UA018091,29 Apr 12,9,Black Rock,GPHC MLC,No. 3,Shimya Imazawa,Lucy Poole,Lucy Poole,1-6,1,6,0,1,Completed,true,false,false
+UA018091,29 Apr 12,9,Black Rock,GPHC MLC,No. 4,Thomas Dyer,Charlie Dobrotwir,Thomas Dyer,6-3,6,3,1,0,Completed,true,false,false
+UA018092,29 Apr 12,9,Royal Ave 1,Tennis World,No. 1,James Norbury,Emanuel Datario,James Norbury,6-2,6,2,1,0,Completed,true,false,false
+UA018092,29 Apr 12,9,Royal Ave 1,Tennis World,No. 2,Ella Buffin,Tegan Burns,Tegan Burns,0-6,0,6,0,1,Completed,true,false,false
+UA018092,29 Apr 12,9,Royal Ave 1,Tennis World,No. 3,Michael Jiang,Nadia Dzaferovic,Nadia Dzaferovic,2-6,2,6,0,1,Completed,true,false,false
+UA018092,29 Apr 12,9,Royal Ave 1,Tennis World,No. 4,Nate Hollis,Joshua De Koster,Nate Hollis,6-2,6,2,1,0,Completed,true,false,false
+UA018093,29 Apr 12,9,Kings Park,St Joan of Arc RA,No. 1,Grant Sandler,Luke Hart,Grant Sandler,7-5,7,5,1,0,Completed,true,false,false
+UA018093,29 Apr 12,9,Kings Park,St Joan of Arc RA,No. 2,Lionel Wang,Sam Davidson,Sam Davidson,2-6,2,6,0,1,Completed,true,false,false
+UA018093,29 Apr 12,9,Kings Park,St Joan of Arc RA,No. 3,Amy Esdaile,Charlie Moore,Charlie Moore,3-6,3,6,0,1,Completed,true,false,false
+UA018093,29 Apr 12,9,Kings Park,St Joan of Arc RA,No. 4,Sierra Danon,Emma Badge,Emma Badge,2-6,2,6,0,1,Completed,true,false,false
+UA018094,29 Apr 12,9,Mentone,Royal Ave 2,No. 1,Logithan Chandrakuma,Madeleine Lewis,Logithan Chandrakuma,6-1,6,1,1,0,Completed,true,false,false
+UA018094,29 Apr 12,9,Mentone,Royal Ave 2,No. 2,Pearl Darit,Kai Kurashige,Kai Kurashige,3-6,3,6,0,1,Completed,true,false,false
+UA018094,29 Apr 12,9,Mentone,Royal Ave 2,No. 3,Darragh Tate,Max Buntine,Max Buntine,5-7,5,7,0,1,Completed,true,false,false
+UA018094,29 Apr 12,9,Mentone,Royal Ave 2,No. 4,Joydeep Ghosh,Isabelle Coyne,Joydeep Ghosh,6-0,6,0,1,0,Completed,true,false,false
+UA018101,06 May 12,10,Royal Ave 2,Black Rock,No. 1,Madeleine Lewis,Edward Begley,Edward Begley,4-6,4,6,0,1,Completed,true,false,false
+UA018101,06 May 12,10,Royal Ave 2,Black Rock,No. 2,Kai Kurashige,Luc Dann,Kai Kurashige,6-4,6,4,1,0,Completed,true,false,false
+UA018101,06 May 12,10,Royal Ave 2,Black Rock,No. 3,Max Buntine,Shimya Imazawa,Shimya Imazawa,0-6,0,6,0,1,Completed,true,false,false
+UA018101,06 May 12,10,Royal Ave 2,Black Rock,No. 4,Isabelle Coyne,Thomas Dyer,Thomas Dyer,0-6,0,6,0,1,Completed,true,false,false
+UA018102,06 May 12,10,GPHC MLC,Royal Ave 1,No. 1,Jessica Brown,Noah Davis,Noah Davis,0-6,0,6,0,1,Completed,true,false,false
+UA018102,06 May 12,10,GPHC MLC,Royal Ave 1,No. 2,James Toohey,Ella Buffin,Ella Buffin,0-6,0,6,0,1,Completed,true,false,false
+UA018102,06 May 12,10,GPHC MLC,Royal Ave 1,No. 3,Lydia Beveridge,Nate Hollis,Nate Hollis,0-6,0,6,0,1,Completed,true,false,false
+UA018102,06 May 12,10,GPHC MLC,Royal Ave 1,No. 4,Lily Tarry-Smith,James Pilcher,James Pilcher,0-6,0,6,0,1,Completed,true,false,false
+UA018103,06 May 12,10,Tennis World,Kings Park,No. 1,Tegan Burns,Lionel Wang,Tegan Burns,6-2,6,2,1,0,Completed,true,false,false
+UA018103,06 May 12,10,Tennis World,Kings Park,No. 2,Nadia Dzaferovic,Amy Esdaile,Amy Esdaile,1-6,1,6,0,1,Completed,true,false,false
+UA018103,06 May 12,10,Tennis World,Kings Park,No. 3,Apeusita Vazirani,Neha Xavier,Apeusita Vazirani,6-3,6,3,1,0,Completed,true,false,false
+UA018103,06 May 12,10,Tennis World,Kings Park,No. 4,Joshua De Koster,Sierra Danon,Joshua De Koster,6-1,6,1,1,0,Completed,true,false,false
+UA018104,06 May 12,10,St Joan of Arc RA,Mentone,No. 1,Charlie Moore,Logithan Chandrakuma,Logithan Chandrakuma,1-6,1,6,0,1,Completed,true,false,false
+UA018104,06 May 12,10,St Joan of Arc RA,Mentone,No. 2,Harry Hood,Costa Comninacis,Harry Hood,6-0,6,0,1,0,Completed,true,false,false
+UA018104,06 May 12,10,St Joan of Arc RA,Mentone,No. 3,Emma Badge,Pearl Darit,Emma Badge,7-6,7,6,1,0,Completed,true,false,false
+UA018104,06 May 12,10,St Joan of Arc RA,Mentone,No. 4,Jack Wright,Darragh Tate,Jack Wright,6-0,6,0,1,0,Completed,true,false,false
+UA018121,20 May 12,12,Mentone,Kings Park,No. 1,Costa Comninacis,Grant Sandler,Grant Sandler,4-6,4,6,0,1,Completed,true,false,false
+UA018121,20 May 12,12,Mentone,Kings Park,No. 2,Pearl Darit,Amy Esdaile,Amy Esdaile,0-6,0,6,0,1,Completed,true,false,false
+UA018121,20 May 12,12,Mentone,Kings Park,No. 3,Darragh Tate,Neha Xavier,Neha Xavier,1-6,1,6,0,1,Completed,true,false,false
+UA018121,20 May 12,12,Mentone,Kings Park,No. 4,Joydeep Ghosh,Sierra Danon,Joydeep Ghosh,6-1,6,1,1,0,Completed,true,false,false
+UA018122,20 May 12,12,Royal Ave 2,GPHC MLC,No. 1,Madeleine Lewis,Ellen Kanellos,Madeleine Lewis,6-0,6,0,1,0,Completed,true,false,false
+UA018122,20 May 12,12,Royal Ave 2,GPHC MLC,No. 2,Kai Kurashige,James Toohey,Kai Kurashige,6-1,6,1,1,0,Completed,true,false,false
+UA018122,20 May 12,12,Royal Ave 2,GPHC MLC,No. 3,Maddie Roberts,Lily Tarry-Smith,Maddie Roberts,6-3,6,3,1,0,Completed,true,false,false
+UA018122,20 May 12,12,Royal Ave 2,GPHC MLC,No. 4,Isabelle Coyne,Charlie Dobrotwir,Charlie Dobrotwir,1-6,1,6,0,1,Completed,true,false,false
+UA018123,20 May 12,12,Tennis World,St Joan of Arc RA,No. 1,Emanuel Datario,Charlie Moore,Charlie Moore,1-6,1,6,0,1,Completed,true,false,false
+UA018123,20 May 12,12,Tennis World,St Joan of Arc RA,No. 2,Joshua De Koster,Ben Scanlon,Ben Scanlon,6-7,6,7,0,1,Completed,true,false,false
+UA018123,20 May 12,12,Tennis World,St Joan of Arc RA,No. 3,Isidora Garcia,Jack Wright,Jack Wright,0-6,0,6,0,1,Completed,true,false,false
+UA018123,20 May 12,12,Tennis World,St Joan of Arc RA,No. 4,Bridgette Glibiota,Emma Badge,Emma Badge,0-6,0,6,0,1,Completed,true,false,false
+UA018124,20 May 12,12,Royal Ave 1,Black Rock,No. 1,James Norbury,Edward Begley,Edward Begley,2-6,2,6,0,1,Completed,true,false,false
+UA018124,20 May 12,12,Royal Ave 1,Black Rock,No. 2,Ella Buffin,Luc Dann,Ella Buffin,6-2,6,2,1,0,Completed,true,false,false
+UA018124,20 May 12,12,Royal Ave 1,Black Rock,No. 3,Michael Jiang,Shimya Imazawa,Shimya Imazawa,1-6,1,6,0,1,Completed,true,false,false
+UA018124,20 May 12,12,Royal Ave 1,Black Rock,No. 4,James Pilcher,Thomas Dyer,Thomas Dyer,1-6,1,6,0,1,Completed,true,false,false
+UA018131,27 May 12,13,Kings Park,Royal Ave 1,No. 1,Grant Sandler,Noah Davis,Grant Sandler,6-2,6,2,1,0,Completed,true,false,false
+UA018131,27 May 12,13,Kings Park,Royal Ave 1,No. 2,Lionel Wang,Michael Jiang,Lionel Wang,6-1,6,1,1,0,Completed,true,false,false
+UA018131,27 May 12,13,Kings Park,Royal Ave 1,No. 3,Amy Esdaile,Nate Hollis,Amy Esdaile,6-0,6,0,1,0,Completed,true,false,false
+UA018131,27 May 12,13,Kings Park,Royal Ave 1,No. 4,Sierra Danon,James Pilcher,James Pilcher,3-6,3,6,0,1,Completed,true,false,false
+UA018132,27 May 12,13,Black Rock,Mentone,No. 1,Edward Begley,Logithan Chandrakuma,Logithan Chandrakuma,2-6,2,6,0,1,Completed,true,false,false
+UA018132,27 May 12,13,Black Rock,Mentone,No. 2,Luc Dann,Costa Comninacis,Luc Dann,6-1,6,1,1,0,Completed,true,false,false
+UA018132,27 May 12,13,Black Rock,Mentone,No. 3,Shimya Imazawa,Pearl Darit,Shimya Imazawa,6-2,6,2,1,0,Completed,true,false,false
+UA018132,27 May 12,13,Black Rock,Mentone,No. 4,Thomas Dyer,Darragh Tate,Thomas Dyer,6-0,6,0,1,0,Completed,true,false,false
+UA018134,27 May 12,13,GPHC MLC,Tennis World,No. 1,Ellen Kanellos,Emanuel Datario,Emanuel Datario,2-6,2,6,0,1,Completed,true,false,false
+UA018134,27 May 12,13,GPHC MLC,Tennis World,No. 2,James Toohey,Tegan Burns,Tegan Burns,0-6,0,6,0,1,Completed,true,false,false
+UA018134,27 May 12,13,GPHC MLC,Tennis World,No. 3,Lily Tarry-Smith,Isidora Garcia,Isidora Garcia,3-6,3,6,0,1,Completed,true,false,false
+UA018134,27 May 12,13,GPHC MLC,Tennis World,No. 4,Charlie Dobrotwir,Nadia Dzaferovic,Charlie Dobrotwir,6-4,6,4,1,0,Completed,true,false,false
+UA018141,03 Jun 12,14,Kings Park,Black Rock,No. 1,Grant Sandler,Edward Begley,Grant Sandler,6-3,6,3,1,0,Completed,true,false,false
+UA018141,03 Jun 12,14,Kings Park,Black Rock,No. 2,Lionel Wang,Luc Dann,Luc Dann,3-6,3,6,0,1,Completed,true,false,false
+UA018141,03 Jun 12,14,Kings Park,Black Rock,No. 3,Amy Esdaile,Shimya Imazawa,Amy Esdaile,6-1,6,1,1,0,Completed,true,false,false
+UA018141,03 Jun 12,14,Kings Park,Black Rock,No. 4,Sierra Danon,Thomas Dyer,Thomas Dyer,1-6,1,6,0,1,Completed,true,false,false
+UA018142,03 Jun 12,14,Mentone,Royal Ave 1,No. 1,Logithan Chandrakuma,Noah Davis,Logithan Chandrakuma,6-4,6,4,1,0,Completed,true,false,false
+UA018142,03 Jun 12,14,Mentone,Royal Ave 1,No. 2,Costa Comninacis,James Norbury,James Norbury,6-7,6,7,0,1,Completed,true,false,false
+UA018143,03 Jun 12,14,St Joan of Arc RA,GPHC MLC,No. 1,Luke Hart,James Toohey,Luke Hart,6-2,6,2,1,0,Completed,true,false,false
+UA018143,03 Jun 12,14,St Joan of Arc RA,GPHC MLC,No. 2,Sam Davidson,Lydia Beveridge,Lydia Beveridge,0-6,0,6,0,1,Completed,true,false,false
+UA018143,03 Jun 12,14,St Joan of Arc RA,GPHC MLC,No. 3,Ben Scanlon,Lily Tarry-Smith,Ben Scanlon,6-3,6,3,1,0,Completed,true,false,false
+UA018143,03 Jun 12,14,St Joan of Arc RA,GPHC MLC,No. 4,Jack Wright,Charlie Dobrotwir,Jack Wright,6-0,6,0,1,0,Completed,true,false,false
+UA018144,03 Jun 12,14,Tennis World,Royal Ave 2,No. 1,Emanuel Datario,Sydney Buntine,Emanuel Datario,1-0,1,0,1,0,Completed,false,false,false
+UA018144,03 Jun 12,14,Tennis World,Royal Ave 2,No. 2,Tegan Burns,Max Buntine,Tegan Burns,6-0,6,0,1,0,Completed,true,false,false
+UA018144,03 Jun 12,14,Tennis World,Royal Ave 2,No. 3,Apeusita Vazirani,Isabelle Coyne,Apeusita Vazirani,6-3,6,3,1,0,Completed,true,false,false
+UA018144,03 Jun 12,14,Tennis World,Royal Ave 2,No. 4,Nadia Dzaferovic,Maddie Roberts,Nadia Dzaferovic,7-5,7,5,1,0,Completed,true,false,false
+UA018301,,16,St Joan of Arc RA,Tennis World,No. 1,Luke Hart,Tegan Burns,Tegan Burns,5-7,5,7,0,1,Completed,true,false,false
+UA018301,,16,St Joan of Arc RA,Tennis World,No. 2,Sam Davidson,Emanuel Datario,Sam Davidson,6-0,6,0,1,0,Completed,true,false,false
+UA018301,,16,St Joan of Arc RA,Tennis World,No. 3,Charlie Moore,Nadia Dzaferovic,Charlie Moore,6-1,6,1,1,0,Completed,true,false,false
+UA018301,,16,St Joan of Arc RA,Tennis World,No. 4,Ben Scanlon,Isidora Garcia,Ben Scanlon,6-0,6,0,1,0,Completed,true,false,false
+UA018302,,16,Black Rock,Mentone,No. 1,Edward Begley,Logithan Chandrakuma,Logithan Chandrakuma,0-6,0,6,0,1,Completed,true,false,false
+UA018302,,16,Black Rock,Mentone,No. 2,Luc Dann,Costa Comninacis,Luc Dann,6-3,6,3,1,0,Completed,true,false,false
+UA018302,,16,Black Rock,Mentone,No. 3,Shimya Imazawa,Pearl Darit,Shimya Imazawa,7-6,7,6,1,0,Completed,true,false,false
+UA018302,,16,Black Rock,Mentone,No. 4,Thomas Dyer,Joydeep Ghosh,Joydeep Ghosh,0-6,0,6,0,1,Completed,true,false,false
+UA018321,,17,St Joan of Arc RA,Black Rock,No. 1,Luke Hart,Edward Begley,Luke Hart,6-4,6,4,1,0,Completed,true,false,false
+UA018321,,17,St Joan of Arc RA,Black Rock,No. 2,Sam Davidson,Luc Dann,Sam Davidson,7-5,7,5,1,0,Completed,true,false,false
+UA018321,,17,St Joan of Arc RA,Black Rock,No. 3,Charlie Moore,Shimya Imazawa,Shimya Imazawa,1-6,1,6,0,1,Completed,true,false,false
+UA018321,,17,St Joan of Arc RA,Black Rock,No. 4,Jack Wright,Thomas Dyer,Jack Wright,6-0,6,0,1,0,Completed,true,true,false

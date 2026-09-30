@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA19-UA009",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2016",
+  "season_id": "UA19",
+  "season_label": "Spring 2016",
+  "source_section_code": "UA009",
+  "section_label": "Section 9",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Andrews MB RA",
+      "wins": 12,
+      "points": 120,
+      "percentage": 223.7,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Dendy Park",
+      "wins": 9,
+      "points": 91,
+      "percentage": 122.62,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Aspendale",
+      "wins": 7,
+      "points": 86,
+      "percentage": 122.95,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Tennis World",
+      "wins": 8,
+      "points": 83,
+      "percentage": 100.32,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Kooyong Scotch",
+      "wins": 4,
+      "points": 64,
+      "percentage": 98.7,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC",
+      "wins": 5,
+      "points": 63,
+      "percentage": 105.96,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 34,
+      "percentage": 57.03,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "BLTC",
+      "wins": 1,
+      "points": 19,
+      "percentage": 43.1,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA19-UA009",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 59,
+  "singles_rubbers": 208,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

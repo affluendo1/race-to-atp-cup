@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA36-UA013",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2025",
+  "season_id": "UA36",
+  "season_label": "Autumn 2025",
+  "source_section_code": "UA013",
+  "section_label": "Section 13",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Joan of Arc",
+      "wins": 8,
+      "points": 77.5,
+      "percentage": 120.97,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Royal South Yarra",
+      "wins": 6,
+      "points": 65,
+      "percentage": 104.32,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Coatesville",
+      "wins": 6,
+      "points": 63,
+      "percentage": 108.68,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Kings Park Red",
+      "wins": 5,
+      "points": 61.5,
+      "percentage": 101.47,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC",
+      "wins": 4,
+      "points": 55,
+      "percentage": 88.21,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Le Page",
+      "wins": 4,
+      "points": 54,
+      "percentage": 98.62,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Sth Murrumbeena",
+      "wins": 2,
+      "points": 44,
+      "percentage": 79.17,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA36-UA013",
+  "fixtures": 59,
+  "completed_fixtures": 41,
+  "draw_fixtures": 59,
+  "singles_rubbers": 160,
+  "doubles_rubbers": 82,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

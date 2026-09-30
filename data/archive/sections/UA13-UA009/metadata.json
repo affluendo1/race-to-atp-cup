@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA13-UA009",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2013",
+  "season_id": "UA13",
+  "season_label": "Spring 2013",
+  "source_section_code": "UA009",
+  "section_label": "Section 9",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Mordialloc 1",
+      "wins": 13,
+      "points": 118.5,
+      "percentage": 170.36,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Mordialloc 2",
+      "wins": 8,
+      "points": 93,
+      "percentage": 148.85,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Coatesville",
+      "wins": 8,
+      "points": 91,
+      "percentage": 126.43,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Royal Ave",
+      "wins": 6,
+      "points": 67,
+      "percentage": 101.37,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong St Kevin's",
+      "wins": 7,
+      "points": 64,
+      "percentage": 96.59,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong Scotch",
+      "wins": 6,
+      "points": 64,
+      "percentage": 91.87,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 2,
+      "points": 50.5,
+      "percentage": 83.66,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Caulfield Rec",
+      "wins": 0,
+      "points": 12,
+      "percentage": 37.55,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA13-UA009",
+  "fixtures": 59,
+  "completed_fixtures": 56,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 112,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

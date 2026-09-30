@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA21-UA012",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2017",
+  "season_id": "UA21",
+  "season_label": "Spring 2017",
+  "source_section_code": "UA012",
+  "section_label": "Section 12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Andrews MB BG",
+      "wins": 10,
+      "points": 95,
+      "percentage": 168.69,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Aspendale",
+      "wins": 6,
+      "points": 68,
+      "percentage": 116.0,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Caulfield Rec",
+      "wins": 6,
+      "points": 64,
+      "percentage": 102.17,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Carmelite",
+      "wins": 5,
+      "points": 54,
+      "percentage": 97.2,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Glen Eira",
+      "wins": 5,
+      "points": 54,
+      "percentage": 92.58,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Tennis World",
+      "wins": 3,
+      "points": 44,
+      "percentage": 75.09,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Elsternwick Park",
+      "wins": 3,
+      "points": 41,
+      "percentage": 76.59,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA21-UA012",
+  "fixtures": 59,
+  "completed_fixtures": 42,
+  "draw_fixtures": 45,
+  "singles_rubbers": 168,
+  "doubles_rubbers": 84,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,77 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA002011,02 Feb 20,1,GPHC,BLTC 1,No. 1,Thomas Auld,Hayden Heng,Thomas Auld,7-5,7,5,1,0,Completed,true,false,false
+UA002011,02 Feb 20,1,GPHC,BLTC 1,No. 2,Henry Stewart,Olivia Moir,Olivia Moir,5-7,5,7,0,1,Completed,true,false,false
+UA002011,02 Feb 20,1,GPHC,BLTC 1,No. 3,Lucas Holly,Sophie Christie,Sophie Christie,0-6,0,6,0,1,Completed,true,true,false
+UA002011,02 Feb 20,1,GPHC,BLTC 1,No. 4,Hamish Beadle,Nathaniel Hall,Nathaniel Hall,4-6,4,6,0,1,Completed,true,false,false
+UA002012,02 Feb 20,1,BLTC 2,Kooyong,No. 1,Patrick Millar,Aidan Gall,Patrick Millar,6-1,6,1,1,0,Completed,true,false,false
+UA002012,02 Feb 20,1,BLTC 2,Kooyong,No. 2,Jamie Turner,Koroush Raissi,Koroush Raissi,0-6,0,6,0,1,Completed,true,false,false
+UA002012,02 Feb 20,1,BLTC 2,Kooyong,No. 3,Adam Livermore,Tom Handbury,Adam Livermore,6-4,6,4,1,0,Completed,true,false,false
+UA002012,02 Feb 20,1,BLTC 2,Kooyong,No. 4,Will Vucic,Annaliese Ash-Grimm,Will Vucic,6-0,6,0,1,0,Completed,true,false,false
+UA002013,02 Feb 20,1,Centenary Park,Dendy Park,No. 1,Josh Baldsing,Lachlan Tindall,Lachlan Tindall,2-6,2,6,0,1,Completed,true,true,false
+UA002013,02 Feb 20,1,Centenary Park,Dendy Park,No. 2,Mason Le,Max Buntine,Max Buntine,2-6,2,6,0,1,Completed,true,false,false
+UA002013,02 Feb 20,1,Centenary Park,Dendy Park,No. 3,Sean Cahill,Korben Brough,Korben Brough,6-7,6,7,0,1,Completed,true,true,false
+UA002013,02 Feb 20,1,Centenary Park,Dendy Park,No. 4,Devon Le,Jackson Mullaly,Jackson Mullaly,4-6,4,6,0,1,Completed,true,true,false
+UA002014,02 Feb 20,1,Coatesville,Elsternwick Park,No. 1,Bayden Hill,Raphael Schwalb,Bayden Hill,6-1,6,1,1,0,Completed,true,false,false
+UA002014,02 Feb 20,1,Coatesville,Elsternwick Park,No. 2,Daniel Gershenzen,Gil Kras,Daniel Gershenzen,6-0,6,0,1,0,Completed,true,false,false
+UA002014,02 Feb 20,1,Coatesville,Elsternwick Park,No. 3,Christian Locantro,Nicole Bennett,Nicole Bennett,1-6,1,6,0,1,Completed,true,false,false
+UA002014,02 Feb 20,1,Coatesville,Elsternwick Park,No. 4,Sam Basman,Joe Barr,Sam Basman,6-4,6,4,1,0,Completed,true,false,false
+UA002021,09 Feb 20,2,Elsternwick Park,GPHC,No. 1,Raphael Schwalb,Thomas Auld,Raphael Schwalb,6-1,6,1,1,0,Completed,true,false,false
+UA002021,09 Feb 20,2,Elsternwick Park,GPHC,No. 2,Gil Kras,Nelson Beadle,Gil Kras,6-1,6,1,1,0,Completed,true,false,false
+UA002021,09 Feb 20,2,Elsternwick Park,GPHC,No. 3,Nicole Bennett,Henry Stewart,Nicole Bennett,6-3,6,3,1,0,Completed,true,false,false
+UA002021,09 Feb 20,2,Elsternwick Park,GPHC,No. 4,Joe Barr,Hamish Beadle,Hamish Beadle,0-6,0,6,0,1,Completed,true,false,false
+UA002022,09 Feb 20,2,BLTC 1,BLTC 2,No. 1,Hayden Heng,Jamie Turner,Hayden Heng,6-1,6,1,1,0,Completed,true,false,false
+UA002022,09 Feb 20,2,BLTC 1,BLTC 2,No. 2,Olivia Moir,Xavier Carter,Olivia Moir,6-0,6,0,1,0,Completed,true,false,false
+UA002022,09 Feb 20,2,BLTC 1,BLTC 2,No. 3,Sophie Christie,Adam Livermore,Adam Livermore,5-7,5,7,0,1,Completed,true,false,false
+UA002022,09 Feb 20,2,BLTC 1,BLTC 2,No. 4,Lachlan Christie,Will Vucic,Will Vucic,3-6,3,6,0,1,Completed,true,false,false
+UA002024,09 Feb 20,2,Dendy Park,Coatesville,No. 1,Lachlan Tindall,Bayden Hill,Lachlan Tindall,6-3,6,3,1,0,Completed,true,false,false
+UA002024,09 Feb 20,2,Dendy Park,Coatesville,No. 2,Max Buntine,Daniel Gershenzen,Daniel Gershenzen,2-6,2,6,0,1,Completed,true,false,false
+UA002024,09 Feb 20,2,Dendy Park,Coatesville,No. 3,Korben Brough,Christian Locantro,Korben Brough,7-5,7,5,1,0,Completed,true,false,false
+UA002024,09 Feb 20,2,Dendy Park,Coatesville,No. 4,Cameron Acheson,Sam Basman,Cameron Acheson,7-5,7,5,1,0,Completed,true,false,false
+UA002031,16 Feb 20,3,GPHC,Dendy Park,No. 1,Will Derbyshire,Lachlan Tindall,Lachlan Tindall,5-7,5,7,0,1,Completed,true,false,false
+UA002031,16 Feb 20,3,GPHC,Dendy Park,No. 2,Henry Stewart,Max Buntine,Max Buntine,3-6,3,6,0,1,Completed,true,false,false
+UA002031,16 Feb 20,3,GPHC,Dendy Park,No. 3,Lucas Holly,Korben Brough,Lucas Holly,7-6,7,6,1,0,Completed,true,true,false
+UA002031,16 Feb 20,3,GPHC,Dendy Park,No. 4,Hamish Beadle,Cameron Acheson,Cameron Acheson,5-7,5,7,0,1,Completed,true,false,false
+UA002032,16 Feb 20,3,BLTC 2,Elsternwick Park,No. 1,Patrick Millar,Raphael Schwalb,Patrick Millar,6-1,6,1,1,0,Completed,true,false,false
+UA002032,16 Feb 20,3,BLTC 2,Elsternwick Park,No. 2,Jamie Turner,Lachie Zuker,Lachie Zuker,1-6,1,6,0,1,Completed,true,false,false
+UA002032,16 Feb 20,3,BLTC 2,Elsternwick Park,No. 3,Xavier Carter,Nicole Bennett,Nicole Bennett,1-6,1,6,0,1,Completed,true,false,false
+UA002032,16 Feb 20,3,BLTC 2,Elsternwick Park,No. 4,Adam Livermore,Joe Barr,Adam Livermore,6-4,6,4,1,0,Completed,true,false,false
+UA002033,16 Feb 20,3,Centenary Park,BLTC 1,No. 1,Josh Baldsing,Hayden Heng,Josh Baldsing,6-4,6,4,1,0,Completed,true,true,false
+UA002033,16 Feb 20,3,Centenary Park,BLTC 1,No. 2,Aidan Cahill,Olivia Moir,Olivia Moir,0-6,0,6,0,1,Completed,true,true,false
+UA002033,16 Feb 20,3,Centenary Park,BLTC 1,No. 3,Mason Le,Sophie Christie,Sophie Christie,3-6,3,6,0,1,Completed,true,false,false
+UA002033,16 Feb 20,3,Centenary Park,BLTC 1,No. 4,Devon Le,Nathaniel Hall,Nathaniel Hall,2-6,2,6,0,1,Completed,true,true,false
+UA002034,16 Feb 20,3,Coatesville,Kooyong,No. 1,Bayden Hill,Carrie Shi,Bayden Hill,6-0,6,0,1,0,Completed,true,false,false
+UA002034,16 Feb 20,3,Coatesville,Kooyong,No. 2,Daniel Gershenzen,Tom Handbury,Daniel Gershenzen,6-1,6,1,1,0,Completed,true,false,false
+UA002034,16 Feb 20,3,Coatesville,Kooyong,No. 3,Christian Locantro,Jack Saville,Jack Saville,3-6,3,6,0,1,Completed,true,false,false
+UA002034,16 Feb 20,3,Coatesville,Kooyong,No. 4,Sam Basman,Lewis Vanderzalm,Sam Basman,6-0,6,0,1,0,Completed,true,false,false
+UA002041,23 Feb 20,4,Kooyong,GPHC,No. 1,Koroush Raissi,Will Derbyshire,Koroush Raissi,6-3,6,3,1,0,Completed,true,false,false
+UA002041,23 Feb 20,4,Kooyong,GPHC,No. 2,Tom Handbury,Thomas Auld,Thomas Auld,4-6,4,6,0,1,Completed,true,false,false
+UA002041,23 Feb 20,4,Kooyong,GPHC,No. 3,Jack Saville,Henry Stewart,Henry Stewart,4-6,4,6,0,1,Completed,true,false,false
+UA002041,23 Feb 20,4,Kooyong,GPHC,No. 4,Annaliese Ash-Grimm,Hamish Beadle,Hamish Beadle,2-6,2,6,0,1,Completed,true,false,false
+UA002042,23 Feb 20,4,Dendy Park,BLTC 2,No. 1,Max Buntine,Patrick Millar,Patrick Millar,1-6,1,6,0,1,Completed,true,false,false
+UA002042,23 Feb 20,4,Dendy Park,BLTC 2,No. 2,Korben Brough,Xavier Carter,Korben Brough,6-2,6,2,1,0,Completed,true,false,false
+UA002042,23 Feb 20,4,Dendy Park,BLTC 2,No. 3,Cameron Acheson,Adam Livermore,Adam Livermore,0-6,0,6,0,1,Completed,true,false,false
+UA002042,23 Feb 20,4,Dendy Park,BLTC 2,No. 4,Jackson Mullaly,Will Vucic,Jackson Mullaly,6-3,6,3,1,0,Completed,true,false,false
+UA002043,23 Feb 20,4,Elsternwick Park,Centenary Park,No. 1,Lachie Zuker,Prisha Baliga,Prisha Baliga,4-6,4,6,0,1,Completed,true,false,false
+UA002043,23 Feb 20,4,Elsternwick Park,Centenary Park,No. 2,Raphael Schwalb,Josh Baldsing,Raphael Schwalb,6-3,6,3,1,0,Completed,true,false,true
+UA002043,23 Feb 20,4,Elsternwick Park,Centenary Park,No. 3,Nicole Bennett,Sean Cahill,Nicole Bennett,6-2,6,2,1,0,Completed,true,false,true
+UA002043,23 Feb 20,4,Elsternwick Park,Centenary Park,No. 4,Gil Kras,Mason Le,Gil Kras,6-1,6,1,1,0,Completed,true,false,false
+UA002044,23 Feb 20,4,BLTC 1,Coatesville,No. 1,Hayden Heng,Bayden Hill,Hayden Heng,6-2,6,2,1,0,Completed,true,false,false
+UA002044,23 Feb 20,4,BLTC 1,Coatesville,No. 2,Olivia Moir,Daniel Gershenzen,Olivia Moir,6-4,6,4,1,0,Completed,true,false,false
+UA002044,23 Feb 20,4,BLTC 1,Coatesville,No. 3,Nathaniel Hall,Christian Locantro,Nathaniel Hall,6-4,6,4,1,0,Completed,true,false,false
+UA002044,23 Feb 20,4,BLTC 1,Coatesville,No. 4,Lachlan Christie,Sam Basman,Sam Basman,1-6,1,6,0,1,Completed,true,false,false
+UA002051,01 Mar 20,5,Centenary Park,Coatesville,No. 1,Josh Baldsing,Bayden Hill,Josh Baldsing,6-2,6,2,1,0,Completed,true,true,false
+UA002051,01 Mar 20,5,Centenary Park,Coatesville,No. 2,Aidan Cahill,Daniel Gershenzen,Daniel Gershenzen,1-6,1,6,0,1,Completed,true,true,false
+UA002051,01 Mar 20,5,Centenary Park,Coatesville,No. 3,Sean Cahill,Christian Locantro,Christian Locantro,4-6,4,6,0,1,Completed,true,true,false
+UA002051,01 Mar 20,5,Centenary Park,Coatesville,No. 4,Mason Le,Sam Basman,Sam Basman,1-6,1,6,0,1,Completed,true,false,false
+UA002052,01 Mar 20,5,Elsternwick Park,Dendy Park,No. 1,Lachie Zuker,Lachlan Tindall,Lachlan Tindall,2-6,2,6,0,1,Completed,true,false,false
+UA002052,01 Mar 20,5,Elsternwick Park,Dendy Park,No. 2,Nicole Bennett,Korben Brough,Korben Brough,2-6,2,6,0,1,Completed,true,false,false
+UA002052,01 Mar 20,5,Elsternwick Park,Dendy Park,No. 3,Gil Kras,Cameron Acheson,Cameron Acheson,2-6,2,6,0,1,Completed,true,false,false
+UA002052,01 Mar 20,5,Elsternwick Park,Dendy Park,No. 4,Joe Barr,Jackson Mullaly,Jackson Mullaly,0-6,0,6,0,1,Completed,true,false,false
+UA002053,01 Mar 20,5,Kooyong,BLTC 1,No. 1,Carrie Shi,Hayden Heng,Hayden Heng,2-6,2,6,0,1,Completed,true,false,false
+UA002053,01 Mar 20,5,Kooyong,BLTC 1,No. 2,Tom Handbury,Sophie Christie,Sophie Christie,4-6,4,6,0,1,Completed,true,false,false
+UA002053,01 Mar 20,5,Kooyong,BLTC 1,No. 3,Lewis Vanderzalm,Nathaniel Hall,Nathaniel Hall,2-6,2,6,0,1,Completed,true,false,false
+UA002053,01 Mar 20,5,Kooyong,BLTC 1,No. 4,Annaliese Ash-Grimm,Lachlan Christie,Lachlan Christie,2-6,2,6,0,1,Completed,true,false,false
+UA002054,01 Mar 20,5,GPHC,BLTC 2,No. 1,Will Derbyshire,Patrick Millar,Patrick Millar,4-6,4,6,0,1,Completed,true,false,false
+UA002054,01 Mar 20,5,GPHC,BLTC 2,No. 2,Thomas Auld,Jamie Turner,Thomas Auld,6-3,6,3,1,0,Completed,true,false,false
+UA002054,01 Mar 20,5,GPHC,BLTC 2,No. 3,Lucas Holly,Xavier Carter,Lucas Holly,7-5,7,5,1,0,Completed,true,true,false
+UA002054,01 Mar 20,5,GPHC,BLTC 2,No. 4,Alex Crouch,Will Vucic,Will Vucic,0-6,0,6,0,1,Completed,true,true,false

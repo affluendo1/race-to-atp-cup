@@ -1,0 +1,217 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA015011,06 Feb 22,1,BLTC 1,BLTC 2,No. 1,Sophie Turner,Andrew McIntyre,Sophie Turner,6-0,6,0,1,0,Completed,true,false,false
+UA015011,06 Feb 22,1,BLTC 1,BLTC 2,No. 2,Matvey Roche,Noah Anderson,Matvey Roche,6-2,6,2,1,0,Completed,true,false,false
+UA015011,06 Feb 22,1,BLTC 1,BLTC 2,No. 3,Harry Bennett,Jimmy Rushton,Harry Bennett,6-4,6,4,1,0,Completed,true,false,false
+UA015011,06 Feb 22,1,BLTC 1,BLTC 2,No. 4,Finn Gehde,Ryder Anderson,Finn Gehde,6-0,6,0,1,0,Completed,true,false,false
+UA015012,06 Feb 22,1,Dendy Park 1,Dendy Park 2,No. 1,Jeremy Gu,Toby Hansen,Toby Hansen,2-6,2,6,0,1,Completed,true,false,false
+UA015012,06 Feb 22,1,Dendy Park 1,Dendy Park 2,No. 2,James Kim,Harvey Stroeder,Harvey Stroeder,4-6,4,6,0,1,Completed,true,false,false
+UA015012,06 Feb 22,1,Dendy Park 1,Dendy Park 2,No. 3,Mason Ma,Ben Vodilsoki,Mason Ma,6-2,6,2,1,0,Completed,true,false,false
+UA015012,06 Feb 22,1,Dendy Park 1,Dendy Park 2,No. 4,Sean Stolyarov,Miller Bennett,Sean Stolyarov,6-0,6,0,1,0,Completed,true,false,false
+UA015013,06 Feb 22,1,Elsternwick Park,Glen Eira,No. 1,Marco Damiani,Oskar Williams,Oskar Williams,4-6,4,6,0,1,Completed,true,false,false
+UA015013,06 Feb 22,1,Elsternwick Park,Glen Eira,No. 2,Hanbo Zhang,Ayaka Marutani,Ayaka Marutani,1-6,1,6,0,1,Completed,true,false,false
+UA015013,06 Feb 22,1,Elsternwick Park,Glen Eira,No. 3,James Behr,Toby Shmuel,Toby Shmuel,1-6,1,6,0,1,Completed,true,false,false
+UA015013,06 Feb 22,1,Elsternwick Park,Glen Eira,No. 4,Noa Preston,Mia Milner,Mia Milner,1-6,1,6,0,1,Completed,true,false,false
+UA015014,06 Feb 22,1,Carmelite Red,Carmelite Blue,No. 1,Marius Gozdzicki,[Unnamed player — TROLS UA015014 away code 1],Marius Gozdzicki,6-0,6,0,1,0,Completed,false,false,false
+UA015014,06 Feb 22,1,Carmelite Red,Carmelite Blue,No. 2,Talia Kiprillis,Hugho Schulz,Hugho Schulz,3-6,3,6,0,1,Completed,true,false,false
+UA015014,06 Feb 22,1,Carmelite Red,Carmelite Blue,No. 3,Cooper Griggs,Sam Faso,Cooper Griggs,6-3,6,3,1,0,Completed,true,false,false
+UA015014,06 Feb 22,1,Carmelite Red,Carmelite Blue,No. 4,Lewis Grant,Nathan Kitzis,Nathan Kitzis,6-7,6,7,0,1,Completed,true,false,false
+UA015021,13 Feb 22,2,Carmelite Blue,BLTC 1,No. 1,Hugho Schulz,Sophie Turner,Sophie Turner,3-6,3,6,0,1,Completed,true,false,false
+UA015021,13 Feb 22,2,Carmelite Blue,BLTC 1,No. 2,Sam Faso,Matvey Roche,Matvey Roche,1-6,1,6,0,1,Completed,true,false,false
+UA015021,13 Feb 22,2,Carmelite Blue,BLTC 1,No. 3,Oliver Earle,Hayley Taylor,Oliver Earle,7-5,7,5,1,0,Completed,true,false,false
+UA015021,13 Feb 22,2,Carmelite Blue,BLTC 1,No. 4,Nathan Kitzis,Finn Gehde,Finn Gehde,4-6,4,6,0,1,Completed,true,false,false
+UA015022,13 Feb 22,2,BLTC 2,Dendy Park 1,No. 1,Andrew McIntyre,Madison Luu,Madison Luu,0-6,0,6,0,1,Completed,true,false,false
+UA015022,13 Feb 22,2,BLTC 2,Dendy Park 1,No. 2,Noah Anderson,Mason Ma,Noah Anderson,6-3,6,3,1,0,Completed,true,false,false
+UA015022,13 Feb 22,2,BLTC 2,Dendy Park 1,No. 3,Jimmy Rushton,Jeremy Gu,Jeremy Gu,5-7,5,7,0,1,Completed,true,false,false
+UA015022,13 Feb 22,2,BLTC 2,Dendy Park 1,No. 4,Ryder Anderson,James Kim,James Kim,0-6,0,6,0,1,Completed,true,false,false
+UA015023,13 Feb 22,2,Dendy Park 2,Elsternwick Park,No. 1,Emir Zmak,Hanbo Zhang,Emir Zmak,6-2,6,2,1,0,Completed,true,false,false
+UA015023,13 Feb 22,2,Dendy Park 2,Elsternwick Park,No. 2,Harvey Stroeder,Claude Howard,Harvey Stroeder,6-1,6,1,1,0,Completed,true,false,false
+UA015023,13 Feb 22,2,Dendy Park 2,Elsternwick Park,No. 3,Ben Vodilsoki,James Behr,Ben Vodilsoki,6-2,6,2,1,0,Completed,true,false,false
+UA015023,13 Feb 22,2,Dendy Park 2,Elsternwick Park,No. 4,Alexia Frank,Noa Preston,Alexia Frank,6-0,6,0,1,0,Completed,true,true,false
+UA015024,13 Feb 22,2,Glen Eira,Carmelite Red,No. 1,Oskar Williams,Marius Gozdzicki,Marius Gozdzicki,6-7,6,7,0,1,Completed,true,false,false
+UA015024,13 Feb 22,2,Glen Eira,Carmelite Red,No. 2,Ayaka Marutani,Talia Kiprillis,Ayaka Marutani,6-1,6,1,1,0,Completed,true,false,false
+UA015024,13 Feb 22,2,Glen Eira,Carmelite Red,No. 3,Will Bird,Cooper Griggs,Cooper Griggs,0-6,0,6,0,1,Completed,true,true,false
+UA015024,13 Feb 22,2,Glen Eira,Carmelite Red,No. 4,Camille Demathieu,Lewis Grant,Camille Demathieu,6-0,6,0,1,0,Completed,true,false,false
+UA015031,20 Feb 22,3,BLTC 1,Glen Eira,No. 1,Matvey Roche,Oskar Williams,Matvey Roche,7-6,7,6,1,0,Completed,true,false,false
+UA015031,20 Feb 22,3,BLTC 1,Glen Eira,No. 2,Hayley Taylor,Mia Milner,Hayley Taylor,6-2,6,2,1,0,Completed,true,false,false
+UA015031,20 Feb 22,3,BLTC 1,Glen Eira,No. 3,Harry Bennett,Mika Mihalovski,Harry Bennett,6-2,6,2,1,0,Completed,true,false,false
+UA015031,20 Feb 22,3,BLTC 1,Glen Eira,No. 4,Finn Gehde,Camille Demathieu,Camille Demathieu,0-6,0,6,0,1,Completed,true,false,false
+UA015032,20 Feb 22,3,Dendy Park 1,Carmelite Blue,No. 1,Madison Luu,Kobe Davis Earle,Madison Luu,6-3,6,3,1,0,Completed,true,false,false
+UA015032,20 Feb 22,3,Dendy Park 1,Carmelite Blue,No. 2,Michaela Maddams,Oliver Earle,Michaela Maddams,6-3,6,3,1,0,Completed,true,true,false
+UA015032,20 Feb 22,3,Dendy Park 1,Carmelite Blue,No. 3,Mason Ma,Sam Faso,Mason Ma,6-0,6,0,1,0,Completed,true,false,false
+UA015032,20 Feb 22,3,Dendy Park 1,Carmelite Blue,No. 4,Jeremy Gu,Nathan Kitzis,Jeremy Gu,6-2,6,2,1,0,Completed,true,false,false
+UA015033,20 Feb 22,3,Elsternwick Park,BLTC 2,No. 1,Marco Damiani,Andrew McIntyre,Marco Damiani,6-2,6,2,1,0,Completed,true,false,false
+UA015033,20 Feb 22,3,Elsternwick Park,BLTC 2,No. 2,Hanbo Zhang,Noah Anderson,Hanbo Zhang,6-0,6,0,1,0,Completed,true,false,false
+UA015033,20 Feb 22,3,Elsternwick Park,BLTC 2,No. 3,Claude Howard,Zane Rushton,Claude Howard,6-1,6,1,1,0,Completed,true,false,false
+UA015033,20 Feb 22,3,Elsternwick Park,BLTC 2,No. 4,Noa Preston,Jimmy Rushton,Jimmy Rushton,1-6,1,6,0,1,Completed,true,false,false
+UA015034,20 Feb 22,3,Carmelite Red,Dendy Park 2,No. 1,Marius Gozdzicki,Toby Hansen,Marius Gozdzicki,7-6,7,6,1,0,Completed,true,false,false
+UA015034,20 Feb 22,3,Carmelite Red,Dendy Park 2,No. 2,Cooper Griggs,Harvey Stroeder,Harvey Stroeder,3-6,3,6,0,1,Completed,true,false,false
+UA015034,20 Feb 22,3,Carmelite Red,Dendy Park 2,No. 3,Hamish Bramich,Miller Bennett,Hamish Bramich,6-2,6,2,1,0,Completed,true,false,false
+UA015034,20 Feb 22,3,Carmelite Red,Dendy Park 2,No. 4,Lewis Grant,Ben Vodilsoki,Lewis Grant,6-0,6,0,1,0,Completed,true,false,false
+UA015041,27 Feb 22,4,Dendy Park 2,BLTC 1,No. 1,Emir Zmak,Sophie Turner,Sophie Turner,3-6,3,6,0,1,Completed,true,false,false
+UA015041,27 Feb 22,4,Dendy Park 2,BLTC 1,No. 2,Harvey Stroeder,Hayley Taylor,Hayley Taylor,6-7,6,7,0,1,Completed,true,false,false
+UA015041,27 Feb 22,4,Dendy Park 2,BLTC 1,No. 3,Ben Vodilsoki,Harry Bennett,Ben Vodilsoki,7-6,7,6,1,0,Completed,true,false,false
+UA015041,27 Feb 22,4,Dendy Park 2,BLTC 1,No. 4,Alexia Frank,Finn Gehde,Alexia Frank,6-3,6,3,1,0,Completed,true,true,false
+UA015042,27 Feb 22,4,Glen Eira,Dendy Park 1,No. 1,Oskar Williams,Madison Luu,Oskar Williams,6-4,6,4,1,0,Completed,true,false,false
+UA015042,27 Feb 22,4,Glen Eira,Dendy Park 1,No. 2,Ayaka Marutani,Mason Ma,Ayaka Marutani,6-1,6,1,1,0,Completed,true,false,false
+UA015042,27 Feb 22,4,Glen Eira,Dendy Park 1,No. 3,Mia Milner,Jeremy Gu,Jeremy Gu,1-6,1,6,0,1,Completed,true,false,false
+UA015042,27 Feb 22,4,Glen Eira,Dendy Park 1,No. 4,Camille Demathieu,James Kim,Camille Demathieu,6-1,6,1,1,0,Completed,true,false,false
+UA015043,27 Feb 22,4,Carmelite Blue,Elsternwick Park,No. 1,Kobe Davis Earle,Marco Damiani,Kobe Davis Earle,6-4,6,4,1,0,Completed,true,false,false
+UA015043,27 Feb 22,4,Carmelite Blue,Elsternwick Park,No. 2,Hugho Schulz,Claude Howard,Hugho Schulz,6-4,6,4,1,0,Completed,true,false,false
+UA015043,27 Feb 22,4,Carmelite Blue,Elsternwick Park,No. 3,Sam Faso,James Behr,Sam Faso,6-0,6,0,1,0,Completed,true,false,false
+UA015043,27 Feb 22,4,Carmelite Blue,Elsternwick Park,No. 4,Oliver Earle,Francesca Wewer,Oliver Earle,6-0,6,0,1,0,Completed,true,false,false
+UA015044,27 Feb 22,4,BLTC 2,Carmelite Red,No. 1,Andrew McIntyre,Marius Gozdzicki,Marius Gozdzicki,2-6,2,6,0,1,Completed,true,false,false
+UA015044,27 Feb 22,4,BLTC 2,Carmelite Red,No. 2,Noah Anderson,Talia Kiprillis,Noah Anderson,7-5,7,5,1,0,Completed,true,false,false
+UA015044,27 Feb 22,4,BLTC 2,Carmelite Red,No. 3,Jimmy Rushton,Cooper Griggs,Cooper Griggs,0-6,0,6,0,1,Completed,true,false,false
+UA015044,27 Feb 22,4,BLTC 2,Carmelite Red,No. 4,Ryder Anderson,Lewis Grant,Lewis Grant,2-6,2,6,0,1,Completed,true,false,false
+UA015051,06 Mar 22,5,Elsternwick Park,Carmelite Red,No. 1,Hanbo Zhang,Marius Gozdzicki,Marius Gozdzicki,1-6,1,6,0,1,Completed,true,false,false
+UA015051,06 Mar 22,5,Elsternwick Park,Carmelite Red,No. 2,James Behr,Talia Kiprillis,Talia Kiprillis,0-6,0,6,0,1,Completed,true,false,false
+UA015051,06 Mar 22,5,Elsternwick Park,Carmelite Red,No. 3,Francesca Wewer,Hamish Bramich,Hamish Bramich,0-6,0,6,0,1,Completed,true,false,false
+UA015051,06 Mar 22,5,Elsternwick Park,Carmelite Red,No. 4,Noa Preston,Lewis Grant,Lewis Grant,2-6,2,6,0,1,Completed,true,false,false
+UA015052,06 Mar 22,5,Carmelite Blue,Glen Eira,No. 1,Kobe Davis Earle,Toby Shmuel,Kobe Davis Earle,6-1,6,1,1,0,Completed,true,false,false
+UA015052,06 Mar 22,5,Carmelite Blue,Glen Eira,No. 2,Sam Faso,Ayaka Marutani,Sam Faso,6-0,6,0,1,0,Completed,true,false,false
+UA015052,06 Mar 22,5,Carmelite Blue,Glen Eira,No. 3,Oliver Earle,Mika Mihalovski,Oliver Earle,6-3,6,3,1,0,Completed,true,false,false
+UA015052,06 Mar 22,5,Carmelite Blue,Glen Eira,No. 4,Nathan Kitzis,Camille Demathieu,Camille Demathieu,4-6,4,6,0,1,Completed,true,false,false
+UA015054,06 Mar 22,5,BLTC 1,Dendy Park 1,No. 1,Sophie Turner,Madison Luu,Sophie Turner,6-1,6,1,1,0,Completed,true,false,false
+UA015054,06 Mar 22,5,BLTC 1,Dendy Park 1,No. 2,Matvey Roche,Jeremy Gu,Matvey Roche,6-2,6,2,1,0,Completed,true,false,false
+UA015054,06 Mar 22,5,BLTC 1,Dendy Park 1,No. 3,Harry Bennett,Mason Ma,Harry Bennett,6-1,6,1,1,0,Completed,true,false,false
+UA015054,06 Mar 22,5,BLTC 1,Dendy Park 1,No. 4,Finn Gehde,James Kim,James Kim,2-6,2,6,0,1,Completed,true,false,false
+UA015061,20 Mar 22,6,Dendy Park 1,Elsternwick Park,No. 1,Madison Luu,Hanbo Zhang,Madison Luu,6-3,6,3,1,0,Completed,true,false,false
+UA015061,20 Mar 22,6,Dendy Park 1,Elsternwick Park,No. 2,Jeremy Gu,Claude Howard,Jeremy Gu,6-1,6,1,1,0,Completed,true,false,false
+UA015061,20 Mar 22,6,Dendy Park 1,Elsternwick Park,No. 3,Mason Ma,James Behr,Mason Ma,6-2,6,2,1,0,Completed,true,false,false
+UA015061,20 Mar 22,6,Dendy Park 1,Elsternwick Park,No. 4,James Kim,Noa Preston,James Kim,6-1,6,1,1,0,Completed,true,false,false
+UA015062,20 Mar 22,6,Carmelite Red,BLTC 1,No. 1,Marius Gozdzicki,Sophie Turner,Marius Gozdzicki,6-4,6,4,1,0,Completed,true,false,false
+UA015062,20 Mar 22,6,Carmelite Red,BLTC 1,No. 2,Talia Kiprillis,Matvey Roche,Matvey Roche,0-6,0,6,0,1,Completed,true,false,false
+UA015062,20 Mar 22,6,Carmelite Red,BLTC 1,No. 3,Hamish Bramich,Hayley Taylor,Hayley Taylor,1-6,1,6,0,1,Completed,true,false,false
+UA015062,20 Mar 22,6,Carmelite Red,BLTC 1,No. 4,Lewis Grant,Harry Bennett,Harry Bennett,0-6,0,6,0,1,Completed,true,false,false
+UA015063,20 Mar 22,6,Glen Eira,Dendy Park 2,No. 1,Toby Shmuel,Toby Hansen,Toby Hansen,4-6,4,6,0,1,Completed,true,false,false
+UA015063,20 Mar 22,6,Glen Eira,Dendy Park 2,No. 2,Mia Milner,Ben Vodilsoki,Mia Milner,7-6,7,6,1,0,Completed,true,false,false
+UA015063,20 Mar 22,6,Glen Eira,Dendy Park 2,No. 3,Mika Mihalovski,Miller Bennett,Miller Bennett,1-6,1,6,0,1,Completed,true,false,false
+UA015063,20 Mar 22,6,Glen Eira,Dendy Park 2,No. 4,Camille Demathieu,Alexia Frank,Alexia Frank,4-6,4,6,0,1,Completed,true,false,true
+UA015064,20 Mar 22,6,BLTC 2,Carmelite Blue,No. 1,Noah Anderson,Hugho Schulz,Hugho Schulz,4-6,4,6,0,1,Completed,true,false,false
+UA015064,20 Mar 22,6,BLTC 2,Carmelite Blue,No. 2,Zane Rushton,Oliver Earle,Oliver Earle,1-6,1,6,0,1,Completed,true,false,false
+UA015064,20 Mar 22,6,BLTC 2,Carmelite Blue,No. 3,Jimmy Rushton,Sam Faso,Jimmy Rushton,6-0,6,0,1,0,Completed,true,false,false
+UA015064,20 Mar 22,6,BLTC 2,Carmelite Blue,No. 4,Ryder Anderson,Nathan Kitzis,Nathan Kitzis,1-6,1,6,0,1,Completed,true,false,false
+UA015071,27 Mar 22,7,BLTC 1,Elsternwick Park,No. 1,Sophie Turner,Marco Damiani,Sophie Turner,6-0,6,0,1,0,Completed,true,false,false
+UA015071,27 Mar 22,7,BLTC 1,Elsternwick Park,No. 2,Matvey Roche,Claude Howard,Matvey Roche,6-0,6,0,1,0,Completed,true,false,false
+UA015071,27 Mar 22,7,BLTC 1,Elsternwick Park,No. 3,Harry Bennett,Leo Damiani,Harry Bennett,6-0,6,0,1,0,Completed,true,false,true
+UA015071,27 Mar 22,7,BLTC 1,Elsternwick Park,No. 4,Finn Gehde,Zach Surdbery,Finn Gehde,6-4,6,4,1,0,Completed,true,false,true
+UA015072,27 Mar 22,7,Dendy Park 1,Carmelite Red,No. 1,Madison Luu,Marius Gozdzicki,Madison Luu,7-6,7,6,1,0,Completed,true,false,false
+UA015072,27 Mar 22,7,Dendy Park 1,Carmelite Red,No. 2,Jeremy Gu,Talia Kiprillis,Jeremy Gu,6-1,6,1,1,0,Completed,true,false,false
+UA015072,27 Mar 22,7,Dendy Park 1,Carmelite Red,No. 3,James Kim,Cooper Griggs,James Kim,7-5,7,5,1,0,Completed,true,false,false
+UA015072,27 Mar 22,7,Dendy Park 1,Carmelite Red,No. 4,Mason Ma,Lewis Grant,Mason Ma,6-2,6,2,1,0,Completed,true,false,false
+UA015073,27 Mar 22,7,Carmelite Blue,Dendy Park 2,No. 1,Kobe Davis Earle,Harvey Stroeder,Kobe Davis Earle,7-5,7,5,1,0,Completed,true,false,false
+UA015073,27 Mar 22,7,Carmelite Blue,Dendy Park 2,No. 2,Hugho Schulz,Ben Vodilsoki,Hugho Schulz,6-4,6,4,1,0,Completed,true,false,false
+UA015073,27 Mar 22,7,Carmelite Blue,Dendy Park 2,No. 3,Sam Faso,Miller Bennett,Sam Faso,6-2,6,2,1,0,Completed,true,false,false
+UA015073,27 Mar 22,7,Carmelite Blue,Dendy Park 2,No. 4,Oliver Earle,Alexia Frank,Oliver Earle,6-4,6,4,1,0,Completed,true,false,true
+UA015074,27 Mar 22,7,Glen Eira,BLTC 2,No. 1,Oskar Williams,Andrew McIntyre,Oskar Williams,6-0,6,0,1,0,Completed,true,false,false
+UA015074,27 Mar 22,7,Glen Eira,BLTC 2,No. 2,Ayaka Marutani,Noah Anderson,Ayaka Marutani,6-1,6,1,1,0,Completed,true,false,false
+UA015074,27 Mar 22,7,Glen Eira,BLTC 2,No. 3,Toby Shmuel,Jimmy Rushton,Toby Shmuel,6-2,6,2,1,0,Completed,true,false,false
+UA015074,27 Mar 22,7,Glen Eira,BLTC 2,No. 4,Mia Milner,Ryder Anderson,Ryder Anderson,4-6,4,6,0,1,Completed,true,false,false
+UA015081,03 Apr 22,8,BLTC 2,BLTC 1,No. 1,Andrew McIntyre,Matvey Roche,Matvey Roche,0-6,0,6,0,1,Completed,true,false,false
+UA015081,03 Apr 22,8,BLTC 2,BLTC 1,No. 2,Zane Rushton,Hayley Taylor,Hayley Taylor,3-6,3,6,0,1,Completed,true,false,false
+UA015081,03 Apr 22,8,BLTC 2,BLTC 1,No. 3,Jimmy Rushton,Harry Bennett,Harry Bennett,3-6,3,6,0,1,Completed,true,false,false
+UA015081,03 Apr 22,8,BLTC 2,BLTC 1,No. 4,Ryder Anderson,Finn Gehde,Finn Gehde,2-6,2,6,0,1,Completed,true,false,false
+UA015082,03 Apr 22,8,Dendy Park 2,Dendy Park 1,No. 1,Toby Hansen,Madison Luu,Toby Hansen,6-0,6,0,1,0,Completed,true,false,false
+UA015082,03 Apr 22,8,Dendy Park 2,Dendy Park 1,No. 2,Harvey Stroeder,Sean Stolyarov,Harvey Stroeder,6-4,6,4,1,0,Completed,true,false,false
+UA015082,03 Apr 22,8,Dendy Park 2,Dendy Park 1,No. 3,Ben Vodilsoki,Jeremy Gu,Ben Vodilsoki,7-6,7,6,1,0,Completed,true,false,false
+UA015082,03 Apr 22,8,Dendy Park 2,Dendy Park 1,No. 4,Alexia Frank,James Kim,Alexia Frank,7-6,7,6,1,0,Completed,true,true,false
+UA015083,03 Apr 22,8,Glen Eira,Elsternwick Park,No. 1,Oskar Williams,Marco Damiani,Oskar Williams,7-5,7,5,1,0,Completed,true,false,false
+UA015083,03 Apr 22,8,Glen Eira,Elsternwick Park,No. 2,Ayaka Marutani,Hanbo Zhang,Ayaka Marutani,6-0,6,0,1,0,Completed,true,false,false
+UA015083,03 Apr 22,8,Glen Eira,Elsternwick Park,No. 3,Camille Demathieu,James Behr,Camille Demathieu,6-0,6,0,1,0,Completed,true,false,false
+UA015083,03 Apr 22,8,Glen Eira,Elsternwick Park,No. 4,Harry Gdanitz,Francesca Wewer,Harry Gdanitz,6-4,6,4,1,0,Completed,true,true,false
+UA015084,03 Apr 22,8,Carmelite Blue,Carmelite Red,No. 1,Kobe Davis Earle,Marius Gozdzicki,Kobe Davis Earle,6-3,6,3,1,0,Completed,true,false,false
+UA015084,03 Apr 22,8,Carmelite Blue,Carmelite Red,No. 2,Hugho Schulz,Talia Kiprillis,Hugho Schulz,6-2,6,2,1,0,Completed,true,false,false
+UA015084,03 Apr 22,8,Carmelite Blue,Carmelite Red,No. 3,Sam Faso,Cooper Griggs,Cooper Griggs,1-6,1,6,0,1,Completed,true,false,false
+UA015084,03 Apr 22,8,Carmelite Blue,Carmelite Red,No. 4,Nathan Kitzis,Lewis Grant,Nathan Kitzis,6-2,6,2,1,0,Completed,true,false,false
+UA015091,01 May 22,9,BLTC 1,Carmelite Blue,No. 1,Sophie Turner,Kobe Davis Earle,Sophie Turner,6-1,6,1,1,0,Completed,true,false,false
+UA015091,01 May 22,9,BLTC 1,Carmelite Blue,No. 2,Hayley Taylor,Hugho Schulz,Hugho Schulz,1-6,1,6,0,1,Completed,true,false,false
+UA015091,01 May 22,9,BLTC 1,Carmelite Blue,No. 3,Harry Bennett,Oliver Earle,Harry Bennett,6-1,6,1,1,0,Completed,true,false,false
+UA015091,01 May 22,9,BLTC 1,Carmelite Blue,No. 4,Finn Gehde,Nathan Kitzis,Nathan Kitzis,6-7,6,7,0,1,Completed,true,false,false
+UA015092,01 May 22,9,Dendy Park 1,BLTC 2,No. 1,Madison Luu,Andrew McIntyre,Madison Luu,6-1,6,1,1,0,Completed,true,false,false
+UA015092,01 May 22,9,Dendy Park 1,BLTC 2,No. 2,Sean Stolyarov,Noah Anderson,Sean Stolyarov,6-3,6,3,1,0,Completed,true,false,false
+UA015092,01 May 22,9,Dendy Park 1,BLTC 2,No. 3,James Kim,Jimmy Rushton,James Kim,6-3,6,3,1,0,Completed,true,false,false
+UA015092,01 May 22,9,Dendy Park 1,BLTC 2,No. 4,Mason Ma,Ryder Anderson,Mason Ma,6-1,6,1,1,0,Completed,true,false,false
+UA015093,01 May 22,9,Elsternwick Park,Dendy Park 2,No. 1,Hanbo Zhang,Toby Hansen,Toby Hansen,6-7,6,7,0,1,Completed,true,false,false
+UA015093,01 May 22,9,Elsternwick Park,Dendy Park 2,No. 2,Claude Howard,Harvey Stroeder,Harvey Stroeder,0-6,0,6,0,1,Completed,true,false,false
+UA015093,01 May 22,9,Elsternwick Park,Dendy Park 2,No. 3,James Behr,Alexia Frank,Alexia Frank,0-6,0,6,0,1,Completed,true,false,true
+UA015093,01 May 22,9,Elsternwick Park,Dendy Park 2,No. 4,Francesca Wewer,Miller Bennett,Francesca Wewer,6-0,6,0,1,0,Completed,true,false,false
+UA015094,01 May 22,9,Carmelite Red,Glen Eira,No. 1,Marius Gozdzicki,Toby Shmuel,Marius Gozdzicki,6-1,6,1,1,0,Completed,true,false,false
+UA015094,01 May 22,9,Carmelite Red,Glen Eira,No. 2,Talia Kiprillis,Mia Milner,Talia Kiprillis,6-4,6,4,1,0,Completed,true,false,false
+UA015094,01 May 22,9,Carmelite Red,Glen Eira,No. 3,Cooper Griggs,Mika Mihalovski,Cooper Griggs,6-0,6,0,1,0,Completed,true,false,false
+UA015094,01 May 22,9,Carmelite Red,Glen Eira,No. 4,Hamish Bramich,Oskar Williams,Hamish Bramich,6-0,6,0,1,0,Completed,true,false,false
+UA015101,08 May 22,10,Glen Eira,BLTC 1,No. 1,Ayaka Marutani,Sophie Turner,Sophie Turner,0-6,0,6,0,1,Completed,true,false,false
+UA015101,08 May 22,10,Glen Eira,BLTC 1,No. 2,Toby Shmuel,Matvey Roche,Matvey Roche,2-6,2,6,0,1,Completed,true,false,false
+UA015101,08 May 22,10,Glen Eira,BLTC 1,No. 3,Mia Milner,Harry Bennett,Harry Bennett,1-6,1,6,0,1,Completed,true,false,false
+UA015101,08 May 22,10,Glen Eira,BLTC 1,No. 4,Camille Demathieu,Finn Gehde,Camille Demathieu,6-1,6,1,1,0,Completed,true,false,false
+UA015102,08 May 22,10,Carmelite Blue,Dendy Park 1,No. 1,Hugho Schulz,Sean Stolyarov,Sean Stolyarov,2-6,2,6,0,1,Completed,true,false,false
+UA015102,08 May 22,10,Carmelite Blue,Dendy Park 1,No. 2,Oliver Earle,Jeremy Gu,Jeremy Gu,2-6,2,6,0,1,Completed,true,false,false
+UA015102,08 May 22,10,Carmelite Blue,Dendy Park 1,No. 3,Sam Faso,James Kim,James Kim,0-6,0,6,0,1,Completed,true,false,false
+UA015102,08 May 22,10,Carmelite Blue,Dendy Park 1,No. 4,Nathan Kitzis,Mason Ma,Nathan Kitzis,6-0,6,0,1,0,Completed,true,false,false
+UA015103,08 May 22,10,BLTC 2,Elsternwick Park,No. 1,Andrew McIntyre,Marco Damiani,Marco Damiani,2-6,2,6,0,1,Completed,true,false,false
+UA015103,08 May 22,10,BLTC 2,Elsternwick Park,No. 2,Noah Anderson,Claude Howard,Noah Anderson,6-3,6,3,1,0,Completed,true,false,false
+UA015103,08 May 22,10,BLTC 2,Elsternwick Park,No. 3,Jimmy Rushton,Francesca Wewer,Jimmy Rushton,6-0,6,0,1,0,Completed,true,false,false
+UA015103,08 May 22,10,BLTC 2,Elsternwick Park,No. 4,Ryder Anderson,Noa Preston,Ryder Anderson,6-0,6,0,1,0,Completed,true,false,false
+UA015104,08 May 22,10,Dendy Park 2,Carmelite Red,No. 1,Toby Hansen,Marius Gozdzicki,Toby Hansen,6-3,6,3,1,0,Completed,true,false,false
+UA015104,08 May 22,10,Dendy Park 2,Carmelite Red,No. 2,Emir Zmak,Cooper Griggs,Emir Zmak,6-3,6,3,1,0,Completed,true,false,false
+UA015104,08 May 22,10,Dendy Park 2,Carmelite Red,No. 3,Harvey Stroeder,Hamish Bramich,Harvey Stroeder,6-1,6,1,1,0,Completed,true,false,false
+UA015104,08 May 22,10,Dendy Park 2,Carmelite Red,No. 4,Miller Bennett,Lewis Grant,Lewis Grant,6-7,6,7,0,1,Completed,true,false,false
+UA015111,15 May 22,11,BLTC 1,Dendy Park 2,No. 1,Matvey Roche,Toby Hansen,Matvey Roche,6-1,6,1,1,0,Completed,true,false,false
+UA015111,15 May 22,11,BLTC 1,Dendy Park 2,No. 2,Hayley Taylor,Ben Vodilsoki,Hayley Taylor,6-2,6,2,1,0,Completed,true,false,false
+UA015111,15 May 22,11,BLTC 1,Dendy Park 2,No. 3,Harry Bennett,Miller Bennett,Harry Bennett,6-0,6,0,1,0,Completed,true,false,false
+UA015111,15 May 22,11,BLTC 1,Dendy Park 2,No. 4,Finn Gehde,Slade Caldwell,Finn Gehde,6-0,6,0,1,0,Completed,true,false,true
+UA015112,15 May 22,11,Dendy Park 1,Glen Eira,No. 1,Madison Luu,Oskar Williams,Madison Luu,6-1,6,1,1,0,Completed,true,false,false
+UA015112,15 May 22,11,Dendy Park 1,Glen Eira,No. 2,Sean Stolyarov,Ayaka Marutani,Sean Stolyarov,6-3,6,3,1,0,Completed,true,false,false
+UA015112,15 May 22,11,Dendy Park 1,Glen Eira,No. 3,James Kim,Mika Mihalovski,James Kim,6-0,6,0,1,0,Completed,true,false,false
+UA015112,15 May 22,11,Dendy Park 1,Glen Eira,No. 4,Mason Ma,Camille Demathieu,Mason Ma,6-3,6,3,1,0,Completed,true,false,false
+UA015113,15 May 22,11,Elsternwick Park,Carmelite Blue,No. 1,Marco Damiani,Kobe Davis Earle,Kobe Davis Earle,1-6,1,6,0,1,Completed,true,false,false
+UA015113,15 May 22,11,Elsternwick Park,Carmelite Blue,No. 2,Hanbo Zhang,Hugho Schulz,Hanbo Zhang,6-4,6,4,1,0,Completed,true,false,false
+UA015113,15 May 22,11,Elsternwick Park,Carmelite Blue,No. 3,Claude Howard,Sam Faso,Sam Faso,2-6,2,6,0,1,Completed,true,false,false
+UA015113,15 May 22,11,Elsternwick Park,Carmelite Blue,No. 4,Noa Preston,Nathan Kitzis,Nathan Kitzis,1-6,1,6,0,1,Completed,true,false,false
+UA015114,15 May 22,11,Carmelite Red,BLTC 2,No. 1,Talia Kiprillis,Andrew McIntyre,Talia Kiprillis,6-3,6,3,1,0,Completed,true,false,false
+UA015114,15 May 22,11,Carmelite Red,BLTC 2,No. 2,Cooper Griggs,Noah Anderson,Cooper Griggs,6-0,6,0,1,0,Completed,true,false,false
+UA015114,15 May 22,11,Carmelite Red,BLTC 2,No. 3,Hamish Bramich,Jimmy Rushton,Hamish Bramich,7-5,7,5,1,0,Completed,true,false,false
+UA015114,15 May 22,11,Carmelite Red,BLTC 2,No. 4,Lewis Grant,Ryder Anderson,Lewis Grant,6-0,6,0,1,0,Completed,true,false,false
+UA015121,22 May 22,12,Carmelite Red,Elsternwick Park,No. 1,Marius Gozdzicki,Marco Damiani,Marius Gozdzicki,6-1,6,1,1,0,Completed,true,false,false
+UA015121,22 May 22,12,Carmelite Red,Elsternwick Park,No. 2,Talia Kiprillis,Hanbo Zhang,Talia Kiprillis,6-4,6,4,1,0,Completed,true,false,false
+UA015121,22 May 22,12,Carmelite Red,Elsternwick Park,No. 3,Hamish Bramich,James Behr,Hamish Bramich,6-1,6,1,1,0,Completed,true,false,false
+UA015121,22 May 22,12,Carmelite Red,Elsternwick Park,No. 4,Lewis Grant,Francesca Wewer,Lewis Grant,6-3,6,3,1,0,Completed,true,false,false
+UA015122,22 May 22,12,Glen Eira,Carmelite Blue,No. 1,Toby Shmuel,Kobe Davis Earle,Kobe Davis Earle,5-7,5,7,0,1,Completed,true,false,false
+UA015122,22 May 22,12,Glen Eira,Carmelite Blue,No. 2,Mia Milner,Hugho Schulz,Hugho Schulz,4-6,4,6,0,1,Completed,true,false,false
+UA015122,22 May 22,12,Glen Eira,Carmelite Blue,No. 3,Oskar Williams,Oliver Earle,Oliver Earle,0-6,0,6,0,1,Completed,true,false,false
+UA015122,22 May 22,12,Glen Eira,Carmelite Blue,No. 4,Camille Demathieu,Jack Gaudry,Camille Demathieu,6-2,6,2,1,0,Completed,true,false,false
+UA015123,22 May 22,12,BLTC 2,Dendy Park 2,No. 1,Andrew McIntyre,Emir Zmak,Emir Zmak,1-6,1,6,0,1,Completed,true,false,false
+UA015123,22 May 22,12,BLTC 2,Dendy Park 2,No. 2,Noah Anderson,Harvey Stroeder,Harvey Stroeder,5-7,5,7,0,1,Completed,true,false,false
+UA015123,22 May 22,12,BLTC 2,Dendy Park 2,No. 3,Jimmy Rushton,Alexia Frank,Alexia Frank,0-6,0,6,0,1,Completed,true,false,true
+UA015123,22 May 22,12,BLTC 2,Dendy Park 2,No. 4,Ryder Anderson,James Kim,James Kim,3-6,3,6,0,1,Completed,true,false,true
+UA015124,22 May 22,12,Dendy Park 1,BLTC 1,No. 1,Madison Luu,Sophie Turner,Sophie Turner,2-6,2,6,0,1,Completed,true,false,false
+UA015124,22 May 22,12,Dendy Park 1,BLTC 1,No. 2,Sean Stolyarov,Matvey Roche,Matvey Roche,0-6,0,6,0,1,Completed,true,false,false
+UA015124,22 May 22,12,Dendy Park 1,BLTC 1,No. 3,Jeremy Gu,Hayley Taylor,Hayley Taylor,3-6,3,6,0,1,Completed,true,false,false
+UA015124,22 May 22,12,Dendy Park 1,BLTC 1,No. 4,Mason Ma,Harry Bennett,Mason Ma,6-1,6,1,1,0,Completed,true,false,false
+UA015131,29 May 22,13,Elsternwick Park,Dendy Park 1,No. 1,Marco Damiani,Madison Luu,Madison Luu,0-6,0,6,0,1,Completed,true,false,false
+UA015131,29 May 22,13,Elsternwick Park,Dendy Park 1,No. 2,Hanbo Zhang,Sean Stolyarov,Sean Stolyarov,6-7,6,7,0,1,Completed,true,false,false
+UA015131,29 May 22,13,Elsternwick Park,Dendy Park 1,No. 3,Francesca Wewer,Jeremy Gu,Jeremy Gu,0-6,0,6,0,1,Completed,true,false,false
+UA015131,29 May 22,13,Elsternwick Park,Dendy Park 1,No. 4,Noa Preston,James Kim,James Kim,0-6,0,6,0,1,Completed,true,false,false
+UA015132,29 May 22,13,BLTC 1,Carmelite Red,No. 1,Sophie Turner,Marius Gozdzicki,Sophie Turner,6-2,6,2,1,0,Completed,true,false,false
+UA015132,29 May 22,13,BLTC 1,Carmelite Red,No. 2,Matvey Roche,Talia Kiprillis,Matvey Roche,6-2,6,2,1,0,Completed,true,false,false
+UA015132,29 May 22,13,BLTC 1,Carmelite Red,No. 3,Hayley Taylor,Cooper Griggs,Cooper Griggs,1-6,1,6,0,1,Completed,true,false,false
+UA015132,29 May 22,13,BLTC 1,Carmelite Red,No. 4,Finn Gehde,Lewis Grant,Finn Gehde,6-4,6,4,1,0,Completed,true,false,false
+UA015133,29 May 22,13,Dendy Park 2,Glen Eira,No. 1,Harvey Stroeder,Oskar Williams,Harvey Stroeder,6-2,6,2,1,0,Completed,true,false,false
+UA015133,29 May 22,13,Dendy Park 2,Glen Eira,No. 2,Miller Bennett,Ayaka Marutani,Ayaka Marutani,2-6,2,6,0,1,Completed,true,false,false
+UA015133,29 May 22,13,Dendy Park 2,Glen Eira,No. 3,Alexia Frank,Toby Shmuel,Alexia Frank,6-0,6,0,1,0,Completed,true,true,false
+UA015133,29 May 22,13,Dendy Park 2,Glen Eira,No. 4,Oscar Stroeder,Mia Milner,Mia Milner,0-6,0,6,0,1,Completed,true,true,false
+UA015134,29 May 22,13,Carmelite Blue,BLTC 2,No. 1,Kobe Davis Earle,Noah Anderson,Kobe Davis Earle,6-1,6,1,1,0,Completed,true,false,false
+UA015134,29 May 22,13,Carmelite Blue,BLTC 2,No. 2,Hugho Schulz,Zane Rushton,Hugho Schulz,6-2,6,2,1,0,Completed,true,false,false
+UA015134,29 May 22,13,Carmelite Blue,BLTC 2,No. 3,Oliver Earle,Jimmy Rushton,Jimmy Rushton,0-6,0,6,0,1,Completed,true,false,false
+UA015134,29 May 22,13,Carmelite Blue,BLTC 2,No. 4,Nathan Kitzis,Ryder Anderson,Nathan Kitzis,6-4,6,4,1,0,Completed,true,false,false
+UA015301,,16,BLTC 1,Dendy Park 2,No. 1,Sophie Turner,Toby Hansen,Toby Hansen,6-7,6,7,0,1,Completed,true,false,false
+UA015301,,16,BLTC 1,Dendy Park 2,No. 2,Matvey Roche,Emir Zmak,Matvey Roche,6-1,6,1,1,0,Completed,true,false,false
+UA015301,,16,BLTC 1,Dendy Park 2,No. 3,Harry Bennett,Harvey Stroeder,Harvey Stroeder,0-6,0,6,0,1,Completed,true,false,false
+UA015301,,16,BLTC 1,Dendy Park 2,No. 4,Finn Gehde,Ben Vodilsoki,Finn Gehde,6-0,6,0,1,0,Completed,true,false,false
+UA015302,,16,Dendy Park 1,Carmelite Blue,No. 1,Madison Luu,Kobe Davis Earle,Kobe Davis Earle,4-6,4,6,0,1,Completed,true,false,false
+UA015302,,16,Dendy Park 1,Carmelite Blue,No. 2,Sean Stolyarov,Hugho Schulz,Sean Stolyarov,7-6,7,6,1,0,Completed,true,false,false
+UA015302,,16,Dendy Park 1,Carmelite Blue,No. 3,James Kim,Oliver Earle,James Kim,6-2,6,2,1,0,Completed,true,false,false
+UA015302,,16,Dendy Park 1,Carmelite Blue,No. 4,Mason Ma,Nathan Kitzis,Nathan Kitzis,6-7,6,7,0,1,Completed,true,false,false
+UA015321,,17,BLTC 1,Carmelite Blue,No. 1,Sophie Turner,Kobe Davis Earle,Sophie Turner,6-1,6,1,1,0,Completed,true,false,false
+UA015321,,17,BLTC 1,Carmelite Blue,No. 2,Matvey Roche,Hugho Schulz,Matvey Roche,6-1,6,1,1,0,Completed,true,false,false
+UA015321,,17,BLTC 1,Carmelite Blue,No. 3,Finn Gehde,Sam Faso,Sam Faso,3-6,3,6,0,1,Completed,true,false,false
+UA015321,,17,BLTC 1,Carmelite Blue,No. 4,Finn Haines,Oliver Earle,Finn Haines,6-0,6,0,1,0,Completed,true,true,false

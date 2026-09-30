@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA22-UA007",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA007",
+  "section_label": "Section 7",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "GPHC 1",
+      "wins": 12,
+      "points": 108,
+      "percentage": 147.14,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Port Melbourne",
+      "wins": 9,
+      "points": 87,
+      "percentage": 122.33,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Tennis World",
+      "wins": 9,
+      "points": 83,
+      "percentage": 111.01,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Kooyong Scotch",
+      "wins": 9,
+      "points": 80,
+      "percentage": 114.72,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St Andrews MB RA",
+      "wins": 4,
+      "points": 59,
+      "percentage": 97.08,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal South Yarra",
+      "wins": 5,
+      "points": 52,
+      "percentage": 79.18,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kings Park",
+      "wins": 4,
+      "points": 49,
+      "percentage": 78.57,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC 2",
+      "wins": 3,
+      "points": 42,
+      "percentage": 72.17,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA007",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 231,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

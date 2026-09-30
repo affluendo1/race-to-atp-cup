@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA25-UA005",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2019",
+  "season_id": "UA25",
+  "season_label": "Spring 2019",
+  "source_section_code": "UA005",
+  "section_label": "Section 5",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "GPHC",
+      "wins": 12,
+      "points": 107,
+      "percentage": 148.12,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Kooyong Scotch",
+      "wins": 10,
+      "points": 101,
+      "percentage": 147.19,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Dendy Park",
+      "wins": 9,
+      "points": 89,
+      "percentage": 121.59,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Highmoor Uniting",
+      "wins": 6,
+      "points": 87,
+      "percentage": 148.98,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Coatesville",
+      "wins": 5,
+      "points": 59,
+      "percentage": 76.99,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC",
+      "wins": 4,
+      "points": 45,
+      "percentage": 62.84,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St Andrews MB RA",
+      "wins": 3,
+      "points": 43,
+      "percentage": 77.28,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave",
+      "wins": 1,
+      "points": 29,
+      "percentage": 69.04,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA25-UA005",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

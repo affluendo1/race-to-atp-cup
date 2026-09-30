@@ -1,0 +1,209 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA001011,05 Feb 12,1,Dendy Park 1,Dendy Park 2,No. 1,Nick Jeffery,Chrisopher Rees-Jones,Nick Jeffery,6-0,6,0,1,0,Completed,true,false,false
+UA001011,05 Feb 12,1,Dendy Park 1,Dendy Park 2,No. 2,Brenton Kos,Adam Andrews,Brenton Kos,6-0,6,0,1,0,Completed,true,false,false
+UA001011,05 Feb 12,1,Dendy Park 1,Dendy Park 2,No. 3,Jordan Tabakman,Luke Dubbeld,Luke Dubbeld,4-6,4,6,0,1,Completed,true,false,false
+UA001011,05 Feb 12,1,Dendy Park 1,Dendy Park 2,No. 4,Michael Kiparoglou,Conor Boyd,Conor Boyd,5-7,5,7,0,1,Completed,true,false,false
+UA001012,05 Feb 12,1,Kooyong 1,Bodley Tennis Plus,No. 1,Scott Kaiser,Ben Gilliver,Scott Kaiser,6-1,6,1,1,0,Completed,true,false,false
+UA001012,05 Feb 12,1,Kooyong 1,Bodley Tennis Plus,No. 2,Harrison Young,Damian Johns,Harrison Young,6-3,6,3,1,0,Completed,true,false,false
+UA001012,05 Feb 12,1,Kooyong 1,Bodley Tennis Plus,No. 3,Sebastion Loader-Oliver,James Serpell,James Serpell,3-6,3,6,0,1,Completed,true,false,false
+UA001012,05 Feb 12,1,Kooyong 1,Bodley Tennis Plus,No. 4,Angus Stott,Walt Scott,Walt Scott,3-6,3,6,0,1,Completed,true,false,false
+UA001013,05 Feb 12,1,Kooyong 2,Kooyong 3,No. 1,Pierce Gilheany,Jordan Swire,Jordan Swire,1-6,1,6,0,1,Completed,true,false,false
+UA001013,05 Feb 12,1,Kooyong 2,Kooyong 3,No. 2,Renee Sheary,Harry Higgins,Harry Higgins,5-7,5,7,0,1,Completed,true,false,false
+UA001013,05 Feb 12,1,Kooyong 2,Kooyong 3,No. 3,Jade Sheary,Hugh Davenport,Hugh Davenport,1-6,1,6,0,1,Completed,true,false,false
+UA001013,05 Feb 12,1,Kooyong 2,Kooyong 3,No. 4,Cindy Tamber,Kipp Davenport,Kipp Davenport,2-6,2,6,0,1,Completed,true,false,false
+UA001021,12 Feb 12,2,Coatesville,Dendy Park 1,No. 1,Callum Rankin,Nick Jeffery,Nick Jeffery,1-6,1,6,0,1,Completed,true,false,false
+UA001021,12 Feb 12,2,Coatesville,Dendy Park 1,No. 2,Damen Lawrence,Jordan Tabakman,Damen Lawrence,6-2,6,2,1,0,Completed,true,false,false
+UA001021,12 Feb 12,2,Coatesville,Dendy Park 1,No. 3,Joel Angelopoulos,Michael Kiparoglou,Joel Angelopoulos,6-4,6,4,1,0,Completed,true,false,false
+UA001021,12 Feb 12,2,Coatesville,Dendy Park 1,No. 4,Justin Carew,Jarryd Wynne,Jarryd Wynne,5-7,5,7,0,1,Completed,true,false,false
+UA001022,12 Feb 12,2,Dendy Park 2,Kooyong 1,No. 1,Chrisopher Rees-Jones,Scott Kaiser,Scott Kaiser,3-6,3,6,0,1,Completed,true,false,false
+UA001022,12 Feb 12,2,Dendy Park 2,Kooyong 1,No. 2,Adam Andrews,Harrison Young,Harrison Young,1-6,1,6,0,1,Completed,true,false,false
+UA001022,12 Feb 12,2,Dendy Park 2,Kooyong 1,No. 3,James Saunders,Ben Flaherty,Ben Flaherty,6-7,6,7,0,1,Completed,true,false,false
+UA001022,12 Feb 12,2,Dendy Park 2,Kooyong 1,No. 4,Andrew James,Sam Liebelt,Sam Liebelt,4-6,4,6,0,1,Completed,true,false,false
+UA001023,12 Feb 12,2,Bodley Tennis Plus,Kooyong 2,No. 1,Ben Gilliver,Alex Bielinski,Alex Bielinski,3-6,3,6,0,1,Completed,true,false,false
+UA001023,12 Feb 12,2,Bodley Tennis Plus,Kooyong 2,No. 2,Damian Johns,Pierce Gilheany,Pierce Gilheany,3-6,3,6,0,1,Completed,true,false,false
+UA001023,12 Feb 12,2,Bodley Tennis Plus,Kooyong 2,No. 3,James Serpell,Renee Sheary,James Serpell,6-2,6,2,1,0,Completed,true,false,false
+UA001023,12 Feb 12,2,Bodley Tennis Plus,Kooyong 2,No. 4,Trent Jones,Cindy Tamber,Trent Jones,7-5,7,5,1,0,Completed,true,false,false
+UA001024,12 Feb 12,2,Kooyong 3,GPHC,No. 1,Jordan Swire,Sam Holland,Jordan Swire,6-4,6,4,1,0,Completed,true,false,false
+UA001024,12 Feb 12,2,Kooyong 3,GPHC,No. 2,Harry Higgins,Vincent Jiang,Harry Higgins,6-3,6,3,1,0,Completed,true,false,false
+UA001024,12 Feb 12,2,Kooyong 3,GPHC,No. 3,Hugh Davenport,Bill Smith,Hugh Davenport,6-2,6,2,1,0,Completed,true,false,false
+UA001024,12 Feb 12,2,Kooyong 3,GPHC,No. 4,Kipp Davenport,Ellie Capannolo,Kipp Davenport,6-0,6,0,1,0,Completed,true,false,false
+UA001031,19 Feb 12,3,Dendy Park 1,Kooyong 3,No. 1,Brenton Kos,Greg Polmans,Greg Polmans,3-6,3,6,0,1,Completed,true,false,false
+UA001031,19 Feb 12,3,Dendy Park 1,Kooyong 3,No. 2,Jordan Tabakman,Harry Higgins,Harry Higgins,2-6,2,6,0,1,Completed,true,false,false
+UA001031,19 Feb 12,3,Dendy Park 1,Kooyong 3,No. 3,Michael Kiparoglou,Hugh Davenport,Michael Kiparoglou,6-3,6,3,1,0,Completed,true,false,false
+UA001031,19 Feb 12,3,Dendy Park 1,Kooyong 3,No. 4,Jarryd Wynne,Kipp Davenport,Jarryd Wynne,6-4,6,4,1,0,Completed,true,false,false
+UA001032,19 Feb 12,3,Kooyong 1,Coatesville,No. 1,Harrison Young,Callum Rankin,Harrison Young,7-5,7,5,1,0,Completed,true,false,false
+UA001032,19 Feb 12,3,Kooyong 1,Coatesville,No. 2,Angus Stott,Damen Lawrence,Damen Lawrence,3-6,3,6,0,1,Completed,true,false,false
+UA001032,19 Feb 12,3,Kooyong 1,Coatesville,No. 3,Ben Flaherty,Joel Angelopoulos,Ben Flaherty,6-1,6,1,1,0,Completed,true,false,false
+UA001032,19 Feb 12,3,Kooyong 1,Coatesville,No. 4,Sam Liebelt,Justin Carew,Sam Liebelt,6-3,6,3,1,0,Completed,true,false,false
+UA001033,19 Feb 12,3,Kooyong 2,Dendy Park 2,No. 1,Alex Bielinski,Chrisopher Rees-Jones,Alex Bielinski,6-0,6,0,1,0,Completed,true,false,false
+UA001033,19 Feb 12,3,Kooyong 2,Dendy Park 2,No. 2,Pierce Gilheany,Adam Andrews,Pierce Gilheany,6-1,6,1,1,0,Completed,true,false,false
+UA001033,19 Feb 12,3,Kooyong 2,Dendy Park 2,No. 3,Jade Sheary,Luke Dubbeld,Jade Sheary,6-2,6,2,1,0,Completed,true,false,false
+UA001033,19 Feb 12,3,Kooyong 2,Dendy Park 2,No. 4,Cindy Tamber,James Saunders,Cindy Tamber,6-2,6,2,1,0,Completed,true,false,false
+UA001034,19 Feb 12,3,GPHC,Bodley Tennis Plus,No. 1,Henry McIntosh,Ben Gilliver,Henry McIntosh,7-6,7,6,1,0,Completed,true,false,false
+UA001034,19 Feb 12,3,GPHC,Bodley Tennis Plus,No. 2,Bill Smith,Damian Johns,Damian Johns,2-6,2,6,0,1,Completed,true,false,false
+UA001034,19 Feb 12,3,GPHC,Bodley Tennis Plus,No. 3,Lucy Loane,James Serpell,James Serpell,0-6,0,6,0,1,Completed,true,false,false
+UA001034,19 Feb 12,3,GPHC,Bodley Tennis Plus,No. 4,Ellie Capannolo,Walt Scott,Walt Scott,0-6,0,6,0,1,Completed,true,false,false
+UA001041,26 Feb 12,4,Bodley Tennis Plus,Dendy Park 1,No. 1,Ben Gilliver,Nick Jeffery,Nick Jeffery,2-6,2,6,0,1,Completed,true,false,false
+UA001041,26 Feb 12,4,Bodley Tennis Plus,Dendy Park 1,No. 2,Damian Johns,Brenton Kos,Damian Johns,6-1,6,1,1,0,Completed,true,false,false
+UA001041,26 Feb 12,4,Bodley Tennis Plus,Dendy Park 1,No. 3,James Serpell,Michael Kiparoglou,James Serpell,6-1,6,1,1,0,Completed,true,false,false
+UA001041,26 Feb 12,4,Bodley Tennis Plus,Dendy Park 1,No. 4,Walt Scott,Jordan Tabakman,Walt Scott,6-0,6,0,1,0,Completed,true,false,false
+UA001042,26 Feb 12,4,Kooyong 3,Kooyong 1,No. 1,Jordan Swire,Scott Kaiser,Scott Kaiser,1-6,1,6,0,1,Completed,true,false,false
+UA001042,26 Feb 12,4,Kooyong 3,Kooyong 1,No. 2,Harry Higgins,Harrison Young,Harrison Young,2-6,2,6,0,1,Completed,true,false,false
+UA001042,26 Feb 12,4,Kooyong 3,Kooyong 1,No. 3,Hugh Davenport,Sebastion Loader-Oliver,Sebastion Loader-Oliver,2-6,2,6,0,1,Completed,true,false,false
+UA001042,26 Feb 12,4,Kooyong 3,Kooyong 1,No. 4,Kipp Davenport,Ben Flaherty,Kipp Davenport,6-3,6,3,1,0,Completed,true,false,false
+UA001043,26 Feb 12,4,Coatesville,Kooyong 2,No. 1,Damen Lawrence,Renee Sheary,Damen Lawrence,6-4,6,4,1,0,Completed,true,false,false
+UA001043,26 Feb 12,4,Coatesville,Kooyong 2,No. 2,Joel Angelopoulos,Jade Sheary,Jade Sheary,1-6,1,6,0,1,Completed,true,false,false
+UA001043,26 Feb 12,4,Coatesville,Kooyong 2,No. 3,Justin Carew,Cindy Tamber,Cindy Tamber,3-6,3,6,0,1,Completed,true,false,false
+UA001043,26 Feb 12,4,Coatesville,Kooyong 2,No. 4,Ben Burke,Charlie Alkilse,Charlie Alkilse,0-6,0,6,0,1,Completed,true,false,false
+UA001044,26 Feb 12,4,Dendy Park 2,GPHC,No. 1,Adam Andrews,Henry McIntosh,Henry McIntosh,1-6,1,6,0,1,Completed,true,false,false
+UA001044,26 Feb 12,4,Dendy Park 2,GPHC,No. 2,Luke Dubbeld,Vincent Jiang,Luke Dubbeld,7-5,7,5,1,0,Completed,true,false,false
+UA001044,26 Feb 12,4,Dendy Park 2,GPHC,No. 3,Conor Boyd,Bill Smith,Conor Boyd,6-0,6,0,1,0,Completed,true,false,false
+UA001044,26 Feb 12,4,Dendy Park 2,GPHC,No. 4,James Saunders,Lucy Loane,James Saunders,6-2,6,2,1,0,Completed,true,false,false
+UA001051,04 Mar 12,5,Kooyong 2,GPHC,No. 1,Pierce Gilheany,Henry McIntosh,Pierce Gilheany,6-2,6,2,1,0,Completed,true,false,false
+UA001051,04 Mar 12,5,Kooyong 2,GPHC,No. 2,Renee Sheary,Taylor Capannolo,Taylor Capannolo,0-6,0,6,0,1,Completed,true,false,false
+UA001051,04 Mar 12,5,Kooyong 2,GPHC,No. 3,Jade Sheary,Vincent Jiang,Jade Sheary,6-0,6,0,1,0,Completed,true,false,false
+UA001051,04 Mar 12,5,Kooyong 2,GPHC,No. 4,Cindy Tamber,Lucy Loane,Cindy Tamber,6-3,6,3,1,0,Completed,true,false,false
+UA001053,04 Mar 12,5,Bodley Tennis Plus,Dendy Park 2,No. 1,Ben Gilliver,Chrisopher Rees-Jones,Ben Gilliver,6-4,6,4,1,0,Completed,true,false,false
+UA001053,04 Mar 12,5,Bodley Tennis Plus,Dendy Park 2,No. 2,James Serpell,Conor Boyd,Conor Boyd,4-6,4,6,0,1,Completed,true,false,false
+UA001053,04 Mar 12,5,Bodley Tennis Plus,Dendy Park 2,No. 3,Walt Scott,James Saunders,Walt Scott,6-2,6,2,1,0,Completed,true,false,false
+UA001053,04 Mar 12,5,Bodley Tennis Plus,Dendy Park 2,No. 4,Kane Frances,Andrew James,Kane Frances,6-3,6,3,1,0,Completed,true,false,false
+UA001061,18 Mar 12,6,Kooyong 1,Kooyong 2,No. 1,Scott Kaiser,Alex Bielinski,Alex Bielinski,6-7,6,7,0,1,Completed,true,false,false
+UA001061,18 Mar 12,6,Kooyong 1,Kooyong 2,No. 2,Harrison Young,Pierce Gilheany,Pierce Gilheany,0-6,0,6,0,1,Completed,true,false,false
+UA001061,18 Mar 12,6,Kooyong 1,Kooyong 2,No. 3,Ben Flaherty,Renee Sheary,Ben Flaherty,7-5,7,5,1,0,Completed,true,false,false
+UA001061,18 Mar 12,6,Kooyong 1,Kooyong 2,No. 4,Sam Liebelt,Jade Sheary,Sam Liebelt,6-3,6,3,1,0,Completed,true,false,false
+UA001062,18 Mar 12,6,GPHC,Dendy Park 1,No. 1,Henry McIntosh,Nick Jeffery,Nick Jeffery,2-6,2,6,0,1,Completed,true,false,false
+UA001062,18 Mar 12,6,GPHC,Dendy Park 1,No. 2,Bill Smith,Brenton Kos,Brenton Kos,0-6,0,6,0,1,Completed,true,false,false
+UA001062,18 Mar 12,6,GPHC,Dendy Park 1,No. 3,Ellie Capannolo,Michael Kiparoglou,Michael Kiparoglou,1-6,1,6,0,1,Completed,true,false,false
+UA001062,18 Mar 12,6,GPHC,Dendy Park 1,No. 4,Lucy Loane,Jarryd Wynne,Jarryd Wynne,0-6,0,6,0,1,Completed,true,false,false
+UA001063,18 Mar 12,6,Kooyong 3,Bodley Tennis Plus,No. 1,Jordan Swire,Ben Gilliver,Jordan Swire,6-0,6,0,1,0,Completed,true,false,false
+UA001063,18 Mar 12,6,Kooyong 3,Bodley Tennis Plus,No. 2,Harry Higgins,Damian Johns,Damian Johns,4-6,4,6,0,1,Completed,true,false,false
+UA001063,18 Mar 12,6,Kooyong 3,Bodley Tennis Plus,No. 3,Hugh Davenport,James Serpell,James Serpell,0-6,0,6,0,1,Completed,true,false,false
+UA001063,18 Mar 12,6,Kooyong 3,Bodley Tennis Plus,No. 4,Kipp Davenport,Walt Scott,Walt Scott,4-6,4,6,0,1,Completed,true,false,false
+UA001064,18 Mar 12,6,Dendy Park 2,Coatesville,No. 1,Conor Boyd,Callum Rankin,Callum Rankin,0-6,0,6,0,1,Completed,true,false,false
+UA001064,18 Mar 12,6,Dendy Park 2,Coatesville,No. 2,Adam Andrews,Damen Lawrence,Damen Lawrence,4-6,4,6,0,1,Completed,true,false,false
+UA001064,18 Mar 12,6,Dendy Park 2,Coatesville,No. 3,Luke Dubbeld,Joel Angelopoulos,Joel Angelopoulos,4-6,4,6,0,1,Completed,true,false,false
+UA001064,18 Mar 12,6,Dendy Park 2,Coatesville,No. 4,Andrew James,Justin Carew,Andrew James,6-0,6,0,1,0,Completed,true,false,false
+UA001071,25 Mar 12,7,Dendy Park 1,Kooyong 2,No. 1,Nick Jeffery,Alex Bielinski,Nick Jeffery,7-5,7,5,1,0,Completed,true,false,false
+UA001071,25 Mar 12,7,Dendy Park 1,Kooyong 2,No. 2,Brenton Kos,Pierce Gilheany,Brenton Kos,7-6,7,6,1,0,Completed,true,false,false
+UA001071,25 Mar 12,7,Dendy Park 1,Kooyong 2,No. 3,Jarryd Wynne,Renee Sheary,Renee Sheary,4-6,4,6,0,1,Completed,true,false,false
+UA001071,25 Mar 12,7,Dendy Park 1,Kooyong 2,No. 4,Jordan Tabakman,Cindy Tamber,Cindy Tamber,1-6,1,6,0,1,Completed,true,false,false
+UA001072,25 Mar 12,7,Kooyong 1,GPHC,No. 1,Harrison Young,Henry McIntosh,Harrison Young,6-1,6,1,1,0,Completed,true,false,false
+UA001072,25 Mar 12,7,Kooyong 1,GPHC,No. 2,Angus Stott,Vincent Jiang,Angus Stott,6-3,6,3,1,0,Completed,true,false,false
+UA001072,25 Mar 12,7,Kooyong 1,GPHC,No. 3,Sam Liebelt,Bill Smith,Sam Liebelt,6-3,6,3,1,0,Completed,true,false,false
+UA001072,25 Mar 12,7,Kooyong 1,GPHC,No. 4,Ed Daniel,Ellie Capannolo,Ed Daniel,6-1,6,1,1,0,Completed,true,false,false
+UA001073,25 Mar 12,7,Coatesville,Bodley Tennis Plus,No. 1,Callum Rankin,Alex Raveh,Alex Raveh,2-6,2,6,0,1,Completed,true,false,false
+UA001073,25 Mar 12,7,Coatesville,Bodley Tennis Plus,No. 2,Damen Lawrence,Ben Gilliver,Damen Lawrence,7-6,7,6,1,0,Completed,true,false,false
+UA001073,25 Mar 12,7,Coatesville,Bodley Tennis Plus,No. 3,Joel Angelopoulos,Walt Scott,Walt Scott,0-6,0,6,0,1,Completed,true,false,false
+UA001073,25 Mar 12,7,Coatesville,Bodley Tennis Plus,No. 4,Justin Carew,Trent Jones,Trent Jones,2-6,2,6,0,1,Completed,true,false,false
+UA001074,25 Mar 12,7,Kooyong 3,Dendy Park 2,No. 1,Jordan Swire,Chrisopher Rees-Jones,Jordan Swire,6-2,6,2,1,0,Completed,true,false,false
+UA001074,25 Mar 12,7,Kooyong 3,Dendy Park 2,No. 2,Harry Higgins,Adam Andrews,Harry Higgins,6-1,6,1,1,0,Completed,true,false,false
+UA001074,25 Mar 12,7,Kooyong 3,Dendy Park 2,No. 3,Hugh Davenport,Luke Dubbeld,Luke Dubbeld,6-7,6,7,0,1,Completed,true,false,false
+UA001074,25 Mar 12,7,Kooyong 3,Dendy Park 2,No. 4,Kipp Davenport,James Saunders,Kipp Davenport,6-0,6,0,1,0,Completed,true,false,false
+UA001081,22 Apr 12,8,Dendy Park 2,Dendy Park 1,No. 1,Chrisopher Rees-Jones,Nick Jeffery,Nick Jeffery,0-6,0,6,0,1,Completed,true,false,false
+UA001081,22 Apr 12,8,Dendy Park 2,Dendy Park 1,No. 2,Luke Dubbeld,Oliver Watts,Oliver Watts,0-6,0,6,0,1,Completed,true,false,false
+UA001081,22 Apr 12,8,Dendy Park 2,Dendy Park 1,No. 3,James Saunders,Michael Kiparoglou,Michael Kiparoglou,3-6,3,6,0,1,Completed,true,false,false
+UA001081,22 Apr 12,8,Dendy Park 2,Dendy Park 1,No. 4,Andrew James,Jarryd Wynne,Jarryd Wynne,0-6,0,6,0,1,Completed,true,false,false
+UA001082,22 Apr 12,8,Bodley Tennis Plus,Kooyong 1,No. 1,Ben Gilliver,Scott Kaiser,Scott Kaiser,0-6,0,6,0,1,Completed,true,false,false
+UA001082,22 Apr 12,8,Bodley Tennis Plus,Kooyong 1,No. 2,Damian Johns,Sebastion Loader-Oliver,Sebastion Loader-Oliver,4-6,4,6,0,1,Completed,true,false,false
+UA001082,22 Apr 12,8,Bodley Tennis Plus,Kooyong 1,No. 3,James Serpell,Ben Flaherty,Ben Flaherty,0-6,0,6,0,1,Completed,true,false,false
+UA001082,22 Apr 12,8,Bodley Tennis Plus,Kooyong 1,No. 4,Walt Scott,Sam Liebelt,Walt Scott,6-0,6,0,1,0,Completed,true,false,false
+UA001083,22 Apr 12,8,Kooyong 3,Kooyong 2,No. 1,Michael Commings,Alex Bielinski,Michael Commings,6-1,6,1,1,0,Completed,true,false,false
+UA001083,22 Apr 12,8,Kooyong 3,Kooyong 2,No. 2,Jordan Swire,Pierce Gilheany,Jordan Swire,6-1,6,1,1,0,Completed,true,false,false
+UA001083,22 Apr 12,8,Kooyong 3,Kooyong 2,No. 3,Hugh Davenport,Blake Crouch,Blake Crouch,1-6,1,6,0,1,Completed,true,false,false
+UA001083,22 Apr 12,8,Kooyong 3,Kooyong 2,No. 4,James Anderson,Cindy Tamber,Cindy Tamber,3-6,3,6,0,1,Completed,true,false,false
+UA001084,22 Apr 12,8,Coatesville,GPHC,No. 1,Callum Rankin,Henry McIntosh,Callum Rankin,6-0,6,0,1,0,Completed,true,false,false
+UA001084,22 Apr 12,8,Coatesville,GPHC,No. 2,Damen Lawrence,Vincent Jiang,Vincent Jiang,4-6,4,6,0,1,Completed,true,false,false
+UA001084,22 Apr 12,8,Coatesville,GPHC,No. 3,Joel Angelopoulos,Bill Smith,Joel Angelopoulos,6-0,6,0,1,0,Completed,true,false,false
+UA001084,22 Apr 12,8,Coatesville,GPHC,No. 4,Justin Carew,Ellie Capannolo,Justin Carew,6-3,6,3,1,0,Completed,true,false,false
+UA001091,29 Apr 12,9,Dendy Park 1,Coatesville,No. 1,Oliver Watts,Callum Rankin,Oliver Watts,6-1,6,1,1,0,Completed,true,false,false
+UA001091,29 Apr 12,9,Dendy Park 1,Coatesville,No. 2,Brenton Kos,[Unnamed player — TROLS UA001091 away code 2],Brenton Kos,6-0,6,0,1,0,Completed,false,false,false
+UA001091,29 Apr 12,9,Dendy Park 1,Coatesville,No. 3,Michael Kiparoglou,Justin Carew,Michael Kiparoglou,6-3,6,3,1,0,Completed,true,false,false
+UA001091,29 Apr 12,9,Dendy Park 1,Coatesville,No. 4,Jarryd Wynne,Chris Rokkinos,Jarryd Wynne,6-2,6,2,1,0,Completed,true,false,false
+UA001092,29 Apr 12,9,Kooyong 1,Dendy Park 2,No. 1,Scott Kaiser,Conor Boyd,Scott Kaiser,6-1,6,1,1,0,Completed,true,false,false
+UA001092,29 Apr 12,9,Kooyong 1,Dendy Park 2,No. 2,Sebastion Loader-Oliver,Adam Andrews,Sebastion Loader-Oliver,6-1,6,1,1,0,Completed,true,false,false
+UA001092,29 Apr 12,9,Kooyong 1,Dendy Park 2,No. 3,Angus Stott,Andrew James,Angus Stott,6-2,6,2,1,0,Completed,true,false,false
+UA001092,29 Apr 12,9,Kooyong 1,Dendy Park 2,No. 4,Ben Flaherty,James Saunders,Ben Flaherty,6-0,6,0,1,0,Completed,true,false,false
+UA001093,29 Apr 12,9,Kooyong 2,Bodley Tennis Plus,No. 1,Alex Bielinski,Ben Gilliver,Alex Bielinski,6-4,6,4,1,0,Completed,true,false,false
+UA001093,29 Apr 12,9,Kooyong 2,Bodley Tennis Plus,No. 2,Blake Crouch,Damian Johns,Blake Crouch,6-4,6,4,1,0,Completed,true,false,false
+UA001093,29 Apr 12,9,Kooyong 2,Bodley Tennis Plus,No. 3,Jade Sheary,James Serpell,Jade Sheary,6-4,6,4,1,0,Completed,true,false,false
+UA001093,29 Apr 12,9,Kooyong 2,Bodley Tennis Plus,No. 4,Cindy Tamber,Walt Scott,Walt Scott,0-6,0,6,0,1,Completed,true,false,false
+UA001094,29 Apr 12,9,GPHC,Kooyong 3,No. 1,Henry McIntosh,Jordan Swire,Jordan Swire,2-6,2,6,0,1,Completed,true,false,false
+UA001094,29 Apr 12,9,GPHC,Kooyong 3,No. 2,Bill Smith,Harry Higgins,Harry Higgins,2-6,2,6,0,1,Completed,true,false,false
+UA001094,29 Apr 12,9,GPHC,Kooyong 3,No. 3,Lucy Loane,Hugh Davenport,Hugh Davenport,1-6,1,6,0,1,Completed,true,false,false
+UA001094,29 Apr 12,9,GPHC,Kooyong 3,No. 4,Ellie Capannolo,Sam Liebelt,Ellie Capannolo,6-0,6,0,1,0,Completed,true,false,true
+UA001101,06 May 12,10,Kooyong 3,Dendy Park 1,No. 1,Jordan Swire,Nick Jeffery,Nick Jeffery,3-6,3,6,0,1,Completed,true,false,false
+UA001101,06 May 12,10,Kooyong 3,Dendy Park 1,No. 2,Harry Higgins,Brenton Kos,Brenton Kos,2-6,2,6,0,1,Completed,true,false,false
+UA001101,06 May 12,10,Kooyong 3,Dendy Park 1,No. 3,Hugh Davenport,Michael Kiparoglou,Michael Kiparoglou,0-6,0,6,0,1,Completed,true,false,false
+UA001101,06 May 12,10,Kooyong 3,Dendy Park 1,No. 4,Alexandra Bailey,Alex Bulmaga,Alex Bulmaga,5-7,5,7,0,1,Completed,true,false,false
+UA001102,06 May 12,10,Coatesville,Kooyong 1,No. 1,Callum Rankin,Harrison Young,Callum Rankin,6-2,6,2,1,0,Completed,true,false,false
+UA001102,06 May 12,10,Coatesville,Kooyong 1,No. 2,Joel Angelopoulos,Sebastion Loader-Oliver,Joel Angelopoulos,6-3,6,3,1,0,Completed,true,false,false
+UA001102,06 May 12,10,Coatesville,Kooyong 1,No. 3,Justin Carew,Angus Stott,Justin Carew,6-1,6,1,1,0,Completed,true,false,false
+UA001102,06 May 12,10,Coatesville,Kooyong 1,No. 4,Andrew Chen,Ben Flaherty,Ben Flaherty,2-6,2,6,0,1,Completed,true,false,false
+UA001103,06 May 12,10,Dendy Park 2,Kooyong 2,No. 1,Chrisopher Rees-Jones,Pierce Gilheany,Pierce Gilheany,2-6,2,6,0,1,Completed,true,false,false
+UA001103,06 May 12,10,Dendy Park 2,Kooyong 2,No. 2,Conor Boyd,Blake Crouch,Blake Crouch,3-6,3,6,0,1,Completed,true,false,false
+UA001103,06 May 12,10,Dendy Park 2,Kooyong 2,No. 3,Adam Andrews,Renee Sheary,Renee Sheary,4-6,4,6,0,1,Completed,true,false,false
+UA001103,06 May 12,10,Dendy Park 2,Kooyong 2,No. 4,Luke Dubbeld,Jade Sheary,Jade Sheary,1-6,1,6,0,1,Completed,true,false,false
+UA001104,06 May 12,10,Bodley Tennis Plus,GPHC,No. 1,Ben Gilliver,Henry McIntosh,Ben Gilliver,6-4,6,4,1,0,Completed,true,false,false
+UA001104,06 May 12,10,Bodley Tennis Plus,GPHC,No. 2,Damian Johns,Vincent Jiang,Damian Johns,6-4,6,4,1,0,Completed,true,false,false
+UA001104,06 May 12,10,Bodley Tennis Plus,GPHC,No. 3,James Serpell,Bill Smith,Bill Smith,4-6,4,6,0,1,Completed,true,false,false
+UA001104,06 May 12,10,Bodley Tennis Plus,GPHC,No. 4,Walt Scott,Ellie Capannolo,Walt Scott,6-1,6,1,1,0,Completed,true,false,false
+UA001121,20 May 12,12,GPHC,Kooyong 2,No. 1,Jack McIntosh,Alex Bielinski,Alex Bielinski,1-6,1,6,0,1,Completed,true,false,false
+UA001121,20 May 12,12,GPHC,Kooyong 2,No. 2,Vincent Jiang,Blake Crouch,Blake Crouch,1-6,1,6,0,1,Completed,true,false,false
+UA001121,20 May 12,12,GPHC,Kooyong 2,No. 3,Bill Smith,Renee Sheary,Renee Sheary,0-6,0,6,0,1,Completed,true,false,false
+UA001121,20 May 12,12,GPHC,Kooyong 2,No. 4,Lucy Loane,Jade Sheary,Jade Sheary,2-6,2,6,0,1,Completed,true,false,false
+UA001122,20 May 12,12,Kooyong 3,Coatesville,No. 1,Jordan Swire,Fikret Suleiman,Fikret Suleiman,3-6,3,6,0,1,Completed,true,false,false
+UA001122,20 May 12,12,Kooyong 3,Coatesville,No. 2,Harry Higgins,Joel Angelopoulos,Harry Higgins,7-5,7,5,1,0,Completed,true,false,false
+UA001122,20 May 12,12,Kooyong 3,Coatesville,No. 3,Hugh Davenport,Justin Carew,Justin Carew,3-6,3,6,0,1,Completed,true,false,false
+UA001122,20 May 12,12,Kooyong 3,Coatesville,No. 4,James McLaren,Chris Rokkinos,James McLaren,6-0,6,0,1,0,Completed,true,false,false
+UA001123,20 May 12,12,Dendy Park 2,Bodley Tennis Plus,No. 1,Stefan Woolley,Ben Gilliver,Stefan Woolley,6-3,6,3,1,0,Completed,true,false,false
+UA001123,20 May 12,12,Dendy Park 2,Bodley Tennis Plus,No. 2,Luke Dubbeld,Damian Johns,Damian Johns,3-6,3,6,0,1,Completed,true,false,false
+UA001123,20 May 12,12,Dendy Park 2,Bodley Tennis Plus,No. 3,James Saunders,James Serpell,James Serpell,2-6,2,6,0,1,Completed,true,false,false
+UA001123,20 May 12,12,Dendy Park 2,Bodley Tennis Plus,No. 4,Andrew James,Walt Scott,Walt Scott,2-6,2,6,0,1,Completed,true,false,false
+UA001124,20 May 12,12,Kooyong 1,Dendy Park 1,No. 1,Scott Kaiser,Nick Jeffery,Scott Kaiser,6-4,6,4,1,0,Completed,true,false,false
+UA001124,20 May 12,12,Kooyong 1,Dendy Park 1,No. 2,Harrison Young,Brenton Kos,Brenton Kos,2-6,2,6,0,1,Completed,true,false,false
+UA001124,20 May 12,12,Kooyong 1,Dendy Park 1,No. 3,Sebastion Loader-Oliver,Michael Kiparoglou,Sebastion Loader-Oliver,6-3,6,3,1,0,Completed,true,false,false
+UA001124,20 May 12,12,Kooyong 1,Dendy Park 1,No. 4,Angus Stott,Angela Jeffery,Angus Stott,6-1,6,1,1,0,Completed,true,false,false
+UA001131,27 May 12,13,Kooyong 2,Kooyong 1,No. 1,Alex Bielinski,Harrison Young,Alex Bielinski,6-4,6,4,1,0,Completed,true,false,false
+UA001131,27 May 12,13,Kooyong 2,Kooyong 1,No. 2,Blake Crouch,Angus Stott,Blake Crouch,6-3,6,3,1,0,Completed,true,false,false
+UA001131,27 May 12,13,Kooyong 2,Kooyong 1,No. 3,Renee Sheary,Sam Liebelt,Sam Liebelt,3-6,3,6,0,1,Completed,true,false,false
+UA001131,27 May 12,13,Kooyong 2,Kooyong 1,No. 4,Jade Sheary,Sebastion Loader-Oliver,Jade Sheary,6-0,6,0,1,0,Completed,true,false,false
+UA001132,27 May 12,13,Dendy Park 1,GPHC,No. 1,Nick Jeffery,Vincent Jiang,Nick Jeffery,6-0,6,0,1,0,Completed,true,false,false
+UA001132,27 May 12,13,Dendy Park 1,GPHC,No. 2,Oliver Watts,Bill Smith,Oliver Watts,6-0,6,0,1,0,Completed,true,false,false
+UA001132,27 May 12,13,Dendy Park 1,GPHC,No. 3,Brenton Kos,Lucy Loane,Brenton Kos,6-0,6,0,1,0,Completed,true,false,false
+UA001132,27 May 12,13,Dendy Park 1,GPHC,No. 4,Michael Kiparoglou,Sasha Keena,Michael Kiparoglou,6-1,6,1,1,0,Completed,true,false,false
+UA001133,27 May 12,13,Bodley Tennis Plus,Kooyong 3,No. 1,Ben Gilliver,Michael Commings,Michael Commings,0-6,0,6,0,1,Completed,true,false,false
+UA001133,27 May 12,13,Bodley Tennis Plus,Kooyong 3,No. 2,Damian Johns,Jordan Swire,Jordan Swire,0-6,0,6,0,1,Completed,true,false,false
+UA001133,27 May 12,13,Bodley Tennis Plus,Kooyong 3,No. 3,James Serpell,Harry Higgins,Harry Higgins,4-6,4,6,0,1,Completed,true,false,false
+UA001133,27 May 12,13,Bodley Tennis Plus,Kooyong 3,No. 4,Walt Scott,Hugh Davenport,Walt Scott,6-1,6,1,1,0,Completed,true,false,false
+UA001134,27 May 12,13,Coatesville,Dendy Park 2,No. 1,Callum Rankin,Chrisopher Rees-Jones,Callum Rankin,6-0,6,0,1,0,Completed,true,false,false
+UA001134,27 May 12,13,Coatesville,Dendy Park 2,No. 2,Conner Wilson,Adam Andrews,Conner Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA001134,27 May 12,13,Coatesville,Dendy Park 2,No. 3,Joel Angelopoulos,Luke Dubbeld,Joel Angelopoulos,6-3,6,3,1,0,Completed,true,false,false
+UA001134,27 May 12,13,Coatesville,Dendy Park 2,No. 4,Justin Carew,Conor Boyd,Justin Carew,6-0,6,0,1,0,Completed,true,false,false
+UA001141,03 Jun 12,14,Kooyong 2,Dendy Park 1,No. 1,Pierce Gilheany,Nick Jeffery,Nick Jeffery,5-7,5,7,0,1,Completed,true,false,false
+UA001141,03 Jun 12,14,Kooyong 2,Dendy Park 1,No. 2,Blake Crouch,Brenton Kos,Blake Crouch,6-3,6,3,1,0,Completed,true,false,false
+UA001141,03 Jun 12,14,Kooyong 2,Dendy Park 1,No. 3,Renee Sheary,Michael Kiparoglou,Renee Sheary,6-4,6,4,1,0,Completed,true,false,false
+UA001141,03 Jun 12,14,Kooyong 2,Dendy Park 1,No. 4,Cindy Tamber,Alex Bulmaga,Alex Bulmaga,3-6,3,6,0,1,Completed,true,false,false
+UA001142,03 Jun 12,14,GPHC,Kooyong 1,No. 1,Vincent Jiang,Harrison Young,Harrison Young,1-6,1,6,0,1,Completed,true,false,false
+UA001142,03 Jun 12,14,GPHC,Kooyong 1,No. 2,Lucy Loane,Angus Stott,Angus Stott,0-6,0,6,0,1,Completed,true,false,false
+UA001142,03 Jun 12,14,GPHC,Kooyong 1,No. 3,Zara Parker,Ben Flaherty,Ben Flaherty,3-6,3,6,0,1,Completed,true,false,false
+UA001142,03 Jun 12,14,GPHC,Kooyong 1,No. 4,Sasha Keena,Sam Liebelt,Sam Liebelt,0-6,0,6,0,1,Completed,true,false,false
+UA001143,03 Jun 12,14,Bodley Tennis Plus,Coatesville,No. 1,Ben Gilliver,Callum Rankin,Callum Rankin,4-6,4,6,0,1,Completed,true,false,false
+UA001143,03 Jun 12,14,Bodley Tennis Plus,Coatesville,No. 2,James Serpell,Damen Lawrence,Damen Lawrence,4-6,4,6,0,1,Completed,true,false,false
+UA001143,03 Jun 12,14,Bodley Tennis Plus,Coatesville,No. 3,Walt Scott,Joel Angelopoulos,Walt Scott,6-1,6,1,1,0,Completed,true,false,false
+UA001143,03 Jun 12,14,Bodley Tennis Plus,Coatesville,No. 4,Trent Jones,Justin Carew,Trent Jones,6-3,6,3,1,0,Completed,true,false,false
+UA001144,03 Jun 12,14,Dendy Park 2,Kooyong 3,No. 1,Chrisopher Rees-Jones,Michael Commings,Michael Commings,0-6,0,6,0,1,Completed,true,false,false
+UA001144,03 Jun 12,14,Dendy Park 2,Kooyong 3,No. 2,Adam Andrews,Jordan Swire,Jordan Swire,1-6,1,6,0,1,Completed,true,false,false
+UA001144,03 Jun 12,14,Dendy Park 2,Kooyong 3,No. 3,James Saunders,Harry Higgins,Harry Higgins,0-6,0,6,0,1,Completed,true,false,false
+UA001144,03 Jun 12,14,Dendy Park 2,Kooyong 3,No. 4,Andrew James,Hugh Davenport,Andrew James,6-2,6,2,1,0,Completed,true,false,false
+UA001301,,16,Kooyong 2,Dendy Park 1,No. 1,Pierce Gilheany,Nick Jeffery,Nick Jeffery,3-6,3,6,0,1,Completed,true,false,false
+UA001301,,16,Kooyong 2,Dendy Park 1,No. 2,Blake Crouch,Oliver Watts,Oliver Watts,0-6,0,6,0,1,Completed,true,false,false
+UA001301,,16,Kooyong 2,Dendy Park 1,No. 3,Renee Sheary,Brenton Kos,Brenton Kos,1-6,1,6,0,1,Completed,true,false,false
+UA001301,,16,Kooyong 2,Dendy Park 1,No. 4,Jade Sheary,Michael Kiparoglou,Jade Sheary,6-2,6,2,1,0,Completed,true,false,false
+UA001302,,16,Kooyong 1,Bodley Tennis Plus,No. 1,Harrison Young,Ben Gilliver,Harrison Young,6-3,6,3,1,0,Completed,true,false,false
+UA001302,,16,Kooyong 1,Bodley Tennis Plus,No. 2,Angus Stott,Damian Johns,Angus Stott,7-5,7,5,1,0,Completed,true,false,false
+UA001302,,16,Kooyong 1,Bodley Tennis Plus,No. 3,Ben Flaherty,James Serpell,Ben Flaherty,6-2,6,2,1,0,Completed,true,false,false
+UA001302,,16,Kooyong 1,Bodley Tennis Plus,No. 4,Sam Liebelt,Walt Scott,Walt Scott,3-6,3,6,0,1,Completed,true,false,false
+UA001321,,17,Kooyong 1,Dendy Park 1,No. 1,Harrison Young,Nick Jeffery,Nick Jeffery,4-6,4,6,0,1,Completed,true,false,false
+UA001321,,17,Kooyong 1,Dendy Park 1,No. 2,Sebastion Loader-Oliver,Oliver Watts,Oliver Watts,0-6,0,6,0,1,Completed,true,false,true
+UA001321,,17,Kooyong 1,Dendy Park 1,No. 3,Ben Flaherty,Brenton Kos,Brenton Kos,1-6,1,6,0,1,Completed,true,false,false
+UA001321,,17,Kooyong 1,Dendy Park 1,No. 4,Sam Liebelt,Jarryd Wynne,Jarryd Wynne,2-6,2,6,0,1,Completed,true,false,false

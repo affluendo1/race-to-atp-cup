@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA35-UA003",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2024",
+  "season_id": "UA35",
+  "season_label": "Spring 2024",
+  "source_section_code": "UA003",
+  "section_label": "Section 3",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Royal South Yarra",
+      "wins": 10,
+      "points": 92,
+      "percentage": 122.53,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Kings Park",
+      "wins": 8,
+      "points": 88.5,
+      "percentage": 124.01,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Le Page Green",
+      "wins": 9,
+      "points": 81,
+      "percentage": 104.17,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 6,
+      "points": 65,
+      "percentage": 97.44,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Hurlingham Park Blue",
+      "wins": 5,
+      "points": 64.5,
+      "percentage": 92.07,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Le Page Blue",
+      "wins": 5,
+      "points": 63,
+      "percentage": 97.44,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 4,
+      "points": 54,
+      "percentage": 85.31,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong",
+      "wins": 4,
+      "points": 52,
+      "percentage": 82.12,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA35-UA003",
+  "fixtures": 59,
+  "completed_fixtures": 56,
+  "draw_fixtures": 45,
+  "singles_rubbers": 221,
+  "doubles_rubbers": 112,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

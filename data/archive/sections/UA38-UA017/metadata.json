@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA38-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2026",
+  "season_id": "UA38",
+  "season_label": "Autumn 2026",
+  "source_section_code": "UA017",
+  "section_label": "Sets 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Parkdale",
+      "wins": 9,
+      "points": 84,
+      "percentage": 113.67,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "St Pats Mentone",
+      "wins": 7,
+      "points": 80,
+      "percentage": 120.89,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Highmoor Uniting",
+      "wins": 6,
+      "points": 79,
+      "percentage": 107.25,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "St Joan of Arc",
+      "wins": 5,
+      "points": 74.5,
+      "percentage": 113.1,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal South Yarra",
+      "wins": 7,
+      "points": 74.5,
+      "percentage": 112.83,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Le Page Green",
+      "wins": 6,
+      "points": 72,
+      "percentage": 100.92,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kings Park",
+      "wins": 5,
+      "points": 67,
+      "percentage": 100.0,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Le Page Blue",
+      "wins": 1,
+      "points": 29,
+      "percentage": 47.09,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA38-UA017",
+  "fixtures": 59,
+  "completed_fixtures": 50,
+  "draw_fixtures": 45,
+  "singles_rubbers": 199,
+  "doubles_rubbers": 100,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

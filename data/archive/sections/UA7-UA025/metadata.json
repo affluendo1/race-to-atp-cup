@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA7-UA025",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2010",
+  "season_id": "UA7",
+  "season_label": "Spring 2010",
+  "source_section_code": "UA025",
+  "section_label": "Section 6",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Black Rock",
+      "wins": 0,
+      "points": 109.5,
+      "percentage": 156.03,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Hampton",
+      "wins": 0,
+      "points": 71,
+      "percentage": 102.73,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Lauriston",
+      "wins": 0,
+      "points": 70,
+      "percentage": 107.37,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Mordialloc",
+      "wins": 0,
+      "points": 69,
+      "percentage": 98.39,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC 1",
+      "wins": 0,
+      "points": 66,
+      "percentage": 95.93,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC 2",
+      "wins": 0,
+      "points": 66,
+      "percentage": 90.86,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 65.5,
+      "percentage": 94.86,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong Scotch",
+      "wins": 0,
+      "points": 43,
+      "percentage": 70.13,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA7-UA025",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 45,
+  "singles_rubbers": 209,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,91 @@
+{
+  "asset_id": "AA55-AA009",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Autumn 2026",
+  "season_id": "AA55",
+  "season_label": "Autumn 2026",
+  "source_section_code": "AA009",
+  "section_label": "Sets 8",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Coatesville Blue",
+      "wins": 9,
+      "points": 90,
+      "percentage": 135.6,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Mentone Yellow",
+      "wins": 8,
+      "points": 80,
+      "percentage": 114.62,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Ormond",
+      "wins": 8,
+      "points": 79,
+      "percentage": 116.36,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Mentone Green",
+      "wins": 6,
+      "points": 69,
+      "percentage": 108.3,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Carmelite",
+      "wins": 5,
+      "points": 63,
+      "percentage": 108.28,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Maccabi",
+      "wins": 4,
+      "points": 58,
+      "percentage": 96.23,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Chelsea Heights",
+      "wins": 4,
+      "points": 52,
+      "percentage": 98.97,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Coatesville Red",
+      "wins": 2,
+      "points": 29,
+      "percentage": 47.01,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA55-AA009",
+  "fixtures": 55,
+  "completed_fixtures": 49,
+  "draw_fixtures": 45,
+  "singles_rubbers": 196,
+  "doubles_rubbers": 98,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

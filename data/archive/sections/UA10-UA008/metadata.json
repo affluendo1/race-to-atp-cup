@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA10-UA008",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2012",
+  "season_id": "UA10",
+  "season_label": "Autumn 2012",
+  "source_section_code": "UA008",
+  "section_label": "Section 8",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Glen Eira Brook",
+      "wins": 10,
+      "points": 106,
+      "percentage": 177.06,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Dendy Park 2",
+      "wins": 11,
+      "points": 105,
+      "percentage": 164.14,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 10,
+      "points": 99,
+      "percentage": 131.06,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Tennis World",
+      "wins": 7,
+      "points": 71,
+      "percentage": 102.75,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Beaumaris CC",
+      "wins": 6,
+      "points": 64,
+      "percentage": 87.69,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park 1",
+      "wins": 3,
+      "points": 55,
+      "percentage": 93.75,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong St Kevin's",
+      "wins": 3,
+      "points": 43,
+      "percentage": 60.0,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Mordialloc",
+      "wins": 0,
+      "points": 17,
+      "percentage": 46.08,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA10-UA008",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 210,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

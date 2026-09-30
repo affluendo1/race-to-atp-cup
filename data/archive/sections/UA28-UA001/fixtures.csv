@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA001011,31 Jan 21,1,regular,Round 1,Elsternwick Park,Royal South Yarra,8,2,4,2,,,28,25,Completed,
+UA001012,31 Jan 21,1,regular,Round 1,Royal Ave,BLTC,0,10,0,6,,,9,36,Completed,
+UA001013,31 Jan 21,1,regular,Round 1,Tennis World,Dendy Park 1,8,2,4,2,,,32,21,Completed,
+UA001014,31 Jan 21,1,regular,Round 1,Dendy Park 2,GPHC,3,7,3,3,,,19,28,Completed,
+UA001023,07 Feb 21,2,regular,Round 2,BLTC,Tennis World,2,8,2,4,,,25,30,Completed,
+UA001024,07 Feb 21,2,regular,Round 2,Dendy Park 1,Dendy Park 2,9,1,5,1,,,34,19,Completed,
+pending-ua001-r2-gphc-elsternwick-park,07 Feb 21,2,regular,Round 2,GPHC,Elsternwick Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r2-royal-south-yarra-royal-ave,07 Feb 21,2,regular,Round 2,Royal South Yarra,Royal Ave,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r3-dendy-park-2-bltc,14 Feb 21,3,regular,Round 3,Dendy Park 2,BLTC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r3-elsternwick-park-dendy-park-1,14 Feb 21,3,regular,Round 3,Elsternwick Park,Dendy Park 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r3-royal-ave-gphc,14 Feb 21,3,regular,Round 3,Royal Ave,GPHC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r3-tennis-world-royal-south-yarra,14 Feb 21,3,regular,Round 3,Tennis World,Royal South Yarra,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA001041,21 Feb 21,4,regular,Round 4,BLTC,Elsternwick Park,8,2,4,2,,,30,16,Completed,
+UA001042,21 Feb 21,4,regular,Round 4,Dendy Park 1,Royal Ave,8,2,4,2,,,32,24,Completed,
+UA001043,21 Feb 21,4,regular,Round 4,GPHC,Tennis World,2,8,2,4,,,21,30,Completed,
+UA001044,21 Feb 21,4,regular,Round 4,Royal South Yarra,Dendy Park 2,2,8,2,4,,,26,32,Completed,
+UA001051,28 Feb 21,5,regular,Round 5,Tennis World,Dendy Park 2,9,1,5,1,,,31,17,Completed,
+UA001052,28 Feb 21,5,regular,Round 5,GPHC,Dendy Park 1,7,3,3,3,,,33,30,Completed,
+UA001053,28 Feb 21,5,regular,Round 5,BLTC,Royal South Yarra,8,2,4,2,,,29,21,Completed,
+UA001054,28 Feb 21,5,regular,Round 5,Elsternwick Park,Royal Ave,10,0,6,0,,,36,7,Completed,
+UA001061,14 Mar 21,6,regular,Round 6,Royal Ave,Tennis World,2,8,2,4,,,19,29,Completed,
+UA001064,14 Mar 21,6,regular,Round 6,Royal South Yarra,GPHC,2,8,2,4,,,27,31,Completed,
+pending-ua001-r6-dendy-park-1-bltc,14 Mar 21,6,regular,Round 6,Dendy Park 1,BLTC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r6-dendy-park-2-elsternwick-park,14 Mar 21,6,regular,Round 6,Dendy Park 2,Elsternwick Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA001071,21 Mar 21,7,regular,Round 7,Elsternwick Park,Tennis World,1,9,1,5,,,23,34,Completed,
+UA001072,21 Mar 21,7,regular,Round 7,Royal Ave,Dendy Park 2,1,9,1,5,,,27,34,Completed,
+UA001074,21 Mar 21,7,regular,Round 7,Dendy Park 1,Royal South Yarra,7,3,3,3,,,29,22,Completed,
+pending-ua001-r7-gphc-bltc,21 Mar 21,7,regular,Round 7,GPHC,BLTC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA001081,28 Mar 21,8,regular,Round 8,Royal South Yarra,Elsternwick Park,2,8,2,4,,,18,28,Completed,
+UA001082,28 Mar 21,8,regular,Round 8,BLTC,Royal Ave,8,2,4,2,,,30,22,Completed,
+UA001083,28 Mar 21,8,regular,Round 8,Dendy Park 1,Tennis World,7,3,3,3,,,29,27,Completed,
+UA001084,28 Mar 21,8,regular,Round 8,GPHC,Dendy Park 2,8,2,4,2,,,33,25,Completed,
+UA001091,02 May 21,9,regular,Round 9,Elsternwick Park,GPHC,8,2,4,2,,,36,29,Completed,
+UA001092,02 May 21,9,regular,Round 9,Royal Ave,Royal South Yarra,8,2,4,2,,,30,23,Completed,
+UA001093,02 May 21,9,regular,Round 9,Tennis World,BLTC,9,1,5,1,,,35,14,Completed,
+UA001094,02 May 21,9,regular,Round 9,Dendy Park 2,Dendy Park 1,1,9,1,5,,,20,35,Completed,
+UA001101,09 May 21,10,regular,Round 10,Dendy Park 1,Elsternwick Park,7,3,3,3,,,27,23,Completed,
+UA001102,09 May 21,10,regular,Round 10,GPHC,Royal Ave,7,3,3,3,,,28,24,Completed,
+UA001103,09 May 21,10,regular,Round 10,Royal South Yarra,Tennis World,1,9,1,5,,,22,33,Completed,
+UA001104,09 May 21,10,regular,Round 10,BLTC,Dendy Park 2,9,1,5,1,,,33,15,Completed,
+UA001111,16 May 21,11,regular,Round 11,Elsternwick Park,BLTC,3,7,3,3,,,24,25,Completed,
+UA001112,16 May 21,11,regular,Round 11,Royal Ave,Dendy Park 1,3,7,3,3,,,25,27,Completed,
+UA001113,16 May 21,11,regular,Round 11,Tennis World,GPHC,9,1,5,1,,,38,23,Completed,
+UA001114,16 May 21,11,regular,Round 11,Dendy Park 2,Royal South Yarra,2,8,2,4,,,25,33,Completed,
+UA001121,23 May 21,12,regular,Round 12,Dendy Park 2,Tennis World,1,9,1,5,,,17,34,Completed,
+UA001122,23 May 21,12,regular,Round 12,Dendy Park 1,GPHC,9,1,5,1,,,34,26,Completed,
+UA001123,23 May 21,12,regular,Round 12,Royal South Yarra,BLTC,2,8,2,4,,,17,31,Completed,
+UA001124,23 May 21,12,regular,Round 12,Royal Ave,Elsternwick Park,2,8,2,4,,,20,33,Completed,
+pending-ua001-r13-bltc-dendy-park-1,30 May 21,13,regular,Round 13,BLTC,Dendy Park 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r13-elsternwick-park-dendy-park-2,30 May 21,13,regular,Round 13,Elsternwick Park,Dendy Park 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r13-gphc-royal-south-yarra,30 May 21,13,regular,Round 13,GPHC,Royal South Yarra,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r13-tennis-world-royal-ave,30 May 21,13,regular,Round 13,Tennis World,Royal Ave,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA001301,,16,semi_final,Semi-final,Tennis World,Elsternwick Park,8,2,4,2,,,28,30,Completed,
+UA001302,,16,semi_final,Semi-final,Dendy Park 1,BLTC,2.5,7.5,2,3,,,20,27,Completed,
+UA001321,,17,grand_final,Grand final · TROLS entry 2,Tennis World,BLTC,3,7,3,3,,,24,27,Completed,

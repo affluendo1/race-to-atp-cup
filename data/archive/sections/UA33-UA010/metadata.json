@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA33-UA010",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2023",
+  "season_id": "UA33",
+  "season_label": "Spring 2023",
+  "source_section_code": "UA010",
+  "section_label": "Section 10",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Lauriston",
+      "wins": 10,
+      "points": 90,
+      "percentage": 151.17,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Royal Ave Green",
+      "wins": 8,
+      "points": 78,
+      "percentage": 125.45,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Royal Ave Purple",
+      "wins": 8,
+      "points": 72,
+      "percentage": 106.94,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Hurlingham Park",
+      "wins": 7,
+      "points": 67,
+      "percentage": 105.31,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Maccabi Moorleigh",
+      "wins": 2,
+      "points": 46,
+      "percentage": 93.75,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong",
+      "wins": 3,
+      "points": 36,
+      "percentage": 70.92,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Black Rock",
+      "wins": 1,
+      "points": 30,
+      "percentage": 71.43,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA33-UA010",
+  "fixtures": 59,
+  "completed_fixtures": 42,
+  "draw_fixtures": 59,
+  "singles_rubbers": 167,
+  "doubles_rubbers": 84,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

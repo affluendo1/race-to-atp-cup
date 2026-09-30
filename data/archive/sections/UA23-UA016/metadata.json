@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA23-UA016",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2018",
+  "season_id": "UA23",
+  "season_label": "Spring 2018",
+  "source_section_code": "UA016",
+  "section_label": "Section 16",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Bentleigh Rec",
+      "wins": 12,
+      "points": 117,
+      "percentage": 211.94,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 10,
+      "points": 104,
+      "percentage": 154.35,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "BLTC",
+      "wins": 9,
+      "points": 93,
+      "percentage": 139.55,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Black Rock 1",
+      "wins": 5,
+      "points": 62,
+      "percentage": 93.44,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Black Rock 2",
+      "wins": 3,
+      "points": 58,
+      "percentage": 93.07,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Port Melbourne",
+      "wins": 5,
+      "points": 50,
+      "percentage": 71.65,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong St Kevin's",
+      "wins": 0,
+      "points": 38,
+      "percentage": 61.02,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Parkdale",
+      "wins": 3,
+      "points": 38,
+      "percentage": 53.91,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA23-UA016",
+  "fixtures": 59,
+  "completed_fixtures": 51,
+  "draw_fixtures": 59,
+  "singles_rubbers": 204,
+  "doubles_rubbers": 102,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA11-UA016",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2012",
+  "season_id": "UA11",
+  "season_label": "Spring 2012",
+  "source_section_code": "UA016",
+  "section_label": "Section 16",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Mentone",
+      "wins": 11,
+      "points": 107,
+      "percentage": 240.51,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "St Andrews MB",
+      "wins": 7,
+      "points": 73,
+      "percentage": 121.85,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Tennis World 1",
+      "wins": 7,
+      "points": 68,
+      "percentage": 112.54,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Glen Eira Beech",
+      "wins": 7,
+      "points": 68,
+      "percentage": 110.51,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "Royal Ave",
+      "wins": 4,
+      "points": 49,
+      "percentage": 87.25,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Coatesville",
+      "wins": 2,
+      "points": 34,
+      "percentage": 66.97,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Tennis World 2",
+      "wins": 1,
+      "points": 21,
+      "percentage": 44.88,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA11-UA016",
+  "fixtures": 59,
+  "completed_fixtures": 42,
+  "draw_fixtures": 59,
+  "singles_rubbers": 168,
+  "doubles_rubbers": 84,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

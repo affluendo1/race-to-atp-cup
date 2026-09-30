@@ -1,0 +1,85 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA002031,01 Aug 21,3,Royal South Yarra No.1,St Joan of Arc,No. 1,Jack Keating,Lachlan King,Lachlan King,0-6,0,6,0,1,Completed,true,false,false
+UA002031,01 Aug 21,3,Royal South Yarra No.1,St Joan of Arc,No. 2,Harry Seccull,Ethan Kearns,Harry Seccull,6-4,6,4,1,0,Completed,true,false,false
+UA002031,01 Aug 21,3,Royal South Yarra No.1,St Joan of Arc,No. 3,Grace Keating,James McDougall,James McDougall,4-6,4,6,0,1,Completed,true,false,false
+UA002031,01 Aug 21,3,Royal South Yarra No.1,St Joan of Arc,No. 4,Stella Heidenreich,Madison King,Madison King,1-6,1,6,0,1,Completed,true,true,false
+UA002032,01 Aug 21,3,GPHC,Highmoor Uniting,No. 1,Lucas Holly,Leo McInerney,Leo McInerney,1-6,1,6,0,1,Completed,true,true,false
+UA002032,01 Aug 21,3,GPHC,Highmoor Uniting,No. 2,Jack Jarman,Ian Rachinsky,Ian Rachinsky,3-6,3,6,0,1,Completed,true,false,false
+UA002032,01 Aug 21,3,GPHC,Highmoor Uniting,No. 3,Alex Crouch,Josh Glassock,Josh Glassock,3-6,3,6,0,1,Completed,true,true,false
+UA002032,01 Aug 21,3,GPHC,Highmoor Uniting,No. 4,Yannick Dobson,Marsha Kagan,Yannick Dobson,6-3,6,3,1,0,Completed,true,true,false
+UA002033,01 Aug 21,3,Maccabi,Royal South Yarra No.2,No. 1,Charlie Landau,Divine Manzvera,Divine Manzvera,5-7,5,7,0,1,Completed,true,false,false
+UA002033,01 Aug 21,3,Maccabi,Royal South Yarra No.2,No. 2,Jay Landau,Johnny Asimenias,Jay Landau,6-1,6,1,1,0,Completed,true,false,false
+UA002033,01 Aug 21,3,Maccabi,Royal South Yarra No.2,No. 3,Cody Brits,Freddie Hunt,Cody Brits,7-5,7,5,1,0,Completed,true,false,false
+UA002033,01 Aug 21,3,Maccabi,Royal South Yarra No.2,No. 4,Ilay Givoni,Parth Chitroda,Parth Chitroda,2-6,2,6,0,1,Completed,true,true,false
+UA002091,07 Nov 21,9,Royal South Yarra No.1,Highmoor Uniting,No. 1,Jack Keating,Leo McInerney,Leo McInerney,1-6,1,6,0,1,Completed,true,false,false
+UA002091,07 Nov 21,9,Royal South Yarra No.1,Highmoor Uniting,No. 2,Harry Seccull,Ian Rachinsky,Ian Rachinsky,6-7,6,7,0,1,Completed,true,false,false
+UA002091,07 Nov 21,9,Royal South Yarra No.1,Highmoor Uniting,No. 3,Grace Keating,Josh Glassock,Josh Glassock,5-7,5,7,0,1,Completed,true,false,false
+UA002091,07 Nov 21,9,Royal South Yarra No.1,Highmoor Uniting,No. 4,Sophie Davies,Marsha Kagan,Marsha Kagan,3-6,3,6,0,1,Completed,true,true,false
+UA002092,07 Nov 21,9,GPHC,Royal South Yarra No.2,No. 1,Max Noble,Johnny Asimenias,Johnny Asimenias,3-6,3,6,0,1,Completed,true,false,false
+UA002092,07 Nov 21,9,GPHC,Royal South Yarra No.2,No. 2,Oliver Bond,Freddie Hunt,Oliver Bond,6-3,6,3,1,0,Completed,true,false,false
+UA002092,07 Nov 21,9,GPHC,Royal South Yarra No.2,No. 3,Yannick Dobson,Parth Chitroda,Yannick Dobson,6-4,6,4,1,0,Completed,true,true,false
+UA002092,07 Nov 21,9,GPHC,Royal South Yarra No.2,No. 4,Alex Crouch,Jack Tucker,Jack Tucker,2-6,2,6,0,1,Completed,true,true,true
+UA002094,07 Nov 21,9,Carmelite,St Joan of Arc,No. 1,Darcy Whitebrook,Harry Smith,Harry Smith,5-7,5,7,0,1,Completed,true,false,false
+UA002094,07 Nov 21,9,Carmelite,St Joan of Arc,No. 2,Leon Katelis,Ethan Kearns,Leon Katelis,6-1,6,1,1,0,Completed,true,false,false
+UA002094,07 Nov 21,9,Carmelite,St Joan of Arc,No. 3,Cameron Richardson,James McDougall,James McDougall,5-7,5,7,0,1,Completed,true,false,false
+UA002094,07 Nov 21,9,Carmelite,St Joan of Arc,No. 4,Gibson Sinclaire,Max Zhou,Gibson Sinclaire,6-2,6,2,1,0,Completed,true,false,true
+UA002101,14 Nov 21,10,St Joan of Arc,Royal South Yarra No.1,No. 1,Harry Smith,Charlie Anderson,Charlie Anderson,6-7,6,7,0,1,Completed,true,false,true
+UA002101,14 Nov 21,10,St Joan of Arc,Royal South Yarra No.1,No. 2,Tommy Trist,Jack Cannon,Jack Cannon,5-7,5,7,0,1,Completed,true,false,true
+UA002101,14 Nov 21,10,St Joan of Arc,Royal South Yarra No.1,No. 3,James McDougall,Stella Heidenreich,James McDougall,6-2,6,2,1,0,Completed,true,false,true
+UA002101,14 Nov 21,10,St Joan of Arc,Royal South Yarra No.1,No. 4,Madison King,Axy Park,Madison King,6-2,6,2,1,0,Completed,true,false,true
+UA002102,14 Nov 21,10,Highmoor Uniting,GPHC,No. 1,Leo McInerney,Oliver Bond,Oliver Bond,3-6,3,6,0,1,Completed,true,false,false
+UA002102,14 Nov 21,10,Highmoor Uniting,GPHC,No. 2,Ian Rachinsky,Jack Jarman,Ian Rachinsky,7-5,7,5,1,0,Completed,true,false,false
+UA002102,14 Nov 21,10,Highmoor Uniting,GPHC,No. 3,Josh Glassock,Alex Crouch,Josh Glassock,6-4,6,4,1,0,Completed,true,false,true
+UA002102,14 Nov 21,10,Highmoor Uniting,GPHC,No. 4,Nikola Suluburic,Yannick Dobson,Yannick Dobson,0-6,0,6,0,1,Completed,true,false,true
+UA002103,14 Nov 21,10,Royal South Yarra No.2,Maccabi,No. 1,Divine Manzvera,Jay Landau,Divine Manzvera,7-5,7,5,1,0,Completed,true,false,false
+UA002103,14 Nov 21,10,Royal South Yarra No.2,Maccabi,No. 2,Ned Gretton-Watson,Cody Brits,Cody Brits,4-6,4,6,0,1,Completed,true,false,false
+UA002103,14 Nov 21,10,Royal South Yarra No.2,Maccabi,No. 3,Zac Havryluk,Anthony Duong,Zac Havryluk,6-3,6,3,1,0,Completed,true,false,false
+UA002103,14 Nov 21,10,Royal South Yarra No.2,Maccabi,No. 4,Jack Tucker,Henry Orner,Henry Orner,3-6,3,6,0,1,Completed,true,true,false
+UA002112,21 Nov 21,11,GPHC,St Joan of Arc,No. 1,Jack Jarman,Lachlan King,Lachlan King,0-6,0,6,0,1,Completed,true,false,false
+UA002112,21 Nov 21,11,GPHC,St Joan of Arc,No. 2,Alex Crouch,Ethan Kearns,Alex Crouch,7-5,7,5,1,0,Completed,true,true,false
+UA002112,21 Nov 21,11,GPHC,St Joan of Arc,No. 3,Joey Govenlock,James McDougall,Joey Govenlock,6-2,6,2,1,0,Completed,true,true,false
+UA002112,21 Nov 21,11,GPHC,St Joan of Arc,No. 4,Charlie Thompson,Madison King,Madison King,2-6,2,6,0,1,Completed,true,true,false
+UA002113,21 Nov 21,11,Maccabi,Highmoor Uniting,No. 1,Jay Landau,Leo McInerney,Leo McInerney,4-6,4,6,0,1,Completed,true,false,false
+UA002113,21 Nov 21,11,Maccabi,Highmoor Uniting,No. 2,Cody Brits,Ian Rachinsky,Cody Brits,6-3,6,3,1,0,Completed,true,false,false
+UA002113,21 Nov 21,11,Maccabi,Highmoor Uniting,No. 3,Anthony Duong,Josh Glassock,Anthony Duong,6-4,6,4,1,0,Completed,true,false,false
+UA002113,21 Nov 21,11,Maccabi,Highmoor Uniting,No. 4,Henry Orner,Adam Horan,Henry Orner,6-2,6,2,1,0,Completed,true,false,false
+UA002114,21 Nov 21,11,Carmelite,Royal South Yarra No.2,No. 1,Darcy Whitebrook,Zac Havryluk,Darcy Whitebrook,6-1,6,1,1,0,Completed,true,false,false
+UA002114,21 Nov 21,11,Carmelite,Royal South Yarra No.2,No. 2,Leon Katelis,Johnny Asimenias,Johnny Asimenias,0-6,0,6,0,1,Completed,true,false,false
+UA002114,21 Nov 21,11,Carmelite,Royal South Yarra No.2,No. 3,Gibson Sinclaire,Freddie Hunt,Gibson Sinclaire,6-4,6,4,1,0,Completed,true,false,false
+UA002114,21 Nov 21,11,Carmelite,Royal South Yarra No.2,No. 4,Orlando Van Bibra Falso,Parth Chitroda,Parth Chitroda,0-6,0,6,0,1,Completed,true,false,false
+UA002121,28 Nov 21,12,Carmelite,Maccabi,No. 1,Darcy Whitebrook,Jay Landau,Darcy Whitebrook,6-4,6,4,1,0,Completed,true,false,false
+UA002121,28 Nov 21,12,Carmelite,Maccabi,No. 2,Leon Katelis,Cody Brits,Cody Brits,1-6,1,6,0,1,Completed,true,false,false
+UA002121,28 Nov 21,12,Carmelite,Maccabi,No. 3,Gibson Sinclaire,Anthony Duong,Gibson Sinclaire,6-3,6,3,1,0,Completed,true,false,false
+UA002121,28 Nov 21,12,Carmelite,Maccabi,No. 4,Orlando Van Bibra Falso,Henry Orner,Henry Orner,4-6,4,6,0,1,Completed,true,false,false
+UA002122,28 Nov 21,12,St Joan of Arc,Highmoor Uniting,No. 1,Harry Smith,Leo McInerney,Leo McInerney,3-6,3,6,0,1,Completed,true,false,false
+UA002122,28 Nov 21,12,St Joan of Arc,Highmoor Uniting,No. 2,Ethan Kearns,Ian Rachinsky,Ian Rachinsky,5-7,5,7,0,1,Completed,true,false,false
+UA002122,28 Nov 21,12,St Joan of Arc,Highmoor Uniting,No. 3,James McDougall,Marsha Kagan,Marsha Kagan,5-7,5,7,0,1,Completed,true,false,false
+UA002122,28 Nov 21,12,St Joan of Arc,Highmoor Uniting,No. 4,Chris Tomaras,Asher Lithgow,Chris Tomaras,6-1,6,1,1,0,Completed,true,true,false
+UA002124,28 Nov 21,12,GPHC,Royal South Yarra No.1,No. 1,Jack Jarman,Grace Keating,Jack Jarman,6-1,6,1,1,0,Completed,true,false,false
+UA002124,28 Nov 21,12,GPHC,Royal South Yarra No.1,No. 2,Alex Crouch,Mietta Passon,Alex Crouch,6-4,6,4,1,0,Completed,true,true,false
+UA002124,28 Nov 21,12,GPHC,Royal South Yarra No.1,No. 3,Joey Govenlock,Jack Cannon,Joey Govenlock,6-3,6,3,1,0,Completed,true,true,true
+UA002124,28 Nov 21,12,GPHC,Royal South Yarra No.1,No. 4,Charlie Thompson,Sophie Davies,Sophie Davies,1-6,1,6,0,1,Completed,true,true,true
+UA002131,05 Dec 21,13,Maccabi,GPHC,No. 1,Charlie Landau,Max Noble,Charlie Landau,6-1,6,1,1,0,Completed,true,false,false
+UA002131,05 Dec 21,13,Maccabi,GPHC,No. 2,Jay Landau,Alex Crouch,Jay Landau,6-1,6,1,1,0,Completed,true,false,true
+UA002131,05 Dec 21,13,Maccabi,GPHC,No. 3,Cody Brits,Jack Jarman,Cody Brits,6-2,6,2,1,0,Completed,true,false,false
+UA002131,05 Dec 21,13,Maccabi,GPHC,No. 4,Henry Orner,Yannick Dobson,Henry Orner,6-2,6,2,1,0,Completed,true,false,true
+UA002132,05 Dec 21,13,Royal South Yarra No.1,Carmelite,No. 1,Grace Keating,Darcy Whitebrook,Grace Keating,6-2,6,2,1,0,Completed,true,false,false
+UA002132,05 Dec 21,13,Royal South Yarra No.1,Carmelite,No. 2,Mietta Passon,Cameron Richardson,Cameron Richardson,1-6,1,6,0,1,Completed,true,false,false
+UA002132,05 Dec 21,13,Royal South Yarra No.1,Carmelite,No. 3,Angus Charles,Gibson Sinclaire,Gibson Sinclaire,2-6,2,6,0,1,Completed,true,true,false
+UA002132,05 Dec 21,13,Royal South Yarra No.1,Carmelite,No. 4,Sophie Davies,Thomas Tisdall,Thomas Tisdall,2-6,2,6,0,1,Completed,true,true,true
+UA002134,05 Dec 21,13,Highmoor Uniting,Royal South Yarra No.2,No. 1,Leo McInerney,Divine Manzvera,Leo McInerney,6-3,6,3,1,0,Completed,true,false,false
+UA002134,05 Dec 21,13,Highmoor Uniting,Royal South Yarra No.2,No. 2,Ian Rachinsky,Peter Tabain,Peter Tabain,4-6,4,6,0,1,Completed,true,false,false
+UA002134,05 Dec 21,13,Highmoor Uniting,Royal South Yarra No.2,No. 3,Marsha Kagan,Zac Havryluk,Zac Havryluk,5-7,5,7,0,1,Completed,true,false,false
+UA002134,05 Dec 21,13,Highmoor Uniting,Royal South Yarra No.2,No. 4,Nikola Suluburic,Parth Chitroda,Parth Chitroda,0-6,0,6,0,1,Completed,true,false,false
+UA002141,12 Dec 21,14,Maccabi,Royal South Yarra No.1,No. 1,Charlie Landau,Grace Keating,Grace Keating,6-7,6,7,0,1,Completed,true,false,false
+UA002141,12 Dec 21,14,Maccabi,Royal South Yarra No.1,No. 2,Jay Landau,Mietta Passon,Jay Landau,6-1,6,1,1,0,Completed,true,false,false
+UA002141,12 Dec 21,14,Maccabi,Royal South Yarra No.1,No. 3,Cody Brits,Angus Charles,Cody Brits,6-0,6,0,1,0,Completed,true,false,true
+UA002141,12 Dec 21,14,Maccabi,Royal South Yarra No.1,No. 4,Liron Lelah,Kalan Lai,Kalan Lai,0-6,0,6,0,1,Completed,true,false,true
+UA002142,12 Dec 21,14,Carmelite,GPHC,No. 1,Gibson Sinclaire,Max Noble,Gibson Sinclaire,7-5,7,5,1,0,Completed,true,false,false
+UA002142,12 Dec 21,14,Carmelite,GPHC,No. 2,Leon Katelis,Alex Crouch,Alex Crouch,6-7,6,7,0,1,Completed,true,false,true
+UA002142,12 Dec 21,14,Carmelite,GPHC,No. 3,Darcy Whitebrook,[Unnamed player — TROLS UA002142 away code 3],Darcy Whitebrook,6-0,6,0,1,0,Completed,false,false,false
+UA002142,12 Dec 21,14,Carmelite,GPHC,No. 4,Orlando Van Bibra Falso,[Unnamed player — TROLS UA002142 away code 4],Orlando Van Bibra Falso,6-0,6,0,1,0,Completed,false,false,false
+UA002144,12 Dec 21,14,Royal South Yarra No.2,St Joan of Arc,No. 1,Divine Manzvera,Harry Smith,Divine Manzvera,6-4,6,4,1,0,Completed,true,false,false
+UA002144,12 Dec 21,14,Royal South Yarra No.2,St Joan of Arc,No. 2,Johnny Asimenias,Ethan Kearns,Ethan Kearns,5-7,5,7,0,1,Completed,true,false,false
+UA002144,12 Dec 21,14,Royal South Yarra No.2,St Joan of Arc,No. 3,Peter Tabain,Tommy Trist,Tommy Trist,3-6,3,6,0,1,Completed,true,false,false
+UA002144,12 Dec 21,14,Royal South Yarra No.2,St Joan of Arc,No. 4,Freddie Hunt,James McDougall,James McDougall,3-6,3,6,0,1,Completed,true,false,false

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA23-UA013",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2018",
+  "season_id": "UA23",
+  "season_label": "Spring 2018",
+  "source_section_code": "UA013",
+  "section_label": "Section 13",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World 1",
+      "wins": 9,
+      "points": 97,
+      "percentage": 152.02,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "St Pauls",
+      "wins": 10,
+      "points": 97,
+      "percentage": 145.72,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "GPHC 2",
+      "wins": 9,
+      "points": 93,
+      "percentage": 138.64,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Coatesville",
+      "wins": 6,
+      "points": 83,
+      "percentage": 129.02,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Carmelite",
+      "wins": 6,
+      "points": 70,
+      "percentage": 109.18,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC 1",
+      "wins": 7,
+      "points": 61,
+      "percentage": 74.47,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Tennis World 2",
+      "wins": 2,
+      "points": 46,
+      "percentage": 77.37,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Maccabi",
+      "wins": 0,
+      "points": 13,
+      "percentage": 36.36,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA23-UA013",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 59,
+  "singles_rubbers": 208,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

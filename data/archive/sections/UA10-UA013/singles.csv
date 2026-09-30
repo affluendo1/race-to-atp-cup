@@ -1,0 +1,211 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA013011,05 Feb 12,1,BLTC,Maccabi,No. 1,Natasha Amon-Simmonds,Raphael Wirth,Natasha Amon-Simmonds,6-2,6,2,1,0,Completed,true,false,false
+UA013011,05 Feb 12,1,BLTC,Maccabi,No. 2,Samantha Amon-Simmonds,Joshua Dorfan,Samantha Amon-Simmonds,6-2,6,2,1,0,Completed,true,false,false
+UA013011,05 Feb 12,1,BLTC,Maccabi,No. 3,Taylor Nixon,Talya Dorfan,Taylor Nixon,7-5,7,5,1,0,Completed,true,false,false
+UA013011,05 Feb 12,1,BLTC,Maccabi,No. 4,Charlotte Myers,Maxim Kugel,Charlotte Myers,6-2,6,2,1,0,Completed,true,false,false
+UA013012,05 Feb 12,1,Royal Ave,Le Page,No. 1,Josephine Rassmussen,Jack Chapple,Josephine Rassmussen,6-4,6,4,1,0,Completed,true,false,false
+UA013012,05 Feb 12,1,Royal Ave,Le Page,No. 2,James Grove,Joshua Tremigliozzi,Joshua Tremigliozzi,0-6,0,6,0,1,Completed,true,false,false
+UA013012,05 Feb 12,1,Royal Ave,Le Page,No. 3,James Larner,Nathan Gatti,Nathan Gatti,2-6,2,6,0,1,Completed,true,false,false
+UA013012,05 Feb 12,1,Royal Ave,Le Page,No. 4,Fynn Marshall,Evie Tripp,Evie Tripp,1-6,1,6,0,1,Completed,true,false,false
+UA013013,05 Feb 12,1,Kooyong Xavier 1,Kooyong Xavier 2,No. 1,Nicholas Farmer,Nicole Gdanski,Nicholas Farmer,6-3,6,3,1,0,Completed,true,false,false
+UA013013,05 Feb 12,1,Kooyong Xavier 1,Kooyong Xavier 2,No. 2,Angus Cosgriff,Jamaya Martin-Endres,Angus Cosgriff,6-2,6,2,1,0,Completed,true,false,false
+UA013013,05 Feb 12,1,Kooyong Xavier 1,Kooyong Xavier 2,No. 3,Lauren Crouch,Adam Bartlett,Adam Bartlett,0-6,0,6,0,1,Completed,true,false,false
+UA013013,05 Feb 12,1,Kooyong Xavier 1,Kooyong Xavier 2,No. 4,Tania Szwarczberg,Dane Martin-Endres,Tania Szwarczberg,6-3,6,3,1,0,Completed,true,false,false
+UA013014,05 Feb 12,1,Tennis World,Hampton,No. 1,Toby Peterson,Fletcher Pullen,Toby Peterson,6-2,6,2,1,0,Completed,true,false,false
+UA013014,05 Feb 12,1,Tennis World,Hampton,No. 2,Tallie Collins,Sarah Goddard,Tallie Collins,6-0,6,0,1,0,Completed,true,false,false
+UA013014,05 Feb 12,1,Tennis World,Hampton,No. 3,Michaella Majdan,Emily Goddard,Michaella Majdan,6-0,6,0,1,0,Completed,true,false,false
+UA013014,05 Feb 12,1,Tennis World,Hampton,No. 4,Julia Skiold,Ellen Cooke,Julia Skiold,6-2,6,2,1,0,Completed,true,false,false
+UA013021,12 Feb 12,2,Hampton,BLTC,No. 1,Fletcher Pullen,Natasha Amon-Simmonds,Natasha Amon-Simmonds,2-6,2,6,0,1,Completed,true,false,false
+UA013021,12 Feb 12,2,Hampton,BLTC,No. 2,Meika Buchhorn,Jessica Myers,Jessica Myers,0-6,0,6,0,1,Completed,true,false,false
+UA013021,12 Feb 12,2,Hampton,BLTC,No. 3,Kiara Earle,Taylor Nixon,Taylor Nixon,0-6,0,6,0,1,Completed,true,false,false
+UA013021,12 Feb 12,2,Hampton,BLTC,No. 4,Jordie Mellas,Charlotte Myers,Charlotte Myers,2-6,2,6,0,1,Completed,true,false,false
+UA013022,12 Feb 12,2,Maccabi,Royal Ave,No. 1,Joshua Dorfan,James Larner,James Larner,0-6,0,6,0,1,Completed,true,false,false
+UA013022,12 Feb 12,2,Maccabi,Royal Ave,No. 2,Talya Dorfan,Lewis Ryder-Hoy,Lewis Ryder-Hoy,4-6,4,6,0,1,Completed,true,false,false
+UA013022,12 Feb 12,2,Maccabi,Royal Ave,No. 3,Joshua Sharp,Jarred Ellis,Joshua Sharp,6-0,6,0,1,0,Completed,true,false,false
+UA013022,12 Feb 12,2,Maccabi,Royal Ave,No. 4,Chloe Berkovic,Fynn Marshall,Chloe Berkovic,6-4,6,4,1,0,Completed,true,false,false
+UA013023,12 Feb 12,2,Le Page,Kooyong Xavier 1,No. 1,Jack Chapple,Angus Cosgriff,Jack Chapple,6-3,6,3,1,0,Completed,true,false,false
+UA013023,12 Feb 12,2,Le Page,Kooyong Xavier 1,No. 2,Joshua Tremigliozzi,Lauren Crouch,Lauren Crouch,3-6,3,6,0,1,Completed,true,false,false
+UA013023,12 Feb 12,2,Le Page,Kooyong Xavier 1,No. 3,Nathan Gatti,Tania Szwarczberg,Tania Szwarczberg,1-6,1,6,0,1,Completed,true,false,false
+UA013023,12 Feb 12,2,Le Page,Kooyong Xavier 1,No. 4,Ben Gerresheirn,Jessica Pila,Jessica Pila,0-6,0,6,0,1,Completed,true,false,false
+UA013024,12 Feb 12,2,Kooyong Xavier 2,Tennis World,No. 1,Nicole Gdanski,Tallie Collins,Tallie Collins,1-6,1,6,0,1,Completed,true,false,false
+UA013024,12 Feb 12,2,Kooyong Xavier 2,Tennis World,No. 2,Jamaya Martin-Endres,Michaella Majdan,Michaella Majdan,1-6,1,6,0,1,Completed,true,false,false
+UA013024,12 Feb 12,2,Kooyong Xavier 2,Tennis World,No. 3,Adam Bartlett,Julia Skiold,Adam Bartlett,6-1,6,1,1,0,Completed,true,false,false
+UA013024,12 Feb 12,2,Kooyong Xavier 2,Tennis World,No. 4,Dane Martin-Endres,Kieren Urich,Dane Martin-Endres,6-0,6,0,1,0,Completed,true,false,false
+UA013031,19 Feb 12,3,BLTC,Kooyong Xavier 2,No. 1,Natasha Amon-Simmonds,Adam Bartlett,Adam Bartlett,4-6,4,6,0,1,Completed,true,false,false
+UA013031,19 Feb 12,3,BLTC,Kooyong Xavier 2,No. 2,Samantha Amon-Simmonds,Dane Martin-Endres,Samantha Amon-Simmonds,6-4,6,4,1,0,Completed,true,false,false
+UA013031,19 Feb 12,3,BLTC,Kooyong Xavier 2,No. 3,Jessica Myers,Jamaya Martin-Endres,Jamaya Martin-Endres,6-7,6,7,0,1,Completed,true,false,false
+UA013031,19 Feb 12,3,BLTC,Kooyong Xavier 2,No. 4,Charlotte Myers,Angus Farrar,Angus Farrar,4-6,4,6,0,1,Completed,true,false,false
+UA013032,19 Feb 12,3,Royal Ave,Hampton,No. 1,James Larner,Sarah Goddard,James Larner,7-5,7,5,1,0,Completed,true,false,false
+UA013032,19 Feb 12,3,Royal Ave,Hampton,No. 2,Lewis Ryder-Hoy,Emily Goddard,Lewis Ryder-Hoy,6-3,6,3,1,0,Completed,true,false,false
+UA013032,19 Feb 12,3,Royal Ave,Hampton,No. 3,Jarred Ellis,Ellen Cooke,Jarred Ellis,6-2,6,2,1,0,Completed,true,false,false
+UA013032,19 Feb 12,3,Royal Ave,Hampton,No. 4,Fynn Marshall,Meika Buchhorn,Fynn Marshall,6-4,6,4,1,0,Completed,true,false,false
+UA013033,19 Feb 12,3,Kooyong Xavier 1,Maccabi,No. 1,Nicholas Farmer,Raphael Wirth,Nicholas Farmer,6-0,6,0,1,0,Completed,true,false,false
+UA013033,19 Feb 12,3,Kooyong Xavier 1,Maccabi,No. 2,Lauren Crouch,Maxim Kugel,Lauren Crouch,6-3,6,3,1,0,Completed,true,false,false
+UA013033,19 Feb 12,3,Kooyong Xavier 1,Maccabi,No. 3,Tania Szwarczberg,Ben Hellinger,Tania Szwarczberg,6-1,6,1,1,0,Completed,true,false,false
+UA013033,19 Feb 12,3,Kooyong Xavier 1,Maccabi,No. 4,Jessica Pila,Amor Jasika,Amor Jasika,6-7,6,7,0,1,Completed,true,false,false
+UA013034,19 Feb 12,3,Tennis World,Le Page,No. 1,Tallie Collins,Jack Chapple,Jack Chapple,4-6,4,6,0,1,Completed,true,false,false
+UA013034,19 Feb 12,3,Tennis World,Le Page,No. 2,Michaella Majdan,Nathan Gatti,Michaella Majdan,6-0,6,0,1,0,Completed,true,false,false
+UA013034,19 Feb 12,3,Tennis World,Le Page,No. 3,Julia Skiold,Evie Tripp,Julia Skiold,6-2,6,2,1,0,Completed,true,false,false
+UA013034,19 Feb 12,3,Tennis World,Le Page,No. 4,Kieren Urich,Ben Gerresheirn,Kieren Urich,6-2,6,2,1,0,Completed,true,false,false
+UA013041,26 Feb 12,4,Le Page,BLTC,No. 1,Jack Chapple,Samantha Amon-Simmonds,Jack Chapple,6-4,6,4,1,0,Completed,true,false,false
+UA013041,26 Feb 12,4,Le Page,BLTC,No. 2,Joshua Tremigliozzi,Taylor Nixon,Taylor Nixon,4-6,4,6,0,1,Completed,true,false,false
+UA013041,26 Feb 12,4,Le Page,BLTC,No. 3,Nathan Gatti,Jessica Myers,Nathan Gatti,6-0,6,0,1,0,Completed,true,false,false
+UA013041,26 Feb 12,4,Le Page,BLTC,No. 4,Evie Tripp,Charlotte Myers,Evie Tripp,6-1,6,1,1,0,Completed,true,false,false
+UA013042,26 Feb 12,4,Kooyong Xavier 2,Royal Ave,No. 1,Adam Bartlett,Josephine Rassmussen,Adam Bartlett,6-2,6,2,1,0,Completed,true,false,false
+UA013042,26 Feb 12,4,Kooyong Xavier 2,Royal Ave,No. 2,Dane Martin-Endres,James Larner,James Larner,3-6,3,6,0,1,Completed,true,false,false
+UA013042,26 Feb 12,4,Kooyong Xavier 2,Royal Ave,No. 3,Jamaya Martin-Endres,Jarred Ellis,Jamaya Martin-Endres,6-0,6,0,1,0,Completed,true,false,false
+UA013042,26 Feb 12,4,Kooyong Xavier 2,Royal Ave,No. 4,Florence Kennedy,Fynn Marshall,Florence Kennedy,6-2,6,2,1,0,Completed,true,false,false
+UA013043,26 Feb 12,4,Hampton,Kooyong Xavier 1,No. 1,Sarah Goddard,Nicholas Farmer,Nicholas Farmer,2-6,2,6,0,1,Completed,true,false,false
+UA013043,26 Feb 12,4,Hampton,Kooyong Xavier 1,No. 2,Emily Goddard,Angus Cosgriff,Angus Cosgriff,1-6,1,6,0,1,Completed,true,false,false
+UA013043,26 Feb 12,4,Hampton,Kooyong Xavier 1,No. 3,Ellen Cooke,Tania Szwarczberg,Tania Szwarczberg,0-6,0,6,0,1,Completed,true,false,false
+UA013043,26 Feb 12,4,Hampton,Kooyong Xavier 1,No. 4,Kiara Earle,Jessica Pila,Jessica Pila,0-6,0,6,0,1,Completed,true,false,false
+UA013044,26 Feb 12,4,Maccabi,Tennis World,No. 1,Maxim Kugel,Toby Peterson,Toby Peterson,2-6,2,6,0,1,Completed,true,false,false
+UA013044,26 Feb 12,4,Maccabi,Tennis World,No. 2,Joshua Sharp,Tallie Collins,Tallie Collins,2-6,2,6,0,1,Completed,true,false,false
+UA013044,26 Feb 12,4,Maccabi,Tennis World,No. 3,Chloe Berkovic,Julia Skiold,Julia Skiold,0-6,0,6,0,1,Completed,true,false,false
+UA013044,26 Feb 12,4,Maccabi,Tennis World,No. 4,Amor Jasika,Kieren Urich,Amor Jasika,6-4,6,4,1,0,Completed,true,false,false
+UA013052,04 Mar 12,5,Hampton,Kooyong Xavier 2,No. 1,Fletcher Pullen,Dane Martin-Endres,Dane Martin-Endres,4-6,4,6,0,1,Completed,true,false,false
+UA013052,04 Mar 12,5,Hampton,Kooyong Xavier 2,No. 2,Emily Goddard,Jamaya Martin-Endres,Jamaya Martin-Endres,0-6,0,6,0,1,Completed,true,false,false
+UA013052,04 Mar 12,5,Hampton,Kooyong Xavier 2,No. 3,Meika Buchhorn,Nicole Gdanski,Nicole Gdanski,1-6,1,6,0,1,Completed,true,false,false
+UA013052,04 Mar 12,5,Hampton,Kooyong Xavier 2,No. 4,Jordie Mellas,Florence Kennedy,Florence Kennedy,1-6,1,6,0,1,Completed,true,false,false
+UA013053,04 Mar 12,5,Le Page,Maccabi,No. 1,Joshua Tremigliozzi,Joshua Dorfan,Joshua Tremigliozzi,6-1,6,1,1,0,Completed,true,false,false
+UA013053,04 Mar 12,5,Le Page,Maccabi,No. 2,Nathan Gatti,Talya Dorfan,Nathan Gatti,6-2,6,2,1,0,Completed,true,false,false
+UA013053,04 Mar 12,5,Le Page,Maccabi,No. 3,Evie Tripp,Joshua Sharp,Evie Tripp,7-6,7,6,1,0,Completed,true,false,false
+UA013053,04 Mar 12,5,Le Page,Maccabi,No. 4,Ben Gerresheirn,Amor Jasika,Amor Jasika,1-6,1,6,0,1,Completed,true,false,false
+UA013054,04 Mar 12,5,BLTC,Royal Ave,No. 1,Natasha Amon-Simmonds,Josephine Rassmussen,Natasha Amon-Simmonds,6-1,6,1,1,0,Completed,true,false,false
+UA013054,04 Mar 12,5,BLTC,Royal Ave,No. 2,Samantha Amon-Simmonds,James Larner,Samantha Amon-Simmonds,6-3,6,3,1,0,Completed,true,false,false
+UA013054,04 Mar 12,5,BLTC,Royal Ave,No. 3,Taylor Nixon,Lewis Ryder-Hoy,Taylor Nixon,6-4,6,4,1,0,Completed,true,false,false
+UA013054,04 Mar 12,5,BLTC,Royal Ave,No. 4,Charlotte Myers,Fynn Marshall,Charlotte Myers,6-3,6,3,1,0,Completed,true,false,false
+UA013061,18 Mar 12,6,Royal Ave,Kooyong Xavier 1,No. 1,Josephine Rassmussen,Nicholas Farmer,Nicholas Farmer,3-6,3,6,0,1,Completed,true,false,false
+UA013061,18 Mar 12,6,Royal Ave,Kooyong Xavier 1,No. 2,James Larner,Angus Cosgriff,Angus Cosgriff,0-6,0,6,0,1,Completed,true,false,false
+UA013061,18 Mar 12,6,Royal Ave,Kooyong Xavier 1,No. 3,Lewis Ryder-Hoy,Lauren Crouch,Lauren Crouch,0-6,0,6,0,1,Completed,true,false,false
+UA013061,18 Mar 12,6,Royal Ave,Kooyong Xavier 1,No. 4,Jarred Ellis,Jessica Pila,Jessica Pila,2-6,2,6,0,1,Completed,true,false,false
+UA013062,18 Mar 12,6,Tennis World,BLTC,No. 1,Toby Peterson,Natasha Amon-Simmonds,Toby Peterson,6-4,6,4,1,0,Completed,true,false,false
+UA013062,18 Mar 12,6,Tennis World,BLTC,No. 2,Tallie Collins,Samantha Amon-Simmonds,Tallie Collins,6-1,6,1,1,0,Completed,true,false,false
+UA013062,18 Mar 12,6,Tennis World,BLTC,No. 3,Michaella Majdan,Taylor Nixon,Michaella Majdan,6-1,6,1,1,0,Completed,true,false,false
+UA013062,18 Mar 12,6,Tennis World,BLTC,No. 4,Kieren Urich,Jessica Myers,Kieren Urich,7-6,7,6,1,0,Completed,true,false,false
+UA013063,18 Mar 12,6,Kooyong Xavier 2,Le Page,No. 1,Adam Bartlett,Jack Chapple,Adam Bartlett,7-6,7,6,1,0,Completed,true,false,false
+UA013063,18 Mar 12,6,Kooyong Xavier 2,Le Page,No. 2,Nicole Gdanski,Brandon Rodrigo,Nicole Gdanski,6-0,6,0,1,0,Completed,true,false,false
+UA013063,18 Mar 12,6,Kooyong Xavier 2,Le Page,No. 3,Florence Kennedy,Nathan Gatti,Nathan Gatti,0-6,0,6,0,1,Completed,true,false,false
+UA013063,18 Mar 12,6,Kooyong Xavier 2,Le Page,No. 4,Tom Sennitt,Evie Tripp,Evie Tripp,4-6,4,6,0,1,Completed,true,false,false
+UA013064,18 Mar 12,6,Maccabi,Hampton,No. 1,Joshua Dorfan,Ellen Cooke,Joshua Dorfan,6-1,6,1,1,0,Completed,true,false,false
+UA013064,18 Mar 12,6,Maccabi,Hampton,No. 2,Talya Dorfan,Meika Buchhorn,Talya Dorfan,6-2,6,2,1,0,Completed,true,false,false
+UA013064,18 Mar 12,6,Maccabi,Hampton,No. 3,Joshua Sharp,Kiara Earle,Joshua Sharp,6-2,6,2,1,0,Completed,true,false,false
+UA013064,18 Mar 12,6,Maccabi,Hampton,No. 4,Amor Jasika,Jordie Mellas,Amor Jasika,6-0,6,0,1,0,Completed,true,false,false
+UA013071,25 Mar 12,7,BLTC,Kooyong Xavier 1,No. 1,Natasha Amon-Simmonds,Nicholas Farmer,Natasha Amon-Simmonds,6-4,6,4,1,0,Completed,true,false,false
+UA013071,25 Mar 12,7,BLTC,Kooyong Xavier 1,No. 2,Samantha Amon-Simmonds,Angus Cosgriff,Angus Cosgriff,4-6,4,6,0,1,Completed,true,false,false
+UA013071,25 Mar 12,7,BLTC,Kooyong Xavier 1,No. 3,Taylor Nixon,Lauren Crouch,Lauren Crouch,3-6,3,6,0,1,Completed,true,false,false
+UA013071,25 Mar 12,7,BLTC,Kooyong Xavier 1,No. 4,Jessica Myers,Tania Szwarczberg,Tania Szwarczberg,2-6,2,6,0,1,Completed,true,false,false
+UA013072,25 Mar 12,7,Royal Ave,Tennis World,No. 1,James Larner,Tallie Collins,Tallie Collins,4-6,4,6,0,1,Completed,true,false,false
+UA013072,25 Mar 12,7,Royal Ave,Tennis World,No. 2,Lewis Ryder-Hoy,Michaella Majdan,Michaella Majdan,1-6,1,6,0,1,Completed,true,false,false
+UA013072,25 Mar 12,7,Royal Ave,Tennis World,No. 3,Jarred Ellis,Julia Skiold,Julia Skiold,1-6,1,6,0,1,Completed,true,false,false
+UA013072,25 Mar 12,7,Royal Ave,Tennis World,No. 4,Fynn Marshall,Kieren Urich,Kieren Urich,3-6,3,6,0,1,Completed,true,false,false
+UA013073,25 Mar 12,7,Hampton,Le Page,No. 1,Fletcher Pullen,Jack Chapple,Jack Chapple,2-6,2,6,0,1,Completed,true,false,false
+UA013073,25 Mar 12,7,Hampton,Le Page,No. 2,Sarah Goddard,Nathan Gatti,Sarah Goddard,7-5,7,5,1,0,Completed,true,false,false
+UA013073,25 Mar 12,7,Hampton,Le Page,No. 3,Emily Goddard,Evie Tripp,Evie Tripp,0-6,0,6,0,1,Completed,true,false,false
+UA013073,25 Mar 12,7,Hampton,Le Page,No. 4,Ellen Cooke,Tyler Silver-cooper,Ellen Cooke,6-3,6,3,1,0,Completed,true,false,false
+UA013074,25 Mar 12,7,Kooyong Xavier 2,Maccabi,No. 1,Dane Martin-Endres,Raphael Wirth,Dane Martin-Endres,6-0,6,0,1,0,Completed,true,false,false
+UA013074,25 Mar 12,7,Kooyong Xavier 2,Maccabi,No. 2,Jamaya Martin-Endres,Maxim Kugel,Jamaya Martin-Endres,6-3,6,3,1,0,Completed,true,false,false
+UA013074,25 Mar 12,7,Kooyong Xavier 2,Maccabi,No. 3,Nicole Gdanski,Joshua Sharp,Joshua Sharp,3-6,3,6,0,1,Completed,true,false,false
+UA013074,25 Mar 12,7,Kooyong Xavier 2,Maccabi,No. 4,Florence Kennedy,Chloe Berkovic,Chloe Berkovic,2-6,2,6,0,1,Completed,true,false,false
+UA013081,22 Apr 12,8,Maccabi,BLTC,No. 1,Talya Dorfan,Samantha Amon-Simmonds,Samantha Amon-Simmonds,0-6,0,6,0,1,Completed,true,false,false
+UA013081,22 Apr 12,8,Maccabi,BLTC,No. 2,Maxim Kugel,Taylor Nixon,Taylor Nixon,4-6,4,6,0,1,Completed,true,false,false
+UA013081,22 Apr 12,8,Maccabi,BLTC,No. 3,Chloe Berkovic,Jessica Myers,Jessica Myers,2-6,2,6,0,1,Completed,true,false,false
+UA013081,22 Apr 12,8,Maccabi,BLTC,No. 4,Amor Jasika,Charlotte Myers,Amor Jasika,6-1,6,1,1,0,Completed,true,false,false
+UA013082,22 Apr 12,8,Le Page,Royal Ave,No. 1,Jack Chapple,James Larner,Jack Chapple,6-1,6,1,1,0,Completed,true,false,false
+UA013082,22 Apr 12,8,Le Page,Royal Ave,No. 2,Joshua Tremigliozzi,Lewis Ryder-Hoy,Joshua Tremigliozzi,6-2,6,2,1,0,Completed,true,false,false
+UA013082,22 Apr 12,8,Le Page,Royal Ave,No. 3,Nathan Gatti,Jarred Ellis,Nathan Gatti,6-2,6,2,1,0,Completed,true,false,false
+UA013082,22 Apr 12,8,Le Page,Royal Ave,No. 4,Evie Tripp,Fynn Marshall,Evie Tripp,6-2,6,2,1,0,Completed,true,false,false
+UA013083,22 Apr 12,8,Kooyong Xavier 2,Kooyong Xavier 1,No. 1,Adam Bartlett,Nicholas Farmer,Adam Bartlett,6-1,6,1,1,0,Completed,true,false,false
+UA013083,22 Apr 12,8,Kooyong Xavier 2,Kooyong Xavier 1,No. 2,Dane Martin-Endres,Angus Cosgriff,Dane Martin-Endres,6-2,6,2,1,0,Completed,true,false,false
+UA013083,22 Apr 12,8,Kooyong Xavier 2,Kooyong Xavier 1,No. 3,Jamaya Martin-Endres,Lauren Crouch,Lauren Crouch,3-6,3,6,0,1,Completed,true,false,false
+UA013083,22 Apr 12,8,Kooyong Xavier 2,Kooyong Xavier 1,No. 4,Nicole Gdanski,Tania Szwarczberg,Tania Szwarczberg,2-6,2,6,0,1,Completed,true,false,false
+UA013084,22 Apr 12,8,Hampton,Tennis World,No. 1,Fletcher Pullen,Toby Peterson,Toby Peterson,1-6,1,6,0,1,Completed,true,false,false
+UA013084,22 Apr 12,8,Hampton,Tennis World,No. 2,Meika Buchhorn,Tallie Collins,Tallie Collins,0-6,0,6,0,1,Completed,true,false,false
+UA013084,22 Apr 12,8,Hampton,Tennis World,No. 3,Kiara Earle,Michaella Majdan,Michaella Majdan,0-6,0,6,0,1,Completed,true,false,false
+UA013084,22 Apr 12,8,Hampton,Tennis World,No. 4,Jordie Mellas,Kieren Urich,Kieren Urich,2-6,2,6,0,1,Completed,true,false,false
+UA013091,29 Apr 12,9,BLTC,Hampton,No. 1,Natasha Amon-Simmonds,Fletcher Pullen,Natasha Amon-Simmonds,6-0,6,0,1,0,Completed,true,false,false
+UA013091,29 Apr 12,9,BLTC,Hampton,No. 2,Samantha Amon-Simmonds,Sarah Goddard,Samantha Amon-Simmonds,6-3,6,3,1,0,Completed,true,false,false
+UA013091,29 Apr 12,9,BLTC,Hampton,No. 3,Taylor Nixon,Emily Goddard,Taylor Nixon,6-1,6,1,1,0,Completed,true,false,false
+UA013091,29 Apr 12,9,BLTC,Hampton,No. 4,Charlotte Myers,Ellen Cooke,Charlotte Myers,6-0,6,0,1,0,Completed,true,false,false
+UA013092,29 Apr 12,9,Royal Ave,Maccabi,No. 1,Josephine Rassmussen,Joshua Dorfan,Joshua Dorfan,0-6,0,6,0,1,Completed,true,false,false
+UA013092,29 Apr 12,9,Royal Ave,Maccabi,No. 2,James Larner,Talya Dorfan,James Larner,6-0,6,0,1,0,Completed,true,false,false
+UA013092,29 Apr 12,9,Royal Ave,Maccabi,No. 3,Jarred Ellis,Maxim Kugel,Maxim Kugel,1-6,1,6,0,1,Completed,true,false,false
+UA013092,29 Apr 12,9,Royal Ave,Maccabi,No. 4,Fynn Marshall,Chloe Berkovic,Chloe Berkovic,1-6,1,6,0,1,Completed,true,false,false
+UA013093,29 Apr 12,9,Kooyong Xavier 1,Le Page,No. 1,Nicholas Farmer,Jack Chapple,Jack Chapple,3-6,3,6,0,1,Completed,true,false,false
+UA013093,29 Apr 12,9,Kooyong Xavier 1,Le Page,No. 2,Angus Cosgriff,Joshua Tremigliozzi,Angus Cosgriff,6-3,6,3,1,0,Completed,true,false,false
+UA013093,29 Apr 12,9,Kooyong Xavier 1,Le Page,No. 3,Tania Szwarczberg,Nathan Gatti,Tania Szwarczberg,6-3,6,3,1,0,Completed,true,false,false
+UA013093,29 Apr 12,9,Kooyong Xavier 1,Le Page,No. 4,Jessica Pila,Evie Tripp,Jessica Pila,6-2,6,2,1,0,Completed,true,false,false
+UA013094,29 Apr 12,9,Tennis World,Kooyong Xavier 2,No. 1,Toby Peterson,Adam Bartlett,Adam Bartlett,5-7,5,7,0,1,Completed,true,false,false
+UA013094,29 Apr 12,9,Tennis World,Kooyong Xavier 2,No. 2,Tallie Collins,Dane Martin-Endres,Tallie Collins,6-3,6,3,1,0,Completed,true,false,false
+UA013094,29 Apr 12,9,Tennis World,Kooyong Xavier 2,No. 3,Michaella Majdan,Jamaya Martin-Endres,Michaella Majdan,6-1,6,1,1,0,Completed,true,false,false
+UA013094,29 Apr 12,9,Tennis World,Kooyong Xavier 2,No. 4,Julia Skiold,Nicole Gdanski,Julia Skiold,6-1,6,1,1,0,Completed,true,false,false
+UA013101,06 May 12,10,Kooyong Xavier 2,BLTC,No. 1,Adam Bartlett,Natasha Amon-Simmonds,Adam Bartlett,6-1,6,1,1,0,Completed,true,false,false
+UA013101,06 May 12,10,Kooyong Xavier 2,BLTC,No. 2,Jamaya Martin-Endres,Samantha Amon-Simmonds,Samantha Amon-Simmonds,4-6,4,6,0,1,Completed,true,false,false
+UA013101,06 May 12,10,Kooyong Xavier 2,BLTC,No. 3,Nicole Gdanski,Taylor Nixon,Taylor Nixon,3-6,3,6,0,1,Completed,true,false,false
+UA013101,06 May 12,10,Kooyong Xavier 2,BLTC,No. 4,Florence Kennedy,Jessica Myers,Jessica Myers,2-6,2,6,0,1,Completed,true,false,false
+UA013102,06 May 12,10,Hampton,Royal Ave,No. 1,Fletcher Pullen,Josephine Rassmussen,Fletcher Pullen,6-0,6,0,1,0,Completed,true,false,false
+UA013102,06 May 12,10,Hampton,Royal Ave,No. 2,Sarah Goddard,James Grove,James Grove,3-6,3,6,0,1,Completed,true,false,false
+UA013102,06 May 12,10,Hampton,Royal Ave,No. 3,[Unnamed player — TROLS UA013102 home code 3],Lewis Ryder-Hoy,Lewis Ryder-Hoy,0-6,0,6,0,1,Completed,false,false,false
+UA013102,06 May 12,10,Hampton,Royal Ave,No. 4,Jordie Mellas,Jarred Ellis,Jarred Ellis,0-6,0,6,0,1,Completed,true,false,false
+UA013103,06 May 12,10,Maccabi,Kooyong Xavier 1,No. 1,Raphael Wirth,Nicholas Farmer,Nicholas Farmer,1-6,1,6,0,1,Completed,true,false,false
+UA013103,06 May 12,10,Maccabi,Kooyong Xavier 1,No. 2,Joshua Dorfan,Angus Cosgriff,Angus Cosgriff,3-6,3,6,0,1,Completed,true,false,false
+UA013103,06 May 12,10,Maccabi,Kooyong Xavier 1,No. 3,Maxim Kugel,Lauren Crouch,Lauren Crouch,0-6,0,6,0,1,Completed,true,false,false
+UA013103,06 May 12,10,Maccabi,Kooyong Xavier 1,No. 4,Amor Jasika,Jessica Pila,Amor Jasika,6-3,6,3,1,0,Completed,true,false,false
+UA013104,06 May 12,10,Le Page,Tennis World,No. 1,William Rossi,Toby Peterson,Toby Peterson,1-6,1,6,0,1,Completed,true,false,false
+UA013104,06 May 12,10,Le Page,Tennis World,No. 2,Jack Chapple,Michaella Majdan,Michaella Majdan,5-7,5,7,0,1,Completed,true,false,false
+UA013104,06 May 12,10,Le Page,Tennis World,No. 3,Nathan Gatti,Julia Skiold,Julia Skiold,1-6,1,6,0,1,Completed,true,false,false
+UA013104,06 May 12,10,Le Page,Tennis World,No. 4,Evie Tripp,Kieren Urich,Kieren Urich,0-6,0,6,0,1,Completed,true,false,false
+UA013121,20 May 12,12,Tennis World,Kooyong Xavier 1,No. 1,Toby Peterson,Angus Cosgriff,Angus Cosgriff,5-7,5,7,0,1,Completed,true,false,false
+UA013121,20 May 12,12,Tennis World,Kooyong Xavier 1,No. 2,Tallie Collins,Lauren Crouch,Tallie Collins,6-4,6,4,1,0,Completed,true,false,false
+UA013121,20 May 12,12,Tennis World,Kooyong Xavier 1,No. 3,Michaella Majdan,Tania Szwarczberg,Michaella Majdan,6-0,6,0,1,0,Completed,true,false,false
+UA013121,20 May 12,12,Tennis World,Kooyong Xavier 1,No. 4,Julia Skiold,Jessica Pila,Jessica Pila,5-7,5,7,0,1,Completed,true,false,false
+UA013122,20 May 12,12,Kooyong Xavier 2,Hampton,No. 1,Adam Bartlett,Sarah Goddard,Adam Bartlett,6-1,6,1,1,0,Completed,true,false,false
+UA013122,20 May 12,12,Kooyong Xavier 2,Hampton,No. 2,Dane Martin-Endres,Emily Goddard,Dane Martin-Endres,7-6,7,6,1,0,Completed,true,false,false
+UA013122,20 May 12,12,Kooyong Xavier 2,Hampton,No. 3,Jamaya Martin-Endres,Connor McConville,Jamaya Martin-Endres,6-2,6,2,1,0,Completed,true,false,false
+UA013122,20 May 12,12,Kooyong Xavier 2,Hampton,No. 4,Florence Kennedy,Jordie Mellas,Florence Kennedy,6-2,6,2,1,0,Completed,true,false,false
+UA013123,20 May 12,12,Maccabi,Le Page,No. 1,Raphael Wirth,Jack Chapple,Jack Chapple,1-6,1,6,0,1,Completed,true,false,false
+UA013123,20 May 12,12,Maccabi,Le Page,No. 2,Joshua Dorfan,Joshua Tremigliozzi,Joshua Dorfan,6-4,6,4,1,0,Completed,true,false,false
+UA013123,20 May 12,12,Maccabi,Le Page,No. 3,Talya Dorfan,Nathan Gatti,Nathan Gatti,1-6,1,6,0,1,Completed,true,false,false
+UA013123,20 May 12,12,Maccabi,Le Page,No. 4,Maxim Kugel,Harrison Murie,Maxim Kugel,6-1,6,1,1,0,Completed,true,false,false
+UA013124,20 May 12,12,Royal Ave,BLTC,No. 1,Josephine Rassmussen,Natasha Amon-Simmonds,Natasha Amon-Simmonds,1-6,1,6,0,1,Completed,true,false,false
+UA013124,20 May 12,12,Royal Ave,BLTC,No. 2,James Larner,Samantha Amon-Simmonds,Samantha Amon-Simmonds,5-7,5,7,0,1,Completed,true,false,false
+UA013124,20 May 12,12,Royal Ave,BLTC,No. 3,Lewis Ryder-Hoy,Jessica Myers,Jessica Myers,3-6,3,6,0,1,Completed,true,false,false
+UA013124,20 May 12,12,Royal Ave,BLTC,No. 4,Fynn Marshall,Charlotte Myers,Charlotte Myers,4-6,4,6,0,1,Completed,true,false,false
+UA013131,27 May 12,13,Kooyong Xavier 1,Royal Ave,No. 1,Nicholas Farmer,Josephine Rassmussen,Nicholas Farmer,6-3,6,3,1,0,Completed,true,false,false
+UA013131,27 May 12,13,Kooyong Xavier 1,Royal Ave,No. 2,Lauren Crouch,Lewis Ryder-Hoy,Lauren Crouch,6-1,6,1,1,0,Completed,true,false,false
+UA013131,27 May 12,13,Kooyong Xavier 1,Royal Ave,No. 3,Jessica Pila,Jarred Ellis,Jessica Pila,6-0,6,0,1,0,Completed,true,false,false
+UA013131,27 May 12,13,Kooyong Xavier 1,Royal Ave,No. 4,Tania Szwarczberg,Fynn Marshall,Fynn Marshall,0-6,0,6,0,1,Completed,true,false,false
+UA013132,27 May 12,13,BLTC,Tennis World,No. 1,Natasha Amon-Simmonds,Toby Peterson,Natasha Amon-Simmonds,6-4,6,4,1,0,Completed,true,false,false
+UA013132,27 May 12,13,BLTC,Tennis World,No. 2,Samantha Amon-Simmonds,Tallie Collins,Tallie Collins,1-6,1,6,0,1,Completed,true,false,false
+UA013132,27 May 12,13,BLTC,Tennis World,No. 3,Taylor Nixon,Michaella Majdan,Michaella Majdan,1-6,1,6,0,1,Completed,true,false,false
+UA013132,27 May 12,13,BLTC,Tennis World,No. 4,Jessica Myers,Kieren Urich,Jessica Myers,6-2,6,2,1,0,Completed,true,false,false
+UA013133,27 May 12,13,Le Page,Kooyong Xavier 2,No. 1,Jack Chapple,Dane Martin-Endres,Jack Chapple,6-0,6,0,1,0,Completed,true,false,false
+UA013133,27 May 12,13,Le Page,Kooyong Xavier 2,No. 2,Joshua Tremigliozzi,Jamaya Martin-Endres,Jamaya Martin-Endres,2-6,2,6,0,1,Completed,true,false,false
+UA013133,27 May 12,13,Le Page,Kooyong Xavier 2,No. 3,Nathan Gatti,Nicole Gdanski,Nathan Gatti,7-6,7,6,1,0,Completed,true,false,false
+UA013133,27 May 12,13,Le Page,Kooyong Xavier 2,No. 4,Evie Tripp,Linus Bell,Evie Tripp,6-3,6,3,1,0,Completed,true,false,false
+UA013134,27 May 12,13,Hampton,Maccabi,No. 1,Ellen Cooke,Raphael Wirth,Raphael Wirth,2-6,2,6,0,1,Completed,true,false,false
+UA013134,27 May 12,13,Hampton,Maccabi,No. 2,Meika Buchhorn,Joshua Dorfan,Joshua Dorfan,1-6,1,6,0,1,Completed,true,false,false
+UA013134,27 May 12,13,Hampton,Maccabi,No. 3,Kiara Earle,Joshua Sharp,Joshua Sharp,0-6,0,6,0,1,Completed,true,false,false
+UA013134,27 May 12,13,Hampton,Maccabi,No. 4,Jordie Mellas,Amor Jasika,Amor Jasika,0-6,0,6,0,1,Completed,true,false,false
+UA013141,03 Jun 12,14,Kooyong Xavier 1,BLTC,No. 1,Nicholas Farmer,Natasha Amon-Simmonds,Nicholas Farmer,6-4,6,4,1,0,Completed,true,false,false
+UA013141,03 Jun 12,14,Kooyong Xavier 1,BLTC,No. 2,Angus Cosgriff,Samantha Amon-Simmonds,Samantha Amon-Simmonds,0-6,0,6,0,1,Completed,true,false,false
+UA013141,03 Jun 12,14,Kooyong Xavier 1,BLTC,No. 3,Tania Szwarczberg,Jessica Myers,Jessica Myers,2-6,2,6,0,1,Completed,true,false,false
+UA013141,03 Jun 12,14,Kooyong Xavier 1,BLTC,No. 4,Jessica Pila,Charlotte Myers,Jessica Pila,6-2,6,2,1,0,Completed,true,false,false
+UA013142,03 Jun 12,14,Tennis World,Royal Ave,No. 1,Toby Peterson,Josephine Rassmussen,Toby Peterson,6-1,6,1,1,0,Completed,true,false,false
+UA013142,03 Jun 12,14,Tennis World,Royal Ave,No. 2,Tallie Collins,James Larner,Tallie Collins,6-3,6,3,1,0,Completed,true,false,false
+UA013142,03 Jun 12,14,Tennis World,Royal Ave,No. 3,Julia Skiold,Jarred Ellis,Julia Skiold,6-2,6,2,1,0,Completed,true,false,false
+UA013142,03 Jun 12,14,Tennis World,Royal Ave,No. 4,Kieren Urich,Fynn Marshall,Kieren Urich,6-1,6,1,1,0,Completed,true,false,false
+UA013143,03 Jun 12,14,Le Page,Hampton,No. 1,Joshua Tremigliozzi,Fletcher Pullen,Joshua Tremigliozzi,7-6,7,6,1,0,Completed,true,false,false
+UA013143,03 Jun 12,14,Le Page,Hampton,No. 2,Nathan Gatti,Sarah Goddard,Nathan Gatti,6-1,6,1,1,0,Completed,true,false,false
+UA013301,,16,Tennis World,Le Page,No. 1,Toby Peterson,Joshua Tremigliozzi,Toby Peterson,6-3,6,3,1,0,Completed,true,false,false
+UA013301,,16,Tennis World,Le Page,No. 2,Tallie Collins,Nathan Gatti,Tallie Collins,6-0,6,0,1,0,Completed,true,false,false
+UA013301,,16,Tennis World,Le Page,No. 3,Julia Skiold,Evie Tripp,Julia Skiold,6-2,6,2,1,0,Completed,true,false,false
+UA013301,,16,Tennis World,Le Page,No. 4,Kieren Urich,Ben Gerresheirn,Kieren Urich,6-3,6,3,1,0,Completed,true,false,false
+UA013302,,16,Kooyong Xavier 1,BLTC,No. 1,Nicholas Farmer,Natasha Amon-Simmonds,Nicholas Farmer,6-4,6,4,1,0,Completed,true,false,false
+UA013302,,16,Kooyong Xavier 1,BLTC,No. 2,Lauren Crouch,Samantha Amon-Simmonds,Samantha Amon-Simmonds,0-6,0,6,0,1,Completed,true,false,false
+UA013302,,16,Kooyong Xavier 1,BLTC,No. 3,Tania Szwarczberg,Jessica Myers,Tania Szwarczberg,6-3,6,3,1,0,Completed,true,false,false
+UA013302,,16,Kooyong Xavier 1,BLTC,No. 4,Jessica Pila,Charlotte Myers,Jessica Pila,6-3,6,3,1,0,Completed,true,false,false
+UA013321,,17,Tennis World,BLTC,No. 1,Toby Peterson,Natasha Amon-Simmonds,Toby Peterson,7-5,7,5,1,0,Completed,true,false,false
+UA013321,,17,Tennis World,BLTC,No. 2,Tallie Collins,Samantha Amon-Simmonds,Tallie Collins,6-1,6,1,1,0,Completed,true,false,false
+UA013321,,17,Tennis World,BLTC,No. 3,Julia Skiold,Jessica Myers,Julia Skiold,6-1,6,1,1,0,Completed,true,false,false
+UA013321,,17,Tennis World,BLTC,No. 4,Kieren Urich,Charlotte Myers,Charlotte Myers,5-7,5,7,0,1,Completed,true,false,false

@@ -1,0 +1,229 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA014011,03 Feb 19,1,BLTC,Royal South Yarra,No. 1,Finlay Hickey,Priscilla Breadmore,Finlay Hickey,6-1,6,1,1,0,Completed,true,false,false
+UA014011,03 Feb 19,1,BLTC,Royal South Yarra,No. 2,Austin Taleb,Allegra Tremlett,Allegra Tremlett,1-6,1,6,0,1,Completed,true,false,false
+UA014011,03 Feb 19,1,BLTC,Royal South Yarra,No. 3,Ben Harris,Lucy Ollerenshaw,Ben Harris,6-3,6,3,1,0,Completed,true,false,false
+UA014011,03 Feb 19,1,BLTC,Royal South Yarra,No. 4,Nic Salah,Charlie Long,Nic Salah,6-1,6,1,1,0,Completed,true,false,false
+UA014012,03 Feb 19,1,Parkdale,Royal Ave,No. 1,Fabrizio Cascino,Harry Toomey,Fabrizio Cascino,6-2,6,2,1,0,Completed,true,false,false
+UA014012,03 Feb 19,1,Parkdale,Royal Ave,No. 2,Ruby Gonis,Mia Hilaris,Mia Hilaris,4-6,4,6,0,1,Completed,true,false,false
+UA014012,03 Feb 19,1,Parkdale,Royal Ave,No. 3,Jonathon Wood,Natalie Dureau,Jonathon Wood,6-1,6,1,1,0,Completed,true,false,false
+UA014012,03 Feb 19,1,Parkdale,Royal Ave,No. 4,Drew Stone,Oscar Meadows,Drew Stone,6-0,6,0,1,0,Completed,true,false,false
+UA014013,03 Feb 19,1,Kooyong Scotch,Bentleigh Rec,No. 1,Ava Synnott,Kevin Zhou,Kevin Zhou,0-6,0,6,0,1,Completed,true,false,false
+UA014013,03 Feb 19,1,Kooyong Scotch,Bentleigh Rec,No. 2,Alex Kotsirilos,Ishan Mitra,Ishan Mitra,5-7,5,7,0,1,Completed,true,false,false
+UA014013,03 Feb 19,1,Kooyong Scotch,Bentleigh Rec,No. 3,Declan Li,Charlie Redman,Charlie Redman,2-6,2,6,0,1,Completed,true,false,false
+UA014013,03 Feb 19,1,Kooyong Scotch,Bentleigh Rec,No. 4,Joe Zayontz,Stephen Rassias,Joe Zayontz,6-2,6,2,1,0,Completed,true,false,false
+UA014014,03 Feb 19,1,Lauriston,Coatesville,No. 1,Yani Rakach,Sienna Yokota-Ho,Yani Rakach,6-4,6,4,1,0,Completed,true,false,false
+UA014014,03 Feb 19,1,Lauriston,Coatesville,No. 2,Daniel Kazakevich,Jenson Yokota-Ho,Jenson Yokota-Ho,1-6,1,6,0,1,Completed,true,false,false
+UA014014,03 Feb 19,1,Lauriston,Coatesville,No. 3,Joshua Smith,Lachlan Newby,Joshua Smith,6-1,6,1,1,0,Completed,true,false,false
+UA014014,03 Feb 19,1,Lauriston,Coatesville,No. 4,Alexander Marsionis,Luke McGuiness,Luke McGuiness,2-6,2,6,0,1,Completed,true,false,false
+UA014021,10 Feb 19,2,Coatesville,BLTC,No. 1,Sienna Yokota-Ho,Ben Harris,Sienna Yokota-Ho,6-0,6,0,1,0,Completed,true,false,false
+UA014021,10 Feb 19,2,Coatesville,BLTC,No. 2,Jenson Yokota-Ho,Nic Salah,Jenson Yokota-Ho,6-0,6,0,1,0,Completed,true,false,false
+UA014021,10 Feb 19,2,Coatesville,BLTC,No. 3,Luke McGuiness,Austin Taleb,Luke McGuiness,6-1,6,1,1,0,Completed,true,false,false
+UA014021,10 Feb 19,2,Coatesville,BLTC,No. 4,Jonah Dela Cruz,Michael Bajaj,Jonah Dela Cruz,6-4,6,4,1,0,Completed,true,false,false
+UA014022,10 Feb 19,2,Royal South Yarra,Parkdale,No. 1,Fletcher Sutterby,Fabrizio Cascino,Fabrizio Cascino,3-6,3,6,0,1,Completed,true,false,false
+UA014022,10 Feb 19,2,Royal South Yarra,Parkdale,No. 2,Charlie Sutterby,Ruby Gonis,Ruby Gonis,1-6,1,6,0,1,Completed,true,false,false
+UA014022,10 Feb 19,2,Royal South Yarra,Parkdale,No. 3,Oliver Breadmore,Jonathon Wood,Jonathon Wood,6-7,6,7,0,1,Completed,true,false,false
+UA014022,10 Feb 19,2,Royal South Yarra,Parkdale,No. 4,Phoebe Ollerenshaw,Caitlin Hichey-Kerr,Phoebe Ollerenshaw,7-5,7,5,1,0,Completed,true,false,false
+UA014023,10 Feb 19,2,Royal Ave,Kooyong Scotch,No. 1,Harry Toomey,Ava Synnott,Harry Toomey,6-1,6,1,1,0,Completed,true,false,false
+UA014023,10 Feb 19,2,Royal Ave,Kooyong Scotch,No. 2,Mia Hilaris,Mia Lennon,Mia Hilaris,7-5,7,5,1,0,Completed,true,false,false
+UA014023,10 Feb 19,2,Royal Ave,Kooyong Scotch,No. 3,Natalie Dureau,Alex Kotsirilos,Alex Kotsirilos,1-6,1,6,0,1,Completed,true,false,false
+UA014023,10 Feb 19,2,Royal Ave,Kooyong Scotch,No. 4,Vadim Goreux,Claire Sorger,Vadim Goreux,7-6,7,6,1,0,Completed,true,false,false
+UA014024,10 Feb 19,2,Bentleigh Rec,Lauriston,No. 1,Kevin Zhou,Daniel Kazakevich,Kevin Zhou,6-4,6,4,1,0,Completed,true,false,false
+UA014024,10 Feb 19,2,Bentleigh Rec,Lauriston,No. 2,Ailand Daly,Joshua Smith,Ailand Daly,6-0,6,0,1,0,Completed,true,false,false
+UA014024,10 Feb 19,2,Bentleigh Rec,Lauriston,No. 3,Charlie Redman,Alexander Marsionis,Charlie Redman,6-4,6,4,1,0,Completed,true,false,false
+UA014024,10 Feb 19,2,Bentleigh Rec,Lauriston,No. 4,Quin Daly,John Paul Suntuso,John Paul Suntuso,2-6,2,6,0,1,Completed,true,false,false
+UA014031,17 Feb 19,3,BLTC,Bentleigh Rec,No. 1,Finlay Hickey,Ailand Daly,Ailand Daly,1-6,1,6,0,1,Completed,true,false,false
+UA014031,17 Feb 19,3,BLTC,Bentleigh Rec,No. 2,Nic Salah,Charlie Redman,Charlie Redman,2-6,2,6,0,1,Completed,true,false,false
+UA014031,17 Feb 19,3,BLTC,Bentleigh Rec,No. 3,Austin Taleb,Quin Daly,Austin Taleb,6-2,6,2,1,0,Completed,true,false,false
+UA014031,17 Feb 19,3,BLTC,Bentleigh Rec,No. 4,Michael Bajaj,Stephen Rassias,Stephen Rassias,0-6,0,6,0,1,Completed,true,false,false
+UA014032,17 Feb 19,3,Parkdale,Coatesville,No. 1,Fabrizio Cascino,Sienna Yokota-Ho,Sienna Yokota-Ho,2-6,2,6,0,1,Completed,true,false,false
+UA014032,17 Feb 19,3,Parkdale,Coatesville,No. 2,Jonathon Wood,Jenson Yokota-Ho,Jenson Yokota-Ho,1-6,1,6,0,1,Completed,true,false,false
+UA014032,17 Feb 19,3,Parkdale,Coatesville,No. 3,Drew Stone,Lachlan Newby,Drew Stone,6-1,6,1,1,0,Completed,true,false,false
+UA014032,17 Feb 19,3,Parkdale,Coatesville,No. 4,Caitlin Hichey-Kerr,Luke McGuiness,Luke McGuiness,3-6,3,6,0,1,Completed,true,false,false
+UA014033,17 Feb 19,3,Kooyong Scotch,Royal South Yarra,No. 1,Ava Synnott,Fletcher Sutterby,Ava Synnott,6-2,6,2,1,0,Completed,true,false,false
+UA014033,17 Feb 19,3,Kooyong Scotch,Royal South Yarra,No. 2,Mia Lennon,Lucy Ollerenshaw,Mia Lennon,6-0,6,0,1,0,Completed,true,false,false
+UA014033,17 Feb 19,3,Kooyong Scotch,Royal South Yarra,No. 3,Alex Kotsirilos,Oliver Breadmore,Alex Kotsirilos,7-6,7,6,1,0,Completed,true,false,false
+UA014033,17 Feb 19,3,Kooyong Scotch,Royal South Yarra,No. 4,Joe Zayontz,Charlie Long,Joe Zayontz,6-1,6,1,1,0,Completed,true,false,false
+UA014034,17 Feb 19,3,Lauriston,Royal Ave,No. 1,Daniel Kazakevich,Mia Hilaris,Daniel Kazakevich,7-5,7,5,1,0,Completed,true,false,false
+UA014034,17 Feb 19,3,Lauriston,Royal Ave,No. 2,Alexander Marsionis,Natalie Dureau,Alexander Marsionis,6-0,6,0,1,0,Completed,true,false,false
+UA014034,17 Feb 19,3,Lauriston,Royal Ave,No. 3,Lucas Nenke,Vadim Goreux,Lucas Nenke,6-4,6,4,1,0,Completed,true,false,false
+UA014034,17 Feb 19,3,Lauriston,Royal Ave,No. 4,John Paul Suntuso,Oscar Meadows,John Paul Suntuso,6-2,6,2,1,0,Completed,true,false,false
+UA014041,24 Feb 19,4,Royal Ave,BLTC,No. 1,Harry Toomey,Ben Harris,Ben Harris,2-6,2,6,0,1,Completed,true,false,false
+UA014041,24 Feb 19,4,Royal Ave,BLTC,No. 2,Natalie Dureau,Finlay Hickey,Finlay Hickey,1-6,1,6,0,1,Completed,true,false,false
+UA014041,24 Feb 19,4,Royal Ave,BLTC,No. 3,Vadim Goreux,Nic Salah,Nic Salah,0-6,0,6,0,1,Completed,true,false,false
+UA014041,24 Feb 19,4,Royal Ave,BLTC,No. 4,Oscar Meadows,Michael Bajaj,Oscar Meadows,6-2,6,2,1,0,Completed,true,false,false
+UA014042,24 Feb 19,4,Bentleigh Rec,Parkdale,No. 1,Kevin Zhou,Fabrizio Cascino,Kevin Zhou,6-0,6,0,1,0,Completed,true,false,false
+UA014042,24 Feb 19,4,Bentleigh Rec,Parkdale,No. 2,Ishan Mitra,Ruby Gonis,Ishan Mitra,6-2,6,2,1,0,Completed,true,false,false
+UA014042,24 Feb 19,4,Bentleigh Rec,Parkdale,No. 3,Charlie Redman,Drew Stone,Charlie Redman,6-3,6,3,1,0,Completed,true,false,false
+UA014042,24 Feb 19,4,Bentleigh Rec,Parkdale,No. 4,Stephen Rassias,Caitlin Hichey-Kerr,Stephen Rassias,6-4,6,4,1,0,Completed,true,false,false
+UA014043,24 Feb 19,4,Coatesville,Kooyong Scotch,No. 1,Sienna Yokota-Ho,Alex Kotsirilos,Sienna Yokota-Ho,6-4,6,4,1,0,Completed,true,false,false
+UA014043,24 Feb 19,4,Coatesville,Kooyong Scotch,No. 2,Jenson Yokota-Ho,Declan Li,Jenson Yokota-Ho,6-2,6,2,1,0,Completed,true,false,false
+UA014043,24 Feb 19,4,Coatesville,Kooyong Scotch,No. 3,Luke McGuiness,Joe Zayontz,Joe Zayontz,1-6,1,6,0,1,Completed,true,false,false
+UA014043,24 Feb 19,4,Coatesville,Kooyong Scotch,No. 4,Jonah Dela Cruz,Jemima Bell,Jonah Dela Cruz,6-3,6,3,1,0,Completed,true,false,false
+UA014044,24 Feb 19,4,Royal South Yarra,Lauriston,No. 1,Priscilla Breadmore,Joshua Smith,Priscilla Breadmore,6-1,6,1,1,0,Completed,true,false,false
+UA014044,24 Feb 19,4,Royal South Yarra,Lauriston,No. 2,Allegra Tremlett,Lucas Nenke,Allegra Tremlett,6-3,6,3,1,0,Completed,true,false,false
+UA014044,24 Feb 19,4,Royal South Yarra,Lauriston,No. 3,Lucy Ollerenshaw,John Paul Suntuso,John Paul Suntuso,3-6,3,6,0,1,Completed,true,false,false
+UA014044,24 Feb 19,4,Royal South Yarra,Lauriston,No. 4,Freddie Tremlett,Teva Lott,Freddie Tremlett,6-2,6,2,1,0,Completed,true,false,false
+UA014051,03 Mar 19,5,Kooyong Scotch,Lauriston,No. 1,Ava Synnott,Daniel Kazakevich,Daniel Kazakevich,3-6,3,6,0,1,Completed,true,false,false
+UA014051,03 Mar 19,5,Kooyong Scotch,Lauriston,No. 2,Mia Lennon,Joshua Smith,Joshua Smith,3-6,3,6,0,1,Completed,true,false,false
+UA014051,03 Mar 19,5,Kooyong Scotch,Lauriston,No. 3,Alex Kotsirilos,Alexander Marsionis,Alex Kotsirilos,6-0,6,0,1,0,Completed,true,false,false
+UA014051,03 Mar 19,5,Kooyong Scotch,Lauriston,No. 4,Claire Sorger,Lucas Nenke,Lucas Nenke,0-6,0,6,0,1,Completed,true,false,false
+UA014052,03 Mar 19,5,Coatesville,Bentleigh Rec,No. 1,Sienna Yokota-Ho,Kevin Zhou,Kevin Zhou,5-7,5,7,0,1,Completed,true,false,false
+UA014052,03 Mar 19,5,Coatesville,Bentleigh Rec,No. 2,Jenson Yokota-Ho,Ailand Daly,Jenson Yokota-Ho,6-1,6,1,1,0,Completed,true,false,false
+UA014052,03 Mar 19,5,Coatesville,Bentleigh Rec,No. 3,Lachlan Newby,Ishan Mitra,Ishan Mitra,2-6,2,6,0,1,Completed,true,false,false
+UA014052,03 Mar 19,5,Coatesville,Bentleigh Rec,No. 4,Jonah Dela Cruz,Quin Daly,Jonah Dela Cruz,6-3,6,3,1,0,Completed,true,false,false
+UA014053,03 Mar 19,5,Royal Ave,Royal South Yarra,No. 1,Harry Toomey,Priscilla Breadmore,Priscilla Breadmore,0-6,0,6,0,1,Completed,true,false,false
+UA014053,03 Mar 19,5,Royal Ave,Royal South Yarra,No. 2,Mia Hilaris,Allegra Tremlett,Allegra Tremlett,4-6,4,6,0,1,Completed,true,false,false
+UA014053,03 Mar 19,5,Royal Ave,Royal South Yarra,No. 3,Natalie Dureau,Oliver Breadmore,Oliver Breadmore,0-6,0,6,0,1,Completed,true,false,false
+UA014053,03 Mar 19,5,Royal Ave,Royal South Yarra,No. 4,Vadim Goreux,Phoebe Ollerenshaw,Phoebe Ollerenshaw,2-6,2,6,0,1,Completed,true,false,false
+UA014054,03 Mar 19,5,BLTC,Parkdale,No. 1,Finlay Hickey,Ruby Gonis,Finlay Hickey,7-5,7,5,1,0,Completed,true,false,false
+UA014054,03 Mar 19,5,BLTC,Parkdale,No. 2,Nic Salah,Jonathon Wood,Nic Salah,6-3,6,3,1,0,Completed,true,false,false
+UA014054,03 Mar 19,5,BLTC,Parkdale,No. 3,Austin Taleb,Drew Stone,Drew Stone,3-6,3,6,0,1,Completed,true,false,false
+UA014054,03 Mar 19,5,BLTC,Parkdale,No. 4,Michael Bajaj,Caitlin Hichey-Kerr,Michael Bajaj,6-2,6,2,1,0,Completed,true,false,false
+UA014061,17 Mar 19,6,Parkdale,Kooyong Scotch,No. 1,Fabrizio Cascino,Alex Kotsirilos,Alex Kotsirilos,4-6,4,6,0,1,Completed,true,false,false
+UA014061,17 Mar 19,6,Parkdale,Kooyong Scotch,No. 2,Ruby Gonis,Declan Li,Declan Li,1-6,1,6,0,1,Completed,true,false,false
+UA014061,17 Mar 19,6,Parkdale,Kooyong Scotch,No. 3,Drew Stone,Claire Sorger,Drew Stone,6-0,6,0,1,0,Completed,true,false,false
+UA014061,17 Mar 19,6,Parkdale,Kooyong Scotch,No. 4,Caitlin Hichey-Kerr,Joe Zayontz,Joe Zayontz,2-6,2,6,0,1,Completed,true,false,false
+UA014062,17 Mar 19,6,Lauriston,BLTC,No. 1,Joshua Smith,Ben Harris,Joshua Smith,6-4,6,4,1,0,Completed,true,false,false
+UA014062,17 Mar 19,6,Lauriston,BLTC,No. 2,Alexander Marsionis,Finlay Hickey,Finlay Hickey,5-7,5,7,0,1,Completed,true,false,false
+UA014062,17 Mar 19,6,Lauriston,BLTC,No. 3,John Paul Suntuso,Nic Salah,Nic Salah,1-6,1,6,0,1,Completed,true,false,false
+UA014062,17 Mar 19,6,Lauriston,BLTC,No. 4,Teva Lott,Austin Taleb,Austin Taleb,2-6,2,6,0,1,Completed,true,false,false
+UA014063,17 Mar 19,6,Bentleigh Rec,Royal Ave,No. 1,Kevin Zhou,Harry Toomey,Kevin Zhou,6-1,6,1,1,0,Completed,true,false,false
+UA014063,17 Mar 19,6,Bentleigh Rec,Royal Ave,No. 2,Ishan Mitra,Mia Hilaris,Ishan Mitra,6-1,6,1,1,0,Completed,true,false,false
+UA014063,17 Mar 19,6,Bentleigh Rec,Royal Ave,No. 3,Charlie Redman,Vadim Goreux,Charlie Redman,6-2,6,2,1,0,Completed,true,false,false
+UA014063,17 Mar 19,6,Bentleigh Rec,Royal Ave,No. 4,Stephen Rassias,Oscar Meadows,Stephen Rassias,6-2,6,2,1,0,Completed,true,false,false
+UA014064,17 Mar 19,6,Royal South Yarra,Coatesville,No. 1,Allegra Tremlett,Sienna Yokota-Ho,Sienna Yokota-Ho,3-6,3,6,0,1,Completed,true,false,false
+UA014064,17 Mar 19,6,Royal South Yarra,Coatesville,No. 2,Lucy Ollerenshaw,Jenson Yokota-Ho,Jenson Yokota-Ho,0-6,0,6,0,1,Completed,true,false,false
+UA014064,17 Mar 19,6,Royal South Yarra,Coatesville,No. 3,Charlie Sutterby,Luke McGuiness,Luke McGuiness,1-6,1,6,0,1,Completed,true,false,false
+UA014064,17 Mar 19,6,Royal South Yarra,Coatesville,No. 4,Phoebe Ollerenshaw,Jonah Dela Cruz,Jonah Dela Cruz,4-6,4,6,0,1,Completed,true,false,false
+UA014071,24 Mar 19,7,BLTC,Kooyong Scotch,No. 1,Ben Harris,Ava Synnott,Ben Harris,7-5,7,5,1,0,Completed,true,false,false
+UA014071,24 Mar 19,7,BLTC,Kooyong Scotch,No. 2,Finlay Hickey,Mia Lennon,Finlay Hickey,6-0,6,0,1,0,Completed,true,false,false
+UA014071,24 Mar 19,7,BLTC,Kooyong Scotch,No. 3,Austin Taleb,Alex Kotsirilos,Austin Taleb,6-4,6,4,1,0,Completed,true,false,false
+UA014071,24 Mar 19,7,BLTC,Kooyong Scotch,No. 4,Michael Bajaj,Claire Sorger,Michael Bajaj,7-5,7,5,1,0,Completed,true,false,false
+UA014072,24 Mar 19,7,Parkdale,Lauriston,No. 1,Fabrizio Cascino,Daniel Kazakevich,Fabrizio Cascino,6-4,6,4,1,0,Completed,true,false,false
+UA014072,24 Mar 19,7,Parkdale,Lauriston,No. 2,Ruby Gonis,Lucas Nenke,Lucas Nenke,3-6,3,6,0,1,Completed,true,false,false
+UA014072,24 Mar 19,7,Parkdale,Lauriston,No. 3,Drew Stone,John Paul Suntuso,Drew Stone,6-1,6,1,1,0,Completed,true,false,false
+UA014072,24 Mar 19,7,Parkdale,Lauriston,No. 4,Caitlin Hichey-Kerr,Teva Lott,Caitlin Hichey-Kerr,6-2,6,2,1,0,Completed,true,false,false
+UA014073,24 Mar 19,7,Coatesville,Royal Ave,No. 1,Sienna Yokota-Ho,Harry Toomey,Sienna Yokota-Ho,6-0,6,0,1,0,Completed,true,false,false
+UA014073,24 Mar 19,7,Coatesville,Royal Ave,No. 2,Jenson Yokota-Ho,Mia Hilaris,Jenson Yokota-Ho,6-1,6,1,1,0,Completed,true,false,false
+UA014073,24 Mar 19,7,Coatesville,Royal Ave,No. 3,Lachlan Newby,Natalie Dureau,Lachlan Newby,6-1,6,1,1,0,Completed,true,false,false
+UA014073,24 Mar 19,7,Coatesville,Royal Ave,No. 4,Luke McGuiness,Vadim Goreux,Luke McGuiness,6-1,6,1,1,0,Completed,true,false,false
+UA014074,24 Mar 19,7,Bentleigh Rec,Royal South Yarra,No. 1,Kevin Zhou,Priscilla Breadmore,Kevin Zhou,6-2,6,2,1,0,Completed,true,false,false
+UA014074,24 Mar 19,7,Bentleigh Rec,Royal South Yarra,No. 2,Ailand Daly,Fletcher Sutterby,Ailand Daly,6-1,6,1,1,0,Completed,true,false,false
+UA014074,24 Mar 19,7,Bentleigh Rec,Royal South Yarra,No. 3,Ishan Mitra,Lucy Ollerenshaw,Ishan Mitra,6-1,6,1,1,0,Completed,true,false,false
+UA014074,24 Mar 19,7,Bentleigh Rec,Royal South Yarra,No. 4,Quin Daly,Charlie Long,Charlie Long,1-6,1,6,0,1,Completed,true,false,false
+UA014081,31 Mar 19,8,Royal South Yarra,BLTC,No. 1,Charlie Sutterby,Ben Harris,Ben Harris,0-6,0,6,0,1,Completed,true,false,false
+UA014081,31 Mar 19,8,Royal South Yarra,BLTC,No. 2,Lucy Ollerenshaw,Finlay Hickey,Finlay Hickey,3-6,3,6,0,1,Completed,true,false,false
+UA014081,31 Mar 19,8,Royal South Yarra,BLTC,No. 3,Charlie Long,Nic Salah,Nic Salah,2-6,2,6,0,1,Completed,true,false,false
+UA014081,31 Mar 19,8,Royal South Yarra,BLTC,No. 4,Phoebe Ollerenshaw,Austin Taleb,Austin Taleb,4-6,4,6,0,1,Completed,true,false,false
+UA014082,31 Mar 19,8,Royal Ave,Parkdale,No. 1,Mia Hilaris,Fabrizio Cascino,Mia Hilaris,6-0,6,0,1,0,Completed,true,false,false
+UA014082,31 Mar 19,8,Royal Ave,Parkdale,No. 2,Natalie Dureau,Ruby Gonis,Ruby Gonis,2-6,2,6,0,1,Completed,true,false,false
+UA014082,31 Mar 19,8,Royal Ave,Parkdale,No. 3,Vadim Goreux,Jonathon Wood,Jonathon Wood,2-6,2,6,0,1,Completed,true,false,false
+UA014082,31 Mar 19,8,Royal Ave,Parkdale,No. 4,Oscar Meadows,Caitlin Hichey-Kerr,Caitlin Hichey-Kerr,3-6,3,6,0,1,Completed,true,false,false
+UA014083,31 Mar 19,8,Bentleigh Rec,Kooyong Scotch,No. 1,Ailand Daly,Mia Lennon,Ailand Daly,6-1,6,1,1,0,Completed,true,false,false
+UA014083,31 Mar 19,8,Bentleigh Rec,Kooyong Scotch,No. 2,Ishan Mitra,Declan Li,Ishan Mitra,6-4,6,4,1,0,Completed,true,false,false
+UA014083,31 Mar 19,8,Bentleigh Rec,Kooyong Scotch,No. 3,Stephen Rassias,Joe Zayontz,Joe Zayontz,3-6,3,6,0,1,Completed,true,false,false
+UA014083,31 Mar 19,8,Bentleigh Rec,Kooyong Scotch,No. 4,Quin Daly,Jemima Bell,Jemima Bell,0-6,0,6,0,1,Completed,true,false,false
+UA014084,31 Mar 19,8,Coatesville,Lauriston,No. 1,Jenson Yokota-Ho,Daniel Kazakevich,Jenson Yokota-Ho,6-4,6,4,1,0,Completed,true,false,false
+UA014084,31 Mar 19,8,Coatesville,Lauriston,No. 2,Sienna Yokota-Ho,Joshua Smith,Sienna Yokota-Ho,6-2,6,2,1,0,Completed,true,false,false
+UA014084,31 Mar 19,8,Coatesville,Lauriston,No. 3,Jonah Dela Cruz,Lucas Nenke,Lucas Nenke,3-6,3,6,0,1,Completed,true,false,false
+UA014084,31 Mar 19,8,Coatesville,Lauriston,No. 4,Luke McGuiness,John Paul Suntuso,Luke McGuiness,6-0,6,0,1,0,Completed,true,false,false
+UA014091,28 Apr 19,9,BLTC,Coatesville,No. 1,Ben Harris,Jenson Yokota-Ho,Jenson Yokota-Ho,1-6,1,6,0,1,Completed,true,false,false
+UA014091,28 Apr 19,9,BLTC,Coatesville,No. 2,Finlay Hickey,Sienna Yokota-Ho,Sienna Yokota-Ho,0-6,0,6,0,1,Completed,true,false,false
+UA014091,28 Apr 19,9,BLTC,Coatesville,No. 3,Nic Salah,Sara Pilious,Sara Pilious,3-6,3,6,0,1,Completed,true,false,false
+UA014091,28 Apr 19,9,BLTC,Coatesville,No. 4,Michael Bajaj,Lachlan Newby,Lachlan Newby,3-6,3,6,0,1,Completed,true,false,false
+UA014093,28 Apr 19,9,Kooyong Scotch,Royal Ave,No. 1,Declan Li,Harry Toomey,Declan Li,6-0,6,0,1,0,Completed,true,false,false
+UA014093,28 Apr 19,9,Kooyong Scotch,Royal Ave,No. 2,Claire Sorger,Natalie Dureau,Natalie Dureau,4-6,4,6,0,1,Completed,true,false,false
+UA014093,28 Apr 19,9,Kooyong Scotch,Royal Ave,No. 3,Joe Zayontz,Vadim Goreux,Joe Zayontz,6-1,6,1,1,0,Completed,true,false,false
+UA014093,28 Apr 19,9,Kooyong Scotch,Royal Ave,No. 4,Ashton Coster,Oscar Meadows,Ashton Coster,6-1,6,1,1,0,Completed,true,false,false
+UA014094,28 Apr 19,9,Lauriston,Bentleigh Rec,No. 1,Daniel Kazakevich,Kevin Zhou,Kevin Zhou,3-6,3,6,0,1,Completed,true,false,false
+UA014094,28 Apr 19,9,Lauriston,Bentleigh Rec,No. 2,Joshua Smith,Ailand Daly,Ailand Daly,3-6,3,6,0,1,Completed,true,false,false
+UA014094,28 Apr 19,9,Lauriston,Bentleigh Rec,No. 3,Teva Lott,Ishan Mitra,Ishan Mitra,3-6,3,6,0,1,Completed,true,false,false
+UA014094,28 Apr 19,9,Lauriston,Bentleigh Rec,No. 4,Arron Nazaretian,Charlie Redman,Charlie Redman,3-6,3,6,0,1,Completed,true,false,false
+UA014101,05 May 19,10,Bentleigh Rec,BLTC,No. 1,Kevin Zhou,Ben Harris,Kevin Zhou,6-4,6,4,1,0,Completed,true,false,false
+UA014101,05 May 19,10,Bentleigh Rec,BLTC,No. 2,Ailand Daly,Finlay Hickey,Ailand Daly,6-3,6,3,1,0,Completed,true,false,false
+UA014101,05 May 19,10,Bentleigh Rec,BLTC,No. 3,Ishan Mitra,Austin Taleb,Ishan Mitra,6-1,6,1,1,0,Completed,true,false,false
+UA014101,05 May 19,10,Bentleigh Rec,BLTC,No. 4,Charlie Redman,Michael Bajaj,Charlie Redman,6-1,6,1,1,0,Completed,true,false,false
+UA014102,05 May 19,10,Coatesville,Parkdale,No. 1,Jenson Yokota-Ho,Ruby Gonis,Jenson Yokota-Ho,6-0,6,0,1,0,Completed,true,false,false
+UA014102,05 May 19,10,Coatesville,Parkdale,No. 2,Sienna Yokota-Ho,Jonathon Wood,Sienna Yokota-Ho,6-1,6,1,1,0,Completed,true,false,false
+UA014102,05 May 19,10,Coatesville,Parkdale,No. 3,Jonah Dela Cruz,Drew Stone,Jonah Dela Cruz,6-3,6,3,1,0,Completed,true,false,false
+UA014102,05 May 19,10,Coatesville,Parkdale,No. 4,Lachlan Newby,Thomas O'Conner,Thomas O'Conner,1-6,1,6,0,1,Completed,true,false,false
+UA014103,05 May 19,10,Royal South Yarra,Kooyong Scotch,No. 1,Priscilla Breadmore,Ava Synnott,Ava Synnott,4-6,4,6,0,1,Completed,true,false,false
+UA014103,05 May 19,10,Royal South Yarra,Kooyong Scotch,No. 2,Allegra Tremlett,Mia Lennon,Allegra Tremlett,6-0,6,0,1,0,Completed,true,false,false
+UA014103,05 May 19,10,Royal South Yarra,Kooyong Scotch,No. 3,Charlie Sutterby,Claire Sorger,Claire Sorger,2-6,2,6,0,1,Completed,true,false,false
+UA014103,05 May 19,10,Royal South Yarra,Kooyong Scotch,No. 4,Lucy Ollerenshaw,Joe Zayontz,Joe Zayontz,0-6,0,6,0,1,Completed,true,false,false
+UA014104,05 May 19,10,Royal Ave,Lauriston,No. 1,Harry Toomey,Joshua Smith,Harry Toomey,6-3,6,3,1,0,Completed,true,false,false
+UA014104,05 May 19,10,Royal Ave,Lauriston,No. 2,Natalie Dureau,Alexander Marsionis,Alexander Marsionis,3-6,3,6,0,1,Completed,true,false,false
+UA014104,05 May 19,10,Royal Ave,Lauriston,No. 3,Vadim Goreux,John Paul Suntuso,Vadim Goreux,6-3,6,3,1,0,Completed,true,false,false
+UA014104,05 May 19,10,Royal Ave,Lauriston,No. 4,Oscar Meadows,Arron Nazaretian,Arron Nazaretian,0-6,0,6,0,1,Completed,true,false,false
+UA014111,12 May 19,11,BLTC,Royal Ave,No. 1,Finlay Hickey,Mia Hilaris,Mia Hilaris,4-6,4,6,0,1,Completed,true,false,false
+UA014111,12 May 19,11,BLTC,Royal Ave,No. 2,Nic Salah,Natalie Dureau,Nic Salah,6-2,6,2,1,0,Completed,true,false,false
+UA014111,12 May 19,11,BLTC,Royal Ave,No. 3,Michael Bajaj,Vadim Goreux,Michael Bajaj,6-3,6,3,1,0,Completed,true,false,false
+UA014111,12 May 19,11,BLTC,Royal Ave,No. 4,Davis Nguyen,Arthur Coste,Davis Nguyen,6-0,6,0,1,0,Completed,true,false,false
+UA014112,12 May 19,11,Parkdale,Bentleigh Rec,No. 1,Fabrizio Cascino,Ailand Daly,Ailand Daly,0-6,0,6,0,1,Completed,true,false,false
+UA014112,12 May 19,11,Parkdale,Bentleigh Rec,No. 2,Ruby Gonis,Ishan Mitra,Ishan Mitra,0-6,0,6,0,1,Completed,true,false,false
+UA014112,12 May 19,11,Parkdale,Bentleigh Rec,No. 3,Jonathon Wood,Charlie Redman,Jonathon Wood,6-2,6,2,1,0,Completed,true,false,false
+UA014112,12 May 19,11,Parkdale,Bentleigh Rec,No. 4,Drew Stone,Stephen Rassias,Drew Stone,6-4,6,4,1,0,Completed,true,false,false
+UA014113,12 May 19,11,Kooyong Scotch,Coatesville,No. 1,Ava Synnott,Jenson Yokota-Ho,Jenson Yokota-Ho,6-7,6,7,0,1,Completed,true,false,false
+UA014113,12 May 19,11,Kooyong Scotch,Coatesville,No. 2,Claire Sorger,Sienna Yokota-Ho,Sienna Yokota-Ho,0-6,0,6,0,1,Completed,true,false,false
+UA014113,12 May 19,11,Kooyong Scotch,Coatesville,No. 3,Joe Zayontz,Jonah Dela Cruz,Joe Zayontz,7-5,7,5,1,0,Completed,true,false,false
+UA014113,12 May 19,11,Kooyong Scotch,Coatesville,No. 4,Ashton Coster,Lachlan Newby,Ashton Coster,6-3,6,3,1,0,Completed,true,false,false
+UA014114,12 May 19,11,Lauriston,Royal South Yarra,No. 1,Daniel Kazakevich,Allegra Tremlett,Allegra Tremlett,1-6,1,6,0,1,Completed,true,false,false
+UA014114,12 May 19,11,Lauriston,Royal South Yarra,No. 2,Joshua Smith,Fletcher Sutterby,Joshua Smith,7-6,7,6,1,0,Completed,true,false,false
+UA014114,12 May 19,11,Lauriston,Royal South Yarra,No. 3,Alexander Marsionis,Lucy Ollerenshaw,Alexander Marsionis,6-3,6,3,1,0,Completed,true,false,false
+UA014114,12 May 19,11,Lauriston,Royal South Yarra,No. 4,John Paul Suntuso,Charlie Long,John Paul Suntuso,6-4,6,4,1,0,Completed,true,false,false
+UA014121,19 May 19,12,Lauriston,Kooyong Scotch,No. 1,Daniel Kazakevich,Ava Synnott,Ava Synnott,1-6,1,6,0,1,Completed,true,false,false
+UA014121,19 May 19,12,Lauriston,Kooyong Scotch,No. 2,Alexander Marsionis,Mia Lennon,Alexander Marsionis,7-5,7,5,1,0,Completed,true,false,false
+UA014121,19 May 19,12,Lauriston,Kooyong Scotch,No. 3,John Paul Suntuso,Joe Zayontz,Joe Zayontz,1-6,1,6,0,1,Completed,true,false,false
+UA014121,19 May 19,12,Lauriston,Kooyong Scotch,No. 4,Teva Lott,Ashton Coster,Ashton Coster,1-6,1,6,0,1,Completed,true,false,false
+UA014122,19 May 19,12,Bentleigh Rec,Coatesville,No. 1,Kevin Zhou,Nathan Barlas,Nathan Barlas,6-7,6,7,0,1,Completed,true,false,false
+UA014122,19 May 19,12,Bentleigh Rec,Coatesville,No. 2,Ailand Daly,Jonah Dela Cruz,Jonah Dela Cruz,0-6,0,6,0,1,Completed,true,false,false
+UA014122,19 May 19,12,Bentleigh Rec,Coatesville,No. 3,Stephen Rassias,Lachlan Newby,Stephen Rassias,6-1,6,1,1,0,Completed,true,false,false
+UA014122,19 May 19,12,Bentleigh Rec,Coatesville,No. 4,Quin Daly,Anna Barlas,Anna Barlas,0-6,0,6,0,1,Completed,true,false,false
+UA014123,19 May 19,12,Royal South Yarra,Royal Ave,No. 1,Priscilla Breadmore,Harry Toomey,Harry Toomey,4-6,4,6,0,1,Completed,true,false,false
+UA014123,19 May 19,12,Royal South Yarra,Royal Ave,No. 2,Allegra Tremlett,Nick Vakrinos,Allegra Tremlett,6-2,6,2,1,0,Completed,true,false,false
+UA014123,19 May 19,12,Royal South Yarra,Royal Ave,No. 3,Charlie Sutterby,Vadim Goreux,Vadim Goreux,0-6,0,6,0,1,Completed,true,false,false
+UA014123,19 May 19,12,Royal South Yarra,Royal Ave,No. 4,Phoebe Ollerenshaw,Oscar Meadows,Phoebe Ollerenshaw,6-3,6,3,1,0,Completed,true,false,false
+UA014124,19 May 19,12,Parkdale,BLTC,No. 1,Fabrizio Cascino,Ben Harris,Ben Harris,1-6,1,6,0,1,Completed,true,false,false
+UA014124,19 May 19,12,Parkdale,BLTC,No. 2,Jonathon Wood,Finlay Hickey,Finlay Hickey,6-7,6,7,0,1,Completed,true,false,false
+UA014124,19 May 19,12,Parkdale,BLTC,No. 3,Drew Stone,Nic Salah,Nic Salah,3-6,3,6,0,1,Completed,true,false,false
+UA014124,19 May 19,12,Parkdale,BLTC,No. 4,Caitlin Hichey-Kerr,Austin Taleb,Austin Taleb,4-6,4,6,0,1,Completed,true,false,false
+UA014132,26 May 19,13,BLTC,Lauriston,No. 1,Finlay Hickey,Akhil Surapaneni,Akhil Surapaneni,3-6,3,6,0,1,Completed,true,false,false
+UA014132,26 May 19,13,BLTC,Lauriston,No. 2,Nic Salah,Daniel Kazakevich,Nic Salah,6-3,6,3,1,0,Completed,true,false,false
+UA014132,26 May 19,13,BLTC,Lauriston,No. 3,Michael Bajaj,Alexander Marsionis,Alexander Marsionis,3-6,3,6,0,1,Completed,true,false,false
+UA014132,26 May 19,13,BLTC,Lauriston,No. 4,Jack Rawlings,Aditya Reddycharlas,Aditya Reddycharlas,1-6,1,6,0,1,Completed,true,false,false
+UA014133,26 May 19,13,Royal Ave,Bentleigh Rec,No. 1,Harry Toomey,Kevin Zhou,Kevin Zhou,0-6,0,6,0,1,Completed,true,false,false
+UA014133,26 May 19,13,Royal Ave,Bentleigh Rec,No. 2,Mia Hilaris,Ailand Daly,Ailand Daly,4-6,4,6,0,1,Completed,true,false,false
+UA014133,26 May 19,13,Royal Ave,Bentleigh Rec,No. 3,Natalie Dureau,Ishan Mitra,Ishan Mitra,0-6,0,6,0,1,Completed,true,false,false
+UA014133,26 May 19,13,Royal Ave,Bentleigh Rec,No. 4,Oscar Meadows,Quin Daly,Oscar Meadows,6-2,6,2,1,0,Completed,true,false,false
+UA014134,26 May 19,13,Coatesville,Royal South Yarra,No. 1,Nathan Barlas,Fletcher Sutterby,Nathan Barlas,6-0,6,0,1,0,Completed,true,false,false
+UA014134,26 May 19,13,Coatesville,Royal South Yarra,No. 2,Jonah Dela Cruz,Charlie Sutterby,Jonah Dela Cruz,6-3,6,3,1,0,Completed,true,false,false
+UA014134,26 May 19,13,Coatesville,Royal South Yarra,No. 3,Lachlan Newby,Lucy Ollerenshaw,Lachlan Newby,6-2,6,2,1,0,Completed,true,false,false
+UA014134,26 May 19,13,Coatesville,Royal South Yarra,No. 4,Anna Barlas,Charlie Long,Anna Barlas,6-4,6,4,1,0,Completed,true,false,false
+UA014141,02 Jun 19,14,Kooyong Scotch,BLTC,No. 1,Ava Synnott,Ben Harris,Ava Synnott,6-4,6,4,1,0,Completed,true,false,false
+UA014141,02 Jun 19,14,Kooyong Scotch,BLTC,No. 2,Declan Li,Nic Salah,Declan Li,6-2,6,2,1,0,Completed,true,false,false
+UA014141,02 Jun 19,14,Kooyong Scotch,BLTC,No. 3,Joe Zayontz,Austin Taleb,Austin Taleb,3-6,3,6,0,1,Completed,true,false,false
+UA014141,02 Jun 19,14,Kooyong Scotch,BLTC,No. 4,Ashton Coster,Michael Bajaj,Ashton Coster,6-3,6,3,1,0,Completed,true,false,false
+UA014142,02 Jun 19,14,Lauriston,Parkdale,No. 1,Daniel Kazakevich,Ruby Gonis,Ruby Gonis,1-6,1,6,0,1,Completed,true,false,false
+UA014142,02 Jun 19,14,Lauriston,Parkdale,No. 2,Joshua Smith,Jonathon Wood,Jonathon Wood,2-6,2,6,0,1,Completed,true,false,false
+UA014142,02 Jun 19,14,Lauriston,Parkdale,No. 3,Alexander Marsionis,Drew Stone,Drew Stone,3-6,3,6,0,1,Completed,true,false,false
+UA014142,02 Jun 19,14,Lauriston,Parkdale,No. 4,John Paul Suntuso,Caitlin Hichey-Kerr,Caitlin Hichey-Kerr,3-6,3,6,0,1,Completed,true,false,false
+UA014143,02 Jun 19,14,Royal Ave,Coatesville,No. 1,Harry Toomey,Nathan Barlas,Nathan Barlas,6-7,6,7,0,1,Completed,true,false,false
+UA014143,02 Jun 19,14,Royal Ave,Coatesville,No. 2,Mia Hilaris,Jonah Dela Cruz,Jonah Dela Cruz,6-7,6,7,0,1,Completed,true,false,false
+UA014143,02 Jun 19,14,Royal Ave,Coatesville,No. 3,Natalie Dureau,Lachlan Newby,Natalie Dureau,6-4,6,4,1,0,Completed,true,false,false
+UA014143,02 Jun 19,14,Royal Ave,Coatesville,No. 4,Vadim Goreux,Anna Barlas,Vadim Goreux,7-6,7,6,1,0,Completed,true,false,false
+UA014144,02 Jun 19,14,Royal South Yarra,Bentleigh Rec,No. 1,Priscilla Breadmore,Kevin Zhou,Kevin Zhou,0-6,0,6,0,1,Completed,true,false,false
+UA014144,02 Jun 19,14,Royal South Yarra,Bentleigh Rec,No. 2,Allegra Tremlett,Ishan Mitra,Ishan Mitra,5-7,5,7,0,1,Completed,true,false,false
+UA014144,02 Jun 19,14,Royal South Yarra,Bentleigh Rec,No. 3,Lucy Ollerenshaw,Charlie Redman,Charlie Redman,2-6,2,6,0,1,Completed,true,false,false
+UA014144,02 Jun 19,14,Royal South Yarra,Bentleigh Rec,No. 4,Freddie Tremlett,Quin Daly,Freddie Tremlett,7-5,7,5,1,0,Completed,true,false,false
+UA014301,,16,Coatesville,Kooyong Scotch,No. 1,Jenson Yokota-Ho,Ava Synnott,Jenson Yokota-Ho,6-0,6,0,1,0,Completed,true,false,false
+UA014301,,16,Coatesville,Kooyong Scotch,No. 2,Sienna Yokota-Ho,Mia Lennon,Sienna Yokota-Ho,6-0,6,0,1,0,Completed,true,false,false
+UA014301,,16,Coatesville,Kooyong Scotch,No. 3,Jonah Dela Cruz,Alex Kotsirilos,Jonah Dela Cruz,6-2,6,2,1,0,Completed,true,false,false
+UA014301,,16,Coatesville,Kooyong Scotch,No. 4,Lachlan Newby,Joe Zayontz,Joe Zayontz,2-6,2,6,0,1,Completed,true,false,false
+UA014302,,16,Bentleigh Rec,BLTC,No. 1,Kevin Zhou,Ben Harris,Kevin Zhou,6-2,6,2,1,0,Completed,true,false,false
+UA014302,,16,Bentleigh Rec,BLTC,No. 2,Ailand Daly,Finlay Hickey,Ailand Daly,6-4,6,4,1,0,Completed,true,false,false
+UA014302,,16,Bentleigh Rec,BLTC,No. 3,Ishan Mitra,Nic Salah,Ishan Mitra,6-2,6,2,1,0,Completed,true,false,false
+UA014302,,16,Bentleigh Rec,BLTC,No. 4,Charlie Redman,Austin Taleb,Charlie Redman,7-5,7,5,1,0,Completed,true,false,false
+UA014321,,17,Coatesville,Bentleigh Rec,No. 1,Jenson Yokota-Ho,Kevin Zhou,Kevin Zhou,6-7,6,7,0,1,Completed,true,false,false
+UA014321,,17,Coatesville,Bentleigh Rec,No. 2,Sienna Yokota-Ho,Ailand Daly,Sienna Yokota-Ho,6-0,6,0,1,0,Completed,true,false,false
+UA014321,,17,Coatesville,Bentleigh Rec,No. 3,Jonah Dela Cruz,Ishan Mitra,Ishan Mitra,2-6,2,6,0,1,Completed,true,false,false
+UA014321,,17,Coatesville,Bentleigh Rec,No. 4,Lachlan Newby,Charlie Redman,Charlie Redman,3-6,3,6,0,1,Completed,true,false,false

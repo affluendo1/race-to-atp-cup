@@ -1,0 +1,83 @@
+{
+  "asset_id": "AA34-AA001",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Spring 2015",
+  "season_id": "AA34",
+  "season_label": "Spring 2015",
+  "source_section_code": "AA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Port Melbourne",
+      "wins": 10,
+      "points": 93,
+      "percentage": 157.89,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Carmelite 1",
+      "wins": 10,
+      "points": 86,
+      "percentage": 137.07,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kooyong MLC2",
+      "wins": 7,
+      "points": 82,
+      "percentage": 153.3,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Kooyong MLC1",
+      "wins": 5,
+      "points": 53,
+      "percentage": 93.23,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal South Yarra",
+      "wins": 3,
+      "points": 45,
+      "percentage": 89.0,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Carmelite 2",
+      "wins": 2,
+      "points": 33,
+      "percentage": 55.26,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong MLC3",
+      "wins": 0,
+      "points": 29,
+      "percentage": 62.83,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA34-AA001",
+  "fixtures": 59,
+  "completed_fixtures": 43,
+  "draw_fixtures": 3,
+  "singles_rubbers": 172,
+  "doubles_rubbers": 86,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

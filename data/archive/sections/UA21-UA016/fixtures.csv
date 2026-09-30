@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA016011,23 Jul 17,1,regular,Round 1,Aspendale,Royal South Yarra,1,9,1,5,,,23,38,Completed,
+UA016012,23 Jul 17,1,regular,Round 1,Kooyong St Kevin's,Lauriston,2,8,2,4,,,23,34,Completed,
+UA016013,23 Jul 17,1,regular,Round 1,Hampton,St Pauls,1,9,1,5,,,12,31,Completed,
+pending-ua016-r1-gphc-bye,23 Jul 17,1,regular,Round 1,GPHC,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016022,30 Jul 17,2,regular,Round 2,Royal South Yarra,Kooyong St Kevin's,0,10,0,6,,,23,38,Completed,
+UA016023,30 Jul 17,2,regular,Round 2,Lauriston,Hampton,9,1,5,1,,,32,18,Completed,
+UA016024,30 Jul 17,2,regular,Round 2,St Pauls,GPHC,8,2,4,2,,,31,23,Completed,
+pending-ua016-r2-bye-aspendale,30 Jul 17,2,regular,Round 2,Bye,Aspendale,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016031,06 Aug 17,3,regular,Round 3,Aspendale,St Pauls,0,10,0,6,,,12,36,Completed,
+UA016033,06 Aug 17,3,regular,Round 3,Hampton,Royal South Yarra,1,9,1,5,,,22,35,Completed,
+UA016034,06 Aug 17,3,regular,Round 3,GPHC,Lauriston,2.5,7.5,2,3,,,23,27,Completed,
+pending-ua016-r3-kooyong-st-kevin-s-bye,06 Aug 17,3,regular,Round 3,Kooyong St Kevin's,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016041,13 Aug 17,4,regular,Round 4,Lauriston,Aspendale,8,2,4,2,,,30,22,Completed,
+UA016042,13 Aug 17,4,regular,Round 4,St Pauls,Kooyong St Kevin's,8,2,4,2,,,30,23,Completed,
+pending-ua016-r4-bye-hampton,13 Aug 17,4,regular,Round 4,Bye,Hampton,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua016-r4-royal-south-yarra-gphc,13 Aug 17,4,regular,Round 4,Royal South Yarra,GPHC,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA016051,20 Aug 17,5,regular,Round 5,Hampton,GPHC,1,9,1,5,,,18,33,Completed,
+UA016053,20 Aug 17,5,regular,Round 5,Lauriston,Royal South Yarra,7,3,3,3,,,25,23,Completed,
+UA016054,20 Aug 17,5,regular,Round 5,Aspendale,Kooyong St Kevin's,2,8,2,4,,,20,27,Completed,
+pending-ua016-r5-bye-st-pauls,20 Aug 17,5,regular,Round 5,Bye,St Pauls,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016061,27 Aug 17,6,regular,Round 6,Kooyong St Kevin's,Hampton,9,1,5,1,,,35,22,Completed,
+pending-ua016-r6-gphc-aspendale,27 Aug 17,6,regular,Round 6,GPHC,Aspendale,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua016-r6-royal-south-yarra-bye,27 Aug 17,6,regular,Round 6,Royal South Yarra,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua016-r6-st-pauls-lauriston,27 Aug 17,6,regular,Round 6,St Pauls,Lauriston,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA016071,03 Sep 17,7,regular,Round 7,Aspendale,Hampton,5,5,1,1,,,10,10,Completed,
+UA016072,03 Sep 17,7,regular,Round 7,Kooyong St Kevin's,GPHC,3,7,3,3,,,23,24,Completed,
+UA016074,03 Sep 17,7,regular,Round 7,St Pauls,Royal South Yarra,9,1,5,1,,,32,15,Completed,
+pending-ua016-r7-bye-lauriston,03 Sep 17,7,regular,Round 7,Bye,Lauriston,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016081,10 Sep 17,8,regular,Round 8,Royal South Yarra,Aspendale,10,0,6,0,,,37,12,Completed,
+UA016082,10 Sep 17,8,regular,Round 8,Lauriston,Kooyong St Kevin's,1,9,1,5,,,19,34,Completed,
+UA016083,10 Sep 17,8,regular,Round 8,St Pauls,Hampton,10,0,6,0,,,37,14,Completed,
+pending-ua016-r8-bye-gphc,10 Sep 17,8,regular,Round 8,Bye,GPHC,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016092,17 Sep 17,9,regular,Round 9,Kooyong St Kevin's,Royal South Yarra,1,9,1,5,,,18,34,Completed,
+UA016093,17 Sep 17,9,regular,Round 9,Hampton,Lauriston,8,2,4,2,,,28,14,Completed,
+UA016094,17 Sep 17,9,regular,Round 9,GPHC,St Pauls,1,9,1,5,,,12,33,Completed,
+pending-ua016-r9-aspendale-bye,17 Sep 17,9,regular,Round 9,Aspendale,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016101,15 Oct 17,10,regular,Round 10,St Pauls,Aspendale,10,0,6,0,,,36,6,Completed,
+UA016103,15 Oct 17,10,regular,Round 10,Royal South Yarra,Hampton,9,1,5,1,,,34,15,Completed,
+UA016104,15 Oct 17,10,regular,Round 10,Lauriston,GPHC,2,8,2,4,,,19,29,Completed,
+pending-ua016-r10-bye-kooyong-st-kevin-s,15 Oct 17,10,regular,Round 10,Bye,Kooyong St Kevin's,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016111,22 Oct 17,11,regular,Round 11,Aspendale,Lauriston,1,9,1,5,,,14,35,Completed,
+UA016112,22 Oct 17,11,regular,Round 11,Kooyong St Kevin's,St Pauls,2,8,2,4,,,20,29,Completed,
+UA016114,22 Oct 17,11,regular,Round 11,GPHC,Royal South Yarra,2,8,2,4,,,18,31,Completed,
+pending-ua016-r11-hampton-bye,22 Oct 17,11,regular,Round 11,Hampton,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016121,29 Oct 17,12,regular,Round 12,GPHC,Hampton,9,1,5,1,,,33,23,Completed,
+UA016123,29 Oct 17,12,regular,Round 12,Royal South Yarra,Lauriston,9,1,5,1,,,34,18,Completed,
+pending-ua016-r12-kooyong-st-kevin-s-aspendale,29 Oct 17,12,regular,Round 12,Kooyong St Kevin's,Aspendale,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+pending-ua016-r12-st-pauls-bye,29 Oct 17,12,regular,Round 12,St Pauls,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016131,12 Nov 17,13,regular,Round 13,Hampton,Kooyong St Kevin's,2,8,2,4,,,23,28,Completed,
+UA016132,12 Nov 17,13,regular,Round 13,Aspendale,GPHC,2,8,2,4,,,18,31,Completed,
+UA016133,12 Nov 17,13,regular,Round 13,Lauriston,St Pauls,3,7,3,3,,,28,32,Completed,
+pending-ua016-r13-bye-royal-south-yarra,12 Nov 17,13,regular,Round 13,Bye,Royal South Yarra,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016141,19 Nov 17,14,regular,Round 14,Hampton,Aspendale,10,0,6,0,,,37,24,Completed,
+UA016142,19 Nov 17,14,regular,Round 14,GPHC,Kooyong St Kevin's,9,1,5,1,,,36,24,Completed,
+UA016144,19 Nov 17,14,regular,Round 14,Royal South Yarra,St Pauls,8,2,4,2,,,32,22,Completed,
+pending-ua016-r14-lauriston-bye,19 Nov 17,14,regular,Round 14,Lauriston,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016301,,16,semi_final,Semi-final,St Pauls,Lauriston,10,0,6,0,,,36,13,Completed,
+UA016302,,16,semi_final,Semi-final,Royal South Yarra,Kooyong St Kevin's,7,3,3,3,,,27,25,Completed,
+UA016321,,17,grand_final,Grand final · TROLS entry 2,St Pauls,Royal South Yarra,3,7,3,3,,,25,28,Completed,

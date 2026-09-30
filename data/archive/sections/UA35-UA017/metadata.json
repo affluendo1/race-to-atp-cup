@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA35-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2024",
+  "season_id": "UA35",
+  "season_label": "Spring 2024",
+  "source_section_code": "UA017",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Beaumaris CC",
+      "wins": 11,
+      "points": 95,
+      "percentage": 151.4,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "GPHC Yellow",
+      "wins": 10,
+      "points": 93,
+      "percentage": 155.46,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Hurlingham Park",
+      "wins": 7,
+      "points": 70,
+      "percentage": 119.52,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC Blue",
+      "wins": 6,
+      "points": 68,
+      "percentage": 132.02,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Royal Ave",
+      "wins": 3,
+      "points": 36,
+      "percentage": 61.71,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St Pats Mentone",
+      "wins": 1,
+      "points": 26,
+      "percentage": 65.19,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Maccabi",
+      "wins": 1,
+      "points": 26,
+      "percentage": 62.83,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA35-UA017",
+  "fixtures": 59,
+  "completed_fixtures": 42,
+  "draw_fixtures": 45,
+  "singles_rubbers": 167,
+  "doubles_rubbers": 83,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

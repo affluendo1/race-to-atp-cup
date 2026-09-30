@@ -1,0 +1,91 @@
+{
+  "asset_id": "AA55-AA005",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Autumn 2026",
+  "season_id": "AA55",
+  "season_label": "Autumn 2026",
+  "source_section_code": "AA005",
+  "section_label": "Sets 4",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Ormond",
+      "wins": 11,
+      "points": 102,
+      "percentage": 137.94,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Clarinda",
+      "wins": 8,
+      "points": 85,
+      "percentage": 144.44,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "BLTC",
+      "wins": 8,
+      "points": 72,
+      "percentage": 109.04,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kings Park",
+      "wins": 6,
+      "points": 71,
+      "percentage": 105.28,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Coatesville",
+      "wins": 5,
+      "points": 62,
+      "percentage": 86.94,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Chelsea Heights",
+      "wins": 4,
+      "points": 46,
+      "percentage": 86.65,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong",
+      "wins": 3,
+      "points": 43,
+      "percentage": 79.11,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park",
+      "wins": 1,
+      "points": 39,
+      "percentage": 76.63,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA55-AA005",
+  "fixtures": 55,
+  "completed_fixtures": 50,
+  "draw_fixtures": 59,
+  "singles_rubbers": 196,
+  "doubles_rubbers": 100,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

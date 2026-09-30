@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA13-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2013",
+  "season_id": "UA13",
+  "season_label": "Spring 2013",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Chelsea Heights",
+      "wins": 11,
+      "points": 103,
+      "percentage": 135.47,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Kooyong 1",
+      "wins": 8,
+      "points": 84,
+      "percentage": 122.66,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 8,
+      "points": 78,
+      "percentage": 105.9,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong 2",
+      "wins": 8,
+      "points": 76.5,
+      "percentage": 104.63,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Mordialloc",
+      "wins": 6,
+      "points": 74,
+      "percentage": 103.13,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Tennis World",
+      "wins": 8,
+      "points": 74,
+      "percentage": 102.81,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park",
+      "wins": 3,
+      "points": 35.5,
+      "percentage": 69.0,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Parkdale",
+      "wins": 2,
+      "points": 35,
+      "percentage": 73.95,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA13-UA002",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 230,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

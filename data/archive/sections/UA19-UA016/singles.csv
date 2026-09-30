@@ -1,0 +1,173 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA016011,17 Jul 16,1,Caulfield Rec,Dendy Park,No. 1,Misha Chuykov,Zach Anquetil,Misha Chuykov,6-0,6,0,1,0,Completed,true,false,false
+UA016011,17 Jul 16,1,Caulfield Rec,Dendy Park,No. 2,James Liao,Luke Ellem,Luke Ellem,6-7,6,7,0,1,Completed,true,false,false
+UA016011,17 Jul 16,1,Caulfield Rec,Dendy Park,No. 3,Roderik Hill,Jake Taranto,Jake Taranto,4-6,4,6,0,1,Completed,true,false,false
+UA016011,17 Jul 16,1,Caulfield Rec,Dendy Park,No. 4,Michael Giller,Finn Pelgrim,Michael Giller,6-0,6,0,1,0,Completed,true,false,false
+UA016012,17 Jul 16,1,Aspendale,Royal Ave,No. 1,Chris Rodas,Xavier Carter,Chris Rodas,6-2,6,2,1,0,Completed,true,false,false
+UA016012,17 Jul 16,1,Aspendale,Royal Ave,No. 2,Tane Mackintosh,Tim Chen,Tim Chen,5-7,5,7,0,1,Completed,true,false,false
+UA016012,17 Jul 16,1,Aspendale,Royal Ave,No. 3,Harry Maginness,Tom Curwen,Harry Maginness,7-6,7,6,1,0,Completed,true,false,false
+UA016012,17 Jul 16,1,Aspendale,Royal Ave,No. 4,Mitchell Keatley,[Unnamed player — TROLS UA016012 away code 4],Mitchell Keatley,6-0,6,0,1,0,Completed,false,false,false
+UA016014,17 Jul 16,1,St Andrews MB BG,Tennis World,No. 1,Cameron Reynolds,Joshua Nagendran,Cameron Reynolds,7-5,7,5,1,0,Completed,true,false,false
+UA016014,17 Jul 16,1,St Andrews MB BG,Tennis World,No. 2,Will Lourie,Alex Clara,Will Lourie,6-2,6,2,1,0,Completed,true,false,false
+UA016014,17 Jul 16,1,St Andrews MB BG,Tennis World,No. 3,Angelee Singh,Amelia Zylberman,Angelee Singh,7-6,7,6,1,0,Completed,true,false,false
+UA016014,17 Jul 16,1,St Andrews MB BG,Tennis World,No. 4,Jackson Chen,Ruby Kirkwood,Jackson Chen,6-4,6,4,1,0,Completed,true,false,false
+UA016021,24 Jul 16,2,Tennis World,Caulfield Rec,No. 1,Fabrizio Cascino,Misha Chuykov,Fabrizio Cascino,6-0,6,0,1,0,Completed,true,false,false
+UA016021,24 Jul 16,2,Tennis World,Caulfield Rec,No. 2,Alexander Giatsis,James Liao,James Liao,4-6,4,6,0,1,Completed,true,false,false
+UA016021,24 Jul 16,2,Tennis World,Caulfield Rec,No. 3,Madelyn Brown,Roderik Hill,Roderik Hill,5-7,5,7,0,1,Completed,true,false,false
+UA016021,24 Jul 16,2,Tennis World,Caulfield Rec,No. 4,Sarah Kumar,Sienna Farugia,Sarah Kumar,6-2,6,2,1,0,Completed,true,false,false
+UA016022,24 Jul 16,2,Dendy Park,Aspendale,No. 1,Zach Anquetil,Chris Rodas,Chris Rodas,2-6,2,6,0,1,Completed,true,false,false
+UA016022,24 Jul 16,2,Dendy Park,Aspendale,No. 2,Josh Griffiths,Tane Mackintosh,Josh Griffiths,6-4,6,4,1,0,Completed,true,false,false
+UA016022,24 Jul 16,2,Dendy Park,Aspendale,No. 3,Luke Ellem,Harry Maginness,Luke Ellem,6-0,6,0,1,0,Completed,true,false,false
+UA016022,24 Jul 16,2,Dendy Park,Aspendale,No. 4,Hamish Collopy,Mitchell Keatley,Mitchell Keatley,1-6,1,6,0,1,Completed,true,false,false
+UA016024,24 Jul 16,2,Royal South Yarra,St Andrews MB BG,No. 1,Luca Webb,Cameron Reynolds,Cameron Reynolds,1-6,1,6,0,1,Completed,true,false,false
+UA016024,24 Jul 16,2,Royal South Yarra,St Andrews MB BG,No. 2,Axy Park,Angelee Singh,Angelee Singh,0-6,0,6,0,1,Completed,true,false,false
+UA016024,24 Jul 16,2,Royal South Yarra,St Andrews MB BG,No. 3,Indi Officer,Ciara Ennis,Ciara Ennis,1-6,1,6,0,1,Completed,true,false,false
+UA016024,24 Jul 16,2,Royal South Yarra,St Andrews MB BG,No. 4,Sophie Davies,Jackson Chen,Jackson Chen,5-7,5,7,0,1,Completed,true,false,false
+UA016031,31 Jul 16,3,Caulfield Rec,Royal South Yarra,No. 1,Misha Chuykov,Luca Webb,Misha Chuykov,6-0,6,0,1,0,Completed,true,false,false
+UA016031,31 Jul 16,3,Caulfield Rec,Royal South Yarra,No. 2,James Liao,Axy Park,James Liao,6-4,6,4,1,0,Completed,true,false,false
+UA016031,31 Jul 16,3,Caulfield Rec,Royal South Yarra,No. 3,Michael Giller,Indi Officer,Michael Giller,6-0,6,0,1,0,Completed,true,false,false
+UA016031,31 Jul 16,3,Caulfield Rec,Royal South Yarra,No. 4,Sienna Farugia,Sophie Davies,Sienna Farugia,7-6,7,6,1,0,Completed,true,false,false
+UA016032,31 Jul 16,3,Aspendale,Tennis World,No. 1,Chris Rodas,Fabrizio Cascino,Fabrizio Cascino,1-6,1,6,0,1,Completed,true,false,false
+UA016032,31 Jul 16,3,Aspendale,Tennis World,No. 2,Tane Mackintosh,[Unnamed player — TROLS UA016032 away code 2],Tane Mackintosh,6-0,6,0,1,0,Completed,false,false,false
+UA016032,31 Jul 16,3,Aspendale,Tennis World,No. 3,Mitchell Keatley,Alex Clara,Mitchell Keatley,6-2,6,2,1,0,Completed,true,false,false
+UA016032,31 Jul 16,3,Aspendale,Tennis World,No. 4,Harry Maginness,Ruby Kirkwood,Ruby Kirkwood,4-6,4,6,0,1,Completed,true,false,false
+UA016034,31 Jul 16,3,St Andrews MB BG,Royal Ave,No. 1,Cameron Reynolds,Tal Zafrin,Tal Zafrin,0-6,0,6,0,1,Completed,true,false,false
+UA016034,31 Jul 16,3,St Andrews MB BG,Royal Ave,No. 2,Angelee Singh,Xavier Carter,Angelee Singh,6-2,6,2,1,0,Completed,true,false,false
+UA016034,31 Jul 16,3,St Andrews MB BG,Royal Ave,No. 3,Ciara Ennis,Tim Chen,Ciara Ennis,7-5,7,5,1,0,Completed,true,false,false
+UA016034,31 Jul 16,3,St Andrews MB BG,Royal Ave,No. 4,Jackson Chen,Tom Curwen,Jackson Chen,6-0,6,0,1,0,Completed,true,false,false
+UA016041,07 Aug 16,4,Royal Ave,Caulfield Rec,No. 1,Xavier Carter,James Liao,James Liao,4-6,4,6,0,1,Completed,true,false,false
+UA016041,07 Aug 16,4,Royal Ave,Caulfield Rec,No. 2,Tom Curwen,Roderik Hill,Roderik Hill,1-6,1,6,0,1,Completed,true,false,false
+UA016041,07 Aug 16,4,Royal Ave,Caulfield Rec,No. 3,Kai Saxon,Michael Giller,Michael Giller,5-7,5,7,0,1,Completed,true,false,false
+UA016041,07 Aug 16,4,Royal Ave,Caulfield Rec,No. 4,Will Devlin,Sienna Farugia,Will Devlin,6-3,6,3,1,0,Completed,true,false,false
+UA016042,07 Aug 16,4,Royal South Yarra,Aspendale,No. 1,Luca Webb,Chris Rodas,Chris Rodas,0-6,0,6,0,1,Completed,true,false,false
+UA016042,07 Aug 16,4,Royal South Yarra,Aspendale,No. 2,George Cox,Mitchell Keatley,Mitchell Keatley,3-6,3,6,0,1,Completed,true,false,false
+UA016042,07 Aug 16,4,Royal South Yarra,Aspendale,No. 3,Axy Park,Harry Maginness,Harry Maginness,0-6,0,6,0,1,Completed,true,false,false
+UA016042,07 Aug 16,4,Royal South Yarra,Aspendale,No. 4,Indi Officer,Talia Braschio,Indi Officer,6-4,6,4,1,0,Completed,true,false,false
+UA016044,07 Aug 16,4,Dendy Park,St Andrews MB BG,No. 1,Zach Anquetil,Angelee Singh,Angelee Singh,0-6,0,6,0,1,Completed,true,false,false
+UA016044,07 Aug 16,4,Dendy Park,St Andrews MB BG,No. 2,Luke Ellem,Ciara Ennis,Luke Ellem,6-3,6,3,1,0,Completed,true,false,false
+UA016044,07 Aug 16,4,Dendy Park,St Andrews MB BG,No. 3,Hamish Collopy,Jackson Chen,Hamish Collopy,6-4,6,4,1,0,Completed,true,false,false
+UA016044,07 Aug 16,4,Dendy Park,St Andrews MB BG,No. 4,Ollie Waters,Landon Penca,Landon Penca,4-6,4,6,0,1,Completed,true,false,false
+UA016052,14 Aug 16,5,Tennis World,Royal South Yarra,No. 1,Alexander Giatsis,Luca Webb,Alexander Giatsis,6-3,6,3,1,0,Completed,true,false,false
+UA016052,14 Aug 16,5,Tennis World,Royal South Yarra,No. 2,Madelyn Brown,Axy Park,Madelyn Brown,6-0,6,0,1,0,Completed,true,false,false
+UA016052,14 Aug 16,5,Tennis World,Royal South Yarra,No. 3,Alex Clara,George Cox,Alex Clara,6-3,6,3,1,0,Completed,true,false,false
+UA016052,14 Aug 16,5,Tennis World,Royal South Yarra,No. 4,Amelia Zylberman,Ollie Breadmore,Ollie Breadmore,3-6,3,6,0,1,Completed,true,false,false
+UA016053,14 Aug 16,5,Royal Ave,Dendy Park,No. 1,Tal Zafrin,Zach Anquetil,Tal Zafrin,6-0,6,0,1,0,Completed,true,false,false
+UA016053,14 Aug 16,5,Royal Ave,Dendy Park,No. 2,Xavier Carter,Josh Griffiths,Xavier Carter,7-6,7,6,1,0,Completed,true,false,false
+UA016053,14 Aug 16,5,Royal Ave,Dendy Park,No. 3,Tom Curwen,Luke Ellem,Luke Ellem,0-6,0,6,0,1,Completed,true,false,false
+UA016053,14 Aug 16,5,Royal Ave,Dendy Park,No. 4,Will Devlin,Ollie Waters,Will Devlin,6-3,6,3,1,0,Completed,true,false,false
+UA016054,14 Aug 16,5,Caulfield Rec,Aspendale,No. 1,James Liao,Chris Rodas,Chris Rodas,3-6,3,6,0,1,Completed,true,false,false
+UA016054,14 Aug 16,5,Caulfield Rec,Aspendale,No. 2,Roderik Hill,Tane Mackintosh,Roderik Hill,6-4,6,4,1,0,Completed,true,false,false
+UA016054,14 Aug 16,5,Caulfield Rec,Aspendale,No. 3,Michael Giller,Harry Maginness,Michael Giller,6-1,6,1,1,0,Completed,true,false,false
+UA016054,14 Aug 16,5,Caulfield Rec,Aspendale,No. 4,Sienna Farugia,Talia Braschio,Sienna Farugia,6-4,6,4,1,0,Completed,true,false,false
+UA016062,21 Aug 16,6,St Andrews MB BG,Caulfield Rec,No. 1,Cameron Reynolds,James Liao,James Liao,4-6,4,6,0,1,Completed,true,false,false
+UA016062,21 Aug 16,6,St Andrews MB BG,Caulfield Rec,No. 2,Will Lourie,Roderik Hill,Roderik Hill,4-6,4,6,0,1,Completed,true,false,false
+UA016062,21 Aug 16,6,St Andrews MB BG,Caulfield Rec,No. 3,Angelee Singh,Michael Giller,Michael Giller,6-7,6,7,0,1,Completed,true,false,false
+UA016062,21 Aug 16,6,St Andrews MB BG,Caulfield Rec,No. 4,Jackson Chen,Sienna Farugia,Jackson Chen,7-6,7,6,1,0,Completed,true,false,false
+UA016063,21 Aug 16,6,Royal South Yarra,Royal Ave,No. 1,Luca Webb,Tal Zafrin,Tal Zafrin,1-6,1,6,0,1,Completed,true,false,false
+UA016063,21 Aug 16,6,Royal South Yarra,Royal Ave,No. 2,Axy Park,Xavier Carter,Xavier Carter,0-6,0,6,0,1,Completed,true,false,false
+UA016063,21 Aug 16,6,Royal South Yarra,Royal Ave,No. 3,George Cox,Kai Saxon,George Cox,6-4,6,4,1,0,Completed,true,false,false
+UA016063,21 Aug 16,6,Royal South Yarra,Royal Ave,No. 4,Indi Officer,Will Devlin,Will Devlin,3-6,3,6,0,1,Completed,true,false,false
+UA016064,21 Aug 16,6,Dendy Park,Tennis World,No. 1,Luke Ellem,Fabrizio Cascino,Luke Ellem,6-0,6,0,1,0,Completed,true,false,false
+UA016064,21 Aug 16,6,Dendy Park,Tennis World,No. 2,Josh Griffiths,Madelyn Brown,Madelyn Brown,2-6,2,6,0,1,Completed,true,false,false
+UA016064,21 Aug 16,6,Dendy Park,Tennis World,No. 3,Zach Anquetil,Amelia Zylberman,Amelia Zylberman,3-6,3,6,0,1,Completed,true,false,false
+UA016064,21 Aug 16,6,Dendy Park,Tennis World,No. 4,Hamish Collopy,Ruby Kirkwood,Hamish Collopy,6-4,6,4,1,0,Completed,true,false,false
+UA016072,28 Aug 16,7,Aspendale,St Andrews MB BG,No. 1,Tane Mackintosh,Cameron Reynolds,Cameron Reynolds,1-6,1,6,0,1,Completed,true,false,false
+UA016072,28 Aug 16,7,Aspendale,St Andrews MB BG,No. 2,Mitchell Keatley,Angelee Singh,Mitchell Keatley,6-4,6,4,1,0,Completed,true,false,false
+UA016072,28 Aug 16,7,Aspendale,St Andrews MB BG,No. 3,Harry Maginness,Ciara Ennis,Ciara Ennis,1-6,1,6,0,1,Completed,true,false,false
+UA016072,28 Aug 16,7,Aspendale,St Andrews MB BG,No. 4,Talia Braschio,Jackson Chen,Jackson Chen,2-6,2,6,0,1,Completed,true,false,false
+UA016073,28 Aug 16,7,Tennis World,Royal Ave,No. 1,Alexander Giatsis,Xavier Carter,Xavier Carter,4-6,4,6,0,1,Completed,true,false,false
+UA016073,28 Aug 16,7,Tennis World,Royal Ave,No. 2,Madelyn Brown,Tim Chen,Madelyn Brown,6-2,6,2,1,0,Completed,true,false,false
+UA016073,28 Aug 16,7,Tennis World,Royal Ave,No. 3,Alex Clara,Tom Curwen,Alex Clara,6-2,6,2,1,0,Completed,true,false,false
+UA016073,28 Aug 16,7,Tennis World,Royal Ave,No. 4,Ruby Kirkwood,Will Devlin,Ruby Kirkwood,6-2,6,2,1,0,Completed,true,false,false
+UA016074,28 Aug 16,7,Royal South Yarra,Dendy Park,No. 1,Luca Webb,Luke Ellem,Luke Ellem,1-6,1,6,0,1,Completed,true,false,false
+UA016074,28 Aug 16,7,Royal South Yarra,Dendy Park,No. 2,Axy Park,Zach Anquetil,Axy Park,6-4,6,4,1,0,Completed,true,false,false
+UA016074,28 Aug 16,7,Royal South Yarra,Dendy Park,No. 3,George Cox,Hamish Collopy,Hamish Collopy,2-6,2,6,0,1,Completed,true,false,false
+UA016074,28 Aug 16,7,Royal South Yarra,Dendy Park,No. 4,Indi Officer,Sam Jowett,Sam Jowett,2-6,2,6,0,1,Completed,true,false,false
+UA016081,04 Sep 16,8,Dendy Park,Caulfield Rec,No. 1,Josh Griffiths,James Liao,James Liao,3-6,3,6,0,1,Completed,true,false,false
+UA016081,04 Sep 16,8,Dendy Park,Caulfield Rec,No. 2,Zach Anquetil,Roderik Hill,Roderik Hill,0-6,0,6,0,1,Completed,true,false,false
+UA016081,04 Sep 16,8,Dendy Park,Caulfield Rec,No. 3,Hamish Collopy,Michael Giller,Hamish Collopy,6-3,6,3,1,0,Completed,true,false,false
+UA016081,04 Sep 16,8,Dendy Park,Caulfield Rec,No. 4,Finn Whiston,Sienna Farugia,Sienna Farugia,1-6,1,6,0,1,Completed,true,false,false
+UA016082,04 Sep 16,8,Royal Ave,Aspendale,No. 1,Tal Zafrin,Tane Mackintosh,Tane Mackintosh,4-6,4,6,0,1,Completed,true,false,false
+UA016082,04 Sep 16,8,Royal Ave,Aspendale,No. 2,Tim Chen,Mitchell Keatley,Tim Chen,7-6,7,6,1,0,Completed,true,false,false
+UA016082,04 Sep 16,8,Royal Ave,Aspendale,No. 3,Tom Curwen,Harry Maginness,Harry Maginness,5-7,5,7,0,1,Completed,true,false,false
+UA016082,04 Sep 16,8,Royal Ave,Aspendale,No. 4,Will Devlin,Talia Braschio,Will Devlin,6-1,6,1,1,0,Completed,true,false,false
+UA016084,04 Sep 16,8,Tennis World,St Andrews MB BG,No. 1,Fabrizio Cascino,Will Lourie,Will Lourie,0-6,0,6,0,1,Completed,true,false,false
+UA016084,04 Sep 16,8,Tennis World,St Andrews MB BG,No. 2,Alexander Giatsis,Angelee Singh,Angelee Singh,6-7,6,7,0,1,Completed,true,false,false
+UA016084,04 Sep 16,8,Tennis World,St Andrews MB BG,No. 3,Amelia Zylberman,Ciara Ennis,Ciara Ennis,2-6,2,6,0,1,Completed,true,false,false
+UA016084,04 Sep 16,8,Tennis World,St Andrews MB BG,No. 4,Ruby Kirkwood,Jackson Chen,Ruby Kirkwood,7-6,7,6,1,0,Completed,true,false,false
+UA016091,11 Sep 16,9,Caulfield Rec,Tennis World,No. 1,James Liao,Fabrizio Cascino,Fabrizio Cascino,6-7,6,7,0,1,Completed,true,false,false
+UA016091,11 Sep 16,9,Caulfield Rec,Tennis World,No. 2,Roderik Hill,Alexander Giatsis,Roderik Hill,6-1,6,1,1,0,Completed,true,false,false
+UA016091,11 Sep 16,9,Caulfield Rec,Tennis World,No. 3,Michael Giller,Madelyn Brown,Michael Giller,6-4,6,4,1,0,Completed,true,false,false
+UA016091,11 Sep 16,9,Caulfield Rec,Tennis World,No. 4,Sienna Farugia,Alex Clara,Alex Clara,2-6,2,6,0,1,Completed,true,false,false
+UA016092,11 Sep 16,9,Aspendale,Dendy Park,No. 1,Chris Rodas,Luke Ellem,Luke Ellem,1-6,1,6,0,1,Completed,true,false,false
+UA016092,11 Sep 16,9,Aspendale,Dendy Park,No. 2,Tane Mackintosh,Josh Griffiths,Josh Griffiths,3-6,3,6,0,1,Completed,true,false,false
+UA016092,11 Sep 16,9,Aspendale,Dendy Park,No. 3,Harry Maginness,Zach Anquetil,Zach Anquetil,1-6,1,6,0,1,Completed,true,false,false
+UA016092,11 Sep 16,9,Aspendale,Dendy Park,No. 4,Talia Braschio,Hamish Collopy,Hamish Collopy,0-6,0,6,0,1,Completed,true,false,false
+UA016094,11 Sep 16,9,St Andrews MB BG,Royal South Yarra,No. 1,Christopher Kellaway,Luca Webb,Christopher Kellaway,6-0,6,0,1,0,Completed,true,false,false
+UA016094,11 Sep 16,9,St Andrews MB BG,Royal South Yarra,No. 2,Cameron Reynolds,Axy Park,Cameron Reynolds,6-1,6,1,1,0,Completed,true,false,false
+UA016094,11 Sep 16,9,St Andrews MB BG,Royal South Yarra,No. 3,Will Lourie,George Cox,Will Lourie,6-1,6,1,1,0,Completed,true,false,false
+UA016094,11 Sep 16,9,St Andrews MB BG,Royal South Yarra,No. 4,Angelee Singh,Indi Officer,Angelee Singh,6-0,6,0,1,0,Completed,true,false,false
+UA016101,09 Oct 16,10,Royal South Yarra,Caulfield Rec,No. 1,Luca Webb,James Liao,James Liao,4-6,4,6,0,1,Completed,true,false,false
+UA016101,09 Oct 16,10,Royal South Yarra,Caulfield Rec,No. 2,Axy Park,Roderik Hill,Roderik Hill,0-6,0,6,0,1,Completed,true,false,false
+UA016101,09 Oct 16,10,Royal South Yarra,Caulfield Rec,No. 3,George Cox,Michael Giller,George Cox,6-0,6,0,1,0,Completed,true,false,false
+UA016101,09 Oct 16,10,Royal South Yarra,Caulfield Rec,No. 4,Indi Officer,Sienna Farugia,Sienna Farugia,5-7,5,7,0,1,Completed,true,false,false
+UA016102,09 Oct 16,10,Tennis World,Aspendale,No. 1,Fabrizio Cascino,Chris Rodas,Fabrizio Cascino,7-6,7,6,1,0,Completed,true,false,false
+UA016102,09 Oct 16,10,Tennis World,Aspendale,No. 2,Ruby Kirkwood,Tane Mackintosh,Tane Mackintosh,4-6,4,6,0,1,Completed,true,false,false
+UA016102,09 Oct 16,10,Tennis World,Aspendale,No. 3,Kalan Lai,Harry Maginness,Harry Maginness,3-6,3,6,0,1,Completed,true,false,false
+UA016102,09 Oct 16,10,Tennis World,Aspendale,No. 4,Ava Juste,Talia Braschio,Ava Juste,6-3,6,3,1,0,Completed,true,false,false
+UA016104,09 Oct 16,10,Royal Ave,St Andrews MB BG,No. 1,Tal Zafrin,Cameron Reynolds,Tal Zafrin,6-2,6,2,1,0,Completed,true,false,false
+UA016104,09 Oct 16,10,Royal Ave,St Andrews MB BG,No. 2,Tim Chen,Will Lourie,Tim Chen,7-5,7,5,1,0,Completed,true,false,false
+UA016104,09 Oct 16,10,Royal Ave,St Andrews MB BG,No. 3,Tom Curwen,Angelee Singh,Angelee Singh,4-6,4,6,0,1,Completed,true,false,false
+UA016104,09 Oct 16,10,Royal Ave,St Andrews MB BG,No. 4,Will Devlin,Jackson Chen,Jackson Chen,2-6,2,6,0,1,Completed,true,false,false
+UA016111,16 Oct 16,11,Caulfield Rec,Royal Ave,No. 1,James Liao,Tal Zafrin,Tal Zafrin,4-6,4,6,0,1,Completed,true,false,false
+UA016111,16 Oct 16,11,Caulfield Rec,Royal Ave,No. 2,Roderik Hill,Xavier Carter,Roderik Hill,6-3,6,3,1,0,Completed,true,false,false
+UA016111,16 Oct 16,11,Caulfield Rec,Royal Ave,No. 3,Sienna Farugia,Kai Saxon,Kai Saxon,1-6,1,6,0,1,Completed,true,false,false
+UA016111,16 Oct 16,11,Caulfield Rec,Royal Ave,No. 4,Jasmine Furrugia,Will Devlin,Will Devlin,0-6,0,6,0,1,Completed,true,false,false
+UA016112,16 Oct 16,11,Aspendale,Royal South Yarra,No. 1,Chris Rodas,Luca Webb,Chris Rodas,6-0,6,0,1,0,Completed,true,false,false
+UA016112,16 Oct 16,11,Aspendale,Royal South Yarra,No. 2,Tane Mackintosh,Mietta Passon,Mietta Passon,3-6,3,6,0,1,Completed,true,false,false
+UA016112,16 Oct 16,11,Aspendale,Royal South Yarra,No. 3,Harry Maginness,Axy Park,Axy Park,4-6,4,6,0,1,Completed,true,false,false
+UA016112,16 Oct 16,11,Aspendale,Royal South Yarra,No. 4,Talia Braschio,Indi Officer,Indi Officer,1-6,1,6,0,1,Completed,true,false,false
+UA016114,16 Oct 16,11,St Andrews MB BG,Dendy Park,No. 1,Cameron Reynolds,Luke Ellem,Cameron Reynolds,6-0,6,0,1,0,Completed,true,false,false
+UA016114,16 Oct 16,11,St Andrews MB BG,Dendy Park,No. 2,Will Lourie,Hamish Collopy,Hamish Collopy,4-6,4,6,0,1,Completed,true,false,false
+UA016114,16 Oct 16,11,St Andrews MB BG,Dendy Park,No. 3,Angelee Singh,Sam Jowett,Angelee Singh,6-0,6,0,1,0,Completed,true,false,false
+UA016114,16 Oct 16,11,St Andrews MB BG,Dendy Park,No. 4,Ciara Ennis,Ollie Waters,Ciara Ennis,6-0,6,0,1,0,Completed,true,false,false
+UA016123,23 Oct 16,12,Dendy Park,Royal Ave,No. 1,Josh Griffiths,Tal Zafrin,Josh Griffiths,6-4,6,4,1,0,Completed,true,false,false
+UA016123,23 Oct 16,12,Dendy Park,Royal Ave,No. 2,Zac Fuleky,Xavier Carter,Zac Fuleky,6-4,6,4,1,0,Completed,true,false,false
+UA016123,23 Oct 16,12,Dendy Park,Royal Ave,No. 3,Francis Bailey,Tom Curwen,Francis Bailey,6-0,6,0,1,0,Completed,true,false,false
+UA016123,23 Oct 16,12,Dendy Park,Royal Ave,No. 4,Ollie Waters,Jimmy Kalpakoff,Jimmy Kalpakoff,1-6,1,6,0,1,Completed,true,false,false
+UA016132,06 Nov 16,13,Caulfield Rec,St Andrews MB BG,No. 1,James Liao,Cameron Reynolds,Cameron Reynolds,4-6,4,6,0,1,Completed,true,false,false
+UA016132,06 Nov 16,13,Caulfield Rec,St Andrews MB BG,No. 2,Roderik Hill,Will Lourie,Roderik Hill,6-3,6,3,1,0,Completed,true,false,false
+UA016132,06 Nov 16,13,Caulfield Rec,St Andrews MB BG,No. 3,Sienna Farugia,Ciara Ennis,Ciara Ennis,5-7,5,7,0,1,Completed,true,false,false
+UA016132,06 Nov 16,13,Caulfield Rec,St Andrews MB BG,No. 4,Elliott Bohl,Jackson Chen,Jackson Chen,3-6,3,6,0,1,Completed,true,false,false
+UA016133,06 Nov 16,13,Royal Ave,Royal South Yarra,No. 1,Tim Chen,Mietta Passon,Tim Chen,6-2,6,2,1,0,Completed,true,false,false
+UA016133,06 Nov 16,13,Royal Ave,Royal South Yarra,No. 2,Will Devlin,Katherine Soutter,Will Devlin,6-2,6,2,1,0,Completed,true,false,false
+UA016133,06 Nov 16,13,Royal Ave,Royal South Yarra,No. 3,John Paul Link,Luca Webb,John Paul Link,6-0,6,0,1,0,Completed,true,true,false
+UA016133,06 Nov 16,13,Royal Ave,Royal South Yarra,No. 4,Jimmy Kalpakoff,Indi Officer,Jimmy Kalpakoff,6-4,6,4,1,0,Completed,true,false,false
+UA016134,06 Nov 16,13,Tennis World,Dendy Park,No. 1,Fabrizio Cascino,Luke Ellem,Luke Ellem,4-6,4,6,0,1,Completed,true,false,false
+UA016134,06 Nov 16,13,Tennis World,Dendy Park,No. 2,Alexander Giatsis,Josh Griffiths,Josh Griffiths,2-6,2,6,0,1,Completed,true,false,false
+UA016134,06 Nov 16,13,Tennis World,Dendy Park,No. 3,Alex Clara,Zach Anquetil,Alex Clara,6-3,6,3,1,0,Completed,true,false,false
+UA016134,06 Nov 16,13,Tennis World,Dendy Park,No. 4,Ruby Kirkwood,Hamish Collopy,Hamish Collopy,5-7,5,7,0,1,Completed,true,false,false
+UA016142,13 Nov 16,14,St Andrews MB BG,Aspendale,No. 1,Cameron Reynolds,Chris Rodas,Cameron Reynolds,7-5,7,5,1,0,Completed,true,false,false
+UA016142,13 Nov 16,14,St Andrews MB BG,Aspendale,No. 2,Will Lourie,Mitchell Keatley,Mitchell Keatley,4-6,4,6,0,1,Completed,true,false,false
+UA016142,13 Nov 16,14,St Andrews MB BG,Aspendale,No. 3,Angelee Singh,Talia Braschio,Angelee Singh,6-0,6,0,1,0,Completed,true,false,false
+UA016142,13 Nov 16,14,St Andrews MB BG,Aspendale,No. 4,Jackson Chen,Harry Maginness,Jackson Chen,6-0,6,0,1,0,Completed,true,false,false
+UA016143,13 Nov 16,14,Royal Ave,Tennis World,No. 1,Tal Zafrin,Alexander Giatsis,Tal Zafrin,6-1,6,1,1,0,Completed,true,false,false
+UA016143,13 Nov 16,14,Royal Ave,Tennis World,No. 2,Xavier Carter,Madelyn Brown,Madelyn Brown,4-6,4,6,0,1,Completed,true,false,false
+UA016143,13 Nov 16,14,Royal Ave,Tennis World,No. 3,Kai Saxon,Ruby Kirkwood,Ruby Kirkwood,1-6,1,6,0,1,Completed,true,false,false
+UA016143,13 Nov 16,14,Royal Ave,Tennis World,No. 4,Will Devlin,Ava Juste,Ava Juste,4-6,4,6,0,1,Completed,true,false,false
+UA016144,13 Nov 16,14,Dendy Park,Royal South Yarra,No. 1,Luke Ellem,Mietta Passon,Luke Ellem,6-2,6,2,1,0,Completed,true,false,false
+UA016144,13 Nov 16,14,Dendy Park,Royal South Yarra,No. 2,Josh Griffiths,Katherine Soutter,Josh Griffiths,7-6,7,6,1,0,Completed,true,false,false
+UA016144,13 Nov 16,14,Dendy Park,Royal South Yarra,No. 3,Zach Anquetil,Axy Park,Axy Park,6-7,6,7,0,1,Completed,true,false,false
+UA016144,13 Nov 16,14,Dendy Park,Royal South Yarra,No. 4,Hamish Collopy,Indi Officer,Hamish Collopy,6-1,6,1,1,0,Completed,true,false,false
+UA016301,,16,St Andrews MB BG,Royal Ave,No. 1,Will Lourie,Tal Zafrin,Will Lourie,6-4,6,4,1,0,Completed,true,false,false
+UA016301,,16,St Andrews MB BG,Royal Ave,No. 2,Angelee Singh,Xavier Carter,Angelee Singh,6-1,6,1,1,0,Completed,true,false,false
+UA016301,,16,St Andrews MB BG,Royal Ave,No. 3,Christopher Kellaway,Kai Saxon,Christopher Kellaway,6-3,6,3,1,0,Completed,true,false,false
+UA016301,,16,St Andrews MB BG,Royal Ave,No. 4,Jackson Chen,Will Devlin,Jackson Chen,6-3,6,3,1,0,Completed,true,false,false
+UA016302,,16,Caulfield Rec,Dendy Park,No. 1,James Liao,Luke Ellem,Luke Ellem,1-6,1,6,0,1,Completed,true,false,false
+UA016302,,16,Caulfield Rec,Dendy Park,No. 2,Roderik Hill,Josh Griffiths,Roderik Hill,6-1,6,1,1,0,Completed,true,false,false
+UA016302,,16,Caulfield Rec,Dendy Park,No. 3,Sienna Farugia,Zach Anquetil,Sienna Farugia,6-1,6,1,1,0,Completed,true,false,false
+UA016302,,16,Caulfield Rec,Dendy Park,No. 4,Elliott Bohl,Hamish Collopy,Elliott Bohl,7-6,7,6,1,0,Completed,true,false,false
+UA016321,,17,St Andrews MB BG,Caulfield Rec,No. 1,Cameron Reynolds,James Liao,Cameron Reynolds,6-3,6,3,1,0,Completed,true,false,false
+UA016321,,17,St Andrews MB BG,Caulfield Rec,No. 2,Will Lourie,Roderik Hill,Will Lourie,7-5,7,5,1,0,Completed,true,false,false
+UA016321,,17,St Andrews MB BG,Caulfield Rec,No. 3,Angelee Singh,Sienna Farugia,Angelee Singh,6-2,6,2,1,0,Completed,true,false,false
+UA016321,,17,St Andrews MB BG,Caulfield Rec,No. 4,Jackson Chen,Elliott Bohl,Elliott Bohl,3-6,3,6,0,1,Completed,true,false,true

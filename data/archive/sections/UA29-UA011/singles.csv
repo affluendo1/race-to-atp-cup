@@ -1,0 +1,37 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA011031,01 Aug 21,3,Royal South Yarra,Royal Ave,No. 1,Arthur Andrews,Gideon Gomes,Gideon Gomes,1-6,1,6,0,1,Completed,true,false,true
+UA011031,01 Aug 21,3,Royal South Yarra,Royal Ave,No. 2,Flo Baillieu,Aston Delalande,Aston Delalande,2-6,2,6,0,1,Completed,true,false,false
+UA011031,01 Aug 21,3,Royal South Yarra,Royal Ave,No. 3,Mara Tausan,Hannah Chruszcz,Hannah Chruszcz,4-6,4,6,0,1,Completed,true,false,true
+UA011031,01 Aug 21,3,Royal South Yarra,Royal Ave,No. 4,Yancheng Zhang,Liv De Beer,Liv De Beer,1-6,1,6,0,1,Completed,true,false,true
+UA011093,07 Nov 21,9,BLTC,Maccabi,No. 1,Amy Livermore,Zaki Belfer,Zaki Belfer,4-6,4,6,0,1,Completed,true,false,false
+UA011093,07 Nov 21,9,BLTC,Maccabi,No. 2,Mathieson Meakins,Gabe Houseman,Mathieson Meakins,6-3,6,3,1,0,Completed,true,false,true
+UA011093,07 Nov 21,9,BLTC,Maccabi,No. 3,Rita Lu,Jeremy Samuel,Rita Lu,7-5,7,5,1,0,Completed,true,false,false
+UA011093,07 Nov 21,9,BLTC,Maccabi,No. 4,Andrew Livermore,Ari Gordon,Andrew Livermore,6-0,6,0,1,0,Completed,true,false,false
+UA011101,14 Nov 21,10,Royal Ave,Royal South Yarra,No. 1,Hugo Williams,Flo Baillieu,Hugo Williams,6-1,6,1,1,0,Completed,true,false,false
+UA011101,14 Nov 21,10,Royal Ave,Royal South Yarra,No. 2,Luke Chapman,Mara Tausan,Luke Chapman,6-4,6,4,1,0,Completed,true,false,false
+UA011101,14 Nov 21,10,Royal Ave,Royal South Yarra,No. 3,Hannah Chruszcz,Yancheng Zhang,Yancheng Zhang,1-6,1,6,0,1,Completed,true,true,false
+UA011101,14 Nov 21,10,Royal Ave,Royal South Yarra,No. 4,Jack James,Olivia Lindsting,Jack James,6-0,6,0,1,0,Completed,true,true,true
+UA011111,21 Nov 21,11,Royal South Yarra,Maccabi,No. 1,Tom Park,Zaki Belfer,Zaki Belfer,1-6,1,6,0,1,Completed,true,false,false
+UA011111,21 Nov 21,11,Royal South Yarra,Maccabi,No. 2,Flo Baillieu,Gabe Houseman,Flo Baillieu,6-4,6,4,1,0,Completed,true,false,true
+UA011111,21 Nov 21,11,Royal South Yarra,Maccabi,No. 3,Mara Tausan,Jeremy Samuel,Jeremy Samuel,5-7,5,7,0,1,Completed,true,false,false
+UA011111,21 Nov 21,11,Royal South Yarra,Maccabi,No. 4,Yancheng Zhang,Cayla Jacobs,Cayla Jacobs,3-6,3,6,0,1,Completed,true,false,false
+UA011113,21 Nov 21,11,BLTC,Tennis World,No. 1,Zoe Livermore,Claudi Popovic,Zoe Livermore,6-4,6,4,1,0,Completed,true,false,false
+UA011113,21 Nov 21,11,BLTC,Tennis World,No. 2,Amy Livermore,Adrian Peter Evans,Adrian Peter Evans,4-6,4,6,0,1,Completed,true,false,false
+UA011113,21 Nov 21,11,BLTC,Tennis World,No. 3,Andrew Livermore,Aileen Diamanti,Aileen Diamanti,0-6,0,6,0,1,Completed,true,false,false
+UA011113,21 Nov 21,11,BLTC,Tennis World,No. 4,[Unnamed player — TROLS UA011113 home code 4],Joel Dalidowicz,Joel Dalidowicz,0-6,0,6,0,1,Completed,false,false,false
+UA011122,28 Nov 21,12,Royal Ave,Tennis World,No. 1,Hugo Williams,Claudi Popovic,Claudi Popovic,4-6,4,6,0,1,Completed,true,false,false
+UA011122,28 Nov 21,12,Royal Ave,Tennis World,No. 2,Luke Chapman,Adrian Peter Evans,Adrian Peter Evans,2-6,2,6,0,1,Completed,true,false,false
+UA011122,28 Nov 21,12,Royal Ave,Tennis World,No. 3,Aston Delalande,Aileen Diamanti,Aileen Diamanti,4-6,4,6,0,1,Completed,true,false,false
+UA011122,28 Nov 21,12,Royal Ave,Tennis World,No. 4,Jack James,Joel Dalidowicz,Jack James,6-3,6,3,1,0,Completed,true,true,false
+UA011133,05 Dec 21,13,Maccabi,Royal Ave,No. 1,Gavi Gottleib,Aston Delalande,Gavi Gottleib,6-1,6,1,1,0,Completed,true,true,false
+UA011133,05 Dec 21,13,Maccabi,Royal Ave,No. 2,Jeremy Borski,Hugo Williams,Jeremy Borski,6-4,6,4,1,0,Completed,true,false,false
+UA011133,05 Dec 21,13,Maccabi,Royal Ave,No. 3,Cayla Jacobs,Luke Chapman,Cayla Jacobs,6-3,6,3,1,0,Completed,true,false,false
+UA011133,05 Dec 21,13,Maccabi,Royal Ave,No. 4,Ari Gordon,Hannah Chruszcz,Hannah Chruszcz,0-6,0,6,0,1,Completed,true,false,true
+UA011141,12 Dec 21,14,BLTC,Royal South Yarra,No. 1,Zoe Livermore,Arthur Andrews,Arthur Andrews,1-6,1,6,0,1,Completed,true,false,false
+UA011141,12 Dec 21,14,BLTC,Royal South Yarra,No. 2,Mathieson Meakins,Mara Tausan,Mara Tausan,4-6,4,6,0,1,Completed,true,false,false
+UA011141,12 Dec 21,14,BLTC,Royal South Yarra,No. 3,Rita Lu,Yancheng Zhang,Yancheng Zhang,3-6,3,6,0,1,Completed,true,false,false
+UA011141,12 Dec 21,14,BLTC,Royal South Yarra,No. 4,Andrew Livermore,Olivia Lindsting,Andrew Livermore,6-1,6,1,1,0,Completed,true,false,true
+UA011143,12 Dec 21,14,Maccabi,Tennis World,No. 1,Zaki Belfer,Claudi Popovic,Zaki Belfer,6-0,6,0,1,0,Completed,true,false,false
+UA011143,12 Dec 21,14,Maccabi,Tennis World,No. 2,Gavi Gottleib,Adrian Peter Evans,Gavi Gottleib,6-1,6,1,1,0,Completed,true,true,false
+UA011143,12 Dec 21,14,Maccabi,Tennis World,No. 3,Gabe Houseman,Aileen Diamanti,Gabe Houseman,6-4,6,4,1,0,Completed,true,true,false
+UA011143,12 Dec 21,14,Maccabi,Tennis World,No. 4,Ari Gordon,Joel Dalidowicz,Joel Dalidowicz,1-6,1,6,0,1,Completed,true,false,false

@@ -1,0 +1,168 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA016011,21 Jul 24,1,BLTC Blue,Kooyong,No. 1,Charles O'Haire,Tara McAuley,Tara McAuley,6-7,6,7,0,1,Completed,true,false,false
+UA016011,21 Jul 24,1,BLTC Blue,Kooyong,No. 2,Henry Sullivan,[Unnamed player — TROLS UA016011 away code 2],Henry Sullivan,6-0,6,0,1,0,Completed,false,false,false
+UA016011,21 Jul 24,1,BLTC Blue,Kooyong,No. 3,Spencer Witherington,[Unnamed player — TROLS UA016011 away code 3],Spencer Witherington,6-0,6,0,1,0,Completed,false,false,false
+UA016011,21 Jul 24,1,BLTC Blue,Kooyong,No. 4,William Du,Elliot Doukas,William Du,6-3,6,3,1,0,Completed,true,false,true
+UA016013,21 Jul 24,1,Sth Murrumbeena,Murrumbeena,No. 1,Isabelle Watson,Daniel Ortolan,Isabelle Watson,6-3,6,3,1,0,Completed,true,false,false
+UA016013,21 Jul 24,1,Sth Murrumbeena,Murrumbeena,No. 2,Grace Howard,Cisco Biffin,Grace Howard,6-4,6,4,1,0,Completed,true,false,false
+UA016013,21 Jul 24,1,Sth Murrumbeena,Murrumbeena,No. 3,Maddie Christie,Hadyen Brown,Hadyen Brown,6-7,6,7,0,1,Completed,true,false,false
+UA016013,21 Jul 24,1,Sth Murrumbeena,Murrumbeena,No. 4,Emilia Ferris,Nicholas Tanner,Emilia Ferris,7-6,7,6,1,0,Completed,true,false,false
+UA016014,21 Jul 24,1,Kings Park,Elsternwick Park,No. 1,Alexis Zhang,Frederick Steele,Alexis Zhang,6-2,6,2,1,0,Completed,true,false,false
+UA016014,21 Jul 24,1,Kings Park,Elsternwick Park,No. 2,Yisen Xu,Quentin Garel,Quentin Garel,2-6,2,6,0,1,Completed,true,false,true
+UA016014,21 Jul 24,1,Kings Park,Elsternwick Park,No. 3,Ethan Neale,Freya Hewitt,Freya Hewitt,5-7,5,7,0,1,Completed,true,false,false
+UA016014,21 Jul 24,1,Kings Park,Elsternwick Park,No. 4,Mitchell Zaal,Owen Sun,Mitchell Zaal,6-0,6,0,1,0,Completed,true,false,true
+UA016031,04 Aug 24,3,BLTC Blue,Murrumbeena,No. 1,Lucas Jin,Daniel Ortolan,Daniel Ortolan,2-6,2,6,0,1,Completed,true,false,false
+UA016031,04 Aug 24,3,BLTC Blue,Murrumbeena,No. 2,Charles O'Haire,Hadyen Brown,Hadyen Brown,2-6,2,6,0,1,Completed,true,false,false
+UA016031,04 Aug 24,3,BLTC Blue,Murrumbeena,No. 3,Spencer Witherington,Nicholas Tanner,Spencer Witherington,6-2,6,2,1,0,Completed,true,false,false
+UA016031,04 Aug 24,3,BLTC Blue,Murrumbeena,No. 4,William Du,Gianluca Scrivano,William Du,6-2,6,2,1,0,Completed,true,false,false
+UA016032,04 Aug 24,3,Dendy Park,Elsternwick Park,No. 1,Elliot Moulton,Jesse Colberg,Jesse Colberg,3-6,3,6,0,1,Completed,true,false,false
+UA016032,04 Aug 24,3,Dendy Park,Elsternwick Park,No. 2,Brooklyn Samuel,Freya Hewitt,Freya Hewitt,2-6,2,6,0,1,Completed,true,false,false
+UA016032,04 Aug 24,3,Dendy Park,Elsternwick Park,No. 3,Adele Naujalyte,Tristan Linnett,Tristan Linnett,1-6,1,6,0,1,Completed,true,false,false
+UA016032,04 Aug 24,3,Dendy Park,Elsternwick Park,No. 4,Mark Lu,Frederick Steele,Mark Lu,6-1,6,1,1,0,Completed,true,false,false
+UA016033,04 Aug 24,3,Sth Murrumbeena,Kooyong,No. 1,Isabelle Watson,Nate O'Donoghue,Nate O'Donoghue,4-6,4,6,0,1,Completed,true,false,false
+UA016033,04 Aug 24,3,Sth Murrumbeena,Kooyong,No. 2,Olive Watson,Harper Roberts,Olive Watson,6-1,6,1,1,0,Completed,true,false,false
+UA016033,04 Aug 24,3,Sth Murrumbeena,Kooyong,No. 3,Emilia Ferris,Alice James,Alice James,2-6,2,6,0,1,Completed,true,false,false
+UA016042,11 Aug 24,4,Murrumbeena,Dendy Park,No. 1,Cisco Biffin,Mark Lu,Mark Lu,1-6,1,6,0,1,Completed,true,false,false
+UA016042,11 Aug 24,4,Murrumbeena,Dendy Park,No. 2,Hadyen Brown,Elliot Moulton,Hadyen Brown,6-1,6,1,1,0,Completed,true,false,false
+UA016042,11 Aug 24,4,Murrumbeena,Dendy Park,No. 3,Nicholas Tanner,Alan Wang,Alan Wang,3-6,3,6,0,1,Completed,true,false,false
+UA016042,11 Aug 24,4,Murrumbeena,Dendy Park,No. 4,Gianluca Scrivano,Brooklyn Samuel,Gianluca Scrivano,6-3,6,3,1,0,Completed,true,false,false
+UA016043,11 Aug 24,4,Elsternwick Park,Sth Murrumbeena,No. 1,Jesse Colberg,Isabelle Watson,Isabelle Watson,1-6,1,6,0,1,Completed,true,false,false
+UA016043,11 Aug 24,4,Elsternwick Park,Sth Murrumbeena,No. 2,Freya Hewitt,Olive Watson,Olive Watson,3-6,3,6,0,1,Completed,true,false,false
+UA016043,11 Aug 24,4,Elsternwick Park,Sth Murrumbeena,No. 3,Tristan Linnett,Maddie Christie,Maddie Christie,0-6,0,6,0,1,Completed,true,false,false
+UA016043,11 Aug 24,4,Elsternwick Park,Sth Murrumbeena,No. 4,Khushboo Asnani,Emilia Ferris,Emilia Ferris,1-6,1,6,0,1,Completed,true,false,false
+UA016044,11 Aug 24,4,Kooyong,Kings Park,No. 1,Nate O'Donoghue,Alexis Zhang,Nate O'Donoghue,6-0,6,0,1,0,Completed,true,false,false
+UA016044,11 Aug 24,4,Kooyong,Kings Park,No. 2,Harper Roberts,Yisen Xu,Yisen Xu,1-6,1,6,0,1,Completed,true,false,false
+UA016044,11 Aug 24,4,Kooyong,Kings Park,No. 3,Alice James,Ethan Neale,Ethan Neale,0-6,0,6,0,1,Completed,true,false,false
+UA016044,11 Aug 24,4,Kooyong,Kings Park,No. 4,Ella Wu,Mitchell Zaal,Mitchell Zaal,0-6,0,6,0,1,Completed,true,true,false
+UA016051,18 Aug 24,5,Sth Murrumbeena,Kings Park,No. 1,Isabelle Watson,Alexis Zhang,Isabelle Watson,6-0,6,0,1,0,Completed,true,false,false
+UA016051,18 Aug 24,5,Sth Murrumbeena,Kings Park,No. 2,Olive Watson,Maddie Chang,Olive Watson,7-5,7,5,1,0,Completed,true,false,false
+UA016051,18 Aug 24,5,Sth Murrumbeena,Kings Park,No. 3,Grace Howard,Ethan Neale,Ethan Neale,5-7,5,7,0,1,Completed,true,false,false
+UA016051,18 Aug 24,5,Sth Murrumbeena,Kings Park,No. 4,Maddie Christie,Mitchell Zaal,Mitchell Zaal,2-6,2,6,0,1,Completed,true,false,false
+UA016052,18 Aug 24,5,Elsternwick Park,Murrumbeena,No. 1,Jesse Colberg,Daniel Ortolan,Daniel Ortolan,3-6,3,6,0,1,Completed,true,false,false
+UA016052,18 Aug 24,5,Elsternwick Park,Murrumbeena,No. 2,Tristan Linnett,Hadyen Brown,Tristan Linnett,6-3,6,3,1,0,Completed,true,false,false
+UA016052,18 Aug 24,5,Elsternwick Park,Murrumbeena,No. 3,Frederick Steele,Nicholas Tanner,Frederick Steele,6-2,6,2,1,0,Completed,true,false,false
+UA016052,18 Aug 24,5,Elsternwick Park,Murrumbeena,No. 4,Khushboo Asnani,Gianluca Scrivano,Gianluca Scrivano,0-6,0,6,0,1,Completed,true,false,false
+UA016054,18 Aug 24,5,BLTC Blue,Dendy Park,No. 1,Lucas Jin,Mark Lu,Lucas Jin,6-2,6,2,1,0,Completed,true,false,false
+UA016054,18 Aug 24,5,BLTC Blue,Dendy Park,No. 2,Charles O'Haire,Adele Naujalyte,Charles O'Haire,6-4,6,4,1,0,Completed,true,false,false
+UA016054,18 Aug 24,5,BLTC Blue,Dendy Park,No. 3,Henry Sullivan,Alan Wang,Henry Sullivan,6-0,6,0,1,0,Completed,true,false,false
+UA016054,18 Aug 24,5,BLTC Blue,Dendy Park,No. 4,Lucas Volum,Elliot Moulton,Lucas Volum,6-0,6,0,1,0,Completed,true,true,false
+UA016061,25 Aug 24,6,Dendy Park,Sth Murrumbeena,No. 1,Brooklyn Samuel,Isabelle Watson,Isabelle Watson,0-6,0,6,0,1,Completed,true,false,false
+UA016061,25 Aug 24,6,Dendy Park,Sth Murrumbeena,No. 2,Adele Naujalyte,Olive Watson,Olive Watson,2-6,2,6,0,1,Completed,true,false,false
+UA016061,25 Aug 24,6,Dendy Park,Sth Murrumbeena,No. 3,Alan Wang,Grace Howard,Grace Howard,2-6,2,6,0,1,Completed,true,false,false
+UA016061,25 Aug 24,6,Dendy Park,Sth Murrumbeena,No. 4,Elliot Moulton,Emilia Ferris,Elliot Moulton,6-3,6,3,1,0,Completed,true,false,false
+UA016062,25 Aug 24,6,Kings Park,BLTC Blue,No. 1,Yisen Xu,Lucas Jin,Lucas Jin,3-6,3,6,0,1,Completed,true,false,false
+UA016062,25 Aug 24,6,Kings Park,BLTC Blue,No. 2,Maddie Chang,Charles O'Haire,Charles O'Haire,0-6,0,6,0,1,Completed,true,false,false
+UA016062,25 Aug 24,6,Kings Park,BLTC Blue,No. 3,Ethan Neale,Spencer Witherington,Ethan Neale,6-4,6,4,1,0,Completed,true,false,false
+UA016062,25 Aug 24,6,Kings Park,BLTC Blue,No. 4,Mitchell Zaal,William Du,Mitchell Zaal,6-0,6,0,1,0,Completed,true,false,false
+UA016064,25 Aug 24,6,Kooyong,Elsternwick Park,No. 1,Tara McAuley,Jesse Colberg,Jesse Colberg,5-7,5,7,0,1,Completed,true,false,false
+UA016064,25 Aug 24,6,Kooyong,Elsternwick Park,No. 2,Alice James,Freya Hewitt,Freya Hewitt,2-6,2,6,0,1,Completed,true,false,false
+UA016064,25 Aug 24,6,Kooyong,Elsternwick Park,No. 3,Henry Tebb,Tristan Linnett,Tristan Linnett,0-6,0,6,0,1,Completed,true,true,false
+UA016064,25 Aug 24,6,Kooyong,Elsternwick Park,No. 4,[Unnamed player — TROLS UA016064 home code 4],Frederick Steele,Frederick Steele,0-6,0,6,0,1,Completed,false,false,false
+UA016071,01 Sep 24,7,BLTC Blue,Sth Murrumbeena,No. 1,Charles O'Haire,Isabelle Watson,Isabelle Watson,1-6,1,6,0,1,Completed,true,false,false
+UA016071,01 Sep 24,7,BLTC Blue,Sth Murrumbeena,No. 2,Henry Sullivan,Olive Watson,Olive Watson,5-7,5,7,0,1,Completed,true,false,false
+UA016071,01 Sep 24,7,BLTC Blue,Sth Murrumbeena,No. 3,Spencer Witherington,Grace Howard,Grace Howard,1-6,1,6,0,1,Completed,true,false,false
+UA016071,01 Sep 24,7,BLTC Blue,Sth Murrumbeena,No. 4,William Du,Emilia Ferris,William Du,6-0,6,0,1,0,Completed,true,false,false
+UA016072,01 Sep 24,7,Dendy Park,Kings Park,No. 1,Mark Lu,Alexis Zhang,Mark Lu,6-3,6,3,1,0,Completed,true,false,false
+UA016072,01 Sep 24,7,Dendy Park,Kings Park,No. 2,Adele Naujalyte,Yisen Xu,Yisen Xu,1-6,1,6,0,1,Completed,true,false,false
+UA016072,01 Sep 24,7,Dendy Park,Kings Park,No. 3,Alan Wang,Maddie Chang,Alan Wang,6-2,6,2,1,0,Completed,true,false,false
+UA016072,01 Sep 24,7,Dendy Park,Kings Park,No. 4,Elliot Moulton,Ethan Neale,Ethan Neale,1-6,1,6,0,1,Completed,true,false,false
+UA016074,01 Sep 24,7,Murrumbeena,Kooyong,No. 1,Daniel Ortolan,Nate O'Donoghue,Nate O'Donoghue,2-6,2,6,0,1,Completed,true,false,false
+UA016074,01 Sep 24,7,Murrumbeena,Kooyong,No. 2,Cisco Biffin,Tara McAuley,Cisco Biffin,7-6,7,6,1,0,Completed,true,false,false
+UA016074,01 Sep 24,7,Murrumbeena,Kooyong,No. 3,Nicholas Tanner,[Unnamed player — TROLS UA016074 away code 3],Nicholas Tanner,6-0,6,0,1,0,Completed,false,false,false
+UA016074,01 Sep 24,7,Murrumbeena,Kooyong,No. 4,Gianluca Scrivano,Alice James,Gianluca Scrivano,6-3,6,3,1,0,Completed,true,false,false
+UA016081,08 Sep 24,8,Kooyong,BLTC Blue,No. 1,Nate O'Donoghue,Lucas Jin,Nate O'Donoghue,6-2,6,2,1,0,Completed,true,false,false
+UA016081,08 Sep 24,8,Kooyong,BLTC Blue,No. 2,Tara McAuley,Charles O'Haire,Charles O'Haire,3-6,3,6,0,1,Completed,true,false,false
+UA016081,08 Sep 24,8,Kooyong,BLTC Blue,No. 3,Harper Roberts,Spencer Witherington,Spencer Witherington,4-6,4,6,0,1,Completed,true,false,false
+UA016081,08 Sep 24,8,Kooyong,BLTC Blue,No. 4,Alice James,William Du,William Du,0-6,0,6,0,1,Completed,true,false,false
+UA016083,08 Sep 24,8,Murrumbeena,Sth Murrumbeena,No. 1,Daniel Ortolan,Isabelle Watson,Isabelle Watson,2-6,2,6,0,1,Completed,true,false,false
+UA016083,08 Sep 24,8,Murrumbeena,Sth Murrumbeena,No. 2,Cisco Biffin,Olive Watson,Olive Watson,4-6,4,6,0,1,Completed,true,false,false
+UA016083,08 Sep 24,8,Murrumbeena,Sth Murrumbeena,No. 3,Hadyen Brown,Grace Howard,Hadyen Brown,6-2,6,2,1,0,Completed,true,false,false
+UA016083,08 Sep 24,8,Murrumbeena,Sth Murrumbeena,No. 4,Gianluca Scrivano,Emilia Ferris,Gianluca Scrivano,6-1,6,1,1,0,Completed,true,false,false
+UA016084,08 Sep 24,8,Elsternwick Park,Kings Park,No. 1,Jesse Colberg,Alexis Zhang,Jesse Colberg,6-3,6,3,1,0,Completed,true,false,false
+UA016084,08 Sep 24,8,Elsternwick Park,Kings Park,No. 2,Tristan Linnett,Yisen Xu,Tristan Linnett,6-1,6,1,1,0,Completed,true,false,false
+UA016084,08 Sep 24,8,Elsternwick Park,Kings Park,No. 3,Frederick Steele,Maddie Chang,Frederick Steele,6-4,6,4,1,0,Completed,true,false,false
+UA016084,08 Sep 24,8,Elsternwick Park,Kings Park,No. 4,[Unnamed player — TROLS UA016084 home code 4],Mitchell Zaal,Mitchell Zaal,0-6,0,6,0,1,Completed,false,false,false
+UA016091,15 Sep 24,9,BLTC Blue,Elsternwick Park,No. 1,Lucas Jin,Jesse Colberg,Jesse Colberg,2-6,2,6,0,1,Completed,true,false,false
+UA016091,15 Sep 24,9,BLTC Blue,Elsternwick Park,No. 2,Henry Sullivan,Tristan Linnett,Henry Sullivan,6-2,6,2,1,0,Completed,true,false,false
+UA016091,15 Sep 24,9,BLTC Blue,Elsternwick Park,No. 3,Spencer Witherington,Freya Hewitt,Spencer Witherington,6-0,6,0,1,0,Completed,true,false,false
+UA016091,15 Sep 24,9,BLTC Blue,Elsternwick Park,No. 4,William Du,Khushboo Asnani,William Du,6-0,6,0,1,0,Completed,true,false,false
+UA016092,15 Sep 24,9,Dendy Park,Kooyong,No. 1,Mark Lu,Nate O'Donoghue,Nate O'Donoghue,1-6,1,6,0,1,Completed,true,false,false
+UA016092,15 Sep 24,9,Dendy Park,Kooyong,No. 2,Adele Naujalyte,Oliver Mount,Oliver Mount,1-6,1,6,0,1,Completed,true,false,false
+UA016092,15 Sep 24,9,Dendy Park,Kooyong,No. 3,Elliot Moulton,Tara McAuley,Tara McAuley,2-6,2,6,0,1,Completed,true,false,false
+UA016092,15 Sep 24,9,Dendy Park,Kooyong,No. 4,Brooklyn Samuel,Harper Roberts,Harper Roberts,4-6,4,6,0,1,Completed,true,false,false
+UA016094,15 Sep 24,9,Kings Park,Murrumbeena,No. 1,Alexis Zhang,Daniel Ortolan,Daniel Ortolan,0-6,0,6,0,1,Completed,true,false,false
+UA016094,15 Sep 24,9,Kings Park,Murrumbeena,No. 2,Maddie Chang,Cisco Biffin,Cisco Biffin,1-6,1,6,0,1,Completed,true,false,false
+UA016094,15 Sep 24,9,Kings Park,Murrumbeena,No. 3,Ethan Neale,Nicholas Tanner,Ethan Neale,6-0,6,0,1,0,Completed,true,false,false
+UA016094,15 Sep 24,9,Kings Park,Murrumbeena,No. 4,Mitchell Zaal,Gianluca Scrivano,Gianluca Scrivano,3-6,3,6,0,1,Completed,true,false,false
+UA016101,13 Oct 24,10,Murrumbeena,BLTC Blue,No. 1,Daniel Ortolan,Charles O'Haire,Daniel Ortolan,6-0,6,0,1,0,Completed,true,false,false
+UA016101,13 Oct 24,10,Murrumbeena,BLTC Blue,No. 2,Cisco Biffin,Christopher Baker,Cisco Biffin,7-5,7,5,1,0,Completed,true,false,true
+UA016101,13 Oct 24,10,Murrumbeena,BLTC Blue,No. 3,Hadyen Brown,Spencer Witherington,Hadyen Brown,6-0,6,0,1,0,Completed,true,false,false
+UA016101,13 Oct 24,10,Murrumbeena,BLTC Blue,No. 4,Nicholas Tanner,Lucas Volum,Lucas Volum,4-6,4,6,0,1,Completed,true,false,true
+UA016102,13 Oct 24,10,Elsternwick Park,Dendy Park,No. 1,Jesse Colberg,Mark Lu,Mark Lu,6-7,6,7,0,1,Completed,true,false,false
+UA016102,13 Oct 24,10,Elsternwick Park,Dendy Park,No. 2,Freya Hewitt,Adele Naujalyte,Freya Hewitt,6-2,6,2,1,0,Completed,true,false,false
+UA016102,13 Oct 24,10,Elsternwick Park,Dendy Park,No. 3,Frederick Steele,Alan Wang,Frederick Steele,6-4,6,4,1,0,Completed,true,false,false
+UA016102,13 Oct 24,10,Elsternwick Park,Dendy Park,No. 4,Khushboo Asnani,Brooklyn Samuel,Brooklyn Samuel,2-6,2,6,0,1,Completed,true,false,false
+UA016103,13 Oct 24,10,Kooyong,Sth Murrumbeena,No. 1,Oliver Mount,Isabelle Watson,Oliver Mount,6-4,6,4,1,0,Completed,true,false,false
+UA016103,13 Oct 24,10,Kooyong,Sth Murrumbeena,No. 2,Tara McAuley,Olive Watson,Olive Watson,4-6,4,6,0,1,Completed,true,false,false
+UA016103,13 Oct 24,10,Kooyong,Sth Murrumbeena,No. 3,Harper Roberts,Maddie Christie,Harper Roberts,7-6,7,6,1,0,Completed,true,false,false
+UA016103,13 Oct 24,10,Kooyong,Sth Murrumbeena,No. 4,Alice James,Emilia Ferris,Alice James,6-1,6,1,1,0,Completed,true,false,false
+UA016112,20 Oct 24,11,Dendy Park,Murrumbeena,No. 1,Mark Lu,Daniel Ortolan,Daniel Ortolan,0-6,0,6,0,1,Completed,true,false,false
+UA016112,20 Oct 24,11,Dendy Park,Murrumbeena,No. 2,Alan Wang,Cisco Biffin,Cisco Biffin,1-6,1,6,0,1,Completed,true,false,false
+UA016112,20 Oct 24,11,Dendy Park,Murrumbeena,No. 3,Elliot Moulton,Gianluca Scrivano,Gianluca Scrivano,0-6,0,6,0,1,Completed,true,false,false
+UA016112,20 Oct 24,11,Dendy Park,Murrumbeena,No. 4,Brooklyn Samuel,Olivia Bonnici,Olivia Bonnici,2-6,2,6,0,1,Completed,true,false,true
+UA016113,20 Oct 24,11,Sth Murrumbeena,Elsternwick Park,No. 1,Isabelle Watson,Freya Hewitt,Isabelle Watson,6-4,6,4,1,0,Completed,true,false,false
+UA016113,20 Oct 24,11,Sth Murrumbeena,Elsternwick Park,No. 2,Grace Howard,Tristan Linnett,Tristan Linnett,6-7,6,7,0,1,Completed,true,false,false
+UA016113,20 Oct 24,11,Sth Murrumbeena,Elsternwick Park,No. 3,Maddie Christie,Frederick Steele,Frederick Steele,3-6,3,6,0,1,Completed,true,false,false
+UA016113,20 Oct 24,11,Sth Murrumbeena,Elsternwick Park,No. 4,Emilia Ferris,Khushboo Asnani,Emilia Ferris,6-3,6,3,1,0,Completed,true,false,false
+UA016114,20 Oct 24,11,Kings Park,Kooyong,No. 1,Alexis Zhang,Nate O'Donoghue,Nate O'Donoghue,5-7,5,7,0,1,Completed,true,false,false
+UA016114,20 Oct 24,11,Kings Park,Kooyong,No. 2,Yisen Xu,Oliver Mount,Oliver Mount,0-6,0,6,0,1,Completed,true,false,false
+UA016114,20 Oct 24,11,Kings Park,Kooyong,No. 3,Ethan Neale,William James,Ethan Neale,6-4,6,4,1,0,Completed,true,false,true
+UA016114,20 Oct 24,11,Kings Park,Kooyong,No. 4,Mitchell Zaal,Alice James,Mitchell Zaal,6-2,6,2,1,0,Completed,true,false,false
+UA016121,27 Oct 24,12,Kings Park,Sth Murrumbeena,No. 1,Alexis Zhang,Olive Watson,Olive Watson,6-7,6,7,0,1,Completed,true,false,false
+UA016121,27 Oct 24,12,Kings Park,Sth Murrumbeena,No. 2,Maddie Chang,Grace Howard,Maddie Chang,6-1,6,1,1,0,Completed,true,false,false
+UA016121,27 Oct 24,12,Kings Park,Sth Murrumbeena,No. 3,Ethan Neale,Maddie Christie,Ethan Neale,6-4,6,4,1,0,Completed,true,false,false
+UA016121,27 Oct 24,12,Kings Park,Sth Murrumbeena,No. 4,Mitchell Zaal,Emilia Ferris,Mitchell Zaal,6-1,6,1,1,0,Completed,true,false,false
+UA016122,27 Oct 24,12,Murrumbeena,Elsternwick Park,No. 1,Daniel Ortolan,Jesse Colberg,Daniel Ortolan,6-3,6,3,1,0,Completed,true,false,false
+UA016122,27 Oct 24,12,Murrumbeena,Elsternwick Park,No. 2,Cisco Biffin,Freya Hewitt,Cisco Biffin,6-3,6,3,1,0,Completed,true,false,false
+UA016122,27 Oct 24,12,Murrumbeena,Elsternwick Park,No. 3,Hadyen Brown,Tristan Linnett,Tristan Linnett,4-6,4,6,0,1,Completed,true,false,false
+UA016122,27 Oct 24,12,Murrumbeena,Elsternwick Park,No. 4,Gianluca Scrivano,Frederick Steele,Gianluca Scrivano,6-4,6,4,1,0,Completed,true,false,false
+UA016124,27 Oct 24,12,Dendy Park,BLTC Blue,No. 1,Mark Lu,Charles O'Haire,Mark Lu,6-1,6,1,1,0,Completed,true,false,false
+UA016124,27 Oct 24,12,Dendy Park,BLTC Blue,No. 2,Adele Naujalyte,Henry Sullivan,Adele Naujalyte,6-2,6,2,1,0,Completed,true,false,false
+UA016124,27 Oct 24,12,Dendy Park,BLTC Blue,No. 3,Alan Wang,Spencer Witherington,Spencer Witherington,3-6,3,6,0,1,Completed,true,false,false
+UA016124,27 Oct 24,12,Dendy Park,BLTC Blue,No. 4,Elliot Moulton,William Du,William Du,2-6,2,6,0,1,Completed,true,false,false
+UA016131,10 Nov 24,13,Sth Murrumbeena,Dendy Park,No. 1,Isabelle Watson,Mark Lu,Isabelle Watson,6-0,6,0,1,0,Completed,true,false,false
+UA016131,10 Nov 24,13,Sth Murrumbeena,Dendy Park,No. 2,Olive Watson,Adele Naujalyte,Olive Watson,6-1,6,1,1,0,Completed,true,false,false
+UA016131,10 Nov 24,13,Sth Murrumbeena,Dendy Park,No. 3,Grace Howard,Alan Wang,Grace Howard,6-4,6,4,1,0,Completed,true,false,false
+UA016131,10 Nov 24,13,Sth Murrumbeena,Dendy Park,No. 4,Emilia Ferris,Elliot Moulton,Elliot Moulton,3-6,3,6,0,1,Completed,true,false,false
+UA016132,10 Nov 24,13,BLTC Blue,Kings Park,No. 1,Lucas Jin,Yisen Xu,Lucas Jin,6-3,6,3,1,0,Completed,true,false,false
+UA016132,10 Nov 24,13,BLTC Blue,Kings Park,No. 2,Charles O'Haire,Maddie Chang,Charles O'Haire,6-2,6,2,1,0,Completed,true,false,false
+UA016132,10 Nov 24,13,BLTC Blue,Kings Park,No. 3,Spencer Witherington,Ethan Neale,Ethan Neale,0-6,0,6,0,1,Completed,true,false,false
+UA016132,10 Nov 24,13,BLTC Blue,Kings Park,No. 4,William Du,Mitchell Zaal,Mitchell Zaal,2-6,2,6,0,1,Completed,true,false,false
+UA016134,10 Nov 24,13,Elsternwick Park,Kooyong,No. 1,Jesse Colberg,Tara McAuley,Tara McAuley,3-6,3,6,0,1,Completed,true,false,false
+UA016134,10 Nov 24,13,Elsternwick Park,Kooyong,No. 2,Tristan Linnett,Harper Roberts,Tristan Linnett,6-0,6,0,1,0,Completed,true,false,false
+UA016134,10 Nov 24,13,Elsternwick Park,Kooyong,No. 3,Frederick Steele,Alice James,Frederick Steele,6-2,6,2,1,0,Completed,true,false,false
+UA016134,10 Nov 24,13,Elsternwick Park,Kooyong,No. 4,Khushboo Asnani,William James,William James,2-6,2,6,0,1,Completed,true,false,true
+UA016141,17 Nov 24,14,Sth Murrumbeena,BLTC Blue,No. 1,Isabelle Watson,Charles O'Haire,Isabelle Watson,6-4,6,4,1,0,Completed,true,false,false
+UA016141,17 Nov 24,14,Sth Murrumbeena,BLTC Blue,No. 2,Olive Watson,Henry Sullivan,Henry Sullivan,3-6,3,6,0,1,Completed,true,false,false
+UA016141,17 Nov 24,14,Sth Murrumbeena,BLTC Blue,No. 3,Grace Howard,Lucas Volum,Lucas Volum,0-6,0,6,0,1,Completed,true,false,true
+UA016141,17 Nov 24,14,Sth Murrumbeena,BLTC Blue,No. 4,Maddie Christie,William Du,William Du,2-6,2,6,0,1,Completed,true,false,false
+UA016142,17 Nov 24,14,Kings Park,Dendy Park,No. 1,Maddie Chang,Adele Naujalyte,Adele Naujalyte,0-6,0,6,0,1,Completed,true,false,false
+UA016142,17 Nov 24,14,Kings Park,Dendy Park,No. 2,Ethan Neale,Alan Wang,Ethan Neale,6-2,6,2,1,0,Completed,true,false,false
+UA016142,17 Nov 24,14,Kings Park,Dendy Park,No. 3,Mitchell Zaal,Elliot Moulton,Mitchell Zaal,6-1,6,1,1,0,Completed,true,false,false
+UA016142,17 Nov 24,14,Kings Park,Dendy Park,No. 4,Seou Ham,Brooklyn Samuel,Seou Ham,6-1,6,1,1,0,Completed,true,true,false
+UA016144,17 Nov 24,14,Kooyong,Murrumbeena,No. 1,Nate O'Donoghue,Daniel Ortolan,Daniel Ortolan,3-6,3,6,0,1,Completed,true,false,false
+UA016144,17 Nov 24,14,Kooyong,Murrumbeena,No. 2,Tara McAuley,Hadyen Brown,Hadyen Brown,6-7,6,7,0,1,Completed,true,false,false
+UA016144,17 Nov 24,14,Kooyong,Murrumbeena,No. 3,Alice James,Nicholas Tanner,Alice James,6-0,6,0,1,0,Completed,true,false,false
+UA016144,17 Nov 24,14,Kooyong,Murrumbeena,No. 4,William James,Gianluca Scrivano,Gianluca Scrivano,5-7,5,7,0,1,Completed,true,true,false
+UA016301,,16,Murrumbeena,BLTC Blue,No. 1,Daniel Ortolan,Lucas Jin,Daniel Ortolan,6-3,6,3,1,0,Completed,true,false,false
+UA016301,,16,Murrumbeena,BLTC Blue,No. 2,Cisco Biffin,Charles O'Haire,Charles O'Haire,2-6,2,6,0,1,Completed,true,false,false
+UA016301,,16,Murrumbeena,BLTC Blue,No. 3,Hadyen Brown,Henry Sullivan,Henry Sullivan,6-7,6,7,0,1,Completed,true,false,false
+UA016301,,16,Murrumbeena,BLTC Blue,No. 4,Gianluca Scrivano,William Du,William Du,3-6,3,6,0,1,Completed,true,false,false
+UA016302,,16,Kings Park,Sth Murrumbeena,No. 1,Alexis Zhang,Isabelle Watson,Isabelle Watson,1-6,1,6,0,1,Completed,true,false,false
+UA016302,,16,Kings Park,Sth Murrumbeena,No. 2,Yisen Xu,Olive Watson,Olive Watson,0-6,0,6,0,1,Completed,true,false,false
+UA016302,,16,Kings Park,Sth Murrumbeena,No. 3,Ethan Neale,Grace Howard,Ethan Neale,6-4,6,4,1,0,Completed,true,false,false
+UA016302,,16,Kings Park,Sth Murrumbeena,No. 4,Mitchell Zaal,Maddie Christie,Mitchell Zaal,6-1,6,1,1,0,Completed,true,false,false
+UA016321,,17,Sth Murrumbeena,BLTC Blue,No. 1,Isabelle Watson,Charles O'Haire,Isabelle Watson,6-1,6,1,1,0,Completed,true,false,false
+UA016321,,17,Sth Murrumbeena,BLTC Blue,No. 2,Olive Watson,Henry Sullivan,Olive Watson,6-3,6,3,1,0,Completed,true,false,false
+UA016321,,17,Sth Murrumbeena,BLTC Blue,No. 3,Grace Howard,Spencer Witherington,Grace Howard,7-5,7,5,1,0,Completed,true,false,false
+UA016321,,17,Sth Murrumbeena,BLTC Blue,No. 4,Maddie Christie,William Du,William Du,2-6,2,6,0,1,Completed,true,false,false

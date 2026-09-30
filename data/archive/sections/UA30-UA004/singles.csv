@@ -1,0 +1,211 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA004011,06 Feb 22,1,Royal South Yarra,Dendy Park,No. 1,Miles Forster,Jackson Chen,Jackson Chen,3-6,3,6,0,1,Completed,true,false,false
+UA004011,06 Feb 22,1,Royal South Yarra,Dendy Park,No. 2,William McCrae,Noah Hansen,Noah Hansen,1-6,1,6,0,1,Completed,true,false,false
+UA004011,06 Feb 22,1,Royal South Yarra,Dendy Park,No. 3,Stella Kephala,Jack Loiacono,Jack Loiacono,1-6,1,6,0,1,Completed,true,false,false
+UA004011,06 Feb 22,1,Royal South Yarra,Dendy Park,No. 4,Katherine Soutter,Ahn Ngo,Ahn Ngo,2-6,2,6,0,1,Completed,true,false,false
+UA004012,06 Feb 22,1,Lauriston,Caulfield Rec,No. 1,Lucas Nenke,Chris Liolios,Lucas Nenke,7-6,7,6,1,0,Completed,true,false,false
+UA004012,06 Feb 22,1,Lauriston,Caulfield Rec,No. 2,Andrew Meek,Jasmine Farrugia,Andrew Meek,6-3,6,3,1,0,Completed,true,false,false
+UA004012,06 Feb 22,1,Lauriston,Caulfield Rec,No. 3,Leonie Miller,Elijah Cordover,Elijah Cordover,1-6,1,6,0,1,Completed,true,false,false
+UA004012,06 Feb 22,1,Lauriston,Caulfield Rec,No. 4,Isabelle Nazaretian,Adam Geller,Adam Geller,5-7,5,7,0,1,Completed,true,false,true
+UA004013,06 Feb 22,1,Maccabi,Black Rock,No. 1,Elan Amler,Lewis Smith,Elan Amler,7-5,7,5,1,0,Completed,true,false,false
+UA004013,06 Feb 22,1,Maccabi,Black Rock,No. 2,Linda Li,Kai Takagi,Kai Takagi,0-6,0,6,0,1,Completed,true,false,false
+UA004013,06 Feb 22,1,Maccabi,Black Rock,No. 3,Josh Shaw,Jacky Kong,Jacky Kong,2-6,2,6,0,1,Completed,true,false,false
+UA004013,06 Feb 22,1,Maccabi,Black Rock,No. 4,Ilan Elboher,Angus Tweddle,Ilan Elboher,6-4,6,4,1,0,Completed,true,true,false
+UA004014,06 Feb 22,1,Mentone,Coatesville,No. 1,Luca Magro,Max Lawson,Luca Magro,6-2,6,2,1,0,Completed,true,false,false
+UA004014,06 Feb 22,1,Mentone,Coatesville,No. 2,Alex Boeve,William Chu,Alex Boeve,6-0,6,0,1,0,Completed,true,false,false
+UA004014,06 Feb 22,1,Mentone,Coatesville,No. 3,Katelyn Argent,Daniel Foldvari,Katelyn Argent,6-0,6,0,1,0,Completed,true,false,false
+UA004014,06 Feb 22,1,Mentone,Coatesville,No. 4,Tiara Wickramage,[Unnamed player — TROLS UA004014 away code 4],Tiara Wickramage,6-0,6,0,1,0,Completed,false,false,false
+UA004021,13 Feb 22,2,Coatesville,Royal South Yarra,No. 1,Max Lawson,Miles Forster,Max Lawson,6-4,6,4,1,0,Completed,true,false,false
+UA004021,13 Feb 22,2,Coatesville,Royal South Yarra,No. 2,William Chu,William McCrae,William McCrae,2-6,2,6,0,1,Completed,true,false,false
+UA004021,13 Feb 22,2,Coatesville,Royal South Yarra,No. 3,Daniel Foldvari,Phoebe Andrews,Phoebe Andrews,2-6,2,6,0,1,Completed,true,false,false
+UA004021,13 Feb 22,2,Coatesville,Royal South Yarra,No. 4,Arshika Prakash,Stella Kephala,Stella Kephala,1-6,1,6,0,1,Completed,true,true,false
+UA004022,13 Feb 22,2,Dendy Park,Lauriston,No. 1,Jackson Chen,Lucas Nenke,Lucas Nenke,2-6,2,6,0,1,Completed,true,false,false
+UA004022,13 Feb 22,2,Dendy Park,Lauriston,No. 2,Noah Hansen,Andrew Meek,Andrew Meek,0-6,0,6,0,1,Completed,true,false,false
+UA004022,13 Feb 22,2,Dendy Park,Lauriston,No. 3,Jack Loiacono,Leonie Miller,Leonie Miller,1-6,1,6,0,1,Completed,true,false,false
+UA004022,13 Feb 22,2,Dendy Park,Lauriston,No. 4,Ahn Ngo,Isabelle Nazaretian,Ahn Ngo,6-3,6,3,1,0,Completed,true,false,false
+UA004023,13 Feb 22,2,Caulfield Rec,Maccabi,No. 1,Chris Liolios,Elan Amler,Chris Liolios,6-0,6,0,1,0,Completed,true,false,false
+UA004023,13 Feb 22,2,Caulfield Rec,Maccabi,No. 2,Frankie Hillier,Linda Li,Frankie Hillier,6-0,6,0,1,0,Completed,true,false,false
+UA004023,13 Feb 22,2,Caulfield Rec,Maccabi,No. 3,Jasmine Farrugia,Josh Shaw,Jasmine Farrugia,6-3,6,3,1,0,Completed,true,false,false
+UA004023,13 Feb 22,2,Caulfield Rec,Maccabi,No. 4,Mohan Parmar,Ilan Elboher,Mohan Parmar,7-5,7,5,1,0,Completed,true,false,true
+UA004024,13 Feb 22,2,Black Rock,Mentone,No. 1,Lewis Smith,Luca Magro,Luca Magro,2-6,2,6,0,1,Completed,true,false,false
+UA004024,13 Feb 22,2,Black Rock,Mentone,No. 2,Kai Takagi,Katelyn Argent,Kai Takagi,6-4,6,4,1,0,Completed,true,false,false
+UA004024,13 Feb 22,2,Black Rock,Mentone,No. 3,Jacky Kong,Tiara Wickramage,Tiara Wickramage,3-6,3,6,0,1,Completed,true,false,false
+UA004024,13 Feb 22,2,Black Rock,Mentone,No. 4,Angus Tweddle,Paris Stenhouse,Paris Stenhouse,2-6,2,6,0,1,Completed,true,false,false
+UA004031,20 Feb 22,3,Royal South Yarra,Black Rock,No. 1,Miles Forster,Lewis Smith,Lewis Smith,1-6,1,6,0,1,Completed,true,false,false
+UA004031,20 Feb 22,3,Royal South Yarra,Black Rock,No. 2,William McCrae,Jacky Kong,William McCrae,6-3,6,3,1,0,Completed,true,false,false
+UA004031,20 Feb 22,3,Royal South Yarra,Black Rock,No. 3,Phoebe Andrews,Harvey Lansley,Phoebe Andrews,6-3,6,3,1,0,Completed,true,false,false
+UA004031,20 Feb 22,3,Royal South Yarra,Black Rock,No. 4,Stella Kephala,Connor Tasci,Stella Kephala,7-5,7,5,1,0,Completed,true,false,false
+UA004032,20 Feb 22,3,Lauriston,Coatesville,No. 1,Lucas Nenke,Max Lawson,Lucas Nenke,6-1,6,1,1,0,Completed,true,false,false
+UA004032,20 Feb 22,3,Lauriston,Coatesville,No. 2,Andrew Meek,Marcus Wong,Andrew Meek,6-2,6,2,1,0,Completed,true,false,false
+UA004032,20 Feb 22,3,Lauriston,Coatesville,No. 3,Leonie Miller,Lachlan Newby,Lachlan Newby,1-6,1,6,0,1,Completed,true,false,false
+UA004032,20 Feb 22,3,Lauriston,Coatesville,No. 4,Isabelle Nazaretian,William Chu,William Chu,4-6,4,6,0,1,Completed,true,false,false
+UA004033,20 Feb 22,3,Maccabi,Dendy Park,No. 1,Elan Amler,Jackson Chen,Jackson Chen,2-6,2,6,0,1,Completed,true,false,false
+UA004033,20 Feb 22,3,Maccabi,Dendy Park,No. 2,Linda Li,Jack Loiacono,Jack Loiacono,0-6,0,6,0,1,Completed,true,false,false
+UA004033,20 Feb 22,3,Maccabi,Dendy Park,No. 3,Josh Shaw,Ahn Ngo,Ahn Ngo,2-6,2,6,0,1,Completed,true,false,false
+UA004033,20 Feb 22,3,Maccabi,Dendy Park,No. 4,Joshua Sacho,Patrick Wilson,Patrick Wilson,2-6,2,6,0,1,Completed,true,true,true
+UA004034,20 Feb 22,3,Mentone,Caulfield Rec,No. 1,Luca Magro,Chris Liolios,Chris Liolios,5-7,5,7,0,1,Completed,true,false,false
+UA004034,20 Feb 22,3,Mentone,Caulfield Rec,No. 2,Alex Boeve,Frankie Hillier,Alex Boeve,6-2,6,2,1,0,Completed,true,false,false
+UA004034,20 Feb 22,3,Mentone,Caulfield Rec,No. 3,Katelyn Argent,Elijah Cordover,Elijah Cordover,4-6,4,6,0,1,Completed,true,false,false
+UA004034,20 Feb 22,3,Mentone,Caulfield Rec,No. 4,Paris Stenhouse,Mohan Parmar,Mohan Parmar,3-6,3,6,0,1,Completed,true,false,false
+UA004041,27 Feb 22,4,Caulfield Rec,Royal South Yarra,No. 1,Chris Liolios,Miles Forster,Chris Liolios,6-1,6,1,1,0,Completed,true,false,false
+UA004041,27 Feb 22,4,Caulfield Rec,Royal South Yarra,No. 2,Jasmine Farrugia,William McCrae,Jasmine Farrugia,6-4,6,4,1,0,Completed,true,false,false
+UA004041,27 Feb 22,4,Caulfield Rec,Royal South Yarra,No. 3,Elijah Cordover,Phoebe Andrews,Elijah Cordover,6-2,6,2,1,0,Completed,true,false,false
+UA004041,27 Feb 22,4,Caulfield Rec,Royal South Yarra,No. 4,Mohan Parmar,Stella Kephala,Stella Kephala,5-7,5,7,0,1,Completed,true,false,false
+UA004042,27 Feb 22,4,Black Rock,Lauriston,No. 1,Lewis Smith,Lucas Nenke,Lucas Nenke,3-6,3,6,0,1,Completed,true,false,false
+UA004042,27 Feb 22,4,Black Rock,Lauriston,No. 2,Jacky Kong,Andrew Meek,Andrew Meek,4-6,4,6,0,1,Completed,true,false,false
+UA004042,27 Feb 22,4,Black Rock,Lauriston,No. 3,Harvey Lansley,Leonie Miller,Harvey Lansley,6-4,6,4,1,0,Completed,true,false,false
+UA004042,27 Feb 22,4,Black Rock,Lauriston,No. 4,Connor Tasci,Isabelle Nazaretian,Connor Tasci,6-3,6,3,1,0,Completed,true,false,false
+UA004043,27 Feb 22,4,Coatesville,Maccabi,No. 1,Max Lawson,Elan Amler,Max Lawson,6-3,6,3,1,0,Completed,true,false,false
+UA004043,27 Feb 22,4,Coatesville,Maccabi,No. 2,Marcus Wong,Josh Shaw,Marcus Wong,6-1,6,1,1,0,Completed,true,false,false
+UA004043,27 Feb 22,4,Coatesville,Maccabi,No. 3,William Chu,Linda Li,William Chu,6-2,6,2,1,0,Completed,true,false,false
+UA004043,27 Feb 22,4,Coatesville,Maccabi,No. 4,Daniel Foldvari,Zaki Belfer,Zaki Belfer,3-6,3,6,0,1,Completed,true,false,true
+UA004044,27 Feb 22,4,Dendy Park,Mentone,No. 1,Jackson Chen,Luca Magro,Jackson Chen,7-5,7,5,1,0,Completed,true,false,false
+UA004044,27 Feb 22,4,Dendy Park,Mentone,No. 2,Noah Hansen,Alex Boeve,Alex Boeve,1-6,1,6,0,1,Completed,true,false,false
+UA004044,27 Feb 22,4,Dendy Park,Mentone,No. 3,Jack Loiacono,Tiara Wickramage,Jack Loiacono,7-6,7,6,1,0,Completed,true,false,false
+UA004044,27 Feb 22,4,Dendy Park,Mentone,No. 4,Ahn Ngo,Paris Stenhouse,Paris Stenhouse,2-6,2,6,0,1,Completed,true,false,false
+UA004052,06 Mar 22,5,Coatesville,Black Rock,No. 1,Max Lawson,Lewis Smith,Max Lawson,6-2,6,2,1,0,Completed,true,false,false
+UA004052,06 Mar 22,5,Coatesville,Black Rock,No. 2,Marcus Wong,Harvey Lansley,Marcus Wong,7-6,7,6,1,0,Completed,true,false,false
+UA004052,06 Mar 22,5,Coatesville,Black Rock,No. 3,Lachlan Newby,Angus Tweddle,Lachlan Newby,6-0,6,0,1,0,Completed,true,false,false
+UA004052,06 Mar 22,5,Coatesville,Black Rock,No. 4,Daniel Foldvari,Connor Tasci,Connor Tasci,6-7,6,7,0,1,Completed,true,false,false
+UA004053,06 Mar 22,5,Caulfield Rec,Dendy Park,No. 1,Chris Liolios,Jackson Chen,Jackson Chen,6-7,6,7,0,1,Completed,true,false,false
+UA004053,06 Mar 22,5,Caulfield Rec,Dendy Park,No. 2,Frankie Hillier,Noah Hansen,Frankie Hillier,6-2,6,2,1,0,Completed,true,false,false
+UA004053,06 Mar 22,5,Caulfield Rec,Dendy Park,No. 3,Jasmine Farrugia,Ahn Ngo,Jasmine Farrugia,7-5,7,5,1,0,Completed,true,false,false
+UA004053,06 Mar 22,5,Caulfield Rec,Dendy Park,No. 4,Elijah Cordover,Len Yatsuzuka,Elijah Cordover,7-6,7,6,1,0,Completed,true,false,true
+UA004061,20 Mar 22,6,Lauriston,Maccabi,No. 1,Lucas Nenke,Elan Amler,Lucas Nenke,6-1,6,1,1,0,Completed,true,false,false
+UA004061,20 Mar 22,6,Lauriston,Maccabi,No. 2,Freya Matthews,Josh Shaw,Freya Matthews,6-1,6,1,1,0,Completed,true,false,false
+UA004061,20 Mar 22,6,Lauriston,Maccabi,No. 3,Isabelle Nazaretian,Linda Li,Isabelle Nazaretian,6-3,6,3,1,0,Completed,true,false,false
+UA004061,20 Mar 22,6,Lauriston,Maccabi,No. 4,Juliet Nazaretian,Gabe Houseman,Gabe Houseman,4-6,4,6,0,1,Completed,true,true,true
+UA004062,20 Mar 22,6,Mentone,Royal South Yarra,No. 1,Luca Magro,Eddie Millear,Luca Magro,6-1,6,1,1,0,Completed,true,false,false
+UA004062,20 Mar 22,6,Mentone,Royal South Yarra,No. 2,Katelyn Argent,Miles Forster,Katelyn Argent,6-1,6,1,1,0,Completed,true,false,false
+UA004062,20 Mar 22,6,Mentone,Royal South Yarra,No. 3,Tiara Wickramage,William McCrae,Tiara Wickramage,6-2,6,2,1,0,Completed,true,false,false
+UA004062,20 Mar 22,6,Mentone,Royal South Yarra,No. 4,Paris Stenhouse,Stella Kephala,Paris Stenhouse,6-0,6,0,1,0,Completed,true,false,false
+UA004063,20 Mar 22,6,Black Rock,Caulfield Rec,No. 1,Lewis Smith,[Unnamed player — TROLS UA004063 away code 1],Lewis Smith,6-0,6,0,1,0,Completed,false,false,false
+UA004063,20 Mar 22,6,Black Rock,Caulfield Rec,No. 2,Jacky Kong,Frankie Hillier,Jacky Kong,6-2,6,2,1,0,Completed,true,false,false
+UA004063,20 Mar 22,6,Black Rock,Caulfield Rec,No. 3,Angus Tweddle,Jasmine Farrugia,Jasmine Farrugia,2-6,2,6,0,1,Completed,true,false,false
+UA004063,20 Mar 22,6,Black Rock,Caulfield Rec,No. 4,Connor Tasci,Elijah Cordover,Elijah Cordover,0-6,0,6,0,1,Completed,true,false,false
+UA004064,20 Mar 22,6,Dendy Park,Coatesville,No. 1,Jackson Chen,Marcus Wong,Jackson Chen,6-1,6,1,1,0,Completed,true,false,false
+UA004064,20 Mar 22,6,Dendy Park,Coatesville,No. 2,Noah Hansen,Lachlan Newby,Lachlan Newby,2-6,2,6,0,1,Completed,true,false,false
+UA004064,20 Mar 22,6,Dendy Park,Coatesville,No. 3,Jack Loiacono,William Chu,Jack Loiacono,6-3,6,3,1,0,Completed,true,false,false
+UA004064,20 Mar 22,6,Dendy Park,Coatesville,No. 4,Ahn Ngo,Daniel Foldvari,Ahn Ngo,6-1,6,1,1,0,Completed,true,false,false
+UA004071,27 Mar 22,7,Royal South Yarra,Maccabi,No. 1,Miles Forster,Elan Amler,Elan Amler,4-6,4,6,0,1,Completed,true,false,false
+UA004071,27 Mar 22,7,Royal South Yarra,Maccabi,No. 2,Phoebe Andrews,Josh Shaw,Phoebe Andrews,6-1,6,1,1,0,Completed,true,false,false
+UA004071,27 Mar 22,7,Royal South Yarra,Maccabi,No. 3,Stella Kephala,Linda Li,Stella Kephala,6-2,6,2,1,0,Completed,true,false,false
+UA004071,27 Mar 22,7,Royal South Yarra,Maccabi,No. 4,Katherine Soutter,Gavi Gottleib,Katherine Soutter,7-5,7,5,1,0,Completed,true,false,true
+UA004072,27 Mar 22,7,Lauriston,Mentone,No. 1,Lucas Nenke,Alex Boeve,Lucas Nenke,6-4,6,4,1,0,Completed,true,false,false
+UA004072,27 Mar 22,7,Lauriston,Mentone,No. 2,Andrew Meek,Katelyn Argent,Andrew Meek,6-3,6,3,1,0,Completed,true,false,false
+UA004072,27 Mar 22,7,Lauriston,Mentone,No. 3,Leonie Miller,Tiara Wickramage,Tiara Wickramage,2-6,2,6,0,1,Completed,true,false,false
+UA004072,27 Mar 22,7,Lauriston,Mentone,No. 4,Isabelle Nazaretian,Paris Stenhouse,Paris Stenhouse,3-6,3,6,0,1,Completed,true,false,false
+UA004073,27 Mar 22,7,Coatesville,Caulfield Rec,No. 1,Max Lawson,Chris Liolios,Chris Liolios,3-6,3,6,0,1,Completed,true,false,false
+UA004073,27 Mar 22,7,Coatesville,Caulfield Rec,No. 2,Marcus Wong,Jasmine Farrugia,Marcus Wong,6-1,6,1,1,0,Completed,true,false,false
+UA004073,27 Mar 22,7,Coatesville,Caulfield Rec,No. 3,Lachlan Newby,Mohan Parmar,Lachlan Newby,6-1,6,1,1,0,Completed,true,false,false
+UA004073,27 Mar 22,7,Coatesville,Caulfield Rec,No. 4,Daniel Foldvari,Takuto Ema,Takuto Ema,2-6,2,6,0,1,Completed,true,false,true
+UA004074,27 Mar 22,7,Black Rock,Dendy Park,No. 1,Jacky Kong,Jackson Chen,Jackson Chen,3-6,3,6,0,1,Completed,true,false,false
+UA004074,27 Mar 22,7,Black Rock,Dendy Park,No. 2,Connor Tasci,Noah Hansen,Connor Tasci,6-4,6,4,1,0,Completed,true,false,false
+UA004074,27 Mar 22,7,Black Rock,Dendy Park,No. 3,Jules Harris-Ure,Jack Loiacono,Jack Loiacono,1-6,1,6,0,1,Completed,true,true,false
+UA004074,27 Mar 22,7,Black Rock,Dendy Park,No. 4,Ella Rankin,Jun Poon,Jun Poon,0-6,0,6,0,1,Completed,true,true,true
+UA004081,03 Apr 22,8,Dendy Park,Royal South Yarra,No. 1,Noah Hansen,Phoebe Andrews,Phoebe Andrews,1-6,1,6,0,1,Completed,true,false,false
+UA004081,03 Apr 22,8,Dendy Park,Royal South Yarra,No. 2,Jack Loiacono,Stella Kephala,Jack Loiacono,7-6,7,6,1,0,Completed,true,false,false
+UA004081,03 Apr 22,8,Dendy Park,Royal South Yarra,No. 3,Jun Poon,Katherine Soutter,Jun Poon,6-1,6,1,1,0,Completed,true,true,false
+UA004081,03 Apr 22,8,Dendy Park,Royal South Yarra,No. 4,Rocco Theuna,Boston Moran,Rocco Theuna,6-3,6,3,1,0,Completed,true,true,true
+UA004082,03 Apr 22,8,Caulfield Rec,Lauriston,No. 1,Chris Liolios,Lucas Nenke,Lucas Nenke,6-7,6,7,0,1,Completed,true,false,false
+UA004082,03 Apr 22,8,Caulfield Rec,Lauriston,No. 2,Frankie Hillier,Andrew Meek,Andrew Meek,2-6,2,6,0,1,Completed,true,false,false
+UA004082,03 Apr 22,8,Caulfield Rec,Lauriston,No. 3,Elijah Cordover,Leonie Miller,Elijah Cordover,6-1,6,1,1,0,Completed,true,false,false
+UA004082,03 Apr 22,8,Caulfield Rec,Lauriston,No. 4,Mohan Parmar,Isabelle Nazaretian,Mohan Parmar,7-6,7,6,1,0,Completed,true,false,false
+UA004083,03 Apr 22,8,Black Rock,Maccabi,No. 1,Jacky Kong,Elan Amler,Elan Amler,6-7,6,7,0,1,Completed,true,false,false
+UA004083,03 Apr 22,8,Black Rock,Maccabi,No. 2,Harvey Lansley,Josh Shaw,Harvey Lansley,6-3,6,3,1,0,Completed,true,false,false
+UA004083,03 Apr 22,8,Black Rock,Maccabi,No. 3,Angus Tweddle,Linda Li,Angus Tweddle,7-6,7,6,1,0,Completed,true,false,false
+UA004083,03 Apr 22,8,Black Rock,Maccabi,No. 4,Connor Tasci,Jeremy Samuel,Connor Tasci,7-5,7,5,1,0,Completed,true,false,true
+UA004084,03 Apr 22,8,Coatesville,Mentone,No. 1,Yarden Lashchover,Luca Magro,Luca Magro,2-6,2,6,0,1,Completed,true,true,false
+UA004084,03 Apr 22,8,Coatesville,Mentone,No. 2,Max Lawson,Alex Boeve,Alex Boeve,0-6,0,6,0,1,Completed,true,false,false
+UA004084,03 Apr 22,8,Coatesville,Mentone,No. 3,Marcus Wong,Katelyn Argent,Marcus Wong,7-5,7,5,1,0,Completed,true,false,false
+UA004084,03 Apr 22,8,Coatesville,Mentone,No. 4,Lachlan Newby,Paris Stenhouse,Lachlan Newby,6-1,6,1,1,0,Completed,true,false,false
+UA004091,01 May 22,9,Royal South Yarra,Coatesville,No. 1,Sophie Davies,Max Lawson,Max Lawson,1-6,1,6,0,1,Completed,true,false,false
+UA004091,01 May 22,9,Royal South Yarra,Coatesville,No. 2,Eddie Millear,Marcus Wong,Marcus Wong,2-6,2,6,0,1,Completed,true,false,false
+UA004091,01 May 22,9,Royal South Yarra,Coatesville,No. 3,Miles Forster,William Chu,Miles Forster,6-2,6,2,1,0,Completed,true,false,false
+UA004091,01 May 22,9,Royal South Yarra,Coatesville,No. 4,Phoebe Andrews,Daniel Foldvari,Phoebe Andrews,6-0,6,0,1,0,Completed,true,false,false
+UA004092,01 May 22,9,Lauriston,Dendy Park,No. 1,Lucas Nenke,Jackson Chen,Lucas Nenke,6-2,6,2,1,0,Completed,true,false,false
+UA004092,01 May 22,9,Lauriston,Dendy Park,No. 2,Freya Matthews,Noah Hansen,Noah Hansen,1-6,1,6,0,1,Completed,true,false,false
+UA004092,01 May 22,9,Lauriston,Dendy Park,No. 3,Leonie Miller,Jack Loiacono,Jack Loiacono,4-6,4,6,0,1,Completed,true,false,false
+UA004092,01 May 22,9,Lauriston,Dendy Park,No. 4,Isabelle Nazaretian,Ahn Ngo,Isabelle Nazaretian,6-4,6,4,1,0,Completed,true,false,false
+UA004093,01 May 22,9,Maccabi,Caulfield Rec,No. 1,Elan Amler,Chris Liolios,Chris Liolios,2-6,2,6,0,1,Completed,true,false,false
+UA004093,01 May 22,9,Maccabi,Caulfield Rec,No. 2,Josh Shaw,Jasmine Farrugia,Jasmine Farrugia,2-6,2,6,0,1,Completed,true,false,false
+UA004093,01 May 22,9,Maccabi,Caulfield Rec,No. 3,Linda Li,Elijah Cordover,Elijah Cordover,0-6,0,6,0,1,Completed,true,false,false
+UA004093,01 May 22,9,Maccabi,Caulfield Rec,No. 4,Joshua Sacho,Mohan Parmar,Joshua Sacho,6-2,6,2,1,0,Completed,true,true,false
+UA004094,01 May 22,9,Mentone,Black Rock,No. 1,Luca Magro,Lewis Smith,Luca Magro,6-1,6,1,1,0,Completed,true,false,false
+UA004094,01 May 22,9,Mentone,Black Rock,No. 2,Alex Boeve,Jacky Kong,Alex Boeve,6-2,6,2,1,0,Completed,true,false,false
+UA004094,01 May 22,9,Mentone,Black Rock,No. 3,Katelyn Argent,Angus Tweddle,Katelyn Argent,6-1,6,1,1,0,Completed,true,false,false
+UA004094,01 May 22,9,Mentone,Black Rock,No. 4,Paris Stenhouse,Connor Tasci,Paris Stenhouse,6-4,6,4,1,0,Completed,true,false,false
+UA004101,08 May 22,10,Black Rock,Royal South Yarra,No. 1,Lewis Smith,William McCrae,Lewis Smith,6-1,6,1,1,0,Completed,true,false,false
+UA004101,08 May 22,10,Black Rock,Royal South Yarra,No. 2,Harvey Lansley,Stella Kephala,Stella Kephala,3-6,3,6,0,1,Completed,true,false,false
+UA004101,08 May 22,10,Black Rock,Royal South Yarra,No. 3,Connor Tasci,Katherine Soutter,Connor Tasci,6-2,6,2,1,0,Completed,true,false,false
+UA004101,08 May 22,10,Black Rock,Royal South Yarra,No. 4,Aryan Palai,Tom Anderson,Tom Anderson,5-7,5,7,0,1,Completed,true,true,true
+UA004102,08 May 22,10,Coatesville,Lauriston,No. 1,Marcus Wong,Lucas Nenke,Lucas Nenke,3-6,3,6,0,1,Completed,true,false,false
+UA004102,08 May 22,10,Coatesville,Lauriston,No. 2,Charlie Garcia,Freya Matthews,Charlie Garcia,6-2,6,2,1,0,Completed,true,true,false
+UA004102,08 May 22,10,Coatesville,Lauriston,No. 3,William Chu,Leonie Miller,Leonie Miller,4-6,4,6,0,1,Completed,true,false,false
+UA004102,08 May 22,10,Coatesville,Lauriston,No. 4,Daniel Foldvari,[Unnamed player — TROLS UA004102 away code 4],Daniel Foldvari,6-0,6,0,1,0,Completed,false,false,false
+UA004103,08 May 22,10,Dendy Park,Maccabi,No. 1,Jackson Chen,Josh Shaw,Jackson Chen,6-0,6,0,1,0,Completed,true,false,false
+UA004103,08 May 22,10,Dendy Park,Maccabi,No. 2,Noah Hansen,Linda Li,Noah Hansen,6-0,6,0,1,0,Completed,true,false,false
+UA004103,08 May 22,10,Dendy Park,Maccabi,No. 3,Jack Loiacono,Gavi Gottleib,Jack Loiacono,6-1,6,1,1,0,Completed,true,false,true
+UA004103,08 May 22,10,Dendy Park,Maccabi,No. 4,Ahn Ngo,Sarah Orner,Ahn Ngo,6-0,6,0,1,0,Completed,true,false,true
+UA004104,08 May 22,10,Caulfield Rec,Mentone,No. 1,Chris Liolios,Luca Magro,Chris Liolios,6-2,6,2,1,0,Completed,true,false,false
+UA004104,08 May 22,10,Caulfield Rec,Mentone,No. 2,Jasmine Farrugia,Alex Boeve,Alex Boeve,0-6,0,6,0,1,Completed,true,false,false
+UA004104,08 May 22,10,Caulfield Rec,Mentone,No. 3,Elijah Cordover,Katelyn Argent,Elijah Cordover,6-3,6,3,1,0,Completed,true,false,false
+UA004104,08 May 22,10,Caulfield Rec,Mentone,No. 4,Mohan Parmar,Tiara Wickramage,Tiara Wickramage,2-6,2,6,0,1,Completed,true,false,false
+UA004111,15 May 22,11,Royal South Yarra,Caulfield Rec,No. 1,Miles Forster,Chris Liolios,Chris Liolios,1-6,1,6,0,1,Completed,true,false,false
+UA004111,15 May 22,11,Royal South Yarra,Caulfield Rec,No. 2,Phoebe Andrews,Frankie Hillier,Frankie Hillier,6-7,6,7,0,1,Completed,true,false,false
+UA004111,15 May 22,11,Royal South Yarra,Caulfield Rec,No. 3,Stella Kephala,Jasmine Farrugia,Stella Kephala,6-2,6,2,1,0,Completed,true,false,false
+UA004111,15 May 22,11,Royal South Yarra,Caulfield Rec,No. 4,Katherine Soutter,Mohan Parmar,Mohan Parmar,6-7,6,7,0,1,Completed,true,false,false
+UA004112,15 May 22,11,Lauriston,Black Rock,No. 1,Lucas Nenke,Lewis Smith,Lucas Nenke,6-1,6,1,1,0,Completed,true,false,false
+UA004112,15 May 22,11,Lauriston,Black Rock,No. 2,Andrew Meek,Jacky Kong,Andrew Meek,6-0,6,0,1,0,Completed,true,false,false
+UA004112,15 May 22,11,Lauriston,Black Rock,No. 3,Leonie Miller,Harvey Lansley,Harvey Lansley,1-6,1,6,0,1,Completed,true,false,false
+UA004112,15 May 22,11,Lauriston,Black Rock,No. 4,Isabelle Nazaretian,Connor Tasci,Connor Tasci,4-6,4,6,0,1,Completed,true,false,false
+UA004113,15 May 22,11,Maccabi,Coatesville,No. 1,Elan Amler,Max Lawson,Elan Amler,6-1,6,1,1,0,Completed,true,false,false
+UA004113,15 May 22,11,Maccabi,Coatesville,No. 2,Josh Shaw,Marcus Wong,Marcus Wong,2-6,2,6,0,1,Completed,true,false,false
+UA004113,15 May 22,11,Maccabi,Coatesville,No. 3,Linda Li,William Chu,Linda Li,6-4,6,4,1,0,Completed,true,false,false
+UA004113,15 May 22,11,Maccabi,Coatesville,No. 4,Blake Golden,Daniel Foldvari,Blake Golden,6-0,6,0,1,0,Completed,true,true,false
+UA004114,15 May 22,11,Mentone,Dendy Park,No. 1,Luca Magro,Jackson Chen,Luca Magro,6-2,6,2,1,0,Completed,true,false,false
+UA004114,15 May 22,11,Mentone,Dendy Park,No. 2,Alex Boeve,Noah Hansen,Alex Boeve,6-0,6,0,1,0,Completed,true,false,false
+UA004114,15 May 22,11,Mentone,Dendy Park,No. 3,Tiara Wickramage,Jack Loiacono,Jack Loiacono,1-6,1,6,0,1,Completed,true,false,false
+UA004114,15 May 22,11,Mentone,Dendy Park,No. 4,Logan Baumgartner,Ahn Ngo,Ahn Ngo,4-6,4,6,0,1,Completed,true,true,false
+UA004121,22 May 22,12,Mentone,Maccabi,No. 1,Luca Magro,[Unnamed player — TROLS UA004121 away code 1],Luca Magro,6-0,6,0,1,0,Completed,false,false,false
+UA004121,22 May 22,12,Mentone,Maccabi,No. 2,Alex Boeve,Josh Shaw,Alex Boeve,6-0,6,0,1,0,Completed,true,false,false
+UA004121,22 May 22,12,Mentone,Maccabi,No. 3,Katelyn Argent,Linda Li,Katelyn Argent,6-1,6,1,1,0,Completed,true,false,false
+UA004121,22 May 22,12,Mentone,Maccabi,No. 4,Tiara Wickramage,Joshua Sacho,Joshua Sacho,5-7,5,7,0,1,Completed,true,false,true
+UA004122,22 May 22,12,Black Rock,Coatesville,No. 1,Lewis Smith,Max Lawson,Lewis Smith,6-3,6,3,1,0,Completed,true,false,false
+UA004122,22 May 22,12,Black Rock,Coatesville,No. 2,Harvey Lansley,Marcus Wong,Harvey Lansley,6-2,6,2,1,0,Completed,true,false,false
+UA004122,22 May 22,12,Black Rock,Coatesville,No. 3,Angus Tweddle,William Chu,William Chu,2-6,2,6,0,1,Completed,true,false,false
+UA004122,22 May 22,12,Black Rock,Coatesville,No. 4,Connor Tasci,Daniel Foldvari,Connor Tasci,6-2,6,2,1,0,Completed,true,false,false
+UA004123,22 May 22,12,Dendy Park,Caulfield Rec,No. 1,Jackson Chen,Chris Liolios,Chris Liolios,6-7,6,7,0,1,Completed,true,false,false
+UA004123,22 May 22,12,Dendy Park,Caulfield Rec,No. 2,Noah Hansen,Frankie Hillier,Frankie Hillier,1-6,1,6,0,1,Completed,true,false,false
+UA004123,22 May 22,12,Dendy Park,Caulfield Rec,No. 3,Jack Loiacono,Jasmine Farrugia,Jack Loiacono,6-0,6,0,1,0,Completed,true,false,false
+UA004123,22 May 22,12,Dendy Park,Caulfield Rec,No. 4,Ahn Ngo,Elijah Cordover,Elijah Cordover,2-6,2,6,0,1,Completed,true,false,false
+UA004124,22 May 22,12,Lauriston,Royal South Yarra,No. 1,Lucas Nenke,Eddie Millear,Lucas Nenke,6-1,6,1,1,0,Completed,true,false,false
+UA004124,22 May 22,12,Lauriston,Royal South Yarra,No. 2,Andrew Meek,Miles Forster,Andrew Meek,6-3,6,3,1,0,Completed,true,false,false
+UA004124,22 May 22,12,Lauriston,Royal South Yarra,No. 3,Freya Matthews,William McCrae,William McCrae,4-6,4,6,0,1,Completed,true,false,false
+UA004124,22 May 22,12,Lauriston,Royal South Yarra,No. 4,Isabelle Nazaretian,Katherine Soutter,Isabelle Nazaretian,6-4,6,4,1,0,Completed,true,false,false
+UA004131,29 May 22,13,Maccabi,Lauriston,No. 1,Elan Amler,Lucas Nenke,Lucas Nenke,2-6,2,6,0,1,Completed,true,false,false
+UA004131,29 May 22,13,Maccabi,Lauriston,No. 2,[Unnamed player — TROLS UA004131 home code 2],Andrew Meek,Andrew Meek,0-6,0,6,0,1,Completed,false,false,false
+UA004131,29 May 22,13,Maccabi,Lauriston,No. 3,Linda Li,Leonie Miller,Leonie Miller,3-6,3,6,0,1,Completed,true,false,false
+UA004131,29 May 22,13,Maccabi,Lauriston,No. 4,Zaki Belfer,Isabelle Nazaretian,Zaki Belfer,6-4,6,4,1,0,Completed,true,true,false
+UA004132,29 May 22,13,Royal South Yarra,Mentone,No. 1,Sophie Davies,Luca Magro,Luca Magro,0-6,0,6,0,1,Completed,true,false,false
+UA004132,29 May 22,13,Royal South Yarra,Mentone,No. 2,Eddie Millear,Alex Boeve,Alex Boeve,1-6,1,6,0,1,Completed,true,false,false
+UA004132,29 May 22,13,Royal South Yarra,Mentone,No. 3,Stella Kephala,Tiara Wickramage,Tiara Wickramage,3-6,3,6,0,1,Completed,true,false,false
+UA004132,29 May 22,13,Royal South Yarra,Mentone,No. 4,Katherine Soutter,Paris Stenhouse,Paris Stenhouse,2-6,2,6,0,1,Completed,true,false,false
+UA004133,29 May 22,13,Caulfield Rec,Black Rock,No. 1,Chris Liolios,Jacky Kong,Chris Liolios,6-1,6,1,1,0,Completed,true,false,false
+UA004133,29 May 22,13,Caulfield Rec,Black Rock,No. 2,Frankie Hillier,Harvey Lansley,Frankie Hillier,6-2,6,2,1,0,Completed,true,false,false
+UA004133,29 May 22,13,Caulfield Rec,Black Rock,No. 3,Jasmine Farrugia,Angus Tweddle,Jasmine Farrugia,6-0,6,0,1,0,Completed,true,false,false
+UA004133,29 May 22,13,Caulfield Rec,Black Rock,No. 4,[Unnamed player — TROLS UA004133 home code 4],Connor Tasci,Connor Tasci,0-6,0,6,0,1,Completed,false,false,false
+UA004134,29 May 22,13,Coatesville,Dendy Park,No. 1,Max Lawson,Jackson Chen,Jackson Chen,0-6,0,6,0,1,Completed,true,false,false
+UA004134,29 May 22,13,Coatesville,Dendy Park,No. 2,Marcus Wong,Ahn Ngo,Ahn Ngo,6-7,6,7,0,1,Completed,true,false,false
+UA004134,29 May 22,13,Coatesville,Dendy Park,No. 3,William Chu,Slade Caldwell,William Chu,7-6,7,6,1,0,Completed,true,false,true
+UA004134,29 May 22,13,Coatesville,Dendy Park,No. 4,Daniel Foldvari,Rocco Theuna,Rocco Theuna,0-6,0,6,0,1,Completed,true,false,true
+UA004301,,16,Mentone,Caulfield Rec,No. 1,Luca Magro,Chris Liolios,Luca Magro,6-2,6,2,1,0,Completed,true,false,false
+UA004301,,16,Mentone,Caulfield Rec,No. 2,Alex Boeve,Frankie Hillier,Alex Boeve,6-1,6,1,1,0,Completed,true,false,false
+UA004302,,16,Dendy Park,Lauriston,No. 1,Jackson Chen,Lucas Nenke,Lucas Nenke,3-6,3,6,0,1,Completed,true,false,false
+UA004302,,16,Dendy Park,Lauriston,No. 2,Noah Hansen,Andrew Meek,Andrew Meek,6-7,6,7,0,1,Completed,true,false,false
+UA004302,,16,Dendy Park,Lauriston,No. 3,Jack Loiacono,Leonie Miller,Jack Loiacono,6-2,6,2,1,0,Completed,true,false,false
+UA004302,,16,Dendy Park,Lauriston,No. 4,Ahn Ngo,Isabelle Nazaretian,Ahn Ngo,6-4,6,4,1,0,Completed,true,false,false
+UA004321,,17,Mentone,Dendy Park,No. 1,Luca Magro,Jackson Chen,Luca Magro,6-0,6,0,1,0,Completed,true,false,false
+UA004321,,17,Mentone,Dendy Park,No. 2,Katelyn Argent,Noah Hansen,Katelyn Argent,7-5,7,5,1,0,Completed,true,false,false
+UA004321,,17,Mentone,Dendy Park,No. 3,Tiara Wickramage,Jack Loiacono,Jack Loiacono,3-6,3,6,0,1,Completed,true,false,false
+UA004321,,17,Mentone,Dendy Park,No. 4,Paris Stenhouse,Ahn Ngo,Ahn Ngo,3-6,3,6,0,1,Completed,true,false,false

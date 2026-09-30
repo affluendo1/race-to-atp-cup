@@ -1,0 +1,93 @@
+{
+  "asset_id": "AA28-AA003",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Spring 2012",
+  "season_id": "AA28",
+  "season_label": "Spring 2012",
+  "source_section_code": "AA003",
+  "section_label": "Saturday Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Caulfield Rec",
+      "wins": 11,
+      "points": 107,
+      "percentage": 158.14,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Carmelite",
+      "wins": 10,
+      "points": 98,
+      "percentage": 166.5,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kooyong",
+      "wins": 7,
+      "points": 82,
+      "percentage": 134.23,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Kooyong MLC2",
+      "wins": 6,
+      "points": 73,
+      "percentage": 103.37,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong MLC1",
+      "wins": 5,
+      "points": 57,
+      "percentage": 85.12,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Port Melbourne",
+      "wins": 4,
+      "points": 48,
+      "percentage": 62.3,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Ardrie Park GP2",
+      "wins": 1,
+      "points": 43,
+      "percentage": 79.26,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Ardrie Park GP1",
+      "wins": 1,
+      "points": 28,
+      "percentage": 60.97,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA28-AA003",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 196,
+  "doubles_rubbers": 97,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for AA003092"
+  ]
+}

@@ -1,0 +1,109 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA021031,01 Aug 21,3,BLTC,Victory Park,No. 1,Sophie Turner,Oliver Kilcourse,Sophie Turner,6-1,6,1,1,0,Completed,true,true,false
+UA021031,01 Aug 21,3,BLTC,Victory Park,No. 2,Michael Lorio,Miles Kilcourse,Miles Kilcourse,1-6,1,6,0,1,Completed,true,false,false
+UA021031,01 Aug 21,3,BLTC,Victory Park,No. 3,Tazanna Singh,Cooper Neal,Cooper Neal,2-6,2,6,0,1,Completed,true,true,false
+UA021031,01 Aug 21,3,BLTC,Victory Park,No. 4,Adriana Taleb,Elliott Collins,Adriana Taleb,6-4,6,4,1,0,Completed,true,true,false
+UA021032,01 Aug 21,3,Royal Ave No.1,St Pats Mentone,No. 1,Jake Barr,Blake Schiffner,Blake Schiffner,4-6,4,6,0,1,Completed,true,false,false
+UA021032,01 Aug 21,3,Royal Ave No.1,St Pats Mentone,No. 2,Amelia Haber,Patrick Begic,Patrick Begic,1-6,1,6,0,1,Completed,true,false,true
+UA021032,01 Aug 21,3,Royal Ave No.1,St Pats Mentone,No. 3,Rosie Barr,Anthony Mirhom,Anthony Mirhom,1-6,1,6,0,1,Completed,true,false,false
+UA021032,01 Aug 21,3,Royal Ave No.1,St Pats Mentone,No. 4,Ted Fujii,Bhargav Mysore,Ted Fujii,6-0,6,0,1,0,Completed,true,false,false
+UA021033,01 Aug 21,3,Lauriston,GPHC,No. 1,Chris Wang,Harriet Syme,Harriet Syme,5-7,5,7,0,1,Completed,true,false,false
+UA021033,01 Aug 21,3,Lauriston,GPHC,No. 2,Xavier Misso,Sienna Dobson,Xavier Misso,7-6,7,6,1,0,Completed,true,false,false
+UA021033,01 Aug 21,3,Lauriston,GPHC,No. 3,Michael Davey,Samantha Ford,Samantha Ford,3-6,3,6,0,1,Completed,true,false,false
+UA021033,01 Aug 21,3,Lauriston,GPHC,No. 4,Lucas Wu,Rachel Ford,Lucas Wu,6-3,6,3,1,0,Completed,true,false,false
+UA021034,01 Aug 21,3,Murrumbeena LA,Royal Ave No.2,No. 1,Eric Tran,Oliver Young,Oliver Young,2-6,2,6,0,1,Completed,true,false,false
+UA021034,01 Aug 21,3,Murrumbeena LA,Royal Ave No.2,No. 2,Lillia Givargis,Emilio Thirard,Lillia Givargis,6-3,6,3,1,0,Completed,true,false,false
+UA021034,01 Aug 21,3,Murrumbeena LA,Royal Ave No.2,No. 3,Alena Givorgis,Costa Ponkas,Alena Givorgis,6-3,6,3,1,0,Completed,true,false,false
+UA021034,01 Aug 21,3,Murrumbeena LA,Royal Ave No.2,No. 4,Kyle Yamada,Russell Atkins,Russell Atkins,0-6,0,6,0,1,Completed,true,false,false
+UA021091,07 Nov 21,9,BLTC,St Pats Mentone,No. 1,Jasper Fitzgerald,Blake Schiffner,Jasper Fitzgerald,6-4,6,4,1,0,Completed,true,false,false
+UA021091,07 Nov 21,9,BLTC,St Pats Mentone,No. 2,Lucas Hansen,Ollie Clifton,Lucas Hansen,6-2,6,2,1,0,Completed,true,false,false
+UA021091,07 Nov 21,9,BLTC,St Pats Mentone,No. 3,Owen Han,Anthony Mirhom,Owen Han,7-6,7,6,1,0,Completed,true,false,false
+UA021091,07 Nov 21,9,BLTC,St Pats Mentone,No. 4,Patrick Francese,Bhargav Mysore,Patrick Francese,6-0,6,0,1,0,Completed,true,false,false
+UA021092,07 Nov 21,9,Royal Ave No.1,GPHC,No. 1,Jake Barr,Caitlin Cassidy,Jake Barr,6-0,6,0,1,0,Completed,true,false,false
+UA021092,07 Nov 21,9,Royal Ave No.1,GPHC,No. 2,Amelia Haber,Mimi Cross,Mimi Cross,0-6,0,6,0,1,Completed,true,false,false
+UA021092,07 Nov 21,9,Royal Ave No.1,GPHC,No. 3,Rosie Barr,Samantha Ford,Samantha Ford,0-6,0,6,0,1,Completed,true,false,false
+UA021092,07 Nov 21,9,Royal Ave No.1,GPHC,No. 4,Amber Sutherland,Rachel Ford,Rachel Ford,2-6,2,6,0,1,Completed,true,true,false
+UA021093,07 Nov 21,9,Lauriston,Royal Ave No.2,No. 1,Chris Wang,Oliver Young,Chris Wang,6-3,6,3,1,0,Completed,true,false,false
+UA021093,07 Nov 21,9,Lauriston,Royal Ave No.2,No. 2,Xavier Misso,Zane Khan,Zane Khan,6-7,6,7,0,1,Completed,true,false,false
+UA021093,07 Nov 21,9,Lauriston,Royal Ave No.2,No. 3,Lucas Wu,Russell Atkins,Russell Atkins,3-6,3,6,0,1,Completed,true,false,false
+UA021093,07 Nov 21,9,Lauriston,Royal Ave No.2,No. 4,Luke Davey,Costa Ponkas,Luke Davey,6-0,6,0,1,0,Completed,true,false,false
+UA021094,07 Nov 21,9,Murrumbeena LA,Victory Park,No. 1,Eric Tran,Oliver Kilcourse,Oliver Kilcourse,0-6,0,6,0,1,Completed,true,false,false
+UA021094,07 Nov 21,9,Murrumbeena LA,Victory Park,No. 2,Lillia Givargis,Miles Kilcourse,Miles Kilcourse,3-6,3,6,0,1,Completed,true,false,false
+UA021094,07 Nov 21,9,Murrumbeena LA,Victory Park,No. 3,Alena Givorgis,Elliott Collins,Elliott Collins,4-6,4,6,0,1,Completed,true,false,false
+UA021094,07 Nov 21,9,Murrumbeena LA,Victory Park,No. 4,Amrutha Jaladanks,Torin Hunter,Torin Hunter,2-6,2,6,0,1,Completed,true,true,false
+UA021101,14 Nov 21,10,Victory Park,BLTC,No. 1,Oliver Kilcourse,Jasper Fitzgerald,Oliver Kilcourse,6-2,6,2,1,0,Completed,true,false,false
+UA021101,14 Nov 21,10,Victory Park,BLTC,No. 2,Miles Kilcourse,Lucas Hansen,Lucas Hansen,5-7,5,7,0,1,Completed,true,false,false
+UA021101,14 Nov 21,10,Victory Park,BLTC,No. 3,Cooper Neal,Owen Han,Owen Han,5-7,5,7,0,1,Completed,true,false,false
+UA021101,14 Nov 21,10,Victory Park,BLTC,No. 4,Elliott Collins,Patrick Francese,Elliott Collins,6-3,6,3,1,0,Completed,true,false,false
+UA021102,14 Nov 21,10,St Pats Mentone,Royal Ave No.1,No. 1,Blake Schiffner,Rosie Barr,Blake Schiffner,6-0,6,0,1,0,Completed,true,false,false
+UA021102,14 Nov 21,10,St Pats Mentone,Royal Ave No.1,No. 2,Ollie Clifton,Ted Fujii,Ollie Clifton,7-5,7,5,1,0,Completed,true,false,false
+UA021102,14 Nov 21,10,St Pats Mentone,Royal Ave No.1,No. 3,Anthony Mirhom,Amber Sutherland,Anthony Mirhom,6-0,6,0,1,0,Completed,true,false,true
+UA021102,14 Nov 21,10,St Pats Mentone,Royal Ave No.1,No. 4,Sam Dickenson,Sascha Whitelaw,Sascha Whitelaw,6-7,6,7,0,1,Completed,true,false,false
+UA021103,14 Nov 21,10,GPHC,Lauriston,No. 1,Harriet Syme,Pranav Swarup,Pranav Swarup,2-6,2,6,0,1,Completed,true,false,false
+UA021103,14 Nov 21,10,GPHC,Lauriston,No. 2,Sienna Dobson,Chris Wang,Sienna Dobson,6-4,6,4,1,0,Completed,true,false,false
+UA021103,14 Nov 21,10,GPHC,Lauriston,No. 3,Rachel Ford,Lucas Wu,Lucas Wu,0-6,0,6,0,1,Completed,true,false,false
+UA021103,14 Nov 21,10,GPHC,Lauriston,No. 4,Harry Tortoni,Luke Davey,Harry Tortoni,6-0,6,0,1,0,Completed,true,true,false
+UA021104,14 Nov 21,10,Royal Ave No.2,Murrumbeena LA,No. 1,Oliver Young,Finn Cromie,Finn Cromie,6-7,6,7,0,1,Completed,true,false,false
+UA021104,14 Nov 21,10,Royal Ave No.2,Murrumbeena LA,No. 2,Zane Khan,Hayden Amaransinghe,Zane Khan,6-0,6,0,1,0,Completed,true,false,false
+UA021104,14 Nov 21,10,Royal Ave No.2,Murrumbeena LA,No. 3,Costa Ponkas,Kyle Yamada,Kyle Yamada,3-6,3,6,0,1,Completed,true,false,false
+UA021104,14 Nov 21,10,Royal Ave No.2,Murrumbeena LA,No. 4,Emilio Thirard,Amrutha Jaladanks,Amrutha Jaladanks,3-6,3,6,0,1,Completed,true,false,true
+UA021111,21 Nov 21,11,BLTC,Royal Ave No.2,No. 1,Jasper Fitzgerald,Zane Khan,Jasper Fitzgerald,6-0,6,0,1,0,Completed,true,false,false
+UA021111,21 Nov 21,11,BLTC,Royal Ave No.2,No. 2,Owen Han,Emilio Thirard,Owen Han,6-1,6,1,1,0,Completed,true,false,false
+UA021111,21 Nov 21,11,BLTC,Royal Ave No.2,No. 3,Michael Lorio,Russell Atkins,Russell Atkins,1-6,1,6,0,1,Completed,true,false,false
+UA021111,21 Nov 21,11,BLTC,Royal Ave No.2,No. 4,Patrick Francese,Matthew Varis,Patrick Francese,6-2,6,2,1,0,Completed,true,false,true
+UA021112,21 Nov 21,11,Royal Ave No.1,Victory Park,No. 1,Amelia Haber,Oliver Kilcourse,Oliver Kilcourse,1-6,1,6,0,1,Completed,true,false,false
+UA021112,21 Nov 21,11,Royal Ave No.1,Victory Park,No. 2,Ted Fujii,Miles Kilcourse,Miles Kilcourse,1-6,1,6,0,1,Completed,true,false,false
+UA021112,21 Nov 21,11,Royal Ave No.1,Victory Park,No. 3,Amber Sutherland,Elliott Collins,Elliott Collins,2-6,2,6,0,1,Completed,true,true,false
+UA021112,21 Nov 21,11,Royal Ave No.1,Victory Park,No. 4,Sascha Whitelaw,Torin Hunter,Torin Hunter,0-6,0,6,0,1,Completed,true,false,false
+UA021113,21 Nov 21,11,Lauriston,St Pats Mentone,No. 1,Pranav Swarup,Blake Schiffner,Pranav Swarup,7-6,7,6,1,0,Completed,true,false,false
+UA021113,21 Nov 21,11,Lauriston,St Pats Mentone,No. 2,Xavier Misso,Ollie Clifton,Xavier Misso,6-2,6,2,1,0,Completed,true,false,false
+UA021113,21 Nov 21,11,Lauriston,St Pats Mentone,No. 3,Michael Davey,Bhargav Mysore,Michael Davey,6-0,6,0,1,0,Completed,true,false,false
+UA021113,21 Nov 21,11,Lauriston,St Pats Mentone,No. 4,Luke Davey,Sam Dickenson,Luke Davey,6-2,6,2,1,0,Completed,true,false,false
+UA021114,21 Nov 21,11,Murrumbeena LA,GPHC,No. 1,Finn Cromie,Harriet Syme,Finn Cromie,6-3,6,3,1,0,Completed,true,false,false
+UA021114,21 Nov 21,11,Murrumbeena LA,GPHC,No. 2,Eric Tran,Mimi Cross,Mimi Cross,4-6,4,6,0,1,Completed,true,false,false
+UA021114,21 Nov 21,11,Murrumbeena LA,GPHC,No. 3,Lillia Givargis,Samantha Ford,Lillia Givargis,7-6,7,6,1,0,Completed,true,false,false
+UA021114,21 Nov 21,11,Murrumbeena LA,GPHC,No. 4,Alena Givorgis,Rachel Ford,Alena Givorgis,7-5,7,5,1,0,Completed,true,false,false
+UA021121,28 Nov 21,12,Murrumbeena LA,Lauriston,No. 1,Finn Cromie,Chris Wang,Finn Cromie,7-5,7,5,1,0,Completed,true,false,false
+UA021121,28 Nov 21,12,Murrumbeena LA,Lauriston,No. 2,Eric Tran,Xavier Misso,Xavier Misso,2-6,2,6,0,1,Completed,true,false,false
+UA021121,28 Nov 21,12,Murrumbeena LA,Lauriston,No. 3,Lillia Givargis,Michael Davey,Lillia Givargis,7-6,7,6,1,0,Completed,true,false,false
+UA021121,28 Nov 21,12,Murrumbeena LA,Lauriston,No. 4,Alena Givorgis,Lucas Wu,Lucas Wu,1-6,1,6,0,1,Completed,true,false,false
+UA021122,28 Nov 21,12,Victory Park,St Pats Mentone,No. 1,Miles Kilcourse,Blake Schiffner,Miles Kilcourse,6-4,6,4,1,0,Completed,true,false,false
+UA021122,28 Nov 21,12,Victory Park,St Pats Mentone,No. 2,Cooper Neal,Ollie Clifton,Cooper Neal,6-2,6,2,1,0,Completed,true,false,false
+UA021122,28 Nov 21,12,Victory Park,St Pats Mentone,No. 3,Elliott Collins,Anthony Mirhom,Anthony Mirhom,2-6,2,6,0,1,Completed,true,false,false
+UA021122,28 Nov 21,12,Victory Park,St Pats Mentone,No. 4,Torin Hunter,Sam Dickenson,Torin Hunter,6-0,6,0,1,0,Completed,true,false,false
+UA021123,28 Nov 21,12,GPHC,Royal Ave No.2,No. 1,Harriet Syme,Zane Khan,Zane Khan,3-6,3,6,0,1,Completed,true,false,false
+UA021123,28 Nov 21,12,GPHC,Royal Ave No.2,No. 2,Samantha Ford,Emilio Thirard,Samantha Ford,6-2,6,2,1,0,Completed,true,false,false
+UA021123,28 Nov 21,12,GPHC,Royal Ave No.2,No. 3,Rachel Ford,Costa Ponkas,Rachel Ford,6-2,6,2,1,0,Completed,true,false,false
+UA021123,28 Nov 21,12,GPHC,Royal Ave No.2,No. 4,[Unnamed player — TROLS UA021123 home code 4],Russell Atkins,Russell Atkins,0-6,0,6,0,1,Completed,false,false,false
+UA021124,28 Nov 21,12,Royal Ave No.1,BLTC,No. 1,Amelia Haber,Lucas Hansen,Lucas Hansen,0-6,0,6,0,1,Completed,true,false,false
+UA021124,28 Nov 21,12,Royal Ave No.1,BLTC,No. 2,Ted Fujii,Owen Han,Owen Han,2-6,2,6,0,1,Completed,true,false,false
+UA021124,28 Nov 21,12,Royal Ave No.1,BLTC,No. 3,Sascha Whitelaw,Patrick Francese,Patrick Francese,0-6,0,6,0,1,Completed,true,false,false
+UA021124,28 Nov 21,12,Royal Ave No.1,BLTC,No. 4,Nick Danaher,Finn Haines,Nick Danaher,6-4,6,4,1,0,Completed,true,true,true
+UA021131,05 Dec 21,13,Lauriston,Royal Ave No.1,No. 1,Pranav Swarup,Amelia Haber,Pranav Swarup,6-0,6,0,1,0,Completed,true,false,false
+UA021131,05 Dec 21,13,Lauriston,Royal Ave No.1,No. 2,Chris Wang,Ted Fujii,Chris Wang,6-1,6,1,1,0,Completed,true,false,false
+UA021131,05 Dec 21,13,Lauriston,Royal Ave No.1,No. 3,Lucas Wu,Sascha Whitelaw,Lucas Wu,6-0,6,0,1,0,Completed,true,false,false
+UA021131,05 Dec 21,13,Lauriston,Royal Ave No.1,No. 4,Luke Davey,Sebastian Halse,Luke Davey,7-6,7,6,1,0,Completed,true,false,true
+UA021132,05 Dec 21,13,BLTC,Murrumbeena LA,No. 1,Lucas Hansen,Finn Cromie,Finn Cromie,4-6,4,6,0,1,Completed,true,false,false
+UA021132,05 Dec 21,13,BLTC,Murrumbeena LA,No. 2,Owen Han,Lillia Givargis,Owen Han,6-0,6,0,1,0,Completed,true,false,false
+UA021132,05 Dec 21,13,BLTC,Murrumbeena LA,No. 3,Michael Lorio,Hayden Amaransinghe,Michael Lorio,6-0,6,0,1,0,Completed,true,false,false
+UA021132,05 Dec 21,13,BLTC,Murrumbeena LA,No. 4,Patrick Francese,Amrutha Jaladanks,Patrick Francese,6-4,6,4,1,0,Completed,true,false,true
+UA021133,05 Dec 21,13,Royal Ave No.2,Victory Park,No. 1,Oliver Young,Oliver Kilcourse,Oliver Kilcourse,3-6,3,6,0,1,Completed,true,false,false
+UA021133,05 Dec 21,13,Royal Ave No.2,Victory Park,No. 2,Emilio Thirard,Cooper Neal,Cooper Neal,0-6,0,6,0,1,Completed,true,false,false
+UA021133,05 Dec 21,13,Royal Ave No.2,Victory Park,No. 3,Zane Khan,Elliott Collins,Zane Khan,7-6,7,6,1,0,Completed,true,false,false
+UA021133,05 Dec 21,13,Royal Ave No.2,Victory Park,No. 4,Russell Atkins,Torin Hunter,Torin Hunter,1-6,1,6,0,1,Completed,true,false,false
+UA021141,12 Dec 21,14,Lauriston,BLTC,No. 1,Pranav Swarup,Lucas Hansen,Lucas Hansen,2-6,2,6,0,1,Completed,true,false,false
+UA021141,12 Dec 21,14,Lauriston,BLTC,No. 2,Xavier Misso,Owen Han,Owen Han,6-7,6,7,0,1,Completed,true,false,false
+UA021141,12 Dec 21,14,Lauriston,BLTC,No. 3,Michael Davey,Michael Lorio,Michael Davey,7-6,7,6,1,0,Completed,true,false,false
+UA021141,12 Dec 21,14,Lauriston,BLTC,No. 4,Luke Davey,Patrick Francese,Patrick Francese,5-7,5,7,0,1,Completed,true,false,false
+UA021142,12 Dec 21,14,Murrumbeena LA,Royal Ave No.1,No. 1,Eric Tran,Jake Barr,Eric Tran,6-2,6,2,1,0,Completed,true,false,false
+UA021142,12 Dec 21,14,Murrumbeena LA,Royal Ave No.1,No. 2,Alena Givorgis,Amelia Haber,Alena Givorgis,6-2,6,2,1,0,Completed,true,false,false
+UA021142,12 Dec 21,14,Murrumbeena LA,Royal Ave No.1,No. 3,Hayden Amaransinghe,Ted Fujii,Ted Fujii,3-6,3,6,0,1,Completed,true,false,false
+UA021142,12 Dec 21,14,Murrumbeena LA,Royal Ave No.1,No. 4,Kyle Yamada,Sascha Whitelaw,Kyle Yamada,6-0,6,0,1,0,Completed,true,false,false
+UA021143,12 Dec 21,14,Royal Ave No.2,St Pats Mentone,No. 1,Oliver Young,Blake Schiffner,Oliver Young,7-6,7,6,1,0,Completed,true,false,false
+UA021143,12 Dec 21,14,Royal Ave No.2,St Pats Mentone,No. 2,Emilio Thirard,Ollie Clifton,Ollie Clifton,6-7,6,7,0,1,Completed,true,false,false
+UA021143,12 Dec 21,14,Royal Ave No.2,St Pats Mentone,No. 3,Costa Ponkas,Justin Pregnaldo,Justin Pregnaldo,0-6,0,6,0,1,Completed,true,false,true
+UA021143,12 Dec 21,14,Royal Ave No.2,St Pats Mentone,No. 4,Russell Atkins,Sam Dickenson,Russell Atkins,6-1,6,1,1,0,Completed,true,false,false
+UA021144,12 Dec 21,14,GPHC,Victory Park,No. 1,Caitlin Cassidy,Oliver Kilcourse,Oliver Kilcourse,0-6,0,6,0,1,Completed,true,false,false
+UA021144,12 Dec 21,14,GPHC,Victory Park,No. 2,Samantha Ford,Miles Kilcourse,Miles Kilcourse,3-6,3,6,0,1,Completed,true,false,false
+UA021144,12 Dec 21,14,GPHC,Victory Park,No. 3,Harry Tortoni,Cooper Neal,Harry Tortoni,7-6,7,6,1,0,Completed,true,true,false
+UA021144,12 Dec 21,14,GPHC,Victory Park,No. 4,Chloe Mirams,Ben Lohe,Ben Lohe,1-6,1,6,0,1,Completed,true,true,true

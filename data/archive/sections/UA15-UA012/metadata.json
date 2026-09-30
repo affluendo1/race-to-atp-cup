@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA15-UA012",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2014",
+  "season_id": "UA15",
+  "season_label": "Spring 2014",
+  "source_section_code": "UA012",
+  "section_label": "Section 12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Aspendale",
+      "wins": 10,
+      "points": 102,
+      "percentage": 261.97,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "GPHC",
+      "wins": 8,
+      "points": 86,
+      "percentage": 157.77,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Tennis World 1",
+      "wins": 6,
+      "points": 62,
+      "percentage": 103.28,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Dendy Park",
+      "wins": 4,
+      "points": 50,
+      "percentage": 85.86,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Carmelite",
+      "wins": 5,
+      "points": 49,
+      "percentage": 79.34,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC",
+      "wins": 3,
+      "points": 37,
+      "percentage": 63.29,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Tennis World 2",
+      "wins": 2,
+      "points": 34,
+      "percentage": 65.61,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA15-UA012",
+  "fixtures": 59,
+  "completed_fixtures": 42,
+  "draw_fixtures": 45,
+  "singles_rubbers": 168,
+  "doubles_rubbers": 84,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

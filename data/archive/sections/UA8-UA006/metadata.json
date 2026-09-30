@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA8-UA006",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2011",
+  "season_id": "UA8",
+  "season_label": "Autumn 2011",
+  "source_section_code": "UA006",
+  "section_label": "Section 6",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Dendy Park 1",
+      "wins": 0,
+      "points": 105,
+      "percentage": 162.0,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Dendy Park 2",
+      "wins": 0,
+      "points": 86,
+      "percentage": 118.21,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Caulfield Rec",
+      "wins": 0,
+      "points": 81,
+      "percentage": 109.63,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Maccabi",
+      "wins": 0,
+      "points": 76,
+      "percentage": 105.38,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC 1",
+      "wins": 0,
+      "points": 70,
+      "percentage": 104.91,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Mordialloc",
+      "wins": 0,
+      "points": 49,
+      "percentage": 77.81,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC 2",
+      "wins": 0,
+      "points": 49,
+      "percentage": 74.37,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Beaumaris CC",
+      "wins": 0,
+      "points": 44,
+      "percentage": 75.65,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA8-UA006",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 59,
+  "singles_rubbers": 205,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

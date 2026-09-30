@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA29-UA001",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2021",
+  "season_id": "UA29",
+  "season_label": "Spring 2021",
+  "source_section_code": "UA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC",
+      "wins": 7,
+      "points": 95,
+      "percentage": 178.91,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Tennis World",
+      "wins": 6,
+      "points": 91,
+      "percentage": 181.3,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Coatesville",
+      "wins": 3,
+      "points": 77,
+      "percentage": 118.94,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 4,
+      "points": 76,
+      "percentage": 114.44,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park No.1",
+      "wins": 2,
+      "points": 66,
+      "percentage": 90.12,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal South Yarra",
+      "wins": 2,
+      "points": 59,
+      "percentage": 69.38,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Elsternwick Park",
+      "wins": 1,
+      "points": 52,
+      "percentage": 66.83,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park No.2",
+      "wins": 0,
+      "points": 44,
+      "percentage": 54.98,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA29-UA001",
+  "fixtures": 56,
+  "completed_fixtures": 26,
+  "draw_fixtures": 56,
+  "singles_rubbers": 104,
+  "doubles_rubbers": 52,
+  "latest_round": 14,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,209 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA022011,27 Jul 25,1,Lauriston,Hurlingham Park,No. 1,Rina Ema,Zac Goldberg,Rina Ema,6-2,6,2,1,0,Completed,true,false,false
+UA022011,27 Jul 25,1,Lauriston,Hurlingham Park,No. 2,Harvey Lam,Joshua Smart,Harvey Lam,6-2,6,2,1,0,Completed,true,false,false
+UA022011,27 Jul 25,1,Lauriston,Hurlingham Park,No. 3,Lev Yakovis,Marcus Blombery,Marcus Blombery,4-6,4,6,0,1,Completed,true,false,false
+UA022011,27 Jul 25,1,Lauriston,Hurlingham Park,No. 4,Octavio Soto Minoz,Charlie Dessau,Octavio Soto Minoz,6-1,6,1,1,0,Completed,true,false,false
+UA022012,27 Jul 25,1,GPHC,Highmoor Uniting,No. 1,Alexander Tran,Dan Cunningham,Dan Cunningham,4-6,4,6,0,1,Completed,true,false,false
+UA022012,27 Jul 25,1,GPHC,Highmoor Uniting,No. 2,Ella Greville,Aidan Wearing,Ella Greville,6-2,6,2,1,0,Completed,true,false,false
+UA022012,27 Jul 25,1,GPHC,Highmoor Uniting,No. 3,Leo Andreou,Evie McKormach,Leo Andreou,6-2,6,2,1,0,Completed,true,false,false
+UA022012,27 Jul 25,1,GPHC,Highmoor Uniting,No. 4,Finn Noonan,Luke Cunningham,Luke Cunningham,5-7,5,7,0,1,Completed,true,false,false
+UA022014,27 Jul 25,1,Kooyong Purple,Kooyong Green,No. 1,Millie Burne,Sophie Dennis,Millie Burne,6-3,6,3,1,0,Completed,true,false,false
+UA022014,27 Jul 25,1,Kooyong Purple,Kooyong Green,No. 2,Annabelle Hallam,Ella Thiel,Ella Thiel,0-6,0,6,0,1,Completed,true,false,false
+UA022014,27 Jul 25,1,Kooyong Purple,Kooyong Green,No. 3,Madeleine Nasis,Archibald Zhou,Madeleine Nasis,6-2,6,2,1,0,Completed,true,false,true
+UA022014,27 Jul 25,1,Kooyong Purple,Kooyong Green,No. 4,Alexander Smorgon,Rashi Amin,Rashi Amin,3-6,3,6,0,1,Completed,true,true,false
+UA022021,03 Aug 25,2,Kooyong Green,Lauriston,No. 1,Oliver Colbert,Harvey Lam,Harvey Lam,1-6,1,6,0,1,Completed,true,false,false
+UA022021,03 Aug 25,2,Kooyong Green,Lauriston,No. 2,Harry Louis,Lachlan So,Lachlan So,2-6,2,6,0,1,Completed,true,false,false
+UA022021,03 Aug 25,2,Kooyong Green,Lauriston,No. 3,Ella Thiel,Lev Yakovis,Ella Thiel,6-3,6,3,1,0,Completed,true,false,false
+UA022021,03 Aug 25,2,Kooyong Green,Lauriston,No. 4,Emily Roach,Helena Ngu,Emily Roach,6-4,6,4,1,0,Completed,true,false,false
+UA022022,03 Aug 25,2,Hurlingham Park,GPHC,No. 1,Zac Goldberg,Alexander Tran,Alexander Tran,2-6,2,6,0,1,Completed,true,false,false
+UA022022,03 Aug 25,2,Hurlingham Park,GPHC,No. 2,Joshua Smart,Leo Andreou,Joshua Smart,6-4,6,4,1,0,Completed,true,false,false
+UA022022,03 Aug 25,2,Hurlingham Park,GPHC,No. 3,Luca Sheffield,Lewis O'Donnell,Luca Sheffield,6-4,6,4,1,0,Completed,true,false,false
+UA022022,03 Aug 25,2,Hurlingham Park,GPHC,No. 4,Charlie Dessau,Phoebe Wong,Phoebe Wong,2-6,2,6,0,1,Completed,true,false,false
+UA022023,03 Aug 25,2,Highmoor Uniting,St Andrews MB,No. 1,Dan Cunningham,Zara Naidoo,Dan Cunningham,6-1,6,1,1,0,Completed,true,false,false
+UA022023,03 Aug 25,2,Highmoor Uniting,St Andrews MB,No. 2,Aidan Wearing,Darsh Noopur,Darsh Noopur,4-6,4,6,0,1,Completed,true,false,false
+UA022023,03 Aug 25,2,Highmoor Uniting,St Andrews MB,No. 3,Chase Jarvinen,Johnny Xie,Johnny Xie,1-6,1,6,0,1,Completed,true,false,false
+UA022023,03 Aug 25,2,Highmoor Uniting,St Andrews MB,No. 4,Luke Cunningham,Hannah Tsitsonakis,Hannah Tsitsonakis,4-6,4,6,0,1,Completed,true,false,false
+UA022024,03 Aug 25,2,Highett,Kooyong Purple,No. 1,Jinay Shah,Neesha Navaneetharaja,Neesha Navaneetharaja,5-7,5,7,0,1,Completed,true,false,false
+UA022024,03 Aug 25,2,Highett,Kooyong Purple,No. 2,Rehaan Mishra,Annabel Cotterell,Rehaan Mishra,6-2,6,2,1,0,Completed,true,false,false
+UA022024,03 Aug 25,2,Highett,Kooyong Purple,No. 3,Charlotte Peters,Poppy Lewis-Read,Charlotte Peters,6-4,6,4,1,0,Completed,true,false,false
+UA022024,03 Aug 25,2,Highett,Kooyong Purple,No. 4,Isabella Muscat,Madeleine Nasis,Madeleine Nasis,1-6,1,6,0,1,Completed,true,false,false
+UA022031,10 Aug 25,3,Lauriston,Highett,No. 1,Rina Ema,Rohin Jain,Rina Ema,6-0,6,0,1,0,Completed,true,false,false
+UA022031,10 Aug 25,3,Lauriston,Highett,No. 2,Sophia Wang,Martin Simpson,Sophia Wang,6-0,6,0,1,0,Completed,true,true,false
+UA022031,10 Aug 25,3,Lauriston,Highett,No. 3,Lev Yakovis,Charlotte Peters,Lev Yakovis,6-1,6,1,1,0,Completed,true,false,false
+UA022031,10 Aug 25,3,Lauriston,Highett,No. 4,Octavio Soto Minoz,Isabella Muscat,Octavio Soto Minoz,6-3,6,3,1,0,Completed,true,false,false
+UA022032,10 Aug 25,3,GPHC,Kooyong Green,No. 1,Alexander Tran,Harry Louis,Alexander Tran,6-3,6,3,1,0,Completed,true,false,false
+UA022032,10 Aug 25,3,GPHC,Kooyong Green,No. 2,Leo Andreou,Sophie Dennis,Sophie Dennis,1-6,1,6,0,1,Completed,true,false,false
+UA022032,10 Aug 25,3,GPHC,Kooyong Green,No. 3,Finn Noonan,Ella Thiel,Ella Thiel,0-6,0,6,0,1,Completed,true,false,false
+UA022032,10 Aug 25,3,GPHC,Kooyong Green,No. 4,Lewis O'Donnell,Rashi Amin,Rashi Amin,3-6,3,6,0,1,Completed,true,false,false
+UA022033,10 Aug 25,3,St Andrews MB,Hurlingham Park,No. 1,Zara Naidoo,Zac Goldberg,Zac Goldberg,0-6,0,6,0,1,Completed,true,false,false
+UA022033,10 Aug 25,3,St Andrews MB,Hurlingham Park,No. 2,Darsh Noopur,Marcus Blombery,Marcus Blombery,5-7,5,7,0,1,Completed,true,false,false
+UA022033,10 Aug 25,3,St Andrews MB,Hurlingham Park,No. 3,Johnny Xie,Luca Sheffield,Johnny Xie,7-5,7,5,1,0,Completed,true,false,false
+UA022033,10 Aug 25,3,St Andrews MB,Hurlingham Park,No. 4,Hannah Tsitsonakis,Charlie Dessau,Hannah Tsitsonakis,6-1,6,1,1,0,Completed,true,false,false
+UA022034,10 Aug 25,3,Kooyong Purple,Highmoor Uniting,No. 1,Annabelle Hallam,Dan Cunningham,Dan Cunningham,2-6,2,6,0,1,Completed,true,false,false
+UA022034,10 Aug 25,3,Kooyong Purple,Highmoor Uniting,No. 2,Annabel Cotterell,Aidan Wearing,Aidan Wearing,1-6,1,6,0,1,Completed,true,false,false
+UA022034,10 Aug 25,3,Kooyong Purple,Highmoor Uniting,No. 3,Poppy Lewis-Read,Luke Cunningham,Luke Cunningham,2-6,2,6,0,1,Completed,true,false,false
+UA022034,10 Aug 25,3,Kooyong Purple,Highmoor Uniting,No. 4,Madeleine Nasis,Evie McKormach,Madeleine Nasis,6-1,6,1,1,0,Completed,true,false,false
+UA022041,17 Aug 25,4,Highmoor Uniting,Lauriston,No. 1,Dan Cunningham,Harvey Lam,Harvey Lam,1-6,1,6,0,1,Completed,true,false,false
+UA022041,17 Aug 25,4,Highmoor Uniting,Lauriston,No. 2,Aidan Wearing,Lachlan So,Lachlan So,2-6,2,6,0,1,Completed,true,false,false
+UA022041,17 Aug 25,4,Highmoor Uniting,Lauriston,No. 3,Luke Cunningham,Helena Ngu,Luke Cunningham,6-4,6,4,1,0,Completed,true,false,false
+UA022041,17 Aug 25,4,Highmoor Uniting,Lauriston,No. 4,Chase Jarvinen,Octavio Soto Minoz,Octavio Soto Minoz,0-6,0,6,0,1,Completed,true,false,false
+UA022042,17 Aug 25,4,Highett,GPHC,No. 1,Rohin Jain,Ella Greville,Rohin Jain,6-0,6,0,1,0,Completed,true,false,false
+UA022042,17 Aug 25,4,Highett,GPHC,No. 2,Jinay Shah,Leo Andreou,Jinay Shah,6-2,6,2,1,0,Completed,true,false,false
+UA022042,17 Aug 25,4,Highett,GPHC,No. 3,Rehaan Mishra,Finn Noonan,Rehaan Mishra,7-5,7,5,1,0,Completed,true,false,false
+UA022042,17 Aug 25,4,Highett,GPHC,No. 4,Martin Simpson,Lewis O'Donnell,Lewis O'Donnell,2-6,2,6,0,1,Completed,true,false,false
+UA022043,17 Aug 25,4,Kooyong Green,St Andrews MB,No. 1,Sophie Dennis,Zara Naidoo,Sophie Dennis,6-1,6,1,1,0,Completed,true,false,false
+UA022043,17 Aug 25,4,Kooyong Green,St Andrews MB,No. 2,Ella Thiel,Darsh Noopur,Darsh Noopur,2-6,2,6,0,1,Completed,true,false,false
+UA022043,17 Aug 25,4,Kooyong Green,St Andrews MB,No. 3,Emily Roach,Johnny Xie,Emily Roach,6-2,6,2,1,0,Completed,true,false,false
+UA022043,17 Aug 25,4,Kooyong Green,St Andrews MB,No. 4,Rashi Amin,Hannah Tsitsonakis,Hannah Tsitsonakis,0-6,0,6,0,1,Completed,true,false,false
+UA022044,17 Aug 25,4,Hurlingham Park,Kooyong Purple,No. 1,Zac Goldberg,Millie Burne,Zac Goldberg,6-1,6,1,1,0,Completed,true,false,false
+UA022044,17 Aug 25,4,Hurlingham Park,Kooyong Purple,No. 2,Joshua Smart,[Unnamed player — TROLS UA022044 away code 2],Joshua Smart,6-0,6,0,1,0,Completed,false,false,false
+UA022044,17 Aug 25,4,Hurlingham Park,Kooyong Purple,No. 3,Luca Sheffield,Annabelle Hallam,Luca Sheffield,6-0,6,0,1,0,Completed,true,false,false
+UA022044,17 Aug 25,4,Hurlingham Park,Kooyong Purple,No. 4,Charlie Chia,Jacob Cheng,Jacob Cheng,0-6,0,6,0,1,Completed,true,true,true
+UA022051,24 Aug 25,5,St Andrews MB,Kooyong Purple,No. 1,Zara Naidoo,Millie Burne,Millie Burne,1-6,1,6,0,1,Completed,true,false,false
+UA022051,24 Aug 25,5,St Andrews MB,Kooyong Purple,No. 2,Darsh Noopur,Annabel Cotterell,Darsh Noopur,6-2,6,2,1,0,Completed,true,false,false
+UA022051,24 Aug 25,5,St Andrews MB,Kooyong Purple,No. 3,Johnny Xie,Poppy Lewis-Read,Johnny Xie,6-0,6,0,1,0,Completed,true,false,false
+UA022051,24 Aug 25,5,St Andrews MB,Kooyong Purple,No. 4,Hannah Tsitsonakis,Madeleine Nasis,Hannah Tsitsonakis,7-6,7,6,1,0,Completed,true,false,false
+UA022052,24 Aug 25,5,Kooyong Green,Highett,No. 1,Sophie Dennis,Rehaan Mishra,Sophie Dennis,6-0,6,0,1,0,Completed,true,false,false
+UA022052,24 Aug 25,5,Kooyong Green,Highett,No. 2,Ella Thiel,Martin Simpson,Ella Thiel,6-2,6,2,1,0,Completed,true,false,false
+UA022052,24 Aug 25,5,Kooyong Green,Highett,No. 3,Emily Roach,Charlotte Peters,Emily Roach,6-4,6,4,1,0,Completed,true,false,false
+UA022052,24 Aug 25,5,Kooyong Green,Highett,No. 4,Rashi Amin,Isabella Muscat,Rashi Amin,6-4,6,4,1,0,Completed,true,false,false
+UA022053,24 Aug 25,5,Highmoor Uniting,Hurlingham Park,No. 1,Aidan Wearing,Joshua Smart,Joshua Smart,2-6,2,6,0,1,Completed,true,false,false
+UA022053,24 Aug 25,5,Highmoor Uniting,Hurlingham Park,No. 2,Luke Cunningham,Marcus Blombery,Luke Cunningham,6-1,6,1,1,0,Completed,true,false,false
+UA022053,24 Aug 25,5,Highmoor Uniting,Hurlingham Park,No. 3,Chase Jarvinen,Luca Sheffield,Luca Sheffield,1-6,1,6,0,1,Completed,true,false,false
+UA022053,24 Aug 25,5,Highmoor Uniting,Hurlingham Park,No. 4,Evie McKormach,Theo Leask,Theo Leask,3-6,3,6,0,1,Completed,true,false,true
+UA022054,24 Aug 25,5,Lauriston,GPHC,No. 1,Rina Ema,Alexander Tran,Rina Ema,6-1,6,1,1,0,Completed,true,false,false
+UA022054,24 Aug 25,5,Lauriston,GPHC,No. 2,Lev Yakovis,Ella Greville,Ella Greville,4-6,4,6,0,1,Completed,true,false,false
+UA022054,24 Aug 25,5,Lauriston,GPHC,No. 3,Helena Ngu,Finn Noonan,Helena Ngu,6-2,6,2,1,0,Completed,true,false,false
+UA022054,24 Aug 25,5,Lauriston,GPHC,No. 4,Octavio Soto Minoz,Lewis O'Donnell,Octavio Soto Minoz,6-2,6,2,1,0,Completed,true,false,false
+UA022061,31 Aug 25,6,GPHC,St Andrews MB,No. 1,Alexander Tran,Darsh Noopur,Alexander Tran,6-1,6,1,1,0,Completed,true,false,false
+UA022061,31 Aug 25,6,GPHC,St Andrews MB,No. 2,Ella Greville,Johnny Xie,Ella Greville,6-3,6,3,1,0,Completed,true,false,false
+UA022061,31 Aug 25,6,GPHC,St Andrews MB,No. 3,Leo Andreou,Hannah Tsitsonakis,Hannah Tsitsonakis,6-7,6,7,0,1,Completed,true,false,false
+UA022061,31 Aug 25,6,GPHC,St Andrews MB,No. 4,Lewis O'Donnell,Mu Li,Lewis O'Donnell,6-0,6,0,1,0,Completed,true,false,true
+UA022062,31 Aug 25,6,Kooyong Purple,Lauriston,No. 1,Neesha Navaneetharaja,Lachlan So,Lachlan So,2-6,2,6,0,1,Completed,true,false,false
+UA022062,31 Aug 25,6,Kooyong Purple,Lauriston,No. 2,Annabelle Hallam,Lev Yakovis,Lev Yakovis,3-6,3,6,0,1,Completed,true,false,false
+UA022062,31 Aug 25,6,Kooyong Purple,Lauriston,No. 3,Annabel Cotterell,Helena Ngu,Helena Ngu,0-6,0,6,0,1,Completed,true,false,false
+UA022062,31 Aug 25,6,Kooyong Purple,Lauriston,No. 4,Poppy Lewis-Read,Octavio Soto Minoz,Octavio Soto Minoz,6-7,6,7,0,1,Completed,true,false,false
+UA022063,31 Aug 25,6,Highett,Highmoor Uniting,No. 1,Rohin Jain,Dan Cunningham,Rohin Jain,6-4,6,4,1,0,Completed,true,false,false
+UA022063,31 Aug 25,6,Highett,Highmoor Uniting,No. 2,Martin Simpson,Luke Cunningham,Luke Cunningham,1-6,1,6,0,1,Completed,true,false,false
+UA022063,31 Aug 25,6,Highett,Highmoor Uniting,No. 3,Charlotte Peters,Chase Jarvinen,Charlotte Peters,6-2,6,2,1,0,Completed,true,false,false
+UA022063,31 Aug 25,6,Highett,Highmoor Uniting,No. 4,Isabella Muscat,Evie McKormach,Isabella Muscat,7-6,7,6,1,0,Completed,true,false,false
+UA022064,31 Aug 25,6,Hurlingham Park,Kooyong Green,No. 1,Joshua Smart,Oliver Meathrel,Joshua Smart,6-1,6,1,1,0,Completed,true,false,false
+UA022064,31 Aug 25,6,Hurlingham Park,Kooyong Green,No. 2,Marcus Blombery,Sophie Dennis,Sophie Dennis,1-6,1,6,0,1,Completed,true,false,false
+UA022064,31 Aug 25,6,Hurlingham Park,Kooyong Green,No. 3,Luca Sheffield,Ella Thiel,Ella Thiel,6-7,6,7,0,1,Completed,true,false,false
+UA022064,31 Aug 25,6,Hurlingham Park,Kooyong Green,No. 4,Xavier Elix,Emily Roach,Emily Roach,0-6,0,6,0,1,Completed,true,false,false
+UA022071,07 Sep 25,7,Lauriston,St Andrews MB,No. 1,Harvey Lam,Zara Naidoo,Harvey Lam,6-1,6,1,1,0,Completed,true,false,false
+UA022071,07 Sep 25,7,Lauriston,St Andrews MB,No. 2,Lachlan So,Darsh Noopur,Lachlan So,6-1,6,1,1,0,Completed,true,false,false
+UA022071,07 Sep 25,7,Lauriston,St Andrews MB,No. 3,Helena Ngu,Johnny Xie,Johnny Xie,2-6,2,6,0,1,Completed,true,false,false
+UA022071,07 Sep 25,7,Lauriston,St Andrews MB,No. 4,Octavio Soto Minoz,Hannah Tsitsonakis,Octavio Soto Minoz,6-0,6,0,1,0,Completed,true,false,false
+UA022072,07 Sep 25,7,GPHC,Kooyong Purple,No. 1,Alexander Tran,Neesha Navaneetharaja,Alexander Tran,6-3,6,3,1,0,Completed,true,false,false
+UA022072,07 Sep 25,7,GPHC,Kooyong Purple,No. 2,Ella Greville,Millie Burne,Millie Burne,4-6,4,6,0,1,Completed,true,false,false
+UA022072,07 Sep 25,7,GPHC,Kooyong Purple,No. 3,Finn Noonan,Poppy Lewis-Read,Finn Noonan,6-0,6,0,1,0,Completed,true,false,false
+UA022072,07 Sep 25,7,GPHC,Kooyong Purple,No. 4,Lewis O'Donnell,Maya Buckley,Maya Buckley,3-6,3,6,0,1,Completed,true,false,true
+UA022073,07 Sep 25,7,Kooyong Green,Highmoor Uniting,No. 1,Oliver Meathrel,Dan Cunningham,Dan Cunningham,2-6,2,6,0,1,Completed,true,false,false
+UA022073,07 Sep 25,7,Kooyong Green,Highmoor Uniting,No. 2,Oliver Colbert,Aidan Wearing,Oliver Colbert,6-3,6,3,1,0,Completed,true,false,false
+UA022073,07 Sep 25,7,Kooyong Green,Highmoor Uniting,No. 3,Emily Roach,Luke Cunningham,Luke Cunningham,1-6,1,6,0,1,Completed,true,false,false
+UA022073,07 Sep 25,7,Kooyong Green,Highmoor Uniting,No. 4,Rashi Amin,Chase Jarvinen,Rashi Amin,6-0,6,0,1,0,Completed,true,false,false
+UA022074,07 Sep 25,7,Highett,Hurlingham Park,No. 1,Rohin Jain,Zac Goldberg,Rohin Jain,6-2,6,2,1,0,Completed,true,false,false
+UA022074,07 Sep 25,7,Highett,Hurlingham Park,No. 2,Jinay Shah,Marcus Blombery,Jinay Shah,6-4,6,4,1,0,Completed,true,false,false
+UA022074,07 Sep 25,7,Highett,Hurlingham Park,No. 3,Rehaan Mishra,Charlie Dessau,Rehaan Mishra,7-6,7,6,1,0,Completed,true,false,false
+UA022074,07 Sep 25,7,Highett,Hurlingham Park,No. 4,Martin Simpson,Xavier Elix,Martin Simpson,7-6,7,6,1,0,Completed,true,false,false
+UA022081,14 Sep 25,8,Hurlingham Park,Lauriston,No. 1,Zac Goldberg,Rina Ema,Rina Ema,2-6,2,6,0,1,Completed,true,false,false
+UA022081,14 Sep 25,8,Hurlingham Park,Lauriston,No. 2,Joshua Smart,Harvey Lam,Harvey Lam,0-6,0,6,0,1,Completed,true,false,false
+UA022081,14 Sep 25,8,Hurlingham Park,Lauriston,No. 3,Luca Sheffield,Lachlan So,Lachlan So,1-6,1,6,0,1,Completed,true,false,false
+UA022081,14 Sep 25,8,Hurlingham Park,Lauriston,No. 4,Xavier Elix,Helena Ngu,Xavier Elix,7-5,7,5,1,0,Completed,true,false,false
+UA022082,14 Sep 25,8,Highmoor Uniting,GPHC,No. 1,Dan Cunningham,Ella Greville,Ella Greville,3-6,3,6,0,1,Completed,true,false,false
+UA022082,14 Sep 25,8,Highmoor Uniting,GPHC,No. 2,Aidan Wearing,Leo Andreou,Leo Andreou,2-6,2,6,0,1,Completed,true,false,false
+UA022082,14 Sep 25,8,Highmoor Uniting,GPHC,No. 3,Luke Cunningham,Finn Noonan,Luke Cunningham,6-1,6,1,1,0,Completed,true,false,false
+UA022082,14 Sep 25,8,Highmoor Uniting,GPHC,No. 4,Oliver Partridge,Phoebe Wong,Phoebe Wong,1-6,1,6,0,1,Completed,true,true,false
+UA022083,14 Sep 25,8,Highett,St Andrews MB,No. 1,Jinay Shah,Darsh Noopur,Jinay Shah,6-4,6,4,1,0,Completed,true,false,false
+UA022083,14 Sep 25,8,Highett,St Andrews MB,No. 2,Rehaan Mishra,Johnny Xie,Johnny Xie,0-6,0,6,0,1,Completed,true,false,false
+UA022083,14 Sep 25,8,Highett,St Andrews MB,No. 3,Charlotte Peters,Hannah Tsitsonakis,Hannah Tsitsonakis,1-6,1,6,0,1,Completed,true,false,false
+UA022083,14 Sep 25,8,Highett,St Andrews MB,No. 4,Isabella Muscat,Mu Li,Isabella Muscat,6-2,6,2,1,0,Completed,true,false,true
+UA022084,14 Sep 25,8,Kooyong Green,Kooyong Purple,No. 1,Oliver Meathrel,Millie Burne,Millie Burne,1-6,1,6,0,1,Completed,true,false,false
+UA022084,14 Sep 25,8,Kooyong Green,Kooyong Purple,No. 2,Harry Louis,Annabelle Hallam,Harry Louis,6-1,6,1,1,0,Completed,true,false,false
+UA022084,14 Sep 25,8,Kooyong Green,Kooyong Purple,No. 3,Ella Thiel,Matilda Meathrel,Ella Thiel,6-0,6,0,1,0,Completed,true,false,false
+UA022084,14 Sep 25,8,Kooyong Green,Kooyong Purple,No. 4,Winifred Plomley,Madeleine Nasis,Madeleine Nasis,2-6,2,6,0,1,Completed,true,false,false
+UA022091,12 Oct 25,9,Lauriston,Kooyong Green,No. 1,Rina Ema,Oliver Colbert,Rina Ema,6-0,6,0,1,0,Completed,true,false,false
+UA022091,12 Oct 25,9,Lauriston,Kooyong Green,No. 2,Harvey Lam,Harry Louis,Harvey Lam,6-0,6,0,1,0,Completed,true,false,false
+UA022091,12 Oct 25,9,Lauriston,Kooyong Green,No. 3,Lev Yakovis,Sophie Dennis,Sophie Dennis,1-6,1,6,0,1,Completed,true,false,false
+UA022091,12 Oct 25,9,Lauriston,Kooyong Green,No. 4,Helena Ngu,Winifred Plomley,Helena Ngu,6-3,6,3,1,0,Completed,true,false,false
+UA022092,12 Oct 25,9,GPHC,Hurlingham Park,No. 1,Ella Greville,Joshua Smart,Joshua Smart,4-6,4,6,0,1,Completed,true,false,false
+UA022092,12 Oct 25,9,GPHC,Hurlingham Park,No. 2,Leo Andreou,Marcus Blombery,Leo Andreou,6-3,6,3,1,0,Completed,true,false,false
+UA022092,12 Oct 25,9,GPHC,Hurlingham Park,No. 3,Lewis O'Donnell,Charlie Dessau,Lewis O'Donnell,6-3,6,3,1,0,Completed,true,false,false
+UA022092,12 Oct 25,9,GPHC,Hurlingham Park,No. 4,Phoebe Wong,Xavier Elix,Xavier Elix,4-6,4,6,0,1,Completed,true,false,false
+UA022093,12 Oct 25,9,St Andrews MB,Highmoor Uniting,No. 1,Zara Naidoo,Dan Cunningham,Dan Cunningham,2-6,2,6,0,1,Completed,true,false,false
+UA022093,12 Oct 25,9,St Andrews MB,Highmoor Uniting,No. 2,Darsh Noopur,Luke Cunningham,Darsh Noopur,7-6,7,6,1,0,Completed,true,false,false
+UA022093,12 Oct 25,9,St Andrews MB,Highmoor Uniting,No. 3,Johnny Xie,Chase Jarvinen,Johnny Xie,6-1,6,1,1,0,Completed,true,false,false
+UA022093,12 Oct 25,9,St Andrews MB,Highmoor Uniting,No. 4,Hannah Tsitsonakis,Evie McKormach,Hannah Tsitsonakis,6-0,6,0,1,0,Completed,true,false,false
+UA022094,12 Oct 25,9,Kooyong Purple,Highett,No. 1,Neesha Navaneetharaja,Rohin Jain,Rohin Jain,3-6,3,6,0,1,Completed,true,false,false
+UA022094,12 Oct 25,9,Kooyong Purple,Highett,No. 2,Annabelle Hallam,Martin Simpson,Annabelle Hallam,6-0,6,0,1,0,Completed,true,false,false
+UA022094,12 Oct 25,9,Kooyong Purple,Highett,No. 3,Annabel Cotterell,Charlotte Peters,Charlotte Peters,1-6,1,6,0,1,Completed,true,false,false
+UA022094,12 Oct 25,9,Kooyong Purple,Highett,No. 4,Poppy Lewis-Read,Isabella Muscat,Poppy Lewis-Read,7-5,7,5,1,0,Completed,true,false,false
+UA022101,19 Oct 25,10,Highett,Lauriston,No. 1,Rohin Jain,Rina Ema,Rina Ema,1-6,1,6,0,1,Completed,true,false,false
+UA022101,19 Oct 25,10,Highett,Lauriston,No. 2,Jinay Shah,Lachlan So,Lachlan So,1-6,1,6,0,1,Completed,true,false,false
+UA022101,19 Oct 25,10,Highett,Lauriston,No. 3,Rehaan Mishra,Lev Yakovis,Rehaan Mishra,6-3,6,3,1,0,Completed,true,false,false
+UA022101,19 Oct 25,10,Highett,Lauriston,No. 4,Martin Simpson,Octavio Soto Minoz,Octavio Soto Minoz,2-6,2,6,0,1,Completed,true,false,false
+UA022102,19 Oct 25,10,Kooyong Green,GPHC,No. 1,Oliver Meathrel,Alexander Tran,Alexander Tran,0-6,0,6,0,1,Completed,true,false,false
+UA022102,19 Oct 25,10,Kooyong Green,GPHC,No. 2,Sophie Dennis,Ella Greville,Sophie Dennis,6-0,6,0,1,0,Completed,true,false,false
+UA022102,19 Oct 25,10,Kooyong Green,GPHC,No. 3,Ella Thiel,Leo Andreou,Ella Thiel,6-1,6,1,1,0,Completed,true,false,false
+UA022102,19 Oct 25,10,Kooyong Green,GPHC,No. 4,Emily Roach,Phoebe Wong,Emily Roach,6-4,6,4,1,0,Completed,true,false,false
+UA022103,19 Oct 25,10,Hurlingham Park,St Andrews MB,No. 1,Zac Goldberg,Zara Naidoo,Zac Goldberg,6-2,6,2,1,0,Completed,true,false,false
+UA022103,19 Oct 25,10,Hurlingham Park,St Andrews MB,No. 2,Joshua Smart,Johnny Xie,Joshua Smart,6-3,6,3,1,0,Completed,true,false,false
+UA022103,19 Oct 25,10,Hurlingham Park,St Andrews MB,No. 3,Marcus Blombery,Hannah Tsitsonakis,Hannah Tsitsonakis,4-6,4,6,0,1,Completed,true,false,false
+UA022103,19 Oct 25,10,Hurlingham Park,St Andrews MB,No. 4,Charlie Dessau,Tabitha George,Charlie Dessau,6-4,6,4,1,0,Completed,true,false,false
+UA022104,19 Oct 25,10,Highmoor Uniting,Kooyong Purple,No. 1,Dan Cunningham,Neesha Navaneetharaja,Dan Cunningham,6-2,6,2,1,0,Completed,true,false,false
+UA022104,19 Oct 25,10,Highmoor Uniting,Kooyong Purple,No. 2,Luke Cunningham,Annabelle Hallam,Luke Cunningham,6-0,6,0,1,0,Completed,true,false,false
+UA022104,19 Oct 25,10,Highmoor Uniting,Kooyong Purple,No. 3,Chase Jarvinen,Annabel Cotterell,Chase Jarvinen,7-5,7,5,1,0,Completed,true,false,false
+UA022104,19 Oct 25,10,Highmoor Uniting,Kooyong Purple,No. 4,Mitch James,Tom Harman,Tom Harman,0-6,0,6,0,1,Completed,true,true,true
+UA022111,26 Oct 25,11,Lauriston,Highmoor Uniting,No. 1,[Unnamed player — TROLS UA022111 home code 1],Dan Cunningham,Dan Cunningham,0-6,0,6,0,1,Completed,false,false,false
+UA022111,26 Oct 25,11,Lauriston,Highmoor Uniting,No. 2,Lev Yakovis,Luke Cunningham,Luke Cunningham,2-6,2,6,0,1,Completed,true,false,false
+UA022111,26 Oct 25,11,Lauriston,Highmoor Uniting,No. 3,Octavio Soto Minoz,Aidan Wearing,Octavio Soto Minoz,6-0,6,0,1,0,Completed,true,false,false
+UA022111,26 Oct 25,11,Lauriston,Highmoor Uniting,No. 4,Harshith Gopalakrishnan,Chase Jarvinen,Harshith Gopalakrishnan,6-4,6,4,1,0,Completed,true,true,false
+UA022113,26 Oct 25,11,St Andrews MB,Kooyong Green,No. 1,Zara Naidoo,Harry Louis,Harry Louis,2-6,2,6,0,1,Completed,true,false,false
+UA022113,26 Oct 25,11,St Andrews MB,Kooyong Green,No. 2,Darsh Noopur,Sophie Dennis,Sophie Dennis,1-6,1,6,0,1,Completed,true,false,false
+UA022113,26 Oct 25,11,St Andrews MB,Kooyong Green,No. 3,Johnny Xie,Emily Roach,Johnny Xie,6-3,6,3,1,0,Completed,true,false,false
+UA022113,26 Oct 25,11,St Andrews MB,Kooyong Green,No. 4,Hannah Tsitsonakis,Winifred Plomley,Hannah Tsitsonakis,6-0,6,0,1,0,Completed,true,false,false
+UA022122,09 Nov 25,12,Highett,Kooyong Green,No. 1,Rohin Jain,Oliver Meathrel,Rohin Jain,6-1,6,1,1,0,Completed,true,false,false
+UA022122,09 Nov 25,12,Highett,Kooyong Green,No. 2,Martin Simpson,Oliver Colbert,Oliver Colbert,1-6,1,6,0,1,Completed,true,false,false
+UA022122,09 Nov 25,12,Highett,Kooyong Green,No. 3,Charlotte Peters,Ella Thiel,Ella Thiel,0-6,0,6,0,1,Completed,true,false,false
+UA022122,09 Nov 25,12,Highett,Kooyong Green,No. 4,Isabella Muscat,Winifred Plomley,Winifred Plomley,2-6,2,6,0,1,Completed,true,false,false
+UA022123,09 Nov 25,12,Hurlingham Park,Highmoor Uniting,No. 1,Marcus Blombery,Dan Cunningham,Dan Cunningham,2-6,2,6,0,1,Completed,true,false,false
+UA022123,09 Nov 25,12,Hurlingham Park,Highmoor Uniting,No. 2,Luca Sheffield,Luke Cunningham,Luke Cunningham,4-6,4,6,0,1,Completed,true,false,false
+UA022123,09 Nov 25,12,Hurlingham Park,Highmoor Uniting,No. 3,Charlie Dessau,Evie McKormach,Charlie Dessau,6-4,6,4,1,0,Completed,true,false,false
+UA022123,09 Nov 25,12,Hurlingham Park,Highmoor Uniting,No. 4,Xavier Elix,Chase Jarvinen,Xavier Elix,6-0,6,0,1,0,Completed,true,false,false
+UA022124,09 Nov 25,12,GPHC,Lauriston,No. 1,Alexander Tran,Rina Ema,Rina Ema,4-6,4,6,0,1,Completed,true,false,false
+UA022124,09 Nov 25,12,GPHC,Lauriston,No. 2,Ella Greville,Harvey Lam,Harvey Lam,0-6,0,6,0,1,Completed,true,false,false
+UA022124,09 Nov 25,12,GPHC,Lauriston,No. 3,Finn Noonan,Lachlan So,Lachlan So,3-6,3,6,0,1,Completed,true,false,false
+UA022124,09 Nov 25,12,GPHC,Lauriston,No. 4,Lewis O'Donnell,Lev Yakovis,Lewis O'Donnell,6-2,6,2,1,0,Completed,true,false,false
+UA022131,16 Nov 25,13,St Andrews MB,GPHC,No. 1,Darsh Noopur,Alexander Tran,Alexander Tran,4-6,4,6,0,1,Completed,true,false,false
+UA022131,16 Nov 25,13,St Andrews MB,GPHC,No. 2,Johnny Xie,Ella Greville,Johnny Xie,6-0,6,0,1,0,Completed,true,false,false
+UA022131,16 Nov 25,13,St Andrews MB,GPHC,No. 3,Hannah Tsitsonakis,Phoebe Wong,Hannah Tsitsonakis,6-1,6,1,1,0,Completed,true,false,false
+UA022131,16 Nov 25,13,St Andrews MB,GPHC,No. 4,Tabitha George,Mia Greville,Tabitha George,6-0,6,0,1,0,Completed,true,false,true
+UA022132,16 Nov 25,13,Lauriston,Kooyong Purple,No. 1,Harvey Lam,Neesha Navaneetharaja,Harvey Lam,6-0,6,0,1,0,Completed,true,false,false
+UA022132,16 Nov 25,13,Lauriston,Kooyong Purple,No. 2,Lev Yakovis,Annabel Cotterell,Lev Yakovis,6-1,6,1,1,0,Completed,true,false,false
+UA022132,16 Nov 25,13,Lauriston,Kooyong Purple,No. 3,Helena Ngu,Poppy Lewis-Read,Helena Ngu,6-1,6,1,1,0,Completed,true,false,false
+UA022132,16 Nov 25,13,Lauriston,Kooyong Purple,No. 4,Octavio Soto Minoz,[Unnamed player — TROLS UA022132 away code 4],Octavio Soto Minoz,6-0,6,0,1,0,Completed,false,false,false
+UA022133,16 Nov 25,13,Highmoor Uniting,Highett,No. 1,Dan Cunningham,Rohin Jain,Dan Cunningham,6-3,6,3,1,0,Completed,true,false,false
+UA022133,16 Nov 25,13,Highmoor Uniting,Highett,No. 2,Aidan Wearing,Jinay Shah,Aidan Wearing,7-6,7,6,1,0,Completed,true,false,false
+UA022133,16 Nov 25,13,Highmoor Uniting,Highett,No. 3,Chase Jarvinen,Rehaan Mishra,Rehaan Mishra,4-6,4,6,0,1,Completed,true,false,false
+UA022133,16 Nov 25,13,Highmoor Uniting,Highett,No. 4,Evie McKormach,Martin Simpson,Martin Simpson,1-6,1,6,0,1,Completed,true,false,false
+UA022134,16 Nov 25,13,Kooyong Green,Hurlingham Park,No. 1,Harry Louis,Zac Goldberg,Zac Goldberg,2-6,2,6,0,1,Completed,true,false,false
+UA022134,16 Nov 25,13,Kooyong Green,Hurlingham Park,No. 2,Sophie Dennis,Luca Sheffield,Sophie Dennis,6-3,6,3,1,0,Completed,true,false,false
+UA022134,16 Nov 25,13,Kooyong Green,Hurlingham Park,No. 3,Ella Thiel,Charlie Dessau,Ella Thiel,6-0,6,0,1,0,Completed,true,false,false
+UA022134,16 Nov 25,13,Kooyong Green,Hurlingham Park,No. 4,Winifred Plomley,Xavier Elix,Xavier Elix,0-6,0,6,0,1,Completed,true,false,false
+UA022144,23 Nov 25,14,Hurlingham Park,Highett,No. 1,Zac Goldberg,Jinay Shah,Zac Goldberg,6-3,6,3,1,0,Completed,true,false,false
+UA022144,23 Nov 25,14,Hurlingham Park,Highett,No. 2,Joshua Smart,Rehaan Mishra,Joshua Smart,6-3,6,3,1,0,Completed,true,false,false
+UA022144,23 Nov 25,14,Hurlingham Park,Highett,No. 3,Marcus Blombery,Charlotte Peters,Marcus Blombery,6-1,6,1,1,0,Completed,true,false,false
+UA022144,23 Nov 25,14,Hurlingham Park,Highett,No. 4,Xavier Elix,Isabella Muscat,Xavier Elix,7-5,7,5,1,0,Completed,true,false,false
+UA022301,,16,Lauriston,St Andrews MB,No. 1,Rina Ema,Darsh Noopur,Rina Ema,6-0,6,0,1,0,Completed,true,false,false
+UA022301,,16,Lauriston,St Andrews MB,No. 2,Harvey Lam,Johnny Xie,Harvey Lam,6-0,6,0,1,0,Completed,true,false,false
+UA022301,,16,Lauriston,St Andrews MB,No. 3,Lachlan So,Hannah Tsitsonakis,Lachlan So,6-0,6,0,1,0,Completed,true,false,false
+UA022301,,16,Lauriston,St Andrews MB,No. 4,Octavio Soto Minoz,Tabitha George,Octavio Soto Minoz,6-1,6,1,1,0,Completed,true,false,false
+UA022302,,16,Kooyong Green,Hurlingham Park,No. 1,Oliver Colbert,Zac Goldberg,Zac Goldberg,0-6,0,6,0,1,Completed,true,false,false
+UA022302,,16,Kooyong Green,Hurlingham Park,No. 2,Harry Louis,Marcus Blombery,Marcus Blombery,6-7,6,7,0,1,Completed,true,false,false
+UA022302,,16,Kooyong Green,Hurlingham Park,No. 3,Sophie Dennis,Charlie Dessau,Sophie Dennis,6-1,6,1,1,0,Completed,true,false,false
+UA022302,,16,Kooyong Green,Hurlingham Park,No. 4,Ella Thiel,Xavier Elix,Xavier Elix,4-6,4,6,0,1,Completed,true,false,false
+UA022321,,17,Lauriston,Hurlingham Park,No. 1,Rina Ema,Zac Goldberg,Rina Ema,6-0,6,0,1,0,Completed,true,false,false
+UA022321,,17,Lauriston,Hurlingham Park,No. 2,Harvey Lam,Joshua Smart,Harvey Lam,6-3,6,3,1,0,Completed,true,false,false
+UA022321,,17,Lauriston,Hurlingham Park,No. 3,Lachlan So,Luca Sheffield,Lachlan So,6-0,6,0,1,0,Completed,true,false,false
+UA022321,,17,Lauriston,Hurlingham Park,No. 4,Octavio Soto Minoz,Xavier Elix,Octavio Soto Minoz,6-4,6,4,1,0,Completed,true,false,false

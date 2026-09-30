@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA14-UA010",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2014",
+  "season_id": "UA14",
+  "season_label": "Autumn 2014",
+  "source_section_code": "UA010",
+  "section_label": "Section 10",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Glen Eira Brook",
+      "wins": 11,
+      "points": 104,
+      "percentage": 139.8,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Maccabi",
+      "wins": 9,
+      "points": 91,
+      "percentage": 126.88,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 8,
+      "points": 80.5,
+      "percentage": 110.61,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Lauriston",
+      "wins": 8,
+      "points": 78,
+      "percentage": 105.37,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong St Kevin's",
+      "wins": 6,
+      "points": 76.5,
+      "percentage": 106.33,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Murrumbeena",
+      "wins": 6,
+      "points": 61,
+      "percentage": 85.93,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra",
+      "wins": 1,
+      "points": 35.5,
+      "percentage": 66.31,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 33.5,
+      "percentage": 78.12,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA14-UA010",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 214,
+  "doubles_rubbers": 107,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for UA010104"
+  ]
+}

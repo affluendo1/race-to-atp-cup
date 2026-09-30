@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA20-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2017",
+  "season_id": "UA20",
+  "season_label": "Autumn 2017",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Coatesville",
+      "wins": 13,
+      "points": 121,
+      "percentage": 196.72,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Tennis World",
+      "wins": 9,
+      "points": 91,
+      "percentage": 134.18,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Carmelite",
+      "wins": 8,
+      "points": 80,
+      "percentage": 104.86,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 7,
+      "points": 76,
+      "percentage": 105.39,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong 2",
+      "wins": 7,
+      "points": 64,
+      "percentage": 92.8,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC",
+      "wins": 6,
+      "points": 58,
+      "percentage": 78.77,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong 1",
+      "wins": 4,
+      "points": 49,
+      "percentage": 81.07,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal South Yarra",
+      "wins": 0,
+      "points": 21,
+      "percentage": 61.83,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA20-UA002",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

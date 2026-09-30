@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA10-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2012",
+  "season_id": "UA10",
+  "season_label": "Autumn 2012",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite 1",
+      "wins": 12,
+      "points": 120,
+      "percentage": 293.71,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "GPHC MLC 1",
+      "wins": 8,
+      "points": 96,
+      "percentage": 144.75,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Hampton",
+      "wins": 8,
+      "points": 91.5,
+      "percentage": 136.65,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Carmelite 2",
+      "wins": 8,
+      "points": 91.5,
+      "percentage": 130.29,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Aspendale",
+      "wins": 6,
+      "points": 67,
+      "percentage": 107.1,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong Xavier",
+      "wins": 3,
+      "points": 40,
+      "percentage": 63.57,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC MLC 2",
+      "wins": 2,
+      "points": 28,
+      "percentage": 44.06,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hurlingham Park",
+      "wins": 1,
+      "points": 26,
+      "percentage": 51.43,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA10-UA014",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 209,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

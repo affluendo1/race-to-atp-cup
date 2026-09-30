@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA6-UA009",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2010",
+  "season_id": "UA6",
+  "season_label": "Autumn 2010",
+  "source_section_code": "UA009",
+  "section_label": "Section 9",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Caulfield Rec",
+      "wins": 0,
+      "points": 110.5,
+      "percentage": 161.19,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Kooyong Scotch",
+      "wins": 0,
+      "points": 101.5,
+      "percentage": 140.88,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 86,
+      "percentage": 113.27,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Coatesville",
+      "wins": 0,
+      "points": 70,
+      "percentage": 109.97,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St James",
+      "wins": 0,
+      "points": 62,
+      "percentage": 85.32,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Bodley Tennis Plus",
+      "wins": 0,
+      "points": 55,
+      "percentage": 85.79,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St Louis de Mont",
+      "wins": 0,
+      "points": 53,
+      "percentage": 91.29,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hampton",
+      "wins": 0,
+      "points": 22,
+      "percentage": 44.72,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA6-UA009",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 59,
+  "singles_rubbers": 227,
+  "doubles_rubbers": 114,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

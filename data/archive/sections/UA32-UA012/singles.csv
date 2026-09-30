@@ -1,0 +1,177 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA012011,05 Feb 23,1,St Louis de Mont,Tennis World,No. 1,Jackson Parker,Matthew Tong,Matthew Tong,3-6,3,6,0,1,Completed,true,false,false
+UA012011,05 Feb 23,1,St Louis de Mont,Tennis World,No. 2,Max Edwards,Arthur Lussiana,Arthur Lussiana,4-6,4,6,0,1,Completed,true,false,false
+UA012011,05 Feb 23,1,St Louis de Mont,Tennis World,No. 3,Coby Meyers,Aditya Garg,Coby Meyers,7-5,7,5,1,0,Completed,true,false,false
+UA012011,05 Feb 23,1,St Louis de Mont,Tennis World,No. 4,Daniel Waters,Rafael Staa,Rafael Staa,1-6,1,6,0,1,Completed,true,false,false
+UA012012,05 Feb 23,1,Royal Ave Green,Royal Ave Purple,No. 1,Luis Harrer,Russell Atkins,Russell Atkins,0-6,0,6,0,1,Completed,true,false,false
+UA012012,05 Feb 23,1,Royal Ave Green,Royal Ave Purple,No. 2,Ted Fujii,Oliver Young,Ted Fujii,6-3,6,3,1,0,Completed,true,true,false
+UA012012,05 Feb 23,1,Royal Ave Green,Royal Ave Purple,No. 3,James Harris,Zane Khan,James Harris,7-6,7,6,1,0,Completed,true,true,false
+UA012012,05 Feb 23,1,Royal Ave Green,Royal Ave Purple,No. 4,Nick Danaher,Jack Pollio,Nick Danaher,6-4,6,4,1,0,Completed,true,true,false
+UA012013,05 Feb 23,1,Kooyong,Elsternwick Park Blue,No. 1,Kayla Coster,Flynn Armstrong,Kayla Coster,6-1,6,1,1,0,Completed,true,false,false
+UA012013,05 Feb 23,1,Kooyong,Elsternwick Park Blue,No. 2,Will Morris,Boston Newton,Boston Newton,1-6,1,6,0,1,Completed,true,false,false
+UA012013,05 Feb 23,1,Kooyong,Elsternwick Park Blue,No. 3,Monty Bernadou,Charlotte O'Brien,Charlotte O'Brien,0-6,0,6,0,1,Completed,true,false,false
+UA012013,05 Feb 23,1,Kooyong,Elsternwick Park Blue,No. 4,Sam Perry,Eddie Wang,Sam Perry,6-4,6,4,1,0,Completed,true,false,false
+UA012014,05 Feb 23,1,Victory Park,Aspendale,No. 1,Oliver Richards,Pip Jawalekar,Oliver Richards,6-4,6,4,1,0,Completed,true,false,false
+UA012014,05 Feb 23,1,Victory Park,Aspendale,No. 2,Jack Campbell,Gabriel Reuter,Jack Campbell,6-3,6,3,1,0,Completed,true,false,false
+UA012014,05 Feb 23,1,Victory Park,Aspendale,No. 3,Mitch Cassidy,Rebecca Dowling,Mitch Cassidy,6-4,6,4,1,0,Completed,true,false,false
+UA012014,05 Feb 23,1,Victory Park,Aspendale,No. 4,Alessio Di Fabrizio,Brendan McCaul,Alessio Di Fabrizio,6-2,6,2,1,0,Completed,true,false,false
+UA012021,12 Feb 23,2,Aspendale,St Louis de Mont,No. 1,Pip Jawalekar,Jackson Parker,Jackson Parker,4-6,4,6,0,1,Completed,true,false,false
+UA012021,12 Feb 23,2,Aspendale,St Louis de Mont,No. 2,Felix Reuter,Max Edwards,Max Edwards,1-6,1,6,0,1,Completed,true,false,false
+UA012021,12 Feb 23,2,Aspendale,St Louis de Mont,No. 3,Lucy Beatie,Coby Meyers,Coby Meyers,0-6,0,6,0,1,Completed,true,false,false
+UA012021,12 Feb 23,2,Aspendale,St Louis de Mont,No. 4,Rebecca Dowling,Jayden Demko,Rebecca Dowling,7-6,7,6,1,0,Completed,true,false,false
+UA012022,12 Feb 23,2,Tennis World,Royal Ave Green,No. 1,Matthew Tong,Livian Gomes,Matthew Tong,6-0,6,0,1,0,Completed,true,false,false
+UA012022,12 Feb 23,2,Tennis World,Royal Ave Green,No. 2,Arthur Lussiana,Luis Harrer,Arthur Lussiana,6-4,6,4,1,0,Completed,true,false,false
+UA012022,12 Feb 23,2,Tennis World,Royal Ave Green,No. 3,Sara Patil,James Harris,Sara Patil,6-0,6,0,1,0,Completed,true,false,true
+UA012022,12 Feb 23,2,Tennis World,Royal Ave Green,No. 4,Arya Patil,Nick Danaher,Arya Patil,6-1,6,1,1,0,Completed,true,false,true
+UA012023,12 Feb 23,2,Royal Ave Purple,Kooyong,No. 1,Russell Atkins,Kayla Coster,Kayla Coster,0-6,0,6,0,1,Completed,true,false,false
+UA012023,12 Feb 23,2,Royal Ave Purple,Kooyong,No. 2,Oliver Young,Cienna Ulas,Cienna Ulas,2-6,2,6,0,1,Completed,true,false,false
+UA012023,12 Feb 23,2,Royal Ave Purple,Kooyong,No. 3,Caelen Kelly-Foran,Sam Perry,Caelen Kelly-Foran,6-3,6,3,1,0,Completed,true,false,false
+UA012023,12 Feb 23,2,Royal Ave Purple,Kooyong,No. 4,Owen Han,Tommy Seymour,Tommy Seymour,6-7,6,7,0,1,Completed,true,true,false
+UA012024,12 Feb 23,2,Elsternwick Park Blue,Victory Park,No. 1,James Grace,Mitch Cassidy,James Grace,6-2,6,2,1,0,Completed,true,false,false
+UA012024,12 Feb 23,2,Elsternwick Park Blue,Victory Park,No. 2,Flynn Armstrong,Dylan Barrett-Water,Flynn Armstrong,6-0,6,0,1,0,Completed,true,false,false
+UA012024,12 Feb 23,2,Elsternwick Park Blue,Victory Park,No. 3,Boston Newton,Benjamin Knox,Boston Newton,6-2,6,2,1,0,Completed,true,false,false
+UA012024,12 Feb 23,2,Elsternwick Park Blue,Victory Park,No. 4,Charlotte O'Brien,Aiden Knox,Charlotte O'Brien,6-1,6,1,1,0,Completed,true,false,false
+UA012031,19 Feb 23,3,St Louis de Mont,Elsternwick Park Blue,No. 1,Jackson Parker,James Grace,Jackson Parker,6-3,6,3,1,0,Completed,true,false,false
+UA012031,19 Feb 23,3,St Louis de Mont,Elsternwick Park Blue,No. 2,Max Edwards,Boston Newton,Boston Newton,5-7,5,7,0,1,Completed,true,false,false
+UA012031,19 Feb 23,3,St Louis de Mont,Elsternwick Park Blue,No. 3,Jayden Demko,Charlotte O'Brien,Jayden Demko,6-2,6,2,1,0,Completed,true,false,false
+UA012031,19 Feb 23,3,St Louis de Mont,Elsternwick Park Blue,No. 4,Daniel Waters,Eddie Wang,Eddie Wang,1-6,1,6,0,1,Completed,true,false,false
+UA012032,19 Feb 23,3,Royal Ave Green,Aspendale,No. 1,Livian Gomes,Felix Reuter,Livian Gomes,6-4,6,4,1,0,Completed,true,false,false
+UA012032,19 Feb 23,3,Royal Ave Green,Aspendale,No. 2,Ted Fujii,Gabriel Reuter,Gabriel Reuter,0-6,0,6,0,1,Completed,true,true,false
+UA012032,19 Feb 23,3,Royal Ave Green,Aspendale,No. 3,James Harris,Lucy Beatie,James Harris,6-1,6,1,1,0,Completed,true,true,false
+UA012032,19 Feb 23,3,Royal Ave Green,Aspendale,No. 4,Nick Danaher,Brendan McCaul,Nick Danaher,6-1,6,1,1,0,Completed,true,true,false
+UA012033,19 Feb 23,3,Kooyong,Tennis World,No. 1,Will Morris,Aditya Garg,Aditya Garg,3-6,3,6,0,1,Completed,true,false,false
+UA012033,19 Feb 23,3,Kooyong,Tennis World,No. 2,Monty Bernadou,Sara Patil,Sara Patil,2-6,2,6,0,1,Completed,true,false,false
+UA012033,19 Feb 23,3,Kooyong,Tennis World,No. 3,Sam Perry,Rafael Staa,Rafael Staa,2-6,2,6,0,1,Completed,true,false,false
+UA012033,19 Feb 23,3,Kooyong,Tennis World,No. 4,Tommy Seymour,Arya Patil,Arya Patil,1-6,1,6,0,1,Completed,true,false,false
+UA012034,19 Feb 23,3,Victory Park,Royal Ave Purple,No. 1,Oliver Richards,Zane Khan,Oliver Richards,6-4,6,4,1,0,Completed,true,false,false
+UA012034,19 Feb 23,3,Victory Park,Royal Ave Purple,No. 2,Jack Campbell,Jack Pollio,Jack Campbell,6-3,6,3,1,0,Completed,true,false,false
+UA012034,19 Feb 23,3,Victory Park,Royal Ave Purple,No. 3,Benjamin Knox,Caelen Kelly-Foran,Caelen Kelly-Foran,4-6,4,6,0,1,Completed,true,false,false
+UA012034,19 Feb 23,3,Victory Park,Royal Ave Purple,No. 4,Aiden Knox,Owen Han,Owen Han,0-6,0,6,0,1,Completed,true,false,true
+UA012041,26 Feb 23,4,Royal Ave Purple,St Louis de Mont,No. 1,Russell Atkins,Max Edwards,Max Edwards,4-6,4,6,0,1,Completed,true,false,false
+UA012041,26 Feb 23,4,Royal Ave Purple,St Louis de Mont,No. 2,Oliver Young,Coby Meyers,Oliver Young,6-4,6,4,1,0,Completed,true,false,false
+UA012041,26 Feb 23,4,Royal Ave Purple,St Louis de Mont,No. 3,Zane Khan,Jayden Demko,Zane Khan,6-2,6,2,1,0,Completed,true,false,false
+UA012041,26 Feb 23,4,Royal Ave Purple,St Louis de Mont,No. 4,Jack Pollio,Daniel Waters,Jack Pollio,6-1,6,1,1,0,Completed,true,false,false
+UA012042,26 Feb 23,4,Elsternwick Park Blue,Royal Ave Green,No. 1,James Grace,Livian Gomes,Livian Gomes,2-6,2,6,0,1,Completed,true,false,false
+UA012042,26 Feb 23,4,Elsternwick Park Blue,Royal Ave Green,No. 2,Flynn Armstrong,Luis Harrer,Flynn Armstrong,6-3,6,3,1,0,Completed,true,false,false
+UA012042,26 Feb 23,4,Elsternwick Park Blue,Royal Ave Green,No. 3,Charlotte O'Brien,Ted Fujii,Charlotte O'Brien,6-3,6,3,1,0,Completed,true,false,true
+UA012042,26 Feb 23,4,Elsternwick Park Blue,Royal Ave Green,No. 4,Eddie Wang,James Harris,James Harris,6-7,6,7,0,1,Completed,true,false,true
+UA012043,26 Feb 23,4,Aspendale,Kooyong,No. 1,Pip Jawalekar,Kayla Coster,Pip Jawalekar,7-5,7,5,1,0,Completed,true,false,false
+UA012043,26 Feb 23,4,Aspendale,Kooyong,No. 2,Felix Reuter,Cienna Ulas,Cienna Ulas,2-6,2,6,0,1,Completed,true,false,false
+UA012043,26 Feb 23,4,Aspendale,Kooyong,No. 3,Gabriel Reuter,Will Morris,Will Morris,3-6,3,6,0,1,Completed,true,false,false
+UA012043,26 Feb 23,4,Aspendale,Kooyong,No. 4,Rebecca Dowling,Tommy Seymour,Tommy Seymour,6-7,6,7,0,1,Completed,true,false,false
+UA012044,26 Feb 23,4,Tennis World,Victory Park,No. 1,Matthew Tong,Oliver Richards,Matthew Tong,6-0,6,0,1,0,Completed,true,false,false
+UA012044,26 Feb 23,4,Tennis World,Victory Park,No. 2,Aditya Garg,Mitch Cassidy,Aditya Garg,6-1,6,1,1,0,Completed,true,false,false
+UA012044,26 Feb 23,4,Tennis World,Victory Park,No. 3,Sara Patil,Dylan Barrett-Water,Sara Patil,6-0,6,0,1,0,Completed,true,false,false
+UA012044,26 Feb 23,4,Tennis World,Victory Park,No. 4,Arya Patil,Alessio Di Fabrizio,Arya Patil,6-2,6,2,1,0,Completed,true,false,false
+UA012051,05 Mar 23,5,Kooyong,Victory Park,No. 1,Kayla Coster,Mitch Cassidy,Kayla Coster,6-1,6,1,1,0,Completed,true,false,false
+UA012051,05 Mar 23,5,Kooyong,Victory Park,No. 2,Cienna Ulas,Benjamin Knox,Cienna Ulas,6-0,6,0,1,0,Completed,true,false,false
+UA012051,05 Mar 23,5,Kooyong,Victory Park,No. 3,Monty Bernadou,Aiden Knox,Monty Bernadou,6-3,6,3,1,0,Completed,true,false,false
+UA012051,05 Mar 23,5,Kooyong,Victory Park,No. 4,Sam Perry,Alessio Di Fabrizio,Sam Perry,6-4,6,4,1,0,Completed,true,false,false
+UA012052,05 Mar 23,5,Aspendale,Elsternwick Park Blue,No. 1,Pip Jawalekar,Flynn Armstrong,Pip Jawalekar,6-4,6,4,1,0,Completed,true,false,false
+UA012052,05 Mar 23,5,Aspendale,Elsternwick Park Blue,No. 2,Felix Reuter,Boston Newton,Boston Newton,5-7,5,7,0,1,Completed,true,false,false
+UA012052,05 Mar 23,5,Aspendale,Elsternwick Park Blue,No. 3,Lucy Beatie,Eddie Wang,Lucy Beatie,6-4,6,4,1,0,Completed,true,false,false
+UA012052,05 Mar 23,5,Aspendale,Elsternwick Park Blue,No. 4,Brendan McCaul,Max Gordon,Max Gordon,4-6,4,6,0,1,Completed,true,false,false
+UA012053,05 Mar 23,5,Royal Ave Purple,Tennis World,No. 1,Oliver Young,Matthew Tong,Matthew Tong,0-6,0,6,0,1,Completed,true,false,false
+UA012053,05 Mar 23,5,Royal Ave Purple,Tennis World,No. 2,Zane Khan,Arthur Lussiana,Arthur Lussiana,4-6,4,6,0,1,Completed,true,false,false
+UA012053,05 Mar 23,5,Royal Ave Purple,Tennis World,No. 3,Caelen Kelly-Foran,Aditya Garg,Aditya Garg,2-6,2,6,0,1,Completed,true,false,false
+UA012053,05 Mar 23,5,Royal Ave Purple,Tennis World,No. 4,Owen Han,Rafael Staa,Rafael Staa,2-6,2,6,0,1,Completed,true,true,false
+UA012054,05 Mar 23,5,St Louis de Mont,Royal Ave Green,No. 1,Jackson Parker,Ted Fujii,Jackson Parker,6-1,6,1,1,0,Completed,true,false,true
+UA012054,05 Mar 23,5,St Louis de Mont,Royal Ave Green,No. 2,Max Edwards,James Harris,Max Edwards,6-1,6,1,1,0,Completed,true,false,true
+UA012054,05 Mar 23,5,St Louis de Mont,Royal Ave Green,No. 3,Coby Meyers,Nick Danaher,Coby Meyers,6-4,6,4,1,0,Completed,true,false,true
+UA012054,05 Mar 23,5,St Louis de Mont,Royal Ave Green,No. 4,Daniel Waters,[Unnamed player — TROLS UA012054 away code 4],Daniel Waters,6-0,6,0,1,0,Completed,false,false,false
+UA012061,19 Mar 23,6,Royal Ave Green,Kooyong,No. 1,Livian Gomes,Cienna Ulas,Cienna Ulas,1-6,1,6,0,1,Completed,true,false,false
+UA012061,19 Mar 23,6,Royal Ave Green,Kooyong,No. 2,Luis Harrer,Will Morris,Luis Harrer,6-3,6,3,1,0,Completed,true,false,false
+UA012061,19 Mar 23,6,Royal Ave Green,Kooyong,No. 3,James Harris,Monty Bernadou,Monty Bernadou,3-6,3,6,0,1,Completed,true,true,false
+UA012061,19 Mar 23,6,Royal Ave Green,Kooyong,No. 4,Nick Danaher,Sam Perry,Nick Danaher,6-4,6,4,1,0,Completed,true,true,false
+UA012062,19 Mar 23,6,Victory Park,St Louis de Mont,No. 1,Ishaan Tiwari,Jackson Parker,Ishaan Tiwari,6-4,6,4,1,0,Completed,true,false,false
+UA012062,19 Mar 23,6,Victory Park,St Louis de Mont,No. 2,Benjamin Knox,Coby Meyers,Coby Meyers,2-6,2,6,0,1,Completed,true,false,false
+UA012062,19 Mar 23,6,Victory Park,St Louis de Mont,No. 3,Aiden Knox,Jayden Demko,Jayden Demko,6-7,6,7,0,1,Completed,true,false,false
+UA012062,19 Mar 23,6,Victory Park,St Louis de Mont,No. 4,Alessio Di Fabrizio,Daniel Waters,Alessio Di Fabrizio,6-3,6,3,1,0,Completed,true,false,false
+UA012063,19 Mar 23,6,Elsternwick Park Blue,Royal Ave Purple,No. 1,James Grace,Russell Atkins,Russell Atkins,2-6,2,6,0,1,Completed,true,false,false
+UA012063,19 Mar 23,6,Elsternwick Park Blue,Royal Ave Purple,No. 2,Flynn Armstrong,Jack Pollio,Flynn Armstrong,6-4,6,4,1,0,Completed,true,false,false
+UA012063,19 Mar 23,6,Elsternwick Park Blue,Royal Ave Purple,No. 3,Charlotte O'Brien,Caelen Kelly-Foran,Caelen Kelly-Foran,3-6,3,6,0,1,Completed,true,false,false
+UA012063,19 Mar 23,6,Elsternwick Park Blue,Royal Ave Purple,No. 4,Max Gordon,Owen Han,Owen Han,5-7,5,7,0,1,Completed,true,false,true
+UA012064,19 Mar 23,6,Tennis World,Aspendale,No. 1,Arthur Lussiana,Felix Reuter,Felix Reuter,5-7,5,7,0,1,Completed,true,false,false
+UA012064,19 Mar 23,6,Tennis World,Aspendale,No. 2,Sara Patil,Gabriel Reuter,Sara Patil,6-2,6,2,1,0,Completed,true,false,false
+UA012064,19 Mar 23,6,Tennis World,Aspendale,No. 3,Rafael Staa,Lucy Beatie,Rafael Staa,6-0,6,0,1,0,Completed,true,false,false
+UA012064,19 Mar 23,6,Tennis World,Aspendale,No. 4,Arya Patil,Brendan McCaul,Arya Patil,7-6,7,6,1,0,Completed,true,false,false
+UA012071,26 Mar 23,7,St Louis de Mont,Kooyong,No. 1,Jackson Parker,Kayla Coster,Kayla Coster,2-6,2,6,0,1,Completed,true,false,false
+UA012071,26 Mar 23,7,St Louis de Mont,Kooyong,No. 2,Max Edwards,Cienna Ulas,Max Edwards,6-0,6,0,1,0,Completed,true,false,false
+UA012071,26 Mar 23,7,St Louis de Mont,Kooyong,No. 3,Coby Meyers,Will Morris,Coby Meyers,7-6,7,6,1,0,Completed,true,false,false
+UA012071,26 Mar 23,7,St Louis de Mont,Kooyong,No. 4,Jayden Demko,Kai Corfield,Jayden Demko,6-0,6,0,1,0,Completed,true,false,true
+UA012072,26 Mar 23,7,Royal Ave Green,Victory Park,No. 1,Livian Gomes,Mitch Cassidy,Livian Gomes,6-3,6,3,1,0,Completed,true,false,false
+UA012072,26 Mar 23,7,Royal Ave Green,Victory Park,No. 2,Luis Harrer,Dylan Barrett-Water,Luis Harrer,6-1,6,1,1,0,Completed,true,false,false
+UA012072,26 Mar 23,7,Royal Ave Green,Victory Park,No. 3,Ted Fujii,Benjamin Knox,Benjamin Knox,3-6,3,6,0,1,Completed,true,true,false
+UA012072,26 Mar 23,7,Royal Ave Green,Victory Park,No. 4,Nick Danaher,Aiden Knox,Aiden Knox,5-7,5,7,0,1,Completed,true,true,false
+UA012073,26 Mar 23,7,Aspendale,Royal Ave Purple,No. 1,Pip Jawalekar,Russell Atkins,Pip Jawalekar,7-6,7,6,1,0,Completed,true,false,false
+UA012073,26 Mar 23,7,Aspendale,Royal Ave Purple,No. 2,Gabriel Reuter,Zane Khan,Gabriel Reuter,6-2,6,2,1,0,Completed,true,false,false
+UA012073,26 Mar 23,7,Aspendale,Royal Ave Purple,No. 3,Lucy Beatie,Jack Pollio,Jack Pollio,2-6,2,6,0,1,Completed,true,false,false
+UA012073,26 Mar 23,7,Aspendale,Royal Ave Purple,No. 4,Rebecca Dowling,Harry Ginis,Rebecca Dowling,6-0,6,0,1,0,Completed,true,false,true
+UA012074,26 Mar 23,7,Elsternwick Park Blue,Tennis World,No. 1,James Grace,Matthew Tong,Matthew Tong,0-6,0,6,0,1,Completed,true,false,false
+UA012074,26 Mar 23,7,Elsternwick Park Blue,Tennis World,No. 2,Eddie Wang,Sara Patil,Sara Patil,0-6,0,6,0,1,Completed,true,false,false
+UA012074,26 Mar 23,7,Elsternwick Park Blue,Tennis World,No. 3,Max Gordon,Rafael Staa,Rafael Staa,2-6,2,6,0,1,Completed,true,false,false
+UA012074,26 Mar 23,7,Elsternwick Park Blue,Tennis World,No. 4,Riley Hunt,Arya Patil,Arya Patil,2-6,2,6,0,1,Completed,true,true,false
+UA012081,02 Apr 23,8,Tennis World,St Louis de Mont,No. 1,Arthur Lussiana,Jackson Parker,Arthur Lussiana,6-4,6,4,1,0,Completed,true,false,false
+UA012081,02 Apr 23,8,Tennis World,St Louis de Mont,No. 2,Aditya Garg,Max Edwards,Aditya Garg,6-2,6,2,1,0,Completed,true,false,false
+UA012081,02 Apr 23,8,Tennis World,St Louis de Mont,No. 3,Rafael Staa,Jayden Demko,Rafael Staa,6-1,6,1,1,0,Completed,true,false,false
+UA012081,02 Apr 23,8,Tennis World,St Louis de Mont,No. 4,Aiden Artemas,Daniel Waters,Aiden Artemas,6-1,6,1,1,0,Completed,true,true,false
+UA012082,02 Apr 23,8,Royal Ave Purple,Royal Ave Green,No. 1,Russell Atkins,Livian Gomes,Livian Gomes,2-6,2,6,0,1,Completed,true,false,false
+UA012082,02 Apr 23,8,Royal Ave Purple,Royal Ave Green,No. 2,Jack Pollio,Luis Harrer,Luis Harrer,3-6,3,6,0,1,Completed,true,false,false
+UA012082,02 Apr 23,8,Royal Ave Purple,Royal Ave Green,No. 3,Caelen Kelly-Foran,Harry Ginis,Caelen Kelly-Foran,6-2,6,2,1,0,Completed,true,false,true
+UA012082,02 Apr 23,8,Royal Ave Purple,Royal Ave Green,No. 4,Owen Han,Nick Danaher,Nick Danaher,3-6,3,6,0,1,Completed,true,true,true
+UA012083,02 Apr 23,8,Elsternwick Park Blue,Kooyong,No. 1,Flynn Armstrong,Kayla Coster,Kayla Coster,5-7,5,7,0,1,Completed,true,false,false
+UA012083,02 Apr 23,8,Elsternwick Park Blue,Kooyong,No. 2,Boston Newton,Cienna Ulas,Boston Newton,7-6,7,6,1,0,Completed,true,false,false
+UA012083,02 Apr 23,8,Elsternwick Park Blue,Kooyong,No. 3,Charlotte O'Brien,Tommy Seymour,Tommy Seymour,1-6,1,6,0,1,Completed,true,false,false
+UA012083,02 Apr 23,8,Elsternwick Park Blue,Kooyong,No. 4,Eddie Wang,Kai Corfield,Eddie Wang,6-2,6,2,1,0,Completed,true,false,true
+UA012084,02 Apr 23,8,Aspendale,Victory Park,No. 1,Felix Reuter,Oliver Richards,Felix Reuter,6-2,6,2,1,0,Completed,true,false,false
+UA012084,02 Apr 23,8,Aspendale,Victory Park,No. 2,Gabriel Reuter,Ishaan Tiwari,Gabriel Reuter,6-2,6,2,1,0,Completed,true,false,false
+UA012084,02 Apr 23,8,Aspendale,Victory Park,No. 3,Rebecca Dowling,Aiden Knox,Aiden Knox,2-6,2,6,0,1,Completed,true,false,false
+UA012084,02 Apr 23,8,Aspendale,Victory Park,No. 4,Brendan McCaul,Alessio Di Fabrizio,Alessio Di Fabrizio,6-7,6,7,0,1,Completed,true,false,false
+UA012091,30 Apr 23,9,St Louis de Mont,Aspendale,No. 1,Jackson Parker,Pip Jawalekar,Pip Jawalekar,3-6,3,6,0,1,Completed,true,false,false
+UA012091,30 Apr 23,9,St Louis de Mont,Aspendale,No. 2,Max Edwards,Brody Lamb,Max Edwards,6-2,6,2,1,0,Completed,true,false,false
+UA012091,30 Apr 23,9,St Louis de Mont,Aspendale,No. 3,Jayden Demko,Rebecca Dowling,Rebecca Dowling,4-6,4,6,0,1,Completed,true,false,false
+UA012091,30 Apr 23,9,St Louis de Mont,Aspendale,No. 4,Daniel Waters,Brendan McCaul,Brendan McCaul,0-6,0,6,0,1,Completed,true,false,false
+UA012092,30 Apr 23,9,Royal Ave Green,Tennis World,No. 1,Luis Harrer,Arthur Lussiana,Luis Harrer,7-5,7,5,1,0,Completed,true,false,false
+UA012092,30 Apr 23,9,Royal Ave Green,Tennis World,No. 2,Ted Fujii,Aditya Garg,Aditya Garg,3-6,3,6,0,1,Completed,true,true,false
+UA012092,30 Apr 23,9,Royal Ave Green,Tennis World,No. 3,James Harris,Sara Patil,Sara Patil,1-6,1,6,0,1,Completed,true,true,false
+UA012092,30 Apr 23,9,Royal Ave Green,Tennis World,No. 4,Nick Danaher,Arya Patil,Arya Patil,0-6,0,6,0,1,Completed,true,true,false
+UA012093,30 Apr 23,9,Kooyong,Royal Ave Purple,No. 1,Kayla Coster,Zane Khan,Kayla Coster,6-2,6,2,1,0,Completed,true,false,false
+UA012093,30 Apr 23,9,Kooyong,Royal Ave Purple,No. 2,Will Morris,Jack Pollio,Will Morris,6-3,6,3,1,0,Completed,true,false,false
+UA012093,30 Apr 23,9,Kooyong,Royal Ave Purple,No. 3,Monty Bernadou,Caelen Kelly-Foran,Caelen Kelly-Foran,2-6,2,6,0,1,Completed,true,false,false
+UA012093,30 Apr 23,9,Kooyong,Royal Ave Purple,No. 4,Sam Perry,Owen Han,Owen Han,2-6,2,6,0,1,Completed,true,false,true
+UA012094,30 Apr 23,9,Victory Park,Elsternwick Park Blue,No. 1,Oliver Richards,James Grace,Oliver Richards,6-2,6,2,1,0,Completed,true,false,false
+UA012094,30 Apr 23,9,Victory Park,Elsternwick Park Blue,No. 2,Ishaan Tiwari,Flynn Armstrong,Flynn Armstrong,3-6,3,6,0,1,Completed,true,false,false
+UA012094,30 Apr 23,9,Victory Park,Elsternwick Park Blue,No. 3,Mitch Cassidy,Charlotte O'Brien,Mitch Cassidy,6-1,6,1,1,0,Completed,true,false,false
+UA012094,30 Apr 23,9,Victory Park,Elsternwick Park Blue,No. 4,Dylan Barrett-Water,Max Gordon,Max Gordon,0-6,0,6,0,1,Completed,true,false,false
+UA012111,14 May 23,11,St Louis de Mont,Royal Ave Purple,No. 1,Jackson Parker,Russell Atkins,Jackson Parker,6-2,6,2,1,0,Completed,true,false,false
+UA012111,14 May 23,11,St Louis de Mont,Royal Ave Purple,No. 2,Max Edwards,Zane Khan,Max Edwards,6-0,6,0,1,0,Completed,true,false,false
+UA012111,14 May 23,11,St Louis de Mont,Royal Ave Purple,No. 3,Jayden Demko,Caelen Kelly-Foran,Jayden Demko,6-4,6,4,1,0,Completed,true,false,false
+UA012111,14 May 23,11,St Louis de Mont,Royal Ave Purple,No. 4,Daniel Waters,Owen Han,Owen Han,0-6,0,6,0,1,Completed,true,false,true
+UA012112,14 May 23,11,Royal Ave Green,Elsternwick Park Blue,No. 1,Livian Gomes,[Unnamed player — TROLS UA012112 away code 1],Livian Gomes,6-0,6,0,1,0,Completed,false,false,false
+UA012112,14 May 23,11,Royal Ave Green,Elsternwick Park Blue,No. 2,Luis Harrer,Boston Newton,Boston Newton,1-6,1,6,0,1,Completed,true,false,false
+UA012112,14 May 23,11,Royal Ave Green,Elsternwick Park Blue,No. 3,Ted Fujii,Charlotte O'Brien,Ted Fujii,6-2,6,2,1,0,Completed,true,true,false
+UA012112,14 May 23,11,Royal Ave Green,Elsternwick Park Blue,No. 4,Nick Danaher,Max Gordon,Nick Danaher,6-1,6,1,1,0,Completed,true,true,false
+UA012113,14 May 23,11,Kooyong,Aspendale,No. 1,Kayla Coster,Brody Lamb,Brody Lamb,4-6,4,6,0,1,Completed,true,false,false
+UA012113,14 May 23,11,Kooyong,Aspendale,No. 2,Cienna Ulas,Lucy Beatie,Cienna Ulas,6-2,6,2,1,0,Completed,true,false,false
+UA012113,14 May 23,11,Kooyong,Aspendale,No. 3,Sam Perry,Rebecca Dowling,Rebecca Dowling,3-6,3,6,0,1,Completed,true,false,false
+UA012113,14 May 23,11,Kooyong,Aspendale,No. 4,Kai Corfield,Brendan McCaul,Kai Corfield,6-1,6,1,1,0,Completed,true,true,false
+UA012114,14 May 23,11,Victory Park,Tennis World,No. 1,Oliver Richards,Aditya Garg,Oliver Richards,6-3,6,3,1,0,Completed,true,false,false
+UA012114,14 May 23,11,Victory Park,Tennis World,No. 2,Ishaan Tiwari,Sara Patil,Sara Patil,0-6,0,6,0,1,Completed,true,false,false
+UA012114,14 May 23,11,Victory Park,Tennis World,No. 3,Mitch Cassidy,Rafael Staa,Rafael Staa,4-6,4,6,0,1,Completed,true,false,false
+UA012114,14 May 23,11,Victory Park,Tennis World,No. 4,Alessio Di Fabrizio,Arya Patil,Arya Patil,3-6,3,6,0,1,Completed,true,false,false
+UA012122,21 May 23,12,Elsternwick Park Blue,Aspendale,No. 1,Flynn Armstrong,[Unnamed player — TROLS UA012122 away code 1],Flynn Armstrong,6-0,6,0,1,0,Completed,false,false,false
+UA012122,21 May 23,12,Elsternwick Park Blue,Aspendale,No. 2,Boston Newton,Brody Lamb,Boston Newton,6-1,6,1,1,0,Completed,true,false,false
+UA012122,21 May 23,12,Elsternwick Park Blue,Aspendale,No. 3,Eddie Wang,Lucy Beatie,Lucy Beatie,6-7,6,7,0,1,Completed,true,false,false
+UA012122,21 May 23,12,Elsternwick Park Blue,Aspendale,No. 4,Max Gordon,Rebecca Dowling,Max Gordon,6-1,6,1,1,0,Completed,true,false,false
+UA012301,,16,Tennis World,Elsternwick Park Blue,No. 1,Arthur Lussiana,Flynn Armstrong,Arthur Lussiana,6-1,6,1,1,0,Completed,true,false,false
+UA012301,,16,Tennis World,Elsternwick Park Blue,No. 2,Aditya Garg,Boston Newton,Aditya Garg,7-6,7,6,1,0,Completed,true,false,false
+UA012301,,16,Tennis World,Elsternwick Park Blue,No. 3,Sara Patil,Charlotte O'Brien,Sara Patil,6-3,6,3,1,0,Completed,true,false,false
+UA012301,,16,Tennis World,Elsternwick Park Blue,No. 4,Rafael Staa,Max Gordon,Rafael Staa,6-2,6,2,1,0,Completed,true,false,false
+UA012302,,16,Kooyong,St Louis de Mont,No. 1,Kayla Coster,Jackson Parker,Kayla Coster,6-4,6,4,1,0,Completed,true,false,false
+UA012302,,16,Kooyong,St Louis de Mont,No. 2,Cienna Ulas,Max Edwards,Max Edwards,4-6,4,6,0,1,Completed,true,false,false
+UA012302,,16,Kooyong,St Louis de Mont,No. 3,Will Morris,Jayden Demko,Will Morris,6-3,6,3,1,0,Completed,true,false,false
+UA012302,,16,Kooyong,St Louis de Mont,No. 4,Monty Bernadou,Daniel Waters,Daniel Waters,2-6,2,6,0,1,Completed,true,false,false
+UA012321,,17,Tennis World,St Louis de Mont,No. 1,Matthew Tong,Jackson Parker,Matthew Tong,6-0,6,0,1,0,Completed,true,false,false
+UA012321,,17,Tennis World,St Louis de Mont,No. 2,Aditya Garg,Max Edwards,Max Edwards,1-6,1,6,0,1,Completed,true,false,false
+UA012321,,17,Tennis World,St Louis de Mont,No. 3,Rafael Staa,Coby Meyers,Rafael Staa,6-2,6,2,1,0,Completed,true,false,false
+UA012321,,17,Tennis World,St Louis de Mont,No. 4,Arya Patil,Daniel Waters,Arya Patil,6-0,6,0,1,0,Completed,true,false,false

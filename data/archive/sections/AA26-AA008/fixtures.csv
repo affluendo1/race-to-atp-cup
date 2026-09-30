@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+AA008011,04 Feb 12,1,regular,Round 1,Ardrie Park 1,Ardrie Park 2,5,5,3,3,,,25,25,Completed,
+AA008012,04 Feb 12,1,regular,Round 1,Kooyong MLC 1,Kooyong MLC 2,9,1,5,1,,,32,21,Completed,
+AA008013,04 Feb 12,1,regular,Round 1,Carmelite 1,Carmelite 2,8,2,4,2,,,30,18,Completed,
+pending-aa008-r1-port-melbourne-bye,04 Feb 12,1,regular,Round 1,Port Melbourne,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008022,11 Feb 12,2,regular,Round 2,Ardrie Park 2,Kooyong MLC 1,8,2,4,2,,,30,22,Completed,
+AA008023,11 Feb 12,2,regular,Round 2,Kooyong MLC 2,Carmelite 1,9,1,5,1,,,34,15,Completed,
+AA008024,11 Feb 12,2,regular,Round 2,Carmelite 2,Port Melbourne,3,7,3,3,,,24,25,Completed,
+pending-aa008-r2-bye-ardrie-park-1,11 Feb 12,2,regular,Round 2,Bye,Ardrie Park 1,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008031,18 Feb 12,3,regular,Round 3,Ardrie Park 1,Carmelite 2,10,0,6,0,,,36,2,Completed,
+AA008033,18 Feb 12,3,regular,Round 3,Carmelite 1,Ardrie Park 2,0,10,0,6,,,9,36,Completed,
+AA008034,18 Feb 12,3,regular,Round 3,Port Melbourne,Kooyong MLC 2,0,10,0,6,,,17,36,Completed,
+pending-aa008-r3-kooyong-mlc-1-bye,18 Feb 12,3,regular,Round 3,Kooyong MLC 1,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008041,25 Feb 12,4,regular,Round 4,Kooyong MLC 2,Ardrie Park 1,0,10,0,6,,,11,36,Completed,
+AA008042,25 Feb 12,4,regular,Round 4,Carmelite 2,Kooyong MLC 1,1,9,1,5,,,13,36,Completed,
+AA008044,25 Feb 12,4,regular,Round 4,Ardrie Park 2,Port Melbourne,10,0,6,0,,,36,6,Completed,
+pending-aa008-r4-bye-carmelite-1,25 Feb 12,4,regular,Round 4,Bye,Carmelite 1,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008051,03 Mar 12,5,regular,Round 5,Carmelite 1,Port Melbourne,5.5,4.5,3,2,,,24,25,Completed,
+AA008053,03 Mar 12,5,regular,Round 5,Kooyong MLC 2,Ardrie Park 2,0,10,0,6,,,14,37,Completed,
+pending-aa008-r5-ardrie-park-1-kooyong-mlc-1,03 Mar 12,5,regular,Round 5,Ardrie Park 1,Kooyong MLC 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-aa008-r5-bye-carmelite-2,03 Mar 12,5,regular,Round 5,Bye,Carmelite 2,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008061,17 Mar 12,6,regular,Round 6,Kooyong MLC 1,Carmelite 1,3,7,3,3,,,19,25,Completed,
+AA008062,17 Mar 12,6,regular,Round 6,Port Melbourne,Ardrie Park 1,0,10,0,6,,,9,36,Completed,
+pending-aa008-r6-ardrie-park-2-bye,17 Mar 12,6,regular,Round 6,Ardrie Park 2,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-aa008-r6-carmelite-2-kooyong-mlc-2,17 Mar 12,6,regular,Round 6,Carmelite 2,Kooyong MLC 2,,,,,,,,,Forfeited To,No individual scorecard / no rubbers recorded
+AA008071,24 Mar 12,7,regular,Round 7,Ardrie Park 1,Carmelite 1,10,0,6,0,,,36,7,Completed,
+AA008072,24 Mar 12,7,regular,Round 7,Kooyong MLC 1,Port Melbourne,10,0,6,0,,,36,5,Completed,
+AA008074,24 Mar 12,7,regular,Round 7,Carmelite 2,Ardrie Park 2,0,16,0,6,,,0,36,Completed,
+pending-aa008-r7-bye-kooyong-mlc-2,24 Mar 12,7,regular,Round 7,Bye,Kooyong MLC 2,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008081,21 Apr 12,8,regular,Round 8,Ardrie Park 2,Ardrie Park 1,9,1,5,1,,,30,22,Completed,
+AA008082,21 Apr 12,8,regular,Round 8,Kooyong MLC 2,Kooyong MLC 1,5,5,3,3,,,24,24,Completed,
+AA008083,21 Apr 12,8,regular,Round 8,Carmelite 2,Carmelite 1,2,8,1,3,,,26,34,Completed,
+pending-aa008-r8-bye-port-melbourne,21 Apr 12,8,regular,Round 8,Bye,Port Melbourne,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008092,28 Apr 12,9,regular,Round 9,Kooyong MLC 1,Ardrie Park 2,7,3,3,3,,,26,22,Completed,
+AA008093,28 Apr 12,9,regular,Round 9,Carmelite 1,Kooyong MLC 2,0.5,9.5,0,5,,,12,36,Completed,
+AA008094,28 Apr 12,9,regular,Round 9,Port Melbourne,Carmelite 2,8,2,4,2,,,32,24,Completed,
+pending-aa008-r9-ardrie-park-1-bye,28 Apr 12,9,regular,Round 9,Ardrie Park 1,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008101,05 May 12,10,regular,Round 10,Carmelite 2,Ardrie Park 1,0,10,0,6,,,12,36,Completed,
+AA008103,05 May 12,10,regular,Round 10,Ardrie Park 2,Carmelite 1,10,0,6,0,,,36,5,Completed,
+AA008104,05 May 12,10,regular,Round 10,Kooyong MLC 2,Port Melbourne,8,2,4,2,,,37,24,Completed,
+pending-aa008-r10-bye-kooyong-mlc-1,05 May 12,10,regular,Round 10,Bye,Kooyong MLC 1,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008111,12 May 12,11,regular,Round 11,Ardrie Park 1,Kooyong MLC 2,10,0,6,0,,,36,12,Completed,
+AA008112,12 May 12,11,regular,Round 11,Kooyong MLC 1,Carmelite 2,10,0,6,0,,,36,5,Completed,
+AA008114,12 May 12,11,regular,Round 11,Port Melbourne,Ardrie Park 2,2,8,2,4,,,17,29,Completed,
+pending-aa008-r11-carmelite-1-bye,12 May 12,11,regular,Round 11,Carmelite 1,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008123,19 May 12,12,regular,Round 12,Ardrie Park 2,Kooyong MLC 2,6.5,3.5,3,0,,,22,5,Completed,
+AA008124,19 May 12,12,regular,Round 12,Kooyong MLC 1,Ardrie Park 1,4,6,0,2,,,14,18,Completed,
+pending-aa008-r12-carmelite-2-bye,19 May 12,12,regular,Round 12,Carmelite 2,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-aa008-r12-port-melbourne-carmelite-1,19 May 12,12,regular,Round 12,Port Melbourne,Carmelite 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+AA008131,26 May 12,13,regular,Round 13,Carmelite 1,Kooyong MLC 1,2,8,1,3,,,19,33,Completed,
+AA008133,26 May 12,13,regular,Round 13,Kooyong MLC 2,Carmelite 2,8,2,4,2,,,31,13,Completed,
+pending-aa008-r13-ardrie-park-1-port-melbourne,26 May 12,13,regular,Round 13,Ardrie Park 1,Port Melbourne,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+pending-aa008-r13-bye-ardrie-park-2,26 May 12,13,regular,Round 13,Bye,Ardrie Park 2,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008141,02 Jun 12,14,regular,Round 14,Carmelite 1,Ardrie Park 1,1,9,1,5,,,11,32,Completed,
+AA008142,02 Jun 12,14,regular,Round 14,Port Melbourne,Kooyong MLC 1,1,9,1,5,,,12,35,Completed,
+AA008144,02 Jun 12,14,regular,Round 14,Ardrie Park 2,Carmelite 2,10,0,6,0,,,36,9,Completed,
+pending-aa008-r14-kooyong-mlc-2-bye,02 Jun 12,14,regular,Round 14,Kooyong MLC 2,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008301,,16,semi_final,Semi-final,Ardrie Park 2,Kooyong MLC 2,-1,-1,6,0,,,38,19,Completed,
+AA008302,,16,semi_final,Semi-final,Ardrie Park 1,Kooyong MLC 1,2,8,2,4,,,31,35,Completed,
+AA008321,,17,grand_final,Grand final · TROLS entry 2,Ardrie Park 2,Kooyong MLC 1,8,2,4,2,,,28,18,Completed,

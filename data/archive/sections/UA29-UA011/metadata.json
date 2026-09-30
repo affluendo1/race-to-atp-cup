@@ -1,0 +1,67 @@
+{
+  "asset_id": "UA29-UA011",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2021",
+  "season_id": "UA29",
+  "season_label": "Spring 2021",
+  "source_section_code": "UA011",
+  "section_label": "Section 11",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Royal Ave",
+      "wins": 3,
+      "points": 46,
+      "percentage": 131.03,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Tennis World",
+      "wins": 2,
+      "points": 45,
+      "percentage": 131.43,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Maccabi",
+      "wins": 2,
+      "points": 40,
+      "percentage": 101.83,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 1,
+      "points": 37,
+      "percentage": 85.37,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal South Yarra",
+      "wins": 1,
+      "points": 32,
+      "percentage": 67.5,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA29-UA011",
+  "fixtures": 56,
+  "completed_fixtures": 9,
+  "draw_fixtures": 56,
+  "singles_rubbers": 36,
+  "doubles_rubbers": 18,
+  "latest_round": 14,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

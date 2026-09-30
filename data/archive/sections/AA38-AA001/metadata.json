@@ -1,0 +1,83 @@
+{
+  "asset_id": "AA38-AA001",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Spring 2016",
+  "season_id": "AA38",
+  "season_label": "Spring 2016",
+  "source_section_code": "AA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite 2",
+      "wins": 6,
+      "points": 52,
+      "percentage": 147.48,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Kooyong MLC1",
+      "wins": 5,
+      "points": 46,
+      "percentage": 161.4,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kooyong MLC2",
+      "wins": 5,
+      "points": 44,
+      "percentage": 126.42,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Carmelite 1",
+      "wins": 3,
+      "points": 36,
+      "percentage": 110.24,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Port Melbourne",
+      "wins": 3,
+      "points": 35,
+      "percentage": 114.62,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal South Yarra",
+      "wins": 1,
+      "points": 14,
+      "percentage": 52.42,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong MLC3",
+      "wins": 1,
+      "points": 13,
+      "percentage": 51.09,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA38-AA001",
+  "fixtures": 59,
+  "completed_fixtures": 40,
+  "draw_fixtures": 3,
+  "singles_rubbers": 160,
+  "doubles_rubbers": 80,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

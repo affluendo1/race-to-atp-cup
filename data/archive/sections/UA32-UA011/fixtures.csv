@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA011011,05 Feb 23,1,regular,Round 1,Royal South Yarra,St Pauls,2,8,2,4,,,27,31,Completed,
+UA011012,05 Feb 23,1,regular,Round 1,GPHC,Elsternwick Park Red,2,8,2,4,,,28,34,Completed,
+UA011013,05 Feb 23,1,regular,Round 1,Parkdale,Black Rock,7,3,3,3,,,32,24,Completed,
+UA011014,05 Feb 23,1,regular,Round 1,Glen Huntly,St Pats Mentone,2,8,2,4,,,19,32,Completed,
+UA011021,12 Feb 23,2,regular,Round 2,St Pats Mentone,Royal South Yarra,7,3,3,3,,,27,23,Completed,
+UA011022,12 Feb 23,2,regular,Round 2,St Pauls,GPHC,3,7,3,3,,,25,27,Completed,
+UA011023,12 Feb 23,2,regular,Round 2,Elsternwick Park Red,Parkdale,7,3,3,3,,,25,20,Completed,
+UA011024,12 Feb 23,2,regular,Round 2,Black Rock,Glen Huntly,1,9,1,5,,,19,35,Completed,
+UA011031,19 Feb 23,3,regular,Round 3,Royal South Yarra,Black Rock,8,2,4,2,,,30,29,Completed,
+UA011032,19 Feb 23,3,regular,Round 3,GPHC,St Pats Mentone,3,7,3,3,,,24,27,Completed,
+UA011033,19 Feb 23,3,regular,Round 3,Parkdale,St Pauls,9,1,5,1,,,34,20,Completed,
+UA011034,19 Feb 23,3,regular,Round 3,Glen Huntly,Elsternwick Park Red,9,1,5,1,,,37,16,Completed,
+UA011041,26 Feb 23,4,regular,Round 4,Elsternwick Park Red,Royal South Yarra,7,3,3,3,,,29,24,Completed,
+UA011042,26 Feb 23,4,regular,Round 4,Black Rock,GPHC,2,8,2,4,,,27,33,Completed,
+UA011043,26 Feb 23,4,regular,Round 4,St Pats Mentone,Parkdale,2,8,2,4,,,28,29,Completed,
+UA011044,26 Feb 23,4,regular,Round 4,St Pauls,Glen Huntly,7,3,3,3,,,27,24,Completed,
+UA011051,05 Mar 23,5,regular,Round 5,Parkdale,Glen Huntly,3,7,3,3,,,29,33,Completed,
+UA011052,05 Mar 23,5,regular,Round 5,St Pats Mentone,Black Rock,10,0,6,0,,,37,19,Completed,
+UA011053,05 Mar 23,5,regular,Round 5,Elsternwick Park Red,St Pauls,1,9,1,5,,,17,33,Completed,
+UA011054,05 Mar 23,5,regular,Round 5,Royal South Yarra,GPHC,2,8,2,4,,,21,36,Completed,
+UA011061,19 Mar 23,6,regular,Round 6,GPHC,Parkdale,2,8,2,4,,,26,32,Completed,
+UA011062,19 Mar 23,6,regular,Round 6,Glen Huntly,Royal South Yarra,8,2,4,2,,,32,23,Completed,
+UA011063,19 Mar 23,6,regular,Round 6,Black Rock,Elsternwick Park Red,0,10,0,6,,,20,37,Completed,
+UA011064,19 Mar 23,6,regular,Round 6,St Pauls,St Pats Mentone,3,7,3,3,,,25,32,Completed,
+UA011071,26 Mar 23,7,regular,Round 7,Royal South Yarra,Parkdale,9,1,5,1,,,37,29,Completed,
+UA011072,26 Mar 23,7,regular,Round 7,GPHC,Glen Huntly,7,3,3,3,,,30,26,Completed,
+UA011073,26 Mar 23,7,regular,Round 7,St Pats Mentone,Elsternwick Park Red,8,2,4,2,,,30,25,Completed,
+UA011074,26 Mar 23,7,regular,Round 7,Black Rock,St Pauls,0,10,0,6,,,16,37,Completed,
+UA011081,02 Apr 23,8,regular,Round 8,St Pauls,Royal South Yarra,8,2,4,2,,,34,19,Completed,
+UA011082,02 Apr 23,8,regular,Round 8,Elsternwick Park Red,GPHC,9,1,5,1,,,34,22,Completed,
+UA011083,02 Apr 23,8,regular,Round 8,Black Rock,Parkdale,0,10,0,6,,,10,36,Completed,
+UA011084,02 Apr 23,8,regular,Round 8,St Pats Mentone,Glen Huntly,8,2,4,2,,,31,20,Completed,
+UA011091,30 Apr 23,9,regular,Round 9,Royal South Yarra,St Pats Mentone,3,7,3,3,,,27,29,Completed,
+UA011092,30 Apr 23,9,regular,Round 9,GPHC,St Pauls,3,7,3,3,,,23,27,Completed,
+UA011093,30 Apr 23,9,regular,Round 9,Parkdale,Elsternwick Park Red,7,3,3,3,,,30,23,Completed,
+UA011094,30 Apr 23,9,regular,Round 9,Glen Huntly,Black Rock,2,8,2,4,,,21,32,Completed,
+pending-ua011-r10-black-rock-royal-south-yarra,07 May 23,10,regular,Round 10,Black Rock,Royal South Yarra,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+pending-ua011-r10-elsternwick-park-red-glen-huntly,07 May 23,10,regular,Round 10,Elsternwick Park Red,Glen Huntly,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua011-r10-st-pats-mentone-gphc,07 May 23,10,regular,Round 10,St Pats Mentone,GPHC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua011-r10-st-pauls-parkdale,07 May 23,10,regular,Round 10,St Pauls,Parkdale,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA011111,14 May 23,11,regular,Round 11,Royal South Yarra,Elsternwick Park Red,3,7,3,3,,,28,30,Completed,
+UA011112,14 May 23,11,regular,Round 11,GPHC,Black Rock,8,2,4,2,,,34,24,Completed,
+UA011113,14 May 23,11,regular,Round 11,Parkdale,St Pats Mentone,3,7,3,3,,,19,23,Completed,
+UA011114,14 May 23,11,regular,Round 11,Glen Huntly,St Pauls,9,1,5,1,,,35,17,Completed,
+UA011121,21 May 23,12,regular,Round 12,Glen Huntly,Parkdale,7,3,3,3,,,32,22,Completed,
+pending-ua011-r12-black-rock-st-pats-mentone,21 May 23,12,regular,Round 12,Black Rock,St Pats Mentone,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua011-r12-gphc-royal-south-yarra,21 May 23,12,regular,Round 12,GPHC,Royal South Yarra,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua011-r12-st-pauls-elsternwick-park-red,21 May 23,12,regular,Round 12,St Pauls,Elsternwick Park Red,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua011-r13-elsternwick-park-red-black-rock,28 May 23,13,regular,Round 13,Elsternwick Park Red,Black Rock,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua011-r13-parkdale-gphc,28 May 23,13,regular,Round 13,Parkdale,GPHC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua011-r13-royal-south-yarra-glen-huntly,28 May 23,13,regular,Round 13,Royal South Yarra,Glen Huntly,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua011-r13-st-pats-mentone-st-pauls,28 May 23,13,regular,Round 13,St Pats Mentone,St Pauls,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA011301,,16,semi_final,Semi-final,St Pats Mentone,Glen Huntly,3,7,3,3,,,23,32,Completed,
+UA011302,,16,semi_final,Semi-final,Parkdale,St Pauls,1,9,1,5,,,21,36,Completed,
+UA011321,,17,grand_final,Grand final · TROLS entry 2,St Pauls,Glen Huntly,9,1,5,1,,,34,20,Completed,

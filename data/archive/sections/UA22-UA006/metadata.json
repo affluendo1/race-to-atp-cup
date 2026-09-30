@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA22-UA006",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA006",
+  "section_label": "Section 6",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC",
+      "wins": 11,
+      "points": 101,
+      "percentage": 143.79,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Murrumbeena",
+      "wins": 7,
+      "points": 95,
+      "percentage": 143.51,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Tennis World MP",
+      "wins": 7,
+      "points": 81,
+      "percentage": 122.12,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Carmelite",
+      "wins": 6,
+      "points": 75,
+      "percentage": 113.17,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park 1",
+      "wins": 7,
+      "points": 74,
+      "percentage": 97.05,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park 2",
+      "wins": 6,
+      "points": 66,
+      "percentage": 98.41,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 6,
+      "points": 63,
+      "percentage": 97.63,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hurlingham Park",
+      "wins": 0,
+      "points": 5,
+      "percentage": 31.2,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA006",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 229,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

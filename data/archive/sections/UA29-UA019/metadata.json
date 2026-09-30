@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA29-UA019",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2021",
+  "season_id": "UA29",
+  "season_label": "Spring 2021",
+  "source_section_code": "UA019",
+  "section_label": "Section 19",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC",
+      "wins": 5,
+      "points": 84,
+      "percentage": 263.16,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "St Pauls",
+      "wins": 4,
+      "points": 70,
+      "percentage": 160.0,
+      "marker": "*"
+    },
+    {
+      "position": 3,
+      "team": "St Louis de Mont",
+      "wins": 4,
+      "points": 66,
+      "percentage": 125.37,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Parkdale",
+      "wins": 2,
+      "points": 55,
+      "percentage": 78.68,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Highett",
+      "wins": 2,
+      "points": 54,
+      "percentage": 85.55,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Glen Huntly",
+      "wins": 1,
+      "points": 45,
+      "percentage": 71.13,
+      "marker": "*"
+    },
+    {
+      "position": 7,
+      "team": "Le Page",
+      "wins": 0,
+      "points": 36,
+      "percentage": 45.05,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA29-UA019",
+  "fixtures": 56,
+  "completed_fixtures": 18,
+  "draw_fixtures": 56,
+  "singles_rubbers": 72,
+  "doubles_rubbers": 36,
+  "latest_round": 14,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

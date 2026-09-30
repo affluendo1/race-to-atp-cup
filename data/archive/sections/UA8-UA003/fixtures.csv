@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA003011,06 Feb 11,1,regular,Round 1,Port Melbourne,Mentone,9,1,5,1,,,32,16,Completed,
+UA003012,06 Feb 11,1,regular,Round 1,Hampton,Mordialloc,8,2,4,2,,,27,25,Completed,
+UA003013,06 Feb 11,1,regular,Round 1,Tennis World,Maccabi,5,5,2,2,,,22,22,Completed,
+UA003014,06 Feb 11,1,regular,Round 1,Kooyong Scotch,Bodley Tennis Plus,2,8,2,4,,,28,28,Completed,
+UA003021,13 Feb 11,2,regular,Round 2,Bodley Tennis Plus,Port Melbourne,1,9,1,5,,,17,32,Completed,
+UA003022,13 Feb 11,2,regular,Round 2,Mentone,Hampton,3,7,3,3,,,27,28,Completed,
+UA003023,13 Feb 11,2,regular,Round 2,Mordialloc,Tennis World,2,8,2,4,,,22,29,Completed,
+UA003024,13 Feb 11,2,regular,Round 2,Maccabi,Kooyong Scotch,2,8,2,4,,,19,30,Completed,
+UA003031,20 Feb 11,3,regular,Round 3,Port Melbourne,Maccabi,9,1,5,1,,,35,15,Completed,
+UA003032,20 Feb 11,3,regular,Round 3,Hampton,Bodley Tennis Plus,5,5,2,2,,,23,28,Completed,
+UA003033,20 Feb 11,3,regular,Round 3,Tennis World,Mentone,5.5,4.5,2,1,,,23,11,Completed,
+UA003034,20 Feb 11,3,regular,Round 3,Kooyong Scotch,Mordialloc,1,9,1,5,,,23,34,Completed,
+pending-ua003-r4-bodley-tennis-plus-tennis-world,27 Feb 11,4,regular,Round 4,Bodley Tennis Plus,Tennis World,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua003-r4-maccabi-hampton,27 Feb 11,4,regular,Round 4,Maccabi,Hampton,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua003-r4-mentone-kooyong-scotch,27 Feb 11,4,regular,Round 4,Mentone,Kooyong Scotch,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua003-r4-mordialloc-port-melbourne,27 Feb 11,4,regular,Round 4,Mordialloc,Port Melbourne,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA003051,06 Mar 11,5,regular,Round 5,Tennis World,Kooyong Scotch,8,2,4,2,,,32,21,Completed,
+UA003052,06 Mar 11,5,regular,Round 5,Bodley Tennis Plus,Maccabi,9,1,5,1,,,36,18,Completed,
+UA003053,06 Mar 11,5,regular,Round 5,Mordialloc,Mentone,8,2,4,2,,,34,27,Completed,
+UA003054,06 Mar 11,5,regular,Round 5,Port Melbourne,Hampton,7,3,3,3,,,28,23,Completed,
+UA003061,20 Mar 11,6,regular,Round 6,Hampton,Tennis World,1,9,1,5,,,21,35,Completed,
+UA003062,20 Mar 11,6,regular,Round 6,Kooyong Scotch,Port Melbourne,8,2,4,2,,,30,20,Completed,
+UA003063,20 Mar 11,6,regular,Round 6,Maccabi,Mordialloc,3,7,3,3,,,21,22,Completed,
+UA003064,20 Mar 11,6,regular,Round 6,Mentone,Bodley Tennis Plus,7,3,3,3,,,29,27,Completed,
+UA003071,27 Mar 11,7,regular,Round 7,Port Melbourne,Tennis World,2,8,2,4,,,22,30,Completed,
+UA003072,27 Mar 11,7,regular,Round 7,Hampton,Kooyong Scotch,8,2,4,2,,,29,18,Completed,
+UA003073,27 Mar 11,7,regular,Round 7,Bodley Tennis Plus,Mordialloc,1,9,1,5,,,22,37,Completed,
+UA003074,27 Mar 11,7,regular,Round 7,Maccabi,Mentone,2,8,2,4,,,22,34,Completed,
+UA003082,08 Apr 11,8,regular,Round 8,Mordialloc,Hampton,8,2,4,2,,,28,21,Completed,
+UA003084,08 Apr 11,8,regular,Round 8,Bodley Tennis Plus,Kooyong Scotch,2,8,2,4,,,22,33,Completed,
+pending-ua003-r8-maccabi-tennis-world,08 Apr 11,8,regular,Round 8,Maccabi,Tennis World,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+pending-ua003-r8-mentone-port-melbourne,08 Apr 11,8,regular,Round 8,Mentone,Port Melbourne,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA003091,01 May 11,9,regular,Round 9,Port Melbourne,Bodley Tennis Plus,7,3,3,3,,,30,27,Completed,
+UA003092,01 May 11,9,regular,Round 9,Hampton,Mentone,7,3,3,3,,,29,28,Completed,
+UA003093,01 May 11,9,regular,Round 9,Tennis World,Mordialloc,3,7,3,3,,,20,23,Completed,
+pending-ua003-r9-kooyong-scotch-maccabi,01 May 11,9,regular,Round 9,Kooyong Scotch,Maccabi,,,,,,,,,Forfeited To,No individual scorecard / no rubbers recorded
+UA003101,08 May 11,10,regular,Round 10,Maccabi,Port Melbourne,10,0,6,0,,,36,13,Completed,
+UA003102,08 May 11,10,regular,Round 10,Bodley Tennis Plus,Hampton,8,2,4,2,,,25,21,Completed,
+UA003103,08 May 11,10,regular,Round 10,Mentone,Tennis World,8,2,4,2,,,30,14,Completed,
+UA003104,08 May 11,10,regular,Round 10,Mordialloc,Kooyong Scotch,9,1,5,1,,,32,18,Completed,
+UA003111,15 May 11,11,regular,Round 11,Port Melbourne,Mordialloc,3,7,3,3,,,23,26,Completed,
+UA003113,15 May 11,11,regular,Round 11,Tennis World,Bodley Tennis Plus,2,8,2,4,,,20,31,Completed,
+UA003114,15 May 11,11,regular,Round 11,Kooyong Scotch,Mentone,8,2,4,2,,,35,23,Completed,
+pending-ua003-r11-hampton-maccabi,15 May 11,11,regular,Round 11,Hampton,Maccabi,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA003121,22 May 11,12,regular,Round 12,Kooyong Scotch,Tennis World,3,7,3,3,,,24,26,Completed,
+UA003123,22 May 11,12,regular,Round 12,Mentone,Mordialloc,3,7,3,3,,,28,31,Completed,
+UA003124,22 May 11,12,regular,Round 12,Hampton,Port Melbourne,8,2,4,2,,,28,22,Completed,
+pending-ua003-r12-maccabi-bodley-tennis-plus,22 May 11,12,regular,Round 12,Maccabi,Bodley Tennis Plus,,,,,,,,,Forfeited To,No individual scorecard / no rubbers recorded
+UA003131,29 May 11,13,regular,Round 13,Tennis World,Hampton,2,8,2,4,,,15,31,Completed,
+UA003132,29 May 11,13,regular,Round 13,Port Melbourne,Kooyong Scotch,8,2,4,2,,,29,23,Completed,
+UA003134,29 May 11,13,regular,Round 13,Bodley Tennis Plus,Mentone,2,8,2,4,,,26,35,Completed,
+pending-ua003-r13-mordialloc-maccabi,29 May 11,13,regular,Round 13,Mordialloc,Maccabi,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA003141,05 Jun 11,14,regular,Round 14,Tennis World,Port Melbourne,2,8,2,4,,,13,24,Completed,
+UA003142,05 Jun 11,14,regular,Round 14,Kooyong Scotch,Hampton,1,9,1,5,,,11,30,Completed,
+UA003143,05 Jun 11,14,regular,Round 14,Mordialloc,Bodley Tennis Plus,8,2,4,2,,,31,27,Completed,
+UA003144,05 Jun 11,14,regular,Round 14,Mentone,Maccabi,8,2,4,2,,,30,23,Completed,
+UA003301,,16,semi_final,Semi-final,Mordialloc,Port Melbourne,3,7,3,3,,,24,27,Completed,
+UA003302,,16,semi_final,Semi-final,Hampton,Mentone,8,2,4,2,,,29,19,Completed,
+UA003321,,17,grand_final,Grand final · TROLS entry 2,Hampton,Port Melbourne,2,8,2,4,,,19,32,Completed,

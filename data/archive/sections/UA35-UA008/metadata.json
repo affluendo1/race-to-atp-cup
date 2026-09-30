@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA35-UA008",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2024",
+  "season_id": "UA35",
+  "season_label": "Spring 2024",
+  "source_section_code": "UA008",
+  "section_label": "Section 8",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC Blue",
+      "wins": 12,
+      "points": 113,
+      "percentage": 175.86,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Tennis World",
+      "wins": 10,
+      "points": 98,
+      "percentage": 131.27,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "GPHC Blue",
+      "wins": 9,
+      "points": 88,
+      "percentage": 120.61,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Hampton",
+      "wins": 8,
+      "points": 81,
+      "percentage": 109.35,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Carmelite",
+      "wins": 7,
+      "points": 59,
+      "percentage": 86.1,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong",
+      "wins": 4,
+      "points": 55,
+      "percentage": 88.4,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC Yellow",
+      "wins": 4,
+      "points": 44,
+      "percentage": 77.72,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Mentone",
+      "wins": 0,
+      "points": 16,
+      "percentage": 56.03,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA35-UA008",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 59,
+  "singles_rubbers": 227,
+  "doubles_rubbers": 113,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

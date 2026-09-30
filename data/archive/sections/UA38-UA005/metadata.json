@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA38-UA005",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2026",
+  "season_id": "UA38",
+  "season_label": "Autumn 2026",
+  "source_section_code": "UA005",
+  "section_label": "Sets 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Murrumbeena",
+      "wins": 9,
+      "points": 91,
+      "percentage": 128.76,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Kooyong",
+      "wins": 7,
+      "points": 84,
+      "percentage": 114.33,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "FCTC",
+      "wins": 8,
+      "points": 81,
+      "percentage": 115.51,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Glen Huntly",
+      "wins": 7,
+      "points": 80,
+      "percentage": 115.67,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 6,
+      "points": 71,
+      "percentage": 96.06,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave",
+      "wins": 6,
+      "points": 70,
+      "percentage": 103.98,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC Blue",
+      "wins": 3,
+      "points": 48,
+      "percentage": 75.46,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC Yellow",
+      "wins": 1,
+      "points": 35,
+      "percentage": 66.15,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA38-UA005",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 59,
+  "singles_rubbers": 204,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

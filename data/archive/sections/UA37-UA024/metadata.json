@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA37-UA024",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2025",
+  "season_id": "UA37",
+  "season_label": "Spring 2025",
+  "source_section_code": "UA024",
+  "section_label": "Section 24 Green",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Mentone Gold",
+      "wins": 10,
+      "points": 104,
+      "percentage": 185.71,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Mentone Yellow",
+      "wins": 11,
+      "points": 104,
+      "percentage": 154.12,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Victory Park",
+      "wins": 9,
+      "points": 102,
+      "percentage": 177.6,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC White",
+      "wins": 5,
+      "points": 70,
+      "percentage": 97.92,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Tennis World",
+      "wins": 5,
+      "points": 63,
+      "percentage": 93.11,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC Blue",
+      "wins": 3,
+      "points": 42,
+      "percentage": 69.31,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Lauriston",
+      "wins": 3,
+      "points": 38,
+      "percentage": 55.0,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal South Yarra",
+      "wins": 2,
+      "points": 37,
+      "percentage": 59.89,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA37-UA024",
+  "fixtures": 59,
+  "completed_fixtures": 49,
+  "draw_fixtures": 45,
+  "singles_rubbers": 196,
+  "doubles_rubbers": 98,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

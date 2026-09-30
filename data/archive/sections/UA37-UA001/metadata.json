@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA37-UA001",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2025",
+  "season_id": "UA37",
+  "season_label": "Spring 2025",
+  "source_section_code": "UA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC White",
+      "wins": 10,
+      "points": 104,
+      "percentage": 176.44,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "BLTC Blue",
+      "wins": 9,
+      "points": 94,
+      "percentage": 141.92,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "BLTC Red",
+      "wins": 8,
+      "points": 84,
+      "percentage": 117.79,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Glen Huntly",
+      "wins": 6,
+      "points": 74,
+      "percentage": 107.72,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Black Rock",
+      "wins": 3,
+      "points": 55,
+      "percentage": 81.04,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Highmoor Uniting",
+      "wins": 3,
+      "points": 54,
+      "percentage": 73.01,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra",
+      "wins": 2,
+      "points": 50,
+      "percentage": 85.3,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Carmelite",
+      "wins": 3,
+      "points": 45,
+      "percentage": 59.71,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA37-UA001",
+  "fixtures": 59,
+  "completed_fixtures": 49,
+  "draw_fixtures": 59,
+  "singles_rubbers": 196,
+  "doubles_rubbers": 98,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

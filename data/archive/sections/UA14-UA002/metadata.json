@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA14-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2014",
+  "season_id": "UA14",
+  "season_label": "Autumn 2014",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Beaumaris CC",
+      "wins": 12,
+      "points": 105,
+      "percentage": 135.62,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Bodley Tennis Plus",
+      "wins": 11,
+      "points": 99,
+      "percentage": 126.6,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "GPHC 1",
+      "wins": 8,
+      "points": 84.5,
+      "percentage": 119.51,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Mordialloc",
+      "wins": 6,
+      "points": 75,
+      "percentage": 121.62,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC 2",
+      "wins": 7,
+      "points": 72,
+      "percentage": 106.63,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal South Yarra",
+      "wins": 4,
+      "points": 60.5,
+      "percentage": 86.76,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Glen Eira Brook",
+      "wins": 0,
+      "points": 33,
+      "percentage": 61.99,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "BLTC",
+      "wins": 1,
+      "points": 31,
+      "percentage": 63.01,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA14-UA002",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 210,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

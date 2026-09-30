@@ -1,0 +1,168 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA001011,31 Jan 21,1,Elsternwick Park,Royal South Yarra,No. 1,Roch Dargan,Sascha Tausan,Roch Dargan,7-6,7,6,1,0,Completed,true,false,false
+UA001011,31 Jan 21,1,Elsternwick Park,Royal South Yarra,No. 2,Lachie Zuker,Darcy Albert,Lachie Zuker,6-0,6,0,1,0,Completed,true,false,false
+UA001011,31 Jan 21,1,Elsternwick Park,Royal South Yarra,No. 3,Gil Kras,Thomas Wenzel,Thomas Wenzel,0-6,0,6,0,1,Completed,true,false,false
+UA001011,31 Jan 21,1,Elsternwick Park,Royal South Yarra,No. 4,Joe Barr,Sam Lidstone,Joe Barr,6-3,6,3,1,0,Completed,true,false,false
+UA001012,31 Jan 21,1,Royal Ave,BLTC,No. 1,Conor Mooney,Hayden Heng,Hayden Heng,1-6,1,6,0,1,Completed,true,false,false
+UA001012,31 Jan 21,1,Royal Ave,BLTC,No. 2,Allegra Dureau,Archie Barrie,Archie Barrie,0-6,0,6,0,1,Completed,true,false,false
+UA001012,31 Jan 21,1,Royal Ave,BLTC,No. 3,Sam McCann,Olivia Moir,Olivia Moir,0-6,0,6,0,1,Completed,true,false,false
+UA001012,31 Jan 21,1,Royal Ave,BLTC,No. 4,Presley Evans,Sophie Christie,Sophie Christie,4-6,4,6,0,1,Completed,true,false,false
+UA001013,31 Jan 21,1,Tennis World,Dendy Park 1,No. 1,Justin Pirie,Andreas Tanti,Justin Pirie,6-2,6,2,1,0,Completed,true,false,false
+UA001013,31 Jan 21,1,Tennis World,Dendy Park 1,No. 2,Nicolo Nardari,Daniel Whitson,Nicolo Nardari,6-0,6,0,1,0,Completed,true,false,false
+UA001013,31 Jan 21,1,Tennis World,Dendy Park 1,No. 3,Stefan Desovski,Jonathon Henquin,Jonathon Henquin,4-6,4,6,0,1,Completed,true,false,false
+UA001013,31 Jan 21,1,Tennis World,Dendy Park 1,No. 4,Tristan Duffin,Korben Brough,Tristan Duffin,6-2,6,2,1,0,Completed,true,true,false
+UA001014,31 Jan 21,1,Dendy Park 2,GPHC,No. 1,Henri Robinson,Louis Taylor,Henri Robinson,6-3,6,3,1,0,Completed,true,false,false
+UA001014,31 Jan 21,1,Dendy Park 2,GPHC,No. 2,Christian Karatzas,Rohan Chalisgaonkar,Rohan Chalisgaonkar,0-6,0,6,0,1,Completed,true,false,false
+UA001014,31 Jan 21,1,Dendy Park 2,GPHC,No. 3,Damien Hookway,Xavier Aitken,Damien Hookway,6-3,6,3,1,0,Completed,true,false,false
+UA001014,31 Jan 21,1,Dendy Park 2,GPHC,No. 4,Lachlan Liberman,Luca Bond,Luca Bond,0-6,0,6,0,1,Completed,true,false,true
+UA001023,07 Feb 21,2,BLTC,Tennis World,No. 1,Archie Barrie,Justin Pirie,Archie Barrie,6-0,6,0,1,0,Completed,true,false,false
+UA001023,07 Feb 21,2,BLTC,Tennis World,No. 2,Olivia Moir,Nicolo Nardari,Nicolo Nardari,1-6,1,6,0,1,Completed,true,false,false
+UA001023,07 Feb 21,2,BLTC,Tennis World,No. 3,Sophie Christie,Stefan Desovski,Stefan Desovski,5-7,5,7,0,1,Completed,true,false,false
+UA001023,07 Feb 21,2,BLTC,Tennis World,No. 4,Lachlan Christie,Tristan Duffin,Tristan Duffin,2-6,2,6,0,1,Completed,true,true,true
+UA001024,07 Feb 21,2,Dendy Park 1,Dendy Park 2,No. 1,Andreas Tanti,Henri Robinson,Andreas Tanti,6-1,6,1,1,0,Completed,true,false,false
+UA001024,07 Feb 21,2,Dendy Park 1,Dendy Park 2,No. 2,Daniel Whitson,Christian Karatzas,Daniel Whitson,6-3,6,3,1,0,Completed,true,false,false
+UA001024,07 Feb 21,2,Dendy Park 1,Dendy Park 2,No. 3,Korben Brough,Damien Hookway,Damien Hookway,4-6,4,6,0,1,Completed,true,false,false
+UA001024,07 Feb 21,2,Dendy Park 1,Dendy Park 2,No. 4,Jackson Mullaly,Tom Stein,Jackson Mullaly,6-1,6,1,1,0,Completed,true,false,false
+UA001041,21 Feb 21,4,BLTC,Elsternwick Park,No. 1,Hayden Heng,Roch Dargan,Hayden Heng,6-1,6,1,1,0,Completed,true,false,false
+UA001041,21 Feb 21,4,BLTC,Elsternwick Park,No. 2,Archie Barrie,Lachie Zuker,Archie Barrie,6-1,6,1,1,0,Completed,true,false,false
+UA001041,21 Feb 21,4,BLTC,Elsternwick Park,No. 3,Olivia Moir,Joe Barr,Olivia Moir,6-2,6,2,1,0,Completed,true,false,false
+UA001041,21 Feb 21,4,BLTC,Elsternwick Park,No. 4,Nathanial Hall,Gil Kras,Gil Kras,4-6,4,6,0,1,Completed,true,false,false
+UA001042,21 Feb 21,4,Dendy Park 1,Royal Ave,No. 1,Daniel Whitson,Conor Mooney,Conor Mooney,2-6,2,6,0,1,Completed,true,false,false
+UA001042,21 Feb 21,4,Dendy Park 1,Royal Ave,No. 2,Jonathon Henquin,Allegra Dureau,Jonathon Henquin,7-5,7,5,1,0,Completed,true,false,false
+UA001042,21 Feb 21,4,Dendy Park 1,Royal Ave,No. 3,Korben Brough,Sam McCann,Korben Brough,6-1,6,1,1,0,Completed,true,false,false
+UA001042,21 Feb 21,4,Dendy Park 1,Royal Ave,No. 4,Ashley Small,Presley Evans,Presley Evans,4-6,4,6,0,1,Completed,true,false,false
+UA001043,21 Feb 21,4,GPHC,Tennis World,No. 1,Louis Taylor,Justin Pirie,Justin Pirie,3-6,3,6,0,1,Completed,true,false,false
+UA001043,21 Feb 21,4,GPHC,Tennis World,No. 2,Rohan Chalisgaonkar,Nicolo Nardari,Nicolo Nardari,3-6,3,6,0,1,Completed,true,false,false
+UA001043,21 Feb 21,4,GPHC,Tennis World,No. 3,Xavier Aitken,Stefan Desovski,Stefan Desovski,0-6,0,6,0,1,Completed,true,false,false
+UA001043,21 Feb 21,4,GPHC,Tennis World,No. 4,Luca Bond,Tristan Duffin,Luca Bond,6-3,6,3,1,0,Completed,true,true,true
+UA001044,21 Feb 21,4,Royal South Yarra,Dendy Park 2,No. 1,Darcy Albert,Henri Robinson,Henri Robinson,4-6,4,6,0,1,Completed,true,false,false
+UA001044,21 Feb 21,4,Royal South Yarra,Dendy Park 2,No. 2,James Ollerenshaw,Christian Karatzas,Christian Karatzas,5-7,5,7,0,1,Completed,true,false,false
+UA001044,21 Feb 21,4,Royal South Yarra,Dendy Park 2,No. 3,Thomas Wenzel,Damien Hookway,Thomas Wenzel,7-5,7,5,1,0,Completed,true,false,false
+UA001044,21 Feb 21,4,Royal South Yarra,Dendy Park 2,No. 4,Sam Lidstone,Tom Stein,Tom Stein,1-6,1,6,0,1,Completed,true,false,false
+UA001051,28 Feb 21,5,Tennis World,Dendy Park 2,No. 1,Justin Pirie,Christian Karatzas,Justin Pirie,6-2,6,2,1,0,Completed,true,false,false
+UA001051,28 Feb 21,5,Tennis World,Dendy Park 2,No. 2,Stefan Desovski,Damien Hookway,Stefan Desovski,6-2,6,2,1,0,Completed,true,false,false
+UA001051,28 Feb 21,5,Tennis World,Dendy Park 2,No. 3,Flip Milos,Lachlan Liberman,Flip Milos,6-2,6,2,1,0,Completed,true,true,false
+UA001051,28 Feb 21,5,Tennis World,Dendy Park 2,No. 4,Max Eissmann,Tom Stein,Tom Stein,1-6,1,6,0,1,Completed,true,true,false
+UA001052,28 Feb 21,5,GPHC,Dendy Park 1,No. 1,Louis Taylor,Andreas Tanti,Louis Taylor,6-3,6,3,1,0,Completed,true,false,false
+UA001052,28 Feb 21,5,GPHC,Dendy Park 1,No. 2,Rohan Chalisgaonkar,Daniel Whitson,Daniel Whitson,6-7,6,7,0,1,Completed,true,false,false
+UA001052,28 Feb 21,5,GPHC,Dendy Park 1,No. 3,Jack Saville,Jackson Mullaly,Jackson Mullaly,4-6,4,6,0,1,Completed,true,true,false
+UA001052,28 Feb 21,5,GPHC,Dendy Park 1,No. 4,Xavier Aitken,Ashley Small,Xavier Aitken,7-5,7,5,1,0,Completed,true,false,false
+UA001053,28 Feb 21,5,BLTC,Royal South Yarra,No. 1,Hayden Heng,Toby Ralph,Hayden Heng,6-0,6,0,1,0,Completed,true,false,false
+UA001053,28 Feb 21,5,BLTC,Royal South Yarra,No. 2,Archie Barrie,Sascha Tausan,Archie Barrie,6-1,6,1,1,0,Completed,true,false,false
+UA001053,28 Feb 21,5,BLTC,Royal South Yarra,No. 3,Sophie Christie,James Ollerenshaw,Sophie Christie,6-3,6,3,1,0,Completed,true,false,false
+UA001053,28 Feb 21,5,BLTC,Royal South Yarra,No. 4,Nathanial Hall,Thomas Wenzel,Thomas Wenzel,2-6,2,6,0,1,Completed,true,false,false
+UA001054,28 Feb 21,5,Elsternwick Park,Royal Ave,No. 1,Raphael Schwalb,Conor Mooney,Raphael Schwalb,6-4,6,4,1,0,Completed,true,false,false
+UA001054,28 Feb 21,5,Elsternwick Park,Royal Ave,No. 2,Lachie Zuker,Sam McCann,Lachie Zuker,6-0,6,0,1,0,Completed,true,false,false
+UA001054,28 Feb 21,5,Elsternwick Park,Royal Ave,No. 3,Nicole Bennett,Presley Evans,Nicole Bennett,6-0,6,0,1,0,Completed,true,false,false
+UA001054,28 Feb 21,5,Elsternwick Park,Royal Ave,No. 4,Joe Barr,Leo Wang,Joe Barr,6-0,6,0,1,0,Completed,true,false,true
+UA001061,14 Mar 21,6,Royal Ave,Tennis World,No. 1,Conor Mooney,Justin Pirie,Justin Pirie,3-6,3,6,0,1,Completed,true,false,false
+UA001061,14 Mar 21,6,Royal Ave,Tennis World,No. 2,Allegra Dureau,Nicolo Nardari,Nicolo Nardari,2-6,2,6,0,1,Completed,true,false,false
+UA001061,14 Mar 21,6,Royal Ave,Tennis World,No. 3,Presley Evans,Stefan Desovski,Stefan Desovski,0-6,0,6,0,1,Completed,true,false,false
+UA001061,14 Mar 21,6,Royal Ave,Tennis World,No. 4,Sam McCann,Hudson Hopman,Sam McCann,6-1,6,1,1,0,Completed,true,false,false
+UA001064,14 Mar 21,6,Royal South Yarra,GPHC,No. 1,Sascha Tausan,Rohan Chalisgaonkar,Rohan Chalisgaonkar,6-7,6,7,0,1,Completed,true,false,false
+UA001064,14 Mar 21,6,Royal South Yarra,GPHC,No. 2,Darcy Albert,Xavier Aitken,Xavier Aitken,3-6,3,6,0,1,Completed,true,false,false
+UA001064,14 Mar 21,6,Royal South Yarra,GPHC,No. 3,James Ollerenshaw,Thomas Auld,James Ollerenshaw,6-2,6,2,1,0,Completed,true,false,true
+UA001064,14 Mar 21,6,Royal South Yarra,GPHC,No. 4,James Strapp,Luca Bond,Luca Bond,2-6,2,6,0,1,Completed,true,true,true
+UA001071,21 Mar 21,7,Elsternwick Park,Tennis World,No. 1,Roch Dargan,Justin Pirie,Roch Dargan,6-1,6,1,1,0,Completed,true,false,false
+UA001071,21 Mar 21,7,Elsternwick Park,Tennis World,No. 2,Lachie Zuker,Nicolo Nardari,Nicolo Nardari,5-7,5,7,0,1,Completed,true,false,false
+UA001071,21 Mar 21,7,Elsternwick Park,Tennis World,No. 3,Raphael Schwalb,Sebastian Liddle,Sebastian Liddle,0-6,0,6,0,1,Completed,true,false,true
+UA001071,21 Mar 21,7,Elsternwick Park,Tennis World,No. 4,Joe Barr,Stefan Desovski,Stefan Desovski,5-7,5,7,0,1,Completed,true,false,false
+UA001072,21 Mar 21,7,Royal Ave,Dendy Park 2,No. 1,Conor Mooney,Henri Robinson,Henri Robinson,6-7,6,7,0,1,Completed,true,false,false
+UA001072,21 Mar 21,7,Royal Ave,Dendy Park 2,No. 2,Allegra Dureau,Christian Karatzas,Christian Karatzas,6-7,6,7,0,1,Completed,true,false,false
+UA001072,21 Mar 21,7,Royal Ave,Dendy Park 2,No. 3,Presley Evans,Damien Hookway,Damien Hookway,6-7,6,7,0,1,Completed,true,false,false
+UA001072,21 Mar 21,7,Royal Ave,Dendy Park 2,No. 4,Sam McCann,Tom Stein,Tom Stein,2-6,2,6,0,1,Completed,true,false,false
+UA001074,21 Mar 21,7,Dendy Park 1,Royal South Yarra,No. 1,Andreas Tanti,Sascha Tausan,Sascha Tausan,3-6,3,6,0,1,Completed,true,false,false
+UA001074,21 Mar 21,7,Dendy Park 1,Royal South Yarra,No. 2,Jonathon Henquin,Thomas Wenzel,Thomas Wenzel,4-6,4,6,0,1,Completed,true,false,false
+UA001074,21 Mar 21,7,Dendy Park 1,Royal South Yarra,No. 3,Jackson Mullaly,James Ollerenshaw,Jackson Mullaly,6-0,6,0,1,0,Completed,true,false,false
+UA001074,21 Mar 21,7,Dendy Park 1,Royal South Yarra,No. 4,Ashley Small,Sam Lidstone,Ashley Small,6-3,6,3,1,0,Completed,true,false,false
+UA001081,28 Mar 21,8,Royal South Yarra,Elsternwick Park,No. 1,Toby Ralph,Roch Dargan,Roch Dargan,3-6,3,6,0,1,Completed,true,false,false
+UA001081,28 Mar 21,8,Royal South Yarra,Elsternwick Park,No. 2,Darcy Albert,Raphael Schwalb,Darcy Albert,6-0,6,0,1,0,Completed,true,false,false
+UA001081,28 Mar 21,8,Royal South Yarra,Elsternwick Park,No. 3,James Ollerenshaw,Nicole Bennett,Nicole Bennett,1-6,1,6,0,1,Completed,true,false,false
+UA001081,28 Mar 21,8,Royal South Yarra,Elsternwick Park,No. 4,Sam Lidstone,Gil Kras,Gil Kras,1-6,1,6,0,1,Completed,true,false,false
+UA001082,28 Mar 21,8,BLTC,Royal Ave,No. 1,Archie Barrie,Conor Mooney,Conor Mooney,3-6,3,6,0,1,Completed,true,false,false
+UA001082,28 Mar 21,8,BLTC,Royal Ave,No. 2,Olivia Moir,Allegra Dureau,Olivia Moir,6-1,6,1,1,0,Completed,true,false,false
+UA001082,28 Mar 21,8,BLTC,Royal Ave,No. 3,Sophie Christie,Presley Evans,Sophie Christie,6-4,6,4,1,0,Completed,true,false,false
+UA001082,28 Mar 21,8,BLTC,Royal Ave,No. 4,Nathanial Hall,Oliver Letham,Oliver Letham,3-6,3,6,0,1,Completed,true,false,true
+UA001083,28 Mar 21,8,Dendy Park 1,Tennis World,No. 1,Andreas Tanti,Justin Pirie,Justin Pirie,4-6,4,6,0,1,Completed,true,false,false
+UA001083,28 Mar 21,8,Dendy Park 1,Tennis World,No. 2,Daniel Whitson,Stefan Desovski,Daniel Whitson,6-2,6,2,1,0,Completed,true,false,false
+UA001083,28 Mar 21,8,Dendy Park 1,Tennis World,No. 3,Korben Brough,Paddy Meagher,Paddy Meagher,5-7,5,7,0,1,Completed,true,false,false
+UA001083,28 Mar 21,8,Dendy Park 1,Tennis World,No. 4,Jackson Mullaly,Ilai Manor,Jackson Mullaly,6-3,6,3,1,0,Completed,true,false,true
+UA001084,28 Mar 21,8,GPHC,Dendy Park 2,No. 1,Rohan Chalisgaonkar,Henri Robinson,Rohan Chalisgaonkar,7-6,7,6,1,0,Completed,true,false,false
+UA001084,28 Mar 21,8,GPHC,Dendy Park 2,No. 2,Xavier Aitken,Damien Hookway,Damien Hookway,3-6,3,6,0,1,Completed,true,false,false
+UA001084,28 Mar 21,8,GPHC,Dendy Park 2,No. 3,Thomas Auld,Lachlan Liberman,Thomas Auld,6-1,6,1,1,0,Completed,true,true,false
+UA001084,28 Mar 21,8,GPHC,Dendy Park 2,No. 4,Luca Bond,Tom Stein,Luca Bond,7-5,7,5,1,0,Completed,true,true,false
+UA001091,02 May 21,9,Elsternwick Park,GPHC,No. 1,Roch Dargan,Rohan Chalisgaonkar,Roch Dargan,6-4,6,4,1,0,Completed,true,false,false
+UA001091,02 May 21,9,Elsternwick Park,GPHC,No. 2,Raphael Schwalb,Xavier Aitken,Xavier Aitken,5-7,5,7,0,1,Completed,true,false,false
+UA001091,02 May 21,9,Elsternwick Park,GPHC,No. 3,Joe Barr,Thomas Auld,Joe Barr,6-2,6,2,1,0,Completed,true,false,true
+UA001091,02 May 21,9,Elsternwick Park,GPHC,No. 4,Gil Kras,Max Noble,Gil Kras,6-4,6,4,1,0,Completed,true,false,true
+UA001092,02 May 21,9,Royal Ave,Royal South Yarra,No. 1,Conor Mooney,Toby Ralph,Toby Ralph,2-6,2,6,0,1,Completed,true,false,false
+UA001092,02 May 21,9,Royal Ave,Royal South Yarra,No. 2,Allegra Dureau,James Ollerenshaw,Allegra Dureau,6-2,6,2,1,0,Completed,true,false,false
+UA001092,02 May 21,9,Royal Ave,Royal South Yarra,No. 3,Presley Evans,Sam Lidstone,Presley Evans,6-2,6,2,1,0,Completed,true,false,false
+UA001092,02 May 21,9,Royal Ave,Royal South Yarra,No. 4,Elliott Tay,Steve Park,Elliott Tay,6-2,6,2,1,0,Completed,true,true,true
+UA001093,02 May 21,9,Tennis World,BLTC,No. 1,Justin Pirie,Hayden Heng,Hayden Heng,5-7,5,7,0,1,Completed,true,false,false
+UA001093,02 May 21,9,Tennis World,BLTC,No. 2,Dylan Dinh,Olivia Moir,Dylan Dinh,6-1,6,1,1,0,Completed,true,true,false
+UA001093,02 May 21,9,Tennis World,BLTC,No. 3,Paddy Meagher,Sophie Christie,Paddy Meagher,6-1,6,1,1,0,Completed,true,false,false
+UA001093,02 May 21,9,Tennis World,BLTC,No. 4,Tristan Duffin,Nathanial Hall,Tristan Duffin,6-1,6,1,1,0,Completed,true,true,false
+UA001094,02 May 21,9,Dendy Park 2,Dendy Park 1,No. 1,Henri Robinson,Andreas Tanti,Andreas Tanti,1-6,1,6,0,1,Completed,true,false,false
+UA001094,02 May 21,9,Dendy Park 2,Dendy Park 1,No. 2,Damien Hookway,Daniel Whitson,Daniel Whitson,4-6,4,6,0,1,Completed,true,false,false
+UA001094,02 May 21,9,Dendy Park 2,Dendy Park 1,No. 3,Tom Stein,Korben Brough,Korben Brough,0-6,0,6,0,1,Completed,true,false,false
+UA001094,02 May 21,9,Dendy Park 2,Dendy Park 1,No. 4,Angelee Singh,Ashley Small,Ashley Small,6-7,6,7,0,1,Completed,true,true,false
+UA001101,09 May 21,10,Dendy Park 1,Elsternwick Park,No. 1,Jonathon Henquin,Roch Dargan,Roch Dargan,2-6,2,6,0,1,Completed,true,false,false
+UA001101,09 May 21,10,Dendy Park 1,Elsternwick Park,No. 2,Korben Brough,Lachie Zuker,Korben Brough,6-1,6,1,1,0,Completed,true,false,false
+UA001101,09 May 21,10,Dendy Park 1,Elsternwick Park,No. 3,Jackson Mullaly,Raphael Schwalb,Jackson Mullaly,6-2,6,2,1,0,Completed,true,false,false
+UA001101,09 May 21,10,Dendy Park 1,Elsternwick Park,No. 4,Ashley Small,Gil Kras,Gil Kras,3-6,3,6,0,1,Completed,true,false,false
+UA001102,09 May 21,10,GPHC,Royal Ave,No. 1,Rohan Chalisgaonkar,Aleksey Granitsa,Aleksey Granitsa,4-6,4,6,0,1,Completed,true,false,true
+UA001102,09 May 21,10,GPHC,Royal Ave,No. 2,Luca Bond,Conor Mooney,Luca Bond,6-1,6,1,1,0,Completed,true,true,false
+UA001102,09 May 21,10,GPHC,Royal Ave,No. 3,Xavier Aitken,Presley Evans,Presley Evans,3-6,3,6,0,1,Completed,true,false,false
+UA001102,09 May 21,10,GPHC,Royal Ave,No. 4,Thomas Auld,Sam McCann,Sam McCann,3-6,3,6,0,1,Completed,true,true,false
+UA001103,09 May 21,10,Royal South Yarra,Tennis World,No. 1,Toby Ralph,Justin Pirie,Justin Pirie,5-7,5,7,0,1,Completed,true,false,false
+UA001103,09 May 21,10,Royal South Yarra,Tennis World,No. 2,Sascha Tausan,Stefan Desovski,Sascha Tausan,6-2,6,2,1,0,Completed,true,false,false
+UA001103,09 May 21,10,Royal South Yarra,Tennis World,No. 3,James Ollerenshaw,Paddy Meagher,Paddy Meagher,1-6,1,6,0,1,Completed,true,false,false
+UA001103,09 May 21,10,Royal South Yarra,Tennis World,No. 4,Skye Park,Haydon Fa,Haydon Fa,4-6,4,6,0,1,Completed,true,true,true
+UA001104,09 May 21,10,BLTC,Dendy Park 2,No. 1,Hayden Heng,Henri Robinson,Hayden Heng,6-2,6,2,1,0,Completed,true,false,false
+UA001104,09 May 21,10,BLTC,Dendy Park 2,No. 2,Olivia Moir,Damien Hookway,Olivia Moir,6-2,6,2,1,0,Completed,true,false,false
+UA001104,09 May 21,10,BLTC,Dendy Park 2,No. 3,Sophie Christie,Lachlan Liberman,Sophie Christie,6-4,6,4,1,0,Completed,true,false,false
+UA001104,09 May 21,10,BLTC,Dendy Park 2,No. 4,Nathanial Hall,Tom Stein,Nathanial Hall,6-1,6,1,1,0,Completed,true,false,false
+UA001111,16 May 21,11,Elsternwick Park,BLTC,No. 1,Roch Dargan,Hayden Heng,Hayden Heng,2-6,2,6,0,1,Completed,true,false,false
+UA001111,16 May 21,11,Elsternwick Park,BLTC,No. 2,Lachie Zuker,Olivia Moir,Lachie Zuker,6-2,6,2,1,0,Completed,true,false,false
+UA001111,16 May 21,11,Elsternwick Park,BLTC,No. 3,Nicole Bennett,Eirene Nimorakiotakis,Eirene Nimorakiotakis,1-6,1,6,0,1,Completed,true,false,true
+UA001111,16 May 21,11,Elsternwick Park,BLTC,No. 4,Joe Barr,Nathanial Hall,Joe Barr,6-4,6,4,1,0,Completed,true,false,false
+UA001112,16 May 21,11,Royal Ave,Dendy Park 1,No. 1,Aleksey Granitsa,Daniel Whitson,Aleksey Granitsa,6-2,6,2,1,0,Completed,true,true,false
+UA001112,16 May 21,11,Royal Ave,Dendy Park 1,No. 2,Conor Mooney,Korben Brough,Korben Brough,3-6,3,6,0,1,Completed,true,false,false
+UA001112,16 May 21,11,Royal Ave,Dendy Park 1,No. 3,Sam McCann,Jackson Mullaly,Jackson Mullaly,0-6,0,6,0,1,Completed,true,false,false
+UA001112,16 May 21,11,Royal Ave,Dendy Park 1,No. 4,Elliott Tay,Ashley Small,Ashley Small,4-6,4,6,0,1,Completed,true,true,false
+UA001113,16 May 21,11,Tennis World,GPHC,No. 1,Justin Pirie,Rohan Chalisgaonkar,Rohan Chalisgaonkar,6-7,6,7,0,1,Completed,true,false,false
+UA001113,16 May 21,11,Tennis World,GPHC,No. 2,Stefan Desovski,[Unnamed player — TROLS UA001113 away code 2],Stefan Desovski,6-0,6,0,1,0,Completed,false,false,false
+UA001113,16 May 21,11,Tennis World,GPHC,No. 3,Paddy Meagher,Xavier Aitken,Paddy Meagher,6-4,6,4,1,0,Completed,true,false,false
+UA001113,16 May 21,11,Tennis World,GPHC,No. 4,Ilai Manor,Thomas Auld,Ilai Manor,7-6,7,6,1,0,Completed,true,true,true
+UA001114,16 May 21,11,Dendy Park 2,Royal South Yarra,No. 1,Henri Robinson,Sascha Tausan,Sascha Tausan,2-6,2,6,0,1,Completed,true,false,false
+UA001114,16 May 21,11,Dendy Park 2,Royal South Yarra,No. 2,Christian Karatzas,Haydon Fa,Haydon Fa,6-7,6,7,0,1,Completed,true,false,true
+UA001114,16 May 21,11,Dendy Park 2,Royal South Yarra,No. 3,Damien Hookway,Charlie Anderson,Charlie Anderson,3-6,3,6,0,1,Completed,true,false,true
+UA001114,16 May 21,11,Dendy Park 2,Royal South Yarra,No. 4,Tom Stein,Freddie Hunt,Tom Stein,6-4,6,4,1,0,Completed,true,false,true
+UA001121,23 May 21,12,Dendy Park 2,Tennis World,No. 1,Henri Robinson,Justin Pirie,Justin Pirie,0-6,0,6,0,1,Completed,true,false,false
+UA001121,23 May 21,12,Dendy Park 2,Tennis World,No. 2,Christian Karatzas,Stefan Desovski,Stefan Desovski,1-6,1,6,0,1,Completed,true,false,false
+UA001121,23 May 21,12,Dendy Park 2,Tennis World,No. 3,Damien Hookway,Paddy Meagher,Paddy Meagher,5-7,5,7,0,1,Completed,true,false,false
+UA001121,23 May 21,12,Dendy Park 2,Tennis World,No. 4,Tom Stein,Simeon Duffin,Tom Stein,6-3,6,3,1,0,Completed,true,false,true
+UA001122,23 May 21,12,Dendy Park 1,GPHC,No. 1,Andreas Tanti,Rohan Chalisgaonkar,Andreas Tanti,6-4,6,4,1,0,Completed,true,false,false
+UA001122,23 May 21,12,Dendy Park 1,GPHC,No. 2,Daniel Whitson,Luca Bond,Luca Bond,2-6,2,6,0,1,Completed,true,false,true
+UA001122,23 May 21,12,Dendy Park 1,GPHC,No. 3,Jonathon Henquin,Xavier Aitken,Jonathon Henquin,6-1,6,1,1,0,Completed,true,false,false
+UA001122,23 May 21,12,Dendy Park 1,GPHC,No. 4,Ashley Small,Thomas Auld,Ashley Small,7-5,7,5,1,0,Completed,true,false,true
+UA001123,23 May 21,12,Royal South Yarra,BLTC,No. 1,James Ollerenshaw,Hayden Heng,Hayden Heng,0-6,0,6,0,1,Completed,true,false,false
+UA001123,23 May 21,12,Royal South Yarra,BLTC,No. 2,James Strapp,Olivia Moir,Olivia Moir,1-6,1,6,0,1,Completed,true,true,false
+UA001123,23 May 21,12,Royal South Yarra,BLTC,No. 3,Haydon Fa,Sophie Christie,Haydon Fa,6-3,6,3,1,0,Completed,true,true,false
+UA001123,23 May 21,12,Royal South Yarra,BLTC,No. 4,Charlie Anderson,Nathanial Hall,Charlie Anderson,6-4,6,4,1,0,Completed,true,true,false
+UA001124,23 May 21,12,Royal Ave,Elsternwick Park,No. 1,Conor Mooney,Roch Dargan,Roch Dargan,2-6,2,6,0,1,Completed,true,false,false
+UA001124,23 May 21,12,Royal Ave,Elsternwick Park,No. 2,Presley Evans,Nicole Bennett,Presley Evans,6-4,6,4,1,0,Completed,true,false,false
+UA001124,23 May 21,12,Royal Ave,Elsternwick Park,No. 3,Sam McCann,Joe Barr,Sam McCann,6-4,6,4,1,0,Completed,true,false,false
+UA001124,23 May 21,12,Royal Ave,Elsternwick Park,No. 4,Leo Wang,Gil Kras,Gil Kras,0-6,0,6,0,1,Completed,true,true,false
+UA001301,,16,Tennis World,Elsternwick Park,No. 1,Justin Pirie,Roch Dargan,Justin Pirie,7-6,7,6,1,0,Completed,true,false,false
+UA001301,,16,Tennis World,Elsternwick Park,No. 2,Stefan Desovski,Lachie Zuker,Stefan Desovski,6-2,6,2,1,0,Completed,true,false,false
+UA001301,,16,Tennis World,Elsternwick Park,No. 3,Paddy Meagher,Joe Barr,Paddy Meagher,6-4,6,4,1,0,Completed,true,false,false
+UA001301,,16,Tennis World,Elsternwick Park,No. 4,Simeon Duffin,Gil Kras,Gil Kras,0-6,0,6,0,1,Completed,true,true,false
+UA001302,,16,Dendy Park 1,BLTC,No. 1,Andreas Tanti,Hayden Heng,Hayden Heng,0-6,0,6,0,1,Completed,true,false,false
+UA001302,,16,Dendy Park 1,BLTC,No. 2,Daniel Whitson,Olivia Moir,Olivia Moir,2-6,2,6,0,1,Completed,true,false,false
+UA001302,,16,Dendy Park 1,BLTC,No. 3,Jonathon Henquin,Nathanial Hall,Jonathon Henquin,7-6,7,6,1,0,Completed,true,false,false
+UA001321,,17,Tennis World,BLTC,No. 1,Justin Pirie,Hayden Heng,Hayden Heng,2-6,2,6,0,1,Completed,true,false,false
+UA001321,,17,Tennis World,BLTC,No. 2,Stefan Desovski,Olivia Moir,Olivia Moir,1-6,1,6,0,1,Completed,true,false,false
+UA001321,,17,Tennis World,BLTC,No. 3,Paddy Meagher,Nathanial Hall,Paddy Meagher,6-4,6,4,1,0,Completed,true,false,false
+UA001321,,17,Tennis World,BLTC,No. 4,Simeon Duffin,Will Vucic,Simeon Duffin,6-4,6,4,1,0,Completed,true,true,true

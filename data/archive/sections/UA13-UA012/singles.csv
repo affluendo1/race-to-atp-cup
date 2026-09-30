@@ -1,0 +1,233 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA012011,21 Jul 13,1,GPHC 1,GPHC 2,No. 1,Kate Leslie,Hamish Hicks,Hamish Hicks,2-6,2,6,0,1,Completed,true,false,false
+UA012011,21 Jul 13,1,GPHC 1,GPHC 2,No. 2,Issy Benallack,Alex Rives,Alex Rives,3-6,3,6,0,1,Completed,true,false,false
+UA012011,21 Jul 13,1,GPHC 1,GPHC 2,No. 3,Lucinda Edwards,Nick Barnett,Nick Barnett,3-6,3,6,0,1,Completed,true,false,false
+UA012011,21 Jul 13,1,GPHC 1,GPHC 2,No. 4,Jessica Brown,Hannah Todhunter,Jessica Brown,6-3,6,3,1,0,Completed,true,false,false
+UA012012,21 Jul 13,1,Tennis World,Carmelite,No. 1,Amanda Tsiagalos,William Langton,William Langton,5-7,5,7,0,1,Completed,true,false,false
+UA012012,21 Jul 13,1,Tennis World,Carmelite,No. 2,Jarrah Martens,Noah Jensz,Noah Jensz,0-6,0,6,0,1,Completed,true,false,false
+UA012012,21 Jul 13,1,Tennis World,Carmelite,No. 3,Fraser Elvins,Max Sumner,Max Sumner,1-6,1,6,0,1,Completed,true,false,false
+UA012012,21 Jul 13,1,Tennis World,Carmelite,No. 4,Jordan Parissis,Joshua Sagar,Jordan Parissis,6-0,6,0,1,0,Completed,true,false,false
+UA012013,21 Jul 13,1,Glen Eira Beech,Hampton,No. 1,Nick Monterosso,Lucy Hagan,Nick Monterosso,6-4,6,4,1,0,Completed,true,false,false
+UA012013,21 Jul 13,1,Glen Eira Beech,Hampton,No. 2,Mitchell Ferris,Kate Warman,Mitchell Ferris,6-3,6,3,1,0,Completed,true,false,false
+UA012013,21 Jul 13,1,Glen Eira Beech,Hampton,No. 3,Reziel Maron,Niamh Kenny,Niamh Kenny,0-6,0,6,0,1,Completed,true,false,false
+UA012013,21 Jul 13,1,Glen Eira Beech,Hampton,No. 4,Sam Gluzman,Eliza Maginness,Eliza Maginness,1-6,1,6,0,1,Completed,true,false,false
+UA012014,21 Jul 13,1,Parkdale,Royal South Yarra,No. 1,Quinn Carter,Gretel Happell,Quinn Carter,6-1,6,1,1,0,Completed,true,false,false
+UA012014,21 Jul 13,1,Parkdale,Royal South Yarra,No. 2,Ben Stone,Charlotte Ritman,Ben Stone,6-1,6,1,1,0,Completed,true,false,false
+UA012014,21 Jul 13,1,Parkdale,Royal South Yarra,No. 3,Nicholas Pudney,Annie Lynch,Nicholas Pudney,6-1,6,1,1,0,Completed,true,false,false
+UA012014,21 Jul 13,1,Parkdale,Royal South Yarra,No. 4,James Booth,[Unnamed player — TROLS UA012014 away code 4],James Booth,6-0,6,0,1,0,Completed,false,false,false
+UA012021,28 Jul 13,2,Royal South Yarra,GPHC 1,No. 1,Annabel Joubert,Issy Benallack,Annabel Joubert,6-1,6,1,1,0,Completed,true,false,false
+UA012021,28 Jul 13,2,Royal South Yarra,GPHC 1,No. 2,Mimi Holmes,Niamh McCarthy,Mimi Holmes,6-3,6,3,1,0,Completed,true,false,false
+UA012021,28 Jul 13,2,Royal South Yarra,GPHC 1,No. 3,Lucy Roper,Lucinda Edwards,Lucinda Edwards,0-6,0,6,0,1,Completed,true,false,false
+UA012021,28 Jul 13,2,Royal South Yarra,GPHC 1,No. 4,Charlotte Ritman,Jessica Brown,Jessica Brown,0-6,0,6,0,1,Completed,true,false,false
+UA012022,28 Jul 13,2,GPHC 2,Tennis World,No. 1,Angus Crawford,Jarrah Martens,Angus Crawford,6-0,6,0,1,0,Completed,true,false,false
+UA012022,28 Jul 13,2,GPHC 2,Tennis World,No. 2,Alex Rives,Fraser Elvins,Alex Rives,6-1,6,1,1,0,Completed,true,false,false
+UA012022,28 Jul 13,2,GPHC 2,Tennis World,No. 3,Nick Barnett,Patrick Homberg,Nick Barnett,6-2,6,2,1,0,Completed,true,false,false
+UA012022,28 Jul 13,2,GPHC 2,Tennis World,No. 4,Hannah Todhunter,Thalia Barbayannis,Hannah Todhunter,6-0,6,0,1,0,Completed,true,false,false
+UA012024,28 Jul 13,2,Hampton,Parkdale,No. 1,Kate Warman,Luke Shi,Luke Shi,1-6,1,6,0,1,Completed,true,false,false
+UA012024,28 Jul 13,2,Hampton,Parkdale,No. 2,Niamh Kenny,Ben Stone,Ben Stone,3-6,3,6,0,1,Completed,true,false,false
+UA012024,28 Jul 13,2,Hampton,Parkdale,No. 3,Isabell Bytheway,James Bryan,James Bryan,3-6,3,6,0,1,Completed,true,false,false
+UA012024,28 Jul 13,2,Hampton,Parkdale,No. 4,Emily Dann,Nicholas Pudney,Nicholas Pudney,5-7,5,7,0,1,Completed,true,false,false
+UA012031,04 Aug 13,3,GPHC 1,Hampton,No. 1,Kate Leslie,Kate Warman,Kate Warman,3-6,3,6,0,1,Completed,true,false,false
+UA012031,04 Aug 13,3,GPHC 1,Hampton,No. 2,Issy Benallack,Niamh Kenny,Issy Benallack,6-4,6,4,1,0,Completed,true,false,false
+UA012031,04 Aug 13,3,GPHC 1,Hampton,No. 3,Lucinda Edwards,Eliza Maginness,Lucinda Edwards,6-3,6,3,1,0,Completed,true,false,false
+UA012031,04 Aug 13,3,GPHC 1,Hampton,No. 4,Celest Chidichimo,Isabell Bytheway,Isabell Bytheway,5-7,5,7,0,1,Completed,true,false,false
+UA012032,04 Aug 13,3,Tennis World,Royal South Yarra,No. 1,Amanda Tsiagalos,Mimi Holmes,Mimi Holmes,2-6,2,6,0,1,Completed,true,false,false
+UA012032,04 Aug 13,3,Tennis World,Royal South Yarra,No. 2,Jordan Parissis,Laura O'Farrell,Laura O'Farrell,5-7,5,7,0,1,Completed,true,false,false
+UA012032,04 Aug 13,3,Tennis World,Royal South Yarra,No. 3,Patrick Homberg,Charlotte Ritman,Charlotte Ritman,0-6,0,6,0,1,Completed,true,false,false
+UA012032,04 Aug 13,3,Tennis World,Royal South Yarra,No. 4,Thalia Barbayannis,Josie Happell,Josie Happell,3-6,3,6,0,1,Completed,true,false,false
+UA012033,04 Aug 13,3,Glen Eira Beech,GPHC 2,No. 1,Joey Schonker,Angus Crawford,Joey Schonker,6-3,6,3,1,0,Completed,true,false,false
+UA012033,04 Aug 13,3,Glen Eira Beech,GPHC 2,No. 2,Nick Monterosso,Alex Rives,Nick Monterosso,6-2,6,2,1,0,Completed,true,false,false
+UA012033,04 Aug 13,3,Glen Eira Beech,GPHC 2,No. 3,Mitchell Ferris,Nick Barnett,Nick Barnett,1-6,1,6,0,1,Completed,true,false,false
+UA012033,04 Aug 13,3,Glen Eira Beech,GPHC 2,No. 4,Jonathan Sher,Hannah Todhunter,Hannah Todhunter,1-6,1,6,0,1,Completed,true,false,false
+UA012034,04 Aug 13,3,Parkdale,Carmelite,No. 1,Luke Shi,Joshua Sagar,Luke Shi,6-0,6,0,1,0,Completed,true,false,false
+UA012034,04 Aug 13,3,Parkdale,Carmelite,No. 2,Ben Stone,Jasper Kloss,Ben Stone,6-1,6,1,1,0,Completed,true,false,false
+UA012034,04 Aug 13,3,Parkdale,Carmelite,No. 3,James Bryan,Max Sumner,Max Sumner,2-6,2,6,0,1,Completed,true,false,false
+UA012034,04 Aug 13,3,Parkdale,Carmelite,No. 4,Nicholas Pudney,Noah Jensz,Noah Jensz,3-6,3,6,0,1,Completed,true,false,false
+UA012041,11 Aug 13,4,Carmelite,GPHC 1,No. 1,Joshua Sagar,Kate Leslie,Kate Leslie,0-6,0,6,0,1,Completed,true,false,false
+UA012041,11 Aug 13,4,Carmelite,GPHC 1,No. 2,William Langton,Issy Benallack,Issy Benallack,1-6,1,6,0,1,Completed,true,false,false
+UA012041,11 Aug 13,4,Carmelite,GPHC 1,No. 3,Max Sumner,Niamh McCarthy,Niamh McCarthy,3-6,3,6,0,1,Completed,true,false,false
+UA012041,11 Aug 13,4,Carmelite,GPHC 1,No. 4,Noah Jensz,Jessica Brown,Noah Jensz,6-0,6,0,1,0,Completed,true,false,false
+UA012042,11 Aug 13,4,Hampton,Tennis World,No. 1,Lucy Hagan,Jarrah Martens,Lucy Hagan,6-1,6,1,1,0,Completed,true,false,false
+UA012042,11 Aug 13,4,Hampton,Tennis World,No. 2,Kate Warman,Fraser Elvins,Kate Warman,6-2,6,2,1,0,Completed,true,false,false
+UA012042,11 Aug 13,4,Hampton,Tennis World,No. 3,Niamh Kenny,Jordan Parissis,Niamh Kenny,6-4,6,4,1,0,Completed,true,false,false
+UA012042,11 Aug 13,4,Hampton,Tennis World,No. 4,Isabell Bytheway,Patrick Homberg,Patrick Homberg,4-6,4,6,0,1,Completed,true,false,false
+UA012043,11 Aug 13,4,Royal South Yarra,Glen Eira Beech,No. 1,Annabel Joubert,Joey Schonker,Annabel Joubert,6-2,6,2,1,0,Completed,true,false,false
+UA012043,11 Aug 13,4,Royal South Yarra,Glen Eira Beech,No. 2,Laura O'Farrell,Nick Monterosso,Nick Monterosso,5-7,5,7,0,1,Completed,true,false,false
+UA012043,11 Aug 13,4,Royal South Yarra,Glen Eira Beech,No. 3,Charlotte Ritman,Reziel Maron,Reziel Maron,2-6,2,6,0,1,Completed,true,false,false
+UA012043,11 Aug 13,4,Royal South Yarra,Glen Eira Beech,No. 4,Josie Happell,Sam Gluzman,Josie Happell,6-1,6,1,1,0,Completed,true,false,false
+UA012044,11 Aug 13,4,GPHC 2,Parkdale,No. 1,Angus Crawford,Luke Shi,Luke Shi,1-6,1,6,0,1,Completed,true,false,false
+UA012044,11 Aug 13,4,GPHC 2,Parkdale,No. 2,Hamish Hicks,Ben Stone,Ben Stone,1-6,1,6,0,1,Completed,true,false,false
+UA012044,11 Aug 13,4,GPHC 2,Parkdale,No. 3,Alex Rives,James Bryan,Alex Rives,6-2,6,2,1,0,Completed,true,false,false
+UA012044,11 Aug 13,4,GPHC 2,Parkdale,No. 4,Hannah Todhunter,Nicholas Pudney,Nicholas Pudney,2-6,2,6,0,1,Completed,true,false,false
+UA012051,18 Aug 13,5,Glen Eira Beech,Parkdale,No. 1,Nick Monterosso,Quinn Carter,Quinn Carter,4-6,4,6,0,1,Completed,true,false,false
+UA012051,18 Aug 13,5,Glen Eira Beech,Parkdale,No. 2,Mitchell Ferris,Ben Stone,Ben Stone,3-6,3,6,0,1,Completed,true,false,false
+UA012051,18 Aug 13,5,Glen Eira Beech,Parkdale,No. 3,Jonathan Sher,Nicholas Pudney,Nicholas Pudney,2-6,2,6,0,1,Completed,true,false,false
+UA012051,18 Aug 13,5,Glen Eira Beech,Parkdale,No. 4,Sam Gluzman,James Booth,James Booth,0-6,0,6,0,1,Completed,true,false,false
+UA012052,18 Aug 13,5,Royal South Yarra,Hampton,No. 1,Annabel Joubert,Kate Warman,Annabel Joubert,6-0,6,0,1,0,Completed,true,false,false
+UA012052,18 Aug 13,5,Royal South Yarra,Hampton,No. 2,Mimi Holmes,Isabell Bytheway,Mimi Holmes,6-1,6,1,1,0,Completed,true,false,false
+UA012052,18 Aug 13,5,Royal South Yarra,Hampton,No. 3,Lucy Roper,Emily Dann,Emily Dann,1-6,1,6,0,1,Completed,true,false,false
+UA012052,18 Aug 13,5,Royal South Yarra,Hampton,No. 4,Josie Happell,Mathew Warman,Mathew Warman,2-6,2,6,0,1,Completed,true,false,false
+UA012053,18 Aug 13,5,Carmelite,GPHC 2,No. 1,Jasper Kloss,Angus Crawford,Jasper Kloss,6-2,6,2,1,0,Completed,true,false,false
+UA012053,18 Aug 13,5,Carmelite,GPHC 2,No. 2,William Langton,Alex Rives,Alex Rives,2-6,2,6,0,1,Completed,true,false,false
+UA012053,18 Aug 13,5,Carmelite,GPHC 2,No. 3,Max Sumner,Nick Barnett,Nick Barnett,1-6,1,6,0,1,Completed,true,false,false
+UA012053,18 Aug 13,5,Carmelite,GPHC 2,No. 4,Holly Ruthnie,Hannah Todhunter,Hannah Todhunter,2-6,2,6,0,1,Completed,true,false,false
+UA012054,18 Aug 13,5,GPHC 1,Tennis World,No. 1,Kate Leslie,Amanda Tsiagalos,Kate Leslie,6-0,6,0,1,0,Completed,true,false,false
+UA012054,18 Aug 13,5,GPHC 1,Tennis World,No. 2,Issy Benallack,Jarrah Martens,Issy Benallack,6-1,6,1,1,0,Completed,true,false,false
+UA012054,18 Aug 13,5,GPHC 1,Tennis World,No. 3,Niamh McCarthy,Fraser Elvins,Niamh McCarthy,6-1,6,1,1,0,Completed,true,false,false
+UA012054,18 Aug 13,5,GPHC 1,Tennis World,No. 4,Lucinda Edwards,Thalia Barbayannis,Lucinda Edwards,6-3,6,3,1,0,Completed,true,false,false
+UA012061,25 Aug 13,6,Tennis World,Glen Eira Beech,No. 1,Amanda Tsiagalos,Joey Schonker,Joey Schonker,1-6,1,6,0,1,Completed,true,false,false
+UA012061,25 Aug 13,6,Tennis World,Glen Eira Beech,No. 2,Jordan Parissis,Mitchell Ferris,Mitchell Ferris,0-6,0,6,0,1,Completed,true,false,false
+UA012061,25 Aug 13,6,Tennis World,Glen Eira Beech,No. 3,Patrick Homberg,Jonathan Sher,Patrick Homberg,6-4,6,4,1,0,Completed,true,false,false
+UA012061,25 Aug 13,6,Tennis World,Glen Eira Beech,No. 4,Thalia Barbayannis,Reziel Maron,Reziel Maron,1-6,1,6,0,1,Completed,true,false,false
+UA012062,25 Aug 13,6,Parkdale,GPHC 1,No. 1,Luke Shi,Kate Leslie,Luke Shi,6-2,6,2,1,0,Completed,true,false,false
+UA012062,25 Aug 13,6,Parkdale,GPHC 1,No. 2,James Bryan,Niamh McCarthy,James Bryan,6-4,6,4,1,0,Completed,true,false,false
+UA012062,25 Aug 13,6,Parkdale,GPHC 1,No. 3,Nicholas Pudney,Lucinda Edwards,Nicholas Pudney,6-3,6,3,1,0,Completed,true,false,false
+UA012062,25 Aug 13,6,Parkdale,GPHC 1,No. 4,James Booth,Celest Chidichimo,Celest Chidichimo,2-6,2,6,0,1,Completed,true,false,false
+UA012063,25 Aug 13,6,Hampton,Carmelite,No. 1,Lucy Hagan,Joshua Sagar,Lucy Hagan,6-2,6,2,1,0,Completed,true,false,false
+UA012063,25 Aug 13,6,Hampton,Carmelite,No. 2,Eliza Maginness,Max Sumner,Max Sumner,4-6,4,6,0,1,Completed,true,false,false
+UA012063,25 Aug 13,6,Hampton,Carmelite,No. 3,Isabell Bytheway,Noah Jensz,Noah Jensz,1-6,1,6,0,1,Completed,true,false,false
+UA012063,25 Aug 13,6,Hampton,Carmelite,No. 4,Emily Dann,Holly Ruthnie,Emily Dann,6-1,6,1,1,0,Completed,true,false,false
+UA012064,25 Aug 13,6,GPHC 2,Royal South Yarra,No. 1,Hamish Hicks,Will Hosnos,Hamish Hicks,6-3,6,3,1,0,Completed,true,false,false
+UA012064,25 Aug 13,6,GPHC 2,Royal South Yarra,No. 2,Alex Rives,Nick Perkins,Alex Rives,7-5,7,5,1,0,Completed,true,false,false
+UA012064,25 Aug 13,6,GPHC 2,Royal South Yarra,No. 3,Nick Barnett,Lucy Roper,Nick Barnett,6-0,6,0,1,0,Completed,true,false,false
+UA012064,25 Aug 13,6,GPHC 2,Royal South Yarra,No. 4,Hannah Todhunter,Josie Happell,Hannah Todhunter,6-2,6,2,1,0,Completed,true,false,false
+UA012071,01 Sep 13,7,GPHC 1,Glen Eira Beech,No. 1,Issy Benallack,Nick Monterosso,Nick Monterosso,2-6,2,6,0,1,Completed,true,false,false
+UA012071,01 Sep 13,7,GPHC 1,Glen Eira Beech,No. 2,Kate Leslie,Mitchell Ferris,Kate Leslie,6-1,6,1,1,0,Completed,true,false,false
+UA012071,01 Sep 13,7,GPHC 1,Glen Eira Beech,No. 3,Jessica Brown,Jonathan Sher,Jessica Brown,6-1,6,1,1,0,Completed,true,false,false
+UA012071,01 Sep 13,7,GPHC 1,Glen Eira Beech,No. 4,Niamh McCarthy,Reziel Maron,Niamh McCarthy,6-1,6,1,1,0,Completed,true,false,false
+UA012072,01 Sep 13,7,Tennis World,Parkdale,No. 1,Amanda Tsiagalos,Luke Shi,Luke Shi,0-6,0,6,0,1,Completed,true,false,false
+UA012072,01 Sep 13,7,Tennis World,Parkdale,No. 2,Jarrah Martens,Quinn Carter,Quinn Carter,1-6,1,6,0,1,Completed,true,false,false
+UA012072,01 Sep 13,7,Tennis World,Parkdale,No. 3,Fraser Elvins,Ben Stone,Ben Stone,1-6,1,6,0,1,Completed,true,false,false
+UA012072,01 Sep 13,7,Tennis World,Parkdale,No. 4,Jordan Parissis,James Booth,Jordan Parissis,7-6,7,6,1,0,Completed,true,false,false
+UA012073,01 Sep 13,7,Royal South Yarra,Carmelite,No. 1,Annabel Joubert,Joshua Sagar,Annabel Joubert,6-1,6,1,1,0,Completed,true,false,false
+UA012073,01 Sep 13,7,Royal South Yarra,Carmelite,No. 2,Mimi Holmes,Max Sumner,Max Sumner,3-6,3,6,0,1,Completed,true,false,false
+UA012073,01 Sep 13,7,Royal South Yarra,Carmelite,No. 3,Nick Perkins,Noah Jensz,Noah Jensz,3-6,3,6,0,1,Completed,true,false,false
+UA012073,01 Sep 13,7,Royal South Yarra,Carmelite,No. 4,Will Hornor,Flynn Oppy,Flynn Oppy,3-6,3,6,0,1,Completed,true,false,false
+UA012074,01 Sep 13,7,Hampton,GPHC 2,No. 1,Lucy Hagan,Angus Crawford,Angus Crawford,3-6,3,6,0,1,Completed,true,false,false
+UA012074,01 Sep 13,7,Hampton,GPHC 2,No. 2,Niamh Kenny,Alex Rives,Alex Rives,3-6,3,6,0,1,Completed,true,false,false
+UA012074,01 Sep 13,7,Hampton,GPHC 2,No. 3,Isabell Bytheway,Nick Barnett,Nick Barnett,0-6,0,6,0,1,Completed,true,false,false
+UA012074,01 Sep 13,7,Hampton,GPHC 2,No. 4,Liam Kenny,Hannah Todhunter,Liam Kenny,6-1,6,1,1,0,Completed,true,false,false
+UA012081,08 Sep 13,8,GPHC 2,GPHC 1,No. 1,Angus Crawford,Jessica Brown,Jessica Brown,3-6,3,6,0,1,Completed,true,false,false
+UA012081,08 Sep 13,8,GPHC 2,GPHC 1,No. 2,Alex Rives,Lucinda Edwards,Alex Rives,6-3,6,3,1,0,Completed,true,false,false
+UA012081,08 Sep 13,8,GPHC 2,GPHC 1,No. 3,Nick Barnett,Celest Chidichimo,Nick Barnett,6-0,6,0,1,0,Completed,true,false,false
+UA012081,08 Sep 13,8,GPHC 2,GPHC 1,No. 4,Hannah Todhunter,Zoe Gleeson,Zoe Gleeson,1-6,1,6,0,1,Completed,true,false,false
+UA012082,08 Sep 13,8,Carmelite,Tennis World,No. 1,William Langton,Jordan Parissis,Jordan Parissis,4-6,4,6,0,1,Completed,true,false,false
+UA012082,08 Sep 13,8,Carmelite,Tennis World,No. 2,Noah Jensz,Patrick Homberg,Noah Jensz,6-4,6,4,1,0,Completed,true,false,false
+UA012082,08 Sep 13,8,Carmelite,Tennis World,No. 3,Max Sumner,Thalia Barbayannis,Max Sumner,6-1,6,1,1,0,Completed,true,false,false
+UA012082,08 Sep 13,8,Carmelite,Tennis World,No. 4,Joshua Sagar,Alexander Mantjaris,Alexander Mantjaris,0-6,0,6,0,1,Completed,true,false,false
+UA012083,08 Sep 13,8,Hampton,Glen Eira Beech,No. 1,Lucy Hagan,Nick Monterosso,Nick Monterosso,2-6,2,6,0,1,Completed,true,false,false
+UA012083,08 Sep 13,8,Hampton,Glen Eira Beech,No. 2,Kate Warman,Mitchell Ferris,Mitchell Ferris,3-6,3,6,0,1,Completed,true,false,false
+UA012083,08 Sep 13,8,Hampton,Glen Eira Beech,No. 3,Isabell Bytheway,Reziel Maron,Isabell Bytheway,6-2,6,2,1,0,Completed,true,false,false
+UA012083,08 Sep 13,8,Hampton,Glen Eira Beech,No. 4,Emily Dann,Ayden Maron,Emily Dann,6-1,6,1,1,0,Completed,true,false,false
+UA012084,08 Sep 13,8,Royal South Yarra,Parkdale,No. 1,Nick Perkins,Luke Shi,Luke Shi,1-6,1,6,0,1,Completed,true,false,false
+UA012084,08 Sep 13,8,Royal South Yarra,Parkdale,No. 2,Will Hornor,Ben Stone,Ben Stone,5-7,5,7,0,1,Completed,true,false,false
+UA012084,08 Sep 13,8,Royal South Yarra,Parkdale,No. 3,Josie Happell,James Bryan,James Bryan,4-6,4,6,0,1,Completed,true,false,false
+UA012084,08 Sep 13,8,Royal South Yarra,Parkdale,No. 4,Gretel Happell,Nicholas Pudney,Nicholas Pudney,1-6,1,6,0,1,Completed,true,false,false
+UA012091,15 Sep 13,9,GPHC 1,Royal South Yarra,No. 1,Issy Benallack,Annabel Joubert,Annabel Joubert,1-6,1,6,0,1,Completed,true,false,false
+UA012091,15 Sep 13,9,GPHC 1,Royal South Yarra,No. 2,Kate Leslie,Mimi Holmes,Kate Leslie,7-6,7,6,1,0,Completed,true,false,false
+UA012091,15 Sep 13,9,GPHC 1,Royal South Yarra,No. 3,Lucinda Edwards,Josie Happell,Lucinda Edwards,6-4,6,4,1,0,Completed,true,false,false
+UA012091,15 Sep 13,9,GPHC 1,Royal South Yarra,No. 4,Celest Chidichimo,Will Hornor,Will Hornor,1-6,1,6,0,1,Completed,true,false,false
+UA012092,15 Sep 13,9,Tennis World,GPHC 2,No. 1,Amanda Tsiagalos,Angus Crawford,Angus Crawford,0-6,0,6,0,1,Completed,true,false,false
+UA012092,15 Sep 13,9,Tennis World,GPHC 2,No. 2,Fraser Elvins,Alex Rives,Alex Rives,0-6,0,6,0,1,Completed,true,false,false
+UA012092,15 Sep 13,9,Tennis World,GPHC 2,No. 3,Jordan Parissis,Nick Barnett,Nick Barnett,1-6,1,6,0,1,Completed,true,false,false
+UA012092,15 Sep 13,9,Tennis World,GPHC 2,No. 4,Patrick Homberg,Hunter Rives,Patrick Homberg,6-3,6,3,1,0,Completed,true,false,false
+UA012093,15 Sep 13,9,Glen Eira Beech,Carmelite,No. 1,Joey Schonker,William Langton,Joey Schonker,6-1,6,1,1,0,Completed,true,false,false
+UA012093,15 Sep 13,9,Glen Eira Beech,Carmelite,No. 2,Nick Monterosso,Max Sumner,Nick Monterosso,6-4,6,4,1,0,Completed,true,false,false
+UA012093,15 Sep 13,9,Glen Eira Beech,Carmelite,No. 3,Jonathan Sher,Joshua Sagar,Joshua Sagar,3-6,3,6,0,1,Completed,true,false,false
+UA012093,15 Sep 13,9,Glen Eira Beech,Carmelite,No. 4,Sam Gluzman,Hannah Crome,Hannah Crome,2-6,2,6,0,1,Completed,true,false,false
+UA012094,15 Sep 13,9,Parkdale,Hampton,No. 1,Quinn Carter,Niamh Kenny,Quinn Carter,6-1,6,1,1,0,Completed,true,false,false
+UA012094,15 Sep 13,9,Parkdale,Hampton,No. 2,Ben Stone,Eliza Maginness,Ben Stone,6-0,6,0,1,0,Completed,true,false,false
+UA012094,15 Sep 13,9,Parkdale,Hampton,No. 3,James Bryan,Isabell Bytheway,James Bryan,6-3,6,3,1,0,Completed,true,false,false
+UA012094,15 Sep 13,9,Parkdale,Hampton,No. 4,James Booth,Emily Dann,Emily Dann,0-6,0,6,0,1,Completed,true,false,false
+UA012101,13 Oct 13,10,Hampton,GPHC 1,No. 1,Lucy Hagan,Issy Benallack,Lucy Hagan,5-4,5,4,1,0,Completed,true,false,false
+UA012101,13 Oct 13,10,Hampton,GPHC 1,No. 2,Kate Warman,Jessica Brown,Jessica Brown,1-6,1,6,0,1,Completed,true,false,false
+UA012101,13 Oct 13,10,Hampton,GPHC 1,No. 3,Eliza Maginness,Niamh McCarthy,,4-4,4,4,0,0,Completed,false,false,false
+UA012101,13 Oct 13,10,Hampton,GPHC 1,No. 4,Emily Dann,Celest Chidichimo,Emily Dann,6-2,6,2,1,0,Completed,true,false,false
+UA012102,13 Oct 13,10,Royal South Yarra,Tennis World,No. 1,Annabel Joubert,Jarrah Martens,Annabel Joubert,6-0,6,0,1,0,Completed,true,false,false
+UA012102,13 Oct 13,10,Royal South Yarra,Tennis World,No. 2,Mimi Holmes,Fraser Elvins,Mimi Holmes,6-0,6,0,1,0,Completed,true,false,false
+UA012102,13 Oct 13,10,Royal South Yarra,Tennis World,No. 3,Lucy Roper,Jordan Parissis,Lucy Roper,6-0,6,0,1,0,Completed,true,false,false
+UA012102,13 Oct 13,10,Royal South Yarra,Tennis World,No. 4,Giselle Lansell,Patrick Homberg,Patrick Homberg,1-6,1,6,0,1,Completed,true,false,false
+UA012103,13 Oct 13,10,GPHC 2,Glen Eira Beech,No. 1,Angus Crawford,Joey Schonker,Joey Schonker,5-7,5,7,0,1,Completed,true,false,false
+UA012103,13 Oct 13,10,GPHC 2,Glen Eira Beech,No. 2,Hamish Hicks,Mitchell Ferris,Hamish Hicks,6-1,6,1,1,0,Completed,true,false,false
+UA012103,13 Oct 13,10,GPHC 2,Glen Eira Beech,No. 3,Nick Barnett,Reziel Maron,Nick Barnett,6-2,6,2,1,0,Completed,true,false,false
+UA012103,13 Oct 13,10,GPHC 2,Glen Eira Beech,No. 4,Hannah Todhunter,Sam Gluzman,Hannah Todhunter,6-0,6,0,1,0,Completed,true,false,false
+UA012104,13 Oct 13,10,Carmelite,Parkdale,No. 1,Noah Jensz,Quinn Carter,Quinn Carter,3-6,3,6,0,1,Completed,true,false,false
+UA012104,13 Oct 13,10,Carmelite,Parkdale,No. 2,Max Sumner,Ben Stone,Max Sumner,6-2,6,2,1,0,Completed,true,false,false
+UA012104,13 Oct 13,10,Carmelite,Parkdale,No. 3,Hannah Crome,James Bryan,James Bryan,0-6,0,6,0,1,Completed,true,false,false
+UA012104,13 Oct 13,10,Carmelite,Parkdale,No. 4,Jasper Kloss,James Booth,Jasper Kloss,6-2,6,2,1,0,Completed,true,false,false
+UA012111,20 Oct 13,11,GPHC 1,Carmelite,No. 1,Issy Benallack,William Langton,Issy Benallack,6-2,6,2,1,0,Completed,true,false,false
+UA012111,20 Oct 13,11,GPHC 1,Carmelite,No. 2,Jessica Brown,Noah Jensz,Noah Jensz,0-6,0,6,0,1,Completed,true,false,false
+UA012111,20 Oct 13,11,GPHC 1,Carmelite,No. 3,Niamh McCarthy,Max Sumner,Max Sumner,4-6,4,6,0,1,Completed,true,false,false
+UA012111,20 Oct 13,11,GPHC 1,Carmelite,No. 4,Celest Chidichimo,Joshua Sagar,Celest Chidichimo,6-1,6,1,1,0,Completed,true,false,false
+UA012112,20 Oct 13,11,Tennis World,Hampton,No. 1,Amanda Tsiagalos,Lucy Hagan,Lucy Hagan,1-6,1,6,0,1,Completed,true,false,false
+UA012112,20 Oct 13,11,Tennis World,Hampton,No. 2,Fraser Elvins,Kate Warman,Fraser Elvins,6-3,6,3,1,0,Completed,true,false,false
+UA012112,20 Oct 13,11,Tennis World,Hampton,No. 3,Jordan Parissis,Niamh Kenny,Niamh Kenny,4-6,4,6,0,1,Completed,true,false,false
+UA012112,20 Oct 13,11,Tennis World,Hampton,No. 4,Thalia Barbayannis,Isabell Bytheway,Isabell Bytheway,3-6,3,6,0,1,Completed,true,false,false
+UA012113,20 Oct 13,11,Glen Eira Beech,Royal South Yarra,No. 1,Nick Monterosso,Annabel Joubert,Nick Monterosso,6-4,6,4,1,0,Completed,true,false,false
+UA012113,20 Oct 13,11,Glen Eira Beech,Royal South Yarra,No. 2,Mitchell Ferris,Mimi Holmes,Mitchell Ferris,6-1,6,1,1,0,Completed,true,false,false
+UA012113,20 Oct 13,11,Glen Eira Beech,Royal South Yarra,No. 3,Reziel Maron,Lucy Roper,Reziel Maron,6-3,6,3,1,0,Completed,true,false,false
+UA012113,20 Oct 13,11,Glen Eira Beech,Royal South Yarra,No. 4,Sam Gluzman,Giselle Lansell,Giselle Lansell,0-6,0,6,0,1,Completed,true,false,false
+UA012114,20 Oct 13,11,Parkdale,GPHC 2,No. 1,Ben Stone,Angus Crawford,Ben Stone,6-3,6,3,1,0,Completed,true,false,false
+UA012114,20 Oct 13,11,Parkdale,GPHC 2,No. 2,James Bryan,Alex Rives,Alex Rives,2-6,2,6,0,1,Completed,true,false,false
+UA012114,20 Oct 13,11,Parkdale,GPHC 2,No. 3,Nicholas Pudney,Nick Barnett,Nick Barnett,1-6,1,6,0,1,Completed,true,false,false
+UA012114,20 Oct 13,11,Parkdale,GPHC 2,No. 4,James Booth,Hannah Todhunter,James Booth,7-5,7,5,1,0,Completed,true,false,false
+UA012121,27 Oct 13,12,Parkdale,Glen Eira Beech,No. 1,Quinn Carter,Joey Schonker,Joey Schonker,6-7,6,7,0,1,Completed,true,false,false
+UA012121,27 Oct 13,12,Parkdale,Glen Eira Beech,No. 2,James Bryan,Nick Monterosso,Nick Monterosso,2-6,2,6,0,1,Completed,true,false,false
+UA012121,27 Oct 13,12,Parkdale,Glen Eira Beech,No. 3,Nicholas Pudney,Jonathan Sher,Nicholas Pudney,6-0,6,0,1,0,Completed,true,false,false
+UA012121,27 Oct 13,12,Parkdale,Glen Eira Beech,No. 4,James Booth,Sam Gluzman,James Booth,6-1,6,1,1,0,Completed,true,false,false
+UA012122,27 Oct 13,12,Hampton,Royal South Yarra,No. 1,Niamh Kenny,Annabel Joubert,Annabel Joubert,0-6,0,6,0,1,Completed,true,false,false
+UA012122,27 Oct 13,12,Hampton,Royal South Yarra,No. 2,Eliza Maginness,Josie Happell,Josie Happell,0-6,0,6,0,1,Completed,true,false,false
+UA012122,27 Oct 13,12,Hampton,Royal South Yarra,No. 3,Isabell Bytheway,Giselle Lansell,Isabell Bytheway,6-2,6,2,1,0,Completed,true,false,false
+UA012122,27 Oct 13,12,Hampton,Royal South Yarra,No. 4,Mathew Warman,Lillian Burrell,Mathew Warman,6-1,6,1,1,0,Completed,true,false,false
+UA012123,27 Oct 13,12,GPHC 2,Carmelite,No. 1,Angus Crawford,William Langton,Angus Crawford,6-1,6,1,1,0,Completed,true,false,false
+UA012123,27 Oct 13,12,GPHC 2,Carmelite,No. 2,Hamish Hicks,Noah Jensz,Noah Jensz,1-6,1,6,0,1,Completed,true,false,false
+UA012123,27 Oct 13,12,GPHC 2,Carmelite,No. 3,Alex Rives,Max Sumner,Alex Rives,6-3,6,3,1,0,Completed,true,false,false
+UA012123,27 Oct 13,12,GPHC 2,Carmelite,No. 4,Nick Barnett,Holly Ruthnie,Nick Barnett,6-1,6,1,1,0,Completed,true,false,false
+UA012124,27 Oct 13,12,Tennis World,GPHC 1,No. 1,Amanda Tsiagalos,Kate Leslie,Kate Leslie,0-6,0,6,0,1,Completed,true,false,false
+UA012124,27 Oct 13,12,Tennis World,GPHC 1,No. 2,Jarrah Martens,Jessica Brown,Jessica Brown,1-6,1,6,0,1,Completed,true,false,false
+UA012124,27 Oct 13,12,Tennis World,GPHC 1,No. 3,Patrick Homberg,Lucinda Edwards,Lucinda Edwards,6-7,6,7,0,1,Completed,true,false,false
+UA012124,27 Oct 13,12,Tennis World,GPHC 1,No. 4,Thalia Barbayannis,Celest Chidichimo,Celest Chidichimo,3-6,3,6,0,1,Completed,true,false,false
+UA012131,10 Nov 13,13,Glen Eira Beech,Tennis World,No. 1,Joey Schonker,Amanda Tsiagalos,Joey Schonker,6-0,6,0,1,0,Completed,true,false,false
+UA012131,10 Nov 13,13,Glen Eira Beech,Tennis World,No. 2,Jonathan Sher,Fraser Elvins,Jonathan Sher,6-2,6,2,1,0,Completed,true,false,false
+UA012131,10 Nov 13,13,Glen Eira Beech,Tennis World,No. 3,Reziel Maron,Patrick Homberg,Reziel Maron,6-4,6,4,1,0,Completed,true,false,false
+UA012131,10 Nov 13,13,Glen Eira Beech,Tennis World,No. 4,Sam Gluzman,Annecy Homberg,Sam Gluzman,6-4,6,4,1,0,Completed,true,false,false
+UA012132,10 Nov 13,13,GPHC 1,Parkdale,No. 1,Jessica Brown,Luke Shi,Luke Shi,2-6,2,6,0,1,Completed,true,false,false
+UA012132,10 Nov 13,13,GPHC 1,Parkdale,No. 2,Niamh McCarthy,Ben Stone,Ben Stone,3-6,3,6,0,1,Completed,true,false,false
+UA012132,10 Nov 13,13,GPHC 1,Parkdale,No. 3,Lucinda Edwards,Nicholas Pudney,Lucinda Edwards,6-2,6,2,1,0,Completed,true,false,false
+UA012132,10 Nov 13,13,GPHC 1,Parkdale,No. 4,Celest Chidichimo,James Booth,James Booth,4-6,4,6,0,1,Completed,true,false,false
+UA012133,10 Nov 13,13,Carmelite,Hampton,No. 1,Max Sumner,Kate Warman,Kate Warman,6-7,6,7,0,1,Completed,true,false,false
+UA012133,10 Nov 13,13,Carmelite,Hampton,No. 2,Joshua Sagar,Eliza Maginness,Eliza Maginness,1-6,1,6,0,1,Completed,true,false,false
+UA012133,10 Nov 13,13,Carmelite,Hampton,No. 3,Hannah Crome,Isabell Bytheway,Isabell Bytheway,1-6,1,6,0,1,Completed,true,false,false
+UA012133,10 Nov 13,13,Carmelite,Hampton,No. 4,Jasper Kloss,Tom Maginness,Tom Maginness,0-6,0,6,0,1,Completed,true,false,false
+UA012134,10 Nov 13,13,Royal South Yarra,GPHC 2,No. 1,Annabel Joubert,Angus Crawford,Annabel Joubert,6-2,6,2,1,0,Completed,true,false,false
+UA012134,10 Nov 13,13,Royal South Yarra,GPHC 2,No. 2,Mimi Holmes,Hamish Hicks,Hamish Hicks,2-6,2,6,0,1,Completed,true,false,false
+UA012134,10 Nov 13,13,Royal South Yarra,GPHC 2,No. 3,Josie Happell,Alex Rives,Alex Rives,4-6,4,6,0,1,Completed,true,false,false
+UA012134,10 Nov 13,13,Royal South Yarra,GPHC 2,No. 4,Giselle Lansell,Hannah Todhunter,Hannah Todhunter,3-6,3,6,0,1,Completed,true,false,false
+UA012141,17 Nov 13,14,Glen Eira Beech,GPHC 1,No. 1,Joey Schonker,Kate Leslie,Joey Schonker,7-5,7,5,1,0,Completed,true,false,false
+UA012141,17 Nov 13,14,Glen Eira Beech,GPHC 1,No. 2,Nick Monterosso,Niamh McCarthy,Niamh McCarthy,4-6,4,6,0,1,Completed,true,false,false
+UA012141,17 Nov 13,14,Glen Eira Beech,GPHC 1,No. 3,Mitchell Ferris,Lucinda Edwards,Mitchell Ferris,6-3,6,3,1,0,Completed,true,false,false
+UA012141,17 Nov 13,14,Glen Eira Beech,GPHC 1,No. 4,Jonathan Sher,Celest Chidichimo,Celest Chidichimo,1-6,1,6,0,1,Completed,true,false,false
+UA012142,17 Nov 13,14,Parkdale,Tennis World,No. 1,Luke Shi,Fraser Elvins,Luke Shi,6-1,6,1,1,0,Completed,true,false,false
+UA012142,17 Nov 13,14,Parkdale,Tennis World,No. 2,Quinn Carter,Jordan Parissis,Quinn Carter,6-0,6,0,1,0,Completed,true,false,false
+UA012142,17 Nov 13,14,Parkdale,Tennis World,No. 3,James Bryan,Patrick Homberg,James Bryan,6-4,6,4,1,0,Completed,true,false,false
+UA012142,17 Nov 13,14,Parkdale,Tennis World,No. 4,Nicholas Pudney,Thalia Barbayannis,Nicholas Pudney,6-1,6,1,1,0,Completed,true,false,false
+UA012143,17 Nov 13,14,Carmelite,Royal South Yarra,No. 1,Noah Jensz,Mimi Holmes,Noah Jensz,6-1,6,1,1,0,Completed,true,false,false
+UA012143,17 Nov 13,14,Carmelite,Royal South Yarra,No. 2,William Langton,Gretel Happell,Gretel Happell,0-6,0,6,0,1,Completed,true,false,false
+UA012143,17 Nov 13,14,Carmelite,Royal South Yarra,No. 3,Joshua Sagar,Lucy Roper,Lucy Roper,0-6,0,6,0,1,Completed,true,false,false
+UA012143,17 Nov 13,14,Carmelite,Royal South Yarra,No. 4,Jasper Kloss,Giselle Lansell,Giselle Lansell,1-6,1,6,0,1,Completed,true,false,false
+UA012144,17 Nov 13,14,GPHC 2,Hampton,No. 1,Angus Crawford,Lucy Hagan,Angus Crawford,6-4,6,4,1,0,Completed,true,false,false
+UA012144,17 Nov 13,14,GPHC 2,Hampton,No. 2,Hamish Hicks,Kate Warman,Hamish Hicks,6-2,6,2,1,0,Completed,true,false,false
+UA012144,17 Nov 13,14,GPHC 2,Hampton,No. 3,Alex Rives,Isabell Bytheway,Alex Rives,6-0,6,0,1,0,Completed,true,false,false
+UA012144,17 Nov 13,14,GPHC 2,Hampton,No. 4,Hannah Todhunter,Emily Dann,Hannah Todhunter,6-4,6,4,1,0,Completed,true,false,false
+UA012301,,16,Parkdale,Hampton,No. 1,Luke Shi,Lucy Hagan,Luke Shi,6-0,6,0,1,0,Completed,true,false,false
+UA012301,,16,Parkdale,Hampton,No. 2,Quinn Carter,Kate Warman,Quinn Carter,6-3,6,3,1,0,Completed,true,false,false
+UA012301,,16,Parkdale,Hampton,No. 3,Ben Stone,Niamh Kenny,Ben Stone,6-1,6,1,1,0,Completed,true,false,false
+UA012301,,16,Parkdale,Hampton,No. 4,James Bryan,Isabell Bytheway,James Bryan,6-2,6,2,1,0,Completed,true,false,false
+UA012302,,16,GPHC 2,Royal South Yarra,No. 1,Hamish Hicks,Annabel Joubert,Annabel Joubert,2-6,2,6,0,1,Completed,true,false,false
+UA012302,,16,GPHC 2,Royal South Yarra,No. 2,Alex Rives,Mimi Holmes,Alex Rives,6-2,6,2,1,0,Completed,true,false,false
+UA012302,,16,GPHC 2,Royal South Yarra,No. 3,Nick Barnett,Josie Happell,Nick Barnett,6-2,6,2,1,0,Completed,true,false,false
+UA012302,,16,GPHC 2,Royal South Yarra,No. 4,Hannah Todhunter,Giselle Lansell,Giselle Lansell,4-6,4,6,0,1,Completed,true,false,false
+UA012321,,17,Parkdale,GPHC 2,No. 1,Luke Shi,Angus Crawford,Luke Shi,6-1,6,1,1,0,Completed,true,false,false
+UA012321,,17,Parkdale,GPHC 2,No. 2,Quinn Carter,Hamish Hicks,Quinn Carter,6-0,6,0,1,0,Completed,true,false,false
+UA012321,,17,Parkdale,GPHC 2,No. 3,Ben Stone,Alex Rives,Alex Rives,3-6,3,6,0,1,Completed,true,false,false
+UA012321,,17,Parkdale,GPHC 2,No. 4,James Bryan,Nick Barnett,Nick Barnett,1-6,1,6,0,1,Completed,true,false,false

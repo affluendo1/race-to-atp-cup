@@ -1,0 +1,237 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA017011,05 Feb 17,1,Royal Ave 2,Royal South Yarra,No. 1,Puck Okhuizen,Hugh Beggs,Hugh Beggs,6-7,6,7,0,1,Completed,true,false,false
+UA017011,05 Feb 17,1,Royal Ave 2,Royal South Yarra,No. 2,Tess Dargan,Mietta Passon,Tess Dargan,6-3,6,3,1,0,Completed,true,false,false
+UA017011,05 Feb 17,1,Royal Ave 2,Royal South Yarra,No. 3,Nicolette Hilaris,Katherine Soutter,Nicolette Hilaris,6-1,6,1,1,0,Completed,true,false,false
+UA017011,05 Feb 17,1,Royal Ave 2,Royal South Yarra,No. 4,Zoe Van Den Hoven,Luca Webb,Luca Webb,2-6,2,6,0,1,Completed,true,false,false
+UA017012,05 Feb 17,1,Aspendale,Bodley Tennis Plus,No. 1,Emilie Buzza,Marcus Bayer,Emilie Buzza,6-3,6,3,1,0,Completed,true,false,false
+UA017012,05 Feb 17,1,Aspendale,Bodley Tennis Plus,No. 2,Emma Saliba,Jack Gwillim,Jack Gwillim,2-6,2,6,0,1,Completed,true,false,false
+UA017012,05 Feb 17,1,Aspendale,Bodley Tennis Plus,No. 3,James Kocsis,Thomas Livanos,James Kocsis,6-1,6,1,1,0,Completed,true,false,false
+UA017012,05 Feb 17,1,Aspendale,Bodley Tennis Plus,No. 4,Talia Braschio,Shun Ishikawa,Talia Braschio,6-2,6,2,1,0,Completed,true,false,false
+UA017013,05 Feb 17,1,Kooyong St Kevin's,Victory Park,No. 1,Hamish Jones,Summer Chan,Hamish Jones,6-3,6,3,1,0,Completed,true,false,false
+UA017013,05 Feb 17,1,Kooyong St Kevin's,Victory Park,No. 2,Finlay Jones,Oliver Richards,Finlay Jones,6-2,6,2,1,0,Completed,true,false,false
+UA017013,05 Feb 17,1,Kooyong St Kevin's,Victory Park,No. 3,Richard Jones,Jeremy Mendel,Richard Jones,6-0,6,0,1,0,Completed,true,false,false
+UA017013,05 Feb 17,1,Kooyong St Kevin's,Victory Park,No. 4,Felix Kan,Zoe Chan,Felix Kan,6-1,6,1,1,0,Completed,true,false,false
+UA017014,05 Feb 17,1,Coatesville,Royal Ave 1,No. 1,Marcus Wong,Nick Bolmat,Nick Bolmat,1-6,1,6,0,1,Completed,true,false,false
+UA017014,05 Feb 17,1,Coatesville,Royal Ave 1,No. 2,Callin May,Lulu Hollis,Lulu Hollis,2-6,2,6,0,1,Completed,true,false,false
+UA017014,05 Feb 17,1,Coatesville,Royal Ave 1,No. 3,Henry Price,Luke Cowie,Henry Price,6-3,6,3,1,0,Completed,true,false,false
+UA017014,05 Feb 17,1,Coatesville,Royal Ave 1,No. 4,Thomas Rossi,Anika Moller,Thomas Rossi,6-0,6,0,1,0,Completed,true,false,false
+UA017021,12 Feb 17,2,Royal Ave 1,Royal Ave 2,No. 1,Nick Bolmat,Tess Dargan,Nick Bolmat,6-3,6,3,1,0,Completed,true,false,false
+UA017021,12 Feb 17,2,Royal Ave 1,Royal Ave 2,No. 2,Elliott Perkins,Nicolette Hilaris,Elliott Perkins,6-3,6,3,1,0,Completed,true,false,false
+UA017021,12 Feb 17,2,Royal Ave 1,Royal Ave 2,No. 3,Luke Cowie,Ryan Wardle,Luke Cowie,6-3,6,3,1,0,Completed,true,false,false
+UA017021,12 Feb 17,2,Royal Ave 1,Royal Ave 2,No. 4,Anika Moller,Jacob Cassidy,Jacob Cassidy,1-6,1,6,0,1,Completed,true,false,false
+UA017022,12 Feb 17,2,Royal South Yarra,Aspendale,No. 1,Hugh Beggs,Emma Saliba,Emma Saliba,6-7,6,7,0,1,Completed,true,false,false
+UA017022,12 Feb 17,2,Royal South Yarra,Aspendale,No. 2,Axy Park,Harry Maginness,Harry Maginness,6-7,6,7,0,1,Completed,true,false,false
+UA017022,12 Feb 17,2,Royal South Yarra,Aspendale,No. 3,Indi Officer,James Kocsis,Indi Officer,6-3,6,3,1,0,Completed,true,false,false
+UA017022,12 Feb 17,2,Royal South Yarra,Aspendale,No. 4,Sophie Davies,Talia Braschio,Sophie Davies,6-1,6,1,1,0,Completed,true,false,false
+UA017023,12 Feb 17,2,Bodley Tennis Plus,Kooyong St Kevin's,No. 1,Marcus Bayer,Hamish Jones,Hamish Jones,3-6,3,6,0,1,Completed,true,false,false
+UA017023,12 Feb 17,2,Bodley Tennis Plus,Kooyong St Kevin's,No. 2,Jack Gwillim,Finlay Jones,Finlay Jones,6-7,6,7,0,1,Completed,true,false,false
+UA017023,12 Feb 17,2,Bodley Tennis Plus,Kooyong St Kevin's,No. 3,Alex Dumont,Ava Synnott,Ava Synnott,1-6,1,6,0,1,Completed,true,false,false
+UA017023,12 Feb 17,2,Bodley Tennis Plus,Kooyong St Kevin's,No. 4,Sofia Frigo,Findlay Wraith-Bell,Findlay Wraith-Bell,0-6,0,6,0,1,Completed,true,false,false
+UA017024,12 Feb 17,2,Victory Park,Coatesville,No. 1,Summer Chan,Callin May,Summer Chan,6-1,6,1,1,0,Completed,true,false,false
+UA017024,12 Feb 17,2,Victory Park,Coatesville,No. 2,Mel Sabet,Henry Price,Henry Price,3-6,3,6,0,1,Completed,true,false,false
+UA017024,12 Feb 17,2,Victory Park,Coatesville,No. 3,Oliver Richards,Thomas Rossi,Thomas Rossi,3-6,3,6,0,1,Completed,true,false,false
+UA017024,12 Feb 17,2,Victory Park,Coatesville,No. 4,Jeremy Mendel,Ben Gouralnik,Ben Gouralnik,0-6,0,6,0,1,Completed,true,false,false
+UA017031,19 Feb 17,3,Royal Ave 2,Victory Park,No. 1,Puck Okhuizen,Summer Chan,Summer Chan,1-6,1,6,0,1,Completed,true,false,false
+UA017031,19 Feb 17,3,Royal Ave 2,Victory Park,No. 2,Tess Dargan,Oliver Richards,Tess Dargan,6-0,6,0,1,0,Completed,true,false,false
+UA017031,19 Feb 17,3,Royal Ave 2,Victory Park,No. 3,Nicolette Hilaris,Jeremy Mendel,Nicolette Hilaris,6-0,6,0,1,0,Completed,true,false,false
+UA017031,19 Feb 17,3,Royal Ave 2,Victory Park,No. 4,Jacob Cassidy,Zoe Chan,Jacob Cassidy,6-2,6,2,1,0,Completed,true,false,false
+UA017032,19 Feb 17,3,Aspendale,Royal Ave 1,No. 1,Emilie Buzza,Charlie Fogarty,Emilie Buzza,6-1,6,1,1,0,Completed,true,false,false
+UA017032,19 Feb 17,3,Aspendale,Royal Ave 1,No. 2,Emma Saliba,Lulu Hollis,Lulu Hollis,3-6,3,6,0,1,Completed,true,false,false
+UA017032,19 Feb 17,3,Aspendale,Royal Ave 1,No. 3,James Kocsis,Luke Cowie,Luke Cowie,2-6,2,6,0,1,Completed,true,false,false
+UA017032,19 Feb 17,3,Aspendale,Royal Ave 1,No. 4,Talia Braschio,Anika Moller,Talia Braschio,6-3,6,3,1,0,Completed,true,false,false
+UA017033,19 Feb 17,3,Kooyong St Kevin's,Royal South Yarra,No. 1,Ava Synnott,Hugh Beggs,Hugh Beggs,5-7,5,7,0,1,Completed,true,false,false
+UA017033,19 Feb 17,3,Kooyong St Kevin's,Royal South Yarra,No. 2,Richard Jones,Sophie Davies,Richard Jones,6-3,6,3,1,0,Completed,true,false,false
+UA017033,19 Feb 17,3,Kooyong St Kevin's,Royal South Yarra,No. 3,Felix Kan,Luca Webb,Felix Kan,6-4,6,4,1,0,Completed,true,false,false
+UA017033,19 Feb 17,3,Kooyong St Kevin's,Royal South Yarra,No. 4,Lucy Keilar,Katherine Soutter,Lucy Keilar,6-0,6,0,1,0,Completed,true,false,false
+UA017034,19 Feb 17,3,Coatesville,Bodley Tennis Plus,No. 1,Marcus Wong,Marcus Bayer,Marcus Bayer,2-6,2,6,0,1,Completed,true,false,false
+UA017034,19 Feb 17,3,Coatesville,Bodley Tennis Plus,No. 2,Henry Price,Jack Gwillim,Henry Price,6-3,6,3,1,0,Completed,true,false,false
+UA017034,19 Feb 17,3,Coatesville,Bodley Tennis Plus,No. 3,Thomas Rossi,Shun Ishikawa,Thomas Rossi,6-1,6,1,1,0,Completed,true,false,false
+UA017034,19 Feb 17,3,Coatesville,Bodley Tennis Plus,No. 4,Ben Gouralnik,Sofia Frigo,Ben Gouralnik,6-0,6,0,1,0,Completed,true,false,false
+UA017041,26 Feb 17,4,Bodley Tennis Plus,Royal Ave 2,No. 1,Jack Gwillim,Tess Dargan,Tess Dargan,2-6,2,6,0,1,Completed,true,false,false
+UA017041,26 Feb 17,4,Bodley Tennis Plus,Royal Ave 2,No. 2,Thomas Livanos,Nicolette Hilaris,Nicolette Hilaris,0-6,0,6,0,1,Completed,true,false,false
+UA017041,26 Feb 17,4,Bodley Tennis Plus,Royal Ave 2,No. 3,Alex Dumont,Ryan Wardle,Ryan Wardle,3-6,3,6,0,1,Completed,true,false,false
+UA017041,26 Feb 17,4,Bodley Tennis Plus,Royal Ave 2,No. 4,Sofia Frigo,Zoe Van Den Hoven,Zoe Van Den Hoven,6-7,6,7,0,1,Completed,true,false,false
+UA017042,26 Feb 17,4,Victory Park,Aspendale,No. 1,Summer Chan,Emma Saliba,Summer Chan,6-3,6,3,1,0,Completed,true,false,false
+UA017042,26 Feb 17,4,Victory Park,Aspendale,No. 2,James Dunsby,Harry Maginness,James Dunsby,6-0,6,0,1,0,Completed,true,false,false
+UA017042,26 Feb 17,4,Victory Park,Aspendale,No. 3,Oliver Richards,James Kocsis,James Kocsis,6-7,6,7,0,1,Completed,true,false,false
+UA017042,26 Feb 17,4,Victory Park,Aspendale,No. 4,Jeremy Mendel,Talia Braschio,Talia Braschio,4-6,4,6,0,1,Completed,true,false,false
+UA017043,26 Feb 17,4,Royal Ave 1,Kooyong St Kevin's,No. 1,Nick Bolmat,Hamish Jones,Hamish Jones,6-7,6,7,0,1,Completed,true,false,false
+UA017043,26 Feb 17,4,Royal Ave 1,Kooyong St Kevin's,No. 2,Elliott Perkins,Ava Synnott,Elliott Perkins,6-2,6,2,1,0,Completed,true,false,false
+UA017043,26 Feb 17,4,Royal Ave 1,Kooyong St Kevin's,No. 3,Charlie Fogarty,Felix Kan,Charlie Fogarty,6-4,6,4,1,0,Completed,true,false,false
+UA017043,26 Feb 17,4,Royal Ave 1,Kooyong St Kevin's,No. 4,Lulu Hollis,Finlay Jones,Lulu Hollis,6-0,6,0,1,0,Completed,true,false,false
+UA017044,26 Feb 17,4,Royal South Yarra,Coatesville,No. 1,Hugh Beggs,Marcus Wong,Hugh Beggs,7-6,7,6,1,0,Completed,true,false,false
+UA017044,26 Feb 17,4,Royal South Yarra,Coatesville,No. 2,Mietta Passon,Callin May,Mietta Passon,6-2,6,2,1,0,Completed,true,false,false
+UA017044,26 Feb 17,4,Royal South Yarra,Coatesville,No. 3,Katherine Soutter,Thomas Rossi,Thomas Rossi,1-6,1,6,0,1,Completed,true,false,false
+UA017044,26 Feb 17,4,Royal South Yarra,Coatesville,No. 4,Luca Webb,Ben Gouralnik,Ben Gouralnik,1-6,1,6,0,1,Completed,true,false,false
+UA017051,05 Mar 17,5,Kooyong St Kevin's,Coatesville,No. 1,Finlay Jones,Marcus Wong,Finlay Jones,6-2,6,2,1,0,Completed,true,false,false
+UA017051,05 Mar 17,5,Kooyong St Kevin's,Coatesville,No. 2,Ava Synnott,Callin May,Ava Synnott,6-0,6,0,1,0,Completed,true,false,false
+UA017051,05 Mar 17,5,Kooyong St Kevin's,Coatesville,No. 3,Richard Jones,Henry Price,Henry Price,1-6,1,6,0,1,Completed,true,false,false
+UA017051,05 Mar 17,5,Kooyong St Kevin's,Coatesville,No. 4,Felix Kan,Ben Gouralnik,Ben Gouralnik,1-6,1,6,0,1,Completed,true,false,false
+UA017052,05 Mar 17,5,Royal Ave 1,Victory Park,No. 1,Nick Bolmat,James Dunsby,Nick Bolmat,6-0,6,0,1,0,Completed,true,false,false
+UA017052,05 Mar 17,5,Royal Ave 1,Victory Park,No. 2,Elliott Perkins,Oliver Richards,Elliott Perkins,6-0,6,0,1,0,Completed,true,false,false
+UA017052,05 Mar 17,5,Royal Ave 1,Victory Park,No. 3,Charlie Fogarty,Zoe Chan,Charlie Fogarty,6-1,6,1,1,0,Completed,true,false,false
+UA017052,05 Mar 17,5,Royal Ave 1,Victory Park,No. 4,Anika Moller,Jeremy Mendel,Anika Moller,6-0,6,0,1,0,Completed,true,false,false
+UA017053,05 Mar 17,5,Bodley Tennis Plus,Royal South Yarra,No. 1,Marcus Bayer,Luca Webb,Marcus Bayer,6-2,6,2,1,0,Completed,true,false,false
+UA017053,05 Mar 17,5,Bodley Tennis Plus,Royal South Yarra,No. 2,Jack Gwillim,Axy Park,Jack Gwillim,6-1,6,1,1,0,Completed,true,false,false
+UA017053,05 Mar 17,5,Bodley Tennis Plus,Royal South Yarra,No. 3,Alex Dumont,Indi Officer,Indi Officer,0-6,0,6,0,1,Completed,true,false,false
+UA017053,05 Mar 17,5,Bodley Tennis Plus,Royal South Yarra,No. 4,Sofia Frigo,Sophie Davies,Sophie Davies,2-6,2,6,0,1,Completed,true,false,false
+UA017054,05 Mar 17,5,Royal Ave 2,Aspendale,No. 1,Nicolette Hilaris,Emilie Buzza,Emilie Buzza,2-6,2,6,0,1,Completed,true,false,false
+UA017054,05 Mar 17,5,Royal Ave 2,Aspendale,No. 2,Jacob Cassidy,Emma Saliba,Emma Saliba,2-6,2,6,0,1,Completed,true,false,false
+UA017054,05 Mar 17,5,Royal Ave 2,Aspendale,No. 3,Zoe Van Den Hoven,Harry Maginness,Harry Maginness,0-6,0,6,0,1,Completed,true,false,false
+UA017054,05 Mar 17,5,Royal Ave 2,Aspendale,No. 4,Zofia Dabkonska,James Kocsis,Zofia Dabkonska,6-4,6,4,1,0,Completed,true,false,false
+UA017061,19 Mar 17,6,Aspendale,Kooyong St Kevin's,No. 1,Emilie Buzza,Hamish Jones,Emilie Buzza,6-3,6,3,1,0,Completed,true,false,false
+UA017061,19 Mar 17,6,Aspendale,Kooyong St Kevin's,No. 2,Harry Maginness,Finlay Jones,Finlay Jones,2-6,2,6,0,1,Completed,true,false,false
+UA017061,19 Mar 17,6,Aspendale,Kooyong St Kevin's,No. 3,James Kocsis,Richard Jones,Richard Jones,1-6,1,6,0,1,Completed,true,false,false
+UA017061,19 Mar 17,6,Aspendale,Kooyong St Kevin's,No. 4,Talia Braschio,Findlay Wraith-Bell,Findlay Wraith-Bell,4-6,4,6,0,1,Completed,true,false,false
+UA017062,19 Mar 17,6,Coatesville,Royal Ave 2,No. 1,Marcus Wong,Tess Dargan,Tess Dargan,4-6,4,6,0,1,Completed,true,false,false
+UA017062,19 Mar 17,6,Coatesville,Royal Ave 2,No. 2,Callin May,Nicolette Hilaris,Nicolette Hilaris,1-6,1,6,0,1,Completed,true,false,false
+UA017062,19 Mar 17,6,Coatesville,Royal Ave 2,No. 3,Henry Price,Ryan Wardle,Henry Price,6-0,6,0,1,0,Completed,true,false,false
+UA017062,19 Mar 17,6,Coatesville,Royal Ave 2,No. 4,Thomas Rossi,Zoe Van Den Hoven,Thomas Rossi,6-2,6,2,1,0,Completed,true,false,false
+UA017063,19 Mar 17,6,Victory Park,Bodley Tennis Plus,No. 1,Summer Chan,Marcus Bayer,Summer Chan,6-3,6,3,1,0,Completed,true,false,false
+UA017063,19 Mar 17,6,Victory Park,Bodley Tennis Plus,No. 2,James Dunsby,Jack Gwillim,James Dunsby,6-3,6,3,1,0,Completed,true,false,false
+UA017063,19 Mar 17,6,Victory Park,Bodley Tennis Plus,No. 3,Zoe Chan,Shun Ishikawa,Zoe Chan,6-2,6,2,1,0,Completed,true,false,false
+UA017063,19 Mar 17,6,Victory Park,Bodley Tennis Plus,No. 4,Jeremy Mendel,Thomas Livanos,Jeremy Mendel,6-3,6,3,1,0,Completed,true,false,false
+UA017064,19 Mar 17,6,Royal South Yarra,Royal Ave 1,No. 1,Hugh Beggs,Charlie Fogarty,Hugh Beggs,7-5,7,5,1,0,Completed,true,false,false
+UA017064,19 Mar 17,6,Royal South Yarra,Royal Ave 1,No. 2,Katherine Soutter,Lulu Hollis,Katherine Soutter,6-3,6,3,1,0,Completed,true,false,false
+UA017064,19 Mar 17,6,Royal South Yarra,Royal Ave 1,No. 3,Luca Webb,Luke Cowie,Luke Cowie,3-6,3,6,0,1,Completed,true,false,false
+UA017064,19 Mar 17,6,Royal South Yarra,Royal Ave 1,No. 4,Axy Park,Anika Moller,Axy Park,6-0,6,0,1,0,Completed,true,false,false
+UA017071,26 Mar 17,7,Royal Ave 2,Kooyong St Kevin's,No. 1,Tess Dargan,Ava Synnott,Ava Synnott,2-6,2,6,0,1,Completed,true,false,false
+UA017071,26 Mar 17,7,Royal Ave 2,Kooyong St Kevin's,No. 2,Nicolette Hilaris,Richard Jones,Nicolette Hilaris,6-2,6,2,1,0,Completed,true,false,false
+UA017071,26 Mar 17,7,Royal Ave 2,Kooyong St Kevin's,No. 3,Jacob Cassidy,Felix Kan,Felix Kan,1-6,1,6,0,1,Completed,true,false,false
+UA017071,26 Mar 17,7,Royal Ave 2,Kooyong St Kevin's,No. 4,Zoe Van Den Hoven,Findlay Wraith-Bell,Findlay Wraith-Bell,4-6,4,6,0,1,Completed,true,false,false
+UA017072,26 Mar 17,7,Aspendale,Coatesville,No. 1,Emilie Buzza,Callin May,Emilie Buzza,6-1,6,1,1,0,Completed,true,false,false
+UA017072,26 Mar 17,7,Aspendale,Coatesville,No. 2,[Unnamed player — TROLS UA017072 home code 2],Henry Price,Henry Price,0-6,0,6,0,1,Completed,false,false,false
+UA017072,26 Mar 17,7,Aspendale,Coatesville,No. 3,Emma Saliba,Thomas Rossi,Thomas Rossi,2-6,2,6,0,1,Completed,true,false,false
+UA017072,26 Mar 17,7,Aspendale,Coatesville,No. 4,Talia Braschio,Ben Gouralnik,Ben Gouralnik,2-6,2,6,0,1,Completed,true,false,false
+UA017073,26 Mar 17,7,Royal Ave 1,Bodley Tennis Plus,No. 1,Nick Bolmat,Marcus Bayer,Nick Bolmat,6-2,6,2,1,0,Completed,true,false,false
+UA017073,26 Mar 17,7,Royal Ave 1,Bodley Tennis Plus,No. 2,Elliott Perkins,Thomas Livanos,Elliott Perkins,6-0,6,0,1,0,Completed,true,false,false
+UA017073,26 Mar 17,7,Royal Ave 1,Bodley Tennis Plus,No. 3,Lulu Hollis,Alex Dumont,Lulu Hollis,6-0,6,0,1,0,Completed,true,false,false
+UA017073,26 Mar 17,7,Royal Ave 1,Bodley Tennis Plus,No. 4,Luke Cowie,Sofia Frigo,Luke Cowie,6-2,6,2,1,0,Completed,true,false,false
+UA017074,26 Mar 17,7,Victory Park,Royal South Yarra,No. 1,Summer Chan,Hugh Beggs,Summer Chan,6-2,6,2,1,0,Completed,true,false,false
+UA017074,26 Mar 17,7,Victory Park,Royal South Yarra,No. 2,James Dunsby,Mietta Passon,Mietta Passon,4-6,4,6,0,1,Completed,true,false,false
+UA017074,26 Mar 17,7,Victory Park,Royal South Yarra,No. 3,Oliver Richards,Indi Officer,Indi Officer,5-7,5,7,0,1,Completed,true,false,false
+UA017074,26 Mar 17,7,Victory Park,Royal South Yarra,No. 4,Jeremy Mendel,Sophie Davies,Sophie Davies,3-6,3,6,0,1,Completed,true,false,false
+UA017081,23 Apr 17,8,Royal South Yarra,Royal Ave 2,No. 1,Mietta Passon,Tess Dargan,Tess Dargan,4-6,4,6,0,1,Completed,true,false,false
+UA017081,23 Apr 17,8,Royal South Yarra,Royal Ave 2,No. 2,Katherine Soutter,Ryan Wardle,Katherine Soutter,6-2,6,2,1,0,Completed,true,false,false
+UA017081,23 Apr 17,8,Royal South Yarra,Royal Ave 2,No. 3,Luca Webb,Jacob Cassidy,Jacob Cassidy,5-7,5,7,0,1,Completed,true,false,false
+UA017081,23 Apr 17,8,Royal South Yarra,Royal Ave 2,No. 4,Sophie Davies,Ryan Braakhuis,Ryan Braakhuis,2-6,2,6,0,1,Completed,true,false,false
+UA017082,23 Apr 17,8,Bodley Tennis Plus,Aspendale,No. 1,Marcus Bayer,Emilie Buzza,Emilie Buzza,1-6,1,6,0,1,Completed,true,false,false
+UA017082,23 Apr 17,8,Bodley Tennis Plus,Aspendale,No. 2,Thomas Livanos,Emma Saliba,Emma Saliba,0-6,0,6,0,1,Completed,true,false,false
+UA017082,23 Apr 17,8,Bodley Tennis Plus,Aspendale,No. 3,Jack Gwillim,Harry Maginness,Harry Maginness,0-6,0,6,0,1,Completed,true,false,false
+UA017082,23 Apr 17,8,Bodley Tennis Plus,Aspendale,No. 4,Sofia Frigo,James Kocsis,James Kocsis,2-6,2,6,0,1,Completed,true,false,false
+UA017083,23 Apr 17,8,Victory Park,Kooyong St Kevin's,No. 1,James Dunsby,Ava Synnott,Ava Synnott,5-7,5,7,0,1,Completed,true,false,false
+UA017083,23 Apr 17,8,Victory Park,Kooyong St Kevin's,No. 2,Kiyara Abeyarathna,Richard Jones,Richard Jones,3-6,3,6,0,1,Completed,true,false,false
+UA017083,23 Apr 17,8,Victory Park,Kooyong St Kevin's,No. 3,Oliver Richards,Felix Kan,Oliver Richards,6-2,6,2,1,0,Completed,true,false,false
+UA017083,23 Apr 17,8,Victory Park,Kooyong St Kevin's,No. 4,Jeremy Mendel,Lucinda Lee,Jeremy Mendel,6-2,6,2,1,0,Completed,true,false,false
+UA017084,23 Apr 17,8,Royal Ave 1,Coatesville,No. 1,Nick Bolmat,Marcus Wong,Nick Bolmat,6-2,6,2,1,0,Completed,true,false,false
+UA017084,23 Apr 17,8,Royal Ave 1,Coatesville,No. 2,Elliott Perkins,Callin May,Elliott Perkins,6-0,6,0,1,0,Completed,true,false,false
+UA017084,23 Apr 17,8,Royal Ave 1,Coatesville,No. 3,Luke Cowie,Thomas Rossi,Thomas Rossi,0-6,0,6,0,1,Completed,true,false,false
+UA017084,23 Apr 17,8,Royal Ave 1,Coatesville,No. 4,Anika Moller,Ben Gouralnik,Ben Gouralnik,2-6,2,6,0,1,Completed,true,false,false
+UA017091,30 Apr 17,9,Royal Ave 2,Royal Ave 1,No. 1,Puck Okhuizen,Charlie Fogarty,Puck Okhuizen,6-3,6,3,1,0,Completed,true,false,false
+UA017091,30 Apr 17,9,Royal Ave 2,Royal Ave 1,No. 2,Nicolette Hilaris,Lulu Hollis,Nicolette Hilaris,6-3,6,3,1,0,Completed,true,false,false
+UA017091,30 Apr 17,9,Royal Ave 2,Royal Ave 1,No. 3,Ryan Wardle,Luke Cowie,Luke Cowie,2-6,2,6,0,1,Completed,true,false,false
+UA017091,30 Apr 17,9,Royal Ave 2,Royal Ave 1,No. 4,Zoe Van Den Hoven,Anika Moller,Zoe Van Den Hoven,7-6,7,6,1,0,Completed,true,false,false
+UA017092,30 Apr 17,9,Aspendale,Royal South Yarra,No. 1,Emilie Buzza,Mietta Passon,Emilie Buzza,6-4,6,4,1,0,Completed,true,false,false
+UA017092,30 Apr 17,9,Aspendale,Royal South Yarra,No. 2,Emma Saliba,Luca Webb,Luca Webb,2-6,2,6,0,1,Completed,true,false,false
+UA017092,30 Apr 17,9,Aspendale,Royal South Yarra,No. 3,James Kocsis,Axy Park,Axy Park,0-6,0,6,0,1,Completed,true,false,false
+UA017092,30 Apr 17,9,Aspendale,Royal South Yarra,No. 4,Talia Braschio,Indi Officer,Indi Officer,3-6,3,6,0,1,Completed,true,false,false
+UA017093,30 Apr 17,9,Kooyong St Kevin's,Bodley Tennis Plus,No. 1,Richard Jones,Marcus Bayer,Marcus Bayer,1-6,1,6,0,1,Completed,true,false,false
+UA017093,30 Apr 17,9,Kooyong St Kevin's,Bodley Tennis Plus,No. 2,Felix Kan,Jack Gwillim,Felix Kan,6-2,6,2,1,0,Completed,true,false,false
+UA017093,30 Apr 17,9,Kooyong St Kevin's,Bodley Tennis Plus,No. 3,Findlay Wraith-Bell,Shun Ishikawa,Shun Ishikawa,1-6,1,6,0,1,Completed,true,false,false
+UA017093,30 Apr 17,9,Kooyong St Kevin's,Bodley Tennis Plus,No. 4,Lucinda Lee,Thomas Livanos,Lucinda Lee,6-0,6,0,1,0,Completed,true,false,false
+UA017094,30 Apr 17,9,Coatesville,Victory Park,No. 1,Marcus Wong,Summer Chan,Summer Chan,3-6,3,6,0,1,Completed,true,false,false
+UA017094,30 Apr 17,9,Coatesville,Victory Park,No. 2,Callin May,James Dunsby,James Dunsby,3-6,3,6,0,1,Completed,true,false,false
+UA017094,30 Apr 17,9,Coatesville,Victory Park,No. 3,Thomas Rossi,Oliver Richards,Thomas Rossi,6-1,6,1,1,0,Completed,true,false,false
+UA017094,30 Apr 17,9,Coatesville,Victory Park,No. 4,Ben Gouralnik,Jeremy Mendel,Ben Gouralnik,6-1,6,1,1,0,Completed,true,false,false
+UA017101,07 May 17,10,Victory Park,Royal Ave 2,No. 1,Summer Chan,Tess Dargan,Tess Dargan,6-7,6,7,0,1,Completed,true,false,false
+UA017101,07 May 17,10,Victory Park,Royal Ave 2,No. 2,James Dunsby,Ryan Wardle,James Dunsby,6-1,6,1,1,0,Completed,true,false,false
+UA017101,07 May 17,10,Victory Park,Royal Ave 2,No. 3,Oliver Richards,Jacob Cassidy,Oliver Richards,6-1,6,1,1,0,Completed,true,false,false
+UA017101,07 May 17,10,Victory Park,Royal Ave 2,No. 4,Jeremy Mendel,Ryan Braakhuis,Ryan Braakhuis,5-7,5,7,0,1,Completed,true,false,false
+UA017102,07 May 17,10,Royal Ave 1,Aspendale,No. 1,Nick Bolmat,Emilie Buzza,Emilie Buzza,3-6,3,6,0,1,Completed,true,false,false
+UA017102,07 May 17,10,Royal Ave 1,Aspendale,No. 2,Elliott Perkins,Emma Saliba,Elliott Perkins,6-2,6,2,1,0,Completed,true,false,false
+UA017102,07 May 17,10,Royal Ave 1,Aspendale,No. 3,Charlie Fogarty,James Kocsis,Charlie Fogarty,6-3,6,3,1,0,Completed,true,false,false
+UA017102,07 May 17,10,Royal Ave 1,Aspendale,No. 4,Lulu Hollis,Talia Braschio,Lulu Hollis,6-2,6,2,1,0,Completed,true,false,false
+UA017103,07 May 17,10,Royal South Yarra,Kooyong St Kevin's,No. 1,Hugh Beggs,Ava Synnott,Ava Synnott,1-6,1,6,0,1,Completed,true,false,false
+UA017103,07 May 17,10,Royal South Yarra,Kooyong St Kevin's,No. 2,Katherine Soutter,Richard Jones,Katherine Soutter,6-3,6,3,1,0,Completed,true,false,false
+UA017103,07 May 17,10,Royal South Yarra,Kooyong St Kevin's,No. 3,Axy Park,Felix Kan,Axy Park,6-2,6,2,1,0,Completed,true,false,false
+UA017103,07 May 17,10,Royal South Yarra,Kooyong St Kevin's,No. 4,Sophie Davies,Findlay Wraith-Bell,Sophie Davies,6-3,6,3,1,0,Completed,true,false,false
+UA017104,07 May 17,10,Bodley Tennis Plus,Coatesville,No. 1,Marcus Bayer,Marcus Wong,Marcus Wong,1-6,1,6,0,1,Completed,true,false,false
+UA017104,07 May 17,10,Bodley Tennis Plus,Coatesville,No. 2,Jack Gwillim,Thomas Rossi,Thomas Rossi,4-6,4,6,0,1,Completed,true,false,false
+UA017104,07 May 17,10,Bodley Tennis Plus,Coatesville,No. 3,Sofia Frigo,Ben Gouralnik,Ben Gouralnik,0-6,0,6,0,1,Completed,true,false,false
+UA017104,07 May 17,10,Bodley Tennis Plus,Coatesville,No. 4,Thomas Livanos,Curtis Smith,Curtis Smith,0-6,0,6,0,1,Completed,true,false,false
+UA017111,14 May 17,11,Royal Ave 2,Bodley Tennis Plus,No. 1,Puck Okhuizen,Marcus Bayer,Puck Okhuizen,6-3,6,3,1,0,Completed,true,false,false
+UA017111,14 May 17,11,Royal Ave 2,Bodley Tennis Plus,No. 2,Tess Dargan,Jack Gwillim,Jack Gwillim,4-6,4,6,0,1,Completed,true,false,false
+UA017111,14 May 17,11,Royal Ave 2,Bodley Tennis Plus,No. 3,Jacob Cassidy,Thomas Livanos,Jacob Cassidy,6-2,6,2,1,0,Completed,true,false,false
+UA017111,14 May 17,11,Royal Ave 2,Bodley Tennis Plus,No. 4,Zoe Van Den Hoven,Alex Dumont,Zoe Van Den Hoven,6-3,6,3,1,0,Completed,true,false,false
+UA017112,14 May 17,11,Aspendale,Victory Park,No. 1,Emilie Buzza,Summer Chan,Emilie Buzza,6-2,6,2,1,0,Completed,true,false,false
+UA017112,14 May 17,11,Aspendale,Victory Park,No. 2,Emma Saliba,James Dunsby,James Dunsby,4-6,4,6,0,1,Completed,true,false,false
+UA017112,14 May 17,11,Aspendale,Victory Park,No. 3,James Kocsis,Oliver Richards,James Kocsis,6-3,6,3,1,0,Completed,true,false,false
+UA017112,14 May 17,11,Aspendale,Victory Park,No. 4,Talia Braschio,Jeremy Mendel,Jeremy Mendel,1-6,1,6,0,1,Completed,true,false,false
+UA017113,14 May 17,11,Kooyong St Kevin's,Royal Ave 1,No. 1,Ava Synnott,Nick Bolmat,Nick Bolmat,0-6,0,6,0,1,Completed,true,false,false
+UA017113,14 May 17,11,Kooyong St Kevin's,Royal Ave 1,No. 2,Richard Jones,Charlie Fogarty,Charlie Fogarty,3-6,3,6,0,1,Completed,true,false,false
+UA017113,14 May 17,11,Kooyong St Kevin's,Royal Ave 1,No. 3,Findlay Wraith-Bell,Lulu Hollis,Findlay Wraith-Bell,6-3,6,3,1,0,Completed,true,false,false
+UA017113,14 May 17,11,Kooyong St Kevin's,Royal Ave 1,No. 4,Lucinda Lee,Luke Cowie,Luke Cowie,1-6,1,6,0,1,Completed,true,false,false
+UA017114,14 May 17,11,Coatesville,Royal South Yarra,No. 1,Marcus Wong,Hugh Beggs,Marcus Wong,6-1,6,1,1,0,Completed,true,false,false
+UA017114,14 May 17,11,Coatesville,Royal South Yarra,No. 2,Thomas Rossi,Katherine Soutter,Thomas Rossi,6-4,6,4,1,0,Completed,true,false,false
+UA017114,14 May 17,11,Coatesville,Royal South Yarra,No. 3,Ben Gouralnik,Indi Officer,Ben Gouralnik,6-1,6,1,1,0,Completed,true,false,false
+UA017114,14 May 17,11,Coatesville,Royal South Yarra,No. 4,Curtis Smith,Sophie Davies,Sophie Davies,3-6,3,6,0,1,Completed,true,false,false
+UA017121,21 May 17,12,Coatesville,Kooyong St Kevin's,No. 1,Marcus Wong,Ava Synnott,Marcus Wong,7-5,7,5,1,0,Completed,true,false,false
+UA017121,21 May 17,12,Coatesville,Kooyong St Kevin's,No. 2,Thomas Rossi,Richard Jones,Richard Jones,4-6,4,6,0,1,Completed,true,false,false
+UA017121,21 May 17,12,Coatesville,Kooyong St Kevin's,No. 3,Ben Gouralnik,Felix Kan,Ben Gouralnik,6-1,6,1,1,0,Completed,true,false,false
+UA017121,21 May 17,12,Coatesville,Kooyong St Kevin's,No. 4,Gabriel Gaber,Jemima Wraith-Bell,Gabriel Gaber,6-4,6,4,1,0,Completed,true,false,false
+UA017122,21 May 17,12,Victory Park,Royal Ave 1,No. 1,Summer Chan,Nick Bolmat,Nick Bolmat,2-6,2,6,0,1,Completed,true,false,false
+UA017122,21 May 17,12,Victory Park,Royal Ave 1,No. 2,James Dunsby,Charlie Fogarty,James Dunsby,6-1,6,1,1,0,Completed,true,false,false
+UA017122,21 May 17,12,Victory Park,Royal Ave 1,No. 3,Oliver Richards,Luke Cowie,Luke Cowie,5-7,5,7,0,1,Completed,true,false,false
+UA017122,21 May 17,12,Victory Park,Royal Ave 1,No. 4,Jeremy Mendel,Anika Moller,Jeremy Mendel,6-2,6,2,1,0,Completed,true,false,false
+UA017123,21 May 17,12,Royal South Yarra,Bodley Tennis Plus,No. 1,Luca Webb,Marcus Bayer,Marcus Bayer,1-6,1,6,0,1,Completed,true,false,false
+UA017123,21 May 17,12,Royal South Yarra,Bodley Tennis Plus,No. 2,Axy Park,Thomas Livanos,Axy Park,6-2,6,2,1,0,Completed,true,false,false
+UA017123,21 May 17,12,Royal South Yarra,Bodley Tennis Plus,No. 3,Indi Officer,Alex Dumont,Indi Officer,6-0,6,0,1,0,Completed,true,false,false
+UA017123,21 May 17,12,Royal South Yarra,Bodley Tennis Plus,No. 4,Sophie Davies,Sofia Frigo,Sophie Davies,6-0,6,0,1,0,Completed,true,false,false
+UA017124,21 May 17,12,Aspendale,Royal Ave 2,No. 1,Emilie Buzza,Sam McCann,Emilie Buzza,6-3,6,3,1,0,Completed,true,false,false
+UA017124,21 May 17,12,Aspendale,Royal Ave 2,No. 2,Harry Maginness,Tess Dargan,Tess Dargan,1-6,1,6,0,1,Completed,true,false,false
+UA017124,21 May 17,12,Aspendale,Royal Ave 2,No. 3,James Kocsis,Ryan Wardle,James Kocsis,6-2,6,2,1,0,Completed,true,false,false
+UA017124,21 May 17,12,Aspendale,Royal Ave 2,No. 4,Talia Braschio,Ryan Braakhuis,Ryan Braakhuis,0-6,0,6,0,1,Completed,true,false,false
+UA017131,28 May 17,13,Kooyong St Kevin's,Aspendale,No. 1,Ava Synnott,Emilie Buzza,Emilie Buzza,0-6,0,6,0,1,Completed,true,false,false
+UA017131,28 May 17,13,Kooyong St Kevin's,Aspendale,No. 2,Richard Jones,Emma Saliba,Richard Jones,6-1,6,1,1,0,Completed,true,false,false
+UA017131,28 May 17,13,Kooyong St Kevin's,Aspendale,No. 3,Findlay Wraith-Bell,Harry Maginness,Harry Maginness,3-6,3,6,0,1,Completed,true,false,false
+UA017131,28 May 17,13,Kooyong St Kevin's,Aspendale,No. 4,Lucinda Lee,James Kocsis,Lucinda Lee,7-5,7,5,1,0,Completed,true,false,false
+UA017132,28 May 17,13,Royal Ave 2,Coatesville,No. 1,Jacob Cassidy,Marcus Wong,Marcus Wong,0-6,0,6,0,1,Completed,true,false,false
+UA017132,28 May 17,13,Royal Ave 2,Coatesville,No. 2,Ryan Braakhuis,Thomas Rossi,Ryan Braakhuis,6-2,6,2,1,0,Completed,true,false,false
+UA017132,28 May 17,13,Royal Ave 2,Coatesville,No. 3,Zoe Van Den Hoven,Ben Gouralnik,Ben Gouralnik,1-6,1,6,0,1,Completed,true,false,false
+UA017132,28 May 17,13,Royal Ave 2,Coatesville,No. 4,Aidan McDonald,Luke Varella,Luke Varella,1-6,1,6,0,1,Completed,true,false,false
+UA017133,28 May 17,13,Bodley Tennis Plus,Victory Park,No. 1,Jack Gwillim,Summer Chan,Summer Chan,1-6,1,6,0,1,Completed,true,false,false
+UA017133,28 May 17,13,Bodley Tennis Plus,Victory Park,No. 2,Thomas Livanos,James Dunsby,James Dunsby,0-6,0,6,0,1,Completed,true,false,false
+UA017133,28 May 17,13,Bodley Tennis Plus,Victory Park,No. 3,Alex Dumont,Oliver Richards,Oliver Richards,0-6,0,6,0,1,Completed,true,false,false
+UA017133,28 May 17,13,Bodley Tennis Plus,Victory Park,No. 4,Sofia Frigo,Jeremy Mendel,Jeremy Mendel,3-6,3,6,0,1,Completed,true,false,false
+UA017134,28 May 17,13,Royal Ave 1,Royal South Yarra,No. 1,Nick Bolmat,Mietta Passon,Nick Bolmat,6-4,6,4,1,0,Completed,true,false,false
+UA017134,28 May 17,13,Royal Ave 1,Royal South Yarra,No. 2,Elliott Perkins,Luca Webb,Elliott Perkins,6-2,6,2,1,0,Completed,true,false,false
+UA017134,28 May 17,13,Royal Ave 1,Royal South Yarra,No. 3,Charlie Fogarty,Indi Officer,Charlie Fogarty,6-3,6,3,1,0,Completed,true,false,false
+UA017134,28 May 17,13,Royal Ave 1,Royal South Yarra,No. 4,Anika Moller,Sophie Davies,Sophie Davies,0-6,0,6,0,1,Completed,true,false,false
+UA017141,04 Jun 17,14,Kooyong St Kevin's,Royal Ave 2,No. 1,Ava Synnott,Nicolette Hilaris,Nicolette Hilaris,3-6,3,6,0,1,Completed,true,false,false
+UA017141,04 Jun 17,14,Kooyong St Kevin's,Royal Ave 2,No. 2,Richard Jones,Ryan Wardle,Richard Jones,6-0,6,0,1,0,Completed,true,false,false
+UA017141,04 Jun 17,14,Kooyong St Kevin's,Royal Ave 2,No. 3,Felix Kan,Zoe Van Den Hoven,Felix Kan,6-2,6,2,1,0,Completed,true,false,false
+UA017141,04 Jun 17,14,Kooyong St Kevin's,Royal Ave 2,No. 4,Findlay Wraith-Bell,Hunter Creemain,Findlay Wraith-Bell,6-2,6,2,1,0,Completed,true,false,false
+UA017142,04 Jun 17,14,Coatesville,Aspendale,No. 1,Marcus Wong,Emilie Buzza,Emilie Buzza,4-6,4,6,0,1,Completed,true,false,false
+UA017142,04 Jun 17,14,Coatesville,Aspendale,No. 2,Callin May,Emma Saliba,Emma Saliba,0-6,0,6,0,1,Completed,true,false,false
+UA017142,04 Jun 17,14,Coatesville,Aspendale,No. 3,Thomas Rossi,Harry Maginness,Thomas Rossi,6-1,6,1,1,0,Completed,true,false,false
+UA017142,04 Jun 17,14,Coatesville,Aspendale,No. 4,Ben Gouralnik,Talia Braschio,Ben Gouralnik,6-4,6,4,1,0,Completed,true,false,false
+UA017143,04 Jun 17,14,Bodley Tennis Plus,Royal Ave 1,No. 1,Marcus Bayer,Nick Bolmat,Nick Bolmat,1-6,1,6,0,1,Completed,true,false,false
+UA017143,04 Jun 17,14,Bodley Tennis Plus,Royal Ave 1,No. 2,Jack Gwillim,Elliott Perkins,Elliott Perkins,3-6,3,6,0,1,Completed,true,false,false
+UA017143,04 Jun 17,14,Bodley Tennis Plus,Royal Ave 1,No. 3,Thomas Livanos,Lulu Hollis,Lulu Hollis,1-6,1,6,0,1,Completed,true,false,false
+UA017143,04 Jun 17,14,Bodley Tennis Plus,Royal Ave 1,No. 4,Sofia Frigo,Luke Cowie,Luke Cowie,1-6,1,6,0,1,Completed,true,false,false
+UA017144,04 Jun 17,14,Royal South Yarra,Victory Park,No. 1,Hugh Beggs,Summer Chan,Summer Chan,0-6,0,6,0,1,Completed,true,false,false
+UA017144,04 Jun 17,14,Royal South Yarra,Victory Park,No. 2,Axy Park,James Dunsby,James Dunsby,3-6,3,6,0,1,Completed,true,false,false
+UA017144,04 Jun 17,14,Royal South Yarra,Victory Park,No. 3,Indi Officer,Oliver Richards,Oliver Richards,3-6,3,6,0,1,Completed,true,false,false
+UA017144,04 Jun 17,14,Royal South Yarra,Victory Park,No. 4,Sophie Davies,Jeremy Mendel,Sophie Davies,6-1,6,1,1,0,Completed,true,false,false
+UA017301,,16,Coatesville,Victory Park,No. 1,Marcus Wong,Summer Chan,Summer Chan,3-6,3,6,0,1,Completed,true,false,false
+UA017301,,16,Coatesville,Victory Park,No. 2,Callin May,James Dunsby,James Dunsby,5-7,5,7,0,1,Completed,true,false,false
+UA017301,,16,Coatesville,Victory Park,No. 3,Thomas Rossi,Oliver Richards,Thomas Rossi,6-1,6,1,1,0,Completed,true,false,false
+UA017301,,16,Coatesville,Victory Park,No. 4,Ben Gouralnik,Jeremy Mendel,Jeremy Mendel,5-7,5,7,0,1,Completed,true,false,false
+UA017302,,16,Royal Ave 1,Kooyong St Kevin's,No. 1,Nick Bolmat,Ava Synnott,Nick Bolmat,6-1,6,1,1,0,Completed,true,false,false
+UA017302,,16,Royal Ave 1,Kooyong St Kevin's,No. 2,Elliott Perkins,Richard Jones,Richard Jones,2-6,2,6,0,1,Completed,true,false,false
+UA017302,,16,Royal Ave 1,Kooyong St Kevin's,No. 3,Lulu Hollis,Lucinda Lee,Lulu Hollis,6-2,6,2,1,0,Completed,true,false,false
+UA017302,,16,Royal Ave 1,Kooyong St Kevin's,No. 4,Luke Cowie,Findlay Wraith-Bell,Luke Cowie,6-4,6,4,1,0,Completed,true,false,false
+UA017321,,17,Royal Ave 1,Victory Park,No. 1,Nick Bolmat,Summer Chan,Nick Bolmat,6-2,6,2,1,0,Completed,true,false,false
+UA017321,,17,Royal Ave 1,Victory Park,No. 2,Elliott Perkins,James Dunsby,Elliott Perkins,7-6,7,6,1,0,Completed,true,false,false
+UA017321,,17,Royal Ave 1,Victory Park,No. 3,Charlie Fogarty,Oliver Richards,Charlie Fogarty,6-3,6,3,1,0,Completed,true,false,false
+UA017321,,17,Royal Ave 1,Victory Park,No. 4,Luke Cowie,Jeremy Mendel,Luke Cowie,6-3,6,3,1,0,Completed,true,false,false

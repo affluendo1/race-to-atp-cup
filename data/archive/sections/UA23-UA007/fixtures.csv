@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA007012,22 Jul 18,1,regular,Round 1,Caulfield Rec,Royal Ave,3,7,3,3,,,19,21,Completed,
+UA007013,22 Jul 18,1,regular,Round 1,St Andrews MB RA,Mordialloc,8,2,4,2,,,29,19,Completed,
+UA007014,22 Jul 18,1,regular,Round 1,St Joan of Arc,GPHC,9,1,5,1,,,34,22,Completed,
+pending-ua007-r1-wattle-bye,22 Jul 18,1,regular,Round 1,Wattle,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA007021,29 Jul 18,2,regular,Round 2,GPHC,Wattle,3,7,3,3,,,24,30,Completed,
+UA007023,29 Jul 18,2,regular,Round 2,Royal Ave,St Andrews MB RA,8,2,4,2,,,34,22,Completed,
+UA007024,29 Jul 18,2,regular,Round 2,Mordialloc,St Joan of Arc,7,3,3,3,,,28,26,Completed,
+pending-ua007-r2-bye-caulfield-rec,29 Jul 18,2,regular,Round 2,Bye,Caulfield Rec,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA007031,05 Aug 18,3,regular,Round 3,Wattle,Mordialloc,9,1,5,1,,,33,18,Completed,
+UA007032,05 Aug 18,3,regular,Round 3,Caulfield Rec,GPHC,8,2,4,2,,,25,19,Completed,
+UA007034,05 Aug 18,3,regular,Round 3,St Joan of Arc,Royal Ave,3,7,3,3,,,25,28,Completed,
+pending-ua007-r3-st-andrews-mb-ra-bye,05 Aug 18,3,regular,Round 3,St Andrews MB RA,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA007041,12 Aug 18,4,regular,Round 4,Royal Ave,Wattle,7,3,3,3,,,25,24,Completed,
+UA007042,12 Aug 18,4,regular,Round 4,Mordialloc,Caulfield Rec,8,2,4,2,,,30,19,Completed,
+UA007043,12 Aug 18,4,regular,Round 4,GPHC,St Andrews MB RA,8,2,4,2,,,31,25,Completed,
+pending-ua007-r4-bye-st-joan-of-arc,12 Aug 18,4,regular,Round 4,Bye,St Joan of Arc,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua007-r5-gphc-mordialloc,19 Aug 18,5,regular,Round 5,GPHC,Mordialloc,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua007-r5-royal-ave-bye,19 Aug 18,5,regular,Round 5,Royal Ave,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua007-r5-st-andrews-mb-ra-st-joan-of-arc,19 Aug 18,5,regular,Round 5,St Andrews MB RA,St Joan of Arc,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua007-r5-wattle-caulfield-rec,19 Aug 18,5,regular,Round 5,Wattle,Caulfield Rec,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA007061,26 Aug 18,6,regular,Round 6,Caulfield Rec,St Andrews MB RA,8,2,4,2,,,29,26,Completed,
+UA007062,26 Aug 18,6,regular,Round 6,St Joan of Arc,Wattle,0,10,0,6,,,15,37,Completed,
+UA007063,26 Aug 18,6,regular,Round 6,Mordialloc,Royal Ave,2,8,2,4,,,23,26,Completed,
+pending-ua007-r6-bye-gphc,26 Aug 18,6,regular,Round 6,Bye,GPHC,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA007071,02 Sep 18,7,regular,Round 7,Wattle,St Andrews MB RA,7,3,3,3,,,28,22,Completed,
+UA007072,02 Sep 18,7,regular,Round 7,Caulfield Rec,St Joan of Arc,2,8,2,4,,,19,27,Completed,
+UA007073,02 Sep 18,7,regular,Round 7,GPHC,Royal Ave,7,3,3,3,,,27,24,Completed,
+pending-ua007-r7-mordialloc-bye,02 Sep 18,7,regular,Round 7,Mordialloc,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA007082,09 Sep 18,8,regular,Round 8,Royal Ave,Caulfield Rec,7,3,3,3,,,32,26,Completed,
+UA007083,09 Sep 18,8,regular,Round 8,Mordialloc,St Andrews MB RA,2,8,2,4,,,29,26,Completed,
+UA007084,09 Sep 18,8,regular,Round 8,GPHC,St Joan of Arc,1,9,1,5,,,28,37,Completed,
+pending-ua007-r8-bye-wattle,09 Sep 18,8,regular,Round 8,Bye,Wattle,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA007091,16 Sep 18,9,regular,Round 9,Wattle,GPHC,1,9,1,5,,,18,33,Completed,
+UA007093,16 Sep 18,9,regular,Round 9,St Andrews MB RA,Royal Ave,8,2,4,2,,,28,21,Completed,
+UA007094,16 Sep 18,9,regular,Round 9,St Joan of Arc,Mordialloc,8,2,4,2,,,30,18,Completed,
+pending-ua007-r9-caulfield-rec-bye,16 Sep 18,9,regular,Round 9,Caulfield Rec,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA007101,14 Oct 18,10,regular,Round 10,Mordialloc,Wattle,2,8,2,4,,,19,30,Completed,
+UA007102,14 Oct 18,10,regular,Round 10,GPHC,Caulfield Rec,8,2,4,2,,,28,16,Completed,
+UA007104,14 Oct 18,10,regular,Round 10,Royal Ave,St Joan of Arc,1,9,1,5,,,16,30,Completed,
+pending-ua007-r10-bye-st-andrews-mb-ra,14 Oct 18,10,regular,Round 10,Bye,St Andrews MB RA,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA007111,21 Oct 18,11,regular,Round 11,Wattle,Royal Ave,1,9,1,5,,,22,35,Completed,
+UA007112,21 Oct 18,11,regular,Round 11,Caulfield Rec,Mordialloc,3,7,3,3,,,26,28,Completed,
+UA007113,21 Oct 18,11,regular,Round 11,St Andrews MB RA,GPHC,1,9,1,5,,,23,33,Completed,
+pending-ua007-r11-st-joan-of-arc-bye,21 Oct 18,11,regular,Round 11,St Joan of Arc,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA007121,28 Oct 18,12,regular,Round 12,St Joan of Arc,St Andrews MB RA,2,8,2,4,,,21,35,Completed,
+UA007122,28 Oct 18,12,regular,Round 12,Mordialloc,GPHC,7,3,3,3,,,23,22,Completed,
+UA007124,28 Oct 18,12,regular,Round 12,Caulfield Rec,Wattle,1,9,1,5,,,22,33,Completed,
+pending-ua007-r12-bye-royal-ave,28 Oct 18,12,regular,Round 12,Bye,Royal Ave,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA007131,11 Nov 18,13,regular,Round 13,St Andrews MB RA,Caulfield Rec,2,8,2,4,,,23,27,Completed,
+UA007132,11 Nov 18,13,regular,Round 13,Wattle,St Joan of Arc,1,9,1,5,,,17,31,Completed,
+UA007133,11 Nov 18,13,regular,Round 13,Royal Ave,Mordialloc,8,2,4,2,,,30,18,Completed,
+pending-ua007-r13-gphc-bye,11 Nov 18,13,regular,Round 13,GPHC,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA007141,18 Nov 18,14,regular,Round 14,St Andrews MB RA,Wattle,9,1,5,1,,,33,16,Completed,
+UA007142,18 Nov 18,14,regular,Round 14,St Joan of Arc,Caulfield Rec,9,1,5,1,,,35,20,Completed,
+UA007143,18 Nov 18,14,regular,Round 14,Royal Ave,GPHC,3,7,3,3,,,33,34,Completed,
+pending-ua007-r14-bye-mordialloc,18 Nov 18,14,regular,Round 14,Bye,Mordialloc,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA007301,,16,semi_final,Semi-final,St Joan of Arc,Wattle,10,0,6,0,,,37,15,Completed,
+UA007302,,16,semi_final,Semi-final,Royal Ave,GPHC,2,8,2,4,,,26,33,Completed,
+UA007321,,17,grand_final,Grand final · TROLS entry 2,St Joan of Arc,GPHC,8,2,4,2,,,34,24,Completed,

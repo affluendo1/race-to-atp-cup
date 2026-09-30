@@ -1,0 +1,91 @@
+{
+  "asset_id": "AA45-AA001",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Spring 2019",
+  "season_id": "AA45",
+  "season_label": "Spring 2019",
+  "source_section_code": "AA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite 1",
+      "wins": 11,
+      "points": 114,
+      "percentage": 240.0,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Port Melbourne Red",
+      "wins": 10,
+      "points": 100,
+      "percentage": 149.79,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kooyong",
+      "wins": 7,
+      "points": 84,
+      "percentage": 115.12,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Carmelite 3",
+      "wins": 7,
+      "points": 76,
+      "percentage": 98.32,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Port Melbourne Blue",
+      "wins": 5,
+      "points": 65.5,
+      "percentage": 99.34,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal South Yarra",
+      "wins": 4,
+      "points": 62,
+      "percentage": 91.5,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Carmelite 2",
+      "wins": 2,
+      "points": 39,
+      "percentage": 67.36,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Carmelite 4",
+      "wins": 0,
+      "points": 19.5,
+      "percentage": 40.05,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA45-AA001",
+  "fixtures": 59,
+  "completed_fixtures": 51,
+  "draw_fixtures": 3,
+  "singles_rubbers": 204,
+  "doubles_rubbers": 102,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

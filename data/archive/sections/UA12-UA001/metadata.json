@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA12-UA001",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2013",
+  "season_id": "UA12",
+  "season_label": "Autumn 2013",
+  "source_section_code": "UA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Dendy Park 1",
+      "wins": 11,
+      "points": 119.5,
+      "percentage": 228.25,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Kooyong 1",
+      "wins": 9,
+      "points": 105,
+      "percentage": 179.45,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kooyong 3",
+      "wins": 7,
+      "points": 90,
+      "percentage": 152.92,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong 2",
+      "wins": 7,
+      "points": 73,
+      "percentage": 96.42,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Coatesville",
+      "wins": 6,
+      "points": 61,
+      "percentage": 84.51,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park 2",
+      "wins": 3,
+      "points": 54,
+      "percentage": 83.08,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Carmelite",
+      "wins": 1,
+      "points": 37,
+      "percentage": 55.95,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Black Rock",
+      "wins": 0,
+      "points": 20.5,
+      "percentage": 40.15,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA12-UA001",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 201,
+  "doubles_rubbers": 103,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

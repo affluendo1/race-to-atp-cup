@@ -1,0 +1,233 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA011011,03 Feb 19,1,Royal Ave,BLTC 2,No. 1,Ethan Pham,Dean Nguyen,Dean Nguyen,1-6,1,6,0,1,Completed,true,false,false
+UA011011,03 Feb 19,1,Royal Ave,BLTC 2,No. 2,Hudson Furbank,Mathilde Loeper,Mathilde Loeper,0-6,0,6,0,1,Completed,true,false,false
+UA011011,03 Feb 19,1,Royal Ave,BLTC 2,No. 3,Charles McNabney-Stevens,Isabella Nicolis,Charles McNabney-Stevens,6-3,6,3,1,0,Completed,true,false,false
+UA011011,03 Feb 19,1,Royal Ave,BLTC 2,No. 4,Hunter Creemain,Leo Hensche,Hunter Creemain,7-5,7,5,1,0,Completed,true,false,false
+UA011012,03 Feb 19,1,Black Rock,Victory Park,No. 1,Gabriel Coleman,Lara Scammel,Gabriel Coleman,6-3,6,3,1,0,Completed,true,false,false
+UA011012,03 Feb 19,1,Black Rock,Victory Park,No. 2,Sam Bennett,Summer Chan,Summer Chan,0-6,0,6,0,1,Completed,true,false,false
+UA011012,03 Feb 19,1,Black Rock,Victory Park,No. 3,[Unnamed player — TROLS UA011012 home code 3],Kiyara Abeyarathna,Kiyara Abeyarathna,0-6,0,6,0,1,Completed,false,false,false
+UA011012,03 Feb 19,1,Black Rock,Victory Park,No. 4,Lachlan Howell,Oscar Yeaman-Jones,Lachlan Howell,6-1,6,1,1,0,Completed,true,false,false
+UA011013,03 Feb 19,1,BLTC 1 Bodley,St Pauls,No. 1,Hamish Roberts,Henry Moore,Hamish Roberts,6-0,6,0,1,0,Completed,true,false,false
+UA011013,03 Feb 19,1,BLTC 1 Bodley,St Pauls,No. 2,George Fennessy,Aaron Ryan,George Fennessy,6-4,6,4,1,0,Completed,true,false,false
+UA011013,03 Feb 19,1,BLTC 1 Bodley,St Pauls,No. 3,Freddie Liu,Henry Ashton,Freddie Liu,6-4,6,4,1,0,Completed,true,false,false
+UA011013,03 Feb 19,1,BLTC 1 Bodley,St Pauls,No. 4,Stevan Jakic,Anna Kennedy,Anna Kennedy,4-6,4,6,0,1,Completed,true,false,false
+UA011014,03 Feb 19,1,St James,GPHC,No. 1,Samuel Sheddon,James Young,Samuel Sheddon,6-1,6,1,1,0,Completed,true,false,false
+UA011014,03 Feb 19,1,St James,GPHC,No. 2,Belis Gulener,Sophie Hart,Belis Gulener,6-4,6,4,1,0,Completed,true,false,false
+UA011014,03 Feb 19,1,St James,GPHC,No. 3,Marcel Szynkowska,Hannah Croft,Hannah Croft,3-6,3,6,0,1,Completed,true,false,false
+UA011014,03 Feb 19,1,St James,GPHC,No. 4,Barney Smith,Rosie Beadle,Barney Smith,6-1,6,1,1,0,Completed,true,false,false
+UA011021,10 Feb 19,2,GPHC,Royal Ave,No. 1,Sophie Hart,Ethan Pham,Ethan Pham,6-7,6,7,0,1,Completed,true,false,false
+UA011021,10 Feb 19,2,GPHC,Royal Ave,No. 2,Hannah Croft,Hudson Furbank,Hannah Croft,6-0,6,0,1,0,Completed,true,false,false
+UA011021,10 Feb 19,2,GPHC,Royal Ave,No. 3,Yannick Dobson,Charles McNabney-Stevens,Yannick Dobson,6-4,6,4,1,0,Completed,true,false,false
+UA011021,10 Feb 19,2,GPHC,Royal Ave,No. 4,Marissa Majumdar,Olivia Todd-Chidley,Marissa Majumdar,6-0,6,0,1,0,Completed,true,false,false
+UA011022,10 Feb 19,2,BLTC 2,Black Rock,No. 1,Dean Nguyen,Gabriel Coleman,Dean Nguyen,6-1,6,1,1,0,Completed,true,false,false
+UA011022,10 Feb 19,2,BLTC 2,Black Rock,No. 2,Yani Ryan,Lewis Smith,Lewis Smith,3-6,3,6,0,1,Completed,true,false,false
+UA011022,10 Feb 19,2,BLTC 2,Black Rock,No. 3,Isabella Nicolis,Sam Bennett,Isabella Nicolis,6-1,6,1,1,0,Completed,true,false,false
+UA011022,10 Feb 19,2,BLTC 2,Black Rock,No. 4,Ashley Dickinson,Lachlan Howell,Ashley Dickinson,7-5,7,5,1,0,Completed,true,false,false
+UA011023,10 Feb 19,2,Victory Park,BLTC 1 Bodley,No. 1,Lara Scammel,Hamish Roberts,Hamish Roberts,2-6,2,6,0,1,Completed,true,false,false
+UA011023,10 Feb 19,2,Victory Park,BLTC 1 Bodley,No. 2,Summer Chan,George Fennessy,George Fennessy,4-6,4,6,0,1,Completed,true,false,false
+UA011023,10 Feb 19,2,Victory Park,BLTC 1 Bodley,No. 3,Kiyara Abeyarathna,Anirush Harirani,Kiyara Abeyarathna,7-5,7,5,1,0,Completed,true,false,false
+UA011023,10 Feb 19,2,Victory Park,BLTC 1 Bodley,No. 4,Oscar Yeaman-Jones,Stevan Jakic,Stevan Jakic,2-6,2,6,0,1,Completed,true,false,false
+UA011024,10 Feb 19,2,St Pauls,St James,No. 1,Aaron Ryan,Samuel Sheddon,Samuel Sheddon,3-6,3,6,0,1,Completed,true,false,false
+UA011024,10 Feb 19,2,St Pauls,St James,No. 2,Henry Ashton,Belis Gulener,Henry Ashton,6-4,6,4,1,0,Completed,true,false,false
+UA011024,10 Feb 19,2,St Pauls,St James,No. 3,Anna Kennedy,Marcel Szynkowska,Marcel Szynkowska,5-7,5,7,0,1,Completed,true,false,false
+UA011024,10 Feb 19,2,St Pauls,St James,No. 4,Tashia Camile,Barney Smith,Barney Smith,3-6,3,6,0,1,Completed,true,false,false
+UA011031,17 Feb 19,3,Royal Ave,St Pauls,No. 1,Isabel Goldsmith,Henry Moore,Isabel Goldsmith,6-3,6,3,1,0,Completed,true,false,false
+UA011031,17 Feb 19,3,Royal Ave,St Pauls,No. 2,Hudson Furbank,Henry Ashton,Henry Ashton,3-6,3,6,0,1,Completed,true,false,false
+UA011031,17 Feb 19,3,Royal Ave,St Pauls,No. 3,Hunter Creemain,Anna Kennedy,Hunter Creemain,6-2,6,2,1,0,Completed,true,false,false
+UA011031,17 Feb 19,3,Royal Ave,St Pauls,No. 4,Olivia Todd-Chidley,Tashia Camile,Olivia Todd-Chidley,6-2,6,2,1,0,Completed,true,false,false
+UA011032,17 Feb 19,3,Black Rock,GPHC,No. 1,Lewis Smith,James Young,Lewis Smith,7-5,7,5,1,0,Completed,true,false,false
+UA011032,17 Feb 19,3,Black Rock,GPHC,No. 2,Gabriel Coleman,Hannah Croft,Hannah Croft,0-6,0,6,0,1,Completed,true,false,false
+UA011032,17 Feb 19,3,Black Rock,GPHC,No. 3,Lachlan Howell,Yannick Dobson,Yannick Dobson,2-6,2,6,0,1,Completed,true,false,false
+UA011032,17 Feb 19,3,Black Rock,GPHC,No. 4,Sam Bennett,Rosie Beadle,Sam Bennett,6-3,6,3,1,0,Completed,true,false,false
+UA011033,17 Feb 19,3,BLTC 1 Bodley,BLTC 2,No. 1,Hamish Roberts,Yani Ryan,Hamish Roberts,6-1,6,1,1,0,Completed,true,false,false
+UA011033,17 Feb 19,3,BLTC 1 Bodley,BLTC 2,No. 2,George Fennessy,Mathilde Loeper,George Fennessy,6-1,6,1,1,0,Completed,true,false,false
+UA011033,17 Feb 19,3,BLTC 1 Bodley,BLTC 2,No. 3,Anirush Harirani,Leo Hensche,Anirush Harirani,6-0,6,0,1,0,Completed,true,false,false
+UA011033,17 Feb 19,3,BLTC 1 Bodley,BLTC 2,No. 4,Freddie Liu,Ashley Dickinson,Ashley Dickinson,0-6,0,6,0,1,Completed,true,false,false
+UA011034,17 Feb 19,3,St James,Victory Park,No. 1,Samuel Sheddon,Lara Scammel,Samuel Sheddon,6-3,6,3,1,0,Completed,true,false,false
+UA011034,17 Feb 19,3,St James,Victory Park,No. 2,Belis Gulener,Summer Chan,Summer Chan,0-6,0,6,0,1,Completed,true,false,false
+UA011034,17 Feb 19,3,St James,Victory Park,No. 3,Marcel Szynkowska,Oliver Richards,Marcel Szynkowska,6-2,6,2,1,0,Completed,true,false,false
+UA011034,17 Feb 19,3,St James,Victory Park,No. 4,Barney Smith,Oscar Yeaman-Jones,Barney Smith,6-4,6,4,1,0,Completed,true,false,false
+UA011041,24 Feb 19,4,Victory Park,Royal Ave,No. 1,Summer Chan,Ethan Pham,Summer Chan,6-3,6,3,1,0,Completed,true,false,false
+UA011041,24 Feb 19,4,Victory Park,Royal Ave,No. 2,Kiyara Abeyarathna,Hudson Furbank,Kiyara Abeyarathna,6-2,6,2,1,0,Completed,true,false,false
+UA011041,24 Feb 19,4,Victory Park,Royal Ave,No. 3,Jeremy Mendel,Charles McNabney-Stevens,Jeremy Mendel,6-2,6,2,1,0,Completed,true,false,false
+UA011041,24 Feb 19,4,Victory Park,Royal Ave,No. 4,Oscar Yeaman-Jones,Hunter Creemain,Oscar Yeaman-Jones,6-0,6,0,1,0,Completed,true,false,false
+UA011042,24 Feb 19,4,St Pauls,Black Rock,No. 1,Aaron Ryan,Gabriel Coleman,Aaron Ryan,7-6,7,6,1,0,Completed,true,false,false
+UA011042,24 Feb 19,4,St Pauls,Black Rock,No. 2,Henry Ashton,Lewis Smith,Henry Ashton,6-0,6,0,1,0,Completed,true,false,false
+UA011042,24 Feb 19,4,St Pauls,Black Rock,No. 3,Anna Kennedy,Sam Bennett,Anna Kennedy,6-2,6,2,1,0,Completed,true,false,false
+UA011042,24 Feb 19,4,St Pauls,Black Rock,No. 4,Tashia Camile,Lachlan Howell,Lachlan Howell,2-6,2,6,0,1,Completed,true,false,false
+UA011043,24 Feb 19,4,GPHC,BLTC 1 Bodley,No. 1,James Young,Hamish Roberts,Hamish Roberts,0-6,0,6,0,1,Completed,true,false,false
+UA011043,24 Feb 19,4,GPHC,BLTC 1 Bodley,No. 2,Sophie Hart,Anirush Harirani,Anirush Harirani,2-6,2,6,0,1,Completed,true,false,false
+UA011043,24 Feb 19,4,GPHC,BLTC 1 Bodley,No. 3,Yannick Dobson,Freddie Liu,Yannick Dobson,6-0,6,0,1,0,Completed,true,false,false
+UA011043,24 Feb 19,4,GPHC,BLTC 1 Bodley,No. 4,Marissa Majumdar,Stevan Jakic,Stevan Jakic,4-6,4,6,0,1,Completed,true,false,false
+UA011044,24 Feb 19,4,BLTC 2,St James,No. 1,Dean Nguyen,Samuel Sheddon,Dean Nguyen,6-3,6,3,1,0,Completed,true,false,false
+UA011044,24 Feb 19,4,BLTC 2,St James,No. 2,Mathilde Loeper,Belis Gulener,Mathilde Loeper,6-2,6,2,1,0,Completed,true,false,false
+UA011044,24 Feb 19,4,BLTC 2,St James,No. 3,Isabella Nicolis,Marcel Szynkowska,Marcel Szynkowska,0-6,0,6,0,1,Completed,true,false,false
+UA011044,24 Feb 19,4,BLTC 2,St James,No. 4,Leo Hensche,Barney Smith,Leo Hensche,7-5,7,5,1,0,Completed,true,false,false
+UA011051,03 Mar 19,5,BLTC 1 Bodley,St James,No. 1,George Fennessy,Samuel Sheddon,George Fennessy,6-4,6,4,1,0,Completed,true,false,false
+UA011051,03 Mar 19,5,BLTC 1 Bodley,St James,No. 2,Anirush Harirani,Belis Gulener,Anirush Harirani,6-2,6,2,1,0,Completed,true,false,false
+UA011051,03 Mar 19,5,BLTC 1 Bodley,St James,No. 3,Freddie Liu,Marcel Szynkowska,Marcel Szynkowska,0-6,0,6,0,1,Completed,true,false,false
+UA011051,03 Mar 19,5,BLTC 1 Bodley,St James,No. 4,Stevan Jakic,Barney Smith,Barney Smith,3-6,3,6,0,1,Completed,true,false,false
+UA011052,03 Mar 19,5,GPHC,St Pauls,No. 1,Hannah Croft,Henry Moore,Hannah Croft,6-4,6,4,1,0,Completed,true,false,false
+UA011052,03 Mar 19,5,GPHC,St Pauls,No. 2,Yannick Dobson,Aaron Ryan,Aaron Ryan,2-6,2,6,0,1,Completed,true,false,false
+UA011052,03 Mar 19,5,GPHC,St Pauls,No. 3,Marissa Majumdar,Henry Ashton,Henry Ashton,0-6,0,6,0,1,Completed,true,false,false
+UA011052,03 Mar 19,5,GPHC,St Pauls,No. 4,Rosie Beadle,Anna Kennedy,Anna Kennedy,4-6,4,6,0,1,Completed,true,false,false
+UA011053,03 Mar 19,5,Victory Park,BLTC 2,No. 1,Lara Scammel,Dean Nguyen,Dean Nguyen,1-6,1,6,0,1,Completed,true,false,false
+UA011053,03 Mar 19,5,Victory Park,BLTC 2,No. 2,Summer Chan,Yani Ryan,Summer Chan,6-2,6,2,1,0,Completed,true,false,false
+UA011053,03 Mar 19,5,Victory Park,BLTC 2,No. 3,Kiyara Abeyarathna,Mathilde Loeper,Kiyara Abeyarathna,6-3,6,3,1,0,Completed,true,false,false
+UA011053,03 Mar 19,5,Victory Park,BLTC 2,No. 4,Josh Shawel,Leo Hensche,Josh Shawel,6-2,6,2,1,0,Completed,true,false,false
+UA011054,03 Mar 19,5,Royal Ave,Black Rock,No. 1,Ethan Pham,Lewis Smith,Lewis Smith,5-7,5,7,0,1,Completed,true,false,false
+UA011054,03 Mar 19,5,Royal Ave,Black Rock,No. 2,Isabel Goldsmith,Gabriel Coleman,Isabel Goldsmith,6-3,6,3,1,0,Completed,true,false,false
+UA011054,03 Mar 19,5,Royal Ave,Black Rock,No. 3,Charles McNabney-Stevens,Sam Bennett,Charles McNabney-Stevens,6-3,6,3,1,0,Completed,true,false,false
+UA011054,03 Mar 19,5,Royal Ave,Black Rock,No. 4,Olivia Todd-Chidley,Lachlan Howell,Lachlan Howell,2-6,2,6,0,1,Completed,true,false,false
+UA011061,17 Mar 19,6,Black Rock,BLTC 1 Bodley,No. 1,Lewis Smith,Hamish Roberts,Hamish Roberts,3-6,3,6,0,1,Completed,true,false,false
+UA011061,17 Mar 19,6,Black Rock,BLTC 1 Bodley,No. 2,Gabriel Coleman,George Fennessy,Gabriel Coleman,7-5,7,5,1,0,Completed,true,false,false
+UA011061,17 Mar 19,6,Black Rock,BLTC 1 Bodley,No. 3,Sam Bennett,Freddie Liu,Freddie Liu,2-6,2,6,0,1,Completed,true,false,false
+UA011061,17 Mar 19,6,Black Rock,BLTC 1 Bodley,No. 4,Lachlan Howell,Stevan Jakic,Stevan Jakic,3-6,3,6,0,1,Completed,true,false,false
+UA011062,17 Mar 19,6,St James,Royal Ave,No. 1,Samuel Sheddon,Isabel Goldsmith,Samuel Sheddon,6-2,6,2,1,0,Completed,true,false,false
+UA011062,17 Mar 19,6,St James,Royal Ave,No. 2,Belis Gulener,Charles McNabney-Stevens,Charles McNabney-Stevens,4-6,4,6,0,1,Completed,true,false,false
+UA011062,17 Mar 19,6,St James,Royal Ave,No. 3,Barney Smith,Hunter Creemain,Barney Smith,6-4,6,4,1,0,Completed,true,false,false
+UA011062,17 Mar 19,6,St James,Royal Ave,No. 4,Sebastian Fyfe,Olivia Todd-Chidley,Sebastian Fyfe,6-2,6,2,1,0,Completed,true,false,false
+UA011063,17 Mar 19,6,St Pauls,Victory Park,No. 1,Henry Moore,Lara Scammel,Henry Moore,6-2,6,2,1,0,Completed,true,false,false
+UA011063,17 Mar 19,6,St Pauls,Victory Park,No. 2,Aaron Ryan,Summer Chan,Summer Chan,4-6,4,6,0,1,Completed,true,false,false
+UA011063,17 Mar 19,6,St Pauls,Victory Park,No. 3,Henry Ashton,Kiyara Abeyarathna,Henry Ashton,6-1,6,1,1,0,Completed,true,false,false
+UA011063,17 Mar 19,6,St Pauls,Victory Park,No. 4,Tashia Camile,Oscar Yeaman-Jones,Tashia Camile,6-0,6,0,1,0,Completed,true,false,false
+UA011064,17 Mar 19,6,BLTC 2,GPHC,No. 1,Mathilde Loeper,James Young,Mathilde Loeper,7-6,7,6,1,0,Completed,true,false,false
+UA011064,17 Mar 19,6,BLTC 2,GPHC,No. 2,Isabella Nicolis,Sophie Hart,Sophie Hart,1-6,1,6,0,1,Completed,true,false,false
+UA011064,17 Mar 19,6,BLTC 2,GPHC,No. 3,Leo Hensche,Hannah Croft,Hannah Croft,0-6,0,6,0,1,Completed,true,false,false
+UA011064,17 Mar 19,6,BLTC 2,GPHC,No. 4,Ashley Dickinson,Yannick Dobson,Yannick Dobson,1-6,1,6,0,1,Completed,true,false,false
+UA011071,24 Mar 19,7,Royal Ave,BLTC 1 Bodley,No. 1,Ethan Pham,Hamish Roberts,Hamish Roberts,1-6,1,6,0,1,Completed,true,false,false
+UA011071,24 Mar 19,7,Royal Ave,BLTC 1 Bodley,No. 2,Isabel Goldsmith,George Fennessy,George Fennessy,0-6,0,6,0,1,Completed,true,false,false
+UA011071,24 Mar 19,7,Royal Ave,BLTC 1 Bodley,No. 3,Charles McNabney-Stevens,Anirush Harirani,Anirush Harirani,2-6,2,6,0,1,Completed,true,false,false
+UA011071,24 Mar 19,7,Royal Ave,BLTC 1 Bodley,No. 4,Hunter Creemain,Freddie Liu,Freddie Liu,1-6,1,6,0,1,Completed,true,false,false
+UA011072,24 Mar 19,7,Black Rock,St James,No. 1,Lewis Smith,Samuel Sheddon,Lewis Smith,7-5,7,5,1,0,Completed,true,false,false
+UA011072,24 Mar 19,7,Black Rock,St James,No. 2,Gabriel Coleman,Belis Gulener,Gabriel Coleman,6-4,6,4,1,0,Completed,true,false,false
+UA011072,24 Mar 19,7,Black Rock,St James,No. 3,Sam Bennett,Marcel Szynkowska,Marcel Szynkowska,1-6,1,6,0,1,Completed,true,false,false
+UA011072,24 Mar 19,7,Black Rock,St James,No. 4,Lachlan Howell,Barney Smith,Barney Smith,6-7,6,7,0,1,Completed,true,false,false
+UA011073,24 Mar 19,7,GPHC,Victory Park,No. 1,Hannah Croft,Lara Scammel,Hannah Croft,6-0,6,0,1,0,Completed,true,false,false
+UA011073,24 Mar 19,7,GPHC,Victory Park,No. 2,Yannick Dobson,Summer Chan,Yannick Dobson,6-4,6,4,1,0,Completed,true,false,false
+UA011073,24 Mar 19,7,GPHC,Victory Park,No. 3,Marissa Majumdar,Kiyara Abeyarathna,Kiyara Abeyarathna,4-6,4,6,0,1,Completed,true,false,false
+UA011073,24 Mar 19,7,GPHC,Victory Park,No. 4,Rosie Beadle,Oscar Yeaman-Jones,Oscar Yeaman-Jones,6-7,6,7,0,1,Completed,true,false,false
+UA011074,24 Mar 19,7,St Pauls,BLTC 2,No. 1,Aaron Ryan,Dean Nguyen,Dean Nguyen,0-6,0,6,0,1,Completed,true,false,false
+UA011074,24 Mar 19,7,St Pauls,BLTC 2,No. 2,Henry Ashton,Yani Ryan,Yani Ryan,2-6,2,6,0,1,Completed,true,false,false
+UA011074,24 Mar 19,7,St Pauls,BLTC 2,No. 3,Anna Kennedy,Mathilde Loeper,Anna Kennedy,6-3,6,3,1,0,Completed,true,false,false
+UA011074,24 Mar 19,7,St Pauls,BLTC 2,No. 4,Tashia Camile,Leo Hensche,Leo Hensche,1-6,1,6,0,1,Completed,true,false,false
+UA011081,31 Mar 19,8,BLTC 2,Royal Ave,No. 1,Yani Ryan,Charles McNabney-Stevens,Charles McNabney-Stevens,4-6,4,6,0,1,Completed,true,false,false
+UA011081,31 Mar 19,8,BLTC 2,Royal Ave,No. 2,Isabella Nicolis,Hunter Creemain,Isabella Nicolis,6-1,6,1,1,0,Completed,true,false,false
+UA011081,31 Mar 19,8,BLTC 2,Royal Ave,No. 3,Leo Hensche,Olivia Todd-Chidley,Leo Hensche,6-1,6,1,1,0,Completed,true,false,false
+UA011081,31 Mar 19,8,BLTC 2,Royal Ave,No. 4,Ashley Dickinson,William Farrugia,Ashley Dickinson,6-2,6,2,1,0,Completed,true,false,false
+UA011083,31 Mar 19,8,St Pauls,BLTC 1 Bodley,No. 1,Henry Moore,Hamish Roberts,Hamish Roberts,2-6,2,6,0,1,Completed,true,false,false
+UA011083,31 Mar 19,8,St Pauls,BLTC 1 Bodley,No. 2,Henry Ashton,George Fennessy,George Fennessy,2-6,2,6,0,1,Completed,true,false,false
+UA011083,31 Mar 19,8,St Pauls,BLTC 1 Bodley,No. 3,Anna Kennedy,Anirush Harirani,Anirush Harirani,4-6,4,6,0,1,Completed,true,false,false
+UA011083,31 Mar 19,8,St Pauls,BLTC 1 Bodley,No. 4,Aaron Ryan,Freddie Liu,Freddie Liu,0-6,0,6,0,1,Completed,true,false,false
+UA011084,31 Mar 19,8,GPHC,St James,No. 1,James Young,Belis Gulener,Belis Gulener,6-7,6,7,0,1,Completed,true,false,false
+UA011084,31 Mar 19,8,GPHC,St James,No. 2,Sophie Hart,Marcel Szynkowska,Marcel Szynkowska,2-6,2,6,0,1,Completed,true,false,false
+UA011084,31 Mar 19,8,GPHC,St James,No. 3,Yannick Dobson,Barney Smith,Yannick Dobson,6-2,6,2,1,0,Completed,true,false,false
+UA011084,31 Mar 19,8,GPHC,St James,No. 4,Marissa Majumdar,Sebastian Fyfe,Sebastian Fyfe,5-7,5,7,0,1,Completed,true,false,false
+UA011091,28 Apr 19,9,Royal Ave,GPHC,No. 1,Ethan Pham,Hannah Croft,Hannah Croft,2-6,2,6,0,1,Completed,true,false,false
+UA011091,28 Apr 19,9,Royal Ave,GPHC,No. 2,Charles McNabney-Stevens,James Young,Charles McNabney-Stevens,6-4,6,4,1,0,Completed,true,false,false
+UA011091,28 Apr 19,9,Royal Ave,GPHC,No. 3,Olivia Todd-Chidley,Sophie Hart,Sophie Hart,4-6,4,6,0,1,Completed,true,false,false
+UA011091,28 Apr 19,9,Royal Ave,GPHC,No. 4,William Farrugia,Marissa Majumdar,William Farrugia,6-2,6,2,1,0,Completed,true,false,false
+UA011092,28 Apr 19,9,Black Rock,BLTC 2,No. 1,Abbey Howell,Dean Nguyen,Dean Nguyen,3-6,3,6,0,1,Completed,true,false,false
+UA011092,28 Apr 19,9,Black Rock,BLTC 2,No. 2,Lewis Smith,Mathilde Loeper,Lewis Smith,6-1,6,1,1,0,Completed,true,false,false
+UA011092,28 Apr 19,9,Black Rock,BLTC 2,No. 3,Gabriel Coleman,Isabella Nicolis,Gabriel Coleman,6-4,6,4,1,0,Completed,true,false,false
+UA011092,28 Apr 19,9,Black Rock,BLTC 2,No. 4,Sam Bennett,Ashley Dickinson,Ashley Dickinson,2-6,2,6,0,1,Completed,true,false,false
+UA011093,28 Apr 19,9,BLTC 1 Bodley,Victory Park,No. 1,George Fennessy,Lara Scammel,George Fennessy,7-6,7,6,1,0,Completed,true,false,false
+UA011093,28 Apr 19,9,BLTC 1 Bodley,Victory Park,No. 2,Anirush Harirani,Summer Chan,Summer Chan,6-7,6,7,0,1,Completed,true,false,false
+UA011093,28 Apr 19,9,BLTC 1 Bodley,Victory Park,No. 3,Freddie Liu,Kiyara Abeyarathna,Kiyara Abeyarathna,1-6,1,6,0,1,Completed,true,false,false
+UA011093,28 Apr 19,9,BLTC 1 Bodley,Victory Park,No. 4,Stevan Jakic,Oscar Yeaman-Jones,Stevan Jakic,6-3,6,3,1,0,Completed,true,false,false
+UA011094,28 Apr 19,9,St James,St Pauls,No. 1,Samuel Sheddon,Henry Ashton,Henry Ashton,4-6,4,6,0,1,Completed,true,false,false
+UA011094,28 Apr 19,9,St James,St Pauls,No. 2,Belis Gulener,Aaron Ryan,Aaron Ryan,4-6,4,6,0,1,Completed,true,false,false
+UA011094,28 Apr 19,9,St James,St Pauls,No. 3,Marcel Szynkowska,Anna Kennedy,Marcel Szynkowska,6-2,6,2,1,0,Completed,true,false,false
+UA011094,28 Apr 19,9,St James,St Pauls,No. 4,Barney Smith,Tashia Camile,Barney Smith,6-1,6,1,1,0,Completed,true,false,false
+UA011101,05 May 19,10,St Pauls,Royal Ave,No. 1,Henry Moore,Ethan Pham,Ethan Pham,4-6,4,6,0,1,Completed,true,false,false
+UA011101,05 May 19,10,St Pauls,Royal Ave,No. 2,Henry Ashton,Charles McNabney-Stevens,Henry Ashton,6-2,6,2,1,0,Completed,true,false,false
+UA011101,05 May 19,10,St Pauls,Royal Ave,No. 3,Anna Kennedy,Hunter Creemain,Anna Kennedy,6-0,6,0,1,0,Completed,true,false,false
+UA011101,05 May 19,10,St Pauls,Royal Ave,No. 4,Tashia Camile,Olivia Todd-Chidley,Tashia Camile,6-3,6,3,1,0,Completed,true,false,false
+UA011102,05 May 19,10,GPHC,Black Rock,No. 1,Hannah Croft,Lewis Smith,Hannah Croft,6-4,6,4,1,0,Completed,true,false,false
+UA011102,05 May 19,10,GPHC,Black Rock,No. 2,James Young,Gabriel Coleman,Gabriel Coleman,5-7,5,7,0,1,Completed,true,false,false
+UA011102,05 May 19,10,GPHC,Black Rock,No. 3,Yannick Dobson,Sam Bennett,Sam Bennett,0-6,0,6,0,1,Completed,true,false,false
+UA011102,05 May 19,10,GPHC,Black Rock,No. 4,Rosie Beadle,Lachlan Howell,Lachlan Howell,4-6,4,6,0,1,Completed,true,false,false
+UA011103,05 May 19,10,BLTC 2,BLTC 1 Bodley,No. 1,Dean Nguyen,Hamish Roberts,Dean Nguyen,6-4,6,4,1,0,Completed,true,false,false
+UA011103,05 May 19,10,BLTC 2,BLTC 1 Bodley,No. 2,Yani Ryan,George Fennessy,George Fennessy,3-6,3,6,0,1,Completed,true,false,false
+UA011103,05 May 19,10,BLTC 2,BLTC 1 Bodley,No. 3,Mathilde Loeper,Anirush Harirani,Mathilde Loeper,6-0,6,0,1,0,Completed,true,false,false
+UA011103,05 May 19,10,BLTC 2,BLTC 1 Bodley,No. 4,Isabella Nicolis,Stevan Jakic,Isabella Nicolis,6-4,6,4,1,0,Completed,true,false,false
+UA011104,05 May 19,10,Victory Park,St James,No. 1,Summer Chan,Samuel Sheddon,Summer Chan,6-3,6,3,1,0,Completed,true,false,false
+UA011104,05 May 19,10,Victory Park,St James,No. 2,Kiyara Abeyarathna,Belis Gulener,Kiyara Abeyarathna,7-5,7,5,1,0,Completed,true,false,false
+UA011104,05 May 19,10,Victory Park,St James,No. 3,Oscar Yeaman-Jones,Marcel Szynkowska,Marcel Szynkowska,4-6,4,6,0,1,Completed,true,false,false
+UA011104,05 May 19,10,Victory Park,St James,No. 4,Cathy Lu,Barney Smith,Barney Smith,6-7,6,7,0,1,Completed,true,false,false
+UA011111,12 May 19,11,Royal Ave,Victory Park,No. 1,Ethan Pham,Lara Scammel,Ethan Pham,6-2,6,2,1,0,Completed,true,false,false
+UA011111,12 May 19,11,Royal Ave,Victory Park,No. 2,Isabel Goldsmith,Summer Chan,Summer Chan,2-6,2,6,0,1,Completed,true,false,false
+UA011111,12 May 19,11,Royal Ave,Victory Park,No. 3,Hudson Furbank,Kiyara Abeyarathna,Kiyara Abeyarathna,1-6,1,6,0,1,Completed,true,false,false
+UA011111,12 May 19,11,Royal Ave,Victory Park,No. 4,Charles McNabney-Stevens,Cathy Lu,Charles McNabney-Stevens,6-3,6,3,1,0,Completed,true,false,false
+UA011112,12 May 19,11,Black Rock,St Pauls,No. 1,Patrick Howell,Henry Moore,Patrick Howell,6-3,6,3,1,0,Completed,true,false,false
+UA011112,12 May 19,11,Black Rock,St Pauls,No. 2,Lewis Smith,Henry Ashton,Lewis Smith,6-3,6,3,1,0,Completed,true,false,false
+UA011112,12 May 19,11,Black Rock,St Pauls,No. 3,Gabriel Coleman,Anna Kennedy,Gabriel Coleman,6-3,6,3,1,0,Completed,true,false,false
+UA011112,12 May 19,11,Black Rock,St Pauls,No. 4,Sam Bennett,Tashia Camile,Tashia Camile,3-6,3,6,0,1,Completed,true,false,false
+UA011113,12 May 19,11,BLTC 1 Bodley,GPHC,No. 1,Hamish Roberts,Hannah Croft,Hamish Roberts,6-2,6,2,1,0,Completed,true,false,false
+UA011113,12 May 19,11,BLTC 1 Bodley,GPHC,No. 2,George Fennessy,James Young,George Fennessy,6-0,6,0,1,0,Completed,true,false,false
+UA011113,12 May 19,11,BLTC 1 Bodley,GPHC,No. 3,Freddie Liu,Marissa Majumdar,Freddie Liu,6-4,6,4,1,0,Completed,true,false,false
+UA011113,12 May 19,11,BLTC 1 Bodley,GPHC,No. 4,Stevan Jakic,Rosie Beadle,Rosie Beadle,3-6,3,6,0,1,Completed,true,false,false
+UA011114,12 May 19,11,St James,BLTC 2,No. 1,Samuel Sheddon,Dean Nguyen,Dean Nguyen,0-6,0,6,0,1,Completed,true,false,false
+UA011114,12 May 19,11,St James,BLTC 2,No. 2,Belis Gulener,Yani Ryan,Yani Ryan,1-6,1,6,0,1,Completed,true,false,false
+UA011114,12 May 19,11,St James,BLTC 2,No. 3,Marcel Szynkowska,Mathilde Loeper,Marcel Szynkowska,6-4,6,4,1,0,Completed,true,false,false
+UA011114,12 May 19,11,St James,BLTC 2,No. 4,Barney Smith,Ashley Dickinson,Ashley Dickinson,1-6,1,6,0,1,Completed,true,false,false
+UA011121,19 May 19,12,St James,BLTC 1 Bodley,No. 1,Samuel Sheddon,Hamish Roberts,Hamish Roberts,2-6,2,6,0,1,Completed,true,false,false
+UA011121,19 May 19,12,St James,BLTC 1 Bodley,No. 2,Marcel Szynkowska,George Fennessy,George Fennessy,2-6,2,6,0,1,Completed,true,false,false
+UA011121,19 May 19,12,St James,BLTC 1 Bodley,No. 3,Barney Smith,Freddie Liu,Freddie Liu,2-6,2,6,0,1,Completed,true,false,false
+UA011121,19 May 19,12,St James,BLTC 1 Bodley,No. 4,Isaac Walsh,Stevan Jakic,Stevan Jakic,2-6,2,6,0,1,Completed,true,false,false
+UA011122,19 May 19,12,St Pauls,GPHC,No. 1,Henry Moore,Hannah Croft,Hannah Croft,4-6,4,6,0,1,Completed,true,false,false
+UA011122,19 May 19,12,St Pauls,GPHC,No. 2,Aaron Ryan,Sophie Hart,Sophie Hart,1-6,1,6,0,1,Completed,true,false,false
+UA011122,19 May 19,12,St Pauls,GPHC,No. 3,Henry Ashton,Marissa Majumdar,Marissa Majumdar,0-6,0,6,0,1,Completed,true,false,false
+UA011122,19 May 19,12,St Pauls,GPHC,No. 4,Anna Kennedy,Rudy Byass,Anna Kennedy,6-1,6,1,1,0,Completed,true,false,false
+UA011123,19 May 19,12,BLTC 2,Victory Park,No. 1,Dean Nguyen,Lara Scammel,Dean Nguyen,6-1,6,1,1,0,Completed,true,false,false
+UA011123,19 May 19,12,BLTC 2,Victory Park,No. 2,Yani Ryan,Summer Chan,Summer Chan,2-6,2,6,0,1,Completed,true,false,false
+UA011123,19 May 19,12,BLTC 2,Victory Park,No. 3,Isabella Nicolis,Kiyara Abeyarathna,Isabella Nicolis,6-3,6,3,1,0,Completed,true,false,false
+UA011123,19 May 19,12,BLTC 2,Victory Park,No. 4,Ashley Dickinson,Cathy Lu,Ashley Dickinson,6-0,6,0,1,0,Completed,true,false,false
+UA011124,19 May 19,12,Black Rock,Royal Ave,No. 1,Patrick Howell,Ethan Pham,Patrick Howell,6-1,6,1,1,0,Completed,true,false,false
+UA011124,19 May 19,12,Black Rock,Royal Ave,No. 2,Lewis Smith,Isabel Goldsmith,Lewis Smith,7-5,7,5,1,0,Completed,true,false,false
+UA011124,19 May 19,12,Black Rock,Royal Ave,No. 3,Gabriel Coleman,Hudson Furbank,Gabriel Coleman,6-3,6,3,1,0,Completed,true,false,false
+UA011124,19 May 19,12,Black Rock,Royal Ave,No. 4,Sam Bennett,Olivia Todd-Chidley,Sam Bennett,6-1,6,1,1,0,Completed,true,false,false
+UA011131,26 May 19,13,BLTC 1 Bodley,Black Rock,No. 1,Hamish Roberts,Abbey Howell,Hamish Roberts,6-3,6,3,1,0,Completed,true,false,false
+UA011131,26 May 19,13,BLTC 1 Bodley,Black Rock,No. 2,Anirush Harirani,Lewis Smith,Lewis Smith,4-6,4,6,0,1,Completed,true,false,false
+UA011131,26 May 19,13,BLTC 1 Bodley,Black Rock,No. 3,Freddie Liu,Gabriel Coleman,Freddie Liu,6-3,6,3,1,0,Completed,true,false,false
+UA011131,26 May 19,13,BLTC 1 Bodley,Black Rock,No. 4,Stevan Jakic,Sam Bennett,Stevan Jakic,6-0,6,0,1,0,Completed,true,false,false
+UA011132,26 May 19,13,Royal Ave,St James,No. 1,Ethan Pham,Samuel Sheddon,Samuel Sheddon,5-7,5,7,0,1,Completed,true,false,false
+UA011132,26 May 19,13,Royal Ave,St James,No. 2,Isabel Goldsmith,Belis Gulener,Isabel Goldsmith,6-4,6,4,1,0,Completed,true,false,false
+UA011132,26 May 19,13,Royal Ave,St James,No. 3,Hudson Furbank,Marcel Szynkowska,Marcel Szynkowska,0-6,0,6,0,1,Completed,true,false,false
+UA011132,26 May 19,13,Royal Ave,St James,No. 4,Charles McNabney-Stevens,Barney Smith,Barney Smith,4-6,4,6,0,1,Completed,true,false,false
+UA011133,26 May 19,13,Victory Park,St Pauls,No. 1,Summer Chan,Henry Moore,Summer Chan,6-2,6,2,1,0,Completed,true,false,false
+UA011133,26 May 19,13,Victory Park,St Pauls,No. 2,Kiyara Abeyarathna,Henry Ashton,Henry Ashton,4-6,4,6,0,1,Completed,true,false,false
+UA011133,26 May 19,13,Victory Park,St Pauls,No. 3,Jeremy Mendel,Aaron Ryan,Aaron Ryan,2-6,2,6,0,1,Completed,true,false,false
+UA011133,26 May 19,13,Victory Park,St Pauls,No. 4,Oscar Yeaman-Jones,Anna Kennedy,Oscar Yeaman-Jones,6-3,6,3,1,0,Completed,true,false,false
+UA011134,26 May 19,13,GPHC,BLTC 2,No. 1,Hannah Croft,Dean Nguyen,Dean Nguyen,1-6,1,6,0,1,Completed,true,false,false
+UA011134,26 May 19,13,GPHC,BLTC 2,No. 2,Sophie Hart,Yani Ryan,Sophie Hart,6-2,6,2,1,0,Completed,true,false,false
+UA011134,26 May 19,13,GPHC,BLTC 2,No. 3,Marissa Majumdar,Mathilde Loeper,Mathilde Loeper,2-6,2,6,0,1,Completed,true,false,false
+UA011134,26 May 19,13,GPHC,BLTC 2,No. 4,Rosie Beadle,Isabella Nicolis,Isabella Nicolis,1-6,1,6,0,1,Completed,true,false,false
+UA011141,02 Jun 19,14,BLTC 1 Bodley,Royal Ave,No. 1,Hamish Roberts,Ethan Pham,Hamish Roberts,6-1,6,1,1,0,Completed,true,false,false
+UA011141,02 Jun 19,14,BLTC 1 Bodley,Royal Ave,No. 2,George Fennessy,Isabel Goldsmith,George Fennessy,6-2,6,2,1,0,Completed,true,false,false
+UA011141,02 Jun 19,14,BLTC 1 Bodley,Royal Ave,No. 3,Anirush Harirani,Charles McNabney-Stevens,Anirush Harirani,6-4,6,4,1,0,Completed,true,false,false
+UA011141,02 Jun 19,14,BLTC 1 Bodley,Royal Ave,No. 4,Freddie Liu,Hudson Furbank,Freddie Liu,6-0,6,0,1,0,Completed,true,false,false
+UA011142,02 Jun 19,14,St James,Black Rock,No. 1,Samuel Sheddon,Lewis Smith,Lewis Smith,4-6,4,6,0,1,Completed,true,false,false
+UA011142,02 Jun 19,14,St James,Black Rock,No. 2,Belis Gulener,Gabriel Coleman,Belis Gulener,6-3,6,3,1,0,Completed,true,false,false
+UA011142,02 Jun 19,14,St James,Black Rock,No. 3,Marcel Szynkowska,Sam Bennett,Marcel Szynkowska,6-2,6,2,1,0,Completed,true,false,false
+UA011142,02 Jun 19,14,St James,Black Rock,No. 4,Barney Smith,Lachlan Howell,Lachlan Howell,4-6,4,6,0,1,Completed,true,false,false
+UA011143,02 Jun 19,14,Victory Park,GPHC,No. 1,Lara Scammel,Hannah Croft,Hannah Croft,1-6,1,6,0,1,Completed,true,false,false
+UA011143,02 Jun 19,14,Victory Park,GPHC,No. 2,Kiyara Abeyarathna,James Young,Kiyara Abeyarathna,7-5,7,5,1,0,Completed,true,false,false
+UA011143,02 Jun 19,14,Victory Park,GPHC,No. 3,Oscar Yeaman-Jones,Sophie Hart,Sophie Hart,6-7,6,7,0,1,Completed,true,false,false
+UA011143,02 Jun 19,14,Victory Park,GPHC,No. 4,Cathy Lu,Rosie Beadle,Rosie Beadle,3-6,3,6,0,1,Completed,true,false,false
+UA011144,02 Jun 19,14,BLTC 2,St Pauls,No. 1,Dean Nguyen,Henry Moore,Dean Nguyen,6-3,6,3,1,0,Completed,true,false,false
+UA011144,02 Jun 19,14,BLTC 2,St Pauls,No. 2,Mathilde Loeper,Henry Ashton,Henry Ashton,3-6,3,6,0,1,Completed,true,false,false
+UA011144,02 Jun 19,14,BLTC 2,St Pauls,No. 3,Isabella Nicolis,Aaron Ryan,Isabella Nicolis,7-6,7,6,1,0,Completed,true,false,false
+UA011144,02 Jun 19,14,BLTC 2,St Pauls,No. 4,Ashley Dickinson,Tashia Camile,Ashley Dickinson,6-1,6,1,1,0,Completed,true,false,false
+UA011301,,16,BLTC 1 Bodley,St James,No. 1,Hamish Roberts,Samuel Sheddon,Hamish Roberts,6-4,6,4,1,0,Completed,true,false,false
+UA011301,,16,BLTC 1 Bodley,St James,No. 2,George Fennessy,Belis Gulener,George Fennessy,6-1,6,1,1,0,Completed,true,false,false
+UA011301,,16,BLTC 1 Bodley,St James,No. 3,Anirush Harirani,Barney Smith,Anirush Harirani,6-3,6,3,1,0,Completed,true,false,false
+UA011301,,16,BLTC 1 Bodley,St James,No. 4,Freddie Liu,Oliver Riley,Oliver Riley,1-6,1,6,0,1,Completed,true,false,false
+UA011302,,16,BLTC 2,GPHC,No. 1,Mathilde Loeper,Hannah Croft,Hannah Croft,3-6,3,6,0,1,Completed,true,false,false
+UA011302,,16,BLTC 2,GPHC,No. 2,Isabella Nicolis,James Young,Isabella Nicolis,6-4,6,4,1,0,Completed,true,false,false
+UA011302,,16,BLTC 2,GPHC,No. 3,Leo Hensche,Sophie Hart,Sophie Hart,4-6,4,6,0,1,Completed,true,false,false
+UA011302,,16,BLTC 2,GPHC,No. 4,Ashley Dickinson,Rosie Beadle,Ashley Dickinson,6-3,6,3,1,0,Completed,true,false,false
+UA011321,,17,BLTC 1 Bodley,GPHC,No. 1,Hamish Roberts,Hannah Croft,Hamish Roberts,6-1,6,1,1,0,Completed,true,false,false
+UA011321,,17,BLTC 1 Bodley,GPHC,No. 2,George Fennessy,James Young,George Fennessy,6-1,6,1,1,0,Completed,true,false,false
+UA011321,,17,BLTC 1 Bodley,GPHC,No. 3,Anirush Harirani,Yannick Dobson,Yannick Dobson,4-6,4,6,0,1,Completed,true,false,false
+UA011321,,17,BLTC 1 Bodley,GPHC,No. 4,Freddie Liu,Marissa Majumdar,Freddie Liu,6-3,6,3,1,0,Completed,true,false,false

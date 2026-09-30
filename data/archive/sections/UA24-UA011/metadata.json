@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA24-UA011",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2019",
+  "season_id": "UA24",
+  "season_label": "Autumn 2019",
+  "source_section_code": "UA011",
+  "section_label": "Section 11",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC 1 Bodley",
+      "wins": 11,
+      "points": 107,
+      "percentage": 160.36,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "BLTC 2",
+      "wins": 10,
+      "points": 89,
+      "percentage": 118.48,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 8,
+      "points": 72,
+      "percentage": 103.53,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "St James",
+      "wins": 7,
+      "points": 72,
+      "percentage": 99.74,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Black Rock",
+      "wins": 5,
+      "points": 64,
+      "percentage": 95.47,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Victory Park",
+      "wins": 4,
+      "points": 63,
+      "percentage": 97.42,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St Pauls",
+      "wins": 5,
+      "points": 58,
+      "percentage": 91.0,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave",
+      "wins": 3,
+      "points": 35,
+      "percentage": 60.18,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA24-UA011",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

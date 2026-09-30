@@ -1,0 +1,177 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA009013,17 Jul 22,1,Carmelite,Murrumbeena,No. 1,Elizabeth Richardson,Marlo Waters,Elizabeth Richardson,6-4,6,4,1,0,Completed,true,false,false
+UA009013,17 Jul 22,1,Carmelite,Murrumbeena,No. 2,Nicholas Peyerl,Jacob Hong-Dunnett,Nicholas Peyerl,6-4,6,4,1,0,Completed,true,false,true
+UA009013,17 Jul 22,1,Carmelite,Murrumbeena,No. 3,Marcus Eddy,Prayash Gurung,Marcus Eddy,6-1,6,1,1,0,Completed,true,false,false
+UA009013,17 Jul 22,1,Carmelite,Murrumbeena,No. 4,Raphaela Papas,Hazel Hoon,Hazel Hoon,5-7,5,7,0,1,Completed,true,false,true
+UA009014,17 Jul 22,1,St Pats Mentone,St Andrews MB,No. 1,Sam Harris,Atish Ramu,Atish Ramu,2-6,2,6,0,1,Completed,true,false,false
+UA009014,17 Jul 22,1,St Pats Mentone,St Andrews MB,No. 2,Jeremy Cormick,Alex Zhao,Jeremy Cormick,6-3,6,3,1,0,Completed,true,false,false
+UA009014,17 Jul 22,1,St Pats Mentone,St Andrews MB,No. 3,Tom Gregory,Madison Kwok,Tom Gregory,6-0,6,0,1,0,Completed,true,false,false
+UA009014,17 Jul 22,1,St Pats Mentone,St Andrews MB,No. 4,Noah Ryan,Bryar Jefford,Noah Ryan,6-2,6,2,1,0,Completed,true,false,false
+UA009021,24 Jul 22,2,St Andrews MB,Maccabi,No. 1,Atish Ramu,Joshua Slomoi,Atish Ramu,6-0,6,0,1,0,Completed,true,false,false
+UA009021,24 Jul 22,2,St Andrews MB,Maccabi,No. 2,Madison Kwok,Jonah Stowe-Lindner,Madison Kwok,6-3,6,3,1,0,Completed,true,false,false
+UA009021,24 Jul 22,2,St Andrews MB,Maccabi,No. 3,Bryar Jefford,Jesse Stowe-Lindner,Jesse Stowe-Lindner,3-6,3,6,0,1,Completed,true,false,false
+UA009021,24 Jul 22,2,St Andrews MB,Maccabi,No. 4,Jakob Misso,Cayla Jacobs,Jakob Misso,7-5,7,5,1,0,Completed,true,false,false
+UA009022,24 Jul 22,2,St Joan of Arc,Elsternwick Park,No. 1,Alexander Lasocki,Charlie Pettifer,Alexander Lasocki,6-0,6,0,1,0,Completed,true,false,false
+UA009022,24 Jul 22,2,St Joan of Arc,Elsternwick Park,No. 2,Max Atkinson,Rafael Schneider,Max Atkinson,6-4,6,4,1,0,Completed,true,false,false
+UA009022,24 Jul 22,2,St Joan of Arc,Elsternwick Park,No. 3,Tiger Zhang,James Grace,Tiger Zhang,6-4,6,4,1,0,Completed,true,false,false
+UA009022,24 Jul 22,2,St Joan of Arc,Elsternwick Park,No. 4,Jack Paton,Madeleine Wilson,Jack Paton,6-2,6,2,1,0,Completed,true,false,false
+UA009024,24 Jul 22,2,Murrumbeena,St Pats Mentone,No. 1,Marlo Waters,Jeremy Cormick,Marlo Waters,6-3,6,3,1,0,Completed,true,false,false
+UA009024,24 Jul 22,2,Murrumbeena,St Pats Mentone,No. 2,Jacob Hong-Dunnett,Tom Gregory,Tom Gregory,1-6,1,6,0,1,Completed,true,true,false
+UA009024,24 Jul 22,2,Murrumbeena,St Pats Mentone,No. 3,Prayash Gurung,Braedan Carey,Prayash Gurung,7-5,7,5,1,0,Completed,true,false,false
+UA009024,24 Jul 22,2,Murrumbeena,St Pats Mentone,No. 4,Soham Gunjal,Noah Ryan,Noah Ryan,5-7,5,7,0,1,Completed,true,false,false
+UA009031,31 Jul 22,3,Maccabi,Murrumbeena,No. 1,Ian Altman,Maksin Gigovic,Ian Altman,6-4,6,4,1,0,Completed,true,true,true
+UA009031,31 Jul 22,3,Maccabi,Murrumbeena,No. 2,Jesse Stowe-Lindner,Jacob Hong-Dunnett,Jacob Hong-Dunnett,5-7,5,7,0,1,Completed,true,false,true
+UA009031,31 Jul 22,3,Maccabi,Murrumbeena,No. 3,Cayla Jacobs,Prayash Gurung,Prayash Gurung,1-6,1,6,0,1,Completed,true,false,false
+UA009031,31 Jul 22,3,Maccabi,Murrumbeena,No. 4,Noam Werner,Soham Gunjal,Soham Gunjal,4-6,4,6,0,1,Completed,true,false,false
+UA009032,31 Jul 22,3,Elsternwick Park,St Andrews MB,No. 1,Ori Diamond,Atish Ramu,Atish Ramu,1-6,1,6,0,1,Completed,true,false,false
+UA009032,31 Jul 22,3,Elsternwick Park,St Andrews MB,No. 2,Rafael Schneider,Madison Kwok,Madison Kwok,3-6,3,6,0,1,Completed,true,false,false
+UA009032,31 Jul 22,3,Elsternwick Park,St Andrews MB,No. 3,Flynn Armstrong,Chloe Chau,Flynn Armstrong,6-3,6,3,1,0,Completed,true,false,false
+UA009032,31 Jul 22,3,Elsternwick Park,St Andrews MB,No. 4,Madeleine Wilson,Bryar Jefford,Madeleine Wilson,7-5,7,5,1,0,Completed,true,false,false
+UA009033,31 Jul 22,3,Carmelite,St Joan of Arc,No. 1,Elizabeth Richardson,Alexander Lasocki,Alexander Lasocki,5-7,5,7,0,1,Completed,true,false,false
+UA009033,31 Jul 22,3,Carmelite,St Joan of Arc,No. 2,Nicholas Peyerl,Tiger Zhang,Nicholas Peyerl,6-1,6,1,1,0,Completed,true,false,false
+UA009033,31 Jul 22,3,Carmelite,St Joan of Arc,No. 3,Marcus Eddy,George Coughlan,Marcus Eddy,7-6,7,6,1,0,Completed,true,false,false
+UA009033,31 Jul 22,3,Carmelite,St Joan of Arc,No. 4,Raphaela Papas,Jack Paton,Jack Paton,4-6,4,6,0,1,Completed,true,false,false
+UA009042,07 Aug 22,4,Murrumbeena,Elsternwick Park,No. 1,[Unnamed player — TROLS UA009042 home code 1],Charlie Pettifer,Charlie Pettifer,0-6,0,6,0,1,Completed,false,false,false
+UA009042,07 Aug 22,4,Murrumbeena,Elsternwick Park,No. 2,Prayash Gurung,Ori Diamond,Ori Diamond,2-6,2,6,0,1,Completed,true,false,false
+UA009042,07 Aug 22,4,Murrumbeena,Elsternwick Park,No. 3,Monako Bernabe,Rafael Schneider,Monako Bernabe,6-2,6,2,1,0,Completed,true,false,false
+UA009042,07 Aug 22,4,Murrumbeena,Elsternwick Park,No. 4,Soham Gunjal,James Grace,James Grace,4-6,4,6,0,1,Completed,true,false,false
+UA009043,07 Aug 22,4,St Andrews MB,Carmelite,No. 1,Atish Ramu,Nicholas Peyerl,Nicholas Peyerl,0-6,0,6,0,1,Completed,true,false,false
+UA009043,07 Aug 22,4,St Andrews MB,Carmelite,No. 2,Alex Zhao,Marcus Eddy,Marcus Eddy,0-6,0,6,0,1,Completed,true,false,false
+UA009043,07 Aug 22,4,St Andrews MB,Carmelite,No. 3,Madison Kwok,Lucas Worrall,Madison Kwok,6-1,6,1,1,0,Completed,true,false,false
+UA009043,07 Aug 22,4,St Andrews MB,Carmelite,No. 4,Chloe Chau,Raphaela Papas,Chloe Chau,6-1,6,1,1,0,Completed,true,false,false
+UA009044,07 Aug 22,4,St Joan of Arc,St Pats Mentone,No. 1,Tiger Zhang,Jeremy Cormick,Jeremy Cormick,6-7,6,7,0,1,Completed,true,false,false
+UA009044,07 Aug 22,4,St Joan of Arc,St Pats Mentone,No. 2,George Coughlan,Braedan Carey,Braedan Carey,3-6,3,6,0,1,Completed,true,false,false
+UA009044,07 Aug 22,4,St Joan of Arc,St Pats Mentone,No. 3,Cooper Hodge,Noah Ryan,Noah Ryan,1-6,1,6,0,1,Completed,true,true,false
+UA009044,07 Aug 22,4,St Joan of Arc,St Pats Mentone,No. 4,Jack Paton,[Unnamed player — TROLS UA009044 away code 4],Jack Paton,6-0,6,0,1,0,Completed,false,false,false
+UA009051,14 Aug 22,5,Carmelite,St Pats Mentone,No. 1,Elizabeth Richardson,Sam Harris,Sam Harris,2-6,2,6,0,1,Completed,true,false,false
+UA009051,14 Aug 22,5,Carmelite,St Pats Mentone,No. 2,Nicholas Peyerl,Jeremy Cormick,Nicholas Peyerl,6-3,6,3,1,0,Completed,true,false,false
+UA009051,14 Aug 22,5,Carmelite,St Pats Mentone,No. 3,Marcus Eddy,Tom Gregory,Tom Gregory,4-6,4,6,0,1,Completed,true,false,false
+UA009051,14 Aug 22,5,Carmelite,St Pats Mentone,No. 4,Lucas Worrall,Noah Ryan,Noah Ryan,0-6,0,6,0,1,Completed,true,false,false
+UA009052,14 Aug 22,5,St Andrews MB,Murrumbeena,No. 1,Alex Zhao,Marlo Waters,Alex Zhao,6-4,6,4,1,0,Completed,true,false,false
+UA009052,14 Aug 22,5,St Andrews MB,Murrumbeena,No. 2,Madison Kwok,Jacob Hong-Dunnett,Jacob Hong-Dunnett,6-7,6,7,0,1,Completed,true,false,true
+UA009052,14 Aug 22,5,St Andrews MB,Murrumbeena,No. 3,Chloe Chau,Prayash Gurung,Chloe Chau,6-1,6,1,1,0,Completed,true,false,false
+UA009052,14 Aug 22,5,St Andrews MB,Murrumbeena,No. 4,Bryar Jefford,Soham Gunjal,Soham Gunjal,2-6,2,6,0,1,Completed,true,false,false
+UA009054,14 Aug 22,5,Maccabi,Elsternwick Park,No. 1,Jonah Stowe-Lindner,Charlie Pettifer,Charlie Pettifer,1-6,1,6,0,1,Completed,true,false,false
+UA009054,14 Aug 22,5,Maccabi,Elsternwick Park,No. 2,Jesse Stowe-Lindner,Ori Diamond,Jesse Stowe-Lindner,6-1,6,1,1,0,Completed,true,false,false
+UA009054,14 Aug 22,5,Maccabi,Elsternwick Park,No. 3,Cayla Jacobs,Rafael Schneider,Rafael Schneider,3-6,3,6,0,1,Completed,true,false,false
+UA009054,14 Aug 22,5,Maccabi,Elsternwick Park,No. 4,Joshua Slomoi,James Grace,Joshua Slomoi,6-2,6,2,1,0,Completed,true,false,false
+UA009061,21 Aug 22,6,Elsternwick Park,Carmelite,No. 1,Ori Diamond,Charlie Smit,Charlie Smit,3-6,3,6,0,1,Completed,true,false,false
+UA009061,21 Aug 22,6,Elsternwick Park,Carmelite,No. 2,Rafael Schneider,Elizabeth Richardson,Rafael Schneider,6-3,6,3,1,0,Completed,true,false,false
+UA009061,21 Aug 22,6,Elsternwick Park,Carmelite,No. 3,Flynn Armstrong,Nicholas Peyerl,Nicholas Peyerl,0-6,0,6,0,1,Completed,true,false,false
+UA009061,21 Aug 22,6,Elsternwick Park,Carmelite,No. 4,Madeleine Wilson,Lucas Worrall,Madeleine Wilson,6-0,6,0,1,0,Completed,true,false,false
+UA009062,21 Aug 22,6,St Pats Mentone,Maccabi,No. 1,Sam Harris,Dean Smith,Dean Smith,3-6,3,6,0,1,Completed,true,false,true
+UA009062,21 Aug 22,6,St Pats Mentone,Maccabi,No. 2,Jeremy Cormick,Jesse Stowe-Lindner,Jesse Stowe-Lindner,5-7,5,7,0,1,Completed,true,false,false
+UA009062,21 Aug 22,6,St Pats Mentone,Maccabi,No. 3,Braedan Carey,Cayla Jacobs,Braedan Carey,6-3,6,3,1,0,Completed,true,false,false
+UA009062,21 Aug 22,6,St Pats Mentone,Maccabi,No. 4,Noah Ryan,Noam Goldberger,Noah Ryan,6-0,6,0,1,0,Completed,true,false,true
+UA009064,21 Aug 22,6,St Joan of Arc,St Andrews MB,No. 1,Alexander Lasocki,Atish Ramu,Alexander Lasocki,6-3,6,3,1,0,Completed,true,false,false
+UA009064,21 Aug 22,6,St Joan of Arc,St Andrews MB,No. 2,Max Atkinson,Alex Zhao,Max Atkinson,6-4,6,4,1,0,Completed,true,false,false
+UA009064,21 Aug 22,6,St Joan of Arc,St Andrews MB,No. 3,George Coughlan,Chloe Chau,George Coughlan,6-0,6,0,1,0,Completed,true,false,false
+UA009064,21 Aug 22,6,St Joan of Arc,St Andrews MB,No. 4,Jack Paton,Bryar Jefford,Jack Paton,6-4,6,4,1,0,Completed,true,false,false
+UA009071,28 Aug 22,7,Maccabi,Carmelite,No. 1,Jonah Stowe-Lindner,Nicholas Peyerl,Nicholas Peyerl,1-6,1,6,0,1,Completed,true,false,false
+UA009071,28 Aug 22,7,Maccabi,Carmelite,No. 2,Jesse Stowe-Lindner,Marcus Eddy,Marcus Eddy,2-6,2,6,0,1,Completed,true,false,false
+UA009071,28 Aug 22,7,Maccabi,Carmelite,No. 3,Joshua Slomoi,Lucas Worrall,Lucas Worrall,0-6,0,6,0,1,Completed,true,false,false
+UA009071,28 Aug 22,7,Maccabi,Carmelite,No. 4,Noam Werner,Raphaela Papas,Raphaela Papas,0-6,0,6,0,1,Completed,true,false,false
+UA009072,28 Aug 22,7,Elsternwick Park,St Pats Mentone,No. 1,Charlie Pettifer,Sam Harris,Charlie Pettifer,7-6,7,6,1,0,Completed,true,false,false
+UA009072,28 Aug 22,7,Elsternwick Park,St Pats Mentone,No. 2,Rafael Schneider,Jeremy Cormick,Jeremy Cormick,1-6,1,6,0,1,Completed,true,false,false
+UA009072,28 Aug 22,7,Elsternwick Park,St Pats Mentone,No. 3,James Grace,Tom Gregory,Tom Gregory,1-6,1,6,0,1,Completed,true,false,false
+UA009072,28 Aug 22,7,Elsternwick Park,St Pats Mentone,No. 4,Flynn Armstrong,Braedan Carey,Braedan Carey,3-6,3,6,0,1,Completed,true,false,false
+UA009074,28 Aug 22,7,Murrumbeena,St Joan of Arc,No. 1,Jacob Hong-Dunnett,Alexander Lasocki,Alexander Lasocki,6-7,6,7,0,1,Completed,true,true,false
+UA009074,28 Aug 22,7,Murrumbeena,St Joan of Arc,No. 2,Prayash Gurung,Max Atkinson,Max Atkinson,2-6,2,6,0,1,Completed,true,false,false
+UA009074,28 Aug 22,7,Murrumbeena,St Joan of Arc,No. 3,Soham Gunjal,Tiger Zhang,Tiger Zhang,5-7,5,7,0,1,Completed,true,false,false
+UA009074,28 Aug 22,7,Murrumbeena,St Joan of Arc,No. 4,Amrutha Jaladanks,George Coughlan,George Coughlan,5-7,5,7,0,1,Completed,true,true,false
+UA009081,04 Sep 22,8,St Joan of Arc,Maccabi,No. 1,Alexander Lasocki,Jonah Stowe-Lindner,Alexander Lasocki,6-3,6,3,1,0,Completed,true,false,false
+UA009081,04 Sep 22,8,St Joan of Arc,Maccabi,No. 2,Max Atkinson,Jesse Stowe-Lindner,Max Atkinson,6-4,6,4,1,0,Completed,true,false,false
+UA009081,04 Sep 22,8,St Joan of Arc,Maccabi,No. 3,Tiger Zhang,Cayla Jacobs,Tiger Zhang,6-2,6,2,1,0,Completed,true,false,false
+UA009081,04 Sep 22,8,St Joan of Arc,Maccabi,No. 4,Jack Paton,Joshua Slomoi,Jack Paton,6-2,6,2,1,0,Completed,true,false,false
+UA009083,04 Sep 22,8,Murrumbeena,Carmelite,No. 1,Jacob Hong-Dunnett,Marcus Eddy,Marcus Eddy,3-6,3,6,0,1,Completed,true,true,false
+UA009083,04 Sep 22,8,Murrumbeena,Carmelite,No. 2,Prayash Gurung,Jamie Tall,Jamie Tall,4-6,4,6,0,1,Completed,true,false,true
+UA009083,04 Sep 22,8,Murrumbeena,Carmelite,No. 3,Monako Bernabe,Lucas Worrall,Monako Bernabe,6-2,6,2,1,0,Completed,true,false,false
+UA009083,04 Sep 22,8,Murrumbeena,Carmelite,No. 4,Soham Gunjal,Raphaela Papas,Raphaela Papas,3-6,3,6,0,1,Completed,true,false,false
+UA009084,04 Sep 22,8,St Andrews MB,St Pats Mentone,No. 1,Atish Ramu,Jeremy Cormick,Atish Ramu,6-4,6,4,1,0,Completed,true,false,false
+UA009084,04 Sep 22,8,St Andrews MB,St Pats Mentone,No. 2,Madison Kwok,Tom Gregory,Tom Gregory,0-6,0,6,0,1,Completed,true,false,false
+UA009084,04 Sep 22,8,St Andrews MB,St Pats Mentone,No. 3,Chloe Chau,Braedan Carey,Chloe Chau,7-5,7,5,1,0,Completed,true,false,false
+UA009084,04 Sep 22,8,St Andrews MB,St Pats Mentone,No. 4,Bryar Jefford,Noah Ryan,Noah Ryan,1-6,1,6,0,1,Completed,true,false,false
+UA009091,11 Sep 22,9,Maccabi,St Andrews MB,No. 1,Jonah Stowe-Lindner,Atish Ramu,Atish Ramu,4-6,4,6,0,1,Completed,true,false,false
+UA009091,11 Sep 22,9,Maccabi,St Andrews MB,No. 2,Jesse Stowe-Lindner,Alex Zhao,Jesse Stowe-Lindner,6-2,6,2,1,0,Completed,true,false,false
+UA009091,11 Sep 22,9,Maccabi,St Andrews MB,No. 3,Joshua Slomoi,Chloe Chau,Chloe Chau,0-6,0,6,0,1,Completed,true,false,false
+UA009091,11 Sep 22,9,Maccabi,St Andrews MB,No. 4,Noam Werner,Bryar Jefford,Noam Werner,6-1,6,1,1,0,Completed,true,false,false
+UA009092,11 Sep 22,9,Elsternwick Park,St Joan of Arc,No. 1,Rafael Schneider,Alexander Lasocki,Alexander Lasocki,1-6,1,6,0,1,Completed,true,false,false
+UA009092,11 Sep 22,9,Elsternwick Park,St Joan of Arc,No. 2,James Grace,George Coughlan,George Coughlan,1-6,1,6,0,1,Completed,true,false,false
+UA009092,11 Sep 22,9,Elsternwick Park,St Joan of Arc,No. 3,Flynn Armstrong,Tiger Zhang,Flynn Armstrong,6-0,6,0,1,0,Completed,true,false,false
+UA009092,11 Sep 22,9,Elsternwick Park,St Joan of Arc,No. 4,Raphael Diamond,Jack Paton,Jack Paton,4-6,4,6,0,1,Completed,true,true,false
+UA009094,11 Sep 22,9,St Pats Mentone,Murrumbeena,No. 1,Sam Harris,Jacob Hong-Dunnett,Jacob Hong-Dunnett,5-7,5,7,0,1,Completed,true,false,true
+UA009094,11 Sep 22,9,St Pats Mentone,Murrumbeena,No. 2,Jeremy Cormick,Prayash Gurung,Jeremy Cormick,7-6,7,6,1,0,Completed,true,false,false
+UA009094,11 Sep 22,9,St Pats Mentone,Murrumbeena,No. 3,Braedan Carey,Monako Bernabe,Braedan Carey,6-1,6,1,1,0,Completed,true,false,false
+UA009094,11 Sep 22,9,St Pats Mentone,Murrumbeena,No. 4,Noah Ryan,Soham Gunjal,Noah Ryan,6-0,6,0,1,0,Completed,true,false,false
+UA009101,09 Oct 22,10,Murrumbeena,Maccabi,No. 1,Marlo Waters,Jonah Stowe-Lindner,Jonah Stowe-Lindner,2-6,2,6,0,1,Completed,true,false,false
+UA009101,09 Oct 22,10,Murrumbeena,Maccabi,No. 2,Prayash Gurung,Jesse Stowe-Lindner,Jesse Stowe-Lindner,0-6,0,6,0,1,Completed,true,false,false
+UA009101,09 Oct 22,10,Murrumbeena,Maccabi,No. 3,Jake Williams,Cayla Jacobs,Jake Williams,6-0,6,0,1,0,Completed,true,false,false
+UA009101,09 Oct 22,10,Murrumbeena,Maccabi,No. 4,Soham Gunjal,Joshua Slomoi,Soham Gunjal,6-1,6,1,1,0,Completed,true,false,false
+UA009102,09 Oct 22,10,St Andrews MB,Elsternwick Park,No. 1,Atish Ramu,Charlie Pettifer,Atish Ramu,7-6,7,6,1,0,Completed,true,false,false
+UA009102,09 Oct 22,10,St Andrews MB,Elsternwick Park,No. 2,Madison Kwok,James Grace,Madison Kwok,6-2,6,2,1,0,Completed,true,false,false
+UA009102,09 Oct 22,10,St Andrews MB,Elsternwick Park,No. 3,Bryar Jefford,Rafael Schneider,Rafael Schneider,1-6,1,6,0,1,Completed,true,false,false
+UA009102,09 Oct 22,10,St Andrews MB,Elsternwick Park,No. 4,Jakob Misso,Ori Diamond,Ori Diamond,6-7,6,7,0,1,Completed,true,false,false
+UA009103,09 Oct 22,10,St Joan of Arc,Carmelite,No. 1,Max Atkinson,Elizabeth Richardson,Max Atkinson,6-3,6,3,1,0,Completed,true,false,false
+UA009103,09 Oct 22,10,St Joan of Arc,Carmelite,No. 2,Tiger Zhang,Marcus Eddy,Marcus Eddy,3-6,3,6,0,1,Completed,true,false,false
+UA009103,09 Oct 22,10,St Joan of Arc,Carmelite,No. 3,George Coughlan,Lucas Worrall,George Coughlan,7-5,7,5,1,0,Completed,true,false,false
+UA009103,09 Oct 22,10,St Joan of Arc,Carmelite,No. 4,Jack Paton,Raphaela Papas,Raphaela Papas,2-6,2,6,0,1,Completed,true,false,false
+UA009112,16 Oct 22,11,Elsternwick Park,Murrumbeena,No. 1,Charlie Pettifer,Marlo Waters,Marlo Waters,2-6,2,6,0,1,Completed,true,false,false
+UA009112,16 Oct 22,11,Elsternwick Park,Murrumbeena,No. 2,Ori Diamond,Monako Bernabe,Ori Diamond,6-3,6,3,1,0,Completed,true,false,false
+UA009112,16 Oct 22,11,Elsternwick Park,Murrumbeena,No. 3,Flynn Armstrong,Jake Williams,Jake Williams,4-6,4,6,0,1,Completed,true,false,false
+UA009112,16 Oct 22,11,Elsternwick Park,Murrumbeena,No. 4,Madeleine Wilson,Soham Gunjal,Soham Gunjal,2-6,2,6,0,1,Completed,true,false,false
+UA009113,16 Oct 22,11,Carmelite,St Andrews MB,No. 1,Nicholas Peyerl,Alex Zhao,Nicholas Peyerl,6-2,6,2,1,0,Completed,true,false,false
+UA009113,16 Oct 22,11,Carmelite,St Andrews MB,No. 2,Peter Schmollinger,Madison Kwok,Peter Schmollinger,6-1,6,1,1,0,Completed,true,true,false
+UA009113,16 Oct 22,11,Carmelite,St Andrews MB,No. 3,Lucas Worrall,Bryar Jefford,Lucas Worrall,6-1,6,1,1,0,Completed,true,false,false
+UA009113,16 Oct 22,11,Carmelite,St Andrews MB,No. 4,Raphaela Papas,Jakob Misso,Jakob Misso,2-6,2,6,0,1,Completed,true,false,false
+UA009114,16 Oct 22,11,St Pats Mentone,St Joan of Arc,No. 1,Sam Harris,Alexander Lasocki,Alexander Lasocki,0-6,0,6,0,1,Completed,true,false,false
+UA009114,16 Oct 22,11,St Pats Mentone,St Joan of Arc,No. 2,Jeremy Cormick,Max Atkinson,Max Atkinson,3-6,3,6,0,1,Completed,true,false,false
+UA009114,16 Oct 22,11,St Pats Mentone,St Joan of Arc,No. 3,Tom Gregory,George Coughlan,Tom Gregory,6-2,6,2,1,0,Completed,true,false,false
+UA009114,16 Oct 22,11,St Pats Mentone,St Joan of Arc,No. 4,Braedan Carey,Jack Paton,Braedan Carey,6-1,6,1,1,0,Completed,true,false,false
+UA009121,23 Oct 22,12,St Pats Mentone,Carmelite,No. 1,Sam Harris,Elizabeth Richardson,Sam Harris,6-4,6,4,1,0,Completed,true,false,false
+UA009121,23 Oct 22,12,St Pats Mentone,Carmelite,No. 2,Jeremy Cormick,Nicholas Peyerl,Nicholas Peyerl,3-6,3,6,0,1,Completed,true,false,false
+UA009121,23 Oct 22,12,St Pats Mentone,Carmelite,No. 3,Braedan Carey,Marcus Eddy,Marcus Eddy,4-6,4,6,0,1,Completed,true,false,false
+UA009121,23 Oct 22,12,St Pats Mentone,Carmelite,No. 4,Noah Ryan,Lucas Worrall,Lucas Worrall,3-6,3,6,0,1,Completed,true,false,false
+UA009122,23 Oct 22,12,Murrumbeena,St Andrews MB,No. 1,Marlo Waters,Atish Ramu,Marlo Waters,6-3,6,3,1,0,Completed,true,false,false
+UA009122,23 Oct 22,12,Murrumbeena,St Andrews MB,No. 2,Prayash Gurung,Madison Kwok,Madison Kwok,3-6,3,6,0,1,Completed,true,false,false
+UA009122,23 Oct 22,12,Murrumbeena,St Andrews MB,No. 3,Jake Williams,Bryar Jefford,Jake Williams,6-1,6,1,1,0,Completed,true,false,false
+UA009122,23 Oct 22,12,Murrumbeena,St Andrews MB,No. 4,Soham Gunjal,Jakob Misso,Soham Gunjal,6-2,6,2,1,0,Completed,true,false,false
+UA009124,23 Oct 22,12,Elsternwick Park,Maccabi,No. 1,Ori Diamond,Jonah Stowe-Lindner,Ori Diamond,7-5,7,5,1,0,Completed,true,false,false
+UA009124,23 Oct 22,12,Elsternwick Park,Maccabi,No. 2,Rafael Schneider,Jesse Stowe-Lindner,Jesse Stowe-Lindner,3-6,3,6,0,1,Completed,true,false,false
+UA009124,23 Oct 22,12,Elsternwick Park,Maccabi,No. 3,Flynn Armstrong,Cayla Jacobs,Cayla Jacobs,3-6,3,6,0,1,Completed,true,false,false
+UA009124,23 Oct 22,12,Elsternwick Park,Maccabi,No. 4,Madeleine Wilson,Joshua Slomoi,Madeleine Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA009131,06 Nov 22,13,Carmelite,Elsternwick Park,No. 1,Charlie Smit,Charlie Pettifer,Charlie Smit,6-1,6,1,1,0,Completed,true,false,false
+UA009131,06 Nov 22,13,Carmelite,Elsternwick Park,No. 2,Elizabeth Richardson,Ori Diamond,Ori Diamond,4-6,4,6,0,1,Completed,true,false,false
+UA009131,06 Nov 22,13,Carmelite,Elsternwick Park,No. 3,Nicholas Peyerl,Flynn Armstrong,Nicholas Peyerl,6-0,6,0,1,0,Completed,true,false,false
+UA009131,06 Nov 22,13,Carmelite,Elsternwick Park,No. 4,Marcus Eddy,Madeleine Wilson,Marcus Eddy,6-1,6,1,1,0,Completed,true,false,false
+UA009132,06 Nov 22,13,Maccabi,St Pats Mentone,No. 1,Dean Smith,Jeremy Cormick,Dean Smith,6-2,6,2,1,0,Completed,true,true,false
+UA009132,06 Nov 22,13,Maccabi,St Pats Mentone,No. 2,Jonah Stowe-Lindner,Tom Gregory,Tom Gregory,2-6,2,6,0,1,Completed,true,false,false
+UA009132,06 Nov 22,13,Maccabi,St Pats Mentone,No. 3,Jesse Stowe-Lindner,Braedan Carey,Jesse Stowe-Lindner,6-1,6,1,1,0,Completed,true,false,false
+UA009132,06 Nov 22,13,Maccabi,St Pats Mentone,No. 4,Joshua Slomoi,Noah Ryan,Noah Ryan,5-7,5,7,0,1,Completed,true,false,false
+UA009134,06 Nov 22,13,St Andrews MB,St Joan of Arc,No. 1,Atish Ramu,Alexander Lasocki,Alexander Lasocki,1-6,1,6,0,1,Completed,true,false,false
+UA009134,06 Nov 22,13,St Andrews MB,St Joan of Arc,No. 2,Alex Zhao,Max Atkinson,Max Atkinson,2-6,2,6,0,1,Completed,true,false,false
+UA009134,06 Nov 22,13,St Andrews MB,St Joan of Arc,No. 3,Bryar Jefford,Tiger Zhang,Tiger Zhang,4-6,4,6,0,1,Completed,true,false,false
+UA009134,06 Nov 22,13,St Andrews MB,St Joan of Arc,No. 4,Jakob Misso,George Coughlan,George Coughlan,4-6,4,6,0,1,Completed,true,false,false
+UA009141,13 Nov 22,14,Carmelite,Maccabi,No. 1,Nicholas Peyerl,Jonah Stowe-Lindner,Nicholas Peyerl,6-0,6,0,1,0,Completed,true,false,false
+UA009141,13 Nov 22,14,Carmelite,Maccabi,No. 2,Marcus Eddy,Jesse Stowe-Lindner,Marcus Eddy,6-3,6,3,1,0,Completed,true,false,false
+UA009141,13 Nov 22,14,Carmelite,Maccabi,No. 3,Lucas Worrall,Cayla Jacobs,Lucas Worrall,6-2,6,2,1,0,Completed,true,false,false
+UA009141,13 Nov 22,14,Carmelite,Maccabi,No. 4,Raphaela Papas,Joshua Slomoi,Joshua Slomoi,4-6,4,6,0,1,Completed,true,false,false
+UA009142,13 Nov 22,14,St Pats Mentone,Elsternwick Park,No. 1,Sam Harris,Charlie Pettifer,Sam Harris,7-5,7,5,1,0,Completed,true,false,false
+UA009142,13 Nov 22,14,St Pats Mentone,Elsternwick Park,No. 2,Jeremy Cormick,Ori Diamond,Jeremy Cormick,6-1,6,1,1,0,Completed,true,false,false
+UA009142,13 Nov 22,14,St Pats Mentone,Elsternwick Park,No. 3,Tom Gregory,James Grace,Tom Gregory,6-1,6,1,1,0,Completed,true,false,false
+UA009142,13 Nov 22,14,St Pats Mentone,Elsternwick Park,No. 4,Braedan Carey,Boston Newton,Boston Newton,6-7,6,7,0,1,Completed,true,false,true
+UA009144,13 Nov 22,14,St Joan of Arc,Murrumbeena,No. 1,Tiger Zhang,Marlo Waters,Marlo Waters,0-6,0,6,0,1,Completed,true,false,false
+UA009144,13 Nov 22,14,St Joan of Arc,Murrumbeena,No. 2,Jack Paton,Prayash Gurung,Prayash Gurung,3-6,3,6,0,1,Completed,true,false,false
+UA009144,13 Nov 22,14,St Joan of Arc,Murrumbeena,No. 3,Sam Barton,Soham Gunjal,Soham Gunjal,2-6,2,6,0,1,Completed,true,true,false
+UA009144,13 Nov 22,14,St Joan of Arc,Murrumbeena,No. 4,Nicholas Gulino,Eric Tran,Eric Tran,0-6,0,6,0,1,Completed,true,true,true
+UA009301,,16,Carmelite,Murrumbeena,No. 1,Elizabeth Richardson,Marlo Waters,Elizabeth Richardson,6-3,6,3,1,0,Completed,true,false,false
+UA009301,,16,Carmelite,Murrumbeena,No. 2,Nicholas Peyerl,Prayash Gurung,Nicholas Peyerl,6-0,6,0,1,0,Completed,true,false,false
+UA009301,,16,Carmelite,Murrumbeena,No. 3,Lucas Worrall,Monako Bernabe,Lucas Worrall,7-5,7,5,1,0,Completed,true,false,false
+UA009301,,16,Carmelite,Murrumbeena,No. 4,Raphaela Papas,Soham Gunjal,Soham Gunjal,5-7,5,7,0,1,Completed,true,false,false
+UA009302,,16,St Pats Mentone,St Joan of Arc,No. 1,Sam Harris,Alexander Lasocki,Alexander Lasocki,3-6,3,6,0,1,Completed,true,false,false
+UA009302,,16,St Pats Mentone,St Joan of Arc,No. 2,Jeremy Cormick,Max Atkinson,Max Atkinson,3-6,3,6,0,1,Completed,true,false,false
+UA009302,,16,St Pats Mentone,St Joan of Arc,No. 3,Tom Gregory,Tiger Zhang,Tom Gregory,6-4,6,4,1,0,Completed,true,false,false
+UA009302,,16,St Pats Mentone,St Joan of Arc,No. 4,Braedan Carey,George Coughlan,George Coughlan,3-6,3,6,0,1,Completed,true,false,false
+UA009321,,17,Carmelite,St Joan of Arc,No. 1,Elizabeth Richardson,Alexander Lasocki,Alexander Lasocki,4-6,4,6,0,1,Completed,true,false,false
+UA009321,,17,Carmelite,St Joan of Arc,No. 2,Nicholas Peyerl,Max Atkinson,Max Atkinson,3-6,3,6,0,1,Completed,true,false,false
+UA009321,,17,Carmelite,St Joan of Arc,No. 3,Marcus Eddy,Tiger Zhang,Marcus Eddy,6-4,6,4,1,0,Completed,true,false,false
+UA009321,,17,Carmelite,St Joan of Arc,No. 4,Lucas Worrall,George Coughlan,George Coughlan,1-6,1,6,0,1,Completed,true,false,false

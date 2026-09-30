@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA16-UA004",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2015",
+  "season_id": "UA16",
+  "season_label": "Autumn 2015",
+  "source_section_code": "UA004",
+  "section_label": "Section 4",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Dendy Park",
+      "wins": 6,
+      "points": 77,
+      "percentage": 132.61,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Mordialloc 2",
+      "wins": 6,
+      "points": 75,
+      "percentage": 131.37,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kooyong",
+      "wins": 5,
+      "points": 72,
+      "percentage": 136.65,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Coatesville",
+      "wins": 5,
+      "points": 68,
+      "percentage": 106.39,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Carmelite",
+      "wins": 6,
+      "points": 63,
+      "percentage": 92.17,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Mordialloc 1",
+      "wins": 2,
+      "points": 38,
+      "percentage": 84.13,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 27,
+      "percentage": 52.27,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA16-UA004",
+  "fixtures": 59,
+  "completed_fixtures": 34,
+  "draw_fixtures": 59,
+  "singles_rubbers": 136,
+  "doubles_rubbers": 68,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

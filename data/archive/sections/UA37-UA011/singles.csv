@@ -1,0 +1,212 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA011011,27 Jul 25,1,Tennis World,Lauriston,No. 1,Elye Ruddell,Isabelle Watson,Elye Ruddell,6-3,6,3,1,0,Completed,true,false,false
+UA011011,27 Jul 25,1,Tennis World,Lauriston,No. 2,Aiden Artemas,Olive Watson,Aiden Artemas,6-2,6,2,1,0,Completed,true,false,false
+UA011011,27 Jul 25,1,Tennis World,Lauriston,No. 3,Linuka Chareen Liyanaarachchi,Emma McArthur,Linuka Chareen Liyanaarachchi,6-0,6,0,1,0,Completed,true,false,false
+UA011011,27 Jul 25,1,Tennis World,Lauriston,No. 4,Summer Chhay-Lu,Hana Lowe,Summer Chhay-Lu,6-0,6,0,1,0,Completed,true,false,false
+UA011012,27 Jul 25,1,Kings Park Blue,Kings Park Red,No. 1,Maxwell Luo,Nicholas Roselt,Nicholas Roselt,1-6,1,6,0,1,Completed,true,false,false
+UA011012,27 Jul 25,1,Kings Park Blue,Kings Park Red,No. 2,George Si,William Haydon,William Haydon,3-6,3,6,0,1,Completed,true,false,false
+UA011012,27 Jul 25,1,Kings Park Blue,Kings Park Red,No. 3,Lucas Yang,Thien Hoang,Lucas Yang,7-5,7,5,1,0,Completed,true,false,false
+UA011012,27 Jul 25,1,Kings Park Blue,Kings Park Red,No. 4,Ishin Garg,Hai Nhi Hoang,Hai Nhi Hoang,4-6,4,6,0,1,Completed,true,true,false
+UA011013,27 Jul 25,1,Coatesville,Royal Ave,No. 1,Hayley Lam,Sonny Baker,Sonny Baker,1-6,1,6,0,1,Completed,true,false,false
+UA011013,27 Jul 25,1,Coatesville,Royal Ave,No. 2,Navin Dinesh,Luke Ng,Luke Ng,1-6,1,6,0,1,Completed,true,false,false
+UA011013,27 Jul 25,1,Coatesville,Royal Ave,No. 3,Chloe Lo,Lachlan Robertson,Lachlan Robertson,4-6,4,6,0,1,Completed,true,false,false
+UA011013,27 Jul 25,1,Coatesville,Royal Ave,No. 4,Ananaya Ramasubramanian,Eric Shao,Eric Shao,0-6,0,6,0,1,Completed,true,false,false
+UA011014,27 Jul 25,1,BLTC,Elsternwick Park,No. 1,Xavier Lasocki,Jesse Colberg,Jesse Colberg,2-6,2,6,0,1,Completed,true,false,false
+UA011014,27 Jul 25,1,BLTC,Elsternwick Park,No. 2,Tyler Adams,Freya Hewitt,Tyler Adams,6-1,6,1,1,0,Completed,true,false,false
+UA011014,27 Jul 25,1,BLTC,Elsternwick Park,No. 3,Tyler Boyd,Tristan Linnett,Tristan Linnett,1-6,1,6,0,1,Completed,true,false,false
+UA011014,27 Jul 25,1,BLTC,Elsternwick Park,No. 4,Annabelle Gorton,James McCallum,James McCallum,4-6,4,6,0,1,Completed,true,false,false
+UA011021,03 Aug 25,2,Elsternwick Park,Tennis World,No. 1,Freya Hewitt,Samiha Kunwar,Freya Hewitt,6-4,6,4,1,0,Completed,true,false,false
+UA011021,03 Aug 25,2,Elsternwick Park,Tennis World,No. 2,Tristan Linnett,Aiden Artemas,Tristan Linnett,6-2,6,2,1,0,Completed,true,false,false
+UA011021,03 Aug 25,2,Elsternwick Park,Tennis World,No. 3,James McCallum,Linuka Chareen Liyanaarachchi,Linuka Chareen Liyanaarachchi,3-6,3,6,0,1,Completed,true,false,false
+UA011021,03 Aug 25,2,Elsternwick Park,Tennis World,No. 4,Ilayda Col,Eamon Croke,Ilayda Col,6-0,6,0,1,0,Completed,true,false,false
+UA011022,03 Aug 25,2,Lauriston,Kings Park Blue,No. 1,Isabelle Watson,Maxwell Luo,Isabelle Watson,6-4,6,4,1,0,Completed,true,false,false
+UA011022,03 Aug 25,2,Lauriston,Kings Park Blue,No. 2,Olive Watson,George Si,Olive Watson,6-0,6,0,1,0,Completed,true,false,false
+UA011022,03 Aug 25,2,Lauriston,Kings Park Blue,No. 3,Emma McArthur,Scott Xu,Scott Xu,0-6,0,6,0,1,Completed,true,false,false
+UA011022,03 Aug 25,2,Lauriston,Kings Park Blue,No. 4,Hana Lowe,Lucas Yang,Lucas Yang,5-7,5,7,0,1,Completed,true,false,false
+UA011023,03 Aug 25,2,Kings Park Red,Coatesville,No. 1,Nicholas Roselt,Hayley Lam,Nicholas Roselt,6-3,6,3,1,0,Completed,true,false,false
+UA011023,03 Aug 25,2,Kings Park Red,Coatesville,No. 2,Thien Hoang,Kazu Nakada,Kazu Nakada,4-6,4,6,0,1,Completed,true,false,false
+UA011023,03 Aug 25,2,Kings Park Red,Coatesville,No. 3,Hai Nhi Hoang,Navin Dinesh,Navin Dinesh,4-6,4,6,0,1,Completed,true,false,false
+UA011023,03 Aug 25,2,Kings Park Red,Coatesville,No. 4,[Unnamed player — TROLS UA011023 home code 4],Ananaya Ramasubramanian,Ananaya Ramasubramanian,0-6,0,6,0,1,Completed,false,false,false
+UA011024,03 Aug 25,2,Royal Ave,BLTC,No. 1,Sonny Baker,Xavier Lasocki,Sonny Baker,6-2,6,2,1,0,Completed,true,false,false
+UA011024,03 Aug 25,2,Royal Ave,BLTC,No. 2,Lachlan Robertson,Tyler Adams,Lachlan Robertson,6-3,6,3,1,0,Completed,true,false,false
+UA011024,03 Aug 25,2,Royal Ave,BLTC,No. 3,Eric Shao,Tyler Boyd,Eric Shao,6-1,6,1,1,0,Completed,true,false,false
+UA011024,03 Aug 25,2,Royal Ave,BLTC,No. 4,Dylan Keyvanloo,Sara Catala Prieto,Dylan Keyvanloo,7-6,7,6,1,0,Completed,true,false,false
+UA011031,10 Aug 25,3,Tennis World,Royal Ave,No. 1,Elye Ruddell,Sonny Baker,Sonny Baker,5-7,5,7,0,1,Completed,true,false,false
+UA011031,10 Aug 25,3,Tennis World,Royal Ave,No. 2,Linuka Chareen Liyanaarachchi,Luke Ng,Linuka Chareen Liyanaarachchi,6-2,6,2,1,0,Completed,true,false,false
+UA011031,10 Aug 25,3,Tennis World,Royal Ave,No. 3,Summer Chhay-Lu,Sebastian Snell,Sebastian Snell,4-6,4,6,0,1,Completed,true,false,false
+UA011031,10 Aug 25,3,Tennis World,Royal Ave,No. 4,Eamon Croke,Dylan Keyvanloo,Dylan Keyvanloo,4-6,4,6,0,1,Completed,true,false,false
+UA011032,10 Aug 25,3,Kings Park Blue,Elsternwick Park,No. 1,George Si,Jesse Colberg,Jesse Colberg,2-6,2,6,0,1,Completed,true,false,false
+UA011032,10 Aug 25,3,Kings Park Blue,Elsternwick Park,No. 2,Scott Xu,Freya Hewitt,Scott Xu,6-3,6,3,1,0,Completed,true,false,false
+UA011032,10 Aug 25,3,Kings Park Blue,Elsternwick Park,No. 3,Lucas Yang,Ilayda Col,Lucas Yang,6-0,6,0,1,0,Completed,true,false,false
+UA011032,10 Aug 25,3,Kings Park Blue,Elsternwick Park,No. 4,Rohan Satish,Olivia Liub,Olivia Liub,4-6,4,6,0,1,Completed,true,false,true
+UA011033,10 Aug 25,3,Coatesville,Lauriston,No. 1,Maisey McCallum,Isabelle Watson,Isabelle Watson,1-6,1,6,0,1,Completed,true,false,false
+UA011033,10 Aug 25,3,Coatesville,Lauriston,No. 2,Kazu Nakada,Emma McArthur,Kazu Nakada,6-3,6,3,1,0,Completed,true,false,false
+UA011033,10 Aug 25,3,Coatesville,Lauriston,No. 3,Navin Dinesh,Grace Howard,Grace Howard,3-6,3,6,0,1,Completed,true,false,false
+UA011033,10 Aug 25,3,Coatesville,Lauriston,No. 4,Chloe Lo,Andy Li,Andy Li,3-6,3,6,0,1,Completed,true,false,true
+UA011034,10 Aug 25,3,BLTC,Kings Park Red,No. 1,Xavier Lasocki,Nicholas Roselt,Nicholas Roselt,3-6,3,6,0,1,Completed,true,false,false
+UA011034,10 Aug 25,3,BLTC,Kings Park Red,No. 2,Tyler Boyd,Thien Hoang,Thien Hoang,2-6,2,6,0,1,Completed,true,false,false
+UA011034,10 Aug 25,3,BLTC,Kings Park Red,No. 3,Annabelle Gorton,Hai Nhi Hoang,Annabelle Gorton,6-3,6,3,1,0,Completed,true,false,false
+UA011034,10 Aug 25,3,BLTC,Kings Park Red,No. 4,Sara Catala Prieto,Maxwell Luo,Sara Catala Prieto,6-4,6,4,1,0,Completed,true,false,true
+UA011041,17 Aug 25,4,Kings Park Red,Tennis World,No. 1,Nicholas Roselt,Elye Ruddell,Nicholas Roselt,6-4,6,4,1,0,Completed,true,false,false
+UA011041,17 Aug 25,4,Kings Park Red,Tennis World,No. 2,William Haydon,Samiha Kunwar,Samiha Kunwar,5-7,5,7,0,1,Completed,true,false,false
+UA011041,17 Aug 25,4,Kings Park Red,Tennis World,No. 3,Thien Hoang,Aiden Artemas,Thien Hoang,6-4,6,4,1,0,Completed,true,false,false
+UA011041,17 Aug 25,4,Kings Park Red,Tennis World,No. 4,Hai Nhi Hoang,Linuka Chareen Liyanaarachchi,Linuka Chareen Liyanaarachchi,3-6,3,6,0,1,Completed,true,false,false
+UA011042,17 Aug 25,4,Royal Ave,Kings Park Blue,No. 1,Sebastian Snell,Maxwell Luo,Maxwell Luo,5-7,5,7,0,1,Completed,true,false,false
+UA011042,17 Aug 25,4,Royal Ave,Kings Park Blue,No. 2,Lachlan Robertson,Scott Xu,Scott Xu,0-6,0,6,0,1,Completed,true,false,false
+UA011042,17 Aug 25,4,Royal Ave,Kings Park Blue,No. 3,Eric Shao,Lucas Yang,Eric Shao,6-0,6,0,1,0,Completed,true,false,false
+UA011042,17 Aug 25,4,Royal Ave,Kings Park Blue,No. 4,Dylan Keyvanloo,Rohan Satish,Dylan Keyvanloo,6-1,6,1,1,0,Completed,true,false,false
+UA011043,17 Aug 25,4,Elsternwick Park,Coatesville,No. 1,Jesse Colberg,Maisey McCallum,Jesse Colberg,6-3,6,3,1,0,Completed,true,false,false
+UA011043,17 Aug 25,4,Elsternwick Park,Coatesville,No. 2,Tristan Linnett,Hayley Lam,Hayley Lam,5-7,5,7,0,1,Completed,true,false,false
+UA011043,17 Aug 25,4,Elsternwick Park,Coatesville,No. 3,James McCallum,Chloe Lo,James McCallum,6-3,6,3,1,0,Completed,true,false,false
+UA011043,17 Aug 25,4,Elsternwick Park,Coatesville,No. 4,Ilayda Col,Ananaya Ramasubramanian,Ilayda Col,6-3,6,3,1,0,Completed,true,false,false
+UA011044,17 Aug 25,4,Lauriston,BLTC,No. 1,Isabelle Watson,Xavier Lasocki,Isabelle Watson,6-2,6,2,1,0,Completed,true,false,false
+UA011044,17 Aug 25,4,Lauriston,BLTC,No. 2,Olive Watson,Tyler Adams,Olive Watson,7-6,7,6,1,0,Completed,true,false,false
+UA011044,17 Aug 25,4,Lauriston,BLTC,No. 3,Emma McArthur,Callan Bylsma,Callan Bylsma,1-6,1,6,0,1,Completed,true,false,false
+UA011044,17 Aug 25,4,Lauriston,BLTC,No. 4,Hana Lowe,Sara Catala Prieto,Hana Lowe,6-3,6,3,1,0,Completed,true,false,false
+UA011051,24 Aug 25,5,Coatesville,BLTC,No. 1,Maisey McCallum,Xavier Lasocki,Maisey McCallum,6-3,6,3,1,0,Completed,true,false,false
+UA011051,24 Aug 25,5,Coatesville,BLTC,No. 2,Hayley Lam,Tyler Adams,Tyler Adams,1-6,1,6,0,1,Completed,true,false,false
+UA011051,24 Aug 25,5,Coatesville,BLTC,No. 3,Kazu Nakada,Callan Bylsma,Callan Bylsma,3-6,3,6,0,1,Completed,true,false,false
+UA011051,24 Aug 25,5,Coatesville,BLTC,No. 4,Ananaya Ramasubramanian,Tyler Boyd,Tyler Boyd,3-6,3,6,0,1,Completed,true,false,false
+UA011052,24 Aug 25,5,Elsternwick Park,Royal Ave,No. 1,Jesse Colberg,Sonny Baker,Sonny Baker,4-6,4,6,0,1,Completed,true,false,false
+UA011052,24 Aug 25,5,Elsternwick Park,Royal Ave,No. 2,Freya Hewitt,Eric Shao,Eric Shao,2-6,2,6,0,1,Completed,true,false,false
+UA011052,24 Aug 25,5,Elsternwick Park,Royal Ave,No. 3,Tristan Linnett,Sebastian Snell,Tristan Linnett,7-6,7,6,1,0,Completed,true,false,false
+UA011052,24 Aug 25,5,Elsternwick Park,Royal Ave,No. 4,Ilayda Col,Lachlan Robertson,Ilayda Col,7-6,7,6,1,0,Completed,true,false,false
+UA011053,24 Aug 25,5,Kings Park Red,Lauriston,No. 1,Nicholas Roselt,Isabelle Watson,Isabelle Watson,2-6,2,6,0,1,Completed,true,false,false
+UA011053,24 Aug 25,5,Kings Park Red,Lauriston,No. 2,William Haydon,Olivia Khakam,Olivia Khakam,1-6,1,6,0,1,Completed,true,false,false
+UA011053,24 Aug 25,5,Kings Park Red,Lauriston,No. 3,Thien Hoang,Hana Lowe,Thien Hoang,6-1,6,1,1,0,Completed,true,false,false
+UA011053,24 Aug 25,5,Kings Park Red,Lauriston,No. 4,Hai Nhi Hoang,Grace Howard,Hai Nhi Hoang,6-4,6,4,1,0,Completed,true,false,false
+UA011054,24 Aug 25,5,Tennis World,Kings Park Blue,No. 1,Aiden Artemas,Maxwell Luo,Maxwell Luo,1-6,1,6,0,1,Completed,true,false,false
+UA011054,24 Aug 25,5,Tennis World,Kings Park Blue,No. 2,Linuka Chareen Liyanaarachchi,George Si,Linuka Chareen Liyanaarachchi,6-1,6,1,1,0,Completed,true,false,false
+UA011054,24 Aug 25,5,Tennis World,Kings Park Blue,No. 3,Summer Chhay-Lu,Lucas Yang,Summer Chhay-Lu,7-5,7,5,1,0,Completed,true,false,false
+UA011054,24 Aug 25,5,Tennis World,Kings Park Blue,No. 4,Eamon Croke,Rohan Satish,Eamon Croke,6-4,6,4,1,0,Completed,true,false,false
+UA011062,31 Aug 25,6,BLTC,Tennis World,No. 1,Tyler Adams,Elye Ruddell,Tyler Adams,6-0,6,0,1,0,Completed,true,false,false
+UA011062,31 Aug 25,6,BLTC,Tennis World,No. 2,Callan Bylsma,Samiha Kunwar,Samiha Kunwar,1-6,1,6,0,1,Completed,true,false,false
+UA011062,31 Aug 25,6,BLTC,Tennis World,No. 3,Tyler Boyd,Linuka Chareen Liyanaarachchi,Linuka Chareen Liyanaarachchi,1-6,1,6,0,1,Completed,true,false,false
+UA011062,31 Aug 25,6,BLTC,Tennis World,No. 4,Annabelle Gorton,Eamon Croke,Annabelle Gorton,6-4,6,4,1,0,Completed,true,false,false
+UA011063,31 Aug 25,6,Royal Ave,Kings Park Red,No. 1,Sonny Baker,Nicholas Roselt,Sonny Baker,6-3,6,3,1,0,Completed,true,false,false
+UA011063,31 Aug 25,6,Royal Ave,Kings Park Red,No. 2,Luke Ng,William Haydon,Luke Ng,6-3,6,3,1,0,Completed,true,false,false
+UA011063,31 Aug 25,6,Royal Ave,Kings Park Red,No. 3,Eric Shao,Thien Hoang,Eric Shao,6-4,6,4,1,0,Completed,true,false,false
+UA011063,31 Aug 25,6,Royal Ave,Kings Park Red,No. 4,Dylan Keyvanloo,Hai Nhi Hoang,Dylan Keyvanloo,6-0,6,0,1,0,Completed,true,false,false
+UA011064,31 Aug 25,6,Lauriston,Elsternwick Park,No. 1,Olive Watson,Jesse Colberg,Jesse Colberg,4-6,4,6,0,1,Completed,true,false,false
+UA011064,31 Aug 25,6,Lauriston,Elsternwick Park,No. 2,Olivia Khakam,Tristan Linnett,Tristan Linnett,3-6,3,6,0,1,Completed,true,false,false
+UA011064,31 Aug 25,6,Lauriston,Elsternwick Park,No. 3,Hana Lowe,Ilayda Col,Ilayda Col,4-6,4,6,0,1,Completed,true,false,false
+UA011064,31 Aug 25,6,Lauriston,Elsternwick Park,No. 4,Grace Howard,Hugo Jaipaul,Grace Howard,7-6,7,6,1,0,Completed,true,false,true
+UA011071,07 Sep 25,7,Tennis World,Coatesville,No. 1,Aiden Artemas,Hayley Lam,Hayley Lam,5-7,5,7,0,1,Completed,true,false,false
+UA011071,07 Sep 25,7,Tennis World,Coatesville,No. 2,Linuka Chareen Liyanaarachchi,Navin Dinesh,Linuka Chareen Liyanaarachchi,6-0,6,0,1,0,Completed,true,false,false
+UA011071,07 Sep 25,7,Tennis World,Coatesville,No. 3,Summer Chhay-Lu,Chloe Lo,Summer Chhay-Lu,6-3,6,3,1,0,Completed,true,false,false
+UA011071,07 Sep 25,7,Tennis World,Coatesville,No. 4,Eamon Croke,Ananaya Ramasubramanian,Eamon Croke,6-1,6,1,1,0,Completed,true,false,false
+UA011072,07 Sep 25,7,Kings Park Blue,BLTC,No. 1,Maxwell Luo,Tyler Adams,Tyler Adams,1-6,1,6,0,1,Completed,true,false,false
+UA011072,07 Sep 25,7,Kings Park Blue,BLTC,No. 2,George Si,Callan Bylsma,Callan Bylsma,3-6,3,6,0,1,Completed,true,false,false
+UA011072,07 Sep 25,7,Kings Park Blue,BLTC,No. 3,Rohan Satish,Tyler Boyd,Tyler Boyd,1-6,1,6,0,1,Completed,true,false,false
+UA011072,07 Sep 25,7,Kings Park Blue,BLTC,No. 4,Liam Huang,Annabelle Gorton,Liam Huang,6-3,6,3,1,0,Completed,true,true,false
+UA011073,07 Sep 25,7,Elsternwick Park,Kings Park Red,No. 1,Jesse Colberg,Nicholas Roselt,Nicholas Roselt,4-6,4,6,0,1,Completed,true,false,false
+UA011073,07 Sep 25,7,Elsternwick Park,Kings Park Red,No. 2,Tristan Linnett,William Haydon,Tristan Linnett,6-3,6,3,1,0,Completed,true,false,false
+UA011073,07 Sep 25,7,Elsternwick Park,Kings Park Red,No. 3,James McCallum,Thien Hoang,Thien Hoang,3-6,3,6,0,1,Completed,true,false,false
+UA011073,07 Sep 25,7,Elsternwick Park,Kings Park Red,No. 4,Ilayda Col,[Unnamed player — TROLS UA011073 away code 4],Ilayda Col,6-0,6,0,1,0,Completed,false,false,false
+UA011074,07 Sep 25,7,Royal Ave,Lauriston,No. 1,Luke Ng,Isabelle Watson,Isabelle Watson,2-6,2,6,0,1,Completed,true,false,false
+UA011074,07 Sep 25,7,Royal Ave,Lauriston,No. 2,Sebastian Snell,Olivia Khakam,Sebastian Snell,6-3,6,3,1,0,Completed,true,false,false
+UA011074,07 Sep 25,7,Royal Ave,Lauriston,No. 3,Lachlan Robertson,Emma McArthur,Lachlan Robertson,6-3,6,3,1,0,Completed,true,false,false
+UA011074,07 Sep 25,7,Royal Ave,Lauriston,No. 4,Eric Shao,Grace Howard,Eric Shao,6-2,6,2,1,0,Completed,true,false,false
+UA011081,14 Sep 25,8,Lauriston,Tennis World,No. 1,Isabelle Watson,Elye Ruddell,Isabelle Watson,6-2,6,2,1,0,Completed,true,false,false
+UA011081,14 Sep 25,8,Lauriston,Tennis World,No. 2,Olive Watson,Samiha Kunwar,Olive Watson,6-4,6,4,1,0,Completed,true,false,false
+UA011081,14 Sep 25,8,Lauriston,Tennis World,No. 3,Emma McArthur,Aiden Artemas,Aiden Artemas,1-6,1,6,0,1,Completed,true,false,false
+UA011081,14 Sep 25,8,Lauriston,Tennis World,No. 4,Grace Howard,Linuka Chareen Liyanaarachchi,Linuka Chareen Liyanaarachchi,0-6,0,6,0,1,Completed,true,false,false
+UA011082,14 Sep 25,8,Kings Park Red,Kings Park Blue,No. 1,Nicholas Roselt,George Si,Nicholas Roselt,6-1,6,1,1,0,Completed,true,false,false
+UA011082,14 Sep 25,8,Kings Park Red,Kings Park Blue,No. 2,William Haydon,Scott Xu,Scott Xu,2-6,2,6,0,1,Completed,true,false,false
+UA011082,14 Sep 25,8,Kings Park Red,Kings Park Blue,No. 3,Mathias Chang,Rohan Satish,Rohan Satish,4-6,4,6,0,1,Completed,true,true,false
+UA011082,14 Sep 25,8,Kings Park Red,Kings Park Blue,No. 4,Davide Destefanis,Liam Huang,Davide Destefanis,6-2,6,2,1,0,Completed,true,true,true
+UA011083,14 Sep 25,8,Royal Ave,Coatesville,No. 1,Luke Ng,Hayley Lam,Hayley Lam,5-7,5,7,0,1,Completed,true,false,false
+UA011083,14 Sep 25,8,Royal Ave,Coatesville,No. 2,Sebastian Snell,Kazu Nakada,Sebastian Snell,6-1,6,1,1,0,Completed,true,false,false
+UA011083,14 Sep 25,8,Royal Ave,Coatesville,No. 3,Lachlan Robertson,Navin Dinesh,Lachlan Robertson,6-0,6,0,1,0,Completed,true,false,false
+UA011083,14 Sep 25,8,Royal Ave,Coatesville,No. 4,Dylan Keyvanloo,Ananaya Ramasubramanian,Dylan Keyvanloo,6-3,6,3,1,0,Completed,true,false,false
+UA011084,14 Sep 25,8,Elsternwick Park,BLTC,No. 1,Jesse Colberg,Xavier Lasocki,Jesse Colberg,6-3,6,3,1,0,Completed,true,false,false
+UA011084,14 Sep 25,8,Elsternwick Park,BLTC,No. 2,Freya Hewitt,Tyler Adams,Freya Hewitt,6-4,6,4,1,0,Completed,true,false,false
+UA011084,14 Sep 25,8,Elsternwick Park,BLTC,No. 3,Tristan Linnett,Annabelle Gorton,Annabelle Gorton,3-6,3,6,0,1,Completed,true,false,false
+UA011084,14 Sep 25,8,Elsternwick Park,BLTC,No. 4,James McCallum,Sara Catala Prieto,James McCallum,6-3,6,3,1,0,Completed,true,false,false
+UA011091,12 Oct 25,9,Tennis World,Elsternwick Park,No. 1,Linuka Chareen Liyanaarachchi,Jesse Colberg,Linuka Chareen Liyanaarachchi,6-2,6,2,1,0,Completed,true,false,false
+UA011091,12 Oct 25,9,Tennis World,Elsternwick Park,No. 2,Aiden Artemas,Freya Hewitt,Aiden Artemas,6-1,6,1,1,0,Completed,true,false,false
+UA011091,12 Oct 25,9,Tennis World,Elsternwick Park,No. 3,Summer Chhay-Lu,James McCallum,Summer Chhay-Lu,6-0,6,0,1,0,Completed,true,false,false
+UA011091,12 Oct 25,9,Tennis World,Elsternwick Park,No. 4,Eamon Croke,Liam No,Liam No,4-6,4,6,0,1,Completed,true,false,true
+UA011092,12 Oct 25,9,Kings Park Blue,Lauriston,No. 1,Maxwell Luo,Olive Watson,Maxwell Luo,6-4,6,4,1,0,Completed,true,false,false
+UA011092,12 Oct 25,9,Kings Park Blue,Lauriston,No. 2,George Si,Olivia Khakam,George Si,6-3,6,3,1,0,Completed,true,false,false
+UA011092,12 Oct 25,9,Kings Park Blue,Lauriston,No. 3,Lucas Yang,Emma McArthur,Lucas Yang,6-0,6,0,1,0,Completed,true,false,false
+UA011092,12 Oct 25,9,Kings Park Blue,Lauriston,No. 4,Rohan Satish,Grace Howard,Grace Howard,2-6,2,6,0,1,Completed,true,false,false
+UA011093,12 Oct 25,9,Coatesville,Kings Park Red,No. 1,Maisey McCallum,Nicholas Roselt,Nicholas Roselt,4-6,4,6,0,1,Completed,true,false,false
+UA011093,12 Oct 25,9,Coatesville,Kings Park Red,No. 2,Kazu Nakada,William Haydon,William Haydon,2-6,2,6,0,1,Completed,true,false,false
+UA011093,12 Oct 25,9,Coatesville,Kings Park Red,No. 3,Chloe Lo,Thien Hoang,Thien Hoang,1-6,1,6,0,1,Completed,true,false,false
+UA011093,12 Oct 25,9,Coatesville,Kings Park Red,No. 4,Ananaya Ramasubramanian,Hai Nhi Hoang,Hai Nhi Hoang,2-6,2,6,0,1,Completed,true,false,false
+UA011094,12 Oct 25,9,BLTC,Royal Ave,No. 1,Tyler Boyd,Sonny Baker,Sonny Baker,0-6,0,6,0,1,Completed,true,false,false
+UA011094,12 Oct 25,9,BLTC,Royal Ave,No. 2,Annabelle Gorton,Sebastian Snell,Annabelle Gorton,6-4,6,4,1,0,Completed,true,false,false
+UA011094,12 Oct 25,9,BLTC,Royal Ave,No. 3,Eleanor Keady,Eric Shao,Eric Shao,2-6,2,6,0,1,Completed,true,true,false
+UA011094,12 Oct 25,9,BLTC,Royal Ave,No. 4,Sara Catala Prieto,Dylan Keyvanloo,Dylan Keyvanloo,2-6,2,6,0,1,Completed,true,false,false
+UA011101,19 Oct 25,10,Royal Ave,Tennis World,No. 1,Sonny Baker,Linuka Chareen Liyanaarachchi,Linuka Chareen Liyanaarachchi,2-6,2,6,0,1,Completed,true,false,false
+UA011101,19 Oct 25,10,Royal Ave,Tennis World,No. 2,Luke Ng,Aiden Artemas,Aiden Artemas,5-7,5,7,0,1,Completed,true,false,false
+UA011101,19 Oct 25,10,Royal Ave,Tennis World,No. 3,Lachlan Robertson,Summer Chhay-Lu,Lachlan Robertson,6-0,6,0,1,0,Completed,true,false,false
+UA011101,19 Oct 25,10,Royal Ave,Tennis World,No. 4,Eric Shao,Eamon Croke,Eric Shao,6-3,6,3,1,0,Completed,true,false,false
+UA011102,19 Oct 25,10,Elsternwick Park,Kings Park Blue,No. 1,Jesse Colberg,Maxwell Luo,Jesse Colberg,6-2,6,2,1,0,Completed,true,false,false
+UA011102,19 Oct 25,10,Elsternwick Park,Kings Park Blue,No. 2,Freya Hewitt,George Si,Freya Hewitt,6-3,6,3,1,0,Completed,true,false,false
+UA011102,19 Oct 25,10,Elsternwick Park,Kings Park Blue,No. 3,Tristan Linnett,Lucas Yang,Lucas Yang,3-6,3,6,0,1,Completed,true,false,false
+UA011102,19 Oct 25,10,Elsternwick Park,Kings Park Blue,No. 4,Ilayda Col,Rohan Satish,Rohan Satish,3-6,3,6,0,1,Completed,true,false,false
+UA011103,19 Oct 25,10,Lauriston,Coatesville,No. 1,Isabelle Watson,Maisey McCallum,Isabelle Watson,6-1,6,1,1,0,Completed,true,false,false
+UA011103,19 Oct 25,10,Lauriston,Coatesville,No. 2,Olive Watson,Hayley Lam,Olive Watson,6-2,6,2,1,0,Completed,true,false,false
+UA011103,19 Oct 25,10,Lauriston,Coatesville,No. 3,Olivia Khakam,Kazu Nakada,Kazu Nakada,3-6,3,6,0,1,Completed,true,false,false
+UA011103,19 Oct 25,10,Lauriston,Coatesville,No. 4,Emma McArthur,Chloe Lo,Chloe Lo,5-7,5,7,0,1,Completed,true,false,false
+UA011104,19 Oct 25,10,Kings Park Red,BLTC,No. 1,Nicholas Roselt,Tyler Adams,Nicholas Roselt,7-5,7,5,1,0,Completed,true,false,false
+UA011104,19 Oct 25,10,Kings Park Red,BLTC,No. 2,William Haydon,Tyler Boyd,William Haydon,6-3,6,3,1,0,Completed,true,false,false
+UA011104,19 Oct 25,10,Kings Park Red,BLTC,No. 3,Thien Hoang,Annabelle Gorton,Thien Hoang,6-4,6,4,1,0,Completed,true,false,false
+UA011104,19 Oct 25,10,Kings Park Red,BLTC,No. 4,Hai Nhi Hoang,Eleanor Keady,Hai Nhi Hoang,6-1,6,1,1,0,Completed,true,false,true
+UA011111,26 Oct 25,11,Tennis World,Kings Park Red,No. 1,Samiha Kunwar,Nicholas Roselt,Samiha Kunwar,2-0,2,0,1,0,Completed,false,false,false
+UA011111,26 Oct 25,11,Tennis World,Kings Park Red,No. 2,Aiden Artemas,Thien Hoang,Aiden Artemas,6-4,6,4,1,0,Completed,true,false,false
+UA011111,26 Oct 25,11,Tennis World,Kings Park Red,No. 3,Eamon Croke,Hai Nhi Hoang,Eamon Croke,6-3,6,3,1,0,Completed,true,false,false
+UA011113,26 Oct 25,11,Coatesville,Elsternwick Park,No. 1,Hayley Lam,Jesse Colberg,Jesse Colberg,2-6,2,6,0,1,Completed,true,false,false
+UA011113,26 Oct 25,11,Coatesville,Elsternwick Park,No. 2,Kazu Nakada,Tristan Linnett,Tristan Linnett,0-6,0,6,0,1,Completed,true,false,false
+UA011113,26 Oct 25,11,Coatesville,Elsternwick Park,No. 3,Chloe Lo,James McCallum,James McCallum,0-6,0,6,0,1,Completed,true,false,false
+UA011113,26 Oct 25,11,Coatesville,Elsternwick Park,No. 4,Ananaya Ramasubramanian,Ilayda Col,Ananaya Ramasubramanian,7-5,7,5,1,0,Completed,true,false,false
+UA011114,26 Oct 25,11,BLTC,Lauriston,No. 1,Xavier Lasocki,Isabelle Watson,Isabelle Watson,2-6,2,6,0,1,Completed,true,false,false
+UA011114,26 Oct 25,11,BLTC,Lauriston,No. 2,Tyler Adams,Olive Watson,Olive Watson,6-7,6,7,0,1,Completed,true,false,false
+UA011114,26 Oct 25,11,BLTC,Lauriston,No. 3,Annabelle Gorton,Hana Lowe,Annabelle Gorton,6-1,6,1,1,0,Completed,true,false,false
+UA011114,26 Oct 25,11,BLTC,Lauriston,No. 4,Sara Catala Prieto,Grace Howard,Sara Catala Prieto,6-3,6,3,1,0,Completed,true,false,false
+UA011121,09 Nov 25,12,BLTC,Coatesville,No. 1,Xavier Lasocki,Maisey McCallum,Xavier Lasocki,6-4,6,4,1,0,Completed,true,false,false
+UA011121,09 Nov 25,12,BLTC,Coatesville,No. 2,Tyler Boyd,Kazu Nakada,Kazu Nakada,0-6,0,6,0,1,Completed,true,false,false
+UA011121,09 Nov 25,12,BLTC,Coatesville,No. 3,Annabelle Gorton,Chloe Lo,Annabelle Gorton,6-3,6,3,1,0,Completed,true,false,false
+UA011121,09 Nov 25,12,BLTC,Coatesville,No. 4,Sara Catala Prieto,Ananaya Ramasubramanian,Sara Catala Prieto,6-4,6,4,1,0,Completed,true,false,false
+UA011122,09 Nov 25,12,Royal Ave,Elsternwick Park,No. 1,Sonny Baker,Freya Hewitt,Sonny Baker,6-4,6,4,1,0,Completed,true,false,false
+UA011122,09 Nov 25,12,Royal Ave,Elsternwick Park,No. 2,Luke Ng,Tristan Linnett,Tristan Linnett,4-6,4,6,0,1,Completed,true,false,false
+UA011122,09 Nov 25,12,Royal Ave,Elsternwick Park,No. 3,Sebastian Snell,James McCallum,Sebastian Snell,6-3,6,3,1,0,Completed,true,false,false
+UA011122,09 Nov 25,12,Royal Ave,Elsternwick Park,No. 4,Dylan Keyvanloo,Ilayda Col,Ilayda Col,1-6,1,6,0,1,Completed,true,false,false
+UA011123,09 Nov 25,12,Lauriston,Kings Park Red,No. 1,Olive Watson,Nicholas Roselt,Olive Watson,6-3,6,3,1,0,Completed,true,false,false
+UA011123,09 Nov 25,12,Lauriston,Kings Park Red,No. 2,Emma McArthur,William Haydon,William Haydon,2-6,2,6,0,1,Completed,true,false,false
+UA011123,09 Nov 25,12,Lauriston,Kings Park Red,No. 3,Hana Lowe,Thien Hoang,Thien Hoang,0-6,0,6,0,1,Completed,true,false,false
+UA011123,09 Nov 25,12,Lauriston,Kings Park Red,No. 4,Grace Howard,Hai Nhi Hoang,Grace Howard,6-1,6,1,1,0,Completed,true,false,false
+UA011124,09 Nov 25,12,Kings Park Blue,Tennis World,No. 1,Maxwell Luo,Elye Ruddell,Elye Ruddell,0-6,0,6,0,1,Completed,true,false,false
+UA011124,09 Nov 25,12,Kings Park Blue,Tennis World,No. 2,George Si,Samiha Kunwar,Samiha Kunwar,2-6,2,6,0,1,Completed,true,false,false
+UA011124,09 Nov 25,12,Kings Park Blue,Tennis World,No. 3,Scott Xu,Linuka Chareen Liyanaarachchi,Linuka Chareen Liyanaarachchi,4-6,4,6,0,1,Completed,true,false,false
+UA011124,09 Nov 25,12,Kings Park Blue,Tennis World,No. 4,Lucas Yang,Aiden Artemas,Lucas Yang,6-4,6,4,1,0,Completed,true,false,false
+UA011131,16 Nov 25,13,Coatesville,Kings Park Blue,No. 1,Maisey McCallum,Maxwell Luo,Maisey McCallum,6-4,6,4,1,0,Completed,true,false,false
+UA011131,16 Nov 25,13,Coatesville,Kings Park Blue,No. 2,Hayley Lam,George Si,Hayley Lam,6-1,6,1,1,0,Completed,true,false,false
+UA011131,16 Nov 25,13,Coatesville,Kings Park Blue,No. 3,Chloe Lo,Lucas Yang,Lucas Yang,3-6,3,6,0,1,Completed,true,false,false
+UA011131,16 Nov 25,13,Coatesville,Kings Park Blue,No. 4,Ananaya Ramasubramanian,Rohan Satish,Rohan Satish,4-6,4,6,0,1,Completed,true,false,false
+UA011132,16 Nov 25,13,Tennis World,BLTC,No. 1,Elye Ruddell,Tyler Adams,Tyler Adams,4-6,4,6,0,1,Completed,true,false,false
+UA011132,16 Nov 25,13,Tennis World,BLTC,No. 2,Linuka Chareen Liyanaarachchi,Tyler Boyd,Linuka Chareen Liyanaarachchi,6-1,6,1,1,0,Completed,true,false,false
+UA011132,16 Nov 25,13,Tennis World,BLTC,No. 3,Summer Chhay-Lu,Annabelle Gorton,Summer Chhay-Lu,6-4,6,4,1,0,Completed,true,false,false
+UA011132,16 Nov 25,13,Tennis World,BLTC,No. 4,Eamon Croke,Eleanor Keady,Eamon Croke,6-2,6,2,1,0,Completed,true,false,true
+UA011133,16 Nov 25,13,Kings Park Red,Royal Ave,No. 1,Nicholas Roselt,Luke Ng,Nicholas Roselt,6-4,6,4,1,0,Completed,true,false,false
+UA011133,16 Nov 25,13,Kings Park Red,Royal Ave,No. 2,William Haydon,Sebastian Snell,Sebastian Snell,1-6,1,6,0,1,Completed,true,false,false
+UA011133,16 Nov 25,13,Kings Park Red,Royal Ave,No. 3,Thien Hoang,Lachlan Robertson,Lachlan Robertson,0-6,0,6,0,1,Completed,true,false,false
+UA011133,16 Nov 25,13,Kings Park Red,Royal Ave,No. 4,Hai Nhi Hoang,Eric Shao,Eric Shao,2-6,2,6,0,1,Completed,true,false,false
+UA011134,16 Nov 25,13,Elsternwick Park,Lauriston,No. 1,Freya Hewitt,Isabelle Watson,Isabelle Watson,4-6,4,6,0,1,Completed,true,false,false
+UA011134,16 Nov 25,13,Elsternwick Park,Lauriston,No. 2,Tristan Linnett,Emma McArthur,Tristan Linnett,6-2,6,2,1,0,Completed,true,false,false
+UA011134,16 Nov 25,13,Elsternwick Park,Lauriston,No. 3,James McCallum,Grace Howard,James McCallum,6-0,6,0,1,0,Completed,true,false,false
+UA011134,16 Nov 25,13,Elsternwick Park,Lauriston,No. 4,Jimi Grifiths,Andy Li,Jimi Grifiths,6-1,6,1,1,0,Completed,true,true,true
+UA011301,,16,Elsternwick Park,Kings Park Red,No. 1,Jesse Colberg,Nicholas Roselt,Jesse Colberg,7-5,7,5,1,0,Completed,true,false,false
+UA011301,,16,Elsternwick Park,Kings Park Red,No. 2,Freya Hewitt,William Haydon,Freya Hewitt,6-3,6,3,1,0,Completed,true,false,false
+UA011301,,16,Elsternwick Park,Kings Park Red,No. 3,Tristan Linnett,Thien Hoang,Thien Hoang,3-6,3,6,0,1,Completed,true,false,false
+UA011301,,16,Elsternwick Park,Kings Park Red,No. 4,James McCallum,Hai Nhi Hoang,James McCallum,6-3,6,3,1,0,Completed,true,false,false
+UA011302,,16,Royal Ave,Tennis World,No. 1,Sonny Baker,Elye Ruddell,Sonny Baker,7-6,7,6,1,0,Completed,true,false,false
+UA011302,,16,Royal Ave,Tennis World,No. 2,Sebastian Snell,Samiha Kunwar,Samiha Kunwar,0-6,0,6,0,1,Completed,true,false,false
+UA011302,,16,Royal Ave,Tennis World,No. 3,Lachlan Robertson,Linuka Chareen Liyanaarachchi,Linuka Chareen Liyanaarachchi,3-6,3,6,0,1,Completed,true,false,false
+UA011302,,16,Royal Ave,Tennis World,No. 4,Eric Shao,Aiden Artemas,Eric Shao,6-1,6,1,1,0,Completed,true,false,false
+UA011321,,17,Elsternwick Park,Tennis World,No. 1,Jesse Colberg,Elye Ruddell,Jesse Colberg,6-3,6,3,1,0,Completed,true,false,false
+UA011321,,17,Elsternwick Park,Tennis World,No. 2,Freya Hewitt,Samiha Kunwar,Freya Hewitt,7-6,7,6,1,0,Completed,true,false,false
+UA011321,,17,Elsternwick Park,Tennis World,No. 3,Tristan Linnett,Linuka Chareen Liyanaarachchi,Linuka Chareen Liyanaarachchi,3-6,3,6,0,1,Completed,true,false,false
+UA011321,,17,Elsternwick Park,Tennis World,No. 4,James McCallum,Aiden Artemas,James McCallum,7-5,7,5,1,0,Completed,true,false,false

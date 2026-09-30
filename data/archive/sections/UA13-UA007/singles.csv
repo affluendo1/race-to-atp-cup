@@ -1,0 +1,233 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA007011,21 Jul 13,1,GPHC,Tennis World 1,No. 1,Georgia Deacon,Alex Mensh,Georgia Deacon,6-0,6,0,1,0,Completed,true,false,false
+UA007011,21 Jul 13,1,GPHC,Tennis World 1,No. 2,Hannah Double,Lewis Leow,Hannah Double,6-0,6,0,1,0,Completed,true,false,false
+UA007011,21 Jul 13,1,GPHC,Tennis World 1,No. 3,Alex Chauhan,Tegan Burns,Alex Chauhan,6-2,6,2,1,0,Completed,true,false,false
+UA007011,21 Jul 13,1,GPHC,Tennis World 1,No. 4,Lily Goss,Stacey Flaounas,Lily Goss,7-6,7,6,1,0,Completed,true,false,false
+UA007012,21 Jul 13,1,Maccabi,Tennis World 2,No. 1,Luka Kanat,Sebastian Feile,Luka Kanat,6-1,6,1,1,0,Completed,true,false,false
+UA007012,21 Jul 13,1,Maccabi,Tennis World 2,No. 2,Zac Goldberger,Aashna Vizirani,Zac Goldberger,6-1,6,1,1,0,Completed,true,false,false
+UA007012,21 Jul 13,1,Maccabi,Tennis World 2,No. 3,Joshua Dorfan,Jessica Dexter,Joshua Dorfan,6-4,6,4,1,0,Completed,true,false,false
+UA007012,21 Jul 13,1,Maccabi,Tennis World 2,No. 4,Jarryd Tauber,Robert Raichici,Robert Raichici,2-6,2,6,0,1,Completed,true,false,false
+UA007013,21 Jul 13,1,Lauriston,BLTC,No. 1,Jeremy Wang,Natasha Amon-Simmonds,Jeremy Wang,6-0,6,0,1,0,Completed,true,false,false
+UA007013,21 Jul 13,1,Lauriston,BLTC,No. 2,Lauren Earls,Samantha Amon-Simmonds,Samantha Amon-Simmonds,4-6,4,6,0,1,Completed,true,false,false
+UA007013,21 Jul 13,1,Lauriston,BLTC,No. 3,Caitlin Davis,Taylor Nixon,Caitlin Davis,7-6,7,6,1,0,Completed,true,false,false
+UA007013,21 Jul 13,1,Lauriston,BLTC,No. 4,Jennifer O'Connor,Jessica Myers,Jennifer O'Connor,6-0,6,0,1,0,Completed,true,false,false
+UA007014,21 Jul 13,1,Royal South Yarra,Parkdale,No. 1,Isobel McFarlane,Tyler Bradley,Tyler Bradley,1-6,1,6,0,1,Completed,true,false,false
+UA007014,21 Jul 13,1,Royal South Yarra,Parkdale,No. 2,Rich Bartlett,Sam Barren,Sam Barren,3-6,3,6,0,1,Completed,true,false,false
+UA007014,21 Jul 13,1,Royal South Yarra,Parkdale,No. 3,Vivienne Johnston,Harry Cramer,Vivienne Johnston,6-1,6,1,1,0,Completed,true,false,false
+UA007014,21 Jul 13,1,Royal South Yarra,Parkdale,No. 4,Nick Barlett,Reid Terrell,Nick Barlett,6-1,6,1,1,0,Completed,true,false,false
+UA007021,28 Jul 13,2,Parkdale,GPHC,No. 1,Tyler Bradley,Hannah Double,Tyler Bradley,6-1,6,1,1,0,Completed,true,false,false
+UA007021,28 Jul 13,2,Parkdale,GPHC,No. 2,Sam Barren,Max Double,Sam Barren,7-5,7,5,1,0,Completed,true,false,false
+UA007021,28 Jul 13,2,Parkdale,GPHC,No. 3,Reid Terrell,Alex Chauhan,Alex Chauhan,0-6,0,6,0,1,Completed,true,false,false
+UA007021,28 Jul 13,2,Parkdale,GPHC,No. 4,Keirath Singh,Lily Goss,Lily Goss,2-6,2,6,0,1,Completed,true,false,false
+UA007022,28 Jul 13,2,Tennis World 1,Maccabi,No. 1,Lewis Leow,Luka Kanat,Luka Kanat,2-6,2,6,0,1,Completed,true,false,false
+UA007022,28 Jul 13,2,Tennis World 1,Maccabi,No. 2,Jamie Foster,Jarryd Tauber,Jarryd Tauber,3-6,3,6,0,1,Completed,true,false,false
+UA007022,28 Jul 13,2,Tennis World 1,Maccabi,No. 3,Stacey Flaounas,Jai Kanat,Stacey Flaounas,7-6,7,6,1,0,Completed,true,false,false
+UA007022,28 Jul 13,2,Tennis World 1,Maccabi,No. 4,Tallie Collins,Gabbi Tauber,Tallie Collins,6-2,6,2,1,0,Completed,true,false,false
+UA007023,28 Jul 13,2,Tennis World 2,Lauriston,No. 1,Josephine Maddafferi,Jeremy Wang,Jeremy Wang,2-6,2,6,0,1,Completed,true,false,false
+UA007023,28 Jul 13,2,Tennis World 2,Lauriston,No. 2,Robert Raichici,Caitlin Davis,Robert Raichici,6-2,6,2,1,0,Completed,true,false,false
+UA007023,28 Jul 13,2,Tennis World 2,Lauriston,No. 3,Aashna Vizirani,Jennifer O'Connor,Jennifer O'Connor,5-7,5,7,0,1,Completed,true,false,false
+UA007023,28 Jul 13,2,Tennis World 2,Lauriston,No. 4,Sebastian Feile,Michelle Volpert,Michelle Volpert,1-6,1,6,0,1,Completed,true,false,false
+UA007024,28 Jul 13,2,BLTC,Royal South Yarra,No. 1,Natasha Amon-Simmonds,Rich Bartlett,Natasha Amon-Simmonds,6-3,6,3,1,0,Completed,true,false,false
+UA007024,28 Jul 13,2,BLTC,Royal South Yarra,No. 2,Samantha Amon-Simmonds,Oliver Ritman,Samantha Amon-Simmonds,6-4,6,4,1,0,Completed,true,false,false
+UA007024,28 Jul 13,2,BLTC,Royal South Yarra,No. 3,Taylor Nixon,Vivienne Johnston,Taylor Nixon,6-2,6,2,1,0,Completed,true,false,false
+UA007024,28 Jul 13,2,BLTC,Royal South Yarra,No. 4,Charlotte Myers,Tom Steele,Charlotte Myers,6-3,6,3,1,0,Completed,true,false,false
+UA007031,04 Aug 13,3,GPHC,BLTC,No. 1,Georgia Deacon,Natasha Amon-Simmonds,Georgia Deacon,6-0,6,0,1,0,Completed,true,false,false
+UA007031,04 Aug 13,3,GPHC,BLTC,No. 2,Max Double,Samantha Amon-Simmonds,Max Double,6-4,6,4,1,0,Completed,true,false,false
+UA007031,04 Aug 13,3,GPHC,BLTC,No. 3,Lily Goss,Jessica Myers,Lily Goss,6-1,6,1,1,0,Completed,true,false,false
+UA007031,04 Aug 13,3,GPHC,BLTC,No. 4,Maddy Benallack,Charlotte Myers,Charlotte Myers,2-6,2,6,0,1,Completed,true,false,false
+UA007032,04 Aug 13,3,Maccabi,Parkdale,No. 1,Zac Goldberger,Harry Cramer,Harry Cramer,4-6,4,6,0,1,Completed,true,false,false
+UA007032,04 Aug 13,3,Maccabi,Parkdale,No. 2,Jarryd Tauber,Alexander Verrils,Jarryd Tauber,6-0,6,0,1,0,Completed,true,false,false
+UA007032,04 Aug 13,3,Maccabi,Parkdale,No. 3,Jai Kanat,Reid Terrell,Jai Kanat,6-1,6,1,1,0,Completed,true,false,false
+UA007032,04 Aug 13,3,Maccabi,Parkdale,No. 4,Gabbi Tauber,Keirath Singh,Gabbi Tauber,6-1,6,1,1,0,Completed,true,false,false
+UA007033,04 Aug 13,3,Lauriston,Tennis World 1,No. 1,Jeremy Wang,Alex Mensh,Jeremy Wang,6-1,6,1,1,0,Completed,true,false,false
+UA007033,04 Aug 13,3,Lauriston,Tennis World 1,No. 2,Lauren Earls,Lewis Leow,Lauren Earls,6-3,6,3,1,0,Completed,true,false,false
+UA007033,04 Aug 13,3,Lauriston,Tennis World 1,No. 3,Angela Chen,Tegan Burns,Tegan Burns,1-6,1,6,0,1,Completed,true,false,false
+UA007033,04 Aug 13,3,Lauriston,Tennis World 1,No. 4,Jennifer O'Connor,Jamie Foster,Jamie Foster,0-6,0,6,0,1,Completed,true,false,false
+UA007034,04 Aug 13,3,Royal South Yarra,Tennis World 2,No. 1,Isobel McFarlane,Robert Raichici,Isobel McFarlane,7-5,7,5,1,0,Completed,true,false,false
+UA007034,04 Aug 13,3,Royal South Yarra,Tennis World 2,No. 2,Oliver Ritman,Aashna Vizirani,Aashna Vizirani,2-6,2,6,0,1,Completed,true,false,false
+UA007034,04 Aug 13,3,Royal South Yarra,Tennis World 2,No. 3,Vivienne Johnston,Sebastian Feile,Vivienne Johnston,6-1,6,1,1,0,Completed,true,false,false
+UA007034,04 Aug 13,3,Royal South Yarra,Tennis World 2,No. 4,Tom Steele,Stacey Flaounas,Stacey Flaounas,2-6,2,6,0,1,Completed,true,false,false
+UA007041,11 Aug 13,4,Tennis World 2,GPHC,No. 1,Josephine Maddafferi,Georgia Deacon,Georgia Deacon,1-6,1,6,0,1,Completed,true,false,false
+UA007041,11 Aug 13,4,Tennis World 2,GPHC,No. 2,Robert Raichici,Hannah Double,Hannah Double,5-7,5,7,0,1,Completed,true,false,false
+UA007041,11 Aug 13,4,Tennis World 2,GPHC,No. 3,Aashna Vizirani,Max Double,Max Double,0-6,0,6,0,1,Completed,true,false,false
+UA007041,11 Aug 13,4,Tennis World 2,GPHC,No. 4,Sebastian Feile,Lily Goss,Lily Goss,1-6,1,6,0,1,Completed,true,false,false
+UA007042,11 Aug 13,4,BLTC,Maccabi,No. 1,Samantha Amon-Simmonds,Luka Kanat,Luka Kanat,1-6,1,6,0,1,Completed,true,false,false
+UA007042,11 Aug 13,4,BLTC,Maccabi,No. 2,Taylor Nixon,Joshua Dorfan,Taylor Nixon,6-2,6,2,1,0,Completed,true,false,false
+UA007042,11 Aug 13,4,BLTC,Maccabi,No. 3,Jessica Myers,Jarryd Tauber,Jarryd Tauber,0-6,0,6,0,1,Completed,true,false,false
+UA007042,11 Aug 13,4,BLTC,Maccabi,No. 4,Charlotte Myers,Gabbi Tauber,Charlotte Myers,6-2,6,2,1,0,Completed,true,false,false
+UA007043,11 Aug 13,4,Parkdale,Lauriston,No. 1,Tyler Bradley,Lauren Earls,Tyler Bradley,6-2,6,2,1,0,Completed,true,false,false
+UA007043,11 Aug 13,4,Parkdale,Lauriston,No. 2,Harry Cramer,Caitlin Davis,Caitlin Davis,3-6,3,6,0,1,Completed,true,false,false
+UA007043,11 Aug 13,4,Parkdale,Lauriston,No. 3,Alexander Verrils,Angela Chen,Angela Chen,4-6,4,6,0,1,Completed,true,false,false
+UA007043,11 Aug 13,4,Parkdale,Lauriston,No. 4,Keirath Singh,Michelle Volpert,Michelle Volpert,4-6,4,6,0,1,Completed,true,false,false
+UA007044,11 Aug 13,4,Tennis World 1,Royal South Yarra,No. 1,Tegan Burns,Isobel McFarlane,Tegan Burns,6-3,6,3,1,0,Completed,true,false,false
+UA007044,11 Aug 13,4,Tennis World 1,Royal South Yarra,No. 2,Stacey Flaounas,Rich Bartlett,Stacey Flaounas,7-6,7,6,1,0,Completed,true,false,false
+UA007044,11 Aug 13,4,Tennis World 1,Royal South Yarra,No. 3,Jamie Foster,Vivienne Johnston,Jamie Foster,6-4,6,4,1,0,Completed,true,false,false
+UA007044,11 Aug 13,4,Tennis World 1,Royal South Yarra,No. 4,Alex Mensh,Tom Steele,Alex Mensh,6-3,6,3,1,0,Completed,true,false,false
+UA007051,18 Aug 13,5,Lauriston,Royal South Yarra,No. 1,Jeremy Wang,Isobel McFarlane,Jeremy Wang,6-3,6,3,1,0,Completed,true,false,false
+UA007051,18 Aug 13,5,Lauriston,Royal South Yarra,No. 2,Caitlin Davis,Rich Bartlett,Caitlin Davis,7-5,7,5,1,0,Completed,true,false,false
+UA007051,18 Aug 13,5,Lauriston,Royal South Yarra,No. 3,Jennifer O'Connor,Vivienne Johnston,Jennifer O'Connor,6-2,6,2,1,0,Completed,true,false,false
+UA007051,18 Aug 13,5,Lauriston,Royal South Yarra,No. 4,Michelle Volpert,Tom Steele,Michelle Volpert,6-2,6,2,1,0,Completed,true,false,false
+UA007052,18 Aug 13,5,Parkdale,BLTC,No. 1,Tyler Bradley,Natasha Amon-Simmonds,Tyler Bradley,6-1,6,1,1,0,Completed,true,false,false
+UA007052,18 Aug 13,5,Parkdale,BLTC,No. 2,Sam Barren,Taylor Nixon,Sam Barren,6-2,6,2,1,0,Completed,true,false,false
+UA007052,18 Aug 13,5,Parkdale,BLTC,No. 3,Reid Terrell,Jessica Myers,Jessica Myers,1-6,1,6,0,1,Completed,true,false,false
+UA007052,18 Aug 13,5,Parkdale,BLTC,No. 4,Keirath Singh,Charlotte Myers,Charlotte Myers,2-6,2,6,0,1,Completed,true,false,false
+UA007053,18 Aug 13,5,Tennis World 2,Tennis World 1,No. 1,Aashna Vizirani,Tegan Burns,Aashna Vizirani,6-4,6,4,1,0,Completed,true,false,false
+UA007053,18 Aug 13,5,Tennis World 2,Tennis World 1,No. 2,Sebastian Feile,Stacey Flaounas,Stacey Flaounas,0-6,0,6,0,1,Completed,true,false,false
+UA007053,18 Aug 13,5,Tennis World 2,Tennis World 1,No. 3,Jessica Dexter,Lewis Leow,Lewis Leow,0-6,0,6,0,1,Completed,true,false,false
+UA007053,18 Aug 13,5,Tennis World 2,Tennis World 1,No. 4,Jamie Foster,Alex Mensh,Jamie Foster,6-2,6,2,1,0,Completed,true,false,false
+UA007054,18 Aug 13,5,GPHC,Maccabi,No. 1,Georgia Deacon,Luka Kanat,Luka Kanat,1-6,1,6,0,1,Completed,true,false,false
+UA007054,18 Aug 13,5,GPHC,Maccabi,No. 2,Lily Goss,Zac Goldberger,Zac Goldberger,1-6,1,6,0,1,Completed,true,false,false
+UA007054,18 Aug 13,5,GPHC,Maccabi,No. 3,Maddy Benallack,Jai Kanat,Jai Kanat,3-6,3,6,0,1,Completed,true,false,false
+UA007054,18 Aug 13,5,GPHC,Maccabi,No. 4,Emma Selbie,Gabe Jeshel,Emma Selbie,6-2,6,2,1,0,Completed,true,true,false
+UA007061,25 Aug 13,6,Maccabi,Lauriston,No. 1,Luka Kanat,Jeremy Wang,Luka Kanat,6-2,6,2,1,0,Completed,true,false,false
+UA007061,25 Aug 13,6,Maccabi,Lauriston,No. 2,Zac Goldberger,Lauren Earls,Zac Goldberger,6-4,6,4,1,0,Completed,true,false,false
+UA007061,25 Aug 13,6,Maccabi,Lauriston,No. 3,Jarryd Tauber,Angela Chen,Jarryd Tauber,6-4,6,4,1,0,Completed,true,false,false
+UA007061,25 Aug 13,6,Maccabi,Lauriston,No. 4,Jai Kanat,Michelle Volpert,Jai Kanat,6-2,6,2,1,0,Completed,true,false,false
+UA007062,25 Aug 13,6,Royal South Yarra,GPHC,No. 1,Isobel McFarlane,Georgia Deacon,Isobel McFarlane,6-0,6,0,1,0,Completed,true,false,false
+UA007062,25 Aug 13,6,Royal South Yarra,GPHC,No. 2,Rich Bartlett,Hannah Double,Hannah Double,4-6,4,6,0,1,Completed,true,false,false
+UA007062,25 Aug 13,6,Royal South Yarra,GPHC,No. 3,Oliver Ritman,Max Double,Max Double,3-6,3,6,0,1,Completed,true,false,false
+UA007062,25 Aug 13,6,Royal South Yarra,GPHC,No. 4,Vivienne Johnston,Alex Chauhan,Vivienne Johnston,6-2,6,2,1,0,Completed,true,false,false
+UA007063,25 Aug 13,6,BLTC,Tennis World 2,No. 1,Natasha Amon-Simmonds,Josephine Maddafferi,Natasha Amon-Simmonds,6-3,6,3,1,0,Completed,true,false,false
+UA007063,25 Aug 13,6,BLTC,Tennis World 2,No. 2,Samantha Amon-Simmonds,Robert Raichici,Samantha Amon-Simmonds,6-4,6,4,1,0,Completed,true,false,false
+UA007063,25 Aug 13,6,BLTC,Tennis World 2,No. 3,Taylor Nixon,Sebastian Feile,Taylor Nixon,6-0,6,0,1,0,Completed,true,false,false
+UA007063,25 Aug 13,6,BLTC,Tennis World 2,No. 4,Jessica Myers,Emanuel Datario,Jessica Myers,6-2,6,2,1,0,Completed,true,false,false
+UA007064,25 Aug 13,6,Tennis World 1,Parkdale,No. 1,Tegan Burns,Tyler Bradley,Tyler Bradley,0-6,0,6,0,1,Completed,true,false,false
+UA007064,25 Aug 13,6,Tennis World 1,Parkdale,No. 2,Lewis Leow,Sam Barren,Sam Barren,2-6,2,6,0,1,Completed,true,false,false
+UA007064,25 Aug 13,6,Tennis World 1,Parkdale,No. 3,Jamie Foster,Harry Cramer,Jamie Foster,6-2,6,2,1,0,Completed,true,false,false
+UA007064,25 Aug 13,6,Tennis World 1,Parkdale,No. 4,Alex Mensh,Reid Terrell,Alex Mensh,6-4,6,4,1,0,Completed,true,false,false
+UA007071,01 Sep 13,7,GPHC,Lauriston,No. 1,Georgia Deacon,Jeremy Wang,Jeremy Wang,2-6,2,6,0,1,Completed,true,false,false
+UA007071,01 Sep 13,7,GPHC,Lauriston,No. 2,Max Double,Lauren Earls,Max Double,6-3,6,3,1,0,Completed,true,false,false
+UA007071,01 Sep 13,7,GPHC,Lauriston,No. 3,Alex Chauhan,Angela Chen,Alex Chauhan,6-3,6,3,1,0,Completed,true,false,false
+UA007071,01 Sep 13,7,GPHC,Lauriston,No. 4,Lily Goss,Michelle Volpert,Michelle Volpert,3-6,3,6,0,1,Completed,true,false,false
+UA007072,01 Sep 13,7,Maccabi,Royal South Yarra,No. 1,Luka Kanat,Rich Bartlett,Luka Kanat,6-3,6,3,1,0,Completed,true,false,false
+UA007072,01 Sep 13,7,Maccabi,Royal South Yarra,No. 2,Zac Goldberger,Oliver Ritman,Oliver Ritman,4-6,4,6,0,1,Completed,true,false,false
+UA007072,01 Sep 13,7,Maccabi,Royal South Yarra,No. 3,Joshua Dorfan,Vivienne Johnston,Vivienne Johnston,5-7,5,7,0,1,Completed,true,false,false
+UA007072,01 Sep 13,7,Maccabi,Royal South Yarra,No. 4,Gabbi Tauber,Tom Steele,Gabbi Tauber,6-3,6,3,1,0,Completed,true,false,false
+UA007073,01 Sep 13,7,Parkdale,Tennis World 2,No. 1,Tyler Bradley,Seden Agar,Seden Agar,3-6,3,6,0,1,Completed,true,false,false
+UA007073,01 Sep 13,7,Parkdale,Tennis World 2,No. 2,Sam Barren,Robert Raichici,Sam Barren,6-2,6,2,1,0,Completed,true,false,false
+UA007073,01 Sep 13,7,Parkdale,Tennis World 2,No. 3,Fion Macredmond,Seren Agar,Seren Agar,4-6,4,6,0,1,Completed,true,false,false
+UA007073,01 Sep 13,7,Parkdale,Tennis World 2,No. 4,Dylan Bradley,Sebastian Feile,Dylan Bradley,6-2,6,2,1,0,Completed,true,false,false
+UA007074,01 Sep 13,7,BLTC,Tennis World 1,No. 1,Natasha Amon-Simmonds,Tegan Burns,Natasha Amon-Simmonds,6-0,6,0,1,0,Completed,true,false,false
+UA007074,01 Sep 13,7,BLTC,Tennis World 1,No. 2,Samantha Amon-Simmonds,Stacey Flaounas,Stacey Flaounas,4-6,4,6,0,1,Completed,true,false,false
+UA007074,01 Sep 13,7,BLTC,Tennis World 1,No. 3,Emma Grealish,Lewis Leow,Lewis Leow,4-6,4,6,0,1,Completed,true,false,false
+UA007074,01 Sep 13,7,BLTC,Tennis World 1,No. 4,Jessica Myers,Jamie Foster,Jamie Foster,2-6,2,6,0,1,Completed,true,false,false
+UA007081,08 Sep 13,8,Tennis World 1,GPHC,No. 1,Tallie Collins,Georgia Deacon,Georgia Deacon,3-6,3,6,0,1,Completed,true,false,false
+UA007081,08 Sep 13,8,Tennis World 1,GPHC,No. 2,Tegan Burns,Hannah Double,Hannah Double,3-6,3,6,0,1,Completed,true,false,false
+UA007081,08 Sep 13,8,Tennis World 1,GPHC,No. 3,Stacey Flaounas,Max Double,Max Double,1-6,1,6,0,1,Completed,true,false,false
+UA007081,08 Sep 13,8,Tennis World 1,GPHC,No. 4,Jamie Foster,Alex Chauhan,Jamie Foster,6-2,6,2,1,0,Completed,true,false,false
+UA007082,08 Sep 13,8,Tennis World 2,Maccabi,No. 1,Seden Agar,Luka Kanat,Seden Agar,7-5,7,5,1,0,Completed,true,false,false
+UA007082,08 Sep 13,8,Tennis World 2,Maccabi,No. 2,Robert Raichici,Joshua Dorfan,Robert Raichici,6-1,6,1,1,0,Completed,true,false,false
+UA007082,08 Sep 13,8,Tennis World 2,Maccabi,No. 3,Seren Agar,Jai Kanat,Seren Agar,6-1,6,1,1,0,Completed,true,false,false
+UA007082,08 Sep 13,8,Tennis World 2,Maccabi,No. 4,Jessica Dexter,Gabbi Tauber,Gabbi Tauber,1-6,1,6,0,1,Completed,true,false,false
+UA007083,08 Sep 13,8,BLTC,Lauriston,No. 1,Samantha Amon-Simmonds,Lauren Earls,Samantha Amon-Simmonds,6-3,6,3,1,0,Completed,true,false,false
+UA007083,08 Sep 13,8,BLTC,Lauriston,No. 2,Taylor Nixon,Caitlin Davis,Caitlin Davis,3-6,3,6,0,1,Completed,true,false,false
+UA007083,08 Sep 13,8,BLTC,Lauriston,No. 3,Jessica Myers,Jennifer O'Connor,Jennifer O'Connor,5-7,5,7,0,1,Completed,true,false,false
+UA007083,08 Sep 13,8,BLTC,Lauriston,No. 4,Charlotte Myers,Michelle Volpert,Charlotte Myers,6-4,6,4,1,0,Completed,true,false,false
+UA007084,08 Sep 13,8,Parkdale,Royal South Yarra,No. 1,Tyler Bradley,Oliver Ritman,Tyler Bradley,6-1,6,1,1,0,Completed,true,false,false
+UA007084,08 Sep 13,8,Parkdale,Royal South Yarra,No. 2,Sam Barren,Vivienne Johnston,Sam Barren,6-0,6,0,1,0,Completed,true,false,false
+UA007084,08 Sep 13,8,Parkdale,Royal South Yarra,No. 3,Reid Terrell,Tom Steele,Reid Terrell,6-1,6,1,1,0,Completed,true,false,false
+UA007084,08 Sep 13,8,Parkdale,Royal South Yarra,No. 4,Keirath Singh,Rupert Baxter,Rupert Baxter,0-6,0,6,0,1,Completed,true,false,false
+UA007091,15 Sep 13,9,GPHC,Parkdale,No. 1,Georgia Deacon,Sam Barren,Georgia Deacon,6-4,6,4,1,0,Completed,true,false,false
+UA007091,15 Sep 13,9,GPHC,Parkdale,No. 2,Hannah Double,Harry Cramer,Hannah Double,7-6,7,6,1,0,Completed,true,false,false
+UA007091,15 Sep 13,9,GPHC,Parkdale,No. 3,Max Double,Alexander Verrils,Max Double,6-1,6,1,1,0,Completed,true,false,false
+UA007091,15 Sep 13,9,GPHC,Parkdale,No. 4,Lily Goss,Reid Terrell,Lily Goss,6-0,6,0,1,0,Completed,true,false,false
+UA007092,15 Sep 13,9,Maccabi,Tennis World 1,No. 1,Zac Goldberger,Stacey Flaounas,Stacey Flaounas,1-6,1,6,0,1,Completed,true,false,false
+UA007092,15 Sep 13,9,Maccabi,Tennis World 1,No. 2,Joshua Dorfan,Lewis Leow,Lewis Leow,0-6,0,6,0,1,Completed,true,false,false
+UA007092,15 Sep 13,9,Maccabi,Tennis World 1,No. 3,Jarryd Tauber,Jamie Foster,Jamie Foster,0-6,0,6,0,1,Completed,true,false,false
+UA007092,15 Sep 13,9,Maccabi,Tennis World 1,No. 4,Gabbi Tauber,Alex Mensh,Gabbi Tauber,6-2,6,2,1,0,Completed,true,false,false
+UA007094,15 Sep 13,9,Royal South Yarra,BLTC,No. 1,Rich Bartlett,Natasha Amon-Simmonds,Natasha Amon-Simmonds,6-7,6,7,0,1,Completed,true,false,false
+UA007094,15 Sep 13,9,Royal South Yarra,BLTC,No. 2,Oliver Ritman,Samantha Amon-Simmonds,Oliver Ritman,6-4,6,4,1,0,Completed,true,false,false
+UA007094,15 Sep 13,9,Royal South Yarra,BLTC,No. 3,Vivienne Johnston,Taylor Nixon,Taylor Nixon,3-6,3,6,0,1,Completed,true,false,false
+UA007094,15 Sep 13,9,Royal South Yarra,BLTC,No. 4,Tom Steele,Emma Grealish,Tom Steele,6-4,6,4,1,0,Completed,true,false,false
+UA007101,13 Oct 13,10,BLTC,GPHC,No. 1,Natasha Amon-Simmonds,Georgia Deacon,Georgia Deacon,3-6,3,6,0,1,Completed,true,false,false
+UA007101,13 Oct 13,10,BLTC,GPHC,No. 2,Samantha Amon-Simmonds,Max Double,Max Double,1-6,1,6,0,1,Completed,true,false,false
+UA007101,13 Oct 13,10,BLTC,GPHC,No. 3,Taylor Nixon,Lily Goss,Taylor Nixon,2-1,2,1,1,0,Completed,false,false,false
+UA007101,13 Oct 13,10,BLTC,GPHC,No. 4,Jessica Myers,Charlie Todhunter,Charlie Todhunter,0-2,0,2,0,1,Completed,false,false,false
+UA007102,13 Oct 13,10,Parkdale,Maccabi,No. 1,Tyler Bradley,Zac Goldberger,Tyler Bradley,6-0,6,0,1,0,Completed,true,false,false
+UA007102,13 Oct 13,10,Parkdale,Maccabi,No. 2,Sam Barren,Joshua Dorfan,Sam Barren,6-0,6,0,1,0,Completed,true,false,false
+UA007102,13 Oct 13,10,Parkdale,Maccabi,No. 3,Harry Cramer,Jai Kanat,Jai Kanat,6-7,6,7,0,1,Completed,true,false,false
+UA007102,13 Oct 13,10,Parkdale,Maccabi,No. 4,Alexander Verrils,[Unnamed player — TROLS UA007102 away code 4],Alexander Verrils,6-0,6,0,1,0,Completed,false,false,false
+UA007103,13 Oct 13,10,Tennis World 1,Lauriston,No. 1,Jamie Foster,Jeremy Wang,Jeremy Wang,0-6,0,6,0,1,Completed,true,false,false
+UA007103,13 Oct 13,10,Tennis World 1,Lauriston,No. 2,Tegan Burns,Lauren Earls,Tegan Burns,6-2,6,2,1,0,Completed,true,false,false
+UA007103,13 Oct 13,10,Tennis World 1,Lauriston,No. 3,Stacey Flaounas,Angela Chen,Stacey Flaounas,6-0,6,0,1,0,Completed,true,false,false
+UA007103,13 Oct 13,10,Tennis World 1,Lauriston,No. 4,Alex Mensh,[Unnamed player — TROLS UA007103 away code 4],Alex Mensh,6-0,6,0,1,0,Completed,false,false,false
+UA007104,13 Oct 13,10,Tennis World 2,Royal South Yarra,No. 1,Seden Agar,Isobel McFarlane,Seden Agar,6-3,6,3,1,0,Completed,true,false,false
+UA007104,13 Oct 13,10,Tennis World 2,Royal South Yarra,No. 2,Robert Raichici,Rich Bartlett,Robert Raichici,6-3,6,3,1,0,Completed,true,false,false
+UA007104,13 Oct 13,10,Tennis World 2,Royal South Yarra,No. 3,Seren Agar,Oliver Ritman,Seren Agar,6-3,6,3,1,0,Completed,true,false,false
+UA007104,13 Oct 13,10,Tennis World 2,Royal South Yarra,No. 4,Jessica Dexter,Tom Steele,Jessica Dexter,6-2,6,2,1,0,Completed,true,false,false
+UA007111,20 Oct 13,11,GPHC,Tennis World 2,No. 1,Georgia Deacon,Seden Agar,Seden Agar,0-6,0,6,0,1,Completed,true,false,false
+UA007111,20 Oct 13,11,GPHC,Tennis World 2,No. 2,Hannah Double,Seren Agar,Seren Agar,1-6,1,6,0,1,Completed,true,false,false
+UA007111,20 Oct 13,11,GPHC,Tennis World 2,No. 3,Max Double,Josephine Maddafferi,Max Double,6-2,6,2,1,0,Completed,true,false,false
+UA007111,20 Oct 13,11,GPHC,Tennis World 2,No. 4,Charlie Todhunter,Jessica Dexter,Charlie Todhunter,6-0,6,0,1,0,Completed,true,false,false
+UA007112,20 Oct 13,11,Maccabi,BLTC,No. 1,Joshua Dorfan,[Unnamed player — TROLS UA007112 away code 1],Joshua Dorfan,6-0,6,0,1,0,Completed,false,false,false
+UA007112,20 Oct 13,11,Maccabi,BLTC,No. 2,Jarryd Tauber,Samantha Amon-Simmonds,Jarryd Tauber,6-2,6,2,1,0,Completed,true,false,false
+UA007112,20 Oct 13,11,Maccabi,BLTC,No. 3,Jai Kanat,Taylor Nixon,Jai Kanat,6-0,6,0,1,0,Completed,true,false,false
+UA007112,20 Oct 13,11,Maccabi,BLTC,No. 4,Gabbi Tauber,Jessica Myers,Jessica Myers,2-6,2,6,0,1,Completed,true,false,false
+UA007113,20 Oct 13,11,Lauriston,Parkdale,No. 1,Jeremy Wang,Tyler Bradley,Tyler Bradley,1-6,1,6,0,1,Completed,true,false,false
+UA007113,20 Oct 13,11,Lauriston,Parkdale,No. 2,Lauren Earls,Sam Barren,Sam Barren,4-6,4,6,0,1,Completed,true,false,false
+UA007113,20 Oct 13,11,Lauriston,Parkdale,No. 3,Jennifer O'Connor,Reid Terrell,Jennifer O'Connor,6-4,6,4,1,0,Completed,true,false,false
+UA007113,20 Oct 13,11,Lauriston,Parkdale,No. 4,Michelle Volpert,Dylan Bradley,Michelle Volpert,6-1,6,1,1,0,Completed,true,false,false
+UA007114,20 Oct 13,11,Royal South Yarra,Tennis World 1,No. 1,Isobel McFarlane,Jamie Foster,Jamie Foster,3-6,3,6,0,1,Completed,true,false,false
+UA007114,20 Oct 13,11,Royal South Yarra,Tennis World 1,No. 2,David Gatford,Tegan Burns,David Gatford,6-1,6,1,1,0,Completed,true,false,false
+UA007114,20 Oct 13,11,Royal South Yarra,Tennis World 1,No. 3,Rich Bartlett,Lewis Leow,Rich Bartlett,6-3,6,3,1,0,Completed,true,false,false
+UA007114,20 Oct 13,11,Royal South Yarra,Tennis World 1,No. 4,Vivienne Johnston,Alex Mensh,Alex Mensh,2-6,2,6,0,1,Completed,true,false,false
+UA007121,27 Oct 13,12,Royal South Yarra,Lauriston,No. 1,Isobel McFarlane,Lauren Earls,Isobel McFarlane,6-2,6,2,1,0,Completed,true,false,false
+UA007121,27 Oct 13,12,Royal South Yarra,Lauriston,No. 2,Rich Bartlett,Angela Chen,Angela Chen,2-6,2,6,0,1,Completed,true,false,false
+UA007121,27 Oct 13,12,Royal South Yarra,Lauriston,No. 3,Vivienne Johnston,Jennifer O'Connor,Vivienne Johnston,6-0,6,0,1,0,Completed,true,false,false
+UA007121,27 Oct 13,12,Royal South Yarra,Lauriston,No. 4,Tom Steele,Michelle Volpert,Michelle Volpert,2-6,2,6,0,1,Completed,true,false,false
+UA007122,27 Oct 13,12,BLTC,Parkdale,No. 1,Natasha Amon-Simmonds,Harry Cramer,Natasha Amon-Simmonds,6-4,6,4,1,0,Completed,true,false,false
+UA007122,27 Oct 13,12,BLTC,Parkdale,No. 2,Samantha Amon-Simmonds,Alexander Verrils,Alexander Verrils,2-6,2,6,0,1,Completed,true,false,false
+UA007122,27 Oct 13,12,BLTC,Parkdale,No. 3,Taylor Nixon,Reid Terrell,Taylor Nixon,6-1,6,1,1,0,Completed,true,false,false
+UA007122,27 Oct 13,12,BLTC,Parkdale,No. 4,Charlotte Myers,Keirath Singh,Charlotte Myers,6-2,6,2,1,0,Completed,true,false,false
+UA007123,27 Oct 13,12,Tennis World 1,Tennis World 2,No. 1,Tegan Burns,Seden Agar,Seden Agar,1-6,1,6,0,1,Completed,true,false,false
+UA007123,27 Oct 13,12,Tennis World 1,Tennis World 2,No. 2,Stacey Flaounas,Robert Raichici,Stacey Flaounas,7-6,7,6,1,0,Completed,true,false,false
+UA007123,27 Oct 13,12,Tennis World 1,Tennis World 2,No. 3,Lewis Leow,Seren Agar,Seren Agar,3-6,3,6,0,1,Completed,true,false,false
+UA007123,27 Oct 13,12,Tennis World 1,Tennis World 2,No. 4,Alex Mensh,Jessica Dexter,Jessica Dexter,3-6,3,6,0,1,Completed,true,false,false
+UA007124,27 Oct 13,12,Maccabi,GPHC,No. 1,Zac Goldberger,Georgia Deacon,Georgia Deacon,2-6,2,6,0,1,Completed,true,false,false
+UA007124,27 Oct 13,12,Maccabi,GPHC,No. 2,Jarryd Tauber,Max Double,Max Double,1-6,1,6,0,1,Completed,true,false,false
+UA007124,27 Oct 13,12,Maccabi,GPHC,No. 3,Jai Kanat,Alex Chauhan,Jai Kanat,6-2,6,2,1,0,Completed,true,false,true
+UA007124,27 Oct 13,12,Maccabi,GPHC,No. 4,Gabbi Tauber,Ethan Kalms,Gabbi Tauber,6-3,6,3,1,0,Completed,true,false,false
+UA007131,10 Nov 13,13,Lauriston,Maccabi,No. 1,Jeremy Wang,Luka Kanat,Luka Kanat,4-6,4,6,0,1,Completed,true,false,false
+UA007131,10 Nov 13,13,Lauriston,Maccabi,No. 2,Jennifer O'Connor,Zac Goldberger,Zac Goldberger,1-6,1,6,0,1,Completed,true,false,false
+UA007131,10 Nov 13,13,Lauriston,Maccabi,No. 3,Angela Chen,Joshua Dorfan,Angela Chen,6-3,6,3,1,0,Completed,true,false,false
+UA007131,10 Nov 13,13,Lauriston,Maccabi,No. 4,Michelle Volpert,Jai Kanat,Jai Kanat,3-6,3,6,0,1,Completed,true,false,false
+UA007132,10 Nov 13,13,GPHC,Royal South Yarra,No. 1,Georgia Deacon,Isobel McFarlane,Georgia Deacon,7-6,7,6,1,0,Completed,true,false,false
+UA007132,10 Nov 13,13,GPHC,Royal South Yarra,No. 2,Hannah Double,David Gatford,David Gatford,4-6,4,6,0,1,Completed,true,false,false
+UA007132,10 Nov 13,13,GPHC,Royal South Yarra,No. 3,Max Double,Vivienne Johnston,Max Double,6-0,6,0,1,0,Completed,true,false,false
+UA007132,10 Nov 13,13,GPHC,Royal South Yarra,No. 4,Alex Chauhan,Tom Steele,Tom Steele,3-6,3,6,0,1,Completed,true,true,false
+UA007133,10 Nov 13,13,Tennis World 2,BLTC,No. 1,Seden Agar,Natasha Amon-Simmonds,Seden Agar,6-1,6,1,1,0,Completed,true,false,false
+UA007133,10 Nov 13,13,Tennis World 2,BLTC,No. 2,Robert Raichici,Samantha Amon-Simmonds,Robert Raichici,6-4,6,4,1,0,Completed,true,false,false
+UA007133,10 Nov 13,13,Tennis World 2,BLTC,No. 3,Seren Agar,Jessica Myers,Seren Agar,6-1,6,1,1,0,Completed,true,false,false
+UA007133,10 Nov 13,13,Tennis World 2,BLTC,No. 4,Jessica Dexter,Charlotte Myers,Jessica Dexter,6-1,6,1,1,0,Completed,true,false,false
+UA007134,10 Nov 13,13,Parkdale,Tennis World 1,No. 1,Tyler Bradley,Jamie Foster,Tyler Bradley,6-0,6,0,1,0,Completed,true,false,false
+UA007134,10 Nov 13,13,Parkdale,Tennis World 1,No. 2,Sam Barren,Stacey Flaounas,Stacey Flaounas,1-6,1,6,0,1,Completed,true,false,false
+UA007134,10 Nov 13,13,Parkdale,Tennis World 1,No. 3,Harry Cramer,Tegan Burns,Tegan Burns,0-6,0,6,0,1,Completed,true,false,false
+UA007134,10 Nov 13,13,Parkdale,Tennis World 1,No. 4,Alexander Verrils,Lewis Leow,Lewis Leow,2-6,2,6,0,1,Completed,true,false,false
+UA007141,17 Nov 13,14,Lauriston,GPHC,No. 1,Jeremy Wang,Georgia Deacon,Jeremy Wang,7-5,7,5,1,0,Completed,true,false,false
+UA007141,17 Nov 13,14,Lauriston,GPHC,No. 2,Lauren Earls,Hannah Double,Hannah Double,2-6,2,6,0,1,Completed,true,false,false
+UA007141,17 Nov 13,14,Lauriston,GPHC,No. 3,Angela Chen,Alex Chauhan,Alex Chauhan,6-7,6,7,0,1,Completed,true,false,true
+UA007141,17 Nov 13,14,Lauriston,GPHC,No. 4,Michelle Volpert,Lily Goss,Lily Goss,3-6,3,6,0,1,Completed,true,false,false
+UA007142,17 Nov 13,14,Royal South Yarra,Maccabi,No. 1,Isobel McFarlane,Zac Goldberger,Zac Goldberger,5-7,5,7,0,1,Completed,true,false,false
+UA007142,17 Nov 13,14,Royal South Yarra,Maccabi,No. 2,Rich Bartlett,Joshua Dorfan,Rich Bartlett,6-3,6,3,1,0,Completed,true,false,false
+UA007142,17 Nov 13,14,Royal South Yarra,Maccabi,No. 3,Vivienne Johnston,Jarryd Tauber,Jarryd Tauber,6-7,6,7,0,1,Completed,true,false,false
+UA007142,17 Nov 13,14,Royal South Yarra,Maccabi,No. 4,Tom Steele,Gabbi Tauber,Gabbi Tauber,4-6,4,6,0,1,Completed,true,false,false
+UA007143,17 Nov 13,14,Tennis World 2,Parkdale,No. 1,Seden Agar,Tyler Bradley,Seden Agar,6-1,6,1,1,0,Completed,true,false,false
+UA007143,17 Nov 13,14,Tennis World 2,Parkdale,No. 2,Robert Raichici,Harry Cramer,Robert Raichici,6-3,6,3,1,0,Completed,true,false,false
+UA007143,17 Nov 13,14,Tennis World 2,Parkdale,No. 3,Seren Agar,Reid Terrell,Seren Agar,6-3,6,3,1,0,Completed,true,false,false
+UA007143,17 Nov 13,14,Tennis World 2,Parkdale,No. 4,Jessica Dexter,Keirath Singh,Jessica Dexter,6-0,6,0,1,0,Completed,true,false,false
+UA007144,17 Nov 13,14,Tennis World 1,BLTC,No. 1,Jamie Foster,Samantha Amon-Simmonds,Jamie Foster,6-3,6,3,1,0,Completed,true,false,false
+UA007144,17 Nov 13,14,Tennis World 1,BLTC,No. 2,Stacey Flaounas,Taylor Nixon,Stacey Flaounas,6-4,6,4,1,0,Completed,true,false,false
+UA007144,17 Nov 13,14,Tennis World 1,BLTC,No. 3,Lewis Leow,Jessica Myers,Lewis Leow,6-0,6,0,1,0,Completed,true,false,false
+UA007144,17 Nov 13,14,Tennis World 1,BLTC,No. 4,Alex Mensh,Charlotte Myers,Charlotte Myers,4-6,4,6,0,1,Completed,true,false,false
+UA007301,,16,GPHC,Lauriston,No. 1,Georgia Deacon,Jeremy Wang,Georgia Deacon,6-1,6,1,1,0,Completed,true,false,false
+UA007301,,16,GPHC,Lauriston,No. 2,Hannah Double,Lauren Earls,Hannah Double,6-3,6,3,1,0,Completed,true,false,false
+UA007301,,16,GPHC,Lauriston,No. 3,Max Double,Jennifer O'Connor,Max Double,7-6,7,6,1,0,Completed,true,false,false
+UA007301,,16,GPHC,Lauriston,No. 4,Alex Chauhan,Angela Chen,Alex Chauhan,6-3,6,3,1,0,Completed,true,true,false
+UA007302,,16,Maccabi,Tennis World 1,No. 1,Luka Kanat,Jamie Foster,Luka Kanat,6-3,6,3,1,0,Completed,true,false,false
+UA007302,,16,Maccabi,Tennis World 1,No. 2,Zac Goldberger,Stacey Flaounas,Stacey Flaounas,4-6,4,6,0,1,Completed,true,false,false
+UA007302,,16,Maccabi,Tennis World 1,No. 3,Joshua Dorfan,Tegan Burns,Joshua Dorfan,7-6,7,6,1,0,Completed,true,false,false
+UA007302,,16,Maccabi,Tennis World 1,No. 4,Jarryd Tauber,Lewis Leow,Jarryd Tauber,6-1,6,1,1,0,Completed,true,false,false
+UA007321,,17,GPHC,Maccabi,No. 1,Georgia Deacon,Luka Kanat,Georgia Deacon,6-2,6,2,1,0,Completed,true,false,false
+UA007321,,17,GPHC,Maccabi,No. 2,Hannah Double,Joshua Dorfan,Hannah Double,6-1,6,1,1,0,Completed,true,false,false
+UA007321,,17,GPHC,Maccabi,No. 3,Max Double,Jarryd Tauber,Max Double,6-1,6,1,1,0,Completed,true,false,false
+UA007321,,17,GPHC,Maccabi,No. 4,Alex Chauhan,Gabbi Tauber,Alex Chauhan,7-6,7,6,1,0,Completed,true,true,false

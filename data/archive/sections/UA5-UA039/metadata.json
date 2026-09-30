@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA5-UA039",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2009",
+  "season_id": "UA5",
+  "season_label": "Spring 2009",
+  "source_section_code": "UA039",
+  "section_label": "3",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Caulfield Rec",
+      "wins": 0,
+      "points": 96,
+      "percentage": 127.6,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Maccabi",
+      "wins": 0,
+      "points": 95,
+      "percentage": 141.94,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kooyong Scotch",
+      "wins": 0,
+      "points": 94,
+      "percentage": 117.95,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Middle Brighton",
+      "wins": 0,
+      "points": 87,
+      "percentage": 127.22,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Mordialloc",
+      "wins": 0,
+      "points": 49,
+      "percentage": 84.1,
+      "marker": "*"
+    },
+    {
+      "position": 6,
+      "team": "Aspendale",
+      "wins": 0,
+      "points": 46,
+      "percentage": 84.99,
+      "marker": "*"
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 45,
+      "percentage": 75.96,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 38,
+      "percentage": 69.18,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA5-UA039",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 3,
+  "singles_rubbers": 228,
+  "doubles_rubbers": 114,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

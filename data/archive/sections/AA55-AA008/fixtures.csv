@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+AA008012,31 Jan 26,1,regular,Round 1,Mentone Gold,Mentone Blue,9,1,5,1,,,33,12,Completed,
+AA008013,31 Jan 26,1,regular,Round 1,Dendy Park,Kings Park,2,8,2,4,,,19,29,Completed,
+AA008014,31 Jan 26,1,regular,Round 1,Chelsea Heights,Royal Ave,10,0,6,0,,,36,18,Completed,
+pending-aa008-r1-bye-port-melbourne,31 Jan 26,1,regular,Round 1,Bye,Port Melbourne,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008022,07 Feb 26,2,regular,Round 2,Port Melbourne,Mentone Gold,1,9,1,5,,,26,37,Completed,
+AA008023,07 Feb 26,2,regular,Round 2,Mentone Blue,Dendy Park,1,9,1,5,,,20,36,Completed,
+AA008024,07 Feb 26,2,regular,Round 2,Kings Park,Chelsea Heights,7,3,3,3,,,28,25,Completed,
+pending-aa008-r2-royal-ave-bye,07 Feb 26,2,regular,Round 2,Royal Ave,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008032,14 Feb 26,3,regular,Round 3,Mentone Gold,Royal Ave,10,0,6,0,,,36,10,Completed,
+AA008033,14 Feb 26,3,regular,Round 3,Dendy Park,Port Melbourne,3,7,3,3,,,26,27,Completed,
+AA008034,14 Feb 26,3,regular,Round 3,Chelsea Heights,Mentone Blue,10,0,6,0,,,36,10,Completed,
+pending-aa008-r3-bye-kings-park,14 Feb 26,3,regular,Round 3,Bye,Kings Park,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008042,21 Feb 26,4,regular,Round 4,Kings Park,Mentone Gold,1,9,1,5,,,25,37,Completed,
+AA008043,21 Feb 26,4,regular,Round 4,Royal Ave,Dendy Park,0,10,0,6,,,11,37,Completed,
+AA008044,21 Feb 26,4,regular,Round 4,Port Melbourne,Chelsea Heights,8,2,4,2,,,29,28,Completed,
+pending-aa008-r4-mentone-blue-bye,21 Feb 26,4,regular,Round 4,Mentone Blue,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008051,28 Feb 26,5,regular,Round 5,Dendy Park,Chelsea Heights,0,10,0,6,,,13,37,Completed,
+AA008052,28 Feb 26,5,regular,Round 5,Royal Ave,Kings Park,0,10,0,6,,,9,36,Completed,
+AA008053,28 Feb 26,5,regular,Round 5,Mentone Blue,Port Melbourne,1,9,1,5,,,21,35,Completed,
+pending-aa008-r5-bye-mentone-gold,28 Feb 26,5,regular,Round 5,Bye,Mentone Gold,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008061,14 Mar 26,6,regular,Round 6,Mentone Gold,Dendy Park,8,2,4,2,,,31,27,Completed,
+AA008063,14 Mar 26,6,regular,Round 6,Kings Park,Mentone Blue,9,1,5,1,,,33,22,Completed,
+AA008064,14 Mar 26,6,regular,Round 6,Port Melbourne,Royal Ave,8,2,4,2,,,31,20,Completed,
+pending-aa008-r6-chelsea-heights-bye,14 Mar 26,6,regular,Round 6,Chelsea Heights,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008072,21 Mar 26,7,regular,Round 7,Mentone Gold,Chelsea Heights,8,2,4,2,,,29,27,Completed,
+AA008073,21 Mar 26,7,regular,Round 7,Royal Ave,Mentone Blue,3,7,3,3,,,28,30,Completed,
+AA008074,21 Mar 26,7,regular,Round 7,Kings Park,Port Melbourne,7,3,3,3,,,23,22,Completed,
+pending-aa008-r7-bye-dendy-park,21 Mar 26,7,regular,Round 7,Bye,Dendy Park,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008083,28 Mar 26,8,regular,Round 8,Kings Park,Dendy Park,2,8,2,4,,,21,25,Completed,
+AA008084,28 Mar 26,8,regular,Round 8,Royal Ave,Chelsea Heights,2,8,2,4,,,18,32,Completed,
+pending-aa008-r8-mentone-blue-mentone-gold,28 Mar 26,8,regular,Round 8,Mentone Blue,Mentone Gold,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-aa008-r8-port-melbourne-bye,28 Mar 26,8,regular,Round 8,Port Melbourne,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008092,02 May 26,9,regular,Round 9,Mentone Gold,Port Melbourne,8,2,4,2,,,30,25,Completed,
+AA008093,02 May 26,9,regular,Round 9,Dendy Park,Mentone Blue,8,2,4,2,,,34,25,Completed,
+AA008094,02 May 26,9,regular,Round 9,Chelsea Heights,Kings Park,2,8,2,4,,,27,33,Completed,
+pending-aa008-r9-bye-royal-ave,02 May 26,9,regular,Round 9,Bye,Royal Ave,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008102,09 May 26,10,regular,Round 10,Royal Ave,Mentone Gold,0,10,0,6,,,11,36,Completed,
+AA008103,09 May 26,10,regular,Round 10,Port Melbourne,Dendy Park,9,1,5,1,,,36,26,Completed,
+pending-aa008-r10-kings-park-bye,09 May 26,10,regular,Round 10,Kings Park,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-aa008-r10-mentone-blue-chelsea-heights,09 May 26,10,regular,Round 10,Mentone Blue,Chelsea Heights,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+AA008112,16 May 26,11,regular,Round 11,Mentone Gold,Kings Park,2,8,2,4,,,20,26,Completed,
+AA008113,16 May 26,11,regular,Round 11,Dendy Park,Royal Ave,5,5,3,3,,,29,29,Completed,
+AA008114,16 May 26,11,regular,Round 11,Chelsea Heights,Port Melbourne,1,9,1,5,,,21,34,Completed,
+pending-aa008-r11-bye-mentone-blue,16 May 26,11,regular,Round 11,Bye,Mentone Blue,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008121,23 May 26,12,regular,Round 12,Chelsea Heights,Dendy Park,2,8,2,4,,,25,28,Completed,
+AA008122,23 May 26,12,regular,Round 12,Kings Park,Royal Ave,9,1,5,1,,,36,15,Completed,
+AA008123,23 May 26,12,regular,Round 12,Port Melbourne,Mentone Blue,9,1,5,1,,,35,18,Completed,
+pending-aa008-r12-mentone-gold-bye,23 May 26,12,regular,Round 12,Mentone Gold,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008131,30 May 26,13,regular,Round 13,Dendy Park,Mentone Gold,9,1,5,1,,,34,30,Completed,
+AA008133,30 May 26,13,regular,Round 13,Mentone Blue,Kings Park,0,10,0,6,,,8,36,Completed,
+AA008134,30 May 26,13,regular,Round 13,Royal Ave,Port Melbourne,1,9,1,5,,,16,35,Completed,
+pending-aa008-r13-bye-chelsea-heights,30 May 26,13,regular,Round 13,Bye,Chelsea Heights,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA008301,,16,semi_final,Semi-final,Mentone Gold,Dendy Park,7,3,3,3,,,26,22,Completed,
+AA008302,,16,semi_final,Semi-final,Kings Park,Port Melbourne,3,7,3,3,,,23,25,Completed,
+AA008321,,17,grand_final,Grand final · TROLS entry 2,Mentone Gold,Port Melbourne,0,10,0,6,,,20,38,Completed,

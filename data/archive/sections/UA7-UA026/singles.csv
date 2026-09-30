@@ -1,0 +1,197 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA026011,18 Jul 10,1,Dendy Park 1,Dendy Park 2,No. 1,Talia Le Couteur,Luke Lynch,Talia Le Couteur,6-1,6,1,1,0,Completed,true,false,false
+UA026011,18 Jul 10,1,Dendy Park 1,Dendy Park 2,No. 2,Sarah Keeton,Joshua Crigan,Joshua Crigan,5-7,5,7,0,1,Completed,true,false,false
+UA026011,18 Jul 10,1,Dendy Park 1,Dendy Park 2,No. 3,Emma Robertson,Nick Day,Nick Day,4-6,4,6,0,1,Completed,true,false,false
+UA026011,18 Jul 10,1,Dendy Park 1,Dendy Park 2,No. 4,Sinead Malady,Ciaran Dabbo-Langlowis,Sinead Malady,6-0,6,0,1,0,Completed,true,false,false
+UA026012,18 Jul 10,1,Caulfield Rec,Dendy Park 3,No. 1,Nick Tsampoulos,Alex Marcu,Nick Tsampoulos,6-0,6,0,1,0,Completed,true,false,false
+UA026012,18 Jul 10,1,Caulfield Rec,Dendy Park 3,No. 2,Charles Wylie,Sean Ly,Sean Ly,1-6,1,6,0,1,Completed,true,false,false
+UA026012,18 Jul 10,1,Caulfield Rec,Dendy Park 3,No. 3,[Unnamed emergency — TROLS UA026012 home code 3],Kyle Didone,Kyle Didone,0-6,0,6,0,1,Completed,false,true,false
+UA026012,18 Jul 10,1,Caulfield Rec,Dendy Park 3,No. 4,Meric Oz,James Doyle,Meric Oz,7-5,7,5,1,0,Completed,true,false,false
+UA026013,18 Jul 10,1,Tennis World,Maccabi,No. 1,Timothy Karpinski,Jonathan Simon,Jonathan Simon,4-6,4,6,0,1,Completed,true,false,false
+UA026013,18 Jul 10,1,Tennis World,Maccabi,No. 2,Robert Zieba,Aryn Abramowitch,Aryn Abramowitch,3-6,3,6,0,1,Completed,true,false,false
+UA026013,18 Jul 10,1,Tennis World,Maccabi,No. 3,Stefan Sormaz,Brad Litz,Stefan Sormaz,6-0,6,0,1,0,Completed,true,false,false
+UA026013,18 Jul 10,1,Tennis World,Maccabi,No. 4,Daniel Zieba,Adam Litz,Daniel Zieba,7-5,7,5,1,0,Completed,true,false,false
+UA026014,18 Jul 10,1,Beaumaris CC,BLTC,No. 1,Emily Baber,Alex Browne,Emily Baber,6-2,6,2,1,0,Completed,true,false,false
+UA026014,18 Jul 10,1,Beaumaris CC,BLTC,No. 2,Maddie Kinsey,Harrison Tate,Maddie Kinsey,7-5,7,5,1,0,Completed,true,false,false
+UA026014,18 Jul 10,1,Beaumaris CC,BLTC,No. 3,Jessica Elliot,Tristan Sather,Jessica Elliot,6-4,6,4,1,0,Completed,true,false,false
+UA026014,18 Jul 10,1,Beaumaris CC,BLTC,No. 4,Julia Gage,Nick Fisher,Julia Gage,6-2,6,2,1,0,Completed,true,false,false
+UA026021,25 Jul 10,2,BLTC,Dendy Park 1,No. 1,Alex Browne,Joel Le Couteur,Alex Browne,6-4,6,4,1,0,Completed,true,false,false
+UA026021,25 Jul 10,2,BLTC,Dendy Park 1,No. 2,Wes Flavell,Sinead Malady,Wes Flavell,6-4,6,4,1,0,Completed,true,false,false
+UA026021,25 Jul 10,2,BLTC,Dendy Park 1,No. 3,Harrison Tate,Steph Rogers,Harrison Tate,6-2,6,2,1,0,Completed,true,false,false
+UA026021,25 Jul 10,2,BLTC,Dendy Park 1,No. 4,Tristan Sather,C Price-dioughin,Tristan Sather,6-3,6,3,1,0,Completed,true,false,false
+UA026022,25 Jul 10,2,Dendy Park 2,Caulfield Rec,No. 1,Charlie Richards,Nick Tsampoulos,Nick Tsampoulos,1-6,1,6,0,1,Completed,true,false,false
+UA026022,25 Jul 10,2,Dendy Park 2,Caulfield Rec,No. 2,Luke Lynch,Meric Oz,Meric Oz,2-6,2,6,0,1,Completed,true,false,false
+UA026022,25 Jul 10,2,Dendy Park 2,Caulfield Rec,No. 3,Joshua Crigan,Natalija Cicarevic-Girof,Joshua Crigan,6-1,6,1,1,0,Completed,true,false,false
+UA026022,25 Jul 10,2,Dendy Park 2,Caulfield Rec,No. 4,Christopher Byrnes,Angelo Tsampoulos,Christopher Byrnes,6-1,6,1,1,0,Completed,true,false,false
+UA026023,25 Jul 10,2,Dendy Park 3,Tennis World,No. 1,Alex Marcu,Ben Glinka,Alex Marcu,6-1,6,1,1,0,Completed,true,false,false
+UA026023,25 Jul 10,2,Dendy Park 3,Tennis World,No. 2,Marcus Bulmaga,Robert Zieba,Marcus Bulmaga,6-4,6,4,1,0,Completed,true,false,false
+UA026023,25 Jul 10,2,Dendy Park 3,Tennis World,No. 3,James Doyle,Stefan Sormaz,Stefan Sormaz,3-6,3,6,0,1,Completed,true,false,false
+UA026023,25 Jul 10,2,Dendy Park 3,Tennis World,No. 4,Oscar Moyle,Daniel Zieba,Daniel Zieba,2-6,2,6,0,1,Completed,true,false,false
+UA026024,25 Jul 10,2,Maccabi,Beaumaris CC,No. 1,Aryn Abramowitch,Maddie Kinsey,Aryn Abramowitch,6-2,6,2,1,0,Completed,true,false,false
+UA026024,25 Jul 10,2,Maccabi,Beaumaris CC,No. 2,Robert Shokin,Natalie Chicoine,Natalie Chicoine,4-6,4,6,0,1,Completed,true,false,false
+UA026024,25 Jul 10,2,Maccabi,Beaumaris CC,No. 3,Daniel Lotzoff,Ruby Wardlaw,Daniel Lotzoff,6-2,6,2,1,0,Completed,true,false,false
+UA026024,25 Jul 10,2,Maccabi,Beaumaris CC,No. 4,Yaniv Cohen,Veronika Pehar,Yaniv Cohen,6-4,6,4,1,0,Completed,true,false,false
+UA026041,08 Aug 10,4,Dendy Park 3,Dendy Park 1,No. 1,Sean Ly,Joel Le Couteur,Sean Ly,6-3,6,3,1,0,Completed,true,false,false
+UA026041,08 Aug 10,4,Dendy Park 3,Dendy Park 1,No. 2,Kyle Didone,Sinead Malady,Kyle Didone,6-0,6,0,1,0,Completed,true,false,false
+UA026041,08 Aug 10,4,Dendy Park 3,Dendy Park 1,No. 3,Marcus Bulmaga,Tamika Josiah,Marcus Bulmaga,6-3,6,3,1,0,Completed,true,false,false
+UA026041,08 Aug 10,4,Dendy Park 3,Dendy Park 1,No. 4,Oscar Moyle,Ray Zhang,Oscar Moyle,6-4,6,4,1,0,Completed,true,false,false
+UA026043,08 Aug 10,4,BLTC,Tennis World,No. 1,Alex Browne,Ben Glinka,Ben Glinka,2-6,2,6,0,1,Completed,true,false,false
+UA026043,08 Aug 10,4,BLTC,Tennis World,No. 2,Wes Flavell,Timothy Karpinski,Timothy Karpinski,1-6,1,6,0,1,Completed,true,false,false
+UA026043,08 Aug 10,4,BLTC,Tennis World,No. 3,Tristan Sather,Robert Zieba,Tristan Sather,7-5,7,5,1,0,Completed,true,false,false
+UA026043,08 Aug 10,4,BLTC,Tennis World,No. 4,Nick Fisher,Daniel Zieba,Daniel Zieba,6-7,6,7,0,1,Completed,true,false,false
+UA026044,08 Aug 10,4,Dendy Park 2,Beaumaris CC,No. 1,Luke Lynch,Emily Baber,Emily Baber,4-6,4,6,0,1,Completed,true,false,false
+UA026044,08 Aug 10,4,Dendy Park 2,Beaumaris CC,No. 2,Joshua Crigan,Maddie Kinsey,Joshua Crigan,7-6,7,6,1,0,Completed,true,false,false
+UA026044,08 Aug 10,4,Dendy Park 2,Beaumaris CC,No. 3,Nick Day,Natalie Chicoine,Nick Day,7-5,7,5,1,0,Completed,true,false,false
+UA026044,08 Aug 10,4,Dendy Park 2,Beaumaris CC,No. 4,Christopher Byrnes,Julia Gage,Christopher Byrnes,6-1,6,1,1,0,Completed,true,false,false
+UA026052,15 Aug 10,5,BLTC,Maccabi,No. 1,Alex Browne,Jonathan Simon,Jonathan Simon,4-5,4,5,0,1,Completed,true,false,false
+UA026052,15 Aug 10,5,BLTC,Maccabi,No. 2,Wes Flavell,Daniel Lotzoff,Wes Flavell,6-4,6,4,1,0,Completed,true,false,false
+UA026061,22 Aug 10,6,Caulfield Rec,Tennis World,No. 1,Nick Tsampoulos,Timothy Karpinski,Nick Tsampoulos,6-1,6,1,1,0,Completed,true,false,false
+UA026061,22 Aug 10,6,Caulfield Rec,Tennis World,No. 2,Josh Patti,Robert Zieba,Robert Zieba,2-6,2,6,0,1,Completed,true,false,false
+UA026061,22 Aug 10,6,Caulfield Rec,Tennis World,No. 3,Meric Oz,Stefan Sormaz,Meric Oz,6-2,6,2,1,0,Completed,true,false,false
+UA026061,22 Aug 10,6,Caulfield Rec,Tennis World,No. 4,Samantha Shreyer,Daniel Zieba,Samantha Shreyer,6-0,6,0,1,0,Completed,true,false,false
+UA026062,22 Aug 10,6,Beaumaris CC,Dendy Park 1,No. 1,Amanda Thomas,Talia Le Couteur,Amanda Thomas,6-3,6,3,1,0,Completed,true,false,false
+UA026062,22 Aug 10,6,Beaumaris CC,Dendy Park 1,No. 2,Maddie Kinsey,Sarah Keeton,Maddie Kinsey,6-4,6,4,1,0,Completed,true,false,false
+UA026062,22 Aug 10,6,Beaumaris CC,Dendy Park 1,No. 3,Ruby Wardlaw,Emma Robertson,Ruby Wardlaw,6-0,6,0,1,0,Completed,true,false,false
+UA026062,22 Aug 10,6,Beaumaris CC,Dendy Park 1,No. 4,Julia Gage,Tamika Josiah,Julia Gage,6-1,6,1,1,0,Completed,true,false,false
+UA026063,22 Aug 10,6,Maccabi,Dendy Park 3,No. 1,Jonathan Simon,Sean Ly,Sean Ly,4-6,4,6,0,1,Completed,true,false,false
+UA026063,22 Aug 10,6,Maccabi,Dendy Park 3,No. 2,Aryn Abramowitch,Kyle Didone,Kyle Didone,3-6,3,6,0,1,Completed,true,false,false
+UA026063,22 Aug 10,6,Maccabi,Dendy Park 3,No. 3,Daniel Lotzoff,James Doyle,James Doyle,4-6,4,6,0,1,Completed,true,false,false
+UA026063,22 Aug 10,6,Maccabi,Dendy Park 3,No. 4,Yaniv Cohen,Oscar Moyle,Oscar Moyle,2-6,2,6,0,1,Completed,true,false,false
+UA026064,22 Aug 10,6,Dendy Park 2,BLTC,No. 1,Charlie Richards,Alex Browne,Charlie Richards,6-3,6,3,1,0,Completed,true,false,false
+UA026064,22 Aug 10,6,Dendy Park 2,BLTC,No. 2,Luke Lynch,Wes Flavell,Wes Flavell,4-6,4,6,0,1,Completed,true,false,false
+UA026064,22 Aug 10,6,Dendy Park 2,BLTC,No. 3,Joshua Crigan,Harrison Tate,Joshua Crigan,6-2,6,2,1,0,Completed,true,false,false
+UA026064,22 Aug 10,6,Dendy Park 2,BLTC,No. 4,Christopher Byrnes,Tristan Sather,Tristan Sather,6-7,6,7,0,1,Completed,true,false,false
+UA026071,29 Aug 10,7,Dendy Park 1,Tennis World,No. 1,Talia Le Couteur,Ben Glinka,Ben Glinka,0-6,0,6,0,1,Completed,true,false,false
+UA026071,29 Aug 10,7,Dendy Park 1,Tennis World,No. 2,Sarah Keeton,Robert Zieba,Sarah Keeton,6-4,6,4,1,0,Completed,true,false,false
+UA026071,29 Aug 10,7,Dendy Park 1,Tennis World,No. 3,Emma Robertson,Stefan Sormaz,Emma Robertson,6-1,6,1,1,0,Completed,true,false,false
+UA026071,29 Aug 10,7,Dendy Park 1,Tennis World,No. 4,Limme O'Donnell,Daniel Zieba,Limme O'Donnell,6-1,6,1,1,0,Completed,true,false,false
+UA026072,29 Aug 10,7,Caulfield Rec,Beaumaris CC,No. 1,Nick Tsampoulos,Jessica Elliot,Nick Tsampoulos,6-3,6,3,1,0,Completed,true,false,false
+UA026072,29 Aug 10,7,Caulfield Rec,Beaumaris CC,No. 2,Josh Patti,Chiara Dogliotti,Chiara Dogliotti,4-6,4,6,0,1,Completed,true,false,false
+UA026072,29 Aug 10,7,Caulfield Rec,Beaumaris CC,No. 3,Meric Oz,Julia Gage,Meric Oz,6-2,6,2,1,0,Completed,true,false,false
+UA026072,29 Aug 10,7,Caulfield Rec,Beaumaris CC,No. 4,Natalija Cicarevic-Girof,Darby Bush,Darby Bush,1-6,1,6,0,1,Completed,true,false,false
+UA026073,29 Aug 10,7,BLTC,Dendy Park 3,No. 1,Alex Browne,Sean Ly,Sean Ly,0-6,0,6,0,1,Completed,true,false,false
+UA026073,29 Aug 10,7,BLTC,Dendy Park 3,No. 2,Wes Flavell,Kyle Didone,Kyle Didone,1-6,1,6,0,1,Completed,true,false,false
+UA026073,29 Aug 10,7,BLTC,Dendy Park 3,No. 3,Harrison Tate,Marcus Bulmaga,Marcus Bulmaga,4-6,4,6,0,1,Completed,true,false,false
+UA026073,29 Aug 10,7,BLTC,Dendy Park 3,No. 4,Nick Fisher,Oscar Moyle,Oscar Moyle,0-6,0,6,0,1,Completed,true,false,false
+UA026074,29 Aug 10,7,Maccabi,Dendy Park 2,No. 1,Jonathan Simon,Luke Lynch,Jonathan Simon,6-0,6,0,1,0,Completed,true,false,false
+UA026074,29 Aug 10,7,Maccabi,Dendy Park 2,No. 2,Aryn Abramowitch,Joshua Crigan,Joshua Crigan,3-6,3,6,0,1,Completed,true,false,false
+UA026074,29 Aug 10,7,Maccabi,Dendy Park 2,No. 3,Brad Litz,Nick Day,Brad Litz,6-1,6,1,1,0,Completed,true,false,false
+UA026074,29 Aug 10,7,Maccabi,Dendy Park 2,No. 4,Adam Litz,Christopher Byrnes,Adam Litz,6-3,6,3,1,0,Completed,true,false,false
+UA026081,05 Sep 10,8,Dendy Park 2,Dendy Park 1,No. 1,Charlie Richards,Joel Le Couteur,Joel Le Couteur,1-6,1,6,0,1,Completed,true,false,false
+UA026081,05 Sep 10,8,Dendy Park 2,Dendy Park 1,No. 2,Luke Lynch,Talia Le Couteur,Talia Le Couteur,3-6,3,6,0,1,Completed,true,false,false
+UA026081,05 Sep 10,8,Dendy Park 2,Dendy Park 1,No. 3,Joshua Crigan,Sarah Keeton,Sarah Keeton,3-6,3,6,0,1,Completed,true,false,false
+UA026081,05 Sep 10,8,Dendy Park 2,Dendy Park 1,No. 4,Nick Day,Tamika Josiah,Nick Day,6-3,6,3,1,0,Completed,true,false,false
+UA026082,05 Sep 10,8,Dendy Park 3,Caulfield Rec,No. 1,Alex Marcu,Nick Tsampoulos,Nick Tsampoulos,1-6,1,6,0,1,Completed,true,false,false
+UA026082,05 Sep 10,8,Dendy Park 3,Caulfield Rec,No. 2,Kyle Didone,Charles Wylie,Kyle Didone,6-1,6,1,1,0,Completed,true,false,false
+UA026082,05 Sep 10,8,Dendy Park 3,Caulfield Rec,No. 3,Marcus Bulmaga,Meric Oz,Meric Oz,2-6,2,6,0,1,Completed,true,false,false
+UA026082,05 Sep 10,8,Dendy Park 3,Caulfield Rec,No. 4,Oscar Moyle,Josh Patti,Oscar Moyle,7-5,7,5,1,0,Completed,true,false,false
+UA026083,05 Sep 10,8,Maccabi,Tennis World,No. 1,Jonathan Simon,Ben Glinka,Ben Glinka,4-6,4,6,0,1,Completed,true,false,false
+UA026083,05 Sep 10,8,Maccabi,Tennis World,No. 2,Robert Shokin,Timothy Karpinski,Robert Shokin,6-2,6,2,1,0,Completed,true,false,false
+UA026083,05 Sep 10,8,Maccabi,Tennis World,No. 3,Adam Litz,Stefan Sormaz,Adam Litz,6-2,6,2,1,0,Completed,true,false,false
+UA026083,05 Sep 10,8,Maccabi,Tennis World,No. 4,Adam Blumberg,Daniel Zieba,Adam Blumberg,6-2,6,2,1,0,Completed,true,false,false
+UA026084,05 Sep 10,8,BLTC,Beaumaris CC,No. 1,Alex Browne,Jessica Elliot,Jessica Elliot,0-6,0,6,0,1,Completed,true,false,false
+UA026084,05 Sep 10,8,BLTC,Beaumaris CC,No. 2,Harrison Tate,Maddie Kinsey,Maddie Kinsey,4-6,4,6,0,1,Completed,true,false,false
+UA026084,05 Sep 10,8,BLTC,Beaumaris CC,No. 3,Tristan Sather,Chiara Dogliotti,Tristan Sather,7-5,7,5,1,0,Completed,true,false,false
+UA026084,05 Sep 10,8,BLTC,Beaumaris CC,No. 4,Nick Fisher,Darby Bush,Darby Bush,0-6,0,6,0,1,Completed,true,false,false
+UA026091,12 Sep 10,9,Dendy Park 1,BLTC,No. 1,Sarah Keeton,Alex Browne,Sarah Keeton,6-3,6,3,1,0,Completed,true,false,false
+UA026091,12 Sep 10,9,Dendy Park 1,BLTC,No. 2,Emma Robertson,Wes Flavell,Wes Flavell,4-6,4,6,0,1,Completed,true,false,false
+UA026091,12 Sep 10,9,Dendy Park 1,BLTC,No. 3,Sinead Malady,Harrison Tate,Harrison Tate,3-6,3,6,0,1,Completed,true,false,false
+UA026091,12 Sep 10,9,Dendy Park 1,BLTC,No. 4,Tamika Josiah,Tristan Sather,Tristan Sather,6-7,6,7,0,1,Completed,true,false,false
+UA026092,12 Sep 10,9,Caulfield Rec,Dendy Park 2,No. 1,Nick Tsampoulos,Luke Lynch,Nick Tsampoulos,6-0,6,0,1,0,Completed,true,false,false
+UA026092,12 Sep 10,9,Caulfield Rec,Dendy Park 2,No. 2,Josh Patti,Joshua Crigan,Joshua Crigan,1-6,1,6,0,1,Completed,true,false,false
+UA026092,12 Sep 10,9,Caulfield Rec,Dendy Park 2,No. 3,Samantha Shreyer,Nick Day,Nick Day,4-6,4,6,0,1,Completed,true,false,false
+UA026092,12 Sep 10,9,Caulfield Rec,Dendy Park 2,No. 4,Natalija Cicarevic-Girof,Christopher Byrnes,Christopher Byrnes,2-6,2,6,0,1,Completed,true,false,false
+UA026093,12 Sep 10,9,Tennis World,Dendy Park 3,No. 1,Ben Glinka,Sean Ly,Ben Glinka,6-3,6,3,1,0,Completed,true,false,false
+UA026093,12 Sep 10,9,Tennis World,Dendy Park 3,No. 2,Timothy Karpinski,Kyle Didone,Kyle Didone,4-6,4,6,0,1,Completed,true,false,false
+UA026093,12 Sep 10,9,Tennis World,Dendy Park 3,No. 3,Robert Zieba,Marcus Bulmaga,Marcus Bulmaga,2-6,2,6,0,1,Completed,true,false,false
+UA026093,12 Sep 10,9,Tennis World,Dendy Park 3,No. 4,Daniel Zieba,Oscar Moyle,Oscar Moyle,3-6,3,6,0,1,Completed,true,false,false
+UA026094,12 Sep 10,9,Beaumaris CC,Maccabi,No. 1,Jessica Elliot,Jonathan Simon,Jessica Elliot,6-2,6,2,1,0,Completed,true,false,false
+UA026094,12 Sep 10,9,Beaumaris CC,Maccabi,No. 2,Maddie Kinsey,Robert Shokin,Robert Shokin,2-6,2,6,0,1,Completed,true,false,false
+UA026094,12 Sep 10,9,Beaumaris CC,Maccabi,No. 3,Natalie Chicoine,Brad Litz,Natalie Chicoine,6-4,6,4,1,0,Completed,true,false,false
+UA026094,12 Sep 10,9,Beaumaris CC,Maccabi,No. 4,Julia Gage,Yaniv Cohen,Yaniv Cohen,4-6,4,6,0,1,Completed,true,false,false
+UA026101,10 Oct 10,10,Maccabi,Dendy Park 1,No. 1,Jonathan Simon,Joel Le Couteur,Joel Le Couteur,2-6,2,6,0,1,Completed,true,false,false
+UA026101,10 Oct 10,10,Maccabi,Dendy Park 1,No. 2,Aryn Abramowitch,Talia Le Couteur,Talia Le Couteur,3-6,3,6,0,1,Completed,true,false,false
+UA026101,10 Oct 10,10,Maccabi,Dendy Park 1,No. 3,Daniel Lotzoff,Sinead Malady,Daniel Lotzoff,6-3,6,3,1,0,Completed,true,false,false
+UA026101,10 Oct 10,10,Maccabi,Dendy Park 1,No. 4,Adam Litz,Emma Robertson,Emma Robertson,5-7,5,7,0,1,Completed,true,false,false
+UA026102,10 Oct 10,10,BLTC,Caulfield Rec,No. 1,Alex Browne,Nick Tsampoulos,Nick Tsampoulos,2-6,2,6,0,1,Completed,true,false,false
+UA026102,10 Oct 10,10,BLTC,Caulfield Rec,No. 2,Wes Flavell,Meric Oz,Meric Oz,0-6,0,6,0,1,Completed,true,false,false
+UA026102,10 Oct 10,10,BLTC,Caulfield Rec,No. 3,Harrison Tate,Josh Patti,Harrison Tate,6-3,6,3,1,0,Completed,true,false,false
+UA026102,10 Oct 10,10,BLTC,Caulfield Rec,No. 4,Tristan Sather,Samantha Shreyer,Tristan Sather,6-4,6,4,1,0,Completed,true,false,false
+UA026103,10 Oct 10,10,Dendy Park 2,Tennis World,No. 1,Charlie Richards,Ben Glinka,Ben Glinka,1-6,1,6,0,1,Completed,true,false,false
+UA026103,10 Oct 10,10,Dendy Park 2,Tennis World,No. 2,Joshua Crigan,Timothy Karpinski,Joshua Crigan,6-3,6,3,1,0,Completed,true,false,false
+UA026103,10 Oct 10,10,Dendy Park 2,Tennis World,No. 3,Luke Lynch,Robert Zieba,Robert Zieba,2-6,2,6,0,1,Completed,true,false,false
+UA026103,10 Oct 10,10,Dendy Park 2,Tennis World,No. 4,Nick Day,Stefan Sormaz,Stefan Sormaz,2-6,2,6,0,1,Completed,true,false,false
+UA026104,10 Oct 10,10,Dendy Park 3,Beaumaris CC,No. 1,Alex Marcu,Jessica Elliot,Jessica Elliot,0-6,0,6,0,1,Completed,true,false,false
+UA026104,10 Oct 10,10,Dendy Park 3,Beaumaris CC,No. 2,Sean Ly,Maddie Kinsey,Sean Ly,6-1,6,1,1,0,Completed,true,false,false
+UA026104,10 Oct 10,10,Dendy Park 3,Beaumaris CC,No. 3,Marcus Bulmaga,Julia Gage,Marcus Bulmaga,6-3,6,3,1,0,Completed,true,false,false
+UA026104,10 Oct 10,10,Dendy Park 3,Beaumaris CC,No. 4,James Doyle,Veronika Pehar,James Doyle,6-2,6,2,1,0,Completed,true,false,false
+UA026111,17 Oct 10,11,Dendy Park 1,Dendy Park 3,No. 1,Joel Le Couteur,Sean Ly,Sean Ly,4-6,4,6,0,1,Completed,true,false,false
+UA026111,17 Oct 10,11,Dendy Park 1,Dendy Park 3,No. 2,Talia Le Couteur,Kyle Didone,Kyle Didone,1-6,1,6,0,1,Completed,true,false,false
+UA026111,17 Oct 10,11,Dendy Park 1,Dendy Park 3,No. 3,Sarah Keeton,James Doyle,James Doyle,1-6,1,6,0,1,Completed,true,false,false
+UA026111,17 Oct 10,11,Dendy Park 1,Dendy Park 3,No. 4,Emma Robertson,Oscar Moyle,Oscar Moyle,2-6,2,6,0,1,Completed,true,false,false
+UA026112,17 Oct 10,11,Caulfield Rec,Maccabi,No. 1,Nick Tsampoulos,Jonathan Simon,Nick Tsampoulos,6-4,6,4,1,0,Completed,true,false,false
+UA026112,17 Oct 10,11,Caulfield Rec,Maccabi,No. 2,Charles Wylie,Aryn Abramowitch,Aryn Abramowitch,3-6,3,6,0,1,Completed,true,false,false
+UA026112,17 Oct 10,11,Caulfield Rec,Maccabi,No. 3,Meric Oz,Adam Litz,Meric Oz,6-1,6,1,1,0,Completed,true,false,false
+UA026112,17 Oct 10,11,Caulfield Rec,Maccabi,No. 4,Samantha Shreyer,Yaniv Cohen,Yaniv Cohen,3-6,3,6,0,1,Completed,true,false,false
+UA026113,17 Oct 10,11,Tennis World,BLTC,No. 1,Timothy Karpinski,Alex Browne,Alex Browne,4-6,4,6,0,1,Completed,true,false,false
+UA026113,17 Oct 10,11,Tennis World,BLTC,No. 2,Robert Zieba,Wes Flavell,Wes Flavell,2-6,2,6,0,1,Completed,true,false,false
+UA026114,17 Oct 10,11,Beaumaris CC,Dendy Park 2,No. 1,Maddie Kinsey,Luke Lynch,Maddie Kinsey,6-0,6,0,1,0,Completed,true,false,false
+UA026114,17 Oct 10,11,Beaumaris CC,Dendy Park 2,No. 2,Chiara Dogliotti,Joshua Crigan,Joshua Crigan,4-6,4,6,0,1,Completed,true,false,false
+UA026114,17 Oct 10,11,Beaumaris CC,Dendy Park 2,No. 3,Julia Gage,Nick Day,Julia Gage,6-1,6,1,1,0,Completed,true,false,false
+UA026114,17 Oct 10,11,Beaumaris CC,Dendy Park 2,No. 4,Darby Bush,Christopher Byrnes,Darby Bush,6-4,6,4,1,0,Completed,true,false,false
+UA026121,24 Oct 10,12,Beaumaris CC,Tennis World,No. 1,Jessica Elliot,Ben Glinka,Ben Glinka,5-7,5,7,0,1,Completed,true,false,false
+UA026121,24 Oct 10,12,Beaumaris CC,Tennis World,No. 2,Maddie Kinsey,Robert Zieba,Maddie Kinsey,6-4,6,4,1,0,Completed,true,false,false
+UA026121,24 Oct 10,12,Beaumaris CC,Tennis World,No. 3,Chiara Dogliotti,Stefan Sormaz,Chiara Dogliotti,7-5,7,5,1,0,Completed,true,false,false
+UA026121,24 Oct 10,12,Beaumaris CC,Tennis World,No. 4,Darby Bush,Daniel Zieba,Daniel Zieba,3-6,3,6,0,1,Completed,true,false,false
+UA026122,24 Oct 10,12,Maccabi,BLTC,No. 1,Jonathan Simon,Alex Browne,Jonathan Simon,6-0,6,0,1,0,Completed,true,false,false
+UA026122,24 Oct 10,12,Maccabi,BLTC,No. 2,Daniel Lotzoff,Wes Flavell,Daniel Lotzoff,6-1,6,1,1,0,Completed,true,false,false
+UA026122,24 Oct 10,12,Maccabi,BLTC,No. 3,Brad Litz,Harrison Tate,Brad Litz,6-3,6,3,1,0,Completed,true,false,false
+UA026122,24 Oct 10,12,Maccabi,BLTC,No. 4,Yaniv Cohen,Tristan Sather,Tristan Sather,6-7,6,7,0,1,Completed,true,false,false
+UA026123,24 Oct 10,12,Dendy Park 2,Dendy Park 3,No. 1,Charlie Richards,Sean Ly,Sean Ly,2-6,2,6,0,1,Completed,true,false,false
+UA026123,24 Oct 10,12,Dendy Park 2,Dendy Park 3,No. 2,Joshua Crigan,Kyle Didone,Joshua Crigan,7-5,7,5,1,0,Completed,true,false,false
+UA026123,24 Oct 10,12,Dendy Park 2,Dendy Park 3,No. 3,Nick Day,Marcus Bulmaga,Marcus Bulmaga,2-6,2,6,0,1,Completed,true,false,false
+UA026123,24 Oct 10,12,Dendy Park 2,Dendy Park 3,No. 4,Christopher Byrnes,Oscar Moyle,Oscar Moyle,3-6,3,6,0,1,Completed,true,false,false
+UA026124,24 Oct 10,12,Caulfield Rec,Dendy Park 1,No. 1,Nick Tsampoulos,Sarah Keeton,Nick Tsampoulos,6-2,6,2,1,0,Completed,true,false,false
+UA026124,24 Oct 10,12,Caulfield Rec,Dendy Park 1,No. 2,Charles Wylie,Alex Whittle,Charles Wylie,6-1,6,1,1,0,Completed,true,false,false
+UA026124,24 Oct 10,12,Caulfield Rec,Dendy Park 1,No. 3,Josh Patti,Sinead Malady,Sinead Malady,1-6,1,6,0,1,Completed,true,false,false
+UA026124,24 Oct 10,12,Caulfield Rec,Dendy Park 1,No. 4,Samantha Shreyer,Tamika Josiah,Tamika Josiah,4-6,4,6,0,1,Completed,true,false,false
+UA026131,07 Nov 10,13,Tennis World,Caulfield Rec,No. 1,Ben Glinka,Charles Wylie,Ben Glinka,7-6,7,6,1,0,Completed,true,false,false
+UA026131,07 Nov 10,13,Tennis World,Caulfield Rec,No. 2,Timothy Karpinski,Meric Oz,Timothy Karpinski,7-5,7,5,1,0,Completed,true,false,false
+UA026131,07 Nov 10,13,Tennis World,Caulfield Rec,No. 3,Stefan Sormaz,Josh Patti,Stefan Sormaz,6-0,6,0,1,0,Completed,true,false,false
+UA026131,07 Nov 10,13,Tennis World,Caulfield Rec,No. 4,Daniel Zieba,Roscoe Tsiavis,Roscoe Tsiavis,0-6,0,6,0,1,Completed,true,false,false
+UA026132,07 Nov 10,13,Dendy Park 1,Beaumaris CC,No. 1,Joel Le Couteur,Jessica Elliot,Jessica Elliot,3-6,3,6,0,1,Completed,true,false,false
+UA026132,07 Nov 10,13,Dendy Park 1,Beaumaris CC,No. 2,Talia Le Couteur,Chiara Dogliotti,Chiara Dogliotti,2-6,2,6,0,1,Completed,true,false,false
+UA026132,07 Nov 10,13,Dendy Park 1,Beaumaris CC,No. 3,Sarah Keeton,Julia Gage,Sarah Keeton,6-3,6,3,1,0,Completed,true,false,false
+UA026132,07 Nov 10,13,Dendy Park 1,Beaumaris CC,No. 4,Emma Robertson,Darby Bush,Darby Bush,0-6,0,6,0,1,Completed,true,false,false
+UA026133,07 Nov 10,13,Dendy Park 3,Maccabi,No. 1,Alex Marcu,Jonathan Simon,Alex Marcu,6-4,6,4,1,0,Completed,true,false,false
+UA026133,07 Nov 10,13,Dendy Park 3,Maccabi,No. 2,Marcus Bulmaga,Aryn Abramowitch,Aryn Abramowitch,4-6,4,6,0,1,Completed,true,false,false
+UA026133,07 Nov 10,13,Dendy Park 3,Maccabi,No. 3,James Doyle,Robert Shokin,James Doyle,6-2,6,2,1,0,Completed,true,false,false
+UA026133,07 Nov 10,13,Dendy Park 3,Maccabi,No. 4,Oscar Moyle,Adam Litz,Oscar Moyle,7-5,7,5,1,0,Completed,true,false,false
+UA026134,07 Nov 10,13,BLTC,Dendy Park 2,No. 1,Alex Browne,Charlie Richards,Alex Browne,6-1,6,1,1,0,Completed,true,false,false
+UA026134,07 Nov 10,13,BLTC,Dendy Park 2,No. 2,Wes Flavell,Luke Lynch,Wes Flavell,6-1,6,1,1,0,Completed,true,false,false
+UA026134,07 Nov 10,13,BLTC,Dendy Park 2,No. 3,Harrison Tate,Joshua Crigan,Joshua Crigan,3-6,3,6,0,1,Completed,true,false,false
+UA026134,07 Nov 10,13,BLTC,Dendy Park 2,No. 4,Tristan Sather,Christopher Byrnes,Tristan Sather,7-5,7,5,1,0,Completed,true,false,false
+UA026141,14 Nov 10,14,Tennis World,Dendy Park 1,No. 1,Ben Glinka,Joel Le Couteur,Joel Le Couteur,1-6,1,6,0,1,Completed,true,false,false
+UA026141,14 Nov 10,14,Tennis World,Dendy Park 1,No. 2,Timothy Karpinski,Talia Le Couteur,Timothy Karpinski,6-4,6,4,1,0,Completed,true,false,false
+UA026141,14 Nov 10,14,Tennis World,Dendy Park 1,No. 3,Robert Zieba,Tamika Josiah,Robert Zieba,6-2,6,2,1,0,Completed,true,false,false
+UA026141,14 Nov 10,14,Tennis World,Dendy Park 1,No. 4,Daniel Zieba,Emma Robertson,Daniel Zieba,7-5,7,5,1,0,Completed,true,false,false
+UA026142,14 Nov 10,14,Beaumaris CC,Caulfield Rec,No. 1,Jessica Elliot,Charles Wylie,Jessica Elliot,6-1,6,1,1,0,Completed,true,false,false
+UA026142,14 Nov 10,14,Beaumaris CC,Caulfield Rec,No. 2,Natalie Chicoine,Meric Oz,Meric Oz,2-6,2,6,0,1,Completed,true,false,false
+UA026142,14 Nov 10,14,Beaumaris CC,Caulfield Rec,No. 3,Julia Gage,Samantha Shreyer,Julia Gage,6-3,6,3,1,0,Completed,true,false,false
+UA026142,14 Nov 10,14,Beaumaris CC,Caulfield Rec,No. 4,Veronika Pehar,Josh Patti,Veronika Pehar,6-4,6,4,1,0,Completed,true,false,false
+UA026143,14 Nov 10,14,Dendy Park 3,BLTC,No. 1,Alex Marcu,Alex Browne,Alex Marcu,6-0,6,0,1,0,Completed,true,false,false
+UA026143,14 Nov 10,14,Dendy Park 3,BLTC,No. 2,Kyle Didone,Wes Flavell,Wes Flavell,4-6,4,6,0,1,Completed,true,false,false
+UA026143,14 Nov 10,14,Dendy Park 3,BLTC,No. 3,Marcus Bulmaga,Harrison Tate,Marcus Bulmaga,6-3,6,3,1,0,Completed,true,false,false
+UA026143,14 Nov 10,14,Dendy Park 3,BLTC,No. 4,Oscar Moyle,Tristan Sather,Tristan Sather,2-6,2,6,0,1,Completed,true,false,false
+UA026301,,16,Dendy Park 3,Tennis World,No. 1,Alex Marcu,Ben Glinka,Alex Marcu,7-6,7,6,1,0,Completed,true,false,false
+UA026301,,16,Dendy Park 3,Tennis World,No. 2,Sean Ly,Timothy Karpinski,Sean Ly,6-1,6,1,1,0,Completed,true,false,false
+UA026301,,16,Dendy Park 3,Tennis World,No. 3,Kyle Didone,Robert Zieba,Kyle Didone,7-5,7,5,1,0,Completed,true,false,false
+UA026301,,16,Dendy Park 3,Tennis World,No. 4,Marcus Bulmaga,Stefan Sormaz,Marcus Bulmaga,6-1,6,1,1,0,Completed,true,false,false
+UA026302,,16,Beaumaris CC,Maccabi,No. 1,Jessica Elliot,Jonathan Simon,Jonathan Simon,6-7,6,7,0,1,Completed,true,false,false
+UA026302,,16,Beaumaris CC,Maccabi,No. 2,Maddie Kinsey,Aryn Abramowitch,Aryn Abramowitch,6-7,6,7,0,1,Completed,true,false,false
+UA026302,,16,Beaumaris CC,Maccabi,No. 3,Chiara Dogliotti,Robert Shokin,Chiara Dogliotti,6-4,6,4,1,0,Completed,true,false,false
+UA026302,,16,Beaumaris CC,Maccabi,No. 4,Julia Gage,Brad Litz,Julia Gage,7-6,7,6,1,0,Completed,true,false,false
+UA026321,,17,Dendy Park 3,Beaumaris CC,No. 1,Alex Marcu,Jessica Elliot,Alex Marcu,6-3,6,3,1,0,Completed,true,false,false
+UA026321,,17,Dendy Park 3,Beaumaris CC,No. 2,Sean Ly,Maddie Kinsey,Sean Ly,6-2,6,2,1,0,Completed,true,false,false
+UA026321,,17,Dendy Park 3,Beaumaris CC,No. 3,Kyle Didone,Chiara Dogliotti,Kyle Didone,6-2,6,2,1,0,Completed,true,false,false
+UA026321,,17,Dendy Park 3,Beaumaris CC,No. 4,Marcus Bulmaga,Julia Gage,Marcus Bulmaga,6-1,6,1,1,0,Completed,true,false,false

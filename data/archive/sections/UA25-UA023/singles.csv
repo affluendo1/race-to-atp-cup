@@ -1,0 +1,225 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA023011,23 Gre 21,1,Kings Park 1,Glen Eira,No. 1,Kevin Hy,Toby Shmuel,Kevin Hy,6-3,6,3,1,0,Completed,true,false,false
+UA023011,23 Gre 21,1,Kings Park 1,Glen Eira,No. 2,Tintin Tran,Josh Spiegel,Tintin Tran,6-4,6,4,1,0,Completed,true,false,false
+UA023011,23 Gre 21,1,Kings Park 1,Glen Eira,No. 3,Khiem Tran,Zev Gluch,Khiem Tran,6-4,6,4,1,0,Completed,true,false,false
+UA023011,23 Gre 21,1,Kings Park 1,Glen Eira,No. 4,Dillon Theron,Hillel Ringelblum,Hillel Ringelblum,2-6,2,6,0,1,Completed,true,false,false
+UA023012,23 Gre 21,1,Kings Park 2,Elsternwick Park,No. 1,Crystal Liuk,Alastair Smith,Alastair Smith,1-6,1,6,0,1,Completed,true,false,false
+UA023012,23 Gre 21,1,Kings Park 2,Elsternwick Park,No. 2,Jessica Leigh,Austin Haines,Austin Haines,1-6,1,6,0,1,Completed,true,false,false
+UA023012,23 Gre 21,1,Kings Park 2,Elsternwick Park,No. 3,Jesper Isborn,Tasmin Ride,Jesper Isborn,6-4,6,4,1,0,Completed,true,false,false
+UA023012,23 Gre 21,1,Kings Park 2,Elsternwick Park,No. 4,Lillie Isborn,Millie Barr,Millie Barr,1-6,1,6,0,1,Completed,true,false,false
+UA023013,23 Gre 21,1,Parkdale,Aspendale,No. 1,Oscar Lewis,Ben Macaw,Oscar Lewis,6-4,6,4,1,0,Completed,true,false,false
+UA023013,23 Gre 21,1,Parkdale,Aspendale,No. 2,Flynn Hodgkinson,Erin Fairlie,Flynn Hodgkinson,6-2,6,2,1,0,Completed,true,false,false
+UA023013,23 Gre 21,1,Parkdale,Aspendale,No. 3,Tyson Lowe,Elliott Fairlie,Elliott Fairlie,0-6,0,6,0,1,Completed,true,false,false
+UA023013,23 Gre 21,1,Parkdale,Aspendale,No. 4,Matt Bradley,Oscar Chipperfield,Matt Bradley,6-2,6,2,1,0,Completed,true,false,false
+UA023014,23 Gre 21,1,Black Rock,Le Page,No. 1,Adyaan Tata,Kai Hu,Adyaan Tata,6-1,6,1,1,0,Completed,true,false,false
+UA023014,23 Gre 21,1,Black Rock,Le Page,No. 2,Javi Munnik,Andrew Wang,Javi Munnik,6-0,6,0,1,0,Completed,true,false,false
+UA023014,23 Gre 21,1,Black Rock,Le Page,No. 3,Zane Wilson,[Unnamed player — TROLS UA023014 away code 3],Zane Wilson,6-0,6,0,1,0,Completed,false,false,false
+UA023014,23 Gre 21,1,Black Rock,Le Page,No. 4,Adam Martin,Ilena Stefanou,Adam Martin,6-1,6,1,1,0,Completed,true,false,false
+UA023021,28 Jul 19,2,Le Page,Kings Park 1,No. 1,Andrew Wang,Kevin Hy,Andrew Wang,6-2,6,2,1,0,Completed,true,false,false
+UA023021,28 Jul 19,2,Le Page,Kings Park 1,No. 2,[Unnamed player — TROLS UA023021 home code 2],Dillon Theron,Dillon Theron,0-6,0,6,0,1,Completed,false,false,false
+UA023021,28 Jul 19,2,Le Page,Kings Park 1,No. 3,Marcus Sotos,Tintin Tran,Marcus Sotos,6-0,6,0,1,0,Completed,true,false,false
+UA023021,28 Jul 19,2,Le Page,Kings Park 1,No. 4,Ilena Stefanou,Khiem Tran,Khiem Tran,0-6,0,6,0,1,Completed,true,false,false
+UA023022,28 Jul 19,2,Glen Eira,Kings Park 2,No. 1,Oskar Williams,Crystal Liuk,Oskar Williams,6-1,6,1,1,0,Completed,true,false,false
+UA023022,28 Jul 19,2,Glen Eira,Kings Park 2,No. 2,Dylan Meath,Jesper Isborn,Jesper Isborn,3-6,3,6,0,1,Completed,true,false,false
+UA023022,28 Jul 19,2,Glen Eira,Kings Park 2,No. 3,Zev Gluch,Lillie Isborn,Zev Gluch,6-1,6,1,1,0,Completed,true,false,false
+UA023022,28 Jul 19,2,Glen Eira,Kings Park 2,No. 4,Hillel Ringelblum,[Unnamed player — TROLS UA023022 away code 4],Hillel Ringelblum,6-0,6,0,1,0,Completed,false,false,false
+UA023023,28 Jul 19,2,Elsternwick Park,Parkdale,No. 1,Kieran McGurran,Flynn Hodgkinson,Kieran McGurran,6-2,6,2,1,0,Completed,true,false,false
+UA023023,28 Jul 19,2,Elsternwick Park,Parkdale,No. 2,Alastair Smith,Rohan Patel,Alastair Smith,6-0,6,0,1,0,Completed,true,false,false
+UA023023,28 Jul 19,2,Elsternwick Park,Parkdale,No. 3,Austin Haines,Oscar Lewis,Austin Haines,6-0,6,0,1,0,Completed,true,false,false
+UA023023,28 Jul 19,2,Elsternwick Park,Parkdale,No. 4,Tasmin Ride,Oscar Gohel,Tasmin Ride,6-1,6,1,1,0,Completed,true,false,false
+UA023024,28 Jul 19,2,Aspendale,Black Rock,No. 1,Ben Macaw,Callum Rygi,Callum Rygi,2-6,2,6,0,1,Completed,true,false,false
+UA023024,28 Jul 19,2,Aspendale,Black Rock,No. 2,Erin Fairlie,Adyaan Tata,Adyaan Tata,1-6,1,6,0,1,Completed,true,false,false
+UA023024,28 Jul 19,2,Aspendale,Black Rock,No. 3,Elliott Fairlie,Javi Munnik,Javi Munnik,2-6,2,6,0,1,Completed,true,false,false
+UA023024,28 Jul 19,2,Aspendale,Black Rock,No. 4,Oscar Chipperfield,[Unnamed player — TROLS UA023024 away code 4],Oscar Chipperfield,6-0,6,0,1,0,Completed,false,false,false
+UA023031,04 Aug 19,3,Kings Park 1,Aspendale,No. 1,Kevin Hy,Mia Courtie,Mia Courtie,4-6,4,6,0,1,Completed,true,false,false
+UA023031,04 Aug 19,3,Kings Park 1,Aspendale,No. 2,Tintin Tran,Ben Macaw,Tintin Tran,6-1,6,1,1,0,Completed,true,false,false
+UA023031,04 Aug 19,3,Kings Park 1,Aspendale,No. 3,Khiem Tran,Oscar Chipperfield,Khiem Tran,6-3,6,3,1,0,Completed,true,false,false
+UA023031,04 Aug 19,3,Kings Park 1,Aspendale,No. 4,Dillon Theron,Ethan Howells,Dillon Theron,6-2,6,2,1,0,Completed,true,false,false
+UA023032,04 Aug 19,3,Kings Park 2,Le Page,No. 1,Crystal Liuk,Andrew Wang,Andrew Wang,1-6,1,6,0,1,Completed,true,false,false
+UA023032,04 Aug 19,3,Kings Park 2,Le Page,No. 2,Jessica Leigh,Kai Hu,Jessica Leigh,6-1,6,1,1,0,Completed,true,false,false
+UA023032,04 Aug 19,3,Kings Park 2,Le Page,No. 3,Lillie Isborn,Marcus Sotos,Marcus Sotos,1-6,1,6,0,1,Completed,true,false,false
+UA023032,04 Aug 19,3,Kings Park 2,Le Page,No. 4,Katherine Armstrong,Abby Kerr,Katherine Armstrong,6-0,6,0,1,0,Completed,true,false,false
+UA023033,04 Aug 19,3,Parkdale,Glen Eira,No. 1,Tyson Lowe,Oskar Williams,Tyson Lowe,6-2,6,2,1,0,Completed,true,false,false
+UA023033,04 Aug 19,3,Parkdale,Glen Eira,No. 2,Matt Bradley,Toby Shmuel,Toby Shmuel,4-6,4,6,0,1,Completed,true,false,false
+UA023033,04 Aug 19,3,Parkdale,Glen Eira,No. 3,Flynn Hodgkinson,Zev Gluch,Zev Gluch,0-6,0,6,0,1,Completed,true,false,false
+UA023033,04 Aug 19,3,Parkdale,Glen Eira,No. 4,Rohan Patel,Hillel Ringelblum,Hillel Ringelblum,0-6,0,6,0,1,Completed,true,false,false
+UA023034,04 Aug 19,3,Black Rock,Elsternwick Park,No. 1,Callum Rygi,Kieran McGurran,Kieran McGurran,0-6,0,6,0,1,Completed,true,false,false
+UA023034,04 Aug 19,3,Black Rock,Elsternwick Park,No. 2,Adyaan Tata,Austin Haines,Austin Haines,0-6,0,6,0,1,Completed,true,false,false
+UA023034,04 Aug 19,3,Black Rock,Elsternwick Park,No. 3,Javi Munnik,Millie Barr,Javi Munnik,6-0,6,0,1,0,Completed,true,false,false
+UA023034,04 Aug 19,3,Black Rock,Elsternwick Park,No. 4,Archie Braithwaite,Ben Levy,Archie Braithwaite,7-6,7,6,1,0,Completed,true,false,false
+UA023041,11 Aug 19,4,Elsternwick Park,Kings Park 1,No. 1,Kieran McGurran,Kevin Hy,Kieran McGurran,6-0,6,0,1,0,Completed,true,false,false
+UA023041,11 Aug 19,4,Elsternwick Park,Kings Park 1,No. 2,Austin Haines,Tintin Tran,Austin Haines,6-1,6,1,1,0,Completed,true,false,false
+UA023041,11 Aug 19,4,Elsternwick Park,Kings Park 1,No. 3,Tasmin Ride,[Unnamed player — TROLS UA023041 away code 3],Tasmin Ride,6-0,6,0,1,0,Completed,false,false,false
+UA023041,11 Aug 19,4,Elsternwick Park,Kings Park 1,No. 4,Millie Barr,Dillon Theron,Dillon Theron,3-6,3,6,0,1,Completed,true,false,false
+UA023051,18 Aug 19,5,Parkdale,Black Rock,No. 1,Flynn Hodgkinson,Callum Rygi,Flynn Hodgkinson,6-3,6,3,1,0,Completed,true,false,false
+UA023051,18 Aug 19,5,Parkdale,Black Rock,No. 2,Matt Bradley,Adyaan Tata,Adyaan Tata,5-7,5,7,0,1,Completed,true,false,false
+UA023051,18 Aug 19,5,Parkdale,Black Rock,No. 3,Oscar Lewis,Javi Munnik,Javi Munnik,2-6,2,6,0,1,Completed,true,false,false
+UA023051,18 Aug 19,5,Parkdale,Black Rock,No. 4,Oscar Jeppson,[Unnamed player — TROLS UA023051 away code 4],Oscar Jeppson,6-0,6,0,1,0,Completed,false,false,false
+UA023052,18 Aug 19,5,Le Page,Aspendale,No. 1,Andrew Wang,Mia Courtie,Mia Courtie,4-6,4,6,0,1,Completed,true,false,false
+UA023052,18 Aug 19,5,Le Page,Aspendale,No. 2,Kai Hu,Ben Macaw,Ben Macaw,3-6,3,6,0,1,Completed,true,false,false
+UA023052,18 Aug 19,5,Le Page,Aspendale,No. 3,Marcus Sotos,Elliott Fairlie,Marcus Sotos,7-6,7,6,1,0,Completed,true,false,false
+UA023052,18 Aug 19,5,Le Page,Aspendale,No. 4,Ilena Stefanou,Ethan Howells,Ethan Howells,0-6,0,6,0,1,Completed,true,false,false
+UA023053,18 Aug 19,5,Elsternwick Park,Glen Eira,No. 1,Kieran McGurran,Oskar Williams,Kieran McGurran,6-0,6,0,1,0,Completed,true,false,false
+UA023053,18 Aug 19,5,Elsternwick Park,Glen Eira,No. 2,Austin Haines,Toby Shmuel,Austin Haines,6-0,6,0,1,0,Completed,true,false,false
+UA023053,18 Aug 19,5,Elsternwick Park,Glen Eira,No. 3,Angus King,Josh Spiegel,Angus King,6-3,6,3,1,0,Completed,true,false,false
+UA023053,18 Aug 19,5,Elsternwick Park,Glen Eira,No. 4,Ben Levy,Dylan Meath,Dylan Meath,2-6,2,6,0,1,Completed,true,false,false
+UA023054,18 Aug 19,5,Kings Park 1,Kings Park 2,No. 1,Kevin Hy,Jessica Leigh,Jessica Leigh,5-7,5,7,0,1,Completed,true,false,false
+UA023054,18 Aug 19,5,Kings Park 1,Kings Park 2,No. 2,Joanna Wang,Jesper Isborn,Joanna Wang,6-0,6,0,1,0,Completed,true,false,false
+UA023054,18 Aug 19,5,Kings Park 1,Kings Park 2,No. 3,Tintin Tran,Lillie Isborn,Tintin Tran,6-1,6,1,1,0,Completed,true,false,false
+UA023054,18 Aug 19,5,Kings Park 1,Kings Park 2,No. 4,Khiem Tran,Katherine Armstrong,Khiem Tran,6-1,6,1,1,0,Completed,true,false,false
+UA023061,25 Aug 19,6,Kings Park 2,Parkdale,No. 1,Crystal Liuk,Tyson Lowe,Tyson Lowe,4-6,4,6,0,1,Completed,true,false,false
+UA023061,25 Aug 19,6,Kings Park 2,Parkdale,No. 2,Jessica Leigh,Matt Bradley,Jessica Leigh,6-2,6,2,1,0,Completed,true,false,false
+UA023061,25 Aug 19,6,Kings Park 2,Parkdale,No. 3,Jesper Isborn,Rohan Patel,Rohan Patel,3-6,3,6,0,1,Completed,true,false,false
+UA023061,25 Aug 19,6,Kings Park 2,Parkdale,No. 4,Lillie Isborn,Oscar Gohel,Oscar Gohel,3-6,3,6,0,1,Completed,true,false,false
+UA023062,25 Aug 19,6,Black Rock,Kings Park 1,No. 1,Callum Rygi,Kevin Hy,Callum Rygi,7-6,7,6,1,0,Completed,true,false,false
+UA023062,25 Aug 19,6,Black Rock,Kings Park 1,No. 2,Adyaan Tata,Tintin Tran,Tintin Tran,6-7,6,7,0,1,Completed,true,false,false
+UA023062,25 Aug 19,6,Black Rock,Kings Park 1,No. 3,Javi Munnik,Khiem Tran,Khiem Tran,3-6,3,6,0,1,Completed,true,false,false
+UA023062,25 Aug 19,6,Black Rock,Kings Park 1,No. 4,Archie Braithwaite,Dillon Theron,Dillon Theron,1-6,1,6,0,1,Completed,true,false,false
+UA023063,25 Aug 19,6,Aspendale,Elsternwick Park,No. 1,Mia Courtie,Alastair Smith,Alastair Smith,1-6,1,6,0,1,Completed,true,false,false
+UA023063,25 Aug 19,6,Aspendale,Elsternwick Park,No. 2,Ben Macaw,Miller White,Miller White,0-6,0,6,0,1,Completed,true,false,false
+UA023063,25 Aug 19,6,Aspendale,Elsternwick Park,No. 3,Elliott Fairlie,Tasmin Ride,Tasmin Ride,2-6,2,6,0,1,Completed,true,false,false
+UA023063,25 Aug 19,6,Aspendale,Elsternwick Park,No. 4,Oscar Chipperfield,Millie Barr,Millie Barr,3-6,3,6,0,1,Completed,true,false,false
+UA023064,25 Aug 19,6,Glen Eira,Le Page,No. 1,Oskar Williams,Andrew Wang,Andrew Wang,3-6,3,6,0,1,Completed,true,false,false
+UA023064,25 Aug 19,6,Glen Eira,Le Page,No. 2,Toby Shmuel,Kai Hu,Toby Shmuel,6-2,6,2,1,0,Completed,true,false,false
+UA023064,25 Aug 19,6,Glen Eira,Le Page,No. 3,Zev Gluch,Marcus Sotos,Zev Gluch,6-3,6,3,1,0,Completed,true,false,false
+UA023064,25 Aug 19,6,Glen Eira,Le Page,No. 4,Hillel Ringelblum,Ilena Stefanou,Hillel Ringelblum,6-0,6,0,1,0,Completed,true,false,false
+UA023071,01 Sep 19,7,Kings Park 1,Parkdale,No. 1,Kevin Hy,Tyson Lowe,Tyson Lowe,1-6,1,6,0,1,Completed,true,false,false
+UA023071,01 Sep 19,7,Kings Park 1,Parkdale,No. 2,Tintin Tran,Matt Bradley,Tintin Tran,6-4,6,4,1,0,Completed,true,false,false
+UA023071,01 Sep 19,7,Kings Park 1,Parkdale,No. 3,Khiem Tran,Rohan Patel,Khiem Tran,6-2,6,2,1,0,Completed,true,false,false
+UA023071,01 Sep 19,7,Kings Park 1,Parkdale,No. 4,Dillon Theron,Flynn Hodgkinson,Dillon Theron,6-0,6,0,1,0,Completed,true,false,false
+UA023072,01 Sep 19,7,Kings Park 2,Black Rock,No. 1,Crystal Liuk,Callum Rygi,Callum Rygi,2-6,2,6,0,1,Completed,true,false,false
+UA023072,01 Sep 19,7,Kings Park 2,Black Rock,No. 2,Jessica Leigh,Andy Rata,Andy Rata,3-6,3,6,0,1,Completed,true,false,false
+UA023072,01 Sep 19,7,Kings Park 2,Black Rock,No. 3,Jesper Isborn,Javi Munnik,Javi Munnik,1-6,1,6,0,1,Completed,true,false,false
+UA023072,01 Sep 19,7,Kings Park 2,Black Rock,No. 4,Katherine Armstrong,Archie Braithwaite,Katherine Armstrong,6-3,6,3,1,0,Completed,true,false,false
+UA023073,01 Sep 19,7,Le Page,Elsternwick Park,No. 1,[Unnamed player — TROLS UA023073 home code 1],Kieran McGurran,Kieran McGurran,0-6,0,6,0,1,Completed,false,false,false
+UA023073,01 Sep 19,7,Le Page,Elsternwick Park,No. 2,Andrew Wang,Alastair Smith,Alastair Smith,3-6,3,6,0,1,Completed,true,false,false
+UA023073,01 Sep 19,7,Le Page,Elsternwick Park,No. 3,Abby Kerr,Austin Haines,Austin Haines,0-6,0,6,0,1,Completed,true,false,false
+UA023073,01 Sep 19,7,Le Page,Elsternwick Park,No. 4,Marcus Sotos,Millie Barr,Millie Barr,0-6,0,6,0,1,Completed,true,false,false
+UA023074,01 Sep 19,7,Aspendale,Glen Eira,No. 1,Mia Courtie,Josh Spiegel,Mia Courtie,6-3,6,3,1,0,Completed,true,false,false
+UA023074,01 Sep 19,7,Aspendale,Glen Eira,No. 2,Ben Macaw,Dylan Meath,Ben Macaw,7-6,7,6,1,0,Completed,true,false,false
+UA023074,01 Sep 19,7,Aspendale,Glen Eira,No. 3,Erin Fairlie,Zev Gluch,Zev Gluch,4-6,4,6,0,1,Completed,true,false,false
+UA023074,01 Sep 19,7,Aspendale,Glen Eira,No. 4,Oscar Chipperfield,Hillel Ringelblum,Hillel Ringelblum,1-6,1,6,0,1,Completed,true,false,false
+UA023081,08 Sep 19,8,Glen Eira,Kings Park 1,No. 1,Oskar Williams,Kevin Hy,Oskar Williams,6-2,6,2,1,0,Completed,true,false,false
+UA023081,08 Sep 19,8,Glen Eira,Kings Park 1,No. 2,Toby Shmuel,Tintin Tran,Tintin Tran,0-6,0,6,0,1,Completed,true,false,false
+UA023081,08 Sep 19,8,Glen Eira,Kings Park 1,No. 3,Josh Spiegel,Khiem Tran,Josh Spiegel,6-3,6,3,1,0,Completed,true,false,false
+UA023081,08 Sep 19,8,Glen Eira,Kings Park 1,No. 4,Dylan Meath,Lucas Tucker,Lucas Tucker,0-6,0,6,0,1,Completed,true,false,false
+UA023082,08 Sep 19,8,Elsternwick Park,Kings Park 2,No. 1,Alastair Smith,Crystal Liuk,Alastair Smith,6-0,6,0,1,0,Completed,true,false,false
+UA023082,08 Sep 19,8,Elsternwick Park,Kings Park 2,No. 2,Miller White,Jessica Leigh,Miller White,6-1,6,1,1,0,Completed,true,false,false
+UA023082,08 Sep 19,8,Elsternwick Park,Kings Park 2,No. 3,Austin Haines,Lillie Isborn,Austin Haines,6-1,6,1,1,0,Completed,true,false,false
+UA023082,08 Sep 19,8,Elsternwick Park,Kings Park 2,No. 4,Tasmin Ride,Katherine Armstrong,Tasmin Ride,6-1,6,1,1,0,Completed,true,false,false
+UA023083,08 Sep 19,8,Aspendale,Parkdale,No. 1,Mia Courtie,Flynn Hodgkinson,Flynn Hodgkinson,2-6,2,6,0,1,Completed,true,false,false
+UA023083,08 Sep 19,8,Aspendale,Parkdale,No. 2,Ben Macaw,Matt Bradley,Ben Macaw,6-4,6,4,1,0,Completed,true,false,false
+UA023083,08 Sep 19,8,Aspendale,Parkdale,No. 3,Erin Fairlie,Oscar Lewis,Oscar Lewis,0-6,0,6,0,1,Completed,true,false,false
+UA023083,08 Sep 19,8,Aspendale,Parkdale,No. 4,Elliott Fairlie,Oscar Gohel,Elliott Fairlie,6-3,6,3,1,0,Completed,true,false,false
+UA023084,08 Sep 19,8,Le Page,Black Rock,No. 1,Andrew Wang,Andy Rata,Andrew Wang,6-4,6,4,1,0,Completed,true,false,false
+UA023084,08 Sep 19,8,Le Page,Black Rock,No. 2,Kai Hu,Javi Munnik,Javi Munnik,2-6,2,6,0,1,Completed,true,false,false
+UA023084,08 Sep 19,8,Le Page,Black Rock,No. 3,Marcus Sotos,Archie Braithwaite,Marcus Sotos,6-2,6,2,1,0,Completed,true,false,false
+UA023084,08 Sep 19,8,Le Page,Black Rock,No. 4,Abby Kerr,Josh Watt,Josh Watt,0-6,0,6,0,1,Completed,true,false,false
+UA023091,15 Sep 19,9,Kings Park 1,Le Page,No. 1,Kevin Hy,Kai Hu,Kevin Hy,6-2,6,2,1,0,Completed,true,false,false
+UA023091,15 Sep 19,9,Kings Park 1,Le Page,No. 2,Tintin Tran,Marcus Sotos,Marcus Sotos,4-6,4,6,0,1,Completed,true,false,false
+UA023091,15 Sep 19,9,Kings Park 1,Le Page,No. 3,Khiem Tran,Abby Kerr,Khiem Tran,6-0,6,0,1,0,Completed,true,false,false
+UA023091,15 Sep 19,9,Kings Park 1,Le Page,No. 4,Dillon Theron,Ilena Stefanou,Dillon Theron,6-1,6,1,1,0,Completed,true,false,false
+UA023092,15 Sep 19,9,Kings Park 2,Glen Eira,No. 1,Jesper Isborn,Hillel Ringelblum,Hillel Ringelblum,0-6,0,6,0,1,Completed,true,false,false
+UA023092,15 Sep 19,9,Kings Park 2,Glen Eira,No. 2,Lillie Isborn,Toby Shmuel,Toby Shmuel,4-6,4,6,0,1,Completed,true,false,false
+UA023092,15 Sep 19,9,Kings Park 2,Glen Eira,No. 3,Katherine Armstrong,Zev Gluch,Zev Gluch,4-6,4,6,0,1,Completed,true,false,false
+UA023092,15 Sep 19,9,Kings Park 2,Glen Eira,No. 4,[Unnamed player — TROLS UA023092 home code 4],Oskar Williams,Oskar Williams,0-6,0,6,0,1,Completed,false,false,false
+UA023093,15 Sep 19,9,Parkdale,Elsternwick Park,No. 1,Tyson Lowe,Kieran McGurran,Kieran McGurran,2-6,2,6,0,1,Completed,true,false,false
+UA023093,15 Sep 19,9,Parkdale,Elsternwick Park,No. 2,Flynn Hodgkinson,Alastair Smith,Alastair Smith,3-6,3,6,0,1,Completed,true,false,false
+UA023093,15 Sep 19,9,Parkdale,Elsternwick Park,No. 3,Matt Bradley,Millie Barr,Millie Barr,0-6,0,6,0,1,Completed,true,false,false
+UA023093,15 Sep 19,9,Parkdale,Elsternwick Park,No. 4,Rohan Patel,Tasmin Ride,Rohan Patel,6-0,6,0,1,0,Completed,true,false,false
+UA023094,15 Sep 19,9,Black Rock,Aspendale,No. 1,Callum Rygi,Mia Courtie,Mia Courtie,3-6,3,6,0,1,Completed,true,false,false
+UA023094,15 Sep 19,9,Black Rock,Aspendale,No. 2,Javi Munnik,Erin Fairlie,Erin Fairlie,5-7,5,7,0,1,Completed,true,false,false
+UA023094,15 Sep 19,9,Black Rock,Aspendale,No. 3,Archie Braithwaite,Elliott Fairlie,Archie Braithwaite,6-2,6,2,1,0,Completed,true,false,false
+UA023094,15 Sep 19,9,Black Rock,Aspendale,No. 4,Josh Watt,Oscar Chipperfield,Josh Watt,6-3,6,3,1,0,Completed,true,false,false
+UA023101,13 Oct 19,10,Aspendale,Kings Park 1,No. 1,Ben Macaw,Kevin Hy,Kevin Hy,4-6,4,6,0,1,Completed,true,false,false
+UA023101,13 Oct 19,10,Aspendale,Kings Park 1,No. 2,Erin Fairlie,Tintin Tran,Erin Fairlie,6-4,6,4,1,0,Completed,true,false,false
+UA023101,13 Oct 19,10,Aspendale,Kings Park 1,No. 3,Elliott Fairlie,Khiem Tran,Khiem Tran,4-6,4,6,0,1,Completed,true,false,false
+UA023101,13 Oct 19,10,Aspendale,Kings Park 1,No. 4,Oscar Chipperfield,Dillon Theron,Dillon Theron,0-6,0,6,0,1,Completed,true,false,false
+UA023102,13 Oct 19,10,Le Page,Kings Park 2,No. 1,Andrew Wang,Crystal Liuk,Andrew Wang,6-1,6,1,1,0,Completed,true,false,false
+UA023102,13 Oct 19,10,Le Page,Kings Park 2,No. 2,Marcus Sotos,Jessica Leigh,Jessica Leigh,3-6,3,6,0,1,Completed,true,false,false
+UA023102,13 Oct 19,10,Le Page,Kings Park 2,No. 3,Abby Kerr,Jesper Isborn,Jesper Isborn,1-6,1,6,0,1,Completed,true,false,false
+UA023102,13 Oct 19,10,Le Page,Kings Park 2,No. 4,Ilena Stefanou,Lillie Isborn,Lillie Isborn,0-6,0,6,0,1,Completed,true,false,false
+UA023103,13 Oct 19,10,Glen Eira,Parkdale,No. 1,Zev Gluch,Flynn Hodgkinson,Zev Gluch,6-4,6,4,1,0,Completed,true,false,false
+UA023103,13 Oct 19,10,Glen Eira,Parkdale,No. 2,Dylan Meath,Rohan Patel,Rohan Patel,3-6,3,6,0,1,Completed,true,false,false
+UA023103,13 Oct 19,10,Glen Eira,Parkdale,No. 3,[Unnamed player — TROLS UA023103 home code 3],Ryan Dong,Ryan Dong,0-6,0,6,0,1,Completed,false,false,false
+UA023103,13 Oct 19,10,Glen Eira,Parkdale,No. 4,Oskar Williams,Tyson Lowe,Tyson Lowe,0-6,0,6,0,1,Completed,true,false,false
+UA023104,13 Oct 19,10,Elsternwick Park,Black Rock,No. 1,Kieran McGurran,Callum Rygi,Kieran McGurran,6-1,6,1,1,0,Completed,true,false,false
+UA023104,13 Oct 19,10,Elsternwick Park,Black Rock,No. 2,Miller White,Andy Rata,Miller White,6-3,6,3,1,0,Completed,true,false,false
+UA023104,13 Oct 19,10,Elsternwick Park,Black Rock,No. 3,Austin Haines,Archie Braithwaite,Austin Haines,6-0,6,0,1,0,Completed,true,false,false
+UA023104,13 Oct 19,10,Elsternwick Park,Black Rock,No. 4,Tasmin Ride,Josh Watt,Tasmin Ride,6-1,6,1,1,0,Completed,true,false,false
+UA023111,20 Oct 19,11,Kings Park 1,Elsternwick Park,No. 1,Kevin Hy,Kieran McGurran,Kieran McGurran,0-6,0,6,0,1,Completed,true,false,false
+UA023111,20 Oct 19,11,Kings Park 1,Elsternwick Park,No. 2,Tintin Tran,Alastair Smith,Alastair Smith,3-6,3,6,0,1,Completed,true,false,false
+UA023111,20 Oct 19,11,Kings Park 1,Elsternwick Park,No. 3,Khiem Tran,Tasmin Ride,Tasmin Ride,4-6,4,6,0,1,Completed,true,false,false
+UA023111,20 Oct 19,11,Kings Park 1,Elsternwick Park,No. 4,Dillon Theron,Millie Barr,Dillon Theron,6-3,6,3,1,0,Completed,true,false,false
+UA023112,20 Oct 19,11,Kings Park 2,Aspendale,No. 1,Crystal Liuk,Erin Fairlie,Erin Fairlie,1-6,1,6,0,1,Completed,true,false,false
+UA023112,20 Oct 19,11,Kings Park 2,Aspendale,No. 2,Mia Bronson,Elliott Fairlie,Mia Bronson,7-6,7,6,1,0,Completed,true,false,false
+UA023112,20 Oct 19,11,Kings Park 2,Aspendale,No. 3,Katherine Armstrong,[Unnamed player — TROLS UA023112 away code 3],Katherine Armstrong,6-0,6,0,1,0,Completed,false,false,false
+UA023112,20 Oct 19,11,Kings Park 2,Aspendale,No. 4,Pujan Kukadiya,Oscar Chipperfield,Pujan Kukadiya,6-4,6,4,1,0,Completed,true,false,false
+UA023113,20 Oct 19,11,Parkdale,Le Page,No. 1,Ryan Dong,Andrew Wang,Ryan Dong,6-3,6,3,1,0,Completed,true,false,false
+UA023113,20 Oct 19,11,Parkdale,Le Page,No. 2,Tyson Lowe,Kai Hu,Tyson Lowe,6-0,6,0,1,0,Completed,true,false,false
+UA023113,20 Oct 19,11,Parkdale,Le Page,No. 3,Oscar Lewis,Marcus Sotos,Marcus Sotos,4-6,4,6,0,1,Completed,true,false,false
+UA023113,20 Oct 19,11,Parkdale,Le Page,No. 4,Oscar Jeppson,Abby Kerr,Oscar Jeppson,6-1,6,1,1,0,Completed,true,false,false
+UA023114,20 Oct 19,11,Black Rock,Glen Eira,No. 1,Callum Rygi,Oskar Williams,Oskar Williams,2-6,2,6,0,1,Completed,true,false,false
+UA023114,20 Oct 19,11,Black Rock,Glen Eira,No. 2,Javi Munnik,Toby Shmuel,Javi Munnik,6-2,6,2,1,0,Completed,true,false,false
+UA023114,20 Oct 19,11,Black Rock,Glen Eira,No. 3,Archie Braithwaite,Josh Spiegel,Josh Spiegel,5-7,5,7,0,1,Completed,true,false,false
+UA023114,20 Oct 19,11,Black Rock,Glen Eira,No. 4,Josh Watt,Hillel Ringelblum,Hillel Ringelblum,2-6,2,6,0,1,Completed,true,false,false
+UA023121,27 Oct 19,12,Black Rock,Parkdale,No. 1,Adyaan Tata,Ryan Dong,Ryan Dong,4-6,4,6,0,1,Completed,true,false,false
+UA023121,27 Oct 19,12,Black Rock,Parkdale,No. 2,Javi Munnik,Flynn Hodgkinson,Flynn Hodgkinson,4-6,4,6,0,1,Completed,true,false,false
+UA023121,27 Oct 19,12,Black Rock,Parkdale,No. 3,Josh Watt,Matt Bradley,Matt Bradley,5-7,5,7,0,1,Completed,true,false,false
+UA023121,27 Oct 19,12,Black Rock,Parkdale,No. 4,Andrew Sheddon,Rohan Patel,Rohan Patel,1-6,1,6,0,1,Completed,true,true,false
+UA023122,27 Oct 19,12,Aspendale,Le Page,No. 1,Mia Courtie,Kai Hu,Mia Courtie,6-1,6,1,1,0,Completed,true,false,false
+UA023122,27 Oct 19,12,Aspendale,Le Page,No. 2,Erin Fairlie,Marcus Sotos,Erin Fairlie,6-3,6,3,1,0,Completed,true,false,false
+UA023122,27 Oct 19,12,Aspendale,Le Page,No. 3,Elliott Fairlie,Rafael Trias,Elliott Fairlie,6-0,6,0,1,0,Completed,true,false,true
+UA023122,27 Oct 19,12,Aspendale,Le Page,No. 4,Oscar Chipperfield,Ilena Stefanou,Oscar Chipperfield,6-1,6,1,1,0,Completed,true,false,false
+UA023123,27 Oct 19,12,Glen Eira,Elsternwick Park,No. 1,Oskar Williams,Alastair Smith,Alastair Smith,1-6,1,6,0,1,Completed,true,false,false
+UA023123,27 Oct 19,12,Glen Eira,Elsternwick Park,No. 2,Josh Spiegel,Austin Haines,Austin Haines,1-6,1,6,0,1,Completed,true,false,false
+UA023123,27 Oct 19,12,Glen Eira,Elsternwick Park,No. 3,Zev Gluch,Tasmin Ride,Tasmin Ride,1-6,1,6,0,1,Completed,true,false,false
+UA023123,27 Oct 19,12,Glen Eira,Elsternwick Park,No. 4,Hillel Ringelblum,Angus King,Hillel Ringelblum,6-2,6,2,1,0,Completed,true,false,false
+UA023124,27 Oct 19,12,Kings Park 2,Kings Park 1,No. 1,Jesper Isborn,Tintin Tran,Tintin Tran,2-6,2,6,0,1,Completed,true,false,false
+UA023124,27 Oct 19,12,Kings Park 2,Kings Park 1,No. 2,Lillie Isborn,Khiem Tran,Khiem Tran,0-6,0,6,0,1,Completed,true,false,false
+UA023124,27 Oct 19,12,Kings Park 2,Kings Park 1,No. 3,Katherine Armstrong,Dillon Theron,Dillon Theron,3-6,3,6,0,1,Completed,true,false,false
+UA023124,27 Oct 19,12,Kings Park 2,Kings Park 1,No. 4,Maja O'Sullivan,Daniel Qin,Daniel Qin,5-7,5,7,0,1,Completed,true,false,false
+UA023131,10 Nov 19,13,Parkdale,Kings Park 2,No. 1,Ryan Dong,Crystal Liuk,Ryan Dong,6-1,6,1,1,0,Completed,true,false,false
+UA023131,10 Nov 19,13,Parkdale,Kings Park 2,No. 2,Tyson Lowe,Jessica Leigh,Tyson Lowe,6-1,6,1,1,0,Completed,true,false,false
+UA023131,10 Nov 19,13,Parkdale,Kings Park 2,No. 3,Oscar Lewis,Mia Bronson,Mia Bronson,5-7,5,7,0,1,Completed,true,false,false
+UA023131,10 Nov 19,13,Parkdale,Kings Park 2,No. 4,Oscar Jeppson,Katherine Armstrong,Oscar Jeppson,7-5,7,5,1,0,Completed,true,false,false
+UA023132,10 Nov 19,13,Kings Park 1,Black Rock,No. 1,Tintin Tran,Callum Rygi,Tintin Tran,6-2,6,2,1,0,Completed,true,false,false
+UA023132,10 Nov 19,13,Kings Park 1,Black Rock,No. 2,Khiem Tran,Javi Munnik,Javi Munnik,4-6,4,6,0,1,Completed,true,false,false
+UA023132,10 Nov 19,13,Kings Park 1,Black Rock,No. 3,Dillon Theron,Archie Braithwaite,Dillon Theron,6-0,6,0,1,0,Completed,true,false,false
+UA023132,10 Nov 19,13,Kings Park 1,Black Rock,No. 4,Pujan Kukadiya,Josh Watt,Josh Watt,6-7,6,7,0,1,Completed,true,false,false
+UA023133,10 Nov 19,13,Elsternwick Park,Aspendale,No. 1,Kieran McGurran,Ben Macaw,Kieran McGurran,6-0,6,0,1,0,Completed,true,false,false
+UA023133,10 Nov 19,13,Elsternwick Park,Aspendale,No. 2,Alastair Smith,Erin Fairlie,Alastair Smith,6-0,6,0,1,0,Completed,true,false,false
+UA023133,10 Nov 19,13,Elsternwick Park,Aspendale,No. 3,Miller White,Elliott Fairlie,Miller White,6-0,6,0,1,0,Completed,true,false,false
+UA023133,10 Nov 19,13,Elsternwick Park,Aspendale,No. 4,Millie Barr,Oscar Chipperfield,Oscar Chipperfield,3-6,3,6,0,1,Completed,true,false,false
+UA023134,10 Nov 19,13,Le Page,Glen Eira,No. 1,Andrew Wang,Oskar Williams,Oskar Williams,3-6,3,6,0,1,Completed,true,false,false
+UA023134,10 Nov 19,13,Le Page,Glen Eira,No. 2,Kai Hu,Toby Shmuel,Toby Shmuel,4-6,4,6,0,1,Completed,true,false,false
+UA023134,10 Nov 19,13,Le Page,Glen Eira,No. 3,Marcus Sotos,Hillel Ringelblum,Hillel Ringelblum,0-6,0,6,0,1,Completed,true,false,false
+UA023134,10 Nov 19,13,Le Page,Glen Eira,No. 4,Ilena Stefanou,Bailey Kulwiec,Ilena Stefanou,6-4,6,4,1,0,Completed,true,false,false
+UA023141,17 Nov 19,14,Parkdale,Kings Park 1,No. 1,Ryan Dong,Tintin Tran,Ryan Dong,6-4,6,4,1,0,Completed,true,false,false
+UA023141,17 Nov 19,14,Parkdale,Kings Park 1,No. 2,Tyson Lowe,Khiem Tran,Tyson Lowe,6-0,6,0,1,0,Completed,true,false,false
+UA023141,17 Nov 19,14,Parkdale,Kings Park 1,No. 3,Flynn Hodgkinson,Dillon Theron,Flynn Hodgkinson,6-2,6,2,1,0,Completed,true,false,false
+UA023141,17 Nov 19,14,Parkdale,Kings Park 1,No. 4,Matt Bradley,Pujan Kukadiya,Matt Bradley,6-1,6,1,1,0,Completed,true,false,false
+UA023142,17 Nov 19,14,Black Rock,Kings Park 2,No. 1,Adyaan Tata,Crystal Liuk,Adyaan Tata,6-2,6,2,1,0,Completed,true,false,false
+UA023142,17 Nov 19,14,Black Rock,Kings Park 2,No. 2,Javi Munnik,Jessica Leigh,Javi Munnik,7-5,7,5,1,0,Completed,true,false,false
+UA023142,17 Nov 19,14,Black Rock,Kings Park 2,No. 3,Archie Braithwaite,Jesper Isborn,Jesper Isborn,2-6,2,6,0,1,Completed,true,false,false
+UA023142,17 Nov 19,14,Black Rock,Kings Park 2,No. 4,Josh Watt,Lillie Isborn,Josh Watt,6-1,6,1,1,0,Completed,true,false,false
+UA023143,17 Nov 19,14,Elsternwick Park,Le Page,No. 1,Miller White,Andrew Wang,Miller White,6-1,6,1,1,0,Completed,true,false,false
+UA023143,17 Nov 19,14,Elsternwick Park,Le Page,No. 2,Austin Haines,Kai Hu,Austin Haines,6-0,6,0,1,0,Completed,true,false,false
+UA023143,17 Nov 19,14,Elsternwick Park,Le Page,No. 3,Tasmin Ride,Marcus Sotos,Tasmin Ride,6-1,6,1,1,0,Completed,true,false,false
+UA023143,17 Nov 19,14,Elsternwick Park,Le Page,No. 4,Millie Barr,Abby Kerr,Millie Barr,6-0,6,0,1,0,Completed,true,false,false
+UA023144,17 Nov 19,14,Glen Eira,Aspendale,No. 1,Oskar Williams,Mia Courtie,Mia Courtie,5-7,5,7,0,1,Completed,true,false,false
+UA023144,17 Nov 19,14,Glen Eira,Aspendale,No. 2,Josh Spiegel,Ben Macaw,Josh Spiegel,6-3,6,3,1,0,Completed,true,false,false
+UA023144,17 Nov 19,14,Glen Eira,Aspendale,No. 3,Zev Gluch,Elliott Fairlie,Elliott Fairlie,5-7,5,7,0,1,Completed,true,false,false
+UA023144,17 Nov 19,14,Glen Eira,Aspendale,No. 4,Mia Milner,Oscar Chipperfield,Oscar Chipperfield,4-6,4,6,0,1,Completed,true,false,false
+UA023301,,16,Elsternwick Park,Glen Eira,No. 1,Kieran McGurran,Oskar Williams,Kieran McGurran,6-0,6,0,1,0,Completed,true,false,false
+UA023301,,16,Elsternwick Park,Glen Eira,No. 2,Alastair Smith,Toby Shmuel,Alastair Smith,6-1,6,1,1,0,Completed,true,false,false
+UA023301,,16,Elsternwick Park,Glen Eira,No. 3,Miller White,Josh Spiegel,Miller White,6-1,6,1,1,0,Completed,true,false,false
+UA023301,,16,Elsternwick Park,Glen Eira,No. 4,Tasmin Ride,Zev Gluch,Tasmin Ride,6-2,6,2,1,0,Completed,true,false,false
+UA023302,,16,Kings Park 1,Parkdale,No. 1,Tintin Tran,Ryan Dong,Ryan Dong,1-6,1,6,0,1,Completed,true,false,false
+UA023302,,16,Kings Park 1,Parkdale,No. 2,Dillon Theron,Tyson Lowe,Tyson Lowe,1-6,1,6,0,1,Completed,true,false,false
+UA023302,,16,Kings Park 1,Parkdale,No. 3,Mia Bronson,Flynn Hodgkinson,Flynn Hodgkinson,0-6,0,6,0,1,Completed,true,false,false
+UA023302,,16,Kings Park 1,Parkdale,No. 4,Pujan Kukadiya,Matt Bradley,Matt Bradley,6-7,6,7,0,1,Completed,true,false,false
+UA023321,,17,Elsternwick Park,Parkdale,No. 1,Kieran McGurran,Ryan Dong,Kieran McGurran,6-4,6,4,1,0,Completed,true,false,false
+UA023321,,17,Elsternwick Park,Parkdale,No. 2,Alastair Smith,Tyson Lowe,Alastair Smith,6-4,6,4,1,0,Completed,true,false,false
+UA023321,,17,Elsternwick Park,Parkdale,No. 3,Miller White,Flynn Hodgkinson,Miller White,6-4,6,4,1,0,Completed,true,false,false
+UA023321,,17,Elsternwick Park,Parkdale,No. 4,Tasmin Ride,Matt Bradley,Tasmin Ride,6-3,6,3,1,0,Completed,true,false,false

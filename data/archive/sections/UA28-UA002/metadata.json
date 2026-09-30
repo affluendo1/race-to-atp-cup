@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA28-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2021",
+  "season_id": "UA28",
+  "season_label": "Autumn 2021",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Coatesville",
+      "wins": 8,
+      "points": 90,
+      "percentage": 148.17,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Joan of Arc",
+      "wins": 8,
+      "points": 89.5,
+      "percentage": 138.06,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Dendy Park",
+      "wins": 7,
+      "points": 86.5,
+      "percentage": 128.38,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Carmelite",
+      "wins": 6,
+      "points": 71,
+      "percentage": 101.29,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Hurlingham Park",
+      "wins": 3,
+      "points": 57,
+      "percentage": 92.73,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC 1",
+      "wins": 3,
+      "points": 52,
+      "percentage": 82.53,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC 2",
+      "wins": 2,
+      "points": 44,
+      "percentage": 75.89,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Highmoor Uniting",
+      "wins": 0,
+      "points": 30,
+      "percentage": 67.44,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA28-UA002",
+  "fixtures": 55,
+  "completed_fixtures": 44,
+  "draw_fixtures": 59,
+  "singles_rubbers": 175,
+  "doubles_rubbers": 88,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA002072"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA24-UA020",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2019",
+  "season_id": "UA24",
+  "season_label": "Autumn 2019",
+  "source_section_code": "UA020",
+  "section_label": "Section 20",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Caulfield Rec 2",
+      "wins": 10,
+      "points": 98,
+      "percentage": 179.02,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "BLTC",
+      "wins": 9,
+      "points": 86,
+      "percentage": 141.04,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Caulfield Rec 1",
+      "wins": 6,
+      "points": 61,
+      "percentage": 96.38,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Black Rock",
+      "wins": 6,
+      "points": 59,
+      "percentage": 97.9,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St Andrews MB BG",
+      "wins": 5,
+      "points": 50,
+      "percentage": 87.69,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Murrumbeena",
+      "wins": 4,
+      "points": 49,
+      "percentage": 91.1,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Maccabi",
+      "wins": 1,
+      "points": 17,
+      "percentage": 49.49,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA24-UA020",
+  "fixtures": 59,
+  "completed_fixtures": 45,
+  "draw_fixtures": 45,
+  "singles_rubbers": 180,
+  "doubles_rubbers": 90,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,173 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA014011,05 Feb 23,1,Kings Park Blue,Kings Park Red,No. 1,Yoon Lee,Rhyle Vaz,Yoon Lee,6-2,6,2,1,0,Completed,true,true,true
+UA014011,05 Feb 23,1,Kings Park Blue,Kings Park Red,No. 2,Shiven Lal,Zeyi Xu,Zeyi Xu,1-6,1,6,0,1,Completed,true,false,false
+UA014011,05 Feb 23,1,Kings Park Blue,Kings Park Red,No. 3,Maja O'Sullivan,Julian Wang,Maja O'Sullivan,6-4,6,4,1,0,Completed,true,false,false
+UA014011,05 Feb 23,1,Kings Park Blue,Kings Park Red,No. 4,Evelyn Pajovic,Jamie Dodd,Jamie Dodd,3-6,3,6,0,1,Completed,true,true,true
+UA014012,05 Feb 23,1,Royal Ave,Carmelite,No. 1,Sia Kasapidis,Charlie-Grace Galanis,Charlie-Grace Galanis,1-6,1,6,0,1,Completed,true,false,false
+UA014012,05 Feb 23,1,Royal Ave,Carmelite,No. 2,Tiras Kasapidis,Jocelyn Doig,Tiras Kasapidis,6-2,6,2,1,0,Completed,true,false,false
+UA014012,05 Feb 23,1,Royal Ave,Carmelite,No. 3,Max Hunt,Olivia Anderson,Olivia Anderson,0-6,0,6,0,1,Completed,true,false,false
+UA014012,05 Feb 23,1,Royal Ave,Carmelite,No. 4,Aidan Britt,Elise Doig,Elise Doig,0-6,0,6,0,1,Completed,true,false,false
+UA014013,05 Feb 23,1,GPHC,Parkdale,No. 1,Sam Price,Abigail Arculus,Abigail Arculus,0-6,0,6,0,1,Completed,true,false,false
+UA014013,05 Feb 23,1,GPHC,Parkdale,No. 2,Eli Jeffreys,Georgia Bellette,Eli Jeffreys,6-1,6,1,1,0,Completed,true,false,false
+UA014013,05 Feb 23,1,GPHC,Parkdale,No. 3,Oliver Chew,Ilinca Di Suciu,Oliver Chew,6-1,6,1,1,0,Completed,true,false,false
+UA014013,05 Feb 23,1,GPHC,Parkdale,No. 4,Benjamin Joyce,Matt Bradley,Benjamin Joyce,6-4,6,4,1,0,Completed,true,false,false
+UA014014,05 Feb 23,1,St Pats Mentone,BLTC,No. 1,Patrick Begic,Riley Luong,Patrick Begic,6-4,6,4,1,0,Completed,true,false,false
+UA014014,05 Feb 23,1,St Pats Mentone,BLTC,No. 2,Tom Vella,Zara Measures,Tom Vella,6-4,6,4,1,0,Completed,true,false,false
+UA014014,05 Feb 23,1,St Pats Mentone,BLTC,No. 3,Ollie Clifton,Jerry He,Ollie Clifton,6-3,6,3,1,0,Completed,true,false,false
+UA014014,05 Feb 23,1,St Pats Mentone,BLTC,No. 4,Blake Schiffner,Phillip Brophy,Phillip Brophy,3-6,3,6,0,1,Completed,true,false,false
+UA014021,12 Feb 23,2,BLTC,Kings Park Blue,No. 1,Riley Luong,Shiven Lal,Riley Luong,6-1,6,1,1,0,Completed,true,false,false
+UA014021,12 Feb 23,2,BLTC,Kings Park Blue,No. 2,Zara Measures,Maja O'Sullivan,Zara Measures,6-2,6,2,1,0,Completed,true,false,false
+UA014021,12 Feb 23,2,BLTC,Kings Park Blue,No. 3,Jerry He,Annabelle Liu,Jerry He,6-1,6,1,1,0,Completed,true,false,false
+UA014021,12 Feb 23,2,BLTC,Kings Park Blue,No. 4,Anatoly Dashkevich,Alyvia Liew,Anatoly Dashkevich,6-0,6,0,1,0,Completed,true,false,true
+UA014022,12 Feb 23,2,Kings Park Red,Royal Ave,No. 1,Rhyle Vaz,Stuart Hunt,Rhyle Vaz,6-0,6,0,1,0,Completed,true,true,false
+UA014022,12 Feb 23,2,Kings Park Red,Royal Ave,No. 2,Zeyi Xu,Max Hunt,Zeyi Xu,6-0,6,0,1,0,Completed,true,false,false
+UA014022,12 Feb 23,2,Kings Park Red,Royal Ave,No. 3,Julian Wang,Aidan Britt,Julian Wang,6-2,6,2,1,0,Completed,true,false,false
+UA014022,12 Feb 23,2,Kings Park Red,Royal Ave,No. 4,Jamie Dodd,Sia Kasapidis,Jamie Dodd,6-0,6,0,1,0,Completed,true,true,false
+UA014023,12 Feb 23,2,Carmelite,GPHC,No. 1,Charlie-Grace Galanis,Sam Price,Sam Price,5-7,5,7,0,1,Completed,true,false,false
+UA014023,12 Feb 23,2,Carmelite,GPHC,No. 2,Jocelyn Doig,Julia Scott,Julia Scott,1-6,1,6,0,1,Completed,true,false,false
+UA014023,12 Feb 23,2,Carmelite,GPHC,No. 3,Olivia Anderson,Oliver Chew,Oliver Chew,2-6,2,6,0,1,Completed,true,false,false
+UA014023,12 Feb 23,2,Carmelite,GPHC,No. 4,Elise Doig,Owen Burns,Owen Burns,0-6,0,6,0,1,Completed,true,false,false
+UA014024,12 Feb 23,2,Parkdale,St Pats Mentone,No. 1,Abigail Arculus,Tom Vella,Tom Vella,2-6,2,6,0,1,Completed,true,false,false
+UA014024,12 Feb 23,2,Parkdale,St Pats Mentone,No. 2,Georgia Bellette,Ollie Clifton,Ollie Clifton,1-6,1,6,0,1,Completed,true,false,false
+UA014024,12 Feb 23,2,Parkdale,St Pats Mentone,No. 3,Matt Bradley,Blake Schiffner,Matt Bradley,6-1,6,1,1,0,Completed,true,false,false
+UA014024,12 Feb 23,2,Parkdale,St Pats Mentone,No. 4,Oscar Lewis,Justin Pregnalato,Oscar Lewis,6-4,6,4,1,0,Completed,true,false,false
+UA014031,19 Feb 23,3,Kings Park Blue,Parkdale,No. 1,Yoon Lee,Ben White,Ben White,3-6,3,6,0,1,Completed,true,true,true
+UA014031,19 Feb 23,3,Kings Park Blue,Parkdale,No. 2,Shiven Lal,Abigail Arculus,Shiven Lal,6-0,6,0,1,0,Completed,true,false,false
+UA014031,19 Feb 23,3,Kings Park Blue,Parkdale,No. 3,Evelyn Pajovic,Georgia Bellette,Evelyn Pajovic,6-0,6,0,1,0,Completed,true,true,false
+UA014031,19 Feb 23,3,Kings Park Blue,Parkdale,No. 4,Annabelle Liu,Ilinca Di Suciu,Ilinca Di Suciu,3-6,3,6,0,1,Completed,true,false,false
+UA014032,19 Feb 23,3,Royal Ave,BLTC,No. 1,Sia Kasapidis,Riley Luong,Riley Luong,1-6,1,6,0,1,Completed,true,false,false
+UA014032,19 Feb 23,3,Royal Ave,BLTC,No. 2,Tiras Kasapidis,Zara Measures,Zara Measures,2-6,2,6,0,1,Completed,true,false,false
+UA014032,19 Feb 23,3,Royal Ave,BLTC,No. 3,Aidan Britt,Jerry He,Jerry He,1-6,1,6,0,1,Completed,true,false,false
+UA014032,19 Feb 23,3,Royal Ave,BLTC,No. 4,Stuart Hunt,Anatoly Dashkevich,Anatoly Dashkevich,0-6,0,6,0,1,Completed,true,false,false
+UA014033,19 Feb 23,3,GPHC,Kings Park Red,No. 1,Julia Scott,Rhyle Vaz,Rhyle Vaz,2-6,2,6,0,1,Completed,true,false,true
+UA014033,19 Feb 23,3,GPHC,Kings Park Red,No. 2,Eli Jeffreys,Zeyi Xu,Eli Jeffreys,7-5,7,5,1,0,Completed,true,false,false
+UA014033,19 Feb 23,3,GPHC,Kings Park Red,No. 3,Benjamin Joyce,Jamie Dodd,Jamie Dodd,2-6,2,6,0,1,Completed,true,false,true
+UA014033,19 Feb 23,3,GPHC,Kings Park Red,No. 4,Owen Burns,Caelan Vekas,Owen Burns,6-4,6,4,1,0,Completed,true,false,false
+UA014034,19 Feb 23,3,St Pats Mentone,Carmelite,No. 1,Tom Vella,Charlie-Grace Galanis,Tom Vella,6-2,6,2,1,0,Completed,true,false,false
+UA014034,19 Feb 23,3,St Pats Mentone,Carmelite,No. 2,Ollie Clifton,Jocelyn Doig,Ollie Clifton,6-0,6,0,1,0,Completed,true,false,false
+UA014034,19 Feb 23,3,St Pats Mentone,Carmelite,No. 3,Blake Schiffner,Olivia Anderson,Blake Schiffner,6-1,6,1,1,0,Completed,true,false,false
+UA014034,19 Feb 23,3,St Pats Mentone,Carmelite,No. 4,Justin Pregnalato,Elise Doig,Justin Pregnalato,6-3,6,3,1,0,Completed,true,false,false
+UA014041,26 Feb 23,4,Carmelite,Kings Park Blue,No. 1,Charlie-Grace Galanis,Yoon Lee,Charlie-Grace Galanis,6-3,6,3,1,0,Completed,true,false,true
+UA014041,26 Feb 23,4,Carmelite,Kings Park Blue,No. 2,Jocelyn Doig,Maja O'Sullivan,Jocelyn Doig,6-4,6,4,1,0,Completed,true,false,false
+UA014041,26 Feb 23,4,Carmelite,Kings Park Blue,No. 3,Carmen Wilson,Evelyn Pajovic,Evelyn Pajovic,1-6,1,6,0,1,Completed,true,false,true
+UA014041,26 Feb 23,4,Carmelite,Kings Park Blue,No. 4,Zavier Galanis,Annabelle Liu,Annabelle Liu,4-6,4,6,0,1,Completed,true,true,false
+UA014042,26 Feb 23,4,Parkdale,Royal Ave,No. 1,Abigail Arculus,Sia Kasapidis,Abigail Arculus,6-2,6,2,1,0,Completed,true,false,false
+UA014042,26 Feb 23,4,Parkdale,Royal Ave,No. 2,Ilinca Di Suciu,Tiras Kasapidis,Ilinca Di Suciu,6-2,6,2,1,0,Completed,true,false,false
+UA014042,26 Feb 23,4,Parkdale,Royal Ave,No. 3,Matt Bradley,Max Hunt,Matt Bradley,6-0,6,0,1,0,Completed,true,false,false
+UA014042,26 Feb 23,4,Parkdale,Royal Ave,No. 4,Oscar Lewis,Stuart Hunt,Oscar Lewis,6-0,6,0,1,0,Completed,true,false,false
+UA014043,26 Feb 23,4,BLTC,GPHC,No. 1,Zara Measures,Sam Price,Zara Measures,6-3,6,3,1,0,Completed,true,false,false
+UA014043,26 Feb 23,4,BLTC,GPHC,No. 2,Jerry He,Julia Scott,Jerry He,6-4,6,4,1,0,Completed,true,false,false
+UA014043,26 Feb 23,4,BLTC,GPHC,No. 3,Phillip Brophy,Benjamin Joyce,Phillip Brophy,7-6,7,6,1,0,Completed,true,false,false
+UA014043,26 Feb 23,4,BLTC,GPHC,No. 4,Anatoly Dashkevich,Owen Burns,Anatoly Dashkevich,6-3,6,3,1,0,Completed,true,false,false
+UA014044,26 Feb 23,4,Kings Park Red,St Pats Mentone,No. 1,Rhyle Vaz,Tom Vella,Tom Vella,3-6,3,6,0,1,Completed,true,true,false
+UA014044,26 Feb 23,4,Kings Park Red,St Pats Mentone,No. 2,Julian Wang,Ollie Clifton,Ollie Clifton,1-6,1,6,0,1,Completed,true,false,false
+UA014044,26 Feb 23,4,Kings Park Red,St Pats Mentone,No. 3,Jamie Dodd,Blake Schiffner,Jamie Dodd,6-1,6,1,1,0,Completed,true,true,false
+UA014044,26 Feb 23,4,Kings Park Red,St Pats Mentone,No. 4,Caelan Vekas,Justin Pregnalato,Justin Pregnalato,2-6,2,6,0,1,Completed,true,false,false
+UA014051,05 Mar 23,5,GPHC,St Pats Mentone,No. 1,Sam Price,Tom Vella,Tom Vella,1-6,1,6,0,1,Completed,true,false,false
+UA014051,05 Mar 23,5,GPHC,St Pats Mentone,No. 2,Julia Scott,Ollie Clifton,Ollie Clifton,0-6,0,6,0,1,Completed,true,false,false
+UA014051,05 Mar 23,5,GPHC,St Pats Mentone,No. 3,Oliver Chew,Blake Schiffner,Oliver Chew,6-3,6,3,1,0,Completed,true,false,false
+UA014051,05 Mar 23,5,GPHC,St Pats Mentone,No. 4,Benjamin Joyce,Justin Pregnalato,Benjamin Joyce,6-3,6,3,1,0,Completed,true,false,false
+UA014052,05 Mar 23,5,BLTC,Parkdale,No. 1,Riley Luong,Georgia Bellette,Riley Luong,6-1,6,1,1,0,Completed,true,false,false
+UA014052,05 Mar 23,5,BLTC,Parkdale,No. 2,Jerry He,Ilinca Di Suciu,Ilinca Di Suciu,4-6,4,6,0,1,Completed,true,false,false
+UA014052,05 Mar 23,5,BLTC,Parkdale,No. 3,Phillip Brophy,Matt Bradley,Phillip Brophy,6-0,6,0,1,0,Completed,true,false,false
+UA014052,05 Mar 23,5,BLTC,Parkdale,No. 4,Anatoly Dashkevich,Oscar Lewis,Anatoly Dashkevich,6-1,6,1,1,0,Completed,true,false,false
+UA014053,05 Mar 23,5,Carmelite,Kings Park Red,No. 1,Charlie-Grace Galanis,Zeyi Xu,Charlie-Grace Galanis,6-2,6,2,1,0,Completed,true,false,false
+UA014053,05 Mar 23,5,Carmelite,Kings Park Red,No. 2,Olivia Anderson,Julian Wang,Julian Wang,1-6,1,6,0,1,Completed,true,false,false
+UA014053,05 Mar 23,5,Carmelite,Kings Park Red,No. 3,Carmen Wilson,Jamie Dodd,Jamie Dodd,6-7,6,7,0,1,Completed,true,false,true
+UA014053,05 Mar 23,5,Carmelite,Kings Park Red,No. 4,Zavier Galanis,Caelan Vekas,Caelan Vekas,1-6,1,6,0,1,Completed,true,true,false
+UA014054,05 Mar 23,5,Kings Park Blue,Royal Ave,No. 1,Shiven Lal,Sia Kasapidis,Shiven Lal,6-1,6,1,1,0,Completed,true,false,false
+UA014054,05 Mar 23,5,Kings Park Blue,Royal Ave,No. 2,Maja O'Sullivan,Tiras Kasapidis,Maja O'Sullivan,6-2,6,2,1,0,Completed,true,false,false
+UA014054,05 Mar 23,5,Kings Park Blue,Royal Ave,No. 3,Evelyn Pajovic,Max Hunt,Evelyn Pajovic,6-0,6,0,1,0,Completed,true,true,false
+UA014054,05 Mar 23,5,Kings Park Blue,Royal Ave,No. 4,Annabelle Liu,Stuart Hunt,Annabelle Liu,6-0,6,0,1,0,Completed,true,false,false
+UA014061,19 Mar 23,6,Royal Ave,GPHC,No. 1,Sia Kasapidis,Sam Price,Sam Price,6-7,6,7,0,1,Completed,true,false,false
+UA014061,19 Mar 23,6,Royal Ave,GPHC,No. 2,Tiras Kasapidis,Julia Scott,Tiras Kasapidis,6-2,6,2,1,0,Completed,true,false,false
+UA014061,19 Mar 23,6,Royal Ave,GPHC,No. 3,Max Hunt,Eli Jeffreys,Eli Jeffreys,0-6,0,6,0,1,Completed,true,false,false
+UA014061,19 Mar 23,6,Royal Ave,GPHC,No. 4,Stuart Hunt,Owen Burns,Owen Burns,0-6,0,6,0,1,Completed,true,false,false
+UA014062,19 Mar 23,6,St Pats Mentone,Kings Park Blue,No. 1,Patrick Begic,Yoon Lee,Patrick Begic,6-3,6,3,1,0,Completed,true,false,true
+UA014062,19 Mar 23,6,St Pats Mentone,Kings Park Blue,No. 2,Tom Vella,Shiven Lal,Tom Vella,6-4,6,4,1,0,Completed,true,false,false
+UA014062,19 Mar 23,6,St Pats Mentone,Kings Park Blue,No. 3,Ollie Clifton,Maja O'Sullivan,Ollie Clifton,6-2,6,2,1,0,Completed,true,false,false
+UA014062,19 Mar 23,6,St Pats Mentone,Kings Park Blue,No. 4,Blake Schiffner,Evelyn Pajovic,Evelyn Pajovic,1-6,1,6,0,1,Completed,true,false,true
+UA014063,19 Mar 23,6,Parkdale,Carmelite,No. 1,Ben White,Keziah Rowe,Keziah Rowe,3-6,3,6,0,1,Completed,true,true,true
+UA014063,19 Mar 23,6,Parkdale,Carmelite,No. 2,Abigail Arculus,Maceo Rowe,Abigail Arculus,6-3,6,3,1,0,Completed,true,false,true
+UA014063,19 Mar 23,6,Parkdale,Carmelite,No. 3,Ilinca Di Suciu,Olivia Anderson,Ilinca Di Suciu,6-0,6,0,1,0,Completed,true,false,false
+UA014063,19 Mar 23,6,Parkdale,Carmelite,No. 4,Matt Bradley,Carmen Wilson,Matt Bradley,6-1,6,1,1,0,Completed,true,false,false
+UA014064,19 Mar 23,6,Kings Park Red,BLTC,No. 1,Rhyle Vaz,Riley Luong,Riley Luong,2-6,2,6,0,1,Completed,true,true,false
+UA014064,19 Mar 23,6,Kings Park Red,BLTC,No. 2,Zeyi Xu,Zara Measures,Zara Measures,6-7,6,7,0,1,Completed,true,false,false
+UA014064,19 Mar 23,6,Kings Park Red,BLTC,No. 3,Julian Wang,Jerry He,Jerry He,6-7,6,7,0,1,Completed,true,false,false
+UA014064,19 Mar 23,6,Kings Park Red,BLTC,No. 4,Caelan Vekas,Phillip Brophy,Phillip Brophy,0-6,0,6,0,1,Completed,true,false,false
+UA014071,26 Mar 23,7,Kings Park Blue,GPHC,No. 1,Yoon Lee,Eli Jeffreys,Yoon Lee,6-4,6,4,1,0,Completed,true,true,false
+UA014071,26 Mar 23,7,Kings Park Blue,GPHC,No. 2,Shiven Lal,Oliver Chew,Shiven Lal,6-2,6,2,1,0,Completed,true,false,false
+UA014071,26 Mar 23,7,Kings Park Blue,GPHC,No. 3,Maja O'Sullivan,Benjamin Joyce,Benjamin Joyce,1-6,1,6,0,1,Completed,true,false,false
+UA014071,26 Mar 23,7,Kings Park Blue,GPHC,No. 4,Annabelle Liu,Owen Burns,Owen Burns,4-6,4,6,0,1,Completed,true,false,false
+UA014072,26 Mar 23,7,Royal Ave,St Pats Mentone,No. 1,Tiras Kasapidis,Patrick Begic,Patrick Begic,3-6,3,6,0,1,Completed,true,false,false
+UA014072,26 Mar 23,7,Royal Ave,St Pats Mentone,No. 2,Aidan Britt,Ollie Clifton,Ollie Clifton,0-6,0,6,0,1,Completed,true,false,false
+UA014072,26 Mar 23,7,Royal Ave,St Pats Mentone,No. 3,Max Hunt,Blake Schiffner,Blake Schiffner,0-6,0,6,0,1,Completed,true,false,false
+UA014072,26 Mar 23,7,Royal Ave,St Pats Mentone,No. 4,Stuart Hunt,Justin Pregnalato,Justin Pregnalato,2-6,2,6,0,1,Completed,true,false,false
+UA014073,26 Mar 23,7,BLTC,Carmelite,No. 1,Riley Luong,Charlie-Grace Galanis,Riley Luong,7-5,7,5,1,0,Completed,true,false,false
+UA014073,26 Mar 23,7,BLTC,Carmelite,No. 2,Zara Measures,Jocelyn Doig,Zara Measures,7-5,7,5,1,0,Completed,true,false,false
+UA014073,26 Mar 23,7,BLTC,Carmelite,No. 3,Phillip Brophy,Olivia Anderson,Phillip Brophy,6-1,6,1,1,0,Completed,true,false,false
+UA014073,26 Mar 23,7,BLTC,Carmelite,No. 4,Anatoly Dashkevich,Carmen Wilson,Anatoly Dashkevich,6-0,6,0,1,0,Completed,true,false,false
+UA014074,26 Mar 23,7,Parkdale,Kings Park Red,No. 1,Abigail Arculus,Zeyi Xu,Zeyi Xu,1-6,1,6,0,1,Completed,true,false,false
+UA014074,26 Mar 23,7,Parkdale,Kings Park Red,No. 2,Georgia Bellette,Julian Wang,Georgia Bellette,6-3,6,3,1,0,Completed,true,false,false
+UA014074,26 Mar 23,7,Parkdale,Kings Park Red,No. 3,Ilinca Di Suciu,Caelan Vekas,Ilinca Di Suciu,7-5,7,5,1,0,Completed,true,false,false
+UA014074,26 Mar 23,7,Parkdale,Kings Park Red,No. 4,Oscar Lewis,Declan Zaal,Declan Zaal,0-6,0,6,0,1,Completed,true,false,true
+UA014081,02 Apr 23,8,Kings Park Red,Kings Park Blue,No. 1,Rhyle Vaz,Yoon Lee,Yoon Lee,4-6,4,6,0,1,Completed,true,true,true
+UA014081,02 Apr 23,8,Kings Park Red,Kings Park Blue,No. 2,Zeyi Xu,Shiven Lal,Zeyi Xu,7-6,7,6,1,0,Completed,true,false,false
+UA014081,02 Apr 23,8,Kings Park Red,Kings Park Blue,No. 3,Jamie Dodd,Evelyn Pajovic,Evelyn Pajovic,1-6,1,6,0,1,Completed,true,true,true
+UA014081,02 Apr 23,8,Kings Park Red,Kings Park Blue,No. 4,Caelan Vekas,Annabelle Liu,Caelan Vekas,6-4,6,4,1,0,Completed,true,false,false
+UA014082,02 Apr 23,8,Carmelite,Royal Ave,No. 1,Charlie-Grace Galanis,Sia Kasapidis,Charlie-Grace Galanis,6-0,6,0,1,0,Completed,true,false,false
+UA014082,02 Apr 23,8,Carmelite,Royal Ave,No. 2,Jocelyn Doig,Tiras Kasapidis,Jocelyn Doig,6-4,6,4,1,0,Completed,true,false,false
+UA014082,02 Apr 23,8,Carmelite,Royal Ave,No. 3,Olivia Anderson,Max Hunt,Olivia Anderson,6-4,6,4,1,0,Completed,true,false,false
+UA014082,02 Apr 23,8,Carmelite,Royal Ave,No. 4,Elise Doig,Stuart Hunt,Elise Doig,6-1,6,1,1,0,Completed,true,false,false
+UA014083,02 Apr 23,8,Parkdale,GPHC,No. 1,Georgia Bellette,Julia Scott,Georgia Bellette,6-4,6,4,1,0,Completed,true,false,false
+UA014083,02 Apr 23,8,Parkdale,GPHC,No. 2,Ilinca Di Suciu,Eli Jeffreys,Eli Jeffreys,6-7,6,7,0,1,Completed,true,false,false
+UA014083,02 Apr 23,8,Parkdale,GPHC,No. 3,Matt Bradley,Oliver Chew,Oliver Chew,4-6,4,6,0,1,Completed,true,false,false
+UA014083,02 Apr 23,8,Parkdale,GPHC,No. 4,Oscar Lewis,Benjamin Joyce,Benjamin Joyce,1-6,1,6,0,1,Completed,true,false,false
+UA014084,02 Apr 23,8,BLTC,St Pats Mentone,No. 1,Riley Luong,Patrick Begic,Riley Luong,6-1,6,1,1,0,Completed,true,false,false
+UA014084,02 Apr 23,8,BLTC,St Pats Mentone,No. 2,Zara Measures,Tom Vella,Tom Vella,4-6,4,6,0,1,Completed,true,false,false
+UA014084,02 Apr 23,8,BLTC,St Pats Mentone,No. 3,Phillip Brophy,Ollie Clifton,Ollie Clifton,6-7,6,7,0,1,Completed,true,false,false
+UA014084,02 Apr 23,8,BLTC,St Pats Mentone,No. 4,Anatoly Dashkevich,Justin Pregnalato,Anatoly Dashkevich,6-2,6,2,1,0,Completed,true,false,false
+UA014091,30 Apr 23,9,Kings Park Blue,BLTC,No. 1,Yoon Lee,Zara Measures,Yoon Lee,7-5,7,5,1,0,Completed,true,true,false
+UA014091,30 Apr 23,9,Kings Park Blue,BLTC,No. 2,Shiven Lal,Jerry He,Jerry He,1-6,1,6,0,1,Completed,true,false,false
+UA014091,30 Apr 23,9,Kings Park Blue,BLTC,No. 3,Maja O'Sullivan,Anatoly Dashkevich,Anatoly Dashkevich,0-6,0,6,0,1,Completed,true,false,false
+UA014091,30 Apr 23,9,Kings Park Blue,BLTC,No. 4,Annabelle Liu,Jetton Becconsal,Jetton Becconsal,6-7,6,7,0,1,Completed,true,false,true
+UA014092,30 Apr 23,9,Royal Ave,Kings Park Red,No. 1,Sia Kasapidis,Zeyi Xu,Zeyi Xu,1-6,1,6,0,1,Completed,true,false,false
+UA014092,30 Apr 23,9,Royal Ave,Kings Park Red,No. 2,Tiras Kasapidis,Julian Wang,Julian Wang,4-6,4,6,0,1,Completed,true,false,false
+UA014092,30 Apr 23,9,Royal Ave,Kings Park Red,No. 3,Aidan Britt,Jamie Dodd,Jamie Dodd,4-6,4,6,0,1,Completed,true,false,true
+UA014092,30 Apr 23,9,Royal Ave,Kings Park Red,No. 4,Juliette Hostein,Caelan Vekas,Juliette Hostein,6-1,6,1,1,0,Completed,true,true,false
+UA014093,30 Apr 23,9,GPHC,Carmelite,No. 1,Sam Price,Charlie-Grace Galanis,Sam Price,6-4,6,4,1,0,Completed,true,false,false
+UA014093,30 Apr 23,9,GPHC,Carmelite,No. 2,Eli Jeffreys,Jocelyn Doig,Eli Jeffreys,6-4,6,4,1,0,Completed,true,false,false
+UA014093,30 Apr 23,9,GPHC,Carmelite,No. 3,Oliver Chew,Olivia Anderson,Oliver Chew,6-0,6,0,1,0,Completed,true,false,false
+UA014093,30 Apr 23,9,GPHC,Carmelite,No. 4,Benjamin Joyce,Elise Doig,Benjamin Joyce,6-0,6,0,1,0,Completed,true,false,false
+UA014094,30 Apr 23,9,St Pats Mentone,Parkdale,No. 1,Tom Vella,Abigail Arculus,Tom Vella,6-3,6,3,1,0,Completed,true,false,false
+UA014094,30 Apr 23,9,St Pats Mentone,Parkdale,No. 2,Patrick Begic,Ilinca Di Suciu,Patrick Begic,6-0,6,0,1,0,Completed,true,false,false
+UA014094,30 Apr 23,9,St Pats Mentone,Parkdale,No. 3,Blake Schiffner,Matt Bradley,Blake Schiffner,6-0,6,0,1,0,Completed,true,false,false
+UA014094,30 Apr 23,9,St Pats Mentone,Parkdale,No. 4,Justin Pregnalato,Oscar Lewis,Justin Pregnalato,6-4,6,4,1,0,Completed,true,false,false
+UA014111,14 May 23,11,Kings Park Blue,Carmelite,No. 1,Yoon Lee,Charlie-Grace Galanis,Charlie-Grace Galanis,4-6,4,6,0,1,Completed,true,true,false
+UA014111,14 May 23,11,Kings Park Blue,Carmelite,No. 2,Shiven Lal,Olivia Anderson,Shiven Lal,6-0,6,0,1,0,Completed,true,false,false
+UA014111,14 May 23,11,Kings Park Blue,Carmelite,No. 3,Maja O'Sullivan,Elise Doig,Maja O'Sullivan,6-1,6,1,1,0,Completed,true,false,false
+UA014111,14 May 23,11,Kings Park Blue,Carmelite,No. 4,Annabelle Liu,Carmen Wilson,Carmen Wilson,5-7,5,7,0,1,Completed,true,false,false
+UA014112,14 May 23,11,Royal Ave,Parkdale,No. 1,Sia Kasapidis,Abigail Arculus,Sia Kasapidis,6-4,6,4,1,0,Completed,true,false,false
+UA014112,14 May 23,11,Royal Ave,Parkdale,No. 2,Tiras Kasapidis,Georgia Bellette,Tiras Kasapidis,6-2,6,2,1,0,Completed,true,false,false
+UA014112,14 May 23,11,Royal Ave,Parkdale,No. 3,Max Hunt,Ilinca Di Suciu,Ilinca Di Suciu,0-6,0,6,0,1,Completed,true,false,false
+UA014112,14 May 23,11,Royal Ave,Parkdale,No. 4,Stuart Hunt,Matt Bradley,Matt Bradley,0-6,0,6,0,1,Completed,true,false,false
+UA014113,14 May 23,11,GPHC,BLTC,No. 1,Sam Price,Riley Luong,Riley Luong,0-6,0,6,0,1,Completed,true,false,false
+UA014113,14 May 23,11,GPHC,BLTC,No. 2,Julia Scott,Zara Measures,Zara Measures,4-6,4,6,0,1,Completed,true,false,false
+UA014113,14 May 23,11,GPHC,BLTC,No. 3,Oliver Chew,Jerry He,Oliver Chew,6-2,6,2,1,0,Completed,true,false,false
+UA014113,14 May 23,11,GPHC,BLTC,No. 4,Benjamin Joyce,Phillip Brophy,Phillip Brophy,0-6,0,6,0,1,Completed,true,false,false
+UA014114,14 May 23,11,St Pats Mentone,Kings Park Red,No. 1,Tom Vella,Zeyi Xu,Zeyi Xu,3-6,3,6,0,1,Completed,true,false,false
+UA014114,14 May 23,11,St Pats Mentone,Kings Park Red,No. 2,Ollie Clifton,Julian Wang,Ollie Clifton,6-2,6,2,1,0,Completed,true,false,false
+UA014114,14 May 23,11,St Pats Mentone,Kings Park Red,No. 3,Patrick Begic,Jamie Dodd,Jamie Dodd,0-6,0,6,0,1,Completed,true,false,true
+UA014114,14 May 23,11,St Pats Mentone,Kings Park Red,No. 4,Justin Pregnalato,Caelan Vekas,Justin Pregnalato,6-2,6,2,1,0,Completed,true,false,false
+UA014301,,16,BLTC,Kings Park Blue,No. 1,Riley Luong,Yoon Lee,Riley Luong,6-2,6,2,1,0,Completed,true,false,true
+UA014301,,16,BLTC,Kings Park Blue,No. 2,Zara Measures,Shiven Lal,Zara Measures,6-1,6,1,1,0,Completed,true,false,false
+UA014301,,16,BLTC,Kings Park Blue,No. 3,Phillip Brophy,Maja O'Sullivan,Phillip Brophy,6-3,6,3,1,0,Completed,true,false,false
+UA014301,,16,BLTC,Kings Park Blue,No. 4,Anatoly Dashkevich,Annabelle Liu,Anatoly Dashkevich,6-0,6,0,1,0,Completed,true,false,false
+UA014302,,16,St Pats Mentone,GPHC,No. 1,Tom Vella,Sam Price,Tom Vella,6-3,6,3,1,0,Completed,true,false,false
+UA014302,,16,St Pats Mentone,GPHC,No. 2,Ollie Clifton,Eli Jeffreys,Ollie Clifton,6-1,6,1,1,0,Completed,true,false,false
+UA014302,,16,St Pats Mentone,GPHC,No. 3,Patrick Begic,Oliver Chew,Patrick Begic,6-4,6,4,1,0,Completed,true,false,false
+UA014302,,16,St Pats Mentone,GPHC,No. 4,Blake Schiffner,Owen Burns,Owen Burns,2-6,2,6,0,1,Completed,true,false,false
+UA014321,,17,BLTC,St Pats Mentone,No. 1,Riley Luong,Tom Vella,Riley Luong,7-5,7,5,1,0,Completed,true,false,false
+UA014321,,17,BLTC,St Pats Mentone,No. 2,Zara Measures,Ollie Clifton,Ollie Clifton,4-6,4,6,0,1,Completed,true,false,false
+UA014321,,17,BLTC,St Pats Mentone,No. 3,Phillip Brophy,Patrick Begic,Patrick Begic,4-6,4,6,0,1,Completed,true,false,false
+UA014321,,17,BLTC,St Pats Mentone,No. 4,Anatoly Dashkevich,Justin Pregnalato,Anatoly Dashkevich,6-0,6,0,1,0,Completed,true,false,false

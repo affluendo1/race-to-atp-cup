@@ -1,0 +1,133 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA021011,31 Jan 21,1,Royal South Yarra,Dendy Park,No. 1,Lucy Negri,Sasha Rees,Lucy Negri,6-0,6,0,1,0,Completed,true,false,false
+UA021011,31 Jan 21,1,Royal South Yarra,Dendy Park,No. 2,Lucy Staple,Jack Sampson,Jack Sampson,0-6,0,6,0,1,Completed,true,false,false
+UA021011,31 Jan 21,1,Royal South Yarra,Dendy Park,No. 3,Clem Evans,Michaela Maddams,Michaela Maddams,0-6,0,6,0,1,Completed,true,false,false
+UA021011,31 Jan 21,1,Royal South Yarra,Dendy Park,No. 4,Will Staple,Pei Ting,Will Staple,6-1,6,1,1,0,Completed,true,false,false
+UA021012,31 Jan 21,1,BLTC,GPHC MLC,No. 1,Andrew McIntyre,Levi Goulding,Andrew McIntyre,6-2,6,2,1,0,Completed,true,false,false
+UA021012,31 Jan 21,1,BLTC,GPHC MLC,No. 2,Noah Anderson,Kabeer Majumdar,Noah Anderson,6-2,6,2,1,0,Completed,true,false,false
+UA021012,31 Jan 21,1,BLTC,GPHC MLC,No. 3,Zane Rushton,Owen Burns,Zane Rushton,6-1,6,1,1,0,Completed,true,false,false
+UA021012,31 Jan 21,1,BLTC,GPHC MLC,No. 4,Jimmy Rushton,Hunter Gatt,Jimmy Rushton,6-1,6,1,1,0,Completed,true,false,false
+UA021014,31 Jan 21,1,Royal Ave 1,Royal Ave 2,No. 1,Ella Hill,Jake Barr,Jake Barr,4-6,4,6,0,1,Completed,true,true,true
+UA021014,31 Jan 21,1,Royal Ave 1,Royal Ave 2,No. 2,Victoria Bukharenko,Charlotte Henry,Charlotte Henry,4-6,4,6,0,1,Completed,true,false,false
+UA021014,31 Jan 21,1,Royal Ave 1,Royal Ave 2,No. 3,Lily MacKenzie,Liam O'Donnell,Lily MacKenzie,6-4,6,4,1,0,Completed,true,false,true
+UA021014,31 Jan 21,1,Royal Ave 1,Royal Ave 2,No. 4,Georgia Atkinson,Amelia Haber,Amelia Haber,0-6,0,6,0,1,Completed,true,false,false
+UA021021,07 Feb 21,2,Royal Ave 2,Royal South Yarra,No. 1,Jake Barr,Lucy Negri,Jake Barr,6-1,6,1,1,0,Completed,true,true,false
+UA021021,07 Feb 21,2,Royal Ave 2,Royal South Yarra,No. 2,Charlotte Henry,Clem Evans,Clem Evans,0-6,0,6,0,1,Completed,true,false,false
+UA021021,07 Feb 21,2,Royal Ave 2,Royal South Yarra,No. 3,Liam O'Donnell,Julia Lin,Julia Lin,6-7,6,7,0,1,Completed,true,true,false
+UA021021,07 Feb 21,2,Royal Ave 2,Royal South Yarra,No. 4,Rosie Barr,Annabel Atkins,Rosie Barr,6-0,6,0,1,0,Completed,true,false,false
+UA021022,07 Feb 21,2,Dendy Park,BLTC,No. 1,Michaela Maddams,Andrew McIntyre,Andrew McIntyre,3-6,3,6,0,1,Completed,true,false,false
+UA021022,07 Feb 21,2,Dendy Park,BLTC,No. 2,Jack Sampson,Noah Anderson,Noah Anderson,6-7,6,7,0,1,Completed,true,false,false
+UA021022,07 Feb 21,2,Dendy Park,BLTC,No. 3,Sasha Rees,Ryder Anderson,Sasha Rees,7-6,7,6,1,0,Completed,true,false,false
+UA021022,07 Feb 21,2,Dendy Park,BLTC,No. 4,Pei Ting,Jakub Szymanski,Jakub Szymanski,0-6,0,6,0,1,Completed,true,false,true
+UA021041,21 Feb 21,4,GPHC MLC,Royal South Yarra,No. 1,Joseph Karalapillai,Lucy Negri,Joseph Karalapillai,6-4,6,4,1,0,Completed,true,false,false
+UA021041,21 Feb 21,4,GPHC MLC,Royal South Yarra,No. 2,Kabeer Majumdar,Harriet Hutchins,Harriet Hutchins,4-6,4,6,0,1,Completed,true,false,false
+UA021041,21 Feb 21,4,GPHC MLC,Royal South Yarra,No. 3,Levi Goulding,Annabel Atkins,Annabel Atkins,0-6,0,6,0,1,Completed,true,false,false
+UA021041,21 Feb 21,4,GPHC MLC,Royal South Yarra,No. 4,Owen Burns,Will Staple,Owen Burns,6-0,6,0,1,0,Completed,true,false,false
+UA021043,21 Feb 21,4,Royal Ave 2,Parkdale 1,No. 1,Jake Barr,Tiffany Nikolakopoulos,Tiffany Nikolakopoulos,1-6,1,6,0,1,Completed,true,true,false
+UA021043,21 Feb 21,4,Royal Ave 2,Parkdale 1,No. 2,Liam O'Donnell,Mia Bellette,Mia Bellette,1-6,1,6,0,1,Completed,true,true,false
+UA021043,21 Feb 21,4,Royal Ave 2,Parkdale 1,No. 3,Amelia Haber,Abigail Arculus,Abigail Arculus,1-6,1,6,0,1,Completed,true,false,false
+UA021043,21 Feb 21,4,Royal Ave 2,Parkdale 1,No. 4,Rosie Barr,Brad Arculus,Brad Arculus,0-6,0,6,0,1,Completed,true,false,false
+UA021044,21 Feb 21,4,Dendy Park,Royal Ave 1,No. 1,Michaela Maddams,Ella Hill,Ella Hill,2-6,2,6,0,1,Completed,true,false,true
+UA021044,21 Feb 21,4,Dendy Park,Royal Ave 1,No. 2,Jack Sampson,Lily MacKenzie,Jack Sampson,6-2,6,2,1,0,Completed,true,false,false
+UA021044,21 Feb 21,4,Dendy Park,Royal Ave 1,No. 3,Sasha Rees,Victoria Bukharenko,Victoria Bukharenko,1-6,1,6,0,1,Completed,true,false,false
+UA021044,21 Feb 21,4,Dendy Park,Royal Ave 1,No. 4,Pei Ting,Audrey Mayar-burstall,Audrey Mayar-burstall,3-6,3,6,0,1,Completed,true,false,false
+UA021051,28 Feb 21,5,Parkdale 1,Royal Ave 1,No. 1,Alexander Collins,Georgia Atkinson,Alexander Collins,6-1,6,1,1,0,Completed,true,false,false
+UA021051,28 Feb 21,5,Parkdale 1,Royal Ave 1,No. 2,Ilinca Di Siciu,Adara Reddy,Ilinca Di Siciu,6-3,6,3,1,0,Completed,true,false,false
+UA021051,28 Feb 21,5,Parkdale 1,Royal Ave 1,No. 3,Mia Bellette,Lily MacKenzie,Lily MacKenzie,4-6,4,6,0,1,Completed,true,false,false
+UA021051,28 Feb 21,5,Parkdale 1,Royal Ave 1,No. 4,Rohan Patel,Victoria Bukharenko,Victoria Bukharenko,3-6,3,6,0,1,Completed,true,false,false
+UA021053,28 Feb 21,5,GPHC MLC,Dendy Park,No. 1,Joseph Karalapillai,Michaela Maddams,Michaela Maddams,3-6,3,6,0,1,Completed,true,false,false
+UA021053,28 Feb 21,5,GPHC MLC,Dendy Park,No. 2,[Unnamed player — TROLS UA021053 home code 2],Jack Sampson,Jack Sampson,0-6,0,6,0,1,Completed,false,false,false
+UA021053,28 Feb 21,5,GPHC MLC,Dendy Park,No. 3,Kabeer Majumdar,Sasha Rees,Sasha Rees,6-7,6,7,0,1,Completed,true,false,false
+UA021053,28 Feb 21,5,GPHC MLC,Dendy Park,No. 4,Hunter Gatt,Pei Ting,Hunter Gatt,6-3,6,3,1,0,Completed,true,false,false
+UA021054,28 Feb 21,5,Royal South Yarra,BLTC,No. 1,Lucy Staple,Noah Anderson,Lucy Staple,7-5,7,5,1,0,Completed,true,false,false
+UA021054,28 Feb 21,5,Royal South Yarra,BLTC,No. 2,Harriet Hutchins,Zane Rushton,Zane Rushton,3-6,3,6,0,1,Completed,true,false,false
+UA021054,28 Feb 21,5,Royal South Yarra,BLTC,No. 3,Annabel Atkins,Ryder Anderson,Annabel Atkins,6-0,6,0,1,0,Completed,true,false,false
+UA021054,28 Feb 21,5,Royal South Yarra,BLTC,No. 4,Will Staple,Jimmy Rushton,Will Staple,6-0,6,0,1,0,Completed,true,false,false
+UA021061,14 Mar 21,6,BLTC,Parkdale 1,No. 1,Andrew McIntyre,Ilinca Di Siciu,Andrew McIntyre,6-1,6,1,1,0,Completed,true,false,false
+UA021061,14 Mar 21,6,BLTC,Parkdale 1,No. 2,Zane Rushton,Rohan Patel,Zane Rushton,7-5,7,5,1,0,Completed,true,false,false
+UA021061,14 Mar 21,6,BLTC,Parkdale 1,No. 3,Jimmy Rushton,Brad Arculus,Jimmy Rushton,6-4,6,4,1,0,Completed,true,false,false
+UA021061,14 Mar 21,6,BLTC,Parkdale 1,No. 4,Ryder Anderson,Oscar Gohel,Ryder Anderson,6-3,6,3,1,0,Completed,true,false,false
+UA021062,14 Mar 21,6,Royal Ave 1,Royal South Yarra,No. 1,Ella Hill,Lucy Negri,Ella Hill,6-0,6,0,1,0,Completed,true,true,false
+UA021062,14 Mar 21,6,Royal Ave 1,Royal South Yarra,No. 2,Georgia Atkinson,Clem Evans,Georgia Atkinson,6-1,6,1,1,0,Completed,true,false,false
+UA021062,14 Mar 21,6,Royal Ave 1,Royal South Yarra,No. 3,Adara Reddy,Harriet Hutchins,Harriet Hutchins,4-6,4,6,0,1,Completed,true,false,false
+UA021062,14 Mar 21,6,Royal Ave 1,Royal South Yarra,No. 4,Victoria Bukharenko,Annabel Atkins,Victoria Bukharenko,6-4,6,4,1,0,Completed,true,false,false
+UA021072,21 Mar 21,7,BLTC,Royal Ave 1,No. 1,Andrew McIntyre,Ella Hill,Ella Hill,1-6,1,6,0,1,Completed,true,false,true
+UA021072,21 Mar 21,7,BLTC,Royal Ave 1,No. 2,Noah Anderson,Lily MacKenzie,Lily MacKenzie,6-7,6,7,0,1,Completed,true,false,false
+UA021072,21 Mar 21,7,BLTC,Royal Ave 1,No. 3,Zane Rushton,Victoria Bukharenko,Victoria Bukharenko,1-6,1,6,0,1,Completed,true,false,false
+UA021072,21 Mar 21,7,BLTC,Royal Ave 1,No. 4,Jimmy Rushton,Audrey Mayar-burstall,Jimmy Rushton,6-4,6,4,1,0,Completed,true,false,false
+UA021073,21 Mar 21,7,Royal Ave 2,GPHC MLC,No. 1,Charlotte Henry,Joseph Karalapillai,Joseph Karalapillai,2-6,2,6,0,1,Completed,true,false,false
+UA021073,21 Mar 21,7,Royal Ave 2,GPHC MLC,No. 2,Liam O'Donnell,Levi Goulding,Liam O'Donnell,6-0,6,0,1,0,Completed,true,true,false
+UA021073,21 Mar 21,7,Royal Ave 2,GPHC MLC,No. 3,Amelia Haber,Kabeer Majumdar,Kabeer Majumdar,1-6,1,6,0,1,Completed,true,false,false
+UA021073,21 Mar 21,7,Royal Ave 2,GPHC MLC,No. 4,Rosie Barr,Hunter Gatt,Hunter Gatt,2-6,2,6,0,1,Completed,true,false,false
+UA021081,28 Mar 21,8,Dendy Park,Royal South Yarra,No. 1,Jack Sampson,Lucy Negri,Jack Sampson,6-3,6,3,1,0,Completed,true,false,false
+UA021081,28 Mar 21,8,Dendy Park,Royal South Yarra,No. 2,Sasha Rees,Lucy Staple,Sasha Rees,6-1,6,1,1,0,Completed,true,false,false
+UA021081,28 Mar 21,8,Dendy Park,Royal South Yarra,No. 3,Jacob Smith,Annabel Atkins,Annabel Atkins,2-6,2,6,0,1,Completed,true,true,false
+UA021081,28 Mar 21,8,Dendy Park,Royal South Yarra,No. 4,Pei Ting,Will Staple,Will Staple,3-6,3,6,0,1,Completed,true,false,false
+UA021082,28 Mar 21,8,GPHC MLC,BLTC,No. 1,Joseph Karalapillai,Andrew McIntyre,Joseph Karalapillai,7-5,7,5,1,0,Completed,true,false,false
+UA021082,28 Mar 21,8,GPHC MLC,BLTC,No. 2,Michael Jessop,Noah Anderson,Noah Anderson,1-6,1,6,0,1,Completed,true,false,false
+UA021082,28 Mar 21,8,GPHC MLC,BLTC,No. 3,Kabeer Majumdar,Zane Rushton,Kabeer Majumdar,6-4,6,4,1,0,Completed,true,false,false
+UA021082,28 Mar 21,8,GPHC MLC,BLTC,No. 4,Owen Burns,Ryder Anderson,Owen Burns,6-0,6,0,1,0,Completed,true,false,false
+UA021084,28 Mar 21,8,Royal Ave 2,Royal Ave 1,No. 1,Jake Barr,Georgia Atkinson,Jake Barr,6-1,6,1,1,0,Completed,true,true,false
+UA021084,28 Mar 21,8,Royal Ave 2,Royal Ave 1,No. 2,Liam O'Donnell,Adara Reddy,Liam O'Donnell,6-2,6,2,1,0,Completed,true,true,false
+UA021084,28 Mar 21,8,Royal Ave 2,Royal Ave 1,No. 3,Amelia Haber,Lily MacKenzie,Lily MacKenzie,2-6,2,6,0,1,Completed,true,false,false
+UA021084,28 Mar 21,8,Royal Ave 2,Royal Ave 1,No. 4,Rosie Barr,Victoria Bukharenko,Victoria Bukharenko,0-6,0,6,0,1,Completed,true,false,false
+UA021091,02 May 21,9,Royal South Yarra,Royal Ave 2,No. 1,Clem Evans,Jake Barr,Jake Barr,0-6,0,6,0,1,Completed,true,false,true
+UA021091,02 May 21,9,Royal South Yarra,Royal Ave 2,No. 2,Lucy Negri,Charlotte Henry,Charlotte Henry,0-6,0,6,0,1,Completed,true,false,false
+UA021091,02 May 21,9,Royal South Yarra,Royal Ave 2,No. 3,Harriet Hutchins,Amelia Haber,Harriet Hutchins,6-3,6,3,1,0,Completed,true,false,false
+UA021091,02 May 21,9,Royal South Yarra,Royal Ave 2,No. 4,Annabel Atkins,Rosie Barr,Annabel Atkins,6-1,6,1,1,0,Completed,true,false,false
+UA021092,02 May 21,9,BLTC,Dendy Park,No. 1,Andrew McIntyre,Jack Sampson,Jack Sampson,1-6,1,6,0,1,Completed,true,false,false
+UA021092,02 May 21,9,BLTC,Dendy Park,No. 2,Noah Anderson,Sasha Rees,Noah Anderson,6-1,6,1,1,0,Completed,true,false,false
+UA021092,02 May 21,9,BLTC,Dendy Park,No. 3,Zane Rushton,Pei Ting,Zane Rushton,6-0,6,0,1,0,Completed,true,false,false
+UA021092,02 May 21,9,BLTC,Dendy Park,No. 4,Ryder Anderson,Jacob Pho,Ryder Anderson,6-0,6,0,1,0,Completed,true,false,false
+UA021093,02 May 21,9,Parkdale 1,GPHC MLC,No. 1,Ilinca Di Siciu,Joseph Karalapillai,Joseph Karalapillai,2-6,2,6,0,1,Completed,true,false,false
+UA021093,02 May 21,9,Parkdale 1,GPHC MLC,No. 2,Mia Bellette,Hunter Gatt,Mia Bellette,7-5,7,5,1,0,Completed,true,false,false
+UA021093,02 May 21,9,Parkdale 1,GPHC MLC,No. 3,Abigail Arculus,Michael Jessop,Abigail Arculus,7-6,7,6,1,0,Completed,true,false,false
+UA021093,02 May 21,9,Parkdale 1,GPHC MLC,No. 4,Brad Arculus,Levi Goulding,Brad Arculus,6-0,6,0,1,0,Completed,true,false,false
+UA021102,09 May 21,10,Royal Ave 2,BLTC,No. 1,Charlotte Henry,Andrew McIntyre,Andrew McIntyre,4-6,4,6,0,1,Completed,true,false,false
+UA021102,09 May 21,10,Royal Ave 2,BLTC,No. 2,Liam O'Donnell,Noah Anderson,Liam O'Donnell,6-4,6,4,1,0,Completed,true,true,false
+UA021102,09 May 21,10,Royal Ave 2,BLTC,No. 3,Amelia Haber,Jimmy Rushton,Jimmy Rushton,1-6,1,6,0,1,Completed,true,false,false
+UA021102,09 May 21,10,Royal Ave 2,BLTC,No. 4,Rosie Barr,Ryder Anderson,Ryder Anderson,0-6,0,6,0,1,Completed,true,false,false
+UA021103,09 May 21,10,Dendy Park,Parkdale 1,No. 1,Jack Sampson,Tiffany Nikolakopoulos,Jack Sampson,6-2,6,2,1,0,Completed,true,false,false
+UA021103,09 May 21,10,Dendy Park,Parkdale 1,No. 2,Sasha Rees,Abigail Arculus,Abigail Arculus,2-6,2,6,0,1,Completed,true,false,false
+UA021103,09 May 21,10,Dendy Park,Parkdale 1,No. 3,Aria Solanki,Brad Arculus,Brad Arculus,2-6,2,6,0,1,Completed,true,true,false
+UA021103,09 May 21,10,Dendy Park,Parkdale 1,No. 4,Jacob Pho,Oscar Gohel,Oscar Gohel,0-6,0,6,0,1,Completed,true,false,false
+UA021104,09 May 21,10,GPHC MLC,Royal Ave 1,No. 1,Joseph Karalapillai,Amelia Haber,Joseph Karalapillai,6-0,6,0,1,0,Completed,true,false,true
+UA021104,09 May 21,10,GPHC MLC,Royal Ave 1,No. 2,Kabeer Majumdar,Georgia Atkinson,Georgia Atkinson,4-6,4,6,0,1,Completed,true,false,false
+UA021104,09 May 21,10,GPHC MLC,Royal Ave 1,No. 3,Levi Goulding,Adara Reddy,Adara Reddy,0-6,0,6,0,1,Completed,true,false,false
+UA021104,09 May 21,10,GPHC MLC,Royal Ave 1,No. 4,Lachlan Downs,Noah Bradley,Noah Bradley,0-6,0,6,0,1,Completed,true,true,true
+UA021111,16 May 21,11,Royal South Yarra,GPHC MLC,No. 1,Lucy Negri,Owen Burns,Owen Burns,3-6,3,6,0,1,Completed,true,false,false
+UA021111,16 May 21,11,Royal South Yarra,GPHC MLC,No. 2,Lucy Staple,Hunter Gatt,Lucy Staple,6-2,6,2,1,0,Completed,true,false,false
+UA021111,16 May 21,11,Royal South Yarra,GPHC MLC,No. 3,Clem Evans,Michael Jessop,Clem Evans,7-6,7,6,1,0,Completed,true,false,false
+UA021111,16 May 21,11,Royal South Yarra,GPHC MLC,No. 4,Annabel Atkins,Kabeer Majumdar,Annabel Atkins,6-0,6,0,1,0,Completed,true,false,false
+UA021113,16 May 21,11,Parkdale 1,Royal Ave 2,No. 1,Alexander Collins,Jake Barr,Alexander Collins,6-1,6,1,1,0,Completed,true,false,true
+UA021113,16 May 21,11,Parkdale 1,Royal Ave 2,No. 2,Tiffany Nikolakopoulos,Charlotte Henry,Tiffany Nikolakopoulos,6-2,6,2,1,0,Completed,true,false,false
+UA021113,16 May 21,11,Parkdale 1,Royal Ave 2,No. 3,Ilinca Di Siciu,Liam O'Donnell,Ilinca Di Siciu,6-1,6,1,1,0,Completed,true,false,true
+UA021113,16 May 21,11,Parkdale 1,Royal Ave 2,No. 4,Mia Bellette,Rosie Barr,Mia Bellette,6-0,6,0,1,0,Completed,true,false,false
+UA021114,16 May 21,11,Royal Ave 1,Dendy Park,No. 1,Ella Hill,Jack Sampson,Ella Hill,6-3,6,3,1,0,Completed,true,true,false
+UA021114,16 May 21,11,Royal Ave 1,Dendy Park,No. 2,Lily MacKenzie,Jacob Pho,Lily MacKenzie,6-0,6,0,1,0,Completed,true,false,false
+UA021114,16 May 21,11,Royal Ave 1,Dendy Park,No. 3,Victoria Bukharenko,Aria Solanki,Victoria Bukharenko,6-1,6,1,1,0,Completed,true,false,true
+UA021114,16 May 21,11,Royal Ave 1,Dendy Park,No. 4,Audrey Mayar-burstall,Pei Ting,Audrey Mayar-burstall,6-3,6,3,1,0,Completed,true,false,false
+UA021121,23 May 21,12,Royal Ave 1,Parkdale 1,No. 1,Georgia Atkinson,Rohan Patel,Rohan Patel,1-6,1,6,0,1,Completed,true,false,false
+UA021121,23 May 21,12,Royal Ave 1,Parkdale 1,No. 2,Adara Reddy,Abigail Arculus,Abigail Arculus,4-6,4,6,0,1,Completed,true,false,false
+UA021121,23 May 21,12,Royal Ave 1,Parkdale 1,No. 3,Lily MacKenzie,Brad Arculus,Lily MacKenzie,6-2,6,2,1,0,Completed,true,false,false
+UA021121,23 May 21,12,Royal Ave 1,Parkdale 1,No. 4,Victoria Bukharenko,Oscar Gohel,Victoria Bukharenko,6-2,6,2,1,0,Completed,true,false,false
+UA021123,23 May 21,12,Dendy Park,GPHC MLC,No. 1,Jack Sampson,Joseph Karalapillai,Jack Sampson,6-2,6,2,1,0,Completed,true,false,false
+UA021123,23 May 21,12,Dendy Park,GPHC MLC,No. 2,Sasha Rees,Owen Burns,Owen Burns,3-6,3,6,0,1,Completed,true,false,false
+UA021123,23 May 21,12,Dendy Park,GPHC MLC,No. 3,Pei Ting,Kabeer Majumdar,Kabeer Majumdar,4-6,4,6,0,1,Completed,true,false,false
+UA021123,23 May 21,12,Dendy Park,GPHC MLC,No. 4,Jacob Pho,Lachlan Downs,Jacob Pho,6-2,6,2,1,0,Completed,true,false,true
+UA021124,23 May 21,12,BLTC,Royal South Yarra,No. 1,Noah Anderson,Lucy Staple,Noah Anderson,6-0,6,0,1,0,Completed,true,false,false
+UA021124,23 May 21,12,BLTC,Royal South Yarra,No. 2,Zane Rushton,Clem Evans,Zane Rushton,6-1,6,1,1,0,Completed,true,false,false
+UA021124,23 May 21,12,BLTC,Royal South Yarra,No. 3,Jimmy Rushton,Harriet Hutchins,Jimmy Rushton,6-2,6,2,1,0,Completed,true,false,false
+UA021124,23 May 21,12,BLTC,Royal South Yarra,No. 4,Ryder Anderson,Annabel Atkins,Annabel Atkins,2-6,2,6,0,1,Completed,true,false,false
+UA021301,,16,Parkdale 1,Royal South Yarra,No. 1,Ilinca Di Siciu,Annabel Atkins,Ilinca Di Siciu,7-5,7,5,1,0,Completed,true,false,false
+UA021301,,16,Parkdale 1,Royal South Yarra,No. 2,Mia Bellette,Clem Evans,Mia Bellette,6-0,6,0,1,0,Completed,true,false,false
+UA021301,,16,Parkdale 1,Royal South Yarra,No. 3,Rohan Patel,Lucy Staple,Rohan Patel,6-2,6,2,1,0,Completed,true,false,false
+UA021301,,16,Parkdale 1,Royal South Yarra,No. 4,Abigail Arculus,Will Staple,Abigail Arculus,7-5,7,5,1,0,Completed,true,false,false
+UA021302,,16,Royal Ave 1,BLTC,No. 1,Ella Hill,Noah Anderson,Noah Anderson,3-6,3,6,0,1,Completed,true,true,false
+UA021302,,16,Royal Ave 1,BLTC,No. 2,Georgia Atkinson,Zane Rushton,Zane Rushton,4-6,4,6,0,1,Completed,true,false,false
+UA021302,,16,Royal Ave 1,BLTC,No. 3,Lily MacKenzie,Jimmy Rushton,Jimmy Rushton,2-6,2,6,0,1,Completed,true,false,false
+UA021302,,16,Royal Ave 1,BLTC,No. 4,Victoria Bukharenko,Ryder Anderson,Victoria Bukharenko,6-2,6,2,1,0,Completed,true,false,false
+UA021321,,17,Parkdale 1,BLTC,No. 1,Ilinca Di Siciu,Noah Anderson,Noah Anderson,4-6,4,6,0,1,Completed,true,false,false
+UA021321,,17,Parkdale 1,BLTC,No. 2,Mia Bellette,Zane Rushton,Zane Rushton,6-7,6,7,0,1,Completed,true,false,false
+UA021321,,17,Parkdale 1,BLTC,No. 3,Rohan Patel,Jimmy Rushton,Rohan Patel,6-4,6,4,1,0,Completed,true,false,false
+UA021321,,17,Parkdale 1,BLTC,No. 4,Abigail Arculus,Ryder Anderson,Abigail Arculus,6-2,6,2,1,0,Completed,true,false,false

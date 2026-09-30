@@ -1,0 +1,83 @@
+{
+  "asset_id": "AA41-AA001",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Spring 2017",
+  "season_id": "AA41",
+  "season_label": "Spring 2017",
+  "source_section_code": "AA001",
+  "section_label": "Juniors Autumn 2018",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite 1",
+      "wins": 8,
+      "points": 85,
+      "percentage": 163.21,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Port Melbourne Red",
+      "wins": 9,
+      "points": 81,
+      "percentage": 131.06,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Carmelite 2",
+      "wins": 6,
+      "points": 74,
+      "percentage": 118.1,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong MLC 2",
+      "wins": 7,
+      "points": 69,
+      "percentage": 113.25,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Port Melbourne Blue",
+      "wins": 4,
+      "points": 58,
+      "percentage": 97.03,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong MLC 1",
+      "wins": 2,
+      "points": 37,
+      "percentage": 78.93,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong MLC 3",
+      "wins": 0,
+      "points": 16,
+      "percentage": 43.7,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA41-AA001",
+  "fixtures": 3,
+  "completed_fixtures": 3,
+  "draw_fixtures": 3,
+  "singles_rubbers": 12,
+  "doubles_rubbers": 6,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

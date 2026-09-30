@@ -1,0 +1,221 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA004011,22 Jul 18,1,BLTC,Dendy Park,No. 1,Adam Morrow,Henri Robinson,Adam Morrow,6-1,6,1,1,0,Completed,true,false,false
+UA004011,22 Jul 18,1,BLTC,Dendy Park,No. 2,Patrick Millar,Lachlan Liberman,Patrick Millar,6-2,6,2,1,0,Completed,true,false,false
+UA004011,22 Jul 18,1,BLTC,Dendy Park,No. 3,Rhys Bellamy,Damien Hookway,Rhys Bellamy,6-4,6,4,1,0,Completed,true,false,false
+UA004011,22 Jul 18,1,BLTC,Dendy Park,No. 4,Lauren Malby-Luke,Eve Robinson,Lauren Malby-Luke,6-4,6,4,1,0,Completed,true,false,false
+UA004012,22 Jul 18,1,Kooyong 2 Scotch,Kooyong 1,No. 1,Josh Palazzo,Michael Kantanis,Michael Kantanis,5-7,5,7,0,1,Completed,true,false,false
+UA004012,22 Jul 18,1,Kooyong 2 Scotch,Kooyong 1,No. 2,Dimitri Kougias,Jamie Gough,Jamie Gough,3-6,3,6,0,1,Completed,true,false,false
+UA004012,22 Jul 18,1,Kooyong 2 Scotch,Kooyong 1,No. 3,Aidan Gall,Lachlan Tingate,Aidan Gall,7-6,7,6,1,0,Completed,true,false,false
+UA004012,22 Jul 18,1,Kooyong 2 Scotch,Kooyong 1,No. 4,Murdoch Hunter,Carrie Shi,Carrie Shi,1-6,1,6,0,1,Completed,true,false,false
+UA004013,22 Jul 18,1,Tennis World,Murrumbeena,No. 1,Wichpol Luong,Patrick Monteiro,Wichpol Luong,7-6,7,6,1,0,Completed,true,false,false
+UA004013,22 Jul 18,1,Tennis World,Murrumbeena,No. 2,Stefan Desovski,Ben Rapaport,Ben Rapaport,5-7,5,7,0,1,Completed,true,false,false
+UA004013,22 Jul 18,1,Tennis World,Murrumbeena,No. 3,Maria Francesca Cascino,Geordan Apostolou,Geordan Apostolou,1-6,1,6,0,1,Completed,true,false,false
+UA004013,22 Jul 18,1,Tennis World,Murrumbeena,No. 4,Ramida Manataweewa,Sienna Pisano,Ramida Manataweewa,6-0,6,0,1,0,Completed,true,false,false
+UA004014,22 Jul 18,1,GPHC,Highett,No. 1,Nelson Beadle,Jake Reidy,Jake Reidy,3-6,3,6,0,1,Completed,true,false,false
+UA004014,22 Jul 18,1,GPHC,Highett,No. 2,Esther White,Ethan Badcock,Ethan Badcock,2-6,2,6,0,1,Completed,true,false,false
+UA004014,22 Jul 18,1,GPHC,Highett,No. 3,Louis Taylor,Luke Womerlsey,Louis Taylor,7-6,7,6,1,0,Completed,true,false,false
+UA004014,22 Jul 18,1,GPHC,Highett,No. 4,Henry Stewart,Liam Malins,Liam Malins,4-6,4,6,0,1,Completed,true,false,false
+UA004021,29 Jul 18,2,Highett,BLTC,No. 1,Jake Reidy,Patrick Millar,Patrick Millar,1-6,1,6,0,1,Completed,true,false,false
+UA004021,29 Jul 18,2,Highett,BLTC,No. 2,Ethan Badcock,Lauren Malby-Luke,Ethan Badcock,6-3,6,3,1,0,Completed,true,false,false
+UA004021,29 Jul 18,2,Highett,BLTC,No. 3,Luke Womerlsey,Jamie Turner,Luke Womerlsey,6-2,6,2,1,0,Completed,true,false,false
+UA004021,29 Jul 18,2,Highett,BLTC,No. 4,Dylan McMaster,Xavier Carter,Dylan McMaster,6-0,6,0,1,0,Completed,true,false,false
+UA004022,29 Jul 18,2,Dendy Park,Kooyong 2 Scotch,No. 1,Filip Milenkovic,Josh Palazzo,Josh Palazzo,2-6,2,6,0,1,Completed,true,false,false
+UA004022,29 Jul 18,2,Dendy Park,Kooyong 2 Scotch,No. 2,Henry Bytheway,Zachary S Miller,Zachary S Miller,0-6,0,6,0,1,Completed,true,false,false
+UA004022,29 Jul 18,2,Dendy Park,Kooyong 2 Scotch,No. 3,Eve Robinson,Aidan Gall,Aidan Gall,2-6,2,6,0,1,Completed,true,false,false
+UA004022,29 Jul 18,2,Dendy Park,Kooyong 2 Scotch,No. 4,Charlotte Bytheway,James Di Nicolantoni,Charlotte Bytheway,6-2,6,2,1,0,Completed,true,false,false
+UA004023,29 Jul 18,2,Kooyong 1,Tennis World,No. 1,Michael Kantanis,Wichpol Luong,Wichpol Luong,0-6,0,6,0,1,Completed,true,false,false
+UA004023,29 Jul 18,2,Kooyong 1,Tennis World,No. 2,Jamie Gough,Stefan Desovski,Stefan Desovski,2-6,2,6,0,1,Completed,true,false,false
+UA004023,29 Jul 18,2,Kooyong 1,Tennis World,No. 3,Sam Nankervis,Nicolo Nardari,Nicolo Nardari,1-6,1,6,0,1,Completed,true,false,false
+UA004023,29 Jul 18,2,Kooyong 1,Tennis World,No. 4,Carrie Shi,Ramida Manataweewa,Carrie Shi,7-6,7,6,1,0,Completed,true,false,false
+UA004024,29 Jul 18,2,Murrumbeena,GPHC,No. 1,Ben Rapaport,Nelson Beadle,Nelson Beadle,1-6,1,6,0,1,Completed,true,false,false
+UA004024,29 Jul 18,2,Murrumbeena,GPHC,No. 2,Geordan Apostolou,Esther White,Geordan Apostolou,6-4,6,4,1,0,Completed,true,false,false
+UA004024,29 Jul 18,2,Murrumbeena,GPHC,No. 3,Will Hogan,Louis Taylor,Louis Taylor,3-6,3,6,0,1,Completed,true,false,false
+UA004024,29 Jul 18,2,Murrumbeena,GPHC,No. 4,Sienna Pisano,Henry Stewart,Sienna Pisano,6-4,6,4,1,0,Completed,true,false,false
+UA004031,05 Aug 18,3,BLTC,Murrumbeena,No. 1,Adam Morrow,Patrick Monteiro,Patrick Monteiro,0-6,0,6,0,1,Completed,true,false,false
+UA004031,05 Aug 18,3,BLTC,Murrumbeena,No. 2,Rhys Bellamy,Ben Rapaport,Ben Rapaport,2-6,2,6,0,1,Completed,true,false,false
+UA004031,05 Aug 18,3,BLTC,Murrumbeena,No. 3,Jamie Turner,Geordan Apostolou,Geordan Apostolou,2-6,2,6,0,1,Completed,true,false,false
+UA004031,05 Aug 18,3,BLTC,Murrumbeena,No. 4,Xavier Carter,Lucas Andaso,Xavier Carter,6-1,6,1,1,0,Completed,true,false,false
+UA004032,05 Aug 18,3,Kooyong 2 Scotch,Highett,No. 1,Josh Palazzo,Jake Reidy,Josh Palazzo,6-3,6,3,1,0,Completed,true,false,false
+UA004032,05 Aug 18,3,Kooyong 2 Scotch,Highett,No. 2,Dimitri Kougias,Ethan Badcock,Ethan Badcock,0-6,0,6,0,1,Completed,true,false,false
+UA004032,05 Aug 18,3,Kooyong 2 Scotch,Highett,No. 3,Zachary S Miller,Liam Malins,Zachary S Miller,6-1,6,1,1,0,Completed,true,false,false
+UA004032,05 Aug 18,3,Kooyong 2 Scotch,Highett,No. 4,Mia Geason,Dylan McMaster,Dylan McMaster,0-6,0,6,0,1,Completed,true,false,false
+UA004033,05 Aug 18,3,Tennis World,Dendy Park,No. 1,Wichpol Luong,Filip Milenkovic,Wichpol Luong,6-0,6,0,1,0,Completed,true,false,false
+UA004033,05 Aug 18,3,Tennis World,Dendy Park,No. 2,Stefan Desovski,Lachlan Liberman,Lachlan Liberman,3-6,3,6,0,1,Completed,true,false,false
+UA004033,05 Aug 18,3,Tennis World,Dendy Park,No. 3,Nicolo Nardari,Damien Hookway,Damien Hookway,6-7,6,7,0,1,Completed,true,false,false
+UA004033,05 Aug 18,3,Tennis World,Dendy Park,No. 4,Arden Middleton,Henry Bytheway,Henry Bytheway,3-6,3,6,0,1,Completed,true,false,false
+UA004034,05 Aug 18,3,GPHC,Kooyong 1,No. 1,Nelson Beadle,Jamie Gough,Nelson Beadle,6-3,6,3,1,0,Completed,true,false,false
+UA004034,05 Aug 18,3,GPHC,Kooyong 1,No. 2,Louis Taylor,Lachlan Tingate,Louis Taylor,6-4,6,4,1,0,Completed,true,false,false
+UA004034,05 Aug 18,3,GPHC,Kooyong 1,No. 3,Henry Stewart,Carrie Shi,Carrie Shi,2-6,2,6,0,1,Completed,true,false,false
+UA004034,05 Aug 18,3,GPHC,Kooyong 1,No. 4,Luke Gorski,Leo Morrison,Leo Morrison,4-6,4,6,0,1,Completed,true,false,false
+UA004041,12 Aug 18,4,Kooyong 1,BLTC,No. 1,Jamie Gough,Patrick Millar,Patrick Millar,1-6,1,6,0,1,Completed,true,false,false
+UA004041,12 Aug 18,4,Kooyong 1,BLTC,No. 2,Sam Nankervis,Rhys Bellamy,Rhys Bellamy,3-6,3,6,0,1,Completed,true,false,false
+UA004041,12 Aug 18,4,Kooyong 1,BLTC,No. 3,Carrie Shi,Lauren Malby-Luke,Carrie Shi,6-3,6,3,1,0,Completed,true,false,false
+UA004041,12 Aug 18,4,Kooyong 1,BLTC,No. 4,Leo Morrison,Jamie Turner,Jamie Turner,1-6,1,6,0,1,Completed,true,false,false
+UA004042,12 Aug 18,4,Murrumbeena,Kooyong 2 Scotch,No. 1,Patrick Monteiro,Josh Palazzo,Patrick Monteiro,6-2,6,2,1,0,Completed,true,false,false
+UA004042,12 Aug 18,4,Murrumbeena,Kooyong 2 Scotch,No. 2,Ben Rapaport,Zachary S Miller,Zachary S Miller,3-6,3,6,0,1,Completed,true,false,false
+UA004042,12 Aug 18,4,Murrumbeena,Kooyong 2 Scotch,No. 3,Geordan Apostolou,Dimitri Kougias,Geordan Apostolou,6-0,6,0,1,0,Completed,true,false,false
+UA004042,12 Aug 18,4,Murrumbeena,Kooyong 2 Scotch,No. 4,Will Hogan,James Di Nicolantoni,Will Hogan,6-3,6,3,1,0,Completed,true,false,false
+UA004043,12 Aug 18,4,Highett,Tennis World,No. 1,Jake Reidy,Wichpol Luong,Wichpol Luong,2-6,2,6,0,1,Completed,true,false,false
+UA004043,12 Aug 18,4,Highett,Tennis World,No. 2,Luke Womerlsey,Yuuki Hirano-James,Yuuki Hirano-James,5-7,5,7,0,1,Completed,true,false,false
+UA004043,12 Aug 18,4,Highett,Tennis World,No. 3,Liam Malins,Hudson Hopman,Hudson Hopman,3-6,3,6,0,1,Completed,true,false,false
+UA004043,12 Aug 18,4,Highett,Tennis World,No. 4,Dylan McMaster,Anika Jaswal,Dylan McMaster,6-4,6,4,1,0,Completed,true,false,false
+UA004044,12 Aug 18,4,Dendy Park,GPHC,No. 1,Filip Milenkovic,Nelson Beadle,Nelson Beadle,0-6,0,6,0,1,Completed,true,false,false
+UA004044,12 Aug 18,4,Dendy Park,GPHC,No. 2,Henri Robinson,Esther White,Esther White,5-7,5,7,0,1,Completed,true,false,false
+UA004044,12 Aug 18,4,Dendy Park,GPHC,No. 3,Lachlan Liberman,Louis Taylor,Lachlan Liberman,6-0,6,0,1,0,Completed,true,false,false
+UA004044,12 Aug 18,4,Dendy Park,GPHC,No. 4,Eve Robinson,Henry Stewart,Henry Stewart,0-6,0,6,0,1,Completed,true,false,false
+UA004061,26 Aug 18,6,Kooyong 2 Scotch,Tennis World,No. 1,Zachary S Miller,Yuuki Hirano-James,Zachary S Miller,6-3,6,3,1,0,Completed,true,false,false
+UA004061,26 Aug 18,6,Kooyong 2 Scotch,Tennis World,No. 2,Aidan Gall,Stefan Desovski,Stefan Desovski,6-7,6,7,0,1,Completed,true,false,false
+UA004061,26 Aug 18,6,Kooyong 2 Scotch,Tennis World,No. 3,Dimitri Kougias,Arden Middleton,Arden Middleton,5-7,5,7,0,1,Completed,true,false,false
+UA004061,26 Aug 18,6,Kooyong 2 Scotch,Tennis World,No. 4,James Di Nicolantoni,Ramida Manataweewa,Ramida Manataweewa,0-6,0,6,0,1,Completed,true,false,false
+UA004062,26 Aug 18,6,GPHC,BLTC,No. 1,Nelson Beadle,Adam Morrow,Nelson Beadle,6-2,6,2,1,0,Completed,true,false,false
+UA004062,26 Aug 18,6,GPHC,BLTC,No. 2,Esther White,Rhys Bellamy,Rhys Bellamy,1-6,1,6,0,1,Completed,true,false,false
+UA004062,26 Aug 18,6,GPHC,BLTC,No. 3,Louis Taylor,Lauren Malby-Luke,Louis Taylor,6-1,6,1,1,0,Completed,true,false,false
+UA004062,26 Aug 18,6,GPHC,BLTC,No. 4,Henry Stewart,Xavier Carter,Henry Stewart,6-0,6,0,1,0,Completed,true,false,false
+UA004063,26 Aug 18,6,Murrumbeena,Kooyong 1,No. 1,Patrick Monteiro,Michael Kantanis,Patrick Monteiro,6-2,6,2,1,0,Completed,true,false,false
+UA004063,26 Aug 18,6,Murrumbeena,Kooyong 1,No. 2,Ben Rapaport,Jamie Gough,Ben Rapaport,6-3,6,3,1,0,Completed,true,false,false
+UA004063,26 Aug 18,6,Murrumbeena,Kooyong 1,No. 3,Geordan Apostolou,Sam Nankervis,Sam Nankervis,2-6,2,6,0,1,Completed,true,false,false
+UA004063,26 Aug 18,6,Murrumbeena,Kooyong 1,No. 4,Will Hogan,Leo Morrison,Will Hogan,6-2,6,2,1,0,Completed,true,false,false
+UA004064,26 Aug 18,6,Dendy Park,Highett,No. 1,Henri Robinson,Ethan Badcock,Ethan Badcock,2-6,2,6,0,1,Completed,true,false,false
+UA004064,26 Aug 18,6,Dendy Park,Highett,No. 2,Eve Robinson,Luke Womerlsey,Luke Womerlsey,1-6,1,6,0,1,Completed,true,false,false
+UA004064,26 Aug 18,6,Dendy Park,Highett,No. 3,Henry Bytheway,Liam Malins,Henry Bytheway,7-5,7,5,1,0,Completed,true,false,false
+UA004064,26 Aug 18,6,Dendy Park,Highett,No. 4,Charlotte Bytheway,Dylan McMaster,Dylan McMaster,1-6,1,6,0,1,Completed,true,false,false
+UA004071,02 Sep 18,7,BLTC,Tennis World,No. 1,Patrick Millar,Wichpol Luong,Wichpol Luong,3-6,3,6,0,1,Completed,true,false,false
+UA004071,02 Sep 18,7,BLTC,Tennis World,No. 2,Rhys Bellamy,Nicolo Nardari,Nicolo Nardari,2-6,2,6,0,1,Completed,true,false,false
+UA004071,02 Sep 18,7,BLTC,Tennis World,No. 3,Jamie Turner,Hudson Hopman,Jamie Turner,6-1,6,1,1,0,Completed,true,false,false
+UA004071,02 Sep 18,7,BLTC,Tennis World,No. 4,Xavier Carter,Anika Jaswal,Xavier Carter,6-1,6,1,1,0,Completed,true,false,false
+UA004072,02 Sep 18,7,Kooyong 2 Scotch,GPHC,No. 1,Josh Palazzo,Nelson Beadle,Nelson Beadle,4-6,4,6,0,1,Completed,true,false,false
+UA004072,02 Sep 18,7,Kooyong 2 Scotch,GPHC,No. 2,Zachary S Miller,Esther White,Zachary S Miller,6-2,6,2,1,0,Completed,true,false,false
+UA004072,02 Sep 18,7,Kooyong 2 Scotch,GPHC,No. 3,Aidan Gall,Henry Stewart,Aidan Gall,6-2,6,2,1,0,Completed,true,false,false
+UA004072,02 Sep 18,7,Kooyong 2 Scotch,GPHC,No. 4,Alexander Devereux,Lucas Holly,Alexander Devereux,6-2,6,2,1,0,Completed,true,false,false
+UA004073,02 Sep 18,7,Highett,Kooyong 1,No. 1,Jake Reidy,Jamie Gough,Jake Reidy,6-0,6,0,1,0,Completed,true,false,false
+UA004073,02 Sep 18,7,Highett,Kooyong 1,No. 2,Ethan Badcock,Sam Nankervis,Ethan Badcock,6-1,6,1,1,0,Completed,true,false,false
+UA004073,02 Sep 18,7,Highett,Kooyong 1,No. 3,Luke Womerlsey,Lachlan Tingate,Luke Womerlsey,6-4,6,4,1,0,Completed,true,false,false
+UA004073,02 Sep 18,7,Highett,Kooyong 1,No. 4,Dylan McMaster,Carrie Shi,Carrie Shi,3-6,3,6,0,1,Completed,true,false,false
+UA004074,02 Sep 18,7,Murrumbeena,Dendy Park,No. 1,Patrick Monteiro,Henri Robinson,Patrick Monteiro,6-1,6,1,1,0,Completed,true,false,false
+UA004074,02 Sep 18,7,Murrumbeena,Dendy Park,No. 2,Ben Rapaport,Lachlan Liberman,Lachlan Liberman,5-7,5,7,0,1,Completed,true,false,false
+UA004074,02 Sep 18,7,Murrumbeena,Dendy Park,No. 3,Will Hogan,Damien Hookway,Damien Hookway,3-6,3,6,0,1,Completed,true,false,false
+UA004074,02 Sep 18,7,Murrumbeena,Dendy Park,No. 4,Harry Holzer,Charlotte Bytheway,Charlotte Bytheway,5-7,5,7,0,1,Completed,true,false,false
+UA004081,09 Sep 18,8,Dendy Park,BLTC,No. 1,Filip Milenkovic,Patrick Millar,Patrick Millar,0-6,0,6,0,1,Completed,true,false,false
+UA004081,09 Sep 18,8,Dendy Park,BLTC,No. 2,Lachlan Liberman,Rhys Bellamy,Rhys Bellamy,6-7,6,7,0,1,Completed,true,false,false
+UA004081,09 Sep 18,8,Dendy Park,BLTC,No. 3,Damien Hookway,Lauren Malby-Luke,Damien Hookway,6-1,6,1,1,0,Completed,true,false,false
+UA004081,09 Sep 18,8,Dendy Park,BLTC,No. 4,Charlotte Bytheway,Jamie Turner,Jamie Turner,4-6,4,6,0,1,Completed,true,false,false
+UA004082,09 Sep 18,8,Kooyong 1,Kooyong 2 Scotch,No. 1,Jamie Gough,Dimitri Kougias,Jamie Gough,6-1,6,1,1,0,Completed,true,false,false
+UA004082,09 Sep 18,8,Kooyong 1,Kooyong 2 Scotch,No. 2,Lachlan Tingate,Tom Palazzo,Lachlan Tingate,6-2,6,2,1,0,Completed,true,false,false
+UA004082,09 Sep 18,8,Kooyong 1,Kooyong 2 Scotch,No. 3,Carrie Shi,Alexander Devereux,Carrie Shi,6-2,6,2,1,0,Completed,true,false,false
+UA004082,09 Sep 18,8,Kooyong 1,Kooyong 2 Scotch,No. 4,Leo Morrison,[Unnamed player — TROLS UA004082 away code 4],Leo Morrison,6-0,6,0,1,0,Completed,false,false,false
+UA004083,09 Sep 18,8,Murrumbeena,Tennis World,No. 1,Patrick Monteiro,Yuuki Hirano-James,Patrick Monteiro,6-0,6,0,1,0,Completed,true,false,false
+UA004083,09 Sep 18,8,Murrumbeena,Tennis World,No. 2,Ben Rapaport,Sam Ferguson,Ben Rapaport,6-0,6,0,1,0,Completed,true,false,false
+UA004083,09 Sep 18,8,Murrumbeena,Tennis World,No. 3,Geordan Apostolou,Arden Middleton,Geordan Apostolou,6-2,6,2,1,0,Completed,true,false,false
+UA004083,09 Sep 18,8,Murrumbeena,Tennis World,No. 4,Harry Holzer,Hudson Hopman,Hudson Hopman,5-7,5,7,0,1,Completed,true,false,false
+UA004084,09 Sep 18,8,Highett,GPHC,No. 1,Jake Reidy,Nelson Beadle,Nelson Beadle,1-6,1,6,0,1,Completed,true,false,false
+UA004084,09 Sep 18,8,Highett,GPHC,No. 2,Ethan Badcock,Louis Taylor,Louis Taylor,3-6,3,6,0,1,Completed,true,false,false
+UA004084,09 Sep 18,8,Highett,GPHC,No. 3,Liam Malins,Henry Stewart,Henry Stewart,4-6,4,6,0,1,Completed,true,false,false
+UA004084,09 Sep 18,8,Highett,GPHC,No. 4,Dylan McMaster,Lucas Holly,Dylan McMaster,7-6,7,6,1,0,Completed,true,false,false
+UA004091,16 Sep 18,9,BLTC,Highett,No. 1,Adam Morrow,Jake Reidy,Adam Morrow,7-6,7,6,1,0,Completed,true,false,false
+UA004091,16 Sep 18,9,BLTC,Highett,No. 2,Patrick Millar,Luke Womerlsey,Patrick Millar,6-1,6,1,1,0,Completed,true,false,false
+UA004091,16 Sep 18,9,BLTC,Highett,No. 3,Lauren Malby-Luke,Liam Malins,Liam Malins,4-6,4,6,0,1,Completed,true,false,false
+UA004091,16 Sep 18,9,BLTC,Highett,No. 4,Xavier Carter,Dylan McMaster,Dylan McMaster,3-6,3,6,0,1,Completed,true,false,false
+UA004092,16 Sep 18,9,Kooyong 2 Scotch,Dendy Park,No. 1,Josh Palazzo,Filip Milenkovic,Josh Palazzo,7-5,7,5,1,0,Completed,true,false,false
+UA004092,16 Sep 18,9,Kooyong 2 Scotch,Dendy Park,No. 2,Zachary S Miller,Damien Hookway,Damien Hookway,2-6,2,6,0,1,Completed,true,false,false
+UA004092,16 Sep 18,9,Kooyong 2 Scotch,Dendy Park,No. 3,Aidan Gall,Eve Robinson,Aidan Gall,6-1,6,1,1,0,Completed,true,false,false
+UA004092,16 Sep 18,9,Kooyong 2 Scotch,Dendy Park,No. 4,Dimitri Kougias,Charlotte Bytheway,Dimitri Kougias,6-2,6,2,1,0,Completed,true,false,false
+UA004093,16 Sep 18,9,Tennis World,Kooyong 1,No. 1,Wichpol Luong,Michael Kantanis,Wichpol Luong,6-1,6,1,1,0,Completed,true,false,false
+UA004093,16 Sep 18,9,Tennis World,Kooyong 1,No. 2,Stefan Desovski,Lachlan Tingate,Stefan Desovski,7-5,7,5,1,0,Completed,true,false,false
+UA004093,16 Sep 18,9,Tennis World,Kooyong 1,No. 3,Nicolo Nardari,Alexander Devereux,Nicolo Nardari,6-4,6,4,1,0,Completed,true,false,false
+UA004093,16 Sep 18,9,Tennis World,Kooyong 1,No. 4,Arden Middleton,Ava Vollenbroich,Arden Middleton,6-2,6,2,1,0,Completed,true,false,false
+UA004094,16 Sep 18,9,GPHC,Murrumbeena,No. 1,Nelson Beadle,Patrick Monteiro,Patrick Monteiro,3-6,3,6,0,1,Completed,true,false,false
+UA004094,16 Sep 18,9,GPHC,Murrumbeena,No. 2,Esther White,Ben Rapaport,Esther White,6-4,6,4,1,0,Completed,true,false,false
+UA004094,16 Sep 18,9,GPHC,Murrumbeena,No. 3,Louis Taylor,Geordan Apostolou,Louis Taylor,6-4,6,4,1,0,Completed,true,false,false
+UA004094,16 Sep 18,9,GPHC,Murrumbeena,No. 4,Lucas Holly,Sienna Pisano,Lucas Holly,6-0,6,0,1,0,Completed,true,false,false
+UA004101,14 Oct 18,10,Murrumbeena,BLTC,No. 1,Patrick Monteiro,Adam Morrow,Patrick Monteiro,6-0,6,0,1,0,Completed,true,false,false
+UA004101,14 Oct 18,10,Murrumbeena,BLTC,No. 2,Ben Rapaport,Patrick Millar,Patrick Millar,3-6,3,6,0,1,Completed,true,false,false
+UA004101,14 Oct 18,10,Murrumbeena,BLTC,No. 3,Geordan Apostolou,Rhys Bellamy,Geordan Apostolou,6-4,6,4,1,0,Completed,true,false,false
+UA004101,14 Oct 18,10,Murrumbeena,BLTC,No. 4,Will Hogan,Jamie Turner,Jamie Turner,0-6,0,6,0,1,Completed,true,false,false
+UA004102,14 Oct 18,10,Highett,Kooyong 2 Scotch,No. 1,Jake Reidy,Josh Palazzo,Jake Reidy,6-1,6,1,1,0,Completed,true,false,false
+UA004102,14 Oct 18,10,Highett,Kooyong 2 Scotch,No. 2,Ethan Badcock,Zachary S Miller,Zachary S Miller,5-7,5,7,0,1,Completed,true,false,false
+UA004102,14 Oct 18,10,Highett,Kooyong 2 Scotch,No. 3,Luke Womerlsey,Aidan Gall,Luke Womerlsey,6-1,6,1,1,0,Completed,true,false,false
+UA004102,14 Oct 18,10,Highett,Kooyong 2 Scotch,No. 4,Liam Malins,James Di Nicolantoni,Liam Malins,6-1,6,1,1,0,Completed,true,false,false
+UA004103,14 Oct 18,10,Dendy Park,Tennis World,No. 1,Filip Milenkovic,Wichpol Luong,Wichpol Luong,1-6,1,6,0,1,Completed,true,false,false
+UA004103,14 Oct 18,10,Dendy Park,Tennis World,No. 2,Lachlan Liberman,Stefan Desovski,Stefan Desovski,6-7,6,7,0,1,Completed,true,false,false
+UA004103,14 Oct 18,10,Dendy Park,Tennis World,No. 3,Damien Hookway,Nicolo Nardari,Nicolo Nardari,3-6,3,6,0,1,Completed,true,false,false
+UA004103,14 Oct 18,10,Dendy Park,Tennis World,No. 4,Christian Karatzas,Hudson Hopman,Hudson Hopman,1-6,1,6,0,1,Completed,true,false,false
+UA004104,14 Oct 18,10,Kooyong 1,GPHC,No. 1,Michael Kantanis,Esther White,Michael Kantanis,6-3,6,3,1,0,Completed,true,false,false
+UA004104,14 Oct 18,10,Kooyong 1,GPHC,No. 2,Lachlan Tingate,Louis Taylor,Louis Taylor,4-6,4,6,0,1,Completed,true,false,false
+UA004104,14 Oct 18,10,Kooyong 1,GPHC,No. 3,Carrie Shi,Henry Stewart,Carrie Shi,7-5,7,5,1,0,Completed,true,false,false
+UA004104,14 Oct 18,10,Kooyong 1,GPHC,No. 4,Leo Morrison,Lucas Holly,Lucas Holly,5-7,5,7,0,1,Completed,true,false,false
+UA004111,21 Oct 18,11,BLTC,Kooyong 1,No. 1,Adam Morrow,Michael Kantanis,Michael Kantanis,3-6,3,6,0,1,Completed,true,false,false
+UA004111,21 Oct 18,11,BLTC,Kooyong 1,No. 2,Rhys Bellamy,Lachlan Tingate,Rhys Bellamy,7-5,7,5,1,0,Completed,true,false,false
+UA004111,21 Oct 18,11,BLTC,Kooyong 1,No. 3,Lauren Malby-Luke,Carrie Shi,Lauren Malby-Luke,7-5,7,5,1,0,Completed,true,false,false
+UA004111,21 Oct 18,11,BLTC,Kooyong 1,No. 4,Xavier Carter,Leo Morrison,Leo Morrison,4-6,4,6,0,1,Completed,true,false,false
+UA004112,21 Oct 18,11,Kooyong 2 Scotch,Murrumbeena,No. 1,Josh Palazzo,Issac Hui,Issac Hui,0-6,0,6,0,1,Completed,true,false,false
+UA004112,21 Oct 18,11,Kooyong 2 Scotch,Murrumbeena,No. 2,Zachary S Miller,Patrick Monteiro,Patrick Monteiro,0-6,0,6,0,1,Completed,true,false,false
+UA004112,21 Oct 18,11,Kooyong 2 Scotch,Murrumbeena,No. 3,Aidan Gall,Geordan Apostolou,Geordan Apostolou,3-6,3,6,0,1,Completed,true,false,false
+UA004112,21 Oct 18,11,Kooyong 2 Scotch,Murrumbeena,No. 4,Dimitri Kougias,Harry Cosgrave,Harry Cosgrave,4-6,4,6,0,1,Completed,true,false,false
+UA004113,21 Oct 18,11,Tennis World,Highett,No. 1,Wichpol Luong,Jake Reidy,Wichpol Luong,6-0,6,0,1,0,Completed,true,false,false
+UA004113,21 Oct 18,11,Tennis World,Highett,No. 2,Stefan Desovski,Ethan Badcock,Ethan Badcock,2-6,2,6,0,1,Completed,true,false,false
+UA004113,21 Oct 18,11,Tennis World,Highett,No. 3,Nicolo Nardari,Luke Womerlsey,Nicolo Nardari,6-1,6,1,1,0,Completed,true,false,false
+UA004113,21 Oct 18,11,Tennis World,Highett,No. 4,Sam Ferguson,Liam Malins,Sam Ferguson,7-5,7,5,1,0,Completed,true,false,false
+UA004114,21 Oct 18,11,GPHC,Dendy Park,No. 1,Esther White,Filip Milenkovic,Esther White,6-0,6,0,1,0,Completed,true,false,false
+UA004114,21 Oct 18,11,GPHC,Dendy Park,No. 2,Louis Taylor,Lachlan Liberman,Lachlan Liberman,3-6,3,6,0,1,Completed,true,false,false
+UA004114,21 Oct 18,11,GPHC,Dendy Park,No. 3,Henry Stewart,Damien Hookway,Damien Hookway,1-6,1,6,0,1,Completed,true,false,false
+UA004114,21 Oct 18,11,GPHC,Dendy Park,No. 4,Lucas Holly,Eve Robinson,Lucas Holly,6-0,6,0,1,0,Completed,true,false,false
+UA004121,28 Oct 18,12,GPHC,Tennis World,No. 1,Nelson Beadle,Stefan Desovski,Stefan Desovski,0-6,0,6,0,1,Completed,true,false,false
+UA004121,28 Oct 18,12,GPHC,Tennis World,No. 2,Louis Taylor,Nicolo Nardari,Louis Taylor,6-3,6,3,1,0,Completed,true,false,false
+UA004121,28 Oct 18,12,GPHC,Tennis World,No. 3,Henry Stewart,Arden Middleton,Henry Stewart,6-4,6,4,1,0,Completed,true,false,false
+UA004121,28 Oct 18,12,GPHC,Tennis World,No. 4,Lucas Holly,Hudson Hopman,Lucas Holly,6-2,6,2,1,0,Completed,true,false,false
+UA004122,28 Oct 18,12,Murrumbeena,Highett,No. 1,Patrick Monteiro,Ethan Badcock,Patrick Monteiro,6-2,6,2,1,0,Completed,true,false,false
+UA004122,28 Oct 18,12,Murrumbeena,Highett,No. 2,Brad Lowe,Luke Womerlsey,Brad Lowe,6-4,6,4,1,0,Completed,true,false,false
+UA004122,28 Oct 18,12,Murrumbeena,Highett,No. 3,Matt MacDonald,Max Leonard,Matt MacDonald,6-4,6,4,1,0,Completed,true,false,false
+UA004122,28 Oct 18,12,Murrumbeena,Highett,No. 4,[Unnamed player — TROLS UA004122 home code 4],Chris Huang,Chris Huang,0-6,0,6,0,1,Completed,false,false,false
+UA004123,28 Oct 18,12,Dendy Park,Kooyong 1,No. 1,Filip Milenkovic,Jamie Gough,Jamie Gough,3-6,3,6,0,1,Completed,true,false,false
+UA004123,28 Oct 18,12,Dendy Park,Kooyong 1,No. 2,Henri Robinson,Sam Nankervis,Henri Robinson,6-2,6,2,1,0,Completed,true,false,false
+UA004123,28 Oct 18,12,Dendy Park,Kooyong 1,No. 3,Damien Hookway,Lachlan Tingate,Lachlan Tingate,6-7,6,7,0,1,Completed,true,false,false
+UA004123,28 Oct 18,12,Dendy Park,Kooyong 1,No. 4,Eve Robinson,Carrie Shi,Carrie Shi,1-6,1,6,0,1,Completed,true,false,false
+UA004124,28 Oct 18,12,Kooyong 2 Scotch,BLTC,No. 1,Josh Palazzo,Adam Morrow,Adam Morrow,3-6,3,6,0,1,Completed,true,false,false
+UA004124,28 Oct 18,12,Kooyong 2 Scotch,BLTC,No. 2,Aidan Gall,Patrick Millar,Patrick Millar,2-6,2,6,0,1,Completed,true,false,false
+UA004124,28 Oct 18,12,Kooyong 2 Scotch,BLTC,No. 3,Dimitri Kougias,Jamie Turner,Jamie Turner,4-6,4,6,0,1,Completed,true,false,false
+UA004124,28 Oct 18,12,Kooyong 2 Scotch,BLTC,No. 4,James Di Nicolantoni,Xavier Carter,Xavier Carter,1-6,1,6,0,1,Completed,true,false,false
+UA004131,11 Nov 18,13,Tennis World,Kooyong 2 Scotch,No. 1,Wichpol Luong,Josh Palazzo,Wichpol Luong,6-0,6,0,1,0,Completed,true,false,false
+UA004131,11 Nov 18,13,Tennis World,Kooyong 2 Scotch,No. 2,Stefan Desovski,Aidan Gall,Stefan Desovski,6-3,6,3,1,0,Completed,true,false,false
+UA004131,11 Nov 18,13,Tennis World,Kooyong 2 Scotch,No. 3,Sam Ferguson,Dimitri Kougias,Sam Ferguson,6-2,6,2,1,0,Completed,true,false,false
+UA004131,11 Nov 18,13,Tennis World,Kooyong 2 Scotch,No. 4,Arden Middleton,James Di Nicolantoni,Arden Middleton,6-4,6,4,1,0,Completed,true,false,false
+UA004132,11 Nov 18,13,BLTC,GPHC,No. 1,Adam Morrow,Nelson Beadle,Nelson Beadle,4-6,4,6,0,1,Completed,true,false,false
+UA004132,11 Nov 18,13,BLTC,GPHC,No. 2,Lauren Malby-Luke,Esther White,Lauren Malby-Luke,7-5,7,5,1,0,Completed,true,false,false
+UA004132,11 Nov 18,13,BLTC,GPHC,No. 3,Jamie Turner,Henry Stewart,Henry Stewart,2-6,2,6,0,1,Completed,true,false,false
+UA004132,11 Nov 18,13,BLTC,GPHC,No. 4,Xavier Carter,Lucas Holly,Xavier Carter,6-4,6,4,1,0,Completed,true,false,false
+UA004133,11 Nov 18,13,Kooyong 1,Murrumbeena,No. 1,Michael Kantanis,Patrick Monteiro,Patrick Monteiro,1-6,1,6,0,1,Completed,true,false,false
+UA004133,11 Nov 18,13,Kooyong 1,Murrumbeena,No. 2,Jamie Gough,Geordan Apostolou,Geordan Apostolou,1-6,1,6,0,1,Completed,true,false,false
+UA004133,11 Nov 18,13,Kooyong 1,Murrumbeena,No. 3,Lachlan Tingate,Brad Lowe,Brad Lowe,1-6,1,6,0,1,Completed,true,false,false
+UA004133,11 Nov 18,13,Kooyong 1,Murrumbeena,No. 4,Leo Morrison,Matt MacDonald,Matt MacDonald,2-6,2,6,0,1,Completed,true,false,false
+UA004134,11 Nov 18,13,Highett,Dendy Park,No. 1,Jake Reidy,Filip Milenkovic,Jake Reidy,6-1,6,1,1,0,Completed,true,false,false
+UA004134,11 Nov 18,13,Highett,Dendy Park,No. 2,Luke Womerlsey,Henri Robinson,Luke Womerlsey,7-6,7,6,1,0,Completed,true,false,false
+UA004134,11 Nov 18,13,Highett,Dendy Park,No. 3,Liam Malins,Damien Hookway,Damien Hookway,1-6,1,6,0,1,Completed,true,false,false
+UA004134,11 Nov 18,13,Highett,Dendy Park,No. 4,Dylan McMaster,Charlotte Bytheway,Dylan McMaster,6-0,6,0,1,0,Completed,true,false,false
+UA004141,18 Nov 18,14,Tennis World,BLTC,No. 1,Wichpol Luong,Adam Morrow,Wichpol Luong,6-0,6,0,1,0,Completed,true,false,false
+UA004141,18 Nov 18,14,Tennis World,BLTC,No. 2,Stefan Desovski,Patrick Millar,Patrick Millar,2-6,2,6,0,1,Completed,true,false,false
+UA004141,18 Nov 18,14,Tennis World,BLTC,No. 3,Arden Middleton,Rhys Bellamy,Arden Middleton,7-5,7,5,1,0,Completed,true,false,false
+UA004141,18 Nov 18,14,Tennis World,BLTC,No. 4,Hudson Hopman,Jamie Turner,Jamie Turner,2-6,2,6,0,1,Completed,true,false,false
+UA004142,18 Nov 18,14,GPHC,Kooyong 2 Scotch,No. 1,Nelson Beadle,Josh Palazzo,Nelson Beadle,6-4,6,4,1,0,Completed,true,false,false
+UA004142,18 Nov 18,14,GPHC,Kooyong 2 Scotch,No. 2,Esther White,Zachary S Miller,Zachary S Miller,4-6,4,6,0,1,Completed,true,false,false
+UA004142,18 Nov 18,14,GPHC,Kooyong 2 Scotch,No. 3,Louis Taylor,Aidan Gall,Louis Taylor,6-2,6,2,1,0,Completed,true,false,false
+UA004142,18 Nov 18,14,GPHC,Kooyong 2 Scotch,No. 4,Lucas Holly,Lewis Vanderzalm,Lewis Vanderzalm,5-7,5,7,0,1,Completed,true,false,false
+UA004143,18 Nov 18,14,Kooyong 1,Highett,No. 1,Michael Kantanis,Jake Reidy,Michael Kantanis,6-4,6,4,1,0,Completed,true,false,false
+UA004143,18 Nov 18,14,Kooyong 1,Highett,No. 2,Sam Nankervis,Ethan Badcock,Ethan Badcock,3-6,3,6,0,1,Completed,true,false,false
+UA004143,18 Nov 18,14,Kooyong 1,Highett,No. 3,Carrie Shi,Liam Malins,Liam Malins,3-6,3,6,0,1,Completed,true,false,false
+UA004143,18 Nov 18,14,Kooyong 1,Highett,No. 4,Leo Morrison,Dylan McMaster,Leo Morrison,6-4,6,4,1,0,Completed,true,false,false
+UA004144,18 Nov 18,14,Dendy Park,Murrumbeena,No. 1,Filip Milenkovic,Patrick Monteiro,Patrick Monteiro,0-6,0,6,0,1,Completed,true,false,false
+UA004144,18 Nov 18,14,Dendy Park,Murrumbeena,No. 2,Henri Robinson,Geordan Apostolou,Geordan Apostolou,6-7,6,7,0,1,Completed,true,false,false
+UA004144,18 Nov 18,14,Dendy Park,Murrumbeena,No. 3,Lachlan Liberman,Brad Lowe,Brad Lowe,1-6,1,6,0,1,Completed,true,false,false
+UA004144,18 Nov 18,14,Dendy Park,Murrumbeena,No. 4,Damien Hookway,Matt MacDonald,Damien Hookway,6-1,6,1,1,0,Completed,true,false,false
+UA004301,,16,Murrumbeena,GPHC,No. 1,Patrick Monteiro,Nelson Beadle,Patrick Monteiro,6-0,6,0,1,0,Completed,true,false,false
+UA004301,,16,Murrumbeena,GPHC,No. 2,Ben Rapaport,Louis Taylor,Louis Taylor,2-6,2,6,0,1,Completed,true,false,false
+UA004301,,16,Murrumbeena,GPHC,No. 3,Geordan Apostolou,Henry Stewart,Henry Stewart,6-7,6,7,0,1,Completed,true,false,false
+UA004301,,16,Murrumbeena,GPHC,No. 4,Brad Lowe,Lucas Holly,Brad Lowe,6-2,6,2,1,0,Completed,true,false,false
+UA004302,,16,Highett,Tennis World,No. 1,Jake Reidy,Stefan Desovski,Stefan Desovski,4-6,4,6,0,1,Completed,true,false,false
+UA004302,,16,Highett,Tennis World,No. 2,Ethan Badcock,Sam Ferguson,Ethan Badcock,6-0,6,0,1,0,Completed,true,false,false
+UA004302,,16,Highett,Tennis World,No. 3,Luke Womerlsey,Arden Middleton,Luke Womerlsey,6-3,6,3,1,0,Completed,true,false,false
+UA004302,,16,Highett,Tennis World,No. 4,Liam Malins,Hudson Hopman,Liam Malins,6-2,6,2,1,0,Completed,true,false,false
+UA004321,,17,Murrumbeena,Highett,No. 1,Patrick Monteiro,Jake Reidy,Patrick Monteiro,6-0,6,0,1,0,Completed,true,false,false
+UA004321,,17,Murrumbeena,Highett,No. 2,Ben Rapaport,Ethan Badcock,Ethan Badcock,1-6,1,6,0,1,Completed,true,false,false
+UA004321,,17,Murrumbeena,Highett,No. 3,Geordan Apostolou,Luke Womerlsey,Luke Womerlsey,3-6,3,6,0,1,Completed,true,false,false
+UA004321,,17,Murrumbeena,Highett,No. 4,Brad Lowe,Liam Malins,Brad Lowe,6-4,6,4,1,0,Completed,true,false,false

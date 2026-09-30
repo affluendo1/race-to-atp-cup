@@ -1,0 +1,221 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA005011,17 Jul 16,1,Royal Ave,Dendy Park,No. 1,Liam Doyle,Dylan Mathews,Dylan Mathews,6-7,6,7,0,1,Completed,true,false,false
+UA005011,17 Jul 16,1,Royal Ave,Dendy Park,No. 2,Harley Chessells,Hugh Simpson,Hugh Simpson,5-7,5,7,0,1,Completed,true,false,false
+UA005011,17 Jul 16,1,Royal Ave,Dendy Park,No. 3,Kailan McKinall,Jacob Lewis,Jacob Lewis,5-7,5,7,0,1,Completed,true,false,false
+UA005011,17 Jul 16,1,Royal Ave,Dendy Park,No. 4,Meiji Forni,Ruben Landman,Meiji Forni,7-6,7,6,1,0,Completed,true,false,false
+UA005012,17 Jul 16,1,GPHC,Kings Park,No. 1,Alex Brendish,Craig Stewart,Alex Brendish,7-6,7,6,1,0,Completed,true,false,false
+UA005012,17 Jul 16,1,GPHC,Kings Park,No. 2,Charlotte McIntosh,Bianca Denisenko,Charlotte McIntosh,6-0,6,0,1,0,Completed,true,false,false
+UA005012,17 Jul 16,1,GPHC,Kings Park,No. 3,Charlie Dobrotwir,Hugo Murray,Charlie Dobrotwir,6-0,6,0,1,0,Completed,true,false,false
+UA005012,17 Jul 16,1,GPHC,Kings Park,No. 4,Nelson Beadle,Zane Pierzchalski,Nelson Beadle,6-3,6,3,1,0,Completed,true,false,false
+UA005013,17 Jul 16,1,Kooyong Scotch 1,Kooyong Scotch 2,No. 1,Nicholas Lester,Jessica Pila,Jessica Pila,2-6,2,6,0,1,Completed,true,false,false
+UA005013,17 Jul 16,1,Kooyong Scotch 1,Kooyong Scotch 2,No. 2,Toby McOmish,Charlie Potter,Toby McOmish,6-3,6,3,1,0,Completed,true,false,false
+UA005013,17 Jul 16,1,Kooyong Scotch 1,Kooyong Scotch 2,No. 3,Jameson Lee,Rebecca Pierri,Jameson Lee,7-6,7,6,1,0,Completed,true,false,false
+UA005013,17 Jul 16,1,Kooyong Scotch 1,Kooyong Scotch 2,No. 4,Aaron Koh,Tania Szwarczberg,Aaron Koh,6-0,6,0,1,0,Completed,true,false,false
+UA005014,17 Jul 16,1,Port Melbourne,Parkdale,No. 1,Josh Kempin,James Bryan,Josh Kempin,6-4,6,4,1,0,Completed,true,false,false
+UA005014,17 Jul 16,1,Port Melbourne,Parkdale,No. 2,Ben Walker-Savage,Keirath Singh,Ben Walker-Savage,6-3,6,3,1,0,Completed,true,false,false
+UA005014,17 Jul 16,1,Port Melbourne,Parkdale,No. 3,Oscar Burdett,Matthew Nibbs,Oscar Burdett,6-0,6,0,1,0,Completed,true,false,false
+UA005014,17 Jul 16,1,Port Melbourne,Parkdale,No. 4,Sarah Ryan,James Dickson,Sarah Ryan,6-4,6,4,1,0,Completed,true,false,false
+UA005021,24 Jul 16,2,Parkdale,Royal Ave,No. 1,James Bryan,Liam Doyle,James Bryan,6-4,6,4,1,0,Completed,true,false,false
+UA005021,24 Jul 16,2,Parkdale,Royal Ave,No. 2,John Paterson,Harley Chessells,Harley Chessells,2-6,2,6,0,1,Completed,true,false,false
+UA005021,24 Jul 16,2,Parkdale,Royal Ave,No. 3,Josh Nibbs,Kailan McKinall,Kailan McKinall,2-6,2,6,0,1,Completed,true,false,false
+UA005021,24 Jul 16,2,Parkdale,Royal Ave,No. 4,Matthew Nibbs,Gustavo Macedo,Matthew Nibbs,7-5,7,5,1,0,Completed,true,false,false
+UA005022,24 Jul 16,2,Dendy Park,GPHC,No. 1,Josh Fricke,Alex Brendish,Alex Brendish,3-6,3,6,0,1,Completed,true,false,false
+UA005022,24 Jul 16,2,Dendy Park,GPHC,No. 2,Hugh Simpson,Charlotte McIntosh,Hugh Simpson,6-4,6,4,1,0,Completed,true,false,false
+UA005022,24 Jul 16,2,Dendy Park,GPHC,No. 3,Jacob Lewis,Charlie Dobrotwir,Jacob Lewis,6-2,6,2,1,0,Completed,true,false,false
+UA005022,24 Jul 16,2,Dendy Park,GPHC,No. 4,Mia Smith,Mia Retschko,Mia Smith,6-2,6,2,1,0,Completed,true,false,false
+UA005023,24 Jul 16,2,Kings Park,Kooyong Scotch 1,No. 1,Oscar Eden,Jack Ganly,Oscar Eden,7-5,7,5,1,0,Completed,true,false,false
+UA005023,24 Jul 16,2,Kings Park,Kooyong Scotch 1,No. 2,Bianca Denisenko,Toby McOmish,Toby McOmish,4-6,4,6,0,1,Completed,true,false,false
+UA005023,24 Jul 16,2,Kings Park,Kooyong Scotch 1,No. 3,Zane Pierzchalski,Liron Lelah,Zane Pierzchalski,7-6,7,6,1,0,Completed,true,false,false
+UA005023,24 Jul 16,2,Kings Park,Kooyong Scotch 1,No. 4,Sierra Danon,Nick Wotherspoon,Nick Wotherspoon,4-6,4,6,0,1,Completed,true,false,false
+UA005024,24 Jul 16,2,Kooyong Scotch 2,Port Melbourne,No. 1,Jessica Pila,Josh Kempin,Josh Kempin,2-6,2,6,0,1,Completed,true,false,false
+UA005024,24 Jul 16,2,Kooyong Scotch 2,Port Melbourne,No. 2,Charlie Potter,Oscar Burdett,Charlie Potter,6-0,6,0,1,0,Completed,true,false,false
+UA005024,24 Jul 16,2,Kooyong Scotch 2,Port Melbourne,No. 3,Rebecca Pierri,Sarah Ryan,Rebecca Pierri,6-3,6,3,1,0,Completed,true,false,false
+UA005024,24 Jul 16,2,Kooyong Scotch 2,Port Melbourne,No. 4,Tania Szwarczberg,Mia Dorgue,Tania Szwarczberg,6-1,6,1,1,0,Completed,true,false,false
+UA005031,31 Jul 16,3,Royal Ave,Kooyong Scotch 2,No. 1,Liam Doyle,[Unnamed player — TROLS UA005031 away code 1],Liam Doyle,6-0,6,0,1,0,Completed,false,false,false
+UA005031,31 Jul 16,3,Royal Ave,Kooyong Scotch 2,No. 2,Harley Chessells,Jessica Pila,Jessica Pila,4-6,4,6,0,1,Completed,true,false,false
+UA005031,31 Jul 16,3,Royal Ave,Kooyong Scotch 2,No. 3,Kailan McKinall,Rebecca Pierri,Kailan McKinall,6-4,6,4,1,0,Completed,true,false,false
+UA005031,31 Jul 16,3,Royal Ave,Kooyong Scotch 2,No. 4,Gustavo Macedo,Blake Stewart,Blake Stewart,3-6,3,6,0,1,Completed,true,false,false
+UA005032,31 Jul 16,3,GPHC,Parkdale,No. 1,Alex Brendish,John Paterson,Alex Brendish,6-0,6,0,1,0,Completed,true,false,false
+UA005032,31 Jul 16,3,GPHC,Parkdale,No. 2,Charlotte McIntosh,Josh Nibbs,Charlotte McIntosh,6-2,6,2,1,0,Completed,true,false,false
+UA005032,31 Jul 16,3,GPHC,Parkdale,No. 3,Nelson Beadle,Matthew Nibbs,Matthew Nibbs,3-6,3,6,0,1,Completed,true,false,false
+UA005032,31 Jul 16,3,GPHC,Parkdale,No. 4,Mia Retschko,Keirath Singh,Mia Retschko,6-2,6,2,1,0,Completed,true,false,false
+UA005033,31 Jul 16,3,Kooyong Scotch 1,Dendy Park,No. 1,Nicholas Lester,Dylan Mathews,Nicholas Lester,6-2,6,2,1,0,Completed,true,false,false
+UA005033,31 Jul 16,3,Kooyong Scotch 1,Dendy Park,No. 2,Jack Ganly,Ruben Landman,Jack Ganly,6-2,6,2,1,0,Completed,true,false,false
+UA005033,31 Jul 16,3,Kooyong Scotch 1,Dendy Park,No. 3,Toby McOmish,Mia Smith,Toby McOmish,6-1,6,1,1,0,Completed,true,false,false
+UA005033,31 Jul 16,3,Kooyong Scotch 1,Dendy Park,No. 4,Nick Wotherspoon,Isaac Wise,Nick Wotherspoon,6-0,6,0,1,0,Completed,true,false,false
+UA005041,07 Aug 16,4,Kings Park,Royal Ave,No. 1,Oscar Eden,Liam Doyle,Oscar Eden,6-0,6,0,1,0,Completed,true,false,false
+UA005041,07 Aug 16,4,Kings Park,Royal Ave,No. 2,Craig Stewart,Harley Chessells,Craig Stewart,6-3,6,3,1,0,Completed,true,false,false
+UA005041,07 Aug 16,4,Kings Park,Royal Ave,No. 3,Hugo Murray,Kailan McKinall,Kailan McKinall,2-6,2,6,0,1,Completed,true,false,false
+UA005041,07 Aug 16,4,Kings Park,Royal Ave,No. 4,Zane Pierzchalski,Gustavo Macedo,Gustavo Macedo,2-6,2,6,0,1,Completed,true,false,false
+UA005042,07 Aug 16,4,Kooyong Scotch 2,GPHC,No. 1,Charlie Potter,Alex Brendish,Alex Brendish,2-6,2,6,0,1,Completed,true,false,false
+UA005042,07 Aug 16,4,Kooyong Scotch 2,GPHC,No. 2,Rebecca Pierri,Charlotte McIntosh,Charlotte McIntosh,2-6,2,6,0,1,Completed,true,false,false
+UA005042,07 Aug 16,4,Kooyong Scotch 2,GPHC,No. 3,Jameson Lee,Charlie Dobrotwir,Jameson Lee,6-3,6,3,1,0,Completed,true,false,false
+UA005042,07 Aug 16,4,Kooyong Scotch 2,GPHC,No. 4,Eliza Szwarcberg,Nelson Beadle,Nelson Beadle,1-6,1,6,0,1,Completed,true,false,false
+UA005043,07 Aug 16,4,Parkdale,Kooyong Scotch 1,No. 1,James Bryan,Nicholas Lester,Nicholas Lester,0-6,0,6,0,1,Completed,true,false,false
+UA005043,07 Aug 16,4,Parkdale,Kooyong Scotch 1,No. 2,John Paterson,Aaron Koh,Aaron Koh,0-6,0,6,0,1,Completed,true,false,false
+UA005043,07 Aug 16,4,Parkdale,Kooyong Scotch 1,No. 3,Matthew Nibbs,Liron Lelah,Matthew Nibbs,6-2,6,2,1,0,Completed,true,false,false
+UA005043,07 Aug 16,4,Parkdale,Kooyong Scotch 1,No. 4,Keirath Singh,Nick Wotherspoon,Nick Wotherspoon,2-6,2,6,0,1,Completed,true,false,false
+UA005044,07 Aug 16,4,Dendy Park,Port Melbourne,No. 1,Josh Fricke,Ben Walker-Savage,Josh Fricke,6-2,6,2,1,0,Completed,true,false,false
+UA005044,07 Aug 16,4,Dendy Park,Port Melbourne,No. 2,Dylan Mathews,Chris Dervenis,Chris Dervenis,0-6,0,6,0,1,Completed,true,false,false
+UA005044,07 Aug 16,4,Dendy Park,Port Melbourne,No. 3,Hugh Simpson,Oscar Burdett,Hugh Simpson,6-1,6,1,1,0,Completed,true,false,false
+UA005044,07 Aug 16,4,Dendy Park,Port Melbourne,No. 4,Ruben Landman,Mia Dorgue,Ruben Landman,6-0,6,0,1,0,Completed,true,false,false
+UA005051,14 Aug 16,5,Kooyong Scotch 1,Port Melbourne,No. 1,Nicholas Lester,Josh Kempin,Josh Kempin,4-6,4,6,0,1,Completed,true,false,false
+UA005051,14 Aug 16,5,Kooyong Scotch 1,Port Melbourne,No. 2,Jack Ganly,Oscar Burdett,Jack Ganly,6-4,6,4,1,0,Completed,true,false,false
+UA005051,14 Aug 16,5,Kooyong Scotch 1,Port Melbourne,No. 3,Toby McOmish,Sarah Ryan,Toby McOmish,6-0,6,0,1,0,Completed,true,false,false
+UA005051,14 Aug 16,5,Kooyong Scotch 1,Port Melbourne,No. 4,Liron Lelah,Mia Dorgue,Mia Dorgue,5-7,5,7,0,1,Completed,true,false,false
+UA005052,14 Aug 16,5,Parkdale,Kooyong Scotch 2,No. 1,James Bryan,Jessica Pila,Jessica Pila,0-6,0,6,0,1,Completed,true,false,false
+UA005052,14 Aug 16,5,Parkdale,Kooyong Scotch 2,No. 2,Josh Nibbs,Rebecca Pierri,Rebecca Pierri,6-7,6,7,0,1,Completed,true,false,false
+UA005052,14 Aug 16,5,Parkdale,Kooyong Scotch 2,No. 3,Matthew Nibbs,Tania Szwarczberg,Matthew Nibbs,6-3,6,3,1,0,Completed,true,false,false
+UA005052,14 Aug 16,5,Parkdale,Kooyong Scotch 2,No. 4,Keirath Singh,Madi Allen,Keirath Singh,6-4,6,4,1,0,Completed,true,false,false
+UA005053,14 Aug 16,5,Kings Park,Dendy Park,No. 1,Craig Stewart,Hugh Simpson,Craig Stewart,7-6,7,6,1,0,Completed,true,false,false
+UA005053,14 Aug 16,5,Kings Park,Dendy Park,No. 2,Hugo Murray,Jacob Lewis,Hugo Murray,6-0,6,0,1,0,Completed,true,false,false
+UA005053,14 Aug 16,5,Kings Park,Dendy Park,No. 3,Zane Pierzchalski,Dylan Mathews,Zane Pierzchalski,6-0,6,0,1,0,Completed,true,false,false
+UA005053,14 Aug 16,5,Kings Park,Dendy Park,No. 4,Ben Schmidtke,Ruben Landman,Ruben Landman,4-6,4,6,0,1,Completed,true,false,false
+UA005054,14 Aug 16,5,Royal Ave,GPHC,No. 1,Liam Doyle,Alex Brendish,Alex Brendish,2-6,2,6,0,1,Completed,true,false,false
+UA005054,14 Aug 16,5,Royal Ave,GPHC,No. 2,Harley Chessells,Charlie Dobrotwir,Harley Chessells,6-4,6,4,1,0,Completed,true,false,false
+UA005054,14 Aug 16,5,Royal Ave,GPHC,No. 3,Kailan McKinall,Nelson Beadle,Nelson Beadle,1-6,1,6,0,1,Completed,true,false,false
+UA005054,14 Aug 16,5,Royal Ave,GPHC,No. 4,Gustavo Macedo,Mia Retschko,Gustavo Macedo,6-3,6,3,1,0,Completed,true,false,false
+UA005061,21 Aug 16,6,GPHC,Kooyong Scotch 1,No. 1,Charlotte McIntosh,Nicholas Lester,Charlotte McIntosh,6-4,6,4,1,0,Completed,true,false,false
+UA005061,21 Aug 16,6,GPHC,Kooyong Scotch 1,No. 2,Charlie Dobrotwir,Jack Ganly,Charlie Dobrotwir,6-3,6,3,1,0,Completed,true,false,false
+UA005061,21 Aug 16,6,GPHC,Kooyong Scotch 1,No. 3,Nelson Beadle,Aaron Koh,Aaron Koh,6-7,6,7,0,1,Completed,true,false,false
+UA005061,21 Aug 16,6,GPHC,Kooyong Scotch 1,No. 4,Mia Retschko,Nick Wotherspoon,Nick Wotherspoon,2-6,2,6,0,1,Completed,true,false,false
+UA005062,21 Aug 16,6,Port Melbourne,Royal Ave,No. 1,Josh Kempin,Harley Chessells,Josh Kempin,6-1,6,1,1,0,Completed,true,false,false
+UA005062,21 Aug 16,6,Port Melbourne,Royal Ave,No. 2,Ben Walker-Savage,Kailan McKinall,Kailan McKinall,6-7,6,7,0,1,Completed,true,false,false
+UA005062,21 Aug 16,6,Port Melbourne,Royal Ave,No. 3,Oscar Burdett,Gustavo Macedo,Gustavo Macedo,4-6,4,6,0,1,Completed,true,false,false
+UA005062,21 Aug 16,6,Port Melbourne,Royal Ave,No. 4,Sarah Ryan,Patrick Lim,Patrick Lim,3-6,3,6,0,1,Completed,true,false,false
+UA005063,21 Aug 16,6,Kooyong Scotch 2,Kings Park,No. 1,Charlie Potter,Bianca Denisenko,Charlie Potter,6-1,6,1,1,0,Completed,true,false,false
+UA005063,21 Aug 16,6,Kooyong Scotch 2,Kings Park,No. 2,Rebecca Pierri,Hugo Murray,Rebecca Pierri,6-1,6,1,1,0,Completed,true,false,false
+UA005063,21 Aug 16,6,Kooyong Scotch 2,Kings Park,No. 3,Madi Allen,Zane Pierzchalski,Madi Allen,7-5,7,5,1,0,Completed,true,false,false
+UA005063,21 Aug 16,6,Kooyong Scotch 2,Kings Park,No. 4,[Unnamed player — TROLS UA005063 home code 4],Sierra Danon,Sierra Danon,0-6,0,6,0,1,Completed,false,false,false
+UA005064,21 Aug 16,6,Dendy Park,Parkdale,No. 1,Josh Fricke,Josh Nibbs,Josh Fricke,6-3,6,3,1,0,Completed,true,false,false
+UA005064,21 Aug 16,6,Dendy Park,Parkdale,No. 2,Dylan Mathews,Matthew Nibbs,Matthew Nibbs,1-6,1,6,0,1,Completed,true,false,false
+UA005064,21 Aug 16,6,Dendy Park,Parkdale,No. 3,Hugh Simpson,Keirath Singh,Keirath Singh,6-7,6,7,0,1,Completed,true,false,false
+UA005064,21 Aug 16,6,Dendy Park,Parkdale,No. 4,Ruben Landman,[Unnamed player — TROLS UA005064 away code 4],Ruben Landman,6-0,6,0,1,0,Completed,false,false,false
+UA005071,28 Aug 16,7,Royal Ave,Kooyong Scotch 1,No. 1,Harley Chessells,Jack Ganly,Jack Ganly,1-6,1,6,0,1,Completed,true,false,false
+UA005071,28 Aug 16,7,Royal Ave,Kooyong Scotch 1,No. 2,Kailan McKinall,Toby McOmish,Toby McOmish,1-6,1,6,0,1,Completed,true,false,false
+UA005071,28 Aug 16,7,Royal Ave,Kooyong Scotch 1,No. 3,Lachlan Costello,Nick Wotherspoon,Nick Wotherspoon,2-6,2,6,0,1,Completed,true,false,false
+UA005071,28 Aug 16,7,Royal Ave,Kooyong Scotch 1,No. 4,Patrick Gu,Liron Lelah,Liron Lelah,4-6,4,6,0,1,Completed,true,false,false
+UA005072,28 Aug 16,7,GPHC,Port Melbourne,No. 1,Alex Brendish,Ben Walker-Savage,Alex Brendish,6-4,6,4,1,0,Completed,true,false,false
+UA005072,28 Aug 16,7,GPHC,Port Melbourne,No. 2,Charlotte McIntosh,Oscar Burdett,Charlotte McIntosh,6-1,6,1,1,0,Completed,true,false,false
+UA005072,28 Aug 16,7,GPHC,Port Melbourne,No. 3,Charlie Dobrotwir,Josh McKenzie,Charlie Dobrotwir,6-0,6,0,1,0,Completed,true,false,false
+UA005072,28 Aug 16,7,GPHC,Port Melbourne,No. 4,Mia Retschko,Mia Dorgue,Mia Retschko,6-0,6,0,1,0,Completed,true,false,false
+UA005073,28 Aug 16,7,Parkdale,Kings Park,No. 1,James Bryan,Craig Stewart,Craig Stewart,2-6,2,6,0,1,Completed,true,false,false
+UA005073,28 Aug 16,7,Parkdale,Kings Park,No. 2,Josh Nibbs,Bianca Denisenko,Bianca Denisenko,6-7,6,7,0,1,Completed,true,false,false
+UA005073,28 Aug 16,7,Parkdale,Kings Park,No. 3,Matthew Nibbs,Hugo Murray,Matthew Nibbs,6-1,6,1,1,0,Completed,true,false,false
+UA005073,28 Aug 16,7,Parkdale,Kings Park,No. 4,Keirath Singh,Sierra Danon,Keirath Singh,6-1,6,1,1,0,Completed,true,false,false
+UA005074,28 Aug 16,7,Kooyong Scotch 2,Dendy Park,No. 1,Jessica Pila,Hugh Simpson,Jessica Pila,6-2,6,2,1,0,Completed,true,false,false
+UA005074,28 Aug 16,7,Kooyong Scotch 2,Dendy Park,No. 2,Charlie Potter,Ruben Landman,Charlie Potter,6-4,6,4,1,0,Completed,true,false,false
+UA005074,28 Aug 16,7,Kooyong Scotch 2,Dendy Park,No. 3,Tania Szwarczberg,Mia Smith,Tania Szwarczberg,6-1,6,1,1,0,Completed,true,false,false
+UA005074,28 Aug 16,7,Kooyong Scotch 2,Dendy Park,No. 4,Madi Allen,Joey Kaminsky,Joey Kaminsky,3-6,3,6,0,1,Completed,true,false,false
+UA005081,04 Sep 16,8,Dendy Park,Royal Ave,No. 1,Josh Fricke,Harley Chessells,Josh Fricke,6-2,6,2,1,0,Completed,true,false,false
+UA005081,04 Sep 16,8,Dendy Park,Royal Ave,No. 2,Dylan Mathews,Kailan McKinall,Kailan McKinall,4-6,4,6,0,1,Completed,true,false,false
+UA005081,04 Sep 16,8,Dendy Park,Royal Ave,No. 3,Hugh Simpson,Lachlan Costello,Hugh Simpson,6-4,6,4,1,0,Completed,true,false,false
+UA005081,04 Sep 16,8,Dendy Park,Royal Ave,No. 4,Ruben Landman,Gustavo Macedo,Ruben Landman,6-1,6,1,1,0,Completed,true,false,false
+UA005082,04 Sep 16,8,Kings Park,GPHC,No. 1,Craig Stewart,Alex Brendish,Craig Stewart,6-2,6,2,1,0,Completed,true,false,false
+UA005082,04 Sep 16,8,Kings Park,GPHC,No. 2,Bianca Denisenko,Charlotte McIntosh,Bianca Denisenko,7-6,7,6,1,0,Completed,true,false,false
+UA005082,04 Sep 16,8,Kings Park,GPHC,No. 3,Hugo Murray,Nelson Beadle,Nelson Beadle,0-6,0,6,0,1,Completed,true,false,false
+UA005082,04 Sep 16,8,Kings Park,GPHC,No. 4,Zane Pierzchalski,Mia Retschko,Zane Pierzchalski,6-4,6,4,1,0,Completed,true,false,false
+UA005083,04 Sep 16,8,Kooyong Scotch 2,Kooyong Scotch 1,No. 1,Jessica Pila,Nicholas Lester,Jessica Pila,6-1,6,1,1,0,Completed,true,false,false
+UA005083,04 Sep 16,8,Kooyong Scotch 2,Kooyong Scotch 1,No. 2,Charlie Potter,Toby McOmish,Toby McOmish,4-6,4,6,0,1,Completed,true,false,false
+UA005083,04 Sep 16,8,Kooyong Scotch 2,Kooyong Scotch 1,No. 3,Rebecca Pierri,Nick Wotherspoon,Rebecca Pierri,6-4,6,4,1,0,Completed,true,false,false
+UA005083,04 Sep 16,8,Kooyong Scotch 2,Kooyong Scotch 1,No. 4,Madi Allen,Liron Lelah,Madi Allen,6-3,6,3,1,0,Completed,true,false,false
+UA005084,04 Sep 16,8,Parkdale,Port Melbourne,No. 1,James Bryan,Josh Kempin,Josh Kempin,2-6,2,6,0,1,Completed,true,false,false
+UA005084,04 Sep 16,8,Parkdale,Port Melbourne,No. 2,John Paterson,Ben Walker-Savage,Ben Walker-Savage,1-6,1,6,0,1,Completed,true,false,false
+UA005084,04 Sep 16,8,Parkdale,Port Melbourne,No. 3,Josh Nibbs,Sarah Ryan,Josh Nibbs,6-2,6,2,1,0,Completed,true,false,false
+UA005084,04 Sep 16,8,Parkdale,Port Melbourne,No. 4,Matthew Nibbs,Mia Dorgue,Matthew Nibbs,6-0,6,0,1,0,Completed,true,false,false
+UA005091,11 Sep 16,9,Royal Ave,Parkdale,No. 1,Harley Chessells,Josh Nibbs,Josh Nibbs,3-6,3,6,0,1,Completed,true,false,false
+UA005091,11 Sep 16,9,Royal Ave,Parkdale,No. 2,Kailan McKinall,Matthew Nibbs,Matthew Nibbs,4-6,4,6,0,1,Completed,true,false,false
+UA005091,11 Sep 16,9,Royal Ave,Parkdale,No. 3,Gustavo Macedo,Keirath Singh,Keirath Singh,0-6,0,6,0,1,Completed,true,false,false
+UA005091,11 Sep 16,9,Royal Ave,Parkdale,No. 4,Sam Kanizay,[Unnamed player — TROLS UA005091 away code 4],Sam Kanizay,6-0,6,0,1,0,Completed,false,false,false
+UA005092,11 Sep 16,9,GPHC,Dendy Park,No. 1,Alex Brendish,Josh Fricke,Josh Fricke,1-6,1,6,0,1,Completed,true,false,false
+UA005092,11 Sep 16,9,GPHC,Dendy Park,No. 2,Charlotte McIntosh,Hugh Simpson,Charlotte McIntosh,6-2,6,2,1,0,Completed,true,false,false
+UA005092,11 Sep 16,9,GPHC,Dendy Park,No. 3,Mia Retschko,Jacob Lewis,Mia Retschko,7-5,7,5,1,0,Completed,true,false,false
+UA005092,11 Sep 16,9,GPHC,Dendy Park,No. 4,Esther White,Ruben Landman,Esther White,6-4,6,4,1,0,Completed,true,false,false
+UA005093,11 Sep 16,9,Kooyong Scotch 1,Kings Park,No. 1,Toby McOmish,Craig Stewart,Toby McOmish,6-0,6,0,1,0,Completed,true,false,false
+UA005093,11 Sep 16,9,Kooyong Scotch 1,Kings Park,No. 2,Aaron Koh,Hugo Murray,Aaron Koh,6-2,6,2,1,0,Completed,true,false,false
+UA005093,11 Sep 16,9,Kooyong Scotch 1,Kings Park,No. 3,Nick Wotherspoon,Zane Pierzchalski,Nick Wotherspoon,6-3,6,3,1,0,Completed,true,false,false
+UA005093,11 Sep 16,9,Kooyong Scotch 1,Kings Park,No. 4,Liron Lelah,Sierra Danon,Sierra Danon,0-6,0,6,0,1,Completed,true,false,false
+UA005094,11 Sep 16,9,Port Melbourne,Kooyong Scotch 2,No. 1,Josh Kempin,Charlie Potter,Charlie Potter,5-7,5,7,0,1,Completed,true,false,false
+UA005094,11 Sep 16,9,Port Melbourne,Kooyong Scotch 2,No. 2,Ben Walker-Savage,Rebecca Pierri,Ben Walker-Savage,6-4,6,4,1,0,Completed,true,false,false
+UA005094,11 Sep 16,9,Port Melbourne,Kooyong Scotch 2,No. 3,Sarah Ryan,Tania Szwarczberg,Tania Szwarczberg,3-6,3,6,0,1,Completed,true,false,false
+UA005094,11 Sep 16,9,Port Melbourne,Kooyong Scotch 2,No. 4,Mia Dorgue,Madi Allen,Mia Dorgue,7-5,7,5,1,0,Completed,true,false,false
+UA005101,09 Oct 16,10,Kooyong Scotch 2,Royal Ave,No. 1,Jessica Pila,Liam Doyle,Jessica Pila,6-3,6,3,1,0,Completed,true,false,false
+UA005101,09 Oct 16,10,Kooyong Scotch 2,Royal Ave,No. 2,Rebecca Pierri,Harley Chessells,Harley Chessells,2-6,2,6,0,1,Completed,true,false,false
+UA005101,09 Oct 16,10,Kooyong Scotch 2,Royal Ave,No. 3,Tania Szwarczberg,Kailan McKinall,Kailan McKinall,4-6,4,6,0,1,Completed,true,false,false
+UA005101,09 Oct 16,10,Kooyong Scotch 2,Royal Ave,No. 4,Madi Allen,Lachie Green,Lachie Green,1-6,1,6,0,1,Completed,true,false,false
+UA005102,09 Oct 16,10,Parkdale,GPHC,No. 1,James Bryan,Alex Brendish,James Bryan,6-2,6,2,1,0,Completed,true,false,false
+UA005102,09 Oct 16,10,Parkdale,GPHC,No. 2,John Paterson,Charlotte McIntosh,Charlotte McIntosh,3-6,3,6,0,1,Completed,true,false,false
+UA005102,09 Oct 16,10,Parkdale,GPHC,No. 3,Josh Nibbs,Charlie Dobrotwir,Charlie Dobrotwir,0-6,0,6,0,1,Completed,true,false,false
+UA005102,09 Oct 16,10,Parkdale,GPHC,No. 4,Keirath Singh,Nelson Beadle,Keirath Singh,7-5,7,5,1,0,Completed,true,false,false
+UA005103,09 Oct 16,10,Dendy Park,Kooyong Scotch 1,No. 1,Josh Fricke,Nicholas Lester,Nicholas Lester,3-6,3,6,0,1,Completed,true,false,false
+UA005103,09 Oct 16,10,Dendy Park,Kooyong Scotch 1,No. 2,Dylan Mathews,Jack Ganly,Dylan Mathews,6-3,6,3,1,0,Completed,true,false,false
+UA005103,09 Oct 16,10,Dendy Park,Kooyong Scotch 1,No. 3,Hugh Simpson,Nick Wotherspoon,Hugh Simpson,6-0,6,0,1,0,Completed,true,false,false
+UA005103,09 Oct 16,10,Dendy Park,Kooyong Scotch 1,No. 4,Ruben Landman,Liron Lelah,Ruben Landman,6-2,6,2,1,0,Completed,true,false,false
+UA005104,09 Oct 16,10,Kings Park,Port Melbourne,No. 1,Oscar Eden,Josh Kempin,Oscar Eden,6-3,6,3,1,0,Completed,true,false,false
+UA005104,09 Oct 16,10,Kings Park,Port Melbourne,No. 2,Craig Stewart,Ben Walker-Savage,Ben Walker-Savage,3-6,3,6,0,1,Completed,true,false,false
+UA005104,09 Oct 16,10,Kings Park,Port Melbourne,No. 3,Bianca Denisenko,Oscar Burdett,Bianca Denisenko,6-0,6,0,1,0,Completed,true,false,false
+UA005104,09 Oct 16,10,Kings Park,Port Melbourne,No. 4,Hugo Murray,Sarah Ryan,Sarah Ryan,1-6,1,6,0,1,Completed,true,false,false
+UA005111,16 Oct 16,11,Royal Ave,Kings Park,No. 1,Liam Doyle,Oscar Eden,Oscar Eden,1-6,1,6,0,1,Completed,true,false,false
+UA005111,16 Oct 16,11,Royal Ave,Kings Park,No. 2,Harley Chessells,Craig Stewart,Harley Chessells,7-6,7,6,1,0,Completed,true,false,false
+UA005111,16 Oct 16,11,Royal Ave,Kings Park,No. 3,Lachie Green,Hugo Murray,Lachie Green,6-0,6,0,1,0,Completed,true,false,false
+UA005111,16 Oct 16,11,Royal Ave,Kings Park,No. 4,Gustavo Macedo,Sierra Danon,Gustavo Macedo,6-2,6,2,1,0,Completed,true,false,false
+UA005112,16 Oct 16,11,GPHC,Kooyong Scotch 2,No. 1,Charlotte McIntosh,Jessica Pila,Charlotte McIntosh,6-4,6,4,1,0,Completed,true,false,false
+UA005112,16 Oct 16,11,GPHC,Kooyong Scotch 2,No. 2,Charlie Dobrotwir,Charlie Potter,Charlie Dobrotwir,6-3,6,3,1,0,Completed,true,false,false
+UA005112,16 Oct 16,11,GPHC,Kooyong Scotch 2,No. 3,Nelson Beadle,Rebecca Pierri,Nelson Beadle,6-2,6,2,1,0,Completed,true,false,false
+UA005112,16 Oct 16,11,GPHC,Kooyong Scotch 2,No. 4,Mia Retschko,Madi Allen,Mia Retschko,6-1,6,1,1,0,Completed,true,false,false
+UA005113,16 Oct 16,11,Kooyong Scotch 1,Parkdale,No. 1,Jack Ganly,James Bryan,Jack Ganly,6-0,6,0,1,0,Completed,true,false,false
+UA005113,16 Oct 16,11,Kooyong Scotch 1,Parkdale,No. 2,Toby McOmish,John Paterson,Toby McOmish,6-3,6,3,1,0,Completed,true,false,false
+UA005113,16 Oct 16,11,Kooyong Scotch 1,Parkdale,No. 3,Nick Wotherspoon,Matthew Nibbs,Matthew Nibbs,6-7,6,7,0,1,Completed,true,false,false
+UA005113,16 Oct 16,11,Kooyong Scotch 1,Parkdale,No. 4,Liron Lelah,Keirath Singh,Keirath Singh,1-6,1,6,0,1,Completed,true,false,false
+UA005114,16 Oct 16,11,Port Melbourne,Dendy Park,No. 1,Josh Kempin,Josh Fricke,Josh Kempin,6-2,6,2,1,0,Completed,true,false,false
+UA005114,16 Oct 16,11,Port Melbourne,Dendy Park,No. 2,Ben Walker-Savage,Jacob Lewis,Ben Walker-Savage,6-4,6,4,1,0,Completed,true,false,false
+UA005114,16 Oct 16,11,Port Melbourne,Dendy Park,No. 3,Oscar Burdett,Ruben Landman,Ruben Landman,0-6,0,6,0,1,Completed,true,false,false
+UA005114,16 Oct 16,11,Port Melbourne,Dendy Park,No. 4,Mia Dorgue,Mia Smith,Mia Smith,3-6,3,6,0,1,Completed,true,false,false
+UA005123,23 Oct 16,12,Dendy Park,Kings Park,No. 1,Josh Fricke,Oscar Eden,Oscar Eden,0-6,0,6,0,1,Completed,true,false,false
+UA005123,23 Oct 16,12,Dendy Park,Kings Park,No. 2,Dylan Mathews,Craig Stewart,Craig Stewart,6-7,6,7,0,1,Completed,true,false,false
+UA005123,23 Oct 16,12,Dendy Park,Kings Park,No. 3,Jacob Lewis,Bianca Denisenko,Bianca Denisenko,5-7,5,7,0,1,Completed,true,false,false
+UA005123,23 Oct 16,12,Dendy Park,Kings Park,No. 4,Ruben Landman,Zane Pierzchalski,Ruben Landman,7-5,7,5,1,0,Completed,true,false,false
+UA005131,06 Nov 16,13,Kooyong Scotch 1,GPHC,No. 1,Nicholas Lester,Alex Brendish,Nicholas Lester,6-1,6,1,1,0,Completed,true,false,false
+UA005131,06 Nov 16,13,Kooyong Scotch 1,GPHC,No. 2,Jack Ganly,Charlotte McIntosh,Jack Ganly,6-4,6,4,1,0,Completed,true,false,false
+UA005131,06 Nov 16,13,Kooyong Scotch 1,GPHC,No. 3,Toby McOmish,Charlie Dobrotwir,Toby McOmish,6-3,6,3,1,0,Completed,true,false,false
+UA005131,06 Nov 16,13,Kooyong Scotch 1,GPHC,No. 4,Liron Lelah,Nelson Beadle,Nelson Beadle,0-6,0,6,0,1,Completed,true,false,false
+UA005132,06 Nov 16,13,Royal Ave,Port Melbourne,No. 1,Liam Doyle,Josh Kempin,Josh Kempin,4-6,4,6,0,1,Completed,true,false,false
+UA005132,06 Nov 16,13,Royal Ave,Port Melbourne,No. 2,Kailan McKinall,Oscar Burdett,Kailan McKinall,6-1,6,1,1,0,Completed,true,false,false
+UA005132,06 Nov 16,13,Royal Ave,Port Melbourne,No. 3,Lachie Green,Sarah Ryan,Lachie Green,6-1,6,1,1,0,Completed,true,false,false
+UA005132,06 Nov 16,13,Royal Ave,Port Melbourne,No. 4,Gustavo Macedo,Mia Dorgue,Gustavo Macedo,6-0,6,0,1,0,Completed,true,false,false
+UA005133,06 Nov 16,13,Kings Park,Kooyong Scotch 2,No. 1,Oscar Eden,Jessica Pila,Oscar Eden,6-4,6,4,1,0,Completed,true,false,false
+UA005133,06 Nov 16,13,Kings Park,Kooyong Scotch 2,No. 2,Bianca Denisenko,Charlie Potter,Charlie Potter,4-6,4,6,0,1,Completed,true,false,false
+UA005133,06 Nov 16,13,Kings Park,Kooyong Scotch 2,No. 3,Hugo Murray,Tania Szwarczberg,Tania Szwarczberg,3-6,3,6,0,1,Completed,true,false,false
+UA005133,06 Nov 16,13,Kings Park,Kooyong Scotch 2,No. 4,Sierra Danon,Madi Allen,Madi Allen,6-7,6,7,0,1,Completed,true,false,false
+UA005134,06 Nov 16,13,Parkdale,Dendy Park,No. 1,James Bryan,Josh Fricke,Josh Fricke,0-6,0,6,0,1,Completed,true,false,false
+UA005134,06 Nov 16,13,Parkdale,Dendy Park,No. 2,John Paterson,Dylan Mathews,Dylan Mathews,2-6,2,6,0,1,Completed,true,false,false
+UA005134,06 Nov 16,13,Parkdale,Dendy Park,No. 3,Josh Nibbs,Hugh Simpson,Hugh Simpson,4-6,4,6,0,1,Completed,true,false,false
+UA005134,06 Nov 16,13,Parkdale,Dendy Park,No. 4,Matthew Nibbs,Mia Smith,Matthew Nibbs,6-3,6,3,1,0,Completed,true,false,false
+UA005141,13 Nov 16,14,Kooyong Scotch 1,Royal Ave,No. 1,Nicholas Lester,Harley Chessells,Harley Chessells,4-6,4,6,0,1,Completed,true,false,false
+UA005141,13 Nov 16,14,Kooyong Scotch 1,Royal Ave,No. 2,Jack Ganly,Kailan McKinall,Kailan McKinall,3-6,3,6,0,1,Completed,true,false,false
+UA005141,13 Nov 16,14,Kooyong Scotch 1,Royal Ave,No. 3,Toby McOmish,Lachie Green,Toby McOmish,6-1,6,1,1,0,Completed,true,false,false
+UA005141,13 Nov 16,14,Kooyong Scotch 1,Royal Ave,No. 4,Nick Wotherspoon,Gustavo Macedo,Nick Wotherspoon,6-3,6,3,1,0,Completed,true,false,false
+UA005142,13 Nov 16,14,Port Melbourne,GPHC,No. 1,Josh Kempin,Alex Brendish,Alex Brendish,4-6,4,6,0,1,Completed,true,false,false
+UA005142,13 Nov 16,14,Port Melbourne,GPHC,No. 2,Ben Walker-Savage,Charlotte McIntosh,Charlotte McIntosh,1-6,1,6,0,1,Completed,true,false,false
+UA005142,13 Nov 16,14,Port Melbourne,GPHC,No. 3,Oscar Burdett,Charlie Dobrotwir,Charlie Dobrotwir,0-6,0,6,0,1,Completed,true,false,false
+UA005142,13 Nov 16,14,Port Melbourne,GPHC,No. 4,Mia Dorgue,Nelson Beadle,Nelson Beadle,1-6,1,6,0,1,Completed,true,false,false
+UA005143,13 Nov 16,14,Kings Park,Parkdale,No. 1,Bianca Denisenko,James Bryan,James Bryan,1-6,1,6,0,1,Completed,true,false,false
+UA005143,13 Nov 16,14,Kings Park,Parkdale,No. 2,Hugo Murray,John Paterson,John Paterson,2-6,2,6,0,1,Completed,true,false,false
+UA005143,13 Nov 16,14,Kings Park,Parkdale,No. 3,Zane Pierzchalski,[Unnamed player — TROLS UA005143 away code 3],Zane Pierzchalski,6-0,6,0,1,0,Completed,false,false,false
+UA005143,13 Nov 16,14,Kings Park,Parkdale,No. 4,Sierra Danon,Keirath Singh,Keirath Singh,0-6,0,6,0,1,Completed,true,false,false
+UA005144,13 Nov 16,14,Dendy Park,Kooyong Scotch 2,No. 1,Josh Fricke,Jessica Pila,Josh Fricke,6-1,6,1,1,0,Completed,true,false,false
+UA005144,13 Nov 16,14,Dendy Park,Kooyong Scotch 2,No. 2,Dylan Mathews,Charlie Potter,Dylan Mathews,6-2,6,2,1,0,Completed,true,false,false
+UA005144,13 Nov 16,14,Dendy Park,Kooyong Scotch 2,No. 3,Hugh Simpson,Tania Szwarczberg,Hugh Simpson,6-3,6,3,1,0,Completed,true,false,false
+UA005144,13 Nov 16,14,Dendy Park,Kooyong Scotch 2,No. 4,Mia Smith,Madi Allen,Mia Smith,7-6,7,6,1,0,Completed,true,false,false
+UA005301,,16,Kooyong Scotch 1,Kings Park,No. 1,Nicholas Lester,Oscar Eden,Nicholas Lester,7-5,7,5,1,0,Completed,true,false,false
+UA005301,,16,Kooyong Scotch 1,Kings Park,No. 2,Jack Ganly,Craig Stewart,Jack Ganly,6-2,6,2,1,0,Completed,true,false,false
+UA005301,,16,Kooyong Scotch 1,Kings Park,No. 3,Toby McOmish,Bianca Denisenko,Toby McOmish,6-0,6,0,1,0,Completed,true,false,false
+UA005301,,16,Kooyong Scotch 1,Kings Park,No. 4,Nick Wotherspoon,Zane Pierzchalski,Nick Wotherspoon,6-1,6,1,1,0,Completed,true,false,false
+UA005302,,16,GPHC,Dendy Park,No. 1,Alex Brendish,Josh Fricke,Alex Brendish,6-3,6,3,1,0,Completed,true,false,false
+UA005302,,16,GPHC,Dendy Park,No. 2,Charlotte McIntosh,Dylan Mathews,Charlotte McIntosh,7-6,7,6,1,0,Completed,true,false,false
+UA005302,,16,GPHC,Dendy Park,No. 3,Charlie Dobrotwir,Hugh Simpson,Charlie Dobrotwir,7-5,7,5,1,0,Completed,true,false,false
+UA005302,,16,GPHC,Dendy Park,No. 4,Nelson Beadle,Jacob Lewis,Jacob Lewis,0-6,0,6,0,1,Completed,true,false,false
+UA005321,,17,Kooyong Scotch 1,GPHC,No. 1,Nicholas Lester,Alex Brendish,Nicholas Lester,7-6,7,6,1,0,Completed,true,false,false
+UA005321,,17,Kooyong Scotch 1,GPHC,No. 2,Jack Ganly,Charlotte McIntosh,Jack Ganly,6-0,6,0,1,0,Completed,true,false,false
+UA005321,,17,Kooyong Scotch 1,GPHC,No. 3,Toby McOmish,Charlie Dobrotwir,Toby McOmish,6-0,6,0,1,0,Completed,true,false,false
+UA005321,,17,Kooyong Scotch 1,GPHC,No. 4,Nick Wotherspoon,Mia Retschko,Nick Wotherspoon,6-3,6,3,1,0,Completed,true,false,false

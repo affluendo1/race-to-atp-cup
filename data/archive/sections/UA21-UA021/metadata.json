@@ -1,0 +1,85 @@
+{
+  "asset_id": "UA21-UA021",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2017",
+  "season_id": "UA21",
+  "season_label": "Spring 2017",
+  "source_section_code": "UA021",
+  "section_label": "Section 21",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Andrews MB Kevins",
+      "wins": 8,
+      "points": 83.5,
+      "percentage": 142.86,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Bentleigh Rec",
+      "wins": 5,
+      "points": 65,
+      "percentage": 112.45,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Lauriston",
+      "wins": 4,
+      "points": 61,
+      "percentage": 112.9,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Dendy Park",
+      "wins": 5,
+      "points": 58.5,
+      "percentage": 95.88,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Le Page",
+      "wins": 6,
+      "points": 58,
+      "percentage": 97.41,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Black Rock",
+      "wins": 5,
+      "points": 53,
+      "percentage": 94.72,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC MLC",
+      "wins": 1,
+      "points": 35,
+      "percentage": 61.72,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA21-UA021",
+  "fixtures": 59,
+  "completed_fixtures": 39,
+  "draw_fixtures": 59,
+  "singles_rubbers": 155,
+  "doubles_rubbers": 77,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for UA021053"
+  ]
+}

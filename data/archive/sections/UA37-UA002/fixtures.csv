@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA002011,27 Jul 25,1,regular,Round 1,Mentone,BLTC,7,3,3,3,,,31,26,Completed,
+UA002013,27 Jul 25,1,regular,Round 1,Hurlingham Park,Le Page,10,0,6,0,,,36,16,Completed,
+UA002014,27 Jul 25,1,regular,Round 1,Murrumbeena,Elsternwick Park,8,2,4,2,,,36,26,Completed,
+pending-ua002-r1-kings-park-bye,27 Jul 25,1,regular,Round 1,Kings Park,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002021,03 Aug 25,2,regular,Round 2,Elsternwick Park,Mentone,9,1,5,1,,,31,16,Completed,
+UA002022,03 Aug 25,2,regular,Round 2,BLTC,Kings Park,3,7,3,3,,,27,30,Completed,
+UA002024,03 Aug 25,2,regular,Round 2,Le Page,Murrumbeena,2,8,2,4,,,19,26,Completed,
+pending-ua002-r2-bye-hurlingham-park,03 Aug 25,2,regular,Round 2,Bye,Hurlingham Park,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002031,10 Aug 25,3,regular,Round 3,Mentone,Le Page,0,10,0,6,,,20,38,Completed,
+UA002032,10 Aug 25,3,regular,Round 3,Kings Park,Elsternwick Park,8,2,4,2,,,30,26,Completed,
+UA002033,10 Aug 25,3,regular,Round 3,Hurlingham Park,BLTC,2,8,2,4,,,27,29,Completed,
+pending-ua002-r3-murrumbeena-bye,10 Aug 25,3,regular,Round 3,Murrumbeena,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002042,17 Aug 25,4,regular,Round 4,Le Page,Kings Park,8,2,4,2,,,27,24,Completed,
+UA002043,17 Aug 25,4,regular,Round 4,Elsternwick Park,Hurlingham Park,3,7,3,3,,,28,31,Completed,
+UA002044,17 Aug 25,4,regular,Round 4,BLTC,Murrumbeena,2,8,2,4,,,18,28,Completed,
+pending-ua002-r4-bye-mentone,17 Aug 25,4,regular,Round 4,Bye,Mentone,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002051,24 Aug 25,5,regular,Round 5,Hurlingham Park,Murrumbeena,7,3,3,3,,,28,25,Completed,
+UA002052,24 Aug 25,5,regular,Round 5,Elsternwick Park,Le Page,7,3,3,3,,,28,25,Completed,
+UA002054,24 Aug 25,5,regular,Round 5,Mentone,Kings Park,8,2,4,2,,,35,24,Completed,
+pending-ua002-r5-bye-bltc,24 Aug 25,5,regular,Round 5,Bye,BLTC,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002061,31 Aug 25,6,regular,Round 6,Kings Park,Hurlingham Park,8,2,4,2,,,32,27,Completed,
+UA002062,31 Aug 25,6,regular,Round 6,Murrumbeena,Mentone,2,8,2,4,,,31,33,Completed,
+UA002064,31 Aug 25,6,regular,Round 6,BLTC,Elsternwick Park,2,8,2,4,,,20,31,Completed,
+pending-ua002-r6-le-page-bye,31 Aug 25,6,regular,Round 6,Le Page,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002071,07 Sep 25,7,regular,Round 7,Mentone,Hurlingham Park,7,3,3,3,,,29,23,Completed,
+UA002072,07 Sep 25,7,regular,Round 7,Kings Park,Murrumbeena,3,7,3,3,,,25,26,Completed,
+UA002074,07 Sep 25,7,regular,Round 7,Le Page,BLTC,8,2,4,2,,,28,27,Completed,
+pending-ua002-r7-elsternwick-park-bye,07 Sep 25,7,regular,Round 7,Elsternwick Park,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002081,14 Sep 25,8,regular,Round 8,BLTC,Mentone,8,2,4,2,,,34,23,Completed,
+UA002083,14 Sep 25,8,regular,Round 8,Le Page,Hurlingham Park,8,2,4,2,,,33,24,Completed,
+UA002084,14 Sep 25,8,regular,Round 8,Elsternwick Park,Murrumbeena,3,7,3,3,,,25,30,Completed,
+pending-ua002-r8-bye-kings-park,14 Sep 25,8,regular,Round 8,Bye,Kings Park,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002091,12 Oct 25,9,regular,Round 9,Mentone,Elsternwick Park,9,1,5,1,,,36,18,Completed,
+UA002092,12 Oct 25,9,regular,Round 9,Kings Park,BLTC,8,2,4,2,,,30,19,Completed,
+UA002094,12 Oct 25,9,regular,Round 9,Murrumbeena,Le Page,7,3,3,3,,,34,28,Completed,
+pending-ua002-r9-hurlingham-park-bye,12 Oct 25,9,regular,Round 9,Hurlingham Park,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002101,19 Oct 25,10,regular,Round 10,Le Page,Mentone,8,2,4,2,,,31,27,Completed,
+UA002102,19 Oct 25,10,regular,Round 10,Elsternwick Park,Kings Park,9,1,5,1,,,32,19,Completed,
+UA002103,19 Oct 25,10,regular,Round 10,BLTC,Hurlingham Park,7,3,3,3,,,31,30,Completed,
+pending-ua002-r10-bye-murrumbeena,19 Oct 25,10,regular,Round 10,Bye,Murrumbeena,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002113,26 Oct 25,11,regular,Round 11,Hurlingham Park,Elsternwick Park,7.5,2.5,3,2,,,28,23,Completed,
+UA002114,26 Oct 25,11,regular,Round 11,Murrumbeena,BLTC,7,3,3,3,,,27,25,Completed,
+pending-ua002-r11-kings-park-le-page,26 Oct 25,11,regular,Round 11,Kings Park,Le Page,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua002-r11-mentone-bye,26 Oct 25,11,regular,Round 11,Mentone,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002122,09 Nov 25,12,regular,Round 12,Le Page,Elsternwick Park,8,2,4,2,,,32,20,Completed,
+UA002124,09 Nov 25,12,regular,Round 12,Kings Park,Mentone,7,3,3,3,,,34,26,Completed,
+pending-ua002-r12-bltc-bye,09 Nov 25,12,regular,Round 12,BLTC,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua002-r12-murrumbeena-hurlingham-park,09 Nov 25,12,regular,Round 12,Murrumbeena,Hurlingham Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA002131,16 Nov 25,13,regular,Round 13,Hurlingham Park,Kings Park,8,2,4,2,,,33,25,Completed,
+UA002132,16 Nov 25,13,regular,Round 13,Mentone,Murrumbeena,1,9,1,5,,,21,32,Completed,
+UA002134,16 Nov 25,13,regular,Round 13,Elsternwick Park,BLTC,5.5,4.5,3,2,,,27,25,Completed,
+pending-ua002-r13-bye-le-page,16 Nov 25,13,regular,Round 13,Bye,Le Page,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002141,23 Nov 25,14,regular,Round 14,Hurlingham Park,Mentone,9,1,5,1,,,34,14,Completed,
+pending-ua002-r14-bltc-le-page,23 Nov 25,14,regular,Round 14,BLTC,Le Page,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua002-r14-bye-elsternwick-park,23 Nov 25,14,regular,Round 14,Bye,Elsternwick Park,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua002-r14-murrumbeena-kings-park,23 Nov 25,14,regular,Round 14,Murrumbeena,Kings Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA002301,,16,semi_final,Semi-final,Murrumbeena,Kings Park,7.5,2.5,3,2,,,25,16,Completed,
+UA002302,,16,semi_final,Semi-final,Le Page,Hurlingham Park,7,3,3,3,,,27,26,Completed,
+UA002321,,17,grand_final,Grand final · TROLS entry 2,Murrumbeena,Le Page,8,2,4,2,,,31,25,Completed,

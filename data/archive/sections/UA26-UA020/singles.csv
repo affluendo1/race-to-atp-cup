@@ -1,0 +1,81 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA020011,02 Feb 20,1,Dendy Park,Kings Park,No. 1,Indigo Jellis,Aimi Hatigan,Aimi Hatigan,6-7,6,7,0,1,Completed,true,false,false
+UA020011,02 Feb 20,1,Dendy Park,Kings Park,No. 2,Abbie Lord,Sophia Leigh,Sophia Leigh,3-6,3,6,0,1,Completed,true,true,false
+UA020011,02 Feb 20,1,Dendy Park,Kings Park,No. 3,Charlotte O'Brien,Dillon Theron,Dillon Theron,6-7,6,7,0,1,Completed,true,false,false
+UA020011,02 Feb 20,1,Dendy Park,Kings Park,No. 4,Will Francis,Joanna Wang,Joanna Wang,4-6,4,6,0,1,Completed,true,false,false
+UA020012,02 Feb 20,1,GPHC MLC,Elsternwick Park,No. 1,Sylvie Smith,Alastair Smith,Alastair Smith,1-6,1,6,0,1,Completed,true,false,false
+UA020012,02 Feb 20,1,GPHC MLC,Elsternwick Park,No. 2,Maddi Bare,Miller White,Miller White,0-6,0,6,0,1,Completed,true,false,false
+UA020012,02 Feb 20,1,GPHC MLC,Elsternwick Park,No. 3,Zara Bare,Tasmin Ride,Tasmin Ride,1-6,1,6,0,1,Completed,true,false,false
+UA020012,02 Feb 20,1,GPHC MLC,Elsternwick Park,No. 4,Gracie Lu,Harry Denning,Harry Denning,1-6,1,6,0,1,Completed,true,false,false
+UA020013,02 Feb 20,1,Mentone,Lauriston,No. 1,Lee Moore,Naineishia Kota,Naineishia Kota,2-6,2,6,0,1,Completed,true,false,false
+UA020013,02 Feb 20,1,Mentone,Lauriston,No. 2,Ruby Bowman,Kristine Dodd,Ruby Bowman,6-1,6,1,1,0,Completed,true,false,false
+UA020013,02 Feb 20,1,Mentone,Lauriston,No. 3,Atahan Yildiz,Elliott Davis,Elliott Davis,5-7,5,7,0,1,Completed,true,false,false
+UA020013,02 Feb 20,1,Mentone,Lauriston,No. 4,Zach Granell,Noam Hoffman,Noam Hoffman,4-6,4,6,0,1,Completed,true,false,false
+UA020014,02 Feb 20,1,Centenary Park,Glen Huntly,No. 1,Caitlyn Vinton,Lior Middelforf,Lior Middelforf,0-6,0,6,0,1,Completed,true,false,false
+UA020014,02 Feb 20,1,Centenary Park,Glen Huntly,No. 2,Sasha Minnin,Dhruv Rawas,Sasha Minnin,6-4,6,4,1,0,Completed,true,false,false
+UA020014,02 Feb 20,1,Centenary Park,Glen Huntly,No. 3,Daria Kovnereva,Noah Matznar,Noah Matznar,2-6,2,6,0,1,Completed,true,false,false
+UA020014,02 Feb 20,1,Centenary Park,Glen Huntly,No. 4,Andjecina Avdyugin,Arusha Mane,Arusha Mane,0-6,0,6,0,1,Completed,true,false,false
+UA020021,09 Feb 20,2,Glen Huntly,Dendy Park,No. 1,Lior Middelforf,Abbie Lord,Lior Middelforf,6-1,6,1,1,0,Completed,true,false,true
+UA020021,09 Feb 20,2,Glen Huntly,Dendy Park,No. 2,Dhruv Rawas,Indigo Jellis,Indigo Jellis,5-7,5,7,0,1,Completed,true,false,false
+UA020021,09 Feb 20,2,Glen Huntly,Dendy Park,No. 3,Noah Matznar,Charlotte O'Brien,Noah Matznar,6-3,6,3,1,0,Completed,true,false,false
+UA020021,09 Feb 20,2,Glen Huntly,Dendy Park,No. 4,Arusha Mane,Will Francis,Arusha Mane,6-3,6,3,1,0,Completed,true,false,false
+UA020022,09 Feb 20,2,Kings Park,GPHC MLC,No. 1,Madhav Gokulanathan,Maddi Bare,Madhav Gokulanathan,7-5,7,5,1,0,Completed,true,false,false
+UA020022,09 Feb 20,2,Kings Park,GPHC MLC,No. 2,Aimi Hatigan,Zara Bare,Aimi Hatigan,6-4,6,4,1,0,Completed,true,false,false
+UA020022,09 Feb 20,2,Kings Park,GPHC MLC,No. 3,Sophia Leigh,Sienna Dobson,Sophia Leigh,6-0,6,0,1,0,Completed,true,false,false
+UA020022,09 Feb 20,2,Kings Park,GPHC MLC,No. 4,Aeryn Nochomivitz,Kara Freitag,Aeryn Nochomivitz,6-4,6,4,1,0,Completed,true,false,false
+UA020023,09 Feb 20,2,Elsternwick Park,Mentone,No. 1,Kieran McGurran,Lee Moore,Kieran McGurran,6-1,6,1,1,0,Completed,true,false,false
+UA020023,09 Feb 20,2,Elsternwick Park,Mentone,No. 2,Alastair Smith,Ruby Bowman,Alastair Smith,7-5,7,5,1,0,Completed,true,false,false
+UA020023,09 Feb 20,2,Elsternwick Park,Mentone,No. 3,Miller White,Amira Bird,Miller White,6-0,6,0,1,0,Completed,true,false,false
+UA020023,09 Feb 20,2,Elsternwick Park,Mentone,No. 4,Austin Haines,Zach Granell,Austin Haines,6-1,6,1,1,0,Completed,true,false,false
+UA020024,09 Feb 20,2,Lauriston,Centenary Park,No. 1,Naineishia Kota,Dasha Katl,Naineishia Kota,6-0,6,0,1,0,Completed,true,false,true
+UA020024,09 Feb 20,2,Lauriston,Centenary Park,No. 2,Tate Nguyen,Sasha Minnin,Tate Nguyen,6-0,6,0,1,0,Completed,true,false,false
+UA020024,09 Feb 20,2,Lauriston,Centenary Park,No. 3,Kristine Dodd,Lucas Maggi,Kristine Dodd,6-1,6,1,1,0,Completed,true,false,false
+UA020024,09 Feb 20,2,Lauriston,Centenary Park,No. 4,Lucy Ackland,Andjecina Avdyugin,Lucy Ackland,6-1,6,1,1,0,Completed,true,false,false
+UA020031,16 Feb 20,3,Dendy Park,Lauriston,No. 1,Abbie Lord,Tate Nguyen,Tate Nguyen,3-6,3,6,0,1,Completed,true,true,false
+UA020031,16 Feb 20,3,Dendy Park,Lauriston,No. 2,Charlotte O'Brien,Kristine Dodd,Kristine Dodd,0-6,0,6,0,1,Completed,true,false,false
+UA020031,16 Feb 20,3,Dendy Park,Lauriston,No. 3,Toby Hansen,Lucy Ackland,Toby Hansen,6-3,6,3,1,0,Completed,true,false,false
+UA020031,16 Feb 20,3,Dendy Park,Lauriston,No. 4,Will Francis,Elliott Davis,Will Francis,6-0,6,0,1,0,Completed,true,false,false
+UA020032,16 Feb 20,3,GPHC MLC,Glen Huntly,No. 1,Sylvie Smith,Lior Middelforf,Lior Middelforf,0-6,0,6,0,1,Completed,true,false,false
+UA020032,16 Feb 20,3,GPHC MLC,Glen Huntly,No. 2,Gracie Lu,Noah Matznar,Noah Matznar,0-6,0,6,0,1,Completed,true,false,false
+UA020032,16 Feb 20,3,GPHC MLC,Glen Huntly,No. 3,Sienna Dobson,Dhruv Rawas,Sienna Dobson,6-0,6,0,1,0,Completed,true,false,false
+UA020032,16 Feb 20,3,GPHC MLC,Glen Huntly,No. 4,Kara Freitag,Arusha Mane,Arusha Mane,0-6,0,6,0,1,Completed,true,false,false
+UA020033,16 Feb 20,3,Mentone,Kings Park,No. 1,Lee Moore,Madhav Gokulanathan,Lee Moore,6-3,6,3,1,0,Completed,true,false,false
+UA020033,16 Feb 20,3,Mentone,Kings Park,No. 2,Linny Cutts,Dillon Theron,Linny Cutts,6-4,6,4,1,0,Completed,true,false,false
+UA020033,16 Feb 20,3,Mentone,Kings Park,No. 3,Atahan Yildiz,Joanna Wang,Joanna Wang,4-6,4,6,0,1,Completed,true,false,false
+UA020033,16 Feb 20,3,Mentone,Kings Park,No. 4,Amira Bird,Aeryn Nochomivitz,Amira Bird,6-4,6,4,1,0,Completed,true,false,false
+UA020034,16 Feb 20,3,Centenary Park,Elsternwick Park,No. 1,Sasha Minnin,Kieran McGurran,Kieran McGurran,1-6,1,6,0,1,Completed,true,false,false
+UA020034,16 Feb 20,3,Centenary Park,Elsternwick Park,No. 2,Daria Kovnereva,Miller White,Miller White,0-6,0,6,0,1,Completed,true,false,false
+UA020034,16 Feb 20,3,Centenary Park,Elsternwick Park,No. 3,Andjecina Avdyugin,Austin Haines,Austin Haines,0-6,0,6,0,1,Completed,true,false,false
+UA020034,16 Feb 20,3,Centenary Park,Elsternwick Park,No. 4,Lucas Maggi,Tasmin Ride,Tasmin Ride,0-6,0,6,0,1,Completed,true,false,false
+UA020041,23 Feb 20,4,Elsternwick Park,Dendy Park,No. 1,Alastair Smith,Indigo Jellis,Alastair Smith,7-5,7,5,1,0,Completed,true,false,false
+UA020041,23 Feb 20,4,Elsternwick Park,Dendy Park,No. 2,Austin Haines,Charlotte O'Brien,Austin Haines,6-1,6,1,1,0,Completed,true,false,false
+UA020041,23 Feb 20,4,Elsternwick Park,Dendy Park,No. 3,Tasmin Ride,Toby Hansen,Tasmin Ride,6-1,6,1,1,0,Completed,true,false,false
+UA020041,23 Feb 20,4,Elsternwick Park,Dendy Park,No. 4,Harry Denning,Will Francis,Harry Denning,6-4,6,4,1,0,Completed,true,false,false
+UA020042,23 Feb 20,4,Lauriston,GPHC MLC,No. 1,Tate Nguyen,Sylvie Smith,Tate Nguyen,6-1,6,1,1,0,Completed,true,false,false
+UA020042,23 Feb 20,4,Lauriston,GPHC MLC,No. 2,Lucy Ackland,Maddi Bare,Lucy Ackland,6-2,6,2,1,0,Completed,true,false,false
+UA020042,23 Feb 20,4,Lauriston,GPHC MLC,No. 3,Elliott Davis,Gracie Lu,Elliott Davis,6-0,6,0,1,0,Completed,true,false,false
+UA020042,23 Feb 20,4,Lauriston,GPHC MLC,No. 4,Noam Hoffman,Sienna Dobson,Noam Hoffman,7-5,7,5,1,0,Completed,true,false,false
+UA020043,23 Feb 20,4,Glen Huntly,Mentone,No. 1,Lior Middelforf,Linny Cutts,Lior Middelforf,6-1,6,1,1,0,Completed,true,false,false
+UA020043,23 Feb 20,4,Glen Huntly,Mentone,No. 2,Dhruv Rawas,Ruby Bowman,Dhruv Rawas,6-0,6,0,1,0,Completed,true,false,false
+UA020043,23 Feb 20,4,Glen Huntly,Mentone,No. 3,Noah Matznar,Atahan Yildiz,Noah Matznar,6-2,6,2,1,0,Completed,true,false,false
+UA020043,23 Feb 20,4,Glen Huntly,Mentone,No. 4,Jeremy Thai,Amira Bird,Jeremy Thai,6-0,6,0,1,0,Completed,true,true,false
+UA020044,23 Feb 20,4,Kings Park,Centenary Park,No. 1,Aimi Hatigan,Daria Kovnereva,Aimi Hatigan,6-3,6,3,1,0,Completed,true,false,false
+UA020044,23 Feb 20,4,Kings Park,Centenary Park,No. 2,Sophia Leigh,Sasha Minnin,Sophia Leigh,6-0,6,0,1,0,Completed,true,false,false
+UA020044,23 Feb 20,4,Kings Park,Centenary Park,No. 3,Dillon Theron,Lucas Maggi,Dillon Theron,6-1,6,1,1,0,Completed,true,false,false
+UA020044,23 Feb 20,4,Kings Park,Centenary Park,No. 4,Joanna Wang,Andjecina Avdyugin,Joanna Wang,6-1,6,1,1,0,Completed,true,false,false
+UA020051,01 Mar 20,5,Mentone,Centenary Park,No. 1,Lee Moore,Dasha Katl,Lee Moore,6-1,6,1,1,0,Completed,true,false,true
+UA020051,01 Mar 20,5,Mentone,Centenary Park,No. 2,Linny Cutts,Andjecina Avdyugin,Linny Cutts,6-0,6,0,1,0,Completed,true,false,false
+UA020051,01 Mar 20,5,Mentone,Centenary Park,No. 3,Ruby Bowman,Lucas Maggi,Ruby Bowman,6-1,6,1,1,0,Completed,true,false,false
+UA020051,01 Mar 20,5,Mentone,Centenary Park,No. 4,Zach Granell,Reuben Kocent,Zach Granell,6-4,6,4,1,0,Completed,true,false,true
+UA020052,01 Mar 20,5,Glen Huntly,Lauriston,No. 1,Lior Middelforf,Naineishia Kota,Naineishia Kota,4-6,4,6,0,1,Completed,true,false,false
+UA020052,01 Mar 20,5,Glen Huntly,Lauriston,No. 2,Dhruv Rawas,Tate Nguyen,Tate Nguyen,3-6,3,6,0,1,Completed,true,false,false
+UA020052,01 Mar 20,5,Glen Huntly,Lauriston,No. 3,Noah Matznar,Kristine Dodd,Noah Matznar,6-3,6,3,1,0,Completed,true,false,false
+UA020052,01 Mar 20,5,Glen Huntly,Lauriston,No. 4,Arusha Mane,Noam Hoffman,Arusha Mane,6-2,6,2,1,0,Completed,true,false,false
+UA020053,01 Mar 20,5,Elsternwick Park,Kings Park,No. 1,Kieran McGurran,Madhav Gokulanathan,Kieran McGurran,6-1,6,1,1,0,Completed,true,false,false
+UA020053,01 Mar 20,5,Elsternwick Park,Kings Park,No. 2,Alastair Smith,Aimi Hatigan,Alastair Smith,6-1,6,1,1,0,Completed,true,false,false
+UA020053,01 Mar 20,5,Elsternwick Park,Kings Park,No. 3,Miller White,Sophia Leigh,Miller White,7-6,7,6,1,0,Completed,true,false,false
+UA020053,01 Mar 20,5,Elsternwick Park,Kings Park,No. 4,Harry Denning,Aeryn Nochomivitz,Harry Denning,6-0,6,0,1,0,Completed,true,false,false
+UA020054,01 Mar 20,5,Dendy Park,GPHC MLC,No. 1,Charlotte O'Brien,Sylvie Smith,Sylvie Smith,5-7,5,7,0,1,Completed,true,false,false
+UA020054,01 Mar 20,5,Dendy Park,GPHC MLC,No. 2,Toby Hansen,Maddi Bare,Maddi Bare,3-6,3,6,0,1,Completed,true,false,false
+UA020054,01 Mar 20,5,Dendy Park,GPHC MLC,No. 3,Emily Zinak,Zara Bare,Emily Zinak,7-6,7,6,1,0,Completed,true,true,false
+UA020054,01 Mar 20,5,Dendy Park,GPHC MLC,No. 4,Mason Ma,Gracie Lu,Gracie Lu,1-6,1,6,0,1,Completed,true,true,false

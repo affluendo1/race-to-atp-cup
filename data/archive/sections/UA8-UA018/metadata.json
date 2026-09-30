@@ -1,0 +1,85 @@
+{
+  "asset_id": "UA8-UA018",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2011",
+  "season_id": "UA8",
+  "season_label": "Autumn 2011",
+  "source_section_code": "UA018",
+  "section_label": "Section 18",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Murrumbeena",
+      "wins": 0,
+      "points": 100,
+      "percentage": 206.29,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "GPHC MLC 1",
+      "wins": 0,
+      "points": 79,
+      "percentage": 150.84,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 75,
+      "percentage": 117.15,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Royal Ave 1",
+      "wins": 0,
+      "points": 52,
+      "percentage": 93.29,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Lauriston",
+      "wins": 0,
+      "points": 51,
+      "percentage": 88.45,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC MLC 2",
+      "wins": 0,
+      "points": 40,
+      "percentage": 70.17,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave 2",
+      "wins": 0,
+      "points": 23,
+      "percentage": 49.59,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA8-UA018",
+  "fixtures": 59,
+  "completed_fixtures": 39,
+  "draw_fixtures": 59,
+  "singles_rubbers": 154,
+  "doubles_rubbers": 78,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for UA018011"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA30-UA019",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2022",
+  "season_id": "UA30",
+  "season_label": "Autumn 2022",
+  "source_section_code": "UA019",
+  "section_label": "Section 19",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC",
+      "wins": 11,
+      "points": 98,
+      "percentage": 148.5,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Andrews MB BG",
+      "wins": 10,
+      "points": 89,
+      "percentage": 142.26,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kooyong",
+      "wins": 8,
+      "points": 82,
+      "percentage": 131.13,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 8,
+      "points": 77,
+      "percentage": 113.21,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kings Park",
+      "wins": 5,
+      "points": 55,
+      "percentage": 81.63,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Parkdale",
+      "wins": 4,
+      "points": 50,
+      "percentage": 90.56,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 4,
+      "points": 45,
+      "percentage": 71.17,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Glen Huntly",
+      "wins": 0,
+      "points": 24,
+      "percentage": 61.56,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA30-UA019",
+  "fixtures": 55,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 216,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA019321"
+  ]
+}

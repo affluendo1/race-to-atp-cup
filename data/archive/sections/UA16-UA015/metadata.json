@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA16-UA015",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2015",
+  "season_id": "UA16",
+  "season_label": "Autumn 2015",
+  "source_section_code": "UA015",
+  "section_label": "Section 15",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Coatesville",
+      "wins": 9,
+      "points": 100,
+      "percentage": 280.18,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Aspendale",
+      "wins": 8,
+      "points": 93,
+      "percentage": 268.32,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 5,
+      "points": 70,
+      "percentage": 130.77,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Tennis World",
+      "wins": 3,
+      "points": 52,
+      "percentage": 79.22,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal South Yarra 1",
+      "wins": 2,
+      "points": 48,
+      "percentage": 84.68,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal South Yarra 2",
+      "wins": 2,
+      "points": 33,
+      "percentage": 45.79,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 0,
+      "points": 24,
+      "percentage": 46.95,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA16-UA015",
+  "fixtures": 59,
+  "completed_fixtures": 34,
+  "draw_fixtures": 59,
+  "singles_rubbers": 136,
+  "doubles_rubbers": 68,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

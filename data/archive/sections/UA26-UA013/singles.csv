@@ -1,0 +1,81 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA013011,02 Feb 20,1,BLTC,Parkdale,No. 1,Lily Ryan,Ruby Gonis,Lily Ryan,7-5,7,5,1,0,Completed,true,false,false
+UA013011,02 Feb 20,1,BLTC,Parkdale,No. 2,Serena Lee,Fabrizio Cascino,Serena Lee,6-1,6,1,1,0,Completed,true,false,false
+UA013011,02 Feb 20,1,BLTC,Parkdale,No. 3,Hayato Sato,Jonathon Wood,Hayato Sato,6-3,6,3,1,0,Completed,true,false,false
+UA013011,02 Feb 20,1,BLTC,Parkdale,No. 4,Leo Hensche,Caitlin Hichey-Kerr,Leo Hensche,7-5,7,5,1,0,Completed,true,true,false
+UA013012,02 Feb 20,1,Kooyong Scotch,Royal South Yarra,No. 1,Lachlan Li,Indi Officer,Lachlan Li,6-3,6,3,1,0,Completed,true,false,false
+UA013012,02 Feb 20,1,Kooyong Scotch,Royal South Yarra,No. 2,Xavier Teoh,Willa Robinson,Willa Robinson,3-6,3,6,0,1,Completed,true,false,false
+UA013012,02 Feb 20,1,Kooyong Scotch,Royal South Yarra,No. 3,William Mustow,Freddie Hunt,Freddie Hunt,0-6,0,6,0,1,Completed,true,false,false
+UA013012,02 Feb 20,1,Kooyong Scotch,Royal South Yarra,No. 4,Harriet Venn,Phoebe Ollerenshaw,Harriet Venn,6-4,6,4,1,0,Completed,true,false,false
+UA013013,02 Feb 20,1,Maccabi,Murrumbeena,No. 1,Zaki Belfer,Thomas Moore,Thomas Moore,0-6,0,6,0,1,Completed,true,false,false
+UA013013,02 Feb 20,1,Maccabi,Murrumbeena,No. 2,Linda Li,Bailey Loke,Linda Li,7-5,7,5,1,0,Completed,true,false,false
+UA013013,02 Feb 20,1,Maccabi,Murrumbeena,No. 3,Cayla Jacobs,Dhruv Tomar,Cayla Jacobs,6-1,6,1,1,0,Completed,true,false,false
+UA013013,02 Feb 20,1,Maccabi,Murrumbeena,No. 4,Mikhalia Allan,Ari Komininos,Ari Komininos,2-6,2,6,0,1,Completed,true,false,false
+UA013014,02 Feb 20,1,Le Page 1,Le Page 2,No. 1,Elan Amler,Chanithu Wickramasinghe,Elan Amler,6-0,6,0,1,0,Completed,true,false,false
+UA013014,02 Feb 20,1,Le Page 1,Le Page 2,No. 2,James Polygenis,Daniel Crispim,Daniel Crispim,2-6,2,6,0,1,Completed,true,false,false
+UA013014,02 Feb 20,1,Le Page 1,Le Page 2,No. 3,James Katakouzinos,Shrish Kumaran,James Katakouzinos,6-2,6,2,1,0,Completed,true,false,false
+UA013014,02 Feb 20,1,Le Page 1,Le Page 2,No. 4,Aryan Singh,Sai Karthick Neerukonda,Sai Karthick Neerukonda,3-6,3,6,0,1,Completed,true,false,false
+UA013021,09 Feb 20,2,Le Page 2,BLTC,No. 1,Chanithu Wickramasinghe,Chloe Johnson,Chloe Johnson,2-6,2,6,0,1,Completed,true,false,true
+UA013021,09 Feb 20,2,Le Page 2,BLTC,No. 2,Daniel Crispim,Lily Ryan,Daniel Crispim,6-3,6,3,1,0,Completed,true,false,false
+UA013021,09 Feb 20,2,Le Page 2,BLTC,No. 3,Shrish Kumaran,Hayato Sato,Hayato Sato,1-6,1,6,0,1,Completed,true,false,false
+UA013021,09 Feb 20,2,Le Page 2,BLTC,No. 4,Matteo Di Salvo,Jonty Ryan,Matteo Di Salvo,6-4,6,4,1,0,Completed,true,true,false
+UA013022,09 Feb 20,2,Parkdale,Kooyong Scotch,No. 1,Ruby Gonis,Lachlan Li,Ruby Gonis,6-3,6,3,1,0,Completed,true,false,false
+UA013022,09 Feb 20,2,Parkdale,Kooyong Scotch,No. 2,Fabrizio Cascino,Harry Cohen,Fabrizio Cascino,6-1,6,1,1,0,Completed,true,false,false
+UA013022,09 Feb 20,2,Parkdale,Kooyong Scotch,No. 3,Jonathon Wood,Ruby Cheetham,Jonathon Wood,6-3,6,3,1,0,Completed,true,false,false
+UA013022,09 Feb 20,2,Parkdale,Kooyong Scotch,No. 4,Harrison Gaitanas,Raha Raissi,Raha Raissi,1-6,1,6,0,1,Completed,true,false,false
+UA013023,09 Feb 20,2,Royal South Yarra,Maccabi,No. 1,Anna Eggleston,Zaki Belfer,Zaki Belfer,2-6,2,6,0,1,Completed,true,false,false
+UA013023,09 Feb 20,2,Royal South Yarra,Maccabi,No. 2,Willa Robinson,Diana Brodsky,Willa Robinson,6-0,6,0,1,0,Completed,true,false,false
+UA013023,09 Feb 20,2,Royal South Yarra,Maccabi,No. 3,Freddie Hunt,Linda Li,Freddie Hunt,6-0,6,0,1,0,Completed,true,false,false
+UA013023,09 Feb 20,2,Royal South Yarra,Maccabi,No. 4,Henry Campbell,Cayla Jacobs,Henry Campbell,6-0,6,0,1,0,Completed,true,false,false
+UA013024,09 Feb 20,2,Murrumbeena,Le Page 1,No. 1,Dhruv Tomar,Elan Amler,Dhruv Tomar,6-3,6,3,1,0,Completed,true,false,false
+UA013024,09 Feb 20,2,Murrumbeena,Le Page 1,No. 2,Bailey Loke,James Polygenis,James Polygenis,0-6,0,6,0,1,Completed,true,false,false
+UA013024,09 Feb 20,2,Murrumbeena,Le Page 1,No. 3,Ari Komininos,Kevin He,Kevin He,2-6,2,6,0,1,Completed,true,false,false
+UA013024,09 Feb 20,2,Murrumbeena,Le Page 1,No. 4,Oliver Huggins,Aryan Singh,Oliver Huggins,6-2,6,2,1,0,Completed,true,true,false
+UA013031,16 Feb 20,3,BLTC,Murrumbeena,No. 1,Lily Ryan,Dhruv Tomar,Lily Ryan,6-4,6,4,1,0,Completed,true,false,false
+UA013031,16 Feb 20,3,BLTC,Murrumbeena,No. 2,Hayato Sato,Bailey Loke,Hayato Sato,6-1,6,1,1,0,Completed,true,false,false
+UA013031,16 Feb 20,3,BLTC,Murrumbeena,No. 3,Jonty Ryan,Ari Komininos,Jonty Ryan,6-4,6,4,1,0,Completed,true,false,false
+UA013031,16 Feb 20,3,BLTC,Murrumbeena,No. 4,Pauline Na,Marcus Day,Pauline Na,6-2,6,2,1,0,Completed,true,true,false
+UA013032,16 Feb 20,3,Kooyong Scotch,Le Page 2,No. 1,Lachlan Li,Chanithu Wickramasinghe,Lachlan Li,6-2,6,2,1,0,Completed,true,false,false
+UA013032,16 Feb 20,3,Kooyong Scotch,Le Page 2,No. 2,Ruby Cheetham,Daniel Crispim,Daniel Crispim,3-6,3,6,0,1,Completed,true,false,false
+UA013032,16 Feb 20,3,Kooyong Scotch,Le Page 2,No. 3,Raha Raissi,Shrish Kumaran,Raha Raissi,6-0,6,0,1,0,Completed,true,false,false
+UA013032,16 Feb 20,3,Kooyong Scotch,Le Page 2,No. 4,Harriet Venn,Sai Karthick Neerukonda,Sai Karthick Neerukonda,1-6,1,6,0,1,Completed,true,false,false
+UA013033,16 Feb 20,3,Maccabi,Parkdale,No. 1,Zaki Belfer,Fabrizio Cascino,Zaki Belfer,6-2,6,2,1,0,Completed,true,false,false
+UA013033,16 Feb 20,3,Maccabi,Parkdale,No. 2,Diana Brodsky,Jonathon Wood,Jonathon Wood,2-6,2,6,0,1,Completed,true,false,false
+UA013033,16 Feb 20,3,Maccabi,Parkdale,No. 3,Linda Li,Caitlin Hichey-Kerr,Linda Li,6-0,6,0,1,0,Completed,true,false,false
+UA013033,16 Feb 20,3,Maccabi,Parkdale,No. 4,Cayla Jacobs,Harrison Gaitanas,Harrison Gaitanas,4-6,4,6,0,1,Completed,true,false,false
+UA013034,16 Feb 20,3,Le Page 1,Royal South Yarra,No. 1,Elan Amler,Freddie Hunt,Elan Amler,7-5,7,5,1,0,Completed,true,false,false
+UA013034,16 Feb 20,3,Le Page 1,Royal South Yarra,No. 2,Kevin He,Phoebe Ollerenshaw,Phoebe Ollerenshaw,3-6,3,6,0,1,Completed,true,false,false
+UA013034,16 Feb 20,3,Le Page 1,Royal South Yarra,No. 3,James Katakouzinos,Henry Campbell,Henry Campbell,1-6,1,6,0,1,Completed,true,false,false
+UA013034,16 Feb 20,3,Le Page 1,Royal South Yarra,No. 4,Aryan Singh,Willa Robinson,Aryan Singh,6-1,6,1,1,0,Completed,true,false,false
+UA013041,23 Feb 20,4,Royal South Yarra,BLTC,No. 1,Indi Officer,Lily Ryan,Lily Ryan,6-7,6,7,0,1,Completed,true,false,false
+UA013041,23 Feb 20,4,Royal South Yarra,BLTC,No. 2,Henry Campbell,Serena Lee,Henry Campbell,6-4,6,4,1,0,Completed,true,false,false
+UA013041,23 Feb 20,4,Royal South Yarra,BLTC,No. 3,Anna Eggleston,Hayato Sato,Hayato Sato,0-6,0,6,0,1,Completed,true,false,false
+UA013041,23 Feb 20,4,Royal South Yarra,BLTC,No. 4,Phoebe Ollerenshaw,Pauline Na,Pauline Na,3-6,3,6,0,1,Completed,true,false,true
+UA013042,23 Feb 20,4,Murrumbeena,Kooyong Scotch,No. 1,Dhruv Tomar,Lachlan Li,Lachlan Li,1-6,1,6,0,1,Completed,true,false,false
+UA013042,23 Feb 20,4,Murrumbeena,Kooyong Scotch,No. 2,Bailey Loke,Xavier Teoh,Bailey Loke,6-3,6,3,1,0,Completed,true,false,false
+UA013042,23 Feb 20,4,Murrumbeena,Kooyong Scotch,No. 3,Huon Witte,William Mustow,Huon Witte,6-3,6,3,1,0,Completed,true,false,false
+UA013042,23 Feb 20,4,Murrumbeena,Kooyong Scotch,No. 4,Marcus Day,Raha Raissi,Raha Raissi,6-7,6,7,0,1,Completed,true,false,false
+UA013043,23 Feb 20,4,Le Page 2,Maccabi,No. 1,Matteo Di Salvo,Jed Kaufman,Matteo Di Salvo,6-0,6,0,1,0,Completed,true,true,false
+UA013043,23 Feb 20,4,Le Page 2,Maccabi,No. 2,Daniel Crispim,Diana Brodsky,Daniel Crispim,6-0,6,0,1,0,Completed,true,false,false
+UA013043,23 Feb 20,4,Le Page 2,Maccabi,No. 3,Shrish Kumaran,Linda Li,Linda Li,2-6,2,6,0,1,Completed,true,false,false
+UA013043,23 Feb 20,4,Le Page 2,Maccabi,No. 4,Sai Karthick Neerukonda,Cayla Jacobs,Sai Karthick Neerukonda,6-0,6,0,1,0,Completed,true,false,false
+UA013044,23 Feb 20,4,Parkdale,Le Page 1,No. 1,Ruby Gonis,Elan Amler,Elan Amler,1-6,1,6,0,1,Completed,true,false,false
+UA013044,23 Feb 20,4,Parkdale,Le Page 1,No. 2,Fabrizio Cascino,James Polygenis,James Polygenis,3-6,3,6,0,1,Completed,true,false,false
+UA013044,23 Feb 20,4,Parkdale,Le Page 1,No. 3,Jonathon Wood,James Katakouzinos,Jonathon Wood,6-4,6,4,1,0,Completed,true,false,false
+UA013044,23 Feb 20,4,Parkdale,Le Page 1,No. 4,Caitlin Hichey-Kerr,Aryan Singh,Caitlin Hichey-Kerr,6-3,6,3,1,0,Completed,true,false,false
+UA013051,01 Mar 20,5,Maccabi,Le Page 1,No. 1,Zaki Belfer,Elan Amler,Elan Amler,3-6,3,6,0,1,Completed,true,false,false
+UA013051,01 Mar 20,5,Maccabi,Le Page 1,No. 2,Gavi Gottleib,James Polygenis,James Polygenis,1-6,1,6,0,1,Completed,true,true,false
+UA013051,01 Mar 20,5,Maccabi,Le Page 1,No. 3,Diana Brodsky,Kevin He,Kevin He,0-6,0,6,0,1,Completed,true,false,false
+UA013051,01 Mar 20,5,Maccabi,Le Page 1,No. 4,Cayla Jacobs,James Katakouzinos,James Katakouzinos,2-6,2,6,0,1,Completed,true,false,false
+UA013052,01 Mar 20,5,Le Page 2,Murrumbeena,No. 1,Chanithu Wickramasinghe,Bailey Loke,Bailey Loke,4-6,4,6,0,1,Completed,true,false,false
+UA013052,01 Mar 20,5,Le Page 2,Murrumbeena,No. 2,Daniel Crispim,Jamie Ubachs,Daniel Crispim,6-1,6,1,1,0,Completed,true,false,true
+UA013052,01 Mar 20,5,Le Page 2,Murrumbeena,No. 3,Joshua Tesler,Ari Komininos,Joshua Tesler,6-1,6,1,1,0,Completed,true,true,false
+UA013052,01 Mar 20,5,Le Page 2,Murrumbeena,No. 4,Sai Karthick Neerukonda,Huon Witte,Sai Karthick Neerukonda,6-0,6,0,1,0,Completed,true,false,false
+UA013053,01 Mar 20,5,Royal South Yarra,Parkdale,No. 1,Indi Officer,Ruby Gonis,Ruby Gonis,3-6,3,6,0,1,Completed,true,false,false
+UA013053,01 Mar 20,5,Royal South Yarra,Parkdale,No. 2,Henry Campbell,Fabrizio Cascino,Henry Campbell,6-3,6,3,1,0,Completed,true,false,false
+UA013053,01 Mar 20,5,Royal South Yarra,Parkdale,No. 3,Phoebe Ollerenshaw,Jonathon Wood,Phoebe Ollerenshaw,6-3,6,3,1,0,Completed,true,false,false
+UA013053,01 Mar 20,5,Royal South Yarra,Parkdale,No. 4,Tom Park,Caitlin Hichey-Kerr,Caitlin Hichey-Kerr,4-6,4,6,0,1,Completed,true,true,false
+UA013054,01 Mar 20,5,BLTC,Kooyong Scotch,No. 1,Lily Ryan,Lachlan Li,Lachlan Li,4-6,4,6,0,1,Completed,true,false,false
+UA013054,01 Mar 20,5,BLTC,Kooyong Scotch,No. 2,Serena Lee,Xavier Teoh,Serena Lee,6-1,6,1,1,0,Completed,true,false,false
+UA013054,01 Mar 20,5,BLTC,Kooyong Scotch,No. 3,Hayato Sato,William Mustow,Hayato Sato,6-2,6,2,1,0,Completed,true,false,false
+UA013054,01 Mar 20,5,BLTC,Kooyong Scotch,No. 4,Jonty Ryan,Harry Cohen,Jonty Ryan,6-1,6,1,1,0,Completed,true,false,false

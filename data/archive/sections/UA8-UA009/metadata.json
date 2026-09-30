@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA8-UA009",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2011",
+  "season_id": "UA8",
+  "season_label": "Autumn 2011",
+  "source_section_code": "UA009",
+  "section_label": "Section 9",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Glen Eira Brooklyn",
+      "wins": 0,
+      "points": 89,
+      "percentage": 137.78,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 68,
+      "percentage": 135.74,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Lauriston",
+      "wins": 0,
+      "points": 64,
+      "percentage": 108.95,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 58,
+      "percentage": 87.5,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 52,
+      "percentage": 91.67,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kings Park",
+      "wins": 0,
+      "points": 51,
+      "percentage": 82.81,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Aspendale",
+      "wins": 0,
+      "points": 38,
+      "percentage": 67.11,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA8-UA009",
+  "fixtures": 59,
+  "completed_fixtures": 38,
+  "draw_fixtures": 59,
+  "singles_rubbers": 148,
+  "doubles_rubbers": 76,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

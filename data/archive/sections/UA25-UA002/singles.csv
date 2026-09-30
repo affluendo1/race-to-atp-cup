@@ -1,0 +1,197 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA002011,21 Jul 19,1,Dendy Park,BLTC,No. 1,Hugh Simpson,Tom Davoren,Tom Davoren,1-6,1,6,0,1,Completed,true,false,false
+UA002011,21 Jul 19,1,Dendy Park,BLTC,No. 2,Andreas Tanti,Sophie Johnson,Andreas Tanti,6-1,6,1,1,0,Completed,true,false,false
+UA002011,21 Jul 19,1,Dendy Park,BLTC,No. 3,Ashley Small,Olivia Moir,Olivia Moir,1-6,1,6,0,1,Completed,true,false,false
+UA002011,21 Jul 19,1,Dendy Park,BLTC,No. 4,Cameron Acheson,Jack Malasck,Cameron Acheson,6-2,6,2,1,0,Completed,true,false,false
+UA002012,21 Jul 19,1,Coatesville,Royal South Yarra,No. 1,Brock Augustynski,William Beaton,William Beaton,1-6,1,6,0,1,Completed,true,false,false
+UA002012,21 Jul 19,1,Coatesville,Royal South Yarra,No. 2,Jordan Marakhov,Toby Ralph,Toby Ralph,2-6,2,6,0,1,Completed,true,false,false
+UA002012,21 Jul 19,1,Coatesville,Royal South Yarra,No. 3,Sam Basman,James Strapp,James Strapp,3-6,3,6,0,1,Completed,true,false,false
+UA002012,21 Jul 19,1,Coatesville,Royal South Yarra,No. 4,Daniel Jiang,Darcy Albert,Daniel Jiang,6-2,6,2,1,0,Completed,true,false,false
+UA002013,21 Jul 19,1,Tennis World,Hurlingham Park,No. 1,Justin Pirie,Juliet McKenzie,Justin Pirie,6-2,6,2,1,0,Completed,true,false,false
+UA002013,21 Jul 19,1,Tennis World,Hurlingham Park,No. 2,Nicolo Nardari,Rhys Miller,Rhys Miller,0-6,0,6,0,1,Completed,true,false,false
+UA002013,21 Jul 19,1,Tennis World,Hurlingham Park,No. 3,Stefan Desovski,Alex Hadziladas,Alex Hadziladas,3-6,3,6,0,1,Completed,true,false,false
+UA002013,21 Jul 19,1,Tennis World,Hurlingham Park,No. 4,Florian Kostov,Brody Rosenbloom,Florian Kostov,7-5,7,5,1,0,Completed,true,false,false
+UA002021,28 Jul 19,2,GPHC,Dendy Park,No. 1,Lachie Joughin,Lachlan Tindall,Lachlan Tindall,4-6,4,6,0,1,Completed,true,false,false
+UA002021,28 Jul 19,2,GPHC,Dendy Park,No. 2,Nelson Beadle,Max Buntine,Max Buntine,3-6,3,6,0,1,Completed,true,false,false
+UA002021,28 Jul 19,2,GPHC,Dendy Park,No. 3,Henry Stewart,Ashley Small,Ashley Small,2-6,2,6,0,1,Completed,true,false,false
+UA002021,28 Jul 19,2,GPHC,Dendy Park,No. 4,Lucas Holly,Daniel Whitson,Daniel Whitson,2-6,2,6,0,1,Completed,true,false,false
+UA002022,28 Jul 19,2,BLTC,Coatesville,No. 1,Ryan Taylor,Jordan Marakhov,Ryan Taylor,6-1,6,1,1,0,Completed,true,false,false
+UA002022,28 Jul 19,2,BLTC,Coatesville,No. 2,Tom Davoren,Sam Basman,Tom Davoren,6-0,6,0,1,0,Completed,true,false,false
+UA002022,28 Jul 19,2,BLTC,Coatesville,No. 3,Sophie Johnson,Daniel Jiang,Daniel Jiang,1-6,1,6,0,1,Completed,true,false,false
+UA002022,28 Jul 19,2,BLTC,Coatesville,No. 4,Jack Malasck,Jacob Mundy,Jack Malasck,6-1,6,1,1,0,Completed,true,false,false
+UA002023,28 Jul 19,2,Royal South Yarra,Tennis World,No. 1,Toby Ralph,Justin Pirie,Justin Pirie,2-6,2,6,0,1,Completed,true,false,false
+UA002023,28 Jul 19,2,Royal South Yarra,Tennis World,No. 2,Harvey Clements,Yuuki Hirano-James,Harvey Clements,6-4,6,4,1,0,Completed,true,false,false
+UA002023,28 Jul 19,2,Royal South Yarra,Tennis World,No. 3,James Strapp,Nicolo Nardari,Nicolo Nardari,3-6,3,6,0,1,Completed,true,false,false
+UA002023,28 Jul 19,2,Royal South Yarra,Tennis World,No. 4,James Ollerenshaw,Stefan Desovski,Stefan Desovski,2-6,2,6,0,1,Completed,true,false,false
+UA002024,28 Jul 19,2,Hurlingham Park,Centenary Park,No. 1,Juliet McKenzie,Koki Ono,Juliet McKenzie,6-4,6,4,1,0,Completed,true,false,false
+UA002024,28 Jul 19,2,Hurlingham Park,Centenary Park,No. 2,Rhys Miller,Madi Howell,Madi Howell,2-6,2,6,0,1,Completed,true,false,false
+UA002024,28 Jul 19,2,Hurlingham Park,Centenary Park,No. 3,Alex Hadziladas,Norway Gordon,Alex Hadziladas,6-1,6,1,1,0,Completed,true,false,false
+UA002024,28 Jul 19,2,Hurlingham Park,Centenary Park,No. 4,Dane Carroll,[Unnamed player — TROLS UA002024 away code 4],Dane Carroll,6-0,6,0,1,0,Completed,false,false,false
+UA002031,04 Aug 19,3,Dendy Park,Hurlingham Park,No. 1,Max Buntine,Juliet McKenzie,Juliet McKenzie,4-6,4,6,0,1,Completed,true,false,false
+UA002031,04 Aug 19,3,Dendy Park,Hurlingham Park,No. 2,Hugh Simpson,Alex Hadziladas,Alex Hadziladas,4-6,4,6,0,1,Completed,true,false,false
+UA002031,04 Aug 19,3,Dendy Park,Hurlingham Park,No. 3,Andreas Tanti,Brody Rosenbloom,Andreas Tanti,6-4,6,4,1,0,Completed,true,false,false
+UA002031,04 Aug 19,3,Dendy Park,Hurlingham Park,No. 4,Cameron Acheson,Ava Juste,Cameron Acheson,6-1,6,1,1,0,Completed,true,false,false
+UA002032,04 Aug 19,3,Coatesville,GPHC,No. 1,Brock Augustynski,Juliette Marquat,Juliette Marquat,1-6,1,6,0,1,Completed,true,false,false
+UA002032,04 Aug 19,3,Coatesville,GPHC,No. 2,Sam Basman,Nelson Beadle,Nelson Beadle,5-7,5,7,0,1,Completed,true,false,false
+UA002032,04 Aug 19,3,Coatesville,GPHC,No. 3,Daniel Jiang,Henry Stewart,Henry Stewart,2-6,2,6,0,1,Completed,true,false,false
+UA002032,04 Aug 19,3,Coatesville,GPHC,No. 4,Dante Incani,Lucas Holly,Lucas Holly,6-7,6,7,0,1,Completed,true,true,false
+UA002033,04 Aug 19,3,Tennis World,BLTC,No. 1,Justin Pirie,Patrick Flood,Justin Pirie,6-0,6,0,1,0,Completed,true,false,false
+UA002033,04 Aug 19,3,Tennis World,BLTC,No. 2,Yuuki Hirano-James,Ryan Taylor,Ryan Taylor,5-7,5,7,0,1,Completed,true,false,false
+UA002033,04 Aug 19,3,Tennis World,BLTC,No. 3,Nicolo Nardari,Tom Davoren,Nicolo Nardari,6-3,6,3,1,0,Completed,true,false,false
+UA002033,04 Aug 19,3,Tennis World,BLTC,No. 4,Stefan Desovski,Thomas Flood,Stefan Desovski,6-4,6,4,1,0,Completed,true,false,false
+UA002034,04 Aug 19,3,Centenary Park,Royal South Yarra,No. 1,Prisha Baliga,William Beaton,Prisha Baliga,6-3,6,3,1,0,Completed,true,false,false
+UA002034,04 Aug 19,3,Centenary Park,Royal South Yarra,No. 2,Koki Ono,Toby Ralph,Koki Ono,6-4,6,4,1,0,Completed,true,false,false
+UA002034,04 Aug 19,3,Centenary Park,Royal South Yarra,No. 3,Norway Gordon,Harvey Clements,Harvey Clements,3-6,3,6,0,1,Completed,true,false,false
+UA002034,04 Aug 19,3,Centenary Park,Royal South Yarra,No. 4,Mason Le,Darcy Albert,Darcy Albert,0-6,0,6,0,1,Completed,true,false,false
+UA002042,11 Aug 19,4,Hurlingham Park,Coatesville,No. 1,Juliet McKenzie,Brock Augustynski,Juliet McKenzie,6-1,6,1,1,0,Completed,true,false,false
+UA002042,11 Aug 19,4,Hurlingham Park,Coatesville,No. 2,Rhys Miller,Jordan Marakhov,Rhys Miller,6-2,6,2,1,0,Completed,true,false,false
+UA002042,11 Aug 19,4,Hurlingham Park,Coatesville,No. 3,Brody Rosenbloom,Daniel Jiang,Daniel Jiang,6-7,6,7,0,1,Completed,true,false,false
+UA002042,11 Aug 19,4,Hurlingham Park,Coatesville,No. 4,Dane Carroll,Jacob Mundy,Dane Carroll,6-2,6,2,1,0,Completed,true,false,false
+UA002051,18 Aug 19,5,Tennis World,Centenary Park,No. 1,Yuuki Hirano-James,Prisha Baliga,Prisha Baliga,3-6,3,6,0,1,Completed,true,false,false
+UA002051,18 Aug 19,5,Tennis World,Centenary Park,No. 2,Nicolo Nardari,Koki Ono,Koki Ono,3-6,3,6,0,1,Completed,true,false,false
+UA002051,18 Aug 19,5,Tennis World,Centenary Park,No. 3,Stefan Desovski,Eva De Bruijn,Stefan Desovski,6-0,6,0,1,0,Completed,true,false,false
+UA002051,18 Aug 19,5,Tennis World,Centenary Park,No. 4,Hudson Hopman,Mason Le,Mason Le,2-6,2,6,0,1,Completed,true,false,false
+UA002052,18 Aug 19,5,GPHC,Hurlingham Park,No. 1,Lachie Joughin,Rhys Miller,Rhys Miller,2-6,2,6,0,1,Completed,true,false,false
+UA002052,18 Aug 19,5,GPHC,Hurlingham Park,No. 2,Mia Retschko,Alex Hadziladas,Alex Hadziladas,0-6,0,6,0,1,Completed,true,false,false
+UA002052,18 Aug 19,5,GPHC,Hurlingham Park,No. 3,Nelson Beadle,Brody Rosenbloom,Brody Rosenbloom,0-6,0,6,0,1,Completed,true,false,false
+UA002052,18 Aug 19,5,GPHC,Hurlingham Park,No. 4,Lucas Holly,Dane Campbell,Dane Campbell,4-6,4,6,0,1,Completed,true,false,false
+UA002053,18 Aug 19,5,Royal South Yarra,BLTC,No. 1,William Beaton,Tom Davoren,William Beaton,6-1,6,1,1,0,Completed,true,false,false
+UA002053,18 Aug 19,5,Royal South Yarra,BLTC,No. 2,Toby Ralph,Sophie Johnson,Sophie Johnson,3-6,3,6,0,1,Completed,true,false,false
+UA002053,18 Aug 19,5,Royal South Yarra,BLTC,No. 3,James Strapp,Jack Malasck,James Strapp,6-1,6,1,1,0,Completed,true,false,false
+UA002053,18 Aug 19,5,Royal South Yarra,BLTC,No. 4,James Ollerenshaw,Jamie Turner,James Ollerenshaw,6-2,6,2,1,0,Completed,true,false,false
+UA002054,18 Aug 19,5,Dendy Park,Coatesville,No. 1,Hugh Simpson,Brock Augustynski,Hugh Simpson,6-0,6,0,1,0,Completed,true,false,false
+UA002054,18 Aug 19,5,Dendy Park,Coatesville,No. 2,Andreas Tanti,Jordan Marakhov,Andreas Tanti,6-0,6,0,1,0,Completed,true,false,false
+UA002054,18 Aug 19,5,Dendy Park,Coatesville,No. 3,Ashley Small,Sam Basman,Sam Basman,3-6,3,6,0,1,Completed,true,false,false
+UA002054,18 Aug 19,5,Dendy Park,Coatesville,No. 4,Daniel Whitson,Jacob Mundy,Daniel Whitson,6-2,6,2,1,0,Completed,true,false,false
+UA002061,25 Aug 19,6,Coatesville,Tennis World,No. 1,Brock Augustynski,Justin Pirie,Justin Pirie,1-6,1,6,0,1,Completed,true,false,false
+UA002061,25 Aug 19,6,Coatesville,Tennis World,No. 2,Jordan Marakhov,Yuuki Hirano-James,Yuuki Hirano-James,6-7,6,7,0,1,Completed,true,false,false
+UA002061,25 Aug 19,6,Coatesville,Tennis World,No. 3,Sam Basman,Nicolo Nardari,Nicolo Nardari,3-6,3,6,0,1,Completed,true,false,false
+UA002061,25 Aug 19,6,Coatesville,Tennis World,No. 4,Daniel Jiang,Hudson Hopman,Daniel Jiang,6-2,6,2,1,0,Completed,true,false,false
+UA002062,25 Aug 19,6,Centenary Park,Dendy Park,No. 1,Prisha Baliga,Lachlan Tindall,Lachlan Tindall,3-6,3,6,0,1,Completed,true,false,false
+UA002062,25 Aug 19,6,Centenary Park,Dendy Park,No. 2,Koki Ono,Max Buntine,Koki Ono,7-5,7,5,1,0,Completed,true,false,false
+UA002062,25 Aug 19,6,Centenary Park,Dendy Park,No. 3,Norway Gordon,Hugh Simpson,Hugh Simpson,1-6,1,6,0,1,Completed,true,false,false
+UA002062,25 Aug 19,6,Centenary Park,Dendy Park,No. 4,Eva De Bruijn,Ashley Small,Ashley Small,0-6,0,6,0,1,Completed,true,false,false
+UA002063,25 Aug 19,6,Hurlingham Park,Royal South Yarra,No. 1,Juliet McKenzie,William Beaton,William Beaton,4-6,4,6,0,1,Completed,true,false,false
+UA002063,25 Aug 19,6,Hurlingham Park,Royal South Yarra,No. 2,Rhys Miller,Toby Ralph,Rhys Miller,6-1,6,1,1,0,Completed,true,false,false
+UA002063,25 Aug 19,6,Hurlingham Park,Royal South Yarra,No. 3,Alex Hadziladas,Darcy Albert,Alex Hadziladas,6-0,6,0,1,0,Completed,true,false,false
+UA002063,25 Aug 19,6,Hurlingham Park,Royal South Yarra,No. 4,Brody Rosenbloom,James Ollerenshaw,James Ollerenshaw,4-6,4,6,0,1,Completed,true,false,false
+UA002064,25 Aug 19,6,BLTC,GPHC,No. 1,Ayden Kousis,Lachie Joughin,Ayden Kousis,7-6,7,6,1,0,Completed,true,false,false
+UA002064,25 Aug 19,6,BLTC,GPHC,No. 2,Tom Davoren,Juliette Marquat,Juliette Marquat,3-6,3,6,0,1,Completed,true,false,false
+UA002064,25 Aug 19,6,BLTC,GPHC,No. 3,Sophie Johnson,Nelson Beadle,Nelson Beadle,5-7,5,7,0,1,Completed,true,false,false
+UA002064,25 Aug 19,6,BLTC,GPHC,No. 4,Jack Malasck,Henry Stewart,Jack Malasck,6-3,6,3,1,0,Completed,true,false,false
+UA002071,01 Sep 19,7,Dendy Park,Tennis World,No. 1,Hugh Simpson,Justin Pirie,Justin Pirie,3-6,3,6,0,1,Completed,true,false,false
+UA002071,01 Sep 19,7,Dendy Park,Tennis World,No. 2,Andreas Tanti,Yuuki Hirano-James,Andreas Tanti,7-5,7,5,1,0,Completed,true,false,false
+UA002071,01 Sep 19,7,Dendy Park,Tennis World,No. 3,Cameron Acheson,Stefan Desovski,Stefan Desovski,0-6,0,6,0,1,Completed,true,false,false
+UA002071,01 Sep 19,7,Dendy Park,Tennis World,No. 4,Daniel Whitson,Hudson Hopman,Daniel Whitson,6-3,6,3,1,0,Completed,true,false,false
+UA002072,01 Sep 19,7,Coatesville,Centenary Park,No. 1,Brock Augustynski,Prisha Baliga,Prisha Baliga,2-6,2,6,0,1,Completed,true,false,false
+UA002072,01 Sep 19,7,Coatesville,Centenary Park,No. 2,Sam Basman,Koki Ono,Koki Ono,2-6,2,6,0,1,Completed,true,false,false
+UA002072,01 Sep 19,7,Coatesville,Centenary Park,No. 3,Daniel Jiang,Norway Gordon,Norway Gordon,0-6,0,6,0,1,Completed,true,false,false
+UA002072,01 Sep 19,7,Coatesville,Centenary Park,No. 4,Jacob Mundy,[Unnamed player — TROLS UA002072 away code 4],Jacob Mundy,6-0,6,0,1,0,Completed,false,false,false
+UA002073,01 Sep 19,7,GPHC,Royal South Yarra,No. 1,Lachie Joughin,Toby Ralph,Toby Ralph,6-7,6,7,0,1,Completed,true,false,false
+UA002073,01 Sep 19,7,GPHC,Royal South Yarra,No. 2,Mia Retschko,Lachlan Mailer,Lachlan Mailer,4-6,4,6,0,1,Completed,true,false,false
+UA002073,01 Sep 19,7,GPHC,Royal South Yarra,No. 3,Henry Stewart,Darcy Albert,Darcy Albert,3-6,3,6,0,1,Completed,true,false,false
+UA002073,01 Sep 19,7,GPHC,Royal South Yarra,No. 4,Lucas Holly,James Ollerenshaw,James Ollerenshaw,4-6,4,6,0,1,Completed,true,false,false
+UA002074,01 Sep 19,7,Hurlingham Park,BLTC,No. 1,Juliet McKenzie,Tom Davoren,Juliet McKenzie,6-1,6,1,1,0,Completed,true,false,false
+UA002074,01 Sep 19,7,Hurlingham Park,BLTC,No. 2,Rhys Miller,Sophie Johnson,Rhys Miller,6-0,6,0,1,0,Completed,true,false,false
+UA002074,01 Sep 19,7,Hurlingham Park,BLTC,No. 3,Jack Lunn,Nathaniel Hall,Jack Lunn,7-5,7,5,1,0,Completed,true,false,false
+UA002074,01 Sep 19,7,Hurlingham Park,BLTC,No. 4,Dane Carroll,Lachlan Christie,Dane Carroll,6-1,6,1,1,0,Completed,true,false,false
+UA002081,08 Sep 19,8,BLTC,Dendy Park,No. 1,Tom Davoren,Lachlan Tindall,Lachlan Tindall,4-6,4,6,0,1,Completed,true,false,false
+UA002081,08 Sep 19,8,BLTC,Dendy Park,No. 2,Sophie Johnson,Max Buntine,Max Buntine,4-6,4,6,0,1,Completed,true,false,false
+UA002081,08 Sep 19,8,BLTC,Dendy Park,No. 3,Jack Malasck,Hugh Simpson,Hugh Simpson,2-6,2,6,0,1,Completed,true,false,false
+UA002081,08 Sep 19,8,BLTC,Dendy Park,No. 4,Adam Livermore,Ashley Small,Adam Livermore,6-4,6,4,1,0,Completed,true,false,false
+UA002082,08 Sep 19,8,Royal South Yarra,Coatesville,No. 1,William Beaton,Jordan Marakhov,William Beaton,6-2,6,2,1,0,Completed,true,false,false
+UA002082,08 Sep 19,8,Royal South Yarra,Coatesville,No. 2,Lachlan Mailer,Sam Basman,Lachlan Mailer,6-3,6,3,1,0,Completed,true,false,false
+UA002082,08 Sep 19,8,Royal South Yarra,Coatesville,No. 3,James Strapp,Daniel Jiang,James Strapp,6-3,6,3,1,0,Completed,true,false,false
+UA002082,08 Sep 19,8,Royal South Yarra,Coatesville,No. 4,Darcy Albert,Jacob Mundy,Darcy Albert,6-2,6,2,1,0,Completed,true,false,false
+UA002083,08 Sep 19,8,Hurlingham Park,Tennis World,No. 1,Juliet McKenzie,Justin Pirie,Justin Pirie,2-6,2,6,0,1,Completed,true,false,false
+UA002083,08 Sep 19,8,Hurlingham Park,Tennis World,No. 2,Rhys Miller,Yuuki Hirano-James,Rhys Miller,6-3,6,3,1,0,Completed,true,false,false
+UA002083,08 Sep 19,8,Hurlingham Park,Tennis World,No. 3,Alex Hadziladas,Nicolo Nardari,Nicolo Nardari,3-6,3,6,0,1,Completed,true,false,false
+UA002083,08 Sep 19,8,Hurlingham Park,Tennis World,No. 4,Dane Carroll,Stefan Desovski,Stefan Desovski,0-6,0,6,0,1,Completed,true,false,false
+UA002091,15 Sep 19,9,Dendy Park,GPHC,No. 1,Lachlan Tindall,Lachie Joughin,Lachlan Tindall,7-5,7,5,1,0,Completed,true,false,false
+UA002091,15 Sep 19,9,Dendy Park,GPHC,No. 2,Andreas Tanti,Rohan Chalisgaonkar,Andreas Tanti,6-3,6,3,1,0,Completed,true,false,true
+UA002091,15 Sep 19,9,Dendy Park,GPHC,No. 3,Cameron Acheson,Juliette Marquat,Cameron Acheson,6-3,6,3,1,0,Completed,true,false,false
+UA002091,15 Sep 19,9,Dendy Park,GPHC,No. 4,Daniel Whitson,Lucas Holly,Daniel Whitson,6-2,6,2,1,0,Completed,true,false,false
+UA002092,15 Sep 19,9,Coatesville,BLTC,No. 1,Brock Augustynski,Tom Davoren,Brock Augustynski,6-4,6,4,1,0,Completed,true,false,false
+UA002092,15 Sep 19,9,Coatesville,BLTC,No. 2,Sam Basman,Charlie Anderson,Sam Basman,6-3,6,3,1,0,Completed,true,false,false
+UA002092,15 Sep 19,9,Coatesville,BLTC,No. 3,Daniel Jiang,Sophie Johnson,Sophie Johnson,4-6,4,6,0,1,Completed,true,false,false
+UA002092,15 Sep 19,9,Coatesville,BLTC,No. 4,Jacob Mundy,Jack Malasck,Jacob Mundy,7-6,7,6,1,0,Completed,true,false,false
+UA002094,15 Sep 19,9,Centenary Park,Hurlingham Park,No. 1,Koki Ono,Rhys Miller,Koki Ono,6-1,6,1,1,0,Completed,true,false,false
+UA002094,15 Sep 19,9,Centenary Park,Hurlingham Park,No. 2,Josh Baldsing,Alex Hadziladas,Alex Hadziladas,4-6,4,6,0,1,Completed,true,false,false
+UA002094,15 Sep 19,9,Centenary Park,Hurlingham Park,No. 3,Norway Gordon,Brody Rosenbloom,Brody Rosenbloom,2-6,2,6,0,1,Completed,true,false,false
+UA002094,15 Sep 19,9,Centenary Park,Hurlingham Park,No. 4,Mason Le,Oliver Lunn,Oliver Lunn,0-6,0,6,0,1,Completed,true,false,false
+UA002101,13 Oct 19,10,Hurlingham Park,Dendy Park,No. 1,Rhys Miller,Lachlan Tindall,Lachlan Tindall,6-7,6,7,0,1,Completed,true,false,false
+UA002101,13 Oct 19,10,Hurlingham Park,Dendy Park,No. 2,Alex Hadziladas,Max Buntine,Alex Hadziladas,6-1,6,1,1,0,Completed,true,false,false
+UA002101,13 Oct 19,10,Hurlingham Park,Dendy Park,No. 3,Brody Rosenbloom,Ashley Small,Brody Rosenbloom,6-4,6,4,1,0,Completed,true,false,false
+UA002101,13 Oct 19,10,Hurlingham Park,Dendy Park,No. 4,Dane Campbell,Daniel Whitson,Dane Campbell,6-4,6,4,1,0,Completed,true,false,false
+UA002102,13 Oct 19,10,GPHC,Coatesville,No. 1,Lachie Joughin,Brock Augustynski,Lachie Joughin,6-0,6,0,1,0,Completed,true,false,false
+UA002102,13 Oct 19,10,GPHC,Coatesville,No. 2,Nelson Beadle,Jordan Marakhov,Jordan Marakhov,3-6,3,6,0,1,Completed,true,false,false
+UA002102,13 Oct 19,10,GPHC,Coatesville,No. 3,Henry Stewart,Sam Basman,Sam Basman,4-6,4,6,0,1,Completed,true,false,false
+UA002102,13 Oct 19,10,GPHC,Coatesville,No. 4,Lucas Holly,Jacob Mundy,Lucas Holly,6-3,6,3,1,0,Completed,true,false,false
+UA002103,13 Oct 19,10,BLTC,Tennis World,No. 1,Tom Davoren,Justin Pirie,Justin Pirie,1-6,1,6,0,1,Completed,true,false,false
+UA002103,13 Oct 19,10,BLTC,Tennis World,No. 2,Charlie Anderson,Yuuki Hirano-James,Charlie Anderson,6-4,6,4,1,0,Completed,true,false,false
+UA002103,13 Oct 19,10,BLTC,Tennis World,No. 3,Sophie Johnson,Stefan Desovski,Stefan Desovski,2-6,2,6,0,1,Completed,true,false,false
+UA002103,13 Oct 19,10,BLTC,Tennis World,No. 4,Jack Malasck,Hudson Hopman,Jack Malasck,6-1,6,1,1,0,Completed,true,false,false
+UA002111,20 Oct 19,11,Dendy Park,Royal South Yarra,No. 1,Max Buntine,William Beaton,William Beaton,3-6,3,6,0,1,Completed,true,false,false
+UA002111,20 Oct 19,11,Dendy Park,Royal South Yarra,No. 2,Hugh Simpson,Lachlan Mailer,Hugh Simpson,6-3,6,3,1,0,Completed,true,false,false
+UA002111,20 Oct 19,11,Dendy Park,Royal South Yarra,No. 3,Cameron Acheson,Harvey Clements,Cameron Acheson,6-4,6,4,1,0,Completed,true,false,false
+UA002111,20 Oct 19,11,Dendy Park,Royal South Yarra,No. 4,Daniel Whitson,James Strapp,Daniel Whitson,6-2,6,2,1,0,Completed,true,false,false
+UA002112,20 Oct 19,11,Coatesville,Hurlingham Park,No. 1,Brock Augustynski,Juliet McKenzie,Juliet McKenzie,2-6,2,6,0,1,Completed,true,false,false
+UA002112,20 Oct 19,11,Coatesville,Hurlingham Park,No. 2,Jordan Marakhov,Rhys Miller,Jordan Marakhov,6-3,6,3,1,0,Completed,true,false,false
+UA002112,20 Oct 19,11,Coatesville,Hurlingham Park,No. 3,Daniel Jiang,Alex Hadziladas,Daniel Jiang,6-4,6,4,1,0,Completed,true,false,false
+UA002112,20 Oct 19,11,Coatesville,Hurlingham Park,No. 4,Jacob Mundy,Brody Rosenbloom,Brody Rosenbloom,4-6,4,6,0,1,Completed,true,false,false
+UA002113,20 Oct 19,11,Tennis World,GPHC,No. 1,Justin Pirie,Lachie Joughin,Justin Pirie,6-2,6,2,1,0,Completed,true,false,false
+UA002113,20 Oct 19,11,Tennis World,GPHC,No. 2,Yuuki Hirano-James,Juliette Marquat,Yuuki Hirano-James,6-3,6,3,1,0,Completed,true,false,false
+UA002113,20 Oct 19,11,Tennis World,GPHC,No. 3,Sebastian Liddle,Mia Retschko,Sebastian Liddle,6-1,6,1,1,0,Completed,true,false,false
+UA002113,20 Oct 19,11,Tennis World,GPHC,No. 4,Paddy Meagher,Nelson Beadle,Paddy Meagher,6-2,6,2,1,0,Completed,true,false,false
+UA002121,27 Oct 19,12,Centenary Park,Tennis World,No. 1,Prisha Baliga,Justin Pirie,Prisha Baliga,6-4,6,4,1,0,Completed,true,false,false
+UA002121,27 Oct 19,12,Centenary Park,Tennis World,No. 2,Madi Howell,Yuuki Hirano-James,Yuuki Hirano-James,0-6,0,6,0,1,Completed,true,false,false
+UA002121,27 Oct 19,12,Centenary Park,Tennis World,No. 3,Koki Ono,Stefan Desovski,Koki Ono,6-2,6,2,1,0,Completed,true,false,false
+UA002121,27 Oct 19,12,Centenary Park,Tennis World,No. 4,Norway Gordon,Sebastian Liddle,Sebastian Liddle,1-6,1,6,0,1,Completed,true,false,false
+UA002122,27 Oct 19,12,Hurlingham Park,GPHC,No. 1,Juliet McKenzie,Lachie Joughin,Juliet McKenzie,6-2,6,2,1,0,Completed,true,false,false
+UA002122,27 Oct 19,12,Hurlingham Park,GPHC,No. 2,Rhys Miller,Henry Stewart,Rhys Miller,6-1,6,1,1,0,Completed,true,false,false
+UA002122,27 Oct 19,12,Hurlingham Park,GPHC,No. 3,Alex Hadziladas,Lucas Holly,Alex Hadziladas,6-2,6,2,1,0,Completed,true,false,false
+UA002122,27 Oct 19,12,Hurlingham Park,GPHC,No. 4,Dane Carroll,Luke Gorski,Luke Gorski,4-6,4,6,0,1,Completed,true,false,false
+UA002123,27 Oct 19,12,BLTC,Royal South Yarra,No. 1,Tom Davoren,William Beaton,William Beaton,0-6,0,6,0,1,Completed,true,false,false
+UA002123,27 Oct 19,12,BLTC,Royal South Yarra,No. 2,Sophie Johnson,Lachlan Mailer,Lachlan Mailer,2-6,2,6,0,1,Completed,true,false,false
+UA002123,27 Oct 19,12,BLTC,Royal South Yarra,No. 3,Jack Malasck,Harvey Clements,Harvey Clements,4-6,4,6,0,1,Completed,true,false,false
+UA002123,27 Oct 19,12,BLTC,Royal South Yarra,No. 4,Saffron Worsley,Darcy Albert,Saffron Worsley,6-2,6,2,1,0,Completed,true,false,false
+UA002124,27 Oct 19,12,Coatesville,Dendy Park,No. 1,Jordan Marakhov,Hugh Simpson,Jordan Marakhov,6-3,6,3,1,0,Completed,true,false,false
+UA002124,27 Oct 19,12,Coatesville,Dendy Park,No. 2,Sam Basman,Andreas Tanti,Andreas Tanti,4-6,4,6,0,1,Completed,true,false,false
+UA002124,27 Oct 19,12,Coatesville,Dendy Park,No. 3,Daniel Jiang,Korben Brough,Daniel Jiang,6-0,6,0,1,0,Completed,true,false,false
+UA002124,27 Oct 19,12,Coatesville,Dendy Park,No. 4,Jacob Mundy,Ashley Small,Ashley Small,2-6,2,6,0,1,Completed,true,false,false
+UA002131,10 Nov 19,13,Tennis World,Coatesville,No. 1,Justin Pirie,Brock Augustynski,Justin Pirie,6-3,6,3,1,0,Completed,true,false,false
+UA002131,10 Nov 19,13,Tennis World,Coatesville,No. 2,Yuuki Hirano-James,Sam Basman,Yuuki Hirano-James,6-2,6,2,1,0,Completed,true,false,false
+UA002131,10 Nov 19,13,Tennis World,Coatesville,No. 3,Sebastian Liddle,Daniel Jiang,Sebastian Liddle,6-2,6,2,1,0,Completed,true,false,false
+UA002131,10 Nov 19,13,Tennis World,Coatesville,No. 4,Paddy Meagher,Jacob Mundy,Paddy Meagher,6-0,6,0,1,0,Completed,true,false,false
+UA002133,10 Nov 19,13,Royal South Yarra,Hurlingham Park,No. 1,William Beaton,Juliet McKenzie,William Beaton,6-1,6,1,1,0,Completed,true,false,false
+UA002133,10 Nov 19,13,Royal South Yarra,Hurlingham Park,No. 2,Lachlan Mailer,Rhys Miller,Rhys Miller,1-6,1,6,0,1,Completed,true,false,false
+UA002133,10 Nov 19,13,Royal South Yarra,Hurlingham Park,No. 3,Darcy Albert,Brody Rosenbloom,Brody Rosenbloom,1-6,1,6,0,1,Completed,true,false,false
+UA002133,10 Nov 19,13,Royal South Yarra,Hurlingham Park,No. 4,James Ollerenshaw,Dane Campbell,Dane Campbell,2-6,2,6,0,1,Completed,true,false,false
+UA002134,10 Nov 19,13,GPHC,BLTC,No. 1,Mia Retschko,Tom Davoren,Tom Davoren,5-7,5,7,0,1,Completed,true,false,false
+UA002134,10 Nov 19,13,GPHC,BLTC,No. 2,Nelson Beadle,Sophie Johnson,Nelson Beadle,7-6,7,6,1,0,Completed,true,false,false
+UA002134,10 Nov 19,13,GPHC,BLTC,No. 3,Henry Stewart,Jack Malasck,Henry Stewart,6-2,6,2,1,0,Completed,true,false,false
+UA002134,10 Nov 19,13,GPHC,BLTC,No. 4,Lucas Holly,Jenna Brown,Lucas Holly,6-0,6,0,1,0,Completed,true,false,false
+UA002141,17 Nov 19,14,Tennis World,Dendy Park,No. 1,Justin Pirie,Lachlan Tindall,Justin Pirie,6-2,6,2,1,0,Completed,true,false,false
+UA002141,17 Nov 19,14,Tennis World,Dendy Park,No. 2,Yuuki Hirano-James,Max Buntine,Yuuki Hirano-James,6-1,6,1,1,0,Completed,true,false,false
+UA002141,17 Nov 19,14,Tennis World,Dendy Park,No. 3,Stefan Desovski,Andreas Tanti,Andreas Tanti,6-7,6,7,0,1,Completed,true,false,false
+UA002141,17 Nov 19,14,Tennis World,Dendy Park,No. 4,Paddy Meagher,Korben Brough,Paddy Meagher,6-1,6,1,1,0,Completed,true,false,false
+UA002143,17 Nov 19,14,Royal South Yarra,GPHC,No. 1,William Beaton,Mia Retschko,William Beaton,6-0,6,0,1,0,Completed,true,false,false
+UA002143,17 Nov 19,14,Royal South Yarra,GPHC,No. 2,Lachlan Mailer,[Unnamed player — TROLS UA002143 away code 2],Lachlan Mailer,6-0,6,0,1,0,Completed,false,false,false
+UA002143,17 Nov 19,14,Royal South Yarra,GPHC,No. 3,James Strapp,Henry Stewart,James Strapp,6-4,6,4,1,0,Completed,true,false,false
+UA002143,17 Nov 19,14,Royal South Yarra,GPHC,No. 4,Darcy Albert,Lucas Holly,Lucas Holly,3-6,3,6,0,1,Completed,true,false,false
+UA002144,17 Nov 19,14,BLTC,Hurlingham Park,No. 1,Tom Davoren,Rhys Miller,Rhys Miller,3-6,3,6,0,1,Completed,true,false,false
+UA002144,17 Nov 19,14,BLTC,Hurlingham Park,No. 2,Charlie Anderson,Alex Hadziladas,Alex Hadziladas,2-6,2,6,0,1,Completed,true,false,false
+UA002144,17 Nov 19,14,BLTC,Hurlingham Park,No. 3,Nathaniel Hall,Brody Rosenbloom,Brody Rosenbloom,6-7,6,7,0,1,Completed,true,false,false
+UA002144,17 Nov 19,14,BLTC,Hurlingham Park,No. 4,Jenna Brown,Dane Carroll,Dane Carroll,1-6,1,6,0,1,Completed,true,false,false
+UA002301,,16,Dendy Park,Tennis World,No. 1,Lachlan Tindall,Justin Pirie,Justin Pirie,4-6,4,6,0,1,Completed,true,false,false
+UA002301,,16,Dendy Park,Tennis World,No. 2,Max Buntine,Yuuki Hirano-James,Max Buntine,6-4,6,4,1,0,Completed,true,false,false
+UA002301,,16,Dendy Park,Tennis World,No. 3,Hugh Simpson,Nicolo Nardari,Nicolo Nardari,4-6,4,6,0,1,Completed,true,false,false
+UA002301,,16,Dendy Park,Tennis World,No. 4,Andreas Tanti,Paddy Meagher,Andreas Tanti,7-5,7,5,1,0,Completed,true,false,false
+UA002302,,16,Hurlingham Park,Royal South Yarra,No. 1,Juliet McKenzie,William Beaton,William Beaton,6-7,6,7,0,1,Completed,true,false,false
+UA002302,,16,Hurlingham Park,Royal South Yarra,No. 2,Rhys Miller,Lachlan Mailer,Rhys Miller,6-2,6,2,1,0,Completed,true,false,false
+UA002302,,16,Hurlingham Park,Royal South Yarra,No. 3,Alex Hadziladas,James Ollerenshaw,Alex Hadziladas,6-3,6,3,1,0,Completed,true,false,false
+UA002302,,16,Hurlingham Park,Royal South Yarra,No. 4,Brody Rosenbloom,Darcy Albert,Darcy Albert,4-6,4,6,0,1,Completed,true,false,false
+UA002321,,17,Hurlingham Park,Tennis World,No. 1,Juliet McKenzie,Justin Pirie,Justin Pirie,3-6,3,6,0,1,Completed,true,false,false
+UA002321,,17,Hurlingham Park,Tennis World,No. 2,Rhys Miller,Yuuki Hirano-James,Yuuki Hirano-James,4-6,4,6,0,1,Completed,true,false,false
+UA002321,,17,Hurlingham Park,Tennis World,No. 3,Alex Hadziladas,Nicolo Nardari,Nicolo Nardari,3-6,3,6,0,1,Completed,true,false,false
+UA002321,,17,Hurlingham Park,Tennis World,No. 4,Brody Rosenbloom,Tristan Duffin,Tristan Duffin,3-6,3,6,0,1,Completed,true,false,false

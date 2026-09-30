@@ -1,0 +1,221 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA010011,20 Jul 14,1,Parkdale,BLTC,No. 1,Ben Stone,Lachlan Robertson,Lachlan Robertson,1-6,1,6,0,1,Completed,true,false,false
+UA010011,20 Jul 14,1,Parkdale,BLTC,No. 2,Reid Terrell,Jacob Altho-McDowell,Reid Terrell,6-2,6,2,1,0,Completed,true,false,false
+UA010011,20 Jul 14,1,Parkdale,BLTC,No. 3,James Bryan,Ebony Anderson,Ebony Anderson,3-6,3,6,0,1,Completed,true,false,false
+UA010011,20 Jul 14,1,Parkdale,BLTC,No. 4,Nicholas Pudney,Tom Robertson,Nicholas Pudney,6-0,6,0,1,0,Completed,true,false,false
+UA010012,20 Jul 14,1,Hampton,Dendy Park,No. 1,Kate Warman,Filip Milenkovic,Kate Warman,6-3,6,3,1,0,Completed,true,false,false
+UA010012,20 Jul 14,1,Hampton,Dendy Park,No. 2,Lucy Neasmith,Hugo Chong,Hugo Chong,0-6,0,6,0,1,Completed,true,false,false
+UA010012,20 Jul 14,1,Hampton,Dendy Park,No. 3,Isabell Bytheway,Cameron Acheson,Cameron Acheson,3-6,3,6,0,1,Completed,true,false,false
+UA010012,20 Jul 14,1,Hampton,Dendy Park,No. 4,Mia Cosgriff,[Unnamed player — TROLS UA010012 away code 4],[Unnamed player — TROLS UA010012 away code 4],0-6,0,6,0,1,Completed,false,false,false
+UA010013,20 Jul 14,1,Murrumbeena,Maccabi,No. 1,Madeiline Serle,Moishe-Aharon Gradman,Madeiline Serle,6-2,6,2,1,0,Completed,true,false,false
+UA010013,20 Jul 14,1,Murrumbeena,Maccabi,No. 2,Mia Pisano,Isaac Wise,Mia Pisano,6-3,6,3,1,0,Completed,true,false,false
+UA010013,20 Jul 14,1,Murrumbeena,Maccabi,No. 3,Chloe Papas,Brad Lowe,Chloe Papas,6-0,6,0,1,0,Completed,true,false,false
+UA010013,20 Jul 14,1,Murrumbeena,Maccabi,No. 4,Nicola Maltman,Adam Gordon,Nicola Maltman,6-3,6,3,1,0,Completed,true,false,false
+UA010014,20 Jul 14,1,Royal Ave 1,Royal Ave 2,No. 1,Sydney Buntine,James Pilcher,Sydney Buntine,6-3,6,3,1,0,Completed,true,false,false
+UA010014,20 Jul 14,1,Royal Ave 1,Royal Ave 2,No. 2,Mackenzie Horth,Zachery Miller,Zachery Miller,0-6,0,6,0,1,Completed,true,false,false
+UA010014,20 Jul 14,1,Royal Ave 1,Royal Ave 2,No. 3,Luca Hamilton,Ryan Phillips,Luca Hamilton,6-3,6,3,1,0,Completed,true,false,false
+UA010014,20 Jul 14,1,Royal Ave 1,Royal Ave 2,No. 4,Simon Hall,Lucy Bird,Lucy Bird,0-6,0,6,0,1,Completed,true,false,false
+UA010021,27 Jul 14,2,Royal Ave 2,Parkdale,No. 1,Michael Jiang,Reid Terrell,Reid Terrell,0-6,0,6,0,1,Completed,true,false,false
+UA010021,27 Jul 14,2,Royal Ave 2,Parkdale,No. 2,Ryan Phillips,Nicholas Pudney,Nicholas Pudney,1-6,1,6,0,1,Completed,true,false,false
+UA010021,27 Jul 14,2,Royal Ave 2,Parkdale,No. 3,Lucy Bird,John Paterson,John Paterson,2-6,2,6,0,1,Completed,true,false,false
+UA010021,27 Jul 14,2,Royal Ave 2,Parkdale,No. 4,Maddy Beggs,James Booth,Maddy Beggs,6-4,6,4,1,0,Completed,true,false,false
+UA010022,27 Jul 14,2,BLTC,Hampton,No. 1,Lachlan Robertson,Emily Dann,Lachlan Robertson,6-2,6,2,1,0,Completed,true,false,false
+UA010022,27 Jul 14,2,BLTC,Hampton,No. 2,Jacob Altho-McDowell,Isabell Bytheway,Isabell Bytheway,2-6,2,6,0,1,Completed,true,false,false
+UA010022,27 Jul 14,2,BLTC,Hampton,No. 3,Henry Bradman,Niamh Kenny,Henry Bradman,6-3,6,3,1,0,Completed,true,false,false
+UA010022,27 Jul 14,2,BLTC,Hampton,No. 4,Tom Robertson,Eliza Maginness,Eliza Maginness,2-6,2,6,0,1,Completed,true,false,false
+UA010023,27 Jul 14,2,Dendy Park,Murrumbeena,No. 1,Filip Milenkovic,Wyatt Bicknell,Wyatt Bicknell,5-7,5,7,0,1,Completed,true,false,false
+UA010023,27 Jul 14,2,Dendy Park,Murrumbeena,No. 2,Harry Vermaak,Chloe Papas,Harry Vermaak,6-1,6,1,1,0,Completed,true,false,false
+UA010023,27 Jul 14,2,Dendy Park,Murrumbeena,No. 3,Hugo Chong,Harry Holzer,Hugo Chong,6-0,6,0,1,0,Completed,true,false,false
+UA010023,27 Jul 14,2,Dendy Park,Murrumbeena,No. 4,Cameron Acheson,Boris Pribil,Cameron Acheson,6-4,6,4,1,0,Completed,true,false,false
+UA010024,27 Jul 14,2,Maccabi,Royal Ave 1,No. 1,Moishe-Aharon Gradman,Max Buntine,Max Buntine,2-6,2,6,0,1,Completed,true,false,false
+UA010024,27 Jul 14,2,Maccabi,Royal Ave 1,No. 2,Isaac Wise,Giorgio Anagnostou,Giorgio Anagnostou,0-6,0,6,0,1,Completed,true,false,false
+UA010024,27 Jul 14,2,Maccabi,Royal Ave 1,No. 3,Adam Gordon,Simon Hall,Adam Gordon,6-4,6,4,1,0,Completed,true,false,false
+UA010024,27 Jul 14,2,Maccabi,Royal Ave 1,No. 4,Israel Procel,Max Burns,Israel Procel,6-3,6,3,1,0,Completed,true,false,false
+UA010031,03 Aug 14,3,Parkdale,Maccabi,No. 1,Ben Stone,Moishe-Aharon Gradman,Moishe-Aharon Gradman,6-7,6,7,0,1,Completed,true,false,false
+UA010031,03 Aug 14,3,Parkdale,Maccabi,No. 2,Abbey Pudney,Isaac Wise,Isaac Wise,2-6,2,6,0,1,Completed,true,false,false
+UA010031,03 Aug 14,3,Parkdale,Maccabi,No. 3,John Paterson,Adam Gordon,John Paterson,6-3,6,3,1,0,Completed,true,false,false
+UA010031,03 Aug 14,3,Parkdale,Maccabi,No. 4,James Booth,Israel Procel,Israel Procel,6-7,6,7,0,1,Completed,true,false,false
+UA010032,03 Aug 14,3,Hampton,Royal Ave 2,No. 1,Kate Warman,James Pilcher,Kate Warman,6-3,6,3,1,0,Completed,true,false,false
+UA010032,03 Aug 14,3,Hampton,Royal Ave 2,No. 2,Niamh Kenny,Michael Jiang,Niamh Kenny,6-2,6,2,1,0,Completed,true,false,false
+UA010032,03 Aug 14,3,Hampton,Royal Ave 2,No. 3,Eliza Maginness,Zachery Miller,Eliza Maginness,7-5,7,5,1,0,Completed,true,false,false
+UA010032,03 Aug 14,3,Hampton,Royal Ave 2,No. 4,Paulina Lopez,Maddy Beggs,Paulina Lopez,6-4,6,4,1,0,Completed,true,true,false
+UA010033,03 Aug 14,3,Murrumbeena,BLTC,No. 1,Madeiline Serle,Lachlan Robertson,Lachlan Robertson,4-6,4,6,0,1,Completed,true,false,false
+UA010033,03 Aug 14,3,Murrumbeena,BLTC,No. 2,Mia Pisano,Jacob Altho-McDowell,Mia Pisano,6-0,6,0,1,0,Completed,true,false,false
+UA010033,03 Aug 14,3,Murrumbeena,BLTC,No. 3,Chloe Papas,Henry Bradman,Henry Bradman,2-6,2,6,0,1,Completed,true,false,false
+UA010033,03 Aug 14,3,Murrumbeena,BLTC,No. 4,Boris Pribil,Elise Robertson,Boris Pribil,6-1,6,1,1,0,Completed,true,false,false
+UA010034,03 Aug 14,3,Royal Ave 1,Dendy Park,No. 1,Max Buntine,Hugo Chong,Max Buntine,7-6,7,6,1,0,Completed,true,false,false
+UA010034,03 Aug 14,3,Royal Ave 1,Dendy Park,No. 2,Giorgio Anagnostou,Tyler Silver-cooper,Tyler Silver-cooper,1-6,1,6,0,1,Completed,true,false,false
+UA010034,03 Aug 14,3,Royal Ave 1,Dendy Park,No. 3,Simon Hall,Cameron Acheson,Cameron Acheson,0-6,0,6,0,1,Completed,true,false,false
+UA010034,03 Aug 14,3,Royal Ave 1,Dendy Park,No. 4,Luca Hamilton,Andrew Cole,Andrew Cole,0-6,0,6,0,1,Completed,true,false,false
+UA010041,10 Aug 14,4,Dendy Park,Parkdale,No. 1,Filip Milenkovic,Ben Stone,Ben Stone,3-6,3,6,0,1,Completed,true,false,false
+UA010041,10 Aug 14,4,Dendy Park,Parkdale,No. 2,Tyler Silver-cooper,Reid Terrell,Tyler Silver-cooper,6-4,6,4,1,0,Completed,true,false,false
+UA010041,10 Aug 14,4,Dendy Park,Parkdale,No. 3,Cameron Acheson,James Bryan,James Bryan,4-6,4,6,0,1,Completed,true,false,false
+UA010041,10 Aug 14,4,Dendy Park,Parkdale,No. 4,[Unnamed player — TROLS UA010041 home code 4],Nicholas Pudney,Nicholas Pudney,0-6,0,6,0,1,Completed,false,false,false
+UA010042,10 Aug 14,4,Maccabi,Hampton,No. 1,Moishe-Aharon Gradman,Emily Dann,Moishe-Aharon Gradman,7-6,7,6,1,0,Completed,true,false,false
+UA010042,10 Aug 14,4,Maccabi,Hampton,No. 2,Isaac Wise,Kate Warman,Isaac Wise,6-1,6,1,1,0,Completed,true,false,false
+UA010042,10 Aug 14,4,Maccabi,Hampton,No. 3,Brad Lowe,Lucy Neasmith,Brad Lowe,6-4,6,4,1,0,Completed,true,false,false
+UA010042,10 Aug 14,4,Maccabi,Hampton,No. 4,Nathan Roth,Eliza Maginness,Eliza Maginness,3-6,3,6,0,1,Completed,true,false,false
+UA010043,10 Aug 14,4,Royal Ave 2,Murrumbeena,No. 1,James Pilcher,Wyatt Bicknell,Wyatt Bicknell,3-6,3,6,0,1,Completed,true,false,false
+UA010043,10 Aug 14,4,Royal Ave 2,Murrumbeena,No. 2,Michael Jiang,Chloe Papas,Chloe Papas,3-6,3,6,0,1,Completed,true,false,false
+UA010043,10 Aug 14,4,Royal Ave 2,Murrumbeena,No. 3,Ryan Phillips,Harry Holzer,Harry Holzer,1-6,1,6,0,1,Completed,true,false,false
+UA010043,10 Aug 14,4,Royal Ave 2,Murrumbeena,No. 4,Lucy Bird,Nicola Maltman,Nicola Maltman,1-6,1,6,0,1,Completed,true,false,false
+UA010044,10 Aug 14,4,BLTC,Royal Ave 1,No. 1,Lachlan Robertson,Giorgio Anagnostou,Lachlan Robertson,6-1,6,1,1,0,Completed,true,false,false
+UA010044,10 Aug 14,4,BLTC,Royal Ave 1,No. 2,Stewart Petley,Max Burns,Stewart Petley,7-6,7,6,1,0,Completed,true,false,false
+UA010044,10 Aug 14,4,BLTC,Royal Ave 1,No. 3,Henry Bradman,Luca Hamilton,Henry Bradman,6-0,6,0,1,0,Completed,true,false,false
+UA010044,10 Aug 14,4,BLTC,Royal Ave 1,No. 4,Tom Robertson,Mackenzie Horth,Tom Robertson,6-0,6,0,1,0,Completed,true,false,false
+UA010051,17 Aug 14,5,Murrumbeena,Royal Ave 1,No. 1,Madeiline Serle,Max Buntine,Max Buntine,3-6,3,6,0,1,Completed,true,false,false
+UA010051,17 Aug 14,5,Murrumbeena,Royal Ave 1,No. 2,Harry Holzer,Simon Hall,Harry Holzer,6-2,6,2,1,0,Completed,true,false,false
+UA010051,17 Aug 14,5,Murrumbeena,Royal Ave 1,No. 3,Boris Pribil,Max Burns,Boris Pribil,6-0,6,0,1,0,Completed,true,false,false
+UA010051,17 Aug 14,5,Murrumbeena,Royal Ave 1,No. 4,Nicola Maltman,Mackenzie Horth,Nicola Maltman,6-0,6,0,1,0,Completed,true,false,false
+UA010052,17 Aug 14,5,Royal Ave 2,Maccabi,No. 1,James Pilcher,Moishe-Aharon Gradman,Moishe-Aharon Gradman,6-7,6,7,0,1,Completed,true,false,false
+UA010052,17 Aug 14,5,Royal Ave 2,Maccabi,No. 2,Michael Jiang,Isaac Wise,Isaac Wise,2-6,2,6,0,1,Completed,true,false,false
+UA010052,17 Aug 14,5,Royal Ave 2,Maccabi,No. 3,Lucy Bird,Brad Lowe,Brad Lowe,0-6,0,6,0,1,Completed,true,false,false
+UA010052,17 Aug 14,5,Royal Ave 2,Maccabi,No. 4,Maddy Beggs,Adam Gordon,Maddy Beggs,7-5,7,5,1,0,Completed,true,false,false
+UA010053,17 Aug 14,5,Dendy Park,BLTC,No. 1,Filip Milenkovic,Lachlan Robertson,Lachlan Robertson,1-6,1,6,0,1,Completed,true,false,false
+UA010053,17 Aug 14,5,Dendy Park,BLTC,No. 2,Hugo Chong,Henry Bradman,Hugo Chong,6-4,6,4,1,0,Completed,true,false,false
+UA010053,17 Aug 14,5,Dendy Park,BLTC,No. 3,Toby Allsop,Elise Robertson,Elise Robertson,1-6,1,6,0,1,Completed,true,false,false
+UA010053,17 Aug 14,5,Dendy Park,BLTC,No. 4,Cameron Acheson,Tom Robertson,Cameron Acheson,6-2,6,2,1,0,Completed,true,false,false
+UA010054,17 Aug 14,5,Parkdale,Hampton,No. 1,Ben Stone,Isabell Bytheway,Ben Stone,6-0,6,0,1,0,Completed,true,false,false
+UA010054,17 Aug 14,5,Parkdale,Hampton,No. 2,James Bryan,Niamh Kenny,James Bryan,6-2,6,2,1,0,Completed,true,false,false
+UA010054,17 Aug 14,5,Parkdale,Hampton,No. 3,Nicholas Pudney,Eliza Maginness,Nicholas Pudney,6-1,6,1,1,0,Completed,true,false,false
+UA010054,17 Aug 14,5,Parkdale,Hampton,No. 4,John Paterson,Mia Cosgriff,John Paterson,6-1,6,1,1,0,Completed,true,false,false
+UA010061,24 Aug 14,6,Hampton,Murrumbeena,No. 1,Emily Dann,Madeiline Serle,Madeiline Serle,5-7,5,7,0,1,Completed,true,false,false
+UA010061,24 Aug 14,6,Hampton,Murrumbeena,No. 2,Lucy Neasmith,Mia Pisano,Mia Pisano,1-6,1,6,0,1,Completed,true,false,false
+UA010061,24 Aug 14,6,Hampton,Murrumbeena,No. 3,Isabell Bytheway,Chloe Papas,Chloe Papas,3-6,3,6,0,1,Completed,true,false,false
+UA010061,24 Aug 14,6,Hampton,Murrumbeena,No. 4,Eliza Maginness,Boris Pribil,Eliza Maginness,6-4,6,4,1,0,Completed,true,false,false
+UA010062,24 Aug 14,6,Royal Ave 1,Parkdale,No. 1,Max Buntine,James Bryan,Max Buntine,6-3,6,3,1,0,Completed,true,false,false
+UA010062,24 Aug 14,6,Royal Ave 1,Parkdale,No. 2,Giorgio Anagnostou,Nicholas Pudney,Giorgio Anagnostou,6-3,6,3,1,0,Completed,true,false,false
+UA010062,24 Aug 14,6,Royal Ave 1,Parkdale,No. 3,Simon Hall,John Paterson,John Paterson,2-6,2,6,0,1,Completed,true,false,false
+UA010062,24 Aug 14,6,Royal Ave 1,Parkdale,No. 4,Max Burns,James Booth,Max Burns,7-6,7,6,1,0,Completed,true,false,false
+UA010063,24 Aug 14,6,Maccabi,Dendy Park,No. 1,Moishe-Aharon Gradman,Harry Vermaak,Moishe-Aharon Gradman,6-0,6,0,1,0,Completed,true,false,false
+UA010063,24 Aug 14,6,Maccabi,Dendy Park,No. 2,Isaac Wise,Hugo Chong,Hugo Chong,2-6,2,6,0,1,Completed,true,false,false
+UA010063,24 Aug 14,6,Maccabi,Dendy Park,No. 3,Brad Lowe,Toby Allsop,Brad Lowe,6-1,6,1,1,0,Completed,true,false,false
+UA010063,24 Aug 14,6,Maccabi,Dendy Park,No. 4,Adam Gordon,Cameron Acheson,Cameron Acheson,2-6,2,6,0,1,Completed,true,false,false
+UA010064,24 Aug 14,6,BLTC,Royal Ave 2,No. 1,Lachlan Robertson,James Pilcher,Lachlan Robertson,6-1,6,1,1,0,Completed,true,false,false
+UA010064,24 Aug 14,6,BLTC,Royal Ave 2,No. 2,Jacob Altho-McDowell,Zachery Miller,Jacob Altho-McDowell,7-6,7,6,1,0,Completed,true,false,false
+UA010064,24 Aug 14,6,BLTC,Royal Ave 2,No. 3,Elise Robertson,Ryan Phillips,Elise Robertson,6-0,6,0,1,0,Completed,true,false,false
+UA010064,24 Aug 14,6,BLTC,Royal Ave 2,No. 4,Tom Shepherd,Maddy Beggs,Tom Shepherd,6-2,6,2,1,0,Completed,true,false,false
+UA010071,31 Aug 14,7,Parkdale,Murrumbeena,No. 1,James Bryan,Wyatt Bicknell,Wyatt Bicknell,4-6,4,6,0,1,Completed,true,false,false
+UA010071,31 Aug 14,7,Parkdale,Murrumbeena,No. 2,Nicholas Pudney,Madeiline Serle,Nicholas Pudney,6-2,6,2,1,0,Completed,true,false,false
+UA010071,31 Aug 14,7,Parkdale,Murrumbeena,No. 3,John Paterson,Mia Pisano,John Paterson,6-2,6,2,1,0,Completed,true,false,false
+UA010071,31 Aug 14,7,Parkdale,Murrumbeena,No. 4,James Booth,Harry Holzer,Harry Holzer,1-6,1,6,0,1,Completed,true,false,false
+UA010072,31 Aug 14,7,Hampton,Royal Ave 1,No. 1,Liam Kenny,Max Buntine,Liam Kenny,6-3,6,3,1,0,Completed,true,false,false
+UA010072,31 Aug 14,7,Hampton,Royal Ave 1,No. 2,Emily Dann,Simon Hall,Emily Dann,6-4,6,4,1,0,Completed,true,false,false
+UA010072,31 Aug 14,7,Hampton,Royal Ave 1,No. 3,Kate Warman,Max Burns,Kate Warman,6-3,6,3,1,0,Completed,true,false,false
+UA010072,31 Aug 14,7,Hampton,Royal Ave 1,No. 4,Isabell Bytheway,Luca Hamilton,Isabell Bytheway,6-0,6,0,1,0,Completed,true,false,false
+UA010073,31 Aug 14,7,Royal Ave 2,Dendy Park,No. 1,James Pilcher,Filip Milenkovic,James Pilcher,6-0,6,0,1,0,Completed,true,false,false
+UA010073,31 Aug 14,7,Royal Ave 2,Dendy Park,No. 2,Michael Jiang,Hugo Chong,Hugo Chong,0-6,0,6,0,1,Completed,true,false,false
+UA010073,31 Aug 14,7,Royal Ave 2,Dendy Park,No. 3,Zachery Miller,Toby Allsop,Zachery Miller,6-2,6,2,1,0,Completed,true,false,false
+UA010073,31 Aug 14,7,Royal Ave 2,Dendy Park,No. 4,Lucy Bird,Cameron Acheson,Cameron Acheson,0-6,0,6,0,1,Completed,true,false,false
+UA010074,31 Aug 14,7,Maccabi,BLTC,No. 1,Moishe-Aharon Gradman,Lachlan Robertson,Lachlan Robertson,0-6,0,6,0,1,Completed,true,false,false
+UA010074,31 Aug 14,7,Maccabi,BLTC,No. 2,Isaac Wise,Jacob Altho-McDowell,Isaac Wise,6-0,6,0,1,0,Completed,true,false,false
+UA010074,31 Aug 14,7,Maccabi,BLTC,No. 3,Brad Lowe,Henry Bradman,Brad Lowe,6-2,6,2,1,0,Completed,true,false,false
+UA010074,31 Aug 14,7,Maccabi,BLTC,No. 4,Adam Gordon,Tom Robertson,Adam Gordon,6-4,6,4,1,0,Completed,true,false,false
+UA010081,07 Sep 14,8,BLTC,Parkdale,No. 1,Lachlan Robertson,Ben Stone,Lachlan Robertson,6-2,6,2,1,0,Completed,true,false,false
+UA010081,07 Sep 14,8,BLTC,Parkdale,No. 2,Jacob Altho-McDowell,James Bryan,Jacob Altho-McDowell,6-2,6,2,1,0,Completed,true,false,false
+UA010081,07 Sep 14,8,BLTC,Parkdale,No. 3,Ebony Anderson,Nicholas Pudney,Nicholas Pudney,5-7,5,7,0,1,Completed,true,false,false
+UA010081,07 Sep 14,8,BLTC,Parkdale,No. 4,Tom Robertson,Abbey Pudney,Abbey Pudney,1-6,1,6,0,1,Completed,true,false,false
+UA010082,07 Sep 14,8,Dendy Park,Hampton,No. 1,Filip Milenkovic,Emily Dann,Emily Dann,1-6,1,6,0,1,Completed,true,false,false
+UA010082,07 Sep 14,8,Dendy Park,Hampton,No. 2,Harry Vermaak,Kate Warman,Harry Vermaak,6-0,6,0,1,0,Completed,true,false,false
+UA010082,07 Sep 14,8,Dendy Park,Hampton,No. 3,Toby Allsop,Lucy Neasmith,Toby Allsop,7-5,7,5,1,0,Completed,true,false,false
+UA010082,07 Sep 14,8,Dendy Park,Hampton,No. 4,Cameron Acheson,Isabell Bytheway,Cameron Acheson,6-2,6,2,1,0,Completed,true,false,false
+UA010083,07 Sep 14,8,Maccabi,Murrumbeena,No. 1,Moishe-Aharon Gradman,Madeiline Serle,Moishe-Aharon Gradman,6-4,6,4,1,0,Completed,true,false,false
+UA010083,07 Sep 14,8,Maccabi,Murrumbeena,No. 2,Isaac Wise,Mia Pisano,Isaac Wise,6-2,6,2,1,0,Completed,true,false,false
+UA010083,07 Sep 14,8,Maccabi,Murrumbeena,No. 3,Brad Lowe,Chloe Papas,Brad Lowe,6-2,6,2,1,0,Completed,true,false,false
+UA010083,07 Sep 14,8,Maccabi,Murrumbeena,No. 4,Adam Gordon,Harry Holzer,Harry Holzer,1-6,1,6,0,1,Completed,true,false,false
+UA010084,07 Sep 14,8,Royal Ave 2,Royal Ave 1,No. 1,Michael Jiang,Max Buntine,Max Buntine,0-6,0,6,0,1,Completed,true,false,false
+UA010084,07 Sep 14,8,Royal Ave 2,Royal Ave 1,No. 2,Zachery Miller,Giorgio Anagnostou,Giorgio Anagnostou,1-6,1,6,0,1,Completed,true,false,false
+UA010084,07 Sep 14,8,Royal Ave 2,Royal Ave 1,No. 3,Ryan Phillips,Luca Hamilton,Ryan Phillips,6-3,6,3,1,0,Completed,true,false,false
+UA010084,07 Sep 14,8,Royal Ave 2,Royal Ave 1,No. 4,Maddy Beggs,Mackenzie Horth,Maddy Beggs,6-0,6,0,1,0,Completed,true,false,false
+UA010091,14 Sep 14,9,Parkdale,Royal Ave 2,No. 1,Ben Stone,James Pilcher,Ben Stone,6-3,6,3,1,0,Completed,true,false,false
+UA010091,14 Sep 14,9,Parkdale,Royal Ave 2,No. 2,James Bryan,Zachery Miller,James Bryan,6-3,6,3,1,0,Completed,true,false,false
+UA010091,14 Sep 14,9,Parkdale,Royal Ave 2,No. 3,Nicholas Pudney,Lucy Bird,Nicholas Pudney,6-0,6,0,1,0,Completed,true,false,false
+UA010091,14 Sep 14,9,Parkdale,Royal Ave 2,No. 4,James Booth,James Cannuli,James Booth,6-3,6,3,1,0,Completed,true,false,false
+UA010092,14 Sep 14,9,Hampton,BLTC,No. 1,Kate Warman,Lachlan Robertson,Lachlan Robertson,3-6,3,6,0,1,Completed,true,false,false
+UA010092,14 Sep 14,9,Hampton,BLTC,No. 2,Lucy Neasmith,Henry Bradman,Lucy Neasmith,6-0,6,0,1,0,Completed,true,false,false
+UA010092,14 Sep 14,9,Hampton,BLTC,No. 3,Niamh Kenny,Elise Robertson,Elise Robertson,3-6,3,6,0,1,Completed,true,false,false
+UA010092,14 Sep 14,9,Hampton,BLTC,No. 4,Eliza Maginness,Tom Robertson,Eliza Maginness,6-1,6,1,1,0,Completed,true,false,false
+UA010093,14 Sep 14,9,Murrumbeena,Dendy Park,No. 1,Wyatt Bicknell,Filip Milenkovic,Wyatt Bicknell,6-2,6,2,1,0,Completed,true,false,false
+UA010093,14 Sep 14,9,Murrumbeena,Dendy Park,No. 2,Mia Pisano,Harry Vermaak,Mia Pisano,6-0,6,0,1,0,Completed,true,false,false
+UA010093,14 Sep 14,9,Murrumbeena,Dendy Park,No. 3,Chloe Papas,Hugo Chong,Chloe Papas,7-6,7,6,1,0,Completed,true,false,false
+UA010093,14 Sep 14,9,Murrumbeena,Dendy Park,No. 4,Nicola Maltman,Cameron Acheson,Cameron Acheson,2-6,2,6,0,1,Completed,true,false,false
+UA010094,14 Sep 14,9,Royal Ave 1,Maccabi,No. 1,Giorgio Anagnostou,Moishe-Aharon Gradman,Moishe-Aharon Gradman,2-6,2,6,0,1,Completed,true,false,false
+UA010094,14 Sep 14,9,Royal Ave 1,Maccabi,No. 2,Simon Hall,Brad Lowe,Brad Lowe,3-6,3,6,0,1,Completed,true,false,false
+UA010094,14 Sep 14,9,Royal Ave 1,Maccabi,No. 3,Max Burns,Adam Gordon,Adam Gordon,1-6,1,6,0,1,Completed,true,false,false
+UA010094,14 Sep 14,9,Royal Ave 1,Maccabi,No. 4,Luca Hamilton,Israel Procel,Israel Procel,1-6,1,6,0,1,Completed,true,false,false
+UA010101,12 Oct 14,10,Maccabi,Parkdale,No. 1,Moishe-Aharon Gradman,Ben Stone,Moishe-Aharon Gradman,6-1,6,1,1,0,Completed,true,false,false
+UA010101,12 Oct 14,10,Maccabi,Parkdale,No. 2,Isaac Wise,James Bryan,Isaac Wise,6-1,6,1,1,0,Completed,true,false,false
+UA010101,12 Oct 14,10,Maccabi,Parkdale,No. 3,Brad Lowe,Nicholas Pudney,Brad Lowe,6-2,6,2,1,0,Completed,true,false,false
+UA010101,12 Oct 14,10,Maccabi,Parkdale,No. 4,Adam Gordon,John Paterson,Adam Gordon,6-4,6,4,1,0,Completed,true,false,false
+UA010102,12 Oct 14,10,Royal Ave 2,Hampton,No. 1,Zachery Miller,Kate Warman,Kate Warman,4-6,4,6,0,1,Completed,true,false,false
+UA010102,12 Oct 14,10,Royal Ave 2,Hampton,No. 2,Luke Saliba,Lucy Neasmith,Luke Saliba,6-2,6,2,1,0,Completed,true,false,false
+UA010102,12 Oct 14,10,Royal Ave 2,Hampton,No. 3,Ryan Phillips,Isabell Bytheway,Isabell Bytheway,2-6,2,6,0,1,Completed,true,false,false
+UA010102,12 Oct 14,10,Royal Ave 2,Hampton,No. 4,Maddy Beggs,Niamh Kenny,Niamh Kenny,4-6,4,6,0,1,Completed,true,false,false
+UA010103,12 Oct 14,10,BLTC,Murrumbeena,No. 1,Jacob Altho-McDowell,Wyatt Bicknell,Wyatt Bicknell,2-6,2,6,0,1,Completed,true,false,false
+UA010103,12 Oct 14,10,BLTC,Murrumbeena,No. 2,Ebony Anderson,Madeiline Serle,Ebony Anderson,6-2,6,2,1,0,Completed,true,false,false
+UA010103,12 Oct 14,10,BLTC,Murrumbeena,No. 3,Tom Robertson,Mia Pisano,Mia Pisano,6-7,6,7,0,1,Completed,true,false,false
+UA010103,12 Oct 14,10,BLTC,Murrumbeena,No. 4,Tom Shepherd,Nicola Maltman,Tom Shepherd,6-3,6,3,1,0,Completed,true,false,false
+UA010104,12 Oct 14,10,Dendy Park,Royal Ave 1,No. 1,Hugo Chong,Giorgio Anagnostou,Hugo Chong,6-1,6,1,1,0,Completed,true,false,false
+UA010104,12 Oct 14,10,Dendy Park,Royal Ave 1,No. 2,Addison Ding,Simon Hall,Addison Ding,6-0,6,0,1,0,Completed,true,false,false
+UA010104,12 Oct 14,10,Dendy Park,Royal Ave 1,No. 3,Cameron Acheson,Luca Hamilton,Cameron Acheson,6-0,6,0,1,0,Completed,true,false,false
+UA010104,12 Oct 14,10,Dendy Park,Royal Ave 1,No. 4,Andrew Cole,Mackenzie Horth,Andrew Cole,6-0,6,0,1,0,Completed,true,false,false
+UA010111,19 Oct 14,11,Parkdale,Dendy Park,No. 1,Ben Stone,Filip Milenkovic,Filip Milenkovic,3-6,3,6,0,1,Completed,true,false,false
+UA010111,19 Oct 14,11,Parkdale,Dendy Park,No. 2,Reid Terrell,Harry Vermaak,Harry Vermaak,3-6,3,6,0,1,Completed,true,false,false
+UA010111,19 Oct 14,11,Parkdale,Dendy Park,No. 3,John Paterson,Tyler Silver-cooper,Tyler Silver-cooper,2-6,2,6,0,1,Completed,true,false,false
+UA010111,19 Oct 14,11,Parkdale,Dendy Park,No. 4,James Booth,Cameron Acheson,Cameron Acheson,1-6,1,6,0,1,Completed,true,false,false
+UA010112,19 Oct 14,11,Hampton,Maccabi,No. 1,Emily Dann,Moishe-Aharon Gradman,Moishe-Aharon Gradman,0-6,0,6,0,1,Completed,true,false,false
+UA010112,19 Oct 14,11,Hampton,Maccabi,No. 2,Kate Warman,Isaac Wise,Kate Warman,6-4,6,4,1,0,Completed,true,false,false
+UA010112,19 Oct 14,11,Hampton,Maccabi,No. 3,Eliza Maginness,Brad Lowe,Brad Lowe,2-6,2,6,0,1,Completed,true,false,false
+UA010112,19 Oct 14,11,Hampton,Maccabi,No. 4,Mia Cosgriff,Adam Gordon,Adam Gordon,0-6,0,6,0,1,Completed,true,false,false
+UA010113,19 Oct 14,11,Murrumbeena,Royal Ave 2,No. 1,Wyatt Bicknell,James Pilcher,Wyatt Bicknell,6-3,6,3,1,0,Completed,true,false,false
+UA010113,19 Oct 14,11,Murrumbeena,Royal Ave 2,No. 2,Madeiline Serle,Luke Saliba,Luke Saliba,5-7,5,7,0,1,Completed,true,false,false
+UA010113,19 Oct 14,11,Murrumbeena,Royal Ave 2,No. 3,Mia Pisano,Ryan Phillips,Mia Pisano,6-1,6,1,1,0,Completed,true,false,false
+UA010113,19 Oct 14,11,Murrumbeena,Royal Ave 2,No. 4,Boris Pribil,Maddy Beggs,Boris Pribil,6-1,6,1,1,0,Completed,true,false,false
+UA010114,19 Oct 14,11,Royal Ave 1,BLTC,No. 1,Max Buntine,Lachlan Robertson,Lachlan Robertson,5-7,5,7,0,1,Completed,true,false,false
+UA010114,19 Oct 14,11,Royal Ave 1,BLTC,No. 2,Giorgio Anagnostou,Jacob Altho-McDowell,Giorgio Anagnostou,6-0,6,0,1,0,Completed,true,false,false
+UA010114,19 Oct 14,11,Royal Ave 1,BLTC,No. 3,Simon Hall,Elise Robertson,Elise Robertson,3-6,3,6,0,1,Completed,true,false,false
+UA010114,19 Oct 14,11,Royal Ave 1,BLTC,No. 4,Mackenzie Horth,Tom Robertson,Tom Robertson,1-6,1,6,0,1,Completed,true,false,false
+UA010121,26 Oct 14,12,Royal Ave 1,Murrumbeena,No. 1,Max Buntine,Mia Pisano,Max Buntine,6-3,6,3,1,0,Completed,true,false,false
+UA010121,26 Oct 14,12,Royal Ave 1,Murrumbeena,No. 2,Simon Hall,Chloe Papas,Chloe Papas,3-6,3,6,0,1,Completed,true,false,false
+UA010121,26 Oct 14,12,Royal Ave 1,Murrumbeena,No. 3,Max Burns,Boris Pribil,Boris Pribil,3-6,3,6,0,1,Completed,true,false,false
+UA010121,26 Oct 14,12,Royal Ave 1,Murrumbeena,No. 4,Luca Hamilton,Nicola Maltman,Nicola Maltman,2-6,2,6,0,1,Completed,true,false,false
+UA010122,26 Oct 14,12,Maccabi,Royal Ave 2,No. 1,Moishe-Aharon Gradman,James Pilcher,Moishe-Aharon Gradman,6-2,6,2,1,0,Completed,true,false,false
+UA010122,26 Oct 14,12,Maccabi,Royal Ave 2,No. 2,Isaac Wise,Zachery Miller,Isaac Wise,6-1,6,1,1,0,Completed,true,false,false
+UA010122,26 Oct 14,12,Maccabi,Royal Ave 2,No. 3,Brad Lowe,Lucy Bird,Brad Lowe,6-0,6,0,1,0,Completed,true,false,false
+UA010122,26 Oct 14,12,Maccabi,Royal Ave 2,No. 4,Adam Gordon,Maddy Beggs,Maddy Beggs,3-6,3,6,0,1,Completed,true,false,false
+UA010123,26 Oct 14,12,BLTC,Dendy Park,No. 1,Lachlan Robertson,Filip Milenkovic,Lachlan Robertson,6-1,6,1,1,0,Completed,true,false,false
+UA010123,26 Oct 14,12,BLTC,Dendy Park,No. 2,Jacob Altho-McDowell,Addison Ding,Addison Ding,0-6,0,6,0,1,Completed,true,false,false
+UA010123,26 Oct 14,12,BLTC,Dendy Park,No. 3,Henry Bradman,Tyler Silver-cooper,Tyler Silver-cooper,2-6,2,6,0,1,Completed,true,false,false
+UA010123,26 Oct 14,12,BLTC,Dendy Park,No. 4,Tom Robertson,Cameron Acheson,Cameron Acheson,0-6,0,6,0,1,Completed,true,false,false
+UA010124,26 Oct 14,12,Hampton,Parkdale,No. 1,Kate Warman,Reid Terrell,Reid Terrell,1-6,1,6,0,1,Completed,true,false,false
+UA010124,26 Oct 14,12,Hampton,Parkdale,No. 2,Isabell Bytheway,James Bryan,Isabell Bytheway,6-4,6,4,1,0,Completed,true,false,false
+UA010124,26 Oct 14,12,Hampton,Parkdale,No. 3,Niamh Kenny,Nicholas Pudney,Nicholas Pudney,4-6,4,6,0,1,Completed,true,false,false
+UA010124,26 Oct 14,12,Hampton,Parkdale,No. 4,Eliza Maginness,John Paterson,John Paterson,5-7,5,7,0,1,Completed,true,false,false
+UA010131,09 Nov 14,13,Murrumbeena,Hampton,No. 1,Wyatt Bicknell,Kate Warman,Wyatt Bicknell,6-4,6,4,1,0,Completed,true,false,false
+UA010131,09 Nov 14,13,Murrumbeena,Hampton,No. 2,Madeiline Serle,Lucy Neasmith,Madeiline Serle,7-6,7,6,1,0,Completed,true,false,false
+UA010131,09 Nov 14,13,Murrumbeena,Hampton,No. 3,Mia Pisano,Niamh Kenny,Mia Pisano,6-4,6,4,1,0,Completed,true,false,false
+UA010131,09 Nov 14,13,Murrumbeena,Hampton,No. 4,Nicola Maltman,Mia Cosgriff,Nicola Maltman,6-3,6,3,1,0,Completed,true,false,false
+UA010132,09 Nov 14,13,Parkdale,Royal Ave 1,No. 1,Ben Stone,Max Buntine,Max Buntine,4-6,4,6,0,1,Completed,true,false,false
+UA010132,09 Nov 14,13,Parkdale,Royal Ave 1,No. 2,Reid Terrell,Max Burns,Reid Terrell,6-0,6,0,1,0,Completed,true,false,false
+UA010132,09 Nov 14,13,Parkdale,Royal Ave 1,No. 3,James Bryan,Luca Hamilton,James Bryan,6-1,6,1,1,0,Completed,true,false,false
+UA010132,09 Nov 14,13,Parkdale,Royal Ave 1,No. 4,James Booth,Mackenzie Horth,James Booth,6-0,6,0,1,0,Completed,true,false,false
+UA010133,09 Nov 14,13,Dendy Park,Maccabi,No. 1,Filip Milenkovic,Moishe-Aharon Gradman,Moishe-Aharon Gradman,2-6,2,6,0,1,Completed,true,false,false
+UA010133,09 Nov 14,13,Dendy Park,Maccabi,No. 2,Hugo Chong,Isaac Wise,Isaac Wise,4-6,4,6,0,1,Completed,true,false,false
+UA010133,09 Nov 14,13,Dendy Park,Maccabi,No. 3,Toby Allsop,Brad Lowe,Brad Lowe,0-6,0,6,0,1,Completed,true,false,false
+UA010133,09 Nov 14,13,Dendy Park,Maccabi,No. 4,Cameron Acheson,Adam Gordon,Cameron Acheson,6-3,6,3,1,0,Completed,true,false,false
+UA010134,09 Nov 14,13,Royal Ave 2,BLTC,No. 1,James Pilcher,Lachlan Robertson,Lachlan Robertson,0-6,0,6,0,1,Completed,true,false,false
+UA010134,09 Nov 14,13,Royal Ave 2,BLTC,No. 2,Zachery Miller,Jacob Altho-McDowell,Jacob Altho-McDowell,4-6,4,6,0,1,Completed,true,false,false
+UA010134,09 Nov 14,13,Royal Ave 2,BLTC,No. 3,Luke Saliba,Henry Bradman,Luke Saliba,6-1,6,1,1,0,Completed,true,false,false
+UA010134,09 Nov 14,13,Royal Ave 2,BLTC,No. 4,Lucy Bird,Tom Robertson,Tom Robertson,0-6,0,6,0,1,Completed,true,false,false
+UA010301,,16,Murrumbeena,Parkdale,No. 1,Wyatt Bicknell,Ben Stone,Wyatt Bicknell,6-4,6,4,1,0,Completed,true,false,false
+UA010301,,16,Murrumbeena,Parkdale,No. 2,Madeiline Serle,Reid Terrell,Reid Terrell,1-6,1,6,0,1,Completed,true,false,false
+UA010301,,16,Murrumbeena,Parkdale,No. 3,Harry Holzer,James Bryan,Harry Holzer,6-0,6,0,1,0,Completed,true,false,false
+UA010301,,16,Murrumbeena,Parkdale,No. 4,Boris Pribil,John Paterson,Boris Pribil,6-1,6,1,1,0,Completed,true,false,false
+UA010302,,16,Maccabi,Dendy Park,No. 1,Moishe-Aharon Gradman,Filip Milenkovic,Moishe-Aharon Gradman,6-1,6,1,1,0,Completed,true,false,false
+UA010302,,16,Maccabi,Dendy Park,No. 2,Isaac Wise,Tyler Silver-cooper,Tyler Silver-cooper,2-6,2,6,0,1,Completed,true,false,false
+UA010302,,16,Maccabi,Dendy Park,No. 3,Brad Lowe,Toby Allsop,Brad Lowe,6-3,6,3,1,0,Completed,true,false,false
+UA010302,,16,Maccabi,Dendy Park,No. 4,Adam Gordon,Cameron Acheson,Cameron Acheson,0-6,0,6,0,1,Completed,true,false,false
+UA010321,,17,Murrumbeena,Maccabi,No. 1,Wyatt Bicknell,Moishe-Aharon Gradman,Wyatt Bicknell,7-5,7,5,1,0,Completed,true,false,false
+UA010321,,17,Murrumbeena,Maccabi,No. 2,Mia Pisano,Isaac Wise,Isaac Wise,2-6,2,6,0,1,Completed,true,false,false
+UA010321,,17,Murrumbeena,Maccabi,No. 3,Harry Holzer,Brad Lowe,Brad Lowe,3-6,3,6,0,1,Completed,true,false,false
+UA010321,,17,Murrumbeena,Maccabi,No. 4,Boris Pribil,Adam Gordon,Boris Pribil,6-3,6,3,1,0,Completed,true,false,false

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA32-UA018",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2023",
+  "season_id": "UA32",
+  "season_label": "Autumn 2023",
+  "source_section_code": "UA018",
+  "section_label": "Section 18",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC",
+      "wins": 9,
+      "points": 89,
+      "percentage": 133.06,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Victory Park",
+      "wins": 8,
+      "points": 87,
+      "percentage": 129.69,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Royal Ave",
+      "wins": 8,
+      "points": 86,
+      "percentage": 146.5,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Glen Huntly",
+      "wins": 6,
+      "points": 73,
+      "percentage": 121.4,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 4,
+      "points": 64,
+      "percentage": 100.38,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Elsternwick Park",
+      "wins": 2,
+      "points": 43,
+      "percentage": 67.53,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 2,
+      "points": 41,
+      "percentage": 77.09,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hurlingham Park Blue",
+      "wins": 2,
+      "points": 37,
+      "percentage": 62.24,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA32-UA018",
+  "fixtures": 55,
+  "completed_fixtures": 45,
+  "draw_fixtures": 59,
+  "singles_rubbers": 180,
+  "doubles_rubbers": 90,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

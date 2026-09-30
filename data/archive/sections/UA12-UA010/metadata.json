@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA12-UA010",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2013",
+  "season_id": "UA12",
+  "season_label": "Autumn 2013",
+  "source_section_code": "UA010",
+  "section_label": "Section 10",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC",
+      "wins": 13,
+      "points": 111,
+      "percentage": 155.76,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Kooyong St Kevin's 2",
+      "wins": 9,
+      "points": 94,
+      "percentage": 142.59,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Coatesville",
+      "wins": 7,
+      "points": 83,
+      "percentage": 116.16,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong St Kevin's 1",
+      "wins": 7,
+      "points": 72,
+      "percentage": 100.0,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Caulfield Rec",
+      "wins": 5,
+      "points": 63,
+      "percentage": 91.32,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC",
+      "wins": 4,
+      "points": 55,
+      "percentage": 82.02,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Hampton",
+      "wins": 3,
+      "points": 48,
+      "percentage": 77.14,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Tennis World",
+      "wins": 2,
+      "points": 34,
+      "percentage": 65.14,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA12-UA010",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 216,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

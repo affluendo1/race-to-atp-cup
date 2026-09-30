@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA009011,31 Jan 21,1,regular,Round 1,BLTC 1,BLTC 2,8,2,4,2,,,25,17,Completed,
+UA009012,31 Jan 21,1,regular,Round 1,Glen Eira,St Pats Mentone,2,8,2,4,,,17,29,Completed,
+UA009013,31 Jan 21,1,regular,Round 1,Dendy Park,Hurlingham Park,0,10,0,6,,,12,37,Completed,
+UA009014,31 Jan 21,1,regular,Round 1,Black Rock,Caulfield Rec,2,8,2,4,,,22,32,Completed,
+UA009021,07 Feb 21,2,regular,Round 2,Caulfield Rec,BLTC 1,0,10,0,6,,,16,37,Completed,
+UA009022,07 Feb 21,2,regular,Round 2,BLTC 2,Glen Eira,7,3,3,3,,,26,24,Completed,
+UA009023,07 Feb 21,2,regular,Round 2,St Pats Mentone,Dendy Park,10,0,6,0,,,36,9,Completed,
+UA009024,07 Feb 21,2,regular,Round 2,Hurlingham Park,Black Rock,10,0,6,0,,,36,15,Completed,
+pending-ua009-r3-black-rock-st-pats-mentone,14 Feb 21,3,regular,Round 3,Black Rock,St Pats Mentone,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua009-r3-bltc-1-hurlingham-park,14 Feb 21,3,regular,Round 3,BLTC 1,Hurlingham Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua009-r3-dendy-park-bltc-2,14 Feb 21,3,regular,Round 3,Dendy Park,BLTC 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua009-r3-glen-eira-caulfield-rec,14 Feb 21,3,regular,Round 3,Glen Eira,Caulfield Rec,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA009041,21 Feb 21,4,regular,Round 4,St Pats Mentone,BLTC 1,1,9,1,5,,,17,33,Completed,
+UA009043,21 Feb 21,4,regular,Round 4,Caulfield Rec,Dendy Park,9,1,5,1,,,35,19,Completed,
+UA009044,21 Feb 21,4,regular,Round 4,BLTC 2,Black Rock,9,1,5,1,,,35,21,Completed,
+pending-ua009-r4-hurlingham-park-glen-eira,21 Feb 21,4,regular,Round 4,Hurlingham Park,Glen Eira,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA009051,28 Feb 21,5,regular,Round 5,Dendy Park,Black Rock,10,0,6,0,,,37,14,Completed,
+UA009052,28 Feb 21,5,regular,Round 5,Caulfield Rec,Hurlingham Park,2,8,2,4,,,27,31,Completed,
+UA009053,28 Feb 21,5,regular,Round 5,St Pats Mentone,BLTC 2,3,7,3,3,,,27,28,Completed,
+UA009054,28 Feb 21,5,regular,Round 5,BLTC 1,Glen Eira,10,0,6,0,,,36,3,Completed,
+UA009061,14 Mar 21,6,regular,Round 6,Glen Eira,Dendy Park,8,2,4,2,,,31,22,Completed,
+UA009062,14 Mar 21,6,regular,Round 6,Black Rock,BLTC 1,0,10,0,6,,,7,36,Completed,
+UA009063,14 Mar 21,6,regular,Round 6,Hurlingham Park,St Pats Mentone,1,9,1,5,,,25,34,Completed,
+UA009064,14 Mar 21,6,regular,Round 6,BLTC 2,Caulfield Rec,8,2,4,2,,,34,24,Completed,
+UA009071,21 Mar 21,7,regular,Round 7,BLTC 1,Dendy Park,9,1,5,1,,,30,14,Completed,
+UA009072,21 Mar 21,7,regular,Round 7,Glen Eira,Black Rock,9,1,5,1,,,33,19,Completed,
+UA009073,21 Mar 21,7,regular,Round 7,Caulfield Rec,St Pats Mentone,6,4,2,0,,,13,9,Completed,
+UA009074,21 Mar 21,7,regular,Round 7,Hurlingham Park,BLTC 2,0,10,0,6,,,10,36,Completed,
+UA009081,28 Mar 21,8,regular,Round 8,BLTC 2,BLTC 1,1,9,1,5,,,23,35,Completed,
+UA009082,28 Mar 21,8,regular,Round 8,St Pats Mentone,Glen Eira,8,2,4,2,,,28,29,Completed,
+UA009083,28 Mar 21,8,regular,Round 8,Hurlingham Park,Dendy Park,8,2,4,2,,,30,23,Completed,
+UA009084,28 Mar 21,8,regular,Round 8,Caulfield Rec,Black Rock,9,1,5,1,,,33,18,Completed,
+UA009091,02 May 21,9,regular,Round 9,BLTC 1,Caulfield Rec,9,1,5,1,,,33,10,Completed,
+UA009092,02 May 21,9,regular,Round 9,Glen Eira,BLTC 2,2,8,2,4,,,23,31,Completed,
+UA009093,02 May 21,9,regular,Round 9,Dendy Park,St Pats Mentone,2,8,2,4,,,20,32,Completed,
+UA009094,02 May 21,9,regular,Round 9,Black Rock,Hurlingham Park,1,9,1,5,,,17,31,Completed,
+UA009101,09 May 21,10,regular,Round 10,Hurlingham Park,BLTC 1,0,10,0,6,,,7,36,Completed,
+UA009102,09 May 21,10,regular,Round 10,Caulfield Rec,Glen Eira,3,7,3,3,,,25,31,Completed,
+UA009103,09 May 21,10,regular,Round 10,BLTC 2,Dendy Park,10,0,6,0,,,37,20,Completed,
+UA009104,09 May 21,10,regular,Round 10,St Pats Mentone,Black Rock,9,1,5,1,,,33,21,Completed,
+UA009111,16 May 21,11,regular,Round 11,BLTC 1,St Pats Mentone,10,0,6,0,,,37,12,Completed,
+UA009112,16 May 21,11,regular,Round 11,Glen Eira,Hurlingham Park,2,8,2,4,,,26,31,Completed,
+UA009113,16 May 21,11,regular,Round 11,Dendy Park,Caulfield Rec,8,2,4,2,,,29,24,Completed,
+UA009114,16 May 21,11,regular,Round 11,Black Rock,BLTC 2,1,9,1,5,,,23,34,Completed,
+UA009121,23 May 21,12,regular,Round 12,Black Rock,Dendy Park,8,2,4,2,,,26,18,Completed,
+UA009122,23 May 21,12,regular,Round 12,Hurlingham Park,Caulfield Rec,8,2,4,2,,,29,17,Completed,
+UA009123,23 May 21,12,regular,Round 12,BLTC 2,St Pats Mentone,7,3,3,3,,,32,26,Completed,
+UA009124,23 May 21,12,regular,Round 12,Glen Eira,BLTC 1,0,4,0,4,,,5,24,Completed,
+pending-ua009-r13-bltc-1-black-rock,30 May 21,13,regular,Round 13,BLTC 1,Black Rock,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua009-r13-caulfield-rec-bltc-2,30 May 21,13,regular,Round 13,Caulfield Rec,BLTC 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua009-r13-dendy-park-glen-eira,30 May 21,13,regular,Round 13,Dendy Park,Glen Eira,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua009-r13-st-pats-mentone-hurlingham-park,30 May 21,13,regular,Round 13,St Pats Mentone,Hurlingham Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA009301,,16,semi_final,Semi-final,BLTC 1,St Pats Mentone,9.5,0.5,5,0,,,31,13,Completed,
+UA009302,,16,semi_final,Semi-final,BLTC 2,Hurlingham Park,7.5,2.5,3,2,,,30,24,Completed,
+UA009321,,17,grand_final,Grand final · TROLS entry 2,BLTC 1,BLTC 2,9,1,4,0,,,24,10,Completed,

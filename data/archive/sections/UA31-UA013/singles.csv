@@ -1,0 +1,237 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA013011,17 Jul 22,1,St Pauls,Royal Ave,No. 1,Ryan Quach,Jack Sampson,Ryan Quach,6-4,6,4,1,0,Completed,true,false,false
+UA013011,17 Jul 22,1,St Pauls,Royal Ave,No. 2,Isabella Li,Livian Gomes,Isabella Li,7-5,7,5,1,0,Completed,true,false,false
+UA013011,17 Jul 22,1,St Pauls,Royal Ave,No. 3,Ronan Raulings,Josh McKenzie,Ronan Raulings,6-4,6,4,1,0,Completed,true,false,false
+UA013011,17 Jul 22,1,St Pauls,Royal Ave,No. 4,Matthew Strupl,Luis Harrer,Luis Harrer,2-6,2,6,0,1,Completed,true,false,false
+UA013012,17 Jul 22,1,Lauriston,Elsternwick Park Blue,No. 1,Emmanuel Attias,Rosie Kelly,Rosie Kelly,2-6,2,6,0,1,Completed,true,true,false
+UA013012,17 Jul 22,1,Lauriston,Elsternwick Park Blue,No. 2,Brody Smith,Marco Damiani,Marco Damiani,3-6,3,6,0,1,Completed,true,false,false
+UA013012,17 Jul 22,1,Lauriston,Elsternwick Park Blue,No. 3,Xavier Misso,Eddie Wang,Xavier Misso,6-4,6,4,1,0,Completed,true,false,false
+UA013012,17 Jul 22,1,Lauriston,Elsternwick Park Blue,No. 4,Chris Wang,Malek Marouff,Chris Wang,6-0,6,0,1,0,Completed,true,false,true
+UA013013,17 Jul 22,1,Carmelite Red,Carmelite Blue,No. 1,Cooper Griggs,Kobe Davis Earle,Cooper Griggs,6-1,6,1,1,0,Completed,true,false,false
+UA013013,17 Jul 22,1,Carmelite Red,Carmelite Blue,No. 2,Talia Kiprillis,Oliver Earle,Talia Kiprillis,6-4,6,4,1,0,Completed,true,false,false
+UA013013,17 Jul 22,1,Carmelite Red,Carmelite Blue,No. 3,Lewis Grant,Sam Faso,Sam Faso,6-7,6,7,0,1,Completed,true,false,false
+UA013013,17 Jul 22,1,Carmelite Red,Carmelite Blue,No. 4,Liam Chadick,Nathan Kitzis,Nathan Kitzis,2-6,2,6,0,1,Completed,true,true,false
+UA013014,17 Jul 22,1,Murrumbeena,St James,No. 1,Amrutha Jaladanks,Emma Stewart,Emma Stewart,2-6,2,6,0,1,Completed,true,false,false
+UA013014,17 Jul 22,1,Murrumbeena,St James,No. 2,Eric Tran,Mali Davies,Eric Tran,6-2,6,2,1,0,Completed,true,false,false
+UA013014,17 Jul 22,1,Murrumbeena,St James,No. 3,Lillia Givargis,Ben Lajbcygier,Ben Lajbcygier,4-6,4,6,0,1,Completed,true,false,false
+UA013014,17 Jul 22,1,Murrumbeena,St James,No. 4,Mateja Gigovic,Tilly Chesnau,Mateja Gigovic,6-0,6,0,1,0,Completed,true,true,false
+UA013021,24 Jul 22,2,St James,St Pauls,No. 1,Emma Stewart,Ryan Quach,Ryan Quach,2-6,2,6,0,1,Completed,true,false,false
+UA013021,24 Jul 22,2,St James,St Pauls,No. 2,Mac Rogers-Wilson,Isabella Li,Mac Rogers-Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA013021,24 Jul 22,2,St James,St Pauls,No. 3,Ben Lajbcygier,David Elmankabady,David Elmankabady,3-6,3,6,0,1,Completed,true,false,false
+UA013021,24 Jul 22,2,St James,St Pauls,No. 4,Julia Luo,Ronan Raulings,Ronan Raulings,0-6,0,6,0,1,Completed,true,false,false
+UA013022,24 Jul 22,2,Royal Ave,Lauriston,No. 1,Harry Tsorbaris,[Unnamed player — TROLS UA013022 away code 1],Harry Tsorbaris,6-0,6,0,1,0,Completed,false,false,false
+UA013022,24 Jul 22,2,Royal Ave,Lauriston,No. 2,Josh McKenzie,Brody Smith,Josh McKenzie,6-3,6,3,1,0,Completed,true,false,false
+UA013022,24 Jul 22,2,Royal Ave,Lauriston,No. 3,Luis Harrer,Xavier Misso,Xavier Misso,2-6,2,6,0,1,Completed,true,false,false
+UA013022,24 Jul 22,2,Royal Ave,Lauriston,No. 4,Tokiwa Yamazaki-bruschi,Chris Wang,Chris Wang,2-6,2,6,0,1,Completed,true,true,false
+UA013023,24 Jul 22,2,Elsternwick Park Blue,Carmelite Red,No. 1,Marco Damiani,Marius Gozdzicki,Marius Gozdzicki,2-6,2,6,0,1,Completed,true,false,false
+UA013023,24 Jul 22,2,Elsternwick Park Blue,Carmelite Red,No. 2,Hanbo Zhang,Cooper Griggs,Hanbo Zhang,6-4,6,4,1,0,Completed,true,false,false
+UA013023,24 Jul 22,2,Elsternwick Park Blue,Carmelite Red,No. 3,Charlotte O'Brien,Talia Kiprillis,Talia Kiprillis,4-6,4,6,0,1,Completed,true,false,false
+UA013023,24 Jul 22,2,Elsternwick Park Blue,Carmelite Red,No. 4,Malek Marouff,Lewis Grant,Malek Marouff,6-2,6,2,1,0,Completed,true,true,false
+UA013024,24 Jul 22,2,Carmelite Blue,Murrumbeena,No. 1,Kobe Davis Earle,Hazel Hoon,Kobe Davis Earle,6-2,6,2,1,0,Completed,true,false,false
+UA013024,24 Jul 22,2,Carmelite Blue,Murrumbeena,No. 2,Hugho Schulz,Eric Tran,Hugho Schulz,6-2,6,2,1,0,Completed,true,false,false
+UA013024,24 Jul 22,2,Carmelite Blue,Murrumbeena,No. 3,Sam Faso,Lillia Givargis,Sam Faso,6-4,6,4,1,0,Completed,true,false,false
+UA013024,24 Jul 22,2,Carmelite Blue,Murrumbeena,No. 4,Nathan Kitzis,Noah Panjkovic,Nathan Kitzis,6-2,6,2,1,0,Completed,true,false,true
+UA013031,31 Jul 22,3,St Pauls,Carmelite Blue,No. 1,Ryan Quach,Kobe Davis Earle,Kobe Davis Earle,5-7,5,7,0,1,Completed,true,false,false
+UA013031,31 Jul 22,3,St Pauls,Carmelite Blue,No. 2,Peter Wu,Hugho Schulz,Peter Wu,6-4,6,4,1,0,Completed,true,false,false
+UA013031,31 Jul 22,3,St Pauls,Carmelite Blue,No. 3,David Elmankabady,Oliver Earle,Oliver Earle,1-6,1,6,0,1,Completed,true,false,false
+UA013031,31 Jul 22,3,St Pauls,Carmelite Blue,No. 4,Matthew Strupl,Nathan Kitzis,Nathan Kitzis,5-7,5,7,0,1,Completed,true,false,false
+UA013032,31 Jul 22,3,Lauriston,St James,No. 1,Scarlett Cosentino,Mac Rogers-Wilson,Scarlett Cosentino,7-5,7,5,1,0,Completed,true,true,false
+UA013032,31 Jul 22,3,Lauriston,St James,No. 2,Brody Smith,Mali Davies,Mali Davies,4-6,4,6,0,1,Completed,true,false,false
+UA013032,31 Jul 22,3,Lauriston,St James,No. 3,Xavier Misso,Tilly Chesnau,Xavier Misso,6-3,6,3,1,0,Completed,true,false,false
+UA013032,31 Jul 22,3,Lauriston,St James,No. 4,Chris Wang,Julia Luo,Chris Wang,6-0,6,0,1,0,Completed,true,false,false
+UA013033,31 Jul 22,3,Carmelite Red,Royal Ave,No. 1,Marius Gozdzicki,Jack Sampson,Marius Gozdzicki,6-2,6,2,1,0,Completed,true,false,false
+UA013033,31 Jul 22,3,Carmelite Red,Royal Ave,No. 2,Cooper Griggs,Harry Tsorbaris,Harry Tsorbaris,3-6,3,6,0,1,Completed,true,false,false
+UA013033,31 Jul 22,3,Carmelite Red,Royal Ave,No. 3,Lewis Grant,Livian Gomes,Livian Gomes,1-6,1,6,0,1,Completed,true,false,false
+UA013033,31 Jul 22,3,Carmelite Red,Royal Ave,No. 4,Elise Doig,Josh McKenzie,Josh McKenzie,0-6,0,6,0,1,Completed,true,false,false
+UA013034,31 Jul 22,3,Murrumbeena,Elsternwick Park Blue,No. 1,Hazel Hoon,Elodie Wittenberg,Elodie Wittenberg,1-6,1,6,0,1,Completed,true,false,false
+UA013034,31 Jul 22,3,Murrumbeena,Elsternwick Park Blue,No. 2,Eric Tran,Rosie Kelly,Rosie Kelly,1-6,1,6,0,1,Completed,true,false,false
+UA013034,31 Jul 22,3,Murrumbeena,Elsternwick Park Blue,No. 3,Lillia Givargis,Hanbo Zhang,Hanbo Zhang,2-6,2,6,0,1,Completed,true,false,false
+UA013034,31 Jul 22,3,Murrumbeena,Elsternwick Park Blue,No. 4,Max Tanner,Boston Newton,Boston Newton,1-6,1,6,0,1,Completed,true,true,true
+UA013041,07 Aug 22,4,Elsternwick Park Blue,St Pauls,No. 1,Rosie Kelly,Ryan Quach,Ryan Quach,2-6,2,6,0,1,Completed,true,false,false
+UA013041,07 Aug 22,4,Elsternwick Park Blue,St Pauls,No. 2,Marco Damiani,Isabella Li,Marco Damiani,6-2,6,2,1,0,Completed,true,false,false
+UA013041,07 Aug 22,4,Elsternwick Park Blue,St Pauls,No. 3,Hanbo Zhang,David Elmankabady,Hanbo Zhang,6-3,6,3,1,0,Completed,true,false,false
+UA013041,07 Aug 22,4,Elsternwick Park Blue,St Pauls,No. 4,Eddie Wang,Ronan Raulings,Eddie Wang,6-4,6,4,1,0,Completed,true,false,false
+UA013042,07 Aug 22,4,Carmelite Blue,Lauriston,No. 1,Hugho Schulz,Emmanuel Attias,Hugho Schulz,6-1,6,1,1,0,Completed,true,false,true
+UA013042,07 Aug 22,4,Carmelite Blue,Lauriston,No. 2,Oliver Earle,Xavier Misso,Xavier Misso,1-6,1,6,0,1,Completed,true,false,false
+UA013042,07 Aug 22,4,Carmelite Blue,Lauriston,No. 3,Sam Faso,Chris Wang,Chris Wang,0-6,0,6,0,1,Completed,true,false,false
+UA013042,07 Aug 22,4,Carmelite Blue,Lauriston,No. 4,Nathan Kitzis,Leo Simpson,Nathan Kitzis,6-3,6,3,1,0,Completed,true,false,true
+UA013043,07 Aug 22,4,St James,Carmelite Red,No. 1,Emma Stewart,Marius Gozdzicki,Marius Gozdzicki,2-6,2,6,0,1,Completed,true,false,false
+UA013043,07 Aug 22,4,St James,Carmelite Red,No. 2,Mac Rogers-Wilson,Cooper Griggs,Cooper Griggs,2-6,2,6,0,1,Completed,true,false,false
+UA013043,07 Aug 22,4,St James,Carmelite Red,No. 3,Mali Davies,Talia Kiprillis,Mali Davies,7-6,7,6,1,0,Completed,true,false,false
+UA013043,07 Aug 22,4,St James,Carmelite Red,No. 4,Julia Luo,Elise Doig,Elise Doig,4-6,4,6,0,1,Completed,true,false,false
+UA013044,07 Aug 22,4,Royal Ave,Murrumbeena,No. 1,Jack Sampson,[Unnamed player — TROLS UA013044 away code 1],Jack Sampson,6-0,6,0,1,0,Completed,false,false,false
+UA013044,07 Aug 22,4,Royal Ave,Murrumbeena,No. 2,Harry Tsorbaris,Hazel Hoon,Harry Tsorbaris,6-3,6,3,1,0,Completed,true,false,false
+UA013044,07 Aug 22,4,Royal Ave,Murrumbeena,No. 3,Livian Gomes,Amrutha Jaladanks,Amrutha Jaladanks,0-6,0,6,0,1,Completed,true,false,false
+UA013044,07 Aug 22,4,Royal Ave,Murrumbeena,No. 4,Luis Harrer,Eric Tran,Eric Tran,1-6,1,6,0,1,Completed,true,false,false
+UA013051,14 Aug 22,5,Carmelite Red,Murrumbeena,No. 1,Marius Gozdzicki,Hazel Hoon,Marius Gozdzicki,7-5,7,5,1,0,Completed,true,false,false
+UA013051,14 Aug 22,5,Carmelite Red,Murrumbeena,No. 2,Cooper Griggs,Amrutha Jaladanks,Cooper Griggs,6-3,6,3,1,0,Completed,true,false,false
+UA013051,14 Aug 22,5,Carmelite Red,Murrumbeena,No. 3,Talia Kiprillis,Eric Tran,Talia Kiprillis,7-5,7,5,1,0,Completed,true,false,false
+UA013051,14 Aug 22,5,Carmelite Red,Murrumbeena,No. 4,Elise Doig,Lillia Givargis,Lillia Givargis,1-6,1,6,0,1,Completed,true,false,false
+UA013052,14 Aug 22,5,St James,Carmelite Blue,No. 1,Emma Stewart,Kobe Davis Earle,Kobe Davis Earle,3-6,3,6,0,1,Completed,true,false,false
+UA013052,14 Aug 22,5,St James,Carmelite Blue,No. 2,Mali Davies,Oliver Earle,Oliver Earle,4-6,4,6,0,1,Completed,true,false,false
+UA013052,14 Aug 22,5,St James,Carmelite Blue,No. 3,Ben Lajbcygier,Sam Faso,Sam Faso,6-7,6,7,0,1,Completed,true,false,false
+UA013052,14 Aug 22,5,St James,Carmelite Blue,No. 4,Tilly Chesnau,Nathan Kitzis,Nathan Kitzis,3-6,3,6,0,1,Completed,true,false,false
+UA013053,14 Aug 22,5,Elsternwick Park Blue,Royal Ave,No. 1,Elodie Wittenberg,Jack Sampson,Jack Sampson,2-6,2,6,0,1,Completed,true,false,false
+UA013053,14 Aug 22,5,Elsternwick Park Blue,Royal Ave,No. 2,Rosie Kelly,Livian Gomes,Rosie Kelly,6-3,6,3,1,0,Completed,true,false,false
+UA013053,14 Aug 22,5,Elsternwick Park Blue,Royal Ave,No. 3,Marco Damiani,Josh McKenzie,Marco Damiani,6-2,6,2,1,0,Completed,true,false,false
+UA013053,14 Aug 22,5,Elsternwick Park Blue,Royal Ave,No. 4,Eddie Wang,Luis Harrer,Eddie Wang,6-4,6,4,1,0,Completed,true,false,false
+UA013054,14 Aug 22,5,St Pauls,Lauriston,No. 1,Isabella Li,Xavier Misso,Isabella Li,7-6,7,6,1,0,Completed,true,false,false
+UA013054,14 Aug 22,5,St Pauls,Lauriston,No. 2,Peter Wu,Chris Wang,Chris Wang,2-6,2,6,0,1,Completed,true,false,false
+UA013054,14 Aug 22,5,St Pauls,Lauriston,No. 3,Ronan Raulings,Hannah Ross-John,Ronan Raulings,6-1,6,1,1,0,Completed,true,false,false
+UA013054,14 Aug 22,5,St Pauls,Lauriston,No. 4,Matthew Strupl,Brody Smith,Matthew Strupl,6-1,6,1,1,0,Completed,true,false,false
+UA013061,21 Aug 22,6,Lauriston,Carmelite Red,No. 1,Xavier Misso,Cooper Griggs,Xavier Misso,6-4,6,4,1,0,Completed,true,false,false
+UA013061,21 Aug 22,6,Lauriston,Carmelite Red,No. 2,Chris Wang,Lewis Grant,Chris Wang,6-0,6,0,1,0,Completed,true,false,false
+UA013061,21 Aug 22,6,Lauriston,Carmelite Red,No. 3,Hannah Ross-John,Liam Chadick,Hannah Ross-John,6-3,6,3,1,0,Completed,true,false,true
+UA013061,21 Aug 22,6,Lauriston,Carmelite Red,No. 4,Brody Smith,Elise Doig,Brody Smith,6-1,6,1,1,0,Completed,true,false,false
+UA013062,21 Aug 22,6,Murrumbeena,St Pauls,No. 1,Amrutha Jaladanks,Ryan Quach,Ryan Quach,4-6,4,6,0,1,Completed,true,false,false
+UA013062,21 Aug 22,6,Murrumbeena,St Pauls,No. 2,Harry Brennan,Peter Wu,Peter Wu,2-6,2,6,0,1,Completed,true,false,false
+UA013062,21 Aug 22,6,Murrumbeena,St Pauls,No. 3,Eric Tran,David Elmankabady,David Elmankabady,2-6,2,6,0,1,Completed,true,false,false
+UA013062,21 Aug 22,6,Murrumbeena,St Pauls,No. 4,Lillia Givargis,Matthew Strupl,Lillia Givargis,6-2,6,2,1,0,Completed,true,false,false
+UA013063,21 Aug 22,6,Carmelite Blue,Elsternwick Park Blue,No. 1,Kobe Davis Earle,Elodie Wittenberg,Kobe Davis Earle,6-3,6,3,1,0,Completed,true,false,false
+UA013063,21 Aug 22,6,Carmelite Blue,Elsternwick Park Blue,No. 2,Hugho Schulz,Rosie Kelly,Hugho Schulz,6-2,6,2,1,0,Completed,true,false,false
+UA013063,21 Aug 22,6,Carmelite Blue,Elsternwick Park Blue,No. 3,Oliver Earle,Hanbo Zhang,Hanbo Zhang,3-6,3,6,0,1,Completed,true,false,false
+UA013063,21 Aug 22,6,Carmelite Blue,Elsternwick Park Blue,No. 4,Nathan Kitzis,Boston Newton,Nathan Kitzis,6-3,6,3,1,0,Completed,true,false,true
+UA013064,21 Aug 22,6,Royal Ave,St James,No. 1,Jack Sampson,Emma Stewart,Jack Sampson,7-6,7,6,1,0,Completed,true,false,false
+UA013064,21 Aug 22,6,Royal Ave,St James,No. 2,Harry Tsorbaris,Mac Rogers-Wilson,Harry Tsorbaris,6-1,6,1,1,0,Completed,true,false,false
+UA013064,21 Aug 22,6,Royal Ave,St James,No. 3,Josh McKenzie,James Grodski,Josh McKenzie,6-4,6,4,1,0,Completed,true,false,true
+UA013064,21 Aug 22,6,Royal Ave,St James,No. 4,Luis Harrer,Jonah Davies,Luis Harrer,7-5,7,5,1,0,Completed,true,false,false
+UA013071,28 Aug 22,7,St Pauls,Carmelite Red,No. 1,Ryan Quach,Marius Gozdzicki,Ryan Quach,6-1,6,1,1,0,Completed,true,false,false
+UA013071,28 Aug 22,7,St Pauls,Carmelite Red,No. 2,Isabella Li,Talia Kiprillis,Talia Kiprillis,4-6,4,6,0,1,Completed,true,false,false
+UA013071,28 Aug 22,7,St Pauls,Carmelite Red,No. 3,Peter Wu,Lewis Grant,Peter Wu,6-0,6,0,1,0,Completed,true,false,false
+UA013071,28 Aug 22,7,St Pauls,Carmelite Red,No. 4,Ronan Raulings,Elise Doig,Ronan Raulings,6-1,6,1,1,0,Completed,true,false,false
+UA013072,28 Aug 22,7,Lauriston,Murrumbeena,No. 1,Xavier Misso,Harry Brennan,Xavier Misso,6-0,6,0,1,0,Completed,true,false,false
+UA013072,28 Aug 22,7,Lauriston,Murrumbeena,No. 2,Chris Wang,Eric Tran,Chris Wang,6-1,6,1,1,0,Completed,true,false,false
+UA013072,28 Aug 22,7,Lauriston,Murrumbeena,No. 3,Hannah Ross-John,Lillia Givargis,Hannah Ross-John,6-2,6,2,1,0,Completed,true,false,false
+UA013072,28 Aug 22,7,Lauriston,Murrumbeena,No. 4,Brody Smith,Alena Givargis,Alena Givargis,3-6,3,6,0,1,Completed,true,false,true
+UA013073,28 Aug 22,7,St James,Elsternwick Park Blue,No. 1,Emma Stewart,Elodie Wittenberg,Emma Stewart,6-2,6,2,1,0,Completed,true,false,false
+UA013073,28 Aug 22,7,St James,Elsternwick Park Blue,No. 2,Ben Lajbcygier,Rosie Kelly,Rosie Kelly,3-6,3,6,0,1,Completed,true,false,false
+UA013073,28 Aug 22,7,St James,Elsternwick Park Blue,No. 3,Jonah Davies,Marco Damiani,Marco Damiani,0-6,0,6,0,1,Completed,true,false,false
+UA013073,28 Aug 22,7,St James,Elsternwick Park Blue,No. 4,Sophie Stewart,Eddie Wang,Sophie Stewart,7-5,7,5,1,0,Completed,true,true,false
+UA013074,28 Aug 22,7,Carmelite Blue,Royal Ave,No. 1,Hugho Schulz,Harry Tsorbaris,Hugho Schulz,6-3,6,3,1,0,Completed,true,false,false
+UA013074,28 Aug 22,7,Carmelite Blue,Royal Ave,No. 2,Oliver Earle,Livian Gomes,Oliver Earle,6-3,6,3,1,0,Completed,true,false,false
+UA013074,28 Aug 22,7,Carmelite Blue,Royal Ave,No. 3,Sam Faso,Josh McKenzie,Sam Faso,6-4,6,4,1,0,Completed,true,false,false
+UA013074,28 Aug 22,7,Carmelite Blue,Royal Ave,No. 4,Nathan Kitzis,Luis Harrer,Nathan Kitzis,6-4,6,4,1,0,Completed,true,false,false
+UA013081,04 Sep 22,8,Royal Ave,St Pauls,No. 1,Harry Tsorbaris,Isabella Li,Harry Tsorbaris,6-3,6,3,1,0,Completed,true,false,false
+UA013081,04 Sep 22,8,Royal Ave,St Pauls,No. 2,Livian Gomes,David Elmankabady,Livian Gomes,6-3,6,3,1,0,Completed,true,false,false
+UA013081,04 Sep 22,8,Royal Ave,St Pauls,No. 3,Josh McKenzie,Ronan Raulings,Ronan Raulings,3-6,3,6,0,1,Completed,true,false,false
+UA013081,04 Sep 22,8,Royal Ave,St Pauls,No. 4,Luis Harrer,Matthew Strupl,Luis Harrer,6-4,6,4,1,0,Completed,true,false,false
+UA013082,04 Sep 22,8,Elsternwick Park Blue,Lauriston,No. 1,Rosie Kelly,Xavier Misso,Xavier Misso,1-6,1,6,0,1,Completed,true,false,false
+UA013082,04 Sep 22,8,Elsternwick Park Blue,Lauriston,No. 2,Marco Damiani,Chris Wang,Chris Wang,4-6,4,6,0,1,Completed,true,false,false
+UA013082,04 Sep 22,8,Elsternwick Park Blue,Lauriston,No. 3,Hanbo Zhang,Hannah Ross-John,Hanbo Zhang,6-2,6,2,1,0,Completed,true,false,false
+UA013082,04 Sep 22,8,Elsternwick Park Blue,Lauriston,No. 4,Eddie Wang,Brody Smith,Eddie Wang,6-2,6,2,1,0,Completed,true,false,false
+UA013083,04 Sep 22,8,Carmelite Blue,Carmelite Red,No. 1,Hugho Schulz,Cooper Griggs,Hugho Schulz,6-1,6,1,1,0,Completed,true,false,false
+UA013083,04 Sep 22,8,Carmelite Blue,Carmelite Red,No. 2,Oliver Earle,Talia Kiprillis,Oliver Earle,7-6,7,6,1,0,Completed,true,false,false
+UA013083,04 Sep 22,8,Carmelite Blue,Carmelite Red,No. 3,Sam Faso,Lewis Grant,Sam Faso,6-3,6,3,1,0,Completed,true,false,false
+UA013083,04 Sep 22,8,Carmelite Blue,Carmelite Red,No. 4,Nathan Kitzis,Elise Doig,Nathan Kitzis,6-1,6,1,1,0,Completed,true,false,false
+UA013084,04 Sep 22,8,St James,Murrumbeena,No. 1,Emma Stewart,Amrutha Jaladanks,Emma Stewart,6-1,6,1,1,0,Completed,true,false,false
+UA013084,04 Sep 22,8,St James,Murrumbeena,No. 2,Jonah Davies,Harry Brennan,Harry Brennan,2-6,2,6,0,1,Completed,true,false,false
+UA013084,04 Sep 22,8,St James,Murrumbeena,No. 3,Julia Luo,Eric Tran,Julia Luo,6-3,6,3,1,0,Completed,true,false,false
+UA013084,04 Sep 22,8,St James,Murrumbeena,No. 4,William Cunningham,Lillia Givargis,Lillia Givargis,2-6,2,6,0,1,Completed,true,true,false
+UA013091,11 Sep 22,9,St Pauls,St James,No. 1,Ryan Quach,Emma Stewart,Ryan Quach,6-2,6,2,1,0,Completed,true,false,false
+UA013091,11 Sep 22,9,St Pauls,St James,No. 2,Isabella Li,Ben Lajbcygier,Isabella Li,6-1,6,1,1,0,Completed,true,false,false
+UA013091,11 Sep 22,9,St Pauls,St James,No. 3,Peter Wu,Julia Luo,Peter Wu,6-0,6,0,1,0,Completed,true,false,false
+UA013091,11 Sep 22,9,St Pauls,St James,No. 4,David Elmankabady,Jackson Chaponnel,David Elmankabady,6-2,6,2,1,0,Completed,true,false,true
+UA013092,11 Sep 22,9,Lauriston,Royal Ave,No. 1,Chris Wang,Jack Sampson,Chris Wang,6-4,6,4,1,0,Completed,true,false,false
+UA013092,11 Sep 22,9,Lauriston,Royal Ave,No. 2,Hannah Ross-John,Harry Tsorbaris,Harry Tsorbaris,1-6,1,6,0,1,Completed,true,false,false
+UA013092,11 Sep 22,9,Lauriston,Royal Ave,No. 3,Brody Smith,Josh McKenzie,Josh McKenzie,2-6,2,6,0,1,Completed,true,false,false
+UA013092,11 Sep 22,9,Lauriston,Royal Ave,No. 4,[Unnamed player — TROLS UA013092 home code 4],Luis Harrer,Luis Harrer,0-6,0,6,0,1,Completed,false,false,false
+UA013093,11 Sep 22,9,Carmelite Red,Elsternwick Park Blue,No. 1,Marius Gozdzicki,Hanbo Zhang,Marius Gozdzicki,6-3,6,3,1,0,Completed,true,false,false
+UA013093,11 Sep 22,9,Carmelite Red,Elsternwick Park Blue,No. 2,Cooper Griggs,Eddie Wang,Cooper Griggs,6-1,6,1,1,0,Completed,true,false,false
+UA013093,11 Sep 22,9,Carmelite Red,Elsternwick Park Blue,No. 3,Talia Kiprillis,Boston Newton,Boston Newton,1-6,1,6,0,1,Completed,true,false,true
+UA013093,11 Sep 22,9,Carmelite Red,Elsternwick Park Blue,No. 4,Lewis Grant,Alex Ratner,Alex Ratner,4-6,4,6,0,1,Completed,true,false,true
+UA013094,11 Sep 22,9,Murrumbeena,Carmelite Blue,No. 1,Hazel Hoon,Kobe Davis Earle,Kobe Davis Earle,3-6,3,6,0,1,Completed,true,false,false
+UA013094,11 Sep 22,9,Murrumbeena,Carmelite Blue,No. 2,Amrutha Jaladanks,Hugho Schulz,Hugho Schulz,3-6,3,6,0,1,Completed,true,false,false
+UA013094,11 Sep 22,9,Murrumbeena,Carmelite Blue,No. 3,Eric Tran,Sam Faso,Eric Tran,6-2,6,2,1,0,Completed,true,false,false
+UA013094,11 Sep 22,9,Murrumbeena,Carmelite Blue,No. 4,Lillia Givargis,Tom Martin,Tom Martin,0-6,0,6,0,1,Completed,true,false,true
+UA013101,09 Oct 22,10,Carmelite Blue,St Pauls,No. 1,Kobe Davis Earle,Ryan Quach,Kobe Davis Earle,6-2,6,2,1,0,Completed,true,false,false
+UA013101,09 Oct 22,10,Carmelite Blue,St Pauls,No. 2,Hugho Schulz,Isabella Li,Hugho Schulz,6-2,6,2,1,0,Completed,true,false,false
+UA013101,09 Oct 22,10,Carmelite Blue,St Pauls,No. 3,Sam Faso,David Elmankabady,Sam Faso,6-2,6,2,1,0,Completed,true,false,false
+UA013101,09 Oct 22,10,Carmelite Blue,St Pauls,No. 4,Nathan Kitzis,Ronan Raulings,Nathan Kitzis,6-3,6,3,1,0,Completed,true,false,false
+UA013102,09 Oct 22,10,St James,Lauriston,No. 1,Mac Rogers-Wilson,Xavier Misso,Xavier Misso,5-7,5,7,0,1,Completed,true,false,false
+UA013102,09 Oct 22,10,St James,Lauriston,No. 2,Mali Davies,Chris Wang,Chris Wang,2-6,2,6,0,1,Completed,true,false,false
+UA013102,09 Oct 22,10,St James,Lauriston,No. 3,Ben Lajbcygier,Hannah Ross-John,Hannah Ross-John,3-6,3,6,0,1,Completed,true,false,false
+UA013102,09 Oct 22,10,St James,Lauriston,No. 4,Tilly Chesnau,Brody Smith,Tilly Chesnau,6-2,6,2,1,0,Completed,true,false,false
+UA013103,09 Oct 22,10,Royal Ave,Carmelite Red,No. 1,Jack Sampson,Marius Gozdzicki,Jack Sampson,6-2,6,2,1,0,Completed,true,false,false
+UA013103,09 Oct 22,10,Royal Ave,Carmelite Red,No. 2,Harry Tsorbaris,Talia Kiprillis,Harry Tsorbaris,6-3,6,3,1,0,Completed,true,false,false
+UA013103,09 Oct 22,10,Royal Ave,Carmelite Red,No. 3,Livian Gomes,Olivia Anderson,Livian Gomes,6-0,6,0,1,0,Completed,true,false,false
+UA013103,09 Oct 22,10,Royal Ave,Carmelite Red,No. 4,Josh McKenzie,Elise Doig,Josh McKenzie,6-2,6,2,1,0,Completed,true,false,false
+UA013104,09 Oct 22,10,Elsternwick Park Blue,Murrumbeena,No. 1,Elodie Wittenberg,Amrutha Jaladanks,Amrutha Jaladanks,3-6,3,6,0,1,Completed,true,false,false
+UA013104,09 Oct 22,10,Elsternwick Park Blue,Murrumbeena,No. 2,Rosie Kelly,Harry Brennan,Rosie Kelly,6-3,6,3,1,0,Completed,true,false,false
+UA013104,09 Oct 22,10,Elsternwick Park Blue,Murrumbeena,No. 3,Charlotte O'Brien,Eric Tran,Eric Tran,5-7,5,7,0,1,Completed,true,false,false
+UA013104,09 Oct 22,10,Elsternwick Park Blue,Murrumbeena,No. 4,Eddie Wang,Lillia Givargis,Eddie Wang,6-3,6,3,1,0,Completed,true,false,false
+UA013111,16 Oct 22,11,St Pauls,Elsternwick Park Blue,No. 1,Isabella Li,Elodie Wittenberg,Isabella Li,7-5,7,5,1,0,Completed,true,false,false
+UA013111,16 Oct 22,11,St Pauls,Elsternwick Park Blue,No. 2,David Elmankabady,Rosie Kelly,Rosie Kelly,4-6,4,6,0,1,Completed,true,false,false
+UA013111,16 Oct 22,11,St Pauls,Elsternwick Park Blue,No. 3,Ronan Raulings,Marco Damiani,Marco Damiani,3-6,3,6,0,1,Completed,true,false,false
+UA013111,16 Oct 22,11,St Pauls,Elsternwick Park Blue,No. 4,Matthew Strupl,Hanbo Zhang,Hanbo Zhang,4-6,4,6,0,1,Completed,true,false,false
+UA013112,16 Oct 22,11,Lauriston,Carmelite Blue,No. 1,Xavier Misso,Kobe Davis Earle,Xavier Misso,6-0,6,0,1,0,Completed,true,false,false
+UA013112,16 Oct 22,11,Lauriston,Carmelite Blue,No. 2,Chris Wang,Hugho Schulz,Chris Wang,6-3,6,3,1,0,Completed,true,false,false
+UA013112,16 Oct 22,11,Lauriston,Carmelite Blue,No. 3,Hannah Ross-John,Oliver Earle,Oliver Earle,3-6,3,6,0,1,Completed,true,false,false
+UA013112,16 Oct 22,11,Lauriston,Carmelite Blue,No. 4,Brody Smith,Nathan Kitzis,Nathan Kitzis,1-6,1,6,0,1,Completed,true,false,false
+UA013113,16 Oct 22,11,Carmelite Red,St James,No. 1,Cooper Griggs,Emma Stewart,Cooper Griggs,6-4,6,4,1,0,Completed,true,false,false
+UA013113,16 Oct 22,11,Carmelite Red,St James,No. 2,Lewis Grant,Mali Davies,Mali Davies,3-6,3,6,0,1,Completed,true,false,false
+UA013113,16 Oct 22,11,Carmelite Red,St James,No. 3,Olivia Anderson,Tilly Chesnau,Tilly Chesnau,0-6,0,6,0,1,Completed,true,false,false
+UA013113,16 Oct 22,11,Carmelite Red,St James,No. 4,Elise Doig,Julia Luo,Julia Luo,3-6,3,6,0,1,Completed,true,false,false
+UA013114,16 Oct 22,11,Murrumbeena,Royal Ave,No. 1,Hazel Hoon,Jack Sampson,Jack Sampson,4-6,4,6,0,1,Completed,true,false,false
+UA013114,16 Oct 22,11,Murrumbeena,Royal Ave,No. 2,Amrutha Jaladanks,Harry Tsorbaris,Harry Tsorbaris,2-6,2,6,0,1,Completed,true,false,false
+UA013114,16 Oct 22,11,Murrumbeena,Royal Ave,No. 3,Harry Brennan,Livian Gomes,Livian Gomes,1-6,1,6,0,1,Completed,true,false,false
+UA013114,16 Oct 22,11,Murrumbeena,Royal Ave,No. 4,Lillia Givargis,Luis Harrer,Lillia Givargis,6-4,6,4,1,0,Completed,true,false,false
+UA013121,23 Oct 22,12,Murrumbeena,Carmelite Red,No. 1,Amrutha Jaladanks,Cooper Griggs,Cooper Griggs,6-7,6,7,0,1,Completed,true,false,false
+UA013121,23 Oct 22,12,Murrumbeena,Carmelite Red,No. 2,Harry Brennan,Lewis Grant,Lewis Grant,6-7,6,7,0,1,Completed,true,false,false
+UA013121,23 Oct 22,12,Murrumbeena,Carmelite Red,No. 3,Eric Tran,Olivia Anderson,Eric Tran,6-1,6,1,1,0,Completed,true,false,false
+UA013121,23 Oct 22,12,Murrumbeena,Carmelite Red,No. 4,Lillia Givargis,Elise Doig,Lillia Givargis,6-3,6,3,1,0,Completed,true,false,false
+UA013122,23 Oct 22,12,Carmelite Blue,St James,No. 1,Kobe Davis Earle,Mac Rogers-Wilson,Kobe Davis Earle,7-5,7,5,1,0,Completed,true,false,false
+UA013122,23 Oct 22,12,Carmelite Blue,St James,No. 2,Hugho Schulz,Mali Davies,Hugho Schulz,6-2,6,2,1,0,Completed,true,false,false
+UA013122,23 Oct 22,12,Carmelite Blue,St James,No. 3,Oliver Earle,Ben Lajbcygier,Oliver Earle,7-5,7,5,1,0,Completed,true,false,false
+UA013122,23 Oct 22,12,Carmelite Blue,St James,No. 4,Nathan Kitzis,Tilly Chesnau,Nathan Kitzis,7-5,7,5,1,0,Completed,true,false,false
+UA013123,23 Oct 22,12,Royal Ave,Elsternwick Park Blue,No. 1,Jack Sampson,Elodie Wittenberg,Jack Sampson,7-5,7,5,1,0,Completed,true,false,false
+UA013123,23 Oct 22,12,Royal Ave,Elsternwick Park Blue,No. 2,Harry Tsorbaris,Rosie Kelly,Harry Tsorbaris,6-2,6,2,1,0,Completed,true,false,false
+UA013123,23 Oct 22,12,Royal Ave,Elsternwick Park Blue,No. 3,Livian Gomes,Marco Damiani,Livian Gomes,6-2,6,2,1,0,Completed,true,false,false
+UA013123,23 Oct 22,12,Royal Ave,Elsternwick Park Blue,No. 4,Luis Harrer,Charlotte O'Brien,Luis Harrer,6-2,6,2,1,0,Completed,true,false,false
+UA013124,23 Oct 22,12,Lauriston,St Pauls,No. 1,Xavier Misso,Ryan Quach,Xavier Misso,6-2,6,2,1,0,Completed,true,false,false
+UA013124,23 Oct 22,12,Lauriston,St Pauls,No. 2,Chris Wang,Peter Wu,Chris Wang,6-3,6,3,1,0,Completed,true,false,false
+UA013124,23 Oct 22,12,Lauriston,St Pauls,No. 3,Hannah Ross-John,David Elmankabady,David Elmankabady,1-6,1,6,0,1,Completed,true,false,false
+UA013124,23 Oct 22,12,Lauriston,St Pauls,No. 4,Brody Smith,Matthew Strupl,Matthew Strupl,3-6,3,6,0,1,Completed,true,false,false
+UA013131,06 Nov 22,13,Carmelite Red,Lauriston,No. 1,Marius Gozdzicki,Xavier Misso,Marius Gozdzicki,7-5,7,5,1,0,Completed,true,false,false
+UA013131,06 Nov 22,13,Carmelite Red,Lauriston,No. 2,Talia Kiprillis,Chris Wang,Chris Wang,1-6,1,6,0,1,Completed,true,false,false
+UA013131,06 Nov 22,13,Carmelite Red,Lauriston,No. 3,Olivia Anderson,Hannah Ross-John,Hannah Ross-John,1-6,1,6,0,1,Completed,true,false,false
+UA013131,06 Nov 22,13,Carmelite Red,Lauriston,No. 4,Elise Doig,Brody Smith,Brody Smith,2-6,2,6,0,1,Completed,true,false,false
+UA013132,06 Nov 22,13,St Pauls,Murrumbeena,No. 1,Ryan Quach,Hazel Hoon,Ryan Quach,6-2,6,2,1,0,Completed,true,false,false
+UA013132,06 Nov 22,13,St Pauls,Murrumbeena,No. 2,Isabella Li,Amrutha Jaladanks,Isabella Li,6-3,6,3,1,0,Completed,true,false,false
+UA013132,06 Nov 22,13,St Pauls,Murrumbeena,No. 3,Peter Wu,Harry Brennan,Peter Wu,6-1,6,1,1,0,Completed,true,false,false
+UA013132,06 Nov 22,13,St Pauls,Murrumbeena,No. 4,Ronan Raulings,Eric Tran,Ronan Raulings,6-3,6,3,1,0,Completed,true,false,false
+UA013133,06 Nov 22,13,Elsternwick Park Blue,Carmelite Blue,No. 1,Marco Damiani,Kobe Davis Earle,Kobe Davis Earle,2-6,2,6,0,1,Completed,true,false,false
+UA013133,06 Nov 22,13,Elsternwick Park Blue,Carmelite Blue,No. 2,Hanbo Zhang,Sam Faso,Hanbo Zhang,6-2,6,2,1,0,Completed,true,false,false
+UA013133,06 Nov 22,13,Elsternwick Park Blue,Carmelite Blue,No. 3,Charlotte O'Brien,Oliver Earle,Charlotte O'Brien,6-0,6,0,1,0,Completed,true,false,false
+UA013133,06 Nov 22,13,Elsternwick Park Blue,Carmelite Blue,No. 4,Eddie Wang,Nathan Kitzis,Nathan Kitzis,2-6,2,6,0,1,Completed,true,false,false
+UA013134,06 Nov 22,13,St James,Royal Ave,No. 1,Emma Stewart,Jack Sampson,Jack Sampson,3-6,3,6,0,1,Completed,true,false,false
+UA013134,06 Nov 22,13,St James,Royal Ave,No. 2,Mac Rogers-Wilson,Harry Tsorbaris,Harry Tsorbaris,2-6,2,6,0,1,Completed,true,false,false
+UA013134,06 Nov 22,13,St James,Royal Ave,No. 3,Mali Davies,Parker Miller,Parker Miller,1-6,1,6,0,1,Completed,true,false,true
+UA013134,06 Nov 22,13,St James,Royal Ave,No. 4,Jonah Davies,Luis Harrer,Jonah Davies,6-3,6,3,1,0,Completed,true,false,false
+UA013141,13 Nov 22,14,Carmelite Red,St Pauls,No. 1,Marius Gozdzicki,Ryan Quach,Ryan Quach,2-6,2,6,0,1,Completed,true,false,false
+UA013141,13 Nov 22,14,Carmelite Red,St Pauls,No. 2,Cooper Griggs,Isabella Li,Isabella Li,3-6,3,6,0,1,Completed,true,false,false
+UA013141,13 Nov 22,14,Carmelite Red,St Pauls,No. 3,Olivia Anderson,Peter Wu,Peter Wu,0-6,0,6,0,1,Completed,true,false,false
+UA013141,13 Nov 22,14,Carmelite Red,St Pauls,No. 4,Elise Doig,Matthew Strupl,Matthew Strupl,0-6,0,6,0,1,Completed,true,false,false
+UA013142,13 Nov 22,14,Murrumbeena,Lauriston,No. 1,Hazel Hoon,Xavier Misso,Xavier Misso,3-6,3,6,0,1,Completed,true,false,false
+UA013142,13 Nov 22,14,Murrumbeena,Lauriston,No. 2,Amrutha Jaladanks,Chris Wang,Chris Wang,3-6,3,6,0,1,Completed,true,false,false
+UA013142,13 Nov 22,14,Murrumbeena,Lauriston,No. 3,Harry Brennan,Hannah Ross-John,Hannah Ross-John,4-6,4,6,0,1,Completed,true,false,false
+UA013142,13 Nov 22,14,Murrumbeena,Lauriston,No. 4,Lillia Givargis,Brody Smith,Brody Smith,3-6,3,6,0,1,Completed,true,false,false
+UA013143,13 Nov 22,14,Elsternwick Park Blue,St James,No. 1,Elodie Wittenberg,Mac Rogers-Wilson,Mac Rogers-Wilson,6-7,6,7,0,1,Completed,true,false,false
+UA013143,13 Nov 22,14,Elsternwick Park Blue,St James,No. 2,Hanbo Zhang,Mali Davies,Hanbo Zhang,6-1,6,1,1,0,Completed,true,false,false
+UA013143,13 Nov 22,14,Elsternwick Park Blue,St James,No. 3,Charlotte O'Brien,Ben Lajbcygier,Charlotte O'Brien,6-3,6,3,1,0,Completed,true,false,false
+UA013143,13 Nov 22,14,Elsternwick Park Blue,St James,No. 4,Eddie Wang,Tilly Chesnau,Eddie Wang,6-1,6,1,1,0,Completed,true,false,false
+UA013144,13 Nov 22,14,Royal Ave,Carmelite Blue,No. 1,Jack Sampson,Kobe Davis Earle,Kobe Davis Earle,1-6,1,6,0,1,Completed,true,false,false
+UA013144,13 Nov 22,14,Royal Ave,Carmelite Blue,No. 2,Harry Tsorbaris,Hugho Schulz,Harry Tsorbaris,6-3,6,3,1,0,Completed,true,false,false
+UA013144,13 Nov 22,14,Royal Ave,Carmelite Blue,No. 3,Livian Gomes,Oliver Earle,Livian Gomes,6-4,6,4,1,0,Completed,true,false,false
+UA013144,13 Nov 22,14,Royal Ave,Carmelite Blue,No. 4,Josh McKenzie,Sam Faso,Sam Faso,3-6,3,6,0,1,Completed,true,false,false
+UA013301,,16,Carmelite Blue,St Pauls,No. 1,Kobe Davis Earle,Ryan Quach,Ryan Quach,1-6,1,6,0,1,Completed,true,false,false
+UA013301,,16,Carmelite Blue,St Pauls,No. 2,Hugho Schulz,Isabella Li,Hugho Schulz,7-6,7,6,1,0,Completed,true,false,false
+UA013301,,16,Carmelite Blue,St Pauls,No. 3,Oliver Earle,Peter Wu,Peter Wu,3-6,3,6,0,1,Completed,true,false,false
+UA013301,,16,Carmelite Blue,St Pauls,No. 4,Nathan Kitzis,David Elmankabady,Nathan Kitzis,6-2,6,2,1,0,Completed,true,false,false
+UA013302,,16,Royal Ave,Lauriston,No. 1,Jack Sampson,Xavier Misso,Xavier Misso,3-6,3,6,0,1,Completed,true,false,false
+UA013302,,16,Royal Ave,Lauriston,No. 2,Harry Tsorbaris,Chris Wang,Harry Tsorbaris,6-4,6,4,1,0,Completed,true,false,false
+UA013302,,16,Royal Ave,Lauriston,No. 3,Livian Gomes,Hannah Ross-John,Hannah Ross-John,4-6,4,6,0,1,Completed,true,false,false
+UA013302,,16,Royal Ave,Lauriston,No. 4,Josh McKenzie,Brody Smith,Josh McKenzie,6-4,6,4,1,0,Completed,true,false,false
+UA013321,,17,Royal Ave,St Pauls,No. 1,Jack Sampson,Ryan Quach,Ryan Quach,2-6,2,6,0,1,Completed,true,false,false
+UA013321,,17,Royal Ave,St Pauls,No. 2,Harry Tsorbaris,Isabella Li,Harry Tsorbaris,6-2,6,2,1,0,Completed,true,false,false
+UA013321,,17,Royal Ave,St Pauls,No. 3,Livian Gomes,Peter Wu,Peter Wu,2-6,2,6,0,1,Completed,true,false,false
+UA013321,,17,Royal Ave,St Pauls,No. 4,Josh McKenzie,David Elmankabady,David Elmankabady,2-6,2,6,0,1,Completed,true,false,false

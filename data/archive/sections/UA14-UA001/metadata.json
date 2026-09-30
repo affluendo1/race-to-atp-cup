@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA14-UA001",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2014",
+  "season_id": "UA14",
+  "season_label": "Autumn 2014",
+  "source_section_code": "UA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong 1",
+      "wins": 8,
+      "points": 93,
+      "percentage": 145.04,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Kooyong 2",
+      "wins": 9,
+      "points": 92.5,
+      "percentage": 126.5,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Dendy Park 1",
+      "wins": 7,
+      "points": 77,
+      "percentage": 106.91,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Coatesville",
+      "wins": 4,
+      "points": 61,
+      "percentage": 95.35,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Chelsea Heights",
+      "wins": 5,
+      "points": 61,
+      "percentage": 80.58,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong 3",
+      "wins": 3,
+      "points": 59,
+      "percentage": 88.36,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Highmoor Uniting",
+      "wins": 4,
+      "points": 58.5,
+      "percentage": 84.76,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park 2",
+      "wins": 4,
+      "points": 58,
+      "percentage": 85.28,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA14-UA001",
+  "fixtures": 59,
+  "completed_fixtures": 51,
+  "draw_fixtures": 59,
+  "singles_rubbers": 202,
+  "doubles_rubbers": 100,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA022011,31 Jan 21,1,regular,Round 1,St James,Aspendale,7,3,3,3,,,25,24,Completed,
+UA022012,31 Jan 21,1,regular,Round 1,Hurlingham Park,Parkdale,2,8,2,4,,,27,27,Completed,
+UA022013,31 Jan 21,1,regular,Round 1,Royal Ave 1,Royal Ave 2,3,7,3,3,,,24,29,Completed,
+UA022014,31 Jan 21,1,regular,Round 1,St Andrews MB BG,Murrumbeena,7,3,3,3,,,31,29,Completed,
+UA022021,07 Feb 21,2,regular,Round 2,Murrumbeena,St James,3,7,3,3,,,25,31,Completed,
+UA022022,07 Feb 21,2,regular,Round 2,Aspendale,Hurlingham Park,0,10,0,6,,,11,37,Completed,
+UA022023,07 Feb 21,2,regular,Round 2,Parkdale,Royal Ave 1,8,2,4,2,,,31,22,Completed,
+UA022024,07 Feb 21,2,regular,Round 2,Royal Ave 2,St Andrews MB BG,3,7,3,3,,,22,29,Completed,
+pending-ua022-r3-hurlingham-park-murrumbeena,14 Feb 21,3,regular,Round 3,Hurlingham Park,Murrumbeena,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua022-r3-royal-ave-1-aspendale,14 Feb 21,3,regular,Round 3,Royal Ave 1,Aspendale,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua022-r3-st-andrews-mb-bg-parkdale,14 Feb 21,3,regular,Round 3,St Andrews MB BG,Parkdale,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua022-r3-st-james-royal-ave-2,14 Feb 21,3,regular,Round 3,St James,Royal Ave 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA022041,21 Feb 21,4,regular,Round 4,Parkdale,St James,3,7,3,3,,,25,27,Completed,
+UA022042,21 Feb 21,4,regular,Round 4,Royal Ave 2,Hurlingham Park,3,7,3,3,,,27,33,Completed,
+UA022043,21 Feb 21,4,regular,Round 4,Murrumbeena,Royal Ave 1,7,3,3,3,,,28,24,Completed,
+pending-ua022-r4-aspendale-st-andrews-mb-bg,21 Feb 21,4,regular,Round 4,Aspendale,St Andrews MB BG,,,,,,,,,Forfeited To,No individual scorecard / no rubbers recorded
+UA022051,28 Feb 21,5,regular,Round 5,Royal Ave 1,St Andrews MB BG,7,3,3,3,,,28,25,Completed,
+UA022052,28 Feb 21,5,regular,Round 5,Murrumbeena,Royal Ave 2,2,8,2,4,,,26,31,Completed,
+UA022053,28 Feb 21,5,regular,Round 5,Parkdale,Aspendale,9,1,5,1,,,35,14,Completed,
+UA022054,28 Feb 21,5,regular,Round 5,St James,Hurlingham Park,2,8,2,4,,,21,29,Completed,
+UA022061,14 Mar 21,6,regular,Round 6,Hurlingham Park,Royal Ave 1,8,2,4,2,,,29,23,Completed,
+UA022062,14 Mar 21,6,regular,Round 6,St Andrews MB BG,St James,2,8,2,4,,,18,30,Completed,
+UA022063,14 Mar 21,6,regular,Round 6,Royal Ave 2,Parkdale,1,9,1,5,,,15,32,Completed,
+UA022064,14 Mar 21,6,regular,Round 6,Aspendale,Murrumbeena,0,10,0,6,,,12,36,Completed,
+UA022071,21 Mar 21,7,regular,Round 7,St James,Royal Ave 1,8,2,4,2,,,32,23,Completed,
+UA022072,21 Mar 21,7,regular,Round 7,Hurlingham Park,St Andrews MB BG,7,3,3,3,,,29,22,Completed,
+UA022073,21 Mar 21,7,regular,Round 7,Murrumbeena,Parkdale,1,9,1,5,,,14,34,Completed,
+UA022074,21 Mar 21,7,regular,Round 7,Royal Ave 2,Aspendale,8,2,4,2,,,26,24,Completed,
+UA022081,28 Mar 21,8,regular,Round 8,Aspendale,St James,1,9,1,5,,,17,34,Completed,
+UA022082,28 Mar 21,8,regular,Round 8,Parkdale,Hurlingham Park,8,2,4,2,,,32,22,Completed,
+UA022083,28 Mar 21,8,regular,Round 8,Royal Ave 2,Royal Ave 1,9,1,5,1,,,31,13,Completed,
+UA022084,28 Mar 21,8,regular,Round 8,Murrumbeena,St Andrews MB BG,2,8,2,4,,,28,32,Completed,
+UA022091,02 May 21,9,regular,Round 9,St James,Murrumbeena,9,1,5,1,,,35,18,Completed,
+UA022092,02 May 21,9,regular,Round 9,Hurlingham Park,Aspendale,10,0,6,0,,,37,13,Completed,
+UA022093,02 May 21,9,regular,Round 9,Royal Ave 1,Parkdale,1,9,1,5,,,10,34,Completed,
+UA022094,02 May 21,9,regular,Round 9,St Andrews MB BG,Royal Ave 2,1,9,1,5,,,18,33,Completed,
+UA022101,09 May 21,10,regular,Round 10,Royal Ave 2,St James,2,8,2,4,,,19,29,Completed,
+UA022102,09 May 21,10,regular,Round 10,Murrumbeena,Hurlingham Park,2,8,2,4,,,24,29,Completed,
+UA022103,09 May 21,10,regular,Round 10,Aspendale,Royal Ave 1,8,2,4,2,,,30,22,Completed,
+UA022104,09 May 21,10,regular,Round 10,Parkdale,St Andrews MB BG,9,1,5,1,,,37,28,Completed,
+UA022111,16 May 21,11,regular,Round 11,St James,Parkdale,2,8,2,4,,,31,34,Completed,
+UA022112,16 May 21,11,regular,Round 11,Hurlingham Park,Royal Ave 2,8,2,4,2,,,31,17,Completed,
+UA022113,16 May 21,11,regular,Round 11,Royal Ave 1,Murrumbeena,4,6,4,2,,,25,21,Completed,
+UA022114,16 May 21,11,regular,Round 11,St Andrews MB BG,Aspendale,1,9,1,5,,,16,31,Completed,
+UA022121,23 May 21,12,regular,Round 12,St Andrews MB BG,Royal Ave 1,2,8,2,4,,,23,30,Completed,
+UA022122,23 May 21,12,regular,Round 12,Royal Ave 2,Murrumbeena,3,7,3,3,,,28,29,Completed,
+UA022123,23 May 21,12,regular,Round 12,Aspendale,Parkdale,0,10,0,6,,,8,36,Completed,
+UA022124,23 May 21,12,regular,Round 12,Hurlingham Park,St James,1,9,1,5,,,20,34,Completed,
+pending-ua022-r13-murrumbeena-aspendale,30 May 21,13,regular,Round 13,Murrumbeena,Aspendale,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua022-r13-parkdale-royal-ave-2,30 May 21,13,regular,Round 13,Parkdale,Royal Ave 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua022-r13-royal-ave-1-hurlingham-park,30 May 21,13,regular,Round 13,Royal Ave 1,Hurlingham Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua022-r13-st-james-st-andrews-mb-bg,30 May 21,13,regular,Round 13,St James,St Andrews MB BG,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA022301,,16,semi_final,Semi-final,Parkdale,Royal Ave 2,2,8,2,4,,,20,26,Completed,
+UA022302,,16,semi_final,Semi-final,St James,Hurlingham Park,1,9,1,5,,,17,31,Completed,
+UA022321,,17,grand_final,Grand final · TROLS entry 2,Hurlingham Park,Royal Ave 2,7,3,3,3,,,25,24,Completed,

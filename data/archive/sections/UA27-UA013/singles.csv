@@ -1,0 +1,91 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA013011,15 Nov 20,1,St Andrews MB BR 1,St Andrews MB BR 2,No. 1,Angus Giles,Josh Telford,Angus Giles,6-1,6,1,1,0,Completed,true,false,false
+UA013011,15 Nov 20,1,St Andrews MB BR 1,St Andrews MB BR 2,No. 2,Harry Heaselgrave,Alexandra Telford,Harry Heaselgrave,6-4,6,4,1,0,Completed,true,false,false
+UA013011,15 Nov 20,1,St Andrews MB BR 1,St Andrews MB BR 2,No. 3,Zara Fyfe,Kiera Hatzistavros,Kiera Hatzistavros,5-7,5,7,0,1,Completed,true,false,false
+UA013011,15 Nov 20,1,St Andrews MB BR 1,St Andrews MB BR 2,No. 4,Aurelia Fyfe,Bob Njiffels,Bob Njiffels,3-6,3,6,0,1,Completed,true,false,false
+UA013012,15 Nov 20,1,Coatesville,Royal Ave,No. 1,Hunter Ahcoh,Harry Toomey,Harry Toomey,4-6,4,6,0,1,Completed,true,false,false
+UA013012,15 Nov 20,1,Coatesville,Royal Ave,No. 2,Jessica Kam,Vadim Goreux,Jessica Kam,6-4,6,4,1,0,Completed,true,false,false
+UA013012,15 Nov 20,1,Coatesville,Royal Ave,No. 3,Yiannis Gianakis,Hugo Williams,Yiannis Gianakis,6-2,6,2,1,0,Completed,true,false,false
+UA013012,15 Nov 20,1,Coatesville,Royal Ave,No. 4,Arshika Prakash,Luke Chapman,Luke Chapman,3-6,3,6,0,1,Completed,true,false,false
+UA013013,15 Nov 20,1,Le Page,Victory Park,No. 1,Yi Zhou,Oliver Richards,Oliver Richards,1-6,1,6,0,1,Completed,true,false,false
+UA013013,15 Nov 20,1,Le Page,Victory Park,No. 2,Lochlan Bradley,Sai Kovuru,Sai Kovuru,2-6,2,6,0,1,Completed,true,false,false
+UA013013,15 Nov 20,1,Le Page,Victory Park,No. 3,Smail Chen,Jack Campbell,Jack Campbell,0-6,0,6,0,1,Completed,true,false,false
+UA013013,15 Nov 20,1,Le Page,Victory Park,No. 4,Mitchell Campbell,Gemma McGrath,Mitchell Campbell,6-4,6,4,1,0,Completed,true,false,false
+UA013014,15 Nov 20,1,BLTC,St Louis de Mont,No. 1,Ben Banks,Aliya Appleby,Aliya Appleby,4-6,4,6,0,1,Completed,true,false,false
+UA013014,15 Nov 20,1,BLTC,St Louis de Mont,No. 2,Ollie Campbell,Harry Parker,Harry Parker,6-7,6,7,0,1,Completed,true,false,false
+UA013014,15 Nov 20,1,BLTC,St Louis de Mont,No. 3,Liam Walters,Josh Elliot,Liam Walters,6-0,6,0,1,0,Completed,true,false,false
+UA013014,15 Nov 20,1,BLTC,St Louis de Mont,No. 4,Leon Coppins,Flynn Williamson,Flynn Williamson,2-6,2,6,0,1,Completed,true,false,false
+UA013021,22 Nov 20,2,St Louis de Mont,St Andrews MB BR 1,No. 1,Harry Parker,Harry Heaselgrave,Harry Heaselgrave,6-7,6,7,0,1,Completed,true,false,false
+UA013021,22 Nov 20,2,St Louis de Mont,St Andrews MB BR 1,No. 2,Josh Elliot,Aurelia Fyfe,Josh Elliot,7-5,7,5,1,0,Completed,true,false,false
+UA013021,22 Nov 20,2,St Louis de Mont,St Andrews MB BR 1,No. 3,Rory Tuke,Niamh Arnold,Niamh Arnold,1-6,1,6,0,1,Completed,true,false,false
+UA013021,22 Nov 20,2,St Louis de Mont,St Andrews MB BR 1,No. 4,Flynn Williamson,Molly Sharridge,Flynn Williamson,6-0,6,0,1,0,Completed,true,false,true
+UA013022,22 Nov 20,2,St Andrews MB BR 2,Coatesville,No. 1,Kiera Hatzistavros,Jessica Kam,Kiera Hatzistavros,6-1,6,1,1,0,Completed,true,false,false
+UA013022,22 Nov 20,2,St Andrews MB BR 2,Coatesville,No. 2,Grace Edwards,Yiannis Gianakis,Yiannis Gianakis,6-7,6,7,0,1,Completed,true,false,false
+UA013022,22 Nov 20,2,St Andrews MB BR 2,Coatesville,No. 3,Stella Kemp,Arshika Prakash,Stella Kemp,6-1,6,1,1,0,Completed,true,true,false
+UA013022,22 Nov 20,2,St Andrews MB BR 2,Coatesville,No. 4,Mika Looschilder,Leon Liacopoulas,Leon Liacopoulas,3-6,3,6,0,1,Completed,true,true,false
+UA013023,22 Nov 20,2,Royal Ave,Le Page,No. 1,Harry Toomey,Yi Zhou,Harry Toomey,6-0,6,0,1,0,Completed,true,false,false
+UA013023,22 Nov 20,2,Royal Ave,Le Page,No. 2,Vadim Goreux,Lochlan Bradley,Lochlan Bradley,4-6,4,6,0,1,Completed,true,false,false
+UA013023,22 Nov 20,2,Royal Ave,Le Page,No. 3,Gideon Gomes,Smail Chen,Gideon Gomes,6-3,6,3,1,0,Completed,true,false,false
+UA013023,22 Nov 20,2,Royal Ave,Le Page,No. 4,Luke Chapman,Mitchell Campbell,Mitchell Campbell,4-6,4,6,0,1,Completed,true,false,false
+UA013024,22 Nov 20,2,Victory Park,BLTC,No. 1,Oliver Richards,Ben Banks,Oliver Richards,6-3,6,3,1,0,Completed,true,false,false
+UA013024,22 Nov 20,2,Victory Park,BLTC,No. 2,Sai Kovuru,Ollie Campbell,Sai Kovuru,6-0,6,0,1,0,Completed,true,false,false
+UA013024,22 Nov 20,2,Victory Park,BLTC,No. 3,Jack Campbell,Liam Walters,Liam Walters,6-7,6,7,0,1,Completed,true,false,false
+UA013024,22 Nov 20,2,Victory Park,BLTC,No. 4,Gemma McGrath,Leon Coppins,Leon Coppins,3-6,3,6,0,1,Completed,true,false,false
+UA013031,29 Nov 20,3,St Andrews MB BR 1,Victory Park,No. 1,Angus Giles,Sai Kovuru,Angus Giles,6-2,6,2,1,0,Completed,true,false,false
+UA013031,29 Nov 20,3,St Andrews MB BR 1,Victory Park,No. 2,Harry Heaselgrave,Kiyara Abeyarathna,Kiyara Abeyarathna,1-6,1,6,0,1,Completed,true,false,true
+UA013031,29 Nov 20,3,St Andrews MB BR 1,Victory Park,No. 3,Aurelia Fyfe,Jack Campbell,Jack Campbell,2-6,2,6,0,1,Completed,true,false,false
+UA013031,29 Nov 20,3,St Andrews MB BR 1,Victory Park,No. 4,Niamh Arnold,Gemma McGrath,Niamh Arnold,6-1,6,1,1,0,Completed,true,false,false
+UA013032,29 Nov 20,3,Coatesville,St Louis de Mont,No. 1,Hunter Ahcoh,Aliya Appleby,Aliya Appleby,1-5,1,5,0,1,Completed,true,false,false
+UA013032,29 Nov 20,3,Coatesville,St Louis de Mont,No. 2,Yiannis Gianakis,Harry Parker,Yiannis Gianakis,6-3,6,3,1,0,Completed,true,false,false
+UA013034,29 Nov 20,3,BLTC,Royal Ave,No. 1,Ben Banks,Vadim Goreux,Vadim Goreux,3-6,3,6,0,1,Completed,true,false,false
+UA013034,29 Nov 20,3,BLTC,Royal Ave,No. 2,Ollie Campbell,Gideon Gomes,Gideon Gomes,4-6,4,6,0,1,Completed,true,false,false
+UA013034,29 Nov 20,3,BLTC,Royal Ave,No. 3,Campbell Orchard,Hugo Williams,Campbell Orchard,6-2,6,2,1,0,Completed,true,true,false
+UA013034,29 Nov 20,3,BLTC,Royal Ave,No. 4,Leon Coppins,Luke Chapman,Leon Coppins,7-6,7,6,1,0,Completed,true,false,false
+UA013041,06 Dec 20,4,Royal Ave,St Andrews MB BR 1,No. 1,Harry Toomey,Angus Giles,Angus Giles,2-6,2,6,0,1,Completed,true,false,false
+UA013041,06 Dec 20,4,Royal Ave,St Andrews MB BR 1,No. 2,Vadim Goreux,Harry Heaselgrave,Harry Heaselgrave,0-6,0,6,0,1,Completed,true,false,false
+UA013041,06 Dec 20,4,Royal Ave,St Andrews MB BR 1,No. 3,Gideon Gomes,Aurelia Fyfe,Gideon Gomes,6-4,6,4,1,0,Completed,true,false,false
+UA013041,06 Dec 20,4,Royal Ave,St Andrews MB BR 1,No. 4,Luke Chapman,Niamh Arnold,Luke Chapman,6-3,6,3,1,0,Completed,true,false,false
+UA013042,06 Dec 20,4,Victory Park,Coatesville,No. 1,Oliver Richards,Hunter Ahcoh,Oliver Richards,6-4,6,4,1,0,Completed,true,false,false
+UA013042,06 Dec 20,4,Victory Park,Coatesville,No. 2,Sai Kovuru,Jessica Kam,Sai Kovuru,6-1,6,1,1,0,Completed,true,false,false
+UA013042,06 Dec 20,4,Victory Park,Coatesville,No. 3,Jack Campbell,Arshika Prakash,Jack Campbell,6-1,6,1,1,0,Completed,true,false,false
+UA013042,06 Dec 20,4,Victory Park,Coatesville,No. 4,Gemma McGrath,Leon Liacopoulas,Leon Liacopoulas,2-6,2,6,0,1,Completed,true,false,false
+UA013043,06 Dec 20,4,St Louis de Mont,Le Page,No. 1,Aliya Appleby,Yi Zhou,Aliya Appleby,6-1,6,1,1,0,Completed,true,false,false
+UA013043,06 Dec 20,4,St Louis de Mont,Le Page,No. 2,Josh Elliot,Lochlan Bradley,Lochlan Bradley,2-6,2,6,0,1,Completed,true,false,false
+UA013043,06 Dec 20,4,St Louis de Mont,Le Page,No. 3,Rory Tuke,Smail Chen,Rory Tuke,6-0,6,0,1,0,Completed,true,false,false
+UA013043,06 Dec 20,4,St Louis de Mont,Le Page,No. 4,Flynn Williamson,Mitchell Campbell,Flynn Williamson,6-2,6,2,1,0,Completed,true,false,false
+UA013044,06 Dec 20,4,St Andrews MB BR 2,BLTC,No. 1,Josh Telford,Ben Banks,Josh Telford,6-1,6,1,1,0,Completed,true,false,false
+UA013044,06 Dec 20,4,St Andrews MB BR 2,BLTC,No. 2,Alexandra Telford,Ollie Campbell,Alexandra Telford,6-2,6,2,1,0,Completed,true,false,false
+UA013044,06 Dec 20,4,St Andrews MB BR 2,BLTC,No. 3,Kiera Hatzistavros,Liam Walters,Kiera Hatzistavros,6-3,6,3,1,0,Completed,true,false,false
+UA013044,06 Dec 20,4,St Andrews MB BR 2,BLTC,No. 4,Sandy Brook Savill,Campbell Orchard,Campbell Orchard,2-6,2,6,0,1,Completed,true,true,true
+UA013051,13 Dec 20,5,Le Page,BLTC,No. 1,Yi Zhou,Ben Banks,Ben Banks,1-6,1,6,0,1,Completed,true,false,false
+UA013051,13 Dec 20,5,Le Page,BLTC,No. 2,Lochlan Bradley,Ollie Campbell,Ollie Campbell,3-6,3,6,0,1,Completed,true,false,false
+UA013051,13 Dec 20,5,Le Page,BLTC,No. 3,Smail Chen,Liam Walters,Liam Walters,1-6,1,6,0,1,Completed,true,false,false
+UA013051,13 Dec 20,5,Le Page,BLTC,No. 4,Tyson Bradley,Amelia Anderson,Tyson Bradley,6-1,6,1,1,0,Completed,true,true,true
+UA013052,13 Dec 20,5,St Louis de Mont,Victory Park,No. 1,Aliya Appleby,Oliver Richards,Aliya Appleby,6-3,6,3,1,0,Completed,true,false,false
+UA013052,13 Dec 20,5,St Louis de Mont,Victory Park,No. 2,Harry Parker,Sai Kovuru,Sai Kovuru,0-6,0,6,0,1,Completed,true,false,false
+UA013052,13 Dec 20,5,St Louis de Mont,Victory Park,No. 3,Josh Elliot,Jack Campbell,Jack Campbell,1-6,1,6,0,1,Completed,true,false,false
+UA013052,13 Dec 20,5,St Louis de Mont,Victory Park,No. 4,Rory Tuke,Gemma McGrath,Gemma McGrath,3-6,3,6,0,1,Completed,true,false,false
+UA013053,13 Dec 20,5,Royal Ave,St Andrews MB BR 2,No. 1,Harry Toomey,Alexandra Telford,Harry Toomey,6-1,6,1,1,0,Completed,true,false,false
+UA013053,13 Dec 20,5,Royal Ave,St Andrews MB BR 2,No. 2,Vadim Goreux,Kiera Hatzistavros,Kiera Hatzistavros,5-7,5,7,0,1,Completed,true,false,false
+UA013053,13 Dec 20,5,Royal Ave,St Andrews MB BR 2,No. 3,Gideon Gomes,Grace Edwards,Gideon Gomes,6-3,6,3,1,0,Completed,true,false,false
+UA013053,13 Dec 20,5,Royal Ave,St Andrews MB BR 2,No. 4,Hugo Williams,Bob Njiffels,Hugo Williams,6-4,6,4,1,0,Completed,true,false,false
+UA013054,13 Dec 20,5,St Andrews MB BR 1,Coatesville,No. 1,Angus Giles,Hunter Ahcoh,Angus Giles,6-4,6,4,1,0,Completed,true,false,false
+UA013054,13 Dec 20,5,St Andrews MB BR 1,Coatesville,No. 2,Harry Heaselgrave,Jessica Kam,Harry Heaselgrave,6-4,6,4,1,0,Completed,true,false,false
+UA013054,13 Dec 20,5,St Andrews MB BR 1,Coatesville,No. 3,Zara Fyfe,Yiannis Gianakis,Yiannis Gianakis,4-6,4,6,0,1,Completed,true,false,false
+UA013054,13 Dec 20,5,St Andrews MB BR 1,Coatesville,No. 4,Niamh Arnold,Leon Liacopoulas,Leon Liacopoulas,1-6,1,6,0,1,Completed,true,false,false
+UA013061,20 Dec 20,6,Coatesville,Le Page,No. 1,Hunter Ahcoh,Yi Zhou,Hunter Ahcoh,7-6,7,6,1,0,Completed,true,false,false
+UA013061,20 Dec 20,6,Coatesville,Le Page,No. 2,Jessica Kam,Lochlan Bradley,Jessica Kam,7-5,7,5,1,0,Completed,true,false,false
+UA013061,20 Dec 20,6,Coatesville,Le Page,No. 3,Yiannis Gianakis,Smail Chen,Yiannis Gianakis,6-0,6,0,1,0,Completed,true,false,false
+UA013061,20 Dec 20,6,Coatesville,Le Page,No. 4,Arshika Prakash,Mitchell Campbell,Arshika Prakash,6-4,6,4,1,0,Completed,true,false,false
+UA013062,20 Dec 20,6,BLTC,St Andrews MB BR 1,No. 1,Ben Banks,Angus Giles,Angus Giles,0-6,0,6,0,1,Completed,true,false,false
+UA013062,20 Dec 20,6,BLTC,St Andrews MB BR 1,No. 2,Ollie Campbell,Zara Fyfe,Ollie Campbell,6-1,6,1,1,0,Completed,true,false,false
+UA013062,20 Dec 20,6,BLTC,St Andrews MB BR 1,No. 3,Campbell Orchard,Aurelia Fyfe,Campbell Orchard,6-3,6,3,1,0,Completed,true,true,false
+UA013062,20 Dec 20,6,BLTC,St Andrews MB BR 1,No. 4,Leon Coppins,Niamh Arnold,Niamh Arnold,3-6,3,6,0,1,Completed,true,false,false
+UA013063,20 Dec 20,6,Victory Park,Royal Ave,No. 1,Oliver Richards,Harry Toomey,Harry Toomey,6-7,6,7,0,1,Completed,true,false,false
+UA013063,20 Dec 20,6,Victory Park,Royal Ave,No. 2,Sai Kovuru,Gideon Gomes,Sai Kovuru,7-6,7,6,1,0,Completed,true,false,false
+UA013063,20 Dec 20,6,Victory Park,Royal Ave,No. 3,Jack Campbell,Hugo Williams,Jack Campbell,6-1,6,1,1,0,Completed,true,false,false
+UA013063,20 Dec 20,6,Victory Park,Royal Ave,No. 4,Gemma McGrath,Cooper Delly,Gemma McGrath,6-4,6,4,1,0,Completed,true,false,true
+UA013064,20 Dec 20,6,St Andrews MB BR 2,St Louis de Mont,No. 1,Josh Telford,Aliya Appleby,Aliya Appleby,3-6,3,6,0,1,Completed,true,false,false
+UA013064,20 Dec 20,6,St Andrews MB BR 2,St Louis de Mont,No. 2,Alexandra Telford,Harry Parker,Alexandra Telford,6-3,6,3,1,0,Completed,true,false,false
+UA013064,20 Dec 20,6,St Andrews MB BR 2,St Louis de Mont,No. 3,Grace Edwards,Josh Elliot,Grace Edwards,6-3,6,3,1,0,Completed,true,false,false
+UA013064,20 Dec 20,6,St Andrews MB BR 2,St Louis de Mont,No. 4,Bob Njiffels,Flynn Williamson,Flynn Williamson,1-6,1,6,0,1,Completed,true,false,false

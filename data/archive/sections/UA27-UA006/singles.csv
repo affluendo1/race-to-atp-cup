@@ -1,0 +1,53 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA006012,15 Nov 20,1,Royal South Yarra,Coatesville,No. 1,Katherine Soutter,Thomas Rossi,Thomas Rossi,0-6,0,6,0,1,Completed,true,false,false
+UA006012,15 Nov 20,1,Royal South Yarra,Coatesville,No. 2,Axy Park,Nicholas Dela Cruz,Axy Park,6-3,6,3,1,0,Completed,true,false,false
+UA006012,15 Nov 20,1,Royal South Yarra,Coatesville,No. 3,Anna Eggleston,Charlie Wang,Anna Eggleston,7-5,7,5,1,0,Completed,true,false,false
+UA006012,15 Nov 20,1,Royal South Yarra,Coatesville,No. 4,Phoebe Ollerenshaw,Jonah Dela Cruz,Jonah Dela Cruz,4-6,4,6,0,1,Completed,true,false,false
+UA006014,15 Nov 20,1,Clarinda,Mordialloc,No. 1,Brandon Tsan,Aaryon Gokhale,Brandon Tsan,6-1,6,1,1,0,Completed,true,false,false
+UA006014,15 Nov 20,1,Clarinda,Mordialloc,No. 2,Ashley Tsan,Luke Evans,Luke Evans,3-6,3,6,0,1,Completed,true,false,false
+UA006014,15 Nov 20,1,Clarinda,Mordialloc,No. 3,Arhaan Khan,Ansh Raghav,Arhaan Khan,6-3,6,3,1,0,Completed,true,false,false
+UA006014,15 Nov 20,1,Clarinda,Mordialloc,No. 4,Ellie Tsan,Diesel Reid,Diesel Reid,1-6,1,6,0,1,Completed,true,false,false
+UA006022,22 Nov 20,2,BLTC Bodley,Royal South Yarra,No. 1,George Fennessy,Phoebe Andrews,Phoebe Andrews,3-6,3,6,0,1,Completed,true,false,false
+UA006022,22 Nov 20,2,BLTC Bodley,Royal South Yarra,No. 2,Anirush Hariram,Axy Park,Axy Park,6-7,6,7,0,1,Completed,true,false,false
+UA006022,22 Nov 20,2,BLTC Bodley,Royal South Yarra,No. 3,Stevan Dakic,Anna Eggleston,Stevan Dakic,6-0,6,0,1,0,Completed,true,false,false
+UA006022,22 Nov 20,2,BLTC Bodley,Royal South Yarra,No. 4,Freddie Liu,Phoebe Ollerenshaw,Phoebe Ollerenshaw,5-7,5,7,0,1,Completed,true,false,false
+UA006023,22 Nov 20,2,Coatesville,Hurlingham Park,No. 1,Nicholas Dela Cruz,Jerry Zhang,Jerry Zhang,4-6,4,6,0,1,Completed,true,false,false
+UA006023,22 Nov 20,2,Coatesville,Hurlingham Park,No. 2,Charlie Wang,Michal Forenciwz,Michal Forenciwz,2-6,2,6,0,1,Completed,true,false,false
+UA006023,22 Nov 20,2,Coatesville,Hurlingham Park,No. 3,Jonah Dela Cruz,Daniel Deguara,Jonah Dela Cruz,7-5,7,5,1,0,Completed,true,false,false
+UA006023,22 Nov 20,2,Coatesville,Hurlingham Park,No. 4,Kewen Zhang,William Schiavello,William Schiavello,5-7,5,7,0,1,Completed,true,true,false
+UA006024,22 Nov 20,2,Bentleigh Rec,Clarinda,No. 1,Jono Manoussis,Brandon Tsan,Brandon Tsan,6-7,6,7,0,1,Completed,true,true,false
+UA006024,22 Nov 20,2,Bentleigh Rec,Clarinda,No. 2,Declan McCormack,Ashley Tsan,Declan McCormack,6-1,6,1,1,0,Completed,true,false,false
+UA006024,22 Nov 20,2,Bentleigh Rec,Clarinda,No. 3,Charlie Redman,Arhaan Khan,Arhaan Khan,1-6,1,6,0,1,Completed,true,false,false
+UA006024,22 Nov 20,2,Bentleigh Rec,Clarinda,No. 4,Sean Yao,Ellie Tsan,Sean Yao,6-4,6,4,1,0,Completed,true,true,false
+UA006033,29 Nov 20,3,Hurlingham Park,BLTC Bodley,No. 1,Juan Hu,George Fennessy,Juan Hu,6-2,6,2,1,0,Completed,true,true,false
+UA006033,29 Nov 20,3,Hurlingham Park,BLTC Bodley,No. 2,Jerry Zhang,Anirush Hariram,Jerry Zhang,6-3,6,3,1,0,Completed,true,false,false
+UA006033,29 Nov 20,3,Hurlingham Park,BLTC Bodley,No. 3,Angus Haddon,Stevan Dakic,Stevan Dakic,0-6,0,6,0,1,Completed,true,false,false
+UA006033,29 Nov 20,3,Hurlingham Park,BLTC Bodley,No. 4,William Schiavello,Tom Felsenthal,William Schiavello,6-3,6,3,1,0,Completed,true,false,false
+UA006034,29 Nov 20,3,Clarinda,Coatesville,No. 1,Brandon Tsan,Thomas Rossi,Brandon Tsan,6-1,6,1,1,0,Completed,true,false,false
+UA006034,29 Nov 20,3,Clarinda,Coatesville,No. 2,Ashley Tsan,Charlie Wang,Ashley Tsan,6-2,6,2,1,0,Completed,true,false,false
+UA006034,29 Nov 20,3,Clarinda,Coatesville,No. 3,Arhaan Khan,Jonah Dela Cruz,Arhaan Khan,6-3,6,3,1,0,Completed,true,false,false
+UA006034,29 Nov 20,3,Clarinda,Coatesville,No. 4,Ellie Tsan,Kewen Zhang,Ellie Tsan,6-1,6,1,1,0,Completed,true,false,true
+UA006043,06 Dec 20,4,Mordialloc,Hurlingham Park,No. 1,Aaryon Gokhale,Michal Forenciwz,Michal Forenciwz,5-7,5,7,0,1,Completed,true,false,false
+UA006043,06 Dec 20,4,Mordialloc,Hurlingham Park,No. 2,Luke Evans,Daniel Deguara,Luke Evans,7-5,7,5,1,0,Completed,true,false,false
+UA006043,06 Dec 20,4,Mordialloc,Hurlingham Park,No. 3,Ansh Raghav,Angus Haddon,Angus Haddon,5-7,5,7,0,1,Completed,true,false,false
+UA006043,06 Dec 20,4,Mordialloc,Hurlingham Park,No. 4,Owen Matthews,William Schiavello,William Schiavello,1-6,1,6,0,1,Completed,true,true,false
+UA006044,06 Dec 20,4,BLTC Bodley,Clarinda,No. 1,Hamish Roberts,Brandon Tsan,Hamish Roberts,6-3,6,3,1,0,Completed,true,false,false
+UA006044,06 Dec 20,4,BLTC Bodley,Clarinda,No. 2,Anirush Hariram,Ashley Tsan,Ashley Tsan,4-6,4,6,0,1,Completed,true,false,false
+UA006044,06 Dec 20,4,BLTC Bodley,Clarinda,No. 3,Freddie Liu,Arhaan Khan,Arhaan Khan,1-6,1,6,0,1,Completed,true,false,false
+UA006044,06 Dec 20,4,BLTC Bodley,Clarinda,No. 4,Tom Felsenthal,Ellie Tsan,Ellie Tsan,6-7,6,7,0,1,Completed,true,false,false
+UA006051,13 Dec 20,5,Hurlingham Park,Clarinda,No. 1,Jerry Zhang,Brandon Tsan,Brandon Tsan,3-6,3,6,0,1,Completed,true,false,false
+UA006051,13 Dec 20,5,Hurlingham Park,Clarinda,No. 2,Daniel Deguara,Ashley Tsan,Ashley Tsan,1-6,1,6,0,1,Completed,true,false,false
+UA006051,13 Dec 20,5,Hurlingham Park,Clarinda,No. 3,Angus Haddon,Arhaan Khan,Angus Haddon,6-4,6,4,1,0,Completed,true,false,false
+UA006051,13 Dec 20,5,Hurlingham Park,Clarinda,No. 4,William Schiavello,Ellie Tsan,Ellie Tsan,4-6,4,6,0,1,Completed,true,false,false
+UA006052,13 Dec 20,5,Mordialloc,Bentleigh Rec,No. 1,Aaryon Gokhale,Declan McCormack,Declan McCormack,4-6,4,6,0,1,Completed,true,false,false
+UA006052,13 Dec 20,5,Mordialloc,Bentleigh Rec,No. 2,Luke Evans,Charlie Redman,Luke Evans,7-6,7,6,1,0,Completed,true,false,false
+UA006052,13 Dec 20,5,Mordialloc,Bentleigh Rec,No. 3,Ansh Raghav,Sean Yao,Ansh Raghav,6-4,6,4,1,0,Completed,true,false,true
+UA006052,13 Dec 20,5,Mordialloc,Bentleigh Rec,No. 4,Diesel Reid,Nemo Yao,Diesel Reid,6-0,6,0,1,0,Completed,true,false,true
+UA006053,13 Dec 20,5,Coatesville,BLTC Bodley,No. 1,Nicholas Dela Cruz,Hamish Roberts,Hamish Roberts,2-6,2,6,0,1,Completed,true,false,false
+UA006053,13 Dec 20,5,Coatesville,BLTC Bodley,No. 2,Charlie Wang,Anirush Hariram,Anirush Hariram,0-6,0,6,0,1,Completed,true,false,false
+UA006053,13 Dec 20,5,Coatesville,BLTC Bodley,No. 3,Jonah Dela Cruz,Stevan Dakic,Jonah Dela Cruz,6-2,6,2,1,0,Completed,true,false,false
+UA006053,13 Dec 20,5,Coatesville,BLTC Bodley,No. 4,Kewen Zhang,Freddie Liu,Kewen Zhang,6-4,6,4,1,0,Completed,true,true,false
+UA006064,20 Dec 20,6,BLTC Bodley,Mordialloc,No. 1,Hamish Roberts,Aaryon Gokhale,Hamish Roberts,6-3,6,3,1,0,Completed,true,false,false
+UA006064,20 Dec 20,6,BLTC Bodley,Mordialloc,No. 2,Anirush Hariram,Luke Evans,Anirush Hariram,6-3,6,3,1,0,Completed,true,false,false
+UA006064,20 Dec 20,6,BLTC Bodley,Mordialloc,No. 3,Stevan Dakic,Ansh Raghav,Stevan Dakic,6-3,6,3,1,0,Completed,true,false,false
+UA006064,20 Dec 20,6,BLTC Bodley,Mordialloc,No. 4,Freddie Liu,Diesel Reid,Diesel Reid,0-6,0,6,0,1,Completed,true,false,false

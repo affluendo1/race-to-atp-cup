@@ -1,0 +1,229 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA018011,17 Jul 22,1,BLTC Blue,BLTC WHITE,No. 1,Mali Nayna,Phillip Brophy,Phillip Brophy,3-6,3,6,0,1,Completed,true,false,false
+UA018011,17 Jul 22,1,BLTC Blue,BLTC WHITE,No. 2,Ava Nimorakiotakis,Louis Wu,Louis Wu,4-6,4,6,0,1,Completed,true,false,true
+UA018011,17 Jul 22,1,BLTC Blue,BLTC WHITE,No. 3,Timothy Gibbins,William Wheeler,Timothy Gibbins,6-2,6,2,1,0,Completed,true,false,false
+UA018011,17 Jul 22,1,BLTC Blue,BLTC WHITE,No. 4,Aiden Leonard,Victor Lee,Victor Lee,1-6,1,6,0,1,Completed,true,false,false
+UA018013,17 Jul 22,1,Coatesville,Le Page,No. 1,Ethan Nemenman,Tome Lazic,Tome Lazic,6-7,6,7,0,1,Completed,true,false,true
+UA018013,17 Jul 22,1,Coatesville,Le Page,No. 2,Sophie Gershenzon,Jonathan Friedman,Sophie Gershenzon,6-3,6,3,1,0,Completed,true,false,false
+UA018013,17 Jul 22,1,Coatesville,Le Page,No. 3,Jack Tan,Benson James,Jack Tan,6-0,6,0,1,0,Completed,true,false,false
+UA018013,17 Jul 22,1,Coatesville,Le Page,No. 4,Allegra Romangnino,[Unnamed player — TROLS UA018013 away code 4],Allegra Romangnino,6-0,6,0,1,0,Completed,false,false,false
+UA018014,17 Jul 22,1,Parkdale,Aspendale,No. 1,John Carino,Brendan McCaul,Brendan McCaul,2-6,2,6,0,1,Completed,true,false,false
+UA018014,17 Jul 22,1,Parkdale,Aspendale,No. 2,Gabriel Hordern,Jake Meyers,Jake Meyers,0-6,0,6,0,1,Completed,true,false,false
+UA018014,17 Jul 22,1,Parkdale,Aspendale,No. 3,Mia Bellette,Tom McCaul,Tom McCaul,5-7,5,7,0,1,Completed,true,false,false
+UA018014,17 Jul 22,1,Parkdale,Aspendale,No. 4,Marieke Roest,Otto Horan,Marieke Roest,4-1,4,1,1,0,Completed,false,false,false
+UA018021,24 Jul 22,2,Aspendale,BLTC Blue,No. 1,Brendan McCaul,Callum Tzounos,Brendan McCaul,6-3,6,3,1,0,Completed,true,false,false
+UA018021,24 Jul 22,2,Aspendale,BLTC Blue,No. 2,Jake Meyers,Timothy Gibbins,Jake Meyers,6-1,6,1,1,0,Completed,true,false,false
+UA018021,24 Jul 22,2,Aspendale,BLTC Blue,No. 3,Tom McCaul,Jenson Witherington,Tom McCaul,7-5,7,5,1,0,Completed,true,false,false
+UA018021,24 Jul 22,2,Aspendale,BLTC Blue,No. 4,Kai Shmitke,Aiden Leonard,Aiden Leonard,3-6,3,6,0,1,Completed,true,false,false
+UA018022,24 Jul 22,2,BLTC WHITE,Royal South Yarra,No. 1,Phillip Brophy,Lucy Staple,Phillip Brophy,6-0,6,0,1,0,Completed,true,false,false
+UA018022,24 Jul 22,2,BLTC WHITE,Royal South Yarra,No. 2,William Wheeler,Charlotte Syme,William Wheeler,6-3,6,3,1,0,Completed,true,false,false
+UA018022,24 Jul 22,2,BLTC WHITE,Royal South Yarra,No. 3,Victor Lee,Charlotte Cannon,Victor Lee,6-1,6,1,1,0,Completed,true,false,false
+UA018022,24 Jul 22,2,BLTC WHITE,Royal South Yarra,No. 4,Daniel McLean,Martha Nicholls,Martha Nicholls,6-7,6,7,0,1,Completed,true,false,false
+UA018023,24 Jul 22,2,Kings Park,Coatesville,No. 1,Shiven Lal,Ethan Nemenman,Shiven Lal,6-3,6,3,1,0,Completed,true,true,false
+UA018023,24 Jul 22,2,Kings Park,Coatesville,No. 2,Rhyle Vaz,Sophie Gershenzon,Rhyle Vaz,6-4,6,4,1,0,Completed,true,false,false
+UA018023,24 Jul 22,2,Kings Park,Coatesville,No. 3,Zeyi Xu,Jack Tan,Jack Tan,3-6,3,6,0,1,Completed,true,false,false
+UA018023,24 Jul 22,2,Kings Park,Coatesville,No. 4,Caelan Vekas,Allegra Romangnino,Allegra Romangnino,2-6,2,6,0,1,Completed,true,false,false
+UA018024,24 Jul 22,2,Le Page,Parkdale,No. 1,Sascha Whitelaw,Hudson Pleysier,Hudson Pleysier,0-6,0,6,0,1,Completed,true,false,false
+UA018024,24 Jul 22,2,Le Page,Parkdale,No. 2,Jonathan Friedman,Gabriel Hordern,Gabriel Hordern,1-6,1,6,0,1,Completed,true,false,false
+UA018024,24 Jul 22,2,Le Page,Parkdale,No. 3,Arunima John,Mia Bellette,Mia Bellette,0-6,0,6,0,1,Completed,true,true,false
+UA018024,24 Jul 22,2,Le Page,Parkdale,No. 4,Benson James,Marieke Roest,Marieke Roest,0-6,0,6,0,1,Completed,true,false,false
+UA018031,31 Jul 22,3,BLTC Blue,Le Page,No. 1,Mali Nayna,Sascha Whitelaw,Mali Nayna,6-0,6,0,1,0,Completed,true,false,false
+UA018031,31 Jul 22,3,BLTC Blue,Le Page,No. 2,Callum Tzounos,Jonathan Friedman,Callum Tzounos,6-3,6,3,1,0,Completed,true,false,false
+UA018031,31 Jul 22,3,BLTC Blue,Le Page,No. 3,Timothy Gibbins,Arunima John,Timothy Gibbins,6-0,6,0,1,0,Completed,true,false,true
+UA018031,31 Jul 22,3,BLTC Blue,Le Page,No. 4,Jenson Witherington,Benson James,Jenson Witherington,6-1,6,1,1,0,Completed,true,false,false
+UA018032,31 Jul 22,3,Royal South Yarra,Aspendale,No. 1,Lucy Staple,Brendan McCaul,Brendan McCaul,2-6,2,6,0,1,Completed,true,false,false
+UA018032,31 Jul 22,3,Royal South Yarra,Aspendale,No. 2,Charlotte Syme,Tom McCaul,Tom McCaul,4-6,4,6,0,1,Completed,true,false,false
+UA018032,31 Jul 22,3,Royal South Yarra,Aspendale,No. 3,Charlotte Cannon,Kai Shmitke,Charlotte Cannon,6-1,6,1,1,0,Completed,true,false,false
+UA018032,31 Jul 22,3,Royal South Yarra,Aspendale,No. 4,Martha Nicholls,Otto Horan,Martha Nicholls,6-3,6,3,1,0,Completed,true,false,false
+UA018033,31 Jul 22,3,Coatesville,BLTC WHITE,No. 1,Ethan Nemenman,Phillip Brophy,Phillip Brophy,5-7,5,7,0,1,Completed,true,false,false
+UA018033,31 Jul 22,3,Coatesville,BLTC WHITE,No. 2,Allegra Romangnino,Adriana Taleb,Adriana Taleb,1-6,1,6,0,1,Completed,true,false,false
+UA018033,31 Jul 22,3,Coatesville,BLTC WHITE,No. 3,Lara Smith,Victor Lee,Victor Lee,3-6,3,6,0,1,Completed,true,false,false
+UA018033,31 Jul 22,3,Coatesville,BLTC WHITE,No. 4,Yotem Peres,Daniel McLean,Yotem Peres,6-4,6,4,1,0,Completed,true,true,false
+UA018034,31 Jul 22,3,Parkdale,Kings Park,No. 1,Hudson Pleysier,Shiven Lal,Hudson Pleysier,6-3,6,3,1,0,Completed,true,false,true
+UA018034,31 Jul 22,3,Parkdale,Kings Park,No. 2,Gabriel Hordern,Rhyle Vaz,Gabriel Hordern,7-5,7,5,1,0,Completed,true,false,false
+UA018034,31 Jul 22,3,Parkdale,Kings Park,No. 3,Mia Bellette,Zeyi Xu,Zeyi Xu,1-6,1,6,0,1,Completed,true,false,false
+UA018034,31 Jul 22,3,Parkdale,Kings Park,No. 4,Marieke Roest,Julian Wang,Julian Wang,4-6,4,6,0,1,Completed,true,false,false
+UA018041,07 Aug 22,4,Kings Park,BLTC Blue,No. 1,Rhyle Vaz,Mali Nayna,Rhyle Vaz,6-3,6,3,1,0,Completed,true,false,false
+UA018041,07 Aug 22,4,Kings Park,BLTC Blue,No. 2,Julian Wang,Callum Tzounos,Callum Tzounos,4-6,4,6,0,1,Completed,true,false,false
+UA018041,07 Aug 22,4,Kings Park,BLTC Blue,No. 3,Zeyi Xu,Timothy Gibbins,Timothy Gibbins,0-6,0,6,0,1,Completed,true,false,false
+UA018041,07 Aug 22,4,Kings Park,BLTC Blue,No. 4,Caelan Vekas,Aiden Leonard,Caelan Vekas,6-2,6,2,1,0,Completed,true,false,false
+UA018042,07 Aug 22,4,Le Page,Royal South Yarra,No. 1,Sascha Whitelaw,Lucy Staple,Lucy Staple,2-6,2,6,0,1,Completed,true,false,false
+UA018042,07 Aug 22,4,Le Page,Royal South Yarra,No. 2,Jonathan Friedman,Charlotte Syme,Charlotte Syme,6-7,6,7,0,1,Completed,true,false,false
+UA018042,07 Aug 22,4,Le Page,Royal South Yarra,No. 3,Johan Singh,Charlotte Cannon,Johan Singh,7-6,7,6,1,0,Completed,true,false,false
+UA018042,07 Aug 22,4,Le Page,Royal South Yarra,No. 4,Benson James,Martha Nicholls,Martha Nicholls,0-6,0,6,0,1,Completed,true,false,false
+UA018043,07 Aug 22,4,Aspendale,Coatesville,No. 1,Brendan McCaul,Ethan Nemenman,Ethan Nemenman,3-6,3,6,0,1,Completed,true,false,false
+UA018043,07 Aug 22,4,Aspendale,Coatesville,No. 2,Jake Meyers,Sophie Gershenzon,Jake Meyers,6-2,6,2,1,0,Completed,true,false,false
+UA018043,07 Aug 22,4,Aspendale,Coatesville,No. 3,Kai Shmitke,Allegra Romangnino,Allegra Romangnino,0-6,0,6,0,1,Completed,true,false,false
+UA018043,07 Aug 22,4,Aspendale,Coatesville,No. 4,Otto Horan,Lara Smith,Lara Smith,1-6,1,6,0,1,Completed,true,false,false
+UA018044,07 Aug 22,4,BLTC WHITE,Parkdale,No. 1,Phillip Brophy,Hudson Pleysier,Phillip Brophy,7-5,7,5,1,0,Completed,true,false,false
+UA018044,07 Aug 22,4,BLTC WHITE,Parkdale,No. 2,Adriana Taleb,Gabriel Hordern,Adriana Taleb,7-5,7,5,1,0,Completed,true,false,false
+UA018044,07 Aug 22,4,BLTC WHITE,Parkdale,No. 3,William Wheeler,Mia Bellette,William Wheeler,6-0,6,0,1,0,Completed,true,false,false
+UA018044,07 Aug 22,4,BLTC WHITE,Parkdale,No. 4,Daniel McLean,Marieke Roest,Daniel McLean,6-4,6,4,1,0,Completed,true,false,false
+UA018051,14 Aug 22,5,Coatesville,Parkdale,No. 1,Ethan Nemenman,Gabriel Hordern,Ethan Nemenman,6-3,6,3,1,0,Completed,true,false,false
+UA018051,14 Aug 22,5,Coatesville,Parkdale,No. 2,Sophie Gershenzon,Mia Bellette,Sophie Gershenzon,6-0,6,0,1,0,Completed,true,false,false
+UA018051,14 Aug 22,5,Coatesville,Parkdale,No. 3,Jack Tan,Marieke Roest,Jack Tan,6-1,6,1,1,0,Completed,true,false,false
+UA018051,14 Aug 22,5,Coatesville,Parkdale,No. 4,Lara Smith,John Carino,Lara Smith,6-1,6,1,1,0,Completed,true,false,false
+UA018052,14 Aug 22,5,Aspendale,Le Page,No. 1,Brendan McCaul,Jonathan Friedman,Brendan McCaul,6-1,6,1,1,0,Completed,true,false,false
+UA018052,14 Aug 22,5,Aspendale,Le Page,No. 2,Xavier Pippo,Johan Singh,Xavier Pippo,7-5,7,5,1,0,Completed,true,false,false
+UA018052,14 Aug 22,5,Aspendale,Le Page,No. 3,Jake Meyers,Jacob Phe,Jake Meyers,6-0,6,0,1,0,Completed,true,false,true
+UA018052,14 Aug 22,5,Aspendale,Le Page,No. 4,Tom McCaul,Teagan Toskov-Calabrese,Tom McCaul,6-4,6,4,1,0,Completed,true,false,false
+UA018053,14 Aug 22,5,Kings Park,BLTC WHITE,No. 1,Shiven Lal,Adriana Taleb,Shiven Lal,6-1,6,1,1,0,Completed,true,true,false
+UA018053,14 Aug 22,5,Kings Park,BLTC WHITE,No. 2,Rhyle Vaz,William Wheeler,Rhyle Vaz,6-3,6,3,1,0,Completed,true,false,false
+UA018053,14 Aug 22,5,Kings Park,BLTC WHITE,No. 3,Zeyi Xu,Victor Lee,Zeyi Xu,6-1,6,1,1,0,Completed,true,false,false
+UA018053,14 Aug 22,5,Kings Park,BLTC WHITE,No. 4,Julian Wang,Daniel McLean,Julian Wang,6-2,6,2,1,0,Completed,true,false,false
+UA018054,14 Aug 22,5,BLTC Blue,Royal South Yarra,No. 1,Mali Nayna,Lucy Staple,Mali Nayna,6-0,6,0,1,0,Completed,true,false,false
+UA018054,14 Aug 22,5,BLTC Blue,Royal South Yarra,No. 2,Timothy Gibbins,Charlotte Syme,Timothy Gibbins,6-0,6,0,1,0,Completed,true,false,false
+UA018054,14 Aug 22,5,BLTC Blue,Royal South Yarra,No. 3,Aiden Leonard,Charlotte Cannon,Aiden Leonard,6-1,6,1,1,0,Completed,true,false,false
+UA018054,14 Aug 22,5,BLTC Blue,Royal South Yarra,No. 4,Lennon King,Martha Nicholls,Lennon King,6-2,6,2,1,0,Completed,true,true,false
+UA018061,21 Aug 22,6,Royal South Yarra,Coatesville,No. 1,Lucy Staple,Ethan Nemenman,Ethan Nemenman,4-6,4,6,0,1,Completed,true,false,false
+UA018061,21 Aug 22,6,Royal South Yarra,Coatesville,No. 2,Charlotte Syme,Jack Tan,Jack Tan,1-6,1,6,0,1,Completed,true,false,false
+UA018061,21 Aug 22,6,Royal South Yarra,Coatesville,No. 3,Martha Nicholls,Allegra Romangnino,Allegra Romangnino,1-6,1,6,0,1,Completed,true,false,false
+UA018061,21 Aug 22,6,Royal South Yarra,Coatesville,No. 4,Orlando Moran,Lara Smith,Lara Smith,0-6,0,6,0,1,Completed,true,true,false
+UA018062,21 Aug 22,6,Parkdale,BLTC Blue,No. 1,Hudson Pleysier,Mali Nayna,Mali Nayna,0-6,0,6,0,1,Completed,true,false,false
+UA018062,21 Aug 22,6,Parkdale,BLTC Blue,No. 2,Gabriel Hordern,Timothy Gibbins,Gabriel Hordern,6-3,6,3,1,0,Completed,true,false,false
+UA018062,21 Aug 22,6,Parkdale,BLTC Blue,No. 3,Marieke Roest,Jenson Witherington,Marieke Roest,7-6,7,6,1,0,Completed,true,false,false
+UA018062,21 Aug 22,6,Parkdale,BLTC Blue,No. 4,John Carino,Aiden Leonard,John Carino,6-2,6,2,1,0,Completed,true,false,false
+UA018063,21 Aug 22,6,Le Page,Kings Park,No. 1,Sascha Whitelaw,Rhyle Vaz,Rhyle Vaz,0-6,0,6,0,1,Completed,true,false,false
+UA018063,21 Aug 22,6,Le Page,Kings Park,No. 2,Jonathan Friedman,Zeyi Xu,Zeyi Xu,3-6,3,6,0,1,Completed,true,false,false
+UA018063,21 Aug 22,6,Le Page,Kings Park,No. 3,Johan Singh,Julian Wang,Julian Wang,0-6,0,6,0,1,Completed,true,false,false
+UA018063,21 Aug 22,6,Le Page,Kings Park,No. 4,Jacob Phe,Jamie Dodd,Jamie Dodd,0-6,0,6,0,1,Completed,true,true,true
+UA018064,21 Aug 22,6,BLTC WHITE,Aspendale,No. 1,Phillip Brophy,Xavier Pippo,Phillip Brophy,7-5,7,5,1,0,Completed,true,false,false
+UA018064,21 Aug 22,6,BLTC WHITE,Aspendale,No. 2,Adriana Taleb,Jake Meyers,Jake Meyers,0-6,0,6,0,1,Completed,true,false,false
+UA018064,21 Aug 22,6,BLTC WHITE,Aspendale,No. 3,William Wheeler,Kai Shmitke,William Wheeler,6-0,6,0,1,0,Completed,true,false,false
+UA018064,21 Aug 22,6,BLTC WHITE,Aspendale,No. 4,Victor Lee,Otto Horan,Victor Lee,6-0,6,0,1,0,Completed,true,false,false
+UA018071,28 Aug 22,7,BLTC Blue,Coatesville,No. 1,Mali Nayna,Sophie Gershenzon,Mali Nayna,6-2,6,2,1,0,Completed,true,false,false
+UA018071,28 Aug 22,7,BLTC Blue,Coatesville,No. 2,Callum Tzounos,Jack Tan,Jack Tan,3-6,3,6,0,1,Completed,true,false,false
+UA018071,28 Aug 22,7,BLTC Blue,Coatesville,No. 3,Timothy Gibbins,Allegra Romangnino,Allegra Romangnino,3-6,3,6,0,1,Completed,true,false,false
+UA018071,28 Aug 22,7,BLTC Blue,Coatesville,No. 4,Blake Carson,Lara Smith,Blake Carson,6-4,6,4,1,0,Completed,true,true,false
+UA018072,28 Aug 22,7,Royal South Yarra,Parkdale,No. 1,Charlotte Syme,Hudson Pleysier,Hudson Pleysier,3-6,3,6,0,1,Completed,true,false,false
+UA018072,28 Aug 22,7,Royal South Yarra,Parkdale,No. 2,Charlotte Cannon,Gabriel Hordern,Gabriel Hordern,4-6,4,6,0,1,Completed,true,false,false
+UA018072,28 Aug 22,7,Royal South Yarra,Parkdale,No. 3,Martha Nicholls,Mia Bellette,Martha Nicholls,6-3,6,3,1,0,Completed,true,false,false
+UA018072,28 Aug 22,7,Royal South Yarra,Parkdale,No. 4,Teddy Syme,John Carino,Teddy Syme,6-1,6,1,1,0,Completed,true,false,false
+UA018073,28 Aug 22,7,Aspendale,Kings Park,No. 1,Brendan McCaul,Rhyle Vaz,Rhyle Vaz,0-6,0,6,0,1,Completed,true,false,false
+UA018073,28 Aug 22,7,Aspendale,Kings Park,No. 2,Xavier Pippo,Julian Wang,Xavier Pippo,7-6,7,6,1,0,Completed,true,false,false
+UA018073,28 Aug 22,7,Aspendale,Kings Park,No. 3,Jake Meyers,Jamie Dodd,Jamie Dodd,1-6,1,6,0,1,Completed,true,false,true
+UA018073,28 Aug 22,7,Aspendale,Kings Park,No. 4,Tom McCaul,Caelan Vekas,Caelan Vekas,4-6,4,6,0,1,Completed,true,false,false
+UA018074,28 Aug 22,7,Le Page,BLTC WHITE,No. 1,Sascha Whitelaw,Phillip Brophy,Phillip Brophy,2-6,2,6,0,1,Completed,true,false,false
+UA018074,28 Aug 22,7,Le Page,BLTC WHITE,No. 2,Jonathan Friedman,Louis Wu,Louis Wu,1-6,1,6,0,1,Completed,true,false,true
+UA018074,28 Aug 22,7,Le Page,BLTC WHITE,No. 3,Teagan Toskov-Calabrese,Maddie Ballantyne,Maddie Ballantyne,3-6,3,6,0,1,Completed,true,false,false
+UA018074,28 Aug 22,7,Le Page,BLTC WHITE,No. 4,Johan Singh,Daniel McLean,Daniel McLean,5-7,5,7,0,1,Completed,true,false,false
+UA018081,04 Sep 22,8,BLTC WHITE,BLTC Blue,No. 1,Phillip Brophy,Mali Nayna,Mali Nayna,2-6,2,6,0,1,Completed,true,false,false
+UA018081,04 Sep 22,8,BLTC WHITE,BLTC Blue,No. 2,Maddie Ballantyne,Ava Nimorakiotakis,Ava Nimorakiotakis,2-6,2,6,0,1,Completed,true,false,false
+UA018081,04 Sep 22,8,BLTC WHITE,BLTC Blue,No. 3,William Wheeler,Jenson Witherington,William Wheeler,6-1,6,1,1,0,Completed,true,false,false
+UA018081,04 Sep 22,8,BLTC WHITE,BLTC Blue,No. 4,Daniel McLean,Aiden Leonard,Daniel McLean,6-1,6,1,1,0,Completed,true,false,false
+UA018082,04 Sep 22,8,Kings Park,Royal South Yarra,No. 1,Rhyle Vaz,Charlotte Syme,Rhyle Vaz,6-0,6,0,1,0,Completed,true,false,false
+UA018082,04 Sep 22,8,Kings Park,Royal South Yarra,No. 2,Zeyi Xu,Charlotte Cannon,Zeyi Xu,6-1,6,1,1,0,Completed,true,false,false
+UA018082,04 Sep 22,8,Kings Park,Royal South Yarra,No. 3,Julian Wang,Martha Nicholls,Julian Wang,6-3,6,3,1,0,Completed,true,false,false
+UA018082,04 Sep 22,8,Kings Park,Royal South Yarra,No. 4,Caelan Vekas,Teddy Syme,Teddy Syme,5-7,5,7,0,1,Completed,true,false,false
+UA018083,04 Sep 22,8,Le Page,Coatesville,No. 1,Sascha Whitelaw,Ethan Nemenman,Ethan Nemenman,1-6,1,6,0,1,Completed,true,false,false
+UA018083,04 Sep 22,8,Le Page,Coatesville,No. 2,Jonathan Friedman,Sophie Gershenzon,Sophie Gershenzon,3-6,3,6,0,1,Completed,true,false,false
+UA018083,04 Sep 22,8,Le Page,Coatesville,No. 3,Teagan Toskov-Calabrese,Jack Tan,Jack Tan,0-6,0,6,0,1,Completed,true,false,false
+UA018083,04 Sep 22,8,Le Page,Coatesville,No. 4,Benson James,Allegra Romangnino,Allegra Romangnino,0-6,0,6,0,1,Completed,true,false,false
+UA018084,04 Sep 22,8,Aspendale,Parkdale,No. 1,Brendan McCaul,Hudson Pleysier,Hudson Pleysier,2-6,2,6,0,1,Completed,true,false,false
+UA018084,04 Sep 22,8,Aspendale,Parkdale,No. 2,Xavier Pippo,Gabriel Hordern,Gabriel Hordern,4-6,4,6,0,1,Completed,true,false,false
+UA018084,04 Sep 22,8,Aspendale,Parkdale,No. 3,Tom McCaul,Marieke Roest,Tom McCaul,6-2,6,2,1,0,Completed,true,false,false
+UA018084,04 Sep 22,8,Aspendale,Parkdale,No. 4,Kai Shmitke,John Carino,John Carino,4-6,4,6,0,1,Completed,true,false,false
+UA018091,11 Sep 22,9,BLTC Blue,Aspendale,No. 1,Ava Nimorakiotakis,Finn Kuperus,Ava Nimorakiotakis,6-4,6,4,1,0,Completed,true,false,true
+UA018091,11 Sep 22,9,BLTC Blue,Aspendale,No. 2,Callum Tzounos,Xavier Pippo,Xavier Pippo,4-6,4,6,0,1,Completed,true,false,false
+UA018091,11 Sep 22,9,BLTC Blue,Aspendale,No. 3,Timothy Gibbins,Tom McCaul,Tom McCaul,1-6,1,6,0,1,Completed,true,false,false
+UA018091,11 Sep 22,9,BLTC Blue,Aspendale,No. 4,Jenson Witherington,Leo Kuperus,Jenson Witherington,6-3,6,3,1,0,Completed,true,false,true
+UA018092,11 Sep 22,9,Royal South Yarra,BLTC WHITE,No. 1,Will Staple,Phillip Brophy,Phillip Brophy,2-6,2,6,0,1,Completed,true,false,false
+UA018092,11 Sep 22,9,Royal South Yarra,BLTC WHITE,No. 2,Charlotte Cannon,Adriana Taleb,Adriana Taleb,3-6,3,6,0,1,Completed,true,false,false
+UA018092,11 Sep 22,9,Royal South Yarra,BLTC WHITE,No. 3,Martha Nicholls,Maddie Ballantyne,Maddie Ballantyne,2-6,2,6,0,1,Completed,true,false,false
+UA018092,11 Sep 22,9,Royal South Yarra,BLTC WHITE,No. 4,Teddy Syme,Victor Lee,Victor Lee,0-6,0,6,0,1,Completed,true,false,false
+UA018093,11 Sep 22,9,Coatesville,Kings Park,No. 1,Ethan Nemenman,Rhyle Vaz,Rhyle Vaz,2-6,2,6,0,1,Completed,true,false,false
+UA018093,11 Sep 22,9,Coatesville,Kings Park,No. 2,Sophie Gershenzon,Zeyi Xu,Sophie Gershenzon,6-2,6,2,1,0,Completed,true,false,false
+UA018093,11 Sep 22,9,Coatesville,Kings Park,No. 3,Allegra Romangnino,Jamie Dodd,Jamie Dodd,3-6,3,6,0,1,Completed,true,false,true
+UA018093,11 Sep 22,9,Coatesville,Kings Park,No. 4,Lara Smith,Caelan Vekas,Lara Smith,6-2,6,2,1,0,Completed,true,false,false
+UA018094,11 Sep 22,9,Parkdale,Le Page,No. 1,Hudson Pleysier,Sascha Whitelaw,Hudson Pleysier,6-0,6,0,1,0,Completed,true,false,false
+UA018094,11 Sep 22,9,Parkdale,Le Page,No. 2,Gabriel Hordern,Johan Singh,Gabriel Hordern,6-2,6,2,1,0,Completed,true,false,false
+UA018094,11 Sep 22,9,Parkdale,Le Page,No. 3,Mia Bellette,Jacob Phe,Mia Bellette,6-1,6,1,1,0,Completed,true,false,true
+UA018094,11 Sep 22,9,Parkdale,Le Page,No. 4,John Carino,Benson James,John Carino,6-0,6,0,1,0,Completed,true,false,false
+UA018101,09 Oct 22,10,Le Page,BLTC Blue,No. 1,Sascha Whitelaw,Mali Nayna,Mali Nayna,1-6,1,6,0,1,Completed,true,false,false
+UA018101,09 Oct 22,10,Le Page,BLTC Blue,No. 2,Matthew Lan,Callum Tzounos,Callum Tzounos,3-6,3,6,0,1,Completed,true,false,false
+UA018101,09 Oct 22,10,Le Page,BLTC Blue,No. 3,Teagan Toskov-Calabrese,Timothy Gibbins,Timothy Gibbins,2-6,2,6,0,1,Completed,true,false,false
+UA018101,09 Oct 22,10,Le Page,BLTC Blue,No. 4,Johan Singh,Aiden Leonard,Johan Singh,7-6,7,6,1,0,Completed,true,false,false
+UA018102,09 Oct 22,10,Aspendale,Royal South Yarra,No. 1,Finn Kuperus,Lucy Staple,Finn Kuperus,6-2,6,2,1,0,Completed,true,true,false
+UA018102,09 Oct 22,10,Aspendale,Royal South Yarra,No. 2,Brendan McCaul,Charlotte Syme,Brendan McCaul,6-0,6,0,1,0,Completed,true,false,false
+UA018102,09 Oct 22,10,Aspendale,Royal South Yarra,No. 3,Jake Meyers,Charlotte Cannon,Jake Meyers,6-0,6,0,1,0,Completed,true,false,false
+UA018102,09 Oct 22,10,Aspendale,Royal South Yarra,No. 4,Otto Horan,Teddy Syme,Teddy Syme,1-6,1,6,0,1,Completed,true,false,false
+UA018103,09 Oct 22,10,BLTC WHITE,Coatesville,No. 1,Phillip Brophy,Sophie Gershenzon,Phillip Brophy,6-4,6,4,1,0,Completed,true,false,false
+UA018103,09 Oct 22,10,BLTC WHITE,Coatesville,No. 2,William Wheeler,Jack Tan,Jack Tan,0-6,0,6,0,1,Completed,true,false,false
+UA018103,09 Oct 22,10,BLTC WHITE,Coatesville,No. 3,Victor Lee,Allegra Romangnino,Victor Lee,6-4,6,4,1,0,Completed,true,false,false
+UA018103,09 Oct 22,10,BLTC WHITE,Coatesville,No. 4,Daniel McLean,Lara Smith,Lara Smith,3-6,3,6,0,1,Completed,true,false,false
+UA018104,09 Oct 22,10,Kings Park,Parkdale,No. 1,Rhyle Vaz,Hudson Pleysier,Rhyle Vaz,6-2,6,2,1,0,Completed,true,false,false
+UA018104,09 Oct 22,10,Kings Park,Parkdale,No. 2,Julian Wang,Gabriel Hordern,Gabriel Hordern,6-7,6,7,0,1,Completed,true,false,false
+UA018104,09 Oct 22,10,Kings Park,Parkdale,No. 3,Caelan Vekas,John Carino,Caelan Vekas,7-6,7,6,1,0,Completed,true,false,false
+UA018104,09 Oct 22,10,Kings Park,Parkdale,No. 4,Jamie Dodd,[Unnamed player — TROLS UA018104 away code 4],Jamie Dodd,6-0,6,0,1,0,Completed,false,true,false
+UA018111,16 Oct 22,11,BLTC Blue,Kings Park,No. 1,Mali Nayna,Rhyle Vaz,Rhyle Vaz,3-6,3,6,0,1,Completed,true,false,false
+UA018111,16 Oct 22,11,BLTC Blue,Kings Park,No. 2,Ava Nimorakiotakis,Zeyi Xu,Ava Nimorakiotakis,6-2,6,2,1,0,Completed,true,false,false
+UA018111,16 Oct 22,11,BLTC Blue,Kings Park,No. 3,Callum Tzounos,Julian Wang,Julian Wang,4-6,4,6,0,1,Completed,true,false,false
+UA018111,16 Oct 22,11,BLTC Blue,Kings Park,No. 4,Jenson Witherington,Jamie Dodd,Jamie Dodd,0-6,0,6,0,1,Completed,true,false,true
+UA018112,16 Oct 22,11,Royal South Yarra,Le Page,No. 1,Lucy Staple,Sascha Whitelaw,Sascha Whitelaw,4-6,4,6,0,1,Completed,true,false,false
+UA018112,16 Oct 22,11,Royal South Yarra,Le Page,No. 2,Charlotte Syme,Matthew Lan,Matthew Lan,2-6,2,6,0,1,Completed,true,false,false
+UA018112,16 Oct 22,11,Royal South Yarra,Le Page,No. 3,Charlotte Cannon,Benson James,Charlotte Cannon,6-1,6,1,1,0,Completed,true,false,false
+UA018112,16 Oct 22,11,Royal South Yarra,Le Page,No. 4,Will Staple,Johan Singh,Johan Singh,0-6,0,6,0,1,Completed,true,false,false
+UA018113,16 Oct 22,11,Coatesville,Aspendale,No. 1,Ethan Nemenman,Xavier Pippo,Ethan Nemenman,6-4,6,4,1,0,Completed,true,false,false
+UA018113,16 Oct 22,11,Coatesville,Aspendale,No. 2,Jack Tan,Jake Meyers,Jack Tan,6-1,6,1,1,0,Completed,true,false,false
+UA018113,16 Oct 22,11,Coatesville,Aspendale,No. 3,Allegra Romangnino,Tom McCaul,Tom McCaul,6-7,6,7,0,1,Completed,true,false,false
+UA018113,16 Oct 22,11,Coatesville,Aspendale,No. 4,Lara Smith,Kai Shmitke,Lara Smith,6-0,6,0,1,0,Completed,true,false,false
+UA018114,16 Oct 22,11,Parkdale,BLTC WHITE,No. 1,Hudson Pleysier,Phillip Brophy,Phillip Brophy,0-6,0,6,0,1,Completed,true,false,false
+UA018114,16 Oct 22,11,Parkdale,BLTC WHITE,No. 2,Gabriel Hordern,Louis Wu,Louis Wu,2-6,2,6,0,1,Completed,true,false,true
+UA018114,16 Oct 22,11,Parkdale,BLTC WHITE,No. 3,Mia Bellette,Victor Lee,Victor Lee,2-6,2,6,0,1,Completed,true,false,false
+UA018114,16 Oct 22,11,Parkdale,BLTC WHITE,No. 4,Marieke Roest,Daniel McLean,Marieke Roest,6-3,6,3,1,0,Completed,true,false,false
+UA018121,23 Oct 22,12,Parkdale,Coatesville,No. 1,Hudson Pleysier,Ethan Nemenman,Ethan Nemenman,2-6,2,6,0,1,Completed,true,false,false
+UA018121,23 Oct 22,12,Parkdale,Coatesville,No. 2,Gabriel Hordern,Sophie Gershenzon,Sophie Gershenzon,3-6,3,6,0,1,Completed,true,false,false
+UA018121,23 Oct 22,12,Parkdale,Coatesville,No. 3,Mia Bellette,Jack Tan,Jack Tan,3-6,3,6,0,1,Completed,true,false,false
+UA018121,23 Oct 22,12,Parkdale,Coatesville,No. 4,John Carino,Allegra Romangnino,Allegra Romangnino,2-6,2,6,0,1,Completed,true,false,false
+UA018123,23 Oct 22,12,BLTC WHITE,Kings Park,No. 1,Maddie Ballantyne,Rhyle Vaz,Rhyle Vaz,0-6,0,6,0,1,Completed,true,false,false
+UA018123,23 Oct 22,12,BLTC WHITE,Kings Park,No. 2,William Wheeler,Julian Wang,Julian Wang,6-7,6,7,0,1,Completed,true,false,false
+UA018123,23 Oct 22,12,BLTC WHITE,Kings Park,No. 3,Victor Lee,Jamie Dodd,Jamie Dodd,4-6,4,6,0,1,Completed,true,false,true
+UA018123,23 Oct 22,12,BLTC WHITE,Kings Park,No. 4,Daniel McLean,Caelan Vekas,Caelan Vekas,1-6,1,6,0,1,Completed,true,false,false
+UA018124,23 Oct 22,12,Royal South Yarra,BLTC Blue,No. 1,Charlotte Syme,Mali Nayna,Mali Nayna,1-6,1,6,0,1,Completed,true,false,false
+UA018124,23 Oct 22,12,Royal South Yarra,BLTC Blue,No. 2,Charlotte Cannon,Ava Nimorakiotakis,Ava Nimorakiotakis,0-6,0,6,0,1,Completed,true,false,false
+UA018124,23 Oct 22,12,Royal South Yarra,BLTC Blue,No. 3,Martha Nicholls,Callum Tzounos,Callum Tzounos,2-6,2,6,0,1,Completed,true,false,false
+UA018124,23 Oct 22,12,Royal South Yarra,BLTC Blue,No. 4,Teddy Syme,Jenson Witherington,Teddy Syme,6-3,6,3,1,0,Completed,true,false,false
+UA018131,06 Nov 22,13,Coatesville,Royal South Yarra,No. 1,Ethan Nemenman,Lucy Staple,Ethan Nemenman,6-4,6,4,1,0,Completed,true,false,false
+UA018131,06 Nov 22,13,Coatesville,Royal South Yarra,No. 2,Sophie Gershenzon,Charlotte Syme,Sophie Gershenzon,6-2,6,2,1,0,Completed,true,false,false
+UA018131,06 Nov 22,13,Coatesville,Royal South Yarra,No. 3,Jack Tan,Martha Nicholls,Jack Tan,6-2,6,2,1,0,Completed,true,false,false
+UA018131,06 Nov 22,13,Coatesville,Royal South Yarra,No. 4,Lara Smith,Teddy Syme,Teddy Syme,2-6,2,6,0,1,Completed,true,false,false
+UA018132,06 Nov 22,13,BLTC Blue,Parkdale,No. 1,Mali Nayna,Hudson Pleysier,Mali Nayna,6-2,6,2,1,0,Completed,true,false,false
+UA018132,06 Nov 22,13,BLTC Blue,Parkdale,No. 2,Timothy Gibbins,Gabriel Hordern,Gabriel Hordern,2-6,2,6,0,1,Completed,true,false,false
+UA018132,06 Nov 22,13,BLTC Blue,Parkdale,No. 3,Jenson Witherington,Mia Bellette,Mia Bellette,2-6,2,6,0,1,Completed,true,false,false
+UA018132,06 Nov 22,13,BLTC Blue,Parkdale,No. 4,Aiden Leonard,John Carino,Aiden Leonard,6-3,6,3,1,0,Completed,true,false,false
+UA018133,06 Nov 22,13,Kings Park,Le Page,No. 1,Zeyi Xu,Sascha Whitelaw,Zeyi Xu,6-1,6,1,1,0,Completed,true,false,false
+UA018133,06 Nov 22,13,Kings Park,Le Page,No. 2,Julian Wang,Jonathan Friedman,Julian Wang,6-3,6,3,1,0,Completed,true,false,false
+UA018133,06 Nov 22,13,Kings Park,Le Page,No. 3,Jamie Dodd,Matthew Lan,Jamie Dodd,6-0,6,0,1,0,Completed,true,true,false
+UA018133,06 Nov 22,13,Kings Park,Le Page,No. 4,Caelan Vekas,Johan Singh,Caelan Vekas,6-2,6,2,1,0,Completed,true,false,false
+UA018134,06 Nov 22,13,Aspendale,BLTC WHITE,No. 1,Xavier Pippo,Phillip Brophy,Phillip Brophy,5-7,5,7,0,1,Completed,true,false,false
+UA018134,06 Nov 22,13,Aspendale,BLTC WHITE,No. 2,Jake Meyers,Louis We,Louis We,3-6,3,6,0,1,Completed,true,false,true
+UA018134,06 Nov 22,13,Aspendale,BLTC WHITE,No. 3,Kai Shmitke,Victor Lee,Victor Lee,3-6,3,6,0,1,Completed,true,false,false
+UA018134,06 Nov 22,13,Aspendale,BLTC WHITE,No. 4,Otto Horan,Daniel McLean,Daniel McLean,6-7,6,7,0,1,Completed,true,false,false
+UA018141,13 Nov 22,14,Coatesville,BLTC Blue,No. 1,Ethan Nemenman,Mali Nayna,Mali Nayna,4-6,4,6,0,1,Completed,true,false,false
+UA018141,13 Nov 22,14,Coatesville,BLTC Blue,No. 2,Sophie Gershenzon,Ava Nimorakiotakis,Ava Nimorakiotakis,1-6,1,6,0,1,Completed,true,false,false
+UA018141,13 Nov 22,14,Coatesville,BLTC Blue,No. 3,Jack Tan,Callum Tzounos,Callum Tzounos,5-7,5,7,0,1,Completed,true,false,false
+UA018141,13 Nov 22,14,Coatesville,BLTC Blue,No. 4,Lara Smith,Aiden Leonard,Lara Smith,6-2,6,2,1,0,Completed,true,false,false
+UA018142,13 Nov 22,14,Parkdale,Royal South Yarra,No. 1,Gabriel Hordern,Lucy Staple,Gabriel Hordern,7-5,7,5,1,0,Completed,true,false,false
+UA018142,13 Nov 22,14,Parkdale,Royal South Yarra,No. 2,Mia Bellette,Charlotte Cannon,Mia Bellette,6-2,6,2,1,0,Completed,true,false,false
+UA018142,13 Nov 22,14,Parkdale,Royal South Yarra,No. 3,Marieke Roest,Martha Nicholls,Marieke Roest,6-2,6,2,1,0,Completed,true,false,false
+UA018142,13 Nov 22,14,Parkdale,Royal South Yarra,No. 4,John Carino,Will Staple,John Carino,6-0,6,0,1,0,Completed,true,false,false
+UA018143,13 Nov 22,14,Kings Park,Aspendale,No. 1,Rhyle Vaz,Brendan McCaul,Rhyle Vaz,6-3,6,3,1,0,Completed,true,false,false
+UA018143,13 Nov 22,14,Kings Park,Aspendale,No. 2,Zeyi Xu,Xavier Pippo,Xavier Pippo,3-6,3,6,0,1,Completed,true,false,false
+UA018143,13 Nov 22,14,Kings Park,Aspendale,No. 3,Jamie Dodd,Tom McCaul,Jamie Dodd,6-0,6,0,1,0,Completed,true,true,false
+UA018143,13 Nov 22,14,Kings Park,Aspendale,No. 4,Caelan Vekas,Otto Horan,Caelan Vekas,6-1,6,1,1,0,Completed,true,false,false
+UA018144,13 Nov 22,14,BLTC WHITE,Le Page,No. 1,Phillip Brophy,Sascha Whitelaw,Phillip Brophy,6-1,6,1,1,0,Completed,true,false,false
+UA018144,13 Nov 22,14,BLTC WHITE,Le Page,No. 2,Adriana Taleb,Jonathan Friedman,Adriana Taleb,6-3,6,3,1,0,Completed,true,false,false
+UA018144,13 Nov 22,14,BLTC WHITE,Le Page,No. 3,William Wheeler,Matthew Lan,William Wheeler,6-4,6,4,1,0,Completed,true,false,false
+UA018144,13 Nov 22,14,BLTC WHITE,Le Page,No. 4,Victor Lee,Benson James,Victor Lee,6-1,6,1,1,0,Completed,true,false,false
+UA018301,,16,Kings Park,BLTC Blue,No. 1,Rhyle Vaz,Mali Nayna,Rhyle Vaz,6-4,6,4,1,0,Completed,true,false,false
+UA018301,,16,Kings Park,BLTC Blue,No. 2,Zeyi Xu,Ava Nimorakiotakis,Ava Nimorakiotakis,3-6,3,6,0,1,Completed,true,false,false
+UA018301,,16,Kings Park,BLTC Blue,No. 3,Julian Wang,Callum Tzounos,Julian Wang,6-3,6,3,1,0,Completed,true,false,false
+UA018301,,16,Kings Park,BLTC Blue,No. 4,Caelan Vekas,Timothy Gibbins,Caelan Vekas,6-4,6,4,1,0,Completed,true,false,false
+UA018302,,16,Coatesville,BLTC WHITE,No. 1,Ethan Nemenman,Phillip Brophy,Phillip Brophy,4-6,4,6,0,1,Completed,true,false,false
+UA018302,,16,Coatesville,BLTC WHITE,No. 2,Sophie Gershenzon,Adriana Taleb,Adriana Taleb,3-6,3,6,0,1,Completed,true,false,false
+UA018302,,16,Coatesville,BLTC WHITE,No. 3,Jack Tan,William Wheeler,Jack Tan,6-2,6,2,1,0,Completed,true,false,false
+UA018302,,16,Coatesville,BLTC WHITE,No. 4,Allegra Romangnino,Daniel McLean,Allegra Romangnino,6-4,6,4,1,0,Completed,true,false,false
+UA018321,,17,Kings Park,Coatesville,No. 1,Rhyle Vaz,Ethan Nemenman,Rhyle Vaz,6-1,6,1,1,0,Completed,true,false,false
+UA018321,,17,Kings Park,Coatesville,No. 2,Zeyi Xu,Sophie Gershenzon,Sophie Gershenzon,5-7,5,7,0,1,Completed,true,false,false
+UA018321,,17,Kings Park,Coatesville,No. 3,Julian Wang,Jack Tan,Jack Tan,4-6,4,6,0,1,Completed,true,false,false
+UA018321,,17,Kings Park,Coatesville,No. 4,Jamie Dodd,Allegra Romangnino,Jamie Dodd,7-5,7,5,1,0,Completed,true,true,false

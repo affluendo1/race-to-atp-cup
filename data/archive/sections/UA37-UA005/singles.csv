@@ -1,0 +1,159 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA005011,27 Jul 25,1,BLTC,Dendy Park,No. 1,Tobias Jena,William Wang,Tobias Jena,6-4,6,4,1,0,Completed,true,false,false
+UA005011,27 Jul 25,1,BLTC,Dendy Park,No. 2,Finley Gehde,Mark Lu,Mark Lu,1-6,1,6,0,1,Completed,true,false,false
+UA005011,27 Jul 25,1,BLTC,Dendy Park,No. 3,Giorgio Colla,Nathaniel Michaelides,Nathaniel Michaelides,3-6,3,6,0,1,Completed,true,false,true
+UA005011,27 Jul 25,1,BLTC,Dendy Park,No. 4,Sophie Turner,Vivaan Ram,Sophie Turner,6-2,6,2,1,0,Completed,true,false,true
+UA005013,27 Jul 25,1,Black Rock,Kooyong,No. 1,Lachie Rhodes,Will Morris,Lachie Rhodes,6-3,6,3,1,0,Completed,true,false,false
+UA005013,27 Jul 25,1,Black Rock,Kooyong,No. 2,Mika Looschilder,Oliver Barnao,Oliver Barnao,4-6,4,6,0,1,Completed,true,false,false
+UA005013,27 Jul 25,1,Black Rock,Kooyong,No. 3,Hanna Langridge,David Varano,David Varano,0-6,0,6,0,1,Completed,true,false,false
+UA005013,27 Jul 25,1,Black Rock,Kooyong,No. 4,Jakob Misso,[Unnamed player — TROLS UA005013 away code 4],Jakob Misso,6-0,6,0,1,0,Completed,false,false,false
+UA005014,27 Jul 25,1,Le Page,Middle Brighton,No. 1,Charles Trinh,Hanbo Zhang,Charles Trinh,7-5,7,5,1,0,Completed,true,false,false
+UA005014,27 Jul 25,1,Le Page,Middle Brighton,No. 2,Cedric Conway,Elisha Ecimovic,Cedric Conway,6-4,6,4,1,0,Completed,true,false,false
+UA005014,27 Jul 25,1,Le Page,Middle Brighton,No. 3,Angus Wang,Angus Van De Water,Angus Van De Water,1-6,1,6,0,1,Completed,true,true,false
+UA005014,27 Jul 25,1,Le Page,Middle Brighton,No. 4,Leon Sukuan Li,William Yan,William Yan,4-6,4,6,0,1,Completed,true,true,false
+UA005021,03 Aug 25,2,Middle Brighton,BLTC,No. 1,Hanbo Zhang,Tijana Kravic,Hanbo Zhang,7-6,7,6,1,0,Completed,true,false,false
+UA005021,03 Aug 25,2,Middle Brighton,BLTC,No. 2,Elisha Ecimovic,Tobias Jena,Elisha Ecimovic,6-1,6,1,1,0,Completed,true,false,false
+UA005021,03 Aug 25,2,Middle Brighton,BLTC,No. 3,Malek Marouff,Giorgio Colla,Malek Marouff,6-1,6,1,1,0,Completed,true,false,false
+UA005021,03 Aug 25,2,Middle Brighton,BLTC,No. 4,Angus Van De Water,Sophie Turner,Angus Van De Water,6-4,6,4,1,0,Completed,true,false,false
+UA005023,03 Aug 25,2,Royal South Yarra,Black Rock,No. 1,Will Steedman,Lachie Rhodes,Lachie Rhodes,3-6,3,6,0,1,Completed,true,false,false
+UA005023,03 Aug 25,2,Royal South Yarra,Black Rock,No. 2,Mia Ruda,Mika Looschilder,Mia Ruda,6-0,6,0,1,0,Completed,true,false,false
+UA005023,03 Aug 25,2,Royal South Yarra,Black Rock,No. 3,William Jones,Hanna Langridge,William Jones,7-6,7,6,1,0,Completed,true,false,false
+UA005023,03 Aug 25,2,Royal South Yarra,Black Rock,No. 4,Edie May Trent,Amelie Smith,Amelie Smith,2-6,2,6,0,1,Completed,true,false,false
+UA005024,03 Aug 25,2,Kooyong,Le Page,No. 1,Will Morris,Charles Trinh,Will Morris,6-1,6,1,1,0,Completed,true,false,false
+UA005024,03 Aug 25,2,Kooyong,Le Page,No. 2,David Varano,Cedric Conway,David Varano,6-4,6,4,1,0,Completed,true,false,false
+UA005024,03 Aug 25,2,Kooyong,Le Page,No. 3,Leon Yu,Jasmine Petkoff,Jasmine Petkoff,4-6,4,6,0,1,Completed,true,false,false
+UA005024,03 Aug 25,2,Kooyong,Le Page,No. 4,Zeyi Xu,Angus Wang,Zeyi Xu,6-0,6,0,1,0,Completed,true,false,true
+UA005031,10 Aug 25,3,BLTC,Kooyong,No. 1,Tijana Kravic,Oliver Barnao,Oliver Barnao,4-6,4,6,0,1,Completed,true,false,false
+UA005031,10 Aug 25,3,BLTC,Kooyong,No. 2,Finley Gehde,David Varano,David Varano,1-6,1,6,0,1,Completed,true,false,false
+UA005031,10 Aug 25,3,BLTC,Kooyong,No. 3,Giorgio Colla,Leon Yu,Leon Yu,3-6,3,6,0,1,Completed,true,false,false
+UA005031,10 Aug 25,3,BLTC,Kooyong,No. 4,Sophie Turner,Zeyi Xu,Sophie Turner,6-3,6,3,1,0,Completed,true,false,false
+UA005033,10 Aug 25,3,Black Rock,Dendy Park,No. 1,Hanna Langridge,William Wang,William Wang,0-6,0,6,0,1,Completed,true,false,false
+UA005033,10 Aug 25,3,Black Rock,Dendy Park,No. 2,Jakob Misso,Mark Lu,Mark Lu,4-6,4,6,0,1,Completed,true,false,false
+UA005033,10 Aug 25,3,Black Rock,Dendy Park,No. 3,Amelie Smith,Lachlan Stark,Lachlan Stark,3-6,3,6,0,1,Completed,true,false,false
+UA005033,10 Aug 25,3,Black Rock,Dendy Park,No. 4,Toby Leeds,Adele Naujalyte,Toby Leeds,6-0,6,0,1,0,Completed,true,true,false
+UA005034,10 Aug 25,3,Le Page,Royal South Yarra,No. 1,Charles Trinh,Will Steedman,Charles Trinh,6-3,6,3,1,0,Completed,true,false,false
+UA005034,10 Aug 25,3,Le Page,Royal South Yarra,No. 2,Cedric Conway,Mia Ruda,Mia Ruda,1-6,1,6,0,1,Completed,true,false,false
+UA005034,10 Aug 25,3,Le Page,Royal South Yarra,No. 3,Angus Wang,George Thomas,Angus Wang,7-6,7,6,1,0,Completed,true,true,false
+UA005034,10 Aug 25,3,Le Page,Royal South Yarra,No. 4,Jonathan Friedman,Tiyaan Jayawardena,Jonathan Friedman,6-0,6,0,1,0,Completed,true,true,false
+UA005041,17 Aug 25,4,Royal South Yarra,BLTC,No. 1,Mia Ruda,Tijana Kravic,Tijana Kravic,4-6,4,6,0,1,Completed,true,false,false
+UA005041,17 Aug 25,4,Royal South Yarra,BLTC,No. 2,William Jones,Finley Gehde,Finley Gehde,4-6,4,6,0,1,Completed,true,false,false
+UA005041,17 Aug 25,4,Royal South Yarra,BLTC,No. 3,Ayaka Marutani,Giorgio Colla,Ayaka Marutani,6-3,6,3,1,0,Completed,true,false,false
+UA005041,17 Aug 25,4,Royal South Yarra,BLTC,No. 4,George Thomas,Sophie Turner,Sophie Turner,1-6,1,6,0,1,Completed,true,false,false
+UA005043,17 Aug 25,4,Middle Brighton,Black Rock,No. 1,Elisha Ecimovic,Lachie Rhodes,Lachie Rhodes,2-6,2,6,0,1,Completed,true,false,false
+UA005043,17 Aug 25,4,Middle Brighton,Black Rock,No. 2,Malek Marouff,Mika Looschilder,Malek Marouff,6-1,6,1,1,0,Completed,true,false,false
+UA005043,17 Aug 25,4,Middle Brighton,Black Rock,No. 3,Angus Van De Water,Jakob Misso,Jakob Misso,3-6,3,6,0,1,Completed,true,false,false
+UA005043,17 Aug 25,4,Middle Brighton,Black Rock,No. 4,William Yan,Amelie Smith,Amelie Smith,2-6,2,6,0,1,Completed,true,false,false
+UA005044,17 Aug 25,4,Dendy Park,Le Page,No. 1,William Wang,Charles Trinh,William Wang,6-0,6,0,1,0,Completed,true,false,false
+UA005044,17 Aug 25,4,Dendy Park,Le Page,No. 2,Lachlan Stark,Cedric Conway,Cedric Conway,4-6,4,6,0,1,Completed,true,false,false
+UA005044,17 Aug 25,4,Dendy Park,Le Page,No. 3,Adele Naujalyte,Jasmine Petkoff,Jasmine Petkoff,2-6,2,6,0,1,Completed,true,false,false
+UA005044,17 Aug 25,4,Dendy Park,Le Page,No. 4,Shiv Gaind,Jonathan Friedman,Shiv Gaind,6-4,6,4,1,0,Completed,true,true,true
+UA005051,24 Aug 25,5,Black Rock,Le Page,No. 1,Mika Looschilder,Charles Trinh,Mika Looschilder,6-1,6,1,1,0,Completed,true,false,false
+UA005051,24 Aug 25,5,Black Rock,Le Page,No. 2,Hanna Langridge,Jasmine Petkoff,Jasmine Petkoff,4-6,4,6,0,1,Completed,true,false,false
+UA005051,24 Aug 25,5,Black Rock,Le Page,No. 3,Jakob Misso,Youl Friedman,Jakob Misso,6-0,6,0,1,0,Completed,true,false,true
+UA005051,24 Aug 25,5,Black Rock,Le Page,No. 4,Amelie Smith,Angus Wang,Amelie Smith,6-1,6,1,1,0,Completed,true,false,true
+UA005052,24 Aug 25,5,Middle Brighton,Kooyong,No. 1,Hanbo Zhang,Will Morris,Will Morris,5-7,5,7,0,1,Completed,true,false,false
+UA005052,24 Aug 25,5,Middle Brighton,Kooyong,No. 2,Malek Marouff,Oliver Barnao,Oliver Barnao,2-6,2,6,0,1,Completed,true,false,false
+UA005052,24 Aug 25,5,Middle Brighton,Kooyong,No. 3,William Yan,David Varano,David Varano,2-6,2,6,0,1,Completed,true,false,false
+UA005052,24 Aug 25,5,Middle Brighton,Kooyong,No. 4,Peter Wu,Leon Yu,Leon Yu,5-7,5,7,0,1,Completed,true,false,false
+UA005053,24 Aug 25,5,Royal South Yarra,Dendy Park,No. 1,Will Steedman,William Wang,William Wang,2-6,2,6,0,1,Completed,true,false,false
+UA005053,24 Aug 25,5,Royal South Yarra,Dendy Park,No. 2,Mia Ruda,Mark Lu,Mia Ruda,6-2,6,2,1,0,Completed,true,false,false
+UA005053,24 Aug 25,5,Royal South Yarra,Dendy Park,No. 3,Edie May Trent,Lachlan Stark,Lachlan Stark,2-6,2,6,0,1,Completed,true,false,false
+UA005053,24 Aug 25,5,Royal South Yarra,Dendy Park,No. 4,Tiyaan Jayawardena,Adele Naujalyte,Adele Naujalyte,2-6,2,6,0,1,Completed,true,false,false
+UA005062,31 Aug 25,6,Le Page,BLTC,No. 1,Cedric Conway,Tobias Jena,Tobias Jena,6-7,6,7,0,1,Completed,true,false,false
+UA005062,31 Aug 25,6,Le Page,BLTC,No. 2,Jasmine Petkoff,Finley Gehde,Jasmine Petkoff,6-4,6,4,1,0,Completed,true,false,false
+UA005062,31 Aug 25,6,Le Page,BLTC,No. 3,Youl Friedman,Giorgio Colla,Youl Friedman,7-5,7,5,1,0,Completed,true,true,false
+UA005062,31 Aug 25,6,Le Page,BLTC,No. 4,Angus Wang,Sophie Turner,Sophie Turner,1-6,1,6,0,1,Completed,true,true,false
+UA005063,31 Aug 25,6,Kooyong,Royal South Yarra,No. 1,Will Morris,Will Steedman,Will Morris,6-2,6,2,1,0,Completed,true,false,false
+UA005063,31 Aug 25,6,Kooyong,Royal South Yarra,No. 2,David Varano,William Jones,William Jones,3-6,3,6,0,1,Completed,true,false,false
+UA005063,31 Aug 25,6,Kooyong,Royal South Yarra,No. 3,Zeyi Xu,Edie May Trent,Zeyi Xu,6-2,6,2,1,0,Completed,true,false,false
+UA005063,31 Aug 25,6,Kooyong,Royal South Yarra,No. 4,Max Land,George Thomas,Max Land,6-3,6,3,1,0,Completed,true,true,false
+UA005064,31 Aug 25,6,Dendy Park,Middle Brighton,No. 1,Felix Hobbs,Hanbo Zhang,Hanbo Zhang,0-6,0,6,0,1,Completed,true,true,false
+UA005064,31 Aug 25,6,Dendy Park,Middle Brighton,No. 2,Mark Lu,Elisha Ecimovic,Elisha Ecimovic,1-6,1,6,0,1,Completed,true,false,false
+UA005064,31 Aug 25,6,Dendy Park,Middle Brighton,No. 3,Lachlan Stark,Malek Marouff,Malek Marouff,1-6,1,6,0,1,Completed,true,false,false
+UA005064,31 Aug 25,6,Dendy Park,Middle Brighton,No. 4,Adele Naujalyte,Peter Wu,Peter Wu,2-6,2,6,0,1,Completed,true,false,false
+UA005071,07 Sep 25,7,BLTC,Black Rock,No. 1,Tijana Kravic,Lachie Rhodes,Lachie Rhodes,2-6,2,6,0,1,Completed,true,false,false
+UA005071,07 Sep 25,7,BLTC,Black Rock,No. 2,Tobias Jena,Hanna Langridge,Tobias Jena,6-0,6,0,1,0,Completed,true,false,false
+UA005071,07 Sep 25,7,BLTC,Black Rock,No. 3,Finley Gehde,Jakob Misso,Jakob Misso,3-6,3,6,0,1,Completed,true,false,false
+UA005071,07 Sep 25,7,BLTC,Black Rock,No. 4,Giorgio Colla,Amelie Smith,Amelie Smith,4-6,4,6,0,1,Completed,true,false,false
+UA005073,07 Sep 25,7,Middle Brighton,Royal South Yarra,No. 1,Elisha Ecimovic,Mia Ruda,Mia Ruda,4-6,4,6,0,1,Completed,true,false,false
+UA005073,07 Sep 25,7,Middle Brighton,Royal South Yarra,No. 2,Malek Marouff,Will Steedman,Will Steedman,1-6,1,6,0,1,Completed,true,false,false
+UA005073,07 Sep 25,7,Middle Brighton,Royal South Yarra,No. 3,Angus Van De Water,Ayaka Marutani,Angus Van De Water,7-6,7,6,1,0,Completed,true,false,false
+UA005073,07 Sep 25,7,Middle Brighton,Royal South Yarra,No. 4,Peter Wu,Tiyaan Jayawardena,Peter Wu,6-0,6,0,1,0,Completed,true,false,false
+UA005074,07 Sep 25,7,Kooyong,Dendy Park,No. 1,Oliver Barnao,Anikin Margis,Anikin Margis,3-6,3,6,0,1,Completed,true,false,false
+UA005074,07 Sep 25,7,Kooyong,Dendy Park,No. 2,Leon Yu,Mark Lu,Leon Yu,6-1,6,1,1,0,Completed,true,false,false
+UA005074,07 Sep 25,7,Kooyong,Dendy Park,No. 3,Zeyi Xu,Adele Naujalyte,Zeyi Xu,6-1,6,1,1,0,Completed,true,false,false
+UA005074,07 Sep 25,7,Kooyong,Dendy Park,No. 4,Evelyn Pajovic,Shiv Gaind,Evelyn Pajovic,6-4,6,4,1,0,Completed,true,false,true
+UA005081,14 Sep 25,8,Dendy Park,BLTC,No. 1,Anikin Margis,Tijana Kravic,Anikin Margis,6-3,6,3,1,0,Completed,true,false,false
+UA005081,14 Sep 25,8,Dendy Park,BLTC,No. 2,William Wang,Tobias Jena,Tobias Jena,2-6,2,6,0,1,Completed,true,false,false
+UA005081,14 Sep 25,8,Dendy Park,BLTC,No. 3,Lachlan Stark,Finley Gehde,Finley Gehde,3-6,3,6,0,1,Completed,true,false,false
+UA005081,14 Sep 25,8,Dendy Park,BLTC,No. 4,Adele Naujalyte,Sophie Turner,Sophie Turner,3-6,3,6,0,1,Completed,true,false,false
+UA005083,14 Sep 25,8,Kooyong,Black Rock,No. 1,Oliver Barnao,Lachie Rhodes,Lachie Rhodes,1-6,1,6,0,1,Completed,true,false,false
+UA005083,14 Sep 25,8,Kooyong,Black Rock,No. 2,David Varano,Hanna Langridge,David Varano,6-4,6,4,1,0,Completed,true,false,false
+UA005083,14 Sep 25,8,Kooyong,Black Rock,No. 3,Zeyi Xu,Jakob Misso,Zeyi Xu,6-0,6,0,1,0,Completed,true,false,false
+UA005083,14 Sep 25,8,Kooyong,Black Rock,No. 4,Evelyn Pajovic,Hugo Davis,Hugo Davis,0-6,0,6,0,1,Completed,true,false,true
+UA005084,14 Sep 25,8,Middle Brighton,Le Page,No. 1,Kevin Kolner,Charles Trinh,Kevin Kolner,6-2,6,2,1,0,Completed,true,true,false
+UA005084,14 Sep 25,8,Middle Brighton,Le Page,No. 2,Malek Marouff,Cedric Conway,Malek Marouff,6-4,6,4,1,0,Completed,true,false,false
+UA005084,14 Sep 25,8,Middle Brighton,Le Page,No. 3,Angus Van De Water,Jasmine Petkoff,Angus Van De Water,6-3,6,3,1,0,Completed,true,false,false
+UA005084,14 Sep 25,8,Middle Brighton,Le Page,No. 4,Peter Wu,Jonathan Friedman,Peter Wu,6-0,6,0,1,0,Completed,true,false,true
+UA005091,12 Oct 25,9,BLTC,Middle Brighton,No. 1,Tobias Jena,Hanbo Zhang,Hanbo Zhang,2-6,2,6,0,1,Completed,true,false,false
+UA005091,12 Oct 25,9,BLTC,Middle Brighton,No. 2,Finley Gehde,Malek Marouff,Malek Marouff,5-7,5,7,0,1,Completed,true,false,false
+UA005091,12 Oct 25,9,BLTC,Middle Brighton,No. 3,Giorgio Colla,William Yan,William Yan,1-6,1,6,0,1,Completed,true,false,false
+UA005091,12 Oct 25,9,BLTC,Middle Brighton,No. 4,Sophie Turner,Peter Wu,Peter Wu,1-6,1,6,0,1,Completed,true,false,false
+UA005093,12 Oct 25,9,Black Rock,Royal South Yarra,No. 1,Lachie Rhodes,Will Steedman,Lachie Rhodes,6-3,6,3,1,0,Completed,true,false,false
+UA005093,12 Oct 25,9,Black Rock,Royal South Yarra,No. 2,Mika Looschilder,Edie May Trent,Mika Looschilder,6-1,6,1,1,0,Completed,true,false,false
+UA005093,12 Oct 25,9,Black Rock,Royal South Yarra,No. 3,Hanna Langridge,George Thomas,Hanna Langridge,6-2,6,2,1,0,Completed,true,false,false
+UA005093,12 Oct 25,9,Black Rock,Royal South Yarra,No. 4,Jakob Misso,Tiyaan Jayawardena,Jakob Misso,6-1,6,1,1,0,Completed,true,false,false
+UA005094,12 Oct 25,9,Le Page,Kooyong,No. 1,Charles Trinh,Will Morris,Charles Trinh,7-5,7,5,1,0,Completed,true,false,false
+UA005094,12 Oct 25,9,Le Page,Kooyong,No. 2,Jasmine Petkoff,David Varano,David Varano,1-6,1,6,0,1,Completed,true,false,false
+UA005094,12 Oct 25,9,Le Page,Kooyong,No. 3,Youl Friedman,Zeyi Xu,Zeyi Xu,4-6,4,6,0,1,Completed,true,true,false
+UA005094,12 Oct 25,9,Le Page,Kooyong,No. 4,Angus Wang,Evelyn Pajovic,Evelyn Pajovic,2-6,2,6,0,1,Completed,true,true,false
+UA005101,19 Oct 25,10,Kooyong,BLTC,No. 1,Will Morris,Tijana Kravic,Will Morris,6-2,6,2,1,0,Completed,true,false,false
+UA005101,19 Oct 25,10,Kooyong,BLTC,No. 2,Oliver Barnao,Tobias Jena,Tobias Jena,1-6,1,6,0,1,Completed,true,false,false
+UA005101,19 Oct 25,10,Kooyong,BLTC,No. 3,David Varano,Finley Gehde,David Varano,6-3,6,3,1,0,Completed,true,false,false
+UA005101,19 Oct 25,10,Kooyong,BLTC,No. 4,Leon Yu,Martin Yuan,Martin Yuan,4-6,4,6,0,1,Completed,true,false,true
+UA005103,19 Oct 25,10,Dendy Park,Black Rock,No. 1,Anikin Margis,Mika Looschilder,Mika Looschilder,3-6,3,6,0,1,Completed,true,false,false
+UA005103,19 Oct 25,10,Dendy Park,Black Rock,No. 2,Mark Lu,Hanna Langridge,Hanna Langridge,5-7,5,7,0,1,Completed,true,false,false
+UA005103,19 Oct 25,10,Dendy Park,Black Rock,No. 3,Lachlan Stark,Jakob Misso,Jakob Misso,3-6,3,6,0,1,Completed,true,false,false
+UA005103,19 Oct 25,10,Dendy Park,Black Rock,No. 4,Adele Naujalyte,Amelie Smith,Adele Naujalyte,6-2,6,2,1,0,Completed,true,false,false
+UA005104,19 Oct 25,10,Royal South Yarra,Le Page,No. 1,Will Steedman,Charles Trinh,Will Steedman,6-4,6,4,1,0,Completed,true,false,false
+UA005104,19 Oct 25,10,Royal South Yarra,Le Page,No. 2,William Jones,Cedric Conway,William Jones,6-3,6,3,1,0,Completed,true,false,false
+UA005104,19 Oct 25,10,Royal South Yarra,Le Page,No. 3,Albie Hutchins,Jasmine Petkoff,Albie Hutchins,6-3,6,3,1,0,Completed,true,false,false
+UA005104,19 Oct 25,10,Royal South Yarra,Le Page,No. 4,Edie May Trent,Angus Wang,Edie May Trent,6-1,6,1,1,0,Completed,true,false,true
+UA005113,26 Oct 25,11,Black Rock,Middle Brighton,No. 1,Mika Looschilder,Elisha Ecimovic,Elisha Ecimovic,0-2,0,2,0,1,Completed,false,false,false
+UA005113,26 Oct 25,11,Black Rock,Middle Brighton,No. 2,Hanna Langridge,Angus Van De Water,Angus Van De Water,1-3,1,3,0,1,Completed,false,false,false
+UA005121,09 Nov 25,12,Le Page,Black Rock,No. 1,Charles Trinh,Lachie Rhodes,Lachie Rhodes,4-6,4,6,0,1,Completed,true,false,false
+UA005121,09 Nov 25,12,Le Page,Black Rock,No. 2,Cedric Conway,Amelie Smith,Amelie Smith,3-6,3,6,0,1,Completed,true,false,false
+UA005121,09 Nov 25,12,Le Page,Black Rock,No. 3,Jasmine Petkoff,Leo Suszko,Leo Suszko,1-6,1,6,0,1,Completed,true,false,true
+UA005121,09 Nov 25,12,Le Page,Black Rock,No. 4,Jonathan Friedman,Bahya Hamada,Bahya Hamada,3-6,3,6,0,1,Completed,true,true,true
+UA005122,09 Nov 25,12,Kooyong,Middle Brighton,No. 1,Will Morris,Hanbo Zhang,Will Morris,7-6,7,6,1,0,Completed,true,false,false
+UA005122,09 Nov 25,12,Kooyong,Middle Brighton,No. 2,Oliver Barnao,Malek Marouff,Malek Marouff,1-6,1,6,0,1,Completed,true,false,false
+UA005122,09 Nov 25,12,Kooyong,Middle Brighton,No. 3,Leon Yu,William Yan,Leon Yu,6-3,6,3,1,0,Completed,true,false,false
+UA005122,09 Nov 25,12,Kooyong,Middle Brighton,No. 4,Evelyn Pajovic,Peter Wu,Peter Wu,1-6,1,6,0,1,Completed,true,false,false
+UA005132,16 Nov 25,13,BLTC,Le Page,No. 1,Tijana Kravic,Cedric Conway,Cedric Conway,3-6,3,6,0,1,Completed,true,false,false
+UA005132,16 Nov 25,13,BLTC,Le Page,No. 2,Finley Gehde,Jasmine Petkoff,Finley Gehde,6-4,6,4,1,0,Completed,true,false,false
+UA005132,16 Nov 25,13,BLTC,Le Page,No. 3,Giorgio Colla,Jonathan Friedman,Giorgio Colla,6-3,6,3,1,0,Completed,true,false,true
+UA005132,16 Nov 25,13,BLTC,Le Page,No. 4,Victor Lee,Angus Wang,Victor Lee,6-0,6,0,1,0,Completed,true,true,true
+UA005133,16 Nov 25,13,Royal South Yarra,Kooyong,No. 1,Will Steedman,Will Morris,Will Steedman,6-2,6,2,1,0,Completed,true,false,false
+UA005133,16 Nov 25,13,Royal South Yarra,Kooyong,No. 2,Ayaka Marutani,David Varano,David Varano,2-6,2,6,0,1,Completed,true,false,false
+UA005133,16 Nov 25,13,Royal South Yarra,Kooyong,No. 3,Edie May Trent,Zeyi Xu,Zeyi Xu,2-6,2,6,0,1,Completed,true,false,false
+UA005133,16 Nov 25,13,Royal South Yarra,Kooyong,No. 4,Tiyaan Jayawardena,Evelyn Pajovic,Evelyn Pajovic,0-6,0,6,0,1,Completed,true,false,false
+UA005134,16 Nov 25,13,Middle Brighton,Dendy Park,No. 1,Elisha Ecimovic,William Wang,William Wang,1-6,1,6,0,1,Completed,true,false,false
+UA005134,16 Nov 25,13,Middle Brighton,Dendy Park,No. 2,Malek Marouff,Mark Lu,Malek Marouff,6-1,6,1,1,0,Completed,true,false,false
+UA005134,16 Nov 25,13,Middle Brighton,Dendy Park,No. 3,Angus Van De Water,Lachlan Stark,Angus Van De Water,6-1,6,1,1,0,Completed,true,false,false
+UA005134,16 Nov 25,13,Middle Brighton,Dendy Park,No. 4,Peter Wu,Adele Naujalyte,Peter Wu,6-1,6,1,1,0,Completed,true,false,false
+UA005141,23 Nov 25,14,Black Rock,BLTC,No. 1,Mika Looschilder,Tobias Jena,Mika Looschilder,7-5,7,5,1,0,Completed,true,false,false
+UA005141,23 Nov 25,14,Black Rock,BLTC,No. 2,Hanna Langridge,Finley Gehde,Finley Gehde,6-7,6,7,0,1,Completed,true,false,false
+UA005141,23 Nov 25,14,Black Rock,BLTC,No. 3,Jakob Misso,Giorgio Colla,Jakob Misso,6-3,6,3,1,0,Completed,true,false,false
+UA005141,23 Nov 25,14,Black Rock,BLTC,No. 4,Amelie Smith,Sophie Turner,Amelie Smith,7-5,7,5,1,0,Completed,true,false,false
+UA005301,,16,Black Rock,BLTC,No. 1,Lachie Rhodes,Tijana Kravic,Lachie Rhodes,7-6,7,6,1,0,Completed,true,false,false
+UA005301,,16,Black Rock,BLTC,No. 2,Hanna Langridge,Finley Gehde,Hanna Langridge,6-3,6,3,1,0,Completed,true,false,false
+UA005301,,16,Black Rock,BLTC,No. 3,Jakob Misso,Giorgio Colla,Jakob Misso,6-3,6,3,1,0,Completed,true,false,false
+UA005301,,16,Black Rock,BLTC,No. 4,Amelie Smith,Sophie Turner,Sophie Turner,2-6,2,6,0,1,Completed,true,false,false
+UA005302,,16,Middle Brighton,Kooyong,No. 1,Hanbo Zhang,Will Morris,Will Morris,2-6,2,6,0,1,Completed,true,false,false
+UA005302,,16,Middle Brighton,Kooyong,No. 2,Elisha Ecimovic,Oliver Barnao,Elisha Ecimovic,6-1,6,1,1,0,Completed,true,false,false
+UA005302,,16,Middle Brighton,Kooyong,No. 3,Malek Marouff,David Varano,David Varano,4-6,4,6,0,1,Completed,true,false,false
+UA005302,,16,Middle Brighton,Kooyong,No. 4,Peter Wu,Leon Yu,Peter Wu,6-3,6,3,1,0,Completed,true,false,false
+UA005321,,17,Black Rock,Middle Brighton,No. 1,Lachie Rhodes,Elisha Ecimovic,Lachie Rhodes,6-2,6,2,1,0,Completed,true,false,false
+UA005321,,17,Black Rock,Middle Brighton,No. 2,Mika Looschilder,Malek Marouff,Mika Looschilder,6-1,6,1,1,0,Completed,true,false,false
+UA005321,,17,Black Rock,Middle Brighton,No. 3,Hanna Langridge,Angus Van De Water,Angus Van De Water,0-6,0,6,0,1,Completed,true,false,false
+UA005321,,17,Black Rock,Middle Brighton,No. 4,Jakob Misso,Peter Wu,Jakob Misso,6-4,6,4,1,0,Completed,true,false,false

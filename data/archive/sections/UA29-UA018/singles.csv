@@ -1,0 +1,77 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA018031,01 Aug 21,3,Dendy Park,Parkdale,No. 1,Toby Hansen,Alexander Collins,Toby Hansen,6-2,6,2,1,0,Completed,true,false,false
+UA018031,01 Aug 21,3,Dendy Park,Parkdale,No. 2,Harvey Stroeder,Taina Harwood,Harvey Stroeder,7-5,7,5,1,0,Completed,true,false,false
+UA018031,01 Aug 21,3,Dendy Park,Parkdale,No. 3,Emir Zmak,Atalay Simek,Emir Zmak,6-0,6,0,1,0,Completed,true,false,false
+UA018031,01 Aug 21,3,Dendy Park,Parkdale,No. 4,Miller Bennett,Oscar Gohel,Miller Bennett,6-2,6,2,1,0,Completed,true,false,false
+UA018033,01 Aug 21,3,Kings Park,BLTC,No. 1,Daniel Gao,Noah Anderson,Noah Anderson,3-6,3,6,0,1,Completed,true,false,false
+UA018033,01 Aug 21,3,Kings Park,BLTC,No. 2,Suzanne Shaiil,Zane Rushton,Zane Rushton,4-6,4,6,0,1,Completed,true,false,false
+UA018033,01 Aug 21,3,Kings Park,BLTC,No. 3,Katherine Armstrong,Jimmy Rushton,Jimmy Rushton,5-7,5,7,0,1,Completed,true,false,false
+UA018033,01 Aug 21,3,Kings Park,BLTC,No. 4,[Unnamed player — TROLS UA018033 home code 4],Ryder Anderson,Ryder Anderson,0-6,0,6,0,1,Completed,false,false,false
+UA018034,01 Aug 21,3,Carmelite,GPHC,No. 1,Marius Gozdzicki,Sabina Rush,Sabina Rush,3-6,3,6,0,1,Completed,true,false,false
+UA018034,01 Aug 21,3,Carmelite,GPHC,No. 2,Talia Kiprillis,Bianca Blecher,Talia Kiprillis,6-3,6,3,1,0,Completed,true,false,false
+UA018034,01 Aug 21,3,Carmelite,GPHC,No. 3,Cooper Griggs,Benjamin Joyce,Cooper Griggs,6-3,6,3,1,0,Completed,true,false,false
+UA018034,01 Aug 21,3,Carmelite,GPHC,No. 4,Lewis Grant,Owen Burns,Owen Burns,5-7,5,7,0,1,Completed,true,false,false
+UA018093,07 Nov 21,9,Kings Park,GPHC,No. 1,Daniel Gao,Benjamin Joyce,Daniel Gao,6-1,6,1,1,0,Completed,true,false,false
+UA018093,07 Nov 21,9,Kings Park,GPHC,No. 2,Suzanne Shaiil,Joseph Karalapillai,Suzanne Shaiil,6-1,6,1,1,0,Completed,true,false,false
+UA018093,07 Nov 21,9,Kings Park,GPHC,No. 3,Ellie Frey,Hunter Gatt,Ellie Frey,6-1,6,1,1,0,Completed,true,false,false
+UA018093,07 Nov 21,9,Kings Park,GPHC,No. 4,Evelyn Pajovic,Julia Scott,Julia Scott,1-6,1,6,0,1,Completed,true,true,false
+UA018094,07 Nov 21,9,Carmelite,Parkdale,No. 1,Lucas Bljaic,Xander Louey,Lucas Bljaic,6-3,6,3,1,0,Completed,true,false,false
+UA018094,07 Nov 21,9,Carmelite,Parkdale,No. 2,Elizabeth Richardson,Atalay Simek,Elizabeth Richardson,6-4,6,4,1,0,Completed,true,false,false
+UA018094,07 Nov 21,9,Carmelite,Parkdale,No. 3,Cooper Griggs,Harry Austin,Cooper Griggs,6-2,6,2,1,0,Completed,true,false,false
+UA018094,07 Nov 21,9,Carmelite,Parkdale,No. 4,Lewis Grant,Tom Ovenden,Tom Ovenden,3-6,3,6,0,1,Completed,true,false,true
+UA018101,14 Nov 21,10,Parkdale,Dendy Park,No. 1,Xander Louey,Toby Hansen,Xander Louey,6-4,6,4,1,0,Completed,true,false,false
+UA018101,14 Nov 21,10,Parkdale,Dendy Park,No. 2,Atalay Simek,Harvey Stroeder,Atalay Simek,6-1,6,1,1,0,Completed,true,false,false
+UA018101,14 Nov 21,10,Parkdale,Dendy Park,No. 3,Harry Austin,Ben Vodilsoki,Ben Vodilsoki,1-6,1,6,0,1,Completed,true,false,false
+UA018101,14 Nov 21,10,Parkdale,Dendy Park,No. 4,Oscar Gohel,Miller Bennett,Miller Bennett,1-6,1,6,0,1,Completed,true,false,false
+UA018103,14 Nov 21,10,BLTC,Kings Park,No. 1,Andrew McIntyre,Daniel Gao,Daniel Gao,0-6,0,6,0,1,Completed,true,false,false
+UA018103,14 Nov 21,10,BLTC,Kings Park,No. 2,Noah Anderson,Suzanne Shaiil,Noah Anderson,6-4,6,4,1,0,Completed,true,false,false
+UA018103,14 Nov 21,10,BLTC,Kings Park,No. 3,Jimmy Rushton,Katherine Armstrong,Katherine Armstrong,3-6,3,6,0,1,Completed,true,false,false
+UA018103,14 Nov 21,10,BLTC,Kings Park,No. 4,Ryder Anderson,Ellie Frey,Ellie Frey,1-6,1,6,0,1,Completed,true,false,false
+UA018104,14 Nov 21,10,GPHC,Carmelite,No. 1,Benjamin Joyce,Marius Gozdzicki,Marius Gozdzicki,3-6,3,6,0,1,Completed,true,false,false
+UA018104,14 Nov 21,10,GPHC,Carmelite,No. 2,Owen Burns,Talia Kiprillis,Talia Kiprillis,1-6,1,6,0,1,Completed,true,false,false
+UA018104,14 Nov 21,10,GPHC,Carmelite,No. 3,Joseph Karalapillai,Cooper Griggs,Cooper Griggs,4-6,4,6,0,1,Completed,true,false,false
+UA018104,14 Nov 21,10,GPHC,Carmelite,No. 4,Julia Scott,Lewis Grant,Julia Scott,7-5,7,5,1,0,Completed,true,false,false
+UA018111,21 Nov 21,11,Dendy Park,GPHC,No. 1,Toby Hansen,Bianca Blecher,Toby Hansen,6-4,6,4,1,0,Completed,true,false,false
+UA018111,21 Nov 21,11,Dendy Park,GPHC,No. 2,Emir Zmak,Joseph Karalapillai,Emir Zmak,6-0,6,0,1,0,Completed,true,false,false
+UA018111,21 Nov 21,11,Dendy Park,GPHC,No. 3,Ben Vodilsoki,Hunter Gatt,Ben Vodilsoki,6-2,6,2,1,0,Completed,true,false,false
+UA018111,21 Nov 21,11,Dendy Park,GPHC,No. 4,Miller Bennett,Julia Scott,Julia Scott,1-6,1,6,0,1,Completed,true,false,false
+UA018113,21 Nov 21,11,Kings Park,Mentone,No. 1,Daniel Gao,Wanda Bacskai,Wanda Bacskai,3-6,3,6,0,1,Completed,true,false,false
+UA018113,21 Nov 21,11,Kings Park,Mentone,No. 2,Suzanne Shaiil,Michelle Ye,Suzanne Shaiil,6-2,6,2,1,0,Completed,true,false,false
+UA018113,21 Nov 21,11,Kings Park,Mentone,No. 3,Katherine Armstrong,Amira Bird,Katherine Armstrong,6-3,6,3,1,0,Completed,true,false,false
+UA018113,21 Nov 21,11,Kings Park,Mentone,No. 4,Ellie Frey,Zach Granell,Zach Granell,4-6,4,6,0,1,Completed,true,false,false
+UA018114,21 Nov 21,11,Carmelite,BLTC,No. 1,Lucas Bljaic,Andrew McIntyre,Lucas Bljaic,6-1,6,1,1,0,Completed,true,false,false
+UA018114,21 Nov 21,11,Carmelite,BLTC,No. 2,Elizabeth Richardson,Jimmy Rushton,Elizabeth Richardson,6-0,6,0,1,0,Completed,true,false,false
+UA018114,21 Nov 21,11,Carmelite,BLTC,No. 3,Marius Gozdzicki,Ryder Anderson,Marius Gozdzicki,6-0,6,0,1,0,Completed,true,false,false
+UA018114,21 Nov 21,11,Carmelite,BLTC,No. 4,Talia Kiprillis,Matvey Roche,Matvey Roche,4-6,4,6,0,1,Completed,true,false,true
+UA018121,28 Nov 21,12,Carmelite,Kings Park,No. 1,Lucas Bljaic,Daniel Gao,Lucas Bljaic,6-3,6,3,1,0,Completed,true,false,false
+UA018121,28 Nov 21,12,Carmelite,Kings Park,No. 2,Elizabeth Richardson,Katherine Armstrong,Elizabeth Richardson,6-1,6,1,1,0,Completed,true,false,false
+UA018121,28 Nov 21,12,Carmelite,Kings Park,No. 3,Talia Kiprillis,Ellie Frey,Talia Kiprillis,6-0,6,0,1,0,Completed,true,false,false
+UA018121,28 Nov 21,12,Carmelite,Kings Park,No. 4,Lewis Grant,Evelyn Pajovic,Evelyn Pajovic,6-7,6,7,0,1,Completed,true,false,true
+UA018122,28 Nov 21,12,Parkdale,Mentone,No. 1,Alexander Collins,Kosta Mavrikos,Kosta Mavrikos,3-6,3,6,0,1,Completed,true,false,false
+UA018122,28 Nov 21,12,Parkdale,Mentone,No. 2,Xander Louey,Wanda Bacskai,Wanda Bacskai,5-7,5,7,0,1,Completed,true,false,false
+UA018122,28 Nov 21,12,Parkdale,Mentone,No. 3,Harry Austin,Amira Bird,Harry Austin,7-5,7,5,1,0,Completed,true,false,false
+UA018122,28 Nov 21,12,Parkdale,Mentone,No. 4,Oscar Gohel,Zach Granell,Zach Granell,6-7,6,7,0,1,Completed,true,false,false
+UA018123,28 Nov 21,12,BLTC,GPHC,No. 1,Andrew McIntyre,Bianca Blecher,Andrew McIntyre,6-3,6,3,1,0,Completed,true,false,false
+UA018123,28 Nov 21,12,BLTC,GPHC,No. 2,Noah Anderson,Kara Freitag,Kara Freitag,4-6,4,6,0,1,Completed,true,false,false
+UA018123,28 Nov 21,12,BLTC,GPHC,No. 3,Jimmy Rushton,Benjamin Joyce,Jimmy Rushton,6-3,6,3,1,0,Completed,true,false,false
+UA018123,28 Nov 21,12,BLTC,GPHC,No. 4,Ryder Anderson,Julia Scott,Julia Scott,2-6,2,6,0,1,Completed,true,false,false
+UA018132,05 Dec 21,13,Dendy Park,Carmelite,No. 1,Toby Hansen,Lucas Bljaic,Toby Hansen,6-3,6,3,1,0,Completed,true,false,false
+UA018132,05 Dec 21,13,Dendy Park,Carmelite,No. 2,Harvey Stroeder,Elizabeth Richardson,Elizabeth Richardson,2-6,2,6,0,1,Completed,true,false,false
+UA018132,05 Dec 21,13,Dendy Park,Carmelite,No. 3,Emir Zmak,Marius Gozdzicki,Emir Zmak,6-4,6,4,1,0,Completed,true,false,false
+UA018132,05 Dec 21,13,Dendy Park,Carmelite,No. 4,Ben Vodilsoki,Cooper Griggs,Cooper Griggs,2-6,2,6,0,1,Completed,true,false,false
+UA018134,05 Dec 21,13,Mentone,BLTC,No. 1,Wanda Bacskai,Andrew McIntyre,Wanda Bacskai,6-1,6,1,1,0,Completed,true,false,false
+UA018134,05 Dec 21,13,Mentone,BLTC,No. 2,Michelle Ye,Noah Anderson,Noah Anderson,3-6,3,6,0,1,Completed,true,false,false
+UA018134,05 Dec 21,13,Mentone,BLTC,No. 3,Amira Bird,Zane Rushton,Zane Rushton,5-7,5,7,0,1,Completed,true,false,false
+UA018134,05 Dec 21,13,Mentone,BLTC,No. 4,Zach Granell,Jimmy Rushton,Jimmy Rushton,0-6,0,6,0,1,Completed,true,false,false
+UA018141,12 Dec 21,14,Kings Park,Dendy Park,No. 1,Daniel Gao,Toby Hansen,Toby Hansen,2-6,2,6,0,1,Completed,true,false,false
+UA018141,12 Dec 21,14,Kings Park,Dendy Park,No. 2,Suzanne Shaiil,Harvey Stroeder,Suzanne Shaiil,6-4,6,4,1,0,Completed,true,false,false
+UA018141,12 Dec 21,14,Kings Park,Dendy Park,No. 3,Katherine Armstrong,Miller Bennett,Katherine Armstrong,6-1,6,1,1,0,Completed,true,false,false
+UA018141,12 Dec 21,14,Kings Park,Dendy Park,No. 4,Evelyn Pajovic,Mason Ma,Mason Ma,3-6,3,6,0,1,Completed,true,true,true
+UA018143,12 Dec 21,14,GPHC,Mentone,No. 1,Bianca Blecher,Kosta Mavrikos,Kosta Mavrikos,2-6,2,6,0,1,Completed,true,false,false
+UA018143,12 Dec 21,14,GPHC,Mentone,No. 2,Kara Freitag,Wanda Bacskai,Wanda Bacskai,2-6,2,6,0,1,Completed,true,false,false
+UA018143,12 Dec 21,14,GPHC,Mentone,No. 3,Joseph Karalapillai,Michelle Ye,Michelle Ye,4-6,4,6,0,1,Completed,true,false,false
+UA018143,12 Dec 21,14,GPHC,Mentone,No. 4,Hunter Gatt,Amira Bird,Amira Bird,0-6,0,6,0,1,Completed,true,false,false
+UA018144,12 Dec 21,14,BLTC,Parkdale,No. 1,Noah Anderson,Xander Louey,Xander Louey,2-6,2,6,0,1,Completed,true,false,false
+UA018144,12 Dec 21,14,BLTC,Parkdale,No. 2,Zane Rushton,Atalay Simek,Atalay Simek,1-6,1,6,0,1,Completed,true,false,false
+UA018144,12 Dec 21,14,BLTC,Parkdale,No. 3,Jimmy Rushton,Harry Austin,Jimmy Rushton,6-1,6,1,1,0,Completed,true,false,false
+UA018144,12 Dec 21,14,BLTC,Parkdale,No. 4,Ryder Anderson,Oscar Gohel,Ryder Anderson,6-2,6,2,1,0,Completed,true,false,false

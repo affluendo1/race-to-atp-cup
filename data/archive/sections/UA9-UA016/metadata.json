@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA9-UA016",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2011",
+  "season_id": "UA9",
+  "season_label": "Spring 2011",
+  "source_section_code": "UA016",
+  "section_label": "Section 16",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World",
+      "wins": 11,
+      "points": 107,
+      "percentage": 152.63,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Chelsea Heights",
+      "wins": 8,
+      "points": 85,
+      "percentage": 119.12,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Lauriston",
+      "wins": 7,
+      "points": 76,
+      "percentage": 111.38,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Caulfield Rec",
+      "wins": 5,
+      "points": 64,
+      "percentage": 88.4,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Coatesville",
+      "wins": 4,
+      "points": 63,
+      "percentage": 92.08,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Murrumbeena",
+      "wins": 5,
+      "points": 60,
+      "percentage": 83.24,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Mordialloc 1",
+      "wins": 3,
+      "points": 56,
+      "percentage": 94.21,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Mordialloc 2",
+      "wins": 3,
+      "points": 49,
+      "percentage": 74.26,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA9-UA016",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 59,
+  "singles_rubbers": 204,
+  "doubles_rubbers": 102,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

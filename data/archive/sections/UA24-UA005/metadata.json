@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA24-UA005",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2019",
+  "season_id": "UA24",
+  "season_label": "Autumn 2019",
+  "source_section_code": "UA005",
+  "section_label": "Section 5",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Parkdale",
+      "wins": 13,
+      "points": 109,
+      "percentage": 147.18,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Tennis World",
+      "wins": 8,
+      "points": 90,
+      "percentage": 144.03,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "St Joan of Arc",
+      "wins": 9,
+      "points": 89,
+      "percentage": 113.93,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Carmelite",
+      "wins": 9,
+      "points": 83,
+      "percentage": 109.83,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong",
+      "wins": 6,
+      "points": 66,
+      "percentage": 91.47,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Beaumaris CC",
+      "wins": 4,
+      "points": 47,
+      "percentage": 71.0,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 2,
+      "points": 40,
+      "percentage": 73.74,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park",
+      "wins": 2,
+      "points": 36,
+      "percentage": 77.86,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA24-UA005",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

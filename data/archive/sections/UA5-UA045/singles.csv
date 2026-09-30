@@ -1,0 +1,224 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA045011,19 Jul 09,1,Dendy Park,Lauriston,No. 1,Charlie Richards,Andrej Saule,Andrej Saule,0-6,0,6,0,1,Completed,true,false,false
+UA045011,19 Jul 09,1,Dendy Park,Lauriston,No. 2,Michael Slater,Cheryl Chen,Michael Slater,7-5,7,5,1,0,Completed,true,false,false
+UA045011,19 Jul 09,1,Dendy Park,Lauriston,No. 3,Joshua Crigan,Noah Hulme,Joshua Crigan,7-6,7,6,1,0,Completed,true,false,false
+UA045012,19 Jul 09,1,Mordialloc,Kooyong Scotch,No. 1,Chloe Vuong,Cindy Tamber,Cindy Tamber,5-7,5,7,0,1,Completed,true,false,false
+UA045012,19 Jul 09,1,Mordialloc,Kooyong Scotch,No. 2,Carlin Dutt,Kate Cunningham,Carlin Dutt,6-3,6,3,1,0,Completed,true,false,false
+UA045012,19 Jul 09,1,Mordialloc,Kooyong Scotch,No. 3,Chelsea Dutt,Chris Warwick,Chelsea Dutt,6-2,6,2,1,0,Completed,true,false,false
+UA045012,19 Jul 09,1,Mordialloc,Kooyong Scotch,No. 4,Isabella Baker,Jack Murphy,Jack Murphy,2-6,2,6,0,1,Completed,true,false,false
+UA045013,19 Jul 09,1,GPHC,BLTC,No. 1,Louisa Janssen,Darcy Stuttard,Darcy Stuttard,6-7,6,7,0,1,Completed,true,false,false
+UA045013,19 Jul 09,1,GPHC,BLTC,No. 2,Emma Selbie,Jack McCartney,Emma Selbie,6-2,6,2,1,0,Completed,true,false,false
+UA045013,19 Jul 09,1,GPHC,BLTC,No. 3,Hugh McDonald,Peter Warden,Hugh McDonald,7-6,7,6,1,0,Completed,true,false,false
+UA045013,19 Jul 09,1,GPHC,BLTC,No. 4,Ellie Capannolo,Josh Sinclair,Josh Sinclair,1-6,1,6,0,1,Completed,true,false,false
+UA045014,19 Jul 09,1,Beaumaris CC,All Souls,No. 1,Jessica Elliot,Nick Jeffery,Nick Jeffery,2-6,2,6,0,1,Completed,true,false,false
+UA045014,19 Jul 09,1,Beaumaris CC,All Souls,No. 2,Maddie Kinsey,Gareth Myher,Gareth Myher,4-6,4,6,0,1,Completed,true,false,false
+UA045014,19 Jul 09,1,Beaumaris CC,All Souls,No. 3,Chiara Dogliotti,Peter Tsigros,Peter Tsigros,4-6,4,6,0,1,Completed,true,false,false
+UA045014,19 Jul 09,1,Beaumaris CC,All Souls,No. 4,Darby Bush,Alex Demiri,Darby Bush,6-2,6,2,1,0,Completed,true,false,false
+UA045021,26 Jul 09,2,All Souls,Dendy Park,No. 1,Gareth Myher,Charlie Richards,Gareth Myher,6-3,6,3,1,0,Completed,true,false,false
+UA045021,26 Jul 09,2,All Souls,Dendy Park,No. 2,Peter Tsigros,Joshua Crigan,Joshua Crigan,4-6,4,6,0,1,Completed,true,false,false
+UA045021,26 Jul 09,2,All Souls,Dendy Park,No. 3,Alex Demiri,Luke Lynch,Luke Lynch,4-6,4,6,0,1,Completed,true,false,false
+UA045021,26 Jul 09,2,All Souls,Dendy Park,No. 4,David Mirmilstein,Andy Bissett,Andy Bissett,3-6,3,6,0,1,Completed,true,false,false
+UA045022,26 Jul 09,2,Lauriston,Mordialloc,No. 1,Cheryl Chen,Chloe Vuong,Cheryl Chen,6-4,6,4,1,0,Completed,true,false,false
+UA045022,26 Jul 09,2,Lauriston,Mordialloc,No. 2,Andrej Saule,Carlin Dutt,Andrej Saule,6-2,6,2,1,0,Completed,true,false,false
+UA045022,26 Jul 09,2,Lauriston,Mordialloc,No. 3,Noah Hulme,Chelsea Dutt,Chelsea Dutt,2-6,2,6,0,1,Completed,true,false,false
+UA045022,26 Jul 09,2,Lauriston,Mordialloc,No. 4,Jennifer O'Connor,Helena Bromidis,Helena Bromidis,4-6,4,6,0,1,Completed,true,false,false
+UA045023,26 Jul 09,2,Kooyong Scotch,GPHC,No. 1,Cindy Tamber,Louisa Janssen,Louisa Janssen,4-6,4,6,0,1,Completed,true,false,false
+UA045023,26 Jul 09,2,Kooyong Scotch,GPHC,No. 2,Camille Hojaij,Emma Selbie,Emma Selbie,1-6,1,6,0,1,Completed,true,false,false
+UA045023,26 Jul 09,2,Kooyong Scotch,GPHC,No. 3,Chris Warwick,Jack Chelotti,Chris Warwick,7-6,7,6,1,0,Completed,true,false,false
+UA045023,26 Jul 09,2,Kooyong Scotch,GPHC,No. 4,Georgina Cunningham,Ellie Capannolo,Georgina Cunningham,6-1,6,1,1,0,Completed,true,false,false
+UA045024,26 Jul 09,2,BLTC,Beaumaris CC,No. 1,Jack McCartney,Jessica Elliot,Jack McCartney,6-1,6,1,1,0,Completed,true,false,false
+UA045024,26 Jul 09,2,BLTC,Beaumaris CC,No. 2,Peter Warden,Maddie Kinsey,Maddie Kinsey,2-6,2,6,0,1,Completed,true,false,false
+UA045024,26 Jul 09,2,BLTC,Beaumaris CC,No. 3,Zac Gorman,Natalie Chiciane,Natalie Chiciane,1-6,1,6,0,1,Completed,true,false,false
+UA045024,26 Jul 09,2,BLTC,Beaumaris CC,No. 4,Josh Sinclair,Julia Gage,Julia Gage,4-6,4,6,0,1,Completed,true,false,false
+UA045031,02 Aug 09,3,Dendy Park,BLTC,No. 1,Andy Bissett,Darcy Stuttard,Darcy Stuttard,3-6,3,6,0,1,Completed,true,false,false
+UA045031,02 Aug 09,3,Dendy Park,BLTC,No. 2,Charlie Richards,Jack McCartney,Jack McCartney,0-6,0,6,0,1,Completed,true,false,false
+UA045031,02 Aug 09,3,Dendy Park,BLTC,No. 3,Michael Slater,Peter Warden,Michael Slater,6-1,6,1,1,0,Completed,true,false,false
+UA045031,02 Aug 09,3,Dendy Park,BLTC,No. 4,Christopher Byrnes,Zac Gorman,Christopher Byrnes,6-4,6,4,1,0,Completed,true,false,false
+UA045032,02 Aug 09,3,Mordialloc,All Souls,No. 1,Scott Rowe,Nick Jeffery,Nick Jeffery,0-6,0,6,0,1,Completed,true,false,false
+UA045032,02 Aug 09,3,Mordialloc,All Souls,No. 2,Chelsea Dutt,Gareth Myher,Gareth Myher,3-6,3,6,0,1,Completed,true,false,false
+UA045032,02 Aug 09,3,Mordialloc,All Souls,No. 3,Helena Bromidis,Peter Tsigros,Peter Tsigros,3-6,3,6,0,1,Completed,true,false,false
+UA045032,02 Aug 09,3,Mordialloc,All Souls,No. 4,Isabella Baker,David Mirmilstein,David Mirmilstein,3-6,3,6,0,1,Completed,true,false,false
+UA045033,02 Aug 09,3,GPHC,Lauriston,No. 1,Emma Selbie,Andrej Saule,Emma Selbie,7-6,7,6,1,0,Completed,true,false,false
+UA045033,02 Aug 09,3,GPHC,Lauriston,No. 2,Shelby Argent,Cheryl Chen,Cheryl Chen,5-7,5,7,0,1,Completed,true,false,false
+UA045033,02 Aug 09,3,GPHC,Lauriston,No. 3,Jack Chelotti,Noah Hulme,Noah Hulme,4-6,4,6,0,1,Completed,true,false,false
+UA045033,02 Aug 09,3,GPHC,Lauriston,No. 4,Ellie Capannolo,Jennifer O'Connor,Ellie Capannolo,6-3,6,3,1,0,Completed,true,false,false
+UA045034,02 Aug 09,3,Beaumaris CC,Kooyong Scotch,No. 1,Maddie Kinsey,Cindy Tamber,Cindy Tamber,4-6,4,6,0,1,Completed,true,false,false
+UA045034,02 Aug 09,3,Beaumaris CC,Kooyong Scotch,No. 2,Emily Baber,Camille Hojaij,Camille Hojaij,4-6,4,6,0,1,Completed,true,false,false
+UA045034,02 Aug 09,3,Beaumaris CC,Kooyong Scotch,No. 3,Julia Gage,Kate Cunningham,Kate Cunningham,1-6,1,6,0,1,Completed,true,false,false
+UA045034,02 Aug 09,3,Beaumaris CC,Kooyong Scotch,No. 4,Darby Bush,Chris Warwick,Darby Bush,6-4,6,4,1,0,Completed,true,false,false
+UA045041,09 Aug 09,4,Kooyong Scotch,Dendy Park,No. 1,Cindy Tamber,Michael Slater,Michael Slater,5-7,5,7,0,1,Completed,true,false,false
+UA045041,09 Aug 09,4,Kooyong Scotch,Dendy Park,No. 2,Kate Cunningham,Luke Lynch,Luke Lynch,4-6,4,6,0,1,Completed,true,false,false
+UA045041,09 Aug 09,4,Kooyong Scotch,Dendy Park,No. 3,Chris Warwick,Joshua Crigan,Joshua Crigan,4-6,4,6,0,1,Completed,true,false,false
+UA045041,09 Aug 09,4,Kooyong Scotch,Dendy Park,No. 4,Jack Murphy,Christopher Byrnes,Jack Murphy,6-3,6,3,1,0,Completed,true,false,false
+UA045042,09 Aug 09,4,BLTC,Mordialloc,No. 1,Darcy Stuttard,Chloe Vuong,Darcy Stuttard,6-0,6,0,1,0,Completed,true,false,false
+UA045042,09 Aug 09,4,BLTC,Mordialloc,No. 2,Peter Warden,Carlin Dutt,Carlin Dutt,2-6,2,6,0,1,Completed,true,false,false
+UA045042,09 Aug 09,4,BLTC,Mordialloc,No. 3,Zac Gorman,Helena Bromidis,Zac Gorman,6-3,6,3,1,0,Completed,true,false,false
+UA045042,09 Aug 09,4,BLTC,Mordialloc,No. 4,Josh Sinclair,Isabella Baker,Isabella Baker,1-6,1,6,0,1,Completed,true,false,false
+UA045043,09 Aug 09,4,All Souls,GPHC,No. 1,Nick Jeffery,Louisa Janssen,Nick Jeffery,6-1,6,1,1,0,Completed,true,false,false
+UA045043,09 Aug 09,4,All Souls,GPHC,No. 2,Gareth Myher,Hugh McDonald,Gareth Myher,6-4,6,4,1,0,Completed,true,false,false
+UA045043,09 Aug 09,4,All Souls,GPHC,No. 3,Alex Demiri,Jack Chelotti,Alex Demiri,6-4,6,4,1,0,Completed,true,false,false
+UA045043,09 Aug 09,4,All Souls,GPHC,No. 4,David Mirmilstein,Ellie Capannolo,David Mirmilstein,6-1,6,1,1,0,Completed,true,false,false
+UA045044,09 Aug 09,4,Lauriston,Beaumaris CC,No. 1,Andrej Saule,Jessica Elliot,Jessica Elliot,2-6,2,6,0,1,Completed,true,false,false
+UA045044,09 Aug 09,4,Lauriston,Beaumaris CC,No. 2,Cheryl Chen,Maddie Kinsey,Cheryl Chen,6-2,6,2,1,0,Completed,true,false,false
+UA045044,09 Aug 09,4,Lauriston,Beaumaris CC,No. 3,Noah Hulme,Emily Baber,Emily Baber,4-6,4,6,0,1,Completed,true,false,false
+UA045044,09 Aug 09,4,Lauriston,Beaumaris CC,No. 4,Jennifer O'Connor,Julia Gage,Julia Gage,1-6,1,6,0,1,Completed,true,false,false
+UA045052,16 Aug 09,5,All Souls,BLTC,No. 1,Nick Jeffery,Darcy Stuttard,Nick Jeffery,6-4,6,4,1,0,Completed,true,false,false
+UA045052,16 Aug 09,5,All Souls,BLTC,No. 2,Peter Tsigros,Jack McCartney,Peter Tsigros,6-2,6,2,1,0,Completed,true,false,false
+UA045052,16 Aug 09,5,All Souls,BLTC,No. 3,Alex Demiri,Zac Gorman,Alex Demiri,6-3,6,3,1,0,Completed,true,false,false
+UA045052,16 Aug 09,5,All Souls,BLTC,No. 4,David Mirmilstein,Josh Sinclair,David Mirmilstein,6-4,6,4,1,0,Completed,true,false,false
+UA045053,16 Aug 09,5,Kooyong Scotch,Lauriston,No. 1,Cindy Tamber,Andrej Saule,,5-5,5,5,0,0,Completed,false,false,false
+UA045053,16 Aug 09,5,Kooyong Scotch,Lauriston,No. 2,Camille Hojaij,Cheryl Chen,Cheryl Chen,1-6,1,6,0,1,Completed,true,false,false
+UA045053,16 Aug 09,5,Kooyong Scotch,Lauriston,No. 3,Chris Warwick,Noah Hulme,Chris Warwick,4-0,4,0,1,0,Completed,false,false,false
+UA045053,16 Aug 09,5,Kooyong Scotch,Lauriston,No. 4,Georgina Cunningham,Jennifer O'Connor,Georgina Cunningham,6-4,6,4,1,0,Completed,true,false,false
+UA045054,16 Aug 09,5,Dendy Park,Mordialloc,No. 1,Andy Bissett,Chloe Vuong,Andy Bissett,7-5,7,5,1,0,Completed,true,false,false
+UA045054,16 Aug 09,5,Dendy Park,Mordialloc,No. 2,Luke Lynch,Carlin Dutt,Carlin Dutt,1-6,1,6,0,1,Completed,true,false,false
+UA045054,16 Aug 09,5,Dendy Park,Mordialloc,No. 3,Joshua Crigan,Scott Rowe,Joshua Crigan,6-2,6,2,1,0,Completed,true,false,false
+UA045054,16 Aug 09,5,Dendy Park,Mordialloc,No. 4,Christopher Byrnes,Isabella Baker,Christopher Byrnes,7-5,7,5,1,0,Completed,true,false,false
+UA045061,23 Aug 09,6,Mordialloc,GPHC,No. 1,Chloe Vuong,Hugh McDonald,Chloe Vuong,6-4,6,4,1,0,Completed,true,false,false
+UA045061,23 Aug 09,6,Mordialloc,GPHC,No. 2,Carlin Dutt,Shelby Argent,Carlin Dutt,7-6,7,6,1,0,Completed,true,false,false
+UA045061,23 Aug 09,6,Mordialloc,GPHC,No. 3,Scott Rowe,Jack Chelotti,Jack Chelotti,5-7,5,7,0,1,Completed,true,false,false
+UA045061,23 Aug 09,6,Mordialloc,GPHC,No. 4,Chelsea Dutt,Ellie Capannolo,Chelsea Dutt,6-3,6,3,1,0,Completed,true,false,false
+UA045062,23 Aug 09,6,Beaumaris CC,Dendy Park,No. 1,Natalie Chiciane,Andy Bissett,Andy Bissett,0-6,0,6,0,1,Completed,true,false,false
+UA045062,23 Aug 09,6,Beaumaris CC,Dendy Park,No. 2,Chiara Dogliotti,Charlie Richards,Charlie Richards,1-6,1,6,0,1,Completed,true,false,false
+UA045062,23 Aug 09,6,Beaumaris CC,Dendy Park,No. 3,Julia Gage,Joshua Crigan,Joshua Crigan,2-6,2,6,0,1,Completed,true,false,false
+UA045062,23 Aug 09,6,Beaumaris CC,Dendy Park,No. 4,Darby Bush,Christopher Byrnes,Darby Bush,6-3,6,3,1,0,Completed,true,false,false
+UA045063,23 Aug 09,6,BLTC,Kooyong Scotch,No. 1,Darcy Stuttard,Camille Hojaij,Darcy Stuttard,6-2,6,2,1,0,Completed,true,false,false
+UA045063,23 Aug 09,6,BLTC,Kooyong Scotch,No. 2,Jack McCartney,Kate Cunningham,Kate Cunningham,6-7,6,7,0,1,Completed,true,false,false
+UA045063,23 Aug 09,6,BLTC,Kooyong Scotch,No. 3,Peter Warden,Chris Warwick,Chris Warwick,3-6,3,6,0,1,Completed,true,false,false
+UA045063,23 Aug 09,6,BLTC,Kooyong Scotch,No. 4,Josh Sinclair,Jack Murphy,Jack Murphy,2-6,2,6,0,1,Completed,true,false,false
+UA045064,23 Aug 09,6,Lauriston,All Souls,No. 1,Andrej Saule,Gareth Myher,Gareth Myher,3-6,3,6,0,1,Completed,true,false,false
+UA045064,23 Aug 09,6,Lauriston,All Souls,No. 2,Cheryl Chen,Peter Tsigros,Peter Tsigros,2-6,2,6,0,1,Completed,true,false,false
+UA045064,23 Aug 09,6,Lauriston,All Souls,No. 3,Noah Hulme,Alex Demiri,Alex Demiri,6-7,6,7,0,1,Completed,true,false,false
+UA045064,23 Aug 09,6,Lauriston,All Souls,No. 4,Jennifer O'Connor,David Mirmilstein,David Mirmilstein,1-6,1,6,0,1,Completed,true,false,false
+UA045071,30 Aug 09,7,Dendy Park,GPHC,No. 1,Michael Slater,Louisa Janssen,Louisa Janssen,1-6,1,6,0,1,Completed,true,false,false
+UA045071,30 Aug 09,7,Dendy Park,GPHC,No. 2,Luke Lynch,Hugh McDonald,Hugh McDonald,5-7,5,7,0,1,Completed,true,false,false
+UA045071,30 Aug 09,7,Dendy Park,GPHC,No. 3,Joshua Crigan,Emma Selbie,Joshua Crigan,6-4,6,4,1,0,Completed,true,false,false
+UA045071,30 Aug 09,7,Dendy Park,GPHC,No. 4,Christopher Byrnes,Jack Chelotti,Christopher Byrnes,7-6,7,6,1,0,Completed,true,false,false
+UA045072,30 Aug 09,7,Mordialloc,Beaumaris CC,No. 1,Chloe Vuong,Maddie Kinsey,Chloe Vuong,7-5,7,5,1,0,Completed,true,false,false
+UA045072,30 Aug 09,7,Mordialloc,Beaumaris CC,No. 2,Scott Rowe,Jessica Elliot,Jessica Elliot,1-6,1,6,0,1,Completed,true,false,false
+UA045072,30 Aug 09,7,Mordialloc,Beaumaris CC,No. 3,Chelsea Dutt,Emily Baber,Emily Baber,4-6,4,6,0,1,Completed,true,false,false
+UA045072,30 Aug 09,7,Mordialloc,Beaumaris CC,No. 4,Helena Bromidis,Darby Bush,Darby Bush,2-6,2,6,0,1,Completed,true,false,false
+UA045073,30 Aug 09,7,All Souls,Kooyong Scotch,No. 1,Nick Jeffery,Cindy Tamber,Nick Jeffery,6-1,6,1,1,0,Completed,true,false,false
+UA045073,30 Aug 09,7,All Souls,Kooyong Scotch,No. 2,Gareth Myher,Chris Warwick,Gareth Myher,6-0,6,0,1,0,Completed,true,false,false
+UA045073,30 Aug 09,7,All Souls,Kooyong Scotch,No. 3,Peter Tsigros,Jack Murphy,Peter Tsigros,6-1,6,1,1,0,Completed,true,false,false
+UA045073,30 Aug 09,7,All Souls,Kooyong Scotch,No. 4,David Mirmilstein,Georgina Cunningham,David Mirmilstein,6-1,6,1,1,0,Completed,true,false,false
+UA045074,30 Aug 09,7,BLTC,Lauriston,No. 1,Darcy Stuttard,Andrej Saule,Darcy Stuttard,6-3,6,3,1,0,Completed,true,false,false
+UA045074,30 Aug 09,7,BLTC,Lauriston,No. 2,Jack McCartney,Cheryl Chen,Jack McCartney,6-3,6,3,1,0,Completed,true,false,false
+UA045074,30 Aug 09,7,BLTC,Lauriston,No. 3,Peter Warden,Noah Hulme,Peter Warden,6-1,6,1,1,0,Completed,true,false,false
+UA045074,30 Aug 09,7,BLTC,Lauriston,No. 4,Zac Gorman,Jennifer O'Connor,Zac Gorman,6-4,6,4,1,0,Completed,true,false,false
+UA045081,06 Sep 09,8,Lauriston,Dendy Park,No. 1,Andrej Saule,Andy Bissett,Andrej Saule,6-4,6,4,1,0,Completed,true,false,false
+UA045081,06 Sep 09,8,Lauriston,Dendy Park,No. 2,Cheryl Chen,Charlie Richards,Cheryl Chen,6-1,6,1,1,0,Completed,true,false,false
+UA045081,06 Sep 09,8,Lauriston,Dendy Park,No. 3,Noah Hulme,Joshua Crigan,Joshua Crigan,2-6,2,6,0,1,Completed,true,false,false
+UA045081,06 Sep 09,8,Lauriston,Dendy Park,No. 4,Jennifer O'Connor,Christopher Byrnes,Christopher Byrnes,3-6,3,6,0,1,Completed,true,false,false
+UA045082,06 Sep 09,8,Kooyong Scotch,Mordialloc,No. 1,Cindy Tamber,Carlin Dutt,Carlin Dutt,5-7,5,7,0,1,Completed,true,false,false
+UA045082,06 Sep 09,8,Kooyong Scotch,Mordialloc,No. 2,Camille Hojaij,Scott Rowe,Camille Hojaij,6-2,6,2,1,0,Completed,true,false,false
+UA045082,06 Sep 09,8,Kooyong Scotch,Mordialloc,No. 3,Jack Murphy,Chelsea Dutt,Chelsea Dutt,6-7,6,7,0,1,Completed,true,false,false
+UA045082,06 Sep 09,8,Kooyong Scotch,Mordialloc,No. 4,Georgina Cunningham,Helena Bromidis,Helena Bromidis,1-6,1,6,0,1,Completed,true,false,false
+UA045083,06 Sep 09,8,BLTC,GPHC,No. 1,Darcy Stuttard,Louisa Janssen,Darcy Stuttard,6-3,6,3,1,0,Completed,true,false,false
+UA045083,06 Sep 09,8,BLTC,GPHC,No. 2,Peter Warden,Emma Selbie,Emma Selbie,2-6,2,6,0,1,Completed,true,false,false
+UA045083,06 Sep 09,8,BLTC,GPHC,No. 3,Zac Gorman,Shelby Argent,Shelby Argent,4-6,4,6,0,1,Completed,true,false,false
+UA045083,06 Sep 09,8,BLTC,GPHC,No. 4,Josh Sinclair,Ellie Capannolo,Josh Sinclair,6-3,6,3,1,0,Completed,true,false,false
+UA045084,06 Sep 09,8,All Souls,Beaumaris CC,No. 1,Nick Jeffery,Jessica Elliot,Nick Jeffery,6-3,6,3,1,0,Completed,true,false,false
+UA045084,06 Sep 09,8,All Souls,Beaumaris CC,No. 2,Gareth Myher,Chiara Dogliotti,Gareth Myher,6-2,6,2,1,0,Completed,true,false,false
+UA045084,06 Sep 09,8,All Souls,Beaumaris CC,No. 3,Alex Demiri,Julia Gage,Alex Demiri,6-4,6,4,1,0,Completed,true,false,false
+UA045084,06 Sep 09,8,All Souls,Beaumaris CC,No. 4,David Mirmilstein,Darby Bush,David Mirmilstein,7-6,7,6,1,0,Completed,true,false,false
+UA045091,13 Sep 09,9,Dendy Park,All Souls,No. 1,Andy Bissett,Nick Jeffery,Nick Jeffery,3-6,3,6,0,1,Completed,true,false,false
+UA045091,13 Sep 09,9,Dendy Park,All Souls,No. 2,Charlie Richards,Gareth Myher,Gareth Myher,1-6,1,6,0,1,Completed,true,false,false
+UA045091,13 Sep 09,9,Dendy Park,All Souls,No. 3,Michael Slater,Peter Tsigros,Peter Tsigros,0-6,0,6,0,1,Completed,true,false,false
+UA045091,13 Sep 09,9,Dendy Park,All Souls,No. 4,Luke Lynch,Alex Demiri,Alex Demiri,0-6,0,6,0,1,Completed,true,false,false
+UA045092,13 Sep 09,9,Mordialloc,Lauriston,No. 1,Carlin Dutt,Cheryl Chen,Cheryl Chen,5-7,5,7,0,1,Completed,true,false,false
+UA045092,13 Sep 09,9,Mordialloc,Lauriston,No. 2,Chelsea Dutt,Andrej Saule,Chelsea Dutt,6-1,6,1,1,0,Completed,true,false,false
+UA045092,13 Sep 09,9,Mordialloc,Lauriston,No. 3,Helena Bromidis,Noah Hulme,Helena Bromidis,7-5,7,5,1,0,Completed,true,false,false
+UA045092,13 Sep 09,9,Mordialloc,Lauriston,No. 4,Isabella Baker,Jennifer O'Connor,Isabella Baker,6-1,6,1,1,0,Completed,true,false,false
+UA045093,13 Sep 09,9,GPHC,Kooyong Scotch,No. 1,Emma Selbie,Cindy Tamber,Cindy Tamber,5-7,5,7,0,1,Completed,true,false,false
+UA045093,13 Sep 09,9,GPHC,Kooyong Scotch,No. 2,Shelby Argent,Camille Hojaij,Shelby Argent,6-1,6,1,1,0,Completed,true,false,false
+UA045093,13 Sep 09,9,GPHC,Kooyong Scotch,No. 3,Jack Chelotti,Will Swansonn,Will Swansonn,6-7,6,7,0,1,Completed,true,false,false
+UA045093,13 Sep 09,9,GPHC,Kooyong Scotch,No. 4,Oliver McIntosh,Josh Tarrant,Oliver McIntosh,6-0,6,0,1,0,Completed,true,false,true
+UA045094,13 Sep 09,9,Beaumaris CC,BLTC,No. 1,Jessica Elliot,Jack McCartney,Jack McCartney,3-6,3,6,0,1,Completed,true,false,false
+UA045094,13 Sep 09,9,Beaumaris CC,BLTC,No. 2,Maddie Kinsey,Peter Warden,Maddie Kinsey,6-3,6,3,1,0,Completed,true,false,false
+UA045094,13 Sep 09,9,Beaumaris CC,BLTC,No. 3,Emily Baber,Zac Gorman,Emily Baber,6-3,6,3,1,0,Completed,true,false,false
+UA045094,13 Sep 09,9,Beaumaris CC,BLTC,No. 4,Darby Bush,Josh Sinclair,Josh Sinclair,6-7,6,7,0,1,Completed,true,false,false
+UA045101,11 Oct 09,10,BLTC,Dendy Park,No. 1,Darcy Stuttard,Charlie Richards,Darcy Stuttard,6-0,6,0,1,0,Completed,true,false,false
+UA045101,11 Oct 09,10,BLTC,Dendy Park,No. 2,Jack McCartney,Luke Lynch,Jack McCartney,6-0,6,0,1,0,Completed,true,false,false
+UA045101,11 Oct 09,10,BLTC,Dendy Park,No. 3,Zac Gorman,Joshua Crigan,Joshua Crigan,4-6,4,6,0,1,Completed,true,false,false
+UA045101,11 Oct 09,10,BLTC,Dendy Park,No. 4,Josh Sinclair,Christopher Byrnes,Christopher Byrnes,4-6,4,6,0,1,Completed,true,false,false
+UA045102,11 Oct 09,10,All Souls,Mordialloc,No. 1,Nick Jeffery,Chloe Vuong,Nick Jeffery,6-0,6,0,1,0,Completed,true,false,false
+UA045102,11 Oct 09,10,All Souls,Mordialloc,No. 2,Peter Tsigros,Carlin Dutt,Carlin Dutt,5-7,5,7,0,1,Completed,true,false,false
+UA045102,11 Oct 09,10,All Souls,Mordialloc,No. 3,Alex Demiri,Scott Rowe,Alex Demiri,6-3,6,3,1,0,Completed,true,false,false
+UA045102,11 Oct 09,10,All Souls,Mordialloc,No. 4,David Mirmilstein,Helena Bromidis,Helena Bromidis,5-7,5,7,0,1,Completed,true,false,false
+UA045103,11 Oct 09,10,Lauriston,GPHC,No. 1,Andrej Saule,Emma Selbie,Andrej Saule,7-6,7,6,1,0,Completed,true,false,false
+UA045103,11 Oct 09,10,Lauriston,GPHC,No. 2,Cheryl Chen,Hugh McDonald,Hugh McDonald,4-6,4,6,0,1,Completed,true,false,false
+UA045103,11 Oct 09,10,Lauriston,GPHC,No. 3,Timothy Tran,Jack Chelotti,Timothy Tran,6-4,6,4,1,0,Completed,true,false,false
+UA045103,11 Oct 09,10,Lauriston,GPHC,No. 4,Jennifer O'Connor,Ellie Capannolo,Ellie Capannolo,1-6,1,6,0,1,Completed,true,false,false
+UA045104,11 Oct 09,10,Kooyong Scotch,Beaumaris CC,No. 1,Cindy Tamber,Jessica Elliot,Cindy Tamber,6-1,6,1,1,0,Completed,true,false,false
+UA045104,11 Oct 09,10,Kooyong Scotch,Beaumaris CC,No. 2,Kate Cunningham,Maddie Kinsey,Maddie Kinsey,0-6,0,6,0,1,Completed,true,false,false
+UA045104,11 Oct 09,10,Kooyong Scotch,Beaumaris CC,No. 3,Chris Warwick,Emily Baber,Emily Baber,2-6,2,6,0,1,Completed,true,false,false
+UA045104,11 Oct 09,10,Kooyong Scotch,Beaumaris CC,No. 4,Jack Murphy,Julia Gage,Jack Murphy,6-1,6,1,1,0,Completed,true,false,false
+UA045111,18 Oct 09,11,Dendy Park,Kooyong Scotch,No. 1,Charlie Richards,Camille Hojaij,Camille Hojaij,2-6,2,6,0,1,Completed,true,false,false
+UA045111,18 Oct 09,11,Dendy Park,Kooyong Scotch,No. 2,Luke Lynch,Kate Cunningham,Kate Cunningham,2-6,2,6,0,1,Completed,true,false,false
+UA045111,18 Oct 09,11,Dendy Park,Kooyong Scotch,No. 3,Joshua Crigan,Chris Warwick,Joshua Crigan,6-0,6,0,1,0,Completed,true,false,false
+UA045111,18 Oct 09,11,Dendy Park,Kooyong Scotch,No. 4,Christopher Byrnes,Georgina Cunningham,Christopher Byrnes,6-0,6,0,1,0,Completed,true,false,false
+UA045112,18 Oct 09,11,Mordialloc,BLTC,No. 1,Chloe Vuong,Darcy Stuttard,Darcy Stuttard,1-6,1,6,0,1,Completed,true,false,false
+UA045112,18 Oct 09,11,Mordialloc,BLTC,No. 2,Scott Rowe,Jack McCartney,Jack McCartney,2-6,2,6,0,1,Completed,true,false,false
+UA045112,18 Oct 09,11,Mordialloc,BLTC,No. 3,Chelsea Dutt,Peter Warden,Chelsea Dutt,6-0,6,0,1,0,Completed,true,false,false
+UA045112,18 Oct 09,11,Mordialloc,BLTC,No. 4,Isabella Baker,Josh Sinclair,Josh Sinclair,4-6,4,6,0,1,Completed,true,false,false
+UA045113,18 Oct 09,11,GPHC,All Souls,No. 1,Louisa Janssen,Gareth Myher,Louisa Janssen,6-4,6,4,1,0,Completed,true,false,false
+UA045113,18 Oct 09,11,GPHC,All Souls,No. 2,Hugh McDonald,Peter Tsigros,Hugh McDonald,7-6,7,6,1,0,Completed,true,false,false
+UA045113,18 Oct 09,11,GPHC,All Souls,No. 3,Jack Chelotti,Alex Demiri,Jack Chelotti,6-2,6,2,1,0,Completed,true,false,false
+UA045113,18 Oct 09,11,GPHC,All Souls,No. 4,Shelby Argent,David Mirmilstein,David Mirmilstein,5-7,5,7,0,1,Completed,true,false,false
+UA045114,18 Oct 09,11,Beaumaris CC,Lauriston,No. 1,Jessica Elliot,Andrej Saule,Andrej Saule,1-6,1,6,0,1,Completed,true,false,false
+UA045114,18 Oct 09,11,Beaumaris CC,Lauriston,No. 2,Chiara Dogliotti,Cheryl Chen,Cheryl Chen,1-6,1,6,0,1,Completed,true,false,false
+UA045114,18 Oct 09,11,Beaumaris CC,Lauriston,No. 3,Julia Gage,Timothy Tran,Timothy Tran,2-6,2,6,0,1,Completed,true,false,false
+UA045114,18 Oct 09,11,Beaumaris CC,Lauriston,No. 4,Darby Bush,Jennifer O'Connor,Darby Bush,6-1,6,1,1,0,Completed,true,false,false
+UA045121,25 Oct 09,12,Beaumaris CC,GPHC,No. 1,Maddie Kinsey,Louisa Janssen,Louisa Janssen,4-6,4,6,0,1,Completed,true,false,false
+UA045121,25 Oct 09,12,Beaumaris CC,GPHC,No. 2,Jessica Elliot,Emma Selbie,Emma Selbie,5-7,5,7,0,1,Completed,true,false,false
+UA045121,25 Oct 09,12,Beaumaris CC,GPHC,No. 3,Emily Baber,Shelby Argent,Emily Baber,6-3,6,3,1,0,Completed,true,false,false
+UA045121,25 Oct 09,12,Beaumaris CC,GPHC,No. 4,Julia Gage,Ellie Capannolo,Julia Gage,6-0,6,0,1,0,Completed,true,false,false
+UA045122,25 Oct 09,12,BLTC,All Souls,No. 1,Jack McCartney,Nick Jeffery,Nick Jeffery,3-6,3,6,0,1,Completed,true,false,false
+UA045122,25 Oct 09,12,BLTC,All Souls,No. 2,Peter Warden,Gareth Myher,Peter Warden,6-4,6,4,1,0,Completed,true,false,false
+UA045122,25 Oct 09,12,BLTC,All Souls,No. 3,Zac Gorman,Alex Demiri,Alex Demiri,3-6,3,6,0,1,Completed,true,false,false
+UA045122,25 Oct 09,12,BLTC,All Souls,No. 4,Josh Sinclair,David Mirmilstein,David Mirmilstein,0-6,0,6,0,1,Completed,true,false,false
+UA045123,25 Oct 09,12,Lauriston,Kooyong Scotch,No. 1,Andrej Saule,Cindy Tamber,Cindy Tamber,2-6,2,6,0,1,Completed,true,false,false
+UA045123,25 Oct 09,12,Lauriston,Kooyong Scotch,No. 2,Cheryl Chen,Camille Hojaij,Cheryl Chen,6-1,6,1,1,0,Completed,true,false,false
+UA045123,25 Oct 09,12,Lauriston,Kooyong Scotch,No. 3,Timothy Tran,Kate Cunningham,Timothy Tran,6-0,6,0,1,0,Completed,true,false,false
+UA045123,25 Oct 09,12,Lauriston,Kooyong Scotch,No. 4,Jennifer O'Connor,Jack Murphy,Jack Murphy,3-6,3,6,0,1,Completed,true,false,false
+UA045124,25 Oct 09,12,Mordialloc,Dendy Park,No. 1,Carlin Dutt,Charlie Richards,Carlin Dutt,6-1,6,1,1,0,Completed,true,false,false
+UA045124,25 Oct 09,12,Mordialloc,Dendy Park,No. 2,Chelsea Dutt,Corey Jones,Corey Jones,3-6,3,6,0,1,Completed,true,false,false
+UA045124,25 Oct 09,12,Mordialloc,Dendy Park,No. 3,Helena Bromidis,Joshua Crigan,Joshua Crigan,5-7,5,7,0,1,Completed,true,false,false
+UA045124,25 Oct 09,12,Mordialloc,Dendy Park,No. 4,Isabella Baker,Christopher Byrnes,Christopher Byrnes,2-6,2,6,0,1,Completed,true,false,false
+UA045131,08 Nov 09,13,GPHC,Mordialloc,No. 1,Louisa Janssen,Chloe Vuong,Louisa Janssen,6-2,6,2,1,0,Completed,true,false,false
+UA045131,08 Nov 09,13,GPHC,Mordialloc,No. 2,Hugh McDonald,Carlin Dutt,Hugh McDonald,6-3,6,3,1,0,Completed,true,false,false
+UA045131,08 Nov 09,13,GPHC,Mordialloc,No. 3,Jack Chelotti,Scott Rowe,Jack Chelotti,6-3,6,3,1,0,Completed,true,false,false
+UA045131,08 Nov 09,13,GPHC,Mordialloc,No. 4,Emma Selbie,Helena Bromidis,Emma Selbie,6-0,6,0,1,0,Completed,true,false,false
+UA045132,08 Nov 09,13,Dendy Park,Beaumaris CC,No. 1,Charlie Richards,Jessica Elliot,Jessica Elliot,4-6,4,6,0,1,Completed,true,false,false
+UA045132,08 Nov 09,13,Dendy Park,Beaumaris CC,No. 2,Luke Lynch,Chiara Dogliotti,Chiara Dogliotti,3-6,3,6,0,1,Completed,true,false,false
+UA045132,08 Nov 09,13,Dendy Park,Beaumaris CC,No. 3,Joshua Crigan,Julia Gage,Joshua Crigan,6-0,6,0,1,0,Completed,true,false,false
+UA045132,08 Nov 09,13,Dendy Park,Beaumaris CC,No. 4,Christopher Byrnes,Darby Bush,Darby Bush,0-6,0,6,0,1,Completed,true,false,false
+UA045133,08 Nov 09,13,Kooyong Scotch,BLTC,No. 1,Cindy Tamber,Darcy Stuttard,Darcy Stuttard,3-6,3,6,0,1,Completed,true,false,false
+UA045133,08 Nov 09,13,Kooyong Scotch,BLTC,No. 2,Kate Cunningham,Jack McCartney,Jack McCartney,0-6,0,6,0,1,Completed,true,false,false
+UA045133,08 Nov 09,13,Kooyong Scotch,BLTC,No. 3,Chris Warwick,Peter Warden,Chris Warwick,6-2,6,2,1,0,Completed,true,false,false
+UA045133,08 Nov 09,13,Kooyong Scotch,BLTC,No. 4,Jack Murphy,Zac Gorman,Jack Murphy,7-5,7,5,1,0,Completed,true,false,false
+UA045141,15 Nov 09,14,GPHC,Dendy Park,No. 1,Louisa Janssen,Charlie Richards,Louisa Janssen,6-2,6,2,1,0,Completed,true,false,false
+UA045141,15 Nov 09,14,GPHC,Dendy Park,No. 2,Emma Selbie,Luke Lynch,Emma Selbie,6-0,6,0,1,0,Completed,true,false,false
+UA045141,15 Nov 09,14,GPHC,Dendy Park,No. 3,Hugh McDonald,Joshua Crigan,Joshua Crigan,3-6,3,6,0,1,Completed,true,false,false
+UA045141,15 Nov 09,14,GPHC,Dendy Park,No. 4,[Unnamed player — TROLS UA045141 home code 4],Christopher Byrnes,Christopher Byrnes,1-6,1,6,0,1,Completed,false,false,false
+UA045142,15 Nov 09,14,Beaumaris CC,Mordialloc,No. 1,Maddie Kinsey,Scott Rowe,Maddie Kinsey,7-5,7,5,1,0,Completed,true,false,false
+UA045142,15 Nov 09,14,Beaumaris CC,Mordialloc,No. 2,Chiara Dogliotti,Chelsea Dutt,Chelsea Dutt,1-6,1,6,0,1,Completed,true,false,false
+UA045142,15 Nov 09,14,Beaumaris CC,Mordialloc,No. 3,Emily Baber,Helena Bromidis,Helena Bromidis,2-6,2,6,0,1,Completed,true,false,false
+UA045142,15 Nov 09,14,Beaumaris CC,Mordialloc,No. 4,Darby Bush,Isabella Baker,Darby Bush,6-1,6,1,1,0,Completed,true,false,false
+UA045143,15 Nov 09,14,Kooyong Scotch,All Souls,No. 1,Kate Cunningham,Nick Jeffery,Nick Jeffery,0-6,0,6,0,1,Completed,true,false,false
+UA045143,15 Nov 09,14,Kooyong Scotch,All Souls,No. 2,Chris Warwick,Gareth Myher,Gareth Myher,1-6,1,6,0,1,Completed,true,false,false
+UA045143,15 Nov 09,14,Kooyong Scotch,All Souls,No. 3,Jack Murphy,Peter Tsigros,Peter Tsigros,0-6,0,6,0,1,Completed,true,false,false
+UA045143,15 Nov 09,14,Kooyong Scotch,All Souls,No. 4,Georgina Cunningham,Josh Tarrant,Georgina Cunningham,6-0,6,0,1,0,Completed,true,false,true
+UA045301,,16,All Souls,Beaumaris CC,No. 1,Nick Jeffery,Jessica Elliot,Jessica Elliot,2-6,2,6,0,1,Completed,true,false,false
+UA045301,,16,All Souls,Beaumaris CC,No. 2,Gareth Myher,Maddie Kinsey,Gareth Myher,7-5,7,5,1,0,Completed,true,false,false
+UA045301,,16,All Souls,Beaumaris CC,No. 3,Peter Tsigros,Chiara Dogliotti,Peter Tsigros,6-2,6,2,1,0,Completed,true,false,false
+UA045301,,16,All Souls,Beaumaris CC,No. 4,Alex Demiri,Emily Baber,Emily Baber,4-6,4,6,0,1,Completed,true,false,false
+UA045302,,16,BLTC,Dendy Park,No. 1,Darcy Stuttard,Charlie Richards,Darcy Stuttard,6-1,6,1,1,0,Completed,true,false,false
+UA045302,,16,BLTC,Dendy Park,No. 2,Jack McCartney,Luke Lynch,Jack McCartney,6-0,6,0,1,0,Completed,true,false,false
+UA045302,,16,BLTC,Dendy Park,No. 3,Peter Warden,Michael Slater,Michael Slater,3-6,3,6,0,1,Completed,true,false,false
+UA045302,,16,BLTC,Dendy Park,No. 4,Josh Sinclair,Joshua Crigan,Joshua Crigan,3-6,3,6,0,1,Completed,true,false,false
+UA045321,,17,All Souls,BLTC,No. 1,Nick Jeffery,Darcy Stuttard,Nick Jeffery,6-1,6,1,1,0,Completed,true,false,false
+UA045321,,17,All Souls,BLTC,No. 2,Gareth Myher,Jack McCartney,Gareth Myher,6-0,6,0,1,0,Completed,true,false,false
+UA045321,,17,All Souls,BLTC,No. 3,Peter Tsigros,Peter Warden,Peter Tsigros,6-3,6,3,1,0,Completed,true,false,false
+UA045321,,17,All Souls,BLTC,No. 4,David Mirmilstein,Josh Sinclair,David Mirmilstein,6-4,6,4,1,0,Completed,true,false,false

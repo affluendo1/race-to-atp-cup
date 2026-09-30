@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA12-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2013",
+  "season_id": "UA12",
+  "season_label": "Autumn 2013",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Mentone",
+      "wins": 12,
+      "points": 116,
+      "percentage": 352.07,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Royal South Yarra",
+      "wins": 7,
+      "points": 71,
+      "percentage": 127.39,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Glen Eira Beech",
+      "wins": 7,
+      "points": 65,
+      "percentage": 93.86,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Hampton",
+      "wins": 5,
+      "points": 53,
+      "percentage": 94.86,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal Ave",
+      "wins": 5,
+      "points": 53,
+      "percentage": 92.26,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Carmelite",
+      "wins": 4,
+      "points": 50,
+      "percentage": 84.33,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 12,
+      "percentage": 29.11,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA12-UA014",
+  "fixtures": 59,
+  "completed_fixtures": 42,
+  "draw_fixtures": 59,
+  "singles_rubbers": 168,
+  "doubles_rubbers": 84,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

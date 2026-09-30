@@ -1,0 +1,86 @@
+{
+  "asset_id": "UA16-UA007",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2015",
+  "season_id": "UA16",
+  "season_label": "Autumn 2015",
+  "source_section_code": "UA007",
+  "section_label": "Section 7",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Mentone",
+      "wins": 9,
+      "points": 84,
+      "percentage": 142.99,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Kooyong 2",
+      "wins": 4,
+      "points": 69,
+      "percentage": 121.52,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kooyong 1",
+      "wins": 5,
+      "points": 69,
+      "percentage": 112.02,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Beaumaris CC",
+      "wins": 6,
+      "points": 68,
+      "percentage": 107.88,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal South Yarra",
+      "wins": 4,
+      "points": 59,
+      "percentage": 95.09,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC",
+      "wins": 3,
+      "points": 50,
+      "percentage": 82.83,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Hampton",
+      "wins": 0,
+      "points": 21,
+      "percentage": 62.01,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA16-UA007",
+  "fixtures": 59,
+  "completed_fixtures": 35,
+  "draw_fixtures": 59,
+  "singles_rubbers": 140,
+  "doubles_rubbers": 70,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA007301",
+    "Fixture game totals do not match rubbers for UA007321"
+  ]
+}

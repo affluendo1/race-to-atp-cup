@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA19-UA015",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2016",
+  "season_id": "UA19",
+  "season_label": "Spring 2016",
+  "source_section_code": "UA015",
+  "section_label": "Section 15",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park",
+      "wins": 9,
+      "points": 88,
+      "percentage": 150.83,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Carmelite",
+      "wins": 9,
+      "points": 83,
+      "percentage": 142.92,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Coatesville",
+      "wins": 9,
+      "points": 81,
+      "percentage": 127.6,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Highett",
+      "wins": 5,
+      "points": 69,
+      "percentage": 126.15,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St Pauls",
+      "wins": 6,
+      "points": 68,
+      "percentage": 121.15,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Bodley Tennis Plus",
+      "wins": 1,
+      "points": 22,
+      "percentage": 51.54,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Le Page",
+      "wins": 0,
+      "points": 9,
+      "percentage": 32.55,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA19-UA015",
+  "fixtures": 59,
+  "completed_fixtures": 43,
+  "draw_fixtures": 59,
+  "singles_rubbers": 172,
+  "doubles_rubbers": 86,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

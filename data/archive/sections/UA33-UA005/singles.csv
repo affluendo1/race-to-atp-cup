@@ -1,0 +1,224 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA005011,16 Jul 23,1,BLTC Blue,Dendy Park,No. 1,Anatoly Dashkevich,Shirsh Kumaran,Anatoly Dashkevich,6-3,6,3,1,0,Completed,true,false,false
+UA005011,16 Jul 23,1,BLTC Blue,Dendy Park,No. 2,Casper Billing,Slade Caldwell,Slade Caldwell,1-6,1,6,0,1,Completed,true,false,false
+UA005011,16 Jul 23,1,BLTC Blue,Dendy Park,No. 3,Willem Duncan,Harrison Kemp,Willem Duncan,6-4,6,4,1,0,Completed,true,false,false
+UA005011,16 Jul 23,1,BLTC Blue,Dendy Park,No. 4,Sophie Turner,Madison Luu,Sophie Turner,6-1,6,1,1,0,Completed,true,false,false
+UA005012,16 Jul 23,1,Hurlingham Park,Coatesville,No. 1,Renny Thurlow,William Chu,William Chu,4-6,4,6,0,1,Completed,true,false,false
+UA005012,16 Jul 23,1,Hurlingham Park,Coatesville,No. 2,Oscar Rey,Jordan Ireson,Jordan Ireson,5-7,5,7,0,1,Completed,true,false,false
+UA005012,16 Jul 23,1,Hurlingham Park,Coatesville,No. 3,Zachary Boatto,Daniel Foldvari,Daniel Foldvari,3-6,3,6,0,1,Completed,true,false,false
+UA005012,16 Jul 23,1,Hurlingham Park,Coatesville,No. 4,Tomek Foroncewicz,Ethan Shniader,Ethan Shniader,4-6,4,6,0,1,Completed,true,false,false
+UA005013,16 Jul 23,1,Murrumbeena,Black Rock,No. 1,Ruby Huggins,Ernie Brooks,Ruby Huggins,7-5,7,5,1,0,Completed,true,false,false
+UA005013,16 Jul 23,1,Murrumbeena,Black Rock,No. 2,Patrick Mills,Kiara Morris,Patrick Mills,6-2,6,2,1,0,Completed,true,false,false
+UA005013,16 Jul 23,1,Murrumbeena,Black Rock,No. 3,Jacob Hong-Dunnett,Alex Enkelman,Alex Enkelman,1-6,1,6,0,1,Completed,true,false,true
+UA005013,16 Jul 23,1,Murrumbeena,Black Rock,No. 4,Marlo Waters,Amelie Smith,Marlo Waters,6-0,6,0,1,0,Completed,true,false,false
+UA005014,16 Jul 23,1,St James,Beaumaris CC,No. 1,Isaac Walsh,Andrew Slesarev,Isaac Walsh,6-4,6,4,1,0,Completed,true,false,false
+UA005014,16 Jul 23,1,St James,Beaumaris CC,No. 2,Hamish Collopy,Aaron Vu,Aaron Vu,4-6,4,6,0,1,Completed,true,false,false
+UA005014,16 Jul 23,1,St James,Beaumaris CC,No. 3,Mark Cahill,Lucas Zhou,Lucas Zhou,3-6,3,6,0,1,Completed,true,false,false
+UA005014,16 Jul 23,1,St James,Beaumaris CC,No. 4,Tom Webb,Joel Bryant,Joel Bryant,3-6,3,6,0,1,Completed,true,false,false
+UA005021,23 Jul 23,2,Beaumaris CC,BLTC Blue,No. 1,William Wu,Casper Billing,William Wu,6-2,6,2,1,0,Completed,true,false,false
+UA005021,23 Jul 23,2,Beaumaris CC,BLTC Blue,No. 2,Aaron Vu,Willem Duncan,Willem Duncan,1-6,1,6,0,1,Completed,true,false,false
+UA005021,23 Jul 23,2,Beaumaris CC,BLTC Blue,No. 3,Lucas Zhou,Sophie Turner,Lucas Zhou,6-0,6,0,1,0,Completed,true,false,false
+UA005021,23 Jul 23,2,Beaumaris CC,BLTC Blue,No. 4,Joel Bryant,Harry Boden Fourie,Joel Bryant,7-5,7,5,1,0,Completed,true,false,false
+UA005022,23 Jul 23,2,Dendy Park,Hurlingham Park,No. 1,Shirsh Kumaran,Renny Thurlow,Shirsh Kumaran,6-2,6,2,1,0,Completed,true,false,false
+UA005022,23 Jul 23,2,Dendy Park,Hurlingham Park,No. 2,Kiera Hatzistavros,Oscar Rey,Oscar Rey,2-6,2,6,0,1,Completed,true,false,false
+UA005022,23 Jul 23,2,Dendy Park,Hurlingham Park,No. 3,Amber Brown,Zachary Boatto,Amber Brown,6-2,6,2,1,0,Completed,true,false,false
+UA005022,23 Jul 23,2,Dendy Park,Hurlingham Park,No. 4,Harrison Kemp,Veitel Lin,Harrison Kemp,6-2,6,2,1,0,Completed,true,false,false
+UA005023,23 Jul 23,2,Coatesville,Murrumbeena,No. 1,William Chu,Oscar Liu,William Chu,1-0,1,0,1,0,Completed,false,false,false
+UA005023,23 Jul 23,2,Coatesville,Murrumbeena,No. 2,Daniel Foldvari,Marlo Waters,Marlo Waters,3-4,3,4,0,1,Completed,false,false,false
+UA005023,23 Jul 23,2,Coatesville,Murrumbeena,No. 3,Ethan Shniader,Samuel Zuo,Samuel Zuo,1-2,1,2,0,1,Completed,false,false,false
+UA005024,23 Jul 23,2,Black Rock,St James,No. 1,Ernie Brooks,Isaac Walsh,Ernie Brooks,7-5,7,5,1,0,Completed,true,false,false
+UA005024,23 Jul 23,2,Black Rock,St James,No. 2,Ella Rankin,Hamish Collopy,Hamish Collopy,1-6,1,6,0,1,Completed,true,false,false
+UA005024,23 Jul 23,2,Black Rock,St James,No. 3,Kiara Morris,Mark Cahill,Mark Cahill,0-6,0,6,0,1,Completed,true,false,false
+UA005024,23 Jul 23,2,Black Rock,St James,No. 4,Amelie Smith,Tom Webb,Amelie Smith,6-0,6,0,1,0,Completed,true,false,false
+UA005031,30 Jul 23,3,BLTC Blue,Black Rock,No. 1,Anatoly Dashkevich,Ella Rankin,Ella Rankin,4-6,4,6,0,1,Completed,true,false,false
+UA005031,30 Jul 23,3,BLTC Blue,Black Rock,No. 2,Casper Billing,Emma Enkelman,Casper Billing,6-1,6,1,1,0,Completed,true,false,false
+UA005031,30 Jul 23,3,BLTC Blue,Black Rock,No. 3,Willem Duncan,Kiara Morris,Willem Duncan,6-2,6,2,1,0,Completed,true,false,false
+UA005031,30 Jul 23,3,BLTC Blue,Black Rock,No. 4,Harry Boden Fourie,Amelie Smith,Harry Boden Fourie,6-3,6,3,1,0,Completed,true,false,false
+UA005032,30 Jul 23,3,Hurlingham Park,Beaumaris CC,No. 1,Oscar Rey,Lucas Zhou,Lucas Zhou,3-6,3,6,0,1,Completed,true,false,false
+UA005032,30 Jul 23,3,Hurlingham Park,Beaumaris CC,No. 2,Zachary Boatto,William Wu,William Wu,4-6,4,6,0,1,Completed,true,false,false
+UA005032,30 Jul 23,3,Hurlingham Park,Beaumaris CC,No. 3,Tomek Foroncewicz,Aaron Vu,Aaron Vu,3-6,3,6,0,1,Completed,true,false,false
+UA005032,30 Jul 23,3,Hurlingham Park,Beaumaris CC,No. 4,Tarant Bacon,Joel Bryant,Joel Bryant,0-6,0,6,0,1,Completed,true,true,false
+UA005033,30 Jul 23,3,Murrumbeena,Dendy Park,No. 1,Oscar Liu,Kiera Hatzistavros,Oscar Liu,6-4,6,4,1,0,Completed,true,false,false
+UA005033,30 Jul 23,3,Murrumbeena,Dendy Park,No. 2,Patrick Mills,Amber Brown,Patrick Mills,6-4,6,4,1,0,Completed,true,false,false
+UA005033,30 Jul 23,3,Murrumbeena,Dendy Park,No. 3,Jacob Hong-Dunnett,Grace Edwards,Jacob Hong-Dunnett,6-2,6,2,1,0,Completed,true,false,false
+UA005033,30 Jul 23,3,Murrumbeena,Dendy Park,No. 4,Samuel Zuo,Madison Luu,Samuel Zuo,7-5,7,5,1,0,Completed,true,false,false
+UA005034,30 Jul 23,3,St James,Coatesville,No. 1,Isaac Walsh,William Chu,William Chu,4-6,4,6,0,1,Completed,true,false,false
+UA005034,30 Jul 23,3,St James,Coatesville,No. 2,Lachie Rhodes,Charlie Garcia,Charlie Garcia,3-6,3,6,0,1,Completed,true,true,false
+UA005034,30 Jul 23,3,St James,Coatesville,No. 3,Mark Cahill,Ethan Shniader,Mark Cahill,6-2,6,2,1,0,Completed,true,false,false
+UA005034,30 Jul 23,3,St James,Coatesville,No. 4,Tom Webb,Gabriel Raboy,Gabriel Raboy,6-7,6,7,0,1,Completed,true,false,false
+UA005041,06 Aug 23,4,Coatesville,BLTC Blue,No. 1,William Chu,Anatoly Dashkevich,William Chu,6-1,6,1,1,0,Completed,true,false,false
+UA005041,06 Aug 23,4,Coatesville,BLTC Blue,No. 2,Jordan Ireson,Casper Billing,Jordan Ireson,6-1,6,1,1,0,Completed,true,false,false
+UA005041,06 Aug 23,4,Coatesville,BLTC Blue,No. 3,Daniel Foldvari,Sophie Turner,Daniel Foldvari,6-0,6,0,1,0,Completed,true,false,false
+UA005041,06 Aug 23,4,Coatesville,BLTC Blue,No. 4,Gabriel Raboy,Harry Boden Fourie,Harry Boden Fourie,2-6,2,6,0,1,Completed,true,false,false
+UA005042,06 Aug 23,4,Black Rock,Hurlingham Park,No. 1,Ernie Brooks,Renny Thurlow,Renny Thurlow,4-6,4,6,0,1,Completed,true,false,false
+UA005042,06 Aug 23,4,Black Rock,Hurlingham Park,No. 2,Jesse Hodge,Oscar Rey,Oscar Rey,0-6,0,6,0,1,Completed,true,true,false
+UA005042,06 Aug 23,4,Black Rock,Hurlingham Park,No. 3,Amelie Smith,Zachary Boatto,Amelie Smith,6-4,6,4,1,0,Completed,true,false,false
+UA005042,06 Aug 23,4,Black Rock,Hurlingham Park,No. 4,Luke Desmond,Tomek Foroncewicz,Tomek Foroncewicz,2-6,2,6,0,1,Completed,true,true,false
+UA005043,06 Aug 23,4,Beaumaris CC,Murrumbeena,No. 1,Lucas Zhou,Oscar Liu,Lucas Zhou,6-1,6,1,1,0,Completed,true,false,false
+UA005043,06 Aug 23,4,Beaumaris CC,Murrumbeena,No. 2,William Wu,Ruby Huggins,Ruby Huggins,3-6,3,6,0,1,Completed,true,false,false
+UA005043,06 Aug 23,4,Beaumaris CC,Murrumbeena,No. 3,Aaron Vu,Patrick Mills,Patrick Mills,1-6,1,6,0,1,Completed,true,false,false
+UA005043,06 Aug 23,4,Beaumaris CC,Murrumbeena,No. 4,Joel Bryant,Samuel Zuo,Samuel Zuo,3-6,3,6,0,1,Completed,true,false,false
+UA005044,06 Aug 23,4,Dendy Park,St James,No. 1,Slade Caldwell,Isaac Walsh,Slade Caldwell,6-1,6,1,1,0,Completed,true,false,false
+UA005044,06 Aug 23,4,Dendy Park,St James,No. 2,Harrison Kemp,Hamish Collopy,Harrison Kemp,6-3,6,3,1,0,Completed,true,false,false
+UA005044,06 Aug 23,4,Dendy Park,St James,No. 3,Grace Edwards,Mark Cahill,Mark Cahill,3-6,3,6,0,1,Completed,true,false,false
+UA005044,06 Aug 23,4,Dendy Park,St James,No. 4,Madison Luu,Tom Webb,Madison Luu,6-2,6,2,1,0,Completed,true,false,false
+UA005051,13 Aug 23,5,Murrumbeena,St James,No. 1,Oscar Liu,Isaac Walsh,Oscar Liu,6-0,6,0,1,0,Completed,true,false,false
+UA005051,13 Aug 23,5,Murrumbeena,St James,No. 2,Ruby Huggins,Hamish Collopy,Ruby Huggins,6-2,6,2,1,0,Completed,true,false,false
+UA005051,13 Aug 23,5,Murrumbeena,St James,No. 3,Patrick Mills,Mark Cahill,Patrick Mills,6-3,6,3,1,0,Completed,true,false,false
+UA005051,13 Aug 23,5,Murrumbeena,St James,No. 4,Jacob Hong-Dunnett,Tom Webb,Jacob Hong-Dunnett,6-0,6,0,1,0,Completed,true,false,false
+UA005052,13 Aug 23,5,Beaumaris CC,Black Rock,No. 1,Lucas Zhou,Ernie Brooks,Ernie Brooks,2-6,2,6,0,1,Completed,true,false,false
+UA005052,13 Aug 23,5,Beaumaris CC,Black Rock,No. 2,Aaron Vu,Ella Rankin,Aaron Vu,6-0,6,0,1,0,Completed,true,false,false
+UA005052,13 Aug 23,5,Beaumaris CC,Black Rock,No. 3,Andrew Slesarev,[Unnamed player — TROLS UA005052 away code 3],Andrew Slesarev,6-0,6,0,1,0,Completed,false,false,false
+UA005052,13 Aug 23,5,Beaumaris CC,Black Rock,No. 4,Joel Bryant,Amelie Smith,Joel Bryant,6-2,6,2,1,0,Completed,true,false,false
+UA005053,13 Aug 23,5,Coatesville,Dendy Park,No. 1,Jordan Ireson,Slade Caldwell,Slade Caldwell,3-6,3,6,0,1,Completed,true,false,false
+UA005053,13 Aug 23,5,Coatesville,Dendy Park,No. 2,Charlie Garcia,Kiera Hatzistavros,Kiera Hatzistavros,0-6,0,6,0,1,Completed,true,false,false
+UA005053,13 Aug 23,5,Coatesville,Dendy Park,No. 3,Daniel Foldvari,Amber Brown,Daniel Foldvari,6-1,6,1,1,0,Completed,true,false,false
+UA005053,13 Aug 23,5,Coatesville,Dendy Park,No. 4,Ethan Shniader,Tijana Kravic,Ethan Shniader,6-3,6,3,1,0,Completed,true,false,true
+UA005054,13 Aug 23,5,BLTC Blue,Hurlingham Park,No. 1,Nicholas Korobitsin,Renny Thurlow,Renny Thurlow,5-7,5,7,0,1,Completed,true,true,false
+UA005054,13 Aug 23,5,BLTC Blue,Hurlingham Park,No. 2,David Haidor,Oscar Rey,David Haidor,7-5,7,5,1,0,Completed,true,true,false
+UA005054,13 Aug 23,5,BLTC Blue,Hurlingham Park,No. 3,Olivia Foster,Zachary Boatto,Olivia Foster,6-2,6,2,1,0,Completed,true,false,false
+UA005054,13 Aug 23,5,BLTC Blue,Hurlingham Park,No. 4,Harry Boden Fourie,Tomek Foroncewicz,Harry Boden Fourie,6-3,6,3,1,0,Completed,true,false,false
+UA005061,20 Aug 23,6,Hurlingham Park,Murrumbeena,No. 1,Renny Thurlow,Oscar Liu,Oscar Liu,3-6,3,6,0,1,Completed,true,false,false
+UA005061,20 Aug 23,6,Hurlingham Park,Murrumbeena,No. 2,Oscar Rey,Patrick Mills,Patrick Mills,1-6,1,6,0,1,Completed,true,false,false
+UA005061,20 Aug 23,6,Hurlingham Park,Murrumbeena,No. 3,Zachary Boatto,Jacob Hong-Dunnett,Jacob Hong-Dunnett,4-6,4,6,0,1,Completed,true,false,false
+UA005061,20 Aug 23,6,Hurlingham Park,Murrumbeena,No. 4,Veitel Lin,Samuel Zuo,Veitel Lin,6-4,6,4,1,0,Completed,true,false,false
+UA005062,20 Aug 23,6,St James,BLTC Blue,No. 1,Isaac Walsh,Anatoly Dashkevich,Isaac Walsh,7-6,7,6,1,0,Completed,true,false,false
+UA005062,20 Aug 23,6,St James,BLTC Blue,No. 2,Hamish Collopy,Casper Billing,Casper Billing,3-6,3,6,0,1,Completed,true,false,false
+UA005062,20 Aug 23,6,St James,BLTC Blue,No. 3,Mark Cahill,Sophie Turner,Mark Cahill,6-2,6,2,1,0,Completed,true,false,false
+UA005062,20 Aug 23,6,St James,BLTC Blue,No. 4,Tom Webb,David Haidor,David Haidor,0-6,0,6,0,1,Completed,true,false,true
+UA005063,20 Aug 23,6,Black Rock,Coatesville,No. 1,Ernie Brooks,William Chu,William Chu,0-6,0,6,0,1,Completed,true,false,false
+UA005063,20 Aug 23,6,Black Rock,Coatesville,No. 2,Ella Rankin,Charlie Garcia,Charlie Garcia,1-6,1,6,0,1,Completed,true,false,false
+UA005063,20 Aug 23,6,Black Rock,Coatesville,No. 3,Emma Enkelman,Daniel Foldvari,Daniel Foldvari,2-6,2,6,0,1,Completed,true,false,false
+UA005063,20 Aug 23,6,Black Rock,Coatesville,No. 4,Kiara Morris,Gabriel Raboy,Gabriel Raboy,1-6,1,6,0,1,Completed,true,false,false
+UA005064,20 Aug 23,6,Dendy Park,Beaumaris CC,No. 1,Slade Caldwell,Lucas Zhou,Slade Caldwell,7-6,7,6,1,0,Completed,true,false,false
+UA005064,20 Aug 23,6,Dendy Park,Beaumaris CC,No. 2,Amber Brown,William Wu,William Wu,3-6,3,6,0,1,Completed,true,false,false
+UA005064,20 Aug 23,6,Dendy Park,Beaumaris CC,No. 3,Harrison Kemp,Aaron Vu,Aaron Vu,4-6,4,6,0,1,Completed,true,false,false
+UA005064,20 Aug 23,6,Dendy Park,Beaumaris CC,No. 4,Madison Luu,Joel Bryant,Joel Bryant,3-6,3,6,0,1,Completed,true,false,false
+UA005071,27 Aug 23,7,BLTC Blue,Murrumbeena,No. 1,Anatoly Dashkevich,Oscar Liu,Oscar Liu,4-6,4,6,0,1,Completed,true,false,false
+UA005071,27 Aug 23,7,BLTC Blue,Murrumbeena,No. 2,Casper Billing,Ruby Huggins,Ruby Huggins,1-6,1,6,0,1,Completed,true,false,false
+UA005071,27 Aug 23,7,BLTC Blue,Murrumbeena,No. 3,David Haidor,Patrick Mills,David Haidor,6-4,6,4,1,0,Completed,true,true,false
+UA005071,27 Aug 23,7,BLTC Blue,Murrumbeena,No. 4,Harry Boden Fourie,Jacob Hong-Dunnett,Jacob Hong-Dunnett,2-6,2,6,0,1,Completed,true,false,false
+UA005072,27 Aug 23,7,Hurlingham Park,St James,No. 1,Renny Thurlow,Isaac Walsh,Isaac Walsh,3-6,3,6,0,1,Completed,true,false,false
+UA005072,27 Aug 23,7,Hurlingham Park,St James,No. 2,Oscar Rey,Hamish Collopy,Hamish Collopy,3-6,3,6,0,1,Completed,true,false,false
+UA005072,27 Aug 23,7,Hurlingham Park,St James,No. 3,Zachary Boatto,Mark Cahill,Mark Cahill,3-6,3,6,0,1,Completed,true,false,false
+UA005072,27 Aug 23,7,Hurlingham Park,St James,No. 4,Veitel Lin,Tom Webb,Veitel Lin,7-5,7,5,1,0,Completed,true,false,false
+UA005073,27 Aug 23,7,Beaumaris CC,Coatesville,No. 1,Lucas Zhou,William Chu,William Chu,1-6,1,6,0,1,Completed,true,false,false
+UA005073,27 Aug 23,7,Beaumaris CC,Coatesville,No. 2,William Wu,Daniel Foldvari,William Wu,6-4,6,4,1,0,Completed,true,false,false
+UA005073,27 Aug 23,7,Beaumaris CC,Coatesville,No. 3,Aaron Vu,Ethan Shniader,Aaron Vu,6-4,6,4,1,0,Completed,true,false,false
+UA005073,27 Aug 23,7,Beaumaris CC,Coatesville,No. 4,Joel Bryant,Gabriel Raboy,Joel Bryant,6-2,6,2,1,0,Completed,true,false,false
+UA005074,27 Aug 23,7,Black Rock,Dendy Park,No. 1,Ella Rankin,Kiera Hatzistavros,Kiera Hatzistavros,3-6,3,6,0,1,Completed,true,false,false
+UA005074,27 Aug 23,7,Black Rock,Dendy Park,No. 2,Emma Enkelman,Amber Brown,Amber Brown,6-7,6,7,0,1,Completed,true,false,false
+UA005074,27 Aug 23,7,Black Rock,Dendy Park,No. 3,Kiara Morris,Harrison Kemp,Harrison Kemp,3-6,3,6,0,1,Completed,true,false,false
+UA005074,27 Aug 23,7,Black Rock,Dendy Park,No. 4,Amelie Smith,Grace Edwards,Amelie Smith,7-6,7,6,1,0,Completed,true,false,false
+UA005081,03 Sep 23,8,Dendy Park,BLTC Blue,No. 1,Kiera Hatzistavros,Anatoly Dashkevich,Anatoly Dashkevich,5-7,5,7,0,1,Completed,true,false,false
+UA005081,03 Sep 23,8,Dendy Park,BLTC Blue,No. 2,Amber Brown,Olivia Foster,Amber Brown,6-3,6,3,1,0,Completed,true,false,false
+UA005081,03 Sep 23,8,Dendy Park,BLTC Blue,No. 3,Harrison Kemp,Harry Boden Fourie,Harry Boden Fourie,1-6,1,6,0,1,Completed,true,false,false
+UA005081,03 Sep 23,8,Dendy Park,BLTC Blue,No. 4,Madison Luu,Sophie Turner,Sophie Turner,2-6,2,6,0,1,Completed,true,false,false
+UA005082,03 Sep 23,8,Coatesville,Hurlingham Park,No. 1,Jordan Ireson,Oscar Rey,Jordan Ireson,6-1,6,1,1,0,Completed,true,false,false
+UA005082,03 Sep 23,8,Coatesville,Hurlingham Park,No. 2,Charlie Garcia,Timeo Massenet,Charlie Garcia,6-3,6,3,1,0,Completed,true,false,false
+UA005082,03 Sep 23,8,Coatesville,Hurlingham Park,No. 3,Daniel Foldvari,Tomek Foroncewicz,Daniel Foldvari,6-1,6,1,1,0,Completed,true,false,false
+UA005082,03 Sep 23,8,Coatesville,Hurlingham Park,No. 4,Ethan Shniader,Veitel Lin,Ethan Shniader,7-5,7,5,1,0,Completed,true,false,false
+UA005084,03 Sep 23,8,Beaumaris CC,St James,No. 1,Lucas Zhou,Isaac Walsh,Lucas Zhou,7-5,7,5,1,0,Completed,true,false,false
+UA005084,03 Sep 23,8,Beaumaris CC,St James,No. 2,Aaron Vu,Hamish Collopy,Hamish Collopy,5-7,5,7,0,1,Completed,true,false,false
+UA005084,03 Sep 23,8,Beaumaris CC,St James,No. 3,Andrew Slesarev,Mark Cahill,Andrew Slesarev,6-4,6,4,1,0,Completed,true,false,false
+UA005084,03 Sep 23,8,Beaumaris CC,St James,No. 4,Joel Bryant,Tom Webb,Joel Bryant,6-0,6,0,1,0,Completed,true,false,false
+UA005092,10 Sep 23,9,Hurlingham Park,Dendy Park,No. 1,Renny Thurlow,Harrison Kemp,Harrison Kemp,3-6,3,6,0,1,Completed,true,false,false
+UA005092,10 Sep 23,9,Hurlingham Park,Dendy Park,No. 2,Timeo Massenet,Madison Luu,Timeo Massenet,7-5,7,5,1,0,Completed,true,false,false
+UA005092,10 Sep 23,9,Hurlingham Park,Dendy Park,No. 3,Tomek Foroncewicz,Nicholas Girgis,Nicholas Girgis,1-6,1,6,0,1,Completed,true,false,true
+UA005092,10 Sep 23,9,Hurlingham Park,Dendy Park,No. 4,Veitel Lin,Lachlan Walker,Lachlan Walker,2-6,2,6,0,1,Completed,true,false,true
+UA005093,10 Sep 23,9,Murrumbeena,Coatesville,No. 1,Patrick Mills,William Chu,William Chu,1-6,1,6,0,1,Completed,true,false,false
+UA005093,10 Sep 23,9,Murrumbeena,Coatesville,No. 2,Jacob Hong-Dunnett,Charlie Garcia,Charlie Garcia,5-7,5,7,0,1,Completed,true,false,false
+UA005093,10 Sep 23,9,Murrumbeena,Coatesville,No. 3,Marlo Waters,Ethan Shniader,Marlo Waters,6-1,6,1,1,0,Completed,true,false,false
+UA005093,10 Sep 23,9,Murrumbeena,Coatesville,No. 4,Max Elliott,Gabriel Raboy,Max Elliott,6-0,6,0,1,0,Completed,true,true,false
+UA005094,10 Sep 23,9,St James,Black Rock,No. 1,Isaac Walsh,Ernie Brooks,Isaac Walsh,6-4,6,4,1,0,Completed,true,false,false
+UA005094,10 Sep 23,9,St James,Black Rock,No. 2,Hamish Collopy,Ella Rankin,Hamish Collopy,6-4,6,4,1,0,Completed,true,false,false
+UA005094,10 Sep 23,9,St James,Black Rock,No. 3,Mark Cahill,Emma Enkelman,Mark Cahill,6-2,6,2,1,0,Completed,true,false,false
+UA005094,10 Sep 23,9,St James,Black Rock,No. 4,Tom Webb,Luke Desmond,Luke Desmond,4-6,4,6,0,1,Completed,true,false,true
+UA005101,08 Oct 23,10,Black Rock,BLTC Blue,No. 1,James Gilbert,Olivia Foster,Olivia Foster,6-7,6,7,0,1,Completed,true,false,false
+UA005101,08 Oct 23,10,Black Rock,BLTC Blue,No. 2,Kiara Morris,Casper Billing,Casper Billing,6-7,6,7,0,1,Completed,true,false,false
+UA005101,08 Oct 23,10,Black Rock,BLTC Blue,No. 3,Alex Enkelman,Willem Duncan,Alex Enkelman,6-4,6,4,1,0,Completed,true,true,false
+UA005101,08 Oct 23,10,Black Rock,BLTC Blue,No. 4,Amelie Smith,Sophie Turner,Sophie Turner,0-6,0,6,0,1,Completed,true,false,false
+UA005102,08 Oct 23,10,Beaumaris CC,Hurlingham Park,No. 1,William Wu,Renny Thurlow,William Wu,6-2,6,2,1,0,Completed,true,false,false
+UA005102,08 Oct 23,10,Beaumaris CC,Hurlingham Park,No. 2,Aaron Vu,Zachary Boatto,Aaron Vu,7-6,7,6,1,0,Completed,true,false,false
+UA005102,08 Oct 23,10,Beaumaris CC,Hurlingham Park,No. 3,Andrew Slesarev,Timeo Massenet,Timeo Massenet,4-6,4,6,0,1,Completed,true,false,false
+UA005102,08 Oct 23,10,Beaumaris CC,Hurlingham Park,No. 4,Joel Bryant,Veitel Lin,Joel Bryant,6-3,6,3,1,0,Completed,true,false,false
+UA005103,08 Oct 23,10,Dendy Park,Murrumbeena,No. 1,Kiera Hatzistavros,Oscar Liu,Oscar Liu,2-6,2,6,0,1,Completed,true,false,false
+UA005103,08 Oct 23,10,Dendy Park,Murrumbeena,No. 2,Harrison Kemp,Patrick Mills,Patrick Mills,5-7,5,7,0,1,Completed,true,false,false
+UA005103,08 Oct 23,10,Dendy Park,Murrumbeena,No. 3,Grace Edwards,Amrutha Jaladanki,Amrutha Jaladanki,1-6,1,6,0,1,Completed,true,false,true
+UA005103,08 Oct 23,10,Dendy Park,Murrumbeena,No. 4,Madison Luu,Soham Gunjal,Madison Luu,6-3,6,3,1,0,Completed,true,false,true
+UA005104,08 Oct 23,10,Coatesville,St James,No. 1,William Chu,Isaac Walsh,William Chu,6-2,6,2,1,0,Completed,true,false,false
+UA005104,08 Oct 23,10,Coatesville,St James,No. 2,Jordan Ireson,Hamish Collopy,Jordan Ireson,6-2,6,2,1,0,Completed,true,false,false
+UA005104,08 Oct 23,10,Coatesville,St James,No. 3,Daniel Foldvari,Mark Cahill,Daniel Foldvari,7-5,7,5,1,0,Completed,true,false,false
+UA005104,08 Oct 23,10,Coatesville,St James,No. 4,Gabriel Raboy,Tom Webb,Gabriel Raboy,7-5,7,5,1,0,Completed,true,false,false
+UA005111,15 Oct 23,11,BLTC Blue,Coatesville,No. 1,Anatoly Dashkevich,William Chu,William Chu,1-6,1,6,0,1,Completed,true,false,false
+UA005111,15 Oct 23,11,BLTC Blue,Coatesville,No. 2,Casper Billing,Charlie Garcia,Charlie Garcia,0-6,0,6,0,1,Completed,true,false,false
+UA005111,15 Oct 23,11,BLTC Blue,Coatesville,No. 3,Willem Duncan,Daniel Foldvari,Daniel Foldvari,1-6,1,6,0,1,Completed,true,false,false
+UA005111,15 Oct 23,11,BLTC Blue,Coatesville,No. 4,Harry Boden Fourie,Ethan Shniader,Ethan Shniader,3-6,3,6,0,1,Completed,true,false,false
+UA005112,15 Oct 23,11,Hurlingham Park,Black Rock,No. 1,Zachary Boatto,James Gilbert,Zachary Boatto,6-2,6,2,1,0,Completed,true,false,false
+UA005112,15 Oct 23,11,Hurlingham Park,Black Rock,No. 2,Timeo Massenet,Ella Rankin,Timeo Massenet,6-2,6,2,1,0,Completed,true,false,false
+UA005112,15 Oct 23,11,Hurlingham Park,Black Rock,No. 3,Tomek Foroncewicz,Emma Enkelman,Emma Enkelman,4-6,4,6,0,1,Completed,true,false,false
+UA005112,15 Oct 23,11,Hurlingham Park,Black Rock,No. 4,Veitel Lin,Kiara Morris,Veitel Lin,6-2,6,2,1,0,Completed,true,false,false
+UA005113,15 Oct 23,11,Murrumbeena,Beaumaris CC,No. 1,Oscar Liu,Lucas Zhou,Lucas Zhou,4-6,4,6,0,1,Completed,true,false,false
+UA005113,15 Oct 23,11,Murrumbeena,Beaumaris CC,No. 2,Patrick Mills,William Wu,Patrick Mills,6-4,6,4,1,0,Completed,true,false,false
+UA005113,15 Oct 23,11,Murrumbeena,Beaumaris CC,No. 3,Eric Tran,Andrew Slesarev,Andrew Slesarev,1-6,1,6,0,1,Completed,true,true,false
+UA005113,15 Oct 23,11,Murrumbeena,Beaumaris CC,No. 4,Oscar McCallum,Joel Bryant,Joel Bryant,3-6,3,6,0,1,Completed,true,true,false
+UA005114,15 Oct 23,11,St James,Dendy Park,No. 1,Isaac Walsh,Kiera Hatzistavros,Kiera Hatzistavros,2-6,2,6,0,1,Completed,true,false,false
+UA005114,15 Oct 23,11,St James,Dendy Park,No. 2,Hamish Collopy,Amber Brown,Hamish Collopy,6-4,6,4,1,0,Completed,true,false,false
+UA005114,15 Oct 23,11,St James,Dendy Park,No. 3,Mark Cahill,Harrison Kemp,Harrison Kemp,1-6,1,6,0,1,Completed,true,false,false
+UA005114,15 Oct 23,11,St James,Dendy Park,No. 4,Tom Webb,Madison Luu,Tom Webb,6-0,6,0,1,0,Completed,true,false,false
+UA005121,22 Oct 23,12,St James,Murrumbeena,No. 1,Isaac Walsh,Oscar Liu,Oscar Liu,2-6,2,6,0,1,Completed,true,false,false
+UA005121,22 Oct 23,12,St James,Murrumbeena,No. 2,Hamish Collopy,Patrick Mills,Patrick Mills,2-6,2,6,0,1,Completed,true,false,false
+UA005121,22 Oct 23,12,St James,Murrumbeena,No. 3,Mark Cahill,Jacob Hong-Dunnett,Jacob Hong-Dunnett,2-6,2,6,0,1,Completed,true,false,false
+UA005121,22 Oct 23,12,St James,Murrumbeena,No. 4,Tom Webb,Marlo Waters,Marlo Waters,1-6,1,6,0,1,Completed,true,false,false
+UA005122,22 Oct 23,12,Black Rock,Beaumaris CC,No. 1,James Gilbert,William Wu,William Wu,4-6,4,6,0,1,Completed,true,false,false
+UA005122,22 Oct 23,12,Black Rock,Beaumaris CC,No. 2,Ella Rankin,Aaron Vu,Ella Rankin,6-3,6,3,1,0,Completed,true,false,false
+UA005122,22 Oct 23,12,Black Rock,Beaumaris CC,No. 3,Emma Enkelman,Joel Bryant,Joel Bryant,5-7,5,7,0,1,Completed,true,false,false
+UA005122,22 Oct 23,12,Black Rock,Beaumaris CC,No. 4,Amelie Smith,Gabe Ruberu,Gabe Ruberu,5-7,5,7,0,1,Completed,true,false,true
+UA005123,22 Oct 23,12,Dendy Park,Coatesville,No. 1,[Unnamed player — TROLS UA005123 home code 1],Jordan Ireson,Jordan Ireson,0-6,0,6,0,1,Completed,false,false,false
+UA005123,22 Oct 23,12,Dendy Park,Coatesville,No. 2,Harrison Kemp,Charlie Garcia,Charlie Garcia,2-6,2,6,0,1,Completed,true,false,false
+UA005123,22 Oct 23,12,Dendy Park,Coatesville,No. 3,Grace Edwards,Daniel Foldvari,Daniel Foldvari,1-6,1,6,0,1,Completed,true,false,false
+UA005123,22 Oct 23,12,Dendy Park,Coatesville,No. 4,Luka Federman,Gabriel Raboy,Luka Federman,6-0,6,0,1,0,Completed,true,true,false
+UA005124,22 Oct 23,12,Hurlingham Park,BLTC Blue,No. 1,Zachary Boatto,Casper Billing,Zachary Boatto,6-2,6,2,1,0,Completed,true,false,false
+UA005124,22 Oct 23,12,Hurlingham Park,BLTC Blue,No. 2,Timeo Massenet,Willem Duncan,Timeo Massenet,6-2,6,2,1,0,Completed,true,false,false
+UA005124,22 Oct 23,12,Hurlingham Park,BLTC Blue,No. 3,Tomek Foroncewicz,Harry Boden Fourie,Harry Boden Fourie,1-6,1,6,0,1,Completed,true,false,false
+UA005124,22 Oct 23,12,Hurlingham Park,BLTC Blue,No. 4,Archie Braithwaite,Sophie Turner,Sophie Turner,5-7,5,7,0,1,Completed,true,true,false
+UA005131,29 Oct 23,13,Murrumbeena,Hurlingham Park,No. 1,Oscar Liu,Timeo Massenet,Oscar Liu,6-1,6,1,1,0,Completed,true,false,false
+UA005131,29 Oct 23,13,Murrumbeena,Hurlingham Park,No. 2,Patrick Mills,Tomek Foroncewicz,Patrick Mills,6-3,6,3,1,0,Completed,true,false,false
+UA005131,29 Oct 23,13,Murrumbeena,Hurlingham Park,No. 3,Jacob Hong-Dunnett,Archie Braithwaite,Jacob Hong-Dunnett,6-1,6,1,1,0,Completed,true,false,true
+UA005131,29 Oct 23,13,Murrumbeena,Hurlingham Park,No. 4,Soham Gunjal,Veitel Lin,Veitel Lin,3-6,3,6,0,1,Completed,true,true,false
+UA005132,29 Oct 23,13,BLTC Blue,St James,No. 1,Anatoly Dashkevich,Isaac Walsh,Isaac Walsh,3-6,3,6,0,1,Completed,true,false,false
+UA005132,29 Oct 23,13,BLTC Blue,St James,No. 2,Casper Billing,Hamish Collopy,Hamish Collopy,2-6,2,6,0,1,Completed,true,false,false
+UA005132,29 Oct 23,13,BLTC Blue,St James,No. 3,Willem Duncan,Mark Cahill,Mark Cahill,3-6,3,6,0,1,Completed,true,false,false
+UA005132,29 Oct 23,13,BLTC Blue,St James,No. 4,Sophie Turner,Tom Webb,Sophie Turner,6-2,6,2,1,0,Completed,true,false,false
+UA005134,29 Oct 23,13,Beaumaris CC,Dendy Park,No. 1,Lucas Zhou,Kiera Hatzistavros,Lucas Zhou,6-4,6,4,1,0,Completed,true,false,false
+UA005134,29 Oct 23,13,Beaumaris CC,Dendy Park,No. 2,William Wu,Amber Brown,William Wu,6-3,6,3,1,0,Completed,true,false,false
+UA005134,29 Oct 23,13,Beaumaris CC,Dendy Park,No. 3,Aaron Vu,[Unnamed player — TROLS UA005134 away code 3],Aaron Vu,6-0,6,0,1,0,Completed,false,false,false
+UA005134,29 Oct 23,13,Beaumaris CC,Dendy Park,No. 4,Joel Bryant,Madison Luu,Joel Bryant,6-2,6,2,1,0,Completed,true,false,false
+UA005141,12 Nov 23,14,Murrumbeena,BLTC Blue,No. 1,Oscar Liu,Olivia Foster,Oscar Liu,6-3,6,3,1,0,Completed,true,false,false
+UA005141,12 Nov 23,14,Murrumbeena,BLTC Blue,No. 2,Ruby Huggins,Casper Billing,Ruby Huggins,6-0,6,0,1,0,Completed,true,false,false
+UA005141,12 Nov 23,14,Murrumbeena,BLTC Blue,No. 3,Patrick Mills,Willem Duncan,Willem Duncan,2-6,2,6,0,1,Completed,true,false,false
+UA005141,12 Nov 23,14,Murrumbeena,BLTC Blue,No. 4,Jacob Hong-Dunnett,Harry Boden Fourie,Harry Boden Fourie,3-6,3,6,0,1,Completed,true,false,false
+UA005142,12 Nov 23,14,St James,Hurlingham Park,No. 1,Isaac Walsh,Zachary Boatto,Zachary Boatto,3-6,3,6,0,1,Completed,true,false,false
+UA005142,12 Nov 23,14,St James,Hurlingham Park,No. 2,Hamish Collopy,Timeo Massenet,Hamish Collopy,7-5,7,5,1,0,Completed,true,false,false
+UA005142,12 Nov 23,14,St James,Hurlingham Park,No. 3,Mark Cahill,Tomek Foroncewicz,Mark Cahill,6-3,6,3,1,0,Completed,true,false,false
+UA005142,12 Nov 23,14,St James,Hurlingham Park,No. 4,Tom Webb,Veitel Lin,Veitel Lin,1-6,1,6,0,1,Completed,true,false,false
+UA005143,12 Nov 23,14,Coatesville,Beaumaris CC,No. 1,William Chu,Lucas Zhou,Lucas Zhou,3-6,3,6,0,1,Completed,true,false,false
+UA005143,12 Nov 23,14,Coatesville,Beaumaris CC,No. 2,Jordan Ireson,William Wu,Jordan Ireson,7-5,7,5,1,0,Completed,true,false,false
+UA005143,12 Nov 23,14,Coatesville,Beaumaris CC,No. 3,Daniel Foldvari,Aaron Vu,Aaron Vu,3-6,3,6,0,1,Completed,true,false,false
+UA005143,12 Nov 23,14,Coatesville,Beaumaris CC,No. 4,Ethan Shniader,Gabe Ruberu,Gabe Ruberu,2-6,2,6,0,1,Completed,true,false,true
+UA005144,12 Nov 23,14,Dendy Park,Black Rock,No. 1,Kiera Hatzistavros,Ernie Brooks,Kiera Hatzistavros,6-4,6,4,1,0,Completed,true,false,false
+UA005144,12 Nov 23,14,Dendy Park,Black Rock,No. 2,Amber Brown,James Gilbert,James Gilbert,4-6,4,6,0,1,Completed,true,false,false
+UA005144,12 Nov 23,14,Dendy Park,Black Rock,No. 3,Harrison Kemp,Kiara Morris,Harrison Kemp,6-2,6,2,1,0,Completed,true,false,false
+UA005144,12 Nov 23,14,Dendy Park,Black Rock,No. 4,Grace Edwards,Alex Enkelman,Alex Enkelman,5-7,5,7,0,1,Completed,true,false,true
+UA005301,,16,Beaumaris CC,BLTC Blue,No. 1,Lucas Zhou,Anatoly Dashkevich,Lucas Zhou,6-0,6,0,1,0,Completed,true,false,false
+UA005301,,16,Beaumaris CC,BLTC Blue,No. 2,William Wu,Olivia Foster,William Wu,6-4,6,4,1,0,Completed,true,false,false
+UA005301,,16,Beaumaris CC,BLTC Blue,No. 3,Aaron Vu,Willem Duncan,Aaron Vu,6-4,6,4,1,0,Completed,true,false,false
+UA005301,,16,Beaumaris CC,BLTC Blue,No. 4,Andrew Slesarev,Harry Boden Fourie,Andrew Slesarev,6-3,6,3,1,0,Completed,true,false,false
+UA005302,,16,Murrumbeena,Coatesville,No. 1,Oscar Liu,William Chu,Oscar Liu,7-6,7,6,1,0,Completed,true,false,false
+UA005302,,16,Murrumbeena,Coatesville,No. 2,Ruby Huggins,Jordan Ireson,Ruby Huggins,6-3,6,3,1,0,Completed,true,false,false
+UA005302,,16,Murrumbeena,Coatesville,No. 3,Patrick Mills,Charlie Garcia,Patrick Mills,6-4,6,4,1,0,Completed,true,false,false
+UA005302,,16,Murrumbeena,Coatesville,No. 4,Jacob Hong-Dunnett,Daniel Foldvari,Jacob Hong-Dunnett,7-6,7,6,1,0,Completed,true,false,false
+UA005321,,17,Beaumaris CC,Murrumbeena,No. 1,Lucas Zhou,Oscar Liu,Lucas Zhou,6-4,6,4,1,0,Completed,true,false,false
+UA005321,,17,Beaumaris CC,Murrumbeena,No. 2,William Wu,Ruby Huggins,William Wu,7-5,7,5,1,0,Completed,true,false,false
+UA005321,,17,Beaumaris CC,Murrumbeena,No. 3,Aaron Vu,Patrick Mills,Patrick Mills,6-7,6,7,0,1,Completed,true,false,false
+UA005321,,17,Beaumaris CC,Murrumbeena,No. 4,Andrew Slesarev,Jacob Hong-Dunnett,Jacob Hong-Dunnett,0-6,0,6,0,1,Completed,true,false,false

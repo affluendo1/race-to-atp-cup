@@ -1,0 +1,81 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA002022,11 Feb 23,2,Carmelite Red,Carmelite Yellow,No. 1,Aleksandar McKenzie,Henry Haggett,Henry Haggett,1-6,1,6,0,1,Completed,true,false,false
+AA002022,11 Feb 23,2,Carmelite Red,Carmelite Yellow,No. 2,Rehan Senthi,Kalan Thomas,Rehan Senthi,7-6,7,6,1,0,Completed,true,false,false
+AA002022,11 Feb 23,2,Carmelite Red,Carmelite Yellow,No. 3,Zachary Unsworth,Ewan Karanoskof,Zachary Unsworth,6-2,6,2,1,0,Completed,true,false,false
+AA002022,11 Feb 23,2,Carmelite Red,Carmelite Yellow,No. 4,Curtis Brown,Stefan Savic,Stefan Savic,1-6,1,6,0,1,Completed,true,false,false
+AA002023,11 Feb 23,2,Carmelite Blue,Kooyong,No. 1,Anna Fourlanos,Anna-Maria Stamenos,Anna-Maria Stamenos,5-7,5,7,0,1,Completed,true,false,false
+AA002023,11 Feb 23,2,Carmelite Blue,Kooyong,No. 2,Gene Tulloch,Miles Mitchell,Miles Mitchell,0-6,0,6,0,1,Completed,true,false,false
+AA002023,11 Feb 23,2,Carmelite Blue,Kooyong,No. 3,Ethan Watson,Elizabeth Ullmer,Ethan Watson,6-2,6,2,1,0,Completed,true,false,false
+AA002023,11 Feb 23,2,Carmelite Blue,Kooyong,No. 4,Tessa Kearney,William Stevens,Tessa Kearney,6-0,6,0,1,0,Completed,true,false,true
+AA002031,18 Feb 23,3,Port Melbourne Green,Kooyong,No. 1,Jamieson Stothers,Oliver Dennis,Oliver Dennis,4-6,4,6,0,1,Completed,true,false,false
+AA002031,18 Feb 23,3,Port Melbourne Green,Kooyong,No. 2,Alexis Faga,Victoria Ullmer,Victoria Ullmer,2-6,2,6,0,1,Completed,true,false,false
+AA002031,18 Feb 23,3,Port Melbourne Green,Kooyong,No. 3,Nevan Harrap,Elizabeth Ullmer,Nevan Harrap,6-1,6,1,1,0,Completed,true,false,false
+AA002031,18 Feb 23,3,Port Melbourne Green,Kooyong,No. 4,Elan Roy Meyer,Freddie Tulloch,Freddie Tulloch,2-6,2,6,0,1,Completed,true,false,true
+AA002032,18 Feb 23,3,Carmelite Yellow,Carmelite Blue,No. 1,Ben Lobley,Anna Fourlanos,Ben Lobley,6-1,6,1,1,0,Completed,true,false,false
+AA002032,18 Feb 23,3,Carmelite Yellow,Carmelite Blue,No. 2,Henry Haggett,Gene Tulloch,Henry Haggett,6-4,6,4,1,0,Completed,true,false,false
+AA002032,18 Feb 23,3,Carmelite Yellow,Carmelite Blue,No. 3,Stefan Savic,Ethan Watson,Stefan Savic,7-5,7,5,1,0,Completed,true,false,false
+AA002032,18 Feb 23,3,Carmelite Yellow,Carmelite Blue,No. 4,Ewan Karanoskof,Tessa Kearney,Tessa Kearney,3-6,3,6,0,1,Completed,true,false,false
+AA002041,25 Feb 23,4,Carmelite Red,Port Melbourne Green,No. 1,Rehan Senthi,Nevan Harrap,Nevan Harrap,1-6,1,6,0,1,Completed,true,false,false
+AA002041,25 Feb 23,4,Carmelite Red,Port Melbourne Green,No. 2,Zachary Unsworth,Mitchell Nicholas,Zachary Unsworth,6-1,6,1,1,0,Completed,true,false,false
+AA002041,25 Feb 23,4,Carmelite Red,Port Melbourne Green,No. 3,Harry Law,James Waldhart,James Waldhart,0-6,0,6,0,1,Completed,true,false,false
+AA002041,25 Feb 23,4,Carmelite Red,Port Melbourne Green,No. 4,Archie Ingram,Elan Roy Meyer,Archie Ingram,6-2,6,2,1,0,Completed,true,false,false
+AA002043,25 Feb 23,4,Kooyong,Carmelite Yellow,No. 1,Anna-Maria Stamenos,Henry Haggett,Henry Haggett,0-6,0,6,0,1,Completed,true,false,false
+AA002043,25 Feb 23,4,Kooyong,Carmelite Yellow,No. 2,Oliver Dennis,Stefan Savic,Stefan Savic,2-6,2,6,0,1,Completed,true,false,false
+AA002043,25 Feb 23,4,Kooyong,Carmelite Yellow,No. 3,Victoria Ullmer,Liam McKeefry,Victoria Ullmer,6-2,6,2,1,0,Completed,true,false,false
+AA002043,25 Feb 23,4,Kooyong,Carmelite Yellow,No. 4,Elizabeth Ullmer,Ewan Karanoskof,Elizabeth Ullmer,6-3,6,3,1,0,Completed,true,false,false
+AA002051,04 Mar 23,5,Port Melbourne Green,Carmelite Yellow,No. 1,Jamieson Stothers,Ben Lobley,Ben Lobley,0-6,0,6,0,1,Completed,true,false,false
+AA002051,04 Mar 23,5,Port Melbourne Green,Carmelite Yellow,No. 2,Mitchell Nicholas,Stefan Savic,Stefan Savic,1-6,1,6,0,1,Completed,true,false,false
+AA002051,04 Mar 23,5,Port Melbourne Green,Carmelite Yellow,No. 3,James Waldhart,Liam McKeefry,Liam McKeefry,1-6,1,6,0,1,Completed,true,false,false
+AA002051,04 Mar 23,5,Port Melbourne Green,Carmelite Yellow,No. 4,Alexis Faga,Ewan Karanoskof,Ewan Karanoskof,0-6,0,6,0,1,Completed,true,false,false
+AA002052,04 Mar 23,5,Carmelite Red,Carmelite Blue,No. 1,Zachary Unsworth,Anna Fourlanos,Zachary Unsworth,6-3,6,3,1,0,Completed,true,false,false
+AA002052,04 Mar 23,5,Carmelite Red,Carmelite Blue,No. 2,Harry Law,Gene Tulloch,Gene Tulloch,6-7,6,7,0,1,Completed,true,false,false
+AA002052,04 Mar 23,5,Carmelite Red,Carmelite Blue,No. 3,Curtis Brown,Gabriel Ferrigno,Gabriel Ferrigno,3-6,3,6,0,1,Completed,true,false,false
+AA002052,04 Mar 23,5,Carmelite Red,Carmelite Blue,No. 4,Rehan Senthi,Tessa Kearney,Rehan Senthi,7-6,7,6,1,0,Completed,true,false,false
+AA002061,18 Mar 23,6,Carmelite Blue,Port Melbourne Green,No. 1,Anna Fourlanos,Nevan Harrap,Nevan Harrap,2-6,2,6,0,1,Completed,true,false,false
+AA002061,18 Mar 23,6,Carmelite Blue,Port Melbourne Green,No. 2,Gabriel Ferrigno,Jamieson Stothers,Gabriel Ferrigno,6-3,6,3,1,0,Completed,true,false,false
+AA002061,18 Mar 23,6,Carmelite Blue,Port Melbourne Green,No. 3,Ethan Watson,Elan Roy Meyer,Ethan Watson,7-5,7,5,1,0,Completed,true,false,false
+AA002061,18 Mar 23,6,Carmelite Blue,Port Melbourne Green,No. 4,Tessa Kearney,Alexis Faga,Tessa Kearney,6-1,6,1,1,0,Completed,true,false,false
+AA002062,18 Mar 23,6,Carmelite Red,Kooyong,No. 1,Harry Law,Anna-Maria Stamenos,Anna-Maria Stamenos,3-6,3,6,0,1,Completed,true,false,false
+AA002062,18 Mar 23,6,Carmelite Red,Kooyong,No. 2,Zachary Unsworth,Victoria Ullmer,Zachary Unsworth,6-4,6,4,1,0,Completed,true,false,false
+AA002062,18 Mar 23,6,Carmelite Red,Kooyong,No. 3,Curtis Brown,Oliver Dennis,Oliver Dennis,6-7,6,7,0,1,Completed,true,false,false
+AA002062,18 Mar 23,6,Carmelite Red,Kooyong,No. 4,Archie Ingram,Freddie Tulloch,Archie Ingram,7-6,7,6,1,0,Completed,true,false,true
+AA002072,25 Mar 23,7,Carmelite Yellow,Carmelite Red,No. 1,Henry Haggett,Aleksandar McKenzie,Henry Haggett,6-3,6,3,1,0,Completed,true,false,false
+AA002072,25 Mar 23,7,Carmelite Yellow,Carmelite Red,No. 2,Kalan Thomas,Zachary Unsworth,Zachary Unsworth,1-6,1,6,0,1,Completed,true,false,false
+AA002072,25 Mar 23,7,Carmelite Yellow,Carmelite Red,No. 3,Stefan Savic,Curtis Brown,Stefan Savic,6-1,6,1,1,0,Completed,true,false,false
+AA002072,25 Mar 23,7,Carmelite Yellow,Carmelite Red,No. 4,Liam McKeefry,Archie Ingram,Liam McKeefry,6-3,6,3,1,0,Completed,true,false,false
+AA002073,25 Mar 23,7,Kooyong,Carmelite Blue,No. 1,Anna-Maria Stamenos,Anna Fourlanos,Anna Fourlanos,5-7,5,7,0,1,Completed,true,false,false
+AA002073,25 Mar 23,7,Kooyong,Carmelite Blue,No. 2,Miles Mitchell,Charlie-grace Galanis,Miles Mitchell,6-2,6,2,1,0,Completed,true,false,false
+AA002073,25 Mar 23,7,Kooyong,Carmelite Blue,No. 3,Oliver Dennis,Gene Tulloch,Gene Tulloch,0-6,0,6,0,1,Completed,true,false,false
+AA002073,25 Mar 23,7,Kooyong,Carmelite Blue,No. 4,Victoria Ullmer,Ethan Watson,Victoria Ullmer,7-6,7,6,1,0,Completed,true,false,false
+AA002081,01 Apr 23,8,Kooyong,Port Melbourne Green,No. 1,Anna-Maria Stamenos,Nevan Harrap,Nevan Harrap,0-6,0,6,0,1,Completed,true,false,false
+AA002081,01 Apr 23,8,Kooyong,Port Melbourne Green,No. 2,Miles Mitchell,Elan Roy Meyer,Miles Mitchell,6-1,6,1,1,0,Completed,true,false,false
+AA002081,01 Apr 23,8,Kooyong,Port Melbourne Green,No. 3,Oliver Dennis,Mitchell Nicholas,Oliver Dennis,6-2,6,2,1,0,Completed,true,false,false
+AA002081,01 Apr 23,8,Kooyong,Port Melbourne Green,No. 4,Victoria Ullmer,Jamieson Stothers,Victoria Ullmer,6-2,6,2,1,0,Completed,true,false,false
+AA002091,29 Apr 23,9,Port Melbourne Green,Carmelite Red,No. 1,Jamieson Stothers,Harry Law,Jamieson Stothers,6-1,6,1,1,0,Completed,true,false,false
+AA002091,29 Apr 23,9,Port Melbourne Green,Carmelite Red,No. 2,Mitchell Nicholas,Aleksandar McKenzie,Aleksandar McKenzie,1-6,1,6,0,1,Completed,true,false,false
+AA002091,29 Apr 23,9,Port Melbourne Green,Carmelite Red,No. 3,James Waldhart,Rehan Senthi,Rehan Senthi,1-6,1,6,0,1,Completed,true,false,false
+AA002091,29 Apr 23,9,Port Melbourne Green,Carmelite Red,No. 4,Alexis Faga,Archie Ingram,Archie Ingram,4-6,4,6,0,1,Completed,true,false,false
+AA002093,29 Apr 23,9,Carmelite Yellow,Kooyong,No. 1,Ben Lobley,Anna-Maria Stamenos,Ben Lobley,6-0,6,0,1,0,Completed,true,false,false
+AA002093,29 Apr 23,9,Carmelite Yellow,Kooyong,No. 2,Henry Haggett,Miles Mitchell,Miles Mitchell,1-6,1,6,0,1,Completed,true,false,false
+AA002093,29 Apr 23,9,Carmelite Yellow,Kooyong,No. 3,Stefan Savic,Victoria Ullmer,Stefan Savic,7-5,7,5,1,0,Completed,true,false,false
+AA002093,29 Apr 23,9,Carmelite Yellow,Kooyong,No. 4,Ewan Karanoskof,Oliver Dennis,Oliver Dennis,0-6,0,6,0,1,Completed,true,false,false
+AA002111,13 May 23,11,Port Melbourne Green,Carmelite Blue,No. 1,Nevan Harrap,Charlie-grace Galanis,Charlie-grace Galanis,4-6,4,6,0,1,Completed,true,false,false
+AA002111,13 May 23,11,Port Melbourne Green,Carmelite Blue,No. 2,Jamieson Stothers,Gene Tulloch,Jamieson Stothers,7-6,7,6,1,0,Completed,true,false,false
+AA002111,13 May 23,11,Port Melbourne Green,Carmelite Blue,No. 3,Mitchell Nicholas,Gabriel Ferrigno,Mitchell Nicholas,6-4,6,4,1,0,Completed,true,false,false
+AA002111,13 May 23,11,Port Melbourne Green,Carmelite Blue,No. 4,Alexis Faga,Tessa Kearney,Tessa Kearney,3-6,3,6,0,1,Completed,true,false,false
+AA002112,13 May 23,11,Kooyong,Carmelite Red,No. 1,Anna-Maria Stamenos,Harry Law,Harry Law,0-6,0,6,0,1,Completed,true,false,false
+AA002112,13 May 23,11,Kooyong,Carmelite Red,No. 2,Miles Mitchell,Aleksandar McKenzie,Miles Mitchell,6-2,6,2,1,0,Completed,true,false,false
+AA002112,13 May 23,11,Kooyong,Carmelite Red,No. 3,Oliver Dennis,Rehan Senthi,Oliver Dennis,6-2,6,2,1,0,Completed,true,false,false
+AA002112,13 May 23,11,Kooyong,Carmelite Red,No. 4,Pia Stewart,Archie Ingram,Pia Stewart,6-3,6,3,1,0,Completed,true,true,false
+AA002131,27 May 23,13,Port Melbourne Green,Kooyong,No. 1,Jamieson Stothers,Anna-Maria Stamenos,Anna-Maria Stamenos,3-6,3,6,0,1,Completed,true,false,false
+AA002131,27 May 23,13,Port Melbourne Green,Kooyong,No. 2,Elan Roy Meyer,Miles Mitchell,Miles Mitchell,1-6,1,6,0,1,Completed,true,false,false
+AA002131,27 May 23,13,Port Melbourne Green,Kooyong,No. 3,Mitchell Nicholas,Victoria Ullmer,Victoria Ullmer,0-6,0,6,0,1,Completed,true,false,false
+AA002131,27 May 23,13,Port Melbourne Green,Kooyong,No. 4,James Waldhart,Max Leveque,Max Leveque,1-6,1,6,0,1,Completed,true,false,true
+AA002132,27 May 23,13,Carmelite Yellow,Carmelite Blue,No. 1,Ben Lobley,Anna Fourlanos,Ben Lobley,6-0,6,0,1,0,Completed,true,false,false
+AA002132,27 May 23,13,Carmelite Yellow,Carmelite Blue,No. 2,Henry Haggett,Charlie-grace Galanis,Charlie-grace Galanis,5-7,5,7,0,1,Completed,true,false,false
+AA002132,27 May 23,13,Carmelite Yellow,Carmelite Blue,No. 3,Kalan Thomas,Gene Tulloch,Kalan Thomas,6-3,6,3,1,0,Completed,true,false,false
+AA002132,27 May 23,13,Carmelite Yellow,Carmelite Blue,No. 4,Liam McKeefry,Gabriel Ferrigno,Gabriel Ferrigno,4-6,4,6,0,1,Completed,true,false,false
+AA002321,,16,Carmelite Yellow,Kooyong,No. 1,Ben Lobley,Anna-Maria Stamenos,Ben Lobley,6-2,6,2,1,0,Completed,true,false,false
+AA002321,,16,Carmelite Yellow,Kooyong,No. 2,Henry Haggett,Miles Mitchell,Miles Mitchell,2-6,2,6,0,1,Completed,true,false,false
+AA002321,,16,Carmelite Yellow,Kooyong,No. 3,Kalan Thomas,Oliver Dennis,Kalan Thomas,6-4,6,4,1,0,Completed,true,false,false
+AA002321,,16,Carmelite Yellow,Kooyong,No. 4,Stefan Savic,Victoria Ullmer,Stefan Savic,7-6,7,6,1,0,Completed,true,false,false

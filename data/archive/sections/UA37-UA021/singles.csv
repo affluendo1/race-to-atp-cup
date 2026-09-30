@@ -1,0 +1,200 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA021011,27 Jul 25,1,Dendy Park,BLTC,No. 1,Emily Van De Water,Saya James,Emily Van De Water,6-1,6,1,1,0,Completed,true,true,false
+UA021011,27 Jul 25,1,Dendy Park,BLTC,No. 2,Eleanor Keady,Kaia McGhee,Kaia McGhee,0-6,0,6,0,1,Completed,true,true,false
+UA021011,27 Jul 25,1,Dendy Park,BLTC,No. 3,Oscar Want,Alexander Constantin,Oscar Want,6-4,6,4,1,0,Completed,true,false,true
+UA021011,27 Jul 25,1,Dendy Park,BLTC,No. 4,Taku Ramensky,Ashlyn Tan,Ashlyn Tan,2-6,2,6,0,1,Completed,true,false,true
+UA021012,27 Jul 25,1,Highmoor Uniting,GPHC,No. 1,Blake Woodside,Quincy Crow,Blake Woodside,6-2,6,2,1,0,Completed,true,false,false
+UA021012,27 Jul 25,1,Highmoor Uniting,GPHC,No. 2,Matthew Saynor,[Unnamed player — TROLS UA021012 away code 2],Matthew Saynor,6-0,6,0,1,0,Completed,false,false,false
+UA021012,27 Jul 25,1,Highmoor Uniting,GPHC,No. 3,Oliver Dali-Gawne,Lilla De Luca,Oliver Dali-Gawne,6-1,6,1,1,0,Completed,true,false,false
+UA021012,27 Jul 25,1,Highmoor Uniting,GPHC,No. 4,Reuben Jones,Sophie Taylor,Reuben Jones,6-4,6,4,1,0,Completed,true,false,false
+UA021013,27 Jul 25,1,Beaumaris CC,Kings Park,No. 1,Harrison Coxon,Jayden Bone,Jayden Bone,1-6,1,6,0,1,Completed,true,false,false
+UA021013,27 Jul 25,1,Beaumaris CC,Kings Park,No. 2,Josh Ruigrok,Lynah Tchim,Lynah Tchim,0-6,0,6,0,1,Completed,true,false,false
+UA021013,27 Jul 25,1,Beaumaris CC,Kings Park,No. 3,Lenny Hellyer,Thomas Zhang,Thomas Zhang,3-6,3,6,0,1,Completed,true,false,false
+UA021013,27 Jul 25,1,Beaumaris CC,Kings Park,No. 4,Aleksandar Ostojic,Luca Caneschi-Llorca,Luca Caneschi-Llorca,3-6,3,6,0,1,Completed,true,false,false
+UA021014,27 Jul 25,1,Royal Ave,Aspendale,No. 1,Eloise Fujii,Carter Sam,Eloise Fujii,7-6,7,6,1,0,Completed,true,false,false
+UA021014,27 Jul 25,1,Royal Ave,Aspendale,No. 2,Sophie Whitelaw,Joe Corda,Joe Corda,0-6,0,6,0,1,Completed,true,false,false
+UA021014,27 Jul 25,1,Royal Ave,Aspendale,No. 3,Shania Attygale,Emerson Avery,Shania Attygale,6-3,6,3,1,0,Completed,true,false,false
+UA021014,27 Jul 25,1,Royal Ave,Aspendale,No. 4,Miaomiao Cai,Ben Gunn,Miaomiao Cai,6-3,6,3,1,0,Completed,true,false,false
+UA021021,03 Aug 25,2,Aspendale,Dendy Park,No. 1,Carter Sam,Eleanor Keady,Carter Sam,7-5,7,5,1,0,Completed,true,false,true
+UA021021,03 Aug 25,2,Aspendale,Dendy Park,No. 2,Joe Corda,Emily Van De Water,Joe Corda,7-6,7,6,1,0,Completed,true,false,true
+UA021021,03 Aug 25,2,Aspendale,Dendy Park,No. 3,Ben Gunn,Oscar Want,Ben Gunn,6-4,6,4,1,0,Completed,true,false,false
+UA021021,03 Aug 25,2,Aspendale,Dendy Park,No. 4,Cathy Lee,Taku Ramensky,Cathy Lee,6-3,6,3,1,0,Completed,true,true,false
+UA021022,03 Aug 25,2,BLTC,Highmoor Uniting,No. 1,Saya James,Blake Woodside,Saya James,6-1,6,1,1,0,Completed,true,false,false
+UA021022,03 Aug 25,2,BLTC,Highmoor Uniting,No. 2,Kaia McGhee,Alister Woodside,Kaia McGhee,6-0,6,0,1,0,Completed,true,false,false
+UA021022,03 Aug 25,2,BLTC,Highmoor Uniting,No. 3,Alexander Constantin,Oliver Dali-Gawne,Oliver Dali-Gawne,6-7,6,7,0,1,Completed,true,true,false
+UA021022,03 Aug 25,2,BLTC,Highmoor Uniting,No. 4,Ashlyn Tan,Reuben Jones,Ashlyn Tan,6-1,6,1,1,0,Completed,true,true,false
+UA021023,03 Aug 25,2,GPHC,Beaumaris CC,No. 1,Sally Burns,Josh Ruigrok,Josh Ruigrok,3-6,3,6,0,1,Completed,true,false,false
+UA021023,03 Aug 25,2,GPHC,Beaumaris CC,No. 2,Lilla De Luca,Lenny Hellyer,Lilla De Luca,6-1,6,1,1,0,Completed,true,false,false
+UA021023,03 Aug 25,2,GPHC,Beaumaris CC,No. 3,Sophie Taylor,Will Manson,Sophie Taylor,7-5,7,5,1,0,Completed,true,false,false
+UA021023,03 Aug 25,2,GPHC,Beaumaris CC,No. 4,Zoe Popelianski,Hugo Schmid,Hugo Schmid,3-6,3,6,0,1,Completed,true,false,false
+UA021024,03 Aug 25,2,Kings Park,Royal Ave,No. 1,Jayden Bone,Eloise Fujii,Jayden Bone,6-1,6,1,1,0,Completed,true,false,false
+UA021024,03 Aug 25,2,Kings Park,Royal Ave,No. 2,Lynah Tchim,Sophie Whitelaw,Lynah Tchim,6-1,6,1,1,0,Completed,true,false,false
+UA021024,03 Aug 25,2,Kings Park,Royal Ave,No. 3,Luca Caneschi-Llorca,Miaomiao Cai,Luca Caneschi-Llorca,6-4,6,4,1,0,Completed,true,false,false
+UA021024,03 Aug 25,2,Kings Park,Royal Ave,No. 4,Ishin Garg,Doris Tao,Ishin Garg,6-3,6,3,1,0,Completed,true,true,false
+UA021031,10 Aug 25,3,Dendy Park,Kings Park,No. 1,Zara Reis,Jayden Bone,Jayden Bone,1-6,1,6,0,1,Completed,true,false,false
+UA021031,10 Aug 25,3,Dendy Park,Kings Park,No. 2,Kevin Xie,Lynah Tchim,Lynah Tchim,1-6,1,6,0,1,Completed,true,false,false
+UA021031,10 Aug 25,3,Dendy Park,Kings Park,No. 3,Oscar Want,Luca Caneschi-Llorca,Luca Caneschi-Llorca,6-7,6,7,0,1,Completed,true,false,false
+UA021031,10 Aug 25,3,Dendy Park,Kings Park,No. 4,Taku Ramensky,Gabriella Robertson,Gabriella Robertson,2-6,2,6,0,1,Completed,true,false,false
+UA021032,10 Aug 25,3,Highmoor Uniting,Aspendale,No. 1,Alister Woodside,Carter Sam,Alister Woodside,6-3,6,3,1,0,Completed,true,false,false
+UA021032,10 Aug 25,3,Highmoor Uniting,Aspendale,No. 2,Matthew Saynor,Joe Corda,Joe Corda,2-6,2,6,0,1,Completed,true,false,false
+UA021032,10 Aug 25,3,Highmoor Uniting,Aspendale,No. 3,Oliver Dali-Gawne,Emerson Avery,Emerson Avery,5-7,5,7,0,1,Completed,true,false,false
+UA021032,10 Aug 25,3,Highmoor Uniting,Aspendale,No. 4,Reuben Jones,Ben Gunn,Ben Gunn,2-6,2,6,0,1,Completed,true,false,false
+UA021033,10 Aug 25,3,Beaumaris CC,BLTC,No. 1,Harrison Coxon,Saya James,Saya James,1-6,1,6,0,1,Completed,true,false,false
+UA021033,10 Aug 25,3,Beaumaris CC,BLTC,No. 2,Aleksandar Ostojic,Orlando C't,Orlando C't,1-6,1,6,0,1,Completed,true,false,true
+UA021033,10 Aug 25,3,Beaumaris CC,BLTC,No. 3,Will Manson,Audrey Du,Audrey Du,1-6,1,6,0,1,Completed,true,false,true
+UA021033,10 Aug 25,3,Beaumaris CC,BLTC,No. 4,Hugo Schmid,[Unnamed player — TROLS UA021033 away code 4],Hugo Schmid,6-0,6,0,1,0,Completed,false,false,false
+UA021034,10 Aug 25,3,Royal Ave,GPHC,No. 1,Sophie Whitelaw,Quincy Crow,Sophie Whitelaw,6-1,6,1,1,0,Completed,true,false,false
+UA021034,10 Aug 25,3,Royal Ave,GPHC,No. 2,Shania Attygale,Lilla De Luca,Lilla De Luca,6-7,6,7,0,1,Completed,true,false,false
+UA021034,10 Aug 25,3,Royal Ave,GPHC,No. 3,Miaomiao Cai,Sophie Taylor,Miaomiao Cai,6-3,6,3,1,0,Completed,true,false,false
+UA021034,10 Aug 25,3,Royal Ave,GPHC,No. 4,Doris Tao,Abigail Chan,Doris Tao,6-4,6,4,1,0,Completed,true,false,true
+UA021041,17 Aug 25,4,GPHC,Dendy Park,No. 1,Quincy Crow,Zara Reis,Zara Reis,2-6,2,6,0,1,Completed,true,false,false
+UA021041,17 Aug 25,4,GPHC,Dendy Park,No. 2,Sally Burns,Kevin Xie,Sally Burns,6-4,6,4,1,0,Completed,true,false,false
+UA021041,17 Aug 25,4,GPHC,Dendy Park,No. 3,Sophie Taylor,Oscar Want,Oscar Want,3-6,3,6,0,1,Completed,true,false,false
+UA021041,17 Aug 25,4,GPHC,Dendy Park,No. 4,Zoe Popelianski,Taku Ramensky,Taku Ramensky,4-6,4,6,0,1,Completed,true,false,false
+UA021042,17 Aug 25,4,Kings Park,Highmoor Uniting,No. 1,Jayden Bone,Alister Woodside,Jayden Bone,6-2,6,2,1,0,Completed,true,false,false
+UA021042,17 Aug 25,4,Kings Park,Highmoor Uniting,No. 2,Thomas Zhang,Oliver Dali-Gawne,Oliver Dali-Gawne,0-6,0,6,0,1,Completed,true,false,false
+UA021042,17 Aug 25,4,Kings Park,Highmoor Uniting,No. 3,Luca Caneschi-Llorca,Reuben Jones,Luca Caneschi-Llorca,6-1,6,1,1,0,Completed,true,false,false
+UA021042,17 Aug 25,4,Kings Park,Highmoor Uniting,No. 4,Gabriella Robertson,Fletcher Woodside,Gabriella Robertson,6-0,6,0,1,0,Completed,true,false,true
+UA021043,17 Aug 25,4,Aspendale,Beaumaris CC,No. 1,Carter Sam,Harrison Coxon,Harrison Coxon,3-6,3,6,0,1,Completed,true,false,false
+UA021043,17 Aug 25,4,Aspendale,Beaumaris CC,No. 2,Emerson Avery,Josh Ruigrok,Emerson Avery,6-4,6,4,1,0,Completed,true,false,false
+UA021043,17 Aug 25,4,Aspendale,Beaumaris CC,No. 3,Hamish Evans,Aleksandar Ostojic,Aleksandar Ostojic,4-6,4,6,0,1,Completed,true,false,false
+UA021043,17 Aug 25,4,Aspendale,Beaumaris CC,No. 4,Steele Lamb,Hugo Schmid,Hugo Schmid,3-6,3,6,0,1,Completed,true,false,false
+UA021044,17 Aug 25,4,BLTC,Royal Ave,No. 1,Saya James,Eloise Fujii,Saya James,6-2,6,2,1,0,Completed,true,false,false
+UA021044,17 Aug 25,4,BLTC,Royal Ave,No. 2,Kaia McGhee,Sophie Whitelaw,Kaia McGhee,6-2,6,2,1,0,Completed,true,false,false
+UA021044,17 Aug 25,4,BLTC,Royal Ave,No. 3,Alexander Constantin,Miaomiao Cai,Miaomiao Cai,6-7,6,7,0,1,Completed,true,true,false
+UA021044,17 Aug 25,4,BLTC,Royal Ave,No. 4,Ashlyn Tan,Doris Tao,Doris Tao,3-6,3,6,0,1,Completed,true,true,false
+UA021051,24 Aug 25,5,Beaumaris CC,Royal Ave,No. 1,Harrison Coxon,Eloise Fujii,Harrison Coxon,6-1,6,1,1,0,Completed,true,false,false
+UA021051,24 Aug 25,5,Beaumaris CC,Royal Ave,No. 2,Lenny Hellyer,Savannah Dimachki,Savannah Dimachki,0-6,0,6,0,1,Completed,true,false,false
+UA021051,24 Aug 25,5,Beaumaris CC,Royal Ave,No. 3,Will Manson,Sophie Whitelaw,Sophie Whitelaw,1-6,1,6,0,1,Completed,true,false,false
+UA021051,24 Aug 25,5,Beaumaris CC,Royal Ave,No. 4,Hugo Schmid,Shania Attygale,Shania Attygale,2-6,2,6,0,1,Completed,true,false,false
+UA021052,24 Aug 25,5,Aspendale,Kings Park,No. 1,Ben Gunn,Jayden Bone,Jayden Bone,1-6,1,6,0,1,Completed,true,false,false
+UA021052,24 Aug 25,5,Aspendale,Kings Park,No. 2,Hamish Evans,Lynah Tchim,Lynah Tchim,0-6,0,6,0,1,Completed,true,false,false
+UA021052,24 Aug 25,5,Aspendale,Kings Park,No. 3,Zac Asker,Thomas Zhang,Zac Asker,6-3,6,3,1,0,Completed,true,false,false
+UA021052,24 Aug 25,5,Aspendale,Kings Park,No. 4,Steele Lamb,Luca Caneschi-Llorca,Luca Caneschi-Llorca,2-6,2,6,0,1,Completed,true,false,false
+UA021053,24 Aug 25,5,GPHC,BLTC,No. 1,Sally Burns,Saya James,Saya James,1-6,1,6,0,1,Completed,true,false,false
+UA021053,24 Aug 25,5,GPHC,BLTC,No. 2,Anna Joyce,Kaia McGhee,Anna Joyce,6-1,6,1,1,0,Completed,true,false,false
+UA021053,24 Aug 25,5,GPHC,BLTC,No. 3,Lilla De Luca,Alexander Constantin,Lilla De Luca,7-5,7,5,1,0,Completed,true,false,true
+UA021053,24 Aug 25,5,GPHC,BLTC,No. 4,Zoe Popelianski,Ashlyn Tan,Ashlyn Tan,2-6,2,6,0,1,Completed,true,false,true
+UA021054,24 Aug 25,5,Dendy Park,Highmoor Uniting,No. 1,Zara Reis,Alister Woodside,Zara Reis,6-2,6,2,1,0,Completed,true,false,false
+UA021054,24 Aug 25,5,Dendy Park,Highmoor Uniting,No. 2,Kevin Xie,Blake Woodside,Blake Woodside,0-6,0,6,0,1,Completed,true,false,false
+UA021054,24 Aug 25,5,Dendy Park,Highmoor Uniting,No. 3,Oscar Want,Oliver Dali-Gawne,Oliver Dali-Gawne,3-6,3,6,0,1,Completed,true,false,false
+UA021054,24 Aug 25,5,Dendy Park,Highmoor Uniting,No. 4,Taku Ramensky,Reuben Jones,Reuben Jones,4-6,4,6,0,1,Completed,true,false,false
+UA021061,31 Aug 25,6,Highmoor Uniting,Beaumaris CC,No. 1,Blake Woodside,Harrison Coxon,Blake Woodside,7-5,7,5,1,0,Completed,true,false,false
+UA021061,31 Aug 25,6,Highmoor Uniting,Beaumaris CC,No. 2,Matthew Saynor,Josh Ruigrok,Matthew Saynor,7-5,7,5,1,0,Completed,true,false,false
+UA021061,31 Aug 25,6,Highmoor Uniting,Beaumaris CC,No. 3,Oliver Dali-Gawne,Will Manson,Oliver Dali-Gawne,6-2,6,2,1,0,Completed,true,false,false
+UA021061,31 Aug 25,6,Highmoor Uniting,Beaumaris CC,No. 4,Reuben Jones,Hugo Schmid,Reuben Jones,6-0,6,0,1,0,Completed,true,false,false
+UA021062,31 Aug 25,6,Royal Ave,Dendy Park,No. 1,Savannah Dimachki,Zara Reis,Zara Reis,1-6,1,6,0,1,Completed,true,false,false
+UA021062,31 Aug 25,6,Royal Ave,Dendy Park,No. 2,Shania Attygale,Kevin Xie,Kevin Xie,1-6,1,6,0,1,Completed,true,false,false
+UA021062,31 Aug 25,6,Royal Ave,Dendy Park,No. 3,Miaomiao Cai,Oscar Want,Miaomiao Cai,7-6,7,6,1,0,Completed,true,false,false
+UA021062,31 Aug 25,6,Royal Ave,Dendy Park,No. 4,Doris Tao,Taku Ramensky,Doris Tao,6-0,6,0,1,0,Completed,true,false,false
+UA021063,31 Aug 25,6,Kings Park,GPHC,No. 1,Jayden Bone,Quincy Crow,Jayden Bone,6-3,6,3,1,0,Completed,true,false,false
+UA021063,31 Aug 25,6,Kings Park,GPHC,No. 2,Lynah Tchim,Anna Joyce,Lynah Tchim,6-2,6,2,1,0,Completed,true,false,false
+UA021063,31 Aug 25,6,Kings Park,GPHC,No. 3,Thomas Zhang,Lilla De Luca,Lilla De Luca,4-6,4,6,0,1,Completed,true,false,false
+UA021063,31 Aug 25,6,Kings Park,GPHC,No. 4,Ishin Garg,Sophie Taylor,Sophie Taylor,0-6,0,6,0,1,Completed,true,true,false
+UA021064,31 Aug 25,6,BLTC,Aspendale,No. 1,Saya James,Ben Gunn,Saya James,6-3,6,3,1,0,Completed,true,false,false
+UA021064,31 Aug 25,6,BLTC,Aspendale,No. 2,Kaia McGhee,Emerson Avery,Emerson Avery,4-6,4,6,0,1,Completed,true,false,false
+UA021064,31 Aug 25,6,BLTC,Aspendale,No. 3,Alexander Constantin,Steele Lamb,Alexander Constantin,7-6,7,6,1,0,Completed,true,true,false
+UA021064,31 Aug 25,6,BLTC,Aspendale,No. 4,Ashlyn Tan,Zac Asker,Zac Asker,6-7,6,7,0,1,Completed,true,true,false
+UA021071,07 Sep 25,7,Dendy Park,Beaumaris CC,No. 1,Zara Reis,Harrison Coxon,Zara Reis,6-3,6,3,1,0,Completed,true,false,false
+UA021071,07 Sep 25,7,Dendy Park,Beaumaris CC,No. 2,Kevin Xie,Josh Ruigrok,Kevin Xie,6-1,6,1,1,0,Completed,true,false,false
+UA021071,07 Sep 25,7,Dendy Park,Beaumaris CC,No. 3,Oscar Want,Aleksandar Ostojic,Oscar Want,6-2,6,2,1,0,Completed,true,false,false
+UA021071,07 Sep 25,7,Dendy Park,Beaumaris CC,No. 4,Taku Ramensky,Will Manson,Will Manson,4-6,4,6,0,1,Completed,true,false,false
+UA021072,07 Sep 25,7,Highmoor Uniting,Royal Ave,No. 1,Alister Woodside,Savannah Dimachki,Alister Woodside,6-3,6,3,1,0,Completed,true,false,false
+UA021072,07 Sep 25,7,Highmoor Uniting,Royal Ave,No. 2,Blake Woodside,Sophie Whitelaw,Blake Woodside,6-2,6,2,1,0,Completed,true,false,false
+UA021072,07 Sep 25,7,Highmoor Uniting,Royal Ave,No. 3,Matthew Saynor,Miaomiao Cai,Miaomiao Cai,1-6,1,6,0,1,Completed,true,false,false
+UA021072,07 Sep 25,7,Highmoor Uniting,Royal Ave,No. 4,Reuben Jones,Doris Tao,Doris Tao,1-6,1,6,0,1,Completed,true,false,false
+UA021073,07 Sep 25,7,Aspendale,GPHC,No. 1,Carter Sam,Quincy Crow,Carter Sam,6-2,6,2,1,0,Completed,true,false,false
+UA021073,07 Sep 25,7,Aspendale,GPHC,No. 2,Steele Lamb,Sally Burns,Sally Burns,2-6,2,6,0,1,Completed,true,false,false
+UA021073,07 Sep 25,7,Aspendale,GPHC,No. 3,Zac Asker,Anna Joyce,Anna Joyce,0-6,0,6,0,1,Completed,true,false,false
+UA021073,07 Sep 25,7,Aspendale,GPHC,No. 4,Hamish Evans,Zoe Popelianski,Hamish Evans,6-2,6,2,1,0,Completed,true,false,false
+UA021074,07 Sep 25,7,Kings Park,BLTC,No. 1,Jayden Bone,Saya James,Jayden Bone,6-0,6,0,1,0,Completed,true,false,false
+UA021074,07 Sep 25,7,Kings Park,BLTC,No. 2,Lynah Tchim,Alexander Constantin,Lynah Tchim,6-0,6,0,1,0,Completed,true,false,true
+UA021074,07 Sep 25,7,Kings Park,BLTC,No. 3,Thomas Zhang,Ashlyn Tan,Ashlyn Tan,6-7,6,7,0,1,Completed,true,false,true
+UA021074,07 Sep 25,7,Kings Park,BLTC,No. 4,Luca Caneschi-Llorca,Audrey Du,Luca Caneschi-Llorca,7-6,7,6,1,0,Completed,true,false,true
+UA021081,14 Sep 25,8,BLTC,Dendy Park,No. 1,Saya James,Zara Reis,Saya James,6-2,6,2,1,0,Completed,true,false,false
+UA021081,14 Sep 25,8,BLTC,Dendy Park,No. 2,Alexander Constantin,Kevin Xie,Alexander Constantin,6-2,6,2,1,0,Completed,true,true,false
+UA021081,14 Sep 25,8,BLTC,Dendy Park,No. 3,Ashlyn Tan,Oscar Want,Ashlyn Tan,6-0,6,0,1,0,Completed,true,true,false
+UA021081,14 Sep 25,8,BLTC,Dendy Park,No. 4,Camila Sakaci,Taku Ramensky,Camila Sakaci,6-1,6,1,1,0,Completed,true,false,false
+UA021082,14 Sep 25,8,GPHC,Highmoor Uniting,No. 1,Sally Burns,Alister Woodside,Alister Woodside,0-6,0,6,0,1,Completed,true,false,false
+UA021082,14 Sep 25,8,GPHC,Highmoor Uniting,No. 2,Anna Joyce,Blake Woodside,Blake Woodside,3-6,3,6,0,1,Completed,true,false,false
+UA021082,14 Sep 25,8,GPHC,Highmoor Uniting,No. 3,Lilla De Luca,Matthew Saynor,Lilla De Luca,6-1,6,1,1,0,Completed,true,false,false
+UA021082,14 Sep 25,8,GPHC,Highmoor Uniting,No. 4,Sophie Taylor,Reuben Jones,Sophie Taylor,7-6,7,6,1,0,Completed,true,false,false
+UA021083,14 Sep 25,8,Kings Park,Beaumaris CC,No. 1,Jayden Bone,Harrison Coxon,Jayden Bone,6-0,6,0,1,0,Completed,true,false,false
+UA021083,14 Sep 25,8,Kings Park,Beaumaris CC,No. 2,Lynah Tchim,Josh Ruigrok,Lynah Tchim,6-3,6,3,1,0,Completed,true,false,false
+UA021083,14 Sep 25,8,Kings Park,Beaumaris CC,No. 3,Thomas Zhang,Lenny Hellyer,Thomas Zhang,6-4,6,4,1,0,Completed,true,false,false
+UA021083,14 Sep 25,8,Kings Park,Beaumaris CC,No. 4,Luca Caneschi-Llorca,Aleksandar Ostojic,Luca Caneschi-Llorca,7-5,7,5,1,0,Completed,true,false,false
+UA021084,14 Sep 25,8,Aspendale,Royal Ave,No. 1,Joe Corda,Savannah Dimachki,Joe Corda,6-3,6,3,1,0,Completed,true,false,false
+UA021084,14 Sep 25,8,Aspendale,Royal Ave,No. 2,Ben Gunn,Sophie Whitelaw,Ben Gunn,6-2,6,2,1,0,Completed,true,false,false
+UA021084,14 Sep 25,8,Aspendale,Royal Ave,No. 3,Emerson Avery,Doris Tao,Emerson Avery,6-2,6,2,1,0,Completed,true,false,false
+UA021084,14 Sep 25,8,Aspendale,Royal Ave,No. 4,Hamish Evans,Isabelle Burnet,Hamish Evans,6-2,6,2,1,0,Completed,true,false,true
+UA021091,12 Oct 25,9,Dendy Park,Aspendale,No. 1,Zara Reis,Carter Sam,Zara Reis,6-4,6,4,1,0,Completed,true,false,false
+UA021091,12 Oct 25,9,Dendy Park,Aspendale,No. 2,Kevin Xie,Emerson Avery,Emerson Avery,1-6,1,6,0,1,Completed,true,false,false
+UA021091,12 Oct 25,9,Dendy Park,Aspendale,No. 3,Oscar Want,Steele Lamb,Oscar Want,6-4,6,4,1,0,Completed,true,false,false
+UA021091,12 Oct 25,9,Dendy Park,Aspendale,No. 4,Taku Ramensky,Zac Asker,Zac Asker,2-6,2,6,0,1,Completed,true,false,false
+UA021092,12 Oct 25,9,Highmoor Uniting,BLTC,No. 1,Blake Woodside,Saya James,Blake Woodside,7-5,7,5,1,0,Completed,true,false,false
+UA021092,12 Oct 25,9,Highmoor Uniting,BLTC,No. 2,Matthew Saynor,Alexander Constantin,Matthew Saynor,6-4,6,4,1,0,Completed,true,false,true
+UA021092,12 Oct 25,9,Highmoor Uniting,BLTC,No. 3,Oliver Dali-Gawne,Ashlyn Tan,Ashlyn Tan,4-6,4,6,0,1,Completed,true,false,true
+UA021092,12 Oct 25,9,Highmoor Uniting,BLTC,No. 4,Reuben Jones,Camila Sakaci,Reuben Jones,7-5,7,5,1,0,Completed,true,false,false
+UA021093,12 Oct 25,9,Beaumaris CC,GPHC,No. 1,Josh Ruigrok,Quincy Crow,Quincy Crow,3-6,3,6,0,1,Completed,true,false,false
+UA021093,12 Oct 25,9,Beaumaris CC,GPHC,No. 2,Lenny Hellyer,Sally Burns,Sally Burns,0-6,0,6,0,1,Completed,true,false,false
+UA021093,12 Oct 25,9,Beaumaris CC,GPHC,No. 3,Aleksandar Ostojic,Lilla De Luca,Lilla De Luca,5-7,5,7,0,1,Completed,true,false,false
+UA021093,12 Oct 25,9,Beaumaris CC,GPHC,No. 4,Hugo Schmid,Sophie Taylor,Sophie Taylor,2-6,2,6,0,1,Completed,true,false,false
+UA021094,12 Oct 25,9,Royal Ave,Kings Park,No. 1,Eloise Fujii,Jayden Bone,Jayden Bone,2-6,2,6,0,1,Completed,true,false,false
+UA021094,12 Oct 25,9,Royal Ave,Kings Park,No. 2,Savannah Dimachki,Thomas Zhang,Savannah Dimachki,6-0,6,0,1,0,Completed,true,false,false
+UA021094,12 Oct 25,9,Royal Ave,Kings Park,No. 3,Sophie Whitelaw,Luca Caneschi-Llorca,Luca Caneschi-Llorca,0-6,0,6,0,1,Completed,true,false,false
+UA021094,12 Oct 25,9,Royal Ave,Kings Park,No. 4,Shania Attygale,Gabriella Robertson,Shania Attygale,6-2,6,2,1,0,Completed,true,false,false
+UA021101,19 Oct 25,10,Kings Park,Dendy Park,No. 1,Lynah Tchim,Zara Reis,Lynah Tchim,7-5,7,5,1,0,Completed,true,false,false
+UA021101,19 Oct 25,10,Kings Park,Dendy Park,No. 2,Thomas Zhang,Kevin Xie,Kevin Xie,4-6,4,6,0,1,Completed,true,false,false
+UA021101,19 Oct 25,10,Kings Park,Dendy Park,No. 3,Luca Caneschi-Llorca,Taku Ramensky,Luca Caneschi-Llorca,6-1,6,1,1,0,Completed,true,false,false
+UA021101,19 Oct 25,10,Kings Park,Dendy Park,No. 4,Gabriella Robertson,Taishi Ogawa,Gabriella Robertson,6-1,6,1,1,0,Completed,true,false,true
+UA021102,19 Oct 25,10,Aspendale,Highmoor Uniting,No. 1,Carter Sam,Alister Woodside,Alister Woodside,3-6,3,6,0,1,Completed,true,false,false
+UA021102,19 Oct 25,10,Aspendale,Highmoor Uniting,No. 2,Ben Gunn,Matthew Saynor,Ben Gunn,6-2,6,2,1,0,Completed,true,false,false
+UA021102,19 Oct 25,10,Aspendale,Highmoor Uniting,No. 3,Zac Asker,Oliver Dali-Gawne,Oliver Dali-Gawne,5-7,5,7,0,1,Completed,true,false,false
+UA021102,19 Oct 25,10,Aspendale,Highmoor Uniting,No. 4,Hamish Evans,Reuben Jones,Reuben Jones,4-6,4,6,0,1,Completed,true,false,false
+UA021103,19 Oct 25,10,BLTC,Beaumaris CC,No. 1,Saya James,Harrison Coxon,Saya James,6-0,6,0,1,0,Completed,true,false,false
+UA021103,19 Oct 25,10,BLTC,Beaumaris CC,No. 2,Kaia McGhee,Lenny Hellyer,Kaia McGhee,6-0,6,0,1,0,Completed,true,false,false
+UA021103,19 Oct 25,10,BLTC,Beaumaris CC,No. 3,Ashlyn Tan,Aleksandar Ostojic,Ashlyn Tan,6-1,6,1,1,0,Completed,true,true,false
+UA021103,19 Oct 25,10,BLTC,Beaumaris CC,No. 4,Camila Sakaci,Will Manson,Camila Sakaci,6-0,6,0,1,0,Completed,true,false,false
+UA021104,19 Oct 25,10,GPHC,Royal Ave,No. 1,Quincy Crow,Eloise Fujii,Eloise Fujii,4-6,4,6,0,1,Completed,true,false,false
+UA021104,19 Oct 25,10,GPHC,Royal Ave,No. 2,Anna Joyce,Savannah Dimachki,Savannah Dimachki,5-7,5,7,0,1,Completed,true,false,false
+UA021104,19 Oct 25,10,GPHC,Royal Ave,No. 3,Lilla De Luca,Miaomiao Cai,Miaomiao Cai,3-6,3,6,0,1,Completed,true,false,false
+UA021104,19 Oct 25,10,GPHC,Royal Ave,No. 4,Sophie Taylor,Rex Cai,Rex Cai,6-7,6,7,0,1,Completed,true,false,true
+UA021113,26 Oct 25,11,Beaumaris CC,Aspendale,No. 1,Josh Ruigrok,Joe Corda,Joe Corda,1-6,1,6,0,1,Completed,true,false,false
+UA021113,26 Oct 25,11,Beaumaris CC,Aspendale,No. 2,Lenny Hellyer,Ben Gunn,Ben Gunn,0-6,0,6,0,1,Completed,true,false,false
+UA021113,26 Oct 25,11,Beaumaris CC,Aspendale,No. 3,Aleksandar Ostojic,Emerson Avery,Emerson Avery,4-6,4,6,0,1,Completed,true,false,false
+UA021113,26 Oct 25,11,Beaumaris CC,Aspendale,No. 4,Hugo Schmid,Steele Lamb,Hugo Schmid,6-3,6,3,1,0,Completed,true,false,false
+UA021121,09 Nov 25,12,Royal Ave,Beaumaris CC,No. 1,Savannah Dimachki,Harrison Coxon,Harrison Coxon,4-6,4,6,0,1,Completed,true,false,false
+UA021121,09 Nov 25,12,Royal Ave,Beaumaris CC,No. 2,Sophie Whitelaw,Aleksandar Ostojic,Aleksandar Ostojic,3-6,3,6,0,1,Completed,true,false,false
+UA021121,09 Nov 25,12,Royal Ave,Beaumaris CC,No. 3,Shania Attygale,Hugo Schmid,Shania Attygale,6-0,6,0,1,0,Completed,true,false,false
+UA021121,09 Nov 25,12,Royal Ave,Beaumaris CC,No. 4,Miaomiao Cai,Nikola Ostojic,Miaomiao Cai,6-0,6,0,1,0,Completed,true,false,true
+UA021123,09 Nov 25,12,BLTC,GPHC,No. 1,Saya James,Quincy Crow,Saya James,6-0,6,0,1,0,Completed,true,false,false
+UA021123,09 Nov 25,12,BLTC,GPHC,No. 2,Kaia McGhee,Anna Joyce,Anna Joyce,3-6,3,6,0,1,Completed,true,false,false
+UA021123,09 Nov 25,12,BLTC,GPHC,No. 3,Alexander Constantin,Lilla De Luca,Lilla De Luca,3-6,3,6,0,1,Completed,true,true,false
+UA021123,09 Nov 25,12,BLTC,GPHC,No. 4,Ashlyn Tan,Sophie Taylor,Ashlyn Tan,7-6,7,6,1,0,Completed,true,true,false
+UA021131,16 Nov 25,13,Beaumaris CC,Highmoor Uniting,No. 1,Josh Ruigrok,Alister Woodside,Alister Woodside,2-6,2,6,0,1,Completed,true,false,false
+UA021131,16 Nov 25,13,Beaumaris CC,Highmoor Uniting,No. 2,Aleksandar Ostojic,Blake Woodside,Aleksandar Ostojic,6-3,6,3,1,0,Completed,true,false,false
+UA021131,16 Nov 25,13,Beaumaris CC,Highmoor Uniting,No. 3,Lenny Hellyer,Matthew Saynor,Matthew Saynor,0-6,0,6,0,1,Completed,true,false,false
+UA021131,16 Nov 25,13,Beaumaris CC,Highmoor Uniting,No. 4,Hugo Schmid,Oliver Dali-Gawne,Oliver Dali-Gawne,3-6,3,6,0,1,Completed,true,false,false
+UA021132,16 Nov 25,13,Dendy Park,Royal Ave,No. 1,Zara Reis,Sophie Whitelaw,Zara Reis,6-1,6,1,1,0,Completed,true,false,false
+UA021132,16 Nov 25,13,Dendy Park,Royal Ave,No. 2,Kevin Xie,Shania Attygale,Kevin Xie,6-3,6,3,1,0,Completed,true,false,false
+UA021132,16 Nov 25,13,Dendy Park,Royal Ave,No. 3,Oscar Want,Miaomiao Cai,Miaomiao Cai,3-6,3,6,0,1,Completed,true,false,false
+UA021132,16 Nov 25,13,Dendy Park,Royal Ave,No. 4,Taku Ramensky,Doris Tao,Doris Tao,3-6,3,6,0,1,Completed,true,false,false
+UA021133,16 Nov 25,13,GPHC,Kings Park,No. 1,Quincy Crow,Jayden Bone,Jayden Bone,0-6,0,6,0,1,Completed,true,false,false
+UA021133,16 Nov 25,13,GPHC,Kings Park,No. 2,Sally Burns,Lynah Tchim,Lynah Tchim,3-4,3,4,0,1,Completed,false,false,false
+UA021133,16 Nov 25,13,GPHC,Kings Park,No. 3,Lilla De Luca,Luca Caneschi-Llorca,Luca Caneschi-Llorca,0-2,0,2,0,1,Completed,false,false,false
+UA021134,16 Nov 25,13,Aspendale,BLTC,No. 1,Joe Corda,Kaia McGhee,Joe Corda,6-0,6,0,1,0,Completed,true,false,false
+UA021134,16 Nov 25,13,Aspendale,BLTC,No. 2,Ben Gunn,Alexander Constantin,Ben Gunn,6-1,6,1,1,0,Completed,true,false,true
+UA021134,16 Nov 25,13,Aspendale,BLTC,No. 3,Emerson Avery,Ashlyn Tan,Emerson Avery,6-4,6,4,1,0,Completed,true,false,true
+UA021134,16 Nov 25,13,Aspendale,BLTC,No. 4,Hamish Evans,Camila Sakaci,Camila Sakaci,3-6,3,6,0,1,Completed,true,false,false
+UA021301,,16,Kings Park,BLTC,No. 1,Jayden Bone,Saya James,Saya James,1-6,1,6,0,1,Completed,true,false,false
+UA021301,,16,Kings Park,BLTC,No. 2,Lynah Tchim,Alexander Constantin,Lynah Tchim,6-4,6,4,1,0,Completed,true,false,true
+UA021301,,16,Kings Park,BLTC,No. 3,Thomas Zhang,Ashlyn Tan,Ashlyn Tan,4-6,4,6,0,1,Completed,true,false,true
+UA021301,,16,Kings Park,BLTC,No. 4,Gabriella Robertson,Camila Sakaci,Camila Sakaci,4-6,4,6,0,1,Completed,true,false,false
+UA021302,,16,Highmoor Uniting,Aspendale,No. 1,Alister Woodside,Carter Sam,Alister Woodside,6-2,6,2,1,0,Completed,true,false,false
+UA021302,,16,Highmoor Uniting,Aspendale,No. 2,Blake Woodside,Joe Corda,Joe Corda,2-6,2,6,0,1,Completed,true,false,false
+UA021302,,16,Highmoor Uniting,Aspendale,No. 3,Matthew Saynor,Ben Gunn,Ben Gunn,6-7,6,7,0,1,Completed,true,false,false
+UA021302,,16,Highmoor Uniting,Aspendale,No. 4,Oliver Dali-Gawne,Emerson Avery,Emerson Avery,2-6,2,6,0,1,Completed,true,false,false
+UA021321,,17,Aspendale,BLTC,No. 1,Joe Corda,Saya James,Joe Corda,6-2,6,2,1,0,Completed,true,false,false
+UA021321,,17,Aspendale,BLTC,No. 2,Ben Gunn,Kaia McGhee,Ben Gunn,7-5,7,5,1,0,Completed,true,false,false
+UA021321,,17,Aspendale,BLTC,No. 3,Emerson Avery,Ashlyn Tan,Emerson Avery,6-2,6,2,1,0,Completed,true,false,true
+UA021321,,17,Aspendale,BLTC,No. 4,Zac Asker,Celina Sakaci,Zac Asker,6-3,6,3,1,0,Completed,true,false,true

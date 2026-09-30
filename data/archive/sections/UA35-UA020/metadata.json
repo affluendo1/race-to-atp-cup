@@ -1,0 +1,85 @@
+{
+  "asset_id": "UA35-UA020",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2024",
+  "season_id": "UA35",
+  "season_label": "Spring 2024",
+  "source_section_code": "UA020",
+  "section_label": "Section 20",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Black Rock",
+      "wins": 7,
+      "points": 78.5,
+      "percentage": 141.1,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Lauriston",
+      "wins": 8,
+      "points": 74,
+      "percentage": 111.45,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Parkdale Blue",
+      "wins": 7,
+      "points": 70,
+      "percentage": 117.09,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 7,
+      "points": 66,
+      "percentage": 98.99,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Kooyong",
+      "wins": 5,
+      "points": 55,
+      "percentage": 90.56,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Le Page Green",
+      "wins": 4,
+      "points": 49.5,
+      "percentage": 91.26,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Parkdale Green",
+      "wins": 1,
+      "points": 27,
+      "percentage": 66.38,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA35-UA020",
+  "fixtures": 59,
+  "completed_fixtures": 43,
+  "draw_fixtures": 45,
+  "singles_rubbers": 172,
+  "doubles_rubbers": 86,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for UA020144"
+  ]
+}

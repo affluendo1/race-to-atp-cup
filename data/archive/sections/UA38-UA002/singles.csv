@@ -1,0 +1,51 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA002012,01 Feb 26,1,BLTC Brown,BLTC Red,No. 1,Max Henderson,Tobias Malone,Tobias Malone,6-7 4-6,10,13,0,2,Completed,true,false,false
+UA002012,01 Feb 26,1,BLTC Brown,BLTC Red,No. 2,Alexander Lasocki,Kabeer Gursahani,Kabeer Gursahani,3-6 2-6,5,12,0,2,Completed,true,false,false
+UA002013,01 Feb 26,1,BLTC Green,BLTC White,No. 1,Kevin Wang,Lucas Zhou,Kevin Wang,6-4 6-1,12,5,2,0,Completed,true,false,false
+UA002013,01 Feb 26,1,BLTC Green,BLTC White,No. 2,Andrew Livermore,Lucas Hansen,Lucas Hansen,3-6 2-6,5,12,0,2,Completed,true,false,false
+UA002021,08 Feb 26,2,BLTC White,Glen Huntly,No. 1,Lucas Zhou,Antoine Maziarz,Antoine Maziarz,4-6 3-6,7,12,0,2,Completed,true,false,false
+UA002021,08 Feb 26,2,BLTC White,Glen Huntly,No. 2,Adyaan Tata,Tate Nguyen,Tate Nguyen,4-6 6-1 6-7,16,14,1,2,Completed,true,false,false
+UA002022,08 Feb 26,2,BLTC Red,BLTC Green,No. 1,Tobias Malone,Charlie Wang,Tobias Malone,6-3 6-2,12,5,2,0,Completed,true,false,false
+UA002022,08 Feb 26,2,BLTC Red,BLTC Green,No. 2,Charlie Pettifer,Andrew Livermore,Charlie Pettifer,6-0 6-0,12,0,2,0,Completed,true,false,false
+UA002031,15 Feb 26,3,Glen Huntly,BLTC Brown,No. 1,Antoine Maziarz,Emir Zmak,Emir Zmak,6-4 0-6 6-7,12,17,1,2,Completed,true,false,false
+UA002031,15 Feb 26,3,Glen Huntly,BLTC Brown,No. 2,Tate Nguyen,Alexander Lasocki,Tate Nguyen,7-5 6-4,13,9,2,0,Completed,true,false,false
+UA002033,15 Feb 26,3,BLTC White,BLTC Red,No. 1,Adyaan Tata,Tobias Malone,Tobias Malone,4-6 4-6,8,12,0,2,Completed,true,false,false
+UA002033,15 Feb 26,3,BLTC White,BLTC Red,No. 2,Lucas Hansen,Kabeer Gursahani,Kabeer Gursahani,4-6 4-6,8,12,0,2,Completed,true,false,false
+UA002041,22 Feb 26,4,BLTC Red,Glen Huntly,No. 1,Kabeer Gursahani,Antoine Maziarz,Antoine Maziarz,3-6 3-6,6,12,0,2,Completed,true,false,false
+UA002041,22 Feb 26,4,BLTC Red,Glen Huntly,No. 2,Charlie Pettifer,Tate Nguyen,Tate Nguyen,4-6 6-2 6-7,16,15,1,2,Completed,true,false,false
+UA002043,22 Feb 26,4,BLTC Brown,BLTC Green,No. 1,Emir Zmak,Charlie Wang,Emir Zmak,6-3 6-3,12,6,2,0,Completed,true,false,false
+UA002043,22 Feb 26,4,BLTC Brown,BLTC Green,No. 2,Max Henderson,Andrew Livermore,Max Henderson,7-6 2-6 7-6,16,18,2,1,Completed,true,false,false
+UA002051,01 Mar 26,5,Glen Huntly,BLTC Green,No. 1,Timothy Kalapoutis,Charlie Wang,Timothy Kalapoutis,6-3 6-1,12,4,2,0,Completed,true,true,false
+UA002051,01 Mar 26,5,Glen Huntly,BLTC Green,No. 2,Atticus Dhimann,Andrew Livermore,Andrew Livermore,6-2 5-7 6-7,17,16,1,2,Completed,true,true,false
+UA002053,01 Mar 26,5,BLTC White,BLTC Brown,No. 1,Lucas Zhou,Max Henderson,Lucas Zhou,6-0 6-0,12,0,2,0,Completed,true,false,false
+UA002053,01 Mar 26,5,BLTC White,BLTC Brown,No. 2,Lucas Hansen,Alexander Lasocki,Alexander Lasocki,4-6 5-7,9,13,0,2,Completed,true,false,false
+UA002062,15 Mar 26,6,BLTC Red,BLTC Brown,No. 1,Kabeer Gursahani,Emir Zmak,Emir Zmak,6-4 1-6 6-7,13,17,1,2,Completed,true,false,false
+UA002062,15 Mar 26,6,BLTC Red,BLTC Brown,No. 2,Jensen Srisuwan,Alexander Lasocki,,6-2 6-7,12,9,1,1,Completed,false,true,false
+UA002063,15 Mar 26,6,BLTC White,BLTC Green,No. 1,Lucas Zhou,Charlie Wang,Lucas Zhou,6-2 7-6,13,8,2,0,Completed,true,false,false
+UA002063,15 Mar 26,6,BLTC White,BLTC Green,No. 2,Lucas Hansen,Andrew Livermore,Lucas Hansen,6-4 7-6,13,10,2,0,Completed,true,false,false
+UA002071,22 Mar 26,7,Glen Huntly,BLTC White,No. 1,Antoine Maziarz,Adyaan Tata,Antoine Maziarz,6-0 6-1,12,1,2,0,Completed,true,false,false
+UA002071,22 Mar 26,7,Glen Huntly,BLTC White,No. 2,Tate Nguyen,Lucas Hansen,Lucas Hansen,2-6 0-6,2,12,0,2,Completed,true,false,false
+UA002072,22 Mar 26,7,BLTC Green,BLTC Red,No. 1,Charlie Wang,Tobias Malone,Tobias Malone,1-6 3-6,4,12,0,2,Completed,true,false,false
+UA002072,22 Mar 26,7,BLTC Green,BLTC Red,No. 2,Andrew Livermore,Jensen Srisuwan,Andrew Livermore,6-2 6-2,12,4,2,0,Completed,true,false,true
+UA002081,29 Mar 26,8,BLTC Brown,Glen Huntly,No. 1,Emir Zmak,Antoine Maziarz,Emir Zmak,7-6 6-4,13,10,2,0,Completed,true,false,false
+UA002081,29 Mar 26,8,BLTC Brown,Glen Huntly,No. 2,Max Henderson,Timothy Kalapoutis,Max Henderson,6-3 6-1,12,4,2,0,Completed,true,false,true
+UA002083,29 Mar 26,8,BLTC Red,BLTC White,No. 1,Tobias Malone,Lucas Zhou,Tobias Malone,6-1 6-2,12,3,2,0,Completed,true,false,false
+UA002083,29 Mar 26,8,BLTC Red,BLTC White,No. 2,Kabeer Gursahani,Lucas Hansen,Kabeer Gursahani,6-4 6-3,12,7,2,0,Completed,true,false,false
+UA002091,26 Apr 26,9,Glen Huntly,BLTC Red,No. 1,Antoine Maziarz,Kabeer Gursahani,Antoine Maziarz,6-4 6-2,12,6,2,0,Completed,true,false,false
+UA002091,26 Apr 26,9,Glen Huntly,BLTC Red,No. 2,Timothy Kalapoutis,Victor Lee,Victor Lee,4-6 3-6,7,12,0,2,Completed,true,true,true
+UA002093,26 Apr 26,9,BLTC Green,BLTC Brown,No. 1,Kevin Wang,Emir Zmak,Kevin Wang,6-0 6-2,12,2,2,0,Completed,true,false,false
+UA002093,26 Apr 26,9,BLTC Green,BLTC Brown,No. 2,Charlie Wang,Alexander Lasocki,Alexander Lasocki,6-4 2-6 6-7,14,17,1,2,Completed,true,false,false
+UA002112,10 May 26,11,BLTC Brown,BLTC Red,No. 1,Max Henderson,Tobias Malone,Max Henderson,7-5 6-0,13,5,2,0,Completed,true,false,false
+UA002112,10 May 26,11,BLTC Brown,BLTC Red,No. 2,Alexander Lasocki,Kabeer Gursahani,Kabeer Gursahani,6-3 1-6 6-7,13,16,1,2,Completed,true,false,false
+UA002113,10 May 26,11,BLTC Green,BLTC White,No. 1,Kevin Wang,Adyaan Tata,Kevin Wang,6-1 6-4,12,5,2,0,Completed,true,false,false
+UA002113,10 May 26,11,BLTC Green,BLTC White,No. 2,Andrew Livermore,Lucas Hansen,Andrew Livermore,6-4 6-3,12,7,2,0,Completed,true,false,false
+UA002131,24 May 26,13,Glen Huntly,BLTC Brown,No. 1,Antoine Maziarz,Emir Zmak,Antoine Maziarz,6-0 6-0,12,0,2,0,Completed,true,false,false
+UA002131,24 May 26,13,Glen Huntly,BLTC Brown,No. 2,Timothy Kalapoutis,Alexander Lasocki,Alexander Lasocki,5-7 2-6,7,13,0,2,Completed,true,true,false
+UA002133,24 May 26,13,BLTC White,BLTC Red,No. 1,Adyaan Tata,Kabeer Gursahani,Adyaan Tata,6-0 6-0,12,0,2,0,Completed,true,false,false
+UA002133,24 May 26,13,BLTC White,BLTC Red,No. 2,Lucas Hansen,Charlie Pettifer,Lucas Hansen,5-7 6-3 7-6,18,16,2,1,Completed,true,false,false
+UA002143,31 May 26,14,BLTC Brown,BLTC Green,No. 1,Max Henderson,Kevin Wang,Kevin Wang,3-6 3-6,6,12,0,2,Completed,true,false,false
+UA002143,31 May 26,14,BLTC Brown,BLTC Green,No. 2,Alexander Lasocki,Andrew Livermore,Alexander Lasocki,4-6 6-2 7-6,17,14,2,1,Completed,true,false,false
+UA002153,14 Jun 26,15,BLTC White,BLTC Brown,No. 1,Lucas Zhou,Max Henderson,Max Henderson,4-6 2-6,6,12,0,2,Completed,true,false,false
+UA002153,14 Jun 26,15,BLTC White,BLTC Brown,No. 2,Adyaan Tata,Alexander Lasocki,Alexander Lasocki,2-6 6-4 6-7,14,17,1,2,Completed,true,false,false
+UA002321,,16,Glen Huntly,BLTC Red,No. 1,Antoine Maziarz,Kabeer Gursahani,Antoine Maziarz,6-4 6-0,12,4,2,0,Completed,true,false,false
+UA002321,,16,Glen Huntly,BLTC Red,No. 2,Timothy Kalapoutis,Charlie Pettifer,Charlie Pettifer,2-6 3-6,5,12,0,2,Completed,true,true,false

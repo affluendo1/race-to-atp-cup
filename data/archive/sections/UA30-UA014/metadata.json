@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA30-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2022",
+  "season_id": "UA30",
+  "season_label": "Autumn 2022",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park Blue",
+      "wins": 8,
+      "points": 80,
+      "percentage": 151.71,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "GPHC 1",
+      "wins": 8,
+      "points": 70,
+      "percentage": 102.61,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Parkdale",
+      "wins": 5,
+      "points": 62,
+      "percentage": 108.82,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "GPHC 2",
+      "wins": 5,
+      "points": 60,
+      "percentage": 107.14,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Elsternwick Park",
+      "wins": 3,
+      "points": 44,
+      "percentage": 92.1,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Aspendale",
+      "wins": 3,
+      "points": 38,
+      "percentage": 82.12,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Le Page",
+      "wins": 4,
+      "points": 36,
+      "percentage": 70.06,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA30-UA014",
+  "fixtures": 55,
+  "completed_fixtures": 40,
+  "draw_fixtures": 59,
+  "singles_rubbers": 160,
+  "doubles_rubbers": 80,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

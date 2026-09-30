@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA22-UA004",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA004",
+  "section_label": "Section 4",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World",
+      "wins": 10,
+      "points": 99,
+      "percentage": 130.9,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Beaumaris CC",
+      "wins": 8,
+      "points": 90,
+      "percentage": 137.02,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 9,
+      "points": 87,
+      "percentage": 114.2,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Hurlingham Park",
+      "wins": 8,
+      "points": 82,
+      "percentage": 127.08,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "Kings Park",
+      "wins": 7,
+      "points": 70,
+      "percentage": 98.96,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Glen Eira",
+      "wins": 6,
+      "points": 62,
+      "percentage": 89.95,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong 1 Scotch",
+      "wins": 2,
+      "points": 37,
+      "percentage": 71.56,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong 2 Scotch",
+      "wins": 2,
+      "points": 33,
+      "percentage": 64.0,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA004",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 59,
+  "singles_rubbers": 228,
+  "doubles_rubbers": 112,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

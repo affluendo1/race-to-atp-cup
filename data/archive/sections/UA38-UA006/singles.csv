@@ -1,0 +1,201 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA006011,01 Feb 26,1,BLTC,Lauriston,No. 1,Anatoly Dashkevich,Mark Ma,Anatoly Dashkevich,6-3,6,3,1,0,Completed,true,false,false
+UA006011,01 Feb 26,1,BLTC,Lauriston,No. 2,Brian Gong,Jack Wiesner,Brian Gong,6-0,6,0,1,0,Completed,true,false,false
+UA006011,01 Feb 26,1,BLTC,Lauriston,No. 3,Guillermo Machuca,Angeline Pham,Guillermo Machuca,7-5,7,5,1,0,Completed,true,true,false
+UA006011,01 Feb 26,1,BLTC,Lauriston,No. 4,Finley Gehde,Isabella Bi,Isabella Bi,2-6,2,6,0,1,Completed,true,false,false
+UA006012,01 Feb 26,1,Kooyong,St James,No. 1,David Varano,Jonah Davies,Jonah Davies,1-6,1,6,0,1,Completed,true,false,false
+UA006012,01 Feb 26,1,Kooyong,St James,No. 2,Stefan Savic,James Harrington,Stefan Savic,6-3,6,3,1,0,Completed,true,false,false
+UA006012,01 Feb 26,1,Kooyong,St James,No. 3,Zeyi Xu,Aithan Georgas,Aithan Georgas,2-6,2,6,0,1,Completed,true,false,false
+UA006012,01 Feb 26,1,Kooyong,St James,No. 4,Leon Yu,Sophie Stewart,Sophie Stewart,0-6,0,6,0,1,Completed,true,false,false
+UA006013,01 Feb 26,1,Tennis World,Middle Brighton,No. 1,Oskar Holmes,Peter Wu,Oskar Holmes,6-2,6,2,1,0,Completed,true,false,false
+UA006013,01 Feb 26,1,Tennis World,Middle Brighton,No. 2,Ayan Zahed,Angus Van De Water,Ayan Zahed,7-6,7,6,1,0,Completed,true,false,false
+UA006013,01 Feb 26,1,Tennis World,Middle Brighton,No. 3,Xavier La Roche,Malek Marouff,Xavier La Roche,7-6,7,6,1,0,Completed,true,false,false
+UA006013,01 Feb 26,1,Tennis World,Middle Brighton,No. 4,Christopher Burrows,William Yan,Christopher Burrows,6-0,6,0,1,0,Completed,true,false,false
+UA006014,01 Feb 26,1,Royal Ave,Maccabi Moorleigh,No. 1,Daniel Kanarek,Oscar Le,Daniel Kanarek,6-1,6,1,1,0,Completed,true,false,false
+UA006014,01 Feb 26,1,Royal Ave,Maccabi Moorleigh,No. 2,Jacob Hu,Pounny Zhon,Jacob Hu,6-4,6,4,1,0,Completed,true,false,false
+UA006014,01 Feb 26,1,Royal Ave,Maccabi Moorleigh,No. 3,Tiras Kasapidis,Asher Brami,Tiras Kasapidis,7-5,7,5,1,0,Completed,true,false,false
+UA006014,01 Feb 26,1,Royal Ave,Maccabi Moorleigh,No. 4,Ted Fujii,Ben Nguyen,Ted Fujii,6-0,6,0,1,0,Completed,true,false,false
+UA006021,08 Feb 26,2,Maccabi Moorleigh,BLTC,No. 1,Oscar Le,Anatoly Dashkevich,Oscar Le,6-0,6,0,1,0,Completed,true,false,false
+UA006021,08 Feb 26,2,Maccabi Moorleigh,BLTC,No. 2,Pounny Zhon,Brian Gong,Brian Gong,5-7,5,7,0,1,Completed,true,false,false
+UA006021,08 Feb 26,2,Maccabi Moorleigh,BLTC,No. 3,Asher Brami,Mali Nayna,Mali Nayna,0-6,0,6,0,1,Completed,true,false,true
+UA006021,08 Feb 26,2,Maccabi Moorleigh,BLTC,No. 4,Changan Yang,Finley Gehde,Changan Yang,6-2,6,2,1,0,Completed,true,false,false
+UA006022,08 Feb 26,2,Lauriston,Kooyong,No. 1,Mark Ma,Stefan Savic,Mark Ma,6-4,6,4,1,0,Completed,true,false,false
+UA006022,08 Feb 26,2,Lauriston,Kooyong,No. 2,Jack Wiesner,Leon Yu,Jack Wiesner,6-1,6,1,1,0,Completed,true,false,false
+UA006022,08 Feb 26,2,Lauriston,Kooyong,No. 3,Isabella Bi,Zeyi Xu,Isabella Bi,6-1,6,1,1,0,Completed,true,false,false
+UA006022,08 Feb 26,2,Lauriston,Kooyong,No. 4,Taiga Torii,Evelyn Pajovic,Evelyn Pajovic,4-6,4,6,0,1,Completed,true,false,false
+UA006023,08 Feb 26,2,St James,Tennis World,No. 1,Jonah Davies,Oskar Holmes,Oskar Holmes,5-7,5,7,0,1,Completed,true,false,false
+UA006023,08 Feb 26,2,St James,Tennis World,No. 2,Emma Stewart,Ayan Zahed,Ayan Zahed,1-6,1,6,0,1,Completed,true,false,false
+UA006023,08 Feb 26,2,St James,Tennis World,No. 3,Aithan Georgas,Xavier La Roche,Xavier La Roche,5-7,5,7,0,1,Completed,true,false,false
+UA006023,08 Feb 26,2,St James,Tennis World,No. 4,Mali Davies,Celine Foo,Mali Davies,6-3,6,3,1,0,Completed,true,false,false
+UA006024,08 Feb 26,2,Middle Brighton,Royal Ave,No. 1,Hanbo Zhang,Daniel Kanarek,Daniel Kanarek,1-6,1,6,0,1,Completed,true,false,false
+UA006024,08 Feb 26,2,Middle Brighton,Royal Ave,No. 2,Peter Wu,Jacob Hu,Jacob Hu,3-6,3,6,0,1,Completed,true,false,false
+UA006024,08 Feb 26,2,Middle Brighton,Royal Ave,No. 3,Angus Van De Water,Tiras Kasapidis,Angus Van De Water,6-2,6,2,1,0,Completed,true,false,false
+UA006024,08 Feb 26,2,Middle Brighton,Royal Ave,No. 4,Malek Marouff,James Harris,James Harris,5-7,5,7,0,1,Completed,true,false,false
+UA006032,15 Feb 26,3,Kooyong,Maccabi Moorleigh,No. 1,David Varano,Oscar Le,David Varano,6-4,6,4,1,0,Completed,true,false,false
+UA006032,15 Feb 26,3,Kooyong,Maccabi Moorleigh,No. 2,Kevin Bai,Pounny Zhon,Pounny Zhon,4-6,4,6,0,1,Completed,true,false,false
+UA006032,15 Feb 26,3,Kooyong,Maccabi Moorleigh,No. 3,Zeyi Xu,Ben Nguyen,Zeyi Xu,6-3,6,3,1,0,Completed,true,false,false
+UA006032,15 Feb 26,3,Kooyong,Maccabi Moorleigh,No. 4,Evelyn Pajovic,Changan Yang,Evelyn Pajovic,6-0,6,0,1,0,Completed,true,false,false
+UA006033,15 Feb 26,3,Tennis World,Lauriston,No. 1,Oskar Holmes,Sam Morris,Oskar Holmes,6-1,6,1,1,0,Completed,true,false,false
+UA006033,15 Feb 26,3,Tennis World,Lauriston,No. 2,Ayan Zahed,Angeline Pham,Ayan Zahed,6-1,6,1,1,0,Completed,true,false,false
+UA006033,15 Feb 26,3,Tennis World,Lauriston,No. 3,Christopher Burrows,Isabella Bi,Christopher Burrows,6-4,6,4,1,0,Completed,true,false,false
+UA006033,15 Feb 26,3,Tennis World,Lauriston,No. 4,Celine Foo,Taiga Torii,Celine Foo,6-1,6,1,1,0,Completed,true,false,false
+UA006034,15 Feb 26,3,Royal Ave,St James,No. 1,Daniel Kanarek,Jonah Davies,Jonah Davies,6-7,6,7,0,1,Completed,true,false,false
+UA006034,15 Feb 26,3,Royal Ave,St James,No. 2,Jacob Hu,James Harrington,James Harrington,5-7,5,7,0,1,Completed,true,false,false
+UA006034,15 Feb 26,3,Royal Ave,St James,No. 3,Tiras Kasapidis,Aithan Georgas,Aithan Georgas,3-6,3,6,0,1,Completed,true,false,false
+UA006034,15 Feb 26,3,Royal Ave,St James,No. 4,Ted Fujii,Mali Davies,Mali Davies,3-6,3,6,0,1,Completed,true,false,false
+UA006041,22 Feb 26,4,St James,BLTC,No. 1,Jonah Davies,Meredith George,Meredith George,2-6,2,6,0,1,Completed,true,false,true
+UA006041,22 Feb 26,4,St James,BLTC,No. 2,James Harrington,Brian Gong,Brian Gong,4-6,4,6,0,1,Completed,true,false,false
+UA006041,22 Feb 26,4,St James,BLTC,No. 3,Emma Stewart,Sophie Turner,Emma Stewart,6-3,6,3,1,0,Completed,true,false,false
+UA006041,22 Feb 26,4,St James,BLTC,No. 4,Sophie Stewart,Finley Gehde,Finley Gehde,4-6,4,6,0,1,Completed,true,false,false
+UA006042,22 Feb 26,4,Middle Brighton,Kooyong,No. 1,Hanbo Zhang,David Varano,Hanbo Zhang,6-2,6,2,1,0,Completed,true,false,false
+UA006042,22 Feb 26,4,Middle Brighton,Kooyong,No. 2,Angus Van De Water,Stefan Savic,Stefan Savic,6-7,6,7,0,1,Completed,true,false,false
+UA006042,22 Feb 26,4,Middle Brighton,Kooyong,No. 3,Malek Marouff,Kevin Bai,Kevin Bai,1-6,1,6,0,1,Completed,true,false,false
+UA006042,22 Feb 26,4,Middle Brighton,Kooyong,No. 4,William Yan,Zeyi Xu,William Yan,6-2,6,2,1,0,Completed,true,false,false
+UA006043,22 Feb 26,4,Maccabi Moorleigh,Tennis World,No. 1,Oscar Le,Oskar Holmes,Oskar Holmes,1-6,1,6,0,1,Completed,true,false,false
+UA006043,22 Feb 26,4,Maccabi Moorleigh,Tennis World,No. 2,Asher Brami,Xavier La Roche,Xavier La Roche,2-6,2,6,0,1,Completed,true,false,false
+UA006043,22 Feb 26,4,Maccabi Moorleigh,Tennis World,No. 3,Ben Nguyen,Christopher Burrows,Ben Nguyen,6-4,6,4,1,0,Completed,true,false,false
+UA006043,22 Feb 26,4,Maccabi Moorleigh,Tennis World,No. 4,Changan Yang,Maya McNab,Maya McNab,0-6,0,6,0,1,Completed,true,false,true
+UA006044,22 Feb 26,4,Lauriston,Royal Ave,No. 1,Sam Morris,Daniel Kanarek,Sam Morris,7-6,7,6,1,0,Completed,true,false,false
+UA006044,22 Feb 26,4,Lauriston,Royal Ave,No. 2,Angeline Pham,Tiras Kasapidis,Tiras Kasapidis,1-6,1,6,0,1,Completed,true,false,false
+UA006044,22 Feb 26,4,Lauriston,Royal Ave,No. 3,Isabella Bi,James Harris,James Harris,6-7,6,7,0,1,Completed,true,false,false
+UA006044,22 Feb 26,4,Lauriston,Royal Ave,No. 4,Taiga Torii,Ted Fujii,Ted Fujii,6-7,6,7,0,1,Completed,true,false,false
+UA006051,01 Mar 26,5,Tennis World,Royal Ave,No. 1,Ayan Zahed,Daniel Kanarek,Ayan Zahed,6-3,6,3,1,0,Completed,true,false,false
+UA006051,01 Mar 26,5,Tennis World,Royal Ave,No. 2,Xavier La Roche,Jacob Hu,Jacob Hu,4-6,4,6,0,1,Completed,true,false,false
+UA006051,01 Mar 26,5,Tennis World,Royal Ave,No. 3,Christopher Burrows,Tiras Kasapidis,Christopher Burrows,6-3,6,3,1,0,Completed,true,false,false
+UA006051,01 Mar 26,5,Tennis World,Royal Ave,No. 4,Celine Foo,Ted Fujii,Celine Foo,6-0,6,0,1,0,Completed,true,false,false
+UA006052,01 Mar 26,5,Maccabi Moorleigh,Middle Brighton,No. 1,Pounny Zhon,Hanbo Zhang,Pounny Zhon,6-3,6,3,1,0,Completed,true,false,false
+UA006052,01 Mar 26,5,Maccabi Moorleigh,Middle Brighton,No. 2,Asher Brami,Peter Wu,Asher Brami,6-4,6,4,1,0,Completed,true,false,false
+UA006052,01 Mar 26,5,Maccabi Moorleigh,Middle Brighton,No. 3,Ben Nguyen,Angus Van De Water,Angus Van De Water,0-6,0,6,0,1,Completed,true,false,false
+UA006052,01 Mar 26,5,Maccabi Moorleigh,Middle Brighton,No. 4,Changan Yang,William Yan,William Yan,1-6,1,6,0,1,Completed,true,false,false
+UA006053,01 Mar 26,5,St James,Lauriston,No. 1,Aithan Georgas,Mark Ma,Aithan Georgas,7-5,7,5,1,0,Completed,true,false,false
+UA006053,01 Mar 26,5,St James,Lauriston,No. 2,Emma Stewart,Sam Morris,Sam Morris,2-6,2,6,0,1,Completed,true,false,false
+UA006053,01 Mar 26,5,St James,Lauriston,No. 3,Mali Davies,Jack Wiesner,Mali Davies,7-6,7,6,1,0,Completed,true,false,false
+UA006053,01 Mar 26,5,St James,Lauriston,No. 4,Sophie Stewart,Angeline Pham,Angeline Pham,3-6,3,6,0,1,Completed,true,false,false
+UA006054,01 Mar 26,5,BLTC,Kooyong,No. 1,Brian Gong,David Varano,David Varano,2-6,2,6,0,1,Completed,true,false,false
+UA006054,01 Mar 26,5,BLTC,Kooyong,No. 2,Sophie Turner,Kevin Bai,Kevin Bai,3-6,3,6,0,1,Completed,true,false,false
+UA006054,01 Mar 26,5,BLTC,Kooyong,No. 3,Monty Tucker,Leon Yu,Monty Tucker,7-6,7,6,1,0,Completed,true,false,false
+UA006054,01 Mar 26,5,BLTC,Kooyong,No. 4,Finley Gehde,Evelyn Pajovic,Evelyn Pajovic,4-6,4,6,0,1,Completed,true,false,false
+UA006061,15 Mar 26,6,Kooyong,Tennis World,No. 1,Stefan Savic,Oskar Holmes,Oskar Holmes,0-6,0,6,0,1,Completed,true,false,false
+UA006061,15 Mar 26,6,Kooyong,Tennis World,No. 2,Leon Yu,Ayan Zahed,Ayan Zahed,3-6,3,6,0,1,Completed,true,false,false
+UA006061,15 Mar 26,6,Kooyong,Tennis World,No. 3,Zeyi Xu,Xavier La Roche,Xavier La Roche,2-6,2,6,0,1,Completed,true,false,false
+UA006061,15 Mar 26,6,Kooyong,Tennis World,No. 4,Evelyn Pajovic,Celine Foo,Evelyn Pajovic,6-4,6,4,1,0,Completed,true,false,false
+UA006062,15 Mar 26,6,Royal Ave,BLTC,No. 1,Daniel Kanarek,Brian Gong,Daniel Kanarek,6-4,6,4,1,0,Completed,true,false,false
+UA006062,15 Mar 26,6,Royal Ave,BLTC,No. 2,Jacob Hu,Sophie Turner,Jacob Hu,6-4,6,4,1,0,Completed,true,false,false
+UA006062,15 Mar 26,6,Royal Ave,BLTC,No. 3,Tiras Kasapidis,Monty Tucker,Monty Tucker,2-6,2,6,0,1,Completed,true,false,false
+UA006062,15 Mar 26,6,Royal Ave,BLTC,No. 4,Ted Fujii,Finley Gehde,Finley Gehde,4-6,4,6,0,1,Completed,true,false,false
+UA006063,15 Mar 26,6,Middle Brighton,St James,No. 1,Peter Wu,Jonah Davies,Jonah Davies,3-6,3,6,0,1,Completed,true,false,false
+UA006063,15 Mar 26,6,Middle Brighton,St James,No. 2,Angus Van De Water,James Harrington,Angus Van De Water,6-2,6,2,1,0,Completed,true,false,false
+UA006063,15 Mar 26,6,Middle Brighton,St James,No. 3,Malek Marouff,Aithan Georgas,Malek Marouff,6-2,6,2,1,0,Completed,true,false,false
+UA006063,15 Mar 26,6,Middle Brighton,St James,No. 4,William Yan,Mali Davies,Mali Davies,1-6,1,6,0,1,Completed,true,false,false
+UA006064,15 Mar 26,6,Lauriston,Maccabi Moorleigh,No. 1,Mark Ma,Oscar Le,Oscar Le,4-6,4,6,0,1,Completed,true,false,false
+UA006064,15 Mar 26,6,Lauriston,Maccabi Moorleigh,No. 2,Sam Morris,Asher Brami,Sam Morris,7-5,7,5,1,0,Completed,true,false,false
+UA006064,15 Mar 26,6,Lauriston,Maccabi Moorleigh,No. 3,Isabella Bi,Ben Nguyen,Ben Nguyen,4-6,4,6,0,1,Completed,true,false,false
+UA006064,15 Mar 26,6,Lauriston,Maccabi Moorleigh,No. 4,Taiga Torii,Changan Yang,Taiga Torii,6-3,6,3,1,0,Completed,true,false,false
+UA006071,22 Mar 26,7,BLTC,Tennis World,No. 1,Brian Gong,Oskar Holmes,Oskar Holmes,1-6,1,6,0,1,Completed,true,false,false
+UA006071,22 Mar 26,7,BLTC,Tennis World,No. 2,Monty Tucker,Ayan Zahed,Ayan Zahed,1-6,1,6,0,1,Completed,true,false,false
+UA006071,22 Mar 26,7,BLTC,Tennis World,No. 3,Finley Gehde,Xavier La Roche,Xavier La Roche,2-6,2,6,0,1,Completed,true,false,false
+UA006071,22 Mar 26,7,BLTC,Tennis World,No. 4,Edward Jones,Celine Foo,Celine Foo,3-6,3,6,0,1,Completed,true,true,false
+UA006072,22 Mar 26,7,Kooyong,Royal Ave,No. 1,David Varano,Jacob Hu,Jacob Hu,2-6,2,6,0,1,Completed,true,false,false
+UA006072,22 Mar 26,7,Kooyong,Royal Ave,No. 2,Stefan Savic,Tiras Kasapidis,Stefan Savic,6-3,6,3,1,0,Completed,true,false,false
+UA006072,22 Mar 26,7,Kooyong,Royal Ave,No. 3,Kevin Bai,James Harris,Kevin Bai,6-4,6,4,1,0,Completed,true,false,false
+UA006072,22 Mar 26,7,Kooyong,Royal Ave,No. 4,Zeyi Xu,Ted Fujii,Zeyi Xu,6-2,6,2,1,0,Completed,true,false,false
+UA006073,22 Mar 26,7,Maccabi Moorleigh,St James,No. 1,Oscar Le,Jonah Davies,Jonah Davies,4-6,4,6,0,1,Completed,true,false,false
+UA006073,22 Mar 26,7,Maccabi Moorleigh,St James,No. 2,Pounny Zhon,James Harrington,James Harrington,6-7,6,7,0,1,Completed,true,false,false
+UA006073,22 Mar 26,7,Maccabi Moorleigh,St James,No. 3,Ben Nguyen,Emma Stewart,Ben Nguyen,6-1,6,1,1,0,Completed,true,false,false
+UA006073,22 Mar 26,7,Maccabi Moorleigh,St James,No. 4,Changan Yang,Sophie Stewart,Sophie Stewart,6-7,6,7,0,1,Completed,true,false,false
+UA006074,22 Mar 26,7,Middle Brighton,Lauriston,No. 1,Hanbo Zhang,Mark Ma,Mark Ma,3-6,3,6,0,1,Completed,true,false,false
+UA006074,22 Mar 26,7,Middle Brighton,Lauriston,No. 2,Peter Wu,Sam Morris,Sam Morris,0-6,0,6,0,1,Completed,true,false,false
+UA006074,22 Mar 26,7,Middle Brighton,Lauriston,No. 3,Angus Van De Water,Angeline Pham,Angeline Pham,6-7,6,7,0,1,Completed,true,false,false
+UA006074,22 Mar 26,7,Middle Brighton,Lauriston,No. 4,Malek Marouff,Isabella Bi,Malek Marouff,6-4,6,4,1,0,Completed,true,false,false
+UA006081,29 Mar 26,8,Lauriston,BLTC,No. 1,Sam Morris,Brian Gong,Sam Morris,6-1,6,1,1,0,Completed,true,false,false
+UA006081,29 Mar 26,8,Lauriston,BLTC,No. 2,Jack Wiesner,Monty Tucker,Monty Tucker,2-6,2,6,0,1,Completed,true,false,false
+UA006081,29 Mar 26,8,Lauriston,BLTC,No. 3,Angeline Pham,Sophie Turner,Angeline Pham,6-3,6,3,1,0,Completed,true,false,false
+UA006081,29 Mar 26,8,Lauriston,BLTC,No. 4,Taiga Torii,Finley Gehde,Taiga Torii,6-0,6,0,1,0,Completed,true,false,false
+UA006082,29 Mar 26,8,St James,Kooyong,No. 1,James Harrington,Stefan Savic,James Harrington,6-1,6,1,1,0,Completed,true,false,false
+UA006082,29 Mar 26,8,St James,Kooyong,No. 2,Aithan Georgas,Kevin Bai,Kevin Bai,6-7,6,7,0,1,Completed,true,false,false
+UA006082,29 Mar 26,8,St James,Kooyong,No. 3,Mali Davies,Leon Yu,Leon Yu,1-6,1,6,0,1,Completed,true,false,false
+UA006082,29 Mar 26,8,St James,Kooyong,No. 4,Sophie Stewart,Evelyn Pajovic,Evelyn Pajovic,4-6,4,6,0,1,Completed,true,false,false
+UA006083,29 Mar 26,8,Middle Brighton,Tennis World,No. 1,Hanbo Zhang,Oskar Holmes,Oskar Holmes,5-7,5,7,0,1,Completed,true,false,false
+UA006083,29 Mar 26,8,Middle Brighton,Tennis World,No. 2,Peter Wu,Ayan Zahed,Ayan Zahed,1-6,1,6,0,1,Completed,true,false,false
+UA006083,29 Mar 26,8,Middle Brighton,Tennis World,No. 3,Angus Van De Water,Christopher Burrows,Christopher Burrows,1-6,1,6,0,1,Completed,true,false,false
+UA006083,29 Mar 26,8,Middle Brighton,Tennis World,No. 4,Malek Marouff,Celine Foo,Malek Marouff,6-0,6,0,1,0,Completed,true,false,false
+UA006084,29 Mar 26,8,Maccabi Moorleigh,Royal Ave,No. 1,Oscar Le,Daniel Kanarek,Oscar Le,6-1,6,1,1,0,Completed,true,false,false
+UA006084,29 Mar 26,8,Maccabi Moorleigh,Royal Ave,No. 2,Pounny Zhon,Jacob Hu,Jacob Hu,3-6,3,6,0,1,Completed,true,false,false
+UA006084,29 Mar 26,8,Maccabi Moorleigh,Royal Ave,No. 3,Asher Brami,Tiras Kasapidis,Asher Brami,6-2,6,2,1,0,Completed,true,false,false
+UA006084,29 Mar 26,8,Maccabi Moorleigh,Royal Ave,No. 4,Changan Yang,Ted Fujii,Changan Yang,7-6,7,6,1,0,Completed,true,false,false
+UA006091,26 Apr 26,9,BLTC,Maccabi Moorleigh,No. 1,Brian Gong,Oscar Le,Oscar Le,4-6,4,6,0,1,Completed,true,false,false
+UA006091,26 Apr 26,9,BLTC,Maccabi Moorleigh,No. 2,Monty Tucker,Pounny Zhon,Monty Tucker,6-4,6,4,1,0,Completed,true,false,false
+UA006091,26 Apr 26,9,BLTC,Maccabi Moorleigh,No. 3,Sophie Turner,Asher Brami,Asher Brami,2-6,2,6,0,1,Completed,true,false,false
+UA006091,26 Apr 26,9,BLTC,Maccabi Moorleigh,No. 4,Finley Gehde,Ben Nguyen,Ben Nguyen,6-7,6,7,0,1,Completed,true,false,false
+UA006092,26 Apr 26,9,Kooyong,Lauriston,No. 1,David Varano,Mark Ma,Mark Ma,0-6,0,6,0,1,Completed,true,false,false
+UA006092,26 Apr 26,9,Kooyong,Lauriston,No. 2,Stefan Savic,Sam Morris,Sam Morris,4-6,4,6,0,1,Completed,true,false,false
+UA006092,26 Apr 26,9,Kooyong,Lauriston,No. 3,Leon Yu,Jack Wiesner,Leon Yu,6-4,6,4,1,0,Completed,true,false,false
+UA006092,26 Apr 26,9,Kooyong,Lauriston,No. 4,Evelyn Pajovic,Taiga Torii,Evelyn Pajovic,7-6,7,6,1,0,Completed,true,false,false
+UA006093,26 Apr 26,9,Tennis World,St James,No. 1,Oskar Holmes,Jonah Davies,Oskar Holmes,7-6,7,6,1,0,Completed,true,false,false
+UA006093,26 Apr 26,9,Tennis World,St James,No. 2,Xavier La Roche,Aithan Georgas,Xavier La Roche,6-2,6,2,1,0,Completed,true,false,false
+UA006093,26 Apr 26,9,Tennis World,St James,No. 3,Christopher Burrows,Emma Stewart,Christopher Burrows,6-3,6,3,1,0,Completed,true,false,false
+UA006093,26 Apr 26,9,Tennis World,St James,No. 4,Celine Foo,Sophie Stewart,Celine Foo,6-3,6,3,1,0,Completed,true,false,false
+UA006094,26 Apr 26,9,Royal Ave,Middle Brighton,No. 1,Daniel Kanarek,Peter Wu,Peter Wu,4-6,4,6,0,1,Completed,true,false,false
+UA006094,26 Apr 26,9,Royal Ave,Middle Brighton,No. 2,Jacob Hu,Angus Van De Water,Angus Van De Water,6-7,6,7,0,1,Completed,true,false,false
+UA006094,26 Apr 26,9,Royal Ave,Middle Brighton,No. 3,Tiras Kasapidis,Malek Marouff,Malek Marouff,2-6,2,6,0,1,Completed,true,false,false
+UA006094,26 Apr 26,9,Royal Ave,Middle Brighton,No. 4,Ted Fujii,William Yan,Ted Fujii,7-6,7,6,1,0,Completed,true,false,false
+UA006103,03 May 26,10,Lauriston,Tennis World,No. 1,Sam Morris,Oskar Holmes,Sam Morris,6-3,6,3,1,0,Completed,true,false,false
+UA006103,03 May 26,10,Lauriston,Tennis World,No. 2,Jack Wiesner,Ayan Zahed,Jack Wiesner,6-0,6,0,1,0,Completed,true,false,false
+UA006103,03 May 26,10,Lauriston,Tennis World,No. 3,Angeline Pham,Xavier La Roche,Xavier La Roche,1-6,1,6,0,1,Completed,true,false,false
+UA006103,03 May 26,10,Lauriston,Tennis World,No. 4,Taiga Torii,Christopher Burrows,Christopher Burrows,1-6,1,6,0,1,Completed,true,false,false
+UA006111,10 May 26,11,BLTC,St James,No. 1,Brian Gong,Jonah Davies,Jonah Davies,0-6,0,6,0,1,Completed,true,false,false
+UA006111,10 May 26,11,BLTC,St James,No. 2,Monty Tucker,Aithan Georgas,Aithan Georgas,1-6,1,6,0,1,Completed,true,false,false
+UA006111,10 May 26,11,BLTC,St James,No. 3,Sophie Turner,Mali Davies,Sophie Turner,6-2,6,2,1,0,Completed,true,false,false
+UA006111,10 May 26,11,BLTC,St James,No. 4,Dean Rosen,Sophie Stewart,Dean Rosen,6-1,6,1,1,0,Completed,true,true,false
+UA006112,10 May 26,11,Kooyong,Middle Brighton,No. 1,David Varano,Peter Wu,Peter Wu,3-6,3,6,0,1,Completed,true,false,false
+UA006112,10 May 26,11,Kooyong,Middle Brighton,No. 2,Stefan Savic,Angus Van De Water,Stefan Savic,6-2,6,2,1,0,Completed,true,false,false
+UA006112,10 May 26,11,Kooyong,Middle Brighton,No. 3,Zeyi Xu,Malek Marouff,Malek Marouff,2-6,2,6,0,1,Completed,true,false,false
+UA006112,10 May 26,11,Kooyong,Middle Brighton,No. 4,Evelyn Pajovic,William Yan,Evelyn Pajovic,6-3,6,3,1,0,Completed,true,false,false
+UA006113,10 May 26,11,Tennis World,Maccabi Moorleigh,No. 1,Ayan Zahed,Oscar Le,Ayan Zahed,6-4,6,4,1,0,Completed,true,false,false
+UA006113,10 May 26,11,Tennis World,Maccabi Moorleigh,No. 2,Xavier La Roche,Pounny Zhon,Xavier La Roche,6-1,6,1,1,0,Completed,true,false,false
+UA006113,10 May 26,11,Tennis World,Maccabi Moorleigh,No. 3,Christopher Burrows,Asher Brami,Asher Brami,1-6,1,6,0,1,Completed,true,false,false
+UA006113,10 May 26,11,Tennis World,Maccabi Moorleigh,No. 4,Celine Foo,Changan Yang,Celine Foo,6-3,6,3,1,0,Completed,true,false,false
+UA006114,10 May 26,11,Royal Ave,Lauriston,No. 1,Daniel Kanarek,Mark Ma,Daniel Kanarek,7-5,7,5,1,0,Completed,true,false,false
+UA006114,10 May 26,11,Royal Ave,Lauriston,No. 2,Jacob Hu,Sam Morris,Sam Morris,2-6,2,6,0,1,Completed,true,false,false
+UA006114,10 May 26,11,Royal Ave,Lauriston,No. 3,Tiras Kasapidis,Isabella Bi,Isabella Bi,0-6,0,6,0,1,Completed,true,false,false
+UA006114,10 May 26,11,Royal Ave,Lauriston,No. 4,Ted Fujii,Taiga Torii,Ted Fujii,6-2,6,2,1,0,Completed,true,false,false
+UA006131,24 May 26,13,Tennis World,Kooyong,No. 1,Oskar Holmes,Stefan Savic,Oskar Holmes,6-4,6,4,1,0,Completed,true,false,false
+UA006131,24 May 26,13,Tennis World,Kooyong,No. 2,Ayan Zahed,Leon Yu,Ayan Zahed,6-2,6,2,1,0,Completed,true,false,false
+UA006131,24 May 26,13,Tennis World,Kooyong,No. 3,Xavier La Roche,Zeyi Xu,Zeyi Xu,4-6,4,6,0,1,Completed,true,false,false
+UA006131,24 May 26,13,Tennis World,Kooyong,No. 4,Christopher Burrows,Evelyn Pajovic,Evelyn Pajovic,1-6,1,6,0,1,Completed,true,false,false
+UA006132,24 May 26,13,BLTC,Royal Ave,No. 1,Brian Gong,Daniel Kanarek,Daniel Kanarek,3-6,3,6,0,1,Completed,true,false,false
+UA006132,24 May 26,13,BLTC,Royal Ave,No. 2,Monty Tucker,Tiras Kasapidis,Monty Tucker,6-1,6,1,1,0,Completed,true,false,false
+UA006132,24 May 26,13,BLTC,Royal Ave,No. 3,Sophie Turner,James Harris,Sophie Turner,6-3,6,3,1,0,Completed,true,false,false
+UA006132,24 May 26,13,BLTC,Royal Ave,No. 4,Dean Rosen,Ted Fujii,Dean Rosen,6-0,6,0,1,0,Completed,true,true,false
+UA006133,24 May 26,13,St James,Middle Brighton,No. 1,Jonah Davies,Peter Wu,Peter Wu,1-6,1,6,0,1,Completed,true,false,false
+UA006133,24 May 26,13,St James,Middle Brighton,No. 2,Aithan Georgas,Angus Van De Water,Angus Van De Water,4-6,4,6,0,1,Completed,true,false,false
+UA006133,24 May 26,13,St James,Middle Brighton,No. 3,Mali Davies,Malek Marouff,Malek Marouff,2-6,2,6,0,1,Completed,true,false,false
+UA006133,24 May 26,13,St James,Middle Brighton,No. 4,Sophie Stewart,William Yan,Sophie Stewart,6-3,6,3,1,0,Completed,true,false,false
+UA006134,24 May 26,13,Maccabi Moorleigh,Lauriston,No. 1,Pounny Zhon,Mark Ma,Mark Ma,5-7,5,7,0,1,Completed,true,false,false
+UA006134,24 May 26,13,Maccabi Moorleigh,Lauriston,No. 2,Ben Nguyen,Sam Morris,Sam Morris,1-6,1,6,0,1,Completed,true,false,false
+UA006134,24 May 26,13,Maccabi Moorleigh,Lauriston,No. 3,Changan Yang,Isabella Bi,Isabella Bi,1-6,1,6,0,1,Completed,true,false,false
+UA006134,24 May 26,13,Maccabi Moorleigh,Lauriston,No. 4,Nati Manker,Taiga Torii,Nati Manker,7-6,7,6,1,0,Completed,true,true,false
+UA006142,31 May 26,14,Royal Ave,Kooyong,No. 1,Jacob Hu,David Varano,Jacob Hu,7-5,7,5,1,0,Completed,true,false,false
+UA006142,31 May 26,14,Royal Ave,Kooyong,No. 2,Tiras Kasapidis,Stefan Savic,Stefan Savic,1-6,1,6,0,1,Completed,true,false,false
+UA006142,31 May 26,14,Royal Ave,Kooyong,No. 3,James Harris,Leon Yu,Leon Yu,4-6,4,6,0,1,Completed,true,false,false
+UA006142,31 May 26,14,Royal Ave,Kooyong,No. 4,Ted Fujii,Zeyi Xu,Zeyi Xu,0-6,0,6,0,1,Completed,true,false,false
+UA006143,31 May 26,14,St James,Maccabi Moorleigh,No. 1,Jonah Davies,Oscar Le,Jonah Davies,7-6,7,6,1,0,Completed,true,false,false
+UA006143,31 May 26,14,St James,Maccabi Moorleigh,No. 2,Aithan Georgas,Pounny Zhon,Aithan Georgas,6-0,6,0,1,0,Completed,true,false,false
+UA006143,31 May 26,14,St James,Maccabi Moorleigh,No. 3,Emma Stewart,Asher Brami,Asher Brami,3-6,3,6,0,1,Completed,true,false,false
+UA006143,31 May 26,14,St James,Maccabi Moorleigh,No. 4,Sophie Stewart,Ben Nguyen,Ben Nguyen,4-6,4,6,0,1,Completed,true,false,false
+UA006144,31 May 26,14,Lauriston,Middle Brighton,No. 1,Mark Ma,Peter Wu,Mark Ma,7-6,7,6,1,0,Completed,true,false,false
+UA006144,31 May 26,14,Lauriston,Middle Brighton,No. 2,Sam Morris,Angus Van De Water,Sam Morris,6-4,6,4,1,0,Completed,true,false,false
+UA006144,31 May 26,14,Lauriston,Middle Brighton,No. 3,Jack Wiesner,Malek Marouff,Malek Marouff,2-6,2,6,0,1,Completed,true,false,false
+UA006144,31 May 26,14,Lauriston,Middle Brighton,No. 4,Angeline Pham,William Yan,William Yan,4-6,4,6,0,1,Completed,true,false,false
+UA006301,,16,Tennis World,Kooyong,No. 1,Oskar Holmes,David Varano,Oskar Holmes,7-5,7,5,1,0,Completed,true,false,false
+UA006301,,16,Tennis World,Kooyong,No. 2,Xavier La Roche,Stefan Savic,Stefan Savic,3-6,3,6,0,1,Completed,true,false,false
+UA006301,,16,Tennis World,Kooyong,No. 3,Christopher Burrows,Leon Yu,Leon Yu,3-6,3,6,0,1,Completed,true,false,false
+UA006301,,16,Tennis World,Kooyong,No. 4,Celine Foo,Evelyn Pajovic,Celine Foo,6-3,6,3,1,0,Completed,true,false,false
+UA006302,,16,Lauriston,St James,No. 1,Mark Ma,Jonah Davies,Mark Ma,6-4,6,4,1,0,Completed,true,false,false
+UA006302,,16,Lauriston,St James,No. 2,Sam Morris,Aithan Georgas,Sam Morris,6-3,6,3,1,0,Completed,true,false,false
+UA006302,,16,Lauriston,St James,No. 3,Angeline Pham,Emma Stewart,Angeline Pham,6-1,6,1,1,0,Completed,true,false,false
+UA006302,,16,Lauriston,St James,No. 4,Isabella Bi,Sophie Stewart,Isabella Bi,6-1,6,1,1,0,Completed,true,false,false
+UA006321,,17,Tennis World,Lauriston,No. 1,Oskar Holmes,Sam Morris,Sam Morris,4-6,4,6,0,1,Completed,true,false,false
+UA006321,,17,Tennis World,Lauriston,No. 2,Ayan Zahed,Angeline Pham,Ayan Zahed,6-2,6,2,1,0,Completed,true,false,false
+UA006321,,17,Tennis World,Lauriston,No. 3,Xavier La Roche,Isabella Bi,Isabella Bi,4-6,4,6,0,1,Completed,true,false,false
+UA006321,,17,Tennis World,Lauriston,No. 4,Celine Foo,Taiga Torii,Celine Foo,6-1,6,1,1,0,Completed,true,false,false

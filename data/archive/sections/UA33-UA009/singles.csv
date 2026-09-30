@@ -1,0 +1,229 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA009011,16 Jul 23,1,St Pauls,St James Yellow,No. 1,Ryan Quach,James Harrington,James Harrington,1-6,1,6,0,1,Completed,true,false,false
+UA009011,16 Jul 23,1,St Pauls,St James Yellow,No. 2,Peter Wu,Charlie Storer,Peter Wu,6-4,6,4,1,0,Completed,true,false,false
+UA009011,16 Jul 23,1,St Pauls,St James Yellow,No. 3,Isabella Li,Jackson Chaponnel,Jackson Chaponnel,3-6,3,6,0,1,Completed,true,false,false
+UA009011,16 Jul 23,1,St Pauls,St James Yellow,No. 4,Ronan Raulings,William Cunningham,Ronan Raulings,6-1,6,1,1,0,Completed,true,false,false
+UA009012,16 Jul 23,1,GPHC 1,GPHC 2,No. 1,Emmett Gatt,Leo De Luca,Leo De Luca,4-6,4,6,0,1,Completed,true,false,false
+UA009012,16 Jul 23,1,GPHC 1,GPHC 2,No. 2,Anthony Masgalas,Charlie Bickford,Anthony Masgalas,7-5,7,5,1,0,Completed,true,false,false
+UA009012,16 Jul 23,1,GPHC 1,GPHC 2,No. 3,Gus Latimer,Nicholas Myers,Gus Latimer,6-3,6,3,1,0,Completed,true,false,false
+UA009012,16 Jul 23,1,GPHC 1,GPHC 2,No. 4,Tahlia Zangalis,Nathan Cheung,Tahlia Zangalis,6-3,6,3,1,0,Completed,true,false,false
+UA009013,16 Jul 23,1,St Pats Mentone,Caulfield Rec,No. 1,Lachlan Volovnik,Ryan Belbaly,Ryan Belbaly,1-6,1,6,0,1,Completed,true,false,false
+UA009013,16 Jul 23,1,St Pats Mentone,Caulfield Rec,No. 2,Tom Vella,Pranav Arora,Pranav Arora,0-6,0,6,0,1,Completed,true,false,false
+UA009013,16 Jul 23,1,St Pats Mentone,Caulfield Rec,No. 3,Hunter Wicking,Adam Belbaly,Adam Belbaly,6-7,6,7,0,1,Completed,true,false,false
+UA009013,16 Jul 23,1,St Pats Mentone,Caulfield Rec,No. 4,Kai O'Gradie,Danielius Buividas,Danielius Buividas,6-7,6,7,0,1,Completed,true,false,false
+UA009014,16 Jul 23,1,Carmelite,Royal South Yarra,No. 1,Kobe Davis Earle,Albie Hutchins,Kobe Davis Earle,6-1,6,1,1,0,Completed,true,false,false
+UA009014,16 Jul 23,1,Carmelite,Royal South Yarra,No. 2,Hugho Schulz,Thomas Chard,Thomas Chard,5-7,5,7,0,1,Completed,true,false,false
+UA009014,16 Jul 23,1,Carmelite,Royal South Yarra,No. 3,Nathan Kitzis,Annie Tao,Annie Tao,0-6,0,6,0,1,Completed,true,false,true
+UA009014,16 Jul 23,1,Carmelite,Royal South Yarra,No. 4,Charlie-Grace Galanis,Will Spinks,Will Spinks,3-6,3,6,0,1,Completed,true,false,true
+UA009021,23 Jul 23,2,Royal South Yarra,St Pauls,No. 1,Macgregor Foote,Ryan Quach,Ryan Quach,4-6,4,6,0,1,Completed,true,false,false
+UA009021,23 Jul 23,2,Royal South Yarra,St Pauls,No. 2,Phoebe Ollerenshaw,Peter Wu,Peter Wu,0-6,0,6,0,1,Completed,true,false,false
+UA009021,23 Jul 23,2,Royal South Yarra,St Pauls,No. 3,Thomas Chard,Isabella Li,Thomas Chard,7-5,7,5,1,0,Completed,true,false,false
+UA009021,23 Jul 23,2,Royal South Yarra,St Pauls,No. 4,Charlie Wang,Matthew Strupl,Matthew Strupl,6-7,6,7,0,1,Completed,true,true,false
+UA009022,23 Jul 23,2,St James Yellow,GPHC 1,No. 1,James Harrington,Emmett Gatt,James Harrington,6-1,6,1,1,0,Completed,true,false,false
+UA009022,23 Jul 23,2,St James Yellow,GPHC 1,No. 2,Jackson Chaponnel,Anthony Masgalas,Jackson Chaponnel,6-1,6,1,1,0,Completed,true,false,false
+UA009022,23 Jul 23,2,St James Yellow,GPHC 1,No. 3,Jack Hodgson,Kara Majumdar,Kara Majumdar,5-7,5,7,0,1,Completed,true,false,false
+UA009022,23 Jul 23,2,St James Yellow,GPHC 1,No. 4,William Cunningham,Tahlia Zangalis,Tahlia Zangalis,4-6,4,6,0,1,Completed,true,false,false
+UA009023,23 Jul 23,2,GPHC 2,St Pats Mentone,No. 1,Leo De Luca,Tom Vella,Tom Vella,4-6,4,6,0,1,Completed,true,false,false
+UA009023,23 Jul 23,2,GPHC 2,St Pats Mentone,No. 2,Nathan Cheung,Hunter Wicking,Hunter Wicking,4-6,4,6,0,1,Completed,true,false,false
+UA009023,23 Jul 23,2,GPHC 2,St Pats Mentone,No. 3,Kai Maynard,Kai O'Gradie,Kai Maynard,7-6,7,6,1,0,Completed,true,false,false
+UA009023,23 Jul 23,2,GPHC 2,St Pats Mentone,No. 4,Oscar Wilson,Molly Rizun,Molly Rizun,3-6,3,6,0,1,Completed,true,false,true
+UA009024,23 Jul 23,2,Caulfield Rec,Carmelite,No. 1,Ryan Belbaly,Kobe Davis Earle,Ryan Belbaly,6-1,6,1,1,0,Completed,true,false,false
+UA009024,23 Jul 23,2,Caulfield Rec,Carmelite,No. 2,Pranav Arora,Nathan Kitzis,Nathan Kitzis,6-7,6,7,0,1,Completed,true,false,false
+UA009024,23 Jul 23,2,Caulfield Rec,Carmelite,No. 3,Adam Belbaly,Oliver Earle,Adam Belbaly,6-3,6,3,1,0,Completed,true,false,false
+UA009024,23 Jul 23,2,Caulfield Rec,Carmelite,No. 4,William Yan,Gene Tulloch,William Yan,6-1,6,1,1,0,Completed,true,false,false
+UA009031,30 Jul 23,3,St Pauls,Caulfield Rec,No. 1,Ryan Quach,Ryan Belbaly,Ryan Belbaly,4-6,4,6,0,1,Completed,true,false,false
+UA009031,30 Jul 23,3,St Pauls,Caulfield Rec,No. 2,Peter Wu,Pranav Arora,Peter Wu,6-3,6,3,1,0,Completed,true,false,false
+UA009031,30 Jul 23,3,St Pauls,Caulfield Rec,No. 3,Ronan Raulings,Danielius Buividas,Ronan Raulings,6-4,6,4,1,0,Completed,true,false,false
+UA009031,30 Jul 23,3,St Pauls,Caulfield Rec,No. 4,Matthew Strupl,William Yan,William Yan,1-6,1,6,0,1,Completed,true,false,false
+UA009032,30 Jul 23,3,GPHC 1,Royal South Yarra,No. 1,Emmett Gatt,Macgregor Foote,Emmett Gatt,6-1,6,1,1,0,Completed,true,false,false
+UA009032,30 Jul 23,3,GPHC 1,Royal South Yarra,No. 2,Anthony Masgalas,Phoebe Ollerenshaw,Anthony Masgalas,6-2,6,2,1,0,Completed,true,false,false
+UA009032,30 Jul 23,3,GPHC 1,Royal South Yarra,No. 3,Kara Majumdar,Thomas Chard,Thomas Chard,2-6,2,6,0,1,Completed,true,false,false
+UA009032,30 Jul 23,3,GPHC 1,Royal South Yarra,No. 4,Tahlia Zangalis,Nicholas Lincoln,Tahlia Zangalis,6-0,6,0,1,0,Completed,true,false,false
+UA009033,30 Jul 23,3,St Pats Mentone,St James Yellow,No. 1,Kristof Buschkuehl,Charlie Storer,Kristof Buschkuehl,7-5,7,5,1,0,Completed,true,false,false
+UA009033,30 Jul 23,3,St Pats Mentone,St James Yellow,No. 2,Tom Vella,Jack Hodgson,Jack Hodgson,6-7,6,7,0,1,Completed,true,false,false
+UA009033,30 Jul 23,3,St Pats Mentone,St James Yellow,No. 3,Hunter Wicking,William Cunningham,Hunter Wicking,6-2,6,2,1,0,Completed,true,false,false
+UA009033,30 Jul 23,3,St Pats Mentone,St James Yellow,No. 4,Kai O'Gradie,Lucy Stein,Kai O'Gradie,6-2,6,2,1,0,Completed,true,false,false
+UA009034,30 Jul 23,3,Carmelite,GPHC 2,No. 1,Kobe Davis Earle,Nicholas Myers,Kobe Davis Earle,6-3,6,3,1,0,Completed,true,false,false
+UA009034,30 Jul 23,3,Carmelite,GPHC 2,No. 2,Hugho Schulz,Nathan Cheung,Hugho Schulz,6-3,6,3,1,0,Completed,true,false,false
+UA009034,30 Jul 23,3,Carmelite,GPHC 2,No. 3,Nathan Kitzis,Kai Maynard,Nathan Kitzis,6-2,6,2,1,0,Completed,true,false,false
+UA009034,30 Jul 23,3,Carmelite,GPHC 2,No. 4,Charlie-Grace Galanis,Oscar Wilson,Charlie-Grace Galanis,6-3,6,3,1,0,Completed,true,false,false
+UA009041,06 Aug 23,4,GPHC 2,St Pauls,No. 1,Charlie Bickford,Ryan Quach,Ryan Quach,0-6,0,6,0,1,Completed,true,false,false
+UA009041,06 Aug 23,4,GPHC 2,St Pauls,No. 2,Nicholas Myers,Peter Wu,Peter Wu,1-6,1,6,0,1,Completed,true,false,false
+UA009041,06 Aug 23,4,GPHC 2,St Pauls,No. 3,Kai Maynard,Isabella Li,Isabella Li,3-6,3,6,0,1,Completed,true,false,false
+UA009041,06 Aug 23,4,GPHC 2,St Pauls,No. 4,Oscar Wilson,Matthew Strupl,Oscar Wilson,6-0,6,0,1,0,Completed,true,false,false
+UA009042,06 Aug 23,4,Caulfield Rec,GPHC 1,No. 1,Ryan Belbaly,Emmett Gatt,Ryan Belbaly,6-1,6,1,1,0,Completed,true,false,false
+UA009042,06 Aug 23,4,Caulfield Rec,GPHC 1,No. 2,Adam Belbaly,Anthony Masgalas,Anthony Masgalas,4-6,4,6,0,1,Completed,true,false,false
+UA009042,06 Aug 23,4,Caulfield Rec,GPHC 1,No. 3,Danielius Buividas,Kara Majumdar,Kara Majumdar,5-7,5,7,0,1,Completed,true,false,false
+UA009042,06 Aug 23,4,Caulfield Rec,GPHC 1,No. 4,William Yan,Tahlia Zangalis,Tahlia Zangalis,1-6,1,6,0,1,Completed,true,false,false
+UA009043,06 Aug 23,4,Royal South Yarra,St Pats Mentone,No. 1,Macgregor Foote,Roman Paul,Roman Paul,2-6,2,6,0,1,Completed,true,false,true
+UA009043,06 Aug 23,4,Royal South Yarra,St Pats Mentone,No. 2,Albie Hutchins,Hunter Wicking,Hunter Wicking,4-6,4,6,0,1,Completed,true,false,false
+UA009043,06 Aug 23,4,Royal South Yarra,St Pats Mentone,No. 3,Thomas Chard,Kai O'Gradie,Thomas Chard,6-4,6,4,1,0,Completed,true,false,false
+UA009043,06 Aug 23,4,Royal South Yarra,St Pats Mentone,No. 4,Tiyaan Jayawardena,Ludwik Szymanski,Ludwik Szymanski,1-6,1,6,0,1,Completed,true,false,true
+UA009044,06 Aug 23,4,St James Yellow,Carmelite,No. 1,James Harrington,Kobe Davis Earle,Kobe Davis Earle,1-6,1,6,0,1,Completed,true,false,false
+UA009044,06 Aug 23,4,St James Yellow,Carmelite,No. 2,Charlie Storer,Nathan Kitzis,Nathan Kitzis,2-6,2,6,0,1,Completed,true,false,false
+UA009044,06 Aug 23,4,St James Yellow,Carmelite,No. 3,Jackson Chaponnel,Oliver Earle,Jackson Chaponnel,6-2,6,2,1,0,Completed,true,false,false
+UA009044,06 Aug 23,4,St James Yellow,Carmelite,No. 4,Jack Hodgson,Gene Tulloch,Jack Hodgson,6-0,6,0,1,0,Completed,true,false,false
+UA009051,13 Aug 23,5,St Pats Mentone,Carmelite,No. 1,Kristof Buschkuehl,Kobe Davis Earle,Kobe Davis Earle,0-6,0,6,0,1,Completed,true,false,false
+UA009051,13 Aug 23,5,St Pats Mentone,Carmelite,No. 2,Tom Vella,Hugho Schulz,Hugho Schulz,1-6,1,6,0,1,Completed,true,false,false
+UA009051,13 Aug 23,5,St Pats Mentone,Carmelite,No. 3,Kai O'Gradie,Nathan Kitzis,Kai O'Gradie,6-1,6,1,1,0,Completed,true,false,false
+UA009051,13 Aug 23,5,St Pats Mentone,Carmelite,No. 4,Ollie Clifton,Gene Tulloch,Ollie Clifton,6-0,6,0,1,0,Completed,true,false,false
+UA009052,13 Aug 23,5,Royal South Yarra,Caulfield Rec,No. 1,Macgregor Foote,Pranav Arora,Pranav Arora,2-6,2,6,0,1,Completed,true,false,false
+UA009052,13 Aug 23,5,Royal South Yarra,Caulfield Rec,No. 2,Annabel Atkins,Adam Belbaly,Adam Belbaly,4-6,4,6,0,1,Completed,true,false,false
+UA009052,13 Aug 23,5,Royal South Yarra,Caulfield Rec,No. 3,Phoebe Ollerenshaw,Danielius Buividas,Danielius Buividas,2-6,2,6,0,1,Completed,true,false,false
+UA009052,13 Aug 23,5,Royal South Yarra,Caulfield Rec,No. 4,Thomas Chard,William Yan,Thomas Chard,6-1,6,1,1,0,Completed,true,false,false
+UA009053,13 Aug 23,5,GPHC 2,St James Yellow,No. 1,Leo De Luca,Jackson Chaponnel,Leo De Luca,6-3,6,3,1,0,Completed,true,false,false
+UA009053,13 Aug 23,5,GPHC 2,St James Yellow,No. 2,Charlie Bickford,William Cunningham,William Cunningham,1-6,1,6,0,1,Completed,true,false,false
+UA009053,13 Aug 23,5,GPHC 2,St James Yellow,No. 3,Kai Maynard,Katie Zhang,Katie Zhang,1-6,1,6,0,1,Completed,true,false,true
+UA009053,13 Aug 23,5,GPHC 2,St James Yellow,No. 4,Oscar Wilson,Grace Pham,Oscar Wilson,6-0,6,0,1,0,Completed,true,false,true
+UA009054,13 Aug 23,5,St Pauls,GPHC 1,No. 1,Ryan Quach,Emmett Gatt,Ryan Quach,6-2,6,2,1,0,Completed,true,false,false
+UA009054,13 Aug 23,5,St Pauls,GPHC 1,No. 2,Isabella Li,Anthony Masgalas,Anthony Masgalas,4-6,4,6,0,1,Completed,true,false,false
+UA009054,13 Aug 23,5,St Pauls,GPHC 1,No. 3,Ronan Raulings,Kara Majumdar,Ronan Raulings,6-4,6,4,1,0,Completed,true,false,false
+UA009054,13 Aug 23,5,St Pauls,GPHC 1,No. 4,Matthew Strupl,Tahlia Zangalis,Tahlia Zangalis,0-6,0,6,0,1,Completed,true,false,false
+UA009061,20 Aug 23,6,GPHC 1,St Pats Mentone,No. 1,Emmett Gatt,Kristof Buschkuehl,Emmett Gatt,6-2,6,2,1,0,Completed,true,false,false
+UA009061,20 Aug 23,6,GPHC 1,St Pats Mentone,No. 2,Anthony Masgalas,Tom Vella,Tom Vella,3-6,3,6,0,1,Completed,true,false,false
+UA009061,20 Aug 23,6,GPHC 1,St Pats Mentone,No. 3,Kara Majumdar,Hunter Wicking,Kara Majumdar,6-4,6,4,1,0,Completed,true,false,false
+UA009061,20 Aug 23,6,GPHC 1,St Pats Mentone,No. 4,Tahlia Zangalis,Ollie Clifton,Ollie Clifton,6-7,6,7,0,1,Completed,true,false,false
+UA009062,20 Aug 23,6,Carmelite,St Pauls,No. 1,Hugho Schulz,Ryan Quach,Ryan Quach,4-6,4,6,0,1,Completed,true,false,false
+UA009062,20 Aug 23,6,Carmelite,St Pauls,No. 2,Oliver Earle,Peter Wu,Peter Wu,4-6,4,6,0,1,Completed,true,false,false
+UA009062,20 Aug 23,6,Carmelite,St Pauls,No. 3,Charlie-Grace Galanis,Isabella Li,Isabella Li,0-6,0,6,0,1,Completed,true,false,false
+UA009062,20 Aug 23,6,Carmelite,St Pauls,No. 4,Gene Tulloch,Matthew Strupl,Gene Tulloch,6-0,6,0,1,0,Completed,true,false,false
+UA009063,20 Aug 23,6,Caulfield Rec,GPHC 2,No. 1,Ryan Belbaly,Nicholas Myers,Ryan Belbaly,6-1,6,1,1,0,Completed,true,false,false
+UA009063,20 Aug 23,6,Caulfield Rec,GPHC 2,No. 2,Pranav Arora,[Unnamed player — TROLS UA009063 away code 2],Pranav Arora,6-0,6,0,1,0,Completed,false,false,false
+UA009063,20 Aug 23,6,Caulfield Rec,GPHC 2,No. 3,Adam Belbaly,Kai Maynard,Adam Belbaly,6-3,6,3,1,0,Completed,true,false,false
+UA009063,20 Aug 23,6,Caulfield Rec,GPHC 2,No. 4,Danielius Buividas,Oscar Wilson,Danielius Buividas,6-1,6,1,1,0,Completed,true,false,false
+UA009064,20 Aug 23,6,St James Yellow,Royal South Yarra,No. 1,Jackson Chaponnel,Macgregor Foote,Jackson Chaponnel,6-0,6,0,1,0,Completed,true,false,false
+UA009064,20 Aug 23,6,St James Yellow,Royal South Yarra,No. 2,William Cunningham,Annabel Atkins,Annabel Atkins,2-6,2,6,0,1,Completed,true,false,false
+UA009064,20 Aug 23,6,St James Yellow,Royal South Yarra,No. 3,Lucy Stein,Tiyaan Jayawardena,Tiyaan Jayawardena,2-6,2,6,0,1,Completed,true,false,false
+UA009064,20 Aug 23,6,St James Yellow,Royal South Yarra,No. 4,Katie Zhang,Nicholas Lincoln,Katie Zhang,6-0,6,0,1,0,Completed,true,true,false
+UA009071,27 Aug 23,7,St Pauls,St Pats Mentone,No. 1,Peter Wu,Lachlan Volovnik,Peter Wu,6-4,6,4,1,0,Completed,true,false,false
+UA009071,27 Aug 23,7,St Pauls,St Pats Mentone,No. 2,Isabella Li,Kristof Buschkuehl,Isabella Li,6-0,6,0,1,0,Completed,true,false,false
+UA009071,27 Aug 23,7,St Pauls,St Pats Mentone,No. 3,Ronan Raulings,Tom Vella,Tom Vella,2-6,2,6,0,1,Completed,true,false,false
+UA009071,27 Aug 23,7,St Pauls,St Pats Mentone,No. 4,Matthew Strupl,Kai O'Gradie,Kai O'Gradie,1-6,1,6,0,1,Completed,true,false,false
+UA009072,27 Aug 23,7,GPHC 1,Carmelite,No. 1,Emmett Gatt,Kobe Davis Earle,Emmett Gatt,6-3,6,3,1,0,Completed,true,false,false
+UA009072,27 Aug 23,7,GPHC 1,Carmelite,No. 2,Anthony Masgalas,Nathan Kitzis,Nathan Kitzis,3-6,3,6,0,1,Completed,true,false,false
+UA009072,27 Aug 23,7,GPHC 1,Carmelite,No. 3,Gus Latimer,Oliver Earle,Gus Latimer,6-3,6,3,1,0,Completed,true,false,false
+UA009072,27 Aug 23,7,GPHC 1,Carmelite,No. 4,Tahlia Zangalis,Gene Tulloch,Tahlia Zangalis,6-1,6,1,1,0,Completed,true,false,false
+UA009073,27 Aug 23,7,Royal South Yarra,GPHC 2,No. 1,Annabel Atkins,Leo De Luca,Annabel Atkins,6-4,6,4,1,0,Completed,true,false,false
+UA009073,27 Aug 23,7,Royal South Yarra,GPHC 2,No. 2,Phoebe Ollerenshaw,Charlie Bickford,Phoebe Ollerenshaw,6-3,6,3,1,0,Completed,true,false,false
+UA009073,27 Aug 23,7,Royal South Yarra,GPHC 2,No. 3,Albie Hutchins,Nicholas Myers,Albie Hutchins,6-4,6,4,1,0,Completed,true,false,false
+UA009073,27 Aug 23,7,Royal South Yarra,GPHC 2,No. 4,Will Spinks,Nathan Cheung,Nathan Cheung,3-6,3,6,0,1,Completed,true,true,false
+UA009074,27 Aug 23,7,Caulfield Rec,St James Yellow,No. 1,Ryan Belbaly,Charlie Storer,Ryan Belbaly,6-1,6,1,1,0,Completed,true,false,false
+UA009074,27 Aug 23,7,Caulfield Rec,St James Yellow,No. 2,Pranav Arora,Jackson Chaponnel,Pranav Arora,6-4,6,4,1,0,Completed,true,false,false
+UA009074,27 Aug 23,7,Caulfield Rec,St James Yellow,No. 3,Adam Belbaly,Jack Hodgson,Adam Belbaly,6-3,6,3,1,0,Completed,true,false,false
+UA009074,27 Aug 23,7,Caulfield Rec,St James Yellow,No. 4,William Yan,William Cunningham,William Yan,6-4,6,4,1,0,Completed,true,false,false
+UA009081,03 Sep 23,8,St James Yellow,St Pauls,No. 1,Charlie Storer,Ryan Quach,Ryan Quach,4-6,4,6,0,1,Completed,true,false,false
+UA009081,03 Sep 23,8,St James Yellow,St Pauls,No. 2,Jack Hodgson,Peter Wu,Jack Hodgson,6-2,6,2,1,0,Completed,true,false,false
+UA009081,03 Sep 23,8,St James Yellow,St Pauls,No. 3,William Cunningham,Isabella Li,Isabella Li,1-6,1,6,0,1,Completed,true,false,false
+UA009081,03 Sep 23,8,St James Yellow,St Pauls,No. 4,Lucy Stein,Matthew Strupl,Matthew Strupl,2-6,2,6,0,1,Completed,true,false,false
+UA009082,03 Sep 23,8,GPHC 2,GPHC 1,No. 1,Leo De Luca,Emmett Gatt,Emmett Gatt,4-6,4,6,0,1,Completed,true,false,false
+UA009082,03 Sep 23,8,GPHC 2,GPHC 1,No. 2,Charlie Bickford,Anthony Masgalas,Anthony Masgalas,3-6,3,6,0,1,Completed,true,false,false
+UA009082,03 Sep 23,8,GPHC 2,GPHC 1,No. 3,Kai Maynard,Gus Latimer,Gus Latimer,1-6,1,6,0,1,Completed,true,false,false
+UA009082,03 Sep 23,8,GPHC 2,GPHC 1,No. 4,Oscar Wilson,Tahlia Zangalis,Tahlia Zangalis,1-6,1,6,0,1,Completed,true,false,false
+UA009083,03 Sep 23,8,Caulfield Rec,St Pats Mentone,No. 1,Ryan Belbaly,Kristof Buschkuehl,Ryan Belbaly,6-1,6,1,1,0,Completed,true,false,false
+UA009083,03 Sep 23,8,Caulfield Rec,St Pats Mentone,No. 2,Pranav Arora,Tom Vella,Tom Vella,3-6,3,6,0,1,Completed,true,false,false
+UA009083,03 Sep 23,8,Caulfield Rec,St Pats Mentone,No. 3,Adam Belbaly,Hunter Wicking,Adam Belbaly,6-4,6,4,1,0,Completed,true,false,false
+UA009083,03 Sep 23,8,Caulfield Rec,St Pats Mentone,No. 4,William Yan,Kai O'Gradie,William Yan,6-4,6,4,1,0,Completed,true,false,false
+UA009084,03 Sep 23,8,Royal South Yarra,Carmelite,No. 1,Annabel Atkins,Kobe Davis Earle,Annabel Atkins,6-2,6,2,1,0,Completed,true,false,false
+UA009084,03 Sep 23,8,Royal South Yarra,Carmelite,No. 2,Tiyaan Jayawardena,Hugho Schulz,Hugho Schulz,2-6,2,6,0,1,Completed,true,false,false
+UA009084,03 Sep 23,8,Royal South Yarra,Carmelite,No. 3,Clem Evans,Nathan Kitzis,Nathan Kitzis,0-6,0,6,0,1,Completed,true,true,false
+UA009084,03 Sep 23,8,Royal South Yarra,Carmelite,No. 4,Harriet Hutchins,Charlie-Grace Galanis,Charlie-Grace Galanis,1-6,1,6,0,1,Completed,true,true,false
+UA009091,10 Sep 23,9,St Pauls,Royal South Yarra,No. 1,Ryan Quach,Phoebe Ollerenshaw,Ryan Quach,6-2,6,2,1,0,Completed,true,false,false
+UA009091,10 Sep 23,9,St Pauls,Royal South Yarra,No. 2,Isabella Li,Thomas Chard,Isabella Li,7-5,7,5,1,0,Completed,true,false,false
+UA009091,10 Sep 23,9,St Pauls,Royal South Yarra,No. 3,Xavier Girigo,Albie Hutchins,Xavier Girigo,6-4,6,4,1,0,Completed,true,true,false
+UA009091,10 Sep 23,9,St Pauls,Royal South Yarra,No. 4,Ronan Raulings,Tiyaan Jayawardena,Ronan Raulings,6-4,6,4,1,0,Completed,true,false,false
+UA009092,10 Sep 23,9,GPHC 1,St James Yellow,No. 1,Anthony Masgalas,Charlie Storer,Charlie Storer,4-6,4,6,0,1,Completed,true,false,false
+UA009092,10 Sep 23,9,GPHC 1,St James Yellow,No. 2,Gus Latimer,Jackson Chaponnel,Jackson Chaponnel,1-6,1,6,0,1,Completed,true,false,false
+UA009092,10 Sep 23,9,GPHC 1,St James Yellow,No. 3,Tahlia Zangalis,William Cunningham,Tahlia Zangalis,6-3,6,3,1,0,Completed,true,false,false
+UA009092,10 Sep 23,9,GPHC 1,St James Yellow,No. 4,Oscar Wilson,Katie Zhang,Oscar Wilson,6-4,6,4,1,0,Completed,true,true,true
+UA009093,10 Sep 23,9,St Pats Mentone,GPHC 2,No. 1,Kristof Buschkuehl,Leo De Luca,Leo De Luca,1-6,1,6,0,1,Completed,true,false,false
+UA009093,10 Sep 23,9,St Pats Mentone,GPHC 2,No. 2,Tom Vella,Charlie Bickford,Tom Vella,6-3,6,3,1,0,Completed,true,false,false
+UA009093,10 Sep 23,9,St Pats Mentone,GPHC 2,No. 3,Hunter Wicking,Nicholas Myers,Hunter Wicking,6-1,6,1,1,0,Completed,true,false,false
+UA009093,10 Sep 23,9,St Pats Mentone,GPHC 2,No. 4,Ollie Clifton,Nathan Cheung,Ollie Clifton,6-1,6,1,1,0,Completed,true,false,false
+UA009094,10 Sep 23,9,Carmelite,Caulfield Rec,No. 1,Hugho Schulz,Ryan Belbaly,Ryan Belbaly,3-6,3,6,0,1,Completed,true,false,false
+UA009094,10 Sep 23,9,Carmelite,Caulfield Rec,No. 2,Oliver Earle,Pranav Arora,Oliver Earle,7-5,7,5,1,0,Completed,true,false,false
+UA009094,10 Sep 23,9,Carmelite,Caulfield Rec,No. 3,Charlie-Grace Galanis,Adam Belbaly,Adam Belbaly,1-6,1,6,0,1,Completed,true,false,false
+UA009094,10 Sep 23,9,Carmelite,Caulfield Rec,No. 4,Gene Tulloch,Danielius Buividas,Danielius Buividas,3-6,3,6,0,1,Completed,true,false,false
+UA009101,08 Oct 23,10,Caulfield Rec,St Pauls,No. 1,Ryan Belbaly,Ryan Quach,Ryan Belbaly,6-0,6,0,1,0,Completed,true,false,false
+UA009101,08 Oct 23,10,Caulfield Rec,St Pauls,No. 2,Pranav Arora,Peter Wu,Pranav Arora,6-4,6,4,1,0,Completed,true,false,false
+UA009101,08 Oct 23,10,Caulfield Rec,St Pauls,No. 3,Adam Belbaly,Ronan Raulings,Adam Belbaly,6-0,6,0,1,0,Completed,true,false,false
+UA009101,08 Oct 23,10,Caulfield Rec,St Pauls,No. 4,William Yan,Matthew Strupl,William Yan,6-1,6,1,1,0,Completed,true,false,false
+UA009102,08 Oct 23,10,Royal South Yarra,GPHC 1,No. 1,Annabel Atkins,Anthony Masgalas,Annabel Atkins,6-3,6,3,1,0,Completed,true,false,false
+UA009102,08 Oct 23,10,Royal South Yarra,GPHC 1,No. 2,Albie Hutchins,Kara Majumdar,Kara Majumdar,2-6,2,6,0,1,Completed,true,false,false
+UA009102,08 Oct 23,10,Royal South Yarra,GPHC 1,No. 3,Nicholas Lincoln,Gus Latimer,Gus Latimer,1-6,1,6,0,1,Completed,true,false,false
+UA009102,08 Oct 23,10,Royal South Yarra,GPHC 1,No. 4,Olivia Lidstone,Kai Maynard,Kai Maynard,1-6,1,6,0,1,Completed,true,true,true
+UA009103,08 Oct 23,10,St James Yellow,St Pats Mentone,No. 1,James Harrington,Kristof Buschkuehl,James Harrington,6-1,6,1,1,0,Completed,true,false,false
+UA009103,08 Oct 23,10,St James Yellow,St Pats Mentone,No. 2,Charlie Storer,Tom Vella,Tom Vella,1-6,1,6,0,1,Completed,true,false,false
+UA009103,08 Oct 23,10,St James Yellow,St Pats Mentone,No. 3,Jackson Chaponnel,Hunter Wicking,Jackson Chaponnel,6-2,6,2,1,0,Completed,true,false,false
+UA009103,08 Oct 23,10,St James Yellow,St Pats Mentone,No. 4,Lucy Stein,Ollie Clifton,Ollie Clifton,0-6,0,6,0,1,Completed,true,false,false
+UA009104,08 Oct 23,10,GPHC 2,Carmelite,No. 1,Leo De Luca,Kobe Davis Earle,Kobe Davis Earle,4-6,4,6,0,1,Completed,true,false,false
+UA009104,08 Oct 23,10,GPHC 2,Carmelite,No. 2,Charlie Bickford,Nathan Kitzis,Nathan Kitzis,1-6,1,6,0,1,Completed,true,false,false
+UA009104,08 Oct 23,10,GPHC 2,Carmelite,No. 3,Nicholas Myers,Oliver Earle,Oliver Earle,2-6,2,6,0,1,Completed,true,false,false
+UA009104,08 Oct 23,10,GPHC 2,Carmelite,No. 4,Oscar Wilson,Gene Tulloch,Oscar Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA009111,15 Oct 23,11,St Pauls,GPHC 2,No. 1,Ryan Quach,Leo De Luca,Ryan Quach,6-4,6,4,1,0,Completed,true,false,false
+UA009111,15 Oct 23,11,St Pauls,GPHC 2,No. 2,Peter Wu,Charlie Bickford,Charlie Bickford,3-6,3,6,0,1,Completed,true,false,false
+UA009111,15 Oct 23,11,St Pauls,GPHC 2,No. 3,David Elmankabady,Kai Maynard,David Elmankabady,6-4,6,4,1,0,Completed,true,false,false
+UA009111,15 Oct 23,11,St Pauls,GPHC 2,No. 4,Matthew Strupl,Oscar Wilson,Oscar Wilson,2-6,2,6,0,1,Completed,true,false,false
+UA009112,15 Oct 23,11,GPHC 1,Caulfield Rec,No. 1,Anthony Masgalas,Ryan Belbaly,Ryan Belbaly,4-6,4,6,0,1,Completed,true,false,false
+UA009112,15 Oct 23,11,GPHC 1,Caulfield Rec,No. 2,Kara Majumdar,Pranav Arora,Pranav Arora,1-6,1,6,0,1,Completed,true,false,false
+UA009112,15 Oct 23,11,GPHC 1,Caulfield Rec,No. 3,Gus Latimer,Adam Belbaly,Gus Latimer,6-3,6,3,1,0,Completed,true,false,false
+UA009112,15 Oct 23,11,GPHC 1,Caulfield Rec,No. 4,Tahlia Zangalis,Danielius Buividas,Danielius Buividas,0-6,0,6,0,1,Completed,true,false,false
+UA009113,15 Oct 23,11,St Pats Mentone,Royal South Yarra,No. 1,Lachlan Volovnik,Gianni Walker,Lachlan Volovnik,6-4,6,4,1,0,Completed,true,false,false
+UA009113,15 Oct 23,11,St Pats Mentone,Royal South Yarra,No. 2,Kristof Buschkuehl,Albie Hutchins,Kristof Buschkuehl,6-2,6,2,1,0,Completed,true,false,false
+UA009113,15 Oct 23,11,St Pats Mentone,Royal South Yarra,No. 3,Hunter Wicking,Tiyaan Jayawardena,Hunter Wicking,6-0,6,0,1,0,Completed,true,false,false
+UA009113,15 Oct 23,11,St Pats Mentone,Royal South Yarra,No. 4,Ollie Clifton,Olivia Lidstone,Ollie Clifton,6-0,6,0,1,0,Completed,true,false,true
+UA009114,15 Oct 23,11,Carmelite,St James Yellow,No. 1,Kobe Davis Earle,James Harrington,James Harrington,5-7,5,7,0,1,Completed,true,false,false
+UA009114,15 Oct 23,11,Carmelite,St James Yellow,No. 2,Hugho Schulz,Jackson Chaponnel,Hugho Schulz,6-3,6,3,1,0,Completed,true,false,false
+UA009114,15 Oct 23,11,Carmelite,St James Yellow,No. 3,Nathan Kitzis,Jack Hodgson,Nathan Kitzis,6-1,6,1,1,0,Completed,true,false,false
+UA009114,15 Oct 23,11,Carmelite,St James Yellow,No. 4,Charlie-Grace Galanis,William Cunningham,William Cunningham,4-6,4,6,0,1,Completed,true,false,false
+UA009121,22 Oct 23,12,Carmelite,St Pats Mentone,No. 1,Hugho Schulz,Lachlan Volovnik,Lachlan Volovnik,4-6,4,6,0,1,Completed,true,false,false
+UA009121,22 Oct 23,12,Carmelite,St Pats Mentone,No. 2,Oliver Earle,Tom Vella,Tom Vella,2-6,2,6,0,1,Completed,true,false,false
+UA009121,22 Oct 23,12,Carmelite,St Pats Mentone,No. 3,Charlie-Grace Galanis,Kai O'Gradie,Kai O'Gradie,2-6,2,6,0,1,Completed,true,false,false
+UA009121,22 Oct 23,12,Carmelite,St Pats Mentone,No. 4,Gene Tulloch,Ollie Clifton,Ollie Clifton,0-6,0,6,0,1,Completed,true,false,false
+UA009122,22 Oct 23,12,Caulfield Rec,Royal South Yarra,No. 1,Ryan Belbaly,Phoebe Ollerenshaw,Ryan Belbaly,6-1,6,1,1,0,Completed,true,false,false
+UA009122,22 Oct 23,12,Caulfield Rec,Royal South Yarra,No. 2,Pranav Arora,Tiyaan Jayawardena,Pranav Arora,6-0,6,0,1,0,Completed,true,false,false
+UA009122,22 Oct 23,12,Caulfield Rec,Royal South Yarra,No. 3,Adam Belbaly,Nicholas Lincoln,Adam Belbaly,6-1,6,1,1,0,Completed,true,false,false
+UA009122,22 Oct 23,12,Caulfield Rec,Royal South Yarra,No. 4,Danielius Buividas,Olivia Lidstone,Danielius Buividas,6-0,6,0,1,0,Completed,true,false,true
+UA009131,29 Oct 23,13,St Pats Mentone,GPHC 1,No. 1,Kristof Buschkuehl,Emmett Gatt,Emmett Gatt,4-6,4,6,0,1,Completed,true,false,false
+UA009131,29 Oct 23,13,St Pats Mentone,GPHC 1,No. 2,Tom Vella,Kara Majumdar,Tom Vella,6-3,6,3,1,0,Completed,true,false,false
+UA009131,29 Oct 23,13,St Pats Mentone,GPHC 1,No. 3,Hunter Wicking,Gus Latimer,Gus Latimer,1-6,1,6,0,1,Completed,true,false,false
+UA009131,29 Oct 23,13,St Pats Mentone,GPHC 1,No. 4,Kai O'Gradie,Tahlia Zangalis,Tahlia Zangalis,1-6,1,6,0,1,Completed,true,false,false
+UA009132,29 Oct 23,13,St Pauls,Carmelite,No. 1,Patrick Pawlak-bloch,Kobe Davis Earle,Patrick Pawlak-bloch,6-3,6,3,1,0,Completed,true,true,false
+UA009132,29 Oct 23,13,St Pauls,Carmelite,No. 2,Peter Wu,Nathan Kitzis,Peter Wu,7-6,7,6,1,0,Completed,true,false,false
+UA009132,29 Oct 23,13,St Pauls,Carmelite,No. 3,Xavier Staintherpe,Oliver Earle,Xavier Staintherpe,6-4,6,4,1,0,Completed,true,true,false
+UA009132,29 Oct 23,13,St Pauls,Carmelite,No. 4,Matthew Strupl,Gene Tulloch,Matthew Strupl,6-4,6,4,1,0,Completed,true,false,false
+UA009133,29 Oct 23,13,GPHC 2,Caulfield Rec,No. 1,Leo De Luca,Ryan Belbaly,Ryan Belbaly,5-7,5,7,0,1,Completed,true,false,false
+UA009133,29 Oct 23,13,GPHC 2,Caulfield Rec,No. 2,Charlie Bickford,Pranav Arora,Pranav Arora,0-6,0,6,0,1,Completed,true,false,false
+UA009133,29 Oct 23,13,GPHC 2,Caulfield Rec,No. 3,Nathan Cheung,Danielius Buividas,Danielius Buividas,0-6,0,6,0,1,Completed,true,false,false
+UA009133,29 Oct 23,13,GPHC 2,Caulfield Rec,No. 4,Oscar Wilson,William Yan,Oscar Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA009134,29 Oct 23,13,Royal South Yarra,St James Yellow,No. 1,Annabel Atkins,James Harrington,Annabel Atkins,6-3,6,3,1,0,Completed,true,false,false
+UA009134,29 Oct 23,13,Royal South Yarra,St James Yellow,No. 2,Phoebe Ollerenshaw,Charlie Storer,Charlie Storer,0-6,0,6,0,1,Completed,true,false,false
+UA009134,29 Oct 23,13,Royal South Yarra,St James Yellow,No. 3,Tiyaan Jayawardena,Jack Hodgson,Jack Hodgson,4-6,4,6,0,1,Completed,true,false,false
+UA009134,29 Oct 23,13,Royal South Yarra,St James Yellow,No. 4,Olivia Lidstone,William Cunningham,William Cunningham,1-6,1,6,0,1,Completed,true,true,false
+UA009141,12 Nov 23,14,St Pats Mentone,St Pauls,No. 1,Lachlan Volovnik,Ryan Quach,Lachlan Volovnik,7-6,7,6,1,0,Completed,true,false,false
+UA009141,12 Nov 23,14,St Pats Mentone,St Pauls,No. 2,Kristof Buschkuehl,Peter Wu,Peter Wu,2-6,2,6,0,1,Completed,true,false,false
+UA009141,12 Nov 23,14,St Pats Mentone,St Pauls,No. 3,Hunter Wicking,David Elmankabady,David Elmankabady,1-6,1,6,0,1,Completed,true,false,false
+UA009141,12 Nov 23,14,St Pats Mentone,St Pauls,No. 4,Kai O'Gradie,Isabella Li,Isabella Li,4-6,4,6,0,1,Completed,true,false,false
+UA009142,12 Nov 23,14,Carmelite,GPHC 1,No. 1,Kobe Davis Earle,Emmett Gatt,Emmett Gatt,2-6,2,6,0,1,Completed,true,false,false
+UA009142,12 Nov 23,14,Carmelite,GPHC 1,No. 2,Hugho Schulz,Anthony Masgalas,Anthony Masgalas,3-6,3,6,0,1,Completed,true,false,false
+UA009142,12 Nov 23,14,Carmelite,GPHC 1,No. 3,Nathan Kitzis,Kara Majumdar,Nathan Kitzis,7-5,7,5,1,0,Completed,true,false,false
+UA009142,12 Nov 23,14,Carmelite,GPHC 1,No. 4,Charlie-Grace Galanis,Gus Latimer,Gus Latimer,4-6,4,6,0,1,Completed,true,false,false
+UA009143,12 Nov 23,14,GPHC 2,Royal South Yarra,No. 1,Leo De Luca,Annabel Atkins,Leo De Luca,6-4,6,4,1,0,Completed,true,false,false
+UA009143,12 Nov 23,14,GPHC 2,Royal South Yarra,No. 2,Nicholas Myers,Phoebe Ollerenshaw,Nicholas Myers,6-4,6,4,1,0,Completed,true,false,false
+UA009143,12 Nov 23,14,GPHC 2,Royal South Yarra,No. 3,Kai Maynard,Tiyaan Jayawardena,Kai Maynard,6-1,6,1,1,0,Completed,true,false,false
+UA009143,12 Nov 23,14,GPHC 2,Royal South Yarra,No. 4,Oscar Wilson,Annie Tao,Oscar Wilson,6-1,6,1,1,0,Completed,true,false,true
+UA009144,12 Nov 23,14,St James Yellow,Caulfield Rec,No. 1,James Harrington,Ryan Belbaly,James Harrington,7-5,7,5,1,0,Completed,true,false,false
+UA009144,12 Nov 23,14,St James Yellow,Caulfield Rec,No. 2,Charlie Storer,Adam Belbaly,Adam Belbaly,3-6,3,6,0,1,Completed,true,false,false
+UA009144,12 Nov 23,14,St James Yellow,Caulfield Rec,No. 3,Jackson Chaponnel,Danielius Buividas,Jackson Chaponnel,6-4,6,4,1,0,Completed,true,false,false
+UA009144,12 Nov 23,14,St James Yellow,Caulfield Rec,No. 4,Jack Hodgson,William Yan,William Yan,4-6,4,6,0,1,Completed,true,false,false
+UA009301,,16,Caulfield Rec,GPHC 1,No. 1,Ryan Belbaly,Emmett Gatt,Ryan Belbaly,6-2,6,2,1,0,Completed,true,false,false
+UA009301,,16,Caulfield Rec,GPHC 1,No. 2,Pranav Arora,Anthony Masgalas,Pranav Arora,6-1,6,1,1,0,Completed,true,false,false
+UA009301,,16,Caulfield Rec,GPHC 1,No. 3,Danielius Buividas,Gus Latimer,Gus Latimer,3-6,3,6,0,1,Completed,true,false,false
+UA009301,,16,Caulfield Rec,GPHC 1,No. 4,William Yan,Tahlia Zangalis,Tahlia Zangalis,4-6,4,6,0,1,Completed,true,false,false
+UA009302,,16,St Pauls,St Pats Mentone,No. 1,Ryan Quach,Lachlan Volovnik,Ryan Quach,6-4,6,4,1,0,Completed,true,false,false
+UA009302,,16,St Pauls,St Pats Mentone,No. 2,Peter Wu,Tom Vella,Peter Wu,7-5,7,5,1,0,Completed,true,false,false
+UA009302,,16,St Pauls,St Pats Mentone,No. 3,Isabella Li,Kai O'Gradie,Kai O'Gradie,6-7,6,7,0,1,Completed,true,false,false
+UA009302,,16,St Pauls,St Pats Mentone,No. 4,Ronan Raulings,Ollie Clifton,Ronan Raulings,6-3,6,3,1,0,Completed,true,false,false
+UA009321,,17,Caulfield Rec,St Pauls,No. 1,Ryan Belbaly,Ryan Quach,,6-6,6,6,0,0,Completed,false,false,false
+UA009321,,17,Caulfield Rec,St Pauls,No. 2,Pranav Arora,Peter Wu,Pranav Arora,6-3,6,3,1,0,Completed,true,false,false
+UA009321,,17,Caulfield Rec,St Pauls,No. 3,Danielius Buividas,Isabella Li,Isabella Li,2-6,2,6,0,1,Completed,true,false,false
+UA009321,,17,Caulfield Rec,St Pauls,No. 4,William Yan,Ronan Raulings,William Yan,7-5,7,5,1,0,Completed,true,false,false

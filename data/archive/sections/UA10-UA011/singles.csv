@@ -1,0 +1,213 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA011011,05 Feb 12,1,Maccabi,Victory Park,No. 1,Lior Davis,Sam Bennoun,Sam Bennoun,0-6,0,6,0,1,Completed,true,false,false
+UA011011,05 Feb 12,1,Maccabi,Victory Park,No. 2,Jordan Zalcman,Maille Wilson,Jordan Zalcman,7-5,7,5,1,0,Completed,true,false,false
+UA011011,05 Feb 12,1,Maccabi,Victory Park,No. 3,Zac Goldberger,Sophie Paxinos,Zac Goldberger,6-0,6,0,1,0,Completed,true,false,false
+UA011011,05 Feb 12,1,Maccabi,Victory Park,No. 4,Sahar Gutman,Hannah Moss,Sahar Gutman,6-3,6,3,1,0,Completed,true,false,false
+UA011012,05 Feb 12,1,Dendy Park 1,Dendy Park 2,No. 1,Adi Rapoport,Henri Piner,Adi Rapoport,6-2,6,2,1,0,Completed,true,false,false
+UA011012,05 Feb 12,1,Dendy Park 1,Dendy Park 2,No. 2,Matthew Dodson-Geary,Christopher Iramiyan,Christopher Iramiyan,2-6,2,6,0,1,Completed,true,false,false
+UA011012,05 Feb 12,1,Dendy Park 1,Dendy Park 2,No. 3,Michael Bilosh-Delic,Josh Zawa,Michael Bilosh-Delic,6-0,6,0,1,0,Completed,true,false,false
+UA011012,05 Feb 12,1,Dendy Park 1,Dendy Park 2,No. 4,Georgia Wilson,[Unnamed player — TROLS UA011012 away code 4],[Unnamed player — TROLS UA011012 away code 4],2-6,2,6,0,1,Completed,false,false,false
+UA011013,05 Feb 12,1,St Andrews MB,Parkdale,No. 1,Oliver Knox,Sean Vandenbroek,Oliver Knox,6-4,6,4,1,0,Completed,true,false,false
+UA011013,05 Feb 12,1,St Andrews MB,Parkdale,No. 2,Julian Wilson,Josh Powell,Josh Powell,4-6,4,6,0,1,Completed,true,false,false
+UA011013,05 Feb 12,1,St Andrews MB,Parkdale,No. 3,Lottie Spencer,Galina Enright,Galina Enright,0-6,0,6,0,1,Completed,true,false,false
+UA011013,05 Feb 12,1,St Andrews MB,Parkdale,No. 4,Saskia Komljenovic,Sean Enright,Saskia Komljenovic,6-4,6,4,1,0,Completed,true,false,false
+UA011014,05 Feb 12,1,Dendy Park 3,GPHC MLC,No. 1,Connor Wilson,Max Nankivell,Connor Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA011014,05 Feb 12,1,Dendy Park 3,GPHC MLC,No. 2,Matthew Kristie,James Roach,James Roach,2-6,2,6,0,1,Completed,true,false,false
+UA011014,05 Feb 12,1,Dendy Park 3,GPHC MLC,No. 3,Lachlan Speirs,Lucy Diggle,Lachlan Speirs,6-4,6,4,1,0,Completed,true,false,false
+UA011014,05 Feb 12,1,Dendy Park 3,GPHC MLC,No. 4,Thomas Wilson,Zofia Andrianopoulos,Zofia Andrianopoulos,2-6,2,6,0,1,Completed,true,false,false
+UA011021,12 Feb 12,2,GPHC MLC,Maccabi,No. 1,Zofia Andrianopoulos,Jai Kanat,Jai Kanat,3-6,3,6,0,1,Completed,true,false,false
+UA011021,12 Feb 12,2,GPHC MLC,Maccabi,No. 2,Max Nankivell,Lior Davis,Lior Davis,0-6,0,6,0,1,Completed,true,false,false
+UA011021,12 Feb 12,2,GPHC MLC,Maccabi,No. 3,Lachie Roberts,Zac Goldberger,Zac Goldberger,5-7,5,7,0,1,Completed,true,false,false
+UA011021,12 Feb 12,2,GPHC MLC,Maccabi,No. 4,Charlotte Morton,Sahar Gutman,Sahar Gutman,0-6,0,6,0,1,Completed,true,false,false
+UA011022,12 Feb 12,2,Victory Park,Dendy Park 1,No. 1,Christopher Groves,Matthew Dodson-Geary,Christopher Groves,6-4,6,4,1,0,Completed,true,false,false
+UA011022,12 Feb 12,2,Victory Park,Dendy Park 1,No. 2,Sophie Paxinos,Michael Bilosh-Delic,Michael Bilosh-Delic,0-6,0,6,0,1,Completed,true,false,false
+UA011022,12 Feb 12,2,Victory Park,Dendy Park 1,No. 3,Tully Watson,Madison Wilson,Tully Watson,6-1,6,1,1,0,Completed,true,false,false
+UA011022,12 Feb 12,2,Victory Park,Dendy Park 1,No. 4,Hannah Moss,Georgia Wilson,Hannah Moss,6-0,6,0,1,0,Completed,true,false,false
+UA011023,12 Feb 12,2,Dendy Park 2,St Andrews MB,No. 1,Christopher Iramiyan,Oliver Knox,Oliver Knox,4-6,4,6,0,1,Completed,true,false,false
+UA011023,12 Feb 12,2,Dendy Park 2,St Andrews MB,No. 2,James Russell,Nick Moran,James Russell,6-3,6,3,1,0,Completed,true,false,false
+UA011023,12 Feb 12,2,Dendy Park 2,St Andrews MB,No. 3,Taylan Olmez,Nick Roberts,Taylan Olmez,6-1,6,1,1,0,Completed,true,false,false
+UA011023,12 Feb 12,2,Dendy Park 2,St Andrews MB,No. 4,Josh Zawa,Saskia Komljenovic,Josh Zawa,6-3,6,3,1,0,Completed,true,false,false
+UA011024,12 Feb 12,2,Parkdale,Dendy Park 3,No. 1,Josh Powell,Connor Wilson,Josh Powell,6-4,6,4,1,0,Completed,true,false,false
+UA011024,12 Feb 12,2,Parkdale,Dendy Park 3,No. 2,Galina Enright,Matthew Kristie,Matthew Kristie,2-6,2,6,0,1,Completed,true,false,false
+UA011024,12 Feb 12,2,Parkdale,Dendy Park 3,No. 3,James Comben,Thomas Wilson,James Comben,6-0,6,0,1,0,Completed,true,false,false
+UA011024,12 Feb 12,2,Parkdale,Dendy Park 3,No. 4,Sean Enright,Josh Chanmugan,Sean Enright,6-2,6,2,1,0,Completed,true,false,false
+UA011031,19 Feb 12,3,Maccabi,Parkdale,No. 1,Gabriella Bergman,Sean Vandenbroek,Sean Vandenbroek,2-6,2,6,0,1,Completed,true,false,false
+UA011031,19 Feb 12,3,Maccabi,Parkdale,No. 2,Jordan Zalcman,Josh Powell,Josh Powell,0-6,0,6,0,1,Completed,true,false,false
+UA011031,19 Feb 12,3,Maccabi,Parkdale,No. 3,Zac Goldberger,James Comben,Zac Goldberger,6-2,6,2,1,0,Completed,true,false,false
+UA011031,19 Feb 12,3,Maccabi,Parkdale,No. 4,Sahar Gutman,Christie Michua,Sahar Gutman,6-3,6,3,1,0,Completed,true,false,false
+UA011032,19 Feb 12,3,Dendy Park 1,GPHC MLC,No. 1,Adi Rapoport,Zofia Andrianopoulos,Adi Rapoport,6-1,6,1,1,0,Completed,true,false,false
+UA011032,19 Feb 12,3,Dendy Park 1,GPHC MLC,No. 2,Michael Bilosh-Delic,Lucy Diggle,Michael Bilosh-Delic,6-4,6,4,1,0,Completed,true,false,false
+UA011032,19 Feb 12,3,Dendy Park 1,GPHC MLC,No. 3,Madison Wilson,Lachie Roberts,Lachie Roberts,3-6,3,6,0,1,Completed,true,false,false
+UA011032,19 Feb 12,3,Dendy Park 1,GPHC MLC,No. 4,Georgia Wilson,Charlotte Morton,Charlotte Morton,0-6,0,6,0,1,Completed,true,false,false
+UA011033,19 Feb 12,3,St Andrews MB,Victory Park,No. 1,Oliver Knox,Sam Bennoun,Oliver Knox,7-6,7,6,1,0,Completed,true,false,false
+UA011033,19 Feb 12,3,St Andrews MB,Victory Park,No. 2,Lottie Spencer,Maille Wilson,Lottie Spencer,6-4,6,4,1,0,Completed,true,false,false
+UA011033,19 Feb 12,3,St Andrews MB,Victory Park,No. 3,Zara Henderson,Tully Watson,Zara Henderson,6-0,6,0,1,0,Completed,true,false,false
+UA011033,19 Feb 12,3,St Andrews MB,Victory Park,No. 4,Saskia Komljenovic,Hannah Moss,Hannah Moss,1-6,1,6,0,1,Completed,true,false,false
+UA011034,19 Feb 12,3,Dendy Park 3,Dendy Park 2,No. 1,Connor Wilson,Christopher Iramiyan,Christopher Iramiyan,6-7,6,7,0,1,Completed,true,false,false
+UA011034,19 Feb 12,3,Dendy Park 3,Dendy Park 2,No. 2,Lachlan Speirs,James Russell,James Russell,2-6,2,6,0,1,Completed,true,false,false
+UA011034,19 Feb 12,3,Dendy Park 3,Dendy Park 2,No. 3,Thomas Wilson,Taylan Olmez,Taylan Olmez,2-6,2,6,0,1,Completed,true,false,false
+UA011034,19 Feb 12,3,Dendy Park 3,Dendy Park 2,No. 4,Josh Chanmugan,Josh Zawa,Josh Zawa,2-6,2,6,0,1,Completed,true,false,false
+UA011041,26 Feb 12,4,Dendy Park 2,Maccabi,No. 1,Miles Piner,Jai Kanat,Miles Piner,6-4,6,4,1,0,Completed,true,false,false
+UA011041,26 Feb 12,4,Dendy Park 2,Maccabi,No. 2,Christopher Iramiyan,Gabriella Bergman,Christopher Iramiyan,6-2,6,2,1,0,Completed,true,false,false
+UA011041,26 Feb 12,4,Dendy Park 2,Maccabi,No. 3,James Russell,Jordan Zalcman,James Russell,6-2,6,2,1,0,Completed,true,false,false
+UA011041,26 Feb 12,4,Dendy Park 2,Maccabi,No. 4,Henri Piner,Zac Goldberger,Zac Goldberger,1-6,1,6,0,1,Completed,true,false,false
+UA011042,26 Feb 12,4,Parkdale,Dendy Park 1,No. 1,Sean Vandenbroek,Adi Rapoport,Sean Vandenbroek,6-2,6,2,1,0,Completed,true,false,false
+UA011042,26 Feb 12,4,Parkdale,Dendy Park 1,No. 2,Galina Enright,Matthew Dodson-Geary,Galina Enright,7-6,7,6,1,0,Completed,true,false,false
+UA011042,26 Feb 12,4,Parkdale,Dendy Park 1,No. 3,Christie Michua,Georgia Wilson,Christie Michua,6-3,6,3,1,0,Completed,true,false,false
+UA011042,26 Feb 12,4,Parkdale,Dendy Park 1,No. 4,Sean Enright,Madison Wilson,Sean Enright,6-1,6,1,1,0,Completed,true,false,false
+UA011043,26 Feb 12,4,GPHC MLC,St Andrews MB,No. 1,Zofia Andrianopoulos,Oliver Knox,Oliver Knox,6-7,6,7,0,1,Completed,true,false,false
+UA011043,26 Feb 12,4,GPHC MLC,St Andrews MB,No. 2,Lucy Diggle,Julian Wilson,Julian Wilson,2-6,2,6,0,1,Completed,true,false,false
+UA011043,26 Feb 12,4,GPHC MLC,St Andrews MB,No. 3,Max Nankivell,Lottie Spencer,Max Nankivell,6-3,6,3,1,0,Completed,true,false,false
+UA011043,26 Feb 12,4,GPHC MLC,St Andrews MB,No. 4,Lachie Roberts,Zara Henderson,Zara Henderson,4-6,4,6,0,1,Completed,true,false,false
+UA011044,26 Feb 12,4,Victory Park,Dendy Park 3,No. 1,Sam Bennoun,Connor Wilson,Sam Bennoun,6-2,6,2,1,0,Completed,true,false,false
+UA011044,26 Feb 12,4,Victory Park,Dendy Park 3,No. 2,Christopher Groves,Matthew Kristie,Matthew Kristie,2-6,2,6,0,1,Completed,true,false,false
+UA011044,26 Feb 12,4,Victory Park,Dendy Park 3,No. 3,Maille Wilson,Lachlan Speirs,Lachlan Speirs,1-6,1,6,0,1,Completed,true,false,false
+UA011044,26 Feb 12,4,Victory Park,Dendy Park 3,No. 4,Sophie Paxinos,Josh Chanmugan,Josh Chanmugan,0-6,0,6,0,1,Completed,true,false,false
+UA011051,04 Mar 12,5,St Andrews MB,Dendy Park 3,No. 1,Julian Wilson,Matthew Kristie,Julian Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA011051,04 Mar 12,5,St Andrews MB,Dendy Park 3,No. 2,Lottie Spencer,Lachlan Speirs,Lachlan Speirs,4-6,4,6,0,1,Completed,true,false,false
+UA011051,04 Mar 12,5,St Andrews MB,Dendy Park 3,No. 3,Zara Henderson,Thomas Wilson,Zara Henderson,6-1,6,1,1,0,Completed,true,false,false
+UA011051,04 Mar 12,5,St Andrews MB,Dendy Park 3,No. 4,Saskia Komljenovic,Josh Chanmugan,Saskia Komljenovic,6-2,6,2,1,0,Completed,true,false,false
+UA011054,04 Mar 12,5,Maccabi,Dendy Park 1,No. 1,Jai Kanat,Adi Rapoport,Jai Kanat,7-6,7,6,1,0,Completed,true,false,false
+UA011054,04 Mar 12,5,Maccabi,Dendy Park 1,No. 2,Lior Davis,Michael Bilosh-Delic,Lior Davis,6-3,6,3,1,0,Completed,true,false,false
+UA011054,04 Mar 12,5,Maccabi,Dendy Park 1,No. 3,Zac Goldberger,Georgia Wilson,Zac Goldberger,6-3,6,3,1,0,Completed,true,false,false
+UA011054,04 Mar 12,5,Maccabi,Dendy Park 1,No. 4,Sahar Gutman,Madison Wilson,Sahar Gutman,6-4,6,4,1,0,Completed,true,false,false
+UA011061,18 Mar 12,6,Dendy Park 1,St Andrews MB,No. 1,Adi Rapoport,Oliver Knox,Oliver Knox,4-6,4,6,0,1,Completed,true,false,false
+UA011061,18 Mar 12,6,Dendy Park 1,St Andrews MB,No. 2,Matthew Dodson-Geary,Julian Wilson,Julian Wilson,2-6,2,6,0,1,Completed,true,false,false
+UA011061,18 Mar 12,6,Dendy Park 1,St Andrews MB,No. 3,Michael Bilosh-Delic,Lottie Spencer,Michael Bilosh-Delic,6-0,6,0,1,0,Completed,true,false,false
+UA011061,18 Mar 12,6,Dendy Park 1,St Andrews MB,No. 4,Georgia Wilson,Zara Henderson,Zara Henderson,0-6,0,6,0,1,Completed,true,false,false
+UA011062,18 Mar 12,6,Dendy Park 3,Maccabi,No. 1,Lachlan Speirs,Jai Kanat,Lachlan Speirs,6-1,6,1,1,0,Completed,true,false,false
+UA011062,18 Mar 12,6,Dendy Park 3,Maccabi,No. 2,Thomas Wilson,Lior Davis,Lior Davis,5-7,5,7,0,1,Completed,true,false,false
+UA011062,18 Mar 12,6,Dendy Park 3,Maccabi,No. 3,Aaron Pudel,Sahar Gutman,Sahar Gutman,3-6,3,6,0,1,Completed,true,false,false
+UA011062,18 Mar 12,6,Dendy Park 3,Maccabi,No. 4,Josh Chanmugan,Jeremy Tusia,Jeremy Tusia,5-7,5,7,0,1,Completed,true,false,false
+UA011063,18 Mar 12,6,Parkdale,Dendy Park 2,No. 1,Sean Vandenbroek,James Russell,James Russell,4-6,4,6,0,1,Completed,true,false,false
+UA011063,18 Mar 12,6,Parkdale,Dendy Park 2,No. 2,Christie Michua,Taylan Olmez,Taylan Olmez,1-6,1,6,0,1,Completed,true,false,false
+UA011063,18 Mar 12,6,Parkdale,Dendy Park 2,No. 3,James Comben,Josh Zawa,Josh Zawa,4-6,4,6,0,1,Completed,true,false,false
+UA011063,18 Mar 12,6,Parkdale,Dendy Park 2,No. 4,Sean Enright,Henri Piner,Sean Enright,6-3,6,3,1,0,Completed,true,false,false
+UA011064,18 Mar 12,6,Victory Park,GPHC MLC,No. 1,Sam Bennoun,Max Nankivell,Max Nankivell,4-6,4,6,0,1,Completed,true,false,false
+UA011064,18 Mar 12,6,Victory Park,GPHC MLC,No. 2,Maille Wilson,Lachie Roberts,Lachie Roberts,4-6,4,6,0,1,Completed,true,false,false
+UA011064,18 Mar 12,6,Victory Park,GPHC MLC,No. 3,Sophie Paxinos,Charlotte Morton,Charlotte Morton,2-6,2,6,0,1,Completed,true,false,false
+UA011064,18 Mar 12,6,Victory Park,GPHC MLC,No. 4,Tully Watson,Ciena Lahanis,Tully Watson,6-0,6,0,1,0,Completed,true,false,false
+UA011071,25 Mar 12,7,Maccabi,St Andrews MB,No. 1,Lior Davis,Oliver Knox,Oliver Knox,2-6,2,6,0,1,Completed,true,false,false
+UA011071,25 Mar 12,7,Maccabi,St Andrews MB,No. 2,Zac Goldberger,Julian Wilson,Julian Wilson,5-7,5,7,0,1,Completed,true,false,false
+UA011071,25 Mar 12,7,Maccabi,St Andrews MB,No. 3,Sahar Gutman,Lottie Spencer,Sahar Gutman,7-6,7,6,1,0,Completed,true,false,false
+UA011071,25 Mar 12,7,Maccabi,St Andrews MB,No. 4,[Unnamed player — TROLS UA011071 home code 4],Emily Campbell,Emily Campbell,0-6,0,6,0,1,Completed,false,false,false
+UA011072,25 Mar 12,7,Dendy Park 1,Dendy Park 3,No. 1,Matthew Dodson-Geary,Connor Wilson,Connor Wilson,6-7,6,7,0,1,Completed,true,false,false
+UA011072,25 Mar 12,7,Dendy Park 1,Dendy Park 3,No. 2,Michael Bilosh-Delic,Matthew Kristie,Matthew Kristie,3-6,3,6,0,1,Completed,true,false,false
+UA011072,25 Mar 12,7,Dendy Park 1,Dendy Park 3,No. 3,Madison Wilson,Lachlan Speirs,Lachlan Speirs,1-6,1,6,0,1,Completed,true,false,false
+UA011072,25 Mar 12,7,Dendy Park 1,Dendy Park 3,No. 4,Georgia Wilson,Josh Chanmugan,Josh Chanmugan,2-6,2,6,0,1,Completed,true,false,false
+UA011073,25 Mar 12,7,GPHC MLC,Dendy Park 2,No. 1,Lucy Diggle,Christopher Iramiyan,Lucy Diggle,6-4,6,4,1,0,Completed,true,false,false
+UA011073,25 Mar 12,7,GPHC MLC,Dendy Park 2,No. 2,Max Nankivell,James Russell,James Russell,1-6,1,6,0,1,Completed,true,false,false
+UA011073,25 Mar 12,7,GPHC MLC,Dendy Park 2,No. 3,Charlotte Morton,Taylan Olmez,Taylan Olmez,0-6,0,6,0,1,Completed,true,false,false
+UA011073,25 Mar 12,7,GPHC MLC,Dendy Park 2,No. 4,Ella Walsh,Henri Piner,Henri Piner,1-6,1,6,0,1,Completed,true,false,false
+UA011074,25 Mar 12,7,Parkdale,Victory Park,No. 1,Sean Vandenbroek,Christopher Groves,Sean Vandenbroek,6-0,6,0,1,0,Completed,true,false,false
+UA011074,25 Mar 12,7,Parkdale,Victory Park,No. 2,Josh Powell,Maille Wilson,Josh Powell,6-4,6,4,1,0,Completed,true,false,false
+UA011074,25 Mar 12,7,Parkdale,Victory Park,No. 3,Galina Enright,Tully Watson,Tully Watson,4-6,4,6,0,1,Completed,true,false,false
+UA011074,25 Mar 12,7,Parkdale,Victory Park,No. 4,Sean Enright,Caitlin Kashyap,Sean Enright,6-4,6,4,1,0,Completed,true,false,false
+UA011081,22 Apr 12,8,Victory Park,Maccabi,No. 1,Sam Bennoun,Jai Kanat,Sam Bennoun,6-3,6,3,1,0,Completed,true,false,false
+UA011081,22 Apr 12,8,Victory Park,Maccabi,No. 2,Maille Wilson,Gabriella Bergman,Maille Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA011081,22 Apr 12,8,Victory Park,Maccabi,No. 3,Sophie Paxinos,Zac Goldberger,Zac Goldberger,3-6,3,6,0,1,Completed,true,false,false
+UA011081,22 Apr 12,8,Victory Park,Maccabi,No. 4,Hannah Moss,Sahar Gutman,Hannah Moss,6-4,6,4,1,0,Completed,true,false,false
+UA011082,22 Apr 12,8,Dendy Park 2,Dendy Park 1,No. 1,James Russell,Adi Rapoport,James Russell,6-2,6,2,1,0,Completed,true,false,false
+UA011082,22 Apr 12,8,Dendy Park 2,Dendy Park 1,No. 2,Taylan Olmez,Michael Bilosh-Delic,Michael Bilosh-Delic,2-6,2,6,0,1,Completed,true,false,false
+UA011082,22 Apr 12,8,Dendy Park 2,Dendy Park 1,No. 3,Josh Zawa,Madison Wilson,Josh Zawa,6-2,6,2,1,0,Completed,true,false,false
+UA011082,22 Apr 12,8,Dendy Park 2,Dendy Park 1,No. 4,Miles Piner,Georgia Wilson,Miles Piner,6-0,6,0,1,0,Completed,true,false,false
+UA011083,22 Apr 12,8,Parkdale,St Andrews MB,No. 1,Josh Powell,Julian Wilson,Julian Wilson,2-6,2,6,0,1,Completed,true,false,false
+UA011083,22 Apr 12,8,Parkdale,St Andrews MB,No. 2,Galina Enright,Lottie Spencer,Galina Enright,6-2,6,2,1,0,Completed,true,false,false
+UA011083,22 Apr 12,8,Parkdale,St Andrews MB,No. 3,James Comben,Emily Campbell,Emily Campbell,2-6,2,6,0,1,Completed,true,false,false
+UA011083,22 Apr 12,8,Parkdale,St Andrews MB,No. 4,Sean Enright,Saskia Komljenovic,Sean Enright,6-3,6,3,1,0,Completed,true,false,false
+UA011084,22 Apr 12,8,GPHC MLC,Dendy Park 3,No. 1,Zofia Andrianopoulos,Connor Wilson,Zofia Andrianopoulos,6-1,6,1,1,0,Completed,true,false,false
+UA011084,22 Apr 12,8,GPHC MLC,Dendy Park 3,No. 2,Lucy Diggle,Lachlan Speirs,Lachlan Speirs,1-6,1,6,0,1,Completed,true,false,false
+UA011084,22 Apr 12,8,GPHC MLC,Dendy Park 3,No. 3,Lachie Roberts,Thomas Wilson,Lachie Roberts,6-3,6,3,1,0,Completed,true,false,false
+UA011084,22 Apr 12,8,GPHC MLC,Dendy Park 3,No. 4,Charlotte Morton,Aaron Pudel,Aaron Pudel,2-6,2,6,0,1,Completed,true,false,false
+UA011091,29 Apr 12,9,Maccabi,GPHC MLC,No. 1,Jai Kanat,Zofia Andrianopoulos,Zofia Andrianopoulos,1-6,1,6,0,1,Completed,true,false,false
+UA011091,29 Apr 12,9,Maccabi,GPHC MLC,No. 2,Gabriella Bergman,Max Nankivell,Max Nankivell,2-6,2,6,0,1,Completed,true,false,false
+UA011091,29 Apr 12,9,Maccabi,GPHC MLC,No. 3,Lior Davis,Charlotte Morton,Lior Davis,6-0,6,0,1,0,Completed,true,false,false
+UA011091,29 Apr 12,9,Maccabi,GPHC MLC,No. 4,Sahar Gutman,Jessica Morton,Sahar Gutman,6-0,6,0,1,0,Completed,true,false,false
+UA011092,29 Apr 12,9,Dendy Park 1,Victory Park,No. 1,Adi Rapoport,Christopher Groves,Christopher Groves,4-6,4,6,0,1,Completed,true,false,false
+UA011092,29 Apr 12,9,Dendy Park 1,Victory Park,No. 2,Madison Wilson,Sophie Paxinos,Madison Wilson,6-2,6,2,1,0,Completed,true,false,false
+UA011092,29 Apr 12,9,Dendy Park 1,Victory Park,No. 3,Matthew Dodson-Geary,Tully Watson,Tully Watson,0-6,0,6,0,1,Completed,true,false,false
+UA011092,29 Apr 12,9,Dendy Park 1,Victory Park,No. 4,Georgia Wilson,Hannah Moss,Hannah Moss,4-6,4,6,0,1,Completed,true,false,false
+UA011093,29 Apr 12,9,St Andrews MB,Dendy Park 2,No. 1,Oliver Knox,James Russell,James Russell,6-7,6,7,0,1,Completed,true,false,false
+UA011093,29 Apr 12,9,St Andrews MB,Dendy Park 2,No. 2,Julian Wilson,Taylan Olmez,Julian Wilson,6-2,6,2,1,0,Completed,true,false,false
+UA011093,29 Apr 12,9,St Andrews MB,Dendy Park 2,No. 3,Zara Henderson,Pranav Mayesh,Zara Henderson,6-0,6,0,1,0,Completed,true,false,false
+UA011093,29 Apr 12,9,St Andrews MB,Dendy Park 2,No. 4,Saskia Komljenovic,Henri Piner,Saskia Komljenovic,6-3,6,3,1,0,Completed,true,false,false
+UA011094,29 Apr 12,9,Dendy Park 3,Parkdale,No. 1,Connor Wilson,Sean Vandenbroek,Sean Vandenbroek,0-6,0,6,0,1,Completed,true,false,false
+UA011094,29 Apr 12,9,Dendy Park 3,Parkdale,No. 2,Anthony Capp,Galina Enright,Anthony Capp,6-2,6,2,1,0,Completed,true,false,false
+UA011094,29 Apr 12,9,Dendy Park 3,Parkdale,No. 3,Aaron Pudel,James Comben,James Comben,0-6,0,6,0,1,Completed,true,false,false
+UA011094,29 Apr 12,9,Dendy Park 3,Parkdale,No. 4,Max King,Sean Enright,Sean Enright,3-6,3,6,0,1,Completed,true,false,false
+UA011101,06 May 12,10,Parkdale,Maccabi,No. 1,Sean Vandenbroek,Jai Kanat,Sean Vandenbroek,6-1,6,1,1,0,Completed,true,false,false
+UA011101,06 May 12,10,Parkdale,Maccabi,No. 2,[Unnamed player — TROLS UA011101 home code 2],Gabriella Bergman,Gabriella Bergman,0-6,0,6,0,1,Completed,false,false,false
+UA011101,06 May 12,10,Parkdale,Maccabi,No. 3,Galina Enright,Jordan Zalcman,Galina Enright,6-3,6,3,1,0,Completed,true,false,false
+UA011101,06 May 12,10,Parkdale,Maccabi,No. 4,James Comben,Zac Goldberger,Zac Goldberger,4-6,4,6,0,1,Completed,true,false,false
+UA011102,06 May 12,10,GPHC MLC,Dendy Park 1,No. 1,Zofia Andrianopoulos,Adi Rapoport,Zofia Andrianopoulos,6-2,6,2,1,0,Completed,true,false,false
+UA011102,06 May 12,10,GPHC MLC,Dendy Park 1,No. 2,Lucy Diggle,Michael Bilosh-Delic,Lucy Diggle,6-4,6,4,1,0,Completed,true,false,false
+UA011102,06 May 12,10,GPHC MLC,Dendy Park 1,No. 3,Max Nankivell,Matthew Dodson-Geary,Max Nankivell,6-1,6,1,1,0,Completed,true,false,false
+UA011102,06 May 12,10,GPHC MLC,Dendy Park 1,No. 4,Lachie Roberts,Madison Wilson,Madison Wilson,3-6,3,6,0,1,Completed,true,false,false
+UA011103,06 May 12,10,Victory Park,St Andrews MB,No. 1,Sam Bennoun,Julian Wilson,Julian Wilson,3-6,3,6,0,1,Completed,true,false,false
+UA011103,06 May 12,10,Victory Park,St Andrews MB,No. 2,Maille Wilson,Nick Moran,Nick Moran,1-6,1,6,0,1,Completed,true,false,false
+UA011103,06 May 12,10,Victory Park,St Andrews MB,No. 3,Sophie Paxinos,Lottie Spencer,Lottie Spencer,2-6,2,6,0,1,Completed,true,false,false
+UA011103,06 May 12,10,Victory Park,St Andrews MB,No. 4,Tully Watson,Emily Campbell,Emily Campbell,2-6,2,6,0,1,Completed,true,false,false
+UA011104,06 May 12,10,Dendy Park 2,Dendy Park 3,No. 1,Christopher Iramiyan,Connor Wilson,Christopher Iramiyan,6-2,6,2,1,0,Completed,true,false,false
+UA011104,06 May 12,10,Dendy Park 2,Dendy Park 3,No. 2,James Russell,Lachlan Speirs,James Russell,6-0,6,0,1,0,Completed,true,false,false
+UA011104,06 May 12,10,Dendy Park 2,Dendy Park 3,No. 3,Josh Zawa,Aaron Pudel,Josh Zawa,6-1,6,1,1,0,Completed,true,false,false
+UA011104,06 May 12,10,Dendy Park 2,Dendy Park 3,No. 4,Henri Piner,Max King,Henri Piner,6-0,6,0,1,0,Completed,true,false,false
+UA011121,20 May 12,12,Dendy Park 3,St Andrews MB,No. 1,Connor Wilson,Oliver Knox,Oliver Knox,4-6,4,6,0,1,Completed,true,false,false
+UA011121,20 May 12,12,Dendy Park 3,St Andrews MB,No. 2,Lachlan Speirs,Julian Wilson,Julian Wilson,1-6,1,6,0,1,Completed,true,false,false
+UA011121,20 May 12,12,Dendy Park 3,St Andrews MB,No. 3,Thomas Wilson,Zara Henderson,Zara Henderson,5-7,5,7,0,1,Completed,true,false,false
+UA011121,20 May 12,12,Dendy Park 3,St Andrews MB,No. 4,Max King,Saskia Komljenovic,Saskia Komljenovic,2-6,2,6,0,1,Completed,true,false,false
+UA011122,20 May 12,12,Parkdale,GPHC MLC,No. 1,Sean Vandenbroek,Zofia Andrianopoulos,Sean Vandenbroek,6-2,6,2,1,0,Completed,true,false,false
+UA011122,20 May 12,12,Parkdale,GPHC MLC,No. 2,[Unnamed player — TROLS UA011122 home code 2],Max Nankivell,Max Nankivell,0-6,0,6,0,1,Completed,false,false,false
+UA011122,20 May 12,12,Parkdale,GPHC MLC,No. 3,James Comben,Lachie Roberts,James Comben,6-4,6,4,1,0,Completed,true,false,false
+UA011122,20 May 12,12,Parkdale,GPHC MLC,No. 4,Sean Enright,Charlotte Morton,Sean Enright,6-1,6,1,1,0,Completed,true,false,false
+UA011123,20 May 12,12,Victory Park,Dendy Park 2,No. 1,Christopher Groves,Christopher Iramiyan,Christopher Iramiyan,1-6,1,6,0,1,Completed,true,false,false
+UA011123,20 May 12,12,Victory Park,Dendy Park 2,No. 2,Sophie Paxinos,James Russell,James Russell,0-6,0,6,0,1,Completed,true,false,false
+UA011123,20 May 12,12,Victory Park,Dendy Park 2,No. 3,Tully Watson,Taylan Olmez,Taylan Olmez,1-6,1,6,0,1,Completed,true,false,false
+UA011123,20 May 12,12,Victory Park,Dendy Park 2,No. 4,Hannah Moss,Josh Zawa,Josh Zawa,1-6,1,6,0,1,Completed,true,false,false
+UA011124,20 May 12,12,Dendy Park 1,Maccabi,No. 1,Matthew Dodson-Geary,Jai Kanat,Jai Kanat,0-6,0,6,0,1,Completed,true,false,false
+UA011124,20 May 12,12,Dendy Park 1,Maccabi,No. 2,Michael Bilosh-Delic,Gabriella Bergman,Gabriella Bergman,0-6,0,6,0,1,Completed,true,false,false
+UA011124,20 May 12,12,Dendy Park 1,Maccabi,No. 3,Madison Wilson,Jordan Zalcman,Madison Wilson,7-5,7,5,1,0,Completed,true,false,false
+UA011124,20 May 12,12,Dendy Park 1,Maccabi,No. 4,Georgia Wilson,Sahar Gutman,Sahar Gutman,0-6,0,6,0,1,Completed,true,false,false
+UA011131,27 May 12,13,St Andrews MB,Dendy Park 1,No. 1,Oliver Knox,Adi Rapoport,Oliver Knox,6-4,6,4,1,0,Completed,true,false,false
+UA011131,27 May 12,13,St Andrews MB,Dendy Park 1,No. 2,Julian Wilson,Michael Bilosh-Delic,Julian Wilson,6-2,6,2,1,0,Completed,true,false,false
+UA011131,27 May 12,13,St Andrews MB,Dendy Park 1,No. 3,Lottie Spencer,Matthew Dodson-Geary,Lottie Spencer,6-0,6,0,1,0,Completed,true,false,false
+UA011131,27 May 12,13,St Andrews MB,Dendy Park 1,No. 4,Zara Henderson,Madison Wilson,Zara Henderson,6-1,6,1,1,0,Completed,true,false,false
+UA011132,27 May 12,13,Maccabi,Dendy Park 3,No. 1,Daniel Peer,Connor Wilson,Connor Wilson,3-6,3,6,0,1,Completed,true,false,false
+UA011132,27 May 12,13,Maccabi,Dendy Park 3,No. 2,Jai Kanat,Lachlan Speirs,Jai Kanat,6-4,6,4,1,0,Completed,true,false,false
+UA011132,27 May 12,13,Maccabi,Dendy Park 3,No. 3,Gabriella Bergman,Aaron Pudel,Gabriella Bergman,6-3,6,3,1,0,Completed,true,false,false
+UA011132,27 May 12,13,Maccabi,Dendy Park 3,No. 4,Jordan Zalcman,Max King,Jordan Zalcman,6-3,6,3,1,0,Completed,true,false,false
+UA011133,27 May 12,13,Dendy Park 2,Parkdale,No. 1,James Russell,Josh Powell,Josh Powell,6-7,6,7,0,1,Completed,true,false,false
+UA011133,27 May 12,13,Dendy Park 2,Parkdale,No. 2,Taylan Olmez,Galina Enright,Taylan Olmez,6-0,6,0,1,0,Completed,true,false,false
+UA011133,27 May 12,13,Dendy Park 2,Parkdale,No. 3,Josh Zawa,James Comben,Josh Zawa,6-4,6,4,1,0,Completed,true,false,false
+UA011133,27 May 12,13,Dendy Park 2,Parkdale,No. 4,Henri Piner,Sean Enright,Sean Enright,1-6,1,6,0,1,Completed,true,false,false
+UA011134,27 May 12,13,GPHC MLC,Victory Park,No. 1,Zofia Andrianopoulos,Sam Bennoun,Sam Bennoun,1-6,1,6,0,1,Completed,true,false,false
+UA011134,27 May 12,13,GPHC MLC,Victory Park,No. 2,Lucy Diggle,Christopher Groves,Christopher Groves,4-6,4,6,0,1,Completed,true,false,false
+UA011134,27 May 12,13,GPHC MLC,Victory Park,No. 3,Lachie Roberts,Maille Wilson,Lachie Roberts,6-1,6,1,1,0,Completed,true,false,false
+UA011134,27 May 12,13,GPHC MLC,Victory Park,No. 4,Charlotte Morton,Tully Watson,Tully Watson,1-6,1,6,0,1,Completed,true,false,false
+UA011141,03 Jun 12,14,St Andrews MB,Maccabi,No. 1,Oliver Knox,Gabriella Bergman,Oliver Knox,6-2,6,2,1,0,Completed,true,false,false
+UA011141,03 Jun 12,14,St Andrews MB,Maccabi,No. 2,Lottie Spencer,Jordan Zalcman,Jordan Zalcman,3-6,3,6,0,1,Completed,true,false,false
+UA011141,03 Jun 12,14,St Andrews MB,Maccabi,No. 3,Zara Henderson,Zac Goldberger,Zara Henderson,6-0,6,0,1,0,Completed,true,false,false
+UA011141,03 Jun 12,14,St Andrews MB,Maccabi,No. 4,Saskia Komljenovic,Sahar Gutman,Saskia Komljenovic,6-2,6,2,1,0,Completed,true,false,false
+UA011142,03 Jun 12,14,Dendy Park 3,Dendy Park 1,No. 1,Connor Wilson,Adi Rapoport,Adi Rapoport,3-6,3,6,0,1,Completed,true,false,false
+UA011142,03 Jun 12,14,Dendy Park 3,Dendy Park 1,No. 2,Lachlan Speirs,Matthew Dodson-Geary,Lachlan Speirs,6-1,6,1,1,0,Completed,true,false,false
+UA011142,03 Jun 12,14,Dendy Park 3,Dendy Park 1,No. 3,Robert Capp,Madison Wilson,Robert Capp,6-2,6,2,1,0,Completed,true,false,false
+UA011142,03 Jun 12,14,Dendy Park 3,Dendy Park 1,No. 4,Aaron Pudel,Lauren Ryan,Lauren Ryan,2-6,2,6,0,1,Completed,true,false,false
+UA011143,03 Jun 12,14,Dendy Park 2,GPHC MLC,No. 1,Christopher Iramiyan,Zofia Andrianopoulos,Christopher Iramiyan,6-3,6,3,1,0,Completed,true,false,false
+UA011143,03 Jun 12,14,Dendy Park 2,GPHC MLC,No. 2,James Russell,Lucy Diggle,Lucy Diggle,4-6,4,6,0,1,Completed,true,false,false
+UA011143,03 Jun 12,14,Dendy Park 2,GPHC MLC,No. 3,Josh Zawa,Max Nankivell,Max Nankivell,2-6,2,6,0,1,Completed,true,false,false
+UA011143,03 Jun 12,14,Dendy Park 2,GPHC MLC,No. 4,Henri Piner,Lachie Roberts,Lachie Roberts,3-6,3,6,0,1,Completed,true,false,false
+UA011144,03 Jun 12,14,Victory Park,Parkdale,No. 1,Sam Bennoun,Sean Vandenbroek,Sean Vandenbroek,3-6,3,6,0,1,Completed,true,false,false
+UA011144,03 Jun 12,14,Victory Park,Parkdale,No. 2,Maille Wilson,Sean Enright,Sean Enright,0-6,0,6,0,1,Completed,true,false,false
+UA011144,03 Jun 12,14,Victory Park,Parkdale,No. 3,Sophie Paxinos,Galina Enright,Galina Enright,0-6,0,6,0,1,Completed,true,false,false
+UA011144,03 Jun 12,14,Victory Park,Parkdale,No. 4,Tully Watson,Josh Powell,Josh Powell,1-6,1,6,0,1,Completed,true,false,false
+UA011301,,16,St Andrews MB,Maccabi,No. 1,Oliver Knox,Jai Kanat,Jai Kanat,0-6,0,6,0,1,Completed,true,false,false
+UA011301,,16,St Andrews MB,Maccabi,No. 2,Julian Wilson,Jordan Zalcman,Julian Wilson,6-0,6,0,1,0,Completed,true,false,false
+UA011301,,16,St Andrews MB,Maccabi,No. 3,Lottie Spencer,Zac Goldberger,Lottie Spencer,6-3,6,3,1,0,Completed,true,false,false
+UA011301,,16,St Andrews MB,Maccabi,No. 4,Zara Henderson,Sahar Gutman,Zara Henderson,6-0,6,0,1,0,Completed,true,false,false
+UA011302,,16,Dendy Park 2,Parkdale,No. 1,Christopher Iramiyan,Sean Enright,Sean Enright,3-6,3,6,0,1,Completed,true,false,false
+UA011302,,16,Dendy Park 2,Parkdale,No. 2,James Russell,Josh Powell,James Russell,6-0,6,0,1,0,Completed,true,false,false
+UA011302,,16,Dendy Park 2,Parkdale,No. 3,Taylan Olmez,Galina Enright,Taylan Olmez,6-3,6,3,1,0,Completed,true,false,false
+UA011302,,16,Dendy Park 2,Parkdale,No. 4,Josh Zawa,James Comben,Josh Zawa,6-0,6,0,1,0,Completed,true,false,false
+UA011321,,17,St Andrews MB,Dendy Park 2,No. 1,Oliver Knox,Christopher Iramiyan,Christopher Iramiyan,3-6,3,6,0,1,Completed,true,false,false
+UA011321,,17,St Andrews MB,Dendy Park 2,No. 2,Julian Wilson,James Russell,James Russell,5-7,5,7,0,1,Completed,true,false,false
+UA011321,,17,St Andrews MB,Dendy Park 2,No. 3,Lottie Spencer,Taylan Olmez,Taylan Olmez,1-6,1,6,0,1,Completed,true,false,false
+UA011321,,17,St Andrews MB,Dendy Park 2,No. 4,Zara Henderson,Josh Zawa,Josh Zawa,4-6,4,6,0,1,Completed,true,false,false

@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA35-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2024",
+  "season_id": "UA35",
+  "season_label": "Spring 2024",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park",
+      "wins": 9,
+      "points": 93,
+      "percentage": 131.08,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Dendy Park",
+      "wins": 8,
+      "points": 86,
+      "percentage": 121.22,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 8,
+      "points": 81,
+      "percentage": 100.28,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC Blue",
+      "wins": 8,
+      "points": 80,
+      "percentage": 116.42,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Black Rock",
+      "wins": 5,
+      "points": 63,
+      "percentage": 92.33,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal South Yarra",
+      "wins": 5,
+      "points": 59,
+      "percentage": 92.56,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Aspendale",
+      "wins": 3,
+      "points": 49,
+      "percentage": 79.53,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "St Andrews MB",
+      "wins": 3,
+      "points": 49,
+      "percentage": 78.7,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA35-UA014",
+  "fixtures": 59,
+  "completed_fixtures": 56,
+  "draw_fixtures": 59,
+  "singles_rubbers": 222,
+  "doubles_rubbers": 112,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA014321"
+  ]
+}

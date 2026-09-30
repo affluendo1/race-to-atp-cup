@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA009011,05 Feb 12,1,regular,Round 1,Dendy Park,Royal Ave,2,8,2,4,,,21,33,Completed,
+UA009012,05 Feb 12,1,regular,Round 1,St James 1,St James 2,0,10,0,6,,,21,37,Completed,
+UA009013,05 Feb 12,1,regular,Round 1,GPHC,Kooyong St Kevin's,8,2,4,2,,,31,27,Completed,
+UA009014,05 Feb 12,1,regular,Round 1,Carmelite,Glen Eira Brook,7,3,3,3,,,25,24,Completed,
+UA009021,12 Feb 12,2,regular,Round 2,Glen Eira Brook,Dendy Park,3,7,3,3,,,23,25,Completed,
+UA009022,12 Feb 12,2,regular,Round 2,Royal Ave,St James 1,9,1,5,1,,,35,16,Completed,
+UA009023,12 Feb 12,2,regular,Round 2,St James 2,GPHC,9,1,5,1,,,33,20,Completed,
+UA009024,12 Feb 12,2,regular,Round 2,Kooyong St Kevin's,Carmelite,1,9,1,5,,,20,31,Completed,
+UA009031,19 Feb 12,3,regular,Round 3,Dendy Park,Kooyong St Kevin's,8,2,4,2,,,31,25,Completed,
+UA009032,19 Feb 12,3,regular,Round 3,St James 1,Glen Eira Brook,8,2,4,2,,,28,16,Completed,
+UA009033,19 Feb 12,3,regular,Round 3,GPHC,Royal Ave,2,8,2,4,,,17,27,Completed,
+UA009034,19 Feb 12,3,regular,Round 3,Carmelite,St James 2,3,7,3,3,,,28,29,Completed,
+UA009041,26 Feb 12,4,regular,Round 4,St James 2,Dendy Park,8,2,4,2,,,33,22,Completed,
+UA009042,26 Feb 12,4,regular,Round 4,Kooyong St Kevin's,St James 1,2,8,2,4,,,21,31,Completed,
+UA009043,26 Feb 12,4,regular,Round 4,Glen Eira Brook,GPHC,2,8,2,4,,,32,36,Completed,
+UA009044,26 Feb 12,4,regular,Round 4,Royal Ave,Carmelite,7,3,3,3,,,28,25,Completed,
+UA009051,04 Mar 12,5,regular,Round 5,GPHC,Carmelite,8,2,4,2,,,26,20,Completed,
+UA009052,04 Mar 12,5,regular,Round 5,Glen Eira Brook,Kooyong St Kevin's,8,2,4,2,,,30,27,Completed,
+pending-ua009-r5-dendy-park-st-james-1,04 Mar 12,5,regular,Round 5,Dendy Park,St James 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua009-r5-st-james-2-royal-ave,04 Mar 12,5,regular,Round 5,St James 2,Royal Ave,,,,,,,,,Forfeited To,No individual scorecard / no rubbers recorded
+UA009061,18 Mar 12,6,regular,Round 6,St James 1,GPHC,3,7,3,3,,,22,28,Completed,
+UA009062,18 Mar 12,6,regular,Round 6,Carmelite,Dendy Park,8,2,4,2,,,30,20,Completed,
+UA009064,18 Mar 12,6,regular,Round 6,Royal Ave,Glen Eira Brook,9,1,5,1,,,30,20,Completed,
+pending-ua009-r6-kooyong-st-kevin-s-st-james-2,18 Mar 12,6,regular,Round 6,Kooyong St Kevin's,St James 2,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA009071,25 Mar 12,7,regular,Round 7,Dendy Park,GPHC,2,8,2,4,,,25,30,Completed,
+UA009072,25 Mar 12,7,regular,Round 7,St James 1,Carmelite,2,8,2,4,,,23,34,Completed,
+UA009073,25 Mar 12,7,regular,Round 7,Glen Eira Brook,St James 2,1,9,1,5,,,14,33,Completed,
+UA009074,25 Mar 12,7,regular,Round 7,Kooyong St Kevin's,Royal Ave,2,8,2,4,,,22,26,Completed,
+UA009081,22 Apr 12,8,regular,Round 8,Royal Ave,Dendy Park,8,2,4,2,,,29,27,Completed,
+UA009083,22 Apr 12,8,regular,Round 8,Kooyong St Kevin's,GPHC,7,3,3,3,,,27,25,Completed,
+UA009084,22 Apr 12,8,regular,Round 8,Glen Eira Brook,Carmelite,3,7,3,3,,,27,28,Completed,
+pending-ua009-r8-st-james-2-st-james-1,22 Apr 12,8,regular,Round 8,St James 2,St James 1,,,,,,,,,Forfeited To,No individual scorecard / no rubbers recorded
+UA009091,29 Apr 12,9,regular,Round 9,Dendy Park,Glen Eira Brook,9,1,5,1,,,35,25,Completed,
+UA009092,29 Apr 12,9,regular,Round 9,St James 1,Royal Ave,2,8,2,4,,,23,31,Completed,
+UA009093,29 Apr 12,9,regular,Round 9,GPHC,St James 2,3,7,3,3,,,21,25,Completed,
+UA009094,29 Apr 12,9,regular,Round 9,Carmelite,Kooyong St Kevin's,8,2,4,2,,,31,26,Completed,
+UA009101,06 May 12,10,regular,Round 10,Kooyong St Kevin's,Dendy Park,2,8,2,4,,,22,29,Completed,
+UA009103,06 May 12,10,regular,Round 10,Royal Ave,GPHC,7,3,3,3,,,25,22,Completed,
+UA009104,06 May 12,10,regular,Round 10,St James 2,Carmelite,3,7,3,3,,,28,29,Completed,
+pending-ua009-r10-glen-eira-brook-st-james-1,06 May 12,10,regular,Round 10,Glen Eira Brook,St James 1,,,,,,,,,Forfeited To,No individual scorecard / no rubbers recorded
+pending-ua009-r11-carmelite-royal-ave,13 May 12,11,regular,Round 11,Carmelite,Royal Ave,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua009-r11-dendy-park-st-james-2,13 May 12,11,regular,Round 11,Dendy Park,St James 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua009-r11-gphc-glen-eira-brook,13 May 12,11,regular,Round 11,GPHC,Glen Eira Brook,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua009-r11-st-james-1-kooyong-st-kevin-s,13 May 12,11,regular,Round 11,St James 1,Kooyong St Kevin's,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA009121,20 May 12,12,regular,Round 12,Carmelite,GPHC,9,1,5,1,,,33,21,Completed,
+UA009122,20 May 12,12,regular,Round 12,Kooyong St Kevin's,Glen Eira Brook,2,8,2,4,,,29,32,Completed,
+UA009123,20 May 12,12,regular,Round 12,Royal Ave,St James 2,8,2,4,2,,,31,22,Completed,
+UA009124,20 May 12,12,regular,Round 12,St James 1,Dendy Park,8,2,4,2,,,30,20,Completed,
+UA009132,27 May 12,13,regular,Round 13,Dendy Park,Carmelite,3,7,3,3,,,24,25,Completed,
+UA009133,27 May 12,13,regular,Round 13,St James 2,Kooyong St Kevin's,10,0,6,0,,,36,11,Completed,
+UA009134,27 May 12,13,regular,Round 13,Glen Eira Brook,Royal Ave,1,9,1,5,,,13,32,Completed,
+pending-ua009-r13-gphc-st-james-1,27 May 12,13,regular,Round 13,GPHC,St James 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA009141,03 Jun 12,14,regular,Round 14,GPHC,Dendy Park,1,9,1,5,,,26,32,Completed,
+UA009142,03 Jun 12,14,regular,Round 14,Carmelite,St James 1,2,8,2,4,,,18,30,Completed,
+UA009143,03 Jun 12,14,regular,Round 14,St James 2,Glen Eira Brook,8,2,4,2,,,28,22,Completed,
+UA009144,03 Jun 12,14,regular,Round 14,Royal Ave,Kooyong St Kevin's,9,1,5,1,,,36,18,Completed,
+UA009301,,16,semi_final,Semi-final,Royal Ave,St James 1,9,1,5,1,,,33,14,Completed,
+UA009302,,16,semi_final,Semi-final,Carmelite,St James 2,8,2,4,2,,,32,23,Completed,
+UA009321,,17,grand_final,Grand final · TROLS entry 2,Royal Ave,Carmelite,10,0,6,0,,,36,14,Completed,

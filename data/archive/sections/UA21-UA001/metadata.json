@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA21-UA001",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2017",
+  "season_id": "UA21",
+  "season_label": "Spring 2017",
+  "source_section_code": "UA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Dendy Park",
+      "wins": 13,
+      "points": 120,
+      "percentage": 191.32,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 10,
+      "points": 87,
+      "percentage": 115.2,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kooyong 1",
+      "wins": 6,
+      "points": 70,
+      "percentage": 110.88,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Kooyong 2",
+      "wins": 6,
+      "points": 66,
+      "percentage": 92.48,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Tennis World",
+      "wins": 6,
+      "points": 65,
+      "percentage": 85.82,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Aspendale",
+      "wins": 6,
+      "points": 60,
+      "percentage": 77.75,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 2,
+      "points": 48,
+      "percentage": 84.76,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave",
+      "wins": 3,
+      "points": 44,
+      "percentage": 85.07,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA21-UA001",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 59,
+  "singles_rubbers": 226,
+  "doubles_rubbers": 114,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA38-UA015",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2026",
+  "season_id": "UA38",
+  "season_label": "Autumn 2026",
+  "source_section_code": "UA015",
+  "section_label": "Sets 12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC Blue",
+      "wins": 11,
+      "points": 109,
+      "percentage": 180.11,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Kooyong",
+      "wins": 9,
+      "points": 88,
+      "percentage": 117.29,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Hampton",
+      "wins": 8,
+      "points": 85,
+      "percentage": 121.53,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Kings Park",
+      "wins": 6,
+      "points": 74,
+      "percentage": 111.69,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC White",
+      "wins": 5,
+      "points": 57.5,
+      "percentage": 90.09,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Black Rock",
+      "wins": 4,
+      "points": 56.5,
+      "percentage": 76.51,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Hurlingham Park",
+      "wins": 2,
+      "points": 46,
+      "percentage": 75.22,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Beaumaris CC",
+      "wins": 3,
+      "points": 44,
+      "percentage": 72.92,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA38-UA015",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 59,
+  "singles_rubbers": 204,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for UA015104"
+  ]
+}

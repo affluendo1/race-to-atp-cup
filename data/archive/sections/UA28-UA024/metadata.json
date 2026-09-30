@@ -1,0 +1,75 @@
+{
+  "asset_id": "UA28-UA024",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2021",
+  "season_id": "UA28",
+  "season_label": "Autumn 2021",
+  "source_section_code": "UA024",
+  "section_label": "Section 24 Green",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Parkdale",
+      "wins": 9,
+      "points": 93,
+      "percentage": 127.59,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Mentone",
+      "wins": 9,
+      "points": 90,
+      "percentage": 125.52,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kings Park 1",
+      "wins": 5,
+      "points": 67,
+      "percentage": 95.79,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 3,
+      "points": 66,
+      "percentage": 105.3,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kings Park 3",
+      "wins": 4,
+      "points": 62,
+      "percentage": 90.03,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kings Park 2",
+      "wins": 1,
+      "points": 42,
+      "percentage": 67.28,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA28-UA024",
+  "fixtures": 43,
+  "completed_fixtures": 34,
+  "draw_fixtures": 43,
+  "singles_rubbers": 132,
+  "doubles_rubbers": 66,
+  "latest_round": 16,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

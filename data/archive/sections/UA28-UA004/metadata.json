@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA28-UA004",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2021",
+  "season_id": "UA28",
+  "season_label": "Autumn 2021",
+  "source_section_code": "UA004",
+  "section_label": "Section 4",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC",
+      "wins": 10,
+      "points": 99,
+      "percentage": 130.92,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Highett",
+      "wins": 8,
+      "points": 89,
+      "percentage": 141.2,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Hurlingham Park",
+      "wins": 8,
+      "points": 85,
+      "percentage": 132.53,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Beaumaris CC",
+      "wins": 3,
+      "points": 57,
+      "percentage": 95.95,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC",
+      "wins": 4,
+      "points": 57,
+      "percentage": 94.49,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park",
+      "wins": 4,
+      "points": 57,
+      "percentage": 84.75,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Coatesville",
+      "wins": 1,
+      "points": 45,
+      "percentage": 87.03,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "St Pats Mentone",
+      "wins": 1,
+      "points": 31,
+      "percentage": 53.99,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA28-UA004",
+  "fixtures": 55,
+  "completed_fixtures": 44,
+  "draw_fixtures": 59,
+  "singles_rubbers": 174,
+  "doubles_rubbers": 88,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

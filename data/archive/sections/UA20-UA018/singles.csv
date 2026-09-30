@@ -1,0 +1,226 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA018011,05 Feb 17,1,Kooyong Xavier 2,Royal South Yarra,No. 1,Henry Stevens,Eddie Miller,Eddie Miller,1-6,1,6,0,1,Completed,true,false,false
+UA018011,05 Feb 17,1,Kooyong Xavier 2,Royal South Yarra,No. 2,Sebastion Richardson,George Cox,Sebastion Richardson,6-4,6,4,1,0,Completed,true,false,false
+UA018011,05 Feb 17,1,Kooyong Xavier 2,Royal South Yarra,No. 3,Jules Baeppler,Abbey Brown,Jules Baeppler,6-1,6,1,1,0,Completed,true,false,false
+UA018011,05 Feb 17,1,Kooyong Xavier 2,Royal South Yarra,No. 4,Jack Saville,Anna Liggleston,Jack Saville,6-3,6,3,1,0,Completed,true,false,false
+UA018012,05 Feb 17,1,Le Page,Lauriston,No. 1,Mattan Amler,Joshua Smith,Joshua Smith,1-6,1,6,0,1,Completed,true,false,false
+UA018012,05 Feb 17,1,Le Page,Lauriston,No. 2,Elan Amler,Yaniv Rakach,Yaniv Rakach,1-6,1,6,0,1,Completed,true,false,false
+UA018012,05 Feb 17,1,Le Page,Lauriston,No. 3,James Katakouzinos,Daniel Kazakevich,Daniel Kazakevich,2-6,2,6,0,1,Completed,true,false,false
+UA018012,05 Feb 17,1,Le Page,Lauriston,No. 4,Peter Katakouzinos,Alexander Marsionis,Alexander Marsionis,0-6,0,6,0,1,Completed,true,false,false
+UA018013,05 Feb 17,1,Dendy Park,Kooyong St Kevin's 1,No. 1,Zach Anquetil,Bronte Game,Bronte Game,1-6,1,6,0,1,Completed,true,false,false
+UA018013,05 Feb 17,1,Dendy Park,Kooyong St Kevin's 1,No. 2,Angus McIntire,Lauren Gregor,Lauren Gregor,0-6,0,6,0,1,Completed,true,false,false
+UA018013,05 Feb 17,1,Dendy Park,Kooyong St Kevin's 1,No. 3,Oliver Waters,Jemima Wraith-Bell,Oliver Waters,6-0,6,0,1,0,Completed,true,false,false
+UA018013,05 Feb 17,1,Dendy Park,Kooyong St Kevin's 1,No. 4,Monty Sallabank,Honor Jennings,Honor Jennings,1-6,1,6,0,1,Completed,true,false,false
+UA018014,05 Feb 17,1,BLTC,GPHC MLC,No. 1,Ben Banks,Lucinda Elsom,Lucinda Elsom,0-6,0,6,0,1,Completed,true,false,false
+UA018014,05 Feb 17,1,BLTC,GPHC MLC,No. 2,Emerson Schillaci,Maddy Fuller,Maddy Fuller,0-6,0,6,0,1,Completed,true,false,false
+UA018014,05 Feb 17,1,BLTC,GPHC MLC,No. 3,Sofia Norman,Annie Timm,Annie Timm,2-6,2,6,0,1,Completed,true,false,false
+UA018014,05 Feb 17,1,BLTC,GPHC MLC,No. 4,Charli Cowan,Gabbi Brown,Gabbi Brown,0-6,0,6,0,1,Completed,true,false,false
+UA018021,12 Feb 17,2,GPHC MLC,Kooyong Xavier 2,No. 1,Lucinda Elsom,Sebastion Richardson,Lucinda Elsom,6-3,6,3,1,0,Completed,true,false,false
+UA018021,12 Feb 17,2,GPHC MLC,Kooyong Xavier 2,No. 2,Maddy Fuller,Adrian Li,Adrian Li,2-6,2,6,0,1,Completed,true,false,false
+UA018021,12 Feb 17,2,GPHC MLC,Kooyong Xavier 2,No. 3,Annie Timm,Sophie Moore,Annie Timm,6-2,6,2,1,0,Completed,true,false,false
+UA018021,12 Feb 17,2,GPHC MLC,Kooyong Xavier 2,No. 4,Mimi Grey,Chelsea Hall,Chelsea Hall,1-6,1,6,0,1,Completed,true,false,false
+UA018022,12 Feb 17,2,Royal South Yarra,Le Page,No. 1,Eddie Miller,Mattan Amler,Eddie Miller,6-0,6,0,1,0,Completed,true,false,false
+UA018022,12 Feb 17,2,Royal South Yarra,Le Page,No. 2,George Cox,Elan Amler,George Cox,6-0,6,0,1,0,Completed,true,false,false
+UA018022,12 Feb 17,2,Royal South Yarra,Le Page,No. 3,Charlie Atkins,James Katakouzinos,Charlie Atkins,6-2,6,2,1,0,Completed,true,false,false
+UA018022,12 Feb 17,2,Royal South Yarra,Le Page,No. 4,Max Gray,Peter Katakouzinos,Max Gray,6-0,6,0,1,0,Completed,true,false,false
+UA018023,12 Feb 17,2,Lauriston,Dendy Park,No. 1,Joshua Smith,Angus McIntire,Joshua Smith,6-1,6,1,1,0,Completed,true,false,false
+UA018023,12 Feb 17,2,Lauriston,Dendy Park,No. 2,Yaniv Rakach,Oliver Waters,Oliver Waters,2-6,2,6,0,1,Completed,true,false,false
+UA018023,12 Feb 17,2,Lauriston,Dendy Park,No. 3,William Schiavello,Charles McNabney,Charles McNabney,2-6,2,6,0,1,Completed,true,false,false
+UA018023,12 Feb 17,2,Lauriston,Dendy Park,No. 4,Alexander Marsionis,Monty Sallabank,Alexander Marsionis,6-4,6,4,1,0,Completed,true,false,false
+UA018024,12 Feb 17,2,Kooyong St Kevin's 1,BLTC,No. 1,Bronte Game,Ben Banks,Bronte Game,7-5,7,5,1,0,Completed,true,false,false
+UA018024,12 Feb 17,2,Kooyong St Kevin's 1,BLTC,No. 2,Caroline Marcel,Emerson Schillaci,Caroline Marcel,6-0,6,0,1,0,Completed,true,false,false
+UA018024,12 Feb 17,2,Kooyong St Kevin's 1,BLTC,No. 3,Madeleine Lennon,Sofia Norman,Madeleine Lennon,6-4,6,4,1,0,Completed,true,false,false
+UA018024,12 Feb 17,2,Kooyong St Kevin's 1,BLTC,No. 4,Jemima Wraith-Bell,Charli Cowan,Jemima Wraith-Bell,6-0,6,0,1,0,Completed,true,false,false
+UA018031,19 Feb 17,3,Kooyong Xavier 2,Kooyong St Kevin's 1,No. 1,Adrian Li,Lauren Gregor,Lauren Gregor,1-6,1,6,0,1,Completed,true,false,false
+UA018031,19 Feb 17,3,Kooyong Xavier 2,Kooyong St Kevin's 1,No. 2,Jules Baeppler,Caroline Marcel,Jules Baeppler,7-6,7,6,1,0,Completed,true,false,false
+UA018031,19 Feb 17,3,Kooyong Xavier 2,Kooyong St Kevin's 1,No. 3,Jack Saville,Madeleine Lennon,Jack Saville,6-1,6,1,1,0,Completed,true,false,false
+UA018031,19 Feb 17,3,Kooyong Xavier 2,Kooyong St Kevin's 1,No. 4,Sophie Moore,Honor Jennings,Honor Jennings,3-6,3,6,0,1,Completed,true,false,false
+UA018032,19 Feb 17,3,Le Page,GPHC MLC,No. 1,Kevin He,Maddy Fuller,Maddy Fuller,1-6,1,6,0,1,Completed,true,false,false
+UA018032,19 Feb 17,3,Le Page,GPHC MLC,No. 2,Mattan Amler,Gabbi Brown,Mattan Amler,6-3,6,3,1,0,Completed,true,false,false
+UA018032,19 Feb 17,3,Le Page,GPHC MLC,No. 3,James Katakouzinos,Sophie Hart,Sophie Hart,1-6,1,6,0,1,Completed,true,false,false
+UA018032,19 Feb 17,3,Le Page,GPHC MLC,No. 4,Elan Amler,Mimi Grey,Elan Amler,6-2,6,2,1,0,Completed,true,false,false
+UA018033,19 Feb 17,3,Dendy Park,Royal South Yarra,No. 1,Zach Anquetil,Charlie Atkins,Charlie Atkins,0-1,0,1,0,1,Completed,false,false,false
+UA018033,19 Feb 17,3,Dendy Park,Royal South Yarra,No. 2,Oliver Waters,Max Gray,Oliver Waters,1-0,1,0,1,0,Completed,false,false,false
+UA018033,19 Feb 17,3,Dendy Park,Royal South Yarra,No. 3,Edward Wang,Abbey Brown,Edward Wang,2-0,2,0,1,0,Completed,false,false,false
+UA018033,19 Feb 17,3,Dendy Park,Royal South Yarra,No. 4,Monty Sallabank,Anna Liggleston,Monty Sallabank,2-1,2,1,1,0,Completed,false,false,false
+UA018034,19 Feb 17,3,BLTC,Lauriston,No. 1,Sofia Norman,Daniel Kazakevich,Daniel Kazakevich,0-2,0,2,0,1,Completed,false,false,false
+UA018041,26 Feb 17,4,Lauriston,Kooyong Xavier 2,No. 1,Yaniv Rakach,Sebastion Richardson,Sebastion Richardson,5-7,5,7,0,1,Completed,true,false,false
+UA018041,26 Feb 17,4,Lauriston,Kooyong Xavier 2,No. 2,William Schiavello,Adrian Li,Adrian Li,5-7,5,7,0,1,Completed,true,false,false
+UA018041,26 Feb 17,4,Lauriston,Kooyong Xavier 2,No. 3,Daniel Kazakevich,Jules Baeppler,Jules Baeppler,3-6,3,6,0,1,Completed,true,false,false
+UA018041,26 Feb 17,4,Lauriston,Kooyong Xavier 2,No. 4,Alexander Marsionis,Chelsea Hall,Chelsea Hall,4-6,4,6,0,1,Completed,true,false,false
+UA018042,26 Feb 17,4,Kooyong St Kevin's 1,Le Page,No. 1,Bronte Game,Kevin He,Bronte Game,6-2,6,2,1,0,Completed,true,false,false
+UA018042,26 Feb 17,4,Kooyong St Kevin's 1,Le Page,No. 2,Caroline Marcel,James Katakouzinos,Caroline Marcel,6-0,6,0,1,0,Completed,true,false,false
+UA018042,26 Feb 17,4,Kooyong St Kevin's 1,Le Page,No. 3,Lucy Keilar,Elan Amler,Lucy Keilar,6-2,6,2,1,0,Completed,true,false,false
+UA018042,26 Feb 17,4,Kooyong St Kevin's 1,Le Page,No. 4,Madeleine Lennon,James Polygenis,Madeleine Lennon,6-2,6,2,1,0,Completed,true,false,false
+UA018043,26 Feb 17,4,GPHC MLC,Dendy Park,No. 1,Lucinda Elsom,Zach Anquetil,Lucinda Elsom,6-2,6,2,1,0,Completed,true,false,false
+UA018043,26 Feb 17,4,GPHC MLC,Dendy Park,No. 2,Annie Timm,Angus McIntire,Annie Timm,6-4,6,4,1,0,Completed,true,false,false
+UA018043,26 Feb 17,4,GPHC MLC,Dendy Park,No. 3,Gabbi Brown,Oliver Waters,Oliver Waters,3-6,3,6,0,1,Completed,true,false,false
+UA018043,26 Feb 17,4,GPHC MLC,Dendy Park,No. 4,Mimi Grey,Charles McNabney,Charles McNabney,1-6,1,6,0,1,Completed,true,false,false
+UA018044,26 Feb 17,4,Royal South Yarra,BLTC,No. 1,Max Gray,Ben Banks,Max Gray,6-0,6,0,1,0,Completed,true,false,false
+UA018044,26 Feb 17,4,Royal South Yarra,BLTC,No. 2,Eddie Miller,Emerson Schillaci,Eddie Miller,6-2,6,2,1,0,Completed,true,false,false
+UA018044,26 Feb 17,4,Royal South Yarra,BLTC,No. 3,Charlie Atkins,Sofia Norman,Charlie Atkins,6-3,6,3,1,0,Completed,true,false,false
+UA018044,26 Feb 17,4,Royal South Yarra,BLTC,No. 4,Tom Freeman,Charli Cowan,Tom Freeman,6-0,6,0,1,0,Completed,true,false,false
+UA018051,05 Mar 17,5,Dendy Park,BLTC,No. 1,Angus McIntire,Ben Banks,Ben Banks,3-6,3,6,0,1,Completed,true,false,false
+UA018051,05 Mar 17,5,Dendy Park,BLTC,No. 2,Edward Wang,Emerson Schillaci,Emerson Schillaci,6-7,6,7,0,1,Completed,true,false,false
+UA018051,05 Mar 17,5,Dendy Park,BLTC,No. 3,Charles McNabney,Roman Schllaci,Roman Schllaci,6-7,6,7,0,1,Completed,true,false,false
+UA018051,05 Mar 17,5,Dendy Park,BLTC,No. 4,Monty Sallabank,Charli Cowan,Monty Sallabank,6-1,6,1,1,0,Completed,true,false,false
+UA018052,05 Mar 17,5,GPHC MLC,Kooyong St Kevin's 1,No. 1,Maddy Fuller,Bronte Game,Bronte Game,1-6,1,6,0,1,Completed,true,false,false
+UA018052,05 Mar 17,5,GPHC MLC,Kooyong St Kevin's 1,No. 2,Annie Timm,Caroline Marcel,Annie Timm,7-6,7,6,1,0,Completed,true,false,false
+UA018052,05 Mar 17,5,GPHC MLC,Kooyong St Kevin's 1,No. 3,Gabbi Brown,Lucy Keilar,Lucy Keilar,1-6,1,6,0,1,Completed,true,false,false
+UA018052,05 Mar 17,5,GPHC MLC,Kooyong St Kevin's 1,No. 4,Sophie Hart,Madeleine Lennon,Sophie Hart,6-1,6,1,1,0,Completed,true,false,false
+UA018053,05 Mar 17,5,Lauriston,Royal South Yarra,No. 1,Joshua Smith,Eddie Miller,Eddie Miller,2-6,2,6,0,1,Completed,true,false,false
+UA018053,05 Mar 17,5,Lauriston,Royal South Yarra,No. 2,William Schiavello,George Cox,George Cox,1-6,1,6,0,1,Completed,true,false,false
+UA018053,05 Mar 17,5,Lauriston,Royal South Yarra,No. 3,Daniel Kazakevich,Charlie Atkins,Charlie Atkins,3-6,3,6,0,1,Completed,true,false,false
+UA018053,05 Mar 17,5,Lauriston,Royal South Yarra,No. 4,Alexander Marsionis,Anna Eggleston,Alexander Marsionis,7-5,7,5,1,0,Completed,true,false,false
+UA018054,05 Mar 17,5,Kooyong Xavier 2,Le Page,No. 1,Henry Stevens,Kevin He,Henry Stevens,6-0,6,0,1,0,Completed,true,false,false
+UA018054,05 Mar 17,5,Kooyong Xavier 2,Le Page,No. 2,Adrian Li,Mattan Amler,Adrian Li,6-4,6,4,1,0,Completed,true,false,false
+UA018054,05 Mar 17,5,Kooyong Xavier 2,Le Page,No. 3,Jack Saville,Elan Amler,Jack Saville,7-6,7,6,1,0,Completed,true,false,false
+UA018054,05 Mar 17,5,Kooyong Xavier 2,Le Page,No. 4,Sophie Moore,James Polygenis,Sophie Moore,6-3,6,3,1,0,Completed,true,false,false
+UA018061,19 Mar 17,6,Le Page,Dendy Park,No. 1,Kevin He,Zach Anquetil,Zach Anquetil,1-6,1,6,0,1,Completed,true,false,false
+UA018061,19 Mar 17,6,Le Page,Dendy Park,No. 2,Mattan Amler,Angus McIntire,Angus McIntire,3-6,3,6,0,1,Completed,true,false,false
+UA018061,19 Mar 17,6,Le Page,Dendy Park,No. 3,James Katakouzinos,Charles McNabney,Charles McNabney,1-6,1,6,0,1,Completed,true,false,false
+UA018061,19 Mar 17,6,Le Page,Dendy Park,No. 4,James Polygenis,Monty Sallabank,Monty Sallabank,2-6,2,6,0,1,Completed,true,false,false
+UA018062,19 Mar 17,6,BLTC,Kooyong Xavier 2,No. 1,Ben Banks,Henry Stevens,Henry Stevens,0-6,0,6,0,1,Completed,true,false,false
+UA018062,19 Mar 17,6,BLTC,Kooyong Xavier 2,No. 2,Emerson Schillaci,Sebastion Richardson,Sebastion Richardson,5-7,5,7,0,1,Completed,true,false,false
+UA018062,19 Mar 17,6,BLTC,Kooyong Xavier 2,No. 3,Sofia Norman,Jack Saville,Jack Saville,1-6,1,6,0,1,Completed,true,false,false
+UA018062,19 Mar 17,6,BLTC,Kooyong Xavier 2,No. 4,Charli Cowan,Chelsea Hall,Chelsea Hall,1-6,1,6,0,1,Completed,true,false,false
+UA018063,19 Mar 17,6,Kooyong St Kevin's 1,Lauriston,No. 1,Caroline Marcel,Joshua Smith,Caroline Marcel,6-3,6,3,1,0,Completed,true,false,false
+UA018063,19 Mar 17,6,Kooyong St Kevin's 1,Lauriston,No. 2,Lucy Keilar,Yaniv Rakach,Yaniv Rakach,3-6,3,6,0,1,Completed,true,false,false
+UA018063,19 Mar 17,6,Kooyong St Kevin's 1,Lauriston,No. 3,Madeleine Lennon,Daniel Kazakevich,Daniel Kazakevich,0-6,0,6,0,1,Completed,true,false,false
+UA018063,19 Mar 17,6,Kooyong St Kevin's 1,Lauriston,No. 4,Honor Jennings,Alexander Marsionis,Honor Jennings,6-0,6,0,1,0,Completed,true,false,false
+UA018064,19 Mar 17,6,Royal South Yarra,GPHC MLC,No. 1,Eddie Miller,Lucinda Elsom,Eddie Miller,6-4,6,4,1,0,Completed,true,false,false
+UA018064,19 Mar 17,6,Royal South Yarra,GPHC MLC,No. 2,George Cox,Maddy Fuller,George Cox,6-0,6,0,1,0,Completed,true,false,false
+UA018064,19 Mar 17,6,Royal South Yarra,GPHC MLC,No. 3,Abbey Brown,Annie Timm,Annie Timm,3-6,3,6,0,1,Completed,true,false,false
+UA018064,19 Mar 17,6,Royal South Yarra,GPHC MLC,No. 4,Anna Eggleston,Sophie Hart,Sophie Hart,0-6,0,6,0,1,Completed,true,false,false
+UA018071,26 Mar 17,7,Kooyong Xavier 2,Dendy Park,No. 1,Jack Saville,Angus McIntire,Jack Saville,6-4,6,4,1,0,Completed,true,false,false
+UA018071,26 Mar 17,7,Kooyong Xavier 2,Dendy Park,No. 2,Jules Baeppler,Oliver Waters,Oliver Waters,0-6,0,6,0,1,Completed,true,false,false
+UA018071,26 Mar 17,7,Kooyong Xavier 2,Dendy Park,No. 3,Sophie Moore,Edward Wang,Edward Wang,0-6,0,6,0,1,Completed,true,false,false
+UA018071,26 Mar 17,7,Kooyong Xavier 2,Dendy Park,No. 4,Chelsea Hall,Monty Sallabank,Chelsea Hall,6-2,6,2,1,0,Completed,true,false,false
+UA018072,26 Mar 17,7,Le Page,BLTC,No. 1,Mattan Amler,Ben Banks,Ben Banks,2-6,2,6,0,1,Completed,true,false,false
+UA018072,26 Mar 17,7,Le Page,BLTC,No. 2,James Katakouzinos,Sofia Norman,James Katakouzinos,7-5,7,5,1,0,Completed,true,false,false
+UA018072,26 Mar 17,7,Le Page,BLTC,No. 3,Elan Amler,Charli Cowan,Elan Amler,6-1,6,1,1,0,Completed,true,false,false
+UA018072,26 Mar 17,7,Le Page,BLTC,No. 4,James Polygenis,Pip Betnune,Pip Betnune,0-6,0,6,0,1,Completed,true,false,false
+UA018073,26 Mar 17,7,GPHC MLC,Lauriston,No. 1,Maddy Fuller,Yaniv Rakach,Yaniv Rakach,5-7,5,7,0,1,Completed,true,false,false
+UA018073,26 Mar 17,7,GPHC MLC,Lauriston,No. 2,Annie Timm,William Schiavello,Annie Timm,6-4,6,4,1,0,Completed,true,false,false
+UA018073,26 Mar 17,7,GPHC MLC,Lauriston,No. 3,Gabbi Brown,Daniel Kazakevich,Daniel Kazakevich,2-6,2,6,0,1,Completed,true,false,false
+UA018073,26 Mar 17,7,GPHC MLC,Lauriston,No. 4,Mimi Grey,Alexander Marsionis,Alexander Marsionis,3-6,3,6,0,1,Completed,true,false,false
+UA018074,26 Mar 17,7,Kooyong St Kevin's 1,Royal South Yarra,No. 1,Bronte Game,George Cox,Bronte Game,6-4,6,4,1,0,Completed,true,false,false
+UA018074,26 Mar 17,7,Kooyong St Kevin's 1,Royal South Yarra,No. 2,Lauren Gregor,Charlie Atkins,Lauren Gregor,6-1,6,1,1,0,Completed,true,false,false
+UA018074,26 Mar 17,7,Kooyong St Kevin's 1,Royal South Yarra,No. 3,Lucy Keilar,Abbey Brown,Abbey Brown,3-6,3,6,0,1,Completed,true,false,false
+UA018074,26 Mar 17,7,Kooyong St Kevin's 1,Royal South Yarra,No. 4,Honor Jennings,Niko Tausan,Honor Jennings,6-0,6,0,1,0,Completed,true,false,false
+UA018081,23 Apr 17,8,Royal South Yarra,Kooyong Xavier 2,No. 1,Abbey Brown,Henry Stevens,Henry Stevens,3-6,3,6,0,1,Completed,true,false,false
+UA018081,23 Apr 17,8,Royal South Yarra,Kooyong Xavier 2,No. 2,Anna Eggleston,Adrian Li,Adrian Li,1-6,1,6,0,1,Completed,true,false,false
+UA018081,23 Apr 17,8,Royal South Yarra,Kooyong Xavier 2,No. 3,Niko Tausan,Jules Baeppler,Jules Baeppler,1-6,1,6,0,1,Completed,true,false,false
+UA018081,23 Apr 17,8,Royal South Yarra,Kooyong Xavier 2,No. 4,Dash Webb,Jack Saville,Jack Saville,1-6,1,6,0,1,Completed,true,false,false
+UA018082,23 Apr 17,8,Lauriston,Le Page,No. 1,Joshua Smith,Kevin He,Joshua Smith,6-0,6,0,1,0,Completed,true,false,false
+UA018082,23 Apr 17,8,Lauriston,Le Page,No. 2,Yaniv Rakach,Mattan Amler,Yaniv Rakach,6-1,6,1,1,0,Completed,true,false,false
+UA018082,23 Apr 17,8,Lauriston,Le Page,No. 3,William Schiavello,James Katakouzinos,William Schiavello,6-0,6,0,1,0,Completed,true,false,false
+UA018082,23 Apr 17,8,Lauriston,Le Page,No. 4,Daniel Kazakevich,Elan Amler,Daniel Kazakevich,6-1,6,1,1,0,Completed,true,false,false
+UA018083,23 Apr 17,8,Kooyong St Kevin's 1,Dendy Park,No. 1,Caroline Marcel,Angus McIntire,Caroline Marcel,6-1,6,1,1,0,Completed,true,false,false
+UA018083,23 Apr 17,8,Kooyong St Kevin's 1,Dendy Park,No. 2,Lucy Keilar,Oliver Waters,Oliver Waters,5-7,5,7,0,1,Completed,true,false,false
+UA018083,23 Apr 17,8,Kooyong St Kevin's 1,Dendy Park,No. 3,Madeleine Lennon,Edward Wang,Madeleine Lennon,6-3,6,3,1,0,Completed,true,false,false
+UA018083,23 Apr 17,8,Kooyong St Kevin's 1,Dendy Park,No. 4,Jemima Wraith-Bell,Charles McNabney,Charles McNabney,2-6,2,6,0,1,Completed,true,false,false
+UA018084,23 Apr 17,8,GPHC MLC,BLTC,No. 1,Maddy Fuller,Emerson Schillaci,Maddy Fuller,6-3,6,3,1,0,Completed,true,false,false
+UA018084,23 Apr 17,8,GPHC MLC,BLTC,No. 2,Gabbi Brown,Sofia Norman,Sofia Norman,4-6,4,6,0,1,Completed,true,false,false
+UA018084,23 Apr 17,8,GPHC MLC,BLTC,No. 3,Sophie Hart,Charli Cowan,Sophie Hart,6-0,6,0,1,0,Completed,true,false,false
+UA018084,23 Apr 17,8,GPHC MLC,BLTC,No. 4,Mimi Grey,Roman Schllaci,Roman Schllaci,6-7,6,7,0,1,Completed,true,false,false
+UA018091,30 Apr 17,9,Kooyong Xavier 2,GPHC MLC,No. 1,Sebastion Richardson,Maddy Fuller,Sebastion Richardson,6-1,6,1,1,0,Completed,true,false,false
+UA018091,30 Apr 17,9,Kooyong Xavier 2,GPHC MLC,No. 2,Jules Baeppler,Annie Timm,Annie Timm,1-6,1,6,0,1,Completed,true,false,false
+UA018091,30 Apr 17,9,Kooyong Xavier 2,GPHC MLC,No. 3,Sophie Moore,Sophie Hart,Sophie Hart,3-6,3,6,0,1,Completed,true,false,false
+UA018091,30 Apr 17,9,Kooyong Xavier 2,GPHC MLC,No. 4,Chelsea Hall,Mimi Grey,Chelsea Hall,6-1,6,1,1,0,Completed,true,false,false
+UA018092,30 Apr 17,9,Le Page,Royal South Yarra,No. 1,Kevin He,Abbey Brown,Abbey Brown,6-7,6,7,0,1,Completed,true,false,false
+UA018092,30 Apr 17,9,Le Page,Royal South Yarra,No. 2,James Katakouzinos,Anna Eggleston,James Katakouzinos,6-0,6,0,1,0,Completed,true,false,false
+UA018092,30 Apr 17,9,Le Page,Royal South Yarra,No. 3,Elan Amler,Dash Webb,Elan Amler,6-4,6,4,1,0,Completed,true,false,false
+UA018092,30 Apr 17,9,Le Page,Royal South Yarra,No. 4,James Polygenis,Matilda Hunt,Matilda Hunt,4-6,4,6,0,1,Completed,true,false,false
+UA018093,30 Apr 17,9,Dendy Park,Lauriston,No. 1,Zach Anquetil,Joshua Smith,Zach Anquetil,7-5,7,5,1,0,Completed,true,false,false
+UA018093,30 Apr 17,9,Dendy Park,Lauriston,No. 2,Angus McIntire,Yaniv Rakach,Yaniv Rakach,1-6,1,6,0,1,Completed,true,false,false
+UA018093,30 Apr 17,9,Dendy Park,Lauriston,No. 3,Edward Wang,William Schiavello,William Schiavello,1-6,1,6,0,1,Completed,true,false,false
+UA018093,30 Apr 17,9,Dendy Park,Lauriston,No. 4,Charles McNabney,Daniel Kazakevich,Charles McNabney,7-6,7,6,1,0,Completed,true,false,false
+UA018094,30 Apr 17,9,BLTC,Kooyong St Kevin's 1,No. 1,Ben Banks,Bronte Game,Ben Banks,6-4,6,4,1,0,Completed,true,false,false
+UA018094,30 Apr 17,9,BLTC,Kooyong St Kevin's 1,No. 2,Emerson Schillaci,Lauren Gregor,Lauren Gregor,0-6,0,6,0,1,Completed,true,false,false
+UA018094,30 Apr 17,9,BLTC,Kooyong St Kevin's 1,No. 3,Charli Cowan,Lucy Keilar,Lucy Keilar,0-6,0,6,0,1,Completed,true,false,false
+UA018094,30 Apr 17,9,BLTC,Kooyong St Kevin's 1,No. 4,Roman Schllaci,Madeleine Lennon,Roman Schllaci,7-6,7,6,1,0,Completed,true,false,false
+UA018101,07 May 17,10,Kooyong St Kevin's 1,Kooyong Xavier 2,No. 1,Lauren Gregor,Henry Stevens,Lauren Gregor,6-1,6,1,1,0,Completed,true,false,false
+UA018101,07 May 17,10,Kooyong St Kevin's 1,Kooyong Xavier 2,No. 2,Caroline Marcel,Adrian Li,Caroline Marcel,6-3,6,3,1,0,Completed,true,false,false
+UA018101,07 May 17,10,Kooyong St Kevin's 1,Kooyong Xavier 2,No. 3,Jemima Wraith-Bell,Jack Saville,Jack Saville,3-6,3,6,0,1,Completed,true,false,false
+UA018101,07 May 17,10,Kooyong St Kevin's 1,Kooyong Xavier 2,No. 4,Honor Jennings,Chelsea Hall,Honor Jennings,6-1,6,1,1,0,Completed,true,false,false
+UA018102,07 May 17,10,GPHC MLC,Le Page,No. 1,Maddy Fuller,Mattan Amler,Maddy Fuller,6-0,6,0,1,0,Completed,true,false,false
+UA018102,07 May 17,10,GPHC MLC,Le Page,No. 2,Annie Timm,James Katakouzinos,Annie Timm,7-5,7,5,1,0,Completed,true,false,false
+UA018102,07 May 17,10,GPHC MLC,Le Page,No. 3,Gabbi Brown,Elan Amler,Gabbi Brown,6-1,6,1,1,0,Completed,true,false,false
+UA018102,07 May 17,10,GPHC MLC,Le Page,No. 4,Mimi Grey,James Polygenis,Mimi Grey,6-1,6,1,1,0,Completed,true,false,false
+UA018103,07 May 17,10,Royal South Yarra,Dendy Park,No. 1,Abbey Brown,Zach Anquetil,Zach Anquetil,3-6,3,6,0,1,Completed,true,false,false
+UA018103,07 May 17,10,Royal South Yarra,Dendy Park,No. 2,Anna Eggleston,Angus McIntire,Angus McIntire,2-6,2,6,0,1,Completed,true,false,false
+UA018103,07 May 17,10,Royal South Yarra,Dendy Park,No. 3,Niko Tausan,Oliver Waters,Oliver Waters,1-6,1,6,0,1,Completed,true,false,false
+UA018103,07 May 17,10,Royal South Yarra,Dendy Park,No. 4,Matilda Hunt,Edward Wang,Edward Wang,1-6,1,6,0,1,Completed,true,false,false
+UA018111,14 May 17,11,Kooyong Xavier 2,Lauriston,No. 1,Adrian Li,Yaniv Rakach,Adrian Li,6-4,6,4,1,0,Completed,true,false,false
+UA018111,14 May 17,11,Kooyong Xavier 2,Lauriston,No. 2,Jules Baeppler,William Schiavello,Jules Baeppler,6-2,6,2,1,0,Completed,true,false,false
+UA018111,14 May 17,11,Kooyong Xavier 2,Lauriston,No. 3,Jack Saville,Daniel Kazakevich,Jack Saville,6-1,6,1,1,0,Completed,true,false,false
+UA018111,14 May 17,11,Kooyong Xavier 2,Lauriston,No. 4,Sophie Moore,Alexander Marsionis,Alexander Marsionis,4-6,4,6,0,1,Completed,true,false,false
+UA018112,14 May 17,11,Le Page,Kooyong St Kevin's 1,No. 1,Kevin He,Bronte Game,Bronte Game,3-6,3,6,0,1,Completed,true,false,false
+UA018112,14 May 17,11,Le Page,Kooyong St Kevin's 1,No. 2,Mattan Amler,Lauren Gregor,Lauren Gregor,0-6,0,6,0,1,Completed,true,false,false
+UA018112,14 May 17,11,Le Page,Kooyong St Kevin's 1,No. 3,James Katakouzinos,Jemima Wraith-Bell,Jemima Wraith-Bell,1-6,1,6,0,1,Completed,true,false,false
+UA018112,14 May 17,11,Le Page,Kooyong St Kevin's 1,No. 4,James Polygenis,Honor Jennings,Honor Jennings,2-6,2,6,0,1,Completed,true,false,false
+UA018113,14 May 17,11,Dendy Park,GPHC MLC,No. 1,Angus McIntire,Lucinda Elsom,Lucinda Elsom,1-6,1,6,0,1,Completed,true,false,false
+UA018113,14 May 17,11,Dendy Park,GPHC MLC,No. 2,Oliver Waters,Maddy Fuller,Oliver Waters,6-2,6,2,1,0,Completed,true,false,false
+UA018113,14 May 17,11,Dendy Park,GPHC MLC,No. 3,Edward Wang,Annie Timm,Annie Timm,4-6,4,6,0,1,Completed,true,false,false
+UA018113,14 May 17,11,Dendy Park,GPHC MLC,No. 4,Charles McNabney,Sophie Hart,Sophie Hart,2-6,2,6,0,1,Completed,true,false,false
+UA018114,14 May 17,11,BLTC,Royal South Yarra,No. 1,Ben Banks,Abbey Brown,Abbey Brown,3-6,3,6,0,1,Completed,true,false,false
+UA018114,14 May 17,11,BLTC,Royal South Yarra,No. 2,Sofia Norman,Niko Tausan,Sofia Norman,6-3,6,3,1,0,Completed,true,false,false
+UA018114,14 May 17,11,BLTC,Royal South Yarra,No. 3,Charli Cowan,Dash Webb,Dash Webb,2-6,2,6,0,1,Completed,true,false,false
+UA018114,14 May 17,11,BLTC,Royal South Yarra,No. 4,Roman Schllaci,Matilda Hunt,Matilda Hunt,4-6,4,6,0,1,Completed,true,false,false
+UA018121,21 May 17,12,BLTC,Dendy Park,No. 1,Ben Banks,Zach Anquetil,Ben Banks,7-6,7,6,1,0,Completed,true,false,false
+UA018121,21 May 17,12,BLTC,Dendy Park,No. 2,Emerson Schillaci,Oliver Waters,Oliver Waters,2-6,2,6,0,1,Completed,true,false,false
+UA018121,21 May 17,12,BLTC,Dendy Park,No. 3,Roman Schllaci,Edward Wang,Roman Schllaci,6-3,6,3,1,0,Completed,true,false,false
+UA018121,21 May 17,12,BLTC,Dendy Park,No. 4,Lucas Banks,Charles McNabney,Charles McNabney,2-6,2,6,0,1,Completed,true,false,false
+UA018122,21 May 17,12,Kooyong St Kevin's 1,GPHC MLC,No. 1,Bronte Game,Lucinda Elsom,Lucinda Elsom,0-6,0,6,0,1,Completed,true,false,false
+UA018122,21 May 17,12,Kooyong St Kevin's 1,GPHC MLC,No. 2,Lauren Gregor,Maddy Fuller,Lauren Gregor,6-0,6,0,1,0,Completed,true,false,false
+UA018122,21 May 17,12,Kooyong St Kevin's 1,GPHC MLC,No. 3,Caroline Marcel,Gabbi Brown,Gabbi Brown,4-6,4,6,0,1,Completed,true,false,false
+UA018122,21 May 17,12,Kooyong St Kevin's 1,GPHC MLC,No. 4,Madeleine Lennon,Sophie Hart,Sophie Hart,0-6,0,6,0,1,Completed,true,false,false
+UA018123,21 May 17,12,Royal South Yarra,Lauriston,No. 1,Abbey Brown,Joshua Smith,Joshua Smith,3-6,3,6,0,1,Completed,true,false,false
+UA018123,21 May 17,12,Royal South Yarra,Lauriston,No. 2,Anna Eggleston,William Schiavello,William Schiavello,1-6,1,6,0,1,Completed,true,false,false
+UA018123,21 May 17,12,Royal South Yarra,Lauriston,No. 3,Freya Albrecht,Daniel Kazakevich,Daniel Kazakevich,3-6,3,6,0,1,Completed,true,false,false
+UA018123,21 May 17,12,Royal South Yarra,Lauriston,No. 4,Dash Webb,Alexander Marsionis,Alexander Marsionis,2-6,2,6,0,1,Completed,true,false,false
+UA018124,21 May 17,12,Le Page,Kooyong Xavier 2,No. 1,Kevin He,Henry Stevens,Henry Stevens,0-6,0,6,0,1,Completed,true,false,false
+UA018124,21 May 17,12,Le Page,Kooyong Xavier 2,No. 2,Mattan Amler,Jack Saville,Jack Saville,2-6,2,6,0,1,Completed,true,false,false
+UA018124,21 May 17,12,Le Page,Kooyong Xavier 2,No. 3,Elan Amler,Sophie Moore,Sophie Moore,2-6,2,6,0,1,Completed,true,false,false
+UA018124,21 May 17,12,Le Page,Kooyong Xavier 2,No. 4,James Polygenis,Chelsea Hall,Chelsea Hall,0-6,0,6,0,1,Completed,true,false,false
+UA018131,28 May 17,13,Dendy Park,Le Page,No. 1,Zach Anquetil,Kevin He,Zach Anquetil,6-3,6,3,1,0,Completed,true,false,false
+UA018131,28 May 17,13,Dendy Park,Le Page,No. 2,Oliver Waters,Mattan Amler,Oliver Waters,6-0,6,0,1,0,Completed,true,false,false
+UA018131,28 May 17,13,Dendy Park,Le Page,No. 3,Edward Wang,James Katakouzinos,Edward Wang,6-4,6,4,1,0,Completed,true,false,false
+UA018131,28 May 17,13,Dendy Park,Le Page,No. 4,Charles McNabney,Elan Amler,Charles McNabney,6-1,6,1,1,0,Completed,true,false,false
+UA018132,28 May 17,13,Kooyong Xavier 2,BLTC,No. 1,Sebastion Richardson,Ben Banks,Sebastion Richardson,6-3,6,3,1,0,Completed,true,false,false
+UA018132,28 May 17,13,Kooyong Xavier 2,BLTC,No. 2,Jules Baeppler,Emerson Schillaci,Emerson Schillaci,4-6,4,6,0,1,Completed,true,false,false
+UA018132,28 May 17,13,Kooyong Xavier 2,BLTC,No. 3,Sophie Moore,Charli Cowan,Sophie Moore,6-1,6,1,1,0,Completed,true,false,false
+UA018132,28 May 17,13,Kooyong Xavier 2,BLTC,No. 4,Chelsea Hall,Roman Schllaci,Chelsea Hall,6-2,6,2,1,0,Completed,true,false,false
+UA018133,28 May 17,13,Lauriston,Kooyong St Kevin's 1,No. 1,Joshua Smith,Bronte Game,Joshua Smith,7-6,7,6,1,0,Completed,true,false,false
+UA018133,28 May 17,13,Lauriston,Kooyong St Kevin's 1,No. 2,Yaniv Rakach,Lucy Keilar,Yaniv Rakach,6-1,6,1,1,0,Completed,true,false,false
+UA018133,28 May 17,13,Lauriston,Kooyong St Kevin's 1,No. 3,Daniel Kazakevich,Madeleine Lennon,Daniel Kazakevich,6-3,6,3,1,0,Completed,true,false,false
+UA018133,28 May 17,13,Lauriston,Kooyong St Kevin's 1,No. 4,Alexander Marsionis,Honor Jennings,Alexander Marsionis,6-3,6,3,1,0,Completed,true,false,false
+UA018141,04 Jun 17,14,Dendy Park,Kooyong Xavier 2,No. 1,Zach Anquetil,Henry Stevens,Henry Stevens,3-6,3,6,0,1,Completed,true,false,false
+UA018141,04 Jun 17,14,Dendy Park,Kooyong Xavier 2,No. 2,Angus McIntire,Sebastion Richardson,Sebastion Richardson,6-7,6,7,0,1,Completed,true,false,false
+UA018141,04 Jun 17,14,Dendy Park,Kooyong Xavier 2,No. 3,Oliver Waters,Adrian Li,Oliver Waters,6-1,6,1,1,0,Completed,true,false,false
+UA018141,04 Jun 17,14,Dendy Park,Kooyong Xavier 2,No. 4,Charles McNabney,Jules Baeppler,Jules Baeppler,4-6,4,6,0,1,Completed,true,false,false
+UA018142,04 Jun 17,14,BLTC,Le Page,No. 1,Ben Banks,Kevin He,Ben Banks,6-2,6,2,1,0,Completed,true,false,false
+UA018142,04 Jun 17,14,BLTC,Le Page,No. 2,Emerson Schillaci,James Katakouzinos,Emerson Schillaci,6-3,6,3,1,0,Completed,true,false,false
+UA018142,04 Jun 17,14,BLTC,Le Page,No. 3,Sofia Norman,Elan Amler,Elan Amler,4-6,4,6,0,1,Completed,true,false,false
+UA018142,04 Jun 17,14,BLTC,Le Page,No. 4,Charli Cowan,James Polygenis,Charli Cowan,6-1,6,1,1,0,Completed,true,false,false
+UA018143,04 Jun 17,14,Lauriston,GPHC MLC,No. 1,Joshua Smith,Maddy Fuller,Joshua Smith,7-5,7,5,1,0,Completed,true,false,false
+UA018143,04 Jun 17,14,Lauriston,GPHC MLC,No. 2,Yaniv Rakach,Gabbi Brown,Yaniv Rakach,6-2,6,2,1,0,Completed,true,false,false
+UA018143,04 Jun 17,14,Lauriston,GPHC MLC,No. 3,William Schiavello,Sophie Hart,Sophie Hart,6-7,6,7,0,1,Completed,true,false,false
+UA018143,04 Jun 17,14,Lauriston,GPHC MLC,No. 4,Alexander Marsionis,Mimi Grey,Alexander Marsionis,6-0,6,0,1,0,Completed,true,false,false
+UA018144,04 Jun 17,14,Royal South Yarra,Kooyong St Kevin's 1,No. 1,Abbey Brown,Lauren Gregor,Lauren Gregor,2-6,2,6,0,1,Completed,true,false,false
+UA018144,04 Jun 17,14,Royal South Yarra,Kooyong St Kevin's 1,No. 2,Anna Eggleston,Lucy Keilar,Anna Eggleston,6-3,6,3,1,0,Completed,true,false,false
+UA018144,04 Jun 17,14,Royal South Yarra,Kooyong St Kevin's 1,No. 3,Freya Albrecht,Jemima Wraith-Bell,Freya Albrecht,6-0,6,0,1,0,Completed,true,false,false
+UA018144,04 Jun 17,14,Royal South Yarra,Kooyong St Kevin's 1,No. 4,Dash Webb,Honor Jennings,Honor Jennings,0-6,0,6,0,1,Completed,true,false,false
+UA018301,,16,Kooyong Xavier 2,GPHC MLC,No. 1,Henry Stevens,Lucinda Elsom,Henry Stevens,6-1,6,1,1,0,Completed,true,false,false
+UA018301,,16,Kooyong Xavier 2,GPHC MLC,No. 2,Sebastion Richardson,Maddy Fuller,Sebastion Richardson,6-1,6,1,1,0,Completed,true,false,false
+UA018301,,16,Kooyong Xavier 2,GPHC MLC,No. 3,Adrian Li,Annie Timm,Annie Timm,5-7,5,7,0,1,Completed,true,false,false
+UA018301,,16,Kooyong Xavier 2,GPHC MLC,No. 4,Jack Saville,Sophie Hart,Jack Saville,6-1,6,1,1,0,Completed,true,false,false
+UA018302,,16,Kooyong St Kevin's 1,Lauriston,No. 1,Bronte Game,Joshua Smith,Joshua Smith,3-6,3,6,0,1,Completed,true,false,false
+UA018302,,16,Kooyong St Kevin's 1,Lauriston,No. 2,Lauren Gregor,Yaniv Rakach,Lauren Gregor,6-0,6,0,1,0,Completed,true,false,false
+UA018302,,16,Kooyong St Kevin's 1,Lauriston,No. 3,Caroline Marcel,Daniel Kazakevich,Daniel Kazakevich,6-7,6,7,0,1,Completed,true,false,false
+UA018302,,16,Kooyong St Kevin's 1,Lauriston,No. 4,Honor Jennings,Alexander Marsionis,Honor Jennings,6-3,6,3,1,0,Completed,true,false,false
+UA018321,,17,Kooyong Xavier 2,Kooyong St Kevin's 1,No. 1,Henry Stevens,Bronte Game,Henry Stevens,6-3,6,3,1,0,Completed,true,false,false
+UA018321,,17,Kooyong Xavier 2,Kooyong St Kevin's 1,No. 2,Sebastion Richardson,Lauren Gregor,Lauren Gregor,3-6,3,6,0,1,Completed,true,false,false
+UA018321,,17,Kooyong Xavier 2,Kooyong St Kevin's 1,No. 3,Jack Saville,Caroline Marcel,Jack Saville,6-1,6,1,1,0,Completed,true,false,false
+UA018321,,17,Kooyong Xavier 2,Kooyong St Kevin's 1,No. 4,Chelsea Hall,Honor Jennings,Honor Jennings,1-6,1,6,0,1,Completed,true,false,false

@@ -1,0 +1,228 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA001011,04 Feb 24,1,Royal South Yarra,BLTC Blue,No. 1,Anya Lo,Stevan Dakic,Anya Lo,6-3,6,3,1,0,Completed,true,false,false
+UA001011,04 Feb 24,1,Royal South Yarra,BLTC Blue,No. 2,Johnny Asimenias,Max Dorey,Max Dorey,1-6,1,6,0,1,Completed,true,false,false
+UA001011,04 Feb 24,1,Royal South Yarra,BLTC Blue,No. 3,Stella Kephala,Julian Prieto,Julian Prieto,1-6,1,6,0,1,Completed,true,false,false
+UA001011,04 Feb 24,1,Royal South Yarra,BLTC Blue,No. 4,Axy Park,Joshua Grunburg,Joshua Grunburg,1-6,1,6,0,1,Completed,true,false,false
+UA001012,04 Feb 24,1,Hurlingham Park,BLTC Red,No. 1,Kynan Enwright,Ray Lai Cheong,Kynan Enwright,6-1,6,1,1,0,Completed,true,false,false
+UA001012,04 Feb 24,1,Hurlingham Park,BLTC Red,No. 2,Kenneth Yeung,Kairo Chankok,Kairo Chankok,2-6,2,6,0,1,Completed,true,false,false
+UA001012,04 Feb 24,1,Hurlingham Park,BLTC Red,No. 3,Luka Thurlow,Ryan Dong,Ryan Dong,2-6,2,6,0,1,Completed,true,false,false
+UA001012,04 Feb 24,1,Hurlingham Park,BLTC Red,No. 4,Joseph James Braithwaite,Claudia Popovic,Joseph James Braithwaite,6-1,6,1,1,0,Completed,true,false,false
+UA001013,04 Feb 24,1,Coatesville,BLTC White,No. 1,Nicholas Dela Cruz,Oliver Letham,Oliver Letham,2-6,2,6,0,1,Completed,true,false,false
+UA001013,04 Feb 24,1,Coatesville,BLTC White,No. 2,Thomas Rossi,Stuart Pagel,Thomas Rossi,6-0,6,0,1,0,Completed,true,false,false
+UA001013,04 Feb 24,1,Coatesville,BLTC White,No. 3,Jonah Dela Cruz,Sebastian Brown,Jonah Dela Cruz,6-2,6,2,1,0,Completed,true,false,false
+UA001013,04 Feb 24,1,Coatesville,BLTC White,No. 4,Ben Gouralnik,Davis Nguyen,Ben Gouralnik,6-0,6,0,1,0,Completed,true,false,false
+UA001014,04 Feb 24,1,Royal Ave,Murrumbeena,No. 1,Harry Toomey,Benjamin Pinkus,Harry Toomey,6-0,6,0,1,0,Completed,true,false,false
+UA001014,04 Feb 24,1,Royal Ave,Murrumbeena,No. 2,Gideon Gomes,Ruby Huggins,Ruby Huggins,4-6,4,6,0,1,Completed,true,false,false
+UA001014,04 Feb 24,1,Royal Ave,Murrumbeena,No. 3,Max Zhou,Matthew Tong,Max Zhou,6-4,6,4,1,0,Completed,true,false,false
+UA001014,04 Feb 24,1,Royal Ave,Murrumbeena,No. 4,Caleb Jackson-Wright,Aodhan Monteiro,Aodhan Monteiro,0-6,0,6,0,1,Completed,true,false,false
+UA001021,11 Feb 24,2,Murrumbeena,Royal South Yarra,No. 1,Benjamin Pinkus,Anya Lo,Benjamin Pinkus,6-2,6,2,1,0,Completed,true,false,false
+UA001021,11 Feb 24,2,Murrumbeena,Royal South Yarra,No. 2,Ruby Huggins,Johnny Asimenias,Johnny Asimenias,1-6,1,6,0,1,Completed,true,false,false
+UA001021,11 Feb 24,2,Murrumbeena,Royal South Yarra,No. 3,Matthew Tong,Stella Kephala,Matthew Tong,6-4,6,4,1,0,Completed,true,false,false
+UA001021,11 Feb 24,2,Murrumbeena,Royal South Yarra,No. 4,Aodhan Monteiro,Axy Park,Aodhan Monteiro,6-0,6,0,1,0,Completed,true,false,false
+UA001022,11 Feb 24,2,BLTC Blue,Hurlingham Park,No. 1,Stevan Dakic,Luka Thurlow,Stevan Dakic,6-3,6,3,1,0,Completed,true,false,false
+UA001022,11 Feb 24,2,BLTC Blue,Hurlingham Park,No. 2,Max Dorey,Joseph James Braithwaite,Joseph James Braithwaite,5-7,5,7,0,1,Completed,true,false,false
+UA001022,11 Feb 24,2,BLTC Blue,Hurlingham Park,No. 3,Jamie Turner,Hugh Du Toit,Jamie Turner,6-1,6,1,1,0,Completed,true,false,false
+UA001022,11 Feb 24,2,BLTC Blue,Hurlingham Park,No. 4,Joshua Grunburg,Michal Foroncewicz,Michal Foroncewicz,3-6,3,6,0,1,Completed,true,false,false
+UA001023,11 Feb 24,2,BLTC Red,Coatesville,No. 1,Ray Lai Cheong,Nicholas Dela Cruz,Nicholas Dela Cruz,6-7,6,7,0,1,Completed,true,false,false
+UA001023,11 Feb 24,2,BLTC Red,Coatesville,No. 2,Ryan Dong,Jonah Dela Cruz,Ryan Dong,6-4,6,4,1,0,Completed,true,false,false
+UA001023,11 Feb 24,2,BLTC Red,Coatesville,No. 3,Claudia Popovic,Ben Gouralnik,Ben Gouralnik,2-6,2,6,0,1,Completed,true,false,false
+UA001023,11 Feb 24,2,BLTC Red,Coatesville,No. 4,Daniel Murphy,William Chu,William Chu,1-6,1,6,0,1,Completed,true,false,true
+UA001024,11 Feb 24,2,BLTC White,Royal Ave,No. 1,Oliver Letham,Gideon Gomes,Oliver Letham,7-5,7,5,1,0,Completed,true,false,false
+UA001024,11 Feb 24,2,BLTC White,Royal Ave,No. 2,Jeremy Nguyen,Max Zhou,Max Zhou,5-7,5,7,0,1,Completed,true,false,false
+UA001024,11 Feb 24,2,BLTC White,Royal Ave,No. 3,Hudson Close,Caleb Jackson-Wright,Caleb Jackson-Wright,2-6,2,6,0,1,Completed,true,false,false
+UA001024,11 Feb 24,2,BLTC White,Royal Ave,No. 4,Davis Nguyen,Marco Zhou,Marco Zhou,2-6,2,6,0,1,Completed,true,false,false
+UA001031,18 Feb 24,3,Royal South Yarra,BLTC White,No. 1,Johnny Asimenias,Oliver Letham,Johnny Asimenias,7-6,7,6,1,0,Completed,true,false,false
+UA001031,18 Feb 24,3,Royal South Yarra,BLTC White,No. 2,Niki Tsemtsidis,Jeremy Nguyen,Jeremy Nguyen,4-6,4,6,0,1,Completed,true,false,false
+UA001031,18 Feb 24,3,Royal South Yarra,BLTC White,No. 3,Stella Kephala,Sebastian Brown,Stella Kephala,6-0,6,0,1,0,Completed,true,false,false
+UA001031,18 Feb 24,3,Royal South Yarra,BLTC White,No. 4,Axy Park,Davis Nguyen,Davis Nguyen,2-6,2,6,0,1,Completed,true,false,false
+UA001032,18 Feb 24,3,Hurlingham Park,Murrumbeena,No. 1,Kynan Enwright,Harvey Shi,Kynan Enwright,6-0,6,0,1,0,Completed,true,false,false
+UA001032,18 Feb 24,3,Hurlingham Park,Murrumbeena,No. 2,Joseph James Braithwaite,Ruby Huggins,Joseph James Braithwaite,7-5,7,5,1,0,Completed,true,false,false
+UA001032,18 Feb 24,3,Hurlingham Park,Murrumbeena,No. 3,Hugh Du Toit,Matthew Tong,Matthew Tong,5-7,5,7,0,1,Completed,true,false,false
+UA001032,18 Feb 24,3,Hurlingham Park,Murrumbeena,No. 4,Michal Foroncewicz,Kewen Zheng,Michal Foroncewicz,6-4,6,4,1,0,Completed,true,false,true
+UA001033,18 Feb 24,3,Coatesville,BLTC Blue,No. 1,Nicholas Dela Cruz,Max Dorey,Nicholas Dela Cruz,6-2,6,2,1,0,Completed,true,false,false
+UA001033,18 Feb 24,3,Coatesville,BLTC Blue,No. 2,Thomas Rossi,Julian Prieto,Thomas Rossi,6-4,6,4,1,0,Completed,true,false,false
+UA001033,18 Feb 24,3,Coatesville,BLTC Blue,No. 3,Jonah Dela Cruz,Jamie Turner,Jonah Dela Cruz,6-3,6,3,1,0,Completed,true,false,false
+UA001033,18 Feb 24,3,Coatesville,BLTC Blue,No. 4,William Chu,Joshua Grunburg,William Chu,6-4,6,4,1,0,Completed,true,true,false
+UA001034,18 Feb 24,3,Royal Ave,BLTC Red,No. 1,Gideon Gomes,Ray Lai Cheong,Ray Lai Cheong,1-6,1,6,0,1,Completed,true,false,false
+UA001034,18 Feb 24,3,Royal Ave,BLTC Red,No. 2,Max Zhou,Kairo Chankok,Max Zhou,6-2,6,2,1,0,Completed,true,false,false
+UA001034,18 Feb 24,3,Royal Ave,BLTC Red,No. 3,Caleb Jackson-Wright,Ryan Dong,Ryan Dong,1-6,1,6,0,1,Completed,true,false,false
+UA001034,18 Feb 24,3,Royal Ave,BLTC Red,No. 4,Marco Zhou,Campbell Orchard,Marco Zhou,6-4,6,4,1,0,Completed,true,false,false
+UA001041,25 Feb 24,4,BLTC Red,Royal South Yarra,No. 1,Ray Lai Cheong,Theodore Gilbert,Ray Lai Cheong,6-2,6,2,1,0,Completed,true,false,false
+UA001041,25 Feb 24,4,BLTC Red,Royal South Yarra,No. 2,Kairo Chankok,Johnny Asimenias,Johnny Asimenias,1-6,1,6,0,1,Completed,true,false,false
+UA001041,25 Feb 24,4,BLTC Red,Royal South Yarra,No. 3,Ryan Dong,Niki Tsemtsidis,Ryan Dong,7-6,7,6,1,0,Completed,true,false,false
+UA001041,25 Feb 24,4,BLTC Red,Royal South Yarra,No. 4,Campbell Orchard,Stella Kephala,Stella Kephala,3-6,3,6,0,1,Completed,true,false,false
+UA001042,25 Feb 24,4,BLTC White,Hurlingham Park,No. 1,Oliver Letham,Kenneth Yeung,Oliver Letham,6-2,6,2,1,0,Completed,true,false,false
+UA001042,25 Feb 24,4,BLTC White,Hurlingham Park,No. 2,Stuart Pagel,Luka Thurlow,Stuart Pagel,7-6,7,6,1,0,Completed,true,false,false
+UA001042,25 Feb 24,4,BLTC White,Hurlingham Park,No. 3,Hudson Close,Joseph James Braithwaite,Joseph James Braithwaite,4-6,4,6,0,1,Completed,true,false,false
+UA001042,25 Feb 24,4,BLTC White,Hurlingham Park,No. 4,Sebastian Brown,Michal Foroncewicz,Michal Foroncewicz,2-6,2,6,0,1,Completed,true,false,false
+UA001043,25 Feb 24,4,Murrumbeena,Coatesville,No. 1,Benjamin Pinkus,Nicholas Dela Cruz,Benjamin Pinkus,6-4,6,4,1,0,Completed,true,false,false
+UA001043,25 Feb 24,4,Murrumbeena,Coatesville,No. 2,Ruby Huggins,Thomas Rossi,Thomas Rossi,1-6,1,6,0,1,Completed,true,false,false
+UA001043,25 Feb 24,4,Murrumbeena,Coatesville,No. 3,Matthew Tong,Ben Gouralnik,Ben Gouralnik,3-6,3,6,0,1,Completed,true,false,false
+UA001043,25 Feb 24,4,Murrumbeena,Coatesville,No. 4,Aodhan Monteiro,William Chu,William Chu,2-6,2,6,0,1,Completed,true,false,true
+UA001044,25 Feb 24,4,BLTC Blue,Royal Ave,No. 1,Stevan Dakic,Harry Toomey,Harry Toomey,0-6,0,6,0,1,Completed,true,false,false
+UA001044,25 Feb 24,4,BLTC Blue,Royal Ave,No. 2,Julian Prieto,Max Zhou,Max Zhou,6-7,6,7,0,1,Completed,true,false,false
+UA001044,25 Feb 24,4,BLTC Blue,Royal Ave,No. 3,Jamie Turner,Caleb Jackson-Wright,Caleb Jackson-Wright,3-6,3,6,0,1,Completed,true,false,false
+UA001044,25 Feb 24,4,BLTC Blue,Royal Ave,No. 4,Joshua Grunburg,Marco Zhou,Joshua Grunburg,6-2,6,2,1,0,Completed,true,false,false
+UA001051,03 Mar 24,5,Coatesville,Royal Ave,No. 1,Nicholas Dela Cruz,Gideon Gomes,Nicholas Dela Cruz,6-2,6,2,1,0,Completed,true,false,false
+UA001051,03 Mar 24,5,Coatesville,Royal Ave,No. 2,Thomas Rossi,Max Zhou,Max Zhou,6-7,6,7,0,1,Completed,true,false,false
+UA001051,03 Mar 24,5,Coatesville,Royal Ave,No. 3,Jonah Dela Cruz,Caleb Jackson-Wright,Jonah Dela Cruz,6-2,6,2,1,0,Completed,true,false,false
+UA001051,03 Mar 24,5,Coatesville,Royal Ave,No. 4,William Chu,Marco Zhou,William Chu,6-1,6,1,1,0,Completed,true,true,false
+UA001052,03 Mar 24,5,Murrumbeena,BLTC White,No. 1,Benjamin Pinkus,Stuart Pagel,Benjamin Pinkus,6-1,6,1,1,0,Completed,true,false,false
+UA001052,03 Mar 24,5,Murrumbeena,BLTC White,No. 2,Harvey Shi,Jeremy Nguyen,Harvey Shi,6-1,6,1,1,0,Completed,true,false,false
+UA001052,03 Mar 24,5,Murrumbeena,BLTC White,No. 3,Matthew Tong,Sebastian Brown,Sebastian Brown,2-6,2,6,0,1,Completed,true,false,false
+UA001052,03 Mar 24,5,Murrumbeena,BLTC White,No. 4,Kayden Jin,Davis Nguyen,Kayden Jin,6-4,6,4,1,0,Completed,true,false,false
+UA001053,03 Mar 24,5,BLTC Red,BLTC Blue,No. 1,Kairo Chankok,Stevan Dakic,Stevan Dakic,0-6,0,6,0,1,Completed,true,false,false
+UA001053,03 Mar 24,5,BLTC Red,BLTC Blue,No. 2,Claudia Popovic,Max Dorey,Max Dorey,3-6,3,6,0,1,Completed,true,false,false
+UA001053,03 Mar 24,5,BLTC Red,BLTC Blue,No. 3,Campbell Orchard,Julian Prieto,Julian Prieto,0-6,0,6,0,1,Completed,true,false,false
+UA001053,03 Mar 24,5,BLTC Red,BLTC Blue,No. 4,Daniel Murphy,Jamie Turner,Jamie Turner,1-6,1,6,0,1,Completed,true,false,false
+UA001054,03 Mar 24,5,Royal South Yarra,Hurlingham Park,No. 1,Theodore Gilbert,Kynan Enwright,Kynan Enwright,1-6,1,6,0,1,Completed,true,false,false
+UA001054,03 Mar 24,5,Royal South Yarra,Hurlingham Park,No. 2,Johnny Asimenias,Kenneth Yeung,Johnny Asimenias,6-4,6,4,1,0,Completed,true,false,false
+UA001054,03 Mar 24,5,Royal South Yarra,Hurlingham Park,No. 3,Stella Kephala,Hugh Du Toit,Stella Kephala,7-6,7,6,1,0,Completed,true,false,false
+UA001054,03 Mar 24,5,Royal South Yarra,Hurlingham Park,No. 4,Axy Park,Michal Foroncewicz,Michal Foroncewicz,1-6,1,6,0,1,Completed,true,false,false
+UA001061,17 Mar 24,6,Hurlingham Park,Coatesville,No. 1,Kynan Enwright,Nicholas Dela Cruz,Kynan Enwright,6-0,6,0,1,0,Completed,true,false,false
+UA001061,17 Mar 24,6,Hurlingham Park,Coatesville,No. 2,Luka Thurlow,Thomas Rossi,Thomas Rossi,4-6,4,6,0,1,Completed,true,false,false
+UA001061,17 Mar 24,6,Hurlingham Park,Coatesville,No. 3,Joseph James Braithwaite,Jonah Dela Cruz,Joseph James Braithwaite,6-0,6,0,1,0,Completed,true,false,false
+UA001061,17 Mar 24,6,Hurlingham Park,Coatesville,No. 4,Hugh Du Toit,Ben Gouralnik,Ben Gouralnik,4-6,4,6,0,1,Completed,true,false,false
+UA001062,17 Mar 24,6,Royal Ave,Royal South Yarra,No. 1,Harry Toomey,Christopher Manton,Christopher Manton,4-6,4,6,0,1,Completed,true,false,false
+UA001062,17 Mar 24,6,Royal Ave,Royal South Yarra,No. 2,Max Zhou,Theodore Gilbert,Theodore Gilbert,5-7,5,7,0,1,Completed,true,false,false
+UA001062,17 Mar 24,6,Royal Ave,Royal South Yarra,No. 3,Caleb Jackson-Wright,Johnny Asimenias,Johnny Asimenias,2-6,2,6,0,1,Completed,true,false,false
+UA001062,17 Mar 24,6,Royal Ave,Royal South Yarra,No. 4,Marco Zhou,Stella Kephala,Marco Zhou,6-1,6,1,1,0,Completed,true,false,false
+UA001063,17 Mar 24,6,BLTC White,BLTC Red,No. 1,Oliver Letham,Ray Lai Cheong,Ray Lai Cheong,3-6,3,6,0,1,Completed,true,false,false
+UA001063,17 Mar 24,6,BLTC White,BLTC Red,No. 2,Hudson Close,Ryan Dong,Ryan Dong,6-7,6,7,0,1,Completed,true,false,false
+UA001063,17 Mar 24,6,BLTC White,BLTC Red,No. 3,Sebastian Brown,Campbell Orchard,Sebastian Brown,6-3,6,3,1,0,Completed,true,false,false
+UA001063,17 Mar 24,6,BLTC White,BLTC Red,No. 4,Davis Nguyen,Daniel Murphy,Davis Nguyen,6-1,6,1,1,0,Completed,true,false,false
+UA001064,17 Mar 24,6,BLTC Blue,Murrumbeena,No. 1,Stevan Dakic,Harvey Shi,Harvey Shi,4-6,4,6,0,1,Completed,true,false,false
+UA001064,17 Mar 24,6,BLTC Blue,Murrumbeena,No. 2,Max Dorey,Ruby Huggins,Max Dorey,7-6,7,6,1,0,Completed,true,false,false
+UA001064,17 Mar 24,6,BLTC Blue,Murrumbeena,No. 3,Julian Prieto,Matthew Tong,Matthew Tong,4-6,4,6,0,1,Completed,true,false,false
+UA001064,17 Mar 24,6,BLTC Blue,Murrumbeena,No. 4,Joshua Grunburg,Aodhan Monteiro,Joshua Grunburg,6-3,6,3,1,0,Completed,true,false,false
+UA001071,24 Mar 24,7,Royal South Yarra,Coatesville,No. 1,Christopher Manton,Jonah Dela Cruz,Christopher Manton,6-2,6,2,1,0,Completed,true,false,false
+UA001071,24 Mar 24,7,Royal South Yarra,Coatesville,No. 2,Anya Lo,William Chu,Anya Lo,6-1,6,1,1,0,Completed,true,false,true
+UA001071,24 Mar 24,7,Royal South Yarra,Coatesville,No. 3,Phoebe Andrews,Charlie Garcia,Phoebe Andrews,6-2,6,2,1,0,Completed,true,false,true
+UA001071,24 Mar 24,7,Royal South Yarra,Coatesville,No. 4,Axy Park,Daniel Foldvari,Daniel Foldvari,6-7,6,7,0,1,Completed,true,false,true
+UA001072,24 Mar 24,7,Hurlingham Park,Royal Ave,No. 1,Frankie Hillier,Harry Toomey,Harry Toomey,2-6,2,6,0,1,Completed,true,true,false
+UA001072,24 Mar 24,7,Hurlingham Park,Royal Ave,No. 2,Kenneth Yeung,Max Zhou,Max Zhou,1-6,1,6,0,1,Completed,true,false,false
+UA001072,24 Mar 24,7,Hurlingham Park,Royal Ave,No. 3,Luka Thurlow,Caleb Jackson-Wright,Caleb Jackson-Wright,3-6,3,6,0,1,Completed,true,false,false
+UA001072,24 Mar 24,7,Hurlingham Park,Royal Ave,No. 4,Michal Foroncewicz,Marco Zhou,Michal Foroncewicz,6-1,6,1,1,0,Completed,true,false,false
+UA001073,24 Mar 24,7,Murrumbeena,BLTC Red,No. 1,Justin Kan,Ray Lai Cheong,Ray Lai Cheong,5-7,5,7,0,1,Completed,true,true,false
+UA001073,24 Mar 24,7,Murrumbeena,BLTC Red,No. 2,Ruby Huggins,Luca Magro,Luca Magro,2-6,2,6,0,1,Completed,true,false,false
+UA001073,24 Mar 24,7,Murrumbeena,BLTC Red,No. 3,Matthew Tong,Ryan Dong,Ryan Dong,1-6,1,6,0,1,Completed,true,false,false
+UA001073,24 Mar 24,7,Murrumbeena,BLTC Red,No. 4,Oscar Liu,Campbell Orchard,Campbell Orchard,0-6,0,6,0,1,Completed,true,true,false
+UA001074,24 Mar 24,7,BLTC White,BLTC Blue,No. 1,Oliver Letham,Stevan Dakic,Oliver Letham,6-2,6,2,1,0,Completed,true,false,false
+UA001074,24 Mar 24,7,BLTC White,BLTC Blue,No. 2,Stuart Pagel,Max Dorey,Max Dorey,0-6,0,6,0,1,Completed,true,false,false
+UA001074,24 Mar 24,7,BLTC White,BLTC Blue,No. 3,Jeremy Nguyen,Jamie Turner,Jamie Turner,2-6,2,6,0,1,Completed,true,false,false
+UA001074,24 Mar 24,7,BLTC White,BLTC Blue,No. 4,Hudson Close,Joshua Grunburg,Hudson Close,7-5,7,5,1,0,Completed,true,false,false
+UA001081,21 Apr 24,8,BLTC Blue,Royal South Yarra,No. 1,Stevan Dakic,Johnny Asimenias,Stevan Dakic,6-1,6,1,1,0,Completed,true,false,false
+UA001081,21 Apr 24,8,BLTC Blue,Royal South Yarra,No. 2,Julian Prieto,Phoebe Andrews,Julian Prieto,6-4,6,4,1,0,Completed,true,false,false
+UA001081,21 Apr 24,8,BLTC Blue,Royal South Yarra,No. 3,Jamie Turner,Stella Kephala,Stella Kephala,4-6,4,6,0,1,Completed,true,false,false
+UA001081,21 Apr 24,8,BLTC Blue,Royal South Yarra,No. 4,Joshua Grunburg,Axy Park,Joshua Grunburg,6-0,6,0,1,0,Completed,true,false,false
+UA001082,21 Apr 24,8,BLTC Red,Hurlingham Park,No. 1,Ray Lai Cheong,Frankie Hillier,Frankie Hillier,2-6,2,6,0,1,Completed,true,false,true
+UA001082,21 Apr 24,8,BLTC Red,Hurlingham Park,No. 2,Ryan Dong,Luka Thurlow,Ryan Dong,6-4,6,4,1,0,Completed,true,false,false
+UA001082,21 Apr 24,8,BLTC Red,Hurlingham Park,No. 3,Campbell Orchard,Joseph James Braithwaite,Joseph James Braithwaite,1-6,1,6,0,1,Completed,true,false,false
+UA001082,21 Apr 24,8,BLTC Red,Hurlingham Park,No. 4,Claudia Popovic,Michal Foroncewicz,Michal Foroncewicz,4-6,4,6,0,1,Completed,true,false,false
+UA001083,21 Apr 24,8,BLTC White,Coatesville,No. 1,Oliver Letham,Thomas Rossi,Oliver Letham,7-6,7,6,1,0,Completed,true,false,false
+UA001083,21 Apr 24,8,BLTC White,Coatesville,No. 2,Jeremy Nguyen,Ben Gouralnik,Ben Gouralnik,4-6,4,6,0,1,Completed,true,false,false
+UA001083,21 Apr 24,8,BLTC White,Coatesville,No. 3,Hudson Close,William Chu,Hudson Close,6-4,6,4,1,0,Completed,true,false,true
+UA001083,21 Apr 24,8,BLTC White,Coatesville,No. 4,Davis Nguyen,Charlie Garcia,Charlie Garcia,1-6,1,6,0,1,Completed,true,false,true
+UA001091,28 Apr 24,9,Royal South Yarra,Murrumbeena,No. 1,Theodore Gilbert,Harvey Shi,Theodore Gilbert,6-4,6,4,1,0,Completed,true,false,false
+UA001091,28 Apr 24,9,Royal South Yarra,Murrumbeena,No. 2,Johnny Asimenias,Ruby Huggins,Johnny Asimenias,6-4,6,4,1,0,Completed,true,false,false
+UA001091,28 Apr 24,9,Royal South Yarra,Murrumbeena,No. 3,Phoebe Andrews,Kewen Zheng,Phoebe Andrews,6-3,6,3,1,0,Completed,true,false,true
+UA001091,28 Apr 24,9,Royal South Yarra,Murrumbeena,No. 4,Stella Kephala,Kayden Jin,Kayden Jin,0-6,0,6,0,1,Completed,true,false,false
+UA001092,28 Apr 24,9,Hurlingham Park,BLTC Blue,No. 1,Luka Thurlow,Max Dorey,Max Dorey,3-6,3,6,0,1,Completed,true,false,false
+UA001092,28 Apr 24,9,Hurlingham Park,BLTC Blue,No. 2,Joseph James Braithwaite,Julian Prieto,Julian Prieto,1-6,1,6,0,1,Completed,true,false,false
+UA001092,28 Apr 24,9,Hurlingham Park,BLTC Blue,No. 3,Michal Foroncewicz,Jamie Turner,Michal Foroncewicz,6-2,6,2,1,0,Completed,true,false,false
+UA001092,28 Apr 24,9,Hurlingham Park,BLTC Blue,No. 4,Hugh Du Toit,Joshua Grunburg,Joshua Grunburg,0-6,0,6,0,1,Completed,true,false,false
+UA001093,28 Apr 24,9,Coatesville,BLTC Red,No. 1,Thomas Rossi,Ray Lai Cheong,Thomas Rossi,6-1,6,1,1,0,Completed,true,false,false
+UA001093,28 Apr 24,9,Coatesville,BLTC Red,No. 2,Jonah Dela Cruz,Ryan Dong,Jonah Dela Cruz,6-1,6,1,1,0,Completed,true,false,false
+UA001093,28 Apr 24,9,Coatesville,BLTC Red,No. 3,Ben Gouralnik,Claudia Popovic,Ben Gouralnik,6-1,6,1,1,0,Completed,true,false,false
+UA001093,28 Apr 24,9,Coatesville,BLTC Red,No. 4,Charlie Garcia,Campbell Orchard,Charlie Garcia,6-3,6,3,1,0,Completed,true,true,false
+UA001094,28 Apr 24,9,Royal Ave,BLTC White,No. 1,Gideon Gomes,Oliver Letham,Oliver Letham,5-7,5,7,0,1,Completed,true,false,false
+UA001094,28 Apr 24,9,Royal Ave,BLTC White,No. 2,Max Zhou,Jeremy Nguyen,Max Zhou,6-0,6,0,1,0,Completed,true,false,false
+UA001094,28 Apr 24,9,Royal Ave,BLTC White,No. 3,Caleb Jackson-Wright,Hudson Close,Hudson Close,4-6,4,6,0,1,Completed,true,false,false
+UA001094,28 Apr 24,9,Royal Ave,BLTC White,No. 4,Charlie Wong,Sebastian Brown,Charlie Wong,6-2,6,2,1,0,Completed,true,false,false
+UA001101,05 May 24,10,BLTC White,Royal South Yarra,No. 1,Daniel Brown,Christopher Manton,Christopher Manton,1-6,1,6,0,1,Completed,true,true,false
+UA001101,05 May 24,10,BLTC White,Royal South Yarra,No. 2,Stuart Pagel,Theodore Gilbert,Theodore Gilbert,1-6,1,6,0,1,Completed,true,false,false
+UA001101,05 May 24,10,BLTC White,Royal South Yarra,No. 3,Jeremy Nguyen,Phoebe Andrews,Phoebe Andrews,3-6,3,6,0,1,Completed,true,false,false
+UA001101,05 May 24,10,BLTC White,Royal South Yarra,No. 4,Davis Nguyen,Stella Kephala,Stella Kephala,4-6,4,6,0,1,Completed,true,false,false
+UA001102,05 May 24,10,Murrumbeena,Hurlingham Park,No. 1,Juan Thomas,Frankie Hillier,Frankie Hillier,1-6,1,6,0,1,Completed,true,false,true
+UA001102,05 May 24,10,Murrumbeena,Hurlingham Park,No. 2,Ruby Huggins,Joseph James Braithwaite,Ruby Huggins,6-2,6,2,1,0,Completed,true,false,false
+UA001102,05 May 24,10,Murrumbeena,Hurlingham Park,No. 3,Aodhan Monteiro,Michal Foroncewicz,Aodhan Monteiro,6-2,6,2,1,0,Completed,true,false,false
+UA001102,05 May 24,10,Murrumbeena,Hurlingham Park,No. 4,Kayden Jin,Tomek Foroncewicz,Kayden Jin,7-5,7,5,1,0,Completed,true,false,true
+UA001103,05 May 24,10,BLTC Blue,Coatesville,No. 1,Stevan Dakic,Nicholas Dela Cruz,Stevan Dakic,6-1,6,1,1,0,Completed,true,false,false
+UA001103,05 May 24,10,BLTC Blue,Coatesville,No. 2,Max Dorey,Jonah Dela Cruz,Jonah Dela Cruz,6-7,6,7,0,1,Completed,true,false,false
+UA001103,05 May 24,10,BLTC Blue,Coatesville,No. 3,Julian Prieto,William Chu,Julian Prieto,6-2,6,2,1,0,Completed,true,false,true
+UA001103,05 May 24,10,BLTC Blue,Coatesville,No. 4,Jamie Turner,Charlie Garcia,Jamie Turner,6-3,6,3,1,0,Completed,true,false,true
+UA001104,05 May 24,10,BLTC Red,Royal Ave,No. 1,Ray Lai Cheong,Max Zhou,Ray Lai Cheong,6-1,6,1,1,0,Completed,true,false,false
+UA001104,05 May 24,10,BLTC Red,Royal Ave,No. 2,Luca Magro,Caleb Jackson-Wright,Luca Magro,6-0,6,0,1,0,Completed,true,false,false
+UA001104,05 May 24,10,BLTC Red,Royal Ave,No. 3,Nicholas Shaw,Marco Zhou,Nicholas Shaw,6-2,6,2,1,0,Completed,true,true,false
+UA001104,05 May 24,10,BLTC Red,Royal Ave,No. 4,Ryan Dong,Charlie Wong,Ryan Dong,7-5,7,5,1,0,Completed,true,false,false
+UA001111,12 May 24,11,Royal South Yarra,BLTC Red,No. 1,Christopher Manton,Ray Lai Cheong,Christopher Manton,6-3,6,3,1,0,Completed,true,false,false
+UA001111,12 May 24,11,Royal South Yarra,BLTC Red,No. 2,Johnny Asimenias,Luca Magro,Luca Magro,3-6,3,6,0,1,Completed,true,false,false
+UA001111,12 May 24,11,Royal South Yarra,BLTC Red,No. 3,Stella Kephala,Ryan Dong,Ryan Dong,3-6,3,6,0,1,Completed,true,false,false
+UA001111,12 May 24,11,Royal South Yarra,BLTC Red,No. 4,Axy Park,Claudia Popovic,Claudia Popovic,0-6,0,6,0,1,Completed,true,false,false
+UA001112,12 May 24,11,Hurlingham Park,BLTC White,No. 1,Kynan Enwright,Jeremy Nguyen,Kynan Enwright,6-0,6,0,1,0,Completed,true,false,false
+UA001112,12 May 24,11,Hurlingham Park,BLTC White,No. 2,Luka Thurlow,Daniel Brown,Daniel Brown,4-6,4,6,0,1,Completed,true,false,true
+UA001112,12 May 24,11,Hurlingham Park,BLTC White,No. 3,Joseph James Braithwaite,Hudson Close,Hudson Close,1-6,1,6,0,1,Completed,true,false,false
+UA001112,12 May 24,11,Hurlingham Park,BLTC White,No. 4,Michal Foroncewicz,Davis Nguyen,Michal Foroncewicz,6-1,6,1,1,0,Completed,true,false,false
+UA001113,12 May 24,11,Coatesville,Murrumbeena,No. 1,Nicholas Dela Cruz,Benjamin Pinkus,Benjamin Pinkus,4-6,4,6,0,1,Completed,true,false,false
+UA001113,12 May 24,11,Coatesville,Murrumbeena,No. 2,Ben Gouralnik,Juan Thomas,Ben Gouralnik,7-6,7,6,1,0,Completed,true,false,false
+UA001113,12 May 24,11,Coatesville,Murrumbeena,No. 3,William Chu,Ruby Huggins,William Chu,6-3,6,3,1,0,Completed,true,true,false
+UA001113,12 May 24,11,Coatesville,Murrumbeena,No. 4,Charlie Garcia,Kayden Jin,Kayden Jin,6-7,6,7,0,1,Completed,true,true,false
+UA001114,12 May 24,11,Royal Ave,BLTC Blue,No. 1,Max Zhou,Stevan Dakic,Stevan Dakic,0-6,0,6,0,1,Completed,true,false,false
+UA001114,12 May 24,11,Royal Ave,BLTC Blue,No. 2,Caleb Jackson-Wright,Julian Prieto,Julian Prieto,2-6,2,6,0,1,Completed,true,false,false
+UA001114,12 May 24,11,Royal Ave,BLTC Blue,No. 3,Marco Zhou,Jamie Turner,Jamie Turner,5-7,5,7,0,1,Completed,true,false,false
+UA001114,12 May 24,11,Royal Ave,BLTC Blue,No. 4,Charlie Wong,Joshua Grunburg,Charlie Wong,7-6,7,6,1,0,Completed,true,false,false
+UA001121,19 May 24,12,Royal Ave,Coatesville,No. 1,Gideon Gomes,Nicholas Dela Cruz,Nicholas Dela Cruz,6-7,6,7,0,1,Completed,true,false,false
+UA001121,19 May 24,12,Royal Ave,Coatesville,No. 2,Max Zhou,Thomas Rossi,Thomas Rossi,3-6,3,6,0,1,Completed,true,false,false
+UA001121,19 May 24,12,Royal Ave,Coatesville,No. 3,Caleb Jackson-Wright,Jonah Dela Cruz,Jonah Dela Cruz,4-6,4,6,0,1,Completed,true,false,false
+UA001121,19 May 24,12,Royal Ave,Coatesville,No. 4,Marco Zhou,Charlie Garcia,Charlie Garcia,3-6,3,6,0,1,Completed,true,false,true
+UA001122,19 May 24,12,BLTC White,Murrumbeena,No. 1,Stuart Pagel,Benjamin Pinkus,Benjamin Pinkus,0-6,0,6,0,1,Completed,true,false,false
+UA001122,19 May 24,12,BLTC White,Murrumbeena,No. 2,Jeremy Nguyen,Harvey Shi,Harvey Shi,2-6,2,6,0,1,Completed,true,false,false
+UA001122,19 May 24,12,BLTC White,Murrumbeena,No. 3,Hudson Close,Juan Thomas,Hudson Close,6-1,6,1,1,0,Completed,true,false,false
+UA001122,19 May 24,12,BLTC White,Murrumbeena,No. 4,Davis Nguyen,Kayden Jin,Kayden Jin,2-6,2,6,0,1,Completed,true,false,false
+UA001123,19 May 24,12,BLTC Blue,BLTC Red,No. 1,Stevan Dakic,Ray Lai Cheong,Stevan Dakic,6-4,6,4,1,0,Completed,true,false,false
+UA001123,19 May 24,12,BLTC Blue,BLTC Red,No. 2,Max Dorey,Luca Magro,Luca Magro,0-6,0,6,0,1,Completed,true,false,false
+UA001123,19 May 24,12,BLTC Blue,BLTC Red,No. 3,Julian Prieto,Ryan Dong,Julian Prieto,6-0,6,0,1,0,Completed,true,false,false
+UA001123,19 May 24,12,BLTC Blue,BLTC Red,No. 4,Joshua Grunburg,Campbell Orchard,Joshua Grunburg,6-2,6,2,1,0,Completed,true,false,false
+UA001124,19 May 24,12,Hurlingham Park,Royal South Yarra,No. 1,Luka Thurlow,Christopher Manton,Christopher Manton,1-6,1,6,0,1,Completed,true,false,false
+UA001124,19 May 24,12,Hurlingham Park,Royal South Yarra,No. 2,Hugh Du Toit,Theodore Gilbert,Hugh Du Toit,7-5,7,5,1,0,Completed,true,false,false
+UA001124,19 May 24,12,Hurlingham Park,Royal South Yarra,No. 3,Michal Foroncewicz,Johnny Asimenias,Johnny Asimenias,0-6,0,6,0,1,Completed,true,false,false
+UA001124,19 May 24,12,Hurlingham Park,Royal South Yarra,No. 4,Dane Gerbic,Axy Park,Dane Gerbic,6-1,6,1,1,0,Completed,true,true,false
+UA001131,26 May 24,13,Coatesville,Hurlingham Park,No. 1,Nicholas Dela Cruz,Luka Thurlow,Nicholas Dela Cruz,6-4,6,4,1,0,Completed,true,false,false
+UA001131,26 May 24,13,Coatesville,Hurlingham Park,No. 2,Jonah Dela Cruz,Joseph James Braithwaite,Jonah Dela Cruz,6-0,6,0,1,0,Completed,true,false,false
+UA001131,26 May 24,13,Coatesville,Hurlingham Park,No. 3,William Chu,Hugh Du Toit,William Chu,7-5,7,5,1,0,Completed,true,true,false
+UA001131,26 May 24,13,Coatesville,Hurlingham Park,No. 4,Charlie Garcia,Michal Foroncewicz,Charlie Garcia,7-5,7,5,1,0,Completed,true,true,false
+UA001132,26 May 24,13,Royal South Yarra,Royal Ave,No. 1,Johnny Asimenias,Max Zhou,Johnny Asimenias,6-4,6,4,1,0,Completed,true,false,false
+UA001132,26 May 24,13,Royal South Yarra,Royal Ave,No. 2,Phoebe Andrews,Caleb Jackson-Wright,Caleb Jackson-Wright,3-6,3,6,0,1,Completed,true,false,false
+UA001132,26 May 24,13,Royal South Yarra,Royal Ave,No. 3,Niki Tsemtsidis,Marco Zhou,Niki Tsemtsidis,6-4,6,4,1,0,Completed,true,false,false
+UA001132,26 May 24,13,Royal South Yarra,Royal Ave,No. 4,Stella Kephala,Charlie Wong,Charlie Wong,3-6,3,6,0,1,Completed,true,false,false
+UA001134,26 May 24,13,Murrumbeena,BLTC Blue,No. 1,Benjamin Pinkus,Stevan Dakic,Benjamin Pinkus,6-1,6,1,1,0,Completed,true,false,false
+UA001134,26 May 24,13,Murrumbeena,BLTC Blue,No. 2,Harvey Shi,Julian Prieto,Harvey Shi,6-3,6,3,1,0,Completed,true,false,false
+UA001134,26 May 24,13,Murrumbeena,BLTC Blue,No. 3,Juan Thomas,Jamie Turner,Juan Thomas,6-2,6,2,1,0,Completed,true,false,false
+UA001134,26 May 24,13,Murrumbeena,BLTC Blue,No. 4,Ruby Huggins,Joshua Grunburg,Joshua Grunburg,5-7,5,7,0,1,Completed,true,false,false
+UA001141,02 Jun 24,14,Coatesville,Royal South Yarra,No. 1,Nicholas Dela Cruz,Theodore Gilbert,Nicholas Dela Cruz,7-6,7,6,1,0,Completed,true,false,false
+UA001141,02 Jun 24,14,Coatesville,Royal South Yarra,No. 2,Thomas Rossi,Johnny Asimenias,Johnny Asimenias,5-7,5,7,0,1,Completed,true,false,false
+UA001141,02 Jun 24,14,Coatesville,Royal South Yarra,No. 3,Ben Gouralnik,Niki Tsemtsidis,Ben Gouralnik,6-2,6,2,1,0,Completed,true,false,false
+UA001141,02 Jun 24,14,Coatesville,Royal South Yarra,No. 4,William Chu,Stella Kephala,William Chu,6-4,6,4,1,0,Completed,true,true,false
+UA001142,02 Jun 24,14,Royal Ave,Hurlingham Park,No. 1,Gideon Gomes,Luka Thurlow,Luka Thurlow,2-6,2,6,0,1,Completed,true,false,false
+UA001142,02 Jun 24,14,Royal Ave,Hurlingham Park,No. 2,Max Zhou,Joseph James Braithwaite,Max Zhou,6-1,6,1,1,0,Completed,true,false,false
+UA001142,02 Jun 24,14,Royal Ave,Hurlingham Park,No. 3,Marco Zhou,Hugh Du Toit,Hugh Du Toit,2-6,2,6,0,1,Completed,true,false,false
+UA001142,02 Jun 24,14,Royal Ave,Hurlingham Park,No. 4,Charlie Wong,Michal Foroncewicz,Charlie Wong,6-3,6,3,1,0,Completed,true,false,false
+UA001143,02 Jun 24,14,BLTC Red,Murrumbeena,No. 1,Ray Lai Cheong,Benjamin Pinkus,Benjamin Pinkus,2-6,2,6,0,1,Completed,true,false,false
+UA001143,02 Jun 24,14,BLTC Red,Murrumbeena,No. 2,Nicholas Shaw,Harvey Shi,Harvey Shi,6-7,6,7,0,1,Completed,true,true,false
+UA001143,02 Jun 24,14,BLTC Red,Murrumbeena,No. 3,Ryan Dong,Ruby Huggins,Ryan Dong,6-1,6,1,1,0,Completed,true,false,false
+UA001143,02 Jun 24,14,BLTC Red,Murrumbeena,No. 4,Campbell Orchard,Aodhan Monteiro,Aodhan Monteiro,1-6,1,6,0,1,Completed,true,false,false
+UA001144,02 Jun 24,14,BLTC Blue,BLTC White,No. 1,Max Dorey,Stuart Pagel,Max Dorey,6-0,6,0,1,0,Completed,true,false,false
+UA001144,02 Jun 24,14,BLTC Blue,BLTC White,No. 2,Julian Prieto,Jeremy Nguyen,Julian Prieto,6-2,6,2,1,0,Completed,true,false,false
+UA001144,02 Jun 24,14,BLTC Blue,BLTC White,No. 3,Jamie Turner,Hudson Close,Hudson Close,4-6,4,6,0,1,Completed,true,false,false
+UA001144,02 Jun 24,14,BLTC Blue,BLTC White,No. 4,Joshua Grunburg,Davis Nguyen,Joshua Grunburg,6-0,6,0,1,0,Completed,true,false,false
+UA001301,,16,Coatesville,Royal South Yarra,No. 1,Thomas Rossi,Niki Tsemtsidis,Thomas Rossi,6-2,6,2,1,0,Completed,true,false,false
+UA001301,,16,Coatesville,Royal South Yarra,No. 2,Jonah Dela Cruz,Stella Kephala,Jonah Dela Cruz,7-5,7,5,1,0,Completed,true,false,false
+UA001301,,16,Coatesville,Royal South Yarra,No. 3,Ben Gouralnik,Axy Park,Ben Gouralnik,6-0,6,0,1,0,Completed,true,false,false
+UA001302,,16,BLTC Blue,Murrumbeena,No. 1,Max Dorey,Harvey Shi,Harvey Shi,0-6,0,6,0,1,Completed,true,false,false
+UA001302,,16,BLTC Blue,Murrumbeena,No. 2,Julian Prieto,Ruby Huggins,Julian Prieto,6-4,6,4,1,0,Completed,true,false,false
+UA001302,,16,BLTC Blue,Murrumbeena,No. 3,Jamie Turner,Aodhan Monteiro,Jamie Turner,6-3,6,3,1,0,Completed,true,false,false
+UA001302,,16,BLTC Blue,Murrumbeena,No. 4,Joshua Grunburg,Kayden Jin,Joshua Grunburg,7-6,7,6,1,0,Completed,true,false,false
+UA001321,,17,Coatesville,BLTC Blue,No. 1,Nicholas Dela Cruz,Stevan Dakic,Stevan Dakic,2-6,2,6,0,1,Completed,true,false,false
+UA001321,,17,Coatesville,BLTC Blue,No. 2,Thomas Rossi,Max Dorey,Thomas Rossi,7-5,7,5,1,0,Completed,true,false,false
+UA001321,,17,Coatesville,BLTC Blue,No. 3,Jonah Dela Cruz,Julian Prieto,Julian Prieto,3-6,3,6,0,1,Completed,true,false,false
+UA001321,,17,Coatesville,BLTC Blue,No. 4,Ben Gouralnik,Jamie Turner,Ben Gouralnik,6-4,6,4,1,0,Completed,true,false,false

@@ -1,0 +1,157 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA012012,31 Jan 26,1,Ormond,Coatesville,No. 1,Mia Vizelman,Asher Bala,Asher Bala,0-6,0,6,0,1,Completed,true,false,false
+AA012012,31 Jan 26,1,Ormond,Coatesville,No. 2,Jade Wallace,Rishi Suresh,Rishi Suresh,2-6,2,6,0,1,Completed,true,false,false
+AA012012,31 Jan 26,1,Ormond,Coatesville,No. 3,Aidan Muscat,Benjamin Vashchenko,Aidan Muscat,6-2,6,2,1,0,Completed,true,true,false
+AA012012,31 Jan 26,1,Ormond,Coatesville,No. 4,Roshna Rajaram,[Unnamed emergency — TROLS AA012012 away code 4],Roshna Rajaram,6-2,6,2,1,0,Completed,false,false,true
+AA012013,31 Jan 26,1,St James,Chelsea Heights,No. 1,Mu Li,George Valioukhov,Mu Li,6-3,6,3,1,0,Completed,true,false,false
+AA012013,31 Jan 26,1,St James,Chelsea Heights,No. 2,He Li,Liam Phan,He Li,6-0,6,0,1,0,Completed,true,false,false
+AA012013,31 Jan 26,1,St James,Chelsea Heights,No. 3,Reuben Dangerfield,Ryan Mitchell,Reuben Dangerfield,6-2,6,2,1,0,Completed,true,false,false
+AA012013,31 Jan 26,1,St James,Chelsea Heights,No. 4,Yuvein Iddamalgoda,Rustin Rudd,Rustin Rudd,5-6,5,6,0,1,Completed,true,false,true
+AA012022,07 Feb 26,2,BLTC,Ormond,No. 1,Thyme Bennett,Mia Vizelman,Thyme Bennett,6-2,6,2,1,0,Completed,true,false,false
+AA012022,07 Feb 26,2,BLTC,Ormond,No. 2,Grace Crawford,Jade Wallace,Jade Wallace,4-6,4,6,0,1,Completed,true,false,false
+AA012022,07 Feb 26,2,BLTC,Ormond,No. 3,Zara O'Halloran,Shambhavi Ohja,Shambhavi Ohja,3-6,3,6,0,1,Completed,true,false,false
+AA012022,07 Feb 26,2,BLTC,Ormond,No. 4,Lucas Salerno,Roshna Rajaram,Lucas Salerno,6-5,6,5,1,0,Completed,true,false,false
+AA012023,07 Feb 26,2,Coatesville,St James,No. 1,Asher Bala,Reuben Dangerfield,Asher Bala,6-0,6,0,1,0,Completed,true,false,false
+AA012023,07 Feb 26,2,Coatesville,St James,No. 2,Rishi Suresh,Yuvein Iddamalgoda,Yuvein Iddamalgoda,2-6,2,6,0,1,Completed,true,false,false
+AA012023,07 Feb 26,2,Coatesville,St James,No. 3,Sumanth Baliga,Mu Li,Sumanth Baliga,6-0,6,0,1,0,Completed,true,false,false
+AA012023,07 Feb 26,2,Coatesville,St James,No. 4,Benjamin Vashchenko,He Li,He Li,2-6,2,6,0,1,Completed,true,false,false
+AA012024,07 Feb 26,2,Chelsea Heights,Mordialloc,No. 1,Hunter Ord Wotherspoon,Archie Batson,Archie Batson,2-6,2,6,0,1,Completed,true,false,false
+AA012024,07 Feb 26,2,Chelsea Heights,Mordialloc,No. 2,Liam Phan,Liam Wielgosz,Liam Wielgosz,0-6,0,6,0,1,Completed,true,false,false
+AA012024,07 Feb 26,2,Chelsea Heights,Mordialloc,No. 3,Ryan Mitchell,Miller Foulds,Ryan Mitchell,6-1,6,1,1,0,Completed,true,false,false
+AA012024,07 Feb 26,2,Chelsea Heights,Mordialloc,No. 4,Harrison Tolliday,Ethan Thomas,Harrison Tolliday,6-4,6,4,1,0,Completed,true,false,false
+AA012033,14 Feb 26,3,St James,BLTC,No. 1,Mu Li,Thyme Bennett,Thyme Bennett,3-6,3,6,0,1,Completed,true,false,false
+AA012033,14 Feb 26,3,St James,BLTC,No. 2,He Li,Grace Crawford,Grace Crawford,4-6,4,6,0,1,Completed,true,false,false
+AA012033,14 Feb 26,3,St James,BLTC,No. 3,Reuben Dangerfield,Heidi Neilson,Heidi Neilson,4-6,4,6,0,1,Completed,true,false,false
+AA012033,14 Feb 26,3,St James,BLTC,No. 4,Yuvein Iddamalgoda,Lucas Salerno,Lucas Salerno,2-6,2,6,0,1,Completed,true,false,false
+AA012034,14 Feb 26,3,Mordialloc,Coatesville,No. 1,Archie Batson,Asher Bala,Asher Bala,0-6,0,6,0,1,Completed,true,false,false
+AA012034,14 Feb 26,3,Mordialloc,Coatesville,No. 2,Tyler Maj,Rishi Suresh,Tyler Maj,6-2,6,2,1,0,Completed,true,false,false
+AA012034,14 Feb 26,3,Mordialloc,Coatesville,No. 3,Miller Foulds,Sumanth Baliga,Miller Foulds,6-2,6,2,1,0,Completed,true,false,false
+AA012034,14 Feb 26,3,Mordialloc,Coatesville,No. 4,Ethan Thomas,Benjamin Vashchenko,Ethan Thomas,6-4,6,4,1,0,Completed,true,false,false
+AA012041,21 Feb 26,4,Coatesville,Port Melbourne,No. 1,Asher Bala,Avery Thomas,Asher Bala,6-0,6,0,1,0,Completed,true,false,false
+AA012041,21 Feb 26,4,Coatesville,Port Melbourne,No. 2,Rohan Shukin,Vivian Cunsolo,,4-4,4,4,0,0,Completed,false,false,false
+AA012041,21 Feb 26,4,Coatesville,Port Melbourne,No. 3,Sumanth Baliga,Anna Katsanevakis,Sumanth Baliga,6-4,6,4,1,0,Completed,true,false,false
+AA012041,21 Feb 26,4,Coatesville,Port Melbourne,No. 4,Benjamin Vashchenko,Angie Zhao,Benjamin Vashchenko,6-4,6,4,1,0,Completed,true,false,false
+AA012042,21 Feb 26,4,Chelsea Heights,Ormond,No. 1,George Valioukhov,Mia Vizelman,George Valioukhov,6-3,6,3,1,0,Completed,true,false,false
+AA012042,21 Feb 26,4,Chelsea Heights,Ormond,No. 2,Rustin Rudd,Jade Wallace,Jade Wallace,0-6,0,6,0,1,Completed,true,true,false
+AA012042,21 Feb 26,4,Chelsea Heights,Ormond,No. 3,Hunter Ord Wotherspoon,Shambhavi Ohja,Shambhavi Ohja,0-6,0,6,0,1,Completed,true,false,false
+AA012042,21 Feb 26,4,Chelsea Heights,Ormond,No. 4,Liam Phan,Roshna Rajaram,Roshna Rajaram,0-6,0,6,0,1,Completed,true,false,false
+AA012044,21 Feb 26,4,BLTC,Mordialloc,No. 1,Thyme Bennett,Archie Batson,Archie Batson,0-6,0,6,0,1,Completed,true,false,false
+AA012044,21 Feb 26,4,BLTC,Mordialloc,No. 2,Grace Crawford,Tyler Maj,Grace Crawford,6-1,6,1,1,0,Completed,true,false,false
+AA012044,21 Feb 26,4,BLTC,Mordialloc,No. 3,Zara O'Halloran,Liam Wielgosz,Liam Wielgosz,1-6,1,6,0,1,Completed,true,false,false
+AA012044,21 Feb 26,4,BLTC,Mordialloc,No. 4,Josh Petterson,Ethan Thomas,Josh Petterson,6-5,6,5,1,0,Completed,true,true,false
+AA012051,28 Feb 26,5,St James,Mordialloc,No. 1,Mu Li,Archie Batson,Mu Li,6-5,6,5,1,0,Completed,true,false,false
+AA012051,28 Feb 26,5,St James,Mordialloc,No. 2,He Li,Tyler Maj,Tyler Maj,1-6,1,6,0,1,Completed,true,false,false
+AA012051,28 Feb 26,5,St James,Mordialloc,No. 3,Yuvein Iddamalgoda,Liam Wielgosz,Liam Wielgosz,2-6,2,6,0,1,Completed,true,false,false
+AA012051,28 Feb 26,5,St James,Mordialloc,No. 4,Edward Foote,[Unnamed player — TROLS AA012051 away code 4],Edward Foote,6-1,6,1,1,0,Completed,false,false,false
+AA012053,28 Feb 26,5,Coatesville,BLTC,No. 1,Asher Bala,Grace Crawford,Asher Bala,6-1,6,1,1,0,Completed,true,false,false
+AA012053,28 Feb 26,5,Coatesville,BLTC,No. 2,Rishi Suresh,Heidi Neilson,Heidi Neilson,2-6,2,6,0,1,Completed,true,false,false
+AA012053,28 Feb 26,5,Coatesville,BLTC,No. 3,Rohan Shukin,Avyukth Reddy Parker,Avyukth Reddy Parker,0-6,0,6,0,1,Completed,true,false,false
+AA012053,28 Feb 26,5,Coatesville,BLTC,No. 4,Sumanth Baliga,Lucas Salerno,Lucas Salerno,0-6,0,6,0,1,Completed,true,false,false
+AA012054,28 Feb 26,5,Port Melbourne,Ormond,No. 1,Mia Gray,Adam Nuri,Adam Nuri,2-6,2,6,0,1,Completed,true,false,true
+AA012054,28 Feb 26,5,Port Melbourne,Ormond,No. 2,[Unnamed emergency — TROLS AA012054 home code 2],Jade Wallace,[Unnamed emergency — TROLS AA012054 home code 2],6-4,6,4,1,0,Completed,false,true,false
+AA012054,28 Feb 26,5,Port Melbourne,Ormond,No. 3,Avery Thomas,Roshna Rajaram,Roshna Rajaram,2-6,2,6,0,1,Completed,true,false,false
+AA012054,28 Feb 26,5,Port Melbourne,Ormond,No. 4,Yaira Nirman,Shambhavi Ohja,Shambhavi Ohja,0-6,0,6,0,1,Completed,true,false,false
+AA012061,14 Mar 26,6,Ormond,St James,No. 1,Mia Vizelman,Mu Li,Mu Li,3-6,3,6,0,1,Completed,true,false,false
+AA012061,14 Mar 26,6,Ormond,St James,No. 2,Jade Wallace,He Li,Jade Wallace,6-1,6,1,1,0,Completed,true,false,false
+AA012061,14 Mar 26,6,Ormond,St James,No. 3,Shambhavi Ohja,Reuben Dangerfield,Shambhavi Ohja,6-3,6,3,1,0,Completed,true,false,false
+AA012061,14 Mar 26,6,Ormond,St James,No. 4,Roshna Rajaram,Edward Foote,Roshna Rajaram,6-4,6,4,1,0,Completed,true,false,false
+AA012062,14 Mar 26,6,Mordialloc,Port Melbourne,No. 1,Archie Batson,Mia Gray,Mia Gray,3-6,3,6,0,1,Completed,true,false,false
+AA012062,14 Mar 26,6,Mordialloc,Port Melbourne,No. 2,Tyler Maj,Parker Hitt,Tyler Maj,6-2,6,2,1,0,Completed,true,false,false
+AA012062,14 Mar 26,6,Mordialloc,Port Melbourne,No. 3,Miller Foulds,Anna Katsanevakis,Miller Foulds,6-3,6,3,1,0,Completed,true,false,false
+AA012062,14 Mar 26,6,Mordialloc,Port Melbourne,No. 4,Ethan Thomas,Angie Zhao,Ethan Thomas,6-1,6,1,1,0,Completed,true,false,false
+AA012063,14 Mar 26,6,Chelsea Heights,Coatesville,No. 1,George Valioukhov,Asher Bala,Asher Bala,1-6,1,6,0,1,Completed,true,false,false
+AA012063,14 Mar 26,6,Chelsea Heights,Coatesville,No. 2,Rustin Rudd,Rishi Suresh,Rishi Suresh,1-6,1,6,0,1,Completed,true,true,false
+AA012063,14 Mar 26,6,Chelsea Heights,Coatesville,No. 3,Ryan Mitchell,Rohan Shukin,Rohan Shukin,2-6,2,6,0,1,Completed,true,false,false
+AA012063,14 Mar 26,6,Chelsea Heights,Coatesville,No. 4,Harrison Tolliday,Benjamin Vashchenko,Benjamin Vashchenko,4-6,4,6,0,1,Completed,true,false,false
+AA012071,21 Mar 26,7,Port Melbourne,St James,No. 1,Parker Hitt,Mu Li,Mu Li,4-6,4,6,0,1,Completed,true,false,false
+AA012071,21 Mar 26,7,Port Melbourne,St James,No. 2,Avery Thomas,He Li,Avery Thomas,6-1,6,1,1,0,Completed,true,false,false
+AA012071,21 Mar 26,7,Port Melbourne,St James,No. 3,[Unnamed emergency — TROLS AA012071 home code 3],Reuben Dangerfield,Reuben Dangerfield,3-6,3,6,0,1,Completed,false,true,false
+AA012071,21 Mar 26,7,Port Melbourne,St James,No. 4,[Unnamed emergency — TROLS AA012071 home code 4],Yuvein Iddamalgoda,Yuvein Iddamalgoda,0-6,0,6,0,1,Completed,false,true,false
+AA012072,21 Mar 26,7,Ormond,Mordialloc,No. 1,Mia Vizelman,Archie Batson,Archie Batson,1-6,1,6,0,1,Completed,true,false,false
+AA012072,21 Mar 26,7,Ormond,Mordialloc,No. 2,Jade Wallace,Liam Wielgosz,Liam Wielgosz,2-6,2,6,0,1,Completed,true,false,false
+AA012072,21 Mar 26,7,Ormond,Mordialloc,No. 3,Shambhavi Ohja,Miller Foulds,Shambhavi Ohja,6-4,6,4,1,0,Completed,true,false,false
+AA012072,21 Mar 26,7,Ormond,Mordialloc,No. 4,Roshna Rajaram,Ethan Thomas,Roshna Rajaram,6-1,6,1,1,0,Completed,true,false,false
+AA012074,21 Mar 26,7,Chelsea Heights,BLTC,No. 1,George Valioukhov,Thyme Bennett,Thyme Bennett,2-6,2,6,0,1,Completed,true,false,false
+AA012074,21 Mar 26,7,Chelsea Heights,BLTC,No. 2,Rustin Rudd,Heidi Neilson,Heidi Neilson,1-6,1,6,0,1,Completed,true,true,false
+AA012074,21 Mar 26,7,Chelsea Heights,BLTC,No. 3,Hunter Ord Wotherspoon,Zara O'Halloran,Zara O'Halloran,2-6,2,6,0,1,Completed,true,false,false
+AA012074,21 Mar 26,7,Chelsea Heights,BLTC,No. 4,Harrison Tolliday,Lucas Salerno,Lucas Salerno,0-6,0,6,0,1,Completed,true,false,false
+AA012081,28 Mar 26,8,BLTC,Port Melbourne,No. 1,Thyme Bennett,Parker Hitt,Thyme Bennett,5-4,5,4,1,0,Completed,true,false,false
+AA012081,28 Mar 26,8,BLTC,Port Melbourne,No. 2,Grace Crawford,Angie Zhao,Grace Crawford,6-0,6,0,1,0,Completed,true,false,false
+AA012081,28 Mar 26,8,BLTC,Port Melbourne,No. 3,Heidi Neilson,Vivian Cunsolo,Heidi Neilson,6-1,6,1,1,0,Completed,true,false,false
+AA012081,28 Mar 26,8,BLTC,Port Melbourne,No. 4,Lucas Salerno,Anna Katsanevakis,Lucas Salerno,6-1,6,1,1,0,Completed,true,false,false
+AA012082,28 Mar 26,8,Coatesville,Ormond,No. 1,Asher Bala,Mia Vizelman,Asher Bala,6-1,6,1,1,0,Completed,true,false,false
+AA012082,28 Mar 26,8,Coatesville,Ormond,No. 2,Rishi Suresh,Jade Wallace,Rishi Suresh,6-0,6,0,1,0,Completed,true,false,false
+AA012082,28 Mar 26,8,Coatesville,Ormond,No. 3,Rohan Shukin,Shambhavi Ohja,Shambhavi Ohja,1-6,1,6,0,1,Completed,true,false,false
+AA012082,28 Mar 26,8,Coatesville,Ormond,No. 4,Benjamin Vashchenko,Roshna Rajaram,Roshna Rajaram,4-6,4,6,0,1,Completed,true,false,false
+AA012083,28 Mar 26,8,Chelsea Heights,St James,No. 1,George Valioukhov,Mu Li,Mu Li,1-6,1,6,0,1,Completed,true,false,false
+AA012083,28 Mar 26,8,Chelsea Heights,St James,No. 2,Hunter Ord Wotherspoon,Reuben Dangerfield,Reuben Dangerfield,3-6,3,6,0,1,Completed,true,false,false
+AA012083,28 Mar 26,8,Chelsea Heights,St James,No. 3,Ryan Mitchell,Alexander Kuzma,Alexander Kuzma,1-6,1,6,0,1,Completed,true,false,false
+AA012083,28 Mar 26,8,Chelsea Heights,St James,No. 4,Harrison Tolliday,Yuvein Iddamalgoda,Yuvein Iddamalgoda,1-6,1,6,0,1,Completed,true,false,false
+AA012093,02 May 26,9,St James,Coatesville,No. 1,Mu Li,Asher Bala,Asher Bala,5-6,5,6,0,1,Completed,true,false,false
+AA012093,02 May 26,9,St James,Coatesville,No. 2,He Li,Rishi Suresh,Rishi Suresh,1-6,1,6,0,1,Completed,true,false,false
+AA012093,02 May 26,9,St James,Coatesville,No. 3,Reuben Dangerfield,Sumanth Baliga,Sumanth Baliga,3-6,3,6,0,1,Completed,true,false,false
+AA012093,02 May 26,9,St James,Coatesville,No. 4,Alexander Kuzma,Benjamin Vashchenko,Alexander Kuzma,6-2,6,2,1,0,Completed,true,false,false
+AA012094,02 May 26,9,Mordialloc,Chelsea Heights,No. 1,Archie Batson,George Valioukhov,Archie Batson,6-3,6,3,1,0,Completed,true,false,false
+AA012094,02 May 26,9,Mordialloc,Chelsea Heights,No. 2,Tyler Maj,Hunter Ord Wotherspoon,Tyler Maj,6-0,6,0,1,0,Completed,true,false,false
+AA012094,02 May 26,9,Mordialloc,Chelsea Heights,No. 3,Liam Wielgosz,Ryan Mitchell,Liam Wielgosz,6-1,6,1,1,0,Completed,true,false,false
+AA012094,02 May 26,9,Mordialloc,Chelsea Heights,No. 4,Ethan Thomas,Harrison Tolliday,Ethan Thomas,6-2,6,2,1,0,Completed,true,false,false
+AA012101,09 May 26,10,Chelsea Heights,Port Melbourne,No. 1,Hunter Ord Wotherspoon,Mia Gray,Mia Gray,1-6,1,6,0,1,Completed,true,false,false
+AA012101,09 May 26,10,Chelsea Heights,Port Melbourne,No. 2,Ryan Mitchell,Parker Hitt,Parker Hitt,2-6,2,6,0,1,Completed,true,false,false
+AA012101,09 May 26,10,Chelsea Heights,Port Melbourne,No. 3,Harrison Tolliday,Anna Katsanevakis,Harrison Tolliday,6-2,6,2,1,0,Completed,true,false,false
+AA012101,09 May 26,10,Chelsea Heights,Port Melbourne,No. 4,Cristos Panagiotids,Vivian Cunsolo,Cristos Panagiotids,6-4,6,4,1,0,Completed,true,true,false
+AA012103,09 May 26,10,BLTC,St James,No. 1,Thyme Bennett,He Li,Thyme Bennett,6-1,6,1,1,0,Completed,true,false,false
+AA012103,09 May 26,10,BLTC,St James,No. 2,Grace Crawford,Reuben Dangerfield,Reuben Dangerfield,2-6,2,6,0,1,Completed,true,false,false
+AA012103,09 May 26,10,BLTC,St James,No. 3,Heidi Neilson,Alexander Kuzma,Heidi Neilson,6-3,6,3,1,0,Completed,true,false,false
+AA012103,09 May 26,10,BLTC,St James,No. 4,Lucas Salerno,Mu Li,Lucas Salerno,6-5,6,5,1,0,Completed,true,false,false
+AA012104,09 May 26,10,Coatesville,Mordialloc,No. 1,Asher Bala,Archie Batson,Asher Bala,6-2,6,2,1,0,Completed,true,false,false
+AA012104,09 May 26,10,Coatesville,Mordialloc,No. 2,Rohan Shukin,Tyler Maj,Tyler Maj,0-6,0,6,0,1,Completed,true,false,false
+AA012104,09 May 26,10,Coatesville,Mordialloc,No. 3,Sumanth Baliga,Liam Wielgosz,Liam Wielgosz,4-6,4,6,0,1,Completed,true,false,false
+AA012104,09 May 26,10,Coatesville,Mordialloc,No. 4,Benjamin Vashchenko,Miller Foulds,Miller Foulds,3-6,3,6,0,1,Completed,true,false,false
+AA012111,16 May 26,11,Port Melbourne,Coatesville,No. 1,Parker Hitt,Asher Bala,Asher Bala,4-6,4,6,0,1,Completed,true,false,false
+AA012111,16 May 26,11,Port Melbourne,Coatesville,No. 2,Angie Zhao,Rishi Suresh,Rishi Suresh,1-6,1,6,0,1,Completed,true,false,false
+AA012111,16 May 26,11,Port Melbourne,Coatesville,No. 3,Vivian Cunsolo,Sumanth Baliga,Sumanth Baliga,4-6,4,6,0,1,Completed,true,false,false
+AA012111,16 May 26,11,Port Melbourne,Coatesville,No. 4,Yaira Nirman,Rohan Shukin,Rohan Shukin,1-6,1,6,0,1,Completed,true,false,false
+AA012112,16 May 26,11,Ormond,Chelsea Heights,No. 1,Adam Nuri,[Unnamed emergency — TROLS AA012112 away code 1],Adam Nuri,6-0,6,0,1,0,Completed,false,true,true
+AA012112,16 May 26,11,Ormond,Chelsea Heights,No. 2,Mia Vizelman,Hunter Ord Wotherspoon,Mia Vizelman,6-1,6,1,1,0,Completed,true,false,false
+AA012112,16 May 26,11,Ormond,Chelsea Heights,No. 3,Jade Wallace,Ryan Mitchell,Jade Wallace,6-0,6,0,1,0,Completed,true,false,false
+AA012112,16 May 26,11,Ormond,Chelsea Heights,No. 4,Shambhavi Ohja,Liam Phan,Shambhavi Ohja,6-1,6,1,1,0,Completed,true,false,false
+AA012114,16 May 26,11,Mordialloc,BLTC,No. 1,Josh Patterson,Lucas Salerno,Lucas Salerno,4-6,4,6,0,1,Completed,true,true,false
+AA012114,16 May 26,11,Mordialloc,BLTC,No. 2,Liam Wielgosz,Thyme Bennett,Liam Wielgosz,6-5,6,5,1,0,Completed,true,false,false
+AA012114,16 May 26,11,Mordialloc,BLTC,No. 3,Miller Foulds,Grace Crawford,Grace Crawford,1-6,1,6,0,1,Completed,true,false,false
+AA012114,16 May 26,11,Mordialloc,BLTC,No. 4,Ethan Thomas,Heidi Neilson,Heidi Neilson,2-6,2,6,0,1,Completed,true,false,false
+AA012121,23 May 26,12,Mordialloc,St James,No. 1,Archie Batson,Mu Li,Mu Li,2-6,2,6,0,1,Completed,true,false,false
+AA012121,23 May 26,12,Mordialloc,St James,No. 2,Tyler Maj,He Li,Tyler Maj,6-3,6,3,1,0,Completed,true,false,false
+AA012121,23 May 26,12,Mordialloc,St James,No. 3,Liam Wielgosz,Alexander Kuzma,Alexander Kuzma,4-6,4,6,0,1,Completed,true,false,false
+AA012121,23 May 26,12,Mordialloc,St James,No. 4,Miller Foulds,Yuvein Iddamalgoda,Yuvein Iddamalgoda,2-6,2,6,0,1,Completed,true,false,false
+AA012123,23 May 26,12,BLTC,Coatesville,No. 1,Lucas Salerno,Rishi Suresh,Lucas Salerno,6-5,6,5,1,0,Completed,true,false,false
+AA012123,23 May 26,12,BLTC,Coatesville,No. 2,Thyme Bennett,Rohan Shukin,Thyme Bennett,6-0,6,0,1,0,Completed,true,false,false
+AA012123,23 May 26,12,BLTC,Coatesville,No. 3,Grace Crawford,Benjamin Vashchenko,Grace Crawford,6-0,6,0,1,0,Completed,true,false,false
+AA012123,23 May 26,12,BLTC,Coatesville,No. 4,Heidi Neilson,Eesha Sujith,Eesha Sujith,0-6,0,6,0,1,Completed,true,false,true
+AA012124,23 May 26,12,Ormond,Port Melbourne,No. 1,Mia Vizelman,Parker Hitt,Parker Hitt,1-6,1,6,0,1,Completed,true,false,false
+AA012124,23 May 26,12,Ormond,Port Melbourne,No. 2,Jade Wallace,Avery Thomas,Jade Wallace,6-3,6,3,1,0,Completed,true,false,false
+AA012124,23 May 26,12,Ormond,Port Melbourne,No. 3,Shambhavi Ohja,Anna Katsanevakis,Shambhavi Ohja,6-4,6,4,1,0,Completed,true,false,false
+AA012124,23 May 26,12,Ormond,Port Melbourne,No. 4,Roshna Rajaram,Yaira Nirman,Roshna Rajaram,6-1,6,1,1,0,Completed,true,false,false
+AA012131,30 May 26,13,St James,Ormond,No. 1,Mu Li,Aidan Muscat,Aidan Muscat,0-6,0,6,0,1,Completed,true,false,true
+AA012131,30 May 26,13,St James,Ormond,No. 2,Alexander Kuzma,Mia Vizelman,Alexander Kuzma,6-0,6,0,1,0,Completed,true,false,false
+AA012131,30 May 26,13,St James,Ormond,No. 3,Yuvein Iddamalgoda,Jade Wallace,Yuvein Iddamalgoda,6-3,6,3,1,0,Completed,true,false,false
+AA012131,30 May 26,13,St James,Ormond,No. 4,Edward Foote,Roshna Rajaram,Edward Foote,6-4,6,4,1,0,Completed,true,false,false
+AA012132,30 May 26,13,Port Melbourne,Mordialloc,No. 1,Mia Gray,Archie Batson,Archie Batson,3-6,3,6,0,1,Completed,true,false,false
+AA012132,30 May 26,13,Port Melbourne,Mordialloc,No. 2,Anna Katsanevakis,Liam Wielgosz,Liam Wielgosz,3-6,3,6,0,1,Completed,true,false,false
+AA012132,30 May 26,13,Port Melbourne,Mordialloc,No. 3,Angie Zhao,[Unnamed emergency — TROLS AA012132 away code 3],[Unnamed emergency — TROLS AA012132 away code 3],1-6,1,6,0,1,Completed,false,false,true
+AA012132,30 May 26,13,Port Melbourne,Mordialloc,No. 4,Vivian Cunsolo,Ethan Thomas,Vivian Cunsolo,6-4,6,4,1,0,Completed,true,false,false
+AA012133,30 May 26,13,Coatesville,Chelsea Heights,No. 1,Rishi Suresh,Charlie Toomeywise,Rishi Suresh,6-2,6,2,1,0,Completed,true,false,true
+AA012133,30 May 26,13,Coatesville,Chelsea Heights,No. 2,Rohan Shukin,Ryan Mitchell,Ryan Mitchell,3-6,3,6,0,1,Completed,true,false,false
+AA012133,30 May 26,13,Coatesville,Chelsea Heights,No. 3,Sumanth Baliga,[Unnamed emergency — TROLS AA012133 away code 3],Sumanth Baliga,6-0,6,0,1,0,Completed,false,false,true
+AA012133,30 May 26,13,Coatesville,Chelsea Heights,No. 4,Benjamin Vashchenko,Liam Phan,Benjamin Vashchenko,6-3,6,3,1,0,Completed,true,false,false
+AA012301,,16,BLTC,Ormond,No. 1,Lucas Salerno,Adam Nuri,Adam Nuri,4-6,4,6,0,1,Completed,true,false,true
+AA012301,,16,BLTC,Ormond,No. 2,Thyme Bennett,Shambhavi Ohja,Thyme Bennett,6-2,6,2,1,0,Completed,true,false,false
+AA012301,,16,BLTC,Ormond,No. 3,Grace Crawford,Roshna Rajaram,Roshna Rajaram,4-6,4,6,0,1,Completed,true,false,false
+AA012301,,16,BLTC,Ormond,No. 4,Heidi Neilson,Noah Gincy,Heidi Neilson,6-0,6,0,1,0,Completed,true,false,true
+AA012302,,16,Mordialloc,Coatesville,No. 1,Archie Batson,Asher Bala,Asher Bala,2-6,2,6,0,1,Completed,true,false,false
+AA012302,,16,Mordialloc,Coatesville,No. 2,Tyler Maj,Rishi Suresh,Rishi Suresh,5-6,5,6,0,1,Completed,true,false,false
+AA012302,,16,Mordialloc,Coatesville,No. 3,Liam Wielgosz,Sumanth Baliga,Liam Wielgosz,6-4,6,4,1,0,Completed,true,false,false
+AA012302,,16,Mordialloc,Coatesville,No. 4,Miller Foulds,Benjamin Vashchenko,Miller Foulds,6-2,6,2,1,0,Completed,true,false,false
+AA012321,,17,BLTC,Mordialloc,No. 1,Lucas Salerno,Archie Batson,Lucas Salerno,6-3,6,3,1,0,Completed,true,false,false
+AA012321,,17,BLTC,Mordialloc,No. 2,Thyme Bennett,Tyler Maj,Thyme Bennett,6-3,6,3,1,0,Completed,true,false,false
+AA012321,,17,BLTC,Mordialloc,No. 3,Grace Crawford,Liam Wielgosz,Liam Wielgosz,5-6,5,6,0,1,Completed,true,false,false
+AA012321,,17,BLTC,Mordialloc,No. 4,Heidi Neilson,Miller Foulds,Heidi Neilson,6-3,6,3,1,0,Completed,true,false,false

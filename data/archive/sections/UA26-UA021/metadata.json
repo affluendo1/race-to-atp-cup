@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA26-UA021",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2020",
+  "season_id": "UA26",
+  "season_label": "Autumn 2020",
+  "source_section_code": "UA021",
+  "section_label": "Section 21",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Andrews MB KE",
+      "wins": 3,
+      "points": 51,
+      "percentage": 269.7,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Elsternwick Park",
+      "wins": 4,
+      "points": 41,
+      "percentage": 142.16,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Parkdale",
+      "wins": 3,
+      "points": 35,
+      "percentage": 122.52,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Sandringham",
+      "wins": 2,
+      "points": 34,
+      "percentage": 158.06,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Black Rock",
+      "wins": 3,
+      "points": 28,
+      "percentage": 72.66,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Highett",
+      "wins": 1,
+      "points": 20,
+      "percentage": 82.98,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC MLC",
+      "wins": 0,
+      "points": 13,
+      "percentage": 50.6,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Bentleigh Rec",
+      "wins": 0,
+      "points": 13,
+      "percentage": 40.67,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA26-UA021",
+  "fixtures": 24,
+  "completed_fixtures": 18,
+  "draw_fixtures": 56,
+  "singles_rubbers": 71,
+  "doubles_rubbers": 36,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

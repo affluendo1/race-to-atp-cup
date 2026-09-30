@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA35-UA006",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2024",
+  "season_id": "UA35",
+  "season_label": "Spring 2024",
+  "source_section_code": "UA006",
+  "section_label": "Section 6",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong",
+      "wins": 9,
+      "points": 85,
+      "percentage": 123.2,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Lauriston Red",
+      "wins": 7,
+      "points": 71,
+      "percentage": 126.97,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kings Park",
+      "wins": 6,
+      "points": 69.5,
+      "percentage": 120.82,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Royal Ave",
+      "wins": 6,
+      "points": 68,
+      "percentage": 99.63,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Le Page",
+      "wins": 7,
+      "points": 65,
+      "percentage": 102.26,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Lauriston Blue",
+      "wins": 3,
+      "points": 48.5,
+      "percentage": 90.0,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St Andrews MB",
+      "wins": 0,
+      "points": 13,
+      "percentage": 51.72,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA35-UA006",
+  "fixtures": 59,
+  "completed_fixtures": 40,
+  "draw_fixtures": 59,
+  "singles_rubbers": 159,
+  "doubles_rubbers": 80,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA10-UA009",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2012",
+  "season_id": "UA10",
+  "season_label": "Autumn 2012",
+  "source_section_code": "UA009",
+  "section_label": "Section 9",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Royal Ave",
+      "wins": 12,
+      "points": 113,
+      "percentage": 162.2,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Carmelite",
+      "wins": 9,
+      "points": 85,
+      "percentage": 109.51,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "St James 2",
+      "wins": 8,
+      "points": 79,
+      "percentage": 100.94,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "St James 1",
+      "wins": 4,
+      "points": 74,
+      "percentage": 111.67,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 5,
+      "points": 66,
+      "percentage": 93.96,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC",
+      "wins": 5,
+      "points": 63,
+      "percentage": 92.38,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong St Kevin's",
+      "wins": 1,
+      "points": 40,
+      "percentage": 84.28,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Glen Eira Brook",
+      "wins": 2,
+      "points": 40,
+      "percentage": 70.92,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA10-UA009",
+  "fixtures": 59,
+  "completed_fixtures": 49,
+  "draw_fixtures": 59,
+  "singles_rubbers": 196,
+  "doubles_rubbers": 98,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

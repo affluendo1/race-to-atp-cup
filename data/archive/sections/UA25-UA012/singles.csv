@@ -1,0 +1,213 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA012011,21 Jul 19,1,Caulfield Rec,Royal South Yarra,No. 1,Sofia Vladimirov,Indi Officer,Sofia Vladimirov,6-1,6,1,1,0,Completed,true,false,false
+UA012011,21 Jul 19,1,Caulfield Rec,Royal South Yarra,No. 2,Adam Geller,Allegra Tremlett,Allegra Tremlett,3-6,3,6,0,1,Completed,true,false,false
+UA012011,21 Jul 19,1,Caulfield Rec,Royal South Yarra,No. 3,Jasmin Farrugia,Priscilla Breadmore,Priscilla Breadmore,3-6,3,6,0,1,Completed,true,false,false
+UA012011,21 Jul 19,1,Caulfield Rec,Royal South Yarra,No. 4,Chestha Phulara,India Francis,India Francis,3-6,3,6,0,1,Completed,true,false,false
+UA012012,21 Jul 19,1,Dendy Park,Kooyong Scotch,No. 1,Celeste Ziaras,Edward Strauss,Celeste Ziaras,6-2,6,2,1,0,Completed,true,false,false
+UA012012,21 Jul 19,1,Dendy Park,Kooyong Scotch,No. 2,Zach Anquetil,Xavier Teoh,Zach Anquetil,7-6,7,6,1,0,Completed,true,false,false
+UA012012,21 Jul 19,1,Dendy Park,Kooyong Scotch,No. 3,Angus McIntire,Matthew Treagus,Matthew Treagus,1-6,1,6,0,1,Completed,true,false,false
+UA012012,21 Jul 19,1,Dendy Park,Kooyong Scotch,No. 4,Jack Loiacono,William Mustow,Jack Loiacono,6-1,6,1,1,0,Completed,true,false,false
+UA012013,21 Jul 19,1,Hurlingham Park,Black Rock,No. 1,Chloe Millar,Rosie Nolan,Rosie Nolan,5-7,5,7,0,1,Completed,true,false,false
+UA012013,21 Jul 19,1,Hurlingham Park,Black Rock,No. 2,Marlo Hearnden,Anna Nolan,Anna Nolan,3-6,3,6,0,1,Completed,true,false,false
+UA012013,21 Jul 19,1,Hurlingham Park,Black Rock,No. 3,Kikki Townsend,Monique Taranto,Kikki Townsend,6-1,6,1,1,0,Completed,true,false,false
+UA012013,21 Jul 19,1,Hurlingham Park,Black Rock,No. 4,Ben Murphy,Emma Enkelman,Emma Enkelman,4-6,4,6,0,1,Completed,true,false,false
+UA012014,21 Jul 19,1,GPHC,Highett,No. 1,Elan Zho,Harry Kidd,Harry Kidd,3-6,3,6,0,1,Completed,true,false,false
+UA012014,21 Jul 19,1,GPHC,Highett,No. 2,Alistair Hoffman-Hayes,Nick Horvath,Nick Horvath,1-6,1,6,0,1,Completed,true,false,false
+UA012014,21 Jul 19,1,GPHC,Highett,No. 3,James Walsh,Chris Huang,Chris Huang,3-6,3,6,0,1,Completed,true,false,false
+UA012014,21 Jul 19,1,GPHC,Highett,No. 4,Kara Majumdar,Dylan Smith,Dylan Smith,4-6,4,6,0,1,Completed,true,false,false
+UA012021,28 Jul 19,2,Highett,Caulfield Rec,No. 1,Harry Kidd,Sofia Vladimirov,Harry Kidd,6-3,6,3,1,0,Completed,true,false,false
+UA012021,28 Jul 19,2,Highett,Caulfield Rec,No. 2,Nick Horvath,Adam Geller,Adam Geller,4-6,4,6,0,1,Completed,true,false,false
+UA012021,28 Jul 19,2,Highett,Caulfield Rec,No. 3,Chris Huang,Jasmin Farrugia,Chris Huang,6-4,6,4,1,0,Completed,true,false,false
+UA012021,28 Jul 19,2,Highett,Caulfield Rec,No. 4,Maksi Kaurin,Arina Kostenko,Maksi Kaurin,6-3,6,3,1,0,Completed,true,false,false
+UA012022,28 Jul 19,2,Royal South Yarra,Dendy Park,No. 1,Priscilla Breadmore,Celeste Ziaras,Priscilla Breadmore,6-4,6,4,1,0,Completed,true,false,false
+UA012022,28 Jul 19,2,Royal South Yarra,Dendy Park,No. 2,Anna Eggleston,Zach Anquetil,Zach Anquetil,2-6,2,6,0,1,Completed,true,false,false
+UA012022,28 Jul 19,2,Royal South Yarra,Dendy Park,No. 3,Willo Robinson,Will Cameron,Will Cameron,4-6,4,6,0,1,Completed,true,false,false
+UA012022,28 Jul 19,2,Royal South Yarra,Dendy Park,No. 4,Phoebe Ollerenshaw,Jack Loiacono,Jack Loiacono,3-6,3,6,0,1,Completed,true,false,false
+UA012023,28 Jul 19,2,Kooyong Scotch,Hurlingham Park,No. 1,Edward Strauss,Chloe Millar,Chloe Millar,1-6,1,6,0,1,Completed,true,false,false
+UA012023,28 Jul 19,2,Kooyong Scotch,Hurlingham Park,No. 2,Harry Cohen,Marlo Hearnden,Marlo Hearnden,0-6,0,6,0,1,Completed,true,false,false
+UA012023,28 Jul 19,2,Kooyong Scotch,Hurlingham Park,No. 3,Xavier Teoh,Kikki Townsend,Xavier Teoh,6-2,6,2,1,0,Completed,true,false,false
+UA012023,28 Jul 19,2,Kooyong Scotch,Hurlingham Park,No. 4,Matthew Treagus,Milla Hearnden,Matthew Treagus,6-1,6,1,1,0,Completed,true,false,false
+UA012024,28 Jul 19,2,Black Rock,GPHC,No. 1,Rosie Nolan,Elan Zho,Rosie Nolan,6-2,6,2,1,0,Completed,true,false,false
+UA012024,28 Jul 19,2,Black Rock,GPHC,No. 2,Monique Taranto,Maddy Fuller,Monique Taranto,6-0,6,0,1,0,Completed,true,false,false
+UA012024,28 Jul 19,2,Black Rock,GPHC,No. 3,Emma Enkelman,James Walsh,Emma Enkelman,6-2,6,2,1,0,Completed,true,false,false
+UA012024,28 Jul 19,2,Black Rock,GPHC,No. 4,Charlotte Sutton,Kara Majumdar,Kara Majumdar,5-7,5,7,0,1,Completed,true,false,false
+UA012032,04 Aug 19,3,Dendy Park,Highett,No. 1,Celeste Ziaras,Chris Huang,Chris Huang,1-6,1,6,0,1,Completed,true,false,false
+UA012032,04 Aug 19,3,Dendy Park,Highett,No. 2,Zach Anquetil,Dylan Smith,Dylan Smith,4-6,4,6,0,1,Completed,true,false,false
+UA012032,04 Aug 19,3,Dendy Park,Highett,No. 3,Will Cameron,Maksi Kaurin,Maksi Kaurin,1-6,1,6,0,1,Completed,true,false,false
+UA012032,04 Aug 19,3,Dendy Park,Highett,No. 4,Angus McIntire,Thomas Petoon,Thomas Petoon,2-6,2,6,0,1,Completed,true,false,false
+UA012033,04 Aug 19,3,Hurlingham Park,Royal South Yarra,No. 1,Chloe Millar,Indi Officer,Chloe Millar,6-0,6,0,1,0,Completed,true,false,false
+UA012033,04 Aug 19,3,Hurlingham Park,Royal South Yarra,No. 2,Marlo Hearnden,Allegra Tremlett,Allegra Tremlett,3-6,3,6,0,1,Completed,true,false,false
+UA012033,04 Aug 19,3,Hurlingham Park,Royal South Yarra,No. 3,Kikki Townsend,Priscilla Breadmore,Kikki Townsend,6-3,6,3,1,0,Completed,true,false,false
+UA012033,04 Aug 19,3,Hurlingham Park,Royal South Yarra,No. 4,Milla Hearnden,Athena Kephala,Athena Kephala,3-6,3,6,0,1,Completed,true,false,false
+UA012034,04 Aug 19,3,GPHC,Kooyong Scotch,No. 1,Maddy Fuller,Edward Strauss,Edward Strauss,4-6,4,6,0,1,Completed,true,false,false
+UA012034,04 Aug 19,3,GPHC,Kooyong Scotch,No. 2,Alistair Hoffman-Hayes,Harry Cohen,Alistair Hoffman-Hayes,6-1,6,1,1,0,Completed,true,false,false
+UA012034,04 Aug 19,3,GPHC,Kooyong Scotch,No. 3,James Walsh,Xavier Teoh,James Walsh,7-5,7,5,1,0,Completed,true,false,false
+UA012034,04 Aug 19,3,GPHC,Kooyong Scotch,No. 4,Greta Young,Raha Raissi,Raha Raissi,3-6,3,6,0,1,Completed,true,false,false
+UA012051,18 Aug 19,5,Hurlingham Park,GPHC,No. 1,Marlo Hearnden,Elan Zho,Elan Zho,4-6,4,6,0,1,Completed,true,false,false
+UA012051,18 Aug 19,5,Hurlingham Park,GPHC,No. 2,Kikki Townsend,Alistair Hoffman-Hayes,Alistair Hoffman-Hayes,3-6,3,6,0,1,Completed,true,false,false
+UA012051,18 Aug 19,5,Hurlingham Park,GPHC,No. 3,Ben Murphy,James Walsh,James Walsh,3-6,3,6,0,1,Completed,true,false,false
+UA012051,18 Aug 19,5,Hurlingham Park,GPHC,No. 4,Milla Hearnden,Kara Majumdar,Kara Majumdar,3-6,3,6,0,1,Completed,true,false,false
+UA012052,18 Aug 19,5,Highett,Black Rock,No. 1,Harry Kidd,Rosie Nolan,Rosie Nolan,5-7,5,7,0,1,Completed,true,false,false
+UA012052,18 Aug 19,5,Highett,Black Rock,No. 2,Nick Horvath,Anna Nolan,Nick Horvath,6-2,6,2,1,0,Completed,true,false,false
+UA012052,18 Aug 19,5,Highett,Black Rock,No. 3,Maksi Kaurin,Monique Taranto,Maksi Kaurin,6-0,6,0,1,0,Completed,true,false,false
+UA012052,18 Aug 19,5,Highett,Black Rock,No. 4,Oliver Danckert,Charlotte Sutton,Charlotte Sutton,3-6,3,6,0,1,Completed,true,false,false
+UA012053,18 Aug 19,5,Kooyong Scotch,Royal South Yarra,No. 1,Matthew Treagus,Priscilla Breadmore,Matthew Treagus,6-1,6,1,1,0,Completed,true,false,false
+UA012053,18 Aug 19,5,Kooyong Scotch,Royal South Yarra,No. 2,Edward Strauss,India Francis,India Francis,2-6,2,6,0,1,Completed,true,false,false
+UA012053,18 Aug 19,5,Kooyong Scotch,Royal South Yarra,No. 3,Harry Cohen,Athena Kephala,Athena Kephala,1-6,1,6,0,1,Completed,true,false,false
+UA012053,18 Aug 19,5,Kooyong Scotch,Royal South Yarra,No. 4,Raha Raissi,Willo Robinson,Willo Robinson,0-6,0,6,0,1,Completed,true,false,false
+UA012054,18 Aug 19,5,Caulfield Rec,Dendy Park,No. 1,Adam Geller,Celeste Ziaras,Adam Geller,6-1,6,1,1,0,Completed,true,false,false
+UA012054,18 Aug 19,5,Caulfield Rec,Dendy Park,No. 2,Jasmin Farrugia,Zach Anquetil,Zach Anquetil,6-7,6,7,0,1,Completed,true,false,false
+UA012054,18 Aug 19,5,Caulfield Rec,Dendy Park,No. 3,Chestha Phulara,Will Cameron,Chestha Phulara,6-1,6,1,1,0,Completed,true,false,false
+UA012054,18 Aug 19,5,Caulfield Rec,Dendy Park,No. 4,Arina Kostenko,Jack Loiacono,Jack Loiacono,2-6,2,6,0,1,Completed,true,false,false
+UA012061,25 Aug 19,6,Dendy Park,Hurlingham Park,No. 1,Celeste Ziaras,Marlo Hearnden,Celeste Ziaras,7-6,7,6,1,0,Completed,true,false,false
+UA012061,25 Aug 19,6,Dendy Park,Hurlingham Park,No. 2,Zach Anquetil,Kikki Townsend,Zach Anquetil,6-4,6,4,1,0,Completed,true,false,false
+UA012061,25 Aug 19,6,Dendy Park,Hurlingham Park,No. 3,Angus McIntire,Ben Murphy,Ben Murphy,3-6,3,6,0,1,Completed,true,false,false
+UA012061,25 Aug 19,6,Dendy Park,Hurlingham Park,No. 4,Jack Loiacono,Milla Hearnden,Jack Loiacono,6-2,6,2,1,0,Completed,true,false,false
+UA012062,25 Aug 19,6,GPHC,Caulfield Rec,No. 1,Elan Zho,Sofia Vladimirov,Sofia Vladimirov,6-7,6,7,0,1,Completed,true,false,false
+UA012062,25 Aug 19,6,GPHC,Caulfield Rec,No. 2,Maddy Fuller,Jasmin Farrugia,Jasmin Farrugia,4-6,4,6,0,1,Completed,true,false,false
+UA012062,25 Aug 19,6,GPHC,Caulfield Rec,No. 3,Alistair Hoffman-Hayes,Chestha Phulara,Chestha Phulara,1-6,1,6,0,1,Completed,true,false,false
+UA012062,25 Aug 19,6,GPHC,Caulfield Rec,No. 4,Kara Majumdar,Arina Kostenko,Kara Majumdar,6-0,6,0,1,0,Completed,true,false,false
+UA012063,25 Aug 19,6,Black Rock,Kooyong Scotch,No. 1,Rosie Nolan,Edward Strauss,Rosie Nolan,6-1,6,1,1,0,Completed,true,false,false
+UA012063,25 Aug 19,6,Black Rock,Kooyong Scotch,No. 2,Monique Taranto,Harry Cohen,Monique Taranto,6-2,6,2,1,0,Completed,true,false,false
+UA012063,25 Aug 19,6,Black Rock,Kooyong Scotch,No. 3,Charlotte Sutton,Xavier Teoh,Charlotte Sutton,6-3,6,3,1,0,Completed,true,false,false
+UA012063,25 Aug 19,6,Black Rock,Kooyong Scotch,No. 4,Emma Enkelman,Raha Raissi,Emma Enkelman,6-2,6,2,1,0,Completed,true,false,false
+UA012064,25 Aug 19,6,Royal South Yarra,Highett,No. 1,Indi Officer,Harry Kidd,Harry Kidd,0-6,0,6,0,1,Completed,true,false,false
+UA012064,25 Aug 19,6,Royal South Yarra,Highett,No. 2,India Francis,Chris Huang,Chris Huang,6-7,6,7,0,1,Completed,true,false,false
+UA012064,25 Aug 19,6,Royal South Yarra,Highett,No. 3,Anna Eggleston,Dylan Smith,Dylan Smith,1-6,1,6,0,1,Completed,true,false,false
+UA012064,25 Aug 19,6,Royal South Yarra,Highett,No. 4,Phoebe Ollerenshaw,Maksi Kaurin,Maksi Kaurin,0-6,0,6,0,1,Completed,true,false,false
+UA012071,01 Sep 19,7,Caulfield Rec,Hurlingham Park,No. 1,Sofia Vladimirov,Chloe Millar,Chloe Millar,3-6,3,6,0,1,Completed,true,false,false
+UA012071,01 Sep 19,7,Caulfield Rec,Hurlingham Park,No. 2,Adam Geller,Marlo Hearnden,Adam Geller,6-1,6,1,1,0,Completed,true,false,false
+UA012071,01 Sep 19,7,Caulfield Rec,Hurlingham Park,No. 3,Jasmin Farrugia,Kikki Townsend,Jasmin Farrugia,6-2,6,2,1,0,Completed,true,false,false
+UA012071,01 Sep 19,7,Caulfield Rec,Hurlingham Park,No. 4,Chestha Phulara,Ben Murphy,Ben Murphy,4-6,4,6,0,1,Completed,true,false,false
+UA012072,01 Sep 19,7,Dendy Park,GPHC,No. 1,Celeste Ziaras,Elan Zho,Elan Zho,2-6,2,6,0,1,Completed,true,false,false
+UA012072,01 Sep 19,7,Dendy Park,GPHC,No. 2,Zach Anquetil,Maddy Fuller,Zach Anquetil,6-0,6,0,1,0,Completed,true,false,false
+UA012072,01 Sep 19,7,Dendy Park,GPHC,No. 3,Angus McIntire,Kara Majumdar,Kara Majumdar,4-6,4,6,0,1,Completed,true,false,false
+UA012072,01 Sep 19,7,Dendy Park,GPHC,No. 4,Jack Loiacono,Greta Young,Jack Loiacono,6-1,6,1,1,0,Completed,true,false,false
+UA012073,01 Sep 19,7,Highett,Kooyong Scotch,No. 1,Harry Kidd,Matthew Treagus,Harry Kidd,7-5,7,5,1,0,Completed,true,false,false
+UA012073,01 Sep 19,7,Highett,Kooyong Scotch,No. 2,Nick Horvath,Harry Cohen,Nick Horvath,6-0,6,0,1,0,Completed,true,false,false
+UA012073,01 Sep 19,7,Highett,Kooyong Scotch,No. 3,Chris Huang,Xavier Teoh,Chris Huang,6-0,6,0,1,0,Completed,true,false,false
+UA012073,01 Sep 19,7,Highett,Kooyong Scotch,No. 4,Maksi Kaurin,Raha Raissi,Maksi Kaurin,6-4,6,4,1,0,Completed,true,false,false
+UA012074,01 Sep 19,7,Black Rock,Royal South Yarra,No. 1,Rosie Nolan,Indi Officer,Rosie Nolan,6-2,6,2,1,0,Completed,true,false,false
+UA012074,01 Sep 19,7,Black Rock,Royal South Yarra,No. 2,Anna Nolan,Allegra Tremlett,Allegra Tremlett,1-6,1,6,0,1,Completed,true,false,false
+UA012074,01 Sep 19,7,Black Rock,Royal South Yarra,No. 3,Monique Taranto,Priscilla Breadmore,Priscilla Breadmore,3-6,3,6,0,1,Completed,true,false,false
+UA012074,01 Sep 19,7,Black Rock,Royal South Yarra,No. 4,Emma Enkelman,Willo Robinson,Emma Enkelman,6-1,6,1,1,0,Completed,true,false,false
+UA012081,08 Sep 19,8,Royal South Yarra,Caulfield Rec,No. 1,Indi Officer,Sofia Vladimirov,Indi Officer,6-4,6,4,1,0,Completed,true,false,false
+UA012081,08 Sep 19,8,Royal South Yarra,Caulfield Rec,No. 2,India Francis,Adam Geller,Adam Geller,2-6,2,6,0,1,Completed,true,false,false
+UA012081,08 Sep 19,8,Royal South Yarra,Caulfield Rec,No. 3,Athena Kephala,Chestha Phulara,Athena Kephala,6-3,6,3,1,0,Completed,true,false,false
+UA012081,08 Sep 19,8,Royal South Yarra,Caulfield Rec,No. 4,Phoebe Ollerenshaw,Arina Kostenko,Phoebe Ollerenshaw,6-1,6,1,1,0,Completed,true,false,false
+UA012082,08 Sep 19,8,Kooyong Scotch,Dendy Park,No. 1,Matthew Treagus,Celeste Ziaras,Matthew Treagus,6-0,6,0,1,0,Completed,true,false,false
+UA012082,08 Sep 19,8,Kooyong Scotch,Dendy Park,No. 2,Xavier Teoh,Will Cameron,Xavier Teoh,6-3,6,3,1,0,Completed,true,false,false
+UA012082,08 Sep 19,8,Kooyong Scotch,Dendy Park,No. 3,Raha Raissi,Angus McIntire,Angus McIntire,3-6,3,6,0,1,Completed,true,false,false
+UA012082,08 Sep 19,8,Kooyong Scotch,Dendy Park,No. 4,Ashton Coster,Jack Loiacono,Ashton Coster,7-6,7,6,1,0,Completed,true,false,false
+UA012083,08 Sep 19,8,Black Rock,Hurlingham Park,No. 1,Rosie Nolan,Chloe Millar,Rosie Nolan,7-5,7,5,1,0,Completed,true,false,false
+UA012083,08 Sep 19,8,Black Rock,Hurlingham Park,No. 2,Anna Nolan,Marlo Hearnden,Marlo Hearnden,2-6,2,6,0,1,Completed,true,false,false
+UA012083,08 Sep 19,8,Black Rock,Hurlingham Park,No. 3,Monique Taranto,Kikki Townsend,Monique Taranto,6-1,6,1,1,0,Completed,true,false,false
+UA012083,08 Sep 19,8,Black Rock,Hurlingham Park,No. 4,Emma Enkelman,Ben Murphy,Emma Enkelman,6-3,6,3,1,0,Completed,true,false,false
+UA012084,08 Sep 19,8,Highett,GPHC,No. 1,Harry Kidd,Alistair Hoffman-Hayes,Harry Kidd,6-0,6,0,1,0,Completed,true,false,false
+UA012084,08 Sep 19,8,Highett,GPHC,No. 2,Chris Huang,James Walsh,Chris Huang,6-1,6,1,1,0,Completed,true,false,false
+UA012084,08 Sep 19,8,Highett,GPHC,No. 3,Dylan Smith,Kara Majumdar,Dylan Smith,6-1,6,1,1,0,Completed,true,false,false
+UA012084,08 Sep 19,8,Highett,GPHC,No. 4,Maksi Kaurin,[Unnamed player — TROLS UA012084 away code 4],Maksi Kaurin,6-0,6,0,1,0,Completed,false,false,false
+UA012091,15 Sep 19,9,Caulfield Rec,Highett,No. 1,Sofia Vladimirov,Nick Horvath,Nick Horvath,0-6,0,6,0,1,Completed,true,false,false
+UA012091,15 Sep 19,9,Caulfield Rec,Highett,No. 2,Jasmin Farrugia,Chris Huang,Chris Huang,0-6,0,6,0,1,Completed,true,false,false
+UA012091,15 Sep 19,9,Caulfield Rec,Highett,No. 3,Chestha Phulara,Dylan Smith,Chestha Phulara,7-5,7,5,1,0,Completed,true,false,false
+UA012091,15 Sep 19,9,Caulfield Rec,Highett,No. 4,Arina Kostenko,Maksi Kaurin,Maksi Kaurin,1-6,1,6,0,1,Completed,true,false,false
+UA012092,15 Sep 19,9,Dendy Park,Royal South Yarra,No. 1,Jack Loiacono,Allegra Tremlett,Jack Loiacono,6-2,6,2,1,0,Completed,true,false,false
+UA012092,15 Sep 19,9,Dendy Park,Royal South Yarra,No. 2,Darcy Jaks Adams,Priscilla Breadmore,Darcy Jaks Adams,6-2,6,2,1,0,Completed,true,false,false
+UA012092,15 Sep 19,9,Dendy Park,Royal South Yarra,No. 3,John Feng,Phoebe Ollerenshaw,John Feng,6-2,6,2,1,0,Completed,true,false,false
+UA012092,15 Sep 19,9,Dendy Park,Royal South Yarra,No. 4,Jack Roper,Gigi Megalogenis,Gigi Megalogenis,4-6,4,6,0,1,Completed,true,false,false
+UA012093,15 Sep 19,9,Hurlingham Park,Kooyong Scotch,No. 1,Chloe Millar,Matthew Treagus,Matthew Treagus,2-6,2,6,0,1,Completed,true,false,false
+UA012093,15 Sep 19,9,Hurlingham Park,Kooyong Scotch,No. 2,Kikki Townsend,Edward Strauss,Kikki Townsend,6-1,6,1,1,0,Completed,true,false,false
+UA012093,15 Sep 19,9,Hurlingham Park,Kooyong Scotch,No. 3,Sophie Pfhal,Harry Cohen,Sophie Pfhal,6-0,6,0,1,0,Completed,true,false,false
+UA012093,15 Sep 19,9,Hurlingham Park,Kooyong Scotch,No. 4,Andre Nyborg,Lachlan Li,Andre Nyborg,6-4,6,4,1,0,Completed,true,false,false
+UA012101,13 Oct 19,10,Black Rock,Caulfield Rec,No. 1,Rosie Nolan,Adam Geller,Rosie Nolan,6-2,6,2,1,0,Completed,true,false,false
+UA012101,13 Oct 19,10,Black Rock,Caulfield Rec,No. 2,Anna Nolan,Jasmin Farrugia,Anna Nolan,6-3,6,3,1,0,Completed,true,false,false
+UA012101,13 Oct 19,10,Black Rock,Caulfield Rec,No. 3,Monique Taranto,Chestha Phulara,Monique Taranto,7-5,7,5,1,0,Completed,true,false,false
+UA012101,13 Oct 19,10,Black Rock,Caulfield Rec,No. 4,Charlotte Sutton,Arina Kostenko,Charlotte Sutton,6-4,6,4,1,0,Completed,true,false,false
+UA012102,13 Oct 19,10,Highett,Dendy Park,No. 1,Nick Horvath,Celeste Ziaras,Nick Horvath,6-2,6,2,1,0,Completed,true,false,false
+UA012102,13 Oct 19,10,Highett,Dendy Park,No. 2,Chris Huang,Will Cameron,Chris Huang,6-2,6,2,1,0,Completed,true,false,false
+UA012102,13 Oct 19,10,Highett,Dendy Park,No. 3,Dylan Smith,Angus McIntire,Dylan Smith,6-1,6,1,1,0,Completed,true,false,false
+UA012102,13 Oct 19,10,Highett,Dendy Park,No. 4,Maksi Kaurin,Jack Loiacono,Jack Loiacono,4-6,4,6,0,1,Completed,true,false,false
+UA012103,13 Oct 19,10,Royal South Yarra,Hurlingham Park,No. 1,Allegra Tremlett,Chloe Millar,Chloe Millar,2-6,2,6,0,1,Completed,true,false,false
+UA012103,13 Oct 19,10,Royal South Yarra,Hurlingham Park,No. 2,Priscilla Breadmore,Marlo Hearnden,Priscilla Breadmore,6-1,6,1,1,0,Completed,true,false,false
+UA012103,13 Oct 19,10,Royal South Yarra,Hurlingham Park,No. 3,India Francis,Kikki Townsend,India Francis,7-6,7,6,1,0,Completed,true,false,false
+UA012103,13 Oct 19,10,Royal South Yarra,Hurlingham Park,No. 4,Phoebe Ollerenshaw,Ben Murphy,Ben Murphy,2-6,2,6,0,1,Completed,true,false,false
+UA012104,13 Oct 19,10,Kooyong Scotch,GPHC,No. 1,Matthew Treagus,Elan Zho,Matthew Treagus,6-1,6,1,1,0,Completed,true,false,false
+UA012104,13 Oct 19,10,Kooyong Scotch,GPHC,No. 2,Edward Strauss,Maddy Fuller,Edward Strauss,6-0,6,0,1,0,Completed,true,false,false
+UA012104,13 Oct 19,10,Kooyong Scotch,GPHC,No. 3,Lachlan Li,Alistair Hoffman-Hayes,Lachlan Li,6-0,6,0,1,0,Completed,true,false,false
+UA012104,13 Oct 19,10,Kooyong Scotch,GPHC,No. 4,Xavier Teoh,[Unnamed player — TROLS UA012104 away code 4],Xavier Teoh,6-0,6,0,1,0,Completed,false,false,false
+UA012111,20 Oct 19,11,Caulfield Rec,Kooyong Scotch,No. 1,Sofia Vladimirov,Matthew Treagus,Matthew Treagus,0-6,0,6,0,1,Completed,true,false,false
+UA012111,20 Oct 19,11,Caulfield Rec,Kooyong Scotch,No. 2,Adam Geller,Lachlan Li,Adam Geller,6-3,6,3,1,0,Completed,true,false,false
+UA012111,20 Oct 19,11,Caulfield Rec,Kooyong Scotch,No. 3,Jasmin Farrugia,Xavier Teoh,Xavier Teoh,3-6,3,6,0,1,Completed,true,false,false
+UA012111,20 Oct 19,11,Caulfield Rec,Kooyong Scotch,No. 4,Chestha Phulara,Raha Raissi,Raha Raissi,2-6,2,6,0,1,Completed,true,false,false
+UA012112,20 Oct 19,11,Dendy Park,Black Rock,No. 1,Celeste Ziaras,Rosie Nolan,Rosie Nolan,0-6,0,6,0,1,Completed,true,false,false
+UA012112,20 Oct 19,11,Dendy Park,Black Rock,No. 2,Zach Anquetil,Monique Taranto,Zach Anquetil,6-3,6,3,1,0,Completed,true,false,false
+UA012112,20 Oct 19,11,Dendy Park,Black Rock,No. 3,Angus McIntire,Emma Enkelman,Emma Enkelman,2-6,2,6,0,1,Completed,true,false,false
+UA012112,20 Oct 19,11,Dendy Park,Black Rock,No. 4,Jack Loiacono,Charlotte Sutton,Jack Loiacono,6-3,6,3,1,0,Completed,true,false,false
+UA012113,20 Oct 19,11,Hurlingham Park,Highett,No. 1,Chloe Millar,Harry Kidd,Harry Kidd,3-6,3,6,0,1,Completed,true,false,false
+UA012113,20 Oct 19,11,Hurlingham Park,Highett,No. 2,Kikki Townsend,Chris Huang,Chris Huang,4-6,4,6,0,1,Completed,true,false,false
+UA012113,20 Oct 19,11,Hurlingham Park,Highett,No. 3,Ben Murphy,Dylan Smith,Dylan Smith,4-6,4,6,0,1,Completed,true,false,false
+UA012113,20 Oct 19,11,Hurlingham Park,Highett,No. 4,Milla Hearnden,Maksi Kaurin,Maksi Kaurin,1-6,1,6,0,1,Completed,true,false,false
+UA012114,20 Oct 19,11,GPHC,Royal South Yarra,No. 1,Elan Zho,Allegra Tremlett,Allegra Tremlett,5-7,5,7,0,1,Completed,true,false,false
+UA012114,20 Oct 19,11,GPHC,Royal South Yarra,No. 2,Maddy Fuller,India Francis,India Francis,2-6,2,6,0,1,Completed,true,false,false
+UA012114,20 Oct 19,11,GPHC,Royal South Yarra,No. 3,Alistair Hoffman-Hayes,Athena Kephala,Athena Kephala,3-6,3,6,0,1,Completed,true,false,false
+UA012114,20 Oct 19,11,GPHC,Royal South Yarra,No. 4,Kara Majumdar,Phoebe Ollerenshaw,Kara Majumdar,6-2,6,2,1,0,Completed,true,false,false
+UA012121,27 Oct 19,12,GPHC,Hurlingham Park,No. 1,Elan Zho,Chloe Millar,Chloe Millar,2-6,2,6,0,1,Completed,true,false,false
+UA012121,27 Oct 19,12,GPHC,Hurlingham Park,No. 2,Alistair Hoffman-Hayes,Kikki Townsend,Kikki Townsend,4-6,4,6,0,1,Completed,true,false,false
+UA012121,27 Oct 19,12,GPHC,Hurlingham Park,No. 3,James Walsh,Ben Murphy,Ben Murphy,3-6,3,6,0,1,Completed,true,false,false
+UA012121,27 Oct 19,12,GPHC,Hurlingham Park,No. 4,Greta Young,Milla Hearnden,Milla Hearnden,1-6,1,6,0,1,Completed,true,false,false
+UA012122,27 Oct 19,12,Black Rock,Highett,No. 1,Rosie Nolan,Harry Kidd,Harry Kidd,3-6,3,6,0,1,Completed,true,false,false
+UA012122,27 Oct 19,12,Black Rock,Highett,No. 2,Monique Taranto,Nick Horvath,Nick Horvath,2-6,2,6,0,1,Completed,true,false,false
+UA012122,27 Oct 19,12,Black Rock,Highett,No. 3,Emma Enkelman,Chris Huang,Chris Huang,4-6,4,6,0,1,Completed,true,false,false
+UA012122,27 Oct 19,12,Black Rock,Highett,No. 4,Charlotte Sutton,Maksi Kaurin,Maksi Kaurin,0-6,0,6,0,1,Completed,true,false,false
+UA012123,27 Oct 19,12,Royal South Yarra,Kooyong Scotch,No. 1,Indi Officer,Matthew Treagus,Matthew Treagus,4-6,4,6,0,1,Completed,true,false,false
+UA012123,27 Oct 19,12,Royal South Yarra,Kooyong Scotch,No. 2,Allegra Tremlett,Edward Strauss,Allegra Tremlett,6-1,6,1,1,0,Completed,true,false,false
+UA012123,27 Oct 19,12,Royal South Yarra,Kooyong Scotch,No. 3,Priscilla Breadmore,Lachlan Li,Priscilla Breadmore,6-2,6,2,1,0,Completed,true,false,false
+UA012123,27 Oct 19,12,Royal South Yarra,Kooyong Scotch,No. 4,Athena Kephala,Raha Raissi,Raha Raissi,5-7,5,7,0,1,Completed,true,false,false
+UA012124,27 Oct 19,12,Dendy Park,Caulfield Rec,No. 1,Zach Anquetil,Adam Geller,Adam Geller,6-7,6,7,0,1,Completed,true,false,false
+UA012124,27 Oct 19,12,Dendy Park,Caulfield Rec,No. 2,Will Cameron,Jasmin Farrugia,Jasmin Farrugia,4-6,4,6,0,1,Completed,true,false,false
+UA012124,27 Oct 19,12,Dendy Park,Caulfield Rec,No. 3,Angus McIntire,[Unnamed player — TROLS UA012124 away code 3],Angus McIntire,6-0,6,0,1,0,Completed,false,false,false
+UA012124,27 Oct 19,12,Dendy Park,Caulfield Rec,No. 4,Jack Loiacono,Arina Kostenko,Jack Loiacono,6-0,6,0,1,0,Completed,true,false,false
+UA012131,10 Nov 19,13,Hurlingham Park,Dendy Park,No. 1,Chloe Millar,Zach Anquetil,Chloe Millar,7-6,7,6,1,0,Completed,true,false,false
+UA012131,10 Nov 19,13,Hurlingham Park,Dendy Park,No. 2,Marlo Hearnden,Will Cameron,Will Cameron,2-6,2,6,0,1,Completed,true,false,false
+UA012131,10 Nov 19,13,Hurlingham Park,Dendy Park,No. 3,Kikki Townsend,Angus McIntire,Angus McIntire,6-7,6,7,0,1,Completed,true,false,false
+UA012131,10 Nov 19,13,Hurlingham Park,Dendy Park,No. 4,Ben Murphy,Jack Loiacono,Jack Loiacono,1-6,1,6,0,1,Completed,true,false,false
+UA012132,10 Nov 19,13,Caulfield Rec,GPHC,No. 1,[Unnamed player — TROLS UA012132 home code 1],Elan Zho,Elan Zho,0-6,0,6,0,1,Completed,false,false,false
+UA012132,10 Nov 19,13,Caulfield Rec,GPHC,No. 2,Adam Geller,James Walsh,Adam Geller,6-3,6,3,1,0,Completed,true,false,false
+UA012132,10 Nov 19,13,Caulfield Rec,GPHC,No. 3,Jasmin Farrugia,Kara Majumdar,Kara Majumdar,2-6,2,6,0,1,Completed,true,false,false
+UA012132,10 Nov 19,13,Caulfield Rec,GPHC,No. 4,Chestha Phulara,Greta Young,Chestha Phulara,6-3,6,3,1,0,Completed,true,false,false
+UA012133,10 Nov 19,13,Kooyong Scotch,Black Rock,No. 1,Matthew Treagus,Emma Enkelman,Matthew Treagus,6-1,6,1,1,0,Completed,true,false,false
+UA012133,10 Nov 19,13,Kooyong Scotch,Black Rock,No. 2,Edward Strauss,Jake Taranto,Jake Taranto,4-6,4,6,0,1,Completed,true,false,false
+UA012133,10 Nov 19,13,Kooyong Scotch,Black Rock,No. 3,Harry Cohen,Joseph Webber,Joseph Webber,0-6,0,6,0,1,Completed,true,false,false
+UA012133,10 Nov 19,13,Kooyong Scotch,Black Rock,No. 4,Raha Raissi,Emily Hubbard,Raha Raissi,6-2,6,2,1,0,Completed,true,false,false
+UA012134,10 Nov 19,13,Highett,Royal South Yarra,No. 1,Harry Kidd,Indi Officer,Harry Kidd,6-1,6,1,1,0,Completed,true,false,false
+UA012134,10 Nov 19,13,Highett,Royal South Yarra,No. 2,Chris Huang,Anna Eggleston,Chris Huang,6-3,6,3,1,0,Completed,true,false,false
+UA012134,10 Nov 19,13,Highett,Royal South Yarra,No. 3,Dylan Smith,Phoebe Ollerenshaw,Dylan Smith,6-1,6,1,1,0,Completed,true,false,false
+UA012134,10 Nov 19,13,Highett,Royal South Yarra,No. 4,Maksi Kaurin,Will Officer,Maksi Kaurin,6-0,6,0,1,0,Completed,true,false,false
+UA012141,17 Nov 19,14,Hurlingham Park,Caulfield Rec,No. 1,Chloe Millar,Adam Geller,Chloe Millar,6-2,6,2,1,0,Completed,true,false,false
+UA012141,17 Nov 19,14,Hurlingham Park,Caulfield Rec,No. 2,Marlo Hearnden,Jasmin Farrugia,Jasmin Farrugia,2-6,2,6,0,1,Completed,true,false,false
+UA012141,17 Nov 19,14,Hurlingham Park,Caulfield Rec,No. 3,Ben Murphy,Chestha Phulara,Ben Murphy,6-3,6,3,1,0,Completed,true,false,false
+UA012141,17 Nov 19,14,Hurlingham Park,Caulfield Rec,No. 4,Milla Hearnden,Georgia Papasotiriou,Georgia Papasotiriou,1-6,1,6,0,1,Completed,true,false,false
+UA012142,17 Nov 19,14,GPHC,Dendy Park,No. 1,Elan Zho,Celeste Ziaras,Elan Zho,7-5,7,5,1,0,Completed,true,false,false
+UA012142,17 Nov 19,14,GPHC,Dendy Park,No. 2,Maddy Fuller,Zach Anquetil,Zach Anquetil,0-6,0,6,0,1,Completed,true,false,false
+UA012142,17 Nov 19,14,GPHC,Dendy Park,No. 3,James Walsh,Will Cameron,Will Cameron,4-6,4,6,0,1,Completed,true,false,false
+UA012142,17 Nov 19,14,GPHC,Dendy Park,No. 4,Greta Young,Jack Loiacono,Jack Loiacono,0-6,0,6,0,1,Completed,true,false,false
+UA012143,17 Nov 19,14,Kooyong Scotch,Highett,No. 1,Matthew Treagus,Harry Kidd,Matthew Treagus,6-2,6,2,1,0,Completed,true,false,false
+UA012143,17 Nov 19,14,Kooyong Scotch,Highett,No. 2,Edward Strauss,Nick Horvath,Nick Horvath,2-6,2,6,0,1,Completed,true,false,false
+UA012143,17 Nov 19,14,Kooyong Scotch,Highett,No. 3,Xavier Teoh,Dylan Smith,Dylan Smith,6-7,6,7,0,1,Completed,true,false,false
+UA012143,17 Nov 19,14,Kooyong Scotch,Highett,No. 4,Harry Cohen,Maksi Kaurin,Maksi Kaurin,0-6,0,6,0,1,Completed,true,false,false
+UA012144,17 Nov 19,14,Royal South Yarra,Black Rock,No. 1,Allegra Tremlett,Rosie Nolan,Allegra Tremlett,7-6,7,6,1,0,Completed,true,false,false
+UA012144,17 Nov 19,14,Royal South Yarra,Black Rock,No. 2,Priscilla Breadmore,Monique Taranto,Priscilla Breadmore,6-4,6,4,1,0,Completed,true,false,false
+UA012144,17 Nov 19,14,Royal South Yarra,Black Rock,No. 3,India Francis,Emma Enkelman,Emma Enkelman,3-6,3,6,0,1,Completed,true,false,false
+UA012144,17 Nov 19,14,Royal South Yarra,Black Rock,No. 4,Athena Kephala,Charlotte Sutton,Athena Kephala,6-3,6,3,1,0,Completed,true,false,false
+UA012301,,16,Highett,Black Rock,No. 1,Harry Kidd,Rosie Nolan,Harry Kidd,7-5,7,5,1,0,Completed,true,false,false
+UA012301,,16,Highett,Black Rock,No. 2,Nick Horvath,Monique Taranto,Nick Horvath,6-0,6,0,1,0,Completed,true,false,false
+UA012301,,16,Highett,Black Rock,No. 3,Chris Huang,Emma Enkelman,Chris Huang,7-6,7,6,1,0,Completed,true,false,false
+UA012301,,16,Highett,Black Rock,No. 4,Dylan Smith,Charlotte Sutton,Dylan Smith,7-5,7,5,1,0,Completed,true,false,false
+UA012302,,16,Dendy Park,Royal South Yarra,No. 1,Celeste Ziaras,Indi Officer,Celeste Ziaras,7-6,7,6,1,0,Completed,true,false,false
+UA012302,,16,Dendy Park,Royal South Yarra,No. 2,Zach Anquetil,Allegra Tremlett,Zach Anquetil,6-2,6,2,1,0,Completed,true,false,false
+UA012302,,16,Dendy Park,Royal South Yarra,No. 3,Will Cameron,Priscilla Breadmore,Will Cameron,6-2,6,2,1,0,Completed,true,false,false
+UA012302,,16,Dendy Park,Royal South Yarra,No. 4,Jack Loiacono,India Francis,Jack Loiacono,6-2,6,2,1,0,Completed,true,false,false
+UA012321,,17,Highett,Dendy Park,No. 1,Harry Kidd,Celeste Ziaras,Harry Kidd,6-1,6,1,1,0,Completed,true,false,false
+UA012321,,17,Highett,Dendy Park,No. 2,Nick Horvath,Zach Anquetil,Nick Horvath,6-1,6,1,1,0,Completed,true,false,false
+UA012321,,17,Highett,Dendy Park,No. 3,Chris Huang,Will Cameron,Chris Huang,6-3,6,3,1,0,Completed,true,false,false
+UA012321,,17,Highett,Dendy Park,No. 4,Dylan Smith,Jack Loiacono,Jack Loiacono,2-6,2,6,0,1,Completed,true,false,false

@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA001012,21 Jul 13,1,regular,Round 1,Carmelite,Coatesville,2,8,2,4,,,25,26,Completed,
+UA001013,21 Jul 13,1,regular,Round 1,Kooyong 1,Kooyong 2,10,0,6,0,,,36,7,Completed,
+UA001014,21 Jul 13,1,regular,Round 1,Dendy Park 1,Dendy Park 2,10,0,6,0,,,38,21,Completed,
+pending-ua001-r1-hampton-bye,21 Jul 13,1,regular,Round 1,Hampton,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001021,28 Jul 13,2,regular,Round 2,Dendy Park 2,Hampton,1,9,1,5,,,26,36,Completed,
+UA001023,28 Jul 13,2,regular,Round 2,Coatesville,Kooyong 1,1,9,1,5,,,23,36,Completed,
+UA001024,28 Jul 13,2,regular,Round 2,Kooyong 2,Dendy Park 1,0,10,0,6,,,11,37,Completed,
+pending-ua001-r2-bye-carmelite,28 Jul 13,2,regular,Round 2,Bye,Carmelite,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001031,04 Aug 13,3,regular,Round 3,Hampton,Kooyong 2,2,8,2,4,,,26,31,Completed,
+UA001032,04 Aug 13,3,regular,Round 3,Carmelite,Dendy Park 2,10,0,6,0,,,37,19,Completed,
+UA001034,04 Aug 13,3,regular,Round 3,Dendy Park 1,Coatesville,3,7,3,3,,,20,22,Completed,
+pending-ua001-r3-kooyong-1-bye,04 Aug 13,3,regular,Round 3,Kooyong 1,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001041,11 Aug 13,4,regular,Round 4,Coatesville,Hampton,2,8,2,4,,,21,28,Completed,
+UA001042,11 Aug 13,4,regular,Round 4,Kooyong 2,Carmelite,8,2,4,2,,,29,20,Completed,
+UA001043,11 Aug 13,4,regular,Round 4,Dendy Park 2,Kooyong 1,0,10,0,6,,,9,36,Completed,
+pending-ua001-r4-bye-dendy-park-1,11 Aug 13,4,regular,Round 4,Bye,Dendy Park 1,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001051,18 Aug 13,5,regular,Round 5,Kooyong 1,Dendy Park 1,9,1,5,1,,,34,17,Completed,
+UA001052,18 Aug 13,5,regular,Round 5,Dendy Park 2,Kooyong 2,8,2,4,2,,,27,22,Completed,
+pending-ua001-r5-coatesville-bye,18 Aug 13,5,regular,Round 5,Coatesville,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua001-r5-hampton-carmelite,18 Aug 13,5,regular,Round 5,Hampton,Carmelite,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA001061,25 Aug 13,6,regular,Round 6,Carmelite,Kooyong 1,0,10,0,6,,,13,37,Completed,
+UA001062,25 Aug 13,6,regular,Round 6,Dendy Park 1,Hampton,7,3,3,3,,,25,23,Completed,
+UA001063,25 Aug 13,6,regular,Round 6,Kooyong 2,Coatesville,3,7,3,3,,,28,29,Completed,
+pending-ua001-r6-bye-dendy-park-2,25 Aug 13,6,regular,Round 6,Bye,Dendy Park 2,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001071,01 Sep 13,7,regular,Round 7,Hampton,Kooyong 1,6,4,2,4,,,19,25,Completed,
+UA001072,01 Sep 13,7,regular,Round 7,Carmelite,Dendy Park 1,2,8,2,4,,,26,32,Completed,
+UA001073,01 Sep 13,7,regular,Round 7,Dendy Park 2,Coatesville,2,8,2,4,,,18,29,Completed,
+pending-ua001-r7-kooyong-2-bye,01 Sep 13,7,regular,Round 7,Kooyong 2,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001082,08 Sep 13,8,regular,Round 8,Coatesville,Carmelite,10,0,6,0,,,36,5,Completed,
+UA001083,08 Sep 13,8,regular,Round 8,Kooyong 2,Kooyong 1,2,8,2,4,,,19,32,Completed,
+UA001084,08 Sep 13,8,regular,Round 8,Dendy Park 2,Dendy Park 1,0,10,0,6,,,8,36,Completed,
+pending-ua001-r8-bye-hampton,08 Sep 13,8,regular,Round 8,Bye,Hampton,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001091,15 Sep 13,9,regular,Round 9,Hampton,Dendy Park 2,8,2,4,2,,,27,14,Completed,
+UA001093,15 Sep 13,9,regular,Round 9,Kooyong 1,Coatesville,9,1,5,1,,,34,18,Completed,
+UA001094,15 Sep 13,9,regular,Round 9,Dendy Park 1,Kooyong 2,10,0,6,0,,,36,11,Completed,
+pending-ua001-r9-carmelite-bye,15 Sep 13,9,regular,Round 9,Carmelite,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001101,13 Oct 13,10,regular,Round 10,Kooyong 2,Hampton,4.5,5.5,2,3,,,18,22,Completed,
+UA001102,13 Oct 13,10,regular,Round 10,Dendy Park 2,Carmelite,6,4,3,1,,,27,20,Completed,
+UA001104,13 Oct 13,10,regular,Round 10,Coatesville,Dendy Park 1,2.5,7.5,2,3,,,20,27,Completed,
+pending-ua001-r10-bye-kooyong-1,13 Oct 13,10,regular,Round 10,Bye,Kooyong 1,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001112,20 Oct 13,11,regular,Round 11,Carmelite,Kooyong 2,2,8,2,4,,,21,31,Completed,
+UA001113,20 Oct 13,11,regular,Round 11,Kooyong 1,Dendy Park 2,10,0,6,0,,,36,17,Completed,
+pending-ua001-r11-dendy-park-1-bye,20 Oct 13,11,regular,Round 11,Dendy Park 1,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua001-r11-hampton-coatesville,20 Oct 13,11,regular,Round 11,Hampton,Coatesville,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA001121,27 Oct 13,12,regular,Round 12,Dendy Park 1,Kooyong 1,0,10,0,6,,,15,36,Completed,
+UA001122,27 Oct 13,12,regular,Round 12,Kooyong 2,Dendy Park 2,7,3,3,3,,,30,29,Completed,
+UA001124,27 Oct 13,12,regular,Round 12,Carmelite,Hampton,1,9,1,5,,,22,34,Completed,
+pending-ua001-r12-bye-coatesville,27 Oct 13,12,regular,Round 12,Bye,Coatesville,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001131,10 Nov 13,13,regular,Round 13,Kooyong 1,Carmelite,9,1,5,1,,,32,9,Completed,
+UA001132,10 Nov 13,13,regular,Round 13,Hampton,Dendy Park 1,8,2,4,2,,,28,19,Completed,
+UA001133,10 Nov 13,13,regular,Round 13,Coatesville,Kooyong 2,2,8,2,4,,,22,33,Completed,
+pending-ua001-r13-dendy-park-2-bye,10 Nov 13,13,regular,Round 13,Dendy Park 2,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001141,17 Nov 13,14,regular,Round 14,Kooyong 1,Hampton,8,2,4,2,,,30,22,Completed,
+UA001142,17 Nov 13,14,regular,Round 14,Dendy Park 1,Carmelite,9,1,5,1,,,34,15,Completed,
+UA001143,17 Nov 13,14,regular,Round 14,Coatesville,Dendy Park 2,9,1,5,1,,,36,31,Completed,
+pending-ua001-r14-bye-kooyong-2,17 Nov 13,14,regular,Round 14,Bye,Kooyong 2,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA001301,,16,semi_final,Semi-final,Kooyong 1,Coatesville,10,0,6,0,,,36,10,Completed,
+UA001302,,16,semi_final,Semi-final,Hampton,Dendy Park 1,10,0,6,0,,,37,14,Completed,
+UA001321,,17,grand_final,Grand final · TROLS entry 2,Kooyong 1,Hampton,7,3,3,3,,,29,28,Completed,

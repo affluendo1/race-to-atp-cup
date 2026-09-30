@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA24-UA009",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2019",
+  "season_id": "UA24",
+  "season_label": "Autumn 2019",
+  "source_section_code": "UA009",
+  "section_label": "Section 9",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Maccabi",
+      "wins": 10,
+      "points": 108,
+      "percentage": 174.19,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Middle Brighton",
+      "wins": 11,
+      "points": 102,
+      "percentage": 153.21,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Royal South Yarra",
+      "wins": 8,
+      "points": 76,
+      "percentage": 103.87,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Kooyong Scotch",
+      "wins": 5,
+      "points": 70,
+      "percentage": 102.33,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Tennis World",
+      "wins": 5,
+      "points": 67,
+      "percentage": 102.13,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park",
+      "wins": 4,
+      "points": 52,
+      "percentage": 77.49,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Murrumbeena",
+      "wins": 1,
+      "points": 43,
+      "percentage": 70.65,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hurlingham Park",
+      "wins": 4,
+      "points": 42,
+      "percentage": 63.79,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA24-UA009",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

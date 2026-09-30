@@ -1,0 +1,202 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA007011,06 Feb 11,1,BLTC 1,BLTC 2,No. 1,Sam Browne,Wes Flavell,Wes Flavell,5-7,5,7,0,1,Completed,true,false,false
+UA007011,06 Feb 11,1,BLTC 1,BLTC 2,No. 2,Tristan Sather,Harrison Tate,Tristan Sather,6-2,6,2,1,0,Completed,true,false,false
+UA007011,06 Feb 11,1,BLTC 1,BLTC 2,No. 3,Stephen Peberton,Scott Moore,Stephen Peberton,6-1,6,1,1,0,Completed,true,false,false
+UA007011,06 Feb 11,1,BLTC 1,BLTC 2,No. 4,Alex Browne,Cory Lawton,Cory Lawton,3-6,3,6,0,1,Completed,true,false,false
+UA007014,06 Feb 11,1,Dendy Park 2,Kooyong Scotch,No. 1,Matthew Cousins,Claire Shellard,Claire Shellard,1-4,1,4,0,1,Completed,false,false,false
+UA007021,13 Feb 11,2,Kooyong Scotch,BLTC 1,No. 1,Dylan Cooper,Sam Browne,Sam Browne,5-7,5,7,0,1,Completed,true,false,false
+UA007021,13 Feb 11,2,Kooyong Scotch,BLTC 1,No. 2,Patrick Verlin,Tristan Sather,Tristan Sather,5-7,5,7,0,1,Completed,true,false,false
+UA007021,13 Feb 11,2,Kooyong Scotch,BLTC 1,No. 3,Sarah Lockwood,Alex Browne,Sarah Lockwood,6-0,6,0,1,0,Completed,true,false,false
+UA007021,13 Feb 11,2,Kooyong Scotch,BLTC 1,No. 4,Claire Shellard,Stephen Peberton,Claire Shellard,7-5,7,5,1,0,Completed,true,false,false
+UA007022,13 Feb 11,2,BLTC 2,Maccabi,No. 1,Wes Flavell,Aron Lazar,Aron Lazar,3-6,3,6,0,1,Completed,true,false,false
+UA007022,13 Feb 11,2,BLTC 2,Maccabi,No. 2,Harrison Tate,David Rubin,David Rubin,4-6,4,6,0,1,Completed,true,false,false
+UA007022,13 Feb 11,2,BLTC 2,Maccabi,No. 3,Scott Moore,Mikey Chaskiel,Mikey Chaskiel,3-6,3,6,0,1,Completed,true,false,false
+UA007022,13 Feb 11,2,BLTC 2,Maccabi,No. 4,Cory Lawton,Nathaniel Pizmony,Cory Lawton,6-3,6,3,1,0,Completed,true,false,false
+UA007023,13 Feb 11,2,Dendy Park 1,Mordialloc,No. 1,Joel Le Couteur,Vishal Ravi,Joel Le Couteur,6-1,6,1,1,0,Completed,true,false,false
+UA007023,13 Feb 11,2,Dendy Park 1,Mordialloc,No. 2,Sinead Malady,Tristian Irvine,Sinead Malady,6-2,6,2,1,0,Completed,true,false,false
+UA007023,13 Feb 11,2,Dendy Park 1,Mordialloc,No. 3,Tamika Josiah,Tom Oliver,Tom Oliver,2-6,2,6,0,1,Completed,true,false,false
+UA007023,13 Feb 11,2,Dendy Park 1,Mordialloc,No. 4,Ray Zhang,Victorira Stewart,Victorira Stewart,3-6,3,6,0,1,Completed,true,false,false
+UA007024,13 Feb 11,2,GPHC,Dendy Park 2,No. 1,Lachlan Barnett,Nick Day,Lachlan Barnett,6-1,6,1,1,0,Completed,true,false,false
+UA007024,13 Feb 11,2,GPHC,Dendy Park 2,No. 2,Will Goss,Luke Lynch,Will Goss,6-2,6,2,1,0,Completed,true,false,false
+UA007024,13 Feb 11,2,GPHC,Dendy Park 2,No. 3,Oliver McIntosh,Matthew Cousins,Matthew Cousins,5-7,5,7,0,1,Completed,true,false,false
+UA007024,13 Feb 11,2,GPHC,Dendy Park 2,No. 4,William Selbie,Christopher Byrnes,Christopher Byrnes,5-7,5,7,0,1,Completed,true,false,false
+UA007031,20 Feb 11,3,BLTC 1,GPHC,No. 1,Sam Browne,Lachlan Barnett,Sam Browne,6-4,6,4,1,0,Completed,true,false,false
+UA007031,20 Feb 11,3,BLTC 1,GPHC,No. 2,Tristan Sather,Will Goss,Tristan Sather,7-6,7,6,1,0,Completed,true,false,false
+UA007031,20 Feb 11,3,BLTC 1,GPHC,No. 3,Alex Browne,Max Double,Alex Browne,6-4,6,4,1,0,Completed,true,false,false
+UA007031,20 Feb 11,3,BLTC 1,GPHC,No. 4,Stephen Peberton,Ben Oliver,Stephen Peberton,7-5,7,5,1,0,Completed,true,false,false
+UA007033,20 Feb 11,3,Mordialloc,BLTC 2,No. 1,Vishal Ravi,Wes Flavell,Vishal Ravi,6-0,6,0,1,0,Completed,true,false,false
+UA007033,20 Feb 11,3,Mordialloc,BLTC 2,No. 2,Aimee Vuong,Harrison Tate,Harrison Tate,3-6,3,6,0,1,Completed,true,false,false
+UA007033,20 Feb 11,3,Mordialloc,BLTC 2,No. 3,Ryley Harrison,Scott Moore,Scott Moore,2-6,2,6,0,1,Completed,true,false,false
+UA007033,20 Feb 11,3,Mordialloc,BLTC 2,No. 4,Tom Oliver,Cory Lawton,Tom Oliver,6-1,6,1,1,0,Completed,true,false,false
+UA007034,20 Feb 11,3,Dendy Park 2,Dendy Park 1,No. 1,Nick Day,Joel Le Couteur,Joel Le Couteur,1-6,1,6,0,1,Completed,true,false,false
+UA007034,20 Feb 11,3,Dendy Park 2,Dendy Park 1,No. 2,Luke Lynch,Talia Le Couteur,Talia Le Couteur,2-6,2,6,0,1,Completed,true,false,false
+UA007034,20 Feb 11,3,Dendy Park 2,Dendy Park 1,No. 3,Matthew Cousins,Sinead Malady,Matthew Cousins,6-2,6,2,1,0,Completed,true,false,false
+UA007034,20 Feb 11,3,Dendy Park 2,Dendy Park 1,No. 4,Christopher Byrnes,Emma Robertson,Christopher Byrnes,6-3,6,3,1,0,Completed,true,false,false
+UA007051,06 Mar 11,5,Mordialloc,Dendy Park 2,No. 1,Tristian Irvine,Joshua Crigan,Joshua Crigan,3-6,3,6,0,1,Completed,true,false,false
+UA007051,06 Mar 11,5,Mordialloc,Dendy Park 2,No. 2,Ryley Harrison,Nick Day,Nick Day,2-6,2,6,0,1,Completed,true,false,false
+UA007051,06 Mar 11,5,Mordialloc,Dendy Park 2,No. 3,Tom Oliver,Christopher Byrnes,Tom Oliver,6-1,6,1,1,0,Completed,true,false,false
+UA007051,06 Mar 11,5,Mordialloc,Dendy Park 2,No. 4,Aaron Ross,Matthew Cousins,Matthew Cousins,2-6,2,6,0,1,Completed,true,false,false
+UA007052,06 Mar 11,5,Kooyong Scotch,GPHC,No. 1,Sam Cook,Lachlan Barnett,Lachlan Barnett,2-6,2,6,0,1,Completed,true,false,false
+UA007052,06 Mar 11,5,Kooyong Scotch,GPHC,No. 2,Sarah Shellard,Will Goss,Sarah Shellard,6-4,6,4,1,0,Completed,true,false,false
+UA007052,06 Mar 11,5,Kooyong Scotch,GPHC,No. 3,Claire Shellard,William Selbie,Claire Shellard,6-4,6,4,1,0,Completed,true,false,false
+UA007052,06 Mar 11,5,Kooyong Scotch,GPHC,No. 4,Sarah Griffiths,Max Double,Sarah Griffiths,6-2,6,2,1,0,Completed,true,false,false
+UA007053,06 Mar 11,5,Dendy Park 1,BLTC 2,No. 1,Talia Le Couteur,Harrison Tate,Talia Le Couteur,6-2,6,2,1,0,Completed,true,false,false
+UA007053,06 Mar 11,5,Dendy Park 1,BLTC 2,No. 2,Emma Robertson,Lachie Sander,Lachie Sander,4-6,4,6,0,1,Completed,true,false,false
+UA007053,06 Mar 11,5,Dendy Park 1,BLTC 2,No. 3,Ray Zhang,Scott Moore,Ray Zhang,6-3,6,3,1,0,Completed,true,false,false
+UA007053,06 Mar 11,5,Dendy Park 1,BLTC 2,No. 4,Jaliette Gleeson,Jack Broadbent,Jaliette Gleeson,6-0,6,0,1,0,Completed,true,false,false
+UA007054,06 Mar 11,5,BLTC 1,Maccabi,No. 1,Sam Browne,Doron Kessler,Sam Browne,6-2,6,2,1,0,Completed,true,false,false
+UA007054,06 Mar 11,5,BLTC 1,Maccabi,No. 2,Tristan Sather,Aron Lazar,Aron Lazar,6-7,6,7,0,1,Completed,true,false,false
+UA007054,06 Mar 11,5,BLTC 1,Maccabi,No. 3,Stephen Peberton,Mikey Chaskiel,Mikey Chaskiel,3-6,3,6,0,1,Completed,true,false,false
+UA007054,06 Mar 11,5,BLTC 1,Maccabi,No. 4,Lyndon Montgomery,David Hyman,David Hyman,3-6,3,6,0,1,Completed,true,false,false
+UA007062,20 Mar 11,6,Dendy Park 2,BLTC 1,No. 1,Joshua Crigan,Sam Browne,Joshua Crigan,6-3,6,3,1,0,Completed,true,false,false
+UA007062,20 Mar 11,6,Dendy Park 2,BLTC 1,No. 2,Nick Day,Tristan Sather,Tristan Sather,0-6,0,6,0,1,Completed,true,false,false
+UA007062,20 Mar 11,6,Dendy Park 2,BLTC 1,No. 3,Luke Lynch,Alex Browne,Luke Lynch,6-3,6,3,1,0,Completed,true,false,false
+UA007062,20 Mar 11,6,Dendy Park 2,BLTC 1,No. 4,Christopher Byrnes,Stephen Peberton,Stephen Peberton,6-7,6,7,0,1,Completed,true,false,false
+UA007063,20 Mar 11,6,GPHC,Dendy Park 1,No. 1,Will Goss,Joel Le Couteur,Will Goss,6-3,6,3,1,0,Completed,true,false,false
+UA007063,20 Mar 11,6,GPHC,Dendy Park 1,No. 2,Oliver McIntosh,Sinead Malady,Sinead Malady,5-7,5,7,0,1,Completed,true,false,false
+UA007063,20 Mar 11,6,GPHC,Dendy Park 1,No. 3,William Selbie,Tamika Josiah,Tamika Josiah,1-6,1,6,0,1,Completed,true,false,false
+UA007063,20 Mar 11,6,GPHC,Dendy Park 1,No. 4,Ben Oliver,Ray Zhang,Ray Zhang,1-6,1,6,0,1,Completed,true,false,false
+UA007064,20 Mar 11,6,BLTC 2,Kooyong Scotch,No. 1,Wes Flavell,Patrick Verlin,Patrick Verlin,1-6,1,6,0,1,Completed,true,false,false
+UA007064,20 Mar 11,6,BLTC 2,Kooyong Scotch,No. 2,Harrison Tate,Sam Cook,Harrison Tate,6-2,6,2,1,0,Completed,true,false,false
+UA007064,20 Mar 11,6,BLTC 2,Kooyong Scotch,No. 3,Scott Moore,Sarah Lockwood,Sarah Lockwood,1-6,1,6,0,1,Completed,true,false,false
+UA007064,20 Mar 11,6,BLTC 2,Kooyong Scotch,No. 4,Cory Lawton,Sarah Griffiths,Cory Lawton,6-2,6,2,1,0,Completed,true,false,false
+UA007071,27 Mar 11,7,BLTC 1,Mordialloc,No. 1,Sam Browne,Aimee Vuong,Sam Browne,6-4,6,4,1,0,Completed,true,false,false
+UA007071,27 Mar 11,7,BLTC 1,Mordialloc,No. 2,Tristan Sather,Tristian Irvine,Tristan Sather,6-1,6,1,1,0,Completed,true,false,false
+UA007071,27 Mar 11,7,BLTC 1,Mordialloc,No. 3,Alex Browne,Ryley Harrison,Alex Browne,6-1,6,1,1,0,Completed,true,false,false
+UA007071,27 Mar 11,7,BLTC 1,Mordialloc,No. 4,Stephen Peberton,Victorira Stewart,Stephen Peberton,6-3,6,3,1,0,Completed,true,false,false
+UA007072,27 Mar 11,7,Maccabi,Dendy Park 2,No. 1,Doron Kessler,Joshua Crigan,Joshua Crigan,2-6,2,6,0,1,Completed,true,false,false
+UA007072,27 Mar 11,7,Maccabi,Dendy Park 2,No. 2,Laurence Rosen,Luke Lynch,Luke Lynch,3-6,3,6,0,1,Completed,true,false,false
+UA007072,27 Mar 11,7,Maccabi,Dendy Park 2,No. 3,David Rubin,Christopher Byrnes,David Rubin,7-6,7,6,1,0,Completed,true,false,false
+UA007072,27 Mar 11,7,Maccabi,Dendy Park 2,No. 4,Nathaniel Pizmony,Johnny Tzouvelis,Johnny Tzouvelis,3-6,3,6,0,1,Completed,true,false,false
+UA007073,27 Mar 11,7,Kooyong Scotch,Dendy Park 1,No. 1,Patrick Verlin,Talia Le Couteur,Patrick Verlin,7-5,7,5,1,0,Completed,true,false,false
+UA007073,27 Mar 11,7,Kooyong Scotch,Dendy Park 1,No. 2,Sarah Lockwood,Sinead Malady,Sarah Lockwood,6-2,6,2,1,0,Completed,true,false,false
+UA007073,27 Mar 11,7,Kooyong Scotch,Dendy Park 1,No. 3,Claire Shellard,Tamika Josiah,Claire Shellard,6-3,6,3,1,0,Completed,true,false,false
+UA007073,27 Mar 11,7,Kooyong Scotch,Dendy Park 1,No. 4,Sarah Griffiths,Emma Robertson,Sarah Griffiths,6-2,6,2,1,0,Completed,true,false,false
+UA007074,27 Mar 11,7,GPHC,BLTC 2,No. 1,Lachlan Barnett,Wes Flavell,Wes Flavell,5-7,5,7,0,1,Completed,true,false,false
+UA007074,27 Mar 11,7,GPHC,BLTC 2,No. 2,Will Goss,Harrison Tate,Will Goss,6-3,6,3,1,0,Completed,true,false,false
+UA007074,27 Mar 11,7,GPHC,BLTC 2,No. 3,Oliver McIntosh,Scott Moore,Scott Moore,5-7,5,7,0,1,Completed,true,false,false
+UA007074,27 Mar 11,7,GPHC,BLTC 2,No. 4,Max Double,Cory Lawton,Cory Lawton,1-6,1,6,0,1,Completed,true,false,false
+UA007081,08 Apr 11,8,BLTC 2,BLTC 1,No. 1,Wes Flavell,Sam Browne,Sam Browne,1-6,1,6,0,1,Completed,true,false,false
+UA007081,08 Apr 11,8,BLTC 2,BLTC 1,No. 2,Harrison Tate,Tristan Sather,Tristan Sather,2-6,2,6,0,1,Completed,true,false,false
+UA007081,08 Apr 11,8,BLTC 2,BLTC 1,No. 3,Jack Broadbent,Alex Browne,Jack Broadbent,6-3,6,3,1,0,Completed,true,false,false
+UA007081,08 Apr 11,8,BLTC 2,BLTC 1,No. 4,Cory Lawton,Stephen Peberton,Stephen Peberton,4-6,4,6,0,1,Completed,true,false,false
+UA007082,08 Apr 11,8,Dendy Park 1,Maccabi,No. 1,Joel Le Couteur,Laurence Rosen,Joel Le Couteur,6-1,6,1,1,0,Completed,true,false,false
+UA007082,08 Apr 11,8,Dendy Park 1,Maccabi,No. 2,Alex Whittle,David Rubin,David Rubin,3-6,3,6,0,1,Completed,true,false,false
+UA007082,08 Apr 11,8,Dendy Park 1,Maccabi,No. 3,Tamika Josiah,Mikey Chaskiel,Mikey Chaskiel,3-6,3,6,0,1,Completed,true,false,false
+UA007082,08 Apr 11,8,Dendy Park 1,Maccabi,No. 4,Ray Zhang,Nathaniel Pizmony,Ray Zhang,6-2,6,2,1,0,Completed,true,false,false
+UA007083,08 Apr 11,8,GPHC,Mordialloc,No. 1,Will Goss,Vishal Ravi,Will Goss,6-2,6,2,1,0,Completed,true,false,false
+UA007083,08 Apr 11,8,GPHC,Mordialloc,No. 2,Oliver McIntosh,Ryley Harrison,Oliver McIntosh,6-3,6,3,1,0,Completed,true,false,false
+UA007083,08 Apr 11,8,GPHC,Mordialloc,No. 3,William Selbie,Tom Oliver,Tom Oliver,4-6,4,6,0,1,Completed,true,false,false
+UA007083,08 Apr 11,8,GPHC,Mordialloc,No. 4,Max Double,Victorira Stewart,Victorira Stewart,1-6,1,6,0,1,Completed,true,false,false
+UA007084,08 Apr 11,8,Kooyong Scotch,Dendy Park 2,No. 1,Dylan Cooper,Joshua Crigan,Joshua Crigan,3-6,3,6,0,1,Completed,true,false,false
+UA007084,08 Apr 11,8,Kooyong Scotch,Dendy Park 2,No. 2,Patrick Verlin,Nick Day,Patrick Verlin,6-3,6,3,1,0,Completed,true,false,false
+UA007084,08 Apr 11,8,Kooyong Scotch,Dendy Park 2,No. 3,Sarah Shellard,Christopher Byrnes,Sarah Shellard,7-5,7,5,1,0,Completed,true,false,false
+UA007084,08 Apr 11,8,Kooyong Scotch,Dendy Park 2,No. 4,Sam Cook,Johnny Tzouvelis,Johnny Tzouvelis,1-6,1,6,0,1,Completed,true,false,false
+UA007091,01 May 11,9,BLTC 1,Kooyong Scotch,No. 1,Sam Browne,Dylan Cooper,Sam Browne,6-3,6,3,1,0,Completed,true,false,false
+UA007091,01 May 11,9,BLTC 1,Kooyong Scotch,No. 2,Tristan Sather,Sarah Shellard,Tristan Sather,6-4,6,4,1,0,Completed,true,false,false
+UA007091,01 May 11,9,BLTC 1,Kooyong Scotch,No. 3,Alex Browne,Sarah Lockwood,Sarah Lockwood,3-6,3,6,0,1,Completed,true,false,false
+UA007091,01 May 11,9,BLTC 1,Kooyong Scotch,No. 4,Stephen Peberton,Claire Shellard,Stephen Peberton,6-3,6,3,1,0,Completed,true,false,false
+UA007092,01 May 11,9,Maccabi,BLTC 2,No. 1,Laurence Rosen,Harrison Tate,Laurence Rosen,6-4,6,4,1,0,Completed,true,false,false
+UA007092,01 May 11,9,Maccabi,BLTC 2,No. 2,Aron Lazar,Scott Moore,Scott Moore,4-6,4,6,0,1,Completed,true,false,false
+UA007092,01 May 11,9,Maccabi,BLTC 2,No. 3,Mikey Chaskiel,Cory Lawton,Mikey Chaskiel,6-3,6,3,1,0,Completed,true,false,false
+UA007092,01 May 11,9,Maccabi,BLTC 2,No. 4,Nathaniel Pizmony,Lachie Sander,Lachie Sander,2-6,2,6,0,1,Completed,true,false,false
+UA007093,01 May 11,9,Mordialloc,Dendy Park 1,No. 1,Vishal Ravi,Joel Le Couteur,Vishal Ravi,6-1,6,1,1,0,Completed,true,false,false
+UA007093,01 May 11,9,Mordialloc,Dendy Park 1,No. 2,Aimee Vuong,Tamika Josiah,Aimee Vuong,6-0,6,0,1,0,Completed,true,false,false
+UA007093,01 May 11,9,Mordialloc,Dendy Park 1,No. 3,Tom Oliver,Emma Robertson,Tom Oliver,6-1,6,1,1,0,Completed,true,false,false
+UA007093,01 May 11,9,Mordialloc,Dendy Park 1,No. 4,Victorira Stewart,Ray Zhang,Victorira Stewart,7-5,7,5,1,0,Completed,true,false,false
+UA007094,01 May 11,9,Dendy Park 2,GPHC,No. 1,Joshua Crigan,Will Goss,Joshua Crigan,7-6,7,6,1,0,Completed,true,false,false
+UA007094,01 May 11,9,Dendy Park 2,GPHC,No. 2,Nick Day,Lachlan Barnett,Lachlan Barnett,5-7,5,7,0,1,Completed,true,false,false
+UA007094,01 May 11,9,Dendy Park 2,GPHC,No. 3,Luke Lynch,William Selbie,William Selbie,1-6,1,6,0,1,Completed,true,false,false
+UA007094,01 May 11,9,Dendy Park 2,GPHC,No. 4,Matthew Cousins,Max Double,Matthew Cousins,7-6,7,6,1,0,Completed,true,false,false
+UA007101,08 May 11,10,GPHC,BLTC 1,No. 1,Lachlan Barnett,Sam Browne,Sam Browne,1-6,1,6,0,1,Completed,true,false,false
+UA007101,08 May 11,10,GPHC,BLTC 1,No. 2,Oliver McIntosh,Tristan Sather,Tristan Sather,5-7,5,7,0,1,Completed,true,false,false
+UA007101,08 May 11,10,GPHC,BLTC 1,No. 3,William Selbie,Alex Browne,William Selbie,6-3,6,3,1,0,Completed,true,false,false
+UA007101,08 May 11,10,GPHC,BLTC 1,No. 4,Ben Oliver,Stephen Peberton,Stephen Peberton,4-6,4,6,0,1,Completed,true,false,false
+UA007102,08 May 11,10,Kooyong Scotch,Maccabi,No. 1,Dylan Cooper,Doron Kessler,Dylan Cooper,6-2,6,2,1,0,Completed,true,false,false
+UA007102,08 May 11,10,Kooyong Scotch,Maccabi,No. 2,Sam Cook,Laurence Rosen,Laurence Rosen,1-6,1,6,0,1,Completed,true,false,false
+UA007102,08 May 11,10,Kooyong Scotch,Maccabi,No. 3,Sarah Lockwood,Mikey Chaskiel,Sarah Lockwood,7-5,7,5,1,0,Completed,true,false,false
+UA007102,08 May 11,10,Kooyong Scotch,Maccabi,No. 4,Sarah Griffiths,Aron Lazar,Aron Lazar,3-6,3,6,0,1,Completed,true,false,false
+UA007103,08 May 11,10,BLTC 2,Mordialloc,No. 1,Wes Flavell,Aimee Vuong,Aimee Vuong,3-6,3,6,0,1,Completed,true,false,false
+UA007103,08 May 11,10,BLTC 2,Mordialloc,No. 2,Harrison Tate,Tristian Irvine,Tristian Irvine,2-6,2,6,0,1,Completed,true,false,false
+UA007103,08 May 11,10,BLTC 2,Mordialloc,No. 3,Scott Moore,Ryley Harrison,Scott Moore,6-2,6,2,1,0,Completed,true,false,false
+UA007103,08 May 11,10,BLTC 2,Mordialloc,No. 4,Lachie Sander,Victorira Stewart,Victorira Stewart,5-7,5,7,0,1,Completed,true,false,false
+UA007104,08 May 11,10,Dendy Park 1,Dendy Park 2,No. 1,Joel Le Couteur,Joshua Crigan,Joshua Crigan,5-7,5,7,0,1,Completed,true,false,false
+UA007104,08 May 11,10,Dendy Park 1,Dendy Park 2,No. 2,Talia Le Couteur,Luke Lynch,Talia Le Couteur,6-2,6,2,1,0,Completed,true,false,false
+UA007104,08 May 11,10,Dendy Park 1,Dendy Park 2,No. 3,Sinead Malady,Christopher Byrnes,Christopher Byrnes,3-6,3,6,0,1,Completed,true,false,false
+UA007104,08 May 11,10,Dendy Park 1,Dendy Park 2,No. 4,Ray Zhang,Johnny Tzouvelis,Johnny Tzouvelis,4-6,4,6,0,1,Completed,true,false,false
+UA007111,15 May 11,11,BLTC 1,Dendy Park 1,No. 1,Sam Browne,Joel Le Couteur,Joel Le Couteur,3-6,3,6,0,1,Completed,true,false,false
+UA007111,15 May 11,11,BLTC 1,Dendy Park 1,No. 2,Tristan Sather,Talia Le Couteur,Tristan Sather,6-4,6,4,1,0,Completed,true,false,false
+UA007111,15 May 11,11,BLTC 1,Dendy Park 1,No. 3,Alex Browne,Sinead Malady,Alex Browne,6-3,6,3,1,0,Completed,true,false,false
+UA007111,15 May 11,11,BLTC 1,Dendy Park 1,No. 4,Stephen Peberton,Emma Robertson,Stephen Peberton,7-5,7,5,1,0,Completed,true,false,false
+UA007112,15 May 11,11,Maccabi,GPHC,No. 1,Doron Kessler,Will Goss,Doron Kessler,6-3,6,3,1,0,Completed,true,false,false
+UA007112,15 May 11,11,Maccabi,GPHC,No. 2,Laurence Rosen,Oliver McIntosh,Laurence Rosen,6-2,6,2,1,0,Completed,true,false,false
+UA007112,15 May 11,11,Maccabi,GPHC,No. 3,Aron Lazar,William Selbie,Aron Lazar,6-4,6,4,1,0,Completed,true,false,false
+UA007112,15 May 11,11,Maccabi,GPHC,No. 4,Mikey Chaskiel,Ben Oliver,Mikey Chaskiel,7-6,7,6,1,0,Completed,true,false,false
+UA007113,15 May 11,11,Mordialloc,Kooyong Scotch,No. 1,Vishal Ravi,Patrick Verlin,Patrick Verlin,3-6,3,6,0,1,Completed,true,false,false
+UA007113,15 May 11,11,Mordialloc,Kooyong Scotch,No. 2,Tristian Irvine,Sam Cook,Tristian Irvine,6-4,6,4,1,0,Completed,true,false,false
+UA007113,15 May 11,11,Mordialloc,Kooyong Scotch,No. 3,Ryley Harrison,Sarah Lockwood,Sarah Lockwood,3-6,3,6,0,1,Completed,true,false,false
+UA007113,15 May 11,11,Mordialloc,Kooyong Scotch,No. 4,Tom Oliver,Claire Shellard,Claire Shellard,5-7,5,7,0,1,Completed,true,false,false
+UA007114,15 May 11,11,Dendy Park 2,BLTC 2,No. 1,Nick Day,Wes Flavell,Wes Flavell,1-6,1,6,0,1,Completed,true,false,false
+UA007114,15 May 11,11,Dendy Park 2,BLTC 2,No. 2,Christopher Byrnes,Harrison Tate,Harrison Tate,0-6,0,6,0,1,Completed,true,false,false
+UA007114,15 May 11,11,Dendy Park 2,BLTC 2,No. 3,Matthew Cousins,Jack Broadbent,Matthew Cousins,6-3,6,3,1,0,Completed,true,false,false
+UA007114,15 May 11,11,Dendy Park 2,BLTC 2,No. 4,Johnny Tzouvelis,Cory Lawton,Cory Lawton,4-6,4,6,0,1,Completed,true,false,false
+UA007121,22 May 11,12,Dendy Park 2,Mordialloc,No. 1,Joshua Crigan,Vishal Ravi,Joshua Crigan,6-3,6,3,1,0,Completed,true,false,false
+UA007121,22 May 11,12,Dendy Park 2,Mordialloc,No. 2,Luke Lynch,Aimee Vuong,Aimee Vuong,0-6,0,6,0,1,Completed,true,false,false
+UA007121,22 May 11,12,Dendy Park 2,Mordialloc,No. 3,Christopher Byrnes,Ryley Harrison,Christopher Byrnes,7-5,7,5,1,0,Completed,true,false,false
+UA007121,22 May 11,12,Dendy Park 2,Mordialloc,No. 4,Matthew Cousins,Victorira Stewart,Victorira Stewart,1-6,1,6,0,1,Completed,true,false,false
+UA007122,22 May 11,12,GPHC,Kooyong Scotch,No. 1,Lachlan Barnett,Dylan Cooper,Dylan Cooper,0-6,0,6,0,1,Completed,true,false,false
+UA007122,22 May 11,12,GPHC,Kooyong Scotch,No. 2,Will Goss,Patrick Verlin,Will Goss,7-6,7,6,1,0,Completed,true,false,false
+UA007122,22 May 11,12,GPHC,Kooyong Scotch,No. 3,William Selbie,Sam Cook,Sam Cook,5-7,5,7,0,1,Completed,true,false,false
+UA007122,22 May 11,12,GPHC,Kooyong Scotch,No. 4,Max Double,Claire Shellard,Claire Shellard,2-6,2,6,0,1,Completed,true,false,false
+UA007123,22 May 11,12,BLTC 2,Dendy Park 1,No. 1,Wes Flavell,Ray Zhang,Wes Flavell,7-5,7,5,1,0,Completed,true,false,false
+UA007123,22 May 11,12,BLTC 2,Dendy Park 1,No. 2,Harrison Tate,Sinead Malady,Harrison Tate,6-3,6,3,1,0,Completed,true,false,false
+UA007123,22 May 11,12,BLTC 2,Dendy Park 1,No. 3,Scott Moore,Tamika Josiah,Tamika Josiah,1-6,1,6,0,1,Completed,true,false,false
+UA007123,22 May 11,12,BLTC 2,Dendy Park 1,No. 4,Troy Flavell,Emma Robertson,Emma Robertson,6-7,6,7,0,1,Completed,true,false,false
+UA007124,22 May 11,12,Maccabi,BLTC 1,No. 1,Doron Kessler,Sam Browne,Sam Browne,2-6,2,6,0,1,Completed,true,false,false
+UA007124,22 May 11,12,Maccabi,BLTC 1,No. 2,Aron Lazar,Tristan Sather,Tristan Sather,5-7,5,7,0,1,Completed,true,false,false
+UA007124,22 May 11,12,Maccabi,BLTC 1,No. 3,David Rubin,Alex Browne,David Rubin,6-3,6,3,1,0,Completed,true,false,false
+UA007124,22 May 11,12,Maccabi,BLTC 1,No. 4,Nathaniel Pizmony,Stephen Peberton,Stephen Peberton,1-6,1,6,0,1,Completed,true,false,false
+UA007131,29 May 11,13,Mordialloc,Maccabi,No. 1,Aimee Vuong,Doron Kessler,Doron Kessler,1-6,1,6,0,1,Completed,true,false,false
+UA007131,29 May 11,13,Mordialloc,Maccabi,No. 2,Tristian Irvine,Laurence Rosen,Laurence Rosen,1-6,1,6,0,1,Completed,true,false,false
+UA007131,29 May 11,13,Mordialloc,Maccabi,No. 3,Tom Oliver,David Hyman,David Hyman,3-6,3,6,0,1,Completed,true,false,false
+UA007131,29 May 11,13,Mordialloc,Maccabi,No. 4,Victorira Stewart,Nathaniel Pizmony,Nathaniel Pizmony,4-6,4,6,0,1,Completed,true,false,false
+UA007132,29 May 11,13,BLTC 1,Dendy Park 2,No. 1,Sam Browne,Nick Day,Sam Browne,6-0,6,0,1,0,Completed,true,false,false
+UA007132,29 May 11,13,BLTC 1,Dendy Park 2,No. 2,Tristan Sather,Luke Lynch,Tristan Sather,6-2,6,2,1,0,Completed,true,false,false
+UA007132,29 May 11,13,BLTC 1,Dendy Park 2,No. 3,Alex Browne,Matthew Cousins,Alex Browne,6-2,6,2,1,0,Completed,true,false,false
+UA007132,29 May 11,13,BLTC 1,Dendy Park 2,No. 4,Stephen Peberton,Johnny Tzouvelis,Stephen Peberton,6-1,6,1,1,0,Completed,true,false,false
+UA007133,29 May 11,13,Dendy Park 1,GPHC,No. 1,Joel Le Couteur,William Selbie,Joel Le Couteur,6-4,6,4,1,0,Completed,true,false,false
+UA007133,29 May 11,13,Dendy Park 1,GPHC,No. 2,Talia Le Couteur,Oliver McIntosh,Talia Le Couteur,6-3,6,3,1,0,Completed,true,false,false
+UA007133,29 May 11,13,Dendy Park 1,GPHC,No. 3,Tamika Josiah,Ben Oliver,Tamika Josiah,6-1,6,1,1,0,Completed,true,false,false
+UA007133,29 May 11,13,Dendy Park 1,GPHC,No. 4,Ray Zhang,Max Double,Ray Zhang,6-4,6,4,1,0,Completed,true,false,false
+UA007134,29 May 11,13,Kooyong Scotch,BLTC 2,No. 1,Sam Cook,Wes Flavell,Wes Flavell,6-7,6,7,0,1,Completed,true,false,false
+UA007134,29 May 11,13,Kooyong Scotch,BLTC 2,No. 2,Sarah Shellard,Harrison Tate,Sarah Shellard,6-2,6,2,1,0,Completed,true,false,false
+UA007134,29 May 11,13,Kooyong Scotch,BLTC 2,No. 3,Sarah Lockwood,Blake Crouch,Blake Crouch,0-6,0,6,0,1,Completed,true,false,false
+UA007134,29 May 11,13,Kooyong Scotch,BLTC 2,No. 4,Claire Shellard,Lachie Sander,Lachie Sander,6-7,6,7,0,1,Completed,true,false,false
+UA007141,05 Jun 11,14,Mordialloc,BLTC 1,No. 1,Vishal Ravi,Sam Browne,Vishal Ravi,7-5,7,5,1,0,Completed,true,false,false
+UA007141,05 Jun 11,14,Mordialloc,BLTC 1,No. 2,Tristian Irvine,Tristan Sather,Tristian Irvine,6-4,6,4,1,0,Completed,true,false,false
+UA007141,05 Jun 11,14,Mordialloc,BLTC 1,No. 3,Ryley Harrison,Alex Browne,Alex Browne,3-6,3,6,0,1,Completed,true,false,false
+UA007141,05 Jun 11,14,Mordialloc,BLTC 1,No. 4,Tom Oliver,Stephen Peberton,Stephen Peberton,3-6,3,6,0,1,Completed,true,false,false
+UA007142,05 Jun 11,14,Dendy Park 2,Maccabi,No. 1,Nick Day,Laurence Rosen,Laurence Rosen,0-6,0,6,0,1,Completed,true,false,false
+UA007142,05 Jun 11,14,Dendy Park 2,Maccabi,No. 2,Luke Lynch,David Rubin,David Rubin,0-6,0,6,0,1,Completed,true,false,false
+UA007142,05 Jun 11,14,Dendy Park 2,Maccabi,No. 3,Christopher Byrnes,Mikey Chaskiel,Mikey Chaskiel,0-6,0,6,0,1,Completed,true,false,false
+UA007142,05 Jun 11,14,Dendy Park 2,Maccabi,No. 4,Johnny Tzouvelis,Nathaniel Pizmony,Nathaniel Pizmony,4-6,4,6,0,1,Completed,true,false,false
+UA007143,05 Jun 11,14,Dendy Park 1,Kooyong Scotch,No. 1,Joel Le Couteur,Dylan Cooper,Dylan Cooper,3-6,3,6,0,1,Completed,true,false,false
+UA007143,05 Jun 11,14,Dendy Park 1,Kooyong Scotch,No. 2,Talia Le Couteur,Sam Cook,Talia Le Couteur,6-1,6,1,1,0,Completed,true,false,false
+UA007143,05 Jun 11,14,Dendy Park 1,Kooyong Scotch,No. 3,Ray Zhang,Sarah Lockwood,Sarah Lockwood,3-6,3,6,0,1,Completed,true,false,false
+UA007143,05 Jun 11,14,Dendy Park 1,Kooyong Scotch,No. 4,Emma Robertson,Claire Shellard,Claire Shellard,0-6,0,6,0,1,Completed,true,false,false
+UA007144,05 Jun 11,14,BLTC 2,GPHC,No. 1,Wes Flavell,Lachlan Barnett,Lachlan Barnett,0-6,0,6,0,1,Completed,true,false,false
+UA007144,05 Jun 11,14,BLTC 2,GPHC,No. 2,Harrison Tate,Ben Oliver,Harrison Tate,6-1,6,1,1,0,Completed,true,false,false
+UA007144,05 Jun 11,14,BLTC 2,GPHC,No. 3,Scott Moore,Max Double,Max Double,1-6,1,6,0,1,Completed,true,false,false
+UA007144,05 Jun 11,14,BLTC 2,GPHC,No. 4,Lachie Sander,Emma Erikson,Lachie Sander,6-0,6,0,1,0,Completed,true,false,false
+UA007301,,16,BLTC 1,Mordialloc,No. 1,Sam Browne,Vishal Ravi,Sam Browne,6-3,6,3,1,0,Completed,true,false,false
+UA007301,,16,BLTC 1,Mordialloc,No. 2,Tristan Sather,Aimee Vuong,Tristan Sather,6-2,6,2,1,0,Completed,true,false,false
+UA007301,,16,BLTC 1,Mordialloc,No. 3,Alex Browne,Tristian Irvine,Tristian Irvine,4-6,4,6,0,1,Completed,true,false,false
+UA007301,,16,BLTC 1,Mordialloc,No. 4,Stephen Peberton,Ryley Harrison,Stephen Peberton,6-0,6,0,1,0,Completed,true,true,false
+UA007302,,16,Maccabi,Kooyong Scotch,No. 1,Laurence Rosen,Dylan Cooper,Laurence Rosen,6-2,6,2,1,0,Completed,true,false,false
+UA007302,,16,Maccabi,Kooyong Scotch,No. 2,David Rubin,Patrick Verlin,David Rubin,6-4,6,4,1,0,Completed,true,false,false
+UA007302,,16,Maccabi,Kooyong Scotch,No. 3,Nathaniel Pizmony,Sarah Lockwood,Sarah Lockwood,1-6,1,6,0,1,Completed,true,false,false
+UA007302,,16,Maccabi,Kooyong Scotch,No. 4,Aron Lazar,Claire Shellard,Aron Lazar,7-6,7,6,1,0,Completed,true,false,false
+UA007321,,17,BLTC 1,Kooyong Scotch,No. 1,Sam Browne,Patrick Verlin,Sam Browne,6-3,6,3,1,0,Completed,true,false,false
+UA007321,,17,BLTC 1,Kooyong Scotch,No. 2,Tristan Sather,Sarah Shellard,Tristan Sather,6-2,6,2,1,0,Completed,true,false,false
+UA007321,,17,BLTC 1,Kooyong Scotch,No. 3,Alex Browne,Sarah Lockwood,Alex Browne,6-3,6,3,1,0,Completed,true,false,false
+UA007321,,17,BLTC 1,Kooyong Scotch,No. 4,Stephen Peberton,Claire Shellard,Stephen Peberton,6-2,6,2,1,0,Completed,true,true,false

@@ -1,0 +1,213 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA023011,23 Gre 16,1,BLTC Blue,Kings Park Red,No. 1,Cameron Ward,Kevin Liu,Kevin Liu,1-6,1,6,0,1,Completed,true,false,false
+UA023011,23 Gre 16,1,BLTC Blue,Kings Park Red,No. 2,Issabella Ley,Ryan Pan,Ryan Pan,0-6,0,6,0,1,Completed,true,false,false
+UA023011,23 Gre 16,1,BLTC Blue,Kings Park Red,No. 3,Jack Vanvuure,Lucas Yang,Jack Vanvuure,6-4,6,4,1,0,Completed,true,false,false
+UA023011,23 Gre 16,1,BLTC Blue,Kings Park Red,No. 4,Elliana Dupal,Oscar Xu,Oscar Xu,6-7,6,7,0,1,Completed,true,false,false
+UA023012,23 Gre 16,1,Kings Park White,Kings Park Blue,No. 1,Jason Tang,Jayden Lin,Jayden Lin,0-6,0,6,0,1,Completed,true,false,false
+UA023012,23 Gre 16,1,Kings Park White,Kings Park Blue,No. 2,Ethan Neale,Lynah Tchim,Ethan Neale,6-1,6,1,1,0,Completed,true,false,false
+UA023012,23 Gre 16,1,Kings Park White,Kings Park Blue,No. 3,Lucas Yang,Heston Hancox,Lucas Yang,6-0,6,0,1,0,Completed,true,false,true
+UA023012,23 Gre 16,1,Kings Park White,Kings Park Blue,No. 4,Sihan Meng,Annabella Hancox,Sihan Meng,6-2,6,2,1,0,Completed,true,true,true
+UA023013,23 Gre 16,1,Tennis World,St Pats Mentone,No. 1,Eve Potter,Mia Walter,Eve Potter,6-3,6,3,1,0,Completed,true,false,false
+UA023013,23 Gre 16,1,Tennis World,St Pats Mentone,No. 2,Ayan Zahed,Thomas Kilkenny,Thomas Kilkenny,0-6,0,6,0,1,Completed,true,false,false
+UA023013,23 Gre 16,1,Tennis World,St Pats Mentone,No. 3,Nicholas Pashulya,India Buchan,Nicholas Pashulya,6-3,6,3,1,0,Completed,true,false,false
+UA023013,23 Gre 16,1,Tennis World,St Pats Mentone,No. 4,James Potter,Talia Buchan,Talia Buchan,6-7,6,7,0,1,Completed,true,false,false
+UA023014,23 Gre 16,1,Patterson Lakes,Mentone,No. 1,Gurdeen Singh,Hayley Ferguson,Hayley Ferguson,1-6,1,6,0,1,Completed,true,false,false
+UA023014,23 Gre 16,1,Patterson Lakes,Mentone,No. 2,Darci Do Santos,Akira Kare,Akira Kare,0-6,0,6,0,1,Completed,true,false,false
+UA023014,23 Gre 16,1,Patterson Lakes,Mentone,No. 3,Gurshan Sainianu,Ruby Taylor,Ruby Taylor,0-6,0,6,0,1,Completed,true,false,false
+UA023014,23 Gre 16,1,Patterson Lakes,Mentone,No. 4,Matea Elezoski,Aarya Rao,Matea Elezoski,6-4,6,4,1,0,Completed,true,false,false
+UA023021,23 Jul 23,2,Mentone,BLTC Blue,No. 1,Alexis Sacris,Jack Vanvuure,Jack Vanvuure,3-6,3,6,0,1,Completed,true,false,false
+UA023021,23 Jul 23,2,Mentone,BLTC Blue,No. 2,Hayley Ferguson,Cameron Ward,Hayley Ferguson,6-0,6,0,1,0,Completed,true,false,false
+UA023021,23 Jul 23,2,Mentone,BLTC Blue,No. 3,Akira Kare,Jacob Zheng,Jacob Zheng,4-6,4,6,0,1,Completed,true,false,false
+UA023021,23 Jul 23,2,Mentone,BLTC Blue,No. 4,Aarya Rao,Issabella Ley,Aarya Rao,6-2,6,2,1,0,Completed,true,false,false
+UA023022,23 Jul 23,2,Kings Park Red,Kings Park White,No. 1,Kevin Liu,Jason Tang,Jason Tang,2-6,2,6,0,1,Completed,true,false,false
+UA023022,23 Jul 23,2,Kings Park Red,Kings Park White,No. 2,Ryan Pan,Ethan Neale,Ethan Neale,1-6,1,6,0,1,Completed,true,false,false
+UA023022,23 Jul 23,2,Kings Park Red,Kings Park White,No. 3,Lucas Yang,Lucas Yang,Lucas Yang,2-6,2,6,0,1,Completed,true,false,false
+UA023022,23 Jul 23,2,Kings Park Red,Kings Park White,No. 4,Sihan Meng,Luca Caneschi-Llorca,Sihan Meng,6-1,6,1,1,0,Completed,true,false,false
+UA023023,23 Jul 23,2,Kings Park Blue,Tennis World,No. 1,Olivia Luo,Ayan Zahed,Ayan Zahed,6-7,6,7,0,1,Completed,true,false,false
+UA023023,23 Jul 23,2,Kings Park Blue,Tennis World,No. 2,Jayden Lin,Harry Lipe,Jayden Lin,6-1,6,1,1,0,Completed,true,false,false
+UA023023,23 Jul 23,2,Kings Park Blue,Tennis World,No. 3,Lynah Tchim,Eamon Croke,Eamon Croke,5-7,5,7,0,1,Completed,true,false,false
+UA023023,23 Jul 23,2,Kings Park Blue,Tennis World,No. 4,Maxwell Luo,James Potter,Maxwell Luo,6-0,6,0,1,0,Completed,true,false,false
+UA023024,23 Jul 23,2,St Pats Mentone,Patterson Lakes,No. 1,Thomas Kilkenny,Gurdeen Singh,Thomas Kilkenny,6-3,6,3,1,0,Completed,true,false,false
+UA023024,23 Jul 23,2,St Pats Mentone,Patterson Lakes,No. 2,India Buchan,Darci Do Santos,India Buchan,6-4,6,4,1,0,Completed,true,false,false
+UA023024,23 Jul 23,2,St Pats Mentone,Patterson Lakes,No. 3,Talia Buchan,Gurshan Sainianu,Talia Buchan,6-2,6,2,1,0,Completed,true,false,false
+UA023024,23 Jul 23,2,St Pats Mentone,Patterson Lakes,No. 4,Amaey Ameet,Matea Elezoski,Matea Elezoski,6-7,6,7,0,1,Completed,true,true,false
+UA023031,30 Jul 23,3,BLTC Blue,St Pats Mentone,No. 1,Cameron Ward,Mia Walter,Cameron Ward,6-3,6,3,1,0,Completed,true,false,false
+UA023031,30 Jul 23,3,BLTC Blue,St Pats Mentone,No. 2,Jacob Zheng,India Buchan,Jacob Zheng,6-0,6,0,1,0,Completed,true,false,false
+UA023031,30 Jul 23,3,BLTC Blue,St Pats Mentone,No. 3,Jack Vanvuure,Talia Buchan,Jack Vanvuure,6-1,6,1,1,0,Completed,true,false,false
+UA023031,30 Jul 23,3,BLTC Blue,St Pats Mentone,No. 4,Elliana Dupal,Ash Kneebone,Elliana Dupal,6-2,6,2,1,0,Completed,true,false,true
+UA023032,30 Jul 23,3,Kings Park White,Mentone,No. 1,Jason Tang,Alexis Sacris,Jason Tang,6-3,6,3,1,0,Completed,true,false,false
+UA023032,30 Jul 23,3,Kings Park White,Mentone,No. 2,Maxwell Luo,Hayley Ferguson,Hayley Ferguson,2-6,2,6,0,1,Completed,true,true,false
+UA023032,30 Jul 23,3,Kings Park White,Mentone,No. 3,Lucas Yang,Ruby Taylor,Ruby Taylor,3-6,3,6,0,1,Completed,true,false,false
+UA023032,30 Jul 23,3,Kings Park White,Mentone,No. 4,Luca Caneschi-Llorca,Aarya Rao,Aarya Rao,2-6,2,6,0,1,Completed,true,false,false
+UA023033,30 Jul 23,3,Tennis World,Kings Park Red,No. 1,Eve Potter,Kevin Liu,Eve Potter,6-3,6,3,1,0,Completed,true,false,false
+UA023033,30 Jul 23,3,Tennis World,Kings Park Red,No. 2,Nicholas Pashulya,Ryan Pan,Nicholas Pashulya,6-3,6,3,1,0,Completed,true,false,false
+UA023033,30 Jul 23,3,Tennis World,Kings Park Red,No. 3,Harry Lipe,Lucas Yang,Lucas Yang,5-7,5,7,0,1,Completed,true,false,false
+UA023033,30 Jul 23,3,Tennis World,Kings Park Red,No. 4,Eamon Croke,Sihan Meng,Sihan Meng,4-6,4,6,0,1,Completed,true,false,false
+UA023034,30 Jul 23,3,Patterson Lakes,Kings Park Blue,No. 1,Darci Do Santos,Olivia Luo,Olivia Luo,0-6,0,6,0,1,Completed,true,false,false
+UA023034,30 Jul 23,3,Patterson Lakes,Kings Park Blue,No. 2,Matea Elezoski,Jayden Lin,Matea Elezoski,7-6,7,6,1,0,Completed,true,false,false
+UA023034,30 Jul 23,3,Patterson Lakes,Kings Park Blue,No. 3,Charlotte Aldridge,Lynah Tchim,Lynah Tchim,2-6,2,6,0,1,Completed,true,false,false
+UA023034,30 Jul 23,3,Patterson Lakes,Kings Park Blue,No. 4,Viyan Saravanan,Alice Luo,Alice Luo,0-6,0,6,0,1,Completed,true,false,false
+UA023041,06 Aug 23,4,Kings Park Blue,BLTC Blue,No. 1,Olivia Luo,Cameron Ward,Olivia Luo,6-1,6,1,1,0,Completed,true,false,false
+UA023041,06 Aug 23,4,Kings Park Blue,BLTC Blue,No. 2,Lynah Tchim,Jacob Zheng,Jacob Zheng,4-6,4,6,0,1,Completed,true,false,false
+UA023041,06 Aug 23,4,Kings Park Blue,BLTC Blue,No. 3,Maxwell Luo,Issabella Ley,Maxwell Luo,6-0,6,0,1,0,Completed,true,false,false
+UA023041,06 Aug 23,4,Kings Park Blue,BLTC Blue,No. 4,Alice Luo,Elliana Dupal,Alice Luo,6-1,6,1,1,0,Completed,true,false,false
+UA023042,06 Aug 23,4,St Pats Mentone,Kings Park White,No. 1,Wiliam Dormer,Ethan Neale,Ethan Neale,2-6,2,6,0,1,Completed,true,true,false
+UA023042,06 Aug 23,4,St Pats Mentone,Kings Park White,No. 2,Thomas Kilkenny,Lucas Yang,Lucas Yang,0-6,0,6,0,1,Completed,true,false,false
+UA023042,06 Aug 23,4,St Pats Mentone,Kings Park White,No. 3,India Buchan,Mitchell Zaal,Mitchell Zaal,1-6,1,6,0,1,Completed,true,false,true
+UA023042,06 Aug 23,4,St Pats Mentone,Kings Park White,No. 4,Talia Buchan,Luca Caneschi-Llorca,Talia Buchan,6-2,6,2,1,0,Completed,true,false,false
+UA023043,06 Aug 23,4,Mentone,Tennis World,No. 1,Alexis Sacris,Eve Potter,Eve Potter,2-6,2,6,0,1,Completed,true,false,false
+UA023043,06 Aug 23,4,Mentone,Tennis World,No. 2,Hayley Ferguson,Nicholas Pashulya,Nicholas Pashulya,1-6,1,6,0,1,Completed,true,false,false
+UA023043,06 Aug 23,4,Mentone,Tennis World,No. 3,Akira Kare,Harry Lipe,Akira Kare,6-2,6,2,1,0,Completed,true,false,false
+UA023043,06 Aug 23,4,Mentone,Tennis World,No. 4,Ruby Taylor,James Potter,Ruby Taylor,6-0,6,0,1,0,Completed,true,false,false
+UA023044,06 Aug 23,4,Kings Park Red,Patterson Lakes,No. 1,Ryan Pan,Matea Elezoski,Ryan Pan,6-2,6,2,1,0,Completed,true,false,false
+UA023044,06 Aug 23,4,Kings Park Red,Patterson Lakes,No. 2,Jayden Lin,Charlotte Aldridge,Jayden Lin,6-0,6,0,1,0,Completed,true,true,false
+UA023044,06 Aug 23,4,Kings Park Red,Patterson Lakes,No. 3,Lucas Yang,Gurdeen Singh,Lucas Yang,6-1,6,1,1,0,Completed,true,false,false
+UA023044,06 Aug 23,4,Kings Park Red,Patterson Lakes,No. 4,Oscar Xu,Gurshan Sainianu,Oscar Xu,6-4,6,4,1,0,Completed,true,false,false
+UA023051,13 Aug 23,5,Tennis World,Patterson Lakes,No. 1,Eve Potter,Gurdeen Singh,Eve Potter,6-0,6,0,1,0,Completed,true,false,false
+UA023051,13 Aug 23,5,Tennis World,Patterson Lakes,No. 2,Nicholas Pashulya,Matea Elezoski,Nicholas Pashulya,6-1,6,1,1,0,Completed,true,false,false
+UA023051,13 Aug 23,5,Tennis World,Patterson Lakes,No. 3,Eamon Croke,Charlotte Aldridge,Eamon Croke,6-3,6,3,1,0,Completed,true,false,false
+UA023051,13 Aug 23,5,Tennis World,Patterson Lakes,No. 4,James Potter,Viyan Saravanan,James Potter,6-1,6,1,1,0,Completed,true,false,false
+UA023052,13 Aug 23,5,Mentone,St Pats Mentone,No. 1,Alexis Sacris,Mia Walter,Alexis Sacris,6-2,6,2,1,0,Completed,true,false,false
+UA023052,13 Aug 23,5,Mentone,St Pats Mentone,No. 2,Hayley Ferguson,Thomas Kilkenny,Hayley Ferguson,6-3,6,3,1,0,Completed,true,false,false
+UA023052,13 Aug 23,5,Mentone,St Pats Mentone,No. 3,Akira Kare,Ava Walter,Akira Kare,6-1,6,1,1,0,Completed,true,false,false
+UA023052,13 Aug 23,5,Mentone,St Pats Mentone,No. 4,Aarya Rao,Indya Joseph,Aarya Rao,6-1,6,1,1,0,Completed,true,false,true
+UA023054,13 Aug 23,5,BLTC Blue,Kings Park White,No. 1,Jack Vanvuure,Jason Tang,Jason Tang,1-6,1,6,0,1,Completed,true,false,false
+UA023054,13 Aug 23,5,BLTC Blue,Kings Park White,No. 2,Cameron Ward,Ethan Neale,Ethan Neale,1-6,1,6,0,1,Completed,true,false,false
+UA023054,13 Aug 23,5,BLTC Blue,Kings Park White,No. 3,Jacob Zheng,Ryan Pan,Ryan Pan,4-6,4,6,0,1,Completed,true,false,true
+UA023054,13 Aug 23,5,BLTC Blue,Kings Park White,No. 4,Issabella Ley,Lucas Yang,Lucas Yang,0-6,0,6,0,1,Completed,true,false,false
+UA023061,20 Aug 23,6,Kings Park White,Tennis World,No. 1,Jason Tang,Eve Potter,Jason Tang,6-3,6,3,1,0,Completed,true,false,false
+UA023061,20 Aug 23,6,Kings Park White,Tennis World,No. 2,Ethan Neale,Ayan Zahed,Ayan Zahed,2-6,2,6,0,1,Completed,true,false,false
+UA023061,20 Aug 23,6,Kings Park White,Tennis World,No. 3,Lucas Yang,Nicholas Pashulya,Nicholas Pashulya,6-7,6,7,0,1,Completed,true,false,false
+UA023061,20 Aug 23,6,Kings Park White,Tennis World,No. 4,Lynah Tchim,Eamon Croke,Eamon Croke,5-7,5,7,0,1,Completed,true,true,false
+UA023063,20 Aug 23,6,St Pats Mentone,Kings Park Blue,No. 1,Mia Walter,Olivia Luo,Olivia Luo,2-6,2,6,0,1,Completed,true,false,false
+UA023063,20 Aug 23,6,St Pats Mentone,Kings Park Blue,No. 2,Thomas Kilkenny,Jayden Lin,Jayden Lin,2-6,2,6,0,1,Completed,true,false,false
+UA023063,20 Aug 23,6,St Pats Mentone,Kings Park Blue,No. 3,India Buchan,Alice Luo,Alice Luo,1-6,1,6,0,1,Completed,true,false,false
+UA023063,20 Aug 23,6,St Pats Mentone,Kings Park Blue,No. 4,Talia Buchan,Maxwell Luo,Maxwell Luo,0-6,0,6,0,1,Completed,true,false,false
+UA023064,20 Aug 23,6,Kings Park Red,Mentone,No. 1,Ryan Pan,Alexis Sacris,Ryan Pan,7-5,7,5,1,0,Completed,true,false,false
+UA023064,20 Aug 23,6,Kings Park Red,Mentone,No. 2,Lucas Yang,Hayley Ferguson,Lucas Yang,6-3,6,3,1,0,Completed,true,false,false
+UA023064,20 Aug 23,6,Kings Park Red,Mentone,No. 3,Oscar Xu,Akira Kare,Akira Kare,1-6,1,6,0,1,Completed,true,false,false
+UA023064,20 Aug 23,6,Kings Park Red,Mentone,No. 4,Sihan Meng,Ruby Taylor,Ruby Taylor,0-6,0,6,0,1,Completed,true,false,false
+UA023071,27 Aug 23,7,BLTC Blue,Tennis World,No. 1,Jack Vanvuure,Ayan Zahed,Ayan Zahed,3-6,3,6,0,1,Completed,true,false,false
+UA023071,27 Aug 23,7,BLTC Blue,Tennis World,No. 2,Cameron Ward,Nicholas Pashulya,Nicholas Pashulya,4-6,4,6,0,1,Completed,true,false,false
+UA023071,27 Aug 23,7,BLTC Blue,Tennis World,No. 3,Jacob Zheng,Harry Lipe,Jacob Zheng,6-2,6,2,1,0,Completed,true,false,false
+UA023071,27 Aug 23,7,BLTC Blue,Tennis World,No. 4,Issabella Ley,Eamon Croke,Eamon Croke,3-6,3,6,0,1,Completed,true,false,false
+UA023072,27 Aug 23,7,Kings Park White,Patterson Lakes,No. 1,Jason Tang,Gurdeen Singh,Jason Tang,6-3,6,3,1,0,Completed,true,false,false
+UA023072,27 Aug 23,7,Kings Park White,Patterson Lakes,No. 2,Ethan Neale,Darci Do Santos,Ethan Neale,6-2,6,2,1,0,Completed,true,false,false
+UA023072,27 Aug 23,7,Kings Park White,Patterson Lakes,No. 3,Lucas Yang,Gurshan Sainianu,Lucas Yang,6-1,6,1,1,0,Completed,true,false,false
+UA023072,27 Aug 23,7,Kings Park White,Patterson Lakes,No. 4,Heston Hancox,Charlotte Aldridge,Heston Hancox,6-1,6,1,1,0,Completed,true,true,false
+UA023073,27 Aug 23,7,Mentone,Kings Park Blue,No. 1,Hayley Ferguson,Jayden Lin,Jayden Lin,2-6,2,6,0,1,Completed,true,false,false
+UA023073,27 Aug 23,7,Mentone,Kings Park Blue,No. 2,Akira Kare,Lynah Tchim,Akira Kare,6-0,6,0,1,0,Completed,true,false,false
+UA023073,27 Aug 23,7,Mentone,Kings Park Blue,No. 3,Ruby Taylor,Maxwell Luo,Maxwell Luo,4-6,4,6,0,1,Completed,true,false,false
+UA023073,27 Aug 23,7,Mentone,Kings Park Blue,No. 4,Aarya Rao,Emmett Horchner,Emmett Horchner,2-6,2,6,0,1,Completed,true,false,true
+UA023074,27 Aug 23,7,St Pats Mentone,Kings Park Red,No. 1,Madeline Jones,Kevin Liu,Kevin Liu,1-6,1,6,0,1,Completed,true,false,false
+UA023074,27 Aug 23,7,St Pats Mentone,Kings Park Red,No. 2,Mia Walter,Ryan Pan,Ryan Pan,1-6,1,6,0,1,Completed,true,false,false
+UA023074,27 Aug 23,7,St Pats Mentone,Kings Park Red,No. 3,India Buchan,Lucas Yang,Lucas Yang,6-7,6,7,0,1,Completed,true,false,false
+UA023074,27 Aug 23,7,St Pats Mentone,Kings Park Red,No. 4,Ava Walter,Oscar Xu,Ava Walter,6-4,6,4,1,0,Completed,true,false,false
+UA023081,03 Sep 23,8,Kings Park Red,BLTC Blue,No. 1,Kevin Liu,Jack Vanvuure,Kevin Liu,7-6,7,6,1,0,Completed,true,false,false
+UA023081,03 Sep 23,8,Kings Park Red,BLTC Blue,No. 2,Ryan Pan,Cameron Ward,Ryan Pan,6-2,6,2,1,0,Completed,true,false,false
+UA023081,03 Sep 23,8,Kings Park Red,BLTC Blue,No. 3,Sihan Meng,Annabelle Gorton,Annabelle Gorton,3-6,3,6,0,1,Completed,true,false,true
+UA023081,03 Sep 23,8,Kings Park Red,BLTC Blue,No. 4,Oscar Xu,Issabella Ley,Oscar Xu,6-0,6,0,1,0,Completed,true,false,false
+UA023082,03 Sep 23,8,Kings Park Blue,Kings Park White,No. 1,Olivia Luo,Jason Tang,Jason Tang,4-6,4,6,0,1,Completed,true,false,false
+UA023082,03 Sep 23,8,Kings Park Blue,Kings Park White,No. 2,Jayden Lin,Ethan Neale,Ethan Neale,3-6,3,6,0,1,Completed,true,false,false
+UA023082,03 Sep 23,8,Kings Park Blue,Kings Park White,No. 3,Lynah Tchim,Lucas Yang,Lucas Yang,0-6,0,6,0,1,Completed,true,false,false
+UA023082,03 Sep 23,8,Kings Park Blue,Kings Park White,No. 4,Alice Luo,Mitchell Zaal,Mitchell Zaal,1-6,1,6,0,1,Completed,true,false,true
+UA023083,03 Sep 23,8,St Pats Mentone,Tennis World,No. 1,Mia Walter,Eve Potter,Eve Potter,1-6,1,6,0,1,Completed,true,false,false
+UA023083,03 Sep 23,8,St Pats Mentone,Tennis World,No. 2,India Buchan,Ayan Zahed,Ayan Zahed,0-6,0,6,0,1,Completed,true,false,false
+UA023083,03 Sep 23,8,St Pats Mentone,Tennis World,No. 3,Talia Buchan,Harry Lipe,Talia Buchan,7-6,7,6,1,0,Completed,true,false,false
+UA023083,03 Sep 23,8,St Pats Mentone,Tennis World,No. 4,Ava Walter,Theodore Cifersons,Theodore Cifersons,4-6,4,6,0,1,Completed,true,false,false
+UA023084,03 Sep 23,8,Mentone,Patterson Lakes,No. 1,Alexis Sacris,Gurdeen Singh,Alexis Sacris,6-1,6,1,1,0,Completed,true,false,false
+UA023084,03 Sep 23,8,Mentone,Patterson Lakes,No. 2,Akira Kare,Darci Do Santos,Akira Kare,6-1,6,1,1,0,Completed,true,false,false
+UA023084,03 Sep 23,8,Mentone,Patterson Lakes,No. 3,Ruby Taylor,Matea Elezoski,Ruby Taylor,7-5,7,5,1,0,Completed,true,false,false
+UA023084,03 Sep 23,8,Mentone,Patterson Lakes,No. 4,Aarya Rao,Gurshan Sainianu,Aarya Rao,6-0,6,0,1,0,Completed,true,false,false
+UA023091,10 Sep 23,9,BLTC Blue,Mentone,No. 1,Jack Vanvuure,Alexis Sacris,Jack Vanvuure,6-3,6,3,1,0,Completed,true,false,false
+UA023091,10 Sep 23,9,BLTC Blue,Mentone,No. 2,Cameron Ward,Hayley Ferguson,Hayley Ferguson,4-6,4,6,0,1,Completed,true,false,false
+UA023091,10 Sep 23,9,BLTC Blue,Mentone,No. 3,Jacob Zheng,Ruby Taylor,Jacob Zheng,7-6,7,6,1,0,Completed,true,false,false
+UA023091,10 Sep 23,9,BLTC Blue,Mentone,No. 4,Annabelle Gorton,Aarya Rao,Annabelle Gorton,6-0,6,0,1,0,Completed,true,true,false
+UA023092,10 Sep 23,9,Kings Park White,Kings Park Red,No. 1,Jason Tang,Kevin Liu,Kevin Liu,1-6,1,6,0,1,Completed,true,false,false
+UA023092,10 Sep 23,9,Kings Park White,Kings Park Red,No. 2,Ethan Neale,Lucas Yang,Ethan Neale,6-4,6,4,1,0,Completed,true,false,false
+UA023092,10 Sep 23,9,Kings Park White,Kings Park Red,No. 3,Lucas Yang,Sihan Meng,Lucas Yang,6-1,6,1,1,0,Completed,true,false,false
+UA023092,10 Sep 23,9,Kings Park White,Kings Park Red,No. 4,Luca Caneschi-Llorca,Oscar Xu,Oscar Xu,5-7,5,7,0,1,Completed,true,false,false
+UA023093,10 Sep 23,9,Tennis World,Kings Park Blue,No. 1,Eve Potter,Olivia Luo,Eve Potter,6-0,6,0,1,0,Completed,true,false,false
+UA023093,10 Sep 23,9,Tennis World,Kings Park Blue,No. 2,Ayan Zahed,Jayden Lin,Ayan Zahed,6-2,6,2,1,0,Completed,true,false,false
+UA023093,10 Sep 23,9,Tennis World,Kings Park Blue,No. 3,Nicholas Pashulya,Lynah Tchim,Nicholas Pashulya,6-0,6,0,1,0,Completed,true,false,false
+UA023093,10 Sep 23,9,Tennis World,Kings Park Blue,No. 4,Harry Lipe,Alice Luo,Alice Luo,3-6,3,6,0,1,Completed,true,false,false
+UA023101,08 Oct 23,10,St Pats Mentone,BLTC Blue,No. 1,Madeline Jones,Jack Vanvuure,Madeline Jones,6-4,6,4,1,0,Completed,true,false,false
+UA023101,08 Oct 23,10,St Pats Mentone,BLTC Blue,No. 2,Thomas Kilkenny,Cameron Ward,Cameron Ward,4-6,4,6,0,1,Completed,true,false,false
+UA023101,08 Oct 23,10,St Pats Mentone,BLTC Blue,No. 3,India Buchan,Elliana Dupal,Elliana Dupal,1-6,1,6,0,1,Completed,true,false,false
+UA023101,08 Oct 23,10,St Pats Mentone,BLTC Blue,No. 4,Talia Buchan,Issabella Ley,Talia Buchan,6-1,6,1,1,0,Completed,true,false,false
+UA023102,08 Oct 23,10,Mentone,Kings Park White,No. 1,Hayley Ferguson,Jason Tang,Jason Tang,0-6,0,6,0,1,Completed,true,false,false
+UA023102,08 Oct 23,10,Mentone,Kings Park White,No. 2,Akira Kare,Ethan Neale,Akira Kare,6-4,6,4,1,0,Completed,true,false,false
+UA023102,08 Oct 23,10,Mentone,Kings Park White,No. 3,Ruby Taylor,Lucas Yang,Lucas Yang,0-6,0,6,0,1,Completed,true,false,false
+UA023102,08 Oct 23,10,Mentone,Kings Park White,No. 4,Aarya Rao,Luca Caneschi-Llorca,Aarya Rao,6-4,6,4,1,0,Completed,true,false,false
+UA023103,08 Oct 23,10,Kings Park Red,Tennis World,No. 1,Kevin Liu,Eve Potter,Kevin Liu,7-5,7,5,1,0,Completed,true,false,false
+UA023103,08 Oct 23,10,Kings Park Red,Tennis World,No. 2,Ryan Pan,Ayan Zahed,Ayan Zahed,3-6,3,6,0,1,Completed,true,false,false
+UA023103,08 Oct 23,10,Kings Park Red,Tennis World,No. 3,Sihan Meng,Nicholas Pashulya,Nicholas Pashulya,3-6,3,6,0,1,Completed,true,false,false
+UA023103,08 Oct 23,10,Kings Park Red,Tennis World,No. 4,Oscar Xu,James Potter,Oscar Xu,6-0,6,0,1,0,Completed,true,false,false
+UA023104,08 Oct 23,10,Kings Park Blue,Patterson Lakes,No. 1,Jayden Lin,Gurdeen Singh,Jayden Lin,6-1,6,1,1,0,Completed,true,false,false
+UA023104,08 Oct 23,10,Kings Park Blue,Patterson Lakes,No. 2,Lynah Tchim,Gurshan Sainianu,Lynah Tchim,6-1,6,1,1,0,Completed,true,false,false
+UA023104,08 Oct 23,10,Kings Park Blue,Patterson Lakes,No. 3,Maxwell Luo,Matea Elezoski,Maxwell Luo,6-1,6,1,1,0,Completed,true,false,false
+UA023104,08 Oct 23,10,Kings Park Blue,Patterson Lakes,No. 4,Alice Luo,Viyan Saravanan,Alice Luo,6-0,6,0,1,0,Completed,true,false,false
+UA023111,15 Oct 23,11,BLTC Blue,Kings Park Blue,No. 1,Jack Vanvuure,Olivia Luo,Jack Vanvuure,6-3,6,3,1,0,Completed,true,false,false
+UA023111,15 Oct 23,11,BLTC Blue,Kings Park Blue,No. 2,Cameron Ward,Jayden Lin,Jayden Lin,2-6,2,6,0,1,Completed,true,false,false
+UA023111,15 Oct 23,11,BLTC Blue,Kings Park Blue,No. 3,Elliana Dupal,Lynah Tchim,Lynah Tchim,1-6,1,6,0,1,Completed,true,false,false
+UA023111,15 Oct 23,11,BLTC Blue,Kings Park Blue,No. 4,Issabella Ley,Alice Luo,Alice Luo,0-6,0,6,0,1,Completed,true,false,false
+UA023112,15 Oct 23,11,Kings Park White,St Pats Mentone,No. 1,Jason Tang,Madeline Jones,Jason Tang,6-3,6,3,1,0,Completed,true,false,false
+UA023112,15 Oct 23,11,Kings Park White,St Pats Mentone,No. 2,Ethan Neale,Thomas Kilkenny,Ethan Neale,6-3,6,3,1,0,Completed,true,false,false
+UA023112,15 Oct 23,11,Kings Park White,St Pats Mentone,No. 3,Luca Caneschi-Llorca,Mia Walter,Luca Caneschi-Llorca,6-0,6,0,1,0,Completed,true,false,false
+UA023112,15 Oct 23,11,Kings Park White,St Pats Mentone,No. 4,Mitchell Zaal,Ava Walter,Mitchell Zaal,6-3,6,3,1,0,Completed,true,true,false
+UA023113,15 Oct 23,11,Tennis World,Mentone,No. 1,Eve Potter,Alexis Sacris,Eve Potter,6-4,6,4,1,0,Completed,true,false,false
+UA023113,15 Oct 23,11,Tennis World,Mentone,No. 2,Nicholas Pashulya,Akira Kare,Nicholas Pashulya,6-3,6,3,1,0,Completed,true,false,false
+UA023113,15 Oct 23,11,Tennis World,Mentone,No. 3,Harry Lipe,Ruby Taylor,Ruby Taylor,1-6,1,6,0,1,Completed,true,false,false
+UA023113,15 Oct 23,11,Tennis World,Mentone,No. 4,Eamon Croke,Aarya Rao,Aarya Rao,5-7,5,7,0,1,Completed,true,false,false
+UA023114,15 Oct 23,11,Patterson Lakes,Kings Park Red,No. 1,Gurdeen Singh,Kevin Liu,Kevin Liu,1-6,1,6,0,1,Completed,true,false,false
+UA023114,15 Oct 23,11,Patterson Lakes,Kings Park Red,No. 2,Gurshan Sainianu,Ryan Pan,Ryan Pan,0-6,0,6,0,1,Completed,true,false,false
+UA023114,15 Oct 23,11,Patterson Lakes,Kings Park Red,No. 3,Viyan Saravanan,Lucas Yang,Lucas Yang,2-6,2,6,0,1,Completed,true,false,false
+UA023114,15 Oct 23,11,Patterson Lakes,Kings Park Red,No. 4,[Unnamed player — TROLS UA023114 home code 4],Oscar Xu,Oscar Xu,0-6,0,6,0,1,Completed,false,false,false
+UA023122,22 Oct 23,12,St Pats Mentone,Mentone,No. 1,Mia Walter,Alexis Sacris,Alexis Sacris,1-6,1,6,0,1,Completed,true,false,false
+UA023122,22 Oct 23,12,St Pats Mentone,Mentone,No. 2,India Buchan,Hayley Ferguson,Hayley Ferguson,2-6,2,6,0,1,Completed,true,false,false
+UA023122,22 Oct 23,12,St Pats Mentone,Mentone,No. 3,[Unnamed player — TROLS UA023122 home code 3],Akira Kare,Akira Kare,0-6,0,6,0,1,Completed,false,false,false
+UA023122,22 Oct 23,12,St Pats Mentone,Mentone,No. 4,Ava Walter,Ruby Taylor,Ruby Taylor,4-6,4,6,0,1,Completed,true,false,false
+UA023131,29 Oct 23,13,Tennis World,Kings Park White,No. 1,Eve Potter,Jason Tang,Eve Potter,6-2,6,2,1,0,Completed,true,false,false
+UA023131,29 Oct 23,13,Tennis World,Kings Park White,No. 2,Ayan Zahed,Ethan Neale,Ayan Zahed,6-2,6,2,1,0,Completed,true,false,false
+UA023131,29 Oct 23,13,Tennis World,Kings Park White,No. 3,Nicholas Pashulya,Lucas Yang,Lucas Yang,0-6,0,6,0,1,Completed,true,false,false
+UA023131,29 Oct 23,13,Tennis World,Kings Park White,No. 4,Eamon Croke,Luca Caneschi-Llorca,Eamon Croke,6-1,6,1,1,0,Completed,true,false,false
+UA023132,29 Oct 23,13,BLTC Blue,Patterson Lakes,No. 1,Jack Vanvuure,Gurdeen Singh,Jack Vanvuure,6-1,6,1,1,0,Completed,true,false,false
+UA023132,29 Oct 23,13,BLTC Blue,Patterson Lakes,No. 2,Cameron Ward,Darci Do Santos,Cameron Ward,6-1,6,1,1,0,Completed,true,false,false
+UA023132,29 Oct 23,13,BLTC Blue,Patterson Lakes,No. 3,Elliana Dupal,Gurshan Sainianu,Elliana Dupal,6-0,6,0,1,0,Completed,true,false,false
+UA023132,29 Oct 23,13,BLTC Blue,Patterson Lakes,No. 4,Issabella Ley,Matea Elezoski,Matea Elezoski,1-6,1,6,0,1,Completed,true,false,false
+UA023133,29 Oct 23,13,Kings Park Blue,St Pats Mentone,No. 1,Olivia Luo,Madeline Jones,Olivia Luo,7-5,7,5,1,0,Completed,true,false,false
+UA023133,29 Oct 23,13,Kings Park Blue,St Pats Mentone,No. 2,Jayden Lin,Thomas Kilkenny,Jayden Lin,6-0,6,0,1,0,Completed,true,false,false
+UA023133,29 Oct 23,13,Kings Park Blue,St Pats Mentone,No. 3,Lynah Tchim,India Buchan,Lynah Tchim,6-2,6,2,1,0,Completed,true,false,false
+UA023133,29 Oct 23,13,Kings Park Blue,St Pats Mentone,No. 4,Maxwell Luo,Talia Buchan,Maxwell Luo,6-0,6,0,1,0,Completed,true,false,false
+UA023134,29 Oct 23,13,Mentone,Kings Park Red,No. 1,Alexis Sacris,Kevin Liu,Alexis Sacris,6-4,6,4,1,0,Completed,true,false,false
+UA023134,29 Oct 23,13,Mentone,Kings Park Red,No. 2,Hayley Ferguson,Lucas Yang,Lucas Yang,4-6,4,6,0,1,Completed,true,false,false
+UA023134,29 Oct 23,13,Mentone,Kings Park Red,No. 3,Akira Kare,Sihan Meng,Akira Kare,6-3,6,3,1,0,Completed,true,false,false
+UA023134,29 Oct 23,13,Mentone,Kings Park Red,No. 4,Ruby Taylor,Oscar Xu,Ruby Taylor,6-3,6,3,1,0,Completed,true,false,false
+UA023141,12 Nov 23,14,Tennis World,BLTC Blue,No. 1,Eve Potter,Jack Vanvuure,Eve Potter,6-2,6,2,1,0,Completed,true,false,false
+UA023141,12 Nov 23,14,Tennis World,BLTC Blue,No. 2,Ayan Zahed,Cameron Ward,Ayan Zahed,6-0,6,0,1,0,Completed,true,false,false
+UA023141,12 Nov 23,14,Tennis World,BLTC Blue,No. 3,Nicholas Pashulya,Elliana Dupal,Nicholas Pashulya,6-4,6,4,1,0,Completed,true,false,false
+UA023141,12 Nov 23,14,Tennis World,BLTC Blue,No. 4,Eamon Croke,Issabella Ley,Eamon Croke,6-1,6,1,1,0,Completed,true,false,false
+UA023142,12 Nov 23,14,Patterson Lakes,Kings Park White,No. 1,Darci Do Santos,Jason Tang,Jason Tang,1-6,1,6,0,1,Completed,true,false,false
+UA023142,12 Nov 23,14,Patterson Lakes,Kings Park White,No. 2,Matea Elezoski,Ethan Neale,Ethan Neale,0-6,0,6,0,1,Completed,true,false,false
+UA023142,12 Nov 23,14,Patterson Lakes,Kings Park White,No. 3,Viyan Saravanan,Lucas Yang,Lucas Yang,0-6,0,6,0,1,Completed,true,false,false
+UA023142,12 Nov 23,14,Patterson Lakes,Kings Park White,No. 4,[Unnamed player — TROLS UA023142 home code 4],Luca Caneschi-Llorca,Luca Caneschi-Llorca,0-6,0,6,0,1,Completed,false,false,false
+UA023143,12 Nov 23,14,Kings Park Blue,Mentone,No. 1,Olivia Luo,Alexis Sacris,Olivia Luo,6-2,6,2,1,0,Completed,true,false,false
+UA023143,12 Nov 23,14,Kings Park Blue,Mentone,No. 2,Jayden Lin,Hayley Ferguson,Jayden Lin,7-5,7,5,1,0,Completed,true,false,false
+UA023143,12 Nov 23,14,Kings Park Blue,Mentone,No. 3,Lynah Tchim,Ruby Taylor,Ruby Taylor,0-6,0,6,0,1,Completed,true,false,false
+UA023143,12 Nov 23,14,Kings Park Blue,Mentone,No. 4,Alice Luo,Aarya Rao,Alice Luo,6-3,6,3,1,0,Completed,true,false,false
+UA023144,12 Nov 23,14,Kings Park Red,St Pats Mentone,No. 1,Kevin Liu,Mia Walter,Kevin Liu,6-0,6,0,1,0,Completed,true,false,false
+UA023144,12 Nov 23,14,Kings Park Red,St Pats Mentone,No. 2,Ryan Pan,Thomas Kilkenny,Ryan Pan,6-2,6,2,1,0,Completed,true,false,false
+UA023144,12 Nov 23,14,Kings Park Red,St Pats Mentone,No. 3,Sihan Meng,Talia Buchan,Sihan Meng,6-4,6,4,1,0,Completed,true,false,false
+UA023144,12 Nov 23,14,Kings Park Red,St Pats Mentone,No. 4,Oscar Xu,Ava Walter,Oscar Xu,6-3,6,3,1,0,Completed,true,false,false
+UA023301,,16,Kings Park White,Mentone,No. 1,Jason Tang,Alexis Sacris,Jason Tang,6-3,6,3,1,0,Completed,true,false,false
+UA023301,,16,Kings Park White,Mentone,No. 2,Ethan Neale,Hayley Ferguson,Ethan Neale,6-4,6,4,1,0,Completed,true,false,false
+UA023301,,16,Kings Park White,Mentone,No. 3,Lucas Yang,Akira Kare,Lucas Yang,6-2,6,2,1,0,Completed,true,false,false
+UA023301,,16,Kings Park White,Mentone,No. 4,Luca Caneschi-Llorca,Aarya Rao,Luca Caneschi-Llorca,6-4,6,4,1,0,Completed,true,false,false
+UA023302,,16,Kings Park Blue,Tennis World,No. 1,Olivia Luo,Eve Potter,Olivia Luo,6-4,6,4,1,0,Completed,true,false,false
+UA023302,,16,Kings Park Blue,Tennis World,No. 2,Jayden Lin,Ayan Zahed,Ayan Zahed,4-6,4,6,0,1,Completed,true,false,false
+UA023302,,16,Kings Park Blue,Tennis World,No. 3,Maxwell Luo,Nicholas Pashulya,Nicholas Pashulya,0-6,0,6,0,1,Completed,true,false,false
+UA023302,,16,Kings Park Blue,Tennis World,No. 4,Alice Luo,Eamon Croke,Eamon Croke,0-6,0,6,0,1,Completed,true,false,false
+UA023321,,17,Kings Park White,Tennis World,No. 1,Jason Tang,Eve Potter,Jason Tang,6-1,6,1,1,0,Completed,true,false,false
+UA023321,,17,Kings Park White,Tennis World,No. 2,Ethan Neale,Ayan Zahed,Ayan Zahed,4-6,4,6,0,1,Completed,true,false,false
+UA023321,,17,Kings Park White,Tennis World,No. 3,Lucas Yang,Nicholas Pashulya,Lucas Yang,6-2,6,2,1,0,Completed,true,false,false
+UA023321,,17,Kings Park White,Tennis World,No. 4,Luca Caneschi-Llorca,Eamon Croke,Eamon Croke,2-6,2,6,0,1,Completed,true,false,false

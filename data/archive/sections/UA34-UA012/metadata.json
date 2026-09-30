@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA34-UA012",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2024",
+  "season_id": "UA34",
+  "season_label": "Autumn 2024",
+  "source_section_code": "UA012",
+  "section_label": "Section 12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Elsternwick Park",
+      "wins": 13,
+      "points": 120,
+      "percentage": 191.32,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Black Rock",
+      "wins": 10,
+      "points": 90,
+      "percentage": 119.71,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "BLTC Blue",
+      "wins": 10,
+      "points": 88,
+      "percentage": 117.84,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Coatesville",
+      "wins": 7,
+      "points": 68,
+      "percentage": 96.69,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Tennis World",
+      "wins": 4,
+      "points": 54,
+      "percentage": 88.27,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kings Park",
+      "wins": 5,
+      "points": 51,
+      "percentage": 76.08,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 4,
+      "points": 47,
+      "percentage": 76.54,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC",
+      "wins": 2,
+      "points": 42,
+      "percentage": 78.4,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA34-UA012",
+  "fixtures": 59,
+  "completed_fixtures": 59,
+  "draw_fixtures": 45,
+  "singles_rubbers": 236,
+  "doubles_rubbers": 118,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

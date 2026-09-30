@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA32-UA010",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2023",
+  "season_id": "UA32",
+  "season_label": "Autumn 2023",
+  "source_section_code": "UA010",
+  "section_label": "Section 10",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park",
+      "wins": 8,
+      "points": 92,
+      "percentage": 150.0,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Victory Park",
+      "wins": 8,
+      "points": 91,
+      "percentage": 150.98,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Mentone",
+      "wins": 7,
+      "points": 77,
+      "percentage": 114.34,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 5,
+      "points": 65,
+      "percentage": 101.15,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Carmelite",
+      "wins": 5,
+      "points": 64,
+      "percentage": 97.0,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St Andrews MB GO",
+      "wins": 4,
+      "points": 60,
+      "percentage": 92.66,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park",
+      "wins": 2,
+      "points": 42,
+      "percentage": 76.51,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Maccabi Moorleigh",
+      "wins": 1,
+      "points": 29,
+      "percentage": 53.29,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA32-UA010",
+  "fixtures": 55,
+  "completed_fixtures": 42,
+  "draw_fixtures": 59,
+  "singles_rubbers": 168,
+  "doubles_rubbers": 84,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

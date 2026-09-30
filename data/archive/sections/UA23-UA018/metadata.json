@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA23-UA018",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2018",
+  "season_id": "UA23",
+  "season_label": "Spring 2018",
+  "source_section_code": "UA018",
+  "section_label": "Section 18",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park",
+      "wins": 11,
+      "points": 102,
+      "percentage": 152.83,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "St Andrews MB Kevin",
+      "wins": 9,
+      "points": 92,
+      "percentage": 126.47,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Le Page 1",
+      "wins": 8,
+      "points": 78,
+      "percentage": 118.79,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Aspendale",
+      "wins": 7,
+      "points": 73,
+      "percentage": 99.7,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Caulfield Rec",
+      "wins": 6,
+      "points": 68,
+      "percentage": 100.0,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave",
+      "wins": 4,
+      "points": 61,
+      "percentage": 91.71,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Le Page 2",
+      "wins": 4,
+      "points": 59,
+      "percentage": 91.94,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC MLC",
+      "wins": 2,
+      "points": 27,
+      "percentage": 48.11,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA23-UA018",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

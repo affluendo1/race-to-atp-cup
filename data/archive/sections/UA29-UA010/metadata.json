@@ -1,0 +1,85 @@
+{
+  "asset_id": "UA29-UA010",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2021",
+  "season_id": "UA29",
+  "season_label": "Spring 2021",
+  "source_section_code": "UA010",
+  "section_label": "Section 10",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Centenary Park",
+      "wins": 5,
+      "points": 81,
+      "percentage": 184.55,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Elsternwick Park No.1",
+      "wins": 3,
+      "points": 77,
+      "percentage": 224.66,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Elsternwick Park No.2",
+      "wins": 3,
+      "points": 68,
+      "percentage": 121.21,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kings Park",
+      "wins": 2,
+      "points": 58,
+      "percentage": 98.03,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Glen Huntly",
+      "wins": 2,
+      "points": 51,
+      "percentage": 53.67,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC",
+      "wins": 1,
+      "points": 46,
+      "percentage": 74.44,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Hurlingham Park",
+      "wins": 0,
+      "points": 39,
+      "percentage": 58.03,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA29-UA010",
+  "fixtures": 56,
+  "completed_fixtures": 17,
+  "draw_fixtures": 56,
+  "singles_rubbers": 64,
+  "doubles_rubbers": 31,
+  "latest_round": 14,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA010132"
+  ]
+}

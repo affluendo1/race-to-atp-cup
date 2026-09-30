@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA36-UA023",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2025",
+  "season_id": "UA36",
+  "season_label": "Autumn 2025",
+  "source_section_code": "UA023",
+  "section_label": "Section 23",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Royal South Yarra Navy",
+      "wins": 11,
+      "points": 105,
+      "percentage": 171.05,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Pats Mentone",
+      "wins": 11,
+      "points": 101,
+      "percentage": 138.1,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Royal South Yarra Gold",
+      "wins": 9,
+      "points": 96,
+      "percentage": 150.89,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Kooyong",
+      "wins": 6,
+      "points": 70,
+      "percentage": 92.26,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC Blue",
+      "wins": 5,
+      "points": 58,
+      "percentage": 93.09,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Hurlingham Park",
+      "wins": 4,
+      "points": 55,
+      "percentage": 75.61,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC White",
+      "wins": 3,
+      "points": 50,
+      "percentage": 87.7,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Highmoor Uniting",
+      "wins": 1,
+      "points": 25,
+      "percentage": 46.01,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA36-UA023",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 45,
+  "singles_rubbers": 216,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

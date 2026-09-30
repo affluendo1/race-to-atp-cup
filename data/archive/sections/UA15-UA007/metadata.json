@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA15-UA007",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2014",
+  "season_id": "UA15",
+  "season_label": "Spring 2014",
+  "source_section_code": "UA007",
+  "section_label": "Section 7",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Bodley Tennis Plus",
+      "wins": 11,
+      "points": 104,
+      "percentage": 150.62,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Glen Eira Brook",
+      "wins": 11,
+      "points": 102,
+      "percentage": 146.24,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Royal Ave 1",
+      "wins": 8,
+      "points": 82,
+      "percentage": 118.95,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Dendy Park 1",
+      "wins": 5,
+      "points": 70,
+      "percentage": 112.15,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Tennis World",
+      "wins": 4,
+      "points": 56,
+      "percentage": 81.59,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC",
+      "wins": 5,
+      "points": 53,
+      "percentage": 77.23,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park 2",
+      "wins": 1,
+      "points": 47,
+      "percentage": 79.57,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave 2",
+      "wins": 3,
+      "points": 46,
+      "percentage": 66.1,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA15-UA007",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

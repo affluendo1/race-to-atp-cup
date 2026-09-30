@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA001011,27 Jul 25,1,regular,Round 1,BLTC White,Carmelite,10,0,6,0,,,37,10,Completed,
+UA001012,27 Jul 25,1,regular,Round 1,Royal South Yarra,Highmoor Uniting,2,8,2,4,,,23,27,Completed,
+UA001013,27 Jul 25,1,regular,Round 1,Glen Huntly,Black Rock,1,9,1,5,,,28,37,Completed,
+UA001014,27 Jul 25,1,regular,Round 1,BLTC Blue,BLTC Red,9,1,5,1,,,33,13,Completed,
+UA001021,03 Aug 25,2,regular,Round 2,BLTC Red,BLTC White,2,8,2,4,,,19,32,Completed,
+UA001022,03 Aug 25,2,regular,Round 2,Carmelite,Royal South Yarra,1,9,1,5,,,14,32,Completed,
+UA001023,03 Aug 25,2,regular,Round 2,Highmoor Uniting,Glen Huntly,9,1,5,1,,,32,23,Completed,
+UA001024,03 Aug 25,2,regular,Round 2,Black Rock,BLTC Blue,1,9,1,5,,,20,35,Completed,
+UA001031,10 Aug 25,3,regular,Round 3,BLTC White,Black Rock,7,3,3,3,,,29,25,Completed,
+UA001032,10 Aug 25,3,regular,Round 3,Royal South Yarra,BLTC Red,3,7,3,3,,,27,29,Completed,
+UA001033,10 Aug 25,3,regular,Round 3,Glen Huntly,Carmelite,10,0,6,0,,,36,11,Completed,
+UA001034,10 Aug 25,3,regular,Round 3,BLTC Blue,Highmoor Uniting,8,2,4,2,,,36,23,Completed,
+UA001041,17 Aug 25,4,regular,Round 4,Highmoor Uniting,BLTC White,0,10,0,6,,,16,38,Completed,
+UA001042,17 Aug 25,4,regular,Round 4,Black Rock,Royal South Yarra,8,2,4,2,,,30,23,Completed,
+UA001043,17 Aug 25,4,regular,Round 4,BLTC Red,Glen Huntly,9,1,5,1,,,33,17,Completed,
+UA001044,17 Aug 25,4,regular,Round 4,Carmelite,BLTC Blue,3,7,3,3,,,24,28,Completed,
+UA001051,24 Aug 25,5,regular,Round 5,Glen Huntly,BLTC Blue,7,3,3,3,,,27,25,Completed,
+UA001052,24 Aug 25,5,regular,Round 5,BLTC Red,Black Rock,9,1,5,1,,,36,21,Completed,
+UA001053,24 Aug 25,5,regular,Round 5,Highmoor Uniting,Carmelite,3,7,3,3,,,25,26,Completed,
+UA001054,24 Aug 25,5,regular,Round 5,BLTC White,Royal South Yarra,9,1,5,1,,,33,15,Completed,
+UA001061,31 Aug 25,6,regular,Round 6,Royal South Yarra,Glen Huntly,8,2,4,2,,,28,15,Completed,
+UA001062,31 Aug 25,6,regular,Round 6,BLTC Blue,BLTC White,3,7,3,3,,,27,31,Completed,
+UA001063,31 Aug 25,6,regular,Round 6,Black Rock,Highmoor Uniting,6,4,2,4,,,25,25,Completed,
+UA001064,31 Aug 25,6,regular,Round 6,Carmelite,BLTC Red,2,8,2,4,,,21,27,Completed,
+UA001071,07 Sep 25,7,regular,Round 7,BLTC White,Glen Huntly,2,8,2,4,,,28,33,Completed,
+UA001072,07 Sep 25,7,regular,Round 7,Royal South Yarra,BLTC Blue,1,9,1,5,,,15,36,Completed,
+UA001073,07 Sep 25,7,regular,Round 7,BLTC Red,Highmoor Uniting,8,2,4,2,,,31,14,Completed,
+UA001074,07 Sep 25,7,regular,Round 7,Black Rock,Carmelite,2,8,2,4,,,28,32,Completed,
+UA001081,14 Sep 25,8,regular,Round 8,Carmelite,BLTC White,0,10,0,6,,,12,36,Completed,
+UA001082,14 Sep 25,8,regular,Round 8,Highmoor Uniting,Royal South Yarra,7,3,3,3,,,30,28,Completed,
+UA001083,14 Sep 25,8,regular,Round 8,Black Rock,Glen Huntly,5,5,3,3,,,30,30,Completed,
+UA001084,14 Sep 25,8,regular,Round 8,BLTC Red,BLTC Blue,3,7,3,3,,,21,30,Completed,
+UA001091,12 Oct 25,9,regular,Round 9,BLTC White,BLTC Red,8,2,4,2,,,33,22,Completed,
+UA001092,12 Oct 25,9,regular,Round 9,Royal South Yarra,Carmelite,2,8,2,4,,,26,31,Completed,
+UA001093,12 Oct 25,9,regular,Round 9,Glen Huntly,Highmoor Uniting,10,0,6,0,,,37,12,Completed,
+UA001094,12 Oct 25,9,regular,Round 9,BLTC Blue,Black Rock,9,1,5,1,,,35,22,Completed,
+UA001101,19 Oct 25,10,regular,Round 10,Black Rock,BLTC White,0,10,0,6,,,10,36,Completed,
+UA001102,19 Oct 25,10,regular,Round 10,BLTC Red,Royal South Yarra,7,3,3,3,,,32,27,Completed,
+UA001103,19 Oct 25,10,regular,Round 10,Carmelite,Glen Huntly,1,9,1,5,,,17,34,Completed,
+UA001104,19 Oct 25,10,regular,Round 10,Highmoor Uniting,BLTC Blue,1,9,1,5,,,11,30,Completed,
+pending-ua001-r11-bltc-blue-carmelite,26 Oct 25,11,regular,Round 11,BLTC Blue,Carmelite,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r11-bltc-white-highmoor-uniting,26 Oct 25,11,regular,Round 11,BLTC White,Highmoor Uniting,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r11-glen-huntly-bltc-red,26 Oct 25,11,regular,Round 11,Glen Huntly,BLTC Red,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r11-royal-south-yarra-black-rock,26 Oct 25,11,regular,Round 11,Royal South Yarra,Black Rock,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA001121,09 Nov 25,12,regular,Round 12,BLTC Blue,Glen Huntly,9,1,5,1,,,35,19,Completed,
+UA001122,09 Nov 25,12,regular,Round 12,Black Rock,BLTC Red,2,8,2,4,,,18,32,Completed,
+pending-ua001-r12-carmelite-highmoor-uniting,09 Nov 25,12,regular,Round 12,Carmelite,Highmoor Uniting,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r12-royal-south-yarra-bltc-white,09 Nov 25,12,regular,Round 12,Royal South Yarra,BLTC White,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA001131,16 Nov 25,13,regular,Round 13,Glen Huntly,Royal South Yarra,9,1,5,1,,,36,23,Completed,
+UA001132,16 Nov 25,13,regular,Round 13,BLTC White,BLTC Blue,8,2,4,2,,,34,19,Completed,
+UA001133,16 Nov 25,13,regular,Round 13,Highmoor Uniting,Black Rock,3,7,3,3,,,23,29,Completed,
+UA001134,16 Nov 25,13,regular,Round 13,BLTC Red,Carmelite,10,0,6,0,,,36,8,Completed,
+pending-ua001-r14-bltc-blue-royal-south-yarra,23 Nov 25,14,regular,Round 14,BLTC Blue,Royal South Yarra,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r14-carmelite-black-rock,23 Nov 25,14,regular,Round 14,Carmelite,Black Rock,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r14-glen-huntly-bltc-white,23 Nov 25,14,regular,Round 14,Glen Huntly,BLTC White,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua001-r14-highmoor-uniting-bltc-red,23 Nov 25,14,regular,Round 14,Highmoor Uniting,BLTC Red,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA001301,,16,semi_final,Semi-final,BLTC White,Glen Huntly,7,3,3,3,,,27,24,Completed,
+UA001302,,16,semi_final,Semi-final,BLTC Blue,BLTC Red,8,2,4,2,,,28,22,Completed,
+UA001321,,17,grand_final,Grand final · TROLS entry 2,BLTC White,BLTC Blue,7,3,3,3,,,27,23,Completed,

@@ -1,0 +1,108 @@
+{
+  "asset_id": "AA47-AA002",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Autumn 2020",
+  "season_id": "AA47",
+  "season_label": "Autumn 2020",
+  "source_section_code": "AA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite 3",
+      "wins": 4,
+      "points": 62,
+      "percentage": 118.03,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Kooyong MLC",
+      "wins": 3,
+      "points": 58.5,
+      "percentage": 117.45,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Carmelite 1",
+      "wins": 2,
+      "points": 55,
+      "percentage": 125.6,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Royal South Yarra",
+      "wins": 2,
+      "points": 43,
+      "percentage": 88.05,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Port Melbourne Red",
+      "wins": 1,
+      "points": 39,
+      "percentage": 90.61,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Port Melbourne Blue",
+      "wins": 1,
+      "points": 37,
+      "percentage": 87.02,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Carmelite 2",
+      "wins": 1,
+      "points": 35.5,
+      "percentage": 81.47,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA47-AA002",
+  "fixtures": 44,
+  "completed_fixtures": 28,
+  "draw_fixtures": 42,
+  "singles_rubbers": 59,
+  "doubles_rubbers": 32,
+  "latest_round": 11,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "No scorecard rubbers for AA002081",
+    "Fixture game totals do not match rubbers for AA002081",
+    "No scorecard rubbers for AA002082",
+    "Fixture game totals do not match rubbers for AA002082",
+    "No scorecard rubbers for AA002083",
+    "Fixture game totals do not match rubbers for AA002083",
+    "No scorecard rubbers for AA002092",
+    "Fixture game totals do not match rubbers for AA002092",
+    "No scorecard rubbers for AA002093",
+    "Fixture game totals do not match rubbers for AA002093",
+    "No scorecard rubbers for AA002094",
+    "Fixture game totals do not match rubbers for AA002094",
+    "No scorecard rubbers for AA002101",
+    "Fixture game totals do not match rubbers for AA002101",
+    "No scorecard rubbers for AA002103",
+    "Fixture game totals do not match rubbers for AA002103",
+    "No scorecard rubbers for AA002104",
+    "Fixture game totals do not match rubbers for AA002104",
+    "No scorecard rubbers for AA002111",
+    "Fixture game totals do not match rubbers for AA002111",
+    "No scorecard rubbers for AA002112",
+    "Fixture game totals do not match rubbers for AA002112",
+    "No scorecard rubbers for AA002114",
+    "Fixture game totals do not match rubbers for AA002114"
+  ]
+}

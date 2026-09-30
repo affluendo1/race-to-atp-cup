@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA11-UA003",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2012",
+  "season_id": "UA11",
+  "season_label": "Spring 2012",
+  "source_section_code": "UA003",
+  "section_label": "Section 3",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Dendy Park 1",
+      "wins": 12,
+      "points": 117,
+      "percentage": 187.77,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Chelsea Heights",
+      "wins": 11,
+      "points": 105.5,
+      "percentage": 135.69,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 7,
+      "points": 72,
+      "percentage": 98.43,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Dendy Park 2",
+      "wins": 6,
+      "points": 67,
+      "percentage": 95.03,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong Scotch",
+      "wins": 6,
+      "points": 63,
+      "percentage": 101.71,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Hurlingham Park",
+      "wins": 4,
+      "points": 48,
+      "percentage": 75.62,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Bodley Tennis Plus",
+      "wins": 3,
+      "points": 45.5,
+      "percentage": 74.51,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Parkdale",
+      "wins": 3,
+      "points": 42,
+      "percentage": 77.75,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA11-UA003",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 45,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for UA003142"
+  ]
+}

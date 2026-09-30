@@ -1,0 +1,99 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA001011,31 Jan 26,1,Clarinda,BLTC,No. 1,Sher Sidhu,Charlie Pettifer,Charlie Pettifer,6-7 4-6,10,13,0,2,Completed,true,false,false
+AA001011,31 Jan 26,1,Clarinda,BLTC,No. 2,Veer Sidhu,Harry Bennett,Veer Sidhu,6-1 6-3,12,4,2,0,Completed,true,false,false
+AA001012,31 Jan 26,1,Port Melbourne,Ormond Red,No. 1,Nevan Harrap,Dean Smith,Nevan Harrap,6-3 6-2,12,5,2,0,Completed,true,false,false
+AA001012,31 Jan 26,1,Port Melbourne,Ormond Red,No. 2,Max Lai,Stephen Rassias,Max Lai,2-6 6-1 7-6,15,13,2,1,Completed,true,false,false
+AA001013,31 Jan 26,1,Ormond Blue,Ormond Yellow,No. 1,Jack Wiesner,Arjun Nair,Arjun Nair,3-6 0-6,3,12,0,2,Completed,true,false,false
+AA001013,31 Jan 26,1,Ormond Blue,Ormond Yellow,No. 2,Mathew Li,Nikunj Savniya,Mathew Li,7-5 6-1,13,6,2,0,Completed,true,false,false
+AA001021,07 Feb 26,2,Parkdale,Clarinda,No. 1,Tahlia Gunawardana,Rahul Sajan,Rahul Sajan,0-6 2-6,2,12,0,2,Completed,true,false,false
+AA001021,07 Feb 26,2,Parkdale,Clarinda,No. 2,Harper-Lee Coombes,Kenny Poirier,Kenny Poirier,1-6 0-6,1,12,0,2,Completed,true,false,false
+AA001022,07 Feb 26,2,BLTC,Port Melbourne,No. 1,Charlie Pettifer,Nevan Harrap,Charlie Pettifer,6-1 6-2,12,3,2,0,Completed,true,false,false
+AA001022,07 Feb 26,2,BLTC,Port Melbourne,No. 2,Harry Bennett,Cameron Gordon,Harry Bennett,7-6 3-6 7-6,17,18,2,1,Completed,true,false,false
+AA001023,07 Feb 26,2,Ormond Red,Ormond Blue,No. 1,Dean Smith,Jack Wiesner,Dean Smith,7-6 6-4,13,10,2,0,Completed,true,false,false
+AA001023,07 Feb 26,2,Ormond Red,Ormond Blue,No. 2,Hamish Marsden,Johan Bode,Johan Bode,0-6 1-6,1,12,0,2,Completed,true,false,false
+AA001024,07 Feb 26,2,Ormond Yellow,Highmoor Uniting,No. 1,Arjun Nair,Erik Bucko,Erik Bucko,1-6 1-6,2,12,0,2,Completed,true,false,false
+AA001024,07 Feb 26,2,Ormond Yellow,Highmoor Uniting,No. 2,Nikunj Savniya,Luke Young,Luke Young,1-6 6-7,7,13,0,2,Completed,true,false,false
+AA001031,14 Feb 26,3,Clarinda,Ormond Yellow,No. 1,Veer Sidhu,Arjun Nair,Veer Sidhu,6-1 6-0,12,1,2,0,Completed,true,false,false
+AA001031,14 Feb 26,3,Clarinda,Ormond Yellow,No. 2,Kenny Poirier,Nikunj Savniya,Kenny Poirier,6-0 4-6 7-6,17,12,2,1,Completed,true,false,false
+AA001032,14 Feb 26,3,Port Melbourne,Parkdale,No. 1,Cameron Gordon,Tahlia Gunawardana,Cameron Gordon,6-1 6-3,12,4,2,0,Completed,true,false,false
+AA001032,14 Feb 26,3,Port Melbourne,Parkdale,No. 2,Max Lai,Evelyn Evdokimov,Evelyn Evdokimov,4-6 3-6,7,12,0,2,Completed,true,false,false
+AA001033,14 Feb 26,3,Ormond Blue,BLTC,No. 1,Johan Bode,Charlie Pettifer,Charlie Pettifer,1-6 0-6,1,12,0,2,Completed,true,false,false
+AA001033,14 Feb 26,3,Ormond Blue,BLTC,No. 2,Mathew Li,Harry Bennett,Harry Bennett,2-6 1-6,3,12,0,2,Completed,true,false,false
+AA001034,14 Feb 26,3,Highmoor Uniting,Ormond Red,No. 1,Lazar Suluburic,Dean Smith,Lazar Suluburic,2-6 6-3 7-6,15,15,2,1,Completed,true,false,false
+AA001034,14 Feb 26,3,Highmoor Uniting,Ormond Red,No. 2,Luke Young,Stephen Rassias,Luke Young,6-1 6-2,12,3,2,0,Completed,true,false,false
+AA001041,21 Feb 26,4,Ormond Red,Clarinda,No. 1,Stephen Rassias,Sher Sidhu,Sher Sidhu,1-6 2-6,3,12,0,2,Completed,true,false,false
+AA001041,21 Feb 26,4,Ormond Red,Clarinda,No. 2,Hamish Marsden,Kenny Poirier,Kenny Poirier,1-6 1-6,2,12,0,2,Completed,true,false,false
+AA001042,21 Feb 26,4,Ormond Yellow,Port Melbourne,No. 1,Arjun Nair,Nevan Harrap,Arjun Nair,6-4 6-4,12,8,2,0,Completed,true,false,false
+AA001042,21 Feb 26,4,Ormond Yellow,Port Melbourne,No. 2,Nikunj Savniya,Max Lai,Nikunj Savniya,6-0 3-6 7-6,16,12,2,1,Completed,true,false,false
+AA001043,21 Feb 26,4,Parkdale,Ormond Blue,No. 1,Tahlia Gunawardana,Johan Bode,Johan Bode,0-6 0-6,0,12,0,2,Completed,true,false,false
+AA001043,21 Feb 26,4,Parkdale,Ormond Blue,No. 2,Harper-Lee Coombes,Mathew Li,Mathew Li,0-6 3-6,3,12,0,2,Completed,true,false,false
+AA001044,21 Feb 26,4,BLTC,Highmoor Uniting,No. 1,Minato Sata,Lazar Suluburic,Lazar Suluburic,7-6 4-6 6-7,17,19,1,2,Completed,true,false,false
+AA001044,21 Feb 26,4,BLTC,Highmoor Uniting,No. 2,Harry Bennett,Luka Suluburic,Luka Suluburic,0-6 4-6,4,12,0,2,Completed,true,false,false
+AA001051,28 Feb 26,5,Ormond Blue,Highmoor Uniting,No. 1,Jack Wiesner,Lazar Suluburic,Lazar Suluburic,1-6 2-6,3,12,0,2,Completed,true,false,false
+AA001051,28 Feb 26,5,Ormond Blue,Highmoor Uniting,No. 2,Johan Bode,Luka Suluburic,Luka Suluburic,1-6 2-6,3,12,0,2,Completed,true,false,false
+AA001052,28 Feb 26,5,Parkdale,Ormond Yellow,No. 1,Tahlia Gunawardana,Arjun Nair,Arjun Nair,2-6 4-6,6,12,0,2,Completed,true,false,false
+AA001052,28 Feb 26,5,Parkdale,Ormond Yellow,No. 2,Harper-Lee Coombes,Nikunj Savniya,Nikunj Savniya,0-6 2-6,2,12,0,2,Completed,true,false,false
+AA001053,28 Feb 26,5,Ormond Red,BLTC,No. 1,Stephen Rassias,Minato Sata,Minato Sata,0-6 2-6,2,12,0,2,Completed,true,false,false
+AA001053,28 Feb 26,5,Ormond Red,BLTC,No. 2,Hamish Marsden,Harry Bennett,Harry Bennett,1-6 0-6,1,12,0,2,Completed,true,false,false
+AA001054,28 Feb 26,5,Clarinda,Port Melbourne,No. 1,Sher Sidhu,Nevan Harrap,Sher Sidhu,6-1 6-4,12,5,2,0,Completed,true,false,false
+AA001054,28 Feb 26,5,Clarinda,Port Melbourne,No. 2,Kenny Poirier,Max Lai,Kenny Poirier,6-1 6-1,12,2,2,0,Completed,true,false,false
+AA001061,14 Mar 26,6,Port Melbourne,Ormond Blue,No. 1,Nevan Harrap,Jack Wiesner,Nevan Harrap,6-2 6-1,12,3,2,0,Completed,true,false,false
+AA001061,14 Mar 26,6,Port Melbourne,Ormond Blue,No. 2,Max Lai,Mathew Li,Mathew Li,5-7 2-6,7,13,0,2,Completed,true,false,false
+AA001062,14 Mar 26,6,Highmoor Uniting,Clarinda,No. 1,Luke Young,Sher Sidhu,Luke Young,6-7 7-5 7-6,20,18,2,1,Completed,true,false,false
+AA001062,14 Mar 26,6,Highmoor Uniting,Clarinda,No. 2,Luka Suluburic,Rahul Sajan,Luka Suluburic,6-1 6-1,12,2,2,0,Completed,true,false,false
+AA001063,14 Mar 26,6,Ormond Yellow,Ormond Red,No. 1,Arjun Nair,Dean Smith,Dean Smith,6-7 2-6,8,13,0,2,Completed,true,false,false
+AA001063,14 Mar 26,6,Ormond Yellow,Ormond Red,No. 2,Nikunj Savniya,Hamish Marsden,Nikunj Savniya,6-1 6-4,12,5,2,0,Completed,true,false,false
+AA001064,14 Mar 26,6,BLTC,Parkdale,No. 1,Minato Sata,Harper-Lee Coombes,Minato Sata,6-0 6-1,12,1,2,0,Completed,true,false,false
+AA001064,14 Mar 26,6,BLTC,Parkdale,No. 2,Harry Bennett,Milla Gunawardana,Harry Bennett,6-0 6-0,12,0,2,0,Completed,true,false,true
+AA001071,21 Mar 26,7,Clarinda,Ormond Blue,No. 1,Sher Sidhu,Jack Wiesner,Sher Sidhu,6-0 6-1,12,1,2,0,Completed,true,false,false
+AA001071,21 Mar 26,7,Clarinda,Ormond Blue,No. 2,Kenny Poirier,Mathew Li,Kenny Poirier,6-3 6-1,12,4,2,0,Completed,true,false,false
+AA001072,21 Mar 26,7,Port Melbourne,Highmoor Uniting,No. 1,Nevan Harrap,Lazar Suluburic,Lazar Suluburic,6-4 3-6 6-7,15,17,1,2,Completed,true,false,false
+AA001072,21 Mar 26,7,Port Melbourne,Highmoor Uniting,No. 2,Max Lai,Luka Suluburic,Luka Suluburic,0-6 3-6,3,12,0,2,Completed,true,false,false
+AA001073,21 Mar 26,7,Parkdale,Ormond Red,No. 1,Tahlia Gunawardana,Dean Smith,Dean Smith,1-6 3-6,4,12,0,2,Completed,true,false,false
+AA001073,21 Mar 26,7,Parkdale,Ormond Red,No. 2,Milla Gunawardana,Stephen Rassias,Stephen Rassias,6-7 2-6,8,13,0,2,Completed,true,true,false
+AA001074,21 Mar 26,7,Ormond Yellow,BLTC,No. 1,Arjun Nair,Minato Sata,Arjun Nair,6-4 3-6 7-6,16,16,2,1,Completed,true,false,false
+AA001074,21 Mar 26,7,Ormond Yellow,BLTC,No. 2,Nikunj Savniya,Harry Bennett,Harry Bennett,6-7 3-6,9,13,0,2,Completed,true,false,false
+AA001081,28 Mar 26,8,BLTC,Clarinda,No. 1,Minato Sata,Rahul Sajan,Minato Sata,6-4 6-1,12,5,2,0,Completed,true,true,false
+AA001081,28 Mar 26,8,BLTC,Clarinda,No. 2,Harry Bennett,Kenny Poirier,Kenny Poirier,6-2 6-7 6-7,18,16,1,2,Completed,true,false,false
+AA001084,28 Mar 26,8,Parkdale,Highmoor Uniting,No. 1,Tahlia Gunawardana,Erik Bucko,Erik Bucko,0-6 0-6,0,12,0,2,Completed,true,false,false
+AA001084,28 Mar 26,8,Parkdale,Highmoor Uniting,No. 2,Harper-Lee Coombes,Luke Young,Luke Young,0-6 0-6,0,12,0,2,Completed,true,false,false
+AA001091,02 May 26,9,Clarinda,Parkdale,No. 1,Sher Sidhu,Tahlia Gunawardana,Sher Sidhu,6-1 6-0,12,1,2,0,Completed,true,false,false
+AA001091,02 May 26,9,Clarinda,Parkdale,No. 2,Rahul Sajan,Harper-Lee Coombes,Rahul Sajan,6-0 6-1,12,1,2,0,Completed,true,false,false
+AA001092,02 May 26,9,Port Melbourne,BLTC,No. 1,Nevan Harrap,Minato Sata,Minato Sata,0-6 3-6,3,12,0,2,Completed,true,false,true
+AA001092,02 May 26,9,Port Melbourne,BLTC,No. 2,Cameron Gordon,Harry Bennett,Harry Bennett,2-6 1-6,3,12,0,2,Completed,true,false,false
+AA001093,02 May 26,9,Ormond Blue,Ormond Red,No. 1,Johan Bode,Dean Smith,Dean Smith,2-6 0-6,2,12,0,2,Completed,true,false,false
+AA001093,02 May 26,9,Ormond Blue,Ormond Red,No. 2,Mathew Li,Obert Han,Mathew Li,6-2 6-2,12,4,2,0,Completed,true,false,true
+AA001094,02 May 26,9,Highmoor Uniting,Ormond Yellow,No. 1,Erik Bucko,Arjun Nair,Erik Bucko,6-1 6-0,12,1,2,0,Completed,true,false,false
+AA001094,02 May 26,9,Highmoor Uniting,Ormond Yellow,No. 2,Luke Young,Nikunj Savniya,Luke Young,6-4 6-3,12,7,2,0,Completed,true,false,false
+AA001101,09 May 26,10,Ormond Yellow,Clarinda,No. 1,Arjun Nair,Sher Sidhu,Sher Sidhu,1-6 6-7,7,13,0,2,Completed,true,false,false
+AA001101,09 May 26,10,Ormond Yellow,Clarinda,No. 2,Nikunj Savniya,Kenny Poirier,Kenny Poirier,1-6 2-6,3,12,0,2,Completed,true,false,false
+AA001104,09 May 26,10,Ormond Red,Highmoor Uniting,No. 1,Dean Smith,Lazar Suluburic,Lazar Suluburic,5-7 7-5 6-7,18,19,1,2,Completed,true,false,false
+AA001104,09 May 26,10,Ormond Red,Highmoor Uniting,No. 2,Stephen Rassias,Luka Suluburic,Luka Suluburic,4-6 7-5 6-7,17,18,1,2,Completed,true,false,false
+AA001111,16 May 26,11,Clarinda,Ormond Red,No. 1,Sher Sidhu,Stephen Rassias,Sher Sidhu,6-2 6-0,12,2,2,0,Completed,true,false,false
+AA001111,16 May 26,11,Clarinda,Ormond Red,No. 2,Kenny Poirier,Hamish Marsden,Kenny Poirier,6-1 6-0,12,1,2,0,Completed,true,false,false
+AA001112,16 May 26,11,Port Melbourne,Ormond Yellow,No. 1,Max Lai,Nikunj Savniya,Nikunj Savniya,4-6 6-7,10,13,0,2,Completed,true,false,false
+AA001112,16 May 26,11,Port Melbourne,Ormond Yellow,No. 2,Aariv Singh,Arjun Nair,Arjun Nair,2-6 6-1 6-7,14,14,1,2,Completed,true,false,false
+AA001113,16 May 26,11,Ormond Blue,Parkdale,No. 1,Jack Wiesner,Tahlia Gunawardana,Tahlia Gunawardana,2-6 3-6,5,12,0,2,Completed,true,false,false
+AA001113,16 May 26,11,Ormond Blue,Parkdale,No. 2,Mathew Li,Harper-Lee Coombes,Mathew Li,6-2 6-1,12,3,2,0,Completed,true,false,false
+AA001114,16 May 26,11,Highmoor Uniting,BLTC,No. 1,Lazar Suluburic,Minato Sata,Lazar Suluburic,6-2 6-3,12,5,2,0,Completed,true,false,false
+AA001114,16 May 26,11,Highmoor Uniting,BLTC,No. 2,Luka Suluburic,Harry Bennett,Luka Suluburic,7-5 5-7 7-6,19,18,2,1,Completed,true,false,false
+AA001121,23 May 26,12,Highmoor Uniting,Ormond Blue,No. 1,Lazar Suluburic,Johan Bode,Lazar Suluburic,6-1 6-3,12,4,2,0,Completed,true,false,false
+AA001121,23 May 26,12,Highmoor Uniting,Ormond Blue,No. 2,Luka Suluburic,Mathew Li,Luka Suluburic,7-5 6-1,13,6,2,0,Completed,true,false,false
+AA001122,23 May 26,12,Ormond Yellow,Parkdale,No. 1,Arjun Nair,Harper-Lee Coombes,Arjun Nair,6-2 6-1,12,3,2,0,Completed,true,false,false
+AA001122,23 May 26,12,Ormond Yellow,Parkdale,No. 2,Nikunj Savniya,Milla Gunawardana,Nikunj Savniya,6-0 6-2,12,2,2,0,Completed,true,false,true
+AA001123,23 May 26,12,BLTC,Ormond Red,No. 1,Minato Sata,Stephen Rassias,Minato Sata,6-0 6-3,12,3,2,0,Completed,true,false,false
+AA001123,23 May 26,12,BLTC,Ormond Red,No. 2,Harry Bennett,Hamish Marsden,Harry Bennett,6-0 6-2,12,2,2,0,Completed,true,false,false
+AA001124,23 May 26,12,Port Melbourne,Clarinda,No. 1,Nevan Harrap,Sher Sidhu,Sher Sidhu,6-3 3-6 6-7,15,16,1,2,Completed,true,false,false
+AA001124,23 May 26,12,Port Melbourne,Clarinda,No. 2,Cameron Gordon,Rahul Sajan,Rahul Sajan,2-6 5-7,7,13,0,2,Completed,true,false,false
+AA001131,30 May 26,13,Ormond Blue,Port Melbourne,No. 1,Jack Wiesner,Aariv Singh,Jack Wiesner,6-1 6-2,12,3,2,0,Completed,true,false,false
+AA001131,30 May 26,13,Ormond Blue,Port Melbourne,No. 2,Johan Bode,Max Lai,Max Lai,1-6 1-6,2,12,0,2,Completed,true,false,false
+AA001133,30 May 26,13,Ormond Red,Ormond Yellow,No. 1,Dean Smith,Arjun Nair,Dean Smith,6-2 6-2,12,4,2,0,Completed,true,false,false
+AA001133,30 May 26,13,Ormond Red,Ormond Yellow,No. 2,Stephen Rassias,Nikunj Savniya,Nikunj Savniya,3-6 6-4 6-7,15,17,1,2,Completed,true,false,false
+AA001134,30 May 26,13,Parkdale,BLTC,No. 1,Tahlia Gunawardana,Minato Sata,Minato Sata,1-6 0-6,1,12,0,2,Completed,true,false,true
+AA001134,30 May 26,13,Parkdale,BLTC,No. 2,Harper-Lee Coombes,Harry Bennett,Harry Bennett,0-6 1-6,1,12,0,2,Completed,true,false,false
+AA001301,,16,Clarinda,Ormond Yellow,No. 1,Sher Sidhu,Arjun Nair,Sher Sidhu,7-6 7-5,14,11,2,0,Completed,true,false,false
+AA001301,,16,Clarinda,Ormond Yellow,No. 2,Kenny Poirier,Nikunj Savniya,Kenny Poirier,6-4 6-2,12,6,2,0,Completed,true,false,false
+AA001302,,16,Highmoor Uniting,BLTC,No. 1,Erik Bucko,Minato Sata,Erik Bucko,6-2 7-5,13,7,2,0,Completed,true,false,false
+AA001302,,16,Highmoor Uniting,BLTC,No. 2,Lazar Suluburic,Harry Bennett,Lazar Suluburic,6-0 6-3,12,3,2,0,Completed,true,false,false
+AA001321,,17,Clarinda,Highmoor Uniting,No. 1,Sher Sidhu,Erik Bucko,Erik Bucko,3-4,3,4,0,1,Completed,false,false,false
+AA001321,,17,Clarinda,Highmoor Uniting,No. 2,Kenny Poirier,Lazar Suluburic,Lazar Suluburic,2-6 1-6,3,12,0,2,Completed,true,false,false

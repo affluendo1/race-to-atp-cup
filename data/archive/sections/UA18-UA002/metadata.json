@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA18-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2016",
+  "season_id": "UA18",
+  "season_label": "Autumn 2016",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park",
+      "wins": 9,
+      "points": 97,
+      "percentage": 158.09,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "GPHC",
+      "wins": 10,
+      "points": 97,
+      "percentage": 135.37,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Royal Ave",
+      "wins": 7,
+      "points": 70,
+      "percentage": 97.37,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Mordialloc",
+      "wins": 5,
+      "points": 67,
+      "percentage": 93.96,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Glen Eira Brook",
+      "wins": 6,
+      "points": 62,
+      "percentage": 90.37,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Parkdale",
+      "wins": 5,
+      "points": 60,
+      "percentage": 86.07,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Hampton",
+      "wins": 4,
+      "points": 59,
+      "percentage": 85.47,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Coatesville",
+      "wins": 3,
+      "points": 48,
+      "percentage": 79.7,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA18-UA002",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

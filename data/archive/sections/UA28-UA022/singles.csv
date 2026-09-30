@@ -1,0 +1,185 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA022011,31 Jan 21,1,St James,Aspendale,No. 1,James Harrington,Coby Meyers,Coby Meyers,3-6,3,6,0,1,Completed,true,false,false
+UA022011,31 Jan 21,1,St James,Aspendale,No. 2,Charlie Storer,Alexander Rozentoul,Alexander Rozentoul,3-6,3,6,0,1,Completed,true,false,false
+UA022011,31 Jan 21,1,St James,Aspendale,No. 3,William Cunningham,Brendan McCaul,William Cunningham,6-3,6,3,1,0,Completed,true,false,false
+UA022011,31 Jan 21,1,St James,Aspendale,No. 4,Lucy Stein,Jake Meyers,Lucy Stein,6-2,6,2,1,0,Completed,true,false,false
+UA022012,31 Jan 21,1,Hurlingham Park,Parkdale,No. 1,Renny Thurlow,Xander Louey,Renny Thurlow,6-0,6,0,1,0,Completed,true,false,false
+UA022012,31 Jan 21,1,Hurlingham Park,Parkdale,No. 2,Dane Sujica-Zimmermann,Taina Harwood,Taina Harwood,3-6,3,6,0,1,Completed,true,false,false
+UA022012,31 Jan 21,1,Hurlingham Park,Parkdale,No. 3,Thomas Lyon,Kai Domissee,Kai Domissee,6-7,6,7,0,1,Completed,true,false,false
+UA022012,31 Jan 21,1,Hurlingham Park,Parkdale,No. 4,Caleb Hutchins,Harry Austin,Harry Austin,4-6,4,6,0,1,Completed,true,false,false
+UA022013,31 Jan 21,1,Royal Ave 1,Royal Ave 2,No. 1,Zane Khan,Josh McKenzie,Zane Khan,6-2,6,2,1,0,Completed,true,false,false
+UA022013,31 Jan 21,1,Royal Ave 1,Royal Ave 2,No. 2,Emilio Thirard,Arthur Coste,Emilio Thirard,7-5,7,5,1,0,Completed,true,false,false
+UA022013,31 Jan 21,1,Royal Ave 1,Royal Ave 2,No. 3,Matthew Varis,Tommy Sloan,Tommy Sloan,4-6,4,6,0,1,Completed,true,false,false
+UA022013,31 Jan 21,1,Royal Ave 1,Royal Ave 2,No. 4,Darcy Hopkins,Harry Tsorbaris,Harry Tsorbaris,1-6,1,6,0,1,Completed,true,false,false
+UA022014,31 Jan 21,1,St Andrews MB BG,Murrumbeena,No. 1,Ruby Morgan,Finn Cromie,Finn Cromie,3-6,3,6,0,1,Completed,true,false,false
+UA022014,31 Jan 21,1,St Andrews MB BG,Murrumbeena,No. 2,Milla Edwards,Eric Tran,Milla Edwards,7-5,7,5,1,0,Completed,true,false,false
+UA022014,31 Jan 21,1,St Andrews MB BG,Murrumbeena,No. 3,Jakob Misso,Lillia Givargis,Jakob Misso,6-3,6,3,1,0,Completed,true,false,false
+UA022014,31 Jan 21,1,St Andrews MB BG,Murrumbeena,No. 4,Alex Misso,Alena Givorgis,Alena Givorgis,4-6,4,6,0,1,Completed,true,false,false
+UA022021,07 Feb 21,2,Murrumbeena,St James,No. 1,Finn Cromie,James Harrington,James Harrington,4-6,4,6,0,1,Completed,true,false,false
+UA022021,07 Feb 21,2,Murrumbeena,St James,No. 2,Hayden Amaransinghe,Charlie Storer,Charlie Storer,1-6,1,6,0,1,Completed,true,false,false
+UA022021,07 Feb 21,2,Murrumbeena,St James,No. 3,Eric Tran,Lucy Stein,Eric Tran,7-5,7,5,1,0,Completed,true,false,false
+UA022021,07 Feb 21,2,Murrumbeena,St James,No. 4,Hazel Hoon,Sophie Stewart,Hazel Hoon,6-4,6,4,1,0,Completed,true,false,false
+UA022022,07 Feb 21,2,Aspendale,Hurlingham Park,No. 1,Alexander Rozentoul,James Russo,James Russo,1-6,1,6,0,1,Completed,true,false,false
+UA022022,07 Feb 21,2,Aspendale,Hurlingham Park,No. 2,Brendan McCaul,Dane Sujica-Zimmermann,Dane Sujica-Zimmermann,5-7,5,7,0,1,Completed,true,false,false
+UA022022,07 Feb 21,2,Aspendale,Hurlingham Park,No. 3,Jake Meyers,Sam Russo,Sam Russo,1-6,1,6,0,1,Completed,true,false,false
+UA022022,07 Feb 21,2,Aspendale,Hurlingham Park,No. 4,Tom McCaul,Thomas Lyon,Thomas Lyon,0-6,0,6,0,1,Completed,true,false,false
+UA022023,07 Feb 21,2,Parkdale,Royal Ave 1,No. 1,Taina Harwood,Oliver Young,Oliver Young,4-6,4,6,0,1,Completed,true,false,false
+UA022023,07 Feb 21,2,Parkdale,Royal Ave 1,No. 2,Kai Domissee,Zane Khan,Zane Khan,3-6,3,6,0,1,Completed,true,false,false
+UA022023,07 Feb 21,2,Parkdale,Royal Ave 1,No. 3,Harry Austin,Emilio Thirard,Harry Austin,6-4,6,4,1,0,Completed,true,false,false
+UA022023,07 Feb 21,2,Parkdale,Royal Ave 1,No. 4,Atalay Simek,Darcy Hopkins,Atalay Simek,6-3,6,3,1,0,Completed,true,false,false
+UA022024,07 Feb 21,2,Royal Ave 2,St Andrews MB BG,No. 1,Arthur Coste,Milla Edwards,Milla Edwards,0-6,0,6,0,1,Completed,true,false,false
+UA022024,07 Feb 21,2,Royal Ave 2,St Andrews MB BG,No. 2,Tommy Sloan,Chloe Chau,Chloe Chau,0-6,0,6,0,1,Completed,true,false,false
+UA022024,07 Feb 21,2,Royal Ave 2,St Andrews MB BG,No. 3,Harry Tsorbaris,Jakob Misso,Harry Tsorbaris,7-6,7,6,1,0,Completed,true,false,false
+UA022024,07 Feb 21,2,Royal Ave 2,St Andrews MB BG,No. 4,Livian Gomes,Alice Jamieson,Livian Gomes,6-0,6,0,1,0,Completed,true,false,false
+UA022041,21 Feb 21,4,Parkdale,St James,No. 1,Xander Louey,James Harrington,Xander Louey,7-6,7,6,1,0,Completed,true,false,false
+UA022041,21 Feb 21,4,Parkdale,St James,No. 2,Kai Domissee,Charlie Storer,Charlie Storer,2-6,2,6,0,1,Completed,true,false,false
+UA022041,21 Feb 21,4,Parkdale,St James,No. 3,Harry Austin,William Cunningham,William Cunningham,1-6,1,6,0,1,Completed,true,false,false
+UA022041,21 Feb 21,4,Parkdale,St James,No. 4,Atalay Simek,Sophie Stewart,Atalay Simek,6-1,6,1,1,0,Completed,true,false,false
+UA022042,21 Feb 21,4,Royal Ave 2,Hurlingham Park,No. 1,Josh McKenzie,James Russo,James Russo,5-7,5,7,0,1,Completed,true,false,false
+UA022042,21 Feb 21,4,Royal Ave 2,Hurlingham Park,No. 2,Arthur Coste,Renny Thurlow,Renny Thurlow,1-6,1,6,0,1,Completed,true,false,false
+UA022042,21 Feb 21,4,Royal Ave 2,Hurlingham Park,No. 3,Harry Tsorbaris,Dane Sujica-Zimmermann,Harry Tsorbaris,7-6,7,6,1,0,Completed,true,false,false
+UA022042,21 Feb 21,4,Royal Ave 2,Hurlingham Park,No. 4,Livian Gomes,Thomas Lyon,Livian Gomes,6-2,6,2,1,0,Completed,true,false,false
+UA022043,21 Feb 21,4,Murrumbeena,Royal Ave 1,No. 1,Finn Cromie,Oliver Young,Oliver Young,5-7,5,7,0,1,Completed,true,false,false
+UA022043,21 Feb 21,4,Murrumbeena,Royal Ave 1,No. 2,Hayden Amaransinghe,Emilio Thirard,Hayden Amaransinghe,6-2,6,2,1,0,Completed,true,false,false
+UA022043,21 Feb 21,4,Murrumbeena,Royal Ave 1,No. 3,Lillia Givargis,Matthew Varis,Lillia Givargis,6-2,6,2,1,0,Completed,true,false,false
+UA022043,21 Feb 21,4,Murrumbeena,Royal Ave 1,No. 4,Hazel Hoon,Darcy Hopkins,Hazel Hoon,6-1,6,1,1,0,Completed,true,false,false
+UA022051,28 Feb 21,5,Royal Ave 1,St Andrews MB BG,No. 1,Zane Khan,Milla Edwards,Zane Khan,6-0,6,0,1,0,Completed,true,false,false
+UA022051,28 Feb 21,5,Royal Ave 1,St Andrews MB BG,No. 2,Emilio Thirard,Chloe Chau,Chloe Chau,6-7,6,7,0,1,Completed,true,false,false
+UA022051,28 Feb 21,5,Royal Ave 1,St Andrews MB BG,No. 3,Matthew Varis,Jakob Misso,Jakob Misso,2-6,2,6,0,1,Completed,true,false,false
+UA022051,28 Feb 21,5,Royal Ave 1,St Andrews MB BG,No. 4,Darcy Hopkins,Alice Jamieson,Darcy Hopkins,6-2,6,2,1,0,Completed,true,false,false
+UA022052,28 Feb 21,5,Murrumbeena,Royal Ave 2,No. 1,Eric Tran,Arthur Coste,Eric Tran,6-0,6,0,1,0,Completed,true,false,false
+UA022052,28 Feb 21,5,Murrumbeena,Royal Ave 2,No. 2,Lillia Givargis,Tommy Sloan,Tommy Sloan,2-6,2,6,0,1,Completed,true,false,false
+UA022052,28 Feb 21,5,Murrumbeena,Royal Ave 2,No. 3,Alena Givorgis,Harry Tsorbaris,Harry Tsorbaris,3-6,3,6,0,1,Completed,true,false,false
+UA022052,28 Feb 21,5,Murrumbeena,Royal Ave 2,No. 4,Hazel Hoon,Livian Gomes,Hazel Hoon,7-6,7,6,1,0,Completed,true,false,false
+UA022053,28 Feb 21,5,Parkdale,Aspendale,No. 1,Xander Louey,Alexander Rozentoul,Xander Louey,6-0,6,0,1,0,Completed,true,false,false
+UA022053,28 Feb 21,5,Parkdale,Aspendale,No. 2,Taina Harwood,Finn Kuperus,Finn Kuperus,4-6,4,6,0,1,Completed,true,false,false
+UA022053,28 Feb 21,5,Parkdale,Aspendale,No. 3,Kai Domissee,Tom McCaul,Kai Domissee,6-2,6,2,1,0,Completed,true,false,false
+UA022053,28 Feb 21,5,Parkdale,Aspendale,No. 4,Atalay Simek,Jake Meyers,Atalay Simek,6-0,6,0,1,0,Completed,true,false,false
+UA022054,28 Feb 21,5,St James,Hurlingham Park,No. 1,James Harrington,James Russo,James Harrington,6-2,6,2,1,0,Completed,true,false,false
+UA022054,28 Feb 21,5,St James,Hurlingham Park,No. 2,William Cunningham,Dane Sujica-Zimmermann,Dane Sujica-Zimmermann,3-6,3,6,0,1,Completed,true,false,false
+UA022054,28 Feb 21,5,St James,Hurlingham Park,No. 3,Lucy Stein,Sam Russo,Sam Russo,2-6,2,6,0,1,Completed,true,false,false
+UA022054,28 Feb 21,5,St James,Hurlingham Park,No. 4,Sophie Stewart,Thomas Lyon,Thomas Lyon,4-6,4,6,0,1,Completed,true,false,false
+UA022061,14 Mar 21,6,Hurlingham Park,Royal Ave 1,No. 1,James Russo,Oliver Young,James Russo,6-3,6,3,1,0,Completed,true,false,false
+UA022061,14 Mar 21,6,Hurlingham Park,Royal Ave 1,No. 2,Renny Thurlow,Zane Khan,Renny Thurlow,6-1,6,1,1,0,Completed,true,false,false
+UA022061,14 Mar 21,6,Hurlingham Park,Royal Ave 1,No. 3,Sam Russo,Emilio Thirard,Emilio Thirard,3-6,3,6,0,1,Completed,true,false,false
+UA022061,14 Mar 21,6,Hurlingham Park,Royal Ave 1,No. 4,Caleb Hutchins,Matthew Varis,Matthew Varis,2-6,2,6,0,1,Completed,true,false,false
+UA022062,14 Mar 21,6,St Andrews MB BG,St James,No. 1,Ruby Morgan,James Harrington,James Harrington,1-6,1,6,0,1,Completed,true,false,false
+UA022062,14 Mar 21,6,St Andrews MB BG,St James,No. 2,Chloe Chau,Charlie Storer,Charlie Storer,2-6,2,6,0,1,Completed,true,false,false
+UA022062,14 Mar 21,6,St Andrews MB BG,St James,No. 3,Alex Misso,William Cunningham,Alex Misso,6-4,6,4,1,0,Completed,true,false,false
+UA022062,14 Mar 21,6,St Andrews MB BG,St James,No. 4,Alice Jamieson,Sophie Stewart,Sophie Stewart,0-6,0,6,0,1,Completed,true,false,false
+UA022063,14 Mar 21,6,Royal Ave 2,Parkdale,No. 1,Arthur Coste,Xander Louey,Xander Louey,1-6,1,6,0,1,Completed,true,false,false
+UA022063,14 Mar 21,6,Royal Ave 2,Parkdale,No. 2,Tommy Sloan,Kai Domissee,Kai Domissee,1-6,1,6,0,1,Completed,true,false,false
+UA022063,14 Mar 21,6,Royal Ave 2,Parkdale,No. 3,Harry Tsorbaris,Harry Austin,Harry Tsorbaris,6-2,6,2,1,0,Completed,true,false,false
+UA022063,14 Mar 21,6,Royal Ave 2,Parkdale,No. 4,Livian Gomes,Atalay Simek,Atalay Simek,2-6,2,6,0,1,Completed,true,false,false
+UA022064,14 Mar 21,6,Aspendale,Murrumbeena,No. 1,Alexander Rozentoul,Finn Cromie,Finn Cromie,1-6,1,6,0,1,Completed,true,false,false
+UA022064,14 Mar 21,6,Aspendale,Murrumbeena,No. 2,Brendan McCaul,Hayden Amaransinghe,Hayden Amaransinghe,3-6,3,6,0,1,Completed,true,false,false
+UA022064,14 Mar 21,6,Aspendale,Murrumbeena,No. 3,Tom McCaul,Eric Tran,Eric Tran,3-6,3,6,0,1,Completed,true,false,false
+UA022064,14 Mar 21,6,Aspendale,Murrumbeena,No. 4,Jake Meyers,Alena Givorgis,Alena Givorgis,1-6,1,6,0,1,Completed,true,false,false
+UA022071,21 Mar 21,7,St James,Royal Ave 1,No. 1,Charlie Storer,Oliver Young,Oliver Young,2-6,2,6,0,1,Completed,true,false,false
+UA022071,21 Mar 21,7,St James,Royal Ave 1,No. 2,William Cunningham,Zane Khan,William Cunningham,7-5,7,5,1,0,Completed,true,false,false
+UA022071,21 Mar 21,7,St James,Royal Ave 1,No. 3,Lucy Stein,Matthew Varis,Lucy Stein,6-2,6,2,1,0,Completed,true,false,false
+UA022071,21 Mar 21,7,St James,Royal Ave 1,No. 4,Sophie Stewart,Costa Ponkas,Sophie Stewart,6-2,6,2,1,0,Completed,true,false,false
+UA022072,21 Mar 21,7,Hurlingham Park,St Andrews MB BG,No. 1,Renny Thurlow,Ruby Morgan,Renny Thurlow,6-2,6,2,1,0,Completed,true,false,false
+UA022072,21 Mar 21,7,Hurlingham Park,St Andrews MB BG,No. 2,Dane Sujica-Zimmermann,Milla Edwards,Dane Sujica-Zimmermann,6-1,6,1,1,0,Completed,true,false,false
+UA022072,21 Mar 21,7,Hurlingham Park,St Andrews MB BG,No. 3,Sam Russo,Jakob Misso,Jakob Misso,3-6,3,6,0,1,Completed,true,false,false
+UA022072,21 Mar 21,7,Hurlingham Park,St Andrews MB BG,No. 4,Thomas Lyon,Alex Misso,Alex Misso,6-7,6,7,0,1,Completed,true,false,false
+UA022073,21 Mar 21,7,Murrumbeena,Parkdale,No. 1,Finn Cromie,Xander Louey,Xander Louey,1-6,1,6,0,1,Completed,true,false,false
+UA022073,21 Mar 21,7,Murrumbeena,Parkdale,No. 2,Hazel Hoon,Taina Harwood,Hazel Hoon,6-3,6,3,1,0,Completed,true,false,false
+UA022073,21 Mar 21,7,Murrumbeena,Parkdale,No. 3,Lillia Givargis,Kai Domissee,Kai Domissee,0-6,0,6,0,1,Completed,true,false,false
+UA022073,21 Mar 21,7,Murrumbeena,Parkdale,No. 4,Alena Givorgis,Atalay Simek,Atalay Simek,1-6,1,6,0,1,Completed,true,false,false
+UA022074,21 Mar 21,7,Royal Ave 2,Aspendale,No. 1,Arthur Coste,Alexander Rozentoul,Alexander Rozentoul,1-6,1,6,0,1,Completed,true,false,false
+UA022074,21 Mar 21,7,Royal Ave 2,Aspendale,No. 2,Tommy Sloan,Brendan McCaul,Tommy Sloan,6-4,6,4,1,0,Completed,true,false,false
+UA022074,21 Mar 21,7,Royal Ave 2,Aspendale,No. 3,Harry Tsorbaris,Tom McCaul,Harry Tsorbaris,6-2,6,2,1,0,Completed,true,false,false
+UA022074,21 Mar 21,7,Royal Ave 2,Aspendale,No. 4,Livian Gomes,Jake Meyers,Livian Gomes,6-1,6,1,1,0,Completed,true,false,false
+UA022081,28 Mar 21,8,Aspendale,St James,No. 1,Finn Kuperus,James Harrington,James Harrington,3-6,3,6,0,1,Completed,true,false,false
+UA022081,28 Mar 21,8,Aspendale,St James,No. 2,Brendan McCaul,Charlie Storer,Charlie Storer,1-6,1,6,0,1,Completed,true,false,false
+UA022081,28 Mar 21,8,Aspendale,St James,No. 3,Tom McCaul,William Cunningham,Tom McCaul,6-4,6,4,1,0,Completed,true,false,false
+UA022081,28 Mar 21,8,Aspendale,St James,No. 4,Jake Meyers,Lucy Stein,Lucy Stein,1-6,1,6,0,1,Completed,true,false,false
+UA022082,28 Mar 21,8,Parkdale,Hurlingham Park,No. 1,Xander Louey,James Russo,Xander Louey,6-2,6,2,1,0,Completed,true,false,false
+UA022082,28 Mar 21,8,Parkdale,Hurlingham Park,No. 2,Kai Domissee,Dane Sujica-Zimmermann,Dane Sujica-Zimmermann,5-7,5,7,0,1,Completed,true,false,false
+UA022082,28 Mar 21,8,Parkdale,Hurlingham Park,No. 3,Harry Austin,Thomas Lyon,Thomas Lyon,2-6,2,6,0,1,Completed,true,false,false
+UA022082,28 Mar 21,8,Parkdale,Hurlingham Park,No. 4,Atalay Simek,Caleb Hutchins,Atalay Simek,6-0,6,0,1,0,Completed,true,false,false
+UA022083,28 Mar 21,8,Royal Ave 2,Royal Ave 1,No. 1,Josh McKenzie,Oliver Young,Josh McKenzie,6-3,6,3,1,0,Completed,true,false,false
+UA022083,28 Mar 21,8,Royal Ave 2,Royal Ave 1,No. 2,Arthur Coste,Zane Khan,Zane Khan,1-6,1,6,0,1,Completed,true,false,false
+UA022083,28 Mar 21,8,Royal Ave 2,Royal Ave 1,No. 3,Harry Tsorbaris,Emilio Thirard,Harry Tsorbaris,6-2,6,2,1,0,Completed,true,false,false
+UA022083,28 Mar 21,8,Royal Ave 2,Royal Ave 1,No. 4,Livian Gomes,Costa Ponkas,Livian Gomes,6-0,6,0,1,0,Completed,true,false,false
+UA022084,28 Mar 21,8,Murrumbeena,St Andrews MB BG,No. 1,Finn Cromie,Chloe Chau,Finn Cromie,6-0,6,0,1,0,Completed,true,false,false
+UA022084,28 Mar 21,8,Murrumbeena,St Andrews MB BG,No. 2,Eric Tran,Jakob Misso,Jakob Misso,5-7,5,7,0,1,Completed,true,false,false
+UA022084,28 Mar 21,8,Murrumbeena,St Andrews MB BG,No. 3,Hazel Hoon,Alex Misso,Alex Misso,6-7,6,7,0,1,Completed,true,false,false
+UA022084,28 Mar 21,8,Murrumbeena,St Andrews MB BG,No. 4,Lillia Givargis,Alice Jamieson,Lillia Givargis,7-6,7,6,1,0,Completed,true,false,false
+UA022091,02 May 21,9,St James,Murrumbeena,No. 1,James Harrington,Eric Tran,James Harrington,6-0,6,0,1,0,Completed,true,false,false
+UA022091,02 May 21,9,St James,Murrumbeena,No. 2,Charlie Storer,Hayden Amaransinghe,Charlie Storer,6-2,6,2,1,0,Completed,true,false,false
+UA022091,02 May 21,9,St James,Murrumbeena,No. 3,Lucy Stein,Lillia Givargis,Lucy Stein,6-3,6,3,1,0,Completed,true,false,false
+UA022091,02 May 21,9,St James,Murrumbeena,No. 4,Sophie Stewart,Alena Givorgis,Alena Givorgis,4-6,4,6,0,1,Completed,true,false,false
+UA022092,02 May 21,9,Hurlingham Park,Aspendale,No. 1,James Russo,Alexander Rozentoul,James Russo,6-1,6,1,1,0,Completed,true,false,false
+UA022092,02 May 21,9,Hurlingham Park,Aspendale,No. 2,Renny Thurlow,Brendan McCaul,Renny Thurlow,6-0,6,0,1,0,Completed,true,false,false
+UA022092,02 May 21,9,Hurlingham Park,Aspendale,No. 3,Sam Russo,Tom McCaul,Sam Russo,6-0,6,0,1,0,Completed,true,false,false
+UA022092,02 May 21,9,Hurlingham Park,Aspendale,No. 4,Caleb Hutchins,Jake Meyers,Caleb Hutchins,6-3,6,3,1,0,Completed,true,false,false
+UA022093,02 May 21,9,Royal Ave 1,Parkdale,No. 1,Oliver Young,Xander Louey,Xander Louey,1-6,1,6,0,1,Completed,true,false,false
+UA022093,02 May 21,9,Royal Ave 1,Parkdale,No. 2,Emilio Thirard,Taina Harwood,Taina Harwood,2-6,2,6,0,1,Completed,true,false,false
+UA022093,02 May 21,9,Royal Ave 1,Parkdale,No. 3,Matthew Varis,Kai Domissee,Matthew Varis,6-4,6,4,1,0,Completed,true,false,false
+UA022093,02 May 21,9,Royal Ave 1,Parkdale,No. 4,Costa Ponkas,Atalay Simek,Atalay Simek,0-6,0,6,0,1,Completed,true,false,false
+UA022094,02 May 21,9,St Andrews MB BG,Royal Ave 2,No. 1,Ruby Morgan,Josh McKenzie,Josh McKenzie,0-6,0,6,0,1,Completed,true,false,false
+UA022094,02 May 21,9,St Andrews MB BG,Royal Ave 2,No. 2,Milla Edwards,Tommy Sloan,Milla Edwards,6-1,6,1,1,0,Completed,true,false,false
+UA022094,02 May 21,9,St Andrews MB BG,Royal Ave 2,No. 3,Chloe Chau,Harry Tsorbaris,Harry Tsorbaris,5-7,5,7,0,1,Completed,true,false,false
+UA022094,02 May 21,9,St Andrews MB BG,Royal Ave 2,No. 4,Alice Jamieson,Livian Gomes,Livian Gomes,1-6,1,6,0,1,Completed,true,false,false
+UA022101,09 May 21,10,Royal Ave 2,St James,No. 1,Josh McKenzie,James Harrington,James Harrington,1-6,1,6,0,1,Completed,true,false,false
+UA022101,09 May 21,10,Royal Ave 2,St James,No. 2,Arthur Coste,Charlie Storer,Charlie Storer,1-6,1,6,0,1,Completed,true,false,false
+UA022101,09 May 21,10,Royal Ave 2,St James,No. 3,Tommy Sloan,William Cunningham,William Cunningham,1-6,1,6,0,1,Completed,true,false,false
+UA022101,09 May 21,10,Royal Ave 2,St James,No. 4,Livian Gomes,Sophie Stewart,Livian Gomes,6-1,6,1,1,0,Completed,true,false,false
+UA022102,09 May 21,10,Murrumbeena,Hurlingham Park,No. 1,Eric Tran,Renny Thurlow,Renny Thurlow,2-6,2,6,0,1,Completed,true,false,false
+UA022102,09 May 21,10,Murrumbeena,Hurlingham Park,No. 2,Hayden Amaransinghe,Dane Sujica-Zimmermann,Hayden Amaransinghe,6-1,6,1,1,0,Completed,true,false,false
+UA022102,09 May 21,10,Murrumbeena,Hurlingham Park,No. 3,Hazel Hoon,Thomas Lyon,Hazel Hoon,6-3,6,3,1,0,Completed,true,false,false
+UA022102,09 May 21,10,Murrumbeena,Hurlingham Park,No. 4,Alena Givorgis,Caleb Hutchins,Caleb Hutchins,2-6,2,6,0,1,Completed,true,false,false
+UA022103,09 May 21,10,Aspendale,Royal Ave 1,No. 1,Coby Meyers,Zane Khan,Zane Khan,4-6,4,6,0,1,Completed,true,false,false
+UA022103,09 May 21,10,Aspendale,Royal Ave 1,No. 2,Brendan McCaul,Emilio Thirard,Brendan McCaul,6-4,6,4,1,0,Completed,true,false,false
+UA022103,09 May 21,10,Aspendale,Royal Ave 1,No. 3,Tom McCaul,Matthew Varis,Matthew Varis,2-6,2,6,0,1,Completed,true,false,false
+UA022103,09 May 21,10,Aspendale,Royal Ave 1,No. 4,Jake Meyers,Costa Ponkas,Jake Meyers,6-1,6,1,1,0,Completed,true,false,false
+UA022104,09 May 21,10,Parkdale,St Andrews MB BG,No. 1,Taina Harwood,Ruby Morgan,Taina Harwood,7-6,7,6,1,0,Completed,true,false,false
+UA022104,09 May 21,10,Parkdale,St Andrews MB BG,No. 2,Kai Domissee,Milla Edwards,Kai Domissee,6-4,6,4,1,0,Completed,true,false,false
+UA022104,09 May 21,10,Parkdale,St Andrews MB BG,No. 3,Harry Austin,Chloe Chau,Chloe Chau,5-7,5,7,0,1,Completed,true,false,false
+UA022104,09 May 21,10,Parkdale,St Andrews MB BG,No. 4,Atalay Simek,Jakob Misso,Atalay Simek,7-5,7,5,1,0,Completed,true,false,false
+UA022111,16 May 21,11,St James,Parkdale,No. 1,James Harrington,Xander Louey,James Harrington,7-5,7,5,1,0,Completed,true,false,false
+UA022111,16 May 21,11,St James,Parkdale,No. 2,Charlie Storer,Taina Harwood,Taina Harwood,3-6,3,6,0,1,Completed,true,false,false
+UA022111,16 May 21,11,St James,Parkdale,No. 3,William Cunningham,Kai Domissee,Kai Domissee,3-6,3,6,0,1,Completed,true,false,false
+UA022111,16 May 21,11,St James,Parkdale,No. 4,Sophie Stewart,Harry Austin,Harry Austin,6-7,6,7,0,1,Completed,true,false,false
+UA022112,16 May 21,11,Hurlingham Park,Royal Ave 2,No. 1,James Russo,Josh McKenzie,Josh McKenzie,5-7,5,7,0,1,Completed,true,false,false
+UA022112,16 May 21,11,Hurlingham Park,Royal Ave 2,No. 2,Dane Sujica-Zimmermann,Arthur Coste,Dane Sujica-Zimmermann,6-3,6,3,1,0,Completed,true,false,false
+UA022112,16 May 21,11,Hurlingham Park,Royal Ave 2,No. 3,Sam Russo,Tommy Sloan,Sam Russo,6-0,6,0,1,0,Completed,true,false,false
+UA022112,16 May 21,11,Hurlingham Park,Royal Ave 2,No. 4,Thomas Lyon,Harry Tsorbaris,Harry Tsorbaris,2-6,2,6,0,1,Completed,true,false,false
+UA022113,16 May 21,11,Royal Ave 1,Murrumbeena,No. 1,Oliver Young,Finn Cromie,Oliver Young,6-0,6,0,1,0,Completed,true,false,false
+UA022113,16 May 21,11,Royal Ave 1,Murrumbeena,No. 2,Zane Khan,Hazel Hoon,Zane Khan,6-2,6,2,1,0,Completed,true,false,false
+UA022113,16 May 21,11,Royal Ave 1,Murrumbeena,No. 3,Matthew Varis,Lillia Givargis,Matthew Varis,6-2,6,2,1,0,Completed,true,false,false
+UA022113,16 May 21,11,Royal Ave 1,Murrumbeena,No. 4,[Unnamed player — TROLS UA022113 home code 4],Alena Givorgis,Alena Givorgis,0-6,0,6,0,1,Completed,false,false,false
+UA022114,16 May 21,11,St Andrews MB BG,Aspendale,No. 1,Ruby Morgan,Finn Kuperus,Finn Kuperus,3-6,3,6,0,1,Completed,true,false,false
+UA022114,16 May 21,11,St Andrews MB BG,Aspendale,No. 2,Chloe Chau,Alexander Rozentoul,Alexander Rozentoul,2-6,2,6,0,1,Completed,true,false,false
+UA022114,16 May 21,11,St Andrews MB BG,Aspendale,No. 3,[Unnamed player — TROLS UA022114 home code 3],Brendan McCaul,Brendan McCaul,0-6,0,6,0,1,Completed,false,false,false
+UA022114,16 May 21,11,St Andrews MB BG,Aspendale,No. 4,Jakob Misso,Tom McCaul,Jakob Misso,6-0,6,0,1,0,Completed,true,false,false
+UA022121,23 May 21,12,St Andrews MB BG,Royal Ave 1,No. 1,Milla Edwards,Oliver Young,Oliver Young,0-6,0,6,0,1,Completed,true,false,false
+UA022121,23 May 21,12,St Andrews MB BG,Royal Ave 1,No. 2,Chloe Chau,Zane Khan,Zane Khan,5-7,5,7,0,1,Completed,true,false,false
+UA022121,23 May 21,12,St Andrews MB BG,Royal Ave 1,No. 3,Jakob Misso,Emilio Thirard,Jakob Misso,6-2,6,2,1,0,Completed,true,false,false
+UA022121,23 May 21,12,St Andrews MB BG,Royal Ave 1,No. 4,Alice Jamieson,Matthew Varis,Matthew Varis,1-6,1,6,0,1,Completed,true,false,false
+UA022122,23 May 21,12,Royal Ave 2,Murrumbeena,No. 1,Josh McKenzie,Eric Tran,Josh McKenzie,7-6,7,6,1,0,Completed,true,false,false
+UA022122,23 May 21,12,Royal Ave 2,Murrumbeena,No. 2,Arthur Coste,Hazel Hoon,Hazel Hoon,0-6,0,6,0,1,Completed,true,false,false
+UA022122,23 May 21,12,Royal Ave 2,Murrumbeena,No. 3,Tommy Sloan,Lillia Givargis,Lillia Givargis,3-6,3,6,0,1,Completed,true,false,false
+UA022122,23 May 21,12,Royal Ave 2,Murrumbeena,No. 4,Livian Gomes,Alena Givorgis,Livian Gomes,6-2,6,2,1,0,Completed,true,false,false
+UA022123,23 May 21,12,Aspendale,Parkdale,No. 1,Finn Kuperus,Xander Louey,Xander Louey,1-6,1,6,0,1,Completed,true,false,false
+UA022123,23 May 21,12,Aspendale,Parkdale,No. 2,Alexander Rozentoul,Taina Harwood,Taina Harwood,2-6,2,6,0,1,Completed,true,false,false
+UA022123,23 May 21,12,Aspendale,Parkdale,No. 3,Brendan McCaul,Kai Domissee,Kai Domissee,0-6,0,6,0,1,Completed,true,false,false
+UA022123,23 May 21,12,Aspendale,Parkdale,No. 4,Tom McCaul,Harry Austin,Harry Austin,2-6,2,6,0,1,Completed,true,false,false
+UA022124,23 May 21,12,Hurlingham Park,St James,No. 1,James Russo,James Harrington,James Harrington,4-6,4,6,0,1,Completed,true,false,false
+UA022124,23 May 21,12,Hurlingham Park,St James,No. 2,Renny Thurlow,William Cunningham,William Cunningham,2-6,2,6,0,1,Completed,true,false,false
+UA022124,23 May 21,12,Hurlingham Park,St James,No. 3,Sam Russo,Lucy Stein,Lucy Stein,3-6,3,6,0,1,Completed,true,false,false
+UA022124,23 May 21,12,Hurlingham Park,St James,No. 4,Caleb Hutchins,Sophie Stewart,Sophie Stewart,4-6,4,6,0,1,Completed,true,false,false
+UA022301,,16,Parkdale,Royal Ave 2,No. 1,Xander Louey,Josh McKenzie,Xander Louey,6-1,6,1,1,0,Completed,true,false,false
+UA022301,,16,Parkdale,Royal Ave 2,No. 2,Taina Harwood,Arthur Coste,Taina Harwood,6-1,6,1,1,0,Completed,true,false,false
+UA022301,,16,Parkdale,Royal Ave 2,No. 3,Kai Domissee,Harry Tsorbaris,Harry Tsorbaris,1-6,1,6,0,1,Completed,true,false,false
+UA022301,,16,Parkdale,Royal Ave 2,No. 4,Atalay Simek,Livian Gomes,Livian Gomes,0-6,0,6,0,1,Completed,true,false,false
+UA022302,,16,St James,Hurlingham Park,No. 1,James Harrington,James Russo,James Harrington,6-1,6,1,1,0,Completed,true,false,false
+UA022302,,16,St James,Hurlingham Park,No. 2,Charlie Storer,Renny Thurlow,Renny Thurlow,1-6,1,6,0,1,Completed,true,false,false
+UA022302,,16,St James,Hurlingham Park,No. 3,William Cunningham,Dane Sujica-Zimmermann,Dane Sujica-Zimmermann,4-6,4,6,0,1,Completed,true,false,false
+UA022302,,16,St James,Hurlingham Park,No. 4,Lucy Stein,Sam Russo,Sam Russo,2-6,2,6,0,1,Completed,true,false,false
+UA022321,,17,Hurlingham Park,Royal Ave 2,No. 1,James Russo,Josh McKenzie,Josh McKenzie,4-6,4,6,0,1,Completed,true,false,false
+UA022321,,17,Hurlingham Park,Royal Ave 2,No. 2,Renny Thurlow,Tommy Sloan,Renny Thurlow,6-0,6,0,1,0,Completed,true,false,false
+UA022321,,17,Hurlingham Park,Royal Ave 2,No. 3,Dane Sujica-Zimmermann,Harry Tsorbaris,Dane Sujica-Zimmermann,6-4,6,4,1,0,Completed,true,false,false
+UA022321,,17,Hurlingham Park,Royal Ave 2,No. 4,Sam Russo,Livian Gomes,Livian Gomes,1-6,1,6,0,1,Completed,true,false,false

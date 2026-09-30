@@ -1,0 +1,77 @@
+{
+  "asset_id": "UA22-UA022",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA022",
+  "section_label": "Section 22",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park",
+      "wins": 11,
+      "points": 105,
+      "percentage": 156.86,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Caulfield Rec 2",
+      "wins": 9,
+      "points": 100,
+      "percentage": 142.91,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "St Louis de Mont",
+      "wins": 9,
+      "points": 91,
+      "percentage": 115.69,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Caulfield Rec 1",
+      "wins": 5,
+      "points": 60,
+      "percentage": 82.8,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC MLC",
+      "wins": 3,
+      "points": 54.5,
+      "percentage": 82.21,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Black Rock",
+      "wins": 1,
+      "points": 39.5,
+      "percentage": 55.29,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA022",
+  "fixtures": 46,
+  "completed_fixtures": 41,
+  "draw_fixtures": 43,
+  "singles_rubbers": 164,
+  "doubles_rubbers": 82,
+  "latest_round": 16,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for UA022061"
+  ]
+}

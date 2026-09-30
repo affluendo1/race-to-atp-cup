@@ -1,0 +1,237 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA011011,17 Jul 22,1,Dendy Park,BLTC,No. 1,Sean Stolyarov,Sophie Turner,Sean Stolyarov,7-6,7,6,1,0,Completed,true,false,false
+UA011011,17 Jul 22,1,Dendy Park,BLTC,No. 2,Jeremy Gu,Harry Bennett,Jeremy Gu,7-6,7,6,1,0,Completed,true,false,false
+UA011011,17 Jul 22,1,Dendy Park,BLTC,No. 3,Mason Ma,Finn Gehde,Finn Gehde,3-6,3,6,0,1,Completed,true,false,false
+UA011011,17 Jul 22,1,Dendy Park,BLTC,No. 4,James Kim,Hayley Taylor,James Kim,6-3,6,3,1,0,Completed,true,false,false
+UA011012,17 Jul 22,1,Lauriston,GPHC 1,No. 1,Isabelle Nazaretian,Kara Majumdar,Isabelle Nazaretian,6-2,6,2,1,0,Completed,true,false,false
+UA011012,17 Jul 22,1,Lauriston,GPHC 1,No. 2,Juliet Nazaretian,Anthony Masgalas,Anthony Masgalas,4-6,4,6,0,1,Completed,true,false,false
+UA011012,17 Jul 22,1,Lauriston,GPHC 1,No. 3,Elliott Davies,Sabina Rush,Elliott Davies,6-1,6,1,1,0,Completed,true,false,false
+UA011012,17 Jul 22,1,Lauriston,GPHC 1,No. 4,Mathew Kwong,Tahlia Zangalis,Tahlia Zangalis,4-6,4,6,0,1,Completed,true,false,false
+UA011013,17 Jul 22,1,GPHC 2,Royal Ave,No. 1,Kai Maynard,Sam Arbuckle,Kai Maynard,6-4,6,4,1,0,Completed,true,false,false
+UA011013,17 Jul 22,1,GPHC 2,Royal Ave,No. 2,Leo De Luca,Oscar Meadows,Leo De Luca,6-4,6,4,1,0,Completed,true,false,false
+UA011013,17 Jul 22,1,GPHC 2,Royal Ave,No. 3,Gracie Lu,Ella Hill,Gracie Lu,6-1,6,1,1,0,Completed,true,false,false
+UA011013,17 Jul 22,1,GPHC 2,Royal Ave,No. 4,Oscar Wilson,Georgia Atkinson,Oscar Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA011014,17 Jul 22,1,Mentone,Black Rock,No. 1,Arrianne Misa,Amelie Smith,Amelie Smith,5-7,5,7,0,1,Completed,true,false,false
+UA011014,17 Jul 22,1,Mentone,Black Rock,No. 2,Lee Moore,Harrison Yang,Harrison Yang,1-6,1,6,0,1,Completed,true,false,false
+UA011014,17 Jul 22,1,Mentone,Black Rock,No. 3,Kosta Mavrikos,Mitchell Holden,Kosta Mavrikos,6-0,6,0,1,0,Completed,true,false,false
+UA011014,17 Jul 22,1,Mentone,Black Rock,No. 4,Robert Proudfoot,Adam Martin,Robert Proudfoot,6-4,6,4,1,0,Completed,true,false,false
+UA011021,24 Jul 22,2,Black Rock,Dendy Park,No. 1,Amelie Smith,Sean Stolyarov,Amelie Smith,6-4,6,4,1,0,Completed,true,false,false
+UA011021,24 Jul 22,2,Black Rock,Dendy Park,No. 2,Harrison Yang,James Kim,Harrison Yang,6-4,6,4,1,0,Completed,true,false,false
+UA011021,24 Jul 22,2,Black Rock,Dendy Park,No. 3,Anna Tweddle,Mason Ma,Anna Tweddle,6-0,6,0,1,0,Completed,true,false,false
+UA011021,24 Jul 22,2,Black Rock,Dendy Park,No. 4,Adam Martin,Lihang Jiang,Adam Martin,6-2,6,2,1,0,Completed,true,false,false
+UA011022,24 Jul 22,2,BLTC,Lauriston,No. 1,Sophie Turner,Isabelle Nazaretian,Sophie Turner,6-2,6,2,1,0,Completed,true,false,false
+UA011022,24 Jul 22,2,BLTC,Lauriston,No. 2,Harry Bennett,Juliet Nazaretian,Harry Bennett,7-6,7,6,1,0,Completed,true,false,false
+UA011022,24 Jul 22,2,BLTC,Lauriston,No. 3,Finn Gehde,Noah Epstein,Noah Epstein,5-7,5,7,0,1,Completed,true,false,false
+UA011022,24 Jul 22,2,BLTC,Lauriston,No. 4,Zara Measures,Elliott Davies,Elliott Davies,1-6,1,6,0,1,Completed,true,true,false
+UA011023,24 Jul 22,2,GPHC 1,GPHC 2,No. 1,Sadhana Warrier,Archer Black,Sadhana Warrier,6-1,6,1,1,0,Completed,true,false,false
+UA011023,24 Jul 22,2,GPHC 1,GPHC 2,No. 2,Kara Majumdar,Leo De Luca,Kara Majumdar,6-3,6,3,1,0,Completed,true,false,false
+UA011023,24 Jul 22,2,GPHC 1,GPHC 2,No. 3,Sabina Rush,Claudia Hawkins,Claudia Hawkins,3-6,3,6,0,1,Completed,true,false,false
+UA011023,24 Jul 22,2,GPHC 1,GPHC 2,No. 4,Tahlia Zangalis,Gracie Lu,Gracie Lu,6-7,6,7,0,1,Completed,true,false,false
+UA011024,24 Jul 22,2,Royal Ave,Mentone,No. 1,Sam Arbuckle,Joshua Tesler,Joshua Tesler,0-6,0,6,0,1,Completed,true,false,true
+UA011024,24 Jul 22,2,Royal Ave,Mentone,No. 2,Claire Li,Lee Moore,Lee Moore,0-6,0,6,0,1,Completed,true,false,false
+UA011024,24 Jul 22,2,Royal Ave,Mentone,No. 3,Ella Hill,Kosta Mavrikos,Kosta Mavrikos,4-6,4,6,0,1,Completed,true,false,false
+UA011024,24 Jul 22,2,Royal Ave,Mentone,No. 4,Georgia Atkinson,Robert Proudfoot,Robert Proudfoot,2-6,2,6,0,1,Completed,true,false,false
+UA011031,31 Jul 22,3,Dendy Park,Royal Ave,No. 1,Sean Stolyarov,Tokiwa Yamazaki-bruschi,Sean Stolyarov,6-4,6,4,1,0,Completed,true,false,true
+UA011031,31 Jul 22,3,Dendy Park,Royal Ave,No. 2,Jeremy Gu,Declan Welch,Declan Welch,2-6,2,6,0,1,Completed,true,false,true
+UA011031,31 Jul 22,3,Dendy Park,Royal Ave,No. 3,Mason Ma,Georgia Atkinson,Mason Ma,6-2,6,2,1,0,Completed,true,false,false
+UA011031,31 Jul 22,3,Dendy Park,Royal Ave,No. 4,James Kim,Claire Li,James Kim,6-1,6,1,1,0,Completed,true,false,false
+UA011032,31 Jul 22,3,Lauriston,Black Rock,No. 1,Isabelle Nazaretian,Amelie Smith,Amelie Smith,3-6,3,6,0,1,Completed,true,false,false
+UA011032,31 Jul 22,3,Lauriston,Black Rock,No. 2,Juliet Nazaretian,Harrison Yang,Harrison Yang,1-6,1,6,0,1,Completed,true,false,false
+UA011032,31 Jul 22,3,Lauriston,Black Rock,No. 3,Noah Epstein,Lucy Letham,Noah Epstein,6-3,6,3,1,0,Completed,true,false,false
+UA011032,31 Jul 22,3,Lauriston,Black Rock,No. 4,Mathew Kwong,Anna Tweddle,Anna Tweddle,3-6,3,6,0,1,Completed,true,false,false
+UA011033,31 Jul 22,3,GPHC 2,BLTC,No. 1,Archer Black,Sophie Turner,Sophie Turner,4-6,4,6,0,1,Completed,true,false,false
+UA011033,31 Jul 22,3,GPHC 2,BLTC,No. 2,Kai Maynard,Biba Sloab,Biba Sloab,4-6,4,6,0,1,Completed,true,false,true
+UA011033,31 Jul 22,3,GPHC 2,BLTC,No. 3,Leo De Luca,Finn Gehde,Finn Gehde,2-6,2,6,0,1,Completed,true,false,false
+UA011033,31 Jul 22,3,GPHC 2,BLTC,No. 4,Claudia Hawkins,Kevin Bai,Kevin Bai,1-6,1,6,0,1,Completed,true,false,false
+UA011034,31 Jul 22,3,Mentone,GPHC 1,No. 1,Joshua Tesler,Sadhana Warrier,Sadhana Warrier,2-6,2,6,0,1,Completed,true,true,false
+UA011034,31 Jul 22,3,Mentone,GPHC 1,No. 2,Lee Moore,Kara Majumdar,Kara Majumdar,1-6,1,6,0,1,Completed,true,false,false
+UA011034,31 Jul 22,3,Mentone,GPHC 1,No. 3,Robert Proudfoot,Anthony Masgalas,Robert Proudfoot,6-2,6,2,1,0,Completed,true,false,false
+UA011034,31 Jul 22,3,Mentone,GPHC 1,No. 4,Lila Anderson,Tahlia Zangalis,Tahlia Zangalis,5-7,5,7,0,1,Completed,true,false,false
+UA011041,07 Aug 22,4,GPHC 1,Dendy Park,No. 1,Sadhana Warrier,Sean Stolyarov,Sean Stolyarov,3-6,3,6,0,1,Completed,true,false,false
+UA011041,07 Aug 22,4,GPHC 1,Dendy Park,No. 2,Emmett Gatt,Lachlan Curtis,Lachlan Curtis,0-6,0,6,0,1,Completed,true,false,true
+UA011041,07 Aug 22,4,GPHC 1,Dendy Park,No. 3,Anthony Masgalas,James Kim,Anthony Masgalas,7-6,7,6,1,0,Completed,true,false,false
+UA011041,07 Aug 22,4,GPHC 1,Dendy Park,No. 4,Sabina Rush,Mason Ma,Mason Ma,1-6,1,6,0,1,Completed,true,false,false
+UA011042,07 Aug 22,4,Royal Ave,Lauriston,No. 1,Sam Arbuckle,Isabelle Nazaretian,Isabelle Nazaretian,1-6,1,6,0,1,Completed,true,false,false
+UA011042,07 Aug 22,4,Royal Ave,Lauriston,No. 2,Sanjeeva Attygale,Juliet Nazaretian,Sanjeeva Attygale,6-1,6,1,1,0,Completed,true,true,false
+UA011042,07 Aug 22,4,Royal Ave,Lauriston,No. 3,Declan Welch,Noah Epstein,Noah Epstein,0-6,0,6,0,1,Completed,true,true,false
+UA011042,07 Aug 22,4,Royal Ave,Lauriston,No. 4,Georgia Atkinson,Elliott Davies,Elliott Davies,0-6,0,6,0,1,Completed,true,false,false
+UA011043,07 Aug 22,4,Black Rock,GPHC 2,No. 1,Harrison Yang,Kai Maynard,Harrison Yang,6-2,6,2,1,0,Completed,true,false,false
+UA011043,07 Aug 22,4,Black Rock,GPHC 2,No. 2,Lucy Letham,Leo De Luca,Lucy Letham,6-3,6,3,1,0,Completed,true,false,false
+UA011043,07 Aug 22,4,Black Rock,GPHC 2,No. 3,Mitchell Holden,Claudia Hawkins,Claudia Hawkins,1-6,1,6,0,1,Completed,true,false,false
+UA011043,07 Aug 22,4,Black Rock,GPHC 2,No. 4,Adam Martin,Gracie Lu,Adam Martin,7-5,7,5,1,0,Completed,true,false,false
+UA011044,07 Aug 22,4,BLTC,Mentone,No. 1,Sophie Turner,Arrianne Misa,Sophie Turner,6-3,6,3,1,0,Completed,true,false,false
+UA011044,07 Aug 22,4,BLTC,Mentone,No. 2,Harry Bennett,Kosta Mavrikos,Kosta Mavrikos,0-6,0,6,0,1,Completed,true,false,false
+UA011044,07 Aug 22,4,BLTC,Mentone,No. 3,Hayley Taylor,Robert Proudfoot,Robert Proudfoot,3-6,3,6,0,1,Completed,true,false,false
+UA011044,07 Aug 22,4,BLTC,Mentone,No. 4,Patrick Francese,Lila Anderson,Patrick Francese,6-4,6,4,1,0,Completed,true,true,false
+UA011051,14 Aug 22,5,GPHC 2,Mentone,No. 1,Archer Black,Arrianne Misa,Arrianne Misa,2-6,2,6,0,1,Completed,true,false,false
+UA011051,14 Aug 22,5,GPHC 2,Mentone,No. 2,Kai Maynard,Lee Moore,Lee Moore,4-6,4,6,0,1,Completed,true,false,false
+UA011051,14 Aug 22,5,GPHC 2,Mentone,No. 3,Leo De Luca,Robert Proudfoot,Leo De Luca,7-5,7,5,1,0,Completed,true,false,false
+UA011051,14 Aug 22,5,GPHC 2,Mentone,No. 4,Gracie Lu,Lila Anderson,Gracie Lu,6-0,6,0,1,0,Completed,true,false,false
+UA011052,14 Aug 22,5,Black Rock,Royal Ave,No. 1,Amelie Smith,Sam Arbuckle,Amelie Smith,6-2,6,2,1,0,Completed,true,false,false
+UA011052,14 Aug 22,5,Black Rock,Royal Ave,No. 2,Frankie Steel,Lily MacKenzie,Frankie Steel,6-4,6,4,1,0,Completed,true,true,false
+UA011052,14 Aug 22,5,Black Rock,Royal Ave,No. 3,Mitchell Holden,Georgia Atkinson,Georgia Atkinson,6-7,6,7,0,1,Completed,true,false,false
+UA011052,14 Aug 22,5,Black Rock,Royal Ave,No. 4,Adam Martin,Claire Li,Adam Martin,7-5,7,5,1,0,Completed,true,false,false
+UA011053,14 Aug 22,5,GPHC 1,BLTC,No. 1,Sadhana Warrier,Harry Bennett,Sadhana Warrier,6-4,6,4,1,0,Completed,true,false,false
+UA011053,14 Aug 22,5,GPHC 1,BLTC,No. 2,Emmett Gatt,Finn Gehde,Emmett Gatt,6-3,6,3,1,0,Completed,true,false,false
+UA011053,14 Aug 22,5,GPHC 1,BLTC,No. 3,Tahlia Zangalis,Hayley Taylor,Tahlia Zangalis,6-3,6,3,1,0,Completed,true,false,false
+UA011053,14 Aug 22,5,GPHC 1,BLTC,No. 4,Marisa Majumdar,Kevin Bai,Kevin Bai,1-6,1,6,0,1,Completed,true,true,false
+UA011054,14 Aug 22,5,Dendy Park,Lauriston,No. 1,Madison Luu,Isabelle Nazaretian,Madison Luu,7-6,7,6,1,0,Completed,true,false,false
+UA011054,14 Aug 22,5,Dendy Park,Lauriston,No. 2,Jeremy Gu,Juliet Nazaretian,Juliet Nazaretian,1-6,1,6,0,1,Completed,true,false,false
+UA011054,14 Aug 22,5,Dendy Park,Lauriston,No. 3,James Kim,Noah Epstein,Noah Epstein,6-7,6,7,0,1,Completed,true,false,false
+UA011054,14 Aug 22,5,Dendy Park,Lauriston,No. 4,Lihang Jiang,Elliott Davies,Elliott Davies,5-7,5,7,0,1,Completed,true,false,false
+UA011061,21 Aug 22,6,Lauriston,GPHC 2,No. 1,Isabelle Nazaretian,Archer Black,Isabelle Nazaretian,6-2,6,2,1,0,Completed,true,false,false
+UA011061,21 Aug 22,6,Lauriston,GPHC 2,No. 2,Juliet Nazaretian,Kai Maynard,Juliet Nazaretian,6-2,6,2,1,0,Completed,true,false,false
+UA011061,21 Aug 22,6,Lauriston,GPHC 2,No. 3,Noah Epstein,Claudia Hawkins,Noah Epstein,6-1,6,1,1,0,Completed,true,false,false
+UA011061,21 Aug 22,6,Lauriston,GPHC 2,No. 4,Elliott Davies,Gracie Lu,Elliott Davies,6-3,6,3,1,0,Completed,true,false,false
+UA011062,21 Aug 22,6,Mentone,Dendy Park,No. 1,Arrianne Misa,Madison Luu,Madison Luu,5-7,5,7,0,1,Completed,true,false,false
+UA011062,21 Aug 22,6,Mentone,Dendy Park,No. 2,Lee Moore,Sean Stolyarov,Sean Stolyarov,1-6,1,6,0,1,Completed,true,false,false
+UA011062,21 Aug 22,6,Mentone,Dendy Park,No. 3,Kosta Mavrikos,Jeremy Gu,Kosta Mavrikos,6-1,6,1,1,0,Completed,true,false,false
+UA011062,21 Aug 22,6,Mentone,Dendy Park,No. 4,Robert Proudfoot,James Kim,Robert Proudfoot,6-4,6,4,1,0,Completed,true,false,false
+UA011063,21 Aug 22,6,Royal Ave,GPHC 1,No. 1,Sam Arbuckle,Emmett Gatt,Emmett Gatt,1-6,1,6,0,1,Completed,true,false,false
+UA011063,21 Aug 22,6,Royal Ave,GPHC 1,No. 2,Lily MacKenzie,Kara Majumdar,Kara Majumdar,1-6,1,6,0,1,Completed,true,false,false
+UA011063,21 Aug 22,6,Royal Ave,GPHC 1,No. 3,Claire Li,Anthony Masgalas,Anthony Masgalas,0-6,0,6,0,1,Completed,true,false,false
+UA011063,21 Aug 22,6,Royal Ave,GPHC 1,No. 4,[Unnamed player — TROLS UA011063 home code 4],Tahlia Zangalis,Tahlia Zangalis,0-6,0,6,0,1,Completed,false,false,false
+UA011064,21 Aug 22,6,BLTC,Black Rock,No. 1,Sophie Turner,Lucy Letham,Lucy Letham,1-6,1,6,0,1,Completed,true,false,false
+UA011064,21 Aug 22,6,BLTC,Black Rock,No. 2,Harry Bennett,Mitchell Holden,Harry Bennett,6-0,6,0,1,0,Completed,true,false,false
+UA011064,21 Aug 22,6,BLTC,Black Rock,No. 3,Finn Gehde,Anna Tweddle,Finn Gehde,6-3,6,3,1,0,Completed,true,false,false
+UA011064,21 Aug 22,6,BLTC,Black Rock,No. 4,Hayley Taylor,Adam Martin,Hayley Taylor,7-6,7,6,1,0,Completed,true,false,false
+UA011071,28 Aug 22,7,Dendy Park,GPHC 2,No. 1,Madison Luu,Kai Maynard,Madison Luu,6-0,6,0,1,0,Completed,true,false,false
+UA011071,28 Aug 22,7,Dendy Park,GPHC 2,No. 2,Sean Stolyarov,Claudia Hawkins,Sean Stolyarov,6-4,6,4,1,0,Completed,true,false,false
+UA011071,28 Aug 22,7,Dendy Park,GPHC 2,No. 3,Mason Ma,Oscar Wilson,Oscar Wilson,4-6,4,6,0,1,Completed,true,false,false
+UA011071,28 Aug 22,7,Dendy Park,GPHC 2,No. 4,[Unnamed player — TROLS UA011071 home code 4],Gracie Lu,Gracie Lu,0-6,0,6,0,1,Completed,false,false,false
+UA011072,28 Aug 22,7,Lauriston,Mentone,No. 1,Isabelle Nazaretian,Lee Moore,Isabelle Nazaretian,6-0,6,0,1,0,Completed,true,false,false
+UA011072,28 Aug 22,7,Lauriston,Mentone,No. 2,Juliet Nazaretian,Kosta Mavrikos,Kosta Mavrikos,3-6,3,6,0,1,Completed,true,false,false
+UA011072,28 Aug 22,7,Lauriston,Mentone,No. 3,Noah Epstein,Robert Proudfoot,Noah Epstein,6-1,6,1,1,0,Completed,true,false,false
+UA011072,28 Aug 22,7,Lauriston,Mentone,No. 4,Mathew Kwong,Lila Anderson,Lila Anderson,3-6,3,6,0,1,Completed,true,false,false
+UA011073,28 Aug 22,7,Black Rock,GPHC 1,No. 1,Amelie Smith,Emmett Gatt,Amelie Smith,6-0,6,0,1,0,Completed,true,false,false
+UA011073,28 Aug 22,7,Black Rock,GPHC 1,No. 2,Lucy Letham,Kara Majumdar,Lucy Letham,6-3,6,3,1,0,Completed,true,false,false
+UA011073,28 Aug 22,7,Black Rock,GPHC 1,No. 3,Anna Tweddle,Anthony Masgalas,Anthony Masgalas,1-6,1,6,0,1,Completed,true,false,false
+UA011073,28 Aug 22,7,Black Rock,GPHC 1,No. 4,Adam Martin,Tahlia Zangalis,Tahlia Zangalis,1-6,1,6,0,1,Completed,true,false,false
+UA011074,28 Aug 22,7,Royal Ave,BLTC,No. 1,Sam Arbuckle,Sophie Turner,Sophie Turner,0-6,0,6,0,1,Completed,true,false,false
+UA011074,28 Aug 22,7,Royal Ave,BLTC,No. 2,Ella Hill,Harry Bennett,Harry Bennett,3-6,3,6,0,1,Completed,true,false,false
+UA011074,28 Aug 22,7,Royal Ave,BLTC,No. 3,Lily MacKenzie,Finn Gehde,Finn Gehde,3-6,3,6,0,1,Completed,true,false,false
+UA011074,28 Aug 22,7,Royal Ave,BLTC,No. 4,Claire Li,Hayley Taylor,Claire Li,7-6,7,6,1,0,Completed,true,false,false
+UA011081,04 Sep 22,8,BLTC,Dendy Park,No. 1,Sophie Turner,Madison Luu,Sophie Turner,6-4,6,4,1,0,Completed,true,false,false
+UA011081,04 Sep 22,8,BLTC,Dendy Park,No. 2,Harry Bennett,Jeremy Gu,Harry Bennett,6-4,6,4,1,0,Completed,true,false,false
+UA011081,04 Sep 22,8,BLTC,Dendy Park,No. 3,Finn Gehde,James Kim,James Kim,5-7,5,7,0,1,Completed,true,false,false
+UA011081,04 Sep 22,8,BLTC,Dendy Park,No. 4,Hayley Taylor,Lihang Jiang,Hayley Taylor,6-1,6,1,1,0,Completed,true,false,false
+UA011082,04 Sep 22,8,GPHC 1,Lauriston,No. 1,Sadhana Warrier,Lucas Newke,Lucas Newke,0-6,0,6,0,1,Completed,true,false,true
+UA011082,04 Sep 22,8,GPHC 1,Lauriston,No. 2,Emmett Gatt,Juliet Nazaretian,Juliet Nazaretian,2-6,2,6,0,1,Completed,true,false,false
+UA011082,04 Sep 22,8,GPHC 1,Lauriston,No. 3,Kara Majumdar,Elliott Davies,Elliott Davies,1-6,1,6,0,1,Completed,true,false,false
+UA011082,04 Sep 22,8,GPHC 1,Lauriston,No. 4,Sabina Rush,Mathew Kwong,Mathew Kwong,4-6,4,6,0,1,Completed,true,false,false
+UA011083,04 Sep 22,8,Royal Ave,GPHC 2,No. 1,Sam Arbuckle,Archer Black,Archer Black,6-7,6,7,0,1,Completed,true,false,false
+UA011083,04 Sep 22,8,Royal Ave,GPHC 2,No. 2,Ella Hill,Leo De Luca,Ella Hill,6-3,6,3,1,0,Completed,true,false,false
+UA011083,04 Sep 22,8,Royal Ave,GPHC 2,No. 3,Lily MacKenzie,Claudia Hawkins,Claudia Hawkins,0-6,0,6,0,1,Completed,true,false,false
+UA011083,04 Sep 22,8,Royal Ave,GPHC 2,No. 4,Georgia Atkinson,Oscar Wilson,Oscar Wilson,0-6,0,6,0,1,Completed,true,false,false
+UA011084,04 Sep 22,8,Black Rock,Mentone,No. 1,Amelie Smith,Arrianne Misa,Amelie Smith,6-2,6,2,1,0,Completed,true,false,false
+UA011084,04 Sep 22,8,Black Rock,Mentone,No. 2,Lucy Letham,Lee Moore,Lee Moore,1-6,1,6,0,1,Completed,true,false,false
+UA011084,04 Sep 22,8,Black Rock,Mentone,No. 3,Adam Martin,Robert Proudfoot,Robert Proudfoot,4-6,4,6,0,1,Completed,true,false,false
+UA011084,04 Sep 22,8,Black Rock,Mentone,No. 4,Mitchell Holden,Lila Anderson,Lila Anderson,0-6,0,6,0,1,Completed,true,false,false
+UA011091,11 Sep 22,9,Dendy Park,Black Rock,No. 1,Madison Luu,Lucy Letham,Madison Luu,6-3,6,3,1,0,Completed,true,false,false
+UA011091,11 Sep 22,9,Dendy Park,Black Rock,No. 2,Sean Stolyarov,Frankie Steel,Sean Stolyarov,6-0,6,0,1,0,Completed,true,false,true
+UA011091,11 Sep 22,9,Dendy Park,Black Rock,No. 3,James Kim,Anna Tweddle,James Kim,6-2,6,2,1,0,Completed,true,false,false
+UA011091,11 Sep 22,9,Dendy Park,Black Rock,No. 4,Jeremy Gu,Adam Martin,Jeremy Gu,6-2,6,2,1,0,Completed,true,false,false
+UA011092,11 Sep 22,9,Lauriston,BLTC,No. 1,Isabelle Nazaretian,Sophie Turner,Isabelle Nazaretian,7-5,7,5,1,0,Completed,true,false,false
+UA011092,11 Sep 22,9,Lauriston,BLTC,No. 2,Noah Epstein,Harry Bennett,Noah Epstein,6-4,6,4,1,0,Completed,true,false,false
+UA011092,11 Sep 22,9,Lauriston,BLTC,No. 3,Elliott Davies,Finn Gehde,Elliott Davies,7-6,7,6,1,0,Completed,true,false,false
+UA011092,11 Sep 22,9,Lauriston,BLTC,No. 4,Mathew Kwong,Hayley Taylor,Hayley Taylor,4-6,4,6,0,1,Completed,true,false,false
+UA011093,11 Sep 22,9,GPHC 2,GPHC 1,No. 1,Archer Black,Sadhana Warrier,Sadhana Warrier,2-6,2,6,0,1,Completed,true,false,false
+UA011093,11 Sep 22,9,GPHC 2,GPHC 1,No. 2,Kai Maynard,Kara Majumdar,Kara Majumdar,3-6,3,6,0,1,Completed,true,false,false
+UA011093,11 Sep 22,9,GPHC 2,GPHC 1,No. 3,Leo De Luca,Anthony Masgalas,Leo De Luca,6-4,6,4,1,0,Completed,true,false,false
+UA011093,11 Sep 22,9,GPHC 2,GPHC 1,No. 4,Oscar Wilson,Tahlia Zangalis,Tahlia Zangalis,1-6,1,6,0,1,Completed,true,false,false
+UA011094,11 Sep 22,9,Mentone,Royal Ave,No. 1,Arrianne Misa,Sam Arbuckle,Sam Arbuckle,5-7,5,7,0,1,Completed,true,false,false
+UA011094,11 Sep 22,9,Mentone,Royal Ave,No. 2,Lee Moore,Ella Hill,Lee Moore,6-2,6,2,1,0,Completed,true,false,false
+UA011094,11 Sep 22,9,Mentone,Royal Ave,No. 3,Robert Proudfoot,Georgia Atkinson,Robert Proudfoot,6-2,6,2,1,0,Completed,true,false,false
+UA011094,11 Sep 22,9,Mentone,Royal Ave,No. 4,Jack Robinson,Claire Li,Jack Robinson,6-2,6,2,1,0,Completed,true,true,false
+UA011101,09 Oct 22,10,Royal Ave,Dendy Park,No. 1,Sam Arbuckle,Madison Luu,Madison Luu,1-6,1,6,0,1,Completed,true,false,false
+UA011101,09 Oct 22,10,Royal Ave,Dendy Park,No. 2,Ella Hill,Sean Stolyarov,Sean Stolyarov,0-6,0,6,0,1,Completed,true,false,false
+UA011101,09 Oct 22,10,Royal Ave,Dendy Park,No. 3,Lily MacKenzie,James Kim,James Kim,2-6,2,6,0,1,Completed,true,false,false
+UA011101,09 Oct 22,10,Royal Ave,Dendy Park,No. 4,Georgia Atkinson,Mason Ma,Mason Ma,3-6,3,6,0,1,Completed,true,false,false
+UA011102,09 Oct 22,10,Black Rock,Lauriston,No. 1,Amelie Smith,Isabelle Nazaretian,Isabelle Nazaretian,4-6,4,6,0,1,Completed,true,false,false
+UA011102,09 Oct 22,10,Black Rock,Lauriston,No. 2,Harrison Yang,Juliet Nazaretian,Harrison Yang,6-1,6,1,1,0,Completed,true,false,false
+UA011102,09 Oct 22,10,Black Rock,Lauriston,No. 3,Mitchell Holden,Elliott Davies,Elliott Davies,0-6,0,6,0,1,Completed,true,false,false
+UA011102,09 Oct 22,10,Black Rock,Lauriston,No. 4,Anna Tweddle,Mathew Kwong,Mathew Kwong,3-6,3,6,0,1,Completed,true,false,false
+UA011103,09 Oct 22,10,BLTC,GPHC 2,No. 1,Harry Bennett,Archer Black,Archer Black,5-7,5,7,0,1,Completed,true,false,false
+UA011103,09 Oct 22,10,BLTC,GPHC 2,No. 2,Finn Gehde,Kai Maynard,Kai Maynard,4-6,4,6,0,1,Completed,true,false,false
+UA011103,09 Oct 22,10,BLTC,GPHC 2,No. 3,Hayley Taylor,Claudia Hawkins,Claudia Hawkins,2-6,2,6,0,1,Completed,true,false,false
+UA011103,09 Oct 22,10,BLTC,GPHC 2,No. 4,Kevin Bai,Gracie Lu,Kevin Bai,6-1,6,1,1,0,Completed,true,false,false
+UA011104,09 Oct 22,10,GPHC 1,Mentone,No. 1,Sadhana Warrier,Arrianne Misa,Sadhana Warrier,6-2,6,2,1,0,Completed,true,false,false
+UA011104,09 Oct 22,10,GPHC 1,Mentone,No. 2,Emmett Gatt,Lee Moore,Emmett Gatt,6-1,6,1,1,0,Completed,true,false,false
+UA011104,09 Oct 22,10,GPHC 1,Mentone,No. 3,Kara Majumdar,Robert Proudfoot,Robert Proudfoot,4-6,4,6,0,1,Completed,true,false,false
+UA011104,09 Oct 22,10,GPHC 1,Mentone,No. 4,Sabina Rush,Lila Anderson,Sabina Rush,6-3,6,3,1,0,Completed,true,false,false
+UA011111,16 Oct 22,11,Dendy Park,GPHC 1,No. 1,Madison Luu,Sadhana Warrier,Sadhana Warrier,2-6,2,6,0,1,Completed,true,false,false
+UA011111,16 Oct 22,11,Dendy Park,GPHC 1,No. 2,Sean Stolyarov,Kara Majumdar,Sean Stolyarov,6-3,6,3,1,0,Completed,true,false,false
+UA011111,16 Oct 22,11,Dendy Park,GPHC 1,No. 3,James Kim,Anthony Masgalas,James Kim,6-4,6,4,1,0,Completed,true,false,false
+UA011111,16 Oct 22,11,Dendy Park,GPHC 1,No. 4,Jeremy Gu,Tahlia Zangalis,Jeremy Gu,6-4,6,4,1,0,Completed,true,false,false
+UA011112,16 Oct 22,11,Lauriston,Royal Ave,No. 1,Isabelle Nazaretian,Sam Arbuckle,Isabelle Nazaretian,6-3,6,3,1,0,Completed,true,false,false
+UA011112,16 Oct 22,11,Lauriston,Royal Ave,No. 2,Juliet Nazaretian,Oscar Meadows,Juliet Nazaretian,6-1,6,1,1,0,Completed,true,false,false
+UA011112,16 Oct 22,11,Lauriston,Royal Ave,No. 3,Elliott Davies,Georgia Atkinson,Elliott Davies,7-5,7,5,1,0,Completed,true,false,false
+UA011112,16 Oct 22,11,Lauriston,Royal Ave,No. 4,Mathew Kwong,Claire Li,Mathew Kwong,6-1,6,1,1,0,Completed,true,false,false
+UA011113,16 Oct 22,11,GPHC 2,Black Rock,No. 1,Archer Black,Amelie Smith,Amelie Smith,5-7,5,7,0,1,Completed,true,false,false
+UA011113,16 Oct 22,11,GPHC 2,Black Rock,No. 2,Kai Maynard,Lucy Letham,Lucy Letham,3-6,3,6,0,1,Completed,true,false,false
+UA011113,16 Oct 22,11,GPHC 2,Black Rock,No. 3,Leo De Luca,Mitchell Holden,Leo De Luca,6-0,6,0,1,0,Completed,true,true,false
+UA011113,16 Oct 22,11,GPHC 2,Black Rock,No. 4,Oscar Wilson,Anna Tweddle,Oscar Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA011114,16 Oct 22,11,Mentone,BLTC,No. 1,Arrianne Misa,Harry Bennett,Harry Bennett,3-6,3,6,0,1,Completed,true,false,false
+UA011114,16 Oct 22,11,Mentone,BLTC,No. 2,Lee Moore,Finn Gehde,Finn Gehde,0-6,0,6,0,1,Completed,true,false,false
+UA011114,16 Oct 22,11,Mentone,BLTC,No. 3,Robert Proudfoot,Kevin Bai,Robert Proudfoot,6-0,6,0,1,0,Completed,true,false,false
+UA011114,16 Oct 22,11,Mentone,BLTC,No. 4,Lila Anderson,Louis Wu,Lila Anderson,7-6,7,6,1,0,Completed,true,false,true
+UA011121,23 Oct 22,12,Mentone,GPHC 2,No. 1,Arrianne Misa,Kai Maynard,Kai Maynard,3-6,3,6,0,1,Completed,true,false,false
+UA011121,23 Oct 22,12,Mentone,GPHC 2,No. 2,Kosta Mavrikos,Claudia Hawkins,Kosta Mavrikos,6-4,6,4,1,0,Completed,true,false,false
+UA011121,23 Oct 22,12,Mentone,GPHC 2,No. 3,Robert Proudfoot,Gracie Lu,Gracie Lu,3-6,3,6,0,1,Completed,true,false,false
+UA011121,23 Oct 22,12,Mentone,GPHC 2,No. 4,Lila Anderson,Oscar Wilson,Oscar Wilson,5-7,5,7,0,1,Completed,true,false,false
+UA011122,23 Oct 22,12,Royal Ave,Black Rock,No. 1,Ella Hill,Amelie Smith,Amelie Smith,1-6,1,6,0,1,Completed,true,false,false
+UA011122,23 Oct 22,12,Royal Ave,Black Rock,No. 2,Lily MacKenzie,Lucy Letham,Lucy Letham,1-6,1,6,0,1,Completed,true,false,false
+UA011122,23 Oct 22,12,Royal Ave,Black Rock,No. 3,Georgia Atkinson,Frankie Steel,Georgia Atkinson,6-3,6,3,1,0,Completed,true,false,true
+UA011122,23 Oct 22,12,Royal Ave,Black Rock,No. 4,Claire Li,Anna Tweddle,Anna Tweddle,3-6,3,6,0,1,Completed,true,false,false
+UA011123,23 Oct 22,12,BLTC,GPHC 1,No. 1,Harry Bennett,Sadhana Warrier,Sadhana Warrier,2-6,2,6,0,1,Completed,true,false,false
+UA011123,23 Oct 22,12,BLTC,GPHC 1,No. 2,Finn Gehde,Kara Majumdar,Kara Majumdar,5-7,5,7,0,1,Completed,true,false,false
+UA011123,23 Oct 22,12,BLTC,GPHC 1,No. 3,Hayley Taylor,Anthony Masgalas,Anthony Masgalas,4-6,4,6,0,1,Completed,true,false,false
+UA011123,23 Oct 22,12,BLTC,GPHC 1,No. 4,Kevin Bai,Sabina Rush,Kevin Bai,7-5,7,5,1,0,Completed,true,false,false
+UA011124,23 Oct 22,12,Lauriston,Dendy Park,No. 1,Juliet Nazaretian,Madison Luu,Juliet Nazaretian,7-6,7,6,1,0,Completed,true,false,false
+UA011124,23 Oct 22,12,Lauriston,Dendy Park,No. 2,Noah Epstein,Sean Stolyarov,Sean Stolyarov,2-6,2,6,0,1,Completed,true,false,false
+UA011124,23 Oct 22,12,Lauriston,Dendy Park,No. 3,Elliott Davies,Jeremy Gu,Elliott Davies,6-4,6,4,1,0,Completed,true,false,false
+UA011124,23 Oct 22,12,Lauriston,Dendy Park,No. 4,Mathew Kwong,Mason Ma,Mathew Kwong,6-3,6,3,1,0,Completed,true,false,false
+UA011131,06 Nov 22,13,GPHC 2,Lauriston,No. 1,Archer Black,Isabelle Nazaretian,Isabelle Nazaretian,2-6,2,6,0,1,Completed,true,false,false
+UA011131,06 Nov 22,13,GPHC 2,Lauriston,No. 2,Leo De Luca,Juliet Nazaretian,Juliet Nazaretian,6-7,6,7,0,1,Completed,true,false,false
+UA011131,06 Nov 22,13,GPHC 2,Lauriston,No. 3,Claudia Hawkins,Noah Epstein,Noah Epstein,1-6,1,6,0,1,Completed,true,false,false
+UA011131,06 Nov 22,13,GPHC 2,Lauriston,No. 4,Gracie Lu,Elliott Davies,Elliott Davies,6-7,6,7,0,1,Completed,true,false,false
+UA011132,06 Nov 22,13,Dendy Park,Mentone,No. 1,Madison Luu,Lee Moore,Lee Moore,5-7,5,7,0,1,Completed,true,false,false
+UA011132,06 Nov 22,13,Dendy Park,Mentone,No. 2,Sean Stolyarov,Alex Cao,Sean Stolyarov,6-4,6,4,1,0,Completed,true,false,true
+UA011132,06 Nov 22,13,Dendy Park,Mentone,No. 3,James Kim,Lila Anderson,James Kim,6-2,6,2,1,0,Completed,true,false,false
+UA011132,06 Nov 22,13,Dendy Park,Mentone,No. 4,Jeremy Gu,Jack Robinson,Jeremy Gu,6-1,6,1,1,0,Completed,true,false,true
+UA011133,06 Nov 22,13,GPHC 1,Royal Ave,No. 1,Sadhana Warrier,Sam Arbuckle,Sadhana Warrier,6-1,6,1,1,0,Completed,true,false,false
+UA011133,06 Nov 22,13,GPHC 1,Royal Ave,No. 2,Emmett Gatt,Ella Hill,Emmett Gatt,6-1,6,1,1,0,Completed,true,false,false
+UA011133,06 Nov 22,13,GPHC 1,Royal Ave,No. 3,Sabina Rush,Lily MacKenzie,Sabina Rush,6-3,6,3,1,0,Completed,true,false,false
+UA011133,06 Nov 22,13,GPHC 1,Royal Ave,No. 4,Tahlia Zangalis,Georgia Atkinson,Tahlia Zangalis,6-2,6,2,1,0,Completed,true,false,false
+UA011134,06 Nov 22,13,Black Rock,BLTC,No. 1,Amelie Smith,Sophie Turner,Sophie Turner,2-6,2,6,0,1,Completed,true,false,false
+UA011134,06 Nov 22,13,Black Rock,BLTC,No. 2,Lucy Letham,Harry Bennett,Lucy Letham,6-1,6,1,1,0,Completed,true,false,false
+UA011134,06 Nov 22,13,Black Rock,BLTC,No. 3,Mitchell Holden,Finn Gehde,Finn Gehde,0-6,0,6,0,1,Completed,true,false,false
+UA011134,06 Nov 22,13,Black Rock,BLTC,No. 4,Anna Tweddle,Kevin Bai,Kevin Bai,3-6,3,6,0,1,Completed,true,false,false
+UA011141,13 Nov 22,14,GPHC 2,Dendy Park,No. 1,Archer Black,Sean Stolyarov,Sean Stolyarov,3-6,3,6,0,1,Completed,true,false,false
+UA011141,13 Nov 22,14,GPHC 2,Dendy Park,No. 2,Kai Maynard,James Kim,James Kim,2-6,2,6,0,1,Completed,true,false,false
+UA011141,13 Nov 22,14,GPHC 2,Dendy Park,No. 3,Leo De Luca,Jeremy Gu,Leo De Luca,6-3,6,3,1,0,Completed,true,false,false
+UA011141,13 Nov 22,14,GPHC 2,Dendy Park,No. 4,Oscar Wilson,Mason Ma,Mason Ma,2-6,2,6,0,1,Completed,true,false,false
+UA011142,13 Nov 22,14,Mentone,Lauriston,No. 1,Lee Moore,Isabelle Nazaretian,Isabelle Nazaretian,1-6,1,6,0,1,Completed,true,false,false
+UA011142,13 Nov 22,14,Mentone,Lauriston,No. 2,Kosta Mavrikos,Juliet Nazaretian,Juliet Nazaretian,2-6,2,6,0,1,Completed,true,false,false
+UA011142,13 Nov 22,14,Mentone,Lauriston,No. 3,Robert Proudfoot,Noah Epstein,Noah Epstein,3-6,3,6,0,1,Completed,true,false,false
+UA011142,13 Nov 22,14,Mentone,Lauriston,No. 4,Lila Anderson,Mathew Kwong,Lila Anderson,7-5,7,5,1,0,Completed,true,false,false
+UA011143,13 Nov 22,14,GPHC 1,Black Rock,No. 1,Emmett Gatt,Amelie Smith,Amelie Smith,2-6,2,6,0,1,Completed,true,false,false
+UA011143,13 Nov 22,14,GPHC 1,Black Rock,No. 2,Kara Majumdar,Harrison Yang,Harrison Yang,0-6,0,6,0,1,Completed,true,false,false
+UA011143,13 Nov 22,14,GPHC 1,Black Rock,No. 3,Anthony Masgalas,Lucy Letham,Lucy Letham,1-6,1,6,0,1,Completed,true,false,false
+UA011143,13 Nov 22,14,GPHC 1,Black Rock,No. 4,Sabina Rush,Anna Tweddle,Sabina Rush,6-1,6,1,1,0,Completed,true,false,false
+UA011144,13 Nov 22,14,BLTC,Royal Ave,No. 1,Sophie Turner,Sam Arbuckle,Sophie Turner,6-2,6,2,1,0,Completed,true,false,false
+UA011144,13 Nov 22,14,BLTC,Royal Ave,No. 2,Harry Bennett,Oscar Meadows,Harry Bennett,6-4,6,4,1,0,Completed,true,false,false
+UA011144,13 Nov 22,14,BLTC,Royal Ave,No. 3,Finn Gehde,Ella Hill,Finn Gehde,6-1,6,1,1,0,Completed,true,false,false
+UA011144,13 Nov 22,14,BLTC,Royal Ave,No. 4,Louis Wu,Georgia Atkinson,Louis Wu,7-6,7,6,1,0,Completed,true,true,false
+UA011301,,16,Lauriston,Dendy Park,No. 1,Isabelle Nazaretian,Madison Luu,Madison Luu,6-7,6,7,0,1,Completed,true,false,false
+UA011301,,16,Lauriston,Dendy Park,No. 2,Juliet Nazaretian,Sean Stolyarov,Sean Stolyarov,1-6,1,6,0,1,Completed,true,false,false
+UA011301,,16,Lauriston,Dendy Park,No. 3,Elliott Davies,James Kim,Elliott Davies,6-3,6,3,1,0,Completed,true,false,false
+UA011301,,16,Lauriston,Dendy Park,No. 4,Mathew Kwong,Jeremy Gu,Jeremy Gu,1-6,1,6,0,1,Completed,true,false,false
+UA011302,,16,BLTC,GPHC 1,No. 1,Sophie Turner,Sadhana Warrier,Sophie Turner,6-3,6,3,1,0,Completed,true,false,false
+UA011302,,16,BLTC,GPHC 1,No. 2,Harry Bennett,Emmett Gatt,Emmett Gatt,5-7,5,7,0,1,Completed,true,false,false
+UA011302,,16,BLTC,GPHC 1,No. 3,Finn Gehde,Anthony Masgalas,Finn Gehde,6-4,6,4,1,0,Completed,true,false,false
+UA011302,,16,BLTC,GPHC 1,No. 4,Kevin Bai,Tahlia Zangalis,Kevin Bai,6-2,6,2,1,0,Completed,true,false,false
+UA011321,,17,BLTC,Dendy Park,No. 1,Sophie Turner,Sean Stolyarov,Sean Stolyarov,4-6,4,6,0,1,Completed,true,false,false
+UA011321,,17,BLTC,Dendy Park,No. 2,Harry Bennett,James Kim,James Kim,3-6,3,6,0,1,Completed,true,false,false
+UA011321,,17,BLTC,Dendy Park,No. 3,Finn Gehde,Jeremy Gu,Jeremy Gu,3-6,3,6,0,1,Completed,true,false,false
+UA011321,,17,BLTC,Dendy Park,No. 4,Kevin Bai,Mason Ma,Mason Ma,2-6,2,6,0,1,Completed,true,false,false

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA21-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2017",
+  "season_id": "UA21",
+  "season_label": "Spring 2017",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Mary's",
+      "wins": 13,
+      "points": 119,
+      "percentage": 192.74,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Bodley Tennis Plus",
+      "wins": 11,
+      "points": 98,
+      "percentage": 143.88,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kooyong St Kevin's",
+      "wins": 8,
+      "points": 89,
+      "percentage": 128.48,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 7,
+      "points": 76,
+      "percentage": 112.94,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal Ave",
+      "wins": 5,
+      "points": 63,
+      "percentage": 96.58,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Le Page",
+      "wins": 5,
+      "points": 58,
+      "percentage": 86.4,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Black Rock",
+      "wins": 4,
+      "points": 46,
+      "percentage": 65.66,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Caulfield Rec",
+      "wins": 0,
+      "points": 11,
+      "percentage": 40.0,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA21-UA014",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 59,
+  "singles_rubbers": 228,
+  "doubles_rubbers": 114,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

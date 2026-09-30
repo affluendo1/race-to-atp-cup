@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA16-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2015",
+  "season_id": "UA16",
+  "season_label": "Autumn 2015",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Royal South Yarra",
+      "wins": 8,
+      "points": 91,
+      "percentage": 118.5,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Dendy Park",
+      "wins": 6,
+      "points": 82,
+      "percentage": 119.19,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Highmoor Uniting",
+      "wins": 7,
+      "points": 81,
+      "percentage": 112.96,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Lauriston",
+      "wins": 5,
+      "points": 67,
+      "percentage": 99.65,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "GPHC",
+      "wins": 4,
+      "points": 63,
+      "percentage": 95.37,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Carmelite",
+      "wins": 5,
+      "points": 63,
+      "percentage": 73.01,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 4,
+      "points": 61,
+      "percentage": 95.68,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Coatesville",
+      "wins": 2,
+      "points": 52,
+      "percentage": 91.16,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA16-UA002",
+  "fixtures": 59,
+  "completed_fixtures": 44,
+  "draw_fixtures": 59,
+  "singles_rubbers": 176,
+  "doubles_rubbers": 88,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

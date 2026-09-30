@@ -1,0 +1,94 @@
+{
+  "asset_id": "UA6-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2010",
+  "season_id": "UA6",
+  "season_label": "Autumn 2010",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong 1",
+      "wins": 0,
+      "points": 105,
+      "percentage": 175.79,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "St Joan of Arc",
+      "wins": 0,
+      "points": 95,
+      "percentage": 143.5,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Kooyong 2",
+      "wins": 0,
+      "points": 93,
+      "percentage": 117.97,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 80,
+      "percentage": 99.69,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Mordialloc 1",
+      "wins": 0,
+      "points": 64,
+      "percentage": 84.44,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Mordialloc 2",
+      "wins": 0,
+      "points": 61,
+      "percentage": 85.64,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 45,
+      "percentage": 73.53,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Tennis World",
+      "wins": 0,
+      "points": 17,
+      "percentage": 51.72,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA6-UA002",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 208,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "No scorecard rubbers for UA002031",
+    "Fixture game totals do not match rubbers for UA002031"
+  ]
+}

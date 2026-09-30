@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA8-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2011",
+  "season_id": "UA8",
+  "season_label": "Autumn 2011",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 108,
+      "percentage": 165.86,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Middle Brighton",
+      "wins": 0,
+      "points": 103,
+      "percentage": 152.51,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Aspendale",
+      "wins": 0,
+      "points": 73.5,
+      "percentage": 113.43,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 65,
+      "percentage": 93.09,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Maccabi",
+      "wins": 0,
+      "points": 60,
+      "percentage": 75.2,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Tennis World",
+      "wins": 0,
+      "points": 54.5,
+      "percentage": 84.49,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St Joan of Arc RA",
+      "wins": 0,
+      "points": 53,
+      "percentage": 85.25,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong Xavier",
+      "wins": 0,
+      "points": 43,
+      "percentage": 66.96,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA8-UA014",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 211,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA014104"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA33-UA008",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2023",
+  "season_id": "UA33",
+  "season_label": "Spring 2023",
+  "source_section_code": "UA008",
+  "section_label": "Section 8",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Maccabi",
+      "wins": 13,
+      "points": 115,
+      "percentage": 181.7,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Mentone",
+      "wins": 10,
+      "points": 95,
+      "percentage": 122.88,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "BLTC Blue",
+      "wins": 9,
+      "points": 89.5,
+      "percentage": 122.18,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Tennis World",
+      "wins": 7,
+      "points": 76.5,
+      "percentage": 110.56,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Glen Huntly",
+      "wins": 6,
+      "points": 64,
+      "percentage": 92.71,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kings Park",
+      "wins": 5,
+      "points": 59,
+      "percentage": 92.73,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Murrumbeena",
+      "wins": 4,
+      "points": 44,
+      "percentage": 74.87,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong",
+      "wins": 0,
+      "points": 17,
+      "percentage": 54.23,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA33-UA008",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

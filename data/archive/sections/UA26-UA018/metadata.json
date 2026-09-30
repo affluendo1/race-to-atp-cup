@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA26-UA018",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2020",
+  "season_id": "UA26",
+  "season_label": "Autumn 2020",
+  "source_section_code": "UA018",
+  "section_label": "Section 18",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Murrumbeena LA",
+      "wins": 5,
+      "points": 53,
+      "percentage": 250.7,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Tennis World",
+      "wins": 4,
+      "points": 46,
+      "percentage": 258.06,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Highmoor Uniting",
+      "wins": 4,
+      "points": 39,
+      "percentage": 119.47,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Aspendale",
+      "wins": 3,
+      "points": 29,
+      "percentage": 77.62,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal Ave",
+      "wins": 2,
+      "points": 23,
+      "percentage": 69.12,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Caulfield Rec",
+      "wins": 1,
+      "points": 22,
+      "percentage": 81.25,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Highett",
+      "wins": 1,
+      "points": 17,
+      "percentage": 61.54,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 11,
+      "percentage": 59.01,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA26-UA018",
+  "fixtures": 24,
+  "completed_fixtures": 20,
+  "draw_fixtures": 56,
+  "singles_rubbers": 80,
+  "doubles_rubbers": 40,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

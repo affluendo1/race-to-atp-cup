@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA33-UA001",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2023",
+  "season_id": "UA33",
+  "season_label": "Spring 2023",
+  "source_section_code": "UA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC Blue",
+      "wins": 10,
+      "points": 94,
+      "percentage": 145.28,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "GPHC",
+      "wins": 8,
+      "points": 77,
+      "percentage": 132.22,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Coatesville Red",
+      "wins": 7,
+      "points": 74,
+      "percentage": 121.17,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Royal South Yarra",
+      "wins": 4,
+      "points": 58,
+      "percentage": 96.15,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC White",
+      "wins": 4,
+      "points": 44,
+      "percentage": 81.15,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Le Page",
+      "wins": 3,
+      "points": 40,
+      "percentage": 75.54,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Glen Huntly",
+      "wins": 3,
+      "points": 33,
+      "percentage": 73.89,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA33-UA001",
+  "fixtures": 59,
+  "completed_fixtures": 45,
+  "draw_fixtures": 59,
+  "singles_rubbers": 176,
+  "doubles_rubbers": 90,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

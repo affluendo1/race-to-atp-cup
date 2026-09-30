@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA26-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2020",
+  "season_id": "UA26",
+  "season_label": "Autumn 2020",
+  "source_section_code": "UA017",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC",
+      "wins": 5,
+      "points": 53,
+      "percentage": 268.18,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Kings Park",
+      "wins": 4,
+      "points": 38,
+      "percentage": 117.36,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Le Page",
+      "wins": 3,
+      "points": 34,
+      "percentage": 97.71,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Elsternwick Park",
+      "wins": 2,
+      "points": 28,
+      "percentage": 112.07,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong St Kevins",
+      "wins": 2,
+      "points": 26,
+      "percentage": 93.13,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park 1",
+      "wins": 2,
+      "points": 26,
+      "percentage": 84.4,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 2,
+      "points": 22,
+      "percentage": 77.36,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park 2",
+      "wins": 0,
+      "points": 13,
+      "percentage": 47.59,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA26-UA017",
+  "fixtures": 24,
+  "completed_fixtures": 20,
+  "draw_fixtures": 42,
+  "singles_rubbers": 80,
+  "doubles_rubbers": 40,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

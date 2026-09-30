@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA27-UA005",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2020",
+  "season_id": "UA27",
+  "season_label": "Spring 2020",
+  "source_section_code": "UA005",
+  "section_label": "Section 5",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Royal South Yarra",
+      "wins": 4,
+      "points": 37,
+      "percentage": 155.32,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Royal Ave 1",
+      "wins": 4,
+      "points": 35,
+      "percentage": 131.36,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Dendy Park",
+      "wins": 3,
+      "points": 35,
+      "percentage": 108.26,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Centenary Park",
+      "wins": 2,
+      "points": 28,
+      "percentage": 122.22,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC 2",
+      "wins": 2,
+      "points": 16,
+      "percentage": 67.81,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St Andrews MB RA",
+      "wins": 1,
+      "points": 15,
+      "percentage": 78.77,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave 2",
+      "wins": 1,
+      "points": 14,
+      "percentage": 71.53,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA27-UA005",
+  "fixtures": 24,
+  "completed_fixtures": 17,
+  "draw_fixtures": 56,
+  "singles_rubbers": 68,
+  "doubles_rubbers": 34,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,77 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA001011,01 Feb 26,1,Mentone,Black Rock,No. 1,Jackson Ralph,Austin Taleb,Austin Taleb,1-6 4-6,5,12,0,2,Completed,true,false,false
+UA001011,01 Feb 26,1,Mentone,Black Rock,No. 2,Xavier Ashlock,Ethan Kleiman,Ethan Kleiman,6-2 2-6 6-7,14,15,1,2,Completed,true,false,false
+UA001013,01 Feb 26,1,Royal South Yarra,BLTC Purple,No. 1,Kayaan Saluja,William Chu,Kayaan Saluja,4-6 6-3 7-6,17,15,2,1,Completed,true,false,false
+UA001013,01 Feb 26,1,Royal South Yarra,BLTC Purple,No. 2,Lucas Ding,Lucas Sleep,Lucas Sleep,2-6 6-4 6-7,14,17,1,2,Completed,true,false,false
+UA001021,08 Feb 26,2,BLTC Purple,Mentone,No. 1,William Chu,Xavier Ashlock,William Chu,6-2 6-4,12,6,2,0,Completed,true,false,false
+UA001021,08 Feb 26,2,BLTC Purple,Mentone,No. 2,Lucas Sleep,Eric Strelnikov,Lucas Sleep,6-3 6-2,12,5,2,0,Completed,true,false,false
+UA001022,08 Feb 26,2,Highmoor Uniting,Royal South Yarra,No. 1,Erik Bucko,Kayaan Saluja,Kayaan Saluja,6-2 4-6 6-7,16,15,1,2,Completed,true,false,false
+UA001022,08 Feb 26,2,Highmoor Uniting,Royal South Yarra,No. 2,Luke Young,Connor Le Page,Connor Le Page,5-7 6-3 6-7,17,17,1,2,Completed,true,false,false
+UA001023,08 Feb 26,2,Black Rock,BLTC Blue,No. 1,Jack James,Hudson Close,Hudson Close,1-6 3-6,4,12,0,2,Completed,true,false,false
+UA001023,08 Feb 26,2,Black Rock,BLTC Blue,No. 2,Ethan Kleiman,Aiden Dong,Ethan Kleiman,6-2 6-1,12,3,2,0,Completed,true,false,true
+UA001031,15 Feb 26,3,Mentone,BLTC Blue,No. 1,Jackson Ralph,Matthew Mizera,Jackson Ralph,6-0 6-2,12,2,2,0,Completed,true,false,false
+UA001031,15 Feb 26,3,Mentone,BLTC Blue,No. 2,Eric Strelnikov,Aiden Dong,Aiden Dong,2-6 0-6,2,12,0,2,Completed,true,false,true
+UA001032,15 Feb 26,3,Royal South Yarra,Black Rock,No. 1,Hugo Brosnahan,Austin Taleb,Austin Taleb,0-6 1-6,1,12,0,2,Completed,true,true,false
+UA001032,15 Feb 26,3,Royal South Yarra,Black Rock,No. 2,Harry Anderson,Jack James,Jack James,0-6 1-6,1,12,0,2,Completed,true,false,false
+UA001033,15 Feb 26,3,BLTC Purple,Highmoor Uniting,No. 1,William Chu,Erik Bucko,William Chu,6-1 6-0,12,1,2,0,Completed,true,false,false
+UA001033,15 Feb 26,3,BLTC Purple,Highmoor Uniting,No. 2,Lucas Sleep,Lazar Suluburic,Lucas Sleep,6-1 6-1,12,2,2,0,Completed,true,false,false
+UA001041,22 Feb 26,4,Highmoor Uniting,Mentone,No. 1,Erik Bucko,Xavier Ashlock,Erik Bucko,6-1 6-3,12,4,2,0,Completed,true,false,false
+UA001041,22 Feb 26,4,Highmoor Uniting,Mentone,No. 2,Sinbad Kozelski,Eric Strelnikov,Sinbad Kozelski,6-1 6-0,12,1,2,0,Completed,true,false,false
+UA001042,22 Feb 26,4,Black Rock,BLTC Purple,No. 1,Ethan Kleiman,William Chu,William Chu,4-6 5-7,9,13,0,2,Completed,true,false,false
+UA001042,22 Feb 26,4,Black Rock,BLTC Purple,No. 2,Luke Desmond,Lucas Sleep,Lucas Sleep,1-6 1-6,2,12,0,2,Completed,true,true,false
+UA001043,22 Feb 26,4,BLTC Blue,Royal South Yarra,No. 1,Hudson Close,Tom Anderson,Hudson Close,6-0 6-2,12,2,2,0,Completed,true,false,false
+UA001043,22 Feb 26,4,BLTC Blue,Royal South Yarra,No. 2,Ray Lai Cheong,Connor Le Page,Ray Lai Cheong,6-3 6-4,12,7,2,0,Completed,true,false,false
+UA001051,01 Mar 26,5,Mentone,Royal South Yarra,No. 1,Xavier Ashlock,Connor Le Page,Xavier Ashlock,7-6 6-0,13,6,2,0,Completed,true,false,false
+UA001051,01 Mar 26,5,Mentone,Royal South Yarra,No. 2,Eric Strelnikov,Lucas Ding,Lucas Ding,4-6 1-6,5,12,0,2,Completed,true,false,false
+UA001052,01 Mar 26,5,Highmoor Uniting,Black Rock,No. 1,Erik Bucko,Jack James,Erik Bucko,6-1 6-3,12,4,2,0,Completed,true,false,false
+UA001052,01 Mar 26,5,Highmoor Uniting,Black Rock,No. 2,Luke Young,Luke Desmond,Luke Young,6-3 6-2,12,5,2,0,Completed,true,false,true
+UA001053,01 Mar 26,5,BLTC Purple,BLTC Blue,No. 1,Lucas Sleep,Matthew Mizera,Matthew Mizera,3-6 3-6,6,12,0,2,Completed,true,false,false
+UA001053,01 Mar 26,5,BLTC Purple,BLTC Blue,No. 2,Tobias Malone,Kabeer Gursahani,Tobias Malone,6-1 6-1,12,2,2,0,Completed,true,true,true
+UA001061,15 Mar 26,6,Black Rock,Mentone,No. 1,Jack James,Xavier Ashlock,Xavier Ashlock,3-6 3-6,6,12,0,2,Completed,true,false,false
+UA001061,15 Mar 26,6,Black Rock,Mentone,No. 2,Ethan Kleiman,Eric Strelnikov,Ethan Kleiman,6-1 6-3,12,4,2,0,Completed,true,false,false
+UA001062,15 Mar 26,6,Highmoor Uniting,BLTC Blue,No. 1,Erik Bucko,Adyaan Tata,Erik Bucko,6-3 6-3,12,6,2,0,Completed,true,false,true
+UA001062,15 Mar 26,6,Highmoor Uniting,BLTC Blue,No. 2,Lazar Suluburic,Aiden Dong,Aiden Dong,2-6 1-6,3,12,0,2,Completed,true,false,true
+UA001071,22 Mar 26,7,Mentone,BLTC Purple,No. 1,Xavier Ashlock,William Chu,William Chu,1-6 2-6,3,12,0,2,Completed,true,false,false
+UA001071,22 Mar 26,7,Mentone,BLTC Purple,No. 2,Eric Strelnikov,Lucas Sleep,Lucas Sleep,3-6 0-6,3,12,0,2,Completed,true,false,false
+UA001072,22 Mar 26,7,Royal South Yarra,Highmoor Uniting,No. 1,Tom Anderson,Lazar Suluburic,Tom Anderson,6-2 6-0,12,2,2,0,Completed,true,false,false
+UA001072,22 Mar 26,7,Royal South Yarra,Highmoor Uniting,No. 2,Lucas Ding,Luka Suluburic,Lucas Ding,7-6 6-2,13,8,2,0,Completed,true,false,false
+UA001073,22 Mar 26,7,BLTC Blue,Black Rock,No. 1,Matthew Mizera,Ethan Kleiman,Matthew Mizera,6-3 6-3,12,6,2,0,Completed,true,false,false
+UA001073,22 Mar 26,7,BLTC Blue,Black Rock,No. 2,Aiden Dong,Max Looschilder,Max Looschilder,1-6 4-6,5,12,0,2,Completed,true,true,true
+UA001081,29 Mar 26,8,BLTC Blue,Mentone,No. 1,Ray Lai Cheong,Xavier Ashlock,Ray Lai Cheong,6-3 6-0,12,3,2,0,Completed,true,false,false
+UA001081,29 Mar 26,8,BLTC Blue,Mentone,No. 2,Aiden Dong,Eric Strelnikov,Aiden Dong,6-2 7-5,13,7,2,0,Completed,true,true,false
+UA001082,29 Mar 26,8,Black Rock,Royal South Yarra,No. 1,Ethan Kleiman,Connor Le Page,Ethan Kleiman,6-1 2-6 7-6,15,13,2,1,Completed,true,false,false
+UA001082,29 Mar 26,8,Black Rock,Royal South Yarra,No. 2,Joseph Desmond,Lucas Ding,Lucas Ding,4-6 4-6,8,12,0,2,Completed,true,true,false
+UA001083,29 Mar 26,8,Highmoor Uniting,BLTC Purple,No. 1,Erik Bucko,William Chu,Erik Bucko,7-5 6-1,13,6,2,0,Completed,true,false,false
+UA001083,29 Mar 26,8,Highmoor Uniting,BLTC Purple,No. 2,Sinbad Kozelski,Lucas Sleep,Lucas Sleep,5-7 7-6 6-7,18,20,1,2,Completed,true,false,false
+UA001091,26 Apr 26,9,Mentone,Highmoor Uniting,No. 1,Eric Strelnikov,Lazar Suluburic,Lazar Suluburic,2-6 2-6,4,12,0,2,Completed,true,false,false
+UA001091,26 Apr 26,9,Mentone,Highmoor Uniting,No. 2,Jack Forster,Luka Suluburic,Luka Suluburic,4-6 1-6,5,12,0,2,Completed,true,true,false
+UA001092,26 Apr 26,9,BLTC Purple,Black Rock,No. 1,Adyaan Tata,Jack James,Adyaan Tata,6-4 6-2,12,6,2,0,Completed,true,true,false
+UA001092,26 Apr 26,9,BLTC Purple,Black Rock,No. 2,Lucas Hansen,Ethan Kleiman,Ethan Kleiman,0-6 4-6,4,12,0,2,Completed,true,true,false
+UA001093,26 Apr 26,9,Royal South Yarra,BLTC Blue,No. 1,Kayaan Saluja,Matthew Mizera,Kayaan Saluja,6-4 6-1,12,5,2,0,Completed,true,false,false
+UA001093,26 Apr 26,9,Royal South Yarra,BLTC Blue,No. 2,Tom Anderson,Aiden Dong,Tom Anderson,6-3 6-2,12,5,2,0,Completed,true,false,true
+UA001103,03 May 26,10,BLTC Blue,BLTC Purple,No. 1,Matthew Mizera,William Chu,William Chu,1-3,1,3,0,1,Completed,false,false,false
+UA001103,03 May 26,10,BLTC Blue,BLTC Purple,No. 2,Aiden Dong,Lucas Sleep,Lucas Sleep,0-6 0-3,0,9,0,2,Completed,false,true,false
+UA001111,10 May 26,11,Mentone,Black Rock,No. 1,Xavier Ashlock,Jack James,Jack James,3-6 3-6,6,12,0,2,Completed,true,false,false
+UA001111,10 May 26,11,Mentone,Black Rock,No. 2,Jack Forster,Ethan Kleiman,Ethan Kleiman,0-6 0-6,0,12,0,2,Completed,true,true,false
+UA001112,10 May 26,11,BLTC Blue,Highmoor Uniting,No. 1,Ray Lai Cheong,Erik Bucko,Erik Bucko,4-6 2-6,6,12,0,2,Completed,true,false,false
+UA001112,10 May 26,11,BLTC Blue,Highmoor Uniting,No. 2,Aiden Dong,Luke Young,Aiden Dong,6-3 7-6,13,9,2,0,Completed,true,true,false
+UA001113,10 May 26,11,Royal South Yarra,BLTC Purple,No. 1,Kayaan Saluja,William Chu,Kayaan Saluja,6-3 6-3,12,6,2,0,Completed,true,false,false
+UA001113,10 May 26,11,Royal South Yarra,BLTC Purple,No. 2,Connor Le Page,Lucas Zhou,Lucas Zhou,0-6 0-6,0,12,0,2,Completed,true,false,true
+UA001131,24 May 26,13,Mentone,BLTC Blue,No. 1,Xavier Ashlock,Sebastian Maddams,Xavier Ashlock,6-0 6-0,12,0,2,0,Completed,true,false,true
+UA001131,24 May 26,13,Mentone,BLTC Blue,No. 2,Henri De Guzman,Samuel Zuo,Samuel Zuo,4-6,4,6,0,1,Completed,true,true,true
+UA001132,24 May 26,13,Royal South Yarra,Black Rock,No. 1,Lucas Ding,Jack James,Lucas Ding,5-7 6-1 7-6,18,14,2,1,Completed,true,false,false
+UA001132,24 May 26,13,Royal South Yarra,Black Rock,No. 2,Connor Le Page,Ethan Kleiman,Ethan Kleiman,0-6 2-6,2,12,0,2,Completed,true,false,false
+UA001133,24 May 26,13,BLTC Purple,Highmoor Uniting,No. 1,William Chu,Sinbad Kozelski,William Chu,6-1 6-2,12,3,2,0,Completed,true,false,false
+UA001133,24 May 26,13,BLTC Purple,Highmoor Uniting,No. 2,Lucas Zhou,Lazar Suluburic,Lucas Zhou,6-3 7-6,13,9,2,0,Completed,true,true,false
+UA001141,31 May 26,14,Highmoor Uniting,Mentone,No. 1,Erik Bucko,Xavier Ashlock,Erik Bucko,6-2 7-6,13,8,2,0,Completed,true,false,false
+UA001141,31 May 26,14,Highmoor Uniting,Mentone,No. 2,James Newell,Henri De Guzman,James Newell,6-1 6-2,12,3,2,0,Completed,true,true,true
+UA001142,31 May 26,14,Black Rock,BLTC Purple,No. 1,Jack James,Lucas Sleep,Lucas Sleep,1-6 4-6,5,12,0,2,Completed,true,false,false
+UA001142,31 May 26,14,Black Rock,BLTC Purple,No. 2,Ethan Kleiman,Monty Tucker,Ethan Kleiman,6-1 6-0,12,1,2,0,Completed,true,false,true
+UA001151,14 Jun 26,15,Mentone,Royal South Yarra,No. 1,Henri De Guzman,Tom Anderson,Henri De Guzman,7-5 6-1,13,6,2,0,Completed,true,true,false
+UA001151,14 Jun 26,15,Mentone,Royal South Yarra,No. 2,Joshua Tesler,Sebastian Sinclair-parmenov,Sebastian Sinclair-parmenov,2-6 3-6,5,12,0,2,Completed,true,true,true
+UA001152,14 Jun 26,15,Highmoor Uniting,Black Rock,No. 1,Sebastian Maddams,Jack James,Jack James,0-6 0-6,0,12,0,2,Completed,true,true,false
+UA001152,14 Jun 26,15,Highmoor Uniting,Black Rock,No. 2,Lazar Suluburic,Ethan Kleiman,Ethan Kleiman,3-6 3-6,6,12,0,2,Completed,true,false,false
+UA001153,14 Jun 26,15,BLTC Purple,BLTC Blue,No. 1,William Chu,Matthew Mizera,Matthew Mizera,6-1 5-7 6-7,17,15,1,2,Completed,true,false,false
+UA001153,14 Jun 26,15,BLTC Purple,BLTC Blue,No. 2,Lucas Sleep,Aiden Dong,Lucas Sleep,6-1 6-2,12,3,2,0,Completed,true,false,true
+UA001321,,16,BLTC Purple,Black Rock,No. 1,William Chu,Jack James,Jack James,6-1 3-6 6-7,15,14,1,2,Completed,true,false,false
+UA001321,,16,BLTC Purple,Black Rock,No. 2,Lucas Sleep,Ethan Kleiman,Lucas Sleep,7-6 2-6 7-6,16,18,2,1,Completed,true,false,false

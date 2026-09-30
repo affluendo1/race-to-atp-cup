@@ -1,0 +1,81 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA001011,02 Feb 20,1,Royal South Yarra,Dendy Park,No. 1,Eagan Lai,Andreas Tanti,Eagan Lai,6-2,6,2,1,0,Completed,true,false,false
+UA001011,02 Feb 20,1,Royal South Yarra,Dendy Park,No. 2,Lachlan Mailer,Daniel Whitson,Daniel Whitson,5-7,5,7,0,1,Completed,true,false,false
+UA001011,02 Feb 20,1,Royal South Yarra,Dendy Park,No. 3,Harvey Clements,Sebastian Liddle,Sebastian Liddle,2-6,2,6,0,1,Completed,true,false,false
+UA001011,02 Feb 20,1,Royal South Yarra,Dendy Park,No. 4,Thomas Wenzel,Ashley Small,Ashley Small,3-6,3,6,0,1,Completed,true,false,false
+UA001012,02 Feb 20,1,Kooyong 1,Kooyong 2,No. 1,Aaron Koh,Matthew Sweetnam,Aaron Koh,6-1,6,1,1,0,Completed,true,false,false
+UA001012,02 Feb 20,1,Kooyong 1,Kooyong 2,No. 2,Cruz Hewitt,Toby McOmish,Cruz Hewitt,6-2,6,2,1,0,Completed,true,false,false
+UA001012,02 Feb 20,1,Kooyong 1,Kooyong 2,No. 3,Tyson Doan,Fred Martin,Tyson Doan,6-2,6,2,1,0,Completed,true,false,false
+UA001012,02 Feb 20,1,Kooyong 1,Kooyong 2,No. 4,Oliver Field,Annabel Sweetnam,Annabel Sweetnam,3-6,3,6,0,1,Completed,true,false,false
+UA001013,02 Feb 20,1,GPHC,Royal Ave,No. 1,Louis Taylor,Josh Chu-Wise,Josh Chu-Wise,3-6,3,6,0,1,Completed,true,false,false
+UA001013,02 Feb 20,1,GPHC,Royal Ave,No. 2,Dimitri Bagaric,Archie Antonopoulos,Archie Antonopoulos,2-6,2,6,0,1,Completed,true,false,false
+UA001013,02 Feb 20,1,GPHC,Royal Ave,No. 3,Rohan Chalisgaonkar,Liam Peppard,Rohan Chalisgaonkar,6-2,6,2,1,0,Completed,true,false,false
+UA001013,02 Feb 20,1,GPHC,Royal Ave,No. 4,Lachie Joughin,Harley Chessells,Harley Chessells,5-7,5,7,0,1,Completed,true,false,true
+UA001014,02 Feb 20,1,Tennis World,Hurlingham Park,No. 1,Justin Pirie,Juliet McKenzie,Justin Pirie,7-5,7,5,1,0,Completed,true,false,false
+UA001014,02 Feb 20,1,Tennis World,Hurlingham Park,No. 2,Yuuki Hirano-James,Alex Hadziladas,Alex Hadziladas,3-6,3,6,0,1,Completed,true,false,false
+UA001014,02 Feb 20,1,Tennis World,Hurlingham Park,No. 3,Florian Kostov,Brody Rosenbloom,Florian Kostov,6-1,6,1,1,0,Completed,true,false,false
+UA001014,02 Feb 20,1,Tennis World,Hurlingham Park,No. 4,Stefan Desovski,Ava Juste,Stefan Desovski,6-0,6,0,1,0,Completed,true,false,false
+UA001021,09 Feb 20,2,Hurlingham Park,Royal South Yarra,No. 1,Juliet McKenzie,Eagan Lai,Eagan Lai,3-6,3,6,0,1,Completed,true,false,false
+UA001021,09 Feb 20,2,Hurlingham Park,Royal South Yarra,No. 2,Alex Hadziladas,Harvey Clements,Alex Hadziladas,6-4,6,4,1,0,Completed,true,false,false
+UA001021,09 Feb 20,2,Hurlingham Park,Royal South Yarra,No. 3,Brody Rosenbloom,James Ollerenshaw,Brody Rosenbloom,7-6,7,6,1,0,Completed,true,false,true
+UA001021,09 Feb 20,2,Hurlingham Park,Royal South Yarra,No. 4,Harrison Fittler,Darcy Albert,Darcy Albert,1-6,1,6,0,1,Completed,true,false,true
+UA001022,09 Feb 20,2,Dendy Park,Kooyong 1,No. 1,Andreas Tanti,Cruz Hewitt,Cruz Hewitt,2-6,2,6,0,1,Completed,true,false,false
+UA001022,09 Feb 20,2,Dendy Park,Kooyong 1,No. 2,Mateo Munoz,Oliver Field,Oliver Field,3-6,3,6,0,1,Completed,true,false,false
+UA001022,09 Feb 20,2,Dendy Park,Kooyong 1,No. 3,Daniel Whitson,Sam Ferguson,Daniel Whitson,7-5,7,5,1,0,Completed,true,false,false
+UA001022,09 Feb 20,2,Dendy Park,Kooyong 1,No. 4,Jonny Bauerberg,Andrio Sousa,Andrio Sousa,4-6,4,6,0,1,Completed,true,false,false
+UA001023,09 Feb 20,2,Kooyong 2,GPHC,No. 1,Ben Fallon,Dimitri Bagaric,Dimitri Bagaric,1-6,1,6,0,1,Completed,true,false,false
+UA001023,09 Feb 20,2,Kooyong 2,GPHC,No. 2,Toby McOmish,Maksim Jezdic,Toby McOmish,6-3,6,3,1,0,Completed,true,false,true
+UA001023,09 Feb 20,2,Kooyong 2,GPHC,No. 3,Holly Feldman,Rohan Chalisgaonkar,Rohan Chalisgaonkar,4-6,4,6,0,1,Completed,true,false,false
+UA001023,09 Feb 20,2,Kooyong 2,GPHC,No. 4,Fred Martin,Xavier Aitken,Xavier Aitken,6-7,6,7,0,1,Completed,true,false,true
+UA001024,09 Feb 20,2,Royal Ave,Tennis World,No. 1,Josh Chu-Wise,Justin Pirie,Josh Chu-Wise,6-4,6,4,1,0,Completed,true,false,false
+UA001024,09 Feb 20,2,Royal Ave,Tennis World,No. 2,Conor Mooney,Yuuki Hirano-James,Conor Mooney,7-5,7,5,1,0,Completed,true,false,false
+UA001024,09 Feb 20,2,Royal Ave,Tennis World,No. 3,Liam Peppard,Nicolo Nardari,Nicolo Nardari,4-6,4,6,0,1,Completed,true,false,false
+UA001024,09 Feb 20,2,Royal Ave,Tennis World,No. 4,Allegra Dureau,Florian Kostov,Allegra Dureau,7-6,7,6,1,0,Completed,true,false,false
+UA001031,16 Feb 20,3,Royal South Yarra,Royal Ave,No. 1,Harvey Clements,Josh Chu-Wise,Josh Chu-Wise,2-6,2,6,0,1,Completed,true,false,false
+UA001031,16 Feb 20,3,Royal South Yarra,Royal Ave,No. 2,Thomas Wenzel,Roch Dargan,Roch Dargan,1-6,1,6,0,1,Completed,true,false,false
+UA001031,16 Feb 20,3,Royal South Yarra,Royal Ave,No. 3,James Ollerenshaw,Conor Mooney,Conor Mooney,4-6,4,6,0,1,Completed,true,true,false
+UA001031,16 Feb 20,3,Royal South Yarra,Royal Ave,No. 4,Darcy Albert,Liam Peppard,Liam Peppard,1-6,1,6,0,1,Completed,true,true,false
+UA001032,16 Feb 20,3,Kooyong 1,Hurlingham Park,No. 1,Aaron Koh,Juliet McKenzie,Aaron Koh,6-1,6,1,1,0,Completed,true,false,false
+UA001032,16 Feb 20,3,Kooyong 1,Hurlingham Park,No. 2,Cruz Hewitt,Alex Hadziladas,Cruz Hewitt,6-2,6,2,1,0,Completed,true,false,false
+UA001032,16 Feb 20,3,Kooyong 1,Hurlingham Park,No. 3,Tyson Doan,Ava Juste,Tyson Doan,6-1,6,1,1,0,Completed,true,false,false
+UA001032,16 Feb 20,3,Kooyong 1,Hurlingham Park,No. 4,Oliver Field,Harrison Fittler,Oliver Field,6-1,6,1,1,0,Completed,true,false,false
+UA001033,16 Feb 20,3,GPHC,Dendy Park,No. 1,Louis Taylor,Andreas Tanti,Andreas Tanti,6-7,6,7,0,1,Completed,true,false,false
+UA001033,16 Feb 20,3,GPHC,Dendy Park,No. 2,Dimitri Bagaric,Daniel Whitson,Dimitri Bagaric,6-0,6,0,1,0,Completed,true,false,false
+UA001033,16 Feb 20,3,GPHC,Dendy Park,No. 3,Maksim Jezdic,Sebastian Liddle,Maksim Jezdic,6-1,6,1,1,0,Completed,true,true,false
+UA001033,16 Feb 20,3,GPHC,Dendy Park,No. 4,Lachie Joughin,Jonny Bauerberg,Jonny Bauerberg,3-6,3,6,0,1,Completed,true,false,false
+UA001034,16 Feb 20,3,Tennis World,Kooyong 2,No. 1,Justin Pirie,Ben Fallon,Justin Pirie,6-2,6,2,1,0,Completed,true,false,false
+UA001034,16 Feb 20,3,Tennis World,Kooyong 2,No. 2,Yuuki Hirano-James,Matthew Sweetnam,Matthew Sweetnam,2-6,2,6,0,1,Completed,true,false,false
+UA001034,16 Feb 20,3,Tennis World,Kooyong 2,No. 3,Nicolo Nardari,Fred Martin,Nicolo Nardari,6-3,6,3,1,0,Completed,true,false,false
+UA001034,16 Feb 20,3,Tennis World,Kooyong 2,No. 4,Florian Kostov,Annabel Sweetnam,Florian Kostov,6-1,6,1,1,0,Completed,true,false,false
+UA001041,23 Feb 20,4,Kooyong 2,Royal South Yarra,No. 1,Matthew Sweetnam,Eagan Lai,Matthew Sweetnam,6-1,6,1,1,0,Completed,true,false,false
+UA001041,23 Feb 20,4,Kooyong 2,Royal South Yarra,No. 2,Toby McOmish,Lachlan Mailer,Toby McOmish,6-1,6,1,1,0,Completed,true,false,false
+UA001041,23 Feb 20,4,Kooyong 2,Royal South Yarra,No. 3,Holly Feldman,Harvey Clements,Harvey Clements,4-6,4,6,0,1,Completed,true,false,false
+UA001041,23 Feb 20,4,Kooyong 2,Royal South Yarra,No. 4,Annabel Sweetnam,Darcy Albert,Annabel Sweetnam,7-6,7,6,1,0,Completed,true,false,true
+UA001042,23 Feb 20,4,Royal Ave,Kooyong 1,No. 1,Roch Dargan,Aaron Koh,Aaron Koh,4-6,4,6,0,1,Completed,true,false,false
+UA001042,23 Feb 20,4,Royal Ave,Kooyong 1,No. 2,Conor Mooney,Cruz Hewitt,Cruz Hewitt,1-6,1,6,0,1,Completed,true,false,false
+UA001042,23 Feb 20,4,Royal Ave,Kooyong 1,No. 3,Liam Peppard,Andrio Sousa,Andrio Sousa,2-6,2,6,0,1,Completed,true,false,false
+UA001042,23 Feb 20,4,Royal Ave,Kooyong 1,No. 4,Allegra Dureau,Lewis Vanderzalm,Allegra Dureau,6-3,6,3,1,0,Completed,true,false,true
+UA001043,23 Feb 20,4,Hurlingham Park,GPHC,No. 1,Juliet McKenzie,Louis Taylor,Juliet McKenzie,6-4,6,4,1,0,Completed,true,false,false
+UA001043,23 Feb 20,4,Hurlingham Park,GPHC,No. 2,Brody Rosenbloom,Rohan Chalisgaonkar,Rohan Chalisgaonkar,2-6,2,6,0,1,Completed,true,false,false
+UA001043,23 Feb 20,4,Hurlingham Park,GPHC,No. 3,Ava Juste,Lachie Joughin,Lachie Joughin,2-6,2,6,0,1,Completed,true,false,false
+UA001043,23 Feb 20,4,Hurlingham Park,GPHC,No. 4,Harrison Fittler,Xavier Aitken,Xavier Aitken,1-6,1,6,0,1,Completed,true,false,true
+UA001044,23 Feb 20,4,Dendy Park,Tennis World,No. 1,Andreas Tanti,Justin Pirie,Justin Pirie,5-7,5,7,0,1,Completed,true,false,false
+UA001044,23 Feb 20,4,Dendy Park,Tennis World,No. 2,Mateo Munoz,Nicolo Nardari,Nicolo Nardari,2-6,2,6,0,1,Completed,true,false,false
+UA001044,23 Feb 20,4,Dendy Park,Tennis World,No. 3,Daniel Whitson,Florian Kostov,Florian Kostov,4-6,4,6,0,1,Completed,true,false,false
+UA001044,23 Feb 20,4,Dendy Park,Tennis World,No. 4,Ashley Small,Stefan Desovski,Stefan Desovski,0-6,0,6,0,1,Completed,true,false,false
+UA001051,01 Mar 20,5,GPHC,Tennis World,No. 1,Louis Taylor,Justin Pirie,Justin Pirie,3-6,3,6,0,1,Completed,true,false,false
+UA001051,01 Mar 20,5,GPHC,Tennis World,No. 2,Maksim Jezdic,Yuuki Hirano-James,Yuuki Hirano-James,3-6,3,6,0,1,Completed,true,true,false
+UA001051,01 Mar 20,5,GPHC,Tennis World,No. 3,Rohan Chalisgaonkar,Stefan Desovski,Stefan Desovski,2-6,2,6,0,1,Completed,true,false,false
+UA001051,01 Mar 20,5,GPHC,Tennis World,No. 4,Lachie Joughin,Max Eissmann,Lachie Joughin,6-1,6,1,1,0,Completed,true,false,true
+UA001052,01 Mar 20,5,Hurlingham Park,Royal Ave,No. 1,Juliet McKenzie,Josh Chu-Wise,Josh Chu-Wise,1-6,1,6,0,1,Completed,true,false,false
+UA001052,01 Mar 20,5,Hurlingham Park,Royal Ave,No. 2,Alex Hadziladas,Roch Dargan,Alex Hadziladas,6-4,6,4,1,0,Completed,true,false,false
+UA001052,01 Mar 20,5,Hurlingham Park,Royal Ave,No. 3,Ava Juste,Conor Mooney,Conor Mooney,0-6,0,6,0,1,Completed,true,false,false
+UA001052,01 Mar 20,5,Hurlingham Park,Royal Ave,No. 4,Harrison Fittler,Liam Peppard,Liam Peppard,3-6,3,6,0,1,Completed,true,false,false
+UA001053,01 Mar 20,5,Kooyong 2,Dendy Park,No. 1,Ben Fallon,Andreas Tanti,Andreas Tanti,3-6,3,6,0,1,Completed,true,false,false
+UA001053,01 Mar 20,5,Kooyong 2,Dendy Park,No. 2,Matthew Sweetnam,Mateo Munoz,Matthew Sweetnam,6-2,6,2,1,0,Completed,true,false,false
+UA001053,01 Mar 20,5,Kooyong 2,Dendy Park,No. 3,Fred Martin,Jonny Bauerberg,Jonny Bauerberg,3-6,3,6,0,1,Completed,true,false,false
+UA001053,01 Mar 20,5,Kooyong 2,Dendy Park,No. 4,Annabel Sweetnam,Ashley Small,Ashley Small,5-7,5,7,0,1,Completed,true,false,false
+UA001054,01 Mar 20,5,Royal South Yarra,Kooyong 1,No. 1,Lachlan Mailer,Aaron Koh,Aaron Koh,3-6,3,6,0,1,Completed,true,false,false
+UA001054,01 Mar 20,5,Royal South Yarra,Kooyong 1,No. 2,Thomas Wenzel,Tyson Doan,Tyson Doan,3-6,3,6,0,1,Completed,true,false,false
+UA001054,01 Mar 20,5,Royal South Yarra,Kooyong 1,No. 3,James Ollerenshaw,Oliver Field,Oliver Field,0-6,0,6,0,1,Completed,true,true,false
+UA001054,01 Mar 20,5,Royal South Yarra,Kooyong 1,No. 4,Molly Reiger,Andrio Sousa,Molly Reiger,6-2,6,2,1,0,Completed,true,true,false

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA31-UA018",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2022",
+  "season_id": "UA31",
+  "season_label": "Spring 2022",
+  "source_section_code": "UA018",
+  "section_label": "Section 18",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park",
+      "wins": 11,
+      "points": 108,
+      "percentage": 182.33,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 11,
+      "points": 104,
+      "percentage": 155.71,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "BLTC WHITE",
+      "wins": 10,
+      "points": 98,
+      "percentage": 132.38,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC Blue",
+      "wins": 7,
+      "points": 81,
+      "percentage": 129.03,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Parkdale",
+      "wins": 7,
+      "points": 73,
+      "percentage": 100.57,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Aspendale",
+      "wins": 4,
+      "points": 56,
+      "percentage": 88.83,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra",
+      "wins": 1,
+      "points": 22,
+      "percentage": 50.9,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Le Page",
+      "wins": 1,
+      "points": 18,
+      "percentage": 34.8,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA31-UA018",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 59,
+  "singles_rubbers": 228,
+  "doubles_rubbers": 113,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

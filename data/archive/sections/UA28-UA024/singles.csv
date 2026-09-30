@@ -1,0 +1,133 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA024011,24 Gre 31,1,BLTC,Kings Park 1,No. 1,Harry Bennett,Nate Horlsey,Harry Bennett,6-4,6,4,1,0,Completed,true,false,false
+UA024011,24 Gre 31,1,BLTC,Kings Park 1,No. 2,Aiden Leonard,Lachie Cravion,Aiden Leonard,6-1,6,1,1,0,Completed,true,false,false
+UA024011,24 Gre 31,1,BLTC,Kings Park 1,No. 3,Jenson Witherington,Jamie Dodd,Jamie Dodd,5-7,5,7,0,1,Completed,true,false,false
+UA024011,24 Gre 31,1,BLTC,Kings Park 1,No. 4,Joshua Ray,Logan Xia,Joshua Ray,6-4,6,4,1,0,Completed,true,false,true
+UA024012,24 Gre 31,1,Kings Park 2,Mentone,No. 1,Aiden Woolf,Kosta Mavrikos,Kosta Mavrikos,1-6,1,6,0,1,Completed,true,false,false
+UA024012,24 Gre 31,1,Kings Park 2,Mentone,No. 2,Seou Ham,Wanda Bacskai,Wanda Bacskai,0-6,0,6,0,1,Completed,true,false,false
+UA024012,24 Gre 31,1,Kings Park 2,Mentone,No. 3,Zeyi Xu,Kabeer Gursahani,Kabeer Gursahani,0-6,0,6,0,1,Completed,true,false,false
+UA024012,24 Gre 31,1,Kings Park 2,Mentone,No. 4,Max Foots,Neal Gong,Max Foots,6-1,6,1,1,0,Completed,true,false,false
+UA024013,24 Gre 31,1,Parkdale,Kings Park 3,No. 1,Darcy Basist,Maja O'Sullivan,Darcy Basist,6-3,6,3,1,0,Completed,true,false,false
+UA024013,24 Gre 31,1,Parkdale,Kings Park 3,No. 2,Hudson Hasset,Angel Zhang,Angel Zhang,4-6,4,6,0,1,Completed,true,false,false
+UA024013,24 Gre 31,1,Parkdale,Kings Park 3,No. 3,Adam Robinson,Caelan Vekas,Adam Robinson,6-2,6,2,1,0,Completed,true,false,false
+UA024013,24 Gre 31,1,Parkdale,Kings Park 3,No. 4,Thomas Albani,[Unnamed player — TROLS UA024013 away code 4],Thomas Albani,6-1,6,1,1,0,Completed,false,false,false
+UA024021,07 Feb 21,2,Kings Park 3,BLTC,No. 1,Maja O'Sullivan,Harry Bennett,Harry Bennett,4-6,4,6,0,1,Completed,true,false,false
+UA024021,07 Feb 21,2,Kings Park 3,BLTC,No. 2,Angel Zhang,Aiden Leonard,Angel Zhang,6-1,6,1,1,0,Completed,true,false,false
+UA024021,07 Feb 21,2,Kings Park 3,BLTC,No. 3,Caelan Vekas,Jenson Witherington,Jenson Witherington,3-6,3,6,0,1,Completed,true,false,false
+UA024021,07 Feb 21,2,Kings Park 3,BLTC,No. 4,Evelyn Pajovic,Joshua Ray,Evelyn Pajovic,6-0,6,0,1,0,Completed,true,false,false
+UA024022,07 Feb 21,2,Mentone,Parkdale,No. 1,Kosta Mavrikos,Darcy Basist,Kosta Mavrikos,6-2,6,2,1,0,Completed,true,false,false
+UA024022,07 Feb 21,2,Mentone,Parkdale,No. 2,Wanda Bacskai,Hudson Hasset,Hudson Hasset,4-6,4,6,0,1,Completed,true,false,false
+UA024022,07 Feb 21,2,Mentone,Parkdale,No. 3,Kabeer Gursahani,Magnus Bernard,Kabeer Gursahani,7-6,7,6,1,0,Completed,true,false,false
+UA024022,07 Feb 21,2,Mentone,Parkdale,No. 4,Neal Gong,Kai Zamora,Kai Zamora,2-6,2,6,0,1,Completed,true,false,true
+UA024023,07 Feb 21,2,Kings Park 1,Kings Park 2,No. 1,Nate Horlsey,Aiden Woolf,Nate Horlsey,6-1,6,1,1,0,Completed,true,false,false
+UA024023,07 Feb 21,2,Kings Park 1,Kings Park 2,No. 2,Lachie Cravion,Luca Lopez,Lachie Cravion,6-3,6,3,1,0,Completed,true,false,true
+UA024023,07 Feb 21,2,Kings Park 1,Kings Park 2,No. 3,Jamie Dodd,Zeyi Xu,Jamie Dodd,6-0,6,0,1,0,Completed,true,false,false
+UA024023,07 Feb 21,2,Kings Park 1,Kings Park 2,No. 4,Logan Xia,Max Foots,Logan Xia,6-1,6,1,1,0,Completed,true,true,false
+UA024041,21 Feb 21,4,Mentone,BLTC,No. 1,Kosta Mavrikos,Harry Bennett,Harry Bennett,4-6,4,6,0,1,Completed,true,false,false
+UA024041,21 Feb 21,4,Mentone,BLTC,No. 2,Kabeer Gursahani,Ava Nimorakiotakis,Kabeer Gursahani,7-5,7,5,1,0,Completed,true,false,false
+UA024041,21 Feb 21,4,Mentone,BLTC,No. 3,Daniel Rutkowski,Jenson Witherington,Daniel Rutkowski,6-0,6,0,1,0,Completed,true,false,false
+UA024041,21 Feb 21,4,Mentone,BLTC,No. 4,Neal Gong,Joshua Ray,Joshua Ray,4-6,4,6,0,1,Completed,true,false,false
+UA024042,21 Feb 21,4,Kings Park 1,Kings Park 3,No. 1,Lachie Cravion,Maja O'Sullivan,Maja O'Sullivan,2-6,2,6,0,1,Completed,true,false,false
+UA024042,21 Feb 21,4,Kings Park 1,Kings Park 3,No. 2,Jamie Dodd,Caelan Vekas,Jamie Dodd,6-3,6,3,1,0,Completed,true,false,false
+UA024042,21 Feb 21,4,Kings Park 1,Kings Park 3,No. 3,Max Foots,Logan Xia,Max Foots,6-4,6,4,1,0,Completed,true,true,false
+UA024042,21 Feb 21,4,Kings Park 1,Kings Park 3,No. 4,Seou Ham,Josh Chan,Josh Chan,1-6,1,6,0,1,Completed,true,true,true
+UA024043,21 Feb 21,4,Kings Park 2,Parkdale,No. 1,Nate Horlsey,Darcy Basist,Nate Horlsey,6-3,6,3,1,0,Completed,true,true,false
+UA024043,21 Feb 21,4,Kings Park 2,Parkdale,No. 2,Angel Zhang,Adam Robinson,Angel Zhang,7-6,7,6,1,0,Completed,true,true,false
+UA024043,21 Feb 21,4,Kings Park 2,Parkdale,No. 3,Luca Lopez,Thomas Albani,Thomas Albani,0-6,0,6,0,1,Completed,true,true,false
+UA024043,21 Feb 21,4,Kings Park 2,Parkdale,No. 4,Evelyn Pajovic,Magnus Bernard,Magnus Bernard,4-6,4,6,0,1,Completed,true,true,false
+UA024051,28 Feb 21,5,BLTC,Parkdale,No. 1,Harry Bennett,Hudson Hasset,Hudson Hasset,4-6,4,6,0,1,Completed,true,false,false
+UA024051,28 Feb 21,5,BLTC,Parkdale,No. 2,Aiden Leonard,Thomas Albani,Thomas Albani,1-6,1,6,0,1,Completed,true,false,false
+UA024051,28 Feb 21,5,BLTC,Parkdale,No. 3,Jenson Witherington,Magnus Bernard,Jenson Witherington,6-3,6,3,1,0,Completed,true,false,false
+UA024051,28 Feb 21,5,BLTC,Parkdale,No. 4,Timothy Gibbins,Duen Roach,Timothy Gibbins,6-2,6,2,1,0,Completed,true,true,true
+UA024052,28 Feb 21,5,Mentone,Kings Park 1,No. 1,Kosta Mavrikos,Nate Horlsey,Kosta Mavrikos,6-1,6,1,1,0,Completed,true,false,false
+UA024052,28 Feb 21,5,Mentone,Kings Park 1,No. 2,Wanda Bacskai,Jamie Dodd,Wanda Bacskai,6-1,6,1,1,0,Completed,true,false,false
+UA024052,28 Feb 21,5,Mentone,Kings Park 1,No. 3,Daniel Rutkowski,Logan Xia,Logan Xia,1-6,1,6,0,1,Completed,true,false,true
+UA024052,28 Feb 21,5,Mentone,Kings Park 1,No. 4,Neal Gong,Evelyn Pajovic,Evelyn Pajovic,0-6,0,6,0,1,Completed,true,false,true
+UA024053,28 Feb 21,5,Kings Park 3,Kings Park 2,No. 1,Maja O'Sullivan,Angel Zhang,Angel Zhang,2-6,2,6,0,1,Completed,true,false,true
+UA024053,28 Feb 21,5,Kings Park 3,Kings Park 2,No. 2,Caelan Vekas,Luca Lopez,Caelan Vekas,6-2,6,2,1,0,Completed,true,false,true
+UA024053,28 Feb 21,5,Kings Park 3,Kings Park 2,No. 3,Max Foots,Zeyi Xu,Max Foots,6-3,6,3,1,0,Completed,true,true,false
+UA024053,28 Feb 21,5,Kings Park 3,Kings Park 2,No. 4,Seou Ham,Kai Usui-crook,Kai Usui-crook,2-6,2,6,0,1,Completed,true,true,false
+UA024061,14 Mar 21,6,Kings Park 1,BLTC,No. 1,Nate Horlsey,Aiden Leonard,Nate Horlsey,6-1,6,1,1,0,Completed,true,false,false
+UA024061,14 Mar 21,6,Kings Park 1,BLTC,No. 2,Lachie Cravion,Jenson Witherington,Lachie Cravion,6-2,6,2,1,0,Completed,true,false,false
+UA024061,14 Mar 21,6,Kings Park 1,BLTC,No. 3,Yoon Lee,Ava Nimorakiotakis,Ava Nimorakiotakis,4-6,4,6,0,1,Completed,true,true,false
+UA024061,14 Mar 21,6,Kings Park 1,BLTC,No. 4,Thien Hoang,Timothy Gibbins,Timothy Gibbins,3-6,3,6,0,1,Completed,true,true,false
+UA024062,14 Mar 21,6,Mentone,Kings Park 2,No. 1,Wanda Bacskai,Jamie Dodd,Wanda Bacskai,6-1,6,1,1,0,Completed,true,false,true
+UA024062,14 Mar 21,6,Mentone,Kings Park 2,No. 2,Kabeer Gursahani,Will Stadelmann,Kabeer Gursahani,6-4,6,4,1,0,Completed,true,false,false
+UA024062,14 Mar 21,6,Mentone,Kings Park 2,No. 3,Daniel Rutkowski,Logan Xia,Logan Xia,1-6,1,6,0,1,Completed,true,false,true
+UA024062,14 Mar 21,6,Mentone,Kings Park 2,No. 4,Neal Gong,[Unnamed player — TROLS UA024062 away code 4],Neal Gong,6-0,6,0,1,0,Completed,false,false,false
+UA024063,14 Mar 21,6,Kings Park 3,Parkdale,No. 1,Angel Zhang,Darcy Basist,Darcy Basist,1-6,1,6,0,1,Completed,true,false,false
+UA024063,14 Mar 21,6,Kings Park 3,Parkdale,No. 2,Maja O'Sullivan,Adam Robinson,Adam Robinson,0-6,0,6,0,1,Completed,true,false,false
+UA024063,14 Mar 21,6,Kings Park 3,Parkdale,No. 3,Caelan Vekas,Magnus Bernard,Caelan Vekas,6-2,6,2,1,0,Completed,true,false,false
+UA024063,14 Mar 21,6,Kings Park 3,Parkdale,No. 4,Evelyn Pajovic,Kai Zamora,Evelyn Pajovic,6-4,6,4,1,0,Completed,true,false,true
+UA024071,21 Mar 21,7,BLTC,Kings Park 3,No. 1,Harry Bennett,Maja O'Sullivan,Harry Bennett,6-2,6,2,1,0,Completed,true,false,false
+UA024071,21 Mar 21,7,BLTC,Kings Park 3,No. 2,Aiden Leonard,Logan Xia,Aiden Leonard,6-4,6,4,1,0,Completed,true,false,false
+UA024071,21 Mar 21,7,BLTC,Kings Park 3,No. 3,Jenson Witherington,Evelyn Pajovic,Evelyn Pajovic,3-6,3,6,0,1,Completed,true,false,false
+UA024071,21 Mar 21,7,BLTC,Kings Park 3,No. 4,Timothy Gibbins,Thien Hoang,Timothy Gibbins,6-3,6,3,1,0,Completed,true,false,true
+UA024072,21 Mar 21,7,Parkdale,Mentone,No. 1,Darcy Basist,Kosta Mavrikos,Kosta Mavrikos,1-6,1,6,0,1,Completed,true,false,false
+UA024072,21 Mar 21,7,Parkdale,Mentone,No. 2,Hudson Hasset,Wanda Bacskai,Wanda Bacskai,1-6,1,6,0,1,Completed,true,false,false
+UA024072,21 Mar 21,7,Parkdale,Mentone,No. 3,Adam Robinson,Kabeer Gursahani,Adam Robinson,6-4,6,4,1,0,Completed,true,false,false
+UA024072,21 Mar 21,7,Parkdale,Mentone,No. 4,Magnus Bernard,Neal Gong,Magnus Bernard,6-4,6,4,1,0,Completed,true,false,false
+UA024073,21 Mar 21,7,Kings Park 2,Kings Park 1,No. 1,Nate Horlsey,Lachie Cravion,Nate Horlsey,6-2,6,2,1,0,Completed,true,true,false
+UA024073,21 Mar 21,7,Kings Park 2,Kings Park 1,No. 2,Will Stadelmann,Jamie Dodd,Will Stadelmann,6-3,6,3,1,0,Completed,true,false,false
+UA024073,21 Mar 21,7,Kings Park 2,Kings Park 1,No. 3,Zeyi Xu,Luca Lopez,Luca Lopez,2-6,2,6,0,1,Completed,true,false,true
+UA024073,21 Mar 21,7,Kings Park 2,Kings Park 1,No. 4,Kai Usui-crook,Josh Chan,Kai Usui-crook,6-2,6,2,1,0,Completed,true,false,true
+UA024081,28 Mar 21,8,Kings Park 2,BLTC,No. 1,Angel Zhang,Harry Bennett,Harry Bennett,6-7,6,7,0,1,Completed,true,true,false
+UA024081,28 Mar 21,8,Kings Park 2,BLTC,No. 2,Jamie Dodd,Aiden Leonard,Jamie Dodd,6-4,6,4,1,0,Completed,true,true,false
+UA024081,28 Mar 21,8,Kings Park 2,BLTC,No. 3,Will Stadelmann,Jenson Witherington,Will Stadelmann,6-2,6,2,1,0,Completed,true,false,false
+UA024081,28 Mar 21,8,Kings Park 2,BLTC,No. 4,Seou Ham,Ava Nimorakiotakis,Ava Nimorakiotakis,0-6,0,6,0,1,Completed,true,false,false
+UA024082,28 Mar 21,8,Kings Park 1,Parkdale,No. 1,Nate Horlsey,Adam Robinson,Adam Robinson,4-6,4,6,0,1,Completed,true,false,false
+UA024082,28 Mar 21,8,Kings Park 1,Parkdale,No. 2,Yoon Lee,Thomas Albani,Thomas Albani,2-6,2,6,0,1,Completed,true,true,false
+UA024082,28 Mar 21,8,Kings Park 1,Parkdale,No. 3,Lachie Cravion,Magnus Bernard,Magnus Bernard,4-6,4,6,0,1,Completed,true,false,false
+UA024082,28 Mar 21,8,Kings Park 1,Parkdale,No. 4,Zeyi Xu,Kai Zamora,Kai Zamora,2-6,2,6,0,1,Completed,true,true,true
+UA024083,28 Mar 21,8,Mentone,Kings Park 3,No. 1,Kosta Mavrikos,Logan Xia,Kosta Mavrikos,6-0,6,0,1,0,Completed,true,false,false
+UA024083,28 Mar 21,8,Mentone,Kings Park 3,No. 2,Wanda Bacskai,Evelyn Pajovic,Wanda Bacskai,6-1,6,1,1,0,Completed,true,false,false
+UA024083,28 Mar 21,8,Mentone,Kings Park 3,No. 3,Daniel Rutkowski,Caelan Vekas,Caelan Vekas,1-6,1,6,0,1,Completed,true,false,false
+UA024083,28 Mar 21,8,Mentone,Kings Park 3,No. 4,Neal Gong,Maja O'Sullivan,Maja O'Sullivan,0-6,0,6,0,1,Completed,true,false,false
+UA024091,02 May 21,9,BLTC,Mentone,No. 1,Harry Bennett,Kosta Mavrikos,Kosta Mavrikos,0-6,0,6,0,1,Completed,true,false,false
+UA024091,02 May 21,9,BLTC,Mentone,No. 2,Jenson Witherington,Wanda Bacskai,Wanda Bacskai,1-6,1,6,0,1,Completed,true,false,false
+UA024091,02 May 21,9,BLTC,Mentone,No. 3,Ava Nimorakiotakis,Kabeer Gursahani,Kabeer Gursahani,2-6,2,6,0,1,Completed,true,false,false
+UA024091,02 May 21,9,BLTC,Mentone,No. 4,Mali Nayna,Neal Gong,Mali Nayna,6-0,6,0,1,0,Completed,true,true,false
+UA024092,02 May 21,9,Kings Park 3,Kings Park 1,No. 1,Lachie Cravion,Angel Zhang,Angel Zhang,0-6,0,6,0,1,Completed,true,true,true
+UA024092,02 May 21,9,Kings Park 3,Kings Park 1,No. 2,Justin Xia,Caelan Vekas,Justin Xia,6-1,6,1,1,0,Completed,true,true,true
+UA024092,02 May 21,9,Kings Park 3,Kings Park 1,No. 3,Kai Usai-crook,Zeyi Xu,Zeyi Xu,2-6,2,6,0,1,Completed,true,true,true
+UA024092,02 May 21,9,Kings Park 3,Kings Park 1,No. 4,Thien Hoang,Seou Ham,Thien Hoang,6-3,6,3,1,0,Completed,true,true,true
+UA024093,02 May 21,9,Parkdale,Kings Park 2,No. 1,Darcy Basist,Seou Ham,Darcy Basist,6-4,6,4,1,0,Completed,true,false,false
+UA024093,02 May 21,9,Parkdale,Kings Park 2,No. 2,Adam Robinson,Evelyn Pajovic,Adam Robinson,6-1,6,1,1,0,Completed,true,false,true
+UA024093,02 May 21,9,Parkdale,Kings Park 2,No. 3,Thomas Albani,Aiden Woolf,Thomas Albani,6-4,6,4,1,0,Completed,true,false,false
+UA024093,02 May 21,9,Parkdale,Kings Park 2,No. 4,Kai Zamora,Logan Xia,Logan Xia,4-6,4,6,0,1,Completed,true,true,true
+UA024101,09 May 21,10,Parkdale,BLTC,No. 1,Hudson Hasset,Harry Bennett,Harry Bennett,6-7,6,7,0,1,Completed,true,false,false
+UA024101,09 May 21,10,Parkdale,BLTC,No. 2,Adam Robinson,Jenson Witherington,Adam Robinson,6-1,6,1,1,0,Completed,true,false,false
+UA024101,09 May 21,10,Parkdale,BLTC,No. 3,Thomas Albani,Timothy Gibbins,Thomas Albani,6-1,6,1,1,0,Completed,true,false,false
+UA024101,09 May 21,10,Parkdale,BLTC,No. 4,Magnus Bernard,Mali Nayna,Mali Nayna,1-6,1,6,0,1,Completed,true,false,true
+UA024102,09 May 21,10,Kings Park 1,Mentone,No. 1,Yoon Lee,Kosta Mavrikos,Kosta Mavrikos,3-6,3,6,0,1,Completed,true,true,false
+UA024102,09 May 21,10,Kings Park 1,Mentone,No. 2,Justin Xia,Kabeer Gursahani,Justin Xia,6-4,6,4,1,0,Completed,true,true,false
+UA024102,09 May 21,10,Kings Park 1,Mentone,No. 3,Angel Zhang,Daniel Rutkowski,Angel Zhang,6-0,6,0,1,0,Completed,true,true,false
+UA024102,09 May 21,10,Kings Park 1,Mentone,No. 4,Thien Hoang,Milana Wickramage,Thien Hoang,7-6,7,6,1,0,Completed,true,true,true
+UA024103,09 May 21,10,Kings Park 2,Kings Park 3,No. 1,Lachie Cravion,Maja O'Sullivan,Lachie Cravion,6-4,6,4,1,0,Completed,true,true,false
+UA024103,09 May 21,10,Kings Park 2,Kings Park 3,No. 2,Zeyi Xu,Evelyn Pajovic,Evelyn Pajovic,2-6,2,6,0,1,Completed,true,false,false
+UA024103,09 May 21,10,Kings Park 2,Kings Park 3,No. 3,Kai Usui-crook,Jamie Dodd,Jamie Dodd,0-6,0,6,0,1,Completed,true,false,true
+UA024103,09 May 21,10,Kings Park 2,Kings Park 3,No. 4,Logan Xia,Seou Ham,Logan Xia,6-0,6,0,1,0,Completed,true,true,true
+UA024112,16 May 21,11,Kings Park 2,Mentone,No. 1,Lachie Cravion,Wanda Bacskai,Wanda Bacskai,1-6,1,6,0,1,Completed,true,true,false
+UA024112,16 May 21,11,Kings Park 2,Mentone,No. 2,Kai Usui-crook,Kabeer Gursahani,Kabeer Gursahani,0-6,0,6,0,1,Completed,true,false,false
+UA024112,16 May 21,11,Kings Park 2,Mentone,No. 3,Michael Gan,Daniel Rutkowski,Michael Gan,6-1,6,1,1,0,Completed,true,true,false
+UA024112,16 May 21,11,Kings Park 2,Mentone,No. 4,Logan Xia,Neal Gong,Logan Xia,6-0,6,0,1,0,Completed,true,true,false
+UA024113,16 May 21,11,Parkdale,Kings Park 3,No. 1,Darcy Basist,Justin Xia,Darcy Basist,7-6,7,6,1,0,Completed,true,false,true
+UA024113,16 May 21,11,Parkdale,Kings Park 3,No. 2,Adam Robinson,Evelyn Pajovic,Adam Robinson,6-1,6,1,1,0,Completed,true,false,false
+UA024113,16 May 21,11,Parkdale,Kings Park 3,No. 3,Thomas Albani,Caelan Vekas,Thomas Albani,6-1,6,1,1,0,Completed,true,false,false
+UA024113,16 May 21,11,Parkdale,Kings Park 3,No. 4,Kai Zamora,Logan Xia,Kai Zamora,6-3,6,3,1,0,Completed,true,true,false
+UA024121,23 May 21,12,Kings Park 3,BLTC,No. 1,Logan Xia,Aiden Leonard,Logan Xia,6-1,6,1,1,0,Completed,true,false,false
+UA024121,23 May 21,12,Kings Park 3,BLTC,No. 2,Maja O'Sullivan,Jenson Witherington,Maja O'Sullivan,6-3,6,3,1,0,Completed,true,false,false
+UA024121,23 May 21,12,Kings Park 3,BLTC,No. 3,Evelyn Pajovic,Timothy Gibbins,Evelyn Pajovic,6-4,6,4,1,0,Completed,true,false,false
+UA024121,23 May 21,12,Kings Park 3,BLTC,No. 4,Yoon Lee,Ava Nimorakiotakis,Yoon Lee,6-2,6,2,1,0,Completed,true,true,false
+UA024122,23 May 21,12,Mentone,Parkdale,No. 1,Kosta Mavrikos,Darcy Basist,Kosta Mavrikos,6-3,6,3,1,0,Completed,true,false,false
+UA024122,23 May 21,12,Mentone,Parkdale,No. 2,Wanda Bacskai,Adam Robinson,Wanda Bacskai,6-4,6,4,1,0,Completed,true,false,false
+UA024122,23 May 21,12,Mentone,Parkdale,No. 3,Kabeer Gursahani,Thomas Albani,Kabeer Gursahani,6-2,6,2,1,0,Completed,true,false,false
+UA024122,23 May 21,12,Mentone,Parkdale,No. 4,Daniel Rutkowski,Magnus Bernard,Magnus Bernard,3-6,3,6,0,1,Completed,true,false,false
+UA024123,23 May 21,12,Kings Park 1,Kings Park 2,No. 1,Caelan Vekas,Michael Gan,Caelan Vekas,6-2,6,2,1,0,Completed,true,true,true
+UA024123,23 May 21,12,Kings Park 1,Kings Park 2,No. 2,Jamie Dodd,Logan Xia,Jamie Dodd,7-6,7,6,1,0,Completed,true,false,true
+UA024123,23 May 21,12,Kings Park 1,Kings Park 2,No. 3,Kai Usui-crook,Zeyi Xu,Zeyi Xu,6-7,6,7,0,1,Completed,true,true,false
+UA024123,23 May 21,12,Kings Park 1,Kings Park 2,No. 4,Luca Lopez,Thien Hoang,Luca Lopez,6-1,6,1,1,0,Completed,true,true,true
+UA024321,,16,Parkdale,Mentone,No. 1,Darcy Basist,Wanda Bacskai,Wanda Bacskai,3-6,3,6,0,1,Completed,true,false,false
+UA024321,,16,Parkdale,Mentone,No. 2,Hudson Hasset,Kabeer Gursahani,Kabeer Gursahani,3-6,3,6,0,1,Completed,true,false,false
+UA024321,,16,Parkdale,Mentone,No. 3,Adam Robinson,Daniel Rutkowski,Adam Robinson,6-0,6,0,1,0,Completed,true,false,false
+UA024321,,16,Parkdale,Mentone,No. 4,Thomas Albani,Neal Gong,Thomas Albani,6-0,6,0,1,0,Completed,true,false,false

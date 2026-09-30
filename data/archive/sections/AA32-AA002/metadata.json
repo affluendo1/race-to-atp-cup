@@ -1,0 +1,77 @@
+{
+  "asset_id": "AA32-AA002",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Autumn 2014",
+  "season_id": "AA32",
+  "season_label": "Autumn 2014",
+  "source_section_code": "AA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite 1",
+      "wins": 12,
+      "points": 114.5,
+      "percentage": 152.87,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Kooyong MLC 1",
+      "wins": 10,
+      "points": 105,
+      "percentage": 133.0,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Carmelite 2",
+      "wins": 8,
+      "points": 96,
+      "percentage": 143.75,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong MLC 2",
+      "wins": 3,
+      "points": 54,
+      "percentage": 84.25,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Carmelite 3",
+      "wins": 2,
+      "points": 37,
+      "percentage": 61.58,
+      "marker": "*"
+    },
+    {
+      "position": 6,
+      "team": "Port Melbourne",
+      "wins": 2,
+      "points": 33.5,
+      "percentage": 61.6,
+      "marker": "*"
+    }
+  ],
+  "section_code": "AA32-AA002",
+  "fixtures": 46,
+  "completed_fixtures": 41,
+  "draw_fixtures": 43,
+  "singles_rubbers": 160,
+  "doubles_rubbers": 80,
+  "latest_round": 16,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for AA002131"
+  ]
+}

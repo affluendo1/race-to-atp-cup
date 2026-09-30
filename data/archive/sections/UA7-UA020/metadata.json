@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA7-UA020",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2010",
+  "season_id": "UA7",
+  "season_label": "Spring 2010",
+  "source_section_code": "UA020",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC 1",
+      "wins": 0,
+      "points": 114,
+      "percentage": 177.92,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 99,
+      "percentage": 154.58,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kooyong",
+      "wins": 0,
+      "points": 74,
+      "percentage": 104.65,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Maccabi",
+      "wins": 0,
+      "points": 71,
+      "percentage": 100.63,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Mordialloc",
+      "wins": 0,
+      "points": 64,
+      "percentage": 90.24,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC 2",
+      "wins": 0,
+      "points": 60,
+      "percentage": 83.74,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 0,
+      "points": 48,
+      "percentage": 75.67,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Glen Eira Beech",
+      "wins": 0,
+      "points": 30,
+      "percentage": 62.88,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA7-UA020",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 45,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

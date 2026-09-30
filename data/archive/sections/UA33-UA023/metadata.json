@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA33-UA023",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2023",
+  "season_id": "UA33",
+  "season_label": "Spring 2023",
+  "source_section_code": "UA023",
+  "section_label": "Section 23 Green",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park White",
+      "wins": 10,
+      "points": 101,
+      "percentage": 175.66,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Kings Park Blue",
+      "wins": 9,
+      "points": 93,
+      "percentage": 152.27,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Tennis World",
+      "wins": 9,
+      "points": 91,
+      "percentage": 131.19,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Mentone",
+      "wins": 10,
+      "points": 90,
+      "percentage": 130.72,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kings Park Red",
+      "wins": 7,
+      "points": 84,
+      "percentage": 130.91,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC Blue",
+      "wins": 5,
+      "points": 59,
+      "percentage": 77.17,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St Pats Mentone",
+      "wins": 1,
+      "points": 26,
+      "percentage": 50.93,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Patterson Lakes",
+      "wins": 0,
+      "points": 16,
+      "percentage": 31.54,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA33-UA023",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 45,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

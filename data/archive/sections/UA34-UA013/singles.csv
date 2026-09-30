@@ -1,0 +1,237 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA013011,04 Feb 24,1,Dendy Park,Royal Ave,No. 1,Tobias Maddams,Charlie Vakrinos,Charlie Vakrinos,0-6,0,6,0,1,Completed,true,false,false
+UA013011,04 Feb 24,1,Dendy Park,Royal Ave,No. 2,Jake Bloom,Sonny Baker,Sonny Baker,1-6,1,6,0,1,Completed,true,false,false
+UA013011,04 Feb 24,1,Dendy Park,Royal Ave,No. 3,Jack Loffel,Kosta Vakrinos,Kosta Vakrinos,3-6,3,6,0,1,Completed,true,false,false
+UA013011,04 Feb 24,1,Dendy Park,Royal Ave,No. 4,Charlie Schultz,Sebastian Snell,Charlie Schultz,6-3,6,3,1,0,Completed,true,false,false
+UA013012,04 Feb 24,1,Hurlingham Park Red,Hurlingham Park Blue,No. 1,Nathan Tang,Callum Angell,Nathan Tang,6-3,6,3,1,0,Completed,true,false,false
+UA013012,04 Feb 24,1,Hurlingham Park Red,Hurlingham Park Blue,No. 2,Anastasia Turner,Freddie Williams,Anastasia Turner,6-3,6,3,1,0,Completed,true,false,false
+UA013012,04 Feb 24,1,Hurlingham Park Red,Hurlingham Park Blue,No. 3,Isabelle Schiavello,Angus O'Neil,Isabelle Schiavello,7-5,7,5,1,0,Completed,true,false,false
+UA013012,04 Feb 24,1,Hurlingham Park Red,Hurlingham Park Blue,No. 4,Eva Moralis,Eden Morehu,Eva Moralis,6-3,6,3,1,0,Completed,true,false,false
+UA013013,04 Feb 24,1,BLTC Blue,Murrumbeena,No. 1,Rentaro Otsuka,Noah Panjkovic,Rentaro Otsuka,6-4,6,4,1,0,Completed,true,false,false
+UA013013,04 Feb 24,1,BLTC Blue,Murrumbeena,No. 2,Timothy Gibbins,Lachlan Lyell,Lachlan Lyell,4-6,4,6,0,1,Completed,true,false,false
+UA013013,04 Feb 24,1,BLTC Blue,Murrumbeena,No. 3,Jenson Witherington,Kyle Yamada,Kyle Yamada,3-6,3,6,0,1,Completed,true,false,false
+UA013013,04 Feb 24,1,BLTC Blue,Murrumbeena,No. 4,Aiden Leonard,Sanjay Bandla,Sanjay Bandla,2-6,2,6,0,1,Completed,true,false,false
+UA013014,04 Feb 24,1,Kooyong,Lauriston,No. 1,Stephanie Forsyth,Arjun Nair,Arjun Nair,1-6,1,6,0,1,Completed,true,false,false
+UA013014,04 Feb 24,1,Kooyong,Lauriston,No. 2,Stephan Merigoux,Dhevesh Jayam,Dhevesh Jayam,4-6,4,6,0,1,Completed,true,false,false
+UA013014,04 Feb 24,1,Kooyong,Lauriston,No. 3,Carrick Wu,Olivia Kharkam,Carrick Wu,6-4,6,4,1,0,Completed,true,false,false
+UA013014,04 Feb 24,1,Kooyong,Lauriston,No. 4,Henry Moore,Hana Lowe,Henry Moore,6-1,6,1,1,0,Completed,true,false,false
+UA013021,11 Feb 24,2,Lauriston,Dendy Park,No. 1,Arjun Nair,Tobias Maddams,Arjun Nair,6-2,6,2,1,0,Completed,true,false,false
+UA013021,11 Feb 24,2,Lauriston,Dendy Park,No. 2,Dhevesh Jayam,Jake Bloom,Jake Bloom,4-6,4,6,0,1,Completed,true,false,false
+UA013021,11 Feb 24,2,Lauriston,Dendy Park,No. 3,Olivia Kharkam,Charlie Schultz,Charlie Schultz,2-6,2,6,0,1,Completed,true,false,false
+UA013021,11 Feb 24,2,Lauriston,Dendy Park,No. 4,Hana Lowe,Roby Capomolla,Hana Lowe,6-3,6,3,1,0,Completed,true,false,false
+UA013022,11 Feb 24,2,Royal Ave,Hurlingham Park Red,No. 1,Charlie Vakrinos,Nathan Tang,Charlie Vakrinos,6-1,6,1,1,0,Completed,true,false,false
+UA013022,11 Feb 24,2,Royal Ave,Hurlingham Park Red,No. 2,Kosta Vakrinos,Anastasia Turner,Anastasia Turner,4-6,4,6,0,1,Completed,true,false,false
+UA013022,11 Feb 24,2,Royal Ave,Hurlingham Park Red,No. 3,Johnny Chew,Isabelle Schiavello,Isabelle Schiavello,1-6,1,6,0,1,Completed,true,false,false
+UA013022,11 Feb 24,2,Royal Ave,Hurlingham Park Red,No. 4,Dylan Keyvanloo,Eva Moralis,Dylan Keyvanloo,6-2,6,2,1,0,Completed,true,false,false
+UA013023,11 Feb 24,2,Hurlingham Park Blue,BLTC Blue,No. 1,Benjamin Krodkiewski,Rentaro Otsuka,Benjamin Krodkiewski,6-2,6,2,1,0,Completed,true,false,false
+UA013023,11 Feb 24,2,Hurlingham Park Blue,BLTC Blue,No. 2,Ashok Philip,Jenson Witherington,Jenson Witherington,1-6,1,6,0,1,Completed,true,false,false
+UA013023,11 Feb 24,2,Hurlingham Park Blue,BLTC Blue,No. 3,Freddie Williams,Aiden Leonard,Freddie Williams,6-4,6,4,1,0,Completed,true,false,false
+UA013023,11 Feb 24,2,Hurlingham Park Blue,BLTC Blue,No. 4,Eden Morehu,Finn Haines,Finn Haines,3-6,3,6,0,1,Completed,true,false,true
+UA013024,11 Feb 24,2,Murrumbeena,Kooyong,No. 1,Max Tanner,Stephanie Forsyth,Stephanie Forsyth,5-7,5,7,0,1,Completed,true,false,false
+UA013024,11 Feb 24,2,Murrumbeena,Kooyong,No. 2,Lachlan Lyell,Carrick Wu,Carrick Wu,0-6,0,6,0,1,Completed,true,false,false
+UA013024,11 Feb 24,2,Murrumbeena,Kooyong,No. 3,Alex Brown,Kai Corfield,Alex Brown,7-6,7,6,1,0,Completed,true,false,false
+UA013024,11 Feb 24,2,Murrumbeena,Kooyong,No. 4,Sarthak Choubey,Harper Barons,Harper Barons,1-6,1,6,0,1,Completed,true,false,false
+UA013031,18 Feb 24,3,Dendy Park,Murrumbeena,No. 1,Jake Bloom,Noah Panjkovic,Noah Panjkovic,3-6,3,6,0,1,Completed,true,false,false
+UA013031,18 Feb 24,3,Dendy Park,Murrumbeena,No. 2,Charlie Schultz,Alex Brown,Charlie Schultz,6-1,6,1,1,0,Completed,true,false,false
+UA013031,18 Feb 24,3,Dendy Park,Murrumbeena,No. 3,Jack Loffel,Kyle Yamada,Kyle Yamada,0-6,0,6,0,1,Completed,true,false,false
+UA013031,18 Feb 24,3,Dendy Park,Murrumbeena,No. 4,Roby Capomolla,Sarthak Choubey,Roby Capomolla,6-0,6,0,1,0,Completed,true,false,false
+UA013032,18 Feb 24,3,Hurlingham Park Red,Lauriston,No. 1,Nathan Tang,Arjun Nair,Arjun Nair,5-7,5,7,0,1,Completed,true,false,false
+UA013032,18 Feb 24,3,Hurlingham Park Red,Lauriston,No. 2,Isabelle Schiavello,Dhevesh Jayam,Dhevesh Jayam,4-6,4,6,0,1,Completed,true,false,false
+UA013032,18 Feb 24,3,Hurlingham Park Red,Lauriston,No. 3,Eva Moralis,Olivia Kharkam,Eva Moralis,6-4,6,4,1,0,Completed,true,false,false
+UA013032,18 Feb 24,3,Hurlingham Park Red,Lauriston,No. 4,Lewis Thorp,Hana Lowe,Lewis Thorp,6-4,6,4,1,0,Completed,true,false,false
+UA013033,18 Feb 24,3,BLTC Blue,Royal Ave,No. 1,Rentaro Otsuka,Sonny Baker,Sonny Baker,4-6,4,6,0,1,Completed,true,false,false
+UA013033,18 Feb 24,3,BLTC Blue,Royal Ave,No. 2,Timothy Gibbins,Sebastian Snell,Timothy Gibbins,6-4,6,4,1,0,Completed,true,false,false
+UA013033,18 Feb 24,3,BLTC Blue,Royal Ave,No. 3,Jenson Witherington,Johnny Chew,Jenson Witherington,6-1,6,1,1,0,Completed,true,false,false
+UA013033,18 Feb 24,3,BLTC Blue,Royal Ave,No. 4,Finn Haines,Dylan Keyvanloo,Finn Haines,6-1,6,1,1,0,Completed,true,true,false
+UA013034,18 Feb 24,3,Kooyong,Hurlingham Park Blue,No. 1,Stephan Merigoux,Benjamin Krodkiewski,Benjamin Krodkiewski,0-6,0,6,0,1,Completed,true,false,false
+UA013034,18 Feb 24,3,Kooyong,Hurlingham Park Blue,No. 2,Kai Corfield,Callum Angell,Callum Angell,3-6,3,6,0,1,Completed,true,false,false
+UA013034,18 Feb 24,3,Kooyong,Hurlingham Park Blue,No. 3,Lucy McCormack,Ashok Philip,Ashok Philip,4-6,4,6,0,1,Completed,true,false,false
+UA013034,18 Feb 24,3,Kooyong,Hurlingham Park Blue,No. 4,Harper Barons,Angus O'Neil,Harper Barons,6-2,6,2,1,0,Completed,true,false,false
+UA013041,25 Feb 24,4,Hurlingham Park Blue,Dendy Park,No. 1,Benjamin Krodkiewski,Charlie Schultz,Benjamin Krodkiewski,6-4,6,4,1,0,Completed,true,false,false
+UA013041,25 Feb 24,4,Hurlingham Park Blue,Dendy Park,No. 2,Callum Angell,Jake Bloom,Callum Angell,6-3,6,3,1,0,Completed,true,false,false
+UA013041,25 Feb 24,4,Hurlingham Park Blue,Dendy Park,No. 3,Freddie Williams,Jack Loffel,Freddie Williams,6-2,6,2,1,0,Completed,true,false,false
+UA013041,25 Feb 24,4,Hurlingham Park Blue,Dendy Park,No. 4,Eden Morehu,Roby Capomolla,Roby Capomolla,5-7,5,7,0,1,Completed,true,false,false
+UA013042,25 Feb 24,4,Murrumbeena,Hurlingham Park Red,No. 1,Lachlan Lyell,Nathan Tang,Nathan Tang,1-6,1,6,0,1,Completed,true,false,false
+UA013042,25 Feb 24,4,Murrumbeena,Hurlingham Park Red,No. 2,Kyle Yamada,Anastasia Turner,Kyle Yamada,6-1,6,1,1,0,Completed,true,false,false
+UA013042,25 Feb 24,4,Murrumbeena,Hurlingham Park Red,No. 3,Sanjay Bandla,Isabelle Schiavello,Sanjay Bandla,6-1,6,1,1,0,Completed,true,false,false
+UA013042,25 Feb 24,4,Murrumbeena,Hurlingham Park Red,No. 4,Chloe Bow,Eva Moralis,Chloe Bow,6-3,6,3,1,0,Completed,true,true,false
+UA013043,25 Feb 24,4,Lauriston,BLTC Blue,No. 1,Arjun Nair,Timothy Gibbins,Arjun Nair,6-1,6,1,1,0,Completed,true,false,false
+UA013043,25 Feb 24,4,Lauriston,BLTC Blue,No. 2,Dhevesh Jayam,Jenson Witherington,Dhevesh Jayam,6-4,6,4,1,0,Completed,true,false,false
+UA013043,25 Feb 24,4,Lauriston,BLTC Blue,No. 3,Olivia Kharkam,Aiden Leonard,Olivia Kharkam,6-1,6,1,1,0,Completed,true,false,false
+UA013043,25 Feb 24,4,Lauriston,BLTC Blue,No. 4,Hana Lowe,Finn Haines,Finn Haines,2-6,2,6,0,1,Completed,true,false,true
+UA013044,25 Feb 24,4,Royal Ave,Kooyong,No. 1,Charlie Vakrinos,Stephan Merigoux,Charlie Vakrinos,6-0,6,0,1,0,Completed,true,false,false
+UA013044,25 Feb 24,4,Royal Ave,Kooyong,No. 2,Sonny Baker,Carrick Wu,Sonny Baker,7-5,7,5,1,0,Completed,true,false,false
+UA013044,25 Feb 24,4,Royal Ave,Kooyong,No. 3,Kosta Vakrinos,Henry Moore,Kosta Vakrinos,6-1,6,1,1,0,Completed,true,false,false
+UA013044,25 Feb 24,4,Royal Ave,Kooyong,No. 4,Sebastian Snell,Lucy McCormack,Lucy McCormack,6-7,6,7,0,1,Completed,true,false,false
+UA013051,03 Mar 24,5,BLTC Blue,Kooyong,No. 1,Rentaro Otsuka,Stephanie Forsyth,Stephanie Forsyth,4-6,4,6,0,1,Completed,true,false,false
+UA013051,03 Mar 24,5,BLTC Blue,Kooyong,No. 2,Jenson Witherington,Carrick Wu,Carrick Wu,1-6,1,6,0,1,Completed,true,false,false
+UA013051,03 Mar 24,5,BLTC Blue,Kooyong,No. 3,Cooper Wightman,Lucy McCormack,Cooper Wightman,6-0,6,0,1,0,Completed,true,true,false
+UA013051,03 Mar 24,5,BLTC Blue,Kooyong,No. 4,Aiden Leonard,Harper Barons,Aiden Leonard,6-4,6,4,1,0,Completed,true,false,false
+UA013052,03 Mar 24,5,Lauriston,Murrumbeena,No. 1,Arjun Nair,Max Tanner,Arjun Nair,6-1,6,1,1,0,Completed,true,false,false
+UA013052,03 Mar 24,5,Lauriston,Murrumbeena,No. 2,Nickunj Savniya,Noah Panjkovic,Nickunj Savniya,6-0,6,0,1,0,Completed,true,true,false
+UA013052,03 Mar 24,5,Lauriston,Murrumbeena,No. 3,Dhevesh Jayam,Sarthak Choubey,Dhevesh Jayam,6-3,6,3,1,0,Completed,true,false,false
+UA013052,03 Mar 24,5,Lauriston,Murrumbeena,No. 4,Olivia Kharkam,Sanjay Bandla,Sanjay Bandla,5-7,5,7,0,1,Completed,true,false,false
+UA013053,03 Mar 24,5,Hurlingham Park Blue,Royal Ave,No. 1,Callum Angell,Charlie Vakrinos,Charlie Vakrinos,2-6,2,6,0,1,Completed,true,false,false
+UA013053,03 Mar 24,5,Hurlingham Park Blue,Royal Ave,No. 2,Ashok Philip,Kosta Vakrinos,Kosta Vakrinos,4-6,4,6,0,1,Completed,true,false,false
+UA013053,03 Mar 24,5,Hurlingham Park Blue,Royal Ave,No. 3,Freddie Williams,Johnny Chew,Freddie Williams,6-4,6,4,1,0,Completed,true,false,false
+UA013053,03 Mar 24,5,Hurlingham Park Blue,Royal Ave,No. 4,Angus O'Neil,Dylan Keyvanloo,Dylan Keyvanloo,1-6,1,6,0,1,Completed,true,false,false
+UA013054,03 Mar 24,5,Dendy Park,Hurlingham Park Red,No. 1,Charlie Schultz,Nathan Tang,Nathan Tang,6-7,6,7,0,1,Completed,true,false,false
+UA013054,03 Mar 24,5,Dendy Park,Hurlingham Park Red,No. 2,Tobias Maddams,Anastasia Turner,Tobias Maddams,7-6,7,6,1,0,Completed,true,false,false
+UA013054,03 Mar 24,5,Dendy Park,Hurlingham Park Red,No. 3,Jack Loffel,Isabelle Schiavello,Isabelle Schiavello,6-7,6,7,0,1,Completed,true,false,false
+UA013054,03 Mar 24,5,Dendy Park,Hurlingham Park Red,No. 4,Roby Capomolla,Lewis Thorp,Roby Capomolla,6-1,6,1,1,0,Completed,true,false,false
+UA013061,17 Mar 24,6,Hurlingham Park Red,BLTC Blue,No. 1,Nathan Tang,Rentaro Otsuka,Rentaro Otsuka,3-6,3,6,0,1,Completed,true,false,false
+UA013061,17 Mar 24,6,Hurlingham Park Red,BLTC Blue,No. 2,Anastasia Turner,Timothy Gibbins,Timothy Gibbins,2-6,2,6,0,1,Completed,true,false,false
+UA013061,17 Mar 24,6,Hurlingham Park Red,BLTC Blue,No. 3,Isabelle Schiavello,Jenson Witherington,Jenson Witherington,2-6,2,6,0,1,Completed,true,false,false
+UA013061,17 Mar 24,6,Hurlingham Park Red,BLTC Blue,No. 4,Eva Moralis,Finn Haines,Finn Haines,1-6,1,6,0,1,Completed,true,false,true
+UA013062,17 Mar 24,6,Kooyong,Dendy Park,No. 1,Stephanie Forsyth,Charlie Schultz,Charlie Schultz,4-6,4,6,0,1,Completed,true,false,false
+UA013062,17 Mar 24,6,Kooyong,Dendy Park,No. 2,Henry Moore,Tobias Maddams,Henry Moore,7-6,7,6,1,0,Completed,true,false,false
+UA013062,17 Mar 24,6,Kooyong,Dendy Park,No. 3,Kai Corfield,Jake Bloom,Kai Corfield,6-1,6,1,1,0,Completed,true,false,false
+UA013062,17 Mar 24,6,Kooyong,Dendy Park,No. 4,Lucy McCormack,Jack Loffel,Lucy McCormack,7-6,7,6,1,0,Completed,true,false,false
+UA013063,17 Mar 24,6,Murrumbeena,Hurlingham Park Blue,No. 1,Max Tanner,Benjamin Krodkiewski,Benjamin Krodkiewski,2-6,2,6,0,1,Completed,true,false,false
+UA013063,17 Mar 24,6,Murrumbeena,Hurlingham Park Blue,No. 2,Noah Panjkovic,Ashok Philip,Ashok Philip,2-6,2,6,0,1,Completed,true,false,false
+UA013063,17 Mar 24,6,Murrumbeena,Hurlingham Park Blue,No. 3,Alex Brown,Angus O'Neil,Angus O'Neil,2-6,2,6,0,1,Completed,true,false,false
+UA013063,17 Mar 24,6,Murrumbeena,Hurlingham Park Blue,No. 4,Kyle Yamada,Eden Morehu,Kyle Yamada,6-1,6,1,1,0,Completed,true,false,false
+UA013064,17 Mar 24,6,Royal Ave,Lauriston,No. 1,Charlie Vakrinos,Arjun Nair,Charlie Vakrinos,6-2,6,2,1,0,Completed,true,false,false
+UA013064,17 Mar 24,6,Royal Ave,Lauriston,No. 2,Kosta Vakrinos,Dhevesh Jayam,Kosta Vakrinos,7-5,7,5,1,0,Completed,true,false,false
+UA013064,17 Mar 24,6,Royal Ave,Lauriston,No. 3,Sebastian Snell,Olivia Kharkam,Sebastian Snell,6-2,6,2,1,0,Completed,true,false,false
+UA013064,17 Mar 24,6,Royal Ave,Lauriston,No. 4,Johnny Chew,Hana Lowe,Johnny Chew,6-2,6,2,1,0,Completed,true,false,false
+UA013071,24 Mar 24,7,Dendy Park,BLTC Blue,No. 1,Charlie Schultz,Timothy Gibbins,Charlie Schultz,6-4,6,4,1,0,Completed,true,false,false
+UA013071,24 Mar 24,7,Dendy Park,BLTC Blue,No. 2,Tobias Maddams,Jenson Witherington,Tobias Maddams,6-0,6,0,1,0,Completed,true,false,false
+UA013071,24 Mar 24,7,Dendy Park,BLTC Blue,No. 3,Jake Bloom,Aiden Leonard,Aiden Leonard,6-7,6,7,0,1,Completed,true,false,false
+UA013071,24 Mar 24,7,Dendy Park,BLTC Blue,No. 4,Roby Capomolla,Finn Haines,Finn Haines,0-6,0,6,0,1,Completed,true,false,true
+UA013072,24 Mar 24,7,Hurlingham Park Red,Kooyong,No. 1,Anastasia Turner,Carrick Wu,Carrick Wu,0-6,0,6,0,1,Completed,true,false,false
+UA013072,24 Mar 24,7,Hurlingham Park Red,Kooyong,No. 2,Isabelle Schiavello,Henry Moore,Henry Moore,4-6,4,6,0,1,Completed,true,false,false
+UA013072,24 Mar 24,7,Hurlingham Park Red,Kooyong,No. 3,Eva Moralis,Kai Corfield,Kai Corfield,2-6,2,6,0,1,Completed,true,false,false
+UA013072,24 Mar 24,7,Hurlingham Park Red,Kooyong,No. 4,Lewis Thorp,Lucy McCormack,Lewis Thorp,6-3,6,3,1,0,Completed,true,false,false
+UA013073,24 Mar 24,7,Lauriston,Hurlingham Park Blue,No. 1,Arjun Nair,Benjamin Krodkiewski,Arjun Nair,6-3,6,3,1,0,Completed,true,false,false
+UA013073,24 Mar 24,7,Lauriston,Hurlingham Park Blue,No. 2,Dhevesh Jayam,Callum Angell,Dhevesh Jayam,6-2,6,2,1,0,Completed,true,false,false
+UA013073,24 Mar 24,7,Lauriston,Hurlingham Park Blue,No. 3,Olivia Kharkam,Ashok Philip,Ashok Philip,5-7,5,7,0,1,Completed,true,false,false
+UA013073,24 Mar 24,7,Lauriston,Hurlingham Park Blue,No. 4,Hana Lowe,Angus O'Neil,Angus O'Neil,3-6,3,6,0,1,Completed,true,false,false
+UA013074,24 Mar 24,7,Murrumbeena,Royal Ave,No. 1,Lachlan Lyell,Sonny Baker,Sonny Baker,3-6,3,6,0,1,Completed,true,false,false
+UA013074,24 Mar 24,7,Murrumbeena,Royal Ave,No. 2,Alex Brown,Kosta Vakrinos,Kosta Vakrinos,3-6,3,6,0,1,Completed,true,false,false
+UA013074,24 Mar 24,7,Murrumbeena,Royal Ave,No. 3,Kyle Yamada,Sebastian Snell,Kyle Yamada,6-1,6,1,1,0,Completed,true,false,false
+UA013074,24 Mar 24,7,Murrumbeena,Royal Ave,No. 4,Sanjay Bandla,Dylan Keyvanloo,Sanjay Bandla,6-3,6,3,1,0,Completed,true,false,false
+UA013081,21 Apr 24,8,Royal Ave,Dendy Park,No. 1,Sonny Baker,Charlie Schultz,Charlie Schultz,4-6,4,6,0,1,Completed,true,false,false
+UA013081,21 Apr 24,8,Royal Ave,Dendy Park,No. 2,Kosta Vakrinos,Tobias Maddams,Kosta Vakrinos,6-4,6,4,1,0,Completed,true,false,false
+UA013081,21 Apr 24,8,Royal Ave,Dendy Park,No. 3,Johnny Chew,Jack Loffel,Johnny Chew,6-2,6,2,1,0,Completed,true,false,false
+UA013081,21 Apr 24,8,Royal Ave,Dendy Park,No. 4,Dylan Keyvanloo,Roby Capomolla,Roby Capomolla,6-7,6,7,0,1,Completed,true,false,false
+UA013082,21 Apr 24,8,Hurlingham Park Blue,Hurlingham Park Red,No. 1,Benjamin Krodkiewski,Nathan Tang,Benjamin Krodkiewski,6-2,6,2,1,0,Completed,true,false,false
+UA013082,21 Apr 24,8,Hurlingham Park Blue,Hurlingham Park Red,No. 2,Ashok Philip,Isabelle Schiavello,Ashok Philip,6-2,6,2,1,0,Completed,true,false,false
+UA013082,21 Apr 24,8,Hurlingham Park Blue,Hurlingham Park Red,No. 3,Freddie Williams,Eva Moralis,Eva Moralis,0-6,0,6,0,1,Completed,true,false,false
+UA013082,21 Apr 24,8,Hurlingham Park Blue,Hurlingham Park Red,No. 4,Eden Morehu,Lewis Thorp,Lewis Thorp,0-6,0,6,0,1,Completed,true,false,false
+UA013083,21 Apr 24,8,Murrumbeena,BLTC Blue,No. 1,Noah Panjkovic,Rentaro Otsuka,Rentaro Otsuka,2-6,2,6,0,1,Completed,true,false,false
+UA013083,21 Apr 24,8,Murrumbeena,BLTC Blue,No. 2,Kyle Yamada,Timothy Gibbins,Kyle Yamada,6-4,6,4,1,0,Completed,true,false,false
+UA013083,21 Apr 24,8,Murrumbeena,BLTC Blue,No. 3,Sarthak Choubey,Aiden Leonard,Sarthak Choubey,6-2,6,2,1,0,Completed,true,false,false
+UA013083,21 Apr 24,8,Murrumbeena,BLTC Blue,No. 4,Sanjay Bandla,Finn Haines,Sanjay Bandla,6-0,6,0,1,0,Completed,true,false,true
+UA013084,21 Apr 24,8,Lauriston,Kooyong,No. 1,Arjun Nair,Stephanie Forsyth,Arjun Nair,6-1,6,1,1,0,Completed,true,false,false
+UA013084,21 Apr 24,8,Lauriston,Kooyong,No. 2,Dhevesh Jayam,Stephan Merigoux,Dhevesh Jayam,6-1,6,1,1,0,Completed,true,false,false
+UA013084,21 Apr 24,8,Lauriston,Kooyong,No. 3,Olivia Kharkam,Lucy McCormack,Olivia Kharkam,6-2,6,2,1,0,Completed,true,false,false
+UA013084,21 Apr 24,8,Lauriston,Kooyong,No. 4,Hana Lowe,Harper Barons,Hana Lowe,6-2,6,2,1,0,Completed,true,false,false
+UA013091,28 Apr 24,9,Dendy Park,Lauriston,No. 1,Cayden Smith,Arjun Nair,Arjun Nair,0-6,0,6,0,1,Completed,true,true,false
+UA013091,28 Apr 24,9,Dendy Park,Lauriston,No. 2,Charlie Schultz,Dhevesh Jayam,Dhevesh Jayam,3-6,3,6,0,1,Completed,true,false,false
+UA013091,28 Apr 24,9,Dendy Park,Lauriston,No. 3,Jack Loffel,Olivia Kharkam,Olivia Kharkam,3-6,3,6,0,1,Completed,true,false,false
+UA013091,28 Apr 24,9,Dendy Park,Lauriston,No. 4,Roby Capomolla,Hana Lowe,Hana Lowe,1-6,1,6,0,1,Completed,true,false,false
+UA013092,28 Apr 24,9,Hurlingham Park Red,Royal Ave,No. 1,[Unnamed player — TROLS UA013092 home code 1],Sonny Baker,Sonny Baker,0-6,0,6,0,1,Completed,false,false,false
+UA013092,28 Apr 24,9,Hurlingham Park Red,Royal Ave,No. 2,Anastasia Turner,Kosta Vakrinos,Kosta Vakrinos,0-6,0,6,0,1,Completed,true,false,false
+UA013092,28 Apr 24,9,Hurlingham Park Red,Royal Ave,No. 3,Eva Moralis,Sebastian Snell,Eva Moralis,6-2,6,2,1,0,Completed,true,false,false
+UA013092,28 Apr 24,9,Hurlingham Park Red,Royal Ave,No. 4,Lewis Thorp,Johnny Chew,Johnny Chew,5-7,5,7,0,1,Completed,true,false,false
+UA013093,28 Apr 24,9,BLTC Blue,Hurlingham Park Blue,No. 1,Rentaro Otsuka,Benjamin Krodkiewski,Benjamin Krodkiewski,4-6,4,6,0,1,Completed,true,false,false
+UA013093,28 Apr 24,9,BLTC Blue,Hurlingham Park Blue,No. 2,Timothy Gibbins,Ashok Philip,Timothy Gibbins,6-4,6,4,1,0,Completed,true,false,false
+UA013093,28 Apr 24,9,BLTC Blue,Hurlingham Park Blue,No. 3,Jenson Witherington,Freddie Williams,Jenson Witherington,6-2,6,2,1,0,Completed,true,false,false
+UA013093,28 Apr 24,9,BLTC Blue,Hurlingham Park Blue,No. 4,Finn Haines,Angus O'Neil,Angus O'Neil,3-6,3,6,0,1,Completed,true,true,false
+UA013094,28 Apr 24,9,Kooyong,Murrumbeena,No. 1,Stephanie Forsyth,Noah Panjkovic,Stephanie Forsyth,6-1,6,1,1,0,Completed,true,false,false
+UA013094,28 Apr 24,9,Kooyong,Murrumbeena,No. 2,Stephan Merigoux,Lachlan Lyell,Stephan Merigoux,6-3,6,3,1,0,Completed,true,false,false
+UA013094,28 Apr 24,9,Kooyong,Murrumbeena,No. 3,Kai Corfield,Alex Brown,Kai Corfield,6-1,6,1,1,0,Completed,true,false,false
+UA013094,28 Apr 24,9,Kooyong,Murrumbeena,No. 4,Harper Barons,Sanjay Bandla,Sanjay Bandla,1-6,1,6,0,1,Completed,true,false,false
+UA013101,05 May 24,10,Murrumbeena,Dendy Park,No. 1,Noah Panjkovic,Charlie Schultz,Noah Panjkovic,6-2,6,2,1,0,Completed,true,false,false
+UA013101,05 May 24,10,Murrumbeena,Dendy Park,No. 2,Alex Brown,Jake Bloom,Jake Bloom,2-6,2,6,0,1,Completed,true,false,false
+UA013101,05 May 24,10,Murrumbeena,Dendy Park,No. 3,Sarthak Choubey,Jack Loffel,Sarthak Choubey,7-6,7,6,1,0,Completed,true,false,false
+UA013101,05 May 24,10,Murrumbeena,Dendy Park,No. 4,Sanjay Bandla,Roby Capomolla,Sanjay Bandla,6-0,6,0,1,0,Completed,true,false,false
+UA013102,05 May 24,10,Lauriston,Hurlingham Park Red,No. 1,Arjun Nair,Anastasia Turner,Arjun Nair,6-0,6,0,1,0,Completed,true,false,false
+UA013102,05 May 24,10,Lauriston,Hurlingham Park Red,No. 2,Dhevesh Jayam,Isabelle Schiavello,Dhevesh Jayam,6-1,6,1,1,0,Completed,true,false,false
+UA013102,05 May 24,10,Lauriston,Hurlingham Park Red,No. 3,Olivia Kharkam,Eva Moralis,Eva Moralis,3-6,3,6,0,1,Completed,true,false,false
+UA013102,05 May 24,10,Lauriston,Hurlingham Park Red,No. 4,Hana Lowe,Lewis Thorp,Lewis Thorp,0-6,0,6,0,1,Completed,true,false,false
+UA013103,05 May 24,10,Royal Ave,BLTC Blue,No. 1,Sonny Baker,Rentaro Otsuka,Sonny Baker,7-6,7,6,1,0,Completed,true,false,false
+UA013103,05 May 24,10,Royal Ave,BLTC Blue,No. 2,Kosta Vakrinos,Timothy Gibbins,Timothy Gibbins,3-6,3,6,0,1,Completed,true,false,false
+UA013103,05 May 24,10,Royal Ave,BLTC Blue,No. 3,Johnny Chew,Aiden Leonard,Johnny Chew,6-1,6,1,1,0,Completed,true,false,false
+UA013103,05 May 24,10,Royal Ave,BLTC Blue,No. 4,Dylan Keyvanloo,Finn Haines,Finn Haines,1-6,1,6,0,1,Completed,true,false,true
+UA013104,05 May 24,10,Hurlingham Park Blue,Kooyong,No. 1,Benjamin Krodkiewski,Stephan Merigoux,Benjamin Krodkiewski,6-1,6,1,1,0,Completed,true,false,false
+UA013104,05 May 24,10,Hurlingham Park Blue,Kooyong,No. 2,Callum Angell,Henry Moore,Henry Moore,0-6,0,6,0,1,Completed,true,false,false
+UA013104,05 May 24,10,Hurlingham Park Blue,Kooyong,No. 3,Freddie Williams,Kai Corfield,Kai Corfield,5-7,5,7,0,1,Completed,true,false,false
+UA013104,05 May 24,10,Hurlingham Park Blue,Kooyong,No. 4,Eden Morehu,Lucy McCormack,Lucy McCormack,2-6,2,6,0,1,Completed,true,false,false
+UA013111,12 May 24,11,Dendy Park,Hurlingham Park Blue,No. 1,Tobias Maddams,Benjamin Krodkiewski,Tobias Maddams,6-2,6,2,1,0,Completed,true,false,false
+UA013111,12 May 24,11,Dendy Park,Hurlingham Park Blue,No. 2,Jake Bloom,Callum Angell,Callum Angell,2-6,2,6,0,1,Completed,true,false,false
+UA013111,12 May 24,11,Dendy Park,Hurlingham Park Blue,No. 3,Olivia Trigger,Ashok Philip,Olivia Trigger,6-3,6,3,1,0,Completed,true,true,false
+UA013111,12 May 24,11,Dendy Park,Hurlingham Park Blue,No. 4,Jack Loffel,Freddie Williams,Freddie Williams,1-6,1,6,0,1,Completed,true,false,false
+UA013112,12 May 24,11,Hurlingham Park Red,Murrumbeena,No. 1,Nathan Tang,Lachlan Lyell,Nathan Tang,6-3,6,3,1,0,Completed,true,false,false
+UA013112,12 May 24,11,Hurlingham Park Red,Murrumbeena,No. 2,Anastasia Turner,Kyle Yamada,Anastasia Turner,6-1,6,1,1,0,Completed,true,false,false
+UA013112,12 May 24,11,Hurlingham Park Red,Murrumbeena,No. 3,Isabelle Schiavello,Sarthak Choubey,Isabelle Schiavello,6-0,6,0,1,0,Completed,true,false,false
+UA013112,12 May 24,11,Hurlingham Park Red,Murrumbeena,No. 4,Eva Moralis,Sanjay Bandla,Eva Moralis,6-4,6,4,1,0,Completed,true,false,false
+UA013113,12 May 24,11,BLTC Blue,Lauriston,No. 1,Rentaro Otsuka,Arjun Nair,Arjun Nair,3-6,3,6,0,1,Completed,true,false,false
+UA013113,12 May 24,11,BLTC Blue,Lauriston,No. 2,Timothy Gibbins,Nickunj Savniya,Nickunj Savniya,1-6,1,6,0,1,Completed,true,false,true
+UA013113,12 May 24,11,BLTC Blue,Lauriston,No. 3,Jenson Witherington,Olivia Kharkam,Jenson Witherington,6-2,6,2,1,0,Completed,true,false,false
+UA013113,12 May 24,11,BLTC Blue,Lauriston,No. 4,Aiden Leonard,Hana Lowe,Hana Lowe,6-7,6,7,0,1,Completed,true,false,false
+UA013114,12 May 24,11,Kooyong,Royal Ave,No. 1,Stephan Merigoux,Charlie Vakrinos,Charlie Vakrinos,3-6,3,6,0,1,Completed,true,false,false
+UA013114,12 May 24,11,Kooyong,Royal Ave,No. 2,Carrick Wu,Sonny Baker,Carrick Wu,6-1,6,1,1,0,Completed,true,false,false
+UA013114,12 May 24,11,Kooyong,Royal Ave,No. 3,Kai Corfield,Kosta Vakrinos,Kosta Vakrinos,2-6,2,6,0,1,Completed,true,false,false
+UA013114,12 May 24,11,Kooyong,Royal Ave,No. 4,Harper Barons,Johnny Chew,Johnny Chew,2-6,2,6,0,1,Completed,true,false,false
+UA013121,19 May 24,12,Kooyong,BLTC Blue,No. 1,Carrick Wu,Timothy Gibbins,Timothy Gibbins,1-6,1,6,0,1,Completed,true,false,false
+UA013121,19 May 24,12,Kooyong,BLTC Blue,No. 2,Henry Moore,Jenson Witherington,Jenson Witherington,0-6,0,6,0,1,Completed,true,false,false
+UA013121,19 May 24,12,Kooyong,BLTC Blue,No. 3,Kai Corfield,Aiden Leonard,Kai Corfield,6-0,6,0,1,0,Completed,true,false,false
+UA013121,19 May 24,12,Kooyong,BLTC Blue,No. 4,Harper Barons,Finn Haines,Finn Haines,3-6,3,6,0,1,Completed,true,false,true
+UA013122,19 May 24,12,Murrumbeena,Lauriston,No. 1,Max Tanner,Arjun Nair,Arjun Nair,2-6,2,6,0,1,Completed,true,false,false
+UA013122,19 May 24,12,Murrumbeena,Lauriston,No. 2,Noah Panjkovic,Nickunj Savniya,Nickunj Savniya,3-6,3,6,0,1,Completed,true,false,true
+UA013122,19 May 24,12,Murrumbeena,Lauriston,No. 3,Lachlan Lyell,Dhevesh Jayam,Dhevesh Jayam,2-6,2,6,0,1,Completed,true,false,false
+UA013122,19 May 24,12,Murrumbeena,Lauriston,No. 4,Sarthak Choubey,Olivia Kharkam,Olivia Kharkam,4-6,4,6,0,1,Completed,true,false,false
+UA013123,19 May 24,12,Royal Ave,Hurlingham Park Blue,No. 1,Sonny Baker,Benjamin Krodkiewski,Benjamin Krodkiewski,1-6,1,6,0,1,Completed,true,false,false
+UA013123,19 May 24,12,Royal Ave,Hurlingham Park Blue,No. 2,Sebastian Snell,Ashok Philip,Ashok Philip,4-6,4,6,0,1,Completed,true,false,false
+UA013123,19 May 24,12,Royal Ave,Hurlingham Park Blue,No. 3,Johnny Chew,Freddie Williams,Johnny Chew,7-6,7,6,1,0,Completed,true,false,false
+UA013123,19 May 24,12,Royal Ave,Hurlingham Park Blue,No. 4,Dylan Keyvanloo,Angus O'Neil,Dylan Keyvanloo,6-3,6,3,1,0,Completed,true,false,false
+UA013124,19 May 24,12,Hurlingham Park Red,Dendy Park,No. 1,Nathan Tang,Charlie Schultz,Nathan Tang,7-5,7,5,1,0,Completed,true,false,false
+UA013124,19 May 24,12,Hurlingham Park Red,Dendy Park,No. 2,Anastasia Turner,Tobias Maddams,Anastasia Turner,6-4,6,4,1,0,Completed,true,false,false
+UA013124,19 May 24,12,Hurlingham Park Red,Dendy Park,No. 3,Isabelle Schiavello,Jake Bloom,Isabelle Schiavello,7-6,7,6,1,0,Completed,true,false,false
+UA013124,19 May 24,12,Hurlingham Park Red,Dendy Park,No. 4,Dominic Eather,Jack Loffel,Dominic Eather,6-3,6,3,1,0,Completed,true,true,false
+UA013131,26 May 24,13,BLTC Blue,Hurlingham Park Red,No. 1,Rentaro Otsuka,Nathan Tang,Nathan Tang,4-6,4,6,0,1,Completed,true,false,false
+UA013131,26 May 24,13,BLTC Blue,Hurlingham Park Red,No. 2,Timothy Gibbins,Isabelle Schiavello,Timothy Gibbins,6-4,6,4,1,0,Completed,true,false,false
+UA013131,26 May 24,13,BLTC Blue,Hurlingham Park Red,No. 3,Aiden Leonard,Eva Moralis,Eva Moralis,6-7,6,7,0,1,Completed,true,false,false
+UA013131,26 May 24,13,BLTC Blue,Hurlingham Park Red,No. 4,Finn Haines,Lewis Thorp,Finn Haines,6-3,6,3,1,0,Completed,true,true,false
+UA013132,26 May 24,13,Dendy Park,Kooyong,No. 1,Tobias Maddams,Carrick Wu,Tobias Maddams,6-3,6,3,1,0,Completed,true,false,false
+UA013132,26 May 24,13,Dendy Park,Kooyong,No. 2,Jake Bloom,Kai Corfield,Kai Corfield,5-7,5,7,0,1,Completed,true,false,false
+UA013132,26 May 24,13,Dendy Park,Kooyong,No. 3,Jack Loffel,Lucy McCormack,Jack Loffel,7-6,7,6,1,0,Completed,true,false,false
+UA013132,26 May 24,13,Dendy Park,Kooyong,No. 4,Roby Capomolla,Harper Barons,Roby Capomolla,6-4,6,4,1,0,Completed,true,false,false
+UA013133,26 May 24,13,Hurlingham Park Blue,Murrumbeena,No. 1,Benjamin Krodkiewski,Max Tanner,Benjamin Krodkiewski,6-1,6,1,1,0,Completed,true,false,false
+UA013133,26 May 24,13,Hurlingham Park Blue,Murrumbeena,No. 2,Ashok Philip,Lachlan Lyell,Ashok Philip,6-4,6,4,1,0,Completed,true,false,false
+UA013133,26 May 24,13,Hurlingham Park Blue,Murrumbeena,No. 3,Freddie Williams,Kyle Yamada,Kyle Yamada,1-6,1,6,0,1,Completed,true,false,false
+UA013133,26 May 24,13,Hurlingham Park Blue,Murrumbeena,No. 4,Eden Morehu,Sanjay Bandla,Sanjay Bandla,0-6,0,6,0,1,Completed,true,false,false
+UA013134,26 May 24,13,Lauriston,Royal Ave,No. 1,Arjun Nair,Charlie Vakrinos,Charlie Vakrinos,0-6,0,6,0,1,Completed,true,false,false
+UA013134,26 May 24,13,Lauriston,Royal Ave,No. 2,Dhevesh Jayam,Kosta Vakrinos,Kosta Vakrinos,4-6,4,6,0,1,Completed,true,false,false
+UA013134,26 May 24,13,Lauriston,Royal Ave,No. 3,Olivia Kharkam,Sebastian Snell,Olivia Kharkam,6-1,6,1,1,0,Completed,true,false,false
+UA013134,26 May 24,13,Lauriston,Royal Ave,No. 4,Hana Lowe,Dylan Keyvanloo,Dylan Keyvanloo,3-6,3,6,0,1,Completed,true,false,false
+UA013141,02 Jun 24,14,BLTC Blue,Dendy Park,No. 1,Rentaro Otsuka,Charlie Schultz,Charlie Schultz,4-6,4,6,0,1,Completed,true,false,false
+UA013141,02 Jun 24,14,BLTC Blue,Dendy Park,No. 2,Timothy Gibbins,Jake Bloom,Timothy Gibbins,6-2,6,2,1,0,Completed,true,false,false
+UA013141,02 Jun 24,14,BLTC Blue,Dendy Park,No. 3,Aiden Leonard,Jack Loffel,Jack Loffel,6-7,6,7,0,1,Completed,true,false,false
+UA013141,02 Jun 24,14,BLTC Blue,Dendy Park,No. 4,Finn Haines,Roby Capomolla,Finn Haines,6-2,6,2,1,0,Completed,true,true,false
+UA013142,02 Jun 24,14,Kooyong,Hurlingham Park Red,No. 1,Carrick Wu,Nathan Tang,Carrick Wu,7-6,7,6,1,0,Completed,true,false,false
+UA013142,02 Jun 24,14,Kooyong,Hurlingham Park Red,No. 2,Kai Corfield,Anastasia Turner,Anastasia Turner,3-6,3,6,0,1,Completed,true,false,false
+UA013142,02 Jun 24,14,Kooyong,Hurlingham Park Red,No. 3,Lucy McCormack,Eva Moralis,Lucy McCormack,6-2,6,2,1,0,Completed,true,false,false
+UA013142,02 Jun 24,14,Kooyong,Hurlingham Park Red,No. 4,Harper Barons,Lewis Thorp,Lewis Thorp,3-6,3,6,0,1,Completed,true,false,false
+UA013143,02 Jun 24,14,Hurlingham Park Blue,Lauriston,No. 1,Benjamin Krodkiewski,Arjun Nair,Benjamin Krodkiewski,7-5,7,5,1,0,Completed,true,false,false
+UA013143,02 Jun 24,14,Hurlingham Park Blue,Lauriston,No. 2,Callum Angell,Dhevesh Jayam,Dhevesh Jayam,1-6,1,6,0,1,Completed,true,false,false
+UA013143,02 Jun 24,14,Hurlingham Park Blue,Lauriston,No. 3,Ashok Philip,Olivia Kharkam,Ashok Philip,6-4,6,4,1,0,Completed,true,false,false
+UA013143,02 Jun 24,14,Hurlingham Park Blue,Lauriston,No. 4,Eden Morehu,Hana Lowe,Eden Morehu,6-4,6,4,1,0,Completed,true,false,false
+UA013144,02 Jun 24,14,Royal Ave,Murrumbeena,No. 1,Charlie Vakrinos,Noah Panjkovic,Charlie Vakrinos,6-0,6,0,1,0,Completed,true,false,false
+UA013144,02 Jun 24,14,Royal Ave,Murrumbeena,No. 2,Sonny Baker,Alex Brown,Sonny Baker,6-1,6,1,1,0,Completed,true,false,false
+UA013144,02 Jun 24,14,Royal Ave,Murrumbeena,No. 3,Johnny Chew,Sarthak Choubey,Johnny Chew,6-4,6,4,1,0,Completed,true,false,false
+UA013144,02 Jun 24,14,Royal Ave,Murrumbeena,No. 4,Dylan Keyvanloo,Sanjay Bandla,Sanjay Bandla,0-6,0,6,0,1,Completed,true,false,false
+UA013301,,16,Royal Ave,Kooyong,No. 1,Charlie Vakrinos,Stephanie Forsyth,Charlie Vakrinos,6-0,6,0,1,0,Completed,true,false,false
+UA013301,,16,Royal Ave,Kooyong,No. 2,Sonny Baker,Stephan Merigoux,Sonny Baker,6-4,6,4,1,0,Completed,true,false,false
+UA013301,,16,Royal Ave,Kooyong,No. 3,Sebastian Snell,Carrick Wu,Carrick Wu,2-6,2,6,0,1,Completed,true,false,false
+UA013301,,16,Royal Ave,Kooyong,No. 4,Johnny Chew,Kai Corfield,Johnny Chew,6-4,6,4,1,0,Completed,true,false,false
+UA013302,,16,BLTC Blue,Lauriston,No. 1,Rentaro Otsuka,Arjun Nair,Arjun Nair,0-6,0,6,0,1,Completed,true,false,false
+UA013302,,16,BLTC Blue,Lauriston,No. 2,Timothy Gibbins,Dhevesh Jayam,Timothy Gibbins,6-4,6,4,1,0,Completed,true,false,false
+UA013302,,16,BLTC Blue,Lauriston,No. 3,Aiden Leonard,Olivia Kharkam,Aiden Leonard,6-1,6,1,1,0,Completed,true,false,false
+UA013302,,16,BLTC Blue,Lauriston,No. 4,Finn Haines,Hana Lowe,Finn Haines,6-1,6,1,1,0,Completed,true,true,false
+UA013321,,17,Royal Ave,BLTC Blue,No. 1,Charlie Vakrinos,Rentaro Otsuka,Charlie Vakrinos,6-1,6,1,1,0,Completed,true,false,false
+UA013321,,17,Royal Ave,BLTC Blue,No. 2,Sonny Baker,Timothy Gibbins,Timothy Gibbins,2-6,2,6,0,1,Completed,true,false,false
+UA013321,,17,Royal Ave,BLTC Blue,No. 3,Kosta Vakrinos,Aiden Leonard,Kosta Vakrinos,6-4,6,4,1,0,Completed,true,false,false
+UA013321,,17,Royal Ave,BLTC Blue,No. 4,Johnny Chew,Finn Haines,Johnny Chew,7-5,7,5,1,0,Completed,true,false,true

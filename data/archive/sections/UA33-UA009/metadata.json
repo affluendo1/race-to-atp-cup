@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA33-UA009",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2023",
+  "season_id": "UA33",
+  "season_label": "Spring 2023",
+  "source_section_code": "UA009",
+  "section_label": "Section 9",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Caulfield Rec",
+      "wins": 13,
+      "points": 114,
+      "percentage": 163.21,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Pauls",
+      "wins": 9,
+      "points": 98,
+      "percentage": 123.0,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "St Pats Mentone",
+      "wins": 8,
+      "points": 83,
+      "percentage": 115.54,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC 1",
+      "wins": 8,
+      "points": 75,
+      "percentage": 108.31,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St James Yellow",
+      "wins": 6,
+      "points": 69,
+      "percentage": 104.24,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Carmelite",
+      "wins": 4,
+      "points": 53,
+      "percentage": 87.76,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC 2",
+      "wins": 2,
+      "points": 47,
+      "percentage": 79.05,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal South Yarra",
+      "wins": 0,
+      "points": 21,
+      "percentage": 52.84,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA33-UA009",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 59,
+  "singles_rubbers": 228,
+  "doubles_rubbers": 114,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

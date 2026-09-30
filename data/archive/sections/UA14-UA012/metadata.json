@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA14-UA012",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2014",
+  "season_id": "UA14",
+  "season_label": "Autumn 2014",
+  "source_section_code": "UA012",
+  "section_label": "Section 12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Aspendale",
+      "wins": 12,
+      "points": 122,
+      "percentage": 243.86,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 7,
+      "points": 84,
+      "percentage": 133.58,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Hampton",
+      "wins": 6,
+      "points": 82.5,
+      "percentage": 126.32,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 7,
+      "points": 72.5,
+      "percentage": 101.28,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Caulfield Rec",
+      "wins": 8,
+      "points": 72,
+      "percentage": 97.3,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong St Kevin's",
+      "wins": 5,
+      "points": 60,
+      "percentage": 86.79,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Carmelite",
+      "wins": 4,
+      "points": 45,
+      "percentage": 62.34,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Glen Eira Beech",
+      "wins": 0,
+      "points": 22,
+      "percentage": 52.05,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA14-UA012",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 45,
+  "singles_rubbers": 208,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA010011,31 Jan 10,1,regular,Round 1,Mordialloc,Dendy Park 1,9,1,5,1,,,35,11,Completed,
+UA010013,31 Jan 10,1,regular,Round 1,Maccabi,Kooyong Xavier,10,0,6,0,,,37,9,Completed,
+UA010014,31 Jan 10,1,regular,Round 1,Bodley Tennis Plus,Moorabbin Indoor,1,9,1,5,,,14,34,Completed,
+pending-ua010-r1-bye-dendy-park-2,31 Jan 10,1,regular,Round 1,Bye,Dendy Park 2,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA010021,07 Feb 10,2,regular,Round 2,Moorabbin Indoor,Mordialloc,2,8,2,4,,,26,31,Completed,
+UA010023,07 Feb 10,2,regular,Round 2,Dendy Park 2,Maccabi,0,10,0,6,,,15,36,Completed,
+UA010024,07 Feb 10,2,regular,Round 2,Kooyong Xavier,Bodley Tennis Plus,2,8,2,4,,,21,33,Completed,
+pending-ua010-r2-dendy-park-1-bye,07 Feb 10,2,regular,Round 2,Dendy Park 1,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA010031,14 Feb 10,3,regular,Round 3,Mordialloc,Kooyong Xavier,8,2,4,2,,,30,21,Completed,
+UA010033,14 Feb 10,3,regular,Round 3,Maccabi,Dendy Park 1,8,2,4,2,,,29,26,Completed,
+UA010034,14 Feb 10,3,regular,Round 3,Bodley Tennis Plus,Dendy Park 2,8,2,4,2,,,25,18,Completed,
+pending-ua010-r3-bye-moorabbin-indoor,14 Feb 10,3,regular,Round 3,Bye,Moorabbin Indoor,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA010041,21 Feb 10,4,regular,Round 4,Dendy Park 2,Mordialloc,7,3,3,3,,,30,25,Completed,
+UA010043,21 Feb 10,4,regular,Round 4,Moorabbin Indoor,Maccabi,7,3,3,3,,,31,29,Completed,
+UA010044,21 Feb 10,4,regular,Round 4,Dendy Park 1,Bodley Tennis Plus,7,3,3,3,,,27,22,Completed,
+pending-ua010-r4-kooyong-xavier-bye,21 Feb 10,4,regular,Round 4,Kooyong Xavier,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA010052,28 Feb 10,5,regular,Round 5,Moorabbin Indoor,Kooyong Xavier,8,2,4,2,,,30,17,Completed,
+UA010053,28 Feb 10,5,regular,Round 5,Dendy Park 2,Dendy Park 1,2,8,2,4,,,19,28,Completed,
+pending-ua010-r5-maccabi-bodley-tennis-plus,28 Feb 10,5,regular,Round 5,Maccabi,Bodley Tennis Plus,,,,,,,,,Scheduled,No individual scorecard / no rubbers recorded
+pending-ua010-r5-mordialloc-bye,28 Feb 10,5,regular,Round 5,Mordialloc,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA010062,14 Mar 10,6,regular,Round 6,Bodley Tennis Plus,Mordialloc,3,7,3,3,,,28,29,Completed,
+UA010063,14 Mar 10,6,regular,Round 6,Kooyong Xavier,Dendy Park 2,2,8,2,4,,,20,25,Completed,
+UA010064,14 Mar 10,6,regular,Round 6,Dendy Park 1,Moorabbin Indoor,0,10,0,6,,,16,37,Completed,
+pending-ua010-r6-bye-maccabi,14 Mar 10,6,regular,Round 6,Bye,Maccabi,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA010071,21 Mar 10,7,regular,Round 7,Mordialloc,Maccabi,3,7,3,3,,,28,30,Completed,
+UA010073,21 Mar 10,7,regular,Round 7,Moorabbin Indoor,Dendy Park 2,8,2,4,2,,,33,20,Completed,
+UA010074,21 Mar 10,7,regular,Round 7,Kooyong Xavier,Dendy Park 1,2,8,2,4,,,22,28,Completed,
+pending-ua010-r7-bye-bodley-tennis-plus,21 Mar 10,7,regular,Round 7,Bye,Bodley Tennis Plus,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA010081,28 Mar 10,8,regular,Round 8,Dendy Park 1,Mordialloc,2,8,2,4,,,24,33,Completed,
+UA010083,28 Mar 10,8,regular,Round 8,Kooyong Xavier,Maccabi,1,9,1,5,,,17,30,Completed,
+UA010084,28 Mar 10,8,regular,Round 8,Moorabbin Indoor,Bodley Tennis Plus,9,1,5,1,,,31,10,Completed,
+pending-ua010-r8-dendy-park-2-bye,28 Mar 10,8,regular,Round 8,Dendy Park 2,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA010091,18 Apr 10,9,regular,Round 9,Mordialloc,Moorabbin Indoor,2,8,2,4,,,21,28,Completed,
+UA010093,18 Apr 10,9,regular,Round 9,Maccabi,Dendy Park 2,3,7,3,3,,,30,33,Completed,
+UA010094,18 Apr 10,9,regular,Round 9,Bodley Tennis Plus,Kooyong Xavier,10,0,6,0,,,38,20,Completed,
+pending-ua010-r9-bye-dendy-park-1,18 Apr 10,9,regular,Round 9,Bye,Dendy Park 1,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA010101,02 May 10,10,regular,Round 10,Kooyong Xavier,Mordialloc,1,9,1,5,,,19,32,Completed,
+UA010103,02 May 10,10,regular,Round 10,Dendy Park 1,Maccabi,1,9,1,5,,,17,36,Completed,
+pending-ua010-r10-dendy-park-2-bodley-tennis-plus,02 May 10,10,regular,Round 10,Dendy Park 2,Bodley Tennis Plus,,,,,,,,,Scheduled,No individual scorecard / no rubbers recorded
+pending-ua010-r10-moorabbin-indoor-bye,02 May 10,10,regular,Round 10,Moorabbin Indoor,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA010111,09 May 10,11,regular,Round 11,Mordialloc,Dendy Park 2,2,8,2,4,,,28,33,Completed,
+UA010113,09 May 10,11,regular,Round 11,Maccabi,Moorabbin Indoor,1,9,1,5,,,16,34,Completed,
+UA010114,09 May 10,11,regular,Round 11,Bodley Tennis Plus,Dendy Park 1,8,2,4,2,,,29,19,Completed,
+pending-ua010-r11-bye-kooyong-xavier,09 May 10,11,regular,Round 11,Bye,Kooyong Xavier,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA010121,16 May 10,12,regular,Round 12,Bodley Tennis Plus,Maccabi,7,3,3,3,,,23,21,Completed,
+UA010122,16 May 10,12,regular,Round 12,Kooyong Xavier,Moorabbin Indoor,0,10,0,6,,,5,36,Completed,
+UA010123,16 May 10,12,regular,Round 12,Dendy Park 1,Dendy Park 2,2,8,2,4,,,21,32,Completed,
+pending-ua010-r12-bye-mordialloc,16 May 10,12,regular,Round 12,Bye,Mordialloc,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA010133,23 May 10,13,regular,Round 13,Dendy Park 2,Kooyong Xavier,9,1,5,1,,,30,13,Completed,
+UA010134,23 May 10,13,regular,Round 13,Moorabbin Indoor,Dendy Park 1,9,1,5,1,,,33,13,Completed,
+pending-ua010-r13-maccabi-bye,23 May 10,13,regular,Round 13,Maccabi,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua010-r13-mordialloc-bodley-tennis-plus,23 May 10,13,regular,Round 13,Mordialloc,Bodley Tennis Plus,,,,,,,,,Scheduled,No individual scorecard / no rubbers recorded
+UA010141,30 May 10,14,regular,Round 14,Maccabi,Mordialloc,3,7,3,3,,,25,27,Completed,
+UA010143,30 May 10,14,regular,Round 14,Dendy Park 2,Moorabbin Indoor,2,8,2,4,,,20,29,Completed,
+UA010144,30 May 10,14,regular,Round 14,Dendy Park 1,Kooyong Xavier,9,1,5,1,,,34,16,Completed,
+pending-ua010-r14-bodley-tennis-plus-bye,30 May 10,14,regular,Round 14,Bodley Tennis Plus,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA010301,,16,semi_final,Semi-final,Moorabbin Indoor,Dendy Park 2,10,0,6,0,,,37,12,Completed,
+UA010302,,16,semi_final,Semi-final,Maccabi,Mordialloc,3,7,3,3,,,27,32,Completed,
+UA010321,,17,grand_final,Grand final · TROLS entry 2,Moorabbin Indoor,Mordialloc,8,2,4,2,,,30,25,Completed,

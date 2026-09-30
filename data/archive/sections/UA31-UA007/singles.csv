@@ -1,0 +1,221 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA007011,17 Jul 22,1,BLTC,Dendy Park,No. 1,Ben Banks,Angus Giles,Angus Giles,0-6,0,6,0,1,Completed,true,false,false
+UA007011,17 Jul 22,1,BLTC,Dendy Park,No. 2,Liam Walters,Josh Telford,Liam Walters,6-0,6,0,1,0,Completed,true,false,false
+UA007011,17 Jul 22,1,BLTC,Dendy Park,No. 3,Andrew Livermore,Alexandra Telford,Andrew Livermore,6-2,6,2,1,0,Completed,true,false,false
+UA007011,17 Jul 22,1,BLTC,Dendy Park,No. 4,Matvey Roche,Grace Edwards,Matvey Roche,6-0,6,0,1,0,Completed,true,false,false
+UA007012,17 Jul 22,1,Victory Park,Royal South Yarra,No. 1,Riley Bellingham,Mara Tausan,Riley Bellingham,6-0,6,0,1,0,Completed,true,true,false
+UA007012,17 Jul 22,1,Victory Park,Royal South Yarra,No. 2,Oliver Richards,Nathan Lin,Oliver Richards,6-4,6,4,1,0,Completed,true,false,false
+UA007012,17 Jul 22,1,Victory Park,Royal South Yarra,No. 3,Jack Campbell,Will Howitt,Jack Campbell,6-0,6,0,1,0,Completed,true,false,false
+UA007012,17 Jul 22,1,Victory Park,Royal South Yarra,No. 4,Mitch Cassidy,Tom Hunt,Tom Hunt,4-6,4,6,0,1,Completed,true,false,true
+UA007013,17 Jul 22,1,Le Page,Black Rock,No. 1,James Polygenis,Jules Harris-Ure,James Polygenis,6-0,6,0,1,0,Completed,true,false,false
+UA007013,17 Jul 22,1,Le Page,Black Rock,No. 2,Aryan Singh,Ella Rankin,Ella Rankin,4-6,4,6,0,1,Completed,true,false,false
+UA007013,17 Jul 22,1,Le Page,Black Rock,No. 3,Lochlan Bradley,Emma Enkelman,Emma Enkelman,3-6,3,6,0,1,Completed,true,false,false
+UA007013,17 Jul 22,1,Le Page,Black Rock,No. 4,Mitchell Campbell,Natalie Dureau,Mitchell Campbell,6-3,6,3,1,0,Completed,true,false,false
+UA007014,17 Jul 22,1,St Andrews MB,Murrumbeena,No. 1,Charlie Moulang,Aodhan Monteiro,Aodhan Monteiro,0-6,0,6,0,1,Completed,true,false,false
+UA007014,17 Jul 22,1,St Andrews MB,Murrumbeena,No. 2,Bob Njiffels,Patrick Mills,Patrick Mills,3-6,3,6,0,1,Completed,true,false,false
+UA007014,17 Jul 22,1,St Andrews MB,Murrumbeena,No. 3,Mika Looschilder,Claire Scuderi,Claire Scuderi,0-6,0,6,0,1,Completed,true,false,false
+UA007014,17 Jul 22,1,St Andrews MB,Murrumbeena,No. 4,Hanna Langridge,Tarenya Joshi,Tarenya Joshi,5-7,5,7,0,1,Completed,true,false,true
+UA007021,24 Jul 22,2,Murrumbeena,BLTC,No. 1,Aodhan Monteiro,Ben Banks,Ben Banks,4-6,4,6,0,1,Completed,true,false,false
+UA007021,24 Jul 22,2,Murrumbeena,BLTC,No. 2,Patrick Mills,Liam Walters,Liam Walters,5-7,5,7,0,1,Completed,true,false,false
+UA007021,24 Jul 22,2,Murrumbeena,BLTC,No. 3,Ruby Huggins,Andrew Livermore,Andrew Livermore,4-6,4,6,0,1,Completed,true,false,false
+UA007021,24 Jul 22,2,Murrumbeena,BLTC,No. 4,Claire Scuderi,Matvey Roche,Matvey Roche,3-6,3,6,0,1,Completed,true,false,false
+UA007022,24 Jul 22,2,Dendy Park,Victory Park,No. 1,Alexandra Telford,Riley Bellingham,Riley Bellingham,2-6,2,6,0,1,Completed,true,false,true
+UA007022,24 Jul 22,2,Dendy Park,Victory Park,No. 2,Grace Edwards,Oliver Richards,Grace Edwards,6-3,6,3,1,0,Completed,true,false,false
+UA007022,24 Jul 22,2,Dendy Park,Victory Park,No. 3,Uma Nijffles,Jack Campbell,Jack Campbell,4-6,4,6,0,1,Completed,true,false,false
+UA007022,24 Jul 22,2,Dendy Park,Victory Park,No. 4,Zara Fyfe,Ishaan Tiwari,Zara Fyfe,7-6,7,6,1,0,Completed,true,false,false
+UA007023,24 Jul 22,2,Royal South Yarra,Le Page,No. 1,Phoebe Ollerenshaw,James Polygenis,James Polygenis,0-6,0,6,0,1,Completed,true,false,false
+UA007023,24 Jul 22,2,Royal South Yarra,Le Page,No. 2,Flo Baillieu,Aryan Singh,Aryan Singh,1-6,1,6,0,1,Completed,true,false,false
+UA007023,24 Jul 22,2,Royal South Yarra,Le Page,No. 3,Mara Tausan,Lochlan Bradley,Lochlan Bradley,3-6,3,6,0,1,Completed,true,false,false
+UA007023,24 Jul 22,2,Royal South Yarra,Le Page,No. 4,Yancheng Zhang,James Katakouzinos,James Katakouzinos,2-6,2,6,0,1,Completed,true,false,false
+UA007024,24 Jul 22,2,Black Rock,St Andrews MB,No. 1,Ella Rankin,Charlie Moulang,Charlie Moulang,1-6,1,6,0,1,Completed,true,false,false
+UA007024,24 Jul 22,2,Black Rock,St Andrews MB,No. 2,Emma Enkelman,Bob Njiffels,Bob Njiffels,1-6,1,6,0,1,Completed,true,false,false
+UA007024,24 Jul 22,2,Black Rock,St Andrews MB,No. 3,Natalie Dureau,Mika Looschilder,Mika Looschilder,2-6,2,6,0,1,Completed,true,false,false
+UA007024,24 Jul 22,2,Black Rock,St Andrews MB,No. 4,Archie Braithwaite,Max Looschilder,Max Looschilder,5-7,5,7,0,1,Completed,true,true,false
+UA007031,31 Jul 22,3,BLTC,Black Rock,No. 1,Ben Banks,Gabriel Coleman,Ben Banks,6-3,6,3,1,0,Completed,true,false,false
+UA007031,31 Jul 22,3,BLTC,Black Rock,No. 2,Liam Walters,Jules Harris-Ure,Liam Walters,6-2,6,2,1,0,Completed,true,false,false
+UA007031,31 Jul 22,3,BLTC,Black Rock,No. 3,Andrew Livermore,Ella Rankin,Andrew Livermore,7-6,7,6,1,0,Completed,true,false,false
+UA007031,31 Jul 22,3,BLTC,Black Rock,No. 4,Amy Livermore,Natalie Dureau,Amy Livermore,6-1,6,1,1,0,Completed,true,true,false
+UA007032,31 Jul 22,3,Victory Park,Murrumbeena,No. 1,Oliver Richards,Aodhan Monteiro,Aodhan Monteiro,4-6,4,6,0,1,Completed,true,false,false
+UA007032,31 Jul 22,3,Victory Park,Murrumbeena,No. 2,Jack Campbell,Patrick Mills,Patrick Mills,0-6,0,6,0,1,Completed,true,false,false
+UA007032,31 Jul 22,3,Victory Park,Murrumbeena,No. 3,Ishaan Tiwari,Ruby Huggins,Ruby Huggins,1-6,1,6,0,1,Completed,true,false,false
+UA007032,31 Jul 22,3,Victory Park,Murrumbeena,No. 4,Mitch Cassidy,Tarenya Joshi,Tarenya Joshi,1-6,1,6,0,1,Completed,true,false,true
+UA007033,31 Jul 22,3,Le Page,Dendy Park,No. 1,James Polygenis,Josh Telford,James Polygenis,6-1,6,1,1,0,Completed,true,false,false
+UA007033,31 Jul 22,3,Le Page,Dendy Park,No. 2,Aryan Singh,Alexandra Telford,Aryan Singh,6-1,6,1,1,0,Completed,true,false,false
+UA007033,31 Jul 22,3,Le Page,Dendy Park,No. 3,James Katakouzinos,Grace Edwards,Grace Edwards,2-6,2,6,0,1,Completed,true,false,false
+UA007033,31 Jul 22,3,Le Page,Dendy Park,No. 4,Mitchell Campbell,Uma Nijffles,Mitchell Campbell,6-3,6,3,1,0,Completed,true,false,false
+UA007034,31 Jul 22,3,St Andrews MB,Royal South Yarra,No. 1,Charlie Moulang,Phoebe Ollerenshaw,Charlie Moulang,6-2,6,2,1,0,Completed,true,false,false
+UA007034,31 Jul 22,3,St Andrews MB,Royal South Yarra,No. 2,Bob Njiffels,Mara Tausan,Bob Njiffels,6-1,6,1,1,0,Completed,true,false,false
+UA007034,31 Jul 22,3,St Andrews MB,Royal South Yarra,No. 3,Hanna Langridge,Yancheng Zhang,Hanna Langridge,6-0,6,0,1,0,Completed,true,false,false
+UA007034,31 Jul 22,3,St Andrews MB,Royal South Yarra,No. 4,Alex Zhao,Tom Hunt,Alex Zhao,6-3,6,3,1,0,Completed,true,true,true
+UA007041,07 Aug 22,4,Royal South Yarra,BLTC,No. 1,Phoebe Ollerenshaw,Ben Banks,Ben Banks,0-6,0,6,0,1,Completed,true,false,false
+UA007041,07 Aug 22,4,Royal South Yarra,BLTC,No. 2,Flo Baillieu,Liam Walters,Liam Walters,0-6,0,6,0,1,Completed,true,false,false
+UA007041,07 Aug 22,4,Royal South Yarra,BLTC,No. 3,Mara Tausan,Andrew Livermore,Andrew Livermore,0-6,0,6,0,1,Completed,true,false,false
+UA007041,07 Aug 22,4,Royal South Yarra,BLTC,No. 4,Yancheng Zhang,Matvey Roche,Matvey Roche,0-6,0,6,0,1,Completed,true,false,false
+UA007042,07 Aug 22,4,Black Rock,Victory Park,No. 1,Jules Harris-Ure,Riley Bellingham,Riley Bellingham,5-7,5,7,0,1,Completed,true,false,true
+UA007042,07 Aug 22,4,Black Rock,Victory Park,No. 2,Ella Rankin,Jack Campbell,Ella Rankin,6-1,6,1,1,0,Completed,true,false,false
+UA007042,07 Aug 22,4,Black Rock,Victory Park,No. 3,Natalie Dureau,Ishaan Tiwari,Ishaan Tiwari,4-6,4,6,0,1,Completed,true,false,false
+UA007042,07 Aug 22,4,Black Rock,Victory Park,No. 4,Amelie Smith,Mitch Cassidy,Amelie Smith,6-2,6,2,1,0,Completed,true,true,false
+UA007043,07 Aug 22,4,Murrumbeena,Le Page,No. 1,Aodhan Monteiro,Aryan Singh,Aodhan Monteiro,6-4,6,4,1,0,Completed,true,false,false
+UA007043,07 Aug 22,4,Murrumbeena,Le Page,No. 2,Patrick Mills,Lochlan Bradley,Patrick Mills,7-5,7,5,1,0,Completed,true,false,false
+UA007043,07 Aug 22,4,Murrumbeena,Le Page,No. 3,Claire Scuderi,James Katakouzinos,Claire Scuderi,6-1,6,1,1,0,Completed,true,false,false
+UA007043,07 Aug 22,4,Murrumbeena,Le Page,No. 4,Marlo Waters,Mitchell Campbell,Mitchell Campbell,2-6,2,6,0,1,Completed,true,true,false
+UA007044,07 Aug 22,4,Dendy Park,St Andrews MB,No. 1,Angus Giles,Charlie Moulang,Angus Giles,6-1,6,1,1,0,Completed,true,false,false
+UA007044,07 Aug 22,4,Dendy Park,St Andrews MB,No. 2,Josh Telford,Bob Njiffels,Josh Telford,7-5,7,5,1,0,Completed,true,false,false
+UA007044,07 Aug 22,4,Dendy Park,St Andrews MB,No. 3,Uma Nijffles,Mika Looschilder,Uma Nijffles,6-3,6,3,1,0,Completed,true,false,false
+UA007044,07 Aug 22,4,Dendy Park,St Andrews MB,No. 4,Zara Fyfe,Hanna Langridge,Hanna Langridge,0-6,0,6,0,1,Completed,true,false,false
+UA007051,14 Aug 22,5,Le Page,St Andrews MB,No. 1,James Polygenis,Charlie Moulang,James Polygenis,6-2,6,2,1,0,Completed,true,false,false
+UA007051,14 Aug 22,5,Le Page,St Andrews MB,No. 2,Aryan Singh,Bob Njiffels,Aryan Singh,6-3,6,3,1,0,Completed,true,false,false
+UA007051,14 Aug 22,5,Le Page,St Andrews MB,No. 3,Lochlan Bradley,Mika Looschilder,Lochlan Bradley,6-2,6,2,1,0,Completed,true,false,false
+UA007051,14 Aug 22,5,Le Page,St Andrews MB,No. 4,Mitchell Campbell,Hanna Langridge,Hanna Langridge,5-7,5,7,0,1,Completed,true,false,false
+UA007053,14 Aug 22,5,Royal South Yarra,Dendy Park,No. 1,Isabella Soutter,Alexandra Telford,Alexandra Telford,0-6,0,6,0,1,Completed,true,false,false
+UA007053,14 Aug 22,5,Royal South Yarra,Dendy Park,No. 2,Flo Baillieu,Uma Nijffles,Uma Nijffles,2-6,2,6,0,1,Completed,true,false,false
+UA007053,14 Aug 22,5,Royal South Yarra,Dendy Park,No. 3,Yancheng Zhang,Zara Fyfe,Yancheng Zhang,6-3,6,3,1,0,Completed,true,false,false
+UA007053,14 Aug 22,5,Royal South Yarra,Dendy Park,No. 4,Nathan Lin,William Knaap,Nathan Lin,6-2,6,2,1,0,Completed,true,false,true
+UA007054,14 Aug 22,5,BLTC,Victory Park,No. 1,Ben Banks,[Unnamed player — TROLS UA007054 away code 1],Ben Banks,6-0,6,0,1,0,Completed,false,false,false
+UA007054,14 Aug 22,5,BLTC,Victory Park,No. 2,Liam Walters,Oliver Richards,Liam Walters,6-2,6,2,1,0,Completed,true,false,false
+UA007054,14 Aug 22,5,BLTC,Victory Park,No. 3,Andrew Livermore,Ishaan Tiwari,Andrew Livermore,6-1,6,1,1,0,Completed,true,false,false
+UA007054,14 Aug 22,5,BLTC,Victory Park,No. 4,Matvey Roche,Mitch Cassidy,Matvey Roche,6-3,6,3,1,0,Completed,true,false,false
+UA007061,21 Aug 22,6,Victory Park,Le Page,No. 1,Oliver Richards,James Polygenis,James Polygenis,0-6,0,6,0,1,Completed,true,false,false
+UA007061,21 Aug 22,6,Victory Park,Le Page,No. 2,Jack Campbell,Aryan Singh,Aryan Singh,1-6,1,6,0,1,Completed,true,false,false
+UA007061,21 Aug 22,6,Victory Park,Le Page,No. 3,Ishaan Tiwari,Lochlan Bradley,Ishaan Tiwari,6-3,6,3,1,0,Completed,true,false,false
+UA007061,21 Aug 22,6,Victory Park,Le Page,No. 4,Mitch Cassidy,James Katakouzinos,James Katakouzinos,2-6,2,6,0,1,Completed,true,false,false
+UA007062,21 Aug 22,6,St Andrews MB,BLTC,No. 1,Charlie Moulang,Ben Banks,Charlie Moulang,7-6,7,6,1,0,Completed,true,false,false
+UA007062,21 Aug 22,6,St Andrews MB,BLTC,No. 2,Bob Njiffels,Liam Walters,Liam Walters,2-6,2,6,0,1,Completed,true,false,false
+UA007062,21 Aug 22,6,St Andrews MB,BLTC,No. 3,Mika Looschilder,Andrew Livermore,Andrew Livermore,0-6,0,6,0,1,Completed,true,false,false
+UA007062,21 Aug 22,6,St Andrews MB,BLTC,No. 4,Hanna Langridge,Matvey Roche,Matvey Roche,4-6,4,6,0,1,Completed,true,false,false
+UA007064,21 Aug 22,6,Dendy Park,Murrumbeena,No. 1,Angus Giles,Aodhan Monteiro,Angus Giles,6-3,6,3,1,0,Completed,true,false,false
+UA007064,21 Aug 22,6,Dendy Park,Murrumbeena,No. 2,Josh Telford,Patrick Mills,Patrick Mills,1-6,1,6,0,1,Completed,true,false,false
+UA007064,21 Aug 22,6,Dendy Park,Murrumbeena,No. 3,Alexandra Telford,Tarenya Joshi,Alexandra Telford,7-5,7,5,1,0,Completed,true,false,true
+UA007064,21 Aug 22,6,Dendy Park,Murrumbeena,No. 4,William Knaap,Jacob Hong-Dunnett,Jacob Hong-Dunnett,2-6,2,6,0,1,Completed,true,true,true
+UA007071,28 Aug 22,7,BLTC,Le Page,No. 1,Liam Walters,James Polygenis,James Polygenis,2-6,2,6,0,1,Completed,true,false,false
+UA007071,28 Aug 22,7,BLTC,Le Page,No. 2,Andrew Livermore,Lochlan Bradley,Andrew Livermore,6-3,6,3,1,0,Completed,true,false,false
+UA007071,28 Aug 22,7,BLTC,Le Page,No. 3,Matvey Roche,James Katakouzinos,Matvey Roche,6-2,6,2,1,0,Completed,true,false,false
+UA007071,28 Aug 22,7,BLTC,Le Page,No. 4,Jonty Ryan,Mitchell Campbell,Jonty Ryan,6-2,6,2,1,0,Completed,true,true,false
+UA007072,28 Aug 22,7,Victory Park,St Andrews MB,No. 1,Oliver Richards,Bob Njiffels,Oliver Richards,6-4,6,4,1,0,Completed,true,false,false
+UA007072,28 Aug 22,7,Victory Park,St Andrews MB,No. 2,Jack Campbell,Mika Looschilder,Mika Looschilder,4-6,4,6,0,1,Completed,true,false,false
+UA007072,28 Aug 22,7,Victory Park,St Andrews MB,No. 3,Ishaan Tiwari,Max Looschilder,Max Looschilder,1-6,1,6,0,1,Completed,true,false,false
+UA007072,28 Aug 22,7,Victory Park,St Andrews MB,No. 4,Mitch Cassidy,Hanna Langridge,Hanna Langridge,0-6,0,6,0,1,Completed,true,false,false
+UA007073,28 Aug 22,7,Murrumbeena,Royal South Yarra,No. 1,Aodhan Monteiro,Flo Baillieu,Aodhan Monteiro,6-1,6,1,1,0,Completed,true,false,false
+UA007073,28 Aug 22,7,Murrumbeena,Royal South Yarra,No. 2,Patrick Mills,Mara Tausan,Patrick Mills,6-3,6,3,1,0,Completed,true,false,false
+UA007073,28 Aug 22,7,Murrumbeena,Royal South Yarra,No. 3,Tarenya Joshi,Nathan Lin,Tarenya Joshi,6-3,6,3,1,0,Completed,true,true,false
+UA007073,28 Aug 22,7,Murrumbeena,Royal South Yarra,No. 4,Marlo Waters,Will Howitt,Will Howitt,3-6,3,6,0,1,Completed,true,true,false
+UA007074,28 Aug 22,7,Black Rock,Dendy Park,No. 1,Jules Harris-Ure,Josh Telford,Josh Telford,0-6,0,6,0,1,Completed,true,false,false
+UA007074,28 Aug 22,7,Black Rock,Dendy Park,No. 2,Ella Rankin,Alexandra Telford,Alexandra Telford,4-6,4,6,0,1,Completed,true,false,false
+UA007074,28 Aug 22,7,Black Rock,Dendy Park,No. 3,Emma Enkelman,Uma Nijffles,Emma Enkelman,6-1,6,1,1,0,Completed,true,false,false
+UA007074,28 Aug 22,7,Black Rock,Dendy Park,No. 4,Natalie Dureau,Zara Fyfe,Zara Fyfe,3-6,3,6,0,1,Completed,true,false,false
+UA007081,04 Sep 22,8,Dendy Park,BLTC,No. 1,Josh Telford,Ben Banks,Ben Banks,1-6,1,6,0,1,Completed,true,false,false
+UA007081,04 Sep 22,8,Dendy Park,BLTC,No. 2,Grace Edwards,Liam Walters,Liam Walters,3-6,3,6,0,1,Completed,true,false,false
+UA007081,04 Sep 22,8,Dendy Park,BLTC,No. 3,Uma Nijffles,Andrew Livermore,Andrew Livermore,3-6,3,6,0,1,Completed,true,false,false
+UA007081,04 Sep 22,8,Dendy Park,BLTC,No. 4,Zara Fyfe,Matvey Roche,Matvey Roche,4-6,4,6,0,1,Completed,true,false,false
+UA007082,04 Sep 22,8,Royal South Yarra,Victory Park,No. 1,Isabella Soutter,Oliver Richards,Oliver Richards,2-6,2,6,0,1,Completed,true,false,false
+UA007082,04 Sep 22,8,Royal South Yarra,Victory Park,No. 2,Mara Tausan,Jack Campbell,Jack Campbell,4-6,4,6,0,1,Completed,true,false,false
+UA007082,04 Sep 22,8,Royal South Yarra,Victory Park,No. 3,Yancheng Zhang,Ishaan Tiwari,Ishaan Tiwari,2-6,2,6,0,1,Completed,true,false,false
+UA007082,04 Sep 22,8,Royal South Yarra,Victory Park,No. 4,Tom Hunt,Elliott Collins,Tom Hunt,6-4,6,4,1,0,Completed,true,true,true
+UA007083,04 Sep 22,8,Black Rock,Le Page,No. 1,Jules Harris-Ure,James Polygenis,James Polygenis,0-6,0,6,0,1,Completed,true,false,false
+UA007083,04 Sep 22,8,Black Rock,Le Page,No. 2,Ella Rankin,Lochlan Bradley,Ella Rankin,6-4,6,4,1,0,Completed,true,false,false
+UA007083,04 Sep 22,8,Black Rock,Le Page,No. 3,Natalie Dureau,James Katakouzinos,Natalie Dureau,6-3,6,3,1,0,Completed,true,false,false
+UA007083,04 Sep 22,8,Black Rock,Le Page,No. 4,Alex Enkelman,Mitchell Campbell,Alex Enkelman,6-0,6,0,1,0,Completed,true,true,false
+UA007084,04 Sep 22,8,Murrumbeena,St Andrews MB,No. 1,Aodhan Monteiro,Charlie Moulang,Aodhan Monteiro,6-2,6,2,1,0,Completed,true,false,false
+UA007084,04 Sep 22,8,Murrumbeena,St Andrews MB,No. 2,Patrick Mills,Bob Njiffels,Patrick Mills,6-1,6,1,1,0,Completed,true,false,false
+UA007084,04 Sep 22,8,Murrumbeena,St Andrews MB,No. 3,Tarenya Joshi,Mika Looschilder,Tarenya Joshi,7-5,7,5,1,0,Completed,true,true,false
+UA007084,04 Sep 22,8,Murrumbeena,St Andrews MB,No. 4,[Unnamed player — TROLS UA007084 home code 4],Max Looschilder,Max Looschilder,0-6,0,6,0,1,Completed,false,false,false
+UA007091,11 Sep 22,9,BLTC,Murrumbeena,No. 1,Liam Walters,Aodhan Monteiro,Liam Walters,7-6,7,6,1,0,Completed,true,false,false
+UA007091,11 Sep 22,9,BLTC,Murrumbeena,No. 2,Andrew Livermore,Patrick Mills,Patrick Mills,6-7,6,7,0,1,Completed,true,false,false
+UA007091,11 Sep 22,9,BLTC,Murrumbeena,No. 3,Matvey Roche,Tarenya Joshi,Matvey Roche,6-2,6,2,1,0,Completed,true,false,true
+UA007091,11 Sep 22,9,BLTC,Murrumbeena,No. 4,Jonty Ryan,Marlo Waters,Jonty Ryan,6-4,6,4,1,0,Completed,true,true,true
+UA007092,11 Sep 22,9,Victory Park,Dendy Park,No. 1,Oliver Richards,Angus Giles,Angus Giles,2-6,2,6,0,1,Completed,true,false,false
+UA007092,11 Sep 22,9,Victory Park,Dendy Park,No. 2,Jack Campbell,Josh Telford,Jack Campbell,7-5,7,5,1,0,Completed,true,false,false
+UA007092,11 Sep 22,9,Victory Park,Dendy Park,No. 3,Ishaan Tiwari,Alexandra Telford,Alexandra Telford,6-7,6,7,0,1,Completed,true,false,false
+UA007092,11 Sep 22,9,Victory Park,Dendy Park,No. 4,Mitch Cassidy,Grace Edwards,Grace Edwards,4-6,4,6,0,1,Completed,true,false,false
+UA007093,11 Sep 22,9,Le Page,Royal South Yarra,No. 1,James Polygenis,Flo Baillieu,James Polygenis,6-2,6,2,1,0,Completed,true,false,false
+UA007093,11 Sep 22,9,Le Page,Royal South Yarra,No. 2,Lochlan Bradley,Mara Tausan,Lochlan Bradley,6-1,6,1,1,0,Completed,true,false,false
+UA007093,11 Sep 22,9,Le Page,Royal South Yarra,No. 3,James Katakouzinos,Nathan Lin,James Katakouzinos,6-3,6,3,1,0,Completed,true,false,false
+UA007093,11 Sep 22,9,Le Page,Royal South Yarra,No. 4,Mitchell Campbell,Will Howitt,Mitchell Campbell,6-4,6,4,1,0,Completed,true,false,false
+UA007101,09 Oct 22,10,Black Rock,BLTC,No. 1,James Gilbert,Ben Banks,Ben Banks,2-6,2,6,0,1,Completed,true,false,false
+UA007101,09 Oct 22,10,Black Rock,BLTC,No. 2,Jules Harris-Ure,Liam Walters,Liam Walters,3-6,3,6,0,1,Completed,true,false,false
+UA007101,09 Oct 22,10,Black Rock,BLTC,No. 3,Ella Rankin,Andrew Livermore,Andrew Livermore,3-6,3,6,0,1,Completed,true,false,false
+UA007101,09 Oct 22,10,Black Rock,BLTC,No. 4,Emma Enkelman,Matvey Roche,Matvey Roche,1-6,1,6,0,1,Completed,true,false,false
+UA007102,09 Oct 22,10,Murrumbeena,Victory Park,No. 1,Aodhan Monteiro,Oliver Richards,Aodhan Monteiro,6-2,6,2,1,0,Completed,true,false,false
+UA007102,09 Oct 22,10,Murrumbeena,Victory Park,No. 2,Patrick Mills,Jack Campbell,Patrick Mills,6-3,6,3,1,0,Completed,true,false,false
+UA007102,09 Oct 22,10,Murrumbeena,Victory Park,No. 3,Tarenya Joshi,Mitch Cassidy,Tarenya Joshi,6-1,6,1,1,0,Completed,true,true,false
+UA007102,09 Oct 22,10,Murrumbeena,Victory Park,No. 4,Jacob Hong-Dunnett,Miles Kilcourse,Jacob Hong-Dunnett,6-1,6,1,1,0,Completed,true,true,true
+UA007103,09 Oct 22,10,Dendy Park,Le Page,No. 1,Angus Giles,James Polygenis,James Polygenis,6-7,6,7,0,1,Completed,true,false,false
+UA007103,09 Oct 22,10,Dendy Park,Le Page,No. 2,Alexandra Telford,Aryan Singh,Aryan Singh,1-6,1,6,0,1,Completed,true,false,false
+UA007103,09 Oct 22,10,Dendy Park,Le Page,No. 3,Grace Edwards,Lochlan Bradley,Grace Edwards,6-2,6,2,1,0,Completed,true,false,false
+UA007103,09 Oct 22,10,Dendy Park,Le Page,No. 4,Zara Fyfe,James Katakouzinos,James Katakouzinos,4-6,4,6,0,1,Completed,true,false,false
+UA007104,09 Oct 22,10,Royal South Yarra,St Andrews MB,No. 1,Flo Baillieu,Charlie Moulang,Flo Baillieu,6-1,6,1,1,0,Completed,true,false,false
+UA007104,09 Oct 22,10,Royal South Yarra,St Andrews MB,No. 2,Mara Tausan,Bob Njiffels,Mara Tausan,6-4,6,4,1,0,Completed,true,false,false
+UA007104,09 Oct 22,10,Royal South Yarra,St Andrews MB,No. 3,Yancheng Zhang,Max Looschilder,Yancheng Zhang,7-5,7,5,1,0,Completed,true,false,false
+UA007104,09 Oct 22,10,Royal South Yarra,St Andrews MB,No. 4,Will Howitt,Hanna Langridge,Hanna Langridge,6-7,6,7,0,1,Completed,true,false,false
+UA007111,16 Oct 22,11,BLTC,Royal South Yarra,No. 1,Ben Banks,Phoebe Ollerenshaw,Ben Banks,6-1,6,1,1,0,Completed,true,false,false
+UA007111,16 Oct 22,11,BLTC,Royal South Yarra,No. 2,Liam Walters,Isabella Soutter,Liam Walters,6-2,6,2,1,0,Completed,true,false,false
+UA007111,16 Oct 22,11,BLTC,Royal South Yarra,No. 3,Andrew Livermore,Yancheng Zhang,Andrew Livermore,6-0,6,0,1,0,Completed,true,false,false
+UA007111,16 Oct 22,11,BLTC,Royal South Yarra,No. 4,Lucas Sleep,Will Howitt,Lucas Sleep,6-2,6,2,1,0,Completed,true,true,false
+UA007113,16 Oct 22,11,Le Page,Murrumbeena,No. 1,James Polygenis,Aodhan Monteiro,James Polygenis,6-3,6,3,1,0,Completed,true,false,false
+UA007113,16 Oct 22,11,Le Page,Murrumbeena,No. 2,Aryan Singh,Patrick Mills,Patrick Mills,3-6,3,6,0,1,Completed,true,false,false
+UA007113,16 Oct 22,11,Le Page,Murrumbeena,No. 3,Lochlan Bradley,Ruby Huggins,Lochlan Bradley,7-6,7,6,1,0,Completed,true,false,false
+UA007113,16 Oct 22,11,Le Page,Murrumbeena,No. 4,James Katakouzinos,Tarenya Joshi,Tarenya Joshi,1-6,1,6,0,1,Completed,true,false,true
+UA007114,16 Oct 22,11,St Andrews MB,Dendy Park,No. 1,Charlie Moulang,Angus Giles,Angus Giles,0-6,0,6,0,1,Completed,true,false,false
+UA007114,16 Oct 22,11,St Andrews MB,Dendy Park,No. 2,Mika Looschilder,Josh Telford,Josh Telford,3-6,3,6,0,1,Completed,true,false,false
+UA007114,16 Oct 22,11,St Andrews MB,Dendy Park,No. 3,Max Looschilder,Uma Nijffles,Max Looschilder,6-0,6,0,1,0,Completed,true,false,false
+UA007114,16 Oct 22,11,St Andrews MB,Dendy Park,No. 4,Hanna Langridge,Zara Fyfe,Hanna Langridge,6-3,6,3,1,0,Completed,true,false,false
+UA007121,23 Oct 22,12,St Andrews MB,Le Page,No. 1,Bob Njiffels,James Polygenis,James Polygenis,1-6,1,6,0,1,Completed,true,false,false
+UA007121,23 Oct 22,12,St Andrews MB,Le Page,No. 2,Mika Looschilder,Lochlan Bradley,Lochlan Bradley,2-6,2,6,0,1,Completed,true,false,false
+UA007121,23 Oct 22,12,St Andrews MB,Le Page,No. 3,Max Looschilder,James Katakouzinos,Max Looschilder,6-2,6,2,1,0,Completed,true,false,false
+UA007121,23 Oct 22,12,St Andrews MB,Le Page,No. 4,[Unnamed player — TROLS UA007121 home code 4],Mitchell Campbell,Mitchell Campbell,0-6,0,6,0,1,Completed,false,false,false
+UA007122,23 Oct 22,12,Black Rock,Murrumbeena,No. 1,James Gilbert,Aodhan Monteiro,James Gilbert,6-4,6,4,1,0,Completed,true,false,false
+UA007122,23 Oct 22,12,Black Rock,Murrumbeena,No. 2,Jules Harris-Ure,Patrick Mills,Patrick Mills,1-6,1,6,0,1,Completed,true,false,false
+UA007122,23 Oct 22,12,Black Rock,Murrumbeena,No. 3,Ella Rankin,Tarenya Joshi,Tarenya Joshi,0-6,0,6,0,1,Completed,true,false,true
+UA007122,23 Oct 22,12,Black Rock,Murrumbeena,No. 4,Natalie Dureau,Jacob Hong-Dunnett,Jacob Hong-Dunnett,5-7,5,7,0,1,Completed,true,false,true
+UA007123,23 Oct 22,12,Dendy Park,Royal South Yarra,No. 1,Angus Giles,Phoebe Ollerenshaw,Angus Giles,6-0,6,0,1,0,Completed,true,false,false
+UA007123,23 Oct 22,12,Dendy Park,Royal South Yarra,No. 2,Josh Telford,Nathan Lin,Nathan Lin,1-6,1,6,0,1,Completed,true,false,false
+UA007123,23 Oct 22,12,Dendy Park,Royal South Yarra,No. 3,Grace Edwards,Yancheng Zhang,Grace Edwards,6-2,6,2,1,0,Completed,true,false,false
+UA007123,23 Oct 22,12,Dendy Park,Royal South Yarra,No. 4,Uma Nijffles,Will Howitt,Will Howitt,0-6,0,6,0,1,Completed,true,false,false
+UA007124,23 Oct 22,12,Victory Park,BLTC,No. 1,Oliver Richards,Ben Banks,Ben Banks,3-6,3,6,0,1,Completed,true,false,false
+UA007124,23 Oct 22,12,Victory Park,BLTC,No. 2,Oliver Kilcourse,Liam Walters,Liam Walters,1-6,1,6,0,1,Completed,true,true,false
+UA007124,23 Oct 22,12,Victory Park,BLTC,No. 3,Cassidy Richards,Andrew Livermore,Andrew Livermore,0-6,0,6,0,1,Completed,true,true,false
+UA007124,23 Oct 22,12,Victory Park,BLTC,No. 4,Mitch Cassidy,Matvey Roche,Matvey Roche,0-6,0,6,0,1,Completed,true,false,false
+UA007131,06 Nov 22,13,Le Page,Victory Park,No. 1,James Polygenis,Oliver Richards,James Polygenis,6-3,6,3,1,0,Completed,true,false,false
+UA007131,06 Nov 22,13,Le Page,Victory Park,No. 2,Aryan Singh,Greg Kurani,Aryan Singh,6-0,6,0,1,0,Completed,true,false,true
+UA007131,06 Nov 22,13,Le Page,Victory Park,No. 3,Lochlan Bradley,Cooper Neal,Lochlan Bradley,6-2,6,2,1,0,Completed,true,false,true
+UA007131,06 Nov 22,13,Le Page,Victory Park,No. 4,Mitchell Campbell,Mitch Cassidy,Mitchell Campbell,6-1,6,1,1,0,Completed,true,false,false
+UA007132,06 Nov 22,13,BLTC,St Andrews MB,No. 1,Ben Banks,Bob Njiffels,Ben Banks,6-4,6,4,1,0,Completed,true,false,false
+UA007132,06 Nov 22,13,BLTC,St Andrews MB,No. 2,Liam Walters,Mika Looschilder,Liam Walters,6-3,6,3,1,0,Completed,true,false,false
+UA007132,06 Nov 22,13,BLTC,St Andrews MB,No. 3,Andrew Livermore,Max Looschilder,Max Looschilder,1-6,1,6,0,1,Completed,true,false,false
+UA007132,06 Nov 22,13,BLTC,St Andrews MB,No. 4,Matvey Roche,Hanna Langridge,Matvey Roche,6-0,6,0,1,0,Completed,true,false,false
+UA007133,06 Nov 22,13,Royal South Yarra,Black Rock,No. 1,Phoebe Ollerenshaw,Ella Rankin,Ella Rankin,1-6,1,6,0,1,Completed,true,false,false
+UA007133,06 Nov 22,13,Royal South Yarra,Black Rock,No. 2,Isabella Soutter,Emma Enkelman,Emma Enkelman,4-6,4,6,0,1,Completed,true,false,false
+UA007133,06 Nov 22,13,Royal South Yarra,Black Rock,No. 3,Flo Baillieu,Natalie Dureau,Flo Baillieu,6-2,6,2,1,0,Completed,true,false,false
+UA007133,06 Nov 22,13,Royal South Yarra,Black Rock,No. 4,Yancheng Zhang,Alex Enkelman,Alex Enkelman,3-6,3,6,0,1,Completed,true,false,true
+UA007134,06 Nov 22,13,Murrumbeena,Dendy Park,No. 1,Patrick Mills,Angus Giles,Angus Giles,0-6,0,6,0,1,Completed,true,false,false
+UA007134,06 Nov 22,13,Murrumbeena,Dendy Park,No. 2,Ruby Huggins,Josh Telford,Josh Telford,4-6,4,6,0,1,Completed,true,false,false
+UA007134,06 Nov 22,13,Murrumbeena,Dendy Park,No. 3,Tarenya Joshi,Alexandra Telford,Tarenya Joshi,6-2,6,2,1,0,Completed,true,true,false
+UA007134,06 Nov 22,13,Murrumbeena,Dendy Park,No. 4,Jacob Hong-Dunnett,Grace Edwards,Jacob Hong-Dunnett,6-3,6,3,1,0,Completed,true,true,false
+UA007141,13 Nov 22,14,Le Page,BLTC,No. 1,James Polygenis,Liam Walters,James Polygenis,6-3,6,3,1,0,Completed,true,false,false
+UA007141,13 Nov 22,14,Le Page,BLTC,No. 2,Lochlan Bradley,Andrew Livermore,Lochlan Bradley,6-2,6,2,1,0,Completed,true,false,false
+UA007141,13 Nov 22,14,Le Page,BLTC,No. 3,James Katakouzinos,Matvey Roche,Matvey Roche,3-6,3,6,0,1,Completed,true,false,false
+UA007141,13 Nov 22,14,Le Page,BLTC,No. 4,Mitchell Campbell,Lucas Sleep,Lucas Sleep,0-6,0,6,0,1,Completed,true,false,true
+UA007142,13 Nov 22,14,St Andrews MB,Victory Park,No. 1,Charlie Moulang,Oliver Richards,Oliver Richards,2-6,2,6,0,1,Completed,true,false,false
+UA007142,13 Nov 22,14,St Andrews MB,Victory Park,No. 2,Bob Njiffels,Elliott Collins,Bob Njiffels,6-1,6,1,1,0,Completed,true,false,true
+UA007142,13 Nov 22,14,St Andrews MB,Victory Park,No. 3,Mika Looschilder,Cassidy Richards,Mika Looschilder,6-2,6,2,1,0,Completed,true,false,true
+UA007142,13 Nov 22,14,St Andrews MB,Victory Park,No. 4,Hanna Langridge,Mitch Cassidy,Hanna Langridge,6-0,6,0,1,0,Completed,true,false,false
+UA007143,13 Nov 22,14,Royal South Yarra,Murrumbeena,No. 1,Mara Tausan,[Unnamed player — TROLS UA007143 away code 1],Mara Tausan,6-0,6,0,1,0,Completed,false,false,false
+UA007143,13 Nov 22,14,Royal South Yarra,Murrumbeena,No. 2,Yancheng Zhang,Patrick Mills,Patrick Mills,1-6,1,6,0,1,Completed,true,false,false
+UA007143,13 Nov 22,14,Royal South Yarra,Murrumbeena,No. 3,Nathan Lin,Tarenya Joshi,Nathan Lin,7-5,7,5,1,0,Completed,true,false,true
+UA007143,13 Nov 22,14,Royal South Yarra,Murrumbeena,No. 4,Will Howitt,Jacob Hong-Dunnett,Jacob Hong-Dunnett,3-6,3,6,0,1,Completed,true,false,true
+UA007144,13 Nov 22,14,Dendy Park,Black Rock,No. 1,Angus Giles,Jules Harris-Ure,Angus Giles,6-0,6,0,1,0,Completed,true,false,false
+UA007144,13 Nov 22,14,Dendy Park,Black Rock,No. 2,Grace Edwards,Ella Rankin,Ella Rankin,1-6,1,6,0,1,Completed,true,false,false
+UA007144,13 Nov 22,14,Dendy Park,Black Rock,No. 3,Uma Nijffles,Emma Enkelman,Emma Enkelman,1-6,1,6,0,1,Completed,true,false,false
+UA007144,13 Nov 22,14,Dendy Park,Black Rock,No. 4,Zara Fyfe,Natalie Dureau,Zara Fyfe,6-0,6,0,1,0,Completed,true,false,false
+UA007301,,16,BLTC,St Andrews MB,No. 1,Ben Banks,Bob Njiffels,Ben Banks,7-5,7,5,1,0,Completed,true,false,false
+UA007301,,16,BLTC,St Andrews MB,No. 2,Liam Walters,Mika Looschilder,Mika Looschilder,4-6,4,6,0,1,Completed,true,false,false
+UA007301,,16,BLTC,St Andrews MB,No. 3,Andrew Livermore,Max Looschilder,Andrew Livermore,6-4,6,4,1,0,Completed,true,false,false
+UA007301,,16,BLTC,St Andrews MB,No. 4,Matvey Roche,Hanna Langridge,Matvey Roche,6-2,6,2,1,0,Completed,true,false,false
+UA007302,,16,Le Page,Murrumbeena,No. 1,James Polygenis,Aodhan Monteiro,James Polygenis,6-2,6,2,1,0,Completed,true,false,false
+UA007302,,16,Le Page,Murrumbeena,No. 2,Aryan Singh,Patrick Mills,Aryan Singh,7-6,7,6,1,0,Completed,true,false,false
+UA007302,,16,Le Page,Murrumbeena,No. 3,Lochlan Bradley,Tarenya Joshi,Tarenya Joshi,3-6,3,6,0,1,Completed,true,false,true
+UA007302,,16,Le Page,Murrumbeena,No. 4,James Katakouzinos,Jacob Hong-Dunnett,Jacob Hong-Dunnett,3-6,3,6,0,1,Completed,true,false,true
+UA007321,,17,BLTC,Murrumbeena,No. 1,Ben Banks,Aodhan Monteiro,Aodhan Monteiro,3-6,3,6,0,1,Completed,true,false,false
+UA007321,,17,BLTC,Murrumbeena,No. 2,Liam Walters,Patrick Mills,Liam Walters,7-6,7,6,1,0,Completed,true,false,false
+UA007321,,17,BLTC,Murrumbeena,No. 3,Andrew Livermore,Ruby Huggins,Ruby Huggins,0-6,0,6,0,1,Completed,true,false,false
+UA007321,,17,BLTC,Murrumbeena,No. 4,Matvey Roche,Tarenya Joshi,Matvey Roche,7-5,7,5,1,0,Completed,true,false,true

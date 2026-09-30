@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA14-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2014",
+  "season_id": "UA14",
+  "season_label": "Autumn 2014",
+  "source_section_code": "UA017",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Le Page",
+      "wins": 10,
+      "points": 103,
+      "percentage": 252.32,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Lauriston",
+      "wins": 9,
+      "points": 90,
+      "percentage": 169.9,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Bodley Tennis Plus",
+      "wins": 7,
+      "points": 67.5,
+      "percentage": 104.95,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Aspendale",
+      "wins": 7,
+      "points": 63,
+      "percentage": 101.36,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC 1",
+      "wins": 3,
+      "points": 48,
+      "percentage": 87.21,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC",
+      "wins": 2,
+      "points": 32,
+      "percentage": 56.64,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC 2",
+      "wins": 0,
+      "points": 16.5,
+      "percentage": 45.65,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA14-UA017",
+  "fixtures": 59,
+  "completed_fixtures": 42,
+  "draw_fixtures": 45,
+  "singles_rubbers": 167,
+  "doubles_rubbers": 84,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

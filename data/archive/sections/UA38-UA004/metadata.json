@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA38-UA004",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2026",
+  "season_id": "UA38",
+  "season_label": "Autumn 2026",
+  "source_section_code": "UA004",
+  "section_label": "Sets 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World Blue",
+      "wins": 11,
+      "points": 106,
+      "percentage": 153.04,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Murrumbeena",
+      "wins": 10,
+      "points": 104,
+      "percentage": 170.27,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Kings Park",
+      "wins": 7,
+      "points": 79,
+      "percentage": 102.73,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Elsternwick Park",
+      "wins": 7,
+      "points": 76,
+      "percentage": 103.08,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Tennis World Green",
+      "wins": 5,
+      "points": 67,
+      "percentage": 94.0,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal South Yarra",
+      "wins": 4,
+      "points": 46,
+      "percentage": 66.57,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Hurlingham Park",
+      "wins": 2,
+      "points": 43,
+      "percentage": 83.64,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "BLTC",
+      "wins": 2,
+      "points": 39,
+      "percentage": 68.0,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA38-UA004",
+  "fixtures": 59,
+  "completed_fixtures": 49,
+  "draw_fixtures": 59,
+  "singles_rubbers": 192,
+  "doubles_rubbers": 98,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

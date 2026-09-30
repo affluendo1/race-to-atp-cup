@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA24-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2019",
+  "season_id": "UA24",
+  "season_label": "Autumn 2019",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Coatesville",
+      "wins": 14,
+      "points": 120,
+      "percentage": 180.4,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Bentleigh Rec",
+      "wins": 10,
+      "points": 104,
+      "percentage": 166.14,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "BLTC",
+      "wins": 7,
+      "points": 74,
+      "percentage": 106.71,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong Scotch",
+      "wins": 7,
+      "points": 74,
+      "percentage": 103.15,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Parkdale",
+      "wins": 5,
+      "points": 70,
+      "percentage": 109.45,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Lauriston",
+      "wins": 5,
+      "points": 59,
+      "percentage": 83.08,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra",
+      "wins": 2,
+      "points": 32,
+      "percentage": 64.68,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave",
+      "wins": 2,
+      "points": 27,
+      "percentage": 51.55,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA24-UA014",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 59,
+  "singles_rubbers": 228,
+  "doubles_rubbers": 114,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

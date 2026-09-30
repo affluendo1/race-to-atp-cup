@@ -1,0 +1,83 @@
+{
+  "asset_id": "AA43-AA003",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Autumn 2018",
+  "season_id": "AA43",
+  "season_label": "Autumn 2018",
+  "source_section_code": "AA003",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite 1",
+      "wins": 9,
+      "points": 93,
+      "percentage": 194.67,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Kooyong MLC1",
+      "wins": 9,
+      "points": 91,
+      "percentage": 164.58,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Port Melbourne",
+      "wins": 7,
+      "points": 79,
+      "percentage": 148.56,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Carmelite 2",
+      "wins": 4,
+      "points": 56,
+      "percentage": 97.74,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong MLC2",
+      "wins": 4,
+      "points": 49,
+      "percentage": 83.59,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong MLC3",
+      "wins": 1,
+      "points": 26,
+      "percentage": 51.23,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Carmelite 3",
+      "wins": 0,
+      "points": 26,
+      "percentage": 44.55,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA43-AA003",
+  "fixtures": 59,
+  "completed_fixtures": 38,
+  "draw_fixtures": 59,
+  "singles_rubbers": 152,
+  "doubles_rubbers": 76,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

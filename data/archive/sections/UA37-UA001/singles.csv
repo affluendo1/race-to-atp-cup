@@ -1,0 +1,197 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA001011,27 Jul 25,1,BLTC White,Carmelite,No. 1,Matvey Roche,Charlie Smit,Matvey Roche,6-2,6,2,1,0,Completed,true,false,false
+UA001011,27 Jul 25,1,BLTC White,Carmelite,No. 2,Lucas Sleep,Omar Kamel,Lucas Sleep,7-6,7,6,1,0,Completed,true,false,false
+UA001011,27 Jul 25,1,BLTC White,Carmelite,No. 3,Kabeer Gursahani,Nicholas Peyerl,Kabeer Gursahani,6-0,6,0,1,0,Completed,true,false,false
+UA001011,27 Jul 25,1,BLTC White,Carmelite,No. 4,Andrew Livermore,Jack Walters,Andrew Livermore,6-0,6,0,1,0,Completed,true,false,true
+UA001012,27 Jul 25,1,Royal South Yarra,Highmoor Uniting,No. 1,Tom Anderson,Marsha Kagan,Marsha Kagan,4-6,4,6,0,1,Completed,true,false,false
+UA001012,27 Jul 25,1,Royal South Yarra,Highmoor Uniting,No. 2,Connor Le Page,Luke Young,Luke Young,6-7,6,7,0,1,Completed,true,false,false
+UA001012,27 Jul 25,1,Royal South Yarra,Highmoor Uniting,No. 3,Harry Anderson,Luka Suluburic,Luka Suluburic,1-6,1,6,0,1,Completed,true,false,false
+UA001012,27 Jul 25,1,Royal South Yarra,Highmoor Uniting,No. 4,Maia Gurov,Lucas Watson-thorp,Maia Gurov,6-0,6,0,1,0,Completed,true,false,true
+UA001013,27 Jul 25,1,Glen Huntly,Black Rock,No. 1,Jeremy Thai,Austin Taleb,Jeremy Thai,6-4,6,4,1,0,Completed,true,false,false
+UA001013,27 Jul 25,1,Glen Huntly,Black Rock,No. 2,Antoine Maziarz,Jack James,Jack James,6-7,6,7,0,1,Completed,true,false,false
+UA001013,27 Jul 25,1,Glen Huntly,Black Rock,No. 3,Tate Nguyen,Ethan Kleiman,Ethan Kleiman,5-7,5,7,0,1,Completed,true,false,false
+UA001013,27 Jul 25,1,Glen Huntly,Black Rock,No. 4,Tim Kalapoutis,Joseph Desmond,Joseph Desmond,1-6,1,6,0,1,Completed,true,true,false
+UA001014,27 Jul 25,1,BLTC Blue,BLTC Red,No. 1,Hudson Close,Harry Toomey,Harry Toomey,2-6,2,6,0,1,Completed,true,false,false
+UA001014,27 Jul 25,1,BLTC Blue,BLTC Red,No. 2,Ray Lai Cheong,Gideon Gomes,Ray Lai Cheong,6-1,6,1,1,0,Completed,true,false,false
+UA001014,27 Jul 25,1,BLTC Blue,BLTC Red,No. 3,Ryan Dong,Marco Zhou,Ryan Dong,6-0,6,0,1,0,Completed,true,false,false
+UA001014,27 Jul 25,1,BLTC Blue,BLTC Red,No. 4,Matthew Mizera,Max Henderson,Matthew Mizera,6-0,6,0,1,0,Completed,true,false,false
+UA001021,03 Aug 25,2,BLTC Red,BLTC White,No. 1,Harry Toomey,Matvey Roche,Harry Toomey,6-4,6,4,1,0,Completed,true,false,false
+UA001021,03 Aug 25,2,BLTC Red,BLTC White,No. 2,Max Henderson,William Chu,William Chu,1-6,1,6,0,1,Completed,true,false,false
+UA001021,03 Aug 25,2,BLTC Red,BLTC White,No. 3,Marco Zhou,Lucas Sleep,Lucas Sleep,1-6,1,6,0,1,Completed,true,false,false
+UA001021,03 Aug 25,2,BLTC Red,BLTC White,No. 4,Samuel Jena,Tobias Malone,Tobias Malone,0-6,0,6,0,1,Completed,true,true,false
+UA001022,03 Aug 25,2,Carmelite,Royal South Yarra,No. 1,Danill Levashov,Connor Le Page,Danill Levashov,6-2,6,2,1,0,Completed,true,false,false
+UA001022,03 Aug 25,2,Carmelite,Royal South Yarra,No. 2,Jakob Schmollinger,Stella Kephala,Stella Kephala,2-6,2,6,0,1,Completed,true,false,true
+UA001022,03 Aug 25,2,Carmelite,Royal South Yarra,No. 3,Nicholas Peyerl,Lucas Ding,Lucas Ding,0-6,0,6,0,1,Completed,true,false,false
+UA001022,03 Aug 25,2,Carmelite,Royal South Yarra,No. 4,Jack Walters,Maia Gurov,Maia Gurov,2-6,2,6,0,1,Completed,true,true,false
+UA001023,03 Aug 25,2,Highmoor Uniting,Glen Huntly,No. 1,Erik Bucko,Antoine Maziarz,Erik Bucko,6-2,6,2,1,0,Completed,true,false,false
+UA001023,03 Aug 25,2,Highmoor Uniting,Glen Huntly,No. 2,Sinbad Kozelski,Tate Nguyen,Tate Nguyen,0-6,0,6,0,1,Completed,true,false,false
+UA001023,03 Aug 25,2,Highmoor Uniting,Glen Huntly,No. 3,Marsha Kagan,Tim Kalapoutis,Marsha Kagan,6-0,6,0,1,0,Completed,true,false,true
+UA001023,03 Aug 25,2,Highmoor Uniting,Glen Huntly,No. 4,Luka Suluburic,Atticus Dhimann,Luka Suluburic,6-3,6,3,1,0,Completed,true,false,true
+UA001024,03 Aug 25,2,Black Rock,BLTC Blue,No. 1,Austin Taleb,Hudson Close,Hudson Close,3-6,3,6,0,1,Completed,true,false,false
+UA001024,03 Aug 25,2,Black Rock,BLTC Blue,No. 2,Lewis Smith,Ryan Dong,Ryan Dong,0-6,0,6,0,1,Completed,true,false,false
+UA001024,03 Aug 25,2,Black Rock,BLTC Blue,No. 3,Joseph Desmond,Matthew Mizera,Matthew Mizera,3-6,3,6,0,1,Completed,true,false,false
+UA001024,03 Aug 25,2,Black Rock,BLTC Blue,No. 4,Luke Desmond,Charlie Pettifer,Charlie Pettifer,3-6,3,6,0,1,Completed,true,false,false
+UA001031,10 Aug 25,3,BLTC White,Black Rock,No. 1,William Chu,Austin Taleb,Austin Taleb,2-6,2,6,0,1,Completed,true,false,false
+UA001031,10 Aug 25,3,BLTC White,Black Rock,No. 2,Lucas Sleep,Jack James,Lucas Sleep,6-2,6,2,1,0,Completed,true,false,false
+UA001031,10 Aug 25,3,BLTC White,Black Rock,No. 3,Kabeer Gursahani,Joseph Desmond,Kabeer Gursahani,6-3,6,3,1,0,Completed,true,false,false
+UA001031,10 Aug 25,3,BLTC White,Black Rock,No. 4,Andrew Livermore,Luke Desmond,Luke Desmond,4-6,4,6,0,1,Completed,true,false,false
+UA001032,10 Aug 25,3,Royal South Yarra,BLTC Red,No. 1,Tom Anderson,Caleb Jackson-Wright,Caleb Jackson-Wright,4-6,4,6,0,1,Completed,true,false,false
+UA001032,10 Aug 25,3,Royal South Yarra,BLTC Red,No. 2,Connor Le Page,Gideon Gomes,Connor Le Page,6-3,6,3,1,0,Completed,true,false,false
+UA001032,10 Aug 25,3,Royal South Yarra,BLTC Red,No. 3,Lucas Ding,Marco Zhou,Lucas Ding,6-4,6,4,1,0,Completed,true,false,false
+UA001032,10 Aug 25,3,Royal South Yarra,BLTC Red,No. 4,Sebastian Ng,Emir Zmak,Sebastian Ng,6-4,6,4,1,0,Completed,true,false,true
+UA001033,10 Aug 25,3,Glen Huntly,Carmelite,No. 1,Alistair Cairns,Danill Levashov,Alistair Cairns,6-0,6,0,1,0,Completed,true,false,false
+UA001033,10 Aug 25,3,Glen Huntly,Carmelite,No. 2,Jeremy Thai,Jakob Schmollinger,Jeremy Thai,6-2,6,2,1,0,Completed,true,false,false
+UA001033,10 Aug 25,3,Glen Huntly,Carmelite,No. 3,Tate Nguyen,Nicholas Peyerl,Tate Nguyen,6-0,6,0,1,0,Completed,true,false,false
+UA001033,10 Aug 25,3,Glen Huntly,Carmelite,No. 4,Tim Kalapoutis,Jack Walters,Tim Kalapoutis,6-3,6,3,1,0,Completed,true,true,true
+UA001034,10 Aug 25,3,BLTC Blue,Highmoor Uniting,No. 1,Hudson Close,Erik Bucko,Hudson Close,7-5,7,5,1,0,Completed,true,false,false
+UA001034,10 Aug 25,3,BLTC Blue,Highmoor Uniting,No. 2,Ray Lai Cheong,Sinbad Kozelski,Ray Lai Cheong,6-3,6,3,1,0,Completed,true,false,false
+UA001034,10 Aug 25,3,BLTC Blue,Highmoor Uniting,No. 3,Charlie Pettifer,Marsha Kagan,Charlie Pettifer,6-1,6,1,1,0,Completed,true,false,false
+UA001034,10 Aug 25,3,BLTC Blue,Highmoor Uniting,No. 4,Aiden Dong,Luka Suluburic,Luka Suluburic,5-7,5,7,0,1,Completed,true,true,false
+UA001041,17 Aug 25,4,Highmoor Uniting,BLTC White,No. 1,Sinbad Kozelski,Matvey Roche,Matvey Roche,0-6,0,6,0,1,Completed,true,false,false
+UA001041,17 Aug 25,4,Highmoor Uniting,BLTC White,No. 2,Marsha Kagan,Kabeer Gursahani,Kabeer Gursahani,1-6,1,6,0,1,Completed,true,false,false
+UA001041,17 Aug 25,4,Highmoor Uniting,BLTC White,No. 3,Lazar Suluburic,Tobias Malone,Tobias Malone,5-7,5,7,0,1,Completed,true,false,false
+UA001041,17 Aug 25,4,Highmoor Uniting,BLTC White,No. 4,Luka Suluburic,Andrew Livermore,Andrew Livermore,5-7,5,7,0,1,Completed,true,false,false
+UA001042,17 Aug 25,4,Black Rock,Royal South Yarra,No. 1,Austin Taleb,Tom Anderson,Austin Taleb,6-1,6,1,1,0,Completed,true,false,false
+UA001042,17 Aug 25,4,Black Rock,Royal South Yarra,No. 2,Max Looschilder,Maia Gurov,Max Looschilder,7-6,7,6,1,0,Completed,true,false,false
+UA001042,17 Aug 25,4,Black Rock,Royal South Yarra,No. 3,Joseph Desmond,Harry Anderson,Harry Anderson,0-6,0,6,0,1,Completed,true,false,false
+UA001042,17 Aug 25,4,Black Rock,Royal South Yarra,No. 4,Luke Desmond,Sebastian Ng,Sebastian Ng,5-7,5,7,0,1,Completed,true,false,false
+UA001043,17 Aug 25,4,BLTC Red,Glen Huntly,No. 1,Harry Toomey,Juan Thomas,Harry Toomey,6-1,6,1,1,0,Completed,true,false,true
+UA001043,17 Aug 25,4,BLTC Red,Glen Huntly,No. 2,Gideon Gomes,Tate Nguyen,Gideon Gomes,6-0,6,0,1,0,Completed,true,false,false
+UA001043,17 Aug 25,4,BLTC Red,Glen Huntly,No. 3,Max Henderson,Atticus Dhimann,Max Henderson,6-0,6,0,1,0,Completed,true,false,true
+UA001043,17 Aug 25,4,BLTC Red,Glen Huntly,No. 4,Marco Zhou,Nile Roberts,Marco Zhou,6-4,6,4,1,0,Completed,true,false,true
+UA001044,17 Aug 25,4,Carmelite,BLTC Blue,No. 1,Danill Levashov,Hudson Close,Hudson Close,0-6,0,6,0,1,Completed,true,false,false
+UA001044,17 Aug 25,4,Carmelite,BLTC Blue,No. 2,Charlie Smit,Ray Lai Cheong,Ray Lai Cheong,2-6,2,6,0,1,Completed,true,false,false
+UA001044,17 Aug 25,4,Carmelite,BLTC Blue,No. 3,Jakob Schmollinger,Charlie Pettifer,Jakob Schmollinger,6-3,6,3,1,0,Completed,true,false,false
+UA001044,17 Aug 25,4,Carmelite,BLTC Blue,No. 4,Omar Kamel,Aiden Dong,Omar Kamel,6-1,6,1,1,0,Completed,true,false,true
+UA001051,24 Aug 25,5,Glen Huntly,BLTC Blue,No. 1,Alistair Cairns,Ray Lai Cheong,Alistair Cairns,6-2,6,2,1,0,Completed,true,false,false
+UA001051,24 Aug 25,5,Glen Huntly,BLTC Blue,No. 2,Jack McCormack,Ryan Dong,Ryan Dong,4-6,4,6,0,1,Completed,true,true,false
+UA001051,24 Aug 25,5,Glen Huntly,BLTC Blue,No. 3,Jeremy Thai,Matthew Mizera,Matthew Mizera,4-6,4,6,0,1,Completed,true,false,false
+UA001051,24 Aug 25,5,Glen Huntly,BLTC Blue,No. 4,Tate Nguyen,Charlie Pettifer,Tate Nguyen,6-2,6,2,1,0,Completed,true,false,false
+UA001052,24 Aug 25,5,BLTC Red,Black Rock,No. 1,Harry Toomey,Austin Taleb,Harry Toomey,7-5,7,5,1,0,Completed,true,false,false
+UA001052,24 Aug 25,5,BLTC Red,Black Rock,No. 2,Caleb Jackson-Wright,Jack James,Caleb Jackson-Wright,6-3,6,3,1,0,Completed,true,false,false
+UA001052,24 Aug 25,5,BLTC Red,Black Rock,No. 3,Max Henderson,Joseph Desmond,Max Henderson,6-2,6,2,1,0,Completed,true,false,false
+UA001052,24 Aug 25,5,BLTC Red,Black Rock,No. 4,Emir Zmak,Max Looschilder,Emir Zmak,6-1,6,1,1,0,Completed,true,true,false
+UA001053,24 Aug 25,5,Highmoor Uniting,Carmelite,No. 1,Luke Young,Danill Levashov,Danill Levashov,3-6,3,6,0,1,Completed,true,false,false
+UA001053,24 Aug 25,5,Highmoor Uniting,Carmelite,No. 2,Lazar Suluburic,Charlie Smit,Charlie Smit,4-6,4,6,0,1,Completed,true,false,false
+UA001053,24 Aug 25,5,Highmoor Uniting,Carmelite,No. 3,Luka Suluburic,Jakob Schmollinger,Luka Suluburic,6-2,6,2,1,0,Completed,true,false,false
+UA001053,24 Aug 25,5,Highmoor Uniting,Carmelite,No. 4,Adam Martin,Nicholas Peyerl,Nicholas Peyerl,0-6,0,6,0,1,Completed,true,true,false
+UA001054,24 Aug 25,5,BLTC White,Royal South Yarra,No. 1,William Chu,Connor Le Page,William Chu,6-1,6,1,1,0,Completed,true,false,false
+UA001054,24 Aug 25,5,BLTC White,Royal South Yarra,No. 2,Lucas Sleep,Lucas Ding,Lucas Sleep,6-3,6,3,1,0,Completed,true,false,false
+UA001054,24 Aug 25,5,BLTC White,Royal South Yarra,No. 3,Tobias Malone,Maia Gurov,Tobias Malone,6-4,6,4,1,0,Completed,true,false,false
+UA001054,24 Aug 25,5,BLTC White,Royal South Yarra,No. 4,Andrew Livermore,Harry Anderson,Andrew Livermore,6-0,6,0,1,0,Completed,true,false,false
+UA001061,31 Aug 25,6,Royal South Yarra,Glen Huntly,No. 1,Tom Anderson,Edward Ruckel,Edward Ruckel,2-6,2,6,0,1,Completed,true,false,true
+UA001061,31 Aug 25,6,Royal South Yarra,Glen Huntly,No. 2,Connor Le Page,Tate Nguyen,Connor Le Page,6-2,6,2,1,0,Completed,true,false,false
+UA001061,31 Aug 25,6,Royal South Yarra,Glen Huntly,No. 3,Lucas Ding,Isaac Egre,Lucas Ding,6-0,6,0,1,0,Completed,true,false,true
+UA001061,31 Aug 25,6,Royal South Yarra,Glen Huntly,No. 4,Sebastian Ng,Gabriel Torres Alvarez,Sebastian Ng,6-0,6,0,1,0,Completed,true,false,true
+UA001062,31 Aug 25,6,BLTC Blue,BLTC White,No. 1,Hudson Close,Matvey Roche,Hudson Close,6-2,6,2,1,0,Completed,true,false,false
+UA001062,31 Aug 25,6,BLTC Blue,BLTC White,No. 2,Ryan Dong,William Chu,Ryan Dong,7-5,7,5,1,0,Completed,true,false,false
+UA001062,31 Aug 25,6,BLTC Blue,BLTC White,No. 3,Diesel Reid,Kabeer Gursahani,Diesel Reid,7-6,7,6,1,0,Completed,true,false,false
+UA001062,31 Aug 25,6,BLTC Blue,BLTC White,No. 4,Charlie Pettifer,Lucas Sleep,Lucas Sleep,3-6,3,6,0,1,Completed,true,false,false
+UA001063,31 Aug 25,6,Black Rock,Highmoor Uniting,No. 1,Lewis Smith,Marsha Kagan,Marsha Kagan,2-6,2,6,0,1,Completed,true,false,false
+UA001063,31 Aug 25,6,Black Rock,Highmoor Uniting,No. 2,Jack James,Lazar Suluburic,Lazar Suluburic,5-7,5,7,0,1,Completed,true,false,false
+UA001063,31 Aug 25,6,Black Rock,Highmoor Uniting,No. 3,Joseph Desmond,Luka Suluburic,Luka Suluburic,2-6,2,6,0,1,Completed,true,false,false
+UA001063,31 Aug 25,6,Black Rock,Highmoor Uniting,No. 4,Luke Desmond,[Unnamed player — TROLS UA001063 away code 4],Luke Desmond,6-0,6,0,1,0,Completed,false,false,false
+UA001064,31 Aug 25,6,Carmelite,BLTC Red,No. 1,Danill Levashov,Caleb Jackson-Wright,Caleb Jackson-Wright,4-6,4,6,0,1,Completed,true,false,false
+UA001064,31 Aug 25,6,Carmelite,BLTC Red,No. 2,Charlie Smit,Gideon Gomes,Gideon Gomes,1-6,1,6,0,1,Completed,true,false,false
+UA001064,31 Aug 25,6,Carmelite,BLTC Red,No. 3,Jakob Schmollinger,Marco Zhou,Jakob Schmollinger,6-1,6,1,1,0,Completed,true,false,false
+UA001064,31 Aug 25,6,Carmelite,BLTC Red,No. 4,Nicholas Peyerl,Lucas Zhou,Lucas Zhou,2-6,2,6,0,1,Completed,true,false,false
+UA001071,07 Sep 25,7,BLTC White,Glen Huntly,No. 1,Matvey Roche,Alistair Cairns,Alistair Cairns,5-7,5,7,0,1,Completed,true,false,false
+UA001071,07 Sep 25,7,BLTC White,Glen Huntly,No. 2,Kabeer Gursahani,Jeremy Thai,Kabeer Gursahani,6-3,6,3,1,0,Completed,true,false,false
+UA001071,07 Sep 25,7,BLTC White,Glen Huntly,No. 3,Tobias Malone,Antoine Maziarz,Tobias Malone,6-4,6,4,1,0,Completed,true,false,false
+UA001071,07 Sep 25,7,BLTC White,Glen Huntly,No. 4,Andrew Livermore,Tate Nguyen,Tate Nguyen,6-7,6,7,0,1,Completed,true,false,false
+UA001072,07 Sep 25,7,Royal South Yarra,BLTC Blue,No. 1,Connor Le Page,Hudson Close,Hudson Close,2-6,2,6,0,1,Completed,true,false,false
+UA001072,07 Sep 25,7,Royal South Yarra,BLTC Blue,No. 2,Lucas Ding,Ray Lai Cheong,Ray Lai Cheong,1-6,1,6,0,1,Completed,true,false,false
+UA001072,07 Sep 25,7,Royal South Yarra,BLTC Blue,No. 3,Maia Gurov,Ryan Dong,Ryan Dong,1-6,1,6,0,1,Completed,true,false,false
+UA001072,07 Sep 25,7,Royal South Yarra,BLTC Blue,No. 4,Sebastian Ng,Matthew Mizera,Matthew Mizera,3-6,3,6,0,1,Completed,true,false,false
+UA001073,07 Sep 25,7,BLTC Red,Highmoor Uniting,No. 1,Caleb Jackson-Wright,Erik Bucko,Erik Bucko,4-6,4,6,0,1,Completed,true,false,false
+UA001073,07 Sep 25,7,BLTC Red,Highmoor Uniting,No. 2,Gideon Gomes,Marsha Kagan,Marsha Kagan,3-6,3,6,0,1,Completed,true,false,false
+UA001073,07 Sep 25,7,BLTC Red,Highmoor Uniting,No. 3,Max Henderson,Lazar Suluburic,Max Henderson,6-0,6,0,1,0,Completed,true,false,false
+UA001073,07 Sep 25,7,BLTC Red,Highmoor Uniting,No. 4,Emir Zmak,Luka Suluburic,Emir Zmak,6-0,6,0,1,0,Completed,true,true,false
+UA001074,07 Sep 25,7,Black Rock,Carmelite,No. 1,Lewis Smith,Danill Levashov,Danill Levashov,3-6,3,6,0,1,Completed,true,false,false
+UA001074,07 Sep 25,7,Black Rock,Carmelite,No. 2,Joseph Desmond,Charlie Smit,Charlie Smit,5-7,5,7,0,1,Completed,true,false,false
+UA001074,07 Sep 25,7,Black Rock,Carmelite,No. 3,Max Looschilder,Jakob Schmollinger,Jakob Schmollinger,4-6,4,6,0,1,Completed,true,false,false
+UA001074,07 Sep 25,7,Black Rock,Carmelite,No. 4,Luke Desmond,Xander Lovey,Luke Desmond,6-3,6,3,1,0,Completed,true,false,true
+UA001081,14 Sep 25,8,Carmelite,BLTC White,No. 1,Danill Levashov,Matvey Roche,Matvey Roche,2-6,2,6,0,1,Completed,true,false,false
+UA001081,14 Sep 25,8,Carmelite,BLTC White,No. 2,Charlie Smit,William Chu,William Chu,2-6,2,6,0,1,Completed,true,false,false
+UA001081,14 Sep 25,8,Carmelite,BLTC White,No. 3,Jakob Schmollinger,Lucas Sleep,Lucas Sleep,1-6,1,6,0,1,Completed,true,false,false
+UA001081,14 Sep 25,8,Carmelite,BLTC White,No. 4,Omar Kamel,Tobias Malone,Tobias Malone,2-6,2,6,0,1,Completed,true,false,false
+UA001082,14 Sep 25,8,Highmoor Uniting,Royal South Yarra,No. 1,Sinbad Kozelski,Tom Anderson,Tom Anderson,4-6,4,6,0,1,Completed,true,false,false
+UA001082,14 Sep 25,8,Highmoor Uniting,Royal South Yarra,No. 2,Marsha Kagan,Connor Le Page,Connor Le Page,5-7,5,7,0,1,Completed,true,false,false
+UA001082,14 Sep 25,8,Highmoor Uniting,Royal South Yarra,No. 3,Lazar Suluburic,Harry Anderson,Lazar Suluburic,6-2,6,2,1,0,Completed,true,false,false
+UA001082,14 Sep 25,8,Highmoor Uniting,Royal South Yarra,No. 4,Luka Suluburic,Sebastian Ng,Luka Suluburic,6-4,6,4,1,0,Completed,true,false,false
+UA001083,14 Sep 25,8,Black Rock,Glen Huntly,No. 1,Austin Taleb,Alistair Cairns,Austin Taleb,7-6,7,6,1,0,Completed,true,false,false
+UA001083,14 Sep 25,8,Black Rock,Glen Huntly,No. 2,Joseph Desmond,Jeremy Thai,Jeremy Thai,2-6,2,6,0,1,Completed,true,false,false
+UA001083,14 Sep 25,8,Black Rock,Glen Huntly,No. 3,Max Looschilder,Antoine Maziarz,Max Looschilder,6-1,6,1,1,0,Completed,true,false,false
+UA001083,14 Sep 25,8,Black Rock,Glen Huntly,No. 4,Luke Desmond,Tate Nguyen,Tate Nguyen,5-7,5,7,0,1,Completed,true,false,false
+UA001084,14 Sep 25,8,BLTC Red,BLTC Blue,No. 1,Harry Toomey,Hudson Close,Harry Toomey,6-3,6,3,1,0,Completed,true,false,false
+UA001084,14 Sep 25,8,BLTC Red,BLTC Blue,No. 2,Gideon Gomes,Ray Lai Cheong,Ray Lai Cheong,0-6,0,6,0,1,Completed,true,false,false
+UA001084,14 Sep 25,8,BLTC Red,BLTC Blue,No. 3,Max Henderson,Ryan Dong,Max Henderson,7-6,7,6,1,0,Completed,true,false,false
+UA001084,14 Sep 25,8,BLTC Red,BLTC Blue,No. 4,Marco Zhou,Charlie Pettifer,Charlie Pettifer,2-6,2,6,0,1,Completed,true,false,false
+UA001091,12 Oct 25,9,BLTC White,BLTC Red,No. 1,Matvey Roche,Gideon Gomes,Matvey Roche,6-1,6,1,1,0,Completed,true,false,false
+UA001091,12 Oct 25,9,BLTC White,BLTC Red,No. 2,Kabeer Gursahani,Max Henderson,Kabeer Gursahani,7-6,7,6,1,0,Completed,true,false,false
+UA001091,12 Oct 25,9,BLTC White,BLTC Red,No. 3,Lucas Sleep,Marco Zhou,Lucas Sleep,6-1,6,1,1,0,Completed,true,false,false
+UA001091,12 Oct 25,9,BLTC White,BLTC Red,No. 4,Andrew Livermore,Lucas Zhou,Lucas Zhou,2-6,2,6,0,1,Completed,true,false,false
+UA001092,12 Oct 25,9,Royal South Yarra,Carmelite,No. 1,Tom Anderson,Danill Levashov,Danill Levashov,0-6,0,6,0,1,Completed,true,false,false
+UA001092,12 Oct 25,9,Royal South Yarra,Carmelite,No. 2,Connor Le Page,Charlie Smit,Charlie Smit,3-6,3,6,0,1,Completed,true,false,false
+UA001092,12 Oct 25,9,Royal South Yarra,Carmelite,No. 3,Lucas Ding,Jakob Schmollinger,Lucas Ding,6-4,6,4,1,0,Completed,true,false,false
+UA001092,12 Oct 25,9,Royal South Yarra,Carmelite,No. 4,Harry Anderson,Nicholas Peyerl,Harry Anderson,6-1,6,1,1,0,Completed,true,false,false
+UA001093,12 Oct 25,9,Glen Huntly,Highmoor Uniting,No. 1,Alistair Cairns,Sinbad Kozelski,Alistair Cairns,6-2,6,2,1,0,Completed,true,false,false
+UA001093,12 Oct 25,9,Glen Huntly,Highmoor Uniting,No. 2,Jeremy Thai,Luke Young,Jeremy Thai,6-2,6,2,1,0,Completed,true,false,false
+UA001093,12 Oct 25,9,Glen Huntly,Highmoor Uniting,No. 3,Antoine Maziarz,Luka Suluburic,Antoine Maziarz,6-2,6,2,1,0,Completed,true,false,false
+UA001093,12 Oct 25,9,Glen Huntly,Highmoor Uniting,No. 4,Tate Nguyen,[Unnamed player — TROLS UA001093 away code 4],Tate Nguyen,6-0,6,0,1,0,Completed,false,false,false
+UA001094,12 Oct 25,9,BLTC Blue,Black Rock,No. 1,Hudson Close,Lewis Smith,Hudson Close,6-1,6,1,1,0,Completed,true,false,false
+UA001094,12 Oct 25,9,BLTC Blue,Black Rock,No. 2,Ryan Dong,Jack James,Ryan Dong,6-3,6,3,1,0,Completed,true,false,false
+UA001094,12 Oct 25,9,BLTC Blue,Black Rock,No. 3,Matthew Mizera,Ethan Kleiman,Matthew Mizera,7-6,7,6,1,0,Completed,true,false,false
+UA001094,12 Oct 25,9,BLTC Blue,Black Rock,No. 4,Charlie Pettifer,Max Looschilder,Charlie Pettifer,6-4,6,4,1,0,Completed,true,false,false
+UA001101,19 Oct 25,10,Black Rock,BLTC White,No. 1,Austin Taleb,Matvey Roche,Matvey Roche,1-6,1,6,0,1,Completed,true,false,false
+UA001101,19 Oct 25,10,Black Rock,BLTC White,No. 2,Jack James,William Chu,William Chu,2-6,2,6,0,1,Completed,true,false,false
+UA001101,19 Oct 25,10,Black Rock,BLTC White,No. 3,Joseph Desmond,Tobias Malone,Tobias Malone,0-6,0,6,0,1,Completed,true,false,false
+UA001101,19 Oct 25,10,Black Rock,BLTC White,No. 4,Luke Desmond,Andrew Livermore,Andrew Livermore,4-6,4,6,0,1,Completed,true,false,false
+UA001102,19 Oct 25,10,BLTC Red,Royal South Yarra,No. 1,Caleb Jackson-Wright,Connor Le Page,Caleb Jackson-Wright,6-3,6,3,1,0,Completed,true,false,false
+UA001102,19 Oct 25,10,BLTC Red,Royal South Yarra,No. 2,Max Henderson,Lucas Ding,Max Henderson,7-5,7,5,1,0,Completed,true,false,false
+UA001102,19 Oct 25,10,BLTC Red,Royal South Yarra,No. 3,Marco Zhou,Hugo Brosnahan,Hugo Brosnahan,3-6,3,6,0,1,Completed,true,false,true
+UA001102,19 Oct 25,10,BLTC Red,Royal South Yarra,No. 4,Lucas Zhou,Sebastian Ng,Sebastian Ng,6-7,6,7,0,1,Completed,true,false,false
+UA001103,19 Oct 25,10,Carmelite,Glen Huntly,No. 1,Danill Levashov,Alistair Cairns,Alistair Cairns,1-6,1,6,0,1,Completed,true,false,false
+UA001103,19 Oct 25,10,Carmelite,Glen Huntly,No. 2,Charlie Smit,Jeremy Thai,Jeremy Thai,4-6,4,6,0,1,Completed,true,false,false
+UA001103,19 Oct 25,10,Carmelite,Glen Huntly,No. 3,Jakob Schmollinger,Antoine Maziarz,Jakob Schmollinger,6-4,6,4,1,0,Completed,true,false,false
+UA001103,19 Oct 25,10,Carmelite,Glen Huntly,No. 4,Xander Lovey,Tate Nguyen,Tate Nguyen,1-6,1,6,0,1,Completed,true,true,false
+UA001104,19 Oct 25,10,Highmoor Uniting,BLTC Blue,No. 1,Sinbad Kozelski,Hudson Close,Hudson Close,1-6,1,6,0,1,Completed,true,false,false
+UA001104,19 Oct 25,10,Highmoor Uniting,BLTC Blue,No. 2,Marsha Kagan,Ray Lai Cheong,Ray Lai Cheong,1-6,1,6,0,1,Completed,true,false,false
+UA001104,19 Oct 25,10,Highmoor Uniting,BLTC Blue,No. 3,Luke Young,Ryan Dong,Luke Young,6-0,6,0,1,0,Completed,true,false,false
+UA001104,19 Oct 25,10,Highmoor Uniting,BLTC Blue,No. 4,Luka Suluburic,Diesel Reid,Diesel Reid,0-6,0,6,0,1,Completed,true,false,false
+UA001121,09 Nov 25,12,BLTC Blue,Glen Huntly,No. 1,Ray Lai Cheong,Alistair Cairns,Alistair Cairns,4-6,4,6,0,1,Completed,true,false,false
+UA001121,09 Nov 25,12,BLTC Blue,Glen Huntly,No. 2,Diesel Reid,Jeremy Thai,Diesel Reid,6-2,6,2,1,0,Completed,true,false,false
+UA001121,09 Nov 25,12,BLTC Blue,Glen Huntly,No. 3,Matthew Mizera,Antoine Maziarz,Matthew Mizera,6-1,6,1,1,0,Completed,true,false,false
+UA001121,09 Nov 25,12,BLTC Blue,Glen Huntly,No. 4,Charlie Pettifer,Nile Roberts,Charlie Pettifer,6-0,6,0,1,0,Completed,true,false,true
+UA001122,09 Nov 25,12,Black Rock,BLTC Red,No. 1,Jack James,Harry Toomey,Harry Toomey,0-6,0,6,0,1,Completed,true,false,false
+UA001122,09 Nov 25,12,Black Rock,BLTC Red,No. 2,Ethan Kleiman,Caleb Jackson-Wright,Caleb Jackson-Wright,3-6,3,6,0,1,Completed,true,false,false
+UA001122,09 Nov 25,12,Black Rock,BLTC Red,No. 3,Max Looschilder,Gideon Gomes,Max Looschilder,6-4,6,4,1,0,Completed,true,false,false
+UA001122,09 Nov 25,12,Black Rock,BLTC Red,No. 4,Luke Desmond,Max Henderson,Max Henderson,0-6,0,6,0,1,Completed,true,false,false
+UA001131,16 Nov 25,13,Glen Huntly,Royal South Yarra,No. 1,Alistair Cairns,Kayaan Saluja,Kayaan Saluja,5-7,5,7,0,1,Completed,true,false,true
+UA001131,16 Nov 25,13,Glen Huntly,Royal South Yarra,No. 2,Marfa Solovei,Tom Anderson,Marfa Solovei,7-5,7,5,1,0,Completed,true,true,false
+UA001131,16 Nov 25,13,Glen Huntly,Royal South Yarra,No. 3,Jeremy Thai,Lucas Ding,Jeremy Thai,6-3,6,3,1,0,Completed,true,false,false
+UA001131,16 Nov 25,13,Glen Huntly,Royal South Yarra,No. 4,Antoine Maziarz,Harry Anderson,Antoine Maziarz,6-1,6,1,1,0,Completed,true,false,false
+UA001132,16 Nov 25,13,BLTC White,BLTC Blue,No. 1,Matvey Roche,Ray Lai Cheong,Matvey Roche,6-1,6,1,1,0,Completed,true,false,false
+UA001132,16 Nov 25,13,BLTC White,BLTC Blue,No. 2,Lucas Sleep,Diesel Reid,Diesel Reid,3-6,3,6,0,1,Completed,true,false,false
+UA001132,16 Nov 25,13,BLTC White,BLTC Blue,No. 3,Tobias Malone,[Unnamed player — TROLS UA001132 away code 3],Tobias Malone,6-0,6,0,1,0,Completed,false,false,false
+UA001132,16 Nov 25,13,BLTC White,BLTC Blue,No. 4,Andrew Livermore,Charlie Pettifer,Charlie Pettifer,6-7,6,7,0,1,Completed,true,false,false
+UA001133,16 Nov 25,13,Highmoor Uniting,Black Rock,No. 1,Marsha Kagan,Austin Taleb,Austin Taleb,0-6,0,6,0,1,Completed,true,false,false
+UA001133,16 Nov 25,13,Highmoor Uniting,Black Rock,No. 2,Luke Young,Ethan Kleiman,Ethan Kleiman,2-6,2,6,0,1,Completed,true,false,false
+UA001133,16 Nov 25,13,Highmoor Uniting,Black Rock,No. 3,Lazar Suluburic,Joseph Desmond,Lazar Suluburic,6-2,6,2,1,0,Completed,true,false,false
+UA001133,16 Nov 25,13,Highmoor Uniting,Black Rock,No. 4,Luka Suluburic,Luke Desmond,Luka Suluburic,7-5,7,5,1,0,Completed,true,false,false
+UA001134,16 Nov 25,13,BLTC Red,Carmelite,No. 1,Caleb Jackson-Wright,Danill Levashov,Caleb Jackson-Wright,6-1,6,1,1,0,Completed,true,false,false
+UA001134,16 Nov 25,13,BLTC Red,Carmelite,No. 2,Max Henderson,Omar Kamel,Max Henderson,6-1,6,1,1,0,Completed,true,false,false
+UA001134,16 Nov 25,13,BLTC Red,Carmelite,No. 3,Marco Zhou,Jakob Schmollinger,Marco Zhou,6-0,6,0,1,0,Completed,true,false,false
+UA001134,16 Nov 25,13,BLTC Red,Carmelite,No. 4,Emir Zmak,Nicholas Peyerl,Emir Zmak,6-0,6,0,1,0,Completed,true,true,false
+UA001301,,16,BLTC White,Glen Huntly,No. 1,Matvey Roche,Alistair Cairns,Alistair Cairns,5-7,5,7,0,1,Completed,true,false,false
+UA001301,,16,BLTC White,Glen Huntly,No. 2,William Chu,Jeremy Thai,William Chu,6-0,6,0,1,0,Completed,true,false,false
+UA001301,,16,BLTC White,Glen Huntly,No. 3,Lucas Sleep,Antoine Maziarz,Lucas Sleep,6-4,6,4,1,0,Completed,true,false,false
+UA001301,,16,BLTC White,Glen Huntly,No. 4,Tobias Malone,Tate Nguyen,Tobias Malone,6-1,6,1,1,0,Completed,true,false,false
+UA001302,,16,BLTC Blue,BLTC Red,No. 1,Hudson Close,Harry Toomey,Hudson Close,6-3,6,3,1,0,Completed,true,false,false
+UA001302,,16,BLTC Blue,BLTC Red,No. 2,Ray Lai Cheong,Caleb Jackson-Wright,Caleb Jackson-Wright,2-6,2,6,0,1,Completed,true,false,false
+UA001302,,16,BLTC Blue,BLTC Red,No. 3,Ryan Dong,Max Henderson,Ryan Dong,6-1,6,1,1,0,Completed,true,false,false
+UA001302,,16,BLTC Blue,BLTC Red,No. 4,Matthew Mizera,Emir Zmak,Matthew Mizera,6-0,6,0,1,0,Completed,true,false,true
+UA001321,,17,BLTC White,BLTC Blue,No. 1,Matvey Roche,Hudson Close,Matvey Roche,6-2,6,2,1,0,Completed,true,false,false
+UA001321,,17,BLTC White,BLTC Blue,No. 2,William Chu,Ray Lai Cheong,Ray Lai Cheong,5-7,5,7,0,1,Completed,true,false,false
+UA001321,,17,BLTC White,BLTC Blue,No. 3,Lucas Sleep,Ryan Dong,Lucas Sleep,6-2,6,2,1,0,Completed,true,false,false
+UA001321,,17,BLTC White,BLTC Blue,No. 4,Tobias Malone,Matthew Mizera,Matthew Mizera,4-6,4,6,0,1,Completed,true,false,false

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA33-UA021",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2023",
+  "season_id": "UA33",
+  "season_label": "Spring 2023",
+  "source_section_code": "UA021",
+  "section_label": "Section 21",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World",
+      "wins": 12,
+      "points": 113,
+      "percentage": 170.15,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Beaumaris CC",
+      "wins": 13,
+      "points": 110,
+      "percentage": 171.89,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Highett",
+      "wins": 8,
+      "points": 89,
+      "percentage": 127.78,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Highmoor Uniting",
+      "wins": 6,
+      "points": 75,
+      "percentage": 110.38,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Parkdale",
+      "wins": 5,
+      "points": 62,
+      "percentage": 83.62,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC",
+      "wins": 4,
+      "points": 50,
+      "percentage": 89.21,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Le Page",
+      "wins": 4,
+      "points": 50,
+      "percentage": 83.21,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave",
+      "wins": 0,
+      "points": 11,
+      "percentage": 30.16,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA33-UA021",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,213 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA011011,06 Feb 22,1,Dendy Park,St Pats Mentone,No. 1,Darcy Maher,Kristof Buschkuehl,Darcy Maher,6-2,6,2,1,0,Completed,true,false,false
+UA011011,06 Feb 22,1,Dendy Park,St Pats Mentone,No. 2,Shrish Kumaran,Molly Rizun,Shrish Kumaran,6-4,6,4,1,0,Completed,true,false,false
+UA011011,06 Feb 22,1,Dendy Park,St Pats Mentone,No. 3,Lihang Jiang,Matilda Harrison,Lihang Jiang,7-6,7,6,1,0,Completed,true,false,true
+UA011011,06 Feb 22,1,Dendy Park,St Pats Mentone,No. 4,Hudson Christie,Isla Morgan,Hudson Christie,6-1,6,1,1,0,Completed,true,false,false
+UA011012,06 Feb 22,1,Caulfield Rec,Le Page,No. 1,Andrew Sleserev,Adyaan Tata,Adyaan Tata,3-6,3,6,0,1,Completed,true,false,false
+UA011012,06 Feb 22,1,Caulfield Rec,Le Page,No. 2,Atticus Dhimann,Danko Kovacevic,Danko Kovacevic,0-6,0,6,0,1,Completed,true,false,false
+UA011012,06 Feb 22,1,Caulfield Rec,Le Page,No. 3,Maya Alfredson,Mia Daniell,Mia Daniell,1-6,1,6,0,1,Completed,true,false,false
+UA011012,06 Feb 22,1,Caulfield Rec,Le Page,No. 4,Anastasia Udrist,Lucas Hansen,Lucas Hansen,1-6,1,6,0,1,Completed,true,false,false
+UA011013,06 Feb 22,1,Black Rock,St Joan of Arc,No. 1,Valentino Montebelli,Marco Zhou,Marco Zhou,3-6,3,6,0,1,Completed,true,false,false
+UA011013,06 Feb 22,1,Black Rock,St Joan of Arc,No. 2,Ethan Green,Max Atkinson,Max Atkinson,4-6,4,6,0,1,Completed,true,false,false
+UA011013,06 Feb 22,1,Black Rock,St Joan of Arc,No. 3,Spencer Marshall,George Coughlan,George Coughlan,4-6,4,6,0,1,Completed,true,false,false
+UA011013,06 Feb 22,1,Black Rock,St Joan of Arc,No. 4,Andrew Martin,Jack Paton,Jack Paton,1-6,1,6,0,1,Completed,true,false,false
+UA011014,06 Feb 22,1,St Andrews MB GO 1,St Andrews MB GO 2,No. 1,Benjamin Dimech,Atish Ramu,Atish Ramu,4-6,4,6,0,1,Completed,true,false,false
+UA011014,06 Feb 22,1,St Andrews MB GO 1,St Andrews MB GO 2,No. 2,Bob Njiffels,Hanna Langridge,Hanna Langridge,0-6,0,6,0,1,Completed,true,false,false
+UA011014,06 Feb 22,1,St Andrews MB GO 1,St Andrews MB GO 2,No. 3,Stella Kemp,Isabella Telford,Stella Kemp,6-1,6,1,1,0,Completed,true,false,false
+UA011014,06 Feb 22,1,St Andrews MB GO 1,St Andrews MB GO 2,No. 4,Max Looschilder,Olivia McLean,Max Looschilder,6-1,6,1,1,0,Completed,true,true,false
+UA011021,13 Feb 22,2,St Andrews MB GO 2,Dendy Park,No. 1,Atish Ramu,Shrish Kumaran,Shrish Kumaran,1-6,1,6,0,1,Completed,true,false,false
+UA011021,13 Feb 22,2,St Andrews MB GO 2,Dendy Park,No. 2,Madison Kwok,Lihang Jiang,Madison Kwok,7-6,7,6,1,0,Completed,true,false,false
+UA011021,13 Feb 22,2,St Andrews MB GO 2,Dendy Park,No. 3,Olivia McLean,Hudson Christie,Hudson Christie,4-6,4,6,0,1,Completed,true,false,false
+UA011021,13 Feb 22,2,St Andrews MB GO 2,Dendy Park,No. 4,Chloe Chau,Sia Patel,Sia Patel,4-6,4,6,0,1,Completed,true,true,false
+UA011022,13 Feb 22,2,St Pats Mentone,Caulfield Rec,No. 1,Molly Rizun,Atticus Dhimann,Molly Rizun,7-6,7,6,1,0,Completed,true,false,false
+UA011022,13 Feb 22,2,St Pats Mentone,Caulfield Rec,No. 2,Matilda Harrison,Gabrielle Duieb,Matilda Harrison,6-4,6,4,1,0,Completed,true,true,false
+UA011022,13 Feb 22,2,St Pats Mentone,Caulfield Rec,No. 3,Isla Morgan,Anastasia Udrist,Anastasia Udrist,4-6,4,6,0,1,Completed,true,false,false
+UA011022,13 Feb 22,2,St Pats Mentone,Caulfield Rec,No. 4,Hunter Wicking,Danielius Buividas,Hunter Wicking,6-1,6,1,1,0,Completed,true,false,false
+UA011023,13 Feb 22,2,Le Page,Black Rock,No. 1,Adyaan Tata,Valentino Montebelli,Adyaan Tata,6-1,6,1,1,0,Completed,true,false,false
+UA011023,13 Feb 22,2,Le Page,Black Rock,No. 2,Danko Kovacevic,Andrew Martin,Danko Kovacevic,6-0,6,0,1,0,Completed,true,false,false
+UA011023,13 Feb 22,2,Le Page,Black Rock,No. 3,Anya Khatsernov,Archie Braithwaite,Archie Braithwaite,3-6,3,6,0,1,Completed,true,false,false
+UA011023,13 Feb 22,2,Le Page,Black Rock,No. 4,Lucas Hansen,Ernie Brooks,Ernie Brooks,2-6,2,6,0,1,Completed,true,false,true
+UA011024,13 Feb 22,2,St Joan of Arc,St Andrews MB GO 1,No. 1,Tieer Zhang,Benjamin Dimech,Benjamin Dimech,1-6,1,6,0,1,Completed,true,false,false
+UA011024,13 Feb 22,2,St Joan of Arc,St Andrews MB GO 1,No. 2,Alexander Lasocki,Bob Njiffels,Bob Njiffels,3-6,3,6,0,1,Completed,true,false,false
+UA011024,13 Feb 22,2,St Joan of Arc,St Andrews MB GO 1,No. 3,Max Atkinson,Mika Looschilder,Max Atkinson,6-1,6,1,1,0,Completed,true,false,false
+UA011024,13 Feb 22,2,St Joan of Arc,St Andrews MB GO 1,No. 4,George Coughlan,Stella Kemp,Stella Kemp,3-6,3,6,0,1,Completed,true,false,false
+UA011031,20 Feb 22,3,Dendy Park,St Joan of Arc,No. 1,Darcy Maher,Tieer Zhang,Tieer Zhang,6-7,6,7,0,1,Completed,true,false,false
+UA011031,20 Feb 22,3,Dendy Park,St Joan of Arc,No. 2,Lihang Jiang,Alexander Lasocki,Alexander Lasocki,2-6,2,6,0,1,Completed,true,false,false
+UA011031,20 Feb 22,3,Dendy Park,St Joan of Arc,No. 3,Hudson Christie,George Coughlan,George Coughlan,2-6,2,6,0,1,Completed,true,false,false
+UA011031,20 Feb 22,3,Dendy Park,St Joan of Arc,No. 4,Sia Patel,Jack Paton,Sia Patel,7-6,7,6,1,0,Completed,true,false,false
+UA011032,20 Feb 22,3,Caulfield Rec,St Andrews MB GO 2,No. 1,Atticus Dhimann,Atish Ramu,Atish Ramu,1-6,1,6,0,1,Completed,true,false,false
+UA011032,20 Feb 22,3,Caulfield Rec,St Andrews MB GO 2,No. 2,Gabrielle Duieb,Madison Kwok,Madison Kwok,3-6,3,6,0,1,Completed,true,false,false
+UA011032,20 Feb 22,3,Caulfield Rec,St Andrews MB GO 2,No. 3,Maya Alfredson,Hanna Langridge,Hanna Langridge,0-6,0,6,0,1,Completed,true,false,false
+UA011032,20 Feb 22,3,Caulfield Rec,St Andrews MB GO 2,No. 4,Danielius Buividas,Olivia McLean,Olivia McLean,0-6,0,6,0,1,Completed,true,false,false
+UA011033,20 Feb 22,3,Black Rock,St Pats Mentone,No. 1,Valentino Montebelli,Kristof Buschkuehl,Valentino Montebelli,7-5,7,5,1,0,Completed,true,false,false
+UA011033,20 Feb 22,3,Black Rock,St Pats Mentone,No. 2,Ethan Green,Ethan Mammos,Ethan Green,6-0,6,0,1,0,Completed,true,false,false
+UA011033,20 Feb 22,3,Black Rock,St Pats Mentone,No. 3,Spencer Marshall,Matilda Harrison,Spencer Marshall,6-3,6,3,1,0,Completed,true,false,true
+UA011033,20 Feb 22,3,Black Rock,St Pats Mentone,No. 4,Archie Braithwaite,Hunter Wicking,Hunter Wicking,6-7,6,7,0,1,Completed,true,false,false
+UA011034,20 Feb 22,3,St Andrews MB GO 1,Le Page,No. 1,Benjamin Dimech,Adyaan Tata,Benjamin Dimech,6-3,6,3,1,0,Completed,true,false,false
+UA011034,20 Feb 22,3,St Andrews MB GO 1,Le Page,No. 2,Charlie Moulang,Danko Kovacevic,Charlie Moulang,7-5,7,5,1,0,Completed,true,false,false
+UA011034,20 Feb 22,3,St Andrews MB GO 1,Le Page,No. 3,Bob Njiffels,Mia Daniell,Bob Njiffels,6-1,6,1,1,0,Completed,true,false,false
+UA011034,20 Feb 22,3,St Andrews MB GO 1,Le Page,No. 4,Mika Looschilder,Lucas Hansen,Lucas Hansen,0-6,0,6,0,1,Completed,true,false,false
+UA011041,27 Feb 22,4,Le Page,Dendy Park,No. 1,Adyaan Tata,Darcy Maher,Adyaan Tata,6-3,6,3,1,0,Completed,true,false,false
+UA011041,27 Feb 22,4,Le Page,Dendy Park,No. 2,Danko Kovacevic,Shrish Kumaran,Shrish Kumaran,2-6,2,6,0,1,Completed,true,false,false
+UA011041,27 Feb 22,4,Le Page,Dendy Park,No. 3,Anya Khatsernov,Lihang Jiang,Lihang Jiang,4-6,4,6,0,1,Completed,true,false,false
+UA011041,27 Feb 22,4,Le Page,Dendy Park,No. 4,Mia Daniell,David Zhang,David Zhang,0-6,0,6,0,1,Completed,true,false,true
+UA011042,27 Feb 22,4,St Joan of Arc,Caulfield Rec,No. 1,Marco Zhou,Andrew Sleserev,Marco Zhou,6-3,6,3,1,0,Completed,true,false,false
+UA011042,27 Feb 22,4,St Joan of Arc,Caulfield Rec,No. 2,Alexander Lasocki,Gabrielle Duieb,Alexander Lasocki,6-3,6,3,1,0,Completed,true,false,false
+UA011042,27 Feb 22,4,St Joan of Arc,Caulfield Rec,No. 3,Max Atkinson,Maya Alfredson,Max Atkinson,6-0,6,0,1,0,Completed,true,false,false
+UA011042,27 Feb 22,4,St Joan of Arc,Caulfield Rec,No. 4,George Coughlan,Anastasia Udrist,Anastasia Udrist,3-6,3,6,0,1,Completed,true,false,false
+UA011043,27 Feb 22,4,St Andrews MB GO 2,Black Rock,No. 1,Atish Ramu,Valentino Montebelli,Atish Ramu,6-0,6,0,1,0,Completed,true,false,false
+UA011043,27 Feb 22,4,St Andrews MB GO 2,Black Rock,No. 2,Madison Kwok,Spencer Marshall,Madison Kwok,6-1,6,1,1,0,Completed,true,false,false
+UA011043,27 Feb 22,4,St Andrews MB GO 2,Black Rock,No. 3,Isabella Telford,Andrew Martin,Andrew Martin,5-7,5,7,0,1,Completed,true,false,false
+UA011043,27 Feb 22,4,St Andrews MB GO 2,Black Rock,No. 4,Olivia McLean,Archie Braithwaite,Olivia McLean,6-2,6,2,1,0,Completed,true,false,false
+UA011044,27 Feb 22,4,St Pats Mentone,St Andrews MB GO 1,No. 1,Kristof Buschkuehl,Benjamin Dimech,Benjamin Dimech,1-6,1,6,0,1,Completed,true,false,false
+UA011044,27 Feb 22,4,St Pats Mentone,St Andrews MB GO 1,No. 2,Molly Rizun,Bob Njiffels,Bob Njiffels,3-6,3,6,0,1,Completed,true,false,false
+UA011044,27 Feb 22,4,St Pats Mentone,St Andrews MB GO 1,No. 3,Ethan Mammos,Mika Looschilder,Mika Looschilder,4-6,4,6,0,1,Completed,true,false,false
+UA011044,27 Feb 22,4,St Pats Mentone,St Andrews MB GO 1,No. 4,Isla Morgan,Stella Kemp,Stella Kemp,2-6,2,6,0,1,Completed,true,false,false
+UA011051,06 Mar 22,5,Black Rock,St Andrews MB GO 1,No. 1,Ethan Green,Benjamin Dimech,Benjamin Dimech,4-6,4,6,0,1,Completed,true,false,false
+UA011051,06 Mar 22,5,Black Rock,St Andrews MB GO 1,No. 2,Spencer Marshall,Charlie Moulang,Charlie Moulang,4-6,4,6,0,1,Completed,true,false,false
+UA011051,06 Mar 22,5,Black Rock,St Andrews MB GO 1,No. 3,Andrew Martin,Mika Looschilder,Mika Looschilder,5-7,5,7,0,1,Completed,true,false,false
+UA011051,06 Mar 22,5,Black Rock,St Andrews MB GO 1,No. 4,Archie Braithwaite,Stella Kemp,Stella Kemp,0-6,0,6,0,1,Completed,true,false,false
+UA011052,06 Mar 22,5,St Andrews MB GO 2,St Joan of Arc,No. 1,Madison Kwok,Marco Zhou,Marco Zhou,3-6,3,6,0,1,Completed,true,false,false
+UA011052,06 Mar 22,5,St Andrews MB GO 2,St Joan of Arc,No. 2,Hanna Langridge,Tieer Zhang,Hanna Langridge,6-4,6,4,1,0,Completed,true,false,false
+UA011052,06 Mar 22,5,St Andrews MB GO 2,St Joan of Arc,No. 3,Isabella Telford,Max Atkinson,Max Atkinson,0-6,0,6,0,1,Completed,true,false,false
+UA011052,06 Mar 22,5,St Andrews MB GO 2,St Joan of Arc,No. 4,Olivia McLean,Jack Paton,Jack Paton,2-6,2,6,0,1,Completed,true,false,false
+UA011053,06 Mar 22,5,Le Page,St Pats Mentone,No. 1,Adyaan Tata,Ethan Mammos,Adyaan Tata,6-0,6,0,1,0,Completed,true,false,false
+UA011053,06 Mar 22,5,Le Page,St Pats Mentone,No. 2,[Unnamed player — TROLS UA011053 home code 2],Molly Rizun,Molly Rizun,0-6,0,6,0,1,Completed,false,false,false
+UA011053,06 Mar 22,5,Le Page,St Pats Mentone,No. 3,[Unnamed player — TROLS UA011053 home code 3],Isla Morgan,Isla Morgan,0-6,0,6,0,1,Completed,false,false,false
+UA011053,06 Mar 22,5,Le Page,St Pats Mentone,No. 4,Lucas Hansen,Hunter Wicking,Lucas Hansen,7-6,7,6,1,0,Completed,true,false,false
+UA011061,20 Mar 22,6,Caulfield Rec,Black Rock,No. 1,Atticus Dhimann,Valentino Montebelli,Atticus Dhimann,6-4,6,4,1,0,Completed,true,false,false
+UA011061,20 Mar 22,6,Caulfield Rec,Black Rock,No. 2,Gabrielle Duieb,Ethan Green,Ethan Green,3-6,3,6,0,1,Completed,true,false,false
+UA011061,20 Mar 22,6,Caulfield Rec,Black Rock,No. 3,Maya Alfredson,Spencer Marshall,Spencer Marshall,2-6,2,6,0,1,Completed,true,false,false
+UA011061,20 Mar 22,6,Caulfield Rec,Black Rock,No. 4,Danielius Buividas,Andrew Martin,Andrew Martin,4-6,4,6,0,1,Completed,true,false,false
+UA011062,20 Mar 22,6,St Andrews MB GO 1,Dendy Park,No. 1,Benjamin Dimech,Darcy Maher,Benjamin Dimech,6-2,6,2,1,0,Completed,true,false,false
+UA011062,20 Mar 22,6,St Andrews MB GO 1,Dendy Park,No. 2,James Dimech,Shrish Kumaran,James Dimech,6-4,6,4,1,0,Completed,true,true,false
+UA011062,20 Mar 22,6,St Andrews MB GO 1,Dendy Park,No. 3,Mika Looschilder,Hudson Christie,Hudson Christie,3-6,3,6,0,1,Completed,true,false,false
+UA011062,20 Mar 22,6,St Andrews MB GO 1,Dendy Park,No. 4,Max Looschilder,Sia Patel,Max Looschilder,6-1,6,1,1,0,Completed,true,true,false
+UA011063,20 Mar 22,6,St Joan of Arc,Le Page,No. 1,Marco Zhou,Adyaan Tata,Adyaan Tata,1-6,1,6,0,1,Completed,true,false,false
+UA011063,20 Mar 22,6,St Joan of Arc,Le Page,No. 2,Tieer Zhang,Danko Kovacevic,Danko Kovacevic,2-6,2,6,0,1,Completed,true,false,false
+UA011063,20 Mar 22,6,St Joan of Arc,Le Page,No. 3,Alexander Lasocki,Mia Daniell,Alexander Lasocki,6-3,6,3,1,0,Completed,true,false,false
+UA011063,20 Mar 22,6,St Joan of Arc,Le Page,No. 4,Jack Paton,Lucas Hansen,Jack Paton,6-1,6,1,1,0,Completed,true,false,false
+UA011064,20 Mar 22,6,St Pats Mentone,St Andrews MB GO 2,No. 1,Kristof Buschkuehl,Atish Ramu,Atish Ramu,2-6,2,6,0,1,Completed,true,false,false
+UA011064,20 Mar 22,6,St Pats Mentone,St Andrews MB GO 2,No. 2,Ethan Mammos,Madison Kwok,Madison Kwok,1-6,1,6,0,1,Completed,true,false,false
+UA011064,20 Mar 22,6,St Pats Mentone,St Andrews MB GO 2,No. 3,Matilda Harrison,Hanna Langridge,Hanna Langridge,3-6,3,6,0,1,Completed,true,true,false
+UA011064,20 Mar 22,6,St Pats Mentone,St Andrews MB GO 2,No. 4,Hunter Wicking,Chloe Chau,Chloe Chau,6-7,6,7,0,1,Completed,true,false,true
+UA011071,27 Mar 22,7,Dendy Park,Black Rock,No. 1,Shrish Kumaran,Valentino Montebelli,Shrish Kumaran,6-3,6,3,1,0,Completed,true,false,false
+UA011071,27 Mar 22,7,Dendy Park,Black Rock,No. 2,Lihang Jiang,Ethan Green,Lihang Jiang,6-4,6,4,1,0,Completed,true,false,false
+UA011071,27 Mar 22,7,Dendy Park,Black Rock,No. 3,Hudson Christie,Spencer Marshall,Hudson Christie,6-2,6,2,1,0,Completed,true,false,false
+UA011071,27 Mar 22,7,Dendy Park,Black Rock,No. 4,Sia Patel,Archie Braithwaite,Archie Braithwaite,3-6,3,6,0,1,Completed,true,false,false
+UA011072,27 Mar 22,7,Caulfield Rec,St Andrews MB GO 1,No. 1,Andrew Sleserev,Benjamin Dimech,Benjamin Dimech,1-6,1,6,0,1,Completed,true,false,false
+UA011072,27 Mar 22,7,Caulfield Rec,St Andrews MB GO 1,No. 2,Atticus Dhimann,Charlie Moulang,Charlie Moulang,1-6,1,6,0,1,Completed,true,false,false
+UA011072,27 Mar 22,7,Caulfield Rec,St Andrews MB GO 1,No. 3,Anastasia Udrist,Mika Looschilder,Mika Looschilder,3-6,3,6,0,1,Completed,true,false,false
+UA011072,27 Mar 22,7,Caulfield Rec,St Andrews MB GO 1,No. 4,Danielius Buividas,Stella Kemp,Stella Kemp,2-6,2,6,0,1,Completed,true,false,false
+UA011073,27 Mar 22,7,St Andrews MB GO 2,Le Page,No. 1,Madison Kwok,Mia Daniell,Madison Kwok,6-1,6,1,1,0,Completed,true,false,false
+UA011073,27 Mar 22,7,St Andrews MB GO 2,Le Page,No. 2,Atish Ramu,Anya Khatsernov,Anya Khatsernov,0-6,0,6,0,1,Completed,true,false,false
+UA011073,27 Mar 22,7,St Andrews MB GO 2,Le Page,No. 3,Hanna Langridge,Lucas Hansen,Hanna Langridge,6-4,6,4,1,0,Completed,true,false,false
+UA011073,27 Mar 22,7,St Andrews MB GO 2,Le Page,No. 4,Jakob Misso,Jasmine Petkoff,Jasmine Petkoff,1-6,1,6,0,1,Completed,true,true,true
+UA011074,27 Mar 22,7,St Joan of Arc,St Pats Mentone,No. 1,Marco Zhou,Beth Turley,Marco Zhou,6-3,6,3,1,0,Completed,true,false,true
+UA011074,27 Mar 22,7,St Joan of Arc,St Pats Mentone,No. 2,Tieer Zhang,Molly Rizun,Molly Rizun,5-7,5,7,0,1,Completed,true,false,false
+UA011074,27 Mar 22,7,St Joan of Arc,St Pats Mentone,No. 3,Max Atkinson,Ethan Mammos,Max Atkinson,6-1,6,1,1,0,Completed,true,false,false
+UA011074,27 Mar 22,7,St Joan of Arc,St Pats Mentone,No. 4,George Coughlan,Isla Morgan,George Coughlan,6-2,6,2,1,0,Completed,true,false,false
+UA011081,03 Apr 22,8,St Pats Mentone,Dendy Park,No. 1,Beth Turley,Darcy Maher,Darcy Maher,1-6,1,6,0,1,Completed,true,true,false
+UA011081,03 Apr 22,8,St Pats Mentone,Dendy Park,No. 2,Molly Rizun,Shrish Kumaran,Shrish Kumaran,4-6,4,6,0,1,Completed,true,false,false
+UA011081,03 Apr 22,8,St Pats Mentone,Dendy Park,No. 3,Matilda Harrison,Lihang Jiang,Matilda Harrison,6-2,6,2,1,0,Completed,true,true,false
+UA011081,03 Apr 22,8,St Pats Mentone,Dendy Park,No. 4,Isla Morgan,Hudson Christie,Hudson Christie,1-6,1,6,0,1,Completed,true,false,false
+UA011082,03 Apr 22,8,Le Page,Caulfield Rec,No. 1,Danko Kovacevic,Gabrielle Duieb,Danko Kovacevic,6-0,6,0,1,0,Completed,true,false,false
+UA011082,03 Apr 22,8,Le Page,Caulfield Rec,No. 2,Mia Daniell,Benjamin Duieb,Benjamin Duieb,1-6,1,6,0,1,Completed,true,false,true
+UA011082,03 Apr 22,8,Le Page,Caulfield Rec,No. 3,Lucas Hansen,Anastasia Udrist,Lucas Hansen,6-2,6,2,1,0,Completed,true,false,false
+UA011082,03 Apr 22,8,Le Page,Caulfield Rec,No. 4,Jasmine Petkoff,Danielius Buividas,Jasmine Petkoff,6-2,6,2,1,0,Completed,true,true,false
+UA011083,03 Apr 22,8,St Joan of Arc,Black Rock,No. 1,Marco Zhou,Valentino Montebelli,Marco Zhou,6-2,6,2,1,0,Completed,true,false,false
+UA011083,03 Apr 22,8,St Joan of Arc,Black Rock,No. 2,Tieer Zhang,Ethan Green,Tieer Zhang,6-4,6,4,1,0,Completed,true,false,false
+UA011083,03 Apr 22,8,St Joan of Arc,Black Rock,No. 3,Max Atkinson,Andrew Martin,Max Atkinson,6-2,6,2,1,0,Completed,true,false,false
+UA011083,03 Apr 22,8,St Joan of Arc,Black Rock,No. 4,Jack Paton,Archie Braithwaite,Jack Paton,6-0,6,0,1,0,Completed,true,false,false
+UA011084,03 Apr 22,8,St Andrews MB GO 2,St Andrews MB GO 1,No. 1,Hanna Langridge,Charlie Moulang,Hanna Langridge,7-6,7,6,1,0,Completed,true,false,false
+UA011084,03 Apr 22,8,St Andrews MB GO 2,St Andrews MB GO 1,No. 2,Isabella Telford,Mika Looschilder,Mika Looschilder,4-6,4,6,0,1,Completed,true,false,false
+UA011084,03 Apr 22,8,St Andrews MB GO 2,St Andrews MB GO 1,No. 3,Olivia McLean,Alex Zhao,Alex Zhao,3-6,3,6,0,1,Completed,true,false,true
+UA011084,03 Apr 22,8,St Andrews MB GO 2,St Andrews MB GO 1,No. 4,Jakob Misso,Stella Kemp,Stella Kemp,3-6,3,6,0,1,Completed,true,true,false
+UA011091,01 May 22,9,Dendy Park,St Andrews MB GO 2,No. 1,Darcy Maher,Atish Ramu,Atish Ramu,2-6,2,6,0,1,Completed,true,false,false
+UA011091,01 May 22,9,Dendy Park,St Andrews MB GO 2,No. 2,Lihang Jiang,Madison Kwok,Madison Kwok,0-6,0,6,0,1,Completed,true,false,false
+UA011091,01 May 22,9,Dendy Park,St Andrews MB GO 2,No. 3,Hudson Christie,Isabella Telford,Hudson Christie,6-0,6,0,1,0,Completed,true,false,false
+UA011091,01 May 22,9,Dendy Park,St Andrews MB GO 2,No. 4,Sia Patel,Olivia McLean,Olivia McLean,5-7,5,7,0,1,Completed,true,false,false
+UA011092,01 May 22,9,Caulfield Rec,St Pats Mentone,No. 1,Atticus Dhimann,Kristof Buschkuehl,Atticus Dhimann,6-2,6,2,1,0,Completed,true,false,false
+UA011092,01 May 22,9,Caulfield Rec,St Pats Mentone,No. 2,Gabrielle Duieb,Ethan Mammos,Gabrielle Duieb,6-1,6,1,1,0,Completed,true,false,false
+UA011092,01 May 22,9,Caulfield Rec,St Pats Mentone,No. 3,Maya Alfredson,Isla Morgan,Isla Morgan,2-6,2,6,0,1,Completed,true,false,false
+UA011092,01 May 22,9,Caulfield Rec,St Pats Mentone,No. 4,Danielius Buividas,Hunter Wicking,Danielius Buividas,6-3,6,3,1,0,Completed,true,false,false
+UA011093,01 May 22,9,Black Rock,Le Page,No. 1,Ethan Green,Adyaan Tata,Adyaan Tata,1-6,1,6,0,1,Completed,true,false,false
+UA011093,01 May 22,9,Black Rock,Le Page,No. 2,Spencer Marshall,Danko Kovacevic,Danko Kovacevic,2-6,2,6,0,1,Completed,true,false,false
+UA011093,01 May 22,9,Black Rock,Le Page,No. 3,Andrew Martin,Lucas Hansen,Andrew Martin,6-4,6,4,1,0,Completed,true,false,false
+UA011093,01 May 22,9,Black Rock,Le Page,No. 4,Archie Braithwaite,Jasmine Petkoff,Jasmine Petkoff,4-6,4,6,0,1,Completed,true,false,true
+UA011094,01 May 22,9,St Andrews MB GO 1,St Joan of Arc,No. 1,Benjamin Dimech,Marco Zhou,Marco Zhou,4-6,4,6,0,1,Completed,true,false,false
+UA011094,01 May 22,9,St Andrews MB GO 1,St Joan of Arc,No. 2,Charlie Moulang,Tieer Zhang,Charlie Moulang,6-1,6,1,1,0,Completed,true,false,false
+UA011094,01 May 22,9,St Andrews MB GO 1,St Joan of Arc,No. 3,Bob Njiffels,Alexander Lasocki,Alexander Lasocki,3-6,3,6,0,1,Completed,true,false,false
+UA011094,01 May 22,9,St Andrews MB GO 1,St Joan of Arc,No. 4,Mika Looschilder,Jack Paton,Jack Paton,3-6,3,6,0,1,Completed,true,false,false
+UA011101,08 May 22,10,St Joan of Arc,Dendy Park,No. 1,Marco Zhou,Darcy Maher,Darcy Maher,3-6,3,6,0,1,Completed,true,false,false
+UA011101,08 May 22,10,St Joan of Arc,Dendy Park,No. 2,Alexander Lasocki,Shrish Kumaran,Shrish Kumaran,5-7,5,7,0,1,Completed,true,false,false
+UA011101,08 May 22,10,St Joan of Arc,Dendy Park,No. 3,Max Atkinson,Lihang Jiang,Max Atkinson,6-4,6,4,1,0,Completed,true,false,false
+UA011101,08 May 22,10,St Joan of Arc,Dendy Park,No. 4,George Coughlan,Sia Patel,George Coughlan,6-2,6,2,1,0,Completed,true,false,false
+UA011102,08 May 22,10,St Andrews MB GO 2,Caulfield Rec,No. 1,Atish Ramu,Andrew Sleserev,Andrew Sleserev,1-6,1,6,0,1,Completed,true,false,false
+UA011102,08 May 22,10,St Andrews MB GO 2,Caulfield Rec,No. 2,Madison Kwok,Atticus Dhimann,Madison Kwok,6-3,6,3,1,0,Completed,true,false,false
+UA011102,08 May 22,10,St Andrews MB GO 2,Caulfield Rec,No. 3,Hanna Langridge,Maya Alfredson,Hanna Langridge,6-1,6,1,1,0,Completed,true,false,false
+UA011102,08 May 22,10,St Andrews MB GO 2,Caulfield Rec,No. 4,Olivia McLean,Anastasia Udrist,Olivia McLean,6-1,6,1,1,0,Completed,true,false,false
+UA011103,08 May 22,10,St Pats Mentone,Black Rock,No. 1,Kristof Buschkuehl,Valentino Montebelli,Valentino Montebelli,1-6,1,6,0,1,Completed,true,false,false
+UA011103,08 May 22,10,St Pats Mentone,Black Rock,No. 2,Beth Turley,Andrew Martin,Beth Turley,6-1,6,1,1,0,Completed,true,true,false
+UA011103,08 May 22,10,St Pats Mentone,Black Rock,No. 3,Ethan Mammos,Archie Braithwaite,Archie Braithwaite,1-6,1,6,0,1,Completed,true,false,false
+UA011103,08 May 22,10,St Pats Mentone,Black Rock,No. 4,Isla Morgan,Adam Martin,Isla Morgan,6-3,6,3,1,0,Completed,true,false,true
+UA011104,08 May 22,10,Le Page,St Andrews MB GO 1,No. 1,Adyaan Tata,Benjamin Dimech,Benjamin Dimech,5-7,5,7,0,1,Completed,true,false,false
+UA011104,08 May 22,10,Le Page,St Andrews MB GO 1,No. 2,Danko Kovacevic,Charlie Moulang,Charlie Moulang,2-6,2,6,0,1,Completed,true,false,false
+UA011104,08 May 22,10,Le Page,St Andrews MB GO 1,No. 3,Mia Daniell,Bob Njiffels,Bob Njiffels,1-6,1,6,0,1,Completed,true,false,false
+UA011104,08 May 22,10,Le Page,St Andrews MB GO 1,No. 4,Lucas Hansen,Stella Kemp,Stella Kemp,2-6,2,6,0,1,Completed,true,false,false
+UA011112,15 May 22,11,Caulfield Rec,St Joan of Arc,No. 1,Andrew Sleserev,Marco Zhou,Marco Zhou,4-6,4,6,0,1,Completed,true,false,false
+UA011112,15 May 22,11,Caulfield Rec,St Joan of Arc,No. 2,Gabrielle Duieb,Tieer Zhang,Tieer Zhang,5-7,5,7,0,1,Completed,true,false,false
+UA011112,15 May 22,11,Caulfield Rec,St Joan of Arc,No. 3,Anastasia Udrist,Alexander Lasocki,Alexander Lasocki,3-6,3,6,0,1,Completed,true,false,false
+UA011112,15 May 22,11,Caulfield Rec,St Joan of Arc,No. 4,Danielius Buividas,George Coughlan,George Coughlan,0-6,0,6,0,1,Completed,true,false,false
+UA011113,15 May 22,11,Black Rock,St Andrews MB GO 2,No. 1,Valentino Montebelli,Madison Kwok,Madison Kwok,4-6,4,6,0,1,Completed,true,false,false
+UA011113,15 May 22,11,Black Rock,St Andrews MB GO 2,No. 2,Spencer Marshall,Alex Zhao,Alex Zhao,1-6,1,6,0,1,Completed,true,false,true
+UA011113,15 May 22,11,Black Rock,St Andrews MB GO 2,No. 3,Andrew Martin,Hanna Langridge,Hanna Langridge,2-6,2,6,0,1,Completed,true,false,false
+UA011113,15 May 22,11,Black Rock,St Andrews MB GO 2,No. 4,Archie Braithwaite,Olivia McLean,Olivia McLean,3-6,3,6,0,1,Completed,true,false,false
+UA011114,15 May 22,11,St Andrews MB GO 1,St Pats Mentone,No. 1,Bob Njiffels,Ethan Mammos,Bob Njiffels,6-2,6,2,1,0,Completed,true,false,false
+UA011114,15 May 22,11,St Andrews MB GO 1,St Pats Mentone,No. 2,Mika Looschilder,Matilda Harrison,Matilda Harrison,4-6,4,6,0,1,Completed,true,false,true
+UA011114,15 May 22,11,St Andrews MB GO 1,St Pats Mentone,No. 3,Stella Kemp,Isla Morgan,Stella Kemp,6-1,6,1,1,0,Completed,true,false,false
+UA011114,15 May 22,11,St Andrews MB GO 1,St Pats Mentone,No. 4,Max Looschilder,Hunter Wicking,Max Looschilder,6-2,6,2,1,0,Completed,true,true,false
+UA011121,22 May 22,12,St Andrews MB GO 1,Black Rock,No. 1,Benjamin Dimech,Valentino Montebelli,Benjamin Dimech,6-3,6,3,1,0,Completed,true,false,false
+UA011121,22 May 22,12,St Andrews MB GO 1,Black Rock,No. 2,Charlie Moulang,Spencer Marshall,Charlie Moulang,6-0,6,0,1,0,Completed,true,false,false
+UA011121,22 May 22,12,St Andrews MB GO 1,Black Rock,No. 3,Mika Looschilder,Andrew Martin,Mika Looschilder,6-4,6,4,1,0,Completed,true,false,false
+UA011121,22 May 22,12,St Andrews MB GO 1,Black Rock,No. 4,Stella Kemp,Archie Braithwaite,Stella Kemp,6-3,6,3,1,0,Completed,true,false,false
+UA011122,22 May 22,12,St Joan of Arc,St Andrews MB GO 2,No. 1,Marco Zhou,Atish Ramu,Marco Zhou,6-2,6,2,1,0,Completed,true,false,false
+UA011122,22 May 22,12,St Joan of Arc,St Andrews MB GO 2,No. 2,Alexander Lasocki,Madison Kwok,Alexander Lasocki,6-2,6,2,1,0,Completed,true,false,false
+UA011122,22 May 22,12,St Joan of Arc,St Andrews MB GO 2,No. 3,George Coughlan,Alex Zhao,George Coughlan,6-2,6,2,1,0,Completed,true,false,true
+UA011122,22 May 22,12,St Joan of Arc,St Andrews MB GO 2,No. 4,Jack Paton,Hanna Langridge,Hanna Langridge,2-6,2,6,0,1,Completed,true,false,false
+UA011123,22 May 22,12,St Pats Mentone,Le Page,No. 1,Molly Rizun,Adyaan Tata,Adyaan Tata,0-6,0,6,0,1,Completed,true,false,false
+UA011123,22 May 22,12,St Pats Mentone,Le Page,No. 2,Ethan Mammos,Danko Kovacevic,Danko Kovacevic,1-6,1,6,0,1,Completed,true,false,false
+UA011123,22 May 22,12,St Pats Mentone,Le Page,No. 3,Matilda Harrison,Anya Khatsernov,Matilda Harrison,6-4,6,4,1,0,Completed,true,true,false
+UA011123,22 May 22,12,St Pats Mentone,Le Page,No. 4,Hunter Wicking,Lucas Hansen,Lucas Hansen,4-6,4,6,0,1,Completed,true,false,false
+UA011124,22 May 22,12,Caulfield Rec,Dendy Park,No. 1,Atticus Dhimann,Shrish Kumaran,Shrish Kumaran,0-6,0,6,0,1,Completed,true,false,false
+UA011124,22 May 22,12,Caulfield Rec,Dendy Park,No. 2,Gabrielle Duieb,[Unnamed player — TROLS UA011124 away code 2],Gabrielle Duieb,6-0,6,0,1,0,Completed,false,false,false
+UA011124,22 May 22,12,Caulfield Rec,Dendy Park,No. 3,Maya Alfredson,Hudson Christie,Hudson Christie,1-6,1,6,0,1,Completed,true,false,false
+UA011124,22 May 22,12,Caulfield Rec,Dendy Park,No. 4,Danielius Buividas,Sia Patel,Danielius Buividas,7-6,7,6,1,0,Completed,true,false,false
+UA011131,29 May 22,13,Black Rock,Caulfield Rec,No. 1,Valentino Montebelli,Andrew Sleserev,Valentino Montebelli,6-4,6,4,1,0,Completed,true,false,false
+UA011131,29 May 22,13,Black Rock,Caulfield Rec,No. 2,Spencer Marshall,Atticus Dhimann,Atticus Dhimann,1-6,1,6,0,1,Completed,true,false,false
+UA011131,29 May 22,13,Black Rock,Caulfield Rec,No. 3,Archie Braithwaite,Maya Alfredson,Archie Braithwaite,6-1,6,1,1,0,Completed,true,false,false
+UA011131,29 May 22,13,Black Rock,Caulfield Rec,No. 4,Ernie Brooks,Anastasia Udrist,Ernie Brooks,6-2,6,2,1,0,Completed,true,true,false
+UA011132,29 May 22,13,Dendy Park,St Andrews MB GO 1,No. 1,Darcy Maher,Charlie Moulang,Charlie Moulang,1-6,1,6,0,1,Completed,true,false,false
+UA011132,29 May 22,13,Dendy Park,St Andrews MB GO 1,No. 2,Shrish Kumaran,Bob Njiffels,Shrish Kumaran,6-1,6,1,1,0,Completed,true,false,false
+UA011132,29 May 22,13,Dendy Park,St Andrews MB GO 1,No. 3,Lihang Jiang,Mika Looschilder,Mika Looschilder,1-6,1,6,0,1,Completed,true,false,false
+UA011132,29 May 22,13,Dendy Park,St Andrews MB GO 1,No. 4,Hudson Christie,Stella Kemp,Hudson Christie,6-4,6,4,1,0,Completed,true,false,false
+UA011133,29 May 22,13,Le Page,St Joan of Arc,No. 1,Adyaan Tata,Tieer Zhang,Adyaan Tata,6-1,6,1,1,0,Completed,true,false,false
+UA011133,29 May 22,13,Le Page,St Joan of Arc,No. 2,Danko Kovacevic,Alexander Lasocki,Alexander Lasocki,6-7,6,7,0,1,Completed,true,false,false
+UA011133,29 May 22,13,Le Page,St Joan of Arc,No. 3,Mia Daniell,Jack Paton,Jack Paton,2-6,2,6,0,1,Completed,true,false,false
+UA011133,29 May 22,13,Le Page,St Joan of Arc,No. 4,Lucas Hansen,Sam Coon,Lucas Hansen,6-1,6,1,1,0,Completed,true,false,true
+UA011134,29 May 22,13,St Andrews MB GO 2,St Pats Mentone,No. 1,Atish Ramu,Kristof Buschkuehl,Atish Ramu,6-0,6,0,1,0,Completed,true,false,false
+UA011134,29 May 22,13,St Andrews MB GO 2,St Pats Mentone,No. 2,Alex Zhao,Ethan Mammos,Alex Zhao,6-0,6,0,1,0,Completed,true,true,false
+UA011134,29 May 22,13,St Andrews MB GO 2,St Pats Mentone,No. 3,Hanna Langridge,Matilda Harrison,Hanna Langridge,6-2,6,2,1,0,Completed,true,false,true
+UA011134,29 May 22,13,St Andrews MB GO 2,St Pats Mentone,No. 4,Olivia McLean,Isla Morgan,Isla Morgan,1-6,1,6,0,1,Completed,true,false,false
+UA011301,,16,St Andrews MB GO 1,St Andrews MB GO 2,No. 1,Benjamin Dimech,Atish Ramu,Benjamin Dimech,6-2,6,2,1,0,Completed,true,false,false
+UA011301,,16,St Andrews MB GO 1,St Andrews MB GO 2,No. 2,Charlie Moulang,Madison Kwok,Charlie Moulang,6-3,6,3,1,0,Completed,true,false,false
+UA011301,,16,St Andrews MB GO 1,St Andrews MB GO 2,No. 3,Bob Njiffels,Hanna Langridge,Bob Njiffels,7-5,7,5,1,0,Completed,true,false,false
+UA011301,,16,St Andrews MB GO 1,St Andrews MB GO 2,No. 4,Mika Looschilder,Olivia McLean,Mika Looschilder,6-4,6,4,1,0,Completed,true,false,false
+UA011302,,16,St Joan of Arc,Le Page,No. 1,Marco Zhou,Adyaan Tata,Adyaan Tata,1-6,1,6,0,1,Completed,true,false,false
+UA011302,,16,St Joan of Arc,Le Page,No. 2,Tieer Zhang,Danko Kovacevic,Danko Kovacevic,2-6,2,6,0,1,Completed,true,false,false
+UA011302,,16,St Joan of Arc,Le Page,No. 3,Alexander Lasocki,Lucas Hansen,Alexander Lasocki,6-1,6,1,1,0,Completed,true,false,false
+UA011302,,16,St Joan of Arc,Le Page,No. 4,Jack Paton,Jasmine Petkoff,Jack Paton,6-4,6,4,1,0,Completed,true,false,true
+UA011321,,17,St Andrews MB GO 1,Le Page,No. 1,Benjamin Dimech,Adyaan Tata,Benjamin Dimech,6-2,6,2,1,0,Completed,true,false,false
+UA011321,,17,St Andrews MB GO 1,Le Page,No. 2,Charlie Moulang,Danko Kovacevic,Danko Kovacevic,1-6,1,6,0,1,Completed,true,false,false
+UA011321,,17,St Andrews MB GO 1,Le Page,No. 3,Bob Njiffels,Mia Daniell,Bob Njiffels,6-3,6,3,1,0,Completed,true,false,false
+UA011321,,17,St Andrews MB GO 1,Le Page,No. 4,Stella Kemp,Lucas Hansen,Stella Kemp,6-3,6,3,1,0,Completed,true,false,false

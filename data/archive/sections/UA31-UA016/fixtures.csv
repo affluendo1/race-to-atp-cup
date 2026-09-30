@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA016012,17 Jul 22,1,regular,Round 1,Parkdale,Coatesville,5,5,1,1,,,14,10,Completed,
+UA016013,17 Jul 22,1,regular,Round 1,St James,St Pats Mentone,10,0,6,0,,,37,13,Completed,
+UA016014,17 Jul 22,1,regular,Round 1,Highett,St Andrews MB,2,8,2,4,,,25,30,Completed,
+pending-ua016-r1-hurlingham-park-bye,17 Jul 22,1,regular,Round 1,Hurlingham Park,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016021,24 Jul 22,2,regular,Round 2,St Andrews MB,Hurlingham Park,7,3,3,3,,,26,24,Completed,
+UA016023,24 Jul 22,2,regular,Round 2,Coatesville,St James,9,1,5,1,,,35,13,Completed,
+UA016024,24 Jul 22,2,regular,Round 2,St Pats Mentone,Highett,10,0,6,0,,,37,9,Completed,
+pending-ua016-r2-bye-parkdale,24 Jul 22,2,regular,Round 2,Bye,Parkdale,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016031,31 Jul 22,3,regular,Round 3,Hurlingham Park,St Pats Mentone,0,10,0,6,,,10,36,Completed,
+UA016032,31 Jul 22,3,regular,Round 3,Parkdale,St Andrews MB,10,0,6,0,,,36,9,Completed,
+UA016034,31 Jul 22,3,regular,Round 3,Highett,Coatesville,0,10,0,6,,,5,36,Completed,
+pending-ua016-r3-st-james-bye,31 Jul 22,3,regular,Round 3,St James,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016041,07 Aug 22,4,regular,Round 4,Coatesville,Hurlingham Park,10,0,6,0,,,36,7,Completed,
+UA016042,07 Aug 22,4,regular,Round 4,St Pats Mentone,Parkdale,7,3,3,3,,,28,24,Completed,
+UA016043,07 Aug 22,4,regular,Round 4,St Andrews MB,St James,1,9,1,5,,,19,34,Completed,
+pending-ua016-r4-bye-highett,07 Aug 22,4,regular,Round 4,Bye,Highett,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016051,14 Aug 22,5,regular,Round 5,St James,Highett,9,1,5,1,,,37,24,Completed,
+UA016052,14 Aug 22,5,regular,Round 5,St Andrews MB,St Pats Mentone,0,10,0,6,,,13,36,Completed,
+UA016054,14 Aug 22,5,regular,Round 5,Hurlingham Park,Parkdale,0,10,0,6,,,8,36,Completed,
+pending-ua016-r5-coatesville-bye,14 Aug 22,5,regular,Round 5,Coatesville,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016061,21 Aug 22,6,regular,Round 6,Parkdale,St James,5,5,3,3,,,25,25,Completed,
+UA016062,21 Aug 22,6,regular,Round 6,Highett,Hurlingham Park,8,2,4,2,,,33,21,Completed,
+UA016063,21 Aug 22,6,regular,Round 6,St Pats Mentone,Coatesville,2,8,2,4,,,25,31,Completed,
+pending-ua016-r6-bye-st-andrews-mb,21 Aug 22,6,regular,Round 6,Bye,St Andrews MB,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016071,28 Aug 22,7,regular,Round 7,Hurlingham Park,St James,0,10,0,6,,,4,36,Completed,
+UA016072,28 Aug 22,7,regular,Round 7,Parkdale,Highett,8,2,4,2,,,28,20,Completed,
+UA016073,28 Aug 22,7,regular,Round 7,St Andrews MB,Coatesville,2,8,2,4,,,20,34,Completed,
+pending-ua016-r7-st-pats-mentone-bye,28 Aug 22,7,regular,Round 7,St Pats Mentone,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016082,04 Sep 22,8,regular,Round 8,Coatesville,Parkdale,2,8,2,4,,,26,29,Completed,
+UA016083,04 Sep 22,8,regular,Round 8,St Pats Mentone,St James,1,9,1,5,,,21,34,Completed,
+UA016084,04 Sep 22,8,regular,Round 8,St Andrews MB,Highett,2,8,2,4,,,25,31,Completed,
+pending-ua016-r8-bye-hurlingham-park,04 Sep 22,8,regular,Round 8,Bye,Hurlingham Park,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016091,11 Sep 22,9,regular,Round 9,Hurlingham Park,St Andrews MB,1,9,1,5,,,12,32,Completed,
+UA016093,11 Sep 22,9,regular,Round 9,St James,Coatesville,8,2,4,2,,,29,22,Completed,
+UA016094,11 Sep 22,9,regular,Round 9,Highett,St Pats Mentone,0,10,0,6,,,11,36,Completed,
+pending-ua016-r9-parkdale-bye,11 Sep 22,9,regular,Round 9,Parkdale,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016101,09 Oct 22,10,regular,Round 10,St Pats Mentone,Hurlingham Park,9,1,5,1,,,30,11,Completed,
+UA016102,09 Oct 22,10,regular,Round 10,St Andrews MB,Parkdale,0,10,0,6,,,12,36,Completed,
+UA016104,09 Oct 22,10,regular,Round 10,Coatesville,Highett,10,0,6,0,,,37,10,Completed,
+pending-ua016-r10-bye-st-james,09 Oct 22,10,regular,Round 10,Bye,St James,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016111,16 Oct 22,11,regular,Round 11,Hurlingham Park,Coatesville,0,10,0,6,,,7,36,Completed,
+UA016112,16 Oct 22,11,regular,Round 11,Parkdale,St Pats Mentone,2,8,2,4,,,19,31,Completed,
+UA016113,16 Oct 22,11,regular,Round 11,St James,St Andrews MB,10,0,6,0,,,36,5,Completed,
+pending-ua016-r11-highett-bye,16 Oct 22,11,regular,Round 11,Highett,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016121,23 Oct 22,12,regular,Round 12,Highett,St James,2,8,2,4,,,25,32,Completed,
+UA016122,23 Oct 22,12,regular,Round 12,St Pats Mentone,St Andrews MB,9,1,5,1,,,35,16,Completed,
+UA016124,23 Oct 22,12,regular,Round 12,Parkdale,Hurlingham Park,8,2,4,2,,,33,24,Completed,
+pending-ua016-r12-bye-coatesville,23 Oct 22,12,regular,Round 12,Bye,Coatesville,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016131,06 Nov 22,13,regular,Round 13,St James,Parkdale,9,1,5,1,,,35,21,Completed,
+UA016133,06 Nov 22,13,regular,Round 13,Coatesville,St Pats Mentone,7,3,3,3,,,33,27,Completed,
+pending-ua016-r13-hurlingham-park-highett,06 Nov 22,13,regular,Round 13,Hurlingham Park,Highett,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+pending-ua016-r13-st-andrews-mb-bye,06 Nov 22,13,regular,Round 13,St Andrews MB,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016141,13 Nov 22,14,regular,Round 14,St James,Hurlingham Park,10,0,6,0,,,36,11,Completed,
+UA016142,13 Nov 22,14,regular,Round 14,Highett,Parkdale,1,9,1,5,,,20,31,Completed,
+UA016143,13 Nov 22,14,regular,Round 14,Coatesville,St Andrews MB,10,0,6,0,,,36,5,Completed,
+pending-ua016-r14-bye-st-pats-mentone,13 Nov 22,14,regular,Round 14,Bye,St Pats Mentone,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA016301,,16,semi_final,Semi-final,St James,Parkdale,1,9,1,5,,,18,35,Completed,
+UA016302,,16,semi_final,Semi-final,Coatesville,St Pats Mentone,10,0,6,0,,,36,16,Completed,
+UA016321,,17,grand_final,Grand final · TROLS entry 2,Coatesville,Parkdale,8,2,4,2,,,27,17,Completed,

@@ -1,0 +1,225 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA022011,17 Jul 22,1,BLTC Blue,BLTC WHITE,No. 1,Luna Barry,Callan Bylsma,Callan Bylsma,1-6,1,6,0,1,Completed,true,false,false
+UA022011,17 Jul 22,1,BLTC Blue,BLTC WHITE,No. 2,Miki Berg,Reuben Leonard,Miki Berg,2-1,2,1,1,0,Completed,false,false,false
+UA022011,17 Jul 22,1,BLTC Blue,BLTC WHITE,No. 3,Olivia Hansen,Spencer Witherington,Olivia Hansen,7-5,7,5,1,0,Completed,true,false,false
+UA022011,17 Jul 22,1,BLTC Blue,BLTC WHITE,No. 4,Olivia Hansen,Spencer Witherington,Olivia Hansen,6-4,6,4,1,0,Completed,true,false,false
+UA022013,17 Jul 22,1,Black Rock 1,Black Rock 2,No. 1,James Cheng,Frankie Steel,Frankie Steel,1-6,1,6,0,1,Completed,true,false,true
+UA022013,17 Jul 22,1,Black Rock 1,Black Rock 2,No. 2,Connor Brown,Aiden Cleland,Aiden Cleland,6-7,6,7,0,1,Completed,true,false,false
+UA022013,17 Jul 22,1,Black Rock 1,Black Rock 2,No. 3,Toby Leeds,Ruby Murray,Toby Leeds,6-2,6,2,1,0,Completed,true,false,false
+UA022013,17 Jul 22,1,Black Rock 1,Black Rock 2,No. 4,Lucy Tweedle,[Unnamed player — TROLS UA022013 away code 4],Lucy Tweedle,6-0,6,0,1,0,Completed,false,false,false
+UA022014,17 Jul 22,1,Coatesville,Mentone,No. 1,Kain Entwisle,Daniel Rutkowski,Daniel Rutkowski,1-6,1,6,0,1,Completed,true,false,false
+UA022014,17 Jul 22,1,Coatesville,Mentone,No. 2,Phoenix Fishman,Mango Freeman,Mango Freeman,4-6,4,6,0,1,Completed,true,false,false
+UA022014,17 Jul 22,1,Coatesville,Mentone,No. 3,Xavier Pace,Calvin George,Xavier Pace,7-6,7,6,1,0,Completed,true,false,false
+UA022014,17 Jul 22,1,Coatesville,Mentone,No. 4,Alexander Entwisle,Samaya Kamdar,Samaya Kamdar,4-6,4,6,0,1,Completed,true,false,false
+UA022021,24 Jul 22,2,Mentone,BLTC Blue,No. 1,Daniel Rutkowski,Edward Jones,Edward Jones,1-6,1,6,0,1,Completed,true,false,false
+UA022021,24 Jul 22,2,Mentone,BLTC Blue,No. 2,Mango Freeman,Gregory Pogoriller,Mango Freeman,6-0,6,0,1,0,Completed,true,false,true
+UA022021,24 Jul 22,2,Mentone,BLTC Blue,No. 3,Calvin George,Miki Berg,Calvin George,6-2,6,2,1,0,Completed,true,false,false
+UA022021,24 Jul 22,2,Mentone,BLTC Blue,No. 4,Phillip Nyamukondiwa,Olivia Hansen,Olivia Hansen,0-6,0,6,0,1,Completed,true,false,false
+UA022022,24 Jul 22,2,BLTC WHITE,Lauriston,No. 1,Callan Bylsma,Deeksha Chandra,Callan Bylsma,6-3,6,3,1,0,Completed,true,false,false
+UA022022,24 Jul 22,2,BLTC WHITE,Lauriston,No. 2,Reuben Leonard,Toby Gordon,Toby Gordon,2-6,2,6,0,1,Completed,true,false,false
+UA022022,24 Jul 22,2,BLTC WHITE,Lauriston,No. 3,Max Hendeson,Angeline Pham,Max Hendeson,6-4,6,4,1,0,Completed,true,true,false
+UA022022,24 Jul 22,2,BLTC WHITE,Lauriston,No. 4,Zara Berenger,Joseph Li,Joseph Li,3-6,3,6,0,1,Completed,true,true,false
+UA022023,24 Jul 22,2,Parkdale Green,Black Rock 1,No. 1,Samaira Tandon,Kaylee Brown,Kaylee Brown,3-6,3,6,0,1,Completed,true,false,false
+UA022023,24 Jul 22,2,Parkdale Green,Black Rock 1,No. 2,Ela Simsek,Connor Brown,Ela Simsek,6-1,6,1,1,0,Completed,true,false,false
+UA022023,24 Jul 22,2,Parkdale Green,Black Rock 1,No. 3,Zoe Sedunary,Toby Leeds,Toby Leeds,3-6,3,6,0,1,Completed,true,false,false
+UA022023,24 Jul 22,2,Parkdale Green,Black Rock 1,No. 4,Mia Sedunary,Hugo Letham,Mia Sedunary,6-3,6,3,1,0,Completed,true,false,false
+UA022031,31 Jul 22,3,BLTC Blue,Black Rock 2,No. 1,Edward Jones,Frankie Steel,Frankie Steel,2-6,2,6,0,1,Completed,true,false,true
+UA022031,31 Jul 22,3,BLTC Blue,Black Rock 2,No. 2,Luna Barry,Bahya Hamada,Bahya Hamada,1-6,1,6,0,1,Completed,true,false,false
+UA022031,31 Jul 22,3,BLTC Blue,Black Rock 2,No. 3,Miki Berg,Aiden Cleland,Aiden Cleland,3-6,3,6,0,1,Completed,true,false,false
+UA022031,31 Jul 22,3,BLTC Blue,Black Rock 2,No. 4,Olivia Hansen,Ruby Murray,Olivia Hansen,6-2,6,2,1,0,Completed,true,false,false
+UA022032,31 Jul 22,3,Lauriston,Mentone,No. 1,Deeksha Chandra,Daniel Rutkowski,Daniel Rutkowski,5-7,5,7,0,1,Completed,true,false,false
+UA022032,31 Jul 22,3,Lauriston,Mentone,No. 2,Toby Gordon,Mango Freeman,Toby Gordon,7-6,7,6,1,0,Completed,true,false,false
+UA022032,31 Jul 22,3,Lauriston,Mentone,No. 3,Angeline Pham,Vicki Tigaris,Vicki Tigaris,1-6,1,6,0,1,Completed,true,false,true
+UA022032,31 Jul 22,3,Lauriston,Mentone,No. 4,Joseph Li,Phillip Nyamukondiwa,Phillip Nyamukondiwa,4-6,4,6,0,1,Completed,true,false,false
+UA022033,31 Jul 22,3,Black Rock 1,BLTC WHITE,No. 1,Kaylee Brown,Callan Bylsma,Kaylee Brown,6-2,6,2,1,0,Completed,true,false,false
+UA022033,31 Jul 22,3,Black Rock 1,BLTC WHITE,No. 2,James Cheng,Reuben Leonard,James Cheng,6-2,6,2,1,0,Completed,true,false,false
+UA022033,31 Jul 22,3,Black Rock 1,BLTC WHITE,No. 3,Hugo Letham,Spencer Witherington,Spencer Witherington,1-6,1,6,0,1,Completed,true,false,false
+UA022033,31 Jul 22,3,Black Rock 1,BLTC WHITE,No. 4,Lorna Tucker,Connor Moir,Lorna Tucker,6-3,6,3,1,0,Completed,true,true,true
+UA022034,31 Jul 22,3,Coatesville,Parkdale Green,No. 1,Kain Entwisle,Ela Simsek,Ela Simsek,1-6,1,6,0,1,Completed,true,false,false
+UA022034,31 Jul 22,3,Coatesville,Parkdale Green,No. 2,Xavier Pace,Mia Sedunary,Xavier Pace,6-4,6,4,1,0,Completed,true,false,false
+UA022034,31 Jul 22,3,Coatesville,Parkdale Green,No. 3,Alexander Entwisle,Lola Becker,Alexander Entwisle,6-2,6,2,1,0,Completed,true,false,false
+UA022034,31 Jul 22,3,Coatesville,Parkdale Green,No. 4,Dhruv Lahari,Taylor Cousins,Dhruv Lahari,6-0,6,0,1,0,Completed,true,false,false
+UA022041,07 Aug 22,4,Parkdale Green,BLTC Blue,No. 1,Samaira Tandon,Edward Jones,Samaira Tandon,6-2,6,2,1,0,Completed,true,false,false
+UA022041,07 Aug 22,4,Parkdale Green,BLTC Blue,No. 2,Ela Simsek,Luna Barry,Ela Simsek,6-0,6,0,1,0,Completed,true,false,false
+UA022041,07 Aug 22,4,Parkdale Green,BLTC Blue,No. 3,Zoe Sedunary,Miki Berg,Zoe Sedunary,6-2,6,2,1,0,Completed,true,false,false
+UA022041,07 Aug 22,4,Parkdale Green,BLTC Blue,No. 4,Mia Sedunary,Olivia Hansen,Mia Sedunary,6-4,6,4,1,0,Completed,true,false,false
+UA022042,07 Aug 22,4,Black Rock 2,Lauriston,No. 1,Tia Karras,Deeksha Chandra,Deeksha Chandra,4-6,4,6,0,1,Completed,true,false,false
+UA022042,07 Aug 22,4,Black Rock 2,Lauriston,No. 2,Bahya Hamada,Toby Gordon,Toby Gordon,2-6,2,6,0,1,Completed,true,false,false
+UA022042,07 Aug 22,4,Black Rock 2,Lauriston,No. 3,Toby Leeds,Angeline Pham,Toby Leeds,6-3,6,3,1,0,Completed,true,true,false
+UA022042,07 Aug 22,4,Black Rock 2,Lauriston,No. 4,Aiden Cleland,Joseph Li,Aiden Cleland,7-6,7,6,1,0,Completed,true,false,false
+UA022043,07 Aug 22,4,Mentone,Black Rock 1,No. 1,Daniel Rutkowski,Kaylee Brown,Kaylee Brown,4-6,4,6,0,1,Completed,true,false,false
+UA022043,07 Aug 22,4,Mentone,Black Rock 1,No. 2,Calvin George,James Cheng,James Cheng,1-6,1,6,0,1,Completed,true,false,false
+UA022043,07 Aug 22,4,Mentone,Black Rock 1,No. 3,Samaya Kamdar,Connor Brown,Connor Brown,4-6,4,6,0,1,Completed,true,false,false
+UA022043,07 Aug 22,4,Mentone,Black Rock 1,No. 4,Phillip Nyamukondiwa,Hugo Letham,Phillip Nyamukondiwa,6-3,6,3,1,0,Completed,true,false,false
+UA022044,07 Aug 22,4,BLTC WHITE,Coatesville,No. 1,Callan Bylsma,Phoenix Fishman,Callan Bylsma,6-3,6,3,1,0,Completed,true,false,false
+UA022044,07 Aug 22,4,BLTC WHITE,Coatesville,No. 2,Anatoly Dashkevich,Xavier Pace,Anatoly Dashkevich,6-0,6,0,1,0,Completed,true,true,false
+UA022044,07 Aug 22,4,BLTC WHITE,Coatesville,No. 3,Gregory Pogoriller,Raphael Contessotto,Gregory Pogoriller,6-0,6,0,1,0,Completed,true,true,false
+UA022044,07 Aug 22,4,BLTC WHITE,Coatesville,No. 4,Connor Moir,Dhruv Lahari,Dhruv Lahari,3-6,3,6,0,1,Completed,true,true,false
+UA022051,14 Aug 22,5,Black Rock 1,Coatesville,No. 1,Kaylee Brown,Kain Entwisle,Kaylee Brown,6-1,6,1,1,0,Completed,true,false,false
+UA022051,14 Aug 22,5,Black Rock 1,Coatesville,No. 2,James Cheng,Phoenix Fishman,James Cheng,7-6,7,6,1,0,Completed,true,false,false
+UA022051,14 Aug 22,5,Black Rock 1,Coatesville,No. 3,Connor Brown,Alexander Entwisle,Connor Brown,6-0,6,0,1,0,Completed,true,false,false
+UA022051,14 Aug 22,5,Black Rock 1,Coatesville,No. 4,Toby Leeds,Raphael Contessotto,Toby Leeds,7-5,7,5,1,0,Completed,true,false,false
+UA022052,14 Aug 22,5,Mentone,Black Rock 2,No. 1,Daniel Rutkowski,Tia Karras,Daniel Rutkowski,6-3,6,3,1,0,Completed,true,false,false
+UA022052,14 Aug 22,5,Mentone,Black Rock 2,No. 2,Mango Freeman,Bahya Hamada,Bahya Hamada,1-6,1,6,0,1,Completed,true,false,false
+UA022052,14 Aug 22,5,Mentone,Black Rock 2,No. 3,Calvin George,Aiden Cleland,Calvin George,7-6,7,6,1,0,Completed,true,false,false
+UA022052,14 Aug 22,5,Mentone,Black Rock 2,No. 4,Samaya Kamdar,Ruby Murray,Samaya Kamdar,6-3,6,3,1,0,Completed,true,false,false
+UA022053,14 Aug 22,5,Parkdale Green,BLTC WHITE,No. 1,Samaira Tandon,Callan Bylsma,Samaira Tandon,7-5,7,5,1,0,Completed,true,false,false
+UA022053,14 Aug 22,5,Parkdale Green,BLTC WHITE,No. 2,Zoe Sedunary,Charlie Dyer,Charlie Dyer,6-7,6,7,0,1,Completed,true,false,false
+UA022053,14 Aug 22,5,Parkdale Green,BLTC WHITE,No. 3,Isabel Whalley,Reuben Leonard,Reuben Leonard,2-6,2,6,0,1,Completed,true,false,false
+UA022053,14 Aug 22,5,Parkdale Green,BLTC WHITE,No. 4,Lola Becker,Spencer Witherington,Lola Becker,6-1,6,1,1,0,Completed,true,false,false
+UA022054,14 Aug 22,5,BLTC Blue,Lauriston,No. 1,Edward Jones,Deeksha Chandra,Edward Jones,6-3,6,3,1,0,Completed,true,false,false
+UA022054,14 Aug 22,5,BLTC Blue,Lauriston,No. 2,Anatoly Dashkevich,Toby Gordon,Anatoly Dashkevich,6-2,6,2,1,0,Completed,true,false,false
+UA022054,14 Aug 22,5,BLTC Blue,Lauriston,No. 3,Miki Berg,Angeline Pham,Angeline Pham,2-6,2,6,0,1,Completed,true,false,false
+UA022054,14 Aug 22,5,BLTC Blue,Lauriston,No. 4,Olivia Hansen,Joseph Li,Joseph Li,3-6,3,6,0,1,Completed,true,false,false
+UA022061,21 Aug 22,6,Lauriston,Black Rock 1,No. 1,Deeksha Chandra,James Cheng,James Cheng,0-6,0,6,0,1,Completed,true,false,false
+UA022061,21 Aug 22,6,Lauriston,Black Rock 1,No. 2,Toby Gordon,Toby Leeds,Toby Leeds,0-6,0,6,0,1,Completed,true,false,false
+UA022061,21 Aug 22,6,Lauriston,Black Rock 1,No. 3,Angeline Pham,Hugo Letham,Angeline Pham,6-4,6,4,1,0,Completed,true,false,false
+UA022061,21 Aug 22,6,Lauriston,Black Rock 1,No. 4,Joseph Li,Lucy Tweedle,Lucy Tweedle,4-6,4,6,0,1,Completed,true,false,false
+UA022062,21 Aug 22,6,Coatesville,BLTC Blue,No. 1,Kain Entwisle,Edward Jones,Edward Jones,5-7,5,7,0,1,Completed,true,false,false
+UA022062,21 Aug 22,6,Coatesville,BLTC Blue,No. 2,Xavier Pace,Anatoly Dashkevich,Anatoly Dashkevich,3-6,3,6,0,1,Completed,true,false,false
+UA022062,21 Aug 22,6,Coatesville,BLTC Blue,No. 3,Alexander Entwisle,Luna Barry,Luna Barry,1-6,1,6,0,1,Completed,true,false,false
+UA022062,21 Aug 22,6,Coatesville,BLTC Blue,No. 4,Dhruv Lahari,Olivia Hansen,Olivia Hansen,3-6,3,6,0,1,Completed,true,false,false
+UA022063,21 Aug 22,6,Black Rock 2,Parkdale Green,No. 1,Tia Karras,Mia Sedunary,Tia Karras,6-2,6,2,1,0,Completed,true,false,false
+UA022063,21 Aug 22,6,Black Rock 2,Parkdale Green,No. 2,Bahya Hamada,Taylor Cousins,Bahya Hamada,6-2,6,2,1,0,Completed,true,false,false
+UA022063,21 Aug 22,6,Black Rock 2,Parkdale Green,No. 3,Aiden Cleland,Lola Becker,Lola Becker,5-7,5,7,0,1,Completed,true,false,false
+UA022063,21 Aug 22,6,Black Rock 2,Parkdale Green,No. 4,Ruby Murray,Isabel Whalley,Isabel Whalley,3-6,3,6,0,1,Completed,true,false,false
+UA022064,21 Aug 22,6,BLTC WHITE,Mentone,No. 1,Charlie Dyer,Mango Freeman,Charlie Dyer,6-3,6,3,1,0,Completed,true,false,false
+UA022064,21 Aug 22,6,BLTC WHITE,Mentone,No. 2,Joseph Gazzola,Calvin George,Calvin George,4-6,4,6,0,1,Completed,true,false,false
+UA022064,21 Aug 22,6,BLTC WHITE,Mentone,No. 3,Reuben Leonard,Samaya Kamdar,Reuben Leonard,7-5,7,5,1,0,Completed,true,false,false
+UA022064,21 Aug 22,6,BLTC WHITE,Mentone,No. 4,Spencer Witherington,Phillip Nyamukondiwa,Phillip Nyamukondiwa,1-6,1,6,0,1,Completed,true,false,false
+UA022071,28 Aug 22,7,BLTC Blue,Black Rock 1,No. 1,Edward Jones,Kaylee Brown,Edward Jones,7-5,7,5,1,0,Completed,true,false,false
+UA022071,28 Aug 22,7,BLTC Blue,Black Rock 1,No. 2,Anatoly Dashkevich,Connor Brown,Anatoly Dashkevich,6-0,6,0,1,0,Completed,true,false,false
+UA022071,28 Aug 22,7,BLTC Blue,Black Rock 1,No. 3,Miki Berg,Toby Leeds,Toby Leeds,0-6,0,6,0,1,Completed,true,false,false
+UA022071,28 Aug 22,7,BLTC Blue,Black Rock 1,No. 4,Olivia Hansen,Hugo Letham,Olivia Hansen,6-1,6,1,1,0,Completed,true,false,false
+UA022072,28 Aug 22,7,Lauriston,Coatesville,No. 1,Siddart Japati,Phoenix Fishman,Phoenix Fishman,3-6,3,6,0,1,Completed,true,true,false
+UA022072,28 Aug 22,7,Lauriston,Coatesville,No. 2,Deeksha Chandra,Xavier Pace,Xavier Pace,3-6,3,6,0,1,Completed,true,false,false
+UA022072,28 Aug 22,7,Lauriston,Coatesville,No. 3,Toby Gordon,Alexander Entwisle,Toby Gordon,6-1,6,1,1,0,Completed,true,false,false
+UA022072,28 Aug 22,7,Lauriston,Coatesville,No. 4,Joseph Li,Raphael Contessotto,Joseph Li,6-3,6,3,1,0,Completed,true,false,false
+UA022073,28 Aug 22,7,Mentone,Parkdale Green,No. 1,Mango Freeman,Samaira Tandon,Samaira Tandon,3-6,3,6,0,1,Completed,true,false,false
+UA022073,28 Aug 22,7,Mentone,Parkdale Green,No. 2,Calvin George,Zoe Sedunary,Zoe Sedunary,6-7,6,7,0,1,Completed,true,false,false
+UA022073,28 Aug 22,7,Mentone,Parkdale Green,No. 3,Samaya Kamdar,Lola Becker,Samaya Kamdar,6-3,6,3,1,0,Completed,true,false,false
+UA022073,28 Aug 22,7,Mentone,Parkdale Green,No. 4,Phillip Nyamukondiwa,Isabel Whalley,Phillip Nyamukondiwa,6-3,6,3,1,0,Completed,true,false,false
+UA022074,28 Aug 22,7,Black Rock 2,BLTC WHITE,No. 1,Bahya Hamada,Callan Bylsma,Bahya Hamada,7-6,7,6,1,0,Completed,true,false,false
+UA022074,28 Aug 22,7,Black Rock 2,BLTC WHITE,No. 2,Aiden Cleland,Charlie Mu,Charlie Mu,4-6,4,6,0,1,Completed,true,false,true
+UA022074,28 Aug 22,7,Black Rock 2,BLTC WHITE,No. 3,Ruby Murray,Joseph Gazzola,Joseph Gazzola,4-6,4,6,0,1,Completed,true,false,false
+UA022074,28 Aug 22,7,Black Rock 2,BLTC WHITE,No. 4,Asha Bishop,Reuben Leonard,Asha Bishop,6-4,6,4,1,0,Completed,true,false,false
+UA022081,04 Sep 22,8,BLTC WHITE,BLTC Blue,No. 1,Callan Bylsma,Edward Jones,Edward Jones,5-7,5,7,0,1,Completed,true,false,false
+UA022081,04 Sep 22,8,BLTC WHITE,BLTC Blue,No. 2,Charlie Dyer,Anatoly Dashkevich,Anatoly Dashkevich,0-6,0,6,0,1,Completed,true,false,false
+UA022081,04 Sep 22,8,BLTC WHITE,BLTC Blue,No. 3,Reuben Leonard,Luna Barry,Luna Barry,5-7,5,7,0,1,Completed,true,false,false
+UA022081,04 Sep 22,8,BLTC WHITE,BLTC Blue,No. 4,Spencer Witherington,Miki Berg,Miki Berg,5-7,5,7,0,1,Completed,true,false,false
+UA022082,04 Sep 22,8,Parkdale Green,Lauriston,No. 1,Zoe Sedunary,Deeksha Chandra,Zoe Sedunary,6-1,6,1,1,0,Completed,true,false,false
+UA022082,04 Sep 22,8,Parkdale Green,Lauriston,No. 2,Mia Sedunary,Toby Gordon,Toby Gordon,0-6,0,6,0,1,Completed,true,false,false
+UA022082,04 Sep 22,8,Parkdale Green,Lauriston,No. 3,Taylor Cousins,[Unnamed player — TROLS UA022082 away code 3],Taylor Cousins,6-0,6,0,1,0,Completed,false,false,false
+UA022082,04 Sep 22,8,Parkdale Green,Lauriston,No. 4,Lola Becker,Joseph Li,Lola Becker,6-4,6,4,1,0,Completed,true,false,false
+UA022083,04 Sep 22,8,Black Rock 2,Black Rock 1,No. 1,Bahya Hamada,James Cheng,James Cheng,4-6,4,6,0,1,Completed,true,false,false
+UA022083,04 Sep 22,8,Black Rock 2,Black Rock 1,No. 2,Aiden Cleland,Connor Brown,Aiden Cleland,6-2,6,2,1,0,Completed,true,false,false
+UA022083,04 Sep 22,8,Black Rock 2,Black Rock 1,No. 3,Ruby Murray,Toby Leeds,Toby Leeds,1-6,1,6,0,1,Completed,true,false,false
+UA022083,04 Sep 22,8,Black Rock 2,Black Rock 1,No. 4,Asha Bishop,Hugo Letham,Asha Bishop,6-2,6,2,1,0,Completed,true,false,false
+UA022084,04 Sep 22,8,Mentone,Coatesville,No. 1,Daniel Rutkowski,Phoenix Fishman,Phoenix Fishman,2-6,2,6,0,1,Completed,true,false,false
+UA022084,04 Sep 22,8,Mentone,Coatesville,No. 2,Mango Freeman,Xavier Pace,Xavier Pace,4-6,4,6,0,1,Completed,true,false,false
+UA022084,04 Sep 22,8,Mentone,Coatesville,No. 3,Samaya Kamdar,Dhruv Lahari,Samaya Kamdar,6-3,6,3,1,0,Completed,true,false,false
+UA022084,04 Sep 22,8,Mentone,Coatesville,No. 4,Phillip Nyamukondiwa,Kazu Nakada,Phillip Nyamukondiwa,6-4,6,4,1,0,Completed,true,false,true
+UA022091,11 Sep 22,9,BLTC Blue,Mentone,No. 1,Edward Jones,Daniel Rutkowski,Edward Jones,6-0,6,0,1,0,Completed,true,false,false
+UA022091,11 Sep 22,9,BLTC Blue,Mentone,No. 2,Anatoly Dashkevich,Calvin George,Anatoly Dashkevich,6-1,6,1,1,0,Completed,true,false,false
+UA022091,11 Sep 22,9,BLTC Blue,Mentone,No. 3,Olivia Hansen,Samaya Kamdar,Samaya Kamdar,4-6,4,6,0,1,Completed,true,false,false
+UA022091,11 Sep 22,9,BLTC Blue,Mentone,No. 4,Miki Berg,Phillip Nyamukondiwa,Phillip Nyamukondiwa,3-6,3,6,0,1,Completed,true,false,false
+UA022092,11 Sep 22,9,Lauriston,BLTC WHITE,No. 1,Jack Weiser,Callan Bylsma,Jack Weiser,6-3,6,3,1,0,Completed,true,false,false
+UA022092,11 Sep 22,9,Lauriston,BLTC WHITE,No. 2,Toby Gordon,Charlie Mu,Toby Gordon,6-3,6,3,1,0,Completed,true,false,true
+UA022092,11 Sep 22,9,Lauriston,BLTC WHITE,No. 3,Deeksha Chandra,Joseph Gazzola,Joseph Gazzola,4-6,4,6,0,1,Completed,true,false,false
+UA022092,11 Sep 22,9,Lauriston,BLTC WHITE,No. 4,Angeline Pham,Spencer Witherington,Angeline Pham,6-1,6,1,1,0,Completed,true,false,false
+UA022093,11 Sep 22,9,Black Rock 1,Parkdale Green,No. 1,James Cheng,Samaira Tandon,James Cheng,6-3,6,3,1,0,Completed,true,false,false
+UA022093,11 Sep 22,9,Black Rock 1,Parkdale Green,No. 2,Connor Brown,Ela Simsek,Ela Simsek,2-6,2,6,0,1,Completed,true,false,false
+UA022093,11 Sep 22,9,Black Rock 1,Parkdale Green,No. 3,Toby Leeds,Mia Sedunary,Toby Leeds,6-0,6,0,1,0,Completed,true,false,false
+UA022093,11 Sep 22,9,Black Rock 1,Parkdale Green,No. 4,Hugo Letham,Taylor Cousins,Taylor Cousins,4-6,4,6,0,1,Completed,true,false,false
+UA022094,11 Sep 22,9,Coatesville,Black Rock 2,No. 1,Kain Entwisle,Aiden Cleland,Kain Entwisle,7-5,7,5,1,0,Completed,true,false,false
+UA022094,11 Sep 22,9,Coatesville,Black Rock 2,No. 2,Phoenix Fishman,Luke Desmond,Luke Desmond,6-7,6,7,0,1,Completed,true,false,true
+UA022094,11 Sep 22,9,Coatesville,Black Rock 2,No. 3,Alexander Entwisle,Joseph Desmond,Joseph Desmond,0-6,0,6,0,1,Completed,true,false,true
+UA022094,11 Sep 22,9,Coatesville,Black Rock 2,No. 4,Raphael Contessotto,Quinn Schellebeck,Quinn Schellebeck,0-6,0,6,0,1,Completed,true,false,true
+UA022101,09 Oct 22,10,Black Rock 2,BLTC Blue,No. 1,Bahya Hamada,Edward Jones,Edward Jones,6-7,6,7,0,1,Completed,true,false,false
+UA022101,09 Oct 22,10,Black Rock 2,BLTC Blue,No. 2,Aiden Cleland,Anatoly Dashkevich,Anatoly Dashkevich,1-6,1,6,0,1,Completed,true,false,false
+UA022101,09 Oct 22,10,Black Rock 2,BLTC Blue,No. 3,Asha Bishop,Olivia Hansen,Asha Bishop,6-4,6,4,1,0,Completed,true,false,false
+UA022101,09 Oct 22,10,Black Rock 2,BLTC Blue,No. 4,Sam Blackburn,Miki Berg,Miki Berg,4-6,4,6,0,1,Completed,true,false,false
+UA022102,09 Oct 22,10,Mentone,Lauriston,No. 1,Daniel Rutkowski,Toby Gordon,Toby Gordon,3-6,3,6,0,1,Completed,true,false,false
+UA022102,09 Oct 22,10,Mentone,Lauriston,No. 2,Mango Freeman,Deeksha Chandra,Mango Freeman,6-0,6,0,1,0,Completed,true,false,false
+UA022102,09 Oct 22,10,Mentone,Lauriston,No. 3,Calvin George,Angeline Pham,Angeline Pham,3-6,3,6,0,1,Completed,true,false,false
+UA022102,09 Oct 22,10,Mentone,Lauriston,No. 4,Phillip Nyamukondiwa,William Norman,William Norman,3-6,3,6,0,1,Completed,true,false,true
+UA022103,09 Oct 22,10,BLTC WHITE,Black Rock 1,No. 1,Charlie Dyer,James Cheng,James Cheng,1-6,1,6,0,1,Completed,true,false,false
+UA022103,09 Oct 22,10,BLTC WHITE,Black Rock 1,No. 2,Joseph Gazzola,Toby Leeds,Toby Leeds,5-7,5,7,0,1,Completed,true,false,false
+UA022103,09 Oct 22,10,BLTC WHITE,Black Rock 1,No. 3,Spencer Witherington,Lucy Tweedle,Lucy Tweedle,2-6,2,6,0,1,Completed,true,false,false
+UA022103,09 Oct 22,10,BLTC WHITE,Black Rock 1,No. 4,Connor Moir,Hugo Letham,Connor Moir,6-4,6,4,1,0,Completed,true,true,false
+UA022104,09 Oct 22,10,Parkdale Green,Coatesville,No. 1,Ela Simsek,Kain Entwisle,Ela Simsek,6-1,6,1,1,0,Completed,true,false,false
+UA022104,09 Oct 22,10,Parkdale Green,Coatesville,No. 2,Zoe Sedunary,Phoenix Fishman,Zoe Sedunary,6-2,6,2,1,0,Completed,true,false,false
+UA022104,09 Oct 22,10,Parkdale Green,Coatesville,No. 3,Lola Becker,Xavier Pace,Xavier Pace,5-7,5,7,0,1,Completed,true,false,false
+UA022104,09 Oct 22,10,Parkdale Green,Coatesville,No. 4,Isabel Whalley,Alexander Entwisle,Isabel Whalley,6-3,6,3,1,0,Completed,true,false,false
+UA022111,16 Oct 22,11,BLTC Blue,Parkdale Green,No. 1,Edward Jones,Samaira Tandon,Samaira Tandon,4-6,4,6,0,1,Completed,true,false,false
+UA022111,16 Oct 22,11,BLTC Blue,Parkdale Green,No. 2,Anatoly Dashkevich,Taylor Cousins,Anatoly Dashkevich,6-0,6,0,1,0,Completed,true,false,false
+UA022111,16 Oct 22,11,BLTC Blue,Parkdale Green,No. 3,Luna Barry,Lola Becker,Lola Becker,4-6,4,6,0,1,Completed,true,false,false
+UA022111,16 Oct 22,11,BLTC Blue,Parkdale Green,No. 4,Miki Berg,Isabel Whalley,Miki Berg,6-0,6,0,1,0,Completed,true,false,false
+UA022112,16 Oct 22,11,Lauriston,Black Rock 2,No. 1,Jack Weiser,Bahya Hamada,Jack Weiser,6-1,6,1,1,0,Completed,true,false,false
+UA022112,16 Oct 22,11,Lauriston,Black Rock 2,No. 2,Toby Gordon,Aiden Cleland,Toby Gordon,6-4,6,4,1,0,Completed,true,false,false
+UA022112,16 Oct 22,11,Lauriston,Black Rock 2,No. 3,Deeksha Chandra,Asha Bishop,Asha Bishop,4-6,4,6,0,1,Completed,true,false,false
+UA022112,16 Oct 22,11,Lauriston,Black Rock 2,No. 4,Angeline Pham,Ruby Murray,Angeline Pham,6-4,6,4,1,0,Completed,true,false,false
+UA022114,16 Oct 22,11,Coatesville,BLTC WHITE,No. 1,Phoenix Fishman,Charlie Dyer,Phoenix Fishman,6-4,6,4,1,0,Completed,true,false,false
+UA022114,16 Oct 22,11,Coatesville,BLTC WHITE,No. 2,Ashton Lewski,Joseph Gazzola,Ashton Lewski,6-2,6,2,1,0,Completed,true,true,false
+UA022114,16 Oct 22,11,Coatesville,BLTC WHITE,No. 3,Dhruv Lahari,Reuben Leonard,Dhruv Lahari,6-2,6,2,1,0,Completed,true,false,false
+UA022114,16 Oct 22,11,Coatesville,BLTC WHITE,No. 4,Kazu Nakada,Spencer Witherington,Kazu Nakada,6-2,6,2,1,0,Completed,true,true,false
+UA022121,23 Oct 22,12,Coatesville,Black Rock 1,No. 1,Kain Entwisle,James Cheng,James Cheng,0-6,0,6,0,1,Completed,true,false,false
+UA022121,23 Oct 22,12,Coatesville,Black Rock 1,No. 2,Xavier Pace,Toby Leeds,Toby Leeds,4-6,4,6,0,1,Completed,true,false,false
+UA022121,23 Oct 22,12,Coatesville,Black Rock 1,No. 3,Alexander Entwisle,Connor Brown,Connor Brown,6-7,6,7,0,1,Completed,true,false,false
+UA022121,23 Oct 22,12,Coatesville,Black Rock 1,No. 4,Dhruv Lahari,Lucy Tweedle,Lucy Tweedle,3-6,3,6,0,1,Completed,true,false,false
+UA022122,23 Oct 22,12,Black Rock 2,Mentone,No. 1,Bahya Hamada,Daniel Rutkowski,Bahya Hamada,6-4,6,4,1,0,Completed,true,false,false
+UA022122,23 Oct 22,12,Black Rock 2,Mentone,No. 2,Joseph Desmond,Calvin George,Joseph Desmond,6-0,6,0,1,0,Completed,true,true,false
+UA022122,23 Oct 22,12,Black Rock 2,Mentone,No. 3,Asha Bishop,Samaya Kamdar,Asha Bishop,6-3,6,3,1,0,Completed,true,false,false
+UA022122,23 Oct 22,12,Black Rock 2,Mentone,No. 4,Sam Blackburn,Phillip Nyamukondiwa,Phillip Nyamukondiwa,5-7,5,7,0,1,Completed,true,false,false
+UA022123,23 Oct 22,12,BLTC WHITE,Parkdale Green,No. 1,Callan Bylsma,Samaira Tandon,Samaira Tandon,5-7,5,7,0,1,Completed,true,false,false
+UA022123,23 Oct 22,12,BLTC WHITE,Parkdale Green,No. 2,Joseph Gazzola,Mia Sedunary,Mia Sedunary,1-6,1,6,0,1,Completed,true,false,false
+UA022123,23 Oct 22,12,BLTC WHITE,Parkdale Green,No. 3,Reuben Leonard,Lola Becker,Lola Becker,2-6,2,6,0,1,Completed,true,false,false
+UA022123,23 Oct 22,12,BLTC WHITE,Parkdale Green,No. 4,Spencer Witherington,Isabel Whalley,Isabel Whalley,2-6,2,6,0,1,Completed,true,false,false
+UA022124,23 Oct 22,12,Lauriston,BLTC Blue,No. 1,Jack Weiser,Edward Jones,Jack Weiser,6-4,6,4,1,0,Completed,true,false,false
+UA022124,23 Oct 22,12,Lauriston,BLTC Blue,No. 2,Toby Gordon,Anatoly Dashkevich,Anatoly Dashkevich,0-6,0,6,0,1,Completed,true,false,false
+UA022124,23 Oct 22,12,Lauriston,BLTC Blue,No. 3,Angeline Pham,Luna Barry,Angeline Pham,6-3,6,3,1,0,Completed,true,false,false
+UA022124,23 Oct 22,12,Lauriston,BLTC Blue,No. 4,William Norman,Olivia Hansen,William Norman,6-4,6,4,1,0,Completed,true,true,false
+UA022131,06 Nov 22,13,Black Rock 1,Lauriston,No. 1,James Cheng,Jack Weiser,Jack Weiser,0-6,0,6,0,1,Completed,true,false,false
+UA022131,06 Nov 22,13,Black Rock 1,Lauriston,No. 2,Toby Leeds,Toby Gordon,Toby Leeds,6-1,6,1,1,0,Completed,true,false,false
+UA022131,06 Nov 22,13,Black Rock 1,Lauriston,No. 3,Lucy Tweedle,Deeksha Chandra,Lucy Tweedle,6-4,6,4,1,0,Completed,true,false,false
+UA022131,06 Nov 22,13,Black Rock 1,Lauriston,No. 4,Hugo Letham,Angeline Pham,Angeline Pham,4-6,4,6,0,1,Completed,true,false,false
+UA022132,06 Nov 22,13,BLTC Blue,Coatesville,No. 1,Edward Jones,Kain Entwisle,Edward Jones,6-0,6,0,1,0,Completed,true,false,false
+UA022132,06 Nov 22,13,BLTC Blue,Coatesville,No. 2,Anatoly Dashkevich,Kazu Nakada,Anatoly Dashkevich,6-0,6,0,1,0,Completed,true,false,true
+UA022132,06 Nov 22,13,BLTC Blue,Coatesville,No. 3,Olivia Hansen,Xavier Pace,Xavier Pace,4-6,4,6,0,1,Completed,true,false,false
+UA022132,06 Nov 22,13,BLTC Blue,Coatesville,No. 4,Miki Berg,Alexander Entwisle,Miki Berg,6-2,6,2,1,0,Completed,true,false,false
+UA022133,06 Nov 22,13,Parkdale Green,Black Rock 2,No. 1,Zoe Sedunary,Bahya Hamada,Bahya Hamada,4-6,4,6,0,1,Completed,true,false,false
+UA022133,06 Nov 22,13,Parkdale Green,Black Rock 2,No. 2,Taylor Cousins,Aiden Cleland,Aiden Cleland,2-6,2,6,0,1,Completed,true,false,false
+UA022133,06 Nov 22,13,Parkdale Green,Black Rock 2,No. 3,Lola Becker,Joseph Desmond,Joseph Desmond,1-6,1,6,0,1,Completed,true,false,true
+UA022133,06 Nov 22,13,Parkdale Green,Black Rock 2,No. 4,Isabel Whalley,Asha Bishop,Asha Bishop,5-7,5,7,0,1,Completed,true,false,false
+UA022134,06 Nov 22,13,Mentone,BLTC WHITE,No. 1,Daniel Rutkowski,Callan Bylsma,Callan Bylsma,0-6,0,6,0,1,Completed,true,false,false
+UA022134,06 Nov 22,13,Mentone,BLTC WHITE,No. 2,Mango Freeman,Charlie Dyer,Charlie Dyer,3-6,3,6,0,1,Completed,true,false,false
+UA022134,06 Nov 22,13,Mentone,BLTC WHITE,No. 3,Calvin George,Reuben Leonard,Reuben Leonard,3-6,3,6,0,1,Completed,true,false,false
+UA022134,06 Nov 22,13,Mentone,BLTC WHITE,No. 4,Phillip Nyamukondiwa,Spencer Witherington,Phillip Nyamukondiwa,6-1,6,1,1,0,Completed,true,false,false
+UA022141,13 Nov 22,14,Black Rock 1,BLTC Blue,No. 1,James Cheng,Edward Jones,Edward Jones,6-7,6,7,0,1,Completed,true,false,false
+UA022141,13 Nov 22,14,Black Rock 1,BLTC Blue,No. 2,Connor Brown,Anatoly Dashkevich,Anatoly Dashkevich,1-6,1,6,0,1,Completed,true,false,false
+UA022141,13 Nov 22,14,Black Rock 1,BLTC Blue,No. 3,Lucy Tweedle,Olivia Hansen,Lucy Tweedle,6-1,6,1,1,0,Completed,true,false,false
+UA022141,13 Nov 22,14,Black Rock 1,BLTC Blue,No. 4,Hugo Letham,Miki Berg,Hugo Letham,7-5,7,5,1,0,Completed,true,false,false
+UA022142,13 Nov 22,14,Coatesville,Lauriston,No. 1,Kain Entwisle,Jack Weiser,Jack Weiser,2-6,2,6,0,1,Completed,true,false,false
+UA022142,13 Nov 22,14,Coatesville,Lauriston,No. 2,Xavier Pace,Toby Gordon,Xavier Pace,6-2,6,2,1,0,Completed,true,false,false
+UA022142,13 Nov 22,14,Coatesville,Lauriston,No. 3,Alexander Entwisle,Deeksha Chandra,Deeksha Chandra,3-6,3,6,0,1,Completed,true,false,false
+UA022142,13 Nov 22,14,Coatesville,Lauriston,No. 4,Dhruv Lahari,Angeline Pham,Angeline Pham,1-6,1,6,0,1,Completed,true,false,false
+UA022143,13 Nov 22,14,Parkdale Green,Mentone,No. 1,Samaira Tandon,Daniel Rutkowski,Daniel Rutkowski,3-6,3,6,0,1,Completed,true,false,false
+UA022143,13 Nov 22,14,Parkdale Green,Mentone,No. 2,Ela Simsek,Mango Freeman,Ela Simsek,6-3,6,3,1,0,Completed,true,false,false
+UA022143,13 Nov 22,14,Parkdale Green,Mentone,No. 3,Zoe Sedunary,Calvin George,Zoe Sedunary,7-6,7,6,1,0,Completed,true,false,false
+UA022143,13 Nov 22,14,Parkdale Green,Mentone,No. 4,Mia Sedunary,Phillip Nyamukondiwa,Phillip Nyamukondiwa,6-7,6,7,0,1,Completed,true,false,false
+UA022144,13 Nov 22,14,BLTC WHITE,Black Rock 2,No. 1,Callan Bylsma,Bahya Hamada,Bahya Hamada,4-6,4,6,0,1,Completed,true,false,false
+UA022144,13 Nov 22,14,BLTC WHITE,Black Rock 2,No. 2,Finlay Bennett,Asha Bishop,Finlay Bennett,6-3,6,3,1,0,Completed,true,true,false
+UA022144,13 Nov 22,14,BLTC WHITE,Black Rock 2,No. 3,Joseph Gazzola,Ruby Murray,Joseph Gazzola,6-3,6,3,1,0,Completed,true,false,false
+UA022144,13 Nov 22,14,BLTC WHITE,Black Rock 2,No. 4,Spencer Witherington,Sam Blackburn,Sam Blackburn,4-6,4,6,0,1,Completed,true,false,false
+UA022301,,16,Black Rock 1,Parkdale Green,No. 1,James Cheng,Samaira Tandon,James Cheng,6-3,6,3,1,0,Completed,true,false,false
+UA022301,,16,Black Rock 1,Parkdale Green,No. 2,Toby Leeds,Ela Simsek,Toby Leeds,6-4,6,4,1,0,Completed,true,false,false
+UA022301,,16,Black Rock 1,Parkdale Green,No. 3,Connor Brown,Zoe Sedunary,Zoe Sedunary,0-6,0,6,0,1,Completed,true,false,false
+UA022301,,16,Black Rock 1,Parkdale Green,No. 4,Lucy Tweedle,Mia Sedunary,Lucy Tweedle,7-5,7,5,1,0,Completed,true,false,false
+UA022302,,16,BLTC Blue,Lauriston,No. 1,Edward Jones,Jack Weiser,Jack Weiser,2-6,2,6,0,1,Completed,true,false,false
+UA022302,,16,BLTC Blue,Lauriston,No. 2,Anatoly Dashkevich,Toby Gordon,Anatoly Dashkevich,6-0,6,0,1,0,Completed,true,false,false
+UA022302,,16,BLTC Blue,Lauriston,No. 3,Luna Barry,Deeksha Chandra,Deeksha Chandra,2-6,2,6,0,1,Completed,true,false,false
+UA022302,,16,BLTC Blue,Lauriston,No. 4,Olivia Hansen,Angeline Pham,Angeline Pham,4-6,4,6,0,1,Completed,true,false,false
+UA022321,,17,Black Rock 1,Lauriston,No. 1,Kaylee Brown,Jack Weiser,Jack Weiser,0-6,0,6,0,1,Completed,true,false,false
+UA022321,,17,Black Rock 1,Lauriston,No. 2,James Cheng,Toby Gordon,James Cheng,6-3,6,3,1,0,Completed,true,false,false
+UA022321,,17,Black Rock 1,Lauriston,No. 3,Toby Leeds,Deeksha Chandra,Toby Leeds,6-0,6,0,1,0,Completed,true,false,false
+UA022321,,17,Black Rock 1,Lauriston,No. 4,Lucy Tweedle,Angeline Pham,Angeline Pham,4-6,4,6,0,1,Completed,true,false,false

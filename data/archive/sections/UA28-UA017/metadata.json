@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA28-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2021",
+  "season_id": "UA28",
+  "season_label": "Autumn 2021",
+  "source_section_code": "UA017",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Highett",
+      "wins": 10,
+      "points": 98,
+      "percentage": 144.92,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Elsternwick Park",
+      "wins": 6,
+      "points": 75,
+      "percentage": 118.15,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Murrumbeena",
+      "wins": 5,
+      "points": 72,
+      "percentage": 106.35,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Mentone",
+      "wins": 6,
+      "points": 69,
+      "percentage": 104.33,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Black Rock",
+      "wins": 5,
+      "points": 62,
+      "percentage": 89.0,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC",
+      "wins": 4,
+      "points": 58,
+      "percentage": 100.75,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Carmelite",
+      "wins": 1,
+      "points": 54,
+      "percentage": 93.62,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "St Pauls",
+      "wins": 1,
+      "points": 32,
+      "percentage": 62.54,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA28-UA017",
+  "fixtures": 55,
+  "completed_fixtures": 43,
+  "draw_fixtures": 45,
+  "singles_rubbers": 171,
+  "doubles_rubbers": 85,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

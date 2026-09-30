@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA37-UA004",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2025",
+  "season_id": "UA37",
+  "season_label": "Spring 2025",
+  "source_section_code": "UA004",
+  "section_label": "Section 4",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "GPHC Yellow",
+      "wins": 8,
+      "points": 89,
+      "percentage": 129.56,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Kooyong",
+      "wins": 8,
+      "points": 89,
+      "percentage": 118.04,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Glen Huntly",
+      "wins": 7,
+      "points": 83,
+      "percentage": 119.72,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "FCTC",
+      "wins": 7,
+      "points": 69,
+      "percentage": 96.83,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Lauriston",
+      "wins": 5,
+      "points": 66,
+      "percentage": 100.96,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St James",
+      "wins": 4,
+      "points": 64,
+      "percentage": 86.07,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Elsternwick Park",
+      "wins": 4,
+      "points": 54,
+      "percentage": 79.8,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC Blue",
+      "wins": 3,
+      "points": 46,
+      "percentage": 84.88,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA37-UA004",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 210,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

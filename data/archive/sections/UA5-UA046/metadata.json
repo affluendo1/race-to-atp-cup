@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA5-UA046",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2009",
+  "season_id": "UA5",
+  "season_label": "Spring 2009",
+  "source_section_code": "UA046",
+  "section_label": "9",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Black Rock",
+      "wins": 0,
+      "points": 99,
+      "percentage": 142.7,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Port Melbourne",
+      "wins": 0,
+      "points": 91,
+      "percentage": 129.97,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Hampton",
+      "wins": 0,
+      "points": 82.5,
+      "percentage": 110.76,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong Scot 1",
+      "wins": 0,
+      "points": 81,
+      "percentage": 126.33,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Caulfield Rec",
+      "wins": 0,
+      "points": 77,
+      "percentage": 107.95,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Glen Eira Beech",
+      "wins": 0,
+      "points": 66,
+      "percentage": 95.23,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 33,
+      "percentage": 64.38,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong Scot 2",
+      "wins": 0,
+      "points": 30.5,
+      "percentage": 56.91,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA5-UA046",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 3,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

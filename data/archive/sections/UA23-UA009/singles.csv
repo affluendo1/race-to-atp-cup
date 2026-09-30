@@ -1,0 +1,208 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA009011,22 Jul 18,1,Highmoor Uniting,Aspendale,No. 1,Ian Rachinsky,Matheson Chandler,Ian Rachinsky,6-0,6,0,1,0,Completed,true,false,false
+UA009011,22 Jul 18,1,Highmoor Uniting,Aspendale,No. 2,Josh Glassock,Nicholas Kircher-Wilson,Josh Glassock,6-0,6,0,1,0,Completed,true,false,false
+UA009011,22 Jul 18,1,Highmoor Uniting,Aspendale,No. 3,Asher Lithgow,Jarvis Dorian,Asher Lithgow,6-3,6,3,1,0,Completed,true,false,false
+UA009011,22 Jul 18,1,Highmoor Uniting,Aspendale,No. 4,Adam Horan,Arend Geist,Adam Horan,6-0,6,0,1,0,Completed,true,false,false
+UA009012,22 Jul 18,1,Caulfield Rec,Royal South Yarra,No. 1,Liran Podolsky,Flynn Thompson,Flynn Thompson,3-6,3,6,0,1,Completed,true,false,false
+UA009012,22 Jul 18,1,Caulfield Rec,Royal South Yarra,No. 2,Roderick Hill,Emre Baker,Roderick Hill,6-2,6,2,1,0,Completed,true,false,false
+UA009012,22 Jul 18,1,Caulfield Rec,Royal South Yarra,No. 3,Sienna Farrugia,Will Maughan,Will Maughan,4-6,4,6,0,1,Completed,true,false,false
+UA009013,22 Jul 18,1,Murrumbeena,Tennis World,No. 1,Riley Pisano,Ruby Kirkwood,Ruby Kirkwood,5-7,5,7,0,1,Completed,true,false,false
+UA009013,22 Jul 18,1,Murrumbeena,Tennis World,No. 2,Bailey Loke,Tom Jorgensen,Tom Jorgensen,0-6,0,6,0,1,Completed,true,false,false
+UA009013,22 Jul 18,1,Murrumbeena,Tennis World,No. 3,Jack Rezka,Ella Burns,Ella Burns,1-6,1,6,0,1,Completed,true,false,false
+UA009013,22 Jul 18,1,Murrumbeena,Tennis World,No. 4,Ari Komninos,Arianne Tolikas,Arianne Tolikas,0-6,0,6,0,1,Completed,true,false,false
+UA009014,22 Jul 18,1,Maccabi,GPHC,No. 1,Max Zhu,Harri Joughin,Max Zhu,6-0,6,0,1,0,Completed,true,false,false
+UA009014,22 Jul 18,1,Maccabi,GPHC,No. 2,Bradley Bergman,Jordon Wong,Jordon Wong,2-6,2,6,0,1,Completed,true,false,false
+UA009014,22 Jul 18,1,Maccabi,GPHC,No. 3,William Yan,Charlotte Downs,William Yan,6-4,6,4,1,0,Completed,true,false,false
+UA009014,22 Jul 18,1,Maccabi,GPHC,No. 4,Jed Kaufman,Emily Retschko,Emily Retschko,4-6,4,6,0,1,Completed,true,false,false
+UA009021,29 Jul 18,2,GPHC,Highmoor Uniting,No. 1,Jordon Wong,Ian Rachinsky,Ian Rachinsky,4-6,4,6,0,1,Completed,true,false,false
+UA009021,29 Jul 18,2,GPHC,Highmoor Uniting,No. 2,Charlotte Downs,Josh Glassock,Josh Glassock,3-6,3,6,0,1,Completed,true,false,false
+UA009021,29 Jul 18,2,GPHC,Highmoor Uniting,No. 3,Hugo Dobrotwir,Leo McInerney,Hugo Dobrotwir,6-0,6,0,1,0,Completed,true,false,false
+UA009021,29 Jul 18,2,GPHC,Highmoor Uniting,No. 4,Emily Retschko,Nikola Suluburic,Nikola Suluburic,2-6,2,6,0,1,Completed,true,false,false
+UA009022,29 Jul 18,2,Aspendale,Caulfield Rec,No. 1,Matheson Chandler,[Unnamed player — TROLS UA009022 away code 1],Matheson Chandler,6-0,6,0,1,0,Completed,false,false,false
+UA009022,29 Jul 18,2,Aspendale,Caulfield Rec,No. 2,Nicholas Kircher-Wilson,Roderick Hill,Roderick Hill,0-6,0,6,0,1,Completed,true,false,false
+UA009022,29 Jul 18,2,Aspendale,Caulfield Rec,No. 3,Bailey Dorian,Sienna Farrugia,Bailey Dorian,6-1,6,1,1,0,Completed,true,false,false
+UA009022,29 Jul 18,2,Aspendale,Caulfield Rec,No. 4,Max Jaszewski,James Liao,Max Jaszewski,6-3,6,3,1,0,Completed,true,false,false
+UA009023,29 Jul 18,2,Royal South Yarra,Murrumbeena,No. 1,Freddie Campbell,Thomas Moore,Thomas Moore,2-6,2,6,0,1,Completed,true,false,false
+UA009023,29 Jul 18,2,Royal South Yarra,Murrumbeena,No. 2,Will Maughan,Bailey Loke,Will Maughan,6-0,6,0,1,0,Completed,true,false,false
+UA009023,29 Jul 18,2,Royal South Yarra,Murrumbeena,No. 3,Marlo Hearnden,Jack Rezka,Marlo Hearnden,6-2,6,2,1,0,Completed,true,false,false
+UA009023,29 Jul 18,2,Royal South Yarra,Murrumbeena,No. 4,Anika Liddle,Ari Komninos,Ari Komninos,2-6,2,6,0,1,Completed,true,false,false
+UA009031,05 Aug 18,3,Highmoor Uniting,Tennis World,No. 1,Ian Rachinsky,Ruby Kirkwood,Ian Rachinsky,6-1,6,1,1,0,Completed,true,false,false
+UA009031,05 Aug 18,3,Highmoor Uniting,Tennis World,No. 2,Josh Glassock,Alexander Giatsis,Josh Glassock,6-2,6,2,1,0,Completed,true,false,false
+UA009031,05 Aug 18,3,Highmoor Uniting,Tennis World,No. 3,Leo McInerney,Tom Jorgensen,Leo McInerney,7-6,7,6,1,0,Completed,true,false,false
+UA009031,05 Aug 18,3,Highmoor Uniting,Tennis World,No. 4,Nikola Suluburic,Arianne Tolikas,Nikola Suluburic,7-6,7,6,1,0,Completed,true,false,false
+UA009032,05 Aug 18,3,Caulfield Rec,GPHC,No. 1,Liran Podolsky,Jordon Wong,Liran Podolsky,6-2,6,2,1,0,Completed,true,false,false
+UA009032,05 Aug 18,3,Caulfield Rec,GPHC,No. 2,Roderick Hill,Charlotte Downs,Roderick Hill,7-6,7,6,1,0,Completed,true,false,false
+UA009032,05 Aug 18,3,Caulfield Rec,GPHC,No. 3,Sienna Farrugia,Hugo Dobrotwir,Hugo Dobrotwir,1-6,1,6,0,1,Completed,true,false,false
+UA009032,05 Aug 18,3,Caulfield Rec,GPHC,No. 4,James Liao,Connor Boussioutas,James Liao,6-2,6,2,1,0,Completed,true,false,false
+UA009033,05 Aug 18,3,Murrumbeena,Aspendale,No. 1,Thomas Moore,Matheson Chandler,Thomas Moore,6-3,6,3,1,0,Completed,true,false,false
+UA009033,05 Aug 18,3,Murrumbeena,Aspendale,No. 2,Riley Pisano,Nicholas Kircher-Wilson,Riley Pisano,6-3,6,3,1,0,Completed,true,false,false
+UA009033,05 Aug 18,3,Murrumbeena,Aspendale,No. 3,Bailey Loke,Bailey Dorian,Bailey Dorian,1-6,1,6,0,1,Completed,true,false,false
+UA009033,05 Aug 18,3,Murrumbeena,Aspendale,No. 4,Jack Rezka,Jarvis Dorian,Jarvis Dorian,4-6,4,6,0,1,Completed,true,false,false
+UA009034,05 Aug 18,3,Maccabi,Royal South Yarra,No. 1,Max Zhu,Freddie Campbell,Max Zhu,6-2,6,2,1,0,Completed,true,false,false
+UA009034,05 Aug 18,3,Maccabi,Royal South Yarra,No. 2,Danielle Nagar,[Unnamed player — TROLS UA009034 away code 2],Danielle Nagar,6-0,6,0,1,0,Completed,false,false,false
+UA009034,05 Aug 18,3,Maccabi,Royal South Yarra,No. 3,Asher Hirschfield,Eliza Mailer,Asher Hirschfield,6-3,6,3,1,0,Completed,true,false,false
+UA009034,05 Aug 18,3,Maccabi,Royal South Yarra,No. 4,Jed Kaufman,Chloe Cooper,Chloe Cooper,2-6,2,6,0,1,Completed,true,false,false
+UA009041,12 Aug 18,4,Royal South Yarra,Highmoor Uniting,No. 1,Freddie Campbell,Ian Rachinsky,Ian Rachinsky,2-6,2,6,0,1,Completed,true,false,false
+UA009041,12 Aug 18,4,Royal South Yarra,Highmoor Uniting,No. 2,Will Maughan,Josh Glassock,Josh Glassock,3-6,3,6,0,1,Completed,true,false,false
+UA009041,12 Aug 18,4,Royal South Yarra,Highmoor Uniting,No. 3,Lucy Campbell,Asher Lithgow,Lucy Campbell,6-2,6,2,1,0,Completed,true,false,false
+UA009041,12 Aug 18,4,Royal South Yarra,Highmoor Uniting,No. 4,Chloe Cooper,Adam Horan,Adam Horan,2-6,2,6,0,1,Completed,true,false,false
+UA009042,12 Aug 18,4,Tennis World,Caulfield Rec,No. 1,Ruby Kirkwood,Liran Podolsky,Liran Podolsky,3-6,3,6,0,1,Completed,true,false,false
+UA009042,12 Aug 18,4,Tennis World,Caulfield Rec,No. 2,Alexander Giatsis,Roderick Hill,Roderick Hill,5-7,5,7,0,1,Completed,true,false,false
+UA009042,12 Aug 18,4,Tennis World,Caulfield Rec,No. 3,Ella Burns,Sienna Farrugia,Ella Burns,6-1,6,1,1,0,Completed,true,false,false
+UA009042,12 Aug 18,4,Tennis World,Caulfield Rec,No. 4,Chelsea Hall,James Liao,Chelsea Hall,6-4,6,4,1,0,Completed,true,false,false
+UA009043,12 Aug 18,4,GPHC,Murrumbeena,No. 1,Jordon Wong,Thomas Moore,Jordon Wong,6-0,6,0,1,0,Completed,true,false,false
+UA009043,12 Aug 18,4,GPHC,Murrumbeena,No. 2,Hugo Dobrotwir,Bailey Loke,Hugo Dobrotwir,6-2,6,2,1,0,Completed,true,false,false
+UA009043,12 Aug 18,4,GPHC,Murrumbeena,No. 3,Emily Retschko,Jack Rezka,Jack Rezka,3-6,3,6,0,1,Completed,true,false,false
+UA009043,12 Aug 18,4,GPHC,Murrumbeena,No. 4,Connor Boussioutas,Ari Komninos,Ari Komninos,4-6,4,6,0,1,Completed,true,false,false
+UA009044,12 Aug 18,4,Aspendale,Maccabi,No. 1,Bailey Dorian,Bradley Bergman,Bailey Dorian,7-5,7,5,1,0,Completed,true,false,false
+UA009044,12 Aug 18,4,Aspendale,Maccabi,No. 2,Matheson Chandler,Cody Brits,Matheson Chandler,6-2,6,2,1,0,Completed,true,false,false
+UA009044,12 Aug 18,4,Aspendale,Maccabi,No. 3,Jarvis Dorian,William Yan,Jarvis Dorian,7-6,7,6,1,0,Completed,true,false,false
+UA009044,12 Aug 18,4,Aspendale,Maccabi,No. 4,Max Jaszewski,Jed Kaufman,Max Jaszewski,6-1,6,1,1,0,Completed,true,false,false
+UA009061,26 Aug 18,6,Caulfield Rec,Murrumbeena,No. 1,Liran Podolsky,Thomas Moore,Liran Podolsky,7-5,7,5,1,0,Completed,true,false,false
+UA009061,26 Aug 18,6,Caulfield Rec,Murrumbeena,No. 2,Roderick Hill,Bailey Loke,Roderick Hill,6-0,6,0,1,0,Completed,true,false,false
+UA009061,26 Aug 18,6,Caulfield Rec,Murrumbeena,No. 3,Sienna Farrugia,Jack Rezka,Sienna Farrugia,6-3,6,3,1,0,Completed,true,false,false
+UA009061,26 Aug 18,6,Caulfield Rec,Murrumbeena,No. 4,James Liao,Ari Komninos,James Liao,6-0,6,0,1,0,Completed,true,false,false
+UA009062,26 Aug 18,6,Maccabi,Highmoor Uniting,No. 1,Bradley Bergman,Ian Rachinsky,Ian Rachinsky,3-6,3,6,0,1,Completed,true,false,false
+UA009062,26 Aug 18,6,Maccabi,Highmoor Uniting,No. 2,Danielle Nagar,Leo McInerney,Leo McInerney,2-6,2,6,0,1,Completed,true,false,false
+UA009062,26 Aug 18,6,Maccabi,Highmoor Uniting,No. 3,Cody Brits,Asher Lithgow,Asher Lithgow,2-6,2,6,0,1,Completed,true,false,false
+UA009062,26 Aug 18,6,Maccabi,Highmoor Uniting,No. 4,William Yan,Nikola Suluburic,Nikola Suluburic,6-7,6,7,0,1,Completed,true,false,false
+UA009063,26 Aug 18,6,Tennis World,Royal South Yarra,No. 1,Alexander Giatsis,Freddie Campbell,Alexander Giatsis,6-2,6,2,1,0,Completed,true,false,false
+UA009063,26 Aug 18,6,Tennis World,Royal South Yarra,No. 2,Tom Jorgensen,Will Maughan,Will Maughan,1-6,1,6,0,1,Completed,true,false,false
+UA009063,26 Aug 18,6,Tennis World,Royal South Yarra,No. 3,Ella Burns,Chloe Cooper,Ella Burns,7-5,7,5,1,0,Completed,true,false,false
+UA009063,26 Aug 18,6,Tennis World,Royal South Yarra,No. 4,Arianne Tolikas,Archie Gough,Archie Gough,1-6,1,6,0,1,Completed,true,false,false
+UA009064,26 Aug 18,6,Aspendale,GPHC,No. 1,Bailey Dorian,Charlotte Downs,Bailey Dorian,6-4,6,4,1,0,Completed,true,false,false
+UA009064,26 Aug 18,6,Aspendale,GPHC,No. 2,Jarvis Dorian,Hugo Dobrotwir,Hugo Dobrotwir,6-7,6,7,0,1,Completed,true,false,false
+UA009064,26 Aug 18,6,Aspendale,GPHC,No. 3,Nicholas Kircher-Wilson,Emily Retschko,Nicholas Kircher-Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA009064,26 Aug 18,6,Aspendale,GPHC,No. 4,Arend Geist,Connor Boussioutas,Connor Boussioutas,0-6,0,6,0,1,Completed,true,false,false
+UA009071,02 Sep 18,7,Highmoor Uniting,Murrumbeena,No. 1,Ian Rachinsky,Thomas Moore,Ian Rachinsky,7-5,7,5,1,0,Completed,true,false,false
+UA009071,02 Sep 18,7,Highmoor Uniting,Murrumbeena,No. 2,Josh Glassock,Riley Pisano,Josh Glassock,6-0,6,0,1,0,Completed,true,false,false
+UA009071,02 Sep 18,7,Highmoor Uniting,Murrumbeena,No. 3,Asher Lithgow,Jack Rezka,Asher Lithgow,6-2,6,2,1,0,Completed,true,false,false
+UA009071,02 Sep 18,7,Highmoor Uniting,Murrumbeena,No. 4,Adam Horan,Ari Komninos,Ari Komninos,4-6,4,6,0,1,Completed,true,false,false
+UA009072,02 Sep 18,7,Caulfield Rec,Maccabi,No. 1,Liran Podolsky,Max Zhu,Liran Podolsky,6-4,6,4,1,0,Completed,true,false,false
+UA009072,02 Sep 18,7,Caulfield Rec,Maccabi,No. 2,Roderick Hill,William Yan,Roderick Hill,6-0,6,0,1,0,Completed,true,false,false
+UA009072,02 Sep 18,7,Caulfield Rec,Maccabi,No. 3,Sienna Farrugia,Jed Kaufman,Sienna Farrugia,6-3,6,3,1,0,Completed,true,false,false
+UA009072,02 Sep 18,7,Caulfield Rec,Maccabi,No. 4,James Liao,Asher Hirschfield,Asher Hirschfield,1-6,1,6,0,1,Completed,true,false,false
+UA009073,02 Sep 18,7,GPHC,Royal South Yarra,No. 1,Jordon Wong,Freddie Campbell,Jordon Wong,6-2,6,2,1,0,Completed,true,false,false
+UA009073,02 Sep 18,7,GPHC,Royal South Yarra,No. 2,Charlotte Downs,Oliver McNamara,Charlotte Downs,6-1,6,1,1,0,Completed,true,false,false
+UA009073,02 Sep 18,7,GPHC,Royal South Yarra,No. 3,Hugo Dobrotwir,Eliza Mailer,Hugo Dobrotwir,6-1,6,1,1,0,Completed,true,false,false
+UA009073,02 Sep 18,7,GPHC,Royal South Yarra,No. 4,Emily Retschko,Chloe Cooper,Chloe Cooper,4-6,4,6,0,1,Completed,true,false,false
+UA009074,02 Sep 18,7,Tennis World,Aspendale,No. 1,Alexander Giatsis,Matheson Chandler,Matheson Chandler,4-6,4,6,0,1,Completed,true,false,false
+UA009074,02 Sep 18,7,Tennis World,Aspendale,No. 2,Tom Jorgensen,Jarvis Dorian,Tom Jorgensen,6-3,6,3,1,0,Completed,true,false,false
+UA009074,02 Sep 18,7,Tennis World,Aspendale,No. 3,Ella Burns,Nicholas Kircher-Wilson,Ella Burns,6-0,6,0,1,0,Completed,true,false,false
+UA009074,02 Sep 18,7,Tennis World,Aspendale,No. 4,Chelsea Hall,Arend Geist,Chelsea Hall,6-1,6,1,1,0,Completed,true,false,false
+UA009081,09 Sep 18,8,Aspendale,Highmoor Uniting,No. 1,Bailey Dorian,Josh Glassock,Josh Glassock,1-6,1,6,0,1,Completed,true,false,false
+UA009081,09 Sep 18,8,Aspendale,Highmoor Uniting,No. 2,Matheson Chandler,Leo McInerney,Leo McInerney,2-6,2,6,0,1,Completed,true,false,false
+UA009081,09 Sep 18,8,Aspendale,Highmoor Uniting,No. 3,Jarvis Dorian,Asher Lithgow,Asher Lithgow,3-6,3,6,0,1,Completed,true,false,false
+UA009081,09 Sep 18,8,Aspendale,Highmoor Uniting,No. 4,Max Jaszewski,Nikola Suluburic,Max Jaszewski,6-4,6,4,1,0,Completed,true,false,false
+UA009082,09 Sep 18,8,Royal South Yarra,Caulfield Rec,No. 1,Will Maughan,Liran Podolsky,Liran Podolsky,5-7,5,7,0,1,Completed,true,false,false
+UA009082,09 Sep 18,8,Royal South Yarra,Caulfield Rec,No. 2,Lucy Campbell,Roderick Hill,Roderick Hill,2-6,2,6,0,1,Completed,true,false,false
+UA009082,09 Sep 18,8,Royal South Yarra,Caulfield Rec,No. 3,Eliza Mailer,Sienna Farrugia,Eliza Mailer,6-3,6,3,1,0,Completed,true,false,false
+UA009082,09 Sep 18,8,Royal South Yarra,Caulfield Rec,No. 4,Chloe Cooper,James Liao,Chloe Cooper,6-2,6,2,1,0,Completed,true,false,false
+UA009083,09 Sep 18,8,Tennis World,Murrumbeena,No. 1,Alexander Giatsis,Thomas Moore,Alexander Giatsis,6-3,6,3,1,0,Completed,true,false,false
+UA009083,09 Sep 18,8,Tennis World,Murrumbeena,No. 2,Tom Jorgensen,Riley Pisano,Tom Jorgensen,6-3,6,3,1,0,Completed,true,false,false
+UA009083,09 Sep 18,8,Tennis World,Murrumbeena,No. 3,Ella Burns,Bailey Loke,Ella Burns,6-2,6,2,1,0,Completed,true,false,false
+UA009083,09 Sep 18,8,Tennis World,Murrumbeena,No. 4,Chelsea Hall,Jack Rezka,Chelsea Hall,6-2,6,2,1,0,Completed,true,false,false
+UA009084,09 Sep 18,8,GPHC,Maccabi,No. 1,Jordon Wong,Max Zhu,Jordon Wong,6-0,6,0,1,0,Completed,true,false,false
+UA009084,09 Sep 18,8,GPHC,Maccabi,No. 2,Hugo Dobrotwir,Bradley Bergman,Hugo Dobrotwir,7-5,7,5,1,0,Completed,true,false,false
+UA009084,09 Sep 18,8,GPHC,Maccabi,No. 3,Emily Retschko,Jed Kaufman,Emily Retschko,6-0,6,0,1,0,Completed,true,false,false
+UA009084,09 Sep 18,8,GPHC,Maccabi,No. 4,Connor Boussioutas,Asher Hirschfield,Asher Hirschfield,4-6,4,6,0,1,Completed,true,false,false
+UA009091,16 Sep 18,9,Highmoor Uniting,GPHC,No. 1,Ian Rachinsky,Jordon Wong,Ian Rachinsky,6-1,6,1,1,0,Completed,true,false,false
+UA009091,16 Sep 18,9,Highmoor Uniting,GPHC,No. 2,Leo McInerney,Charlotte Downs,Leo McInerney,6-1,6,1,1,0,Completed,true,false,false
+UA009091,16 Sep 18,9,Highmoor Uniting,GPHC,No. 3,Asher Lithgow,Emily Retschko,Asher Lithgow,6-0,6,0,1,0,Completed,true,false,false
+UA009091,16 Sep 18,9,Highmoor Uniting,GPHC,No. 4,Adam Horan,Connor Boussioutas,Connor Boussioutas,4-6,4,6,0,1,Completed,true,false,false
+UA009092,16 Sep 18,9,Caulfield Rec,Aspendale,No. 1,Liran Podolsky,Bailey Dorian,Liran Podolsky,6-4,6,4,1,0,Completed,true,false,false
+UA009092,16 Sep 18,9,Caulfield Rec,Aspendale,No. 2,Roderick Hill,Jarvis Dorian,Roderick Hill,6-0,6,0,1,0,Completed,true,false,false
+UA009092,16 Sep 18,9,Caulfield Rec,Aspendale,No. 3,Sienna Farrugia,Nicholas Kircher-Wilson,Sienna Farrugia,6-2,6,2,1,0,Completed,true,false,false
+UA009092,16 Sep 18,9,Caulfield Rec,Aspendale,No. 4,James Liao,Arend Geist,James Liao,6-0,6,0,1,0,Completed,true,false,false
+UA009093,16 Sep 18,9,Murrumbeena,Royal South Yarra,No. 1,Thomas Moore,Will Maughan,Will Maughan,3-6,3,6,0,1,Completed,true,false,false
+UA009093,16 Sep 18,9,Murrumbeena,Royal South Yarra,No. 2,Riley Pisano,Lucy Campbell,Lucy Campbell,4-6,4,6,0,1,Completed,true,false,false
+UA009093,16 Sep 18,9,Murrumbeena,Royal South Yarra,No. 3,Bailey Loke,Eliza Mailer,Bailey Loke,6-2,6,2,1,0,Completed,true,false,false
+UA009093,16 Sep 18,9,Murrumbeena,Royal South Yarra,No. 4,Ari Komninos,Chloe Cooper,Chloe Cooper,3-6,3,6,0,1,Completed,true,false,false
+UA009094,16 Sep 18,9,Maccabi,Tennis World,No. 1,Max Zhu,Alexander Giatsis,Max Zhu,7-5,7,5,1,0,Completed,true,false,false
+UA009094,16 Sep 18,9,Maccabi,Tennis World,No. 2,Cody Brits,Ella Burns,Ella Burns,2-6,2,6,0,1,Completed,true,false,false
+UA009094,16 Sep 18,9,Maccabi,Tennis World,No. 3,William Yan,Arianne Tolikas,Arianne Tolikas,0-6,0,6,0,1,Completed,true,false,false
+UA009094,16 Sep 18,9,Maccabi,Tennis World,No. 4,Asher Hirschfield,[Unnamed player — TROLS UA009094 away code 4],Asher Hirschfield,6-0,6,0,1,0,Completed,false,false,false
+UA009101,14 Oct 18,10,Tennis World,Highmoor Uniting,No. 1,Tom Jorgensen,Ian Rachinsky,Ian Rachinsky,3-6,3,6,0,1,Completed,true,false,false
+UA009101,14 Oct 18,10,Tennis World,Highmoor Uniting,No. 2,Ella Burns,Asher Lithgow,Ella Burns,6-2,6,2,1,0,Completed,true,false,false
+UA009101,14 Oct 18,10,Tennis World,Highmoor Uniting,No. 3,Arianne Tolikas,Adam Horan,Arianne Tolikas,6-3,6,3,1,0,Completed,true,false,false
+UA009101,14 Oct 18,10,Tennis World,Highmoor Uniting,No. 4,Chelsea Hall,Nikola Suluburic,Nikola Suluburic,6-7,6,7,0,1,Completed,true,false,false
+UA009102,14 Oct 18,10,GPHC,Caulfield Rec,No. 1,Harri Joughin,Liran Podolsky,Liran Podolsky,3-6,3,6,0,1,Completed,true,false,false
+UA009102,14 Oct 18,10,GPHC,Caulfield Rec,No. 2,Charlotte Downs,Roderick Hill,Roderick Hill,6-7,6,7,0,1,Completed,true,false,false
+UA009102,14 Oct 18,10,GPHC,Caulfield Rec,No. 3,Hugo Dobrotwir,Sienna Farrugia,Hugo Dobrotwir,6-2,6,2,1,0,Completed,true,false,false
+UA009102,14 Oct 18,10,GPHC,Caulfield Rec,No. 4,Connor Boussioutas,James Liao,James Liao,1-6,1,6,0,1,Completed,true,false,false
+UA009103,14 Oct 18,10,Aspendale,Murrumbeena,No. 1,Ben Geisler,Thomas Moore,Ben Geisler,6-1,6,1,1,0,Completed,true,false,false
+UA009103,14 Oct 18,10,Aspendale,Murrumbeena,No. 2,Matheson Chandler,Riley Pisano,Matheson Chandler,6-3,6,3,1,0,Completed,true,false,false
+UA009103,14 Oct 18,10,Aspendale,Murrumbeena,No. 3,Nicholas Kircher-Wilson,Jack Rezka,Jack Rezka,0-6,0,6,0,1,Completed,true,false,false
+UA009103,14 Oct 18,10,Aspendale,Murrumbeena,No. 4,Max Jaszewski,Ari Komninos,Max Jaszewski,6-4,6,4,1,0,Completed,true,false,false
+UA009104,14 Oct 18,10,Royal South Yarra,Maccabi,No. 1,Freddie Campbell,Max Zhu,Max Zhu,1-6,1,6,0,1,Completed,true,false,false
+UA009104,14 Oct 18,10,Royal South Yarra,Maccabi,No. 2,Will Maughan,Bradley Bergman,Bradley Bergman,4-6,4,6,0,1,Completed,true,false,false
+UA009104,14 Oct 18,10,Royal South Yarra,Maccabi,No. 3,Lucy Campbell,Cody Brits,Lucy Campbell,6-3,6,3,1,0,Completed,true,false,false
+UA009104,14 Oct 18,10,Royal South Yarra,Maccabi,No. 4,Chloe Cooper,Asher Hirschfield,Asher Hirschfield,6-7,6,7,0,1,Completed,true,false,false
+UA009111,21 Oct 18,11,Highmoor Uniting,Royal South Yarra,No. 1,Ian Rachinsky,Freddie Campbell,Ian Rachinsky,6-0,6,0,1,0,Completed,true,false,false
+UA009111,21 Oct 18,11,Highmoor Uniting,Royal South Yarra,No. 2,Josh Glassock,Lucy Campbell,Josh Glassock,6-3,6,3,1,0,Completed,true,false,false
+UA009111,21 Oct 18,11,Highmoor Uniting,Royal South Yarra,No. 3,Leo McInerney,Oliver McNamara,Leo McInerney,6-2,6,2,1,0,Completed,true,false,false
+UA009111,21 Oct 18,11,Highmoor Uniting,Royal South Yarra,No. 4,Nikola Suluburic,Eliza Mailer,Nikola Suluburic,6-2,6,2,1,0,Completed,true,false,false
+UA009112,21 Oct 18,11,Caulfield Rec,Tennis World,No. 1,Liran Podolsky,Alexander Giatsis,Liran Podolsky,6-0,6,0,1,0,Completed,true,false,false
+UA009112,21 Oct 18,11,Caulfield Rec,Tennis World,No. 2,Roderick Hill,Ella Burns,Roderick Hill,6-1,6,1,1,0,Completed,true,false,false
+UA009112,21 Oct 18,11,Caulfield Rec,Tennis World,No. 3,Sienna Farrugia,Arianne Tolikas,Arianne Tolikas,1-6,1,6,0,1,Completed,true,false,false
+UA009112,21 Oct 18,11,Caulfield Rec,Tennis World,No. 4,James Liao,Chelsea Hall,James Liao,6-3,6,3,1,0,Completed,true,false,false
+UA009113,21 Oct 18,11,Murrumbeena,GPHC,No. 1,Riley Pisano,Harri Joughin,Riley Pisano,7-5,7,5,1,0,Completed,true,false,false
+UA009113,21 Oct 18,11,Murrumbeena,GPHC,No. 2,Bailey Loke,Jordon Wong,Jordon Wong,1-6,1,6,0,1,Completed,true,false,false
+UA009113,21 Oct 18,11,Murrumbeena,GPHC,No. 3,Jack Rezka,Hugo Dobrotwir,Hugo Dobrotwir,0-6,0,6,0,1,Completed,true,false,false
+UA009113,21 Oct 18,11,Murrumbeena,GPHC,No. 4,Ari Komninos,Emily Retschko,Emily Retschko,1-6,1,6,0,1,Completed,true,false,false
+UA009114,21 Oct 18,11,Maccabi,Aspendale,No. 1,Bradley Bergman,Matheson Chandler,Bradley Bergman,7-5,7,5,1,0,Completed,true,false,false
+UA009114,21 Oct 18,11,Maccabi,Aspendale,No. 2,Danielle Nagar,Nicholas Kircher-Wilson,Nicholas Kircher-Wilson,6-7,6,7,0,1,Completed,true,false,false
+UA009114,21 Oct 18,11,Maccabi,Aspendale,No. 3,William Yan,Max Jaszewski,Max Jaszewski,1-6,1,6,0,1,Completed,true,false,false
+UA009114,21 Oct 18,11,Maccabi,Aspendale,No. 4,Asher Hirschfield,Arend Geist,Asher Hirschfield,6-0,6,0,1,0,Completed,true,false,false
+UA009121,28 Oct 18,12,Maccabi,Murrumbeena,No. 1,Max Zhu,Thomas Moore,Max Zhu,6-2,6,2,1,0,Completed,true,false,false
+UA009121,28 Oct 18,12,Maccabi,Murrumbeena,No. 2,Danielle Nagar,Riley Pisano,Riley Pisano,3-6,3,6,0,1,Completed,true,false,false
+UA009121,28 Oct 18,12,Maccabi,Murrumbeena,No. 3,Cody Brits,Bailey Loke,Cody Brits,7-6,7,6,1,0,Completed,true,false,false
+UA009121,28 Oct 18,12,Maccabi,Murrumbeena,No. 4,Jed Kaufman,Jack Rezka,Jack Rezka,1-6,1,6,0,1,Completed,true,false,false
+UA009122,28 Oct 18,12,Tennis World,GPHC,No. 1,Alexander Giatsis,Charlotte Downs,Alexander Giatsis,6-2,6,2,1,0,Completed,true,false,false
+UA009122,28 Oct 18,12,Tennis World,GPHC,No. 2,Tom Jorgensen,Hugo Dobrotwir,Hugo Dobrotwir,2-6,2,6,0,1,Completed,true,false,false
+UA009122,28 Oct 18,12,Tennis World,GPHC,No. 3,Ella Burns,Emily Retschko,Ella Burns,6-4,6,4,1,0,Completed,true,false,false
+UA009122,28 Oct 18,12,Tennis World,GPHC,No. 4,Arianne Tolikas,Connor Boussioutas,Connor Boussioutas,5-7,5,7,0,1,Completed,true,false,false
+UA009123,28 Oct 18,12,Aspendale,Royal South Yarra,No. 1,Bailey Dorian,Nick Evans,Nick Evans,3-6,3,6,0,1,Completed,true,false,false
+UA009123,28 Oct 18,12,Aspendale,Royal South Yarra,No. 2,Matheson Chandler,Oliver McNamara,Oliver McNamara,4-6,4,6,0,1,Completed,true,false,false
+UA009123,28 Oct 18,12,Aspendale,Royal South Yarra,No. 3,Nicholas Kircher-Wilson,Will Maughan,Nicholas Kircher-Wilson,6-0,6,0,1,0,Completed,true,false,false
+UA009123,28 Oct 18,12,Aspendale,Royal South Yarra,No. 4,Max Jaszewski,Harry Bail,Harry Bail,1-6,1,6,0,1,Completed,true,false,false
+UA009124,28 Oct 18,12,Caulfield Rec,Highmoor Uniting,No. 1,Liran Podolsky,Josh Glassock,Josh Glassock,3-6,3,6,0,1,Completed,true,false,false
+UA009124,28 Oct 18,12,Caulfield Rec,Highmoor Uniting,No. 2,Roderick Hill,Leo McInerney,Leo McInerney,3-6,3,6,0,1,Completed,true,false,false
+UA009124,28 Oct 18,12,Caulfield Rec,Highmoor Uniting,No. 3,Sienna Farrugia,Asher Lithgow,Asher Lithgow,2-6,2,6,0,1,Completed,true,false,false
+UA009124,28 Oct 18,12,Caulfield Rec,Highmoor Uniting,No. 4,James Liao,Adam Horan,Adam Horan,5-7,5,7,0,1,Completed,true,false,false
+UA009132,11 Nov 18,13,Highmoor Uniting,Maccabi,No. 1,Ian Rachinsky,Max Zhu,Ian Rachinsky,6-4,6,4,1,0,Completed,true,false,false
+UA009132,11 Nov 18,13,Highmoor Uniting,Maccabi,No. 2,Leo McInerney,Cody Brits,Leo McInerney,6-1,6,1,1,0,Completed,true,false,false
+UA009132,11 Nov 18,13,Highmoor Uniting,Maccabi,No. 3,Asher Lithgow,William Yan,Asher Lithgow,6-2,6,2,1,0,Completed,true,false,false
+UA009132,11 Nov 18,13,Highmoor Uniting,Maccabi,No. 4,Nikola Suluburic,Asher Hirschfield,Nikola Suluburic,6-4,6,4,1,0,Completed,true,false,false
+UA009133,11 Nov 18,13,Royal South Yarra,Tennis World,No. 1,Freddie Campbell,Alexander Giatsis,Freddie Campbell,6-4,6,4,1,0,Completed,true,false,false
+UA009133,11 Nov 18,13,Royal South Yarra,Tennis World,No. 2,Lucy Campbell,Tom Jorgensen,Lucy Campbell,6-1,6,1,1,0,Completed,true,false,false
+UA009133,11 Nov 18,13,Royal South Yarra,Tennis World,No. 3,Oliver McNamara,Ella Burns,Oliver McNamara,6-2,6,2,1,0,Completed,true,false,false
+UA009133,11 Nov 18,13,Royal South Yarra,Tennis World,No. 4,Chloe Cooper,Chelsea Hall,Chloe Cooper,6-4,6,4,1,0,Completed,true,false,false
+UA009134,11 Nov 18,13,GPHC,Aspendale,No. 1,Jordon Wong,Ben Geisler,Jordon Wong,6-4,6,4,1,0,Completed,true,false,false
+UA009134,11 Nov 18,13,GPHC,Aspendale,No. 2,Charlotte Downs,Bailey Dorian,Charlotte Downs,6-0,6,0,1,0,Completed,true,false,false
+UA009134,11 Nov 18,13,GPHC,Aspendale,No. 3,Emily Retschko,Jarvis Dorian,Jarvis Dorian,2-6,2,6,0,1,Completed,true,false,false
+UA009134,11 Nov 18,13,GPHC,Aspendale,No. 4,Connor Boussioutas,Nicholas Kircher-Wilson,Nicholas Kircher-Wilson,4-6,4,6,0,1,Completed,true,false,false
+UA009142,18 Nov 18,14,Maccabi,Caulfield Rec,No. 1,Max Zhu,Liran Podolsky,Max Zhu,6-3,6,3,1,0,Completed,true,false,false
+UA009142,18 Nov 18,14,Maccabi,Caulfield Rec,No. 2,Danielle Nagar,Roderick Hill,Roderick Hill,3-6,3,6,0,1,Completed,true,false,false
+UA009142,18 Nov 18,14,Maccabi,Caulfield Rec,No. 3,Cody Brits,Sienna Farrugia,Cody Brits,6-0,6,0,1,0,Completed,true,false,false
+UA009142,18 Nov 18,14,Maccabi,Caulfield Rec,No. 4,Jed Kaufman,James Liao,James Liao,0-6,0,6,0,1,Completed,true,false,false
+UA009143,18 Nov 18,14,Royal South Yarra,GPHC,No. 1,Will Maughan,Harri Joughin,Harri Joughin,2-6,2,6,0,1,Completed,true,false,false
+UA009143,18 Nov 18,14,Royal South Yarra,GPHC,No. 2,Lucy Campbell,Jordon Wong,Jordon Wong,4-6,4,6,0,1,Completed,true,false,false
+UA009143,18 Nov 18,14,Royal South Yarra,GPHC,No. 3,Oliver McNamara,Charlotte Downs,Oliver McNamara,6-2,6,2,1,0,Completed,true,false,false
+UA009143,18 Nov 18,14,Royal South Yarra,GPHC,No. 4,Eliza Mailer,Hugo Dobrotwir,Hugo Dobrotwir,0-6,0,6,0,1,Completed,true,false,false
+UA009144,18 Nov 18,14,Aspendale,Tennis World,No. 1,Bailey Dorian,Alexander Giatsis,Bailey Dorian,6-4,6,4,1,0,Completed,true,false,false
+UA009144,18 Nov 18,14,Aspendale,Tennis World,No. 2,Jarvis Dorian,Tom Jorgensen,Tom Jorgensen,3-6,3,6,0,1,Completed,true,false,false
+UA009144,18 Nov 18,14,Aspendale,Tennis World,No. 3,Nicholas Kircher-Wilson,Arianne Tolikas,Nicholas Kircher-Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA009144,18 Nov 18,14,Aspendale,Tennis World,No. 4,Max Jaszewski,Chelsea Hall,Max Jaszewski,7-6,7,6,1,0,Completed,true,false,false
+UA009301,,16,Highmoor Uniting,Tennis World,No. 1,Ian Rachinsky,Alexander Giatsis,Ian Rachinsky,6-3,6,3,1,0,Completed,true,false,false
+UA009301,,16,Highmoor Uniting,Tennis World,No. 2,Josh Glassock,Tom Jorgensen,Josh Glassock,6-1,6,1,1,0,Completed,true,false,false
+UA009301,,16,Highmoor Uniting,Tennis World,No. 3,Leo McInerney,Ella Burns,Leo McInerney,6-1,6,1,1,0,Completed,true,false,false
+UA009301,,16,Highmoor Uniting,Tennis World,No. 4,Asher Lithgow,Arianne Tolikas,Arianne Tolikas,1-6,1,6,0,1,Completed,true,false,false
+UA009302,,16,Caulfield Rec,GPHC,No. 1,Liran Podolsky,Harri Joughin,Liran Podolsky,6-2,6,2,1,0,Completed,true,false,false
+UA009302,,16,Caulfield Rec,GPHC,No. 2,Roderick Hill,Jordon Wong,Jordon Wong,4-6,4,6,0,1,Completed,true,false,false
+UA009302,,16,Caulfield Rec,GPHC,No. 3,Sienna Farrugia,Charlotte Downs,Charlotte Downs,0-6,0,6,0,1,Completed,true,false,false
+UA009302,,16,Caulfield Rec,GPHC,No. 4,James Liao,Hugo Dobrotwir,Hugo Dobrotwir,6-7,6,7,0,1,Completed,true,false,false
+UA009321,,17,Highmoor Uniting,GPHC,No. 1,Ian Rachinsky,Harri Joughin,Ian Rachinsky,6-0,6,0,1,0,Completed,true,false,false
+UA009321,,17,Highmoor Uniting,GPHC,No. 2,Josh Glassock,Jordon Wong,Josh Glassock,6-2,6,2,1,0,Completed,true,false,false
+UA009321,,17,Highmoor Uniting,GPHC,No. 3,Leo McInerney,Charlotte Downs,Leo McInerney,6-0,6,0,1,0,Completed,true,false,false
+UA009321,,17,Highmoor Uniting,GPHC,No. 4,Adam Horan,Hugo Dobrotwir,Hugo Dobrotwir,2-6,2,6,0,1,Completed,true,false,false

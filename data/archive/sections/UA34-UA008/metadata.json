@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA34-UA008",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2024",
+  "season_id": "UA34",
+  "season_label": "Autumn 2024",
+  "source_section_code": "UA008",
+  "section_label": "Section 8",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Lauriston",
+      "wins": 13,
+      "points": 111,
+      "percentage": 156.16,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "BLTC Blue",
+      "wins": 9,
+      "points": 90,
+      "percentage": 125.69,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "St Pats Mentone",
+      "wins": 8,
+      "points": 74,
+      "percentage": 101.8,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Royal Ave",
+      "wins": 7,
+      "points": 72,
+      "percentage": 101.14,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Glen Huntly",
+      "wins": 6,
+      "points": 63,
+      "percentage": 95.77,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St James Yellow",
+      "wins": 5,
+      "points": 55,
+      "percentage": 74.94,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 3,
+      "points": 49,
+      "percentage": 81.33,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Tennis World",
+      "wins": 3,
+      "points": 46,
+      "percentage": 82.91,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA34-UA008",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 231,
+  "doubles_rubbers": 114,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,61 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA016011,15 Nov 20,1,Lauriston,Carmelite,No. 1,Tate Nguyen,Kobe Davis Earle,Tate Nguyen,6-4,6,4,1,0,Completed,true,false,false
+UA016011,15 Nov 20,1,Lauriston,Carmelite,No. 2,Noam Hoffman,Sam Faso,Noam Hoffman,6-3,6,3,1,0,Completed,true,false,false
+UA016011,15 Nov 20,1,Lauriston,Carmelite,No. 3,Kristine Dodd,Jack Gaudry,Kristine Dodd,6-0,6,0,1,0,Completed,true,false,false
+UA016011,15 Nov 20,1,Lauriston,Carmelite,No. 4,Elliott Davis,Alex Harbzey,Elliott Davis,7-5,7,5,1,0,Completed,true,false,true
+UA016012,15 Nov 20,1,Kings Park,Hurlingham Park,No. 1,Madhav Gokulanathan,Isshin McLean,Madhav Gokulanathan,6-2,6,2,1,0,Completed,true,false,false
+UA016012,15 Nov 20,1,Kings Park,Hurlingham Park,No. 2,Nash Lin,Raphael Dicintio,Raphael Dicintio,4-6,4,6,0,1,Completed,true,false,false
+UA016012,15 Nov 20,1,Kings Park,Hurlingham Park,No. 3,Cameron Lai,Tomek Forenciwz,Cameron Lai,6-4,6,4,1,0,Completed,true,false,false
+UA016012,15 Nov 20,1,Kings Park,Hurlingham Park,No. 4,Aimi Hatigan,Josh Nowell,Aimi Hatigan,6-4,6,4,1,0,Completed,true,false,false
+UA016014,15 Nov 20,1,Sandringham,Dendy Park,No. 1,Nate Woff,Frank Wu,Frank Wu,3-6,3,6,0,1,Completed,true,false,false
+UA016014,15 Nov 20,1,Sandringham,Dendy Park,No. 2,Danko Kovacevic,Lauren Yim,Lauren Yim,3-6,3,6,0,1,Completed,true,false,false
+UA016014,15 Nov 20,1,Sandringham,Dendy Park,No. 3,Mia Daniell,Chloe Yim,Mia Daniell,6-2,6,2,1,0,Completed,true,false,false
+UA016014,15 Nov 20,1,Sandringham,Dendy Park,No. 4,Adyaan Tata,Charlotte O'Brien,Adyaan Tata,6-1,6,1,1,0,Completed,true,false,false
+UA016021,22 Nov 20,2,Dendy Park,Lauriston,No. 1,Frank Wu,Jack McKenzie,Jack McKenzie,4-6,4,6,0,1,Completed,true,false,true
+UA016021,22 Nov 20,2,Dendy Park,Lauriston,No. 2,Lauren Yim,Tate Nguyen,Tate Nguyen,6-7,6,7,0,1,Completed,true,false,false
+UA016021,22 Nov 20,2,Dendy Park,Lauriston,No. 3,Chloe Yim,Kristine Dodd,Chloe Yim,6-4,6,4,1,0,Completed,true,false,false
+UA016021,22 Nov 20,2,Dendy Park,Lauriston,No. 4,Isabella Tsoukalas,Sam Marsden,Isabella Tsoukalas,6-2,6,2,1,0,Completed,true,false,true
+UA016022,22 Nov 20,2,Carmelite,Kings Park,No. 1,Kobe Davis Earle,[Unnamed player — TROLS UA016022 away code 1],Kobe Davis Earle,6-0,6,0,1,0,Completed,false,false,false
+UA016022,22 Nov 20,2,Carmelite,Kings Park,No. 2,Oliver Earle,Nash Lin,Nash Lin,3-6,3,6,0,1,Completed,true,false,false
+UA016022,22 Nov 20,2,Carmelite,Kings Park,No. 3,Hugho Schulz,Cameron Lai,Hugho Schulz,6-3,6,3,1,0,Completed,true,false,false
+UA016022,22 Nov 20,2,Carmelite,Kings Park,No. 4,Jack Gaudry,Cathy Lu,Cathy Lu,1-6,1,6,0,1,Completed,true,false,true
+UA016023,22 Nov 20,2,Hurlingham Park,Parkdale,No. 1,Oscar Rey,Ryan Dong,Oscar Rey,6-1,6,1,1,0,Completed,true,false,false
+UA016023,22 Nov 20,2,Hurlingham Park,Parkdale,No. 2,Isshin McLean,Harry Wilson,Harry Wilson,2-6,2,6,0,1,Completed,true,false,false
+UA016023,22 Nov 20,2,Hurlingham Park,Parkdale,No. 3,Tomek Forenciwz,Charlton Humphrey,Tomek Forenciwz,7-6,7,6,1,0,Completed,true,false,false
+UA016023,22 Nov 20,2,Hurlingham Park,Parkdale,No. 4,Edward Ruckel,Luca Zambiasi,Luca Zambiasi,1-6,1,6,0,1,Completed,true,false,false
+UA016041,06 Dec 20,4,Hurlingham Park,Lauriston,No. 1,Oscar Rey,Tate Nguyen,Oscar Rey,6-2,6,2,1,0,Completed,true,false,false
+UA016041,06 Dec 20,4,Hurlingham Park,Lauriston,No. 2,Isshin McLean,Noam Hoffman,Isshin McLean,6-1,6,1,1,0,Completed,true,false,false
+UA016041,06 Dec 20,4,Hurlingham Park,Lauriston,No. 3,Josh Nowell,Kristine Dodd,Kristine Dodd,3-6,3,6,0,1,Completed,true,false,false
+UA016041,06 Dec 20,4,Hurlingham Park,Lauriston,No. 4,Edward Ruckel,Elliott Davis,Elliott Davis,3-6,3,6,0,1,Completed,true,false,false
+UA016043,06 Dec 20,4,Dendy Park,Parkdale,No. 1,Frank Wu,Ryan Dong,Frank Wu,6-0,6,0,1,0,Completed,true,false,false
+UA016043,06 Dec 20,4,Dendy Park,Parkdale,No. 2,Chloe Yim,Harry Wilson,Harry Wilson,4-6,4,6,0,1,Completed,true,false,false
+UA016043,06 Dec 20,4,Dendy Park,Parkdale,No. 3,Isabella Tsoukalas,Luca Rodrigues,Isabella Tsoukalas,6-4,6,4,1,0,Completed,true,false,false
+UA016043,06 Dec 20,4,Dendy Park,Parkdale,No. 4,Charlotte O'Brien,Luca Zambiasi,Luca Zambiasi,6-7,6,7,0,1,Completed,true,false,false
+UA016044,06 Dec 20,4,Carmelite,Sandringham,No. 1,Oliver Earle,Nate Woff,Nate Woff,0-6,0,6,0,1,Completed,true,false,false
+UA016044,06 Dec 20,4,Carmelite,Sandringham,No. 2,Hugho Schulz,Anya Khatsernov,Anya Khatsernov,4-6,4,6,0,1,Completed,true,false,false
+UA016044,06 Dec 20,4,Carmelite,Sandringham,No. 3,Sam Faso,Danko Kovacevic,Danko Kovacevic,1-6,1,6,0,1,Completed,true,false,false
+UA016044,06 Dec 20,4,Carmelite,Sandringham,No. 4,Alex Harbzey,Andy (unknown),Andy (unknown),3-6,3,6,0,1,Completed,true,true,true
+UA016051,13 Dec 20,5,Parkdale,Sandringham,No. 1,Ryan Dong,Anya Khatsernov,Ryan Dong,6-3,6,3,1,0,Completed,true,false,false
+UA016051,13 Dec 20,5,Parkdale,Sandringham,No. 2,Luca Rodrigues,Danko Kovacevic,Danko Kovacevic,3-6,3,6,0,1,Completed,true,false,false
+UA016051,13 Dec 20,5,Parkdale,Sandringham,No. 3,Charlton Humphrey,Mia Daniell,Mia Daniell,6-7,6,7,0,1,Completed,true,false,false
+UA016051,13 Dec 20,5,Parkdale,Sandringham,No. 4,Luca Zambiasi,Andy (unknown),Luca Zambiasi,6-2,6,2,1,0,Completed,true,false,true
+UA016053,13 Dec 20,5,Hurlingham Park,Carmelite,No. 1,Oscar Rey,Kobe Davis Earle,Kobe Davis Earle,4-6,4,6,0,1,Completed,true,false,false
+UA016053,13 Dec 20,5,Hurlingham Park,Carmelite,No. 2,Isshin McLean,Hugho Schulz,Hugho Schulz,1-6,1,6,0,1,Completed,true,false,false
+UA016053,13 Dec 20,5,Hurlingham Park,Carmelite,No. 3,Josh Nowell,Sam Faso,Josh Nowell,6-1,6,1,1,0,Completed,true,false,false
+UA016053,13 Dec 20,5,Hurlingham Park,Carmelite,No. 4,Edward Ruckel,Jack Gaudry,Edward Ruckel,6-4,6,4,1,0,Completed,true,false,false
+UA016054,13 Dec 20,5,Lauriston,Kings Park,No. 1,Tate Nguyen,Madhav Gokulanathan,Tate Nguyen,6-1,6,1,1,0,Completed,true,false,false
+UA016054,13 Dec 20,5,Lauriston,Kings Park,No. 2,Noam Hoffman,Nash Lin,Nash Lin,2-6,2,6,0,1,Completed,true,false,false
+UA016054,13 Dec 20,5,Lauriston,Kings Park,No. 3,Kristine Dodd,Cameron Lai,Cameron Lai,3-6,3,6,0,1,Completed,true,false,false
+UA016054,13 Dec 20,5,Lauriston,Kings Park,No. 4,Elliott Davis,Aimi Hatigan,Elliott Davis,6-1,6,1,1,0,Completed,true,false,false
+UA016061,20 Dec 20,6,Kings Park,Parkdale,No. 1,Madhav Gokulanathan,Harry Wilson,Harry Wilson,3-6,3,6,0,1,Completed,true,false,false
+UA016061,20 Dec 20,6,Kings Park,Parkdale,No. 2,Nash Lin,Luca Rodrigues,Nash Lin,6-3,6,3,1,0,Completed,true,false,false
+UA016061,20 Dec 20,6,Kings Park,Parkdale,No. 3,Cameron Lai,Charlton Humphrey,Cameron Lai,6-3,6,3,1,0,Completed,true,false,false
+UA016061,20 Dec 20,6,Kings Park,Parkdale,No. 4,Aimi Hatigan,Luca Zambiasi,Luca Zambiasi,3-6,3,6,0,1,Completed,true,false,false
+UA016062,20 Dec 20,6,Sandringham,Lauriston,No. 1,Anya Khatsernov,Jack McKenzie,Jack McKenzie,6-7,6,7,0,1,Completed,true,false,true
+UA016062,20 Dec 20,6,Sandringham,Lauriston,No. 2,Danko Kovacevic,Tate Nguyen,Tate Nguyen,4-6,4,6,0,1,Completed,true,false,false
+UA016062,20 Dec 20,6,Sandringham,Lauriston,No. 3,Mia Daniell,Pranjal Menanya,Pranjal Menanya,0-6,0,6,0,1,Completed,true,false,true
+UA016062,20 Dec 20,6,Sandringham,Lauriston,No. 4,Adyaan Tata,Noam Hoffman,Adyaan Tata,6-3,6,3,1,0,Completed,true,false,false
+UA016064,20 Dec 20,6,Carmelite,Dendy Park,No. 1,Oliver Earle,Lauren Yim,Lauren Yim,0-6,0,6,0,1,Completed,true,false,false
+UA016064,20 Dec 20,6,Carmelite,Dendy Park,No. 2,Hugho Schulz,Chloe Yim,Hugho Schulz,6-1,6,1,1,0,Completed,true,false,false
+UA016064,20 Dec 20,6,Carmelite,Dendy Park,No. 3,Sam Faso,Isabella Tsoukalas,Isabella Tsoukalas,1-6,1,6,0,1,Completed,true,false,false
+UA016064,20 Dec 20,6,Carmelite,Dendy Park,No. 4,Alex Harbzey,Charlotte O'Brien,Alex Harbzey,7-6,7,6,1,0,Completed,true,true,false

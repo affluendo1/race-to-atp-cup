@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA012012,16 Jul 23,1,regular,Round 1,GPHC 1,GPHC 2,2,8,2,4,,,24,32,Completed,
+UA012013,16 Jul 23,1,regular,Round 1,Royal Ave,Parkdale,2,8,2,4,,,23,31,Completed,
+UA012014,16 Jul 23,1,regular,Round 1,Centenary Park,Black Rock,2,8,2,4,,,16,30,Completed,
+pending-ua012-r1-bye-kings-park,16 Jul 23,1,regular,Round 1,Bye,Kings Park,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA012022,23 Jul 23,2,regular,Round 2,Kings Park,GPHC 1,5,5,2,2,,,17,19,Completed,
+UA012023,23 Jul 23,2,regular,Round 2,GPHC 2,Royal Ave,10,0,6,0,,,37,16,Completed,
+UA012024,23 Jul 23,2,regular,Round 2,Parkdale,Centenary Park,5.5,4.5,1,0,,,10,8,Completed,
+pending-ua012-r2-black-rock-bye,23 Jul 23,2,regular,Round 2,Black Rock,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA012032,30 Jul 23,3,regular,Round 3,GPHC 1,Black Rock,2,8,2,4,,,22,32,Completed,
+UA012033,30 Jul 23,3,regular,Round 3,Royal Ave,Kings Park,3,7,3,3,,,27,34,Completed,
+UA012034,30 Jul 23,3,regular,Round 3,Centenary Park,GPHC 2,1,9,1,5,,,11,36,Completed,
+pending-ua012-r3-bye-parkdale,30 Jul 23,3,regular,Round 3,Bye,Parkdale,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA012042,06 Aug 23,4,regular,Round 4,Parkdale,GPHC 1,2,8,2,4,,,25,26,Completed,
+UA012043,06 Aug 23,4,regular,Round 4,Black Rock,Royal Ave,10,0,6,0,,,36,17,Completed,
+UA012044,06 Aug 23,4,regular,Round 4,Kings Park,Centenary Park,9,1,5,1,,,36,24,Completed,
+pending-ua012-r4-gphc-2-bye,06 Aug 23,4,regular,Round 4,GPHC 2,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA012051,13 Aug 23,5,regular,Round 5,Royal Ave,Centenary Park,7,3,3,3,,,27,23,Completed,
+UA012052,13 Aug 23,5,regular,Round 5,Black Rock,Parkdale,8,2,4,2,,,34,26,Completed,
+UA012053,13 Aug 23,5,regular,Round 5,GPHC 2,Kings Park,8,2,4,2,,,31,22,Completed,
+pending-ua012-r5-bye-gphc-1,13 Aug 23,5,regular,Round 5,Bye,GPHC 1,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA012063,20 Aug 23,6,regular,Round 6,Parkdale,GPHC 2,7,3,3,3,,,27,19,Completed,
+UA012064,20 Aug 23,6,regular,Round 6,Kings Park,Black Rock,3,7,3,3,,,28,31,Completed,
+pending-ua012-r6-centenary-park-bye,20 Aug 23,6,regular,Round 6,Centenary Park,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua012-r6-gphc-1-royal-ave,20 Aug 23,6,regular,Round 6,GPHC 1,Royal Ave,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA012072,27 Aug 23,7,regular,Round 7,GPHC 1,Centenary Park,1,9,1,5,,,20,35,Completed,
+UA012073,27 Aug 23,7,regular,Round 7,Black Rock,GPHC 2,2,8,2,4,,,21,27,Completed,
+UA012074,27 Aug 23,7,regular,Round 7,Parkdale,Kings Park,5,5,3,3,,,30,30,Completed,
+pending-ua012-r7-bye-royal-ave,27 Aug 23,7,regular,Round 7,Bye,Royal Ave,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA012082,03 Sep 23,8,regular,Round 8,GPHC 2,GPHC 1,8,2,4,2,,,32,27,Completed,
+UA012083,03 Sep 23,8,regular,Round 8,Parkdale,Royal Ave,5,5,3,3,,,24,24,Completed,
+UA012084,03 Sep 23,8,regular,Round 8,Black Rock,Centenary Park,7,3,3,3,,,30,26,Completed,
+pending-ua012-r8-kings-park-bye,03 Sep 23,8,regular,Round 8,Kings Park,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA012092,10 Sep 23,9,regular,Round 9,GPHC 1,Kings Park,8,2,4,2,,,31,30,Completed,
+UA012093,10 Sep 23,9,regular,Round 9,Royal Ave,GPHC 2,0,10,0,6,,,19,37,Completed,
+UA012094,10 Sep 23,9,regular,Round 9,Centenary Park,Parkdale,1,9,1,5,,,20,37,Completed,
+pending-ua012-r9-bye-black-rock,10 Sep 23,9,regular,Round 9,Bye,Black Rock,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA012102,08 Oct 23,10,regular,Round 10,Black Rock,GPHC 1,9,1,5,1,,,35,18,Completed,
+UA012103,08 Oct 23,10,regular,Round 10,Kings Park,Royal Ave,8,2,4,2,,,33,26,Completed,
+UA012104,08 Oct 23,10,regular,Round 10,GPHC 2,Centenary Park,8,2,4,2,,,30,20,Completed,
+pending-ua012-r10-parkdale-bye,08 Oct 23,10,regular,Round 10,Parkdale,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA012112,15 Oct 23,11,regular,Round 11,GPHC 1,Parkdale,1,9,1,5,,,19,35,Completed,
+UA012113,15 Oct 23,11,regular,Round 11,Royal Ave,Black Rock,2,8,2,4,,,19,28,Completed,
+UA012114,15 Oct 23,11,regular,Round 11,Centenary Park,Kings Park,9,1,5,1,,,31,20,Completed,
+pending-ua012-r11-bye-gphc-2,15 Oct 23,11,regular,Round 11,Bye,GPHC 2,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA012121,22 Oct 23,12,regular,Round 12,Centenary Park,Royal Ave,8,2,4,2,,,31,22,Completed,
+UA012122,22 Oct 23,12,regular,Round 12,Parkdale,Black Rock,4,6,1,3,,,16,24,Completed,
+UA012123,22 Oct 23,12,regular,Round 12,Kings Park,GPHC 2,2,8,2,4,,,23,30,Completed,
+pending-ua012-r12-gphc-1-bye,22 Oct 23,12,regular,Round 12,GPHC 1,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA012131,29 Oct 23,13,regular,Round 13,Royal Ave,GPHC 1,3,7,3,3,,,26,28,Completed,
+UA012133,29 Oct 23,13,regular,Round 13,GPHC 2,Parkdale,2,8,2,4,,,28,33,Completed,
+UA012134,29 Oct 23,13,regular,Round 13,Black Rock,Kings Park,3,7,3,3,,,26,27,Completed,
+pending-ua012-r13-bye-centenary-park,29 Oct 23,13,regular,Round 13,Bye,Centenary Park,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA012142,12 Nov 23,14,regular,Round 14,Centenary Park,GPHC 1,7,3,3,3,,,28,26,Completed,
+UA012143,12 Nov 23,14,regular,Round 14,GPHC 2,Black Rock,3,7,3,3,,,21,29,Completed,
+UA012144,12 Nov 23,14,regular,Round 14,Kings Park,Parkdale,9,1,5,1,,,34,21,Completed,
+pending-ua012-r14-royal-ave-bye,12 Nov 23,14,regular,Round 14,Royal Ave,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA012301,,16,semi_final,Semi-final,GPHC 2,Kings Park,10,0,6,0,,,37,18,Completed,
+UA012302,,16,semi_final,Semi-final,Black Rock,Parkdale,9,1,5,1,,,31,21,Completed,
+UA012321,,17,grand_final,Grand final · TROLS entry 2,GPHC 2,Black Rock,2,8,2,4,,,22,30,Completed,

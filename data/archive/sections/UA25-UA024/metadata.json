@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA25-UA024",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2019",
+  "season_id": "UA25",
+  "season_label": "Spring 2019",
+  "source_section_code": "UA024",
+  "section_label": "Section 24 Green",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Elsternwick Park",
+      "wins": 13,
+      "points": 131,
+      "percentage": 384.87,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Andrews MB BG",
+      "wins": 8,
+      "points": 92,
+      "percentage": 158.26,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kings Park",
+      "wins": 9,
+      "points": 86,
+      "percentage": 109.57,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "St James",
+      "wins": 7,
+      "points": 79,
+      "percentage": 117.26,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Parkdale",
+      "wins": 6,
+      "points": 65,
+      "percentage": 91.12,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Bentleigh Rec",
+      "wins": 4,
+      "points": 48,
+      "percentage": 68.05,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Mentone",
+      "wins": 2,
+      "points": 36,
+      "percentage": 58.25,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave",
+      "wins": 1,
+      "points": 23,
+      "percentage": 42.55,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA25-UA024",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 45,
+  "singles_rubbers": 216,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

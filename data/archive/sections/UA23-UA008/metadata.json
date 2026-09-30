@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA23-UA008",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2018",
+  "season_id": "UA23",
+  "season_label": "Spring 2018",
+  "source_section_code": "UA008",
+  "section_label": "Section 8",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Elsternwick Park",
+      "wins": 10,
+      "points": 94,
+      "percentage": 131.31,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "BLTC",
+      "wins": 9,
+      "points": 88,
+      "percentage": 118.01,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Coatesville",
+      "wins": 6,
+      "points": 72,
+      "percentage": 99.73,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 6,
+      "points": 68,
+      "percentage": 100.58,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "Hurlingham Park",
+      "wins": 5,
+      "points": 67,
+      "percentage": 101.81,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St Pats Mentone",
+      "wins": 5,
+      "points": 63,
+      "percentage": 86.36,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park",
+      "wins": 5,
+      "points": 60,
+      "percentage": 91.51,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Middle Brighton",
+      "wins": 3,
+      "points": 48,
+      "percentage": 78.71,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA23-UA008",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

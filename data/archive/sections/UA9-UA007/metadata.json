@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA9-UA007",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2011",
+  "season_id": "UA9",
+  "season_label": "Spring 2011",
+  "source_section_code": "UA007",
+  "section_label": "Section 7",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Beaumaris CC",
+      "wins": 11,
+      "points": 120,
+      "percentage": 247.24,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 8,
+      "points": 83,
+      "percentage": 109.28,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Tennis World",
+      "wins": 7,
+      "points": 80,
+      "percentage": 114.93,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Maccabi",
+      "wins": 8,
+      "points": 74,
+      "percentage": 92.26,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 6,
+      "points": 69,
+      "percentage": 94.86,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St Louis de Mont",
+      "wins": 5,
+      "points": 68.5,
+      "percentage": 106.17,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC",
+      "wins": 2,
+      "points": 42,
+      "percentage": 77.44,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Mordialloc",
+      "wins": 0,
+      "points": 23.5,
+      "percentage": 47.57,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA9-UA007",
+  "fixtures": 59,
+  "completed_fixtures": 50,
+  "draw_fixtures": 59,
+  "singles_rubbers": 200,
+  "doubles_rubbers": 99,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

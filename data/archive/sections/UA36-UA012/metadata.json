@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA36-UA012",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2025",
+  "season_id": "UA36",
+  "season_label": "Autumn 2025",
+  "source_section_code": "UA012",
+  "section_label": "Section 12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Beaumaris CC",
+      "wins": 12,
+      "points": 115,
+      "percentage": 161.3,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Mentone",
+      "wins": 9,
+      "points": 89,
+      "percentage": 122.38,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Carmelite",
+      "wins": 7,
+      "points": 80,
+      "percentage": 111.81,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Dendy Park Yellow",
+      "wins": 7,
+      "points": 72,
+      "percentage": 94.46,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Murrumbeena Maroon",
+      "wins": 5,
+      "points": 58,
+      "percentage": 86.1,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Lauriston",
+      "wins": 3,
+      "points": 51,
+      "percentage": 90.99,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Murrumbeena Gold",
+      "wins": 4,
+      "points": 51,
+      "percentage": 83.07,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Parkdale",
+      "wins": 3,
+      "points": 44,
+      "percentage": 74.8,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA36-UA012",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 45,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

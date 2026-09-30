@@ -1,0 +1,231 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA006011,16 Jul 23,1,St Andrews MB,Highmoor Uniting,No. 1,Bob Njiffels,Lazar Suluburic,Lazar Suluburic,2-6,2,6,0,1,Completed,true,false,false
+UA006011,16 Jul 23,1,St Andrews MB,Highmoor Uniting,No. 2,Hanna Langridge,Sinbad Kozelski,Sinbad Kozelski,1-6,1,6,0,1,Completed,true,false,false
+UA006011,16 Jul 23,1,St Andrews MB,Highmoor Uniting,No. 3,Jakob Misso,Luka Suluburic,Luka Suluburic,1-6,1,6,0,1,Completed,true,false,false
+UA006011,16 Jul 23,1,St Andrews MB,Highmoor Uniting,No. 4,Bryar Jefford,Cody Murphy,Cody Murphy,1-6,1,6,0,1,Completed,true,false,false
+UA006012,16 Jul 23,1,Kooyong,Le Page,No. 1,Caroline Marcel,Mitchell Campbell,Caroline Marcel,6-2,6,2,1,0,Completed,true,true,false
+UA006012,16 Jul 23,1,Kooyong,Le Page,No. 2,Kayla Coster,Timur Akhmedov,Timur Akhmedov,2-6,2,6,0,1,Completed,true,false,false
+UA006012,16 Jul 23,1,Kooyong,Le Page,No. 3,Cienna Ulas,Ethan Su,Cienna Ulas,6-1,6,1,1,0,Completed,true,false,false
+UA006012,16 Jul 23,1,Kooyong,Le Page,No. 4,Pia Stewart,James Wu,James Wu,2-6,2,6,0,1,Completed,true,false,false
+UA006013,16 Jul 23,1,St Pats Mentone,Kings Park,No. 1,Tom Gregory,Mason Hancox,Tom Gregory,6-2,6,2,1,0,Completed,true,false,false
+UA006013,16 Jul 23,1,St Pats Mentone,Kings Park,No. 2,Braedan Carey,Miles Hancox,Miles Hancox,4-6,4,6,0,1,Completed,true,false,false
+UA006013,16 Jul 23,1,St Pats Mentone,Kings Park,No. 3,Noah Ryan,Cooper Graham,Noah Ryan,6-4,6,4,1,0,Completed,true,false,false
+UA006013,16 Jul 23,1,St Pats Mentone,Kings Park,No. 4,[Unnamed player — TROLS UA006013 home code 4],Cooper Hodge,Cooper Hodge,0-6,0,6,0,1,Completed,false,false,false
+UA006014,16 Jul 23,1,Carmelite,St Joan of Arc,No. 1,Jakob Schmollinger,Alexander Lasocki,Jakob Schmollinger,6-1,6,1,1,0,Completed,true,false,false
+UA006014,16 Jul 23,1,Carmelite,St Joan of Arc,No. 2,Henry Hollinger,Mac Rogers-Wilson,Mac Rogers-Wilson,2-6,2,6,0,1,Completed,true,false,false
+UA006014,16 Jul 23,1,Carmelite,St Joan of Arc,No. 3,Jamie Tall,Jesse Zhang,Jamie Tall,6-4,6,4,1,0,Completed,true,false,true
+UA006014,16 Jul 23,1,Carmelite,St Joan of Arc,No. 4,Lachlan Chan,Tiger Zhang,Tiger Zhang,0-6,0,6,0,1,Completed,true,false,false
+UA006021,23 Jul 23,2,St Joan of Arc,St Andrews MB,No. 1,Alexander Lasocki,Bob Njiffels,Alexander Lasocki,6-0,6,0,1,0,Completed,true,false,false
+UA006021,23 Jul 23,2,St Joan of Arc,St Andrews MB,No. 2,Mac Rogers-Wilson,Hanna Langridge,Mac Rogers-Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA006021,23 Jul 23,2,St Joan of Arc,St Andrews MB,No. 3,Jack Paton,Jakob Misso,Jakob Misso,3-6,3,6,0,1,Completed,true,false,false
+UA006021,23 Jul 23,2,St Joan of Arc,St Andrews MB,No. 4,Kerem Akcay,Bryar Jefford,Kerem Akcay,6-3,6,3,1,0,Completed,true,false,false
+UA006022,23 Jul 23,2,Highmoor Uniting,Kooyong,No. 1,Lazar Suluburic,Caroline Marcel,Lazar Suluburic,7-5,7,5,1,0,Completed,true,false,true
+UA006022,23 Jul 23,2,Highmoor Uniting,Kooyong,No. 2,Sinbad Kozelski,Kayla Coster,Kayla Coster,3-6,3,6,0,1,Completed,true,false,false
+UA006022,23 Jul 23,2,Highmoor Uniting,Kooyong,No. 3,Luka Suluburic,Pia Stewart,Luka Suluburic,6-3,6,3,1,0,Completed,true,false,false
+UA006022,23 Jul 23,2,Highmoor Uniting,Kooyong,No. 4,Cody Murphy,James Porter,James Porter,5-7,5,7,0,1,Completed,true,false,false
+UA006023,23 Jul 23,2,Le Page,St Pats Mentone,No. 1,Lochlan Bradley,Sam Harris,Sam Harris,0-6,0,6,0,1,Completed,true,false,false
+UA006023,23 Jul 23,2,Le Page,St Pats Mentone,No. 2,Mitchell Campbell,Tom Gregory,Tom Gregory,1-6,1,6,0,1,Completed,true,false,false
+UA006023,23 Jul 23,2,Le Page,St Pats Mentone,No. 3,Timur Akhmedov,Braedan Carey,Braedan Carey,1-6,1,6,0,1,Completed,true,false,false
+UA006023,23 Jul 23,2,Le Page,St Pats Mentone,No. 4,Hannah Mies,Noah Ryan,Noah Ryan,0-6,0,6,0,1,Completed,true,true,false
+UA006024,23 Jul 23,2,Kings Park,Carmelite,No. 1,Mason Hancox,Jakob Schmollinger,Jakob Schmollinger,1-6,1,6,0,1,Completed,true,false,false
+UA006024,23 Jul 23,2,Kings Park,Carmelite,No. 2,Miles Hancox,Marius Gozdzicki,Miles Hancox,4-3,4,3,1,0,Completed,false,false,false
+UA006031,30 Jul 23,3,St Andrews MB,Kings Park,No. 1,Max Looschilder,Mason Hancox,Mason Hancox,4-6,4,6,0,1,Completed,true,false,false
+UA006031,30 Jul 23,3,St Andrews MB,Kings Park,No. 2,Mika Looschilder,Victoria Ikonomou,Victoria Ikonomou,2-6,2,6,0,1,Completed,true,false,false
+UA006031,30 Jul 23,3,St Andrews MB,Kings Park,No. 3,Bob Njiffels,Cooper Graham,Cooper Graham,5-7,5,7,0,1,Completed,true,false,false
+UA006031,30 Jul 23,3,St Andrews MB,Kings Park,No. 4,Hanna Langridge,Cooper Hodge,Cooper Hodge,2-6,2,6,0,1,Completed,true,false,false
+UA006032,30 Jul 23,3,Kooyong,St Joan of Arc,No. 1,Kayla Coster,Alexander Lasocki,Kayla Coster,6-1,6,1,1,0,Completed,true,false,false
+UA006032,30 Jul 23,3,Kooyong,St Joan of Arc,No. 2,Oscar Nicholson,Mac Rogers-Wilson,Mac Rogers-Wilson,4-6,4,6,0,1,Completed,true,false,false
+UA006032,30 Jul 23,3,Kooyong,St Joan of Arc,No. 3,Pia Stewart,Tiger Zhang,Pia Stewart,7-6,7,6,1,0,Completed,true,false,false
+UA006032,30 Jul 23,3,Kooyong,St Joan of Arc,No. 4,James Porter,Jack Paton,Jack Paton,3-6,3,6,0,1,Completed,true,false,false
+UA006033,30 Jul 23,3,St Pats Mentone,Highmoor Uniting,No. 1,Tom Gregory,Lazar Suluburic,Lazar Suluburic,6-7,6,7,0,1,Completed,true,false,false
+UA006033,30 Jul 23,3,St Pats Mentone,Highmoor Uniting,No. 2,Braedan Carey,Sinbad Kozelski,Braedan Carey,6-3,6,3,1,0,Completed,true,false,false
+UA006033,30 Jul 23,3,St Pats Mentone,Highmoor Uniting,No. 3,Noah Ryan,Cody Murphy,Noah Ryan,6-2,6,2,1,0,Completed,true,false,false
+UA006033,30 Jul 23,3,St Pats Mentone,Highmoor Uniting,No. 4,Jaime Janash,Max Maydom,Max Maydom,1-6,1,6,0,1,Completed,true,false,false
+UA006034,30 Jul 23,3,Carmelite,Le Page,No. 1,Jakob Schmollinger,Lochlan Bradley,Jakob Schmollinger,6-1,6,1,1,0,Completed,true,false,false
+UA006034,30 Jul 23,3,Carmelite,Le Page,No. 2,Jack Walters,Timur Akhmedov,Timur Akhmedov,2-6,2,6,0,1,Completed,true,true,false
+UA006034,30 Jul 23,3,Carmelite,Le Page,No. 3,Henry Hollinger,Ethan Su,Henry Hollinger,6-1,6,1,1,0,Completed,true,false,false
+UA006034,30 Jul 23,3,Carmelite,Le Page,No. 4,Lachlan Chan,James Wu,James Wu,0-6,0,6,0,1,Completed,true,false,false
+UA006041,06 Aug 23,4,Le Page,St Andrews MB,No. 1,Lochlan Bradley,Max Looschilder,Max Looschilder,3-6,3,6,0,1,Completed,true,false,false
+UA006041,06 Aug 23,4,Le Page,St Andrews MB,No. 2,Mitchell Campbell,Mika Looschilder,Mika Looschilder,3-6,3,6,0,1,Completed,true,false,false
+UA006041,06 Aug 23,4,Le Page,St Andrews MB,No. 3,Timur Akhmedov,Jakob Misso,Timur Akhmedov,6-3,6,3,1,0,Completed,true,false,false
+UA006041,06 Aug 23,4,Le Page,St Andrews MB,No. 4,James Wu,Bryar Jefford,James Wu,6-0,6,0,1,0,Completed,true,false,false
+UA006042,06 Aug 23,4,Kings Park,Kooyong,No. 1,Victoria Ikonomou,Oscar Nicholson,Victoria Ikonomou,6-3,6,3,1,0,Completed,true,false,false
+UA006042,06 Aug 23,4,Kings Park,Kooyong,No. 2,Miles Hancox,James Porter,Miles Hancox,6-3,6,3,1,0,Completed,true,false,false
+UA006042,06 Aug 23,4,Kings Park,Kooyong,No. 3,Cooper Hodge,Zachary Tung,Zachary Tung,1-6,1,6,0,1,Completed,true,false,true
+UA006042,06 Aug 23,4,Kings Park,Kooyong,No. 4,Krish Chopra,Kayla Coster,Krish Chopra,6-0,6,0,1,0,Completed,true,true,false
+UA006043,06 Aug 23,4,St Joan of Arc,St Pats Mentone,No. 1,Alexander Lasocki,Tom Gregory,Tom Gregory,4-6,4,6,0,1,Completed,true,false,false
+UA006043,06 Aug 23,4,St Joan of Arc,St Pats Mentone,No. 2,Tiger Zhang,Braedan Carey,Braedan Carey,1-6,1,6,0,1,Completed,true,false,false
+UA006043,06 Aug 23,4,St Joan of Arc,St Pats Mentone,No. 3,Jack Paton,Noah Ryan,Noah Ryan,4-6,4,6,0,1,Completed,true,false,false
+UA006043,06 Aug 23,4,St Joan of Arc,St Pats Mentone,No. 4,Owen Yu,Riley Snell,Riley Snell,0-6,0,6,0,1,Completed,true,false,true
+UA006044,06 Aug 23,4,Highmoor Uniting,Carmelite,No. 1,Lazar Suluburic,Jakob Schmollinger,Jakob Schmollinger,4-6,4,6,0,1,Completed,true,false,false
+UA006044,06 Aug 23,4,Highmoor Uniting,Carmelite,No. 2,Sinbad Kozelski,Henry Hollinger,Henry Hollinger,1-6,1,6,0,1,Completed,true,false,false
+UA006044,06 Aug 23,4,Highmoor Uniting,Carmelite,No. 3,Luka Suluburic,Marius Gozdzicki,Luka Suluburic,6-3,6,3,1,0,Completed,true,false,false
+UA006044,06 Aug 23,4,Highmoor Uniting,Carmelite,No. 4,Max Maydom,Lachlan Chan,Max Maydom,6-2,6,2,1,0,Completed,true,false,false
+UA006051,13 Aug 23,5,St Pats Mentone,Carmelite,No. 1,Sam Harris,Jakob Schmollinger,Jakob Schmollinger,1-6,1,6,0,1,Completed,true,false,false
+UA006051,13 Aug 23,5,St Pats Mentone,Carmelite,No. 2,Braedan Carey,Henry Hollinger,Henry Hollinger,4-6,4,6,0,1,Completed,true,false,false
+UA006051,13 Aug 23,5,St Pats Mentone,Carmelite,No. 3,Noah Ryan,Jamie Tall,Noah Ryan,7-5,7,5,1,0,Completed,true,false,false
+UA006051,13 Aug 23,5,St Pats Mentone,Carmelite,No. 4,Jaime Janash,Lachlan Chan,Lachlan Chan,2-6,2,6,0,1,Completed,true,false,false
+UA006052,13 Aug 23,5,St Joan of Arc,Kings Park,No. 1,Alexander Lasocki,Mason Hancox,Alexander Lasocki,6-2,6,2,1,0,Completed,true,false,false
+UA006052,13 Aug 23,5,St Joan of Arc,Kings Park,No. 2,Jack Paton,Miles Hancox,Miles Hancox,5-7,5,7,0,1,Completed,true,false,false
+UA006052,13 Aug 23,5,St Joan of Arc,Kings Park,No. 3,Kerem Akcay,Cooper Graham,Cooper Graham,1-6,1,6,0,1,Completed,true,false,false
+UA006052,13 Aug 23,5,St Joan of Arc,Kings Park,No. 4,Owen Yu,Cooper Hodge,Cooper Hodge,2-6,2,6,0,1,Completed,true,false,false
+UA006053,13 Aug 23,5,Le Page,Highmoor Uniting,No. 1,Lochlan Bradley,Lazar Suluburic,Lazar Suluburic,3-6,3,6,0,1,Completed,true,false,false
+UA006053,13 Aug 23,5,Le Page,Highmoor Uniting,No. 2,Mitchell Campbell,Luka Suluburic,Luka Suluburic,0-6,0,6,0,1,Completed,true,false,false
+UA006053,13 Aug 23,5,Le Page,Highmoor Uniting,No. 3,Ethan Su,Cody Murphy,Cody Murphy,3-6,3,6,0,1,Completed,true,false,false
+UA006053,13 Aug 23,5,Le Page,Highmoor Uniting,No. 4,James Wu,Max Maydom,Max Maydom,1-6,1,6,0,1,Completed,true,false,false
+UA006054,13 Aug 23,5,St Andrews MB,Kooyong,No. 1,Max Looschilder,Caroline Marcel,Max Looschilder,6-3,6,3,1,0,Completed,true,false,true
+UA006054,13 Aug 23,5,St Andrews MB,Kooyong,No. 2,Bob Njiffels,Oscar Nicholson,Oscar Nicholson,5-7,5,7,0,1,Completed,true,false,false
+UA006054,13 Aug 23,5,St Andrews MB,Kooyong,No. 3,Hanna Langridge,Pia Stewart,Hanna Langridge,6-0,6,0,1,0,Completed,true,false,false
+UA006054,13 Aug 23,5,St Andrews MB,Kooyong,No. 4,Jakob Misso,James Porter,James Porter,0-6,0,6,0,1,Completed,true,false,false
+UA006061,20 Aug 23,6,Kooyong,St Pats Mentone,No. 1,Oscar Nicholson,Braedan Carey,Oscar Nicholson,6-4,6,4,1,0,Completed,true,false,false
+UA006061,20 Aug 23,6,Kooyong,St Pats Mentone,No. 2,Pia Stewart,Tom Gregory,Pia Stewart,6-0,6,0,1,0,Completed,true,false,false
+UA006061,20 Aug 23,6,Kooyong,St Pats Mentone,No. 3,James Porter,Noah Ryan,Noah Ryan,2-6,2,6,0,1,Completed,true,false,false
+UA006061,20 Aug 23,6,Kooyong,St Pats Mentone,No. 4,Angus Brame,Jaime Janash,Jaime Janash,4-6,4,6,0,1,Completed,true,true,false
+UA006062,20 Aug 23,6,Carmelite,St Andrews MB,No. 1,Henry Hollinger,[Unnamed player — TROLS UA006062 away code 1],Henry Hollinger,6-0,6,0,1,0,Completed,false,false,false
+UA006062,20 Aug 23,6,Carmelite,St Andrews MB,No. 2,Jamie Tall,Mika Looschilder,Mika Looschilder,5-7,5,7,0,1,Completed,true,false,false
+UA006062,20 Aug 23,6,Carmelite,St Andrews MB,No. 3,Marius Gozdzicki,Jakob Misso,Jakob Misso,3-6,3,6,0,1,Completed,true,false,false
+UA006062,20 Aug 23,6,Carmelite,St Andrews MB,No. 4,Lachlan Chan,Bryar Jefford,Lachlan Chan,6-1,6,1,1,0,Completed,true,false,false
+UA006063,20 Aug 23,6,Kings Park,Le Page,No. 1,Mason Hancox,Lochlan Bradley,Mason Hancox,6-0,6,0,1,0,Completed,true,false,false
+UA006063,20 Aug 23,6,Kings Park,Le Page,No. 2,Victoria Ikonomou,Timur Akhmedov,Timur Akhmedov,5-7,5,7,0,1,Completed,true,false,false
+UA006063,20 Aug 23,6,Kings Park,Le Page,No. 3,Miles Hancox,Ethan Su,Miles Hancox,6-4,6,4,1,0,Completed,true,false,false
+UA006063,20 Aug 23,6,Kings Park,Le Page,No. 4,Cooper Graham,James Wu,Cooper Graham,6-4,6,4,1,0,Completed,true,false,false
+UA006064,20 Aug 23,6,Highmoor Uniting,St Joan of Arc,No. 1,Lazar Suluburic,Mac Rogers-Wilson,Mac Rogers-Wilson,3-6,3,6,0,1,Completed,true,false,false
+UA006064,20 Aug 23,6,Highmoor Uniting,St Joan of Arc,No. 2,Luka Suluburic,Tiger Zhang,Tiger Zhang,3-6,3,6,0,1,Completed,true,false,false
+UA006064,20 Aug 23,6,Highmoor Uniting,St Joan of Arc,No. 3,Cody Murphy,Jack Paton,Cody Murphy,6-4,6,4,1,0,Completed,true,false,false
+UA006064,20 Aug 23,6,Highmoor Uniting,St Joan of Arc,No. 4,Max Maydom,Kerem Akcay,Max Maydom,6-0,6,0,1,0,Completed,true,false,false
+UA006071,27 Aug 23,7,St Andrews MB,St Pats Mentone,No. 1,Mika Looschilder,Sam Harris,Sam Harris,6-7,6,7,0,1,Completed,true,false,false
+UA006071,27 Aug 23,7,St Andrews MB,St Pats Mentone,No. 2,Bob Njiffels,Tom Gregory,Tom Gregory,1-6,1,6,0,1,Completed,true,false,false
+UA006071,27 Aug 23,7,St Andrews MB,St Pats Mentone,No. 3,Hanna Langridge,Braedan Carey,Hanna Langridge,6-3,6,3,1,0,Completed,true,false,false
+UA006071,27 Aug 23,7,St Andrews MB,St Pats Mentone,No. 4,Jakob Misso,Jaime Janash,Jakob Misso,6-4,6,4,1,0,Completed,true,false,false
+UA006072,27 Aug 23,7,Kooyong,Carmelite,No. 1,Cienna Ulas,Jakob Schmollinger,Jakob Schmollinger,0-6,0,6,0,1,Completed,true,false,false
+UA006072,27 Aug 23,7,Kooyong,Carmelite,No. 2,Oscar Nicholson,Henry Hollinger,Oscar Nicholson,6-3,6,3,1,0,Completed,true,false,false
+UA006072,27 Aug 23,7,Kooyong,Carmelite,No. 3,Pia Stewart,Jamie Tall,Jamie Tall,2-6,2,6,0,1,Completed,true,false,false
+UA006072,27 Aug 23,7,Kooyong,Carmelite,No. 4,James Porter,Caroline Tan,Caroline Tan,0-6,0,6,0,1,Completed,true,false,true
+UA006073,27 Aug 23,7,St Joan of Arc,Le Page,No. 1,Alexander Lasocki,Mitchell Campbell,Alexander Lasocki,6-1,6,1,1,0,Completed,true,false,false
+UA006073,27 Aug 23,7,St Joan of Arc,Le Page,No. 2,Mac Rogers-Wilson,Timur Akhmedov,Mac Rogers-Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA006073,27 Aug 23,7,St Joan of Arc,Le Page,No. 3,Tiger Zhang,Ethan Su,Tiger Zhang,6-1,6,1,1,0,Completed,true,false,false
+UA006073,27 Aug 23,7,St Joan of Arc,Le Page,No. 4,Jack Paton,James Wu,James Wu,3-6,3,6,0,1,Completed,true,false,false
+UA006074,27 Aug 23,7,Kings Park,Highmoor Uniting,No. 1,Mason Hancox,Lazar Suluburic,Mason Hancox,6-1,6,1,1,0,Completed,true,false,false
+UA006074,27 Aug 23,7,Kings Park,Highmoor Uniting,No. 2,Victoria Ikonomou,Luka Suluburic,Luka Suluburic,1-6,1,6,0,1,Completed,true,false,false
+UA006074,27 Aug 23,7,Kings Park,Highmoor Uniting,No. 3,Cooper Graham,Cody Murphy,Cooper Graham,6-0,6,0,1,0,Completed,true,false,false
+UA006074,27 Aug 23,7,Kings Park,Highmoor Uniting,No. 4,Cooper Hodge,Max Maydom,Cooper Hodge,6-2,6,2,1,0,Completed,true,false,false
+UA006081,03 Sep 23,8,Highmoor Uniting,St Andrews MB,No. 1,Lazar Suluburic,Max Looschilder,Max Looschilder,3-6,3,6,0,1,Completed,true,false,false
+UA006081,03 Sep 23,8,Highmoor Uniting,St Andrews MB,No. 2,Luka Suluburic,Mika Looschilder,Luka Suluburic,6-3,6,3,1,0,Completed,true,false,false
+UA006081,03 Sep 23,8,Highmoor Uniting,St Andrews MB,No. 3,Cody Murphy,Bob Njiffels,Cody Murphy,6-3,6,3,1,0,Completed,true,false,false
+UA006081,03 Sep 23,8,Highmoor Uniting,St Andrews MB,No. 4,Max Maydom,Bryar Jefford,Max Maydom,6-2,6,2,1,0,Completed,true,false,false
+UA006082,03 Sep 23,8,Le Page,Kooyong,No. 1,Lochlan Bradley,Kayla Coster,Kayla Coster,3-6,3,6,0,1,Completed,true,false,false
+UA006082,03 Sep 23,8,Le Page,Kooyong,No. 2,Mitchell Campbell,Oscar Nicholson,Oscar Nicholson,1-6,1,6,0,1,Completed,true,false,false
+UA006082,03 Sep 23,8,Le Page,Kooyong,No. 3,Timur Akhmedov,James Porter,Timur Akhmedov,6-2,6,2,1,0,Completed,true,false,false
+UA006082,03 Sep 23,8,Le Page,Kooyong,No. 4,Ethan Su,Pia Stewart,Ethan Su,6-0,6,0,1,0,Completed,true,false,false
+UA006083,03 Sep 23,8,Kings Park,St Pats Mentone,No. 1,Mason Hancox,Sam Harris,Mason Hancox,7-5,7,5,1,0,Completed,true,false,false
+UA006083,03 Sep 23,8,Kings Park,St Pats Mentone,No. 2,Victoria Ikonomou,Braedan Carey,Braedan Carey,4-6,4,6,0,1,Completed,true,false,false
+UA006083,03 Sep 23,8,Kings Park,St Pats Mentone,No. 3,Cooper Graham,Noah Ryan,Cooper Graham,7-6,7,6,1,0,Completed,true,false,false
+UA006083,03 Sep 23,8,Kings Park,St Pats Mentone,No. 4,Cooper Hodge,Jaime Janash,Cooper Hodge,6-0,6,0,1,0,Completed,true,false,false
+UA006084,03 Sep 23,8,St Joan of Arc,Carmelite,No. 1,Alexander Lasocki,Jakob Schmollinger,Jakob Schmollinger,3-6,3,6,0,1,Completed,true,false,false
+UA006084,03 Sep 23,8,St Joan of Arc,Carmelite,No. 2,Mac Rogers-Wilson,Henry Hollinger,Mac Rogers-Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA006084,03 Sep 23,8,St Joan of Arc,Carmelite,No. 3,Tiger Zhang,Marius Gozdzicki,Tiger Zhang,6-4,6,4,1,0,Completed,true,false,false
+UA006084,03 Sep 23,8,St Joan of Arc,Carmelite,No. 4,Jack Paton,Lachlan Chan,Lachlan Chan,5-7,5,7,0,1,Completed,true,false,false
+UA006091,10 Sep 23,9,St Andrews MB,St Joan of Arc,No. 1,Max Looschilder,Alexander Lasocki,Max Looschilder,7-6,7,6,1,0,Completed,true,false,false
+UA006091,10 Sep 23,9,St Andrews MB,St Joan of Arc,No. 2,Bob Njiffels,Mac Rogers-Wilson,Mac Rogers-Wilson,1-6,1,6,0,1,Completed,true,false,false
+UA006091,10 Sep 23,9,St Andrews MB,St Joan of Arc,No. 3,Jakob Misso,Tiger Zhang,Jakob Misso,7-6,7,6,1,0,Completed,true,false,false
+UA006091,10 Sep 23,9,St Andrews MB,St Joan of Arc,No. 4,Bryar Jefford,Kerem Akcay,Kerem Akcay,3-6,3,6,0,1,Completed,true,false,false
+UA006092,10 Sep 23,9,Kooyong,Highmoor Uniting,No. 1,Cienna Ulas,Lazar Suluburic,Lazar Suluburic,0-6,0,6,0,1,Completed,true,false,false
+UA006092,10 Sep 23,9,Kooyong,Highmoor Uniting,No. 2,Oscar Nicholson,Sinbad Kozelski,Oscar Nicholson,6-2,6,2,1,0,Completed,true,false,false
+UA006092,10 Sep 23,9,Kooyong,Highmoor Uniting,No. 3,James Porter,Luka Suluburic,Luka Suluburic,5-7,5,7,0,1,Completed,true,false,false
+UA006092,10 Sep 23,9,Kooyong,Highmoor Uniting,No. 4,Pia Stewart,Cody Murphy,Cody Murphy,3-6,3,6,0,1,Completed,true,false,false
+UA006094,10 Sep 23,9,Carmelite,Kings Park,No. 1,Jakob Schmollinger,Mason Hancox,Jakob Schmollinger,6-1,6,1,1,0,Completed,true,false,false
+UA006094,10 Sep 23,9,Carmelite,Kings Park,No. 2,Henry Hollinger,Miles Hancox,Miles Hancox,5-7,5,7,0,1,Completed,true,false,false
+UA006094,10 Sep 23,9,Carmelite,Kings Park,No. 3,Jamie Tall,Cooper Graham,Jamie Tall,6-3,6,3,1,0,Completed,true,false,false
+UA006094,10 Sep 23,9,Carmelite,Kings Park,No. 4,Lachlan Chan,Cooper Hodge,Cooper Hodge,2-6,2,6,0,1,Completed,true,false,false
+UA006101,08 Oct 23,10,Kings Park,St Andrews MB,No. 1,Lucas Tucker,Max Looschilder,Lucas Tucker,6-4,6,4,1,0,Completed,true,true,false
+UA006101,08 Oct 23,10,Kings Park,St Andrews MB,No. 2,Victoria Ikonomou,Mika Looschilder,Victoria Ikonomou,6-2,6,2,1,0,Completed,true,false,false
+UA006101,08 Oct 23,10,Kings Park,St Andrews MB,No. 3,Cooper Hodge,Hanna Langridge,Cooper Hodge,6-0,6,0,1,0,Completed,true,false,false
+UA006101,08 Oct 23,10,Kings Park,St Andrews MB,No. 4,Krish Chopra,Jakob Misso,Krish Chopra,6-3,6,3,1,0,Completed,true,true,false
+UA006102,08 Oct 23,10,St Joan of Arc,Kooyong,No. 1,Mac Rogers-Wilson,Cienna Ulas,Mac Rogers-Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA006102,08 Oct 23,10,St Joan of Arc,Kooyong,No. 2,Tiger Zhang,Oscar Nicholson,Oscar Nicholson,3-6,3,6,0,1,Completed,true,false,false
+UA006102,08 Oct 23,10,St Joan of Arc,Kooyong,No. 3,Kerem Akcay,James Porter,James Porter,1-6,1,6,0,1,Completed,true,false,false
+UA006102,08 Oct 23,10,St Joan of Arc,Kooyong,No. 4,Owen Yu,Pia Stewart,Pia Stewart,4-6,4,6,0,1,Completed,true,false,false
+UA006103,08 Oct 23,10,Highmoor Uniting,St Pats Mentone,No. 1,Sinbad Kozelski,Tom Gregory,Tom Gregory,1-6,1,6,0,1,Completed,true,false,false
+UA006103,08 Oct 23,10,Highmoor Uniting,St Pats Mentone,No. 2,Luka Suluburic,Braedan Carey,Luka Suluburic,6-3,6,3,1,0,Completed,true,false,false
+UA006103,08 Oct 23,10,Highmoor Uniting,St Pats Mentone,No. 3,Cody Murphy,Noah Ryan,Cody Murphy,7-6,7,6,1,0,Completed,true,false,false
+UA006103,08 Oct 23,10,Highmoor Uniting,St Pats Mentone,No. 4,Max Maydom,Jaime Janash,Max Maydom,6-0,6,0,1,0,Completed,true,false,false
+UA006104,08 Oct 23,10,Le Page,Carmelite,No. 1,Lochlan Bradley,Jakob Schmollinger,Jakob Schmollinger,0-6,0,6,0,1,Completed,true,false,false
+UA006104,08 Oct 23,10,Le Page,Carmelite,No. 2,Mitchell Campbell,Henry Hollinger,Henry Hollinger,3-6,3,6,0,1,Completed,true,false,false
+UA006104,08 Oct 23,10,Le Page,Carmelite,No. 3,Timur Akhmedov,Jamie Tall,Jamie Tall,5-7,5,7,0,1,Completed,true,false,false
+UA006104,08 Oct 23,10,Le Page,Carmelite,No. 4,Ethan Su,Lachlan Chan,Ethan Su,6-3,6,3,1,0,Completed,true,false,false
+UA006111,15 Oct 23,11,St Andrews MB,Le Page,No. 1,Bob Njiffels,Lochlan Bradley,Lochlan Bradley,0-6,0,6,0,1,Completed,true,false,false
+UA006111,15 Oct 23,11,St Andrews MB,Le Page,No. 2,Hanna Langridge,Mitchell Campbell,Mitchell Campbell,3-6,3,6,0,1,Completed,true,false,false
+UA006111,15 Oct 23,11,St Andrews MB,Le Page,No. 3,Jakob Misso,Ethan Su,Ethan Su,6-7,6,7,0,1,Completed,true,false,false
+UA006111,15 Oct 23,11,St Andrews MB,Le Page,No. 4,Bryar Jefford,James Wu,James Wu,1-6,1,6,0,1,Completed,true,false,false
+UA006112,15 Oct 23,11,Kooyong,Kings Park,No. 1,Oscar Nicholson,Mason Hancox,Mason Hancox,0-6,0,6,0,1,Completed,true,false,false
+UA006112,15 Oct 23,11,Kooyong,Kings Park,No. 2,James Porter,Victoria Ikonomou,Victoria Ikonomou,3-6,3,6,0,1,Completed,true,false,false
+UA006112,15 Oct 23,11,Kooyong,Kings Park,No. 3,Pia Stewart,Miles Hancox,Miles Hancox,1-6,1,6,0,1,Completed,true,false,false
+UA006112,15 Oct 23,11,Kooyong,Kings Park,No. 4,Tom Barnett,Cooper Graham,Tom Barnett,6-2,6,2,1,0,Completed,true,true,false
+UA006113,15 Oct 23,11,St Pats Mentone,St Joan of Arc,No. 1,Sam Harris,Tiger Zhang,Sam Harris,6-2,6,2,1,0,Completed,true,false,false
+UA006113,15 Oct 23,11,St Pats Mentone,St Joan of Arc,No. 2,Tom Gregory,Jack Paton,Tom Gregory,6-1,6,1,1,0,Completed,true,false,false
+UA006113,15 Oct 23,11,St Pats Mentone,St Joan of Arc,No. 3,Braedan Carey,Kerem Akcay,Braedan Carey,6-3,6,3,1,0,Completed,true,false,false
+UA006113,15 Oct 23,11,St Pats Mentone,St Joan of Arc,No. 4,Jaime Janash,Owen Yu,Owen Yu,2-6,2,6,0,1,Completed,true,false,false
+UA006114,15 Oct 23,11,Carmelite,Highmoor Uniting,No. 1,Jakob Schmollinger,Lazar Suluburic,Jakob Schmollinger,7-5,7,5,1,0,Completed,true,false,false
+UA006114,15 Oct 23,11,Carmelite,Highmoor Uniting,No. 2,Henry Hollinger,Sinbad Kozelski,Henry Hollinger,6-4,6,4,1,0,Completed,true,false,false
+UA006114,15 Oct 23,11,Carmelite,Highmoor Uniting,No. 3,Jamie Tall,Cody Murphy,Cody Murphy,2-6,2,6,0,1,Completed,true,false,false
+UA006114,15 Oct 23,11,Carmelite,Highmoor Uniting,No. 4,Lachlan Chan,Max Maydom,Max Maydom,2-6,2,6,0,1,Completed,true,false,false
+UA006121,22 Oct 23,12,Carmelite,St Pats Mentone,No. 1,Jakob Schmollinger,Sam Harris,Jakob Schmollinger,6-2,6,2,1,0,Completed,true,false,false
+UA006121,22 Oct 23,12,Carmelite,St Pats Mentone,No. 2,Henry Hollinger,Tom Gregory,Tom Gregory,6-7,6,7,0,1,Completed,true,false,false
+UA006121,22 Oct 23,12,Carmelite,St Pats Mentone,No. 3,Jamie Tall,Braedan Carey,Jamie Tall,6-3,6,3,1,0,Completed,true,false,false
+UA006121,22 Oct 23,12,Carmelite,St Pats Mentone,No. 4,Lachlan Chan,Noah Ryan,Noah Ryan,2-6,2,6,0,1,Completed,true,false,false
+UA006122,22 Oct 23,12,Kings Park,St Joan of Arc,No. 1,Victoria Ikonomou,Alexander Lasocki,Alexander Lasocki,1-6,1,6,0,1,Completed,true,false,false
+UA006122,22 Oct 23,12,Kings Park,St Joan of Arc,No. 2,Miles Hancox,Mac Rogers-Wilson,Mac Rogers-Wilson,1-6,1,6,0,1,Completed,true,false,false
+UA006122,22 Oct 23,12,Kings Park,St Joan of Arc,No. 3,Cooper Graham,Tiger Zhang,Cooper Graham,6-2,6,2,1,0,Completed,true,false,false
+UA006122,22 Oct 23,12,Kings Park,St Joan of Arc,No. 4,Cooper Hodge,Jack Paton,Cooper Hodge,6-2,6,2,1,0,Completed,true,false,false
+UA006123,22 Oct 23,12,Highmoor Uniting,Le Page,No. 1,Lazar Suluburic,Lochlan Bradley,Lazar Suluburic,6-1,6,1,1,0,Completed,true,false,false
+UA006123,22 Oct 23,12,Highmoor Uniting,Le Page,No. 2,Luka Suluburic,Mitchell Campbell,Mitchell Campbell,4-6,4,6,0,1,Completed,true,false,false
+UA006123,22 Oct 23,12,Highmoor Uniting,Le Page,No. 3,Cody Murphy,Timur Akhmedov,Timur Akhmedov,4-6,4,6,0,1,Completed,true,false,false
+UA006123,22 Oct 23,12,Highmoor Uniting,Le Page,No. 4,Max Maydom,James Wu,Max Maydom,6-4,6,4,1,0,Completed,true,false,false
+UA006124,22 Oct 23,12,Kooyong,St Andrews MB,No. 1,Kayla Coster,Max Looschilder,Max Looschilder,3-6,3,6,0,1,Completed,true,false,false
+UA006124,22 Oct 23,12,Kooyong,St Andrews MB,No. 2,Cienna Ulas,Mika Looschilder,Cienna Ulas,6-2,6,2,1,0,Completed,true,false,false
+UA006124,22 Oct 23,12,Kooyong,St Andrews MB,No. 3,Oscar Nicholson,Bob Njiffels,Oscar Nicholson,6-1,6,1,1,0,Completed,true,false,false
+UA006124,22 Oct 23,12,Kooyong,St Andrews MB,No. 4,Pia Stewart,Bryar Jefford,Pia Stewart,6-2,6,2,1,0,Completed,true,false,false
+UA006131,29 Oct 23,13,St Pats Mentone,Kooyong,No. 1,Sam Harris,Cienna Ulas,Cienna Ulas,2-6,2,6,0,1,Completed,true,false,false
+UA006131,29 Oct 23,13,St Pats Mentone,Kooyong,No. 2,Tom Gregory,Oscar Nicholson,Tom Gregory,6-4,6,4,1,0,Completed,true,false,false
+UA006131,29 Oct 23,13,St Pats Mentone,Kooyong,No. 3,Noah Ryan,James Porter,Noah Ryan,6-4,6,4,1,0,Completed,true,false,false
+UA006131,29 Oct 23,13,St Pats Mentone,Kooyong,No. 4,Jaime Janash,Pia Stewart,Pia Stewart,4-6,4,6,0,1,Completed,true,false,false
+UA006132,29 Oct 23,13,St Andrews MB,Carmelite,No. 1,Max Looschilder,Jakob Schmollinger,Jakob Schmollinger,3-6,3,6,0,1,Completed,true,false,false
+UA006132,29 Oct 23,13,St Andrews MB,Carmelite,No. 2,Mika Looschilder,Henry Hollinger,Mika Looschilder,7-5,7,5,1,0,Completed,true,false,false
+UA006132,29 Oct 23,13,St Andrews MB,Carmelite,No. 3,Hanna Langridge,Jamie Tall,Jamie Tall,4-6,4,6,0,1,Completed,true,false,false
+UA006132,29 Oct 23,13,St Andrews MB,Carmelite,No. 4,Jakob Misso,Lachlan Chan,Lachlan Chan,1-6,1,6,0,1,Completed,true,false,false
+UA006133,29 Oct 23,13,Le Page,Kings Park,No. 1,Lochlan Bradley,Victoria Ikonomou,Lochlan Bradley,6-0,6,0,1,0,Completed,true,false,false
+UA006133,29 Oct 23,13,Le Page,Kings Park,No. 2,Mitchell Campbell,Miles Hancox,Miles Hancox,0-6,0,6,0,1,Completed,true,false,false
+UA006133,29 Oct 23,13,Le Page,Kings Park,No. 3,Timur Akhmedov,Cooper Graham,Cooper Graham,4-6,4,6,0,1,Completed,true,false,false
+UA006133,29 Oct 23,13,Le Page,Kings Park,No. 4,Ethan Su,Cooper Hodge,Ethan Su,6-4,6,4,1,0,Completed,true,false,false
+UA006134,29 Oct 23,13,St Joan of Arc,Highmoor Uniting,No. 1,Alexander Lasocki,Lazar Suluburic,Lazar Suluburic,3-6,3,6,0,1,Completed,true,false,false
+UA006134,29 Oct 23,13,St Joan of Arc,Highmoor Uniting,No. 2,Mac Rogers-Wilson,Sinbad Kozelski,Mac Rogers-Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA006134,29 Oct 23,13,St Joan of Arc,Highmoor Uniting,No. 3,Jack Paton,Luka Suluburic,Luka Suluburic,0-6,0,6,0,1,Completed,true,false,false
+UA006134,29 Oct 23,13,St Joan of Arc,Highmoor Uniting,No. 4,Kerem Akcay,Cody Murphy,Cody Murphy,2-6,2,6,0,1,Completed,true,false,false
+UA006141,12 Nov 23,14,St Pats Mentone,St Andrews MB,No. 1,Sam Harris,Max Looschilder,Max Looschilder,1-6,1,6,0,1,Completed,true,false,false
+UA006141,12 Nov 23,14,St Pats Mentone,St Andrews MB,No. 2,Braedan Carey,Bob Njiffels,Braedan Carey,6-2,6,2,1,0,Completed,true,false,false
+UA006141,12 Nov 23,14,St Pats Mentone,St Andrews MB,No. 3,Noah Ryan,Hanna Langridge,Noah Ryan,7-5,7,5,1,0,Completed,true,false,false
+UA006141,12 Nov 23,14,St Pats Mentone,St Andrews MB,No. 4,Jaime Janash,Bryar Jefford,Bryar Jefford,2-6,2,6,0,1,Completed,true,false,false
+UA006142,12 Nov 23,14,Carmelite,Kooyong,No. 1,Jakob Schmollinger,Cienna Ulas,Jakob Schmollinger,6-1,6,1,1,0,Completed,true,false,false
+UA006142,12 Nov 23,14,Carmelite,Kooyong,No. 2,Jamie Tall,James Porter,James Porter,2-6,2,6,0,1,Completed,true,false,false
+UA006142,12 Nov 23,14,Carmelite,Kooyong,No. 3,Marius Gozdzicki,Tom Barnett,Tom Barnett,3-6,3,6,0,1,Completed,true,false,true
+UA006142,12 Nov 23,14,Carmelite,Kooyong,No. 4,Lachlan Chan,Theo Edelstein,Lachlan Chan,7-5,7,5,1,0,Completed,true,false,true
+UA006143,12 Nov 23,14,Le Page,St Joan of Arc,No. 1,Lochlan Bradley,Alexander Lasocki,Alexander Lasocki,2-6,2,6,0,1,Completed,true,false,false
+UA006143,12 Nov 23,14,Le Page,St Joan of Arc,No. 2,Mitchell Campbell,Mac Rogers-Wilson,Mac Rogers-Wilson,0-6,0,6,0,1,Completed,true,false,false
+UA006143,12 Nov 23,14,Le Page,St Joan of Arc,No. 3,Ethan Su,Tiger Zhang,Ethan Su,6-2,6,2,1,0,Completed,true,false,false
+UA006143,12 Nov 23,14,Le Page,St Joan of Arc,No. 4,James Wu,Owen Yu,James Wu,6-1,6,1,1,0,Completed,true,false,false
+UA006144,12 Nov 23,14,Highmoor Uniting,Kings Park,No. 1,Lazar Suluburic,Mason Hancox,Mason Hancox,1-6,1,6,0,1,Completed,true,false,false
+UA006144,12 Nov 23,14,Highmoor Uniting,Kings Park,No. 2,Sinbad Kozelski,Matthew Peng,Sinbad Kozelski,7-5,7,5,1,0,Completed,true,false,true
+UA006144,12 Nov 23,14,Highmoor Uniting,Kings Park,No. 3,Luka Suluburic,Miles Hancox,Luka Suluburic,6-2,6,2,1,0,Completed,true,false,false
+UA006144,12 Nov 23,14,Highmoor Uniting,Kings Park,No. 4,Max Maydom,Cooper Hodge,Max Maydom,7-5,7,5,1,0,Completed,true,false,false
+UA006301,,16,Highmoor Uniting,Carmelite,No. 1,Lazar Suluburic,Jakob Schmollinger,Lazar Suluburic,6-3,6,3,1,0,Completed,true,false,false
+UA006301,,16,Highmoor Uniting,Carmelite,No. 2,Sinbad Kozelski,Henry Hollinger,Henry Hollinger,3-6,3,6,0,1,Completed,true,false,false
+UA006301,,16,Highmoor Uniting,Carmelite,No. 3,Luka Suluburic,Jamie Tall,Luka Suluburic,6-3,6,3,1,0,Completed,true,false,false
+UA006301,,16,Highmoor Uniting,Carmelite,No. 4,Cody Murphy,Lachlan Chan,Cody Murphy,6-4,6,4,1,0,Completed,true,false,false
+UA006302,,16,Kings Park,St Pats Mentone,No. 1,Mason Hancox,Sam Harris,Mason Hancox,6-2,6,2,1,0,Completed,true,false,false
+UA006302,,16,Kings Park,St Pats Mentone,No. 2,Miles Hancox,Tom Gregory,Miles Hancox,6-3,6,3,1,0,Completed,true,false,false
+UA006302,,16,Kings Park,St Pats Mentone,No. 3,Cooper Graham,Jaime Janash,Cooper Graham,6-0,6,0,1,0,Completed,true,false,false
+UA006302,,16,Kings Park,St Pats Mentone,No. 4,Cooper Hodge,Kristof Buschkuehl,Cooper Hodge,6-2,6,2,1,0,Completed,true,false,true
+UA006321,,17,Highmoor Uniting,Kings Park,No. 1,Lazar Suluburic,Mason Hancox,Lazar Suluburic,6-4,6,4,1,0,Completed,true,false,false
+UA006321,,17,Highmoor Uniting,Kings Park,No. 2,Sinbad Kozelski,Miles Hancox,Sinbad Kozelski,6-3,6,3,1,0,Completed,true,false,false
+UA006321,,17,Highmoor Uniting,Kings Park,No. 3,Luka Suluburic,Cooper Graham,Luka Suluburic,6-4,6,4,1,0,Completed,true,false,false
+UA006321,,17,Highmoor Uniting,Kings Park,No. 4,Cody Murphy,Cooper Hodge,Cooper Hodge,5-7,5,7,0,1,Completed,true,false,false

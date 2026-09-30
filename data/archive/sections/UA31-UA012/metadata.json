@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA31-UA012",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2022",
+  "season_id": "UA31",
+  "season_label": "Spring 2022",
+  "source_section_code": "UA012",
+  "section_label": "Section 12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park Blue",
+      "wins": 8,
+      "points": 74,
+      "percentage": 119.06,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "St Pats Mentone 1",
+      "wins": 7,
+      "points": 68,
+      "percentage": 102.52,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kings Park White",
+      "wins": 7,
+      "points": 66,
+      "percentage": 107.84,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Dendy Park",
+      "wins": 6,
+      "points": 61,
+      "percentage": 107.96,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "Parkdale",
+      "wins": 5,
+      "points": 55,
+      "percentage": 97.1,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Maccabi",
+      "wins": 4,
+      "points": 53,
+      "percentage": 86.73,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 3,
+      "points": 43,
+      "percentage": 80.77,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA31-UA012",
+  "fixtures": 59,
+  "completed_fixtures": 42,
+  "draw_fixtures": 45,
+  "singles_rubbers": 168,
+  "doubles_rubbers": 84,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

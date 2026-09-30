@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA34-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2024",
+  "season_id": "UA34",
+  "season_label": "Autumn 2024",
+  "source_section_code": "UA017",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park",
+      "wins": 14,
+      "points": 120,
+      "percentage": 153.38,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Black Rock Navy",
+      "wins": 12,
+      "points": 113,
+      "percentage": 172.43,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Dendy Park",
+      "wins": 8,
+      "points": 86,
+      "percentage": 142.03,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Maccabi",
+      "wins": 7,
+      "points": 65,
+      "percentage": 90.69,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Black Rock Maroon",
+      "wins": 5,
+      "points": 61,
+      "percentage": 96.71,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Hurlingham Park",
+      "wins": 5,
+      "points": 57,
+      "percentage": 85.18,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 1,
+      "points": 31,
+      "percentage": 65.66,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave",
+      "wins": 2,
+      "points": 27,
+      "percentage": 49.66,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA34-UA017",
+  "fixtures": 59,
+  "completed_fixtures": 59,
+  "draw_fixtures": 45,
+  "singles_rubbers": 236,
+  "doubles_rubbers": 118,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,47 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA002012,01 Feb 26,1,regular,Round 1,BLTC Brown,BLTC Red,1,6,1,4,,,23,31,Completed,
+UA002013,01 Feb 26,1,regular,Round 1,BLTC Green,BLTC White,5,2,3,2,,,25,23,Completed,
+pending-ua002-r1-glen-huntly-bye,01 Feb 26,1,regular,Round 1,Glen Huntly,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002021,08 Feb 26,2,regular,Round 2,BLTC White,Glen Huntly,2,6,2,4,,,32,34,Completed,
+UA002022,08 Feb 26,2,regular,Round 2,BLTC Red,BLTC Green,7,0,5,0,,,32,7,Completed,
+pending-ua002-r2-bye-bltc-brown,08 Feb 26,2,regular,Round 2,Bye,BLTC Brown,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002031,15 Feb 26,3,regular,Round 3,Glen Huntly,BLTC Brown,6,2,4,2,,,33,31,Completed,
+UA002033,15 Feb 26,3,regular,Round 3,BLTC White,BLTC Red,0,7,0,5,,,21,32,Completed,
+pending-ua002-r3-bltc-green-bye,15 Feb 26,3,regular,Round 3,BLTC Green,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002041,22 Feb 26,4,regular,Round 4,BLTC Red,Glen Huntly,1,7,1,5,,,27,35,Completed,
+UA002043,22 Feb 26,4,regular,Round 4,BLTC Brown,BLTC Green,7,1,5,1,,,36,29,Completed,
+pending-ua002-r4-bye-bltc-white,22 Feb 26,4,regular,Round 4,Bye,BLTC White,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002051,01 Mar 26,5,regular,Round 5,Glen Huntly,BLTC Green,3,5,3,3,,,30,28,Completed,
+UA002053,01 Mar 26,5,regular,Round 5,BLTC White,BLTC Brown,5,2,3,2,,,29,16,Completed,
+pending-ua002-r5-bltc-red-bye,01 Mar 26,5,regular,Round 5,BLTC Red,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002062,15 Mar 26,6,regular,Round 6,BLTC Red,BLTC Brown,2.5,6.5,2,4,,,33,35,Completed,
+UA002063,15 Mar 26,6,regular,Round 6,BLTC White,BLTC Green,7,0,5,0,,,34,22,Completed,
+pending-ua002-r6-bye-glen-huntly,15 Mar 26,6,regular,Round 6,Bye,Glen Huntly,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002071,22 Mar 26,7,regular,Round 7,Glen Huntly,BLTC White,5,2,3,2,,,22,18,Completed,
+UA002072,22 Mar 26,7,regular,Round 7,BLTC Green,BLTC Red,2,5,2,3,,,22,24,Completed,
+pending-ua002-r7-bltc-brown-bye,22 Mar 26,7,regular,Round 7,BLTC Brown,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002081,29 Mar 26,8,regular,Round 8,BLTC Brown,Glen Huntly,6,1,4,1,,,32,23,Completed,
+UA002083,29 Mar 26,8,regular,Round 8,BLTC Red,BLTC White,6,1,4,1,,,28,18,Completed,
+pending-ua002-r8-bye-bltc-green,29 Mar 26,8,regular,Round 8,Bye,BLTC Green,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002091,26 Apr 26,9,regular,Round 9,Glen Huntly,BLTC Red,5,2,3,2,,,27,23,Completed,
+UA002093,26 Apr 26,9,regular,Round 9,BLTC Green,BLTC Brown,6,2,4,2,,,34,22,Completed,
+pending-ua002-r9-bltc-white-bye,26 Apr 26,9,regular,Round 9,BLTC White,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002103,03 May 26,10,regular,Round 10,BLTC Brown,BLTC White,3.5,3.5,0,0,,,0,0,Completed,
+pending-ua002-r10-bltc-green-glen-huntly,03 May 26,10,regular,Round 10,BLTC Green,Glen Huntly,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+pending-ua002-r10-bye-bltc-red,03 May 26,10,regular,Round 10,Bye,BLTC Red,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002112,10 May 26,11,regular,Round 11,BLTC Brown,BLTC Red,3,5,3,3,,,29,29,Completed,
+UA002113,10 May 26,11,regular,Round 11,BLTC Green,BLTC White,7,0,5,0,,,32,18,Completed,
+pending-ua002-r11-glen-huntly-bye,10 May 26,11,regular,Round 11,Glen Huntly,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua002-r12-bltc-red-bltc-green,17 May 26,12,regular,Round 12,BLTC Red,BLTC Green,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua002-r12-bltc-white-glen-huntly,17 May 26,12,regular,Round 12,BLTC White,Glen Huntly,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua002-r12-bye-bltc-brown,17 May 26,12,regular,Round 12,Bye,BLTC Brown,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002131,24 May 26,13,regular,Round 13,Glen Huntly,BLTC Brown,5,2,3,2,,,27,19,Completed,
+UA002133,24 May 26,13,regular,Round 13,BLTC White,BLTC Red,7,1,5,1,,,38,20,Completed,
+pending-ua002-r13-bltc-green-bye,24 May 26,13,regular,Round 13,BLTC Green,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002143,31 May 26,14,regular,Round 14,BLTC Brown,BLTC Green,2,6,2,4,,,24,34,Completed,
+pending-ua002-r14-bltc-red-glen-huntly,31 May 26,14,regular,Round 14,BLTC Red,Glen Huntly,,,,,,,,,Forfeited To,No individual scorecard / no rubbers recorded
+pending-ua002-r14-bye-bltc-white,31 May 26,14,regular,Round 14,Bye,BLTC White,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA002153,14 Jun 26,15,regular,Round 15,BLTC White,BLTC Brown,2,6,2,4,,,28,35,Completed,
+pending-ua002-r15-bltc-red-bye,14 Jun 26,15,regular,Round 15,BLTC Red,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua002-r15-glen-huntly-bltc-green,14 Jun 26,15,regular,Round 15,Glen Huntly,BLTC Green,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA002321,,16,grand_final,Grand final · TROLS entry 2,Glen Huntly,BLTC Red,5,2,3,2,,,25,19,Completed,

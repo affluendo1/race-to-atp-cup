@@ -1,0 +1,65 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA012011,15 Nov 20,1,Royal South Yarra,Hurlingham Park,No. 1,Alice Gunn,Anton Vassileff,Alice Gunn,6-2,6,2,1,0,Completed,true,false,false
+UA012011,15 Nov 20,1,Royal South Yarra,Hurlingham Park,No. 2,Isabella Soutter,Alan Smushkov,Alan Smushkov,4-6,4,6,0,1,Completed,true,false,false
+UA012011,15 Nov 20,1,Royal South Yarra,Hurlingham Park,No. 3,Georgia Cannon,Olivia Tasker,Georgia Cannon,6-4,6,4,1,0,Completed,true,false,false
+UA012011,15 Nov 20,1,Royal South Yarra,Hurlingham Park,No. 4,Tabitha Ingham,Isaac Weinstein,Isaac Weinstein,0-6,0,6,0,1,Completed,true,false,false
+UA012012,15 Nov 20,1,Caulfield Rec,Black Rock 1,No. 1,Natalie Duieb,Oliver Capel,Natalie Duieb,7-6,7,6,1,0,Completed,true,false,false
+UA012012,15 Nov 20,1,Caulfield Rec,Black Rock 1,No. 2,Nate D'Aggostino,Joseph James Braithwaite,Joseph James Braithwaite,2-6,2,6,0,1,Completed,true,false,false
+UA012012,15 Nov 20,1,Caulfield Rec,Black Rock 1,No. 3,Daniel Lurie,Jules Harris-Ure,Jules Harris-Ure,1-6,1,6,0,1,Completed,true,false,false
+UA012012,15 Nov 20,1,Caulfield Rec,Black Rock 1,No. 4,Benjamin Duieb,Josh Whitfield,Benjamin Duieb,6-4,6,4,1,0,Completed,true,true,false
+UA012014,15 Nov 20,1,Black Rock 2,St Andrews MB RA,No. 1,Aidan Rankin,Amber Brown,Aidan Rankin,6-3,6,3,1,0,Completed,true,false,false
+UA012014,15 Nov 20,1,Black Rock 2,St Andrews MB RA,No. 2,Ethan Green,Max Reynolds,Max Reynolds,2-6,2,6,0,1,Completed,true,false,false
+UA012014,15 Nov 20,1,Black Rock 2,St Andrews MB RA,No. 3,Spencer Marshall,Harrison Kemp,Harrison Kemp,2-6,2,6,0,1,Completed,true,false,false
+UA012014,15 Nov 20,1,Black Rock 2,St Andrews MB RA,No. 4,Archer Cole,Bailey Cleland,Bailey Cleland,3-6,3,6,0,1,Completed,true,false,false
+UA012021,22 Nov 20,2,St Andrews MB RA,Royal South Yarra,No. 1,Amber Brown,Alice Gunn,Amber Brown,6-0,6,0,1,0,Completed,true,false,false
+UA012021,22 Nov 20,2,St Andrews MB RA,Royal South Yarra,No. 2,Harrison Kemp,Eloise Thompson,Harrison Kemp,6-1,6,1,1,0,Completed,true,false,false
+UA012021,22 Nov 20,2,St Andrews MB RA,Royal South Yarra,No. 3,Bailey Cleland,Georgia Cannon,Bailey Cleland,6-0,6,0,1,0,Completed,true,false,false
+UA012021,22 Nov 20,2,St Andrews MB RA,Royal South Yarra,No. 4,Sasha Bollen,Lucy Hunt,Sasha Bollen,6-4,6,4,1,0,Completed,true,false,false
+UA012022,22 Nov 20,2,Hurlingham Park,Caulfield Rec,No. 1,Anton Vassileff,Mohan Parmar,Mohan Parmar,5-7,5,7,0,1,Completed,true,false,false
+UA012022,22 Nov 20,2,Hurlingham Park,Caulfield Rec,No. 2,Laura Wharton,Natalie Duieb,Natalie Duieb,1-6,1,6,0,1,Completed,true,false,false
+UA012022,22 Nov 20,2,Hurlingham Park,Caulfield Rec,No. 3,Alan Smushkov,Nate D'Aggostino,Nate D'Aggostino,2-6,2,6,0,1,Completed,true,false,false
+UA012022,22 Nov 20,2,Hurlingham Park,Caulfield Rec,No. 4,Isaac Weinstein,Daniel Lurie,Daniel Lurie,6-7,6,7,0,1,Completed,true,false,false
+UA012024,22 Nov 20,2,Kings Park,Black Rock 2,No. 1,Ted Bitting,Aidan Rankin,Ted Bitting,6-3,6,3,1,0,Completed,true,false,false
+UA012024,22 Nov 20,2,Kings Park,Black Rock 2,No. 2,[Unnamed player — TROLS UA012024 home code 2],Ethan Green,[Unnamed player — TROLS UA012024 home code 2],6-2,6,2,1,0,Completed,false,false,false
+UA012024,22 Nov 20,2,Kings Park,Black Rock 2,No. 3,Madlen Stanancheva,Valentino Montebelli,Valentino Montebelli,2-6,2,6,0,1,Completed,true,false,false
+UA012024,22 Nov 20,2,Kings Park,Black Rock 2,No. 4,Victoria Ikonomou,Spencer Marshall,Spencer Marshall,3-6,3,6,0,1,Completed,true,false,false
+UA012032,29 Nov 20,3,Caulfield Rec,St Andrews MB RA,No. 1,Mohan Parmar,Amber Brown,Amber Brown,3-6,3,6,0,1,Completed,true,false,false
+UA012032,29 Nov 20,3,Caulfield Rec,St Andrews MB RA,No. 2,Natalie Duieb,Max Reynolds,Natalie Duieb,6-2,6,2,1,0,Completed,true,false,false
+UA012032,29 Nov 20,3,Caulfield Rec,St Andrews MB RA,No. 3,Nate D'Aggostino,Harrison Kemp,Harrison Kemp,2-6,2,6,0,1,Completed,true,false,false
+UA012032,29 Nov 20,3,Caulfield Rec,St Andrews MB RA,No. 4,Daniel Lurie,Bailey Cleland,Daniel Lurie,6-1,6,1,1,0,Completed,true,false,false
+UA012041,06 Dec 20,4,Black Rock 1,Royal South Yarra,No. 1,Oliver Capel,Isabella Soutter,Oliver Capel,7-6,7,6,1,0,Completed,true,false,false
+UA012041,06 Dec 20,4,Black Rock 1,Royal South Yarra,No. 2,Joseph James Braithwaite,Amelia Banks,Joseph James Braithwaite,6-1,6,1,1,0,Completed,true,false,false
+UA012041,06 Dec 20,4,Black Rock 1,Royal South Yarra,No. 3,Jules Harris-Ure,Tabitha Ingham,Jules Harris-Ure,6-1,6,1,1,0,Completed,true,false,false
+UA012041,06 Dec 20,4,Black Rock 1,Royal South Yarra,No. 4,Josh Whitfield,Lucy Hunt,Josh Whitfield,6-4,6,4,1,0,Completed,true,false,false
+UA012042,06 Dec 20,4,Kings Park,Caulfield Rec,No. 1,Ted Bitting,Natalie Duieb,Natalie Duieb,2-6,2,6,0,1,Completed,true,false,false
+UA012042,06 Dec 20,4,Kings Park,Caulfield Rec,No. 2,Suna Koo,Nate D'Aggostino,Suna Koo,6-4,6,4,1,0,Completed,true,true,false
+UA012042,06 Dec 20,4,Kings Park,Caulfield Rec,No. 3,Madlen Stanancheva,Daniel Lurie,Daniel Lurie,2-6,2,6,0,1,Completed,true,false,false
+UA012042,06 Dec 20,4,Kings Park,Caulfield Rec,No. 4,Shreyas Mahajan,Lambros Argiriou,Lambros Argiriou,1-6,1,6,0,1,Completed,true,false,true
+UA012044,06 Dec 20,4,Hurlingham Park,Black Rock 2,No. 1,Anton Vassileff,Valentino Montebelli,Anton Vassileff,7-5,7,5,1,0,Completed,true,false,false
+UA012044,06 Dec 20,4,Hurlingham Park,Black Rock 2,No. 2,Laura Wharton,Ethan Green,Laura Wharton,6-2,6,2,1,0,Completed,true,false,false
+UA012044,06 Dec 20,4,Hurlingham Park,Black Rock 2,No. 3,Alan Smushkov,Spencer Marshall,Spencer Marshall,0-6,0,6,0,1,Completed,true,false,false
+UA012044,06 Dec 20,4,Hurlingham Park,Black Rock 2,No. 4,Isaac Weinstein,Archer Cole,Isaac Weinstein,6-2,6,2,1,0,Completed,true,false,false
+UA012052,13 Dec 20,5,St Andrews MB RA,Kings Park,No. 1,Amber Brown,Ted Bitting,Amber Brown,6-2,6,2,1,0,Completed,true,false,false
+UA012052,13 Dec 20,5,St Andrews MB RA,Kings Park,No. 2,Max Reynolds,Suna Koo,Suna Koo,1-6,1,6,0,1,Completed,true,false,true
+UA012052,13 Dec 20,5,St Andrews MB RA,Kings Park,No. 3,Harrison Kemp,Madlen Stanancheva,Harrison Kemp,6-2,6,2,1,0,Completed,true,false,false
+UA012052,13 Dec 20,5,St Andrews MB RA,Kings Park,No. 4,Sasha Bollen,Shreyas Mahajan,Shreyas Mahajan,0-6,0,6,0,1,Completed,true,false,false
+UA012053,13 Dec 20,5,Black Rock 1,Hurlingham Park,No. 1,Oliver Capel,Laura Wharton,Oliver Capel,6-3,6,3,1,0,Completed,true,false,false
+UA012053,13 Dec 20,5,Black Rock 1,Hurlingham Park,No. 2,Joseph James Braithwaite,Alan Smushkov,Joseph James Braithwaite,6-4,6,4,1,0,Completed,true,false,false
+UA012053,13 Dec 20,5,Black Rock 1,Hurlingham Park,No. 3,Jules Harris-Ure,Olivia Tasker,Jules Harris-Ure,6-0,6,0,1,0,Completed,true,false,false
+UA012053,13 Dec 20,5,Black Rock 1,Hurlingham Park,No. 4,Josh Whitfield,Isaac Weinstein,Josh Whitfield,7-5,7,5,1,0,Completed,true,false,false
+UA012054,13 Dec 20,5,Royal South Yarra,Caulfield Rec,No. 1,Alice Gunn,Natalie Duieb,Natalie Duieb,3-6,3,6,0,1,Completed,true,false,false
+UA012054,13 Dec 20,5,Royal South Yarra,Caulfield Rec,No. 2,Isabella Soutter,Nate D'Aggostino,Isabella Soutter,6-0,6,0,1,0,Completed,true,false,false
+UA012054,13 Dec 20,5,Royal South Yarra,Caulfield Rec,No. 3,Amelia Banks,Daniel Lurie,Amelia Banks,7-6,7,6,1,0,Completed,true,false,false
+UA012054,13 Dec 20,5,Royal South Yarra,Caulfield Rec,No. 4,Tabitha Ingham,Lambros Argiriou,Lambros Argiriou,0-6,0,6,0,1,Completed,true,false,true
+UA012062,20 Dec 20,6,Black Rock 2,Royal South Yarra,No. 1,Aidan Rankin,Isabella Soutter,Isabella Soutter,1-6,1,6,0,1,Completed,true,false,false
+UA012062,20 Dec 20,6,Black Rock 2,Royal South Yarra,No. 2,Spencer Marshall,Amelia Banks,Amelia Banks,3-6,3,6,0,1,Completed,true,false,false
+UA012062,20 Dec 20,6,Black Rock 2,Royal South Yarra,No. 3,Hamish Rankin,George Banks,Hamish Rankin,6-2,6,2,1,0,Completed,true,true,true
+UA012062,20 Dec 20,6,Black Rock 2,Royal South Yarra,No. 4,Andrew Martin,Milla Hearnden,Milla Hearnden,3-6,3,6,0,1,Completed,true,true,true
+UA012063,20 Dec 20,6,Kings Park,Black Rock 1,No. 1,Ted Bitting,Oliver Capel,Ted Bitting,7-6,7,6,1,0,Completed,true,false,false
+UA012063,20 Dec 20,6,Kings Park,Black Rock 1,No. 2,Suna Koo,Joseph James Braithwaite,Joseph James Braithwaite,2-6,2,6,0,1,Completed,true,true,false
+UA012063,20 Dec 20,6,Kings Park,Black Rock 1,No. 3,Madlen Stanancheva,Jules Harris-Ure,Madlen Stanancheva,6-4,6,4,1,0,Completed,true,false,false
+UA012063,20 Dec 20,6,Kings Park,Black Rock 1,No. 4,Shreyas Mahajan,Josh Whitfield,Shreyas Mahajan,6-3,6,3,1,0,Completed,true,false,false
+UA012064,20 Dec 20,6,Hurlingham Park,St Andrews MB RA,No. 1,Anton Vassileff,Amber Brown,Amber Brown,3-6,3,6,0,1,Completed,true,false,false
+UA012064,20 Dec 20,6,Hurlingham Park,St Andrews MB RA,No. 2,Laura Wharton,Harrison Kemp,Harrison Kemp,6-7,6,7,0,1,Completed,true,false,false
+UA012064,20 Dec 20,6,Hurlingham Park,St Andrews MB RA,No. 3,Alan Smushkov,Bailey Cleland,Bailey Cleland,1-6,1,6,0,1,Completed,true,false,false
+UA012064,20 Dec 20,6,Hurlingham Park,St Andrews MB RA,No. 4,[Unnamed player — TROLS UA012064 home code 4],Sasha Bollen,Sasha Bollen,0-6,0,6,0,1,Completed,false,false,false

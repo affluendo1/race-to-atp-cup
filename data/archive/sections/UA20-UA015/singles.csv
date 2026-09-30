@@ -1,0 +1,201 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA015011,05 Feb 17,1,Lauriston,Tennis World,No. 1,Sean Butler,Tom Jorgensen,Tom Jorgensen,4-6,4,6,0,1,Completed,true,false,false
+UA015011,05 Feb 17,1,Lauriston,Tennis World,No. 2,Paris Arzanas,Fabrizio Cascino,Fabrizio Cascino,0-6,0,6,0,1,Completed,true,false,false
+UA015011,05 Feb 17,1,Lauriston,Tennis World,No. 3,Benjamin Durkin,Madelyn Brown,Madelyn Brown,0-6,0,6,0,1,Completed,true,false,false
+UA015011,05 Feb 17,1,Lauriston,Tennis World,No. 4,Sara Taitt,Ruby Kirkwood,Ruby Kirkwood,4-6,4,6,0,1,Completed,true,false,false
+UA015012,05 Feb 17,1,Dendy Park,Highett,No. 1,Naoto Hasegawa,Hugo Hansen,Naoto Hasegawa,6-2,6,2,1,0,Completed,true,false,false
+UA015012,05 Feb 17,1,Dendy Park,Highett,No. 2,Felipe Bragagnolo,Markus Mittermayr,Markus Mittermayr,0-6,0,6,0,1,Completed,true,false,false
+UA015012,05 Feb 17,1,Dendy Park,Highett,No. 3,Luke Ellem,Harry Kidd,Luke Ellem,6-3,6,3,1,0,Completed,true,false,false
+UA015012,05 Feb 17,1,Dendy Park,Highett,No. 4,Tom Davoren,Tom Federici,Tom Davoren,6-1,6,1,1,0,Completed,true,false,false
+UA015013,05 Feb 17,1,St Pauls,Glen Eira,No. 1,Ashton Eikelis,Josie Best,Josie Best,3-6,3,6,0,1,Completed,true,false,false
+UA015013,05 Feb 17,1,St Pauls,Glen Eira,No. 2,Anna Kennedy,Jordyn Birnbaum,Jordyn Birnbaum,6-7,6,7,0,1,Completed,true,false,false
+UA015013,05 Feb 17,1,St Pauls,Glen Eira,No. 3,Henry Moore,Aaron Birnbaum,Aaron Birnbaum,4-6,4,6,0,1,Completed,true,false,false
+UA015013,05 Feb 17,1,St Pauls,Glen Eira,No. 4,Chloe Trainor,Jeremy Nudal,Chloe Trainor,7-5,7,5,1,0,Completed,true,false,false
+UA015014,05 Feb 17,1,GPHC MLC,Aspendale,No. 1,Cooper Lord,Mitchell Keatley,Mitchell Keatley,3-6,3,6,0,1,Completed,true,false,false
+UA015014,05 Feb 17,1,GPHC MLC,Aspendale,No. 2,Will McCarthy,Chris Rodas,Will McCarthy,6-0,6,0,1,0,Completed,true,false,false
+UA015014,05 Feb 17,1,GPHC MLC,Aspendale,No. 3,Thomas Auld,Luis Seibold,Luis Seibold,5-7,5,7,0,1,Completed,true,false,false
+UA015014,05 Feb 17,1,GPHC MLC,Aspendale,No. 4,Vincent Tripodi,Flynn Nicholson,Flynn Nicholson,1-6,1,6,0,1,Completed,true,false,false
+UA015021,12 Feb 17,2,Aspendale,Lauriston,No. 1,Mitchell Keatley,Paris Arzanas,Mitchell Keatley,6-3,6,3,1,0,Completed,true,false,false
+UA015021,12 Feb 17,2,Aspendale,Lauriston,No. 2,Luis Seibold,Sean Butler,Luis Seibold,7-6,7,6,1,0,Completed,true,false,false
+UA015021,12 Feb 17,2,Aspendale,Lauriston,No. 3,Tane Mackintosh,Benjamin Durkin,Tane Mackintosh,6-0,6,0,1,0,Completed,true,false,false
+UA015021,12 Feb 17,2,Aspendale,Lauriston,No. 4,Laura Melatua,Sara Taitt,Laura Melatua,6-4,6,4,1,0,Completed,true,false,false
+UA015023,12 Feb 17,2,Highett,St Pauls,No. 1,Annabelle Kidd,Ashton Eikelis,Annabelle Kidd,6-0,6,0,1,0,Completed,true,false,false
+UA015023,12 Feb 17,2,Highett,St Pauls,No. 2,Markus Mittermayr,Anna Kennedy,Markus Mittermayr,6-4,6,4,1,0,Completed,true,false,false
+UA015023,12 Feb 17,2,Highett,St Pauls,No. 3,Harry Kidd,Chloe Trainor,Harry Kidd,6-4,6,4,1,0,Completed,true,false,false
+UA015023,12 Feb 17,2,Highett,St Pauls,No. 4,Tom Federici,Noah Smith,Noah Smith,3-6,3,6,0,1,Completed,true,false,false
+UA015024,12 Feb 17,2,Glen Eira,GPHC MLC,No. 1,Sebastian Raboy,Cooper Lord,Sebastian Raboy,7-5,7,5,1,0,Completed,true,false,false
+UA015024,12 Feb 17,2,Glen Eira,GPHC MLC,No. 2,Josie Best,Alex Tripp,Josie Best,6-0,6,0,1,0,Completed,true,false,false
+UA015024,12 Feb 17,2,Glen Eira,GPHC MLC,No. 3,Aaron Birnbaum,Sebastion Joseph,Aaron Birnbaum,6-2,6,2,1,0,Completed,true,false,false
+UA015024,12 Feb 17,2,Glen Eira,GPHC MLC,No. 4,Caden Begg,Vincent Tripodi,Caden Begg,6-3,6,3,1,0,Completed,true,false,false
+UA015031,19 Feb 17,3,Lauriston,Glen Eira,No. 1,Paris Arzanas,Sebastian Raboy,Paris Arzanas,7-5,7,5,1,0,Completed,true,false,false
+UA015031,19 Feb 17,3,Lauriston,Glen Eira,No. 2,Sean Butler,Jordyn Birnbaum,Jordyn Birnbaum,3-6,3,6,0,1,Completed,true,false,false
+UA015031,19 Feb 17,3,Lauriston,Glen Eira,No. 3,Benjamin Durkin,Caden Begg,Benjamin Durkin,6-4,6,4,1,0,Completed,true,false,false
+UA015031,19 Feb 17,3,Lauriston,Glen Eira,No. 4,Sara Taitt,Ollie Rudas,Sara Taitt,6-0,6,0,1,0,Completed,true,false,false
+UA015032,19 Feb 17,3,Dendy Park,Aspendale,No. 1,Felipe Bragagnolo,Mitchell Keatley,Mitchell Keatley,1-6,1,6,0,1,Completed,true,false,false
+UA015032,19 Feb 17,3,Dendy Park,Aspendale,No. 2,Jackson Chen,Chris Rodas,Chris Rodas,2-6,2,6,0,1,Completed,true,false,false
+UA015032,19 Feb 17,3,Dendy Park,Aspendale,No. 3,Tom Davoren,Flynn Nicholson,Tom Davoren,6-2,6,2,1,0,Completed,true,false,false
+UA015032,19 Feb 17,3,Dendy Park,Aspendale,No. 4,Daniel Palumbo,Tane Mackintosh,Daniel Palumbo,6-3,6,3,1,0,Completed,true,false,false
+UA015041,26 Feb 17,4,Highett,Lauriston,No. 1,Lachie Smith,Paris Arzanas,Paris Arzanas,3-6,3,6,0,1,Completed,true,false,false
+UA015041,26 Feb 17,4,Highett,Lauriston,No. 2,Markus Mittermayr,Sean Butler,Sean Butler,2-6,2,6,0,1,Completed,true,false,false
+UA015041,26 Feb 17,4,Highett,Lauriston,No. 3,Harry Kidd,Benjamin Durkin,Benjamin Durkin,3-6,3,6,0,1,Completed,true,false,false
+UA015041,26 Feb 17,4,Highett,Lauriston,No. 4,Tom Federici,Sara Taitt,Sara Taitt,2-6,2,6,0,1,Completed,true,false,false
+UA015042,26 Feb 17,4,Glen Eira,Dendy Park,No. 1,Sebastian Raboy,Felipe Bragagnolo,Sebastian Raboy,6-1,6,1,1,0,Completed,true,false,false
+UA015042,26 Feb 17,4,Glen Eira,Dendy Park,No. 2,Josie Best,Luke Ellem,Luke Ellem,4-6,4,6,0,1,Completed,true,false,false
+UA015042,26 Feb 17,4,Glen Eira,Dendy Park,No. 3,Jordyn Birnbaum,Jackson Chen,Jordyn Birnbaum,7-6,7,6,1,0,Completed,true,false,false
+UA015042,26 Feb 17,4,Glen Eira,Dendy Park,No. 4,Aaron Birnbaum,Charlotte Bytheway,Charlotte Bytheway,3-6,3,6,0,1,Completed,true,false,false
+UA015043,26 Feb 17,4,Aspendale,St Pauls,No. 1,Mitchell Keatley,Ashton Eikelis,Mitchell Keatley,6-4,6,4,1,0,Completed,true,false,false
+UA015043,26 Feb 17,4,Aspendale,St Pauls,No. 2,Luis Seibold,Anna Kennedy,Luis Seibold,6-0,6,0,1,0,Completed,true,false,false
+UA015043,26 Feb 17,4,Aspendale,St Pauls,No. 3,Flynn Nicholson,Henry Moore,Flynn Nicholson,6-3,6,3,1,0,Completed,true,false,false
+UA015043,26 Feb 17,4,Aspendale,St Pauls,No. 4,Tane Mackintosh,Chloe Trainor,Tane Mackintosh,6-0,6,0,1,0,Completed,true,false,false
+UA015044,26 Feb 17,4,Tennis World,GPHC MLC,No. 1,Tom Jorgensen,Cooper Lord,Tom Jorgensen,6-4,6,4,1,0,Completed,true,false,false
+UA015044,26 Feb 17,4,Tennis World,GPHC MLC,No. 2,Fabrizio Cascino,Thomas Auld,Thomas Auld,3-6,3,6,0,1,Completed,true,false,false
+UA015044,26 Feb 17,4,Tennis World,GPHC MLC,No. 3,Madelyn Brown,Vincent Tripodi,Madelyn Brown,6-3,6,3,1,0,Completed,true,false,false
+UA015044,26 Feb 17,4,Tennis World,GPHC MLC,No. 4,Ruby Kirkwood,Will Graham,Ruby Kirkwood,6-2,6,2,1,0,Completed,true,false,false
+UA015051,05 Mar 17,5,St Pauls,GPHC MLC,No. 1,Nicolas Chau,Cooper Lord,Nicolas Chau,6-4,6,4,1,0,Completed,true,false,false
+UA015051,05 Mar 17,5,St Pauls,GPHC MLC,No. 2,Anna Kennedy,Thomas Auld,Thomas Auld,1-6,1,6,0,1,Completed,true,false,false
+UA015051,05 Mar 17,5,St Pauls,GPHC MLC,No. 3,Henry Moore,Sebastion Joseph,Sebastion Joseph,4-6,4,6,0,1,Completed,true,false,false
+UA015051,05 Mar 17,5,St Pauls,GPHC MLC,No. 4,Chloe Trainor,Vincent Tripodi,Vincent Tripodi,0-6,0,6,0,1,Completed,true,false,false
+UA015052,05 Mar 17,5,Aspendale,Glen Eira,No. 1,Chris Rodas,Sebastian Raboy,Sebastian Raboy,4-6,4,6,0,1,Completed,true,false,false
+UA015052,05 Mar 17,5,Aspendale,Glen Eira,No. 2,Luis Seibold,Josie Best,Luis Seibold,6-4,6,4,1,0,Completed,true,false,false
+UA015052,05 Mar 17,5,Aspendale,Glen Eira,No. 3,Flynn Nicholson,Aaron Birnbaum,Flynn Nicholson,6-3,6,3,1,0,Completed,true,false,false
+UA015052,05 Mar 17,5,Aspendale,Glen Eira,No. 4,Tane Mackintosh,Ollie Rudas,Tane Mackintosh,6-0,6,0,1,0,Completed,true,false,false
+UA015053,05 Mar 17,5,Highett,Tennis World,No. 1,Lachie Smith,Tom Jorgensen,Lachie Smith,6-1,6,1,1,0,Completed,true,false,false
+UA015053,05 Mar 17,5,Highett,Tennis World,No. 2,Markus Mittermayr,Arianne Tolikas,Arianne Tolikas,2-6,2,6,0,1,Completed,true,false,false
+UA015053,05 Mar 17,5,Highett,Tennis World,No. 3,Harry Kidd,Ruby Kirkwood,Ruby Kirkwood,1-6,1,6,0,1,Completed,true,false,false
+UA015053,05 Mar 17,5,Highett,Tennis World,No. 4,Josh Jakob,Alex Tarraran,Alex Tarraran,0-6,0,6,0,1,Completed,true,false,false
+UA015054,05 Mar 17,5,Lauriston,Dendy Park,No. 1,Paris Arzanas,Luke Ellem,Luke Ellem,3-6,3,6,0,1,Completed,true,false,false
+UA015054,05 Mar 17,5,Lauriston,Dendy Park,No. 2,Sean Butler,Tom Davoren,Tom Davoren,2-6,2,6,0,1,Completed,true,false,false
+UA015054,05 Mar 17,5,Lauriston,Dendy Park,No. 3,Benjamin Durkin,Jackson Chen,Jackson Chen,3-6,3,6,0,1,Completed,true,false,false
+UA015054,05 Mar 17,5,Lauriston,Dendy Park,No. 4,Sara Taitt,Charlotte Bytheway,Charlotte Bytheway,4-6,4,6,0,1,Completed,true,false,false
+UA015061,19 Mar 17,6,Dendy Park,St Pauls,No. 1,Luke Ellem,Ashton Eikelis,Ashton Eikelis,4-6,4,6,0,1,Completed,true,false,false
+UA015061,19 Mar 17,6,Dendy Park,St Pauls,No. 2,Tom Davoren,Anna Kennedy,Anna Kennedy,5-7,5,7,0,1,Completed,true,false,false
+UA015061,19 Mar 17,6,Dendy Park,St Pauls,No. 3,Felipe Bragagnolo,Henry Moore,Henry Moore,4-6,4,6,0,1,Completed,true,false,false
+UA015061,19 Mar 17,6,Dendy Park,St Pauls,No. 4,Daniel Palumbo,Chloe Trainor,Daniel Palumbo,6-1,6,1,1,0,Completed,true,false,false
+UA015062,19 Mar 17,6,GPHC MLC,Lauriston,No. 1,Cooper Lord,Paris Arzanas,Cooper Lord,6-3,6,3,1,0,Completed,true,false,false
+UA015062,19 Mar 17,6,GPHC MLC,Lauriston,No. 2,Alex Tripp,Sean Butler,Sean Butler,1-6,1,6,0,1,Completed,true,false,false
+UA015062,19 Mar 17,6,GPHC MLC,Lauriston,No. 3,Vincent Tripodi,Benjamin Durkin,Benjamin Durkin,3-6,3,6,0,1,Completed,true,false,false
+UA015062,19 Mar 17,6,GPHC MLC,Lauriston,No. 4,Sebastion Joseph,Sara Taitt,Sara Taitt,0-6,0,6,0,1,Completed,true,false,false
+UA015063,19 Mar 17,6,Glen Eira,Highett,No. 1,Sebastian Raboy,Markus Mittermayr,Sebastian Raboy,6-1,6,1,1,0,Completed,true,false,false
+UA015063,19 Mar 17,6,Glen Eira,Highett,No. 2,Aaron Birnbaum,Harry Kidd,Aaron Birnbaum,6-4,6,4,1,0,Completed,true,false,false
+UA015063,19 Mar 17,6,Glen Eira,Highett,No. 3,Caden Begg,Tom Federici,Caden Begg,6-1,6,1,1,0,Completed,true,false,false
+UA015063,19 Mar 17,6,Glen Eira,Highett,No. 4,Ollie Rudas,Josh Jakob,Josh Jakob,2-6,2,6,0,1,Completed,true,false,false
+UA015064,19 Mar 17,6,Tennis World,Aspendale,No. 1,Tom Jorgensen,Mitchell Keatley,Tom Jorgensen,7-6,7,6,1,0,Completed,true,false,false
+UA015064,19 Mar 17,6,Tennis World,Aspendale,No. 2,Madelyn Brown,Chris Rodas,Madelyn Brown,7-5,7,5,1,0,Completed,true,false,false
+UA015064,19 Mar 17,6,Tennis World,Aspendale,No. 3,Alexander Giatsis,Luis Seibold,Luis Seibold,2-6,2,6,0,1,Completed,true,false,false
+UA015064,19 Mar 17,6,Tennis World,Aspendale,No. 4,Alex Tarraran,Flynn Nicholson,Alex Tarraran,6-4,6,4,1,0,Completed,true,false,false
+UA015071,26 Mar 17,7,Lauriston,St Pauls,No. 1,Paris Arzanas,Ashton Eikelis,Paris Arzanas,7-5,7,5,1,0,Completed,true,false,false
+UA015071,26 Mar 17,7,Lauriston,St Pauls,No. 2,Sean Butler,Anna Kennedy,Anna Kennedy,4-6,4,6,0,1,Completed,true,false,false
+UA015071,26 Mar 17,7,Lauriston,St Pauls,No. 3,Benjamin Durkin,Henry Moore,Benjamin Durkin,6-1,6,1,1,0,Completed,true,false,false
+UA015071,26 Mar 17,7,Lauriston,St Pauls,No. 4,Sara Taitt,Chloe Trainor,Sara Taitt,6-2,6,2,1,0,Completed,true,false,false
+UA015072,26 Mar 17,7,Dendy Park,GPHC MLC,No. 1,Luke Ellem,Cooper Lord,Luke Ellem,6-4,6,4,1,0,Completed,true,false,false
+UA015072,26 Mar 17,7,Dendy Park,GPHC MLC,No. 2,Tom Davoren,Thomas Auld,Tom Davoren,7-5,7,5,1,0,Completed,true,false,false
+UA015072,26 Mar 17,7,Dendy Park,GPHC MLC,No. 3,Jackson Chen,Vincent Tripodi,Jackson Chen,6-0,6,0,1,0,Completed,true,false,false
+UA015072,26 Mar 17,7,Dendy Park,GPHC MLC,No. 4,Daniel Palumbo,Will Graham,Daniel Palumbo,6-4,6,4,1,0,Completed,true,false,false
+UA015073,26 Mar 17,7,Aspendale,Highett,No. 1,Mitchell Keatley,Lachie Smith,Lachie Smith,5-7,5,7,0,1,Completed,true,false,false
+UA015073,26 Mar 17,7,Aspendale,Highett,No. 2,Chris Rodas,Harry Kidd,Chris Rodas,6-3,6,3,1,0,Completed,true,false,false
+UA015073,26 Mar 17,7,Aspendale,Highett,No. 3,Luis Seibold,Tom Federici,Luis Seibold,6-0,6,0,1,0,Completed,true,false,false
+UA015073,26 Mar 17,7,Aspendale,Highett,No. 4,Tane Mackintosh,Josh Jakob,Tane Mackintosh,6-0,6,0,1,0,Completed,true,false,false
+UA015074,26 Mar 17,7,Glen Eira,Tennis World,No. 1,Sebastian Raboy,Fabrizio Cascino,Sebastian Raboy,6-3,6,3,1,0,Completed,true,false,false
+UA015074,26 Mar 17,7,Glen Eira,Tennis World,No. 2,Aaron Birnbaum,Arianne Tolikas,Aaron Birnbaum,7-5,7,5,1,0,Completed,true,false,false
+UA015074,26 Mar 17,7,Glen Eira,Tennis World,No. 3,Caden Begg,Ruby Kirkwood,Ruby Kirkwood,4-6,4,6,0,1,Completed,true,false,false
+UA015074,26 Mar 17,7,Glen Eira,Tennis World,No. 4,Ollie Rudas,Alex Tarraran,Alex Tarraran,1-6,1,6,0,1,Completed,true,false,false
+UA015081,23 Apr 17,8,Tennis World,Lauriston,No. 1,Tom Jorgensen,Paris Arzanas,Paris Arzanas,3-6,3,6,0,1,Completed,true,false,false
+UA015081,23 Apr 17,8,Tennis World,Lauriston,No. 2,Madelyn Brown,Sean Butler,Sean Butler,2-6,2,6,0,1,Completed,true,false,false
+UA015081,23 Apr 17,8,Tennis World,Lauriston,No. 3,Arianne Tolikas,Benjamin Durkin,Benjamin Durkin,4-6,4,6,0,1,Completed,true,false,false
+UA015081,23 Apr 17,8,Tennis World,Lauriston,No. 4,Ruby Kirkwood,Sara Taitt,Ruby Kirkwood,6-3,6,3,1,0,Completed,true,false,false
+UA015083,23 Apr 17,8,Glen Eira,St Pauls,No. 1,Sebastian Raboy,Ashton Eikelis,Sebastian Raboy,7-5,7,5,1,0,Completed,true,false,false
+UA015083,23 Apr 17,8,Glen Eira,St Pauls,No. 2,Josie Best,Anna Kennedy,Josie Best,6-0,6,0,1,0,Completed,true,false,false
+UA015083,23 Apr 17,8,Glen Eira,St Pauls,No. 3,Jordyn Birnbaum,Henry Moore,Jordyn Birnbaum,6-1,6,1,1,0,Completed,true,false,false
+UA015083,23 Apr 17,8,Glen Eira,St Pauls,No. 4,Caden Begg,Chloe Trainor,Chloe Trainor,3-6,3,6,0,1,Completed,true,false,false
+UA015084,23 Apr 17,8,Aspendale,GPHC MLC,No. 1,Mitchell Keatley,Alex Tripp,Mitchell Keatley,6-0,6,0,1,0,Completed,true,false,false
+UA015084,23 Apr 17,8,Aspendale,GPHC MLC,No. 2,Flynn Nicholson,Thomas Auld,Thomas Auld,0-6,0,6,0,1,Completed,true,false,false
+UA015084,23 Apr 17,8,Aspendale,GPHC MLC,No. 3,Tane Mackintosh,Sebastion Joseph,Tane Mackintosh,7-6,7,6,1,0,Completed,true,false,false
+UA015084,23 Apr 17,8,Aspendale,GPHC MLC,No. 4,Jarvis Dorian,Vincent Tripodi,Jarvis Dorian,6-0,6,0,1,0,Completed,true,false,false
+UA015091,30 Apr 17,9,Lauriston,Aspendale,No. 1,Arron Nazaretian,Mitchell Keatley,Mitchell Keatley,4-6,4,6,0,1,Completed,true,false,false
+UA015091,30 Apr 17,9,Lauriston,Aspendale,No. 2,Paris Arzanas,Chris Rodas,Chris Rodas,4-6,4,6,0,1,Completed,true,false,false
+UA015091,30 Apr 17,9,Lauriston,Aspendale,No. 3,Sean Butler,Luis Seibold,Luis Seibold,1-6,1,6,0,1,Completed,true,false,false
+UA015091,30 Apr 17,9,Lauriston,Aspendale,No. 4,Benjamin Durkin,Tane Mackintosh,Tane Mackintosh,6-7,6,7,0,1,Completed,true,false,false
+UA015092,30 Apr 17,9,Dendy Park,Tennis World,No. 1,Tom Davoren,Tom Jorgensen,Tom Davoren,6-4,6,4,1,0,Completed,true,false,false
+UA015092,30 Apr 17,9,Dendy Park,Tennis World,No. 2,Jackson Chen,Alexander Giatsis,Jackson Chen,6-4,6,4,1,0,Completed,true,false,false
+UA015092,30 Apr 17,9,Dendy Park,Tennis World,No. 3,Charlotte Bytheway,Arianne Tolikas,Charlotte Bytheway,6-4,6,4,1,0,Completed,true,false,false
+UA015092,30 Apr 17,9,Dendy Park,Tennis World,No. 4,Felipe Bragagnolo,Ruby Kirkwood,Ruby Kirkwood,1-6,1,6,0,1,Completed,true,false,false
+UA015093,30 Apr 17,9,St Pauls,Highett,No. 1,Ashton Eikelis,Markus Mittermayr,Ashton Eikelis,6-2,6,2,1,0,Completed,true,false,false
+UA015093,30 Apr 17,9,St Pauls,Highett,No. 2,Anna Kennedy,Juan Limbo,Juan Limbo,0-6,0,6,0,1,Completed,true,false,false
+UA015093,30 Apr 17,9,St Pauls,Highett,No. 3,Henry Moore,James Vassiliou,Henry Moore,6-2,6,2,1,0,Completed,true,false,false
+UA015093,30 Apr 17,9,St Pauls,Highett,No. 4,Chloe Trainor,Ben Yang,Ben Yang,2-6,2,6,0,1,Completed,true,false,false
+UA015094,30 Apr 17,9,GPHC MLC,Glen Eira,No. 1,Alex Tripp,Sebastian Raboy,Sebastian Raboy,0-6,0,6,0,1,Completed,true,false,false
+UA015094,30 Apr 17,9,GPHC MLC,Glen Eira,No. 2,Thomas Auld,Jordyn Birnbaum,Jordyn Birnbaum,5-7,5,7,0,1,Completed,true,false,false
+UA015094,30 Apr 17,9,GPHC MLC,Glen Eira,No. 3,Sebastion Joseph,Caden Begg,Sebastion Joseph,6-2,6,2,1,0,Completed,true,false,false
+UA015094,30 Apr 17,9,GPHC MLC,Glen Eira,No. 4,Vincent Tripodi,Ollie Rudas,Vincent Tripodi,6-1,6,1,1,0,Completed,true,false,false
+UA015101,07 May 17,10,Glen Eira,Lauriston,No. 1,Josie Best,Paris Arzanas,Josie Best,7-5,7,5,1,0,Completed,true,false,false
+UA015101,07 May 17,10,Glen Eira,Lauriston,No. 2,Jordyn Birnbaum,Sean Butler,Jordyn Birnbaum,7-5,7,5,1,0,Completed,true,false,false
+UA015101,07 May 17,10,Glen Eira,Lauriston,No. 3,Aaron Birnbaum,Benjamin Durkin,Aaron Birnbaum,6-4,6,4,1,0,Completed,true,false,false
+UA015101,07 May 17,10,Glen Eira,Lauriston,No. 4,Ollie Rudas,Sara Tritt,Sara Tritt,3-6,3,6,0,1,Completed,true,false,false
+UA015103,07 May 17,10,Tennis World,St Pauls,No. 1,Fabrizio Cascino,Ashton Eikelis,Ashton Eikelis,2-6,2,6,0,1,Completed,true,false,false
+UA015103,07 May 17,10,Tennis World,St Pauls,No. 2,Madelyn Brown,Anna Kennedy,Anna Kennedy,2-6,2,6,0,1,Completed,true,false,false
+UA015103,07 May 17,10,Tennis World,St Pauls,No. 3,Ruby Kirkwood,Henry Moore,Ruby Kirkwood,6-3,6,3,1,0,Completed,true,false,false
+UA015103,07 May 17,10,Tennis World,St Pauls,No. 4,Alex Tarraran,Chloe Trainor,Alex Tarraran,6-4,6,4,1,0,Completed,true,false,false
+UA015111,14 May 17,11,Lauriston,Highett,No. 1,Arron Nazaretian,Markus Mittermayr,Arron Nazaretian,7-5,7,5,1,0,Completed,true,false,false
+UA015111,14 May 17,11,Lauriston,Highett,No. 2,Paris Arzanas,Hugo Hansen,Hugo Hansen,2-6,2,6,0,1,Completed,true,false,false
+UA015111,14 May 17,11,Lauriston,Highett,No. 3,Sean Butler,James Vassiliou,Sean Butler,6-2,6,2,1,0,Completed,true,false,false
+UA015111,14 May 17,11,Lauriston,Highett,No. 4,Benjamin Durkin,Ben Yang,Benjamin Durkin,6-1,6,1,1,0,Completed,true,false,false
+UA015112,14 May 17,11,Dendy Park,Glen Eira,No. 1,Tom Davoren,Sebastian Raboy,Sebastian Raboy,2-6,2,6,0,1,Completed,true,false,false
+UA015112,14 May 17,11,Dendy Park,Glen Eira,No. 2,Jackson Chen,Josie Best,Jackson Chen,7-6,7,6,1,0,Completed,true,false,false
+UA015112,14 May 17,11,Dendy Park,Glen Eira,No. 3,Charlotte Bytheway,Jordyn Birnbaum,Jordyn Birnbaum,5-7,5,7,0,1,Completed,true,false,false
+UA015112,14 May 17,11,Dendy Park,Glen Eira,No. 4,Daniel Palumbo,Ollie Rudas,Daniel Palumbo,6-1,6,1,1,0,Completed,true,false,false
+UA015113,14 May 17,11,St Pauls,Aspendale,No. 1,Ashton Eikelis,Mitchell Keatley,Mitchell Keatley,2-6,2,6,0,1,Completed,true,false,false
+UA015113,14 May 17,11,St Pauls,Aspendale,No. 2,Anna Kennedy,Chris Rodas,Anna Kennedy,6-4,6,4,1,0,Completed,true,false,false
+UA015113,14 May 17,11,St Pauls,Aspendale,No. 3,Henry Moore,Luis Seibold,Luis Seibold,1-6,1,6,0,1,Completed,true,false,false
+UA015113,14 May 17,11,St Pauls,Aspendale,No. 4,Chloe Trainor,Edward Marcon,Edward Marcon,5-7,5,7,0,1,Completed,true,false,false
+UA015114,14 May 17,11,GPHC MLC,Tennis World,No. 1,Cooper Lord,Tom Jorgensen,Tom Jorgensen,4-6,4,6,0,1,Completed,true,false,false
+UA015114,14 May 17,11,GPHC MLC,Tennis World,No. 2,Sebastion Joseph,Alexander Giatsis,Sebastion Joseph,6-4,6,4,1,0,Completed,true,false,false
+UA015114,14 May 17,11,GPHC MLC,Tennis World,No. 3,Alex Tripp,Arianne Tolikas,Arianne Tolikas,1-6,1,6,0,1,Completed,true,false,false
+UA015114,14 May 17,11,GPHC MLC,Tennis World,No. 4,Vincent Tripodi,Fabrizio Cascino,Vincent Tripodi,6-0,6,0,1,0,Completed,true,false,false
+UA015121,21 May 17,12,GPHC MLC,St Pauls,No. 1,Cooper Lord,Ashton Eikelis,Cooper Lord,6-4,6,4,1,0,Completed,true,false,false
+UA015121,21 May 17,12,GPHC MLC,St Pauls,No. 2,Sebastion Joseph,Anna Kennedy,Anna Kennedy,1-6,1,6,0,1,Completed,true,false,false
+UA015121,21 May 17,12,GPHC MLC,St Pauls,No. 3,Alex Tripp,Henry Moore,Henry Moore,1-6,1,6,0,1,Completed,true,false,false
+UA015121,21 May 17,12,GPHC MLC,St Pauls,No. 4,Vincent Tripodi,Chloe Trainor,Chloe Trainor,0-6,0,6,0,1,Completed,true,false,false
+UA015122,21 May 17,12,Glen Eira,Aspendale,No. 1,Sebastian Raboy,Mitchell Keatley,Mitchell Keatley,4-6,4,6,0,1,Completed,true,false,false
+UA015122,21 May 17,12,Glen Eira,Aspendale,No. 2,Josie Best,Chris Rodas,Josie Best,6-3,6,3,1,0,Completed,true,false,false
+UA015122,21 May 17,12,Glen Eira,Aspendale,No. 3,Aaron Birnbaum,Luis Seibold,Luis Seibold,0-6,0,6,0,1,Completed,true,false,false
+UA015122,21 May 17,12,Glen Eira,Aspendale,No. 4,Ollie Rudas,Tane Mackintosh,Tane Mackintosh,0-6,0,6,0,1,Completed,true,false,false
+UA015124,21 May 17,12,Dendy Park,Lauriston,No. 1,Jackson Chen,Sean Butler,Jackson Chen,6-4,6,4,1,0,Completed,true,false,false
+UA015124,21 May 17,12,Dendy Park,Lauriston,No. 2,Charlotte Bytheway,Benjamin Durkin,Charlotte Bytheway,6-4,6,4,1,0,Completed,true,false,false
+UA015124,21 May 17,12,Dendy Park,Lauriston,No. 3,Felipe Bragagnolo,Sara Tritt,Felipe Bragagnolo,6-3,6,3,1,0,Completed,true,false,false
+UA015124,21 May 17,12,Dendy Park,Lauriston,No. 4,Daniel Palumbo,Yaniv Rakach,Yaniv Rakach,1-6,1,6,0,1,Completed,true,false,false
+UA015131,28 May 17,13,St Pauls,Dendy Park,No. 1,Ashton Eikelis,Tom Davoren,Tom Davoren,3-6,3,6,0,1,Completed,true,false,false
+UA015131,28 May 17,13,St Pauls,Dendy Park,No. 2,Anna Kennedy,Jackson Chen,Jackson Chen,4-6,4,6,0,1,Completed,true,false,false
+UA015131,28 May 17,13,St Pauls,Dendy Park,No. 3,Henry Moore,[Unnamed player — TROLS UA015131 away code 3],Henry Moore,6-0,6,0,1,0,Completed,false,false,false
+UA015131,28 May 17,13,St Pauls,Dendy Park,No. 4,Chloe Trainor,Daniel Palumbo,Daniel Palumbo,2-6,2,6,0,1,Completed,true,false,false
+UA015133,28 May 17,13,Highett,Glen Eira,No. 1,Markus Mittermayr,Josie Best,Josie Best,1-6,1,6,0,1,Completed,true,false,false
+UA015133,28 May 17,13,Highett,Glen Eira,No. 2,James Vassiliou,Jordyn Birnbaum,Jordyn Birnbaum,1-6,1,6,0,1,Completed,true,false,false
+UA015133,28 May 17,13,Highett,Glen Eira,No. 3,Ben Yang,Aaron Birnbaum,Aaron Birnbaum,2-6,2,6,0,1,Completed,true,false,false
+UA015133,28 May 17,13,Highett,Glen Eira,No. 4,Dylan Smith,Caden Begg,Caden Begg,0-6,0,6,0,1,Completed,true,false,false
+UA015134,28 May 17,13,Aspendale,Tennis World,No. 1,Mitchell Keatley,Fabrizio Cascino,Mitchell Keatley,6-1,6,1,1,0,Completed,true,false,false
+UA015134,28 May 17,13,Aspendale,Tennis World,No. 2,Luis Seibold,Madelyn Brown,Luis Seibold,6-2,6,2,1,0,Completed,true,false,false
+UA015134,28 May 17,13,Aspendale,Tennis World,No. 3,Flynn Nicholson,Arianne Tolikas,Arianne Tolikas,2-6,2,6,0,1,Completed,true,false,false
+UA015134,28 May 17,13,Aspendale,Tennis World,No. 4,Tane Mackintosh,Ruby Kirkwood,Ruby Kirkwood,0-6,0,6,0,1,Completed,true,false,false
+UA015141,04 Jun 17,14,St Pauls,Lauriston,No. 1,Ashton Eikelis,Sean Butler,Ashton Eikelis,7-5,7,5,1,0,Completed,true,false,false
+UA015141,04 Jun 17,14,St Pauls,Lauriston,No. 2,Anna Kennedy,Sara Tritt,Anna Kennedy,6-4,6,4,1,0,Completed,true,false,false
+UA015141,04 Jun 17,14,St Pauls,Lauriston,No. 3,Henry Moore,Benjamin Durkin,Henry Moore,6-3,6,3,1,0,Completed,true,false,false
+UA015141,04 Jun 17,14,St Pauls,Lauriston,No. 4,Chloe Trainor,Daniel Kazakevich,Chloe Trainor,6-2,6,2,1,0,Completed,true,false,false
+UA015142,04 Jun 17,14,GPHC MLC,Dendy Park,No. 1,Cooper Lord,Luke Ellem,Cooper Lord,6-1,6,1,1,0,Completed,true,false,false
+UA015142,04 Jun 17,14,GPHC MLC,Dendy Park,No. 2,Sebastion Joseph,Tom Davoren,Tom Davoren,2-6,2,6,0,1,Completed,true,false,false
+UA015142,04 Jun 17,14,GPHC MLC,Dendy Park,No. 3,Alex Tripp,Jackson Chen,Jackson Chen,1-6,1,6,0,1,Completed,true,false,false
+UA015142,04 Jun 17,14,GPHC MLC,Dendy Park,No. 4,Vincent Tripodi,Daniel Palumbo,Daniel Palumbo,2-6,2,6,0,1,Completed,true,false,false
+UA015144,04 Jun 17,14,Tennis World,Glen Eira,No. 1,Tom Jorgensen,Sebastian Raboy,Sebastian Raboy,4-6,4,6,0,1,Completed,true,false,false
+UA015144,04 Jun 17,14,Tennis World,Glen Eira,No. 2,Madelyn Brown,Josie Best,Josie Best,1-6,1,6,0,1,Completed,true,false,false
+UA015144,04 Jun 17,14,Tennis World,Glen Eira,No. 3,Alexander Giatsis,Jordyn Birnbaum,Jordyn Birnbaum,6-7,6,7,0,1,Completed,true,false,false
+UA015144,04 Jun 17,14,Tennis World,Glen Eira,No. 4,Alex Tarraran,Aaron Birnbaum,Alex Tarraran,6-1,6,1,1,0,Completed,true,false,false
+UA015301,,16,Aspendale,Tennis World,No. 1,Mitchell Keatley,Fabrizio Cascino,Mitchell Keatley,6-0,6,0,1,0,Completed,true,false,false
+UA015301,,16,Aspendale,Tennis World,No. 2,Chris Rodas,Madelyn Brown,Madelyn Brown,4-6,4,6,0,1,Completed,true,false,false
+UA015301,,16,Aspendale,Tennis World,No. 3,Flynn Nicholson,Ruby Kirkwood,Ruby Kirkwood,2-6,2,6,0,1,Completed,true,false,false
+UA015301,,16,Aspendale,Tennis World,No. 4,Tane Mackintosh,Alex Tarraran,Tane Mackintosh,6-4,6,4,1,0,Completed,true,false,false
+UA015302,,16,Dendy Park,Glen Eira,No. 1,Luke Ellem,Sebastian Raboy,Sebastian Raboy,6-7,6,7,0,1,Completed,true,false,false
+UA015302,,16,Dendy Park,Glen Eira,No. 2,Jackson Chen,Josie Best,Josie Best,5-7,5,7,0,1,Completed,true,false,false
+UA015302,,16,Dendy Park,Glen Eira,No. 3,Charlotte Bytheway,Jordyn Birnbaum,Charlotte Bytheway,7-6,7,6,1,0,Completed,true,false,false
+UA015302,,16,Dendy Park,Glen Eira,No. 4,Felipe Bragagnolo,Aaron Birnbaum,Aaron Birnbaum,3-6,3,6,0,1,Completed,true,false,false
+UA015321,,17,Aspendale,Glen Eira,No. 1,Mitchell Keatley,Sebastian Raboy,Mitchell Keatley,6-2,6,2,1,0,Completed,true,false,false
+UA015321,,17,Aspendale,Glen Eira,No. 2,Chris Rodas,Josie Best,Josie Best,0-6,0,6,0,1,Completed,true,false,false
+UA015321,,17,Aspendale,Glen Eira,No. 3,Flynn Nicholson,Jordyn Birnbaum,Jordyn Birnbaum,2-6,2,6,0,1,Completed,true,false,false
+UA015321,,17,Aspendale,Glen Eira,No. 4,Tane Mackintosh,Aaron Birnbaum,Aaron Birnbaum,3-6,3,6,0,1,Completed,true,false,false

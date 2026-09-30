@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA30-UA013",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2022",
+  "season_id": "UA30",
+  "season_label": "Autumn 2022",
+  "source_section_code": "UA013",
+  "section_label": "Section 13",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Hurlingham Park",
+      "wins": 10,
+      "points": 105,
+      "percentage": 176.23,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Mentone",
+      "wins": 9,
+      "points": 84,
+      "percentage": 133.0,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Black Rock",
+      "wins": 9,
+      "points": 78,
+      "percentage": 111.28,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Maccabi",
+      "wins": 6,
+      "points": 66,
+      "percentage": 103.44,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Elsternwick Park",
+      "wins": 6,
+      "points": 65,
+      "percentage": 93.12,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Lauriston",
+      "wins": 4,
+      "points": 48,
+      "percentage": 80.26,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St James",
+      "wins": 3,
+      "points": 46,
+      "percentage": 86.13,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kings Park",
+      "wins": 2,
+      "points": 28,
+      "percentage": 57.75,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA30-UA013",
+  "fixtures": 55,
+  "completed_fixtures": 52,
+  "draw_fixtures": 59,
+  "singles_rubbers": 208,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for UA013302"
+  ]
+}

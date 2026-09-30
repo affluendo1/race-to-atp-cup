@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA017012,17 Jul 16,1,regular,Round 1,Lauriston,Dendy Park,7,3,3,3,,,26,25,Completed,
+UA017013,17 Jul 16,1,regular,Round 1,BLTC,Parkdale,2,8,2,4,,,24,32,Completed,
+UA017014,17 Jul 16,1,regular,Round 1,GPHC MLC,Glen Eira,2,8,2,4,,,22,28,Completed,
+pending-ua017-r1-hampton-bye,17 Jul 16,1,regular,Round 1,Hampton,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017021,24 Jul 16,2,regular,Round 2,Glen Eira,Hampton,2,8,2,4,,,22,31,Completed,
+UA017023,24 Jul 16,2,regular,Round 2,Dendy Park,BLTC,5,5,3,3,,,25,25,Completed,
+UA017024,24 Jul 16,2,regular,Round 2,Parkdale,GPHC MLC,7,3,3,3,,,29,27,Completed,
+pending-ua017-r2-bye-lauriston,24 Jul 16,2,regular,Round 2,Bye,Lauriston,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017031,31 Jul 16,3,regular,Round 3,Hampton,Parkdale,7,3,3,3,,,28,26,Completed,
+UA017032,31 Jul 16,3,regular,Round 3,Lauriston,Glen Eira,2,8,2,4,,,30,33,Completed,
+UA017034,31 Jul 16,3,regular,Round 3,GPHC MLC,Dendy Park,8,2,4,2,,,30,27,Completed,
+pending-ua017-r3-bltc-bye,31 Jul 16,3,regular,Round 3,BLTC,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017041,07 Aug 16,4,regular,Round 4,Dendy Park,Hampton,2,8,2,4,,,21,31,Completed,
+UA017042,07 Aug 16,4,regular,Round 4,Parkdale,Lauriston,7,3,3,3,,,25,22,Completed,
+UA017043,07 Aug 16,4,regular,Round 4,Glen Eira,BLTC,9,1,5,1,,,34,19,Completed,
+pending-ua017-r4-bye-gphc-mlc,07 Aug 16,4,regular,Round 4,Bye,GPHC MLC,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017051,14 Aug 16,5,regular,Round 5,BLTC,GPHC MLC,0,10,0,6,,,15,37,Completed,
+UA017052,14 Aug 16,5,regular,Round 5,Glen Eira,Parkdale,9,1,5,1,,,35,22,Completed,
+UA017054,14 Aug 16,5,regular,Round 5,Hampton,Lauriston,3,7,3,3,,,23,30,Completed,
+pending-ua017-r5-dendy-park-bye,14 Aug 16,5,regular,Round 5,Dendy Park,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017061,21 Aug 16,6,regular,Round 6,Lauriston,BLTC,9,1,5,1,,,32,19,Completed,
+UA017062,21 Aug 16,6,regular,Round 6,GPHC MLC,Hampton,1,9,1,5,,,20,35,Completed,
+UA017063,21 Aug 16,6,regular,Round 6,Parkdale,Dendy Park,2,8,2,4,,,21,26,Completed,
+pending-ua017-r6-bye-glen-eira,21 Aug 16,6,regular,Round 6,Bye,Glen Eira,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017071,28 Aug 16,7,regular,Round 7,Hampton,BLTC,1,9,1,5,,,15,35,Completed,
+UA017072,28 Aug 16,7,regular,Round 7,Lauriston,GPHC MLC,1,9,1,5,,,19,33,Completed,
+UA017073,28 Aug 16,7,regular,Round 7,Glen Eira,Dendy Park,10,0,6,0,,,36,8,Completed,
+pending-ua017-r7-parkdale-bye,28 Aug 16,7,regular,Round 7,Parkdale,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017082,04 Sep 16,8,regular,Round 8,Dendy Park,Lauriston,1,9,1,5,,,17,33,Completed,
+UA017083,04 Sep 16,8,regular,Round 8,Parkdale,BLTC,8,2,4,2,,,36,31,Completed,
+UA017084,04 Sep 16,8,regular,Round 8,Glen Eira,GPHC MLC,1,9,1,5,,,20,31,Completed,
+pending-ua017-r8-bye-hampton,04 Sep 16,8,regular,Round 8,Bye,Hampton,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017091,11 Sep 16,9,regular,Round 9,Hampton,Glen Eira,2,8,2,4,,,23,33,Completed,
+UA017093,11 Sep 16,9,regular,Round 9,BLTC,Dendy Park,7,3,3,3,,,23,21,Completed,
+UA017094,11 Sep 16,9,regular,Round 9,GPHC MLC,Parkdale,10,0,6,0,,,36,11,Completed,
+pending-ua017-r9-lauriston-bye,11 Sep 16,9,regular,Round 9,Lauriston,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017101,09 Oct 16,10,regular,Round 10,Parkdale,Hampton,2,8,2,4,,,20,31,Completed,
+UA017102,09 Oct 16,10,regular,Round 10,Glen Eira,Lauriston,8,2,4,2,,,29,27,Completed,
+UA017104,09 Oct 16,10,regular,Round 10,Dendy Park,GPHC MLC,2,8,2,4,,,24,31,Completed,
+pending-ua017-r10-bye-bltc,09 Oct 16,10,regular,Round 10,Bye,BLTC,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017111,16 Oct 16,11,regular,Round 11,Hampton,Dendy Park,2,8,2,4,,,21,30,Completed,
+UA017112,16 Oct 16,11,regular,Round 11,Lauriston,Parkdale,2,8,2,4,,,17,29,Completed,
+UA017113,16 Oct 16,11,regular,Round 11,BLTC,Glen Eira,2,8,2,4,,,20,26,Completed,
+pending-ua017-r11-gphc-mlc-bye,16 Oct 16,11,regular,Round 11,GPHC MLC,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017122,23 Oct 16,12,regular,Round 12,Parkdale,Glen Eira,2,8,2,4,,,24,31,Completed,
+UA017124,23 Oct 16,12,regular,Round 12,Lauriston,Hampton,0,10,0,6,,,14,36,Completed,
+pending-ua017-r12-bye-dendy-park,23 Oct 16,12,regular,Round 12,Bye,Dendy Park,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua017-r12-gphc-mlc-bltc,23 Oct 16,12,regular,Round 12,GPHC MLC,BLTC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA017131,06 Nov 16,13,regular,Round 13,BLTC,Lauriston,7,3,3,3,,,28,26,Completed,
+UA017132,06 Nov 16,13,regular,Round 13,Hampton,GPHC MLC,2,8,2,4,,,23,25,Completed,
+UA017133,06 Nov 16,13,regular,Round 13,Dendy Park,Parkdale,2,8,2,4,,,15,29,Completed,
+pending-ua017-r13-glen-eira-bye,06 Nov 16,13,regular,Round 13,Glen Eira,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017143,13 Nov 16,14,regular,Round 14,Dendy Park,Glen Eira,1,9,1,5,,,21,35,Completed,
+pending-ua017-r14-bltc-hampton,13 Nov 16,14,regular,Round 14,BLTC,Hampton,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua017-r14-bye-parkdale,13 Nov 16,14,regular,Round 14,Bye,Parkdale,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua017-r14-gphc-mlc-lauriston,13 Nov 16,14,regular,Round 14,GPHC MLC,Lauriston,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA017301,,16,semi_final,Semi-final,Glen Eira,Parkdale,8,2,4,2,,,30,21,Completed,
+UA017302,,16,semi_final,Semi-final,GPHC MLC,Hampton,3,7,3,3,,,24,25,Completed,
+UA017321,,17,grand_final,Grand final · TROLS entry 2,Glen Eira,Hampton,9,1,5,1,,,33,17,Completed,

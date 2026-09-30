@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA28-UA007",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2021",
+  "season_id": "UA28",
+  "season_label": "Autumn 2021",
+  "source_section_code": "UA007",
+  "section_label": "Section 7",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Highett",
+      "wins": 8,
+      "points": 90,
+      "percentage": 147.58,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Dendy Park",
+      "wins": 8,
+      "points": 82,
+      "percentage": 128.96,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Hurlingham Park",
+      "wins": 7,
+      "points": 75,
+      "percentage": 116.15,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Royal Ave 2",
+      "wins": 5,
+      "points": 66,
+      "percentage": 103.53,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Black Rock",
+      "wins": 5,
+      "points": 63,
+      "percentage": 98.3,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Mentone",
+      "wins": 4,
+      "points": 56,
+      "percentage": 83.07,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave 1",
+      "wins": 4,
+      "points": 50,
+      "percentage": 77.38,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Le Page",
+      "wins": 2,
+      "points": 38,
+      "percentage": 68.14,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA28-UA007",
+  "fixtures": 55,
+  "completed_fixtures": 47,
+  "draw_fixtures": 59,
+  "singles_rubbers": 188,
+  "doubles_rubbers": 94,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

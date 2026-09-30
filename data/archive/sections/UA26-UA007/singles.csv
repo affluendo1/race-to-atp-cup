@@ -1,0 +1,77 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA007011,02 Feb 20,1,Aspendale,Clarinda,No. 1,Matthew Billing,Ashley Tsan,Matthew Billing,6-4,6,4,1,0,Completed,true,false,false
+UA007011,02 Feb 20,1,Aspendale,Clarinda,No. 2,Lucas Raffaut,Brandon Tsan,Lucas Raffaut,7-5,7,5,1,0,Completed,true,false,false
+UA007011,02 Feb 20,1,Aspendale,Clarinda,No. 3,James Kocsis,Arhaan Khan,Arhaan Khan,3-6,3,6,0,1,Completed,true,false,false
+UA007011,02 Feb 20,1,Aspendale,Clarinda,No. 4,Giles Elton,Ellie Tsan,Ellie Tsan,2-6,2,6,0,1,Completed,true,false,false
+UA007012,02 Feb 20,1,GPHC,BLTC,No. 1,Joel Larkey,Dean Nguyen,Dean Nguyen,5-7,5,7,0,1,Completed,true,false,false
+UA007012,02 Feb 20,1,GPHC,BLTC,No. 2,Yannick Dobson,Davis Nguyen,Yannick Dobson,6-4,6,4,1,0,Completed,true,false,false
+UA007012,02 Feb 20,1,GPHC,BLTC,No. 3,Emily Retschko,Isabella Nicolis,Isabella Nicolis,2-6,2,6,0,1,Completed,true,false,false
+UA007012,02 Feb 20,1,GPHC,BLTC,No. 4,Conor Boussioutas,Jonty Ryan,Jonty Ryan,4-6,4,6,0,1,Completed,true,false,true
+UA007013,02 Feb 20,1,Royal South Yarra,Middle Brighton,No. 1,William McCrae,Suzie Ma,Suzie Ma,4-6,4,6,0,1,Completed,true,false,false
+UA007013,02 Feb 20,1,Royal South Yarra,Middle Brighton,No. 2,Johnny Asimenias,Annika Widmann,Johnny Asimenias,6-2,6,2,1,0,Completed,true,false,false
+UA007013,02 Feb 20,1,Royal South Yarra,Middle Brighton,No. 3,Katherine Soutter,Kristin Leung,Kristin Leung,4-6,4,6,0,1,Completed,true,false,false
+UA007013,02 Feb 20,1,Royal South Yarra,Middle Brighton,No. 4,Axy Park,Piper Gibbs,Axy Park,6-2,6,2,1,0,Completed,true,false,true
+UA007014,02 Feb 20,1,Hurlingham Park,Centenary Park,No. 1,Jack Mooney,Max Raeburn,Max Raeburn,1-6,1,6,0,1,Completed,true,false,false
+UA007014,02 Feb 20,1,Hurlingham Park,Centenary Park,No. 2,Ben Newton,Jack Thompson,Ben Newton,6-1,6,1,1,0,Completed,true,false,false
+UA007014,02 Feb 20,1,Hurlingham Park,Centenary Park,No. 3,Oscar Streeter,Timothy Kamampuzha,Oscar Streeter,6-1,6,1,1,0,Completed,true,false,false
+UA007014,02 Feb 20,1,Hurlingham Park,Centenary Park,No. 4,Jamie Kahane,Thom Kamampuzha,Thom Kamampuzha,3-6,3,6,0,1,Completed,true,false,false
+UA007021,09 Feb 20,2,Centenary Park,Aspendale,No. 1,Max Raeburn,Matthew Billing,Max Raeburn,6-2,6,2,1,0,Completed,true,false,false
+UA007021,09 Feb 20,2,Centenary Park,Aspendale,No. 2,Devon Le,Max Jaszewski,Max Jaszewski,0-6,0,6,0,1,Completed,true,false,false
+UA007021,09 Feb 20,2,Centenary Park,Aspendale,No. 3,Timothy Kamampuzha,James Kocsis,Timothy Kamampuzha,6-2,6,2,1,0,Completed,true,false,false
+UA007021,09 Feb 20,2,Centenary Park,Aspendale,No. 4,Thom Kamampuzha,Giles Elton,Giles Elton,6-7,6,7,0,1,Completed,true,false,false
+UA007022,09 Feb 20,2,Clarinda,GPHC,No. 1,Ashley Tsan,Yannick Dobson,Yannick Dobson,0-6,0,6,0,1,Completed,true,false,false
+UA007022,09 Feb 20,2,Clarinda,GPHC,No. 2,Brandon Tsan,Emily Retschko,Brandon Tsan,6-2,6,2,1,0,Completed,true,false,false
+UA007022,09 Feb 20,2,Clarinda,GPHC,No. 3,Arhaan Khan,Conor Boussioutas,Conor Boussioutas,4-6,4,6,0,1,Completed,true,false,false
+UA007022,09 Feb 20,2,Clarinda,GPHC,No. 4,Ellie Tsan,Sam Edney,Sam Edney,1-6,1,6,0,1,Completed,true,false,true
+UA007023,09 Feb 20,2,BLTC,Royal South Yarra,No. 1,Dean Nguyen,William McCrae,Dean Nguyen,6-2,6,2,1,0,Completed,true,false,false
+UA007023,09 Feb 20,2,BLTC,Royal South Yarra,No. 2,Davis Nguyen,Phoebe Andrews,Davis Nguyen,6-1,6,1,1,0,Completed,true,false,false
+UA007023,09 Feb 20,2,BLTC,Royal South Yarra,No. 3,Isabella Nicolis,Axy Park,Axy Park,4-6,4,6,0,1,Completed,true,false,false
+UA007023,09 Feb 20,2,BLTC,Royal South Yarra,No. 4,Finn Broadbent,Jack Tucker,Jack Tucker,4-6,4,6,0,1,Completed,true,true,true
+UA007024,09 Feb 20,2,Middle Brighton,Hurlingham Park,No. 1,Suzie Ma,Jack Mooney,Jack Mooney,0-6,0,6,0,1,Completed,true,false,false
+UA007024,09 Feb 20,2,Middle Brighton,Hurlingham Park,No. 2,Annika Widmann,Ben Newton,Ben Newton,0-6,0,6,0,1,Completed,true,false,false
+UA007024,09 Feb 20,2,Middle Brighton,Hurlingham Park,No. 3,Kristin Leung,Oscar Streeter,Oscar Streeter,0-6,0,6,0,1,Completed,true,false,false
+UA007024,09 Feb 20,2,Middle Brighton,Hurlingham Park,No. 4,Cammie Shannon,Zac Zaidenberg,Zac Zaidenberg,3-6,3,6,0,1,Completed,true,true,false
+UA007031,16 Feb 20,3,Aspendale,Middle Brighton,No. 1,Matthew Billing,Suzie Ma,Matthew Billing,6-1,6,1,1,0,Completed,true,false,false
+UA007031,16 Feb 20,3,Aspendale,Middle Brighton,No. 2,Max Jaszewski,Annika Widmann,Max Jaszewski,6-1,6,1,1,0,Completed,true,false,false
+UA007031,16 Feb 20,3,Aspendale,Middle Brighton,No. 3,Lucas Raffaut,Kristin Leung,Lucas Raffaut,6-2,6,2,1,0,Completed,true,false,false
+UA007031,16 Feb 20,3,Aspendale,Middle Brighton,No. 4,Giles Elton,Cammie Shannon,Cammie Shannon,3-6,3,6,0,1,Completed,true,false,true
+UA007032,16 Feb 20,3,GPHC,Centenary Park,No. 1,Joel Larkey,Max Raeburn,Max Raeburn,2-6,2,6,0,1,Completed,true,false,false
+UA007032,16 Feb 20,3,GPHC,Centenary Park,No. 2,Yannick Dobson,Jack Thompson,Yannick Dobson,6-0,6,0,1,0,Completed,true,false,false
+UA007032,16 Feb 20,3,GPHC,Centenary Park,No. 3,Emily Retschko,Timothy Kamampuzha,Timothy Kamampuzha,2-6,2,6,0,1,Completed,true,false,false
+UA007032,16 Feb 20,3,GPHC,Centenary Park,No. 4,Conor Boussioutas,Thom Kamampuzha,Conor Boussioutas,6-3,6,3,1,0,Completed,true,false,false
+UA007033,16 Feb 20,3,Royal South Yarra,Clarinda,No. 1,Phoebe Andrews,Ashley Tsan,Ashley Tsan,1-6,1,6,0,1,Completed,true,false,false
+UA007033,16 Feb 20,3,Royal South Yarra,Clarinda,No. 2,Johnny Asimenias,Brandon Tsan,Johnny Asimenias,6-0,6,0,1,0,Completed,true,false,false
+UA007033,16 Feb 20,3,Royal South Yarra,Clarinda,No. 3,Alexander Davis,Arhaan Khan,Arhaan Khan,0-6,0,6,0,1,Completed,true,false,false
+UA007033,16 Feb 20,3,Royal South Yarra,Clarinda,No. 4,Jack Tucker,Ellie Tsan,Jack Tucker,6-2,6,2,1,0,Completed,true,true,false
+UA007034,16 Feb 20,3,Hurlingham Park,BLTC,No. 1,Ben Newton,Dean Nguyen,Ben Newton,7-6,7,6,1,0,Completed,true,false,false
+UA007034,16 Feb 20,3,Hurlingham Park,BLTC,No. 2,Oscar Streeter,Davis Nguyen,Oscar Streeter,6-0,6,0,1,0,Completed,true,false,false
+UA007034,16 Feb 20,3,Hurlingham Park,BLTC,No. 3,Leo Wang,Yani Ryan,Leo Wang,6-0,6,0,1,0,Completed,true,false,false
+UA007034,16 Feb 20,3,Hurlingham Park,BLTC,No. 4,Zac Zaidenberg,Isabella Nicolis,Zac Zaidenberg,6-3,6,3,1,0,Completed,true,false,false
+UA007041,23 Feb 20,4,BLTC,Aspendale,No. 1,Dean Nguyen,Matthew Billing,Dean Nguyen,6-3,6,3,1,0,Completed,true,false,false
+UA007041,23 Feb 20,4,BLTC,Aspendale,No. 2,Davis Nguyen,Max Jaszewski,Davis Nguyen,6-1,6,1,1,0,Completed,true,false,false
+UA007041,23 Feb 20,4,BLTC,Aspendale,No. 3,Isabella Nicolis,Lucas Raffaut,Lucas Raffaut,4-6,4,6,0,1,Completed,true,false,false
+UA007041,23 Feb 20,4,BLTC,Aspendale,No. 4,Finn Broadbent,James Kocsis,Finn Broadbent,6-2,6,2,1,0,Completed,true,true,false
+UA007043,23 Feb 20,4,Centenary Park,Royal South Yarra,No. 1,Max Raeburn,Phoebe Andrews,Max Raeburn,6-2,6,2,1,0,Completed,true,false,false
+UA007043,23 Feb 20,4,Centenary Park,Royal South Yarra,No. 2,Devon Le,Katherine Soutter,Devon Le,6-4,6,4,1,0,Completed,true,false,false
+UA007043,23 Feb 20,4,Centenary Park,Royal South Yarra,No. 3,Timothy Kamampuzha,Alexander Davis,Alexander Davis,5-7,5,7,0,1,Completed,true,false,false
+UA007043,23 Feb 20,4,Centenary Park,Royal South Yarra,No. 4,Thom Kamampuzha,Axy Park,Axy Park,4-6,4,6,0,1,Completed,true,false,false
+UA007044,23 Feb 20,4,Clarinda,Hurlingham Park,No. 1,Ashley Tsan,Ben Newton,Ben Newton,4-6,4,6,0,1,Completed,true,false,false
+UA007044,23 Feb 20,4,Clarinda,Hurlingham Park,No. 2,Brandon Tsan,Jack Mooney,Jack Mooney,5-7,5,7,0,1,Completed,true,false,false
+UA007044,23 Feb 20,4,Clarinda,Hurlingham Park,No. 3,Arhaan Khan,Oscar Streeter,Oscar Streeter,0-6,0,6,0,1,Completed,true,false,false
+UA007044,23 Feb 20,4,Clarinda,Hurlingham Park,No. 4,Ellie Tsan,Leo Wang,Leo Wang,0-6,0,6,0,1,Completed,true,false,false
+UA007051,01 Mar 20,5,Royal South Yarra,Hurlingham Park,No. 1,Johnny Asimenias,Jack Mooney,Johnny Asimenias,7-6,7,6,1,0,Completed,true,false,false
+UA007051,01 Mar 20,5,Royal South Yarra,Hurlingham Park,No. 2,Katherine Soutter,Oscar Streeter,Oscar Streeter,0-6,0,6,0,1,Completed,true,false,false
+UA007051,01 Mar 20,5,Royal South Yarra,Hurlingham Park,No. 3,Alexander Davis,Leo Wang,Leo Wang,3-6,3,6,0,1,Completed,true,false,false
+UA007051,01 Mar 20,5,Royal South Yarra,Hurlingham Park,No. 4,Jack Tucker,Zac Zaidenberg,Zac Zaidenberg,2-6,2,6,0,1,Completed,true,true,false
+UA007052,01 Mar 20,5,Centenary Park,Middle Brighton,No. 1,Max Raeburn,Suzie Ma,Max Raeburn,6-2,6,2,1,0,Completed,true,false,false
+UA007052,01 Mar 20,5,Centenary Park,Middle Brighton,No. 2,Devon Le,Annika Widmann,Devon Le,6-2,6,2,1,0,Completed,true,false,false
+UA007052,01 Mar 20,5,Centenary Park,Middle Brighton,No. 3,Timothy Kamampuzha,Anusha Komala,Timothy Kamampuzha,6-0,6,0,1,0,Completed,true,false,true
+UA007052,01 Mar 20,5,Centenary Park,Middle Brighton,No. 4,Thom Kamampuzha,Piper Gibbs,Thom Kamampuzha,6-4,6,4,1,0,Completed,true,false,true
+UA007053,01 Mar 20,5,BLTC,Clarinda,No. 1,Dean Nguyen,Ashley Tsan,Dean Nguyen,6-1,6,1,1,0,Completed,true,false,false
+UA007053,01 Mar 20,5,BLTC,Clarinda,No. 2,Davis Nguyen,Brandon Tsan,Brandon Tsan,2-6,2,6,0,1,Completed,true,false,false
+UA007053,01 Mar 20,5,BLTC,Clarinda,No. 3,Yani Ryan,Zak Sevastas,Zak Sevastas,3-6,3,6,0,1,Completed,true,false,true
+UA007053,01 Mar 20,5,BLTC,Clarinda,No. 4,Finn Broadbent,Ellie Tsan,Ellie Tsan,3-6,3,6,0,1,Completed,true,true,false
+UA007054,01 Mar 20,5,Aspendale,GPHC,No. 1,Max Jaszewski,Joel Larkey,Joel Larkey,4-6,4,6,0,1,Completed,true,false,false
+UA007054,01 Mar 20,5,Aspendale,GPHC,No. 2,Lucas Raffaut,Mia Retschko,Lucas Raffaut,6-1,6,1,1,0,Completed,true,false,true
+UA007054,01 Mar 20,5,Aspendale,GPHC,No. 3,James Kocsis,Emily Retschko,Emily Retschko,4-6,4,6,0,1,Completed,true,false,false
+UA007054,01 Mar 20,5,Aspendale,GPHC,No. 4,Giles Elton,Conor Boussioutas,Conor Boussioutas,2-6,2,6,0,1,Completed,true,false,false

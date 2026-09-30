@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA23-UA003",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2018",
+  "season_id": "UA23",
+  "season_label": "Spring 2018",
+  "source_section_code": "UA003",
+  "section_label": "Section 3",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Bentleigh Rec",
+      "wins": 11,
+      "points": 114,
+      "percentage": 249.42,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Royal South Yarra",
+      "wins": 8,
+      "points": 85,
+      "percentage": 109.52,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Caulfield Rec",
+      "wins": 7,
+      "points": 72,
+      "percentage": 95.48,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kings Park",
+      "wins": 7,
+      "points": 71,
+      "percentage": 98.81,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Coatesville",
+      "wins": 6,
+      "points": 69,
+      "percentage": 103.8,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Le Page",
+      "wins": 3,
+      "points": 53,
+      "percentage": 83.81,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong",
+      "wins": 4,
+      "points": 51,
+      "percentage": 73.66,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave",
+      "wins": 2,
+      "points": 39,
+      "percentage": 67.1,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA23-UA003",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 45,
+  "singles_rubbers": 219,
+  "doubles_rubbers": 109,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA9-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2011",
+  "season_id": "UA9",
+  "season_label": "Spring 2011",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Coatesville",
+      "wins": 10,
+      "points": 110,
+      "percentage": 173.82,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Maccabi",
+      "wins": 8,
+      "points": 90,
+      "percentage": 129.1,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Kooyong",
+      "wins": 8,
+      "points": 87,
+      "percentage": 112.71,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 5,
+      "points": 66,
+      "percentage": 90.63,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 3,
+      "points": 62,
+      "percentage": 91.69,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave",
+      "wins": 4,
+      "points": 55,
+      "percentage": 85.33,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Carmelite",
+      "wins": 3,
+      "points": 46,
+      "percentage": 72.75,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Mordialloc",
+      "wins": 2,
+      "points": 44,
+      "percentage": 78.06,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA9-UA002",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 59,
+  "singles_rubbers": 202,
+  "doubles_rubbers": 100,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

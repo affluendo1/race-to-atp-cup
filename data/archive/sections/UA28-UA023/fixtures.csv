@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA023011,31 Jan 21,1,regular,Round 1,Kings Park,BLTC 1,1,9,1,5,,,15,31,Completed,
+UA023012,31 Jan 21,1,regular,Round 1,Parkdale,Coatesville 1,2,8,2,4,,,22,24,Completed,
+UA023014,31 Jan 21,1,regular,Round 1,Mentone,Lauriston,3,7,3,3,,,25,29,Completed,
+pending-ua023-r1-coatesville-2-bltc-2,31 Jan 21,1,regular,Round 1,Coatesville 2,BLTC 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA023021,07 Feb 21,2,regular,Round 2,Lauriston,Kings Park,8,2,4,2,,,33,23,Completed,
+UA023022,07 Feb 21,2,regular,Round 2,BLTC 1,Parkdale,8,2,4,2,,,29,18,Completed,
+UA023023,07 Feb 21,2,regular,Round 2,Coatesville 1,Coatesville 2,8,2,4,2,,,28,18,Completed,
+pending-ua023-r2-bltc-2-mentone,07 Feb 21,2,regular,Round 2,BLTC 2,Mentone,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua023-r3-coatesville-2-bltc-1,14 Feb 21,3,regular,Round 3,Coatesville 2,BLTC 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua023-r3-kings-park-bltc-2,14 Feb 21,3,regular,Round 3,Kings Park,BLTC 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua023-r3-mentone-coatesville-1,14 Feb 21,3,regular,Round 3,Mentone,Coatesville 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua023-r3-parkdale-lauriston,14 Feb 21,3,regular,Round 3,Parkdale,Lauriston,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA023041,21 Feb 21,4,regular,Round 4,Coatesville 1,Kings Park,7,3,3,3,,,29,25,Completed,
+UA023042,21 Feb 21,4,regular,Round 4,BLTC 2,Parkdale,7,3,3,3,,,31,29,Completed,
+UA023043,21 Feb 21,4,regular,Round 4,Lauriston,Coatesville 2,10,0,6,0,,,37,14,Completed,
+UA023044,21 Feb 21,4,regular,Round 4,BLTC 1,Mentone,8,2,4,2,,,32,25,Completed,
+UA023051,28 Feb 21,5,regular,Round 5,Coatesville 2,Mentone,0,10,0,6,,,9,36,Completed,
+UA023052,28 Feb 21,5,regular,Round 5,Lauriston,BLTC 2,9,1,5,1,,,32,16,Completed,
+UA023053,28 Feb 21,5,regular,Round 5,Coatesville 1,BLTC 1,8,2,4,2,,,34,28,Completed,
+UA023054,28 Feb 21,5,regular,Round 5,Kings Park,Parkdale,5,5,3,3,,,28,28,Completed,
+UA023061,14 Mar 21,6,regular,Round 6,Parkdale,Coatesville 2,9,1,5,1,,,32,11,Completed,
+UA023062,14 Mar 21,6,regular,Round 6,Mentone,Kings Park,3,7,3,3,,,25,30,Completed,
+UA023063,14 Mar 21,6,regular,Round 6,BLTC 2,Coatesville 1,3,7,3,3,,,20,22,Completed,
+UA023064,14 Mar 21,6,regular,Round 6,BLTC 1,Lauriston,3,7,3,3,,,30,31,Completed,
+UA023071,21 Mar 21,7,regular,Round 7,Kings Park,Coatesville 2,9,1,5,1,,,34,14,Completed,
+UA023073,21 Mar 21,7,regular,Round 7,Lauriston,Coatesville 1,10,0,6,0,,,37,17,Completed,
+UA023074,21 Mar 21,7,regular,Round 7,BLTC 2,BLTC 1,7,3,3,3,,,30,28,Completed,
+pending-ua023-r7-parkdale-mentone,21 Mar 21,7,regular,Round 7,Parkdale,Mentone,,,,,,,,,Forfeited To,No individual scorecard / no rubbers recorded
+UA023081,28 Mar 21,8,regular,Round 8,BLTC 1,Kings Park,8,2,4,2,,,26,23,Completed,
+UA023082,28 Mar 21,8,regular,Round 8,Coatesville 1,Parkdale,9,1,5,1,,,33,16,Completed,
+UA023083,28 Mar 21,8,regular,Round 8,BLTC 2,Coatesville 2,8,2,4,2,,,33,21,Completed,
+UA023084,28 Mar 21,8,regular,Round 8,Lauriston,Mentone,2,8,2,4,,,28,33,Completed,
+UA023091,02 May 21,9,regular,Round 9,Kings Park,Lauriston,3,7,3,3,,,24,31,Completed,
+UA023092,02 May 21,9,regular,Round 9,Parkdale,BLTC 1,0,10,0,6,,,17,37,Completed,
+UA023093,02 May 21,9,regular,Round 9,Coatesville 2,Coatesville 1,2,8,2,4,,,14,29,Completed,
+UA023094,02 May 21,9,regular,Round 9,Mentone,BLTC 2,8,2,4,2,,,29,21,Completed,
+UA023101,09 May 21,10,regular,Round 10,BLTC 2,Kings Park,8,2,4,2,,,28,23,Completed,
+UA023102,09 May 21,10,regular,Round 10,Lauriston,Parkdale,9,1,5,1,,,33,13,Completed,
+UA023103,09 May 21,10,regular,Round 10,BLTC 1,Coatesville 2,10,0,6,0,,,36,12,Completed,
+UA023104,09 May 21,10,regular,Round 10,Coatesville 1,Mentone,2,8,2,4,,,23,27,Completed,
+UA023111,16 May 21,11,regular,Round 11,Kings Park,Coatesville 1,2,8,2,4,,,16,28,Completed,
+UA023112,16 May 21,11,regular,Round 11,Parkdale,BLTC 2,0,10,0,6,,,16,37,Completed,
+UA023113,16 May 21,11,regular,Round 11,Coatesville 2,Lauriston,0,10,0,6,,,11,36,Completed,
+UA023114,16 May 21,11,regular,Round 11,Mentone,BLTC 1,2,8,2,4,,,17,30,Completed,
+UA023121,23 May 21,12,regular,Round 12,Mentone,Coatesville 2,9,1,5,1,,,33,11,Completed,
+UA023122,23 May 21,12,regular,Round 12,BLTC 2,Lauriston,0,10,0,6,,,12,36,Completed,
+UA023123,23 May 21,12,regular,Round 12,BLTC 1,Coatesville 1,8,2,4,2,,,31,20,Completed,
+UA023124,23 May 21,12,regular,Round 12,Parkdale,Kings Park,1,9,1,5,,,22,34,Completed,
+pending-ua023-r13-coatesville-1-bltc-2,30 May 21,13,regular,Round 13,Coatesville 1,BLTC 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua023-r13-coatesville-2-parkdale,30 May 21,13,regular,Round 13,Coatesville 2,Parkdale,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua023-r13-kings-park-mentone,30 May 21,13,regular,Round 13,Kings Park,Mentone,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua023-r13-lauriston-bltc-1,30 May 21,13,regular,Round 13,Lauriston,BLTC 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA023301,,16,semi_final,Semi-final,Lauriston,Coatesville 1,7,3,3,3,,,29,26,Completed,
+UA023302,,16,semi_final,Semi-final,BLTC 1,Mentone,8,2,4,2,,,28,23,Completed,
+UA023321,,17,grand_final,Grand final · TROLS entry 2,Lauriston,BLTC 1,3,7,3,3,,,29,30,Completed,

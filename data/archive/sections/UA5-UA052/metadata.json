@@ -1,0 +1,94 @@
+{
+  "asset_id": "UA5-UA052",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2009",
+  "season_id": "UA5",
+  "season_label": "Spring 2009",
+  "source_section_code": "UA052",
+  "section_label": "15",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Lauriston",
+      "wins": 0,
+      "points": 115,
+      "percentage": 212.76,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 104.5,
+      "percentage": 143.77,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Hurlingham Park",
+      "wins": 0,
+      "points": 87,
+      "percentage": 129.35,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Glen Eira Brook",
+      "wins": 0,
+      "points": 66.5,
+      "percentage": 92.86,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 64.5,
+      "percentage": 90.31,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Victory Park",
+      "wins": 0,
+      "points": 61.5,
+      "percentage": 96.39,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC MLC",
+      "wins": 0,
+      "points": 35,
+      "percentage": 59.29,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Glen Eira Beech",
+      "wins": 0,
+      "points": 26,
+      "percentage": 54.59,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA5-UA052",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 3,
+  "singles_rubbers": 228,
+  "doubles_rubbers": 112,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA052042",
+    "Fixture rubber totals do not match rubbers for UA052051"
+  ]
+}

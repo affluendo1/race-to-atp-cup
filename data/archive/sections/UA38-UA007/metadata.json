@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA38-UA007",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2026",
+  "season_id": "UA38",
+  "season_label": "Autumn 2026",
+  "source_section_code": "UA007",
+  "section_label": "Sets 4",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Murrumbeena",
+      "wins": 12,
+      "points": 115,
+      "percentage": 177.53,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Black Rock",
+      "wins": 8,
+      "points": 88,
+      "percentage": 131.14,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Coatesville",
+      "wins": 8,
+      "points": 83,
+      "percentage": 120.68,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Hurlingham Park",
+      "wins": 6,
+      "points": 78,
+      "percentage": 110.58,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Tennis World",
+      "wins": 7,
+      "points": 78,
+      "percentage": 106.67,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Victory Park",
+      "wins": 4,
+      "points": 56,
+      "percentage": 86.79,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC",
+      "wins": 3,
+      "points": 37,
+      "percentage": 65.74,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Elsternwick Park",
+      "wins": 0,
+      "points": 25,
+      "percentage": 50.12,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA38-UA007",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 200,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

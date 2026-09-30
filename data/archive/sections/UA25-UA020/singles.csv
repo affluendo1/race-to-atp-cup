@@ -1,0 +1,217 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA020011,21 Jul 19,1,Dendy Park,BLTC,No. 1,Sebastian Maddams,Zoe Livermore,Sebastian Maddams,7-6,7,6,1,0,Completed,true,false,false
+UA020011,21 Jul 19,1,Dendy Park,BLTC,No. 2,Toby Hansen,Amy Livermore,Toby Hansen,6-0,6,0,1,0,Completed,true,false,false
+UA020011,21 Jul 19,1,Dendy Park,BLTC,No. 3,Campbell Holtham,Andrew Livermore,Campbell Holtham,6-2,6,2,1,0,Completed,true,false,false
+UA020011,21 Jul 19,1,Dendy Park,BLTC,No. 4,Max Moscati,Justin Le,Justin Le,2-6,2,6,0,1,Completed,true,false,false
+UA020012,21 Jul 19,1,Mentone,Victory Park,No. 1,Lee Moore,Kavin Chandran,Lee Moore,6-2,6,2,1,0,Completed,true,false,false
+UA020012,21 Jul 19,1,Mentone,Victory Park,No. 2,Ruby Bowman,William Chu,Ruby Bowman,6-2,6,2,1,0,Completed,true,false,false
+UA020012,21 Jul 19,1,Mentone,Victory Park,No. 3,Zach Granell,Adrian Guo,Zach Granell,6-0,6,0,1,0,Completed,true,false,false
+UA020012,21 Jul 19,1,Mentone,Victory Park,No. 4,Amira Bird,Cooper Neal,Amira Bird,6-1,6,1,1,0,Completed,true,false,false
+UA020013,21 Jul 19,1,Centenary Park,Coatesville,No. 1,Timothy Babu,Alexander Carter,Timothy Babu,6-1,6,1,1,0,Completed,true,false,false
+UA020013,21 Jul 19,1,Centenary Park,Coatesville,No. 2,Thom Babu,Charlie Fishman,Charlie Fishman,0-6,0,6,0,1,Completed,true,false,false
+UA020013,21 Jul 19,1,Centenary Park,Coatesville,No. 3,Mieka Gordon,Georgi Demonthenous,Mieka Gordon,6-0,6,0,1,0,Completed,true,false,false
+UA020013,21 Jul 19,1,Centenary Park,Coatesville,No. 4,Elle Gordon,Joseph Zoghbi,Elle Gordon,6-1,6,1,1,0,Completed,true,false,false
+UA020014,21 Jul 19,1,Maccabi,Glen Eira,No. 1,Gabi Segal,Giddy Datt,Giddy Datt,4-6,4,6,0,1,Completed,true,false,false
+UA020014,21 Jul 19,1,Maccabi,Glen Eira,No. 2,Ethan Cohen,Benji Cohen,Ethan Cohen,6-2,6,2,1,0,Completed,true,false,false
+UA020014,21 Jul 19,1,Maccabi,Glen Eira,No. 3,Jonah Stowe-Lindner,Camille Demathieu,Camille Demathieu,2-6,2,6,0,1,Completed,true,false,false
+UA020014,21 Jul 19,1,Maccabi,Glen Eira,No. 4,Liron Errez,Ayaka Marutani,Ayaka Marutani,0-6,0,6,0,1,Completed,true,false,false
+UA020021,28 Jul 19,2,Glen Eira,Dendy Park,No. 1,Giddy Datt,Franzi Rehse,Giddy Datt,6-4,6,4,1,0,Completed,true,false,false
+UA020021,28 Jul 19,2,Glen Eira,Dendy Park,No. 2,Benji Cohen,Hendrix Rehze,Benji Cohen,6-1,6,1,1,0,Completed,true,false,false
+UA020021,28 Jul 19,2,Glen Eira,Dendy Park,No. 3,Camille Demathieu,Sebastian Maddams,Sebastian Maddams,5-7,5,7,0,1,Completed,true,false,false
+UA020021,28 Jul 19,2,Glen Eira,Dendy Park,No. 4,Ayaka Marutani,Toby Hansen,Ayaka Marutani,6-1,6,1,1,0,Completed,true,false,false
+UA020022,28 Jul 19,2,BLTC,Mentone,No. 1,Mathieson Meakins,Lee Moore,Mathieson Meakins,7-6,7,6,1,0,Completed,true,false,false
+UA020022,28 Jul 19,2,BLTC,Mentone,No. 2,Zoe Livermore,Ruby Bowman,Zoe Livermore,6-0,6,0,1,0,Completed,true,false,false
+UA020022,28 Jul 19,2,BLTC,Mentone,No. 3,Amy Livermore,Atahan Yildiz,Amy Livermore,6-0,6,0,1,0,Completed,true,false,false
+UA020022,28 Jul 19,2,BLTC,Mentone,No. 4,Andrew Livermore,Zach Granell,Andrew Livermore,6-1,6,1,1,0,Completed,true,false,false
+UA020023,28 Jul 19,2,Victory Park,Centenary Park,No. 1,Aakarsh Nayak,Timothy Babu,Timothy Babu,2-6,2,6,0,1,Completed,true,false,false
+UA020023,28 Jul 19,2,Victory Park,Centenary Park,No. 2,Kavin Chandran,Thom Babu,Thom Babu,2-6,2,6,0,1,Completed,true,false,false
+UA020023,28 Jul 19,2,Victory Park,Centenary Park,No. 3,William Chu,Sienna Le,Sienna Le,2-6,2,6,0,1,Completed,true,false,false
+UA020023,28 Jul 19,2,Victory Park,Centenary Park,No. 4,Adrian Guo,Caitlyn Vinton,Adrian Guo,6-3,6,3,1,0,Completed,true,false,false
+UA020024,28 Jul 19,2,Coatesville,Maccabi,No. 1,Landon Willis,Ethan Cohen,Ethan Cohen,2-6,2,6,0,1,Completed,true,false,false
+UA020024,28 Jul 19,2,Coatesville,Maccabi,No. 2,Charlie Fishman,Mark Rainey,Mark Rainey,0-6,0,6,0,1,Completed,true,false,false
+UA020024,28 Jul 19,2,Coatesville,Maccabi,No. 3,Georgi Demonthenous,Jonah Stowe-Lindner,Jonah Stowe-Lindner,0-6,0,6,0,1,Completed,true,false,false
+UA020024,28 Jul 19,2,Coatesville,Maccabi,No. 4,Leon Liacopoulas,Liron Errez,Leon Liacopoulas,6-3,6,3,1,0,Completed,true,false,false
+UA020031,04 Aug 19,3,Dendy Park,Coatesville,No. 1,Franzi Rehse,Alexander Carter,Franzi Rehse,6-2,6,2,1,0,Completed,true,false,false
+UA020031,04 Aug 19,3,Dendy Park,Coatesville,No. 2,Hendrix Rehze,Landon Willis,Landon Willis,0-6,0,6,0,1,Completed,true,false,false
+UA020031,04 Aug 19,3,Dendy Park,Coatesville,No. 3,Sebastian Maddams,Leon Liacopoulas,Sebastian Maddams,6-0,6,0,1,0,Completed,true,false,false
+UA020031,04 Aug 19,3,Dendy Park,Coatesville,No. 4,Toby Hansen,Joseph Zoghbi,Toby Hansen,6-2,6,2,1,0,Completed,true,false,false
+UA020032,04 Aug 19,3,Mentone,Glen Eira,No. 1,Lee Moore,Giddy Datt,Giddy Datt,3-6,3,6,0,1,Completed,true,false,false
+UA020032,04 Aug 19,3,Mentone,Glen Eira,No. 2,Linny Cutts,Benji Cohen,Benji Cohen,2-6,2,6,0,1,Completed,true,false,false
+UA020032,04 Aug 19,3,Mentone,Glen Eira,No. 3,Amira Bird,Camille Demathieu,Camille Demathieu,2-6,2,6,0,1,Completed,true,false,false
+UA020032,04 Aug 19,3,Mentone,Glen Eira,No. 4,Atahan Yildiz,Ayaka Marutani,Ayaka Marutani,0-6,0,6,0,1,Completed,true,false,false
+UA020033,04 Aug 19,3,Centenary Park,BLTC,No. 1,Timothy Babu,Mathieson Meakins,Timothy Babu,6-1,6,1,1,0,Completed,true,false,false
+UA020033,04 Aug 19,3,Centenary Park,BLTC,No. 2,Thom Babu,Zoe Livermore,Zoe Livermore,4-6,4,6,0,1,Completed,true,false,false
+UA020033,04 Aug 19,3,Centenary Park,BLTC,No. 3,Sienna Le,Amy Livermore,Amy Livermore,2-6,2,6,0,1,Completed,true,false,false
+UA020033,04 Aug 19,3,Centenary Park,BLTC,No. 4,Caitlyn Vinton,Justin Le,Justin Le,0-6,0,6,0,1,Completed,true,false,false
+UA020051,18 Aug 19,5,Centenary Park,Maccabi,No. 1,Timothy Babu,Ethan Cohen,Ethan Cohen,4-6,4,6,0,1,Completed,true,false,false
+UA020051,18 Aug 19,5,Centenary Park,Maccabi,No. 2,Thom Babu,Gabi Segal,Gabi Segal,3-6,3,6,0,1,Completed,true,false,false
+UA020051,18 Aug 19,5,Centenary Park,Maccabi,No. 3,Mieka Gordon,Mark Rainey,Mieka Gordon,6-0,6,0,1,0,Completed,true,false,false
+UA020051,18 Aug 19,5,Centenary Park,Maccabi,No. 4,Elle Gordon,Liron Errez,Elle Gordon,6-2,6,2,1,0,Completed,true,false,false
+UA020052,18 Aug 19,5,Glen Eira,Coatesville,No. 1,Giddy Datt,Alexander Carter,Giddy Datt,6-1,6,1,1,0,Completed,true,false,false
+UA020052,18 Aug 19,5,Glen Eira,Coatesville,No. 2,Benji Cohen,Landon Willis,Benji Cohen,6-3,6,3,1,0,Completed,true,false,false
+UA020052,18 Aug 19,5,Glen Eira,Coatesville,No. 3,Camille Demathieu,Joseph Zoghbi,Camille Demathieu,6-0,6,0,1,0,Completed,true,false,false
+UA020052,18 Aug 19,5,Glen Eira,Coatesville,No. 4,Ayaka Marutani,Leon Liacopoulas,Ayaka Marutani,6-0,6,0,1,0,Completed,true,false,false
+UA020053,18 Aug 19,5,Victory Park,BLTC,No. 1,Aakarsh Nayak,Zoe Livermore,Zoe Livermore,0-6,0,6,0,1,Completed,true,false,false
+UA020053,18 Aug 19,5,Victory Park,BLTC,No. 2,William Chu,Mathieson Meakins,Mathieson Meakins,2-6,2,6,0,1,Completed,true,false,false
+UA020053,18 Aug 19,5,Victory Park,BLTC,No. 3,Jerry Lu,Justin Le,Justin Le,1-6,1,6,0,1,Completed,true,false,false
+UA020053,18 Aug 19,5,Victory Park,BLTC,No. 4,Adrian Guo,Andrew Livermore,Andrew Livermore,0-6,0,6,0,1,Completed,true,false,false
+UA020054,18 Aug 19,5,Dendy Park,Mentone,No. 1,Franzi Rehse,Lee Moore,Franzi Rehse,6-4,6,4,1,0,Completed,true,false,false
+UA020054,18 Aug 19,5,Dendy Park,Mentone,No. 2,Hendrix Rehze,Linny Cutts,Linny Cutts,1-6,1,6,0,1,Completed,true,false,false
+UA020054,18 Aug 19,5,Dendy Park,Mentone,No. 3,Sebastian Maddams,Ruby Bowman,Sebastian Maddams,6-0,6,0,1,0,Completed,true,false,false
+UA020054,18 Aug 19,5,Dendy Park,Mentone,No. 4,Toby Hansen,Atahan Yildiz,Atahan Yildiz,6-7,6,7,0,1,Completed,true,false,false
+UA020061,25 Aug 19,6,Mentone,Centenary Park,No. 1,Linny Cutts,Thom Babu,Thom Babu,1-6,1,6,0,1,Completed,true,false,false
+UA020061,25 Aug 19,6,Mentone,Centenary Park,No. 2,Atahan Yildiz,Sienna Le,Sienna Le,2-6,2,6,0,1,Completed,true,false,false
+UA020061,25 Aug 19,6,Mentone,Centenary Park,No. 3,Zach Granell,Mieka Gordon,Mieka Gordon,0-6,0,6,0,1,Completed,true,false,false
+UA020061,25 Aug 19,6,Mentone,Centenary Park,No. 4,Amira Bird,Caitlyn Vinton,Amira Bird,6-0,6,0,1,0,Completed,true,false,false
+UA020062,25 Aug 19,6,Maccabi,Dendy Park,No. 1,Ethan Cohen,Sebastian Maddams,Sebastian Maddams,4-6,4,6,0,1,Completed,true,false,false
+UA020062,25 Aug 19,6,Maccabi,Dendy Park,No. 2,Gabi Segal,Toby Hansen,Gabi Segal,6-2,6,2,1,0,Completed,true,false,false
+UA020062,25 Aug 19,6,Maccabi,Dendy Park,No. 3,Mark Rainey,Campbell Holtham,Campbell Holtham,4-6,4,6,0,1,Completed,true,false,false
+UA020062,25 Aug 19,6,Maccabi,Dendy Park,No. 4,Jonah Stowe-Lindner,Kelly Allen,Kelly Allen,1-6,1,6,0,1,Completed,true,false,false
+UA020063,25 Aug 19,6,Coatesville,Victory Park,No. 1,Landon Willis,Kavin Chandran,Landon Willis,6-1,6,1,1,0,Completed,true,false,false
+UA020063,25 Aug 19,6,Coatesville,Victory Park,No. 2,Charlie Fishman,Cassidy Richards,Charlie Fishman,6-2,6,2,1,0,Completed,true,false,false
+UA020063,25 Aug 19,6,Coatesville,Victory Park,No. 3,Georgi Demonthenous,William Chu,William Chu,1-6,1,6,0,1,Completed,true,false,false
+UA020063,25 Aug 19,6,Coatesville,Victory Park,No. 4,Leon Liacopoulas,Adrian Guo,Leon Liacopoulas,6-0,6,0,1,0,Completed,true,false,false
+UA020064,25 Aug 19,6,BLTC,Glen Eira,No. 1,Zoe Livermore,Giddy Datt,Giddy Datt,6-7,6,7,0,1,Completed,true,false,false
+UA020064,25 Aug 19,6,BLTC,Glen Eira,No. 2,Amy Livermore,Benji Cohen,Benji Cohen,1-6,1,6,0,1,Completed,true,false,false
+UA020064,25 Aug 19,6,BLTC,Glen Eira,No. 3,Mathieson Meakins,Camille Demathieu,Camille Demathieu,5-7,5,7,0,1,Completed,true,false,false
+UA020064,25 Aug 19,6,BLTC,Glen Eira,No. 4,Andrew Livermore,Ayaka Marutani,Ayaka Marutani,6-7,6,7,0,1,Completed,true,false,false
+UA020071,01 Sep 19,7,Dendy Park,Centenary Park,No. 1,Franzi Rehse,Timothy Babu,Timothy Babu,2-6,2,6,0,1,Completed,true,false,false
+UA020071,01 Sep 19,7,Dendy Park,Centenary Park,No. 2,Toby Hansen,Sienna Le,Sienna Le,0-6,0,6,0,1,Completed,true,false,false
+UA020071,01 Sep 19,7,Dendy Park,Centenary Park,No. 3,Hendrix Rehze,Mieka Gordon,Mieka Gordon,3-6,3,6,0,1,Completed,true,false,false
+UA020071,01 Sep 19,7,Dendy Park,Centenary Park,No. 4,Philip Edselius,Caitlyn Vinton,Philip Edselius,6-1,6,1,1,0,Completed,true,false,false
+UA020072,01 Sep 19,7,Mentone,Maccabi,No. 1,Lee Moore,Ethan Cohen,Ethan Cohen,1-6,1,6,0,1,Completed,true,false,false
+UA020072,01 Sep 19,7,Mentone,Maccabi,No. 2,Linny Cutts,Gabi Segal,Gabi Segal,2-6,2,6,0,1,Completed,true,false,false
+UA020072,01 Sep 19,7,Mentone,Maccabi,No. 3,Ruby Bowman,Jonah Stowe-Lindner,Ruby Bowman,6-4,6,4,1,0,Completed,true,false,false
+UA020072,01 Sep 19,7,Mentone,Maccabi,No. 4,Atahan Yildiz,Liron Errez,Atahan Yildiz,6-3,6,3,1,0,Completed,true,false,false
+UA020073,01 Sep 19,7,Glen Eira,Victory Park,No. 1,Benji Cohen,Aakarsh Nayak,Benji Cohen,6-1,6,1,1,0,Completed,true,false,false
+UA020073,01 Sep 19,7,Glen Eira,Victory Park,No. 2,Camille Demathieu,Cassidy Richards,Camille Demathieu,6-1,6,1,1,0,Completed,true,false,false
+UA020073,01 Sep 19,7,Glen Eira,Victory Park,No. 3,Ayaka Marutani,Jerry Lu,Ayaka Marutani,6-3,6,3,1,0,Completed,true,false,false
+UA020073,01 Sep 19,7,Glen Eira,Victory Park,No. 4,Toby Shmuel,Adrian Guo,Toby Shmuel,6-0,6,0,1,0,Completed,true,false,false
+UA020074,01 Sep 19,7,Coatesville,BLTC,No. 1,Alexander Carter,Zoe Livermore,Zoe Livermore,0-6,0,6,0,1,Completed,true,false,false
+UA020074,01 Sep 19,7,Coatesville,BLTC,No. 2,Charlie Fishman,Amy Livermore,Amy Livermore,1-6,1,6,0,1,Completed,true,false,false
+UA020074,01 Sep 19,7,Coatesville,BLTC,No. 3,Georgi Demonthenous,Mathieson Meakins,Mathieson Meakins,0-6,0,6,0,1,Completed,true,false,false
+UA020074,01 Sep 19,7,Coatesville,BLTC,No. 4,Joseph Zoghbi,Justin Le,Justin Le,0-6,0,6,0,1,Completed,true,false,false
+UA020081,08 Sep 19,8,BLTC,Dendy Park,No. 1,Zoe Livermore,Sebastian Maddams,Zoe Livermore,6-2,6,2,1,0,Completed,true,false,false
+UA020081,08 Sep 19,8,BLTC,Dendy Park,No. 2,Amy Livermore,Toby Hansen,Amy Livermore,6-0,6,0,1,0,Completed,true,false,false
+UA020081,08 Sep 19,8,BLTC,Dendy Park,No. 3,Justin Le,Hendrix Rehze,Justin Le,6-2,6,2,1,0,Completed,true,false,false
+UA020081,08 Sep 19,8,BLTC,Dendy Park,No. 4,Andrew Livermore,Charlie Ryan,Andrew Livermore,6-4,6,4,1,0,Completed,true,false,false
+UA020082,08 Sep 19,8,Victory Park,Mentone,No. 1,Aakarsh Nayak,Lee Moore,Lee Moore,0-6,0,6,0,1,Completed,true,false,false
+UA020082,08 Sep 19,8,Victory Park,Mentone,No. 2,Cassidy Richards,Linny Cutts,Linny Cutts,2-6,2,6,0,1,Completed,true,false,false
+UA020082,08 Sep 19,8,Victory Park,Mentone,No. 3,William Chu,Zach Granell,William Chu,6-0,6,0,1,0,Completed,true,false,false
+UA020082,08 Sep 19,8,Victory Park,Mentone,No. 4,Adrian Guo,Amira Bird,Amira Bird,1-6,1,6,0,1,Completed,true,false,false
+UA020083,08 Sep 19,8,Coatesville,Centenary Park,No. 1,Landon Willis,Thom Babu,Thom Babu,4-6,4,6,0,1,Completed,true,false,false
+UA020083,08 Sep 19,8,Coatesville,Centenary Park,No. 2,Charlie Fishman,Sienna Le,Sienna Le,1-6,1,6,0,1,Completed,true,false,false
+UA020083,08 Sep 19,8,Coatesville,Centenary Park,No. 3,Georgi Demonthenous,Mieka Gordon,Mieka Gordon,0-6,0,6,0,1,Completed,true,false,false
+UA020083,08 Sep 19,8,Coatesville,Centenary Park,No. 4,Leon Liacopoulas,Caitlyn Vinton,Leon Liacopoulas,6-0,6,0,1,0,Completed,true,false,false
+UA020084,08 Sep 19,8,Glen Eira,Maccabi,No. 1,Giddy Datt,Ethan Cohen,Giddy Datt,6-1,6,1,1,0,Completed,true,false,false
+UA020084,08 Sep 19,8,Glen Eira,Maccabi,No. 2,Benji Cohen,Gabi Segal,Gabi Segal,4-6,4,6,0,1,Completed,true,false,false
+UA020084,08 Sep 19,8,Glen Eira,Maccabi,No. 3,Camille Demathieu,Jonah Stowe-Lindner,Camille Demathieu,6-1,6,1,1,0,Completed,true,false,false
+UA020084,08 Sep 19,8,Glen Eira,Maccabi,No. 4,Ayaka Marutani,Ian Altman,Ian Altman,6-7,6,7,0,1,Completed,true,false,false
+UA020091,15 Sep 19,9,Dendy Park,Glen Eira,No. 1,Franzi Rehse,Giddy Datt,Giddy Datt,2-6,2,6,0,1,Completed,true,false,false
+UA020091,15 Sep 19,9,Dendy Park,Glen Eira,No. 2,Ingrid Marder,Benji Cohen,Benji Cohen,0-6,0,6,0,1,Completed,true,false,false
+UA020091,15 Sep 19,9,Dendy Park,Glen Eira,No. 3,Joanna Edselius,Camille Demathieu,Camille Demathieu,2-6,2,6,0,1,Completed,true,false,false
+UA020091,15 Sep 19,9,Dendy Park,Glen Eira,No. 4,Hendrix Rehze,Ayaka Marutani,Ayaka Marutani,1-6,1,6,0,1,Completed,true,false,false
+UA020092,15 Sep 19,9,Mentone,BLTC,No. 1,Ruby Bowman,Zoe Livermore,Zoe Livermore,0-6,0,6,0,1,Completed,true,false,false
+UA020092,15 Sep 19,9,Mentone,BLTC,No. 2,Atahan Yildiz,Amy Livermore,Amy Livermore,1-6,1,6,0,1,Completed,true,false,false
+UA020092,15 Sep 19,9,Mentone,BLTC,No. 3,Zach Granell,Justin Le,Justin Le,1-6,1,6,0,1,Completed,true,false,false
+UA020092,15 Sep 19,9,Mentone,BLTC,No. 4,Amira Bird,Andrew Livermore,Amira Bird,6-4,6,4,1,0,Completed,true,false,false
+UA020093,15 Sep 19,9,Centenary Park,Victory Park,No. 1,Sienna Le,Aakarsh Nayak,Sienna Le,6-2,6,2,1,0,Completed,true,false,false
+UA020093,15 Sep 19,9,Centenary Park,Victory Park,No. 2,Mieka Gordon,Kavin Chandran,Mieka Gordon,6-1,6,1,1,0,Completed,true,false,false
+UA020093,15 Sep 19,9,Centenary Park,Victory Park,No. 3,Caitlyn Vinton,Cassidy Richards,Cassidy Richards,1-6,1,6,0,1,Completed,true,false,false
+UA020093,15 Sep 19,9,Centenary Park,Victory Park,No. 4,Sasha Minin,Jerry Lu,Sasha Minin,6-2,6,2,1,0,Completed,true,false,false
+UA020094,15 Sep 19,9,Maccabi,Coatesville,No. 1,Ethan Cohen,Alexander Carter,Ethan Cohen,6-2,6,2,1,0,Completed,true,false,false
+UA020094,15 Sep 19,9,Maccabi,Coatesville,No. 2,Gabi Segal,Landon Willis,Gabi Segal,7-5,7,5,1,0,Completed,true,false,false
+UA020094,15 Sep 19,9,Maccabi,Coatesville,No. 3,Jonah Stowe-Lindner,Leon Liacopoulas,Leon Liacopoulas,5-7,5,7,0,1,Completed,true,false,false
+UA020094,15 Sep 19,9,Maccabi,Coatesville,No. 4,Liron Errez,Joseph Zoghbi,Liron Errez,6-0,6,0,1,0,Completed,true,false,false
+UA020101,13 Oct 19,10,Coatesville,Dendy Park,No. 1,Alexander Carter,Sebastian Maddams,Sebastian Maddams,3-6,3,6,0,1,Completed,true,false,false
+UA020101,13 Oct 19,10,Coatesville,Dendy Park,No. 2,Charlie Fishman,Joanna Edselius,Charlie Fishman,6-0,6,0,1,0,Completed,true,false,false
+UA020101,13 Oct 19,10,Coatesville,Dendy Park,No. 3,Georgi Demonthenous,Toby Hansen,Toby Hansen,0-6,0,6,0,1,Completed,true,false,false
+UA020101,13 Oct 19,10,Coatesville,Dendy Park,No. 4,Joseph Zoghbi,Campbell Holtham,Campbell Holtham,0-6,0,6,0,1,Completed,true,false,false
+UA020102,13 Oct 19,10,Glen Eira,Mentone,No. 1,Giddy Datt,Linny Cutts,Giddy Datt,7-5,7,5,1,0,Completed,true,false,false
+UA020102,13 Oct 19,10,Glen Eira,Mentone,No. 2,Benji Cohen,Atahan Yildiz,Benji Cohen,6-0,6,0,1,0,Completed,true,false,false
+UA020102,13 Oct 19,10,Glen Eira,Mentone,No. 3,Camille Demathieu,Zach Granell,Camille Demathieu,6-1,6,1,1,0,Completed,true,false,false
+UA020102,13 Oct 19,10,Glen Eira,Mentone,No. 4,Dahlia Cohen,Amira Bird,Amira Bird,6-7,6,7,0,1,Completed,true,false,false
+UA020103,13 Oct 19,10,BLTC,Centenary Park,No. 1,Zoe Livermore,Sienna Le,Zoe Livermore,6-3,6,3,1,0,Completed,true,false,false
+UA020103,13 Oct 19,10,BLTC,Centenary Park,No. 2,Amy Livermore,Mieka Gordon,Amy Livermore,6-2,6,2,1,0,Completed,true,false,false
+UA020103,13 Oct 19,10,BLTC,Centenary Park,No. 3,Justin Le,Sasha Minin,Justin Le,6-0,6,0,1,0,Completed,true,false,false
+UA020103,13 Oct 19,10,BLTC,Centenary Park,No. 4,Andrew Livermore,Daria Kovnereva,Andrew Livermore,6-0,6,0,1,0,Completed,true,false,false
+UA020104,13 Oct 19,10,Victory Park,Maccabi,No. 1,Aakarsh Nayak,Ethan Cohen,Ethan Cohen,2-6,2,6,0,1,Completed,true,false,false
+UA020104,13 Oct 19,10,Victory Park,Maccabi,No. 2,Kavin Chandran,Gabi Segal,Gabi Segal,1-6,1,6,0,1,Completed,true,false,false
+UA020104,13 Oct 19,10,Victory Park,Maccabi,No. 3,Cassidy Richards,Jonah Stowe-Lindner,Jonah Stowe-Lindner,1-6,1,6,0,1,Completed,true,false,false
+UA020104,13 Oct 19,10,Victory Park,Maccabi,No. 4,Adrian Guo,Liron Errez,Liron Errez,2-6,2,6,0,1,Completed,true,false,false
+UA020111,20 Oct 19,11,Dendy Park,Victory Park,No. 1,Franzi Rehse,Cassidy Richards,Franzi Rehse,6-1,6,1,1,0,Completed,true,false,false
+UA020111,20 Oct 19,11,Dendy Park,Victory Park,No. 2,Ingrid Marder,William Chu,William Chu,4-6,4,6,0,1,Completed,true,false,false
+UA020111,20 Oct 19,11,Dendy Park,Victory Park,No. 3,Campbell Holtham,Jerry Lu,Campbell Holtham,6-1,6,1,1,0,Completed,true,false,false
+UA020111,20 Oct 19,11,Dendy Park,Victory Park,No. 4,Hendrix Rehze,Adrian Guo,Adrian Guo,4-6,4,6,0,1,Completed,true,false,false
+UA020112,20 Oct 19,11,Mentone,Coatesville,No. 1,Lee Moore,Landon Willis,Lee Moore,6-1,6,1,1,0,Completed,true,false,false
+UA020112,20 Oct 19,11,Mentone,Coatesville,No. 2,Linny Cutts,Charlie Fishman,Linny Cutts,6-2,6,2,1,0,Completed,true,false,false
+UA020112,20 Oct 19,11,Mentone,Coatesville,No. 3,Ruby Bowman,Georgi Demonthenous,Ruby Bowman,6-2,6,2,1,0,Completed,true,false,false
+UA020112,20 Oct 19,11,Mentone,Coatesville,No. 4,Logan Baumgartner,Leon Liacopoulas,Logan Baumgartner,6-2,6,2,1,0,Completed,true,false,false
+UA020113,20 Oct 19,11,Centenary Park,Glen Eira,No. 1,Thom Babu,Benji Cohen,Benji Cohen,3-6,3,6,0,1,Completed,true,false,false
+UA020113,20 Oct 19,11,Centenary Park,Glen Eira,No. 2,Sienna Le,Camille Demathieu,Sienna Le,7-6,7,6,1,0,Completed,true,false,false
+UA020113,20 Oct 19,11,Centenary Park,Glen Eira,No. 3,Mieka Gordon,Ayaka Marutani,Mieka Gordon,6-4,6,4,1,0,Completed,true,false,false
+UA020113,20 Oct 19,11,Centenary Park,Glen Eira,No. 4,Elle Gordon,Dahlia Cohen,Elle Gordon,6-4,6,4,1,0,Completed,true,false,false
+UA020114,20 Oct 19,11,Maccabi,BLTC,No. 1,Ethan Cohen,Amy Livermore,Amy Livermore,5-7,5,7,0,1,Completed,true,false,false
+UA020114,20 Oct 19,11,Maccabi,BLTC,No. 2,Gabi Segal,Mathieson Meakins,Gabi Segal,6-0,6,0,1,0,Completed,true,false,false
+UA020114,20 Oct 19,11,Maccabi,BLTC,No. 3,Jonah Stowe-Lindner,Justin Le,Justin Le,4-6,4,6,0,1,Completed,true,false,false
+UA020114,20 Oct 19,11,Maccabi,BLTC,No. 4,Liron Errez,Andrew Livermore,Andrew Livermore,4-6,4,6,0,1,Completed,true,false,false
+UA020121,27 Oct 19,12,Maccabi,Centenary Park,No. 1,Ethan Cohen,Timothy Babu,Timothy Babu,1-6,1,6,0,1,Completed,true,false,false
+UA020121,27 Oct 19,12,Maccabi,Centenary Park,No. 2,Gabi Segal,Sienna Le,Sienna Le,3-6,3,6,0,1,Completed,true,false,false
+UA020121,27 Oct 19,12,Maccabi,Centenary Park,No. 3,Jonah Stowe-Lindner,Elle Gordon,Jonah Stowe-Lindner,6-2,6,2,1,0,Completed,true,false,false
+UA020121,27 Oct 19,12,Maccabi,Centenary Park,No. 4,Liron Errez,Caitlyn Vinton,Liron Errez,6-0,6,0,1,0,Completed,true,false,false
+UA020122,27 Oct 19,12,Coatesville,Glen Eira,No. 1,Alexander Carter,Giddy Datt,Giddy Datt,1-6,1,6,0,1,Completed,true,false,false
+UA020122,27 Oct 19,12,Coatesville,Glen Eira,No. 2,Charlie Fishman,Benji Cohen,Benji Cohen,2-6,2,6,0,1,Completed,true,false,false
+UA020122,27 Oct 19,12,Coatesville,Glen Eira,No. 3,Leon Liacopoulas,Camille Demathieu,Camille Demathieu,5-7,5,7,0,1,Completed,true,false,false
+UA020122,27 Oct 19,12,Coatesville,Glen Eira,No. 4,Joseph Zoghbi,Ayaka Marutani,Ayaka Marutani,1-6,1,6,0,1,Completed,true,false,false
+UA020123,27 Oct 19,12,BLTC,Victory Park,No. 1,Zoe Livermore,Kavin Chandran,Zoe Livermore,6-0,6,0,1,0,Completed,true,false,false
+UA020123,27 Oct 19,12,BLTC,Victory Park,No. 2,Amy Livermore,Cassidy Richards,Amy Livermore,6-0,6,0,1,0,Completed,true,false,false
+UA020123,27 Oct 19,12,BLTC,Victory Park,No. 3,Justin Le,William Chu,Justin Le,6-4,6,4,1,0,Completed,true,false,false
+UA020123,27 Oct 19,12,BLTC,Victory Park,No. 4,Andrew Livermore,Adrian Guo,Andrew Livermore,6-0,6,0,1,0,Completed,true,false,false
+UA020124,27 Oct 19,12,Mentone,Dendy Park,No. 1,Lee Moore,Franzi Rehse,Lee Moore,6-1,6,1,1,0,Completed,true,false,false
+UA020124,27 Oct 19,12,Mentone,Dendy Park,No. 2,Linny Cutts,Ingrid Marder,Linny Cutts,6-0,6,0,1,0,Completed,true,false,false
+UA020124,27 Oct 19,12,Mentone,Dendy Park,No. 3,Ruby Bowman,Campbell Holtham,Campbell Holtham,5-7,5,7,0,1,Completed,true,false,false
+UA020124,27 Oct 19,12,Mentone,Dendy Park,No. 4,Atahan Yildiz,Toby Hansen,Atahan Yildiz,7-5,7,5,1,0,Completed,true,false,false
+UA020131,10 Nov 19,13,Centenary Park,Mentone,No. 1,Timothy Babu,Lee Moore,Timothy Babu,6-0,6,0,1,0,Completed,true,false,false
+UA020131,10 Nov 19,13,Centenary Park,Mentone,No. 2,Thom Babu,Linny Cutts,Thom Babu,6-1,6,1,1,0,Completed,true,false,false
+UA020131,10 Nov 19,13,Centenary Park,Mentone,No. 3,Mieka Gordon,Ruby Bowman,Mieka Gordon,6-2,6,2,1,0,Completed,true,false,false
+UA020131,10 Nov 19,13,Centenary Park,Mentone,No. 4,Elle Gordon,Atahan Yildiz,Atahan Yildiz,1-6,1,6,0,1,Completed,true,false,false
+UA020132,10 Nov 19,13,Dendy Park,Maccabi,No. 1,Franzi Rehse,Ethan Cohen,Franzi Rehse,6-1,6,1,1,0,Completed,true,false,false
+UA020132,10 Nov 19,13,Dendy Park,Maccabi,No. 2,Sebastian Maddams,Mark Rainey,Sebastian Maddams,6-1,6,1,1,0,Completed,true,false,false
+UA020132,10 Nov 19,13,Dendy Park,Maccabi,No. 3,Ingrid Marder,Jonah Stowe-Lindner,Jonah Stowe-Lindner,0-6,0,6,0,1,Completed,true,false,false
+UA020132,10 Nov 19,13,Dendy Park,Maccabi,No. 4,Hendrix Rehze,Liron Errez,Liron Errez,1-6,1,6,0,1,Completed,true,false,false
+UA020133,10 Nov 19,13,Victory Park,Coatesville,No. 1,Aakarsh Nayak,Landon Willis,Landon Willis,1-6,1,6,0,1,Completed,true,false,false
+UA020133,10 Nov 19,13,Victory Park,Coatesville,No. 2,Kavin Chandran,Thomas Scova,Thomas Scova,1-6,1,6,0,1,Completed,true,false,false
+UA020133,10 Nov 19,13,Victory Park,Coatesville,No. 3,Jerry Lu,Georgi Demonthenous,Jerry Lu,6-4,6,4,1,0,Completed,true,false,false
+UA020133,10 Nov 19,13,Victory Park,Coatesville,No. 4,Adrian Guo,Leon Liacopoulas,Leon Liacopoulas,2-6,2,6,0,1,Completed,true,false,false
+UA020134,10 Nov 19,13,Glen Eira,BLTC,No. 1,Giddy Datt,Zoe Livermore,Zoe Livermore,1-6,1,6,0,1,Completed,true,false,false
+UA020134,10 Nov 19,13,Glen Eira,BLTC,No. 2,Benji Cohen,Amy Livermore,Amy Livermore,0-6,0,6,0,1,Completed,true,false,false
+UA020134,10 Nov 19,13,Glen Eira,BLTC,No. 3,Ayaka Marutani,Justin Le,Justin Le,3-6,3,6,0,1,Completed,true,false,false
+UA020134,10 Nov 19,13,Glen Eira,BLTC,No. 4,Dahlia Cohen,Andrew Livermore,Andrew Livermore,2-6,2,6,0,1,Completed,true,false,false
+UA020141,17 Nov 19,14,Centenary Park,Dendy Park,No. 1,Sienna Le,Franzi Rehse,Sienna Le,6-1,6,1,1,0,Completed,true,false,false
+UA020141,17 Nov 19,14,Centenary Park,Dendy Park,No. 2,Mieka Gordon,Ingrid Marder,Mieka Gordon,6-1,6,1,1,0,Completed,true,false,false
+UA020141,17 Nov 19,14,Centenary Park,Dendy Park,No. 3,Elle Gordon,Toby Hansen,Toby Hansen,3-6,3,6,0,1,Completed,true,false,false
+UA020141,17 Nov 19,14,Centenary Park,Dendy Park,No. 4,Caitlyn Vinton,Hendrix Rehze,Hendrix Rehze,2-6,2,6,0,1,Completed,true,false,false
+UA020142,17 Nov 19,14,Maccabi,Mentone,No. 1,Ethan Cohen,Linny Cutts,Ethan Cohen,6-4,6,4,1,0,Completed,true,false,false
+UA020142,17 Nov 19,14,Maccabi,Mentone,No. 2,Gabi Segal,Atahan Yildiz,Gabi Segal,6-1,6,1,1,0,Completed,true,false,false
+UA020142,17 Nov 19,14,Maccabi,Mentone,No. 3,Mark Rainey,Zach Granell,Mark Rainey,6-2,6,2,1,0,Completed,true,false,false
+UA020142,17 Nov 19,14,Maccabi,Mentone,No. 4,Jonah Stowe-Lindner,Amira Bird,Jonah Stowe-Lindner,6-1,6,1,1,0,Completed,true,false,false
+UA020143,17 Nov 19,14,Victory Park,Glen Eira,No. 1,Aakarsh Nayak,Giddy Datt,Giddy Datt,0-6,0,6,0,1,Completed,true,false,false
+UA020143,17 Nov 19,14,Victory Park,Glen Eira,No. 2,Cassidy Richards,Benji Cohen,Benji Cohen,1-6,1,6,0,1,Completed,true,false,false
+UA020143,17 Nov 19,14,Victory Park,Glen Eira,No. 3,William Chu,Camille Demathieu,Camille Demathieu,2-6,2,6,0,1,Completed,true,false,false
+UA020143,17 Nov 19,14,Victory Park,Glen Eira,No. 4,Adrian Guo,Ayaka Marutani,Ayaka Marutani,1-6,1,6,0,1,Completed,true,false,false
+UA020144,17 Nov 19,14,BLTC,Coatesville,No. 1,Zoe Livermore,Landon Willis,Landon Willis,3-6,3,6,0,1,Completed,true,false,false
+UA020144,17 Nov 19,14,BLTC,Coatesville,No. 2,Amy Livermore,Charlie Fishman,Amy Livermore,6-0,6,0,1,0,Completed,true,false,false
+UA020144,17 Nov 19,14,BLTC,Coatesville,No. 3,Mathieson Meakins,Georgi Demonthenous,Mathieson Meakins,6-2,6,2,1,0,Completed,true,false,false
+UA020144,17 Nov 19,14,BLTC,Coatesville,No. 4,Andrew Livermore,Leon Liacopoulas,Andrew Livermore,7-5,7,5,1,0,Completed,true,false,false
+UA020301,,16,Glen Eira,Centenary Park,No. 1,Giddy Datt,Thom Babu,Giddy Datt,7-5,7,5,1,0,Completed,true,false,false
+UA020301,,16,Glen Eira,Centenary Park,No. 2,Benji Cohen,Sienna Le,Sienna Le,5-7,5,7,0,1,Completed,true,false,false
+UA020301,,16,Glen Eira,Centenary Park,No. 3,Camille Demathieu,Mieka Gordon,Mieka Gordon,2-6,2,6,0,1,Completed,true,false,false
+UA020301,,16,Glen Eira,Centenary Park,No. 4,Ayaka Marutani,Elle Gordon,Ayaka Marutani,6-4,6,4,1,0,Completed,true,false,false
+UA020302,,16,BLTC,Maccabi,No. 1,Zoe Livermore,Ethan Cohen,Ethan Cohen,3-6,3,6,0,1,Completed,true,false,false
+UA020302,,16,BLTC,Maccabi,No. 2,Amy Livermore,Gabi Segal,Gabi Segal,4-6,4,6,0,1,Completed,true,false,false
+UA020302,,16,BLTC,Maccabi,No. 3,Mathieson Meakins,Mark Rainey,Mathieson Meakins,6-4,6,4,1,0,Completed,true,false,false
+UA020302,,16,BLTC,Maccabi,No. 4,Justin Le,Jonah Stowe-Lindner,Justin Le,6-3,6,3,1,0,Completed,true,false,false
+UA020321,,17,Glen Eira,Maccabi,No. 1,Giddy Datt,Ethan Cohen,Giddy Datt,7-5,7,5,1,0,Completed,true,false,false
+UA020321,,17,Glen Eira,Maccabi,No. 2,Benji Cohen,Gabi Segal,Gabi Segal,3-6,3,6,0,1,Completed,true,false,false
+UA020321,,17,Glen Eira,Maccabi,No. 3,Camille Demathieu,Mark Rainey,Camille Demathieu,6-1,6,1,1,0,Completed,true,false,false
+UA020321,,17,Glen Eira,Maccabi,No. 4,Ayaka Marutani,Jonah Stowe-Lindner,Ayaka Marutani,6-1,6,1,1,0,Completed,true,false,false

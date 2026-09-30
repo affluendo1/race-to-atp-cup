@@ -1,0 +1,94 @@
+{
+  "asset_id": "UA5-UA054",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2009",
+  "season_id": "UA5",
+  "season_label": "Spring 2009",
+  "source_section_code": "UA054",
+  "section_label": "17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World 1",
+      "wins": 0,
+      "points": 124.5,
+      "percentage": 216.51,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Mordialloc",
+      "wins": 0,
+      "points": 104.5,
+      "percentage": 134.65,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Tennis World 2",
+      "wins": 0,
+      "points": 83,
+      "percentage": 113.51,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "St Joan of Arc",
+      "wins": 0,
+      "points": 66,
+      "percentage": 88.14,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St Peter's",
+      "wins": 0,
+      "points": 57,
+      "percentage": 78.25,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Victory Park",
+      "wins": 0,
+      "points": 48,
+      "percentage": 78.62,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Chelsea Heights",
+      "wins": 0,
+      "points": 42,
+      "percentage": 82.42,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Beaumaris CC",
+      "wins": 0,
+      "points": 35,
+      "percentage": 68.74,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA5-UA054",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 3,
+  "singles_rubbers": 228,
+  "doubles_rubbers": 114,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "No scorecard rubbers for UA054052",
+    "Fixture game totals do not match rubbers for UA054052"
+  ]
+}

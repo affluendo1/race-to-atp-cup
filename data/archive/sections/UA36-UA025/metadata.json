@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA36-UA025",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2025",
+  "season_id": "UA36",
+  "season_label": "Autumn 2025",
+  "source_section_code": "UA025",
+  "section_label": "Section 25 Green",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Mentone",
+      "wins": 11,
+      "points": 108,
+      "percentage": 162.55,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Victory Park",
+      "wins": 10,
+      "points": 102,
+      "percentage": 145.57,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "BLTC White",
+      "wins": 8,
+      "points": 91,
+      "percentage": 134.51,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Coatesville",
+      "wins": 6,
+      "points": 63,
+      "percentage": 91.07,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kings Park",
+      "wins": 5,
+      "points": 58,
+      "percentage": 88.14,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC Blue",
+      "wins": 4,
+      "points": 57,
+      "percentage": 67.23,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Tennis World",
+      "wins": 4,
+      "points": 50,
+      "percentage": 69.97,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Patterson Lakes Green",
+      "wins": 2,
+      "points": 31,
+      "percentage": 66.42,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA36-UA025",
+  "fixtures": 59,
+  "completed_fixtures": 48,
+  "draw_fixtures": 45,
+  "singles_rubbers": 192,
+  "doubles_rubbers": 95,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA025144"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA7-UA030",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2010",
+  "season_id": "UA7",
+  "season_label": "Spring 2010",
+  "source_section_code": "UA030",
+  "section_label": "Section 11",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 102,
+      "percentage": 162.95,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 95,
+      "percentage": 125.99,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Tennis World 1",
+      "wins": 0,
+      "points": 80,
+      "percentage": 110.14,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Tennis World 2",
+      "wins": 0,
+      "points": 76,
+      "percentage": 106.11,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Kooyong Scotch",
+      "wins": 0,
+      "points": 72,
+      "percentage": 116.18,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Victory Park",
+      "wins": 0,
+      "points": 61,
+      "percentage": 93.64,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 0,
+      "points": 39,
+      "percentage": 59.1,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hampton",
+      "wins": 0,
+      "points": 35,
+      "percentage": 62.13,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA7-UA030",
+  "fixtures": 59,
+  "completed_fixtures": 50,
+  "draw_fixtures": 3,
+  "singles_rubbers": 197,
+  "doubles_rubbers": 98,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

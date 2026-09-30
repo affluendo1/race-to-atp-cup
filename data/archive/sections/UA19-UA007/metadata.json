@@ -1,0 +1,75 @@
+{
+  "asset_id": "UA19-UA007",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2016",
+  "season_id": "UA19",
+  "season_label": "Spring 2016",
+  "source_section_code": "UA007",
+  "section_label": "Section 7",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Coatesville",
+      "wins": 13,
+      "points": 120,
+      "percentage": 164.98,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Elsternwick Park",
+      "wins": 10,
+      "points": 108,
+      "percentage": 150.0,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Tennis World",
+      "wins": 7,
+      "points": 69,
+      "percentage": 87.41,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 5,
+      "points": 66.5,
+      "percentage": 94.4,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Murrumbeena",
+      "wins": 5,
+      "points": 60.5,
+      "percentage": 88.37,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong Scotch",
+      "wins": 0,
+      "points": 26,
+      "percentage": 52.29,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA19-UA007",
+  "fixtures": 46,
+  "completed_fixtures": 44,
+  "draw_fixtures": 57,
+  "singles_rubbers": 176,
+  "doubles_rubbers": 88,
+  "latest_round": 16,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

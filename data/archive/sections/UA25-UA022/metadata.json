@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA25-UA022",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2019",
+  "season_id": "UA25",
+  "season_label": "Spring 2019",
+  "source_section_code": "UA022",
+  "section_label": "Section 22",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Bentleigh Rec",
+      "wins": 10,
+      "points": 105,
+      "percentage": 201.55,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Hurlingham Park",
+      "wins": 8,
+      "points": 88,
+      "percentage": 114.38,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Black Rock",
+      "wins": 8,
+      "points": 85,
+      "percentage": 111.9,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Murrumbeena",
+      "wins": 8,
+      "points": 80,
+      "percentage": 124.92,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal Ave",
+      "wins": 8,
+      "points": 78,
+      "percentage": 102.36,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Victory Park",
+      "wins": 3,
+      "points": 44,
+      "percentage": 77.13,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Lauriston",
+      "wins": 2,
+      "points": 40,
+      "percentage": 70.71,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal South Yarra",
+      "wins": 2,
+      "points": 34,
+      "percentage": 60.2,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA25-UA022",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 45,
+  "singles_rubbers": 215,
+  "doubles_rubbers": 107,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

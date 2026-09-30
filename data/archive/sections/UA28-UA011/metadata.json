@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA28-UA011",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2021",
+  "season_id": "UA28",
+  "season_label": "Autumn 2021",
+  "source_section_code": "UA011",
+  "section_label": "Section 11",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Andrews MB RA",
+      "wins": 8,
+      "points": 85,
+      "percentage": 171.68,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "BLTC",
+      "wins": 7,
+      "points": 67,
+      "percentage": 108.77,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Black Rock",
+      "wins": 6,
+      "points": 58,
+      "percentage": 102.36,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 4,
+      "points": 53,
+      "percentage": 90.51,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Caulfield Rec",
+      "wins": 3,
+      "points": 43,
+      "percentage": 89.38,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Tennis World",
+      "wins": 2,
+      "points": 43,
+      "percentage": 88.84,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kings Park",
+      "wins": 2,
+      "points": 41,
+      "percentage": 72.18,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA28-UA011",
+  "fixtures": 55,
+  "completed_fixtures": 35,
+  "draw_fixtures": 59,
+  "singles_rubbers": 138,
+  "doubles_rubbers": 70,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

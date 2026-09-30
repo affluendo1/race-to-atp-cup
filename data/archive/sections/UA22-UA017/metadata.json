@@ -1,0 +1,85 @@
+{
+  "asset_id": "UA22-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA017",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong St Kevin's",
+      "wins": 11,
+      "points": 110,
+      "percentage": 213.3,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Tennis World MP",
+      "wins": 10,
+      "points": 88,
+      "percentage": 143.82,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "BLTC",
+      "wins": 4,
+      "points": 54,
+      "percentage": 97.12,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Caulfield Rec",
+      "wins": 5,
+      "points": 53,
+      "percentage": 83.19,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St Mary's",
+      "wins": 3,
+      "points": 47,
+      "percentage": 96.2,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St Andrews MB BG",
+      "wins": 4,
+      "points": 47,
+      "percentage": 85.84,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 2,
+      "points": 21,
+      "percentage": 49.48,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA017",
+  "fixtures": 59,
+  "completed_fixtures": 44,
+  "draw_fixtures": 45,
+  "singles_rubbers": 176,
+  "doubles_rubbers": 86,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for UA017301"
+  ]
+}

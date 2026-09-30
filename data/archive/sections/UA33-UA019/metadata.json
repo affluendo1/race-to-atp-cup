@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA33-UA019",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2023",
+  "season_id": "UA33",
+  "season_label": "Spring 2023",
+  "source_section_code": "UA019",
+  "section_label": "Section 19",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park Blue",
+      "wins": 11,
+      "points": 110,
+      "percentage": 172.76,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Lauriston",
+      "wins": 11,
+      "points": 104,
+      "percentage": 135.47,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kings Park White",
+      "wins": 10,
+      "points": 100,
+      "percentage": 136.33,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Le Page",
+      "wins": 5,
+      "points": 66,
+      "percentage": 107.91,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Parkdale",
+      "wins": 4,
+      "points": 53,
+      "percentage": 85.93,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Hurlingham Park Blue",
+      "wins": 4,
+      "points": 51,
+      "percentage": 86.29,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong Green",
+      "wins": 3,
+      "points": 40,
+      "percentage": 69.47,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong Purple",
+      "wins": 2,
+      "points": 30,
+      "percentage": 59.58,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA33-UA019",
+  "fixtures": 59,
+  "completed_fixtures": 56,
+  "draw_fixtures": 59,
+  "singles_rubbers": 221,
+  "doubles_rubbers": 111,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

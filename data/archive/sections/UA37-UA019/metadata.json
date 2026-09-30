@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA37-UA019",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2025",
+  "season_id": "UA37",
+  "season_label": "Spring 2025",
+  "source_section_code": "UA019",
+  "section_label": "Section 19",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Hurlingham Park",
+      "wins": 11,
+      "points": 108,
+      "percentage": 144.75,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Parkdale",
+      "wins": 11,
+      "points": 105.5,
+      "percentage": 158.73,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Lauriston",
+      "wins": 7,
+      "points": 75,
+      "percentage": 100.97,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Murrumbeena",
+      "wins": 6,
+      "points": 71,
+      "percentage": 109.72,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Victory Park",
+      "wins": 3,
+      "points": 56,
+      "percentage": 91.29,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong",
+      "wins": 4,
+      "points": 55,
+      "percentage": 86.8,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Maccabi",
+      "wins": 2,
+      "points": 47,
+      "percentage": 70.83,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Coatesville",
+      "wins": 3,
+      "points": 42.5,
+      "percentage": 59.62,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA37-UA019",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 59,
+  "singles_rubbers": 208,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

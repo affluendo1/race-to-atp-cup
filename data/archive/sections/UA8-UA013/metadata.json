@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA8-UA013",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2011",
+  "season_id": "UA8",
+  "season_label": "Autumn 2011",
+  "source_section_code": "UA013",
+  "section_label": "Section 13",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Le Page",
+      "wins": 0,
+      "points": 120,
+      "percentage": 261.15,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Royal Ave",
+      "wins": 0,
+      "points": 103,
+      "percentage": 177.09,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 90,
+      "percentage": 114.38,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Tennis World",
+      "wins": 0,
+      "points": 72,
+      "percentage": 111.96,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Lauriston",
+      "wins": 0,
+      "points": 64,
+      "percentage": 100.93,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Maccabi",
+      "wins": 0,
+      "points": 53,
+      "percentage": 71.43,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Bodley Tennis Plus",
+      "wins": 0,
+      "points": 36,
+      "percentage": 54.47,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hurlingham Park",
+      "wins": 0,
+      "points": 22,
+      "percentage": 42.35,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA8-UA013",
+  "fixtures": 59,
+  "completed_fixtures": 49,
+  "draw_fixtures": 59,
+  "singles_rubbers": 196,
+  "doubles_rubbers": 98,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

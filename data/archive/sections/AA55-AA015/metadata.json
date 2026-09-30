@@ -1,0 +1,83 @@
+{
+  "asset_id": "AA55-AA015",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Autumn 2026",
+  "season_id": "AA55",
+  "season_label": "Autumn 2026",
+  "source_section_code": "AA015",
+  "section_label": "Girls 3",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park",
+      "wins": 10,
+      "points": 98,
+      "percentage": 260.0,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Glen Huntly",
+      "wins": 8,
+      "points": 81,
+      "percentage": 158.16,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Maccabi",
+      "wins": 7,
+      "points": 71.5,
+      "percentage": 119.77,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 6,
+      "points": 69,
+      "percentage": 130.08,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Ormond",
+      "wins": 3,
+      "points": 35.5,
+      "percentage": 69.74,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Chelsea Heights",
+      "wins": 2,
+      "points": 23,
+      "percentage": 45.64,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Clarinda",
+      "wins": 1,
+      "points": 12,
+      "percentage": 41.8,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA55-AA015",
+  "fixtures": 55,
+  "completed_fixtures": 38,
+  "draw_fixtures": 45,
+  "singles_rubbers": 151,
+  "doubles_rubbers": 76,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

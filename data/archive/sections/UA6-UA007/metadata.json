@@ -1,0 +1,94 @@
+{
+  "asset_id": "UA6-UA007",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2010",
+  "season_id": "UA6",
+  "season_label": "Autumn 2010",
+  "source_section_code": "UA007",
+  "section_label": "Section 7",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Bodley Tennis Plus",
+      "wins": 0,
+      "points": 106,
+      "percentage": 163.02,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Kooyong Scotch 1",
+      "wins": 0,
+      "points": 88,
+      "percentage": 117.47,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 0,
+      "points": 86,
+      "percentage": 118.58,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 81,
+      "percentage": 113.91,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong Scotch 2",
+      "wins": 0,
+      "points": 60.5,
+      "percentage": 92.84,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Lauriston",
+      "wins": 0,
+      "points": 60,
+      "percentage": 96.49,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 42.5,
+      "percentage": 65.0,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Tennis World",
+      "wins": 0,
+      "points": 36,
+      "percentage": 63.34,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA6-UA007",
+  "fixtures": 59,
+  "completed_fixtures": 59,
+  "draw_fixtures": 59,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "No scorecard rubbers for UA007031",
+    "Fixture game totals do not match rubbers for UA007031"
+  ]
+}

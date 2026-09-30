@@ -1,0 +1,67 @@
+{
+  "asset_id": "UA38-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2026",
+  "season_id": "UA38",
+  "season_label": "Autumn 2026",
+  "source_section_code": "UA002",
+  "section_label": "Rubbers 2",
+  "format": "rubbers",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Glen Huntly",
+      "wins": 7,
+      "points": 52,
+      "percentage": 110.0,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "BLTC Red",
+      "wins": 6,
+      "points": 46,
+      "percentage": 109.41,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "BLTC Green",
+      "wins": 6,
+      "points": 46,
+      "percentage": 95.88,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC Brown",
+      "wins": 4,
+      "points": 43,
+      "percentage": 91.52,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC White",
+      "wins": 3,
+      "points": 35,
+      "percentage": 97.37,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA38-UA002",
+  "fixtures": 46,
+  "completed_fixtures": 26,
+  "draw_fixtures": 57,
+  "singles_rubbers": 50,
+  "doubles_rubbers": 25,
+  "latest_round": 16,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

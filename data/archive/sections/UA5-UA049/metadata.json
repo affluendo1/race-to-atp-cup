@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA5-UA049",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2009",
+  "season_id": "UA5",
+  "season_label": "Spring 2009",
+  "source_section_code": "UA049",
+  "section_label": "12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Maccabi",
+      "wins": 0,
+      "points": 110,
+      "percentage": 201.89,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Kings Park",
+      "wins": 0,
+      "points": 109,
+      "percentage": 143.57,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Mordialloc",
+      "wins": 0,
+      "points": 89,
+      "percentage": 132.12,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Aspendale 1",
+      "wins": 0,
+      "points": 73,
+      "percentage": 119.61,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Aspendale 2",
+      "wins": 0,
+      "points": 61,
+      "percentage": 88.8,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Victory Park",
+      "wins": 0,
+      "points": 52,
+      "percentage": 76.57,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong Xavier",
+      "wins": 0,
+      "points": 43,
+      "percentage": 69.19,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 23,
+      "percentage": 47.36,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA5-UA049",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 3,
+  "singles_rubbers": 228,
+  "doubles_rubbers": 114,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

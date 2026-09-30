@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA25-UA011",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2019",
+  "season_id": "UA25",
+  "season_label": "Spring 2019",
+  "source_section_code": "UA011",
+  "section_label": "Section 11",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Coatesville",
+      "wins": 8,
+      "points": 97,
+      "percentage": 159.38,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Kooyong 2 Scotch",
+      "wins": 9,
+      "points": 95,
+      "percentage": 137.1,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "St Joan of Arc",
+      "wins": 9,
+      "points": 84,
+      "percentage": 111.01,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong 1 Scotch",
+      "wins": 8,
+      "points": 83,
+      "percentage": 116.08,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Hurlingham Park",
+      "wins": 6,
+      "points": 67,
+      "percentage": 96.59,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Black Rock",
+      "wins": 4,
+      "points": 53,
+      "percentage": 85.39,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Murrumbeena",
+      "wins": 4,
+      "points": 46,
+      "percentage": 74.21,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Parkdale",
+      "wins": 1,
+      "points": 29,
+      "percentage": 63.18,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA25-UA011",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 211,
+  "doubles_rubbers": 105,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

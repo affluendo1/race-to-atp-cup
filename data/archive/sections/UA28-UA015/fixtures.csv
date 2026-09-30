@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA015011,31 Jan 21,1,regular,Round 1,Dendy Park,Parkdale,2,8,2,4,,,21,29,Completed,
+UA015012,31 Jan 21,1,regular,Round 1,Maccabi,Lauriston,2,8,2,4,,,21,29,Completed,
+UA015013,31 Jan 21,1,regular,Round 1,Highmoor Uniting,Glen Huntly,0,10,0,6,,,6,36,Completed,
+UA015014,31 Jan 21,1,regular,Round 1,Aspendale,GPHC,8,2,4,2,,,25,20,Completed,
+UA015022,07 Feb 21,2,regular,Round 2,Parkdale,Maccabi,3,7,3,3,,,24,27,Completed,
+UA015023,07 Feb 21,2,regular,Round 2,Lauriston,Highmoor Uniting,1,9,1,5,,,26,35,Completed,
+UA015024,07 Feb 21,2,regular,Round 2,Glen Huntly,Aspendale,10,0,6,0,,,36,7,Completed,
+pending-ua015-r2-gphc-dendy-park,07 Feb 21,2,regular,Round 2,GPHC,Dendy Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r3-aspendale-lauriston,14 Feb 21,3,regular,Round 3,Aspendale,Lauriston,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r3-dendy-park-glen-huntly,14 Feb 21,3,regular,Round 3,Dendy Park,Glen Huntly,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r3-highmoor-uniting-parkdale,14 Feb 21,3,regular,Round 3,Highmoor Uniting,Parkdale,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r3-maccabi-gphc,14 Feb 21,3,regular,Round 3,Maccabi,GPHC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA015041,21 Feb 21,4,regular,Round 4,Lauriston,Dendy Park,8,2,4,2,,,30,19,Completed,
+UA015042,21 Feb 21,4,regular,Round 4,Glen Huntly,Maccabi,10,0,6,0,,,38,15,Completed,
+UA015043,21 Feb 21,4,regular,Round 4,GPHC,Highmoor Uniting,2,8,2,4,,,24,31,Completed,
+UA015044,21 Feb 21,4,regular,Round 4,Parkdale,Aspendale,8,2,4,2,,,34,21,Completed,
+UA015051,28 Feb 21,5,regular,Round 5,Highmoor Uniting,Aspendale,10,0,6,0,,,37,10,Completed,
+UA015052,28 Feb 21,5,regular,Round 5,GPHC,Glen Huntly,7,3,3,3,,,19,21,Completed,
+UA015053,28 Feb 21,5,regular,Round 5,Lauriston,Parkdale,3,7,3,3,,,28,32,Completed,
+UA015054,28 Feb 21,5,regular,Round 5,Dendy Park,Maccabi,1,9,1,5,,,14,34,Completed,
+UA015061,14 Mar 21,6,regular,Round 6,Maccabi,Highmoor Uniting,9,1,5,1,,,34,22,Completed,
+UA015062,14 Mar 21,6,regular,Round 6,Aspendale,Dendy Park,7,3,3,3,,,23,22,Completed,
+UA015063,14 Mar 21,6,regular,Round 6,Glen Huntly,Lauriston,10,0,6,0,,,36,4,Completed,
+UA015064,14 Mar 21,6,regular,Round 6,Parkdale,GPHC,7,3,3,3,,,29,28,Completed,
+UA015071,21 Mar 21,7,regular,Round 7,Dendy Park,Highmoor Uniting,2,8,2,4,,,22,30,Completed,
+UA015074,21 Mar 21,7,regular,Round 7,Glen Huntly,Parkdale,7,3,3,3,,,29,26,Completed,
+pending-ua015-r7-gphc-lauriston,21 Mar 21,7,regular,Round 7,GPHC,Lauriston,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r7-maccabi-aspendale,21 Mar 21,7,regular,Round 7,Maccabi,Aspendale,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA015081,28 Mar 21,8,regular,Round 8,Parkdale,Dendy Park,9,1,5,1,,,37,19,Completed,
+UA015082,28 Mar 21,8,regular,Round 8,Lauriston,Maccabi,2,8,2,4,,,16,27,Completed,
+UA015083,28 Mar 21,8,regular,Round 8,Glen Huntly,Highmoor Uniting,3,7,3,3,,,29,34,Completed,
+UA015084,28 Mar 21,8,regular,Round 8,GPHC,Aspendale,10,0,6,0,,,36,7,Completed,
+UA015091,02 May 21,9,regular,Round 9,Dendy Park,GPHC,1,9,1,5,,,7,31,Completed,
+UA015092,02 May 21,9,regular,Round 9,Maccabi,Parkdale,2,8,2,4,,,22,29,Completed,
+UA015093,02 May 21,9,regular,Round 9,Highmoor Uniting,Lauriston,9,1,5,1,,,33,16,Completed,
+UA015094,02 May 21,9,regular,Round 9,Aspendale,Glen Huntly,0,10,0,6,,,10,36,Completed,
+UA015101,09 May 21,10,regular,Round 10,Glen Huntly,Dendy Park,8,2,4,2,,,31,13,Completed,
+UA015102,09 May 21,10,regular,Round 10,GPHC,Maccabi,0,10,0,6,,,20,37,Completed,
+UA015103,09 May 21,10,regular,Round 10,Parkdale,Highmoor Uniting,2,8,2,4,,,20,25,Completed,
+UA015104,09 May 21,10,regular,Round 10,Lauriston,Aspendale,10,0,6,0,,,36,9,Completed,
+UA015111,16 May 21,11,regular,Round 11,Dendy Park,Lauriston,8,2,4,2,,,27,17,Completed,
+UA015112,16 May 21,11,regular,Round 11,Maccabi,Glen Huntly,1,9,1,5,,,18,34,Completed,
+UA015113,16 May 21,11,regular,Round 11,Highmoor Uniting,GPHC,7,3,3,3,,,22,19,Completed,
+UA015114,16 May 21,11,regular,Round 11,Aspendale,Parkdale,3,7,3,3,,,23,27,Completed,
+UA015121,23 May 21,12,regular,Round 12,Aspendale,Highmoor Uniting,3,7,3,3,,,23,28,Completed,
+UA015122,23 May 21,12,regular,Round 12,Glen Huntly,GPHC,5,5,3,3,,,23,23,Completed,
+UA015123,23 May 21,12,regular,Round 12,Parkdale,Lauriston,10,0,6,0,,,37,18,Completed,
+UA015124,23 May 21,12,regular,Round 12,Maccabi,Dendy Park,8,2,4,2,,,30,20,Completed,
+pending-ua015-r13-dendy-park-aspendale,30 May 21,13,regular,Round 13,Dendy Park,Aspendale,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r13-gphc-parkdale,30 May 21,13,regular,Round 13,GPHC,Parkdale,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r13-highmoor-uniting-maccabi,30 May 21,13,regular,Round 13,Highmoor Uniting,Maccabi,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua015-r13-lauriston-glen-huntly,30 May 21,13,regular,Round 13,Lauriston,Glen Huntly,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA015301,,16,semi_final,Semi-final,Glen Huntly,Maccabi,2,8,1,3,,,7,20,Completed,
+UA015302,,16,semi_final,Semi-final,Highmoor Uniting,Parkdale,7,3,3,3,,,30,24,Completed,
+UA015321,,17,grand_final,Grand final · TROLS entry 2,Highmoor Uniting,Maccabi,2,8,2,4,,,26,29,Completed,

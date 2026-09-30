@@ -1,0 +1,75 @@
+{
+  "asset_id": "AA49-AA003",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Spring 2020",
+  "season_id": "AA49",
+  "season_label": "Spring 2020",
+  "source_section_code": "AA003",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite 1",
+      "wins": 4,
+      "points": 38,
+      "percentage": 152.38,
+      "marker": "*"
+    },
+    {
+      "position": 2,
+      "team": "Port Melbourne Red",
+      "wins": 3,
+      "points": 33,
+      "percentage": 141.07,
+      "marker": "*"
+    },
+    {
+      "position": 3,
+      "team": "Carmelite 2",
+      "wins": 4,
+      "points": 32,
+      "percentage": 161.84,
+      "marker": "*"
+    },
+    {
+      "position": 4,
+      "team": "Carmelite 4",
+      "wins": 1,
+      "points": 14,
+      "percentage": 91.15,
+      "marker": "*"
+    },
+    {
+      "position": 5,
+      "team": "Port Melbourne Blue",
+      "wins": 1,
+      "points": 11,
+      "percentage": 65.6,
+      "marker": "*"
+    },
+    {
+      "position": 6,
+      "team": "Carmelite 3",
+      "wins": 0,
+      "points": 2,
+      "percentage": 31.65,
+      "marker": "*"
+    }
+  ],
+  "section_code": "AA49-AA003",
+  "fixtures": 15,
+  "completed_fixtures": 13,
+  "draw_fixtures": 56,
+  "singles_rubbers": 52,
+  "doubles_rubbers": 26,
+  "latest_round": 5,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

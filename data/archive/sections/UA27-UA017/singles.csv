@@ -1,0 +1,89 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA017011,15 Nov 20,1,Black Rock,Royal South Yarra,No. 1,Amelie Smith,Yancheng Zhang,Amelie Smith,6-4,6,4,1,0,Completed,true,false,false
+UA017011,15 Nov 20,1,Black Rock,Royal South Yarra,No. 2,Lucy Latham,Adrian Bosaru,Adrian Bosaru,1-6,1,6,0,1,Completed,true,false,false
+UA017011,15 Nov 20,1,Black Rock,Royal South Yarra,No. 3,Anna Tweddle,Dom Bongiorno,Dom Bongiorno,3-6,3,6,0,1,Completed,true,false,false
+UA017011,15 Nov 20,1,Black Rock,Royal South Yarra,No. 4,Taylah Birrell,Nathan Lin,Nathan Lin,1-6,1,6,0,1,Completed,true,false,false
+UA017012,15 Nov 20,1,Mentone,Highett,No. 1,Lee Moore,Jackson Clarke,Lee Moore,6-3,6,3,1,0,Completed,true,false,false
+UA017012,15 Nov 20,1,Mentone,Highett,No. 2,Linny Cutts,Guy Brent,Linny Cutts,6-1,6,1,1,0,Completed,true,false,false
+UA017012,15 Nov 20,1,Mentone,Highett,No. 3,Ruby Bowman,Louis Holmes,Louis Holmes,4-6,4,6,0,1,Completed,true,false,false
+UA017012,15 Nov 20,1,Mentone,Highett,No. 4,Zach Granell,Alex McEvoy,Zach Granell,6-2,6,2,1,0,Completed,true,false,false
+UA017013,15 Nov 20,1,St Pauls,Royal Ave,No. 1,Aaron Ryan,Sam Arbuckle,Aaron Ryan,6-1,6,1,1,0,Completed,true,true,false
+UA017013,15 Nov 20,1,St Pauls,Royal Ave,No. 2,Rory Coleman,Aston Delalanse,Rory Coleman,6-4,6,4,1,0,Completed,true,false,false
+UA017013,15 Nov 20,1,St Pauls,Royal Ave,No. 3,Ryan Quach,Liv De Beer,Liv De Beer,1-6,1,6,0,1,Completed,true,false,false
+UA017013,15 Nov 20,1,St Pauls,Royal Ave,No. 4,Isabella Li,Jack James,Jack James,1-6,1,6,0,1,Completed,true,false,false
+UA017014,15 Nov 20,1,Maccabi,St Andrews MB BG,No. 1,Max Behr,Stella Kemp,Stella Kemp,0-6,0,6,0,1,Completed,true,false,false
+UA017014,15 Nov 20,1,Maccabi,St Andrews MB BG,No. 2,Bailey Kawalsky,Mika Looschilder,Mika Looschilder,2-6,2,6,0,1,Completed,true,false,false
+UA017014,15 Nov 20,1,Maccabi,St Andrews MB BG,No. 3,Alan Pogreb,Hanna Langridge,Hanna Langridge,0-6,0,6,0,1,Completed,true,false,false
+UA017014,15 Nov 20,1,Maccabi,St Andrews MB BG,No. 4,Harold Kleine,Ruby Morgan,Ruby Morgan,1-6,1,6,0,1,Completed,true,false,false
+UA017021,22 Nov 20,2,St Andrews MB BG,Black Rock,No. 1,Max Katada,Lucy Latham,Max Katada,6-4,6,4,1,0,Completed,true,true,false
+UA017021,22 Nov 20,2,St Andrews MB BG,Black Rock,No. 2,Harley Amiridis,Taylah Birrell,Harley Amiridis,7-6,7,6,1,0,Completed,true,true,false
+UA017021,22 Nov 20,2,St Andrews MB BG,Black Rock,No. 3,Ruby Morgan,Nate Desmond,Nate Desmond,6-7,6,7,0,1,Completed,true,false,false
+UA017021,22 Nov 20,2,St Andrews MB BG,Black Rock,No. 4,Daniel Arnold,Christian Desmond,Christian Desmond,3-6,3,6,0,1,Completed,true,true,false
+UA017022,22 Nov 20,2,Royal South Yarra,Mentone,No. 1,Adrian Bosaru,Lee Moore,Adrian Bosaru,6-1,6,1,1,0,Completed,true,false,false
+UA017022,22 Nov 20,2,Royal South Yarra,Mentone,No. 2,Yancheng Zhang,Linny Cutts,Linny Cutts,0-6,0,6,0,1,Completed,true,false,false
+UA017022,22 Nov 20,2,Royal South Yarra,Mentone,No. 3,Dom Bongiorno,Ruby Bowman,Dom Bongiorno,6-1,6,1,1,0,Completed,true,false,false
+UA017022,22 Nov 20,2,Royal South Yarra,Mentone,No. 4,Millie Mailer,Amira Bird,Amira Bird,1-6,1,6,0,1,Completed,true,false,false
+UA017023,22 Nov 20,2,Highett,St Pauls,No. 1,Guy Brent,Rory Coleman,Rory Coleman,3-6,3,6,0,1,Completed,true,false,false
+UA017023,22 Nov 20,2,Highett,St Pauls,No. 2,Louis Holmes,Ryan Quach,Louis Holmes,6-0,6,0,1,0,Completed,true,false,false
+UA017023,22 Nov 20,2,Highett,St Pauls,No. 3,Alex McEvoy,Isabella Li,Alex McEvoy,6-1,6,1,1,0,Completed,true,false,false
+UA017023,22 Nov 20,2,Highett,St Pauls,No. 4,Jose Inserra,David Kirolos,Jose Inserra,6-2,6,2,1,0,Completed,true,false,false
+UA017024,22 Nov 20,2,Royal Ave,Maccabi,No. 1,Sam Arbuckle,Bailey Kawalsky,Sam Arbuckle,6-4,6,4,1,0,Completed,true,false,false
+UA017024,22 Nov 20,2,Royal Ave,Maccabi,No. 2,Aston Delalanse,Alan Pogreb,Aston Delalanse,6-0,6,0,1,0,Completed,true,false,false
+UA017024,22 Nov 20,2,Royal Ave,Maccabi,No. 3,Liv De Beer,Harold Kleine,Liv De Beer,6-0,6,0,1,0,Completed,true,false,false
+UA017024,22 Nov 20,2,Royal Ave,Maccabi,No. 4,Tom Oldman,Philip Kleine,Tom Oldman,6-1,6,1,1,0,Completed,true,false,false
+UA017032,29 Nov 20,3,Mentone,St Andrews MB BG,No. 1,Linny Cutts,Stella Kemp,Stella Kemp,2-6,2,6,0,1,Completed,true,false,false
+UA017032,29 Nov 20,3,Mentone,St Andrews MB BG,No. 2,Atahan Yildiz,Mika Looschilder,Mika Looschilder,5-7,5,7,0,1,Completed,true,false,false
+UA017032,29 Nov 20,3,Mentone,St Andrews MB BG,No. 3,Amira Bird,Isabella Telford,Isabella Telford,4-6,4,6,0,1,Completed,true,false,false
+UA017032,29 Nov 20,3,Mentone,St Andrews MB BG,No. 4,Zach Granell,Louis Minet,Louis Minet,2-6,2,6,0,1,Completed,true,false,true
+UA017033,29 Nov 20,3,St Pauls,Royal South Yarra,No. 1,Aaron Ryan,Dom Bongiorno,Aaron Ryan,6-0,6,0,1,0,Completed,true,true,false
+UA017033,29 Nov 20,3,St Pauls,Royal South Yarra,No. 2,Ryan Quach,Nathan Lin,Nathan Lin,6-7,6,7,0,1,Completed,true,false,false
+UA017033,29 Nov 20,3,St Pauls,Royal South Yarra,No. 3,Isabella Li,Flo Baillieu,Flo Baillieu,1-6,1,6,0,1,Completed,true,false,false
+UA017033,29 Nov 20,3,St Pauls,Royal South Yarra,No. 4,David Kirolos,Millie Mailer,David Kirolos,6-4,6,4,1,0,Completed,true,false,false
+UA017041,06 Dec 20,4,Highett,Black Rock,No. 1,Guy Brent,Amelie Smith,Amelie Smith,6-7,6,7,0,1,Completed,true,false,false
+UA017041,06 Dec 20,4,Highett,Black Rock,No. 2,Louis Holmes,Taylah Birrell,Louis Holmes,6-3,6,3,1,0,Completed,true,false,false
+UA017041,06 Dec 20,4,Highett,Black Rock,No. 3,Alex McEvoy,Nate Desmond,Nate Desmond,4-6,4,6,0,1,Completed,true,false,false
+UA017041,06 Dec 20,4,Highett,Black Rock,No. 4,Jose Inserra,Christian Desmond,Jose Inserra,6-3,6,3,1,0,Completed,true,false,false
+UA017042,06 Dec 20,4,Royal Ave,Mentone,No. 1,Aston Delalanse,Ruby Bowman,Aston Delalanse,6-1,6,1,1,0,Completed,true,false,false
+UA017042,06 Dec 20,4,Royal Ave,Mentone,No. 2,Liv De Beer,Atahan Yildiz,Liv De Beer,6-1,6,1,1,0,Completed,true,false,false
+UA017042,06 Dec 20,4,Royal Ave,Mentone,No. 3,Jack James,Amira Bird,Jack James,6-3,6,3,1,0,Completed,true,false,false
+UA017042,06 Dec 20,4,Royal Ave,Mentone,No. 4,Tom Oldman,Zach Granell,Tom Oldman,6-3,6,3,1,0,Completed,true,false,false
+UA017043,06 Dec 20,4,St Andrews MB BG,St Pauls,No. 1,Mika Looschilder,Rory Coleman,Rory Coleman,3-6,3,6,0,1,Completed,true,false,false
+UA017043,06 Dec 20,4,St Andrews MB BG,St Pauls,No. 2,Isabella Telford,Ryan Quach,Isabella Telford,6-1,6,1,1,0,Completed,true,false,false
+UA017043,06 Dec 20,4,St Andrews MB BG,St Pauls,No. 3,Hanna Langridge,Isabella Li,Hanna Langridge,6-0,6,0,1,0,Completed,true,false,false
+UA017043,06 Dec 20,4,St Andrews MB BG,St Pauls,No. 4,Daniel Arnold,David Kirolos,David Kirolos,3-6,3,6,0,1,Completed,true,true,false
+UA017044,06 Dec 20,4,Royal South Yarra,Maccabi,No. 1,Will Baillieu,Jesse Stowe-Lindner,Will Baillieu,6-3,6,3,1,0,Completed,true,true,false
+UA017044,06 Dec 20,4,Royal South Yarra,Maccabi,No. 2,Nathan Lin,Max Behr,Nathan Lin,7-5,7,5,1,0,Completed,true,false,false
+UA017044,06 Dec 20,4,Royal South Yarra,Maccabi,No. 3,Yancheng Zhang,James Behr,Yancheng Zhang,6-3,6,3,1,0,Completed,true,false,false
+UA017044,06 Dec 20,4,Royal South Yarra,Maccabi,No. 4,Flo Baillieu,Philip Kleine,Flo Baillieu,6-0,6,0,1,0,Completed,true,false,false
+UA017051,13 Dec 20,5,St Pauls,Maccabi,No. 1,Aaron Ryan,Jesse Stowe-Lindner,Jesse Stowe-Lindner,2-6,2,6,0,1,Completed,true,true,false
+UA017051,13 Dec 20,5,St Pauls,Maccabi,No. 2,Rory Coleman,Max Behr,Rory Coleman,6-1,6,1,1,0,Completed,true,false,false
+UA017051,13 Dec 20,5,St Pauls,Maccabi,No. 3,Ryan Quach,Bailey Kawalsky,Ryan Quach,6-2,6,2,1,0,Completed,true,false,false
+UA017051,13 Dec 20,5,St Pauls,Maccabi,No. 4,Isabella Li,Alan Pogreb,Isabella Li,6-0,6,0,1,0,Completed,true,false,false
+UA017052,13 Dec 20,5,St Andrews MB BG,Royal Ave,No. 1,Stella Kemp,Sam Arbuckle,Stella Kemp,6-0,6,0,1,0,Completed,true,false,false
+UA017052,13 Dec 20,5,St Andrews MB BG,Royal Ave,No. 2,Mika Looschilder,Liv De Beer,Liv De Beer,2-6,2,6,0,1,Completed,true,false,false
+UA017052,13 Dec 20,5,St Andrews MB BG,Royal Ave,No. 3,Isabella Telford,Tom Oldman,Isabella Telford,6-1,6,1,1,0,Completed,true,false,false
+UA017052,13 Dec 20,5,St Andrews MB BG,Royal Ave,No. 4,Hanna Langridge,Jack James,Hanna Langridge,6-0,6,0,1,0,Completed,true,false,false
+UA017053,13 Dec 20,5,Highett,Royal South Yarra,No. 1,Jackson Clarke,Adrian Bosaru,Adrian Bosaru,1-6,1,6,0,1,Completed,true,false,false
+UA017053,13 Dec 20,5,Highett,Royal South Yarra,No. 2,Guy Brent,Nathan Lin,Nathan Lin,3-6,3,6,0,1,Completed,true,false,false
+UA017053,13 Dec 20,5,Highett,Royal South Yarra,No. 3,Louis Holmes,Yancheng Zhang,Yancheng Zhang,4-6,4,6,0,1,Completed,true,false,false
+UA017053,13 Dec 20,5,Highett,Royal South Yarra,No. 4,Jose Inserra,Dom Bongiorno,Jose Inserra,7-6,7,6,1,0,Completed,true,false,false
+UA017054,13 Dec 20,5,Black Rock,Mentone,No. 1,Amelie Smith,Linny Cutts,Amelie Smith,7-6,7,6,1,0,Completed,true,false,false
+UA017054,13 Dec 20,5,Black Rock,Mentone,No. 2,Anna Tweddle,Ruby Bowman,Ruby Bowman,2-6,2,6,0,1,Completed,true,false,false
+UA017054,13 Dec 20,5,Black Rock,Mentone,No. 3,Nate Desmond,Atahan Yildiz,Nate Desmond,6-4,6,4,1,0,Completed,true,false,false
+UA017054,13 Dec 20,5,Black Rock,Mentone,No. 4,Christian Desmond,Amira Bird,Christian Desmond,7-5,7,5,1,0,Completed,true,false,false
+UA017061,20 Dec 20,6,Mentone,St Pauls,No. 1,Linny Cutts,Aaron Ryan,Aaron Ryan,4-6,4,6,0,1,Completed,true,false,true
+UA017061,20 Dec 20,6,Mentone,St Pauls,No. 2,Ruby Bowman,Rory Coleman,Rory Coleman,2-6,2,6,0,1,Completed,true,false,false
+UA017061,20 Dec 20,6,Mentone,St Pauls,No. 3,Atahan Yildiz,Ronan Rawlings,Ronan Rawlings,6-7,6,7,0,1,Completed,true,false,false
+UA017061,20 Dec 20,6,Mentone,St Pauls,No. 4,Zach Granell,David Kirolos,Zach Granell,6-4,6,4,1,0,Completed,true,false,false
+UA017062,20 Dec 20,6,Maccabi,Black Rock,No. 1,Jesse Stowe-Lindner,Amelie Smith,Jesse Stowe-Lindner,6-1,6,1,1,0,Completed,true,false,false
+UA017062,20 Dec 20,6,Maccabi,Black Rock,No. 2,Max Behr,Lucy Latham,Max Behr,6-0,6,0,1,0,Completed,true,false,false
+UA017062,20 Dec 20,6,Maccabi,Black Rock,No. 3,Bailey Kawalsky,Anna Tweddle,Bailey Kawalsky,6-1,6,1,1,0,Completed,true,false,false
+UA017062,20 Dec 20,6,Maccabi,Black Rock,No. 4,Alan Pogreb,Taylah Birrell,Taylah Birrell,2-6,2,6,0,1,Completed,true,false,false
+UA017063,20 Dec 20,6,Royal Ave,Highett,No. 1,Aston Delalanse,Jackson Clarke,Aston Delalanse,6-0,6,0,1,0,Completed,true,false,false
+UA017063,20 Dec 20,6,Royal Ave,Highett,No. 2,Liv De Beer,Alex McEvoy,Liv De Beer,6-1,6,1,1,0,Completed,true,false,false
+UA017063,20 Dec 20,6,Royal Ave,Highett,No. 3,Jack James,Jose Inserra,Jack James,6-4,6,4,1,0,Completed,true,false,false
+UA017063,20 Dec 20,6,Royal Ave,Highett,No. 4,Tom Oldman,[Unnamed player — TROLS UA017063 away code 4],Tom Oldman,6-0,6,0,1,0,Completed,false,false,false
+UA017064,20 Dec 20,6,Royal South Yarra,St Andrews MB BG,No. 1,Adrian Bosaru,Stella Kemp,Stella Kemp,3-6,3,6,0,1,Completed,true,false,false
+UA017064,20 Dec 20,6,Royal South Yarra,St Andrews MB BG,No. 2,Yancheng Zhang,Mika Looschilder,Mika Looschilder,4-6,4,6,0,1,Completed,true,false,false
+UA017064,20 Dec 20,6,Royal South Yarra,St Andrews MB BG,No. 3,Flo Baillieu,Isabella Telford,Flo Baillieu,7-6,7,6,1,0,Completed,true,false,false
+UA017064,20 Dec 20,6,Royal South Yarra,St Andrews MB BG,No. 4,Millie Mailer,Ruby Morgan,Millie Mailer,6-4,6,4,1,0,Completed,true,false,false

@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA9-UA008",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2011",
+  "season_id": "UA9",
+  "season_label": "Spring 2011",
+  "source_section_code": "UA008",
+  "section_label": "Section 8",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Beaumaris CC",
+      "wins": 8,
+      "points": 98,
+      "percentage": 262.6,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "GPHC",
+      "wins": 8,
+      "points": 73,
+      "percentage": 103.38,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kooyong Xavier",
+      "wins": 4,
+      "points": 61,
+      "percentage": 105.98,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Caulfield Rec",
+      "wins": 5,
+      "points": 61,
+      "percentage": 93.58,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Carmelite",
+      "wins": 4,
+      "points": 46,
+      "percentage": 86.11,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong Scotch",
+      "wins": 3,
+      "points": 42,
+      "percentage": 76.09,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St James",
+      "wins": 2,
+      "points": 39,
+      "percentage": 70.16,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA9-UA008",
+  "fixtures": 59,
+  "completed_fixtures": 37,
+  "draw_fixtures": 59,
+  "singles_rubbers": 148,
+  "doubles_rubbers": 74,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

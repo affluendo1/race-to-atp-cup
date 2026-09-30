@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en" data-theme="auto" data-interface="future" data-accent="yellow">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta id="themeColor" name="theme-color" content="#101207">
+  <meta name="application-name" content="BRTA Power Ratings">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="BRTA Ratings">
+  <meta name="mobile-web-app-capable" content="yes">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/brta-icon-180.png?v=2">
+  <link rel="icon" type="image/png" sizes="192x192" href="assets/brta-icon-192.png?v=2">
+  <link rel="manifest" href="manifest.webmanifest?v=2">
+  <title>BRTA Power Ratings</title>
+  <style>
+    #royalArchive.hidden{display:none!important}
+    .auxiliary-reveal{animation:auxiliary-row-in .3s ease both}
+    .auxiliary-archive-button{position:relative;width:100%;overflow:hidden;border:1px solid #dca83b;background:linear-gradient(110deg,#2b1b07,#9d701c,#2b1b07);background-size:220% 100%;box-shadow:0 0 18px rgba(215,165,48,.2);color:#fff1c5;padding:13px 16px;font:800 12px/1 var(--display-font,Arial,sans-serif);letter-spacing:.08em;text-transform:uppercase;animation:auxiliary-sheen 5s linear infinite}
+    .auxiliary-archive-button:hover,.auxiliary-archive-button:focus-visible{outline:0;box-shadow:0 0 0 2px rgba(246,200,82,.28),0 0 25px rgba(225,174,54,.35)}
+    @keyframes auxiliary-row-in{from{opacity:0}to{opacity:1}}@keyframes auxiliary-sheen{to{background-position:220% center}}
+    @media(prefers-reduced-motion:reduce){.auxiliary-reveal,.auxiliary-archive-button{animation:none}}
+  </style>
+  <script>
+    (function(){var m=localStorage.getItem('brta-interface')||'future',t=localStorage.getItem('brta-theme')||'auto',a=localStorage.getItem('brta-accent')||'yellow',d=t==='dark'||(t==='auto'&&matchMedia('(prefers-color-scheme: dark)').matches),future=m!=='classic',c=future?(d?'#101109':'#f3f2e9'):'#173f63',l=document.createElement('link');document.documentElement.dataset.interface=m;document.documentElement.dataset.accent=a;document.documentElement.style.backgroundColor=c;document.documentElement.style.colorScheme=d?'dark':'light';document.getElementById('themeColor').content=c;l.id='siteStyles';l.rel='stylesheet';l.href=future?'future.css?v=30':'style.css?v=36';document.head.appendChild(l)})()
+  </script>
+  <link rel="stylesheet" href="archive.css?v=11">
+</head>
+<body>
+<header class="site-header">
+  <div class="brand-block">
+    <img class="brand-logo" src="assets/brta-logo.png?v=2" alt="BRTA logo" width="76" height="76">
+    <div class="brand-copy"><div class="brand">BRTA Power Ratings</div>
+    <div class="subtitle" id="sectionSubtitle">Saturday &amp; Sunday AM · Spring 2026</div></div>
+  </div>
+  <div class="header-actions">
+    <button id="installBtn" class="button secondary" type="button" aria-haspopup="dialog" aria-controls="installOverlay">Install app</button>
+    <button id="roundBtn" class="button secondary">Latest round</button>
+    <button id="clubZoneBtn" class="button secondary" aria-haspopup="dialog" aria-controls="clubPickerOverlay">Club Zone</button>
+    <button id="settingsBtn" class="button secondary">Settings</button>
+  </div>
+</header>
+<main class="wrap">
+  <section class="section-picker" aria-label="Competition and section">
+    <div class="section-choice" id="competitionPicker">
+      <span class="choice-label">Competition</span>
+      <button id="competitionSelect" class="choice-trigger" type="button" aria-haspopup="listbox" aria-expanded="false"><span>Loading competitions</span><i aria-hidden="true"></i></button>
+      <div id="competitionOptions" class="choice-options" role="listbox" aria-label="Competition"></div>
+    </div>
+    <div class="section-choice" id="sectionPicker">
+      <span class="choice-label">Section</span>
+      <button id="sectionSelect" class="choice-trigger" type="button" aria-haspopup="listbox" aria-expanded="false"><span>Loading sections</span><i aria-hidden="true"></i></button>
+      <div id="sectionOptions" class="choice-options" role="listbox" aria-label="Section"></div>
+    </div>
+    <div class="section-picker-footer"><span class="section-count" id="sectionCount"></span><button id="exportSectionBtn" class="export-link" type="button" title="Download this section's fixtures and all published rubbers as a CSV file">Export this section’s CSV</button></div>
+  </section>
+  <section class="status-strip" id="statusStrip"></section>
+  <nav class="main-nav" aria-label="Main navigation">
+    <button class="main-tab active" data-page="results">Results</button>
+    <button class="main-tab" data-page="standings">Standings</button>
+    <button class="main-tab" data-page="ratings">Ratings</button>
+    <button class="main-tab" data-page="teams">Teams</button>
+    <button class="main-tab" data-page="fixtures">Fixtures</button>
+  </nav>
+
+  <section id="page-ratings" class="page">
+    <div class="toolbar ratings-toolbar">
+      <div class="subtabs" id="ratingTabs">
+        <button class="subtab active" data-rating="singles">Singles</button>
+        <button class="subtab" data-rating="pairs">Doubles pairs</button>
+        <button class="subtab" data-rating="doublesPlayers">Doubles players</button>
+        <button class="subtab" data-rating="overall">Overall</button>
+      </div>
+      <div class="filters" id="ratingFilters"><input id="search" placeholder="Search player"><select id="teamFilter"><option value="">All teams</option></select><button id="searchOptionsBtn" class="search-options-button" type="button" aria-haspopup="dialog" aria-controls="searchOptionsOverlay">Search options</button></div>
+    </div>
+    <div class="section-title"><div><h1 id="ratingsTitle">Singles ratings</h1><p id="ratingsDesc"></p></div><span class="small-note" id="ratingsHint">Tap a player for Player Lab</span></div>
+    <div id="bandInfo" class="band-info"></div>
+    <div class="table-wrap"><table><thead id="ratingHead"></thead><tbody id="ratingBody"></tbody></table></div>
+  </section>
+
+  <section id="page-teams" class="page">
+    <div class="section-title"><div><h1>Team Power & lineups</h1></div></div>
+    <div id="teamCards" class="team-cards"></div>
+  </section>
+
+  <section id="page-standings" class="page">
+    <div class="section-title"><div><h1>Standings</h1></div><span class="small-note" id="standingsNote"></span></div>
+    <div id="knockoutSummary" class="knockout-summary"></div>
+    <div class="table-wrap"><table><thead id="standingsHead"><tr><th>Pos</th><th>Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>Rubbers</th><th>Games</th><th>Pts</th></tr></thead><tbody id="standingsBody"></tbody></table></div>
+    <div class="notice" id="standingsCaveat"></div>
+  </section>
+
+  <section id="page-results" class="page active">
+    <div class="section-title"><div><h1>Results</h1></div></div>
+    <div id="resultsList" class="results-list"></div>
+  </section>
+
+  <section id="page-fixtures" class="page">
+    <div class="section-title"><div><h1>Fixtures</h1></div></div>
+    <div id="fixturesList" class="fixture-rounds"></div>
+  </section>
+
+</main>
+<main id="royalArchive" class="royal-archive hidden" aria-hidden="true"></main>
+<footer class="site-footer"><span><b>BRTA Power Ratings</b> · Unofficial competition analytics</span><span>Not affiliated with BRTA, Tennis Australia or UTR.</span></footer>
+
+<div id="clubPickerOverlay" class="overlay hidden"><div class="overlay-backdrop" data-club-picker-close="1"></div><section class="club-picker-sheet" role="dialog" aria-modal="true" aria-labelledby="clubPickerTitle"><button id="clubPickerClose" class="close-btn" type="button" aria-label="Close Club Zone">×</button><div class="overlay-title"><div class="kicker">CLUB ZONE</div><h2 id="clubPickerTitle">Open a club record</h2><p>Choose competition, then club.</p></div><div class="club-picker-fields"><label>Competition<select id="clubPickerCompetition"><option value="">Choose Saturday or Sunday AM</option><option value="AA">Saturday AM</option><option value="UA">Sunday AM</option></select></label><label>Club<select id="clubPickerClub" disabled><option value="">Choose a competition first</option></select></label></div><p id="clubPickerStatus" class="club-picker-status"></p><button id="clubPickerOpen" class="button primary" type="button" disabled>Open Club Zone</button></section></div>
+<div id="clubZoneOverlay" class="overlay hidden"><div class="overlay-backdrop" data-club-zone-close="1"></div><aside class="club-zone-sheet"><button id="clubZoneClose" class="close-btn" aria-label="Close Club Zone">×</button><div id="clubZoneContent"></div></aside></div>
+<div id="profileOverlay" class="overlay hidden"><div class="overlay-backdrop" data-close="1"></div><aside class="profile-sheet"><button id="profileClose" class="close-btn" aria-label="Close">×</button><div id="profileContent"></div></aside><aside id="profileMatchExplorer" class="profile-match-explorer hidden" aria-label="Match explorer"><div id="profileMatchExplorerContent"></div></aside></div>
+<div id="searchOptionsOverlay" class="overlay hidden"><div class="overlay-backdrop" data-search-options-close="1"></div><section class="search-options-sheet" role="dialog" aria-modal="true" aria-labelledby="searchOptionsTitle"><button id="searchOptionsClose" class="close-btn" type="button" aria-label="Close">×</button><div class="overlay-title"><div class="kicker">SEARCH</div><h2 id="searchOptionsTitle">Search scope</h2></div><div class="search-scope-choice" role="group" aria-label="Search players in"><button type="button" data-search-scope="section">This section</button><button type="button" data-search-scope="all">All sections</button></div></section></div><div id="rivalryOverlay" class="overlay hidden"><div class="overlay-backdrop" data-rivalry-close="1"></div><aside class="rivalry-sheet"><button id="rivalryClose" class="close-btn" type="button" aria-label="Close">×</button><div id="rivalryContent"></div></aside></div><div id="roundOverlay" class="overlay hidden"><div class="overlay-backdrop" data-round-close="1"></div><aside class="round-sheet"><button id="roundClose" class="close-btn" aria-label="Close">×</button><div id="roundContent"></div></aside></div>
+<div id="settingsOverlay" class="overlay hidden"><div class="overlay-backdrop" data-settings-close="1"></div><aside class="settings-sheet"><button id="settingsClose" class="close-btn" aria-label="Close">×</button><div id="settingsContent"></div></aside></div>
+<div id="resultOverlay" class="overlay hidden"><div class="overlay-backdrop" data-result-close="1"></div><aside class="result-sheet"><button id="resultClose" class="close-btn" aria-label="Close">×</button><div id="resultContent"></div></aside></div>
+<div id="predictionOverlay" class="overlay hidden"><div class="overlay-backdrop" data-prediction-close="1"></div><aside class="prediction-sheet"><button id="predictionClose" class="close-btn" aria-label="Close">×</button><div id="predictionContent"></div></aside></div>
+<div id="lineupHistoryOverlay" class="overlay hidden"><div class="overlay-backdrop" data-lineup-history-close="1"></div><aside class="prediction-sheet lineup-history-sheet"><button id="lineupHistoryClose" class="close-btn" aria-label="Close">×</button><div id="lineupHistoryContent"></div></aside></div>
+<div id="sosOverlay" class="overlay hidden"><div class="overlay-backdrop" data-sos-close="1"></div><aside class="sos-sheet"><button id="sosClose" class="close-btn" aria-label="Close">×</button><div id="sosContent"></div></aside></div>
+<div id="installOverlay" class="overlay hidden"><div class="overlay-backdrop" data-install-close="1"></div><section class="install-sheet" role="dialog" aria-modal="true" aria-labelledby="installTitle"><button id="installClose" class="close-btn" type="button" aria-label="Close install help">×</button><div class="overlay-title"><div class="kicker">BRTA POWER RATINGS</div><h2 id="installTitle">Install the app</h2><p>Keep your section results one tap away.</p></div><div id="installGuide" class="install-guide"></div><div class="install-actions"><button id="nativeInstallBtn" class="button primary hidden" type="button">Install BRTA Ratings</button><button id="installDoneBtn" class="button secondary" type="button">Done</button></div></section></div>
+<div id="modeSwitchOverlay" class="mode-switch hidden" aria-live="polite"><div class="mode-switch-box"><div class="progress-ring" id="progressRing"><div><b id="progressPct">0%</b></div></div><h2>Switching interface</h2><p id="switchStatus">Preparing layout…</p></div></div>
+<div id="syncToastHost" class="sync-toast-host" aria-live="polite" aria-atomic="true"></div>
+<script src="data.js?v=16"></script>
+<script src="prediction.js?v=2"></script>
+<script src="auxiliary-module.js?v=3"></script>
+    <script src="app.js?v=35"></script>
+<script src="archive.js?v=11"></script>
+<script src="pwa.js?v=1"></script>
+</body>
+</html>

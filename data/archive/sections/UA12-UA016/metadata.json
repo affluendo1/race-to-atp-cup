@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA12-UA016",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2013",
+  "season_id": "UA12",
+  "season_label": "Autumn 2013",
+  "source_section_code": "UA016",
+  "section_label": "Section 16",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Murrumbeena 1",
+      "wins": 10,
+      "points": 87,
+      "percentage": 141.42,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 9,
+      "points": 86.5,
+      "percentage": 176.38,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Royal Ave 1",
+      "wins": 6,
+      "points": 70,
+      "percentage": 115.5,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Murrumbeena 2",
+      "wins": 5,
+      "points": 62,
+      "percentage": 97.09,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong Xavier",
+      "wins": 5,
+      "points": 60.5,
+      "percentage": 92.07,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave 2",
+      "wins": 2,
+      "points": 39,
+      "percentage": 77.98,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Lauriston",
+      "wins": 0,
+      "points": 15,
+      "percentage": 51.92,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA12-UA016",
+  "fixtures": 59,
+  "completed_fixtures": 42,
+  "draw_fixtures": 59,
+  "singles_rubbers": 167,
+  "doubles_rubbers": 82,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

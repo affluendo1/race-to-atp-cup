@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA34-UA005",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2024",
+  "season_id": "UA34",
+  "season_label": "Autumn 2024",
+  "source_section_code": "UA005",
+  "section_label": "Section 5",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World",
+      "wins": 11,
+      "points": 99,
+      "percentage": 141.06,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Kooyong",
+      "wins": 9,
+      "points": 90,
+      "percentage": 115.82,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Highmoor Uniting",
+      "wins": 9,
+      "points": 81,
+      "percentage": 106.7,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "BLTC Blue",
+      "wins": 7,
+      "points": 79,
+      "percentage": 115.38,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kings Park",
+      "wins": 7,
+      "points": 79,
+      "percentage": 113.7,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Highett",
+      "wins": 4,
+      "points": 49,
+      "percentage": 77.51,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park",
+      "wins": 3,
+      "points": 45,
+      "percentage": 75.37,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hurlingham Park",
+      "wins": 3,
+      "points": 38,
+      "percentage": 73.44,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA34-UA005",
+  "fixtures": 59,
+  "completed_fixtures": 59,
+  "draw_fixtures": 59,
+  "singles_rubbers": 236,
+  "doubles_rubbers": 118,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

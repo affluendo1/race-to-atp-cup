@@ -1,0 +1,217 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA026011,02 Feb 25,1,Lauriston,Royal South Yarra,No. 1,Harvey Lam,Charles Curtain,Charles Curtain,6-7,6,7,0,1,Completed,true,false,false
+UA026011,02 Feb 25,1,Lauriston,Royal South Yarra,No. 2,Isabella Chen,Adelaide Parkes,Isabella Chen,6-2,6,2,1,0,Completed,true,true,false
+UA026011,02 Feb 25,1,Lauriston,Royal South Yarra,No. 3,Lachlan So,Angus Lloyd,Lachlan So,6-2,6,2,1,0,Completed,true,false,false
+UA026011,02 Feb 25,1,Lauriston,Royal South Yarra,No. 4,Sofia Klajic,Charlie Richards,Charlie Richards,2-6,2,6,0,1,Completed,true,true,true
+UA026012,02 Feb 25,1,Victory Park,BLTC Blue,No. 1,Talon Zhu,Lawrence Wang,Talon Zhu,6-0,6,0,1,0,Completed,true,false,false
+UA026012,02 Feb 25,1,Victory Park,BLTC Blue,No. 2,Matthew De Fanti,Harriot Gordon,Matthew De Fanti,6-1,6,1,1,0,Completed,true,false,false
+UA026012,02 Feb 25,1,Victory Park,BLTC Blue,No. 3,Alexei Moralis,Tomas Cabrera,Tomas Cabrera,2-6,2,6,0,1,Completed,true,false,false
+UA026012,02 Feb 25,1,Victory Park,BLTC Blue,No. 4,Wayne Zheng,Audrey Du,Wayne Zheng,6-0,6,0,1,0,Completed,true,false,false
+UA026013,02 Feb 25,1,Mentone Gold,Mentone Yellow,No. 1,Nithya Ram Neerukonda,Eden Kopitschinski,Eden Kopitschinski,2-6,2,6,0,1,Completed,true,false,false
+UA026013,02 Feb 25,1,Mentone Gold,Mentone Yellow,No. 2,Emilia Allett,Elise Castillo,Emilia Allett,7-5,7,5,1,0,Completed,true,false,false
+UA026013,02 Feb 25,1,Mentone Gold,Mentone Yellow,No. 3,Mihiki Imbulana,Emilia Wild,Emilia Wild,2-6,2,6,0,1,Completed,true,false,false
+UA026013,02 Feb 25,1,Mentone Gold,Mentone Yellow,No. 4,Isabella Hunjadi,Sophia Edwards,,4-4,4,4,0,0,Completed,false,false,false
+UA026014,02 Feb 25,1,Murrumbeena,St Joan of Arc,No. 1,Taranveer Poonia,Roman Georgas,Roman Georgas,1-6,1,6,0,1,Completed,true,false,false
+UA026014,02 Feb 25,1,Murrumbeena,St Joan of Arc,No. 2,Ivaan Joshi,Monty Coughlan,Ivaan Joshi,6-1,6,1,1,0,Completed,true,false,false
+UA026014,02 Feb 25,1,Murrumbeena,St Joan of Arc,No. 3,Avakamila Ryan,Yu Li,Avakamila Ryan,6-0,6,0,1,0,Completed,true,false,false
+UA026014,02 Feb 25,1,Murrumbeena,St Joan of Arc,No. 4,Ariasofia Ryan,Jack Bull,Ariasofia Ryan,6-0,6,0,1,0,Completed,true,false,false
+UA026021,09 Feb 25,2,St Joan of Arc,Lauriston,No. 1,Roman Georgas,Rina Ema,Rina Ema,4-6,4,6,0,1,Completed,true,false,true
+UA026021,09 Feb 25,2,St Joan of Arc,Lauriston,No. 2,Monty Coughlan,Harvey Lam,Harvey Lam,4-6,4,6,0,1,Completed,true,false,false
+UA026021,09 Feb 25,2,St Joan of Arc,Lauriston,No. 3,Ethan Bower,Lachlan So,Lachlan So,0-6,0,6,0,1,Completed,true,false,false
+UA026021,09 Feb 25,2,St Joan of Arc,Lauriston,No. 4,Jack Bull,Helena Ngu,Jack Bull,6-2,6,2,1,0,Completed,true,false,false
+UA026022,09 Feb 25,2,Royal South Yarra,Victory Park,No. 1,Joshil Adler,Talon Zhu,Joshil Adler,6-4,6,4,1,0,Completed,true,false,false
+UA026022,09 Feb 25,2,Royal South Yarra,Victory Park,No. 2,Adelaide Parkes,Matthew De Fanti,Adelaide Parkes,6-3,6,3,1,0,Completed,true,false,false
+UA026022,09 Feb 25,2,Royal South Yarra,Victory Park,No. 3,Angus Lloyd,Alexei Moralis,Angus Lloyd,6-0,6,0,1,0,Completed,true,false,false
+UA026022,09 Feb 25,2,Royal South Yarra,Victory Park,No. 4,Millie Wilkins,Wayne Zheng,Wayne Zheng,5-7,5,7,0,1,Completed,true,false,false
+UA026023,09 Feb 25,2,BLTC Blue,Mentone Gold,No. 1,Audrey Du,Nithya Ram Neerukonda,Audrey Du,6-3,6,3,1,0,Completed,true,false,false
+UA026023,09 Feb 25,2,BLTC Blue,Mentone Gold,No. 2,Sebastian Smith-Lopez,Emilia Allett,Emilia Allett,3-6,3,6,0,1,Completed,true,false,false
+UA026023,09 Feb 25,2,BLTC Blue,Mentone Gold,No. 3,Mila Comdan,Mihiki Imbulana,Mila Comdan,6-1,6,1,1,0,Completed,true,false,false
+UA026023,09 Feb 25,2,BLTC Blue,Mentone Gold,No. 4,Preston Liu,Qijun Feng,Preston Liu,6-4,6,4,1,0,Completed,true,false,false
+UA026024,09 Feb 25,2,Mentone Yellow,Murrumbeena,No. 1,Eden Kopitschinski,Jagger Hogan,Eden Kopitschinski,6-0,6,0,1,0,Completed,true,false,true
+UA026024,09 Feb 25,2,Mentone Yellow,Murrumbeena,No. 2,Elise Castillo,Taranveer Poonia,Elise Castillo,6-1,6,1,1,0,Completed,true,false,false
+UA026024,09 Feb 25,2,Mentone Yellow,Murrumbeena,No. 3,Ayra Jalan,Ivaan Joshi,Ivaan Joshi,1-6,1,6,0,1,Completed,true,false,false
+UA026024,09 Feb 25,2,Mentone Yellow,Murrumbeena,No. 4,Sophia Edwards,Kiann Nagpal,Kiann Nagpal,3-6,3,6,0,1,Completed,true,false,false
+UA026031,16 Feb 25,3,Lauriston,Mentone Yellow,No. 1,Rina Ema,Eden Kopitschinski,Rina Ema,6-4,6,4,1,0,Completed,true,false,false
+UA026031,16 Feb 25,3,Lauriston,Mentone Yellow,No. 2,Harvey Lam,Elise Castillo,Harvey Lam,6-0,6,0,1,0,Completed,true,false,false
+UA026031,16 Feb 25,3,Lauriston,Mentone Yellow,No. 3,Lev Yakovis,Emilia Wild,Lev Yakovis,6-0,6,0,1,0,Completed,true,false,false
+UA026031,16 Feb 25,3,Lauriston,Mentone Yellow,No. 4,Helena Ngu,Sophia Edwards,Sophia Edwards,4-6,4,6,0,1,Completed,true,false,false
+UA026032,16 Feb 25,3,Victory Park,St Joan of Arc,No. 1,Talon Zhu,Monty Coughlan,Talon Zhu,6-2,6,2,1,0,Completed,true,false,false
+UA026032,16 Feb 25,3,Victory Park,St Joan of Arc,No. 2,Matthew De Fanti,Yu Li,Yu Li,2-6,2,6,0,1,Completed,true,false,false
+UA026032,16 Feb 25,3,Victory Park,St Joan of Arc,No. 3,Alexei Moralis,Ethan Bower,Ethan Bower,1-6,1,6,0,1,Completed,true,false,false
+UA026032,16 Feb 25,3,Victory Park,St Joan of Arc,No. 4,Wayne Zheng,Jack Bull,Jack Bull,0-6,0,6,0,1,Completed,true,false,false
+UA026033,16 Feb 25,3,Mentone Gold,Royal South Yarra,No. 1,Nithya Ram Neerukonda,Joshil Adler,Joshil Adler,1-6,1,6,0,1,Completed,true,false,false
+UA026033,16 Feb 25,3,Mentone Gold,Royal South Yarra,No. 2,Emilia Allett,Charles Curtain,Charles Curtain,1-6,1,6,0,1,Completed,true,false,false
+UA026033,16 Feb 25,3,Mentone Gold,Royal South Yarra,No. 3,Isabella Hunjadi,Angus Lloyd,Angus Lloyd,4-6,4,6,0,1,Completed,true,false,false
+UA026033,16 Feb 25,3,Mentone Gold,Royal South Yarra,No. 4,Qijun Feng,Millie Wilkins,Millie Wilkins,1-6,1,6,0,1,Completed,true,false,false
+UA026041,23 Feb 25,4,BLTC Blue,Lauriston,No. 1,Audrey Du,Harvey Lam,Harvey Lam,2-6,2,6,0,1,Completed,true,false,false
+UA026041,23 Feb 25,4,BLTC Blue,Lauriston,No. 2,Tomas Cabrera,Lachlan So,Lachlan So,1-6,1,6,0,1,Completed,true,false,false
+UA026041,23 Feb 25,4,BLTC Blue,Lauriston,No. 3,Mila Comdan,Lev Yakovis,Lev Yakovis,0-6,0,6,0,1,Completed,true,false,false
+UA026041,23 Feb 25,4,BLTC Blue,Lauriston,No. 4,Preston Liu,Helena Ngu,Helena Ngu,3-6,3,6,0,1,Completed,true,false,false
+UA026042,23 Feb 25,4,Mentone Yellow,Victory Park,No. 1,Eden Kopitschinski,Jean Morillon,Jean Morillon,3-6,3,6,0,1,Completed,true,false,true
+UA026042,23 Feb 25,4,Mentone Yellow,Victory Park,No. 2,Ayra Jalan,Matthew De Fanti,Ayra Jalan,6-4,6,4,1,0,Completed,true,false,false
+UA026042,23 Feb 25,4,Mentone Yellow,Victory Park,No. 3,Emilia Wild,Alexei Moralis,Emilia Wild,6-3,6,3,1,0,Completed,true,false,false
+UA026042,23 Feb 25,4,Mentone Yellow,Victory Park,No. 4,Sophia Edwards,Wayne Zheng,Sophia Edwards,6-1,6,1,1,0,Completed,true,false,false
+UA026043,23 Feb 25,4,St Joan of Arc,Mentone Gold,No. 1,Roman Georgas,Emilia Allett,Roman Georgas,6-1,6,1,1,0,Completed,true,false,false
+UA026043,23 Feb 25,4,St Joan of Arc,Mentone Gold,No. 2,Yu Li,[Unnamed player — TROLS UA026043 away code 2],Yu Li,6-0,6,0,1,0,Completed,false,false,false
+UA026043,23 Feb 25,4,St Joan of Arc,Mentone Gold,No. 3,Ethan Bower,Isabella Hunjadi,Ethan Bower,6-3,6,3,1,0,Completed,true,false,false
+UA026043,23 Feb 25,4,St Joan of Arc,Mentone Gold,No. 4,Jack Bull,Qijun Feng,Jack Bull,6-1,6,1,1,0,Completed,true,false,false
+UA026044,23 Feb 25,4,Royal South Yarra,Murrumbeena,No. 1,Joshil Adler,Ivaan Joshi,Ivaan Joshi,0-6,0,6,0,1,Completed,true,false,false
+UA026044,23 Feb 25,4,Royal South Yarra,Murrumbeena,No. 2,Charles Curtain,Taranveer Poonia,Charles Curtain,6-2,6,2,1,0,Completed,true,false,false
+UA026044,23 Feb 25,4,Royal South Yarra,Murrumbeena,No. 3,Adelaide Parkes,Kiann Nagpal,Kiann Nagpal,3-6,3,6,0,1,Completed,true,false,false
+UA026044,23 Feb 25,4,Royal South Yarra,Murrumbeena,No. 4,Annabel Lin,Finlay Corben,Annabel Lin,7-5,7,5,1,0,Completed,true,false,false
+UA026051,02 Mar 25,5,Mentone Gold,Murrumbeena,No. 1,Nithya Ram Neerukonda,Ariasofia Ryan,Ariasofia Ryan,1-6,1,6,0,1,Completed,true,false,false
+UA026051,02 Mar 25,5,Mentone Gold,Murrumbeena,No. 2,Mihiki Imbulana,Avakamila Ryan,Avakamila Ryan,0-6,0,6,0,1,Completed,true,false,false
+UA026051,02 Mar 25,5,Mentone Gold,Murrumbeena,No. 3,Isabella Hunjadi,Kiann Nagpal,Kiann Nagpal,5-7,5,7,0,1,Completed,true,false,false
+UA026051,02 Mar 25,5,Mentone Gold,Murrumbeena,No. 4,Qijun Feng,Qixiang Chen,Qijun Feng,6-3,6,3,1,0,Completed,true,false,false
+UA026052,02 Mar 25,5,St Joan of Arc,Mentone Yellow,No. 1,Roman Georgas,Elise Castillo,Roman Georgas,6-1,6,1,1,0,Completed,true,false,false
+UA026052,02 Mar 25,5,St Joan of Arc,Mentone Yellow,No. 2,Yu Li,Ayra Jalan,Ayra Jalan,1-6,1,6,0,1,Completed,true,false,false
+UA026052,02 Mar 25,5,St Joan of Arc,Mentone Yellow,No. 3,Ethan Bower,Emilia Wild,Ethan Bower,6-1,6,1,1,0,Completed,true,false,false
+UA026052,02 Mar 25,5,St Joan of Arc,Mentone Yellow,No. 4,Jack Bull,Sophia Edwards,Jack Bull,6-3,6,3,1,0,Completed,true,false,false
+UA026053,02 Mar 25,5,BLTC Blue,Royal South Yarra,No. 1,Audrey Du,Joshil Adler,Joshil Adler,1-6,1,6,0,1,Completed,true,false,false
+UA026053,02 Mar 25,5,BLTC Blue,Royal South Yarra,No. 2,Harriot Gordon,Adelaide Parkes,Adelaide Parkes,1-6,1,6,0,1,Completed,true,false,false
+UA026053,02 Mar 25,5,BLTC Blue,Royal South Yarra,No. 3,Tomas Cabrera,Annabel Lin,Tomas Cabrera,6-3,6,3,1,0,Completed,true,false,false
+UA026053,02 Mar 25,5,BLTC Blue,Royal South Yarra,No. 4,Lawrence Wang,Angus Lloyd,Angus Lloyd,1-6,1,6,0,1,Completed,true,false,false
+UA026054,02 Mar 25,5,Lauriston,Victory Park,No. 1,Harvey Lam,Talon Zhu,Harvey Lam,6-4,6,4,1,0,Completed,true,false,false
+UA026054,02 Mar 25,5,Lauriston,Victory Park,No. 2,Lachlan So,Matthew De Fanti,Lachlan So,6-2,6,2,1,0,Completed,true,false,false
+UA026054,02 Mar 25,5,Lauriston,Victory Park,No. 3,Lev Yakovis,Alexei Moralis,Lev Yakovis,6-2,6,2,1,0,Completed,true,false,false
+UA026054,02 Mar 25,5,Lauriston,Victory Park,No. 4,Helena Ngu,Wayne Zheng,Helena Ngu,6-3,6,3,1,0,Completed,true,false,false
+UA026071,23 Mar 25,7,Lauriston,Mentone Gold,No. 1,Rina Ema,Emilia Allett,Rina Ema,6-1,6,1,1,0,Completed,true,false,false
+UA026071,23 Mar 25,7,Lauriston,Mentone Gold,No. 2,Harvey Lam,Isabella Hunjadi,Harvey Lam,6-1,6,1,1,0,Completed,true,false,false
+UA026071,23 Mar 25,7,Lauriston,Mentone Gold,No. 3,Lachlan So,Qijun Feng,Lachlan So,7-6,7,6,1,0,Completed,true,false,false
+UA026071,23 Mar 25,7,Lauriston,Mentone Gold,No. 4,Helena Ngu,Eli Drewe,Eli Drewe,4-6,4,6,0,1,Completed,true,false,true
+UA026072,23 Mar 25,7,Victory Park,Murrumbeena,No. 1,Talon Zhu,Taranveer Poonia,Talon Zhu,6-3,6,3,1,0,Completed,true,false,false
+UA026072,23 Mar 25,7,Victory Park,Murrumbeena,No. 2,Matthew De Fanti,Kiann Nagpal,Kiann Nagpal,4-6,4,6,0,1,Completed,true,false,false
+UA026072,23 Mar 25,7,Victory Park,Murrumbeena,No. 3,Viyan Mani,Finlay Corben,Viyan Mani,6-0,6,0,1,0,Completed,true,false,false
+UA026072,23 Mar 25,7,Victory Park,Murrumbeena,No. 4,Wayne Zheng,Kiaan Patel,Kiaan Patel,2-6,2,6,0,1,Completed,true,false,false
+UA026073,23 Mar 25,7,St Joan of Arc,BLTC Blue,No. 1,Roman Georgas,Audrey Du,Roman Georgas,6-2,6,2,1,0,Completed,true,false,false
+UA026073,23 Mar 25,7,St Joan of Arc,BLTC Blue,No. 2,Monty Coughlan,Tomas Cabrera,Monty Coughlan,6-1,6,1,1,0,Completed,true,false,false
+UA026073,23 Mar 25,7,St Joan of Arc,BLTC Blue,No. 3,Yu Li,Lawrence Wang,Yu Li,6-2,6,2,1,0,Completed,true,false,false
+UA026073,23 Mar 25,7,St Joan of Arc,BLTC Blue,No. 4,Ethan Bower,Preston Liu,Ethan Bower,6-4,6,4,1,0,Completed,true,false,false
+UA026074,23 Mar 25,7,Mentone Yellow,Royal South Yarra,No. 1,Eden Kopitschinski,Joshil Adler,Eden Kopitschinski,7-5,7,5,1,0,Completed,true,false,false
+UA026074,23 Mar 25,7,Mentone Yellow,Royal South Yarra,No. 2,Elise Castillo,Adelaide Parkes,Elise Castillo,6-1,6,1,1,0,Completed,true,false,false
+UA026074,23 Mar 25,7,Mentone Yellow,Royal South Yarra,No. 3,Ayra Jalan,Annabel Lin,Ayra Jalan,6-0,6,0,1,0,Completed,true,false,false
+UA026074,23 Mar 25,7,Mentone Yellow,Royal South Yarra,No. 4,Emilia Wild,Millie Wilkins,Millie Wilkins,3-6,3,6,0,1,Completed,true,false,false
+UA026081,30 Mar 25,8,Royal South Yarra,Lauriston,No. 1,Adelaide Parkes,Rina Ema,Rina Ema,1-6,1,6,0,1,Completed,true,false,false
+UA026081,30 Mar 25,8,Royal South Yarra,Lauriston,No. 2,Annabel Lin,Harvey Lam,Harvey Lam,1-6,1,6,0,1,Completed,true,false,false
+UA026081,30 Mar 25,8,Royal South Yarra,Lauriston,No. 3,Angus Lloyd,Lev Yakovis,Lev Yakovis,3-6,3,6,0,1,Completed,true,false,false
+UA026081,30 Mar 25,8,Royal South Yarra,Lauriston,No. 4,Charlie Richards,Helena Ngu,Charlie Richards,6-1,6,1,1,0,Completed,true,true,false
+UA026082,30 Mar 25,8,BLTC Blue,Victory Park,No. 1,Audrey Du,Talon Zhu,Talon Zhu,2-6,2,6,0,1,Completed,true,false,false
+UA026082,30 Mar 25,8,BLTC Blue,Victory Park,No. 2,Sebastian Smith-Lopez,Viyan Mani,Viyan Mani,4-6,4,6,0,1,Completed,true,false,false
+UA026082,30 Mar 25,8,BLTC Blue,Victory Park,No. 3,Mila Comdan,Alexei Moralis,Mila Comdan,6-3,6,3,1,0,Completed,true,false,false
+UA026082,30 Mar 25,8,BLTC Blue,Victory Park,No. 4,Lawrence Wang,Wayne Zheng,Lawrence Wang,6-4,6,4,1,0,Completed,true,false,false
+UA026083,30 Mar 25,8,Mentone Yellow,Mentone Gold,No. 1,Eden Kopitschinski,Nithya Ram Neerukonda,Eden Kopitschinski,6-1,6,1,1,0,Completed,true,false,false
+UA026083,30 Mar 25,8,Mentone Yellow,Mentone Gold,No. 2,Ayra Jalan,Mihiki Imbulana,Ayra Jalan,6-0,6,0,1,0,Completed,true,false,false
+UA026083,30 Mar 25,8,Mentone Yellow,Mentone Gold,No. 3,Emilia Wild,Isabella Hunjadi,Isabella Hunjadi,6-7,6,7,0,1,Completed,true,false,false
+UA026083,30 Mar 25,8,Mentone Yellow,Mentone Gold,No. 4,Sophia Edwards,Qijun Feng,Sophia Edwards,6-4,6,4,1,0,Completed,true,false,false
+UA026084,30 Mar 25,8,St Joan of Arc,Murrumbeena,No. 1,Roman Georgas,Ivaan Joshi,Ivaan Joshi,5-7,5,7,0,1,Completed,true,false,false
+UA026084,30 Mar 25,8,St Joan of Arc,Murrumbeena,No. 2,Monty Coughlan,Ariasofia Ryan,Ariasofia Ryan,0-6,0,6,0,1,Completed,true,false,false
+UA026084,30 Mar 25,8,St Joan of Arc,Murrumbeena,No. 3,Yu Li,Avakamila Ryan,Avakamila Ryan,1-6,1,6,0,1,Completed,true,false,false
+UA026084,30 Mar 25,8,St Joan of Arc,Murrumbeena,No. 4,Ethan Bower,Kiaan Patel,Kiaan Patel,4-6,4,6,0,1,Completed,true,false,false
+UA026091,04 May 25,9,Lauriston,St Joan of Arc,No. 1,Rina Ema,Roman Georgas,Rina Ema,6-1,6,1,1,0,Completed,true,false,false
+UA026091,04 May 25,9,Lauriston,St Joan of Arc,No. 2,Lachlan So,Jackson Rutten,Jackson Rutten,2-6,2,6,0,1,Completed,true,false,false
+UA026091,04 May 25,9,Lauriston,St Joan of Arc,No. 3,Lev Yakovis,Yu Li,Yu Li,0-6,0,6,0,1,Completed,true,false,false
+UA026091,04 May 25,9,Lauriston,St Joan of Arc,No. 4,Helena Ngu,Ethan Bower,Ethan Bower,4-6,4,6,0,1,Completed,true,false,false
+UA026092,04 May 25,9,Victory Park,Royal South Yarra,No. 1,Talon Zhu,Joshil Adler,Talon Zhu,7-5,7,5,1,0,Completed,true,false,false
+UA026092,04 May 25,9,Victory Park,Royal South Yarra,No. 2,Matthew De Fanti,Charles Curtain,Charles Curtain,6-7,6,7,0,1,Completed,true,false,false
+UA026092,04 May 25,9,Victory Park,Royal South Yarra,No. 3,Alexei Moralis,Annabel Lin,Annabel Lin,4-6,4,6,0,1,Completed,true,false,false
+UA026092,04 May 25,9,Victory Park,Royal South Yarra,No. 4,Viyan Mani,Angus Lloyd,Viyan Mani,6-3,6,3,1,0,Completed,true,false,false
+UA026093,04 May 25,9,Mentone Gold,BLTC Blue,No. 1,Nithya Ram Neerukonda,Audrey Du,Audrey Du,1-6,1,6,0,1,Completed,true,false,false
+UA026093,04 May 25,9,Mentone Gold,BLTC Blue,No. 2,Mihiki Imbulana,Harriot Gordon,Harriot Gordon,3-6,3,6,0,1,Completed,true,false,false
+UA026093,04 May 25,9,Mentone Gold,BLTC Blue,No. 3,Isabella Hunjadi,Tomas Cabrera,Isabella Hunjadi,6-4,6,4,1,0,Completed,true,false,false
+UA026093,04 May 25,9,Mentone Gold,BLTC Blue,No. 4,Qijun Feng,Sebastian Smith-Lopez,Sebastian Smith-Lopez,2-6,2,6,0,1,Completed,true,false,false
+UA026094,04 May 25,9,Murrumbeena,Mentone Yellow,No. 1,Ariasofia Ryan,Eden Kopitschinski,Eden Kopitschinski,5-7,5,7,0,1,Completed,true,false,false
+UA026094,04 May 25,9,Murrumbeena,Mentone Yellow,No. 2,Avakamila Ryan,Ayra Jalan,Avakamila Ryan,6-2,6,2,1,0,Completed,true,false,false
+UA026094,04 May 25,9,Murrumbeena,Mentone Yellow,No. 3,Kiann Nagpal,Emilia Wild,Kiann Nagpal,6-1,6,1,1,0,Completed,true,false,false
+UA026094,04 May 25,9,Murrumbeena,Mentone Yellow,No. 4,Qixiang Chen,Riley Pavicic,Riley Pavicic,2-6,2,6,0,1,Completed,true,false,false
+UA026101,11 May 25,10,Mentone Yellow,Lauriston,No. 1,Eden Kopitschinski,Lev Yakovis,Eden Kopitschinski,6-0,6,0,1,0,Completed,true,false,false
+UA026101,11 May 25,10,Mentone Yellow,Lauriston,No. 2,Elise Castillo,Harvey Lam,Elise Castillo,6-0,6,0,1,0,Completed,true,false,false
+UA026101,11 May 25,10,Mentone Yellow,Lauriston,No. 3,Ayra Jalan,Lachlan So,Lachlan So,2-6,2,6,0,1,Completed,true,false,false
+UA026101,11 May 25,10,Mentone Yellow,Lauriston,No. 4,Riley Pavicic,Helena Ngu,Helena Ngu,1-6,1,6,0,1,Completed,true,false,false
+UA026102,11 May 25,10,St Joan of Arc,Victory Park,No. 1,Jackson Rutten,Evan Zhou,Jackson Rutten,6-4,6,4,1,0,Completed,true,false,false
+UA026102,11 May 25,10,St Joan of Arc,Victory Park,No. 2,Yu Li,Matthew De Fanti,Yu Li,6-4,6,4,1,0,Completed,true,false,false
+UA026102,11 May 25,10,St Joan of Arc,Victory Park,No. 3,Ethan Bower,Alexei Moralis,Ethan Bower,6-3,6,3,1,0,Completed,true,false,false
+UA026102,11 May 25,10,St Joan of Arc,Victory Park,No. 4,Luca Matta,Wayne Zheng,Wayne Zheng,1-6,1,6,0,1,Completed,true,false,false
+UA026103,11 May 25,10,Royal South Yarra,Mentone Gold,No. 1,Joshil Adler,Nithya Ram Neerukonda,Joshil Adler,6-1,6,1,1,0,Completed,true,false,false
+UA026103,11 May 25,10,Royal South Yarra,Mentone Gold,No. 2,Adelaide Parkes,Emilia Allett,Adelaide Parkes,7-5,7,5,1,0,Completed,true,false,false
+UA026103,11 May 25,10,Royal South Yarra,Mentone Gold,No. 3,Angus Lloyd,Mihiki Imbulana,Angus Lloyd,6-3,6,3,1,0,Completed,true,false,false
+UA026103,11 May 25,10,Royal South Yarra,Mentone Gold,No. 4,Millie Wilkins,Isabella Hunjadi,Isabella Hunjadi,4-6,4,6,0,1,Completed,true,false,false
+UA026104,11 May 25,10,BLTC Blue,Murrumbeena,No. 1,Audrey Du,Ivaan Joshi,Ivaan Joshi,1-6,1,6,0,1,Completed,true,false,false
+UA026104,11 May 25,10,BLTC Blue,Murrumbeena,No. 2,Sebastian Smith-Lopez,Taranveer Poonia,Taranveer Poonia,6-7,6,7,0,1,Completed,true,false,false
+UA026104,11 May 25,10,BLTC Blue,Murrumbeena,No. 3,Mila Comdan,Kiann Nagpal,Kiann Nagpal,3-6,3,6,0,1,Completed,true,false,false
+UA026104,11 May 25,10,BLTC Blue,Murrumbeena,No. 4,Lawrence Wang,Finlay Corben,Lawrence Wang,6-1,6,1,1,0,Completed,true,false,false
+UA026111,18 May 25,11,Lauriston,BLTC Blue,No. 1,Rina Ema,Audrey Du,Rina Ema,6-1,6,1,1,0,Completed,true,false,false
+UA026111,18 May 25,11,Lauriston,BLTC Blue,No. 2,Harvey Lam,Tomas Cabrera,Harvey Lam,6-3,6,3,1,0,Completed,true,false,false
+UA026111,18 May 25,11,Lauriston,BLTC Blue,No. 3,Lachlan So,Mila Comdan,Lachlan So,6-1,6,1,1,0,Completed,true,false,false
+UA026111,18 May 25,11,Lauriston,BLTC Blue,No. 4,Helena Ngu,Preston Liu,Helena Ngu,6-2,6,2,1,0,Completed,true,false,false
+UA026112,18 May 25,11,Victory Park,Mentone Yellow,No. 1,Talon Zhu,Eden Kopitschinski,Talon Zhu,7-6,7,6,1,0,Completed,true,false,false
+UA026112,18 May 25,11,Victory Park,Mentone Yellow,No. 2,Evan Zhou,Elise Castillo,Evan Zhou,6-4,6,4,1,0,Completed,true,false,false
+UA026112,18 May 25,11,Victory Park,Mentone Yellow,No. 3,Viyan Mani,Emilia Wild,Viyan Mani,6-0,6,0,1,0,Completed,true,false,false
+UA026112,18 May 25,11,Victory Park,Mentone Yellow,No. 4,Wayne Zheng,Isobel Gumbrell,Wayne Zheng,6-2,6,2,1,0,Completed,true,false,true
+UA026113,18 May 25,11,Mentone Gold,St Joan of Arc,No. 1,Emilia Allett,Jackson Rutten,Jackson Rutten,1-6,1,6,0,1,Completed,true,false,false
+UA026113,18 May 25,11,Mentone Gold,St Joan of Arc,No. 2,Isabella Hunjadi,Yu Li,Yu Li,1-6,1,6,0,1,Completed,true,false,false
+UA026113,18 May 25,11,Mentone Gold,St Joan of Arc,No. 3,Qijun Feng,Ethan Bower,Ethan Bower,0-6,0,6,0,1,Completed,true,false,false
+UA026113,18 May 25,11,Mentone Gold,St Joan of Arc,No. 4,Tanya Yu,Luca Matta,Luca Matta,1-6,1,6,0,1,Completed,true,true,false
+UA026114,18 May 25,11,Murrumbeena,Royal South Yarra,No. 1,Ivaan Joshi,Charlie Richards,Ivaan Joshi,6-3,6,3,1,0,Completed,true,false,true
+UA026114,18 May 25,11,Murrumbeena,Royal South Yarra,No. 2,Ariasofia Ryan,Adelaide Parkes,Ariasofia Ryan,6-0,6,0,1,0,Completed,true,false,false
+UA026114,18 May 25,11,Murrumbeena,Royal South Yarra,No. 3,Avakamila Ryan,Annabel Lin,Avakamila Ryan,6-1,6,1,1,0,Completed,true,false,false
+UA026114,18 May 25,11,Murrumbeena,Royal South Yarra,No. 4,Kiaan Patel,Angus Lloyd,Kiaan Patel,6-2,6,2,1,0,Completed,true,false,false
+UA026121,25 May 25,12,Murrumbeena,Mentone Gold,No. 1,Ivaan Joshi,Isabella Hunjadi,Ivaan Joshi,6-3,6,3,1,0,Completed,true,false,false
+UA026121,25 May 25,12,Murrumbeena,Mentone Gold,No. 2,Kiann Nagpal,Mihiki Imbulana,Kiann Nagpal,6-0,6,0,1,0,Completed,true,false,false
+UA026121,25 May 25,12,Murrumbeena,Mentone Gold,No. 3,Finlay Corben,Nithya Ram Neerukonda,Finlay Corben,6-0,6,0,1,0,Completed,true,false,false
+UA026121,25 May 25,12,Murrumbeena,Mentone Gold,No. 4,Qixiang Chen,Qijun Feng,Qijun Feng,2-6,2,6,0,1,Completed,true,false,false
+UA026122,25 May 25,12,Mentone Yellow,St Joan of Arc,No. 1,Elise Castillo,Roman Georgas,Roman Georgas,2-6,2,6,0,1,Completed,true,false,false
+UA026122,25 May 25,12,Mentone Yellow,St Joan of Arc,No. 2,Ayra Jalan,Jackson Rutten,Jackson Rutten,0-6,0,6,0,1,Completed,true,false,false
+UA026122,25 May 25,12,Mentone Yellow,St Joan of Arc,No. 3,Emilia Wild,Yu Li,Yu Li,4-6,4,6,0,1,Completed,true,false,false
+UA026122,25 May 25,12,Mentone Yellow,St Joan of Arc,No. 4,Riley Pavicic,Ethan Bower,Ethan Bower,3-6,3,6,0,1,Completed,true,false,false
+UA026123,25 May 25,12,Royal South Yarra,BLTC Blue,No. 1,Joshil Adler,Audrey Du,Joshil Adler,6-4,6,4,1,0,Completed,true,false,false
+UA026123,25 May 25,12,Royal South Yarra,BLTC Blue,No. 2,Adelaide Parkes,Tomas Cabrera,Adelaide Parkes,6-2,6,2,1,0,Completed,true,false,false
+UA026123,25 May 25,12,Royal South Yarra,BLTC Blue,No. 3,Annabel Lin,Lawrence Wang,Annabel Lin,6-1,6,1,1,0,Completed,true,false,false
+UA026123,25 May 25,12,Royal South Yarra,BLTC Blue,No. 4,Millie Wilkins,Ashlyn Tan,Ashlyn Tan,0-6,0,6,0,1,Completed,true,false,true
+UA026124,25 May 25,12,Victory Park,Lauriston,No. 1,Evan Zhou,Rina Ema,Rina Ema,1-6,1,6,0,1,Completed,true,false,false
+UA026124,25 May 25,12,Victory Park,Lauriston,No. 2,Matthew De Fanti,Harvey Lam,Harvey Lam,4-6,4,6,0,1,Completed,true,false,false
+UA026124,25 May 25,12,Victory Park,Lauriston,No. 3,Viyan Mani,Lachlan So,Lachlan So,3-6,3,6,0,1,Completed,true,false,false
+UA026124,25 May 25,12,Victory Park,Lauriston,No. 4,Alexei Moralis,Helena Ngu,Helena Ngu,3-6,3,6,0,1,Completed,true,false,false
+UA026131,01 Jun 25,13,Mentone Gold,Victory Park,No. 1,Nithya Ram Neerukonda,Talon Zhu,Talon Zhu,5-7,5,7,0,1,Completed,true,false,false
+UA026131,01 Jun 25,13,Mentone Gold,Victory Park,No. 2,Emilia Allett,Evan Zhou,Evan Zhou,1-6,1,6,0,1,Completed,true,false,false
+UA026131,01 Jun 25,13,Mentone Gold,Victory Park,No. 3,Isabella Hunjadi,Alexei Moralis,Alexei Moralis,1-6,1,6,0,1,Completed,true,false,false
+UA026131,01 Jun 25,13,Mentone Gold,Victory Park,No. 4,Qijun Feng,Wayne Zheng,Wayne Zheng,4-6,4,6,0,1,Completed,true,false,false
+UA026132,01 Jun 25,13,Lauriston,Murrumbeena,No. 1,Rina Ema,Ariasofia Ryan,Rina Ema,7-5,7,5,1,0,Completed,true,false,false
+UA026132,01 Jun 25,13,Lauriston,Murrumbeena,No. 2,Harvey Lam,Avakamila Ryan,Avakamila Ryan,2-6,2,6,0,1,Completed,true,false,false
+UA026132,01 Jun 25,13,Lauriston,Murrumbeena,No. 3,Lachlan So,Kiann Nagpal,Kiann Nagpal,1-6,1,6,0,1,Completed,true,false,false
+UA026132,01 Jun 25,13,Lauriston,Murrumbeena,No. 4,Helena Ngu,Kiaan Patel,Kiaan Patel,1-6,1,6,0,1,Completed,true,false,false
+UA026133,01 Jun 25,13,BLTC Blue,Mentone Yellow,No. 1,Audrey Du,Eden Kopitschinski,Eden Kopitschinski,1-6,1,6,0,1,Completed,true,false,false
+UA026133,01 Jun 25,13,BLTC Blue,Mentone Yellow,No. 2,Tomas Cabrera,Elise Castillo,Elise Castillo,3-6,3,6,0,1,Completed,true,false,false
+UA026133,01 Jun 25,13,BLTC Blue,Mentone Yellow,No. 3,Mila Comdan,Ayra Jalan,Ayra Jalan,1-6,1,6,0,1,Completed,true,false,false
+UA026133,01 Jun 25,13,BLTC Blue,Mentone Yellow,No. 4,Lawrence Wang,Sophia Edwards,Sophia Edwards,6-7,6,7,0,1,Completed,true,false,false
+UA026134,01 Jun 25,13,St Joan of Arc,Royal South Yarra,No. 1,Roman Georgas,Joshil Adler,Roman Georgas,6-3,6,3,1,0,Completed,true,false,false
+UA026134,01 Jun 25,13,St Joan of Arc,Royal South Yarra,No. 2,Jackson Rutten,Adelaide Parkes,Jackson Rutten,6-1,6,1,1,0,Completed,true,false,false
+UA026134,01 Jun 25,13,St Joan of Arc,Royal South Yarra,No. 3,Yu Li,Angus Lloyd,Angus Lloyd,4-6,4,6,0,1,Completed,true,false,false
+UA026134,01 Jun 25,13,St Joan of Arc,Royal South Yarra,No. 4,Luca Matta,Millie Wilkins,Millie Wilkins,1-6,1,6,0,1,Completed,true,false,false
+UA026141,15 Jun 25,14,Mentone Gold,Lauriston,No. 1,Nithya Ram Neerukonda,Rina Ema,Rina Ema,1-6,1,6,0,1,Completed,true,false,false
+UA026141,15 Jun 25,14,Mentone Gold,Lauriston,No. 2,Emilia Allett,Harvey Lam,Harvey Lam,4-6,4,6,0,1,Completed,true,false,false
+UA026141,15 Jun 25,14,Mentone Gold,Lauriston,No. 3,[Unnamed player — TROLS UA026141 home code 3],Lachlan So,Lachlan So,0-6,0,6,0,1,Completed,false,false,false
+UA026141,15 Jun 25,14,Mentone Gold,Lauriston,No. 4,Qijun Feng,Helena Ngu,Helena Ngu,2-6,2,6,0,1,Completed,true,false,false
+UA026142,15 Jun 25,14,Murrumbeena,Victory Park,No. 1,Ivaan Joshi,Talon Zhu,Ivaan Joshi,6-2,6,2,1,0,Completed,true,false,false
+UA026142,15 Jun 25,14,Murrumbeena,Victory Park,No. 2,Taranveer Poonia,Evan Zhou,Taranveer Poonia,6-4,6,4,1,0,Completed,true,false,false
+UA026142,15 Jun 25,14,Murrumbeena,Victory Park,No. 3,Kiaan Patel,Matthew De Fanti,Kiaan Patel,6-3,6,3,1,0,Completed,true,false,false
+UA026142,15 Jun 25,14,Murrumbeena,Victory Park,No. 4,Qixiang Chen,Wayne Zheng,Wayne Zheng,0-6,0,6,0,1,Completed,true,false,false
+UA026143,15 Jun 25,14,BLTC Blue,St Joan of Arc,No. 1,Audrey Du,Jackson Rutten,Jackson Rutten,1-6,1,6,0,1,Completed,true,false,false
+UA026143,15 Jun 25,14,BLTC Blue,St Joan of Arc,No. 2,Mila Comdan,Yu Li,Yu Li,0-6,0,6,0,1,Completed,true,false,false
+UA026143,15 Jun 25,14,BLTC Blue,St Joan of Arc,No. 3,Sebastian Smith-Lopez,Ethan Bower,Ethan Bower,3-6,3,6,0,1,Completed,true,false,false
+UA026143,15 Jun 25,14,BLTC Blue,St Joan of Arc,No. 4,Preston Liu,Luca Matta,Luca Matta,0-6,0,6,0,1,Completed,true,false,false
+UA026144,15 Jun 25,14,Royal South Yarra,Mentone Yellow,No. 1,Joshil Adler,Elise Castillo,Joshil Adler,7-6,7,6,1,0,Completed,true,false,false
+UA026144,15 Jun 25,14,Royal South Yarra,Mentone Yellow,No. 2,Charles Curtain,Ayra Jalan,Charles Curtain,6-4,6,4,1,0,Completed,true,false,false
+UA026144,15 Jun 25,14,Royal South Yarra,Mentone Yellow,No. 3,Angus Lloyd,Emilia Wild,Angus Lloyd,6-3,6,3,1,0,Completed,true,false,false
+UA026144,15 Jun 25,14,Royal South Yarra,Mentone Yellow,No. 4,Millie Wilkins,Riley Pavicic,Riley Pavicic,2-6,2,6,0,1,Completed,true,false,false
+UA026301,,16,Murrumbeena,Royal South Yarra,No. 1,Ivaan Joshi,Joshil Adler,Ivaan Joshi,6-0,6,0,1,0,Completed,true,false,false
+UA026301,,16,Murrumbeena,Royal South Yarra,No. 2,Kiann Nagpal,[Unnamed player — TROLS UA026301 away code 2],Kiann Nagpal,6-0,6,0,1,0,Completed,false,false,false
+UA026301,,16,Murrumbeena,Royal South Yarra,No. 3,Kiaan Patel,Angus Lloyd,Angus Lloyd,2-6,2,6,0,1,Completed,true,false,false
+UA026301,,16,Murrumbeena,Royal South Yarra,No. 4,Finlay Corben,Millie Wilkins,Millie Wilkins,3-6,3,6,0,1,Completed,true,false,false
+UA026302,,16,Lauriston,St Joan of Arc,No. 1,Rina Ema,Roman Georgas,Roman Georgas,4-6,4,6,0,1,Completed,true,false,false
+UA026302,,16,Lauriston,St Joan of Arc,No. 2,Harvey Lam,Jackson Rutten,Harvey Lam,6-3,6,3,1,0,Completed,true,false,false
+UA026302,,16,Lauriston,St Joan of Arc,No. 3,Lachlan So,Yu Li,Yu Li,3-6,3,6,0,1,Completed,true,false,false
+UA026302,,16,Lauriston,St Joan of Arc,No. 4,Helena Ngu,Jack Bull,Jack Bull,4-6,4,6,0,1,Completed,true,false,false
+UA026321,,17,Murrumbeena,St Joan of Arc,No. 1,Ivaan Joshi,Roman Georgas,Ivaan Joshi,7-5,7,5,1,0,Completed,true,false,false
+UA026321,,17,Murrumbeena,St Joan of Arc,No. 2,Taranveer Poonia,Jackson Rutten,Jackson Rutten,1-6,1,6,0,1,Completed,true,false,false
+UA026321,,17,Murrumbeena,St Joan of Arc,No. 3,Kiann Nagpal,Yu Li,Kiann Nagpal,6-3,6,3,1,0,Completed,true,false,false
+UA026321,,17,Murrumbeena,St Joan of Arc,No. 4,Kiaan Patel,Ethan Bower,Ethan Bower,6-7,6,7,0,1,Completed,true,false,false

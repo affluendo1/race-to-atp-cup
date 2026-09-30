@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA27-UA021",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2020",
+  "season_id": "UA27",
+  "season_label": "Spring 2020",
+  "source_section_code": "UA021",
+  "section_label": "Section 21",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park 1",
+      "wins": 5,
+      "points": 50,
+      "percentage": 258.44,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Le Page",
+      "wins": 5,
+      "points": 48,
+      "percentage": 162.0,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kings Park 2",
+      "wins": 3,
+      "points": 33,
+      "percentage": 113.99,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Parkdale",
+      "wins": 3,
+      "points": 32,
+      "percentage": 109.66,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Victory Park",
+      "wins": 3,
+      "points": 30,
+      "percentage": 98.2,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave",
+      "wins": 2,
+      "points": 23,
+      "percentage": 76.88,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Murrumbeena",
+      "wins": 1,
+      "points": 16,
+      "percentage": 65.75,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal South Yarra",
+      "wins": 0,
+      "points": 8,
+      "percentage": 34.3,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA27-UA021",
+  "fixtures": 24,
+  "completed_fixtures": 23,
+  "draw_fixtures": 56,
+  "singles_rubbers": 92,
+  "doubles_rubbers": 46,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

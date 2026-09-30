@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA37-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2025",
+  "season_id": "UA37",
+  "season_label": "Spring 2025",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Murrumbeena",
+      "wins": 10,
+      "points": 97,
+      "percentage": 135.23,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Hurlingham Park",
+      "wins": 8,
+      "points": 82,
+      "percentage": 112.85,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Lauriston",
+      "wins": 8,
+      "points": 78,
+      "percentage": 112.38,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Le Page",
+      "wins": 7,
+      "points": 76,
+      "percentage": 104.11,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St Andrews MB",
+      "wins": 6,
+      "points": 73,
+      "percentage": 101.94,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Black Rock",
+      "wins": 6,
+      "points": 69,
+      "percentage": 100.0,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Elsternwick Park",
+      "wins": 2,
+      "points": 43,
+      "percentage": 78.41,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong",
+      "wins": 3,
+      "points": 42,
+      "percentage": 69.79,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA37-UA014",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

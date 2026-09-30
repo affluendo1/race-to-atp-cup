@@ -1,0 +1,197 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA012011,17 Jul 16,1,Kings Park,Middle Brighton,No. 1,Shaun Heenan,Annika Widmann,Shaun Heenan,6-4,6,4,1,0,Completed,true,false,false
+UA012011,17 Jul 16,1,Kings Park,Middle Brighton,No. 2,Aaron Chauman,Kristen Leung,Kristen Leung,1-6,1,6,0,1,Completed,true,false,false
+UA012011,17 Jul 16,1,Kings Park,Middle Brighton,No. 3,Bora Ith,Piper Gibbs,Bora Ith,6-1,6,1,1,0,Completed,true,false,false
+UA012011,17 Jul 16,1,Kings Park,Middle Brighton,No. 4,Micaela Nochomivitz,Freya Edselius,Freya Edselius,1-6,1,6,0,1,Completed,true,false,false
+UA012012,17 Jul 16,1,BLTC,Lauriston,No. 1,Olivia Moir,Chelsea Bria,Olivia Moir,6-3,6,3,1,0,Completed,true,false,false
+UA012012,17 Jul 16,1,BLTC,Lauriston,No. 2,Olivia Biviano,Atharva Kandula,Olivia Biviano,6-0,6,0,1,0,Completed,true,false,false
+UA012012,17 Jul 16,1,BLTC,Lauriston,No. 3,Isabella Nicolis,Thiruavani Arunachalam,Isabella Nicolis,7-6,7,6,1,0,Completed,true,false,false
+UA012012,17 Jul 16,1,BLTC,Lauriston,No. 4,Lily Pearce,Arron Nazaretian,Lily Pearce,6-2,6,2,1,0,Completed,true,false,false
+UA012013,17 Jul 16,1,Tennis World,Coatesville,No. 1,Maria Francesca Cascino,Joanna Kozbanis,Joanna Kozbanis,2-6,2,6,0,1,Completed,true,false,false
+UA012013,17 Jul 16,1,Tennis World,Coatesville,No. 2,Rai Caderamenpulle,Sam Jones,Sam Jones,4-6,4,6,0,1,Completed,true,false,false
+UA012013,17 Jul 16,1,Tennis World,Coatesville,No. 3,Bill Ren,Trent Misquitta,Trent Misquitta,0-6,0,6,0,1,Completed,true,false,false
+UA012013,17 Jul 16,1,Tennis World,Coatesville,No. 4,Isabel Dureau,Yarden Laschover,Yarden Laschover,2-6,2,6,0,1,Completed,true,false,false
+UA012014,17 Jul 16,1,Kooyong St Kevin's,Maccabi,No. 1,Eliza Szwarcberg,Bradley Bergman,Eliza Szwarcberg,6-2,6,2,1,0,Completed,true,false,false
+UA012014,17 Jul 16,1,Kooyong St Kevin's,Maccabi,No. 2,Harriet Dicks,Nathan Needleman,Nathan Needleman,1-6,1,6,0,1,Completed,true,false,false
+UA012014,17 Jul 16,1,Kooyong St Kevin's,Maccabi,No. 3,[Unnamed player — TROLS UA012014 home code 3],Bradon Pager,Bradon Pager,0-6,0,6,0,1,Completed,false,false,false
+UA012014,17 Jul 16,1,Kooyong St Kevin's,Maccabi,No. 4,Alexandra Hershan,Joshua Jane,Joshua Jane,0-6,0,6,0,1,Completed,true,false,false
+UA012021,24 Jul 16,2,Maccabi,Kings Park,No. 1,Bradley Bergman,Sam Fritzlaff,Sam Fritzlaff,2-6,2,6,0,1,Completed,true,false,false
+UA012021,24 Jul 16,2,Maccabi,Kings Park,No. 2,Nathan Needleman,Shaun Heenan,Nathan Needleman,6-0,6,0,1,0,Completed,true,false,false
+UA012021,24 Jul 16,2,Maccabi,Kings Park,No. 3,Bradon Pager,Chloe Eden,Bradon Pager,6-2,6,2,1,0,Completed,true,false,false
+UA012021,24 Jul 16,2,Maccabi,Kings Park,No. 4,Joshua Jane,Micaela Nochomivitz,Micaela Nochomivitz,4-6,4,6,0,1,Completed,true,false,false
+UA012022,24 Jul 16,2,Middle Brighton,BLTC,No. 1,Kristen Leung,Olivia Biviano,Kristen Leung,6-1,6,1,1,0,Completed,true,false,false
+UA012022,24 Jul 16,2,Middle Brighton,BLTC,No. 2,Piper Gibbs,Lily Pearce,Piper Gibbs,6-4,6,4,1,0,Completed,true,false,false
+UA012022,24 Jul 16,2,Middle Brighton,BLTC,No. 3,Freya Edselius,Isabella Nicolis,Freya Edselius,6-1,6,1,1,0,Completed,true,false,false
+UA012022,24 Jul 16,2,Middle Brighton,BLTC,No. 4,Hazel Lapitan,Alexie Briggs,Alexie Briggs,0-6,0,6,0,1,Completed,true,false,false
+UA012023,24 Jul 16,2,Lauriston,Tennis World,No. 1,Romy O'Donghue,Molly Ritchie,Molly Ritchie,0-6,0,6,0,1,Completed,true,false,false
+UA012023,24 Jul 16,2,Lauriston,Tennis World,No. 2,Caitlin Woods,Albert Joscelyn,Caitlin Woods,6-0,6,0,1,0,Completed,true,false,false
+UA012023,24 Jul 16,2,Lauriston,Tennis World,No. 3,Atharva Kandula,Bill Ren,Bill Ren,2-6,2,6,0,1,Completed,true,false,false
+UA012023,24 Jul 16,2,Lauriston,Tennis World,No. 4,Arron Nazaretian,Rai Caderamenpulle,Arron Nazaretian,6-3,6,3,1,0,Completed,true,false,false
+UA012024,24 Jul 16,2,Coatesville,Kooyong St Kevin's,No. 1,Joanna Kozbanis,Eliza Szwarcberg,Joanna Kozbanis,6-4,6,4,1,0,Completed,true,false,false
+UA012024,24 Jul 16,2,Coatesville,Kooyong St Kevin's,No. 2,Samantha Kerney,Harriet Dicks,Samantha Kerney,6-4,6,4,1,0,Completed,true,false,false
+UA012024,24 Jul 16,2,Coatesville,Kooyong St Kevin's,No. 3,Trent Misquitta,Alexandra Hershan,Trent Misquitta,6-4,6,4,1,0,Completed,true,false,false
+UA012024,24 Jul 16,2,Coatesville,Kooyong St Kevin's,No. 4,Yarden Laschover,Lucinda Lee,Yarden Laschover,6-0,6,0,1,0,Completed,true,false,false
+UA012031,31 Jul 16,3,Kings Park,Coatesville,No. 1,Alisa Sharkova,Samantha Kerney,Alisa Sharkova,7-6,7,6,1,0,Completed,true,false,false
+UA012031,31 Jul 16,3,Kings Park,Coatesville,No. 2,Chloe Eden,Yarden Laschover,Yarden Laschover,2-6,2,6,0,1,Completed,true,false,false
+UA012031,31 Jul 16,3,Kings Park,Coatesville,No. 3,Aaron Chauman,Lauren Rossi,Aaron Chauman,6-1,6,1,1,0,Completed,true,false,false
+UA012031,31 Jul 16,3,Kings Park,Coatesville,No. 4,Micaela Nochomivitz,Amelia Mundy,Micaela Nochomivitz,6-2,6,2,1,0,Completed,true,false,false
+UA012032,31 Jul 16,3,BLTC,Maccabi,No. 1,Olivia Moir,Bradley Bergman,Bradley Bergman,3-6,3,6,0,1,Completed,true,false,false
+UA012032,31 Jul 16,3,BLTC,Maccabi,No. 2,Olivia Biviano,Nathan Needleman,Nathan Needleman,2-6,2,6,0,1,Completed,true,false,false
+UA012032,31 Jul 16,3,BLTC,Maccabi,No. 3,Lily Pearce,Bradon Pager,Bradon Pager,3-6,3,6,0,1,Completed,true,false,false
+UA012032,31 Jul 16,3,BLTC,Maccabi,No. 4,Alexie Briggs,Joshua Jane,Alexie Briggs,6-1,6,1,1,0,Completed,true,false,false
+UA012033,31 Jul 16,3,Tennis World,Middle Brighton,No. 1,Molly Ritchie,Annika Widmann,Molly Ritchie,6-1,6,1,1,0,Completed,true,false,false
+UA012033,31 Jul 16,3,Tennis World,Middle Brighton,No. 2,Maria Francesca Cascino,Kristen Leung,Maria Francesca Cascino,6-3,6,3,1,0,Completed,true,false,false
+UA012033,31 Jul 16,3,Tennis World,Middle Brighton,No. 3,Bill Ren,Piper Gibbs,Piper Gibbs,0-6,0,6,0,1,Completed,true,false,false
+UA012033,31 Jul 16,3,Tennis World,Middle Brighton,No. 4,Isabel Dureau,Freya Edselius,Freya Edselius,0-6,0,6,0,1,Completed,true,false,false
+UA012041,07 Aug 16,4,Lauriston,Kings Park,No. 1,Chelsea Bria,Sam Fritzlaff,Sam Fritzlaff,1-6,1,6,0,1,Completed,true,false,false
+UA012041,07 Aug 16,4,Lauriston,Kings Park,No. 2,Romy O'Donghue,Chloe Eden,Chloe Eden,1-6,1,6,0,1,Completed,true,false,false
+UA012041,07 Aug 16,4,Lauriston,Kings Park,No. 3,Thiruavani Arunachalam,Bora Ith,Bora Ith,1-6,1,6,0,1,Completed,true,false,false
+UA012041,07 Aug 16,4,Lauriston,Kings Park,No. 4,Arron Nazaretian,Micaela Nochomivitz,Arron Nazaretian,6-1,6,1,1,0,Completed,true,false,false
+UA012042,07 Aug 16,4,Coatesville,BLTC,No. 1,Ilai Manor,Olivia Moir,Olivia Moir,3-6,3,6,0,1,Completed,true,false,false
+UA012042,07 Aug 16,4,Coatesville,BLTC,No. 2,Joanna Kozbanis,Olivia Biviano,Joanna Kozbanis,6-1,6,1,1,0,Completed,true,false,false
+UA012042,07 Aug 16,4,Coatesville,BLTC,No. 3,Samantha Kerney,Mia Scerri,Samantha Kerney,6-3,6,3,1,0,Completed,true,false,false
+UA012042,07 Aug 16,4,Coatesville,BLTC,No. 4,Trent Misquitta,[Unnamed player — TROLS UA012042 away code 4],Trent Misquitta,6-0,6,0,1,0,Completed,false,false,false
+UA012043,07 Aug 16,4,Maccabi,Tennis World,No. 1,Bradley Bergman,Molly Ritchie,Molly Ritchie,2-6,2,6,0,1,Completed,true,false,false
+UA012043,07 Aug 16,4,Maccabi,Tennis World,No. 2,Nathan Bal,Albert Joscelyn,Nathan Bal,6-0,6,0,1,0,Completed,true,false,false
+UA012043,07 Aug 16,4,Maccabi,Tennis World,No. 3,Jason Khasin,Bill Ren,Bill Ren,6-7,6,7,0,1,Completed,true,false,false
+UA012043,07 Aug 16,4,Maccabi,Tennis World,No. 4,Eli Faraday,Isabel Dureau,Eli Faraday,6-2,6,2,1,0,Completed,true,false,false
+UA012044,07 Aug 16,4,Middle Brighton,Kooyong St Kevin's,No. 1,Annika Widmann,Harriet Dicks,Annika Widmann,7-6,7,6,1,0,Completed,true,false,false
+UA012044,07 Aug 16,4,Middle Brighton,Kooyong St Kevin's,No. 2,Kristen Leung,Alexandra Hershan,Kristen Leung,6-2,6,2,1,0,Completed,true,false,false
+UA012044,07 Aug 16,4,Middle Brighton,Kooyong St Kevin's,No. 3,Piper Gibbs,Phoebe Keilar,Piper Gibbs,6-0,6,0,1,0,Completed,true,false,false
+UA012044,07 Aug 16,4,Middle Brighton,Kooyong St Kevin's,No. 4,Freya Edselius,Lucy Keilar,Freya Edselius,6-1,6,1,1,0,Completed,true,false,false
+UA012051,14 Aug 16,5,Tennis World,Kooyong St Kevin's,No. 1,Albert Joscelyn,Eliza Szwarcberg,Albert Joscelyn,7-6,7,6,1,0,Completed,true,false,false
+UA012051,14 Aug 16,5,Tennis World,Kooyong St Kevin's,No. 2,Maria Francesca Cascino,Harriet Dicks,Maria Francesca Cascino,6-0,6,0,1,0,Completed,true,false,false
+UA012051,14 Aug 16,5,Tennis World,Kooyong St Kevin's,No. 3,Bill Ren,Alexandra Hershan,Alexandra Hershan,0-6,0,6,0,1,Completed,true,false,false
+UA012051,14 Aug 16,5,Tennis World,Kooyong St Kevin's,No. 4,Rai Caderamenpulle,Phoebe Keilar,Rai Caderamenpulle,6-1,6,1,1,0,Completed,true,false,false
+UA012052,14 Aug 16,5,Maccabi,Coatesville,No. 1,Nathan Needleman,Joanna Kozbanis,Nathan Needleman,6-1,6,1,1,0,Completed,true,false,false
+UA012052,14 Aug 16,5,Maccabi,Coatesville,No. 2,Nathan Bal,Sam Jones,Nathan Bal,6-1,6,1,1,0,Completed,true,false,false
+UA012052,14 Aug 16,5,Maccabi,Coatesville,No. 3,Bradon Pager,Samantha Kerney,Samantha Kerney,1-6,1,6,0,1,Completed,true,false,false
+UA012052,14 Aug 16,5,Maccabi,Coatesville,No. 4,Joshua Jane,Trent Misquitta,Trent Misquitta,2-6,2,6,0,1,Completed,true,false,false
+UA012053,14 Aug 16,5,Lauriston,Middle Brighton,No. 1,Chelsea Bria,Annika Widmann,Annika Widmann,2-6,2,6,0,1,Completed,true,false,false
+UA012053,14 Aug 16,5,Lauriston,Middle Brighton,No. 2,Caitlin Woods,Piper Gibbs,Caitlin Woods,6-3,6,3,1,0,Completed,true,false,false
+UA012053,14 Aug 16,5,Lauriston,Middle Brighton,No. 3,Thiruavani Arunachalam,Taylah Gee,Thiruavani Arunachalam,6-2,6,2,1,0,Completed,true,false,false
+UA012053,14 Aug 16,5,Lauriston,Middle Brighton,No. 4,Arron Nazaretian,Freya Edselius,Arron Nazaretian,6-2,6,2,1,0,Completed,true,false,false
+UA012054,14 Aug 16,5,Kings Park,BLTC,No. 1,Sam Fritzlaff,Olivia Moir,Olivia Moir,3-6,3,6,0,1,Completed,true,false,false
+UA012054,14 Aug 16,5,Kings Park,BLTC,No. 2,Shaun Heenan,Olivia Biviano,Olivia Biviano,0-6,0,6,0,1,Completed,true,false,false
+UA012054,14 Aug 16,5,Kings Park,BLTC,No. 3,Alisa Sharkova,Isabella Nicolis,Alisa Sharkova,6-0,6,0,1,0,Completed,true,false,false
+UA012054,14 Aug 16,5,Kings Park,BLTC,No. 4,Bora Ith,Alexie Briggs,Alexie Briggs,2-6,2,6,0,1,Completed,true,false,false
+UA012061,21 Aug 16,6,BLTC,Tennis World,No. 1,Lily Pearce,Albert Joscelyn,Albert Joscelyn,3-6,3,6,0,1,Completed,true,false,false
+UA012061,21 Aug 16,6,BLTC,Tennis World,No. 2,Isabella Nicolis,Maria Francesca Cascino,Maria Francesca Cascino,2-6,2,6,0,1,Completed,true,false,false
+UA012061,21 Aug 16,6,BLTC,Tennis World,No. 3,Alexie Briggs,Rai Caderamenpulle,Alexie Briggs,6-1,6,1,1,0,Completed,true,false,false
+UA012061,21 Aug 16,6,BLTC,Tennis World,No. 4,Georgie Anderson,Isabel Dureau,Georgie Anderson,6-0,6,0,1,0,Completed,true,false,false
+UA012062,21 Aug 16,6,Kooyong St Kevin's,Kings Park,No. 1,Harriet Dicks,Shaun Heenan,Shaun Heenan,2-6,2,6,0,1,Completed,true,false,false
+UA012062,21 Aug 16,6,Kooyong St Kevin's,Kings Park,No. 2,Alexandra Hershan,Chloe Eden,Chloe Eden,5-7,5,7,0,1,Completed,true,false,false
+UA012062,21 Aug 16,6,Kooyong St Kevin's,Kings Park,No. 3,Phoebe Keilar,Aaron Chauman,Aaron Chauman,1-6,1,6,0,1,Completed,true,false,false
+UA012062,21 Aug 16,6,Kooyong St Kevin's,Kings Park,No. 4,Olivia Macquire,Micaela Nochomivitz,Olivia Macquire,6-3,6,3,1,0,Completed,true,false,false
+UA012063,21 Aug 16,6,Coatesville,Lauriston,No. 1,Joel McCulloch,Chelsea Bria,Joel McCulloch,6-1,6,1,1,0,Completed,true,false,false
+UA012063,21 Aug 16,6,Coatesville,Lauriston,No. 2,Joanna Kozbanis,Romy O'Donghue,Joanna Kozbanis,6-1,6,1,1,0,Completed,true,false,false
+UA012063,21 Aug 16,6,Coatesville,Lauriston,No. 3,Thomas Umansky,Caitlin Woods,Thomas Umansky,6-3,6,3,1,0,Completed,true,false,false
+UA012063,21 Aug 16,6,Coatesville,Lauriston,No. 4,Samantha Kerney,Arron Nazaretian,Samantha Kerney,7-5,7,5,1,0,Completed,true,false,false
+UA012064,21 Aug 16,6,Middle Brighton,Maccabi,No. 1,Annika Widmann,Bradley Bergman,Bradley Bergman,1-6,1,6,0,1,Completed,true,false,false
+UA012064,21 Aug 16,6,Middle Brighton,Maccabi,No. 2,Kristen Leung,Nathan Needleman,Nathan Needleman,1-6,1,6,0,1,Completed,true,false,false
+UA012064,21 Aug 16,6,Middle Brighton,Maccabi,No. 3,Freya Edselius,Joshua Jane,Freya Edselius,6-2,6,2,1,0,Completed,true,false,false
+UA012064,21 Aug 16,6,Middle Brighton,Maccabi,No. 4,Taylah Gee,Eli Faraday,Taylah Gee,6-0,6,0,1,0,Completed,true,false,false
+UA012071,28 Aug 16,7,Kings Park,Tennis World,No. 1,Sam Fritzlaff,Molly Ritchie,Molly Ritchie,4-6,4,6,0,1,Completed,true,false,false
+UA012071,28 Aug 16,7,Kings Park,Tennis World,No. 2,Chloe Eden,Maria Francesca Cascino,Maria Francesca Cascino,1-6,1,6,0,1,Completed,true,false,false
+UA012071,28 Aug 16,7,Kings Park,Tennis World,No. 3,Bora Ith,Bill Ren,Bill Ren,0-6,0,6,0,1,Completed,true,false,false
+UA012071,28 Aug 16,7,Kings Park,Tennis World,No. 4,Micaela Nochomivitz,Rai Caderamenpulle,Rai Caderamenpulle,2-6,2,6,0,1,Completed,true,false,false
+UA012073,28 Aug 16,7,Maccabi,Lauriston,No. 1,Nathan Needleman,Chelsea Bria,Nathan Needleman,7-6,7,6,1,0,Completed,true,false,false
+UA012073,28 Aug 16,7,Maccabi,Lauriston,No. 2,Jason Khasin,Caitlin Woods,Jason Khasin,7-5,7,5,1,0,Completed,true,false,false
+UA012073,28 Aug 16,7,Maccabi,Lauriston,No. 3,Bradon Pager,Thiruavani Arunachalam,Bradon Pager,6-1,6,1,1,0,Completed,true,false,false
+UA012073,28 Aug 16,7,Maccabi,Lauriston,No. 4,Eli Faraday,Arron Nazaretian,Arron Nazaretian,2-6,2,6,0,1,Completed,true,false,false
+UA012074,28 Aug 16,7,Coatesville,Middle Brighton,No. 1,Joanna Kozbanis,Kristen Leung,Joanna Kozbanis,6-3,6,3,1,0,Completed,true,false,false
+UA012074,28 Aug 16,7,Coatesville,Middle Brighton,No. 2,Sam Jones,Freya Edselius,Freya Edselius,6-7,6,7,0,1,Completed,true,false,false
+UA012074,28 Aug 16,7,Coatesville,Middle Brighton,No. 3,Trent Misquitta,Piper Gibbs,Piper Gibbs,5-7,5,7,0,1,Completed,true,false,false
+UA012074,28 Aug 16,7,Coatesville,Middle Brighton,No. 4,Yarden Laschover,Taylah Gee,Yarden Laschover,6-2,6,2,1,0,Completed,true,false,false
+UA012081,04 Sep 16,8,Middle Brighton,Kings Park,No. 1,Kristen Leung,Sam Fritzlaff,Sam Fritzlaff,2-6,2,6,0,1,Completed,true,false,false
+UA012081,04 Sep 16,8,Middle Brighton,Kings Park,No. 2,Freya Edselius,Chloe Eden,Chloe Eden,4-6,4,6,0,1,Completed,true,false,false
+UA012081,04 Sep 16,8,Middle Brighton,Kings Park,No. 3,Piper Gibbs,Bora Ith,Bora Ith,3-6,3,6,0,1,Completed,true,false,false
+UA012081,04 Sep 16,8,Middle Brighton,Kings Park,No. 4,Taylah Gee,Micaela Nochomivitz,Taylah Gee,6-4,6,4,1,0,Completed,true,false,false
+UA012082,04 Sep 16,8,Lauriston,BLTC,No. 1,Chelsea Bria,Olivia Biviano,Chelsea Bria,6-3,6,3,1,0,Completed,true,false,false
+UA012082,04 Sep 16,8,Lauriston,BLTC,No. 2,Romy O'Donghue,Georgie Anderson,Romy O'Donghue,7-5,7,5,1,0,Completed,true,false,false
+UA012082,04 Sep 16,8,Lauriston,BLTC,No. 3,Atharva Kandula,Lily Pearce,Lily Pearce,2-6,2,6,0,1,Completed,true,false,false
+UA012082,04 Sep 16,8,Lauriston,BLTC,No. 4,Arron Nazaretian,Isabella Nicolis,Arron Nazaretian,6-0,6,0,1,0,Completed,true,false,false
+UA012083,04 Sep 16,8,Coatesville,Tennis World,No. 1,Joanna Kozbanis,Molly Ritchie,Molly Ritchie,0-6,0,6,0,1,Completed,true,false,false
+UA012083,04 Sep 16,8,Coatesville,Tennis World,No. 2,Sam Jones,Maria Francesca Cascino,Maria Francesca Cascino,3-6,3,6,0,1,Completed,true,false,false
+UA012083,04 Sep 16,8,Coatesville,Tennis World,No. 3,Samantha Kerney,Isabel Dureau,Samantha Kerney,6-3,6,3,1,0,Completed,true,false,false
+UA012083,04 Sep 16,8,Coatesville,Tennis World,No. 4,Trent Misquitta,Rai Caderamenpulle,Rai Caderamenpulle,1-6,1,6,0,1,Completed,true,false,false
+UA012084,04 Sep 16,8,Maccabi,Kooyong St Kevin's,No. 1,Bradley Bergman,Harriet Dicks,Bradley Bergman,6-0,6,0,1,0,Completed,true,false,false
+UA012084,04 Sep 16,8,Maccabi,Kooyong St Kevin's,No. 2,Nathan Needleman,Alexandra Hershan,Nathan Needleman,6-0,6,0,1,0,Completed,true,false,false
+UA012084,04 Sep 16,8,Maccabi,Kooyong St Kevin's,No. 3,Jason Khasin,Phoebe Keilar,Jason Khasin,6-0,6,0,1,0,Completed,true,false,false
+UA012084,04 Sep 16,8,Maccabi,Kooyong St Kevin's,No. 4,Joshua Jane,Olivia Kudnig,Joshua Jane,6-0,6,0,1,0,Completed,true,false,false
+UA012091,11 Sep 16,9,Kings Park,Maccabi,No. 1,Shaun Heenan,Coby Felbel,Shaun Heenan,6-4,6,4,1,0,Completed,true,false,false
+UA012091,11 Sep 16,9,Kings Park,Maccabi,No. 2,Chloe Eden,Nathan Needleman,Nathan Needleman,5-7,5,7,0,1,Completed,true,false,false
+UA012091,11 Sep 16,9,Kings Park,Maccabi,No. 3,Aaron Chauman,Ryan Kaminsky,Ryan Kaminsky,3-6,3,6,0,1,Completed,true,false,false
+UA012091,11 Sep 16,9,Kings Park,Maccabi,No. 4,Micaela Nochomivitz,Eli Faraday,Eli Faraday,2-6,2,6,0,1,Completed,true,false,false
+UA012093,11 Sep 16,9,Tennis World,Lauriston,No. 1,Molly Ritchie,Caitlin Woods,Molly Ritchie,6-0,6,0,1,0,Completed,true,false,false
+UA012093,11 Sep 16,9,Tennis World,Lauriston,No. 2,Albert Joscelyn,Atharva Kandula,Albert Joscelyn,6-1,6,1,1,0,Completed,true,false,false
+UA012093,11 Sep 16,9,Tennis World,Lauriston,No. 3,Isabel Dureau,Thiruavani Arunachalam,Thiruavani Arunachalam,0-6,0,6,0,1,Completed,true,false,false
+UA012093,11 Sep 16,9,Tennis World,Lauriston,No. 4,Rai Caderamenpulle,Arron Nazaretian,Rai Caderamenpulle,6-4,6,4,1,0,Completed,true,false,false
+UA012094,11 Sep 16,9,Kooyong St Kevin's,Coatesville,No. 1,Eliza Szwarcberg,Joanna Kozbanis,Eliza Szwarcberg,6-1,6,1,1,0,Completed,true,false,false
+UA012094,11 Sep 16,9,Kooyong St Kevin's,Coatesville,No. 2,Alexandra Hershan,Sam Jones,Sam Jones,1-6,1,6,0,1,Completed,true,false,false
+UA012094,11 Sep 16,9,Kooyong St Kevin's,Coatesville,No. 3,Olivia Macquire,Samantha Kerney,Samantha Kerney,0-6,0,6,0,1,Completed,true,false,false
+UA012094,11 Sep 16,9,Kooyong St Kevin's,Coatesville,No. 4,Olivia Kudnig,Yarden Laschover,Yarden Laschover,0-6,0,6,0,1,Completed,true,false,false
+UA012101,09 Oct 16,10,Coatesville,Kings Park,No. 1,Joanna Kozbanis,Sam Fritzlaff,Sam Fritzlaff,1-6,1,6,0,1,Completed,true,false,false
+UA012101,09 Oct 16,10,Coatesville,Kings Park,No. 2,Sam Jones,Shaun Heenan,Sam Jones,6-0,6,0,1,0,Completed,true,false,false
+UA012101,09 Oct 16,10,Coatesville,Kings Park,No. 3,Samantha Kerney,Bora Ith,Samantha Kerney,6-2,6,2,1,0,Completed,true,false,false
+UA012101,09 Oct 16,10,Coatesville,Kings Park,No. 4,Trent Misquitta,Micaela Nochomivitz,Trent Misquitta,7-6,7,6,1,0,Completed,true,false,false
+UA012102,09 Oct 16,10,Maccabi,BLTC,No. 1,Bradley Bergman,Olivia Moir,Bradley Bergman,7-5,7,5,1,0,Completed,true,false,false
+UA012102,09 Oct 16,10,Maccabi,BLTC,No. 2,Nathan Needleman,Olivia Biviano,Nathan Needleman,6-2,6,2,1,0,Completed,true,false,false
+UA012102,09 Oct 16,10,Maccabi,BLTC,No. 3,Bradon Pager,Lily Pearce,Bradon Pager,6-4,6,4,1,0,Completed,true,false,false
+UA012102,09 Oct 16,10,Maccabi,BLTC,No. 4,Eli Faraday,Alexie Briggs,Alexie Briggs,1-6,1,6,0,1,Completed,true,false,false
+UA012103,09 Oct 16,10,Middle Brighton,Tennis World,No. 1,Annika Widmann,Albert Joscelyn,Annika Widmann,6-3,6,3,1,0,Completed,true,false,false
+UA012103,09 Oct 16,10,Middle Brighton,Tennis World,No. 2,Kristen Leung,Maria Francesca Cascino,Maria Francesca Cascino,4-6,4,6,0,1,Completed,true,false,false
+UA012103,09 Oct 16,10,Middle Brighton,Tennis World,No. 3,Piper Gibbs,Isabel Dureau,Piper Gibbs,6-1,6,1,1,0,Completed,true,false,false
+UA012103,09 Oct 16,10,Middle Brighton,Tennis World,No. 4,Taylah Gee,Rai Caderamenpulle,Rai Caderamenpulle,4-6,4,6,0,1,Completed,true,false,false
+UA012104,09 Oct 16,10,Lauriston,Kooyong St Kevin's,No. 1,Chelsea Bria,Eliza Szwarcberg,Eliza Szwarcberg,1-6,1,6,0,1,Completed,true,false,false
+UA012104,09 Oct 16,10,Lauriston,Kooyong St Kevin's,No. 2,Romy O'Donghue,Harriet Dicks,Romy O'Donghue,6-3,6,3,1,0,Completed,true,false,false
+UA012104,09 Oct 16,10,Lauriston,Kooyong St Kevin's,No. 3,Atharva Kandula,Phoebe Keilar,Atharva Kandula,6-1,6,1,1,0,Completed,true,false,false
+UA012104,09 Oct 16,10,Lauriston,Kooyong St Kevin's,No. 4,Thiruavani Arunachalam,Olivia Macquire,Olivia Macquire,0-6,0,6,0,1,Completed,true,false,false
+UA012111,16 Oct 16,11,Kings Park,Lauriston,No. 1,Alisa Sharkova,Chelsea Bria,Alisa Sharkova,6-1,6,1,1,0,Completed,true,false,false
+UA012111,16 Oct 16,11,Kings Park,Lauriston,No. 2,Chloe Eden,Caitlin Woods,Chloe Eden,6-1,6,1,1,0,Completed,true,false,false
+UA012111,16 Oct 16,11,Kings Park,Lauriston,No. 3,Aaron Chauman,Thiruavani Arunachalam,Thiruavani Arunachalam,3-6,3,6,0,1,Completed,true,false,false
+UA012111,16 Oct 16,11,Kings Park,Lauriston,No. 4,Bora Ith,Arron Nazaretian,Bora Ith,6-0,6,0,1,0,Completed,true,false,false
+UA012112,16 Oct 16,11,BLTC,Coatesville,No. 1,Olivia Moir,Sam Jones,Sam Jones,3-6,3,6,0,1,Completed,true,false,false
+UA012112,16 Oct 16,11,BLTC,Coatesville,No. 2,Lily Pearce,Samantha Kerney,Samantha Kerney,1-6,1,6,0,1,Completed,true,false,false
+UA012112,16 Oct 16,11,BLTC,Coatesville,No. 3,Isabella Nicolis,Trent Misquitta,Trent Misquitta,3-6,3,6,0,1,Completed,true,false,false
+UA012112,16 Oct 16,11,BLTC,Coatesville,No. 4,Alexie Briggs,Yarden Laschover,Yarden Laschover,3-6,3,6,0,1,Completed,true,false,false
+UA012113,16 Oct 16,11,Tennis World,Maccabi,No. 1,Molly Ritchie,Coby Felbel,Molly Ritchie,6-3,6,3,1,0,Completed,true,false,false
+UA012113,16 Oct 16,11,Tennis World,Maccabi,No. 2,Maria Francesca Cascino,Jason Khasin,Maria Francesca Cascino,6-1,6,1,1,0,Completed,true,false,false
+UA012113,16 Oct 16,11,Tennis World,Maccabi,No. 3,Bill Ren,Bradon Pager,Bradon Pager,2-6,2,6,0,1,Completed,true,false,false
+UA012113,16 Oct 16,11,Tennis World,Maccabi,No. 4,Rai Caderamenpulle,Joshua Jane,Rai Caderamenpulle,6-3,6,3,1,0,Completed,true,false,false
+UA012114,16 Oct 16,11,Kooyong St Kevin's,Middle Brighton,No. 1,Alexandra Hershan,Annika Widmann,Annika Widmann,5-7,5,7,0,1,Completed,true,false,false
+UA012114,16 Oct 16,11,Kooyong St Kevin's,Middle Brighton,No. 2,Phoebe Keilar,Kristen Leung,Kristen Leung,1-6,1,6,0,1,Completed,true,false,false
+UA012114,16 Oct 16,11,Kooyong St Kevin's,Middle Brighton,No. 3,Olivia Macquire,Freya Edselius,Freya Edselius,4-6,4,6,0,1,Completed,true,false,false
+UA012114,16 Oct 16,11,Kooyong St Kevin's,Middle Brighton,No. 4,Lucy Keilar,Taylah Gee,Taylah Gee,0-6,0,6,0,1,Completed,true,false,false
+UA012131,06 Nov 16,13,Tennis World,BLTC,No. 1,Molly Ritchie,Olivia Moir,Molly Ritchie,6-1,6,1,1,0,Completed,true,false,false
+UA012131,06 Nov 16,13,Tennis World,BLTC,No. 2,Maria Francesca Cascino,Olivia Biviano,Maria Francesca Cascino,6-1,6,1,1,0,Completed,true,false,false
+UA012131,06 Nov 16,13,Tennis World,BLTC,No. 3,Bill Ren,Lily Pearce,Bill Ren,6-2,6,2,1,0,Completed,true,false,false
+UA012131,06 Nov 16,13,Tennis World,BLTC,No. 4,Isabel Dureau,Isabella Nicolis,Isabel Dureau,6-2,6,2,1,0,Completed,true,false,false
+UA012132,06 Nov 16,13,Kings Park,Kooyong St Kevin's,No. 1,Shaun Heenan,Harriet Dicks,Shaun Heenan,6-0,6,0,1,0,Completed,true,false,false
+UA012132,06 Nov 16,13,Kings Park,Kooyong St Kevin's,No. 2,Sam Fritzlaff,Olivia Kudnig,Sam Fritzlaff,6-0,6,0,1,0,Completed,true,false,false
+UA012132,06 Nov 16,13,Kings Park,Kooyong St Kevin's,No. 3,Chloe Eden,Phoebe Keilar,Chloe Eden,6-1,6,1,1,0,Completed,true,false,false
+UA012132,06 Nov 16,13,Kings Park,Kooyong St Kevin's,No. 4,Micaela Nochomivitz,Olivia Macquire,Micaela Nochomivitz,6-0,6,0,1,0,Completed,true,false,false
+UA012133,06 Nov 16,13,Lauriston,Coatesville,No. 1,Chelsea Bria,Emma Burley,Emma Burley,1-6,1,6,0,1,Completed,true,false,false
+UA012133,06 Nov 16,13,Lauriston,Coatesville,No. 2,Romy O'Donghue,Joanna Kozbanis,Romy O'Donghue,7-5,7,5,1,0,Completed,true,false,false
+UA012133,06 Nov 16,13,Lauriston,Coatesville,No. 3,Caitlin Woods,Trent Misquitta,Trent Misquitta,0-6,0,6,0,1,Completed,true,false,false
+UA012133,06 Nov 16,13,Lauriston,Coatesville,No. 4,Arron Nazaretian,Yarden Laschover,Arron Nazaretian,6-4,6,4,1,0,Completed,true,false,false
+UA012134,06 Nov 16,13,Maccabi,Middle Brighton,No. 1,Coby Felbel,Annika Widmann,Annika Widmann,5-7,5,7,0,1,Completed,true,false,false
+UA012134,06 Nov 16,13,Maccabi,Middle Brighton,No. 2,Bradley Bergman,Kristen Leung,Bradley Bergman,6-3,6,3,1,0,Completed,true,false,false
+UA012134,06 Nov 16,13,Maccabi,Middle Brighton,No. 3,Nathan Needleman,Freya Edselius,Nathan Needleman,6-2,6,2,1,0,Completed,true,false,false
+UA012134,06 Nov 16,13,Maccabi,Middle Brighton,No. 4,Joshua Jane,Taylah Gee,Joshua Jane,6-1,6,1,1,0,Completed,true,false,false
+UA012144,13 Nov 16,14,Middle Brighton,Coatesville,No. 1,Annika Widmann,Emma Burley,Emma Burley,2-6,2,6,0,1,Completed,true,false,false
+UA012144,13 Nov 16,14,Middle Brighton,Coatesville,No. 2,Kristen Leung,Sam Jones,Sam Jones,2-6,2,6,0,1,Completed,true,false,false
+UA012144,13 Nov 16,14,Middle Brighton,Coatesville,No. 3,Freya Edselius,Samantha Kerney,Samantha Kerney,3-6,3,6,0,1,Completed,true,false,false
+UA012144,13 Nov 16,14,Middle Brighton,Coatesville,No. 4,Piper Gibbs,Trent Misquitta,Trent Misquitta,1-6,1,6,0,1,Completed,true,false,false
+UA012301,,16,Maccabi,Kings Park,No. 1,Coby Felbel,Sam Fritzlaff,Sam Fritzlaff,0-6,0,6,0,1,Completed,true,false,false
+UA012301,,16,Maccabi,Kings Park,No. 2,Bradley Bergman,Shaun Heenan,Bradley Bergman,7-6,7,6,1,0,Completed,true,false,false
+UA012301,,16,Maccabi,Kings Park,No. 3,Nathan Needleman,Chloe Eden,Chloe Eden,5-7,5,7,0,1,Completed,true,false,false
+UA012301,,16,Maccabi,Kings Park,No. 4,Jason Khasin,Bora Ith,Bora Ith,1-6,1,6,0,1,Completed,true,false,false
+UA012302,,16,Coatesville,Tennis World,No. 1,Joanna Kozbanis,Molly Ritchie,Molly Ritchie,2-6,2,6,0,1,Completed,true,false,false
+UA012302,,16,Coatesville,Tennis World,No. 2,Sam Jones,Albert Joscelyn,Albert Joscelyn,4-6,4,6,0,1,Completed,true,false,false
+UA012302,,16,Coatesville,Tennis World,No. 3,Samantha Kerney,Maria Francesca Cascino,Maria Francesca Cascino,2-6,2,6,0,1,Completed,true,false,false
+UA012302,,16,Coatesville,Tennis World,No. 4,Trent Misquitta,Bill Ren,Trent Misquitta,6-2,6,2,1,0,Completed,true,false,false
+UA012321,,17,Coatesville,Kings Park,No. 1,Joanna Kozbanis,Sam Fritzlaff,Sam Fritzlaff,4-6,4,6,0,1,Completed,true,false,false
+UA012321,,17,Coatesville,Kings Park,No. 2,Sam Jones,Shaun Heenan,Sam Jones,6-4,6,4,1,0,Completed,true,false,false
+UA012321,,17,Coatesville,Kings Park,No. 3,Samantha Kerney,Chloe Eden,Chloe Eden,4-6,4,6,0,1,Completed,true,false,false
+UA012321,,17,Coatesville,Kings Park,No. 4,Yarden Laschover,Bora Ith,Bora Ith,3-6,3,6,0,1,Completed,true,false,false

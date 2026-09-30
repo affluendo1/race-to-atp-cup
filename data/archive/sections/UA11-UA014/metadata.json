@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA11-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2012",
+  "season_id": "UA11",
+  "season_label": "Spring 2012",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Lauriston",
+      "wins": 11,
+      "points": 115,
+      "percentage": 175.71,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Maccabi",
+      "wins": 12,
+      "points": 107,
+      "percentage": 169.77,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Carmelite",
+      "wins": 7,
+      "points": 82,
+      "percentage": 130.19,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Mordialloc",
+      "wins": 5,
+      "points": 71,
+      "percentage": 110.86,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 8,
+      "points": 70,
+      "percentage": 88.3,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC 2",
+      "wins": 6,
+      "points": 60,
+      "percentage": 86.44,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 2,
+      "points": 38,
+      "percentage": 72.73,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "BLTC 1",
+      "wins": 1,
+      "points": 17,
+      "percentage": 36.42,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA11-UA014",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 109,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

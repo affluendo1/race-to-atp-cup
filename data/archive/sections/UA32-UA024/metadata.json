@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA32-UA024",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2023",
+  "season_id": "UA32",
+  "season_label": "Autumn 2023",
+  "source_section_code": "UA024",
+  "section_label": "Section 24 Green",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Parkdale Blue",
+      "wins": 10,
+      "points": 107,
+      "percentage": 235.37,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "BLTC White",
+      "wins": 7,
+      "points": 82,
+      "percentage": 119.59,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Black Rock Yellow",
+      "wins": 7,
+      "points": 78,
+      "percentage": 114.35,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Tennis World",
+      "wins": 6,
+      "points": 72,
+      "percentage": 107.66,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Parkdale Black",
+      "wins": 4,
+      "points": 57,
+      "percentage": 92.62,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Murrumbeena SH",
+      "wins": 3,
+      "points": 49,
+      "percentage": 77.89,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kings Park White",
+      "wins": 1,
+      "points": 36,
+      "percentage": 68.57,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "St Pats Mentone Seals",
+      "wins": 1,
+      "points": 34,
+      "percentage": 64.44,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA32-UA024",
+  "fixtures": 55,
+  "completed_fixtures": 43,
+  "draw_fixtures": 45,
+  "singles_rubbers": 172,
+  "doubles_rubbers": 85,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

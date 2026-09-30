@@ -1,0 +1,57 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA002011,14 Nov 20,1,Carmelite 1,Carmelite 2,No. 1,Eva Livashova,[Unnamed player — TROLS AA002011 away code 1],[Unnamed player — TROLS AA002011 away code 1],3-6,3,6,0,1,Completed,false,false,false
+AA002011,14 Nov 20,1,Carmelite 1,Carmelite 2,No. 2,Orlando Van Bibra Falso,Ashton Arms,Orlando Van Bibra Falso,6-4,6,4,1,0,Completed,true,false,false
+AA002011,14 Nov 20,1,Carmelite 1,Carmelite 2,No. 3,Jet MacKenzie,Arlo Douglas-Hines,Jet MacKenzie,6-1,6,1,1,0,Completed,true,false,false
+AA002011,14 Nov 20,1,Carmelite 1,Carmelite 2,No. 4,Danill Levashov,Corey Arms,Danill Levashov,6-2,6,2,1,0,Completed,true,false,false
+AA002012,14 Nov 20,1,Port Melbourne Blue,Royal South Yarra 1,No. 1,Luke Kinsman,Miles Forster,Luke Kinsman,6-0,6,0,1,0,Completed,true,false,false
+AA002012,14 Nov 20,1,Port Melbourne Blue,Royal South Yarra 1,No. 2,Stefan Marques,Toby Bonnici,Stefan Marques,6-3,6,3,1,0,Completed,true,false,false
+AA002012,14 Nov 20,1,Port Melbourne Blue,Royal South Yarra 1,No. 3,Will Sharpin,George Banks,Will Sharpin,6-1,6,1,1,0,Completed,true,false,false
+AA002012,14 Nov 20,1,Port Melbourne Blue,Royal South Yarra 1,No. 4,[Unnamed player — TROLS AA002012 home code 4],Will Officer,[Unnamed player — TROLS AA002012 home code 4],6-3,6,3,1,0,Completed,false,false,false
+AA002013,14 Nov 20,1,Royal South Yarra 2,Port Melbourne Red,No. 1,[Unnamed player — TROLS AA002013 home code 1],Kamel Omar,[Unnamed player — TROLS AA002013 home code 1],6-1,6,1,1,0,Completed,false,false,false
+AA002013,14 Nov 20,1,Royal South Yarra 2,Port Melbourne Red,No. 2,Jono Ingram,Lachlan Gordon,Lachlan Gordon,1-6,1,6,0,1,Completed,true,false,false
+AA002013,14 Nov 20,1,Royal South Yarra 2,Port Melbourne Red,No. 3,Will Sladen,Angelina Kotzakozidis,Angelina Kotzakozidis,3-6,3,6,0,1,Completed,true,false,false
+AA002013,14 Nov 20,1,Royal South Yarra 2,Port Melbourne Red,No. 4,Thomas Park,Avediz Rokowa,Thomas Park,6-2,6,2,1,0,Completed,true,false,false
+AA002021,21 Nov 20,2,Port Melbourne Red,Carmelite 1,No. 1,Kamel Omar,Orlando Van Bibra Falso,Orlando Van Bibra Falso,0-6,0,6,0,1,Completed,true,false,false
+AA002021,21 Nov 20,2,Port Melbourne Red,Carmelite 1,No. 2,Jack Walters,Jet MacKenzie,Jack Walters,6-2,6,2,1,0,Completed,true,false,false
+AA002021,21 Nov 20,2,Port Melbourne Red,Carmelite 1,No. 3,Lachlan Gordon,Danill Levashov,Lachlan Gordon,6-2,6,2,1,0,Completed,true,false,false
+AA002021,21 Nov 20,2,Port Melbourne Red,Carmelite 1,No. 4,Angelina Kotzakozidis,Quincey McRae-donavan,Quincey McRae-donavan,2-6,2,6,0,1,Completed,true,false,false
+AA002022,21 Nov 20,2,Royal South Yarra 1,Royal South Yarra 2,No. 1,Toby Bonnici,Eddy Millear,Toby Bonnici,6-0,6,0,1,0,Completed,true,false,false
+AA002022,21 Nov 20,2,Royal South Yarra 1,Royal South Yarra 2,No. 2,Tommaso Palombaro,Jono Ingram,Jono Ingram,5-7,5,7,0,1,Completed,true,false,false
+AA002022,21 Nov 20,2,Royal South Yarra 1,Royal South Yarra 2,No. 3,Boston Moran,Will Sladen,Will Sladen,3-6,3,6,0,1,Completed,true,false,false
+AA002022,21 Nov 20,2,Royal South Yarra 1,Royal South Yarra 2,No. 4,Gianni Walker,Tom Park,Tom Park,0-6,0,6,0,1,Completed,true,false,false
+AA002032,28 Nov 20,3,Royal South Yarra 2,Carmelite 2,No. 1,Eddy Millear,Gib Sinclair,Eddy Millear,6-3,6,3,1,0,Completed,true,false,false
+AA002032,28 Nov 20,3,Royal South Yarra 2,Carmelite 2,No. 2,Will Sladen,Ashton Arms,Ashton Arms,2-6,2,6,0,1,Completed,true,false,false
+AA002032,28 Nov 20,3,Royal South Yarra 2,Carmelite 2,No. 3,Axy Park,Arlo Douglas-Hines,Axy Park,6-2,6,2,1,0,Completed,true,false,false
+AA002032,28 Nov 20,3,Royal South Yarra 2,Carmelite 2,No. 4,Thomas Park,Corey Arms,Corey Arms,4-6,4,6,0,1,Completed,true,false,false
+AA002033,28 Nov 20,3,Port Melbourne Red,Royal South Yarra 1,No. 1,Kamel Omar,Miles Forster,Kamel Omar,6-2,6,2,1,0,Completed,true,false,false
+AA002033,28 Nov 20,3,Port Melbourne Red,Royal South Yarra 1,No. 2,Jack Walters,Tommaso Palombaro,Tommaso Palombaro,3-6,3,6,0,1,Completed,true,false,false
+AA002033,28 Nov 20,3,Port Melbourne Red,Royal South Yarra 1,No. 3,Lachlan Gordon,George Banks,Lachlan Gordon,6-1,6,1,1,0,Completed,true,false,false
+AA002033,28 Nov 20,3,Port Melbourne Red,Royal South Yarra 1,No. 4,Avediz Rokowa,Gianni Walker,Avediz Rokowa,6-4,6,4,1,0,Completed,true,false,false
+AA002041,05 Dec 20,4,Royal South Yarra 1,Carmelite 1,No. 1,Miles Forster,Orlando Van Bibra Falso,Orlando Van Bibra Falso,3-6,3,6,0,1,Completed,true,false,false
+AA002041,05 Dec 20,4,Royal South Yarra 1,Carmelite 1,No. 2,Toby Bonnici,Jet MacKenzie,Jet MacKenzie,2-6,2,6,0,1,Completed,true,false,false
+AA002041,05 Dec 20,4,Royal South Yarra 1,Carmelite 1,No. 3,Tommaso Palombaro,Danill Levashov,Tommaso Palombaro,6-0,6,0,1,0,Completed,true,false,false
+AA002041,05 Dec 20,4,Royal South Yarra 1,Carmelite 1,No. 4,Boston Moran,Quincey McRae-donavan,Quincey McRae-donavan,0-6,0,6,0,1,Completed,true,false,false
+AA002042,05 Dec 20,4,Carmelite 2,Port Melbourne Red,No. 1,Gib Sinclair,Kamel Omar,Gib Sinclair,6-0,6,0,1,0,Completed,true,false,false
+AA002042,05 Dec 20,4,Carmelite 2,Port Melbourne Red,No. 2,Ashton Arms,Jack Walters,Ashton Arms,7-6,7,6,1,0,Completed,true,false,false
+AA002042,05 Dec 20,4,Carmelite 2,Port Melbourne Red,No. 3,Arlo Douglas-Hines,Lachlan Gordon,Arlo Douglas-Hines,6-2,6,2,1,0,Completed,true,false,false
+AA002042,05 Dec 20,4,Carmelite 2,Port Melbourne Red,No. 4,Corey Arms,Avediz Rokowa,Corey Arms,6-1,6,1,1,0,Completed,true,false,false
+AA002043,05 Dec 20,4,Port Melbourne Blue,Royal South Yarra 2,No. 1,Luke Kinsman,Eddy Millear,Eddy Millear,4-6,4,6,0,1,Completed,true,false,false
+AA002043,05 Dec 20,4,Port Melbourne Blue,Royal South Yarra 2,No. 2,Will Sharpin,Jono Ingram,Will Sharpin,6-0,6,0,1,0,Completed,true,false,false
+AA002043,05 Dec 20,4,Port Melbourne Blue,Royal South Yarra 2,No. 3,Jack Kinsman,Will Sladen,Jack Kinsman,6-2,6,2,1,0,Completed,true,false,false
+AA002043,05 Dec 20,4,Port Melbourne Blue,Royal South Yarra 2,No. 4,Henry Holinger,Tom Park,Tom Park,2-6,2,6,0,1,Completed,true,false,false
+AA002051,12 Dec 20,5,Carmelite 1,Royal South Yarra 2,No. 1,Eva Livashova,Eddy Millear,Eddy Millear,5-7,5,7,0,1,Completed,true,false,false
+AA002051,12 Dec 20,5,Carmelite 1,Royal South Yarra 2,No. 2,Orlando Van Bibra Falso,Jono Ingram,Orlando Van Bibra Falso,6-2,6,2,1,0,Completed,true,false,false
+AA002051,12 Dec 20,5,Carmelite 1,Royal South Yarra 2,No. 3,Danill Levashov,Will Sladen,Danill Levashov,6-2,6,2,1,0,Completed,true,false,false
+AA002051,12 Dec 20,5,Carmelite 1,Royal South Yarra 2,No. 4,Quincey McRae-donavan,Tom Park,Quincey McRae-donavan,7-5,7,5,1,0,Completed,true,false,false
+AA002052,12 Dec 20,5,Royal South Yarra 1,Carmelite 2,No. 1,Toby Bonnici,Ashton Arms,Ashton Arms,2-6,2,6,0,1,Completed,true,false,false
+AA002052,12 Dec 20,5,Royal South Yarra 1,Carmelite 2,No. 2,Tommaso Palombaro,Arlo Douglas-Hines,Arlo Douglas-Hines,3-6,3,6,0,1,Completed,true,false,false
+AA002052,12 Dec 20,5,Royal South Yarra 1,Carmelite 2,No. 3,George Banks,Corey Arms,Corey Arms,2-6,2,6,0,1,Completed,true,false,false
+AA002052,12 Dec 20,5,Royal South Yarra 1,Carmelite 2,No. 4,Gianni Walker,Oscar Moore,Oscar Moore,4-6,4,6,0,1,Completed,true,false,false
+AA002053,12 Dec 20,5,Port Melbourne Red,Port Melbourne Blue,No. 1,Kamel Omar,Stefan Marques,Kamel Omar,6-2,6,2,1,0,Completed,true,false,false
+AA002053,12 Dec 20,5,Port Melbourne Red,Port Melbourne Blue,No. 2,Jack Walters,Will Sharpin,Will Sharpin,4-6,4,6,0,1,Completed,true,false,false
+AA002053,12 Dec 20,5,Port Melbourne Red,Port Melbourne Blue,No. 3,Angelina Kotzakozidis,[Unnamed player — TROLS AA002053 away code 3],[Unnamed player — TROLS AA002053 away code 3],6-7,6,7,0,1,Completed,false,false,false
+AA002053,12 Dec 20,5,Port Melbourne Red,Port Melbourne Blue,No. 4,Avediz Rokowa,Henry Holinger,Henry Holinger,3-6,3,6,0,1,Completed,true,false,false
+AA002062,12 Dec 20,6,Royal South Yarra 1,Port Melbourne Blue,No. 1,[Unnamed player — TROLS AA002062 home code 1],Luke Kinsman,Luke Kinsman,0-6,0,6,0,1,Completed,false,false,false
+AA002062,12 Dec 20,6,Royal South Yarra 1,Port Melbourne Blue,No. 2,Miles Forster,Will Sharpin,Will Sharpin,1-6,1,6,0,1,Completed,true,false,false
+AA002062,12 Dec 20,6,Royal South Yarra 1,Port Melbourne Blue,No. 3,Tommaso Palombaro,Zuhayr Hussain,Zuhayr Hussain,1-6,1,6,0,1,Completed,true,false,false
+AA002062,12 Dec 20,6,Royal South Yarra 1,Port Melbourne Blue,No. 4,Gianni Walker,Jack Kinsman,Jack Kinsman,0-6,0,6,0,1,Completed,true,false,false

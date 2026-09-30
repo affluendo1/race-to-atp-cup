@@ -1,0 +1,65 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA002012,15 Nov 20,1,Coatesville,Caulfield Rec,No. 1,Nicola Chau,Chris Liolios,Chris Liolios,1-6,1,6,0,1,Completed,true,false,false
+UA002012,15 Nov 20,1,Coatesville,Caulfield Rec,No. 2,Lindsay Newby,Costa Papasotiriou,Costa Papasotiriou,3-6,3,6,0,1,Completed,true,false,false
+UA002012,15 Nov 20,1,Coatesville,Caulfield Rec,No. 3,Joshua Gouralnik,Kripa Shreshtna,Kripa Shreshtna,4-6,4,6,0,1,Completed,true,true,false
+UA002012,15 Nov 20,1,Coatesville,Caulfield Rec,No. 4,Ashton Eikilis,Elijah Cordover,Ashton Eikilis,6-3,6,3,1,0,Completed,true,true,false
+UA002013,15 Nov 20,1,Royal Ave,Highmoor Uniting,No. 1,Oliver Letham,Ian Rachinsky,Ian Rachinsky,6-7,6,7,0,1,Completed,true,false,false
+UA002013,15 Nov 20,1,Royal Ave,Highmoor Uniting,No. 2,Nicolette Hilaris,Leo McInerney,Leo McInerney,2-6,2,6,0,1,Completed,true,false,false
+UA002013,15 Nov 20,1,Royal Ave,Highmoor Uniting,No. 3,Leo Wang,Josh Glassock,Josh Glassock,4-6,4,6,0,1,Completed,true,false,false
+UA002013,15 Nov 20,1,Royal Ave,Highmoor Uniting,No. 4,Elliott Tay,Nikola Suluburic,Elliott Tay,6-4,6,4,1,0,Completed,true,false,true
+UA002014,15 Nov 20,1,Dendy Park,Royal South Yarra,No. 1,Henri Robinson,Sam Lidstone,Henri Robinson,6-1,6,1,1,0,Completed,true,false,false
+UA002014,15 Nov 20,1,Dendy Park,Royal South Yarra,No. 2,Lachlan Liberman,Oliver McLean,Oliver McLean,0-6,0,6,0,1,Completed,true,false,false
+UA002014,15 Nov 20,1,Dendy Park,Royal South Yarra,No. 3,Tom Stein,Angus Charles,Tom Stein,7-5,7,5,1,0,Completed,true,false,false
+UA002014,15 Nov 20,1,Dendy Park,Royal South Yarra,No. 4,Christian Karatzas,Grace Keating,Christian Karatzas,6-3,6,3,1,0,Completed,true,false,false
+UA002022,22 Nov 20,2,St Joan of Arc,Coatesville,No. 1,Harry Smith,Nicola Chau,Harry Smith,6-3,6,3,1,0,Completed,true,false,false
+UA002022,22 Nov 20,2,St Joan of Arc,Coatesville,No. 2,Ethan Kearns,Lindsay Newby,Ethan Kearns,6-3,6,3,1,0,Completed,true,false,false
+UA002022,22 Nov 20,2,St Joan of Arc,Coatesville,No. 3,Tommy Trist,Joshua Gouralnik,Tommy Trist,6-2,6,2,1,0,Completed,true,false,true
+UA002022,22 Nov 20,2,St Joan of Arc,Coatesville,No. 4,James McDougall,Ashton Eikilis,James McDougall,6-1,6,1,1,0,Completed,true,false,true
+UA002023,22 Nov 20,2,Caulfield Rec,Royal Ave,No. 1,Chris Liolios,Oliver Letham,Chris Liolios,6-1,6,1,1,0,Completed,true,false,false
+UA002023,22 Nov 20,2,Caulfield Rec,Royal Ave,No. 2,Costa Papasotiriou,Nicolette Hilaris,Costa Papasotiriou,6-1,6,1,1,0,Completed,true,false,false
+UA002023,22 Nov 20,2,Caulfield Rec,Royal Ave,No. 3,Kripa Shreshtna,Leo Wang,Leo Wang,1-6,1,6,0,1,Completed,true,false,false
+UA002023,22 Nov 20,2,Caulfield Rec,Royal Ave,No. 4,Elijah Cordover,Elliott Tay,Elijah Cordover,6-2,6,2,1,0,Completed,true,false,false
+UA002024,22 Nov 20,2,Highmoor Uniting,Dendy Park,No. 1,Ian Rachinsky,Lachlan Liberman,Ian Rachinsky,6-0,6,0,1,0,Completed,true,false,false
+UA002024,22 Nov 20,2,Highmoor Uniting,Dendy Park,No. 2,Leo McInerney,Damien Hookway,Leo McInerney,6-2,6,2,1,0,Completed,true,false,false
+UA002024,22 Nov 20,2,Highmoor Uniting,Dendy Park,No. 3,Josh Glassock,Tom Stein,Josh Glassock,6-3,6,3,1,0,Completed,true,false,false
+UA002024,22 Nov 20,2,Highmoor Uniting,Dendy Park,No. 4,Adam Horan,Christian Karatzas,Christian Karatzas,1-6,1,6,0,1,Completed,true,false,false
+UA002032,29 Nov 20,3,Coatesville,Royal South Yarra,No. 1,Nicola Chau,Sam Lidstone,Nicola Chau,6-2,6,2,1,0,Completed,true,false,false
+UA002032,29 Nov 20,3,Coatesville,Royal South Yarra,No. 2,Lindsay Newby,Oliver McLean,Lindsay Newby,6-2,6,2,1,0,Completed,true,false,false
+UA002032,29 Nov 20,3,Coatesville,Royal South Yarra,No. 3,Joshua Gouralnik,Angus Charles,Angus Charles,0-6,0,6,0,1,Completed,true,true,false
+UA002032,29 Nov 20,3,Coatesville,Royal South Yarra,No. 4,Ashton Eikilis,Grace Keating,Ashton Eikilis,7-6,7,6,1,0,Completed,true,true,false
+UA002033,29 Nov 20,3,Royal Ave,St Joan of Arc,No. 1,Oliver Letham,Harry Smith,Harry Smith,3-6,3,6,0,1,Completed,true,false,false
+UA002033,29 Nov 20,3,Royal Ave,St Joan of Arc,No. 2,Nicolette Hilaris,Ethan Kearns,Ethan Kearns,5-7,5,7,0,1,Completed,true,false,false
+UA002033,29 Nov 20,3,Royal Ave,St Joan of Arc,No. 3,Sam McCann,Tommy Trist,Tommy Trist,1-6,1,6,0,1,Completed,true,true,false
+UA002033,29 Nov 20,3,Royal Ave,St Joan of Arc,No. 4,Elliott Tay,James McDougall,James McDougall,3-6,3,6,0,1,Completed,true,false,false
+UA002042,06 Dec 20,4,Highmoor Uniting,Coatesville,No. 1,Ian Rachinsky,Nicola Chau,Ian Rachinsky,6-4,6,4,1,0,Completed,true,false,false
+UA002042,06 Dec 20,4,Highmoor Uniting,Coatesville,No. 2,Leo McInerney,Lindsay Newby,Leo McInerney,6-1,6,1,1,0,Completed,true,false,false
+UA002042,06 Dec 20,4,Highmoor Uniting,Coatesville,No. 3,Josh Glassock,Joshua Gouralnik,Josh Glassock,6-0,6,0,1,0,Completed,true,false,true
+UA002042,06 Dec 20,4,Highmoor Uniting,Coatesville,No. 4,Asher Lithgow,Ashton Eikilis,Ashton Eikilis,3-6,3,6,0,1,Completed,true,false,true
+UA002043,06 Dec 20,4,Royal South Yarra,Royal Ave,No. 1,Sam Lidstone,Oliver Letham,Oliver Letham,1-6,1,6,0,1,Completed,true,false,false
+UA002043,06 Dec 20,4,Royal South Yarra,Royal Ave,No. 2,Oliver McLean,Nicolette Hilaris,Oliver McLean,6-3,6,3,1,0,Completed,true,false,false
+UA002043,06 Dec 20,4,Royal South Yarra,Royal Ave,No. 3,Angus Charles,Leo Wang,Leo Wang,1-6,1,6,0,1,Completed,true,false,false
+UA002043,06 Dec 20,4,Royal South Yarra,Royal Ave,No. 4,Grace Keating,Elliott Tay,Grace Keating,7-5,7,5,1,0,Completed,true,false,false
+UA002044,06 Dec 20,4,St Joan of Arc,Dendy Park,No. 1,Ethan Kearns,Henri Robinson,Henri Robinson,4-6,4,6,0,1,Completed,true,false,false
+UA002044,06 Dec 20,4,St Joan of Arc,Dendy Park,No. 2,Tommy Trist,Damien Hookway,Tommy Trist,6-2,6,2,1,0,Completed,true,false,false
+UA002044,06 Dec 20,4,St Joan of Arc,Dendy Park,No. 3,James McDougall,Tom Stein,James McDougall,6-3,6,3,1,0,Completed,true,false,false
+UA002044,06 Dec 20,4,St Joan of Arc,Dendy Park,No. 4,Kyle Laughnon,Christian Karatzas,Christian Karatzas,4-6,4,6,0,1,Completed,true,true,false
+UA002051,13 Dec 20,5,Royal Ave,Dendy Park,No. 1,Oliver Letham,Henri Robinson,Henri Robinson,1-6,1,6,0,1,Completed,true,false,false
+UA002051,13 Dec 20,5,Royal Ave,Dendy Park,No. 2,Nicolette Hilaris,Lachlan Liberman,Lachlan Liberman,6-7,6,7,0,1,Completed,true,false,false
+UA002051,13 Dec 20,5,Royal Ave,Dendy Park,No. 3,Leo Wang,Damien Hookway,Damien Hookway,1-6,1,6,0,1,Completed,true,false,false
+UA002051,13 Dec 20,5,Royal Ave,Dendy Park,No. 4,Elliott Tay,Christian Karatzas,Christian Karatzas,2-6,2,6,0,1,Completed,true,false,false
+UA002052,13 Dec 20,5,Royal South Yarra,Highmoor Uniting,No. 1,Sam Lidstone,Ian Rachinsky,Ian Rachinsky,1-6,1,6,0,1,Completed,true,false,false
+UA002052,13 Dec 20,5,Royal South Yarra,Highmoor Uniting,No. 2,Oliver McLean,Leo McInerney,Leo McInerney,0-6,0,6,0,1,Completed,true,false,false
+UA002052,13 Dec 20,5,Royal South Yarra,Highmoor Uniting,No. 3,Grace Keating,Adam Horan,Adam Horan,4-6,4,6,0,1,Completed,true,false,false
+UA002052,13 Dec 20,5,Royal South Yarra,Highmoor Uniting,No. 4,Lucy Campbell,Nikola Suluburic,Nikola Suluburic,4-6,4,6,0,1,Completed,true,true,true
+UA002053,13 Dec 20,5,Caulfield Rec,St Joan of Arc,No. 1,Chris Liolios,Harry Smith,Harry Smith,6-7,6,7,0,1,Completed,true,false,false
+UA002053,13 Dec 20,5,Caulfield Rec,St Joan of Arc,No. 2,Costa Papasotiriou,Ethan Kearns,Costa Papasotiriou,6-3,6,3,1,0,Completed,true,false,false
+UA002053,13 Dec 20,5,Caulfield Rec,St Joan of Arc,No. 3,Kripa Shreshtna,Tommy Trist,Tommy Trist,1-6,1,6,0,1,Completed,true,false,false
+UA002053,13 Dec 20,5,Caulfield Rec,St Joan of Arc,No. 4,Mohan Parmar,James McDougall,James McDougall,0-6,0,6,0,1,Completed,true,true,false
+UA002063,20 Dec 20,6,Highmoor Uniting,Caulfield Rec,No. 1,Ian Rachinsky,Costa Papasotiriou,Ian Rachinsky,7-5,7,5,1,0,Completed,true,false,false
+UA002063,20 Dec 20,6,Highmoor Uniting,Caulfield Rec,No. 2,Leo McInerney,Kripa Shreshtna,Leo McInerney,6-2,6,2,1,0,Completed,true,false,false
+UA002063,20 Dec 20,6,Highmoor Uniting,Caulfield Rec,No. 3,Josh Glassock,Elijah Cordover,Elijah Cordover,3-6,3,6,0,1,Completed,true,false,false
+UA002063,20 Dec 20,6,Highmoor Uniting,Caulfield Rec,No. 4,Asher Lithgow,Mohan Parmar,Mohan Parmar,1-6,1,6,0,1,Completed,true,false,true
+UA002064,20 Dec 20,6,St Joan of Arc,Royal South Yarra,No. 1,Harry Smith,Nick Evans,Nick Evans,3-6,3,6,0,1,Completed,true,false,true
+UA002064,20 Dec 20,6,St Joan of Arc,Royal South Yarra,No. 2,Ethan Kearns,Sam Lidstone,Ethan Kearns,7-5,7,5,1,0,Completed,true,false,false
+UA002064,20 Dec 20,6,St Joan of Arc,Royal South Yarra,No. 3,James McDougall,Oliver McLean,James McDougall,6-3,6,3,1,0,Completed,true,false,false
+UA002064,20 Dec 20,6,St Joan of Arc,Royal South Yarra,No. 4,Kyle Laughnon,Grace Keating,Grace Keating,0-6,0,6,0,1,Completed,true,true,false

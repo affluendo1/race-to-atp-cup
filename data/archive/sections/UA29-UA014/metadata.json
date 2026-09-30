@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA29-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2021",
+  "season_id": "UA29",
+  "season_label": "Spring 2021",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "GPHC",
+      "wins": 4,
+      "points": 82,
+      "percentage": 215.05,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Black Rock",
+      "wins": 4,
+      "points": 70,
+      "percentage": 129.08,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Coatesville",
+      "wins": 2,
+      "points": 68,
+      "percentage": 168.18,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Elsternwick Park",
+      "wins": 3,
+      "points": 68,
+      "percentage": 161.84,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Murrumbeena",
+      "wins": 2,
+      "points": 55,
+      "percentage": 86.63,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave",
+      "wins": 1,
+      "points": 43,
+      "percentage": 58.2,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Bentleigh Rec",
+      "wins": 0,
+      "points": 34,
+      "percentage": 23.88,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA29-UA014",
+  "fixtures": 56,
+  "completed_fixtures": 17,
+  "draw_fixtures": 56,
+  "singles_rubbers": 64,
+  "doubles_rubbers": 32,
+  "latest_round": 14,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

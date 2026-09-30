@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA5-UA042",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2009",
+  "season_id": "UA5",
+  "season_label": "Spring 2009",
+  "source_section_code": "UA042",
+  "section_label": "5",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Bodley Tennis Plus",
+      "wins": 0,
+      "points": 105,
+      "percentage": 241.76,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Le Page",
+      "wins": 0,
+      "points": 105,
+      "percentage": 169.37,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kings Park",
+      "wins": 0,
+      "points": 69,
+      "percentage": 95.29,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Elwood",
+      "wins": 0,
+      "points": 67,
+      "percentage": 104.46,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC",
+      "wins": 0,
+      "points": 56,
+      "percentage": 75.8,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Maccabi",
+      "wins": 0,
+      "points": 54,
+      "percentage": 111.72,
+      "marker": "*"
+    },
+    {
+      "position": 7,
+      "team": "Kooyong Scotch",
+      "wins": 0,
+      "points": 48,
+      "percentage": 63.05,
+      "marker": "*"
+    },
+    {
+      "position": 8,
+      "team": "Aspendale",
+      "wins": 0,
+      "points": 36,
+      "percentage": 42.66,
+      "marker": "*"
+    }
+  ],
+  "section_code": "UA5-UA042",
+  "fixtures": 59,
+  "completed_fixtures": 51,
+  "draw_fixtures": 3,
+  "singles_rubbers": 204,
+  "doubles_rubbers": 102,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

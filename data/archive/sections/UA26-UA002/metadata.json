@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA26-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2020",
+  "season_id": "UA26",
+  "season_label": "Autumn 2020",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC 1",
+      "wins": 5,
+      "points": 49,
+      "percentage": 175.79,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Dendy Park",
+      "wins": 5,
+      "points": 47,
+      "percentage": 132.52,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Coatesville",
+      "wins": 3,
+      "points": 33,
+      "percentage": 125.44,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Elsternwick Park",
+      "wins": 3,
+      "points": 32,
+      "percentage": 103.25,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC 2",
+      "wins": 2,
+      "points": 27,
+      "percentage": 90.0,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC",
+      "wins": 1,
+      "points": 22,
+      "percentage": 87.76,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong",
+      "wins": 0,
+      "points": 18,
+      "percentage": 74.63,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Centenary Park",
+      "wins": 0,
+      "points": 12,
+      "percentage": 51.52,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA26-UA002",
+  "fixtures": 24,
+  "completed_fixtures": 19,
+  "draw_fixtures": 56,
+  "singles_rubbers": 76,
+  "doubles_rubbers": 38,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

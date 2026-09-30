@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA19-UA016",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2016",
+  "season_id": "UA19",
+  "season_label": "Spring 2016",
+  "source_section_code": "UA016",
+  "section_label": "Section 16",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Andrews MB BG",
+      "wins": 11,
+      "points": 99,
+      "percentage": 174.35,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Caulfield Rec",
+      "wins": 8,
+      "points": 80,
+      "percentage": 129.18,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Dendy Park",
+      "wins": 6,
+      "points": 62,
+      "percentage": 97.14,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Royal Ave",
+      "wins": 6,
+      "points": 60,
+      "percentage": 105.18,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Tennis World",
+      "wins": 5,
+      "points": 56,
+      "percentage": 96.33,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Aspendale",
+      "wins": 4,
+      "points": 47,
+      "percentage": 86.18,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra",
+      "wins": 0,
+      "points": 16,
+      "percentage": 46.09,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA19-UA016",
+  "fixtures": 59,
+  "completed_fixtures": 43,
+  "draw_fixtures": 59,
+  "singles_rubbers": 172,
+  "doubles_rubbers": 86,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA18-UA013",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2016",
+  "season_id": "UA18",
+  "season_label": "Autumn 2016",
+  "source_section_code": "UA013",
+  "section_label": "Section 13",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Aspendale",
+      "wins": 11,
+      "points": 108,
+      "percentage": 169.44,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "GPHC 1",
+      "wins": 11,
+      "points": 107,
+      "percentage": 176.39,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "GPHC 2",
+      "wins": 10,
+      "points": 93,
+      "percentage": 133.92,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong Xavier",
+      "wins": 7,
+      "points": 77,
+      "percentage": 117.3,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Maccabi",
+      "wins": 5,
+      "points": 62,
+      "percentage": 89.37,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC",
+      "wins": 4,
+      "points": 44,
+      "percentage": 69.95,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Tennis World 2",
+      "wins": 3,
+      "points": 43,
+      "percentage": 67.1,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Tennis World 1",
+      "wins": 1,
+      "points": 26,
+      "percentage": 48.81,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA18-UA013",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

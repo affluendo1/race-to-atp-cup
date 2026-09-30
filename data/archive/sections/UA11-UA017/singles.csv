@@ -1,0 +1,205 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA017011,22 Jul 12,1,Murrumbeena 1,Lauriston,No. 1,Sam Hickman,Charlotte Renfrey,Sam Hickman,6-4,6,4,1,0,Completed,true,false,false
+UA017011,22 Jul 12,1,Murrumbeena 1,Lauriston,No. 2,Tom Williamson,Daisy Assauw,Daisy Assauw,3-6,3,6,0,1,Completed,true,false,false
+UA017011,22 Jul 12,1,Murrumbeena 1,Lauriston,No. 3,Lucas Ryan,Lara Moisi,Lara Moisi,6-7,6,7,0,1,Completed,true,false,false
+UA017011,22 Jul 12,1,Murrumbeena 1,Lauriston,No. 4,Will Hogan,Ella Maitland,Will Hogan,6-0,6,0,1,0,Completed,true,false,false
+UA017012,22 Jul 12,1,BLTC,Black Rock,No. 1,Benedict Travis,Jasmin Hands,Benedict Travis,6-4,6,4,1,0,Completed,true,false,false
+UA017012,22 Jul 12,1,BLTC,Black Rock,No. 2,Ethan Staggs,Victoria Edwards,Ethan Staggs,6-0,6,0,1,0,Completed,true,false,false
+UA017012,22 Jul 12,1,BLTC,Black Rock,No. 3,Bailey Reed,Nadir Kabas,Nadir Kabas,2-6,2,6,0,1,Completed,true,false,false
+UA017012,22 Jul 12,1,BLTC,Black Rock,No. 4,Gabriel Travis,Georgia Simpson,Gabriel Travis,6-0,6,0,1,0,Completed,true,false,false
+UA017031,05 Aug 12,3,Murrumbeena 1,GPHC MLC,No. 1,Sam Hickman,Ellen Kanellos,Ellen Kanellos,5-7,5,7,0,1,Completed,true,false,false
+UA017031,05 Aug 12,3,Murrumbeena 1,GPHC MLC,No. 2,Mitch Nugara,Annalaise Grimm,Mitch Nugara,6-0,6,0,1,0,Completed,true,false,false
+UA017031,05 Aug 12,3,Murrumbeena 1,GPHC MLC,No. 3,Tom Williamson,James Toohey,Tom Williamson,6-0,6,0,1,0,Completed,true,false,false
+UA017031,05 Aug 12,3,Murrumbeena 1,GPHC MLC,No. 4,Lucas Ryan,Jack Fuller,Jack Fuller,1-6,1,6,0,1,Completed,true,false,false
+UA017032,05 Aug 12,3,BLTC,Mentone,No. 1,Benedict Travis,Jason Bartonek,Benedict Travis,6-3,6,3,1,0,Completed,true,false,false
+UA017032,05 Aug 12,3,BLTC,Mentone,No. 2,Ethan Staggs,Ethan Hale,Ethan Staggs,6-4,6,4,1,0,Completed,true,false,false
+UA017032,05 Aug 12,3,BLTC,Mentone,No. 3,Jake Owen,Xavier Hale,Xavier Hale,3-6,3,6,0,1,Completed,true,false,false
+UA017032,05 Aug 12,3,BLTC,Mentone,No. 4,Andrew Pemberton,Lachlan Howell,Andrew Pemberton,6-2,6,2,1,0,Completed,true,false,false
+UA017033,05 Aug 12,3,Royal Ave,Lauriston,No. 1,James Norbury,Charlotte Renfrey,James Norbury,6-1,6,1,1,0,Completed,true,false,false
+UA017033,05 Aug 12,3,Royal Ave,Lauriston,No. 2,Nate Hollis,Daisy Assauw,Nate Hollis,6-2,6,2,1,0,Completed,true,false,false
+UA017033,05 Aug 12,3,Royal Ave,Lauriston,No. 3,Michael Jiang,Angela Edgely,Michael Jiang,6-2,6,2,1,0,Completed,true,false,false
+UA017033,05 Aug 12,3,Royal Ave,Lauriston,No. 4,James Pilcher,Nicholas Livanos,Nicholas Livanos,2-6,2,6,0,1,Completed,true,false,false
+UA017034,05 Aug 12,3,Murrumbeena 2,Black Rock,No. 1,Harry Holzer,Nadir Kabas,Nadir Kabas,2-6,2,6,0,1,Completed,true,false,false
+UA017034,05 Aug 12,3,Murrumbeena 2,Black Rock,No. 2,Emmanuel Efstathiou,Victoria Edwards,Emmanuel Efstathiou,7-6,7,6,1,0,Completed,true,false,false
+UA017034,05 Aug 12,3,Murrumbeena 2,Black Rock,No. 3,Lucinda Papas,Georgia Simpson,Georgia Simpson,4-6,4,6,0,1,Completed,true,false,false
+UA017034,05 Aug 12,3,Murrumbeena 2,Black Rock,No. 4,Radhi Chalikavada,Jasmin Hands,Jasmin Hands,2-6,2,6,0,1,Completed,true,false,false
+UA017041,12 Aug 12,4,Black Rock,Murrumbeena 1,No. 1,Nadir Kabas,Sam Hickman,Nadir Kabas,6-0,6,0,1,0,Completed,true,false,false
+UA017041,12 Aug 12,4,Black Rock,Murrumbeena 1,No. 2,Will Durston,Harry Schindler,Harry Schindler,6-7,6,7,0,1,Completed,true,false,false
+UA017041,12 Aug 12,4,Black Rock,Murrumbeena 1,No. 3,Victoria Edwards,Mitch Nugara,Mitch Nugara,6-7,6,7,0,1,Completed,true,false,false
+UA017041,12 Aug 12,4,Black Rock,Murrumbeena 1,No. 4,Georgia Simpson,Tom Williamson,Tom Williamson,1-6,1,6,0,1,Completed,true,false,false
+UA017042,12 Aug 12,4,GPHC MLC,BLTC,No. 1,Ellen Kanellos,Sebastian Wolfendon,Ellen Kanellos,6-1,6,1,1,0,Completed,true,false,false
+UA017042,12 Aug 12,4,GPHC MLC,BLTC,No. 2,Gabriel Buchanan,Andrew Pemberton,Gabriel Buchanan,6-3,6,3,1,0,Completed,true,false,false
+UA017042,12 Aug 12,4,GPHC MLC,BLTC,No. 3,Marcus Nield,Jake Owen,Marcus Nield,6-2,6,2,1,0,Completed,true,false,false
+UA017042,12 Aug 12,4,GPHC MLC,BLTC,No. 4,Jack Fuller,Harris Day,Jack Fuller,6-0,6,0,1,0,Completed,true,false,false
+UA017043,12 Aug 12,4,Mentone,Royal Ave,No. 1,Jason Bartonek,James Norbury,James Norbury,5-7,5,7,0,1,Completed,true,false,false
+UA017043,12 Aug 12,4,Mentone,Royal Ave,No. 2,Ethan Hale,Nate Hollis,Ethan Hale,6-3,6,3,1,0,Completed,true,false,false
+UA017043,12 Aug 12,4,Mentone,Royal Ave,No. 3,Kostya Rudakov,Michael Jiang,Michael Jiang,5-7,5,7,0,1,Completed,true,false,false
+UA017043,12 Aug 12,4,Mentone,Royal Ave,No. 4,Mariah Milla,James Pilcher,James Pilcher,0-6,0,6,0,1,Completed,true,false,false
+UA017044,12 Aug 12,4,Lauriston,Murrumbeena 2,No. 1,Ella Maitland,Harry Holzer,Harry Holzer,5-7,5,7,0,1,Completed,true,false,false
+UA017044,12 Aug 12,4,Lauriston,Murrumbeena 2,No. 2,Charlotte Renfrey,Emmanuel Efstathiou,Emmanuel Efstathiou,0-6,0,6,0,1,Completed,true,false,false
+UA017044,12 Aug 12,4,Lauriston,Murrumbeena 2,No. 3,Lara Moisi,Mason Lou,Mason Lou,1-6,1,6,0,1,Completed,true,false,false
+UA017044,12 Aug 12,4,Lauriston,Murrumbeena 2,No. 4,Nicholas Livanos,Luke Lou,Luke Lou,0-6,0,6,0,1,Completed,true,false,false
+UA017051,19 Aug 12,5,Royal Ave,Murrumbeena 2,No. 1,James Norbury,Mason Lou,James Norbury,6-4,6,4,1,0,Completed,true,false,false
+UA017051,19 Aug 12,5,Royal Ave,Murrumbeena 2,No. 2,Nate Hollis,Luke Lou,Luke Lou,1-6,1,6,0,1,Completed,true,false,false
+UA017051,19 Aug 12,5,Royal Ave,Murrumbeena 2,No. 3,Nick Poulos,Sienna Pisano,Sienna Pisano,3-6,3,6,0,1,Completed,true,false,false
+UA017051,19 Aug 12,5,Royal Ave,Murrumbeena 2,No. 4,[Unnamed player — TROLS UA017051 home code 4],Lucinda Papas,Lucinda Papas,0-6,0,6,0,1,Completed,false,false,false
+UA017052,19 Aug 12,5,Mentone,GPHC MLC,No. 1,Jason Bartonek,Ellen Kanellos,Jason Bartonek,6-1,6,1,1,0,Completed,true,false,false
+UA017052,19 Aug 12,5,Mentone,GPHC MLC,No. 2,Ethan Hale,Gabriel Buchanan,Ethan Hale,6-0,6,0,1,0,Completed,true,false,false
+UA017052,19 Aug 12,5,Mentone,GPHC MLC,No. 3,Kostya Rudakov,Jack Fuller,Jack Fuller,0-6,0,6,0,1,Completed,true,false,false
+UA017052,19 Aug 12,5,Mentone,GPHC MLC,No. 4,Lachlan Howell,James Toohey,Lachlan Howell,6-0,6,0,1,0,Completed,true,false,false
+UA017053,19 Aug 12,5,Black Rock,Lauriston,No. 1,Will Durston,Daisy Assauw,Will Durston,6-3,6,3,1,0,Completed,true,false,false
+UA017053,19 Aug 12,5,Black Rock,Lauriston,No. 2,Nadir Kabas,Angela Edgely,Nadir Kabas,6-2,6,2,1,0,Completed,true,false,false
+UA017053,19 Aug 12,5,Black Rock,Lauriston,No. 3,Victoria Edwards,Lara Moisi,Victoria Edwards,6-2,6,2,1,0,Completed,true,false,false
+UA017053,19 Aug 12,5,Black Rock,Lauriston,No. 4,Georgia Simpson,Nicholas Livanos,Nicholas Livanos,3-6,3,6,0,1,Completed,true,false,false
+UA017054,19 Aug 12,5,Murrumbeena 1,BLTC,No. 1,Sam Hickman,Sebastian Wolfendon,Sam Hickman,6-2,6,2,1,0,Completed,true,false,false
+UA017054,19 Aug 12,5,Murrumbeena 1,BLTC,No. 2,Lucas Ryan,Ethan Staggs,Ethan Staggs,0-6,0,6,0,1,Completed,true,false,false
+UA017054,19 Aug 12,5,Murrumbeena 1,BLTC,No. 3,Will Hogan,Bailey Reed,Bailey Reed,4-6,4,6,0,1,Completed,true,false,false
+UA017054,19 Aug 12,5,Murrumbeena 1,BLTC,No. 4,Dominic Pretto,Andrew Pemberton,Dominic Pretto,6-4,6,4,1,0,Completed,true,false,false
+UA017061,26 Aug 12,6,BLTC,Royal Ave,No. 1,Sebastian Wolfendon,Michael Jiang,Michael Jiang,5-7,5,7,0,1,Completed,true,false,false
+UA017061,26 Aug 12,6,BLTC,Royal Ave,No. 2,Ethan Staggs,Luke Saliba,Ethan Staggs,6-0,6,0,1,0,Completed,true,false,false
+UA017061,26 Aug 12,6,BLTC,Royal Ave,No. 3,Bailey Reed,James Pilcher,Bailey Reed,6-2,6,2,1,0,Completed,true,false,false
+UA017061,26 Aug 12,6,BLTC,Royal Ave,No. 4,Jake Owen,Conor Erb,Jake Owen,6-4,6,4,1,0,Completed,true,false,false
+UA017062,26 Aug 12,6,Murrumbeena 2,Murrumbeena 1,No. 1,Harry Holzer,Sam Hickman,Harry Holzer,6-2,6,2,1,0,Completed,true,false,false
+UA017062,26 Aug 12,6,Murrumbeena 2,Murrumbeena 1,No. 2,Mason Lou,Harry Schindler,Mason Lou,6-0,6,0,1,0,Completed,true,false,false
+UA017062,26 Aug 12,6,Murrumbeena 2,Murrumbeena 1,No. 3,Luke Lou,Mitch Nugara,Mitch Nugara,3-6,3,6,0,1,Completed,true,false,false
+UA017062,26 Aug 12,6,Murrumbeena 2,Murrumbeena 1,No. 4,Radhi Chalikavada,Lucas Ryan,Lucas Ryan,6-7,6,7,0,1,Completed,true,false,false
+UA017063,26 Aug 12,6,GPHC MLC,Black Rock,No. 1,Ellen Kanellos,Nadir Kabas,Nadir Kabas,3-6,3,6,0,1,Completed,true,false,false
+UA017063,26 Aug 12,6,GPHC MLC,Black Rock,No. 2,James Toohey,Will Durston,Will Durston,2-6,2,6,0,1,Completed,true,false,false
+UA017063,26 Aug 12,6,GPHC MLC,Black Rock,No. 3,Gabriel Buchanan,Victoria Edwards,Gabriel Buchanan,6-2,6,2,1,0,Completed,true,false,false
+UA017063,26 Aug 12,6,GPHC MLC,Black Rock,No. 4,Marcus Nield,Georgia Simpson,Marcus Nield,6-0,6,0,1,0,Completed,true,false,false
+UA017064,26 Aug 12,6,Lauriston,Mentone,No. 1,Ella Maitland,Ethan Hale,Ethan Hale,0-6,0,6,0,1,Completed,true,false,false
+UA017064,26 Aug 12,6,Lauriston,Mentone,No. 2,Daisy Assauw,Kostya Rudakov,Daisy Assauw,6-4,6,4,1,0,Completed,true,false,false
+UA017064,26 Aug 12,6,Lauriston,Mentone,No. 3,Angela Edgely,Xavier Hale,Xavier Hale,4-6,4,6,0,1,Completed,true,false,false
+UA017064,26 Aug 12,6,Lauriston,Mentone,No. 4,Lara Moisi,Mariah Milla,Lara Moisi,6-2,6,2,1,0,Completed,true,false,false
+UA017071,02 Sep 12,7,Murrumbeena 1,Royal Ave,No. 1,Sam Hickman,Nate Hollis,Sam Hickman,6-3,6,3,1,0,Completed,true,false,false
+UA017071,02 Sep 12,7,Murrumbeena 1,Royal Ave,No. 2,Harry Schindler,Luke Saliba,Luke Saliba,0-6,0,6,0,1,Completed,true,false,false
+UA017071,02 Sep 12,7,Murrumbeena 1,Royal Ave,No. 3,Tom Williamson,James Pilcher,Tom Williamson,7-6,7,6,1,0,Completed,true,false,false
+UA017071,02 Sep 12,7,Murrumbeena 1,Royal Ave,No. 4,Will Hogan,Conor Erb,Will Hogan,6-4,6,4,1,0,Completed,true,false,false
+UA017073,02 Sep 12,7,Mentone,Black Rock,No. 1,Jason Bartonek,Nadir Kabas,Jason Bartonek,7-5,7,5,1,0,Completed,true,false,false
+UA017073,02 Sep 12,7,Mentone,Black Rock,No. 2,Ethan Hale,Will Durston,Ethan Hale,6-3,6,3,1,0,Completed,true,false,false
+UA017073,02 Sep 12,7,Mentone,Black Rock,No. 3,Kostya Rudakov,Victoria Edwards,Victoria Edwards,4-6,4,6,0,1,Completed,true,false,false
+UA017073,02 Sep 12,7,Mentone,Black Rock,No. 4,Xavier Hale,Georgia Simpson,Xavier Hale,6-4,6,4,1,0,Completed,true,false,false
+UA017074,02 Sep 12,7,GPHC MLC,Lauriston,No. 1,Ellen Kanellos,Tim Keeps,Ellen Kanellos,6-1,6,1,1,0,Completed,true,false,false
+UA017074,02 Sep 12,7,GPHC MLC,Lauriston,No. 2,James Toohey,Charlotte Renfrey,Charlotte Renfrey,0-6,0,6,0,1,Completed,true,false,false
+UA017074,02 Sep 12,7,GPHC MLC,Lauriston,No. 3,Annalaise Grimm,Daisy Assauw,Daisy Assauw,0-6,0,6,0,1,Completed,true,false,false
+UA017074,02 Sep 12,7,GPHC MLC,Lauriston,No. 4,Jack Fuller,Lara Moisi,Jack Fuller,6-4,6,4,1,0,Completed,true,false,false
+UA017082,09 Sep 12,8,Black Rock,BLTC,No. 1,Nadir Kabas,Sebastian Wolfendon,Nadir Kabas,6-0,6,0,1,0,Completed,true,false,false
+UA017082,09 Sep 12,8,Black Rock,BLTC,No. 2,Will Durston,Ethan Staggs,Ethan Staggs,5-7,5,7,0,1,Completed,true,false,false
+UA017082,09 Sep 12,8,Black Rock,BLTC,No. 3,Victoria Edwards,Jake Owen,Victoria Edwards,7-6,7,6,1,0,Completed,true,false,false
+UA017082,09 Sep 12,8,Black Rock,BLTC,No. 4,Georgia Simpson,Andrew Pemberton,Georgia Simpson,7-5,7,5,1,0,Completed,true,false,false
+UA017083,09 Sep 12,8,GPHC MLC,Royal Ave,No. 1,Gabriel Buchanan,James Norbury,James Norbury,1-6,1,6,0,1,Completed,true,false,false
+UA017083,09 Sep 12,8,GPHC MLC,Royal Ave,No. 2,Annalaise Grimm,Luke Saliba,Luke Saliba,0-6,0,6,0,1,Completed,true,false,false
+UA017083,09 Sep 12,8,GPHC MLC,Royal Ave,No. 3,Marcus Nield,Michael Jiang,Marcus Nield,6-4,6,4,1,0,Completed,true,false,false
+UA017083,09 Sep 12,8,GPHC MLC,Royal Ave,No. 4,Jack Fuller,James Pilcher,James Pilcher,4-6,4,6,0,1,Completed,true,false,false
+UA017084,09 Sep 12,8,Mentone,Murrumbeena 2,No. 1,Jason Bartonek,Harry Holzer,Jason Bartonek,6-1,6,1,1,0,Completed,true,false,false
+UA017084,09 Sep 12,8,Mentone,Murrumbeena 2,No. 2,Ethan Hale,Mason Lou,Ethan Hale,7-6,7,6,1,0,Completed,true,false,false
+UA017084,09 Sep 12,8,Mentone,Murrumbeena 2,No. 3,Kostya Rudakov,Luke Lou,Luke Lou,1-6,1,6,0,1,Completed,true,false,false
+UA017084,09 Sep 12,8,Mentone,Murrumbeena 2,No. 4,Mariah Milla,Lucinda Papas,Lucinda Papas,1-6,1,6,0,1,Completed,true,false,false
+UA017091,16 Sep 12,9,Murrumbeena 1,Mentone,No. 1,Harry Schindler,Jason Bartonek,Jason Bartonek,2-6,2,6,0,1,Completed,true,false,false
+UA017091,16 Sep 12,9,Murrumbeena 1,Mentone,No. 2,Tom Williamson,Ethan Hale,Ethan Hale,2-6,2,6,0,1,Completed,true,false,false
+UA017091,16 Sep 12,9,Murrumbeena 1,Mentone,No. 3,Lucas Ryan,Kostya Rudakov,Kostya Rudakov,2-6,2,6,0,1,Completed,true,false,false
+UA017091,16 Sep 12,9,Murrumbeena 1,Mentone,No. 4,Dominic Pretto,Xavier Hale,Xavier Hale,1-6,1,6,0,1,Completed,true,false,false
+UA017092,16 Sep 12,9,BLTC,Lauriston,No. 1,Sebastian Wolfendon,Tim Keeps,Sebastian Wolfendon,6-2,6,2,1,0,Completed,true,false,false
+UA017092,16 Sep 12,9,BLTC,Lauriston,No. 2,Bailey Reed,Daisy Assauw,Daisy Assauw,1-6,1,6,0,1,Completed,true,false,false
+UA017092,16 Sep 12,9,BLTC,Lauriston,No. 3,Jake Owen,Angela Edgely,Jake Owen,6-2,6,2,1,0,Completed,true,false,false
+UA017092,16 Sep 12,9,BLTC,Lauriston,No. 4,Andrew Pemberton,Lara Moisi,Andrew Pemberton,6-2,6,2,1,0,Completed,true,false,false
+UA017093,16 Sep 12,9,Royal Ave,Black Rock,No. 1,James Norbury,Nadir Kabas,Nadir Kabas,6-7,6,7,0,1,Completed,true,false,false
+UA017093,16 Sep 12,9,Royal Ave,Black Rock,No. 2,Nate Hollis,Will Durston,Will Durston,3-6,3,6,0,1,Completed,true,false,false
+UA017093,16 Sep 12,9,Royal Ave,Black Rock,No. 3,Michael Jiang,Victoria Edwards,Michael Jiang,6-1,6,1,1,0,Completed,true,false,false
+UA017093,16 Sep 12,9,Royal Ave,Black Rock,No. 4,Conor Erb,Jasmin Hands,Jasmin Hands,2-6,2,6,0,1,Completed,true,false,false
+UA017094,16 Sep 12,9,Murrumbeena 2,GPHC MLC,No. 1,Mason Lou,Ellen Kanellos,Mason Lou,7-6,7,6,1,0,Completed,true,false,false
+UA017094,16 Sep 12,9,Murrumbeena 2,GPHC MLC,No. 2,Luke Lou,Gabriel Buchanan,Gabriel Buchanan,3-6,3,6,0,1,Completed,true,false,false
+UA017094,16 Sep 12,9,Murrumbeena 2,GPHC MLC,No. 3,Sienna Pisano,Jack Fuller,Sienna Pisano,7-6,7,6,1,0,Completed,true,false,false
+UA017094,16 Sep 12,9,Murrumbeena 2,GPHC MLC,No. 4,Lucinda Papas,Maddy Fuller,Lucinda Papas,6-0,6,0,1,0,Completed,true,false,false
+UA017101,14 Oct 12,10,GPHC MLC,Murrumbeena 1,No. 1,Ellen Kanellos,Sam Hickman,Sam Hickman,1-6,1,6,0,1,Completed,true,false,false
+UA017101,14 Oct 12,10,GPHC MLC,Murrumbeena 1,No. 2,Gabriel Buchanan,Mitch Nugara,Mitch Nugara,0-6,0,6,0,1,Completed,true,false,false
+UA017101,14 Oct 12,10,GPHC MLC,Murrumbeena 1,No. 3,Marcus Nield,Will Hogan,Marcus Nield,6-0,6,0,1,0,Completed,true,false,false
+UA017101,14 Oct 12,10,GPHC MLC,Murrumbeena 1,No. 4,Jack Fuller,Dominic Pretto,Jack Fuller,6-1,6,1,1,0,Completed,true,false,false
+UA017102,14 Oct 12,10,Mentone,BLTC,No. 1,Jason Bartonek,Ethan Staggs,Jason Bartonek,6-1,6,1,1,0,Completed,true,false,false
+UA017102,14 Oct 12,10,Mentone,BLTC,No. 2,Ethan Hale,Sebastian Wolfendon,Ethan Hale,6-0,6,0,1,0,Completed,true,false,false
+UA017102,14 Oct 12,10,Mentone,BLTC,No. 3,Jonathon Lantouris,Bailey Reed,Jonathon Lantouris,6-1,6,1,1,0,Completed,true,false,false
+UA017102,14 Oct 12,10,Mentone,BLTC,No. 4,Xavier Hale,Andrew Pemberton,Xavier Hale,6-1,6,1,1,0,Completed,true,false,false
+UA017103,14 Oct 12,10,Lauriston,Royal Ave,No. 1,Ella Maitland,Nate Hollis,Nate Hollis,4-6,4,6,0,1,Completed,true,false,false
+UA017103,14 Oct 12,10,Lauriston,Royal Ave,No. 2,Charlotte Renfrey,Luke Saliba,Luke Saliba,3-6,3,6,0,1,Completed,true,false,false
+UA017103,14 Oct 12,10,Lauriston,Royal Ave,No. 3,Alicia Liu,James Pilcher,James Pilcher,4-6,4,6,0,1,Completed,true,false,false
+UA017103,14 Oct 12,10,Lauriston,Royal Ave,No. 4,Nicholas Livanos,Conor Erb,Conor Erb,5-7,5,7,0,1,Completed,true,false,false
+UA017104,14 Oct 12,10,Black Rock,Murrumbeena 2,No. 1,Nadir Kabas,Harry Holzer,Harry Holzer,2-6,2,6,0,1,Completed,true,false,false
+UA017104,14 Oct 12,10,Black Rock,Murrumbeena 2,No. 2,Will Durston,Emmanuel Efstathiou,Emmanuel Efstathiou,4-6,4,6,0,1,Completed,true,false,false
+UA017104,14 Oct 12,10,Black Rock,Murrumbeena 2,No. 3,Victoria Edwards,Sienna Pisano,Sienna Pisano,4-6,4,6,0,1,Completed,true,false,false
+UA017104,14 Oct 12,10,Black Rock,Murrumbeena 2,No. 4,Stephanie Wilson,Lucinda Papas,Stephanie Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA017111,21 Oct 12,11,Murrumbeena 1,Black Rock,No. 1,Harry Schindler,Nadir Kabas,Harry Schindler,6-1,6,1,1,0,Completed,true,false,false
+UA017111,21 Oct 12,11,Murrumbeena 1,Black Rock,No. 2,Sam Hickman,Will Durston,Sam Hickman,6-4,6,4,1,0,Completed,true,false,false
+UA017111,21 Oct 12,11,Murrumbeena 1,Black Rock,No. 3,Mitch Nugara,Victoria Edwards,Mitch Nugara,6-0,6,0,1,0,Completed,true,false,false
+UA017111,21 Oct 12,11,Murrumbeena 1,Black Rock,No. 4,Lucas Ryan,Georgia Simpson,Lucas Ryan,7-6,7,6,1,0,Completed,true,false,false
+UA017112,21 Oct 12,11,BLTC,GPHC MLC,No. 1,Ethan Staggs,Gabriel Buchanan,Ethan Staggs,6-0,6,0,1,0,Completed,true,false,false
+UA017112,21 Oct 12,11,BLTC,GPHC MLC,No. 2,[Unnamed player — TROLS UA017112 home code 2],Annalaise Grimm,Annalaise Grimm,0-6,0,6,0,1,Completed,false,false,false
+UA017112,21 Oct 12,11,BLTC,GPHC MLC,No. 3,Bailey Reed,Marcus Nield,Marcus Nield,0-6,0,6,0,1,Completed,true,false,false
+UA017112,21 Oct 12,11,BLTC,GPHC MLC,No. 4,Jake Owen,Jack Fuller,Jack Fuller,2-6,2,6,0,1,Completed,true,false,false
+UA017113,21 Oct 12,11,Royal Ave,Mentone,No. 1,James Norbury,Jason Bartonek,Jason Bartonek,4-6,4,6,0,1,Completed,true,false,false
+UA017113,21 Oct 12,11,Royal Ave,Mentone,No. 2,Nate Hollis,Jonathon Lantouris,Nate Hollis,6-1,6,1,1,0,Completed,true,false,false
+UA017113,21 Oct 12,11,Royal Ave,Mentone,No. 3,Michael Jiang,Kostya Rudakov,Kostya Rudakov,2-6,2,6,0,1,Completed,true,false,false
+UA017113,21 Oct 12,11,Royal Ave,Mentone,No. 4,Conor Erb,Dylan Guedes,Dylan Guedes,2-6,2,6,0,1,Completed,true,false,false
+UA017114,21 Oct 12,11,Murrumbeena 2,Lauriston,No. 1,Emmanuel Efstathiou,Tim Keeps,Emmanuel Efstathiou,6-1,6,1,1,0,Completed,true,false,false
+UA017114,21 Oct 12,11,Murrumbeena 2,Lauriston,No. 2,Mason Lou,Daisy Assauw,Mason Lou,6-0,6,0,1,0,Completed,true,false,false
+UA017114,21 Oct 12,11,Murrumbeena 2,Lauriston,No. 3,Luke Lou,Angela Edgely,Luke Lou,6-2,6,2,1,0,Completed,true,false,false
+UA017114,21 Oct 12,11,Murrumbeena 2,Lauriston,No. 4,Lucinda Papas,Lara Moisi,Lucinda Papas,6-1,6,1,1,0,Completed,true,false,false
+UA017121,28 Oct 12,12,Murrumbeena 2,Royal Ave,No. 1,Harry Holzer,James Norbury,James Norbury,4-6,4,6,0,1,Completed,true,false,false
+UA017121,28 Oct 12,12,Murrumbeena 2,Royal Ave,No. 2,Mason Lou,Luke Saliba,Mason Lou,6-1,6,1,1,0,Completed,true,false,false
+UA017121,28 Oct 12,12,Murrumbeena 2,Royal Ave,No. 3,Sienna Pisano,Michael Jiang,Michael Jiang,3-6,3,6,0,1,Completed,true,false,false
+UA017121,28 Oct 12,12,Murrumbeena 2,Royal Ave,No. 4,Lucinda Papas,James Pilcher,James Pilcher,2-6,2,6,0,1,Completed,true,false,false
+UA017122,28 Oct 12,12,GPHC MLC,Mentone,No. 1,Ellen Kanellos,Jason Bartonek,Jason Bartonek,0-6,0,6,0,1,Completed,true,false,false
+UA017122,28 Oct 12,12,GPHC MLC,Mentone,No. 2,Gabriel Buchanan,Jonathon Lantouris,Gabriel Buchanan,6-3,6,3,1,0,Completed,true,false,false
+UA017122,28 Oct 12,12,GPHC MLC,Mentone,No. 3,Annalaise Grimm,Kostya Rudakov,Kostya Rudakov,0-6,0,6,0,1,Completed,true,false,false
+UA017122,28 Oct 12,12,GPHC MLC,Mentone,No. 4,Marcus Nield,Dylan Guedes,Marcus Nield,6-2,6,2,1,0,Completed,true,false,false
+UA017123,28 Oct 12,12,Lauriston,Black Rock,No. 1,Charlotte Renfrey,Nadir Kabas,Nadir Kabas,0-6,0,6,0,1,Completed,true,false,false
+UA017123,28 Oct 12,12,Lauriston,Black Rock,No. 2,Alicia Liu,Will Durston,Will Durston,2-6,2,6,0,1,Completed,true,false,false
+UA017123,28 Oct 12,12,Lauriston,Black Rock,No. 3,Daisy Assauw,Victoria Edwards,Victoria Edwards,5-7,5,7,0,1,Completed,true,false,false
+UA017123,28 Oct 12,12,Lauriston,Black Rock,No. 4,Nicholas Livanos,Georgia Simpson,Nicholas Livanos,6-1,6,1,1,0,Completed,true,false,false
+UA017124,28 Oct 12,12,BLTC,Murrumbeena 1,No. 1,Ethan Staggs,Harry Schindler,Harry Schindler,1-6,1,6,0,1,Completed,true,false,false
+UA017124,28 Oct 12,12,BLTC,Murrumbeena 1,No. 2,Bailey Reed,Tom Williamson,Tom Williamson,6-7,6,7,0,1,Completed,true,false,false
+UA017124,28 Oct 12,12,BLTC,Murrumbeena 1,No. 3,Jake Owen,Lucas Ryan,Jake Owen,6-4,6,4,1,0,Completed,true,false,false
+UA017124,28 Oct 12,12,BLTC,Murrumbeena 1,No. 4,Andrew Pemberton,Dominic Pretto,Andrew Pemberton,7-6,7,6,1,0,Completed,true,false,false
+UA017131,11 Nov 12,13,Royal Ave,BLTC,No. 1,James Norbury,[Unnamed player — TROLS UA017131 away code 1],James Norbury,6-0,6,0,1,0,Completed,false,false,false
+UA017131,11 Nov 12,13,Royal Ave,BLTC,No. 2,Luke Saliba,Bailey Reed,Luke Saliba,6-2,6,2,1,0,Completed,true,false,false
+UA017131,11 Nov 12,13,Royal Ave,BLTC,No. 3,James Pilcher,Jake Owen,James Pilcher,6-4,6,4,1,0,Completed,true,false,false
+UA017131,11 Nov 12,13,Royal Ave,BLTC,No. 4,Conor Erb,Andrew Pemberton,Conor Erb,6-4,6,4,1,0,Completed,true,true,false
+UA017132,11 Nov 12,13,Murrumbeena 1,Murrumbeena 2,No. 1,Harry Schindler,Harry Holzer,Harry Schindler,7-6,7,6,1,0,Completed,true,false,false
+UA017132,11 Nov 12,13,Murrumbeena 1,Murrumbeena 2,No. 2,Sam Hickman,Emmanuel Efstathiou,Emmanuel Efstathiou,3-6,3,6,0,1,Completed,true,false,false
+UA017132,11 Nov 12,13,Murrumbeena 1,Murrumbeena 2,No. 3,Tom Williamson,Mason Lou,Tom Williamson,6-3,6,3,1,0,Completed,true,false,false
+UA017132,11 Nov 12,13,Murrumbeena 1,Murrumbeena 2,No. 4,Lucas Ryan,Will Hogan,Will Hogan,4-6,4,6,0,1,Completed,true,false,true
+UA017133,11 Nov 12,13,Black Rock,GPHC MLC,No. 1,Nadir Kabas,Ellen Kanellos,Nadir Kabas,6-2,6,2,1,0,Completed,true,false,false
+UA017133,11 Nov 12,13,Black Rock,GPHC MLC,No. 2,Will Durston,Gabriel Buchanan,Gabriel Buchanan,1-6,1,6,0,1,Completed,true,false,false
+UA017133,11 Nov 12,13,Black Rock,GPHC MLC,No. 3,Victoria Edwards,Annalaise Grimm,Victoria Edwards,6-1,6,1,1,0,Completed,true,false,false
+UA017133,11 Nov 12,13,Black Rock,GPHC MLC,No. 4,Georgia Simpson,Jack Fuller,Jack Fuller,6-7,6,7,0,1,Completed,true,false,false
+UA017134,11 Nov 12,13,Mentone,Lauriston,No. 1,Jason Bartonek,Tim Keeps,Jason Bartonek,6-0,6,0,1,0,Completed,true,false,false
+UA017134,11 Nov 12,13,Mentone,Lauriston,No. 2,Ethan Hale,[Unnamed player — TROLS UA017134 away code 2],Ethan Hale,6-0,6,0,1,0,Completed,false,false,false
+UA017134,11 Nov 12,13,Mentone,Lauriston,No. 3,Kostya Rudakov,Alicia Liu,Kostya Rudakov,6-2,6,2,1,0,Completed,true,false,false
+UA017134,11 Nov 12,13,Mentone,Lauriston,No. 4,Xavier Hale,Nicholas Livanos,Xavier Hale,6-4,6,4,1,0,Completed,true,false,false
+UA017141,18 Nov 12,14,Royal Ave,Murrumbeena 1,No. 1,James Norbury,Sam Hickman,James Norbury,6-3,6,3,1,0,Completed,true,false,false
+UA017141,18 Nov 12,14,Royal Ave,Murrumbeena 1,No. 2,Nate Hollis,Harry Schindler,Nate Hollis,6-0,6,0,1,0,Completed,true,false,false
+UA017141,18 Nov 12,14,Royal Ave,Murrumbeena 1,No. 3,Michael Jiang,Tom Williamson,Michael Jiang,6-4,6,4,1,0,Completed,true,false,false
+UA017141,18 Nov 12,14,Royal Ave,Murrumbeena 1,No. 4,Conor Erb,Will Hogan,Conor Erb,6-3,6,3,1,0,Completed,true,false,false
+UA017142,18 Nov 12,14,Murrumbeena 2,BLTC,No. 1,Harry Holzer,Harris Day,Harris Day,1-6,1,6,0,1,Completed,true,false,false
+UA017142,18 Nov 12,14,Murrumbeena 2,BLTC,No. 2,Emmanuel Efstathiou,Ethan Staggs,Emmanuel Efstathiou,7-5,7,5,1,0,Completed,true,false,false
+UA017142,18 Nov 12,14,Murrumbeena 2,BLTC,No. 3,Mason Lou,Andrew Pemberton,Mason Lou,7-5,7,5,1,0,Completed,true,false,false
+UA017142,18 Nov 12,14,Murrumbeena 2,BLTC,No. 4,Lucinda Papas,[Unnamed player — TROLS UA017142 away code 4],Lucinda Papas,6-0,6,0,1,0,Completed,false,false,false
+UA017143,18 Nov 12,14,Black Rock,Mentone,No. 1,Nadir Kabas,Jason Bartonek,Jason Bartonek,2-6,2,6,0,1,Completed,true,false,false
+UA017143,18 Nov 12,14,Black Rock,Mentone,No. 2,Will Durston,Ethan Hale,Ethan Hale,2-6,2,6,0,1,Completed,true,false,false
+UA017143,18 Nov 12,14,Black Rock,Mentone,No. 3,Stephanie Wilson,Kostya Rudakov,Stephanie Wilson,6-0,6,0,1,0,Completed,true,false,false
+UA017143,18 Nov 12,14,Black Rock,Mentone,No. 4,Georgia Simpson,Xavier Hale,Xavier Hale,2-6,2,6,0,1,Completed,true,false,false
+UA017144,18 Nov 12,14,Lauriston,GPHC MLC,No. 1,Tim Keeps,Ellen Kanellos,Ellen Kanellos,2-6,2,6,0,1,Completed,true,false,false
+UA017144,18 Nov 12,14,Lauriston,GPHC MLC,No. 2,Ella Maitland,Gabriel Buchanan,Gabriel Buchanan,2-6,2,6,0,1,Completed,true,false,false
+UA017144,18 Nov 12,14,Lauriston,GPHC MLC,No. 3,Daisy Assauw,Annalaise Grimm,Daisy Assauw,6-0,6,0,1,0,Completed,true,false,false
+UA017144,18 Nov 12,14,Lauriston,GPHC MLC,No. 4,Nicholas Livanos,Marcus Nield,Marcus Nield,0-6,0,6,0,1,Completed,true,false,false
+UA017301,,16,Mentone,Murrumbeena 1,No. 1,Jason Bartonek,Harry Schindler,Jason Bartonek,6-1,6,1,1,0,Completed,true,false,false
+UA017301,,16,Mentone,Murrumbeena 1,No. 2,Ethan Hale,Sam Hickman,Ethan Hale,6-4,6,4,1,0,Completed,true,false,false
+UA017301,,16,Mentone,Murrumbeena 1,No. 3,Kostya Rudakov,Tom Williamson,Tom Williamson,2-6,2,6,0,1,Completed,true,false,false
+UA017301,,16,Mentone,Murrumbeena 1,No. 4,Xavier Hale,Lucas Ryan,Xavier Hale,6-2,6,2,1,0,Completed,true,false,false
+UA017302,,16,Murrumbeena 2,Royal Ave,No. 1,Harry Holzer,James Norbury,James Norbury,2-6,2,6,0,1,Completed,true,false,false
+UA017302,,16,Murrumbeena 2,Royal Ave,No. 2,Emmanuel Efstathiou,Nate Hollis,Emmanuel Efstathiou,7-5,7,5,1,0,Completed,true,false,false
+UA017302,,16,Murrumbeena 2,Royal Ave,No. 3,Mason Lou,Luke Saliba,Luke Saliba,4-6,4,6,0,1,Completed,true,false,false
+UA017302,,16,Murrumbeena 2,Royal Ave,No. 4,Luke Lou,Michael Jiang,Luke Lou,6-1,6,1,1,0,Completed,true,false,false
+UA017321,,17,Mentone,Murrumbeena 2,No. 1,Jason Bartonek,Harry Holzer,Jason Bartonek,7-6,7,6,1,0,Completed,true,false,false
+UA017321,,17,Mentone,Murrumbeena 2,No. 2,Ethan Hale,Emmanuel Efstathiou,Ethan Hale,7-6,7,6,1,0,Completed,true,false,false
+UA017321,,17,Mentone,Murrumbeena 2,No. 3,Kostya Rudakov,Luke Lou,Luke Lou,2-6,2,6,0,1,Completed,true,false,false
+UA017321,,17,Mentone,Murrumbeena 2,No. 4,Xavier Hale,Sienna Pisano,Sienna Pisano,1-6,1,6,0,1,Completed,true,false,false

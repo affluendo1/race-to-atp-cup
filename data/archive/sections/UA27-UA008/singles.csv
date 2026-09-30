@@ -1,0 +1,89 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA008011,15 Nov 20,1,Le Page,Lauriston,No. 1,Elan Amler,Kate Nguyen,Elan Amler,6-3,6,3,1,0,Completed,true,false,false
+UA008011,15 Nov 20,1,Le Page,Lauriston,No. 2,James Polygenis,Phoebe Rodda,James Polygenis,6-2,6,2,1,0,Completed,true,false,false
+UA008011,15 Nov 20,1,Le Page,Lauriston,No. 3,Kevin He,Naineishia Kota,Kevin He,6-3,6,3,1,0,Completed,true,false,false
+UA008011,15 Nov 20,1,Le Page,Lauriston,No. 4,James Katakouzinos,Chestha Phulara,Chestha Phulara,5-7,5,7,0,1,Completed,true,false,false
+UA008012,15 Nov 20,1,Royal Ave 1,Black Rock,No. 1,Charles McNabney-Stevens,Kai Takagi,Kai Takagi,2-6,2,6,0,1,Completed,true,false,false
+UA008012,15 Nov 20,1,Royal Ave 1,Black Rock,No. 2,Harrison Moller,Jacky Kong,Harrison Moller,6-4,6,4,1,0,Completed,true,false,false
+UA008012,15 Nov 20,1,Royal Ave 1,Black Rock,No. 3,Ben Hemingway,Gabriel Coleman,Ben Hemingway,6-4,6,4,1,0,Completed,true,false,false
+UA008012,15 Nov 20,1,Royal Ave 1,Black Rock,No. 4,[Unnamed player — TROLS UA008012 home code 4],Aryan Palai,Aryan Palai,0-6,0,6,0,1,Completed,false,false,false
+UA008013,15 Nov 20,1,Hurlingham Park 2,Royal Ave 2,No. 1,Daniel Deguara,Ethan Pham,Ethan Pham,4-6,4,6,0,1,Completed,true,true,false
+UA008013,15 Nov 20,1,Hurlingham Park 2,Royal Ave 2,No. 2,Nicole Vassilett,William Farrugia,William Farrugia,1-6,1,6,0,1,Completed,true,false,false
+UA008013,15 Nov 20,1,Hurlingham Park 2,Royal Ave 2,No. 3,Baxter Wollen,Jack Vakrinos,Jack Vakrinos,3-6,3,6,0,1,Completed,true,false,false
+UA008013,15 Nov 20,1,Hurlingham Park 2,Royal Ave 2,No. 4,Lucy Sutton,Mia Hilaris,Lucy Sutton,6-4,6,4,1,0,Completed,true,false,false
+UA008014,15 Nov 20,1,Dendy Park,Hurlingham Park 1,No. 1,Zach Anquetil,Kynan Enwright,Kynan Enwright,2-6,2,6,0,1,Completed,true,false,false
+UA008014,15 Nov 20,1,Dendy Park,Hurlingham Park 1,No. 2,Rosie Nolan,Tom Vanderligt,Rosie Nolan,6-3,6,3,1,0,Completed,true,false,false
+UA008014,15 Nov 20,1,Dendy Park,Hurlingham Park 1,No. 3,Monique Taranto,Ashton Vati,Ashton Vati,0-6,0,6,0,1,Completed,true,false,false
+UA008014,15 Nov 20,1,Dendy Park,Hurlingham Park 1,No. 4,Will Cameron,Eliot Rey-Benguigui,Will Cameron,6-3,6,3,1,0,Completed,true,false,false
+UA008021,22 Nov 20,2,Hurlingham Park 1,Le Page,No. 1,Kynan Enwright,James Polygenis,Kynan Enwright,6-1,6,1,1,0,Completed,true,false,false
+UA008021,22 Nov 20,2,Hurlingham Park 1,Le Page,No. 2,Matty Townsend,Kevin He,Matty Townsend,6-0,6,0,1,0,Completed,true,false,false
+UA008021,22 Nov 20,2,Hurlingham Park 1,Le Page,No. 3,Tom Vanderligt,James Katakouzinos,Tom Vanderligt,6-3,6,3,1,0,Completed,true,false,false
+UA008021,22 Nov 20,2,Hurlingham Park 1,Le Page,No. 4,Ashton Vati,Aryan Singh,Ashton Vati,6-1,6,1,1,0,Completed,true,false,false
+UA008022,22 Nov 20,2,Lauriston,Royal Ave 1,No. 1,Kate Nguyen,Charles McNabney-Stevens,Kate Nguyen,6-1,6,1,1,0,Completed,true,false,false
+UA008022,22 Nov 20,2,Lauriston,Royal Ave 1,No. 2,Phoebe Rodda,Isabel Goldsmith,Isabel Goldsmith,6-7,6,7,0,1,Completed,true,false,false
+UA008022,22 Nov 20,2,Lauriston,Royal Ave 1,No. 3,Chestha Phulara,Harrison Moller,Harrison Moller,3-6,3,6,0,1,Completed,true,false,false
+UA008022,22 Nov 20,2,Lauriston,Royal Ave 1,No. 4,John Paul Suntosa,Anika Moller,Anika Moller,2-6,2,6,0,1,Completed,true,false,true
+UA008023,22 Nov 20,2,Black Rock,Hurlingham Park 2,No. 1,Kai Takagi,Baxter Wollen,Baxter Wollen,5-7,5,7,0,1,Completed,true,false,false
+UA008023,22 Nov 20,2,Black Rock,Hurlingham Park 2,No. 2,Gabriel Coleman,Nicole Vassilett,Nicole Vassilett,1-6,1,6,0,1,Completed,true,false,false
+UA008023,22 Nov 20,2,Black Rock,Hurlingham Park 2,No. 3,Lachlan Howell,Jeremy Hutchins,Jeremy Hutchins,4-6,4,6,0,1,Completed,true,true,false
+UA008023,22 Nov 20,2,Black Rock,Hurlingham Park 2,No. 4,Ella Rankin,Chloe Millar,Ella Rankin,6-2,6,2,1,0,Completed,true,true,false
+UA008024,22 Nov 20,2,Royal Ave 2,Dendy Park,No. 1,Ethan Pham,Zach Anquetil,Ethan Pham,7-5,7,5,1,0,Completed,true,false,false
+UA008024,22 Nov 20,2,Royal Ave 2,Dendy Park,No. 2,William Farrugia,Angus McIntire,William Farrugia,6-0,6,0,1,0,Completed,true,false,false
+UA008024,22 Nov 20,2,Royal Ave 2,Dendy Park,No. 3,Mia Hilaris,Charlotte Sutton,Mia Hilaris,6-2,6,2,1,0,Completed,true,false,false
+UA008024,22 Nov 20,2,Royal Ave 2,Dendy Park,No. 4,Caleb Jackson-Wright,Tess Feller,Caleb Jackson-Wright,6-0,6,0,1,0,Completed,true,false,false
+UA008032,29 Nov 20,3,Royal Ave 1,Hurlingham Park 1,No. 1,Yandee Napoleon,Kynan Enwright,Kynan Enwright,6-7,6,7,0,1,Completed,true,true,false
+UA008032,29 Nov 20,3,Royal Ave 1,Hurlingham Park 1,No. 2,Isabel Goldsmith,Matty Townsend,Matty Townsend,1-6,1,6,0,1,Completed,true,false,false
+UA008032,29 Nov 20,3,Royal Ave 1,Hurlingham Park 1,No. 3,Harrison Moller,Eliot Rey-Benguigui,Eliot Rey-Benguigui,1-6,1,6,0,1,Completed,true,false,false
+UA008032,29 Nov 20,3,Royal Ave 1,Hurlingham Park 1,No. 4,Ben Hemingway,Flynn Megahan,Ben Hemingway,6-1,6,1,1,0,Completed,true,false,true
+UA008033,29 Nov 20,3,Hurlingham Park 2,Lauriston,No. 1,Nicole Vassilett,Kate Nguyen,Nicole Vassilett,6-3,6,3,1,0,Completed,true,false,false
+UA008033,29 Nov 20,3,Hurlingham Park 2,Lauriston,No. 2,Lucy Sutton,Phoebe Rodda,Lucy Sutton,6-2,6,2,1,0,Completed,true,false,false
+UA008033,29 Nov 20,3,Hurlingham Park 2,Lauriston,No. 3,Baxter Wollen,Chestha Phulara,Baxter Wollen,6-1,6,1,1,0,Completed,true,false,false
+UA008033,29 Nov 20,3,Hurlingham Park 2,Lauriston,No. 4,Chloe Millar,John Paul Suntosa,Chloe Millar,6-0,6,0,1,0,Completed,true,false,false
+UA008041,06 Dec 20,4,Black Rock,Le Page,No. 1,Kei Takagi,James Polygenis,Kei Takagi,6-3,6,3,1,0,Completed,true,false,false
+UA008041,06 Dec 20,4,Black Rock,Le Page,No. 2,Jacky Kong,Kevin He,Jacky Kong,7-5,7,5,1,0,Completed,true,false,false
+UA008041,06 Dec 20,4,Black Rock,Le Page,No. 3,Gabriel Coleman,James Katakouzinos,Gabriel Coleman,6-4,6,4,1,0,Completed,true,false,false
+UA008041,06 Dec 20,4,Black Rock,Le Page,No. 4,Aryan Palai,Aryan Singh,Aryan Palai,7-6,7,6,1,0,Completed,true,false,false
+UA008042,06 Dec 20,4,Royal Ave 2,Royal Ave 1,No. 1,William Farrugia,Charles McNabney-Stevens,Charles McNabney-Stevens,3-6,3,6,0,1,Completed,true,false,false
+UA008042,06 Dec 20,4,Royal Ave 2,Royal Ave 1,No. 2,Mia Hilaris,Isabel Goldsmith,Mia Hilaris,6-4,6,4,1,0,Completed,true,false,false
+UA008042,06 Dec 20,4,Royal Ave 2,Royal Ave 1,No. 3,Caleb Jackson-Wright,Ben Hemingway,Ben Hemingway,2-6,2,6,0,1,Completed,true,false,false
+UA008042,06 Dec 20,4,Royal Ave 2,Royal Ave 1,No. 4,Declan Welch,Anika Moller,Anika Moller,2-6,2,6,0,1,Completed,true,true,true
+UA008043,06 Dec 20,4,Hurlingham Park 1,Hurlingham Park 2,No. 1,Kynan Enwright,Jeremy Hutchins,Kynan Enwright,6-0,6,0,1,0,Completed,true,false,false
+UA008043,06 Dec 20,4,Hurlingham Park 1,Hurlingham Park 2,No. 2,Matty Townsend,Baxter Wollen,Matty Townsend,6-2,6,2,1,0,Completed,true,false,false
+UA008043,06 Dec 20,4,Hurlingham Park 1,Hurlingham Park 2,No. 3,Tom Vanderligt,Lucy Sutton,Lucy Sutton,4-6,4,6,0,1,Completed,true,false,false
+UA008043,06 Dec 20,4,Hurlingham Park 1,Hurlingham Park 2,No. 4,Eliot Rey-Benguigui,Chloe Millar,Eliot Rey-Benguigui,6-2,6,2,1,0,Completed,true,false,false
+UA008044,06 Dec 20,4,Lauriston,Dendy Park,No. 1,Kate Nguyen,Rosie Nolan,Kate Nguyen,6-4,6,4,1,0,Completed,true,false,false
+UA008044,06 Dec 20,4,Lauriston,Dendy Park,No. 2,Naineishia Kota,Will Cameron,Naineishia Kota,6-1,6,1,1,0,Completed,true,false,false
+UA008044,06 Dec 20,4,Lauriston,Dendy Park,No. 3,Chestha Phulara,Angus McIntire,Angus McIntire,2-6,2,6,0,1,Completed,true,false,false
+UA008044,06 Dec 20,4,Lauriston,Dendy Park,No. 4,John Paul Suntosa,Tess Feller,John Paul Suntosa,6-1,6,1,1,0,Completed,true,false,false
+UA008051,13 Dec 20,5,Hurlingham Park 2,Dendy Park,No. 1,Baxter Wollen,Zach Anquetil,Zach Anquetil,3-6,3,6,0,1,Completed,true,false,false
+UA008051,13 Dec 20,5,Hurlingham Park 2,Dendy Park,No. 2,Lucy Sutton,Rosie Nolan,Rosie Nolan,4-6,4,6,0,1,Completed,true,false,false
+UA008051,13 Dec 20,5,Hurlingham Park 2,Dendy Park,No. 3,Chloe Millar,Monique Taranto,Chloe Millar,6-0,6,0,1,0,Completed,true,false,false
+UA008051,13 Dec 20,5,Hurlingham Park 2,Dendy Park,No. 4,Ben Murphy,Charlotte Sutton,Charlotte Sutton,6-7,6,7,0,1,Completed,true,true,false
+UA008052,13 Dec 20,5,Hurlingham Park 1,Royal Ave 2,No. 1,Kynan Enwright,Ethan Pham,Kynan Enwright,6-4,6,4,1,0,Completed,true,false,false
+UA008052,13 Dec 20,5,Hurlingham Park 1,Royal Ave 2,No. 2,Matty Townsend,William Farrugia,Matty Townsend,6-0,6,0,1,0,Completed,true,false,false
+UA008052,13 Dec 20,5,Hurlingham Park 1,Royal Ave 2,No. 3,Ashton Vati,Mia Hilaris,Ashton Vati,6-0,6,0,1,0,Completed,true,false,false
+UA008052,13 Dec 20,5,Hurlingham Park 1,Royal Ave 2,No. 4,Eliot Rey-Benguigui,Caleb Jackson-Wright,Eliot Rey-Benguigui,6-2,6,2,1,0,Completed,true,false,false
+UA008053,13 Dec 20,5,Black Rock,Lauriston,No. 1,Kai Takagi,Phoebe Rodda,Kai Takagi,6-2,6,2,1,0,Completed,true,false,false
+UA008053,13 Dec 20,5,Black Rock,Lauriston,No. 2,Jacky Kong,Naineishia Kota,Jacky Kong,6-4,6,4,1,0,Completed,true,false,false
+UA008053,13 Dec 20,5,Black Rock,Lauriston,No. 3,Gabriel Coleman,Chestha Phulara,Gabriel Coleman,6-3,6,3,1,0,Completed,true,false,false
+UA008053,13 Dec 20,5,Black Rock,Lauriston,No. 4,Aryan Palai,John Paul Suntosa,Aryan Palai,6-2,6,2,1,0,Completed,true,false,false
+UA008054,13 Dec 20,5,Le Page,Royal Ave 1,No. 1,Elan Amler,Charles McNabney-Stevens,Elan Amler,6-0,6,0,1,0,Completed,true,false,false
+UA008054,13 Dec 20,5,Le Page,Royal Ave 1,No. 2,James Katakouzinos,Isabel Goldsmith,James Katakouzinos,6-1,6,1,1,0,Completed,true,false,false
+UA008054,13 Dec 20,5,Le Page,Royal Ave 1,No. 3,Kevin He,Harrison Moller,Harrison Moller,5-7,5,7,0,1,Completed,true,false,false
+UA008054,13 Dec 20,5,Le Page,Royal Ave 1,No. 4,Aryan Singh,Ben Hemingway,Ben Hemingway,1-6,1,6,0,1,Completed,true,false,false
+UA008061,20 Dec 20,6,Royal Ave 1,Hurlingham Park 2,No. 1,Charles McNabney-Stevens,Nicole Vassilett,Nicole Vassilett,4-6,4,6,0,1,Completed,true,false,false
+UA008061,20 Dec 20,6,Royal Ave 1,Hurlingham Park 2,No. 2,Isabel Goldsmith,Jeremy Hutchins,Isabel Goldsmith,6-2,6,2,1,0,Completed,true,false,false
+UA008061,20 Dec 20,6,Royal Ave 1,Hurlingham Park 2,No. 3,Harrison Moller,Lucy Sutton,Harrison Moller,6-2,6,2,1,0,Completed,true,false,false
+UA008061,20 Dec 20,6,Royal Ave 1,Hurlingham Park 2,No. 4,Anika Moller,Anton Vassileff,Anton Vassileff,2-6,2,6,0,1,Completed,true,true,true
+UA008062,20 Dec 20,6,Dendy Park,Le Page,No. 1,Monique Taranto,Elan Amler,Elan Amler,1-6,1,6,0,1,Completed,true,false,false
+UA008062,20 Dec 20,6,Dendy Park,Le Page,No. 2,Angus McIntire,James Polygenis,James Polygenis,2-6,2,6,0,1,Completed,true,false,false
+UA008062,20 Dec 20,6,Dendy Park,Le Page,No. 3,Tess Feller,James Katakouzinos,James Katakouzinos,0-6,0,6,0,1,Completed,true,false,false
+UA008062,20 Dec 20,6,Dendy Park,Le Page,No. 4,Jackson Trigger,Aryan Singh,Jackson Trigger,6-1,6,1,1,0,Completed,true,true,false
+UA008063,20 Dec 20,6,Royal Ave 2,Black Rock,No. 1,Ethan Pham,Kai Takagi,Kai Takagi,6-7,6,7,0,1,Completed,true,false,false
+UA008063,20 Dec 20,6,Royal Ave 2,Black Rock,No. 2,Jack Vakrinos,Jacky Kong,Jack Vakrinos,6-3,6,3,1,0,Completed,true,false,false
+UA008063,20 Dec 20,6,Royal Ave 2,Black Rock,No. 3,Mia Hilaris,Gabriel Coleman,Gabriel Coleman,5-7,5,7,0,1,Completed,true,false,false
+UA008063,20 Dec 20,6,Royal Ave 2,Black Rock,No. 4,Caleb Jackson-Wright,Aryan Palai,Aryan Palai,5-7,5,7,0,1,Completed,true,false,false
+UA008064,20 Dec 20,6,Lauriston,Hurlingham Park 1,No. 1,Kate Nguyen,Kynan Enwright,Kynan Enwright,2-6,2,6,0,1,Completed,true,false,false
+UA008064,20 Dec 20,6,Lauriston,Hurlingham Park 1,No. 2,Phoebe Rodda,Matty Townsend,Matty Townsend,0-6,0,6,0,1,Completed,true,false,false
+UA008064,20 Dec 20,6,Lauriston,Hurlingham Park 1,No. 3,Naineishia Kota,Tom Vanderligt,Naineishia Kota,6-3,6,3,1,0,Completed,true,false,false
+UA008064,20 Dec 20,6,Lauriston,Hurlingham Park 1,No. 4,John Paul Suntosa,Luka Thurlow,Luka Thurlow,0-6,0,6,0,1,Completed,true,false,true

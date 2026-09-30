@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA6-UA006",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2010",
+  "season_id": "UA6",
+  "season_label": "Autumn 2010",
+  "source_section_code": "UA006",
+  "section_label": "Section 6",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Hurlingham Park",
+      "wins": 0,
+      "points": 97,
+      "percentage": 119.44,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Beaumaris CC",
+      "wins": 0,
+      "points": 92,
+      "percentage": 113.58,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Parkdale",
+      "wins": 0,
+      "points": 88,
+      "percentage": 113.31,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Mentone",
+      "wins": 0,
+      "points": 72,
+      "percentage": 110.27,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 64,
+      "percentage": 94.6,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Moorabbin Indoor",
+      "wins": 0,
+      "points": 57,
+      "percentage": 88.06,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 0,
+      "points": 53,
+      "percentage": 91.53,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Aspendale",
+      "wins": 0,
+      "points": 37,
+      "percentage": 78.24,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA6-UA006",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

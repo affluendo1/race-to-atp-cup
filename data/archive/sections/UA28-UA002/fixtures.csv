@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA002011,31 Jan 21,1,regular,Round 1,BLTC 1,BLTC 2,2,8,2,4,,,28,34,Completed,
+UA002012,31 Jan 21,1,regular,Round 1,Dendy Park,Hurlingham Park,5,5,3,3,,,25,25,Completed,
+UA002013,31 Jan 21,1,regular,Round 1,Coatesville,Highmoor Uniting,8,2,4,2,,,31,23,Completed,
+UA002014,31 Jan 21,1,regular,Round 1,St Joan of Arc,Carmelite,10,0,6,0,,,37,16,Completed,
+UA002022,07 Feb 21,2,regular,Round 2,BLTC 2,Dendy Park,2,8,2,4,,,21,31,Completed,
+UA002023,07 Feb 21,2,regular,Round 2,Hurlingham Park,Coatesville,3,7,3,3,,,29,30,Completed,
+UA002024,07 Feb 21,2,regular,Round 2,Highmoor Uniting,St Joan of Arc,1,9,1,5,,,22,36,Completed,
+pending-ua002-r2-carmelite-bltc-1,07 Feb 21,2,regular,Round 2,Carmelite,BLTC 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua002-r3-bltc-1-highmoor-uniting,14 Feb 21,3,regular,Round 3,BLTC 1,Highmoor Uniting,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua002-r3-coatesville-bltc-2,14 Feb 21,3,regular,Round 3,Coatesville,BLTC 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua002-r3-dendy-park-carmelite,14 Feb 21,3,regular,Round 3,Dendy Park,Carmelite,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua002-r3-st-joan-of-arc-hurlingham-park,14 Feb 21,3,regular,Round 3,St Joan of Arc,Hurlingham Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA002041,21 Feb 21,4,regular,Round 4,Hurlingham Park,BLTC 1,7,3,3,3,,,27,25,Completed,
+UA002042,21 Feb 21,4,regular,Round 4,Highmoor Uniting,Dendy Park,2,8,2,4,,,18,26,Completed,
+UA002043,21 Feb 21,4,regular,Round 4,Carmelite,Coatesville,1,9,1,5,,,14,34,Completed,
+UA002044,21 Feb 21,4,regular,Round 4,BLTC 2,St Joan of Arc,1,9,1,5,,,26,37,Completed,
+UA002051,28 Feb 21,5,regular,Round 5,Coatesville,St Joan of Arc,3,7,3,3,,,28,30,Completed,
+UA002052,28 Feb 21,5,regular,Round 5,Carmelite,Highmoor Uniting,8,2,4,2,,,30,26,Completed,
+UA002053,28 Feb 21,5,regular,Round 5,Hurlingham Park,BLTC 2,8,2,4,2,,,31,20,Completed,
+UA002054,28 Feb 21,5,regular,Round 5,BLTC 1,Dendy Park,7,3,3,3,,,34,33,Completed,
+UA002062,14 Mar 21,6,regular,Round 6,St Joan of Arc,BLTC 1,9,1,5,1,,,31,15,Completed,
+UA002063,14 Mar 21,6,regular,Round 6,Highmoor Uniting,Hurlingham Park,1,9,1,5,,,23,37,Completed,
+UA002064,14 Mar 21,6,regular,Round 6,BLTC 2,Carmelite,2,8,2,4,,,22,28,Completed,
+pending-ua002-r6-dendy-park-coatesville,14 Mar 21,6,regular,Round 6,Dendy Park,Coatesville,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA002071,21 Mar 21,7,regular,Round 7,BLTC 1,Coatesville,2,8,2,4,,,20,34,Completed,
+UA002072,21 Mar 21,7,regular,Round 7,Dendy Park,St Joan of Arc,4.5,5.5,1,2,,,16,24,Completed,
+UA002074,21 Mar 21,7,regular,Round 7,Highmoor Uniting,BLTC 2,2,8,2,4,,,27,29,Completed,
+pending-ua002-r7-carmelite-hurlingham-park,21 Mar 21,7,regular,Round 7,Carmelite,Hurlingham Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA002081,28 Mar 21,8,regular,Round 8,BLTC 2,BLTC 1,3,7,3,3,,,22,27,Completed,
+UA002082,28 Mar 21,8,regular,Round 8,Hurlingham Park,Dendy Park,1,9,1,5,,,18,33,Completed,
+UA002083,28 Mar 21,8,regular,Round 8,Highmoor Uniting,Coatesville,1,9,1,5,,,16,35,Completed,
+UA002084,28 Mar 21,8,regular,Round 8,Carmelite,St Joan of Arc,7,3,3,3,,,29,27,Completed,
+UA002091,02 May 21,9,regular,Round 9,BLTC 1,Carmelite,1,9,1,5,,,17,33,Completed,
+UA002092,02 May 21,9,regular,Round 9,Dendy Park,BLTC 2,8,2,4,2,,,27,24,Completed,
+UA002093,02 May 21,9,regular,Round 9,Coatesville,Hurlingham Park,10,0,6,0,,,37,21,Completed,
+UA002094,02 May 21,9,regular,Round 9,St Joan of Arc,Highmoor Uniting,9,1,5,1,,,33,20,Completed,
+UA002101,09 May 21,10,regular,Round 10,Highmoor Uniting,BLTC 1,5,5,3,3,,,24,24,Completed,
+UA002102,09 May 21,10,regular,Round 10,Carmelite,Dendy Park,2,8,2,4,,,23,28,Completed,
+UA002103,09 May 21,10,regular,Round 10,BLTC 2,Coatesville,0,10,0,6,,,10,36,Completed,
+UA002104,09 May 21,10,regular,Round 10,Hurlingham Park,St Joan of Arc,2,8,2,4,,,28,30,Completed,
+UA002111,16 May 21,11,regular,Round 11,BLTC 1,Hurlingham Park,8,2,4,2,,,34,20,Completed,
+UA002112,16 May 21,11,regular,Round 11,Dendy Park,Highmoor Uniting,9,1,5,1,,,32,18,Completed,
+UA002113,16 May 21,11,regular,Round 11,Coatesville,Carmelite,2,8,2,4,,,26,31,Completed,
+UA002114,16 May 21,11,regular,Round 11,St Joan of Arc,BLTC 2,9,1,5,1,,,32,15,Completed,
+UA002121,23 May 21,12,regular,Round 12,St Joan of Arc,Coatesville,1,9,1,5,,,24,32,Completed,
+UA002122,23 May 21,12,regular,Round 12,Highmoor Uniting,Carmelite,2,8,2,4,,,15,31,Completed,
+UA002123,23 May 21,12,regular,Round 12,BLTC 2,Hurlingham Park,5,5,3,3,,,32,32,Completed,
+UA002124,23 May 21,12,regular,Round 12,Dendy Park,BLTC 1,9,1,5,1,,,34,17,Completed,
+pending-ua002-r13-bltc-1-st-joan-of-arc,30 May 21,13,regular,Round 13,BLTC 1,St Joan of Arc,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua002-r13-carmelite-bltc-2,30 May 21,13,regular,Round 13,Carmelite,BLTC 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua002-r13-coatesville-dendy-park,30 May 21,13,regular,Round 13,Coatesville,Dendy Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua002-r13-hurlingham-park-highmoor-uniting,30 May 21,13,regular,Round 13,Hurlingham Park,Highmoor Uniting,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA002301,,16,semi_final,Semi-final,Coatesville,Carmelite,8,2,4,2,,,31,20,Completed,
+UA002302,,16,semi_final,Semi-final,St Joan of Arc,Dendy Park,8,2,4,2,,,27,22,Completed,
+UA002321,,17,grand_final,Grand final · TROLS entry 2,Coatesville,St Joan of Arc,9,1,5,1,,,32,23,Completed,

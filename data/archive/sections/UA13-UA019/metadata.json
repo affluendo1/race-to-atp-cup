@@ -1,0 +1,75 @@
+{
+  "asset_id": "UA13-UA019",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2013",
+  "season_id": "UA13",
+  "season_label": "Spring 2013",
+  "source_section_code": "UA019",
+  "section_label": "Section 18",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Hurlingham Park",
+      "wins": 10,
+      "points": 108,
+      "percentage": 146.24,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Lauriston",
+      "wins": 8,
+      "points": 98.5,
+      "percentage": 129.71,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Le Page",
+      "wins": 7,
+      "points": 93.5,
+      "percentage": 155.95,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Coatesville",
+      "wins": 7,
+      "points": 83,
+      "percentage": 115.36,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Beaumaris CC",
+      "wins": 3,
+      "points": 50,
+      "percentage": 69.04,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave",
+      "wins": 0,
+      "points": 16,
+      "percentage": 35.81,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA13-UA019",
+  "fixtures": 46,
+  "completed_fixtures": 39,
+  "draw_fixtures": 57,
+  "singles_rubbers": 152,
+  "doubles_rubbers": 78,
+  "latest_round": 16,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA31-UA015",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2022",
+  "season_id": "UA31",
+  "season_label": "Spring 2022",
+  "source_section_code": "UA015",
+  "section_label": "Section 15",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Glen Huntly",
+      "wins": 13,
+      "points": 115,
+      "percentage": 164.53,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Tennis World",
+      "wins": 8,
+      "points": 85,
+      "percentage": 135.37,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Lauriston",
+      "wins": 8,
+      "points": 84,
+      "percentage": 116.43,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kings Park",
+      "wins": 8,
+      "points": 83,
+      "percentage": 122.77,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Parkdale",
+      "wins": 6,
+      "points": 72,
+      "percentage": 98.13,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC",
+      "wins": 5,
+      "points": 63,
+      "percentage": 96.49,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Caulfield Rec",
+      "wins": 2,
+      "points": 31,
+      "percentage": 64.71,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "BLTC",
+      "wins": 2,
+      "points": 27,
+      "percentage": 48.25,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA31-UA015",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,37 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+AA003011,18 Jul 26,1,regular,Round 1,Clarinda,Mentone,10,0,6,0,,,36,13,Completed,
+AA003012,18 Jul 26,1,regular,Round 1,Highmoor Uniting,BLTC,1,9,1,5,,,13,31,Completed,
+AA003013,18 Jul 26,1,regular,Round 1,Kings Park,Glen Huntly,1,9,1,5,,,22,34,Completed,
+AA003014,18 Jul 26,1,regular,Round 1,Dendy Park,Highett,2,8,2,4,,,22,30,Completed,
+AA003021,25 Jul 26,2,regular,Round 2,Highett,Clarinda,8,2,4,2,,,31,17,Completed,
+AA003022,25 Jul 26,2,regular,Round 2,Mentone,Highmoor Uniting,8,2,4,2,,,26,22,Completed,
+AA003023,25 Jul 26,2,regular,Round 2,BLTC,Kings Park,3,7,3,3,,,27,28,Completed,
+pending-aa003-r2-glen-huntly-dendy-park,25 Jul 26,2,regular,Round 2,Glen Huntly,Dendy Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+AA003031,01 Aug 26,3,regular,Round 3,Clarinda,Glen Huntly,3,7,3,3,,,25,27,Completed,
+AA003032,01 Aug 26,3,regular,Round 3,Highmoor Uniting,Highett,0,10,0,6,,,11,36,Completed,
+AA003033,01 Aug 26,3,regular,Round 3,Kings Park,Mentone,3,7,3,3,,,26,33,Completed,
+AA003034,01 Aug 26,3,regular,Round 3,Dendy Park,BLTC,7,3,3,3,,,27,24,Completed,
+AA003041,08 Aug 26,4,regular,Round 4,BLTC,Clarinda,1,9,1,5,,,22,37,Completed,
+AA003042,08 Aug 26,4,regular,Round 4,Glen Huntly,Highmoor Uniting,9,1,5,1,,,33,12,Completed,
+AA003043,08 Aug 26,4,regular,Round 4,Highett,Kings Park,8,8,4,2,,,24,17,Completed,
+AA003044,08 Aug 26,4,regular,Round 4,Mentone,Dendy Park,9,1,5,1,,,37,19,Completed,
+AA003051,15 Aug 26,5,regular,Round 5,Kings Park,Dendy Park,8,2,4,2,,,32,22,Completed,
+AA003052,15 Aug 26,5,regular,Round 5,Highett,Glen Huntly,8,2,4,2,,,31,21,Completed,
+AA003053,15 Aug 26,5,regular,Round 5,BLTC,Mentone,1,9,1,5,,,21,33,Completed,
+AA003054,15 Aug 26,5,regular,Round 5,Clarinda,Highmoor Uniting,9,1,5,1,,,33,7,Completed,
+AA003061,22 Aug 26,6,regular,Round 6,Highmoor Uniting,Kings Park,4,6,0,2,,,8,13,Completed,
+AA003063,22 Aug 26,6,regular,Round 6,Glen Huntly,BLTC,9,1,5,1,,,35,24,Completed,
+AA003064,22 Aug 26,6,regular,Round 6,Mentone,Highett,1,9,1,5,,,19,35,Completed,
+pending-aa003-r6-dendy-park-clarinda,22 Aug 26,6,regular,Round 6,Dendy Park,Clarinda,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+AA003071,29 Aug 26,7,regular,Round 7,Clarinda,Kings Park,8,2,4,2,,,34,24,Completed,
+AA003072,29 Aug 26,7,regular,Round 7,Highmoor Uniting,Dendy Park,3,7,3,3,,,21,30,Completed,
+AA003073,29 Aug 26,7,regular,Round 7,Highett,BLTC,9,1,5,1,,,32,15,Completed,
+AA003074,29 Aug 26,7,regular,Round 7,Glen Huntly,Mentone,7,3,3,3,,,28,25,Completed,
+AA003083,05 Sep 26,8,regular,Round 8,Glen Huntly,Kings Park,9,1,5,1,,,32,14,Completed,
+pending-aa003-r8-bltc-highmoor-uniting,05 Sep 26,8,regular,Round 8,BLTC,Highmoor Uniting,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+pending-aa003-r8-highett-dendy-park,05 Sep 26,8,regular,Round 8,Highett,Dendy Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-aa003-r8-mentone-clarinda,05 Sep 26,8,regular,Round 8,Mentone,Clarinda,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+AA003091,12 Sep 26,9,regular,Round 9,Clarinda,Highett,3,7,3,3,,,25,27,Completed,
+AA003092,12 Sep 26,9,regular,Round 9,Highmoor Uniting,Mentone,0,10,0,6,,,14,36,Completed,
+AA003093,12 Sep 26,9,regular,Round 9,Kings Park,BLTC,10,0,6,0,,,37,14,Completed,
+AA003094,12 Sep 26,9,regular,Round 9,Dendy Park,Glen Huntly,3,7,3,3,,,27,29,Completed,

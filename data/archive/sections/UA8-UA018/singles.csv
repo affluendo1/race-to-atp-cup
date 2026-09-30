@@ -1,0 +1,155 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA018011,06 Feb 11,1,Royal Ave 1,Royal Ave 2,No. 1,Harry Warner,Molly Bowman,Harry Warner,5-3,5,3,1,0,Completed,true,false,false
+UA018011,06 Feb 11,1,Royal Ave 1,Royal Ave 2,No. 2,Mika Wilhems,Cristian Camillo,Mika Wilhems,6-1,6,1,1,0,Completed,true,false,false
+UA018011,06 Feb 11,1,Royal Ave 1,Royal Ave 2,No. 3,Henry Bauer,Lucy Bowman,Henry Bauer,3-2,3,2,1,0,Completed,false,false,false
+UA018011,06 Feb 11,1,Royal Ave 1,Royal Ave 2,No. 4,Tom Elliot,Harry Overall,Tom Elliot,6-0,6,0,1,0,Completed,true,false,false
+UA018021,13 Feb 11,2,BLTC,Royal Ave 1,No. 1,Isabbella Briggs,Jacob Moore,Jacob Moore,0-6,0,6,0,1,Completed,true,false,false
+UA018021,13 Feb 11,2,BLTC,Royal Ave 1,No. 2,Jessica Myers,Nicholas Moore,Jessica Myers,6-1,6,1,1,0,Completed,true,false,false
+UA018021,13 Feb 11,2,BLTC,Royal Ave 1,No. 3,Taylor Nixon,Mika Wilhems,Taylor Nixon,6-1,6,1,1,0,Completed,true,false,false
+UA018021,13 Feb 11,2,BLTC,Royal Ave 1,No. 4,Charlotte Myers,Henry Bauer,Charlotte Myers,7-6,7,6,1,0,Completed,true,false,false
+UA018022,13 Feb 11,2,Royal Ave 2,Murrumbeena,No. 1,Molly Bowman,Trevor Yao,Molly Bowman,6-4,6,4,1,0,Completed,true,false,false
+UA018022,13 Feb 11,2,Royal Ave 2,Murrumbeena,No. 2,Lucy Bowman,Mia Pisano,Mia Pisano,0-6,0,6,0,1,Completed,true,false,false
+UA018022,13 Feb 11,2,Royal Ave 2,Murrumbeena,No. 3,Cristian Camillo,Chloe Papas,Chloe Papas,3-6,3,6,0,1,Completed,true,false,false
+UA018022,13 Feb 11,2,Royal Ave 2,Murrumbeena,No. 4,Josh Salmon,Oliver Lopez,Oliver Lopez,1-6,1,6,0,1,Completed,true,false,false
+UA018031,20 Feb 11,3,Royal Ave 1,GPHC MLC 2,No. 1,Nicholas Moore,Miles Ormerod,Nicholas Moore,6-4,6,4,1,0,Completed,true,false,false
+UA018031,20 Feb 11,3,Royal Ave 1,GPHC MLC 2,No. 2,Emilia Gujon,Ally Jones,Ally Jones,2-6,2,6,0,1,Completed,true,false,false
+UA018031,20 Feb 11,3,Royal Ave 1,GPHC MLC 2,No. 3,Mika Wilhems,Angus Crawford,Mika Wilhems,6-0,6,0,1,0,Completed,true,false,false
+UA018031,20 Feb 11,3,Royal Ave 1,GPHC MLC 2,No. 4,Harry Warner,Jessica Brown,Harry Warner,6-0,6,0,1,0,Completed,true,false,false
+UA018032,20 Feb 11,3,Murrumbeena,BLTC,No. 1,Trevor Yao,Jessica Myers,Trevor Yao,6-2,6,2,1,0,Completed,true,false,false
+UA018032,20 Feb 11,3,Murrumbeena,BLTC,No. 2,Abhay Rajwar,Taylor Nixon,Taylor Nixon,4-6,4,6,0,1,Completed,true,false,false
+UA018032,20 Feb 11,3,Murrumbeena,BLTC,No. 3,Chloe Papas,Charlotte Myers,Charlotte Myers,6-7,6,7,0,1,Completed,true,false,false
+UA018032,20 Feb 11,3,Murrumbeena,BLTC,No. 4,Mia Pisano,Nicole Moore,Mia Pisano,6-1,6,1,1,0,Completed,true,false,false
+UA018033,20 Feb 11,3,GPHC MLC 1,Royal Ave 2,No. 1,Jennifer Tarry-Smith,Molly Bowman,Molly Bowman,2-5,2,5,0,1,Completed,true,false,false
+UA018033,20 Feb 11,3,GPHC MLC 1,Royal Ave 2,No. 2,Lucinda Edwards,Lucy Bowman,Lucy Bowman,2-3,2,3,0,1,Completed,false,false,false
+UA018052,06 Mar 11,5,BLTC,GPHC MLC 2,No. 1,Isabbella Briggs,Miles Ormerod,Isabbella Briggs,6-0,6,0,1,0,Completed,true,false,false
+UA018052,06 Mar 11,5,BLTC,GPHC MLC 2,No. 2,Jessica Myers,Ally Jones,Jessica Myers,6-3,6,3,1,0,Completed,true,false,false
+UA018052,06 Mar 11,5,BLTC,GPHC MLC 2,No. 3,Taylor Nixon,Hamish Hicks,Taylor Nixon,6-3,6,3,1,0,Completed,true,false,false
+UA018052,06 Mar 11,5,BLTC,GPHC MLC 2,No. 4,Charlotte Myers,Zoe Gleeson,Zoe Gleeson,1-6,1,6,0,1,Completed,true,false,false
+UA018053,06 Mar 11,5,Lauriston,Royal Ave 2,No. 1,Nicholas Grandison,Lucy Bowman,Lucy Bowman,4-6,4,6,0,1,Completed,true,false,false
+UA018053,06 Mar 11,5,Lauriston,Royal Ave 2,No. 2,Linus Cheung,Josh Salmon,Linus Cheung,6-1,6,1,1,0,Completed,true,false,false
+UA018053,06 Mar 11,5,Lauriston,Royal Ave 2,No. 3,Cassandra Kalafatakis,Harry Overall,Cassandra Kalafatakis,6-0,6,0,1,0,Completed,true,false,false
+UA018053,06 Mar 11,5,Lauriston,Royal Ave 2,No. 4,Elizabeth Goutmik,James Launer,James Launer,0-6,0,6,0,1,Completed,true,false,false
+UA018054,06 Mar 11,5,Royal Ave 1,Murrumbeena,No. 1,Nicholas Moore,Trevor Yao,Trevor Yao,1-6,1,6,0,1,Completed,true,false,false
+UA018054,06 Mar 11,5,Royal Ave 1,Murrumbeena,No. 2,Tom Elliot,Abhay Rajwar,Abhay Rajwar,2-6,2,6,0,1,Completed,true,false,false
+UA018054,06 Mar 11,5,Royal Ave 1,Murrumbeena,No. 3,Henry Bauer,Mia Lopez,Mia Lopez,3-6,3,6,0,1,Completed,true,false,false
+UA018054,06 Mar 11,5,Royal Ave 1,Murrumbeena,No. 4,Mika Wilhems,Mia Pisano,Mia Pisano,2-6,2,6,0,1,Completed,true,false,false
+UA018061,20 Mar 11,6,Murrumbeena,GPHC MLC 1,No. 1,Abhay Rajwar,Sharni Testa,Sharni Testa,4-6,4,6,0,1,Completed,true,false,false
+UA018061,20 Mar 11,6,Murrumbeena,GPHC MLC 1,No. 2,Mia Lopez,Ludi Pillay,Mia Lopez,6-1,6,1,1,0,Completed,true,false,false
+UA018061,20 Mar 11,6,Murrumbeena,GPHC MLC 1,No. 3,Mia Pisano,Katel Leslie,Katel Leslie,3-6,3,6,0,1,Completed,true,false,false
+UA018061,20 Mar 11,6,Murrumbeena,GPHC MLC 1,No. 4,Chloe Papas,Niamh McCarthy,Niamh McCarthy,6-7,6,7,0,1,Completed,true,false,false
+UA018063,20 Mar 11,6,GPHC MLC 2,Lauriston,No. 1,Hamish Hicks,Nicholas Grandison,Hamish Hicks,6-4,6,4,1,0,Completed,true,false,false
+UA018063,20 Mar 11,6,GPHC MLC 2,Lauriston,No. 2,Ally Jones,Linus Cheung,Linus Cheung,4-6,4,6,0,1,Completed,true,false,false
+UA018063,20 Mar 11,6,GPHC MLC 2,Lauriston,No. 3,Angus Crawford,Brooklyn Giacometti,Brooklyn Giacometti,2-6,2,6,0,1,Completed,true,false,false
+UA018063,20 Mar 11,6,GPHC MLC 2,Lauriston,No. 4,Miles Ormerod,Elizabeth Giacometti,Miles Ormerod,6-2,6,2,1,0,Completed,true,false,false
+UA018064,20 Mar 11,6,Royal Ave 2,BLTC,No. 1,Molly Bowman,Isabbella Briggs,Isabbella Briggs,3-6,3,6,0,1,Completed,true,false,false
+UA018064,20 Mar 11,6,Royal Ave 2,BLTC,No. 2,James Launer,Jessica Myers,Jessica Myers,1-6,1,6,0,1,Completed,true,false,false
+UA018064,20 Mar 11,6,Royal Ave 2,BLTC,No. 3,Josh Salmon,Taylor Nixon,Taylor Nixon,0-6,0,6,0,1,Completed,true,false,false
+UA018064,20 Mar 11,6,Royal Ave 2,BLTC,No. 4,Cristian Camillo,Nicole Moore,Nicole Moore,3-6,3,6,0,1,Completed,true,false,false
+UA018071,27 Mar 11,7,Royal Ave 1,GPHC MLC 1,No. 1,Nicholas Moore,Jennifer Tarry-Smith,Jennifer Tarry-Smith,5-7,5,7,0,1,Completed,true,false,false
+UA018071,27 Mar 11,7,Royal Ave 1,GPHC MLC 1,No. 2,Henry Bauer,Lucinda Edwards,Lucinda Edwards,2-6,2,6,0,1,Completed,true,false,false
+UA018071,27 Mar 11,7,Royal Ave 1,GPHC MLC 1,No. 3,Harry Warner,Niamh McCarthy,Harry Warner,6-3,6,3,1,0,Completed,true,false,false
+UA018071,27 Mar 11,7,Royal Ave 1,GPHC MLC 1,No. 4,Mika Wilhems,Katel Leslie,Katel Leslie,3-6,3,6,0,1,Completed,true,false,false
+UA018073,27 Mar 11,7,BLTC,Lauriston,No. 1,Natasha Summonds,Nicholas Grandison,Natasha Summonds,6-4,6,4,1,0,Completed,true,false,false
+UA018073,27 Mar 11,7,BLTC,Lauriston,No. 2,Jessica Myers,Linus Cheung,Jessica Myers,6-4,6,4,1,0,Completed,true,false,false
+UA018073,27 Mar 11,7,BLTC,Lauriston,No. 3,Taylor Nixon,Brooklyn Giacometti,Taylor Nixon,7-5,7,5,1,0,Completed,true,false,false
+UA018073,27 Mar 11,7,BLTC,Lauriston,No. 4,Nicole Moore,Elizabeth Giacometti,Nicole Moore,6-4,6,4,1,0,Completed,true,false,false
+UA018074,27 Mar 11,7,GPHC MLC 2,Royal Ave 2,No. 1,Ally Jones,Molly Bowman,Molly Bowman,0-6,0,6,0,1,Completed,true,false,false
+UA018074,27 Mar 11,7,GPHC MLC 2,Royal Ave 2,No. 2,Zoe Gleeson,James Launer,Zoe Gleeson,6-4,6,4,1,0,Completed,true,false,false
+UA018074,27 Mar 11,7,GPHC MLC 2,Royal Ave 2,No. 3,Miles Ormerod,Lucy Bowman,Miles Ormerod,6-4,6,4,1,0,Completed,true,false,false
+UA018074,27 Mar 11,7,GPHC MLC 2,Royal Ave 2,No. 4,Jessica Brown,Harry Overall,Jessica Brown,7-5,7,5,1,0,Completed,true,false,false
+UA018081,08 Apr 11,8,Royal Ave 2,Royal Ave 1,No. 1,James Launer,Harry Warner,James Launer,6-1,6,1,1,0,Completed,true,false,false
+UA018081,08 Apr 11,8,Royal Ave 2,Royal Ave 1,No. 2,Josh Salmon,Henry Bauer,Henry Bauer,2-6,2,6,0,1,Completed,true,false,false
+UA018081,08 Apr 11,8,Royal Ave 2,Royal Ave 1,No. 3,Cristian Camillo,Mika Wilhems,Mika Wilhems,1-6,1,6,0,1,Completed,true,false,false
+UA018081,08 Apr 11,8,Royal Ave 2,Royal Ave 1,No. 4,[Unnamed player — TROLS UA018081 home code 4],Tom Elliot,Tom Elliot,0-6,0,6,0,1,Completed,false,false,false
+UA018082,08 Apr 11,8,Lauriston,Murrumbeena,No. 1,Nicholas Grandison,Abhay Rajwar,Abhay Rajwar,0-6,0,6,0,1,Completed,true,false,false
+UA018082,08 Apr 11,8,Lauriston,Murrumbeena,No. 2,Linus Cheung,Mia Lopez,Mia Lopez,0-6,0,6,0,1,Completed,true,false,false
+UA018082,08 Apr 11,8,Lauriston,Murrumbeena,No. 3,Brooklyn Giacometti,Mia Pisano,Mia Pisano,2-6,2,6,0,1,Completed,true,false,false
+UA018082,08 Apr 11,8,Lauriston,Murrumbeena,No. 4,Timothy Benton,Oliver Lopez,Oliver Lopez,4-6,4,6,0,1,Completed,true,false,false
+UA018083,08 Apr 11,8,GPHC MLC 2,GPHC MLC 1,No. 1,Hamish Hicks,Sharni Testa,Sharni Testa,3-6,3,6,0,1,Completed,true,false,false
+UA018083,08 Apr 11,8,GPHC MLC 2,GPHC MLC 1,No. 2,Angus Crawford,Lucinda Edwards,Lucinda Edwards,2-6,2,6,0,1,Completed,true,false,false
+UA018083,08 Apr 11,8,GPHC MLC 2,GPHC MLC 1,No. 3,Miles Ormerod,Ludi Pillay,Ludi Pillay,1-6,1,6,0,1,Completed,true,false,false
+UA018083,08 Apr 11,8,GPHC MLC 2,GPHC MLC 1,No. 4,Ben Fry,Niamh McCarthy,Niamh McCarthy,2-6,2,6,0,1,Completed,true,false,false
+UA018091,01 May 11,9,Royal Ave 1,BLTC,No. 1,Harry Warner,Jessica Myers,Jessica Myers,2-6,2,6,0,1,Completed,true,false,false
+UA018091,01 May 11,9,Royal Ave 1,BLTC,No. 2,Henry Bauer,Taylor Nixon,Henry Bauer,6-1,6,1,1,0,Completed,true,false,false
+UA018091,01 May 11,9,Royal Ave 1,BLTC,No. 3,Nicholas Moore,Isabbella Briggs,Isabbella Briggs,0-6,0,6,0,1,Completed,true,false,false
+UA018091,01 May 11,9,Royal Ave 1,BLTC,No. 4,Mika Wilhems,Nicole Moore,Nicole Moore,6-7,6,7,0,1,Completed,true,false,false
+UA018092,01 May 11,9,Murrumbeena,Royal Ave 2,No. 1,Trevor Yao,Lucy Bowman,Trevor Yao,6-2,6,2,1,0,Completed,true,false,false
+UA018092,01 May 11,9,Murrumbeena,Royal Ave 2,No. 2,Abhay Rajwar,Molly Bowman,Abhay Rajwar,6-0,6,0,1,0,Completed,true,false,false
+UA018092,01 May 11,9,Murrumbeena,Royal Ave 2,No. 3,Chloe Papas,Cristian Camillo,Chloe Papas,6-3,6,3,1,0,Completed,true,false,false
+UA018092,01 May 11,9,Murrumbeena,Royal Ave 2,No. 4,Oliver Lopez,Josh Salmon,Oliver Lopez,6-2,6,2,1,0,Completed,true,false,false
+UA018093,01 May 11,9,GPHC MLC 1,Lauriston,No. 1,Jennifer Tarry-Smith,Nicholas Grandison,Nicholas Grandison,2-6,2,6,0,1,Completed,true,false,false
+UA018093,01 May 11,9,GPHC MLC 1,Lauriston,No. 2,Sharni Testa,Linus Cheung,Sharni Testa,6-4,6,4,1,0,Completed,true,false,false
+UA018093,01 May 11,9,GPHC MLC 1,Lauriston,No. 3,Lucinda Edwards,Brooklyn Giacometti,Lucinda Edwards,6-3,6,3,1,0,Completed,true,false,false
+UA018093,01 May 11,9,GPHC MLC 1,Lauriston,No. 4,Katel Leslie,Timothy Benton,Katel Leslie,6-3,6,3,1,0,Completed,true,false,false
+UA018101,08 May 11,10,GPHC MLC 2,Royal Ave 1,No. 1,Miles Ormerod,Harry Warner,Harry Warner,1-6,1,6,0,1,Completed,true,false,false
+UA018101,08 May 11,10,GPHC MLC 2,Royal Ave 1,No. 2,Ally Jones,Henry Bauer,Henry Bauer,0-6,0,6,0,1,Completed,true,false,false
+UA018101,08 May 11,10,GPHC MLC 2,Royal Ave 1,No. 3,Zoe Gleeson,Jarred Ellis,Zoe Gleeson,6-4,6,4,1,0,Completed,true,false,false
+UA018101,08 May 11,10,GPHC MLC 2,Royal Ave 1,No. 4,Jessica Brown,Mika Wilhems,Jessica Brown,6-3,6,3,1,0,Completed,true,false,false
+UA018102,08 May 11,10,BLTC,Murrumbeena,No. 1,Isabbella Briggs,Abhay Rajwar,Abhay Rajwar,1-6,1,6,0,1,Completed,true,false,false
+UA018102,08 May 11,10,BLTC,Murrumbeena,No. 2,Jessica Myers,Mia Lopez,Mia Lopez,3-6,3,6,0,1,Completed,true,false,false
+UA018102,08 May 11,10,BLTC,Murrumbeena,No. 3,Taylor Nixon,Mia Pisano,Taylor Nixon,6-3,6,3,1,0,Completed,true,false,false
+UA018102,08 May 11,10,BLTC,Murrumbeena,No. 4,Charlotte Myers,Chloe Papas,Charlotte Myers,6-4,6,4,1,0,Completed,true,false,false
+UA018103,08 May 11,10,Royal Ave 2,GPHC MLC 1,No. 1,Josh Salmon,Sharni Testa,Sharni Testa,1-6,1,6,0,1,Completed,true,false,false
+UA018103,08 May 11,10,Royal Ave 2,GPHC MLC 1,No. 2,Emilia Guijon,Lucinda Edwards,Lucinda Edwards,0-6,0,6,0,1,Completed,true,false,false
+UA018103,08 May 11,10,Royal Ave 2,GPHC MLC 1,No. 3,Cristian Camillo,Niamh McCarthy,Niamh McCarthy,0-6,0,6,0,1,Completed,true,false,false
+UA018103,08 May 11,10,Royal Ave 2,GPHC MLC 1,No. 4,Harry Overall,Katel Leslie,Katel Leslie,0-6,0,6,0,1,Completed,true,false,false
+UA018111,15 May 11,11,Royal Ave 1,Lauriston,No. 1,Harry Warner,Nicholas Grandison,Nicholas Grandison,5-7,5,7,0,1,Completed,true,false,false
+UA018111,15 May 11,11,Royal Ave 1,Lauriston,No. 2,Henry Bauer,Linus Cheung,Henry Bauer,6-3,6,3,1,0,Completed,true,false,false
+UA018111,15 May 11,11,Royal Ave 1,Lauriston,No. 3,Nicholas Moore,Brooklyn Giacometti,Brooklyn Giacometti,2-6,2,6,0,1,Completed,true,false,false
+UA018111,15 May 11,11,Royal Ave 1,Lauriston,No. 4,Tom Elliot,Elizabeth Goutmik,Tom Elliot,6-1,6,1,1,0,Completed,true,false,false
+UA018112,15 May 11,11,Murrumbeena,GPHC MLC 2,No. 1,Abhay Rajwar,Zoe Gleeson,Zoe Gleeson,1-6,1,6,0,1,Completed,true,false,false
+UA018112,15 May 11,11,Murrumbeena,GPHC MLC 2,No. 2,Trevor Yao,Ally Jones,Trevor Yao,6-1,6,1,1,0,Completed,true,false,false
+UA018112,15 May 11,11,Murrumbeena,GPHC MLC 2,No. 3,Mia Lopez,Hamish Hicks,Mia Lopez,6-3,6,3,1,0,Completed,true,false,false
+UA018112,15 May 11,11,Murrumbeena,GPHC MLC 2,No. 4,Mia Pisano,Jessica Brown,Mia Pisano,6-1,6,1,1,0,Completed,true,false,false
+UA018113,15 May 11,11,GPHC MLC 1,BLTC,No. 1,Jennifer Tarry-Smith,Isabbella Briggs,Jennifer Tarry-Smith,6-3,6,3,1,0,Completed,true,false,false
+UA018113,15 May 11,11,GPHC MLC 1,BLTC,No. 2,Sharni Testa,Jessica Myers,Sharni Testa,6-3,6,3,1,0,Completed,true,false,false
+UA018113,15 May 11,11,GPHC MLC 1,BLTC,No. 3,Lucinda Edwards,Taylor Nixon,Taylor Nixon,4-6,4,6,0,1,Completed,true,false,false
+UA018113,15 May 11,11,GPHC MLC 1,BLTC,No. 4,Ludi Pillay,Nicole Moore,Ludi Pillay,6-3,6,3,1,0,Completed,true,false,false
+UA018122,22 May 11,12,GPHC MLC 2,BLTC,No. 1,Zoe Gleeson,Sam Summonds,Zoe Gleeson,6-3,6,3,1,0,Completed,true,false,false
+UA018122,22 May 11,12,GPHC MLC 2,BLTC,No. 2,Ally Jones,Isabbella Briggs,Isabbella Briggs,0-6,0,6,0,1,Completed,true,false,false
+UA018122,22 May 11,12,GPHC MLC 2,BLTC,No. 3,Angus Crawford,Charlotte Myers,Charlotte Myers,2-6,2,6,0,1,Completed,true,false,false
+UA018122,22 May 11,12,GPHC MLC 2,BLTC,No. 4,Hamish Hicks,Nicole Moore,Hamish Hicks,6-1,6,1,1,0,Completed,true,false,false
+UA018123,22 May 11,12,Royal Ave 2,Lauriston,No. 1,James Launer,Nicholas Grandison,Nicholas Grandison,3-6,3,6,0,1,Completed,true,false,false
+UA018123,22 May 11,12,Royal Ave 2,Lauriston,No. 2,Lucy Bowman,Linus Cheung,Lucy Bowman,6-4,6,4,1,0,Completed,true,false,false
+UA018123,22 May 11,12,Royal Ave 2,Lauriston,No. 3,Cristian Camillo,Andrie Kartasheb,Andrie Kartasheb,0-6,0,6,0,1,Completed,true,false,false
+UA018123,22 May 11,12,Royal Ave 2,Lauriston,No. 4,Harry Overall,Elizabeth Goutmik,Elizabeth Goutmik,2-6,2,6,0,1,Completed,true,false,false
+UA018124,22 May 11,12,Murrumbeena,Royal Ave 1,No. 1,Trevor Yao,Harry Warner,Trevor Yao,6-3,6,3,1,0,Completed,true,false,false
+UA018124,22 May 11,12,Murrumbeena,Royal Ave 1,No. 2,Mia Pisano,Tom Elliot,Mia Pisano,6-0,6,0,1,0,Completed,true,false,false
+UA018124,22 May 11,12,Murrumbeena,Royal Ave 1,No. 3,Chloe Papas,Mika Wilhems,Mika Wilhems,1-6,1,6,0,1,Completed,true,false,false
+UA018124,22 May 11,12,Murrumbeena,Royal Ave 1,No. 4,Oliver Lopez,Nicholas Moore,Oliver Lopez,6-2,6,2,1,0,Completed,true,false,false
+UA018131,29 May 11,13,GPHC MLC 1,Murrumbeena,No. 1,Jennifer Tarry-Smith,Trevor Yao,Trevor Yao,0-6,0,6,0,1,Completed,true,false,false
+UA018131,29 May 11,13,GPHC MLC 1,Murrumbeena,No. 2,Sharni Testa,Abhay Rajwar,Abhay Rajwar,5-7,5,7,0,1,Completed,true,false,false
+UA018131,29 May 11,13,GPHC MLC 1,Murrumbeena,No. 3,Lucinda Edwards,Chloe Papas,Lucinda Edwards,6-3,6,3,1,0,Completed,true,false,false
+UA018131,29 May 11,13,GPHC MLC 1,Murrumbeena,No. 4,Niamh McCarthy,Mia Pisano,Niamh McCarthy,6-2,6,2,1,0,Completed,true,false,false
+UA018133,29 May 11,13,Lauriston,GPHC MLC 2,No. 1,Andrie Kartasheb,Miles Ormerod,Miles Ormerod,6-7,6,7,0,1,Completed,true,false,false
+UA018133,29 May 11,13,Lauriston,GPHC MLC 2,No. 2,Nicholas Grandison,Jessica Brown,Nicholas Grandison,6-2,6,2,1,0,Completed,true,false,false
+UA018133,29 May 11,13,Lauriston,GPHC MLC 2,No. 3,Linus Cheung,Angus Crawford,Linus Cheung,6-1,6,1,1,0,Completed,true,false,false
+UA018133,29 May 11,13,Lauriston,GPHC MLC 2,No. 4,[Unnamed player — TROLS UA018133 home code 4],Hamish Hicks,Hamish Hicks,5-7,5,7,0,1,Completed,false,false,false
+UA018134,29 May 11,13,BLTC,Royal Ave 2,No. 1,Isabbella Briggs,James Launer,Isabbella Briggs,6-4,6,4,1,0,Completed,true,false,false
+UA018134,29 May 11,13,BLTC,Royal Ave 2,No. 2,Jessica Myers,Lucy Bowman,Jessica Myers,6-1,6,1,1,0,Completed,true,false,false
+UA018134,29 May 11,13,BLTC,Royal Ave 2,No. 3,Taylor Nixon,Josh Salmon,Taylor Nixon,6-1,6,1,1,0,Completed,true,false,false
+UA018134,29 May 11,13,BLTC,Royal Ave 2,No. 4,Nicole Moore,Emilia Guijon,Emilia Guijon,4-6,4,6,0,1,Completed,true,false,false
+UA018141,05 Jun 11,14,GPHC MLC 1,Royal Ave 1,No. 1,Sharni Testa,Harry Warner,Sharni Testa,6-4,6,4,1,0,Completed,true,false,false
+UA018141,05 Jun 11,14,GPHC MLC 1,Royal Ave 1,No. 2,Lucinda Edwards,Henry Bauer,Henry Bauer,4-6,4,6,0,1,Completed,true,false,false
+UA018141,05 Jun 11,14,GPHC MLC 1,Royal Ave 1,No. 3,Ludi Pillay,Nicholas Moore,Ludi Pillay,6-1,6,1,1,0,Completed,true,false,false
+UA018141,05 Jun 11,14,GPHC MLC 1,Royal Ave 1,No. 4,Katel Leslie,Tom Elliot,Katel Leslie,6-1,6,1,1,0,Completed,true,false,false
+UA018143,05 Jun 11,14,Lauriston,BLTC,No. 1,Andrie Kartasheb,Jessica Myers,Jessica Myers,2-6,2,6,0,1,Completed,true,false,false
+UA018143,05 Jun 11,14,Lauriston,BLTC,No. 2,Nicholas Grandison,Taylor Nixon,Nicholas Grandison,6-2,6,2,1,0,Completed,true,false,false
+UA018143,05 Jun 11,14,Lauriston,BLTC,No. 3,Linus Cheung,Charlotte Myers,Charlotte Myers,5-7,5,7,0,1,Completed,true,false,false
+UA018143,05 Jun 11,14,Lauriston,BLTC,No. 4,Brooklyn Giacometti,Nicole Moore,Brooklyn Giacometti,6-0,6,0,1,0,Completed,true,false,false
+UA018144,05 Jun 11,14,Royal Ave 2,GPHC MLC 2,No. 1,James Launer,Angus Crawford,James Launer,6-1,6,1,1,0,Completed,true,false,false
+UA018144,05 Jun 11,14,Royal Ave 2,GPHC MLC 2,No. 2,Lucy Bowman,Hamish Hicks,Lucy Bowman,7-5,7,5,1,0,Completed,true,false,false
+UA018144,05 Jun 11,14,Royal Ave 2,GPHC MLC 2,No. 3,Emilia Guijon,Jessica Brown,Emilia Guijon,6-3,6,3,1,0,Completed,true,false,false
+UA018144,05 Jun 11,14,Royal Ave 2,GPHC MLC 2,No. 4,Josh Salmon,Miles Ormerod,Miles Ormerod,3-6,3,6,0,1,Completed,true,false,false
+UA018301,,16,Murrumbeena,Royal Ave 1,No. 1,Trevor Yao,Harry Warner,Trevor Yao,6-4,6,4,1,0,Completed,true,false,false
+UA018301,,16,Murrumbeena,Royal Ave 1,No. 2,Abhay Rajwar,Henry Bauer,Abhay Rajwar,7-5,7,5,1,0,Completed,true,false,false
+UA018301,,16,Murrumbeena,Royal Ave 1,No. 3,Mia Lopez,Mika Wilhems,Mia Lopez,6-1,6,1,1,0,Completed,true,false,false
+UA018301,,16,Murrumbeena,Royal Ave 1,No. 4,Mia Pisano,Nicholas Moore,Mia Pisano,7-6,7,6,1,0,Completed,true,false,true
+UA018302,,16,GPHC MLC 1,BLTC,No. 1,Jennifer Tarry-Smith,Isabbella Briggs,Isabbella Briggs,3-6,3,6,0,1,Completed,true,false,true
+UA018302,,16,GPHC MLC 1,BLTC,No. 2,Sharni Testa,Jessica Myers,Jessica Myers,4-6,4,6,0,1,Completed,true,false,false
+UA018302,,16,GPHC MLC 1,BLTC,No. 3,Lucinda Edwards,Taylor Nixon,Taylor Nixon,6-7,6,7,0,1,Completed,true,false,false
+UA018302,,16,GPHC MLC 1,BLTC,No. 4,Niamh McCarthy,Charlotte Myers,Charlotte Myers,2-6,2,6,0,1,Completed,true,false,false
+UA018321,,17,Murrumbeena,BLTC,No. 1,Trevor Yao,Natasha Summonds,Natasha Summonds,6-7,6,7,0,1,Completed,true,false,true
+UA018321,,17,Murrumbeena,BLTC,No. 2,Abhay Rajwar,Sam Summonds,Sam Summonds,4-6,4,6,0,1,Completed,true,false,true
+UA018321,,17,Murrumbeena,BLTC,No. 3,Mia Lopez,Taylor Nixon,Mia Lopez,6-3,6,3,1,0,Completed,true,false,false
+UA018321,,17,Murrumbeena,BLTC,No. 4,Mia Pisano,Nicole Moore,Mia Pisano,6-2,6,2,1,0,Completed,true,false,false

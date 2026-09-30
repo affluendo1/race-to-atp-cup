@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA16-UA010",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2015",
+  "season_id": "UA16",
+  "season_label": "Autumn 2015",
+  "source_section_code": "UA010",
+  "section_label": "Section 10",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Aspendale",
+      "wins": 10,
+      "points": 114,
+      "percentage": 204.3,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 7,
+      "points": 86.5,
+      "percentage": 123.2,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Glen Eira",
+      "wins": 7,
+      "points": 85,
+      "percentage": 111.42,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Mordialloc 2",
+      "wins": 6,
+      "points": 73,
+      "percentage": 100.91,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Hampton",
+      "wins": 4,
+      "points": 59,
+      "percentage": 83.49,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Mordialloc 1",
+      "wins": 3,
+      "points": 56,
+      "percentage": 86.92,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Caulfield Rec",
+      "wins": 2,
+      "points": 43.5,
+      "percentage": 66.67,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC",
+      "wins": 1,
+      "points": 43,
+      "percentage": 76.16,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA16-UA010",
+  "fixtures": 59,
+  "completed_fixtures": 45,
+  "draw_fixtures": 59,
+  "singles_rubbers": 176,
+  "doubles_rubbers": 89,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

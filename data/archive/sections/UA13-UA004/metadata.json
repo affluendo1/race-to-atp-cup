@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA13-UA004",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2013",
+  "season_id": "UA13",
+  "season_label": "Spring 2013",
+  "source_section_code": "UA004",
+  "section_label": "Section 4",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong Scotch 2",
+      "wins": 9,
+      "points": 95,
+      "percentage": 130.61,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 8,
+      "points": 87,
+      "percentage": 129.39,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kooyong Scotch 1",
+      "wins": 8,
+      "points": 83,
+      "percentage": 125.55,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Tennis World",
+      "wins": 7,
+      "points": 78,
+      "percentage": 107.53,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal South Yarra",
+      "wins": 7,
+      "points": 78,
+      "percentage": 99.74,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave",
+      "wins": 6,
+      "points": 63,
+      "percentage": 90.98,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Beaumaris CC",
+      "wins": 2,
+      "points": 41.5,
+      "percentage": 74.24,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hampton",
+      "wins": 2,
+      "points": 34.5,
+      "percentage": 63.57,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA13-UA004",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 230,
+  "doubles_rubbers": 114,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

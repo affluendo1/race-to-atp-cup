@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA36-UA011",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2025",
+  "season_id": "UA36",
+  "season_label": "Autumn 2025",
+  "source_section_code": "UA011",
+  "section_label": "Section 11",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Black Rock",
+      "wins": 11,
+      "points": 112,
+      "percentage": 181.78,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "GPHC Yellow",
+      "wins": 11,
+      "points": 103,
+      "percentage": 134.13,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Aspendale",
+      "wins": 7,
+      "points": 76,
+      "percentage": 104.17,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC Blue",
+      "wins": 6,
+      "points": 72,
+      "percentage": 113.73,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park Blue",
+      "wins": 4,
+      "points": 63,
+      "percentage": 99.41,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave Green",
+      "wins": 5,
+      "points": 58,
+      "percentage": 87.95,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kings Park Blue",
+      "wins": 4,
+      "points": 49,
+      "percentage": 69.0,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kings Park White",
+      "wins": 1,
+      "points": 27,
+      "percentage": 54.7,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA36-UA011",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 214,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

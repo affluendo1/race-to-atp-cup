@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA8-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2011",
+  "season_id": "UA8",
+  "season_label": "Autumn 2011",
+  "source_section_code": "UA017",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "GPHC MLC",
+      "wins": 0,
+      "points": 103,
+      "percentage": 159.91,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Joseph's BR",
+      "wins": 0,
+      "points": 89,
+      "percentage": 103.33,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Chelsea Heights",
+      "wins": 0,
+      "points": 87,
+      "percentage": 114.29,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Caulfield Rec 2",
+      "wins": 0,
+      "points": 75,
+      "percentage": 103.17,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 69,
+      "percentage": 105.12,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Caulfield Rec 1",
+      "wins": 0,
+      "points": 60,
+      "percentage": 94.52,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Mordialloc",
+      "wins": 0,
+      "points": 51,
+      "percentage": 83.91,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Lauriston",
+      "wins": 0,
+      "points": 26,
+      "percentage": 62.82,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA8-UA017",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 45,
+  "singles_rubbers": 208,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

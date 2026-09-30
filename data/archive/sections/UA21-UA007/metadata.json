@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA21-UA007",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2017",
+  "season_id": "UA21",
+  "season_label": "Spring 2017",
+  "source_section_code": "UA007",
+  "section_label": "Section 7",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Dendy Park",
+      "wins": 11,
+      "points": 106,
+      "percentage": 150.85,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Murrumbeena",
+      "wins": 11,
+      "points": 104,
+      "percentage": 148.77,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 10,
+      "points": 90,
+      "percentage": 129.62,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Aspendale",
+      "wins": 7,
+      "points": 78.5,
+      "percentage": 110.3,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St Andrews MB RA",
+      "wins": 6,
+      "points": 71.5,
+      "percentage": 104.62,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave",
+      "wins": 3,
+      "points": 48,
+      "percentage": 79.49,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong 2 Scotch",
+      "wins": 5,
+      "points": 46,
+      "percentage": 74.94,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong 1 Scotch",
+      "wins": 0,
+      "points": 16,
+      "percentage": 47.4,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA21-UA007",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

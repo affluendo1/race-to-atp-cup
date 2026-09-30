@@ -1,0 +1,57 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA005033,01 Aug 21,3,Black Rock,Dendy Park,No. 1,Max Leeds,Viktor Posthuma,Max Leeds,7-6,7,6,1,0,Completed,true,false,false
+UA005033,01 Aug 21,3,Black Rock,Dendy Park,No. 2,Lewis Smith,Gabreil Pozo,Gabreil Pozo,3-6,3,6,0,1,Completed,true,false,false
+UA005033,01 Aug 21,3,Black Rock,Dendy Park,No. 3,Kai Takagi,Noam Barel,Kai Takagi,6-4,6,4,1,0,Completed,true,false,false
+UA005033,01 Aug 21,3,Black Rock,Dendy Park,No. 4,Harvey Lansley,Yaniv Rakach,Harvey Lansley,6-4,6,4,1,0,Completed,true,false,false
+UA005034,01 Aug 21,3,Caulfield Rec,Tennis World,No. 1,Chris Liolios,Simeon Duffin,Chris Liolios,6-2,6,2,1,0,Completed,true,false,false
+UA005034,01 Aug 21,3,Caulfield Rec,Tennis World,No. 2,Elijah Cordover,Ashton Coster,Elijah Cordover,6-4,6,4,1,0,Completed,true,false,true
+UA005034,01 Aug 21,3,Caulfield Rec,Tennis World,No. 3,Frankie Hillier,Lance Maxwell,Lance Maxwell,1-6,1,6,0,1,Completed,true,false,false
+UA005034,01 Aug 21,3,Caulfield Rec,Tennis World,No. 4,Aaron Pattishman,Lysander Mitchell,Aaron Pattishman,6-2,6,2,1,0,Completed,true,false,false
+UA005093,07 Nov 21,9,Black Rock,Tennis World,No. 1,Max Leeds,Arlo Campbell,Arlo Campbell,2-6,2,6,0,1,Completed,true,false,true
+UA005093,07 Nov 21,9,Black Rock,Tennis World,No. 2,Kai Takagi,Simeon Duffin,Kai Takagi,6-4,6,4,1,0,Completed,true,false,false
+UA005093,07 Nov 21,9,Black Rock,Tennis World,No. 3,Angus Tweddle,Lance Maxwell,Lance Maxwell,1-6,1,6,0,1,Completed,true,false,false
+UA005093,07 Nov 21,9,Black Rock,Tennis World,No. 4,Connor Tasci,Lysander Mitchell,Lysander Mitchell,4-6,4,6,0,1,Completed,true,false,false
+UA005094,07 Nov 21,9,Caulfield Rec,Lauriston,No. 1,Chris Liolios,Lucas Nenke,Chris Liolios,6-2,6,2,1,0,Completed,true,false,false
+UA005094,07 Nov 21,9,Caulfield Rec,Lauriston,No. 2,Kripa Shreshtna,Aaron Nazaretian,Kripa Shreshtna,6-4,6,4,1,0,Completed,true,false,false
+UA005094,07 Nov 21,9,Caulfield Rec,Lauriston,No. 3,Elijah Cordover,Leonie Miller,Elijah Cordover,6-0,6,0,1,0,Completed,true,false,false
+UA005094,07 Nov 21,9,Caulfield Rec,Lauriston,No. 4,Frankie Hillier,Cate Griffin,Frankie Hillier,6-2,6,2,1,0,Completed,true,false,true
+UA005103,14 Nov 21,10,Dendy Park,Black Rock,No. 1,Viktor Posthuma,Max Leeds,Max Leeds,6-7,6,7,0,1,Completed,true,false,false
+UA005103,14 Nov 21,10,Dendy Park,Black Rock,No. 2,Jackson Trigger,Lewis Smith,Lewis Smith,6-7,6,7,0,1,Completed,true,false,false
+UA005103,14 Nov 21,10,Dendy Park,Black Rock,No. 3,Noam Barel,Angus Tweddle,Angus Tweddle,3-6,3,6,0,1,Completed,true,false,false
+UA005103,14 Nov 21,10,Dendy Park,Black Rock,No. 4,Yaniv Rakach,Connor Tasci,Yaniv Rakach,6-0,6,0,1,0,Completed,true,false,false
+UA005104,14 Nov 21,10,Tennis World,Caulfield Rec,No. 1,Simeon Duffin,Chris Liolios,Simeon Duffin,6-4,6,4,1,0,Completed,true,false,false
+UA005104,14 Nov 21,10,Tennis World,Caulfield Rec,No. 2,Rhyz John Bihasa,Kripa Shreshtna,Rhyz John Bihasa,6-2,6,2,1,0,Completed,true,false,false
+UA005104,14 Nov 21,10,Tennis World,Caulfield Rec,No. 3,[Unnamed player — TROLS UA005104 home code 3],Elijah Cordover,Elijah Cordover,0-6,0,6,0,1,Completed,false,false,false
+UA005104,14 Nov 21,10,Tennis World,Caulfield Rec,No. 4,Lysander Mitchell,Frankie Hillier,Frankie Hillier,1-6,1,6,0,1,Completed,true,false,false
+UA005112,21 Nov 21,11,Maccabi,Lauriston,No. 1,Danielle Nagar,Lucas Nenke,Lucas Nenke,5-7,5,7,0,1,Completed,true,false,false
+UA005112,21 Nov 21,11,Maccabi,Lauriston,No. 2,Elan Amler,Aaron Nazaretian,Elan Amler,6-3,6,3,1,0,Completed,true,false,false
+UA005112,21 Nov 21,11,Maccabi,Lauriston,No. 3,Linda Li,Mati Sztornowski,Mati Sztornowski,3-6,3,6,0,1,Completed,true,false,true
+UA005112,21 Nov 21,11,Maccabi,Lauriston,No. 4,Liam Shapiro,Isabelle Nazaretian,Isabelle Nazaretian,2-6,2,6,0,1,Completed,true,true,false
+UA005114,21 Nov 21,11,Caulfield Rec,Dendy Park,No. 1,Chris Liolios,Viktor Posthuma,Chris Liolios,6-3,6,3,1,0,Completed,true,false,false
+UA005114,21 Nov 21,11,Caulfield Rec,Dendy Park,No. 2,Kripa Shreshtna,Jackson Trigger,Kripa Shreshtna,6-2,6,2,1,0,Completed,true,false,false
+UA005114,21 Nov 21,11,Caulfield Rec,Dendy Park,No. 3,Elijah Cordover,Noam Barel,Elijah Cordover,6-0,6,0,1,0,Completed,true,false,false
+UA005114,21 Nov 21,11,Caulfield Rec,Dendy Park,No. 4,Mohan Parmar,Yaniv Rakach,Mohan Parmar,6-2,6,2,1,0,Completed,true,true,false
+UA005121,28 Nov 21,12,Caulfield Rec,Black Rock,No. 1,Chris Liolios,Max Leeds,Max Leeds,4-6,4,6,0,1,Completed,true,false,false
+UA005121,28 Nov 21,12,Caulfield Rec,Black Rock,No. 2,Elijah Cordover,Kai Takagi,Elijah Cordover,6-0,6,0,1,0,Completed,true,false,false
+UA005121,28 Nov 21,12,Caulfield Rec,Black Rock,No. 3,Frankie Hillier,Harvey Lansley,Frankie Hillier,6-2,6,2,1,0,Completed,true,false,false
+UA005121,28 Nov 21,12,Caulfield Rec,Black Rock,No. 4,Mohan Parmar,Connor Tasci,Mohan Parmar,6-4,6,4,1,0,Completed,true,true,false
+UA005123,28 Nov 21,12,Dendy Park,Tennis World,No. 1,Viktor Posthuma,Simeon Duffin,Simeon Duffin,5-7,5,7,0,1,Completed,true,false,false
+UA005123,28 Nov 21,12,Dendy Park,Tennis World,No. 2,Jackson Trigger,Rhyz John Bihasa,Rhyz John Bihasa,0-6,0,6,0,1,Completed,true,false,false
+UA005123,28 Nov 21,12,Dendy Park,Tennis World,No. 3,Noam Barel,Lance Maxwell,Lance Maxwell,2-6,2,6,0,1,Completed,true,false,false
+UA005123,28 Nov 21,12,Dendy Park,Tennis World,No. 4,Yaniv Rakach,Lysander Mitchell,Lysander Mitchell,2-6,2,6,0,1,Completed,true,false,false
+UA005131,05 Dec 21,13,Black Rock,Maccabi,No. 1,Max Leeds,Elan Amler,Max Leeds,7-5,7,5,1,0,Completed,true,false,false
+UA005131,05 Dec 21,13,Black Rock,Maccabi,No. 2,Lewis Smith,Meiji Mashona-forni,Meiji Mashona-forni,0-6,0,6,0,1,Completed,true,false,true
+UA005131,05 Dec 21,13,Black Rock,Maccabi,No. 3,Kai Takagi,Ryan Kaminsky,Ryan Kaminsky,5-7,5,7,0,1,Completed,true,false,true
+UA005131,05 Dec 21,13,Black Rock,Maccabi,No. 4,Harvey Lansley,Maksim Gigovic,Maksim Gigovic,3-6,3,6,0,1,Completed,true,false,true
+UA005133,05 Dec 21,13,Tennis World,Lauriston,No. 1,Lysander Mitchell,Lucas Nenke,Lysander Mitchell,6-4,6,4,1,0,Completed,true,false,false
+UA005133,05 Dec 21,13,Tennis World,Lauriston,No. 2,Lance Maxwell,Aaron Nazaretian,Lance Maxwell,6-0,6,0,1,0,Completed,true,false,false
+UA005133,05 Dec 21,13,Tennis World,Lauriston,No. 3,Rhyz John Bihasa,Leonie Miller,Rhyz John Bihasa,6-3,6,3,1,0,Completed,true,false,false
+UA005133,05 Dec 21,13,Tennis World,Lauriston,No. 4,[Unnamed player — TROLS UA005133 home code 4],Isabelle Nazaretian,Isabelle Nazaretian,0-6,0,6,0,1,Completed,false,false,false
+UA005142,12 Dec 21,14,Caulfield Rec,Maccabi,No. 1,Chris Liolios,Danielle Nagar,Chris Liolios,6-2,6,2,1,0,Completed,true,false,false
+UA005142,12 Dec 21,14,Caulfield Rec,Maccabi,No. 2,Kripa Shreshtna,Elan Amler,Elan Amler,3-6,3,6,0,1,Completed,true,false,false
+UA005142,12 Dec 21,14,Caulfield Rec,Maccabi,No. 3,Frankie Hillier,Linda Li,Frankie Hillier,6-0,6,0,1,0,Completed,true,false,false
+UA005142,12 Dec 21,14,Caulfield Rec,Maccabi,No. 4,Mohan Parmar,Maksim Gigovic,Mohan Parmar,6-4,6,4,1,0,Completed,true,true,true
+UA005144,12 Dec 21,14,Dendy Park,Lauriston,No. 1,Viktor Posthuma,Lucas Nenke,Lucas Nenke,1-6,1,6,0,1,Completed,true,false,false
+UA005144,12 Dec 21,14,Dendy Park,Lauriston,No. 2,Jackson Trigger,Aaron Nazaretian,Aaron Nazaretian,2-6,2,6,0,1,Completed,true,false,false
+UA005144,12 Dec 21,14,Dendy Park,Lauriston,No. 3,Noam Barel,Leonie Miller,Noam Barel,7-6,7,6,1,0,Completed,true,false,false
+UA005144,12 Dec 21,14,Dendy Park,Lauriston,No. 4,Gabreil Pozo,Isabelle Nazaretian,Isabelle Nazaretian,4-6,4,6,0,1,Completed,true,false,false

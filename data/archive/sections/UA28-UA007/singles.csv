@@ -1,0 +1,189 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA007011,31 Jan 21,1,Dendy Park,Mentone,No. 1,Viktor Posthuma,Laoise Comerford,Viktor Posthuma,6-0,6,0,1,0,Completed,true,false,false
+UA007011,31 Jan 21,1,Dendy Park,Mentone,No. 2,Xavier Chepurov,Dane Lazic,Xavier Chepurov,7-5,7,5,1,0,Completed,true,false,false
+UA007011,31 Jan 21,1,Dendy Park,Mentone,No. 3,Yaniv Rakach,Sai Karthick Neerukonda,Sai Karthick Neerukonda,6-7,6,7,0,1,Completed,true,false,false
+UA007011,31 Jan 21,1,Dendy Park,Mentone,No. 4,Miguel Najeras,Arrianne Misa,Miguel Najeras,6-1,6,1,1,0,Completed,true,false,false
+UA007012,31 Jan 21,1,Hurlingham Park,Le Page,No. 1,Kynan Enwright,Elan Amler,Kynan Enwright,6-2,6,2,1,0,Completed,true,false,false
+UA007012,31 Jan 21,1,Hurlingham Park,Le Page,No. 2,Matty Townsend,James Polygenis,Matty Townsend,6-1,6,1,1,0,Completed,true,false,false
+UA007012,31 Jan 21,1,Hurlingham Park,Le Page,No. 3,Ashton Vati,James Katakouzinos,Ashton Vati,6-0,6,0,1,0,Completed,true,false,false
+UA007012,31 Jan 21,1,Hurlingham Park,Le Page,No. 4,Eliot Rey-Benguigui,Aryan Singh,Eliot Rey-Benguigui,6-0,6,0,1,0,Completed,true,false,false
+UA007013,31 Jan 21,1,Royal Ave 1,Royal Ave 2,No. 1,Harrison Moller,William Farrugia,Harrison Moller,6-2,6,2,1,0,Completed,true,true,true
+UA007013,31 Jan 21,1,Royal Ave 1,Royal Ave 2,No. 2,Ben Hemmingway,Jack Vakrinos,Ben Hemmingway,6-1,6,1,1,0,Completed,true,false,false
+UA007013,31 Jan 21,1,Royal Ave 1,Royal Ave 2,No. 3,Anika Mollar,Mia Hilaris,Mia Hilaris,3-6,3,6,0,1,Completed,true,false,false
+UA007013,31 Jan 21,1,Royal Ave 1,Royal Ave 2,No. 4,Olivia Todd-Chidley,Vadim Goreux,Vadim Goreux,3-6,3,6,0,1,Completed,true,true,true
+UA007014,31 Jan 21,1,Black Rock,Highett,No. 1,Kai Takagi,Harry Kidd,Harry Kidd,1-6,1,6,0,1,Completed,true,false,false
+UA007014,31 Jan 21,1,Black Rock,Highett,No. 2,Jacky Kong,Maksi Kaurin,Maksi Kaurin,3-6,3,6,0,1,Completed,true,false,false
+UA007014,31 Jan 21,1,Black Rock,Highett,No. 3,Gabriel Coleman,Dylan Smith,Dylan Smith,3-6,3,6,0,1,Completed,true,false,false
+UA007014,31 Jan 21,1,Black Rock,Highett,No. 4,Aryan Palai,Tom Peetoom,Aryan Palai,6-2,6,2,1,0,Completed,true,false,false
+UA007021,07 Feb 21,2,Highett,Dendy Park,No. 1,Harry Kidd,Viktor Posthuma,Harry Kidd,7-6,7,6,1,0,Completed,true,false,false
+UA007021,07 Feb 21,2,Highett,Dendy Park,No. 2,Maksi Kaurin,Yaniv Rakach,Maksi Kaurin,6-1,6,1,1,0,Completed,true,false,false
+UA007021,07 Feb 21,2,Highett,Dendy Park,No. 3,Dylan Smith,Miguel Najeras,Dylan Smith,6-2,6,2,1,0,Completed,true,false,false
+UA007021,07 Feb 21,2,Highett,Dendy Park,No. 4,Tom Peetoom,Gabreil Pozo,Gabreil Pozo,1-6,1,6,0,1,Completed,true,false,false
+UA007022,07 Feb 21,2,Mentone,Hurlingham Park,No. 1,Dane Lazic,Luka Thurlow,Luka Thurlow,3-6,3,6,0,1,Completed,true,false,false
+UA007022,07 Feb 21,2,Mentone,Hurlingham Park,No. 2,James Dimopoulos,Ashton Vati,James Dimopoulos,7-6,7,6,1,0,Completed,true,false,false
+UA007022,07 Feb 21,2,Mentone,Hurlingham Park,No. 3,Sai Karthick Neerukonda,Tom Vanderligt,Sai Karthick Neerukonda,6-1,6,1,1,0,Completed,true,false,false
+UA007022,07 Feb 21,2,Mentone,Hurlingham Park,No. 4,Thomas Dumoff,Eliot Rey-Benguigui,Eliot Rey-Benguigui,4-6,4,6,0,1,Completed,true,false,false
+UA007023,07 Feb 21,2,Le Page,Royal Ave 1,No. 1,James Polygenis,Ben Hemmingway,Ben Hemmingway,2-6,2,6,0,1,Completed,true,false,false
+UA007023,07 Feb 21,2,Le Page,Royal Ave 1,No. 2,James Katakouzinos,Charles McNabney-Stevens,Charles McNabney-Stevens,2-6,2,6,0,1,Completed,true,false,false
+UA007023,07 Feb 21,2,Le Page,Royal Ave 1,No. 3,Aryan Singh,Isabel Goldsmith,Isabel Goldsmith,4-6,4,6,0,1,Completed,true,false,false
+UA007023,07 Feb 21,2,Le Page,Royal Ave 1,No. 4,Lochlan Bradley,Olivia Todd-Chidley,Olivia Todd-Chidley,1-6,1,6,0,1,Completed,true,false,true
+UA007024,07 Feb 21,2,Royal Ave 2,Black Rock,No. 1,Jack Vakrinos,Kai Takagi,Kai Takagi,4-6,4,6,0,1,Completed,true,false,false
+UA007024,07 Feb 21,2,Royal Ave 2,Black Rock,No. 2,Mia Hilaris,Jacky Kong,Jacky Kong,1-6,1,6,0,1,Completed,true,false,false
+UA007024,07 Feb 21,2,Royal Ave 2,Black Rock,No. 3,Caleb Jackson-Wright,Oliver Capel,Caleb Jackson-Wright,6-0,6,0,1,0,Completed,true,false,false
+UA007024,07 Feb 21,2,Royal Ave 2,Black Rock,No. 4,Harry Toomey,Bryn Sandars,Harry Toomey,6-3,6,3,1,0,Completed,true,false,false
+UA007041,21 Feb 21,4,Le Page,Dendy Park,No. 1,Elan Amler,Viktor Posthuma,Viktor Posthuma,3-6,3,6,0,1,Completed,true,false,false
+UA007041,21 Feb 21,4,Le Page,Dendy Park,No. 2,James Katakouzinos,Yaniv Rakach,Yaniv Rakach,5-7,5,7,0,1,Completed,true,false,false
+UA007041,21 Feb 21,4,Le Page,Dendy Park,No. 3,Aryan Singh,Miguel Najeras,Miguel Najeras,4-6,4,6,0,1,Completed,true,false,false
+UA007041,21 Feb 21,4,Le Page,Dendy Park,No. 4,Lochlan Bradley,Noam Barel,Noam Barel,1-6,1,6,0,1,Completed,true,false,true
+UA007042,21 Feb 21,4,Royal Ave 2,Hurlingham Park,No. 1,William Farrugia,Matty Townsend,Matty Townsend,3-6,3,6,0,1,Completed,true,true,false
+UA007042,21 Feb 21,4,Royal Ave 2,Hurlingham Park,No. 2,Jack Vakrinos,Luka Thurlow,Luka Thurlow,4-6,4,6,0,1,Completed,true,false,false
+UA007042,21 Feb 21,4,Royal Ave 2,Hurlingham Park,No. 3,Caleb Jackson-Wright,Ashton Vati,Ashton Vati,6-7,6,7,0,1,Completed,true,false,false
+UA007042,21 Feb 21,4,Royal Ave 2,Hurlingham Park,No. 4,Harry Toomey,Tom Vanderligt,Harry Toomey,6-3,6,3,1,0,Completed,true,false,false
+UA007043,21 Feb 21,4,Highett,Royal Ave 1,No. 1,Harry Kidd,Harrison Moller,Harry Kidd,6-0,6,0,1,0,Completed,true,false,true
+UA007043,21 Feb 21,4,Highett,Royal Ave 1,No. 2,Maksi Kaurin,Ben Hemmingway,Maksi Kaurin,6-4,6,4,1,0,Completed,true,false,false
+UA007043,21 Feb 21,4,Highett,Royal Ave 1,No. 3,Dylan Smith,Anika Mollar,Dylan Smith,6-3,6,3,1,0,Completed,true,false,false
+UA007043,21 Feb 21,4,Highett,Royal Ave 1,No. 4,Tom Peetoom,Olivia Todd-Chidley,Tom Peetoom,6-4,6,4,1,0,Completed,true,false,true
+UA007044,21 Feb 21,4,Mentone,Black Rock,No. 1,Dane Lazic,Kai Takagi,Dane Lazic,6-4,6,4,1,0,Completed,true,false,false
+UA007044,21 Feb 21,4,Mentone,Black Rock,No. 2,Sai Karthick Neerukonda,Jacky Kong,Jacky Kong,4-6,4,6,0,1,Completed,true,false,false
+UA007044,21 Feb 21,4,Mentone,Black Rock,No. 3,Arrianne Misa,Gabriel Coleman,Gabriel Coleman,1-6,1,6,0,1,Completed,true,false,false
+UA007044,21 Feb 21,4,Mentone,Black Rock,No. 4,Thomas Dumoff,Aryan Palai,Aryan Palai,2-6,2,6,0,1,Completed,true,false,false
+UA007051,28 Feb 21,5,Royal Ave 1,Black Rock,No. 1,Harrison Moller,Kai Takagi,Kai Takagi,4-6,4,6,0,1,Completed,true,true,false
+UA007051,28 Feb 21,5,Royal Ave 1,Black Rock,No. 2,Charles McNabney-Stevens,Jacky Kong,Jacky Kong,4-6,4,6,0,1,Completed,true,false,false
+UA007051,28 Feb 21,5,Royal Ave 1,Black Rock,No. 3,Isabel Goldsmith,Oliver Capel,Oliver Capel,3-6,3,6,0,1,Completed,true,false,false
+UA007051,28 Feb 21,5,Royal Ave 1,Black Rock,No. 4,Anika Mollar,Bryn Sandars,Bryn Sandars,3-6,3,6,0,1,Completed,true,false,false
+UA007052,28 Feb 21,5,Highett,Royal Ave 2,No. 1,Harry Kidd,William Farrugia,Harry Kidd,6-0,6,0,1,0,Completed,true,false,true
+UA007052,28 Feb 21,5,Highett,Royal Ave 2,No. 2,Maksi Kaurin,Mia Hilaris,Maksi Kaurin,6-0,6,0,1,0,Completed,true,false,false
+UA007052,28 Feb 21,5,Highett,Royal Ave 2,No. 3,Dylan Smith,Caleb Jackson-Wright,Dylan Smith,6-1,6,1,1,0,Completed,true,false,false
+UA007052,28 Feb 21,5,Highett,Royal Ave 2,No. 4,Tom Peetoom,Declan Welch,Tom Peetoom,6-4,6,4,1,0,Completed,true,false,true
+UA007053,28 Feb 21,5,Le Page,Mentone,No. 1,Elan Amler,Laoise Comerford,Elan Amler,6-2,6,2,1,0,Completed,true,false,false
+UA007053,28 Feb 21,5,Le Page,Mentone,No. 2,James Polygenis,Dane Lazic,James Polygenis,6-2,6,2,1,0,Completed,true,false,false
+UA007053,28 Feb 21,5,Le Page,Mentone,No. 3,James Katakouzinos,James Dimopoulos,James Dimopoulos,1-6,1,6,0,1,Completed,true,false,false
+UA007053,28 Feb 21,5,Le Page,Mentone,No. 4,Aryan Singh,Sai Karthick Neerukonda,Sai Karthick Neerukonda,0-6,0,6,0,1,Completed,true,false,false
+UA007054,28 Feb 21,5,Dendy Park,Hurlingham Park,No. 1,Viktor Posthuma,Matty Townsend,Matty Townsend,3-6,3,6,0,1,Completed,true,false,false
+UA007054,28 Feb 21,5,Dendy Park,Hurlingham Park,No. 2,Yaniv Rakach,Luka Thurlow,Luka Thurlow,1-6,1,6,0,1,Completed,true,false,false
+UA007054,28 Feb 21,5,Dendy Park,Hurlingham Park,No. 3,Miguel Najeras,Ashton Vati,Miguel Najeras,6-3,6,3,1,0,Completed,true,false,false
+UA007054,28 Feb 21,5,Dendy Park,Hurlingham Park,No. 4,Gabreil Pozo,Eliot Rey-Benguigui,Gabreil Pozo,6-3,6,3,1,0,Completed,true,false,false
+UA007061,14 Mar 21,6,Hurlingham Park,Royal Ave 1,No. 1,Matty Townsend,Ben Hemmingway,Ben Hemmingway,2-6,2,6,0,1,Completed,true,false,false
+UA007061,14 Mar 21,6,Hurlingham Park,Royal Ave 1,No. 2,Ashton Vati,Charles McNabney-Stevens,Ashton Vati,6-1,6,1,1,0,Completed,true,false,false
+UA007061,14 Mar 21,6,Hurlingham Park,Royal Ave 1,No. 3,Tom Vanderligt,Isabel Goldsmith,Isabel Goldsmith,2-6,2,6,0,1,Completed,true,false,false
+UA007061,14 Mar 21,6,Hurlingham Park,Royal Ave 1,No. 4,Eliot Rey-Benguigui,Olivia Todd-Chidley,Eliot Rey-Benguigui,6-2,6,2,1,0,Completed,true,false,true
+UA007062,14 Mar 21,6,Black Rock,Dendy Park,No. 1,Gabriel Coleman,Viktor Posthuma,Gabriel Coleman,6-2,6,2,1,0,Completed,true,false,false
+UA007062,14 Mar 21,6,Black Rock,Dendy Park,No. 2,Aryan Palai,Yaniv Rakach,Aryan Palai,6-4,6,4,1,0,Completed,true,false,false
+UA007062,14 Mar 21,6,Black Rock,Dendy Park,No. 3,Oliver Capel,Miguel Najeras,Miguel Najeras,3-6,3,6,0,1,Completed,true,false,false
+UA007062,14 Mar 21,6,Black Rock,Dendy Park,No. 4,Bryn Sandars,Gabreil Pozo,Gabreil Pozo,2-6,2,6,0,1,Completed,true,false,false
+UA007063,14 Mar 21,6,Royal Ave 2,Le Page,No. 1,William Farrugia,Elan Amler,Elan Amler,2-6,2,6,0,1,Completed,true,true,false
+UA007063,14 Mar 21,6,Royal Ave 2,Le Page,No. 2,Jack Vakrinos,James Katakouzinos,Jack Vakrinos,6-3,6,3,1,0,Completed,true,false,false
+UA007063,14 Mar 21,6,Royal Ave 2,Le Page,No. 3,Mia Hilaris,Aryan Singh,Aryan Singh,5-7,5,7,0,1,Completed,true,false,false
+UA007063,14 Mar 21,6,Royal Ave 2,Le Page,No. 4,Caleb Jackson-Wright,Lochlan Bradley,Caleb Jackson-Wright,6-2,6,2,1,0,Completed,true,false,false
+UA007064,14 Mar 21,6,Mentone,Highett,No. 1,Laoise Comerford,Harry Kidd,Harry Kidd,1-6,1,6,0,1,Completed,true,false,false
+UA007064,14 Mar 21,6,Mentone,Highett,No. 2,[Unnamed player — TROLS UA007064 home code 2],Maksi Kaurin,Maksi Kaurin,0-6,0,6,0,1,Completed,false,false,false
+UA007064,14 Mar 21,6,Mentone,Highett,No. 3,Sai Karthick Neerukonda,Dylan Smith,Dylan Smith,3-6,3,6,0,1,Completed,true,false,false
+UA007064,14 Mar 21,6,Mentone,Highett,No. 4,[Unnamed player — TROLS UA007064 home code 4],Tom Peetoom,Tom Peetoom,0-6,0,6,0,1,Completed,false,false,false
+UA007071,21 Mar 21,7,Dendy Park,Royal Ave 1,No. 1,Viktor Posthuma,Harrison Moller,Viktor Posthuma,6-3,6,3,1,0,Completed,true,false,true
+UA007071,21 Mar 21,7,Dendy Park,Royal Ave 1,No. 2,Yaniv Rakach,Ben Hemmingway,Ben Hemmingway,1-6,1,6,0,1,Completed,true,false,false
+UA007071,21 Mar 21,7,Dendy Park,Royal Ave 1,No. 3,Miguel Najeras,Charles McNabney-Stevens,Miguel Najeras,6-2,6,2,1,0,Completed,true,false,false
+UA007071,21 Mar 21,7,Dendy Park,Royal Ave 1,No. 4,Gabreil Pozo,Anika Mollar,Gabreil Pozo,6-0,6,0,1,0,Completed,true,false,false
+UA007072,21 Mar 21,7,Hurlingham Park,Black Rock,No. 1,Matty Townsend,Kai Takagi,Matty Townsend,7-5,7,5,1,0,Completed,true,false,false
+UA007072,21 Mar 21,7,Hurlingham Park,Black Rock,No. 2,Ashton Vati,Jacky Kong,Jacky Kong,3-6,3,6,0,1,Completed,true,false,false
+UA007072,21 Mar 21,7,Hurlingham Park,Black Rock,No. 3,Tom Vanderligt,Gabriel Coleman,Tom Vanderligt,6-2,6,2,1,0,Completed,true,false,false
+UA007072,21 Mar 21,7,Hurlingham Park,Black Rock,No. 4,Eliot Rey-Benguigui,Aryan Palai,Aryan Palai,2-6,2,6,0,1,Completed,true,false,false
+UA007073,21 Mar 21,7,Highett,Le Page,No. 1,Harry Kidd,Elan Amler,Elan Amler,3-6,3,6,0,1,Completed,true,false,false
+UA007073,21 Mar 21,7,Highett,Le Page,No. 2,Maksi Kaurin,James Polygenis,Maksi Kaurin,6-1,6,1,1,0,Completed,true,false,false
+UA007073,21 Mar 21,7,Highett,Le Page,No. 3,Dylan Smith,James Katakouzinos,Dylan Smith,6-1,6,1,1,0,Completed,true,false,false
+UA007073,21 Mar 21,7,Highett,Le Page,No. 4,Tom Peetoom,Lochlan Bradley,Tom Peetoom,7-6,7,6,1,0,Completed,true,false,false
+UA007074,21 Mar 21,7,Royal Ave 2,Mentone,No. 1,Jack Vakrinos,Dane Lazic,Dane Lazic,3-6,3,6,0,1,Completed,true,false,false
+UA007074,21 Mar 21,7,Royal Ave 2,Mentone,No. 2,Mia Hilaris,James Dimopoulos,Mia Hilaris,7-6,7,6,1,0,Completed,true,false,false
+UA007074,21 Mar 21,7,Royal Ave 2,Mentone,No. 3,Caleb Jackson-Wright,Sai Karthick Neerukonda,Sai Karthick Neerukonda,4-6,4,6,0,1,Completed,true,false,false
+UA007074,21 Mar 21,7,Royal Ave 2,Mentone,No. 4,Harry Toomey,Thomas Dumoff,Harry Toomey,6-1,6,1,1,0,Completed,true,false,false
+UA007081,28 Mar 21,8,Mentone,Dendy Park,No. 1,Laoise Comerford,Viktor Posthuma,Viktor Posthuma,2-6,2,6,0,1,Completed,true,false,false
+UA007081,28 Mar 21,8,Mentone,Dendy Park,No. 2,James Dimopoulos,Yaniv Rakach,Yaniv Rakach,4-6,4,6,0,1,Completed,true,false,false
+UA007081,28 Mar 21,8,Mentone,Dendy Park,No. 3,Sai Karthick Neerukonda,Miguel Najeras,Miguel Najeras,4-6,4,6,0,1,Completed,true,false,false
+UA007081,28 Mar 21,8,Mentone,Dendy Park,No. 4,Thomas Dumoff,Gabreil Pozo,Gabreil Pozo,4-6,4,6,0,1,Completed,true,false,false
+UA007082,28 Mar 21,8,Le Page,Hurlingham Park,No. 1,Elan Amler,Matty Townsend,Elan Amler,7-5,7,5,1,0,Completed,true,false,false
+UA007082,28 Mar 21,8,Le Page,Hurlingham Park,No. 2,James Polygenis,Luka Thurlow,Luka Thurlow,4-6,4,6,0,1,Completed,true,false,false
+UA007082,28 Mar 21,8,Le Page,Hurlingham Park,No. 3,James Katakouzinos,Ashton Vati,Ashton Vati,1-6,1,6,0,1,Completed,true,false,false
+UA007082,28 Mar 21,8,Le Page,Hurlingham Park,No. 4,Aryan Singh,Eliot Rey-Benguigui,Eliot Rey-Benguigui,4-6,4,6,0,1,Completed,true,false,false
+UA007083,28 Mar 21,8,Royal Ave 2,Royal Ave 1,No. 1,William Farrugia,Ben Hemmingway,Ben Hemmingway,0-6,0,6,0,1,Completed,true,true,false
+UA007083,28 Mar 21,8,Royal Ave 2,Royal Ave 1,No. 2,Mia Hilaris,Charles McNabney-Stevens,Mia Hilaris,6-2,6,2,1,0,Completed,true,false,false
+UA007083,28 Mar 21,8,Royal Ave 2,Royal Ave 1,No. 3,Caleb Jackson-Wright,Isabel Goldsmith,Caleb Jackson-Wright,6-4,6,4,1,0,Completed,true,false,false
+UA007083,28 Mar 21,8,Royal Ave 2,Royal Ave 1,No. 4,Harry Toomey,Olivia Todd-Chidley,Harry Toomey,6-0,6,0,1,0,Completed,true,false,true
+UA007084,28 Mar 21,8,Highett,Black Rock,No. 1,Harry Kidd,Kai Takagi,Kai Takagi,1-6,1,6,0,1,Completed,true,false,false
+UA007084,28 Mar 21,8,Highett,Black Rock,No. 2,Maksi Kaurin,Jacky Kong,Maksi Kaurin,7-6,7,6,1,0,Completed,true,false,false
+UA007084,28 Mar 21,8,Highett,Black Rock,No. 3,Dylan Smith,Oliver Capel,Dylan Smith,6-0,6,0,1,0,Completed,true,false,false
+UA007084,28 Mar 21,8,Highett,Black Rock,No. 4,Tom Peetoom,Bryn Sandars,Bryn Sandars,2-6,2,6,0,1,Completed,true,false,false
+UA007091,02 May 21,9,Dendy Park,Highett,No. 1,Viktor Posthuma,Harry Kidd,Harry Kidd,5-7,5,7,0,1,Completed,true,false,false
+UA007091,02 May 21,9,Dendy Park,Highett,No. 2,Yaniv Rakach,Maksi Kaurin,Maksi Kaurin,3-6,3,6,0,1,Completed,true,false,false
+UA007091,02 May 21,9,Dendy Park,Highett,No. 3,Miguel Najeras,Dylan Smith,Dylan Smith,2-6,2,6,0,1,Completed,true,false,false
+UA007091,02 May 21,9,Dendy Park,Highett,No. 4,Gabreil Pozo,Tom Peetoom,Gabreil Pozo,6-0,6,0,1,0,Completed,true,false,false
+UA007092,02 May 21,9,Hurlingham Park,Mentone,No. 1,Hugh Du Toit,Laoise Comerford,Hugh Du Toit,6-1,6,1,1,0,Completed,true,true,false
+UA007092,02 May 21,9,Hurlingham Park,Mentone,No. 2,Ashton Vati,James Dimopoulos,James Dimopoulos,4-6,4,6,0,1,Completed,true,false,false
+UA007092,02 May 21,9,Hurlingham Park,Mentone,No. 3,Tom Vanderligt,[Unnamed player — TROLS UA007092 away code 3],Tom Vanderligt,6-0,6,0,1,0,Completed,false,false,false
+UA007092,02 May 21,9,Hurlingham Park,Mentone,No. 4,Eliot Rey-Benguigui,Arrianne Misa,Eliot Rey-Benguigui,6-0,6,0,1,0,Completed,true,false,false
+UA007093,02 May 21,9,Royal Ave 1,Le Page,No. 1,Harrison Moller,Elan Amler,Elan Amler,1-6,1,6,0,1,Completed,true,true,false
+UA007093,02 May 21,9,Royal Ave 1,Le Page,No. 2,Charles McNabney-Stevens,James Polygenis,James Polygenis,0-6,0,6,0,1,Completed,true,false,false
+UA007093,02 May 21,9,Royal Ave 1,Le Page,No. 3,Olivia Todd-Chidley,James Katakouzinos,Olivia Todd-Chidley,6-1,6,1,1,0,Completed,true,true,false
+UA007093,02 May 21,9,Royal Ave 1,Le Page,No. 4,Sanjeeva Attygale,Aryan Singh,Aryan Singh,2-6,2,6,0,1,Completed,true,true,false
+UA007094,02 May 21,9,Black Rock,Royal Ave 2,No. 1,Gabriel Coleman,William Farrugia,Gabriel Coleman,6-4,6,4,1,0,Completed,true,false,true
+UA007094,02 May 21,9,Black Rock,Royal Ave 2,No. 2,Aryan Palai,Jack Vakrinos,Jack Vakrinos,1-6,1,6,0,1,Completed,true,false,false
+UA007094,02 May 21,9,Black Rock,Royal Ave 2,No. 3,Oliver Capel,Caleb Jackson-Wright,Caleb Jackson-Wright,3-6,3,6,0,1,Completed,true,false,false
+UA007094,02 May 21,9,Black Rock,Royal Ave 2,No. 4,Bryn Sandars,Harry Toomey,Harry Toomey,3-6,3,6,0,1,Completed,true,false,false
+UA007101,09 May 21,10,Royal Ave 2,Dendy Park,No. 1,William Farrugia,Viktor Posthuma,Viktor Posthuma,2-6,2,6,0,1,Completed,true,true,false
+UA007101,09 May 21,10,Royal Ave 2,Dendy Park,No. 2,Jack Vakrinos,Yaniv Rakach,Jack Vakrinos,6-2,6,2,1,0,Completed,true,false,false
+UA007101,09 May 21,10,Royal Ave 2,Dendy Park,No. 3,Mia Hilaris,Miguel Najeras,Mia Hilaris,7-5,7,5,1,0,Completed,true,false,false
+UA007101,09 May 21,10,Royal Ave 2,Dendy Park,No. 4,Caleb Jackson-Wright,Gabreil Pozo,Gabreil Pozo,3-6,3,6,0,1,Completed,true,false,false
+UA007102,09 May 21,10,Highett,Hurlingham Park,No. 1,Harry Kidd,Matty Townsend,Matty Townsend,3-6,3,6,0,1,Completed,true,false,false
+UA007102,09 May 21,10,Highett,Hurlingham Park,No. 2,Maksi Kaurin,Luka Thurlow,Luka Thurlow,3-6,3,6,0,1,Completed,true,false,false
+UA007102,09 May 21,10,Highett,Hurlingham Park,No. 3,Dylan Smith,Tom Vanderligt,Dylan Smith,6-1,6,1,1,0,Completed,true,false,false
+UA007102,09 May 21,10,Highett,Hurlingham Park,No. 4,Tom Peetoom,Eliot Rey-Benguigui,Eliot Rey-Benguigui,2-6,2,6,0,1,Completed,true,false,false
+UA007103,09 May 21,10,Mentone,Royal Ave 1,No. 1,Dane Lazic,Harrison Moller,Dane Lazic,6-2,6,2,1,0,Completed,true,false,true
+UA007103,09 May 21,10,Mentone,Royal Ave 1,No. 2,James Dimopoulos,Isabel Goldsmith,James Dimopoulos,6-2,6,2,1,0,Completed,true,false,false
+UA007103,09 May 21,10,Mentone,Royal Ave 1,No. 3,Sai Karthick Neerukonda,Anika Mollar,Sai Karthick Neerukonda,6-1,6,1,1,0,Completed,true,false,false
+UA007103,09 May 21,10,Mentone,Royal Ave 1,No. 4,Thomas Dumoff,Olivia Todd-Chidley,Thomas Dumoff,6-1,6,1,1,0,Completed,true,false,true
+UA007104,09 May 21,10,Le Page,Black Rock,No. 1,Elan Amler,Kai Takagi,Elan Amler,7-5,7,5,1,0,Completed,true,false,false
+UA007104,09 May 21,10,Le Page,Black Rock,No. 2,James Polygenis,Jacky Kong,James Polygenis,6-0,6,0,1,0,Completed,true,false,false
+UA007104,09 May 21,10,Le Page,Black Rock,No. 3,James Katakouzinos,Aryan Palai,Aryan Palai,2-6,2,6,0,1,Completed,true,false,false
+UA007104,09 May 21,10,Le Page,Black Rock,No. 4,Aryan Singh,Oliver Capel,Aryan Singh,6-2,6,2,1,0,Completed,true,false,false
+UA007111,16 May 21,11,Dendy Park,Le Page,No. 1,Viktor Posthuma,Elan Amler,Viktor Posthuma,6-4,6,4,1,0,Completed,true,false,false
+UA007111,16 May 21,11,Dendy Park,Le Page,No. 2,Yaniv Rakach,James Katakouzinos,Yaniv Rakach,6-1,6,1,1,0,Completed,true,false,false
+UA007111,16 May 21,11,Dendy Park,Le Page,No. 3,Miguel Najeras,Aryan Singh,Miguel Najeras,6-1,6,1,1,0,Completed,true,false,false
+UA007111,16 May 21,11,Dendy Park,Le Page,No. 4,Gabreil Pozo,Lochlan Bradley,Gabreil Pozo,6-1,6,1,1,0,Completed,true,false,false
+UA007112,16 May 21,11,Hurlingham Park,Royal Ave 2,No. 1,Luka Thurlow,Jack Vakrinos,Luka Thurlow,6-0,6,0,1,0,Completed,true,false,false
+UA007112,16 May 21,11,Hurlingham Park,Royal Ave 2,No. 2,Ashton Vati,Mia Hilaris,Mia Hilaris,1-6,1,6,0,1,Completed,true,false,false
+UA007112,16 May 21,11,Hurlingham Park,Royal Ave 2,No. 3,Tom Vanderligt,Caleb Jackson-Wright,Caleb Jackson-Wright,1-6,1,6,0,1,Completed,true,false,false
+UA007112,16 May 21,11,Hurlingham Park,Royal Ave 2,No. 4,Eliot Rey-Benguigui,Harry Toomey,Eliot Rey-Benguigui,6-2,6,2,1,0,Completed,true,false,false
+UA007113,16 May 21,11,Royal Ave 1,Highett,No. 1,Harrison Moller,Harry Kidd,Harry Kidd,1-6,1,6,0,1,Completed,true,true,false
+UA007113,16 May 21,11,Royal Ave 1,Highett,No. 2,Charles McNabney-Stevens,Maksi Kaurin,Maksi Kaurin,1-6,1,6,0,1,Completed,true,false,false
+UA007113,16 May 21,11,Royal Ave 1,Highett,No. 3,Isabel Goldsmith,Dylan Smith,Dylan Smith,3-6,3,6,0,1,Completed,true,false,false
+UA007113,16 May 21,11,Royal Ave 1,Highett,No. 4,William Farrugia,Tom Peetoom,William Farrugia,6-1,6,1,1,0,Completed,true,true,false
+UA007114,16 May 21,11,Black Rock,Mentone,No. 1,Kai Takagi,Laoise Comerford,Kai Takagi,6-3,6,3,1,0,Completed,true,false,false
+UA007114,16 May 21,11,Black Rock,Mentone,No. 2,Jacky Kong,Dane Lazic,Jacky Kong,6-4,6,4,1,0,Completed,true,false,false
+UA007114,16 May 21,11,Black Rock,Mentone,No. 3,Oliver Capel,Sai Karthick Neerukonda,Sai Karthick Neerukonda,1-6,1,6,0,1,Completed,true,false,false
+UA007114,16 May 21,11,Black Rock,Mentone,No. 4,Bryn Sandars,Arrianne Misa,Bryn Sandars,6-1,6,1,1,0,Completed,true,false,false
+UA007121,23 May 21,12,Black Rock,Royal Ave 1,No. 1,Gabriel Coleman,Ben Hemmingway,Ben Hemmingway,1-6,1,6,0,1,Completed,true,false,false
+UA007121,23 May 21,12,Black Rock,Royal Ave 1,No. 2,Aryan Palai,Charles McNabney-Stevens,Aryan Palai,6-1,6,1,1,0,Completed,true,false,false
+UA007121,23 May 21,12,Black Rock,Royal Ave 1,No. 3,Oliver Capel,Isabel Goldsmith,Isabel Goldsmith,2-6,2,6,0,1,Completed,true,false,false
+UA007121,23 May 21,12,Black Rock,Royal Ave 1,No. 4,Bryn Sandars,Anika Mollar,Bryn Sandars,6-3,6,3,1,0,Completed,true,false,false
+UA007122,23 May 21,12,Royal Ave 2,Highett,No. 1,Jack Vakrinos,Harry Kidd,Jack Vakrinos,6-3,6,3,1,0,Completed,true,false,false
+UA007122,23 May 21,12,Royal Ave 2,Highett,No. 2,Mia Hilaris,Maksi Kaurin,Maksi Kaurin,3-6,3,6,0,1,Completed,true,false,false
+UA007122,23 May 21,12,Royal Ave 2,Highett,No. 3,Harry Toomey,Dylan Smith,Harry Toomey,6-2,6,2,1,0,Completed,true,false,false
+UA007122,23 May 21,12,Royal Ave 2,Highett,No. 4,Hannah Chruszcz,Tom Peetoom,Tom Peetoom,2-6,2,6,0,1,Completed,true,true,false
+UA007123,23 May 21,12,Mentone,Le Page,No. 1,Dane Lazic,Elan Amler,Elan Amler,5-7,5,7,0,1,Completed,true,false,false
+UA007123,23 May 21,12,Mentone,Le Page,No. 2,James Dimopoulos,James Polygenis,James Dimopoulos,6-4,6,4,1,0,Completed,true,false,false
+UA007123,23 May 21,12,Mentone,Le Page,No. 3,Sai Karthick Neerukonda,Aryan Singh,Sai Karthick Neerukonda,6-0,6,0,1,0,Completed,true,false,false
+UA007123,23 May 21,12,Mentone,Le Page,No. 4,Arrianne Misa,Lochlan Bradley,Lochlan Bradley,4-6,4,6,0,1,Completed,true,false,false
+UA007124,23 May 21,12,Hurlingham Park,Dendy Park,No. 1,Matty Townsend,Viktor Posthuma,Matty Townsend,7-5,7,5,1,0,Completed,true,false,false
+UA007124,23 May 21,12,Hurlingham Park,Dendy Park,No. 2,Luka Thurlow,Yaniv Rakach,Luka Thurlow,6-4,6,4,1,0,Completed,true,false,false
+UA007124,23 May 21,12,Hurlingham Park,Dendy Park,No. 3,Ashton Vati,Miguel Najeras,Ashton Vati,6-3,6,3,1,0,Completed,true,false,false
+UA007124,23 May 21,12,Hurlingham Park,Dendy Park,No. 4,Tom Vanderligt,Gabreil Pozo,Gabreil Pozo,0-6,0,6,0,1,Completed,true,false,false
+UA007301,,16,Highett,Royal Ave 2,No. 1,Harry Kidd,William Farrugia,Harry Kidd,6-2,6,2,1,0,Completed,true,false,true
+UA007301,,16,Highett,Royal Ave 2,No. 2,Maksi Kaurin,Mia Hilaris,Maksi Kaurin,6-0,6,0,1,0,Completed,true,false,false
+UA007301,,16,Highett,Royal Ave 2,No. 3,Dylan Smith,Caleb Jackson-Wright,Caleb Jackson-Wright,2-6,2,6,0,1,Completed,true,false,false
+UA007301,,16,Highett,Royal Ave 2,No. 4,Tom Peetoom,Harry Toomey,Harry Toomey,0-6,0,6,0,1,Completed,true,false,false
+UA007302,,16,Dendy Park,Hurlingham Park,No. 1,Viktor Posthuma,Matty Townsend,Matty Townsend,4-6,4,6,0,1,Completed,true,false,false
+UA007302,,16,Dendy Park,Hurlingham Park,No. 2,Yaniv Rakach,Luka Thurlow,Luka Thurlow,0-6,0,6,0,1,Completed,true,false,false
+UA007302,,16,Dendy Park,Hurlingham Park,No. 3,Miguel Najeras,Ashton Vati,Miguel Najeras,6-3,6,3,1,0,Completed,true,false,false
+UA007302,,16,Dendy Park,Hurlingham Park,No. 4,Gabreil Pozo,Eliot Rey-Benguigui,Gabreil Pozo,6-1,6,1,1,0,Completed,true,false,false
+UA007321,,17,Highett,Dendy Park,No. 1,Harry Kidd,Viktor Posthuma,Harry Kidd,6-4,6,4,1,0,Completed,true,false,false
+UA007321,,17,Highett,Dendy Park,No. 2,Maksi Kaurin,Yaniv Rakach,Maksi Kaurin,6-0,6,0,1,0,Completed,true,false,false
+UA007321,,17,Highett,Dendy Park,No. 3,Dylan Smith,Miguel Najeras,Miguel Najeras,3-6,3,6,0,1,Completed,true,false,false
+UA007321,,17,Highett,Dendy Park,No. 4,Tom Peetoom,Gabreil Pozo,Gabreil Pozo,3-6,3,6,0,1,Completed,true,false,false

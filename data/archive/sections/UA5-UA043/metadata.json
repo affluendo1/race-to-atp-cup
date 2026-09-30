@@ -1,0 +1,95 @@
+{
+  "asset_id": "UA5-UA043",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2009",
+  "season_id": "UA5",
+  "season_label": "Spring 2009",
+  "source_section_code": "UA043",
+  "section_label": "6",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Mordialloc",
+      "wins": 0,
+      "points": 117,
+      "percentage": 162.98,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Maccabi",
+      "wins": 0,
+      "points": 99,
+      "percentage": 172.1,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Beaumaris CC",
+      "wins": 0,
+      "points": 93,
+      "percentage": 112.64,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Parkdale",
+      "wins": 0,
+      "points": 81,
+      "percentage": 126.17,
+      "marker": "*"
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 58,
+      "percentage": 72.92,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Lauriston",
+      "wins": 0,
+      "points": 48,
+      "percentage": 91.94,
+      "marker": "*"
+    },
+    {
+      "position": 7,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 28,
+      "percentage": 48.25,
+      "marker": "*"
+    },
+    {
+      "position": 8,
+      "team": "GPHC",
+      "wins": 0,
+      "points": 16,
+      "percentage": 55.83,
+      "marker": "*"
+    }
+  ],
+  "section_code": "UA5-UA043",
+  "fixtures": 59,
+  "completed_fixtures": 50,
+  "draw_fixtures": 3,
+  "singles_rubbers": 193,
+  "doubles_rubbers": 96,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA043051",
+    "No scorecard rubbers for UA043054",
+    "Fixture game totals do not match rubbers for UA043054"
+  ]
+}

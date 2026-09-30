@@ -1,0 +1,84 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA003011,01 Feb 26,1,Black Rock,Mentone,No. 1,Joseph Desmond,Lennox Carroll,Joseph Desmond,4-6 6-4 7-6,17,16,2,1,Completed,true,false,false
+UA003011,01 Feb 26,1,Black Rock,Mentone,No. 2,Luke Desmond,Tom Carroll,Tom Carroll,1-6 6-7,7,13,0,2,Completed,true,false,false
+UA003012,01 Feb 26,1,BLTC Blue,Kooyong Green,No. 1,Harry Bennett,Marco Damiani,Marco Damiani,3-6 0-6,3,12,0,2,Completed,true,false,false
+UA003012,01 Feb 26,1,BLTC Blue,Kooyong Green,No. 2,Justin Xia,Adriano D'Angelo,Justin Xia,6-3 7-5,13,8,2,0,Completed,true,false,false
+UA003013,01 Feb 26,1,Kooyong Purple,BLTC White,No. 1,Phillip Brophy,Casper Stisen Billing,Casper Stisen Billing,6-7 6-3 6-7,18,17,1,2,Completed,true,false,false
+UA003013,01 Feb 26,1,Kooyong Purple,BLTC White,No. 2,Angus Collett,Victor Lee,Angus Collett,6-3 6-2,12,5,2,0,Completed,true,false,false
+UA003021,08 Feb 26,2,BLTC White,Black Rock,No. 1,Minato Sata,Max Looschilder,Max Looschilder,2-6 2-6,4,12,0,2,Completed,true,false,false
+UA003021,08 Feb 26,2,BLTC White,Black Rock,No. 2,Casper Stisen Billing,Kenneth Yeung,Kenneth Yeung,4-6 5-7,9,13,0,2,Completed,true,false,false
+UA003022,08 Feb 26,2,Kooyong Green,Kooyong Purple,No. 1,Marco Damiani,Phillip Brophy,Phillip Brophy,6-3 1-6 6-7,13,16,1,2,Completed,true,false,false
+UA003022,08 Feb 26,2,Kooyong Green,Kooyong Purple,No. 2,Lachlan Tesmer,Liam Tesmer,Lachlan Tesmer,6-2 6-0,12,2,2,0,Completed,true,true,false
+UA003023,08 Feb 26,2,Mentone,BLTC Blue,No. 1,Lennox Carroll,[Unnamed player — TROLS UA003023 away code 1],Lennox Carroll,6-0 6-0,12,0,2,0,Completed,false,false,false
+UA003023,08 Feb 26,2,Mentone,BLTC Blue,No. 2,Tom Carroll,Justin Xia,Tom Carroll,6-4 6-2,12,6,2,0,Completed,true,false,false
+UA003031,15 Feb 26,3,Black Rock,BLTC Blue,No. 1,Joseph Desmond,David Haidor,David Haidor,4-6 0-6,4,12,0,2,Completed,true,false,true
+UA003031,15 Feb 26,3,Black Rock,BLTC Blue,No. 2,Luke Desmond,Harry Bennett,Harry Bennett,1-6 2-6,3,12,0,2,Completed,true,false,false
+UA003032,15 Feb 26,3,Kooyong Purple,Mentone,No. 1,Phillip Brophy,Lennox Carroll,Phillip Brophy,4-6 6-3 7-6,17,15,2,1,Completed,true,false,false
+UA003032,15 Feb 26,3,Kooyong Purple,Mentone,No. 2,Liam Tesmer,Tom Carroll,Tom Carroll,4-6 2-6,6,12,0,2,Completed,true,false,false
+UA003033,15 Feb 26,3,BLTC White,Kooyong Green,No. 1,Minato Sata,Marco Damiani,Marco Damiani,3-6 3-6,6,12,0,2,Completed,true,false,false
+UA003033,15 Feb 26,3,BLTC White,Kooyong Green,No. 2,Victor Lee,Will Morris,Victor Lee,6-1 3-6 7-6,16,13,2,1,Completed,true,false,true
+UA003041,22 Feb 26,4,Kooyong Green,Black Rock,No. 1,Marco Damiani,Joseph Desmond,Marco Damiani,4-6 6-4 7-6,17,16,2,1,Completed,true,false,false
+UA003041,22 Feb 26,4,Kooyong Green,Black Rock,No. 2,James Porter,Max Looschilder,Max Looschilder,0-6 1-6,1,12,0,2,Completed,true,false,false
+UA003042,22 Feb 26,4,Mentone,BLTC White,No. 1,Lennox Carroll,Casper Stisen Billing,Lennox Carroll,6-2 5-7 7-6,18,15,2,1,Completed,true,false,false
+UA003042,22 Feb 26,4,Mentone,BLTC White,No. 2,Tom Carroll,Victor Lee,Tom Carroll,6-1 6-2,12,3,2,0,Completed,true,false,false
+UA003043,22 Feb 26,4,BLTC Blue,Kooyong Purple,No. 1,Harry Bennett,Phillip Brophy,Phillip Brophy,0-6 3-6,3,12,0,2,Completed,true,false,false
+UA003043,22 Feb 26,4,BLTC Blue,Kooyong Purple,No. 2,Justin Xia,Liam Tesmer,Justin Xia,6-2 6-3,12,5,2,0,Completed,true,false,false
+UA003051,01 Mar 26,5,Black Rock,Kooyong Purple,No. 1,Joseph Desmond,Phillip Brophy,Phillip Brophy,4-6 4-6,8,12,0,2,Completed,true,false,false
+UA003051,01 Mar 26,5,Black Rock,Kooyong Purple,No. 2,Max Looschilder,Liam Tesmer,Max Looschilder,6-4 6-0,12,4,2,0,Completed,true,false,false
+UA003052,01 Mar 26,5,Kooyong Green,Mentone,No. 1,Marco Damiani,Lennox Carroll,Marco Damiani,6-7 7-5 7-6,20,18,2,1,Completed,true,false,false
+UA003052,01 Mar 26,5,Kooyong Green,Mentone,No. 2,Lachlan Tesmer,Tom Carroll,Tom Carroll,6-4 5-7 6-7,17,18,1,2,Completed,true,true,false
+UA003053,01 Mar 26,5,BLTC White,BLTC Blue,No. 1,Casper Stisen Billing,Harry Bennett,Casper Stisen Billing,6-0 6-2,12,2,2,0,Completed,true,false,false
+UA003053,01 Mar 26,5,BLTC White,BLTC Blue,No. 2,Victor Lee,Justin Xia,Justin Xia,2-6 3-6,5,12,0,2,Completed,true,false,false
+UA003061,15 Mar 26,6,Mentone,Black Rock,No. 1,Tom Carroll,Max Looschilder,Max Looschilder,4-6 3-6,7,12,0,2,Completed,true,false,false
+UA003061,15 Mar 26,6,Mentone,Black Rock,No. 2,Owen Richardson,Kenneth Yeung,Kenneth Yeung,2-6 3-6,5,12,0,2,Completed,true,false,false
+UA003062,15 Mar 26,6,Kooyong Green,BLTC Blue,No. 1,Marco Damiani,David Haidor,David Haidor,6-0 4-6 6-7,16,13,1,2,Completed,true,false,true
+UA003062,15 Mar 26,6,Kooyong Green,BLTC Blue,No. 2,James Porter,Harry Bennett,Harry Bennett,4-6 2-6,6,12,0,2,Completed,true,false,false
+UA003063,15 Mar 26,6,BLTC White,Kooyong Purple,No. 1,Casper Stisen Billing,Phillip Brophy,Phillip Brophy,6-2 3-6 6-7,15,15,1,2,Completed,true,false,false
+UA003063,15 Mar 26,6,BLTC White,Kooyong Purple,No. 2,Victor Lee,Angus Collett,Angus Collett,4-6 6-4 6-7,16,17,1,2,Completed,true,false,false
+UA003071,22 Mar 26,7,Black Rock,BLTC White,No. 1,Joseph Desmond,Casper Stisen Billing,Casper Stisen Billing,5-7 6-2 6-7,17,16,1,2,Completed,true,false,false
+UA003071,22 Mar 26,7,Black Rock,BLTC White,No. 2,Luke Desmond,Victor Lee,Luke Desmond,6-0 6-0,12,0,2,0,Completed,true,false,false
+UA003072,22 Mar 26,7,Kooyong Purple,Kooyong Green,No. 1,Liam Tesmer,James Porter,Liam Tesmer,2-6 6-1 7-6,15,13,2,1,Completed,true,false,false
+UA003073,22 Mar 26,7,BLTC Blue,Mentone,No. 1,David Haidor,Tom Carroll,David Haidor,6-3 6-4,12,7,2,0,Completed,true,true,false
+UA003073,22 Mar 26,7,BLTC Blue,Mentone,No. 2,Harry Bennett,Owen Richardson,Owen Richardson,4-6 6-3 6-7,16,16,1,2,Completed,true,false,false
+UA003081,29 Mar 26,8,BLTC Blue,Black Rock,No. 1,Harry Bennett,Max Looschilder,Max Looschilder,6-4 1-6 6-7,13,17,1,2,Completed,true,false,false
+UA003081,29 Mar 26,8,BLTC Blue,Black Rock,No. 2,Justin Xia,Luke Desmond,Luke Desmond,0-6 3-6,3,12,0,2,Completed,true,false,false
+UA003082,29 Mar 26,8,Mentone,Kooyong Purple,No. 1,Owen Richardson,Liam Tesmer,Owen Richardson,4-6 6-1 7-6,17,13,2,1,Completed,true,false,false
+UA003082,29 Mar 26,8,Mentone,Kooyong Purple,No. 2,Joshua Tesler,Zeyi Xu,Joshua Tesler,6-2 6-2,12,4,2,0,Completed,true,true,true
+UA003083,29 Mar 26,8,Kooyong Green,BLTC White,No. 1,Marco Damiani,Minato Sata,Minato Sata,2-6 1-6,3,12,0,2,Completed,true,false,false
+UA003083,29 Mar 26,8,Kooyong Green,BLTC White,No. 2,James Porter,Victor Lee,Victor Lee,6-0 6-7 6-7,18,14,1,2,Completed,true,false,false
+UA003091,26 Apr 26,9,Black Rock,Kooyong Green,No. 1,Lewis Smith,James Porter,Lewis Smith,6-4 6-0,12,4,2,0,Completed,true,true,false
+UA003091,26 Apr 26,9,Black Rock,Kooyong Green,No. 2,Hamish Pendred,Will Morris,Hamish Pendred,6-3 6-4,12,7,2,0,Completed,true,true,true
+UA003092,26 Apr 26,9,BLTC White,Mentone,No. 1,Minato Sata,Lennox Carroll,Minato Sata,7-5 6-4,13,9,2,0,Completed,true,false,false
+UA003092,26 Apr 26,9,BLTC White,Mentone,No. 2,Casper Stisen Billing,Tom Carroll,Tom Carroll,3-6 0-6,3,12,0,2,Completed,true,false,false
+UA003093,26 Apr 26,9,Kooyong Purple,BLTC Blue,No. 1,Phillip Brophy,Harry Bennett,Phillip Brophy,6-0 6-0,12,0,2,0,Completed,true,false,false
+UA003093,26 Apr 26,9,Kooyong Purple,BLTC Blue,No. 2,Liam Tesmer,Justin Xia,Justin Xia,4-6 6-7,10,13,0,2,Completed,true,false,false
+UA003102,03 May 26,10,Mentone,Kooyong Green,No. 1,Lennox Carroll,Marco Damiani,Lennox Carroll,6-4 6-4,12,8,2,0,Completed,true,false,false
+UA003102,03 May 26,10,Mentone,Kooyong Green,No. 2,Tom Carroll,William Rugless,Tom Carroll,6-1 6-4,12,5,2,0,Completed,true,false,true
+UA003103,03 May 26,10,BLTC Blue,BLTC White,No. 1,Harry Bennett,Casper Stisen Billing,Harry Bennett,4-2,4,2,1,0,Completed,false,false,false
+UA003103,03 May 26,10,BLTC Blue,BLTC White,No. 2,Willem Duncan,Victor Lee,Victor Lee,1-4,1,4,0,1,Completed,false,true,false
+UA003111,10 May 26,11,Black Rock,Mentone,No. 1,Max Looschilder,Lennox Carroll,Lennox Carroll,1-6 1-6,2,12,0,2,Completed,true,false,false
+UA003111,10 May 26,11,Black Rock,Mentone,No. 2,Toby Leeds,Tom Carroll,Tom Carroll,3-6 2-6,5,12,0,2,Completed,true,true,false
+UA003112,10 May 26,11,BLTC Blue,Kooyong Green,No. 1,Harry Bennett,Marco Damiani,Harry Bennett,7-5 6-1,13,6,2,0,Completed,true,false,false
+UA003112,10 May 26,11,BLTC Blue,Kooyong Green,No. 2,Justin Xia,Jihoo Kim,Justin Xia,6-0 6-2,12,2,2,0,Completed,true,false,true
+UA003113,10 May 26,11,Kooyong Purple,BLTC White,No. 1,Phillip Brophy,Minato Sata,Minato Sata,7-5 2-6 6-7,15,18,1,2,Completed,true,false,false
+UA003113,10 May 26,11,Kooyong Purple,BLTC White,No. 2,Angus Collett,Victor Lee,Victor Lee,6-2 4-6 6-7,16,15,1,2,Completed,true,false,false
+UA003131,24 May 26,13,Black Rock,BLTC Blue,No. 1,Max Looschilder,Harry Bennett,Max Looschilder,6-2 6-1,12,3,2,0,Completed,true,false,false
+UA003131,24 May 26,13,Black Rock,BLTC Blue,No. 2,Lewis Smith,Justin Xia,Lewis Smith,6-3 6-1,12,4,2,0,Completed,true,true,false
+UA003132,24 May 26,13,Kooyong Purple,Mentone,No. 1,Angus Collett,Lennox Carroll,Lennox Carroll,3-6 0-6,3,12,0,2,Completed,true,false,false
+UA003132,24 May 26,13,Kooyong Purple,Mentone,No. 2,Liam Tesmer,Tom Carroll,Tom Carroll,5-7 3-6,8,13,0,2,Completed,true,false,false
+UA003133,24 May 26,13,BLTC White,Kooyong Green,No. 1,Minato Sata,Marco Damiani,Minato Sata,6-1 6-4,12,5,2,0,Completed,true,false,false
+UA003133,24 May 26,13,BLTC White,Kooyong Green,No. 2,Casper Stisen Billing,Nate O'Donoghue,Casper Stisen Billing,6-2 6-1,12,3,2,0,Completed,true,false,true
+UA003141,31 May 26,14,Kooyong Green,Black Rock,No. 1,Lachlan Tesmer,Max Looschilder,Max Looschilder,3-6 1-6,4,12,0,2,Completed,true,true,false
+UA003141,31 May 26,14,Kooyong Green,Black Rock,No. 2,[Unnamed player — TROLS UA003141 home code 2],Lewis Smith,Lewis Smith,0-6 0-6,0,12,0,2,Completed,false,false,true
+UA003142,31 May 26,14,Mentone,BLTC White,No. 1,Lennox Carroll,Minato Sata,Lennox Carroll,6-2 6-2,12,4,2,0,Completed,true,false,false
+UA003142,31 May 26,14,Mentone,BLTC White,No. 2,Tom Carroll,Victor Lee,Tom Carroll,6-0 6-1,12,1,2,0,Completed,true,false,false
+UA003143,31 May 26,14,BLTC Blue,Kooyong Purple,No. 1,Harry Bennett,Phillip Brophy,Phillip Brophy,6-0 4-6 6-7,16,13,1,2,Completed,true,false,false
+UA003143,31 May 26,14,BLTC Blue,Kooyong Purple,No. 2,Justin Xia,Angus Collett,Justin Xia,7-5 7-5,14,10,2,0,Completed,true,false,false
+UA003151,14 Jun 26,15,Black Rock,Kooyong Purple,No. 1,Max Looschilder,Phillip Brophy,Max Looschilder,6-0 6-4,12,4,2,0,Completed,true,false,false
+UA003151,14 Jun 26,15,Black Rock,Kooyong Purple,No. 2,Lewis Smith,Angus Collett,Lewis Smith,6-1 6-3,12,4,2,0,Completed,true,true,false
+UA003152,14 Jun 26,15,Kooyong Green,Mentone,No. 1,Lucas Wong,Tom Carroll,Tom Carroll,0-6 0-6,0,12,0,2,Completed,true,true,false
+UA003152,14 Jun 26,15,Kooyong Green,Mentone,No. 2,[Unnamed player — TROLS UA003152 home code 2],Lennox Carroll,Lennox Carroll,0-6 0-6,0,12,0,2,Completed,false,false,false
+UA003153,14 Jun 26,15,BLTC White,BLTC Blue,No. 1,Minato Sata,Harry Bennett,Minato Sata,7-6 6-3,13,9,2,0,Completed,true,false,false
+UA003153,14 Jun 26,15,BLTC White,BLTC Blue,No. 2,Victor Lee,Justin Xia,Victor Lee,6-2 7-6,13,8,2,0,Completed,true,false,false
+UA003321,,16,Black Rock,Mentone,No. 1,Max Looschilder,Lennox Carroll,Max Looschilder,7-5 6-3,13,8,2,0,Completed,true,false,false
+UA003321,,16,Black Rock,Mentone,No. 2,Lewis Smith,[Unnamed player — TROLS UA003321 away code 2],Lewis Smith,6-0 6-0,12,0,2,0,Completed,false,true,false

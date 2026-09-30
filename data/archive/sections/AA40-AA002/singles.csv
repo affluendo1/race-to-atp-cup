@@ -1,0 +1,57 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA002011,22 Jul 17,1,Carmelite 1,Carmelite 2,No. 1,Chloe Joubert,Lucas Katelis,Chloe Joubert,6-3,6,3,1,0,Completed,true,false,false
+AA002011,22 Jul 17,1,Carmelite 1,Carmelite 2,No. 2,Stella Heidenreich,Sidney McRaeDonovan,Stella Heidenreich,6-2,6,2,1,0,Completed,true,false,false
+AA002011,22 Jul 17,1,Carmelite 1,Carmelite 2,No. 3,Ava Lansell,Steve Orfanos,Steve Orfanos,3-6,3,6,0,1,Completed,true,false,false
+AA002011,22 Jul 17,1,Carmelite 1,Carmelite 2,No. 4,Olivia Schergold,Sebastian Dowling,Olivia Schergold,6-0,6,0,1,0,Completed,true,false,false
+AA002022,29 Jul 17,2,Carmelite 2,Port Melbourne,No. 1,Lucas Katelis,Thomas Keller,Lucas Katelis,6-2,6,2,1,0,Completed,true,false,false
+AA002022,29 Jul 17,2,Carmelite 2,Port Melbourne,No. 2,Sidney McRaeDonovan,Jacob Wilcoch,Sidney McRaeDonovan,6-0,6,0,1,0,Completed,true,false,false
+AA002022,29 Jul 17,2,Carmelite 2,Port Melbourne,No. 3,Steve Orfanos,Raf Cobain,Steve Orfanos,6-2,6,2,1,0,Completed,true,false,false
+AA002022,29 Jul 17,2,Carmelite 2,Port Melbourne,No. 4,Sebastian Dowling,Charlise Costa,Sebastian Dowling,6-2,6,2,1,0,Completed,true,false,false
+AA002033,05 Aug 17,3,Kooyong MLC 1,Carmelite 2,No. 1,Koroush Raissi,Cameron Richardson,Cameron Richardson,2-6,2,6,0,1,Completed,true,false,false
+AA002033,05 Aug 17,3,Kooyong MLC 1,Carmelite 2,No. 2,Richard Jones,Lucas Katelis,Lucas Katelis,1-6,1,6,0,1,Completed,true,false,false
+AA002033,05 Aug 17,3,Kooyong MLC 1,Carmelite 2,No. 3,Hamish Wright,Sidney McRaeDonovan,Sidney McRaeDonovan,4-6,4,6,0,1,Completed,true,false,false
+AA002033,05 Aug 17,3,Kooyong MLC 1,Carmelite 2,No. 4,Charles Baillie,Sebastian Dowling,Sebastian Dowling,3-6,3,6,0,1,Completed,true,false,false
+AA002054,19 Aug 17,5,Carmelite 1,Port Melbourne,No. 1,Chloe Joubert,Thomas Keller,Chloe Joubert,6-1,6,1,1,0,Completed,true,false,false
+AA002054,19 Aug 17,5,Carmelite 1,Port Melbourne,No. 2,Anouk Heidenreich,Raf Cobain,Anouk Heidenreich,6-0,6,0,1,0,Completed,true,false,false
+AA002054,19 Aug 17,5,Carmelite 1,Port Melbourne,No. 3,Isabella Hornor,Charlise Costa,Isabella Hornor,6-0,6,0,1,0,Completed,true,false,false
+AA002054,19 Aug 17,5,Carmelite 1,Port Melbourne,No. 4,Ava Lansell,Angelique Kotzatiuzidis,Ava Lansell,6-1,6,1,1,0,Completed,true,false,false
+AA002061,26 Aug 17,6,Port Melbourne,Kooyong MLC 1,No. 1,Jacob Wilcoch,Koroush Raissi,Koroush Raissi,2-6,2,6,0,1,Completed,true,false,false
+AA002061,26 Aug 17,6,Port Melbourne,Kooyong MLC 1,No. 2,Raf Cobain,Angus Charles,Angus Charles,0-6,0,6,0,1,Completed,true,false,false
+AA002061,26 Aug 17,6,Port Melbourne,Kooyong MLC 1,No. 3,Charlise Costa,Richard Jones,Richard Jones,2-6,2,6,0,1,Completed,true,false,false
+AA002061,26 Aug 17,6,Port Melbourne,Kooyong MLC 1,No. 4,Angelique Kotzatiuzidis,Charles Baillie,Charles Baillie,2-6,2,6,0,1,Completed,true,false,false
+AA002071,02 Sep 17,7,Carmelite 1,Kooyong MLC 1,No. 1,Chloe Joubert,Koroush Raissi,Chloe Joubert,6-1,6,1,1,0,Completed,true,false,false
+AA002071,02 Sep 17,7,Carmelite 1,Kooyong MLC 1,No. 2,Stella Heidenreich,Angus Charles,Stella Heidenreich,6-0,6,0,1,0,Completed,true,false,false
+AA002071,02 Sep 17,7,Carmelite 1,Kooyong MLC 1,No. 3,Ava Lansell,Richard Jones,Richard Jones,3-6,3,6,0,1,Completed,true,false,false
+AA002071,02 Sep 17,7,Carmelite 1,Kooyong MLC 1,No. 4,Olivia Schergold,Hamish Wright,Olivia Schergold,6-2,6,2,1,0,Completed,true,false,false
+AA002081,09 Sep 17,8,Carmelite 2,Carmelite 1,No. 1,Lucas Katelis,Stella Heidenreich,Stella Heidenreich,6-7,6,7,0,1,Completed,true,false,false
+AA002081,09 Sep 17,8,Carmelite 2,Carmelite 1,No. 2,Sidney McRaeDonovan,Anouk Heidenreich,Anouk Heidenreich,2-6,2,6,0,1,Completed,true,false,false
+AA002081,09 Sep 17,8,Carmelite 2,Carmelite 1,No. 3,Arley Wilson,Isabella Hornor,Isabella Hornor,0-6,0,6,0,1,Completed,true,false,false
+AA002081,09 Sep 17,8,Carmelite 2,Carmelite 1,No. 4,Steve Orfanos,Olivia Schergold,Olivia Schergold,0-6,0,6,0,1,Completed,true,false,false
+AA002092,16 Sep 17,9,Port Melbourne,Carmelite 2,No. 1,Thomas Keller,Cameron Richardson,Cameron Richardson,2-6,2,6,0,1,Completed,true,false,false
+AA002092,16 Sep 17,9,Port Melbourne,Carmelite 2,No. 2,Jacob Wilcoch,Lucas Katelis,Lucas Katelis,1-6,1,6,0,1,Completed,true,false,false
+AA002092,16 Sep 17,9,Port Melbourne,Carmelite 2,No. 3,Raf Cobain,Sidney McRaeDonovan,Sidney McRaeDonovan,3-6,3,6,0,1,Completed,true,false,false
+AA002092,16 Sep 17,9,Port Melbourne,Carmelite 2,No. 4,Angelique Kotzatiuzidis,Steve Orfanos,Steve Orfanos,2-6,2,6,0,1,Completed,true,false,false
+AA002103,14 Oct 17,10,Carmelite 2,Kooyong MLC 1,No. 1,Lucas Katelis,Angus Charles,Lucas Katelis,6-1,6,1,1,0,Completed,true,false,false
+AA002103,14 Oct 17,10,Carmelite 2,Kooyong MLC 1,No. 2,Sidney McRaeDonovan,Richard Jones,Sidney McRaeDonovan,6-3,6,3,1,0,Completed,true,false,false
+AA002103,14 Oct 17,10,Carmelite 2,Kooyong MLC 1,No. 3,Arley Wilson,Charles Baillie,Charles Baillie,4-6,4,6,0,1,Completed,true,false,false
+AA002103,14 Oct 17,10,Carmelite 2,Kooyong MLC 1,No. 4,Steve Orfanos,Tom Baillie,Steve Orfanos,6-1,6,1,1,0,Completed,true,false,false
+AA002124,28 Oct 17,12,Port Melbourne,Carmelite 1,No. 1,Jacob Wilcoch,Claudia Emergency,Claudia Emergency,0-6,0,6,0,1,Completed,true,false,false
+AA002124,28 Oct 17,12,Port Melbourne,Carmelite 1,No. 2,Raf Cobain,Abby Ralph,Abby Ralph,0-6,0,6,0,1,Completed,true,false,false
+AA002124,28 Oct 17,12,Port Melbourne,Carmelite 1,No. 3,Charlise Costa,Isabella Hornor,Isabella Hornor,4-6,4,6,0,1,Completed,true,false,false
+AA002124,28 Oct 17,12,Port Melbourne,Carmelite 1,No. 4,Angelique Kotzatiuzidis,Skye Emergency,Skye Emergency,0-6,0,6,0,1,Completed,true,false,false
+AA002131,11 Nov 17,13,Kooyong MLC 1,Port Melbourne,No. 1,Koroush Raissi,Jacob Bubnic,Koroush Raissi,6-4,6,4,1,0,Completed,true,false,false
+AA002131,11 Nov 17,13,Kooyong MLC 1,Port Melbourne,No. 2,Angus Charles,Raf Cobain,Angus Charles,6-3,6,3,1,0,Completed,true,false,false
+AA002131,11 Nov 17,13,Kooyong MLC 1,Port Melbourne,No. 3,Richard Jones,Charlise Costa,Richard Jones,6-1,6,1,1,0,Completed,true,false,false
+AA002131,11 Nov 17,13,Kooyong MLC 1,Port Melbourne,No. 4,Hamish Wright,Angelique Kotzatiuzidis,Hamish Wright,6-3,6,3,1,0,Completed,true,false,false
+AA002141,18 Nov 17,14,Kooyong MLC 1,Carmelite 1,No. 1,Koroush Raissi,Chloe Joubert,Koroush Raissi,6-2,6,2,1,0,Completed,true,false,false
+AA002141,18 Nov 17,14,Kooyong MLC 1,Carmelite 1,No. 2,Angus Charles,Stella Heidenreich,Stella Heidenreich,6-7,6,7,0,1,Completed,true,false,false
+AA002141,18 Nov 17,14,Kooyong MLC 1,Carmelite 1,No. 3,Richard Jones,Anouk Heidenreich,Anouk Heidenreich,0-6,0,6,0,1,Completed,true,false,false
+AA002141,18 Nov 17,14,Kooyong MLC 1,Carmelite 1,No. 4,Charles Baillie,Olivia Schergold,Olivia Schergold,3-6,3,6,0,1,Completed,true,false,false
+AA002301,,16,Carmelite 1,Kooyong MLC 1,No. 1,Chloe Joubert,Koroush Raissi,Chloe Joubert,6-4,6,4,1,0,Completed,true,false,false
+AA002301,,16,Carmelite 1,Kooyong MLC 1,No. 2,Stella Heidenreich,Richard Jones,Stella Heidenreich,6-1,6,1,1,0,Completed,true,false,false
+AA002301,,16,Carmelite 1,Kooyong MLC 1,No. 3,Anouk Heidenreich,Hamish Wright,Anouk Heidenreich,6-0,6,0,1,0,Completed,true,false,false
+AA002301,,16,Carmelite 1,Kooyong MLC 1,No. 4,Ava Lansell,Tom Baillie,Ava Lansell,6-0,6,0,1,0,Completed,true,false,true
+AA002321,,17,Carmelite 1,Carmelite 2,No. 1,Chloe Joubert,Cameron Richardson,Cameron Richardson,3-6,3,6,0,1,Completed,true,false,false
+AA002321,,17,Carmelite 1,Carmelite 2,No. 2,Stella Heidenreich,Lucas Katelis,Stella Heidenreich,6-2,6,2,1,0,Completed,true,false,true
+AA002321,,17,Carmelite 1,Carmelite 2,No. 3,Anouk Heidenreich,Sidney McRaeDonovan,Anouk Heidenreich,6-1,6,1,1,0,Completed,true,false,false
+AA002321,,17,Carmelite 1,Carmelite 2,No. 4,Skye Emergency,Arley Wilson,Skye Emergency,6-2,6,2,1,0,Completed,true,true,false

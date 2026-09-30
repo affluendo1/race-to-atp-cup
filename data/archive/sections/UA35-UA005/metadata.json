@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA35-UA005",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2024",
+  "season_id": "UA35",
+  "season_label": "Spring 2024",
+  "source_section_code": "UA005",
+  "section_label": "Section 5",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Pats Mentone",
+      "wins": 10,
+      "points": 96,
+      "percentage": 157.89,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Mentone",
+      "wins": 7,
+      "points": 75,
+      "percentage": 127.03,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Highett",
+      "wins": 6,
+      "points": 69,
+      "percentage": 121.68,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 6,
+      "points": 58,
+      "percentage": 98.28,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 5,
+      "points": 55,
+      "percentage": 86.6,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Le Page",
+      "wins": 2,
+      "points": 35,
+      "percentage": 72.54,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra",
+      "wins": 2,
+      "points": 32,
+      "percentage": 59.23,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA35-UA005",
+  "fixtures": 59,
+  "completed_fixtures": 41,
+  "draw_fixtures": 59,
+  "singles_rubbers": 164,
+  "doubles_rubbers": 82,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

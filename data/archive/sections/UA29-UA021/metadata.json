@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA29-UA021",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2021",
+  "season_id": "UA29",
+  "season_label": "Spring 2021",
+  "source_section_code": "UA021",
+  "section_label": "Section 21",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Victory Park",
+      "wins": 7,
+      "points": 96,
+      "percentage": 189.34,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Lauriston",
+      "wins": 6,
+      "points": 86,
+      "percentage": 137.8,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "BLTC",
+      "wins": 5,
+      "points": 84,
+      "percentage": 147.3,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Murrumbeena LA",
+      "wins": 3,
+      "points": 66,
+      "percentage": 82.55,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St Pats Mentone",
+      "wins": 3,
+      "points": 62,
+      "percentage": 91.02,
+      "marker": "*"
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave No.2",
+      "wins": 2,
+      "points": 61,
+      "percentage": 89.47,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 1,
+      "points": 55,
+      "percentage": 85.8,
+      "marker": "*"
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave No.1",
+      "wins": 0,
+      "points": 40,
+      "percentage": 38.82,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA29-UA021",
+  "fixtures": 56,
+  "completed_fixtures": 27,
+  "draw_fixtures": 56,
+  "singles_rubbers": 108,
+  "doubles_rubbers": 54,
+  "latest_round": 14,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

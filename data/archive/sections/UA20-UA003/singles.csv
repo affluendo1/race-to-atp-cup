@@ -1,0 +1,229 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA003011,05 Feb 17,1,Royal Ave,Parkdale,No. 1,Archie Antonopoulos,Luke Shi,Luke Shi,1-6,1,6,0,1,Completed,true,false,false
+UA003011,05 Feb 17,1,Royal Ave,Parkdale,No. 2,Josh Chu,James Comben,Josh Chu,6-4,6,4,1,0,Completed,true,false,false
+UA003011,05 Feb 17,1,Royal Ave,Parkdale,No. 3,Sam Haddon,Jeremy Gonis,Jeremy Gonis,2-6,2,6,0,1,Completed,true,false,false
+UA003011,05 Feb 17,1,Royal Ave,Parkdale,No. 4,Dennis Gu,Matthew Nibbs,Dennis Gu,6-4,6,4,1,0,Completed,true,false,false
+UA003012,05 Feb 17,1,Royal South Yarra,Dendy Park,No. 1,Oscar Lynagh,Sean Howey,Oscar Lynagh,6-1,6,1,1,0,Completed,true,false,false
+UA003012,05 Feb 17,1,Royal South Yarra,Dendy Park,No. 2,Sam McLean,Cooper Gibbs,Cooper Gibbs,2-6,2,6,0,1,Completed,true,false,false
+UA003012,05 Feb 17,1,Royal South Yarra,Dendy Park,No. 3,Harry R Cooper,Matt Bates,Matt Bates,0-6,0,6,0,1,Completed,true,false,false
+UA003012,05 Feb 17,1,Royal South Yarra,Dendy Park,No. 4,Bill Cameron,Max Cuddon,Max Cuddon,0-6,0,6,0,1,Completed,true,false,false
+UA003013,05 Feb 17,1,BLTC 1,BLTC 2,No. 1,Maddie French,Tom Shepherd,Tom Shepherd,3-6,3,6,0,1,Completed,true,false,false
+UA003013,05 Feb 17,1,BLTC 1,BLTC 2,No. 2,Seb Zahra,Bailey McLean,Bailey McLean,1-6,1,6,0,1,Completed,true,false,false
+UA003013,05 Feb 17,1,BLTC 1,BLTC 2,No. 3,Issy Parker,Adam Halliday,Adam Halliday,0-6,0,6,0,1,Completed,true,false,false
+UA003013,05 Feb 17,1,BLTC 1,BLTC 2,No. 4,Sienna Stretton,Matthew Doyle,Matthew Doyle,1-6,1,6,0,1,Completed,true,false,false
+UA003014,05 Feb 17,1,Coatesville,BLTC 3,No. 1,Bayden Hill,Ben Gerresheim,Bayden Hill,6-1,6,1,1,0,Completed,true,false,false
+UA003014,05 Feb 17,1,Coatesville,BLTC 3,No. 2,Adrian Mitsel,Noah Alvarenga,Noah Alvarenga,6-7,6,7,0,1,Completed,true,false,false
+UA003014,05 Feb 17,1,Coatesville,BLTC 3,No. 3,Thomas So,Ebony Anderson,Thomas So,6-2,6,2,1,0,Completed,true,false,false
+UA003014,05 Feb 17,1,Coatesville,BLTC 3,No. 4,Luigi Cortez,Meitta Brodie-Arter,Meitta Brodie-Arter,6-7,6,7,0,1,Completed,true,false,false
+UA003021,12 Feb 17,2,BLTC 3,Royal Ave,No. 1,Ben Gerresheim,Jarrad Ellis,Ben Gerresheim,6-3,6,3,1,0,Completed,true,false,false
+UA003021,12 Feb 17,2,BLTC 3,Royal Ave,No. 2,Noah Alvarenga,Archie Antonopoulos,Archie Antonopoulos,1-6,1,6,0,1,Completed,true,false,false
+UA003021,12 Feb 17,2,BLTC 3,Royal Ave,No. 3,Ebony Anderson,Josh Chu,Josh Chu,4-6,4,6,0,1,Completed,true,false,false
+UA003021,12 Feb 17,2,BLTC 3,Royal Ave,No. 4,Jacqueline Dickinson,Sam Haddon,Jacqueline Dickinson,6-2,6,2,1,0,Completed,true,false,false
+UA003022,12 Feb 17,2,Parkdale,Royal South Yarra,No. 1,Luke Shi,Sam McLean,Luke Shi,6-2,6,2,1,0,Completed,true,false,false
+UA003022,12 Feb 17,2,Parkdale,Royal South Yarra,No. 2,James Comben,Bill Cameron,Bill Cameron,4-6,4,6,0,1,Completed,true,false,false
+UA003022,12 Feb 17,2,Parkdale,Royal South Yarra,No. 3,Jeremy Gonis,Harry R Cooper,Jeremy Gonis,6-2,6,2,1,0,Completed,true,false,false
+UA003022,12 Feb 17,2,Parkdale,Royal South Yarra,No. 4,Keirath Singh,Tom Ritter,Keirath Singh,6-3,6,3,1,0,Completed,true,false,false
+UA003023,12 Feb 17,2,Dendy Park,BLTC 1,No. 1,Sean Howey,Shinya Imazawa,Sean Howey,6-2,6,2,1,0,Completed,true,false,false
+UA003023,12 Feb 17,2,Dendy Park,BLTC 1,No. 2,Chris Alevizos,Seb Zahra,Chris Alevizos,6-0,6,0,1,0,Completed,true,false,false
+UA003023,12 Feb 17,2,Dendy Park,BLTC 1,No. 3,Max Cuddon,Issy Parker,Max Cuddon,6-0,6,0,1,0,Completed,true,false,false
+UA003023,12 Feb 17,2,Dendy Park,BLTC 1,No. 4,Lachie Tindall,Sienna Stretton,Lachie Tindall,6-1,6,1,1,0,Completed,true,false,false
+UA003024,12 Feb 17,2,BLTC 2,Coatesville,No. 1,Tom Shepherd,Bayden Hill,Tom Shepherd,6-4,6,4,1,0,Completed,true,false,false
+UA003024,12 Feb 17,2,BLTC 2,Coatesville,No. 2,Bailey McLean,Nathan Grooby,Bailey McLean,6-4,6,4,1,0,Completed,true,false,false
+UA003024,12 Feb 17,2,BLTC 2,Coatesville,No. 3,Adam Halliday,Thomas So,Adam Halliday,6-0,6,0,1,0,Completed,true,false,false
+UA003024,12 Feb 17,2,BLTC 2,Coatesville,No. 4,Matthew Doyle,Luigi Cortez,Matthew Doyle,6-1,6,1,1,0,Completed,true,false,false
+UA003031,19 Feb 17,3,Royal Ave,BLTC 2,No. 1,Jarrad Ellis,Tom Shepherd,Tom Shepherd,2-6,2,6,0,1,Completed,true,false,false
+UA003031,19 Feb 17,3,Royal Ave,BLTC 2,No. 2,Archie Antonopoulos,Bailey McLean,Bailey McLean,5-7,5,7,0,1,Completed,true,false,false
+UA003031,19 Feb 17,3,Royal Ave,BLTC 2,No. 3,Josh Chu,Chris Green,Chris Green,1-6,1,6,0,1,Completed,true,false,false
+UA003031,19 Feb 17,3,Royal Ave,BLTC 2,No. 4,Sam Haddon,Matthew Doyle,Matthew Doyle,1-6,1,6,0,1,Completed,true,false,false
+UA003032,19 Feb 17,3,Royal South Yarra,BLTC 3,No. 1,Oscar Lynagh,Ben Gerresheim,Oscar Lynagh,6-2,6,2,1,0,Completed,true,false,false
+UA003032,19 Feb 17,3,Royal South Yarra,BLTC 3,No. 2,Sam McLean,Noah Alvarenga,Sam McLean,6-0,6,0,1,0,Completed,true,false,false
+UA003032,19 Feb 17,3,Royal South Yarra,BLTC 3,No. 3,Bill Cameron,Meitta Brodie-Arter,Bill Cameron,6-0,6,0,1,0,Completed,true,false,false
+UA003032,19 Feb 17,3,Royal South Yarra,BLTC 3,No. 4,Lachlan Francis,Jacqueline Dickinson,Jacqueline Dickinson,2-6,2,6,0,1,Completed,true,false,false
+UA003033,19 Feb 17,3,BLTC 1,Parkdale,No. 1,Maddie French,Luke Shi,Luke Shi,3-6,3,6,0,1,Completed,true,false,false
+UA003033,19 Feb 17,3,BLTC 1,Parkdale,No. 2,Shinya Imazawa,James Comben,Shinya Imazawa,6-0,6,0,1,0,Completed,true,false,false
+UA003033,19 Feb 17,3,BLTC 1,Parkdale,No. 3,Seb Zahra,Jeremy Gonis,Jeremy Gonis,6-7,6,7,0,1,Completed,true,false,false
+UA003033,19 Feb 17,3,BLTC 1,Parkdale,No. 4,Sienna Stretton,Matthew Nibbs,Sienna Stretton,6-1,6,1,1,0,Completed,true,false,false
+UA003041,26 Feb 17,4,Dendy Park,Royal Ave,No. 1,Sean Howey,Jarrad Ellis,Jarrad Ellis,3-6,3,6,0,1,Completed,true,false,false
+UA003041,26 Feb 17,4,Dendy Park,Royal Ave,No. 2,Cooper Gibbs,Archie Antonopoulos,Cooper Gibbs,6-0,6,0,1,0,Completed,true,false,false
+UA003041,26 Feb 17,4,Dendy Park,Royal Ave,No. 3,Matt Bates,Sam Haddon,Matt Bates,6-0,6,0,1,0,Completed,true,false,false
+UA003041,26 Feb 17,4,Dendy Park,Royal Ave,No. 4,Max Cuddon,Dennis Gu,Max Cuddon,6-3,6,3,1,0,Completed,true,false,false
+UA003042,26 Feb 17,4,BLTC 2,Royal South Yarra,No. 1,Tom Shepherd,Sam McLean,Sam McLean,4-6,4,6,0,1,Completed,true,false,false
+UA003042,26 Feb 17,4,BLTC 2,Royal South Yarra,No. 2,Bailey McLean,Tom Ritter,Bailey McLean,7-5,7,5,1,0,Completed,true,false,false
+UA003042,26 Feb 17,4,BLTC 2,Royal South Yarra,No. 3,Adam Halliday,Lachlan Francis,Adam Halliday,6-1,6,1,1,0,Completed,true,false,false
+UA003042,26 Feb 17,4,BLTC 2,Royal South Yarra,No. 4,Chris Green,Lucy Ollerenshaw,Chris Green,6-1,6,1,1,0,Completed,true,false,false
+UA003043,26 Feb 17,4,BLTC 3,BLTC 1,No. 1,Ben Gerresheim,Maddie French,Maddie French,4-6,4,6,0,1,Completed,true,false,false
+UA003043,26 Feb 17,4,BLTC 3,BLTC 1,No. 2,Ebony Anderson,Shinya Imazawa,Shinya Imazawa,0-6,0,6,0,1,Completed,true,false,false
+UA003043,26 Feb 17,4,BLTC 3,BLTC 1,No. 3,Meitta Brodie-Arter,Seb Zahra,Seb Zahra,6-7,6,7,0,1,Completed,true,false,false
+UA003043,26 Feb 17,4,BLTC 3,BLTC 1,No. 4,Jacqueline Dickinson,Issy Parker,Jacqueline Dickinson,6-3,6,3,1,0,Completed,true,false,false
+UA003044,26 Feb 17,4,Parkdale,Coatesville,No. 1,James Comben,Bayden Hill,Bayden Hill,1-6,1,6,0,1,Completed,true,false,false
+UA003044,26 Feb 17,4,Parkdale,Coatesville,No. 2,Jeremy Gonis,Adrian Mitsel,Jeremy Gonis,6-3,6,3,1,0,Completed,true,false,false
+UA003044,26 Feb 17,4,Parkdale,Coatesville,No. 3,Josh Nibbs,Thomas So,Thomas So,1-6,1,6,0,1,Completed,true,false,false
+UA003044,26 Feb 17,4,Parkdale,Coatesville,No. 4,Matthew Nibbs,Luigi Cortez,Luigi Cortez,1-6,1,6,0,1,Completed,true,false,false
+UA003051,05 Mar 17,5,BLTC 1,Coatesville,No. 1,Maddie French,Bayden Hill,Bayden Hill,3-6,3,6,0,1,Completed,true,false,false
+UA003051,05 Mar 17,5,BLTC 1,Coatesville,No. 2,Shinya Imazawa,Adrian Mitsel,Adrian Mitsel,2-6,2,6,0,1,Completed,true,false,false
+UA003051,05 Mar 17,5,BLTC 1,Coatesville,No. 3,Seb Zahra,Thomas So,Thomas So,2-6,2,6,0,1,Completed,true,false,false
+UA003051,05 Mar 17,5,BLTC 1,Coatesville,No. 4,Issy Parker,Luigi Cortez,Luigi Cortez,1-6,1,6,0,1,Completed,true,false,false
+UA003052,05 Mar 17,5,BLTC 3,BLTC 2,No. 1,Noah Alvarenga,Tom Shepherd,Tom Shepherd,0-6,0,6,0,1,Completed,true,false,false
+UA003052,05 Mar 17,5,BLTC 3,BLTC 2,No. 2,Ebony Anderson,Bailey McLean,Ebony Anderson,7-5,7,5,1,0,Completed,true,false,false
+UA003052,05 Mar 17,5,BLTC 3,BLTC 2,No. 3,Meitta Brodie-Arter,Chris Green,Meitta Brodie-Arter,6-4,6,4,1,0,Completed,true,false,false
+UA003052,05 Mar 17,5,BLTC 3,BLTC 2,No. 4,Jacqueline Dickinson,Matthew Doyle,Matthew Doyle,3-6,3,6,0,1,Completed,true,false,false
+UA003053,05 Mar 17,5,Dendy Park,Parkdale,No. 1,Sean Howey,Luke Shi,Luke Shi,3-6,3,6,0,1,Completed,true,false,false
+UA003053,05 Mar 17,5,Dendy Park,Parkdale,No. 2,Chris Alevizos,Jeremy Gonis,Chris Alevizos,6-2,6,2,1,0,Completed,true,false,false
+UA003053,05 Mar 17,5,Dendy Park,Parkdale,No. 3,Max Cuddon,Josh Nibbs,Max Cuddon,7-5,7,5,1,0,Completed,true,false,false
+UA003053,05 Mar 17,5,Dendy Park,Parkdale,No. 4,Lachie Tindall,Keirath Singh,Lachie Tindall,6-2,6,2,1,0,Completed,true,false,false
+UA003054,05 Mar 17,5,Royal Ave,Royal South Yarra,No. 1,Jarrad Ellis,Oscar Lynagh,Jarrad Ellis,6-4,6,4,1,0,Completed,true,false,false
+UA003054,05 Mar 17,5,Royal Ave,Royal South Yarra,No. 2,Josh Chu,Bill Cameron,Josh Chu,6-2,6,2,1,0,Completed,true,false,false
+UA003054,05 Mar 17,5,Royal Ave,Royal South Yarra,No. 3,Sam Haddon,Harry R Cooper,Sam Haddon,7-5,7,5,1,0,Completed,true,false,false
+UA003054,05 Mar 17,5,Royal Ave,Royal South Yarra,No. 4,Dennis Gu,Tom Ritter,Tom Ritter,3-6,3,6,0,1,Completed,true,false,false
+UA003061,19 Mar 17,6,Royal South Yarra,BLTC 1,No. 1,Sam McLean,Shinya Imazawa,Shinya Imazawa,2-6,2,6,0,1,Completed,true,false,false
+UA003061,19 Mar 17,6,Royal South Yarra,BLTC 1,No. 2,Harry R Cooper,Seb Zahra,Harry R Cooper,6-2,6,2,1,0,Completed,true,false,false
+UA003061,19 Mar 17,6,Royal South Yarra,BLTC 1,No. 3,Tom Ritter,Issy Parker,Tom Ritter,6-1,6,1,1,0,Completed,true,false,false
+UA003061,19 Mar 17,6,Royal South Yarra,BLTC 1,No. 4,Sinclair Mosley,Charlie Anderson,Charlie Anderson,2-6,2,6,0,1,Completed,true,false,false
+UA003062,19 Mar 17,6,Coatesville,Royal Ave,No. 1,Adrian Mitsel,Archie Antonopoulos,Adrian Mitsel,6-1,6,1,1,0,Completed,true,false,false
+UA003062,19 Mar 17,6,Coatesville,Royal Ave,No. 2,Thomas So,Josh Chu,Thomas So,6-4,6,4,1,0,Completed,true,false,false
+UA003062,19 Mar 17,6,Coatesville,Royal Ave,No. 3,Luigi Cortez,Dennis Gu,Dennis Gu,4-6,4,6,0,1,Completed,true,false,false
+UA003062,19 Mar 17,6,Coatesville,Royal Ave,No. 4,Brock Augustynski,Riley Mollar,Riley Mollar,6-7,6,7,0,1,Completed,true,false,false
+UA003063,19 Mar 17,6,BLTC 2,Dendy Park,No. 1,Tom Shepherd,Sean Howey,Tom Shepherd,6-0,6,0,1,0,Completed,true,false,false
+UA003063,19 Mar 17,6,BLTC 2,Dendy Park,No. 2,Adam Halliday,Cooper Gibbs,Cooper Gibbs,0-6,0,6,0,1,Completed,true,false,false
+UA003063,19 Mar 17,6,BLTC 2,Dendy Park,No. 3,Chris Green,Matt Bates,Matt Bates,0-6,0,6,0,1,Completed,true,false,false
+UA003063,19 Mar 17,6,BLTC 2,Dendy Park,No. 4,Matthew Doyle,Chris Alevizos,Chris Alevizos,1-6,1,6,0,1,Completed,true,false,false
+UA003064,19 Mar 17,6,Parkdale,BLTC 3,No. 1,James Comben,Ben Gerresheim,James Comben,7-6,7,6,1,0,Completed,true,false,false
+UA003064,19 Mar 17,6,Parkdale,BLTC 3,No. 2,Jeremy Gonis,Noah Alvarenga,Jeremy Gonis,6-4,6,4,1,0,Completed,true,false,false
+UA003064,19 Mar 17,6,Parkdale,BLTC 3,No. 3,Josh Nibbs,Ebony Anderson,Ebony Anderson,2-6,2,6,0,1,Completed,true,false,false
+UA003064,19 Mar 17,6,Parkdale,BLTC 3,No. 4,Matthew Nibbs,Meitta Brodie-Arter,Meitta Brodie-Arter,3-6,3,6,0,1,Completed,true,false,false
+UA003071,26 Mar 17,7,Royal Ave,BLTC 1,No. 1,Jarrad Ellis,Maddie French,Maddie French,4-6,4,6,0,1,Completed,true,false,false
+UA003071,26 Mar 17,7,Royal Ave,BLTC 1,No. 2,Sam Haddon,Shinya Imazawa,Shinya Imazawa,1-6,1,6,0,1,Completed,true,false,false
+UA003071,26 Mar 17,7,Royal Ave,BLTC 1,No. 3,Dennis Gu,Issy Parker,Dennis Gu,6-1,6,1,1,0,Completed,true,false,false
+UA003071,26 Mar 17,7,Royal Ave,BLTC 1,No. 4,Riley Mollar,Sienna Stretton,Riley Mollar,6-1,6,1,1,0,Completed,true,false,false
+UA003072,26 Mar 17,7,Royal South Yarra,Coatesville,No. 1,Oscar Lynagh,Adrian Mitsel,Oscar Lynagh,6-4,6,4,1,0,Completed,true,false,false
+UA003072,26 Mar 17,7,Royal South Yarra,Coatesville,No. 2,Hamish Francis,Thomas So,Hamish Francis,6-4,6,4,1,0,Completed,true,false,false
+UA003072,26 Mar 17,7,Royal South Yarra,Coatesville,No. 3,Tom Ritter,Luigi Cortez,Tom Ritter,7-6,7,6,1,0,Completed,true,false,false
+UA003072,26 Mar 17,7,Royal South Yarra,Coatesville,No. 4,Sinclair Mosley,Ben Traynes,Sinclair Mosley,6-1,6,1,1,0,Completed,true,false,false
+UA003073,26 Mar 17,7,BLTC 3,Dendy Park,No. 1,Ben Gerresheim,Cooper Gibbs,Cooper Gibbs,1-6,1,6,0,1,Completed,true,false,false
+UA003073,26 Mar 17,7,BLTC 3,Dendy Park,No. 2,Noah Alvarenga,Chris Alevizos,Chris Alevizos,3-6,3,6,0,1,Completed,true,false,false
+UA003073,26 Mar 17,7,BLTC 3,Dendy Park,No. 3,Ebony Anderson,Max Cuddon,Max Cuddon,1-6,1,6,0,1,Completed,true,false,false
+UA003073,26 Mar 17,7,BLTC 3,Dendy Park,No. 4,Jacqueline Dickinson,Lachie Tindall,Lachie Tindall,6-7,6,7,0,1,Completed,true,false,false
+UA003074,26 Mar 17,7,BLTC 2,Parkdale,No. 1,Tom Shepherd,Luke Shi,Tom Shepherd,6-0,6,0,1,0,Completed,true,false,false
+UA003074,26 Mar 17,7,BLTC 2,Parkdale,No. 2,Bailey McLean,James Comben,James Comben,4-6,4,6,0,1,Completed,true,false,false
+UA003074,26 Mar 17,7,BLTC 2,Parkdale,No. 3,Adam Halliday,Josh Nibbs,Adam Halliday,6-1,6,1,1,0,Completed,true,false,false
+UA003074,26 Mar 17,7,BLTC 2,Parkdale,No. 4,Chris Green,Matthew Nibbs,Chris Green,6-3,6,3,1,0,Completed,true,false,false
+UA003081,23 Apr 17,8,Parkdale,Royal Ave,No. 1,Luke Shi,Jarrad Ellis,Jarrad Ellis,6-7,6,7,0,1,Completed,true,false,false
+UA003081,23 Apr 17,8,Parkdale,Royal Ave,No. 2,Jeremy Gonis,Josh Chu,Jeremy Gonis,6-3,6,3,1,0,Completed,true,false,false
+UA003081,23 Apr 17,8,Parkdale,Royal Ave,No. 3,Josh Nibbs,Dennis Gu,Dennis Gu,6-7,6,7,0,1,Completed,true,false,false
+UA003081,23 Apr 17,8,Parkdale,Royal Ave,No. 4,Matthew Nibbs,Riley Mollar,Matthew Nibbs,6-1,6,1,1,0,Completed,true,false,false
+UA003082,23 Apr 17,8,Dendy Park,Royal South Yarra,No. 1,Sean Howey,Sam McLean,Sam McLean,4-6,4,6,0,1,Completed,true,false,false
+UA003082,23 Apr 17,8,Dendy Park,Royal South Yarra,No. 2,Chris Alevizos,Harry R Cooper,Chris Alevizos,6-0,6,0,1,0,Completed,true,false,false
+UA003082,23 Apr 17,8,Dendy Park,Royal South Yarra,No. 3,Max Cuddon,Tom Ritter,Tom Ritter,3-6,3,6,0,1,Completed,true,false,false
+UA003082,23 Apr 17,8,Dendy Park,Royal South Yarra,No. 4,Lachie Tindall,Sinclair Mosley,Lachie Tindall,6-0,6,0,1,0,Completed,true,false,false
+UA003083,23 Apr 17,8,BLTC 2,BLTC 1,No. 1,Tom Shepherd,Maddie French,Tom Shepherd,7-6,7,6,1,0,Completed,true,false,false
+UA003083,23 Apr 17,8,BLTC 2,BLTC 1,No. 2,Adam Halliday,Shinya Imazawa,Adam Halliday,6-4,6,4,1,0,Completed,true,false,false
+UA003083,23 Apr 17,8,BLTC 2,BLTC 1,No. 3,Chris Green,Seb Zahra,Chris Green,6-0,6,0,1,0,Completed,true,false,false
+UA003083,23 Apr 17,8,BLTC 2,BLTC 1,No. 4,Matthew Doyle,Issy Parker,Matthew Doyle,6-1,6,1,1,0,Completed,true,false,false
+UA003084,23 Apr 17,8,BLTC 3,Coatesville,No. 1,Ben Gerresheim,Adrian Mitsel,Ben Gerresheim,6-3,6,3,1,0,Completed,true,false,false
+UA003084,23 Apr 17,8,BLTC 3,Coatesville,No. 2,Noah Alvarenga,Luigi Cortez,Noah Alvarenga,6-4,6,4,1,0,Completed,true,false,false
+UA003084,23 Apr 17,8,BLTC 3,Coatesville,No. 3,Meitta Brodie-Arter,Ben Traynes,Ben Traynes,4-6,4,6,0,1,Completed,true,false,false
+UA003084,23 Apr 17,8,BLTC 3,Coatesville,No. 4,Jacqueline Dickinson,Christian Lacantro,Christian Lacantro,4-6,4,6,0,1,Completed,true,false,false
+UA003091,30 Apr 17,9,Royal Ave,BLTC 3,No. 1,Archie Antonopoulos,Ben Gerresheim,Archie Antonopoulos,6-4,6,4,1,0,Completed,true,false,false
+UA003091,30 Apr 17,9,Royal Ave,BLTC 3,No. 2,Josh Chu,Noah Alvarenga,Josh Chu,6-0,6,0,1,0,Completed,true,false,false
+UA003091,30 Apr 17,9,Royal Ave,BLTC 3,No. 3,Sam Haddon,Meitta Brodie-Arter,Meitta Brodie-Arter,1-6,1,6,0,1,Completed,true,false,false
+UA003091,30 Apr 17,9,Royal Ave,BLTC 3,No. 4,Riley Mollar,Jacqueline Dickinson,Jacqueline Dickinson,4-6,4,6,0,1,Completed,true,false,false
+UA003092,30 Apr 17,9,Royal South Yarra,Parkdale,No. 1,Oscar Lynagh,Jeremy Gonis,Oscar Lynagh,6-4,6,4,1,0,Completed,true,false,false
+UA003092,30 Apr 17,9,Royal South Yarra,Parkdale,No. 2,Harry R Cooper,Josh Nibbs,Josh Nibbs,2-6,2,6,0,1,Completed,true,false,false
+UA003092,30 Apr 17,9,Royal South Yarra,Parkdale,No. 3,Tom Ritter,Matthew Nibbs,Tom Ritter,6-1,6,1,1,0,Completed,true,false,false
+UA003092,30 Apr 17,9,Royal South Yarra,Parkdale,No. 4,Sinclair Mosley,Keirath Singh,Sinclair Mosley,6-0,6,0,1,0,Completed,true,false,false
+UA003093,30 Apr 17,9,BLTC 1,Dendy Park,No. 1,Maddie French,Cooper Gibbs,Cooper Gibbs,2-6,2,6,0,1,Completed,true,false,false
+UA003093,30 Apr 17,9,BLTC 1,Dendy Park,No. 2,Shinya Imazawa,Matt Bates,Matt Bates,0-6,0,6,0,1,Completed,true,false,false
+UA003093,30 Apr 17,9,BLTC 1,Dendy Park,No. 3,Issy Parker,Max Cuddon,Max Cuddon,0-6,0,6,0,1,Completed,true,false,false
+UA003093,30 Apr 17,9,BLTC 1,Dendy Park,No. 4,Sienna Stretton,Lachie Tindall,Lachie Tindall,0-6,0,6,0,1,Completed,true,false,false
+UA003094,30 Apr 17,9,Coatesville,BLTC 2,No. 1,Adrian Mitsel,Bailey McLean,Adrian Mitsel,7-5,7,5,1,0,Completed,true,false,false
+UA003094,30 Apr 17,9,Coatesville,BLTC 2,No. 2,Thomas So,Adam Halliday,Adam Halliday,2-6,2,6,0,1,Completed,true,false,false
+UA003094,30 Apr 17,9,Coatesville,BLTC 2,No. 3,Luigi Cortez,Chris Green,Chris Green,1-6,1,6,0,1,Completed,true,false,false
+UA003094,30 Apr 17,9,Coatesville,BLTC 2,No. 4,Ben Traynes,Adam Morrow,Ben Traynes,6-3,6,3,1,0,Completed,true,false,false
+UA003101,07 May 17,10,BLTC 2,Royal Ave,No. 1,Tom Shepherd,Jarrad Ellis,Tom Shepherd,6-3,6,3,1,0,Completed,true,false,false
+UA003101,07 May 17,10,BLTC 2,Royal Ave,No. 2,Bailey McLean,Archie Antonopoulos,Bailey McLean,6-0,6,0,1,0,Completed,true,false,false
+UA003101,07 May 17,10,BLTC 2,Royal Ave,No. 3,Adam Halliday,Dennis Gu,Adam Halliday,6-2,6,2,1,0,Completed,true,false,false
+UA003101,07 May 17,10,BLTC 2,Royal Ave,No. 4,Chris Green,Riley Mollar,Chris Green,6-0,6,0,1,0,Completed,true,false,false
+UA003102,07 May 17,10,BLTC 3,Royal South Yarra,No. 1,Ben Gerresheim,Sam McLean,Ben Gerresheim,4-2,4,2,1,0,Completed,false,false,false
+UA003102,07 May 17,10,BLTC 3,Royal South Yarra,No. 2,Ebony Anderson,Bill Cameron,Bill Cameron,3-6,3,6,0,1,Completed,true,false,false
+UA003102,07 May 17,10,BLTC 3,Royal South Yarra,No. 3,Meitta Brodie-Arter,Tom Ritter,Meitta Brodie-Arter,2-0,2,0,1,0,Completed,false,false,false
+UA003102,07 May 17,10,BLTC 3,Royal South Yarra,No. 4,Jacqueline Dickinson,Sinclair Mosley,Sinclair Mosley,2-6,2,6,0,1,Completed,true,false,false
+UA003104,07 May 17,10,Dendy Park,Coatesville,No. 1,Cooper Gibbs,Adrian Mitsel,Cooper Gibbs,6-0,6,0,1,0,Completed,true,false,false
+UA003104,07 May 17,10,Dendy Park,Coatesville,No. 2,Matt Bates,Thomas So,Matt Bates,6-3,6,3,1,0,Completed,true,false,false
+UA003104,07 May 17,10,Dendy Park,Coatesville,No. 3,Chris Alevizos,Ben Traynes,Chris Alevizos,6-0,6,0,1,0,Completed,true,false,false
+UA003104,07 May 17,10,Dendy Park,Coatesville,No. 4,Lachie Tindall,Christian Lacantro,Christian Lacantro,3-6,3,6,0,1,Completed,true,false,false
+UA003111,14 May 17,11,Royal Ave,Dendy Park,No. 1,Archie Antonopoulos,Cooper Gibbs,Cooper Gibbs,2-6,2,6,0,1,Completed,true,false,false
+UA003111,14 May 17,11,Royal Ave,Dendy Park,No. 2,Sam Haddon,Chris Alevizos,Chris Alevizos,1-6,1,6,0,1,Completed,true,false,false
+UA003111,14 May 17,11,Royal Ave,Dendy Park,No. 3,Dennis Gu,Max Cuddon,Dennis Gu,6-2,6,2,1,0,Completed,true,false,false
+UA003111,14 May 17,11,Royal Ave,Dendy Park,No. 4,Riley Mollar,Lachie Tindall,Lachie Tindall,3-6,3,6,0,1,Completed,true,false,false
+UA003112,14 May 17,11,Royal South Yarra,BLTC 2,No. 1,Oscar Lynagh,Tom Shepherd,Oscar Lynagh,7-6,7,6,1,0,Completed,true,false,false
+UA003112,14 May 17,11,Royal South Yarra,BLTC 2,No. 2,Sam McLean,Bailey McLean,Sam McLean,7-6,7,6,1,0,Completed,true,false,false
+UA003112,14 May 17,11,Royal South Yarra,BLTC 2,No. 3,Bill Cameron,Chris Green,Chris Green,3-6,3,6,0,1,Completed,true,false,false
+UA003112,14 May 17,11,Royal South Yarra,BLTC 2,No. 4,Tom Ritter,Matthew Doyle,Matthew Doyle,0-6,0,6,0,1,Completed,true,false,false
+UA003113,14 May 17,11,BLTC 1,BLTC 3,No. 1,Maddie French,Ben Gerresheim,Maddie French,6-4,6,4,1,0,Completed,true,false,false
+UA003113,14 May 17,11,BLTC 1,BLTC 3,No. 2,Shinya Imazawa,Noah Alvarenga,Noah Alvarenga,4-6,4,6,0,1,Completed,true,false,false
+UA003113,14 May 17,11,BLTC 1,BLTC 3,No. 3,Issy Parker,Ebony Anderson,Ebony Anderson,1-6,1,6,0,1,Completed,true,false,false
+UA003113,14 May 17,11,BLTC 1,BLTC 3,No. 4,Sienna Stretton,Jacqueline Dickinson,Jacqueline Dickinson,0-6,0,6,0,1,Completed,true,false,false
+UA003114,14 May 17,11,Coatesville,Parkdale,No. 1,Adrian Mitsel,Luke Shi,Luke Shi,2-6,2,6,0,1,Completed,true,false,false
+UA003114,14 May 17,11,Coatesville,Parkdale,No. 2,Thomas So,James Comben,Thomas So,6-1,6,1,1,0,Completed,true,false,false
+UA003114,14 May 17,11,Coatesville,Parkdale,No. 3,Luigi Cortez,Jeremy Gonis,Luigi Cortez,7-6,7,6,1,0,Completed,true,false,false
+UA003114,14 May 17,11,Coatesville,Parkdale,No. 4,Ben Traynes,Keirath Singh,Keirath Singh,2-6,2,6,0,1,Completed,true,false,false
+UA003121,21 May 17,12,Coatesville,BLTC 1,No. 1,Adrian Mitsel,Maddie French,Adrian Mitsel,7-5,7,5,1,0,Completed,true,false,false
+UA003121,21 May 17,12,Coatesville,BLTC 1,No. 2,Thomas So,Shinya Imazawa,Shinya Imazawa,3-6,3,6,0,1,Completed,true,false,false
+UA003121,21 May 17,12,Coatesville,BLTC 1,No. 3,Luigi Cortez,Issy Parker,Luigi Cortez,6-1,6,1,1,0,Completed,true,false,false
+UA003121,21 May 17,12,Coatesville,BLTC 1,No. 4,Ben Traynes,Sienna Stretton,Ben Traynes,6-1,6,1,1,0,Completed,true,false,false
+UA003122,21 May 17,12,BLTC 2,BLTC 3,No. 1,Tom Shepherd,Ben Gerresheim,Ben Gerresheim,4-6,4,6,0,1,Completed,true,false,false
+UA003122,21 May 17,12,BLTC 2,BLTC 3,No. 2,Bailey McLean,Noah Alvarenga,Bailey McLean,6-4,6,4,1,0,Completed,true,false,false
+UA003122,21 May 17,12,BLTC 2,BLTC 3,No. 3,Chris Green,Ebony Anderson,Ebony Anderson,6-7,6,7,0,1,Completed,true,false,false
+UA003122,21 May 17,12,BLTC 2,BLTC 3,No. 4,Matthew Doyle,Meitta Brodie-Arter,Matthew Doyle,7-6,7,6,1,0,Completed,true,false,false
+UA003123,21 May 17,12,Parkdale,Dendy Park,No. 1,Luke Shi,Sean Howey,Sean Howey,1-6,1,6,0,1,Completed,true,false,false
+UA003123,21 May 17,12,Parkdale,Dendy Park,No. 2,James Comben,Matt Bates,Matt Bates,0-6,0,6,0,1,Completed,true,false,false
+UA003123,21 May 17,12,Parkdale,Dendy Park,No. 3,Josh Nibbs,Max Cuddon,Max Cuddon,2-6,2,6,0,1,Completed,true,false,false
+UA003123,21 May 17,12,Parkdale,Dendy Park,No. 4,Matthew Nibbs,Lachie Tindall,Lachie Tindall,2-6,2,6,0,1,Completed,true,false,false
+UA003124,21 May 17,12,Royal South Yarra,Royal Ave,No. 1,Bill Cameron,Jarrad Ellis,Jarrad Ellis,1-6,1,6,0,1,Completed,true,false,false
+UA003124,21 May 17,12,Royal South Yarra,Royal Ave,No. 2,Harry R Cooper,Sam Haddon,Harry R Cooper,6-0,6,0,1,0,Completed,true,false,false
+UA003124,21 May 17,12,Royal South Yarra,Royal Ave,No. 3,Tom Ritter,Dennis Gu,Tom Ritter,6-4,6,4,1,0,Completed,true,false,false
+UA003124,21 May 17,12,Royal South Yarra,Royal Ave,No. 4,Sinclair Mosley,Riley Mollar,Sinclair Mosley,6-1,6,1,1,0,Completed,true,false,false
+UA003131,28 May 17,13,BLTC 1,Royal South Yarra,No. 1,Maddie French,Oscar Lynagh,Oscar Lynagh,1-6,1,6,0,1,Completed,true,false,false
+UA003131,28 May 17,13,BLTC 1,Royal South Yarra,No. 2,Shinya Imazawa,Bill Cameron,Shinya Imazawa,6-2,6,2,1,0,Completed,true,false,false
+UA003131,28 May 17,13,BLTC 1,Royal South Yarra,No. 3,Issy Parker,Tom Ritter,Tom Ritter,1-6,1,6,0,1,Completed,true,false,false
+UA003131,28 May 17,13,BLTC 1,Royal South Yarra,No. 4,Sienna Stretton,Sinclair Mosley,Sinclair Mosley,1-6,1,6,0,1,Completed,true,false,false
+UA003132,28 May 17,13,Royal Ave,Coatesville,No. 1,Jarrad Ellis,Adrian Mitsel,Adrian Mitsel,5-7,5,7,0,1,Completed,true,false,false
+UA003132,28 May 17,13,Royal Ave,Coatesville,No. 2,Archie Antonopoulos,Luigi Cortez,Luigi Cortez,1-6,1,6,0,1,Completed,true,false,false
+UA003132,28 May 17,13,Royal Ave,Coatesville,No. 3,Josh Chu,Ben Traynes,Josh Chu,6-2,6,2,1,0,Completed,true,false,false
+UA003132,28 May 17,13,Royal Ave,Coatesville,No. 4,Dennis Gu,Christian Lacantro,Christian Lacantro,3-6,3,6,0,1,Completed,true,false,false
+UA003133,28 May 17,13,Dendy Park,BLTC 2,No. 1,Cooper Gibbs,Tom Shepherd,Cooper Gibbs,6-2,6,2,1,0,Completed,true,false,false
+UA003133,28 May 17,13,Dendy Park,BLTC 2,No. 2,Matt Bates,Bailey McLean,Matt Bates,6-1,6,1,1,0,Completed,true,false,false
+UA003133,28 May 17,13,Dendy Park,BLTC 2,No. 3,Chris Alevizos,Adam Halliday,Chris Alevizos,6-2,6,2,1,0,Completed,true,false,false
+UA003133,28 May 17,13,Dendy Park,BLTC 2,No. 4,[Unnamed player — TROLS UA003133 home code 4],Chris Green,Chris Green,0-6,0,6,0,1,Completed,false,false,false
+UA003134,28 May 17,13,BLTC 3,Parkdale,No. 1,Noah Alvarenga,James Comben,James Comben,2-6,2,6,0,1,Completed,true,false,false
+UA003134,28 May 17,13,BLTC 3,Parkdale,No. 2,Ebony Anderson,Jeremy Gonis,Jeremy Gonis,1-6,1,6,0,1,Completed,true,false,false
+UA003134,28 May 17,13,BLTC 3,Parkdale,No. 3,Meitta Brodie-Arter,Josh Nibbs,Meitta Brodie-Arter,6-2,6,2,1,0,Completed,true,false,false
+UA003134,28 May 17,13,BLTC 3,Parkdale,No. 4,Jacqueline Dickinson,Keirath Singh,Keirath Singh,4-6,4,6,0,1,Completed,true,false,false
+UA003141,04 Jun 17,14,BLTC 1,Royal Ave,No. 1,Maddie French,Jarrad Ellis,Maddie French,7-5,7,5,1,0,Completed,true,false,false
+UA003141,04 Jun 17,14,BLTC 1,Royal Ave,No. 2,Shinya Imazawa,Archie Antonopoulos,Shinya Imazawa,6-2,6,2,1,0,Completed,true,false,false
+UA003141,04 Jun 17,14,BLTC 1,Royal Ave,No. 3,Norway Gordon,Josh Chu,Josh Chu,0-6,0,6,0,1,Completed,true,false,false
+UA003141,04 Jun 17,14,BLTC 1,Royal Ave,No. 4,Sienna Stretton,Riley Mollar,Riley Mollar,4-6,4,6,0,1,Completed,true,false,false
+UA003142,04 Jun 17,14,Coatesville,Royal South Yarra,No. 1,Adrian Mitsel,Oscar Lynagh,Oscar Lynagh,2-6,2,6,0,1,Completed,true,false,false
+UA003142,04 Jun 17,14,Coatesville,Royal South Yarra,No. 2,Thomas So,Sam McLean,Thomas So,6-3,6,3,1,0,Completed,true,false,false
+UA003142,04 Jun 17,14,Coatesville,Royal South Yarra,No. 3,Luigi Cortez,Tom Ritter,Tom Ritter,2-6,2,6,0,1,Completed,true,false,false
+UA003142,04 Jun 17,14,Coatesville,Royal South Yarra,No. 4,Ben Traynes,Sinclair Mosley,Ben Traynes,6-2,6,2,1,0,Completed,true,false,false
+UA003143,04 Jun 17,14,Dendy Park,BLTC 3,No. 1,Matt Bates,Ben Gerresheim,Matt Bates,6-4,6,4,1,0,Completed,true,false,false
+UA003143,04 Jun 17,14,Dendy Park,BLTC 3,No. 2,Chris Alevizos,Noah Alvarenga,Chris Alevizos,6-0,6,0,1,0,Completed,true,false,false
+UA003143,04 Jun 17,14,Dendy Park,BLTC 3,No. 3,Max Cuddon,Meitta Brodie-Arter,Meitta Brodie-Arter,1-6,1,6,0,1,Completed,true,false,false
+UA003143,04 Jun 17,14,Dendy Park,BLTC 3,No. 4,Lachie Tindall,Jacqueline Dickinson,Lachie Tindall,6-1,6,1,1,0,Completed,true,false,false
+UA003144,04 Jun 17,14,Parkdale,BLTC 2,No. 1,Luke Shi,Tom Shepherd,Luke Shi,6-4,6,4,1,0,Completed,true,false,false
+UA003144,04 Jun 17,14,Parkdale,BLTC 2,No. 2,James Comben,Bailey McLean,Bailey McLean,2-6,2,6,0,1,Completed,true,false,false
+UA003144,04 Jun 17,14,Parkdale,BLTC 2,No. 3,Jeremy Gonis,Adam Halliday,Adam Halliday,3-6,3,6,0,1,Completed,true,false,false
+UA003144,04 Jun 17,14,Parkdale,BLTC 2,No. 4,Keirath Singh,Matthew Doyle,Matthew Doyle,2-6,2,6,0,1,Completed,true,false,false
+UA003301,,16,Dendy Park,Coatesville,No. 1,Sean Howey,Adrian Mitsel,Adrian Mitsel,2-6,2,6,0,1,Completed,true,false,false
+UA003301,,16,Dendy Park,Coatesville,No. 2,Cooper Gibbs,Thomas So,Cooper Gibbs,6-0,6,0,1,0,Completed,true,false,false
+UA003301,,16,Dendy Park,Coatesville,No. 3,Matt Bates,Luigi Cortez,Matt Bates,6-0,6,0,1,0,Completed,true,false,false
+UA003301,,16,Dendy Park,Coatesville,No. 4,Chris Alevizos,Christian Lacantro,Chris Alevizos,6-0,6,0,1,0,Completed,true,false,false
+UA003302,,16,BLTC 2,Royal South Yarra,No. 1,Tom Shepherd,Oscar Lynagh,Oscar Lynagh,1-6,1,6,0,1,Completed,true,false,false
+UA003302,,16,BLTC 2,Royal South Yarra,No. 2,Bailey McLean,Sam McLean,Bailey McLean,6-3,6,3,1,0,Completed,true,false,false
+UA003302,,16,BLTC 2,Royal South Yarra,No. 3,Adam Halliday,Bill Cameron,Adam Halliday,6-1,6,1,1,0,Completed,true,false,false
+UA003302,,16,BLTC 2,Royal South Yarra,No. 4,Chris Green,Sinclair Mosley,Chris Green,7-6,7,6,1,0,Completed,true,false,false
+UA003321,,17,Dendy Park,BLTC 2,No. 1,Sean Howey,Tom Shepherd,Tom Shepherd,1-6,1,6,0,1,Completed,true,false,false
+UA003321,,17,Dendy Park,BLTC 2,No. 2,Cooper Gibbs,Bailey McLean,Cooper Gibbs,6-3,6,3,1,0,Completed,true,false,false
+UA003321,,17,Dendy Park,BLTC 2,No. 3,Matt Bates,Adam Halliday,Matt Bates,6-4,6,4,1,0,Completed,true,false,false
+UA003321,,17,Dendy Park,BLTC 2,No. 4,Chris Alevizos,Matthew Doyle,Chris Alevizos,6-4,6,4,1,0,Completed,true,false,false

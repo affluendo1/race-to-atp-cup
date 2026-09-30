@@ -1,0 +1,73 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA019032,01 Aug 21,3,St Pauls,Le Page,No. 1,Isabella Li,Kai Hu,Isabella Li,6-0,6,0,1,0,Completed,true,false,false
+UA019032,01 Aug 21,3,St Pauls,Le Page,No. 2,David Elmankabady,Marcus Sotos,Marcus Sotos,4-6,4,6,0,1,Completed,true,false,false
+UA019032,01 Aug 21,3,St Pauls,Le Page,No. 3,Ronan Raulings,Yunze Dennis Jiang,Yunze Dennis Jiang,1-6,1,6,0,1,Completed,true,false,false
+UA019032,01 Aug 21,3,St Pauls,Le Page,No. 4,Matthew Strupl,Matthew Crossley,Matthew Strupl,6-4,6,4,1,0,Completed,true,false,false
+UA019034,01 Aug 21,3,Highett,St Louis de Mont,No. 1,Alex Lunardello,Aaron Vu,Aaron Vu,1-6,1,6,0,1,Completed,true,false,false
+UA019034,01 Aug 21,3,Highett,St Louis de Mont,No. 2,Josie Inserra,Jackson Parker,Jackson Parker,2-6,2,6,0,1,Completed,true,false,false
+UA019034,01 Aug 21,3,Highett,St Louis de Mont,No. 3,Alex McEvoy,Daniel Waters,Alex McEvoy,6-1,6,1,1,0,Completed,true,false,true
+UA019034,01 Aug 21,3,Highett,St Louis de Mont,No. 4,Odesa Kaurin,Jayden Demko,Odesa Kaurin,6-4,6,4,1,0,Completed,true,false,false
+UA019093,07 Nov 21,9,Glen Huntly,St Louis de Mont,No. 1,Seth Green,Aaron Vu,Aaron Vu,0-6,0,6,0,1,Completed,true,false,false
+UA019093,07 Nov 21,9,Glen Huntly,St Louis de Mont,No. 2,Faith Green,Jackson Parker,Jackson Parker,3-6,3,6,0,1,Completed,true,false,false
+UA019093,07 Nov 21,9,Glen Huntly,St Louis de Mont,No. 3,Edy Kagan,Daniel Waters,Daniel Waters,4-6,4,6,0,1,Completed,true,false,true
+UA019093,07 Nov 21,9,Glen Huntly,St Louis de Mont,No. 4,Tim Kalapoutis,Jayden Demko,Tim Kalapoutis,6-1,6,1,1,0,Completed,true,false,false
+UA019094,07 Nov 21,9,Highett,Parkdale,No. 1,Josie Inserra,Cleo McKay,Josie Inserra,6-2,6,2,1,0,Completed,true,false,false
+UA019094,07 Nov 21,9,Highett,Parkdale,No. 2,Alex McEvoy,Georgia Bellette,Georgia Bellette,2-6,2,6,0,1,Completed,true,false,false
+UA019094,07 Nov 21,9,Highett,Parkdale,No. 3,Alex Lunardello,Ilinca Di Siciu,Ilinca Di Siciu,1-6,1,6,0,1,Completed,true,false,false
+UA019094,07 Nov 21,9,Highett,Parkdale,No. 4,[Unnamed player — TROLS UA019094 home code 4],Mia Bellette,Mia Bellette,0-6,0,6,0,1,Completed,false,false,false
+UA019102,14 Nov 21,10,Le Page,St Pauls,No. 1,Marcus Sotos,Isabella Li,Isabella Li,0-6,0,6,0,1,Completed,true,false,false
+UA019102,14 Nov 21,10,Le Page,St Pauls,No. 2,Yunze Dennis Jiang,David Elmankabady,David Elmankabady,1-6,1,6,0,1,Completed,true,false,false
+UA019102,14 Nov 21,10,Le Page,St Pauls,No. 3,Matthew Crossley,Ronan Raulings,Ronan Raulings,2-6,2,6,0,1,Completed,true,false,false
+UA019102,14 Nov 21,10,Le Page,St Pauls,No. 4,Harvey Conway,Matthew Strupl,Matthew Strupl,3-6,3,6,0,1,Completed,true,true,false
+UA019103,14 Nov 21,10,BLTC,Glen Huntly,No. 1,Sophie Turner,Seth Green,Sophie Turner,6-0,6,0,1,0,Completed,true,false,false
+UA019103,14 Nov 21,10,BLTC,Glen Huntly,No. 2,Hayley Taylor,Faith Green,Faith Green,2-6,2,6,0,1,Completed,true,false,false
+UA019103,14 Nov 21,10,BLTC,Glen Huntly,No. 3,Harry Bennett,Tim Kalapoutis,Harry Bennett,6-4,6,4,1,0,Completed,true,false,false
+UA019103,14 Nov 21,10,BLTC,Glen Huntly,No. 4,Matvey Roche,Edy Kagan,Matvey Roche,6-1,6,1,1,0,Completed,true,false,false
+UA019104,14 Nov 21,10,St Louis de Mont,Highett,No. 1,Aaron Vu,Alex Lunardello,Aaron Vu,6-2,6,2,1,0,Completed,true,false,false
+UA019104,14 Nov 21,10,St Louis de Mont,Highett,No. 2,Jackson Parker,Josie Inserra,Josie Inserra,5-7,5,7,0,1,Completed,true,false,false
+UA019104,14 Nov 21,10,St Louis de Mont,Highett,No. 3,Daniel Waters,Odesa Kaurin,Odesa Kaurin,4-6,4,6,0,1,Completed,true,true,false
+UA019104,14 Nov 21,10,St Louis de Mont,Highett,No. 4,Jayden Demko,Sophie Klettke-Sullivan,Jayden Demko,6-2,6,2,1,0,Completed,true,false,false
+UA019112,21 Nov 21,11,St Pauls,Parkdale,No. 1,Ryan Quach,Cleo McKay,Ryan Quach,6-1,6,1,1,0,Completed,true,false,false
+UA019112,21 Nov 21,11,St Pauls,Parkdale,No. 2,Isabella Li,Georgia Bellette,Isabella Li,7-5,7,5,1,0,Completed,true,false,false
+UA019112,21 Nov 21,11,St Pauls,Parkdale,No. 3,Peter Wu,Tiffany Nikolakopoulos,Peter Wu,6-3,6,3,1,0,Completed,true,false,false
+UA019112,21 Nov 21,11,St Pauls,Parkdale,No. 4,Matthew Strupl,Mia Bellette,Mia Bellette,3-6,3,6,0,1,Completed,true,false,false
+UA019113,21 Nov 21,11,Glen Huntly,Le Page,No. 1,Seth Green,Kai Hu,Kai Hu,4-6,4,6,0,1,Completed,true,false,false
+UA019113,21 Nov 21,11,Glen Huntly,Le Page,No. 2,Faith Green,Marcus Sotos,Marcus Sotos,4-6,4,6,0,1,Completed,true,false,false
+UA019113,21 Nov 21,11,Glen Huntly,Le Page,No. 3,Tim Kalapoutis,Matthew Crossley,Tim Kalapoutis,6-0,6,0,1,0,Completed,true,false,false
+UA019113,21 Nov 21,11,Glen Huntly,Le Page,No. 4,Edy Kagan,Yunze Dennis Jiang,Edy Kagan,6-1,6,1,1,0,Completed,true,false,false
+UA019114,21 Nov 21,11,Highett,BLTC,No. 1,Josie Inserra,Hayley Taylor,Josie Inserra,6-4,6,4,1,0,Completed,true,false,false
+UA019114,21 Nov 21,11,Highett,BLTC,No. 2,Alex McEvoy,Harry Bennett,Harry Bennett,3-6,3,6,0,1,Completed,true,false,false
+UA019114,21 Nov 21,11,Highett,BLTC,No. 3,Juliette Hostein,Finn Gehde,Finn Gehde,4-6,4,6,0,1,Completed,true,true,false
+UA019114,21 Nov 21,11,Highett,BLTC,No. 4,Sophie Klettke-Sullivan,Maddie Ballantyne,Maddie Ballantyne,6-7,6,7,0,1,Completed,true,false,true
+UA019121,28 Nov 21,12,Highett,Glen Huntly,No. 1,Alex Lunardello,Seth Green,Alex Lunardello,6-1,6,1,1,0,Completed,true,false,false
+UA019121,28 Nov 21,12,Highett,Glen Huntly,No. 2,Josie Inserra,Faith Green,Josie Inserra,6-4,6,4,1,0,Completed,true,false,false
+UA019121,28 Nov 21,12,Highett,Glen Huntly,No. 3,Alex McEvoy,Tim Kalapoutis,Tim Kalapoutis,6-7,6,7,0,1,Completed,true,false,false
+UA019121,28 Nov 21,12,Highett,Glen Huntly,No. 4,Sophie Klettke-Sullivan,Edy Kagan,Edy Kagan,4-6,4,6,0,1,Completed,true,false,false
+UA019122,28 Nov 21,12,Parkdale,Le Page,No. 1,Cleo McKay,Kai Hu,Cleo McKay,6-2,6,2,1,0,Completed,true,false,false
+UA019122,28 Nov 21,12,Parkdale,Le Page,No. 2,Georgia Bellette,Marcus Sotos,Marcus Sotos,4-6,4,6,0,1,Completed,true,false,false
+UA019122,28 Nov 21,12,Parkdale,Le Page,No. 3,Tiffany Nikolakopoulos,Matthew Crossley,Tiffany Nikolakopoulos,6-1,6,1,1,0,Completed,true,false,false
+UA019122,28 Nov 21,12,Parkdale,Le Page,No. 4,Ilinca Di Siciu,Harvey Conway,Ilinca Di Siciu,6-2,6,2,1,0,Completed,true,false,true
+UA019123,28 Nov 21,12,BLTC,St Louis de Mont,No. 1,Sophie Turner,Aaron Vu,Sophie Turner,6-4,6,4,1,0,Completed,true,false,false
+UA019123,28 Nov 21,12,BLTC,St Louis de Mont,No. 2,Harry Bennett,Jackson Parker,Jackson Parker,1-6,1,6,0,1,Completed,true,false,false
+UA019123,28 Nov 21,12,BLTC,St Louis de Mont,No. 3,Finn Gehde,Jack Forbes,Jack Forbes,4-6,4,6,0,1,Completed,true,false,true
+UA019123,28 Nov 21,12,BLTC,St Louis de Mont,No. 4,Matvey Roche,Jayden Demko,Matvey Roche,6-1,6,1,1,0,Completed,true,false,false
+UA019133,05 Dec 21,13,St Louis de Mont,Parkdale,No. 1,Aaron Vu,Cleo McKay,Aaron Vu,6-2,6,2,1,0,Completed,true,false,false
+UA019133,05 Dec 21,13,St Louis de Mont,Parkdale,No. 2,Jackson Parker,Tiffany Nikolakopoulos,Jackson Parker,6-1,6,1,1,0,Completed,true,false,false
+UA019133,05 Dec 21,13,St Louis de Mont,Parkdale,No. 3,Daniel Waters,Ilinca Di Siciu,Ilinca Di Siciu,5-7,5,7,0,1,Completed,true,true,false
+UA019133,05 Dec 21,13,St Louis de Mont,Parkdale,No. 4,Jayden Demko,Mia Bellette,Mia Bellette,4-6,4,6,0,1,Completed,true,false,false
+UA019134,05 Dec 21,13,Le Page,BLTC,No. 1,Kai Hu,Sophie Turner,Sophie Turner,1-6,1,6,0,1,Completed,true,false,false
+UA019134,05 Dec 21,13,Le Page,BLTC,No. 2,[Unnamed player — TROLS UA019134 home code 2],Hayley Taylor,Hayley Taylor,0-6,0,6,0,1,Completed,false,false,false
+UA019134,05 Dec 21,13,Le Page,BLTC,No. 3,Yunze Dennis Jiang,Finn Gehde,Finn Gehde,1-6,1,6,0,1,Completed,true,false,false
+UA019134,05 Dec 21,13,Le Page,BLTC,No. 4,Harvey Conway,Matvey Roche,Matvey Roche,0-6,0,6,0,1,Completed,true,true,false
+UA019142,12 Dec 21,14,Highett,St Pauls,No. 1,Alex Lunardello,Isabella Li,Isabella Li,5-7,5,7,0,1,Completed,true,false,false
+UA019142,12 Dec 21,14,Highett,St Pauls,No. 2,Alex McEvoy,David Elmankabady,David Elmankabady,1-6,1,6,0,1,Completed,true,false,false
+UA019142,12 Dec 21,14,Highett,St Pauls,No. 3,Odesa Kaurin,Ronan Raulings,Ronan Raulings,2-6,2,6,0,1,Completed,true,false,false
+UA019142,12 Dec 21,14,Highett,St Pauls,No. 4,Sophie Klettke-Sullivan,Matthew Strupl,Sophie Klettke-Sullivan,6-1,6,1,1,0,Completed,true,false,false
+UA019143,12 Dec 21,14,St Louis de Mont,Le Page,No. 1,Aaron Vu,Kai Hu,Aaron Vu,6-1,6,1,1,0,Completed,true,false,false
+UA019143,12 Dec 21,14,St Louis de Mont,Le Page,No. 2,Nick Shipman,Marcus Sotos,Nick Shipman,6-3,6,3,1,0,Completed,true,true,false
+UA019143,12 Dec 21,14,St Louis de Mont,Le Page,No. 3,Jackson Parker,Matthew Crossley,Jackson Parker,6-0,6,0,1,0,Completed,true,false,false
+UA019143,12 Dec 21,14,St Louis de Mont,Le Page,No. 4,Daniel Waters,Harvey Conway,Harvey Conway,3-6,3,6,0,1,Completed,true,true,true
+UA019144,12 Dec 21,14,BLTC,Parkdale,No. 1,Hayley Taylor,Cleo McKay,Hayley Taylor,6-0,6,0,1,0,Completed,true,false,false
+UA019144,12 Dec 21,14,BLTC,Parkdale,No. 2,Harry Bennett,Tiffany Nikolakopoulos,Harry Bennett,6-1,6,1,1,0,Completed,true,false,false
+UA019144,12 Dec 21,14,BLTC,Parkdale,No. 3,Matvey Roche,Ilinca Di Siciu,Matvey Roche,6-0,6,0,1,0,Completed,true,false,false
+UA019144,12 Dec 21,14,BLTC,Parkdale,No. 4,Riyley Lyong,Ella O'Connor,Riyley Lyong,6-1,6,1,1,0,Completed,true,true,true

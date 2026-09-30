@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA29-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2021",
+  "season_id": "UA29",
+  "season_label": "Spring 2021",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Maccabi",
+      "wins": 6,
+      "points": 80,
+      "percentage": 150.39,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Highmoor Uniting",
+      "wins": 4,
+      "points": 68,
+      "percentage": 107.88,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "St Joan of Arc",
+      "wins": 4,
+      "points": 67,
+      "percentage": 119.35,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Carmelite",
+      "wins": 3,
+      "points": 66,
+      "percentage": 143.27,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal South Yarra No.2",
+      "wins": 3,
+      "points": 58,
+      "percentage": 95.95,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC",
+      "wins": 1,
+      "points": 42,
+      "percentage": 70.0,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra No.1",
+      "wins": 0,
+      "points": 39,
+      "percentage": 58.76,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA29-UA002",
+  "fixtures": 56,
+  "completed_fixtures": 21,
+  "draw_fixtures": 56,
+  "singles_rubbers": 84,
+  "doubles_rubbers": 42,
+  "latest_round": 14,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

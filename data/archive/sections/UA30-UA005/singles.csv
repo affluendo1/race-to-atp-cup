@@ -1,0 +1,197 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA005011,06 Feb 22,1,BLTC 1,BLTC 2,No. 1,Davis Nguyen,George Fennessy,Davis Nguyen,6-1,6,1,1,0,Completed,true,false,false
+UA005011,06 Feb 22,1,BLTC 1,BLTC 2,No. 2,Sebastian Brown,Stevan Dakic,Stevan Dakic,3-6,3,6,0,1,Completed,true,false,false
+UA005011,06 Feb 22,1,BLTC 1,BLTC 2,No. 3,Alex Brown,Olivia Foster,Alex Brown,6-1,6,1,1,0,Completed,true,false,false
+UA005011,06 Feb 22,1,BLTC 1,BLTC 2,No. 4,Campbell Orchard,Kensei Golec,Kensei Golec,4-6,4,6,0,1,Completed,true,false,false
+UA005012,06 Feb 22,1,St Mary's,Dendy Park,No. 1,Finn Whitson,Joseph James Braithwaite,Joseph James Braithwaite,2-6,2,6,0,1,Completed,true,false,false
+UA005012,06 Feb 22,1,St Mary's,Dendy Park,No. 2,Kenneth Yeung,Ines Bescond,Kenneth Yeung,6-0,6,0,1,0,Completed,true,false,false
+UA005012,06 Feb 22,1,St Mary's,Dendy Park,No. 3,Finley Ward,Cooper Follett,Cooper Follett,2-6,2,6,0,1,Completed,true,false,false
+UA005012,06 Feb 22,1,St Mary's,Dendy Park,No. 4,Lucas Hornblower,Jackson Follett,Lucas Hornblower,6-0,6,0,1,0,Completed,true,false,true
+UA005013,06 Feb 22,1,St Joan of Arc,GPHC 2,No. 1,Max Zhou,Leo Motyl-Coverdale,Leo Motyl-Coverdale,4-6,4,6,0,1,Completed,true,false,false
+UA005013,06 Feb 22,1,St Joan of Arc,GPHC 2,No. 2,Kelly Allen,Sol Motyl-Coverdale,Sol Motyl-Coverdale,3-6,3,6,0,1,Completed,true,false,false
+UA005013,06 Feb 22,1,St Joan of Arc,GPHC 2,No. 3,Kevin Qian,Kai Rogerson,Kevin Qian,6-3,6,3,1,0,Completed,true,false,false
+UA005013,06 Feb 22,1,St Joan of Arc,GPHC 2,No. 4,[Unnamed player — TROLS UA005013 home code 4],Nicolo Mirabella,Nicolo Mirabella,0-6,0,6,0,1,Completed,false,false,false
+UA005014,06 Feb 22,1,Royal Ave,GPHC 1,No. 1,Caleb Jackson-Wright,Hannah Croft,Caleb Jackson-Wright,7-5,7,5,1,0,Completed,true,false,false
+UA005014,06 Feb 22,1,Royal Ave,GPHC 1,No. 2,Harry Toomey,Sebastian Joseph,Harry Toomey,6-1,6,1,1,0,Completed,true,false,false
+UA005014,06 Feb 22,1,Royal Ave,GPHC 1,No. 3,Jack Vakrinos,Katya Bagaric,Jack Vakrinos,6-2,6,2,1,0,Completed,true,false,false
+UA005014,06 Feb 22,1,Royal Ave,GPHC 1,No. 4,Gideon Gomes,Zach Tarrant,Gideon Gomes,6-3,6,3,1,0,Completed,true,false,false
+UA005021,13 Feb 22,2,GPHC 1,BLTC 1,No. 1,Zach Ilias,Sebastian Brown,Zach Ilias,6-4,6,4,1,0,Completed,true,false,false
+UA005021,13 Feb 22,2,GPHC 1,BLTC 1,No. 2,Conor Boussioutas,Alex Brown,Conor Boussioutas,6-4,6,4,1,0,Completed,true,false,false
+UA005021,13 Feb 22,2,GPHC 1,BLTC 1,No. 3,Sebastian Joseph,Harrison Tzounos,Harrison Tzounos,4-6,4,6,0,1,Completed,true,false,false
+UA005021,13 Feb 22,2,GPHC 1,BLTC 1,No. 4,Zach Tarrant,Campbell Orchard,Campbell Orchard,0-6,0,6,0,1,Completed,true,false,false
+UA005022,13 Feb 22,2,BLTC 2,St Mary's,No. 1,George Fennessy,Finn Whitson,George Fennessy,6-3,6,3,1,0,Completed,true,false,false
+UA005022,13 Feb 22,2,BLTC 2,St Mary's,No. 2,Stevan Dakic,Kenneth Yeung,Kenneth Yeung,1-6,1,6,0,1,Completed,true,false,false
+UA005022,13 Feb 22,2,BLTC 2,St Mary's,No. 3,Petar Kocic,Josh Lin,Josh Lin,3-6,3,6,0,1,Completed,true,false,false
+UA005022,13 Feb 22,2,BLTC 2,St Mary's,No. 4,Kensei Golec,Finley Ward,Finley Ward,6-7,6,7,0,1,Completed,true,false,false
+UA005023,13 Feb 22,2,Dendy Park,St Joan of Arc,No. 1,Joseph James Braithwaite,Max Zhou,Joseph James Braithwaite,6-2,6,2,1,0,Completed,true,false,false
+UA005023,13 Feb 22,2,Dendy Park,St Joan of Arc,No. 2,Noam Barel,Kelly Allen,Kelly Allen,2-6,2,6,0,1,Completed,true,false,false
+UA005023,13 Feb 22,2,Dendy Park,St Joan of Arc,No. 3,Cooper Follett,Max Coon,Cooper Follett,7-5,7,5,1,0,Completed,true,false,false
+UA005023,13 Feb 22,2,Dendy Park,St Joan of Arc,No. 4,Jackson Trigger,Max Moscati,Jackson Trigger,6-2,6,2,1,0,Completed,true,false,false
+UA005024,13 Feb 22,2,GPHC 2,Royal Ave,No. 1,Sol Motyl-Coverdale,Caleb Jackson-Wright,Sol Motyl-Coverdale,6-1,6,1,1,0,Completed,true,false,false
+UA005024,13 Feb 22,2,GPHC 2,Royal Ave,No. 2,Ryan Nottle,Harry Toomey,Harry Toomey,0-6,0,6,0,1,Completed,true,false,false
+UA005024,13 Feb 22,2,GPHC 2,Royal Ave,No. 3,Kai Rogerson,William Farrugia,Kai Rogerson,7-5,7,5,1,0,Completed,true,false,false
+UA005024,13 Feb 22,2,GPHC 2,Royal Ave,No. 4,Nicolo Mirabella,Gideon Gomes,Gideon Gomes,1-6,1,6,0,1,Completed,true,false,false
+UA005031,20 Feb 22,3,BLTC 1,GPHC 2,No. 1,Davis Nguyen,Leo Motyl-Coverdale,Davis Nguyen,6-2,6,2,1,0,Completed,true,false,false
+UA005031,20 Feb 22,3,BLTC 1,GPHC 2,No. 2,Sebastian Brown,Sol Motyl-Coverdale,Sebastian Brown,6-3,6,3,1,0,Completed,true,false,false
+UA005031,20 Feb 22,3,BLTC 1,GPHC 2,No. 3,Harrison Tzounos,Ryan Nottle,Harrison Tzounos,6-0,6,0,1,0,Completed,true,false,false
+UA005031,20 Feb 22,3,BLTC 1,GPHC 2,No. 4,Campbell Orchard,Kai Rogerson,Campbell Orchard,6-1,6,1,1,0,Completed,true,false,false
+UA005032,20 Feb 22,3,St Mary's,GPHC 1,No. 1,Finn Whitson,Zach Ilias,Zach Ilias,4-6,4,6,0,1,Completed,true,false,false
+UA005032,20 Feb 22,3,St Mary's,GPHC 1,No. 2,Kenneth Yeung,Conor Boussioutas,Kenneth Yeung,6-1,6,1,1,0,Completed,true,false,false
+UA005032,20 Feb 22,3,St Mary's,GPHC 1,No. 3,Josh Lin,Katya Bagaric,Katya Bagaric,4-6,4,6,0,1,Completed,true,false,false
+UA005032,20 Feb 22,3,St Mary's,GPHC 1,No. 4,Finley Ward,Zach Tarrant,Zach Tarrant,2-6,2,6,0,1,Completed,true,false,false
+UA005033,20 Feb 22,3,St Joan of Arc,BLTC 2,No. 1,Kelly Allen,George Fennessy,George Fennessy,4-6,4,6,0,1,Completed,true,false,false
+UA005033,20 Feb 22,3,St Joan of Arc,BLTC 2,No. 2,Kevin Qian,Kensei Golec,Kensei Golec,5-7,5,7,0,1,Completed,true,false,false
+UA005033,20 Feb 22,3,St Joan of Arc,BLTC 2,No. 3,Max Coon,Petar Kocic,Max Coon,6-1,6,1,1,0,Completed,true,false,false
+UA005033,20 Feb 22,3,St Joan of Arc,BLTC 2,No. 4,Max Moscati,Justin Le,Justin Le,1-6,1,6,0,1,Completed,true,false,true
+UA005034,20 Feb 22,3,Royal Ave,Dendy Park,No. 1,Caleb Jackson-Wright,Joseph James Braithwaite,Joseph James Braithwaite,4-6,4,6,0,1,Completed,true,false,false
+UA005034,20 Feb 22,3,Royal Ave,Dendy Park,No. 2,Mia Hilaris,Ines Bescond,Ines Bescond,1-6,1,6,0,1,Completed,true,false,false
+UA005034,20 Feb 22,3,Royal Ave,Dendy Park,No. 3,William Farrugia,Noam Barel,Noam Barel,4-6,4,6,0,1,Completed,true,false,false
+UA005034,20 Feb 22,3,Royal Ave,Dendy Park,No. 4,Jack Vakrinos,Cooper Follett,Jack Vakrinos,6-0,6,0,1,0,Completed,true,false,false
+UA005041,27 Feb 22,4,Dendy Park,BLTC 1,No. 1,Jeremy Mayger,Davis Nguyen,Davis Nguyen,2-6,2,6,0,1,Completed,true,false,false
+UA005041,27 Feb 22,4,Dendy Park,BLTC 1,No. 2,Cooper Follett,Sebastian Brown,Sebastian Brown,3-6,3,6,0,1,Completed,true,false,false
+UA005041,27 Feb 22,4,Dendy Park,BLTC 1,No. 3,Jackson Trigger,Alex Brown,Jackson Trigger,6-3,6,3,1,0,Completed,true,false,false
+UA005041,27 Feb 22,4,Dendy Park,BLTC 1,No. 4,Jack McNamara,Dean Nguyen,Jack McNamara,7-5,7,5,1,0,Completed,true,true,true
+UA005042,27 Feb 22,4,GPHC 2,St Mary's,No. 1,Ryan Nottle,Finn Whitson,Ryan Nottle,6-2,6,2,1,0,Completed,true,false,false
+UA005042,27 Feb 22,4,GPHC 2,St Mary's,No. 2,Kai Rogerson,Kenneth Yeung,Kenneth Yeung,1-6,1,6,0,1,Completed,true,false,false
+UA005042,27 Feb 22,4,GPHC 2,St Mary's,No. 3,Nicolo Mirabella,Josh Lin,Josh Lin,0-6,0,6,0,1,Completed,true,false,false
+UA005042,27 Feb 22,4,GPHC 2,St Mary's,No. 4,Will Mirams,Luke Saliba,Luke Saliba,1-6,1,6,0,1,Completed,true,false,true
+UA005043,27 Feb 22,4,GPHC 1,St Joan of Arc,No. 1,Zach Ilias,Max Zhou,Zach Ilias,6-4,6,4,1,0,Completed,true,false,false
+UA005043,27 Feb 22,4,GPHC 1,St Joan of Arc,No. 2,Hannah Croft,Kevin Qian,Hannah Croft,6-2,6,2,1,0,Completed,true,false,false
+UA005043,27 Feb 22,4,GPHC 1,St Joan of Arc,No. 3,Katya Bagaric,Max Coon,Katya Bagaric,6-4,6,4,1,0,Completed,true,false,false
+UA005043,27 Feb 22,4,GPHC 1,St Joan of Arc,No. 4,Zach Tarrant,Max Moscati,Zach Tarrant,7-6,7,6,1,0,Completed,true,false,false
+UA005044,27 Feb 22,4,BLTC 2,Royal Ave,No. 1,George Fennessy,Harry Toomey,Harry Toomey,1-6,1,6,0,1,Completed,true,false,false
+UA005044,27 Feb 22,4,BLTC 2,Royal Ave,No. 2,Stevan Dakic,Mia Hilaris,Stevan Dakic,6-1,6,1,1,0,Completed,true,false,false
+UA005044,27 Feb 22,4,BLTC 2,Royal Ave,No. 3,Kensei Golec,William Farrugia,Kensei Golec,6-3,6,3,1,0,Completed,true,false,false
+UA005044,27 Feb 22,4,BLTC 2,Royal Ave,No. 4,Petar Kocic,[Unnamed player — TROLS UA005044 away code 4],[Unnamed player — TROLS UA005044 away code 4],1-6,1,6,0,1,Completed,false,false,false
+UA005051,06 Mar 22,5,St Joan of Arc,Royal Ave,No. 1,Max Zhou,Harry Toomey,Max Zhou,7-5,7,5,1,0,Completed,true,false,false
+UA005051,06 Mar 22,5,St Joan of Arc,Royal Ave,No. 2,Kelly Allen,Jack Vakrinos,Jack Vakrinos,3-6,3,6,0,1,Completed,true,false,false
+UA005051,06 Mar 22,5,St Joan of Arc,Royal Ave,No. 3,Kevin Qian,William Farrugia,William Farrugia,1-6,1,6,0,1,Completed,true,false,false
+UA005051,06 Mar 22,5,St Joan of Arc,Royal Ave,No. 4,Max Coon,Mia Hilaris,Max Coon,6-0,6,0,1,0,Completed,true,false,false
+UA005052,06 Mar 22,5,GPHC 1,GPHC 2,No. 1,Zach Ilias,Leo Motyl-Coverdale,Zach Ilias,7-5,7,5,1,0,Completed,true,false,false
+UA005052,06 Mar 22,5,GPHC 1,GPHC 2,No. 2,Conor Boussioutas,Sol Motyl-Coverdale,Conor Boussioutas,7-5,7,5,1,0,Completed,true,false,false
+UA005052,06 Mar 22,5,GPHC 1,GPHC 2,No. 3,Katya Bagaric,Kai Rogerson,Kai Rogerson,3-6,3,6,0,1,Completed,true,false,false
+UA005052,06 Mar 22,5,GPHC 1,GPHC 2,No. 4,Zach Tarrant,Nicolo Mirabella,Zach Tarrant,7-6,7,6,1,0,Completed,true,false,false
+UA005054,06 Mar 22,5,BLTC 1,St Mary's,No. 1,Harrison Tzounos,Kenneth Yeung,Kenneth Yeung,5-7,5,7,0,1,Completed,true,false,false
+UA005054,06 Mar 22,5,BLTC 1,St Mary's,No. 2,Davis Nguyen,Josh Lin,Davis Nguyen,6-3,6,3,1,0,Completed,true,false,false
+UA005054,06 Mar 22,5,BLTC 1,St Mary's,No. 3,Alex Brown,Finley Ward,Alex Brown,7-5,7,5,1,0,Completed,true,false,false
+UA005054,06 Mar 22,5,BLTC 1,St Mary's,No. 4,Campbell Orchard,Hamish Ward,Campbell Orchard,6-1,6,1,1,0,Completed,true,false,false
+UA005061,20 Mar 22,6,St Mary's,St Joan of Arc,No. 1,Finn Whitson,Max Zhou,Max Zhou,1-6,1,6,0,1,Completed,true,false,false
+UA005061,20 Mar 22,6,St Mary's,St Joan of Arc,No. 2,Kenneth Yeung,Kelly Allen,Kenneth Yeung,6-1,6,1,1,0,Completed,true,false,false
+UA005061,20 Mar 22,6,St Mary's,St Joan of Arc,No. 3,Josh Lin,Kevin Qian,Josh Lin,6-2,6,2,1,0,Completed,true,false,false
+UA005061,20 Mar 22,6,St Mary's,St Joan of Arc,No. 4,Lucas Hornblower,Max Moscati,Lucas Hornblower,6-3,6,3,1,0,Completed,true,false,false
+UA005062,20 Mar 22,6,Royal Ave,BLTC 1,No. 1,Caleb Jackson-Wright,Harrison Tzounos,Harrison Tzounos,0-6,0,6,0,1,Completed,true,false,false
+UA005062,20 Mar 22,6,Royal Ave,BLTC 1,No. 2,Harry Toomey,Davis Nguyen,Harry Toomey,6-2,6,2,1,0,Completed,true,false,false
+UA005062,20 Mar 22,6,Royal Ave,BLTC 1,No. 3,Mia Hilaris,Sebastian Brown,Mia Hilaris,6-4,6,4,1,0,Completed,true,false,false
+UA005062,20 Mar 22,6,Royal Ave,BLTC 1,No. 4,Gideon Gomes,Alex Brown,Gideon Gomes,6-3,6,3,1,0,Completed,true,false,false
+UA005063,20 Mar 22,6,GPHC 2,Dendy Park,No. 1,Sol Motyl-Coverdale,Joseph James Braithwaite,Joseph James Braithwaite,3-6,3,6,0,1,Completed,true,false,false
+UA005063,20 Mar 22,6,GPHC 2,Dendy Park,No. 2,Ryan Nottle,Noam Barel,Noam Barel,5-7,5,7,0,1,Completed,true,false,false
+UA005063,20 Mar 22,6,GPHC 2,Dendy Park,No. 3,Kai Rogerson,Slade Caldwell,Kai Rogerson,6-3,6,3,1,0,Completed,true,false,true
+UA005063,20 Mar 22,6,GPHC 2,Dendy Park,No. 4,Nicolo Mirabella,Sebastian Maddams,Sebastian Maddams,0-6,0,6,0,1,Completed,true,false,true
+UA005064,20 Mar 22,6,BLTC 2,GPHC 1,No. 1,George Fennessy,Zach Ilias,Zach Ilias,1-6,1,6,0,1,Completed,true,false,false
+UA005064,20 Mar 22,6,BLTC 2,GPHC 1,No. 2,Stevan Dakic,Conor Boussioutas,Conor Boussioutas,4-6,4,6,0,1,Completed,true,false,false
+UA005064,20 Mar 22,6,BLTC 2,GPHC 1,No. 3,Kensei Golec,Katya Bagaric,Kensei Golec,6-0,6,0,1,0,Completed,true,false,false
+UA005064,20 Mar 22,6,BLTC 2,GPHC 1,No. 4,Petar Kocic,Zach Tarrant,Zach Tarrant,4-6,4,6,0,1,Completed,true,false,false
+UA005071,27 Mar 22,7,BLTC 1,St Joan of Arc,No. 1,Harrison Tzounos,Kelly Allen,Harrison Tzounos,6-2,6,2,1,0,Completed,true,false,false
+UA005071,27 Mar 22,7,BLTC 1,St Joan of Arc,No. 2,Daniel Brown,William Hardon,Daniel Brown,6-0,6,0,1,0,Completed,true,true,true
+UA005071,27 Mar 22,7,BLTC 1,St Joan of Arc,No. 3,Sebastian Brown,Kevin Qian,Sebastian Brown,6-2,6,2,1,0,Completed,true,false,false
+UA005071,27 Mar 22,7,BLTC 1,St Joan of Arc,No. 4,Alex Brown,Max Coon,Alex Brown,6-1,6,1,1,0,Completed,true,false,false
+UA005072,27 Mar 22,7,St Mary's,Royal Ave,No. 1,Finn Whitson,Caleb Jackson-Wright,Caleb Jackson-Wright,4-6,4,6,0,1,Completed,true,false,false
+UA005072,27 Mar 22,7,St Mary's,Royal Ave,No. 2,Kenneth Yeung,Harry Toomey,Kenneth Yeung,6-0,6,0,1,0,Completed,true,false,false
+UA005072,27 Mar 22,7,St Mary's,Royal Ave,No. 3,Josh Lin,Max Chruszcz,Josh Lin,6-3,6,3,1,0,Completed,true,false,true
+UA005072,27 Mar 22,7,St Mary's,Royal Ave,No. 4,Finley Ward,Owen Yu,Finley Ward,6-1,6,1,1,0,Completed,true,false,true
+UA005073,27 Mar 22,7,GPHC 1,Dendy Park,No. 1,Zach Ilias,Joseph James Braithwaite,Joseph James Braithwaite,4-6,4,6,0,1,Completed,true,false,false
+UA005073,27 Mar 22,7,GPHC 1,Dendy Park,No. 2,Conor Boussioutas,Noam Barel,Conor Boussioutas,7-6,7,6,1,0,Completed,true,false,false
+UA005073,27 Mar 22,7,GPHC 1,Dendy Park,No. 3,Katya Bagaric,Cooper Follett,Cooper Follett,1-6,1,6,0,1,Completed,true,false,false
+UA005073,27 Mar 22,7,GPHC 1,Dendy Park,No. 4,Zach Tarrant,Jackson Trigger,Jackson Trigger,4-6,4,6,0,1,Completed,true,false,false
+UA005074,27 Mar 22,7,GPHC 2,BLTC 2,No. 1,Leo Motyl-Coverdale,Stevan Dakic,Stevan Dakic,2-6,2,6,0,1,Completed,true,false,false
+UA005074,27 Mar 22,7,GPHC 2,BLTC 2,No. 2,Ryan Nottle,Petar Kocic,Ryan Nottle,6-1,6,1,1,0,Completed,true,false,false
+UA005074,27 Mar 22,7,GPHC 2,BLTC 2,No. 3,Nicolo Mirabella,Olivia Foster,Nicolo Mirabella,6-2,6,2,1,0,Completed,true,false,false
+UA005074,27 Mar 22,7,GPHC 2,BLTC 2,No. 4,Will Mirams,[Unnamed player — TROLS UA005074 away code 4],Will Mirams,6-0,6,0,1,0,Completed,false,false,false
+UA005081,03 Apr 22,8,BLTC 2,BLTC 1,No. 1,George Fennessy,Harrison Tzounos,Harrison Tzounos,0-6,0,6,0,1,Completed,true,false,false
+UA005081,03 Apr 22,8,BLTC 2,BLTC 1,No. 2,Kensei Golec,Davis Nguyen,Davis Nguyen,4-6,4,6,0,1,Completed,true,false,false
+UA005081,03 Apr 22,8,BLTC 2,BLTC 1,No. 3,Justin Le,Sebastian Brown,Sebastian Brown,1-6,1,6,0,1,Completed,true,true,false
+UA005081,03 Apr 22,8,BLTC 2,BLTC 1,No. 4,Petar Kocic,Alex Brown,Alex Brown,2-6,2,6,0,1,Completed,true,false,false
+UA005082,03 Apr 22,8,Dendy Park,St Mary's,No. 1,Joseph James Braithwaite,Finn Whitson,Joseph James Braithwaite,6-1,6,1,1,0,Completed,true,false,false
+UA005082,03 Apr 22,8,Dendy Park,St Mary's,No. 2,Noam Barel,Kenneth Yeung,Kenneth Yeung,2-6,2,6,0,1,Completed,true,false,false
+UA005082,03 Apr 22,8,Dendy Park,St Mary's,No. 3,Cooper Follett,Josh Lin,Cooper Follett,6-4,6,4,1,0,Completed,true,false,false
+UA005082,03 Apr 22,8,Dendy Park,St Mary's,No. 4,Jackson Trigger,Finley Ward,Jackson Trigger,6-1,6,1,1,0,Completed,true,false,false
+UA005083,03 Apr 22,8,GPHC 2,St Joan of Arc,No. 1,Leo Motyl-Coverdale,Max Zhou,Max Zhou,4-6,4,6,0,1,Completed,true,false,false
+UA005083,03 Apr 22,8,GPHC 2,St Joan of Arc,No. 2,Ryan Nottle,Kelly Allen,Kelly Allen,4-6,4,6,0,1,Completed,true,false,false
+UA005083,03 Apr 22,8,GPHC 2,St Joan of Arc,No. 3,Kai Rogerson,Max Coon,Max Coon,5-7,5,7,0,1,Completed,true,false,false
+UA005083,03 Apr 22,8,GPHC 2,St Joan of Arc,No. 4,Oscar Roseman,Max Moscati,Oscar Roseman,6-2,6,2,1,0,Completed,true,true,false
+UA005084,03 Apr 22,8,GPHC 1,Royal Ave,No. 1,Zach Ilias,Caleb Jackson-Wright,Zach Ilias,6-0,6,0,1,0,Completed,true,false,false
+UA005084,03 Apr 22,8,GPHC 1,Royal Ave,No. 2,Conor Boussioutas,Harry Toomey,Harry Toomey,6-7,6,7,0,1,Completed,true,false,false
+UA005084,03 Apr 22,8,GPHC 1,Royal Ave,No. 3,Katya Bagaric,William Farrugia,William Farrugia,0-6,0,6,0,1,Completed,true,false,false
+UA005084,03 Apr 22,8,GPHC 1,Royal Ave,No. 4,Zach Tarrant,Jack Vakrinos,Jack Vakrinos,3-6,3,6,0,1,Completed,true,false,false
+UA005091,01 May 22,9,BLTC 1,GPHC 1,No. 1,Harrison Tzounos,Zach Ilias,Zach Ilias,4-6,4,6,0,1,Completed,true,false,false
+UA005091,01 May 22,9,BLTC 1,GPHC 1,No. 2,Davis Nguyen,Conor Boussioutas,Davis Nguyen,6-0,6,0,1,0,Completed,true,false,false
+UA005091,01 May 22,9,BLTC 1,GPHC 1,No. 3,Sebastian Brown,Katya Bagaric,Sebastian Brown,6-4,6,4,1,0,Completed,true,false,false
+UA005091,01 May 22,9,BLTC 1,GPHC 1,No. 4,Alex Brown,Zach Tarrant,Alex Brown,6-1,6,1,1,0,Completed,true,false,false
+UA005093,01 May 22,9,St Joan of Arc,Dendy Park,No. 1,Max Zhou,Cooper Follett,Cooper Follett,4-6,4,6,0,1,Completed,true,false,false
+UA005093,01 May 22,9,St Joan of Arc,Dendy Park,No. 2,Max Coon,Jackson Trigger,Jackson Trigger,6-7,6,7,0,1,Completed,true,false,false
+UA005093,01 May 22,9,St Joan of Arc,Dendy Park,No. 3,Felix Cao,Rocco Theuna,Rocco Theuna,1-6,1,6,0,1,Completed,true,true,true
+UA005093,01 May 22,9,St Joan of Arc,Dendy Park,No. 4,Jesse Zhang,Slade Caldwell,Jesse Zhang,7-5,7,5,1,0,Completed,true,false,true
+UA005094,01 May 22,9,Royal Ave,GPHC 2,No. 1,Caleb Jackson-Wright,Leo Motyl-Coverdale,Caleb Jackson-Wright,6-2,6,2,1,0,Completed,true,false,false
+UA005094,01 May 22,9,Royal Ave,GPHC 2,No. 2,Harry Toomey,Ryan Nottle,Harry Toomey,6-0,6,0,1,0,Completed,true,false,false
+UA005094,01 May 22,9,Royal Ave,GPHC 2,No. 3,Mia Hilaris,Kai Rogerson,Mia Hilaris,6-2,6,2,1,0,Completed,true,false,false
+UA005094,01 May 22,9,Royal Ave,GPHC 2,No. 4,Gideon Gomes,Oscar Roseman,Gideon Gomes,6-1,6,1,1,0,Completed,true,false,true
+UA005101,08 May 22,10,GPHC 2,BLTC 1,No. 1,Hannah Croft,Harrison Tzounos,Harrison Tzounos,3-6,3,6,0,1,Completed,true,true,false
+UA005101,08 May 22,10,GPHC 2,BLTC 1,No. 2,Jem Danacher,Davis Nguyen,Davis Nguyen,2-6,2,6,0,1,Completed,true,true,false
+UA005101,08 May 22,10,GPHC 2,BLTC 1,No. 3,Kai Rogerson,Sebastian Brown,Kai Rogerson,7-5,7,5,1,0,Completed,true,false,false
+UA005101,08 May 22,10,GPHC 2,BLTC 1,No. 4,Nicolo Mirabella,Alex Brown,Alex Brown,2-6,2,6,0,1,Completed,true,false,false
+UA005102,08 May 22,10,GPHC 1,St Mary's,No. 1,Zach Ilias,Finn Whitson,Zach Ilias,6-1,6,1,1,0,Completed,true,false,false
+UA005102,08 May 22,10,GPHC 1,St Mary's,No. 2,Conor Boussioutas,Kenneth Yeung,Kenneth Yeung,0-6,0,6,0,1,Completed,true,false,false
+UA005102,08 May 22,10,GPHC 1,St Mary's,No. 3,Katya Bagaric,Josh Lin,Josh Lin,4-6,4,6,0,1,Completed,true,false,false
+UA005102,08 May 22,10,GPHC 1,St Mary's,No. 4,Zach Tarrant,Finley Ward,Zach Tarrant,7-5,7,5,1,0,Completed,true,false,false
+UA005103,08 May 22,10,BLTC 2,St Joan of Arc,No. 1,George Fennessy,Kelly Allen,Kelly Allen,2-6,2,6,0,1,Completed,true,false,false
+UA005103,08 May 22,10,BLTC 2,St Joan of Arc,No. 2,Stevan Dakic,Max Coon,Stevan Dakic,6-1,6,1,1,0,Completed,true,false,false
+UA005103,08 May 22,10,BLTC 2,St Joan of Arc,No. 3,Olivia Foster,Max Moscati,Olivia Foster,7-5,7,5,1,0,Completed,true,false,false
+UA005103,08 May 22,10,BLTC 2,St Joan of Arc,No. 4,Petar Kocic,Boaz Rarman,Boaz Rarman,3-6,3,6,0,1,Completed,true,false,true
+UA005104,08 May 22,10,Dendy Park,Royal Ave,No. 1,Noam Barel,Caleb Jackson-Wright,Noam Barel,6-4,6,4,1,0,Completed,true,false,false
+UA005104,08 May 22,10,Dendy Park,Royal Ave,No. 2,Cooper Follett,Harry Toomey,Harry Toomey,0-6,0,6,0,1,Completed,true,false,false
+UA005104,08 May 22,10,Dendy Park,Royal Ave,No. 3,Jackson Trigger,Jack Vakrinos,Jackson Trigger,6-4,6,4,1,0,Completed,true,false,false
+UA005104,08 May 22,10,Dendy Park,Royal Ave,No. 4,Slade Caldwell,Gideon Gomes,Gideon Gomes,1-6,1,6,0,1,Completed,true,true,false
+UA005111,15 May 22,11,BLTC 1,Dendy Park,No. 1,[Unnamed player — TROLS UA005111 home code 1],Joseph James Braithwaite,Joseph James Braithwaite,0-6,0,6,0,1,Completed,false,false,false
+UA005111,15 May 22,11,BLTC 1,Dendy Park,No. 2,Davis Nguyen,Noam Barel,Davis Nguyen,6-2,6,2,1,0,Completed,true,false,false
+UA005111,15 May 22,11,BLTC 1,Dendy Park,No. 3,Sebastian Brown,Cooper Follett,Sebastian Brown,6-4,6,4,1,0,Completed,true,false,false
+UA005111,15 May 22,11,BLTC 1,Dendy Park,No. 4,Alex Brown,Jackson Trigger,Jackson Trigger,4-6,4,6,0,1,Completed,true,false,false
+UA005114,15 May 22,11,Royal Ave,BLTC 2,No. 1,Caleb Jackson-Wright,George Fennessy,Caleb Jackson-Wright,6-0,6,0,1,0,Completed,true,false,false
+UA005114,15 May 22,11,Royal Ave,BLTC 2,No. 2,Harry Toomey,Stevan Dakic,Stevan Dakic,1-6,1,6,0,1,Completed,true,false,false
+UA005114,15 May 22,11,Royal Ave,BLTC 2,No. 3,William Farrugia,Olivia Foster,William Farrugia,6-0,6,0,1,0,Completed,true,false,false
+UA005114,15 May 22,11,Royal Ave,BLTC 2,No. 4,Gideon Gomes,Petar Kocic,Gideon Gomes,6-3,6,3,1,0,Completed,true,false,false
+UA005121,22 May 22,12,Royal Ave,St Joan of Arc,No. 1,Harry Toomey,Max Zhou,Harry Toomey,7-6,7,6,1,0,Completed,true,false,false
+UA005121,22 May 22,12,Royal Ave,St Joan of Arc,No. 2,Mia Hilaris,Kevin Qian,Mia Hilaris,6-3,6,3,1,0,Completed,true,false,false
+UA005121,22 May 22,12,Royal Ave,St Joan of Arc,No. 3,William Farrugia,Max Coon,William Farrugia,6-0,6,0,1,0,Completed,true,false,false
+UA005121,22 May 22,12,Royal Ave,St Joan of Arc,No. 4,Jack Vakrinos,Felix Cao,Jack Vakrinos,6-1,6,1,1,0,Completed,true,false,true
+UA005122,22 May 22,12,GPHC 2,GPHC 1,No. 1,Leo Motyl-Coverdale,Zach Ilias,Zach Ilias,1-6,1,6,0,1,Completed,true,false,false
+UA005122,22 May 22,12,GPHC 2,GPHC 1,No. 2,Ryan Nottle,Conor Boussioutas,Conor Boussioutas,2-6,2,6,0,1,Completed,true,false,false
+UA005122,22 May 22,12,GPHC 2,GPHC 1,No. 3,Kai Rogerson,Katya Bagaric,Kai Rogerson,6-3,6,3,1,0,Completed,true,false,false
+UA005122,22 May 22,12,GPHC 2,GPHC 1,No. 4,Oscar Roseman,Zach Tarrant,Oscar Roseman,6-2,6,2,1,0,Completed,true,true,false
+UA005123,22 May 22,12,BLTC 2,Dendy Park,No. 1,George Fennessy,Joseph James Braithwaite,Joseph James Braithwaite,0-6,0,6,0,1,Completed,true,false,false
+UA005123,22 May 22,12,BLTC 2,Dendy Park,No. 2,Kensei Golec,Noam Barel,Noam Barel,3-6,3,6,0,1,Completed,true,false,false
+UA005123,22 May 22,12,BLTC 2,Dendy Park,No. 3,Olivia Foster,Cooper Follett,Cooper Follett,0-6,0,6,0,1,Completed,true,false,false
+UA005123,22 May 22,12,BLTC 2,Dendy Park,No. 4,Petar Kocic,[Unnamed player — TROLS UA005123 away code 4],Petar Kocic,6-0,6,0,1,0,Completed,false,false,false
+UA005124,22 May 22,12,St Mary's,BLTC 1,No. 1,Finn Whitson,Davis Nguyen,Davis Nguyen,1-6,1,6,0,1,Completed,true,false,false
+UA005124,22 May 22,12,St Mary's,BLTC 1,No. 2,[Unnamed player — TROLS UA005124 home code 2],Sebastian Brown,Sebastian Brown,0-6,0,6,0,1,Completed,false,false,false
+UA005124,22 May 22,12,St Mary's,BLTC 1,No. 3,Josh Lin,Alex Brown,Alex Brown,2-6,2,6,0,1,Completed,true,false,false
+UA005124,22 May 22,12,St Mary's,BLTC 1,No. 4,Finley Ward,Daniel Murphy,Daniel Murphy,3-6,3,6,0,1,Completed,true,false,true
+UA005132,29 May 22,13,BLTC 1,Royal Ave,No. 1,Harrison Tzounos,Caleb Jackson-Wright,Harrison Tzounos,6-1,6,1,1,0,Completed,true,false,false
+UA005132,29 May 22,13,BLTC 1,Royal Ave,No. 2,Davis Nguyen,Harry Toomey,Davis Nguyen,6-4,6,4,1,0,Completed,true,false,false
+UA005132,29 May 22,13,BLTC 1,Royal Ave,No. 3,Sebastian Brown,William Farrugia,Sebastian Brown,6-2,6,2,1,0,Completed,true,false,false
+UA005132,29 May 22,13,BLTC 1,Royal Ave,No. 4,Alex Brown,Jack Vakrinos,Jack Vakrinos,3-6,3,6,0,1,Completed,true,false,false
+UA005134,29 May 22,13,GPHC 1,BLTC 2,No. 1,Zach Ilias,Stevan Dakic,Zach Ilias,6-0,6,0,1,0,Completed,true,false,false
+UA005134,29 May 22,13,GPHC 1,BLTC 2,No. 2,Conor Boussioutas,Petar Kocic,Conor Boussioutas,6-1,6,1,1,0,Completed,true,false,false
+UA005134,29 May 22,13,GPHC 1,BLTC 2,No. 3,Katya Bagaric,Olivia Foster,Katya Bagaric,6-4,6,4,1,0,Completed,true,false,false
+UA005134,29 May 22,13,GPHC 1,BLTC 2,No. 4,Hannah Croft,Justin Le,Hannah Croft,6-2,6,2,1,0,Completed,true,false,true
+UA005301,,16,BLTC 1,GPHC 1,No. 1,Harrison Tzounos,Zach Ilias,Zach Ilias,4-6,4,6,0,1,Completed,true,false,false
+UA005301,,16,BLTC 1,GPHC 1,No. 2,Davis Nguyen,Conor Boussioutas,Davis Nguyen,6-2,6,2,1,0,Completed,true,false,false
+UA005301,,16,BLTC 1,GPHC 1,No. 3,Sebastian Brown,Katya Bagaric,Sebastian Brown,6-0,6,0,1,0,Completed,true,false,false
+UA005301,,16,BLTC 1,GPHC 1,No. 4,Alex Brown,Zach Tarrant,Alex Brown,6-3,6,3,1,0,Completed,true,false,false
+UA005302,,16,Royal Ave,Dendy Park,No. 1,Caleb Jackson-Wright,Joseph James Braithwaite,Joseph James Braithwaite,1-6,1,6,0,1,Completed,true,false,false
+UA005302,,16,Royal Ave,Dendy Park,No. 2,Harry Toomey,Noam Barel,Harry Toomey,6-2,6,2,1,0,Completed,true,false,false
+UA005302,,16,Royal Ave,Dendy Park,No. 3,Mia Hilaris,Cooper Follett,Cooper Follett,5-7,5,7,0,1,Completed,true,false,false
+UA005302,,16,Royal Ave,Dendy Park,No. 4,Gideon Gomes,Jackson Trigger,Jackson Trigger,2-6,2,6,0,1,Completed,true,false,false
+UA005321,,17,BLTC 1,Dendy Park,No. 1,Harrison Tzounos,Joseph James Braithwaite,Harrison Tzounos,6-3,6,3,1,0,Completed,true,false,false
+UA005321,,17,BLTC 1,Dendy Park,No. 2,Davis Nguyen,Noam Barel,Davis Nguyen,6-2,6,2,1,0,Completed,true,false,false
+UA005321,,17,BLTC 1,Dendy Park,No. 3,Sebastian Brown,Cooper Follett,Sebastian Brown,6-3,6,3,1,0,Completed,true,false,false
+UA005321,,17,BLTC 1,Dendy Park,No. 4,Alex Brown,Jackson Trigger,Jackson Trigger,5-7,5,7,0,1,Completed,true,false,false

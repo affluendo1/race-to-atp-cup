@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA31-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2022",
+  "season_id": "UA31",
+  "season_label": "Spring 2022",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Victory Park",
+      "wins": 13,
+      "points": 122,
+      "percentage": 236.92,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Louis de Mont",
+      "wins": 12,
+      "points": 108,
+      "percentage": 155.64,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Caulfield Rec",
+      "wins": 10,
+      "points": 95,
+      "percentage": 153.9,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Royal Ave",
+      "wins": 7,
+      "points": 75,
+      "percentage": 115.6,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Aspendale",
+      "wins": 5,
+      "points": 53,
+      "percentage": 72.84,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Glen Eira",
+      "wins": 3,
+      "points": 41,
+      "percentage": 69.73,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Le Page",
+      "wins": 4,
+      "points": 39,
+      "percentage": 62.44,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal South Yarra",
+      "wins": 2,
+      "points": 27,
+      "percentage": 50.78,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA31-UA014",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

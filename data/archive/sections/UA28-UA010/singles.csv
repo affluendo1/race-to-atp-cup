@@ -1,0 +1,137 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA010011,31 Jan 21,1,Royal South Yarra,St Mary's,No. 1,Boston Moran,Finn Whitson,Finn Whitson,1-6,1,6,0,1,Completed,true,false,false
+UA010011,31 Jan 21,1,Royal South Yarra,St Mary's,No. 2,George Banks,Josh Lin,Josh Lin,2-6,2,6,0,1,Completed,true,false,false
+UA010011,31 Jan 21,1,Royal South Yarra,St Mary's,No. 3,Tom Hunt,Kenneth Yeung,Kenneth Yeung,0-6,0,6,0,1,Completed,true,true,false
+UA010011,31 Jan 21,1,Royal South Yarra,St Mary's,No. 4,Oscar King,Finley Ward,Finley Ward,0-6,0,6,0,1,Completed,true,true,false
+UA010013,31 Jan 21,1,Hurlingham Park,Le Page,No. 1,Hugh De Toit,Chanithu Wickramasinghe,Hugh De Toit,6-3,6,3,1,0,Completed,true,false,false
+UA010013,31 Jan 21,1,Hurlingham Park,Le Page,No. 2,Dylan Pfahl,Shrish Kumaran,Dylan Pfahl,6-0,6,0,1,0,Completed,true,false,false
+UA010013,31 Jan 21,1,Hurlingham Park,Le Page,No. 3,Eamon Mee Kost,Yi Zhou,Eamon Mee Kost,6-4,6,4,1,0,Completed,true,false,false
+UA010013,31 Jan 21,1,Hurlingham Park,Le Page,No. 4,Flynn Megahan,Mitchell Campbell,Flynn Megahan,6-1,6,1,1,0,Completed,true,false,false
+UA010014,31 Jan 21,1,St James,Murrumbeena,No. 1,Isaac Walsh,Dhruv Tomar,Dhruv Tomar,1-6,1,6,0,1,Completed,true,false,false
+UA010014,31 Jan 21,1,St James,Murrumbeena,No. 2,Mark Cahill,Thomas Moore,Thomas Moore,1-6,1,6,0,1,Completed,true,false,false
+UA010014,31 Jan 21,1,St James,Murrumbeena,No. 3,Will Hardwick,Bailey Loke,Bailey Loke,0-6,0,6,0,1,Completed,true,false,false
+UA010014,31 Jan 21,1,St James,Murrumbeena,No. 4,Tom Webb,Oliver Huggins,Tom Webb,6-4,6,4,1,0,Completed,true,false,false
+UA010021,07 Feb 21,2,Murrumbeena,Royal South Yarra,No. 1,Dhruv Tomar,Boston Moran,Dhruv Tomar,6-2,6,2,1,0,Completed,true,false,false
+UA010021,07 Feb 21,2,Murrumbeena,Royal South Yarra,No. 2,Thomas Moore,Tom Park,Thomas Moore,6-1,6,1,1,0,Completed,true,false,false
+UA010021,07 Feb 21,2,Murrumbeena,Royal South Yarra,No. 3,Bailey Loke,Arthur Blythe,Bailey Loke,6-0,6,0,1,0,Completed,true,false,false
+UA010021,07 Feb 21,2,Murrumbeena,Royal South Yarra,No. 4,Oliver Huggins,Freddie Cooper,Oliver Huggins,7-5,7,5,1,0,Completed,true,false,true
+UA010022,07 Feb 21,2,St Mary's,Lauriston,No. 1,Finn Whitson,Kate Nguyen,Finn Whitson,7-5,7,5,1,0,Completed,true,false,false
+UA010022,07 Feb 21,2,St Mary's,Lauriston,No. 2,Josh Lin,Naineishia Kota,Josh Lin,7-5,7,5,1,0,Completed,true,false,false
+UA010022,07 Feb 21,2,St Mary's,Lauriston,No. 3,Kenneth Yeung,Phoebe Rodda,Kenneth Yeung,6-0,6,0,1,0,Completed,true,false,false
+UA010022,07 Feb 21,2,St Mary's,Lauriston,No. 4,Lucas Hornblower,John Paul Suntosa,Lucas Hornblower,6-2,6,2,1,0,Completed,true,true,false
+UA010024,07 Feb 21,2,Le Page,St James,No. 1,Chanithu Wickramasinghe,Isaac Walsh,Isaac Walsh,1-6,1,6,0,1,Completed,true,false,false
+UA010024,07 Feb 21,2,Le Page,St James,No. 2,Yi Zhou,Mark Cahill,Mark Cahill,5-7,5,7,0,1,Completed,true,false,false
+UA010024,07 Feb 21,2,Le Page,St James,No. 3,Smail Chen,Will Hardwick,Will Hardwick,2-6,2,6,0,1,Completed,true,false,false
+UA010024,07 Feb 21,2,Le Page,St James,No. 4,Mitchell Campbell,Tom Webb,Tom Webb,3-6,3,6,0,1,Completed,true,false,false
+UA010042,21 Feb 21,4,Le Page,Lauriston,No. 1,Chanithu Wickramasinghe,Kate Nguyen,Chanithu Wickramasinghe,6-3,6,3,1,0,Completed,true,false,false
+UA010042,21 Feb 21,4,Le Page,Lauriston,No. 2,Shrish Kumaran,Phoebe Rodda,Phoebe Rodda,0-6,0,6,0,1,Completed,true,false,false
+UA010042,21 Feb 21,4,Le Page,Lauriston,No. 3,Yi Zhou,John Paul Suntosa,Yi Zhou,7-5,7,5,1,0,Completed,true,false,false
+UA010042,21 Feb 21,4,Le Page,Lauriston,No. 4,Smail Chen,Tate Nguyen,Tate Nguyen,0-6,0,6,0,1,Completed,true,false,false
+UA010043,21 Feb 21,4,Murrumbeena,Hurlingham Park,No. 1,Dhruv Tomar,Hugh De Toit,Dhruv Tomar,6-3,6,3,1,0,Completed,true,false,false
+UA010043,21 Feb 21,4,Murrumbeena,Hurlingham Park,No. 2,Thomas Moore,Dylan Pfahl,Thomas Moore,6-2,6,2,1,0,Completed,true,false,false
+UA010043,21 Feb 21,4,Murrumbeena,Hurlingham Park,No. 3,Bailey Loke,Eamon Mee Kost,Eamon Mee Kost,1-6,1,6,0,1,Completed,true,false,false
+UA010043,21 Feb 21,4,Murrumbeena,Hurlingham Park,No. 4,Oliver Huggins,Sam O'Neil,Sam O'Neil,3-6,3,6,0,1,Completed,true,false,false
+UA010044,21 Feb 21,4,St Mary's,St James,No. 1,Finn Whitson,Isaac Walsh,Isaac Walsh,5-7,5,7,0,1,Completed,true,false,false
+UA010044,21 Feb 21,4,St Mary's,St James,No. 2,Josh Lin,Mark Cahill,Josh Lin,6-4,6,4,1,0,Completed,true,false,false
+UA010044,21 Feb 21,4,St Mary's,St James,No. 3,Kenneth Yeung,Will Hardwick,Kenneth Yeung,6-0,6,0,1,0,Completed,true,false,false
+UA010044,21 Feb 21,4,St Mary's,St James,No. 4,Finley Ward,Tom Webb,Finley Ward,6-0,6,0,1,0,Completed,true,false,false
+UA010051,28 Feb 21,5,Hurlingham Park,St James,No. 1,Hugh De Toit,Isaac Walsh,Hugh De Toit,6-1,6,1,1,0,Completed,true,false,false
+UA010051,28 Feb 21,5,Hurlingham Park,St James,No. 2,Dylan Pfahl,Mark Cahill,Dylan Pfahl,6-0,6,0,1,0,Completed,true,false,false
+UA010051,28 Feb 21,5,Hurlingham Park,St James,No. 3,Eamon Mee Kost,Tom Webb,Eamon Mee Kost,6-1,6,1,1,0,Completed,true,false,false
+UA010051,28 Feb 21,5,Hurlingham Park,St James,No. 4,Sam O'Neil,Will Hardwick,Sam O'Neil,6-2,6,2,1,0,Completed,true,false,false
+UA010052,28 Feb 21,5,Murrumbeena,Le Page,No. 1,Dhruv Tomar,Shrish Kumaran,Dhruv Tomar,6-1,6,1,1,0,Completed,true,false,false
+UA010052,28 Feb 21,5,Murrumbeena,Le Page,No. 2,Thomas Moore,Yi Zhou,Thomas Moore,6-1,6,1,1,0,Completed,true,false,false
+UA010052,28 Feb 21,5,Murrumbeena,Le Page,No. 3,Bailey Loke,Smail Chen,Bailey Loke,6-1,6,1,1,0,Completed,true,false,false
+UA010052,28 Feb 21,5,Murrumbeena,Le Page,No. 4,Oliver Huggins,Mitchell Campbell,Oliver Huggins,6-2,6,2,1,0,Completed,true,false,false
+UA010054,28 Feb 21,5,Royal South Yarra,Lauriston,No. 1,Boston Moran,Kate Nguyen,Kate Nguyen,0-6,0,6,0,1,Completed,true,false,false
+UA010054,28 Feb 21,5,Royal South Yarra,Lauriston,No. 2,George Banks,Naineishia Kota,Naineishia Kota,0-6,0,6,0,1,Completed,true,false,false
+UA010054,28 Feb 21,5,Royal South Yarra,Lauriston,No. 3,Freddie Cooper,Phoebe Rodda,Phoebe Rodda,0-6,0,6,0,1,Completed,true,false,false
+UA010054,28 Feb 21,5,Royal South Yarra,Lauriston,No. 4,Adrian Bosaru,Tate Nguyen,Adrian Bosaru,6-2,6,2,1,0,Completed,true,false,false
+UA010061,14 Mar 21,6,Lauriston,Hurlingham Park,No. 1,Kate Nguyen,Hugh De Toit,Hugh De Toit,6-7,6,7,0,1,Completed,true,false,false
+UA010061,14 Mar 21,6,Lauriston,Hurlingham Park,No. 2,Naineishia Kota,Flynn Wilson,Flynn Wilson,5-7,5,7,0,1,Completed,true,false,true
+UA010061,14 Mar 21,6,Lauriston,Hurlingham Park,No. 3,Phoebe Rodda,Jake Laurie,Jake Laurie,2-6,2,6,0,1,Completed,true,false,true
+UA010061,14 Mar 21,6,Lauriston,Hurlingham Park,No. 4,John Paul Suntosa,Tommy Barton,John Paul Suntosa,6-2,6,2,1,0,Completed,true,false,true
+UA010062,14 Mar 21,6,St James,Royal South Yarra,No. 1,Isaac Walsh,Tom Park,Isaac Walsh,6-2,6,2,1,0,Completed,true,false,false
+UA010062,14 Mar 21,6,St James,Royal South Yarra,No. 2,Mark Cahill,Gianni Walker,Mark Cahill,7-5,7,5,1,0,Completed,true,false,false
+UA010062,14 Mar 21,6,St James,Royal South Yarra,No. 3,Will Hardwick,Adrian Bosaru,Will Hardwick,7-5,7,5,1,0,Completed,true,false,false
+UA010062,14 Mar 21,6,St James,Royal South Yarra,No. 4,Tom Webb,Freddie Cooper,Tom Webb,6-0,6,0,1,0,Completed,true,false,false
+UA010064,14 Mar 21,6,St Mary's,Murrumbeena,No. 1,Finn Whitson,Dhruv Tomar,Finn Whitson,6-2,6,2,1,0,Completed,true,false,false
+UA010064,14 Mar 21,6,St Mary's,Murrumbeena,No. 2,Josh Lin,Thomas Moore,Thomas Moore,6-7,6,7,0,1,Completed,true,false,false
+UA010064,14 Mar 21,6,St Mary's,Murrumbeena,No. 3,Kenneth Yeung,Bailey Loke,Kenneth Yeung,6-0,6,0,1,0,Completed,true,false,false
+UA010064,14 Mar 21,6,St Mary's,Murrumbeena,No. 4,Lucas Hornblower,Oliver Huggins,Lucas Hornblower,6-3,6,3,1,0,Completed,true,true,false
+UA010072,21 Mar 21,7,Lauriston,St James,No. 1,Kate Nguyen,Isaac Walsh,Isaac Walsh,3-6,3,6,0,1,Completed,true,false,false
+UA010072,21 Mar 21,7,Lauriston,St James,No. 2,Cate Griffin,Mark Cahill,Mark Cahill,4-6,4,6,0,1,Completed,true,true,false
+UA010072,21 Mar 21,7,Lauriston,St James,No. 3,Phoebe Rodda,Will Hardwick,Will Hardwick,4-6,4,6,0,1,Completed,true,false,false
+UA010072,21 Mar 21,7,Lauriston,St James,No. 4,Tate Nguyen,Tom Webb,Tom Webb,5-7,5,7,0,1,Completed,true,false,false
+UA010074,21 Mar 21,7,Le Page,St Mary's,No. 1,Chanithu Wickramasinghe,Josh Lin,Josh Lin,2-6,2,6,0,1,Completed,true,false,false
+UA010074,21 Mar 21,7,Le Page,St Mary's,No. 2,Shrish Kumaran,Kenneth Yeung,Kenneth Yeung,1-6,1,6,0,1,Completed,true,false,false
+UA010074,21 Mar 21,7,Le Page,St Mary's,No. 3,Smail Chen,Lucas Hornblower,Lucas Hornblower,0-6,0,6,0,1,Completed,true,false,true
+UA010074,21 Mar 21,7,Le Page,St Mary's,No. 4,Mitchell Campbell,Hamish Ward,Hamish Ward,5-7,5,7,0,1,Completed,true,false,true
+UA010081,28 Mar 21,8,St Mary's,Royal South Yarra,No. 1,Finn Whitson,Boston Moran,Finn Whitson,6-2,6,2,1,0,Completed,true,false,false
+UA010081,28 Mar 21,8,St Mary's,Royal South Yarra,No. 2,Josh Lin,George Banks,Josh Lin,6-3,6,3,1,0,Completed,true,false,false
+UA010081,28 Mar 21,8,St Mary's,Royal South Yarra,No. 3,Kenneth Yeung,Gianni Walker,Kenneth Yeung,6-0,6,0,1,0,Completed,true,false,false
+UA010081,28 Mar 21,8,St Mary's,Royal South Yarra,No. 4,Finley Ward,Freddie Cooper,Finley Ward,6-2,6,2,1,0,Completed,true,false,false
+UA010083,28 Mar 21,8,Le Page,Hurlingham Park,No. 1,Chanithu Wickramasinghe,Hugh De Toit,Hugh De Toit,5-7,5,7,0,1,Completed,true,false,false
+UA010083,28 Mar 21,8,Le Page,Hurlingham Park,No. 2,Shrish Kumaran,Dylan Pfahl,Dylan Pfahl,3-6,3,6,0,1,Completed,true,false,false
+UA010083,28 Mar 21,8,Le Page,Hurlingham Park,No. 3,Yi Zhou,Eamon Mee Kost,Eamon Mee Kost,3-6,3,6,0,1,Completed,true,false,false
+UA010083,28 Mar 21,8,Le Page,Hurlingham Park,No. 4,Smail Chen,Sam O'Neil,Sam O'Neil,4-6,4,6,0,1,Completed,true,false,false
+UA010084,28 Mar 21,8,Murrumbeena,St James,No. 1,Dhruv Tomar,Isaac Walsh,Dhruv Tomar,6-1,6,1,1,0,Completed,true,false,false
+UA010084,28 Mar 21,8,Murrumbeena,St James,No. 2,Bailey Loke,Mark Cahill,Bailey Loke,7-6,7,6,1,0,Completed,true,false,false
+UA010084,28 Mar 21,8,Murrumbeena,St James,No. 3,Johan Cunningham,Tom Webb,Johan Cunningham,6-1,6,1,1,0,Completed,true,false,false
+UA010084,28 Mar 21,8,Murrumbeena,St James,No. 4,Oliver Huggins,Barney Smith,Oliver Huggins,6-4,6,4,1,0,Completed,true,false,true
+UA010091,02 May 21,9,Royal South Yarra,Murrumbeena,No. 1,Boston Moran,Dhruv Tomar,Dhruv Tomar,0-6,0,6,0,1,Completed,true,false,false
+UA010091,02 May 21,9,Royal South Yarra,Murrumbeena,No. 2,Tom Hunt,Thomas Moore,Thomas Moore,0-6,0,6,0,1,Completed,true,true,false
+UA010091,02 May 21,9,Royal South Yarra,Murrumbeena,No. 3,Gianni Walker,Bailey Loke,Bailey Loke,2-6,2,6,0,1,Completed,true,false,false
+UA010091,02 May 21,9,Royal South Yarra,Murrumbeena,No. 4,Adrian Bosaru,Johan Cunningham,Johan Cunningham,3-6,3,6,0,1,Completed,true,false,false
+UA010092,02 May 21,9,Lauriston,St Mary's,No. 1,Kate Nguyen,Finn Whitson,Kate Nguyen,6-3,6,3,1,0,Completed,true,false,false
+UA010092,02 May 21,9,Lauriston,St Mary's,No. 2,Naineishia Kota,Josh Lin,Josh Lin,4-6,4,6,0,1,Completed,true,false,false
+UA010092,02 May 21,9,Lauriston,St Mary's,No. 3,Phoebe Rodda,Finley Ward,Finley Ward,6-7,6,7,0,1,Completed,true,false,false
+UA010092,02 May 21,9,Lauriston,St Mary's,No. 4,Tate Nguyen,Lucas Hornblower,Tate Nguyen,6-4,6,4,1,0,Completed,true,false,true
+UA010094,02 May 21,9,St James,Le Page,No. 1,Isaac Walsh,Chanithu Wickramasinghe,Isaac Walsh,6-0,6,0,1,0,Completed,true,false,false
+UA010094,02 May 21,9,St James,Le Page,No. 2,Mark Cahill,Shrish Kumaran,Mark Cahill,6-3,6,3,1,0,Completed,true,false,false
+UA010094,02 May 21,9,St James,Le Page,No. 3,Will Hardwick,Yi Zhou,Will Hardwick,6-4,6,4,1,0,Completed,true,false,false
+UA010094,02 May 21,9,St James,Le Page,No. 4,Tom Webb,Joshua Tesler,Joshua Tesler,4-6,4,6,0,1,Completed,true,false,true
+UA010102,09 May 21,10,Murrumbeena,Lauriston,No. 1,Thomas Moore,Kate Nguyen,Kate Nguyen,3-6,3,6,0,1,Completed,true,false,false
+UA010102,09 May 21,10,Murrumbeena,Lauriston,No. 2,Bailey Loke,Phoebe Rodda,Phoebe Rodda,0-6,0,6,0,1,Completed,true,false,false
+UA010102,09 May 21,10,Murrumbeena,Lauriston,No. 3,Johan Cunningham,John Paul Suntosa,John Paul Suntosa,4-6,4,6,0,1,Completed,true,false,false
+UA010102,09 May 21,10,Murrumbeena,Lauriston,No. 4,Oliver Huggins,Tate Nguyen,Oliver Huggins,7-6,7,6,1,0,Completed,true,false,false
+UA010103,09 May 21,10,St Mary's,Hurlingham Park,No. 1,Finn Whitson,Hugh De Toit,Hugh De Toit,4-6,4,6,0,1,Completed,true,false,false
+UA010103,09 May 21,10,St Mary's,Hurlingham Park,No. 2,Josh Lin,Eamon Mee Kost,Josh Lin,6-4,6,4,1,0,Completed,true,false,false
+UA010103,09 May 21,10,St Mary's,Hurlingham Park,No. 3,Kenneth Yeung,Tommy Barton,Kenneth Yeung,6-0,6,0,1,0,Completed,true,false,true
+UA010103,09 May 21,10,St Mary's,Hurlingham Park,No. 4,Finley Ward,Veitel Lin,Finley Ward,6-2,6,2,1,0,Completed,true,false,true
+UA010112,16 May 21,11,Lauriston,Le Page,No. 1,Kate Nguyen,Shrish Kumaran,Kate Nguyen,7-6,7,6,1,0,Completed,true,false,false
+UA010112,16 May 21,11,Lauriston,Le Page,No. 2,Naineishia Kota,Yi Zhou,Naineishia Kota,6-3,6,3,1,0,Completed,true,false,false
+UA010112,16 May 21,11,Lauriston,Le Page,No. 3,Phoebe Rodda,Smail Chen,Phoebe Rodda,6-3,6,3,1,0,Completed,true,false,false
+UA010112,16 May 21,11,Lauriston,Le Page,No. 4,Tate Nguyen,Mitchell Campbell,Tate Nguyen,6-1,6,1,1,0,Completed,true,false,false
+UA010113,16 May 21,11,Hurlingham Park,Murrumbeena,No. 1,Hugh De Toit,Dhruv Tomar,Dhruv Tomar,2-6,2,6,0,1,Completed,true,false,false
+UA010113,16 May 21,11,Hurlingham Park,Murrumbeena,No. 2,Dylan Pfahl,Thomas Moore,Thomas Moore,3-6,3,6,0,1,Completed,true,false,false
+UA010113,16 May 21,11,Hurlingham Park,Murrumbeena,No. 3,Eamon Mee Kost,Bailey Loke,Bailey Loke,1-6,1,6,0,1,Completed,true,false,false
+UA010113,16 May 21,11,Hurlingham Park,Murrumbeena,No. 4,Sam O'Neil,Johan Cunningham,Sam O'Neil,6-2,6,2,1,0,Completed,true,false,false
+UA010114,16 May 21,11,St James,St Mary's,No. 1,Isaac Walsh,Finn Whitson,Isaac Walsh,6-4,6,4,1,0,Completed,true,false,false
+UA010114,16 May 21,11,St James,St Mary's,No. 2,Hamish Collopy,Josh Lin,Hamish Collopy,6-3,6,3,1,0,Completed,true,true,false
+UA010114,16 May 21,11,St James,St Mary's,No. 3,Will Hardwick,Kenneth Yeung,Kenneth Yeung,1-6,1,6,0,1,Completed,true,false,false
+UA010114,16 May 21,11,St James,St Mary's,No. 4,Tom Webb,Finley Ward,Finley Ward,4-6,4,6,0,1,Completed,true,false,false
+UA010121,23 May 21,12,St James,Hurlingham Park,No. 1,Isaac Walsh,Hugh De Toit,Isaac Walsh,6-3,6,3,1,0,Completed,true,false,false
+UA010121,23 May 21,12,St James,Hurlingham Park,No. 2,Mark Cahill,Dylan Pfahl,Dylan Pfahl,3-6,3,6,0,1,Completed,true,false,false
+UA010121,23 May 21,12,St James,Hurlingham Park,No. 3,Tom Webb,Sophie Pfahl,Sophie Pfahl,0-6,0,6,0,1,Completed,true,false,true
+UA010121,23 May 21,12,St James,Hurlingham Park,No. 4,Vaughn Bodnar,Tommy Barton,Vaughn Bodnar,6-1,6,1,1,0,Completed,true,true,true
+UA010122,23 May 21,12,Le Page,Murrumbeena,No. 1,Chanithu Wickramasinghe,Dhruv Tomar,Dhruv Tomar,1-6,1,6,0,1,Completed,true,false,false
+UA010122,23 May 21,12,Le Page,Murrumbeena,No. 2,Yi Zhou,Thomas Moore,Thomas Moore,0-6,0,6,0,1,Completed,true,false,false
+UA010122,23 May 21,12,Le Page,Murrumbeena,No. 3,Smail Chen,Bailey Loke,Bailey Loke,0-6,0,6,0,1,Completed,true,false,false
+UA010122,23 May 21,12,Le Page,Murrumbeena,No. 4,Mitchell Campbell,Johan Cunningham,Johan Cunningham,5-7,5,7,0,1,Completed,true,false,false
+UA010124,23 May 21,12,Lauriston,Royal South Yarra,No. 1,Naineishia Kota,Boston Moran,Naineishia Kota,6-4,6,4,1,0,Completed,true,false,false
+UA010124,23 May 21,12,Lauriston,Royal South Yarra,No. 2,Cate Griffin,Adrian Bosaru,Cate Griffin,6-2,6,2,1,0,Completed,true,true,false
+UA010124,23 May 21,12,Lauriston,Royal South Yarra,No. 3,Phoebe Rodda,Gianni Walker,Phoebe Rodda,6-0,6,0,1,0,Completed,true,false,false
+UA010124,23 May 21,12,Lauriston,Royal South Yarra,No. 4,Tate Nguyen,Dom Bongiorno,Tate Nguyen,6-1,6,1,1,0,Completed,true,false,true
+UA010301,,16,St Mary's,Lauriston,No. 1,Finn Whitson,Kate Nguyen,Kate Nguyen,2-6,2,6,0,1,Completed,true,false,false
+UA010301,,16,St Mary's,Lauriston,No. 2,Josh Lin,Naineishia Kota,Naineishia Kota,6-7,6,7,0,1,Completed,true,false,false
+UA010301,,16,St Mary's,Lauriston,No. 3,Kenneth Yeung,Phoebe Rodda,Kenneth Yeung,6-0,6,0,1,0,Completed,true,false,false
+UA010301,,16,St Mary's,Lauriston,No. 4,Hamish Ward,Tate Nguyen,Tate Nguyen,4-6,4,6,0,1,Completed,true,true,false
+UA010302,,16,Murrumbeena,Hurlingham Park,No. 1,Dhruv Tomar,Hugh De Toit,Dhruv Tomar,6-2,6,2,1,0,Completed,true,false,false
+UA010302,,16,Murrumbeena,Hurlingham Park,No. 2,Thomas Moore,Dylan Pfahl,Dylan Pfahl,3-4,3,4,0,1,Completed,false,false,false
+UA010302,,16,Murrumbeena,Hurlingham Park,No. 3,Bailey Loke,Eamon Mee Kost,Bailey Loke,6-4,6,4,1,0,Completed,true,false,false
+UA010302,,16,Murrumbeena,Hurlingham Park,No. 4,Johan Cunningham,Flynn Megahan,Flynn Megahan,0-6,0,6,0,1,Completed,true,false,false
+UA010321,,17,St Mary's,Murrumbeena,No. 1,Finn Whitson,Dhruv Tomar,Dhruv Tomar,6-7,6,7,0,1,Completed,true,false,false
+UA010321,,17,St Mary's,Murrumbeena,No. 2,Josh Lin,Thomas Moore,Thomas Moore,3-6,3,6,0,1,Completed,true,false,false
+UA010321,,17,St Mary's,Murrumbeena,No. 3,Kenneth Yeung,Bailey Loke,Kenneth Yeung,6-0,6,0,1,0,Completed,true,false,false
+UA010321,,17,St Mary's,Murrumbeena,No. 4,Hamish Ward,Johan Cunningham,Johan Cunningham,3-6,3,6,0,1,Completed,true,true,false

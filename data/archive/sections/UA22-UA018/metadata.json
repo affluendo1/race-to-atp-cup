@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA22-UA018",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA018",
+  "section_label": "Section 18",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Pauls",
+      "wins": 10,
+      "points": 109,
+      "percentage": 171.6,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Leonards Tennis",
+      "wins": 11,
+      "points": 94,
+      "percentage": 122.29,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Dendy Park",
+      "wins": 7,
+      "points": 84,
+      "percentage": 121.26,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC MLC",
+      "wins": 5,
+      "points": 64,
+      "percentage": 93.06,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal South Yarra",
+      "wins": 5,
+      "points": 61,
+      "percentage": 91.26,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Hampton",
+      "wins": 4,
+      "points": 60,
+      "percentage": 107.78,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Caulfield Rec",
+      "wins": 3,
+      "points": 54,
+      "percentage": 92.31,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "BLTC",
+      "wins": 2,
+      "points": 30,
+      "percentage": 39.18,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA018",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA018321"
+  ]
+}

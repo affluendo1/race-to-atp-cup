@@ -1,0 +1,201 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA006011,31 Jan 26,1,Clarinda,Mordialloc,No. 1,Keegan Dawson,Patrick Devlin,Patrick Devlin,3-6,3,6,0,1,Completed,true,false,false
+AA006011,31 Jan 26,1,Clarinda,Mordialloc,No. 2,Oliver Dvorzak,Patrick Freeman,Patrick Freeman,1-6,1,6,0,1,Completed,true,false,false
+AA006011,31 Jan 26,1,Clarinda,Mordialloc,No. 3,Avy Rao,Ian Belmonte Thomas,Ian Belmonte Thomas,2-6,2,6,0,1,Completed,true,false,false
+AA006011,31 Jan 26,1,Clarinda,Mordialloc,No. 4,[Unnamed emergency — TROLS AA006011 home code 4],Caleb Logan,Caleb Logan,0-6,0,6,0,1,Completed,false,true,false
+AA006012,31 Jan 26,1,Mentone Blue,Mentone Red,No. 1,Harrison Gumbrell,Forbes Wikner,Forbes Wikner,1-6,1,6,0,1,Completed,true,false,false
+AA006012,31 Jan 26,1,Mentone Blue,Mentone Red,No. 2,Harry Houlgrave-Fletcher,Rehatt Singh,Harry Houlgrave-Fletcher,6-2,6,2,1,0,Completed,true,false,false
+AA006012,31 Jan 26,1,Mentone Blue,Mentone Red,No. 3,Toby Harris,Charlotte Houlgrave-Fletcher,Toby Harris,6-0,6,0,1,0,Completed,true,false,false
+AA006012,31 Jan 26,1,Mentone Blue,Mentone Red,No. 4,Alex Forster,Ruby Taylor,Alex Forster,6-3,6,3,1,0,Completed,true,false,false
+AA006013,31 Jan 26,1,Glen Huntly,Parkdale,No. 1,Jadyn Green,Casper Tozer,Casper Tozer,4-6,4,6,0,1,Completed,true,false,false
+AA006013,31 Jan 26,1,Glen Huntly,Parkdale,No. 2,Peter Kalogeropoulos,Henry McPherson,Peter Kalogeropoulos,6-3,6,3,1,0,Completed,true,false,false
+AA006013,31 Jan 26,1,Glen Huntly,Parkdale,No. 3,Brian Shu,Max Antunes,Max Antunes,4-6,4,6,0,1,Completed,true,false,false
+AA006013,31 Jan 26,1,Glen Huntly,Parkdale,No. 4,Lucas Millar,Reggie Nirens,Reggie Nirens,2-6,2,6,0,1,Completed,true,false,false
+AA006014,31 Jan 26,1,Sandringham,Carmelite,No. 1,Morgan Devic,Andrew Ferizis,Andrew Ferizis,4-6,4,6,0,1,Completed,true,false,false
+AA006014,31 Jan 26,1,Sandringham,Carmelite,No. 2,Spencer Buck,Mason Jeffries,Spencer Buck,6-4,6,4,1,0,Completed,true,false,false
+AA006014,31 Jan 26,1,Sandringham,Carmelite,No. 3,Lachie Butlin,James Batsakis,James Batsakis,3-6,3,6,0,1,Completed,true,false,true
+AA006014,31 Jan 26,1,Sandringham,Carmelite,No. 4,Harry Nolen,Roman Pulitano,Roman Pulitano,2-6,2,6,0,1,Completed,true,false,false
+AA006021,07 Feb 26,2,Carmelite,Clarinda,No. 1,Andrew Ferizis,Keegan Dawson,Keegan Dawson,5-7,5,7,0,1,Completed,true,false,false
+AA006021,07 Feb 26,2,Carmelite,Clarinda,No. 2,Mason Jeffries,Oliver Dvorzak,Mason Jeffries,6-0,6,0,1,0,Completed,true,false,false
+AA006021,07 Feb 26,2,Carmelite,Clarinda,No. 3,Edward Heinrich,Avy Rao,Edward Heinrich,6-1,6,1,1,0,Completed,true,false,false
+AA006021,07 Feb 26,2,Carmelite,Clarinda,No. 4,Roman Pulitano,Dhruv Gupta,Roman Pulitano,6-3,6,3,1,0,Completed,true,false,false
+AA006022,07 Feb 26,2,Mordialloc,Mentone Blue,No. 1,Logan Bennett,Harrison Gumbrell,Harrison Gumbrell,3-6,3,6,0,1,Completed,true,true,false
+AA006022,07 Feb 26,2,Mordialloc,Mentone Blue,No. 2,Patrick Devlin,Harry Houlgrave-Fletcher,Patrick Devlin,6-1,6,1,1,0,Completed,true,false,false
+AA006022,07 Feb 26,2,Mordialloc,Mentone Blue,No. 3,Patrick Freeman,Toby Harris,Patrick Freeman,7-6,7,6,1,0,Completed,true,false,false
+AA006022,07 Feb 26,2,Mordialloc,Mentone Blue,No. 4,Caleb Logan,Liam Gumbrell,Caleb Logan,6-4,6,4,1,0,Completed,true,false,false
+AA006023,07 Feb 26,2,Mentone Red,Glen Huntly,No. 1,Forbes Wikner,Daria Solovei,Daria Solovei,3-6,3,6,0,1,Completed,true,false,false
+AA006023,07 Feb 26,2,Mentone Red,Glen Huntly,No. 2,Rehatt Singh,Peter Kalogeropoulos,Peter Kalogeropoulos,1-6,1,6,0,1,Completed,true,false,false
+AA006023,07 Feb 26,2,Mentone Red,Glen Huntly,No. 3,Aarav Deshmukh,Brian Shu,Brian Shu,4-6,4,6,0,1,Completed,true,false,false
+AA006023,07 Feb 26,2,Mentone Red,Glen Huntly,No. 4,Charlotte Houlgrave-Fletcher,Lucas Millar,Charlotte Houlgrave-Fletcher,6-1,6,1,1,0,Completed,true,false,false
+AA006024,07 Feb 26,2,Parkdale,Sandringham,No. 1,Casper Tozer,Morgan Devic,Morgan Devic,5-7,5,7,0,1,Completed,true,false,false
+AA006024,07 Feb 26,2,Parkdale,Sandringham,No. 2,Henry McPherson,Spencer Buck,Henry McPherson,6-0,6,0,1,0,Completed,true,false,false
+AA006024,07 Feb 26,2,Parkdale,Sandringham,No. 3,Benji Schmitt,Lachie Butlin,Lachie Butlin,6-7,6,7,0,1,Completed,true,false,false
+AA006024,07 Feb 26,2,Parkdale,Sandringham,No. 4,Max Antunes,Harry Nolen,Harry Nolen,4-6,4,6,0,1,Completed,true,false,false
+AA006031,14 Feb 26,3,Clarinda,Parkdale,No. 1,Keegan Dawson,Casper Tozer,Casper Tozer,1-6,1,6,0,1,Completed,true,false,false
+AA006031,14 Feb 26,3,Clarinda,Parkdale,No. 2,Oliver Dvorzak,Henry McPherson,Henry McPherson,4-6,4,6,0,1,Completed,true,false,false
+AA006031,14 Feb 26,3,Clarinda,Parkdale,No. 3,Tyler Christensen,Benji Schmitt,Tyler Christensen,7-6,7,6,1,0,Completed,true,false,false
+AA006031,14 Feb 26,3,Clarinda,Parkdale,No. 4,Dhruv Gupta,Reggie Nirens,Reggie Nirens,4-6,4,6,0,1,Completed,true,false,false
+AA006032,14 Feb 26,3,Mentone Blue,Carmelite,No. 1,Harrison Gumbrell,Andrew Ferizis,Andrew Ferizis,3-6,3,6,0,1,Completed,true,false,false
+AA006032,14 Feb 26,3,Mentone Blue,Carmelite,No. 2,Harry Houlgrave-Fletcher,Mason Jeffries,Harry Houlgrave-Fletcher,6-2,6,2,1,0,Completed,true,false,false
+AA006032,14 Feb 26,3,Mentone Blue,Carmelite,No. 3,Alex Forster,Edward Heinrich,Alex Forster,6-3,6,3,1,0,Completed,true,false,false
+AA006032,14 Feb 26,3,Mentone Blue,Carmelite,No. 4,Liam Gumbrell,Roman Pulitano,Roman Pulitano,3-6,3,6,0,1,Completed,true,false,false
+AA006033,14 Feb 26,3,Glen Huntly,Mordialloc,No. 1,Daria Solovei,Patrick Devlin,Daria Solovei,6-2,6,2,1,0,Completed,true,false,false
+AA006033,14 Feb 26,3,Glen Huntly,Mordialloc,No. 2,Jadyn Green,Ian Belmonte Thomas,Jadyn Green,7-5,7,5,1,0,Completed,true,false,false
+AA006033,14 Feb 26,3,Glen Huntly,Mordialloc,No. 3,Peter Kalogeropoulos,Caleb Logan,Peter Kalogeropoulos,6-1,6,1,1,0,Completed,true,false,false
+AA006033,14 Feb 26,3,Glen Huntly,Mordialloc,No. 4,Brian Shu,Luke Tate,Brian Shu,6-0,6,0,1,0,Completed,true,false,false
+AA006034,14 Feb 26,3,Sandringham,Mentone Red,No. 1,Josh Morley,Forbes Wikner,Forbes Wikner,5-7,5,7,0,1,Completed,true,false,false
+AA006034,14 Feb 26,3,Sandringham,Mentone Red,No. 2,Spencer Buck,Aarav Deshmukh,Spencer Buck,6-2,6,2,1,0,Completed,true,false,false
+AA006034,14 Feb 26,3,Sandringham,Mentone Red,No. 3,Lachie Butlin,Charlotte Houlgrave-Fletcher,Charlotte Houlgrave-Fletcher,3-6,3,6,0,1,Completed,true,false,false
+AA006034,14 Feb 26,3,Sandringham,Mentone Red,No. 4,Harry Nolen,Ruby Taylor,Ruby Taylor,1-6,1,6,0,1,Completed,true,false,false
+AA006041,21 Feb 26,4,Mentone Red,Clarinda,No. 1,Forbes Wikner,Keegan Dawson,Keegan Dawson,4-6,4,6,0,1,Completed,true,false,false
+AA006041,21 Feb 26,4,Mentone Red,Clarinda,No. 2,Rehatt Singh,Avy Rao,Rehatt Singh,7-5,7,5,1,0,Completed,true,false,false
+AA006041,21 Feb 26,4,Mentone Red,Clarinda,No. 3,Aarav Deshmukh,Tyler Christensen,Aarav Deshmukh,6-2,6,2,1,0,Completed,true,false,false
+AA006041,21 Feb 26,4,Mentone Red,Clarinda,No. 4,Charlotte Houlgrave-Fletcher,Dhruv Gupta,Charlotte Houlgrave-Fletcher,7-5,7,5,1,0,Completed,true,false,false
+AA006042,21 Feb 26,4,Parkdale,Mentone Blue,No. 1,Henry McPherson,Harry Houlgrave-Fletcher,Harry Houlgrave-Fletcher,1-6,1,6,0,1,Completed,true,false,false
+AA006042,21 Feb 26,4,Parkdale,Mentone Blue,No. 2,Benji Schmitt,Toby Harris,Benji Schmitt,6-3,6,3,1,0,Completed,true,false,false
+AA006042,21 Feb 26,4,Parkdale,Mentone Blue,No. 3,Max Antunes,Alex Forster,Alex Forster,4-6,4,6,0,1,Completed,true,false,false
+AA006042,21 Feb 26,4,Parkdale,Mentone Blue,No. 4,Reggie Nirens,Liam Gumbrell,Reggie Nirens,7-6,7,6,1,0,Completed,true,false,false
+AA006043,21 Feb 26,4,Carmelite,Glen Huntly,No. 1,Andrew Ferizis,Daria Solovei,Daria Solovei,2-6,2,6,0,1,Completed,true,false,false
+AA006043,21 Feb 26,4,Carmelite,Glen Huntly,No. 2,Mason Jeffries,Jadyn Green,Jadyn Green,2-6,2,6,0,1,Completed,true,false,false
+AA006043,21 Feb 26,4,Carmelite,Glen Huntly,No. 3,Edward Heinrich,Peter Kalogeropoulos,Peter Kalogeropoulos,2-6,2,6,0,1,Completed,true,false,false
+AA006043,21 Feb 26,4,Carmelite,Glen Huntly,No. 4,Roman Pulitano,Brian Shu,Roman Pulitano,6-4,6,4,1,0,Completed,true,false,false
+AA006044,21 Feb 26,4,Mordialloc,Sandringham,No. 1,Patrick Freeman,Josh Morley,Josh Morley,6-7,6,7,0,1,Completed,true,false,false
+AA006044,21 Feb 26,4,Mordialloc,Sandringham,No. 2,Ian Belmonte Thomas,Morgan Devic,Ian Belmonte Thomas,6-2,6,2,1,0,Completed,true,false,false
+AA006044,21 Feb 26,4,Mordialloc,Sandringham,No. 3,Caleb Logan,Spencer Buck,Spencer Buck,0-6,0,6,0,1,Completed,true,false,false
+AA006044,21 Feb 26,4,Mordialloc,Sandringham,No. 4,Luke Tate,Lachie Butlin,Lachie Butlin,2-6,2,6,0,1,Completed,true,false,false
+AA006051,28 Feb 26,5,Glen Huntly,Sandringham,No. 1,Jadyn Green,Josh Morley,Josh Morley,5-7,5,7,0,1,Completed,true,false,false
+AA006051,28 Feb 26,5,Glen Huntly,Sandringham,No. 2,Peter Kalogeropoulos,Morgan Devic,Peter Kalogeropoulos,6-1,6,1,1,0,Completed,true,false,false
+AA006051,28 Feb 26,5,Glen Huntly,Sandringham,No. 3,Brian Shu,Lachie Butlin,Brian Shu,6-3,6,3,1,0,Completed,true,false,false
+AA006051,28 Feb 26,5,Glen Huntly,Sandringham,No. 4,Lucas Millar,Harry Nolen,Harry Nolen,4-6,4,6,0,1,Completed,true,false,false
+AA006052,28 Feb 26,5,Carmelite,Parkdale,No. 1,Andrew Ferizis,Casper Tozer,Casper Tozer,4-6,4,6,0,1,Completed,true,false,false
+AA006052,28 Feb 26,5,Carmelite,Parkdale,No. 2,Adele Blyga-syrytsa,Benji Schmitt,Benji Schmitt,4-6,4,6,0,1,Completed,true,true,false
+AA006052,28 Feb 26,5,Carmelite,Parkdale,No. 3,Edward Heinrich,Max Antunes,Max Antunes,6-7,6,7,0,1,Completed,true,false,false
+AA006052,28 Feb 26,5,Carmelite,Parkdale,No. 4,Roman Pulitano,Reggie Nirens,Roman Pulitano,6-4,6,4,1,0,Completed,true,false,false
+AA006053,28 Feb 26,5,Mentone Red,Mordialloc,No. 1,Forbes Wikner,Patrick Devlin,Patrick Devlin,3-6,3,6,0,1,Completed,true,false,false
+AA006053,28 Feb 26,5,Mentone Red,Mordialloc,No. 2,Rehatt Singh,Ian Belmonte Thomas,Ian Belmonte Thomas,5-7,5,7,0,1,Completed,true,false,false
+AA006053,28 Feb 26,5,Mentone Red,Mordialloc,No. 3,Aarav Deshmukh,Luke Tate,Aarav Deshmukh,6-1,6,1,1,0,Completed,true,false,false
+AA006053,28 Feb 26,5,Mentone Red,Mordialloc,No. 4,Ruby Taylor,Nic Votsis,Ruby Taylor,6-0,6,0,1,0,Completed,true,false,true
+AA006054,28 Feb 26,5,Clarinda,Mentone Blue,No. 1,Oliver Dvorzak,Harry Houlgrave-Fletcher,Oliver Dvorzak,6-2,6,2,1,0,Completed,true,false,false
+AA006054,28 Feb 26,5,Clarinda,Mentone Blue,No. 2,Avy Rao,Harrison Gumbrell,Harrison Gumbrell,2-6,2,6,0,1,Completed,true,false,false
+AA006054,28 Feb 26,5,Clarinda,Mentone Blue,No. 3,Tyler Christensen,Toby Harris,Toby Harris,0-6,0,6,0,1,Completed,true,false,false
+AA006054,28 Feb 26,5,Clarinda,Mentone Blue,No. 4,Dhruv Gupta,Liam Gumbrell,Dhruv Gupta,6-2,6,2,1,0,Completed,true,false,false
+AA006061,14 Mar 26,6,Mentone Blue,Glen Huntly,No. 1,Harrison Gumbrell,Daria Solovei,Daria Solovei,1-6,1,6,0,1,Completed,true,false,false
+AA006061,14 Mar 26,6,Mentone Blue,Glen Huntly,No. 2,Toby Harris,Jadyn Green,Jadyn Green,3-6,3,6,0,1,Completed,true,false,false
+AA006061,14 Mar 26,6,Mentone Blue,Glen Huntly,No. 3,Alex Forster,Brian Shu,Alex Forster,6-2,6,2,1,0,Completed,true,false,false
+AA006061,14 Mar 26,6,Mentone Blue,Glen Huntly,No. 4,Liam Gumbrell,Lucas Millar,Lucas Millar,3-6,3,6,0,1,Completed,true,false,false
+AA006062,14 Mar 26,6,Sandringham,Clarinda,No. 1,Josh Morley,Keegan Dawson,Keegan Dawson,4-6,4,6,0,1,Completed,true,false,false
+AA006062,14 Mar 26,6,Sandringham,Clarinda,No. 2,Morgan Devic,Oliver Dvorzak,Morgan Devic,6-0,6,0,1,0,Completed,true,false,false
+AA006062,14 Mar 26,6,Sandringham,Clarinda,No. 3,Lachie Butlin,Tyler Christensen,Lachie Butlin,7-5,7,5,1,0,Completed,true,false,false
+AA006062,14 Mar 26,6,Sandringham,Clarinda,No. 4,Harry Nolen,Avy Rao,Harry Nolen,6-4,6,4,1,0,Completed,true,false,false
+AA006063,14 Mar 26,6,Parkdale,Mentone Red,No. 1,Casper Tozer,Forbes Wikner,Casper Tozer,6-0,6,0,1,0,Completed,true,false,false
+AA006063,14 Mar 26,6,Parkdale,Mentone Red,No. 2,Henry McPherson,Rehatt Singh,Rehatt Singh,3-6,3,6,0,1,Completed,true,false,false
+AA006063,14 Mar 26,6,Parkdale,Mentone Red,No. 3,Benji Schmitt,Aarav Deshmukh,Aarav Deshmukh,0-6,0,6,0,1,Completed,true,false,false
+AA006063,14 Mar 26,6,Parkdale,Mentone Red,No. 4,Reggie Nirens,Ruby Taylor,Ruby Taylor,1-6,1,6,0,1,Completed,true,false,false
+AA006064,14 Mar 26,6,Mordialloc,Carmelite,No. 1,Patrick Devlin,Andrew Ferizis,Patrick Devlin,7-6,7,6,1,0,Completed,true,false,false
+AA006064,14 Mar 26,6,Mordialloc,Carmelite,No. 2,Patrick Freeman,Mason Jeffries,Patrick Freeman,6-1,6,1,1,0,Completed,true,false,false
+AA006064,14 Mar 26,6,Mordialloc,Carmelite,No. 3,Elliott Fairlie,Edward Heinrich,Elliott Fairlie,6-3,6,3,1,0,Completed,true,false,false
+AA006064,14 Mar 26,6,Mordialloc,Carmelite,No. 4,Caleb Logan,Roman Pulitano,Roman Pulitano,1-6,1,6,0,1,Completed,true,false,false
+AA006071,21 Mar 26,7,Clarinda,Glen Huntly,No. 1,Keegan Dawson,Jadyn Green,Jadyn Green,3-6,3,6,0,1,Completed,true,false,false
+AA006071,21 Mar 26,7,Clarinda,Glen Huntly,No. 2,Oliver Dvorzak,Peter Kalogeropoulos,Peter Kalogeropoulos,2-6,2,6,0,1,Completed,true,false,false
+AA006071,21 Mar 26,7,Clarinda,Glen Huntly,No. 3,Avy Rao,Brian Shu,Avy Rao,6-0,6,0,1,0,Completed,true,false,false
+AA006071,21 Mar 26,7,Clarinda,Glen Huntly,No. 4,Dhruv Gupta,Lucas Millar,Dhruv Gupta,6-4,6,4,1,0,Completed,true,false,false
+AA006072,21 Mar 26,7,Mentone Blue,Sandringham,No. 1,Harry Houlgrave-Fletcher,Josh Morley,Josh Morley,3-6,3,6,0,1,Completed,true,false,false
+AA006072,21 Mar 26,7,Mentone Blue,Sandringham,No. 2,Harrison Gumbrell,Morgan Devic,Morgan Devic,2-6,2,6,0,1,Completed,true,false,false
+AA006072,21 Mar 26,7,Mentone Blue,Sandringham,No. 3,Toby Harris,Spencer Buck,Spencer Buck,3-6,3,6,0,1,Completed,true,false,false
+AA006072,21 Mar 26,7,Mentone Blue,Sandringham,No. 4,Alex Forster,Harry Nolen,Alex Forster,6-3,6,3,1,0,Completed,true,false,false
+AA006073,21 Mar 26,7,Carmelite,Mentone Red,No. 1,Andrew Ferizis,Rehatt Singh,Andrew Ferizis,6-4,6,4,1,0,Completed,true,false,false
+AA006073,21 Mar 26,7,Carmelite,Mentone Red,No. 2,Curtis Brown,Aarav Deshmukh,Curtis Brown,6-2,6,2,1,0,Completed,true,true,false
+AA006073,21 Mar 26,7,Carmelite,Mentone Red,No. 3,Mason Jeffries,Charlotte Houlgrave-Fletcher,Mason Jeffries,6-0,6,0,1,0,Completed,true,false,false
+AA006073,21 Mar 26,7,Carmelite,Mentone Red,No. 4,Roman Pulitano,Ruby Taylor,Ruby Taylor,2-6,2,6,0,1,Completed,true,false,false
+AA006074,21 Mar 26,7,Parkdale,Mordialloc,No. 1,Casper Tozer,Patrick Devlin,Patrick Devlin,1-6,1,6,0,1,Completed,true,false,false
+AA006074,21 Mar 26,7,Parkdale,Mordialloc,No. 2,Benji Schmitt,Elliott Fairlie,Elliott Fairlie,2-6,2,6,0,1,Completed,true,false,false
+AA006074,21 Mar 26,7,Parkdale,Mordialloc,No. 3,Max Antunes,Caleb Logan,Max Antunes,6-1,6,1,1,0,Completed,true,false,false
+AA006074,21 Mar 26,7,Parkdale,Mordialloc,No. 4,Reggie Nirens,Luke Tate,Reggie Nirens,6-0,6,0,1,0,Completed,true,false,false
+AA006082,28 Mar 26,8,Mentone Red,Mentone Blue,No. 1,Rehatt Singh,Harry Houlgrave-Fletcher,Harry Houlgrave-Fletcher,2-6,2,6,0,1,Completed,true,false,false
+AA006082,28 Mar 26,8,Mentone Red,Mentone Blue,No. 2,Aarav Deshmukh,Harrison Gumbrell,Harrison Gumbrell,3-6,3,6,0,1,Completed,true,false,false
+AA006082,28 Mar 26,8,Mentone Red,Mentone Blue,No. 3,Charlotte Houlgrave-Fletcher,Alex Forster,Alex Forster,1-6,1,6,0,1,Completed,true,false,false
+AA006082,28 Mar 26,8,Mentone Red,Mentone Blue,No. 4,Ruby Taylor,Liam Gumbrell,Ruby Taylor,6-1,6,1,1,0,Completed,true,false,false
+AA006083,28 Mar 26,8,Parkdale,Glen Huntly,No. 1,Casper Tozer,Daria Solovei,Daria Solovei,2-6,2,6,0,1,Completed,true,false,false
+AA006083,28 Mar 26,8,Parkdale,Glen Huntly,No. 2,Henry McPherson,Jadyn Green,Henry McPherson,6-3,6,3,1,0,Completed,true,false,false
+AA006083,28 Mar 26,8,Parkdale,Glen Huntly,No. 3,Benji Schmitt,Peter Kalogeropoulos,Peter Kalogeropoulos,2-6,2,6,0,1,Completed,true,false,false
+AA006083,28 Mar 26,8,Parkdale,Glen Huntly,No. 4,Max Antunes,Lucas Millar,Lucas Millar,4-6,4,6,0,1,Completed,true,false,false
+AA006091,02 May 26,9,Clarinda,Carmelite,No. 1,Keegan Dawson,Andrew Ferizis,Andrew Ferizis,3-6,3,6,0,1,Completed,true,false,false
+AA006091,02 May 26,9,Clarinda,Carmelite,No. 2,Oliver Dvorzak,Mason Jeffries,Mason Jeffries,3-6,3,6,0,1,Completed,true,false,false
+AA006091,02 May 26,9,Clarinda,Carmelite,No. 3,Avy Rao,Edward Heinrich,Edward Heinrich,3-6,3,6,0,1,Completed,true,false,false
+AA006091,02 May 26,9,Clarinda,Carmelite,No. 4,Karan Sarvode,Roman Pulitano,Roman Pulitano,0-6,0,6,0,1,Completed,true,true,false
+AA006092,02 May 26,9,Mentone Blue,Mordialloc,No. 1,Harry Houlgrave-Fletcher,Patrick Freeman,Patrick Freeman,3-6,3,6,0,1,Completed,true,false,false
+AA006092,02 May 26,9,Mentone Blue,Mordialloc,No. 2,Toby Harris,Elliott Fairlie,Toby Harris,6-2,6,2,1,0,Completed,true,false,false
+AA006092,02 May 26,9,Mentone Blue,Mordialloc,No. 3,Alex Forster,Ian Belmonte Thomas,Alex Forster,6-1,6,1,1,0,Completed,true,false,false
+AA006092,02 May 26,9,Mentone Blue,Mordialloc,No. 4,Liam Gumbrell,Caleb Logan,Liam Gumbrell,6-4,6,4,1,0,Completed,true,false,false
+AA006093,02 May 26,9,Glen Huntly,Mentone Red,No. 1,Jadyn Green,Forbes Wikner,Jadyn Green,6-2,6,2,1,0,Completed,true,false,false
+AA006093,02 May 26,9,Glen Huntly,Mentone Red,No. 2,Peter Kalogeropoulos,Rehatt Singh,Peter Kalogeropoulos,6-4,6,4,1,0,Completed,true,false,false
+AA006093,02 May 26,9,Glen Huntly,Mentone Red,No. 3,Lucas Millar,Charlotte Houlgrave-Fletcher,Charlotte Houlgrave-Fletcher,3-6,3,6,0,1,Completed,true,false,false
+AA006093,02 May 26,9,Glen Huntly,Mentone Red,No. 4,Sylvestre La Fressant,Ruby Taylor,Ruby Taylor,0-6,0,6,0,1,Completed,true,true,false
+AA006094,02 May 26,9,Sandringham,Parkdale,No. 1,Josh Morley,Casper Tozer,Josh Morley,6-0,6,0,1,0,Completed,true,false,false
+AA006094,02 May 26,9,Sandringham,Parkdale,No. 2,Morgan Devic,Henry McPherson,Morgan Devic,6-4,6,4,1,0,Completed,true,false,false
+AA006094,02 May 26,9,Sandringham,Parkdale,No. 3,Spencer Buck,Max Antunes,Spencer Buck,6-0,6,0,1,0,Completed,true,false,false
+AA006094,02 May 26,9,Sandringham,Parkdale,No. 4,Harry Nolen,Reggie Nirens,Reggie Nirens,2-6,2,6,0,1,Completed,true,false,false
+AA006102,09 May 26,10,Carmelite,Mentone Blue,No. 1,Andrew Ferizis,Harry Houlgrave-Fletcher,Andrew Ferizis,7-6,7,6,1,0,Completed,true,false,false
+AA006102,09 May 26,10,Carmelite,Mentone Blue,No. 2,Mason Jeffries,Harrison Gumbrell,Harrison Gumbrell,3-6,3,6,0,1,Completed,true,false,false
+AA006102,09 May 26,10,Carmelite,Mentone Blue,No. 3,Edward Heinrich,Toby Harris,Toby Harris,4-6,4,6,0,1,Completed,true,false,false
+AA006102,09 May 26,10,Carmelite,Mentone Blue,No. 4,Roman Pulitano,Liam Gumbrell,Roman Pulitano,6-2,6,2,1,0,Completed,true,false,false
+AA006111,16 May 26,11,Clarinda,Mentone Red,No. 1,Keegan Dawson,Forbes Wikner,Forbes Wikner,3-6,3,6,0,1,Completed,true,false,false
+AA006111,16 May 26,11,Clarinda,Mentone Red,No. 2,Oliver Dvorzak,Aarav Deshmukh,Oliver Dvorzak,6-0,6,0,1,0,Completed,true,false,false
+AA006111,16 May 26,11,Clarinda,Mentone Red,No. 3,Avy Rao,Charlotte Houlgrave-Fletcher,Avy Rao,6-2,6,2,1,0,Completed,true,false,false
+AA006111,16 May 26,11,Clarinda,Mentone Red,No. 4,Tyler Christensen,Ruby Taylor,Ruby Taylor,1-6,1,6,0,1,Completed,true,false,false
+AA006112,16 May 26,11,Mentone Blue,Parkdale,No. 1,Harry Houlgrave-Fletcher,Casper Tozer,Casper Tozer,4-6,4,6,0,1,Completed,true,false,false
+AA006112,16 May 26,11,Mentone Blue,Parkdale,No. 2,Harrison Gumbrell,Henry McPherson,Harrison Gumbrell,6-1,6,1,1,0,Completed,true,false,false
+AA006112,16 May 26,11,Mentone Blue,Parkdale,No. 3,Alex Forster,Max Antunes,Alex Forster,6-1,6,1,1,0,Completed,true,false,false
+AA006112,16 May 26,11,Mentone Blue,Parkdale,No. 4,Liam Gumbrell,Reggie Nirens,Reggie Nirens,2-6,2,6,0,1,Completed,true,false,false
+AA006113,16 May 26,11,Glen Huntly,Carmelite,No. 1,Jadyn Green,Curtis Brown,Curtis Brown,1-6,1,6,0,1,Completed,true,false,true
+AA006113,16 May 26,11,Glen Huntly,Carmelite,No. 2,Ishta Chandrasekaran,Mason Jeffries,Ishta Chandrasekaran,6-0,6,0,1,0,Completed,true,true,false
+AA006113,16 May 26,11,Glen Huntly,Carmelite,No. 3,Brian Shu,Edward Heinrich,Edward Heinrich,3-6,3,6,0,1,Completed,true,false,false
+AA006113,16 May 26,11,Glen Huntly,Carmelite,No. 4,Lucas Millar,Roman Pulitano,Roman Pulitano,3-6,3,6,0,1,Completed,true,false,false
+AA006114,16 May 26,11,Sandringham,Mordialloc,No. 1,Josh Morley,Patrick Devlin,Patrick Devlin,6-7,6,7,0,1,Completed,true,false,false
+AA006114,16 May 26,11,Sandringham,Mordialloc,No. 2,Morgan Devic,Patrick Freeman,Patrick Freeman,1-6,1,6,0,1,Completed,true,false,false
+AA006114,16 May 26,11,Sandringham,Mordialloc,No. 3,Lachie Butlin,Elliott Fairlie,Elliott Fairlie,4-6,4,6,0,1,Completed,true,false,false
+AA006114,16 May 26,11,Sandringham,Mordialloc,No. 4,Harry Nolen,Luke Tate,Harry Nolen,6-1,6,1,1,0,Completed,true,false,false
+AA006121,23 May 26,12,Sandringham,Glen Huntly,No. 1,Josh Morley,Jadyn Green,Josh Morley,6-2,6,2,1,0,Completed,true,false,false
+AA006121,23 May 26,12,Sandringham,Glen Huntly,No. 2,Spencer Buck,Peter Kalogeropoulos,Peter Kalogeropoulos,1-6,1,6,0,1,Completed,true,false,false
+AA006121,23 May 26,12,Sandringham,Glen Huntly,No. 3,Lachie Butlin,Brian Shu,Brian Shu,3-6,3,6,0,1,Completed,true,false,false
+AA006121,23 May 26,12,Sandringham,Glen Huntly,No. 4,Harry Nolen,Lucas Millar,Harry Nolen,6-4,6,4,1,0,Completed,true,false,false
+AA006122,23 May 26,12,Parkdale,Carmelite,No. 1,Casper Tozer,Andrew Ferizis,Casper Tozer,6-3,6,3,1,0,Completed,true,false,false
+AA006122,23 May 26,12,Parkdale,Carmelite,No. 2,Benji Schmitt,Mason Jeffries,Mason Jeffries,1-6,1,6,0,1,Completed,true,false,false
+AA006122,23 May 26,12,Parkdale,Carmelite,No. 3,Max Antunes,Edward Heinrich,Edward Heinrich,1-6,1,6,0,1,Completed,true,false,false
+AA006122,23 May 26,12,Parkdale,Carmelite,No. 4,Reggie Nirens,Roman Pulitano,Roman Pulitano,2-6,2,6,0,1,Completed,true,false,false
+AA006123,23 May 26,12,Mordialloc,Mentone Red,No. 1,Patrick Devlin,Forbes Wikner,Patrick Devlin,6-2,6,2,1,0,Completed,true,false,false
+AA006123,23 May 26,12,Mordialloc,Mentone Red,No. 2,Patrick Freeman,Rehatt Singh,Patrick Freeman,6-4,6,4,1,0,Completed,true,false,false
+AA006123,23 May 26,12,Mordialloc,Mentone Red,No. 3,Elliott Fairlie,Aarav Deshmukh,Aarav Deshmukh,2-6,2,6,0,1,Completed,true,false,false
+AA006123,23 May 26,12,Mordialloc,Mentone Red,No. 4,Caleb Logan,Ruby Taylor,Ruby Taylor,1-6,1,6,0,1,Completed,true,false,false
+AA006124,23 May 26,12,Mentone Blue,Clarinda,No. 1,Harrison Gumbrell,Keegan Dawson,Keegan Dawson,3-6,3,6,0,1,Completed,true,false,false
+AA006124,23 May 26,12,Mentone Blue,Clarinda,No. 2,Toby Harris,Oliver Dvorzak,Toby Harris,6-2,6,2,1,0,Completed,true,false,false
+AA006124,23 May 26,12,Mentone Blue,Clarinda,No. 3,Alex Forster,Avy Rao,Avy Rao,4-6,4,6,0,1,Completed,true,false,false
+AA006124,23 May 26,12,Mentone Blue,Clarinda,No. 4,Liam Gumbrell,Tyler Christensen,Liam Gumbrell,6-2,6,2,1,0,Completed,true,false,false
+AA006131,30 May 26,13,Glen Huntly,Mentone Blue,No. 1,Jadyn Green,Harry Houlgrave-Fletcher,Jadyn Green,6-1,6,1,1,0,Completed,true,false,false
+AA006131,30 May 26,13,Glen Huntly,Mentone Blue,No. 2,Peter Kalogeropoulos,Harrison Gumbrell,Peter Kalogeropoulos,6-2,6,2,1,0,Completed,true,false,false
+AA006131,30 May 26,13,Glen Huntly,Mentone Blue,No. 3,Brian Shu,Toby Harris,Toby Harris,5-7,5,7,0,1,Completed,true,false,false
+AA006131,30 May 26,13,Glen Huntly,Mentone Blue,No. 4,Lucas Millar,Alex Forster,Alex Forster,2-6,2,6,0,1,Completed,true,false,false
+AA006132,30 May 26,13,Clarinda,Sandringham,No. 1,Keegan Dawson,Josh Morley,Josh Morley,4-6,4,6,0,1,Completed,true,false,false
+AA006132,30 May 26,13,Clarinda,Sandringham,No. 2,Oliver Dvorzak,Morgan Devic,Oliver Dvorzak,6-3,6,3,1,0,Completed,true,false,false
+AA006132,30 May 26,13,Clarinda,Sandringham,No. 3,Avy Rao,Spencer Buck,Spencer Buck,2-6,2,6,0,1,Completed,true,false,false
+AA006132,30 May 26,13,Clarinda,Sandringham,No. 4,Tyler Christensen,Lachie Butlin,Lachie Butlin,2-6,2,6,0,1,Completed,true,false,false
+AA006133,30 May 26,13,Mentone Red,Parkdale,No. 1,Forbes Wikner,Casper Tozer,Casper Tozer,4-6,4,6,0,1,Completed,true,false,false
+AA006133,30 May 26,13,Mentone Red,Parkdale,No. 2,Rehatt Singh,Henry McPherson,Henry McPherson,2-6,2,6,0,1,Completed,true,false,false
+AA006133,30 May 26,13,Mentone Red,Parkdale,No. 3,Charlotte Houlgrave-Fletcher,Benji Schmitt,Benji Schmitt,3-6,3,6,0,1,Completed,true,false,false
+AA006133,30 May 26,13,Mentone Red,Parkdale,No. 4,Ruby Taylor,Max Antunes,Ruby Taylor,6-0,6,0,1,0,Completed,true,false,false
+AA006134,30 May 26,13,Carmelite,Mordialloc,No. 1,Curtis Brown,Elliott Fairlie,Curtis Brown,6-2,6,2,1,0,Completed,true,true,false
+AA006134,30 May 26,13,Carmelite,Mordialloc,No. 2,Mason Jeffries,Ian Belmonte Thomas,Ian Belmonte Thomas,3-6,3,6,0,1,Completed,true,false,false
+AA006134,30 May 26,13,Carmelite,Mordialloc,No. 3,Edward Heinrich,Caleb Logan,Edward Heinrich,6-2,6,2,1,0,Completed,true,false,false
+AA006134,30 May 26,13,Carmelite,Mordialloc,No. 4,Roman Pulitano,Luke Tate,Roman Pulitano,6-2,6,2,1,0,Completed,true,false,false
+AA006301,,16,Carmelite,Mentone Blue,No. 1,Andrew Ferizis,Harry Houlgrave-Fletcher,Andrew Ferizis,6-4,6,4,1,0,Completed,true,false,false
+AA006301,,16,Carmelite,Mentone Blue,No. 2,Mason Jeffries,Harrison Gumbrell,Harrison Gumbrell,4-6,4,6,0,1,Completed,true,false,false
+AA006301,,16,Carmelite,Mentone Blue,No. 3,Edward Heinrich,Toby Harris,Edward Heinrich,6-4,6,4,1,0,Completed,true,false,false
+AA006301,,16,Carmelite,Mentone Blue,No. 4,Roman Pulitano,Alex Forster,Alex Forster,3-6,3,6,0,1,Completed,true,false,false
+AA006302,,16,Glen Huntly,Sandringham,No. 1,Daria Solovei,Josh Morley,Daria Solovei,6-2,6,2,1,0,Completed,true,false,false
+AA006302,,16,Glen Huntly,Sandringham,No. 2,Jadyn Green,Morgan Devic,Jadyn Green,6-3,6,3,1,0,Completed,true,false,false
+AA006302,,16,Glen Huntly,Sandringham,No. 3,Peter Kalogeropoulos,Spencer Buck,Peter Kalogeropoulos,6-4,6,4,1,0,Completed,true,false,false
+AA006302,,16,Glen Huntly,Sandringham,No. 4,Brian Shu,Lachie Butlin,Brian Shu,6-0,6,0,1,0,Completed,true,false,false
+AA006321,,17,Glen Huntly,Mentone Blue,No. 1,Daria Solovei,Harry Houlgrave-Fletcher,Daria Solovei,6-4,6,4,1,0,Completed,true,false,false
+AA006321,,17,Glen Huntly,Mentone Blue,No. 2,Jadyn Green,Harrison Gumbrell,Jadyn Green,6-1,6,1,1,0,Completed,true,false,false
+AA006321,,17,Glen Huntly,Mentone Blue,No. 3,Peter Kalogeropoulos,Toby Harris,Peter Kalogeropoulos,6-4,6,4,1,0,Completed,true,false,false
+AA006321,,17,Glen Huntly,Mentone Blue,No. 4,Brian Shu,Alex Forster,Alex Forster,5-7,5,7,0,1,Completed,true,false,false

@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA012011,05 Feb 23,1,regular,Round 1,St Louis de Mont,Tennis World,1,9,1,5,,,17,35,Completed,
+UA012012,05 Feb 23,1,regular,Round 1,Royal Ave Green,Royal Ave Purple,3,7,3,3,,,29,33,Completed,
+UA012013,05 Feb 23,1,regular,Round 1,Kooyong,Elsternwick Park Blue,2,8,2,4,,,22,30,Completed,
+UA012014,05 Feb 23,1,regular,Round 1,Victory Park,Aspendale,10,0,6,0,,,38,24,Completed,
+UA012021,12 Feb 23,2,regular,Round 2,Aspendale,St Louis de Mont,2,8,2,4,,,19,34,Completed,
+UA012022,12 Feb 23,2,regular,Round 2,Tennis World,Royal Ave Green,10,0,6,0,,,36,7,Completed,
+UA012023,12 Feb 23,2,regular,Round 2,Royal Ave Purple,Kooyong,1,9,1,5,,,23,35,Completed,
+UA012024,12 Feb 23,2,regular,Round 2,Elsternwick Park Blue,Victory Park,10,0,6,0,,,36,6,Completed,
+UA012031,19 Feb 23,3,regular,Round 3,St Louis de Mont,Elsternwick Park Blue,5,5,3,3,,,24,24,Completed,
+UA012032,19 Feb 23,3,regular,Round 3,Royal Ave Green,Aspendale,8,2,4,2,,,26,24,Completed,
+UA012033,19 Feb 23,3,regular,Round 3,Kooyong,Tennis World,0,10,0,6,,,10,36,Completed,
+UA012034,19 Feb 23,3,regular,Round 3,Victory Park,Royal Ave Purple,3,7,3,3,,,23,28,Completed,
+UA012041,26 Feb 23,4,regular,Round 4,Royal Ave Purple,St Louis de Mont,8,2,4,2,,,30,19,Completed,
+UA012042,26 Feb 23,4,regular,Round 4,Elsternwick Park Blue,Royal Ave Green,8,2,4,2,,,33,28,Completed,
+UA012043,26 Feb 23,4,regular,Round 4,Aspendale,Kooyong,2,8,2,4,,,25,33,Completed,
+UA012044,26 Feb 23,4,regular,Round 4,Tennis World,Victory Park,10,0,6,0,,,36,7,Completed,
+UA012051,05 Mar 23,5,regular,Round 5,Kooyong,Victory Park,9,1,5,1,,,33,15,Completed,
+UA012052,05 Mar 23,5,regular,Round 5,Aspendale,Elsternwick Park Blue,8,2,4,2,,,33,28,Completed,
+UA012053,05 Mar 23,5,regular,Round 5,Royal Ave Purple,Tennis World,0,10,0,6,,,11,36,Completed,
+UA012054,05 Mar 23,5,regular,Round 5,St Louis de Mont,Royal Ave Green,10,0,6,0,,,36,7,Completed,
+UA012061,19 Mar 23,6,regular,Round 6,Royal Ave Green,Kooyong,3,7,3,3,,,24,29,Completed,
+UA012062,19 Mar 23,6,regular,Round 6,Victory Park,St Louis de Mont,8,2,4,2,,,33,29,Completed,
+UA012063,19 Mar 23,6,regular,Round 6,Elsternwick Park Blue,Royal Ave Purple,2,8,2,4,,,25,31,Completed,
+UA012064,19 Mar 23,6,regular,Round 6,Tennis World,Aspendale,8,2,4,2,,,32,24,Completed,
+UA012071,26 Mar 23,7,regular,Round 7,St Louis de Mont,Kooyong,8,2,4,2,,,31,19,Completed,
+UA012072,26 Mar 23,7,regular,Round 7,Royal Ave Green,Victory Park,2,8,2,4,,,28,30,Completed,
+UA012073,26 Mar 23,7,regular,Round 7,Aspendale,Royal Ave Purple,8,2,4,2,,,31,20,Completed,
+UA012074,26 Mar 23,7,regular,Round 7,Elsternwick Park Blue,Tennis World,0,10,0,6,,,5,36,Completed,
+UA012081,02 Apr 23,8,regular,Round 8,Tennis World,St Louis de Mont,8,2,4,2,,,29,20,Completed,
+UA012082,02 Apr 23,8,regular,Round 8,Royal Ave Purple,Royal Ave Green,2,8,2,4,,,26,27,Completed,
+UA012083,02 Apr 23,8,regular,Round 8,Elsternwick Park Blue,Kooyong,3,7,3,3,,,25,27,Completed,
+UA012084,02 Apr 23,8,regular,Round 8,Aspendale,Victory Park,2,8,2,4,,,26,30,Completed,
+UA012091,30 Apr 23,9,regular,Round 9,St Louis de Mont,Aspendale,1,9,1,5,,,22,33,Completed,
+UA012092,30 Apr 23,9,regular,Round 9,Royal Ave Green,Tennis World,1,9,1,5,,,13,35,Completed,
+UA012093,30 Apr 23,9,regular,Round 9,Kooyong,Royal Ave Purple,5,5,3,3,,,26,26,Completed,
+UA012094,30 Apr 23,9,regular,Round 9,Victory Park,Elsternwick Park Blue,8,2,4,2,,,27,17,Completed,
+pending-ua012-r10-aspendale-royal-ave-green,07 May 23,10,regular,Round 10,Aspendale,Royal Ave Green,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r10-elsternwick-park-blue-st-louis-de-mont,07 May 23,10,regular,Round 10,Elsternwick Park Blue,St Louis de Mont,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r10-royal-ave-purple-victory-park,07 May 23,10,regular,Round 10,Royal Ave Purple,Victory Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r10-tennis-world-kooyong,07 May 23,10,regular,Round 10,Tennis World,Kooyong,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA012111,14 May 23,11,regular,Round 11,St Louis de Mont,Royal Ave Purple,8,2,4,2,,,25,19,Completed,
+UA012112,14 May 23,11,regular,Round 11,Royal Ave Green,Elsternwick Park Blue,9,1,5,1,,,31,13,Completed,
+UA012113,14 May 23,11,regular,Round 11,Kooyong,Aspendale,8,2,4,2,,,32,25,Completed,
+UA012114,14 May 23,11,regular,Round 11,Victory Park,Tennis World,2,8,2,4,,,22,31,Completed,
+UA012122,21 May 23,12,regular,Round 12,Elsternwick Park Blue,Aspendale,9,1,5,1,,,36,12,Completed,
+pending-ua012-r12-royal-ave-green-st-louis-de-mont,21 May 23,12,regular,Round 12,Royal Ave Green,St Louis de Mont,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r12-tennis-world-royal-ave-purple,21 May 23,12,regular,Round 12,Tennis World,Royal Ave Purple,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r12-victory-park-kooyong,21 May 23,12,regular,Round 12,Victory Park,Kooyong,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r13-aspendale-tennis-world,28 May 23,13,regular,Round 13,Aspendale,Tennis World,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r13-kooyong-royal-ave-green,28 May 23,13,regular,Round 13,Kooyong,Royal Ave Green,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r13-royal-ave-purple-elsternwick-park-blue,28 May 23,13,regular,Round 13,Royal Ave Purple,Elsternwick Park Blue,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r13-st-louis-de-mont-victory-park,28 May 23,13,regular,Round 13,St Louis de Mont,Victory Park,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA012301,,16,semi_final,Semi-final,Tennis World,Elsternwick Park Blue,9,1,5,1,,,35,21,Completed,
+UA012302,,16,semi_final,Semi-final,Kooyong,St Louis de Mont,3,7,3,3,,,30,31,Completed,
+UA012321,,17,grand_final,Grand final · TROLS entry 2,Tennis World,St Louis de Mont,9,1,5,1,,,31,15,Completed,

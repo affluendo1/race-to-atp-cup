@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA008011,31 Jan 21,1,regular,Round 1,Maccabi,Royal South Yarra 1,10,0,6,0,,,36,9,Completed,
+UA008012,31 Jan 21,1,regular,Round 1,GPHC,Elsternwick Park,2,8,2,4,,,19,30,Completed,
+UA008013,31 Jan 21,1,regular,Round 1,Kings Park,Hurlingham Park,2,8,2,4,,,22,32,Completed,
+UA008014,31 Jan 21,1,regular,Round 1,Royal South Yarra 2,St Joan of Arc,7,3,3,3,,,26,23,Completed,
+UA008021,07 Feb 21,2,regular,Round 2,St Joan of Arc,Maccabi,2,8,2,4,,,22,32,Completed,
+UA008023,07 Feb 21,2,regular,Round 2,Elsternwick Park,Kings Park,9,1,5,1,,,35,14,Completed,
+UA008024,07 Feb 21,2,regular,Round 2,Hurlingham Park,Royal South Yarra 2,8,2,4,2,,,27,29,Completed,
+pending-ua008-r2-royal-south-yarra-1-gphc,07 Feb 21,2,regular,Round 2,Royal South Yarra 1,GPHC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua008-r3-gphc-st-joan-of-arc,14 Feb 21,3,regular,Round 3,GPHC,St Joan of Arc,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua008-r3-kings-park-royal-south-yarra-1,14 Feb 21,3,regular,Round 3,Kings Park,Royal South Yarra 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua008-r3-maccabi-hurlingham-park,14 Feb 21,3,regular,Round 3,Maccabi,Hurlingham Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua008-r3-royal-south-yarra-2-elsternwick-park,14 Feb 21,3,regular,Round 3,Royal South Yarra 2,Elsternwick Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA008041,21 Feb 21,4,regular,Round 4,Elsternwick Park,Maccabi,9,1,5,1,,,34,17,Completed,
+UA008042,21 Feb 21,4,regular,Round 4,Hurlingham Park,GPHC,9,1,5,1,,,32,16,Completed,
+UA008043,21 Feb 21,4,regular,Round 4,St Joan of Arc,Kings Park,10,0,6,0,,,36,1,Completed,
+UA008044,21 Feb 21,4,regular,Round 4,Royal South Yarra 1,Royal South Yarra 2,2,8,2,4,,,20,28,Completed,
+UA008051,28 Feb 21,5,regular,Round 5,Kings Park,Royal South Yarra 2,2,8,2,4,,,18,31,Completed,
+UA008052,28 Feb 21,5,regular,Round 5,St Joan of Arc,Hurlingham Park,2,8,2,4,,,31,34,Completed,
+UA008053,28 Feb 21,5,regular,Round 5,Elsternwick Park,Royal South Yarra 1,10,0,6,0,,,36,5,Completed,
+UA008054,28 Feb 21,5,regular,Round 5,Maccabi,GPHC,9,1,5,1,,,35,29,Completed,
+UA008061,14 Mar 21,6,regular,Round 6,GPHC,Kings Park,8,2,4,2,,,27,19,Completed,
+UA008062,14 Mar 21,6,regular,Round 6,Royal South Yarra 2,Maccabi,2,8,2,4,,,24,32,Completed,
+UA008063,14 Mar 21,6,regular,Round 6,Hurlingham Park,Elsternwick Park,1,9,1,5,,,13,30,Completed,
+UA008064,14 Mar 21,6,regular,Round 6,Royal South Yarra 1,St Joan of Arc,1,9,1,5,,,18,31,Completed,
+UA008073,21 Mar 21,7,regular,Round 7,St Joan of Arc,Elsternwick Park,1,9,1,5,,,24,33,Completed,
+UA008074,21 Mar 21,7,regular,Round 7,Hurlingham Park,Royal South Yarra 1,8,2,4,2,,,32,23,Completed,
+pending-ua008-r7-gphc-royal-south-yarra-2,21 Mar 21,7,regular,Round 7,GPHC,Royal South Yarra 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua008-r7-maccabi-kings-park,21 Mar 21,7,regular,Round 7,Maccabi,Kings Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA008081,28 Mar 21,8,regular,Round 8,Royal South Yarra 1,Maccabi,1,9,1,5,,,21,35,Completed,
+UA008082,28 Mar 21,8,regular,Round 8,Elsternwick Park,GPHC,3,7,3,3,,,23,28,Completed,
+UA008083,28 Mar 21,8,regular,Round 8,Hurlingham Park,Kings Park,9,1,5,1,,,31,15,Completed,
+UA008084,28 Mar 21,8,regular,Round 8,St Joan of Arc,Royal South Yarra 2,9,1,5,1,,,33,21,Completed,
+UA008091,02 May 21,9,regular,Round 9,Maccabi,St Joan of Arc,3,7,3,3,,,22,29,Completed,
+UA008092,02 May 21,9,regular,Round 9,GPHC,Royal South Yarra 1,7,3,3,3,,,34,26,Completed,
+UA008093,02 May 21,9,regular,Round 9,Kings Park,Elsternwick Park,0,10,0,6,,,14,37,Completed,
+UA008094,02 May 21,9,regular,Round 9,Royal South Yarra 2,Hurlingham Park,0,10,0,6,,,16,37,Completed,
+UA008101,09 May 21,10,regular,Round 10,Hurlingham Park,Maccabi,8,2,4,2,,,32,17,Completed,
+UA008102,09 May 21,10,regular,Round 10,St Joan of Arc,GPHC,9,1,5,1,,,35,20,Completed,
+UA008103,09 May 21,10,regular,Round 10,Royal South Yarra 1,Kings Park,9,1,5,1,,,32,15,Completed,
+UA008104,09 May 21,10,regular,Round 10,Elsternwick Park,Royal South Yarra 2,9,1,5,1,,,32,15,Completed,
+UA008111,16 May 21,11,regular,Round 11,Maccabi,Elsternwick Park,7,3,3,3,,,27,20,Completed,
+UA008112,16 May 21,11,regular,Round 11,GPHC,Hurlingham Park,10,0,6,0,,,39,24,Completed,
+UA008113,16 May 21,11,regular,Round 11,Kings Park,St Joan of Arc,1,9,1,5,,,11,32,Completed,
+UA008114,16 May 21,11,regular,Round 11,Royal South Yarra 2,Royal South Yarra 1,8,2,4,2,,,33,24,Completed,
+UA008121,23 May 21,12,regular,Round 12,Royal South Yarra 2,Kings Park,10,0,6,0,,,37,7,Completed,
+UA008122,23 May 21,12,regular,Round 12,Hurlingham Park,St Joan of Arc,1,9,1,5,,,23,35,Completed,
+UA008123,23 May 21,12,regular,Round 12,Royal South Yarra 1,Elsternwick Park,0,10,0,6,,,13,36,Completed,
+UA008124,23 May 21,12,regular,Round 12,GPHC,Maccabi,2,8,2,4,,,18,28,Completed,
+pending-ua008-r13-elsternwick-park-hurlingham-park,30 May 21,13,regular,Round 13,Elsternwick Park,Hurlingham Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua008-r13-kings-park-gphc,30 May 21,13,regular,Round 13,Kings Park,GPHC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua008-r13-maccabi-royal-south-yarra-2,30 May 21,13,regular,Round 13,Maccabi,Royal South Yarra 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua008-r13-st-joan-of-arc-royal-south-yarra-1,30 May 21,13,regular,Round 13,St Joan of Arc,Royal South Yarra 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA008301,,16,semi_final,Semi-final,Elsternwick Park,Hurlingham Park,1.5,8.5,1,4,,,24,29,Completed,
+UA008302,,16,semi_final,Semi-final,St Joan of Arc,Maccabi,7,3,3,3,,,29,28,Completed,
+UA008321,,17,grand_final,Grand final · TROLS entry 2,St Joan of Arc,Hurlingham Park,8,2,4,2,,,34,25,Completed,

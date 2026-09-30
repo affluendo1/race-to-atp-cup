@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA29-UA015",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2021",
+  "season_id": "UA29",
+  "season_label": "Spring 2021",
+  "source_section_code": "UA015",
+  "section_label": "Section 15",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Hurlingham Park",
+      "wins": 6,
+      "points": 91,
+      "percentage": 154.17,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "St Pats Mentone",
+      "wins": 4,
+      "points": 84,
+      "percentage": 161.0,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Mentone",
+      "wins": 5,
+      "points": 78,
+      "percentage": 107.73,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Highett",
+      "wins": 3,
+      "points": 71,
+      "percentage": 94.58,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Maccabi",
+      "wins": 2,
+      "points": 62,
+      "percentage": 101.43,
+      "marker": "*"
+    },
+    {
+      "position": 6,
+      "team": "Aspendale",
+      "wins": 2,
+      "points": 58,
+      "percentage": 84.62,
+      "marker": "*"
+    },
+    {
+      "position": 7,
+      "team": "Lauriston",
+      "wins": 1,
+      "points": 54,
+      "percentage": 65.97,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kings Park",
+      "wins": 1,
+      "points": 52,
+      "percentage": 74.29,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA29-UA015",
+  "fixtures": 56,
+  "completed_fixtures": 25,
+  "draw_fixtures": 56,
+  "singles_rubbers": 100,
+  "doubles_rubbers": 50,
+  "latest_round": 14,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

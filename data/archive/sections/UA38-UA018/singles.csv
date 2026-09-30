@@ -1,0 +1,209 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA018011,01 Feb 26,1,Dendy Park,Royal South Yarra,No. 1,Bronson Galanos,Henry Heath,Henry Heath,4-6,4,6,0,1,Completed,true,false,false
+UA018011,01 Feb 26,1,Dendy Park,Royal South Yarra,No. 2,Dan Muirhead,Henry Lloyd,Dan Muirhead,6-4,6,4,1,0,Completed,true,false,false
+UA018011,01 Feb 26,1,Dendy Park,Royal South Yarra,No. 3,An Higuchi,Arabella East,Arabella East,4-6,4,6,0,1,Completed,true,false,false
+UA018011,01 Feb 26,1,Dendy Park,Royal South Yarra,No. 4,Zavier Galanis,Clementine Lidstone,Zavier Galanis,6-2,6,2,1,0,Completed,true,false,false
+UA018012,01 Feb 26,1,Lauriston Red,Lauriston Blue,No. 1,Ella Davis,Sara Ema,Sara Ema,2-6,2,6,0,1,Completed,true,false,false
+UA018012,01 Feb 26,1,Lauriston Red,Lauriston Blue,No. 2,Hana Lowe,Kathlyn Lam,Kathlyn Lam,1-6,1,6,0,1,Completed,true,false,false
+UA018012,01 Feb 26,1,Lauriston Red,Lauriston Blue,No. 3,Emilia Ferris,Emma Lowe,Emma Lowe,4-6,4,6,0,1,Completed,true,false,false
+UA018012,01 Feb 26,1,Lauriston Red,Lauriston Blue,No. 4,Jiya Kapoor,Sophia Wang,Sophia Wang,3-6,3,6,0,1,Completed,true,false,false
+UA018013,01 Feb 26,1,Hurlingham Park Blue,Hurlingham Park Red,No. 1,Asher Vaughan,Abbon Pham,Asher Vaughan,6-3,6,3,1,0,Completed,true,false,false
+UA018013,01 Feb 26,1,Hurlingham Park Blue,Hurlingham Park Red,No. 2,Ben Sparks,Ian Shao,Ben Sparks,6-1,6,1,1,0,Completed,true,false,false
+UA018013,01 Feb 26,1,Hurlingham Park Blue,Hurlingham Park Red,No. 3,Nina Seuret-Batterham,Andrew Zhang,Andrew Zhang,6-7,6,7,0,1,Completed,true,false,false
+UA018013,01 Feb 26,1,Hurlingham Park Blue,Hurlingham Park Red,No. 4,Ari Morehu,Abby Pham,Ari Morehu,6-3,6,3,1,0,Completed,true,false,false
+UA018014,01 Feb 26,1,Highett,Elsternwick Park,No. 1,Jimmy Church,Shai Hacham,Shai Hacham,3-6,3,6,0,1,Completed,true,false,false
+UA018014,01 Feb 26,1,Highett,Elsternwick Park,No. 2,Sonny McMahon,Rafi Arumugam,Sonny McMahon,6-1,6,1,1,0,Completed,true,false,false
+UA018014,01 Feb 26,1,Highett,Elsternwick Park,No. 3,Charlie Palmer,Jimi Griffiths,Jimi Griffiths,1-6,1,6,0,1,Completed,true,false,false
+UA018014,01 Feb 26,1,Highett,Elsternwick Park,No. 4,Lukas Klettle-Sullivan,Edward Tseitkin,Edward Tseitkin,3-6,3,6,0,1,Completed,true,false,false
+UA018021,08 Feb 26,2,Elsternwick Park,Dendy Park,No. 1,Shai Hacham,Bronson Galanos,Shai Hacham,6-2,6,2,1,0,Completed,true,false,false
+UA018021,08 Feb 26,2,Elsternwick Park,Dendy Park,No. 2,Rafi Arumugam,Dan Muirhead,Rafi Arumugam,6-3,6,3,1,0,Completed,true,false,false
+UA018021,08 Feb 26,2,Elsternwick Park,Dendy Park,No. 3,Oscar Layton,Zara Reis,Oscar Layton,6-3,6,3,1,0,Completed,true,false,false
+UA018021,08 Feb 26,2,Elsternwick Park,Dendy Park,No. 4,Edward Tseitkin,Zavier Galanis,Edward Tseitkin,6-3,6,3,1,0,Completed,true,false,false
+UA018022,08 Feb 26,2,Royal South Yarra,Lauriston Red,No. 1,Henry Heath,Mila Kerstens,Mila Kerstens,2-6,2,6,0,1,Completed,true,false,false
+UA018022,08 Feb 26,2,Royal South Yarra,Lauriston Red,No. 2,Orlando Moran,Ella Davis,Orlando Moran,6-1,6,1,1,0,Completed,true,false,false
+UA018022,08 Feb 26,2,Royal South Yarra,Lauriston Red,No. 3,Jessica Dring,Hana Lowe,Jessica Dring,7-5,7,5,1,0,Completed,true,false,false
+UA018022,08 Feb 26,2,Royal South Yarra,Lauriston Red,No. 4,Camilla Thomas,Emilia Ferris,Emilia Ferris,5-7,5,7,0,1,Completed,true,false,false
+UA018023,08 Feb 26,2,Lauriston Blue,Hurlingham Park Blue,No. 1,Sara Ema,Asher Vaughan,Sara Ema,6-4,6,4,1,0,Completed,true,false,false
+UA018023,08 Feb 26,2,Lauriston Blue,Hurlingham Park Blue,No. 2,Emma Lowe,Ben Sparks,Ben Sparks,0-6,0,6,0,1,Completed,true,false,false
+UA018023,08 Feb 26,2,Lauriston Blue,Hurlingham Park Blue,No. 3,Sophia Wang,Noah Ueckerman,Noah Ueckerman,2-6,2,6,0,1,Completed,true,false,false
+UA018023,08 Feb 26,2,Lauriston Blue,Hurlingham Park Blue,No. 4,Rina Ema,Ari Morehu,Rina Ema,6-0,6,0,1,0,Completed,true,false,false
+UA018024,08 Feb 26,2,Hurlingham Park Red,Highett,No. 1,Abbon Pham,Jimmy Church,Abbon Pham,6-0,6,0,1,0,Completed,true,false,false
+UA018024,08 Feb 26,2,Hurlingham Park Red,Highett,No. 2,Charlie Sheng,Sonny McMahon,Sonny McMahon,3-6,3,6,0,1,Completed,true,false,false
+UA018024,08 Feb 26,2,Hurlingham Park Red,Highett,No. 3,Andrew Zhang,Jamie Blampied,Jamie Blampied,4-6,4,6,0,1,Completed,true,false,false
+UA018024,08 Feb 26,2,Hurlingham Park Red,Highett,No. 4,Abby Pham,Sam Church,Sam Church,3-6,3,6,0,1,Completed,true,false,false
+UA018031,15 Feb 26,3,Dendy Park,Hurlingham Park Red,No. 1,Dan Muirhead,Jonah Rey,Dan Muirhead,6-3,6,3,1,0,Completed,true,false,false
+UA018031,15 Feb 26,3,Dendy Park,Hurlingham Park Red,No. 2,Zara Reis,Ian Shao,Zara Reis,6-1,6,1,1,0,Completed,true,false,false
+UA018031,15 Feb 26,3,Dendy Park,Hurlingham Park Red,No. 3,An Higuchi,Charlie Sheng,Charlie Sheng,4-6,4,6,0,1,Completed,true,false,false
+UA018031,15 Feb 26,3,Dendy Park,Hurlingham Park Red,No. 4,Enzo Zhang,Andrew Zhang,Enzo Zhang,7-5,7,5,1,0,Completed,true,false,false
+UA018032,15 Feb 26,3,Lauriston Red,Elsternwick Park,No. 1,Barney Frost,Shai Hacham,Shai Hacham,1-6,1,6,0,1,Completed,true,true,false
+UA018032,15 Feb 26,3,Lauriston Red,Elsternwick Park,No. 2,Ella Davis,Oscar Layton,Ella Davis,6-2,6,2,1,0,Completed,true,false,false
+UA018032,15 Feb 26,3,Lauriston Red,Elsternwick Park,No. 3,Hana Lowe,Jimi Griffiths,Jimi Griffiths,4-6,4,6,0,1,Completed,true,false,false
+UA018032,15 Feb 26,3,Lauriston Red,Elsternwick Park,No. 4,Jiya Kapoor,Edward Tseitkin,Edward Tseitkin,1-6,1,6,0,1,Completed,true,false,false
+UA018033,15 Feb 26,3,Hurlingham Park Blue,Royal South Yarra,No. 1,Ben Sparks,Henry Lloyd,Ben Sparks,6-4,6,4,1,0,Completed,true,false,false
+UA018033,15 Feb 26,3,Hurlingham Park Blue,Royal South Yarra,No. 2,Noah Ueckerman,Orlando Moran,Noah Ueckerman,6-1,6,1,1,0,Completed,true,false,false
+UA018033,15 Feb 26,3,Hurlingham Park Blue,Royal South Yarra,No. 3,Nina Seuret-Batterham,Jessica Dring,Nina Seuret-Batterham,6-3,6,3,1,0,Completed,true,false,false
+UA018033,15 Feb 26,3,Hurlingham Park Blue,Royal South Yarra,No. 4,Ari Morehu,Clementine Lidstone,Ari Morehu,6-2,6,2,1,0,Completed,true,false,false
+UA018034,15 Feb 26,3,Highett,Lauriston Blue,No. 1,Jamie Blampied,Sara Ema,Sara Ema,2-6,2,6,0,1,Completed,true,false,false
+UA018034,15 Feb 26,3,Highett,Lauriston Blue,No. 2,Sam Church,Kathlyn Lam,Kathlyn Lam,1-6,1,6,0,1,Completed,true,false,false
+UA018034,15 Feb 26,3,Highett,Lauriston Blue,No. 3,Charlie Palmer,Sophie Liu,Sophie Liu,1-6,1,6,0,1,Completed,true,false,false
+UA018034,15 Feb 26,3,Highett,Lauriston Blue,No. 4,Lukas Klettle-Sullivan,Rina Ema,Rina Ema,0-6,0,6,0,1,Completed,true,false,false
+UA018041,22 Feb 26,4,Lauriston Blue,Dendy Park,No. 1,Sara Ema,Bronson Galanos,Sara Ema,6-3,6,3,1,0,Completed,true,false,false
+UA018041,22 Feb 26,4,Lauriston Blue,Dendy Park,No. 2,Kathlyn Lam,Dan Muirhead,Dan Muirhead,2-6,2,6,0,1,Completed,true,false,false
+UA018041,22 Feb 26,4,Lauriston Blue,Dendy Park,No. 3,Emma Lowe,An Higuchi,An Higuchi,4-6,4,6,0,1,Completed,true,false,false
+UA018041,22 Feb 26,4,Lauriston Blue,Dendy Park,No. 4,Sophie Liu,Zavier Galanis,Zavier Galanis,2-6,2,6,0,1,Completed,true,false,false
+UA018042,22 Feb 26,4,Hurlingham Park Red,Lauriston Red,No. 1,Abbon Pham,Mila Kerstens,Mila Kerstens,6-7,6,7,0,1,Completed,true,false,false
+UA018042,22 Feb 26,4,Hurlingham Park Red,Lauriston Red,No. 2,Jonah Rey,Ella Davis,Jonah Rey,6-3,6,3,1,0,Completed,true,false,false
+UA018042,22 Feb 26,4,Hurlingham Park Red,Lauriston Red,No. 3,Charlie Sheng,Emilia Ferris,Charlie Sheng,6-4,6,4,1,0,Completed,true,false,false
+UA018042,22 Feb 26,4,Hurlingham Park Red,Lauriston Red,No. 4,Abby Pham,Jiya Kapoor,Abby Pham,6-3,6,3,1,0,Completed,true,false,false
+UA018043,22 Feb 26,4,Elsternwick Park,Hurlingham Park Blue,No. 1,Shai Hacham,Asher Vaughan,Shai Hacham,6-2,6,2,1,0,Completed,true,false,false
+UA018043,22 Feb 26,4,Elsternwick Park,Hurlingham Park Blue,No. 2,Rafi Arumugam,Ben Sparks,Ben Sparks,4-6,4,6,0,1,Completed,true,false,false
+UA018043,22 Feb 26,4,Elsternwick Park,Hurlingham Park Blue,No. 3,Oscar Layton,Noah Ueckerman,Noah Ueckerman,2-6,2,6,0,1,Completed,true,false,false
+UA018043,22 Feb 26,4,Elsternwick Park,Hurlingham Park Blue,No. 4,Jimi Griffiths,Nina Seuret-Batterham,Jimi Griffiths,6-2,6,2,1,0,Completed,true,false,false
+UA018044,22 Feb 26,4,Royal South Yarra,Highett,No. 1,Nicholas Lincoln,Jimmy Church,Nicholas Lincoln,6-0,6,0,1,0,Completed,true,false,false
+UA018044,22 Feb 26,4,Royal South Yarra,Highett,No. 2,Henry Lloyd,Sonny McMahon,Henry Lloyd,6-4,6,4,1,0,Completed,true,false,false
+UA018044,22 Feb 26,4,Royal South Yarra,Highett,No. 3,Orlando Moran,Charlie Palmer,Charlie Palmer,5-7,5,7,0,1,Completed,true,false,false
+UA018044,22 Feb 26,4,Royal South Yarra,Highett,No. 4,Jessica Dring,Lukas Klettle-Sullivan,Lukas Klettle-Sullivan,3-6,3,6,0,1,Completed,true,false,false
+UA018051,01 Mar 26,5,Hurlingham Park Blue,Highett,No. 1,Asher Vaughan,Jimmy Church,Jimmy Church,6-7,6,7,0,1,Completed,true,false,false
+UA018051,01 Mar 26,5,Hurlingham Park Blue,Highett,No. 2,Noah Ueckerman,Sonny McMahon,Noah Ueckerman,6-3,6,3,1,0,Completed,true,false,false
+UA018051,01 Mar 26,5,Hurlingham Park Blue,Highett,No. 3,Nina Seuret-Batterham,Jamie Blampied,Nina Seuret-Batterham,7-6,7,6,1,0,Completed,true,false,false
+UA018051,01 Mar 26,5,Hurlingham Park Blue,Highett,No. 4,Ari Morehu,Sam Church,Sam Church,2-6,2,6,0,1,Completed,true,false,false
+UA018052,01 Mar 26,5,Elsternwick Park,Hurlingham Park Red,No. 1,Rafi Arumugam,Jonah Rey,Jonah Rey,2-6,2,6,0,1,Completed,true,false,false
+UA018052,01 Mar 26,5,Elsternwick Park,Hurlingham Park Red,No. 2,Oscar Layton,Ian Shao,Oscar Layton,6-0,6,0,1,0,Completed,true,false,false
+UA018052,01 Mar 26,5,Elsternwick Park,Hurlingham Park Red,No. 3,Jimi Griffiths,Charlie Sheng,Jimi Griffiths,6-1,6,1,1,0,Completed,true,false,false
+UA018052,01 Mar 26,5,Elsternwick Park,Hurlingham Park Red,No. 4,Edward Tseitkin,Andrew Zhang,Andrew Zhang,4-6,4,6,0,1,Completed,true,false,false
+UA018053,01 Mar 26,5,Lauriston Blue,Royal South Yarra,No. 1,Kathlyn Lam,Nicholas Lincoln,Nicholas Lincoln,6-7,6,7,0,1,Completed,true,false,false
+UA018053,01 Mar 26,5,Lauriston Blue,Royal South Yarra,No. 2,Emma Lowe,Henry Heath,Henry Heath,0-6,0,6,0,1,Completed,true,false,false
+UA018053,01 Mar 26,5,Lauriston Blue,Royal South Yarra,No. 3,Sophie Liu,Arabella East,Arabella East,1-6,1,6,0,1,Completed,true,false,false
+UA018053,01 Mar 26,5,Lauriston Blue,Royal South Yarra,No. 4,Sophia Wang,Camilla Thomas,Sophia Wang,6-2,6,2,1,0,Completed,true,false,false
+UA018054,01 Mar 26,5,Dendy Park,Lauriston Red,No. 1,Bronson Galanos,Mila Kerstens,Mila Kerstens,1-6,1,6,0,1,Completed,true,false,false
+UA018054,01 Mar 26,5,Dendy Park,Lauriston Red,No. 2,Zara Reis,Hana Lowe,Hana Lowe,0-6,0,6,0,1,Completed,true,false,false
+UA018054,01 Mar 26,5,Dendy Park,Lauriston Red,No. 3,An Higuchi,Emilia Ferris,An Higuchi,6-3,6,3,1,0,Completed,true,false,false
+UA018054,01 Mar 26,5,Dendy Park,Lauriston Red,No. 4,Zavier Galanis,Jiya Kapoor,Zavier Galanis,6-0,6,0,1,0,Completed,true,false,false
+UA018061,15 Mar 26,6,Lauriston Red,Hurlingham Park Blue,No. 1,Mila Kerstens,Asher Vaughan,Mila Kerstens,6-4,6,4,1,0,Completed,true,false,false
+UA018061,15 Mar 26,6,Lauriston Red,Hurlingham Park Blue,No. 2,Ella Davis,Ben Sparks,Ben Sparks,3-6,3,6,0,1,Completed,true,false,false
+UA018061,15 Mar 26,6,Lauriston Red,Hurlingham Park Blue,No. 3,Hana Lowe,Nina Seuret-Batterham,Nina Seuret-Batterham,3-6,3,6,0,1,Completed,true,false,false
+UA018061,15 Mar 26,6,Lauriston Red,Hurlingham Park Blue,No. 4,Emilia Ferris,Ari Morehu,Ari Morehu,3-6,3,6,0,1,Completed,true,false,false
+UA018062,15 Mar 26,6,Highett,Dendy Park,No. 1,Jamie Blampied,Bronson Galanos,Bronson Galanos,1-6,1,6,0,1,Completed,true,false,false
+UA018062,15 Mar 26,6,Highett,Dendy Park,No. 2,Sam Church,Dan Muirhead,Dan Muirhead,3-6,3,6,0,1,Completed,true,false,false
+UA018062,15 Mar 26,6,Highett,Dendy Park,No. 3,Charlie Palmer,Zara Reis,Zara Reis,4-6,4,6,0,1,Completed,true,false,false
+UA018062,15 Mar 26,6,Highett,Dendy Park,No. 4,Lukas Klettle-Sullivan,An Higuchi,Lukas Klettle-Sullivan,6-2,6,2,1,0,Completed,true,false,false
+UA018063,15 Mar 26,6,Hurlingham Park Red,Lauriston Blue,No. 1,Abbon Pham,Sara Ema,Sara Ema,2-6,2,6,0,1,Completed,true,false,false
+UA018063,15 Mar 26,6,Hurlingham Park Red,Lauriston Blue,No. 2,Jonah Rey,Emma Lowe,Jonah Rey,6-2,6,2,1,0,Completed,true,false,false
+UA018063,15 Mar 26,6,Hurlingham Park Red,Lauriston Blue,No. 3,Ian Shao,Sophia Wang,Sophia Wang,4-6,4,6,0,1,Completed,true,false,false
+UA018063,15 Mar 26,6,Hurlingham Park Red,Lauriston Blue,No. 4,Abby Pham,Rina Ema,Rina Ema,1-6,1,6,0,1,Completed,true,false,false
+UA018064,15 Mar 26,6,Royal South Yarra,Elsternwick Park,No. 1,Nicholas Lincoln,Shai Hacham,Nicholas Lincoln,6-2,6,2,1,0,Completed,true,false,false
+UA018064,15 Mar 26,6,Royal South Yarra,Elsternwick Park,No. 2,Orlando Moran,Rafi Arumugam,Rafi Arumugam,1-6,1,6,0,1,Completed,true,false,false
+UA018064,15 Mar 26,6,Royal South Yarra,Elsternwick Park,No. 3,Sebastian Lincoln,Oscar Layton,Sebastian Lincoln,6-4,6,4,1,0,Completed,true,true,false
+UA018064,15 Mar 26,6,Royal South Yarra,Elsternwick Park,No. 4,Angus Lloyd,Jimi Griffiths,Jimi Griffiths,1-6,1,6,0,1,Completed,true,true,false
+UA018071,22 Mar 26,7,Dendy Park,Hurlingham Park Blue,No. 1,Bronson Galanos,Asher Vaughan,Asher Vaughan,4-6,4,6,0,1,Completed,true,false,false
+UA018071,22 Mar 26,7,Dendy Park,Hurlingham Park Blue,No. 2,Alex Ng,Ben Sparks,Alex Ng,6-3,6,3,1,0,Completed,true,true,false
+UA018071,22 Mar 26,7,Dendy Park,Hurlingham Park Blue,No. 3,Enzo Zhang,Noah Ueckerman,Noah Ueckerman,5-7,5,7,0,1,Completed,true,false,false
+UA018071,22 Mar 26,7,Dendy Park,Hurlingham Park Blue,No. 4,Zavier Galanis,Ari Morehu,Ari Morehu,0-6,0,6,0,1,Completed,true,false,false
+UA018072,22 Mar 26,7,Lauriston Red,Highett,No. 1,Mila Kerstens,Jimmy Church,Mila Kerstens,7-5,7,5,1,0,Completed,true,false,false
+UA018072,22 Mar 26,7,Lauriston Red,Highett,No. 2,Ella Davis,Sonny McMahon,Sonny McMahon,2-6,2,6,0,1,Completed,true,false,false
+UA018072,22 Mar 26,7,Lauriston Red,Highett,No. 3,Hana Lowe,Charlie Palmer,Hana Lowe,6-1,6,1,1,0,Completed,true,false,false
+UA018072,22 Mar 26,7,Lauriston Red,Highett,No. 4,Emilia Ferris,Lukas Klettle-Sullivan,Emilia Ferris,6-3,6,3,1,0,Completed,true,false,false
+UA018073,22 Mar 26,7,Elsternwick Park,Lauriston Blue,No. 1,Rafi Arumugam,Sara Ema,Rafi Arumugam,6-4,6,4,1,0,Completed,true,false,false
+UA018073,22 Mar 26,7,Elsternwick Park,Lauriston Blue,No. 2,Oscar Layton,Kathlyn Lam,Kathlyn Lam,0-6,0,6,0,1,Completed,true,false,false
+UA018073,22 Mar 26,7,Elsternwick Park,Lauriston Blue,No. 3,Jimi Griffiths,Sophie Liu,Jimi Griffiths,6-0,6,0,1,0,Completed,true,false,false
+UA018073,22 Mar 26,7,Elsternwick Park,Lauriston Blue,No. 4,Edward Tseitkin,Rina Ema,Edward Tseitkin,6-4,6,4,1,0,Completed,true,false,false
+UA018074,22 Mar 26,7,Hurlingham Park Red,Royal South Yarra,No. 1,Abbon Pham,Nicholas Lincoln,Nicholas Lincoln,0-6,0,6,0,1,Completed,true,false,false
+UA018074,22 Mar 26,7,Hurlingham Park Red,Royal South Yarra,No. 2,Ian Shao,Orlando Moran,Ian Shao,2-1,2,1,1,0,Completed,false,false,false
+UA018074,22 Mar 26,7,Hurlingham Park Red,Royal South Yarra,No. 3,Charlie Sheng,Arabella East,Charlie Sheng,6-4,6,4,1,0,Completed,true,false,false
+UA018074,22 Mar 26,7,Hurlingham Park Red,Royal South Yarra,No. 4,Abby Pham,Camilla Thomas,Abby Pham,7-5,7,5,1,0,Completed,true,false,false
+UA018081,29 Mar 26,8,Royal South Yarra,Dendy Park,No. 1,Arabella East,Dan Muirhead,Dan Muirhead,1-6,1,6,0,1,Completed,true,false,false
+UA018081,29 Mar 26,8,Royal South Yarra,Dendy Park,No. 2,Jessica Dring,Zara Reis,Zara Reis,2-6,2,6,0,1,Completed,true,false,false
+UA018081,29 Mar 26,8,Royal South Yarra,Dendy Park,No. 3,Camilla Thomas,An Higuchi,An Higuchi,1-6,1,6,0,1,Completed,true,false,false
+UA018081,29 Mar 26,8,Royal South Yarra,Dendy Park,No. 4,Annie Oxley,Zavier Galanis,Zavier Galanis,2-6,2,6,0,1,Completed,true,true,false
+UA018082,29 Mar 26,8,Lauriston Blue,Lauriston Red,No. 1,Kathlyn Lam,Mila Kerstens,Mila Kerstens,1-6,1,6,0,1,Completed,true,false,false
+UA018082,29 Mar 26,8,Lauriston Blue,Lauriston Red,No. 2,Emma Lowe,Ella Davis,Ella Davis,1-6,1,6,0,1,Completed,true,false,false
+UA018082,29 Mar 26,8,Lauriston Blue,Lauriston Red,No. 3,Sophie Liu,Emilia Ferris,Sophie Liu,6-4,6,4,1,0,Completed,true,false,false
+UA018082,29 Mar 26,8,Lauriston Blue,Lauriston Red,No. 4,Sophia Wang,Jiya Kapoor,Sophia Wang,6-2,6,2,1,0,Completed,true,false,false
+UA018083,29 Mar 26,8,Hurlingham Park Red,Hurlingham Park Blue,No. 1,Abbon Pham,Ben Sparks,Ben Sparks,6-7,6,7,0,1,Completed,true,false,false
+UA018083,29 Mar 26,8,Hurlingham Park Red,Hurlingham Park Blue,No. 2,Jonah Rey,Noah Ueckerman,Jonah Rey,7-6,7,6,1,0,Completed,true,false,false
+UA018083,29 Mar 26,8,Hurlingham Park Red,Hurlingham Park Blue,No. 3,Charlie Sheng,Nina Seuret-Batterham,Charlie Sheng,7-5,7,5,1,0,Completed,true,false,false
+UA018083,29 Mar 26,8,Hurlingham Park Red,Hurlingham Park Blue,No. 4,Abby Pham,Ari Morehu,Ari Morehu,3-6,3,6,0,1,Completed,true,false,false
+UA018084,29 Mar 26,8,Elsternwick Park,Highett,No. 1,Shai Hacham,Jimmy Church,Jimmy Church,1-6,1,6,0,1,Completed,true,false,false
+UA018084,29 Mar 26,8,Elsternwick Park,Highett,No. 2,Rafi Arumugam,Sonny McMahon,Rafi Arumugam,6-4,6,4,1,0,Completed,true,false,false
+UA018084,29 Mar 26,8,Elsternwick Park,Highett,No. 3,Jimi Griffiths,Jamie Blampied,Jimi Griffiths,6-0,6,0,1,0,Completed,true,false,false
+UA018084,29 Mar 26,8,Elsternwick Park,Highett,No. 4,Edward Tseitkin,Sam Church,Sam Church,1-6,1,6,0,1,Completed,true,false,false
+UA018091,26 Apr 26,9,Dendy Park,Elsternwick Park,No. 1,Bronson Galanos,Shai Hacham,Bronson Galanos,6-3,6,3,1,0,Completed,true,false,false
+UA018091,26 Apr 26,9,Dendy Park,Elsternwick Park,No. 2,Dan Muirhead,Rafi Arumugam,Dan Muirhead,6-1,6,1,1,0,Completed,true,false,false
+UA018091,26 Apr 26,9,Dendy Park,Elsternwick Park,No. 3,Zara Reis,Oscar Layton,Zara Reis,6-3,6,3,1,0,Completed,true,false,false
+UA018091,26 Apr 26,9,Dendy Park,Elsternwick Park,No. 4,Enzo Zhang,Jimi Griffiths,Jimi Griffiths,3-6,3,6,0,1,Completed,true,false,false
+UA018092,26 Apr 26,9,Lauriston Red,Royal South Yarra,No. 1,Ella Davis,Henry Lloyd,Ella Davis,7-6,7,6,1,0,Completed,true,false,false
+UA018092,26 Apr 26,9,Lauriston Red,Royal South Yarra,No. 2,Hana Lowe,Orlando Moran,Orlando Moran,3-6,3,6,0,1,Completed,true,false,false
+UA018092,26 Apr 26,9,Lauriston Red,Royal South Yarra,No. 3,Emilia Ferris,Jessica Dring,Jessica Dring,4-6,4,6,0,1,Completed,true,false,false
+UA018092,26 Apr 26,9,Lauriston Red,Royal South Yarra,No. 4,Natalie Petrova,Camilla Thomas,Natalie Petrova,7-5,7,5,1,0,Completed,true,true,false
+UA018093,26 Apr 26,9,Hurlingham Park Blue,Lauriston Blue,No. 1,Asher Vaughan,Sara Ema,Asher Vaughan,7-5,7,5,1,0,Completed,true,false,false
+UA018093,26 Apr 26,9,Hurlingham Park Blue,Lauriston Blue,No. 2,Ben Sparks,Emma Lowe,Ben Sparks,6-1,6,1,1,0,Completed,true,false,false
+UA018093,26 Apr 26,9,Hurlingham Park Blue,Lauriston Blue,No. 3,Zoe Byass,Sophia Wang,Zoe Byass,6-4,6,4,1,0,Completed,true,false,false
+UA018093,26 Apr 26,9,Hurlingham Park Blue,Lauriston Blue,No. 4,Ari Morehu,Rina Ema,Ari Morehu,7-5,7,5,1,0,Completed,true,false,false
+UA018094,26 Apr 26,9,Highett,Hurlingham Park Red,No. 1,Jamie Blampied,Abbon Pham,Abbon Pham,3-6,3,6,0,1,Completed,true,false,false
+UA018094,26 Apr 26,9,Highett,Hurlingham Park Red,No. 2,Sam Church,Jonah Rey,Sam Church,6-1,6,1,1,0,Completed,true,false,false
+UA018094,26 Apr 26,9,Highett,Hurlingham Park Red,No. 3,Charlie Palmer,Ian Shao,Ian Shao,5-7,5,7,0,1,Completed,true,false,false
+UA018094,26 Apr 26,9,Highett,Hurlingham Park Red,No. 4,Lukas Klettle-Sullivan,Abby Pham,Abby Pham,3-6,3,6,0,1,Completed,true,false,false
+UA018102,03 May 26,10,Elsternwick Park,Lauriston Red,No. 1,Shai Hacham,Ella Davis,Shai Hacham,6-0,6,0,1,0,Completed,true,false,false
+UA018102,03 May 26,10,Elsternwick Park,Lauriston Red,No. 2,Rafi Arumugam,Hana Lowe,Rafi Arumugam,6-0,6,0,1,0,Completed,true,false,false
+UA018102,03 May 26,10,Elsternwick Park,Lauriston Red,No. 3,Oscar Layton,Emilia Ferris,Emilia Ferris,3-6,3,6,0,1,Completed,true,false,false
+UA018102,03 May 26,10,Elsternwick Park,Lauriston Red,No. 4,Edward Tseitkin,Jiya Kapoor,Edward Tseitkin,6-0,6,0,1,0,Completed,true,false,false
+UA018111,10 May 26,11,Dendy Park,Lauriston Blue,No. 1,Bronson Galanos,Kathlyn Lam,Bronson Galanos,6-4,6,4,1,0,Completed,true,false,false
+UA018111,10 May 26,11,Dendy Park,Lauriston Blue,No. 2,Dan Muirhead,Emma Lowe,Dan Muirhead,6-1,6,1,1,0,Completed,true,false,false
+UA018111,10 May 26,11,Dendy Park,Lauriston Blue,No. 3,Enzo Zhang,Sophia Wang,Enzo Zhang,6-2,6,2,1,0,Completed,true,false,false
+UA018111,10 May 26,11,Dendy Park,Lauriston Blue,No. 4,Zavier Galanis,Rina Ema,Rina Ema,1-6,1,6,0,1,Completed,true,false,false
+UA018112,10 May 26,11,Lauriston Red,Hurlingham Park Red,No. 1,Ella Davis,Abbon Pham,Ella Davis,6-4,6,4,1,0,Completed,true,false,false
+UA018112,10 May 26,11,Lauriston Red,Hurlingham Park Red,No. 2,Hana Lowe,Jonah Rey,Jonah Rey,0-6,0,6,0,1,Completed,true,false,false
+UA018112,10 May 26,11,Lauriston Red,Hurlingham Park Red,No. 3,Emilia Ferris,Charlie Sheng,Charlie Sheng,1-6,1,6,0,1,Completed,true,false,false
+UA018112,10 May 26,11,Lauriston Red,Hurlingham Park Red,No. 4,Jiya Kapoor,Abby Pham,Abby Pham,1-6,1,6,0,1,Completed,true,false,false
+UA018113,10 May 26,11,Hurlingham Park Blue,Elsternwick Park,No. 1,Ben Sparks,Oscar Layton,Ben Sparks,6-2,6,2,1,0,Completed,true,false,false
+UA018113,10 May 26,11,Hurlingham Park Blue,Elsternwick Park,No. 2,Zoe Byass,Jimi Griffiths,Jimi Griffiths,4-6,4,6,0,1,Completed,true,false,false
+UA018113,10 May 26,11,Hurlingham Park Blue,Elsternwick Park,No. 3,Noah Ueckerman,Edward Tseitkin,Edward Tseitkin,4-6,4,6,0,1,Completed,true,false,false
+UA018113,10 May 26,11,Hurlingham Park Blue,Elsternwick Park,No. 4,Nina Seuret-Batterham,Tyson Beville,Nina Seuret-Batterham,6-3,6,3,1,0,Completed,true,false,true
+UA018114,10 May 26,11,Highett,Royal South Yarra,No. 1,Jimmy Church,Nicholas Lincoln,Jimmy Church,6-4,6,4,1,0,Completed,true,false,false
+UA018114,10 May 26,11,Highett,Royal South Yarra,No. 2,Jamie Blampied,Henry Heath,Henry Heath,4-6,4,6,0,1,Completed,true,false,false
+UA018114,10 May 26,11,Highett,Royal South Yarra,No. 3,Jinay Shah,Orlando Moran,Orlando Moran,1-6,1,6,0,1,Completed,true,true,false
+UA018114,10 May 26,11,Highett,Royal South Yarra,No. 4,Martin Simpson,Clementine Lidstone,Clementine Lidstone,4-6,4,6,0,1,Completed,true,true,false
+UA018131,24 May 26,13,Hurlingham Park Blue,Lauriston Red,No. 1,Asher Vaughan,Ella Davis,Asher Vaughan,6-3,6,3,1,0,Completed,true,false,false
+UA018131,24 May 26,13,Hurlingham Park Blue,Lauriston Red,No. 2,Ben Sparks,Hana Lowe,Ben Sparks,6-1,6,1,1,0,Completed,true,false,false
+UA018131,24 May 26,13,Hurlingham Park Blue,Lauriston Red,No. 3,Hugo Vaughan,Emilia Ferris,Hugo Vaughan,6-3,6,3,1,0,Completed,true,true,false
+UA018131,24 May 26,13,Hurlingham Park Blue,Lauriston Red,No. 4,Ari Morehu,Jiya Kapoor,Ari Morehu,6-0,6,0,1,0,Completed,true,false,false
+UA018132,24 May 26,13,Dendy Park,Highett,No. 1,Dan Muirhead,Jimmy Church,Jimmy Church,1-6,1,6,0,1,Completed,true,false,false
+UA018132,24 May 26,13,Dendy Park,Highett,No. 2,Zara Reis,Sonny McMahon,Sonny McMahon,2-6,2,6,0,1,Completed,true,false,false
+UA018132,24 May 26,13,Dendy Park,Highett,No. 3,Enzo Zhang,Jamie Blampied,Enzo Zhang,6-4,6,4,1,0,Completed,true,false,false
+UA018132,24 May 26,13,Dendy Park,Highett,No. 4,Zavier Galanis,Charlie Palmer,Zavier Galanis,7-6,7,6,1,0,Completed,true,false,false
+UA018133,24 May 26,13,Lauriston Blue,Hurlingham Park Red,No. 1,Sara Ema,Abbon Pham,Abbon Pham,3-6,3,6,0,1,Completed,true,false,false
+UA018133,24 May 26,13,Lauriston Blue,Hurlingham Park Red,No. 2,Kathlyn Lam,Jonah Rey,Jonah Rey,3-6,3,6,0,1,Completed,true,false,false
+UA018133,24 May 26,13,Lauriston Blue,Hurlingham Park Red,No. 3,Sophia Wang,Charlie Sheng,Sophia Wang,6-4,6,4,1,0,Completed,true,false,false
+UA018133,24 May 26,13,Lauriston Blue,Hurlingham Park Red,No. 4,Rina Ema,Jess Williams,Rina Ema,6-0,6,0,1,0,Completed,true,false,true
+UA018134,24 May 26,13,Elsternwick Park,Royal South Yarra,No. 1,Shai Hacham,Orlando Moran,Shai Hacham,6-1,6,1,1,0,Completed,true,false,false
+UA018134,24 May 26,13,Elsternwick Park,Royal South Yarra,No. 2,Oscar Layton,Arabella East,Arabella East,4-6,4,6,0,1,Completed,true,false,false
+UA018134,24 May 26,13,Elsternwick Park,Royal South Yarra,No. 3,Jimi Griffiths,Jessica Dring,Jimi Griffiths,6-1,6,1,1,0,Completed,true,false,false
+UA018134,24 May 26,13,Elsternwick Park,Royal South Yarra,No. 4,Edward Tseitkin,Camilla Thomas,Edward Tseitkin,6-1,6,1,1,0,Completed,true,false,false
+UA018141,31 May 26,14,Hurlingham Park Blue,Dendy Park,No. 1,Asher Vaughan,Bronson Galanos,Asher Vaughan,7-5,7,5,1,0,Completed,true,false,false
+UA018141,31 May 26,14,Hurlingham Park Blue,Dendy Park,No. 2,Ben Sparks,Dan Muirhead,Ben Sparks,6-1,6,1,1,0,Completed,true,false,false
+UA018141,31 May 26,14,Hurlingham Park Blue,Dendy Park,No. 3,Nina Seuret-Batterham,An Higuchi,Nina Seuret-Batterham,6-4,6,4,1,0,Completed,true,false,false
+UA018141,31 May 26,14,Hurlingham Park Blue,Dendy Park,No. 4,Ari Morehu,Enzo Zhang,Enzo Zhang,3-6,3,6,0,1,Completed,true,false,false
+UA018142,31 May 26,14,Highett,Lauriston Red,No. 1,Jimmy Church,Ella Davis,Jimmy Church,6-1,6,1,1,0,Completed,true,false,false
+UA018142,31 May 26,14,Highett,Lauriston Red,No. 2,Jamie Blampied,Hana Lowe,Jamie Blampied,6-4,6,4,1,0,Completed,true,false,false
+UA018142,31 May 26,14,Highett,Lauriston Red,No. 3,Sam Church,Emilia Ferris,Sam Church,6-1,6,1,1,0,Completed,true,false,false
+UA018142,31 May 26,14,Highett,Lauriston Red,No. 4,Charlie Palmer,Jiya Kapoor,Jiya Kapoor,0-6,0,6,0,1,Completed,true,false,false
+UA018143,31 May 26,14,Lauriston Blue,Elsternwick Park,No. 1,Sara Ema,Rafi Arumugam,Sara Ema,6-4,6,4,1,0,Completed,true,false,false
+UA018143,31 May 26,14,Lauriston Blue,Elsternwick Park,No. 2,Kathlyn Lam,Jimi Griffiths,Jimi Griffiths,4-6,4,6,0,1,Completed,true,false,false
+UA018143,31 May 26,14,Lauriston Blue,Elsternwick Park,No. 3,Emma Lowe,Edward Tseitkin,Edward Tseitkin,1-6,1,6,0,1,Completed,true,false,false
+UA018143,31 May 26,14,Lauriston Blue,Elsternwick Park,No. 4,Sophie Liu,Owen Curtis,Owen Curtis,2-6,2,6,0,1,Completed,true,false,true
+UA018144,31 May 26,14,Royal South Yarra,Hurlingham Park Red,No. 1,Nicholas Lincoln,Abbon Pham,Nicholas Lincoln,6-4,6,4,1,0,Completed,true,false,false
+UA018144,31 May 26,14,Royal South Yarra,Hurlingham Park Red,No. 2,Henry Heath,Jonah Rey,Henry Heath,7-5,7,5,1,0,Completed,true,false,false
+UA018144,31 May 26,14,Royal South Yarra,Hurlingham Park Red,No. 3,Henry Lloyd,Ian Shao,Henry Lloyd,6-1,6,1,1,0,Completed,true,false,false
+UA018144,31 May 26,14,Royal South Yarra,Hurlingham Park Red,No. 4,Jessica Dring,Charlie Sheng,Charlie Sheng,3-6,3,6,0,1,Completed,true,false,false
+UA018301,,16,Hurlingham Park Blue,Royal South Yarra,No. 1,Asher Vaughan,Nicholas Lincoln,Nicholas Lincoln,5-7,5,7,0,1,Completed,true,false,false
+UA018301,,16,Hurlingham Park Blue,Royal South Yarra,No. 2,Ben Sparks,Henry Heath,Ben Sparks,6-3,6,3,1,0,Completed,true,false,false
+UA018301,,16,Hurlingham Park Blue,Royal South Yarra,No. 3,Noah Ueckerman,Henry Lloyd,Noah Ueckerman,6-4,6,4,1,0,Completed,true,false,false
+UA018301,,16,Hurlingham Park Blue,Royal South Yarra,No. 4,Nina Seuret-Batterham,Orlando Moran,Orlando Moran,1-6,1,6,0,1,Completed,true,false,false
+UA018302,,16,Elsternwick Park,Dendy Park,No. 1,Shai Hacham,Bronson Galanos,Shai Hacham,6-2,6,2,1,0,Completed,true,false,false
+UA018302,,16,Elsternwick Park,Dendy Park,No. 2,Rafi Arumugam,Dan Muirhead,Rafi Arumugam,6-4,6,4,1,0,Completed,true,false,false
+UA018302,,16,Elsternwick Park,Dendy Park,No. 3,Jimi Griffiths,Zara Reis,Jimi Griffiths,6-0,6,0,1,0,Completed,true,false,false
+UA018302,,16,Elsternwick Park,Dendy Park,No. 4,Edward Tseitkin,Zavier Galanis,Edward Tseitkin,6-1,6,1,1,0,Completed,true,false,false
+UA018321,,17,Hurlingham Park Blue,Elsternwick Park,No. 1,Asher Vaughan,Shai Hacham,Asher Vaughan,6-0,6,0,1,0,Completed,true,false,false
+UA018321,,17,Hurlingham Park Blue,Elsternwick Park,No. 2,Ben Sparks,Rafi Arumugam,Ben Sparks,6-2,6,2,1,0,Completed,true,false,false
+UA018321,,17,Hurlingham Park Blue,Elsternwick Park,No. 3,Noah Ueckerman,Jimi Griffiths,Noah Ueckerman,6-0,6,0,1,0,Completed,true,false,false
+UA018321,,17,Hurlingham Park Blue,Elsternwick Park,No. 4,Ari Morehu,Edward Tseitkin,Edward Tseitkin,2-6,2,6,0,1,Completed,true,false,false

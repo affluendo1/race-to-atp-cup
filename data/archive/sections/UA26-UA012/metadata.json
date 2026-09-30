@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA26-UA012",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2020",
+  "season_id": "UA26",
+  "season_label": "Autumn 2020",
+  "source_section_code": "UA012",
+  "section_label": "Section 12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Hurlingham Park 2",
+      "wins": 4,
+      "points": 41,
+      "percentage": 143.64,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Royal Ave",
+      "wins": 4,
+      "points": 41,
+      "percentage": 123.81,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Elsternwick Park",
+      "wins": 4,
+      "points": 39,
+      "percentage": 131.15,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Caulfield Rec",
+      "wins": 3,
+      "points": 34,
+      "percentage": 122.22,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Carmelite",
+      "wins": 2,
+      "points": 30,
+      "percentage": 103.7,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Hurlingham Park 1",
+      "wins": 1,
+      "points": 20,
+      "percentage": 75.51,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Black Rock",
+      "wins": 1,
+      "points": 19,
+      "percentage": 72.96,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC",
+      "wins": 1,
+      "points": 16,
+      "percentage": 57.5,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA26-UA012",
+  "fixtures": 24,
+  "completed_fixtures": 20,
+  "draw_fixtures": 42,
+  "singles_rubbers": 80,
+  "doubles_rubbers": 40,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

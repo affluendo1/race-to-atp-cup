@@ -1,0 +1,214 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA016011,27 Jul 25,1,Hurlingham Park,Mentone,No. 1,Max Parnham,Nayte Morris,Max Parnham,6-2,6,2,1,0,Completed,true,false,false
+UA016011,27 Jul 25,1,Hurlingham Park,Mentone,No. 2,Andrew Zhang,William Carlson,William Carlson,1-6,1,6,0,1,Completed,true,false,false
+UA016011,27 Jul 25,1,Hurlingham Park,Mentone,No. 3,Max Humphris,Hugo Ngo,Hugo Ngo,1-6,1,6,0,1,Completed,true,false,false
+UA016011,27 Jul 25,1,Hurlingham Park,Mentone,No. 4,Oliver Romanis,Ryan Ngo,Ryan Ngo,1-6,1,6,0,1,Completed,true,false,false
+UA016012,27 Jul 25,1,Le Page Blue,Kings Park White,No. 1,Liam Bianchi,Wilson He,Liam Bianchi,6-4,6,4,1,0,Completed,true,false,false
+UA016012,27 Jul 25,1,Le Page Blue,Kings Park White,No. 2,Benson James,Jason Tang,Jason Tang,3-6,3,6,0,1,Completed,true,false,false
+UA016012,27 Jul 25,1,Le Page Blue,Kings Park White,No. 3,Skyler Wijendra,Heston Hancox,Heston Hancox,2-6,2,6,0,1,Completed,true,false,false
+UA016012,27 Jul 25,1,Le Page Blue,Kings Park White,No. 4,Omer Alamaru,Alice Luo,Omer Alamaru,6-2,6,2,1,0,Completed,true,false,false
+UA016013,27 Jul 25,1,Kings Park Blue,Black Rock,No. 1,Kevin Liu,Dan Kleiman,Dan Kleiman,6-7,6,7,0,1,Completed,true,false,false
+UA016013,27 Jul 25,1,Kings Park Blue,Black Rock,No. 2,Ryan Pan,Caleb Fisher,Caleb Fisher,3-6,3,6,0,1,Completed,true,false,false
+UA016013,27 Jul 25,1,Kings Park Blue,Black Rock,No. 3,Vivian Yang,Mason Tuckman,Mason Tuckman,4-6,4,6,0,1,Completed,true,false,false
+UA016013,27 Jul 25,1,Kings Park Blue,Black Rock,No. 4,Tom Kovac,Diyanka Nair,Diyanka Nair,1-6,1,6,0,1,Completed,true,false,false
+UA016014,27 Jul 25,1,St Joan of Arc,Le Page Green,No. 1,Kris Xu,Drake Brooks,Drake Brooks,5-7,5,7,0,1,Completed,true,false,false
+UA016014,27 Jul 25,1,St Joan of Arc,Le Page Green,No. 2,Kevin Courtney,Ethan Hadjinak,Kevin Courtney,6-4,6,4,1,0,Completed,true,false,false
+UA016014,27 Jul 25,1,St Joan of Arc,Le Page Green,No. 3,Kingsley Bower,Jake Loimaranta,Kingsley Bower,6-2,6,2,1,0,Completed,true,false,false
+UA016014,27 Jul 25,1,St Joan of Arc,Le Page Green,No. 4,Simone Bower,Alexander Charters-Wood,Simone Bower,6-3,6,3,1,0,Completed,true,false,false
+UA016021,03 Aug 25,2,Le Page Green,Hurlingham Park,No. 1,Drake Brooks,Rupert Williams,Rupert Williams,5-7,5,7,0,1,Completed,true,false,false
+UA016021,03 Aug 25,2,Le Page Green,Hurlingham Park,No. 2,Ethan Hadjinak,Asher Vaughan,Asher Vaughan,6-7,6,7,0,1,Completed,true,false,true
+UA016021,03 Aug 25,2,Le Page Green,Hurlingham Park,No. 3,Jake Loimaranta,Oliver Romanis,Oliver Romanis,2-6,2,6,0,1,Completed,true,false,false
+UA016021,03 Aug 25,2,Le Page Green,Hurlingham Park,No. 4,Shlok Pawali,Tom Lyng,Tom Lyng,3-6,3,6,0,1,Completed,true,true,true
+UA016022,03 Aug 25,2,Mentone,Le Page Blue,No. 1,Akira Kare,Benson James,Akira Kare,6-1,6,1,1,0,Completed,true,false,false
+UA016022,03 Aug 25,2,Mentone,Le Page Blue,No. 2,William Carlson,Skyler Wijendra,Skyler Wijendra,5-7,5,7,0,1,Completed,true,false,false
+UA016022,03 Aug 25,2,Mentone,Le Page Blue,No. 3,William Dimopolous,Omer Alamaru,Omer Alamaru,6-7,6,7,0,1,Completed,true,false,false
+UA016022,03 Aug 25,2,Mentone,Le Page Blue,No. 4,Hugo Ngo,Harvey James,Harvey James,4-6,4,6,0,1,Completed,true,false,false
+UA016023,03 Aug 25,2,Kings Park White,Kings Park Blue,No. 1,Wilson He,Kevin Liu,Wilson He,6-4,6,4,1,0,Completed,true,false,false
+UA016023,03 Aug 25,2,Kings Park White,Kings Park Blue,No. 2,Jason Tang,Ryan Pan,Jason Tang,6-0,6,0,1,0,Completed,true,false,false
+UA016023,03 Aug 25,2,Kings Park White,Kings Park Blue,No. 3,Olivia Chang,Jayden Lin,Olivia Chang,7-5,7,5,1,0,Completed,true,false,false
+UA016023,03 Aug 25,2,Kings Park White,Kings Park Blue,No. 4,Michelle Cai,Tom Kovac,Tom Kovac,5-7,5,7,0,1,Completed,true,true,false
+UA016024,03 Aug 25,2,Black Rock,St Joan of Arc,No. 1,Dan Kleiman,Kris Xu,Kris Xu,2-6,2,6,0,1,Completed,true,false,false
+UA016024,03 Aug 25,2,Black Rock,St Joan of Arc,No. 2,Caleb Fisher,Kevin Courtney,Caleb Fisher,6-1,6,1,1,0,Completed,true,false,false
+UA016024,03 Aug 25,2,Black Rock,St Joan of Arc,No. 3,Mason Tuckman,Kingsley Bower,Mason Tuckman,6-2,6,2,1,0,Completed,true,false,false
+UA016024,03 Aug 25,2,Black Rock,St Joan of Arc,No. 4,Sheryne Hamada,Simone Bower,Simone Bower,2-6,2,6,0,1,Completed,true,false,false
+UA016031,10 Aug 25,3,Hurlingham Park,Black Rock,No. 1,Ned Bolton,Dan Kleiman,Dan Kleiman,0-6,0,6,0,1,Completed,true,true,false
+UA016031,10 Aug 25,3,Hurlingham Park,Black Rock,No. 2,Charlie Williams,Caleb Fisher,Charlie Williams,6-3,6,3,1,0,Completed,true,false,false
+UA016031,10 Aug 25,3,Hurlingham Park,Black Rock,No. 3,Oliver Romanis,Diyanka Nair,Diyanka Nair,3-6,3,6,0,1,Completed,true,false,false
+UA016031,10 Aug 25,3,Hurlingham Park,Black Rock,No. 4,Ari Morehu,Sheryne Hamada,Sheryne Hamada,4-6,4,6,0,1,Completed,true,true,false
+UA016032,10 Aug 25,3,Le Page Blue,Le Page Green,No. 1,Liam Bianchi,Drake Brooks,Drake Brooks,3-6,3,6,0,1,Completed,true,false,false
+UA016032,10 Aug 25,3,Le Page Blue,Le Page Green,No. 2,Skyler Wijendra,Jake Loimaranta,Skyler Wijendra,6-0,6,0,1,0,Completed,true,false,false
+UA016032,10 Aug 25,3,Le Page Blue,Le Page Green,No. 3,Omer Alamaru,Alexander Charters-Wood,Omer Alamaru,6-0,6,0,1,0,Completed,true,false,false
+UA016032,10 Aug 25,3,Le Page Blue,Le Page Green,No. 4,Harvey James,Krithik Prabhu,Krithik Prabhu,4-6,4,6,0,1,Completed,true,false,false
+UA016033,10 Aug 25,3,Kings Park Blue,Mentone,No. 1,Kevin Liu,Akira Kare,Kevin Liu,6-1,6,1,1,0,Completed,true,false,false
+UA016033,10 Aug 25,3,Kings Park Blue,Mentone,No. 2,Ryan Pan,William Carlson,William Carlson,4-6,4,6,0,1,Completed,true,false,false
+UA016033,10 Aug 25,3,Kings Park Blue,Mentone,No. 3,Vivian Yang,William Dimopolous,William Dimopolous,2-6,2,6,0,1,Completed,true,false,false
+UA016033,10 Aug 25,3,Kings Park Blue,Mentone,No. 4,Tom Kovac,Ryan Ngo,Tom Kovac,7-6,7,6,1,0,Completed,true,false,false
+UA016034,10 Aug 25,3,St Joan of Arc,Kings Park White,No. 1,Kris Xu,Jason Tang,Kris Xu,6-3,6,3,1,0,Completed,true,false,false
+UA016034,10 Aug 25,3,St Joan of Arc,Kings Park White,No. 2,Nick Andrew,Heston Hancox,Heston Hancox,2-6,2,6,0,1,Completed,true,false,false
+UA016034,10 Aug 25,3,St Joan of Arc,Kings Park White,No. 3,Kingsley Bower,Olivia Chang,Kingsley Bower,7-5,7,5,1,0,Completed,true,false,false
+UA016034,10 Aug 25,3,St Joan of Arc,Kings Park White,No. 4,Lenny Nunn,Alice Luo,Lenny Nunn,6-3,6,3,1,0,Completed,true,true,false
+UA016041,17 Aug 25,4,Kings Park White,Hurlingham Park,No. 1,Wilson He,Rupert Williams,Rupert Williams,5-7,5,7,0,1,Completed,true,false,false
+UA016041,17 Aug 25,4,Kings Park White,Hurlingham Park,No. 2,Heston Hancox,[Unnamed player — TROLS UA016041 away code 2],Heston Hancox,6-0,6,0,1,0,Completed,false,false,false
+UA016041,17 Aug 25,4,Kings Park White,Hurlingham Park,No. 3,Alice Luo,Andrew Zhang,Alice Luo,6-3,6,3,1,0,Completed,true,false,false
+UA016041,17 Aug 25,4,Kings Park White,Hurlingham Park,No. 4,Arabella Hancox,Oliver Romanis,Arabella Hancox,6-4,6,4,1,0,Completed,true,false,false
+UA016042,17 Aug 25,4,Black Rock,Le Page Blue,No. 1,Dan Kleiman,Liam Bianchi,Liam Bianchi,5-7,5,7,0,1,Completed,true,false,false
+UA016042,17 Aug 25,4,Black Rock,Le Page Blue,No. 2,Mason Tuckman,Benson James,Mason Tuckman,7-5,7,5,1,0,Completed,true,false,false
+UA016042,17 Aug 25,4,Black Rock,Le Page Blue,No. 3,Diyanka Nair,Skyler Wijendra,Skyler Wijendra,6-7,6,7,0,1,Completed,true,false,false
+UA016042,17 Aug 25,4,Black Rock,Le Page Blue,No. 4,Sheryne Hamada,Omer Alamaru,Omer Alamaru,3-6,3,6,0,1,Completed,true,false,false
+UA016043,17 Aug 25,4,Le Page Green,Kings Park Blue,No. 1,Drake Brooks,Kevin Liu,Drake Brooks,6-0,6,0,1,0,Completed,true,false,false
+UA016043,17 Aug 25,4,Le Page Green,Kings Park Blue,No. 2,Ethan Hadjinak,Jayden Lin,Ethan Hadjinak,6-2,6,2,1,0,Completed,true,false,false
+UA016043,17 Aug 25,4,Le Page Green,Kings Park Blue,No. 3,Alexander Charters-Wood,Vivian Yang,Vivian Yang,1-6,1,6,0,1,Completed,true,false,false
+UA016043,17 Aug 25,4,Le Page Green,Kings Park Blue,No. 4,Krithik Prabhu,Tom Kovac,Krithik Prabhu,6-1,6,1,1,0,Completed,true,false,false
+UA016044,17 Aug 25,4,Mentone,St Joan of Arc,No. 1,Akira Kare,Kris Xu,Kris Xu,1-6,1,6,0,1,Completed,true,false,false
+UA016044,17 Aug 25,4,Mentone,St Joan of Arc,No. 2,William Carlson,Kevin Courtney,William Carlson,6-1,6,1,1,0,Completed,true,false,false
+UA016044,17 Aug 25,4,Mentone,St Joan of Arc,No. 3,Hugo Ngo,Kingsley Bower,Hugo Ngo,6-1,6,1,1,0,Completed,true,false,false
+UA016044,17 Aug 25,4,Mentone,St Joan of Arc,No. 4,Ryan Ngo,Simone Bower,Ryan Ngo,6-1,6,1,1,0,Completed,true,false,false
+UA016051,24 Aug 25,5,Kings Park Blue,St Joan of Arc,No. 1,Ryan Pan,Kris Xu,Kris Xu,0-6,0,6,0,1,Completed,true,false,false
+UA016051,24 Aug 25,5,Kings Park Blue,St Joan of Arc,No. 2,Jayden Lin,Kevin Courtney,Kevin Courtney,0-6,0,6,0,1,Completed,true,false,false
+UA016051,24 Aug 25,5,Kings Park Blue,St Joan of Arc,No. 3,Vivian Yang,Kingsley Bower,Kingsley Bower,0-6,0,6,0,1,Completed,true,false,false
+UA016051,24 Aug 25,5,Kings Park Blue,St Joan of Arc,No. 4,Tom Kovac,Simone Bower,Simone Bower,0-6,0,6,0,1,Completed,true,false,false
+UA016052,24 Aug 25,5,Le Page Green,Black Rock,No. 1,Drake Brooks,Dan Kleiman,Drake Brooks,6-3,6,3,1,0,Completed,true,false,false
+UA016052,24 Aug 25,5,Le Page Green,Black Rock,No. 2,Ethan Hadjinak,Caleb Fisher,Ethan Hadjinak,7-5,7,5,1,0,Completed,true,false,false
+UA016052,24 Aug 25,5,Le Page Green,Black Rock,No. 3,Jake Loimaranta,Diyanka Nair,Diyanka Nair,4-6,4,6,0,1,Completed,true,false,false
+UA016052,24 Aug 25,5,Le Page Green,Black Rock,No. 4,Alexander Charters-Wood,Sheryne Hamada,Sheryne Hamada,1-6,1,6,0,1,Completed,true,false,false
+UA016053,24 Aug 25,5,Kings Park White,Mentone,No. 1,Wilson He,Akira Kare,Wilson He,6-3,6,3,1,0,Completed,true,false,false
+UA016053,24 Aug 25,5,Kings Park White,Mentone,No. 2,Jason Tang,William Carlson,Jason Tang,6-3,6,3,1,0,Completed,true,false,false
+UA016053,24 Aug 25,5,Kings Park White,Mentone,No. 3,Heston Hancox,William Dimopolous,William Dimopolous,4-6,4,6,0,1,Completed,true,false,false
+UA016053,24 Aug 25,5,Kings Park White,Mentone,No. 4,Olivia Chang,Ryan Ngo,Ryan Ngo,1-6,1,6,0,1,Completed,true,false,false
+UA016054,24 Aug 25,5,Hurlingham Park,Le Page Blue,No. 1,Zac Sutton,Liam Bianchi,Zac Sutton,6-2,6,2,1,0,Completed,true,true,false
+UA016054,24 Aug 25,5,Hurlingham Park,Le Page Blue,No. 2,Max Parnham,Benson James,Max Parnham,6-4,6,4,1,0,Completed,true,false,false
+UA016054,24 Aug 25,5,Hurlingham Park,Le Page Blue,No. 3,Oliver Romanis,Skyler Wijendra,Skyler Wijendra,1-6,1,6,0,1,Completed,true,false,false
+UA016054,24 Aug 25,5,Hurlingham Park,Le Page Blue,No. 4,Andrew Zhang,Harvey James,Harvey James,3-6,3,6,0,1,Completed,true,false,false
+UA016061,31 Aug 25,6,Le Page Blue,Kings Park Blue,No. 1,Liam Bianchi,Kevin Liu,Liam Bianchi,6-0,6,0,1,0,Completed,true,false,false
+UA016061,31 Aug 25,6,Le Page Blue,Kings Park Blue,No. 2,Benson James,Jayden Lin,Jayden Lin,1-6,1,6,0,1,Completed,true,false,false
+UA016061,31 Aug 25,6,Le Page Blue,Kings Park Blue,No. 3,Skyler Wijendra,Vivian Yang,Skyler Wijendra,6-1,6,1,1,0,Completed,true,false,false
+UA016061,31 Aug 25,6,Le Page Blue,Kings Park Blue,No. 4,Omer Alamaru,Tom Kovac,Omer Alamaru,7-6,7,6,1,0,Completed,true,false,false
+UA016062,31 Aug 25,6,St Joan of Arc,Hurlingham Park,No. 1,Kris Xu,Charlie Williams,Charlie Williams,5-7,5,7,0,1,Completed,true,false,false
+UA016062,31 Aug 25,6,St Joan of Arc,Hurlingham Park,No. 2,Kevin Courtney,Max Parnham,Max Parnham,1-6,1,6,0,1,Completed,true,false,false
+UA016062,31 Aug 25,6,St Joan of Arc,Hurlingham Park,No. 3,Kingsley Bower,Oliver Romanis,Kingsley Bower,6-2,6,2,1,0,Completed,true,false,false
+UA016062,31 Aug 25,6,St Joan of Arc,Hurlingham Park,No. 4,Simone Bower,Andrew Zhang,Simone Bower,6-3,6,3,1,0,Completed,true,false,false
+UA016063,31 Aug 25,6,Black Rock,Kings Park White,No. 1,Caleb Fisher,Jason Tang,Jason Tang,4-6,4,6,0,1,Completed,true,false,false
+UA016063,31 Aug 25,6,Black Rock,Kings Park White,No. 2,Mason Tuckman,Heston Hancox,Heston Hancox,2-6,2,6,0,1,Completed,true,false,false
+UA016063,31 Aug 25,6,Black Rock,Kings Park White,No. 3,Diyanka Nair,Olivia Chang,Diyanka Nair,6-2,6,2,1,0,Completed,true,false,false
+UA016063,31 Aug 25,6,Black Rock,Kings Park White,No. 4,Sheryne Hamada,Alice Luo,Alice Luo,4-6,4,6,0,1,Completed,true,false,false
+UA016064,31 Aug 25,6,Mentone,Le Page Green,No. 1,Akira Kare,Ethan Hadjinak,Ethan Hadjinak,2-6,2,6,0,1,Completed,true,false,false
+UA016064,31 Aug 25,6,Mentone,Le Page Green,No. 2,William Carlson,Jake Loimaranta,William Carlson,6-0,6,0,1,0,Completed,true,false,false
+UA016064,31 Aug 25,6,Mentone,Le Page Green,No. 3,Hugo Ngo,Alexander Charters-Wood,Hugo Ngo,6-1,6,1,1,0,Completed,true,false,false
+UA016064,31 Aug 25,6,Mentone,Le Page Green,No. 4,Ryan Ngo,Krithik Prabhu,Ryan Ngo,7-6,7,6,1,0,Completed,true,false,false
+UA016071,07 Sep 25,7,Hurlingham Park,Kings Park Blue,No. 1,Charlie Williams,Kevin Liu,Charlie Williams,6-1,6,1,1,0,Completed,true,false,false
+UA016071,07 Sep 25,7,Hurlingham Park,Kings Park Blue,No. 2,Max Parnham,Ryan Pan,Ryan Pan,2-6,2,6,0,1,Completed,true,false,false
+UA016071,07 Sep 25,7,Hurlingham Park,Kings Park Blue,No. 3,Oliver Romanis,Jayden Lin,Oliver Romanis,6-4,6,4,1,0,Completed,true,false,false
+UA016071,07 Sep 25,7,Hurlingham Park,Kings Park Blue,No. 4,Charlie Sheng,Vivian Yang,Charlie Sheng,7-5,7,5,1,0,Completed,true,true,false
+UA016072,07 Sep 25,7,Le Page Blue,St Joan of Arc,No. 1,Liam Bianchi,Kris Xu,Kris Xu,2-6,2,6,0,1,Completed,true,false,false
+UA016072,07 Sep 25,7,Le Page Blue,St Joan of Arc,No. 2,Benson James,Kevin Courtney,Kevin Courtney,4-6,4,6,0,1,Completed,true,false,false
+UA016072,07 Sep 25,7,Le Page Blue,St Joan of Arc,No. 3,Skyler Wijendra,Nick Andrew,Nick Andrew,6-7,6,7,0,1,Completed,true,false,false
+UA016072,07 Sep 25,7,Le Page Blue,St Joan of Arc,No. 4,Harvey James,Simone Bower,Simone Bower,3-6,3,6,0,1,Completed,true,false,false
+UA016073,07 Sep 25,7,Le Page Green,Kings Park White,No. 1,Drake Brooks,Wilson He,Wilson He,4-6,4,6,0,1,Completed,true,false,false
+UA016073,07 Sep 25,7,Le Page Green,Kings Park White,No. 2,Ethan Hadjinak,Jason Tang,Jason Tang,5-7,5,7,0,1,Completed,true,false,false
+UA016073,07 Sep 25,7,Le Page Green,Kings Park White,No. 3,Alexander Charters-Wood,Olivia Chang,Olivia Chang,1-6,1,6,0,1,Completed,true,false,false
+UA016073,07 Sep 25,7,Le Page Green,Kings Park White,No. 4,Krithik Prabhu,Arabella Hancox,Krithik Prabhu,6-2,6,2,1,0,Completed,true,false,false
+UA016074,07 Sep 25,7,Black Rock,Mentone,No. 1,Coco James,Nayte Morris,Nayte Morris,0-6,0,6,0,1,Completed,true,false,false
+UA016074,07 Sep 25,7,Black Rock,Mentone,No. 2,Caleb Fisher,William Carlson,Caleb Fisher,6-2,6,2,1,0,Completed,true,false,false
+UA016074,07 Sep 25,7,Black Rock,Mentone,No. 3,Diyanka Nair,William Dimopolous,William Dimopolous,4-6,4,6,0,1,Completed,true,false,false
+UA016074,07 Sep 25,7,Black Rock,Mentone,No. 4,Sheryne Hamada,Hugo Ngo,Hugo Ngo,5-7,5,7,0,1,Completed,true,false,false
+UA016081,14 Sep 25,8,Mentone,Hurlingham Park,No. 1,Akira Kare,Rupert Williams,Rupert Williams,4-6,4,6,0,1,Completed,true,false,false
+UA016081,14 Sep 25,8,Mentone,Hurlingham Park,No. 2,William Carlson,Charlie Williams,Charlie Williams,3-6,3,6,0,1,Completed,true,false,false
+UA016081,14 Sep 25,8,Mentone,Hurlingham Park,No. 3,Hugo Ngo,Max Parnham,Hugo Ngo,6-3,6,3,1,0,Completed,true,false,false
+UA016081,14 Sep 25,8,Mentone,Hurlingham Park,No. 4,Ryan Ngo,Andrew Zhang,Ryan Ngo,6-4,6,4,1,0,Completed,true,false,false
+UA016082,14 Sep 25,8,Kings Park White,Le Page Blue,No. 1,Wilson He,Liam Bianchi,Liam Bianchi,2-6,2,6,0,1,Completed,true,false,false
+UA016082,14 Sep 25,8,Kings Park White,Le Page Blue,No. 2,Jason Tang,Skyler Wijendra,Jason Tang,6-3,6,3,1,0,Completed,true,false,false
+UA016082,14 Sep 25,8,Kings Park White,Le Page Blue,No. 3,Alice Luo,Omer Alamaru,Omer Alamaru,3-6,3,6,0,1,Completed,true,false,false
+UA016082,14 Sep 25,8,Kings Park White,Le Page Blue,No. 4,Cooper Clark,Harvey James,Harvey James,2-6,2,6,0,1,Completed,true,true,false
+UA016083,14 Sep 25,8,Black Rock,Kings Park Blue,No. 1,Coco James,Kevin Liu,Coco James,6-3,6,3,1,0,Completed,true,false,false
+UA016083,14 Sep 25,8,Black Rock,Kings Park Blue,No. 2,Dan Kleiman,Ryan Pan,Dan Kleiman,6-3,6,3,1,0,Completed,true,false,false
+UA016083,14 Sep 25,8,Black Rock,Kings Park Blue,No. 3,Mason Tuckman,Vivian Yang,Vivian Yang,5-6,5,6,0,1,Completed,true,false,false
+UA016083,14 Sep 25,8,Black Rock,Kings Park Blue,No. 4,Diyanka Nair,Tom Kovac,Diyanka Nair,6-2,6,2,1,0,Completed,true,false,false
+UA016084,14 Sep 25,8,Le Page Green,St Joan of Arc,No. 1,Drake Brooks,Kris Xu,Kris Xu,2-6,2,6,0,1,Completed,true,false,false
+UA016084,14 Sep 25,8,Le Page Green,St Joan of Arc,No. 2,Ethan Hadjinak,Kevin Courtney,Kevin Courtney,3-6,3,6,0,1,Completed,true,false,false
+UA016084,14 Sep 25,8,Le Page Green,St Joan of Arc,No. 3,Jake Loimaranta,Nick Andrew,Nick Andrew,0-6,0,6,0,1,Completed,true,false,false
+UA016084,14 Sep 25,8,Le Page Green,St Joan of Arc,No. 4,Krithik Prabhu,Lenny Nunn,Krithik Prabhu,6-3,6,3,1,0,Completed,true,false,true
+UA016091,12 Oct 25,9,Hurlingham Park,Le Page Green,No. 1,Rupert Williams,Drake Brooks,Rupert Williams,7-5,7,5,1,0,Completed,true,false,false
+UA016091,12 Oct 25,9,Hurlingham Park,Le Page Green,No. 2,Max Parnham,Ethan Hadjinak,Ethan Hadjinak,5-7,5,7,0,1,Completed,true,false,false
+UA016091,12 Oct 25,9,Hurlingham Park,Le Page Green,No. 3,Oliver Romanis,Jake Loimaranta,Jake Loimaranta,2-6,2,6,0,1,Completed,true,false,false
+UA016091,12 Oct 25,9,Hurlingham Park,Le Page Green,No. 4,Andrew Zhang,Krithik Prabhu,Krithik Prabhu,4-6,4,6,0,1,Completed,true,false,false
+UA016092,12 Oct 25,9,Le Page Blue,Mentone,No. 1,Liam Bianchi,Nayte Morris,Liam Bianchi,6-2,6,2,1,0,Completed,true,false,false
+UA016092,12 Oct 25,9,Le Page Blue,Mentone,No. 2,Benson James,Akira Kare,Akira Kare,4-6,4,6,0,1,Completed,true,false,false
+UA016092,12 Oct 25,9,Le Page Blue,Mentone,No. 3,Skyler Wijendra,William Carlson,Skyler Wijendra,6-3,6,3,1,0,Completed,true,false,false
+UA016092,12 Oct 25,9,Le Page Blue,Mentone,No. 4,Omer Alamaru,Ryan Ngo,Ryan Ngo,1-6,1,6,0,1,Completed,true,false,false
+UA016093,12 Oct 25,9,Kings Park Blue,Kings Park White,No. 1,Kevin Liu,Jason Tang,Jason Tang,2-6,2,6,0,1,Completed,true,false,false
+UA016093,12 Oct 25,9,Kings Park Blue,Kings Park White,No. 2,Jayden Lin,Heston Hancox,Heston Hancox,2-6,2,6,0,1,Completed,true,false,false
+UA016093,12 Oct 25,9,Kings Park Blue,Kings Park White,No. 3,Vivian Yang,Olivia Chang,Olivia Chang,3-6,3,6,0,1,Completed,true,false,false
+UA016093,12 Oct 25,9,Kings Park Blue,Kings Park White,No. 4,Tom Kovac,Alice Luo,Tom Kovac,6-4,6,4,1,0,Completed,true,false,false
+UA016094,12 Oct 25,9,St Joan of Arc,Black Rock,No. 1,Kris Xu,Coco James,Kris Xu,6-1,6,1,1,0,Completed,true,false,false
+UA016094,12 Oct 25,9,St Joan of Arc,Black Rock,No. 2,Kevin Courtney,Dan Kleiman,Kevin Courtney,6-1,6,1,1,0,Completed,true,false,false
+UA016094,12 Oct 25,9,St Joan of Arc,Black Rock,No. 3,Nick Andrew,Caleb Fisher,Nick Andrew,6-3,6,3,1,0,Completed,true,false,false
+UA016094,12 Oct 25,9,St Joan of Arc,Black Rock,No. 4,Simone Bower,Mason Tuckman,Mason Tuckman,0-6,0,6,0,1,Completed,true,false,false
+UA016101,19 Oct 25,10,Black Rock,Hurlingham Park,No. 1,Dan Kleiman,Rupert Williams,Rupert Williams,1-6,1,6,0,1,Completed,true,false,false
+UA016101,19 Oct 25,10,Black Rock,Hurlingham Park,No. 2,Mason Tuckman,Max Parnham,Mason Tuckman,6-3,6,3,1,0,Completed,true,false,false
+UA016101,19 Oct 25,10,Black Rock,Hurlingham Park,No. 3,Diyanka Nair,Oliver Romanis,Diyanka Nair,6-1,6,1,1,0,Completed,true,false,false
+UA016101,19 Oct 25,10,Black Rock,Hurlingham Park,No. 4,Sheryne Hamada,Andrew Zhang,Andrew Zhang,3-6,3,6,0,1,Completed,true,false,false
+UA016102,19 Oct 25,10,Le Page Green,Le Page Blue,No. 1,Drake Brooks,Liam Bianchi,Liam Bianchi,3-6,3,6,0,1,Completed,true,false,false
+UA016102,19 Oct 25,10,Le Page Green,Le Page Blue,No. 2,Ethan Hadjinak,Benson James,Ethan Hadjinak,6-1,6,1,1,0,Completed,true,false,false
+UA016102,19 Oct 25,10,Le Page Green,Le Page Blue,No. 3,Jake Loimaranta,Skyler Wijendra,Skyler Wijendra,1-6,1,6,0,1,Completed,true,false,false
+UA016102,19 Oct 25,10,Le Page Green,Le Page Blue,No. 4,Krithik Prabhu,Harvey James,Krithik Prabhu,6-3,6,3,1,0,Completed,true,false,false
+UA016103,19 Oct 25,10,Mentone,Kings Park Blue,No. 1,Akira Kare,Kevin Liu,Kevin Liu,5-7,5,7,0,1,Completed,true,false,false
+UA016103,19 Oct 25,10,Mentone,Kings Park Blue,No. 2,William Carlson,Ryan Pan,William Carlson,6-0,6,0,1,0,Completed,true,false,false
+UA016103,19 Oct 25,10,Mentone,Kings Park Blue,No. 3,Hugo Ngo,Jayden Lin,Hugo Ngo,6-4,6,4,1,0,Completed,true,false,false
+UA016103,19 Oct 25,10,Mentone,Kings Park Blue,No. 4,Ryan Ngo,Tom Kovac,Ryan Ngo,6-4,6,4,1,0,Completed,true,false,false
+UA016104,19 Oct 25,10,Kings Park White,St Joan of Arc,No. 1,Wilson He,Kris Xu,Kris Xu,3-6,3,6,0,1,Completed,true,false,false
+UA016104,19 Oct 25,10,Kings Park White,St Joan of Arc,No. 2,Jason Tang,Kevin Courtney,Jason Tang,6-2,6,2,1,0,Completed,true,false,false
+UA016104,19 Oct 25,10,Kings Park White,St Joan of Arc,No. 3,Heston Hancox,Kingsley Bower,Heston Hancox,6-0,6,0,1,0,Completed,true,false,false
+UA016104,19 Oct 25,10,Kings Park White,St Joan of Arc,No. 4,Olivia Chang,Simone Bower,Simone Bower,6-7,6,7,0,1,Completed,true,false,false
+UA016111,26 Oct 25,11,Hurlingham Park,Kings Park White,No. 1,Rupert Williams,Wilson He,Rupert Williams,6-3,6,3,1,0,Completed,true,false,false
+UA016111,26 Oct 25,11,Hurlingham Park,Kings Park White,No. 2,Max Parnham,Jason Tang,Jason Tang,3-6,3,6,0,1,Completed,true,false,false
+UA016111,26 Oct 25,11,Hurlingham Park,Kings Park White,No. 3,Oliver Romanis,Heston Hancox,Heston Hancox,1-6,1,6,0,1,Completed,true,false,false
+UA016111,26 Oct 25,11,Hurlingham Park,Kings Park White,No. 4,Andrew Zhang,Alice Luo,Andrew Zhang,6-1,6,1,1,0,Completed,true,false,false
+UA016112,26 Oct 25,11,Le Page Blue,Black Rock,No. 1,Liam Bianchi,Caleb Fisher,Liam Bianchi,6-1,6,1,1,0,Completed,true,false,false
+UA016112,26 Oct 25,11,Le Page Blue,Black Rock,No. 2,Benson James,Mason Tuckman,Mason Tuckman,1-6,1,6,0,1,Completed,true,false,false
+UA016112,26 Oct 25,11,Le Page Blue,Black Rock,No. 3,Omer Alamaru,Diyanka Nair,Omer Alamaru,6-2,6,2,1,0,Completed,true,false,false
+UA016112,26 Oct 25,11,Le Page Blue,Black Rock,No. 4,Harvey James,Sheryne Hamada,Harvey James,6-3,6,3,1,0,Completed,true,false,false
+UA016113,26 Oct 25,11,Kings Park Blue,Le Page Green,No. 1,Kevin Liu,Drake Brooks,Drake Brooks,2-6,2,6,0,1,Completed,true,false,false
+UA016113,26 Oct 25,11,Kings Park Blue,Le Page Green,No. 2,Ryan Pan,Jake Loimaranta,Ryan Pan,6-3,6,3,1,0,Completed,true,false,false
+UA016113,26 Oct 25,11,Kings Park Blue,Le Page Green,No. 3,Jayden Lin,Alexander Charters-Wood,Jayden Lin,6-0,6,0,1,0,Completed,true,false,false
+UA016113,26 Oct 25,11,Kings Park Blue,Le Page Green,No. 4,Vivian Yang,Krithik Prabhu,Krithik Prabhu,0-6,0,6,0,1,Completed,true,false,false
+UA016114,26 Oct 25,11,St Joan of Arc,Mentone,No. 1,Kris Xu,Akira Kare,Akira Kare,0-2,0,2,0,1,Completed,false,false,false
+UA016121,09 Nov 25,12,St Joan of Arc,Kings Park Blue,No. 1,Kris Xu,Kevin Liu,Kris Xu,6-0,6,0,1,0,Completed,true,false,false
+UA016121,09 Nov 25,12,St Joan of Arc,Kings Park Blue,No. 2,Kevin Courtney,Ryan Pan,Kevin Courtney,6-0,6,0,1,0,Completed,true,false,false
+UA016121,09 Nov 25,12,St Joan of Arc,Kings Park Blue,No. 3,Kingsley Bower,Vivian Yang,Kingsley Bower,6-2,6,2,1,0,Completed,true,false,false
+UA016121,09 Nov 25,12,St Joan of Arc,Kings Park Blue,No. 4,Simone Bower,Tom Kovac,Tom Kovac,3-6,3,6,0,1,Completed,true,false,false
+UA016123,09 Nov 25,12,Mentone,Kings Park White,No. 1,Nayte Morris,Wilson He,Nayte Morris,6-4,6,4,1,0,Completed,true,false,false
+UA016123,09 Nov 25,12,Mentone,Kings Park White,No. 2,William Carlson,Jason Tang,Jason Tang,0-6,0,6,0,1,Completed,true,false,false
+UA016123,09 Nov 25,12,Mentone,Kings Park White,No. 3,Hugo Ngo,Heston Hancox,Hugo Ngo,6-3,6,3,1,0,Completed,true,false,false
+UA016123,09 Nov 25,12,Mentone,Kings Park White,No. 4,Ryan Ngo,Olivia Chang,Ryan Ngo,6-1,6,1,1,0,Completed,true,false,false
+UA016124,09 Nov 25,12,Le Page Blue,Hurlingham Park,No. 1,Benson James,Rupert Williams,Rupert Williams,2-6,2,6,0,1,Completed,true,false,false
+UA016124,09 Nov 25,12,Le Page Blue,Hurlingham Park,No. 2,Skyler Wijendra,Max Parnham,Max Parnham,4-6,4,6,0,1,Completed,true,false,false
+UA016124,09 Nov 25,12,Le Page Blue,Hurlingham Park,No. 3,Omer Alamaru,Oliver Romanis,Omer Alamaru,6-2,6,2,1,0,Completed,true,false,false
+UA016124,09 Nov 25,12,Le Page Blue,Hurlingham Park,No. 4,Harvey James,Andrew Zhang,Harvey James,6-1,6,1,1,0,Completed,true,false,false
+UA016131,16 Nov 25,13,Kings Park Blue,Le Page Blue,No. 1,Kevin Liu,Liam Bianchi,Liam Bianchi,1-6,1,6,0,1,Completed,true,false,false
+UA016131,16 Nov 25,13,Kings Park Blue,Le Page Blue,No. 2,Jayden Lin,Benson James,Jayden Lin,7-5,7,5,1,0,Completed,true,false,false
+UA016131,16 Nov 25,13,Kings Park Blue,Le Page Blue,No. 3,Vivian Yang,Skyler Wijendra,Skyler Wijendra,2-6,2,6,0,1,Completed,true,false,false
+UA016131,16 Nov 25,13,Kings Park Blue,Le Page Blue,No. 4,Tom Kovac,Omer Alamaru,Omer Alamaru,1-6,1,6,0,1,Completed,true,false,false
+UA016132,16 Nov 25,13,Hurlingham Park,St Joan of Arc,No. 1,Max Parnham,Kris Xu,Kris Xu,2-6,2,6,0,1,Completed,true,false,false
+UA016132,16 Nov 25,13,Hurlingham Park,St Joan of Arc,No. 2,Andrew Zhang,Kevin Courtney,Kevin Courtney,2-6,2,6,0,1,Completed,true,false,false
+UA016132,16 Nov 25,13,Hurlingham Park,St Joan of Arc,No. 3,Tom Lyng,Kingsley Bower,Tom Lyng,6-3,6,3,1,0,Completed,true,true,false
+UA016132,16 Nov 25,13,Hurlingham Park,St Joan of Arc,No. 4,Sonny Sterling,Simone Bower,Simone Bower,4-6,4,6,0,1,Completed,true,true,false
+UA016133,16 Nov 25,13,Kings Park White,Black Rock,No. 1,Wilson He,Coco James,Wilson He,6-1,6,1,1,0,Completed,true,false,false
+UA016133,16 Nov 25,13,Kings Park White,Black Rock,No. 2,Jason Tang,Caleb Fisher,Jason Tang,6-1,6,1,1,0,Completed,true,false,false
+UA016133,16 Nov 25,13,Kings Park White,Black Rock,No. 3,Heston Hancox,Mason Tuckman,Mason Tuckman,1-6,1,6,0,1,Completed,true,false,false
+UA016133,16 Nov 25,13,Kings Park White,Black Rock,No. 4,Alice Luo,Sheryne Hamada,Alice Luo,6-4,6,4,1,0,Completed,true,false,false
+UA016134,16 Nov 25,13,Le Page Green,Mentone,No. 1,Drake Brooks,Akira Kare,Drake Brooks,7-5,7,5,1,0,Completed,true,false,false
+UA016134,16 Nov 25,13,Le Page Green,Mentone,No. 2,Ethan Hadjinak,William Carlson,William Carlson,4-6,4,6,0,1,Completed,true,false,false
+UA016134,16 Nov 25,13,Le Page Green,Mentone,No. 3,Jake Loimaranta,Hugo Ngo,Hugo Ngo,1-6,1,6,0,1,Completed,true,false,false
+UA016134,16 Nov 25,13,Le Page Green,Mentone,No. 4,Krithik Prabhu,Ryan Ngo,Krithik Prabhu,6-2,6,2,1,0,Completed,true,false,false
+UA016301,,16,St Joan of Arc,Mentone,No. 1,Kris Xu,Nayte Morris,Kris Xu,6-3,6,3,1,0,Completed,true,false,false
+UA016301,,16,St Joan of Arc,Mentone,No. 2,Kevin Courtney,Akira Kare,Akira Kare,3-6,3,6,0,1,Completed,true,false,false
+UA016301,,16,St Joan of Arc,Mentone,No. 3,Kingsley Bower,William Carlson,William Carlson,3-6,3,6,0,1,Completed,true,false,false
+UA016301,,16,St Joan of Arc,Mentone,No. 4,Simone Bower,Hugo Ngo,Hugo Ngo,2-6,2,6,0,1,Completed,true,false,false
+UA016302,,16,Le Page Blue,Kings Park White,No. 1,Liam Bianchi,Wilson He,Liam Bianchi,6-2,6,2,1,0,Completed,true,false,false
+UA016302,,16,Le Page Blue,Kings Park White,No. 2,Benson James,Heston Hancox,Heston Hancox,1-6,1,6,0,1,Completed,true,false,false
+UA016302,,16,Le Page Blue,Kings Park White,No. 3,Skyler Wijendra,Olivia Chang,Skyler Wijendra,6-2,6,2,1,0,Completed,true,false,false
+UA016302,,16,Le Page Blue,Kings Park White,No. 4,Omer Alamaru,Alice Luo,Omer Alamaru,6-4,6,4,1,0,Completed,true,false,false
+UA016321,,17,Le Page Blue,Mentone,No. 1,Liam Bianchi,Nayte Morris,Liam Bianchi,6-4,6,4,1,0,Completed,true,false,false
+UA016321,,17,Le Page Blue,Mentone,No. 2,Benson James,Akira Kare,Akira Kare,0-6,0,6,0,1,Completed,true,false,false
+UA016321,,17,Le Page Blue,Mentone,No. 3,Skyler Wijendra,William Carlson,Skyler Wijendra,6-2,6,2,1,0,Completed,true,false,false
+UA016321,,17,Le Page Blue,Mentone,No. 4,Omer Alamaru,Ryan Ngo,Ryan Ngo,3-6,3,6,0,1,Completed,true,false,false

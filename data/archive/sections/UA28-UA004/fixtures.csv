@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA004011,31 Jan 21,1,regular,Round 1,Beaumaris CC,Dendy Park,2,8,2,4,,,23,30,Completed,
+UA004012,31 Jan 21,1,regular,Round 1,BLTC,GPHC,8,2,4,2,,,35,28,Completed,
+UA004013,31 Jan 21,1,regular,Round 1,St Pats Mentone,Hurlingham Park,1,9,1,5,,,13,33,Completed,
+UA004014,31 Jan 21,1,regular,Round 1,Highett,Coatesville,7,3,3,3,,,33,28,Completed,
+UA004021,07 Feb 21,2,regular,Round 2,Coatesville,Beaumaris CC,5,5,3,3,,,24,24,Completed,
+UA004022,07 Feb 21,2,regular,Round 2,Dendy Park,BLTC,2,8,2,4,,,23,31,Completed,
+UA004024,07 Feb 21,2,regular,Round 2,Hurlingham Park,Highett,8,2,4,2,,,31,24,Completed,
+pending-ua004-r2-gphc-st-pats-mentone,07 Feb 21,2,regular,Round 2,GPHC,St Pats Mentone,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua004-r3-beaumaris-cc-hurlingham-park,14 Feb 21,3,regular,Round 3,Beaumaris CC,Hurlingham Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua004-r3-bltc-coatesville,14 Feb 21,3,regular,Round 3,BLTC,Coatesville,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua004-r3-highett-gphc,14 Feb 21,3,regular,Round 3,Highett,GPHC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua004-r3-st-pats-mentone-dendy-park,14 Feb 21,3,regular,Round 3,St Pats Mentone,Dendy Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA004041,21 Feb 21,4,regular,Round 4,GPHC,Beaumaris CC,2,8,2,4,,,26,25,Completed,
+UA004042,21 Feb 21,4,regular,Round 4,Hurlingham Park,BLTC,1,9,1,5,,,21,33,Completed,
+UA004043,21 Feb 21,4,regular,Round 4,Coatesville,St Pats Mentone,9,1,5,1,,,30,19,Completed,
+UA004044,21 Feb 21,4,regular,Round 4,Dendy Park,Highett,2,8,2,4,,,20,29,Completed,
+UA004051,28 Feb 21,5,regular,Round 5,St Pats Mentone,Highett,1,9,1,5,,,20,31,Completed,
+UA004052,28 Feb 21,5,regular,Round 5,Coatesville,Hurlingham Park,1,9,1,5,,,22,32,Completed,
+UA004053,28 Feb 21,5,regular,Round 5,GPHC,Dendy Park,9,1,5,1,,,34,17,Completed,
+UA004054,28 Feb 21,5,regular,Round 5,Beaumaris CC,BLTC,1,9,1,5,,,27,35,Completed,
+UA004061,14 Mar 21,6,regular,Round 6,BLTC,St Pats Mentone,10,0,6,0,,,37,21,Completed,
+UA004062,14 Mar 21,6,regular,Round 6,Highett,Beaumaris CC,8,2,4,2,,,30,20,Completed,
+UA004063,14 Mar 21,6,regular,Round 6,Hurlingham Park,GPHC,10,0,6,0,,,37,9,Completed,
+pending-ua004-r6-dendy-park-coatesville,14 Mar 21,6,regular,Round 6,Dendy Park,Coatesville,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA004071,21 Mar 21,7,regular,Round 7,Beaumaris CC,St Pats Mentone,10,0,6,0,,,37,14,Completed,
+UA004072,21 Mar 21,7,regular,Round 7,BLTC,Highett,9,1,5,1,,,33,24,Completed,
+UA004073,21 Mar 21,7,regular,Round 7,Coatesville,GPHC,2,8,2,4,,,22,29,Completed,
+UA004074,21 Mar 21,7,regular,Round 7,Hurlingham Park,Dendy Park,8,2,4,2,,,36,28,Completed,
+UA004081,28 Mar 21,8,regular,Round 8,Dendy Park,Beaumaris CC,7,3,3,3,,,24,22,Completed,
+UA004082,28 Mar 21,8,regular,Round 8,GPHC,BLTC,2,8,2,4,,,18,27,Completed,
+UA004083,28 Mar 21,8,regular,Round 8,Hurlingham Park,St Pats Mentone,8,2,4,2,,,31,18,Completed,
+UA004084,28 Mar 21,8,regular,Round 8,Coatesville,Highett,2,8,2,4,,,21,29,Completed,
+UA004091,02 May 21,9,regular,Round 9,Beaumaris CC,Coatesville,8,2,4,2,,,31,28,Completed,
+UA004092,02 May 21,9,regular,Round 9,BLTC,Dendy Park,8,2,4,2,,,31,24,Completed,
+UA004093,02 May 21,9,regular,Round 9,St Pats Mentone,GPHC,2,8,2,4,,,24,32,Completed,
+UA004094,02 May 21,9,regular,Round 9,Highett,Hurlingham Park,9,1,5,1,,,33,25,Completed,
+UA004101,09 May 21,10,regular,Round 10,Hurlingham Park,Beaumaris CC,8,2,4,2,,,27,22,Completed,
+UA004102,09 May 21,10,regular,Round 10,Coatesville,BLTC,2,8,2,4,,,28,30,Completed,
+UA004103,09 May 21,10,regular,Round 10,Dendy Park,St Pats Mentone,9,1,5,1,,,31,15,Completed,
+UA004104,09 May 21,10,regular,Round 10,GPHC,Highett,2,8,2,4,,,24,26,Completed,
+UA004111,16 May 21,11,regular,Round 11,Beaumaris CC,GPHC,3,7,3,3,,,28,30,Completed,
+UA004112,16 May 21,11,regular,Round 11,BLTC,Hurlingham Park,5,5,3,3,,,23,23,Completed,
+UA004113,16 May 21,11,regular,Round 11,St Pats Mentone,Coatesville,8,2,4,2,,,32,28,Completed,
+UA004114,16 May 21,11,regular,Round 11,Highett,Dendy Park,9,1,5,1,,,34,11,Completed,
+UA004122,23 May 21,12,regular,Round 12,Hurlingham Park,Coatesville,8,2,4,2,,,34,24,Completed,
+UA004123,23 May 21,12,regular,Round 12,Dendy Park,GPHC,8,2,4,2,,,31,27,Completed,
+UA004124,23 May 21,12,regular,Round 12,BLTC,Beaumaris CC,7,3,3,3,,,28,25,Completed,
+pending-ua004-r12-highett-st-pats-mentone,23 May 21,12,regular,Round 12,Highett,St Pats Mentone,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+pending-ua004-r13-beaumaris-cc-highett,30 May 21,13,regular,Round 13,Beaumaris CC,Highett,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua004-r13-coatesville-dendy-park,30 May 21,13,regular,Round 13,Coatesville,Dendy Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua004-r13-gphc-hurlingham-park,30 May 21,13,regular,Round 13,GPHC,Hurlingham Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua004-r13-st-pats-mentone-bltc,30 May 21,13,regular,Round 13,St Pats Mentone,BLTC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA004301,,16,semi_final,Semi-final,BLTC,Beaumaris CC,9.5,0.5,5,0,,,30,8,Completed,
+UA004302,,16,semi_final,Semi-final,Highett,Hurlingham Park,1.5,8.5,1,4,,,21,29,Completed,
+UA004321,,17,grand_final,Grand final · TROLS entry 2,BLTC,Hurlingham Park,9.5,0.5,5,0,,,30,11,Completed,

@@ -1,0 +1,221 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA008011,22 Jul 12,1,BLTC,Parkdale,No. 1,Tom Fisher,Tyler Bradley,Tyler Bradley,0-6,0,6,0,1,Completed,true,false,false
+UA008011,22 Jul 12,1,BLTC,Parkdale,No. 2,Harry McFarlane,Sam Barren,Harry McFarlane,6-2,6,2,1,0,Completed,true,false,false
+UA008011,22 Jul 12,1,BLTC,Parkdale,No. 3,Edward Fisher,Alexander Verrils,Edward Fisher,6-3,6,3,1,0,Completed,true,false,false
+UA008011,22 Jul 12,1,BLTC,Parkdale,No. 4,Cameron Humphries,Harry Cramer,Cameron Humphries,6-0,6,0,1,0,Completed,true,false,false
+UA008012,22 Jul 12,1,Kooyong St Kevin's,Tennis World,No. 1,Sam Balmforth,Michaella Majdan,Michaella Majdan,0-6,0,6,0,1,Completed,true,false,false
+UA008012,22 Jul 12,1,Kooyong St Kevin's,Tennis World,No. 2,Francesca Jones,Toby Peterson,Toby Peterson,1-6,1,6,0,1,Completed,true,false,false
+UA008012,22 Jul 12,1,Kooyong St Kevin's,Tennis World,No. 3,Max Charles,Julia Skiold,Julia Skiold,0-6,0,6,0,1,Completed,true,false,false
+UA008012,22 Jul 12,1,Kooyong St Kevin's,Tennis World,No. 4,Annabel Jones,Chris Chalkiadis,Annabel Jones,6-1,6,1,1,0,Completed,true,false,false
+UA008013,22 Jul 12,1,GPHC,Dendy Park,No. 1,James Roach,Christopher Iramiyan,Christopher Iramiyan,0-6,0,6,0,1,Completed,true,false,false
+UA008013,22 Jul 12,1,GPHC,Dendy Park,No. 2,Maddy Benallack,James Russel,James Russel,5-7,5,7,0,1,Completed,true,false,false
+UA008013,22 Jul 12,1,GPHC,Dendy Park,No. 3,Max Double,Taylan Olmez,Max Double,6-2,6,2,1,0,Completed,true,false,false
+UA008013,22 Jul 12,1,GPHC,Dendy Park,No. 4,Lily Goss,Lachlan Speirs,Lachlan Speirs,0-6,0,6,0,1,Completed,true,false,false
+UA008014,22 Jul 12,1,St Andrews MB,Mordialloc,No. 1,Lottie Spencer,Ryley Harrison,Lottie Spencer,7-6,7,6,1,0,Completed,true,false,false
+UA008014,22 Jul 12,1,St Andrews MB,Mordialloc,No. 2,Emily Campbell,Tash Lamberton,Tash Lamberton,0-6,0,6,0,1,Completed,true,false,false
+UA008014,22 Jul 12,1,St Andrews MB,Mordialloc,No. 3,Zara Henderson,Amy Prentice,Zara Henderson,6-0,6,0,1,0,Completed,true,false,false
+UA008014,22 Jul 12,1,St Andrews MB,Mordialloc,No. 4,Saskia Komljenovic,Sahishnu Siva-Ram,Saskia Komljenovic,7-5,7,5,1,0,Completed,true,false,false
+UA008023,29 Jul 12,2,Tennis World,GPHC,No. 1,Michaella Majdan,Georgia Deacon,Michaella Majdan,6-4,6,4,1,0,Completed,true,false,false
+UA008023,29 Jul 12,2,Tennis World,GPHC,No. 2,Tallie Collins,Max Double,Tallie Collins,7-5,7,5,1,0,Completed,true,false,false
+UA008023,29 Jul 12,2,Tennis World,GPHC,No. 3,Julia Skiold,Lily Goss,Julia Skiold,6-0,6,0,1,0,Completed,true,false,false
+UA008023,29 Jul 12,2,Tennis World,GPHC,No. 4,Chris Chalkiadis,Guila Tillack,Guila Tillack,2-6,2,6,0,1,Completed,true,false,false
+UA008031,05 Aug 12,3,BLTC,Dendy Park,No. 1,[Unnamed player — TROLS UA008031 home code 1],Christopher Iramiyan,Christopher Iramiyan,0-6,0,6,0,1,Completed,false,false,false
+UA008031,05 Aug 12,3,BLTC,Dendy Park,No. 2,Harry McFarlane,James Russel,James Russel,1-6,1,6,0,1,Completed,true,false,false
+UA008031,05 Aug 12,3,BLTC,Dendy Park,No. 3,Edward Fisher,Taylan Olmez,Edward Fisher,6-1,6,1,1,0,Completed,true,false,false
+UA008031,05 Aug 12,3,BLTC,Dendy Park,No. 4,Cameron Humphries,Henri Piner,Henri Piner,1-6,1,6,0,1,Completed,true,false,false
+UA008032,05 Aug 12,3,Kooyong St Kevin's,Mordialloc,No. 1,Sam Balmforth,Ryley Harrison,Ryley Harrison,0-6,0,6,0,1,Completed,true,false,false
+UA008032,05 Aug 12,3,Kooyong St Kevin's,Mordialloc,No. 2,Francesca Jones,Tash Lamberton,Tash Lamberton,2-6,2,6,0,1,Completed,true,false,false
+UA008032,05 Aug 12,3,Kooyong St Kevin's,Mordialloc,No. 3,Max Charles,Sahishnu Siva-Ram,Sahishnu Siva-Ram,1-6,1,6,0,1,Completed,true,false,false
+UA008032,05 Aug 12,3,Kooyong St Kevin's,Mordialloc,No. 4,Annabel Jones,Aaron Huynh,Aaron Huynh,4-6,4,6,0,1,Completed,true,false,false
+UA008033,05 Aug 12,3,GPHC,Parkdale,No. 1,James Roach,Tyler Bradley,Tyler Bradley,3-6,3,6,0,1,Completed,true,false,false
+UA008033,05 Aug 12,3,GPHC,Parkdale,No. 2,Hannah Double,Sam Barren,Sam Barren,2-6,2,6,0,1,Completed,true,false,false
+UA008033,05 Aug 12,3,GPHC,Parkdale,No. 3,Georgia Deacon,Reid Terrell,Georgia Deacon,6-3,6,3,1,0,Completed,true,false,false
+UA008033,05 Aug 12,3,GPHC,Parkdale,No. 4,Max Double,Daniel Fitchet,Max Double,6-1,6,1,1,0,Completed,true,false,false
+UA008034,05 Aug 12,3,St Andrews MB,Tennis World,No. 1,Nick Roberts,Michaella Majdan,Michaella Majdan,2-6,2,6,0,1,Completed,true,false,false
+UA008034,05 Aug 12,3,St Andrews MB,Tennis World,No. 2,Emily Campbell,Tallie Collins,Emily Campbell,6-3,6,3,1,0,Completed,true,false,false
+UA008034,05 Aug 12,3,St Andrews MB,Tennis World,No. 3,Lottie Spencer,Julia Skiold,Julia Skiold,0-6,0,6,0,1,Completed,true,false,false
+UA008034,05 Aug 12,3,St Andrews MB,Tennis World,No. 4,Zara Henderson,Chris Chalkiadis,Zara Henderson,6-2,6,2,1,0,Completed,true,false,false
+UA008041,12 Aug 12,4,Tennis World,BLTC,No. 1,Michaella Majdan,Tom Fisher,Michaella Majdan,6-1,6,1,1,0,Completed,true,false,false
+UA008041,12 Aug 12,4,Tennis World,BLTC,No. 2,Toby Peterson,Harry McFarlane,Toby Peterson,6-3,6,3,1,0,Completed,true,false,false
+UA008041,12 Aug 12,4,Tennis World,BLTC,No. 3,Tallie Collins,Edward Fisher,Tallie Collins,6-0,6,0,1,0,Completed,true,false,false
+UA008041,12 Aug 12,4,Tennis World,BLTC,No. 4,Julia Skiold,Asbjorn Williamson,Julia Skiold,6-1,6,1,1,0,Completed,true,false,false
+UA008042,12 Aug 12,4,Dendy Park,Kooyong St Kevin's,No. 1,Christopher Iramiyan,Sam Balmforth,Christopher Iramiyan,6-0,6,0,1,0,Completed,true,false,false
+UA008042,12 Aug 12,4,Dendy Park,Kooyong St Kevin's,No. 2,James Russel,Francesca Jones,James Russel,6-2,6,2,1,0,Completed,true,false,false
+UA008042,12 Aug 12,4,Dendy Park,Kooyong St Kevin's,No. 3,Taylan Olmez,Max Charles,Taylan Olmez,6-2,6,2,1,0,Completed,true,false,false
+UA008042,12 Aug 12,4,Dendy Park,Kooyong St Kevin's,No. 4,Josh Zawa,Annabel Jones,Josh Zawa,6-2,6,2,1,0,Completed,true,false,false
+UA008043,12 Aug 12,4,Mordialloc,GPHC,No. 1,Tash Lamberton,Hannah Double,Hannah Double,3-6,3,6,0,1,Completed,true,false,false
+UA008043,12 Aug 12,4,Mordialloc,GPHC,No. 2,Amy Prentice,Georgia Deacon,Georgia Deacon,0-6,0,6,0,1,Completed,true,false,false
+UA008043,12 Aug 12,4,Mordialloc,GPHC,No. 3,Sahishnu Siva-Ram,Max Double,Sahishnu Siva-Ram,6-3,6,3,1,0,Completed,true,false,false
+UA008043,12 Aug 12,4,Mordialloc,GPHC,No. 4,Aaron Huynh,Lily Goss,Lily Goss,2-6,2,6,0,1,Completed,true,false,false
+UA008044,12 Aug 12,4,Parkdale,St Andrews MB,No. 1,Dylan Bradley,Nick Roberts,Dylan Bradley,6-4,6,4,1,0,Completed,true,false,false
+UA008044,12 Aug 12,4,Parkdale,St Andrews MB,No. 2,Sam Barren,Lottie Spencer,Sam Barren,6-1,6,1,1,0,Completed,true,false,false
+UA008044,12 Aug 12,4,Parkdale,St Andrews MB,No. 3,Alexander Verrils,Zara Henderson,Zara Henderson,0-6,0,6,0,1,Completed,true,false,false
+UA008044,12 Aug 12,4,Parkdale,St Andrews MB,No. 4,Harry Cramer,Saskia Komljenovic,Saskia Komljenovic,0-6,0,6,0,1,Completed,true,false,false
+UA008051,19 Aug 12,5,GPHC,St Andrews MB,No. 1,James Roach,Nick Roberts,James Roach,6-1,6,1,1,0,Completed,true,false,false
+UA008051,19 Aug 12,5,GPHC,St Andrews MB,No. 2,Hannah Double,Emily Campbell,Emily Campbell,2-6,2,6,0,1,Completed,true,false,false
+UA008051,19 Aug 12,5,GPHC,St Andrews MB,No. 3,Maddy Benallack,Lottie Spencer,Maddy Benallack,6-3,6,3,1,0,Completed,true,false,false
+UA008051,19 Aug 12,5,GPHC,St Andrews MB,No. 4,Georgia Deacon,Zara Henderson,Zara Henderson,1-6,1,6,0,1,Completed,true,false,false
+UA008052,19 Aug 12,5,Mordialloc,Dendy Park,No. 1,Tash Lamberton,James Russel,James Russel,3-6,3,6,0,1,Completed,true,false,false
+UA008052,19 Aug 12,5,Mordialloc,Dendy Park,No. 2,Aaron Huynh,Josh Zawa,Josh Zawa,0-6,0,6,0,1,Completed,true,false,false
+UA008052,19 Aug 12,5,Mordialloc,Dendy Park,No. 3,Pranoy Thakker,Henri Piner,Pranoy Thakker,6-4,6,4,1,0,Completed,true,false,false
+UA008052,19 Aug 12,5,Mordialloc,Dendy Park,No. 4,Kunal Sehgal,Lachlan Speirs,Kunal Sehgal,7-6,7,6,1,0,Completed,true,false,false
+UA008053,19 Aug 12,5,Tennis World,Parkdale,No. 1,Michaella Majdan,Tyler Bradley,Michaella Majdan,6-1,6,1,1,0,Completed,true,false,false
+UA008053,19 Aug 12,5,Tennis World,Parkdale,No. 2,Toby Peterson,Alexander Verrils,Toby Peterson,6-1,6,1,1,0,Completed,true,false,false
+UA008053,19 Aug 12,5,Tennis World,Parkdale,No. 3,Tallie Collins,Reid Terrell,Tallie Collins,6-1,6,1,1,0,Completed,true,false,false
+UA008053,19 Aug 12,5,Tennis World,Parkdale,No. 4,Julia Skiold,Daniel Fitchet,Julia Skiold,6-0,6,0,1,0,Completed,true,false,false
+UA008054,19 Aug 12,5,BLTC,Kooyong St Kevin's,No. 1,Tom Fisher,Sam Balmforth,Tom Fisher,6-4,6,4,1,0,Completed,true,false,false
+UA008054,19 Aug 12,5,BLTC,Kooyong St Kevin's,No. 2,Harry McFarlane,Francesca Jones,Harry McFarlane,6-4,6,4,1,0,Completed,true,false,false
+UA008054,19 Aug 12,5,BLTC,Kooyong St Kevin's,No. 3,Edward Fisher,Max Charles,Edward Fisher,6-4,6,4,1,0,Completed,true,false,false
+UA008054,19 Aug 12,5,BLTC,Kooyong St Kevin's,No. 4,Asbjorn Williamson,Annabel Jones,Asbjorn Williamson,6-4,6,4,1,0,Completed,true,false,false
+UA008061,26 Aug 12,6,Kooyong St Kevin's,GPHC,No. 1,Sam Balmforth,James Roach,James Roach,2-6,2,6,0,1,Completed,true,false,false
+UA008061,26 Aug 12,6,Kooyong St Kevin's,GPHC,No. 2,Francesca Jones,Maddy Benallack,Maddy Benallack,3-6,3,6,0,1,Completed,true,false,false
+UA008061,26 Aug 12,6,Kooyong St Kevin's,GPHC,No. 3,Max Charles,Max Double,Max Double,2-6,2,6,0,1,Completed,true,false,false
+UA008061,26 Aug 12,6,Kooyong St Kevin's,GPHC,No. 4,Annabel Jones,Lily Goss,Annabel Jones,6-4,6,4,1,0,Completed,true,false,false
+UA008062,26 Aug 12,6,St Andrews MB,BLTC,No. 1,Nick Roberts,Tom Fisher,Nick Roberts,6-1,6,1,1,0,Completed,true,false,false
+UA008062,26 Aug 12,6,St Andrews MB,BLTC,No. 2,Zara Henderson,Harry McFarlane,Zara Henderson,6-1,6,1,1,0,Completed,true,false,false
+UA008062,26 Aug 12,6,St Andrews MB,BLTC,No. 3,Saskia Komljenovic,Edward Fisher,Saskia Komljenovic,7-5,7,5,1,0,Completed,true,false,false
+UA008062,26 Aug 12,6,St Andrews MB,BLTC,No. 4,Zach Adam-Gedge,Braiden Prack,Zach Adam-Gedge,6-1,6,1,1,0,Completed,true,false,false
+UA008063,26 Aug 12,6,Dendy Park,Tennis World,No. 1,James Russel,Michaella Majdan,James Russel,6-4,6,4,1,0,Completed,true,false,false
+UA008063,26 Aug 12,6,Dendy Park,Tennis World,No. 2,Taylan Olmez,Toby Peterson,Toby Peterson,5-7,5,7,0,1,Completed,true,false,false
+UA008063,26 Aug 12,6,Dendy Park,Tennis World,No. 3,Josh Zawa,Tallie Collins,Tallie Collins,1-6,1,6,0,1,Completed,true,false,false
+UA008063,26 Aug 12,6,Dendy Park,Tennis World,No. 4,Henri Piner,Chris Chalkiadis,Chris Chalkiadis,2-6,2,6,0,1,Completed,true,false,false
+UA008064,26 Aug 12,6,Parkdale,Mordialloc,No. 1,Tyler Bradley,Ryley Harrison,Tyler Bradley,6-0,6,0,1,0,Completed,true,false,false
+UA008064,26 Aug 12,6,Parkdale,Mordialloc,No. 2,Sam Barren,Tash Lamberton,Sam Barren,6-2,6,2,1,0,Completed,true,false,false
+UA008064,26 Aug 12,6,Parkdale,Mordialloc,No. 3,Harry Cramer,Amy Prentice,Amy Prentice,3-6,3,6,0,1,Completed,true,false,false
+UA008064,26 Aug 12,6,Parkdale,Mordialloc,No. 4,Daniel Fitchet,Sahishnu Siva-Ram,Sahishnu Siva-Ram,1-6,1,6,0,1,Completed,true,false,false
+UA008071,02 Sep 12,7,BLTC,GPHC,No. 1,Tom Fisher,James Roach,James Roach,1-6,1,6,0,1,Completed,true,false,false
+UA008071,02 Sep 12,7,BLTC,GPHC,No. 2,Edward Fisher,Hannah Double,Hannah Double,0-6,0,6,0,1,Completed,true,false,false
+UA008071,02 Sep 12,7,BLTC,GPHC,No. 3,Braiden Prack,Georgia Deacon,Georgia Deacon,2-6,2,6,0,1,Completed,true,false,false
+UA008071,02 Sep 12,7,BLTC,GPHC,No. 4,Cameron Humphries,Lily Goss,Lily Goss,3-6,3,6,0,1,Completed,true,false,false
+UA008072,02 Sep 12,7,Kooyong St Kevin's,St Andrews MB,No. 1,Sam Balmforth,Emily Campbell,Emily Campbell,5-7,5,7,0,1,Completed,true,false,false
+UA008072,02 Sep 12,7,Kooyong St Kevin's,St Andrews MB,No. 2,Francesca Jones,Lottie Spencer,Lottie Spencer,5-7,5,7,0,1,Completed,true,false,false
+UA008072,02 Sep 12,7,Kooyong St Kevin's,St Andrews MB,No. 3,Max Charles,Zara Henderson,Zara Henderson,3-6,3,6,0,1,Completed,true,false,false
+UA008072,02 Sep 12,7,Kooyong St Kevin's,St Andrews MB,No. 4,Annabel Jones,Saskia Komljenovic,Saskia Komljenovic,4-6,4,6,0,1,Completed,true,false,false
+UA008073,02 Sep 12,7,Mordialloc,Tennis World,No. 1,Tash Lamberton,Michaella Majdan,Michaella Majdan,2-6,2,6,0,1,Completed,true,false,false
+UA008073,02 Sep 12,7,Mordialloc,Tennis World,No. 2,Amy Prentice,Tallie Collins,Tallie Collins,0-6,0,6,0,1,Completed,true,false,false
+UA008073,02 Sep 12,7,Mordialloc,Tennis World,No. 3,Sahishnu Siva-Ram,Julia Skiold,Sahishnu Siva-Ram,6-3,6,3,1,0,Completed,true,false,false
+UA008073,02 Sep 12,7,Mordialloc,Tennis World,No. 4,Aaron Huynh,Chris Chalkiadis,Aaron Huynh,6-2,6,2,1,0,Completed,true,false,false
+UA008074,02 Sep 12,7,Dendy Park,Parkdale,No. 1,Christopher Iramiyan,Tyler Bradley,Christopher Iramiyan,6-1,6,1,1,0,Completed,true,false,false
+UA008074,02 Sep 12,7,Dendy Park,Parkdale,No. 2,James Russel,Sam Barren,Sam Barren,3-6,3,6,0,1,Completed,true,false,false
+UA008074,02 Sep 12,7,Dendy Park,Parkdale,No. 3,Josh Zawa,Harry Cramer,Josh Zawa,6-2,6,2,1,0,Completed,true,false,false
+UA008074,02 Sep 12,7,Dendy Park,Parkdale,No. 4,Lachlan Speirs,Alexander Verrils,Alexander Verrils,3-6,3,6,0,1,Completed,true,false,false
+UA008081,09 Sep 12,8,Parkdale,BLTC,No. 1,Tyler Bradley,Tom Fisher,Tyler Bradley,6-0,6,0,1,0,Completed,true,false,false
+UA008081,09 Sep 12,8,Parkdale,BLTC,No. 2,Sam Barren,Edward Fisher,Sam Barren,6-2,6,2,1,0,Completed,true,false,false
+UA008081,09 Sep 12,8,Parkdale,BLTC,No. 3,Reid Terrell,Braiden Prack,Reid Terrell,6-0,6,0,1,0,Completed,true,false,false
+UA008081,09 Sep 12,8,Parkdale,BLTC,No. 4,Daniel Fitchet,Cameron Humphries,Daniel Fitchet,6-2,6,2,1,0,Completed,true,false,false
+UA008082,09 Sep 12,8,Tennis World,Kooyong St Kevin's,No. 1,Toby Peterson,Sam Balmforth,Toby Peterson,6-1,6,1,1,0,Completed,true,false,false
+UA008082,09 Sep 12,8,Tennis World,Kooyong St Kevin's,No. 2,Tallie Collins,Francesca Jones,Tallie Collins,6-2,6,2,1,0,Completed,true,false,false
+UA008082,09 Sep 12,8,Tennis World,Kooyong St Kevin's,No. 3,Julia Skiold,Max Charles,Julia Skiold,6-1,6,1,1,0,Completed,true,false,false
+UA008082,09 Sep 12,8,Tennis World,Kooyong St Kevin's,No. 4,Chris Chalkiadis,Annabel Jones,Chris Chalkiadis,6-1,6,1,1,0,Completed,true,false,false
+UA008083,09 Sep 12,8,Dendy Park,GPHC,No. 1,Christopher Iramiyan,Hannah Double,Christopher Iramiyan,6-1,6,1,1,0,Completed,true,false,false
+UA008083,09 Sep 12,8,Dendy Park,GPHC,No. 2,Henri Piner,Georgia Deacon,Georgia Deacon,3-6,3,6,0,1,Completed,true,false,false
+UA008083,09 Sep 12,8,Dendy Park,GPHC,No. 3,Taylan Olmez,Max Double,Max Double,1-6,1,6,0,1,Completed,true,false,false
+UA008083,09 Sep 12,8,Dendy Park,GPHC,No. 4,Lachlan Speirs,Lily Goss,Lily Goss,4-6,4,6,0,1,Completed,true,false,false
+UA008084,09 Sep 12,8,Mordialloc,St Andrews MB,No. 1,Tash Lamberton,Nick Roberts,Tash Lamberton,6-3,6,3,1,0,Completed,true,false,false
+UA008084,09 Sep 12,8,Mordialloc,St Andrews MB,No. 2,Amy Prentice,Emily Campbell,Emily Campbell,0-6,0,6,0,1,Completed,true,false,false
+UA008084,09 Sep 12,8,Mordialloc,St Andrews MB,No. 3,Sahishnu Siva-Ram,Zara Henderson,Zara Henderson,6-7,6,7,0,1,Completed,true,false,false
+UA008084,09 Sep 12,8,Mordialloc,St Andrews MB,No. 4,Aaron Huynh,Saskia Komljenovic,Aaron Huynh,6-3,6,3,1,0,Completed,true,false,false
+UA008091,16 Sep 12,9,BLTC,Mordialloc,No. 1,Tom Fisher,Ryley Harrison,Tom Fisher,7-6,7,6,1,0,Completed,true,false,false
+UA008091,16 Sep 12,9,BLTC,Mordialloc,No. 2,Edward Fisher,Tash Lamberton,Edward Fisher,6-4,6,4,1,0,Completed,true,false,false
+UA008091,16 Sep 12,9,BLTC,Mordialloc,No. 3,Braiden Prack,Amy Prentice,Amy Prentice,4-6,4,6,0,1,Completed,true,false,false
+UA008091,16 Sep 12,9,BLTC,Mordialloc,No. 4,Cameron Humphries,Aaron Huynh,Aaron Huynh,4-6,4,6,0,1,Completed,true,false,false
+UA008093,16 Sep 12,9,GPHC,Tennis World,No. 1,James Roach,Toby Peterson,Toby Peterson,6-7,6,7,0,1,Completed,true,false,false
+UA008093,16 Sep 12,9,GPHC,Tennis World,No. 2,Hannah Double,Tallie Collins,Tallie Collins,1-6,1,6,0,1,Completed,true,false,false
+UA008093,16 Sep 12,9,GPHC,Tennis World,No. 3,Georgia Deacon,Julia Skiold,Georgia Deacon,7-6,7,6,1,0,Completed,true,false,false
+UA008093,16 Sep 12,9,GPHC,Tennis World,No. 4,Max Double,Adam Ross,Max Double,6-2,6,2,1,0,Completed,true,false,false
+UA008094,16 Sep 12,9,St Andrews MB,Dendy Park,No. 1,Nick Roberts,Christopher Iramiyan,Christopher Iramiyan,0-6,0,6,0,1,Completed,true,false,false
+UA008094,16 Sep 12,9,St Andrews MB,Dendy Park,No. 2,Emily Campbell,Taylan Olmez,Emily Campbell,6-0,6,0,1,0,Completed,true,false,false
+UA008094,16 Sep 12,9,St Andrews MB,Dendy Park,No. 3,Lottie Spencer,Josh Zawa,Josh Zawa,2-6,2,6,0,1,Completed,true,false,false
+UA008094,16 Sep 12,9,St Andrews MB,Dendy Park,No. 4,Saskia Komljenovic,Lachlan Speirs,Saskia Komljenovic,6-3,6,3,1,0,Completed,true,false,false
+UA008101,14 Oct 12,10,Dendy Park,BLTC,No. 1,Christopher Iramiyan,Tom Fisher,Christopher Iramiyan,6-1,6,1,1,0,Completed,true,false,false
+UA008101,14 Oct 12,10,Dendy Park,BLTC,No. 2,Taylan Olmez,Harry McFarlane,Harry McFarlane,3-6,3,6,0,1,Completed,true,false,false
+UA008101,14 Oct 12,10,Dendy Park,BLTC,No. 3,Josh Zawa,Braiden Prack,Josh Zawa,6-0,6,0,1,0,Completed,true,false,false
+UA008101,14 Oct 12,10,Dendy Park,BLTC,No. 4,Henri Piner,Cameron Humphries,Henri Piner,6-2,6,2,1,0,Completed,true,false,false
+UA008102,14 Oct 12,10,Mordialloc,Kooyong St Kevin's,No. 1,Tash Lamberton,Sam Balmforth,Tash Lamberton,6-1,6,1,1,0,Completed,true,false,false
+UA008102,14 Oct 12,10,Mordialloc,Kooyong St Kevin's,No. 2,Amy Prentice,Morgan Galea,Morgan Galea,2-6,2,6,0,1,Completed,true,false,false
+UA008102,14 Oct 12,10,Mordialloc,Kooyong St Kevin's,No. 3,Sahishnu Siva-Ram,Francesca Jones,Sahishnu Siva-Ram,6-0,6,0,1,0,Completed,true,false,false
+UA008102,14 Oct 12,10,Mordialloc,Kooyong St Kevin's,No. 4,Aaron Huynh,Annabel Jones,Aaron Huynh,6-1,6,1,1,0,Completed,true,false,false
+UA008103,14 Oct 12,10,Parkdale,GPHC,No. 1,Tyler Bradley,James Roach,James Roach,4-6,4,6,0,1,Completed,true,false,false
+UA008103,14 Oct 12,10,Parkdale,GPHC,No. 2,Sam Barren,Hannah Double,Sam Barren,6-1,6,1,1,0,Completed,true,false,false
+UA008103,14 Oct 12,10,Parkdale,GPHC,No. 3,Harry Cramer,Max Double,Max Double,1-6,1,6,0,1,Completed,true,false,false
+UA008103,14 Oct 12,10,Parkdale,GPHC,No. 4,Alexander Verrils,Lily Goss,Lily Goss,3-6,3,6,0,1,Completed,true,false,false
+UA008104,14 Oct 12,10,Tennis World,St Andrews MB,No. 1,Toby Peterson,Nick Roberts,Toby Peterson,6-1,6,1,1,0,Completed,true,false,false
+UA008104,14 Oct 12,10,Tennis World,St Andrews MB,No. 2,Tallie Collins,Emily Campbell,Emily Campbell,2-6,2,6,0,1,Completed,true,false,false
+UA008104,14 Oct 12,10,Tennis World,St Andrews MB,No. 3,Julia Skiold,Lottie Spencer,Julia Skiold,6-1,6,1,1,0,Completed,true,false,false
+UA008104,14 Oct 12,10,Tennis World,St Andrews MB,No. 4,Chris Chalkiadis,Saskia Komljenovic,Chris Chalkiadis,6-3,6,3,1,0,Completed,true,false,false
+UA008111,21 Oct 12,11,BLTC,Tennis World,No. 1,Tom Fisher,Michaella Majdan,Michaella Majdan,0-6,0,6,0,1,Completed,true,false,false
+UA008111,21 Oct 12,11,BLTC,Tennis World,No. 2,Harry McFarlane,Tallie Collins,Tallie Collins,1-6,1,6,0,1,Completed,true,false,false
+UA008111,21 Oct 12,11,BLTC,Tennis World,No. 3,Edward Fisher,Julia Skiold,Edward Fisher,6-4,6,4,1,0,Completed,true,false,false
+UA008111,21 Oct 12,11,BLTC,Tennis World,No. 4,Cameron Humphries,Chris Chalkiadis,Chris Chalkiadis,4-6,4,6,0,1,Completed,true,false,false
+UA008112,21 Oct 12,11,Kooyong St Kevin's,Dendy Park,No. 1,Sam Balmforth,James Russel,James Russel,0-6,0,6,0,1,Completed,true,false,false
+UA008112,21 Oct 12,11,Kooyong St Kevin's,Dendy Park,No. 2,Morgan Galea,Taylan Olmez,Taylan Olmez,1-6,1,6,0,1,Completed,true,false,false
+UA008112,21 Oct 12,11,Kooyong St Kevin's,Dendy Park,No. 3,Francesca Jones,Lachlan Speirs,Lachlan Speirs,1-6,1,6,0,1,Completed,true,false,false
+UA008112,21 Oct 12,11,Kooyong St Kevin's,Dendy Park,No. 4,Annabel Jones,Henri Piner,Henri Piner,1-6,1,6,0,1,Completed,true,false,false
+UA008113,21 Oct 12,11,GPHC,Mordialloc,No. 1,James Roach,Tash Lamberton,James Roach,6-1,6,1,1,0,Completed,true,false,false
+UA008113,21 Oct 12,11,GPHC,Mordialloc,No. 2,Maddy Benallack,Amy Prentice,Amy Prentice,6-7,6,7,0,1,Completed,true,false,false
+UA008113,21 Oct 12,11,GPHC,Mordialloc,No. 3,Georgia Deacon,Sahishnu Siva-Ram,Sahishnu Siva-Ram,1-6,1,6,0,1,Completed,true,false,false
+UA008113,21 Oct 12,11,GPHC,Mordialloc,No. 4,Lily Goss,Aaron Huynh,Aaron Huynh,1-6,1,6,0,1,Completed,true,false,false
+UA008114,21 Oct 12,11,St Andrews MB,Parkdale,No. 1,Nick Roberts,Tyler Bradley,Tyler Bradley,2-6,2,6,0,1,Completed,true,false,false
+UA008114,21 Oct 12,11,St Andrews MB,Parkdale,No. 2,Emily Campbell,Alexander Verrils,Emily Campbell,6-0,6,0,1,0,Completed,true,false,false
+UA008114,21 Oct 12,11,St Andrews MB,Parkdale,No. 3,Lottie Spencer,Reid Terrell,Lottie Spencer,6-0,6,0,1,0,Completed,true,false,false
+UA008114,21 Oct 12,11,St Andrews MB,Parkdale,No. 4,Zara Henderson,Daniel Fitchet,Zara Henderson,6-1,6,1,1,0,Completed,true,false,false
+UA008121,28 Oct 12,12,St Andrews MB,GPHC,No. 1,Nick Roberts,Hannah Double,Hannah Double,6-7,6,7,0,1,Completed,true,false,false
+UA008121,28 Oct 12,12,St Andrews MB,GPHC,No. 2,Lottie Spencer,Maddy Benallack,Lottie Spencer,6-4,6,4,1,0,Completed,true,false,false
+UA008121,28 Oct 12,12,St Andrews MB,GPHC,No. 3,Zara Henderson,Georgia Deacon,Georgia Deacon,4-6,4,6,0,1,Completed,true,false,false
+UA008121,28 Oct 12,12,St Andrews MB,GPHC,No. 4,Saskia Komljenovic,Max Double,Saskia Komljenovic,6-2,6,2,1,0,Completed,true,false,false
+UA008122,28 Oct 12,12,Dendy Park,Mordialloc,No. 1,Christopher Iramiyan,Ryley Harrison,Christopher Iramiyan,6-0,6,0,1,0,Completed,true,false,false
+UA008122,28 Oct 12,12,Dendy Park,Mordialloc,No. 2,James Russel,Tash Lamberton,James Russel,6-0,6,0,1,0,Completed,true,false,false
+UA008122,28 Oct 12,12,Dendy Park,Mordialloc,No. 3,Taylan Olmez,Amy Prentice,Taylan Olmez,6-2,6,2,1,0,Completed,true,false,false
+UA008122,28 Oct 12,12,Dendy Park,Mordialloc,No. 4,Lachlan Speirs,Aaron Huynh,Aaron Huynh,3-6,3,6,0,1,Completed,true,false,false
+UA008123,28 Oct 12,12,Parkdale,Tennis World,No. 1,Sam Barren,Michaella Majdan,Sam Barren,6-1,6,1,1,0,Completed,true,false,false
+UA008123,28 Oct 12,12,Parkdale,Tennis World,No. 2,Harry Cramer,Toby Peterson,Toby Peterson,0-6,0,6,0,1,Completed,true,false,false
+UA008123,28 Oct 12,12,Parkdale,Tennis World,No. 3,Reid Terrell,Julia Skiold,Julia Skiold,0-6,0,6,0,1,Completed,true,false,false
+UA008123,28 Oct 12,12,Parkdale,Tennis World,No. 4,Daniel Fitchet,Chris Chalkiadis,Chris Chalkiadis,3-6,3,6,0,1,Completed,true,false,false
+UA008124,28 Oct 12,12,Kooyong St Kevin's,BLTC,No. 1,Sam Balmforth,Tom Fisher,Tom Fisher,0-6,0,6,0,1,Completed,true,false,false
+UA008124,28 Oct 12,12,Kooyong St Kevin's,BLTC,No. 2,Francesca Jones,Edward Fisher,Edward Fisher,5-7,5,7,0,1,Completed,true,false,false
+UA008124,28 Oct 12,12,Kooyong St Kevin's,BLTC,No. 3,Annabel Jones,Harry McFarlane,Annabel Jones,6-0,6,0,1,0,Completed,true,false,false
+UA008124,28 Oct 12,12,Kooyong St Kevin's,BLTC,No. 4,Adam Adamos,Troy Flavell,Adam Adamos,6-3,6,3,1,0,Completed,true,false,false
+UA008131,11 Nov 12,13,GPHC,Kooyong St Kevin's,No. 1,James Roach,Sam Balmforth,James Roach,6-1,6,1,1,0,Completed,true,false,false
+UA008131,11 Nov 12,13,GPHC,Kooyong St Kevin's,No. 2,Hannah Double,Francesca Jones,Hannah Double,6-0,6,0,1,0,Completed,true,false,false
+UA008131,11 Nov 12,13,GPHC,Kooyong St Kevin's,No. 3,Georgia Deacon,Max Charles,Georgia Deacon,6-1,6,1,1,0,Completed,true,false,false
+UA008131,11 Nov 12,13,GPHC,Kooyong St Kevin's,No. 4,Max Double,Annabel Jones,Max Double,6-4,6,4,1,0,Completed,true,false,false
+UA008132,11 Nov 12,13,BLTC,St Andrews MB,No. 1,Harry McFarlane,Emily Campbell,Emily Campbell,3-6,3,6,0,1,Completed,true,false,false
+UA008132,11 Nov 12,13,BLTC,St Andrews MB,No. 2,Troy Flavell,Nick Moran,Nick Moran,0-6,0,6,0,1,Completed,true,false,false
+UA008132,11 Nov 12,13,BLTC,St Andrews MB,No. 3,Braiden Prack,Lottie Spencer,Lottie Spencer,6-7,6,7,0,1,Completed,true,false,false
+UA008132,11 Nov 12,13,BLTC,St Andrews MB,No. 4,Cameron Humphries,Zara Henderson,Zara Henderson,1-6,1,6,0,1,Completed,true,false,false
+UA008133,11 Nov 12,13,Tennis World,Dendy Park,No. 1,Toby Peterson,Christopher Iramiyan,Christopher Iramiyan,2-6,2,6,0,1,Completed,true,false,false
+UA008133,11 Nov 12,13,Tennis World,Dendy Park,No. 2,Tallie Collins,James Russel,James Russel,4-6,4,6,0,1,Completed,true,false,false
+UA008133,11 Nov 12,13,Tennis World,Dendy Park,No. 3,Julia Skiold,Taylan Olmez,Julia Skiold,7-5,7,5,1,0,Completed,true,false,false
+UA008133,11 Nov 12,13,Tennis World,Dendy Park,No. 4,Chris Chalkiadis,Josh Zawa,Josh Zawa,3-6,3,6,0,1,Completed,true,false,false
+UA008134,11 Nov 12,13,Mordialloc,Parkdale,No. 1,Tash Lamberton,Sam Barren,Sam Barren,3-6,3,6,0,1,Completed,true,false,false
+UA008134,11 Nov 12,13,Mordialloc,Parkdale,No. 2,Amy Prentice,Harry Cramer,Harry Cramer,3-6,3,6,0,1,Completed,true,false,false
+UA008134,11 Nov 12,13,Mordialloc,Parkdale,No. 3,Sahishnu Siva-Ram,Alexander Verrils,Sahishnu Siva-Ram,6-1,6,1,1,0,Completed,true,false,false
+UA008134,11 Nov 12,13,Mordialloc,Parkdale,No. 4,Aaron Huynh,Reid Terrell,Aaron Huynh,6-0,6,0,1,0,Completed,true,false,false
+UA008141,18 Nov 12,14,GPHC,BLTC,No. 1,James Roach,Tom Fisher,James Roach,7-5,7,5,1,0,Completed,true,false,false
+UA008141,18 Nov 12,14,GPHC,BLTC,No. 2,Hannah Double,Harry McFarlane,Hannah Double,6-4,6,4,1,0,Completed,true,false,false
+UA008141,18 Nov 12,14,GPHC,BLTC,No. 3,Georgia Deacon,Edward Fisher,Georgia Deacon,6-1,6,1,1,0,Completed,true,false,false
+UA008141,18 Nov 12,14,GPHC,BLTC,No. 4,Lily Goss,Braiden Prack,Lily Goss,7-5,7,5,1,0,Completed,true,false,false
+UA008142,18 Nov 12,14,St Andrews MB,Kooyong St Kevin's,No. 1,Nick Roberts,Sam Balmforth,Nick Roberts,6-0,6,0,1,0,Completed,true,false,false
+UA008142,18 Nov 12,14,St Andrews MB,Kooyong St Kevin's,No. 2,Lottie Spencer,Francesca Jones,Francesca Jones,4-6,4,6,0,1,Completed,true,false,false
+UA008142,18 Nov 12,14,St Andrews MB,Kooyong St Kevin's,No. 3,Saskia Komljenovic,Max Charles,Saskia Komljenovic,6-0,6,0,1,0,Completed,true,false,false
+UA008142,18 Nov 12,14,St Andrews MB,Kooyong St Kevin's,No. 4,Zara Henderson,Annabel Jones,Annabel Jones,0-6,0,6,0,1,Completed,true,false,false
+UA008143,18 Nov 12,14,Tennis World,Mordialloc,No. 1,Tallie Collins,Ryley Harrison,Tallie Collins,6-0,6,0,1,0,Completed,true,false,false
+UA008143,18 Nov 12,14,Tennis World,Mordialloc,No. 2,Julia Skiold,Amy Prentice,Julia Skiold,6-0,6,0,1,0,Completed,true,false,false
+UA008143,18 Nov 12,14,Tennis World,Mordialloc,No. 3,Joshua De Koster,Sahishnu Siva-Ram,Sahishnu Siva-Ram,1-6,1,6,0,1,Completed,true,false,false
+UA008143,18 Nov 12,14,Tennis World,Mordialloc,No. 4,August Skiold,Aaron Huynh,Aaron Huynh,0-6,0,6,0,1,Completed,true,false,false
+UA008144,18 Nov 12,14,Parkdale,Dendy Park,No. 1,Tyler Bradley,Christopher Iramiyan,Christopher Iramiyan,0-6,0,6,0,1,Completed,true,false,false
+UA008144,18 Nov 12,14,Parkdale,Dendy Park,No. 2,Alexander Verrils,Josh Zawa,Alexander Verrils,6-2,6,2,1,0,Completed,true,false,false
+UA008144,18 Nov 12,14,Parkdale,Dendy Park,No. 3,Reid Terrell,Lachlan Speirs,Reid Terrell,6-4,6,4,1,0,Completed,true,false,false
+UA008144,18 Nov 12,14,Parkdale,Dendy Park,No. 4,Daniel Fitchet,Henri Piner,Henri Piner,1-6,1,6,0,1,Completed,true,false,false
+UA008301,,16,Tennis World,GPHC,No. 1,Michaella Majdan,James Roach,Michaella Majdan,6-4,6,4,1,0,Completed,true,false,false
+UA008301,,16,Tennis World,GPHC,No. 2,Toby Peterson,Hannah Double,Toby Peterson,6-0,6,0,1,0,Completed,true,false,false
+UA008301,,16,Tennis World,GPHC,No. 3,Tallie Collins,Georgia Deacon,Tallie Collins,6-4,6,4,1,0,Completed,true,false,false
+UA008301,,16,Tennis World,GPHC,No. 4,Chris Chalkiadis,Max Double,Max Double,2-6,2,6,0,1,Completed,true,false,false
+UA008302,,16,Dendy Park,St Andrews MB,No. 1,Christopher Iramiyan,Nick Roberts,Christopher Iramiyan,6-0,6,0,1,0,Completed,true,false,false
+UA008302,,16,Dendy Park,St Andrews MB,No. 2,James Russel,Emily Campbell,James Russel,6-1,6,1,1,0,Completed,true,false,false
+UA008302,,16,Dendy Park,St Andrews MB,No. 3,Taylan Olmez,Lottie Spencer,Taylan Olmez,6-0,6,0,1,0,Completed,true,false,false
+UA008302,,16,Dendy Park,St Andrews MB,No. 4,Henri Piner,Zara Henderson,Zara Henderson,5-7,5,7,0,1,Completed,true,false,false
+UA008321,,17,Tennis World,Dendy Park,No. 1,Michaella Majdan,Christopher Iramiyan,Christopher Iramiyan,1-6,1,6,0,1,Completed,true,false,false
+UA008321,,17,Tennis World,Dendy Park,No. 2,Toby Peterson,James Russel,James Russel,4-6,4,6,0,1,Completed,true,false,false
+UA008321,,17,Tennis World,Dendy Park,No. 3,Tallie Collins,Taylan Olmez,Tallie Collins,6-2,6,2,1,0,Completed,true,false,false
+UA008321,,17,Tennis World,Dendy Park,No. 4,Julia Skiold,Josh Zawa,Julia Skiold,6-1,6,1,1,0,Completed,true,false,false

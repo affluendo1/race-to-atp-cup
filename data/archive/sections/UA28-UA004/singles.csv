@@ -1,0 +1,175 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA004011,31 Jan 21,1,Beaumaris CC,Dendy Park,No. 1,Cammie Shannon,Jack Raudys,Cammie Shannon,6-3,6,3,1,0,Completed,true,false,false
+UA004011,31 Jan 21,1,Beaumaris CC,Dendy Park,No. 2,Jamie Turner,Jack Loiacono,Jack Loiacono,0-6,0,6,0,1,Completed,true,false,false
+UA004011,31 Jan 21,1,Beaumaris CC,Dendy Park,No. 3,Kylah Schuwalon,Ben Wallis,Ben Wallis,6-7,6,7,0,1,Completed,true,false,false
+UA004011,31 Jan 21,1,Beaumaris CC,Dendy Park,No. 4,Kayla Johnstone,Patrick Wilson,Patrick Wilson,1-6,1,6,0,1,Completed,true,false,true
+UA004012,31 Jan 21,1,BLTC,GPHC,No. 1,Jake Daniels,Jack Saville,Jake Daniels,6-1,6,1,1,0,Completed,true,false,true
+UA004012,31 Jan 21,1,BLTC,GPHC,No. 2,Jeremy Nguyen,Jack Jarman,Jeremy Nguyen,6-3,6,3,1,0,Completed,true,false,false
+UA004012,31 Jan 21,1,BLTC,GPHC,No. 3,Jack Falconer,Yannick Dobson,Yannick Dobson,5-7,5,7,0,1,Completed,true,false,false
+UA004012,31 Jan 21,1,BLTC,GPHC,No. 4,Hudson Close,Hugo Dobrotwir,Hudson Close,7-6,7,6,1,0,Completed,true,false,false
+UA004013,31 Jan 21,1,St Pats Mentone,Hurlingham Park,No. 1,Felix Hampson,Jack Mooney,Jack Mooney,5-7,5,7,0,1,Completed,true,false,false
+UA004013,31 Jan 21,1,St Pats Mentone,Hurlingham Park,No. 2,Molly Harrison,Oscar Streeter,Oscar Streeter,0-6,0,6,0,1,Completed,true,false,false
+UA004013,31 Jan 21,1,St Pats Mentone,Hurlingham Park,No. 3,Hayley Kilmartin,Juan Hu,Juan Hu,0-6,0,6,0,1,Completed,true,false,true
+UA004013,31 Jan 21,1,St Pats Mentone,Hurlingham Park,No. 4,Mitch Stokmanis,Zac Zaidenberg,Mitch Stokmanis,6-2,6,2,1,0,Completed,true,false,false
+UA004014,31 Jan 21,1,Highett,Coatesville,No. 1,Ethan Badcock,Max Lawson,Ethan Badcock,6-1,6,1,1,0,Completed,true,false,false
+UA004014,31 Jan 21,1,Highett,Coatesville,No. 2,Jake Reidy,Marcus Wong,Marcus Wong,4-6,4,6,0,1,Completed,true,false,false
+UA004014,31 Jan 21,1,Highett,Coatesville,No. 3,Angus Sanders,Hugo Pickering,Angus Sanders,7-6,7,6,1,0,Completed,true,false,false
+UA004014,31 Jan 21,1,Highett,Coatesville,No. 4,Ted Frost,Alexander Kotsirilos,Alexander Kotsirilos,4-6,4,6,0,1,Completed,true,false,false
+UA004021,07 Feb 21,2,Coatesville,Beaumaris CC,No. 1,Marcus Wong,Jamie Turner,Jamie Turner,2-6,2,6,0,1,Completed,true,false,false
+UA004021,07 Feb 21,2,Coatesville,Beaumaris CC,No. 2,Hugo Pickering,Cammie Shannon,Cammie Shannon,1-6,1,6,0,1,Completed,true,false,false
+UA004021,07 Feb 21,2,Coatesville,Beaumaris CC,No. 3,Alexander Kotsirilos,Kylah Schuwalon,Alexander Kotsirilos,6-3,6,3,1,0,Completed,true,false,false
+UA004021,07 Feb 21,2,Coatesville,Beaumaris CC,No. 4,Joe Li,Kayla Johnstone,Joe Li,6-2,6,2,1,0,Completed,true,false,false
+UA004022,07 Feb 21,2,Dendy Park,BLTC,No. 1,Jackson Chen,Stuart Pagel,Jackson Chen,6-3,6,3,1,0,Completed,true,false,false
+UA004022,07 Feb 21,2,Dendy Park,BLTC,No. 2,Jack Raudys,Jeremy Nguyen,Jeremy Nguyen,3-6,3,6,0,1,Completed,true,false,false
+UA004022,07 Feb 21,2,Dendy Park,BLTC,No. 3,Jack Loiacono,Jack Falconer,Jack Falconer,3-6,3,6,0,1,Completed,true,false,false
+UA004022,07 Feb 21,2,Dendy Park,BLTC,No. 4,Ben Wallis,Hudson Close,Ben Wallis,6-4,6,4,1,0,Completed,true,false,false
+UA004024,07 Feb 21,2,Hurlingham Park,Highett,No. 1,Jack Mooney,Ethan Badcock,Ethan Badcock,3-6,3,6,0,1,Completed,true,false,false
+UA004024,07 Feb 21,2,Hurlingham Park,Highett,No. 2,Oscar Streeter,Angus Sanders,Angus Sanders,3-6,3,6,0,1,Completed,true,false,false
+UA004024,07 Feb 21,2,Hurlingham Park,Highett,No. 3,Ben Newton,Ted Frost,Ben Newton,6-1,6,1,1,0,Completed,true,false,false
+UA004024,07 Feb 21,2,Hurlingham Park,Highett,No. 4,Albert MacGowan,Chloe Miller,Albert MacGowan,6-1,6,1,1,0,Completed,true,false,false
+UA004041,21 Feb 21,4,GPHC,Beaumaris CC,No. 1,Yannick Dobson,Jamie Turner,Jamie Turner,3-6,3,6,0,1,Completed,true,false,false
+UA004041,21 Feb 21,4,GPHC,Beaumaris CC,No. 2,Hugo Dobrotwir,Cammie Shannon,Cammie Shannon,4-6,4,6,0,1,Completed,true,false,false
+UA004041,21 Feb 21,4,GPHC,Beaumaris CC,No. 3,Gem Daniher,Kylah Schuwalon,Kylah Schuwalon,4-6,4,6,0,1,Completed,true,false,false
+UA004041,21 Feb 21,4,GPHC,Beaumaris CC,No. 4,Oliver Bond,Kayla Johnstone,Oliver Bond,6-0,6,0,1,0,Completed,true,false,false
+UA004042,21 Feb 21,4,Hurlingham Park,BLTC,No. 1,Jack Mooney,Jake Daniels,Jake Daniels,2-6,2,6,0,1,Completed,true,false,false
+UA004042,21 Feb 21,4,Hurlingham Park,BLTC,No. 2,Oscar Streeter,Stuart Pagel,Oscar Streeter,6-2,6,2,1,0,Completed,true,false,false
+UA004042,21 Feb 21,4,Hurlingham Park,BLTC,No. 3,Ben Newton,Jeremy Nguyen,Jeremy Nguyen,2-6,2,6,0,1,Completed,true,false,false
+UA004042,21 Feb 21,4,Hurlingham Park,BLTC,No. 4,Zac Zaidenberg,Jack Falconer,Jack Falconer,2-6,2,6,0,1,Completed,true,false,false
+UA004043,21 Feb 21,4,Coatesville,St Pats Mentone,No. 1,Max Lawson,Felix Hampson,Felix Hampson,0-6,0,6,0,1,Completed,true,false,false
+UA004043,21 Feb 21,4,Coatesville,St Pats Mentone,No. 2,Marcus Wong,Molly Harrison,Marcus Wong,6-3,6,3,1,0,Completed,true,false,false
+UA004043,21 Feb 21,4,Coatesville,St Pats Mentone,No. 3,Alexander Kotsirilos,Hayley Kilmartin,Alexander Kotsirilos,6-3,6,3,1,0,Completed,true,false,false
+UA004043,21 Feb 21,4,Coatesville,St Pats Mentone,No. 4,Joe Li,Mitch Stokmanis,Joe Li,6-1,6,1,1,0,Completed,true,false,false
+UA004044,21 Feb 21,4,Dendy Park,Highett,No. 1,Jackson Chen,Ethan Badcock,Ethan Badcock,1-6,1,6,0,1,Completed,true,false,false
+UA004044,21 Feb 21,4,Dendy Park,Highett,No. 2,Jack Raudys,Jake Reidy,Jake Reidy,0-6,0,6,0,1,Completed,true,false,false
+UA004044,21 Feb 21,4,Dendy Park,Highett,No. 3,Jack Loiacono,Ted Frost,Jack Loiacono,6-1,6,1,1,0,Completed,true,false,false
+UA004044,21 Feb 21,4,Dendy Park,Highett,No. 4,Ben Wallis,Chloe Miller,Chloe Miller,6-7,6,7,0,1,Completed,true,false,false
+UA004051,28 Feb 21,5,St Pats Mentone,Highett,No. 1,Felix Hampson,Ethan Badcock,Ethan Badcock,1-6,1,6,0,1,Completed,true,false,false
+UA004051,28 Feb 21,5,St Pats Mentone,Highett,No. 2,Hayley Kilmartin,Jake Reidy,Jake Reidy,5-7,5,7,0,1,Completed,true,false,false
+UA004051,28 Feb 21,5,St Pats Mentone,Highett,No. 3,Mitch Stokmanis,Angus Sanders,Mitch Stokmanis,6-0,6,0,1,0,Completed,true,false,false
+UA004051,28 Feb 21,5,St Pats Mentone,Highett,No. 4,Joseph McMahon,Ted Frost,Ted Frost,4-6,4,6,0,1,Completed,true,false,false
+UA004052,28 Feb 21,5,Coatesville,Hurlingham Park,No. 1,Max Lawson,Jack Mooney,Jack Mooney,1-6,1,6,0,1,Completed,true,false,false
+UA004052,28 Feb 21,5,Coatesville,Hurlingham Park,No. 2,Marcus Wong,Oscar Streeter,Oscar Streeter,5-7,5,7,0,1,Completed,true,false,false
+UA004052,28 Feb 21,5,Coatesville,Hurlingham Park,No. 3,Hugo Pickering,Ben Newton,Ben Newton,3-6,3,6,0,1,Completed,true,false,false
+UA004052,28 Feb 21,5,Coatesville,Hurlingham Park,No. 4,Joe Li,Zac Zaidenberg,Joe Li,6-0,6,0,1,0,Completed,true,false,false
+UA004053,28 Feb 21,5,GPHC,Dendy Park,No. 1,Alex Crouch,Jackson Chen,Jackson Chen,3-6,3,6,0,1,Completed,true,false,false
+UA004053,28 Feb 21,5,GPHC,Dendy Park,No. 2,Jack Jarman,Noah Hansen,Jack Jarman,6-3,6,3,1,0,Completed,true,false,false
+UA004053,28 Feb 21,5,GPHC,Dendy Park,No. 3,Yannick Dobson,Jack Raudys,Yannick Dobson,6-0,6,0,1,0,Completed,true,false,false
+UA004053,28 Feb 21,5,GPHC,Dendy Park,No. 4,Oliver Bond,Jack Loiacono,Oliver Bond,6-2,6,2,1,0,Completed,true,false,false
+UA004054,28 Feb 21,5,Beaumaris CC,BLTC,No. 1,Jamie Turner,Jake Daniels,Jamie Turner,6-3,6,3,1,0,Completed,true,false,false
+UA004054,28 Feb 21,5,Beaumaris CC,BLTC,No. 2,Xavier Carter,Stuart Pagel,Stuart Pagel,4-6,4,6,0,1,Completed,true,false,false
+UA004054,28 Feb 21,5,Beaumaris CC,BLTC,No. 3,Cammie Shannon,Jeremy Nguyen,Jeremy Nguyen,6-7,6,7,0,1,Completed,true,false,false
+UA004054,28 Feb 21,5,Beaumaris CC,BLTC,No. 4,Kayla Johnstone,Hudson Close,Hudson Close,1-6,1,6,0,1,Completed,true,false,false
+UA004061,14 Mar 21,6,BLTC,St Pats Mentone,No. 1,Jake Daniels,Lucy Mackey,Jake Daniels,6-3,6,3,1,0,Completed,true,false,false
+UA004061,14 Mar 21,6,BLTC,St Pats Mentone,No. 2,Stuart Pagel,Molly Harrison,Stuart Pagel,7-6,7,6,1,0,Completed,true,false,false
+UA004061,14 Mar 21,6,BLTC,St Pats Mentone,No. 3,Jack Falconer,Mitch Stokmanis,Jack Falconer,6-4,6,4,1,0,Completed,true,false,false
+UA004061,14 Mar 21,6,BLTC,St Pats Mentone,No. 4,Hudson Close,Joseph McMahon,Hudson Close,6-3,6,3,1,0,Completed,true,false,false
+UA004062,14 Mar 21,6,Highett,Beaumaris CC,No. 1,Ethan Badcock,Jamie Turner,Ethan Badcock,7-5,7,5,1,0,Completed,true,false,false
+UA004062,14 Mar 21,6,Highett,Beaumaris CC,No. 2,Jake Reidy,Cammie Shannon,Jake Reidy,6-1,6,1,1,0,Completed,true,false,false
+UA004062,14 Mar 21,6,Highett,Beaumaris CC,No. 3,Angus Sanders,Kylah Schuwalon,Kylah Schuwalon,3-6,3,6,0,1,Completed,true,false,false
+UA004062,14 Mar 21,6,Highett,Beaumaris CC,No. 4,Chloe Miller,Kayla Johnstone,Chloe Miller,6-2,6,2,1,0,Completed,true,false,false
+UA004063,14 Mar 21,6,Hurlingham Park,GPHC,No. 1,Jack Mooney,Alex Crouch,Jack Mooney,6-2,6,2,1,0,Completed,true,false,false
+UA004063,14 Mar 21,6,Hurlingham Park,GPHC,No. 2,Oscar Streeter,Hugo Dobrotwir,Oscar Streeter,6-1,6,1,1,0,Completed,true,false,false
+UA004063,14 Mar 21,6,Hurlingham Park,GPHC,No. 3,Ben Newton,Gem Daniher,Ben Newton,6-1,6,1,1,0,Completed,true,false,false
+UA004063,14 Mar 21,6,Hurlingham Park,GPHC,No. 4,Albert MacGowan,Hannah Croft,Albert MacGowan,7-5,7,5,1,0,Completed,true,false,true
+UA004071,21 Mar 21,7,Beaumaris CC,St Pats Mentone,No. 1,Jamie Turner,Lucy Mackey,Jamie Turner,6-2,6,2,1,0,Completed,true,false,false
+UA004071,21 Mar 21,7,Beaumaris CC,St Pats Mentone,No. 2,Xavier Carter,Molly Harrison,Xavier Carter,6-1,6,1,1,0,Completed,true,false,false
+UA004071,21 Mar 21,7,Beaumaris CC,St Pats Mentone,No. 3,Cammie Shannon,Joseph McMahon,Cammie Shannon,7-6,7,6,1,0,Completed,true,false,false
+UA004071,21 Mar 21,7,Beaumaris CC,St Pats Mentone,No. 4,Kylah Schuwalon,Sienna Forbes,Kylah Schuwalon,6-3,6,3,1,0,Completed,true,false,true
+UA004072,21 Mar 21,7,BLTC,Highett,No. 1,Jake Daniels,Ethan Badcock,Ethan Badcock,2-6,2,6,0,1,Completed,true,false,false
+UA004072,21 Mar 21,7,BLTC,Highett,No. 2,Stuart Pagel,Jake Reidy,Stuart Pagel,6-3,6,3,1,0,Completed,true,false,false
+UA004072,21 Mar 21,7,BLTC,Highett,No. 3,Jeremy Nguyen,Ted Frost,Jeremy Nguyen,6-3,6,3,1,0,Completed,true,false,false
+UA004072,21 Mar 21,7,BLTC,Highett,No. 4,Jack Falconer,Chloe Miller,Jack Falconer,7-5,7,5,1,0,Completed,true,false,false
+UA004073,21 Mar 21,7,Coatesville,GPHC,No. 1,Marcus Wong,Alex Crouch,Alex Crouch,1-6,1,6,0,1,Completed,true,false,false
+UA004073,21 Mar 21,7,Coatesville,GPHC,No. 2,Joe Li,Hannah Croft,Joe Li,6-3,6,3,1,0,Completed,true,false,true
+UA004073,21 Mar 21,7,Coatesville,GPHC,No. 3,Alexander Kotsirilos,Oliver Bond,Oliver Bond,0-6,0,6,0,1,Completed,true,false,false
+UA004073,21 Mar 21,7,Coatesville,GPHC,No. 4,Hugo Pickering,Gem Daniher,Hugo Pickering,6-1,6,1,1,0,Completed,true,false,false
+UA004074,21 Mar 21,7,Hurlingham Park,Dendy Park,No. 1,Oscar Streeter,Jackson Chen,Jackson Chen,5-7,5,7,0,1,Completed,true,false,false
+UA004074,21 Mar 21,7,Hurlingham Park,Dendy Park,No. 2,Ben Newton,Noah Hansen,Ben Newton,6-1,6,1,1,0,Completed,true,false,false
+UA004074,21 Mar 21,7,Hurlingham Park,Dendy Park,No. 3,Albert MacGowan,Jack Loiacono,Albert MacGowan,7-5,7,5,1,0,Completed,true,false,false
+UA004074,21 Mar 21,7,Hurlingham Park,Dendy Park,No. 4,Zac Zaidenberg,Ben Wallis,Zac Zaidenberg,6-3,6,3,1,0,Completed,true,false,false
+UA004081,28 Mar 21,8,Dendy Park,Beaumaris CC,No. 1,Noah Hansen,Jamie Turner,Jamie Turner,2-6,2,6,0,1,Completed,true,false,false
+UA004081,28 Mar 21,8,Dendy Park,Beaumaris CC,No. 2,Jack Loiacono,Cammie Shannon,Jack Loiacono,6-1,6,1,1,0,Completed,true,false,false
+UA004081,28 Mar 21,8,Dendy Park,Beaumaris CC,No. 3,Ben Wallis,Kylah Schuwalon,Kylah Schuwalon,1-6,1,6,0,1,Completed,true,false,false
+UA004081,28 Mar 21,8,Dendy Park,Beaumaris CC,No. 4,Patrick Wilson,Kayla Johnstone,Patrick Wilson,6-1,6,1,1,0,Completed,true,true,false
+UA004082,28 Mar 21,8,GPHC,BLTC,No. 1,Alex Crouch,Stuart Pagel,Stuart Pagel,1-6,1,6,0,1,Completed,true,false,false
+UA004082,28 Mar 21,8,GPHC,BLTC,No. 2,Yannick Dobson,Jeremy Nguyen,Jeremy Nguyen,2-6,2,6,0,1,Completed,true,false,false
+UA004082,28 Mar 21,8,GPHC,BLTC,No. 3,Oliver Bond,Jack Falconer,Oliver Bond,6-0,6,0,1,0,Completed,true,false,false
+UA004082,28 Mar 21,8,GPHC,BLTC,No. 4,Gem Daniher,Hudson Close,Hudson Close,1-6,1,6,0,1,Completed,true,false,false
+UA004083,28 Mar 21,8,Hurlingham Park,St Pats Mentone,No. 1,Jack Mooney,Lucy Mackey,Jack Mooney,6-0,6,0,1,0,Completed,true,false,false
+UA004083,28 Mar 21,8,Hurlingham Park,St Pats Mentone,No. 2,Ben Newton,Molly Harrison,Ben Newton,6-2,6,2,1,0,Completed,true,false,false
+UA004083,28 Mar 21,8,Hurlingham Park,St Pats Mentone,No. 3,Albert MacGowan,Mitch Stokmanis,Mitch Stokmanis,3-6,3,6,0,1,Completed,true,false,false
+UA004083,28 Mar 21,8,Hurlingham Park,St Pats Mentone,No. 4,Zac Zaidenberg,Joseph McMahon,Zac Zaidenberg,6-3,6,3,1,0,Completed,true,false,false
+UA004084,28 Mar 21,8,Coatesville,Highett,No. 1,Marcus Wong,Ethan Badcock,Ethan Badcock,1-6,1,6,0,1,Completed,true,false,false
+UA004084,28 Mar 21,8,Coatesville,Highett,No. 2,Joe Li,Angus Sanders,Joe Li,6-1,6,1,1,0,Completed,true,false,false
+UA004084,28 Mar 21,8,Coatesville,Highett,No. 3,Alexander Kotsirilos,Ted Frost,Alexander Kotsirilos,6-4,6,4,1,0,Completed,true,false,false
+UA004084,28 Mar 21,8,Coatesville,Highett,No. 4,Hugo Pickering,Chloe Miller,Chloe Miller,3-6,3,6,0,1,Completed,true,false,false
+UA004091,02 May 21,9,Beaumaris CC,Coatesville,No. 1,Jamie Turner,Marcus Wong,Jamie Turner,7-5,7,5,1,0,Completed,true,false,false
+UA004091,02 May 21,9,Beaumaris CC,Coatesville,No. 2,Xavier Carter,Joe Li,Joe Li,3-6,3,6,0,1,Completed,true,false,false
+UA004091,02 May 21,9,Beaumaris CC,Coatesville,No. 3,Cammie Shannon,Alexander Kotsirilos,Cammie Shannon,7-6,7,6,1,0,Completed,true,false,false
+UA004091,02 May 21,9,Beaumaris CC,Coatesville,No. 4,Kylah Schuwalon,Max Lawson,Kylah Schuwalon,6-3,6,3,1,0,Completed,true,false,false
+UA004092,02 May 21,9,BLTC,Dendy Park,No. 1,Jake Daniels,Jackson Chen,Jake Daniels,6-2,6,2,1,0,Completed,true,false,false
+UA004092,02 May 21,9,BLTC,Dendy Park,No. 2,Stuart Pagel,Noah Hansen,Stuart Pagel,6-2,6,2,1,0,Completed,true,false,false
+UA004092,02 May 21,9,BLTC,Dendy Park,No. 3,Jeremy Nguyen,Jack Loiacono,Jack Loiacono,2-6,2,6,0,1,Completed,true,false,false
+UA004092,02 May 21,9,BLTC,Dendy Park,No. 4,Jack Falconer,Ben Wallis,Jack Falconer,6-3,6,3,1,0,Completed,true,false,false
+UA004093,02 May 21,9,St Pats Mentone,GPHC,No. 1,Felix Hampson,Alex Crouch,Alex Crouch,4-6,4,6,0,1,Completed,true,false,false
+UA004093,02 May 21,9,St Pats Mentone,GPHC,No. 2,Lucy Mackey,Jack Jarman,Jack Jarman,4-6,4,6,0,1,Completed,true,false,false
+UA004093,02 May 21,9,St Pats Mentone,GPHC,No. 3,Hayley Kilmartin,Yannick Dobson,Yannick Dobson,0-6,0,6,0,1,Completed,true,false,false
+UA004093,02 May 21,9,St Pats Mentone,GPHC,No. 4,Joseph McMahon,Gem Daniher,Joseph McMahon,6-4,6,4,1,0,Completed,true,false,false
+UA004094,02 May 21,9,Highett,Hurlingham Park,No. 1,Ethan Badcock,Jack Mooney,Ethan Badcock,6-4,6,4,1,0,Completed,true,false,false
+UA004094,02 May 21,9,Highett,Hurlingham Park,No. 2,Jake Reidy,Oscar Streeter,Jake Reidy,6-4,6,4,1,0,Completed,true,false,false
+UA004094,02 May 21,9,Highett,Hurlingham Park,No. 3,Angus Sanders,Albert MacGowan,Angus Sanders,7-5,7,5,1,0,Completed,true,false,false
+UA004094,02 May 21,9,Highett,Hurlingham Park,No. 4,Ted Frost,Zac Zaidenberg,Zac Zaidenberg,2-6,2,6,0,1,Completed,true,false,false
+UA004101,09 May 21,10,Hurlingham Park,Beaumaris CC,No. 1,Oscar Streeter,Jamie Turner,Oscar Streeter,6-4,6,4,1,0,Completed,true,false,false
+UA004101,09 May 21,10,Hurlingham Park,Beaumaris CC,No. 2,Ben Newton,Xavier Carter,Xavier Carter,0-6,0,6,0,1,Completed,true,false,false
+UA004101,09 May 21,10,Hurlingham Park,Beaumaris CC,No. 3,Zac Zaidenberg,Cammie Shannon,Zac Zaidenberg,6-4,6,4,1,0,Completed,true,false,false
+UA004101,09 May 21,10,Hurlingham Park,Beaumaris CC,No. 4,Tianai Luo,Kylah Schuwalon,Tianai Luo,6-0,6,0,1,0,Completed,true,true,false
+UA004102,09 May 21,10,Coatesville,BLTC,No. 1,Marcus Wong,Jake Daniels,Jake Daniels,4-6,4,6,0,1,Completed,true,false,false
+UA004102,09 May 21,10,Coatesville,BLTC,No. 2,Joe Li,Stuart Pagel,Joe Li,6-2,6,2,1,0,Completed,true,false,false
+UA004102,09 May 21,10,Coatesville,BLTC,No. 3,Max Lawson,Jeremy Nguyen,Jeremy Nguyen,3-6,3,6,0,1,Completed,true,false,false
+UA004102,09 May 21,10,Coatesville,BLTC,No. 4,Hugo Pickering,Hudson Close,Hudson Close,6-7,6,7,0,1,Completed,true,false,false
+UA004103,09 May 21,10,Dendy Park,St Pats Mentone,No. 1,Noah Hansen,Lucy Mackey,Noah Hansen,6-2,6,2,1,0,Completed,true,false,false
+UA004103,09 May 21,10,Dendy Park,St Pats Mentone,No. 2,Jack Loiacono,Molly Harrison,Jack Loiacono,6-2,6,2,1,0,Completed,true,false,false
+UA004103,09 May 21,10,Dendy Park,St Pats Mentone,No. 3,Ben Wallis,Hayley Kilmartin,Ben Wallis,6-0,6,0,1,0,Completed,true,false,false
+UA004103,09 May 21,10,Dendy Park,St Pats Mentone,No. 4,Len Yatsuzuka,Mitch Stokmanis,Len Yatsuzuka,6-4,6,4,1,0,Completed,true,true,false
+UA004104,09 May 21,10,GPHC,Highett,No. 1,Jack Jarman,Ethan Badcock,Ethan Badcock,5-7,5,7,0,1,Completed,true,false,false
+UA004104,09 May 21,10,GPHC,Highett,No. 2,Oliver Bond,Jake Reidy,Oliver Bond,6-1,6,1,1,0,Completed,true,false,false
+UA004104,09 May 21,10,GPHC,Highett,No. 3,Gem Daniher,Angus Sanders,Angus Sanders,3-6,3,6,0,1,Completed,true,false,false
+UA004104,09 May 21,10,GPHC,Highett,No. 4,Jack McCormack,Chloe Miller,Jack McCormack,6-0,6,0,1,0,Completed,true,true,false
+UA004111,16 May 21,11,Beaumaris CC,GPHC,No. 1,Jamie Turner,Jack Jarman,Jack Jarman,3-6,3,6,0,1,Completed,true,false,false
+UA004111,16 May 21,11,Beaumaris CC,GPHC,No. 2,Xavier Carter,Hugo Dobrotwir,Xavier Carter,6-4,6,4,1,0,Completed,true,false,false
+UA004111,16 May 21,11,Beaumaris CC,GPHC,No. 3,Cammie Shannon,Gem Daniher,Gem Daniher,6-7,6,7,0,1,Completed,true,false,false
+UA004111,16 May 21,11,Beaumaris CC,GPHC,No. 4,Kylah Schuwalon,Jack McCormack,Jack McCormack,1-6,1,6,0,1,Completed,true,false,true
+UA004112,16 May 21,11,BLTC,Hurlingham Park,No. 1,Stuart Pagel,Oscar Streeter,Stuart Pagel,6-3,6,3,1,0,Completed,true,false,false
+UA004112,16 May 21,11,BLTC,Hurlingham Park,No. 2,Jack Falconer,Zac Zaidenberg,Jack Falconer,6-2,6,2,1,0,Completed,true,false,false
+UA004112,16 May 21,11,BLTC,Hurlingham Park,No. 3,Hudson Close,Kynan Enwright,Kynan Enwright,2-6,2,6,0,1,Completed,true,false,true
+UA004112,16 May 21,11,BLTC,Hurlingham Park,No. 4,Lucas Hansen,Matty Townsend,Matty Townsend,1-6,1,6,0,1,Completed,true,true,true
+UA004113,16 May 21,11,St Pats Mentone,Coatesville,No. 1,Felix Hampson,Marcus Wong,Felix Hampson,6-4,6,4,1,0,Completed,true,false,false
+UA004113,16 May 21,11,St Pats Mentone,Coatesville,No. 2,Hayley Kilmartin,Alexander Kotsirilos,Hayley Kilmartin,6-2,6,2,1,0,Completed,true,false,false
+UA004113,16 May 21,11,St Pats Mentone,Coatesville,No. 3,Joseph McMahon,Max Lawson,Joseph McMahon,6-4,6,4,1,0,Completed,true,false,false
+UA004113,16 May 21,11,St Pats Mentone,Coatesville,No. 4,Isaac Sands-smith,Hugo Pickering,Isaac Sands-smith,7-6,7,6,1,0,Completed,true,true,false
+UA004114,16 May 21,11,Highett,Dendy Park,No. 1,Ethan Badcock,Jack Loiacono,Ethan Badcock,6-2,6,2,1,0,Completed,true,false,false
+UA004114,16 May 21,11,Highett,Dendy Park,No. 2,Jake Reidy,Ben Wallis,Jake Reidy,6-1,6,1,1,0,Completed,true,false,false
+UA004114,16 May 21,11,Highett,Dendy Park,No. 3,Ted Frost,Patrick Wilson,Patrick Wilson,4-6,4,6,0,1,Completed,true,false,true
+UA004114,16 May 21,11,Highett,Dendy Park,No. 4,Chloe Miller,Fox May,Chloe Miller,6-0,6,0,1,0,Completed,true,false,true
+UA004122,23 May 21,12,Hurlingham Park,Coatesville,No. 1,Oscar Streeter,Marcus Wong,Marcus Wong,5-7,5,7,0,1,Completed,true,false,false
+UA004122,23 May 21,12,Hurlingham Park,Coatesville,No. 2,Zac Zaidenberg,Joe Li,Joe Li,4-6,4,6,0,1,Completed,true,false,false
+UA004122,23 May 21,12,Hurlingham Park,Coatesville,No. 3,Tianai Luo,Alexander Kotsirilos,Tianai Luo,6-1,6,1,1,0,Completed,true,true,false
+UA004122,23 May 21,12,Hurlingham Park,Coatesville,No. 4,Kynan Enwright,Max Lawson,Kynan Enwright,7-5,7,5,1,0,Completed,true,true,false
+UA004123,23 May 21,12,Dendy Park,GPHC,No. 1,Noah Hansen,Alex Crouch,Noah Hansen,6-1,6,1,1,0,Completed,true,false,false
+UA004123,23 May 21,12,Dendy Park,GPHC,No. 2,Jack Loiacono,Jack Jarman,Jack Jarman,4-6,4,6,0,1,Completed,true,false,false
+UA004123,23 May 21,12,Dendy Park,GPHC,No. 3,Len Yatsuzuka,Hugo Dobrotwir,Len Yatsuzuka,6-3,6,3,1,0,Completed,true,true,false
+UA004123,23 May 21,12,Dendy Park,GPHC,No. 4,Emir Zmak,Gem Daniher,Gem Daniher,1-6,1,6,0,1,Completed,true,true,false
+UA004124,23 May 21,12,BLTC,Beaumaris CC,No. 1,Jake Daniels,Jamie Turner,Jamie Turner,2-6,2,6,0,1,Completed,true,false,false
+UA004124,23 May 21,12,BLTC,Beaumaris CC,No. 2,Stuart Pagel,Xavier Carter,Xavier Carter,4-6,4,6,0,1,Completed,true,false,false
+UA004124,23 May 21,12,BLTC,Beaumaris CC,No. 3,Jack Falconer,Cammie Shannon,Jack Falconer,6-4,6,4,1,0,Completed,true,false,false
+UA004124,23 May 21,12,BLTC,Beaumaris CC,No. 4,Hudson Close,Kylah Schuwalon,Hudson Close,6-2,6,2,1,0,Completed,true,false,false
+UA004301,,16,BLTC,Beaumaris CC,No. 1,Jake Daniels,Jamie Turner,Jake Daniels,6-4,6,4,1,0,Completed,true,false,false
+UA004301,,16,BLTC,Beaumaris CC,No. 2,Jeremy Nguyen,Cammie Shannon,Jeremy Nguyen,6-0,6,0,1,0,Completed,true,false,false
+UA004301,,16,BLTC,Beaumaris CC,No. 3,Jack Falconer,Kylah Schuwalon,Jack Falconer,6-0,6,0,1,0,Completed,true,false,false
+UA004302,,16,Highett,Hurlingham Park,No. 1,Ethan Badcock,Jack Mooney,Ethan Badcock,4-1,4,1,1,0,Completed,false,false,false
+UA004302,,16,Highett,Hurlingham Park,No. 2,Jake Reidy,Oscar Streeter,Oscar Streeter,4-6,4,6,0,1,Completed,true,false,false
+UA004302,,16,Highett,Hurlingham Park,No. 3,Angus Sanders,Ben Newton,Ben Newton,2-6,2,6,0,1,Completed,true,false,false
+UA004302,,16,Highett,Hurlingham Park,No. 4,Chloe Miller,Zac Zaidenberg,Zac Zaidenberg,4-6,4,6,0,1,Completed,true,false,false
+UA004321,,17,BLTC,Hurlingham Park,No. 1,Jake Daniels,Jack Mooney,Jake Daniels,6-0,6,0,1,0,Completed,true,false,false
+UA004321,,17,BLTC,Hurlingham Park,No. 2,Stuart Pagel,Oscar Streeter,Stuart Pagel,6-2,6,2,1,0,Completed,true,false,false
+UA004321,,17,BLTC,Hurlingham Park,No. 3,Jack Falconer,Zac Zaidenberg,Jack Falconer,6-3,6,3,1,0,Completed,true,false,false

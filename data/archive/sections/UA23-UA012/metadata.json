@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA23-UA012",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2018",
+  "season_id": "UA23",
+  "season_label": "Spring 2018",
+  "source_section_code": "UA012",
+  "section_label": "Section 12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Royal South Yarra",
+      "wins": 11,
+      "points": 108,
+      "percentage": 170.71,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Black Rock 2",
+      "wins": 10,
+      "points": 91,
+      "percentage": 115.43,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kooyong 1 Scotch",
+      "wins": 10,
+      "points": 85,
+      "percentage": 107.93,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 8,
+      "points": 79,
+      "percentage": 115.21,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Black Rock 1",
+      "wins": 4,
+      "points": 58,
+      "percentage": 93.16,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Aspendale",
+      "wins": 4,
+      "points": 57,
+      "percentage": 93.14,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Lauriston",
+      "wins": 3,
+      "points": 56,
+      "percentage": 83.02,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong 2 Scotch",
+      "wins": 0,
+      "points": 26,
+      "percentage": 55.72,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA23-UA012",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 45,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,94 @@
+{
+  "asset_id": "UA6-UA011",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2010",
+  "season_id": "UA6",
+  "season_label": "Autumn 2010",
+  "source_section_code": "UA011",
+  "section_label": "Section 11",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Glen Eira Beech",
+      "wins": 0,
+      "points": 112,
+      "percentage": 170.57,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Kings Park",
+      "wins": 0,
+      "points": 85,
+      "percentage": 128.7,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Aspendale",
+      "wins": 0,
+      "points": 75,
+      "percentage": 106.99,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC MLC",
+      "wins": 0,
+      "points": 73,
+      "percentage": 96.34,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "All Souls",
+      "wins": 0,
+      "points": 72,
+      "percentage": 89.17,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St Joan of Arc",
+      "wins": 0,
+      "points": 63,
+      "percentage": 94.55,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Hampton",
+      "wins": 0,
+      "points": 45,
+      "percentage": 69.65,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 35,
+      "percentage": 69.67,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA6-UA011",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 59,
+  "singles_rubbers": 224,
+  "doubles_rubbers": 112,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "No scorecard rubbers for UA011034",
+    "Fixture game totals do not match rubbers for UA011034"
+  ]
+}

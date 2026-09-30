@@ -1,0 +1,85 @@
+{
+  "asset_id": "AA26-AA005",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Autumn 2012",
+  "season_id": "AA26",
+  "season_label": "Autumn 2012",
+  "source_section_code": "AA005",
+  "section_label": "Junior Saturday 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Caulfield Rec",
+      "wins": 9,
+      "points": 87,
+      "percentage": 138.17,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Carmelite 1",
+      "wins": 8,
+      "points": 83.5,
+      "percentage": 166.04,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kooyong MLC 1",
+      "wins": 7,
+      "points": 80.5,
+      "percentage": 129.92,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong MLC 3",
+      "wins": 4,
+      "points": 56,
+      "percentage": 117.88,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "Kooyong MLC 2",
+      "wins": 3,
+      "points": 54,
+      "percentage": 80.59,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Port Melbourne",
+      "wins": 3,
+      "points": 47,
+      "percentage": 81.36,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Carmelite 2",
+      "wins": 0,
+      "points": 12,
+      "percentage": 34.44,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA26-AA005",
+  "fixtures": 59,
+  "completed_fixtures": 43,
+  "draw_fixtures": 59,
+  "singles_rubbers": 159,
+  "doubles_rubbers": 84,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for AA005054"
+  ]
+}

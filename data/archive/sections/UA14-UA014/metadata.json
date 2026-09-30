@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA14-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2014",
+  "season_id": "UA14",
+  "season_label": "Autumn 2014",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Andrews MB RA",
+      "wins": 9,
+      "points": 84,
+      "percentage": 143.89,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Mordialloc",
+      "wins": 8,
+      "points": 75,
+      "percentage": 116.38,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "BLTC",
+      "wins": 5,
+      "points": 66,
+      "percentage": 110.18,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong St Kevin's",
+      "wins": 6,
+      "points": 63,
+      "percentage": 109.15,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "Royal Ave",
+      "wins": 5,
+      "points": 56,
+      "percentage": 92.44,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Glen Eira Beech",
+      "wins": 3,
+      "points": 43,
+      "percentage": 78.03,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St Kevin's",
+      "wins": 2,
+      "points": 33,
+      "percentage": 66.57,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA14-UA014",
+  "fixtures": 59,
+  "completed_fixtures": 41,
+  "draw_fixtures": 59,
+  "singles_rubbers": 164,
+  "doubles_rubbers": 82,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,75 @@
+{
+  "asset_id": "UA21-UA018",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2017",
+  "season_id": "UA21",
+  "season_label": "Spring 2017",
+  "source_section_code": "UA018",
+  "section_label": "Section 18",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St James 1",
+      "wins": 10,
+      "points": 92,
+      "percentage": 205.42,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Andrews MB BG",
+      "wins": 6,
+      "points": 58,
+      "percentage": 113.1,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "St James 2",
+      "wins": 5,
+      "points": 50,
+      "percentage": 108.5,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Kooyong St Kevin's",
+      "wins": 3,
+      "points": 42,
+      "percentage": 86.77,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 3,
+      "points": 40,
+      "percentage": 81.85,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Black Rock",
+      "wins": 1,
+      "points": 18,
+      "percentage": 54.66,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA21-UA018",
+  "fixtures": 59,
+  "completed_fixtures": 31,
+  "draw_fixtures": 59,
+  "singles_rubbers": 124,
+  "doubles_rubbers": 62,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

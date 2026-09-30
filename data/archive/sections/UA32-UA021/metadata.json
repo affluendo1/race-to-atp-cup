@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA32-UA021",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2023",
+  "season_id": "UA32",
+  "season_label": "Autumn 2023",
+  "source_section_code": "UA021",
+  "section_label": "Section 21",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Royal Ave Green",
+      "wins": 7,
+      "points": 77,
+      "percentage": 120.08,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 6,
+      "points": 74,
+      "percentage": 113.68,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "BLTC White",
+      "wins": 6,
+      "points": 73,
+      "percentage": 116.45,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 5,
+      "points": 68,
+      "percentage": 100.0,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Parkdale",
+      "wins": 5,
+      "points": 65,
+      "percentage": 94.27,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong",
+      "wins": 4,
+      "points": 62,
+      "percentage": 99.6,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Lauriston",
+      "wins": 4,
+      "points": 60,
+      "percentage": 102.83,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave Purple",
+      "wins": 1,
+      "points": 41,
+      "percentage": 64.26,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA32-UA021",
+  "fixtures": 55,
+  "completed_fixtures": 43,
+  "draw_fixtures": 59,
+  "singles_rubbers": 168,
+  "doubles_rubbers": 84,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for UA021022"
+  ]
+}

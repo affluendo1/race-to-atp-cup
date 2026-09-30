@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA25-UA020",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2019",
+  "season_id": "UA25",
+  "season_label": "Spring 2019",
+  "source_section_code": "UA020",
+  "section_label": "Section 20",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Glen Eira",
+      "wins": 12,
+      "points": 113,
+      "percentage": 186.58,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "BLTC",
+      "wins": 10,
+      "points": 108,
+      "percentage": 212.94,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Maccabi",
+      "wins": 8,
+      "points": 85,
+      "percentage": 123.9,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Centenary Park",
+      "wins": 9,
+      "points": 85,
+      "percentage": 116.21,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 6,
+      "points": 63,
+      "percentage": 88.82,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Mentone",
+      "wins": 4,
+      "points": 52,
+      "percentage": 81.13,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Coatesville",
+      "wins": 2,
+      "points": 33,
+      "percentage": 52.06,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Victory Park",
+      "wins": 0,
+      "points": 21,
+      "percentage": 37.37,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA25-UA020",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 45,
+  "singles_rubbers": 216,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA020302"
+  ]
+}

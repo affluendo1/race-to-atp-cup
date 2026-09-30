@@ -1,0 +1,231 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA011011,16 Jul 23,1,Hampton,BLTC Blue,No. 1,Divan Engelbrecht,Zara Measures,Zara Measures,2-6,2,6,0,1,Completed,true,false,false
+UA011011,16 Jul 23,1,Hampton,BLTC Blue,No. 2,Louis Wu,Mali Nayna,Mali Nayna,4-6,4,6,0,1,Completed,true,false,false
+UA011011,16 Jul 23,1,Hampton,BLTC Blue,No. 3,Ethan Wang,Aiden Dong,Ethan Wang,6-4,6,4,1,0,Completed,true,false,false
+UA011011,16 Jul 23,1,Hampton,BLTC Blue,No. 4,Evan Wang,Callum Tzounos,Callum Tzounos,2-6,2,6,0,1,Completed,true,false,false
+UA011012,16 Jul 23,1,GPHC,Le Page,No. 1,Gracie Lu,Jasmine Petkoff,Jasmine Petkoff,3-6,3,6,0,1,Completed,true,false,false
+UA011012,16 Jul 23,1,GPHC,Le Page,No. 2,Jack Boussioutas,Nathan Lew,Nathan Lew,4-6,4,6,0,1,Completed,true,false,false
+UA011012,16 Jul 23,1,GPHC,Le Page,No. 3,Bianca Blecher,Cedric Conway,Cedric Conway,0-6,0,6,0,1,Completed,true,false,false
+UA011012,16 Jul 23,1,GPHC,Le Page,No. 4,Oscar Hilbert,Angus Wang,Oscar Hilbert,7-6,7,6,1,0,Completed,true,false,false
+UA011013,16 Jul 23,1,Coatesville,Kings Park,No. 1,Georgi Demosthenous,Daniel Qin,Georgi Demosthenous,7-5,7,5,1,0,Completed,true,false,false
+UA011013,16 Jul 23,1,Coatesville,Kings Park,No. 2,Ethan Nemenman,Or Ilan,Or Ilan,4-6,4,6,0,1,Completed,true,false,false
+UA011013,16 Jul 23,1,Coatesville,Kings Park,No. 3,Jessica Kam,Zeyi Xu,Jessica Kam,7-6,7,6,1,0,Completed,true,false,false
+UA011013,16 Jul 23,1,Coatesville,Kings Park,No. 4,Martin Curnow,Evelyn Pajovic,Evelyn Pajovic,6-7,6,7,0,1,Completed,true,true,false
+UA011014,16 Jul 23,1,Mentone,St James Green,No. 1,Lila Anderson,Emma Stewart,Emma Stewart,0-6,0,6,0,1,Completed,true,false,false
+UA011014,16 Jul 23,1,Mentone,St James Green,No. 2,Amira Bird,Mali Davies,Mali Davies,2-6,2,6,0,1,Completed,true,false,false
+UA011014,16 Jul 23,1,Mentone,St James Green,No. 3,Michelle Ye,Sophie Stewart,Sophie Stewart,2-6,2,6,0,1,Completed,true,false,false
+UA011014,16 Jul 23,1,Mentone,St James Green,No. 4,Sol Louev,Tilly Chesnau,Sol Louev,6-2,6,2,1,0,Completed,true,false,false
+UA011021,23 Jul 23,2,St James Green,Hampton,No. 1,Emma Stewart,Louis Wu,Emma Stewart,6-0,6,0,1,0,Completed,true,false,false
+UA011021,23 Jul 23,2,St James Green,Hampton,No. 2,Sophie Stewart,Ethan Wang,Sophie Stewart,7-6,7,6,1,0,Completed,true,false,false
+UA011021,23 Jul 23,2,St James Green,Hampton,No. 3,Ben Lajbcygier,Evan Wang,Ben Lajbcygier,6-4,6,4,1,0,Completed,true,false,false
+UA011021,23 Jul 23,2,St James Green,Hampton,No. 4,Julia Luo,Lulu Terry,Julia Luo,6-0,6,0,1,0,Completed,true,false,false
+UA011022,23 Jul 23,2,BLTC Blue,GPHC,No. 1,Zara Measures,Gracie Lu,Zara Measures,6-2,6,2,1,0,Completed,true,false,false
+UA011022,23 Jul 23,2,BLTC Blue,GPHC,No. 2,Mali Nayna,Bianca Blecher,Mali Nayna,6-0,6,0,1,0,Completed,true,false,false
+UA011022,23 Jul 23,2,BLTC Blue,GPHC,No. 3,Callum Tzounos,Oscar Hilbert,Oscar Hilbert,2-6,2,6,0,1,Completed,true,false,false
+UA011022,23 Jul 23,2,BLTC Blue,GPHC,No. 4,Max Henderson,[Unnamed player — TROLS UA011022 away code 4],Max Henderson,6-0,6,0,1,0,Completed,false,true,false
+UA011023,23 Jul 23,2,Le Page,Coatesville,No. 1,Jasmine Petkoff,Jack Tan,Jasmine Petkoff,6-3,6,3,1,0,Completed,true,false,false
+UA011023,23 Jul 23,2,Le Page,Coatesville,No. 2,Nathan Lew,Ethan Nemenman,Nathan Lew,7-6,7,6,1,0,Completed,true,false,false
+UA011023,23 Jul 23,2,Le Page,Coatesville,No. 3,Angus Wang,Hugo Szynkowski,Hugo Szynkowski,1-6,1,6,0,1,Completed,true,false,false
+UA011023,23 Jul 23,2,Le Page,Coatesville,No. 4,Cedric Conway,Jessica Kam,Jessica Kam,3-6,3,6,0,1,Completed,true,false,false
+UA011024,23 Jul 23,2,Kings Park,Mentone,No. 1,Daniel Qin,Lila Anderson,Daniel Qin,6-1,6,1,1,0,Completed,true,false,false
+UA011024,23 Jul 23,2,Kings Park,Mentone,No. 2,Or Ilan,Amira Bird,Or Ilan,3-2,3,2,1,0,Completed,false,false,false
+UA011031,30 Jul 23,3,Hampton,Kings Park,No. 1,Divan Engelbrecht,Daniel Qin,Divan Engelbrecht,6-1,6,1,1,0,Completed,true,false,false
+UA011031,30 Jul 23,3,Hampton,Kings Park,No. 2,Louis Wu,Or Ilan,Or Ilan,3-6,3,6,0,1,Completed,true,false,false
+UA011031,30 Jul 23,3,Hampton,Kings Park,No. 3,Ethan Wang,Zeyi Xu,Zeyi Xu,3-6,3,6,0,1,Completed,true,false,false
+UA011031,30 Jul 23,3,Hampton,Kings Park,No. 4,Evan Wang,Evelyn Pajovic,Evelyn Pajovic,1-6,1,6,0,1,Completed,true,false,false
+UA011032,30 Jul 23,3,GPHC,St James Green,No. 1,Siva Chinnappan,Emma Stewart,Emma Stewart,1-6,1,6,0,1,Completed,true,false,false
+UA011032,30 Jul 23,3,GPHC,St James Green,No. 2,Gracie Lu,Mali Davies,Mali Davies,3-6,3,6,0,1,Completed,true,false,false
+UA011032,30 Jul 23,3,GPHC,St James Green,No. 3,Oscar Hilbert,Sophie Stewart,Sophie Stewart,4-6,4,6,0,1,Completed,true,false,false
+UA011032,30 Jul 23,3,GPHC,St James Green,No. 4,Eli Jeffreys,Julia Luo,Eli Jeffreys,6-0,6,0,1,0,Completed,true,true,false
+UA011033,30 Jul 23,3,Coatesville,BLTC Blue,No. 1,Georgi Demosthenous,Zara Measures,Georgi Demosthenous,6-2,6,2,1,0,Completed,true,false,false
+UA011033,30 Jul 23,3,Coatesville,BLTC Blue,No. 2,Ethan Nemenman,Mali Nayna,Mali Nayna,2-6,2,6,0,1,Completed,true,false,false
+UA011033,30 Jul 23,3,Coatesville,BLTC Blue,No. 3,Hugo Szynkowski,Aiden Dong,Hugo Szynkowski,6-2,6,2,1,0,Completed,true,false,false
+UA011033,30 Jul 23,3,Coatesville,BLTC Blue,No. 4,Jessica Kam,Callum Tzounos,Jessica Kam,6-1,6,1,1,0,Completed,true,false,false
+UA011034,30 Jul 23,3,Mentone,Le Page,No. 1,Lila Anderson,Jasmine Petkoff,Lila Anderson,7-6,7,6,1,0,Completed,true,false,false
+UA011034,30 Jul 23,3,Mentone,Le Page,No. 2,Amira Bird,Nathan Lew,Nathan Lew,4-6,4,6,0,1,Completed,true,false,false
+UA011034,30 Jul 23,3,Mentone,Le Page,No. 3,Roderic William,Cedric Conway,Cedric Conway,4-6,4,6,0,1,Completed,true,false,false
+UA011034,30 Jul 23,3,Mentone,Le Page,No. 4,Michelle Ye,Angus Wang,Michelle Ye,6-3,6,3,1,0,Completed,true,false,false
+UA011041,06 Aug 23,4,Le Page,Hampton,No. 1,Jasmine Petkoff,Divan Engelbrecht,Divan Engelbrecht,4-6,4,6,0,1,Completed,true,false,false
+UA011041,06 Aug 23,4,Le Page,Hampton,No. 2,Nathan Lew,Louis Wu,Nathan Lew,6-4,6,4,1,0,Completed,true,false,false
+UA011041,06 Aug 23,4,Le Page,Hampton,No. 3,Cedric Conway,Ethan Wang,Cedric Conway,6-0,6,0,1,0,Completed,true,false,false
+UA011041,06 Aug 23,4,Le Page,Hampton,No. 4,Angus Wang,Faris Buturovic,Faris Buturovic,2-6,2,6,0,1,Completed,true,false,false
+UA011042,06 Aug 23,4,Kings Park,GPHC,No. 1,Daniel Qin,Siva Chinnappan,Daniel Qin,6-1,6,1,1,0,Completed,true,false,false
+UA011042,06 Aug 23,4,Kings Park,GPHC,No. 2,Or Ilan,Gracie Lu,Gracie Lu,2-6,2,6,0,1,Completed,true,false,false
+UA011042,06 Aug 23,4,Kings Park,GPHC,No. 3,Zeyi Xu,Jack Boussioutas,Zeyi Xu,6-2,6,2,1,0,Completed,true,false,false
+UA011042,06 Aug 23,4,Kings Park,GPHC,No. 4,Yoon Lee,Oscar Hilbert,Yoon Lee,6-3,6,3,1,0,Completed,true,false,false
+UA011043,06 Aug 23,4,St James Green,Coatesville,No. 1,Mali Davies,Georgi Demosthenous,Mali Davies,6-3,6,3,1,0,Completed,true,false,false
+UA011043,06 Aug 23,4,St James Green,Coatesville,No. 2,Tilly Chesnau,Ethan Nemenman,Ethan Nemenman,0-6,0,6,0,1,Completed,true,false,false
+UA011043,06 Aug 23,4,St James Green,Coatesville,No. 3,Ben Lajbcygier,Xavier Grigo,Xavier Grigo,2-6,2,6,0,1,Completed,true,false,true
+UA011043,06 Aug 23,4,St James Green,Coatesville,No. 4,Julia Luo,Jessica Kam,Jessica Kam,2-6,2,6,0,1,Completed,true,false,false
+UA011044,06 Aug 23,4,BLTC Blue,Mentone,No. 1,Zara Measures,Lila Anderson,Lila Anderson,2-6,2,6,0,1,Completed,true,false,false
+UA011044,06 Aug 23,4,BLTC Blue,Mentone,No. 2,Mali Nayna,Amira Bird,Mali Nayna,6-1,6,1,1,0,Completed,true,false,false
+UA011044,06 Aug 23,4,BLTC Blue,Mentone,No. 3,Aiden Dong,Michelle Ye,Aiden Dong,6-4,6,4,1,0,Completed,true,false,false
+UA011044,06 Aug 23,4,BLTC Blue,Mentone,No. 4,Callum Tzounos,Sol Louev,Sol Louev,0-6,0,6,0,1,Completed,true,false,false
+UA011051,13 Aug 23,5,Coatesville,Mentone,No. 1,Georgi Demosthenous,Lila Anderson,Georgi Demosthenous,6-3,6,3,1,0,Completed,true,false,false
+UA011051,13 Aug 23,5,Coatesville,Mentone,No. 2,Jack Tan,Amira Bird,Amira Bird,3-6,3,6,0,1,Completed,true,false,false
+UA011051,13 Aug 23,5,Coatesville,Mentone,No. 3,Ethan Nemenman,Roderic William,Ethan Nemenman,6-3,6,3,1,0,Completed,true,false,false
+UA011051,13 Aug 23,5,Coatesville,Mentone,No. 4,Hugo Szynkowski,Sol Louev,Sol Louev,1-6,1,6,0,1,Completed,true,false,false
+UA011052,13 Aug 23,5,St James Green,Kings Park,No. 1,Emma Stewart,Daniel Qin,Daniel Qin,4-6,4,6,0,1,Completed,true,false,false
+UA011052,13 Aug 23,5,St James Green,Kings Park,No. 2,Mali Davies,Zeyi Xu,Zeyi Xu,3-6,3,6,0,1,Completed,true,false,false
+UA011052,13 Aug 23,5,St James Green,Kings Park,No. 3,Sophie Stewart,Evelyn Pajovic,Evelyn Pajovic,3-6,3,6,0,1,Completed,true,false,false
+UA011052,13 Aug 23,5,St James Green,Kings Park,No. 4,Ben Lajbcygier,Yoon Lee,Yoon Lee,5-7,5,7,0,1,Completed,true,false,false
+UA011053,13 Aug 23,5,Le Page,BLTC Blue,No. 1,Jasmine Petkoff,Jerry He,Jasmine Petkoff,6-3,6,3,1,0,Completed,true,false,false
+UA011053,13 Aug 23,5,Le Page,BLTC Blue,No. 2,Nathan Lew,Mali Nayna,Nathan Lew,6-4,6,4,1,0,Completed,true,false,false
+UA011053,13 Aug 23,5,Le Page,BLTC Blue,No. 3,Cedric Conway,Aiden Dong,Cedric Conway,6-2,6,2,1,0,Completed,true,false,false
+UA011053,13 Aug 23,5,Le Page,BLTC Blue,No. 4,Angus Wang,Victor Lee,Angus Wang,6-0,6,0,1,0,Completed,true,false,true
+UA011054,13 Aug 23,5,Hampton,GPHC,No. 1,Louis Wu,Jack Boussioutas,Louis Wu,6-2,6,2,1,0,Completed,true,false,false
+UA011054,13 Aug 23,5,Hampton,GPHC,No. 2,Ethan Wang,Oscar Hilbert,Ethan Wang,6-3,6,3,1,0,Completed,true,false,false
+UA011054,13 Aug 23,5,Hampton,GPHC,No. 3,Lulu Terry,Oliver Reynolds,Lulu Terry,6-3,6,3,1,0,Completed,true,false,true
+UA011054,13 Aug 23,5,Hampton,GPHC,No. 4,Evan Wang,[Unnamed player — TROLS UA011054 away code 4],Evan Wang,6-0,6,0,1,0,Completed,false,false,false
+UA011061,20 Aug 23,6,GPHC,Coatesville,No. 1,[Unnamed player — TROLS UA011061 home code 1],Jack Tan,Jack Tan,0-6,0,6,0,1,Completed,false,false,false
+UA011061,20 Aug 23,6,GPHC,Coatesville,No. 2,Jack Boussioutas,Ethan Nemenman,Ethan Nemenman,4-6,4,6,0,1,Completed,true,false,false
+UA011061,20 Aug 23,6,GPHC,Coatesville,No. 3,Bianca Blecher,Hugo Szynkowski,Hugo Szynkowski,2-6,2,6,0,1,Completed,true,false,false
+UA011061,20 Aug 23,6,GPHC,Coatesville,No. 4,Oscar Hilbert,Jessica Kam,Oscar Hilbert,6-4,6,4,1,0,Completed,true,false,false
+UA011062,20 Aug 23,6,Mentone,Hampton,No. 1,Lila Anderson,Divan Engelbrecht,Divan Engelbrecht,3-6,3,6,0,1,Completed,true,false,false
+UA011062,20 Aug 23,6,Mentone,Hampton,No. 2,Amira Bird,Ethan Wang,Amira Bird,6-2,6,2,1,0,Completed,true,false,false
+UA011062,20 Aug 23,6,Mentone,Hampton,No. 3,Michelle Ye,Faris Buturovic,Faris Buturovic,3-6,3,6,0,1,Completed,true,false,false
+UA011062,20 Aug 23,6,Mentone,Hampton,No. 4,Sol Louev,Evan Wang,Sol Louev,6-0,6,0,1,0,Completed,true,false,false
+UA011063,20 Aug 23,6,Kings Park,Le Page,No. 1,Or Ilan,Jasmine Petkoff,Jasmine Petkoff,6-7,6,7,0,1,Completed,true,false,false
+UA011063,20 Aug 23,6,Kings Park,Le Page,No. 2,Zeyi Xu,Nathan Lew,Zeyi Xu,7-6,7,6,1,0,Completed,true,false,false
+UA011063,20 Aug 23,6,Kings Park,Le Page,No. 3,Evelyn Pajovic,Cedric Conway,Evelyn Pajovic,6-4,6,4,1,0,Completed,true,false,false
+UA011063,20 Aug 23,6,Kings Park,Le Page,No. 4,Yoon Lee,Angus Wang,Yoon Lee,6-1,6,1,1,0,Completed,true,false,false
+UA011064,20 Aug 23,6,BLTC Blue,St James Green,No. 1,Zara Measures,Emma Stewart,Zara Measures,6-2,6,2,1,0,Completed,true,false,false
+UA011064,20 Aug 23,6,BLTC Blue,St James Green,No. 2,Jerry He,Mali Davies,Mali Davies,5-7,5,7,0,1,Completed,true,false,false
+UA011064,20 Aug 23,6,BLTC Blue,St James Green,No. 3,Aiden Dong,Sophie Stewart,Sophie Stewart,3-6,3,6,0,1,Completed,true,false,false
+UA011064,20 Aug 23,6,BLTC Blue,St James Green,No. 4,Callum Tzounos,Ben Lajbcygier,Ben Lajbcygier,1-6,1,6,0,1,Completed,true,false,false
+UA011071,27 Aug 23,7,Hampton,Coatesville,No. 1,Divan Engelbrecht,Georgi Demosthenous,Divan Engelbrecht,6-4,6,4,1,0,Completed,true,false,false
+UA011071,27 Aug 23,7,Hampton,Coatesville,No. 2,Louis Wu,Jack Tan,Louis Wu,6-3,6,3,1,0,Completed,true,false,false
+UA011071,27 Aug 23,7,Hampton,Coatesville,No. 3,Faris Buturovic,Ethan Nemenman,Ethan Nemenman,6-7,6,7,0,1,Completed,true,false,false
+UA011071,27 Aug 23,7,Hampton,Coatesville,No. 4,Lulu Terry,Jessica Kam,Jessica Kam,0-6,0,6,0,1,Completed,true,false,false
+UA011072,27 Aug 23,7,GPHC,Mentone,No. 1,Gracie Lu,Lila Anderson,Gracie Lu,6-3,6,3,1,0,Completed,true,false,false
+UA011072,27 Aug 23,7,GPHC,Mentone,No. 2,Jack Boussioutas,Amira Bird,Jack Boussioutas,6-2,6,2,1,0,Completed,true,false,false
+UA011072,27 Aug 23,7,GPHC,Mentone,No. 3,Bianca Blecher,Michelle Ye,Michelle Ye,0-6,0,6,0,1,Completed,true,false,false
+UA011072,27 Aug 23,7,GPHC,Mentone,No. 4,Oscar Hilbert,Vicki Tigaris,Oscar Hilbert,7-5,7,5,1,0,Completed,true,false,true
+UA011073,27 Aug 23,7,St James Green,Le Page,No. 1,Emma Stewart,Jasmine Petkoff,Jasmine Petkoff,4-6,4,6,0,1,Completed,true,false,false
+UA011073,27 Aug 23,7,St James Green,Le Page,No. 2,Mali Davies,Nathan Lew,Nathan Lew,5-7,5,7,0,1,Completed,true,false,false
+UA011073,27 Aug 23,7,St James Green,Le Page,No. 3,Sophie Stewart,Cedric Conway,Cedric Conway,3-6,3,6,0,1,Completed,true,false,false
+UA011073,27 Aug 23,7,St James Green,Le Page,No. 4,Ben Lajbcygier,Angus Wang,Angus Wang,3-6,3,6,0,1,Completed,true,false,false
+UA011074,27 Aug 23,7,Kings Park,BLTC Blue,No. 1,Or Ilan,Zara Measures,Zara Measures,2-6,2,6,0,1,Completed,true,false,false
+UA011074,27 Aug 23,7,Kings Park,BLTC Blue,No. 2,Zeyi Xu,Jerry He,Zeyi Xu,6-4,6,4,1,0,Completed,true,false,false
+UA011074,27 Aug 23,7,Kings Park,BLTC Blue,No. 3,Evelyn Pajovic,Aiden Dong,Evelyn Pajovic,6-1,6,1,1,0,Completed,true,false,false
+UA011074,27 Aug 23,7,Kings Park,BLTC Blue,No. 4,Yoon Lee,Callum Tzounos,Yoon Lee,6-2,6,2,1,0,Completed,true,false,false
+UA011081,03 Sep 23,8,BLTC Blue,Hampton,No. 1,Zara Measures,Louis Wu,Louis Wu,4-6,4,6,0,1,Completed,true,false,false
+UA011081,03 Sep 23,8,BLTC Blue,Hampton,No. 2,Jerry He,Ethan Wang,Jerry He,6-2,6,2,1,0,Completed,true,false,false
+UA011081,03 Sep 23,8,BLTC Blue,Hampton,No. 3,Aiden Dong,Lulu Terry,Aiden Dong,6-2,6,2,1,0,Completed,true,false,false
+UA011081,03 Sep 23,8,BLTC Blue,Hampton,No. 4,Ruian Wang,Evan Wang,Ruian Wang,6-1,6,1,1,0,Completed,true,true,false
+UA011082,03 Sep 23,8,Le Page,GPHC,No. 1,Jasmine Petkoff,Siva Chinnappan,Jasmine Petkoff,6-0,6,0,1,0,Completed,true,false,false
+UA011082,03 Sep 23,8,Le Page,GPHC,No. 2,Nathan Lew,Gracie Lu,Nathan Lew,6-4,6,4,1,0,Completed,true,false,false
+UA011082,03 Sep 23,8,Le Page,GPHC,No. 3,Cedric Conway,Jack Boussioutas,Cedric Conway,6-2,6,2,1,0,Completed,true,false,false
+UA011082,03 Sep 23,8,Le Page,GPHC,No. 4,Angus Wang,Bianca Blecher,Angus Wang,6-1,6,1,1,0,Completed,true,false,false
+UA011083,03 Sep 23,8,Kings Park,Coatesville,No. 1,Daniel Qin,Georgi Demosthenous,Daniel Qin,6-3,6,3,1,0,Completed,true,false,false
+UA011083,03 Sep 23,8,Kings Park,Coatesville,No. 2,Zeyi Xu,Ethan Nemenman,Zeyi Xu,7-6,7,6,1,0,Completed,true,false,false
+UA011083,03 Sep 23,8,Kings Park,Coatesville,No. 3,Evelyn Pajovic,Jessica Kam,Evelyn Pajovic,6-2,6,2,1,0,Completed,true,false,false
+UA011083,03 Sep 23,8,Kings Park,Coatesville,No. 4,Yoon Lee,Martin Curnow,Yoon Lee,6-1,6,1,1,0,Completed,true,false,true
+UA011084,03 Sep 23,8,St James Green,Mentone,No. 1,Emma Stewart,Lila Anderson,Emma Stewart,6-1,6,1,1,0,Completed,true,false,false
+UA011084,03 Sep 23,8,St James Green,Mentone,No. 2,Sophie Stewart,Roderic William,Sophie Stewart,6-2,6,2,1,0,Completed,true,false,false
+UA011084,03 Sep 23,8,St James Green,Mentone,No. 3,Tilly Chesnau,Michelle Ye,Tilly Chesnau,6-3,6,3,1,0,Completed,true,false,false
+UA011084,03 Sep 23,8,St James Green,Mentone,No. 4,Julia Luo,Sol Louev,Sol Louev,0-6,0,6,0,1,Completed,true,false,false
+UA011091,10 Sep 23,9,Hampton,St James Green,No. 1,Divan Engelbrecht,Emma Stewart,Divan Engelbrecht,7-6,7,6,1,0,Completed,true,false,false
+UA011091,10 Sep 23,9,Hampton,St James Green,No. 2,Ethan Wang,Sophie Stewart,Sophie Stewart,6-7,6,7,0,1,Completed,true,false,false
+UA011091,10 Sep 23,9,Hampton,St James Green,No. 3,Faris Buturovic,Ben Lajbcygier,Faris Buturovic,6-4,6,4,1,0,Completed,true,false,false
+UA011091,10 Sep 23,9,Hampton,St James Green,No. 4,Evan Wang,Julia Luo,Julia Luo,1-6,1,6,0,1,Completed,true,false,false
+UA011092,10 Sep 23,9,GPHC,BLTC Blue,No. 1,Jack Boussioutas,Zara Measures,Jack Boussioutas,6-2,6,2,1,0,Completed,true,false,false
+UA011092,10 Sep 23,9,GPHC,BLTC Blue,No. 2,Bianca Blecher,Jerry He,Jerry He,4-6,4,6,0,1,Completed,true,false,false
+UA011092,10 Sep 23,9,GPHC,BLTC Blue,No. 3,Oscar Hilbert,Aiden Dong,Oscar Hilbert,6-3,6,3,1,0,Completed,true,false,false
+UA011092,10 Sep 23,9,GPHC,BLTC Blue,No. 4,Eli Jeffreys,Callum Tzounos,Callum Tzounos,0-6,0,6,0,1,Completed,true,true,false
+UA011093,10 Sep 23,9,Coatesville,Le Page,No. 1,Georgi Demosthenous,Jasmine Petkoff,Georgi Demosthenous,6-4,6,4,1,0,Completed,true,false,false
+UA011093,10 Sep 23,9,Coatesville,Le Page,No. 2,Jack Tan,Nathan Lew,Nathan Lew,1-6,1,6,0,1,Completed,true,false,false
+UA011093,10 Sep 23,9,Coatesville,Le Page,No. 3,Ethan Nemenman,Cedric Conway,Cedric Conway,4-6,4,6,0,1,Completed,true,false,false
+UA011093,10 Sep 23,9,Coatesville,Le Page,No. 4,Jessica Kam,Angus Wang,Jessica Kam,6-2,6,2,1,0,Completed,true,false,false
+UA011094,10 Sep 23,9,Mentone,Kings Park,No. 1,Amira Bird,Daniel Qin,Amira Bird,7-5,7,5,1,0,Completed,true,false,false
+UA011094,10 Sep 23,9,Mentone,Kings Park,No. 2,Zach Granell,Zeyi Xu,Zeyi Xu,4-6,4,6,0,1,Completed,true,true,false
+UA011094,10 Sep 23,9,Mentone,Kings Park,No. 3,Michelle Ye,Evelyn Pajovic,Evelyn Pajovic,1-6,1,6,0,1,Completed,true,false,false
+UA011094,10 Sep 23,9,Mentone,Kings Park,No. 4,Alexander Granell,Yoon Lee,Yoon Lee,0-6,0,6,0,1,Completed,true,true,false
+UA011101,08 Oct 23,10,Kings Park,Hampton,No. 1,Daniel Qin,Divan Engelbrecht,Daniel Qin,6-1,6,1,1,0,Completed,true,false,false
+UA011101,08 Oct 23,10,Kings Park,Hampton,No. 2,Anthony Gallardo,Louis Wu,Anthony Gallardo,6-3,6,3,1,0,Completed,true,true,false
+UA011101,08 Oct 23,10,Kings Park,Hampton,No. 3,Evelyn Pajovic,Faris Buturovic,Evelyn Pajovic,6-2,6,2,1,0,Completed,true,false,false
+UA011101,08 Oct 23,10,Kings Park,Hampton,No. 4,Yoon Lee,Lulu Terry,Yoon Lee,6-2,6,2,1,0,Completed,true,false,false
+UA011102,08 Oct 23,10,St James Green,GPHC,No. 1,Emma Stewart,Jack Boussioutas,Emma Stewart,6-4,6,4,1,0,Completed,true,false,false
+UA011102,08 Oct 23,10,St James Green,GPHC,No. 2,Mali Davies,Bianca Blecher,Mali Davies,6-0,6,0,1,0,Completed,true,false,false
+UA011102,08 Oct 23,10,St James Green,GPHC,No. 3,Sophie Stewart,Oscar Hilbert,Oscar Hilbert,3-6,3,6,0,1,Completed,true,false,false
+UA011102,08 Oct 23,10,St James Green,GPHC,No. 4,Julia Luo,Ned O'Sullivan,Ned O'Sullivan,0-6,0,6,0,1,Completed,true,false,true
+UA011103,08 Oct 23,10,BLTC Blue,Coatesville,No. 1,Zara Measures,Jack Tan,Zara Measures,6-0,6,0,1,0,Completed,true,false,false
+UA011103,08 Oct 23,10,BLTC Blue,Coatesville,No. 2,Jerry He,Ethan Nemenman,Jerry He,6-3,6,3,1,0,Completed,true,false,false
+UA011103,08 Oct 23,10,BLTC Blue,Coatesville,No. 3,Aiden Dong,Hugo Szynkowski,Hugo Szynkowski,5-7,5,7,0,1,Completed,true,false,false
+UA011103,08 Oct 23,10,BLTC Blue,Coatesville,No. 4,Athhars Balachandor,Jessica Kam,Jessica Kam,2-6,2,6,0,1,Completed,true,true,false
+UA011104,08 Oct 23,10,Le Page,Mentone,No. 1,Jasmine Petkoff,Lila Anderson,Jasmine Petkoff,6-3,6,3,1,0,Completed,true,false,false
+UA011104,08 Oct 23,10,Le Page,Mentone,No. 2,Nathan Lew,Amira Bird,Nathan Lew,6-0,6,0,1,0,Completed,true,false,false
+UA011104,08 Oct 23,10,Le Page,Mentone,No. 3,Cedric Conway,Owen Richardson,Cedric Conway,6-4,6,4,1,0,Completed,true,false,true
+UA011104,08 Oct 23,10,Le Page,Mentone,No. 4,Angus Wang,Sol Louev,Sol Louev,3-6,3,6,0,1,Completed,true,false,false
+UA011111,15 Oct 23,11,Hampton,Le Page,No. 1,Louis Wu,Nathan Lew,Nathan Lew,0-6,0,6,0,1,Completed,true,false,false
+UA011111,15 Oct 23,11,Hampton,Le Page,No. 2,Ethan Wang,Cedric Conway,Cedric Conway,1-6,1,6,0,1,Completed,true,false,false
+UA011111,15 Oct 23,11,Hampton,Le Page,No. 3,Faris Buturovic,Angus Wang,Faris Buturovic,6-4,6,4,1,0,Completed,true,false,false
+UA011111,15 Oct 23,11,Hampton,Le Page,No. 4,Lulu Terry,Charles Trinh,Charles Trinh,0-6,0,6,0,1,Completed,true,false,true
+UA011112,15 Oct 23,11,GPHC,Kings Park,No. 1,Gracie Lu,Ellie Frey,Gracie Lu,6-3,6,3,1,0,Completed,true,false,true
+UA011112,15 Oct 23,11,GPHC,Kings Park,No. 2,Jack Boussioutas,Or Ilan,Jack Boussioutas,7-5,7,5,1,0,Completed,true,false,false
+UA011112,15 Oct 23,11,GPHC,Kings Park,No. 3,Bianca Blecher,Yoon Lee,Yoon Lee,0-6,0,6,0,1,Completed,true,false,false
+UA011112,15 Oct 23,11,GPHC,Kings Park,No. 4,Oscar Hilbert,Nicholas Roselt,Oscar Hilbert,6-4,6,4,1,0,Completed,true,false,true
+UA011113,15 Oct 23,11,Coatesville,St James Green,No. 1,Georgi Demosthenous,Emma Stewart,Emma Stewart,2-6,2,6,0,1,Completed,true,false,false
+UA011113,15 Oct 23,11,Coatesville,St James Green,No. 2,Jack Tan,Sophie Stewart,Jack Tan,6-4,6,4,1,0,Completed,true,false,false
+UA011113,15 Oct 23,11,Coatesville,St James Green,No. 3,Hugo Szynkowski,Tilly Chesnau,Tilly Chesnau,2-6,2,6,0,1,Completed,true,false,false
+UA011113,15 Oct 23,11,Coatesville,St James Green,No. 4,Jessica Kam,Ben Lajbcygier,Jessica Kam,6-3,6,3,1,0,Completed,true,false,false
+UA011114,15 Oct 23,11,Mentone,BLTC Blue,No. 1,Lila Anderson,Jerry He,Jerry He,2-6,2,6,0,1,Completed,true,false,false
+UA011114,15 Oct 23,11,Mentone,BLTC Blue,No. 2,Amira Bird,Jenson Witherington,Amira Bird,6-0,6,0,1,0,Completed,true,false,true
+UA011114,15 Oct 23,11,Mentone,BLTC Blue,No. 3,Michelle Ye,Aiden Dong,Aiden Dong,2-6,2,6,0,1,Completed,true,false,false
+UA011114,15 Oct 23,11,Mentone,BLTC Blue,No. 4,Sol Louev,Callum Tzounos,Sol Louev,6-0,6,0,1,0,Completed,true,false,false
+UA011122,22 Oct 23,12,Kings Park,St James Green,No. 1,Or Ilan,Finn Kuzzbock,Or Ilan,6-0,6,0,1,0,Completed,true,false,true
+UA011122,22 Oct 23,12,Kings Park,St James Green,No. 2,Zeyi Xu,Tilly Chesnau,,6-6,6,6,0,0,Completed,false,false,false
+UA011122,22 Oct 23,12,Kings Park,St James Green,No. 3,Evelyn Pajovic,Ben Lajbcygier,Evelyn Pajovic,6-1,6,1,1,0,Completed,true,false,false
+UA011122,22 Oct 23,12,Kings Park,St James Green,No. 4,Yoon Lee,Julia Luo,Yoon Lee,6-2,6,2,1,0,Completed,true,false,false
+UA011123,22 Oct 23,12,BLTC Blue,Le Page,No. 1,Jerry He,Jasmine Petkoff,Jasmine Petkoff,1-6,1,6,0,1,Completed,true,false,false
+UA011123,22 Oct 23,12,BLTC Blue,Le Page,No. 2,Aiden Dong,Nathan Lew,Nathan Lew,0-6,0,6,0,1,Completed,true,false,false
+UA011123,22 Oct 23,12,BLTC Blue,Le Page,No. 3,Callum Tzounos,Cedric Conway,Cedric Conway,1-6,1,6,0,1,Completed,true,false,false
+UA011123,22 Oct 23,12,BLTC Blue,Le Page,No. 4,Rentaro Otsuka,Angus Wang,Angus Wang,3-6,3,6,0,1,Completed,true,true,false
+UA011124,22 Oct 23,12,GPHC,Hampton,No. 1,Siva Chinnappan,Divan Engelbrecht,Divan Engelbrecht,1-6,1,6,0,1,Completed,true,false,false
+UA011124,22 Oct 23,12,GPHC,Hampton,No. 2,Gracie Lu,Ethan Wang,Ethan Wang,5-7,5,7,0,1,Completed,true,false,false
+UA011124,22 Oct 23,12,GPHC,Hampton,No. 3,Jack Boussioutas,Faris Buturovic,Faris Buturovic,2-6,2,6,0,1,Completed,true,false,false
+UA011124,22 Oct 23,12,GPHC,Hampton,No. 4,Oscar Hilbert,Evan Wang,Oscar Hilbert,6-2,6,2,1,0,Completed,true,false,false
+UA011131,29 Oct 23,13,Coatesville,GPHC,No. 1,Georgi Demosthenous,Gracie Lu,Georgi Demosthenous,7-6,7,6,1,0,Completed,true,false,false
+UA011131,29 Oct 23,13,Coatesville,GPHC,No. 2,Jack Tan,Jack Boussioutas,Jack Boussioutas,0-6,0,6,0,1,Completed,true,false,false
+UA011131,29 Oct 23,13,Coatesville,GPHC,No. 3,Ethan Nemenman,Bianca Blecher,Ethan Nemenman,6-1,6,1,1,0,Completed,true,false,false
+UA011131,29 Oct 23,13,Coatesville,GPHC,No. 4,Hugo Szynkowski,Oscar Hilbert,Hugo Szynkowski,7-5,7,5,1,0,Completed,true,false,false
+UA011132,29 Oct 23,13,Hampton,Mentone,No. 1,Louis Wu,Lila Anderson,Louis Wu,6-4,6,4,1,0,Completed,true,false,false
+UA011132,29 Oct 23,13,Hampton,Mentone,No. 2,Ethan Wang,Amira Bird,Ethan Wang,6-2,6,2,1,0,Completed,true,false,false
+UA011132,29 Oct 23,13,Hampton,Mentone,No. 3,Faris Buturovic,Michelle Ye,Faris Buturovic,6-0,6,0,1,0,Completed,true,false,false
+UA011132,29 Oct 23,13,Hampton,Mentone,No. 4,Lulu Terry,Sol Louev,Sol Louev,0-6,0,6,0,1,Completed,true,false,false
+UA011133,29 Oct 23,13,Le Page,Kings Park,No. 1,Jasmine Petkoff,Daniel Qin,Jasmine Petkoff,6-2,6,2,1,0,Completed,true,false,false
+UA011133,29 Oct 23,13,Le Page,Kings Park,No. 2,Nathan Lew,Zeyi Xu,Nathan Lew,6-2,6,2,1,0,Completed,true,false,false
+UA011133,29 Oct 23,13,Le Page,Kings Park,No. 3,Cedric Conway,Evelyn Pajovic,Cedric Conway,6-3,6,3,1,0,Completed,true,false,false
+UA011133,29 Oct 23,13,Le Page,Kings Park,No. 4,Angus Wang,Yoon Lee,Yoon Lee,2-6,2,6,0,1,Completed,true,false,false
+UA011134,29 Oct 23,13,St James Green,BLTC Blue,No. 1,Emma Stewart,Zara Measures,Emma Stewart,6-1,6,1,1,0,Completed,true,false,false
+UA011134,29 Oct 23,13,St James Green,BLTC Blue,No. 2,Sophie Stewart,Jerry He,Sophie Stewart,6-2,6,2,1,0,Completed,true,false,false
+UA011134,29 Oct 23,13,St James Green,BLTC Blue,No. 3,Tilly Chesnau,Aiden Dong,Aiden Dong,1-6,1,6,0,1,Completed,true,false,false
+UA011134,29 Oct 23,13,St James Green,BLTC Blue,No. 4,Ben Lajbcygier,Marat Zhuang,Marat Zhuang,2-6,2,6,0,1,Completed,true,false,true
+UA011141,12 Nov 23,14,Coatesville,Hampton,No. 1,Georgi Demosthenous,Louis Wu,Louis Wu,3-6,3,6,0,1,Completed,true,false,false
+UA011141,12 Nov 23,14,Coatesville,Hampton,No. 2,Jack Tan,Ethan Wang,Jack Tan,6-4,6,4,1,0,Completed,true,false,false
+UA011141,12 Nov 23,14,Coatesville,Hampton,No. 3,Hugo Szynkowski,Lulu Terry,Lulu Terry,1-6,1,6,0,1,Completed,true,false,false
+UA011141,12 Nov 23,14,Coatesville,Hampton,No. 4,Jessica Kam,Evan Wang,Jessica Kam,6-2,6,2,1,0,Completed,true,false,false
+UA011142,12 Nov 23,14,Mentone,GPHC,No. 1,Lila Anderson,Gracie Lu,Gracie Lu,4-6,4,6,0,1,Completed,true,false,false
+UA011142,12 Nov 23,14,Mentone,GPHC,No. 2,Amira Bird,Jack Boussioutas,Jack Boussioutas,5-7,5,7,0,1,Completed,true,false,false
+UA011142,12 Nov 23,14,Mentone,GPHC,No. 3,Michelle Ye,Oscar Hilbert,Oscar Hilbert,4-6,4,6,0,1,Completed,true,false,false
+UA011142,12 Nov 23,14,Mentone,GPHC,No. 4,Sol Louev,Arata Tanaka,Sol Louev,6-0,6,0,1,0,Completed,true,false,true
+UA011143,12 Nov 23,14,Le Page,St James Green,No. 1,Jasmine Petkoff,Emma Stewart,Emma Stewart,0-6,0,6,0,1,Completed,true,false,false
+UA011143,12 Nov 23,14,Le Page,St James Green,No. 2,Nathan Lew,Mali Davies,Nathan Lew,6-1,6,1,1,0,Completed,true,false,false
+UA011143,12 Nov 23,14,Le Page,St James Green,No. 3,Cedric Conway,Sophie Stewart,Cedric Conway,6-0,6,0,1,0,Completed,true,false,false
+UA011143,12 Nov 23,14,Le Page,St James Green,No. 4,Angus Wang,Tilly Chesnau,Tilly Chesnau,4-6,4,6,0,1,Completed,true,false,false
+UA011144,12 Nov 23,14,BLTC Blue,Kings Park,No. 1,Zara Measures,Daniel Qin,Daniel Qin,2-6,2,6,0,1,Completed,true,false,false
+UA011144,12 Nov 23,14,BLTC Blue,Kings Park,No. 2,Jerry He,Or Ilan,Jerry He,7-6,7,6,1,0,Completed,true,false,false
+UA011144,12 Nov 23,14,BLTC Blue,Kings Park,No. 3,Aiden Dong,Zeyi Xu,Zeyi Xu,3-6,3,6,0,1,Completed,true,false,false
+UA011144,12 Nov 23,14,BLTC Blue,Kings Park,No. 4,Callum Tzounos,Yoon Lee,Yoon Lee,0-6,0,6,0,1,Completed,true,false,false
+UA011301,,16,Le Page,St James Green,No. 1,Jasmine Petkoff,Emma Stewart,Emma Stewart,3-6,3,6,0,1,Completed,true,false,false
+UA011301,,16,Le Page,St James Green,No. 2,Nathan Lew,Mali Davies,Nathan Lew,6-1,6,1,1,0,Completed,true,false,false
+UA011301,,16,Le Page,St James Green,No. 3,Cedric Conway,Sophie Stewart,Cedric Conway,6-1,6,1,1,0,Completed,true,false,false
+UA011301,,16,Le Page,St James Green,No. 4,Angus Wang,Tilly Chesnau,Angus Wang,6-4,6,4,1,0,Completed,true,false,false
+UA011302,,16,Kings Park,Coatesville,No. 1,Or Ilan,Georgi Demosthenous,Or Ilan,6-2,6,2,1,0,Completed,true,false,false
+UA011302,,16,Kings Park,Coatesville,No. 2,Zeyi Xu,Jack Tan,Zeyi Xu,7-5,7,5,1,0,Completed,true,false,false
+UA011302,,16,Kings Park,Coatesville,No. 3,Evelyn Pajovic,Ethan Nemenman,Evelyn Pajovic,6-4,6,4,1,0,Completed,true,false,false
+UA011302,,16,Kings Park,Coatesville,No. 4,Yoon Lee,Hugo Szynkowski,Yoon Lee,7-6,7,6,1,0,Completed,true,false,false
+UA011321,,17,Le Page,Kings Park,No. 1,Jasmine Petkoff,Daniel Qin,Daniel Qin,4-6,4,6,0,1,Completed,true,false,false
+UA011321,,17,Le Page,Kings Park,No. 2,Nathan Lew,Or Ilan,Nathan Lew,6-4,6,4,1,0,Completed,true,false,false
+UA011321,,17,Le Page,Kings Park,No. 3,Cedric Conway,Evelyn Pajovic,Cedric Conway,6-4,6,4,1,0,Completed,true,false,false
+UA011321,,17,Le Page,Kings Park,No. 4,Angus Wang,Yoon Lee,Yoon Lee,4-6,4,6,0,1,Completed,true,false,false

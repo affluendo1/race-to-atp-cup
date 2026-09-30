@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA15-UA018",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2014",
+  "season_id": "UA15",
+  "season_label": "Spring 2014",
+  "source_section_code": "UA018",
+  "section_label": "Section 18",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Aspendale",
+      "wins": 11,
+      "points": 107,
+      "percentage": 168.89,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Beaumaris CC",
+      "wins": 9,
+      "points": 99,
+      "percentage": 158.12,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "GPHC 1",
+      "wins": 6,
+      "points": 74,
+      "percentage": 102.3,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Coatesville 1",
+      "wins": 6,
+      "points": 72,
+      "percentage": 101.28,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC 2",
+      "wins": 6,
+      "points": 71,
+      "percentage": 100.97,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Coatesville 2",
+      "wins": 4,
+      "points": 65,
+      "percentage": 106.21,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St Joan of Arc",
+      "wins": 2,
+      "points": 42,
+      "percentage": 62.89,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong Xavier",
+      "wins": 2,
+      "points": 30,
+      "percentage": 54.59,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA15-UA018",
+  "fixtures": 59,
+  "completed_fixtures": 49,
+  "draw_fixtures": 59,
+  "singles_rubbers": 196,
+  "doubles_rubbers": 98,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

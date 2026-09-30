@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA7-UA038",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2010",
+  "season_id": "UA7",
+  "season_label": "Spring 2010",
+  "source_section_code": "UA038",
+  "section_label": "Section 19",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Mordialloc 1",
+      "wins": 0,
+      "points": 101,
+      "percentage": 228.83,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Mordialloc 2",
+      "wins": 0,
+      "points": 94,
+      "percentage": 209.62,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Murrumbeena",
+      "wins": 0,
+      "points": 55,
+      "percentage": 104.46,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Hampton",
+      "wins": 0,
+      "points": 55,
+      "percentage": 91.11,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Lauriston",
+      "wins": 0,
+      "points": 53,
+      "percentage": 71.28,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 50,
+      "percentage": 86.52,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 0,
+      "points": 12,
+      "percentage": 29.78,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA7-UA038",
+  "fixtures": 59,
+  "completed_fixtures": 39,
+  "draw_fixtures": 3,
+  "singles_rubbers": 154,
+  "doubles_rubbers": 76,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

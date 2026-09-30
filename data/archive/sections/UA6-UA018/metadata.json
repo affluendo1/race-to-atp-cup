@@ -1,0 +1,75 @@
+{
+  "asset_id": "UA6-UA018",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2010",
+  "season_id": "UA6",
+  "season_label": "Autumn 2010",
+  "source_section_code": "UA018",
+  "section_label": "Section 18",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World",
+      "wins": 0,
+      "points": 117,
+      "percentage": 151.55,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "St Joseph's BR",
+      "wins": 0,
+      "points": 106,
+      "percentage": 148.68,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Chelsea Heights",
+      "wins": 0,
+      "points": 73,
+      "percentage": 104.57,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Victory Park",
+      "wins": 0,
+      "points": 72,
+      "percentage": 104.38,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St Joan of Arc RA",
+      "wins": 0,
+      "points": 58,
+      "percentage": 80.28,
+      "marker": "*"
+    },
+    {
+      "position": 6,
+      "team": "GPHC MLC",
+      "wins": 0,
+      "points": 14,
+      "percentage": 45.93,
+      "marker": "*"
+    }
+  ],
+  "section_code": "UA6-UA018",
+  "fixtures": 46,
+  "completed_fixtures": 43,
+  "draw_fixtures": 57,
+  "singles_rubbers": 172,
+  "doubles_rubbers": 86,
+  "latest_round": 16,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

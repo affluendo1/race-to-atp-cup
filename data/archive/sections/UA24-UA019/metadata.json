@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA24-UA019",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2019",
+  "season_id": "UA24",
+  "season_label": "Autumn 2019",
+  "source_section_code": "UA019",
+  "section_label": "Section 19",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Le Page",
+      "wins": 13,
+      "points": 123,
+      "percentage": 230.61,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Black Rock",
+      "wins": 12,
+      "points": 117,
+      "percentage": 208.44,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Highmoor Uniting",
+      "wins": 8,
+      "points": 80,
+      "percentage": 125.57,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Highett",
+      "wins": 7,
+      "points": 76,
+      "percentage": 110.15,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park 1",
+      "wins": 6,
+      "points": 66,
+      "percentage": 101.67,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC MLC",
+      "wins": 3,
+      "points": 42,
+      "percentage": 71.89,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 3,
+      "points": 37,
+      "percentage": 55.39,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park 2",
+      "wins": 0,
+      "points": 13,
+      "percentage": 26.8,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA24-UA019",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 59,
+  "singles_rubbers": 227,
+  "doubles_rubbers": 113,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

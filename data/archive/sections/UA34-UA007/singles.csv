@@ -1,0 +1,237 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA007011,04 Feb 24,1,St Andrews MB,St Pauls,No. 1,Max Looschilder,Isabella Li,Max Looschilder,6-1,6,1,1,0,Completed,true,false,false
+UA007011,04 Feb 24,1,St Andrews MB,St Pauls,No. 2,Mika Looschilder,Ronan Raulings,Mika Looschilder,6-1,6,1,1,0,Completed,true,false,false
+UA007011,04 Feb 24,1,St Andrews MB,St Pauls,No. 3,Hanna Langridge,Matthew Strupl,Hanna Langridge,6-4,6,4,1,0,Completed,true,false,false
+UA007011,04 Feb 24,1,St Andrews MB,St Pauls,No. 4,Jakob Misso,Dax Chen,Jakob Misso,6-4,6,4,1,0,Completed,true,false,false
+UA007012,04 Feb 24,1,Maccabi,Royal South Yarra,No. 1,Jesse Stowe-Lindner,William Jones,Jesse Stowe-Lindner,6-3,6,3,1,0,Completed,true,false,false
+UA007012,04 Feb 24,1,Maccabi,Royal South Yarra,No. 2,Jonah Stowe-Lindner,Will Steedman,Jonah Stowe-Lindner,7-6,7,6,1,0,Completed,true,false,false
+UA007012,04 Feb 24,1,Maccabi,Royal South Yarra,No. 3,Noam Werner,Tom Hayden,Tom Hayden,1-6,1,6,0,1,Completed,true,false,false
+UA007012,04 Feb 24,1,Maccabi,Royal South Yarra,No. 4,Jesse Lewis,Isabella Soutter,Jesse Lewis,6-3,6,3,1,0,Completed,true,false,false
+UA007013,04 Feb 24,1,GPHC,Mentone,No. 1,Ned Jeffreys,Robert Proudfoot,Robert Proudfoot,6-7,6,7,0,1,Completed,true,false,false
+UA007013,04 Feb 24,1,GPHC,Mentone,No. 2,Riley Bladeni,Lennox Carroll,Lennox Carroll,2-6,2,6,0,1,Completed,true,false,false
+UA007013,04 Feb 24,1,GPHC,Mentone,No. 3,Emmett Gatt,Tom Carroll,Tom Carroll,3-6,3,6,0,1,Completed,true,false,false
+UA007013,04 Feb 24,1,GPHC,Mentone,No. 4,Patrick Cassidy,Sol Louev,Patrick Cassidy,6-3,6,3,1,0,Completed,true,false,false
+UA007014,04 Feb 24,1,Caulfield Rec,Victory Park,No. 1,Ryan Belbaly,Peter Wu,Peter Wu,6-7,6,7,0,1,Completed,true,false,false
+UA007014,04 Feb 24,1,Caulfield Rec,Victory Park,No. 2,Pranav Arora,Jacob McVay,Pranav Arora,6-1,6,1,1,0,Completed,true,false,false
+UA007014,04 Feb 24,1,Caulfield Rec,Victory Park,No. 3,Adam Belbaly,Torin Hunter,Torin Hunter,2-6,2,6,0,1,Completed,true,false,false
+UA007014,04 Feb 24,1,Caulfield Rec,Victory Park,No. 4,William Yan,Cooper Neal,Cooper Neal,3-6,3,6,0,1,Completed,true,false,false
+UA007021,11 Feb 24,2,Victory Park,St Andrews MB,No. 1,Peter Wu,Max Looschilder,Max Looschilder,2-6,2,6,0,1,Completed,true,false,false
+UA007021,11 Feb 24,2,Victory Park,St Andrews MB,No. 2,Jacob McVay,Mika Looschilder,Jacob McVay,6-3,6,3,1,0,Completed,true,false,false
+UA007021,11 Feb 24,2,Victory Park,St Andrews MB,No. 3,Torin Hunter,Jakob Misso,Torin Hunter,6-4,6,4,1,0,Completed,true,false,false
+UA007021,11 Feb 24,2,Victory Park,St Andrews MB,No. 4,Elliott Collins,Bryar Jefford,Elliott Collins,6-2,6,2,1,0,Completed,true,false,false
+UA007022,11 Feb 24,2,St Pauls,Maccabi,No. 1,Isabella Li,Jesse Stowe-Lindner,Jesse Stowe-Lindner,2-6,2,6,0,1,Completed,true,false,false
+UA007022,11 Feb 24,2,St Pauls,Maccabi,No. 2,[Unnamed player — TROLS UA007022 home code 2],Jonah Stowe-Lindner,Jonah Stowe-Lindner,0-6,0,6,0,1,Completed,false,false,false
+UA007022,11 Feb 24,2,St Pauls,Maccabi,No. 3,Matthew Strupl,Noam Werner,Noam Werner,4-6,4,6,0,1,Completed,true,false,false
+UA007022,11 Feb 24,2,St Pauls,Maccabi,No. 4,Dax Chen,Jesse Lewis,Jesse Lewis,1-6,1,6,0,1,Completed,true,false,false
+UA007023,11 Feb 24,2,Royal South Yarra,GPHC,No. 1,William Jones,Ned Jeffreys,William Jones,6-2,6,2,1,0,Completed,true,false,false
+UA007023,11 Feb 24,2,Royal South Yarra,GPHC,No. 2,Tom Hayden,Thomas Robertson-Brown,Thomas Robertson-Brown,4-6,4,6,0,1,Completed,true,false,false
+UA007023,11 Feb 24,2,Royal South Yarra,GPHC,No. 3,Louis Holuigue,Emmett Gatt,Louis Holuigue,6-1,6,1,1,0,Completed,true,false,false
+UA007023,11 Feb 24,2,Royal South Yarra,GPHC,No. 4,Charlie Hucker,Hunter Gatt,Charlie Hucker,6-0,6,0,1,0,Completed,true,true,true
+UA007024,11 Feb 24,2,Mentone,Caulfield Rec,No. 1,Robert Proudfoot,Ryan Belbaly,Ryan Belbaly,2-6,2,6,0,1,Completed,true,false,false
+UA007024,11 Feb 24,2,Mentone,Caulfield Rec,No. 2,Lennox Carroll,Pranav Arora,Lennox Carroll,7-5,7,5,1,0,Completed,true,false,false
+UA007024,11 Feb 24,2,Mentone,Caulfield Rec,No. 3,Tom Carroll,Adam Belbaly,Tom Carroll,6-1,6,1,1,0,Completed,true,false,false
+UA007024,11 Feb 24,2,Mentone,Caulfield Rec,No. 4,Sol Louev,Danielius Buividas,Sol Louev,6-3,6,3,1,0,Completed,true,false,false
+UA007031,18 Feb 24,3,St Andrews MB,Mentone,No. 1,Mika Looschilder,Jack Robinson,Jack Robinson,6-7,6,7,0,1,Completed,true,false,false
+UA007031,18 Feb 24,3,St Andrews MB,Mentone,No. 2,Hanna Langridge,Alex Cao,Hanna Langridge,6-2,6,2,1,0,Completed,true,false,false
+UA007031,18 Feb 24,3,St Andrews MB,Mentone,No. 3,Jakob Misso,Lennox Carroll,Lennox Carroll,6-7,6,7,0,1,Completed,true,false,false
+UA007031,18 Feb 24,3,St Andrews MB,Mentone,No. 4,Bryar Jefford,Tom Carroll,Tom Carroll,1-6,1,6,0,1,Completed,true,false,false
+UA007032,18 Feb 24,3,Maccabi,Victory Park,No. 1,Jesse Stowe-Lindner,Jacob McVay,Jesse Stowe-Lindner,6-3,6,3,1,0,Completed,true,false,false
+UA007032,18 Feb 24,3,Maccabi,Victory Park,No. 2,Jonah Stowe-Lindner,Torin Hunter,Jonah Stowe-Lindner,6-4,6,4,1,0,Completed,true,false,false
+UA007032,18 Feb 24,3,Maccabi,Victory Park,No. 3,Noam Werner,Cooper Neal,Noam Werner,6-3,6,3,1,0,Completed,true,false,false
+UA007032,18 Feb 24,3,Maccabi,Victory Park,No. 4,Gabriel Raboy,Elliott Collins,Gabriel Raboy,6-0,6,0,1,0,Completed,true,false,false
+UA007033,18 Feb 24,3,GPHC,St Pauls,No. 1,Riley Bladeni,Isabella Li,Riley Bladeni,7-6,7,6,1,0,Completed,true,false,false
+UA007033,18 Feb 24,3,GPHC,St Pauls,No. 2,Thomas Robertson-Brown,Ronan Raulings,Thomas Robertson-Brown,6-2,6,2,1,0,Completed,true,false,false
+UA007033,18 Feb 24,3,GPHC,St Pauls,No. 3,Patrick Cassidy,Matthew Strupl,Patrick Cassidy,6-3,6,3,1,0,Completed,true,false,false
+UA007033,18 Feb 24,3,GPHC,St Pauls,No. 4,Leo De Luca,Dax Chen,Leo De Luca,6-1,6,1,1,0,Completed,true,false,false
+UA007034,18 Feb 24,3,Caulfield Rec,Royal South Yarra,No. 1,Ryan Belbaly,William Jones,Ryan Belbaly,6-3,6,3,1,0,Completed,true,false,false
+UA007034,18 Feb 24,3,Caulfield Rec,Royal South Yarra,No. 2,Pranav Arora,Will Steedman,Will Steedman,5-7,5,7,0,1,Completed,true,false,false
+UA007034,18 Feb 24,3,Caulfield Rec,Royal South Yarra,No. 3,Danielius Buividas,Tom Hayden,Tom Hayden,0-6,0,6,0,1,Completed,true,false,false
+UA007034,18 Feb 24,3,Caulfield Rec,Royal South Yarra,No. 4,William Yan,Isabella Soutter,William Yan,6-3,6,3,1,0,Completed,true,false,false
+UA007041,25 Feb 24,4,Royal South Yarra,St Andrews MB,No. 1,William Jones,Max Looschilder,Max Looschilder,0-6,0,6,0,1,Completed,true,false,false
+UA007041,25 Feb 24,4,Royal South Yarra,St Andrews MB,No. 2,Will Steedman,Hanna Langridge,Will Steedman,6-3,6,3,1,0,Completed,true,false,false
+UA007041,25 Feb 24,4,Royal South Yarra,St Andrews MB,No. 3,Louis Holuigue,Jakob Misso,Jakob Misso,5-7,5,7,0,1,Completed,true,false,false
+UA007041,25 Feb 24,4,Royal South Yarra,St Andrews MB,No. 4,Isabella Soutter,Bryar Jefford,Isabella Soutter,6-3,6,3,1,0,Completed,true,false,false
+UA007042,25 Feb 24,4,Mentone,Maccabi,No. 1,Alex Cao,Jesse Stowe-Lindner,Jesse Stowe-Lindner,2-6,2,6,0,1,Completed,true,false,false
+UA007042,25 Feb 24,4,Mentone,Maccabi,No. 2,Robert Proudfoot,Jonah Stowe-Lindner,Jonah Stowe-Lindner,6-7,6,7,0,1,Completed,true,false,false
+UA007042,25 Feb 24,4,Mentone,Maccabi,No. 3,Lennox Carroll,Jesse Lewis,Lennox Carroll,6-3,6,3,1,0,Completed,true,false,false
+UA007042,25 Feb 24,4,Mentone,Maccabi,No. 4,Tom Carroll,Gabriel Raboy,Gabriel Raboy,4-6,4,6,0,1,Completed,true,false,false
+UA007043,25 Feb 24,4,Victory Park,GPHC,No. 1,Peter Wu,Ned Jeffreys,Peter Wu,7-5,7,5,1,0,Completed,true,false,false
+UA007043,25 Feb 24,4,Victory Park,GPHC,No. 2,Torin Hunter,Riley Bladeni,Torin Hunter,6-1,6,1,1,0,Completed,true,false,false
+UA007043,25 Feb 24,4,Victory Park,GPHC,No. 3,Cooper Neal,Thomas Robertson-Brown,Thomas Robertson-Brown,3-6,3,6,0,1,Completed,true,false,false
+UA007043,25 Feb 24,4,Victory Park,GPHC,No. 4,Elliott Collins,Patrick Cassidy,Patrick Cassidy,1-6,1,6,0,1,Completed,true,false,false
+UA007044,25 Feb 24,4,St Pauls,Caulfield Rec,No. 1,Isabella Li,Ryan Belbaly,Ryan Belbaly,0-6,0,6,0,1,Completed,true,false,false
+UA007044,25 Feb 24,4,St Pauls,Caulfield Rec,No. 2,[Unnamed player — TROLS UA007044 home code 2],Adam Belbaly,Adam Belbaly,1-6,1,6,0,1,Completed,false,false,false
+UA007044,25 Feb 24,4,St Pauls,Caulfield Rec,No. 3,Matthew Strupl,Danielius Buividas,Danielius Buividas,4-6,4,6,0,1,Completed,true,false,false
+UA007044,25 Feb 24,4,St Pauls,Caulfield Rec,No. 4,Dax Chen,William Yan,William Yan,2-6,2,6,0,1,Completed,true,false,false
+UA007051,03 Mar 24,5,GPHC,Caulfield Rec,No. 1,Ned Jeffreys,Pranav Arora,Pranav Arora,2-6,2,6,0,1,Completed,true,false,false
+UA007051,03 Mar 24,5,GPHC,Caulfield Rec,No. 2,Thomas Robertson-Brown,Adam Belbaly,Thomas Robertson-Brown,6-4,6,4,1,0,Completed,true,false,false
+UA007051,03 Mar 24,5,GPHC,Caulfield Rec,No. 3,Emmett Gatt,Danielius Buividas,Emmett Gatt,6-1,6,1,1,0,Completed,true,false,false
+UA007051,03 Mar 24,5,GPHC,Caulfield Rec,No. 4,Patrick Cassidy,William Yan,Patrick Cassidy,6-1,6,1,1,0,Completed,true,false,false
+UA007052,03 Mar 24,5,Victory Park,Mentone,No. 1,Peter Wu,Robert Proudfoot,Peter Wu,6-4,6,4,1,0,Completed,true,false,false
+UA007052,03 Mar 24,5,Victory Park,Mentone,No. 2,Jacob McVay,Lennox Carroll,Lennox Carroll,1-6,1,6,0,1,Completed,true,false,false
+UA007052,03 Mar 24,5,Victory Park,Mentone,No. 3,Torin Hunter,Tom Carroll,Torin Hunter,6-3,6,3,1,0,Completed,true,false,false
+UA007052,03 Mar 24,5,Victory Park,Mentone,No. 4,Cooper Neal,Sol Louev,Sol Louev,3-6,3,6,0,1,Completed,true,false,false
+UA007053,03 Mar 24,5,Royal South Yarra,St Pauls,No. 1,Tom Hayden,Isabella Li,Tom Hayden,6-2,6,2,1,0,Completed,true,false,false
+UA007053,03 Mar 24,5,Royal South Yarra,St Pauls,No. 2,Will Steedman,Ronan Raulings,Will Steedman,6-1,6,1,1,0,Completed,true,false,false
+UA007053,03 Mar 24,5,Royal South Yarra,St Pauls,No. 3,Louis Holuigue,Matthew Strupl,Louis Holuigue,6-4,6,4,1,0,Completed,true,false,false
+UA007053,03 Mar 24,5,Royal South Yarra,St Pauls,No. 4,Isabella Soutter,Dax Chen,Isabella Soutter,6-0,6,0,1,0,Completed,true,false,false
+UA007054,03 Mar 24,5,St Andrews MB,Maccabi,No. 1,Max Looschilder,Jonah Stowe-Lindner,Max Looschilder,6-3,6,3,1,0,Completed,true,false,false
+UA007054,03 Mar 24,5,St Andrews MB,Maccabi,No. 2,Mika Looschilder,Noam Werner,Mika Looschilder,6-3,6,3,1,0,Completed,true,false,false
+UA007054,03 Mar 24,5,St Andrews MB,Maccabi,No. 3,Hanna Langridge,Jesse Lewis,Hanna Langridge,6-4,6,4,1,0,Completed,true,false,false
+UA007054,03 Mar 24,5,St Andrews MB,Maccabi,No. 4,Jakob Misso,Gabriel Raboy,Jakob Misso,6-3,6,3,1,0,Completed,true,false,false
+UA007061,17 Mar 24,6,Maccabi,GPHC,No. 1,Jesse Stowe-Lindner,Ned Jeffreys,Jesse Stowe-Lindner,6-4,6,4,1,0,Completed,true,false,false
+UA007061,17 Mar 24,6,Maccabi,GPHC,No. 2,Jonah Stowe-Lindner,Riley Bladeni,Riley Bladeni,2-6,2,6,0,1,Completed,true,false,false
+UA007061,17 Mar 24,6,Maccabi,GPHC,No. 3,Jesse Lewis,Thomas Robertson-Brown,Thomas Robertson-Brown,1-6,1,6,0,1,Completed,true,false,false
+UA007061,17 Mar 24,6,Maccabi,GPHC,No. 4,Gabriel Raboy,Emmett Gatt,Emmett Gatt,2-6,2,6,0,1,Completed,true,false,false
+UA007062,17 Mar 24,6,Caulfield Rec,St Andrews MB,No. 1,Ryan Belbaly,Max Looschilder,Max Looschilder,2-6,2,6,0,1,Completed,true,false,false
+UA007062,17 Mar 24,6,Caulfield Rec,St Andrews MB,No. 2,Pranav Arora,Mika Looschilder,Pranav Arora,6-4,6,4,1,0,Completed,true,false,false
+UA007062,17 Mar 24,6,Caulfield Rec,St Andrews MB,No. 3,Adam Belbaly,Jakob Misso,Adam Belbaly,7-6,7,6,1,0,Completed,true,false,false
+UA007062,17 Mar 24,6,Caulfield Rec,St Andrews MB,No. 4,Danielius Buividas,Bryar Jefford,Danielius Buividas,6-0,6,0,1,0,Completed,true,false,false
+UA007063,17 Mar 24,6,Mentone,Royal South Yarra,No. 1,Jack Robinson,Tom Hayden,Tom Hayden,2-6,2,6,0,1,Completed,true,false,false
+UA007063,17 Mar 24,6,Mentone,Royal South Yarra,No. 2,Alex Cao,Will Steedman,Will Steedman,4-6,4,6,0,1,Completed,true,false,false
+UA007063,17 Mar 24,6,Mentone,Royal South Yarra,No. 3,Robert Proudfoot,Louis Holuigue,Robert Proudfoot,6-1,6,1,1,0,Completed,true,false,false
+UA007063,17 Mar 24,6,Mentone,Royal South Yarra,No. 4,Sol Louev,[Unnamed player — TROLS UA007063 away code 4],Sol Louev,6-0,6,0,1,0,Completed,false,false,false
+UA007064,17 Mar 24,6,St Pauls,Victory Park,No. 1,Isabella Li,Peter Wu,Isabella Li,6-2,6,2,1,0,Completed,true,false,false
+UA007064,17 Mar 24,6,St Pauls,Victory Park,No. 2,Ronan Raulings,Jacob McVay,Jacob McVay,0-6,0,6,0,1,Completed,true,false,false
+UA007064,17 Mar 24,6,St Pauls,Victory Park,No. 3,Matthew Strupl,Torin Hunter,Torin Hunter,2-6,2,6,0,1,Completed,true,false,false
+UA007064,17 Mar 24,6,St Pauls,Victory Park,No. 4,Dax Chen,Cooper Neal,Cooper Neal,0-6,0,6,0,1,Completed,true,false,false
+UA007071,24 Mar 24,7,St Andrews MB,GPHC,No. 1,Hanna Langridge,Ned Jeffreys,Hanna Langridge,6-3,6,3,1,0,Completed,true,false,false
+UA007071,24 Mar 24,7,St Andrews MB,GPHC,No. 2,Jakob Misso,Riley Bladeni,Riley Bladeni,4-6,4,6,0,1,Completed,true,false,false
+UA007071,24 Mar 24,7,St Andrews MB,GPHC,No. 3,Alex Misso,Thomas Robertson-Brown,Thomas Robertson-Brown,2-6,2,6,0,1,Completed,true,true,false
+UA007071,24 Mar 24,7,St Andrews MB,GPHC,No. 4,Ollie Steel,Eli Jeffreys,Eli Jeffreys,0-6,0,6,0,1,Completed,true,true,true
+UA007072,24 Mar 24,7,Maccabi,Caulfield Rec,No. 1,Jesse Stowe-Lindner,Ryan Belbaly,Jesse Stowe-Lindner,6-1,6,1,1,0,Completed,true,false,false
+UA007072,24 Mar 24,7,Maccabi,Caulfield Rec,No. 2,Jonah Stowe-Lindner,Adam Belbaly,Jonah Stowe-Lindner,6-3,6,3,1,0,Completed,true,false,false
+UA007072,24 Mar 24,7,Maccabi,Caulfield Rec,No. 3,Jesse Lewis,Danielius Buividas,Jesse Lewis,6-2,6,2,1,0,Completed,true,false,false
+UA007072,24 Mar 24,7,Maccabi,Caulfield Rec,No. 4,Gabriel Raboy,William Yan,William Yan,4-6,4,6,0,1,Completed,true,false,false
+UA007073,24 Mar 24,7,Victory Park,Royal South Yarra,No. 1,Peter Wu,Tom Hayden,Tom Hayden,1-6,1,6,0,1,Completed,true,false,false
+UA007073,24 Mar 24,7,Victory Park,Royal South Yarra,No. 2,Jacob McVay,William Jones,William Jones,4-6,4,6,0,1,Completed,true,false,false
+UA007073,24 Mar 24,7,Victory Park,Royal South Yarra,No. 3,Torin Hunter,Will Steedman,Torin Hunter,6-4,6,4,1,0,Completed,true,false,false
+UA007073,24 Mar 24,7,Victory Park,Royal South Yarra,No. 4,Cooper Neal,Louis Holuigue,Cooper Neal,6-1,6,1,1,0,Completed,true,false,false
+UA007074,24 Mar 24,7,Mentone,St Pauls,No. 1,Lennox Carroll,David Glamkrandy,Lennox Carroll,6-0,6,0,1,0,Completed,true,false,true
+UA007074,24 Mar 24,7,Mentone,St Pauls,No. 2,Tom Carroll,Matthew Strupl,Tom Carroll,6-1,6,1,1,0,Completed,true,false,false
+UA007074,24 Mar 24,7,Mentone,St Pauls,No. 3,Jack Robinson,Dax Chen,Jack Robinson,6-4,6,4,1,0,Completed,true,false,false
+UA007074,24 Mar 24,7,Mentone,St Pauls,No. 4,Sol Louev,Thomas Jenner,Sol Louev,6-3,6,3,1,0,Completed,true,false,true
+UA007081,21 Apr 24,8,St Pauls,St Andrews MB,No. 1,Isabella Li,Mika Looschilder,Mika Looschilder,2-6,2,6,0,1,Completed,true,false,false
+UA007081,21 Apr 24,8,St Pauls,St Andrews MB,No. 2,Ronan Raulings,Hanna Langridge,Ronan Raulings,6-4,6,4,1,0,Completed,true,false,false
+UA007081,21 Apr 24,8,St Pauls,St Andrews MB,No. 3,Matthew Strupl,Jakob Misso,Jakob Misso,2-6,2,6,0,1,Completed,true,false,false
+UA007081,21 Apr 24,8,St Pauls,St Andrews MB,No. 4,Dax Chen,Bryar Jefford,Dax Chen,6-4,6,4,1,0,Completed,true,false,false
+UA007082,21 Apr 24,8,Royal South Yarra,Maccabi,No. 1,Tom Hayden,Jesse Stowe-Lindner,Tom Hayden,6-2,6,2,1,0,Completed,true,false,false
+UA007082,21 Apr 24,8,Royal South Yarra,Maccabi,No. 2,Will Steedman,Jonah Stowe-Lindner,Jonah Stowe-Lindner,1-6,1,6,0,1,Completed,true,false,false
+UA007082,21 Apr 24,8,Royal South Yarra,Maccabi,No. 3,Louis Holuigue,Jesse Lewis,Jesse Lewis,4-6,4,6,0,1,Completed,true,false,false
+UA007082,21 Apr 24,8,Royal South Yarra,Maccabi,No. 4,Isabella Soutter,Gabriel Raboy,Gabriel Raboy,4-6,4,6,0,1,Completed,true,false,false
+UA007083,21 Apr 24,8,Mentone,GPHC,No. 1,Lennox Carroll,Riley Bladeni,Lennox Carroll,6-3,6,3,1,0,Completed,true,false,false
+UA007083,21 Apr 24,8,Mentone,GPHC,No. 2,Tom Carroll,Emmett Gatt,Tom Carroll,6-2,6,2,1,0,Completed,true,false,false
+UA007083,21 Apr 24,8,Mentone,GPHC,No. 3,Robert Proudfoot,[Unnamed player — TROLS UA007083 away code 3],Robert Proudfoot,6-0,6,0,1,0,Completed,false,false,false
+UA007083,21 Apr 24,8,Mentone,GPHC,No. 4,Sol Louev,Leo De Luca,Sol Louev,6-1,6,1,1,0,Completed,true,false,false
+UA007084,21 Apr 24,8,Victory Park,Caulfield Rec,No. 1,Ren Nagayama,Pranav Arora,Pranav Arora,1-6,1,6,0,1,Completed,true,false,false
+UA007084,21 Apr 24,8,Victory Park,Caulfield Rec,No. 2,Peter Wu,Adam Belbaly,Peter Wu,6-3,6,3,1,0,Completed,true,false,false
+UA007084,21 Apr 24,8,Victory Park,Caulfield Rec,No. 3,Torin Hunter,Danielius Buividas,Torin Hunter,6-1,6,1,1,0,Completed,true,false,false
+UA007084,21 Apr 24,8,Victory Park,Caulfield Rec,No. 4,Cooper Neal,William Yan,Cooper Neal,7-5,7,5,1,0,Completed,true,false,false
+UA007091,28 Apr 24,9,St Andrews MB,Victory Park,No. 1,Max Looschilder,Ren Nagayama,Max Looschilder,6-3,6,3,1,0,Completed,true,false,false
+UA007091,28 Apr 24,9,St Andrews MB,Victory Park,No. 2,Hanna Langridge,Peter Wu,Peter Wu,0-6,0,6,0,1,Completed,true,false,false
+UA007091,28 Apr 24,9,St Andrews MB,Victory Park,No. 3,Jakob Misso,Jacob McVay,Jakob Misso,6-0,6,0,1,0,Completed,true,false,false
+UA007091,28 Apr 24,9,St Andrews MB,Victory Park,No. 4,Bryar Jefford,Elliott Collins,Bryar Jefford,7-6,7,6,1,0,Completed,true,false,false
+UA007092,28 Apr 24,9,Maccabi,St Pauls,No. 1,[Unnamed player — TROLS UA007092 home code 1],Isabella Li,Isabella Li,0-6,0,6,0,1,Completed,false,false,false
+UA007092,28 Apr 24,9,Maccabi,St Pauls,No. 2,Noam Werner,Matthew Strupl,Noam Werner,6-1,6,1,1,0,Completed,true,false,false
+UA007092,28 Apr 24,9,Maccabi,St Pauls,No. 3,Jesse Lewis,Dax Chen,Jesse Lewis,6-0,6,0,1,0,Completed,true,false,false
+UA007092,28 Apr 24,9,Maccabi,St Pauls,No. 4,Gabriel Raboy,Matthew Cashmore,Gabriel Raboy,6-2,6,2,1,0,Completed,true,false,true
+UA007093,28 Apr 24,9,GPHC,Royal South Yarra,No. 1,Ned Jeffreys,Tom Hayden,Tom Hayden,2-6,2,6,0,1,Completed,true,false,false
+UA007093,28 Apr 24,9,GPHC,Royal South Yarra,No. 2,Riley Bladeni,Will Steedman,Riley Bladeni,6-1,6,1,1,0,Completed,true,false,false
+UA007093,28 Apr 24,9,GPHC,Royal South Yarra,No. 3,Thomas Robertson-Brown,Isabella Soutter,Thomas Robertson-Brown,6-1,6,1,1,0,Completed,true,false,false
+UA007093,28 Apr 24,9,GPHC,Royal South Yarra,No. 4,Patrick Cassidy,Hugh Maloney,Patrick Cassidy,6-0,6,0,1,0,Completed,true,false,true
+UA007094,28 Apr 24,9,Caulfield Rec,Mentone,No. 1,Ryan Belbaly,Tom Carroll,Ryan Belbaly,6-2,6,2,1,0,Completed,true,false,false
+UA007094,28 Apr 24,9,Caulfield Rec,Mentone,No. 2,Adam Belbaly,Robert Proudfoot,Adam Belbaly,7-5,7,5,1,0,Completed,true,false,false
+UA007094,28 Apr 24,9,Caulfield Rec,Mentone,No. 3,Danielius Buividas,Alex Cao,Alex Cao,4-6,4,6,0,1,Completed,true,false,false
+UA007094,28 Apr 24,9,Caulfield Rec,Mentone,No. 4,William Yan,Sol Louev,Sol Louev,1-6,1,6,0,1,Completed,true,false,false
+UA007101,05 May 24,10,Mentone,St Andrews MB,No. 1,Lennox Carroll,Mika Looschilder,Mika Looschilder,6-7,6,7,0,1,Completed,true,false,false
+UA007101,05 May 24,10,Mentone,St Andrews MB,No. 2,Tom Carroll,Hanna Langridge,Tom Carroll,6-1,6,1,1,0,Completed,true,false,false
+UA007101,05 May 24,10,Mentone,St Andrews MB,No. 3,Jack Robinson,Jakob Misso,Jack Robinson,6-4,6,4,1,0,Completed,true,false,false
+UA007101,05 May 24,10,Mentone,St Andrews MB,No. 4,Alex Cao,Bryar Jefford,Alex Cao,6-2,6,2,1,0,Completed,true,false,false
+UA007102,05 May 24,10,Victory Park,Maccabi,No. 1,Ren Nagayama,Jesse Stowe-Lindner,Jesse Stowe-Lindner,6-7,6,7,0,1,Completed,true,false,false
+UA007102,05 May 24,10,Victory Park,Maccabi,No. 2,Peter Wu,Noam Werner,Peter Wu,6-4,6,4,1,0,Completed,true,false,false
+UA007102,05 May 24,10,Victory Park,Maccabi,No. 3,Torin Hunter,Jesse Lewis,Torin Hunter,6-0,6,0,1,0,Completed,true,false,false
+UA007102,05 May 24,10,Victory Park,Maccabi,No. 4,Cooper Neal,Gabriel Raboy,Gabriel Raboy,3-6,3,6,0,1,Completed,true,false,false
+UA007103,05 May 24,10,St Pauls,GPHC,No. 1,Isabella Li,Riley Bladeni,Riley Bladeni,4-6,4,6,0,1,Completed,true,false,false
+UA007103,05 May 24,10,St Pauls,GPHC,No. 2,Ronan Raulings,Thomas Robertson-Brown,Thomas Robertson-Brown,4-6,4,6,0,1,Completed,true,false,false
+UA007103,05 May 24,10,St Pauls,GPHC,No. 3,Matthew Strupl,Emmett Gatt,Emmett Gatt,4-6,4,6,0,1,Completed,true,false,false
+UA007103,05 May 24,10,St Pauls,GPHC,No. 4,Dax Chen,Patrick Cassidy,Patrick Cassidy,0-6,0,6,0,1,Completed,true,false,false
+UA007104,05 May 24,10,Royal South Yarra,Caulfield Rec,No. 1,Will Steedman,Ryan Belbaly,Ryan Belbaly,2-6,2,6,0,1,Completed,true,false,false
+UA007104,05 May 24,10,Royal South Yarra,Caulfield Rec,No. 2,Louis Holuigue,Pranav Arora,Pranav Arora,1-6,1,6,0,1,Completed,true,false,false
+UA007104,05 May 24,10,Royal South Yarra,Caulfield Rec,No. 3,Isabella Soutter,Danielius Buividas,Danielius Buividas,4-6,4,6,0,1,Completed,true,false,false
+UA007104,05 May 24,10,Royal South Yarra,Caulfield Rec,No. 4,Eddie May Trent,William Yan,William Yan,3-6,3,6,0,1,Completed,true,false,false
+UA007111,12 May 24,11,St Andrews MB,Royal South Yarra,No. 1,Max Looschilder,Tom Hayden,Max Looschilder,7-6,7,6,1,0,Completed,true,false,false
+UA007111,12 May 24,11,St Andrews MB,Royal South Yarra,No. 2,Mika Looschilder,William Jones,Mika Looschilder,6-0,6,0,1,0,Completed,true,false,false
+UA007111,12 May 24,11,St Andrews MB,Royal South Yarra,No. 3,Hanna Langridge,Louis Holuigue,Hanna Langridge,6-1,6,1,1,0,Completed,true,false,false
+UA007111,12 May 24,11,St Andrews MB,Royal South Yarra,No. 4,Bryar Jefford,Eddie May Trent,Eddie May Trent,3-6,3,6,0,1,Completed,true,false,false
+UA007112,12 May 24,11,Maccabi,Mentone,No. 1,Jesse Stowe-Lindner,Jack Robinson,Jesse Stowe-Lindner,6-2,6,2,1,0,Completed,true,false,false
+UA007112,12 May 24,11,Maccabi,Mentone,No. 2,Jonah Stowe-Lindner,Robert Proudfoot,Robert Proudfoot,6-7,6,7,0,1,Completed,true,false,false
+UA007112,12 May 24,11,Maccabi,Mentone,No. 3,Jesse Lewis,Alex Cao,Jesse Lewis,6-1,6,1,1,0,Completed,true,false,false
+UA007112,12 May 24,11,Maccabi,Mentone,No. 4,Gabriel Raboy,Sol Louev,Sol Louev,3-6,3,6,0,1,Completed,true,false,false
+UA007113,12 May 24,11,GPHC,Victory Park,No. 1,Ned Jeffreys,Ren Nagayama,Ren Nagayama,3-6,3,6,0,1,Completed,true,false,false
+UA007113,12 May 24,11,GPHC,Victory Park,No. 2,Thomas Robertson-Brown,Peter Wu,Thomas Robertson-Brown,6-2,6,2,1,0,Completed,true,false,false
+UA007113,12 May 24,11,GPHC,Victory Park,No. 3,Emmett Gatt,Torin Hunter,Torin Hunter,1-6,1,6,0,1,Completed,true,false,false
+UA007113,12 May 24,11,GPHC,Victory Park,No. 4,Patrick Cassidy,Cooper Neal,Patrick Cassidy,6-3,6,3,1,0,Completed,true,false,false
+UA007114,12 May 24,11,Caulfield Rec,St Pauls,No. 1,Ryan Belbaly,Ryan Quach,Ryan Belbaly,6-4,6,4,1,0,Completed,true,false,false
+UA007114,12 May 24,11,Caulfield Rec,St Pauls,No. 2,Pranav Arora,Isabella Li,Pranav Arora,6-3,6,3,1,0,Completed,true,false,false
+UA007114,12 May 24,11,Caulfield Rec,St Pauls,No. 3,Adam Belbaly,Matthew Strupl,Matthew Strupl,3-6,3,6,0,1,Completed,true,false,false
+UA007114,12 May 24,11,Caulfield Rec,St Pauls,No. 4,Danielius Buividas,Dax Chen,Danielius Buividas,6-3,6,3,1,0,Completed,true,false,false
+UA007121,19 May 24,12,Caulfield Rec,GPHC,No. 1,Ryan Belbaly,Ned Jeffreys,Ryan Belbaly,6-2,6,2,1,0,Completed,true,false,false
+UA007121,19 May 24,12,Caulfield Rec,GPHC,No. 2,Pranav Arora,Riley Bladeni,Pranav Arora,6-3,6,3,1,0,Completed,true,false,false
+UA007121,19 May 24,12,Caulfield Rec,GPHC,No. 3,Adam Belbaly,Thomas Robertson-Brown,Adam Belbaly,6-2,6,2,1,0,Completed,true,false,false
+UA007121,19 May 24,12,Caulfield Rec,GPHC,No. 4,William Yan,Leo De Luca,Leo De Luca,4-6,4,6,0,1,Completed,true,false,false
+UA007122,19 May 24,12,Mentone,Victory Park,No. 1,Tom Carroll,Ren Nagayama,Tom Carroll,6-1,6,1,1,0,Completed,true,false,false
+UA007122,19 May 24,12,Mentone,Victory Park,No. 2,Robert Proudfoot,Peter Wu,Robert Proudfoot,6-4,6,4,1,0,Completed,true,false,false
+UA007122,19 May 24,12,Mentone,Victory Park,No. 3,Jack Robinson,Jacob McVay,Jacob McVay,0-6,0,6,0,1,Completed,true,false,false
+UA007122,19 May 24,12,Mentone,Victory Park,No. 4,Sol Louev,Cooper Neal,Sol Louev,6-3,6,3,1,0,Completed,true,false,false
+UA007123,19 May 24,12,St Pauls,Royal South Yarra,No. 1,Isabella Li,William Jones,Isabella Li,6-0,6,0,1,0,Completed,true,false,false
+UA007123,19 May 24,12,St Pauls,Royal South Yarra,No. 2,Ronan Raulings,Louis Holuigue,Ronan Raulings,7-6,7,6,1,0,Completed,true,false,false
+UA007123,19 May 24,12,St Pauls,Royal South Yarra,No. 3,Matthew Strupl,Isabella Soutter,Isabella Soutter,0-6,0,6,0,1,Completed,true,false,false
+UA007123,19 May 24,12,St Pauls,Royal South Yarra,No. 4,Dax Chen,Eddie May Trent,Eddie May Trent,3-6,3,6,0,1,Completed,true,false,false
+UA007124,19 May 24,12,Maccabi,St Andrews MB,No. 1,Jesse Stowe-Lindner,Max Looschilder,Max Looschilder,1-6,1,6,0,1,Completed,true,false,false
+UA007124,19 May 24,12,Maccabi,St Andrews MB,No. 2,Jonah Stowe-Lindner,Mika Looschilder,Jonah Stowe-Lindner,7-5,7,5,1,0,Completed,true,false,false
+UA007124,19 May 24,12,Maccabi,St Andrews MB,No. 3,Jesse Lewis,Hanna Langridge,Jesse Lewis,6-2,6,2,1,0,Completed,true,false,false
+UA007124,19 May 24,12,Maccabi,St Andrews MB,No. 4,Gabriel Raboy,Jakob Misso,Gabriel Raboy,6-4,6,4,1,0,Completed,true,false,false
+UA007131,26 May 24,13,GPHC,Maccabi,No. 1,Riley Bladeni,Jesse Stowe-Lindner,Riley Bladeni,6-4,6,4,1,0,Completed,true,false,false
+UA007131,26 May 24,13,GPHC,Maccabi,No. 2,Emmett Gatt,Jonah Stowe-Lindner,Jonah Stowe-Lindner,0-6,0,6,0,1,Completed,true,false,false
+UA007131,26 May 24,13,GPHC,Maccabi,No. 3,Patrick Cassidy,Jesse Lewis,Patrick Cassidy,6-4,6,4,1,0,Completed,true,false,false
+UA007131,26 May 24,13,GPHC,Maccabi,No. 4,Leo De Luca,Gabriel Raboy,Gabriel Raboy,6-7,6,7,0,1,Completed,true,false,false
+UA007132,26 May 24,13,St Andrews MB,Caulfield Rec,No. 1,Max Looschilder,Pranav Arora,Max Looschilder,6-2,6,2,1,0,Completed,true,false,false
+UA007132,26 May 24,13,St Andrews MB,Caulfield Rec,No. 2,Mika Looschilder,Danielius Buividas,Mika Looschilder,6-0,6,0,1,0,Completed,true,false,false
+UA007132,26 May 24,13,St Andrews MB,Caulfield Rec,No. 3,Jakob Misso,William Yan,Jakob Misso,6-2,6,2,1,0,Completed,true,false,false
+UA007132,26 May 24,13,St Andrews MB,Caulfield Rec,No. 4,Bryar Jefford,Jayden Josevski,Bryar Jefford,6-3,6,3,1,0,Completed,true,false,true
+UA007133,26 May 24,13,Royal South Yarra,Mentone,No. 1,William Jones,Tom Carroll,Tom Carroll,2-6,2,6,0,1,Completed,true,false,false
+UA007133,26 May 24,13,Royal South Yarra,Mentone,No. 2,Will Steedman,Jack Robinson,Will Steedman,6-2,6,2,1,0,Completed,true,false,false
+UA007133,26 May 24,13,Royal South Yarra,Mentone,No. 3,Isabella Soutter,Robert Proudfoot,Isabella Soutter,6-3,6,3,1,0,Completed,true,false,false
+UA007133,26 May 24,13,Royal South Yarra,Mentone,No. 4,Eddie May Trent,Chase Graham,Eddie May Trent,6-3,6,3,1,0,Completed,true,false,true
+UA007134,26 May 24,13,Victory Park,St Pauls,No. 1,Peter Wu,Isabella Li,Isabella Li,3-6,3,6,0,1,Completed,true,false,false
+UA007134,26 May 24,13,Victory Park,St Pauls,No. 2,Jacob McVay,Matthew Strupl,Jacob McVay,7-6,7,6,1,0,Completed,true,false,false
+UA007134,26 May 24,13,Victory Park,St Pauls,No. 3,Torin Hunter,Dax Chen,Torin Hunter,6-0,6,0,1,0,Completed,true,false,false
+UA007134,26 May 24,13,Victory Park,St Pauls,No. 4,Cooper Neal,Thomas Jenner,Cooper Neal,6-1,6,1,1,0,Completed,true,false,true
+UA007141,02 Jun 24,14,GPHC,St Andrews MB,No. 1,Ned Jeffreys,Max Looschilder,Max Looschilder,1-6,1,6,0,1,Completed,true,false,false
+UA007141,02 Jun 24,14,GPHC,St Andrews MB,No. 2,Riley Bladeni,Hanna Langridge,Riley Bladeni,6-1,6,1,1,0,Completed,true,false,false
+UA007141,02 Jun 24,14,GPHC,St Andrews MB,No. 3,Thomas Robertson-Brown,Jakob Misso,Thomas Robertson-Brown,6-0,6,0,1,0,Completed,true,false,false
+UA007141,02 Jun 24,14,GPHC,St Andrews MB,No. 4,Patrick Cassidy,Bryar Jefford,Patrick Cassidy,6-0,6,0,1,0,Completed,true,false,false
+UA007142,02 Jun 24,14,Caulfield Rec,Maccabi,No. 1,Pranav Arora,Jesse Stowe-Lindner,Pranav Arora,6-4,6,4,1,0,Completed,true,false,false
+UA007142,02 Jun 24,14,Caulfield Rec,Maccabi,No. 2,Danielius Buividas,Jonah Stowe-Lindner,Jonah Stowe-Lindner,0-6,0,6,0,1,Completed,true,false,false
+UA007142,02 Jun 24,14,Caulfield Rec,Maccabi,No. 3,William Yan,Noam Werner,Noam Werner,2-6,2,6,0,1,Completed,true,false,false
+UA007142,02 Jun 24,14,Caulfield Rec,Maccabi,No. 4,Jayden Josevski,Jesse Lewis,Jesse Lewis,0-6,0,6,0,1,Completed,true,true,false
+UA007143,02 Jun 24,14,Royal South Yarra,Victory Park,No. 1,Tom Hayden,Ren Nagayama,Ren Nagayama,0-6,0,6,0,1,Completed,true,false,false
+UA007143,02 Jun 24,14,Royal South Yarra,Victory Park,No. 2,William Jones,Peter Wu,Peter Wu,2-6,2,6,0,1,Completed,true,false,false
+UA007143,02 Jun 24,14,Royal South Yarra,Victory Park,No. 3,Will Steedman,Torin Hunter,Torin Hunter,3-6,3,6,0,1,Completed,true,false,false
+UA007143,02 Jun 24,14,Royal South Yarra,Victory Park,No. 4,Isabella Soutter,Cooper Neal,Cooper Neal,3-6,3,6,0,1,Completed,true,false,false
+UA007144,02 Jun 24,14,St Pauls,Mentone,No. 1,Isabella Li,Lennox Carroll,Lennox Carroll,1-6,1,6,0,1,Completed,true,false,false
+UA007144,02 Jun 24,14,St Pauls,Mentone,No. 2,Ronan Raulings,Jack Robinson,Jack Robinson,5-7,5,7,0,1,Completed,true,false,false
+UA007144,02 Jun 24,14,St Pauls,Mentone,No. 3,Matthew Strupl,Alex Cao,Alex Cao,2-6,2,6,0,1,Completed,true,false,false
+UA007144,02 Jun 24,14,St Pauls,Mentone,No. 4,Dax Chen,Sol Louev,Sol Louev,0-6,0,6,0,1,Completed,true,false,false
+UA007301,,16,Mentone,St Andrews MB,No. 1,Lennox Carroll,Max Looschilder,Max Looschilder,3-6,3,6,0,1,Completed,true,false,false
+UA007301,,16,Mentone,St Andrews MB,No. 2,Tom Carroll,Mika Looschilder,Tom Carroll,6-1,6,1,1,0,Completed,true,false,false
+UA007301,,16,Mentone,St Andrews MB,No. 3,Jack Robinson,Hanna Langridge,Hanna Langridge,2-6,2,6,0,1,Completed,true,false,false
+UA007301,,16,Mentone,St Andrews MB,No. 4,Robert Proudfoot,Jakob Misso,Jakob Misso,4-6,4,6,0,1,Completed,true,false,false
+UA007302,,16,Maccabi,GPHC,No. 1,Jesse Stowe-Lindner,Ned Jeffreys,Jesse Stowe-Lindner,6-4,6,4,1,0,Completed,true,false,false
+UA007302,,16,Maccabi,GPHC,No. 2,Jonah Stowe-Lindner,Riley Bladeni,Riley Bladeni,0-6,0,6,0,1,Completed,true,false,false
+UA007302,,16,Maccabi,GPHC,No. 3,Noam Werner,Thomas Robertson-Brown,Thomas Robertson-Brown,1-6,1,6,0,1,Completed,true,false,false
+UA007302,,16,Maccabi,GPHC,No. 4,Gabriel Raboy,Patrick Cassidy,Patrick Cassidy,1-6,1,6,0,1,Completed,true,false,false
+UA007321,,17,GPHC,St Andrews MB,No. 1,Ned Jeffreys,[Unnamed player — TROLS UA007321 away code 1],Ned Jeffreys,6-0,6,0,1,0,Completed,false,false,false
+UA007321,,17,GPHC,St Andrews MB,No. 2,Riley Bladeni,Hanna Langridge,Riley Bladeni,6-1,6,1,1,0,Completed,true,false,false
+UA007321,,17,GPHC,St Andrews MB,No. 3,Thomas Robertson-Brown,Jakob Misso,Thomas Robertson-Brown,6-1,6,1,1,0,Completed,true,false,false
+UA007321,,17,GPHC,St Andrews MB,No. 4,Patrick Cassidy,Bryar Jefford,Patrick Cassidy,6-0,6,0,1,0,Completed,true,false,false

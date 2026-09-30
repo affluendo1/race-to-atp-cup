@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA30-UA010",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2022",
+  "season_id": "UA30",
+  "season_label": "Autumn 2022",
+  "source_section_code": "UA010",
+  "section_label": "Section 10",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Murrumbeena",
+      "wins": 11,
+      "points": 107,
+      "percentage": 176.5,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Dendy Park",
+      "wins": 7,
+      "points": 90,
+      "percentage": 166.51,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kooyong",
+      "wins": 8,
+      "points": 90,
+      "percentage": 151.81,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Victory Park",
+      "wins": 5,
+      "points": 60,
+      "percentage": 92.4,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Hurlingham Park 1",
+      "wins": 5,
+      "points": 53,
+      "percentage": 67.79,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Hurlingham Park 2",
+      "wins": 3,
+      "points": 50,
+      "percentage": 89.17,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Highmoor Uniting",
+      "wins": 3,
+      "points": 36,
+      "percentage": 65.67,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal South Yarra",
+      "wins": 1,
+      "points": 34,
+      "percentage": 61.8,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA30-UA010",
+  "fixtures": 55,
+  "completed_fixtures": 49,
+  "draw_fixtures": 59,
+  "singles_rubbers": 196,
+  "doubles_rubbers": 98,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

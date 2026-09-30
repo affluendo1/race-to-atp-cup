@@ -1,0 +1,225 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA005011,31 Jan 10,1,Dendy Park 1,Dendy Park 2,No. 1,Daniel Wotherspoon,Hasith Balapatabondi,Daniel Wotherspoon,6-2,6,2,1,0,Completed,true,false,false
+UA005011,31 Jan 10,1,Dendy Park 1,Dendy Park 2,No. 2,Andrew Beveridge,Stephen Fletcher,Andrew Beveridge,6-4,6,4,1,0,Completed,true,false,false
+UA005011,31 Jan 10,1,Dendy Park 1,Dendy Park 2,No. 3,Christopher Currie,Nick Jeffery,Nick Jeffery,6-7,6,7,0,1,Completed,true,false,false
+UA005011,31 Jan 10,1,Dendy Park 1,Dendy Park 2,No. 4,Alistair Kilner,Adam Stack,Alistair Kilner,6-2,6,2,1,0,Completed,true,false,false
+UA005012,31 Jan 10,1,Maccabi,Mordialloc,No. 1,Bernard Mel,Nathan Bryant,Nathan Bryant,2-6,2,6,0,1,Completed,true,false,false
+UA005012,31 Jan 10,1,Maccabi,Mordialloc,No. 2,Gilad Cohen,Rohan Forster,Rohan Forster,2-6,2,6,0,1,Completed,true,false,false
+UA005012,31 Jan 10,1,Maccabi,Mordialloc,No. 3,Ryan Prince,Serge Krikun,Ryan Prince,6-2,6,2,1,0,Completed,true,false,false
+UA005012,31 Jan 10,1,Maccabi,Mordialloc,No. 4,Jeremy Lissauer,Chris Economu,Chris Economu,1-6,1,6,0,1,Completed,true,false,false
+UA005013,31 Jan 10,1,Kooyong Scotch,BLTC,No. 1,Zac McIntosh-Pearce,Tom Boulton,Tom Boulton,2-6,2,6,0,1,Completed,true,false,false
+UA005013,31 Jan 10,1,Kooyong Scotch,BLTC,No. 2,Thomas Rogers,Daniel Campbell,Daniel Campbell,3-6,3,6,0,1,Completed,true,false,false
+UA005013,31 Jan 10,1,Kooyong Scotch,BLTC,No. 3,Gemma Seeley,Luke Boulton,Luke Boulton,0-6,0,6,0,1,Completed,true,false,false
+UA005013,31 Jan 10,1,Kooyong Scotch,BLTC,No. 4,Cindy Tamber,Jessica Bowring,Cindy Tamber,6-0,6,0,1,0,Completed,true,false,false
+UA005014,31 Jan 10,1,Le Page,Hampton,No. 1,Marcus Shanahan,Anthony Tamborriello,Anthony Tamborriello,5-7,5,7,0,1,Completed,true,false,false
+UA005014,31 Jan 10,1,Le Page,Hampton,No. 2,Christian Carnovale,Gideon Bramwells,Christian Carnovale,6-2,6,2,1,0,Completed,true,false,false
+UA005014,31 Jan 10,1,Le Page,Hampton,No. 3,Josh Groves,Jessica Caissutti,Josh Groves,6-1,6,1,1,0,Completed,true,false,false
+UA005014,31 Jan 10,1,Le Page,Hampton,No. 4,Alex Lin,Emma Wood,Emma Wood,4-6,4,6,0,1,Completed,true,false,false
+UA005021,07 Feb 10,2,Hampton,Dendy Park 1,No. 1,Anthony Tamborriello,Christopher Currie,Anthony Tamborriello,6-1,6,1,1,0,Completed,true,false,false
+UA005021,07 Feb 10,2,Hampton,Dendy Park 1,No. 2,Gideon Bramwells,Andrew Beveridge,Andrew Beveridge,5-7,5,7,0,1,Completed,true,false,false
+UA005021,07 Feb 10,2,Hampton,Dendy Park 1,No. 3,Jessica Caissutti,Alex Hoy,Alex Hoy,2-6,2,6,0,1,Completed,true,false,false
+UA005021,07 Feb 10,2,Hampton,Dendy Park 1,No. 4,Max Walter,Alistair Kilner,Alistair Kilner,2-6,2,6,0,1,Completed,true,false,false
+UA005022,07 Feb 10,2,Dendy Park 2,Maccabi,No. 1,Stephen Fletcher,Bernard Mel,Stephen Fletcher,6-2,6,2,1,0,Completed,true,false,false
+UA005022,07 Feb 10,2,Dendy Park 2,Maccabi,No. 2,Nick Jeffery,Gilad Cohen,Nick Jeffery,7-6,7,6,1,0,Completed,true,false,false
+UA005022,07 Feb 10,2,Dendy Park 2,Maccabi,No. 3,Adam Stack,Ryan Prince,Ryan Prince,4-6,4,6,0,1,Completed,true,false,false
+UA005022,07 Feb 10,2,Dendy Park 2,Maccabi,No. 4,Kosta Varagiannis,Jeremy Lissauer,Kosta Varagiannis,6-2,6,2,1,0,Completed,true,false,false
+UA005023,07 Feb 10,2,Mordialloc,Kooyong Scotch,No. 1,Matt Parousiatis,Zac McIntosh-Pearce,Matt Parousiatis,6-2,6,2,1,0,Completed,true,false,false
+UA005023,07 Feb 10,2,Mordialloc,Kooyong Scotch,No. 2,Daniel Lelekov,Alex Meadows,Daniel Lelekov,6-4,6,4,1,0,Completed,true,false,false
+UA005023,07 Feb 10,2,Mordialloc,Kooyong Scotch,No. 3,Rohan Forster,Cindy Tamber,Rohan Forster,7-5,7,5,1,0,Completed,true,false,false
+UA005023,07 Feb 10,2,Mordialloc,Kooyong Scotch,No. 4,Chris Economu,Alexandra Kelli,Chris Economu,6-1,6,1,1,0,Completed,true,false,false
+UA005024,07 Feb 10,2,BLTC,Le Page,No. 1,James Lamb,Marcus Shanahan,Marcus Shanahan,2-6,2,6,0,1,Completed,true,false,false
+UA005024,07 Feb 10,2,BLTC,Le Page,No. 2,Mikey Fries,Christian Carnovale,Mikey Fries,6-2,6,2,1,0,Completed,true,false,false
+UA005024,07 Feb 10,2,BLTC,Le Page,No. 3,Luke Boulton,Matthew Troutbeck,Matthew Troutbeck,3-6,3,6,0,1,Completed,true,false,false
+UA005024,07 Feb 10,2,BLTC,Le Page,No. 4,Daniel Campbell,Josh Groves,Daniel Campbell,6-3,6,3,1,0,Completed,true,false,false
+UA005032,14 Feb 10,3,Maccabi,Hampton,No. 1,Jamie Moshinsky,Jessica Caissutti,Jamie Moshinsky,6-2,6,2,1,0,Completed,true,false,false
+UA005032,14 Feb 10,3,Maccabi,Hampton,No. 2,Jamie Muscatel,Emma Wood,Jamie Muscatel,6-1,6,1,1,0,Completed,true,false,false
+UA005032,14 Feb 10,3,Maccabi,Hampton,No. 3,Eli Muscatel,Max Walter,Eli Muscatel,6-1,6,1,1,0,Completed,true,false,false
+UA005032,14 Feb 10,3,Maccabi,Hampton,No. 4,Damon Flicker,Jackson Adams,Damon Flicker,6-2,6,2,1,0,Completed,true,true,false
+UA005033,14 Feb 10,3,Kooyong Scotch,Dendy Park 2,No. 1,Zac McIntosh-Pearce,Stephen Fletcher,Stephen Fletcher,3-6,3,6,0,1,Completed,true,false,false
+UA005033,14 Feb 10,3,Kooyong Scotch,Dendy Park 2,No. 2,Alex Meadows,Nick Jeffery,Nick Jeffery,1-6,1,6,0,1,Completed,true,false,false
+UA005033,14 Feb 10,3,Kooyong Scotch,Dendy Park 2,No. 3,Cindy Tamber,Kosta Varagiannis,Cindy Tamber,6-1,6,1,1,0,Completed,true,false,false
+UA005033,14 Feb 10,3,Kooyong Scotch,Dendy Park 2,No. 4,Alexandra Pierri,Adam Stack,Adam Stack,1-6,1,6,0,1,Completed,true,false,false
+UA005041,21 Feb 10,4,Mordialloc,Dendy Park 1,No. 1,Matt Parousiatis,Daniel Wotherspoon,Daniel Wotherspoon,5-7,5,7,0,1,Completed,true,false,false
+UA005041,21 Feb 10,4,Mordialloc,Dendy Park 1,No. 2,Rohan Forster,Andrew Beveridge,Andrew Beveridge,4-6,4,6,0,1,Completed,true,false,false
+UA005041,21 Feb 10,4,Mordialloc,Dendy Park 1,No. 3,Serge Krikun,Alistair Kilner,Alistair Kilner,0-6,0,6,0,1,Completed,true,false,false
+UA005041,21 Feb 10,4,Mordialloc,Dendy Park 1,No. 4,Chris Economu,Alex Hoy,Chris Economu,6-1,6,1,1,0,Completed,true,false,false
+UA005042,21 Feb 10,4,BLTC,Maccabi,No. 1,James Lamb,Bernard Mel,James Lamb,6-0,6,0,1,0,Completed,true,false,false
+UA005042,21 Feb 10,4,BLTC,Maccabi,No. 2,Mikey Fries,Ryan Prince,Mikey Fries,6-3,6,3,1,0,Completed,true,false,false
+UA005042,21 Feb 10,4,BLTC,Maccabi,No. 3,Luke Boulton,Jeremy Lissauer,Luke Boulton,6-3,6,3,1,0,Completed,true,false,false
+UA005042,21 Feb 10,4,BLTC,Maccabi,No. 4,Daniel Campbell,Adam Stone,Daniel Campbell,6-1,6,1,1,0,Completed,true,false,false
+UA005043,21 Feb 10,4,Hampton,Kooyong Scotch,No. 1,Gideon Bramwells,Zac McIntosh-Pearce,Zac McIntosh-Pearce,4-6,4,6,0,1,Completed,true,false,false
+UA005043,21 Feb 10,4,Hampton,Kooyong Scotch,No. 2,Jessica Caissutti,Thomas Rogers,Thomas Rogers,2-6,2,6,0,1,Completed,true,false,false
+UA005043,21 Feb 10,4,Hampton,Kooyong Scotch,No. 3,Max Walter,Gemma Seeley,Gemma Seeley,1-6,1,6,0,1,Completed,true,false,false
+UA005043,21 Feb 10,4,Hampton,Kooyong Scotch,No. 4,Thomas Shepard,Alexandra Pierri,Thomas Shepard,6-2,6,2,1,0,Completed,true,false,false
+UA005044,21 Feb 10,4,Dendy Park 2,Le Page,No. 1,Stephen Fletcher,Matthew Troutbeck,Matthew Troutbeck,4-6,4,6,0,1,Completed,true,false,false
+UA005044,21 Feb 10,4,Dendy Park 2,Le Page,No. 2,Nick Jeffery,Christian Carnovale,Nick Jeffery,6-2,6,2,1,0,Completed,true,false,false
+UA005044,21 Feb 10,4,Dendy Park 2,Le Page,No. 3,Kosta Varagiannis,Josh Groves,Josh Groves,1-6,1,6,0,1,Completed,true,false,false
+UA005044,21 Feb 10,4,Dendy Park 2,Le Page,No. 4,Adam Stack,Alex Lin,Alex Lin,3-6,3,6,0,1,Completed,true,false,false
+UA005051,28 Feb 10,5,Kooyong Scotch,Le Page,No. 1,Zac McIntosh-Pearce,Marcus Shanahan,Marcus Shanahan,1-6,1,6,0,1,Completed,true,false,false
+UA005051,28 Feb 10,5,Kooyong Scotch,Le Page,No. 2,Thomas Rogers,Matthew Troutbeck,Matthew Troutbeck,0-6,0,6,0,1,Completed,true,false,false
+UA005051,28 Feb 10,5,Kooyong Scotch,Le Page,No. 3,Cindy Tamber,Josh Groves,Josh Groves,0-6,0,6,0,1,Completed,true,false,false
+UA005051,28 Feb 10,5,Kooyong Scotch,Le Page,No. 4,Alexandra Pierri,Alex Lin,Alex Lin,1-6,1,6,0,1,Completed,true,false,false
+UA005052,28 Feb 10,5,Hampton,BLTC,No. 1,Anthony Tamborriello,James Lamb,Anthony Tamborriello,6-2,6,2,1,0,Completed,true,false,false
+UA005052,28 Feb 10,5,Hampton,BLTC,No. 2,Gideon Bramwells,Tom Boulton,Gideon Bramwells,6-3,6,3,1,0,Completed,true,false,false
+UA005052,28 Feb 10,5,Hampton,BLTC,No. 3,Emma Wood,Luke Boulton,Emma Wood,6-1,6,1,1,0,Completed,true,false,false
+UA005052,28 Feb 10,5,Hampton,BLTC,No. 4,Max Walter,Daniel Campbell,Daniel Campbell,2-6,2,6,0,1,Completed,true,false,false
+UA005053,28 Feb 10,5,Mordialloc,Dendy Park 2,No. 1,Daniel Lelekov,Stephen Fletcher,Stephen Fletcher,1-6,1,6,0,1,Completed,true,false,false
+UA005053,28 Feb 10,5,Mordialloc,Dendy Park 2,No. 2,Rohan Forster,Nick Jeffery,Nick Jeffery,0-6,0,6,0,1,Completed,true,false,false
+UA005053,28 Feb 10,5,Mordialloc,Dendy Park 2,No. 3,Serge Krikun,Kosta Varagiannis,Kosta Varagiannis,4-6,4,6,0,1,Completed,true,false,false
+UA005053,28 Feb 10,5,Mordialloc,Dendy Park 2,No. 4,Chris Economu,Adam Stack,Adam Stack,3-6,3,6,0,1,Completed,true,false,false
+UA005054,28 Feb 10,5,Dendy Park 1,Maccabi,No. 1,Daniel Wotherspoon,Bernard Mel,Daniel Wotherspoon,6-1,6,1,1,0,Completed,true,false,false
+UA005054,28 Feb 10,5,Dendy Park 1,Maccabi,No. 2,Christopher Currie,Gilad Cohen,Gilad Cohen,0-6,0,6,0,1,Completed,true,false,false
+UA005054,28 Feb 10,5,Dendy Park 1,Maccabi,No. 3,Alistair Kilner,Ryan Prince,Alistair Kilner,6-3,6,3,1,0,Completed,true,false,false
+UA005054,28 Feb 10,5,Dendy Park 1,Maccabi,No. 4,Alex Hoy,Jeremy Lissauer,Alex Hoy,6-4,6,4,1,0,Completed,true,false,false
+UA005061,14 Mar 10,6,Maccabi,Kooyong Scotch,No. 1,Bernard Mel,Zac McIntosh-Pearce,Zac McIntosh-Pearce,1-6,1,6,0,1,Completed,true,false,false
+UA005061,14 Mar 10,6,Maccabi,Kooyong Scotch,No. 2,Ryan Prince,Thomas Rogers,Ryan Prince,6-1,6,1,1,0,Completed,true,false,false
+UA005061,14 Mar 10,6,Maccabi,Kooyong Scotch,No. 3,Jeremy Lissauer,Callum Bennet,Callum Bennet,0-6,0,6,0,1,Completed,true,false,false
+UA005061,14 Mar 10,6,Maccabi,Kooyong Scotch,No. 4,Leeav Henzel,Nicholas Savage,Nicholas Savage,5-7,5,7,0,1,Completed,true,false,false
+UA005062,14 Mar 10,6,Le Page,Dendy Park 1,No. 1,Marcus Shanahan,Daniel Wotherspoon,Daniel Wotherspoon,1-6,1,6,0,1,Completed,true,false,false
+UA005062,14 Mar 10,6,Le Page,Dendy Park 1,No. 2,Christian Carnovale,Andrew Beveridge,Andrew Beveridge,4-6,4,6,0,1,Completed,true,false,false
+UA005062,14 Mar 10,6,Le Page,Dendy Park 1,No. 3,Matthew Troutbeck,Alistair Kilner,Alistair Kilner,3-6,3,6,0,1,Completed,true,false,false
+UA005062,14 Mar 10,6,Le Page,Dendy Park 1,No. 4,Josh Groves,Christopher Currie,Christopher Currie,6-7,6,7,0,1,Completed,true,false,false
+UA005063,14 Mar 10,6,BLTC,Mordialloc,No. 1,James Lamb,Matt Parousiatis,James Lamb,6-4,6,4,1,0,Completed,true,false,false
+UA005063,14 Mar 10,6,BLTC,Mordialloc,No. 2,Mikey Fries,Daniel Lelekov,Mikey Fries,6-3,6,3,1,0,Completed,true,false,false
+UA005063,14 Mar 10,6,BLTC,Mordialloc,No. 3,Tom Boulton,Rohan Forster,Rohan Forster,4-6,4,6,0,1,Completed,true,false,false
+UA005063,14 Mar 10,6,BLTC,Mordialloc,No. 4,Daniel Campbell,Serge Krikun,Daniel Campbell,6-1,6,1,1,0,Completed,true,false,false
+UA005064,14 Mar 10,6,Dendy Park 2,Hampton,No. 1,Stephen Fletcher,Anthony Tamborriello,Anthony Tamborriello,2-6,2,6,0,1,Completed,true,false,false
+UA005064,14 Mar 10,6,Dendy Park 2,Hampton,No. 2,Nick Jeffery,Gideon Bramwells,Nick Jeffery,6-2,6,2,1,0,Completed,true,false,false
+UA005064,14 Mar 10,6,Dendy Park 2,Hampton,No. 3,Kosta Varagiannis,Max Walter,Kosta Varagiannis,6-3,6,3,1,0,Completed,true,false,false
+UA005064,14 Mar 10,6,Dendy Park 2,Hampton,No. 4,Adam Stack,Thomas Shepard,Adam Stack,7-5,7,5,1,0,Completed,true,false,false
+UA005071,21 Mar 10,7,Dendy Park 1,Kooyong Scotch,No. 1,Daniel Wotherspoon,Thomas Rogers,Daniel Wotherspoon,6-1,6,1,1,0,Completed,true,false,false
+UA005071,21 Mar 10,7,Dendy Park 1,Kooyong Scotch,No. 2,Andrew Beveridge,Callum Bennet,Andrew Beveridge,6-3,6,3,1,0,Completed,true,false,false
+UA005071,21 Mar 10,7,Dendy Park 1,Kooyong Scotch,No. 3,Christopher Currie,Cindy Tamber,Christopher Currie,6-2,6,2,1,0,Completed,true,false,false
+UA005071,21 Mar 10,7,Dendy Park 1,Kooyong Scotch,No. 4,Alex Hoy,Jack Otter,Alex Hoy,6-0,6,0,1,0,Completed,true,false,false
+UA005072,21 Mar 10,7,Maccabi,Le Page,No. 1,Bernard Mel,Marcus Shanahan,Marcus Shanahan,1-6,1,6,0,1,Completed,true,false,false
+UA005072,21 Mar 10,7,Maccabi,Le Page,No. 2,Ryan Prince,Christian Carnovale,Ryan Prince,6-1,6,1,1,0,Completed,true,false,false
+UA005072,21 Mar 10,7,Maccabi,Le Page,No. 3,Jeremy Lissauer,Josh Groves,Josh Groves,1-6,1,6,0,1,Completed,true,false,false
+UA005072,21 Mar 10,7,Maccabi,Le Page,No. 4,Leeav Henzel,Alex Lin,Alex Lin,0-6,0,6,0,1,Completed,true,false,false
+UA005073,21 Mar 10,7,Hampton,Mordialloc,No. 1,Max Walter,Matt Parousiatis,Matt Parousiatis,4-6,4,6,0,1,Completed,true,false,false
+UA005073,21 Mar 10,7,Hampton,Mordialloc,No. 2,Thomas Shepard,Daniel Lelekov,Daniel Lelekov,4-6,4,6,0,1,Completed,true,false,false
+UA005073,21 Mar 10,7,Hampton,Mordialloc,No. 3,Alex Apostolopoulos,Rohan Forster,Rohan Forster,3-6,3,6,0,1,Completed,true,false,false
+UA005073,21 Mar 10,7,Hampton,Mordialloc,No. 4,Oliver Sheppard,Chris Economu,Chris Economu,6-7,6,7,0,1,Completed,true,false,false
+UA005074,21 Mar 10,7,BLTC,Dendy Park 2,No. 1,James Lamb,Tom Burgess,Tom Burgess,6-7,6,7,0,1,Completed,true,false,false
+UA005074,21 Mar 10,7,BLTC,Dendy Park 2,No. 2,Mikey Fries,Stephen Fletcher,Stephen Fletcher,2-6,2,6,0,1,Completed,true,false,false
+UA005074,21 Mar 10,7,BLTC,Dendy Park 2,No. 3,Tom Boulton,Nick Jeffery,Nick Jeffery,5-7,5,7,0,1,Completed,true,false,false
+UA005074,21 Mar 10,7,BLTC,Dendy Park 2,No. 4,Luke Boulton,Adam Stack,Luke Boulton,6-4,6,4,1,0,Completed,true,false,false
+UA005081,28 Mar 10,8,Dendy Park 2,Dendy Park 1,No. 1,Stephen Fletcher,Daniel Wotherspoon,Daniel Wotherspoon,3-6,3,6,0,1,Completed,true,false,false
+UA005081,28 Mar 10,8,Dendy Park 2,Dendy Park 1,No. 2,Nick Jeffery,Christopher Currie,Nick Jeffery,6-0,6,0,1,0,Completed,true,false,false
+UA005081,28 Mar 10,8,Dendy Park 2,Dendy Park 1,No. 3,Hasith Balapatabondi,Alistair Kilner,Hasith Balapatabondi,6-1,6,1,1,0,Completed,true,false,false
+UA005081,28 Mar 10,8,Dendy Park 2,Dendy Park 1,No. 4,Alex Bulmaga,Sam Currie,Alex Bulmaga,6-3,6,3,1,0,Completed,true,false,false
+UA005082,28 Mar 10,8,Mordialloc,Maccabi,No. 1,Matt Parousiatis,Bernard Mel,Matt Parousiatis,7-6,7,6,1,0,Completed,true,false,false
+UA005082,28 Mar 10,8,Mordialloc,Maccabi,No. 2,Daniel Lelekov,Ryan Prince,Daniel Lelekov,7-5,7,5,1,0,Completed,true,false,false
+UA005082,28 Mar 10,8,Mordialloc,Maccabi,No. 3,Serge Krikun,Jeremy Lissauer,Serge Krikun,6-4,6,4,1,0,Completed,true,false,false
+UA005082,28 Mar 10,8,Mordialloc,Maccabi,No. 4,Chris Economu,Leeav Henzel,Chris Economu,6-2,6,2,1,0,Completed,true,false,false
+UA005083,28 Mar 10,8,BLTC,Kooyong Scotch,No. 1,James Lamb,Thomas Rogers,Thomas Rogers,5-7,5,7,0,1,Completed,true,false,false
+UA005083,28 Mar 10,8,BLTC,Kooyong Scotch,No. 2,Mikey Fries,Gemma Seeley,Gemma Seeley,3-6,3,6,0,1,Completed,true,false,false
+UA005083,28 Mar 10,8,BLTC,Kooyong Scotch,No. 3,Luke Boulton,Alex Meadows,Luke Boulton,7-5,7,5,1,0,Completed,true,false,false
+UA005083,28 Mar 10,8,BLTC,Kooyong Scotch,No. 4,Daniel Campbell,Alexandra Pierri,Alexandra Pierri,1-6,1,6,0,1,Completed,true,false,false
+UA005084,28 Mar 10,8,Hampton,Le Page,No. 1,Emma Wood,Marcus Shanahan,Marcus Shanahan,0-6,0,6,0,1,Completed,true,false,false
+UA005084,28 Mar 10,8,Hampton,Le Page,No. 2,Max Walter,Christian Carnovale,Christian Carnovale,4-6,4,6,0,1,Completed,true,false,false
+UA005084,28 Mar 10,8,Hampton,Le Page,No. 3,Thomas Shepard,Josh Groves,Josh Groves,3-6,3,6,0,1,Completed,true,false,false
+UA005084,28 Mar 10,8,Hampton,Le Page,No. 4,Oliver Sheppard,Alex Lin,Alex Lin,1-6,1,6,0,1,Completed,true,false,false
+UA005091,18 Apr 10,9,Dendy Park 1,Hampton,No. 1,Daniel Wotherspoon,Anthony Tamborriello,Daniel Wotherspoon,7-5,7,5,1,0,Completed,true,false,false
+UA005091,18 Apr 10,9,Dendy Park 1,Hampton,No. 2,Christopher Currie,Jessica Caissutti,Christopher Currie,6-2,6,2,1,0,Completed,true,false,false
+UA005091,18 Apr 10,9,Dendy Park 1,Hampton,No. 3,Alistair Kilner,Emma Wood,Alistair Kilner,6-1,6,1,1,0,Completed,true,false,false
+UA005091,18 Apr 10,9,Dendy Park 1,Hampton,No. 4,Alex Hoy,Max Walter,Max Walter,6-7,6,7,0,1,Completed,true,false,false
+UA005092,18 Apr 10,9,Maccabi,Dendy Park 2,No. 1,Bernard Mel,Stephen Fletcher,Stephen Fletcher,3-6,3,6,0,1,Completed,true,false,false
+UA005092,18 Apr 10,9,Maccabi,Dendy Park 2,No. 2,Ryan Prince,Kosta Varagiannis,Ryan Prince,6-0,6,0,1,0,Completed,true,false,false
+UA005092,18 Apr 10,9,Maccabi,Dendy Park 2,No. 3,Jeremy Lissauer,Alex Bulmaga,Alex Bulmaga,3-6,3,6,0,1,Completed,true,false,false
+UA005092,18 Apr 10,9,Maccabi,Dendy Park 2,No. 4,Leeav Henzel,Adam Stack,Adam Stack,1-6,1,6,0,1,Completed,true,false,false
+UA005093,18 Apr 10,9,Kooyong Scotch,Mordialloc,No. 1,Zac McIntosh-Pearce,Matt Parousiatis,Matt Parousiatis,0-6,0,6,0,1,Completed,true,false,false
+UA005093,18 Apr 10,9,Kooyong Scotch,Mordialloc,No. 2,Alex Meadows,Rohan Forster,Rohan Forster,3-6,3,6,0,1,Completed,true,false,false
+UA005093,18 Apr 10,9,Kooyong Scotch,Mordialloc,No. 3,Cindy Tamber,Serge Krikun,Cindy Tamber,6-2,6,2,1,0,Completed,true,false,false
+UA005093,18 Apr 10,9,Kooyong Scotch,Mordialloc,No. 4,Alexandra Pierri,Chris Economu,Chris Economu,2-6,2,6,0,1,Completed,true,false,false
+UA005094,18 Apr 10,9,Le Page,BLTC,No. 1,Christian Carnovale,James Lamb,Christian Carnovale,6-4,6,4,1,0,Completed,true,false,false
+UA005094,18 Apr 10,9,Le Page,BLTC,No. 2,Matthew Troutbeck,Lachlan Holman,Lachlan Holman,4-6,4,6,0,1,Completed,true,false,false
+UA005094,18 Apr 10,9,Le Page,BLTC,No. 3,Josh Groves,Tom Boulton,Josh Groves,6-3,6,3,1,0,Completed,true,false,false
+UA005094,18 Apr 10,9,Le Page,BLTC,No. 4,Alex Lin,Luke Boulton,Luke Boulton,4-6,4,6,0,1,Completed,true,false,false
+UA005102,02 May 10,10,Hampton,Maccabi,No. 1,Gideon Bramwells,Bernard Mel,Gideon Bramwells,6-2,6,2,1,0,Completed,true,false,false
+UA005102,02 May 10,10,Hampton,Maccabi,No. 2,Jessica Caissutti,Ryan Prince,Ryan Prince,2-6,2,6,0,1,Completed,true,false,false
+UA005102,02 May 10,10,Hampton,Maccabi,No. 3,Emma Wood,Jeremy Lissauer,Emma Wood,7-6,7,6,1,0,Completed,true,false,false
+UA005102,02 May 10,10,Hampton,Maccabi,No. 4,Max Walter,Leeav Henzel,Leeav Henzel,3-6,3,6,0,1,Completed,true,false,false
+UA005103,02 May 10,10,Dendy Park 2,Kooyong Scotch,No. 1,Nick Jeffery,Zac McIntosh-Pearce,Nick Jeffery,6-0,6,0,1,0,Completed,true,false,false
+UA005103,02 May 10,10,Dendy Park 2,Kooyong Scotch,No. 2,Kosta Varagiannis,Alex Meadows,Alex Meadows,1-6,1,6,0,1,Completed,true,false,false
+UA005103,02 May 10,10,Dendy Park 2,Kooyong Scotch,No. 3,Alex Bulmaga,Cindy Tamber,Alex Bulmaga,6-2,6,2,1,0,Completed,true,false,false
+UA005103,02 May 10,10,Dendy Park 2,Kooyong Scotch,No. 4,Adam Stack,Alexandra Pierri,Adam Stack,6-1,6,1,1,0,Completed,true,false,false
+UA005104,02 May 10,10,Mordialloc,Le Page,No. 1,Daniel Lelekov,Marcus Shanahan,Marcus Shanahan,3-6,3,6,0,1,Completed,true,false,false
+UA005104,02 May 10,10,Mordialloc,Le Page,No. 2,Rohan Forster,Christian Carnovale,Rohan Forster,6-4,6,4,1,0,Completed,true,false,false
+UA005104,02 May 10,10,Mordialloc,Le Page,No. 3,Serge Krikun,Matthew Troutbeck,Matthew Troutbeck,1-6,1,6,0,1,Completed,true,false,false
+UA005104,02 May 10,10,Mordialloc,Le Page,No. 4,Chris Economu,Alex Lin,Chris Economu,7-6,7,6,1,0,Completed,true,false,false
+UA005111,09 May 10,11,Dendy Park 1,Mordialloc,No. 1,Daniel Wotherspoon,Matt Parousiatis,Daniel Wotherspoon,6-0,6,0,1,0,Completed,true,false,false
+UA005111,09 May 10,11,Dendy Park 1,Mordialloc,No. 2,Andrew Beveridge,Daniel Lelekov,Daniel Lelekov,2-6,2,6,0,1,Completed,true,false,false
+UA005111,09 May 10,11,Dendy Park 1,Mordialloc,No. 3,Christopher Currie,Rohan Forster,Rohan Forster,5-7,5,7,0,1,Completed,true,false,false
+UA005111,09 May 10,11,Dendy Park 1,Mordialloc,No. 4,Alistair Kilner,Serge Krikun,Alistair Kilner,6-1,6,1,1,0,Completed,true,false,false
+UA005112,09 May 10,11,Maccabi,BLTC,No. 1,Bernard Mel,James Lamb,James Lamb,3-6,3,6,0,1,Completed,true,false,false
+UA005112,09 May 10,11,Maccabi,BLTC,No. 2,Ryan Prince,Mikey Fries,Mikey Fries,3-6,3,6,0,1,Completed,true,false,false
+UA005112,09 May 10,11,Maccabi,BLTC,No. 3,Jeremy Lissauer,Tom Boulton,Tom Boulton,1-6,1,6,0,1,Completed,true,false,false
+UA005112,09 May 10,11,Maccabi,BLTC,No. 4,Leeav Henzel,Daniel Campbell,Daniel Campbell,1-6,1,6,0,1,Completed,true,false,false
+UA005113,09 May 10,11,Kooyong Scotch,Hampton,No. 1,Zac McIntosh-Pearce,Anthony Tamborriello,Anthony Tamborriello,0-6,0,6,0,1,Completed,true,false,false
+UA005113,09 May 10,11,Kooyong Scotch,Hampton,No. 2,Gemma Seeley,Gideon Bramwells,Gemma Seeley,6-3,6,3,1,0,Completed,true,false,false
+UA005113,09 May 10,11,Kooyong Scotch,Hampton,No. 3,Cindy Tamber,Jessica Caissutti,Cindy Tamber,6-1,6,1,1,0,Completed,true,false,false
+UA005113,09 May 10,11,Kooyong Scotch,Hampton,No. 4,Alexandra Pierri,Emma Wood,Emma Wood,5-7,5,7,0,1,Completed,true,false,false
+UA005114,09 May 10,11,Le Page,Dendy Park 2,No. 1,Marcus Shanahan,Stephen Fletcher,Marcus Shanahan,6-4,6,4,1,0,Completed,true,false,false
+UA005114,09 May 10,11,Le Page,Dendy Park 2,No. 2,Christian Carnovale,Nick Jeffery,Nick Jeffery,0-6,0,6,0,1,Completed,true,false,false
+UA005114,09 May 10,11,Le Page,Dendy Park 2,No. 3,Josh Groves,Kosta Varagiannis,Josh Groves,6-3,6,3,1,0,Completed,true,false,false
+UA005114,09 May 10,11,Le Page,Dendy Park 2,No. 4,Alex Lin,Alex Bulmaga,Alex Bulmaga,0-6,0,6,0,1,Completed,true,false,false
+UA005121,16 May 10,12,Le Page,Kooyong Scotch,No. 1,Marcus Shanahan,Zac McIntosh-Pearce,Marcus Shanahan,6-0,6,0,1,0,Completed,true,false,false
+UA005121,16 May 10,12,Le Page,Kooyong Scotch,No. 2,Christian Carnovale,Gemma Seeley,Gemma Seeley,4-6,4,6,0,1,Completed,true,false,false
+UA005121,16 May 10,12,Le Page,Kooyong Scotch,No. 3,Josh Groves,Alex Meadows,Alex Meadows,4-6,4,6,0,1,Completed,true,false,false
+UA005121,16 May 10,12,Le Page,Kooyong Scotch,No. 4,Alex Lin,Cindy Tamber,Alex Lin,6-1,6,1,1,0,Completed,true,false,false
+UA005122,16 May 10,12,BLTC,Hampton,No. 1,James Lamb,Anthony Tamborriello,Anthony Tamborriello,2-6,2,6,0,1,Completed,true,false,false
+UA005122,16 May 10,12,BLTC,Hampton,No. 2,Tom Boulton,Gideon Bramwells,Gideon Bramwells,3-6,3,6,0,1,Completed,true,false,false
+UA005122,16 May 10,12,BLTC,Hampton,No. 3,Luke Boulton,Jessica Caissutti,Luke Boulton,6-2,6,2,1,0,Completed,true,false,false
+UA005122,16 May 10,12,BLTC,Hampton,No. 4,Josh Tarrant,Max Walter,Max Walter,0-6,0,6,0,1,Completed,true,true,false
+UA005123,16 May 10,12,Dendy Park 2,Mordialloc,No. 1,Stephen Fletcher,Matt Parousiatis,Stephen Fletcher,7-5,7,5,1,0,Completed,true,false,false
+UA005123,16 May 10,12,Dendy Park 2,Mordialloc,No. 2,Nick Jeffery,Daniel Lelekov,Nick Jeffery,6-0,6,0,1,0,Completed,true,false,false
+UA005123,16 May 10,12,Dendy Park 2,Mordialloc,No. 3,Alex Bulmaga,Rohan Forster,Alex Bulmaga,6-1,6,1,1,0,Completed,true,false,false
+UA005123,16 May 10,12,Dendy Park 2,Mordialloc,No. 4,Adam Stack,Chris Economu,Adam Stack,6-3,6,3,1,0,Completed,true,false,false
+UA005124,16 May 10,12,Maccabi,Dendy Park 1,No. 1,Joel Tauber,Daniel Wotherspoon,Daniel Wotherspoon,2-6,2,6,0,1,Completed,true,false,false
+UA005124,16 May 10,12,Maccabi,Dendy Park 1,No. 2,Ryan Prince,Andrew Beveridge,Andrew Beveridge,2-6,2,6,0,1,Completed,true,false,false
+UA005124,16 May 10,12,Maccabi,Dendy Park 1,No. 3,Leeav Henzel,Christopher Currie,Christopher Currie,2-6,2,6,0,1,Completed,true,false,false
+UA005124,16 May 10,12,Maccabi,Dendy Park 1,No. 4,Adam Stone,Alex Hoy,Alex Hoy,1-6,1,6,0,1,Completed,true,false,false
+UA005131,23 May 10,13,Kooyong Scotch,Maccabi,No. 1,Gemma Seeley,Bernard Mel,Gemma Seeley,7-5,7,5,1,0,Completed,true,false,false
+UA005131,23 May 10,13,Kooyong Scotch,Maccabi,No. 2,Alex Meadows,Ryan Prince,Alex Meadows,6-4,6,4,1,0,Completed,true,false,false
+UA005131,23 May 10,13,Kooyong Scotch,Maccabi,No. 3,Cindy Tamber,Jeremy Lissauer,Cindy Tamber,6-0,6,0,1,0,Completed,true,false,false
+UA005131,23 May 10,13,Kooyong Scotch,Maccabi,No. 4,Alexandra Pierri,Leeav Henzel,Leeav Henzel,6-7,6,7,0,1,Completed,true,false,false
+UA005132,23 May 10,13,Dendy Park 1,Le Page,No. 1,Andrew Beveridge,Marcus Shanahan,Andrew Beveridge,6-4,6,4,1,0,Completed,true,false,false
+UA005132,23 May 10,13,Dendy Park 1,Le Page,No. 2,Christopher Currie,Matthew Troutbeck,Christopher Currie,6-0,6,0,1,0,Completed,true,false,false
+UA005132,23 May 10,13,Dendy Park 1,Le Page,No. 3,Alistair Kilner,Josh Groves,Alistair Kilner,6-4,6,4,1,0,Completed,true,false,false
+UA005132,23 May 10,13,Dendy Park 1,Le Page,No. 4,Alex Hoy,Alex Lin,Alex Lin,0-6,0,6,0,1,Completed,true,false,false
+UA005133,23 May 10,13,Mordialloc,BLTC,No. 1,Rohan Forster,Mikey Fries,Mikey Fries,2-6,2,6,0,1,Completed,true,false,false
+UA005133,23 May 10,13,Mordialloc,BLTC,No. 2,Daniel Lelekov,Tom Boulton,Daniel Lelekov,6-0,6,0,1,0,Completed,true,false,false
+UA005133,23 May 10,13,Mordialloc,BLTC,No. 3,Serge Krikun,Luke Boulton,Luke Boulton,3-6,3,6,0,1,Completed,true,false,false
+UA005133,23 May 10,13,Mordialloc,BLTC,No. 4,Chris Economu,Daniel Campbell,Chris Economu,7-5,7,5,1,0,Completed,true,false,false
+UA005134,23 May 10,13,Hampton,Dendy Park 2,No. 1,Anthony Tamborriello,Stephen Fletcher,Anthony Tamborriello,6-1,6,1,1,0,Completed,true,false,false
+UA005134,23 May 10,13,Hampton,Dendy Park 2,No. 2,Gideon Bramwells,Nick Jeffery,Nick Jeffery,5-7,5,7,0,1,Completed,true,false,false
+UA005134,23 May 10,13,Hampton,Dendy Park 2,No. 3,Emma Wood,Kosta Varagiannis,Emma Wood,6-4,6,4,1,0,Completed,true,false,false
+UA005134,23 May 10,13,Hampton,Dendy Park 2,No. 4,Max Walter,Adam Stack,Max Walter,6-2,6,2,1,0,Completed,true,false,false
+UA005141,30 May 10,14,Kooyong Scotch,Dendy Park 1,No. 1,Gemma Seeley,Daniel Wotherspoon,Daniel Wotherspoon,2-6,2,6,0,1,Completed,true,false,false
+UA005141,30 May 10,14,Kooyong Scotch,Dendy Park 1,No. 2,Alex Meadows,Andrew Beveridge,Andrew Beveridge,5-7,5,7,0,1,Completed,true,false,false
+UA005141,30 May 10,14,Kooyong Scotch,Dendy Park 1,No. 3,Cindy Tamber,Christopher Currie,Christopher Currie,2-6,2,6,0,1,Completed,true,false,false
+UA005141,30 May 10,14,Kooyong Scotch,Dendy Park 1,No. 4,Callum Bennet,Alistair Kilner,Alistair Kilner,4-6,4,6,0,1,Completed,true,false,false
+UA005142,30 May 10,14,Le Page,Maccabi,No. 1,Christian Carnovale,Bernard Mel,Christian Carnovale,6-3,6,3,1,0,Completed,true,false,false
+UA005142,30 May 10,14,Le Page,Maccabi,No. 2,Matthew Troutbeck,Ryan Prince,Matthew Troutbeck,6-3,6,3,1,0,Completed,true,false,false
+UA005142,30 May 10,14,Le Page,Maccabi,No. 3,Josh Groves,Jeremy Lissauer,Josh Groves,6-2,6,2,1,0,Completed,true,false,false
+UA005142,30 May 10,14,Le Page,Maccabi,No. 4,Alex Lin,Leeav Henzel,Alex Lin,6-2,6,2,1,0,Completed,true,false,false
+UA005143,30 May 10,14,Mordialloc,Hampton,No. 1,Matt Parousiatis,Anthony Tamborriello,Anthony Tamborriello,0-6,0,6,0,1,Completed,true,false,false
+UA005143,30 May 10,14,Mordialloc,Hampton,No. 2,Daniel Lelekov,Jessica Caissutti,Daniel Lelekov,6-1,6,1,1,0,Completed,true,false,false
+UA005143,30 May 10,14,Mordialloc,Hampton,No. 3,Serge Krikun,Emma Wood,Serge Krikun,6-2,6,2,1,0,Completed,true,false,false
+UA005143,30 May 10,14,Mordialloc,Hampton,No. 4,Chris Economu,Max Walter,Chris Economu,6-2,6,2,1,0,Completed,true,false,false
+UA005144,30 May 10,14,Dendy Park 2,BLTC,No. 1,Stephen Fletcher,James Lamb,Stephen Fletcher,6-2,6,2,1,0,Completed,true,false,false
+UA005144,30 May 10,14,Dendy Park 2,BLTC,No. 2,Nick Jeffery,Mikey Fries,Nick Jeffery,6-1,6,1,1,0,Completed,true,false,false
+UA005144,30 May 10,14,Dendy Park 2,BLTC,No. 3,Kosta Varagiannis,Luke Boulton,Kosta Varagiannis,6-2,6,2,1,0,Completed,true,false,false
+UA005144,30 May 10,14,Dendy Park 2,BLTC,No. 4,Adam Stack,Daniel Campbell,Daniel Campbell,5-7,5,7,0,1,Completed,true,false,false
+UA005301,,16,Dendy Park 2,BLTC,No. 1,Stephen Fletcher,James Lamb,Stephen Fletcher,6-3,6,3,1,0,Completed,true,false,false
+UA005301,,16,Dendy Park 2,BLTC,No. 2,Nick Jeffery,Mikey Fries,Nick Jeffery,6-2,6,2,1,0,Completed,true,false,false
+UA005301,,16,Dendy Park 2,BLTC,No. 3,Kosta Varagiannis,Tom Boulton,Tom Boulton,5-7,5,7,0,1,Completed,true,false,false
+UA005301,,16,Dendy Park 2,BLTC,No. 4,Alex Bulmaga,Daniel Campbell,Alex Bulmaga,6-2,6,2,1,0,Completed,true,true,false
+UA005302,,16,Dendy Park 1,Le Page,No. 1,Daniel Wotherspoon,Marcus Shanahan,Daniel Wotherspoon,6-1,6,1,1,0,Completed,true,false,false
+UA005302,,16,Dendy Park 1,Le Page,No. 2,Andrew Beveridge,Christian Carnovale,Andrew Beveridge,6-3,6,3,1,0,Completed,true,false,false
+UA005302,,16,Dendy Park 1,Le Page,No. 3,Alistair Kilner,Josh Groves,Josh Groves,3-6,3,6,0,1,Completed,true,false,false
+UA005302,,16,Dendy Park 1,Le Page,No. 4,Christopher Currie,Alex Lin,Alex Lin,4-6,4,6,0,1,Completed,true,false,false
+UA005321,,17,Dendy Park 2,Dendy Park 1,No. 1,Stephen Fletcher,Daniel Wotherspoon,Stephen Fletcher,6-4,6,4,1,0,Completed,true,false,false
+UA005321,,17,Dendy Park 2,Dendy Park 1,No. 2,Nick Jeffery,Andrew Beveridge,Nick Jeffery,6-3,6,3,1,0,Completed,true,false,false
+UA005321,,17,Dendy Park 2,Dendy Park 1,No. 3,Adam Stack,Alistair Kilner,Adam Stack,7-6,7,6,1,0,Completed,true,false,false
+UA005321,,17,Dendy Park 2,Dendy Park 1,No. 4,Alex Bulmaga,Christopher Currie,Alex Bulmaga,6-1,6,1,1,0,Completed,true,true,false

@@ -1,0 +1,73 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA003011,02 Feb 20,1,BLTC,Dendy Park,No. 1,Sam Chaplin,Lachlan Liberman,Sam Chaplin,6-2,6,2,1,0,Completed,true,false,false
+UA003011,02 Feb 20,1,BLTC,Dendy Park,No. 2,Hugo Marcombe,Damien Hookway,Hugo Marcombe,6-4,6,4,1,0,Completed,true,false,false
+UA003011,02 Feb 20,1,BLTC,Dendy Park,No. 3,Daniel Brown,Tom Stein,Tom Stein,2-6,2,6,0,1,Completed,true,false,false
+UA003011,02 Feb 20,1,BLTC,Dendy Park,No. 4,Lachie Harrop,Christian Karatzas,Christian Karatzas,5-7,5,7,0,1,Completed,true,true,false
+UA003012,02 Feb 20,1,Kooyong,GPHC,No. 1,Dustin Feldman,Luca Bond,Luca Bond,2-6,2,6,0,1,Completed,true,false,false
+UA003012,02 Feb 20,1,Kooyong,GPHC,No. 2,Jack Lennon,William Marquat,Jack Lennon,6-1,6,1,1,0,Completed,true,false,false
+UA003012,02 Feb 20,1,Kooyong,GPHC,No. 3,Spencer Hunter,Luke Gorski,Luke Gorski,4-6,4,6,0,1,Completed,true,false,false
+UA003012,02 Feb 20,1,Kooyong,GPHC,No. 4,Aydan Kumar,Zachary Raynes,Zachary Raynes,1-6,1,6,0,1,Completed,true,false,false
+UA003013,02 Feb 20,1,Royal Ave,St Joan of Arc,No. 1,Aleksey Granitsa,Lachlan King,Aleksey Granitsa,6-3,6,3,1,0,Completed,true,false,false
+UA003013,02 Feb 20,1,Royal Ave,St Joan of Arc,No. 2,Presley Evans,Harry Smith,Harry Smith,1-6,1,6,0,1,Completed,true,false,false
+UA003013,02 Feb 20,1,Royal Ave,St Joan of Arc,No. 3,Nicolette Hilaris,James McDougall,James McDougall,3-6,3,6,0,1,Completed,true,false,false
+UA003013,02 Feb 20,1,Royal Ave,St Joan of Arc,No. 4,Oliver Letham,Madison King,Oliver Letham,6-1,6,1,1,0,Completed,true,false,false
+UA003014,02 Feb 20,1,Tennis World,Carmelite,No. 1,Lara Burns,Angus Leckey,Lara Burns,6-2,6,2,1,0,Completed,true,false,false
+UA003014,02 Feb 20,1,Tennis World,Carmelite,No. 2,Patrick Homberg,Madeleine Wilson,Madeleine Wilson,1-6,1,6,0,1,Completed,true,false,false
+UA003014,02 Feb 20,1,Tennis World,Carmelite,No. 3,Ella Brown,Leon Katelis,Leon Katelis,2-6,2,6,0,1,Completed,true,false,false
+UA003014,02 Feb 20,1,Tennis World,Carmelite,No. 4,Anthony Miao,Charlie Boston,Anthony Miao,6-1,6,1,1,0,Completed,true,false,false
+UA003021,09 Feb 20,2,Carmelite,BLTC,No. 1,Angus Leckey,Sam Chaplin,Sam Chaplin,2-6,2,6,0,1,Completed,true,false,false
+UA003021,09 Feb 20,2,Carmelite,BLTC,No. 2,Darcy Whitebrook,Hugo Marcombe,Darcy Whitebrook,6-3,6,3,1,0,Completed,true,false,false
+UA003021,09 Feb 20,2,Carmelite,BLTC,No. 3,Leon Katelis,Lachie Harrop,Leon Katelis,6-3,6,3,1,0,Completed,true,false,true
+UA003021,09 Feb 20,2,Carmelite,BLTC,No. 4,Charlie Boston,Archer Harrop,Charlie Boston,6-1,6,1,1,0,Completed,true,false,true
+UA003022,09 Feb 20,2,Dendy Park,Kooyong,No. 1,Henri Robinson,Lachlan Main,Lachlan Main,6-7,6,7,0,1,Completed,true,false,false
+UA003022,09 Feb 20,2,Dendy Park,Kooyong,No. 2,Lachlan Liberman,Jack Lennon,Lachlan Liberman,6-4,6,4,1,0,Completed,true,false,false
+UA003022,09 Feb 20,2,Dendy Park,Kooyong,No. 3,Tom Stein,Aydan Kumar,Tom Stein,6-2,6,2,1,0,Completed,true,false,false
+UA003022,09 Feb 20,2,Dendy Park,Kooyong,No. 4,Christian Karatzas,Sophie Siddons,Christian Karatzas,6-3,6,3,1,0,Completed,true,false,false
+UA003023,09 Feb 20,2,GPHC,Royal Ave,No. 1,Luca Bond,Aleksey Granitsa,Luca Bond,6-4,6,4,1,0,Completed,true,false,false
+UA003023,09 Feb 20,2,GPHC,Royal Ave,No. 2,William Marquat,Presley Evans,Presley Evans,3-6,3,6,0,1,Completed,true,false,false
+UA003023,09 Feb 20,2,GPHC,Royal Ave,No. 3,Luke Gorski,Nicolette Hilaris,Luke Gorski,6-2,6,2,1,0,Completed,true,false,false
+UA003023,09 Feb 20,2,GPHC,Royal Ave,No. 4,Max Noble,Oliver Letham,Max Noble,6-2,6,2,1,0,Completed,true,false,false
+UA003024,09 Feb 20,2,St Joan of Arc,Tennis World,No. 1,Lachlan King,Lara Burns,Lachlan King,6-1,6,1,1,0,Completed,true,false,false
+UA003024,09 Feb 20,2,St Joan of Arc,Tennis World,No. 2,Ethan Kearns,Patrick Homberg,Ethan Kearns,6-2,6,2,1,0,Completed,true,false,false
+UA003024,09 Feb 20,2,St Joan of Arc,Tennis World,No. 3,Tommy Trist,Ella Brown,Tommy Trist,6-2,6,2,1,0,Completed,true,false,false
+UA003024,09 Feb 20,2,St Joan of Arc,Tennis World,No. 4,Madison King,Zachary Van Dijk,Zachary Van Dijk,3-6,3,6,0,1,Completed,true,false,false
+UA003031,16 Feb 20,3,BLTC,St Joan of Arc,No. 1,Sam Chaplin,Archie Barry,Archie Barry,3-6,3,6,0,1,Completed,true,false,true
+UA003031,16 Feb 20,3,BLTC,St Joan of Arc,No. 2,Hugo Marcombe,Harry Smith,Harry Smith,0-6,0,6,0,1,Completed,true,false,false
+UA003031,16 Feb 20,3,BLTC,St Joan of Arc,No. 3,Archie Rose,Ethan Kearns,Ethan Kearns,2-6,2,6,0,1,Completed,true,false,false
+UA003031,16 Feb 20,3,BLTC,St Joan of Arc,No. 4,Yarden Lashchoren,James McDougall,James McDougall,0-6,0,6,0,1,Completed,true,true,false
+UA003032,16 Feb 20,3,Kooyong,Carmelite,No. 1,Dustin Feldman,Angus Leckey,Angus Leckey,5-7,5,7,0,1,Completed,true,false,false
+UA003032,16 Feb 20,3,Kooyong,Carmelite,No. 2,Lachlan Main,Madeleine Wilson,Madeleine Wilson,3-6,3,6,0,1,Completed,true,false,false
+UA003032,16 Feb 20,3,Kooyong,Carmelite,No. 3,Jack Lennon,Darcy Whitebrook,Darcy Whitebrook,6-7,6,7,0,1,Completed,true,false,false
+UA003032,16 Feb 20,3,Kooyong,Carmelite,No. 4,Spencer Hunter,Charlie Boston,Spencer Hunter,7-5,7,5,1,0,Completed,true,false,false
+UA003033,16 Feb 20,3,Royal Ave,Dendy Park,No. 1,Aleksey Granitsa,Henri Robinson,Aleksey Granitsa,6-2,6,2,1,0,Completed,true,false,false
+UA003033,16 Feb 20,3,Royal Ave,Dendy Park,No. 2,Presley Evans,Lachlan Liberman,Presley Evans,6-3,6,3,1,0,Completed,true,false,false
+UA003033,16 Feb 20,3,Royal Ave,Dendy Park,No. 3,Nicolette Hilaris,Damien Hookway,Damien Hookway,3-6,3,6,0,1,Completed,true,false,false
+UA003033,16 Feb 20,3,Royal Ave,Dendy Park,No. 4,Oliver Letham,Christian Karatzas,Oliver Letham,7-5,7,5,1,0,Completed,true,false,false
+UA003034,16 Feb 20,3,Tennis World,GPHC,No. 1,Lara Burns,Luca Bond,Luca Bond,4-6,4,6,0,1,Completed,true,false,false
+UA003034,16 Feb 20,3,Tennis World,GPHC,No. 2,Anthony Miao,Zachary Raynes,Anthony Miao,7-6,7,6,1,0,Completed,true,false,false
+UA003034,16 Feb 20,3,Tennis World,GPHC,No. 3,Zachary Van Dijk,Alex Crouch,Alex Crouch,2-6,2,6,0,1,Completed,true,false,true
+UA003034,16 Feb 20,3,Tennis World,GPHC,No. 4,Harold Jang,Max Noble,Max Noble,1-6,1,6,0,1,Completed,true,true,false
+UA003042,23 Feb 20,4,St Joan of Arc,Kooyong,No. 1,Lachlan King,Dustin Feldman,Lachlan King,6-1,6,1,1,0,Completed,true,false,false
+UA003042,23 Feb 20,4,St Joan of Arc,Kooyong,No. 2,Tommy Trist,Lachlan Main,Lachlan Main,3-6,3,6,0,1,Completed,true,false,false
+UA003042,23 Feb 20,4,St Joan of Arc,Kooyong,No. 3,James McDougall,Spencer Hunter,Spencer Hunter,2-6,2,6,0,1,Completed,true,false,false
+UA003042,23 Feb 20,4,St Joan of Arc,Kooyong,No. 4,Madison King,Aydan Kumar,Madison King,6-3,6,3,1,0,Completed,true,false,false
+UA003043,23 Feb 20,4,Carmelite,Royal Ave,No. 1,Angus Leckey,Aleksey Granitsa,Aleksey Granitsa,4-6,4,6,0,1,Completed,true,false,false
+UA003043,23 Feb 20,4,Carmelite,Royal Ave,No. 2,Madeleine Wilson,Nicolette Hilaris,Madeleine Wilson,6-0,6,0,1,0,Completed,true,false,false
+UA003043,23 Feb 20,4,Carmelite,Royal Ave,No. 3,Darcy Whitebrook,Oliver Letham,Darcy Whitebrook,6-2,6,2,1,0,Completed,true,false,false
+UA003043,23 Feb 20,4,Carmelite,Royal Ave,No. 4,Leon Katelis,Jacob Wise,Leon Katelis,6-1,6,1,1,0,Completed,true,false,true
+UA003044,23 Feb 20,4,Dendy Park,Tennis World,No. 1,Henri Robinson,Oscar Gillespie,Oscar Gillespie,0-6,0,6,0,1,Completed,true,false,true
+UA003044,23 Feb 20,4,Dendy Park,Tennis World,No. 2,Damien Hookway,Ella Brown,Damien Hookway,6-0,6,0,1,0,Completed,true,false,false
+UA003044,23 Feb 20,4,Dendy Park,Tennis World,No. 3,Tom Stein,Anthony Miao,Tom Stein,6-2,6,2,1,0,Completed,true,false,false
+UA003044,23 Feb 20,4,Dendy Park,Tennis World,No. 4,Christian Karatzas,[Unnamed player — TROLS UA003044 away code 4],Christian Karatzas,6-0,6,0,1,0,Completed,false,false,false
+UA003052,01 Mar 20,5,Carmelite,St Joan of Arc,No. 1,Angus Leckey,Lachlan King,Lachlan King,1-6,1,6,0,1,Completed,true,false,false
+UA003052,01 Mar 20,5,Carmelite,St Joan of Arc,No. 2,Darcy Whitebrook,Harry Smith,Darcy Whitebrook,6-3,6,3,1,0,Completed,true,false,false
+UA003052,01 Mar 20,5,Carmelite,St Joan of Arc,No. 3,Leon Katelis,Tommy Trist,Leon Katelis,6-3,6,3,1,0,Completed,true,false,false
+UA003052,01 Mar 20,5,Carmelite,St Joan of Arc,No. 4,Charlie Boston,James McDougall,Charlie Boston,6-1,6,1,1,0,Completed,true,false,false
+UA003053,01 Mar 20,5,GPHC,Dendy Park,No. 1,Luca Bond,Henri Robinson,Henri Robinson,3-6,3,6,0,1,Completed,true,false,false
+UA003053,01 Mar 20,5,GPHC,Dendy Park,No. 2,William Marquat,Lachlan Liberman,Lachlan Liberman,2-6,2,6,0,1,Completed,true,false,false
+UA003053,01 Mar 20,5,GPHC,Dendy Park,No. 3,Luke Gorski,Damien Hookway,Luke Gorski,6-1,6,1,1,0,Completed,true,false,false
+UA003053,01 Mar 20,5,GPHC,Dendy Park,No. 4,Max Noble,Tom Stein,Tom Stein,3-6,3,6,0,1,Completed,true,false,false
+UA003054,01 Mar 20,5,BLTC,Kooyong,No. 1,Sam Chaplin,Dustin Feldman,Dustin Feldman,1-6,1,6,0,1,Completed,true,false,false
+UA003054,01 Mar 20,5,BLTC,Kooyong,No. 2,Hugo Marcombe,Lachlan Main,Lachlan Main,3-6,3,6,0,1,Completed,true,false,false
+UA003054,01 Mar 20,5,BLTC,Kooyong,No. 3,Archie Rose,Spencer Hunter,Spencer Hunter,0-6,0,6,0,1,Completed,true,false,false
+UA003054,01 Mar 20,5,BLTC,Kooyong,No. 4,Yarden Lashchoren,Sophie Siddons,Yarden Lashchoren,6-0,6,0,1,0,Completed,true,true,false

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA32-UA012",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2023",
+  "season_id": "UA32",
+  "season_label": "Autumn 2023",
+  "source_section_code": "UA012",
+  "section_label": "Section 12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World",
+      "wins": 10,
+      "points": 107,
+      "percentage": 251.47,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Kooyong",
+      "wins": 6,
+      "points": 72,
+      "percentage": 102.31,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "St Louis de Mont",
+      "wins": 5,
+      "points": 67,
+      "percentage": 118.15,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Elsternwick Park Blue",
+      "wins": 4,
+      "points": 60,
+      "percentage": 98.19,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Victory Park",
+      "wins": 5,
+      "points": 58,
+      "percentage": 71.3,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave Purple",
+      "wins": 4,
+      "points": 57,
+      "percentage": 89.49,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave Green",
+      "wins": 3,
+      "points": 51,
+      "percentage": 74.58,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Aspendale",
+      "wins": 3,
+      "points": 48,
+      "percentage": 83.38,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA32-UA012",
+  "fixtures": 55,
+  "completed_fixtures": 44,
+  "draw_fixtures": 45,
+  "singles_rubbers": 176,
+  "doubles_rubbers": 88,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

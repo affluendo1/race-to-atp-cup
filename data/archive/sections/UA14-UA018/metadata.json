@@ -1,0 +1,75 @@
+{
+  "asset_id": "UA14-UA018",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2014",
+  "season_id": "UA14",
+  "season_label": "Autumn 2014",
+  "source_section_code": "UA018",
+  "section_label": "Section 18",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Lauriston 2",
+      "wins": 13,
+      "points": 123.5,
+      "percentage": 166.22,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Murrumbeena",
+      "wins": 10,
+      "points": 111,
+      "percentage": 156.45,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Highett",
+      "wins": 6,
+      "points": 64,
+      "percentage": 87.29,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Lauriston 1",
+      "wins": 5,
+      "points": 59,
+      "percentage": 81.35,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Tennis World",
+      "wins": 4,
+      "points": 53.5,
+      "percentage": 77.67,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong Xavier",
+      "wins": 2,
+      "points": 39,
+      "percentage": 65.57,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA14-UA018",
+  "fixtures": 46,
+  "completed_fixtures": 41,
+  "draw_fixtures": 57,
+  "singles_rubbers": 164,
+  "doubles_rubbers": 82,
+  "latest_round": 16,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

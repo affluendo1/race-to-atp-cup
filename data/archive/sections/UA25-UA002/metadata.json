@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA25-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2019",
+  "season_id": "UA25",
+  "season_label": "Spring 2019",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Dendy Park",
+      "wins": 10,
+      "points": 104,
+      "percentage": 141.28,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Hurlingham Park",
+      "wins": 11,
+      "points": 101,
+      "percentage": 144.04,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Royal South Yarra",
+      "wins": 7,
+      "points": 90,
+      "percentage": 141.11,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Tennis World",
+      "wins": 9,
+      "points": 90,
+      "percentage": 128.26,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "GPHC",
+      "wins": 4,
+      "points": 59,
+      "percentage": 91.81,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC",
+      "wins": 1,
+      "points": 43,
+      "percentage": 84.27,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Centenary Park",
+      "wins": 3,
+      "points": 38,
+      "percentage": 39.79,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Coatesville",
+      "wins": 1,
+      "points": 35,
+      "percentage": 72.84,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA25-UA002",
+  "fixtures": 59,
+  "completed_fixtures": 49,
+  "draw_fixtures": 59,
+  "singles_rubbers": 196,
+  "doubles_rubbers": 98,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

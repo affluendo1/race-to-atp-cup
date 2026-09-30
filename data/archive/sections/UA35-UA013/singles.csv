@@ -1,0 +1,217 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA013011,21 Jul 24,1,Kooyong,Le Page Green,No. 1,Tom Juric,Marcus Sotos,Tom Juric,6-3,6,3,1,0,Completed,true,false,false
+UA013011,21 Jul 24,1,Kooyong,Le Page Green,No. 2,Maxim Leveque,Kai Hu,Kai Hu,3-6,3,6,0,1,Completed,true,false,false
+UA013011,21 Jul 24,1,Kooyong,Le Page Green,No. 3,Annie Juric,Matthew Crossley,Matthew Crossley,1-6,1,6,0,1,Completed,true,false,false
+UA013011,21 Jul 24,1,Kooyong,Le Page Green,No. 4,Will Ryan,Tome Lazic,Tome Lazic,6-7,6,7,0,1,Completed,true,false,false
+UA013012,21 Jul 24,1,Le Page Blue,Lauriston,No. 1,Jonathan Friedman,Siddarth Japati,Jonathan Friedman,6-3,6,3,1,0,Completed,true,false,false
+UA013012,21 Jul 24,1,Le Page Blue,Lauriston,No. 2,Sean Kim,Toby Gordon,Toby Gordon,3-6,3,6,0,1,Completed,true,false,false
+UA013012,21 Jul 24,1,Le Page Blue,Lauriston,No. 3,Diego Fernando,Angeline Pham,Angeline Pham,0-6,0,6,0,1,Completed,true,false,false
+UA013012,21 Jul 24,1,Le Page Blue,Lauriston,No. 4,Leon Sukuan Li,Emma McArthur,Emma McArthur,4-6,4,6,0,1,Completed,true,false,false
+UA013013,21 Jul 24,1,Carmelite,Coatesville,No. 1,Will Yelland,Rohan Satish,Rohan Satish,2-6,2,6,0,1,Completed,true,false,false
+UA013013,21 Jul 24,1,Carmelite,Coatesville,No. 2,Carmen Wilson,Xavier Pace,Carmen Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA013013,21 Jul 24,1,Carmelite,Coatesville,No. 3,Andre Cartel,Maisey McCallum,Maisey McCallum,1-6,1,6,0,1,Completed,true,false,false
+UA013013,21 Jul 24,1,Carmelite,Coatesville,No. 4,Archie Ingram,Kazu Nakada,Archie Ingram,6-2,6,2,1,0,Completed,true,false,false
+UA013014,21 Jul 24,1,Murrumbeena,Aspendale,No. 1,Chloe Bow,Lucy Beatie,Chloe Bow,6-1,6,1,1,0,Completed,true,true,false
+UA013014,21 Jul 24,1,Murrumbeena,Aspendale,No. 2,Jayden Lin,Brendan McCaul,Brendan McCaul,3-6,3,6,0,1,Completed,true,false,false
+UA013014,21 Jul 24,1,Murrumbeena,Aspendale,No. 3,Myra Singhania,Tom McCaul,Tom McCaul,5-7,5,7,0,1,Completed,true,false,false
+UA013014,21 Jul 24,1,Murrumbeena,Aspendale,No. 4,Lucinda Vidal,Liam Schoots,Liam Schoots,0-6,0,6,0,1,Completed,true,false,false
+UA013021,28 Jul 24,2,Aspendale,Kooyong,No. 1,Lucy Beatie,Annie Juric,Lucy Beatie,6-0,6,0,1,0,Completed,true,false,false
+UA013021,28 Jul 24,2,Aspendale,Kooyong,No. 2,Tom McCaul,Will Ryan,Tom McCaul,6-2,6,2,1,0,Completed,true,false,false
+UA013021,28 Jul 24,2,Aspendale,Kooyong,No. 3,Liam Schoots,Max Louis,Liam Schoots,6-2,6,2,1,0,Completed,true,false,false
+UA013021,28 Jul 24,2,Aspendale,Kooyong,No. 4,Kai Schmidt-ramsay,Ligi Pellegrini,Ligi Pellegrini,4-6,4,6,0,1,Completed,true,true,false
+UA013032,04 Aug 24,3,Le Page Blue,Aspendale,No. 1,Jonathan Friedman,Brendan McCaul,Brendan McCaul,3-6,3,6,0,1,Completed,true,false,false
+UA013032,04 Aug 24,3,Le Page Blue,Aspendale,No. 2,Sean Kim,Tom McCaul,Tom McCaul,2-6,2,6,0,1,Completed,true,false,false
+UA013032,04 Aug 24,3,Le Page Blue,Aspendale,No. 3,Leon Sukuan Li,Liam Schoots,Liam Schoots,1-6,1,6,0,1,Completed,true,false,false
+UA013032,04 Aug 24,3,Le Page Blue,Aspendale,No. 4,Yatharth Manware,Kai Schmidt-ramsay,Yatharth Manware,6-3,6,3,1,0,Completed,true,false,true
+UA013033,04 Aug 24,3,Carmelite,Le Page Green,No. 1,Leo Tobin,Marcus Sotos,Marcus Sotos,5-7,5,7,0,1,Completed,true,false,false
+UA013033,04 Aug 24,3,Carmelite,Le Page Green,No. 2,Will Yelland,Kai Hu,Kai Hu,5-7,5,7,0,1,Completed,true,false,false
+UA013033,04 Aug 24,3,Carmelite,Le Page Green,No. 3,Andre Cartel,Matthew Crossley,Andre Cartel,6-2,6,2,1,0,Completed,true,false,false
+UA013033,04 Aug 24,3,Carmelite,Le Page Green,No. 4,Curtis Brown,Harvey Conway,Curtis Brown,6-3,6,3,1,0,Completed,true,false,false
+UA013034,04 Aug 24,3,Murrumbeena,Lauriston,No. 1,Chloe Bow,Siddarth Japati,Chloe Bow,6-3,6,3,1,0,Completed,true,true,false
+UA013034,04 Aug 24,3,Murrumbeena,Lauriston,No. 2,Jayden Lin,Toby Gordon,Jayden Lin,6-1,6,1,1,0,Completed,true,false,false
+UA013034,04 Aug 24,3,Murrumbeena,Lauriston,No. 3,Alena Givargis,Angeline Pham,Angeline Pham,1-6,1,6,0,1,Completed,true,false,false
+UA013034,04 Aug 24,3,Murrumbeena,Lauriston,No. 4,Lucinda Vidal,Emma McArthur,Emma McArthur,4-6,4,6,0,1,Completed,true,false,false
+UA013041,11 Aug 24,4,Lauriston,Kooyong,No. 1,Siddarth Japati,Maxim Leveque,Maxim Leveque,2-6,2,6,0,1,Completed,true,false,false
+UA013041,11 Aug 24,4,Lauriston,Kooyong,No. 2,Toby Gordon,Annie Juric,Toby Gordon,6-0,6,0,1,0,Completed,true,false,false
+UA013041,11 Aug 24,4,Lauriston,Kooyong,No. 3,Angeline Pham,[Unnamed player — TROLS UA013041 away code 3],Angeline Pham,6-0,6,0,1,0,Completed,false,false,false
+UA013041,11 Aug 24,4,Lauriston,Kooyong,No. 4,Emma McArthur,[Unnamed player — TROLS UA013041 away code 4],Emma McArthur,6-0,6,0,1,0,Completed,false,false,false
+UA013042,11 Aug 24,4,Coatesville,Le Page Blue,No. 1,Rohan Satish,Sean Kim,Rohan Satish,6-1,6,1,1,0,Completed,true,false,false
+UA013042,11 Aug 24,4,Coatesville,Le Page Blue,No. 2,Maisey McCallum,Leon Sukuan Li,Leon Sukuan Li,0-6,0,6,0,1,Completed,true,false,false
+UA013042,11 Aug 24,4,Coatesville,Le Page Blue,No. 3,Kazu Nakada,Yatharth Manware,Yatharth Manware,2-6,2,6,0,1,Completed,true,false,false
+UA013042,11 Aug 24,4,Coatesville,Le Page Blue,No. 4,Navin Dinesh,Johnny Wu,Johnny Wu,3-6,3,6,0,1,Completed,true,true,true
+UA013043,11 Aug 24,4,Aspendale,Carmelite,No. 1,Lucy Beatie,Leo Tobin,Lucy Beatie,6-3,6,3,1,0,Completed,true,false,false
+UA013043,11 Aug 24,4,Aspendale,Carmelite,No. 2,Tom McCaul,Carmen Wilson,Tom McCaul,7-6,7,6,1,0,Completed,true,false,false
+UA013043,11 Aug 24,4,Aspendale,Carmelite,No. 3,Brendan McCaul,Zac Unsworth,Zac Unsworth,6-7,6,7,0,1,Completed,true,false,false
+UA013043,11 Aug 24,4,Aspendale,Carmelite,No. 4,Liam Schoots,Bryson Walters,Liam Schoots,6-0,6,0,1,0,Completed,true,false,true
+UA013044,11 Aug 24,4,Le Page Green,Murrumbeena,No. 1,Marcus Sotos,Chloe Bow,Chloe Bow,4-6,4,6,0,1,Completed,true,false,true
+UA013044,11 Aug 24,4,Le Page Green,Murrumbeena,No. 2,Matthew Crossley,Jayden Lin,Jayden Lin,1-6,1,6,0,1,Completed,true,false,false
+UA013044,11 Aug 24,4,Le Page Green,Murrumbeena,No. 3,Tome Lazic,Myra Singhania,Tome Lazic,6-1,6,1,1,0,Completed,true,false,false
+UA013044,11 Aug 24,4,Le Page Green,Murrumbeena,No. 4,Harvey Conway,Daniel Ortolan,Daniel Ortolan,1-6,1,6,0,1,Completed,true,false,true
+UA013051,18 Aug 24,5,Carmelite,Murrumbeena,No. 1,Will Yelland,Jayden Lin,Jayden Lin,1-6,1,6,0,1,Completed,true,false,false
+UA013051,18 Aug 24,5,Carmelite,Murrumbeena,No. 2,Andre Cartel,Myra Singhania,Andre Cartel,7-6,7,6,1,0,Completed,true,false,false
+UA013051,18 Aug 24,5,Carmelite,Murrumbeena,No. 3,Zac Unsworth,Lucinda Vidal,Zac Unsworth,6-1,6,1,1,0,Completed,true,false,false
+UA013051,18 Aug 24,5,Carmelite,Murrumbeena,No. 4,Curtis Brown,Cisco Biffin,Curtis Brown,6-3,6,3,1,0,Completed,true,false,true
+UA013052,18 Aug 24,5,Aspendale,Coatesville,No. 1,Lucy Beatie,Rohan Satish,Lucy Beatie,6-2,6,2,1,0,Completed,true,false,false
+UA013052,18 Aug 24,5,Aspendale,Coatesville,No. 2,Tom McCaul,Maisey McCallum,Tom McCaul,6-1,6,1,1,0,Completed,true,false,false
+UA013052,18 Aug 24,5,Aspendale,Coatesville,No. 3,Liam Schoots,Kazu Nakada,Liam Schoots,6-1,6,1,1,0,Completed,true,false,false
+UA013052,18 Aug 24,5,Aspendale,Coatesville,No. 4,Sean Butler,Ananaya Ramasubramanian,Sean Butler,6-0,6,0,1,0,Completed,true,false,false
+UA013053,18 Aug 24,5,Lauriston,Le Page Green,No. 1,Siddarth Japati,Kai Hu,Kai Hu,3-6,3,6,0,1,Completed,true,false,false
+UA013053,18 Aug 24,5,Lauriston,Le Page Green,No. 2,Toby Gordon,Matthew Crossley,Toby Gordon,6-4,6,4,1,0,Completed,true,false,false
+UA013053,18 Aug 24,5,Lauriston,Le Page Green,No. 3,Angeline Pham,Tome Lazic,Angeline Pham,6-4,6,4,1,0,Completed,true,false,false
+UA013053,18 Aug 24,5,Lauriston,Le Page Green,No. 4,Emma McArthur,Harvey Conway,Emma McArthur,6-4,6,4,1,0,Completed,true,false,false
+UA013054,18 Aug 24,5,Kooyong,Le Page Blue,No. 1,Maxim Leveque,Jonathan Friedman,Maxim Leveque,6-3,6,3,1,0,Completed,true,false,false
+UA013054,18 Aug 24,5,Kooyong,Le Page Blue,No. 2,Annie Juric,Sean Kim,Sean Kim,0-6,0,6,0,1,Completed,true,false,false
+UA013054,18 Aug 24,5,Kooyong,Le Page Blue,No. 3,Will Ryan,Leon Sukuan Li,Leon Sukuan Li,2-6,2,6,0,1,Completed,true,false,false
+UA013054,18 Aug 24,5,Kooyong,Le Page Blue,No. 4,Ligi Pellegrini,Yohan Singh,Ligi Pellegrini,7-5,7,5,1,0,Completed,true,false,true
+UA013061,25 Aug 24,6,Le Page Blue,Carmelite,No. 1,Jonathan Friedman,Leo Tobin,Jonathan Friedman,6-2,6,2,1,0,Completed,true,false,false
+UA013061,25 Aug 24,6,Le Page Blue,Carmelite,No. 2,Sean Kim,Carmen Wilson,Sean Kim,6-3,6,3,1,0,Completed,true,false,false
+UA013061,25 Aug 24,6,Le Page Blue,Carmelite,No. 3,Leon Sukuan Li,Archie Ingram,Leon Sukuan Li,6-3,6,3,1,0,Completed,true,false,false
+UA013061,25 Aug 24,6,Le Page Blue,Carmelite,No. 4,Yohan Singh,Zac Unsworth,Zac Unsworth,3-6,3,6,0,1,Completed,true,true,false
+UA013062,25 Aug 24,6,Murrumbeena,Kooyong,No. 1,Jayden Lin,Maxim Leveque,Maxim Leveque,2-6,2,6,0,1,Completed,true,false,false
+UA013062,25 Aug 24,6,Murrumbeena,Kooyong,No. 2,Alena Givargis,Will Ryan,Alena Givargis,6-0,6,0,1,0,Completed,true,false,false
+UA013062,25 Aug 24,6,Murrumbeena,Kooyong,No. 3,Lucinda Vidal,Max Louis,Lucinda Vidal,6-2,6,2,1,0,Completed,true,false,false
+UA013062,25 Aug 24,6,Murrumbeena,Kooyong,No. 4,Hadyen Brown,Charlie Sim,Charlie Sim,1-6,1,6,0,1,Completed,true,true,true
+UA013063,25 Aug 24,6,Coatesville,Lauriston,No. 1,Rohan Satish,Siddarth Japati,Rohan Satish,6-2,6,2,1,0,Completed,true,false,false
+UA013063,25 Aug 24,6,Coatesville,Lauriston,No. 2,Xavier Pace,Toby Gordon,Toby Gordon,4-6,4,6,0,1,Completed,true,false,false
+UA013063,25 Aug 24,6,Coatesville,Lauriston,No. 3,Kazu Nakada,Angeline Pham,Angeline Pham,0-6,0,6,0,1,Completed,true,false,false
+UA013063,25 Aug 24,6,Coatesville,Lauriston,No. 4,Vivaan Shah,Benjamin Pham,Vivaan Shah,6-1,6,1,1,0,Completed,true,true,true
+UA013064,25 Aug 24,6,Le Page Green,Aspendale,No. 1,Kai Hu,Lucy Beatie,Kai Hu,7-6,7,6,1,0,Completed,true,false,false
+UA013064,25 Aug 24,6,Le Page Green,Aspendale,No. 2,Matthew Crossley,Brendan McCaul,Matthew Crossley,6-3,6,3,1,0,Completed,true,false,false
+UA013064,25 Aug 24,6,Le Page Green,Aspendale,No. 3,Tome Lazic,Leo Wintle,Leo Wintle,4-6,4,6,0,1,Completed,true,false,true
+UA013064,25 Aug 24,6,Le Page Green,Aspendale,No. 4,Harvey Conway,Sean Butler,Sean Butler,3-6,3,6,0,1,Completed,true,false,false
+UA013071,01 Sep 24,7,Kooyong,Carmelite,No. 1,Tom Juric,Leo Tobin,Leo Tobin,1-6,1,6,0,1,Completed,true,false,false
+UA013071,01 Sep 24,7,Kooyong,Carmelite,No. 2,Maxim Leveque,Will Yelland,Maxim Leveque,6-0,6,0,1,0,Completed,true,false,false
+UA013071,01 Sep 24,7,Kooyong,Carmelite,No. 3,Will Ryan,Archie Ingram,Will Ryan,6-4,6,4,1,0,Completed,true,false,false
+UA013071,01 Sep 24,7,Kooyong,Carmelite,No. 4,Max Louis,Curtis Brown,Max Louis,6-2,6,2,1,0,Completed,true,false,false
+UA013072,01 Sep 24,7,Le Page Blue,Murrumbeena,No. 1,Jonathan Friedman,Jayden Lin,Jayden Lin,2-6,2,6,0,1,Completed,true,false,false
+UA013072,01 Sep 24,7,Le Page Blue,Murrumbeena,No. 2,Sean Kim,Myra Singhania,Sean Kim,7-5,7,5,1,0,Completed,true,false,false
+UA013072,01 Sep 24,7,Le Page Blue,Murrumbeena,No. 3,Leon Sukuan Li,Alena Givargis,Leon Sukuan Li,6-0,6,0,1,0,Completed,true,false,false
+UA013072,01 Sep 24,7,Le Page Blue,Murrumbeena,No. 4,Johnny Wu,Lucinda Vidal,Lucinda Vidal,4-6,4,6,0,1,Completed,true,true,false
+UA013073,01 Sep 24,7,Aspendale,Lauriston,No. 1,Lucy Beatie,Siddarth Japati,Lucy Beatie,6-4,6,4,1,0,Completed,true,false,false
+UA013073,01 Sep 24,7,Aspendale,Lauriston,No. 2,Brendan McCaul,Toby Gordon,Brendan McCaul,6-4,6,4,1,0,Completed,true,false,false
+UA013073,01 Sep 24,7,Aspendale,Lauriston,No. 3,Tom McCaul,Angeline Pham,Angeline Pham,5-7,5,7,0,1,Completed,true,false,false
+UA013073,01 Sep 24,7,Aspendale,Lauriston,No. 4,Liam Schoots,Emma McArthur,Liam Schoots,6-1,6,1,1,0,Completed,true,false,false
+UA013074,01 Sep 24,7,Coatesville,Le Page Green,No. 1,Rohan Satish,Kai Hu,Kai Hu,5-7,5,7,0,1,Completed,true,false,false
+UA013074,01 Sep 24,7,Coatesville,Le Page Green,No. 2,Maisey McCallum,Matthew Crossley,Maisey McCallum,6-2,6,2,1,0,Completed,true,false,false
+UA013074,01 Sep 24,7,Coatesville,Le Page Green,No. 3,Ananaya Ramasubramanian,Tome Lazic,Tome Lazic,0-6,0,6,0,1,Completed,true,false,false
+UA013074,01 Sep 24,7,Coatesville,Le Page Green,No. 4,Ziggy McCallum,Harvey Conway,Harvey Conway,4-6,4,6,0,1,Completed,true,true,false
+UA013081,08 Sep 24,8,Le Page Green,Kooyong,No. 1,Kai Hu,Tom Juric,Kai Hu,6-4,6,4,1,0,Completed,true,false,false
+UA013081,08 Sep 24,8,Le Page Green,Kooyong,No. 2,Matthew Crossley,Annie Juric,Matthew Crossley,6-0,6,0,1,0,Completed,true,false,false
+UA013081,08 Sep 24,8,Le Page Green,Kooyong,No. 3,Tome Lazic,Will Ryan,Tome Lazic,6-0,6,0,1,0,Completed,true,false,false
+UA013081,08 Sep 24,8,Le Page Green,Kooyong,No. 4,Harvey Conway,Max Louis,Harvey Conway,6-1,6,1,1,0,Completed,true,false,false
+UA013082,08 Sep 24,8,Lauriston,Le Page Blue,No. 1,Siddarth Japati,Jonathan Friedman,Jonathan Friedman,3-6,3,6,0,1,Completed,true,false,false
+UA013082,08 Sep 24,8,Lauriston,Le Page Blue,No. 2,Toby Gordon,Sean Kim,Toby Gordon,6-1,6,1,1,0,Completed,true,false,false
+UA013082,08 Sep 24,8,Lauriston,Le Page Blue,No. 3,Angeline Pham,Leon Sukuan Li,Angeline Pham,6-4,6,4,1,0,Completed,true,false,false
+UA013082,08 Sep 24,8,Lauriston,Le Page Blue,No. 4,Emma McArthur,Alex Liang,Alex Liang,1-6,1,6,0,1,Completed,true,false,true
+UA013083,08 Sep 24,8,Coatesville,Carmelite,No. 1,Rohan Satish,Will Yelland,Rohan Satish,6-4,6,4,1,0,Completed,true,false,false
+UA013083,08 Sep 24,8,Coatesville,Carmelite,No. 2,Maisey McCallum,Carmen Wilson,Maisey McCallum,6-4,6,4,1,0,Completed,true,false,false
+UA013083,08 Sep 24,8,Coatesville,Carmelite,No. 3,Kazu Nakada,Zac Unsworth,Zac Unsworth,1-6,1,6,0,1,Completed,true,false,false
+UA013083,08 Sep 24,8,Coatesville,Carmelite,No. 4,Ananaya Ramasubramanian,Curtis Brown,Ananaya Ramasubramanian,6-2,6,2,1,0,Completed,true,false,false
+UA013084,08 Sep 24,8,Aspendale,Murrumbeena,No. 1,Lucy Beatie,Lillia Givargis,Lucy Beatie,6-3,6,3,1,0,Completed,true,false,false
+UA013084,08 Sep 24,8,Aspendale,Murrumbeena,No. 2,Tom McCaul,Phelix Ma,Phelix Ma,0-6,0,6,0,1,Completed,true,false,false
+UA013084,08 Sep 24,8,Aspendale,Murrumbeena,No. 3,Liam Schoots,Myra Singhania,Liam Schoots,6-3,6,3,1,0,Completed,true,false,false
+UA013084,08 Sep 24,8,Aspendale,Murrumbeena,No. 4,Sean Butler,Lucinda Vidal,Sean Butler,6-4,6,4,1,0,Completed,true,false,false
+UA013091,15 Sep 24,9,Kooyong,Aspendale,No. 1,Maxim Leveque,Lucy Beatie,Lucy Beatie,2-6,2,6,0,1,Completed,true,false,false
+UA013091,15 Sep 24,9,Kooyong,Aspendale,No. 2,Annie Juric,Brendan McCaul,Brendan McCaul,0-6,0,6,0,1,Completed,true,false,false
+UA013091,15 Sep 24,9,Kooyong,Aspendale,No. 3,Will Ryan,Tom McCaul,Will Ryan,6-3,6,3,1,0,Completed,true,false,false
+UA013091,15 Sep 24,9,Kooyong,Aspendale,No. 4,Ligi Pellegrini,Sean Butler,Sean Butler,5-7,5,7,0,1,Completed,true,false,false
+UA013092,15 Sep 24,9,Le Page Blue,Le Page Green,No. 1,Jonathan Friedman,Kai Hu,Jonathan Friedman,7-6,7,6,1,0,Completed,true,false,false
+UA013092,15 Sep 24,9,Le Page Blue,Le Page Green,No. 2,Sean Kim,Matthew Crossley,Sean Kim,7-5,7,5,1,0,Completed,true,false,false
+UA013092,15 Sep 24,9,Le Page Blue,Le Page Green,No. 3,Leon Sukuan Li,Harvey Conway,Leon Sukuan Li,6-2,6,2,1,0,Completed,true,false,false
+UA013092,15 Sep 24,9,Le Page Blue,Le Page Green,No. 4,Liv Ingleton,Ben Watson,Ben Watson,3-6,3,6,0,1,Completed,true,true,true
+UA013093,15 Sep 24,9,Carmelite,Lauriston,No. 1,Leo Tobin,Siddarth Japati,Leo Tobin,6-3,6,3,1,0,Completed,true,false,false
+UA013093,15 Sep 24,9,Carmelite,Lauriston,No. 2,Will Yelland,Toby Gordon,Toby Gordon,1-6,1,6,0,1,Completed,true,false,false
+UA013093,15 Sep 24,9,Carmelite,Lauriston,No. 3,Andre Cartel,Angeline Pham,Angeline Pham,6-7,6,7,0,1,Completed,true,false,false
+UA013093,15 Sep 24,9,Carmelite,Lauriston,No. 4,Curtis Brown,Emma McArthur,Emma McArthur,2-6,2,6,0,1,Completed,true,false,false
+UA013094,15 Sep 24,9,Murrumbeena,Coatesville,No. 1,Chloe Bow,Xavier Pace,Xavier Pace,0-6,0,6,0,1,Completed,true,true,false
+UA013094,15 Sep 24,9,Murrumbeena,Coatesville,No. 2,Phelix Ma,Hiren Arunkumar,Phelix Ma,7-5,7,5,1,0,Completed,true,false,true
+UA013094,15 Sep 24,9,Murrumbeena,Coatesville,No. 3,Felix Nguyen,Ananaya Ramasubramanian,Felix Nguyen,6-3,6,3,1,0,Completed,true,false,false
+UA013094,15 Sep 24,9,Murrumbeena,Coatesville,No. 4,Lucinda Vidal,Vivaan Shah,Vivaan Shah,3-6,3,6,0,1,Completed,true,false,true
+UA013101,13 Oct 24,10,Coatesville,Kooyong,No. 1,Rohan Satish,Tom Juric,Rohan Satish,6-2,6,2,1,0,Completed,true,false,false
+UA013101,13 Oct 24,10,Coatesville,Kooyong,No. 2,Xavier Pace,Will Ryan,Xavier Pace,7-6,7,6,1,0,Completed,true,false,false
+UA013101,13 Oct 24,10,Coatesville,Kooyong,No. 3,Maisey McCallum,Max Louis,Maisey McCallum,6-4,6,4,1,0,Completed,true,false,false
+UA013101,13 Oct 24,10,Coatesville,Kooyong,No. 4,Kazu Nakada,Ligi Pellegrini,Ligi Pellegrini,4-6,4,6,0,1,Completed,true,false,false
+UA013102,13 Oct 24,10,Aspendale,Le Page Blue,No. 1,Lucy Beatie,Jonathan Friedman,Jonathan Friedman,1-6,1,6,0,1,Completed,true,false,false
+UA013102,13 Oct 24,10,Aspendale,Le Page Blue,No. 2,Brendan McCaul,Sean Kim,Brendan McCaul,6-3,6,3,1,0,Completed,true,false,false
+UA013102,13 Oct 24,10,Aspendale,Le Page Blue,No. 3,Liam Schoots,Diego Fernando,Liam Schoots,6-1,6,1,1,0,Completed,true,false,false
+UA013102,13 Oct 24,10,Aspendale,Le Page Blue,No. 4,Sean Butler,Leon Sukuan Li,Sean Butler,6-2,6,2,1,0,Completed,true,false,false
+UA013103,13 Oct 24,10,Le Page Green,Carmelite,No. 1,Marcus Sotos,Will Yelland,Marcus Sotos,6-1,6,1,1,0,Completed,true,false,false
+UA013103,13 Oct 24,10,Le Page Green,Carmelite,No. 2,Kai Hu,Carmen Wilson,Kai Hu,6-3,6,3,1,0,Completed,true,false,false
+UA013103,13 Oct 24,10,Le Page Green,Carmelite,No. 3,Matthew Crossley,Archie Ingram,Archie Ingram,2-6,2,6,0,1,Completed,true,false,false
+UA013103,13 Oct 24,10,Le Page Green,Carmelite,No. 4,Harvey Conway,Curtis Brown,Curtis Brown,2-6,2,6,0,1,Completed,true,false,false
+UA013104,13 Oct 24,10,Lauriston,Murrumbeena,No. 1,Siddarth Japati,Lillia Givargis,Siddarth Japati,6-2,6,2,1,0,Completed,true,false,false
+UA013104,13 Oct 24,10,Lauriston,Murrumbeena,No. 2,Toby Gordon,Myra Singhania,Toby Gordon,6-3,6,3,1,0,Completed,true,false,false
+UA013104,13 Oct 24,10,Lauriston,Murrumbeena,No. 3,Angeline Pham,Felix Nguyen,Angeline Pham,6-4,6,4,1,0,Completed,true,false,false
+UA013104,13 Oct 24,10,Lauriston,Murrumbeena,No. 4,Isabella Bi,Lucinda Vidal,Isabella Bi,6-3,6,3,1,0,Completed,true,false,false
+UA013111,20 Oct 24,11,Kooyong,Lauriston,No. 1,Ligi Pellegrini,Siddarth Japati,Ligi Pellegrini,7-5,7,5,1,0,Completed,true,false,false
+UA013111,20 Oct 24,11,Kooyong,Lauriston,No. 2,Max Louis,Toby Gordon,Toby Gordon,0-6,0,6,0,1,Completed,true,false,false
+UA013111,20 Oct 24,11,Kooyong,Lauriston,No. 3,Ivan Cesal,Angeline Pham,Angeline Pham,3-6,3,6,0,1,Completed,true,true,false
+UA013111,20 Oct 24,11,Kooyong,Lauriston,No. 4,[Unnamed player — TROLS UA013111 home code 4],Emma McArthur,Emma McArthur,0-6,0,6,0,1,Completed,false,false,false
+UA013112,20 Oct 24,11,Le Page Blue,Coatesville,No. 1,Jonathan Friedman,Rohan Satish,Rohan Satish,4-6,4,6,0,1,Completed,true,false,false
+UA013112,20 Oct 24,11,Le Page Blue,Coatesville,No. 2,Diego Fernando,Xavier Pace,Xavier Pace,1-6,1,6,0,1,Completed,true,false,false
+UA013112,20 Oct 24,11,Le Page Blue,Coatesville,No. 3,Yatharth Manware,Kazu Nakada,Yatharth Manware,6-3,6,3,1,0,Completed,true,false,false
+UA013112,20 Oct 24,11,Le Page Blue,Coatesville,No. 4,Harvey James,Ananaya Ramasubramanian,Ananaya Ramasubramanian,0-6,0,6,0,1,Completed,true,true,false
+UA013113,20 Oct 24,11,Carmelite,Aspendale,No. 1,Leo Tobin,Lucy Beatie,Leo Tobin,7-5,7,5,1,0,Completed,true,false,false
+UA013113,20 Oct 24,11,Carmelite,Aspendale,No. 2,Andre Cartel,Brendan McCaul,Brendan McCaul,4-6,4,6,0,1,Completed,true,false,false
+UA013113,20 Oct 24,11,Carmelite,Aspendale,No. 3,Zac Unsworth,Tom McCaul,Tom McCaul,3-6,3,6,0,1,Completed,true,false,false
+UA013113,20 Oct 24,11,Carmelite,Aspendale,No. 4,Curtis Brown,Sean Butler,Sean Butler,3-6,3,6,0,1,Completed,true,false,false
+UA013114,20 Oct 24,11,Murrumbeena,Le Page Green,No. 1,Phelix Ma,Marcus Sotos,Marcus Sotos,3-6,3,6,0,1,Completed,true,false,false
+UA013114,20 Oct 24,11,Murrumbeena,Le Page Green,No. 2,Myra Singhania,Tome Lazic,Tome Lazic,0-6,0,6,0,1,Completed,true,false,false
+UA013114,20 Oct 24,11,Murrumbeena,Le Page Green,No. 3,Felix Nguyen,Harvey Conway,Felix Nguyen,6-3,6,3,1,0,Completed,true,false,false
+UA013114,20 Oct 24,11,Murrumbeena,Le Page Green,No. 4,Lucinda Vidal,Jasper Mace,Jasper Mace,1-6,1,6,0,1,Completed,true,false,true
+UA013121,27 Oct 24,12,Murrumbeena,Carmelite,No. 1,Myra Singhania,Leo Tobin,Leo Tobin,1-6,1,6,0,1,Completed,true,false,false
+UA013121,27 Oct 24,12,Murrumbeena,Carmelite,No. 2,Alena Givargis,Will Yelland,Alena Givargis,7-6,7,6,1,0,Completed,true,false,false
+UA013121,27 Oct 24,12,Murrumbeena,Carmelite,No. 3,Lance Sun,Carmen Wilson,Carmen Wilson,6-7,6,7,0,1,Completed,true,false,false
+UA013121,27 Oct 24,12,Murrumbeena,Carmelite,No. 4,Rafferty Holden,Archie Ingram,Archie Ingram,3-6,3,6,0,1,Completed,true,true,false
+UA013122,27 Oct 24,12,Coatesville,Aspendale,No. 1,Rohan Satish,Brendan McCaul,Brendan McCaul,5-7,5,7,0,1,Completed,true,false,false
+UA013122,27 Oct 24,12,Coatesville,Aspendale,No. 2,Xavier Pace,Tom McCaul,Xavier Pace,7-5,7,5,1,0,Completed,true,false,false
+UA013122,27 Oct 24,12,Coatesville,Aspendale,No. 3,Maisey McCallum,Liam Schoots,Liam Schoots,5-7,5,7,0,1,Completed,true,false,false
+UA013122,27 Oct 24,12,Coatesville,Aspendale,No. 4,Ananaya Ramasubramanian,Sean Butler,Sean Butler,1-6,1,6,0,1,Completed,true,false,false
+UA013123,27 Oct 24,12,Le Page Green,Lauriston,No. 1,Marcus Sotos,Siddarth Japati,Marcus Sotos,6-1,6,1,1,0,Completed,true,false,false
+UA013123,27 Oct 24,12,Le Page Green,Lauriston,No. 2,Kai Hu,Toby Gordon,Toby Gordon,2-6,2,6,0,1,Completed,true,false,false
+UA013123,27 Oct 24,12,Le Page Green,Lauriston,No. 3,Matthew Crossley,Angeline Pham,Angeline Pham,3-6,3,6,0,1,Completed,true,false,false
+UA013123,27 Oct 24,12,Le Page Green,Lauriston,No. 4,Tome Lazic,Isabella Bi,Tome Lazic,6-3,6,3,1,0,Completed,true,false,false
+UA013131,10 Nov 24,13,Carmelite,Le Page Blue,No. 1,Carmen Wilson,Diego Fernando,Carmen Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA013131,10 Nov 24,13,Carmelite,Le Page Blue,No. 2,Andre Cartel,Leon Sukuan Li,Andre Cartel,6-2,6,2,1,0,Completed,true,false,false
+UA013131,10 Nov 24,13,Carmelite,Le Page Blue,No. 3,Archie Ingram,Yatharth Manware,Archie Ingram,6-4,6,4,1,0,Completed,true,false,false
+UA013131,10 Nov 24,13,Carmelite,Le Page Blue,No. 4,Zac Unsworth,Jasper Mace,Zac Unsworth,6-4,6,4,1,0,Completed,true,false,true
+UA013132,10 Nov 24,13,Kooyong,Murrumbeena,No. 1,Maxim Leveque,Phelix Ma,Phelix Ma,4-6,4,6,0,1,Completed,true,false,false
+UA013132,10 Nov 24,13,Kooyong,Murrumbeena,No. 2,Ligi Pellegrini,Felix Nguyen,Felix Nguyen,5-7,5,7,0,1,Completed,true,false,false
+UA013132,10 Nov 24,13,Kooyong,Murrumbeena,No. 3,Max Louis,Alena Givargis,Alena Givargis,5-7,5,7,0,1,Completed,true,false,false
+UA013132,10 Nov 24,13,Kooyong,Murrumbeena,No. 4,Will Ryan,Lance Sun,Lance Sun,0-6,0,6,0,1,Completed,true,false,false
+UA013133,10 Nov 24,13,Lauriston,Coatesville,No. 1,Siddarth Japati,Rohan Satish,Rohan Satish,5-7,5,7,0,1,Completed,true,false,false
+UA013133,10 Nov 24,13,Lauriston,Coatesville,No. 2,Toby Gordon,Xavier Pace,Toby Gordon,6-3,6,3,1,0,Completed,true,false,false
+UA013133,10 Nov 24,13,Lauriston,Coatesville,No. 3,Angeline Pham,Maisey McCallum,Angeline Pham,6-2,6,2,1,0,Completed,true,false,false
+UA013133,10 Nov 24,13,Lauriston,Coatesville,No. 4,Isabella Bi,Kazu Nakada,Isabella Bi,6-4,6,4,1,0,Completed,true,false,false
+UA013134,10 Nov 24,13,Aspendale,Le Page Green,No. 1,Lucy Beatie,Marcus Sotos,Lucy Beatie,6-1,6,1,1,0,Completed,true,false,false
+UA013134,10 Nov 24,13,Aspendale,Le Page Green,No. 2,Tom McCaul,Kai Hu,Tom McCaul,7-5,7,5,1,0,Completed,true,false,false
+UA013134,10 Nov 24,13,Aspendale,Le Page Green,No. 3,Liam Schoots,Tome Lazic,Liam Schoots,6-1,6,1,1,0,Completed,true,false,false
+UA013134,10 Nov 24,13,Aspendale,Le Page Green,No. 4,Sean Butler,Harvey Conway,Sean Butler,6-2,6,2,1,0,Completed,true,false,false
+UA013141,17 Nov 24,14,Carmelite,Kooyong,No. 1,Leo Tobin,Tom Juric,Tom Juric,3-6,3,6,0,1,Completed,true,false,false
+UA013141,17 Nov 24,14,Carmelite,Kooyong,No. 2,Will Yelland,Annie Juric,Will Yelland,6-1,6,1,1,0,Completed,true,false,false
+UA013141,17 Nov 24,14,Carmelite,Kooyong,No. 3,Carmen Wilson,Max Louis,Carmen Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA013141,17 Nov 24,14,Carmelite,Kooyong,No. 4,Andre Cartel,Ligi Pellegrini,Andre Cartel,6-1,6,1,1,0,Completed,true,false,false
+UA013142,17 Nov 24,14,Murrumbeena,Le Page Blue,No. 1,Jayden Lin,Jonathan Friedman,Jonathan Friedman,6-7,6,7,0,1,Completed,true,false,false
+UA013142,17 Nov 24,14,Murrumbeena,Le Page Blue,No. 2,Myra Singhania,Sean Kim,Myra Singhania,6-1,6,1,1,0,Completed,true,false,false
+UA013142,17 Nov 24,14,Murrumbeena,Le Page Blue,No. 3,Alena Givargis,Diego Fernando,Alena Givargis,6-3,6,3,1,0,Completed,true,false,false
+UA013142,17 Nov 24,14,Murrumbeena,Le Page Blue,No. 4,Lucinda Vidal,Yatharth Manware,Yatharth Manware,0-6,0,6,0,1,Completed,true,false,false
+UA013143,17 Nov 24,14,Lauriston,Aspendale,No. 1,Siddarth Japati,Lucy Beatie,Lucy Beatie,1-6,1,6,0,1,Completed,true,false,false
+UA013143,17 Nov 24,14,Lauriston,Aspendale,No. 2,Toby Gordon,Brendan McCaul,Toby Gordon,6-3,6,3,1,0,Completed,true,false,false
+UA013143,17 Nov 24,14,Lauriston,Aspendale,No. 3,Emma McArthur,Liam Schoots,Liam Schoots,0-6,0,6,0,1,Completed,true,false,false
+UA013143,17 Nov 24,14,Lauriston,Aspendale,No. 4,Isabella Bi,Sean Butler,Sean Butler,4-6,4,6,0,1,Completed,true,false,false
+UA013144,17 Nov 24,14,Le Page Green,Coatesville,No. 1,Marcus Sotos,Xavier Pace,Xavier Pace,5-7,5,7,0,1,Completed,true,false,false
+UA013144,17 Nov 24,14,Le Page Green,Coatesville,No. 2,Kai Hu,Maisey McCallum,Maisey McCallum,3-6,3,6,0,1,Completed,true,false,false
+UA013144,17 Nov 24,14,Le Page Green,Coatesville,No. 3,Matthew Crossley,Kazu Nakada,Kazu Nakada,6-7,6,7,0,1,Completed,true,false,false
+UA013144,17 Nov 24,14,Le Page Green,Coatesville,No. 4,Harvey Conway,Ananaya Ramasubramanian,Harvey Conway,6-1,6,1,1,0,Completed,true,false,false
+UA013301,,16,Aspendale,Le Page Blue,No. 1,Lucy Beatie,Jonathan Friedman,Lucy Beatie,6-3,6,3,1,0,Completed,true,false,false
+UA013301,,16,Aspendale,Le Page Blue,No. 2,Brendan McCaul,Diego Fernando,Brendan McCaul,6-4,6,4,1,0,Completed,true,false,false
+UA013301,,16,Aspendale,Le Page Blue,No. 3,Tom McCaul,Leon Sukuan Li,Tom McCaul,6-2,6,2,1,0,Completed,true,false,false
+UA013301,,16,Aspendale,Le Page Blue,No. 4,Liam Schoots,Yatharth Manware,Liam Schoots,6-2,6,2,1,0,Completed,true,false,false
+UA013302,,16,Lauriston,Carmelite,No. 1,Siddarth Japati,Carmen Wilson,Carmen Wilson,2-6,2,6,0,1,Completed,true,false,false
+UA013302,,16,Lauriston,Carmelite,No. 2,Toby Gordon,Andre Cartel,Andre Cartel,1-6,1,6,0,1,Completed,true,false,false
+UA013302,,16,Lauriston,Carmelite,No. 3,Angeline Pham,Archie Ingram,Angeline Pham,6-4,6,4,1,0,Completed,true,false,false
+UA013302,,16,Lauriston,Carmelite,No. 4,Isabella Bi,Curtis Brown,Isabella Bi,6-2,6,2,1,0,Completed,true,false,false
+UA013321,,17,Aspendale,Carmelite,No. 1,Lucy Beatie,Leo Tobin,Lucy Beatie,7-6,7,6,1,0,Completed,true,false,false
+UA013321,,17,Aspendale,Carmelite,No. 2,Brendan McCaul,Will Yelland,Brendan McCaul,6-2,6,2,1,0,Completed,true,false,false
+UA013321,,17,Aspendale,Carmelite,No. 3,Tom McCaul,Andre Cartel,Andre Cartel,3-6,3,6,0,1,Completed,true,false,false
+UA013321,,17,Aspendale,Carmelite,No. 4,Liam Schoots,Zac Unsworth,Liam Schoots,6-2,6,2,1,0,Completed,true,false,false

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA36-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2025",
+  "season_id": "UA36",
+  "season_label": "Autumn 2025",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite",
+      "wins": 9,
+      "points": 94,
+      "percentage": 127.27,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Overport Park",
+      "wins": 9,
+      "points": 93,
+      "percentage": 137.98,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Middle Brighton",
+      "wins": 9,
+      "points": 93,
+      "percentage": 128.07,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Black Rock",
+      "wins": 8,
+      "points": 91,
+      "percentage": 134.1,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Beaumaris CC",
+      "wins": 5,
+      "points": 58,
+      "percentage": 90.22,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Elsternwick Park",
+      "wins": 4,
+      "points": 56,
+      "percentage": 80.51,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Tennis World",
+      "wins": 4,
+      "points": 55,
+      "percentage": 83.61,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kings Park",
+      "wins": 0,
+      "points": 20,
+      "percentage": 60.54,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA36-UA002",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 59,
+  "singles_rubbers": 208,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

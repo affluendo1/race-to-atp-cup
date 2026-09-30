@@ -1,0 +1,217 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA017011,23 Jul 17,1,Royal Ave,Royal South Yarra,No. 1,Will Baxter,Sophie Davies,Will Baxter,7-5,7,5,1,0,Completed,true,false,false
+UA017011,23 Jul 17,1,Royal Ave,Royal South Yarra,No. 2,Linden Wareing,Axy Park,Linden Wareing,6-1,6,1,1,0,Completed,true,false,false
+UA017011,23 Jul 17,1,Royal Ave,Royal South Yarra,No. 3,Vadim Goreux,Indi Officer,Indi Officer,1-6,1,6,0,1,Completed,true,false,false
+UA017011,23 Jul 17,1,Royal Ave,Royal South Yarra,No. 4,Jack Callaghan,Anna Eggleston,Anna Eggleston,5-7,5,7,0,1,Completed,true,false,false
+UA017012,23 Jul 17,1,Dendy Park,Tennis World,No. 1,Charles McNabney,Zachary Van Dijk,Zachary Van Dijk,1-6,1,6,0,1,Completed,true,false,false
+UA017012,23 Jul 17,1,Dendy Park,Tennis World,No. 2,George Lamb,Kyle Zheng,Kyle Zheng,2-6,2,6,0,1,Completed,true,false,false
+UA017012,23 Jul 17,1,Dendy Park,Tennis World,No. 3,Will Smith,Marcus Wong,Will Smith,6-1,6,1,1,0,Completed,true,false,false
+UA017012,23 Jul 17,1,Dendy Park,Tennis World,No. 4,Edward Wang,Marcus Woo,Marcus Woo,3-6,3,6,0,1,Completed,true,false,false
+UA017013,23 Jul 17,1,Elsternwick Park,Highett,No. 1,Thomas Paratheras,James Vassiliou,Thomas Paratheras,6-0,6,0,1,0,Completed,true,false,false
+UA017013,23 Jul 17,1,Elsternwick Park,Highett,No. 2,Joe Barr,Dylan Smith,Joe Barr,6-1,6,1,1,0,Completed,true,false,false
+UA017013,23 Jul 17,1,Elsternwick Park,Highett,No. 3,Mathew Hogg,Oliver Danckert,Mathew Hogg,6-0,6,0,1,0,Completed,true,false,false
+UA017013,23 Jul 17,1,Elsternwick Park,Highett,No. 4,Ana Vittoria Fernandes,Josh Jakob,Ana Vittoria Fernandes,6-1,6,1,1,0,Completed,true,false,false
+UA017014,23 Jul 17,1,St Leonards Tennis,GPHC MLC,No. 1,Koharu Nishikawa,Hannah Croft,Koharu Nishikawa,6-1,6,1,1,0,Completed,true,false,false
+UA017014,23 Jul 17,1,St Leonards Tennis,GPHC MLC,No. 2,Savannah James,Ryan Nottle,Savannah James,6-0,6,0,1,0,Completed,true,false,false
+UA017014,23 Jul 17,1,St Leonards Tennis,GPHC MLC,No. 3,Rupert Kennedy,Charlotte Gileon,Rupert Kennedy,6-1,6,1,1,0,Completed,true,false,false
+UA017014,23 Jul 17,1,St Leonards Tennis,GPHC MLC,No. 4,Abbey Hindle,Toby Snyder,Toby Snyder,2-6,2,6,0,1,Completed,true,false,false
+UA017022,30 Jul 17,2,Royal South Yarra,Dendy Park,No. 1,Katherine Soutter,Zach Anquetil,Katherine Soutter,6-4,6,4,1,0,Completed,true,false,false
+UA017022,30 Jul 17,2,Royal South Yarra,Dendy Park,No. 2,Sophie Davies,Charles McNabney,Sophie Davies,6-3,6,3,1,0,Completed,true,false,false
+UA017022,30 Jul 17,2,Royal South Yarra,Dendy Park,No. 3,Axy Park,Angus McIntire,Axy Park,6-3,6,3,1,0,Completed,true,false,false
+UA017022,30 Jul 17,2,Royal South Yarra,Dendy Park,No. 4,Indi Officer,Tristan Meta,Tristan Meta,1-6,1,6,0,1,Completed,true,false,false
+UA017023,30 Jul 17,2,Tennis World,Elsternwick Park,No. 1,Marcus Wong,Mathew Hogg,Mathew Hogg,3-6,3,6,0,1,Completed,true,false,false
+UA017023,30 Jul 17,2,Tennis World,Elsternwick Park,No. 2,Eran Duong,Joe Barr,Joe Barr,4-6,4,6,0,1,Completed,true,false,false
+UA017023,30 Jul 17,2,Tennis World,Elsternwick Park,No. 3,Fraser Penfound,Ana Vittoria Fernandes,Ana Vittoria Fernandes,6-7,6,7,0,1,Completed,true,false,false
+UA017023,30 Jul 17,2,Tennis World,Elsternwick Park,No. 4,Chloe Ramchan,Gizelle Philips,Chloe Ramchan,6-4,6,4,1,0,Completed,true,false,false
+UA017024,30 Jul 17,2,Highett,St Leonards Tennis,No. 1,James Vassiliou,Savannah James,Savannah James,1-6,1,6,0,1,Completed,true,false,false
+UA017024,30 Jul 17,2,Highett,St Leonards Tennis,No. 2,Oliver Danckert,Jordan Thompson,Jordan Thompson,0-6,0,6,0,1,Completed,true,false,false
+UA017024,30 Jul 17,2,Highett,St Leonards Tennis,No. 3,Josh Jakob,Rupert Kennedy,Rupert Kennedy,3-6,3,6,0,1,Completed,true,false,false
+UA017024,30 Jul 17,2,Highett,St Leonards Tennis,No. 4,Ben Yang,Anya Khatsernov,Ben Yang,6-0,6,0,1,0,Completed,true,false,false
+UA017031,06 Aug 17,3,Royal Ave,Highett,No. 1,Linden Wareing,Will Scott,Linden Wareing,6-4,6,4,1,0,Completed,true,false,false
+UA017031,06 Aug 17,3,Royal Ave,Highett,No. 2,Harry Toomey,Dylan Smith,Dylan Smith,2-6,2,6,0,1,Completed,true,false,false
+UA017031,06 Aug 17,3,Royal Ave,Highett,No. 3,Vadim Goreux,Oliver Danckert,Vadim Goreux,6-4,6,4,1,0,Completed,true,false,false
+UA017031,06 Aug 17,3,Royal Ave,Highett,No. 4,Jack Callaghan,Josh Jakob,Jack Callaghan,7-5,7,5,1,0,Completed,true,false,false
+UA017032,06 Aug 17,3,Dendy Park,GPHC MLC,No. 1,Zach Anquetil,Hannah Croft,Zach Anquetil,6-2,6,2,1,0,Completed,true,false,false
+UA017032,06 Aug 17,3,Dendy Park,GPHC MLC,No. 2,Charles McNabney,Ryan Nottle,Charles McNabney,6-1,6,1,1,0,Completed,true,false,false
+UA017032,06 Aug 17,3,Dendy Park,GPHC MLC,No. 3,Edward Wang,Charlotte Gillon,Edward Wang,6-1,6,1,1,0,Completed,true,false,false
+UA017032,06 Aug 17,3,Dendy Park,GPHC MLC,No. 4,Angus McIntire,Rebecca Louzis,Angus McIntire,6-0,6,0,1,0,Completed,true,false,false
+UA017033,06 Aug 17,3,Elsternwick Park,Royal South Yarra,No. 1,Thomas Paratheras,Sophie Davies,Sophie Davies,2-6,2,6,0,1,Completed,true,false,false
+UA017033,06 Aug 17,3,Elsternwick Park,Royal South Yarra,No. 2,Joe Barr,Axy Park,Joe Barr,6-1,6,1,1,0,Completed,true,false,false
+UA017033,06 Aug 17,3,Elsternwick Park,Royal South Yarra,No. 3,Angus Coughlan,Indi Officer,Angus Coughlan,6-4,6,4,1,0,Completed,true,false,false
+UA017033,06 Aug 17,3,Elsternwick Park,Royal South Yarra,No. 4,Luka Katinchich,Anna Eggleston,Luka Katinchich,6-4,6,4,1,0,Completed,true,false,false
+UA017034,06 Aug 17,3,St Leonards Tennis,Tennis World,No. 1,Savannah James,Kyle Zheng,Savannah James,6-3,6,3,1,0,Completed,true,false,false
+UA017034,06 Aug 17,3,St Leonards Tennis,Tennis World,No. 2,Richie Yanzhu,Marcus Woo,Marcus Woo,2-6,2,6,0,1,Completed,true,false,false
+UA017034,06 Aug 17,3,St Leonards Tennis,Tennis World,No. 3,Sienna Goulding,Fraser Penfound,Fraser Penfound,2-6,2,6,0,1,Completed,true,false,false
+UA017034,06 Aug 17,3,St Leonards Tennis,Tennis World,No. 4,Massimo Scarpa,Chloe Ramchan,Chloe Ramchan,3-6,3,6,0,1,Completed,true,false,false
+UA017041,13 Aug 17,4,Tennis World,Royal Ave,No. 1,Zachary Van Dijk,Will Baxter,Zachary Van Dijk,6-4,6,4,1,0,Completed,true,false,false
+UA017041,13 Aug 17,4,Tennis World,Royal Ave,No. 2,Kyle Zheng,Harry Toomey,Kyle Zheng,6-2,6,2,1,0,Completed,true,false,false
+UA017041,13 Aug 17,4,Tennis World,Royal Ave,No. 3,Marcus Wong,Vadim Goreux,Marcus Wong,6-0,6,0,1,0,Completed,true,false,false
+UA017041,13 Aug 17,4,Tennis World,Royal Ave,No. 4,Olivia Hargrave,Jack Callaghan,Jack Callaghan,4-6,4,6,0,1,Completed,true,false,false
+UA017042,13 Aug 17,4,Highett,Dendy Park,No. 1,Will Scott,Zach Anquetil,Zach Anquetil,5-7,5,7,0,1,Completed,true,false,false
+UA017042,13 Aug 17,4,Highett,Dendy Park,No. 2,James Vassiliou,Charles McNabney,Charles McNabney,3-6,3,6,0,1,Completed,true,false,false
+UA017042,13 Aug 17,4,Highett,Dendy Park,No. 3,Oliver Danckert,Edward Wang,Edward Wang,0-6,0,6,0,1,Completed,true,false,false
+UA017042,13 Aug 17,4,Highett,Dendy Park,No. 4,Ben Yang,Angus McIntire,Ben Yang,6-0,6,0,1,0,Completed,true,false,false
+UA017043,13 Aug 17,4,GPHC MLC,Elsternwick Park,No. 1,Hannah Croft,Thomas Paratheras,Hannah Croft,6-3,6,3,1,0,Completed,true,false,false
+UA017043,13 Aug 17,4,GPHC MLC,Elsternwick Park,No. 2,Rudy Byass,Joe Barr,Joe Barr,0-6,0,6,0,1,Completed,true,false,false
+UA017043,13 Aug 17,4,GPHC MLC,Elsternwick Park,No. 3,Ryan Nottle,Ana Vittoria Fernandes,Ana Vittoria Fernandes,0-6,0,6,0,1,Completed,true,false,false
+UA017043,13 Aug 17,4,GPHC MLC,Elsternwick Park,No. 4,Charlie Sweet,Gizelle Philips,Charlie Sweet,6-2,6,2,1,0,Completed,true,false,false
+UA017051,20 Aug 17,5,Elsternwick Park,St Leonards Tennis,No. 1,Thomas Paratheras,Savannah James,Savannah James,1-6,1,6,0,1,Completed,true,false,false
+UA017051,20 Aug 17,5,Elsternwick Park,St Leonards Tennis,No. 2,Joe Barr,Jordan Thompson,Joe Barr,6-2,6,2,1,0,Completed,true,false,false
+UA017051,20 Aug 17,5,Elsternwick Park,St Leonards Tennis,No. 3,Mathew Hogg,Harry Haydon,Mathew Hogg,6-2,6,2,1,0,Completed,true,false,false
+UA017051,20 Aug 17,5,Elsternwick Park,St Leonards Tennis,No. 4,Joe Ohlson,Zach Newton,Joe Ohlson,6-1,6,1,1,0,Completed,true,false,false
+UA017052,20 Aug 17,5,GPHC MLC,Highett,No. 1,Hannah Croft,James Vassiliou,Hannah Croft,6-3,6,3,1,0,Completed,true,false,false
+UA017052,20 Aug 17,5,GPHC MLC,Highett,No. 2,Rudy Byass,Dylan Smith,Dylan Smith,6-7,6,7,0,1,Completed,true,false,false
+UA017052,20 Aug 17,5,GPHC MLC,Highett,No. 3,Charlotte Gillon,Ben Yang,Ben Yang,0-6,0,6,0,1,Completed,true,false,false
+UA017052,20 Aug 17,5,GPHC MLC,Highett,No. 4,Charlie Sweet,Oliver Danckert,Charlie Sweet,6-1,6,1,1,0,Completed,true,false,false
+UA017053,20 Aug 17,5,Tennis World,Royal South Yarra,No. 1,Kyle Zheng,Freya Albrecht,Freya Albrecht,5-7,5,7,0,1,Completed,true,false,false
+UA017053,20 Aug 17,5,Tennis World,Royal South Yarra,No. 2,Marcus Wong,Axy Park,Axy Park,6-7,6,7,0,1,Completed,true,false,false
+UA017053,20 Aug 17,5,Tennis World,Royal South Yarra,No. 3,Eran Duong,Indi Officer,Eran Duong,6-2,6,2,1,0,Completed,true,false,false
+UA017053,20 Aug 17,5,Tennis World,Royal South Yarra,No. 4,Marcus Woo,Katya Gibson,Katya Gibson,0-6,0,6,0,1,Completed,true,false,false
+UA017054,20 Aug 17,5,Royal Ave,Dendy Park,No. 1,Will Baxter,Zach Anquetil,Will Baxter,6-3,6,3,1,0,Completed,true,false,false
+UA017054,20 Aug 17,5,Royal Ave,Dendy Park,No. 2,Harry Toomey,Monty Sallabank,Harry Toomey,6-2,6,2,1,0,Completed,true,false,false
+UA017054,20 Aug 17,5,Royal Ave,Dendy Park,No. 3,Vadim Goreux,Edward Wang,Edward Wang,2-6,2,6,0,1,Completed,true,false,false
+UA017054,20 Aug 17,5,Royal Ave,Dendy Park,No. 4,Jack Callaghan,Angus McIntire,Angus McIntire,2-6,2,6,0,1,Completed,true,false,false
+UA017061,27 Aug 17,6,Dendy Park,Elsternwick Park,No. 1,Zach Anquetil,Thomas Paratheras,Thomas Paratheras,3-6,3,6,0,1,Completed,true,false,false
+UA017061,27 Aug 17,6,Dendy Park,Elsternwick Park,No. 2,Charles McNabney,Joe Barr,Joe Barr,1-6,1,6,0,1,Completed,true,false,false
+UA017061,27 Aug 17,6,Dendy Park,Elsternwick Park,No. 3,Edward Wang,Ana Vittoria Fernandes,Ana Vittoria Fernandes,1-6,1,6,0,1,Completed,true,false,false
+UA017061,27 Aug 17,6,Dendy Park,Elsternwick Park,No. 4,Angus McIntire,Leo Hart,Angus McIntire,6-0,6,0,1,0,Completed,true,false,false
+UA017063,27 Aug 17,6,Highett,Tennis World,No. 1,Will Scott,Marcus Woo,Will Scott,6-4,6,4,1,0,Completed,true,false,false
+UA017063,27 Aug 17,6,Highett,Tennis World,No. 2,James Vassiliou,Eran Duong,Eran Duong,6-7,6,7,0,1,Completed,true,false,false
+UA017063,27 Aug 17,6,Highett,Tennis World,No. 3,Dylan Smith,Fraser Penfound,Fraser Penfound,6-7,6,7,0,1,Completed,true,false,false
+UA017063,27 Aug 17,6,Highett,Tennis World,No. 4,Oliver Danckert,Chloe Ramchan,Chloe Ramchan,3-6,3,6,0,1,Completed,true,false,false
+UA017064,27 Aug 17,6,Royal South Yarra,GPHC MLC,No. 1,Katherine Soutter,Hannah Croft,Hannah Croft,5-7,5,7,0,1,Completed,true,false,false
+UA017064,27 Aug 17,6,Royal South Yarra,GPHC MLC,No. 2,Sophie Davies,Ryan Nottle,Sophie Davies,6-2,6,2,1,0,Completed,true,false,false
+UA017064,27 Aug 17,6,Royal South Yarra,GPHC MLC,No. 3,Axy Park,Charlotte Gillon,Axy Park,6-1,6,1,1,0,Completed,true,false,false
+UA017064,27 Aug 17,6,Royal South Yarra,GPHC MLC,No. 4,Indi Officer,Charlie Sweet,Indi Officer,6-4,6,4,1,0,Completed,true,false,false
+UA017071,03 Sep 17,7,Royal Ave,Elsternwick Park,No. 1,Will Baxter,Thomas Paratheras,Thomas Paratheras,3-6,3,6,0,1,Completed,true,false,false
+UA017071,03 Sep 17,7,Royal Ave,Elsternwick Park,No. 2,Vadim Goreux,Joe Barr,Joe Barr,0-6,0,6,0,1,Completed,true,false,false
+UA017071,03 Sep 17,7,Royal Ave,Elsternwick Park,No. 3,Jack Callaghan,Mathew Hogg,Mathew Hogg,0-6,0,6,0,1,Completed,true,false,false
+UA017071,03 Sep 17,7,Royal Ave,Elsternwick Park,No. 4,Alex Avotins,Ana Vittoria Fernandes,Ana Vittoria Fernandes,3-6,3,6,0,1,Completed,true,false,false
+UA017072,03 Sep 17,7,Dendy Park,St Leonards Tennis,No. 1,Zach Anquetil,Savannah James,Savannah James,0-6,0,6,0,1,Completed,true,false,false
+UA017072,03 Sep 17,7,Dendy Park,St Leonards Tennis,No. 2,Charles McNabney,Jordan Thompson,Jordan Thompson,3-6,3,6,0,1,Completed,true,false,false
+UA017072,03 Sep 17,7,Dendy Park,St Leonards Tennis,No. 3,Monty Sallabank,Ben Newton,Ben Newton,1-6,1,6,0,1,Completed,true,false,false
+UA017072,03 Sep 17,7,Dendy Park,St Leonards Tennis,No. 4,Angus McIntire,Rupert Kennedy,Angus McIntire,6-1,6,1,1,0,Completed,true,false,false
+UA017073,03 Sep 17,7,GPHC MLC,Tennis World,No. 1,Hannah Croft,Zachary Van Dijk,Zachary Van Dijk,0-6,0,6,0,1,Completed,true,false,false
+UA017073,03 Sep 17,7,GPHC MLC,Tennis World,No. 2,Rudy Byass,Fraser Penfound,Rudy Byass,6-4,6,4,1,0,Completed,true,false,false
+UA017073,03 Sep 17,7,GPHC MLC,Tennis World,No. 3,Ryan Nottle,Chloe Ramchan,Ryan Nottle,6-4,6,4,1,0,Completed,true,false,false
+UA017073,03 Sep 17,7,GPHC MLC,Tennis World,No. 4,Charlotte Gillon,Olivia Hargrave,Charlotte Gillon,6-4,6,4,1,0,Completed,true,false,false
+UA017081,10 Sep 17,8,Royal South Yarra,Royal Ave,No. 1,Sophie Davies,Will Baxter,Sophie Davies,6-2,6,2,1,0,Completed,true,false,false
+UA017081,10 Sep 17,8,Royal South Yarra,Royal Ave,No. 2,Axy Park,Jack Callaghan,Axy Park,6-1,6,1,1,0,Completed,true,false,false
+UA017081,10 Sep 17,8,Royal South Yarra,Royal Ave,No. 3,Indi Officer,Harry Toomey,Indi Officer,6-1,6,1,1,0,Completed,true,false,false
+UA017081,10 Sep 17,8,Royal South Yarra,Royal Ave,No. 4,Matilda Hunt,Linden Wareing,Linden Wareing,0-6,0,6,0,1,Completed,true,false,false
+UA017082,10 Sep 17,8,Tennis World,Dendy Park,No. 1,Zachary Van Dijk,Zach Anquetil,Zachary Van Dijk,6-0,6,0,1,0,Completed,true,false,false
+UA017082,10 Sep 17,8,Tennis World,Dendy Park,No. 2,Kyle Zheng,Monty Sallabank,Kyle Zheng,6-1,6,1,1,0,Completed,true,false,false
+UA017082,10 Sep 17,8,Tennis World,Dendy Park,No. 3,Marcus Wong,Edward Wang,Marcus Wong,6-0,6,0,1,0,Completed,true,false,false
+UA017082,10 Sep 17,8,Tennis World,Dendy Park,No. 4,Marcus Woo,Angus McIntire,Marcus Woo,6-0,6,0,1,0,Completed,true,false,false
+UA017083,10 Sep 17,8,Highett,Elsternwick Park,No. 1,Will Scott,Thomas Paratheras,Thomas Paratheras,5-7,5,7,0,1,Completed,true,false,false
+UA017083,10 Sep 17,8,Highett,Elsternwick Park,No. 2,James Vassiliou,Joe Ohlson,Joe Ohlson,0-6,0,6,0,1,Completed,true,false,false
+UA017083,10 Sep 17,8,Highett,Elsternwick Park,No. 3,Ben Yang,Ana Vittoria Fernandes,Ana Vittoria Fernandes,4-6,4,6,0,1,Completed,true,false,false
+UA017083,10 Sep 17,8,Highett,Elsternwick Park,No. 4,Oliver Danckert,Gizelle Philips,Gizelle Philips,0-6,0,6,0,1,Completed,true,false,false
+UA017084,10 Sep 17,8,GPHC MLC,St Leonards Tennis,No. 1,Rudy Byass,Jordan Thompson,Rudy Byass,6-3,6,3,1,0,Completed,true,false,false
+UA017084,10 Sep 17,8,GPHC MLC,St Leonards Tennis,No. 2,Ryan Nottle,Harry Haydon,Harry Haydon,4-6,4,6,0,1,Completed,true,false,false
+UA017084,10 Sep 17,8,GPHC MLC,St Leonards Tennis,No. 3,Charlie Sweet,Ben Newton,Ben Newton,4-6,4,6,0,1,Completed,true,false,false
+UA017084,10 Sep 17,8,GPHC MLC,St Leonards Tennis,No. 4,Jack Boussioutas,Rupert Kennedy,Rupert Kennedy,1-6,1,6,0,1,Completed,true,false,false
+UA017091,17 Sep 17,9,Royal Ave,GPHC MLC,No. 1,Max Ross,Hannah Croft,Hannah Croft,1-6,1,6,0,1,Completed,true,false,false
+UA017091,17 Sep 17,9,Royal Ave,GPHC MLC,No. 2,Jack Callaghan,Rudy Byass,Rudy Byass,3-6,3,6,0,1,Completed,true,false,false
+UA017091,17 Sep 17,9,Royal Ave,GPHC MLC,No. 3,Harry Toomey,Ryan Nottle,Harry Toomey,6-1,6,1,1,0,Completed,true,false,false
+UA017091,17 Sep 17,9,Royal Ave,GPHC MLC,No. 4,[Unnamed player — TROLS UA017091 home code 4],Charlie Sweet,Charlie Sweet,0-6,0,6,0,1,Completed,false,false,false
+UA017092,17 Sep 17,9,Dendy Park,Royal South Yarra,No. 1,Zach Anquetil,Mietta Passon,Mietta Passon,1-6,1,6,0,1,Completed,true,false,false
+UA017092,17 Sep 17,9,Dendy Park,Royal South Yarra,No. 2,Charles McNabney,Katherine Soutter,Katherine Soutter,1-6,1,6,0,1,Completed,true,false,false
+UA017092,17 Sep 17,9,Dendy Park,Royal South Yarra,No. 3,Monty Sallabank,Sophie Davies,Sophie Davies,1-6,1,6,0,1,Completed,true,false,false
+UA017092,17 Sep 17,9,Dendy Park,Royal South Yarra,No. 4,Edward Wang,Anna Eggleston,Edward Wang,6-3,6,3,1,0,Completed,true,false,false
+UA017093,17 Sep 17,9,Elsternwick Park,Tennis World,No. 1,Thomas Paratheras,Eran Duong,Thomas Paratheras,6-2,6,2,1,0,Completed,true,false,false
+UA017093,17 Sep 17,9,Elsternwick Park,Tennis World,No. 2,Joe Barr,Marcus Woo,Joe Barr,6-0,6,0,1,0,Completed,true,false,false
+UA017093,17 Sep 17,9,Elsternwick Park,Tennis World,No. 3,Mathew Hogg,Fraser Penfound,Mathew Hogg,6-1,6,1,1,0,Completed,true,false,false
+UA017093,17 Sep 17,9,Elsternwick Park,Tennis World,No. 4,Joe Ohlson,Olivia Hargrave,Joe Ohlson,6-0,6,0,1,0,Completed,true,false,false
+UA017094,17 Sep 17,9,St Leonards Tennis,Highett,No. 1,Ben Newton,Ben Yang,Ben Newton,6-4,6,4,1,0,Completed,true,false,false
+UA017094,17 Sep 17,9,St Leonards Tennis,Highett,No. 2,Rupert Kennedy,James Vassiliou,Rupert Kennedy,6-0,6,0,1,0,Completed,true,false,false
+UA017094,17 Sep 17,9,St Leonards Tennis,Highett,No. 3,Zach Newton,Dylan Smith,Zach Newton,6-0,6,0,1,0,Completed,true,false,false
+UA017094,17 Sep 17,9,St Leonards Tennis,Highett,No. 4,Jamie Kahone,Oliver Danckert,Jamie Kahone,6-0,6,0,1,0,Completed,true,false,false
+UA017101,15 Oct 17,10,Highett,Royal Ave,No. 1,Will Scott,Harry Toomey,Harry Toomey,4-6,4,6,0,1,Completed,true,false,false
+UA017101,15 Oct 17,10,Highett,Royal Ave,No. 2,James Vassiliou,Jesse Harris,Jesse Harris,0-6,0,6,0,1,Completed,true,false,false
+UA017101,15 Oct 17,10,Highett,Royal Ave,No. 3,Ben Yang,Vadim Goreux,Ben Yang,6-2,6,2,1,0,Completed,true,false,false
+UA017101,15 Oct 17,10,Highett,Royal Ave,No. 4,Oliver Danckert,Alex Avotins,Oliver Danckert,6-1,6,1,1,0,Completed,true,false,false
+UA017102,15 Oct 17,10,GPHC MLC,Dendy Park,No. 1,Hannah Croft,Charles McNabney,Hannah Croft,6-4,6,4,1,0,Completed,true,false,false
+UA017102,15 Oct 17,10,GPHC MLC,Dendy Park,No. 2,Rudy Byass,Monty Sallabank,Rudy Byass,6-3,6,3,1,0,Completed,true,false,false
+UA017102,15 Oct 17,10,GPHC MLC,Dendy Park,No. 3,Ryan Nottle,Edward Wang,Edward Wang,1-6,1,6,0,1,Completed,true,false,false
+UA017102,15 Oct 17,10,GPHC MLC,Dendy Park,No. 4,Charlie Sweet,Angus McIntire,Charlie Sweet,6-4,6,4,1,0,Completed,true,false,false
+UA017103,15 Oct 17,10,Royal South Yarra,Elsternwick Park,No. 1,Katherine Soutter,Thomas Paratheras,Thomas Paratheras,0-6,0,6,0,1,Completed,true,false,false
+UA017103,15 Oct 17,10,Royal South Yarra,Elsternwick Park,No. 2,Sophie Davies,Joe Ohlson,Joe Ohlson,1-6,1,6,0,1,Completed,true,false,false
+UA017103,15 Oct 17,10,Royal South Yarra,Elsternwick Park,No. 3,Axy Park,Ana Vittoria Fernandes,Axy Park,6-2,6,2,1,0,Completed,true,false,false
+UA017103,15 Oct 17,10,Royal South Yarra,Elsternwick Park,No. 4,Indi Officer,Victor Hart,Victor Hart,4-6,4,6,0,1,Completed,true,false,false
+UA017104,15 Oct 17,10,Tennis World,St Leonards Tennis,No. 1,Zachary Van Dijk,Savannah James,Zachary Van Dijk,6-2,6,2,1,0,Completed,true,false,false
+UA017104,15 Oct 17,10,Tennis World,St Leonards Tennis,No. 2,Eran Duong,Harry Haydon,Eran Duong,6-2,6,2,1,0,Completed,true,false,false
+UA017104,15 Oct 17,10,Tennis World,St Leonards Tennis,No. 3,Fraser Penfound,Ben Newton,Ben Newton,2-6,2,6,0,1,Completed,true,false,false
+UA017104,15 Oct 17,10,Tennis World,St Leonards Tennis,No. 4,Chloe Ramchan,Jamie Kahone,Chloe Ramchan,6-2,6,2,1,0,Completed,true,false,false
+UA017111,22 Oct 17,11,Royal Ave,Tennis World,No. 1,Jesse Hodges,Kyle Zheng,Jesse Hodges,6-3,6,3,1,0,Completed,true,false,false
+UA017111,22 Oct 17,11,Royal Ave,Tennis World,No. 2,Ferdi Goreaux,Marcus Wong,Marcus Wong,3-6,3,6,0,1,Completed,true,false,false
+UA017111,22 Oct 17,11,Royal Ave,Tennis World,No. 3,Harry Toomey,Chloe Ramchan,Harry Toomey,6-1,6,1,1,0,Completed,true,false,false
+UA017111,22 Oct 17,11,Royal Ave,Tennis World,No. 4,Vadim Goreux,Olivia Hargrave,Olivia Hargrave,5-7,5,7,0,1,Completed,true,false,false
+UA017112,22 Oct 17,11,Dendy Park,Highett,No. 1,Zach Anquetil,James Vassiliou,James Vassiliou,0-6,0,6,0,1,Completed,true,false,false
+UA017112,22 Oct 17,11,Dendy Park,Highett,No. 2,Charles McNabney,Dylan Smith,Charles McNabney,6-3,6,3,1,0,Completed,true,false,false
+UA017112,22 Oct 17,11,Dendy Park,Highett,No. 3,Monty Sallabank,Ben Yang,Ben Yang,1-6,1,6,0,1,Completed,true,false,false
+UA017112,22 Oct 17,11,Dendy Park,Highett,No. 4,Angus McIntire,Oliver Danckert,Oliver Danckert,4-6,4,6,0,1,Completed,true,false,false
+UA017113,22 Oct 17,11,Elsternwick Park,GPHC MLC,No. 1,Thomas Paratheras,Hannah Croft,Thomas Paratheras,6-2,6,2,1,0,Completed,true,false,false
+UA017113,22 Oct 17,11,Elsternwick Park,GPHC MLC,No. 2,Joe Barr,Rudy Byass,Joe Barr,6-1,6,1,1,0,Completed,true,false,false
+UA017113,22 Oct 17,11,Elsternwick Park,GPHC MLC,No. 3,Joe Ohlson,Ryan Nottle,Joe Ohlson,6-0,6,0,1,0,Completed,true,false,false
+UA017113,22 Oct 17,11,Elsternwick Park,GPHC MLC,No. 4,Ana Vittoria Fernandes,Charlie Sweet,Charlie Sweet,4-6,4,6,0,1,Completed,true,false,false
+UA017114,22 Oct 17,11,St Leonards Tennis,Royal South Yarra,No. 1,Harry Haydon,Mietta Passon,Mietta Passon,2-6,2,6,0,1,Completed,true,false,false
+UA017114,22 Oct 17,11,St Leonards Tennis,Royal South Yarra,No. 2,Ben Newton,Katherine Soutter,Ben Newton,6-2,6,2,1,0,Completed,true,false,false
+UA017114,22 Oct 17,11,St Leonards Tennis,Royal South Yarra,No. 3,Zach Newton,Sophie Davies,Sophie Davies,1-6,1,6,0,1,Completed,true,false,false
+UA017114,22 Oct 17,11,St Leonards Tennis,Royal South Yarra,No. 4,Jamie Kahone,Anna Eggleston,Anna Eggleston,2-6,2,6,0,1,Completed,true,false,false
+UA017121,29 Oct 17,12,St Leonards Tennis,Elsternwick Park,No. 1,Harry Haydon,Joe Barr,Joe Barr,2-6,2,6,0,1,Completed,true,false,false
+UA017121,29 Oct 17,12,St Leonards Tennis,Elsternwick Park,No. 2,Ben Newton,Mathew Hogg,Mathew Hogg,1-6,1,6,0,1,Completed,true,false,false
+UA017121,29 Oct 17,12,St Leonards Tennis,Elsternwick Park,No. 3,Lewis Duggan,Joe Ohlson,Joe Ohlson,3-6,3,6,0,1,Completed,true,false,false
+UA017121,29 Oct 17,12,St Leonards Tennis,Elsternwick Park,No. 4,Jamie Kahone,Ana Vittoria Fernandes,Ana Vittoria Fernandes,0-6,0,6,0,1,Completed,true,false,false
+UA017122,29 Oct 17,12,Highett,GPHC MLC,No. 1,Will Scott,Hannah Croft,Hannah Croft,2-6,2,6,0,1,Completed,true,false,false
+UA017122,29 Oct 17,12,Highett,GPHC MLC,No. 2,Dylan Smith,Rudy Byass,Rudy Byass,3-6,3,6,0,1,Completed,true,false,false
+UA017122,29 Oct 17,12,Highett,GPHC MLC,No. 3,Ben Yang,Charlie Sweet,Charlie Sweet,4-6,4,6,0,1,Completed,true,false,false
+UA017122,29 Oct 17,12,Highett,GPHC MLC,No. 4,Oliver Danckert,Carla Maquire,Carla Maquire,2-6,2,6,0,1,Completed,true,false,false
+UA017123,29 Oct 17,12,Royal South Yarra,Tennis World,No. 1,Sophie Davies,Kyle Zheng,Sophie Davies,6-1,6,1,1,0,Completed,true,false,false
+UA017123,29 Oct 17,12,Royal South Yarra,Tennis World,No. 2,Axy Park,Marcus Wong,Marcus Wong,3-6,3,6,0,1,Completed,true,false,false
+UA017123,29 Oct 17,12,Royal South Yarra,Tennis World,No. 3,Indi Officer,Marcus Woo,Marcus Woo,2-6,2,6,0,1,Completed,true,false,false
+UA017123,29 Oct 17,12,Royal South Yarra,Tennis World,No. 4,Anna Eggleston,Chloe Ramchan,Anna Eggleston,6-3,6,3,1,0,Completed,true,false,false
+UA017124,29 Oct 17,12,Dendy Park,Royal Ave,No. 1,Zach Anquetil,Jesse Hodges,Jesse Hodges,1-6,1,6,0,1,Completed,true,false,false
+UA017124,29 Oct 17,12,Dendy Park,Royal Ave,No. 2,Charles McNabney,Will Baxter,Will Baxter,4-6,4,6,0,1,Completed,true,false,false
+UA017124,29 Oct 17,12,Dendy Park,Royal Ave,No. 3,Monty Sallabank,Harry Toomey,Harry Toomey,0-6,0,6,0,1,Completed,true,false,false
+UA017124,29 Oct 17,12,Dendy Park,Royal Ave,No. 4,Edward Wang,Vadim Goreux,Edward Wang,6-2,6,2,1,0,Completed,true,false,false
+UA017131,12 Nov 17,13,Elsternwick Park,Dendy Park,No. 1,Thomas Paratheras,Zach Anquetil,Thomas Paratheras,6-0,6,0,1,0,Completed,true,false,false
+UA017131,12 Nov 17,13,Elsternwick Park,Dendy Park,No. 2,Joe Barr,Charles McNabney,Joe Barr,7-5,7,5,1,0,Completed,true,false,false
+UA017131,12 Nov 17,13,Elsternwick Park,Dendy Park,No. 3,Mathew Hogg,Monty Sallabank,Mathew Hogg,6-0,6,0,1,0,Completed,true,false,false
+UA017131,12 Nov 17,13,Elsternwick Park,Dendy Park,No. 4,Ana Vittoria Fernandes,Angus McIntire,Ana Vittoria Fernandes,6-1,6,1,1,0,Completed,true,false,false
+UA017133,12 Nov 17,13,Tennis World,Highett,No. 1,Zachary Van Dijk,James Vassiliou,Zachary Van Dijk,6-1,6,1,1,0,Completed,true,false,false
+UA017133,12 Nov 17,13,Tennis World,Highett,No. 2,Marcus Woo,Dylan Smith,Marcus Woo,7-6,7,6,1,0,Completed,true,false,false
+UA017133,12 Nov 17,13,Tennis World,Highett,No. 3,Eran Duong,Ben Yang,Eran Duong,6-3,6,3,1,0,Completed,true,false,false
+UA017133,12 Nov 17,13,Tennis World,Highett,No. 4,Fraser Penfound,Lachie Mathieson,Fraser Penfound,6-4,6,4,1,0,Completed,true,false,false
+UA017134,12 Nov 17,13,GPHC MLC,Royal South Yarra,No. 1,Hannah Croft,Mietta Passon,Hannah Croft,7-5,7,5,1,0,Completed,true,false,false
+UA017134,12 Nov 17,13,GPHC MLC,Royal South Yarra,No. 2,Rudy Byass,Sophie Davies,Sophie Davies,3-6,3,6,0,1,Completed,true,false,false
+UA017134,12 Nov 17,13,GPHC MLC,Royal South Yarra,No. 3,Ryan Nottle,Indi Officer,Ryan Nottle,6-3,6,3,1,0,Completed,true,false,false
+UA017134,12 Nov 17,13,GPHC MLC,Royal South Yarra,No. 4,Charlotte Gillon,Anna Eggleston,Charlotte Gillon,7-5,7,5,1,0,Completed,true,false,false
+UA017141,19 Nov 17,14,Elsternwick Park,Royal Ave,No. 1,Thomas Paratheras,Jesse Hodges,Thomas Paratheras,6-4,6,4,1,0,Completed,true,false,false
+UA017141,19 Nov 17,14,Elsternwick Park,Royal Ave,No. 2,Joe Barr,Will Baxter,Joe Barr,6-3,6,3,1,0,Completed,true,false,false
+UA017141,19 Nov 17,14,Elsternwick Park,Royal Ave,No. 3,Joe Ohlson,Harry Toomey,Joe Ohlson,6-1,6,1,1,0,Completed,true,false,false
+UA017141,19 Nov 17,14,Elsternwick Park,Royal Ave,No. 4,Ana Vittoria Fernandes,Vadim Goreux,Ana Vittoria Fernandes,6-1,6,1,1,0,Completed,true,false,false
+UA017142,19 Nov 17,14,St Leonards Tennis,Dendy Park,No. 1,Harry Haydon,Zach Anquetil,Harry Haydon,6-2,6,2,1,0,Completed,true,false,false
+UA017142,19 Nov 17,14,St Leonards Tennis,Dendy Park,No. 2,Ben Newton,Charles McNabney,Ben Newton,6-4,6,4,1,0,Completed,true,false,false
+UA017142,19 Nov 17,14,St Leonards Tennis,Dendy Park,No. 3,Zach Zaidenberg,Monty Sallabank,Zach Zaidenberg,6-3,6,3,1,0,Completed,true,false,false
+UA017142,19 Nov 17,14,St Leonards Tennis,Dendy Park,No. 4,Jamie Kahone,Edward Wang,Jamie Kahone,7-6,7,6,1,0,Completed,true,false,false
+UA017143,19 Nov 17,14,Tennis World,GPHC MLC,No. 1,Zachary Van Dijk,Hannah Croft,Zachary Van Dijk,6-1,6,1,1,0,Completed,true,false,false
+UA017143,19 Nov 17,14,Tennis World,GPHC MLC,No. 2,Kyle Zheng,Rudy Byass,Kyle Zheng,6-2,6,2,1,0,Completed,true,false,false
+UA017143,19 Nov 17,14,Tennis World,GPHC MLC,No. 3,Chloe Ramchan,Ryan Nottle,Chloe Ramchan,6-4,6,4,1,0,Completed,true,false,false
+UA017143,19 Nov 17,14,Tennis World,GPHC MLC,No. 4,Olivia Hargrave,Charlie Sweet,Charlie Sweet,6-7,6,7,0,1,Completed,true,false,false
+UA017144,19 Nov 17,14,Royal South Yarra,Highett,No. 1,Mietta Passon,Will Scott,Mietta Passon,6-1,6,1,1,0,Completed,true,false,false
+UA017144,19 Nov 17,14,Royal South Yarra,Highett,No. 2,Sophie Davies,James Vassiliou,Sophie Davies,6-0,6,0,1,0,Completed,true,false,false
+UA017144,19 Nov 17,14,Royal South Yarra,Highett,No. 3,Axy Park,Oliver Danckert,Axy Park,6-1,6,1,1,0,Completed,true,false,false
+UA017144,19 Nov 17,14,Royal South Yarra,Highett,No. 4,Indi Officer,Marki Kravic,Indi Officer,6-4,6,4,1,0,Completed,true,false,false
+UA017301,,16,Elsternwick Park,St Leonards Tennis,No. 1,Thomas Paratheras,Harry Haydon,Thomas Paratheras,6-0,6,0,1,0,Completed,true,false,false
+UA017301,,16,Elsternwick Park,St Leonards Tennis,No. 2,Joe Barr,Ben Newton,Joe Barr,6-4,6,4,1,0,Completed,true,false,false
+UA017301,,16,Elsternwick Park,St Leonards Tennis,No. 3,Mathew Hogg,Jamie Kahone,Mathew Hogg,6-0,6,0,1,0,Completed,true,false,false
+UA017301,,16,Elsternwick Park,St Leonards Tennis,No. 4,Ana Vittoria Fernandes,Zach Newton,Ana Vittoria Fernandes,6-3,6,3,1,0,Completed,true,false,false
+UA017302,,16,Tennis World,Royal South Yarra,No. 1,Zachary Van Dijk,Katherine Soutter,Zachary Van Dijk,6-1,6,1,1,0,Completed,true,false,false
+UA017302,,16,Tennis World,Royal South Yarra,No. 2,Kyle Zheng,Sophie Davies,Sophie Davies,1-6,1,6,0,1,Completed,true,false,false
+UA017302,,16,Tennis World,Royal South Yarra,No. 3,Marcus Woo,Indi Officer,Marcus Woo,6-2,6,2,1,0,Completed,true,false,false
+UA017302,,16,Tennis World,Royal South Yarra,No. 4,Chloe Ramchan,Anna Eggleston,Chloe Ramchan,6-0,6,0,1,0,Completed,true,false,false
+UA017321,,17,Elsternwick Park,Tennis World,No. 1,Thomas Paratheras,Zachary Van Dijk,Zachary Van Dijk,4-6,4,6,0,1,Completed,true,false,false
+UA017321,,17,Elsternwick Park,Tennis World,No. 2,Joe Barr,Kyle Zheng,Joe Barr,6-1,6,1,1,0,Completed,true,false,false
+UA017321,,17,Elsternwick Park,Tennis World,No. 3,Joe Ohlson,Marcus Woo,Marcus Woo,4-6,4,6,0,1,Completed,true,false,false
+UA017321,,17,Elsternwick Park,Tennis World,No. 4,Ana Vittoria Fernandes,Chloe Ramchan,Ana Vittoria Fernandes,6-3,6,3,1,0,Completed,true,false,false

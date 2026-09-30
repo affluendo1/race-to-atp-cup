@@ -1,0 +1,229 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA002011,03 Feb 19,1,BLTC 1,BLTC 2,No. 1,Tom Shepherd,Chloe Hecker,Tom Shepherd,6-2,6,2,1,0,Completed,true,false,false
+UA002011,03 Feb 19,1,BLTC 1,BLTC 2,No. 2,Seb Zahra,Norway Gordon,Seb Zahra,6-1,6,1,1,0,Completed,true,false,false
+UA002011,03 Feb 19,1,BLTC 1,BLTC 2,No. 3,Ben Gerresheim,Ryan Taylor,Ryan Taylor,2-6,2,6,0,1,Completed,true,false,false
+UA002011,03 Feb 19,1,BLTC 1,BLTC 2,No. 4,Charlie Harrop,Felix Lichte,Felix Lichte,4-6,4,6,0,1,Completed,true,false,false
+UA002012,03 Feb 19,1,Royal South Yarra 1,Dendy Park,No. 1,William Beaton,Andreas Tanti,William Beaton,6-2,6,2,1,0,Completed,true,false,false
+UA002012,03 Feb 19,1,Royal South Yarra 1,Dendy Park,No. 2,Eagan Lai,Ashley Small,Eagan Lai,6-2,6,2,1,0,Completed,true,false,false
+UA002012,03 Feb 19,1,Royal South Yarra 1,Dendy Park,No. 3,Harvey Clements,Ethan Steyn,Harvey Clements,6-2,6,2,1,0,Completed,true,false,false
+UA002012,03 Feb 19,1,Royal South Yarra 1,Dendy Park,No. 4,Toby Ralph,Daniel Whitson,Toby Ralph,6-4,6,4,1,0,Completed,true,false,false
+UA002013,03 Feb 19,1,Royal South Yarra 2,Coatesville,No. 1,Bailey McLean,Christian Locantro,Bailey McLean,6-2,6,2,1,0,Completed,true,false,false
+UA002013,03 Feb 19,1,Royal South Yarra 2,Coatesville,No. 2,Sinclair Mosley,Luigi Cortez,Sinclair Mosley,6-3,6,3,1,0,Completed,true,false,false
+UA002013,03 Feb 19,1,Royal South Yarra 2,Coatesville,No. 3,James Ollerenshaw,Brock Augustynski,Brock Augustynski,0-6,0,6,0,1,Completed,true,false,false
+UA002013,03 Feb 19,1,Royal South Yarra 2,Coatesville,No. 4,Jack Cannon,Jordan Marakhov,Jordan Marakhov,3-6,3,6,0,1,Completed,true,false,false
+UA002014,03 Feb 19,1,Aspendale,Murrumbeena,No. 1,Caleb Curtis,Patrick Monteiro,Patrick Monteiro,4-6,4,6,0,1,Completed,true,false,false
+UA002014,03 Feb 19,1,Aspendale,Murrumbeena,No. 2,Mitchell Bean,Ben Rapaport,Mitchell Bean,6-2,6,2,1,0,Completed,true,false,false
+UA002014,03 Feb 19,1,Aspendale,Murrumbeena,No. 3,Bailey Judd,Geordan Apostolou,Geordan Apostolou,3-6,3,6,0,1,Completed,true,false,false
+UA002014,03 Feb 19,1,Aspendale,Murrumbeena,No. 4,Max Kendall,Jonathon Henquin,Jonathon Henquin,3-6,3,6,0,1,Completed,true,false,false
+UA002021,10 Feb 19,2,Murrumbeena,BLTC 1,No. 1,Patrick Monteiro,Seb Zahra,Patrick Monteiro,6-3,6,3,1,0,Completed,true,false,false
+UA002021,10 Feb 19,2,Murrumbeena,BLTC 1,No. 2,Ben Rapaport,Hugh Moir,Ben Rapaport,6-3,6,3,1,0,Completed,true,false,false
+UA002021,10 Feb 19,2,Murrumbeena,BLTC 1,No. 3,Geordan Apostolou,Ben Gerresheim,Ben Gerresheim,3-6,3,6,0,1,Completed,true,false,false
+UA002021,10 Feb 19,2,Murrumbeena,BLTC 1,No. 4,Jonathon Henquin,James Pilcher,James Pilcher,4-6,4,6,0,1,Completed,true,false,false
+UA002022,10 Feb 19,2,BLTC 2,Royal South Yarra 1,No. 1,Norway Gordon,William Beaton,William Beaton,1-6,1,6,0,1,Completed,true,false,false
+UA002022,10 Feb 19,2,BLTC 2,Royal South Yarra 1,No. 2,Ryan Taylor,Toby Ralph,Toby Ralph,6-7,6,7,0,1,Completed,true,false,false
+UA002022,10 Feb 19,2,BLTC 2,Royal South Yarra 1,No. 3,Felix Lichte,Lachlan Mailer,Felix Lichte,6-3,6,3,1,0,Completed,true,false,false
+UA002022,10 Feb 19,2,BLTC 2,Royal South Yarra 1,No. 4,Daniel Yoo,Darcy Albert,Daniel Yoo,6-4,6,4,1,0,Completed,true,false,false
+UA002023,10 Feb 19,2,Dendy Park,Royal South Yarra 2,No. 1,Andreas Tanti,Sinclair Mosley,Andreas Tanti,6-4,6,4,1,0,Completed,true,false,false
+UA002023,10 Feb 19,2,Dendy Park,Royal South Yarra 2,No. 2,Ashley Small,Max Griffiths,Max Griffiths,2-6,2,6,0,1,Completed,true,false,false
+UA002023,10 Feb 19,2,Dendy Park,Royal South Yarra 2,No. 3,Cameron Acheson,James Strapp,Cameron Acheson,6-3,6,3,1,0,Completed,true,false,false
+UA002023,10 Feb 19,2,Dendy Park,Royal South Yarra 2,No. 4,Ethan Steyn,James Ollerenshaw,Ethan Steyn,6-0,6,0,1,0,Completed,true,false,false
+UA002024,10 Feb 19,2,Coatesville,Aspendale,No. 1,Christian Locantro,Caleb Curtis,Christian Locantro,7-6,7,6,1,0,Completed,true,false,false
+UA002024,10 Feb 19,2,Coatesville,Aspendale,No. 2,Daniel Jiang,Mitchell Bean,Mitchell Bean,0-6,0,6,0,1,Completed,true,false,false
+UA002024,10 Feb 19,2,Coatesville,Aspendale,No. 3,Jacob Mundy,Bailey Judd,Bailey Judd,0-6,0,6,0,1,Completed,true,false,false
+UA002024,10 Feb 19,2,Coatesville,Aspendale,No. 4,Jordan Marakhov,Max Kendall,Jordan Marakhov,6-4,6,4,1,0,Completed,true,false,false
+UA002031,17 Feb 19,3,BLTC 1,Coatesville,No. 1,Tom Shepherd,Luigi Cortez,Tom Shepherd,6-0,6,0,1,0,Completed,true,false,false
+UA002031,17 Feb 19,3,BLTC 1,Coatesville,No. 2,Hugh Moir,Brock Augustynski,Brock Augustynski,5-7,5,7,0,1,Completed,true,false,false
+UA002031,17 Feb 19,3,BLTC 1,Coatesville,No. 3,Ben Gerresheim,Jacob Mundy,Ben Gerresheim,6-2,6,2,1,0,Completed,true,false,false
+UA002031,17 Feb 19,3,BLTC 1,Coatesville,No. 4,James Pilcher,Jordan Marakhov,James Pilcher,6-2,6,2,1,0,Completed,true,false,false
+UA002032,17 Feb 19,3,Royal South Yarra 1,Murrumbeena,No. 1,William Beaton,Tessa Dabas,Tessa Dabas,4-6,4,6,0,1,Completed,true,false,false
+UA002032,17 Feb 19,3,Royal South Yarra 1,Murrumbeena,No. 2,Harvey Clements,Patrick Monteiro,Patrick Monteiro,2-6,2,6,0,1,Completed,true,false,false
+UA002032,17 Feb 19,3,Royal South Yarra 1,Murrumbeena,No. 3,Lachlan Mailer,Ben Rapaport,Lachlan Mailer,6-1,6,1,1,0,Completed,true,false,false
+UA002032,17 Feb 19,3,Royal South Yarra 1,Murrumbeena,No. 4,Darcy Albert,Ethan Amalfi,Ethan Amalfi,4-6,4,6,0,1,Completed,true,false,false
+UA002033,17 Feb 19,3,Royal South Yarra 2,BLTC 2,No. 1,Sinclair Mosley,Felix Lichte,Felix Lichte,0-6,0,6,0,1,Completed,true,false,false
+UA002033,17 Feb 19,3,Royal South Yarra 2,BLTC 2,No. 2,James Strapp,Daniel Yoo,James Strapp,6-1,6,1,1,0,Completed,true,false,false
+UA002033,17 Feb 19,3,Royal South Yarra 2,BLTC 2,No. 3,James Ollerenshaw,Claudia Chmara,James Ollerenshaw,6-3,6,3,1,0,Completed,true,false,false
+UA002033,17 Feb 19,3,Royal South Yarra 2,BLTC 2,No. 4,Jack Cannon,Ilai Manor,Ilai Manor,1-6,1,6,0,1,Completed,true,false,false
+UA002034,17 Feb 19,3,Aspendale,Dendy Park,No. 1,Caleb Curtis,Andreas Tanti,Caleb Curtis,6-4,6,4,1,0,Completed,true,false,false
+UA002034,17 Feb 19,3,Aspendale,Dendy Park,No. 2,Mitchell Bean,Cameron Acheson,Mitchell Bean,6-0,6,0,1,0,Completed,true,false,false
+UA002034,17 Feb 19,3,Aspendale,Dendy Park,No. 3,Bailey Judd,Ashley Small,Bailey Judd,6-3,6,3,1,0,Completed,true,false,false
+UA002034,17 Feb 19,3,Aspendale,Dendy Park,No. 4,Max Kendall,Daniel Whitson,Max Kendall,6-3,6,3,1,0,Completed,true,false,false
+UA002041,24 Feb 19,4,Dendy Park,BLTC 1,No. 1,Andreas Tanti,Tom Shepherd,Tom Shepherd,2-6,2,6,0,1,Completed,true,false,false
+UA002041,24 Feb 19,4,Dendy Park,BLTC 1,No. 2,Cameron Acheson,Seb Zahra,Seb Zahra,2-6,2,6,0,1,Completed,true,false,false
+UA002041,24 Feb 19,4,Dendy Park,BLTC 1,No. 3,Ashley Small,Hugh Moir,Hugh Moir,4-6,4,6,0,1,Completed,true,false,false
+UA002041,24 Feb 19,4,Dendy Park,BLTC 1,No. 4,Daniel Whitson,James Pilcher,Daniel Whitson,7-6,7,6,1,0,Completed,true,false,false
+UA002042,24 Feb 19,4,Coatesville,Royal South Yarra 1,No. 1,Christian Locantro,Eagan Lai,Christian Locantro,7-6,7,6,1,0,Completed,true,false,false
+UA002042,24 Feb 19,4,Coatesville,Royal South Yarra 1,No. 2,Luigi Cortez,Harvey Clements,Luigi Cortez,6-1,6,1,1,0,Completed,true,false,false
+UA002042,24 Feb 19,4,Coatesville,Royal South Yarra 1,No. 3,Daniel Jiang,Toby Ralph,Toby Ralph,4-6,4,6,0,1,Completed,true,false,false
+UA002042,24 Feb 19,4,Coatesville,Royal South Yarra 1,No. 4,Jacob Mundy,Lachlan Mailer,Lachlan Mailer,2-6,2,6,0,1,Completed,true,false,false
+UA002043,24 Feb 19,4,Murrumbeena,Royal South Yarra 2,No. 1,Patrick Monteiro,Sinclair Mosley,Patrick Monteiro,6-2,6,2,1,0,Completed,true,false,false
+UA002043,24 Feb 19,4,Murrumbeena,Royal South Yarra 2,No. 2,Ben Rapaport,Max Griffiths,Max Griffiths,1-6,1,6,0,1,Completed,true,false,false
+UA002043,24 Feb 19,4,Murrumbeena,Royal South Yarra 2,No. 3,Geordan Apostolou,James Strapp,James Strapp,0-6,0,6,0,1,Completed,true,false,false
+UA002043,24 Feb 19,4,Murrumbeena,Royal South Yarra 2,No. 4,Jonathon Henquin,James Ollerenshaw,Jonathon Henquin,6-4,6,4,1,0,Completed,true,false,false
+UA002044,24 Feb 19,4,BLTC 2,Aspendale,No. 1,Norway Gordon,Jarrod Scott,Jarrod Scott,1-6,1,6,0,1,Completed,true,false,false
+UA002044,24 Feb 19,4,BLTC 2,Aspendale,No. 2,Felix Lichte,Bailey Judd,Felix Lichte,6-0,6,0,1,0,Completed,true,false,false
+UA002044,24 Feb 19,4,BLTC 2,Aspendale,No. 3,Daniel Yoo,Max Kendall,Daniel Yoo,6-2,6,2,1,0,Completed,true,false,false
+UA002044,24 Feb 19,4,BLTC 2,Aspendale,No. 4,Claudia Chmara,Lawrence Vlahos,Lawrence Vlahos,0-6,0,6,0,1,Completed,true,false,false
+UA002051,03 Mar 19,5,Royal South Yarra 2,Aspendale,No. 1,Max Griffiths,Caleb Curtis,Caleb Curtis,3-6,3,6,0,1,Completed,true,false,false
+UA002051,03 Mar 19,5,Royal South Yarra 2,Aspendale,No. 2,James Strapp,Mitchell Bean,Mitchell Bean,1-6,1,6,0,1,Completed,true,false,false
+UA002051,03 Mar 19,5,Royal South Yarra 2,Aspendale,No. 3,James Ollerenshaw,Bailey Judd,Bailey Judd,1-6,1,6,0,1,Completed,true,false,false
+UA002051,03 Mar 19,5,Royal South Yarra 2,Aspendale,No. 4,Jack Cannon,Max Kendall,Max Kendall,3-6,3,6,0,1,Completed,true,false,false
+UA002052,03 Mar 19,5,Murrumbeena,Coatesville,No. 1,Patrick Monteiro,Christian Locantro,Patrick Monteiro,6-3,6,3,1,0,Completed,true,false,false
+UA002052,03 Mar 19,5,Murrumbeena,Coatesville,No. 2,Geordan Apostolou,Daniel Jiang,Geordan Apostolou,6-4,6,4,1,0,Completed,true,false,false
+UA002052,03 Mar 19,5,Murrumbeena,Coatesville,No. 3,Jonathon Henquin,Brock Augustynski,Jonathon Henquin,6-1,6,1,1,0,Completed,true,false,false
+UA002052,03 Mar 19,5,Murrumbeena,Coatesville,No. 4,Ethan Amalfi,Jordan Marakhov,Jordan Marakhov,1-6,1,6,0,1,Completed,true,false,false
+UA002053,03 Mar 19,5,Dendy Park,BLTC 2,No. 1,Andreas Tanti,Norway Gordon,Andreas Tanti,6-1,6,1,1,0,Completed,true,false,false
+UA002053,03 Mar 19,5,Dendy Park,BLTC 2,No. 2,Ethan Steyn,Felix Lichte,Felix Lichte,2-6,2,6,0,1,Completed,true,false,false
+UA002053,03 Mar 19,5,Dendy Park,BLTC 2,No. 3,Cameron Acheson,Claudia Chmara,Cameron Acheson,6-0,6,0,1,0,Completed,true,false,false
+UA002053,03 Mar 19,5,Dendy Park,BLTC 2,No. 4,Daniel Whitson,Ilai Manor,Daniel Whitson,6-4,6,4,1,0,Completed,true,false,false
+UA002054,03 Mar 19,5,BLTC 1,Royal South Yarra 1,No. 1,Tom Shepherd,William Beaton,Tom Shepherd,6-0,6,0,1,0,Completed,true,false,false
+UA002054,03 Mar 19,5,BLTC 1,Royal South Yarra 1,No. 2,Jamie Ray,Harvey Clements,Jamie Ray,6-0,6,0,1,0,Completed,true,false,false
+UA002054,03 Mar 19,5,BLTC 1,Royal South Yarra 1,No. 3,Seb Zahra,Toby Ralph,Seb Zahra,6-3,6,3,1,0,Completed,true,false,false
+UA002054,03 Mar 19,5,BLTC 1,Royal South Yarra 1,No. 4,Ben Gerresheim,Darcy Albert,Ben Gerresheim,6-3,6,3,1,0,Completed,true,false,false
+UA002061,17 Mar 19,6,Royal South Yarra 1,Royal South Yarra 2,No. 1,Eagan Lai,Sinclair Mosley,Eagan Lai,6-2,6,2,1,0,Completed,true,false,false
+UA002061,17 Mar 19,6,Royal South Yarra 1,Royal South Yarra 2,No. 2,Harvey Clements,Max Griffiths,Harvey Clements,7-5,7,5,1,0,Completed,true,false,false
+UA002061,17 Mar 19,6,Royal South Yarra 1,Royal South Yarra 2,No. 3,Toby Ralph,James Strapp,Toby Ralph,7-5,7,5,1,0,Completed,true,false,false
+UA002061,17 Mar 19,6,Royal South Yarra 1,Royal South Yarra 2,No. 4,Darcy Albert,James Ollerenshaw,Darcy Albert,6-3,6,3,1,0,Completed,true,false,false
+UA002062,17 Mar 19,6,Aspendale,BLTC 1,No. 1,Caleb Curtis,Tom Shepherd,Tom Shepherd,6-7,6,7,0,1,Completed,true,false,false
+UA002062,17 Mar 19,6,Aspendale,BLTC 1,No. 2,Mitchell Bean,Jamie Ray,Jamie Ray,3-6,3,6,0,1,Completed,true,false,false
+UA002062,17 Mar 19,6,Aspendale,BLTC 1,No. 3,Bailey Judd,Hugh Moir,Hugh Moir,1-6,1,6,0,1,Completed,true,false,false
+UA002062,17 Mar 19,6,Aspendale,BLTC 1,No. 4,Riley Snell,James Pilcher,Riley Snell,6-1,6,1,1,0,Completed,true,false,false
+UA002063,17 Mar 19,6,Coatesville,Dendy Park,No. 1,Christian Locantro,Ethan Steyn,Christian Locantro,6-3,6,3,1,0,Completed,true,false,false
+UA002063,17 Mar 19,6,Coatesville,Dendy Park,No. 2,Luigi Cortez,Cameron Acheson,Cameron Acheson,6-7,6,7,0,1,Completed,true,false,false
+UA002063,17 Mar 19,6,Coatesville,Dendy Park,No. 3,Brock Augustynski,Ashley Small,Ashley Small,1-6,1,6,0,1,Completed,true,false,false
+UA002063,17 Mar 19,6,Coatesville,Dendy Park,No. 4,Jacob Mundy,Daniel Whitson,Daniel Whitson,0-6,0,6,0,1,Completed,true,false,false
+UA002064,17 Mar 19,6,BLTC 2,Murrumbeena,No. 1,Norway Gordon,Patrick Monteiro,Patrick Monteiro,1-6,1,6,0,1,Completed,true,false,false
+UA002064,17 Mar 19,6,BLTC 2,Murrumbeena,No. 2,Felix Lichte,Ben Rapaport,Felix Lichte,6-0,6,0,1,0,Completed,true,false,false
+UA002064,17 Mar 19,6,BLTC 2,Murrumbeena,No. 3,Claudia Chmara,Geordan Apostolou,Geordan Apostolou,4-6,4,6,0,1,Completed,true,false,false
+UA002064,17 Mar 19,6,BLTC 2,Murrumbeena,No. 4,Ilai Manor,Jonathon Henquin,Jonathon Henquin,4-6,4,6,0,1,Completed,true,false,false
+UA002071,24 Mar 19,7,BLTC 1,Royal South Yarra 2,No. 1,Tom Shepherd,Sinclair Mosley,Tom Shepherd,6-0,6,0,1,0,Completed,true,false,false
+UA002071,24 Mar 19,7,BLTC 1,Royal South Yarra 2,No. 2,Seb Zahra,Max Griffiths,Seb Zahra,6-1,6,1,1,0,Completed,true,false,false
+UA002071,24 Mar 19,7,BLTC 1,Royal South Yarra 2,No. 3,Ben Gerresheim,James Ollerenshaw,Ben Gerresheim,6-3,6,3,1,0,Completed,true,false,false
+UA002071,24 Mar 19,7,BLTC 1,Royal South Yarra 2,No. 4,James Pilcher,Jack Cannon,James Pilcher,7-6,7,6,1,0,Completed,true,false,false
+UA002072,24 Mar 19,7,Royal South Yarra 1,Aspendale,No. 1,Eagan Lai,Caleb Curtis,Caleb Curtis,5-7,5,7,0,1,Completed,true,false,false
+UA002072,24 Mar 19,7,Royal South Yarra 1,Aspendale,No. 2,Harvey Clements,Mitchell Bean,Mitchell Bean,1-6,1,6,0,1,Completed,true,false,false
+UA002072,24 Mar 19,7,Royal South Yarra 1,Aspendale,No. 3,Toby Ralph,Bailey Judd,Bailey Judd,3-6,3,6,0,1,Completed,true,false,false
+UA002072,24 Mar 19,7,Royal South Yarra 1,Aspendale,No. 4,Darcy Albert,Max Kendall,Max Kendall,1-6,1,6,0,1,Completed,true,false,false
+UA002073,24 Mar 19,7,Murrumbeena,Dendy Park,No. 1,Patrick Monteiro,Andreas Tanti,Andreas Tanti,2-6,2,6,0,1,Completed,true,false,false
+UA002073,24 Mar 19,7,Murrumbeena,Dendy Park,No. 2,Ben Rapaport,Ethan Steyn,Ethan Steyn,2-6,2,6,0,1,Completed,true,false,false
+UA002073,24 Mar 19,7,Murrumbeena,Dendy Park,No. 3,Geordan Apostolou,Cameron Acheson,Geordan Apostolou,6-4,6,4,1,0,Completed,true,false,false
+UA002073,24 Mar 19,7,Murrumbeena,Dendy Park,No. 4,Jonathon Henquin,Ashley Small,Ashley Small,3-6,3,6,0,1,Completed,true,false,false
+UA002074,24 Mar 19,7,Coatesville,BLTC 2,No. 1,Christian Locantro,Norway Gordon,Christian Locantro,6-4,6,4,1,0,Completed,true,false,false
+UA002074,24 Mar 19,7,Coatesville,BLTC 2,No. 2,Luigi Cortez,Felix Lichte,Felix Lichte,3-6,3,6,0,1,Completed,true,false,false
+UA002074,24 Mar 19,7,Coatesville,BLTC 2,No. 3,Jacob Mundy,Patrick Flood,Patrick Flood,0-6,0,6,0,1,Completed,true,false,false
+UA002074,24 Mar 19,7,Coatesville,BLTC 2,No. 4,Jordan Marakhov,Kurt Bartholomuesz,Kurt Bartholomuesz,2-6,2,6,0,1,Completed,true,false,false
+UA002081,31 Mar 19,8,BLTC 2,BLTC 1,No. 1,Norway Gordon,Tom Shepherd,Tom Shepherd,2-6,2,6,0,1,Completed,true,false,false
+UA002081,31 Mar 19,8,BLTC 2,BLTC 1,No. 2,Kurt Bartholomuesz,Jamie Ray,Jamie Ray,0-6,0,6,0,1,Completed,true,false,false
+UA002081,31 Mar 19,8,BLTC 2,BLTC 1,No. 3,Daniel Yoo,Hugh Moir,Hugh Moir,6-7,6,7,0,1,Completed,true,false,false
+UA002081,31 Mar 19,8,BLTC 2,BLTC 1,No. 4,Claudia Chmara,Ben Gerresheim,Ben Gerresheim,3-6,3,6,0,1,Completed,true,false,false
+UA002082,31 Mar 19,8,Dendy Park,Royal South Yarra 1,No. 1,Andreas Tanti,Eagan Lai,Andreas Tanti,6-1,6,1,1,0,Completed,true,false,false
+UA002082,31 Mar 19,8,Dendy Park,Royal South Yarra 1,No. 2,Cameron Acheson,Tom Ritter,Cameron Acheson,6-2,6,2,1,0,Completed,true,false,false
+UA002082,31 Mar 19,8,Dendy Park,Royal South Yarra 1,No. 3,Ashley Small,Lachlan Mailer,Ashley Small,6-4,6,4,1,0,Completed,true,false,false
+UA002082,31 Mar 19,8,Dendy Park,Royal South Yarra 1,No. 4,Daniel Whitson,Darcy Albert,Darcy Albert,2-6,2,6,0,1,Completed,true,false,false
+UA002083,31 Mar 19,8,Coatesville,Royal South Yarra 2,No. 1,Christian Locantro,Sinclair Mosley,Christian Locantro,6-1,6,1,1,0,Completed,true,false,false
+UA002083,31 Mar 19,8,Coatesville,Royal South Yarra 2,No. 2,Brock Augustynski,James Strapp,James Strapp,3-6,3,6,0,1,Completed,true,false,false
+UA002083,31 Mar 19,8,Coatesville,Royal South Yarra 2,No. 3,Jordan Marakhov,James Ollerenshaw,Jordan Marakhov,6-4,6,4,1,0,Completed,true,false,false
+UA002083,31 Mar 19,8,Coatesville,Royal South Yarra 2,No. 4,Daniel Jiang,Thomas Wenzel,Daniel Jiang,6-3,6,3,1,0,Completed,true,false,false
+UA002084,31 Mar 19,8,Murrumbeena,Aspendale,No. 1,Patrick Monteiro,Caleb Curtis,Patrick Monteiro,7-6,7,6,1,0,Completed,true,false,false
+UA002084,31 Mar 19,8,Murrumbeena,Aspendale,No. 2,Ben Rapaport,Mitchell Bean,Mitchell Bean,0-6,0,6,0,1,Completed,true,false,false
+UA002084,31 Mar 19,8,Murrumbeena,Aspendale,No. 3,Geordan Apostolou,Jarrod Scott,Jarrod Scott,2-6,2,6,0,1,Completed,true,false,false
+UA002084,31 Mar 19,8,Murrumbeena,Aspendale,No. 4,Jonathon Henquin,Bailey Judd,Bailey Judd,1-6,1,6,0,1,Completed,true,false,false
+UA002091,28 Apr 19,9,BLTC 1,Murrumbeena,No. 1,Tom Shepherd,Tessa Dabas,Tessa Dabas,6-7,6,7,0,1,Completed,true,false,false
+UA002091,28 Apr 19,9,BLTC 1,Murrumbeena,No. 2,Jamie Ray,Patrick Monteiro,Patrick Monteiro,3-6,3,6,0,1,Completed,true,false,false
+UA002091,28 Apr 19,9,BLTC 1,Murrumbeena,No. 3,Hugh Moir,William Blair,William Blair,1-6,1,6,0,1,Completed,true,false,false
+UA002091,28 Apr 19,9,BLTC 1,Murrumbeena,No. 4,James Pilcher,Ben Rapaport,Ben Rapaport,0-6,0,6,0,1,Completed,true,false,false
+UA002092,28 Apr 19,9,Royal South Yarra 1,BLTC 2,No. 1,William Beaton,[Unnamed player — TROLS UA002092 away code 1],William Beaton,6-0,6,0,1,0,Completed,false,false,false
+UA002092,28 Apr 19,9,Royal South Yarra 1,BLTC 2,No. 2,Eagan Lai,Felix Lichte,Eagan Lai,6-0,6,0,1,0,Completed,true,false,false
+UA002092,28 Apr 19,9,Royal South Yarra 1,BLTC 2,No. 3,Toby Ralph,Daniel Yoo,Toby Ralph,6-4,6,4,1,0,Completed,true,false,false
+UA002092,28 Apr 19,9,Royal South Yarra 1,BLTC 2,No. 4,Lachlan Mailer,Claudia Chmara,Lachlan Mailer,6-0,6,0,1,0,Completed,true,false,false
+UA002093,28 Apr 19,9,Royal South Yarra 2,Dendy Park,No. 1,Sinclair Mosley,Andreas Tanti,Andreas Tanti,2-6,2,6,0,1,Completed,true,false,false
+UA002093,28 Apr 19,9,Royal South Yarra 2,Dendy Park,No. 2,Max Griffiths,Ethan Steyn,Ethan Steyn,2-6,2,6,0,1,Completed,true,false,false
+UA002093,28 Apr 19,9,Royal South Yarra 2,Dendy Park,No. 3,James Strapp,Cameron Acheson,Cameron Acheson,3-6,3,6,0,1,Completed,true,false,false
+UA002093,28 Apr 19,9,Royal South Yarra 2,Dendy Park,No. 4,Jack Cannon,Ashley Small,Ashley Small,5-7,5,7,0,1,Completed,true,false,false
+UA002094,28 Apr 19,9,Aspendale,Coatesville,No. 1,Caleb Curtis,Luigi Cortez,Caleb Curtis,6-4,6,4,1,0,Completed,true,false,false
+UA002094,28 Apr 19,9,Aspendale,Coatesville,No. 2,Mitchell Bean,Brock Augustynski,Mitchell Bean,6-0,6,0,1,0,Completed,true,false,false
+UA002094,28 Apr 19,9,Aspendale,Coatesville,No. 3,Bailey Judd,Daniel Jiang,Bailey Judd,6-2,6,2,1,0,Completed,true,false,false
+UA002094,28 Apr 19,9,Aspendale,Coatesville,No. 4,Max Kendall,Jacob Mundy,Max Kendall,6-3,6,3,1,0,Completed,true,false,false
+UA002101,05 May 19,10,Coatesville,BLTC 1,No. 1,Brock Augustynski,Tom Shepherd,Tom Shepherd,2-6,2,6,0,1,Completed,true,false,false
+UA002101,05 May 19,10,Coatesville,BLTC 1,No. 2,Jordan Marakhov,Seb Zahra,Seb Zahra,3-6,3,6,0,1,Completed,true,false,false
+UA002101,05 May 19,10,Coatesville,BLTC 1,No. 3,Daniel Jiang,Ben Gerresheim,Daniel Jiang,6-4,6,4,1,0,Completed,true,false,false
+UA002101,05 May 19,10,Coatesville,BLTC 1,No. 4,Jacob Mundy,James Pilcher,James Pilcher,4-6,4,6,0,1,Completed,true,false,false
+UA002102,05 May 19,10,Murrumbeena,Royal South Yarra 1,No. 1,Tessa Dabas,William Beaton,Tessa Dabas,7-6,7,6,1,0,Completed,true,false,false
+UA002102,05 May 19,10,Murrumbeena,Royal South Yarra 1,No. 2,Patrick Monteiro,Eagan Lai,Patrick Monteiro,6-1,6,1,1,0,Completed,true,false,false
+UA002102,05 May 19,10,Murrumbeena,Royal South Yarra 1,No. 3,Geordan Apostolou,Toby Ralph,Toby Ralph,4-6,4,6,0,1,Completed,true,false,false
+UA002102,05 May 19,10,Murrumbeena,Royal South Yarra 1,No. 4,Ben Rapaport,Lachlan Mailer,Lachlan Mailer,0-6,0,6,0,1,Completed,true,false,false
+UA002104,05 May 19,10,Dendy Park,Aspendale,No. 1,Andreas Tanti,Caleb Curtis,Caleb Curtis,5-7,5,7,0,1,Completed,true,false,false
+UA002104,05 May 19,10,Dendy Park,Aspendale,No. 2,Ethan Steyn,Mitchell Bean,Mitchell Bean,1-6,1,6,0,1,Completed,true,false,false
+UA002104,05 May 19,10,Dendy Park,Aspendale,No. 3,Cameron Acheson,Bailey Judd,Bailey Judd,3-6,3,6,0,1,Completed,true,false,false
+UA002104,05 May 19,10,Dendy Park,Aspendale,No. 4,Daniel Whitson,Max Kendall,Max Kendall,2-6,2,6,0,1,Completed,true,false,false
+UA002111,12 May 19,11,BLTC 1,Dendy Park,No. 1,Jamie Ray,Andreas Tanti,Jamie Ray,6-3,6,3,1,0,Completed,true,false,false
+UA002111,12 May 19,11,BLTC 1,Dendy Park,No. 2,Seb Zahra,Aiden Michaels,Aiden Michaels,3-6,3,6,0,1,Completed,true,false,false
+UA002111,12 May 19,11,BLTC 1,Dendy Park,No. 3,Hugh Moir,Cameron Acheson,Cameron Acheson,0-6,0,6,0,1,Completed,true,false,false
+UA002111,12 May 19,11,BLTC 1,Dendy Park,No. 4,James Pilcher,Ashley Small,Ashley Small,0-6,0,6,0,1,Completed,true,false,false
+UA002112,12 May 19,11,Royal South Yarra 1,Coatesville,No. 1,Laura O'Farrell,Christian Locantro,Christian Locantro,4-6,4,6,0,1,Completed,true,false,false
+UA002112,12 May 19,11,Royal South Yarra 1,Coatesville,No. 2,Eagan Lai,Luigi Cortez,Eagan Lai,6-1,6,1,1,0,Completed,true,false,false
+UA002112,12 May 19,11,Royal South Yarra 1,Coatesville,No. 3,Toby Ralph,Daniel Jiang,Toby Ralph,6-1,6,1,1,0,Completed,true,false,false
+UA002112,12 May 19,11,Royal South Yarra 1,Coatesville,No. 4,Darcy Albert,Jack Pooley,Jack Pooley,6-7,6,7,0,1,Completed,true,false,false
+UA002113,12 May 19,11,Royal South Yarra 2,Murrumbeena,No. 1,Sinclair Mosley,Patrick Monteiro,Patrick Monteiro,1-6,1,6,0,1,Completed,true,false,false
+UA002113,12 May 19,11,Royal South Yarra 2,Murrumbeena,No. 2,Max Griffiths,William Blair,Max Griffiths,7-5,7,5,1,0,Completed,true,false,false
+UA002113,12 May 19,11,Royal South Yarra 2,Murrumbeena,No. 3,James Ollerenshaw,Geordan Apostolou,James Ollerenshaw,6-2,6,2,1,0,Completed,true,false,false
+UA002113,12 May 19,11,Royal South Yarra 2,Murrumbeena,No. 4,Jack Cannon,Jonathon Henquin,Jonathon Henquin,6-7,6,7,0,1,Completed,true,false,false
+UA002114,12 May 19,11,Aspendale,BLTC 2,No. 1,Mitchell Bean,Ryan Taylor,Mitchell Bean,6-3,6,3,1,0,Completed,true,false,false
+UA002114,12 May 19,11,Aspendale,BLTC 2,No. 2,Bailey Judd,Felix Lichte,Bailey Judd,6-2,6,2,1,0,Completed,true,false,false
+UA002114,12 May 19,11,Aspendale,BLTC 2,No. 3,Riley Snell,Daniel Yoo,Riley Snell,7-5,7,5,1,0,Completed,true,false,false
+UA002114,12 May 19,11,Aspendale,BLTC 2,No. 4,Chester Ryan,Claudia Chmara,Chester Ryan,6-4,6,4,1,0,Completed,true,false,false
+UA002121,19 May 19,12,Aspendale,Royal South Yarra 2,No. 1,Caleb Curtis,Sinclair Mosley,Caleb Curtis,6-0,6,0,1,0,Completed,true,false,false
+UA002121,19 May 19,12,Aspendale,Royal South Yarra 2,No. 2,Mitchell Bean,Max Griffiths,Mitchell Bean,6-1,6,1,1,0,Completed,true,false,false
+UA002121,19 May 19,12,Aspendale,Royal South Yarra 2,No. 3,Bailey Judd,Alexis Stergiopoulos,Bailey Judd,6-1,6,1,1,0,Completed,true,false,false
+UA002121,19 May 19,12,Aspendale,Royal South Yarra 2,No. 4,Max Kendall,James Ollerenshaw,Max Kendall,6-3,6,3,1,0,Completed,true,false,false
+UA002122,19 May 19,12,Coatesville,Murrumbeena,No. 1,Christian Locantro,Patrick Monteiro,Patrick Monteiro,2-6,2,6,0,1,Completed,true,false,false
+UA002122,19 May 19,12,Coatesville,Murrumbeena,No. 2,Brock Augustynski,William Blair,William Blair,1-6,1,6,0,1,Completed,true,false,false
+UA002122,19 May 19,12,Coatesville,Murrumbeena,No. 3,Daniel Jiang,Geordan Apostolou,Geordan Apostolou,2-6,2,6,0,1,Completed,true,false,false
+UA002122,19 May 19,12,Coatesville,Murrumbeena,No. 4,Jacob Mundy,Jonathon Henquin,Jonathon Henquin,2-6,2,6,0,1,Completed,true,false,false
+UA002123,19 May 19,12,BLTC 2,Dendy Park,No. 1,Norway Gordon,Andreas Tanti,Andreas Tanti,1-6,1,6,0,1,Completed,true,false,false
+UA002123,19 May 19,12,BLTC 2,Dendy Park,No. 2,Ryan Taylor,Ethan Steyn,Ryan Taylor,6-1,6,1,1,0,Completed,true,false,false
+UA002123,19 May 19,12,BLTC 2,Dendy Park,No. 3,Daniel Yoo,Ashley Small,Ashley Small,5-7,5,7,0,1,Completed,true,false,false
+UA002123,19 May 19,12,BLTC 2,Dendy Park,No. 4,Claudia Chmara,Daniel Whitson,Daniel Whitson,4-6,4,6,0,1,Completed,true,false,false
+UA002131,26 May 19,13,Royal South Yarra 2,Royal South Yarra 1,No. 1,Sinclair Mosley,William Beaton,William Beaton,1-6,1,6,0,1,Completed,true,false,false
+UA002131,26 May 19,13,Royal South Yarra 2,Royal South Yarra 1,No. 2,Max Griffiths,Eagan Lai,Eagan Lai,3-6,3,6,0,1,Completed,true,false,false
+UA002131,26 May 19,13,Royal South Yarra 2,Royal South Yarra 1,No. 3,Chelsea Stergiopoulos,Lachlan Mailer,Chelsea Stergiopoulos,7-5,7,5,1,0,Completed,true,false,false
+UA002131,26 May 19,13,Royal South Yarra 2,Royal South Yarra 1,No. 4,Jack Cannon,Darcy Albert,Darcy Albert,4-6,4,6,0,1,Completed,true,false,false
+UA002132,26 May 19,13,BLTC 1,Aspendale,No. 1,Jamie Ray,Caleb Curtis,Jamie Ray,6-2,6,2,1,0,Completed,true,false,false
+UA002132,26 May 19,13,BLTC 1,Aspendale,No. 2,Seb Zahra,Mitchell Bean,Mitchell Bean,2-6,2,6,0,1,Completed,true,false,false
+UA002132,26 May 19,13,BLTC 1,Aspendale,No. 3,Hugh Moir,Jarrod Scott,Jarrod Scott,2-6,2,6,0,1,Completed,true,false,false
+UA002132,26 May 19,13,BLTC 1,Aspendale,No. 4,Ben Gerresheim,Bailey Judd,Bailey Judd,1-6,1,6,0,1,Completed,true,false,false
+UA002133,26 May 19,13,Dendy Park,Coatesville,No. 1,Andreas Tanti,Christian Locantro,Andreas Tanti,6-3,6,3,1,0,Completed,true,false,false
+UA002133,26 May 19,13,Dendy Park,Coatesville,No. 2,Cameron Acheson,Luigi Cortez,Luigi Cortez,4-6,4,6,0,1,Completed,true,false,false
+UA002133,26 May 19,13,Dendy Park,Coatesville,No. 3,Ashley Small,Jordan Marakhov,Ashley Small,6-2,6,2,1,0,Completed,true,false,false
+UA002133,26 May 19,13,Dendy Park,Coatesville,No. 4,Daniel Whitson,Jacob Mundy,Daniel Whitson,6-2,6,2,1,0,Completed,true,false,false
+UA002134,26 May 19,13,Murrumbeena,BLTC 2,No. 1,Tessa Dabas,Ryan Taylor,Tessa Dabas,6-0,6,0,1,0,Completed,true,false,false
+UA002134,26 May 19,13,Murrumbeena,BLTC 2,No. 2,Patrick Monteiro,Felix Lichte,Patrick Monteiro,6-3,6,3,1,0,Completed,true,false,false
+UA002134,26 May 19,13,Murrumbeena,BLTC 2,No. 3,Geordan Apostolou,Daniel Yoo,Daniel Yoo,2-6,2,6,0,1,Completed,true,false,false
+UA002134,26 May 19,13,Murrumbeena,BLTC 2,No. 4,Ben Rapaport,Claudia Chmara,Ben Rapaport,6-1,6,1,1,0,Completed,true,false,false
+UA002141,02 Jun 19,14,Royal South Yarra 2,BLTC 1,No. 1,Sinclair Mosley,Jamie Ray,Jamie Ray,0-6,0,6,0,1,Completed,true,false,false
+UA002141,02 Jun 19,14,Royal South Yarra 2,BLTC 1,No. 2,Chelsea Stergiopoulos,Seb Zahra,Chelsea Stergiopoulos,6-0,6,0,1,0,Completed,true,false,false
+UA002141,02 Jun 19,14,Royal South Yarra 2,BLTC 1,No. 3,James Ollerenshaw,Ben Gerresheim,Ben Gerresheim,4-6,4,6,0,1,Completed,true,false,false
+UA002141,02 Jun 19,14,Royal South Yarra 2,BLTC 1,No. 4,Jack Cannon,James Pilcher,Jack Cannon,7-6,7,6,1,0,Completed,true,false,false
+UA002142,02 Jun 19,14,Aspendale,Royal South Yarra 1,No. 1,Caleb Curtis,Eagan Lai,Eagan Lai,6-7,6,7,0,1,Completed,true,false,false
+UA002142,02 Jun 19,14,Aspendale,Royal South Yarra 1,No. 2,Mitchell Bean,Harvey Clements,Mitchell Bean,6-0,6,0,1,0,Completed,true,false,false
+UA002142,02 Jun 19,14,Aspendale,Royal South Yarra 1,No. 3,Max Kendall,Lachlan Mailer,Max Kendall,6-0,6,0,1,0,Completed,true,false,false
+UA002142,02 Jun 19,14,Aspendale,Royal South Yarra 1,No. 4,Riley Snell,Darcy Albert,Riley Snell,6-2,6,2,1,0,Completed,true,false,false
+UA002143,02 Jun 19,14,Dendy Park,Murrumbeena,No. 1,Andreas Tanti,Patrick Monteiro,Patrick Monteiro,3-6,3,6,0,1,Completed,true,false,false
+UA002143,02 Jun 19,14,Dendy Park,Murrumbeena,No. 2,Ethan Steyn,William Blair,Ethan Steyn,6-2,6,2,1,0,Completed,true,false,false
+UA002143,02 Jun 19,14,Dendy Park,Murrumbeena,No. 3,Cameron Acheson,Geordan Apostolou,Geordan Apostolou,0-6,0,6,0,1,Completed,true,false,false
+UA002143,02 Jun 19,14,Dendy Park,Murrumbeena,No. 4,Ashley Small,Jonathon Henquin,Ashley Small,6-3,6,3,1,0,Completed,true,false,false
+UA002144,02 Jun 19,14,BLTC 2,Coatesville,No. 1,Norway Gordon,Luigi Cortez,Luigi Cortez,3-6,3,6,0,1,Completed,true,false,false
+UA002144,02 Jun 19,14,BLTC 2,Coatesville,No. 2,Ryan Taylor,Brock Augustynski,Ryan Taylor,6-2,6,2,1,0,Completed,true,false,false
+UA002144,02 Jun 19,14,BLTC 2,Coatesville,No. 3,Felix Lichte,Archer Mohl,Archer Mohl,6-7,6,7,0,1,Completed,true,false,false
+UA002144,02 Jun 19,14,BLTC 2,Coatesville,No. 4,Daniel Yoo,Jacob Mundy,Daniel Yoo,6-4,6,4,1,0,Completed,true,false,false
+UA002301,,16,Aspendale,Royal South Yarra 1,No. 1,Caleb Curtis,William Beaton,William Beaton,0-6,0,6,0,1,Completed,true,false,false
+UA002301,,16,Aspendale,Royal South Yarra 1,No. 2,Mitchell Bean,Eagan Lai,Mitchell Bean,6-2,6,2,1,0,Completed,true,false,false
+UA002301,,16,Aspendale,Royal South Yarra 1,No. 3,Jarrod Scott,Lachlan Mailer,Jarrod Scott,6-1,6,1,1,0,Completed,true,false,false
+UA002301,,16,Aspendale,Royal South Yarra 1,No. 4,Bailey Judd,Darcy Albert,Bailey Judd,6-3,6,3,1,0,Completed,true,false,false
+UA002302,,16,Murrumbeena,BLTC 1,No. 1,Tessa Dabas,Tom Shepherd,Tessa Dabas,6-2,6,2,1,0,Completed,true,false,false
+UA002302,,16,Murrumbeena,BLTC 1,No. 2,Patrick Monteiro,Jamie Ray,Jamie Ray,3-6,3,6,0,1,Completed,true,false,false
+UA002302,,16,Murrumbeena,BLTC 1,No. 3,William Blair,Seb Zahra,William Blair,6-2,6,2,1,0,Completed,true,false,false
+UA002302,,16,Murrumbeena,BLTC 1,No. 4,Geordan Apostolou,Hugh Moir,Hugh Moir,1-6,1,6,0,1,Completed,true,false,false
+UA002321,,17,Aspendale,BLTC 1,No. 1,Caleb Curtis,Tom Shepherd,Tom Shepherd,2-6,2,6,0,1,Completed,true,false,false
+UA002321,,17,Aspendale,BLTC 1,No. 2,Mitchell Bean,Jamie Ray,Jamie Ray,5-7,5,7,0,1,Completed,true,false,false
+UA002321,,17,Aspendale,BLTC 1,No. 3,Jarrod Scott,Seb Zahra,Jarrod Scott,6-1,6,1,1,0,Completed,true,false,false
+UA002321,,17,Aspendale,BLTC 1,No. 4,Max Kendall,Hugh Moir,Max Kendall,6-2,6,2,1,0,Completed,true,false,false

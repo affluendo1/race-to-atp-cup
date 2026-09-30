@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+AA010011,31 Jan 26,1,regular,Round 1,Clarinda,Mentone,1,9,1,5,,,25,34,Completed,
+AA010012,31 Jan 26,1,regular,Round 1,Beaumaris CC,St Joan of Arc,10,0,6,0,,,36,4,Completed,
+AA010013,31 Jan 26,1,regular,Round 1,St Louis de Mont,St James,5,5,3,3,,,30,30,Completed,
+pending-aa010-r1-bye-kooyong,31 Jan 26,1,regular,Round 1,Bye,Kooyong,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA010021,07 Feb 26,2,regular,Round 2,Kooyong,Clarinda,2,8,2,4,,,20,25,Completed,
+AA010022,07 Feb 26,2,regular,Round 2,Mentone,Beaumaris CC,1,9,1,5,,,15,32,Completed,
+AA010023,07 Feb 26,2,regular,Round 2,St Joan of Arc,St Louis de Mont,8,2,4,2,,,28,18,Completed,
+pending-aa010-r2-st-james-bye,07 Feb 26,2,regular,Round 2,St James,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA010031,14 Feb 26,3,regular,Round 3,Clarinda,St James,1,9,1,5,,,21,32,Completed,
+AA010032,14 Feb 26,3,regular,Round 3,Beaumaris CC,Kooyong,7,3,3,3,,,25,23,Completed,
+AA010033,14 Feb 26,3,regular,Round 3,St Louis de Mont,Mentone,9,1,5,1,,,31,11,Completed,
+pending-aa010-r3-bye-st-joan-of-arc,14 Feb 26,3,regular,Round 3,Bye,St Joan of Arc,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA010041,21 Feb 26,4,regular,Round 4,St Joan of Arc,Clarinda,3,7,3,3,,,33,34,Completed,
+AA010042,21 Feb 26,4,regular,Round 4,St James,Beaumaris CC,1,9,1,5,,,22,35,Completed,
+AA010043,21 Feb 26,4,regular,Round 4,Kooyong,St Louis de Mont,0,10,0,6,,,3,36,Completed,
+pending-aa010-r4-mentone-bye,21 Feb 26,4,regular,Round 4,Mentone,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA010052,28 Feb 26,5,regular,Round 5,Kooyong,St James,8,2,4,2,,,31,22,Completed,
+AA010053,28 Feb 26,5,regular,Round 5,St Joan of Arc,Mentone,8,2,4,2,,,29,20,Completed,
+AA010054,28 Feb 26,5,regular,Round 5,Clarinda,Beaumaris CC,1,9,1,5,,,14,36,Completed,
+pending-aa010-r5-st-louis-de-mont-bye,28 Feb 26,5,regular,Round 5,St Louis de Mont,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA010061,14 Mar 26,6,regular,Round 6,Beaumaris CC,St Louis de Mont,9,1,5,1,,,34,14,Completed,
+AA010063,14 Mar 26,6,regular,Round 6,St James,St Joan of Arc,8,2,4,2,,,31,26,Completed,
+AA010064,14 Mar 26,6,regular,Round 6,Mentone,Kooyong,8,2,4,2,,,35,25,Completed,
+pending-aa010-r6-bye-clarinda,14 Mar 26,6,regular,Round 6,Bye,Clarinda,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA010071,21 Mar 26,7,regular,Round 7,Clarinda,St Louis de Mont,2,8,2,4,,,19,31,Completed,
+AA010073,21 Mar 26,7,regular,Round 7,Kooyong,St Joan of Arc,8,2,4,2,,,27,28,Completed,
+AA010074,21 Mar 26,7,regular,Round 7,St James,Mentone,7,3,3,3,,,31,28,Completed,
+pending-aa010-r7-beaumaris-cc-bye,21 Mar 26,7,regular,Round 7,Beaumaris CC,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA010081,28 Mar 26,8,regular,Round 8,Mentone,Clarinda,5.5,4.5,1,0,,,14,8,Completed,
+pending-aa010-r8-kooyong-bye,28 Mar 26,8,regular,Round 8,Kooyong,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-aa010-r8-st-james-st-louis-de-mont,28 Mar 26,8,regular,Round 8,St James,St Louis de Mont,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-aa010-r8-st-joan-of-arc-beaumaris-cc,28 Mar 26,8,regular,Round 8,St Joan of Arc,Beaumaris CC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+AA010091,02 May 26,9,regular,Round 9,Clarinda,Kooyong,9,1,5,1,,,36,20,Completed,
+AA010092,02 May 26,9,regular,Round 9,Beaumaris CC,Mentone,9,1,5,1,,,32,17,Completed,
+AA010093,02 May 26,9,regular,Round 9,St Louis de Mont,St Joan of Arc,0,10,0,6,,,12,36,Completed,
+pending-aa010-r9-bye-st-james,02 May 26,9,regular,Round 9,Bye,St James,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA010101,09 May 26,10,regular,Round 10,St James,Clarinda,9,1,5,1,,,35,20,Completed,
+pending-aa010-r10-kooyong-beaumaris-cc,09 May 26,10,regular,Round 10,Kooyong,Beaumaris CC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-aa010-r10-mentone-st-louis-de-mont,09 May 26,10,regular,Round 10,Mentone,St Louis de Mont,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-aa010-r10-st-joan-of-arc-bye,09 May 26,10,regular,Round 10,St Joan of Arc,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA010111,16 May 26,11,regular,Round 11,Clarinda,St Joan of Arc,3,7,3,3,,,23,25,Completed,
+AA010112,16 May 26,11,regular,Round 11,Beaumaris CC,St James,9,1,5,1,,,31,18,Completed,
+AA010113,16 May 26,11,regular,Round 11,St Louis de Mont,Kooyong,10,0,6,0,,,36,5,Completed,
+pending-aa010-r11-bye-mentone,16 May 26,11,regular,Round 11,Bye,Mentone,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA010122,23 May 26,12,regular,Round 12,St James,Kooyong,8,2,4,2,,,28,25,Completed,
+AA010123,23 May 26,12,regular,Round 12,Mentone,St Joan of Arc,2,8,2,4,,,20,27,Completed,
+AA010124,23 May 26,12,regular,Round 12,Beaumaris CC,Clarinda,8,2,4,2,,,33,24,Completed,
+pending-aa010-r12-bye-st-louis-de-mont,23 May 26,12,regular,Round 12,Bye,St Louis de Mont,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA010131,30 May 26,13,regular,Round 13,St Louis de Mont,Beaumaris CC,1,9,1,5,,,12,32,Completed,
+AA010133,30 May 26,13,regular,Round 13,St Joan of Arc,St James,8,2,4,2,,,31,24,Completed,
+AA010134,30 May 26,13,regular,Round 13,Kooyong,Mentone,2,8,2,4,,,17,32,Completed,
+pending-aa010-r13-clarinda-bye,30 May 26,13,regular,Round 13,Clarinda,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA010301,,16,semi_final,Semi-final,Beaumaris CC,St Louis de Mont,10,0,6,0,,,36,5,Completed,
+AA010302,,16,semi_final,Semi-final,St Joan of Arc,St James,2,8,2,4,,,23,31,Completed,
+AA010321,,17,grand_final,Grand final · TROLS entry 2,Beaumaris CC,St James,8,2,4,2,,,30,18,Completed,

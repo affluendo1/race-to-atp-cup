@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA31-UA008",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2022",
+  "season_id": "UA31",
+  "season_label": "Spring 2022",
+  "source_section_code": "UA008",
+  "section_label": "Section 8",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Le Page",
+      "wins": 8,
+      "points": 77,
+      "percentage": 113.16,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Kings Park",
+      "wins": 8,
+      "points": 72,
+      "percentage": 111.78,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 7,
+      "points": 70,
+      "percentage": 113.91,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Hurlingham Park 2",
+      "wins": 7,
+      "points": 65,
+      "percentage": 101.27,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Hurlingham Park 1",
+      "wins": 6,
+      "points": 60,
+      "percentage": 105.05,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave",
+      "wins": 3,
+      "points": 41,
+      "percentage": 79.95,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Elsternwick Park Green",
+      "wins": 2,
+      "points": 35,
+      "percentage": 81.45,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA31-UA008",
+  "fixtures": 59,
+  "completed_fixtures": 45,
+  "draw_fixtures": 59,
+  "singles_rubbers": 180,
+  "doubles_rubbers": 90,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

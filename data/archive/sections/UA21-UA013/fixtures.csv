@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA013012,23 Jul 17,1,regular,Round 1,BLTC,Tennis World,2,8,2,4,,,24,31,Completed,
+UA013013,23 Jul 17,1,regular,Round 1,GPHC 1,GPHC 2,1,9,1,5,,,13,34,Completed,
+UA013014,23 Jul 17,1,regular,Round 1,Glen Eira,Black Rock RA,2,8,2,4,,,23,27,Completed,
+pending-ua013-r1-dendy-park-bye,23 Jul 17,1,regular,Round 1,Dendy Park,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA013021,30 Jul 17,2,regular,Round 2,Black Rock RA,Dendy Park,2,8,2,4,,,19,33,Completed,
+UA013023,30 Jul 17,2,regular,Round 2,Tennis World,GPHC 1,8,2,4,2,,,31,19,Completed,
+UA013024,30 Jul 17,2,regular,Round 2,GPHC 2,Glen Eira,10,0,6,0,,,38,18,Completed,
+pending-ua013-r2-bye-bltc,30 Jul 17,2,regular,Round 2,Bye,BLTC,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA013031,06 Aug 17,3,regular,Round 3,Dendy Park,GPHC 2,3,7,3,3,,,20,27,Completed,
+UA013032,06 Aug 17,3,regular,Round 3,BLTC,Black Rock RA,8,2,4,2,,,29,26,Completed,
+UA013034,06 Aug 17,3,regular,Round 3,Glen Eira,Tennis World,2,8,2,4,,,23,30,Completed,
+pending-ua013-r3-gphc-1-bye,06 Aug 17,3,regular,Round 3,GPHC 1,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA013043,13 Aug 17,4,regular,Round 4,Black Rock RA,GPHC 1,1,9,1,5,,,22,32,Completed,
+pending-ua013-r4-bye-glen-eira,13 Aug 17,4,regular,Round 4,Bye,Glen Eira,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua013-r4-gphc-2-bltc,13 Aug 17,4,regular,Round 4,GPHC 2,BLTC,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+pending-ua013-r4-tennis-world-dendy-park,13 Aug 17,4,regular,Round 4,Tennis World,Dendy Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA013051,20 Aug 17,5,regular,Round 5,GPHC 1,Glen Eira,10,0,6,0,,,36,17,Completed,
+UA013052,20 Aug 17,5,regular,Round 5,Black Rock RA,GPHC 2,0,10,0,6,,,18,36,Completed,
+UA013054,20 Aug 17,5,regular,Round 5,Dendy Park,BLTC,8,2,4,2,,,29,18,Completed,
+pending-ua013-r5-tennis-world-bye,20 Aug 17,5,regular,Round 5,Tennis World,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA013061,27 Aug 17,6,regular,Round 6,BLTC,GPHC 1,2,8,2,4,,,28,29,Completed,
+UA013062,27 Aug 17,6,regular,Round 6,Glen Eira,Dendy Park,2,8,2,4,,,21,30,Completed,
+pending-ua013-r6-bye-black-rock-ra,27 Aug 17,6,regular,Round 6,Bye,Black Rock RA,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua013-r6-gphc-2-tennis-world,27 Aug 17,6,regular,Round 6,GPHC 2,Tennis World,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA013071,03 Sep 17,7,regular,Round 7,Dendy Park,GPHC 1,8,2,4,2,,,31,20,Completed,
+UA013072,03 Sep 17,7,regular,Round 7,BLTC,Glen Eira,7,3,3,3,,,30,26,Completed,
+UA013073,03 Sep 17,7,regular,Round 7,Black Rock RA,Tennis World,0,10,0,6,,,13,36,Completed,
+pending-ua013-r7-gphc-2-bye,03 Sep 17,7,regular,Round 7,GPHC 2,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA013082,10 Sep 17,8,regular,Round 8,Tennis World,BLTC,7,3,3,3,,,29,26,Completed,
+UA013083,10 Sep 17,8,regular,Round 8,GPHC 2,GPHC 1,9,1,5,1,,,33,24,Completed,
+UA013084,10 Sep 17,8,regular,Round 8,Black Rock RA,Glen Eira,2,8,2,4,,,23,32,Completed,
+pending-ua013-r8-bye-dendy-park,10 Sep 17,8,regular,Round 8,Bye,Dendy Park,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA013091,17 Sep 17,9,regular,Round 9,Dendy Park,Black Rock RA,9,1,5,1,,,35,21,Completed,
+UA013093,17 Sep 17,9,regular,Round 9,GPHC 1,Tennis World,1,9,1,5,,,23,34,Completed,
+UA013094,17 Sep 17,9,regular,Round 9,Glen Eira,GPHC 2,3,7,3,3,,,27,32,Completed,
+pending-ua013-r9-bltc-bye,17 Sep 17,9,regular,Round 9,BLTC,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA013101,15 Oct 17,10,regular,Round 10,GPHC 2,Dendy Park,9,1,5,1,,,38,22,Completed,
+UA013102,15 Oct 17,10,regular,Round 10,Black Rock RA,BLTC,2,8,2,4,,,29,29,Completed,
+UA013104,15 Oct 17,10,regular,Round 10,Tennis World,Glen Eira,2,8,2,4,,,26,26,Completed,
+pending-ua013-r10-bye-gphc-1,15 Oct 17,10,regular,Round 10,Bye,GPHC 1,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA013111,22 Oct 17,11,regular,Round 11,Dendy Park,Tennis World,9,1,5,1,,,31,17,Completed,
+UA013112,22 Oct 17,11,regular,Round 11,BLTC,GPHC 2,1,9,1,5,,,18,37,Completed,
+pending-ua013-r11-glen-eira-bye,22 Oct 17,11,regular,Round 11,Glen Eira,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua013-r11-gphc-1-black-rock-ra,22 Oct 17,11,regular,Round 11,GPHC 1,Black Rock RA,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA013121,29 Oct 17,12,regular,Round 12,Glen Eira,GPHC 1,2,8,2,4,,,27,30,Completed,
+UA013122,29 Oct 17,12,regular,Round 12,GPHC 2,Black Rock RA,9,1,5,1,,,36,17,Completed,
+UA013124,29 Oct 17,12,regular,Round 12,BLTC,Dendy Park,0,10,0,6,,,20,37,Completed,
+pending-ua013-r12-bye-tennis-world,29 Oct 17,12,regular,Round 12,Bye,Tennis World,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA013131,12 Nov 17,13,regular,Round 13,GPHC 1,BLTC,10,0,6,0,,,36,15,Completed,
+UA013132,12 Nov 17,13,regular,Round 13,Dendy Park,Glen Eira,10,0,6,0,,,36,8,Completed,
+UA013133,12 Nov 17,13,regular,Round 13,Tennis World,GPHC 2,3,7,3,3,,,22,28,Completed,
+pending-ua013-r13-black-rock-ra-bye,12 Nov 17,13,regular,Round 13,Black Rock RA,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA013141,19 Nov 17,14,regular,Round 14,GPHC 1,Dendy Park,7,3,3,3,,,28,24,Completed,
+UA013142,19 Nov 17,14,regular,Round 14,Glen Eira,BLTC,2,8,2,4,,,21,32,Completed,
+UA013143,19 Nov 17,14,regular,Round 14,Tennis World,Black Rock RA,9,1,5,1,,,33,20,Completed,
+pending-ua013-r14-bye-gphc-2,19 Nov 17,14,regular,Round 14,Bye,GPHC 2,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA013301,,16,semi_final,Semi-final,GPHC 2,GPHC 1,7,3,3,3,,,30,25,Completed,
+UA013302,,16,semi_final,Semi-final,Dendy Park,Tennis World,2,8,2,4,,,29,31,Completed,
+UA013321,,17,grand_final,Grand final · TROLS entry 2,GPHC 2,Tennis World,10,0,6,0,,,36,9,Completed,

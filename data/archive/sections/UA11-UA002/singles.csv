@@ -1,0 +1,221 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA002011,22 Jul 12,1,Black Rock,Coatesville,No. 1,Mitchell Bussey,Cameron James,Cameron James,4-6,4,6,0,1,Completed,true,false,false
+UA002011,22 Jul 12,1,Black Rock,Coatesville,No. 2,Finn Rooney,Callan Brown,Callan Brown,2-6,2,6,0,1,Completed,true,false,false
+UA002011,22 Jul 12,1,Black Rock,Coatesville,No. 3,Jaeger Konidaris,Conner Wilson,Conner Wilson,3-6,3,6,0,1,Completed,true,false,false
+UA002011,22 Jul 12,1,Black Rock,Coatesville,No. 4,Sabre Konidaris,Andrew Chen,Andrew Chen,3-6,3,6,0,1,Completed,true,false,false
+UA002012,22 Jul 12,1,Kooyong,Maccabi,No. 1,Michael McKay,David Sacho,Michael McKay,6-2,6,2,1,0,Completed,true,false,false
+UA002012,22 Jul 12,1,Kooyong,Maccabi,No. 2,Sam Francis,Damon Flicker,Damon Flicker,3-6,3,6,0,1,Completed,true,false,false
+UA002012,22 Jul 12,1,Kooyong,Maccabi,No. 3,Jordan Ragona-Nevrous,Aurthur Kaganovitch,Aurthur Kaganovitch,3-6,3,6,0,1,Completed,true,false,false
+UA002012,22 Jul 12,1,Kooyong,Maccabi,No. 4,Ashley Spinks,Gidon Sacho,Ashley Spinks,6-1,6,1,1,0,Completed,true,false,false
+UA002013,22 Jul 12,1,Kooyong Scotch,BLTC,No. 1,Tom Meysztowicz,Angus Todd,Tom Meysztowicz,6-0,6,0,1,0,Completed,true,false,false
+UA002013,22 Jul 12,1,Kooyong Scotch,BLTC,No. 2,James Goller,Trent Martin,Trent Martin,3-6,3,6,0,1,Completed,true,false,false
+UA002013,22 Jul 12,1,Kooyong Scotch,BLTC,No. 3,Nick Pullen,Jessica Elliot,Nick Pullen,6-3,6,3,1,0,Completed,true,false,false
+UA002013,22 Jul 12,1,Kooyong Scotch,BLTC,No. 4,Chris Warwick,Josh Sinclair,Chris Warwick,6-2,6,2,1,0,Completed,true,false,false
+UA002023,29 Jul 12,2,Maccabi,Kooyong Scotch,No. 1,Jonathan Simon,Nick Pullen,Nick Pullen,4-6,4,6,0,1,Completed,true,false,false
+UA002023,29 Jul 12,2,Maccabi,Kooyong Scotch,No. 2,Jamie Muscatel,Chris Warwick,Jamie Muscatel,6-0,6,0,1,0,Completed,true,false,false
+UA002023,29 Jul 12,2,Maccabi,Kooyong Scotch,No. 3,Damon Flicker,John Amato,John Amato,6-7,6,7,0,1,Completed,true,false,false
+UA002023,29 Jul 12,2,Maccabi,Kooyong Scotch,No. 4,Aurthur Kaganovitch,Max Flaherty,Aurthur Kaganovitch,6-2,6,2,1,0,Completed,true,false,false
+UA002031,05 Aug 12,3,Black Rock,BLTC,No. 1,Mitchell Bussey,Jack McCartney,Mitchell Bussey,6-0,6,0,1,0,Completed,true,false,false
+UA002031,05 Aug 12,3,Black Rock,BLTC,No. 2,Finn Rooney,Angus Todd,Finn Rooney,7-5,7,5,1,0,Completed,true,false,false
+UA002031,05 Aug 12,3,Black Rock,BLTC,No. 3,Jaeger Konidaris,Jessica Elliot,Jaeger Konidaris,6-4,6,4,1,0,Completed,true,false,false
+UA002031,05 Aug 12,3,Black Rock,BLTC,No. 4,Sabre Konidaris,Josh Sinclair,Sabre Konidaris,6-2,6,2,1,0,Completed,true,false,false
+UA002032,05 Aug 12,3,Kooyong,Kings Park,No. 1,Sam Francis,Nathan Blamires,Sam Francis,6-1,6,1,1,0,Completed,true,false,false
+UA002032,05 Aug 12,3,Kooyong,Kings Park,No. 2,Charlie Kelly,Adrian Hodgson,Charlie Kelly,6-2,6,2,1,0,Completed,true,false,false
+UA002032,05 Aug 12,3,Kooyong,Kings Park,No. 3,Jordan Ragona-Nevrous,Dylan Smith,Dylan Smith,2-6,2,6,0,1,Completed,true,false,false
+UA002032,05 Aug 12,3,Kooyong,Kings Park,No. 4,Ifeoma Donnellan,Thomas Diggerson,Ifeoma Donnellan,6-1,6,1,1,0,Completed,true,false,false
+UA002033,05 Aug 12,3,Kooyong Scotch,Coatesville,No. 1,Tom Meysztowicz,Cameron James,Cameron James,2-6,2,6,0,1,Completed,true,false,false
+UA002033,05 Aug 12,3,Kooyong Scotch,Coatesville,No. 2,James Goller,Conner Wilson,Conner Wilson,1-6,1,6,0,1,Completed,true,false,false
+UA002033,05 Aug 12,3,Kooyong Scotch,Coatesville,No. 3,Thomas McKay,Justin Carew,Thomas McKay,6-1,6,1,1,0,Completed,true,false,false
+UA002033,05 Aug 12,3,Kooyong Scotch,Coatesville,No. 4,Henry Marcel,Andrew Chen,Andrew Chen,4-6,4,6,0,1,Completed,true,false,false
+UA002034,05 Aug 12,3,GPHC,Maccabi,No. 1,Ellie Capannolo,David Sacho,Ellie Capannolo,6-2,6,2,1,0,Completed,true,false,false
+UA002034,05 Aug 12,3,GPHC,Maccabi,No. 2,Han Goh,Daniel Lotzoff,Han Goh,6-2,6,2,1,0,Completed,true,false,false
+UA002034,05 Aug 12,3,GPHC,Maccabi,No. 3,Maddie Starks,Aurthur Kaganovitch,Aurthur Kaganovitch,1-6,1,6,0,1,Completed,true,false,false
+UA002034,05 Aug 12,3,GPHC,Maccabi,No. 4,Sasha Kenna,Gidon Sacho,Gidon Sacho,5-7,5,7,0,1,Completed,true,false,false
+UA002041,12 Aug 12,4,Maccabi,Black Rock,No. 1,Adam Rushford,Mitchell Bussey,Mitchell Bussey,4-6,4,6,0,1,Completed,true,false,false
+UA002041,12 Aug 12,4,Maccabi,Black Rock,No. 2,Damon Flicker,Finn Rooney,Finn Rooney,0-6,0,6,0,1,Completed,true,false,false
+UA002041,12 Aug 12,4,Maccabi,Black Rock,No. 3,Daniel Lotzoff,Jaeger Konidaris,Jaeger Konidaris,1-6,1,6,0,1,Completed,true,false,false
+UA002041,12 Aug 12,4,Maccabi,Black Rock,No. 4,Aurthur Kaganovitch,Sabre Konidaris,Aurthur Kaganovitch,6-2,6,2,1,0,Completed,true,false,false
+UA002042,12 Aug 12,4,BLTC,Kooyong,No. 1,Jack McCartney,Michael McKay,Michael McKay,2-6,2,6,0,1,Completed,true,false,false
+UA002042,12 Aug 12,4,BLTC,Kooyong,No. 2,Trent Martin,Sam Francis,Trent Martin,6-3,6,3,1,0,Completed,true,false,false
+UA002042,12 Aug 12,4,BLTC,Kooyong,No. 3,Jessica Elliot,Ashley Spinks,Jessica Elliot,6-4,6,4,1,0,Completed,true,false,false
+UA002042,12 Aug 12,4,BLTC,Kooyong,No. 4,Josh Sinclair,Dina Gregg,Dina Gregg,0-6,0,6,0,1,Completed,true,false,false
+UA002043,12 Aug 12,4,Kings Park,Kooyong Scotch,No. 1,James Loynd,Tom Meysztowicz,Tom Meysztowicz,6-7,6,7,0,1,Completed,true,false,false
+UA002043,12 Aug 12,4,Kings Park,Kooyong Scotch,No. 2,Nathan Blamires,Sam Barnett,Nathan Blamires,7-5,7,5,1,0,Completed,true,false,false
+UA002043,12 Aug 12,4,Kings Park,Kooyong Scotch,No. 3,Thomas Diggerson,Chris Warwick,Chris Warwick,1-6,1,6,0,1,Completed,true,false,false
+UA002043,12 Aug 12,4,Kings Park,Kooyong Scotch,No. 4,Timothy Van Der Veur,Max Flaherty,Max Flaherty,2-6,2,6,0,1,Completed,true,false,false
+UA002044,12 Aug 12,4,Coatesville,GPHC,No. 1,Cameron James,Ellie Capannolo,Cameron James,6-4,6,4,1,0,Completed,true,false,false
+UA002044,12 Aug 12,4,Coatesville,GPHC,No. 2,Conner Wilson,Broderick Overton,Conner Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA002044,12 Aug 12,4,Coatesville,GPHC,No. 3,Justin Carew,Maddie Starks,Maddie Starks,3-6,3,6,0,1,Completed,true,false,false
+UA002044,12 Aug 12,4,Coatesville,GPHC,No. 4,Callan Brown,Sasha Kenna,Callan Brown,6-1,6,1,1,0,Completed,true,false,false
+UA002051,19 Aug 12,5,Kooyong Scotch,GPHC,No. 1,Sam Barnett,Han Goh,Sam Barnett,6-4,6,4,1,0,Completed,true,false,false
+UA002051,19 Aug 12,5,Kooyong Scotch,GPHC,No. 2,Chris Warwick,Broderick Overton,Broderick Overton,1-6,1,6,0,1,Completed,true,false,false
+UA002051,19 Aug 12,5,Kooyong Scotch,GPHC,No. 3,Max Flaherty,Sasha Kenna,Max Flaherty,6-1,6,1,1,0,Completed,true,false,false
+UA002051,19 Aug 12,5,Kooyong Scotch,GPHC,No. 4,Corey Pabst,Lucy Loane,Corey Pabst,6-0,6,0,1,0,Completed,true,false,false
+UA002052,19 Aug 12,5,Kings Park,BLTC,No. 1,James Loynd,Jack McCartney,James Loynd,6-4,6,4,1,0,Completed,true,false,false
+UA002052,19 Aug 12,5,Kings Park,BLTC,No. 2,Adrian Hodgson,Trent Martin,Trent Martin,3-6,3,6,0,1,Completed,true,false,false
+UA002052,19 Aug 12,5,Kings Park,BLTC,No. 3,Dylan Smith,Angus Todd,Angus Todd,0-6,0,6,0,1,Completed,true,false,false
+UA002052,19 Aug 12,5,Kings Park,BLTC,No. 4,Timothy Van Der Veur,Jessica Elliot,Timothy Van Der Veur,6-3,6,3,1,0,Completed,true,false,false
+UA002053,19 Aug 12,5,Maccabi,Coatesville,No. 1,David Sacho,Cameron James,Cameron James,3-6,3,6,0,1,Completed,true,false,false
+UA002053,19 Aug 12,5,Maccabi,Coatesville,No. 2,Damon Flicker,Justin Carew,Damon Flicker,6-4,6,4,1,0,Completed,true,false,false
+UA002053,19 Aug 12,5,Maccabi,Coatesville,No. 3,Aurthur Kaganovitch,Callan Brown,Callan Brown,6-7,6,7,0,1,Completed,true,false,false
+UA002053,19 Aug 12,5,Maccabi,Coatesville,No. 4,Gidon Sacho,Andrew Chen,Andrew Chen,4-6,4,6,0,1,Completed,true,false,false
+UA002054,19 Aug 12,5,Black Rock,Kooyong,No. 1,Mitchell Bussey,Michael McKay,Michael McKay,2-6,2,6,0,1,Completed,true,false,false
+UA002054,19 Aug 12,5,Black Rock,Kooyong,No. 2,Finn Rooney,Sam Francis,Finn Rooney,6-1,6,1,1,0,Completed,true,false,false
+UA002054,19 Aug 12,5,Black Rock,Kooyong,No. 3,Felix Onea,Charlie Kelly,Charlie Kelly,1-6,1,6,0,1,Completed,true,false,false
+UA002054,19 Aug 12,5,Black Rock,Kooyong,No. 4,Brady Watts,Jordan Ragona-Nevrous,Brady Watts,6-1,6,1,1,0,Completed,true,false,false
+UA002061,26 Aug 12,6,Kooyong,Kooyong Scotch,No. 1,Michael McKay,Tom Meysztowicz,Michael McKay,6-0,6,0,1,0,Completed,true,false,false
+UA002061,26 Aug 12,6,Kooyong,Kooyong Scotch,No. 2,Sam Francis,Nick Pullen,Nick Pullen,5-7,5,7,0,1,Completed,true,false,false
+UA002061,26 Aug 12,6,Kooyong,Kooyong Scotch,No. 3,Charlie Kelly,Chris Warwick,Charlie Kelly,6-2,6,2,1,0,Completed,true,false,false
+UA002061,26 Aug 12,6,Kooyong,Kooyong Scotch,No. 4,Dina Gregg,Sarah Cameron,Sarah Cameron,1-6,1,6,0,1,Completed,true,false,false
+UA002062,26 Aug 12,6,GPHC,Black Rock,No. 1,Ellie Capannolo,Mitchell Bussey,Mitchell Bussey,3-6,3,6,0,1,Completed,true,false,false
+UA002062,26 Aug 12,6,GPHC,Black Rock,No. 2,Han Goh,Finn Rooney,Finn Rooney,2-6,2,6,0,1,Completed,true,false,false
+UA002062,26 Aug 12,6,GPHC,Black Rock,No. 3,Broderick Overton,Jaeger Konidaris,Broderick Overton,6-4,6,4,1,0,Completed,true,false,false
+UA002062,26 Aug 12,6,GPHC,Black Rock,No. 4,Lucy Loane,Sabre Konidaris,Sabre Konidaris,0-6,0,6,0,1,Completed,true,false,false
+UA002063,26 Aug 12,6,BLTC,Maccabi,No. 1,Jack McCartney,Aurthur Kaganovitch,Jack McCartney,6-0,6,0,1,0,Completed,true,false,false
+UA002063,26 Aug 12,6,BLTC,Maccabi,No. 2,Trent Martin,David Sacho,David Sacho,0-6,0,6,0,1,Completed,true,false,false
+UA002063,26 Aug 12,6,BLTC,Maccabi,No. 3,Angus Todd,Damon Flicker,Angus Todd,7-5,7,5,1,0,Completed,true,false,false
+UA002063,26 Aug 12,6,BLTC,Maccabi,No. 4,Josh Sinclair,Daniel Lotzoff,Daniel Lotzoff,3-6,3,6,0,1,Completed,true,false,false
+UA002064,26 Aug 12,6,Coatesville,Kings Park,No. 1,Cameron James,James Loynd,James Loynd,3-6,3,6,0,1,Completed,true,false,false
+UA002064,26 Aug 12,6,Coatesville,Kings Park,No. 2,Conner Wilson,Nathan Blamires,Conner Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA002064,26 Aug 12,6,Coatesville,Kings Park,No. 3,Callan Brown,Dylan Smith,Callan Brown,6-1,6,1,1,0,Completed,true,false,false
+UA002064,26 Aug 12,6,Coatesville,Kings Park,No. 4,Hugh Callaghan,Thomas Diggerson,Hugh Callaghan,7-6,7,6,1,0,Completed,true,false,false
+UA002071,02 Sep 12,7,Black Rock,Kooyong Scotch,No. 1,Mitchell Bussey,Ben Flaherty,Ben Flaherty,3-6,3,6,0,1,Completed,true,false,false
+UA002071,02 Sep 12,7,Black Rock,Kooyong Scotch,No. 2,Finn Rooney,Nick Pullen,Finn Rooney,6-1,6,1,1,0,Completed,true,false,false
+UA002071,02 Sep 12,7,Black Rock,Kooyong Scotch,No. 3,Jaeger Konidaris,Sam Barnett,Jaeger Konidaris,6-2,6,2,1,0,Completed,true,false,false
+UA002071,02 Sep 12,7,Black Rock,Kooyong Scotch,No. 4,Sabre Konidaris,John Amato,Sabre Konidaris,6-4,6,4,1,0,Completed,true,false,false
+UA002072,02 Sep 12,7,Kooyong,GPHC,No. 1,Jordan Ragona-Nevrous,Ellie Capannolo,Jordan Ragona-Nevrous,6-3,6,3,1,0,Completed,true,false,false
+UA002072,02 Sep 12,7,Kooyong,GPHC,No. 2,Ifeoma Donnellan,Han Goh,Han Goh,3-6,3,6,0,1,Completed,true,false,false
+UA002072,02 Sep 12,7,Kooyong,GPHC,No. 3,Ashley Spinks,Broderick Overton,Broderick Overton,1-6,1,6,0,1,Completed,true,false,false
+UA002072,02 Sep 12,7,Kooyong,GPHC,No. 4,Dina Gregg,Sasha Kenna,Dina Gregg,6-0,6,0,1,0,Completed,true,false,false
+UA002073,02 Sep 12,7,Kings Park,Maccabi,No. 1,James Loynd,Jonathan Simon,James Loynd,6-2,6,2,1,0,Completed,true,false,false
+UA002073,02 Sep 12,7,Kings Park,Maccabi,No. 2,Nathan Blamires,Aurthur Kaganovitch,Aurthur Kaganovitch,3-6,3,6,0,1,Completed,true,false,false
+UA002073,02 Sep 12,7,Kings Park,Maccabi,No. 3,Thomas Diggerson,David Sacho,David Sacho,0-6,0,6,0,1,Completed,true,false,false
+UA002073,02 Sep 12,7,Kings Park,Maccabi,No. 4,Timothy Van Der Veur,Gidon Sacho,Gidon Sacho,4-6,4,6,0,1,Completed,true,false,false
+UA002074,02 Sep 12,7,BLTC,Coatesville,No. 1,Jack McCartney,Cameron James,Jack McCartney,6-2,6,2,1,0,Completed,true,false,false
+UA002074,02 Sep 12,7,BLTC,Coatesville,No. 2,Trent Martin,Conner Wilson,Conner Wilson,1-6,1,6,0,1,Completed,true,false,false
+UA002074,02 Sep 12,7,BLTC,Coatesville,No. 3,Angus Todd,Justin Carew,Angus Todd,6-0,6,0,1,0,Completed,true,false,false
+UA002074,02 Sep 12,7,BLTC,Coatesville,No. 4,Jessica Elliot,Andrew Chen,Andrew Chen,5-7,5,7,0,1,Completed,true,false,false
+UA002081,09 Sep 12,8,Coatesville,Black Rock,No. 1,Cameron James,Mitchell Bussey,Cameron James,7-5,7,5,1,0,Completed,true,false,false
+UA002081,09 Sep 12,8,Coatesville,Black Rock,No. 2,Conner Wilson,Finn Rooney,Finn Rooney,4-6,4,6,0,1,Completed,true,false,false
+UA002081,09 Sep 12,8,Coatesville,Black Rock,No. 3,Justin Carew,Jaeger Konidaris,Jaeger Konidaris,2-6,2,6,0,1,Completed,true,false,false
+UA002081,09 Sep 12,8,Coatesville,Black Rock,No. 4,Callan Brown,Sabre Konidaris,Callan Brown,6-4,6,4,1,0,Completed,true,false,false
+UA002082,09 Sep 12,8,Maccabi,Kooyong,No. 1,Aurthur Kaganovitch,Michael McKay,Michael McKay,4-6,4,6,0,1,Completed,true,false,false
+UA002082,09 Sep 12,8,Maccabi,Kooyong,No. 2,Damon Flicker,Sam Francis,Sam Francis,2-6,2,6,0,1,Completed,true,false,false
+UA002082,09 Sep 12,8,Maccabi,Kooyong,No. 3,Daniel Lotzoff,Charlie Kelly,Charlie Kelly,3-6,3,6,0,1,Completed,true,false,false
+UA002082,09 Sep 12,8,Maccabi,Kooyong,No. 4,Gidon Sacho,Ifeoma Donnellan,Ifeoma Donnellan,5-7,5,7,0,1,Completed,true,false,false
+UA002083,09 Sep 12,8,BLTC,Kooyong Scotch,No. 1,Jack McCartney,Tom Meysztowicz,Tom Meysztowicz,3-6,3,6,0,1,Completed,true,false,false
+UA002083,09 Sep 12,8,BLTC,Kooyong Scotch,No. 2,Trent Martin,Nick Pullen,Nick Pullen,0-6,0,6,0,1,Completed,true,false,false
+UA002083,09 Sep 12,8,BLTC,Kooyong Scotch,No. 3,Jessica Elliot,Sam Barnett,Jessica Elliot,6-2,6,2,1,0,Completed,true,false,false
+UA002083,09 Sep 12,8,BLTC,Kooyong Scotch,No. 4,Josh Sinclair,Chris Warwick,Chris Warwick,1-6,1,6,0,1,Completed,true,false,false
+UA002084,09 Sep 12,8,Kings Park,GPHC,No. 1,James Loynd,Han Goh,James Loynd,6-0,6,0,1,0,Completed,true,false,false
+UA002084,09 Sep 12,8,Kings Park,GPHC,No. 2,Adrian Hodgson,Broderick Overton,Broderick Overton,0-6,0,6,0,1,Completed,true,false,false
+UA002084,09 Sep 12,8,Kings Park,GPHC,No. 3,Dylan Smith,Lucy Loane,Dylan Smith,6-0,6,0,1,0,Completed,true,false,false
+UA002084,09 Sep 12,8,Kings Park,GPHC,No. 4,Timothy Van Der Veur,Sasha Kenna,Timothy Van Der Veur,6-1,6,1,1,0,Completed,true,false,false
+UA002091,16 Sep 12,9,Black Rock,Kings Park,No. 1,Mitchell Bussey,Nathan Blamires,Mitchell Bussey,6-1,6,1,1,0,Completed,true,false,false
+UA002091,16 Sep 12,9,Black Rock,Kings Park,No. 2,Finn Rooney,Adrian Hodgson,Finn Rooney,6-1,6,1,1,0,Completed,true,false,false
+UA002091,16 Sep 12,9,Black Rock,Kings Park,No. 3,Arthur Knight,Dylan Smith,Arthur Knight,6-2,6,2,1,0,Completed,true,false,false
+UA002091,16 Sep 12,9,Black Rock,Kings Park,No. 4,Blake Smith,Thomas Diggerson,Blake Smith,6-4,6,4,1,0,Completed,true,false,false
+UA002092,16 Sep 12,9,Kooyong,Coatesville,No. 1,Michael McKay,Conner Wilson,Michael McKay,6-4,6,4,1,0,Completed,true,false,false
+UA002092,16 Sep 12,9,Kooyong,Coatesville,No. 2,Jordan Ragona-Nevrous,Justin Carew,Justin Carew,0-6,0,6,0,1,Completed,true,false,false
+UA002092,16 Sep 12,9,Kooyong,Coatesville,No. 3,Ashley Spinks,Callan Brown,Callan Brown,4-6,4,6,0,1,Completed,true,false,false
+UA002092,16 Sep 12,9,Kooyong,Coatesville,No. 4,Dina Gregg,Andrew Chen,Andrew Chen,3-6,3,6,0,1,Completed,true,false,false
+UA002093,16 Sep 12,9,Kooyong Scotch,Maccabi,No. 1,Tom Meysztowicz,Aurthur Kaganovitch,Tom Meysztowicz,6-3,6,3,1,0,Completed,true,false,false
+UA002093,16 Sep 12,9,Kooyong Scotch,Maccabi,No. 2,James Goller,David Sacho,David Sacho,2-6,2,6,0,1,Completed,true,false,false
+UA002093,16 Sep 12,9,Kooyong Scotch,Maccabi,No. 3,Sam Barnett,Damon Flicker,Damon Flicker,1-6,1,6,0,1,Completed,true,false,false
+UA002093,16 Sep 12,9,Kooyong Scotch,Maccabi,No. 4,Angelo Amato,Gidon Sacho,Angelo Amato,6-0,6,0,1,0,Completed,true,false,false
+UA002094,16 Sep 12,9,GPHC,BLTC,No. 1,Ellie Capannolo,Jack McCartney,Jack McCartney,2-6,2,6,0,1,Completed,true,false,false
+UA002094,16 Sep 12,9,GPHC,BLTC,No. 2,Han Goh,Angus Todd,Angus Todd,3-6,3,6,0,1,Completed,true,false,false
+UA002094,16 Sep 12,9,GPHC,BLTC,No. 3,Broderick Overton,Jessica Elliot,Jessica Elliot,4-6,4,6,0,1,Completed,true,false,false
+UA002094,16 Sep 12,9,GPHC,BLTC,No. 4,Lucy Loane,Josh Sinclair,Josh Sinclair,0-6,0,6,0,1,Completed,true,false,false
+UA002101,14 Oct 12,10,BLTC,Black Rock,No. 1,Jack McCartney,Mitchell Bussey,Mitchell Bussey,3-6,3,6,0,1,Completed,true,false,false
+UA002101,14 Oct 12,10,BLTC,Black Rock,No. 2,Angus Todd,Finn Rooney,Angus Todd,7-6,7,6,1,0,Completed,true,false,false
+UA002101,14 Oct 12,10,BLTC,Black Rock,No. 3,Jessica Elliot,Jaeger Konidaris,Jaeger Konidaris,4-6,4,6,0,1,Completed,true,false,false
+UA002101,14 Oct 12,10,BLTC,Black Rock,No. 4,Josh Sinclair,Sabre Konidaris,Sabre Konidaris,2-6,2,6,0,1,Completed,true,false,false
+UA002102,14 Oct 12,10,Kings Park,Kooyong,No. 1,James Loynd,Michael McKay,James Loynd,6-1,6,1,1,0,Completed,true,false,false
+UA002102,14 Oct 12,10,Kings Park,Kooyong,No. 2,Nathan Blamires,Sam Francis,Nathan Blamires,7-5,7,5,1,0,Completed,true,false,false
+UA002102,14 Oct 12,10,Kings Park,Kooyong,No. 3,Thomas Diggerson,Charlie Kelly,Charlie Kelly,0-6,0,6,0,1,Completed,true,false,false
+UA002102,14 Oct 12,10,Kings Park,Kooyong,No. 4,Timothy Van Der Veur,Jordan Ragona-Nevrous,Jordan Ragona-Nevrous,6-7,6,7,0,1,Completed,true,false,false
+UA002103,14 Oct 12,10,Coatesville,Kooyong Scotch,No. 1,Conner Wilson,Tom Meysztowicz,Conner Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA002103,14 Oct 12,10,Coatesville,Kooyong Scotch,No. 2,Justin Carew,James Goller,Justin Carew,6-4,6,4,1,0,Completed,true,false,false
+UA002103,14 Oct 12,10,Coatesville,Kooyong Scotch,No. 3,Callan Brown,Nick Pullen,Nick Pullen,3-6,3,6,0,1,Completed,true,false,false
+UA002103,14 Oct 12,10,Coatesville,Kooyong Scotch,No. 4,Andrew Chen,John Amato,John Amato,3-6,3,6,0,1,Completed,true,false,false
+UA002104,14 Oct 12,10,Maccabi,GPHC,No. 1,Jonathan Simon,Ellie Capannolo,Ellie Capannolo,5-7,5,7,0,1,Completed,true,false,false
+UA002104,14 Oct 12,10,Maccabi,GPHC,No. 2,Aurthur Kaganovitch,Han Goh,Aurthur Kaganovitch,6-2,6,2,1,0,Completed,true,false,false
+UA002104,14 Oct 12,10,Maccabi,GPHC,No. 3,Damon Flicker,Broderick Overton,Broderick Overton,3-6,3,6,0,1,Completed,true,false,false
+UA002104,14 Oct 12,10,Maccabi,GPHC,No. 4,Daniel Lotzoff,Sasha Kenna,Daniel Lotzoff,6-3,6,3,1,0,Completed,true,false,false
+UA002111,21 Oct 12,11,Black Rock,Maccabi,No. 1,Mitchell Bussey,Aurthur Kaganovitch,Mitchell Bussey,6-3,6,3,1,0,Completed,true,false,false
+UA002111,21 Oct 12,11,Black Rock,Maccabi,No. 2,Finn Rooney,David Sacho,Finn Rooney,6-1,6,1,1,0,Completed,true,false,false
+UA002111,21 Oct 12,11,Black Rock,Maccabi,No. 3,Felix Onea,Daniel Lotzoff,Felix Onea,6-4,6,4,1,0,Completed,true,false,false
+UA002111,21 Oct 12,11,Black Rock,Maccabi,No. 4,Brady Watts,Gidon Sacho,Brady Watts,6-4,6,4,1,0,Completed,true,false,false
+UA002112,21 Oct 12,11,Kooyong,BLTC,No. 1,Michael McKay,Trent Martin,Michael McKay,6-1,6,1,1,0,Completed,true,false,false
+UA002112,21 Oct 12,11,Kooyong,BLTC,No. 2,Sam Francis,Angus Todd,Angus Todd,2-6,2,6,0,1,Completed,true,false,false
+UA002112,21 Oct 12,11,Kooyong,BLTC,No. 3,Ifeoma Donnellan,Jessica Elliot,Ifeoma Donnellan,6-2,6,2,1,0,Completed,true,false,false
+UA002112,21 Oct 12,11,Kooyong,BLTC,No. 4,Ashley Spinks,Josh Sinclair,Ashley Spinks,6-3,6,3,1,0,Completed,true,false,false
+UA002113,21 Oct 12,11,Kooyong Scotch,Kings Park,No. 1,Tom Meysztowicz,James Loynd,James Loynd,5-7,5,7,0,1,Completed,true,false,false
+UA002113,21 Oct 12,11,Kooyong Scotch,Kings Park,No. 2,James Goller,Adrian Hodgson,James Goller,6-4,6,4,1,0,Completed,true,false,false
+UA002113,21 Oct 12,11,Kooyong Scotch,Kings Park,No. 3,Nick Pullen,Dylan Smith,Nick Pullen,6-1,6,1,1,0,Completed,true,false,false
+UA002113,21 Oct 12,11,Kooyong Scotch,Kings Park,No. 4,Max Flaherty,Timothy Van Der Veur,Timothy Van Der Veur,1-6,1,6,0,1,Completed,true,false,false
+UA002114,21 Oct 12,11,GPHC,Coatesville,No. 1,Ellie Capannolo,Conner Wilson,Conner Wilson,0-6,0,6,0,1,Completed,true,false,false
+UA002114,21 Oct 12,11,GPHC,Coatesville,No. 2,Han Goh,Justin Carew,Justin Carew,2-6,2,6,0,1,Completed,true,false,false
+UA002114,21 Oct 12,11,GPHC,Coatesville,No. 3,Broderick Overton,Callan Brown,Broderick Overton,6-3,6,3,1,0,Completed,true,false,false
+UA002114,21 Oct 12,11,GPHC,Coatesville,No. 4,Lucy Loane,Andrew Chen,Andrew Chen,0-6,0,6,0,1,Completed,true,false,false
+UA002121,28 Oct 12,12,GPHC,Kooyong Scotch,No. 1,Henry McIntosh,Tom Meysztowicz,Henry McIntosh,6-3,6,3,1,0,Completed,true,false,false
+UA002121,28 Oct 12,12,GPHC,Kooyong Scotch,No. 2,Zofia Andrianopoulos,James Goller,James Goller,1-6,1,6,0,1,Completed,true,false,false
+UA002121,28 Oct 12,12,GPHC,Kooyong Scotch,No. 3,Broderick Overton,Nick Pullen,Broderick Overton,6-3,6,3,1,0,Completed,true,false,false
+UA002121,28 Oct 12,12,GPHC,Kooyong Scotch,No. 4,Lucy Loane,Max Flaherty,Max Flaherty,0-6,0,6,0,1,Completed,true,false,false
+UA002122,28 Oct 12,12,BLTC,Kings Park,No. 1,Jack McCartney,Nathan Blamires,Jack McCartney,6-0,6,0,1,0,Completed,true,false,false
+UA002122,28 Oct 12,12,BLTC,Kings Park,No. 2,Trent Martin,Adrian Hodgson,Trent Martin,6-2,6,2,1,0,Completed,true,false,false
+UA002122,28 Oct 12,12,BLTC,Kings Park,No. 3,Angus Todd,Dylan Smith,Angus Todd,6-0,6,0,1,0,Completed,true,false,false
+UA002122,28 Oct 12,12,BLTC,Kings Park,No. 4,Jessica Elliot,Thomas Diggerson,Jessica Elliot,6-1,6,1,1,0,Completed,true,false,false
+UA002123,28 Oct 12,12,Coatesville,Maccabi,No. 1,Cameron James,Jonathan Simon,Cameron James,6-2,6,2,1,0,Completed,true,false,false
+UA002123,28 Oct 12,12,Coatesville,Maccabi,No. 2,Justin Carew,David Sacho,David Sacho,2-6,2,6,0,1,Completed,true,false,false
+UA002123,28 Oct 12,12,Coatesville,Maccabi,No. 3,Callan Brown,Damon Flicker,Damon Flicker,4-6,4,6,0,1,Completed,true,false,false
+UA002123,28 Oct 12,12,Coatesville,Maccabi,No. 4,Andrew Chen,Daniel Lotzoff,Andrew Chen,6-4,6,4,1,0,Completed,true,false,false
+UA002124,28 Oct 12,12,Kooyong,Black Rock,No. 1,Michael McKay,Finn Rooney,Finn Rooney,5-7,5,7,0,1,Completed,true,false,false
+UA002124,28 Oct 12,12,Kooyong,Black Rock,No. 2,Charlie Kelly,Jaeger Konidaris,Jaeger Konidaris,3-6,3,6,0,1,Completed,true,false,false
+UA002124,28 Oct 12,12,Kooyong,Black Rock,No. 3,Jordan Ragona-Nevrous,Arthur Knight,Arthur Knight,1-6,1,6,0,1,Completed,true,false,false
+UA002124,28 Oct 12,12,Kooyong,Black Rock,No. 4,Ashley Spinks,Brady Watts,Brady Watts,2-6,2,6,0,1,Completed,true,false,false
+UA002131,11 Nov 12,13,Kooyong Scotch,Kooyong,No. 1,Tom Meysztowicz,Michael McKay,Michael McKay,1-6,1,6,0,1,Completed,true,false,false
+UA002131,11 Nov 12,13,Kooyong Scotch,Kooyong,No. 2,Nick Pullen,Sam Francis,Sam Francis,5-7,5,7,0,1,Completed,true,false,false
+UA002131,11 Nov 12,13,Kooyong Scotch,Kooyong,No. 3,Sam Barnett,Charlie Kelly,Charlie Kelly,0-6,0,6,0,1,Completed,true,false,false
+UA002131,11 Nov 12,13,Kooyong Scotch,Kooyong,No. 4,Max Flaherty,Ashley Spinks,Ashley Spinks,4-6,4,6,0,1,Completed,true,false,false
+UA002132,11 Nov 12,13,Black Rock,GPHC,No. 1,Mitchell Bussey,Henry McIntosh,Henry McIntosh,3-6,3,6,0,1,Completed,true,false,false
+UA002132,11 Nov 12,13,Black Rock,GPHC,No. 2,Finn Rooney,Ellie Capannolo,Finn Rooney,6-2,6,2,1,0,Completed,true,false,false
+UA002132,11 Nov 12,13,Black Rock,GPHC,No. 3,Jaeger Konidaris,Broderick Overton,Broderick Overton,2-6,2,6,0,1,Completed,true,false,false
+UA002132,11 Nov 12,13,Black Rock,GPHC,No. 4,Sabre Konidaris,Lucy Loane,Sabre Konidaris,6-0,6,0,1,0,Completed,true,false,false
+UA002133,11 Nov 12,13,Maccabi,BLTC,No. 1,Aurthur Kaganovitch,Trent Martin,Aurthur Kaganovitch,6-0,6,0,1,0,Completed,true,false,false
+UA002133,11 Nov 12,13,Maccabi,BLTC,No. 2,David Sacho,Angus Todd,Angus Todd,5-7,5,7,0,1,Completed,true,false,false
+UA002133,11 Nov 12,13,Maccabi,BLTC,No. 3,Daniel Lotzoff,Jessica Elliot,Jessica Elliot,1-6,1,6,0,1,Completed,true,false,false
+UA002133,11 Nov 12,13,Maccabi,BLTC,No. 4,Gidon Sacho,Josh Sinclair,Gidon Sacho,6-3,6,3,1,0,Completed,true,false,false
+UA002134,11 Nov 12,13,Kings Park,Coatesville,No. 1,James Loynd,Cameron James,Cameron James,1-6,1,6,0,1,Completed,true,false,false
+UA002134,11 Nov 12,13,Kings Park,Coatesville,No. 2,Nathan Blamires,Conner Wilson,Conner Wilson,2-6,2,6,0,1,Completed,true,false,false
+UA002134,11 Nov 12,13,Kings Park,Coatesville,No. 3,Thomas Diggerson,Callan Brown,Callan Brown,1-6,1,6,0,1,Completed,true,false,false
+UA002134,11 Nov 12,13,Kings Park,Coatesville,No. 4,Timothy Van Der Veur,Andrew Chen,Andrew Chen,5-7,5,7,0,1,Completed,true,false,false
+UA002141,18 Nov 12,14,Kooyong Scotch,Black Rock,No. 1,James Goller,Mitchell Bussey,Mitchell Bussey,1-6,1,6,0,1,Completed,true,false,false
+UA002141,18 Nov 12,14,Kooyong Scotch,Black Rock,No. 2,Nick Pullen,Finn Rooney,Finn Rooney,4-6,4,6,0,1,Completed,true,false,false
+UA002141,18 Nov 12,14,Kooyong Scotch,Black Rock,No. 3,Sam Barnett,Felix Onea,Felix Onea,5-7,5,7,0,1,Completed,true,false,false
+UA002141,18 Nov 12,14,Kooyong Scotch,Black Rock,No. 4,Alex Chambers,Brady Watts,Brady Watts,0-6,0,6,0,1,Completed,true,false,false
+UA002142,18 Nov 12,14,GPHC,Kooyong,No. 1,Henry McIntosh,Michael McKay,Henry McIntosh,6-1,6,1,1,0,Completed,true,false,false
+UA002142,18 Nov 12,14,GPHC,Kooyong,No. 2,Han Goh,Jordan Ragona-Nevrous,Jordan Ragona-Nevrous,5-7,5,7,0,1,Completed,true,false,false
+UA002142,18 Nov 12,14,GPHC,Kooyong,No. 3,Broderick Overton,Ashley Spinks,Broderick Overton,6-4,6,4,1,0,Completed,true,false,false
+UA002142,18 Nov 12,14,GPHC,Kooyong,No. 4,Lucy Loane,Dina Gregg,Dina Gregg,0-6,0,6,0,1,Completed,true,false,false
+UA002143,18 Nov 12,14,Maccabi,Kings Park,No. 1,Jonathan Simon,Nathan Blamires,Jonathan Simon,6-1,6,1,1,0,Completed,true,false,false
+UA002143,18 Nov 12,14,Maccabi,Kings Park,No. 2,Aurthur Kaganovitch,Adrian Hodgson,Aurthur Kaganovitch,6-2,6,2,1,0,Completed,true,false,false
+UA002143,18 Nov 12,14,Maccabi,Kings Park,No. 3,David Sacho,Dylan Smith,David Sacho,6-0,6,0,1,0,Completed,true,false,false
+UA002143,18 Nov 12,14,Maccabi,Kings Park,No. 4,Gidon Sacho,Timothy Van Der Veur,Timothy Van Der Veur,3-6,3,6,0,1,Completed,true,false,false
+UA002144,18 Nov 12,14,Coatesville,BLTC,No. 1,Cameron James,Jack McCartney,Cameron James,6-1,6,1,1,0,Completed,true,false,false
+UA002144,18 Nov 12,14,Coatesville,BLTC,No. 2,Conner Wilson,Angus Todd,Angus Todd,6-7,6,7,0,1,Completed,true,false,false
+UA002144,18 Nov 12,14,Coatesville,BLTC,No. 3,Justin Carew,Jessica Elliot,Justin Carew,6-1,6,1,1,0,Completed,true,false,false
+UA002144,18 Nov 12,14,Coatesville,BLTC,No. 4,Andrew Chen,Josh Sinclair,Andrew Chen,6-2,6,2,1,0,Completed,true,false,false
+UA002301,,16,Coatesville,Maccabi,No. 1,Conner Wilson,Jonathan Simon,Conner Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA002301,,16,Coatesville,Maccabi,No. 2,Justin Carew,Aurthur Kaganovitch,Justin Carew,7-5,7,5,1,0,Completed,true,false,false
+UA002301,,16,Coatesville,Maccabi,No. 3,Callan Brown,David Sacho,David Sacho,1-6,1,6,0,1,Completed,true,false,false
+UA002301,,16,Coatesville,Maccabi,No. 4,Andrew Chen,Damon Flicker,Andrew Chen,7-5,7,5,1,0,Completed,true,false,false
+UA002302,,16,Black Rock,Kooyong,No. 1,Mitchell Bussey,Michael McKay,Mitchell Bussey,6-3,6,3,1,0,Completed,true,false,false
+UA002302,,16,Black Rock,Kooyong,No. 2,Finn Rooney,Sam Francis,Finn Rooney,6-3,6,3,1,0,Completed,true,false,false
+UA002302,,16,Black Rock,Kooyong,No. 3,Felix Onea,Charlie Kelly,Felix Onea,6-3,6,3,1,0,Completed,true,false,false
+UA002302,,16,Black Rock,Kooyong,No. 4,Brady Watts,Ashley Spinks,Ashley Spinks,5-7,5,7,0,1,Completed,true,false,false
+UA002321,,17,Coatesville,Black Rock,No. 1,Cameron James,Mitchell Bussey,Cameron James,7-5,7,5,1,0,Completed,true,false,false
+UA002321,,17,Coatesville,Black Rock,No. 2,Conner Wilson,Finn Rooney,Finn Rooney,2-6,2,6,0,1,Completed,true,true,false
+UA002321,,17,Coatesville,Black Rock,No. 3,Callan Brown,Sabre Konidaris,Callan Brown,6-2,6,2,1,0,Completed,true,true,false
+UA002321,,17,Coatesville,Black Rock,No. 4,Andrew Chen,Brady Watts,Andrew Chen,6-4,6,4,1,0,Completed,true,false,true

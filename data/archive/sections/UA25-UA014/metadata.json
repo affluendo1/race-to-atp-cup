@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA25-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2019",
+  "season_id": "UA25",
+  "season_label": "Spring 2019",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Hurlingham Park 2",
+      "wins": 12,
+      "points": 118,
+      "percentage": 161.03,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Le Page",
+      "wins": 7,
+      "points": 84,
+      "percentage": 124.45,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "St Andrews MB 1 RA",
+      "wins": 9,
+      "points": 83,
+      "percentage": 108.53,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Black Rock",
+      "wins": 9,
+      "points": 82,
+      "percentage": 106.12,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Elsternwick Park",
+      "wins": 3,
+      "points": 56,
+      "percentage": 87.36,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St Andrews MB 2 Kevin",
+      "wins": 4,
+      "points": 49,
+      "percentage": 84.18,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Caulfield Rec",
+      "wins": 3,
+      "points": 46,
+      "percentage": 71.53,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hurlingham Park 1",
+      "wins": 2,
+      "points": 42,
+      "percentage": 81.46,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA25-UA014",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 216,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA014302"
+  ]
+}

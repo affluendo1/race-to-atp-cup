@@ -1,0 +1,169 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA005011,20 Jul 14,1,Mordialloc,Maccabi,No. 1,Kartik Sehgal,Jarryd Tauber,Kartik Sehgal,6-1,6,1,1,0,Completed,true,false,false
+UA005011,20 Jul 14,1,Mordialloc,Maccabi,No. 2,Mitchell Standfield,Maxim Kugel,Mitchell Standfield,6-2,6,2,1,0,Completed,true,false,false
+UA005011,20 Jul 14,1,Mordialloc,Maccabi,No. 3,Mitch Pattison,Jordan Zalcman,Mitch Pattison,7-5,7,5,1,0,Completed,true,false,false
+UA005011,20 Jul 14,1,Mordialloc,Maccabi,No. 4,Kunal Sehgal,Marty Schwarz,Kunal Sehgal,6-1,6,1,1,0,Completed,true,false,false
+UA005012,20 Jul 14,1,Dendy Park,Royal South Yarra,No. 1,Ethan Racine,Declan Albrecht,Ethan Racine,6-0,6,0,1,0,Completed,true,false,false
+UA005012,20 Jul 14,1,Dendy Park,Royal South Yarra,No. 2,Sam Butler,Henry Campbell,Sam Butler,6-0,6,0,1,0,Completed,true,false,false
+UA005012,20 Jul 14,1,Dendy Park,Royal South Yarra,No. 3,Cooper Gibbs,Hugo Druce,Cooper Gibbs,6-2,6,2,1,0,Completed,true,false,false
+UA005012,20 Jul 14,1,Dendy Park,Royal South Yarra,No. 4,Margo Vuiller,Laura O'Farrell,Margo Vuiller,6-4,6,4,1,0,Completed,true,false,false
+UA005014,20 Jul 14,1,Lauriston,St Joan of Arc,No. 1,Jeremy Wang,Luca Perruzza,Luca Perruzza,3-6,3,6,0,1,Completed,true,false,false
+UA005014,20 Jul 14,1,Lauriston,St Joan of Arc,No. 2,Athan Vlachos,Jack Hart,Jack Hart,3-6,3,6,0,1,Completed,true,false,false
+UA005014,20 Jul 14,1,Lauriston,St Joan of Arc,No. 3,Misha Machlak,James Trewin,James Trewin,3-6,3,6,0,1,Completed,true,false,false
+UA005014,20 Jul 14,1,Lauriston,St Joan of Arc,No. 4,Lauren Earls,Max Farrel,Max Farrel,1-6,1,6,0,1,Completed,true,false,false
+UA005021,27 Jul 14,2,St Joan of Arc,Mordialloc,No. 1,Luca Perruzza,Kartik Sehgal,Kartik Sehgal,0-6,0,6,0,1,Completed,true,false,false
+UA005021,27 Jul 14,2,St Joan of Arc,Mordialloc,No. 2,Sam Stevenson,Mitchell Standfield,Sam Stevenson,6-1,6,1,1,0,Completed,true,false,false
+UA005021,27 Jul 14,2,St Joan of Arc,Mordialloc,No. 3,Max Farrel,Mitch Pattison,Max Farrel,7-5,7,5,1,0,Completed,true,false,false
+UA005021,27 Jul 14,2,St Joan of Arc,Mordialloc,No. 4,Matt Stevenson,Kunal Sehgal,Kunal Sehgal,5-7,5,7,0,1,Completed,true,false,false
+UA005022,27 Jul 14,2,Maccabi,Dendy Park,No. 1,Jarryd Tauber,Ethan Racine,Ethan Racine,0-6,0,6,0,1,Completed,true,false,false
+UA005022,27 Jul 14,2,Maccabi,Dendy Park,No. 2,Jordan Zalcman,Sam Butler,Sam Butler,3-6,3,6,0,1,Completed,true,false,false
+UA005022,27 Jul 14,2,Maccabi,Dendy Park,No. 3,Marty Schwarz,Cooper Gibbs,Cooper Gibbs,4-6,4,6,0,1,Completed,true,false,false
+UA005022,27 Jul 14,2,Maccabi,Dendy Park,No. 4,Joshua Dorfan,Margo Vuiller,Margo Vuiller,4-6,4,6,0,1,Completed,true,false,false
+UA005024,27 Jul 14,2,Kooyong Scotch,Lauriston,No. 1,Nicholas Farmer,Athan Vlachos,Athan Vlachos,4-6,4,6,0,1,Completed,true,false,false
+UA005024,27 Jul 14,2,Kooyong Scotch,Lauriston,No. 2,Gabriel Lennon,Lauren Earls,Gabriel Lennon,6-1,6,1,1,0,Completed,true,false,false
+UA005024,27 Jul 14,2,Kooyong Scotch,Lauriston,No. 3,Alexander Hick,Michelle Volpert,Michelle Volpert,6-7,6,7,0,1,Completed,true,false,false
+UA005024,27 Jul 14,2,Kooyong Scotch,Lauriston,No. 4,William Nolan,Angela Chen,William Nolan,6-4,6,4,1,0,Completed,true,false,false
+UA005031,03 Aug 14,3,Mordialloc,Kooyong Scotch,No. 1,Kartik Sehgal,Nicholas Farmer,Kartik Sehgal,6-3,6,3,1,0,Completed,true,false,false
+UA005031,03 Aug 14,3,Mordialloc,Kooyong Scotch,No. 2,Mitchell Standfield,Gabriel Lennon,Gabriel Lennon,2-6,2,6,0,1,Completed,true,false,false
+UA005031,03 Aug 14,3,Mordialloc,Kooyong Scotch,No. 3,Mitch Pattison,Jake Zerman,Mitch Pattison,6-3,6,3,1,0,Completed,true,false,false
+UA005031,03 Aug 14,3,Mordialloc,Kooyong Scotch,No. 4,Kunal Sehgal,Ryan Smyth,Ryan Smyth,4-6,4,6,0,1,Completed,true,false,false
+UA005032,03 Aug 14,3,Dendy Park,St Joan of Arc,No. 1,Sam Butler,Jack Hart,Sam Butler,6-2,6,2,1,0,Completed,true,false,false
+UA005032,03 Aug 14,3,Dendy Park,St Joan of Arc,No. 2,Hugh Vuiller,Sam Stevenson,Hugh Vuiller,6-3,6,3,1,0,Completed,true,false,false
+UA005032,03 Aug 14,3,Dendy Park,St Joan of Arc,No. 3,Dean Metter,James Trewin,James Trewin,5-7,5,7,0,1,Completed,true,false,false
+UA005032,03 Aug 14,3,Dendy Park,St Joan of Arc,No. 4,Cooper Gibbs,Matt Stevenson,Matt Stevenson,4-6,4,6,0,1,Completed,true,false,false
+UA005034,03 Aug 14,3,Lauriston,Royal South Yarra,No. 1,Jeremy Wang,Declan Albrecht,Jeremy Wang,6-0,6,0,1,0,Completed,true,false,false
+UA005034,03 Aug 14,3,Lauriston,Royal South Yarra,No. 2,Misha Machlak,Henry Campbell,Misha Machlak,6-3,6,3,1,0,Completed,true,false,false
+UA005034,03 Aug 14,3,Lauriston,Royal South Yarra,No. 3,Lauren Earls,Jack Cooper,Lauren Earls,6-1,6,1,1,0,Completed,true,false,false
+UA005034,03 Aug 14,3,Lauriston,Royal South Yarra,No. 4,Angela Chen,Francesca Johnston,Angela Chen,6-0,6,0,1,0,Completed,true,false,false
+UA005041,10 Aug 14,4,Royal South Yarra,Mordialloc,No. 1,Declan Albrecht,Kartik Sehgal,Kartik Sehgal,1-6,1,6,0,1,Completed,true,false,false
+UA005041,10 Aug 14,4,Royal South Yarra,Mordialloc,No. 2,Henry Campbell,Mitch Pattison,Mitch Pattison,3-6,3,6,0,1,Completed,true,false,false
+UA005041,10 Aug 14,4,Royal South Yarra,Mordialloc,No. 3,Hugo Druce,Kunal Sehgal,Kunal Sehgal,0-6,0,6,0,1,Completed,true,false,false
+UA005041,10 Aug 14,4,Royal South Yarra,Mordialloc,No. 4,Vivienne Johnston,Aryon Raghav,Vivienne Johnston,6-4,6,4,1,0,Completed,true,false,false
+UA005042,10 Aug 14,4,Kooyong Scotch,Dendy Park,No. 1,Gabriel Lennon,Ethan Racine,Gabriel Lennon,6-1,6,1,1,0,Completed,true,false,false
+UA005042,10 Aug 14,4,Kooyong Scotch,Dendy Park,No. 2,William Nolan,Hugh Vuiller,Hugh Vuiller,1-6,1,6,0,1,Completed,true,false,false
+UA005042,10 Aug 14,4,Kooyong Scotch,Dendy Park,No. 3,Jake Zerman,Dean Metter,Dean Metter,2-6,2,6,0,1,Completed,true,false,false
+UA005042,10 Aug 14,4,Kooyong Scotch,Dendy Park,No. 4,Ryan Smyth,Cooper Gibbs,Ryan Smyth,6-4,6,4,1,0,Completed,true,false,false
+UA005044,10 Aug 14,4,Maccabi,Lauriston,No. 1,Jarryd Tauber,Jeremy Wang,Jeremy Wang,3-6,3,6,0,1,Completed,true,false,false
+UA005044,10 Aug 14,4,Maccabi,Lauriston,No. 2,Jordan Zalcman,Athan Vlachos,Jordan Zalcman,6-4,6,4,1,0,Completed,true,false,false
+UA005044,10 Aug 14,4,Maccabi,Lauriston,No. 3,Marty Schwarz,Lauren Earls,Marty Schwarz,6-2,6,2,1,0,Completed,true,false,false
+UA005044,10 Aug 14,4,Maccabi,Lauriston,No. 4,Gabriella Bergman,Michelle Volpert,Michelle Volpert,1-6,1,6,0,1,Completed,true,false,false
+UA005052,17 Aug 14,5,St Joan of Arc,Kooyong Scotch,No. 1,Sam Stevenson,Nicholas Farmer,Nicholas Farmer,2-6,2,6,0,1,Completed,true,false,false
+UA005052,17 Aug 14,5,St Joan of Arc,Kooyong Scotch,No. 2,James Trewin,Gabriel Lennon,Gabriel Lennon,4-6,4,6,0,1,Completed,true,false,false
+UA005052,17 Aug 14,5,St Joan of Arc,Kooyong Scotch,No. 3,Max Farrel,Alexander Hick,Max Farrel,6-0,6,0,1,0,Completed,true,false,false
+UA005052,17 Aug 14,5,St Joan of Arc,Kooyong Scotch,No. 4,Matthew Armstrong,Sam Palazzo,Matthew Armstrong,7-5,7,5,1,0,Completed,true,false,false
+UA005053,17 Aug 14,5,Royal South Yarra,Maccabi,No. 1,Declan Albrecht,Jarryd Tauber,Jarryd Tauber,1-6,1,6,0,1,Completed,true,false,false
+UA005053,17 Aug 14,5,Royal South Yarra,Maccabi,No. 2,Henry Campbell,Maxim Kugel,Henry Campbell,6-4,6,4,1,0,Completed,true,false,false
+UA005053,17 Aug 14,5,Royal South Yarra,Maccabi,No. 3,Vivienne Johnston,Marty Schwarz,Vivienne Johnston,6-4,6,4,1,0,Completed,true,false,false
+UA005053,17 Aug 14,5,Royal South Yarra,Maccabi,No. 4,Laura O'Farrell,Joshua Dorfan,Laura O'Farrell,6-3,6,3,1,0,Completed,true,false,false
+UA005054,17 Aug 14,5,Mordialloc,Dendy Park,No. 1,Kartik Sehgal,Ethan Racine,Ethan Racine,2-6,2,6,0,1,Completed,true,false,false
+UA005054,17 Aug 14,5,Mordialloc,Dendy Park,No. 2,Mitchell Standfield,Sam Butler,Sam Butler,0-6,0,6,0,1,Completed,true,false,false
+UA005054,17 Aug 14,5,Mordialloc,Dendy Park,No. 3,Mitch Pattison,Hugh Vuiller,Mitch Pattison,6-4,6,4,1,0,Completed,true,false,false
+UA005054,17 Aug 14,5,Mordialloc,Dendy Park,No. 4,Aryon Raghav,Margo Vuiller,Aryon Raghav,6-2,6,2,1,0,Completed,true,false,false
+UA005062,24 Aug 14,6,Lauriston,Mordialloc,No. 1,Jeremy Wang,Kartik Sehgal,Kartik Sehgal,3-6,3,6,0,1,Completed,true,false,false
+UA005062,24 Aug 14,6,Lauriston,Mordialloc,No. 2,Athan Vlachos,Mitchell Standfield,Mitchell Standfield,3-6,3,6,0,1,Completed,true,false,false
+UA005062,24 Aug 14,6,Lauriston,Mordialloc,No. 3,Michelle Volpert,Kunal Sehgal,Kunal Sehgal,2-6,2,6,0,1,Completed,true,false,false
+UA005062,24 Aug 14,6,Lauriston,Mordialloc,No. 4,Angela Chen,Aryon Raghav,Angela Chen,6-4,6,4,1,0,Completed,true,false,false
+UA005063,24 Aug 14,6,Kooyong Scotch,Royal South Yarra,No. 1,Nicholas Farmer,Henry Campbell,Nicholas Farmer,6-1,6,1,1,0,Completed,true,false,false
+UA005063,24 Aug 14,6,Kooyong Scotch,Royal South Yarra,No. 2,Gabriel Lennon,Hugo Druce,Gabriel Lennon,6-1,6,1,1,0,Completed,true,false,false
+UA005063,24 Aug 14,6,Kooyong Scotch,Royal South Yarra,No. 3,Jake Zerman,Vivienne Johnston,Jake Zerman,6-3,6,3,1,0,Completed,true,false,false
+UA005063,24 Aug 14,6,Kooyong Scotch,Royal South Yarra,No. 4,Ryan Smyth,Rich Bartlett,Ryan Smyth,6-2,6,2,1,0,Completed,true,false,false
+UA005064,24 Aug 14,6,Maccabi,St Joan of Arc,No. 1,Jarryd Tauber,Luca Perruzza,Luca Perruzza,3-6,3,6,0,1,Completed,true,false,false
+UA005064,24 Aug 14,6,Maccabi,St Joan of Arc,No. 2,Maxim Kugel,Sam Stevenson,Sam Stevenson,6-7,6,7,0,1,Completed,true,false,false
+UA005064,24 Aug 14,6,Maccabi,St Joan of Arc,No. 3,Jordan Zalcman,Max Farrel,Max Farrel,3-6,3,6,0,1,Completed,true,false,false
+UA005064,24 Aug 14,6,Maccabi,St Joan of Arc,No. 4,Marty Schwarz,Matthew Armstrong,Matthew Armstrong,2-6,2,6,0,1,Completed,true,false,false
+UA005072,31 Aug 14,7,Dendy Park,Lauriston,No. 1,Ethan Racine,Jeremy Wang,Ethan Racine,7-5,7,5,1,0,Completed,true,false,false
+UA005072,31 Aug 14,7,Dendy Park,Lauriston,No. 2,Sam Butler,Athan Vlachos,Athan Vlachos,3-6,3,6,0,1,Completed,true,false,false
+UA005072,31 Aug 14,7,Dendy Park,Lauriston,No. 3,Hugh Vuiller,Misha Machlak,Hugh Vuiller,6-3,6,3,1,0,Completed,true,false,false
+UA005072,31 Aug 14,7,Dendy Park,Lauriston,No. 4,Dean Metter,Lauren Earls,Lauren Earls,4-6,4,6,0,1,Completed,true,false,false
+UA005073,31 Aug 14,7,St Joan of Arc,Royal South Yarra,No. 1,Luca Perruzza,Declan Albrecht,Luca Perruzza,6-0,6,0,1,0,Completed,true,false,false
+UA005073,31 Aug 14,7,St Joan of Arc,Royal South Yarra,No. 2,Jack Hart,Henry Campbell,Jack Hart,6-3,6,3,1,0,Completed,true,false,false
+UA005073,31 Aug 14,7,St Joan of Arc,Royal South Yarra,No. 3,Sam Stevenson,Hugo Druce,Sam Stevenson,6-2,6,2,1,0,Completed,true,false,false
+UA005073,31 Aug 14,7,St Joan of Arc,Royal South Yarra,No. 4,Max Farrel,Vivienne Johnston,Max Farrel,6-4,6,4,1,0,Completed,true,false,false
+UA005074,31 Aug 14,7,Kooyong Scotch,Maccabi,No. 1,Alexander Hick,Maxim Kugel,Maxim Kugel,1-6,1,6,0,1,Completed,true,false,false
+UA005074,31 Aug 14,7,Kooyong Scotch,Maccabi,No. 2,William Nolan,Jordan Zalcman,William Nolan,6-4,6,4,1,0,Completed,true,false,false
+UA005074,31 Aug 14,7,Kooyong Scotch,Maccabi,No. 3,Jake Zerman,Marty Schwarz,Marty Schwarz,3-6,3,6,0,1,Completed,true,false,false
+UA005074,31 Aug 14,7,Kooyong Scotch,Maccabi,No. 4,Sam Palazzo,Joshua Dorfan,Sam Palazzo,6-2,6,2,1,0,Completed,true,false,false
+UA005081,07 Sep 14,8,Maccabi,Mordialloc,No. 1,Maxim Kugel,Kartik Sehgal,Maxim Kugel,6-3,6,3,1,0,Completed,true,false,false
+UA005081,07 Sep 14,8,Maccabi,Mordialloc,No. 2,Jordan Zalcman,Mitchell Standfield,Mitchell Standfield,4-6,4,6,0,1,Completed,true,false,false
+UA005081,07 Sep 14,8,Maccabi,Mordialloc,No. 3,Marty Schwarz,Kunal Sehgal,Marty Schwarz,6-2,6,2,1,0,Completed,true,false,false
+UA005081,07 Sep 14,8,Maccabi,Mordialloc,No. 4,Joshua Dorfan,Aryon Raghav,Aryon Raghav,2-6,2,6,0,1,Completed,true,false,false
+UA005082,07 Sep 14,8,Royal South Yarra,Dendy Park,No. 1,Declan Albrecht,Ethan Racine,Ethan Racine,1-6,1,6,0,1,Completed,true,false,false
+UA005082,07 Sep 14,8,Royal South Yarra,Dendy Park,No. 2,Henry Campbell,Sam Butler,Sam Butler,5-7,5,7,0,1,Completed,true,false,false
+UA005082,07 Sep 14,8,Royal South Yarra,Dendy Park,No. 3,Hugo Druce,Hugh Vuiller,Hugh Vuiller,0-6,0,6,0,1,Completed,true,false,false
+UA005082,07 Sep 14,8,Royal South Yarra,Dendy Park,No. 4,Vivienne Johnston,Margo Vuiller,Vivienne Johnston,6-4,6,4,1,0,Completed,true,false,false
+UA005084,07 Sep 14,8,St Joan of Arc,Lauriston,No. 1,Jack Hart,Athan Vlachos,Jack Hart,7-5,7,5,1,0,Completed,true,false,false
+UA005084,07 Sep 14,8,St Joan of Arc,Lauriston,No. 2,Sam Stevenson,Lauren Earls,Sam Stevenson,6-2,6,2,1,0,Completed,true,false,false
+UA005084,07 Sep 14,8,St Joan of Arc,Lauriston,No. 3,James Trewin,Jeremy Wang,James Trewin,6-0,6,0,1,0,Completed,true,false,false
+UA005084,07 Sep 14,8,St Joan of Arc,Lauriston,No. 4,Josh Vaughan,Angela Chen,Angela Chen,4-6,4,6,0,1,Completed,true,false,false
+UA005091,14 Sep 14,9,Mordialloc,St Joan of Arc,No. 1,Kartik Sehgal,Luca Perruzza,Luca Perruzza,3-6,3,6,0,1,Completed,true,false,false
+UA005091,14 Sep 14,9,Mordialloc,St Joan of Arc,No. 2,Mitchell Standfield,Jack Hart,Jack Hart,6-7,6,7,0,1,Completed,true,false,false
+UA005091,14 Sep 14,9,Mordialloc,St Joan of Arc,No. 3,Kunal Sehgal,Max Farrel,Max Farrel,4-6,4,6,0,1,Completed,true,false,false
+UA005091,14 Sep 14,9,Mordialloc,St Joan of Arc,No. 4,Aryon Raghav,James Trewin,Aryon Raghav,6-0,6,0,1,0,Completed,true,false,false
+UA005092,14 Sep 14,9,Dendy Park,Maccabi,No. 1,Ethan Racine,Jarryd Tauber,Ethan Racine,6-4,6,4,1,0,Completed,true,false,false
+UA005092,14 Sep 14,9,Dendy Park,Maccabi,No. 2,Sam Butler,Maxim Kugel,Sam Butler,6-2,6,2,1,0,Completed,true,false,false
+UA005092,14 Sep 14,9,Dendy Park,Maccabi,No. 3,Hugh Vuiller,Marty Schwarz,Hugh Vuiller,6-3,6,3,1,0,Completed,true,false,false
+UA005092,14 Sep 14,9,Dendy Park,Maccabi,No. 4,Margo Vuiller,Gabriella Bergman,Margo Vuiller,6-4,6,4,1,0,Completed,true,false,false
+UA005094,14 Sep 14,9,Lauriston,Kooyong Scotch,No. 1,Jeremy Wang,Nicholas Farmer,Jeremy Wang,6-4,6,4,1,0,Completed,true,false,false
+UA005094,14 Sep 14,9,Lauriston,Kooyong Scotch,No. 2,Athan Vlachos,Gabriel Lennon,Athan Vlachos,6-4,6,4,1,0,Completed,true,false,false
+UA005094,14 Sep 14,9,Lauriston,Kooyong Scotch,No. 3,Misha Machlak,Jake Zerman,Jake Zerman,5-7,5,7,0,1,Completed,true,false,false
+UA005094,14 Sep 14,9,Lauriston,Kooyong Scotch,No. 4,Lauren Earls,Ryan Smyth,Ryan Smyth,2-6,2,6,0,1,Completed,true,false,false
+UA005101,12 Oct 14,10,Kooyong Scotch,Mordialloc,No. 1,Alexander Hick,Kartik Sehgal,Kartik Sehgal,4-6,4,6,0,1,Completed,true,false,false
+UA005101,12 Oct 14,10,Kooyong Scotch,Mordialloc,No. 2,William Nolan,Mitchell Standfield,Mitchell Standfield,3-6,3,6,0,1,Completed,true,false,false
+UA005101,12 Oct 14,10,Kooyong Scotch,Mordialloc,No. 3,Jake Zerman,Kunal Sehgal,Kunal Sehgal,6-7,6,7,0,1,Completed,true,false,false
+UA005101,12 Oct 14,10,Kooyong Scotch,Mordialloc,No. 4,Ryan Smyth,Aryon Raghav,Ryan Smyth,6-0,6,0,1,0,Completed,true,false,false
+UA005102,12 Oct 14,10,St Joan of Arc,Dendy Park,No. 1,Luca Perruzza,Sam Butler,Sam Butler,1-6,1,6,0,1,Completed,true,false,false
+UA005102,12 Oct 14,10,St Joan of Arc,Dendy Park,No. 2,Jack Hart,Hugh Vuiller,Jack Hart,6-3,6,3,1,0,Completed,true,false,false
+UA005102,12 Oct 14,10,St Joan of Arc,Dendy Park,No. 3,Sam Stevenson,Dean Metter,Dean Metter,2-6,2,6,0,1,Completed,true,false,false
+UA005102,12 Oct 14,10,St Joan of Arc,Dendy Park,No. 4,Josh Vaughan,Margo Vuiller,Josh Vaughan,6-3,6,3,1,0,Completed,true,false,false
+UA005104,12 Oct 14,10,Royal South Yarra,Lauriston,No. 1,Declan Albrecht,Jeremy Wang,Jeremy Wang,0-6,0,6,0,1,Completed,true,false,false
+UA005104,12 Oct 14,10,Royal South Yarra,Lauriston,No. 2,Henry Campbell,Misha Machlak,Misha Machlak,0-6,0,6,0,1,Completed,true,false,false
+UA005104,12 Oct 14,10,Royal South Yarra,Lauriston,No. 3,Hugo Druce,Michelle Volpert,Michelle Volpert,1-6,1,6,0,1,Completed,true,false,false
+UA005104,12 Oct 14,10,Royal South Yarra,Lauriston,No. 4,Vivienne Johnston,Angela Chen,Vivienne Johnston,6-2,6,2,1,0,Completed,true,false,false
+UA005111,19 Oct 14,11,Mordialloc,Royal South Yarra,No. 1,Mitchell Standfield,Declan Albrecht,Mitchell Standfield,6-1,6,1,1,0,Completed,true,false,false
+UA005111,19 Oct 14,11,Mordialloc,Royal South Yarra,No. 2,Mitch Pattison,Henry Campbell,Mitch Pattison,6-4,6,4,1,0,Completed,true,false,false
+UA005111,19 Oct 14,11,Mordialloc,Royal South Yarra,No. 3,Aryon Raghav,Hugo Druce,Aryon Raghav,6-1,6,1,1,0,Completed,true,false,false
+UA005111,19 Oct 14,11,Mordialloc,Royal South Yarra,No. 4,Liam Burke,Vivienne Johnston,Vivienne Johnston,1-6,1,6,0,1,Completed,true,false,false
+UA005112,19 Oct 14,11,Dendy Park,Kooyong Scotch,No. 1,Ethan Racine,Alexander Hick,Ethan Racine,6-2,6,2,1,0,Completed,true,false,false
+UA005112,19 Oct 14,11,Dendy Park,Kooyong Scotch,No. 2,Hugh Vuiller,Jake Zerman,Hugh Vuiller,6-4,6,4,1,0,Completed,true,false,false
+UA005112,19 Oct 14,11,Dendy Park,Kooyong Scotch,No. 3,Dean Metter,Ryan Smyth,Ryan Smyth,6-7,6,7,0,1,Completed,true,false,false
+UA005112,19 Oct 14,11,Dendy Park,Kooyong Scotch,No. 4,Sam Butler,Sam Palazzo,Sam Palazzo,0-6,0,6,0,1,Completed,true,false,false
+UA005114,19 Oct 14,11,Lauriston,Maccabi,No. 1,Misha Machlak,Maxim Kugel,Misha Machlak,6-3,6,3,1,0,Completed,true,false,false
+UA005114,19 Oct 14,11,Lauriston,Maccabi,No. 2,Lauren Earls,Marty Schwarz,Lauren Earls,7-6,7,6,1,0,Completed,true,false,false
+UA005114,19 Oct 14,11,Lauriston,Maccabi,No. 3,Michelle Volpert,Joshua Dorfan,Joshua Dorfan,5-7,5,7,0,1,Completed,true,false,false
+UA005114,19 Oct 14,11,Lauriston,Maccabi,No. 4,Angela Chen,Gabriella Bergman,Angela Chen,6-2,6,2,1,0,Completed,true,false,false
+UA005122,26 Oct 14,12,Kooyong Scotch,St Joan of Arc,No. 1,Nicholas Farmer,Jack Hart,Jack Hart,2-6,2,6,0,1,Completed,true,false,false
+UA005122,26 Oct 14,12,Kooyong Scotch,St Joan of Arc,No. 2,Alexander Hick,Sam Stevenson,Sam Stevenson,4-6,4,6,0,1,Completed,true,false,false
+UA005122,26 Oct 14,12,Kooyong Scotch,St Joan of Arc,No. 3,Sam Palazzo,James Trewin,James Trewin,2-6,2,6,0,1,Completed,true,false,false
+UA005122,26 Oct 14,12,Kooyong Scotch,St Joan of Arc,No. 4,Isabella Lucas,Josh Vaughan,Isabella Lucas,6-4,6,4,1,0,Completed,true,false,false
+UA005123,26 Oct 14,12,Maccabi,Royal South Yarra,No. 1,Jarryd Tauber,Declan Albrecht,Jarryd Tauber,6-0,6,0,1,0,Completed,true,false,false
+UA005123,26 Oct 14,12,Maccabi,Royal South Yarra,No. 2,Maxim Kugel,Henry Campbell,Maxim Kugel,6-2,6,2,1,0,Completed,true,false,false
+UA005123,26 Oct 14,12,Maccabi,Royal South Yarra,No. 3,Jordan Zalcman,Hugo Druce,Jordan Zalcman,6-0,6,0,1,0,Completed,true,false,false
+UA005123,26 Oct 14,12,Maccabi,Royal South Yarra,No. 4,Gabriella Bergman,Vivienne Johnston,Vivienne Johnston,3-6,3,6,0,1,Completed,true,false,false
+UA005124,26 Oct 14,12,Dendy Park,Mordialloc,No. 1,Sam Butler,Mitchell Standfield,Sam Butler,6-2,6,2,1,0,Completed,true,false,false
+UA005124,26 Oct 14,12,Dendy Park,Mordialloc,No. 2,Hugh Vuiller,Mitch Pattison,Hugh Vuiller,7-5,7,5,1,0,Completed,true,false,false
+UA005124,26 Oct 14,12,Dendy Park,Mordialloc,No. 3,Dean Metter,Aryon Raghav,Dean Metter,6-1,6,1,1,0,Completed,true,false,false
+UA005124,26 Oct 14,12,Dendy Park,Mordialloc,No. 4,Margo Vuiller,Lachlan Jones,Lachlan Jones,3-6,3,6,0,1,Completed,true,false,false
+UA005132,09 Nov 14,13,Mordialloc,Lauriston,No. 1,Kartik Sehgal,Athan Vlachos,Kartik Sehgal,6-3,6,3,1,0,Completed,true,false,false
+UA005132,09 Nov 14,13,Mordialloc,Lauriston,No. 2,Mitchell Standfield,Lauren Earls,Mitchell Standfield,6-3,6,3,1,0,Completed,true,false,false
+UA005132,09 Nov 14,13,Mordialloc,Lauriston,No. 3,Kunal Sehgal,Michelle Volpert,Kunal Sehgal,6-2,6,2,1,0,Completed,true,false,false
+UA005132,09 Nov 14,13,Mordialloc,Lauriston,No. 4,Aryon Raghav,Angela Chen,Aryon Raghav,6-4,6,4,1,0,Completed,true,false,false
+UA005133,09 Nov 14,13,Royal South Yarra,Kooyong Scotch,No. 1,Declan Albrecht,Nicholas Farmer,Nicholas Farmer,0-6,0,6,0,1,Completed,true,false,false
+UA005133,09 Nov 14,13,Royal South Yarra,Kooyong Scotch,No. 2,Henry Campbell,Gabriel Lennon,Gabriel Lennon,3-6,3,6,0,1,Completed,true,false,false
+UA005133,09 Nov 14,13,Royal South Yarra,Kooyong Scotch,No. 3,Hugo Druce,Alexander Hick,Hugo Druce,6-2,6,2,1,0,Completed,true,false,false
+UA005133,09 Nov 14,13,Royal South Yarra,Kooyong Scotch,No. 4,Vivienne Johnston,Sam Palazzo,Sam Palazzo,2-6,2,6,0,1,Completed,true,false,false
+UA005134,09 Nov 14,13,St Joan of Arc,Maccabi,No. 1,Jack Hart,Jarryd Tauber,Jack Hart,6-1,6,1,1,0,Completed,true,false,false
+UA005134,09 Nov 14,13,St Joan of Arc,Maccabi,No. 2,Sam Stevenson,Maxim Kugel,Sam Stevenson,6-3,6,3,1,0,Completed,true,false,false
+UA005134,09 Nov 14,13,St Joan of Arc,Maccabi,No. 3,James Trewin,Jordan Zalcman,James Trewin,6-3,6,3,1,0,Completed,true,false,false
+UA005134,09 Nov 14,13,St Joan of Arc,Maccabi,No. 4,Josh Vaughan,Marty Schwarz,Marty Schwarz,0-6,0,6,0,1,Completed,true,false,false
+UA005301,,16,Dendy Park,Kooyong Scotch,No. 1,Ethan Racine,Nicholas Farmer,Ethan Racine,6-3,6,3,1,0,Completed,true,false,false
+UA005301,,16,Dendy Park,Kooyong Scotch,No. 2,Sam Butler,Gabriel Lennon,Gabriel Lennon,3-6,3,6,0,1,Completed,true,false,false
+UA005301,,16,Dendy Park,Kooyong Scotch,No. 3,Hugh Vuiller,Alexander Hick,Hugh Vuiller,6-1,6,1,1,0,Completed,true,false,false
+UA005301,,16,Dendy Park,Kooyong Scotch,No. 4,Dean Metter,Jake Zerman,Dean Metter,6-2,6,2,1,0,Completed,true,false,false
+UA005302,,16,St Joan of Arc,Mordialloc,No. 1,Jack Hart,Kartik Sehgal,Jack Hart,6-2,6,2,1,0,Completed,true,false,false
+UA005302,,16,St Joan of Arc,Mordialloc,No. 2,Sam Stevenson,Mitchell Standfield,Sam Stevenson,6-3,6,3,1,0,Completed,true,false,false
+UA005302,,16,St Joan of Arc,Mordialloc,No. 3,James Trewin,Kunal Sehgal,James Trewin,6-4,6,4,1,0,Completed,true,false,false
+UA005302,,16,St Joan of Arc,Mordialloc,No. 4,Max Farrel,Aryon Raghav,Max Farrel,6-4,6,4,1,0,Completed,true,false,false
+UA005321,,17,Dendy Park,St Joan of Arc,No. 1,Ethan Racine,Jack Hart,Jack Hart,0-6,0,6,0,1,Completed,true,false,false
+UA005321,,17,Dendy Park,St Joan of Arc,No. 2,Sam Butler,Sam Stevenson,Sam Butler,6-4,6,4,1,0,Completed,true,false,false
+UA005321,,17,Dendy Park,St Joan of Arc,No. 3,Dean Metter,James Trewin,Dean Metter,6-3,6,3,1,0,Completed,true,false,false
+UA005321,,17,Dendy Park,St Joan of Arc,No. 4,Cooper Gibbs,Max Farrel,Cooper Gibbs,6-3,6,3,1,0,Completed,true,false,false

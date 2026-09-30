@@ -1,0 +1,75 @@
+{
+  "asset_id": "UA38-UA001",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2026",
+  "season_id": "UA38",
+  "season_label": "Autumn 2026",
+  "source_section_code": "UA001",
+  "section_label": "Rubbers 1",
+  "format": "rubbers",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC Purple",
+      "wins": 9,
+      "points": 72,
+      "percentage": 136.98,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Black Rock",
+      "wins": 8,
+      "points": 63,
+      "percentage": 127.57,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Highmoor Uniting",
+      "wins": 6,
+      "points": 54,
+      "percentage": 114.39,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Royal South Yarra",
+      "wins": 7,
+      "points": 53,
+      "percentage": 93.51,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC Blue",
+      "wins": 5,
+      "points": 52.5,
+      "percentage": 84.93,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Mentone",
+      "wins": 3,
+      "points": 27.5,
+      "percentage": 59.29,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA38-UA001",
+  "fixtures": 46,
+  "completed_fixtures": 38,
+  "draw_fixtures": 57,
+  "singles_rubbers": 76,
+  "doubles_rubbers": 38,
+  "latest_round": 16,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

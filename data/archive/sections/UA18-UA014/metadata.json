@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA18-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2016",
+  "season_id": "UA18",
+  "season_label": "Autumn 2016",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Highmoor Uniting",
+      "wins": 12,
+      "points": 118,
+      "percentage": 196.83,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "GPHC",
+      "wins": 9,
+      "points": 104,
+      "percentage": 185.58,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kings Park",
+      "wins": 8,
+      "points": 78,
+      "percentage": 105.56,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 5,
+      "points": 65,
+      "percentage": 92.33,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Lauriston",
+      "wins": 6,
+      "points": 63,
+      "percentage": 92.76,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Tennis World",
+      "wins": 5,
+      "points": 60,
+      "percentage": 88.95,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Beaumaris CC",
+      "wins": 3,
+      "points": 54,
+      "percentage": 82.83,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC MLC",
+      "wins": 1,
+      "points": 18,
+      "percentage": 42.35,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA18-UA014",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 211,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

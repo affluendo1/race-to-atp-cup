@@ -1,0 +1,217 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA002011,20 Jul 14,1,Royal South Yarra 1,Royal South Yarra 2,No. 1,Liam Albrecht,Johnny Cameron,Liam Albrecht,6-2,6,2,1,0,Completed,true,false,false
+UA002011,20 Jul 14,1,Royal South Yarra 1,Royal South Yarra 2,No. 2,Will Anders,Lachlan Kemp,Will Anders,6-4,6,4,1,0,Completed,true,false,false
+UA002011,20 Jul 14,1,Royal South Yarra 1,Royal South Yarra 2,No. 3,Alex Robinson,Henry Gannon,Alex Robinson,6-2,6,2,1,0,Completed,true,false,false
+UA002011,20 Jul 14,1,Royal South Yarra 1,Royal South Yarra 2,No. 4,Maxim Fisher,Oliver Ritman,Maxim Fisher,6-0,6,0,1,0,Completed,true,false,false
+UA002012,20 Jul 14,1,Parkdale,Mordialloc,No. 1,Sean Vandenbroek,Sahishnu Siva-Ram,Sean Vandenbroek,6-1,6,1,1,0,Completed,true,false,false
+UA002012,20 Jul 14,1,Parkdale,Mordialloc,No. 2,Tyler Bradley,Chelsea Dutt,Chelsea Dutt,0-6,0,6,0,1,Completed,true,false,false
+UA002012,20 Jul 14,1,Parkdale,Mordialloc,No. 3,Fion Macredmond,Elise Larkins,Fion Macredmond,6-1,6,1,1,0,Completed,true,false,false
+UA002012,20 Jul 14,1,Parkdale,Mordialloc,No. 4,Sean Enright,Aimee Vuong,Sean Enright,6-3,6,3,1,0,Completed,true,false,false
+UA002013,20 Jul 14,1,Carmelite,Coatesville,No. 1,Johnathon Wu,Hugh Keenan,Johnathon Wu,6-2,6,2,1,0,Completed,true,false,false
+UA002013,20 Jul 14,1,Carmelite,Coatesville,No. 2,Blake Hillebrand,Domenic Hyunh,Blake Hillebrand,6-2,6,2,1,0,Completed,true,false,false
+UA002013,20 Jul 14,1,Carmelite,Coatesville,No. 3,Laura Gilbertson,James Alevizos,Laura Gilbertson,6-3,6,3,1,0,Completed,true,false,false
+UA002013,20 Jul 14,1,Carmelite,Coatesville,No. 4,Cathryn Goh,Michael Gershezan,Michael Gershezan,5-7,5,7,0,1,Completed,true,false,false
+UA002014,20 Jul 14,1,GPHC,Kooyong,No. 1,Max Double,Zac Stathis,Zac Stathis,1-6,1,6,0,1,Completed,true,false,false
+UA002014,20 Jul 14,1,GPHC,Kooyong,No. 2,Georgia Deacon,Damon Bernard,Damon Bernard,1-6,1,6,0,1,Completed,true,false,false
+UA002014,20 Jul 14,1,GPHC,Kooyong,No. 3,Alex Chauhan,Andrew Harris,Andrew Harris,2-6,2,6,0,1,Completed,true,false,false
+UA002014,20 Jul 14,1,GPHC,Kooyong,No. 4,Lachie Brown-Rogers,Andrew Argyrou,Andrew Argyrou,1-6,1,6,0,1,Completed,true,false,false
+UA002021,27 Jul 14,2,Kooyong,Royal South Yarra 1,No. 1,Zac Stathis,Liam Albrecht,Zac Stathis,6-4,6,4,1,0,Completed,true,false,false
+UA002021,27 Jul 14,2,Kooyong,Royal South Yarra 1,No. 2,Damon Bernard,Will Anders,Damon Bernard,6-1,6,1,1,0,Completed,true,false,false
+UA002021,27 Jul 14,2,Kooyong,Royal South Yarra 1,No. 3,Andrew Harris,Alex Robinson,Andrew Harris,6-0,6,0,1,0,Completed,true,false,false
+UA002021,27 Jul 14,2,Kooyong,Royal South Yarra 1,No. 4,Kristofer Hyde,Maxim Fisher,Maxim Fisher,3-6,3,6,0,1,Completed,true,false,false
+UA002022,27 Jul 14,2,Royal South Yarra 2,Parkdale,No. 1,Lachlan Kemp,Nicholas Charlson,Nicholas Charlson,2-6,2,6,0,1,Completed,true,false,false
+UA002022,27 Jul 14,2,Royal South Yarra 2,Parkdale,No. 2,Oliver Ritman,Sean Vandenbroek,Sean Vandenbroek,0-6,0,6,0,1,Completed,true,false,false
+UA002022,27 Jul 14,2,Royal South Yarra 2,Parkdale,No. 3,Charlie Aitken,Angus Catt,Angus Catt,0-6,0,6,0,1,Completed,true,false,false
+UA002022,27 Jul 14,2,Royal South Yarra 2,Parkdale,No. 4,Eliza O'Farrell,Damian Basterfield,Eliza O'Farrell,6-4,6,4,1,0,Completed,true,false,false
+UA002023,27 Jul 14,2,Mordialloc,Carmelite,No. 1,Sahishnu Siva-Ram,Johnathon Wu,Sahishnu Siva-Ram,6-1,6,1,1,0,Completed,true,false,false
+UA002023,27 Jul 14,2,Mordialloc,Carmelite,No. 2,Chelsea Dutt,Blake Hillebrand,Chelsea Dutt,6-0,6,0,1,0,Completed,true,false,false
+UA002023,27 Jul 14,2,Mordialloc,Carmelite,No. 3,Elise Larkins,Laura Gilbertson,Laura Gilbertson,4-6,4,6,0,1,Completed,true,false,false
+UA002023,27 Jul 14,2,Mordialloc,Carmelite,No. 4,Rashini Herath,Cathryn Goh,Cathryn Goh,0-6,0,6,0,1,Completed,true,false,false
+UA002024,27 Jul 14,2,Coatesville,GPHC,No. 1,Andrew Chen,Charlie Zagon-Davies,Andrew Chen,6-4,6,4,1,0,Completed,true,false,false
+UA002024,27 Jul 14,2,Coatesville,GPHC,No. 2,Hugh Keenan,Max Double,Hugh Keenan,6-4,6,4,1,0,Completed,true,false,false
+UA002024,27 Jul 14,2,Coatesville,GPHC,No. 3,Domenic Hyunh,Georgia Deacon,Domenic Hyunh,6-0,6,0,1,0,Completed,true,false,false
+UA002024,27 Jul 14,2,Coatesville,GPHC,No. 4,James Alevizos,Lachie Brown-Rogers,James Alevizos,6-2,6,2,1,0,Completed,true,false,false
+UA002031,03 Aug 14,3,Royal South Yarra 1,Coatesville,No. 1,Liam Albrecht,Andrew Chen,Andrew Chen,2-6,2,6,0,1,Completed,true,false,false
+UA002031,03 Aug 14,3,Royal South Yarra 1,Coatesville,No. 2,Will Anders,Domenic Hyunh,Will Anders,6-2,6,2,1,0,Completed,true,false,false
+UA002031,03 Aug 14,3,Royal South Yarra 1,Coatesville,No. 3,Alex Robinson,James Alevizos,James Alevizos,4-6,4,6,0,1,Completed,true,false,false
+UA002031,03 Aug 14,3,Royal South Yarra 1,Coatesville,No. 4,Maxim Fisher,Michael Gershezan,Michael Gershezan,5-7,5,7,0,1,Completed,true,false,false
+UA002032,03 Aug 14,3,Parkdale,Kooyong,No. 1,Nicholas Charlson,Zac Stathis,Zac Stathis,5-7,5,7,0,1,Completed,true,false,false
+UA002032,03 Aug 14,3,Parkdale,Kooyong,No. 2,Sean Vandenbroek,Kristofer Hyde,Sean Vandenbroek,6-4,6,4,1,0,Completed,true,false,false
+UA002032,03 Aug 14,3,Parkdale,Kooyong,No. 3,Angus Catt,Andrew Argyrou,Angus Catt,6-4,6,4,1,0,Completed,true,false,false
+UA002032,03 Aug 14,3,Parkdale,Kooyong,No. 4,Tyler Bradley,Harry Amad,Tyler Bradley,6-0,6,0,1,0,Completed,true,false,false
+UA002033,03 Aug 14,3,Carmelite,Royal South Yarra 2,No. 1,Blake Hillebrand,Johnny Cameron,Blake Hillebrand,6-3,6,3,1,0,Completed,true,false,false
+UA002033,03 Aug 14,3,Carmelite,Royal South Yarra 2,No. 2,Laura Gilbertson,Lachlan Kemp,Laura Gilbertson,7-5,7,5,1,0,Completed,true,false,false
+UA002033,03 Aug 14,3,Carmelite,Royal South Yarra 2,No. 3,Cathryn Goh,Henry Gannon,Cathryn Goh,6-1,6,1,1,0,Completed,true,false,false
+UA002033,03 Aug 14,3,Carmelite,Royal South Yarra 2,No. 4,Edward Holland,Oliver Ritman,Oliver Ritman,0-6,0,6,0,1,Completed,true,false,false
+UA002034,03 Aug 14,3,GPHC,Mordialloc,No. 1,Charlie Zagon-Davies,Sahishnu Siva-Ram,Sahishnu Siva-Ram,2-6,2,6,0,1,Completed,true,false,false
+UA002034,03 Aug 14,3,GPHC,Mordialloc,No. 2,Max Double,Chelsea Dutt,Chelsea Dutt,3-6,3,6,0,1,Completed,true,false,false
+UA002034,03 Aug 14,3,GPHC,Mordialloc,No. 3,Georgia Deacon,Mina McMahon,Georgia Deacon,6-0,6,0,1,0,Completed,true,false,false
+UA002034,03 Aug 14,3,GPHC,Mordialloc,No. 4,Lachie Brown-Rogers,Aimee Vuong,Lachie Brown-Rogers,6-0,6,0,1,0,Completed,true,false,false
+UA002041,10 Aug 14,4,Mordialloc,Royal South Yarra 1,No. 1,Sahishnu Siva-Ram,Liam Albrecht,Sahishnu Siva-Ram,6-0,6,0,1,0,Completed,true,false,false
+UA002041,10 Aug 14,4,Mordialloc,Royal South Yarra 1,No. 2,Elise Larkins,Will Anders,Will Anders,2-6,2,6,0,1,Completed,true,false,false
+UA002041,10 Aug 14,4,Mordialloc,Royal South Yarra 1,No. 3,Aimee Vuong,Alex Robinson,Aimee Vuong,6-0,6,0,1,0,Completed,true,false,false
+UA002041,10 Aug 14,4,Mordialloc,Royal South Yarra 1,No. 4,Mina McMahon,Maxim Fisher,Maxim Fisher,3-6,3,6,0,1,Completed,true,false,false
+UA002042,10 Aug 14,4,Coatesville,Parkdale,No. 1,Hugh Callaghan,Sean Vandenbroek,Sean Vandenbroek,1-6,1,6,0,1,Completed,true,false,false
+UA002042,10 Aug 14,4,Coatesville,Parkdale,No. 2,Hugh Keenan,Tyler Bradley,Tyler Bradley,2-6,2,6,0,1,Completed,true,false,false
+UA002042,10 Aug 14,4,Coatesville,Parkdale,No. 3,James Alevizos,Damian Basterfield,Damian Basterfield,1-6,1,6,0,1,Completed,true,false,false
+UA002042,10 Aug 14,4,Coatesville,Parkdale,No. 4,Michael Gershezan,Max Grimm,Michael Gershezan,6-4,6,4,1,0,Completed,true,false,false
+UA002043,10 Aug 14,4,Kooyong,Carmelite,No. 1,Zac Stathis,Cathryn Goh,Zac Stathis,6-0,6,0,1,0,Completed,true,false,false
+UA002043,10 Aug 14,4,Kooyong,Carmelite,No. 2,Damon Bernard,Laura Gilbertson,Damon Bernard,6-4,6,4,1,0,Completed,true,false,false
+UA002043,10 Aug 14,4,Kooyong,Carmelite,No. 3,Kristofer Hyde,Max Hayward,Kristofer Hyde,6-0,6,0,1,0,Completed,true,false,false
+UA002043,10 Aug 14,4,Kooyong,Carmelite,No. 4,Andrew Argyrou,Jack Saunders,Andrew Argyrou,6-0,6,0,1,0,Completed,true,false,false
+UA002044,10 Aug 14,4,Royal South Yarra 2,GPHC,No. 1,Johnny Cameron,Charlie Zagon-Davies,Charlie Zagon-Davies,5-7,5,7,0,1,Completed,true,false,false
+UA002044,10 Aug 14,4,Royal South Yarra 2,GPHC,No. 2,Oliver Ritman,Max Double,Max Double,4-6,4,6,0,1,Completed,true,false,false
+UA002044,10 Aug 14,4,Royal South Yarra 2,GPHC,No. 3,Lachlan Clarke,Alex Chauhan,Alex Chauhan,1-6,1,6,0,1,Completed,true,false,false
+UA002044,10 Aug 14,4,Royal South Yarra 2,GPHC,No. 4,Eliza O'Farrell,Lachie Brown-Rogers,Eliza O'Farrell,6-1,6,1,1,0,Completed,true,false,false
+UA002051,17 Aug 14,5,Carmelite,GPHC,No. 1,Blake Hillebrand,Max Double,Max Double,1-6,1,6,0,1,Completed,true,false,false
+UA002051,17 Aug 14,5,Carmelite,GPHC,No. 2,Laura Gilbertson,Georgia Deacon,Laura Gilbertson,6-1,6,1,1,0,Completed,true,false,false
+UA002051,17 Aug 14,5,Carmelite,GPHC,No. 3,Cathryn Goh,Lachie Brown-Rogers,Cathryn Goh,6-0,6,0,1,0,Completed,true,false,false
+UA002051,17 Aug 14,5,Carmelite,GPHC,No. 4,Jack Saunders,Donald Quach,Donald Quach,2-6,2,6,0,1,Completed,true,false,false
+UA002052,17 Aug 14,5,Kooyong,Coatesville,No. 1,Damon Bernard,Andrew Chen,Andrew Chen,5-7,5,7,0,1,Completed,true,false,false
+UA002052,17 Aug 14,5,Kooyong,Coatesville,No. 2,Andrew Harris,Hugh Keenan,Andrew Harris,6-1,6,1,1,0,Completed,true,false,false
+UA002052,17 Aug 14,5,Kooyong,Coatesville,No. 3,Kristofer Hyde,Domenic Hyunh,Kristofer Hyde,6-2,6,2,1,0,Completed,true,false,false
+UA002052,17 Aug 14,5,Kooyong,Coatesville,No. 4,Harry Amad,Michael Gershezan,Michael Gershezan,1-6,1,6,0,1,Completed,true,false,false
+UA002053,17 Aug 14,5,Mordialloc,Royal South Yarra 2,No. 1,Sahishnu Siva-Ram,Henry Gannon,Sahishnu Siva-Ram,6-1,6,1,1,0,Completed,true,false,false
+UA002053,17 Aug 14,5,Mordialloc,Royal South Yarra 2,No. 2,Chelsea Dutt,Jasper Fisher,Chelsea Dutt,6-0,6,0,1,0,Completed,true,false,false
+UA002053,17 Aug 14,5,Mordialloc,Royal South Yarra 2,No. 3,Aimee Vuong,Lachlan Clarke,Aimee Vuong,6-2,6,2,1,0,Completed,true,false,false
+UA002053,17 Aug 14,5,Mordialloc,Royal South Yarra 2,No. 4,Mina McMahon,Eliza O'Farrell,Eliza O'Farrell,2-6,2,6,0,1,Completed,true,false,false
+UA002054,17 Aug 14,5,Royal South Yarra 1,Parkdale,No. 1,Liam Albrecht,Nicholas Charlson,Nicholas Charlson,5-7,5,7,0,1,Completed,true,false,false
+UA002054,17 Aug 14,5,Royal South Yarra 1,Parkdale,No. 2,Rupert Mosley,Sean Vandenbroek,Rupert Mosley,6-2,6,2,1,0,Completed,true,false,false
+UA002054,17 Aug 14,5,Royal South Yarra 1,Parkdale,No. 3,Alex Robinson,Tyler Bradley,Tyler Bradley,2-6,2,6,0,1,Completed,true,false,false
+UA002054,17 Aug 14,5,Royal South Yarra 1,Parkdale,No. 4,Maxim Fisher,Max Grimm,Maxim Fisher,7-6,7,6,1,0,Completed,true,false,false
+UA002062,24 Aug 14,6,GPHC,Royal South Yarra 1,No. 1,Charlie Zagon-Davies,Liam Albrecht,Charlie Zagon-Davies,7-5,7,5,1,0,Completed,true,false,false
+UA002062,24 Aug 14,6,GPHC,Royal South Yarra 1,No. 2,Georgia Deacon,Will Anders,Will Anders,2-6,2,6,0,1,Completed,true,false,false
+UA002062,24 Aug 14,6,GPHC,Royal South Yarra 1,No. 3,Alex Chauhan,Alex Joubert,Alex Chauhan,6-0,6,0,1,0,Completed,true,false,false
+UA002062,24 Aug 14,6,GPHC,Royal South Yarra 1,No. 4,Donald Quach,Nick Shelmerdine,Nick Shelmerdine,3-6,3,6,0,1,Completed,true,false,false
+UA002063,24 Aug 14,6,Coatesville,Mordialloc,No. 1,Andrew Chen,Sahishnu Siva-Ram,Sahishnu Siva-Ram,1-6,1,6,0,1,Completed,true,false,false
+UA002063,24 Aug 14,6,Coatesville,Mordialloc,No. 2,Domenic Hyunh,Chelsea Dutt,Chelsea Dutt,1-6,1,6,0,1,Completed,true,false,false
+UA002063,24 Aug 14,6,Coatesville,Mordialloc,No. 3,James Alevizos,Elise Larkins,Elise Larkins,4-6,4,6,0,1,Completed,true,false,false
+UA002063,24 Aug 14,6,Coatesville,Mordialloc,No. 4,Michael Gershezan,Rashini Herath,Michael Gershezan,6-0,6,0,1,0,Completed,true,false,false
+UA002064,24 Aug 14,6,Royal South Yarra 2,Kooyong,No. 1,Johnny Cameron,Zac Stathis,Zac Stathis,2-6,2,6,0,1,Completed,true,false,false
+UA002064,24 Aug 14,6,Royal South Yarra 2,Kooyong,No. 2,Lachlan Kemp,Damon Bernard,Damon Bernard,2-6,2,6,0,1,Completed,true,false,false
+UA002064,24 Aug 14,6,Royal South Yarra 2,Kooyong,No. 3,Charlie Aitken,Andrew Harris,Andrew Harris,2-6,2,6,0,1,Completed,true,false,false
+UA002064,24 Aug 14,6,Royal South Yarra 2,Kooyong,No. 4,Lachlan Clarke,Harry Amad,Lachlan Clarke,6-4,6,4,1,0,Completed,true,false,false
+UA002071,31 Aug 14,7,Royal South Yarra 1,Carmelite,No. 1,Liam Albrecht,Johnathon Wu,Johnathon Wu,0-6,0,6,0,1,Completed,true,false,false
+UA002071,31 Aug 14,7,Royal South Yarra 1,Carmelite,No. 2,Will Anders,Laura Gilbertson,Will Anders,6-1,6,1,1,0,Completed,true,false,false
+UA002071,31 Aug 14,7,Royal South Yarra 1,Carmelite,No. 3,Alex Robinson,Cathryn Goh,Alex Robinson,7-6,7,6,1,0,Completed,true,false,false
+UA002071,31 Aug 14,7,Royal South Yarra 1,Carmelite,No. 4,Maxim Fisher,Jack Saunders,Maxim Fisher,6-1,6,1,1,0,Completed,true,false,false
+UA002072,31 Aug 14,7,Parkdale,GPHC,No. 1,Nicholas Charlson,Charlie Zagon-Davies,Nicholas Charlson,6-2,6,2,1,0,Completed,true,false,false
+UA002072,31 Aug 14,7,Parkdale,GPHC,No. 2,Sean Vandenbroek,Max Double,Sean Vandenbroek,7-5,7,5,1,0,Completed,true,false,false
+UA002072,31 Aug 14,7,Parkdale,GPHC,No. 3,Tyler Bradley,Georgia Deacon,Tyler Bradley,6-2,6,2,1,0,Completed,true,false,false
+UA002072,31 Aug 14,7,Parkdale,GPHC,No. 4,Damian Basterfield,Alex Chauhan,Damian Basterfield,7-6,7,6,1,0,Completed,true,false,false
+UA002073,31 Aug 14,7,Kooyong,Mordialloc,No. 1,Damon Bernard,Elise Larkins,Damon Bernard,6-0,6,0,1,0,Completed,true,false,false
+UA002073,31 Aug 14,7,Kooyong,Mordialloc,No. 2,Andrew Harris,Aimee Vuong,Aimee Vuong,5-7,5,7,0,1,Completed,true,false,false
+UA002073,31 Aug 14,7,Kooyong,Mordialloc,No. 3,Andrew Argyrou,Mina McMahon,Andrew Argyrou,6-2,6,2,1,0,Completed,true,false,false
+UA002073,31 Aug 14,7,Kooyong,Mordialloc,No. 4,Harry Amad,Rashini Herath,Harry Amad,6-0,6,0,1,0,Completed,true,false,false
+UA002074,31 Aug 14,7,Coatesville,Royal South Yarra 2,No. 1,Hugh Keenan,Henry Gannon,Hugh Keenan,6-4,6,4,1,0,Completed,true,false,false
+UA002074,31 Aug 14,7,Coatesville,Royal South Yarra 2,No. 2,Domenic Hyunh,Jasper Fisher,Domenic Hyunh,6-2,6,2,1,0,Completed,true,false,false
+UA002074,31 Aug 14,7,Coatesville,Royal South Yarra 2,No. 3,James Alevizos,Lachlan Clarke,James Alevizos,6-0,6,0,1,0,Completed,true,false,false
+UA002074,31 Aug 14,7,Coatesville,Royal South Yarra 2,No. 4,Michael Gershezan,Thomas Spargo,Michael Gershezan,7-6,7,6,1,0,Completed,true,false,false
+UA002081,07 Sep 14,8,Royal South Yarra 2,Royal South Yarra 1,No. 1,Charlie Aitken,Liam Albrecht,Liam Albrecht,3-6,3,6,0,1,Completed,true,false,false
+UA002081,07 Sep 14,8,Royal South Yarra 2,Royal South Yarra 1,No. 2,Claudia Albert,Will Anders,Will Anders,1-6,1,6,0,1,Completed,true,false,false
+UA002081,07 Sep 14,8,Royal South Yarra 2,Royal South Yarra 1,No. 3,Oliver Ritman,Alex Robinson,Alex Robinson,0-6,0,6,0,1,Completed,true,false,false
+UA002081,07 Sep 14,8,Royal South Yarra 2,Royal South Yarra 1,No. 4,Bill Cameron,Maxim Fisher,Maxim Fisher,1-6,1,6,0,1,Completed,true,false,false
+UA002082,07 Sep 14,8,Mordialloc,Parkdale,No. 1,Chelsea Dutt,Nicholas Charlson,Nicholas Charlson,3-6,3,6,0,1,Completed,true,false,false
+UA002082,07 Sep 14,8,Mordialloc,Parkdale,No. 2,Aimee Vuong,Sean Vandenbroek,Sean Vandenbroek,6-7,6,7,0,1,Completed,true,false,false
+UA002082,07 Sep 14,8,Mordialloc,Parkdale,No. 3,Mina McMahon,Angus Catt,Angus Catt,1-6,1,6,0,1,Completed,true,false,false
+UA002082,07 Sep 14,8,Mordialloc,Parkdale,No. 4,Rashini Herath,Damian Basterfield,Damian Basterfield,0-6,0,6,0,1,Completed,true,false,false
+UA002083,07 Sep 14,8,Coatesville,Carmelite,No. 1,Andrew Chen,Johnathon Wu,Johnathon Wu,2-6,2,6,0,1,Completed,true,false,false
+UA002083,07 Sep 14,8,Coatesville,Carmelite,No. 2,Hugh Keenan,Blake Hillebrand,Blake Hillebrand,3-6,3,6,0,1,Completed,true,false,false
+UA002083,07 Sep 14,8,Coatesville,Carmelite,No. 3,Domenic Hyunh,Laura Gilbertson,Laura Gilbertson,1-6,1,6,0,1,Completed,true,false,false
+UA002083,07 Sep 14,8,Coatesville,Carmelite,No. 4,James Alevizos,Cathryn Goh,Cathryn Goh,4-6,4,6,0,1,Completed,true,false,false
+UA002084,07 Sep 14,8,Kooyong,GPHC,No. 1,Damon Bernard,Max Double,Damon Bernard,6-1,6,1,1,0,Completed,true,false,false
+UA002084,07 Sep 14,8,Kooyong,GPHC,No. 2,Kristofer Hyde,Alex Chauhan,Kristofer Hyde,6-2,6,2,1,0,Completed,true,false,false
+UA002084,07 Sep 14,8,Kooyong,GPHC,No. 3,Andrew Argyrou,Lachie Brown-Rogers,Andrew Argyrou,6-1,6,1,1,0,Completed,true,false,false
+UA002084,07 Sep 14,8,Kooyong,GPHC,No. 4,Harry Amad,Donald Quach,Donald Quach,3-6,3,6,0,1,Completed,true,false,false
+UA002091,14 Sep 14,9,Royal South Yarra 1,Kooyong,No. 1,Liam Albrecht,Zac Stathis,Zac Stathis,2-6,2,6,0,1,Completed,true,false,false
+UA002091,14 Sep 14,9,Royal South Yarra 1,Kooyong,No. 2,Will Anders,Damon Bernard,Damon Bernard,2-6,2,6,0,1,Completed,true,false,false
+UA002091,14 Sep 14,9,Royal South Yarra 1,Kooyong,No. 3,Alex Robinson,Andrew Harris,Andrew Harris,0-6,0,6,0,1,Completed,true,false,false
+UA002091,14 Sep 14,9,Royal South Yarra 1,Kooyong,No. 4,Maxim Fisher,Andrew Argyrou,Andrew Argyrou,5-7,5,7,0,1,Completed,true,false,false
+UA002092,14 Sep 14,9,Parkdale,Royal South Yarra 2,No. 1,Nicholas Charlson,Oliver Ritman,Nicholas Charlson,6-0,6,0,1,0,Completed,true,false,false
+UA002092,14 Sep 14,9,Parkdale,Royal South Yarra 2,No. 2,Sean Vandenbroek,Charlie Aitken,Sean Vandenbroek,6-2,6,2,1,0,Completed,true,false,false
+UA002092,14 Sep 14,9,Parkdale,Royal South Yarra 2,No. 3,Tyler Bradley,Sam McLean,Tyler Bradley,6-0,6,0,1,0,Completed,true,false,false
+UA002092,14 Sep 14,9,Parkdale,Royal South Yarra 2,No. 4,Damian Basterfield,Charlotte Ritman,Damian Basterfield,6-0,6,0,1,0,Completed,true,false,false
+UA002093,14 Sep 14,9,Carmelite,Mordialloc,No. 1,Johnathon Wu,Sahishnu Siva-Ram,Johnathon Wu,6-3,6,3,1,0,Completed,true,false,false
+UA002093,14 Sep 14,9,Carmelite,Mordialloc,No. 2,Blake Hillebrand,Chelsea Dutt,Chelsea Dutt,6-7,6,7,0,1,Completed,true,false,false
+UA002093,14 Sep 14,9,Carmelite,Mordialloc,No. 3,Laura Gilbertson,Aimee Vuong,Aimee Vuong,2-6,2,6,0,1,Completed,true,false,false
+UA002093,14 Sep 14,9,Carmelite,Mordialloc,No. 4,Tia Baptista,Rashini Herath,Tia Baptista,6-1,6,1,1,0,Completed,true,false,false
+UA002094,14 Sep 14,9,GPHC,Coatesville,No. 1,Charlie Zagon-Davies,Hugh Keenan,Charlie Zagon-Davies,6-0,6,0,1,0,Completed,true,false,false
+UA002094,14 Sep 14,9,GPHC,Coatesville,No. 2,Georgia Deacon,George Rollis,Georgia Deacon,6-3,6,3,1,0,Completed,true,false,false
+UA002094,14 Sep 14,9,GPHC,Coatesville,No. 3,Alex Chauhan,James Alevizos,James Alevizos,4-6,4,6,0,1,Completed,true,false,false
+UA002094,14 Sep 14,9,GPHC,Coatesville,No. 4,Lachie Brown-Rogers,Michael Gershezan,Michael Gershezan,0-6,0,6,0,1,Completed,true,false,false
+UA002101,12 Oct 14,10,Coatesville,Royal South Yarra 1,No. 1,Andrew Chen,Liam Albrecht,Liam Albrecht,4-6,4,6,0,1,Completed,true,false,false
+UA002101,12 Oct 14,10,Coatesville,Royal South Yarra 1,No. 2,Hugh Callaghan,Will Anders,Will Anders,0-6,0,6,0,1,Completed,true,false,false
+UA002101,12 Oct 14,10,Coatesville,Royal South Yarra 1,No. 3,Domenic Hyunh,Maxim Fisher,Maxim Fisher,6-7,6,7,0,1,Completed,true,false,false
+UA002101,12 Oct 14,10,Coatesville,Royal South Yarra 1,No. 4,James Alevizos,Rupert Mosley,Rupert Mosley,1-6,1,6,0,1,Completed,true,false,false
+UA002102,12 Oct 14,10,Kooyong,Parkdale,No. 1,Zac Stathis,Nicholas Charlson,Zac Stathis,6-2,6,2,1,0,Completed,true,false,false
+UA002102,12 Oct 14,10,Kooyong,Parkdale,No. 2,Damon Bernard,Sean Vandenbroek,Damon Bernard,6-0,6,0,1,0,Completed,true,false,false
+UA002102,12 Oct 14,10,Kooyong,Parkdale,No. 3,Andrew Harris,Tyler Bradley,Andrew Harris,6-0,6,0,1,0,Completed,true,false,false
+UA002102,12 Oct 14,10,Kooyong,Parkdale,No. 4,Kristofer Hyde,Damian Basterfield,Kristofer Hyde,6-4,6,4,1,0,Completed,true,false,false
+UA002103,12 Oct 14,10,Royal South Yarra 2,Carmelite,No. 1,Johnny Cameron,Blake Hillebrand,Blake Hillebrand,3-6,3,6,0,1,Completed,true,false,false
+UA002103,12 Oct 14,10,Royal South Yarra 2,Carmelite,No. 2,Lachlan Kemp,Cathryn Goh,Lachlan Kemp,7-5,7,5,1,0,Completed,true,false,false
+UA002103,12 Oct 14,10,Royal South Yarra 2,Carmelite,No. 3,Henry Gannon,Tia Baptista,Tia Baptista,1-6,1,6,0,1,Completed,true,false,false
+UA002103,12 Oct 14,10,Royal South Yarra 2,Carmelite,No. 4,Oliver Ritman,Marcus Vale,Marcus Vale,2-6,2,6,0,1,Completed,true,false,false
+UA002104,12 Oct 14,10,Mordialloc,GPHC,No. 1,Chelsea Dutt,Charlie Zagon-Davies,Chelsea Dutt,6-4,6,4,1,0,Completed,true,false,false
+UA002104,12 Oct 14,10,Mordialloc,GPHC,No. 2,Elise Larkins,Georgia Deacon,Georgia Deacon,0-6,0,6,0,1,Completed,true,false,false
+UA002104,12 Oct 14,10,Mordialloc,GPHC,No. 3,Aimee Vuong,Alex Chauhan,Aimee Vuong,6-2,6,2,1,0,Completed,true,false,false
+UA002104,12 Oct 14,10,Mordialloc,GPHC,No. 4,Rashini Herath,Donald Quach,Donald Quach,2-6,2,6,0,1,Completed,true,false,false
+UA002111,19 Oct 14,11,Royal South Yarra 1,Mordialloc,No. 1,Liam Albrecht,Sahishnu Siva-Ram,Sahishnu Siva-Ram,1-6,1,6,0,1,Completed,true,false,false
+UA002111,19 Oct 14,11,Royal South Yarra 1,Mordialloc,No. 2,Will Anders,Elise Larkins,Will Anders,6-0,6,0,1,0,Completed,true,false,false
+UA002111,19 Oct 14,11,Royal South Yarra 1,Mordialloc,No. 3,Alex Robinson,Mina McMahon,Alex Robinson,6-2,6,2,1,0,Completed,true,false,false
+UA002111,19 Oct 14,11,Royal South Yarra 1,Mordialloc,No. 4,Maxim Fisher,Rashini Herath,Maxim Fisher,6-2,6,2,1,0,Completed,true,false,false
+UA002112,19 Oct 14,11,Parkdale,Coatesville,No. 1,Nicholas Charlson,Andrew Chen,Nicholas Charlson,6-4,6,4,1,0,Completed,true,false,false
+UA002112,19 Oct 14,11,Parkdale,Coatesville,No. 2,Tyler Bradley,Hugh Keenan,Hugh Keenan,4-6,4,6,0,1,Completed,true,false,false
+UA002112,19 Oct 14,11,Parkdale,Coatesville,No. 3,Damian Basterfield,Domenic Hyunh,Damian Basterfield,6-2,6,2,1,0,Completed,true,false,false
+UA002112,19 Oct 14,11,Parkdale,Coatesville,No. 4,Ben Milne,Michael Gershezan,Michael Gershezan,4-6,4,6,0,1,Completed,true,false,false
+UA002113,19 Oct 14,11,Carmelite,Kooyong,No. 1,Johnathon Wu,Zac Stathis,Zac Stathis,3-6,3,6,0,1,Completed,true,false,false
+UA002113,19 Oct 14,11,Carmelite,Kooyong,No. 2,Blake Hillebrand,Damon Bernard,Damon Bernard,1-6,1,6,0,1,Completed,true,false,false
+UA002113,19 Oct 14,11,Carmelite,Kooyong,No. 3,Laura Gilbertson,Andrew Harris,Andrew Harris,3-6,3,6,0,1,Completed,true,false,false
+UA002113,19 Oct 14,11,Carmelite,Kooyong,No. 4,Cathryn Goh,Kristofer Hyde,Kristofer Hyde,6-7,6,7,0,1,Completed,true,false,false
+UA002114,19 Oct 14,11,GPHC,Royal South Yarra 2,No. 1,Max Double,Johnny Cameron,Max Double,6-0,6,0,1,0,Completed,true,false,false
+UA002114,19 Oct 14,11,GPHC,Royal South Yarra 2,No. 2,Alex Chauhan,Lachlan Kemp,Lachlan Kemp,1-6,1,6,0,1,Completed,true,false,false
+UA002114,19 Oct 14,11,GPHC,Royal South Yarra 2,No. 3,Donald Quach,Jasper Fisher,Donald Quach,6-2,6,2,1,0,Completed,true,false,false
+UA002114,19 Oct 14,11,GPHC,Royal South Yarra 2,No. 4,Lily Goss,Charlie Aitken,Charlie Aitken,0-6,0,6,0,1,Completed,true,false,false
+UA002121,26 Oct 14,12,GPHC,Carmelite,No. 1,Charlie Zagon-Davies,Johnathon Wu,Johnathon Wu,4-6,4,6,0,1,Completed,true,false,false
+UA002121,26 Oct 14,12,GPHC,Carmelite,No. 2,Max Double,Blake Hillebrand,Max Double,6-2,6,2,1,0,Completed,true,false,false
+UA002121,26 Oct 14,12,GPHC,Carmelite,No. 3,Alex Chauhan,Cathryn Goh,Cathryn Goh,0-6,0,6,0,1,Completed,true,false,false
+UA002121,26 Oct 14,12,GPHC,Carmelite,No. 4,Donald Quach,Tia Baptista,Donald Quach,6-0,6,0,1,0,Completed,true,false,false
+UA002122,26 Oct 14,12,Coatesville,Kooyong,No. 1,Hugh Keenan,Zac Stathis,Zac Stathis,2-6,2,6,0,1,Completed,true,false,false
+UA002122,26 Oct 14,12,Coatesville,Kooyong,No. 2,Domenic Hyunh,Kristofer Hyde,Kristofer Hyde,4-6,4,6,0,1,Completed,true,false,false
+UA002122,26 Oct 14,12,Coatesville,Kooyong,No. 3,James Alevizos,Andrew Argyrou,James Alevizos,6-2,6,2,1,0,Completed,true,false,false
+UA002122,26 Oct 14,12,Coatesville,Kooyong,No. 4,Michael Gershezan,Harry Amad,Michael Gershezan,6-1,6,1,1,0,Completed,true,false,false
+UA002123,26 Oct 14,12,Royal South Yarra 2,Mordialloc,No. 1,Johnny Cameron,Sahishnu Siva-Ram,Sahishnu Siva-Ram,0-6,0,6,0,1,Completed,true,false,false
+UA002123,26 Oct 14,12,Royal South Yarra 2,Mordialloc,No. 2,Lachlan Kemp,Aimee Vuong,Aimee Vuong,2-6,2,6,0,1,Completed,true,false,false
+UA002123,26 Oct 14,12,Royal South Yarra 2,Mordialloc,No. 3,Henry Gannon,Mina McMahon,Henry Gannon,6-1,6,1,1,0,Completed,true,false,false
+UA002123,26 Oct 14,12,Royal South Yarra 2,Mordialloc,No. 4,Lachlan Clarke,Rashini Herath,Lachlan Clarke,6-2,6,2,1,0,Completed,true,false,false
+UA002124,26 Oct 14,12,Parkdale,Royal South Yarra 1,No. 1,Nicholas Charlson,Liam Albrecht,Nicholas Charlson,6-0,6,0,1,0,Completed,true,false,false
+UA002124,26 Oct 14,12,Parkdale,Royal South Yarra 1,No. 2,Sean Vandenbroek,Alex Robinson,Sean Vandenbroek,6-1,6,1,1,0,Completed,true,false,false
+UA002124,26 Oct 14,12,Parkdale,Royal South Yarra 1,No. 3,Tyler Bradley,Maxim Fisher,Tyler Bradley,6-1,6,1,1,0,Completed,true,false,false
+UA002124,26 Oct 14,12,Parkdale,Royal South Yarra 1,No. 4,Damian Basterfield,Thomas Spargo,Damian Basterfield,7-6,7,6,1,0,Completed,true,false,false
+UA002131,09 Nov 14,13,Carmelite,Parkdale,No. 1,Johnathon Wu,Sean Vandenbroek,Sean Vandenbroek,4-6,4,6,0,1,Completed,true,false,false
+UA002131,09 Nov 14,13,Carmelite,Parkdale,No. 2,Blake Hillebrand,Tyler Bradley,Tyler Bradley,2-6,2,6,0,1,Completed,true,false,false
+UA002131,09 Nov 14,13,Carmelite,Parkdale,No. 3,Cathryn Goh,Max Grimm,Cathryn Goh,6-4,6,4,1,0,Completed,true,false,false
+UA002131,09 Nov 14,13,Carmelite,Parkdale,No. 4,Tia Baptista,Luke Shi,Luke Shi,2-6,2,6,0,1,Completed,true,false,false
+UA002132,09 Nov 14,13,Royal South Yarra 1,GPHC,No. 1,Liam Albrecht,Charlie Zagon-Davies,Charlie Zagon-Davies,2-6,2,6,0,1,Completed,true,false,false
+UA002132,09 Nov 14,13,Royal South Yarra 1,GPHC,No. 2,Maxim Fisher,Georgia Deacon,Georgia Deacon,2-6,2,6,0,1,Completed,true,false,false
+UA002132,09 Nov 14,13,Royal South Yarra 1,GPHC,No. 3,Thomas Spargo,Donald Quach,Thomas Spargo,6-2,6,2,1,0,Completed,true,false,false
+UA002132,09 Nov 14,13,Royal South Yarra 1,GPHC,No. 4,Claudia Albert,Alex Chauhan,Claudia Albert,6-0,6,0,1,0,Completed,true,false,false
+UA002133,09 Nov 14,13,Mordialloc,Coatesville,No. 1,Chelsea Dutt,Andrew Chen,Andrew Chen,4-6,4,6,0,1,Completed,true,false,false
+UA002133,09 Nov 14,13,Mordialloc,Coatesville,No. 2,Aimee Vuong,Domenic Hyunh,Aimee Vuong,6-1,6,1,1,0,Completed,true,false,false
+UA002133,09 Nov 14,13,Mordialloc,Coatesville,No. 3,Mina McMahon,James Alevizos,James Alevizos,1-6,1,6,0,1,Completed,true,false,false
+UA002133,09 Nov 14,13,Mordialloc,Coatesville,No. 4,Rashini Herath,Jemma Shamoun,Jemma Shamoun,2-6,2,6,0,1,Completed,true,false,false
+UA002134,09 Nov 14,13,Kooyong,Royal South Yarra 2,No. 1,Zac Stathis,Lachlan Kemp,Zac Stathis,6-0,6,0,1,0,Completed,true,false,false
+UA002134,09 Nov 14,13,Kooyong,Royal South Yarra 2,No. 2,Andrew Harris,Henry Gannon,Andrew Harris,6-3,6,3,1,0,Completed,true,false,false
+UA002134,09 Nov 14,13,Kooyong,Royal South Yarra 2,No. 3,Andrew Argyrou,Rich Bartlett,Andrew Argyrou,6-4,6,4,1,0,Completed,true,false,false
+UA002134,09 Nov 14,13,Kooyong,Royal South Yarra 2,No. 4,Harry Amad,Hamish Francis,Harry Amad,6-3,6,3,1,0,Completed,true,false,false
+UA002301,,16,Kooyong,Coatesville,No. 1,Zac Stathis,Andrew Chen,Zac Stathis,6-2,6,2,1,0,Completed,true,false,false
+UA002301,,16,Kooyong,Coatesville,No. 2,Damon Bernard,Domenic Hyunh,Damon Bernard,6-1,6,1,1,0,Completed,true,false,false
+UA002301,,16,Kooyong,Coatesville,No. 3,Andrew Harris,James Alevizos,Andrew Harris,6-2,6,2,1,0,Completed,true,false,false
+UA002301,,16,Kooyong,Coatesville,No. 4,Kristofer Hyde,Michael Gershezan,Kristofer Hyde,7-5,7,5,1,0,Completed,true,false,false
+UA002302,,16,Parkdale,Royal South Yarra 1,No. 1,Nicholas Charlson,Liam Albrecht,Liam Albrecht,4-6,4,6,0,1,Completed,true,false,false
+UA002302,,16,Parkdale,Royal South Yarra 1,No. 2,Sean Vandenbroek,Alex Robinson,Sean Vandenbroek,6-4,6,4,1,0,Completed,true,false,false
+UA002302,,16,Parkdale,Royal South Yarra 1,No. 3,Tyler Bradley,Maxim Fisher,Tyler Bradley,6-2,6,2,1,0,Completed,true,false,false
+UA002302,,16,Parkdale,Royal South Yarra 1,No. 4,Damian Basterfield,Nick Shelmerdine,Damian Basterfield,7-6,7,6,1,0,Completed,true,false,false
+UA002321,,17,Kooyong,Parkdale,No. 1,Zac Stathis,Nicholas Charlson,Zac Stathis,6-3,6,3,1,0,Completed,true,false,false
+UA002321,,17,Kooyong,Parkdale,No. 2,Damon Bernard,Sean Vandenbroek,Damon Bernard,6-3,6,3,1,0,Completed,true,false,false
+UA002321,,17,Kooyong,Parkdale,No. 3,Andrew Harris,Angus Catt,Angus Catt,1-6,1,6,0,1,Completed,true,false,true
+UA002321,,17,Kooyong,Parkdale,No. 4,Kristofer Hyde,Damian Basterfield,Kristofer Hyde,6-4,6,4,1,0,Completed,true,false,false

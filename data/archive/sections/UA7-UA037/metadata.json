@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA7-UA037",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2010",
+  "season_id": "UA7",
+  "season_label": "Spring 2010",
+  "source_section_code": "UA037",
+  "section_label": "Section 18",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Joan of Arc RA",
+      "wins": 0,
+      "points": 105,
+      "percentage": 175.53,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Tennis World",
+      "wins": 0,
+      "points": 104.5,
+      "percentage": 162.39,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kings Park",
+      "wins": 0,
+      "points": 78,
+      "percentage": 103.38,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Victory Park",
+      "wins": 0,
+      "points": 76,
+      "percentage": 116.15,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St Joseph's BR",
+      "wins": 0,
+      "points": 76,
+      "percentage": 98.76,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Lauriston",
+      "wins": 0,
+      "points": 54,
+      "percentage": 82.58,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St Peter's",
+      "wins": 0,
+      "points": 48.5,
+      "percentage": 78.03,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Glen Eira Beech",
+      "wins": 0,
+      "points": 18,
+      "percentage": 42.65,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA7-UA037",
+  "fixtures": 59,
+  "completed_fixtures": 51,
+  "draw_fixtures": 3,
+  "singles_rubbers": 203,
+  "doubles_rubbers": 102,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

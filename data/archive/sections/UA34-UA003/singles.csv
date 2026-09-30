@@ -1,0 +1,237 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA003011,04 Feb 24,1,BLTC Blue,Victory Park,No. 1,Edward Ruckel,Kensei Golec,Kensei Golec,2-6,2,6,0,1,Completed,true,false,true
+UA003011,04 Feb 24,1,BLTC Blue,Victory Park,No. 2,Kevin Wang,Samuel Zuo,Kevin Wang,6-1,6,1,1,0,Completed,true,false,false
+UA003011,04 Feb 24,1,BLTC Blue,Victory Park,No. 3,Riley Luong,Olivia Foster,Olivia Foster,3-6,3,6,0,1,Completed,true,false,false
+UA003011,04 Feb 24,1,BLTC Blue,Victory Park,No. 4,Willem Duncan,Arshika Prakash,Willem Duncan,6-2,6,2,1,0,Completed,true,false,false
+UA003012,04 Feb 24,1,Royal South Yarra,GPHC,No. 1,Miles Forster,Adam Onbashi,Adam Onbashi,1-6,1,6,0,1,Completed,true,false,false
+UA003012,04 Feb 24,1,Royal South Yarra,GPHC,No. 2,Tommaso Palombaro,Oliver Onbashi,Oliver Onbashi,3-6,3,6,0,1,Completed,true,false,false
+UA003012,04 Feb 24,1,Royal South Yarra,GPHC,No. 3,William McCrae,Oscar Roseman,Oscar Roseman,4-6,4,6,0,1,Completed,true,false,false
+UA003012,04 Feb 24,1,Royal South Yarra,GPHC,No. 4,Dash Webb,Marcus Berton,Marcus Berton,0-6,0,6,0,1,Completed,true,false,false
+UA003013,04 Feb 24,1,Le Page,Tennis World,No. 1,James Polygenis,Ishaan Arya,Ishaan Arya,2-6,2,6,0,1,Completed,true,false,false
+UA003013,04 Feb 24,1,Le Page,Tennis World,No. 2,Adyaan Tata,Morgan Vong,Morgan Vong,1-6,1,6,0,1,Completed,true,false,false
+UA003013,04 Feb 24,1,Le Page,Tennis World,No. 3,Lucas Hansen,Aliya Appleby,Lucas Hansen,6-4,6,4,1,0,Completed,true,false,false
+UA003013,04 Feb 24,1,Le Page,Tennis World,No. 4,Danko Kovacevic,Lucas Iaria,Lucas Iaria,0-6,0,6,0,1,Completed,true,false,false
+UA003014,04 Feb 24,1,Glen Huntly,Royal Ave,No. 1,Pierre Maziarz,Tess Dargan,Pierre Maziarz,7-6,7,6,1,0,Completed,true,false,false
+UA003014,04 Feb 24,1,Glen Huntly,Royal Ave,No. 2,Kate Nguyen,Jack James,Jack James,3-6,3,6,0,1,Completed,true,false,false
+UA003014,04 Feb 24,1,Glen Huntly,Royal Ave,No. 3,Tate Nguyen,Anthony Pain,Anthony Pain,2-6,2,6,0,1,Completed,true,false,false
+UA003014,04 Feb 24,1,Glen Huntly,Royal Ave,No. 4,Alexis Vinsonneau,Isabel Goldsmith,Alexis Vinsonneau,6-1,6,1,1,0,Completed,true,false,false
+UA003021,11 Feb 24,2,Royal Ave,BLTC Blue,No. 1,Tess Dargan,Matthew Mizera,Matthew Mizera,3-6,3,6,0,1,Completed,true,false,false
+UA003021,11 Feb 24,2,Royal Ave,BLTC Blue,No. 2,Anthony Pain,Kevin Wang,Kevin Wang,1-6,1,6,0,1,Completed,true,false,false
+UA003021,11 Feb 24,2,Royal Ave,BLTC Blue,No. 3,Isabel Goldsmith,Riley Luong,Riley Luong,3-6,3,6,0,1,Completed,true,false,false
+UA003021,11 Feb 24,2,Royal Ave,BLTC Blue,No. 4,Lachlan Scarff,Willem Duncan,Willem Duncan,2-6,2,6,0,1,Completed,true,true,false
+UA003022,11 Feb 24,2,Victory Park,Royal South Yarra,No. 1,Emir Zmak,Tommaso Palombaro,Tommaso Palombaro,3-6,3,6,0,1,Completed,true,false,false
+UA003022,11 Feb 24,2,Victory Park,Royal South Yarra,No. 2,Riley Bellingham,Hugo Brosnahan,Hugo Brosnahan,1-6,1,6,0,1,Completed,true,false,false
+UA003022,11 Feb 24,2,Victory Park,Royal South Yarra,No. 3,Olivia Foster,Maia Gurov,Maia Gurov,3-6,3,6,0,1,Completed,true,false,false
+UA003022,11 Feb 24,2,Victory Park,Royal South Yarra,No. 4,Arshika Prakash,Dash Webb,Arshika Prakash,6-3,6,3,1,0,Completed,true,false,false
+UA003023,11 Feb 24,2,GPHC,Le Page,No. 1,Oliver Onbashi,James Polygenis,Oliver Onbashi,6-3,6,3,1,0,Completed,true,false,false
+UA003023,11 Feb 24,2,GPHC,Le Page,No. 2,Oscar Roseman,Adyaan Tata,Adyaan Tata,3-6,3,6,0,1,Completed,true,false,false
+UA003023,11 Feb 24,2,GPHC,Le Page,No. 3,Marcus Berton,Danko Kovacevic,Marcus Berton,6-1,6,1,1,0,Completed,true,false,false
+UA003023,11 Feb 24,2,GPHC,Le Page,No. 4,Orlando De Luca,Mia Daniell,Orlando De Luca,6-2,6,2,1,0,Completed,true,false,false
+UA003024,11 Feb 24,2,Tennis World,Glen Huntly,No. 1,Ishaan Arya,Pierre Maziarz,Pierre Maziarz,1-6,1,6,0,1,Completed,true,false,false
+UA003024,11 Feb 24,2,Tennis World,Glen Huntly,No. 2,Morgan Vong,Kate Nguyen,Morgan Vong,6-3,6,3,1,0,Completed,true,false,false
+UA003024,11 Feb 24,2,Tennis World,Glen Huntly,No. 3,Aliya Appleby,Antoine Maziarz,Antoine Maziarz,4-6,4,6,0,1,Completed,true,false,false
+UA003024,11 Feb 24,2,Tennis World,Glen Huntly,No. 4,Lucas Iaria,Alexis Vinsonneau,Lucas Iaria,6-4,6,4,1,0,Completed,true,false,false
+UA003031,18 Feb 24,3,BLTC Blue,Tennis World,No. 1,Matthew Mizera,Ishaan Arya,Ishaan Arya,4-6,4,6,0,1,Completed,true,false,false
+UA003031,18 Feb 24,3,BLTC Blue,Tennis World,No. 2,Harrison Yang,Morgan Vong,Morgan Vong,3-6,3,6,0,1,Completed,true,false,false
+UA003031,18 Feb 24,3,BLTC Blue,Tennis World,No. 3,Riley Luong,Aliya Appleby,Riley Luong,6-2,6,2,1,0,Completed,true,false,false
+UA003031,18 Feb 24,3,BLTC Blue,Tennis World,No. 4,Willem Duncan,Lucas Iaria,Lucas Iaria,2-6,2,6,0,1,Completed,true,false,false
+UA003032,18 Feb 24,3,Royal South Yarra,Royal Ave,No. 1,Tommaso Palombaro,Tess Dargan,Tommaso Palombaro,6-1,6,1,1,0,Completed,true,false,false
+UA003032,18 Feb 24,3,Royal South Yarra,Royal Ave,No. 2,Hugo Brosnahan,Anthony Pain,Hugo Brosnahan,6-0,6,0,1,0,Completed,true,false,false
+UA003032,18 Feb 24,3,Royal South Yarra,Royal Ave,No. 3,William McCrae,Isabel Goldsmith,William McCrae,7-5,7,5,1,0,Completed,true,false,false
+UA003032,18 Feb 24,3,Royal South Yarra,Royal Ave,No. 4,Dash Webb,Lachie Scott,Dash Webb,7-5,7,5,1,0,Completed,true,false,false
+UA003033,18 Feb 24,3,Le Page,Victory Park,No. 1,James Polygenis,Riley Bellingham,James Polygenis,6-4,6,4,1,0,Completed,true,false,false
+UA003033,18 Feb 24,3,Le Page,Victory Park,No. 2,Adyaan Tata,Samuel Zuo,Samuel Zuo,5-7,5,7,0,1,Completed,true,false,false
+UA003033,18 Feb 24,3,Le Page,Victory Park,No. 3,Lucas Hansen,Olivia Foster,Lucas Hansen,6-2,6,2,1,0,Completed,true,false,false
+UA003033,18 Feb 24,3,Le Page,Victory Park,No. 4,Mia Daniell,Arshika Prakash,Arshika Prakash,4-6,4,6,0,1,Completed,true,false,false
+UA003034,18 Feb 24,3,Glen Huntly,GPHC,No. 1,Pierre Maziarz,Adam Onbashi,Pierre Maziarz,7-6,7,6,1,0,Completed,true,false,false
+UA003034,18 Feb 24,3,Glen Huntly,GPHC,No. 2,Kate Nguyen,Oliver Onbashi,Oliver Onbashi,0-6,0,6,0,1,Completed,true,false,false
+UA003034,18 Feb 24,3,Glen Huntly,GPHC,No. 3,Tate Nguyen,Marcus Berton,Marcus Berton,4-6,4,6,0,1,Completed,true,false,false
+UA003034,18 Feb 24,3,Glen Huntly,GPHC,No. 4,Antoine Maziarz,Orlando De Luca,Antoine Maziarz,7-5,7,5,1,0,Completed,true,false,false
+UA003041,25 Feb 24,4,GPHC,BLTC Blue,No. 1,Adam Onbashi,Matthew Mizera,Matthew Mizera,4-6,4,6,0,1,Completed,true,false,false
+UA003041,25 Feb 24,4,GPHC,BLTC Blue,No. 2,Oscar Roseman,Harrison Yang,Harrison Yang,0-6,0,6,0,1,Completed,true,false,false
+UA003041,25 Feb 24,4,GPHC,BLTC Blue,No. 3,Marcus Berton,Edward Ruckel,Marcus Berton,6-1,6,1,1,0,Completed,true,false,false
+UA003041,25 Feb 24,4,GPHC,BLTC Blue,No. 4,Orlando De Luca,Willem Duncan,Willem Duncan,4-6,4,6,0,1,Completed,true,false,false
+UA003042,25 Feb 24,4,Tennis World,Royal South Yarra,No. 1,Ishaan Arya,Miles Forster,Ishaan Arya,7-6,7,6,1,0,Completed,true,false,false
+UA003042,25 Feb 24,4,Tennis World,Royal South Yarra,No. 2,Morgan Vong,Hugo Brosnahan,Hugo Brosnahan,5-7,5,7,0,1,Completed,true,false,false
+UA003042,25 Feb 24,4,Tennis World,Royal South Yarra,No. 3,Aliya Appleby,William McCrae,William McCrae,2-6,2,6,0,1,Completed,true,false,false
+UA003042,25 Feb 24,4,Tennis World,Royal South Yarra,No. 4,Lucas Iaria,Maia Gurov,Lucas Iaria,6-1,6,1,1,0,Completed,true,false,false
+UA003043,25 Feb 24,4,Royal Ave,Le Page,No. 1,Anthony Pain,James Polygenis,Anthony Pain,6-2,6,2,1,0,Completed,true,false,false
+UA003043,25 Feb 24,4,Royal Ave,Le Page,No. 2,Isabel Goldsmith,Adyaan Tata,Adyaan Tata,0-6,0,6,0,1,Completed,true,false,false
+UA003043,25 Feb 24,4,Royal Ave,Le Page,No. 3,Lachie Scott,Lucas Hansen,Lucas Hansen,2-6,2,6,0,1,Completed,true,false,false
+UA003043,25 Feb 24,4,Royal Ave,Le Page,No. 4,Abai Chowdry,Danko Kovacevic,Abai Chowdry,6-3,6,3,1,0,Completed,true,true,false
+UA003044,25 Feb 24,4,Victory Park,Glen Huntly,No. 1,Emir Zmak,Alistair Cairns,Alistair Cairns,4-6,4,6,0,1,Completed,true,false,false
+UA003044,25 Feb 24,4,Victory Park,Glen Huntly,No. 2,Riley Bellingham,Amaya De Silva,Amaya De Silva,2-6,2,6,0,1,Completed,true,false,false
+UA003044,25 Feb 24,4,Victory Park,Glen Huntly,No. 3,Olivia Foster,Tate Nguyen,Tate Nguyen,3-6,3,6,0,1,Completed,true,false,false
+UA003044,25 Feb 24,4,Victory Park,Glen Huntly,No. 4,Arshika Prakash,Alexis Vinsonneau,Alexis Vinsonneau,2-6,2,6,0,1,Completed,true,false,false
+UA003051,03 Mar 24,5,Le Page,Glen Huntly,No. 1,Aryan Singh,Jeremy Thai,Jeremy Thai,2-6,2,6,0,1,Completed,true,false,true
+UA003051,03 Mar 24,5,Le Page,Glen Huntly,No. 2,Adyaan Tata,Amaya De Silva,Adyaan Tata,6-1,6,1,1,0,Completed,true,false,false
+UA003051,03 Mar 24,5,Le Page,Glen Huntly,No. 3,Danko Kovacevic,Tate Nguyen,Tate Nguyen,2-6,2,6,0,1,Completed,true,false,false
+UA003051,03 Mar 24,5,Le Page,Glen Huntly,No. 4,Mia Daniell,Alexis Vinsonneau,Alexis Vinsonneau,1-6,1,6,0,1,Completed,true,false,false
+UA003052,03 Mar 24,5,Royal Ave,Tennis World,No. 1,Luke Cowie,Ishaan Arya,Luke Cowie,6-4,6,4,1,0,Completed,true,false,false
+UA003052,03 Mar 24,5,Royal Ave,Tennis World,No. 2,Tess Dargan,Morgan Vong,Morgan Vong,0-6,0,6,0,1,Completed,true,false,false
+UA003052,03 Mar 24,5,Royal Ave,Tennis World,No. 3,Anthony Pain,Aliya Appleby,Anthony Pain,6-1,6,1,1,0,Completed,true,false,false
+UA003052,03 Mar 24,5,Royal Ave,Tennis World,No. 4,Isabel Goldsmith,Lucas Iaria,Lucas Iaria,0-6,0,6,0,1,Completed,true,false,false
+UA003053,03 Mar 24,5,GPHC,Victory Park,No. 1,Adam Onbashi,Riley Bellingham,Adam Onbashi,6-3,6,3,1,0,Completed,true,false,false
+UA003053,03 Mar 24,5,GPHC,Victory Park,No. 2,Oscar Roseman,Samuel Zuo,Samuel Zuo,0-6,0,6,0,1,Completed,true,false,false
+UA003053,03 Mar 24,5,GPHC,Victory Park,No. 3,Marcus Berton,Olivia Foster,Marcus Berton,6-2,6,2,1,0,Completed,true,false,false
+UA003053,03 Mar 24,5,GPHC,Victory Park,No. 4,Orlando De Luca,Arshika Prakash,Orlando De Luca,6-0,6,0,1,0,Completed,true,false,false
+UA003054,03 Mar 24,5,BLTC Blue,Royal South Yarra,No. 1,Matthew Mizera,Miles Forster,Matthew Mizera,6-2,6,2,1,0,Completed,true,false,false
+UA003054,03 Mar 24,5,BLTC Blue,Royal South Yarra,No. 2,Harrison Yang,Ashvin Jayawardena,Harrison Yang,6-0,6,0,1,0,Completed,true,false,false
+UA003054,03 Mar 24,5,BLTC Blue,Royal South Yarra,No. 3,Edward Ruckel,William McCrae,Edward Ruckel,6-4,6,4,1,0,Completed,true,false,false
+UA003054,03 Mar 24,5,BLTC Blue,Royal South Yarra,No. 4,Kevin Wang,Maia Gurov,Kevin Wang,7-6,7,6,1,0,Completed,true,false,false
+UA003061,17 Mar 24,6,Royal South Yarra,Le Page,No. 1,Miles Forster,James Polygenis,Miles Forster,6-4,6,4,1,0,Completed,true,false,false
+UA003061,17 Mar 24,6,Royal South Yarra,Le Page,No. 2,Tommaso Palombaro,Lucas Hansen,Tommaso Palombaro,6-1,6,1,1,0,Completed,true,false,false
+UA003061,17 Mar 24,6,Royal South Yarra,Le Page,No. 3,Hugo Brosnahan,Danko Kovacevic,Hugo Brosnahan,6-2,6,2,1,0,Completed,true,false,false
+UA003061,17 Mar 24,6,Royal South Yarra,Le Page,No. 4,Dash Webb,Mia Daniell,Dash Webb,6-0,6,0,1,0,Completed,true,false,false
+UA003062,17 Mar 24,6,Glen Huntly,BLTC Blue,No. 1,Pierre Maziarz,Harrison Yang,Harrison Yang,2-6,2,6,0,1,Completed,true,false,false
+UA003062,17 Mar 24,6,Glen Huntly,BLTC Blue,No. 2,Kate Nguyen,Edward Ruckel,Edward Ruckel,3-6,3,6,0,1,Completed,true,false,false
+UA003062,17 Mar 24,6,Glen Huntly,BLTC Blue,No. 3,Antoine Maziarz,Kevin Wang,Antoine Maziarz,6-3,6,3,1,0,Completed,true,false,false
+UA003062,17 Mar 24,6,Glen Huntly,BLTC Blue,No. 4,Alexis Vinsonneau,Riley Luong,Alexis Vinsonneau,6-3,6,3,1,0,Completed,true,false,false
+UA003063,17 Mar 24,6,Tennis World,GPHC,No. 1,Ishaan Arya,Adam Onbashi,Adam Onbashi,1-6,1,6,0,1,Completed,true,false,false
+UA003063,17 Mar 24,6,Tennis World,GPHC,No. 2,Morgan Vong,Oliver Onbashi,Morgan Vong,7-6,7,6,1,0,Completed,true,false,false
+UA003063,17 Mar 24,6,Tennis World,GPHC,No. 3,Aliya Appleby,Oscar Roseman,Oscar Roseman,0-6,0,6,0,1,Completed,true,false,false
+UA003063,17 Mar 24,6,Tennis World,GPHC,No. 4,Tanush Thakkar,Orlando De Luca,Tanush Thakkar,6-2,6,2,1,0,Completed,true,true,false
+UA003064,17 Mar 24,6,Victory Park,Royal Ave,No. 1,Riley Bellingham,Luke Cowie,Luke Cowie,2-6,2,6,0,1,Completed,true,false,false
+UA003064,17 Mar 24,6,Victory Park,Royal Ave,No. 2,Samuel Zuo,Tess Dargan,Tess Dargan,1-6,1,6,0,1,Completed,true,false,false
+UA003064,17 Mar 24,6,Victory Park,Royal Ave,No. 3,Olivia Foster,Isabel Goldsmith,Olivia Foster,6-0,6,0,1,0,Completed,true,false,false
+UA003064,17 Mar 24,6,Victory Park,Royal Ave,No. 4,Arshika Prakash,Lachie Scott,Lachie Scott,2-6,2,6,0,1,Completed,true,false,false
+UA003071,24 Mar 24,7,BLTC Blue,Le Page,No. 1,Matthew Mizera,James Polygenis,Matthew Mizera,6-2,6,2,1,0,Completed,true,false,false
+UA003071,24 Mar 24,7,BLTC Blue,Le Page,No. 2,Edward Ruckel,Aryan Singh,Edward Ruckel,6-3,6,3,1,0,Completed,true,false,false
+UA003071,24 Mar 24,7,BLTC Blue,Le Page,No. 3,Kevin Wang,Lucas Hansen,Kevin Wang,6-1,6,1,1,0,Completed,true,false,false
+UA003071,24 Mar 24,7,BLTC Blue,Le Page,No. 4,Riley Luong,Danko Kovacevic,Riley Luong,6-1,6,1,1,0,Completed,true,false,false
+UA003072,24 Mar 24,7,Royal South Yarra,Glen Huntly,No. 1,Miles Forster,Pierre Maziarz,Pierre Maziarz,0-6,0,6,0,1,Completed,true,false,false
+UA003072,24 Mar 24,7,Royal South Yarra,Glen Huntly,No. 2,Tommaso Palombaro,Amaya De Silva,Tommaso Palombaro,6-0,6,0,1,0,Completed,true,false,false
+UA003072,24 Mar 24,7,Royal South Yarra,Glen Huntly,No. 3,William McCrae,Tate Nguyen,Tate Nguyen,1-6,1,6,0,1,Completed,true,false,false
+UA003072,24 Mar 24,7,Royal South Yarra,Glen Huntly,No. 4,Dash Webb,Antoine Maziarz,Antoine Maziarz,2-6,2,6,0,1,Completed,true,false,false
+UA003073,24 Mar 24,7,Royal Ave,GPHC,No. 1,Luke Cowie,Adam Onbashi,Adam Onbashi,2-6,2,6,0,1,Completed,true,false,false
+UA003073,24 Mar 24,7,Royal Ave,GPHC,No. 2,Tess Dargan,Oliver Onbashi,Oliver Onbashi,2-6,2,6,0,1,Completed,true,false,false
+UA003073,24 Mar 24,7,Royal Ave,GPHC,No. 3,Jack James,Oscar Roseman,Oscar Roseman,1-6,1,6,0,1,Completed,true,false,false
+UA003073,24 Mar 24,7,Royal Ave,GPHC,No. 4,Anthony Pain,Orlando De Luca,Anthony Pain,6-3,6,3,1,0,Completed,true,false,false
+UA003074,24 Mar 24,7,Tennis World,Victory Park,No. 1,Morgan Vong,Emir Zmak,Emir Zmak,6-7,6,7,0,1,Completed,true,false,false
+UA003074,24 Mar 24,7,Tennis World,Victory Park,No. 2,Lucas Iaria,Riley Bellingham,Lucas Iaria,6-0,6,0,1,0,Completed,true,false,false
+UA003074,24 Mar 24,7,Tennis World,Victory Park,No. 3,Aliya Appleby,Samuel Zuo,Samuel Zuo,4-6,4,6,0,1,Completed,true,false,false
+UA003074,24 Mar 24,7,Tennis World,Victory Park,No. 4,Keagan Vong,Olivia Foster,Olivia Foster,5-7,5,7,0,1,Completed,true,false,false
+UA003081,21 Apr 24,8,Victory Park,BLTC Blue,No. 1,Emir Zmak,Edward Ruckel,Edward Ruckel,0-6,0,6,0,1,Completed,true,false,false
+UA003081,21 Apr 24,8,Victory Park,BLTC Blue,No. 2,Olivia Foster,Kevin Wang,Kevin Wang,0-6,0,6,0,1,Completed,true,false,false
+UA003081,21 Apr 24,8,Victory Park,BLTC Blue,No. 3,Madison Kwok,Alexander Collins,Alexander Collins,4-6,4,6,0,1,Completed,true,false,true
+UA003081,21 Apr 24,8,Victory Park,BLTC Blue,No. 4,Arshika Prakash,Willem Duncan,Willem Duncan,2-6,2,6,0,1,Completed,true,false,false
+UA003082,21 Apr 24,8,GPHC,Royal South Yarra,No. 1,Adam Onbashi,Miles Forster,Adam Onbashi,6-1,6,1,1,0,Completed,true,false,false
+UA003082,21 Apr 24,8,GPHC,Royal South Yarra,No. 2,Oscar Roseman,Tommaso Palombaro,Tommaso Palombaro,2-6,2,6,0,1,Completed,true,false,false
+UA003082,21 Apr 24,8,GPHC,Royal South Yarra,No. 3,Marcus Berton,Hugo Brosnahan,Hugo Brosnahan,3-6,3,6,0,1,Completed,true,false,false
+UA003082,21 Apr 24,8,GPHC,Royal South Yarra,No. 4,Orlando De Luca,Dash Webb,Orlando De Luca,6-0,6,0,1,0,Completed,true,false,false
+UA003083,21 Apr 24,8,Tennis World,Le Page,No. 1,Morgan Vong,James Polygenis,James Polygenis,4-6,4,6,0,1,Completed,true,false,false
+UA003083,21 Apr 24,8,Tennis World,Le Page,No. 2,Lucas Iaria,Adyaan Tata,Adyaan Tata,3-6,3,6,0,1,Completed,true,false,false
+UA003083,21 Apr 24,8,Tennis World,Le Page,No. 3,Aliya Appleby,Danko Kovacevic,Danko Kovacevic,4-6,4,6,0,1,Completed,true,false,false
+UA003083,21 Apr 24,8,Tennis World,Le Page,No. 4,Keagan Vong,Mia Daniell,Keagan Vong,6-2,6,2,1,0,Completed,true,false,false
+UA003084,21 Apr 24,8,Royal Ave,Glen Huntly,No. 1,Luke Cowie,Pierre Maziarz,Pierre Maziarz,3-6,3,6,0,1,Completed,true,false,false
+UA003084,21 Apr 24,8,Royal Ave,Glen Huntly,No. 2,Jack James,Amaya De Silva,Jack James,6-1,6,1,1,0,Completed,true,false,false
+UA003084,21 Apr 24,8,Royal Ave,Glen Huntly,No. 3,Anthony Pain,Tate Nguyen,Tate Nguyen,2-6,2,6,0,1,Completed,true,false,false
+UA003084,21 Apr 24,8,Royal Ave,Glen Huntly,No. 4,Isabel Goldsmith,Antoine Maziarz,Antoine Maziarz,0-6,0,6,0,1,Completed,true,false,false
+UA003091,28 Apr 24,9,BLTC Blue,Royal Ave,No. 1,Matthew Mizera,Luke Cowie,Matthew Mizera,6-2,6,2,1,0,Completed,true,false,false
+UA003091,28 Apr 24,9,BLTC Blue,Royal Ave,No. 2,Harrison Yang,Jack James,Harrison Yang,6-2,6,2,1,0,Completed,true,false,false
+UA003091,28 Apr 24,9,BLTC Blue,Royal Ave,No. 3,Riley Luong,Anthony Pain,Riley Luong,6-0,6,0,1,0,Completed,true,false,false
+UA003091,28 Apr 24,9,BLTC Blue,Royal Ave,No. 4,Willem Duncan,Isabel Goldsmith,Willem Duncan,6-1,6,1,1,0,Completed,true,false,false
+UA003092,28 Apr 24,9,Royal South Yarra,Victory Park,No. 1,Tommaso Palombaro,Riley Bellingham,Tommaso Palombaro,6-0,6,0,1,0,Completed,true,false,false
+UA003092,28 Apr 24,9,Royal South Yarra,Victory Park,No. 2,Hugo Brosnahan,Samuel Zuo,Hugo Brosnahan,7-5,7,5,1,0,Completed,true,false,false
+UA003092,28 Apr 24,9,Royal South Yarra,Victory Park,No. 3,William McCrae,Madison Kwok,William McCrae,6-3,6,3,1,0,Completed,true,false,false
+UA003092,28 Apr 24,9,Royal South Yarra,Victory Park,No. 4,Dash Webb,Arshika Prakash,Arshika Prakash,2-6,2,6,0,1,Completed,true,false,false
+UA003093,28 Apr 24,9,Le Page,GPHC,No. 1,James Polygenis,Adam Onbashi,Adam Onbashi,0-6,0,6,0,1,Completed,true,false,false
+UA003093,28 Apr 24,9,Le Page,GPHC,No. 2,Aryan Singh,Oliver Onbashi,Aryan Singh,6-4,6,4,1,0,Completed,true,false,false
+UA003093,28 Apr 24,9,Le Page,GPHC,No. 3,Lucas Hansen,Oscar Roseman,Oscar Roseman,0-6,0,6,0,1,Completed,true,false,false
+UA003093,28 Apr 24,9,Le Page,GPHC,No. 4,Mia Daniell,Marcus Berton,Marcus Berton,1-6,1,6,0,1,Completed,true,false,false
+UA003094,28 Apr 24,9,Glen Huntly,Tennis World,No. 1,Pierre Maziarz,Ishaan Arya,Pierre Maziarz,6-0,6,0,1,0,Completed,true,false,false
+UA003094,28 Apr 24,9,Glen Huntly,Tennis World,No. 2,Tate Nguyen,Lucas Iaria,Tate Nguyen,6-4,6,4,1,0,Completed,true,false,false
+UA003094,28 Apr 24,9,Glen Huntly,Tennis World,No. 3,Antoine Maziarz,Harsh Sinha,Antoine Maziarz,6-0,6,0,1,0,Completed,true,false,true
+UA003094,28 Apr 24,9,Glen Huntly,Tennis World,No. 4,Alexis Vinsonneau,Aliya Appleby,Alexis Vinsonneau,6-1,6,1,1,0,Completed,true,false,false
+UA003101,05 May 24,10,Tennis World,BLTC Blue,No. 1,Ishaan Arya,Matthew Mizera,Matthew Mizera,3-6,3,6,0,1,Completed,true,false,false
+UA003101,05 May 24,10,Tennis World,BLTC Blue,No. 2,Morgan Vong,Edward Ruckel,Edward Ruckel,4-6,4,6,0,1,Completed,true,false,false
+UA003101,05 May 24,10,Tennis World,BLTC Blue,No. 3,Lucas Iaria,Kevin Wang,Lucas Iaria,6-1,6,1,1,0,Completed,true,false,false
+UA003101,05 May 24,10,Tennis World,BLTC Blue,No. 4,Aliya Appleby,Willem Duncan,Aliya Appleby,6-3,6,3,1,0,Completed,true,false,false
+UA003102,05 May 24,10,Royal Ave,Royal South Yarra,No. 1,Luke Cowie,Miles Forster,Luke Cowie,6-4,6,4,1,0,Completed,true,false,false
+UA003102,05 May 24,10,Royal Ave,Royal South Yarra,No. 2,Tess Dargan,William McCrae,William McCrae,2-6,2,6,0,1,Completed,true,false,false
+UA003102,05 May 24,10,Royal Ave,Royal South Yarra,No. 3,Anthony Pain,Dash Webb,Dash Webb,3-6,3,6,0,1,Completed,true,false,false
+UA003102,05 May 24,10,Royal Ave,Royal South Yarra,No. 4,Isabel Goldsmith,Maia Gurov,Maia Gurov,1-6,1,6,0,1,Completed,true,false,false
+UA003103,05 May 24,10,Victory Park,Le Page,No. 1,Emir Zmak,James Polygenis,Emir Zmak,6-2,6,2,1,0,Completed,true,false,false
+UA003103,05 May 24,10,Victory Park,Le Page,No. 2,Riley Bellingham,Adyaan Tata,Adyaan Tata,1-6,1,6,0,1,Completed,true,false,false
+UA003103,05 May 24,10,Victory Park,Le Page,No. 3,Samuel Zuo,Lucas Hansen,Samuel Zuo,6-2,6,2,1,0,Completed,true,false,false
+UA003103,05 May 24,10,Victory Park,Le Page,No. 4,Olivia Foster,Mia Daniell,Olivia Foster,6-0,6,0,1,0,Completed,true,false,false
+UA003104,05 May 24,10,GPHC,Glen Huntly,No. 1,Oliver Onbashi,Pierre Maziarz,Oliver Onbashi,6-2,6,2,1,0,Completed,true,false,false
+UA003104,05 May 24,10,GPHC,Glen Huntly,No. 2,Marcus Berton,Tate Nguyen,Marcus Berton,6-2,6,2,1,0,Completed,true,false,false
+UA003104,05 May 24,10,GPHC,Glen Huntly,No. 3,Orlando De Luca,Antoine Maziarz,Orlando De Luca,6-2,6,2,1,0,Completed,true,false,false
+UA003104,05 May 24,10,GPHC,Glen Huntly,No. 4,Hugo Taylor,Alexis Vinsonneau,Alexis Vinsonneau,5-7,5,7,0,1,Completed,true,true,false
+UA003111,12 May 24,11,BLTC Blue,GPHC,No. 1,Matthew Mizera,Adam Onbashi,Adam Onbashi,2-6,2,6,0,1,Completed,true,false,false
+UA003111,12 May 24,11,BLTC Blue,GPHC,No. 2,Harrison Yang,Oliver Onbashi,Oliver Onbashi,2-6,2,6,0,1,Completed,true,false,false
+UA003111,12 May 24,11,BLTC Blue,GPHC,No. 3,Edward Ruckel,Oscar Roseman,Oscar Roseman,2-6,2,6,0,1,Completed,true,false,false
+UA003111,12 May 24,11,BLTC Blue,GPHC,No. 4,Kevin Wang,[Unnamed player — TROLS UA003111 away code 4],Kevin Wang,6-0,6,0,1,0,Completed,false,false,false
+UA003112,12 May 24,11,Royal South Yarra,Tennis World,No. 1,Miles Forster,Ishaan Arya,Ishaan Arya,2-6,2,6,0,1,Completed,true,false,false
+UA003112,12 May 24,11,Royal South Yarra,Tennis World,No. 2,Hugo Brosnahan,Morgan Vong,Morgan Vong,5-7,5,7,0,1,Completed,true,false,false
+UA003112,12 May 24,11,Royal South Yarra,Tennis World,No. 3,Maia Gurov,Lucas Iaria,Lucas Iaria,2-6,2,6,0,1,Completed,true,false,false
+UA003112,12 May 24,11,Royal South Yarra,Tennis World,No. 4,Dash Webb,Keagan Vong,Dash Webb,6-0,6,0,1,0,Completed,true,false,false
+UA003113,12 May 24,11,Le Page,Royal Ave,No. 1,Aryan Singh,Luke Cowie,Luke Cowie,3-6,3,6,0,1,Completed,true,false,false
+UA003113,12 May 24,11,Le Page,Royal Ave,No. 2,Adyaan Tata,Tess Dargan,Adyaan Tata,6-1,6,1,1,0,Completed,true,false,false
+UA003113,12 May 24,11,Le Page,Royal Ave,No. 3,Lucas Hansen,Isabel Goldsmith,Lucas Hansen,6-2,6,2,1,0,Completed,true,false,false
+UA003113,12 May 24,11,Le Page,Royal Ave,No. 4,Danko Kovacevic,Lachie Scott,Lachie Scott,3-6,3,6,0,1,Completed,true,false,false
+UA003114,12 May 24,11,Glen Huntly,Victory Park,No. 1,Pierre Maziarz,Samuel Zuo,Samuel Zuo,2-6,2,6,0,1,Completed,true,false,false
+UA003114,12 May 24,11,Glen Huntly,Victory Park,No. 2,Kate Nguyen,Olivia Foster,Kate Nguyen,6-4,6,4,1,0,Completed,true,false,false
+UA003114,12 May 24,11,Glen Huntly,Victory Park,No. 3,Tate Nguyen,Riley Bellingham,Riley Bellingham,2-6,2,6,0,1,Completed,true,false,false
+UA003114,12 May 24,11,Glen Huntly,Victory Park,No. 4,Alexis Vinsonneau,Arshika Prakash,Alexis Vinsonneau,6-3,6,3,1,0,Completed,true,false,false
+UA003121,19 May 24,12,Glen Huntly,Le Page,No. 1,Pierre Maziarz,Aryan Singh,Pierre Maziarz,6-3,6,3,1,0,Completed,true,false,false
+UA003121,19 May 24,12,Glen Huntly,Le Page,No. 2,Tate Nguyen,Adyaan Tata,Adyaan Tata,5-7,5,7,0,1,Completed,true,false,false
+UA003121,19 May 24,12,Glen Huntly,Le Page,No. 3,Antoine Maziarz,Lucas Hansen,Antoine Maziarz,6-0,6,0,1,0,Completed,true,false,false
+UA003121,19 May 24,12,Glen Huntly,Le Page,No. 4,Alexis Vinsonneau,Mia Daniell,Alexis Vinsonneau,6-3,6,3,1,0,Completed,true,false,false
+UA003122,19 May 24,12,Tennis World,Royal Ave,No. 1,Morgan Vong,Luke Cowie,Morgan Vong,6-1,6,1,1,0,Completed,true,false,false
+UA003122,19 May 24,12,Tennis World,Royal Ave,No. 2,Lucas Iaria,Jack James,Lucas Iaria,6-2,6,2,1,0,Completed,true,false,false
+UA003122,19 May 24,12,Tennis World,Royal Ave,No. 3,Jaime Tran,Anthony Pain,Anthony Pain,5-7,5,7,0,1,Completed,true,true,false
+UA003122,19 May 24,12,Tennis World,Royal Ave,No. 4,Keagan Vong,Isabel Goldsmith,Keagan Vong,6-1,6,1,1,0,Completed,true,false,false
+UA003123,19 May 24,12,Victory Park,GPHC,No. 1,Emir Zmak,Oliver Onbashi,Oliver Onbashi,2-6,2,6,0,1,Completed,true,false,false
+UA003123,19 May 24,12,Victory Park,GPHC,No. 2,Samuel Zuo,Oscar Roseman,Samuel Zuo,6-2,6,2,1,0,Completed,true,false,false
+UA003123,19 May 24,12,Victory Park,GPHC,No. 3,Riley Bellingham,Marcus Berton,Marcus Berton,2-6,2,6,0,1,Completed,true,false,false
+UA003123,19 May 24,12,Victory Park,GPHC,No. 4,Arshika Prakash,Orlando De Luca,Arshika Prakash,6-4,6,4,1,0,Completed,true,false,false
+UA003124,19 May 24,12,Royal South Yarra,BLTC Blue,No. 1,Miles Forster,Edward Ruckel,Edward Ruckel,5-7,5,7,0,1,Completed,true,false,false
+UA003124,19 May 24,12,Royal South Yarra,BLTC Blue,No. 2,Tommaso Palombaro,Kevin Wang,Kevin Wang,2-6,2,6,0,1,Completed,true,false,false
+UA003124,19 May 24,12,Royal South Yarra,BLTC Blue,No. 3,Hugo Brosnahan,Riley Luong,Hugo Brosnahan,6-1,6,1,1,0,Completed,true,false,false
+UA003124,19 May 24,12,Royal South Yarra,BLTC Blue,No. 4,Maia Gurov,Willem Duncan,Maia Gurov,6-0,6,0,1,0,Completed,true,false,false
+UA003131,26 May 24,13,Le Page,Royal South Yarra,No. 1,James Polygenis,Miles Forster,James Polygenis,6-0,6,0,1,0,Completed,true,false,false
+UA003131,26 May 24,13,Le Page,Royal South Yarra,No. 2,Adyaan Tata,William McCrae,William McCrae,0-6,0,6,0,1,Completed,true,false,false
+UA003131,26 May 24,13,Le Page,Royal South Yarra,No. 3,Lucas Hansen,Maia Gurov,Lucas Hansen,7-5,7,5,1,0,Completed,true,false,false
+UA003131,26 May 24,13,Le Page,Royal South Yarra,No. 4,Danko Kovacevic,Dash Webb,Danko Kovacevic,6-4,6,4,1,0,Completed,true,false,false
+UA003132,26 May 24,13,BLTC Blue,Glen Huntly,No. 1,Edward Ruckel,Pierre Maziarz,Pierre Maziarz,0-6,0,6,0,1,Completed,true,false,false
+UA003132,26 May 24,13,BLTC Blue,Glen Huntly,No. 2,Kevin Wang,Tate Nguyen,Kevin Wang,6-4,6,4,1,0,Completed,true,false,false
+UA003132,26 May 24,13,BLTC Blue,Glen Huntly,No. 3,Riley Luong,Antoine Maziarz,Antoine Maziarz,3-6,3,6,0,1,Completed,true,false,false
+UA003132,26 May 24,13,BLTC Blue,Glen Huntly,No. 4,Willem Duncan,Alexis Vinsonneau,Willem Duncan,6-1,6,1,1,0,Completed,true,false,false
+UA003133,26 May 24,13,GPHC,Tennis World,No. 1,Adam Onbashi,Ishaan Arya,Adam Onbashi,6-1,6,1,1,0,Completed,true,false,false
+UA003133,26 May 24,13,GPHC,Tennis World,No. 2,Oliver Onbashi,Morgan Vong,Oliver Onbashi,6-2,6,2,1,0,Completed,true,false,false
+UA003133,26 May 24,13,GPHC,Tennis World,No. 3,Oscar Roseman,Lucas Iaria,Lucas Iaria,1-6,1,6,0,1,Completed,true,false,false
+UA003133,26 May 24,13,GPHC,Tennis World,No. 4,Orlando De Luca,Keagan Vong,Orlando De Luca,6-3,6,3,1,0,Completed,true,false,false
+UA003134,26 May 24,13,Royal Ave,Victory Park,No. 1,Luke Cowie,Samuel Zuo,Luke Cowie,7-5,7,5,1,0,Completed,true,false,false
+UA003134,26 May 24,13,Royal Ave,Victory Park,No. 2,Tess Dargan,Olivia Foster,Tess Dargan,6-3,6,3,1,0,Completed,true,false,false
+UA003134,26 May 24,13,Royal Ave,Victory Park,No. 3,Jack James,Madison Kwok,Jack James,6-0,6,0,1,0,Completed,true,false,false
+UA003134,26 May 24,13,Royal Ave,Victory Park,No. 4,Anthony Pain,Arshika Prakash,Arshika Prakash,4-6,4,6,0,1,Completed,true,false,false
+UA003141,02 Jun 24,14,Le Page,BLTC Blue,No. 1,Aryan Singh,Matthew Mizera,Matthew Mizera,1-6,1,6,0,1,Completed,true,false,false
+UA003141,02 Jun 24,14,Le Page,BLTC Blue,No. 2,Adyaan Tata,Edward Ruckel,Adyaan Tata,6-1,6,1,1,0,Completed,true,false,false
+UA003141,02 Jun 24,14,Le Page,BLTC Blue,No. 3,Danko Kovacevic,Kevin Wang,Kevin Wang,3-6,3,6,0,1,Completed,true,false,false
+UA003141,02 Jun 24,14,Le Page,BLTC Blue,No. 4,Mia Daniell,Willem Duncan,Willem Duncan,2-6,2,6,0,1,Completed,true,false,false
+UA003142,02 Jun 24,14,Glen Huntly,Royal South Yarra,No. 1,Jeremy Thai,Tommaso Palombaro,Jeremy Thai,6-2,6,2,1,0,Completed,true,true,false
+UA003142,02 Jun 24,14,Glen Huntly,Royal South Yarra,No. 2,Pierre Maziarz,Hugo Brosnahan,Pierre Maziarz,6-2,6,2,1,0,Completed,true,false,false
+UA003142,02 Jun 24,14,Glen Huntly,Royal South Yarra,No. 3,Tate Nguyen,William McCrae,Tate Nguyen,6-4,6,4,1,0,Completed,true,false,false
+UA003142,02 Jun 24,14,Glen Huntly,Royal South Yarra,No. 4,Antoine Maziarz,Dash Webb,Antoine Maziarz,6-3,6,3,1,0,Completed,true,false,false
+UA003143,02 Jun 24,14,GPHC,Royal Ave,No. 1,Oscar Roseman,Jack James,Jack James,3-6,3,6,0,1,Completed,true,false,false
+UA003143,02 Jun 24,14,GPHC,Royal Ave,No. 2,Marcus Berton,Isabel Goldsmith,Marcus Berton,6-0,6,0,1,0,Completed,true,false,false
+UA003143,02 Jun 24,14,GPHC,Royal Ave,No. 3,Hugo Taylor,Jack Watson,Jack Watson,1-6,1,6,0,1,Completed,true,true,true
+UA003143,02 Jun 24,14,GPHC,Royal Ave,No. 4,Thomas Doan,[Unnamed player — TROLS UA003143 away code 4],Thomas Doan,6-0,6,0,1,0,Completed,false,true,false
+UA003144,02 Jun 24,14,Victory Park,Tennis World,No. 1,Emir Zmak,Ishaan Arya,Ishaan Arya,1-6,1,6,0,1,Completed,true,false,false
+UA003144,02 Jun 24,14,Victory Park,Tennis World,No. 2,Olivia Foster,Morgan Vong,Olivia Foster,6-4,6,4,1,0,Completed,true,false,false
+UA003144,02 Jun 24,14,Victory Park,Tennis World,No. 3,Madison Kwok,Lucas Iaria,Lucas Iaria,1-6,1,6,0,1,Completed,true,false,false
+UA003144,02 Jun 24,14,Victory Park,Tennis World,No. 4,Riley Bellingham,Keagan Vong,Riley Bellingham,6-3,6,3,1,0,Completed,true,false,false
+UA003301,,16,GPHC,Tennis World,No. 1,Adam Onbashi,Ishaan Arya,Adam Onbashi,6-4,6,4,1,0,Completed,true,false,false
+UA003301,,16,GPHC,Tennis World,No. 2,Oliver Onbashi,Morgan Vong,Oliver Onbashi,6-0,6,0,1,0,Completed,true,false,false
+UA003301,,16,GPHC,Tennis World,No. 3,Marcus Berton,Lucas Iaria,Marcus Berton,6-2,6,2,1,0,Completed,true,false,false
+UA003301,,16,GPHC,Tennis World,No. 4,Orlando De Luca,Keagan Vong,Keagan Vong,1-6,1,6,0,1,Completed,true,false,false
+UA003302,,16,Glen Huntly,BLTC Blue,No. 1,Pierre Maziarz,Matthew Mizera,Pierre Maziarz,6-2,6,2,1,0,Completed,true,false,false
+UA003302,,16,Glen Huntly,BLTC Blue,No. 2,Tate Nguyen,Edward Ruckel,Tate Nguyen,6-0,6,0,1,0,Completed,true,false,false
+UA003302,,16,Glen Huntly,BLTC Blue,No. 3,Antoine Maziarz,Kevin Wang,Kevin Wang,4-6,4,6,0,1,Completed,true,false,false
+UA003302,,16,Glen Huntly,BLTC Blue,No. 4,Alexis Vinsonneau,Riley Luong,Alexis Vinsonneau,6-0,6,0,1,0,Completed,true,false,false
+UA003321,,17,GPHC,Glen Huntly,No. 1,Adam Onbashi,Pierre Maziarz,Pierre Maziarz,3-6,3,6,0,1,Completed,true,false,false
+UA003321,,17,GPHC,Glen Huntly,No. 2,Oliver Onbashi,Kate Nguyen,Oliver Onbashi,6-1,6,1,1,0,Completed,true,false,false
+UA003321,,17,GPHC,Glen Huntly,No. 3,Oscar Roseman,Antoine Maziarz,Antoine Maziarz,2-6,2,6,0,1,Completed,true,false,false
+UA003321,,17,GPHC,Glen Huntly,No. 4,Marcus Berton,Alexis Vinsonneau,Marcus Berton,6-4,6,4,1,0,Completed,true,false,false

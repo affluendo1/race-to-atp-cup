@@ -1,0 +1,225 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA002011,17 Jul 16,1,Aspendale,Mordialloc,No. 1,Anthony Cameron,Samisdh Siva-Ram,Anthony Cameron,6-4,6,4,1,0,Completed,true,false,false
+UA002011,17 Jul 16,1,Aspendale,Mordialloc,No. 2,Jeremy Cullen,Kartik Sehgal,Jeremy Cullen,7-6,7,6,1,0,Completed,true,false,false
+UA002011,17 Jul 16,1,Aspendale,Mordialloc,No. 3,Bailey Judd,Lachlan Jones,Bailey Judd,6-4,6,4,1,0,Completed,true,false,false
+UA002011,17 Jul 16,1,Aspendale,Mordialloc,No. 4,Dean Stavrou,Kunal Sehgal,Kunal Sehgal,5-7,5,7,0,1,Completed,true,false,false
+UA002012,17 Jul 16,1,Tennis World,BLTC,No. 1,Harrison Raffaele,Scott Moore,Harrison Raffaele,6-3,6,3,1,0,Completed,true,false,false
+UA002012,17 Jul 16,1,Tennis World,BLTC,No. 2,Josh Mercuri,Natasha Amon-Simmonds,Josh Mercuri,6-1,6,1,1,0,Completed,true,false,false
+UA002012,17 Jul 16,1,Tennis World,BLTC,No. 3,Ethan Brooke,Kayla Preller,Ethan Brooke,6-4,6,4,1,0,Completed,true,false,false
+UA002012,17 Jul 16,1,Tennis World,BLTC,No. 4,Bailey Liu,Ellecia Baker,Bailey Liu,6-1,6,1,1,0,Completed,true,false,false
+UA002013,17 Jul 16,1,Parkdale,Kooyong,No. 1,Sean Enright,Isabella Lucas,Isabella Lucas,4-6,4,6,0,1,Completed,true,false,false
+UA002013,17 Jul 16,1,Parkdale,Kooyong,No. 2,Luke Shi,Celeste Rayment,Celeste Rayment,4-6,4,6,0,1,Completed,true,false,false
+UA002013,17 Jul 16,1,Parkdale,Kooyong,No. 3,James Comben,Grace Fountain,Grace Fountain,4-6,4,6,0,1,Completed,true,false,false
+UA002013,17 Jul 16,1,Parkdale,Kooyong,No. 4,Jeremy Gonis,Emily Harvey,Emily Harvey,6-7,6,7,0,1,Completed,true,false,false
+UA002014,17 Jul 16,1,Coatesville,Maccabi,No. 1,Daniel Gershenzan,Damon Flicker,Damon Flicker,0-6,0,6,0,1,Completed,true,false,false
+UA002014,17 Jul 16,1,Coatesville,Maccabi,No. 2,Adrian Mitsel,Ron Kotev,Ron Kotev,4-6,4,6,0,1,Completed,true,false,false
+UA002014,17 Jul 16,1,Coatesville,Maccabi,No. 3,Saskia Komljenovic,Moshe Wajsbort,Saskia Komljenovic,6-0,6,0,1,0,Completed,true,false,false
+UA002014,17 Jul 16,1,Coatesville,Maccabi,No. 4,Tully Watson,Jaime Orelowitz,Jaime Orelowitz,3-6,3,6,0,1,Completed,true,false,false
+UA002021,24 Jul 16,2,Maccabi,Aspendale,No. 1,Marty Schwarz,Ben Garside Weinert,Ben Garside Weinert,4-6,4,6,0,1,Completed,true,false,false
+UA002021,24 Jul 16,2,Maccabi,Aspendale,No. 2,Jordan Jaffe,Anthony Cameron,Jordan Jaffe,6-2,6,2,1,0,Completed,true,false,false
+UA002021,24 Jul 16,2,Maccabi,Aspendale,No. 3,Ron Kotev,Jeremy Cullen,Jeremy Cullen,4-6,4,6,0,1,Completed,true,false,false
+UA002021,24 Jul 16,2,Maccabi,Aspendale,No. 4,Jaime Orelowitz,Dean Stavrou,Dean Stavrou,1-6,1,6,0,1,Completed,true,false,false
+UA002022,24 Jul 16,2,Mordialloc,Tennis World,No. 1,Samisdh Siva-Ram,Harrison Raffaele,Harrison Raffaele,6-7,6,7,0,1,Completed,true,false,false
+UA002022,24 Jul 16,2,Mordialloc,Tennis World,No. 2,Lachlan Jones,Josh Mercuri,Lachlan Jones,6-1,6,1,1,0,Completed,true,false,false
+UA002022,24 Jul 16,2,Mordialloc,Tennis World,No. 3,Aryon Raghav,Ethan Brooke,Aryon Raghav,6-3,6,3,1,0,Completed,true,false,false
+UA002022,24 Jul 16,2,Mordialloc,Tennis World,No. 4,Bodie Gardner,James Barjaktar,James Barjaktar,3-6,3,6,0,1,Completed,true,false,false
+UA002023,24 Jul 16,2,BLTC,Parkdale,No. 1,Scott Moore,Sean Enright,Sean Enright,3-6,3,6,0,1,Completed,true,false,false
+UA002023,24 Jul 16,2,BLTC,Parkdale,No. 2,Natasha Amon-Simmonds,Luke Shi,Luke Shi,1-6,1,6,0,1,Completed,true,false,false
+UA002023,24 Jul 16,2,BLTC,Parkdale,No. 3,Issy Parker,James Comben,James Comben,4-6,4,6,0,1,Completed,true,false,false
+UA002023,24 Jul 16,2,BLTC,Parkdale,No. 4,Samantha Amon-Simmonds,Jeremy Gonis,Jeremy Gonis,5-7,5,7,0,1,Completed,true,false,false
+UA002024,24 Jul 16,2,Kooyong,Coatesville,No. 1,Isabella Lucas,Daniel Gershenzan,Isabella Lucas,6-4,6,4,1,0,Completed,true,false,false
+UA002024,24 Jul 16,2,Kooyong,Coatesville,No. 2,Celeste Rayment,Gabi Basman,Celeste Rayment,6-1,6,1,1,0,Completed,true,false,false
+UA002024,24 Jul 16,2,Kooyong,Coatesville,No. 3,Grace Fountain,Adrian Mitsel,Grace Fountain,6-3,6,3,1,0,Completed,true,false,false
+UA002024,24 Jul 16,2,Kooyong,Coatesville,No. 4,Emily Harvey,Saskia Komljenovic,Saskia Komljenovic,0-6,0,6,0,1,Completed,true,false,false
+UA002031,31 Jul 16,3,Aspendale,Kooyong,No. 1,Ben Garside Weinert,Isabella Lucas,Ben Garside Weinert,6-1,6,1,1,0,Completed,true,false,false
+UA002031,31 Jul 16,3,Aspendale,Kooyong,No. 2,Anthony Cameron,Celeste Rayment,Celeste Rayment,4-6,4,6,0,1,Completed,true,false,false
+UA002031,31 Jul 16,3,Aspendale,Kooyong,No. 3,Dean Stavrou,Grace Fountain,Dean Stavrou,6-2,6,2,1,0,Completed,true,false,false
+UA002031,31 Jul 16,3,Aspendale,Kooyong,No. 4,Caleb Curtis,Emily Harvey,Caleb Curtis,6-2,6,2,1,0,Completed,true,false,false
+UA002032,31 Jul 16,3,Tennis World,Maccabi,No. 1,Harrison Raffaele,Marty Schwarz,Harrison Raffaele,6-2,6,2,1,0,Completed,true,false,false
+UA002032,31 Jul 16,3,Tennis World,Maccabi,No. 2,Ethan Brooke,Jordan Jaffe,Jordan Jaffe,1-6,1,6,0,1,Completed,true,false,false
+UA002032,31 Jul 16,3,Tennis World,Maccabi,No. 3,Bailey Liu,Moshe Wajsbort,Moshe Wajsbort,1-6,1,6,0,1,Completed,true,false,false
+UA002032,31 Jul 16,3,Tennis World,Maccabi,No. 4,James Barjaktar,Ron Kotev,James Barjaktar,6-4,6,4,1,0,Completed,true,false,false
+UA002033,31 Jul 16,3,Parkdale,Mordialloc,No. 1,Sean Enright,Samisdh Siva-Ram,Samisdh Siva-Ram,3-6,3,6,0,1,Completed,true,false,false
+UA002033,31 Jul 16,3,Parkdale,Mordialloc,No. 2,Luke Shi,Kartik Sehgal,Luke Shi,7-5,7,5,1,0,Completed,true,false,false
+UA002033,31 Jul 16,3,Parkdale,Mordialloc,No. 3,Jeremy Gonis,Kunal Sehgal,Kunal Sehgal,4-6,4,6,0,1,Completed,true,false,false
+UA002033,31 Jul 16,3,Parkdale,Mordialloc,No. 4,Dylan Bradley,Aryon Raghav,Aryon Raghav,3-6,3,6,0,1,Completed,true,false,false
+UA002034,31 Jul 16,3,Coatesville,BLTC,No. 1,Daniel Gershenzan,Maddy French,Maddy French,0-6,0,6,0,1,Completed,true,false,false
+UA002034,31 Jul 16,3,Coatesville,BLTC,No. 2,Gabi Basman,[Unnamed player — TROLS UA002034 away code 2],Gabi Basman,6-0,6,0,1,0,Completed,false,false,false
+UA002034,31 Jul 16,3,Coatesville,BLTC,No. 3,Saskia Komljenovic,Samantha Amon-Simmonds,Saskia Komljenovic,6-0,6,0,1,0,Completed,true,false,false
+UA002034,31 Jul 16,3,Coatesville,BLTC,No. 4,Tully Watson,Charlie Anderson,Tully Watson,6-1,6,1,1,0,Completed,true,false,false
+UA002041,07 Aug 16,4,BLTC,Aspendale,No. 1,Scott Moore,Ben Garside Weinert,Ben Garside Weinert,5-7,5,7,0,1,Completed,true,false,false
+UA002041,07 Aug 16,4,BLTC,Aspendale,No. 2,Maddy French,Jeremy Cullen,Maddy French,6-3,6,3,1,0,Completed,true,false,false
+UA002041,07 Aug 16,4,BLTC,Aspendale,No. 3,Issy Parker,Bailey Judd,Bailey Judd,2-6,2,6,0,1,Completed,true,false,false
+UA002041,07 Aug 16,4,BLTC,Aspendale,No. 4,Samantha Amon-Simmonds,Dean Stavrou,Dean Stavrou,3-6,3,6,0,1,Completed,true,false,false
+UA002042,07 Aug 16,4,Kooyong,Tennis World,No. 1,Isabella Lucas,Harrison Raffaele,Harrison Raffaele,1-6,1,6,0,1,Completed,true,false,false
+UA002042,07 Aug 16,4,Kooyong,Tennis World,No. 2,Sienna Dinatale,Ethan Brooke,Sienna Dinatale,6-1,6,1,1,0,Completed,true,false,false
+UA002042,07 Aug 16,4,Kooyong,Tennis World,No. 3,Grace Fountain,Bailey Liu,Grace Fountain,6-4,6,4,1,0,Completed,true,false,false
+UA002042,07 Aug 16,4,Kooyong,Tennis World,No. 4,Emily Harvey,James Barjaktar,Emily Harvey,6-2,6,2,1,0,Completed,true,false,false
+UA002043,07 Aug 16,4,Maccabi,Parkdale,No. 1,Marty Schwarz,Luke Shi,Luke Shi,2-6,2,6,0,1,Completed,true,false,false
+UA002043,07 Aug 16,4,Maccabi,Parkdale,No. 2,Jordan Jaffe,James Comben,Jordan Jaffe,7-6,7,6,1,0,Completed,true,false,false
+UA002043,07 Aug 16,4,Maccabi,Parkdale,No. 3,Moshe Wajsbort,Jeremy Gonis,Jeremy Gonis,6-7,6,7,0,1,Completed,true,false,false
+UA002043,07 Aug 16,4,Maccabi,Parkdale,No. 4,Ron Kotev,Josh Nibbs,Ron Kotev,7-5,7,5,1,0,Completed,true,false,false
+UA002044,07 Aug 16,4,Mordialloc,Coatesville,No. 1,Kartik Sehgal,Daniel Gershenzan,Kartik Sehgal,6-2,6,2,1,0,Completed,true,false,false
+UA002044,07 Aug 16,4,Mordialloc,Coatesville,No. 2,Lachlan Jones,Gabi Basman,Gabi Basman,3-6,3,6,0,1,Completed,true,false,false
+UA002044,07 Aug 16,4,Mordialloc,Coatesville,No. 3,Kunal Sehgal,Adrian Mitsel,Kunal Sehgal,6-4,6,4,1,0,Completed,true,false,false
+UA002044,07 Aug 16,4,Mordialloc,Coatesville,No. 4,Bodie Gardner,Tully Watson,Tully Watson,1-6,1,6,0,1,Completed,true,false,false
+UA002051,14 Aug 16,5,Parkdale,Coatesville,No. 1,Luke Shi,Daniel Gershenzan,Luke Shi,6-3,6,3,1,0,Completed,true,false,false
+UA002051,14 Aug 16,5,Parkdale,Coatesville,No. 2,James Comben,Gabi Basman,Gabi Basman,5-7,5,7,0,1,Completed,true,false,false
+UA002051,14 Aug 16,5,Parkdale,Coatesville,No. 3,Jeremy Gonis,Adrian Mitsel,Adrian Mitsel,5-7,5,7,0,1,Completed,true,false,false
+UA002051,14 Aug 16,5,Parkdale,Coatesville,No. 4,Gemma Maguire,Bayden Hill,Bayden Hill,0-6,0,6,0,1,Completed,true,false,false
+UA002052,14 Aug 16,5,Maccabi,Kooyong,No. 1,Marty Schwarz,Isabella Lucas,Marty Schwarz,6-1,6,1,1,0,Completed,true,false,false
+UA002052,14 Aug 16,5,Maccabi,Kooyong,No. 2,Jordan Jaffe,Sienna Dinatale,Sienna Dinatale,4-6,4,6,0,1,Completed,true,false,false
+UA002052,14 Aug 16,5,Maccabi,Kooyong,No. 3,Ron Kotev,Celeste Rayment,Celeste Rayment,4-6,4,6,0,1,Completed,true,false,false
+UA002052,14 Aug 16,5,Maccabi,Kooyong,No. 4,Jaime Orelowitz,Emily Harvey,Emily Harvey,2-6,2,6,0,1,Completed,true,false,false
+UA002053,14 Aug 16,5,BLTC,Mordialloc,No. 1,Scott Moore,Samisdh Siva-Ram,Samisdh Siva-Ram,2-6,2,6,0,1,Completed,true,false,false
+UA002053,14 Aug 16,5,BLTC,Mordialloc,No. 2,Kayla Preller,Lachlan Jones,Lachlan Jones,5-7,5,7,0,1,Completed,true,false,false
+UA002053,14 Aug 16,5,BLTC,Mordialloc,No. 3,Issy Parker,Aryon Raghav,Aryon Raghav,2-6,2,6,0,1,Completed,true,false,false
+UA002053,14 Aug 16,5,BLTC,Mordialloc,No. 4,Ellecia Baker,Bodie Gardner,Ellecia Baker,6-0,6,0,1,0,Completed,true,false,false
+UA002054,14 Aug 16,5,Aspendale,Tennis World,No. 1,Ben Garside Weinert,Ethan Brooke,Ben Garside Weinert,6-1,6,1,1,0,Completed,true,false,false
+UA002054,14 Aug 16,5,Aspendale,Tennis World,No. 2,Anthony Cameron,Bailey Liu,Anthony Cameron,7-5,7,5,1,0,Completed,true,false,false
+UA002054,14 Aug 16,5,Aspendale,Tennis World,No. 3,Jeremy Cullen,Adam Mercuri,Adam Mercuri,0-6,0,6,0,1,Completed,true,false,false
+UA002054,14 Aug 16,5,Aspendale,Tennis World,No. 4,Bailey Judd,Jamie Cranston,Jamie Cranston,4-6,4,6,0,1,Completed,true,false,false
+UA002061,21 Aug 16,6,Tennis World,Parkdale,No. 1,Harrison Raffaele,Sean Enright,Harrison Raffaele,6-3,6,3,1,0,Completed,true,false,false
+UA002061,21 Aug 16,6,Tennis World,Parkdale,No. 2,Bailey Liu,James Comben,James Comben,3-6,3,6,0,1,Completed,true,false,false
+UA002061,21 Aug 16,6,Tennis World,Parkdale,No. 3,Adam Mercuri,Jeremy Gonis,Adam Mercuri,6-4,6,4,1,0,Completed,true,false,false
+UA002061,21 Aug 16,6,Tennis World,Parkdale,No. 4,James Barjaktar,Alex Grant,Alex Grant,3-6,3,6,0,1,Completed,true,false,false
+UA002062,21 Aug 16,6,Coatesville,Aspendale,No. 1,Daniel Gershenzan,Anthony Cameron,Anthony Cameron,1-6,1,6,0,1,Completed,true,false,false
+UA002062,21 Aug 16,6,Coatesville,Aspendale,No. 2,Gabi Basman,Jeremy Cullen,Gabi Basman,6-2,6,2,1,0,Completed,true,false,false
+UA002062,21 Aug 16,6,Coatesville,Aspendale,No. 3,Saskia Komljenovic,Bailey Judd,Bailey Judd,0-6,0,6,0,1,Completed,true,false,false
+UA002062,21 Aug 16,6,Coatesville,Aspendale,No. 4,Tully Watson,Dean Stavrou,Dean Stavrou,2-6,2,6,0,1,Completed,true,false,false
+UA002063,21 Aug 16,6,Kooyong,BLTC,No. 1,Isabella Lucas,Scott Moore,Scott Moore,5-7,5,7,0,1,Completed,true,false,false
+UA002063,21 Aug 16,6,Kooyong,BLTC,No. 2,Paris Rollnik,Issy Parker,Paris Rollnik,6-0,6,0,1,0,Completed,true,false,false
+UA002063,21 Aug 16,6,Kooyong,BLTC,No. 3,Grace Fountain,Charlie Anderson,Grace Fountain,6-2,6,2,1,0,Completed,true,false,false
+UA002063,21 Aug 16,6,Kooyong,BLTC,No. 4,Emily Harvey,Meitta Brodie-Arter,Emily Harvey,6-2,6,2,1,0,Completed,true,false,false
+UA002064,21 Aug 16,6,Mordialloc,Maccabi,No. 1,Samisdh Siva-Ram,Moshe Wajsbort,Samisdh Siva-Ram,6-2,6,2,1,0,Completed,true,false,false
+UA002064,21 Aug 16,6,Mordialloc,Maccabi,No. 2,Mitch Pattison,Ron Kotev,Mitch Pattison,6-0,6,0,1,0,Completed,true,false,false
+UA002064,21 Aug 16,6,Mordialloc,Maccabi,No. 3,Aryon Raghav,Jaime Orelowitz,Jaime Orelowitz,4-6,4,6,0,1,Completed,true,false,false
+UA002064,21 Aug 16,6,Mordialloc,Maccabi,No. 4,Bodie Gardner,Riley Brick,Riley Brick,0-6,0,6,0,1,Completed,true,false,false
+UA002071,28 Aug 16,7,Aspendale,Parkdale,No. 1,Ben Garside Weinert,Sean Enright,Ben Garside Weinert,7-5,7,5,1,0,Completed,true,false,false
+UA002071,28 Aug 16,7,Aspendale,Parkdale,No. 2,Jeremy Cullen,Luke Shi,Luke Shi,6-7,6,7,0,1,Completed,true,false,false
+UA002071,28 Aug 16,7,Aspendale,Parkdale,No. 3,Bailey Judd,James Comben,Bailey Judd,6-4,6,4,1,0,Completed,true,false,false
+UA002071,28 Aug 16,7,Aspendale,Parkdale,No. 4,Dean Stavrou,Jeremy Gonis,Jeremy Gonis,5-7,5,7,0,1,Completed,true,false,false
+UA002072,28 Aug 16,7,Tennis World,Coatesville,No. 1,Josh Mercuri,Daniel Gershenzan,Josh Mercuri,6-4,6,4,1,0,Completed,true,false,false
+UA002072,28 Aug 16,7,Tennis World,Coatesville,No. 2,Ethan Brooke,Adrian Mitsel,Adrian Mitsel,6-7,6,7,0,1,Completed,true,false,false
+UA002072,28 Aug 16,7,Tennis World,Coatesville,No. 3,Bailey Liu,Saskia Komljenovic,Saskia Komljenovic,2-6,2,6,0,1,Completed,true,false,false
+UA002072,28 Aug 16,7,Tennis World,Coatesville,No. 4,James Barjaktar,Tully Watson,James Barjaktar,7-6,7,6,1,0,Completed,true,false,false
+UA002073,28 Aug 16,7,Maccabi,BLTC,No. 1,Marty Schwarz,Maddy French,Marty Schwarz,7-5,7,5,1,0,Completed,true,false,false
+UA002073,28 Aug 16,7,Maccabi,BLTC,No. 2,Jordan Jaffe,Kayla Preller,Jordan Jaffe,6-0,6,0,1,0,Completed,true,false,false
+UA002073,28 Aug 16,7,Maccabi,BLTC,No. 3,Moshe Wajsbort,Ellecia Baker,Moshe Wajsbort,6-0,6,0,1,0,Completed,true,false,false
+UA002073,28 Aug 16,7,Maccabi,BLTC,No. 4,Aaron Immerman,Charlie Anderson,Charlie Anderson,2-6,2,6,0,1,Completed,true,false,false
+UA002074,28 Aug 16,7,Kooyong,Mordialloc,No. 1,Isabella Lucas,Samisdh Siva-Ram,Samisdh Siva-Ram,0-6,0,6,0,1,Completed,true,false,false
+UA002074,28 Aug 16,7,Kooyong,Mordialloc,No. 2,Paris Rollnik,Kartik Sehgal,Kartik Sehgal,1-6,1,6,0,1,Completed,true,false,false
+UA002074,28 Aug 16,7,Kooyong,Mordialloc,No. 3,Grace Fountain,Kunal Sehgal,Grace Fountain,6-3,6,3,1,0,Completed,true,false,false
+UA002074,28 Aug 16,7,Kooyong,Mordialloc,No. 4,Emily Harvey,Bodie Gardner,Emily Harvey,6-0,6,0,1,0,Completed,true,false,false
+UA002081,04 Sep 16,8,Mordialloc,Aspendale,No. 1,Samisdh Siva-Ram,Ben Garside Weinert,Samisdh Siva-Ram,6-3,6,3,1,0,Completed,true,false,false
+UA002081,04 Sep 16,8,Mordialloc,Aspendale,No. 2,Kartik Sehgal,Anthony Cameron,Kartik Sehgal,6-2,6,2,1,0,Completed,true,false,false
+UA002081,04 Sep 16,8,Mordialloc,Aspendale,No. 3,Kunal Sehgal,Bailey Judd,Kunal Sehgal,6-1,6,1,1,0,Completed,true,false,false
+UA002081,04 Sep 16,8,Mordialloc,Aspendale,No. 4,Aryon Raghav,Dean Stavrou,Dean Stavrou,2-6,2,6,0,1,Completed,true,false,false
+UA002082,04 Sep 16,8,BLTC,Tennis World,No. 1,Kayla Preller,Harrison Raffaele,Harrison Raffaele,1-6,1,6,0,1,Completed,true,false,false
+UA002082,04 Sep 16,8,BLTC,Tennis World,No. 2,Issy Parker,Josh Mercuri,Josh Mercuri,1-6,1,6,0,1,Completed,true,false,false
+UA002082,04 Sep 16,8,BLTC,Tennis World,No. 3,Ellecia Baker,Adam Mercuri,Adam Mercuri,0-6,0,6,0,1,Completed,true,false,false
+UA002082,04 Sep 16,8,BLTC,Tennis World,No. 4,Charlie Anderson,James Barjaktar,James Barjaktar,4-6,4,6,0,1,Completed,true,false,false
+UA002083,04 Sep 16,8,Kooyong,Parkdale,No. 1,Isabella Lucas,Sean Enright,Sean Enright,1-6,1,6,0,1,Completed,true,false,false
+UA002083,04 Sep 16,8,Kooyong,Parkdale,No. 2,Celeste Rayment,Luke Shi,Luke Shi,6-7,6,7,0,1,Completed,true,false,false
+UA002083,04 Sep 16,8,Kooyong,Parkdale,No. 3,Paris Rollnik,James Comben,Paris Rollnik,6-1,6,1,1,0,Completed,true,false,false
+UA002083,04 Sep 16,8,Kooyong,Parkdale,No. 4,Emily Harvey,Jeremy Gonis,Jeremy Gonis,3-6,3,6,0,1,Completed,true,false,false
+UA002084,04 Sep 16,8,Maccabi,Coatesville,No. 1,Marty Schwarz,Daniel Gershenzan,Marty Schwarz,6-3,6,3,1,0,Completed,true,false,false
+UA002084,04 Sep 16,8,Maccabi,Coatesville,No. 2,Jordan Jaffe,Gabi Basman,Jordan Jaffe,6-1,6,1,1,0,Completed,true,false,false
+UA002084,04 Sep 16,8,Maccabi,Coatesville,No. 3,Moshe Wajsbort,Bayden Hill,Moshe Wajsbort,6-4,6,4,1,0,Completed,true,false,false
+UA002084,04 Sep 16,8,Maccabi,Coatesville,No. 4,Ron Kotev,Tully Watson,Tully Watson,4-6,4,6,0,1,Completed,true,false,false
+UA002091,11 Sep 16,9,Aspendale,Maccabi,No. 1,Ben Garside Weinert,Marty Schwarz,Marty Schwarz,1-6,1,6,0,1,Completed,true,false,false
+UA002091,11 Sep 16,9,Aspendale,Maccabi,No. 2,Anthony Cameron,Jordan Jaffe,Jordan Jaffe,3-6,3,6,0,1,Completed,true,false,false
+UA002091,11 Sep 16,9,Aspendale,Maccabi,No. 3,Bailey Judd,Moshe Wajsbort,Moshe Wajsbort,5-7,5,7,0,1,Completed,true,false,false
+UA002091,11 Sep 16,9,Aspendale,Maccabi,No. 4,Dean Stavrou,Ron Kotev,Dean Stavrou,6-4,6,4,1,0,Completed,true,false,false
+UA002092,11 Sep 16,9,Tennis World,Mordialloc,No. 1,Harrison Raffaele,Samisdh Siva-Ram,Samisdh Siva-Ram,2-6,2,6,0,1,Completed,true,false,false
+UA002092,11 Sep 16,9,Tennis World,Mordialloc,No. 2,Josh Mercuri,Kartik Sehgal,Kartik Sehgal,4-6,4,6,0,1,Completed,true,false,false
+UA002092,11 Sep 16,9,Tennis World,Mordialloc,No. 3,Ethan Brooke,Kunal Sehgal,Kunal Sehgal,4-6,4,6,0,1,Completed,true,false,false
+UA002092,11 Sep 16,9,Tennis World,Mordialloc,No. 4,James Barjaktar,Aryon Raghav,Aryon Raghav,4-6,4,6,0,1,Completed,true,false,false
+UA002093,11 Sep 16,9,Parkdale,BLTC,No. 1,Sean Enright,Scott Moore,Sean Enright,6-4,6,4,1,0,Completed,true,false,false
+UA002093,11 Sep 16,9,Parkdale,BLTC,No. 2,James Comben,Kayla Preller,James Comben,6-0,6,0,1,0,Completed,true,false,false
+UA002093,11 Sep 16,9,Parkdale,BLTC,No. 3,Jeremy Gonis,Issy Parker,Jeremy Gonis,6-4,6,4,1,0,Completed,true,false,false
+UA002093,11 Sep 16,9,Parkdale,BLTC,No. 4,James Cacciottolo,Charlie Anderson,Charlie Anderson,3-6,3,6,0,1,Completed,true,false,false
+UA002094,11 Sep 16,9,Coatesville,Kooyong,No. 1,Gabi Basman,Isabella Lucas,Gabi Basman,6-3,6,3,1,0,Completed,true,false,false
+UA002094,11 Sep 16,9,Coatesville,Kooyong,No. 2,Adrian Mitsel,Sienna Dinatale,Sienna Dinatale,2-6,2,6,0,1,Completed,true,false,false
+UA002094,11 Sep 16,9,Coatesville,Kooyong,No. 3,Bayden Hill,Paris Rollnik,Bayden Hill,6-1,6,1,1,0,Completed,true,false,false
+UA002094,11 Sep 16,9,Coatesville,Kooyong,No. 4,Tully Watson,Emily Harvey,Emily Harvey,2-6,2,6,0,1,Completed,true,false,false
+UA002101,09 Oct 16,10,Kooyong,Aspendale,No. 1,Celeste Rayment,Ben Garside Weinert,Ben Garside Weinert,3-6,3,6,0,1,Completed,true,false,false
+UA002101,09 Oct 16,10,Kooyong,Aspendale,No. 2,Isabella Lucas,Anthony Cameron,Anthony Cameron,1-6,1,6,0,1,Completed,true,false,false
+UA002101,09 Oct 16,10,Kooyong,Aspendale,No. 3,Paris Rollnik,Jeremy Cullen,Paris Rollnik,6-4,6,4,1,0,Completed,true,false,false
+UA002101,09 Oct 16,10,Kooyong,Aspendale,No. 4,Daria Nikishova,Bailey Judd,Daria Nikishova,7-5,7,5,1,0,Completed,true,false,false
+UA002102,09 Oct 16,10,Maccabi,Tennis World,No. 1,Marty Schwarz,Harrison Raffaele,Marty Schwarz,6-4,6,4,1,0,Completed,true,false,false
+UA002102,09 Oct 16,10,Maccabi,Tennis World,No. 2,Jordan Jaffe,Josh Mercuri,Jordan Jaffe,6-3,6,3,1,0,Completed,true,false,false
+UA002102,09 Oct 16,10,Maccabi,Tennis World,No. 3,Moshe Wajsbort,Bailey Liu,Bailey Liu,3-6,3,6,0,1,Completed,true,false,false
+UA002102,09 Oct 16,10,Maccabi,Tennis World,No. 4,Ron Kotev,James Barjaktar,Ron Kotev,6-3,6,3,1,0,Completed,true,false,false
+UA002103,09 Oct 16,10,Mordialloc,Parkdale,No. 1,Samisdh Siva-Ram,Sean Enright,Samisdh Siva-Ram,6-2,6,2,1,0,Completed,true,false,false
+UA002103,09 Oct 16,10,Mordialloc,Parkdale,No. 2,Mitch Pattison,Luke Shi,Luke Shi,5-7,5,7,0,1,Completed,true,false,false
+UA002103,09 Oct 16,10,Mordialloc,Parkdale,No. 3,Aryon Raghav,James Comben,Aryon Raghav,6-4,6,4,1,0,Completed,true,false,false
+UA002103,09 Oct 16,10,Mordialloc,Parkdale,No. 4,Bodie Gardner,Jeremy Gonis,Jeremy Gonis,0-6,0,6,0,1,Completed,true,false,false
+UA002104,09 Oct 16,10,BLTC,Coatesville,No. 1,Maddy French,Daniel Gershenzan,Maddy French,6-0,6,0,1,0,Completed,true,false,false
+UA002104,09 Oct 16,10,BLTC,Coatesville,No. 2,Kayla Preller,Gabi Basman,Gabi Basman,1-6,1,6,0,1,Completed,true,false,false
+UA002104,09 Oct 16,10,BLTC,Coatesville,No. 3,Issy Parker,Adrian Mitsel,Adrian Mitsel,1-6,1,6,0,1,Completed,true,false,false
+UA002104,09 Oct 16,10,BLTC,Coatesville,No. 4,Ellecia Baker,Saskia Komljenovic,Saskia Komljenovic,4-6,4,6,0,1,Completed,true,false,false
+UA002111,16 Oct 16,11,Aspendale,BLTC,No. 1,Ben Garside Weinert,Scott Moore,Ben Garside Weinert,6-3,6,3,1,0,Completed,true,false,false
+UA002111,16 Oct 16,11,Aspendale,BLTC,No. 2,Anthony Cameron,Maddy French,Maddy French,3-6,3,6,0,1,Completed,true,false,false
+UA002111,16 Oct 16,11,Aspendale,BLTC,No. 3,Jeremy Cullen,Kayla Preller,Jeremy Cullen,6-2,6,2,1,0,Completed,true,false,false
+UA002111,16 Oct 16,11,Aspendale,BLTC,No. 4,Dean Stavrou,Ellecia Baker,Dean Stavrou,6-0,6,0,1,0,Completed,true,false,false
+UA002112,16 Oct 16,11,Tennis World,Kooyong,No. 1,Harrison Raffaele,Celeste Rayment,Harrison Raffaele,6-0,6,0,1,0,Completed,true,false,false
+UA002112,16 Oct 16,11,Tennis World,Kooyong,No. 2,Josh Mercuri,Paris Rollnik,Paris Rollnik,2-6,2,6,0,1,Completed,true,false,false
+UA002112,16 Oct 16,11,Tennis World,Kooyong,No. 3,Bailey Liu,Grace Fountain,Grace Fountain,6-7,6,7,0,1,Completed,true,false,false
+UA002112,16 Oct 16,11,Tennis World,Kooyong,No. 4,James Barjaktar,Emily Harvey,Emily Harvey,2-6,2,6,0,1,Completed,true,false,false
+UA002113,16 Oct 16,11,Parkdale,Maccabi,No. 1,Sean Enright,Marty Schwarz,Marty Schwarz,2-6,2,6,0,1,Completed,true,false,false
+UA002113,16 Oct 16,11,Parkdale,Maccabi,No. 2,Luke Shi,Moshe Wajsbort,Luke Shi,6-4,6,4,1,0,Completed,true,false,false
+UA002113,16 Oct 16,11,Parkdale,Maccabi,No. 3,James Comben,Ron Kotev,Ron Kotev,5-7,5,7,0,1,Completed,true,false,false
+UA002113,16 Oct 16,11,Parkdale,Maccabi,No. 4,Jeremy Gonis,Joshua Duieb,Jeremy Gonis,6-4,6,4,1,0,Completed,true,false,false
+UA002114,16 Oct 16,11,Coatesville,Mordialloc,No. 1,Daniel Gershenzan,Samisdh Siva-Ram,Samisdh Siva-Ram,2-6,2,6,0,1,Completed,true,false,false
+UA002114,16 Oct 16,11,Coatesville,Mordialloc,No. 2,Gabi Basman,Mitch Pattison,Gabi Basman,6-4,6,4,1,0,Completed,true,false,false
+UA002114,16 Oct 16,11,Coatesville,Mordialloc,No. 3,Adrian Mitsel,William Gallagher,Adrian Mitsel,6-4,6,4,1,0,Completed,true,false,false
+UA002114,16 Oct 16,11,Coatesville,Mordialloc,No. 4,Bayden Hill,Bodie Gardner,Bayden Hill,6-0,6,0,1,0,Completed,true,false,false
+UA002121,23 Oct 16,12,Coatesville,Parkdale,No. 1,Daniel Gershenzan,Sean Enright,Sean Enright,1-6,1,6,0,1,Completed,true,false,false
+UA002121,23 Oct 16,12,Coatesville,Parkdale,No. 2,Saskia Komljenovic,James Bryan,Saskia Komljenovic,6-0,6,0,1,0,Completed,true,false,false
+UA002121,23 Oct 16,12,Coatesville,Parkdale,No. 3,Bayden Hill,James Comben,Bayden Hill,6-4,6,4,1,0,Completed,true,false,false
+UA002121,23 Oct 16,12,Coatesville,Parkdale,No. 4,Tully Watson,Jeremy Gonis,Jeremy Gonis,5-7,5,7,0,1,Completed,true,false,false
+UA002123,23 Oct 16,12,Mordialloc,BLTC,No. 1,Samisdh Siva-Ram,Scott Moore,Samisdh Siva-Ram,6-3,6,3,1,0,Completed,true,false,false
+UA002123,23 Oct 16,12,Mordialloc,BLTC,No. 2,Mitch Pattison,Maddy French,Mitch Pattison,6-0,6,0,1,0,Completed,true,false,false
+UA002123,23 Oct 16,12,Mordialloc,BLTC,No. 3,William Gallagher,Issy Parker,William Gallagher,6-1,6,1,1,0,Completed,true,false,false
+UA002123,23 Oct 16,12,Mordialloc,BLTC,No. 4,Bodie Gardner,Charlie Anderson,Charlie Anderson,3-6,3,6,0,1,Completed,true,false,false
+UA002132,06 Nov 16,13,Aspendale,Coatesville,No. 1,Ben Garside Weinert,Gabi Basman,Ben Garside Weinert,6-3,6,3,1,0,Completed,true,false,false
+UA002132,06 Nov 16,13,Aspendale,Coatesville,No. 2,Jeremy Cullen,Adrian Mitsel,Jeremy Cullen,6-4,6,4,1,0,Completed,true,false,false
+UA002132,06 Nov 16,13,Aspendale,Coatesville,No. 3,Bailey Judd,Saskia Komljenovic,Saskia Komljenovic,3-6,3,6,0,1,Completed,true,false,false
+UA002132,06 Nov 16,13,Aspendale,Coatesville,No. 4,Dean Stavrou,Tully Watson,Dean Stavrou,6-4,6,4,1,0,Completed,true,false,false
+UA002133,06 Nov 16,13,BLTC,Kooyong,No. 1,Maddy French,Isabella Lucas,Maddy French,6-4,6,4,1,0,Completed,true,false,false
+UA002133,06 Nov 16,13,BLTC,Kooyong,No. 2,Kayla Preller,Celeste Rayment,Celeste Rayment,0-6,0,6,0,1,Completed,true,false,false
+UA002133,06 Nov 16,13,BLTC,Kooyong,No. 3,Issy Parker,Paris Rollnik,Paris Rollnik,1-6,1,6,0,1,Completed,true,false,false
+UA002133,06 Nov 16,13,BLTC,Kooyong,No. 4,Charlie Anderson,Emily Harvey,Emily Harvey,3-6,3,6,0,1,Completed,true,false,false
+UA002134,06 Nov 16,13,Maccabi,Mordialloc,No. 1,Marty Schwarz,Samisdh Siva-Ram,Marty Schwarz,6-1,6,1,1,0,Completed,true,false,false
+UA002134,06 Nov 16,13,Maccabi,Mordialloc,No. 2,Jordan Jaffe,Kartik Sehgal,Kartik Sehgal,4-6,4,6,0,1,Completed,true,false,false
+UA002134,06 Nov 16,13,Maccabi,Mordialloc,No. 3,Moshe Wajsbort,Mitch Pattison,Mitch Pattison,4-6,4,6,0,1,Completed,true,false,false
+UA002134,06 Nov 16,13,Maccabi,Mordialloc,No. 4,Ron Kotev,Aryon Raghav,Ron Kotev,7-6,7,6,1,0,Completed,true,false,false
+UA002141,13 Nov 16,14,Parkdale,Aspendale,No. 1,Sean Vandenbroek,Ben Garside Weinert,Sean Vandenbroek,7-5,7,5,1,0,Completed,true,false,false
+UA002141,13 Nov 16,14,Parkdale,Aspendale,No. 2,Sean Enright,Anthony Cameron,Sean Enright,7-5,7,5,1,0,Completed,true,false,false
+UA002141,13 Nov 16,14,Parkdale,Aspendale,No. 3,James Comben,Jeremy Cullen,James Comben,6-2,6,2,1,0,Completed,true,false,false
+UA002141,13 Nov 16,14,Parkdale,Aspendale,No. 4,Jeremy Gonis,Dean Stavrou,Jeremy Gonis,6-4,6,4,1,0,Completed,true,false,false
+UA002142,13 Nov 16,14,Coatesville,Tennis World,No. 1,Daniel Gershenzan,Josh Mercuri,Josh Mercuri,0-6,0,6,0,1,Completed,true,false,false
+UA002142,13 Nov 16,14,Coatesville,Tennis World,No. 2,Gabi Basman,Bailey Liu,Gabi Basman,6-4,6,4,1,0,Completed,true,false,false
+UA002142,13 Nov 16,14,Coatesville,Tennis World,No. 3,Adrian Mitsel,James Barjaktar,Adrian Mitsel,7-5,7,5,1,0,Completed,true,false,false
+UA002142,13 Nov 16,14,Coatesville,Tennis World,No. 4,Bayden Hill,Ria Menta,Bayden Hill,6-2,6,2,1,0,Completed,true,false,false
+UA002143,13 Nov 16,14,BLTC,Maccabi,No. 1,Scott Moore,Marty Schwarz,Scott Moore,6-2,6,2,1,0,Completed,true,false,false
+UA002143,13 Nov 16,14,BLTC,Maccabi,No. 2,Kayla Preller,Jordan Jaffe,Jordan Jaffe,0-6,0,6,0,1,Completed,true,false,false
+UA002143,13 Nov 16,14,BLTC,Maccabi,No. 3,Issy Parker,Moshe Wajsbort,Moshe Wajsbort,0-6,0,6,0,1,Completed,true,false,false
+UA002143,13 Nov 16,14,BLTC,Maccabi,No. 4,Shinya Imazawa,Ron Kotev,Ron Kotev,6-7,6,7,0,1,Completed,true,false,false
+UA002144,13 Nov 16,14,Mordialloc,Kooyong,No. 1,Samisdh Siva-Ram,Isabella Lucas,Samisdh Siva-Ram,6-2,6,2,1,0,Completed,true,false,false
+UA002144,13 Nov 16,14,Mordialloc,Kooyong,No. 2,Kartik Sehgal,Celeste Rayment,Kartik Sehgal,6-1,6,1,1,0,Completed,true,false,false
+UA002144,13 Nov 16,14,Mordialloc,Kooyong,No. 3,Lachlan Jones,Paris Rollnik,Lachlan Jones,6-3,6,3,1,0,Completed,true,false,false
+UA002144,13 Nov 16,14,Mordialloc,Kooyong,No. 4,Aryon Raghav,Emily Harvey,Aryon Raghav,6-4,6,4,1,0,Completed,true,false,false
+UA002301,,16,Maccabi,Aspendale,No. 1,Marty Schwarz,Ben Garside Weinert,Ben Garside Weinert,3-6,3,6,0,1,Completed,true,false,false
+UA002301,,16,Maccabi,Aspendale,No. 2,Jordan Jaffe,Anthony Cameron,Jordan Jaffe,6-3,6,3,1,0,Completed,true,false,false
+UA002301,,16,Maccabi,Aspendale,No. 3,Moshe Wajsbort,Jeremy Cullen,Jeremy Cullen,4-6,4,6,0,1,Completed,true,false,false
+UA002301,,16,Maccabi,Aspendale,No. 4,Ron Kotev,Bailey Judd,Bailey Judd,1-6,1,6,0,1,Completed,true,false,false
+UA002302,,16,Mordialloc,Kooyong,No. 1,Samisdh Siva-Ram,Isabella Lucas,Samisdh Siva-Ram,6-2,6,2,1,0,Completed,true,false,false
+UA002302,,16,Mordialloc,Kooyong,No. 2,Kartik Sehgal,Celeste Rayment,Kartik Sehgal,6-2,6,2,1,0,Completed,true,false,false
+UA002302,,16,Mordialloc,Kooyong,No. 3,Lachlan Jones,Paris Rollnik,Lachlan Jones,6-2,6,2,1,0,Completed,true,false,false
+UA002302,,16,Mordialloc,Kooyong,No. 4,Kunal Sehgal,Emily Harvey,Emily Harvey,3-6,3,6,0,1,Completed,true,false,false
+UA002321,,17,Mordialloc,Aspendale,No. 1,Samisdh Siva-Ram,Ben Garside Weinert,Samisdh Siva-Ram,6-3,6,3,1,0,Completed,true,false,false
+UA002321,,17,Mordialloc,Aspendale,No. 2,Kartik Sehgal,Anthony Cameron,Kartik Sehgal,6-0,6,0,1,0,Completed,true,false,false
+UA002321,,17,Mordialloc,Aspendale,No. 3,Lachlan Jones,Bailey Judd,Lachlan Jones,6-3,6,3,1,0,Completed,true,true,false
+UA002321,,17,Mordialloc,Aspendale,No. 4,Kunal Sehgal,Dean Stavrou,Kunal Sehgal,7-5,7,5,1,0,Completed,true,false,false

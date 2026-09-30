@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA33-UA011",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2023",
+  "season_id": "UA33",
+  "season_label": "Spring 2023",
+  "source_section_code": "UA011",
+  "section_label": "Section 11",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Le Page",
+      "wins": 13,
+      "points": 116,
+      "percentage": 153.85,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Kings Park",
+      "wins": 11,
+      "points": 103,
+      "percentage": 140.19,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Coatesville",
+      "wins": 8,
+      "points": 80,
+      "percentage": 110.95,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "St James Green",
+      "wins": 8,
+      "points": 73.5,
+      "percentage": 103.53,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC Blue",
+      "wins": 5,
+      "points": 58,
+      "percentage": 87.57,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC",
+      "wins": 4,
+      "points": 47,
+      "percentage": 73.97,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Mentone",
+      "wins": 3,
+      "points": 44.5,
+      "percentage": 76.86,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hampton",
+      "wins": 2,
+      "points": 38,
+      "percentage": 75.85,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA33-UA011",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 230,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA011321"
+  ]
+}

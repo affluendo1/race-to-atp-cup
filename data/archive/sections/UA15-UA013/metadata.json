@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA15-UA013",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2014",
+  "season_id": "UA15",
+  "season_label": "Spring 2014",
+  "source_section_code": "UA013",
+  "section_label": "Section 13",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "GPHC",
+      "wins": 10,
+      "points": 95,
+      "percentage": 166.04,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Glen Eira Beech 2",
+      "wins": 8,
+      "points": 82,
+      "percentage": 157.35,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Glen Eira Beech 1",
+      "wins": 7,
+      "points": 70,
+      "percentage": 111.03,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Kings Park",
+      "wins": 6,
+      "points": 61,
+      "percentage": 105.0,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong St Kevin's",
+      "wins": 5,
+      "points": 59,
+      "percentage": 112.74,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave",
+      "wins": 2,
+      "points": 40,
+      "percentage": 74.68,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra",
+      "wins": 0,
+      "points": 13,
+      "percentage": 29.76,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA15-UA013",
+  "fixtures": 59,
+  "completed_fixtures": 42,
+  "draw_fixtures": 59,
+  "singles_rubbers": 168,
+  "doubles_rubbers": 84,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

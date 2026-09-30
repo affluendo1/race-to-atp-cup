@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA37-UA013",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2025",
+  "season_id": "UA37",
+  "season_label": "Spring 2025",
+  "source_section_code": "UA013",
+  "section_label": "Section 13",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Parkdale",
+      "wins": 11,
+      "points": 113,
+      "percentage": 237.72,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Glen Huntly",
+      "wins": 10,
+      "points": 111,
+      "percentage": 210.11,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Dendy Park",
+      "wins": 9,
+      "points": 96,
+      "percentage": 133.9,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 5,
+      "points": 69,
+      "percentage": 98.89,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Hampton",
+      "wins": 4,
+      "points": 59,
+      "percentage": 90.43,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal South Yarra Gold",
+      "wins": 3,
+      "points": 53,
+      "percentage": 82.35,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra Navy",
+      "wins": 1,
+      "points": 30,
+      "percentage": 45.33,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Le Page",
+      "wins": 2,
+      "points": 29,
+      "percentage": 44.75,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA37-UA013",
+  "fixtures": 59,
+  "completed_fixtures": 48,
+  "draw_fixtures": 59,
+  "singles_rubbers": 192,
+  "doubles_rubbers": 96,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

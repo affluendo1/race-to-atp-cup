@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA24-UA018",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2019",
+  "season_id": "UA24",
+  "season_label": "Autumn 2019",
+  "source_section_code": "UA018",
+  "section_label": "Section 18",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Le Page",
+      "wins": 11,
+      "points": 106,
+      "percentage": 153.04,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Caulfield Rec",
+      "wins": 10,
+      "points": 98,
+      "percentage": 128.79,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Highmoor Uniting",
+      "wins": 6,
+      "points": 78,
+      "percentage": 120.53,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Hurlingham Park",
+      "wins": 8,
+      "points": 78,
+      "percentage": 114.03,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "Kooyong Scotch",
+      "wins": 5,
+      "points": 70,
+      "percentage": 111.95,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC MLC",
+      "wins": 4,
+      "points": 58,
+      "percentage": 88.32,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St Louis de Mont",
+      "wins": 3,
+      "points": 43,
+      "percentage": 72.92,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Parkdale",
+      "wins": 2,
+      "points": 29,
+      "percentage": 45.95,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA24-UA018",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA018321"
+  ]
+}

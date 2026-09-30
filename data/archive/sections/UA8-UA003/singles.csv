@@ -1,0 +1,195 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA003011,06 Feb 11,1,Port Melbourne,Mentone,No. 1,Nathan Spinks,Jordan Dean,Nathan Spinks,6-1,6,1,1,0,Completed,true,false,false
+UA003011,06 Feb 11,1,Port Melbourne,Mentone,No. 2,James Fay,Salih Kiraci,James Fay,6-1,6,1,1,0,Completed,true,false,false
+UA003011,06 Feb 11,1,Port Melbourne,Mentone,No. 3,Michael Kidston,Lachlan Owen,Michael Kidston,6-4,6,4,1,0,Completed,true,false,false
+UA003011,06 Feb 11,1,Port Melbourne,Mentone,No. 4,Ashley Spinks,Darcy Kennedy,Ashley Spinks,6-4,6,4,1,0,Completed,true,false,false
+UA003012,06 Feb 11,1,Hampton,Mordialloc,No. 1,Ben Gray,Matt Parousiatis,Ben Gray,7-6,7,6,1,0,Completed,true,false,false
+UA003012,06 Feb 11,1,Hampton,Mordialloc,No. 2,Hamish Anderson,Daniel Lelekov,Hamish Anderson,6-1,6,1,1,0,Completed,true,false,false
+UA003012,06 Feb 11,1,Hampton,Mordialloc,No. 3,Daniel Pullin,Serge Krikun,Daniel Pullin,6-4,6,4,1,0,Completed,true,false,false
+UA003012,06 Feb 11,1,Hampton,Mordialloc,No. 4,Jack Spittle,Chris Economu,Chris Economu,2-6,2,6,0,1,Completed,true,false,false
+UA003013,06 Feb 11,1,Tennis World,Maccabi,No. 1,Max Stephens,Max Needleman,Max Stephens,6-3,6,3,1,0,Completed,true,false,false
+UA003013,06 Feb 11,1,Tennis World,Maccabi,No. 2,David Cairns,Eli Muscatel,Eli Muscatel,2-6,2,6,0,1,Completed,true,false,false
+UA003013,06 Feb 11,1,Tennis World,Maccabi,No. 3,Zachery Teh,Damon Flicker,,4-4,4,4,0,0,Completed,false,false,false
+UA003013,06 Feb 11,1,Tennis World,Maccabi,No. 4,Ace Cooney,Kane Mills,Ace Cooney,3-1,3,1,1,0,Completed,false,false,false
+UA003014,06 Feb 11,1,Kooyong Scotch,Bodley Tennis Plus,No. 1,Rory Walker,Kane Frances,Rory Walker,6-0,6,0,1,0,Completed,true,false,false
+UA003014,06 Feb 11,1,Kooyong Scotch,Bodley Tennis Plus,No. 2,Christian Lockwood,Frazier Johns,Frazier Johns,5-7,5,7,0,1,Completed,true,false,false
+UA003014,06 Feb 11,1,Kooyong Scotch,Bodley Tennis Plus,No. 3,Shane Anthony,Luke Oxley,Luke Oxley,2-6,2,6,0,1,Completed,true,false,false
+UA003014,06 Feb 11,1,Kooyong Scotch,Bodley Tennis Plus,No. 4,Cindy Tamber,James Davidson,Cindy Tamber,6-2,6,2,1,0,Completed,true,false,false
+UA003021,13 Feb 11,2,Bodley Tennis Plus,Port Melbourne,No. 1,Frazier Johns,James Fay,James Fay,2-6,2,6,0,1,Completed,true,false,false
+UA003021,13 Feb 11,2,Bodley Tennis Plus,Port Melbourne,No. 2,Trent Jones,Jordan Anderson,Trent Jones,6-2,6,2,1,0,Completed,true,false,false
+UA003021,13 Feb 11,2,Bodley Tennis Plus,Port Melbourne,No. 3,Shaun Evans,Michael Kidston,Michael Kidston,1-6,1,6,0,1,Completed,true,false,false
+UA003021,13 Feb 11,2,Bodley Tennis Plus,Port Melbourne,No. 4,James Davidson,Ashley Spinks,Ashley Spinks,2-6,2,6,0,1,Completed,true,false,false
+UA003022,13 Feb 11,2,Mentone,Hampton,No. 1,Jordan Dean,Ben Gray,Ben Gray,2-6,2,6,0,1,Completed,true,false,false
+UA003022,13 Feb 11,2,Mentone,Hampton,No. 2,Salih Kiraci,Daniel Pullin,Salih Kiraci,6-4,6,4,1,0,Completed,true,false,false
+UA003022,13 Feb 11,2,Mentone,Hampton,No. 3,Lachlan Owen,Matthew Smith,Lachlan Owen,6-4,6,4,1,0,Completed,true,false,false
+UA003022,13 Feb 11,2,Mentone,Hampton,No. 4,Darcy Kennedy,Jack Spittle,Jack Spittle,4-6,4,6,0,1,Completed,true,false,false
+UA003023,13 Feb 11,2,Mordialloc,Tennis World,No. 1,Matt Parousiatis,David Cairns,David Cairns,0-6,0,6,0,1,Completed,true,false,false
+UA003023,13 Feb 11,2,Mordialloc,Tennis World,No. 2,Daniel Lelekov,Zachery Teh,Zachery Teh,4-6,4,6,0,1,Completed,true,false,false
+UA003023,13 Feb 11,2,Mordialloc,Tennis World,No. 3,Serge Krikun,Yannis Staedel-Arnould,Yannis Staedel-Arnould,2-6,2,6,0,1,Completed,true,false,false
+UA003023,13 Feb 11,2,Mordialloc,Tennis World,No. 4,Ricky Benson,Ace Cooney,Ricky Benson,6-0,6,0,1,0,Completed,true,false,false
+UA003024,13 Feb 11,2,Maccabi,Kooyong Scotch,No. 1,Max Needleman,Christian Lockwood,Max Needleman,6-3,6,3,1,0,Completed,true,false,false
+UA003024,13 Feb 11,2,Maccabi,Kooyong Scotch,No. 2,Eli Muscatel,Emily Abery,Emily Abery,2-6,2,6,0,1,Completed,true,false,false
+UA003024,13 Feb 11,2,Maccabi,Kooyong Scotch,No. 3,Damon Flicker,Cindy Tamber,Cindy Tamber,4-6,4,6,0,1,Completed,true,false,false
+UA003024,13 Feb 11,2,Maccabi,Kooyong Scotch,No. 4,Jonathan Simon,Sarah Travis,Jonathan Simon,6-3,6,3,1,0,Completed,true,false,false
+UA003031,20 Feb 11,3,Port Melbourne,Maccabi,No. 1,Nathan Spinks,Max Needleman,Nathan Spinks,6-0,6,0,1,0,Completed,true,false,false
+UA003031,20 Feb 11,3,Port Melbourne,Maccabi,No. 2,James Fay,Eli Muscatel,James Fay,6-2,6,2,1,0,Completed,true,false,false
+UA003031,20 Feb 11,3,Port Melbourne,Maccabi,No. 3,Michael Kidston,Damon Flicker,Michael Kidston,6-2,6,2,1,0,Completed,true,false,false
+UA003031,20 Feb 11,3,Port Melbourne,Maccabi,No. 4,Ashley Spinks,Aryn Abramowitch,Aryn Abramowitch,5-7,5,7,0,1,Completed,true,false,false
+UA003032,20 Feb 11,3,Hampton,Bodley Tennis Plus,No. 1,Hamish Anderson,Frazier Johns,Hamish Anderson,5-2,5,2,1,0,Completed,true,false,false
+UA003032,20 Feb 11,3,Hampton,Bodley Tennis Plus,No. 2,Daniel Pullin,Kane Frances,Kane Frances,2-5,2,5,0,1,Completed,true,false,false
+UA003032,20 Feb 11,3,Hampton,Bodley Tennis Plus,No. 3,Matthew Smith,Shaun Evans,Shaun Evans,3-6,3,6,0,1,Completed,true,false,false
+UA003032,20 Feb 11,3,Hampton,Bodley Tennis Plus,No. 4,Jack Spittle,Luke Oxley,Luke Oxley,0-6,0,6,0,1,Completed,true,false,false
+UA003033,20 Feb 11,3,Tennis World,Mentone,No. 1,Max Stephens,Jordan Dean,Max Stephens,6-0,6,0,1,0,Completed,true,false,false
+UA003033,20 Feb 11,3,Tennis World,Mentone,No. 2,Yannis Staedel-Arnould,Lachlan Owen,Yannis Staedel-Arnould,5-2,5,2,1,0,Completed,true,false,false
+UA003034,20 Feb 11,3,Kooyong Scotch,Mordialloc,No. 1,Shane Anthony,Matt Parousiatis,Matt Parousiatis,4-6,4,6,0,1,Completed,true,false,false
+UA003034,20 Feb 11,3,Kooyong Scotch,Mordialloc,No. 2,Emily Abery,Daniel Lelekov,Daniel Lelekov,4-6,4,6,0,1,Completed,true,false,false
+UA003034,20 Feb 11,3,Kooyong Scotch,Mordialloc,No. 3,Sarah Travis,Chris Economu,Chris Economu,3-6,3,6,0,1,Completed,true,false,false
+UA003034,20 Feb 11,3,Kooyong Scotch,Mordialloc,No. 4,Laetitia Wiseman,Ricky Benson,Ricky Benson,2-6,2,6,0,1,Completed,true,false,false
+UA003051,06 Mar 11,5,Tennis World,Kooyong Scotch,No. 1,Max Stephens,Alex Bielinski,Alex Bielinski,3-6,3,6,0,1,Completed,true,false,false
+UA003051,06 Mar 11,5,Tennis World,Kooyong Scotch,No. 2,Yannis Staedel-Arnould,Christian Lockwood,Yannis Staedel-Arnould,6-2,6,2,1,0,Completed,true,false,false
+UA003051,06 Mar 11,5,Tennis World,Kooyong Scotch,No. 3,Zachery Teh,Shane Anthony,Zachery Teh,6-2,6,2,1,0,Completed,true,false,false
+UA003051,06 Mar 11,5,Tennis World,Kooyong Scotch,No. 4,Ace Cooney,Laetitia Wiseman,Ace Cooney,6-1,6,1,1,0,Completed,true,false,false
+UA003052,06 Mar 11,5,Bodley Tennis Plus,Maccabi,No. 1,Frazier Johns,Max Needleman,Frazier Johns,6-3,6,3,1,0,Completed,true,false,false
+UA003052,06 Mar 11,5,Bodley Tennis Plus,Maccabi,No. 2,Trent Jones,Damon Flicker,Trent Jones,6-0,6,0,1,0,Completed,true,false,false
+UA003052,06 Mar 11,5,Bodley Tennis Plus,Maccabi,No. 3,James Davidson,Bernard Mel,James Davidson,6-4,6,4,1,0,Completed,true,false,false
+UA003052,06 Mar 11,5,Bodley Tennis Plus,Maccabi,No. 4,Shaun Evans,Jayden Beville,Shaun Evans,6-1,6,1,1,0,Completed,true,false,false
+UA003053,06 Mar 11,5,Mordialloc,Mentone,No. 1,Daniel Lelekov,Jordan Dean,Daniel Lelekov,6-3,6,3,1,0,Completed,true,false,false
+UA003053,06 Mar 11,5,Mordialloc,Mentone,No. 2,Serge Krikun,Salih Kiraci,Salih Kiraci,2-6,2,6,0,1,Completed,true,false,false
+UA003053,06 Mar 11,5,Mordialloc,Mentone,No. 3,Chris Economu,Lachlan Owen,Chris Economu,7-5,7,5,1,0,Completed,true,false,false
+UA003053,06 Mar 11,5,Mordialloc,Mentone,No. 4,Ricky Benson,Darcy Kennedy,Ricky Benson,6-0,6,0,1,0,Completed,true,false,false
+UA003054,06 Mar 11,5,Port Melbourne,Hampton,No. 1,James Fay,Ben Gray,Ben Gray,4-6,4,6,0,1,Completed,true,false,false
+UA003054,06 Mar 11,5,Port Melbourne,Hampton,No. 2,Jordan Anderson,Hamish Anderson,Jordan Anderson,6-3,6,3,1,0,Completed,true,false,false
+UA003054,06 Mar 11,5,Port Melbourne,Hampton,No. 3,Michael Kidston,Matthew Smith,Michael Kidston,6-2,6,2,1,0,Completed,true,false,false
+UA003054,06 Mar 11,5,Port Melbourne,Hampton,No. 4,Ashley Spinks,Jack Spittle,Jack Spittle,3-6,3,6,0,1,Completed,true,false,false
+UA003061,20 Mar 11,6,Hampton,Tennis World,No. 1,Ben Gray,Max Stephens,Max Stephens,4-6,4,6,0,1,Completed,true,false,false
+UA003061,20 Mar 11,6,Hampton,Tennis World,No. 2,Hamish Anderson,Daniel Fielding,Daniel Fielding,3-6,3,6,0,1,Completed,true,false,false
+UA003061,20 Mar 11,6,Hampton,Tennis World,No. 3,Daniel Pullin,Yannis Staedel-Arnould,Yannis Staedel-Arnould,1-6,1,6,0,1,Completed,true,false,false
+UA003061,20 Mar 11,6,Hampton,Tennis World,No. 4,Jack Spittle,Ace Cooney,Ace Cooney,2-6,2,6,0,1,Completed,true,false,false
+UA003062,20 Mar 11,6,Kooyong Scotch,Port Melbourne,No. 1,Christian Lockwood,[Unnamed player — TROLS UA003062 away code 1],Christian Lockwood,6-0,6,0,1,0,Completed,false,false,false
+UA003062,20 Mar 11,6,Kooyong Scotch,Port Melbourne,No. 2,Shane Anthony,Jordan Anderson,Jordan Anderson,4-6,4,6,0,1,Completed,true,false,false
+UA003062,20 Mar 11,6,Kooyong Scotch,Port Melbourne,No. 3,Emily Abery,Michael Kidston,Michael Kidston,1-6,1,6,0,1,Completed,true,false,false
+UA003062,20 Mar 11,6,Kooyong Scotch,Port Melbourne,No. 4,Cindy Tamber,Ben Clement,Cindy Tamber,6-2,6,2,1,0,Completed,true,false,false
+UA003063,20 Mar 11,6,Maccabi,Mordialloc,No. 1,Joel Rabinov,Matt Parousiatis,Matt Parousiatis,1-6,1,6,0,1,Completed,true,false,false
+UA003063,20 Mar 11,6,Maccabi,Mordialloc,No. 2,Max Needleman,Daniel Lelekov,Max Needleman,6-0,6,0,1,0,Completed,true,false,false
+UA003063,20 Mar 11,6,Maccabi,Mordialloc,No. 3,Eli Muscatel,Serge Krikun,Eli Muscatel,6-4,6,4,1,0,Completed,true,false,false
+UA003063,20 Mar 11,6,Maccabi,Mordialloc,No. 4,Damon Flicker,Chris Economu,Chris Economu,1-6,1,6,0,1,Completed,true,false,false
+UA003064,20 Mar 11,6,Mentone,Bodley Tennis Plus,No. 1,Jordan Dean,Trent Jones,Trent Jones,3-6,3,6,0,1,Completed,true,false,false
+UA003064,20 Mar 11,6,Mentone,Bodley Tennis Plus,No. 2,Salih Kiraci,Kane Frances,Kane Frances,3-6,3,6,0,1,Completed,true,false,false
+UA003064,20 Mar 11,6,Mentone,Bodley Tennis Plus,No. 3,Lachlan Owen,Luke Oxley,Luke Oxley,4-6,4,6,0,1,Completed,true,false,false
+UA003064,20 Mar 11,6,Mentone,Bodley Tennis Plus,No. 4,Darcy Kennedy,Shaun Evans,Darcy Kennedy,7-5,7,5,1,0,Completed,true,false,false
+UA003071,27 Mar 11,7,Port Melbourne,Tennis World,No. 1,Nathan Spinks,Max Stephens,Nathan Spinks,6-3,6,3,1,0,Completed,true,false,false
+UA003071,27 Mar 11,7,Port Melbourne,Tennis World,No. 2,Jordan Anderson,Zachery Teh,Zachery Teh,4-6,4,6,0,1,Completed,true,false,false
+UA003071,27 Mar 11,7,Port Melbourne,Tennis World,No. 3,Michael Kidston,Yannis Staedel-Arnould,Yannis Staedel-Arnould,2-6,2,6,0,1,Completed,true,false,false
+UA003071,27 Mar 11,7,Port Melbourne,Tennis World,No. 4,Ashley Spinks,Ace Cooney,Ace Cooney,2-6,2,6,0,1,Completed,true,false,false
+UA003072,27 Mar 11,7,Hampton,Kooyong Scotch,No. 1,Ben Gray,Christian Lockwood,Ben Gray,6-1,6,1,1,0,Completed,true,false,false
+UA003072,27 Mar 11,7,Hampton,Kooyong Scotch,No. 2,Hamish Anderson,Emily Abery,Hamish Anderson,6-0,6,0,1,0,Completed,true,false,false
+UA003072,27 Mar 11,7,Hampton,Kooyong Scotch,No. 3,Daniel Pullin,Cindy Tamber,Cindy Tamber,2-6,2,6,0,1,Completed,true,false,false
+UA003072,27 Mar 11,7,Hampton,Kooyong Scotch,No. 4,Matthew Smith,Sarah Travis,Matthew Smith,6-3,6,3,1,0,Completed,true,false,false
+UA003073,27 Mar 11,7,Bodley Tennis Plus,Mordialloc,No. 1,Kane Frances,Matt Parousiatis,Matt Parousiatis,2-6,2,6,0,1,Completed,true,false,false
+UA003073,27 Mar 11,7,Bodley Tennis Plus,Mordialloc,No. 2,Luke Oxley,Daniel Lelekov,Daniel Lelekov,6-7,6,7,0,1,Completed,true,false,false
+UA003073,27 Mar 11,7,Bodley Tennis Plus,Mordialloc,No. 3,James Davidson,Serge Krikun,James Davidson,7-6,7,6,1,0,Completed,true,false,false
+UA003073,27 Mar 11,7,Bodley Tennis Plus,Mordialloc,No. 4,Shaun Evans,Ricky Benson,Ricky Benson,1-6,1,6,0,1,Completed,true,false,false
+UA003074,27 Mar 11,7,Maccabi,Mentone,No. 1,Eli Muscatel,Jordan Dean,Eli Muscatel,7-6,7,6,1,0,Completed,true,false,false
+UA003074,27 Mar 11,7,Maccabi,Mentone,No. 2,Damon Flicker,Salih Kiraci,Damon Flicker,6-4,6,4,1,0,Completed,true,false,false
+UA003074,27 Mar 11,7,Maccabi,Mentone,No. 3,Kane Nissenbaum,Lachlan Owen,Lachlan Owen,1-6,1,6,0,1,Completed,true,false,false
+UA003074,27 Mar 11,7,Maccabi,Mentone,No. 4,Jayden Beville,Saurish Mody,Saurish Mody,4-6,4,6,0,1,Completed,true,false,false
+UA003082,08 Apr 11,8,Mordialloc,Hampton,No. 1,Matt Parousiatis,Ben Gray,Ben Gray,1-6,1,6,0,1,Completed,true,false,false
+UA003082,08 Apr 11,8,Mordialloc,Hampton,No. 2,Daniel Lelekov,Hamish Anderson,Hamish Anderson,2-6,2,6,0,1,Completed,true,false,false
+UA003082,08 Apr 11,8,Mordialloc,Hampton,No. 3,Chris Economu,McGregor Anderson,Chris Economu,6-2,6,2,1,0,Completed,true,false,false
+UA003082,08 Apr 11,8,Mordialloc,Hampton,No. 4,Ricky Benson,Chris Naoumidis,Ricky Benson,6-0,6,0,1,0,Completed,true,false,false
+UA003084,08 Apr 11,8,Bodley Tennis Plus,Kooyong Scotch,No. 1,Trent Jones,Christian Lockwood,Trent Jones,6-4,6,4,1,0,Completed,true,false,false
+UA003084,08 Apr 11,8,Bodley Tennis Plus,Kooyong Scotch,No. 2,Frazier Johns,Shane Anthony,Shane Anthony,4-6,4,6,0,1,Completed,true,false,false
+UA003084,08 Apr 11,8,Bodley Tennis Plus,Kooyong Scotch,No. 3,Kane Frances,Cindy Tamber,Cindy Tamber,3-6,3,6,0,1,Completed,true,false,false
+UA003084,08 Apr 11,8,Bodley Tennis Plus,Kooyong Scotch,No. 4,James Davidson,Emily Abery,James Davidson,7-5,7,5,1,0,Completed,true,false,false
+UA003091,01 May 11,9,Port Melbourne,Bodley Tennis Plus,No. 1,James Fay,Trent Jones,Trent Jones,4-6,4,6,0,1,Completed,true,false,false
+UA003091,01 May 11,9,Port Melbourne,Bodley Tennis Plus,No. 2,Jordan Anderson,Frazier Johns,Jordan Anderson,7-5,7,5,1,0,Completed,true,false,false
+UA003091,01 May 11,9,Port Melbourne,Bodley Tennis Plus,No. 3,Michael Kidston,Luke Oxley,Luke Oxley,4-6,4,6,0,1,Completed,true,false,false
+UA003091,01 May 11,9,Port Melbourne,Bodley Tennis Plus,No. 4,Ashley Spinks,Shaun Evans,Ashley Spinks,6-2,6,2,1,0,Completed,true,false,false
+UA003092,01 May 11,9,Hampton,Mentone,No. 1,Ben Gray,Jordan Dean,Ben Gray,6-4,6,4,1,0,Completed,true,false,false
+UA003092,01 May 11,9,Hampton,Mentone,No. 2,Hamish Anderson,Salih Kiraci,Hamish Anderson,6-3,6,3,1,0,Completed,true,false,false
+UA003092,01 May 11,9,Hampton,Mentone,No. 3,Matthew Smith,Lachlan Owen,Lachlan Owen,5-7,5,7,0,1,Completed,true,false,false
+UA003092,01 May 11,9,Hampton,Mentone,No. 4,Jack Spittle,Darcy Kennedy,Darcy Kennedy,5-7,5,7,0,1,Completed,true,false,false
+UA003093,01 May 11,9,Tennis World,Mordialloc,No. 1,Daniel Fielding,Daniel Lelekov,Daniel Fielding,6-0,6,0,1,0,Completed,true,false,false
+UA003093,01 May 11,9,Tennis World,Mordialloc,No. 2,Zachery Teh,Serge Krikun,Zachery Teh,6-2,6,2,1,0,Completed,true,false,false
+UA003093,01 May 11,9,Tennis World,Mordialloc,No. 3,Ace Cooney,Chris Economu,Chris Economu,0-6,0,6,0,1,Completed,true,false,false
+UA003093,01 May 11,9,Tennis World,Mordialloc,No. 4,Max Small,Ricky Benson,Ricky Benson,1-6,1,6,0,1,Completed,true,false,false
+UA003101,08 May 11,10,Maccabi,Port Melbourne,No. 1,Jason Krowitz,Jordan Anderson,Jason Krowitz,6-4,6,4,1,0,Completed,true,false,false
+UA003101,08 May 11,10,Maccabi,Port Melbourne,No. 2,James Fink,Michael Kidston,James Fink,6-1,6,1,1,0,Completed,true,false,false
+UA003101,08 May 11,10,Maccabi,Port Melbourne,No. 3,Damon Flicker,Rupert Reed,Damon Flicker,6-2,6,2,1,0,Completed,true,false,false
+UA003101,08 May 11,10,Maccabi,Port Melbourne,No. 4,Jarryd Joffe,Ashley Spinks,Jarryd Joffe,6-1,6,1,1,0,Completed,true,false,false
+UA003102,08 May 11,10,Bodley Tennis Plus,Hampton,No. 1,Trent Jones,Ben Gray,Trent Jones,6-3,6,3,1,0,Completed,true,false,false
+UA003102,08 May 11,10,Bodley Tennis Plus,Hampton,No. 2,Frazier Johns,Hamish Anderson,Hamish Anderson,0-6,0,6,0,1,Completed,true,false,false
+UA003102,08 May 11,10,Bodley Tennis Plus,Hampton,No. 3,Kane Frances,Daniel Pullin,Kane Frances,6-3,6,3,1,0,Completed,true,false,false
+UA003102,08 May 11,10,Bodley Tennis Plus,Hampton,No. 4,Luke Oxley,Jack Spittle,Luke Oxley,6-1,6,1,1,0,Completed,true,false,false
+UA003103,08 May 11,10,Mentone,Tennis World,No. 1,Salih Kiraci,Daniel Fielding,Daniel Fielding,4-6,4,6,0,1,Completed,true,false,false
+UA003103,08 May 11,10,Mentone,Tennis World,No. 2,Lachlan Owen,Zachery Teh,Zachery Teh,2-6,2,6,0,1,Completed,true,false,false
+UA003103,08 May 11,10,Mentone,Tennis World,No. 3,Jordan Dean,[Unnamed player — TROLS UA003103 away code 3],Jordan Dean,6-0,6,0,1,0,Completed,false,false,false
+UA003103,08 May 11,10,Mentone,Tennis World,No. 4,Darcy Kennedy,Jasper Sweet,Darcy Kennedy,6-0,6,0,1,0,Completed,true,false,false
+UA003104,08 May 11,10,Mordialloc,Kooyong Scotch,No. 1,Matt Parousiatis,Shane Anthony,Matt Parousiatis,6-4,6,4,1,0,Completed,true,false,false
+UA003104,08 May 11,10,Mordialloc,Kooyong Scotch,No. 2,Serge Krikun,Cindy Tamber,Cindy Tamber,2-6,2,6,0,1,Completed,true,false,false
+UA003104,08 May 11,10,Mordialloc,Kooyong Scotch,No. 3,Chris Economu,Sarah Travis,Chris Economu,6-0,6,0,1,0,Completed,true,false,false
+UA003104,08 May 11,10,Mordialloc,Kooyong Scotch,No. 4,Ricky Benson,Emily Abery,Ricky Benson,6-1,6,1,1,0,Completed,true,false,false
+UA003111,15 May 11,11,Port Melbourne,Mordialloc,No. 1,Jordan Anderson,Matt Parousiatis,Jordan Anderson,6-2,6,2,1,0,Completed,true,false,false
+UA003111,15 May 11,11,Port Melbourne,Mordialloc,No. 2,Michael Kidston,Daniel Lelekov,Michael Kidston,6-3,6,3,1,0,Completed,true,false,false
+UA003111,15 May 11,11,Port Melbourne,Mordialloc,No. 3,Ashley Spinks,Serge Krikun,Ashley Spinks,6-3,6,3,1,0,Completed,true,false,false
+UA003111,15 May 11,11,Port Melbourne,Mordialloc,No. 4,Maddie Petch,Chris Economu,Chris Economu,1-6,1,6,0,1,Completed,true,false,false
+UA003113,15 May 11,11,Tennis World,Bodley Tennis Plus,No. 1,Daniel Fielding,Kane Frances,Daniel Fielding,6-4,6,4,1,0,Completed,true,false,false
+UA003113,15 May 11,11,Tennis World,Bodley Tennis Plus,No. 2,Zachery Teh,Luke Oxley,Zachery Teh,6-3,6,3,1,0,Completed,true,false,false
+UA003113,15 May 11,11,Tennis World,Bodley Tennis Plus,No. 3,Max Small,Frazier Johns,Frazier Johns,0-6,0,6,0,1,Completed,true,false,false
+UA003113,15 May 11,11,Tennis World,Bodley Tennis Plus,No. 4,Jasper Sweet,Shaun Evans,Shaun Evans,2-6,2,6,0,1,Completed,true,false,false
+UA003114,15 May 11,11,Kooyong Scotch,Mentone,No. 1,Shane Anthony,[Unnamed player — TROLS UA003114 away code 1],Shane Anthony,6-0,6,0,1,0,Completed,false,false,false
+UA003114,15 May 11,11,Kooyong Scotch,Mentone,No. 2,Cindy Tamber,Salih Kiraci,Salih Kiraci,6-7,6,7,0,1,Completed,true,false,false
+UA003114,15 May 11,11,Kooyong Scotch,Mentone,No. 3,Sarah Travis,Lachlan Owen,Sarah Travis,7-5,7,5,1,0,Completed,true,false,false
+UA003114,15 May 11,11,Kooyong Scotch,Mentone,No. 4,Emily Abery,Darcy Kennedy,Darcy Kennedy,3-6,3,6,0,1,Completed,true,false,false
+UA003121,22 May 11,12,Kooyong Scotch,Tennis World,No. 1,Cindy Tamber,Daniel Fielding,Daniel Fielding,2-6,2,6,0,1,Completed,true,false,false
+UA003121,22 May 11,12,Kooyong Scotch,Tennis World,No. 2,Sarah Travis,Zachery Teh,Zachery Teh,0-6,0,6,0,1,Completed,true,false,false
+UA003121,22 May 11,12,Kooyong Scotch,Tennis World,No. 3,Laetitia Wiseman,Ace Cooney,Laetitia Wiseman,6-3,6,3,1,0,Completed,true,false,false
+UA003121,22 May 11,12,Kooyong Scotch,Tennis World,No. 4,Emily Abery,Max Small,Emily Abery,6-1,6,1,1,0,Completed,true,false,false
+UA003123,22 May 11,12,Mentone,Mordialloc,No. 1,Jordan Dean,Matt Parousiatis,Jordan Dean,7-6,7,6,1,0,Completed,true,false,false
+UA003123,22 May 11,12,Mentone,Mordialloc,No. 2,Salih Kiraci,Daniel Lelekov,Salih Kiraci,6-4,6,4,1,0,Completed,true,false,false
+UA003123,22 May 11,12,Mentone,Mordialloc,No. 3,Lachlan Owen,Serge Krikun,Serge Krikun,4-6,4,6,0,1,Completed,true,false,false
+UA003123,22 May 11,12,Mentone,Mordialloc,No. 4,Darcy Kennedy,Ricky Benson,Ricky Benson,0-6,0,6,0,1,Completed,true,false,false
+UA003124,22 May 11,12,Hampton,Port Melbourne,No. 1,Ben Gray,Jordan Anderson,Ben Gray,6-2,6,2,1,0,Completed,true,false,false
+UA003124,22 May 11,12,Hampton,Port Melbourne,No. 2,Hamish Anderson,Michael Kidston,Hamish Anderson,6-0,6,0,1,0,Completed,true,false,false
+UA003124,22 May 11,12,Hampton,Port Melbourne,No. 3,Daniel Pullin,Ashley Spinks,Daniel Pullin,6-4,6,4,1,0,Completed,true,false,false
+UA003124,22 May 11,12,Hampton,Port Melbourne,No. 4,Matthew Smith,Maddie Petch,Maddie Petch,0-6,0,6,0,1,Completed,true,false,false
+UA003131,29 May 11,13,Tennis World,Hampton,No. 1,Zachery Teh,Ben Gray,Zachery Teh,7-5,7,5,1,0,Completed,true,false,false
+UA003131,29 May 11,13,Tennis World,Hampton,No. 2,David Cairns,Hamish Anderson,Hamish Anderson,2-6,2,6,0,1,Completed,true,false,false
+UA003131,29 May 11,13,Tennis World,Hampton,No. 3,Ace Cooney,Daniel Pullin,Daniel Pullin,0-6,0,6,0,1,Completed,true,false,false
+UA003131,29 May 11,13,Tennis World,Hampton,No. 4,Max Small,Matthew Smith,Matthew Smith,0-6,0,6,0,1,Completed,true,false,false
+UA003132,29 May 11,13,Port Melbourne,Kooyong Scotch,No. 1,Jordan Anderson,Cindy Tamber,Cindy Tamber,2-6,2,6,0,1,Completed,true,false,false
+UA003132,29 May 11,13,Port Melbourne,Kooyong Scotch,No. 2,Michael Kidston,Emily Abery,Emily Abery,3-6,3,6,0,1,Completed,true,false,false
+UA003132,29 May 11,13,Port Melbourne,Kooyong Scotch,No. 3,Ashley Spinks,Tom Sanderland,Ashley Spinks,6-4,6,4,1,0,Completed,true,false,false
+UA003132,29 May 11,13,Port Melbourne,Kooyong Scotch,No. 4,Maddie Petch,Will Swannson,Maddie Petch,6-2,6,2,1,0,Completed,true,false,false
+UA003134,29 May 11,13,Bodley Tennis Plus,Mentone,No. 1,Frazier Johns,Jordan Dean,Jordan Dean,6-7,6,7,0,1,Completed,true,false,false
+UA003134,29 May 11,13,Bodley Tennis Plus,Mentone,No. 2,Kane Frances,Salih Kiraci,Kane Frances,6-4,6,4,1,0,Completed,true,false,false
+UA003134,29 May 11,13,Bodley Tennis Plus,Mentone,No. 3,James Davidson,Lachlan Owen,James Davidson,7-6,7,6,1,0,Completed,true,false,false
+UA003134,29 May 11,13,Bodley Tennis Plus,Mentone,No. 4,Shaun Evans,Hylton Norris,Hylton Norris,3-6,3,6,0,1,Completed,true,false,false
+UA003141,05 Jun 11,14,Tennis World,Port Melbourne,No. 1,Zachery Teh,Jordan Anderson,Zachery Teh,6-0,6,0,1,0,Completed,true,false,false
+UA003141,05 Jun 11,14,Tennis World,Port Melbourne,No. 2,Ace Cooney,Michael Kidston,Ace Cooney,6-0,6,0,1,0,Completed,true,false,false
+UA003141,05 Jun 11,14,Tennis World,Port Melbourne,No. 3,Jasper Sweet,Ashley Spinks,Ashley Spinks,0-6,0,6,0,1,Completed,true,false,false
+UA003141,05 Jun 11,14,Tennis World,Port Melbourne,No. 4,Max Small,Maddie Petch,Maddie Petch,0-6,0,6,0,1,Completed,true,false,false
+UA003142,05 Jun 11,14,Kooyong Scotch,Hampton,No. 1,[Unnamed player — TROLS UA003142 home code 1],Daniel Pullin,Daniel Pullin,0-6,0,6,0,1,Completed,false,false,false
+UA003142,05 Jun 11,14,Kooyong Scotch,Hampton,No. 2,Cindy Tamber,Hamish Anderson,Hamish Anderson,3-6,3,6,0,1,Completed,true,false,false
+UA003142,05 Jun 11,14,Kooyong Scotch,Hampton,No. 3,Sarah Travis,Ben Gray,Ben Gray,0-6,0,6,0,1,Completed,true,false,false
+UA003142,05 Jun 11,14,Kooyong Scotch,Hampton,No. 4,Emily Abery,Jack Spittle,Emily Abery,6-0,6,0,1,0,Completed,true,false,false
+UA003143,05 Jun 11,14,Mordialloc,Bodley Tennis Plus,No. 1,Matt Parousiatis,Trent Jones,Matt Parousiatis,6-1,6,1,1,0,Completed,true,false,false
+UA003143,05 Jun 11,14,Mordialloc,Bodley Tennis Plus,No. 2,Serge Krikun,Frazier Johns,Frazier Johns,3-6,3,6,0,1,Completed,true,false,false
+UA003143,05 Jun 11,14,Mordialloc,Bodley Tennis Plus,No. 3,Chris Economu,Kane Frances,Chris Economu,7-5,7,5,1,0,Completed,true,false,false
+UA003143,05 Jun 11,14,Mordialloc,Bodley Tennis Plus,No. 4,Ricky Benson,Luke Oxley,Luke Oxley,2-6,2,6,0,1,Completed,true,false,false
+UA003144,05 Jun 11,14,Mentone,Maccabi,No. 1,Jordan Dean,Max Needleman,Max Needleman,2-6,2,6,0,1,Completed,true,false,false
+UA003144,05 Jun 11,14,Mentone,Maccabi,No. 2,Salih Kiraci,Eli Muscatel,Salih Kiraci,6-2,6,2,1,0,Completed,true,false,false
+UA003144,05 Jun 11,14,Mentone,Maccabi,No. 3,Lachlan Owen,Jarryd Joffe,Lachlan Owen,6-2,6,2,1,0,Completed,true,false,false
+UA003144,05 Jun 11,14,Mentone,Maccabi,No. 4,Hylton Norris,Kane Nissenbaum,Kane Nissenbaum,4-6,4,6,0,1,Completed,true,false,false
+UA003301,,16,Mordialloc,Port Melbourne,No. 1,Matt Parousiatis,Nathan Spinks,Nathan Spinks,0-6,0,6,0,1,Completed,true,false,false
+UA003301,,16,Mordialloc,Port Melbourne,No. 2,Daniel Lelekov,Jordan Anderson,Jordan Anderson,3-6,3,6,0,1,Completed,true,false,false
+UA003301,,16,Mordialloc,Port Melbourne,No. 3,Chris Economu,Ashley Spinks,Chris Economu,6-4,6,4,1,0,Completed,true,false,false
+UA003301,,16,Mordialloc,Port Melbourne,No. 4,Ricky Benson,Maddie Petch,Ricky Benson,6-2,6,2,1,0,Completed,true,false,false
+UA003302,,16,Hampton,Mentone,No. 1,Ben Gray,Jordan Dean,Ben Gray,7-5,7,5,1,0,Completed,true,false,false
+UA003302,,16,Hampton,Mentone,No. 2,Hamish Anderson,Salih Kiraci,Hamish Anderson,6-2,6,2,1,0,Completed,true,false,false
+UA003302,,16,Hampton,Mentone,No. 3,Daniel Pullin,Lachlan Owen,Lachlan Owen,3-6,3,6,0,1,Completed,true,false,false
+UA003302,,16,Hampton,Mentone,No. 4,Matthew Smith,Hylton Norris,Matthew Smith,6-0,6,0,1,0,Completed,true,false,false
+UA003321,,17,Hampton,Port Melbourne,No. 1,Ben Gray,Nathan Spinks,Nathan Spinks,0-6,0,6,0,1,Completed,true,false,false
+UA003321,,17,Hampton,Port Melbourne,No. 2,Hamish Anderson,Jordan Anderson,Hamish Anderson,6-4,6,4,1,0,Completed,true,false,false
+UA003321,,17,Hampton,Port Melbourne,No. 3,Daniel Pullin,Michael Kidston,Daniel Pullin,6-4,6,4,1,0,Completed,true,false,false
+UA003321,,17,Hampton,Port Melbourne,No. 4,Matthew Smith,Ashley Spinks,Ashley Spinks,2-6,2,6,0,1,Completed,true,false,false

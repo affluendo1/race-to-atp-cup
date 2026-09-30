@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA20-UA021",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2017",
+  "season_id": "UA20",
+  "season_label": "Autumn 2017",
+  "source_section_code": "UA021",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "GPHC",
+      "wins": 12,
+      "points": 120,
+      "percentage": 197.25,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Dendy Park",
+      "wins": 11,
+      "points": 106,
+      "percentage": 167.05,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Royal Ave",
+      "wins": 7,
+      "points": 74,
+      "percentage": 101.4,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong 2",
+      "wins": 8,
+      "points": 72,
+      "percentage": 98.62,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong 1",
+      "wins": 6,
+      "points": 67,
+      "percentage": 101.99,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Aspendale",
+      "wins": 6,
+      "points": 63,
+      "percentage": 85.99,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Maccabi",
+      "wins": 2,
+      "points": 30,
+      "percentage": 58.14,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Mordialloc",
+      "wins": 1,
+      "points": 28,
+      "percentage": 63.39,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA20-UA021",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 59,
+  "singles_rubbers": 228,
+  "doubles_rubbers": 114,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

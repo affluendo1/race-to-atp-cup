@@ -1,0 +1,229 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA007011,19 Jul 15,1,BLTC 1,BLTC 2,No. 1,Tom Fisher,Lachlan Robertson,Lachlan Robertson,2-6,2,6,0,1,Completed,true,false,false
+UA007011,19 Jul 15,1,BLTC 1,BLTC 2,No. 2,Shaun Yue,Elise Robertson,Shaun Yue,6-3,6,3,1,0,Completed,true,false,false
+UA007011,19 Jul 15,1,BLTC 1,BLTC 2,No. 3,Edward Fisher,Jacob Altho-McDowell,Edward Fisher,6-0,6,0,1,0,Completed,true,false,false
+UA007011,19 Jul 15,1,BLTC 1,BLTC 2,No. 4,Shinya Imazawa,Henry Bradman,Shinya Imazawa,6-1,6,1,1,0,Completed,true,false,false
+UA007012,19 Jul 15,1,Royal South Yarra,Tennis World,No. 1,Vivienne Johnston,Lara Burns,Vivienne Johnston,6-1,6,1,1,0,Completed,true,false,false
+UA007012,19 Jul 15,1,Royal South Yarra,Tennis World,No. 2,Max Charles,Bailey Liu,Max Charles,7-6,7,6,1,0,Completed,true,false,false
+UA007012,19 Jul 15,1,Royal South Yarra,Tennis World,No. 3,Annabel Jones,George Fedorov,George Fedorov,0-6,0,6,0,1,Completed,true,false,false
+UA007012,19 Jul 15,1,Royal South Yarra,Tennis World,No. 4,Sam Balmforth,Patrick Homberg,Patrick Homberg,2-6,2,6,0,1,Completed,true,false,false
+UA007013,19 Jul 15,1,Coatesville,GPHC,No. 1,Luigi Cortez,Axel Rives,Axel Rives,6-7,6,7,0,1,Completed,true,false,false
+UA007013,19 Jul 15,1,Coatesville,GPHC,No. 2,Thomas So,Nick Barnett,Nick Barnett,2-6,2,6,0,1,Completed,true,false,false
+UA007013,19 Jul 15,1,Coatesville,GPHC,No. 3,Sam Basman,David Pettigrew,Sam Basman,6-2,6,2,1,0,Completed,true,false,false
+UA007013,19 Jul 15,1,Coatesville,GPHC,No. 4,Jacob Mundy,Jessica Brown,Jessica Brown,2-6,2,6,0,1,Completed,true,false,false
+UA007014,19 Jul 15,1,Aspendale,Lauriston,No. 1,Dean Stavrou,Misha Machlak,Misha Machlak,1-6,1,6,0,1,Completed,true,false,false
+UA007014,19 Jul 15,1,Aspendale,Lauriston,No. 2,Mitchell Bean,Kyle Howden,Mitchell Bean,7-6,7,6,1,0,Completed,true,false,false
+UA007014,19 Jul 15,1,Aspendale,Lauriston,No. 3,Alex Klemm,Brooklyn Giacometti,Alex Klemm,6-4,6,4,1,0,Completed,true,false,false
+UA007014,19 Jul 15,1,Aspendale,Lauriston,No. 4,Mitchell Fielder,Demeke Durant,Demeke Durant,5-7,5,7,0,1,Completed,true,false,false
+UA007021,26 Jul 15,2,Lauriston,BLTC 1,No. 1,Misha Machlak,Shaun Yue,Misha Machlak,6-4,6,4,1,0,Completed,true,false,false
+UA007021,26 Jul 15,2,Lauriston,BLTC 1,No. 2,Kyle Howden,Tom Fisher,Kyle Howden,6-0,6,0,1,0,Completed,true,false,false
+UA007021,26 Jul 15,2,Lauriston,BLTC 1,No. 3,Brooklyn Giacometti,Edward Fisher,Edward Fisher,0-6,0,6,0,1,Completed,true,false,false
+UA007021,26 Jul 15,2,Lauriston,BLTC 1,No. 4,Demeke Durant,Andrew Savage,Andrew Savage,6-7,6,7,0,1,Completed,true,false,false
+UA007022,26 Jul 15,2,BLTC 2,Royal South Yarra,No. 1,Lachlan Robertson,Max Charles,Lachlan Robertson,6-3,6,3,1,0,Completed,true,false,false
+UA007022,26 Jul 15,2,BLTC 2,Royal South Yarra,No. 2,Julius Schulze,Annabel Jones,Julius Schulze,6-3,6,3,1,0,Completed,true,false,false
+UA007022,26 Jul 15,2,BLTC 2,Royal South Yarra,No. 3,Jacob Altho-McDowell,Sam Balmforth,Sam Balmforth,2-6,2,6,0,1,Completed,true,false,false
+UA007022,26 Jul 15,2,BLTC 2,Royal South Yarra,No. 4,Henry Bradman,Jess McNair,Henry Bradman,6-0,6,0,1,0,Completed,true,false,false
+UA007023,26 Jul 15,2,Tennis World,Coatesville,No. 1,Lara Burns,Thomas So,Lara Burns,6-1,6,1,1,0,Completed,true,false,false
+UA007023,26 Jul 15,2,Tennis World,Coatesville,No. 2,James Schultz,Sam Basman,James Schultz,6-4,6,4,1,0,Completed,true,false,false
+UA007023,26 Jul 15,2,Tennis World,Coatesville,No. 3,George Fedorov,Jacob Mundy,George Fedorov,6-2,6,2,1,0,Completed,true,false,false
+UA007023,26 Jul 15,2,Tennis World,Coatesville,No. 4,Patrick Homberg,Yao Shau,Yao Shau,4-6,4,6,0,1,Completed,true,false,false
+UA007024,26 Jul 15,2,GPHC,Aspendale,No. 1,Axel Rives,Dean Stavrou,Dean Stavrou,1-6,1,6,0,1,Completed,true,false,false
+UA007024,26 Jul 15,2,GPHC,Aspendale,No. 2,Nick Barnett,Alex Klemm,Alex Klemm,3-6,3,6,0,1,Completed,true,false,false
+UA007024,26 Jul 15,2,GPHC,Aspendale,No. 3,Sam Heeps,Mitchell Fielder,Sam Heeps,6-1,6,1,1,0,Completed,true,false,false
+UA007024,26 Jul 15,2,GPHC,Aspendale,No. 4,Jessica Brown,Lachlan Woolford,Jessica Brown,6-2,6,2,1,0,Completed,true,false,false
+UA007031,02 Aug 15,3,BLTC 1,GPHC,No. 1,Tom Fisher,Axel Rives,Axel Rives,0-6,0,6,0,1,Completed,true,false,false
+UA007031,02 Aug 15,3,BLTC 1,GPHC,No. 2,Shaun Yue,Nick Barnett,Nick Barnett,2-6,2,6,0,1,Completed,true,false,false
+UA007031,02 Aug 15,3,BLTC 1,GPHC,No. 3,Shinya Imazawa,David Pettigrew,Shinya Imazawa,6-1,6,1,1,0,Completed,true,false,false
+UA007031,02 Aug 15,3,BLTC 1,GPHC,No. 4,Andrew Savage,Sam Heeps,Sam Heeps,4-6,4,6,0,1,Completed,true,false,false
+UA007032,02 Aug 15,3,Royal South Yarra,Lauriston,No. 1,Max Charles,Misha Machlak,Misha Machlak,3-6,3,6,0,1,Completed,true,false,false
+UA007032,02 Aug 15,3,Royal South Yarra,Lauriston,No. 2,Sam Balmforth,Kyle Howden,Kyle Howden,4-6,4,6,0,1,Completed,true,false,false
+UA007032,02 Aug 15,3,Royal South Yarra,Lauriston,No. 3,Francesca Johnston,Brooklyn Giacometti,Brooklyn Giacometti,0-6,0,6,0,1,Completed,true,false,false
+UA007032,02 Aug 15,3,Royal South Yarra,Lauriston,No. 4,Millie Baxter,Demeke Durant,Demeke Durant,2-6,2,6,0,1,Completed,true,false,false
+UA007033,02 Aug 15,3,Coatesville,BLTC 2,No. 1,Luigi Cortez,Julius Schulze,Julius Schulze,1-6,1,6,0,1,Completed,true,false,false
+UA007033,02 Aug 15,3,Coatesville,BLTC 2,No. 2,Sam Basman,Jacob Altho-McDowell,Sam Basman,6-3,6,3,1,0,Completed,true,false,false
+UA007033,02 Aug 15,3,Coatesville,BLTC 2,No. 3,Jacob Mundy,Henry Bradman,Jacob Mundy,6-3,6,3,1,0,Completed,true,false,false
+UA007033,02 Aug 15,3,Coatesville,BLTC 2,No. 4,Yao Shau,Elise Robertson,Yao Shau,6-1,6,1,1,0,Completed,true,false,false
+UA007034,02 Aug 15,3,Aspendale,Tennis World,No. 1,Dean Stavrou,Lara Burns,Dean Stavrou,6-3,6,3,1,0,Completed,true,false,false
+UA007034,02 Aug 15,3,Aspendale,Tennis World,No. 2,Mitchell Bean,Bailey Liu,Mitchell Bean,6-1,6,1,1,0,Completed,true,false,false
+UA007034,02 Aug 15,3,Aspendale,Tennis World,No. 3,Cooper Walley,James Schultz,Cooper Walley,6-3,6,3,1,0,Completed,true,false,false
+UA007034,02 Aug 15,3,Aspendale,Tennis World,No. 4,Mitchell Fielder,Patrick Homberg,Patrick Homberg,5-7,5,7,0,1,Completed,true,false,false
+UA007041,09 Aug 15,4,Tennis World,BLTC 1,No. 1,Bailey Liu,Tom Fisher,Tom Fisher,4-6,4,6,0,1,Completed,true,false,false
+UA007041,09 Aug 15,4,Tennis World,BLTC 1,No. 2,James Schultz,Edward Fisher,Edward Fisher,5-7,5,7,0,1,Completed,true,false,false
+UA007041,09 Aug 15,4,Tennis World,BLTC 1,No. 3,George Fedorov,Shinya Imazawa,Shinya Imazawa,2-6,2,6,0,1,Completed,true,false,false
+UA007041,09 Aug 15,4,Tennis World,BLTC 1,No. 4,Patrick Homberg,Andrew Savage,Patrick Homberg,6-4,6,4,1,0,Completed,true,false,false
+UA007042,09 Aug 15,4,GPHC,Royal South Yarra,No. 1,Nick Barnett,Vivienne Johnston,Nick Barnett,7-5,7,5,1,0,Completed,true,false,false
+UA007042,09 Aug 15,4,GPHC,Royal South Yarra,No. 2,Angus Crawford,Annabel Jones,Annabel Jones,1-6,1,6,0,1,Completed,true,false,false
+UA007042,09 Aug 15,4,GPHC,Royal South Yarra,No. 3,Sam Heeps,Sam Balmforth,Sam Balmforth,2-6,2,6,0,1,Completed,true,false,false
+UA007042,09 Aug 15,4,GPHC,Royal South Yarra,No. 4,Jessica Brown,Charlotte Ritman,Jessica Brown,6-3,6,3,1,0,Completed,true,false,false
+UA007043,09 Aug 15,4,Lauriston,Coatesville,No. 1,Misha Machlak,Thomas So,Misha Machlak,6-1,6,1,1,0,Completed,true,false,false
+UA007043,09 Aug 15,4,Lauriston,Coatesville,No. 2,Kyle Howden,Sam Basman,Kyle Howden,6-3,6,3,1,0,Completed,true,false,false
+UA007043,09 Aug 15,4,Lauriston,Coatesville,No. 3,Brooklyn Giacometti,Jacob Mundy,Jacob Mundy,4-6,4,6,0,1,Completed,true,false,false
+UA007043,09 Aug 15,4,Lauriston,Coatesville,No. 4,Demeke Durant,Yao Shau,Demeke Durant,7-6,7,6,1,0,Completed,true,false,false
+UA007044,09 Aug 15,4,BLTC 2,Aspendale,No. 1,Lachlan Robertson,Dean Stavrou,Dean Stavrou,4-6,4,6,0,1,Completed,true,false,false
+UA007044,09 Aug 15,4,BLTC 2,Aspendale,No. 2,Julius Schulze,Mitchell Bean,Mitchell Bean,1-6,1,6,0,1,Completed,true,false,false
+UA007044,09 Aug 15,4,BLTC 2,Aspendale,No. 3,Jacob Altho-McDowell,Alex Klemm,Alex Klemm,2-6,2,6,0,1,Completed,true,false,false
+UA007044,09 Aug 15,4,BLTC 2,Aspendale,No. 4,Henry Bradman,Mitchell Fielder,Henry Bradman,6-4,6,4,1,0,Completed,true,false,false
+UA007051,16 Aug 15,5,Coatesville,Aspendale,No. 1,Luigi Cortez,Dean Stavrou,Dean Stavrou,6-7,6,7,0,1,Completed,true,false,false
+UA007051,16 Aug 15,5,Coatesville,Aspendale,No. 2,Thomas So,Cooper Walley,Thomas So,6-3,6,3,1,0,Completed,true,false,false
+UA007051,16 Aug 15,5,Coatesville,Aspendale,No. 3,Jacob Mundy,Alex Klemm,Jacob Mundy,6-2,6,2,1,0,Completed,true,false,false
+UA007051,16 Aug 15,5,Coatesville,Aspendale,No. 4,Yao Shau,Mitchell Fielder,Yao Shau,7-5,7,5,1,0,Completed,true,false,false
+UA007052,16 Aug 15,5,Lauriston,GPHC,No. 1,Misha Machlak,Angus Crawford,Misha Machlak,6-0,6,0,1,0,Completed,true,false,false
+UA007052,16 Aug 15,5,Lauriston,GPHC,No. 2,Kyle Howden,David Pettigrew,Kyle Howden,6-1,6,1,1,0,Completed,true,false,false
+UA007052,16 Aug 15,5,Lauriston,GPHC,No. 3,Brooklyn Giacometti,Sam Heeps,Sam Heeps,0-6,0,6,0,1,Completed,true,false,false
+UA007052,16 Aug 15,5,Lauriston,GPHC,No. 4,Demeke Durant,Jessica Brown,Jessica Brown,1-6,1,6,0,1,Completed,true,false,false
+UA007053,16 Aug 15,5,Tennis World,BLTC 2,No. 1,Lara Burns,Lachlan Robertson,Lachlan Robertson,1-6,1,6,0,1,Completed,true,false,false
+UA007053,16 Aug 15,5,Tennis World,BLTC 2,No. 2,James Schultz,Julius Schulze,Julius Schulze,6-7,6,7,0,1,Completed,true,false,false
+UA007053,16 Aug 15,5,Tennis World,BLTC 2,No. 3,George Fedorov,Jacob Altho-McDowell,George Fedorov,6-1,6,1,1,0,Completed,true,false,false
+UA007053,16 Aug 15,5,Tennis World,BLTC 2,No. 4,Patrick Homberg,Henry Bradman,Patrick Homberg,6-1,6,1,1,0,Completed,true,false,false
+UA007054,16 Aug 15,5,BLTC 1,Royal South Yarra,No. 1,Tom Fisher,Vivienne Johnston,Vivienne Johnston,4-6,4,6,0,1,Completed,true,false,false
+UA007054,16 Aug 15,5,BLTC 1,Royal South Yarra,No. 2,Edward Fisher,Max Charles,Max Charles,3-6,3,6,0,1,Completed,true,false,false
+UA007054,16 Aug 15,5,BLTC 1,Royal South Yarra,No. 3,Shinya Imazawa,Sam Balmforth,Shinya Imazawa,7-5,7,5,1,0,Completed,true,false,false
+UA007054,16 Aug 15,5,BLTC 1,Royal South Yarra,No. 4,Andrew Savage,Charlotte Ritman,Charlotte Ritman,3-6,3,6,0,1,Completed,true,false,false
+UA007061,23 Aug 15,6,Royal South Yarra,Coatesville,No. 1,Vivienne Johnston,Luigi Cortez,Vivienne Johnston,6-1,6,1,1,0,Completed,true,false,false
+UA007061,23 Aug 15,6,Royal South Yarra,Coatesville,No. 2,Max Charles,Thomas So,Max Charles,6-3,6,3,1,0,Completed,true,false,false
+UA007061,23 Aug 15,6,Royal South Yarra,Coatesville,No. 3,Annabel Jones,Sam Basman,Sam Basman,2-6,2,6,0,1,Completed,true,false,false
+UA007061,23 Aug 15,6,Royal South Yarra,Coatesville,No. 4,Charlotte Ritman,Jacob Mundy,Jacob Mundy,1-6,1,6,0,1,Completed,true,false,false
+UA007062,23 Aug 15,6,Aspendale,BLTC 1,No. 1,Mitchell Bean,Tom Fisher,Mitchell Bean,6-0,6,0,1,0,Completed,true,false,false
+UA007062,23 Aug 15,6,Aspendale,BLTC 1,No. 2,Cooper Walley,Shaun Yue,Cooper Walley,6-4,6,4,1,0,Completed,true,false,false
+UA007062,23 Aug 15,6,Aspendale,BLTC 1,No. 3,Alex Klemm,Edward Fisher,Alex Klemm,6-4,6,4,1,0,Completed,true,false,false
+UA007062,23 Aug 15,6,Aspendale,BLTC 1,No. 4,Mitchell Fielder,Shinya Imazawa,Shinya Imazawa,1-6,1,6,0,1,Completed,true,false,false
+UA007063,23 Aug 15,6,GPHC,Tennis World,No. 1,Axel Rives,Lara Burns,Axel Rives,6-3,6,3,1,0,Completed,true,false,false
+UA007063,23 Aug 15,6,GPHC,Tennis World,No. 2,Nick Barnett,Jake Temby,Nick Barnett,6-0,6,0,1,0,Completed,true,false,false
+UA007063,23 Aug 15,6,GPHC,Tennis World,No. 3,David Pettigrew,George Fedorov,George Fedorov,1-6,1,6,0,1,Completed,true,false,false
+UA007063,23 Aug 15,6,GPHC,Tennis World,No. 4,Sam Heeps,Patrick Homberg,Patrick Homberg,1-6,1,6,0,1,Completed,true,false,false
+UA007064,23 Aug 15,6,BLTC 2,Lauriston,No. 1,Lachlan Robertson,Misha Machlak,Lachlan Robertson,6-2,6,2,1,0,Completed,true,false,false
+UA007064,23 Aug 15,6,BLTC 2,Lauriston,No. 2,Julius Schulze,Kyle Howden,Kyle Howden,2-6,2,6,0,1,Completed,true,false,false
+UA007064,23 Aug 15,6,BLTC 2,Lauriston,No. 3,Jacob Altho-McDowell,Brooklyn Giacometti,Brooklyn Giacometti,4-6,4,6,0,1,Completed,true,false,false
+UA007064,23 Aug 15,6,BLTC 2,Lauriston,No. 4,Henry Bradman,Demeke Durant,Henry Bradman,6-4,6,4,1,0,Completed,true,false,false
+UA007071,30 Aug 15,7,BLTC 1,Coatesville,No. 1,Tom Fisher,Luigi Cortez,Tom Fisher,6-2,6,2,1,0,Completed,true,false,false
+UA007071,30 Aug 15,7,BLTC 1,Coatesville,No. 2,Shaun Yue,Thomas So,Thomas So,4-6,4,6,0,1,Completed,true,false,false
+UA007071,30 Aug 15,7,BLTC 1,Coatesville,No. 3,Edward Fisher,Sam Basman,Edward Fisher,6-3,6,3,1,0,Completed,true,false,false
+UA007071,30 Aug 15,7,BLTC 1,Coatesville,No. 4,Andrew Savage,Yao Shau,Yao Shau,3-6,3,6,0,1,Completed,true,false,false
+UA007072,30 Aug 15,7,Royal South Yarra,Aspendale,No. 1,Oliver Ritman,Dean Stavrou,Dean Stavrou,1-6,1,6,0,1,Completed,true,false,false
+UA007072,30 Aug 15,7,Royal South Yarra,Aspendale,No. 2,Annabel Jones,Cooper Walley,Cooper Walley,4-6,4,6,0,1,Completed,true,false,false
+UA007072,30 Aug 15,7,Royal South Yarra,Aspendale,No. 3,Sam Balmforth,Alex Klemm,Sam Balmforth,6-4,6,4,1,0,Completed,true,false,false
+UA007072,30 Aug 15,7,Royal South Yarra,Aspendale,No. 4,Charlotte Ritman,Mitchell Fielder,Charlotte Ritman,6-1,6,1,1,0,Completed,true,false,false
+UA007073,30 Aug 15,7,Lauriston,Tennis World,No. 1,Misha Machlak,Lara Burns,Lara Burns,1-6,1,6,0,1,Completed,true,false,false
+UA007073,30 Aug 15,7,Lauriston,Tennis World,No. 2,Kyle Howden,Bailey Liu,Kyle Howden,6-3,6,3,1,0,Completed,true,false,false
+UA007073,30 Aug 15,7,Lauriston,Tennis World,No. 3,Demeke Durant,Jake Temby,Jake Temby,5-7,5,7,0,1,Completed,true,false,false
+UA007073,30 Aug 15,7,Lauriston,Tennis World,No. 4,Aidan Cahill,James Schultz,Aidan Cahill,7-5,7,5,1,0,Completed,true,false,false
+UA007074,30 Aug 15,7,GPHC,BLTC 2,No. 1,Axel Rives,Lachlan Robertson,Lachlan Robertson,3-6,3,6,0,1,Completed,true,false,false
+UA007074,30 Aug 15,7,GPHC,BLTC 2,No. 2,Angus Crawford,Julius Schulze,Julius Schulze,0-6,0,6,0,1,Completed,true,false,false
+UA007074,30 Aug 15,7,GPHC,BLTC 2,No. 3,David Pettigrew,Jacob Altho-McDowell,David Pettigrew,6-4,6,4,1,0,Completed,true,false,false
+UA007074,30 Aug 15,7,GPHC,BLTC 2,No. 4,Sam Heeps,Elise Robertson,Sam Heeps,6-1,6,1,1,0,Completed,true,false,false
+UA007081,06 Sep 15,8,BLTC 2,BLTC 1,No. 1,Julius Schulze,Tom Fisher,Julius Schulze,6-4,6,4,1,0,Completed,true,false,false
+UA007081,06 Sep 15,8,BLTC 2,BLTC 1,No. 2,Jacob Altho-McDowell,Edward Fisher,Edward Fisher,3-6,3,6,0,1,Completed,true,false,false
+UA007081,06 Sep 15,8,BLTC 2,BLTC 1,No. 3,Ebony Anderson,Shinya Imazawa,Shinya Imazawa,2-6,2,6,0,1,Completed,true,false,false
+UA007081,06 Sep 15,8,BLTC 2,BLTC 1,No. 4,Stewart Petley,Andrew Savage,Andrew Savage,3-6,3,6,0,1,Completed,true,false,false
+UA007082,06 Sep 15,8,Tennis World,Royal South Yarra,No. 1,Bailey Liu,Vivienne Johnston,Vivienne Johnston,2-6,2,6,0,1,Completed,true,false,false
+UA007082,06 Sep 15,8,Tennis World,Royal South Yarra,No. 2,George Fedorov,Max Charles,Max Charles,3-6,3,6,0,1,Completed,true,false,false
+UA007082,06 Sep 15,8,Tennis World,Royal South Yarra,No. 3,Patrick Homberg,Annabel Jones,Patrick Homberg,7-6,7,6,1,0,Completed,true,false,false
+UA007082,06 Sep 15,8,Tennis World,Royal South Yarra,No. 4,Riley Burns,Sam Balmforth,Riley Burns,6-1,6,1,1,0,Completed,true,false,false
+UA007083,06 Sep 15,8,GPHC,Coatesville,No. 1,Nick Barnett,Luigi Cortez,Luigi Cortez,0-6,0,6,0,1,Completed,true,false,false
+UA007083,06 Sep 15,8,GPHC,Coatesville,No. 2,Angus Crawford,Thomas So,Thomas So,2-6,2,6,0,1,Completed,true,false,false
+UA007083,06 Sep 15,8,GPHC,Coatesville,No. 3,Sam Heeps,Sam Basman,Sam Heeps,6-2,6,2,1,0,Completed,true,false,false
+UA007083,06 Sep 15,8,GPHC,Coatesville,No. 4,Jessica Brown,Yao Shau,Yao Shau,3-6,3,6,0,1,Completed,true,false,false
+UA007084,06 Sep 15,8,Lauriston,Aspendale,No. 1,Misha Machlak,Dean Stavrou,Dean Stavrou,3-6,3,6,0,1,Completed,true,false,false
+UA007084,06 Sep 15,8,Lauriston,Aspendale,No. 2,Kyle Howden,Cooper Walley,Kyle Howden,6-2,6,2,1,0,Completed,true,false,false
+UA007084,06 Sep 15,8,Lauriston,Aspendale,No. 3,Brooklyn Giacometti,Alex Klemm,Alex Klemm,2-6,2,6,0,1,Completed,true,false,false
+UA007084,06 Sep 15,8,Lauriston,Aspendale,No. 4,Emma Yue,Mitchell Fielder,Emma Yue,6-2,6,2,1,0,Completed,true,false,false
+UA007091,13 Sep 15,9,BLTC 1,Lauriston,No. 1,Tom Fisher,Misha Machlak,Misha Machlak,4-6,4,6,0,1,Completed,true,false,false
+UA007091,13 Sep 15,9,BLTC 1,Lauriston,No. 2,Shaun Yue,Brooklyn Giacometti,Shaun Yue,6-3,6,3,1,0,Completed,true,false,false
+UA007091,13 Sep 15,9,BLTC 1,Lauriston,No. 3,Shinya Imazawa,Demeke Durant,Shinya Imazawa,6-2,6,2,1,0,Completed,true,false,false
+UA007091,13 Sep 15,9,BLTC 1,Lauriston,No. 4,Andrew Savage,Emma Yue,Andrew Savage,6-4,6,4,1,0,Completed,true,false,false
+UA007092,13 Sep 15,9,Royal South Yarra,BLTC 2,No. 1,Vivienne Johnston,Lachlan Robertson,Lachlan Robertson,4-6,4,6,0,1,Completed,true,false,false
+UA007092,13 Sep 15,9,Royal South Yarra,BLTC 2,No. 2,Max Charles,Julius Schulze,Max Charles,6-3,6,3,1,0,Completed,true,false,false
+UA007092,13 Sep 15,9,Royal South Yarra,BLTC 2,No. 3,Francesca Johnston,Jacob Altho-McDowell,Jacob Altho-McDowell,4-6,4,6,0,1,Completed,true,false,false
+UA007092,13 Sep 15,9,Royal South Yarra,BLTC 2,No. 4,Jess McNair,Nick Lambert,Nick Lambert,0-6,0,6,0,1,Completed,true,false,false
+UA007093,13 Sep 15,9,Coatesville,Tennis World,No. 1,Luigi Cortez,Lara Burns,Luigi Cortez,6-3,6,3,1,0,Completed,true,false,false
+UA007093,13 Sep 15,9,Coatesville,Tennis World,No. 2,Thomas So,Jake Temby,Thomas So,6-0,6,0,1,0,Completed,true,false,false
+UA007093,13 Sep 15,9,Coatesville,Tennis World,No. 3,Sam Basman,James Schultz,James Schultz,2-6,2,6,0,1,Completed,true,false,false
+UA007093,13 Sep 15,9,Coatesville,Tennis World,No. 4,Yao Shau,Riley Burns,Yao Shau,6-4,6,4,1,0,Completed,true,false,false
+UA007094,13 Sep 15,9,Aspendale,GPHC,No. 1,Dean Stavrou,Axel Rives,Axel Rives,4-6,4,6,0,1,Completed,true,false,false
+UA007094,13 Sep 15,9,Aspendale,GPHC,No. 2,Mitchell Bean,Nick Barnett,Mitchell Bean,6-3,6,3,1,0,Completed,true,false,false
+UA007094,13 Sep 15,9,Aspendale,GPHC,No. 3,Alex Klemm,David Pettigrew,Alex Klemm,6-2,6,2,1,0,Completed,true,false,false
+UA007094,13 Sep 15,9,Aspendale,GPHC,No. 4,Mitchell Fielder,Sam Heeps,Mitchell Fielder,6-4,6,4,1,0,Completed,true,false,false
+UA007101,11 Oct 15,10,GPHC,BLTC 1,No. 1,Axel Rives,Shaun Yue,Axel Rives,6-4,6,4,1,0,Completed,true,false,false
+UA007101,11 Oct 15,10,GPHC,BLTC 1,No. 2,Angus Crawford,Edward Fisher,Edward Fisher,4-6,4,6,0,1,Completed,true,false,false
+UA007101,11 Oct 15,10,GPHC,BLTC 1,No. 3,David Pettigrew,Shinya Imazawa,Shinya Imazawa,1-6,1,6,0,1,Completed,true,false,false
+UA007101,11 Oct 15,10,GPHC,BLTC 1,No. 4,Jessica Brown,Andrew Savage,Jessica Brown,6-3,6,3,1,0,Completed,true,false,false
+UA007102,11 Oct 15,10,Lauriston,Royal South Yarra,No. 1,Kyle Howden,Vivienne Johnston,Kyle Howden,6-4,6,4,1,0,Completed,true,false,false
+UA007102,11 Oct 15,10,Lauriston,Royal South Yarra,No. 2,Brooklyn Giacometti,Max Charles,Max Charles,1-6,1,6,0,1,Completed,true,false,false
+UA007102,11 Oct 15,10,Lauriston,Royal South Yarra,No. 3,Demeke Durant,Annabel Jones,Demeke Durant,6-3,6,3,1,0,Completed,true,false,false
+UA007102,11 Oct 15,10,Lauriston,Royal South Yarra,No. 4,Emma Yue,Oliver Ritman,Emma Yue,6-3,6,3,1,0,Completed,true,false,false
+UA007103,11 Oct 15,10,BLTC 2,Coatesville,No. 1,Lachlan Robertson,Thomas So,Thomas So,5-7,5,7,0,1,Completed,true,false,false
+UA007103,11 Oct 15,10,BLTC 2,Coatesville,No. 2,Jacob Altho-McDowell,Sam Basman,Sam Basman,3-6,3,6,0,1,Completed,true,false,false
+UA007103,11 Oct 15,10,BLTC 2,Coatesville,No. 3,Nick Lambert,Jacob Mundy,Nick Lambert,6-4,6,4,1,0,Completed,true,false,false
+UA007103,11 Oct 15,10,BLTC 2,Coatesville,No. 4,Henry Bradman,Yao Shau,Yao Shau,0-6,0,6,0,1,Completed,true,false,false
+UA007104,11 Oct 15,10,Tennis World,Aspendale,No. 1,Lara Burns,Dean Stavrou,Lara Burns,6-2,6,2,1,0,Completed,true,false,false
+UA007104,11 Oct 15,10,Tennis World,Aspendale,No. 2,Bailey Liu,Cooper Walley,Cooper Walley,4-6,4,6,0,1,Completed,true,false,false
+UA007104,11 Oct 15,10,Tennis World,Aspendale,No. 3,George Fedorov,Alex Klemm,Alex Klemm,4-6,4,6,0,1,Completed,true,false,false
+UA007104,11 Oct 15,10,Tennis World,Aspendale,No. 4,Patrick Homberg,Mitchell Fielder,Patrick Homberg,7-5,7,5,1,0,Completed,true,false,false
+UA007112,18 Oct 15,11,Royal South Yarra,GPHC,No. 1,Vivienne Johnston,Nick Barnett,Vivienne Johnston,6-4,6,4,1,0,Completed,true,false,false
+UA007112,18 Oct 15,11,Royal South Yarra,GPHC,No. 2,Max Charles,David Pettigrew,Max Charles,6-0,6,0,1,0,Completed,true,false,false
+UA007112,18 Oct 15,11,Royal South Yarra,GPHC,No. 3,Annabel Jones,Sam Heeps,Sam Heeps,1-6,1,6,0,1,Completed,true,false,false
+UA007112,18 Oct 15,11,Royal South Yarra,GPHC,No. 4,Oliver Ritman,Jessica Brown,Jessica Brown,2-6,2,6,0,1,Completed,true,false,false
+UA007113,18 Oct 15,11,Coatesville,Lauriston,No. 1,Luigi Cortez,Misha Machlak,Luigi Cortez,6-3,6,3,1,0,Completed,true,false,false
+UA007113,18 Oct 15,11,Coatesville,Lauriston,No. 2,Thomas So,Kyle Howden,Thomas So,6-4,6,4,1,0,Completed,true,false,false
+UA007113,18 Oct 15,11,Coatesville,Lauriston,No. 3,Sam Basman,Demeke Durant,Sam Basman,6-3,6,3,1,0,Completed,true,false,false
+UA007113,18 Oct 15,11,Coatesville,Lauriston,No. 4,Yao Shau,Emma Yue,Emma Yue,4-6,4,6,0,1,Completed,true,false,false
+UA007114,18 Oct 15,11,Aspendale,BLTC 2,No. 1,Mitchell Bean,Lachlan Robertson,Lachlan Robertson,2-6,2,6,0,1,Completed,true,false,false
+UA007114,18 Oct 15,11,Aspendale,BLTC 2,No. 2,Cooper Walley,Julius Schulze,Julius Schulze,6-7,6,7,0,1,Completed,true,false,false
+UA007114,18 Oct 15,11,Aspendale,BLTC 2,No. 3,Alex Klemm,Jacob Altho-McDowell,Alex Klemm,6-0,6,0,1,0,Completed,true,false,false
+UA007114,18 Oct 15,11,Aspendale,BLTC 2,No. 4,Mitchell Fielder,Henry Bradman,Henry Bradman,4-6,4,6,0,1,Completed,true,false,false
+UA007121,25 Oct 15,12,Aspendale,Coatesville,No. 1,Dean Stavrou,Luigi Cortez,Dean Stavrou,6-0,6,0,1,0,Completed,true,false,false
+UA007121,25 Oct 15,12,Aspendale,Coatesville,No. 2,Mitchell Bean,Thomas So,Mitchell Bean,6-4,6,4,1,0,Completed,true,false,false
+UA007121,25 Oct 15,12,Aspendale,Coatesville,No. 3,Cooper Walley,Sam Basman,Sam Basman,4-6,4,6,0,1,Completed,true,false,false
+UA007121,25 Oct 15,12,Aspendale,Coatesville,No. 4,Mitchell Fielder,Yao Shau,Yao Shau,3-6,3,6,0,1,Completed,true,false,false
+UA007122,25 Oct 15,12,GPHC,Lauriston,No. 1,Axel Rives,Misha Machlak,Axel Rives,6-3,6,3,1,0,Completed,true,false,false
+UA007122,25 Oct 15,12,GPHC,Lauriston,No. 2,Nick Barnett,Brooklyn Giacometti,Nick Barnett,6-2,6,2,1,0,Completed,true,false,false
+UA007122,25 Oct 15,12,GPHC,Lauriston,No. 3,Angus Crawford,Emma Yue,Emma Yue,0-6,0,6,0,1,Completed,true,false,false
+UA007122,25 Oct 15,12,GPHC,Lauriston,No. 4,Sam Heeps,Nicholas Livanos,Sam Heeps,6-0,6,0,1,0,Completed,true,false,false
+UA007123,25 Oct 15,12,BLTC 2,Tennis World,No. 1,Lachlan Robertson,Lara Burns,Lachlan Robertson,6-3,6,3,1,0,Completed,true,false,false
+UA007123,25 Oct 15,12,BLTC 2,Tennis World,No. 2,Julius Schulze,Bailey Liu,Julius Schulze,6-1,6,1,1,0,Completed,true,false,true
+UA007123,25 Oct 15,12,BLTC 2,Tennis World,No. 3,Jacob Altho-McDowell,Patrick Homberg,Patrick Homberg,2-6,2,6,0,1,Completed,true,false,false
+UA007123,25 Oct 15,12,BLTC 2,Tennis World,No. 4,Henry Bradman,Riley Burns,Henry Bradman,6-4,6,4,1,0,Completed,true,false,false
+UA007124,25 Oct 15,12,Royal South Yarra,BLTC 1,No. 1,Vivienne Johnston,Tom Fisher,Vivienne Johnston,6-2,6,2,1,0,Completed,true,false,false
+UA007124,25 Oct 15,12,Royal South Yarra,BLTC 1,No. 2,Max Charles,Edward Fisher,Max Charles,6-2,6,2,1,0,Completed,true,false,false
+UA007124,25 Oct 15,12,Royal South Yarra,BLTC 1,No. 3,Annabel Jones,Shinya Imazawa,Shinya Imazawa,2-6,2,6,0,1,Completed,true,false,false
+UA007124,25 Oct 15,12,Royal South Yarra,BLTC 1,No. 4,Sam Balmforth,Andrew Savage,Sam Balmforth,6-2,6,2,1,0,Completed,true,false,false
+UA007131,08 Nov 15,13,Coatesville,Royal South Yarra,No. 1,Luigi Cortez,Max Charles,Max Charles,1-6,1,6,0,1,Completed,true,false,false
+UA007131,08 Nov 15,13,Coatesville,Royal South Yarra,No. 2,Sam Basman,Annabel Jones,Sam Basman,6-3,6,3,1,0,Completed,true,false,false
+UA007131,08 Nov 15,13,Coatesville,Royal South Yarra,No. 3,Jacob Mundy,Oliver Ritman,Oliver Ritman,6-7,6,7,0,1,Completed,true,false,false
+UA007131,08 Nov 15,13,Coatesville,Royal South Yarra,No. 4,Yao Shau,Sam Balmforth,Yao Shau,6-3,6,3,1,0,Completed,true,false,false
+UA007132,08 Nov 15,13,BLTC 1,Aspendale,No. 1,Shaun Yue,Dean Stavrou,Dean Stavrou,3-6,3,6,0,1,Completed,true,false,false
+UA007132,08 Nov 15,13,BLTC 1,Aspendale,No. 2,Tom Fisher,Mitchell Bean,Mitchell Bean,0-6,0,6,0,1,Completed,true,false,false
+UA007132,08 Nov 15,13,BLTC 1,Aspendale,No. 3,Shinya Imazawa,Cooper Walley,Shinya Imazawa,6-2,6,2,1,0,Completed,true,false,false
+UA007132,08 Nov 15,13,BLTC 1,Aspendale,No. 4,Andrew Savage,Mitchell Fielder,Andrew Savage,6-2,6,2,1,0,Completed,true,false,false
+UA007133,08 Nov 15,13,Tennis World,GPHC,No. 1,Jake Temby,Nick Barnett,Jake Temby,6-2,6,2,1,0,Completed,true,false,false
+UA007133,08 Nov 15,13,Tennis World,GPHC,No. 2,James Schultz,Angus Crawford,James Schultz,6-1,6,1,1,0,Completed,true,false,false
+UA007133,08 Nov 15,13,Tennis World,GPHC,No. 3,George Fedorov,David Pettigrew,George Fedorov,6-1,6,1,1,0,Completed,true,false,false
+UA007133,08 Nov 15,13,Tennis World,GPHC,No. 4,Patrick Homberg,Jessica Brown,Patrick Homberg,6-3,6,3,1,0,Completed,true,false,false
+UA007134,08 Nov 15,13,Lauriston,BLTC 2,No. 1,Misha Machlak,Lachlan Robertson,Lachlan Robertson,3-6,3,6,0,1,Completed,true,false,false
+UA007134,08 Nov 15,13,Lauriston,BLTC 2,No. 2,Brooklyn Giacometti,Julius Schulze,Julius Schulze,3-6,3,6,0,1,Completed,true,false,false
+UA007134,08 Nov 15,13,Lauriston,BLTC 2,No. 3,Demeke Durant,Jacob Altho-McDowell,Jacob Altho-McDowell,5-7,5,7,0,1,Completed,true,false,false
+UA007134,08 Nov 15,13,Lauriston,BLTC 2,No. 4,Emma Yue,Nick Lambert,Nick Lambert,0-6,0,6,0,1,Completed,true,false,false
+UA007141,15 Nov 15,14,Coatesville,BLTC 1,No. 1,Luigi Cortez,Tom Fisher,Luigi Cortez,6-1,6,1,1,0,Completed,true,false,false
+UA007141,15 Nov 15,14,Coatesville,BLTC 1,No. 2,Thomas So,Shaun Yue,Thomas So,6-1,6,1,1,0,Completed,true,false,false
+UA007141,15 Nov 15,14,Coatesville,BLTC 1,No. 3,Sam Basman,Edward Fisher,Edward Fisher,6-7,6,7,0,1,Completed,true,false,false
+UA007141,15 Nov 15,14,Coatesville,BLTC 1,No. 4,Yao Shau,Andrew Savage,Yao Shau,6-3,6,3,1,0,Completed,true,false,false
+UA007142,15 Nov 15,14,Aspendale,Royal South Yarra,No. 1,Dean Stavrou,Vivienne Johnston,Vivienne Johnston,3-6,3,6,0,1,Completed,true,false,false
+UA007142,15 Nov 15,14,Aspendale,Royal South Yarra,No. 2,Cooper Walley,Max Charles,Max Charles,3-6,3,6,0,1,Completed,true,false,false
+UA007142,15 Nov 15,14,Aspendale,Royal South Yarra,No. 3,Alex Klemm,Annabel Jones,Annabel Jones,2-6,2,6,0,1,Completed,true,false,false
+UA007142,15 Nov 15,14,Aspendale,Royal South Yarra,No. 4,Mitchell Fielder,Sam Balmforth,Mitchell Fielder,6-0,6,0,1,0,Completed,true,false,false
+UA007143,15 Nov 15,14,Tennis World,Lauriston,No. 1,Lara Burns,Misha Machlak,Misha Machlak,6-7,6,7,0,1,Completed,true,false,false
+UA007143,15 Nov 15,14,Tennis World,Lauriston,No. 2,Bailey Liu,Demeke Durant,Bailey Liu,6-3,6,3,1,0,Completed,true,true,false
+UA007143,15 Nov 15,14,Tennis World,Lauriston,No. 3,George Fedorov,Emma Yue,George Fedorov,6-2,6,2,1,0,Completed,true,false,false
+UA007143,15 Nov 15,14,Tennis World,Lauriston,No. 4,Patrick Homberg,Aidan Cahill,Aidan Cahill,2-6,2,6,0,1,Completed,true,false,false
+UA007301,,16,BLTC 1,Aspendale,No. 1,Tom Fisher,Dean Stavrou,Dean Stavrou,5-7,5,7,0,1,Completed,true,false,false
+UA007301,,16,BLTC 1,Aspendale,No. 2,Shaun Yue,Mitchell Bean,Mitchell Bean,3-6,3,6,0,1,Completed,true,false,false
+UA007301,,16,BLTC 1,Aspendale,No. 3,Edward Fisher,Cooper Walley,Edward Fisher,6-3,6,3,1,0,Completed,true,false,false
+UA007301,,16,BLTC 1,Aspendale,No. 4,Shinya Imazawa,Alex Klemm,Shinya Imazawa,6-3,6,3,1,0,Completed,true,false,false
+UA007302,,16,Coatesville,Lauriston,No. 1,Luigi Cortez,Misha Machlak,Misha Machlak,6-7,6,7,0,1,Completed,true,false,false
+UA007302,,16,Coatesville,Lauriston,No. 2,Thomas So,Brooklyn Giacometti,Thomas So,6-1,6,1,1,0,Completed,true,false,false
+UA007302,,16,Coatesville,Lauriston,No. 3,Sam Basman,Demeke Durant,Demeke Durant,3-6,3,6,0,1,Completed,true,false,false
+UA007302,,16,Coatesville,Lauriston,No. 4,Jacob Mundy,Emma Yue,Jacob Mundy,6-1,6,1,1,0,Completed,true,false,false
+UA007321,,17,Coatesville,Aspendale,No. 1,Luigi Cortez,Dean Stavrou,Dean Stavrou,2-6,2,6,0,1,Completed,true,false,false
+UA007321,,17,Coatesville,Aspendale,No. 2,Thomas So,Mitchell Bean,Mitchell Bean,2-6,2,6,0,1,Completed,true,false,false
+UA007321,,17,Coatesville,Aspendale,No. 3,Sam Basman,Cooper Walley,Cooper Walley,3-6,3,6,0,1,Completed,true,false,false
+UA007321,,17,Coatesville,Aspendale,No. 4,Jacob Mundy,Alex Klemm,Jacob Mundy,6-4,6,4,1,0,Completed,true,false,false

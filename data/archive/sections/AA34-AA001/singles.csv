@@ -1,0 +1,173 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA001011,18 Jul 15,1,Carmelite 1,Carmelite 2,No. 1,Vincent McDonald,Leon Katelis,Vincent McDonald,6-1,6,1,1,0,Completed,true,false,false
+AA001011,18 Jul 15,1,Carmelite 1,Carmelite 2,No. 2,Ava Wolf,Gus MacDonald,Ava Wolf,6-3,6,3,1,0,Completed,true,false,false
+AA001011,18 Jul 15,1,Carmelite 1,Carmelite 2,No. 3,Will Hunt,Mitchell Geraerts,Will Hunt,6-2,6,2,1,0,Completed,true,false,false
+AA001011,18 Jul 15,1,Carmelite 1,Carmelite 2,No. 4,Benjamin Davies,Paddy Freemantle,Benjamin Davies,6-2,6,2,1,0,Completed,true,false,false
+AA001012,18 Jul 15,1,Kooyong MLC1,Kooyong MLC2,No. 1,Alexandra McFarlane,Leo Fetter,Leo Fetter,2-6,2,6,0,1,Completed,true,false,false
+AA001012,18 Jul 15,1,Kooyong MLC1,Kooyong MLC2,No. 2,Grace Pulling,Celeste Rayment,Celeste Rayment,1-6,1,6,0,1,Completed,true,false,false
+AA001012,18 Jul 15,1,Kooyong MLC1,Kooyong MLC2,No. 3,Harry Merzger,Ayden Carp,Ayden Carp,4-6,4,6,0,1,Completed,true,false,false
+AA001012,18 Jul 15,1,Kooyong MLC1,Kooyong MLC2,No. 4,Olivia Douglas,Thomas Palazzo,Olivia Douglas,6-2,6,2,1,0,Completed,true,false,false
+AA001014,18 Jul 15,1,Port Melbourne,Royal South Yarra,No. 1,Harrison Stamilatos,Hamish Francis,Hamish Francis,0-6,0,6,0,1,Completed,true,false,false
+AA001014,18 Jul 15,1,Port Melbourne,Royal South Yarra,No. 2,Ryan Sweeney,Sam McLean,Sam McLean,4-6,4,6,0,1,Completed,true,false,false
+AA001014,18 Jul 15,1,Port Melbourne,Royal South Yarra,No. 3,Athan Stamatelatos,Freddie Campbell,Athan Stamatelatos,6-0,6,0,1,0,Completed,true,false,false
+AA001014,18 Jul 15,1,Port Melbourne,Royal South Yarra,No. 4,[Unnamed player — TROLS AA001014 home code 4],Lucy Campbell,[Unnamed player — TROLS AA001014 home code 4],6-0,6,0,1,0,Completed,false,false,false
+AA001021,25 Jul 15,2,Royal South Yarra,Carmelite 1,No. 1,Sam McLean,Vincent McDonald,Sam McLean,7-5,7,5,1,0,Completed,true,false,false
+AA001021,25 Jul 15,2,Royal South Yarra,Carmelite 1,No. 2,Freddie Campbell,Luke Johnson,Luke Johnson,3-6,3,6,0,1,Completed,true,false,false
+AA001021,25 Jul 15,2,Royal South Yarra,Carmelite 1,No. 3,Lucy Campbell,Andre Gregorious,Andre Gregorious,1-6,1,6,0,1,Completed,true,false,false
+AA001021,25 Jul 15,2,Royal South Yarra,Carmelite 1,No. 4,Georgie Gough,Will Hunt,Will Hunt,3-6,3,6,0,1,Completed,true,false,false
+AA001022,25 Jul 15,2,Carmelite 2,Kooyong MLC1,No. 1,Leon Katelis,Alexandra McFarlane,Alexandra McFarlane,1-6,1,6,0,1,Completed,true,false,false
+AA001022,25 Jul 15,2,Carmelite 2,Kooyong MLC1,No. 2,Maddie Jensz,Olivia Douglas,Olivia Douglas,5-7,5,7,0,1,Completed,true,false,false
+AA001022,25 Jul 15,2,Carmelite 2,Kooyong MLC1,No. 3,Gus MacDonald,Harry Merzger,Harry Merzger,2-6,2,6,0,1,Completed,true,false,false
+AA001022,25 Jul 15,2,Carmelite 2,Kooyong MLC1,No. 4,Mitchell Geraerts,[Unnamed player — TROLS AA001022 away code 4],Mitchell Geraerts,6-0,6,0,1,0,Completed,false,false,false
+AA001024,25 Jul 15,2,Kooyong MLC3,Port Melbourne,No. 1,Nicholas Lester,Ryan Sweeney,Ryan Sweeney,5-7,5,7,0,1,Completed,true,false,false
+AA001024,25 Jul 15,2,Kooyong MLC3,Port Melbourne,No. 2,Aaron Koh,Athan Stamilatos,Aaron Koh,6-4,6,4,1,0,Completed,true,false,false
+AA001024,25 Jul 15,2,Kooyong MLC3,Port Melbourne,No. 3,Jack Cannon,Ben Adam,Ben Adam,4-6,4,6,0,1,Completed,true,false,false
+AA001024,25 Jul 15,2,Kooyong MLC3,Port Melbourne,No. 4,Eliza Seymour,Zac Climpson,Eliza Seymour,7-5,7,5,1,0,Completed,true,false,false
+AA001031,01 Aug 15,3,Carmelite 1,Kooyong MLC3,No. 1,Vincent McDonald,Nicholas Lester,Vincent McDonald,6-2,6,2,1,0,Completed,true,false,false
+AA001031,01 Aug 15,3,Carmelite 1,Kooyong MLC3,No. 2,Luke Johnson,Aaron Koh,Aaron Koh,6-7,6,7,0,1,Completed,true,false,false
+AA001031,01 Aug 15,3,Carmelite 1,Kooyong MLC3,No. 3,Andre Gregorious,Jack Cannon,Andre Gregorious,6-2,6,2,1,0,Completed,true,false,false
+AA001031,01 Aug 15,3,Carmelite 1,Kooyong MLC3,No. 4,Ava Wolf,Ruby Seymour,Ava Wolf,6-4,6,4,1,0,Completed,true,false,false
+AA001032,01 Aug 15,3,Kooyong MLC1,Royal South Yarra,No. 1,Alexandra McFarlane,Hamish Francis,Hamish Francis,3-6,3,6,0,1,Completed,true,false,false
+AA001032,01 Aug 15,3,Kooyong MLC1,Royal South Yarra,No. 2,Grace Pulling,Sam McLean,Sam McLean,1-6,1,6,0,1,Completed,true,false,false
+AA001032,01 Aug 15,3,Kooyong MLC1,Royal South Yarra,No. 3,Harry Merzger,Lucy Campbell,Harry Merzger,6-0,6,0,1,0,Completed,true,false,false
+AA001032,01 Aug 15,3,Kooyong MLC1,Royal South Yarra,No. 4,Isabelle Gough,Georgie Gough,Isabelle Gough,6-3,6,3,1,0,Completed,true,false,false
+AA001034,01 Aug 15,3,Port Melbourne,Kooyong MLC2,No. 1,Ryan Sweeney,Leo Fetter,Ryan Sweeney,6-3,6,3,1,0,Completed,true,false,false
+AA001034,01 Aug 15,3,Port Melbourne,Kooyong MLC2,No. 2,Athan Stamilatos,Tom Langford,Tom Langford,6-7,6,7,0,1,Completed,true,false,false
+AA001034,01 Aug 15,3,Port Melbourne,Kooyong MLC2,No. 3,Ben Adam,Ayden Carp,Ayden Carp,1-6,1,6,0,1,Completed,true,false,false
+AA001034,01 Aug 15,3,Port Melbourne,Kooyong MLC2,No. 4,Zac Climpson,Thomas Palazzo,Zac Climpson,6-3,6,3,1,0,Completed,true,false,false
+AA001041,08 Aug 15,4,Kooyong MLC2,Carmelite 1,No. 1,Leo Fetter,Vincent McDonald,Leo Fetter,6-4,6,4,1,0,Completed,true,false,false
+AA001041,08 Aug 15,4,Kooyong MLC2,Carmelite 1,No. 2,Tom Langford,Luke Johnson,Luke Johnson,4-6,4,6,0,1,Completed,true,false,false
+AA001041,08 Aug 15,4,Kooyong MLC2,Carmelite 1,No. 3,Celeste Rayment,Andre Gregorious,Celeste Rayment,6-3,6,3,1,0,Completed,true,false,false
+AA001041,08 Aug 15,4,Kooyong MLC2,Carmelite 1,No. 4,Charlotte Gough,Benjamin Davies,Benjamin Davies,2-6,2,6,0,1,Completed,true,false,false
+AA001042,08 Aug 15,4,Kooyong MLC3,Kooyong MLC1,No. 1,Nicholas Lester,Alexandra McFarlane,Alexandra McFarlane,1-6,1,6,0,1,Completed,true,false,false
+AA001042,08 Aug 15,4,Kooyong MLC3,Kooyong MLC1,No. 2,Aaron Koh,Grace Pulling,Aaron Koh,6-0,6,0,1,0,Completed,true,false,false
+AA001042,08 Aug 15,4,Kooyong MLC3,Kooyong MLC1,No. 3,Eliza Seymour,Harry Merzger,Harry Merzger,1-6,1,6,0,1,Completed,true,false,false
+AA001042,08 Aug 15,4,Kooyong MLC3,Kooyong MLC1,No. 4,Ruby Seymour,Isabelle Gough,Isabelle Gough,0-6,0,6,0,1,Completed,true,false,false
+AA001044,08 Aug 15,4,Carmelite 2,Port Melbourne,No. 1,Leon Katelis,Sait Parlic,Sait Parlic,6-7,6,7,0,1,Completed,true,false,false
+AA001044,08 Aug 15,4,Carmelite 2,Port Melbourne,No. 2,Gus MacDonald,Ryan Sweeney,Ryan Sweeney,1-6,1,6,0,1,Completed,true,false,false
+AA001044,08 Aug 15,4,Carmelite 2,Port Melbourne,No. 3,Mitchell Geraerts,Athan Stamilatos,Athan Stamilatos,4-6,4,6,0,1,Completed,true,false,false
+AA001044,08 Aug 15,4,Carmelite 2,Port Melbourne,No. 4,Paddy Freemantle,Zac Climpson,Zac Climpson,1-6,1,6,0,1,Completed,true,false,false
+AA001052,15 Aug 15,5,Royal South Yarra,Kooyong MLC3,No. 1,Hamish Francis,Nicholas Lester,Hamish Francis,6-4,6,4,1,0,Completed,true,false,false
+AA001052,15 Aug 15,5,Royal South Yarra,Kooyong MLC3,No. 2,Sam McLean,Jack Cannon,Sam McLean,6-1,6,1,1,0,Completed,true,false,false
+AA001052,15 Aug 15,5,Royal South Yarra,Kooyong MLC3,No. 3,Freddie Campbell,Eliza Seymour,Eliza Seymour,4-6,4,6,0,1,Completed,true,false,false
+AA001052,15 Aug 15,5,Royal South Yarra,Kooyong MLC3,No. 4,Georgie Gough,Ruby Seymour,Georgie Gough,6-3,6,3,1,0,Completed,true,false,false
+AA001054,15 Aug 15,5,Carmelite 1,Kooyong MLC1,No. 1,Luke Johnson,Alexandra McFarlane,Alexandra McFarlane,2-6,2,6,0,1,Completed,true,false,false
+AA001054,15 Aug 15,5,Carmelite 1,Kooyong MLC1,No. 2,Andre Gregorious,Grace Pulling,Andre Gregorious,6-0,6,0,1,0,Completed,true,false,false
+AA001054,15 Aug 15,5,Carmelite 1,Kooyong MLC1,No. 3,Will Hunt,Olivia Douglas,Will Hunt,6-1,6,1,1,0,Completed,true,false,false
+AA001054,15 Aug 15,5,Carmelite 1,Kooyong MLC1,No. 4,Benjamin Davies,Isabelle Gough,Benjamin Davies,6-3,6,3,1,0,Completed,true,false,false
+AA001062,22 Aug 15,6,Port Melbourne,Carmelite 1,No. 1,Sait Parlic,Vincent McDonald,Vincent McDonald,3-6,3,6,0,1,Completed,true,false,false
+AA001062,22 Aug 15,6,Port Melbourne,Carmelite 1,No. 2,Ryan Sweeney,Will Hunt,Ryan Sweeney,6-1,6,1,1,0,Completed,true,false,false
+AA001062,22 Aug 15,6,Port Melbourne,Carmelite 1,No. 3,Athan Stamilatos,Benjamin Davies,Benjamin Davies,5-7,5,7,0,1,Completed,true,false,false
+AA001062,22 Aug 15,6,Port Melbourne,Carmelite 1,No. 4,Ben Adam,Nick Kefalas,Ben Adam,6-0,6,0,1,0,Completed,true,false,false
+AA001063,22 Aug 15,6,Kooyong MLC3,Kooyong MLC2,No. 1,Aaron Koh,Tom Langford,Aaron Koh,6-3,6,3,1,0,Completed,true,false,false
+AA001063,22 Aug 15,6,Kooyong MLC3,Kooyong MLC2,No. 2,Jack Cannon,Celeste Rayment,Celeste Rayment,0-6,0,6,0,1,Completed,true,false,false
+AA001063,22 Aug 15,6,Kooyong MLC3,Kooyong MLC2,No. 3,Eliza Seymour,Ayden Carp,Ayden Carp,1-6,1,6,0,1,Completed,true,false,false
+AA001063,22 Aug 15,6,Kooyong MLC3,Kooyong MLC2,No. 4,Ruby Seymour,Thomas Palazzo,Thomas Palazzo,4-6,4,6,0,1,Completed,true,false,false
+AA001064,22 Aug 15,6,Carmelite 2,Royal South Yarra,No. 1,Maddie Jensz,Hamish Francis,Hamish Francis,0-6,0,6,0,1,Completed,true,false,false
+AA001064,22 Aug 15,6,Carmelite 2,Royal South Yarra,No. 2,Gus MacDonald,Sam McLean,Sam McLean,0-6,0,6,0,1,Completed,true,false,false
+AA001064,22 Aug 15,6,Carmelite 2,Royal South Yarra,No. 3,Leon Katelis,Freddie Campbell,Leon Katelis,6-2,6,2,1,0,Completed,true,false,false
+AA001064,22 Aug 15,6,Carmelite 2,Royal South Yarra,No. 4,Paddy Freemantle,Georgie Gough,Paddy Freemantle,7-5,7,5,1,0,Completed,true,false,false
+AA001072,29 Aug 15,7,Kooyong MLC1,Port Melbourne,No. 1,Alexandra McFarlane,Sait Parlic,Sait Parlic,1-6,1,6,0,1,Completed,true,false,false
+AA001072,29 Aug 15,7,Kooyong MLC1,Port Melbourne,No. 2,Harry Merzger,Ryan Sweeney,Ryan Sweeney,5-7,5,7,0,1,Completed,true,false,false
+AA001072,29 Aug 15,7,Kooyong MLC1,Port Melbourne,No. 3,Olivia Douglas,Harrison Stamilatos,Harrison Stamilatos,1-6,1,6,0,1,Completed,true,false,false
+AA001072,29 Aug 15,7,Kooyong MLC1,Port Melbourne,No. 4,Isabelle Gough,Kris Dervenis,Kris Dervenis,0-6,0,6,0,1,Completed,true,false,false
+AA001073,29 Aug 15,7,Royal South Yarra,Kooyong MLC2,No. 1,Hamish Francis,Leo Fetter,Hamish Francis,6-0,6,0,1,0,Completed,true,false,false
+AA001073,29 Aug 15,7,Royal South Yarra,Kooyong MLC2,No. 2,Sam McLean,Ayden Carp,Sam McLean,6-2,6,2,1,0,Completed,true,false,false
+AA001073,29 Aug 15,7,Royal South Yarra,Kooyong MLC2,No. 3,Lucy Campbell,Celeste Rayment,Celeste Rayment,0-6,0,6,0,1,Completed,true,false,false
+AA001073,29 Aug 15,7,Royal South Yarra,Kooyong MLC2,No. 4,Georgie Gough,Tom Langford,Tom Langford,0-6,0,6,0,1,Completed,true,false,false
+AA001074,29 Aug 15,7,Kooyong MLC3,Carmelite 2,No. 1,Nicholas Lester,Maddie Jensz,Nicholas Lester,6-0,6,0,1,0,Completed,true,false,false
+AA001074,29 Aug 15,7,Kooyong MLC3,Carmelite 2,No. 2,Aaron Koh,Gus MacDonald,Aaron Koh,6-2,6,2,1,0,Completed,true,false,false
+AA001074,29 Aug 15,7,Kooyong MLC3,Carmelite 2,No. 3,Jack Cannon,Vincent MacDonald,Vincent MacDonald,0-6,0,6,0,1,Completed,true,false,false
+AA001074,29 Aug 15,7,Kooyong MLC3,Carmelite 2,No. 4,Eliza Seymour,Paddy Freemantle,Paddy Freemantle,2-6,2,6,0,1,Completed,true,false,false
+AA001081,05 Sep 15,8,Carmelite 2,Carmelite 1,No. 1,Maddie Jensz,Vincent McDonald,Vincent McDonald,0-6,0,6,0,1,Completed,true,false,false
+AA001081,05 Sep 15,8,Carmelite 2,Carmelite 1,No. 2,Gus MacDonald,Andre Gregorious,Andre Gregorious,4-6,4,6,0,1,Completed,true,false,false
+AA001081,05 Sep 15,8,Carmelite 2,Carmelite 1,No. 3,Paddy Freemantle,Will Hunt,Will Hunt,1-6,1,6,0,1,Completed,true,false,false
+AA001081,05 Sep 15,8,Carmelite 2,Carmelite 1,No. 4,Nick Kefalas,Benjamin Davies,Benjamin Davies,4-6,4,6,0,1,Completed,true,false,false
+AA001082,05 Sep 15,8,Kooyong MLC2,Kooyong MLC1,No. 1,Leo Fetter,Alexandra McFarlane,Leo Fetter,7-5,7,5,1,0,Completed,true,false,false
+AA001082,05 Sep 15,8,Kooyong MLC2,Kooyong MLC1,No. 2,Ayden Carp,Harry Merzger,Harry Merzger,2-6,2,6,0,1,Completed,true,false,false
+AA001082,05 Sep 15,8,Kooyong MLC2,Kooyong MLC1,No. 3,Thomas Palazzo,Olivia Douglas,Olivia Douglas,0-6,0,6,0,1,Completed,true,false,false
+AA001082,05 Sep 15,8,Kooyong MLC2,Kooyong MLC1,No. 4,Charlotte Gough,Isabelle Gough,Isabelle Gough,1-6,1,6,0,1,Completed,true,false,false
+AA001084,05 Sep 15,8,Royal South Yarra,Port Melbourne,No. 1,Sam McLean,Sait Parlic,Sait Parlic,3-6,3,6,0,1,Completed,true,false,false
+AA001084,05 Sep 15,8,Royal South Yarra,Port Melbourne,No. 2,Freddie Campbell,Ryan Sweeney,Ryan Sweeney,3-6,3,6,0,1,Completed,true,false,false
+AA001084,05 Sep 15,8,Royal South Yarra,Port Melbourne,No. 3,Lucy Campbell,Athan Stamilatos,Athan Stamilatos,1-6,1,6,0,1,Completed,true,false,false
+AA001084,05 Sep 15,8,Royal South Yarra,Port Melbourne,No. 4,Georgie Gough,[Unnamed player — TROLS AA001084 away code 4],Georgie Gough,6-4,6,4,1,0,Completed,false,false,false
+AA001091,12 Sep 15,9,Carmelite 1,Royal South Yarra,No. 1,Vincent McDonald,Hamish Francis,Hamish Francis,0-6,0,6,0,1,Completed,true,false,false
+AA001091,12 Sep 15,9,Carmelite 1,Royal South Yarra,No. 2,Andre Gregorious,Freddie Campbell,Andre Gregorious,6-0,6,0,1,0,Completed,true,false,false
+AA001091,12 Sep 15,9,Carmelite 1,Royal South Yarra,No. 3,Ava Wolf,Lucy Campbell,Ava Wolf,6-0,6,0,1,0,Completed,true,false,false
+AA001091,12 Sep 15,9,Carmelite 1,Royal South Yarra,No. 4,Benjamin Davies,Georgie Gough,Benjamin Davies,6-0,6,0,1,0,Completed,true,false,false
+AA001092,12 Sep 15,9,Kooyong MLC1,Carmelite 2,No. 1,Alexandra McFarlane,Maddie Jensz,Alexandra McFarlane,6-0,6,0,1,0,Completed,true,false,false
+AA001092,12 Sep 15,9,Kooyong MLC1,Carmelite 2,No. 2,Olivia Douglas,Gus MacDonald,Gus MacDonald,4-6,4,6,0,1,Completed,true,false,false
+AA001092,12 Sep 15,9,Kooyong MLC1,Carmelite 2,No. 3,Isabelle Gough,Paddy Freemantle,Isabelle Gough,6-3,6,3,1,0,Completed,true,false,false
+AA001092,12 Sep 15,9,Kooyong MLC1,Carmelite 2,No. 4,Phoebe Keilar,Nick Kefalas,Nick Kefalas,3-6,3,6,0,1,Completed,true,false,false
+AA001094,12 Sep 15,9,Port Melbourne,Kooyong MLC3,No. 1,Ryan Sweeney,Nicholas Lester,Ryan Sweeney,6-4,6,4,1,0,Completed,true,false,false
+AA001094,12 Sep 15,9,Port Melbourne,Kooyong MLC3,No. 2,Harrison Stamilatos,Aaron Koh,Aaron Koh,2-6,2,6,0,1,Completed,true,false,false
+AA001094,12 Sep 15,9,Port Melbourne,Kooyong MLC3,No. 3,Athan Stamilatos,Eliza Seymour,Athan Stamilatos,6-1,6,1,1,0,Completed,true,false,false
+AA001094,12 Sep 15,9,Port Melbourne,Kooyong MLC3,No. 4,[Unnamed player — TROLS AA001094 home code 4],Ruby Seymour,[Unnamed player — TROLS AA001094 home code 4],6-1,6,1,1,0,Completed,false,false,false
+AA001101,10 Oct 15,10,Kooyong MLC3,Carmelite 1,No. 1,Nicholas Lester,Vincent McDonald,Vincent McDonald,1-6,1,6,0,1,Completed,true,false,false
+AA001101,10 Oct 15,10,Kooyong MLC3,Carmelite 1,No. 2,Aaron Koh,Andre Gregorious,Aaron Koh,7-6,7,6,1,0,Completed,true,false,false
+AA001101,10 Oct 15,10,Kooyong MLC3,Carmelite 1,No. 3,Eliza Seymour,Ava Wolf,Ava Wolf,2-6,2,6,0,1,Completed,true,false,false
+AA001101,10 Oct 15,10,Kooyong MLC3,Carmelite 1,No. 4,Ruby Seymour,Will Hunt,Will Hunt,0-6,0,6,0,1,Completed,true,false,false
+AA001102,10 Oct 15,10,Royal South Yarra,Kooyong MLC1,No. 1,Hamish Francis,Alexandra McFarlane,Alexandra McFarlane,3-4,3,4,0,1,Completed,false,false,false
+AA001102,10 Oct 15,10,Royal South Yarra,Kooyong MLC1,No. 2,Sam McLean,Olivia Douglas,Sam McLean,6-0,6,0,1,0,Completed,true,false,false
+AA001102,10 Oct 15,10,Royal South Yarra,Kooyong MLC1,No. 3,Freddie Campbell,Isabelle Gough,Isabelle Gough,0-6,0,6,0,1,Completed,true,false,false
+AA001102,10 Oct 15,10,Royal South Yarra,Kooyong MLC1,No. 4,Lucy Campbell,[Unnamed player — TROLS AA001102 away code 4],[Unnamed player — TROLS AA001102 away code 4],1-6,1,6,0,1,Completed,false,false,false
+AA001104,10 Oct 15,10,Kooyong MLC2,Port Melbourne,No. 1,Leo Fetter,Sait Parlic,Sait Parlic,4-6,4,6,0,1,Completed,true,false,false
+AA001104,10 Oct 15,10,Kooyong MLC2,Port Melbourne,No. 2,Ayden Carp,Ryan Sweeney,Ryan Sweeney,5-7,5,7,0,1,Completed,true,false,false
+AA001104,10 Oct 15,10,Kooyong MLC2,Port Melbourne,No. 3,Celeste Rayment,Ben Adam,Celeste Rayment,6-1,6,1,1,0,Completed,true,false,false
+AA001104,10 Oct 15,10,Kooyong MLC2,Port Melbourne,No. 4,Thomas Palazzo,Zac Climpson,Zac Climpson,5-7,5,7,0,1,Completed,true,false,false
+AA001111,17 Oct 15,11,Carmelite 1,Kooyong MLC2,No. 1,Vincent McDonald,Leo Fetter,Vincent McDonald,6-3,6,3,1,0,Completed,true,false,false
+AA001111,17 Oct 15,11,Carmelite 1,Kooyong MLC2,No. 2,Ava Wolf,Thomas Palazzo,Thomas Palazzo,0-6,0,6,0,1,Completed,true,false,false
+AA001111,17 Oct 15,11,Carmelite 1,Kooyong MLC2,No. 3,Will Hunt,Tom Langford,Will Hunt,6-1,6,1,1,0,Completed,true,false,false
+AA001111,17 Oct 15,11,Carmelite 1,Kooyong MLC2,No. 4,Benjamin Davies,Charlotte Gough,Benjamin Davies,6-1,6,1,1,0,Completed,true,false,false
+AA001112,17 Oct 15,11,Kooyong MLC1,Kooyong MLC3,No. 1,Alexandra McFarlane,Aaron Koh,Alexandra McFarlane,6-2,6,2,1,0,Completed,true,false,false
+AA001112,17 Oct 15,11,Kooyong MLC1,Kooyong MLC3,No. 2,Harry Merzger,Jack Cannon,Harry Merzger,6-4,6,4,1,0,Completed,true,false,false
+AA001112,17 Oct 15,11,Kooyong MLC1,Kooyong MLC3,No. 3,Olivia Douglas,Eliza Seymour,Olivia Douglas,6-2,6,2,1,0,Completed,true,false,false
+AA001112,17 Oct 15,11,Kooyong MLC1,Kooyong MLC3,No. 4,Isabelle Gough,Ruby Seymour,Isabelle Gough,6-1,6,1,1,0,Completed,true,false,false
+AA001114,17 Oct 15,11,Port Melbourne,Carmelite 2,No. 1,Sait Parlic,Leon Katelis,Sait Parlic,6-0,6,0,1,0,Completed,true,false,false
+AA001114,17 Oct 15,11,Port Melbourne,Carmelite 2,No. 2,Athan Stamilatos,Maddie Jensz,Athan Stamilatos,6-2,6,2,1,0,Completed,true,false,false
+AA001114,17 Oct 15,11,Port Melbourne,Carmelite 2,No. 3,Ben Adam,Gus MacDonald,Ben Adam,6-4,6,4,1,0,Completed,true,false,false
+AA001114,17 Oct 15,11,Port Melbourne,Carmelite 2,No. 4,Zac Climpson,Mitchell Geraerts,Zac Climpson,6-4,6,4,1,0,Completed,true,false,false
+AA001122,24 Oct 15,12,Kooyong MLC3,Royal South Yarra,No. 1,Nicholas Lester,Hamish Francis,Hamish Francis,2-6,2,6,0,1,Completed,true,false,false
+AA001122,24 Oct 15,12,Kooyong MLC3,Royal South Yarra,No. 2,Jack Cannon,Freddie Campbell,Jack Cannon,6-3,6,3,1,0,Completed,true,false,false
+AA001122,24 Oct 15,12,Kooyong MLC3,Royal South Yarra,No. 3,Eliza Seymour,Lucy Campbell,Lucy Campbell,3-6,3,6,0,1,Completed,true,false,false
+AA001122,24 Oct 15,12,Kooyong MLC3,Royal South Yarra,No. 4,Ruby Seymour,Georgie Gough,Georgie Gough,1-6,1,6,0,1,Completed,true,false,false
+AA001123,24 Oct 15,12,Carmelite 2,Kooyong MLC2,No. 1,Leon Katelis,Celeste Rayment,Celeste Rayment,1-6,1,6,0,1,Completed,true,false,false
+AA001123,24 Oct 15,12,Carmelite 2,Kooyong MLC2,No. 2,Gus MacDonald,Tom Langford,Tom Langford,2-6,2,6,0,1,Completed,true,false,false
+AA001123,24 Oct 15,12,Carmelite 2,Kooyong MLC2,No. 3,Paddy Freemantle,Ayden Carp,Ayden Carp,0-6,0,6,0,1,Completed,true,false,false
+AA001123,24 Oct 15,12,Carmelite 2,Kooyong MLC2,No. 4,[Unnamed player — TROLS AA001123 home code 4],Thomas Palazzo,Thomas Palazzo,3-6,3,6,0,1,Completed,false,false,false
+AA001124,24 Oct 15,12,Kooyong MLC1,Carmelite 1,No. 1,Angus Cosgriff,Vincent McDonald,Vincent McDonald,3-6,3,6,0,1,Completed,true,false,false
+AA001124,24 Oct 15,12,Kooyong MLC1,Carmelite 1,No. 2,Harry Merzger,Andre Gregorious,Harry Merzger,6-3,6,3,1,0,Completed,true,false,false
+AA001124,24 Oct 15,12,Kooyong MLC1,Carmelite 1,No. 3,Isabelle Gough,Will Hunt,Will Hunt,0-6,0,6,0,1,Completed,true,false,false
+AA001124,24 Oct 15,12,Kooyong MLC1,Carmelite 1,No. 4,[Unnamed player — TROLS AA001124 home code 4],Benjamin Davies,[Unnamed player — TROLS AA001124 home code 4],7-5,7,5,1,0,Completed,false,false,false
+AA001132,07 Nov 15,13,Carmelite 1,Port Melbourne,No. 1,Andre Gregorious,Sait Parlic,Sait Parlic,1-6,1,6,0,1,Completed,true,false,false
+AA001132,07 Nov 15,13,Carmelite 1,Port Melbourne,No. 2,Will Hunt,Ryan Sweeney,Will Hunt,6-1,6,1,1,0,Completed,true,false,false
+AA001132,07 Nov 15,13,Carmelite 1,Port Melbourne,No. 3,Benjamin Davies,Athan Stamilatos,Athan Stamilatos,1-6,1,6,0,1,Completed,true,false,false
+AA001132,07 Nov 15,13,Carmelite 1,Port Melbourne,No. 4,Nick Kefalas,Ben Adam,Ben Adam,3-6,3,6,0,1,Completed,true,false,false
+AA001134,07 Nov 15,13,Royal South Yarra,Carmelite 2,No. 1,Hamish Francis,Leon Katelis,Hamish Francis,6-0,6,0,1,0,Completed,true,false,false
+AA001134,07 Nov 15,13,Royal South Yarra,Carmelite 2,No. 2,Freddie Campbell,Maddie Jensz,Maddie Jensz,2-6,2,6,0,1,Completed,true,false,false
+AA001134,07 Nov 15,13,Royal South Yarra,Carmelite 2,No. 3,Lucy Campbell,Gus MacDonald,Gus MacDonald,3-6,3,6,0,1,Completed,true,false,false
+AA001134,07 Nov 15,13,Royal South Yarra,Carmelite 2,No. 4,Georgie Gough,Paddy Freemantle,Paddy Freemantle,2-6,2,6,0,1,Completed,true,false,false
+AA001142,14 Nov 15,14,Port Melbourne,Kooyong MLC1,No. 1,Sait Parlic,Alexandra McFarlane,Sait Parlic,6-3,6,3,1,0,Completed,true,false,false
+AA001142,14 Nov 15,14,Port Melbourne,Kooyong MLC1,No. 2,Ryan Sweeney,Harry Merzger,Ryan Sweeney,6-1,6,1,1,0,Completed,true,false,false
+AA001142,14 Nov 15,14,Port Melbourne,Kooyong MLC1,No. 3,Ben Adam,Isabelle Gough,Isabelle Gough,5-7,5,7,0,1,Completed,true,false,false
+AA001142,14 Nov 15,14,Port Melbourne,Kooyong MLC1,No. 4,Zac Climpson,Annabelle Hudson,Zac Climpson,6-2,6,2,1,0,Completed,true,false,false
+AA001143,14 Nov 15,14,Kooyong MLC2,Royal South Yarra,No. 1,Celeste Rayment,Hamish Francis,Hamish Francis,1-6,1,6,0,1,Completed,true,false,false
+AA001143,14 Nov 15,14,Kooyong MLC2,Royal South Yarra,No. 2,Leo Fetter,Freddie Campbell,Leo Fetter,6-0,6,0,1,0,Completed,true,false,false
+AA001143,14 Nov 15,14,Kooyong MLC2,Royal South Yarra,No. 3,Tom Langford,Lucy Campbell,Tom Langford,6-1,6,1,1,0,Completed,true,false,false
+AA001143,14 Nov 15,14,Kooyong MLC2,Royal South Yarra,No. 4,Ayden Carp,Georgie Gough,Ayden Carp,6-1,6,1,1,0,Completed,true,false,false
+AA001144,14 Nov 15,14,Carmelite 2,Kooyong MLC3,No. 1,Leon Katelis,Nicholas Lester,Nicholas Lester,1-6,1,6,0,1,Completed,true,false,false
+AA001144,14 Nov 15,14,Carmelite 2,Kooyong MLC3,No. 2,Maddie Jensz,Aaron Koh,Aaron Koh,1-6,1,6,0,1,Completed,true,false,false
+AA001144,14 Nov 15,14,Carmelite 2,Kooyong MLC3,No. 3,Gus MacDonald,Jack Cannon,Jack Cannon,3-6,3,6,0,1,Completed,true,false,false
+AA001144,14 Nov 15,14,Carmelite 2,Kooyong MLC3,No. 4,Paddy Freemantle,[Unnamed player — TROLS AA001144 away code 4],Paddy Freemantle,6-0,6,0,1,0,Completed,false,false,false
+AA001301,,16,Port Melbourne,Kooyong MLC1,No. 1,Sait Parlic,Alexandra McFarlane,Sait Parlic,6-1,6,1,1,0,Completed,true,false,false
+AA001301,,16,Port Melbourne,Kooyong MLC1,No. 2,Ryan Sweeney,Olivia Douglas,Ryan Sweeney,6-1,6,1,1,0,Completed,true,false,false
+AA001301,,16,Port Melbourne,Kooyong MLC1,No. 3,Ben Adam,Isabelle Gough,Ben Adam,6-1,6,1,1,0,Completed,true,false,false
+AA001301,,16,Port Melbourne,Kooyong MLC1,No. 4,Zac Climpson,[Unnamed player — TROLS AA001301 away code 4],Zac Climpson,6-1,6,1,1,0,Completed,false,false,false
+AA001302,,16,Carmelite 1,Kooyong MLC2,No. 1,Vincent McDonald,Celeste Rayment,Celeste Rayment,3-6,3,6,0,1,Completed,true,false,false
+AA001302,,16,Carmelite 1,Kooyong MLC2,No. 2,Ava Wolf,Leo Fetter,Leo Fetter,2-6,2,6,0,1,Completed,true,false,false
+AA001302,,16,Carmelite 1,Kooyong MLC2,No. 3,Will Hunt,Tom Langford,Tom Langford,6-7,6,7,0,1,Completed,true,false,false
+AA001302,,16,Carmelite 1,Kooyong MLC2,No. 4,Benjamin Davies,Ayden Carp,Benjamin Davies,6-3,6,3,1,0,Completed,true,false,false
+AA001321,,17,Port Melbourne,Kooyong MLC2,No. 1,Sait Parlic,Celeste Rayment,Celeste Rayment,2-6,2,6,0,1,Completed,true,false,false
+AA001321,,17,Port Melbourne,Kooyong MLC2,No. 2,Ryan Sweeney,Leo Fetter,Leo Fetter,3-6,3,6,0,1,Completed,true,false,false
+AA001321,,17,Port Melbourne,Kooyong MLC2,No. 3,Athan Stamilatos,Tom Langford,Tom Langford,4-6,4,6,0,1,Completed,true,false,false
+AA001321,,17,Port Melbourne,Kooyong MLC2,No. 4,Ben Adam,Ayden Carp,Ayden Carp,2-6,2,6,0,1,Completed,true,false,false

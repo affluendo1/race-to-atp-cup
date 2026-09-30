@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA27-UA013",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2020",
+  "season_id": "UA27",
+  "season_label": "Spring 2020",
+  "source_section_code": "UA013",
+  "section_label": "Section 13",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Victory Park",
+      "wins": 6,
+      "points": 51,
+      "percentage": 155.91,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "BLTC",
+      "wins": 5,
+      "points": 40,
+      "percentage": 109.87,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "St Louis de Mont",
+      "wins": 3,
+      "points": 34.5,
+      "percentage": 125.81,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Coatesville",
+      "wins": 3,
+      "points": 29.5,
+      "percentage": 87.88,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St Andrews MB BR 1",
+      "wins": 2,
+      "points": 25,
+      "percentage": 98.77,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave",
+      "wins": 2,
+      "points": 25,
+      "percentage": 90.34,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St Andrews MB BR 2",
+      "wins": 1,
+      "points": 22,
+      "percentage": 93.33,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Le Page",
+      "wins": 0,
+      "points": 13,
+      "percentage": 57.83,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA27-UA013",
+  "fixtures": 24,
+  "completed_fixtures": 23,
+  "draw_fixtures": 56,
+  "singles_rubbers": 90,
+  "doubles_rubbers": 46,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA017011,02 Feb 25,1,regular,Round 1,Highmoor Uniting,Dendy Park,7,3,3,3,,,27,22,Completed,
+UA017012,02 Feb 25,1,regular,Round 1,Hurlingham Park,Maccabi,9,1,5,1,,,33,18,Completed,
+UA017014,02 Feb 25,1,regular,Round 1,Black Rock,Elsternwick Park,8,2,4,2,,,26,26,Completed,
+pending-ua017-r1-kooyong-bye,02 Feb 25,1,regular,Round 1,Kooyong,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017021,09 Feb 25,2,regular,Round 2,Elsternwick Park,Highmoor Uniting,8,2,4,2,,,33,19,Completed,
+UA017022,09 Feb 25,2,regular,Round 2,Dendy Park,Hurlingham Park,7,3,3,3,,,30,25,Completed,
+UA017023,09 Feb 25,2,regular,Round 2,Maccabi,Kooyong,0,10,0,6,,,12,36,Completed,
+pending-ua017-r2-bye-black-rock,09 Feb 25,2,regular,Round 2,Bye,Black Rock,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017032,16 Feb 25,3,regular,Round 3,Hurlingham Park,Elsternwick Park,1,9,1,5,,,19,32,Completed,
+UA017034,16 Feb 25,3,regular,Round 3,Black Rock,Maccabi,10,0,6,0,,,36,12,Completed,
+pending-ua017-r3-highmoor-uniting-bye,16 Feb 25,3,regular,Round 3,Highmoor Uniting,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua017-r3-kooyong-dendy-park,16 Feb 25,3,regular,Round 3,Kooyong,Dendy Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA017041,23 Feb 25,4,regular,Round 4,Maccabi,Highmoor Uniting,1,9,1,5,,,20,36,Completed,
+UA017043,23 Feb 25,4,regular,Round 4,Elsternwick Park,Kooyong,8,2,4,2,,,26,18,Completed,
+UA017044,23 Feb 25,4,regular,Round 4,Dendy Park,Black Rock,1,9,1,5,,,19,34,Completed,
+pending-ua017-r4-bye-hurlingham-park,23 Feb 25,4,regular,Round 4,Bye,Hurlingham Park,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017051,02 Mar 25,5,regular,Round 5,Kooyong,Black Rock,2,8,2,4,,,24,29,Completed,
+UA017053,02 Mar 25,5,regular,Round 5,Maccabi,Dendy Park,0,10,0,6,,,10,37,Completed,
+UA017054,02 Mar 25,5,regular,Round 5,Highmoor Uniting,Hurlingham Park,5,5,3,3,,,26,26,Completed,
+pending-ua017-r5-elsternwick-park-bye,02 Mar 25,5,regular,Round 5,Elsternwick Park,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua017-r6-black-rock-highmoor-uniting,16 Mar 25,6,regular,Round 6,Black Rock,Highmoor Uniting,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua017-r6-bye-maccabi,16 Mar 25,6,regular,Round 6,Bye,Maccabi,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua017-r6-dendy-park-elsternwick-park,16 Mar 25,6,regular,Round 6,Dendy Park,Elsternwick Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua017-r6-hurlingham-park-kooyong,16 Mar 25,6,regular,Round 6,Hurlingham Park,Kooyong,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA017071,23 Mar 25,7,regular,Round 7,Highmoor Uniting,Kooyong,1,9,1,5,,,17,35,Completed,
+UA017072,23 Mar 25,7,regular,Round 7,Hurlingham Park,Black Rock,7,3,3,3,,,31,27,Completed,
+UA017073,23 Mar 25,7,regular,Round 7,Elsternwick Park,Maccabi,7,3,3,3,,,30,25,Completed,
+pending-ua017-r7-bye-dendy-park,23 Mar 25,7,regular,Round 7,Bye,Dendy Park,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017081,30 Mar 25,8,regular,Round 8,Dendy Park,Highmoor Uniting,3,7,3,3,,,24,31,Completed,
+UA017082,30 Mar 25,8,regular,Round 8,Maccabi,Hurlingham Park,0,10,0,6,,,14,36,Completed,
+UA017084,30 Mar 25,8,regular,Round 8,Elsternwick Park,Black Rock,0,10,0,6,,,18,37,Completed,
+pending-ua017-r8-bye-kooyong,30 Mar 25,8,regular,Round 8,Bye,Kooyong,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017091,04 May 25,9,regular,Round 9,Highmoor Uniting,Elsternwick Park,0,10,0,6,,,12,37,Completed,
+UA017092,04 May 25,9,regular,Round 9,Hurlingham Park,Dendy Park,2,8,2,4,,,23,32,Completed,
+UA017093,04 May 25,9,regular,Round 9,Kooyong,Maccabi,9,1,5,1,,,36,20,Completed,
+pending-ua017-r9-black-rock-bye,04 May 25,9,regular,Round 9,Black Rock,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017102,11 May 25,10,regular,Round 10,Elsternwick Park,Hurlingham Park,2,8,2,4,,,23,33,Completed,
+UA017103,11 May 25,10,regular,Round 10,Dendy Park,Kooyong,8,2,4,2,,,31,21,Completed,
+UA017104,11 May 25,10,regular,Round 10,Maccabi,Black Rock,1,9,1,5,,,18,33,Completed,
+pending-ua017-r10-bye-highmoor-uniting,11 May 25,10,regular,Round 10,Bye,Highmoor Uniting,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017111,18 May 25,11,regular,Round 11,Highmoor Uniting,Maccabi,9,1,5,1,,,34,14,Completed,
+UA017113,18 May 25,11,regular,Round 11,Kooyong,Elsternwick Park,8,2,4,2,,,27,23,Completed,
+UA017114,18 May 25,11,regular,Round 11,Black Rock,Dendy Park,2,8,2,4,,,23,27,Completed,
+pending-ua017-r11-hurlingham-park-bye,18 May 25,11,regular,Round 11,Hurlingham Park,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017121,25 May 25,12,regular,Round 12,Black Rock,Kooyong,1,9,1,5,,,26,36,Completed,
+UA017123,25 May 25,12,regular,Round 12,Dendy Park,Maccabi,10,0,6,0,,,36,9,Completed,
+UA017124,25 May 25,12,regular,Round 12,Hurlingham Park,Highmoor Uniting,8,2,4,2,,,27,16,Completed,
+pending-ua017-r12-bye-elsternwick-park,25 May 25,12,regular,Round 12,Bye,Elsternwick Park,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017131,01 Jun 25,13,regular,Round 13,Kooyong,Hurlingham Park,10,0,6,0,,,37,14,Completed,
+UA017132,01 Jun 25,13,regular,Round 13,Highmoor Uniting,Black Rock,7,3,3,3,,,27,25,Completed,
+UA017134,01 Jun 25,13,regular,Round 13,Elsternwick Park,Dendy Park,2,8,2,4,,,27,29,Completed,
+pending-ua017-r13-maccabi-bye,01 Jun 25,13,regular,Round 13,Maccabi,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017141,15 Jun 25,14,regular,Round 14,Kooyong,Highmoor Uniting,9,1,5,1,,,35,16,Completed,
+UA017142,15 Jun 25,14,regular,Round 14,Black Rock,Hurlingham Park,8,2,4,2,,,33,22,Completed,
+UA017143,15 Jun 25,14,regular,Round 14,Maccabi,Elsternwick Park,0,10,0,6,,,15,36,Completed,
+pending-ua017-r14-dendy-park-bye,15 Jun 25,14,regular,Round 14,Dendy Park,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA017301,,16,semi_final,Semi-final,Kooyong,Elsternwick Park,3,7,3,3,,,22,26,Completed,
+UA017302,,16,semi_final,Semi-final,Black Rock,Dendy Park,0,10,0,6,,,17,36,Completed,
+UA017321,,17,grand_final,Grand final · TROLS entry 2,Dendy Park,Elsternwick Park,9,1,5,1,,,33,19,Completed,

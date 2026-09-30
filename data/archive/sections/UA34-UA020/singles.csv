@@ -1,0 +1,237 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA020011,04 Feb 24,1,BLTC Blue,Kooyong,No. 1,Raph Boyd,William Downing,Raph Boyd,6-2,6,2,1,0,Completed,true,false,false
+UA020011,04 Feb 24,1,BLTC Blue,Kooyong,No. 2,Charlie Weatherhead,Atticus Healy,Charlie Weatherhead,6-2,6,2,1,0,Completed,true,false,false
+UA020011,04 Feb 24,1,BLTC Blue,Kooyong,No. 3,Jack Vanvuure,Davin Choi,Jack Vanvuure,6-4,6,4,1,0,Completed,true,false,false
+UA020011,04 Feb 24,1,BLTC Blue,Kooyong,No. 4,Aiden Cleland,Ryan Kloszynski,Aiden Cleland,6-3,6,3,1,0,Completed,true,false,false
+UA020012,04 Feb 24,1,Kings Park,Tennis World,No. 1,Aarav Agarwal,Srivas Nadiminti,Aarav Agarwal,7-5,7,5,1,0,Completed,true,false,false
+UA020012,04 Feb 24,1,Kings Park,Tennis World,No. 2,Lucas Yang,Oliver Heaton,Lucas Yang,6-3,6,3,1,0,Completed,true,false,false
+UA020012,04 Feb 24,1,Kings Park,Tennis World,No. 3,Alexis Zhang,Ryan Azarmi,Alexis Zhang,6-1,6,1,1,0,Completed,true,false,false
+UA020012,04 Feb 24,1,Kings Park,Tennis World,No. 4,Maddie Chang,Summer Chhay-Lu,Summer Chhay-Lu,2-6,2,6,0,1,Completed,true,false,false
+UA020013,04 Feb 24,1,St Andrews MB,Highmoor Uniting,No. 1,Henry Gilmore,Samuel Wende,Henry Gilmore,6-2,6,2,1,0,Completed,true,false,false
+UA020013,04 Feb 24,1,St Andrews MB,Highmoor Uniting,No. 2,Maximo Gianniosis,Alister Woodside,Maximo Gianniosis,6-0,6,0,1,0,Completed,true,false,false
+UA020013,04 Feb 24,1,St Andrews MB,Highmoor Uniting,No. 3,Joel Bearzatto,Blake Woodside,Joel Bearzatto,6-1,6,1,1,0,Completed,true,false,false
+UA020013,04 Feb 24,1,St Andrews MB,Highmoor Uniting,No. 4,Harrison Curtain,Lily Beckett,Lily Beckett,2-6,2,6,0,1,Completed,true,false,false
+UA020014,04 Feb 24,1,Black Rock Navy,Parkdale,No. 1,Hugo Letham,Arlo Jennings,Arlo Jennings,3-6,3,6,0,1,Completed,true,false,false
+UA020014,04 Feb 24,1,Black Rock Navy,Parkdale,No. 2,Tom Craig,Matteo Dallari,Matteo Dallari,1-6,1,6,0,1,Completed,true,false,false
+UA020014,04 Feb 24,1,Black Rock Navy,Parkdale,No. 3,Xavier Lasocki,Liam Mee,Xavier Lasocki,6-4,6,4,1,0,Completed,true,false,false
+UA020014,04 Feb 24,1,Black Rock Navy,Parkdale,No. 4,George Blunt,Willem Sanftl,George Blunt,6-2,6,2,1,0,Completed,true,false,false
+UA020021,11 Feb 24,2,Parkdale,BLTC Blue,No. 1,Max Harris,Raph Boyd,Raph Boyd,2-6,2,6,0,1,Completed,true,false,false
+UA020021,11 Feb 24,2,Parkdale,BLTC Blue,No. 2,Liam Mee,Charlie Weatherhead,Charlie Weatherhead,3-6,3,6,0,1,Completed,true,false,false
+UA020021,11 Feb 24,2,Parkdale,BLTC Blue,No. 3,Willem Sanftl,Jack Vanvuure,Jack Vanvuure,2-6,2,6,0,1,Completed,true,false,false
+UA020021,11 Feb 24,2,Parkdale,BLTC Blue,No. 4,Fionn Dunlevy,Aiden Cleland,Aiden Cleland,0-6,0,6,0,1,Completed,true,false,false
+UA020022,11 Feb 24,2,Kooyong,Kings Park,No. 1,William Downing,Aarav Agarwal,Aarav Agarwal,2-6,2,6,0,1,Completed,true,false,false
+UA020022,11 Feb 24,2,Kooyong,Kings Park,No. 2,Fox Harris,Lucas Yang,Lucas Yang,0-6,0,6,0,1,Completed,true,true,false
+UA020022,11 Feb 24,2,Kooyong,Kings Park,No. 3,Ryan Kloszynski,Alexis Zhang,Alexis Zhang,4-6,4,6,0,1,Completed,true,false,false
+UA020022,11 Feb 24,2,Kooyong,Kings Park,No. 4,Xavier Cox,Yisen Xu,Yisen Xu,2-6,2,6,0,1,Completed,true,false,false
+UA020023,11 Feb 24,2,Tennis World,St Andrews MB,No. 1,Srivas Nadiminti,Maximo Gianniosis,Srivas Nadiminti,6-3,6,3,1,0,Completed,true,false,false
+UA020023,11 Feb 24,2,Tennis World,St Andrews MB,No. 2,Haobo Zeng,Joel Bearzatto,Joel Bearzatto,2-6,2,6,0,1,Completed,true,false,false
+UA020023,11 Feb 24,2,Tennis World,St Andrews MB,No. 3,Samiha Kunwar,Alexa Tsitsonakis,Samiha Kunwar,6-3,6,3,1,0,Completed,true,false,false
+UA020023,11 Feb 24,2,Tennis World,St Andrews MB,No. 4,Summer Chhay-Lu,Harrison Curtain,Summer Chhay-Lu,6-4,6,4,1,0,Completed,true,false,false
+UA020024,11 Feb 24,2,Highmoor Uniting,Black Rock Navy,No. 1,Samuel Wende,Tom Craig,Samuel Wende,6-2,6,2,1,0,Completed,true,false,false
+UA020024,11 Feb 24,2,Highmoor Uniting,Black Rock Navy,No. 2,Charlie Warne,George Blunt,George Blunt,6-7,6,7,0,1,Completed,true,false,false
+UA020024,11 Feb 24,2,Highmoor Uniting,Black Rock Navy,No. 3,Blake Woodside,Sam Blackburn,Blake Woodside,6-3,6,3,1,0,Completed,true,false,false
+UA020024,11 Feb 24,2,Highmoor Uniting,Black Rock Navy,No. 4,Lily Beckett,Connor Brown,Connor Brown,6-7,6,7,0,1,Completed,true,false,false
+UA020031,18 Feb 24,3,BLTC Blue,Highmoor Uniting,No. 1,Raph Boyd,Samuel Wende,Raph Boyd,6-4,6,4,1,0,Completed,true,false,false
+UA020031,18 Feb 24,3,BLTC Blue,Highmoor Uniting,No. 2,Charlie Weatherhead,Charlie Warne,Charlie Warne,1-6,1,6,0,1,Completed,true,false,false
+UA020031,18 Feb 24,3,BLTC Blue,Highmoor Uniting,No. 3,Jack Vanvuure,Alister Woodside,Jack Vanvuure,6-3,6,3,1,0,Completed,true,false,false
+UA020031,18 Feb 24,3,BLTC Blue,Highmoor Uniting,No. 4,William Anderson,Lily Beckett,Lily Beckett,5-7,5,7,0,1,Completed,true,true,false
+UA020032,18 Feb 24,3,Kings Park,Parkdale,No. 1,Aarav Agarwal,Arlo Jennings,Arlo Jennings,0-6,0,6,0,1,Completed,true,false,false
+UA020032,18 Feb 24,3,Kings Park,Parkdale,No. 2,Lucas Yang,Matteo Dallari,Matteo Dallari,4-6,4,6,0,1,Completed,true,false,false
+UA020032,18 Feb 24,3,Kings Park,Parkdale,No. 3,Maddie Chang,Willem Sanftl,Maddie Chang,6-1,6,1,1,0,Completed,true,false,false
+UA020032,18 Feb 24,3,Kings Park,Parkdale,No. 4,Yisen Xu,Fionn Dunlevy,Yisen Xu,6-0,6,0,1,0,Completed,true,false,false
+UA020033,18 Feb 24,3,St Andrews MB,Kooyong,No. 1,Kingsley Bower,William Downing,William Downing,4-6,4,6,0,1,Completed,true,false,false
+UA020033,18 Feb 24,3,St Andrews MB,Kooyong,No. 2,Henry Gilmore,Atticus Healy,Henry Gilmore,6-2,6,2,1,0,Completed,true,false,false
+UA020033,18 Feb 24,3,St Andrews MB,Kooyong,No. 3,Joel Bearzatto,Ryan Kloszynski,Joel Bearzatto,6-3,6,3,1,0,Completed,true,false,false
+UA020033,18 Feb 24,3,St Andrews MB,Kooyong,No. 4,Alexa Tsitsonakis,Xavier Cox,Xavier Cox,3-6,3,6,0,1,Completed,true,false,false
+UA020034,18 Feb 24,3,Black Rock Navy,Tennis World,No. 1,Tom Craig,Oliver Heaton,Oliver Heaton,2-6,2,6,0,1,Completed,true,false,false
+UA020034,18 Feb 24,3,Black Rock Navy,Tennis World,No. 2,Xavier Lasocki,Ryan Azarmi,Xavier Lasocki,6-0,6,0,1,0,Completed,true,false,false
+UA020034,18 Feb 24,3,Black Rock Navy,Tennis World,No. 3,Sam Blackburn,Samiha Kunwar,Samiha Kunwar,2-6,2,6,0,1,Completed,true,false,false
+UA020034,18 Feb 24,3,Black Rock Navy,Tennis World,No. 4,Connor Brown,Summer Chhay-Lu,Summer Chhay-Lu,0-6,0,6,0,1,Completed,true,false,false
+UA020041,25 Feb 24,4,Tennis World,BLTC Blue,No. 1,Srivas Nadiminti,Raph Boyd,Srivas Nadiminti,6-3,6,3,1,0,Completed,true,false,false
+UA020041,25 Feb 24,4,Tennis World,BLTC Blue,No. 2,Oliver Heaton,Jack Vanvuure,Oliver Heaton,6-2,6,2,1,0,Completed,true,false,false
+UA020041,25 Feb 24,4,Tennis World,BLTC Blue,No. 3,Haobo Zeng,Aiden Cleland,Aiden Cleland,3-6,3,6,0,1,Completed,true,false,false
+UA020041,25 Feb 24,4,Tennis World,BLTC Blue,No. 4,Ryan Azarmi,Lucas Volum,Lucas Volum,3-6,3,6,0,1,Completed,true,false,true
+UA020042,25 Feb 24,4,Highmoor Uniting,Kings Park,No. 1,Charlie Warne,Lucas Yang,Lucas Yang,0-6,0,6,0,1,Completed,true,false,false
+UA020042,25 Feb 24,4,Highmoor Uniting,Kings Park,No. 2,Alister Woodside,Alexis Zhang,Alexis Zhang,3-6,3,6,0,1,Completed,true,false,false
+UA020042,25 Feb 24,4,Highmoor Uniting,Kings Park,No. 3,Blake Woodside,Maddie Chang,Maddie Chang,6-7,6,7,0,1,Completed,true,false,false
+UA020042,25 Feb 24,4,Highmoor Uniting,Kings Park,No. 4,Lily Beckett,Yisen Xu,Yisen Xu,4-6,4,6,0,1,Completed,true,false,false
+UA020043,25 Feb 24,4,Parkdale,St Andrews MB,No. 1,Arlo Jennings,Kingsley Bower,Arlo Jennings,6-4,6,4,1,0,Completed,true,false,false
+UA020043,25 Feb 24,4,Parkdale,St Andrews MB,No. 2,Matteo Dallari,Henry Gilmore,Matteo Dallari,6-1,6,1,1,0,Completed,true,false,false
+UA020043,25 Feb 24,4,Parkdale,St Andrews MB,No. 3,Max Harris,Maximo Gianniosis,Maximo Gianniosis,0-6,0,6,0,1,Completed,true,false,false
+UA020043,25 Feb 24,4,Parkdale,St Andrews MB,No. 4,Liam Mee,Harrison Curtain,Harrison Curtain,0-6,0,6,0,1,Completed,true,false,false
+UA020044,25 Feb 24,4,Kooyong,Black Rock Navy,No. 1,William Downing,Hugo Letham,Hugo Letham,2-6,2,6,0,1,Completed,true,false,false
+UA020044,25 Feb 24,4,Kooyong,Black Rock Navy,No. 2,Davin Choi,Tom Craig,Tom Craig,6-7,6,7,0,1,Completed,true,false,false
+UA020044,25 Feb 24,4,Kooyong,Black Rock Navy,No. 3,Ryan Kloszynski,Xavier Lasocki,Xavier Lasocki,2-6,2,6,0,1,Completed,true,false,false
+UA020044,25 Feb 24,4,Kooyong,Black Rock Navy,No. 4,Xavier Cox,George Blunt,Xavier Cox,7-6,7,6,1,0,Completed,true,false,false
+UA020051,03 Mar 24,5,St Andrews MB,Black Rock Navy,No. 1,Kingsley Bower,Hugo Letham,Kingsley Bower,6-1,6,1,1,0,Completed,true,false,false
+UA020051,03 Mar 24,5,St Andrews MB,Black Rock Navy,No. 2,Maximo Gianniosis,Tom Craig,Maximo Gianniosis,6-3,6,3,1,0,Completed,true,false,false
+UA020051,03 Mar 24,5,St Andrews MB,Black Rock Navy,No. 3,Alexa Tsitsonakis,Xavier Lasocki,Xavier Lasocki,2-6,2,6,0,1,Completed,true,false,false
+UA020051,03 Mar 24,5,St Andrews MB,Black Rock Navy,No. 4,Harrison Curtain,Connor Brown,Harrison Curtain,6-4,6,4,1,0,Completed,true,false,false
+UA020052,03 Mar 24,5,Parkdale,Highmoor Uniting,No. 1,Arlo Jennings,Alister Woodside,Arlo Jennings,6-0,6,0,1,0,Completed,true,false,false
+UA020052,03 Mar 24,5,Parkdale,Highmoor Uniting,No. 2,Matteo Dallari,Blake Woodside,Matteo Dallari,6-0,6,0,1,0,Completed,true,false,false
+UA020052,03 Mar 24,5,Parkdale,Highmoor Uniting,No. 3,Max Harris,Lily Beckett,Max Harris,6-2,6,2,1,0,Completed,true,false,false
+UA020052,03 Mar 24,5,Parkdale,Highmoor Uniting,No. 4,Fionn Dunlevy,William Russell,Fionn Dunlevy,6-2,6,2,1,0,Completed,true,false,false
+UA020053,03 Mar 24,5,Tennis World,Kooyong,No. 1,Oliver Heaton,William Downing,Oliver Heaton,6-0,6,0,1,0,Completed,true,false,false
+UA020053,03 Mar 24,5,Tennis World,Kooyong,No. 2,Ryan Azarmi,Atticus Healy,Ryan Azarmi,6-0,6,0,1,0,Completed,true,false,false
+UA020053,03 Mar 24,5,Tennis World,Kooyong,No. 3,Samiha Kunwar,Davin Choi,Samiha Kunwar,6-1,6,1,1,0,Completed,true,false,false
+UA020053,03 Mar 24,5,Tennis World,Kooyong,No. 4,Summer Chhay-Lu,Ryan Kloszynski,Summer Chhay-Lu,6-4,6,4,1,0,Completed,true,false,false
+UA020054,03 Mar 24,5,BLTC Blue,Kings Park,No. 1,Raph Boyd,Lucas Yang,Lucas Yang,2-6,2,6,0,1,Completed,true,false,false
+UA020054,03 Mar 24,5,BLTC Blue,Kings Park,No. 2,Charlie Weatherhead,Alexis Zhang,Alexis Zhang,3-6,3,6,0,1,Completed,true,false,false
+UA020054,03 Mar 24,5,BLTC Blue,Kings Park,No. 3,Jack Vanvuure,Maddie Chang,Maddie Chang,5-7,5,7,0,1,Completed,true,false,false
+UA020054,03 Mar 24,5,BLTC Blue,Kings Park,No. 4,William Anderson,Yisen Xu,William Anderson,6-4,6,4,1,0,Completed,true,true,false
+UA020061,17 Mar 24,6,Kings Park,St Andrews MB,No. 1,Aarav Agarwal,Henry Gilmore,Aarav Agarwal,6-1,6,1,1,0,Completed,true,false,false
+UA020061,17 Mar 24,6,Kings Park,St Andrews MB,No. 2,Lucas Yang,Maximo Gianniosis,Lucas Yang,7-6,7,6,1,0,Completed,true,false,false
+UA020061,17 Mar 24,6,Kings Park,St Andrews MB,No. 3,Alexis Zhang,Joel Bearzatto,Joel Bearzatto,5-7,5,7,0,1,Completed,true,false,false
+UA020061,17 Mar 24,6,Kings Park,St Andrews MB,No. 4,Maddie Chang,Alexa Tsitsonakis,Maddie Chang,6-4,6,4,1,0,Completed,true,false,false
+UA020062,17 Mar 24,6,Black Rock Navy,BLTC Blue,No. 1,Tom Craig,Raph Boyd,Tom Craig,6-3,6,3,1,0,Completed,true,false,false
+UA020062,17 Mar 24,6,Black Rock Navy,BLTC Blue,No. 2,George Blunt,Charlie Weatherhead,George Blunt,6-1,6,1,1,0,Completed,true,false,false
+UA020062,17 Mar 24,6,Black Rock Navy,BLTC Blue,No. 3,Sam Blackburn,William Anderson,William Anderson,1-6,1,6,0,1,Completed,true,false,true
+UA020062,17 Mar 24,6,Black Rock Navy,BLTC Blue,No. 4,Connor Brown,Xavier Comben,Xavier Comben,6-7,6,7,0,1,Completed,true,false,false
+UA020063,17 Mar 24,6,Highmoor Uniting,Tennis World,No. 1,Charlie Warne,Srivas Nadiminti,Srivas Nadiminti,3-6,3,6,0,1,Completed,true,false,false
+UA020063,17 Mar 24,6,Highmoor Uniting,Tennis World,No. 2,Alister Woodside,Oliver Heaton,Oliver Heaton,3-6,3,6,0,1,Completed,true,false,false
+UA020063,17 Mar 24,6,Highmoor Uniting,Tennis World,No. 3,Blake Woodside,Ryan Azarmi,Ryan Azarmi,5-7,5,7,0,1,Completed,true,false,false
+UA020063,17 Mar 24,6,Highmoor Uniting,Tennis World,No. 4,Lily Beckett,Samiha Kunwar,Lily Beckett,6-1,6,1,1,0,Completed,true,false,false
+UA020064,17 Mar 24,6,Kooyong,Parkdale,No. 1,William Downing,Arlo Jennings,Arlo Jennings,1-6,1,6,0,1,Completed,true,false,false
+UA020064,17 Mar 24,6,Kooyong,Parkdale,No. 2,Atticus Healy,Liam Mee,Atticus Healy,6-0,6,0,1,0,Completed,true,false,false
+UA020064,17 Mar 24,6,Kooyong,Parkdale,No. 3,Davin Choi,Willem Sanftl,Willem Sanftl,3-6,3,6,0,1,Completed,true,false,false
+UA020064,17 Mar 24,6,Kooyong,Parkdale,No. 4,Ryan Kloszynski,Fionn Dunlevy,Ryan Kloszynski,6-1,6,1,1,0,Completed,true,false,false
+UA020071,24 Mar 24,7,BLTC Blue,St Andrews MB,No. 1,Raph Boyd,Kingsley Bower,Raph Boyd,6-4,6,4,1,0,Completed,true,false,false
+UA020071,24 Mar 24,7,BLTC Blue,St Andrews MB,No. 2,Charlie Weatherhead,Henry Gilmore,Henry Gilmore,6-7,6,7,0,1,Completed,true,false,false
+UA020071,24 Mar 24,7,BLTC Blue,St Andrews MB,No. 3,Jack Vanvuure,Joel Bearzatto,Joel Bearzatto,3-6,3,6,0,1,Completed,true,false,false
+UA020071,24 Mar 24,7,BLTC Blue,St Andrews MB,No. 4,Xavier Comben,Harrison Curtain,Harrison Curtain,5-7,5,7,0,1,Completed,true,false,false
+UA020072,24 Mar 24,7,Kings Park,Black Rock Navy,No. 1,Aarav Agarwal,Hugo Letham,Aarav Agarwal,6-2,6,2,1,0,Completed,true,false,false
+UA020072,24 Mar 24,7,Kings Park,Black Rock Navy,No. 2,Lucas Yang,Xavier Lasocki,Lucas Yang,6-3,6,3,1,0,Completed,true,false,false
+UA020072,24 Mar 24,7,Kings Park,Black Rock Navy,No. 3,Alexis Zhang,Sam Blackburn,Alexis Zhang,7-6,7,6,1,0,Completed,true,false,false
+UA020072,24 Mar 24,7,Kings Park,Black Rock Navy,No. 4,Seou Ham,Connor Brown,Seou Ham,6-1,6,1,1,0,Completed,true,true,false
+UA020073,24 Mar 24,7,Parkdale,Tennis World,No. 1,Max Harris,Oliver Heaton,Oliver Heaton,0-6,0,6,0,1,Completed,true,false,false
+UA020073,24 Mar 24,7,Parkdale,Tennis World,No. 2,Liam Mee,Haobo Zeng,Haobo Zeng,6-7,6,7,0,1,Completed,true,false,false
+UA020073,24 Mar 24,7,Parkdale,Tennis World,No. 3,Willem Sanftl,Ryan Azarmi,Ryan Azarmi,0-6,0,6,0,1,Completed,true,false,false
+UA020073,24 Mar 24,7,Parkdale,Tennis World,No. 4,Fionn Dunlevy,Summer Chhay-Lu,Summer Chhay-Lu,0-6,0,6,0,1,Completed,true,false,false
+UA020074,24 Mar 24,7,Highmoor Uniting,Kooyong,No. 1,Samuel Wende,William Downing,Samuel Wende,6-3,6,3,1,0,Completed,true,false,false
+UA020074,24 Mar 24,7,Highmoor Uniting,Kooyong,No. 2,Charlie Warne,Atticus Healy,Charlie Warne,7-6,7,6,1,0,Completed,true,false,false
+UA020074,24 Mar 24,7,Highmoor Uniting,Kooyong,No. 3,Alister Woodside,Davin Choi,Alister Woodside,6-4,6,4,1,0,Completed,true,false,false
+UA020074,24 Mar 24,7,Highmoor Uniting,Kooyong,No. 4,Blake Woodside,Xavier Cox,Blake Woodside,6-4,6,4,1,0,Completed,true,false,false
+UA020081,21 Apr 24,8,Kooyong,BLTC Blue,No. 1,William Downing,Raph Boyd,Raph Boyd,1-6,1,6,0,1,Completed,true,false,false
+UA020081,21 Apr 24,8,Kooyong,BLTC Blue,No. 2,Atticus Healy,Charlie Weatherhead,Charlie Weatherhead,4-6,4,6,0,1,Completed,true,false,false
+UA020081,21 Apr 24,8,Kooyong,BLTC Blue,No. 3,Ryan Kloszynski,Jack Vanvuure,Jack Vanvuure,1-6,1,6,0,1,Completed,true,false,false
+UA020081,21 Apr 24,8,Kooyong,BLTC Blue,No. 4,Xavier Cox,Xavier Comben,Xavier Cox,7-5,7,5,1,0,Completed,true,false,false
+UA020082,21 Apr 24,8,Tennis World,Kings Park,No. 1,Srivas Nadiminti,Aarav Agarwal,Srivas Nadiminti,7-6,7,6,1,0,Completed,true,false,false
+UA020082,21 Apr 24,8,Tennis World,Kings Park,No. 2,Haobo Zeng,Lucas Yang,Lucas Yang,1-6,1,6,0,1,Completed,true,false,false
+UA020082,21 Apr 24,8,Tennis World,Kings Park,No. 3,Ryan Azarmi,Maddie Chang,Maddie Chang,2-6,2,6,0,1,Completed,true,false,false
+UA020082,21 Apr 24,8,Tennis World,Kings Park,No. 4,Samiha Kunwar,Yisen Xu,Yisen Xu,0-6,0,6,0,1,Completed,true,false,false
+UA020083,21 Apr 24,8,Highmoor Uniting,St Andrews MB,No. 1,Samuel Wende,Kingsley Bower,Kingsley Bower,4-6,4,6,0,1,Completed,true,false,false
+UA020083,21 Apr 24,8,Highmoor Uniting,St Andrews MB,No. 2,Charlie Warne,Maximo Gianniosis,Maximo Gianniosis,1-6,1,6,0,1,Completed,true,false,false
+UA020083,21 Apr 24,8,Highmoor Uniting,St Andrews MB,No. 3,Alister Woodside,Joel Bearzatto,Joel Bearzatto,1-6,1,6,0,1,Completed,true,false,false
+UA020083,21 Apr 24,8,Highmoor Uniting,St Andrews MB,No. 4,Blake Woodside,Alexa Tsitsonakis,Alexa Tsitsonakis,3-6,3,6,0,1,Completed,true,false,false
+UA020084,21 Apr 24,8,Parkdale,Black Rock Navy,No. 1,Arlo Jennings,Hugo Letham,Arlo Jennings,6-0,6,0,1,0,Completed,true,false,false
+UA020084,21 Apr 24,8,Parkdale,Black Rock Navy,No. 2,Matteo Dallari,Tom Craig,Matteo Dallari,6-1,6,1,1,0,Completed,true,false,false
+UA020084,21 Apr 24,8,Parkdale,Black Rock Navy,No. 3,Willem Sanftl,Xavier Lasocki,Xavier Lasocki,1-6,1,6,0,1,Completed,true,false,false
+UA020084,21 Apr 24,8,Parkdale,Black Rock Navy,No. 4,Fionn Dunlevy,George Blunt,George Blunt,1-6,1,6,0,1,Completed,true,false,false
+UA020091,28 Apr 24,9,BLTC Blue,Parkdale,No. 1,Raph Boyd,Arlo Jennings,Arlo Jennings,1-6,1,6,0,1,Completed,true,false,false
+UA020091,28 Apr 24,9,BLTC Blue,Parkdale,No. 2,Charlie Weatherhead,Liam Mee,Liam Mee,3-6,3,6,0,1,Completed,true,false,false
+UA020091,28 Apr 24,9,BLTC Blue,Parkdale,No. 3,Jack Vanvuure,Max Harris,Jack Vanvuure,6-0,6,0,1,0,Completed,true,false,false
+UA020091,28 Apr 24,9,BLTC Blue,Parkdale,No. 4,Xavier Comben,Fionn Dunlevy,Xavier Comben,6-3,6,3,1,0,Completed,true,false,false
+UA020092,28 Apr 24,9,Kings Park,Kooyong,No. 1,Lucas Yang,William Downing,Lucas Yang,6-0,6,0,1,0,Completed,true,false,false
+UA020092,28 Apr 24,9,Kings Park,Kooyong,No. 2,Alexis Zhang,Atticus Healy,Alexis Zhang,6-2,6,2,1,0,Completed,true,false,false
+UA020092,28 Apr 24,9,Kings Park,Kooyong,No. 3,Maddie Chang,Davin Choi,Maddie Chang,6-1,6,1,1,0,Completed,true,false,false
+UA020092,28 Apr 24,9,Kings Park,Kooyong,No. 4,Yisen Xu,Xavier Cox,Yisen Xu,7-5,7,5,1,0,Completed,true,false,false
+UA020093,28 Apr 24,9,St Andrews MB,Tennis World,No. 1,Kingsley Bower,Srivas Nadiminti,Srivas Nadiminti,1-6,1,6,0,1,Completed,true,false,false
+UA020093,28 Apr 24,9,St Andrews MB,Tennis World,No. 2,Henry Gilmore,Oliver Heaton,Oliver Heaton,2-6,2,6,0,1,Completed,true,false,false
+UA020093,28 Apr 24,9,St Andrews MB,Tennis World,No. 3,Maximo Gianniosis,Samiha Kunwar,Maximo Gianniosis,6-2,6,2,1,0,Completed,true,false,false
+UA020093,28 Apr 24,9,St Andrews MB,Tennis World,No. 4,Joel Bearzatto,Summer Chhay-Lu,Joel Bearzatto,6-3,6,3,1,0,Completed,true,false,false
+UA020094,28 Apr 24,9,Black Rock Navy,Highmoor Uniting,No. 1,Tom Craig,Samuel Wende,Samuel Wende,4-6,4,6,0,1,Completed,true,false,false
+UA020094,28 Apr 24,9,Black Rock Navy,Highmoor Uniting,No. 2,Xavier Lasocki,Charlie Warne,Xavier Lasocki,6-3,6,3,1,0,Completed,true,false,false
+UA020094,28 Apr 24,9,Black Rock Navy,Highmoor Uniting,No. 3,Sam Blackburn,Alister Woodside,Sam Blackburn,6-2,6,2,1,0,Completed,true,false,false
+UA020094,28 Apr 24,9,Black Rock Navy,Highmoor Uniting,No. 4,Connor Brown,Lily Beckett,Lily Beckett,1-6,1,6,0,1,Completed,true,false,false
+UA020101,05 May 24,10,Highmoor Uniting,BLTC Blue,No. 1,Samuel Wende,Raph Boyd,Raph Boyd,2-6,2,6,0,1,Completed,true,false,false
+UA020101,05 May 24,10,Highmoor Uniting,BLTC Blue,No. 2,Charlie Warne,Jack Vanvuure,Jack Vanvuure,3-6,3,6,0,1,Completed,true,false,false
+UA020101,05 May 24,10,Highmoor Uniting,BLTC Blue,No. 3,Blake Woodside,Xavier Comben,Blake Woodside,6-4,6,4,1,0,Completed,true,false,false
+UA020101,05 May 24,10,Highmoor Uniting,BLTC Blue,No. 4,William Russell,Aiden Cleland,Aiden Cleland,0-6,0,6,0,1,Completed,true,false,false
+UA020102,05 May 24,10,Parkdale,Kings Park,No. 1,Arlo Jennings,Aarav Agarwal,Aarav Agarwal,1-6,1,6,0,1,Completed,true,false,false
+UA020102,05 May 24,10,Parkdale,Kings Park,No. 2,Matteo Dallari,Alexis Zhang,Matteo Dallari,6-1,6,1,1,0,Completed,true,false,false
+UA020102,05 May 24,10,Parkdale,Kings Park,No. 3,Max Harris,Maddie Chang,Maddie Chang,1-6,1,6,0,1,Completed,true,false,false
+UA020102,05 May 24,10,Parkdale,Kings Park,No. 4,Liam Mee,Yisen Xu,Yisen Xu,0-6,0,6,0,1,Completed,true,false,false
+UA020103,05 May 24,10,Kooyong,St Andrews MB,No. 1,William Downing,Kingsley Bower,Kingsley Bower,2-6,2,6,0,1,Completed,true,false,false
+UA020103,05 May 24,10,Kooyong,St Andrews MB,No. 2,Davin Choi,Maximo Gianniosis,Maximo Gianniosis,4-6,4,6,0,1,Completed,true,false,false
+UA020103,05 May 24,10,Kooyong,St Andrews MB,No. 3,Xavier Cox,Izzie Steel,Xavier Cox,6-3,6,3,1,0,Completed,true,false,true
+UA020103,05 May 24,10,Kooyong,St Andrews MB,No. 4,Jess Matthews,Simone Bower,Simone Bower,4-6,4,6,0,1,Completed,true,true,true
+UA020104,05 May 24,10,Tennis World,Black Rock Navy,No. 1,Srivas Nadiminti,Tom Craig,Srivas Nadiminti,7-5,7,5,1,0,Completed,true,false,false
+UA020104,05 May 24,10,Tennis World,Black Rock Navy,No. 2,Oliver Heaton,Xavier Lasocki,Oliver Heaton,7-5,7,5,1,0,Completed,true,false,false
+UA020104,05 May 24,10,Tennis World,Black Rock Navy,No. 3,Haobo Zeng,George Blunt,Haobo Zeng,6-3,6,3,1,0,Completed,true,false,false
+UA020104,05 May 24,10,Tennis World,Black Rock Navy,No. 4,Summer Chhay-Lu,Connor Brown,Summer Chhay-Lu,6-2,6,2,1,0,Completed,true,false,false
+UA020111,12 May 24,11,BLTC Blue,Tennis World,No. 1,Raph Boyd,Haobo Zeng,Raph Boyd,7-6,7,6,1,0,Completed,true,false,false
+UA020111,12 May 24,11,BLTC Blue,Tennis World,No. 2,Lucas Volum,Ryan Azarmi,Lucas Volum,7-5,7,5,1,0,Completed,true,true,false
+UA020111,12 May 24,11,BLTC Blue,Tennis World,No. 3,Xavier Comben,Samiha Kunwar,Samiha Kunwar,0-6,0,6,0,1,Completed,true,false,false
+UA020111,12 May 24,11,BLTC Blue,Tennis World,No. 4,Aiden Cleland,Summer Chhay-Lu,Summer Chhay-Lu,1-6,1,6,0,1,Completed,true,false,false
+UA020112,12 May 24,11,Kings Park,Highmoor Uniting,No. 1,Aarav Agarwal,Charlie Warne,Aarav Agarwal,6-2,6,2,1,0,Completed,true,false,false
+UA020112,12 May 24,11,Kings Park,Highmoor Uniting,No. 2,Lucas Yang,Alister Woodside,Lucas Yang,6-2,6,2,1,0,Completed,true,false,false
+UA020112,12 May 24,11,Kings Park,Highmoor Uniting,No. 3,Alexis Zhang,Blake Woodside,Alexis Zhang,6-2,6,2,1,0,Completed,true,false,false
+UA020112,12 May 24,11,Kings Park,Highmoor Uniting,No. 4,Maddie Chang,Lily Beckett,Lily Beckett,4-6,4,6,0,1,Completed,true,false,false
+UA020113,12 May 24,11,St Andrews MB,Parkdale,No. 1,Kingsley Bower,Arlo Jennings,Arlo Jennings,1-6,1,6,0,1,Completed,true,false,false
+UA020113,12 May 24,11,St Andrews MB,Parkdale,No. 2,Maximo Gianniosis,Liam Mee,Maximo Gianniosis,6-2,6,2,1,0,Completed,true,false,false
+UA020113,12 May 24,11,St Andrews MB,Parkdale,No. 3,Joel Bearzatto,Willem Sanftl,Joel Bearzatto,6-0,6,0,1,0,Completed,true,false,false
+UA020113,12 May 24,11,St Andrews MB,Parkdale,No. 4,Alexa Tsitsonakis,Fionn Dunlevy,Alexa Tsitsonakis,6-0,6,0,1,0,Completed,true,false,false
+UA020114,12 May 24,11,Black Rock Navy,Kooyong,No. 1,Tom Craig,William Downing,Tom Craig,6-4,6,4,1,0,Completed,true,false,false
+UA020114,12 May 24,11,Black Rock Navy,Kooyong,No. 2,George Blunt,Atticus Healy,George Blunt,6-4,6,4,1,0,Completed,true,false,false
+UA020114,12 May 24,11,Black Rock Navy,Kooyong,No. 3,Sam Blackburn,Davin Choi,Davin Choi,2-6,2,6,0,1,Completed,true,false,false
+UA020114,12 May 24,11,Black Rock Navy,Kooyong,No. 4,Connor Brown,Xavier Cox,Xavier Cox,3-6,3,6,0,1,Completed,true,false,false
+UA020121,19 May 24,12,Black Rock Navy,St Andrews MB,No. 1,Tom Craig,Kingsley Bower,Kingsley Bower,4-6,4,6,0,1,Completed,true,false,false
+UA020121,19 May 24,12,Black Rock Navy,St Andrews MB,No. 2,Xavier Lasocki,Henry Gilmore,Xavier Lasocki,6-0,6,0,1,0,Completed,true,false,false
+UA020121,19 May 24,12,Black Rock Navy,St Andrews MB,No. 3,Hugo Letham,Joel Bearzatto,Joel Bearzatto,0-6,0,6,0,1,Completed,true,false,false
+UA020121,19 May 24,12,Black Rock Navy,St Andrews MB,No. 4,Connor Brown,Simone Bower,Connor Brown,6-3,6,3,1,0,Completed,true,false,true
+UA020122,19 May 24,12,Highmoor Uniting,Parkdale,No. 1,Samuel Wende,Arlo Jennings,Arlo Jennings,2-6,2,6,0,1,Completed,true,false,false
+UA020122,19 May 24,12,Highmoor Uniting,Parkdale,No. 2,Charlie Warne,Matteo Dallari,Matteo Dallari,0-6,0,6,0,1,Completed,true,false,false
+UA020122,19 May 24,12,Highmoor Uniting,Parkdale,No. 3,Alister Woodside,Willem Sanftl,Willem Sanftl,2-6,2,6,0,1,Completed,true,false,false
+UA020122,19 May 24,12,Highmoor Uniting,Parkdale,No. 4,Lily Beckett,Fionn Dunlevy,Lily Beckett,6-2,6,2,1,0,Completed,true,false,false
+UA020123,19 May 24,12,Kooyong,Tennis World,No. 1,William Downing,Srivas Nadiminti,Srivas Nadiminti,0-6,0,6,0,1,Completed,true,false,false
+UA020123,19 May 24,12,Kooyong,Tennis World,No. 2,Atticus Healy,Oliver Heaton,Oliver Heaton,0-6,0,6,0,1,Completed,true,false,false
+UA020123,19 May 24,12,Kooyong,Tennis World,No. 3,Davin Choi,Samiha Kunwar,Samiha Kunwar,1-6,1,6,0,1,Completed,true,false,false
+UA020123,19 May 24,12,Kooyong,Tennis World,No. 4,Ethan Pulverman,Summer Chhay-Lu,Summer Chhay-Lu,4-6,4,6,0,1,Completed,true,true,false
+UA020124,19 May 24,12,Kings Park,BLTC Blue,No. 1,Aarav Agarwal,Raph Boyd,Aarav Agarwal,7-6,7,6,1,0,Completed,true,false,false
+UA020124,19 May 24,12,Kings Park,BLTC Blue,No. 2,Lucas Yang,Charlie Weatherhead,Lucas Yang,6-0,6,0,1,0,Completed,true,false,false
+UA020124,19 May 24,12,Kings Park,BLTC Blue,No. 3,Alexis Zhang,Jack Vanvuure,Jack Vanvuure,3-6,3,6,0,1,Completed,true,false,false
+UA020124,19 May 24,12,Kings Park,BLTC Blue,No. 4,Jason Tang,[Unnamed player — TROLS UA020124 away code 4],Jason Tang,6-0,6,0,1,0,Completed,false,true,false
+UA020131,26 May 24,13,St Andrews MB,Kings Park,No. 1,Maximo Gianniosis,Aarav Agarwal,Aarav Agarwal,3-6,3,6,0,1,Completed,true,false,false
+UA020131,26 May 24,13,St Andrews MB,Kings Park,No. 2,Joel Bearzatto,Lucas Yang,Lucas Yang,0-6,0,6,0,1,Completed,true,false,false
+UA020131,26 May 24,13,St Andrews MB,Kings Park,No. 3,Alexa Tsitsonakis,Maddie Chang,Maddie Chang,4-6,4,6,0,1,Completed,true,false,false
+UA020131,26 May 24,13,St Andrews MB,Kings Park,No. 4,Simone Bower,Yisen Xu,Yisen Xu,0-6,0,6,0,1,Completed,true,true,false
+UA020132,26 May 24,13,BLTC Blue,Black Rock Navy,No. 1,Raph Boyd,Tom Craig,Raph Boyd,6-4,6,4,1,0,Completed,true,false,false
+UA020132,26 May 24,13,BLTC Blue,Black Rock Navy,No. 2,Charlie Weatherhead,Xavier Lasocki,Xavier Lasocki,0-6,0,6,0,1,Completed,true,false,false
+UA020132,26 May 24,13,BLTC Blue,Black Rock Navy,No. 3,Jack Vanvuure,Hugo Letham,Jack Vanvuure,6-0,6,0,1,0,Completed,true,false,false
+UA020132,26 May 24,13,BLTC Blue,Black Rock Navy,No. 4,Xavier Comben,George Blunt,George Blunt,5-7,5,7,0,1,Completed,true,false,false
+UA020133,26 May 24,13,Tennis World,Highmoor Uniting,No. 1,Srivas Nadiminti,Samuel Wende,Srivas Nadiminti,6-2,6,2,1,0,Completed,true,false,false
+UA020133,26 May 24,13,Tennis World,Highmoor Uniting,No. 2,Haobo Zeng,Alister Woodside,Haobo Zeng,6-0,6,0,1,0,Completed,true,false,false
+UA020133,26 May 24,13,Tennis World,Highmoor Uniting,No. 3,Ryan Azarmi,Blake Woodside,Blake Woodside,0-6,0,6,0,1,Completed,true,false,false
+UA020133,26 May 24,13,Tennis World,Highmoor Uniting,No. 4,Summer Chhay-Lu,Lily Beckett,Summer Chhay-Lu,6-1,6,1,1,0,Completed,true,false,false
+UA020134,26 May 24,13,Parkdale,Kooyong,No. 1,Arlo Jennings,William Downing,Arlo Jennings,6-0,6,0,1,0,Completed,true,false,false
+UA020134,26 May 24,13,Parkdale,Kooyong,No. 2,Matteo Dallari,Atticus Healy,Matteo Dallari,6-0,6,0,1,0,Completed,true,false,false
+UA020134,26 May 24,13,Parkdale,Kooyong,No. 3,Max Harris,Davin Choi,Davin Choi,0-6,0,6,0,1,Completed,true,false,false
+UA020134,26 May 24,13,Parkdale,Kooyong,No. 4,Liam Mee,Max Lewis,Max Lewis,2-6,2,6,0,1,Completed,true,false,true
+UA020141,02 Jun 24,14,St Andrews MB,BLTC Blue,No. 1,Kingsley Bower,Raph Boyd,Raph Boyd,2-6,2,6,0,1,Completed,true,false,false
+UA020141,02 Jun 24,14,St Andrews MB,BLTC Blue,No. 2,Alexa Tsitsonakis,Jack Vanvuure,Jack Vanvuure,4-6,4,6,0,1,Completed,true,false,false
+UA020141,02 Jun 24,14,St Andrews MB,BLTC Blue,No. 3,Maximo Gianniosis,Charlie Weatherhead,Maximo Gianniosis,6-0,6,0,1,0,Completed,true,false,false
+UA020141,02 Jun 24,14,St Andrews MB,BLTC Blue,No. 4,Joel Bearzatto,Xavier Comben,Joel Bearzatto,6-0,6,0,1,0,Completed,true,false,false
+UA020142,02 Jun 24,14,Black Rock Navy,Kings Park,No. 1,Xavier Lasocki,Aarav Agarwal,Aarav Agarwal,3-6,3,6,0,1,Completed,true,false,false
+UA020142,02 Jun 24,14,Black Rock Navy,Kings Park,No. 2,George Blunt,Alexis Zhang,Alexis Zhang,1-6,1,6,0,1,Completed,true,false,false
+UA020142,02 Jun 24,14,Black Rock Navy,Kings Park,No. 3,Sam Blackburn,Maddie Chang,Sam Blackburn,6-1,6,1,1,0,Completed,true,false,false
+UA020142,02 Jun 24,14,Black Rock Navy,Kings Park,No. 4,Connor Brown,Yisen Xu,Yisen Xu,1-6,1,6,0,1,Completed,true,false,false
+UA020143,02 Jun 24,14,Tennis World,Parkdale,No. 1,Oliver Heaton,Max Harris,Oliver Heaton,6-2,6,2,1,0,Completed,true,false,false
+UA020143,02 Jun 24,14,Tennis World,Parkdale,No. 2,Haobo Zeng,Liam Mee,Liam Mee,4-6,4,6,0,1,Completed,true,false,false
+UA020143,02 Jun 24,14,Tennis World,Parkdale,No. 3,Ryan Azarmi,Willem Sanftl,Ryan Azarmi,6-0,6,0,1,0,Completed,true,false,false
+UA020143,02 Jun 24,14,Tennis World,Parkdale,No. 4,Samiha Kunwar,Fionn Dunlevy,Samiha Kunwar,6-0,6,0,1,0,Completed,true,false,false
+UA020144,02 Jun 24,14,Kooyong,Highmoor Uniting,No. 1,William Downing,Samuel Wende,Samuel Wende,3-6,3,6,0,1,Completed,true,false,false
+UA020144,02 Jun 24,14,Kooyong,Highmoor Uniting,No. 2,Davin Choi,Charlie Warne,Davin Choi,6-2,6,2,1,0,Completed,true,false,false
+UA020144,02 Jun 24,14,Kooyong,Highmoor Uniting,No. 3,Ryan Kloszynski,Blake Woodside,Ryan Kloszynski,6-4,6,4,1,0,Completed,true,false,false
+UA020144,02 Jun 24,14,Kooyong,Highmoor Uniting,No. 4,Xavier Cox,Lily Beckett,Lily Beckett,2-6,2,6,0,1,Completed,true,false,false
+UA020301,,16,Kings Park,BLTC Blue,No. 1,Aarav Agarwal,Raph Boyd,Raph Boyd,3-6,3,6,0,1,Completed,true,false,false
+UA020301,,16,Kings Park,BLTC Blue,No. 2,Lucas Yang,Charlie Weatherhead,Lucas Yang,6-2,6,2,1,0,Completed,true,false,false
+UA020301,,16,Kings Park,BLTC Blue,No. 3,Alexis Zhang,Jack Vanvuure,Jack Vanvuure,1-6,1,6,0,1,Completed,true,false,false
+UA020301,,16,Kings Park,BLTC Blue,No. 4,Yisen Xu,Xavier Comben,Yisen Xu,6-2,6,2,1,0,Completed,true,false,false
+UA020302,,16,Tennis World,St Andrews MB,No. 1,Srivas Nadiminti,Kingsley Bower,Kingsley Bower,4-6,4,6,0,1,Completed,true,false,false
+UA020302,,16,Tennis World,St Andrews MB,No. 2,[Unnamed player — TROLS UA020302 home code 2],Henry Gilmore,Henry Gilmore,0-6,0,6,0,1,Completed,false,false,false
+UA020302,,16,Tennis World,St Andrews MB,No. 3,Ryan Azarmi,Maximo Gianniosis,Maximo Gianniosis,1-6,1,6,0,1,Completed,true,false,false
+UA020302,,16,Tennis World,St Andrews MB,No. 4,Samiha Kunwar,Joel Bearzatto,Joel Bearzatto,3-6,3,6,0,1,Completed,true,false,false
+UA020321,,17,Kings Park,St Andrews MB,No. 1,Aarav Agarwal,Kingsley Bower,Aarav Agarwal,6-2,6,2,1,0,Completed,true,false,false
+UA020321,,17,Kings Park,St Andrews MB,No. 2,Lucas Yang,Henry Gilmore,Lucas Yang,6-0,6,0,1,0,Completed,true,false,false
+UA020321,,17,Kings Park,St Andrews MB,No. 3,Alexis Zhang,Maximo Gianniosis,Maximo Gianniosis,3-6,3,6,0,1,Completed,true,false,false
+UA020321,,17,Kings Park,St Andrews MB,No. 4,Maddie Chang,Joel Bearzatto,Joel Bearzatto,2-6,2,6,0,1,Completed,true,false,false

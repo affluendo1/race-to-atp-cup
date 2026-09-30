@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA38-UA026",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2026",
+  "season_id": "UA38",
+  "season_label": "Autumn 2026",
+  "source_section_code": "UA026",
+  "section_label": "Sets 1 Green Ball",
+  "format": "sets",
+  "green_ball": true,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Royal South Yarra Navy",
+      "wins": 10,
+      "points": 99,
+      "percentage": 134.78,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Mentone",
+      "wins": 8,
+      "points": 85,
+      "percentage": 146.96,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "BLTC",
+      "wins": 7,
+      "points": 76,
+      "percentage": 114.42,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Black Rock",
+      "wins": 6,
+      "points": 74,
+      "percentage": 103.66,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Lauriston",
+      "wins": 6,
+      "points": 72,
+      "percentage": 105.72,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal South Yarra Yellow",
+      "wins": 5,
+      "points": 64,
+      "percentage": 86.31,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Middle Brighton",
+      "wins": 4,
+      "points": 60,
+      "percentage": 88.46,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Coatesville",
+      "wins": 1,
+      "points": 30,
+      "percentage": 50.38,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA38-UA026",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 208,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

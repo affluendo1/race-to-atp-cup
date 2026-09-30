@@ -1,0 +1,213 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA008011,20 Jul 14,1,BLTC,Royal South Yarra,No. 1,Tom Fisher,Max Charles,Tom Fisher,6-4,6,4,1,0,Completed,true,false,false
+UA008011,20 Jul 14,1,BLTC,Royal South Yarra,No. 2,Shaun Yue,Annabel Jones,Annabel Jones,2-6,2,6,0,1,Completed,true,false,false
+UA008011,20 Jul 14,1,BLTC,Royal South Yarra,No. 3,Edward Fisher,Charlotte Ritman,Edward Fisher,6-2,6,2,1,0,Completed,true,false,false
+UA008011,20 Jul 14,1,BLTC,Royal South Yarra,No. 4,Shinya Imazawa,Sam Balmforth,Shinya Imazawa,6-3,6,3,1,0,Completed,true,false,false
+UA008012,20 Jul 14,1,Kooyong Scotch 1,Kooyong Scotch 2,No. 1,Zoe Kantanis,Jude Hine,Jude Hine,2-6,2,6,0,1,Completed,true,false,false
+UA008012,20 Jul 14,1,Kooyong Scotch 1,Kooyong Scotch 2,No. 2,Sarah Kaufman,Hudson Ciavarella,Hudson Ciavarella,4-6,4,6,0,1,Completed,true,false,false
+UA008012,20 Jul 14,1,Kooyong Scotch 1,Kooyong Scotch 2,No. 3,Julia Clarke,Erik Zhuang,Erik Zhuang,1-6,1,6,0,1,Completed,true,false,false
+UA008012,20 Jul 14,1,Kooyong Scotch 1,Kooyong Scotch 2,No. 4,Mia Geason,Leo Fetter,Leo Fetter,3-6,3,6,0,1,Completed,true,false,false
+UA008013,20 Jul 14,1,Maccabi,Aspendale,No. 1,Jordan Jaffe,Anthony Cameron,Jordan Jaffe,6-4,6,4,1,0,Completed,true,false,false
+UA008013,20 Jul 14,1,Maccabi,Aspendale,No. 2,Moshe Wajsbort,Jeremy Cullen,Moshe Wajsbort,6-4,6,4,1,0,Completed,true,false,false
+UA008013,20 Jul 14,1,Maccabi,Aspendale,No. 3,Edward Lichtig,Cooper Walley,Cooper Walley,0-6,0,6,0,1,Completed,true,false,false
+UA008013,20 Jul 14,1,Maccabi,Aspendale,No. 4,Eli Paykel-Samuel,Mitchell Fielder,Eli Paykel-Samuel,6-2,6,2,1,0,Completed,true,false,false
+UA008014,20 Jul 14,1,GPHC,Mentone,No. 1,Lachlan Koh,Jack Constatine,Jack Constatine,5-7,5,7,0,1,Completed,true,false,false
+UA008014,20 Jul 14,1,GPHC,Mentone,No. 2,Andrew Wong,Haresh Purushothaman,Andrew Wong,6-3,6,3,1,0,Completed,true,false,false
+UA008014,20 Jul 14,1,GPHC,Mentone,No. 3,Nick Barnett,Ben Garside,Ben Garside,2-6,2,6,0,1,Completed,true,false,false
+UA008014,20 Jul 14,1,GPHC,Mentone,No. 4,Axel Rives,Bobby Musikik,Axel Rives,6-1,6,1,1,0,Completed,true,false,false
+UA008021,27 Jul 14,2,Mentone,BLTC,No. 1,Jack Constatine,Tom Fisher,Jack Constatine,6-3,6,3,1,0,Completed,true,false,false
+UA008021,27 Jul 14,2,Mentone,BLTC,No. 2,Joydeep Ghosh,Shaun Yue,Shaun Yue,1-6,1,6,0,1,Completed,true,false,false
+UA008021,27 Jul 14,2,Mentone,BLTC,No. 3,Costa Comninacis,Edward Fisher,Edward Fisher,1-6,1,6,0,1,Completed,true,false,false
+UA008021,27 Jul 14,2,Mentone,BLTC,No. 4,Haresh Purushothaman,Harrison Cramer,Haresh Purushothaman,6-2,6,2,1,0,Completed,true,false,false
+UA008022,27 Jul 14,2,Royal South Yarra,Kooyong Scotch 1,No. 1,Annabel Joubert,Olivia McGrath,Annabel Joubert,6-1,6,1,1,0,Completed,true,false,false
+UA008022,27 Jul 14,2,Royal South Yarra,Kooyong Scotch 1,No. 2,Charlotte Ritman,Zoe Kantanis,Zoe Kantanis,1-6,1,6,0,1,Completed,true,false,false
+UA008022,27 Jul 14,2,Royal South Yarra,Kooyong Scotch 1,No. 3,Mimi Holmes,Julia Clarke,Mimi Holmes,6-4,6,4,1,0,Completed,true,false,false
+UA008022,27 Jul 14,2,Royal South Yarra,Kooyong Scotch 1,No. 4,Bill Cameron,Annabel Gray,Bill Cameron,6-4,6,4,1,0,Completed,true,false,false
+UA008023,27 Jul 14,2,Kooyong Scotch 2,Maccabi,No. 1,Jude Hine,Jordan Jaffe,Jordan Jaffe,5-7,5,7,0,1,Completed,true,false,false
+UA008023,27 Jul 14,2,Kooyong Scotch 2,Maccabi,No. 2,Hudson Ciavarella,Moshe Wajsbort,Moshe Wajsbort,2-6,2,6,0,1,Completed,true,false,false
+UA008023,27 Jul 14,2,Kooyong Scotch 2,Maccabi,No. 3,Erik Zhuang,Edward Lichtig,Erik Zhuang,6-1,6,1,1,0,Completed,true,false,false
+UA008023,27 Jul 14,2,Kooyong Scotch 2,Maccabi,No. 4,Martin Buttery,Judah Slonim,Martin Buttery,6-1,6,1,1,0,Completed,true,false,false
+UA008024,27 Jul 14,2,Aspendale,GPHC,No. 1,Anthony Cameron,Lachlan Koh,Anthony Cameron,6-2,6,2,1,0,Completed,true,false,false
+UA008024,27 Jul 14,2,Aspendale,GPHC,No. 2,Jeremy Cullen,Andrew Wong,Jeremy Cullen,6-4,6,4,1,0,Completed,true,false,false
+UA008024,27 Jul 14,2,Aspendale,GPHC,No. 3,Cooper Walley,Jack Fuller,Jack Fuller,1-6,1,6,0,1,Completed,true,false,false
+UA008024,27 Jul 14,2,Aspendale,GPHC,No. 4,Alex Klemm,Peta Preovolos,Alex Klemm,6-2,6,2,1,0,Completed,true,false,false
+UA008031,03 Aug 14,3,BLTC,Aspendale,No. 1,Tom Fisher,Anthony Cameron,Anthony Cameron,5-7,5,7,0,1,Completed,true,false,false
+UA008031,03 Aug 14,3,BLTC,Aspendale,No. 2,Shaun Yue,Jeremy Cullen,Jeremy Cullen,0-6,0,6,0,1,Completed,true,false,false
+UA008031,03 Aug 14,3,BLTC,Aspendale,No. 3,Shinya Imazawa,Alex Klemm,Shinya Imazawa,6-4,6,4,1,0,Completed,true,false,false
+UA008031,03 Aug 14,3,BLTC,Aspendale,No. 4,Harrison Cramer,Mitchell Fielder,Mitchell Fielder,3-6,3,6,0,1,Completed,true,false,false
+UA008032,03 Aug 14,3,Kooyong Scotch 1,Mentone,No. 1,Olivia McGrath,Jack Constatine,Jack Constatine,0-6,0,6,0,1,Completed,true,false,false
+UA008032,03 Aug 14,3,Kooyong Scotch 1,Mentone,No. 2,Zoe Kantanis,Ben Garside,Ben Garside,4-6,4,6,0,1,Completed,true,false,false
+UA008032,03 Aug 14,3,Kooyong Scotch 1,Mentone,No. 3,Sarah Kaufman,Costa Comninacis,Costa Comninacis,2-6,2,6,0,1,Completed,true,false,false
+UA008032,03 Aug 14,3,Kooyong Scotch 1,Mentone,No. 4,Max Smyth,Bobby Musikik,Bobby Musikik,2-6,2,6,0,1,Completed,true,false,false
+UA008033,03 Aug 14,3,Maccabi,Royal South Yarra,No. 1,Jordan Jaffe,Max Charles,Jordan Jaffe,7-5,7,5,1,0,Completed,true,false,false
+UA008033,03 Aug 14,3,Maccabi,Royal South Yarra,No. 2,Moshe Wajsbort,Annabel Joubert,Moshe Wajsbort,6-0,6,0,1,0,Completed,true,false,false
+UA008033,03 Aug 14,3,Maccabi,Royal South Yarra,No. 3,Eli Paykel-Samuel,Sam Balmforth,Sam Balmforth,4-6,4,6,0,1,Completed,true,false,false
+UA008033,03 Aug 14,3,Maccabi,Royal South Yarra,No. 4,Ivan Zulman,Bill Cameron,Ivan Zulman,6-0,6,0,1,0,Completed,true,false,false
+UA008034,03 Aug 14,3,GPHC,Kooyong Scotch 2,No. 1,Alex Siouthas,Jude Hine,Jude Hine,1-6,1,6,0,1,Completed,true,false,false
+UA008034,03 Aug 14,3,GPHC,Kooyong Scotch 2,No. 2,Andrew Wong,Hudson Ciavarella,Hudson Ciavarella,0-6,0,6,0,1,Completed,true,false,false
+UA008034,03 Aug 14,3,GPHC,Kooyong Scotch 2,No. 3,Nick Barnett,Martin Buttery,Nick Barnett,6-3,6,3,1,0,Completed,true,false,false
+UA008034,03 Aug 14,3,GPHC,Kooyong Scotch 2,No. 4,Jack Fuller,Jeremy Kagan,Jack Fuller,6-1,6,1,1,0,Completed,true,false,false
+UA008041,10 Aug 14,4,Kooyong Scotch 2,BLTC,No. 1,Jude Hine,Tom Fisher,Tom Fisher,1-6,1,6,0,1,Completed,true,false,false
+UA008041,10 Aug 14,4,Kooyong Scotch 2,BLTC,No. 2,Erik Zhuang,Edward Fisher,Erik Zhuang,6-2,6,2,1,0,Completed,true,false,false
+UA008041,10 Aug 14,4,Kooyong Scotch 2,BLTC,No. 3,Martin Buttery,Shinya Imazawa,Martin Buttery,6-2,6,2,1,0,Completed,true,false,false
+UA008041,10 Aug 14,4,Kooyong Scotch 2,BLTC,No. 4,Seamus Synnott,Harrison Cramer,Seamus Synnott,6-3,6,3,1,0,Completed,true,false,false
+UA008043,10 Aug 14,4,Mentone,Maccabi,No. 1,Jack Constatine,Jordan Jaffe,Jordan Jaffe,5-7,5,7,0,1,Completed,true,false,false
+UA008043,10 Aug 14,4,Mentone,Maccabi,No. 2,Joydeep Ghosh,Moshe Wajsbort,Moshe Wajsbort,3-6,3,6,0,1,Completed,true,false,false
+UA008043,10 Aug 14,4,Mentone,Maccabi,No. 3,Haresh Purushothaman,Edward Lichtig,Haresh Purushothaman,6-1,6,1,1,0,Completed,true,false,false
+UA008043,10 Aug 14,4,Mentone,Maccabi,No. 4,Bobby Musikik,Josh Unger,Bobby Musikik,6-2,6,2,1,0,Completed,true,false,false
+UA008044,10 Aug 14,4,Royal South Yarra,GPHC,No. 1,Max Charles,Andrew Wong,Max Charles,6-3,6,3,1,0,Completed,true,false,false
+UA008044,10 Aug 14,4,Royal South Yarra,GPHC,No. 2,Annabel Jones,Alex Siouthas,Annabel Jones,6-0,6,0,1,0,Completed,true,false,false
+UA008044,10 Aug 14,4,Royal South Yarra,GPHC,No. 3,Charlotte Ritman,Nick Barnett,Nick Barnett,4-6,4,6,0,1,Completed,true,false,false
+UA008044,10 Aug 14,4,Royal South Yarra,GPHC,No. 4,Mimi Holmes,Axel Rives,Axel Rives,5-7,5,7,0,1,Completed,true,false,false
+UA008051,17 Aug 14,5,Maccabi,GPHC,No. 1,Jordan Jaffe,Lachlan Koh,Jordan Jaffe,6-2,6,2,1,0,Completed,true,false,false
+UA008051,17 Aug 14,5,Maccabi,GPHC,No. 2,Moshe Wajsbort,Alex Siouthas,Moshe Wajsbort,6-4,6,4,1,0,Completed,true,false,false
+UA008051,17 Aug 14,5,Maccabi,GPHC,No. 3,Edward Lichtig,Nick Barnett,Nick Barnett,6-7,6,7,0,1,Completed,true,false,false
+UA008051,17 Aug 14,5,Maccabi,GPHC,No. 4,Ivan Zulman,Jack Fuller,Jack Fuller,5-7,5,7,0,1,Completed,true,false,false
+UA008052,17 Aug 14,5,Mentone,Aspendale,No. 1,Joydeep Ghosh,Anthony Cameron,Anthony Cameron,1-6,1,6,0,1,Completed,true,false,false
+UA008052,17 Aug 14,5,Mentone,Aspendale,No. 2,Haresh Purushothaman,Jeremy Cullen,Haresh Purushothaman,6-0,6,0,1,0,Completed,true,false,false
+UA008052,17 Aug 14,5,Mentone,Aspendale,No. 3,Ben Garside,Alex Klemm,Ben Garside,6-1,6,1,1,0,Completed,true,false,false
+UA008052,17 Aug 14,5,Mentone,Aspendale,No. 4,Costa Comninacis,Mitchell Fielder,Costa Comninacis,7-5,7,5,1,0,Completed,true,false,false
+UA008053,17 Aug 14,5,Kooyong Scotch 2,Royal South Yarra,No. 1,Jude Hine,Max Charles,Jude Hine,7-5,7,5,1,0,Completed,true,false,false
+UA008053,17 Aug 14,5,Kooyong Scotch 2,Royal South Yarra,No. 2,Erik Zhuang,Annabel Jones,Erik Zhuang,6-1,6,1,1,0,Completed,true,false,false
+UA008053,17 Aug 14,5,Kooyong Scotch 2,Royal South Yarra,No. 3,Leo Fetter,Bill Cameron,Leo Fetter,6-2,6,2,1,0,Completed,true,false,false
+UA008053,17 Aug 14,5,Kooyong Scotch 2,Royal South Yarra,No. 4,Martin Buttery,Sam Balmforth,Martin Buttery,6-1,6,1,1,0,Completed,true,false,false
+UA008054,17 Aug 14,5,BLTC,Kooyong Scotch 1,No. 1,Tom Fisher,Camilla Kaufman,Camilla Kaufman,4-6,4,6,0,1,Completed,true,false,false
+UA008054,17 Aug 14,5,BLTC,Kooyong Scotch 1,No. 2,Edward Fisher,Olivia McGrath,Edward Fisher,6-3,6,3,1,0,Completed,true,false,false
+UA008054,17 Aug 14,5,BLTC,Kooyong Scotch 1,No. 3,Shinya Imazawa,Zoe Kantanis,Shinya Imazawa,6-3,6,3,1,0,Completed,true,false,false
+UA008054,17 Aug 14,5,BLTC,Kooyong Scotch 1,No. 4,Harrison Cramer,Julia Clarke,Harrison Cramer,6-0,6,0,1,0,Completed,true,false,false
+UA008061,24 Aug 14,6,Kooyong Scotch 1,Maccabi,No. 1,Camilla Kaufman,Moshe Wajsbort,Moshe Wajsbort,3-6,3,6,0,1,Completed,true,false,false
+UA008061,24 Aug 14,6,Kooyong Scotch 1,Maccabi,No. 2,Olivia McGrath,Edward Lichtig,Edward Lichtig,5-7,5,7,0,1,Completed,true,false,false
+UA008061,24 Aug 14,6,Kooyong Scotch 1,Maccabi,No. 3,Sarah Kaufman,Judah Slonim,Sarah Kaufman,6-4,6,4,1,0,Completed,true,false,false
+UA008061,24 Aug 14,6,Kooyong Scotch 1,Maccabi,No. 4,Julia Clarke,Ivan Zulman,Ivan Zulman,1-6,1,6,0,1,Completed,true,false,false
+UA008062,24 Aug 14,6,GPHC,BLTC,No. 1,Andrew Wong,Tom Fisher,Tom Fisher,1-6,1,6,0,1,Completed,true,false,false
+UA008062,24 Aug 14,6,GPHC,BLTC,No. 2,Lachlan Koh,Shaun Yue,Shaun Yue,4-6,4,6,0,1,Completed,true,false,false
+UA008062,24 Aug 14,6,GPHC,BLTC,No. 3,Jack Fuller,Edward Fisher,Jack Fuller,6-2,6,2,1,0,Completed,true,false,false
+UA008062,24 Aug 14,6,GPHC,BLTC,No. 4,Axel Rives,Harrison Cramer,Axel Rives,6-2,6,2,1,0,Completed,true,false,false
+UA008063,24 Aug 14,6,Aspendale,Kooyong Scotch 2,No. 1,Anthony Cameron,Hudson Ciavarella,Anthony Cameron,6-1,6,1,1,0,Completed,true,false,false
+UA008063,24 Aug 14,6,Aspendale,Kooyong Scotch 2,No. 2,Jeremy Cullen,Leo Fetter,Jeremy Cullen,6-3,6,3,1,0,Completed,true,false,false
+UA008063,24 Aug 14,6,Aspendale,Kooyong Scotch 2,No. 3,Cooper Walley,Martin Buttery,Martin Buttery,2-6,2,6,0,1,Completed,true,false,false
+UA008063,24 Aug 14,6,Aspendale,Kooyong Scotch 2,No. 4,Alex Klemm,Jeremy Kagan,Alex Klemm,6-3,6,3,1,0,Completed,true,false,false
+UA008064,24 Aug 14,6,Royal South Yarra,Mentone,No. 1,Annabel Jones,Jack Constatine,Jack Constatine,5-7,5,7,0,1,Completed,true,false,false
+UA008064,24 Aug 14,6,Royal South Yarra,Mentone,No. 2,Mimi Holmes,Joydeep Ghosh,Joydeep Ghosh,1-6,1,6,0,1,Completed,true,false,false
+UA008064,24 Aug 14,6,Royal South Yarra,Mentone,No. 3,Bill Cameron,Ben Garside,Ben Garside,3-6,3,6,0,1,Completed,true,false,false
+UA008064,24 Aug 14,6,Royal South Yarra,Mentone,No. 4,Sam Balmforth,Costa Comninacis,Costa Comninacis,4-6,4,6,0,1,Completed,true,false,false
+UA008071,31 Aug 14,7,BLTC,Maccabi,No. 1,Jordan Segar,Moshe Wajsbort,Jordan Segar,6-3,6,3,1,0,Completed,true,false,false
+UA008071,31 Aug 14,7,BLTC,Maccabi,No. 2,Shaun Yue,Eli Paykel-Samuel,Eli Paykel-Samuel,4-6,4,6,0,1,Completed,true,false,false
+UA008071,31 Aug 14,7,BLTC,Maccabi,No. 3,Shinya Imazawa,Ivan Zulman,Shinya Imazawa,6-2,6,2,1,0,Completed,true,false,false
+UA008071,31 Aug 14,7,BLTC,Maccabi,No. 4,Luc Dann,Ben Hellinger,Ben Hellinger,2-6,2,6,0,1,Completed,true,false,false
+UA008072,31 Aug 14,7,Kooyong Scotch 1,GPHC,No. 1,Camilla Kaufman,Andrew Wong,Camilla Kaufman,6-3,6,3,1,0,Completed,true,false,false
+UA008072,31 Aug 14,7,Kooyong Scotch 1,GPHC,No. 2,Olivia McGrath,Lachlan Koh,Lachlan Koh,2-6,2,6,0,1,Completed,true,false,false
+UA008072,31 Aug 14,7,Kooyong Scotch 1,GPHC,No. 3,Zoe Kantanis,Alex Siouthas,Alex Siouthas,5-7,5,7,0,1,Completed,true,false,false
+UA008072,31 Aug 14,7,Kooyong Scotch 1,GPHC,No. 4,Julia Clarke,Axel Rives,Axel Rives,0-6,0,6,0,1,Completed,true,false,false
+UA008073,31 Aug 14,7,Mentone,Kooyong Scotch 2,No. 1,Jack Constatine,Jude Hine,Jack Constatine,7-5,7,5,1,0,Completed,true,false,false
+UA008073,31 Aug 14,7,Mentone,Kooyong Scotch 2,No. 2,Ben Garside,Hudson Ciavarella,Ben Garside,6-0,6,0,1,0,Completed,true,false,false
+UA008073,31 Aug 14,7,Mentone,Kooyong Scotch 2,No. 3,Costa Comninacis,Erik Zhuang,Erik Zhuang,0-6,0,6,0,1,Completed,true,false,false
+UA008073,31 Aug 14,7,Mentone,Kooyong Scotch 2,No. 4,Bobby Musikik,Martin Buttery,Martin Buttery,0-6,0,6,0,1,Completed,true,false,false
+UA008074,31 Aug 14,7,Aspendale,Royal South Yarra,No. 1,Anthony Cameron,Charlotte Ritman,Anthony Cameron,6-2,6,2,1,0,Completed,true,false,false
+UA008074,31 Aug 14,7,Aspendale,Royal South Yarra,No. 2,Jeremy Cullen,Bill Cameron,Jeremy Cullen,6-1,6,1,1,0,Completed,true,false,false
+UA008074,31 Aug 14,7,Aspendale,Royal South Yarra,No. 3,Alex Klemm,Sam Balmforth,Alex Klemm,7-6,7,6,1,0,Completed,true,false,false
+UA008074,31 Aug 14,7,Aspendale,Royal South Yarra,No. 4,Mitchell Fielder,Jack Cooper,Mitchell Fielder,6-3,6,3,1,0,Completed,true,false,false
+UA008081,07 Sep 14,8,Royal South Yarra,BLTC,No. 1,Max Charles,Tom Fisher,Max Charles,6-3,6,3,1,0,Completed,true,false,false
+UA008081,07 Sep 14,8,Royal South Yarra,BLTC,No. 2,Annabel Jones,Shaun Yue,Annabel Jones,6-2,6,2,1,0,Completed,true,false,false
+UA008081,07 Sep 14,8,Royal South Yarra,BLTC,No. 3,Annabel Joubert,Shinya Imazawa,Annabel Joubert,6-1,6,1,1,0,Completed,true,false,false
+UA008081,07 Sep 14,8,Royal South Yarra,BLTC,No. 4,Mimi Holmes,Harrison Cramer,Mimi Holmes,6-4,6,4,1,0,Completed,true,false,false
+UA008082,07 Sep 14,8,Kooyong Scotch 2,Kooyong Scotch 1,No. 1,Jude Hine,Camilla Kaufman,Camilla Kaufman,2-6,2,6,0,1,Completed,true,false,false
+UA008082,07 Sep 14,8,Kooyong Scotch 2,Kooyong Scotch 1,No. 2,Erik Zhuang,Olivia McGrath,Erik Zhuang,6-0,6,0,1,0,Completed,true,false,false
+UA008082,07 Sep 14,8,Kooyong Scotch 2,Kooyong Scotch 1,No. 3,Leo Fetter,Zoe Kantanis,Leo Fetter,6-2,6,2,1,0,Completed,true,false,false
+UA008082,07 Sep 14,8,Kooyong Scotch 2,Kooyong Scotch 1,No. 4,Martin Buttery,Sarah Kaufman,Martin Buttery,6-1,6,1,1,0,Completed,true,false,false
+UA008083,07 Sep 14,8,Aspendale,Maccabi,No. 1,Anthony Cameron,Moshe Wajsbort,Moshe Wajsbort,6-7,6,7,0,1,Completed,true,false,false
+UA008083,07 Sep 14,8,Aspendale,Maccabi,No. 2,Jeremy Cullen,Edward Lichtig,Jeremy Cullen,6-3,6,3,1,0,Completed,true,false,false
+UA008083,07 Sep 14,8,Aspendale,Maccabi,No. 3,Alex Klemm,Judah Slonim,Judah Slonim,1-6,1,6,0,1,Completed,true,false,false
+UA008083,07 Sep 14,8,Aspendale,Maccabi,No. 4,Mitchell Fielder,Eli Paykel-Samuel,Eli Paykel-Samuel,1-6,1,6,0,1,Completed,true,false,false
+UA008084,07 Sep 14,8,Mentone,GPHC,No. 1,Joydeep Ghosh,Andrew Wong,Andrew Wong,4-6,4,6,0,1,Completed,true,false,false
+UA008084,07 Sep 14,8,Mentone,GPHC,No. 2,Haresh Purushothaman,Lachlan Koh,Lachlan Koh,3-6,3,6,0,1,Completed,true,false,false
+UA008084,07 Sep 14,8,Mentone,GPHC,No. 3,Ben Garside,Jack Fuller,Ben Garside,6-3,6,3,1,0,Completed,true,false,false
+UA008084,07 Sep 14,8,Mentone,GPHC,No. 4,Costa Comninacis,Nick Barnett,Costa Comninacis,6-1,6,1,1,0,Completed,true,false,false
+UA008091,14 Sep 14,9,BLTC,Mentone,No. 1,Tom Fisher,Jack Constatine,Jack Constatine,2-6,2,6,0,1,Completed,true,false,false
+UA008091,14 Sep 14,9,BLTC,Mentone,No. 2,Edward Fisher,Joydeep Ghosh,Edward Fisher,7-6,7,6,1,0,Completed,true,false,false
+UA008091,14 Sep 14,9,BLTC,Mentone,No. 3,Shinya Imazawa,Haresh Purushothaman,Haresh Purushothaman,4-6,4,6,0,1,Completed,true,false,false
+UA008091,14 Sep 14,9,BLTC,Mentone,No. 4,Harrison Cramer,Bobby Musikik,Harrison Cramer,6-1,6,1,1,0,Completed,true,false,false
+UA008093,14 Sep 14,9,Maccabi,Kooyong Scotch 2,No. 1,Jordan Jaffe,Jude Hine,Jordan Jaffe,6-4,6,4,1,0,Completed,true,false,false
+UA008093,14 Sep 14,9,Maccabi,Kooyong Scotch 2,No. 2,Edward Lichtig,Hudson Ciavarella,Hudson Ciavarella,3-6,3,6,0,1,Completed,true,false,false
+UA008093,14 Sep 14,9,Maccabi,Kooyong Scotch 2,No. 3,Judah Slonim,Leo Fetter,Judah Slonim,6-1,6,1,1,0,Completed,true,false,false
+UA008093,14 Sep 14,9,Maccabi,Kooyong Scotch 2,No. 4,Ivan Zulman,Erik Zhuang,Ivan Zulman,6-0,6,0,1,0,Completed,true,false,false
+UA008094,14 Sep 14,9,GPHC,Aspendale,No. 1,Andrew Wong,Anthony Cameron,Anthony Cameron,2-6,2,6,0,1,Completed,true,false,false
+UA008094,14 Sep 14,9,GPHC,Aspendale,No. 2,Alex Siouthas,Cooper Walley,Alex Siouthas,6-3,6,3,1,0,Completed,true,false,false
+UA008094,14 Sep 14,9,GPHC,Aspendale,No. 3,Jack Fuller,Alex Klemm,Jack Fuller,6-1,6,1,1,0,Completed,true,false,false
+UA008094,14 Sep 14,9,GPHC,Aspendale,No. 4,Axel Rives,Mitchell Fielder,Axel Rives,6-0,6,0,1,0,Completed,true,false,false
+UA008101,12 Oct 14,10,Aspendale,BLTC,No. 1,Anthony Cameron,Shaun Yue,Anthony Cameron,6-0,6,0,1,0,Completed,true,false,false
+UA008101,12 Oct 14,10,Aspendale,BLTC,No. 2,Jeremy Cullen,Edward Fisher,Jeremy Cullen,6-1,6,1,1,0,Completed,true,false,false
+UA008101,12 Oct 14,10,Aspendale,BLTC,No. 3,Cooper Walley,Shinya Imazawa,Shinya Imazawa,1-6,1,6,0,1,Completed,true,false,false
+UA008101,12 Oct 14,10,Aspendale,BLTC,No. 4,Declan Brightman,Harrison Cramer,Declan Brightman,6-0,6,0,1,0,Completed,true,false,false
+UA008102,12 Oct 14,10,Mentone,Kooyong Scotch 1,No. 1,Jack Constatine,Camilla Kaufman,Jack Constatine,6-2,6,2,1,0,Completed,true,false,false
+UA008102,12 Oct 14,10,Mentone,Kooyong Scotch 1,No. 2,Haresh Purushothaman,Zoe Kantanis,Haresh Purushothaman,7-5,7,5,1,0,Completed,true,false,false
+UA008102,12 Oct 14,10,Mentone,Kooyong Scotch 1,No. 3,Costa Comninacis,Sarah Kaufman,Costa Comninacis,6-1,6,1,1,0,Completed,true,false,false
+UA008102,12 Oct 14,10,Mentone,Kooyong Scotch 1,No. 4,Bobby Musikik,Julia Clarke,Julia Clarke,2-6,2,6,0,1,Completed,true,false,false
+UA008103,12 Oct 14,10,Royal South Yarra,Maccabi,No. 1,Annabel Joubert,Moshe Wajsbort,Moshe Wajsbort,2-6,2,6,0,1,Completed,true,false,false
+UA008103,12 Oct 14,10,Royal South Yarra,Maccabi,No. 2,Annabel Jones,Edward Lichtig,Annabel Jones,6-4,6,4,1,0,Completed,true,false,false
+UA008103,12 Oct 14,10,Royal South Yarra,Maccabi,No. 3,Charlotte Ritman,Eli Paykel-Samuel,Eli Paykel-Samuel,3-6,3,6,0,1,Completed,true,false,false
+UA008103,12 Oct 14,10,Royal South Yarra,Maccabi,No. 4,Bill Cameron,Ivan Zulman,Bill Cameron,6-1,6,1,1,0,Completed,true,false,false
+UA008104,12 Oct 14,10,Kooyong Scotch 2,GPHC,No. 1,Jude Hine,Lachlan Koh,Lachlan Koh,2-6,2,6,0,1,Completed,true,false,false
+UA008104,12 Oct 14,10,Kooyong Scotch 2,GPHC,No. 2,Erik Zhuang,Alex Siouthas,Erik Zhuang,6-0,6,0,1,0,Completed,true,false,false
+UA008104,12 Oct 14,10,Kooyong Scotch 2,GPHC,No. 3,Leo Fetter,Jack Fuller,Leo Fetter,6-2,6,2,1,0,Completed,true,false,false
+UA008104,12 Oct 14,10,Kooyong Scotch 2,GPHC,No. 4,Martin Buttery,Axel Rives,Axel Rives,1-6,1,6,0,1,Completed,true,false,false
+UA008111,19 Oct 14,11,BLTC,Kooyong Scotch 2,No. 1,Tom Fisher,Hudson Ciavarella,Hudson Ciavarella,0-6,0,6,0,1,Completed,true,false,false
+UA008111,19 Oct 14,11,BLTC,Kooyong Scotch 2,No. 2,Shaun Yue,Erik Zhuang,Erik Zhuang,0-6,0,6,0,1,Completed,true,false,false
+UA008111,19 Oct 14,11,BLTC,Kooyong Scotch 2,No. 3,Edward Fisher,Leo Fetter,Edward Fisher,6-2,6,2,1,0,Completed,true,false,false
+UA008111,19 Oct 14,11,BLTC,Kooyong Scotch 2,No. 4,Shinya Imazawa,Martin Buttery,Shinya Imazawa,7-6,7,6,1,0,Completed,true,false,false
+UA008112,19 Oct 14,11,Kooyong Scotch 1,Aspendale,No. 1,Camilla Kaufman,Jeremy Cullen,Jeremy Cullen,4-6,4,6,0,1,Completed,true,false,false
+UA008112,19 Oct 14,11,Kooyong Scotch 1,Aspendale,No. 2,Sophia McGrath,Cooper Walley,Sophia McGrath,6-4,6,4,1,0,Completed,true,false,false
+UA008112,19 Oct 14,11,Kooyong Scotch 1,Aspendale,No. 3,Zoe Kantanis,Alex Klemm,Zoe Kantanis,7-5,7,5,1,0,Completed,true,false,false
+UA008112,19 Oct 14,11,Kooyong Scotch 1,Aspendale,No. 4,Sophia Davis,Mitchell Fielder,Sophia Davis,7-6,7,6,1,0,Completed,true,false,false
+UA008113,19 Oct 14,11,Maccabi,Mentone,No. 1,Jordan Jaffe,Joydeep Ghosh,Jordan Jaffe,6-2,6,2,1,0,Completed,true,false,false
+UA008113,19 Oct 14,11,Maccabi,Mentone,No. 2,Judah Slonim,Haresh Purushothaman,Judah Slonim,6-3,6,3,1,0,Completed,true,false,false
+UA008113,19 Oct 14,11,Maccabi,Mentone,No. 3,Eli Paykel-Samuel,Ben Garside,Ben Garside,1-6,1,6,0,1,Completed,true,false,false
+UA008113,19 Oct 14,11,Maccabi,Mentone,No. 4,Ivan Zulman,Bobby Musikik,Bobby Musikik,2-6,2,6,0,1,Completed,true,false,false
+UA008114,19 Oct 14,11,GPHC,Royal South Yarra,No. 1,Andrew Wong,Annabel Joubert,Annabel Joubert,6-7,6,7,0,1,Completed,true,false,false
+UA008114,19 Oct 14,11,GPHC,Royal South Yarra,No. 2,Lachlan Koh,Annabel Jones,Lachlan Koh,6-3,6,3,1,0,Completed,true,false,false
+UA008114,19 Oct 14,11,GPHC,Royal South Yarra,No. 3,Jack Fuller,Mimi Holmes,Jack Fuller,6-4,6,4,1,0,Completed,true,false,false
+UA008114,19 Oct 14,11,GPHC,Royal South Yarra,No. 4,Nick Barnett,Sam Balmforth,Nick Barnett,6-2,6,2,1,0,Completed,true,false,false
+UA008121,26 Oct 14,12,GPHC,Maccabi,No. 1,Lachlan Koh,Jordan Jaffe,Jordan Jaffe,6-7,6,7,0,1,Completed,true,false,false
+UA008121,26 Oct 14,12,GPHC,Maccabi,No. 2,Jack Fuller,Moshe Wajsbort,Moshe Wajsbort,0-6,0,6,0,1,Completed,true,false,false
+UA008121,26 Oct 14,12,GPHC,Maccabi,No. 3,Nick Barnett,Edward Lichtig,Nick Barnett,6-2,6,2,1,0,Completed,true,false,false
+UA008121,26 Oct 14,12,GPHC,Maccabi,No. 4,Axel Rives,Ivan Zulman,Axel Rives,6-3,6,3,1,0,Completed,true,false,false
+UA008122,26 Oct 14,12,Aspendale,Mentone,No. 1,Anthony Cameron,Jack Constatine,Anthony Cameron,7-5,7,5,1,0,Completed,true,false,false
+UA008122,26 Oct 14,12,Aspendale,Mentone,No. 2,Jeremy Cullen,Haresh Purushothaman,Haresh Purushothaman,4-6,4,6,0,1,Completed,true,false,false
+UA008122,26 Oct 14,12,Aspendale,Mentone,No. 3,Cooper Walley,Ben Garside,Ben Garside,0-6,0,6,0,1,Completed,true,false,false
+UA008122,26 Oct 14,12,Aspendale,Mentone,No. 4,Mitchell Fielder,Costa Comninacis,Costa Comninacis,1-6,1,6,0,1,Completed,true,false,false
+UA008123,26 Oct 14,12,Royal South Yarra,Kooyong Scotch 2,No. 1,Max Charles,Hudson Ciavarella,Max Charles,6-1,6,1,1,0,Completed,true,false,false
+UA008123,26 Oct 14,12,Royal South Yarra,Kooyong Scotch 2,No. 2,Mimi Holmes,Erik Zhuang,Erik Zhuang,1-6,1,6,0,1,Completed,true,false,false
+UA008123,26 Oct 14,12,Royal South Yarra,Kooyong Scotch 2,No. 3,Sam Balmforth,Leo Fetter,Sam Balmforth,6-1,6,1,1,0,Completed,true,false,false
+UA008123,26 Oct 14,12,Royal South Yarra,Kooyong Scotch 2,No. 4,Bill Cameron,Tom Langford,Tom Langford,0-6,0,6,0,1,Completed,true,false,false
+UA008124,26 Oct 14,12,Kooyong Scotch 1,BLTC,No. 1,Camilla Kaufman,Tom Fisher,Camilla Kaufman,7-6,7,6,1,0,Completed,true,false,false
+UA008124,26 Oct 14,12,Kooyong Scotch 1,BLTC,No. 2,Sophia McGrath,Shaun Yue,Sophia McGrath,6-3,6,3,1,0,Completed,true,false,false
+UA008124,26 Oct 14,12,Kooyong Scotch 1,BLTC,No. 3,Zoe Kantanis,Edward Fisher,Edward Fisher,5-7,5,7,0,1,Completed,true,false,false
+UA008124,26 Oct 14,12,Kooyong Scotch 1,BLTC,No. 4,Patrick Wraith-Bell,Harrison Cramer,Patrick Wraith-Bell,6-1,6,1,1,0,Completed,true,false,false
+UA008131,09 Nov 14,13,Maccabi,Kooyong Scotch 1,No. 1,Jordan Jaffe,Camilla Kaufman,Jordan Jaffe,6-2,6,2,1,0,Completed,true,false,false
+UA008131,09 Nov 14,13,Maccabi,Kooyong Scotch 1,No. 2,Moshe Wajsbort,Olivia McGrath,Moshe Wajsbort,6-2,6,2,1,0,Completed,true,false,false
+UA008131,09 Nov 14,13,Maccabi,Kooyong Scotch 1,No. 3,Edward Lichtig,Zoe Kantanis,Zoe Kantanis,3-6,3,6,0,1,Completed,true,false,false
+UA008131,09 Nov 14,13,Maccabi,Kooyong Scotch 1,No. 4,Judah Slonim,Sarah Kaufman,Sarah Kaufman,1-6,1,6,0,1,Completed,true,false,false
+UA008132,09 Nov 14,13,BLTC,GPHC,No. 1,Tom Fisher,Alex Siouthas,Tom Fisher,6-2,6,2,1,0,Completed,true,false,false
+UA008132,09 Nov 14,13,BLTC,GPHC,No. 2,Shaun Yue,Jack Fuller,Jack Fuller,2-6,2,6,0,1,Completed,true,false,false
+UA008132,09 Nov 14,13,BLTC,GPHC,No. 3,Shinya Imazawa,Nick Barnett,Shinya Imazawa,6-2,6,2,1,0,Completed,true,false,false
+UA008132,09 Nov 14,13,BLTC,GPHC,No. 4,Harrison Cramer,Axel Rives,Axel Rives,1-6,1,6,0,1,Completed,true,false,false
+UA008133,09 Nov 14,13,Kooyong Scotch 2,Aspendale,No. 1,Erik Zhuang,Anthony Cameron,Erik Zhuang,7-5,7,5,1,0,Completed,true,false,false
+UA008133,09 Nov 14,13,Kooyong Scotch 2,Aspendale,No. 2,Hudson Ciavarella,Jeremy Cullen,Hudson Ciavarella,6-1,6,1,1,0,Completed,true,false,false
+UA008133,09 Nov 14,13,Kooyong Scotch 2,Aspendale,No. 3,Leo Fetter,Cooper Walley,Leo Fetter,6-4,6,4,1,0,Completed,true,false,false
+UA008133,09 Nov 14,13,Kooyong Scotch 2,Aspendale,No. 4,Martin Buttery,Mitchell Fielder,Martin Buttery,6-2,6,2,1,0,Completed,true,false,false
+UA008134,09 Nov 14,13,Mentone,Royal South Yarra,No. 1,Jack Constatine,Annabel Jones,Jack Constatine,7-6,7,6,1,0,Completed,true,false,false
+UA008134,09 Nov 14,13,Mentone,Royal South Yarra,No. 2,Haresh Purushothaman,Bill Cameron,Bill Cameron,3-6,3,6,0,1,Completed,true,false,false
+UA008134,09 Nov 14,13,Mentone,Royal South Yarra,No. 3,Ben Garside,Sam Balmforth,Ben Garside,6-3,6,3,1,0,Completed,true,false,false
+UA008134,09 Nov 14,13,Mentone,Royal South Yarra,No. 4,Bobby Musikik,Jack Cooper,Jack Cooper,3-6,3,6,0,1,Completed,true,false,false
+UA008301,,16,Mentone,Aspendale,No. 1,Jack Constatine,Anthony Cameron,Anthony Cameron,4-6,4,6,0,1,Completed,true,false,false
+UA008301,,16,Mentone,Aspendale,No. 2,Joydeep Ghosh,Jeremy Cullen,Joydeep Ghosh,7-6,7,6,1,0,Completed,true,false,false
+UA008301,,16,Mentone,Aspendale,No. 3,Haresh Purushothaman,Cooper Walley,Haresh Purushothaman,6-3,6,3,1,0,Completed,true,false,false
+UA008301,,16,Mentone,Aspendale,No. 4,Ben Garside,Alex Klemm,Ben Garside,6-0,6,0,1,0,Completed,true,false,false
+UA008302,,16,Kooyong Scotch 2,GPHC,No. 1,Erik Zhuang,Andrew Wong,Andrew Wong,4-6,4,6,0,1,Completed,true,false,false
+UA008302,,16,Kooyong Scotch 2,GPHC,No. 2,Hudson Ciavarella,Alex Siouthas,Hudson Ciavarella,7-6,7,6,1,0,Completed,true,false,false
+UA008302,,16,Kooyong Scotch 2,GPHC,No. 3,Leo Fetter,Jack Fuller,Leo Fetter,6-4,6,4,1,0,Completed,true,false,false
+UA008302,,16,Kooyong Scotch 2,GPHC,No. 4,Martin Buttery,Axel Rives,Axel Rives,1-6,1,6,0,1,Completed,true,false,false
+UA008321,,17,Mentone,Kooyong Scotch 2,No. 1,Jack Constatine,Jude Hine,Jude Hine,1-6,1,6,0,1,Completed,true,false,false
+UA008321,,17,Mentone,Kooyong Scotch 2,No. 2,Joydeep Ghosh,Erik Zhuang,Erik Zhuang,2-6,2,6,0,1,Completed,true,false,false
+UA008321,,17,Mentone,Kooyong Scotch 2,No. 3,Haresh Purushothaman,Leo Fetter,Haresh Purushothaman,6-3,6,3,1,0,Completed,true,false,false
+UA008321,,17,Mentone,Kooyong Scotch 2,No. 4,Ben Garside,Martin Buttery,Ben Garside,6-3,6,3,1,0,Completed,true,false,false

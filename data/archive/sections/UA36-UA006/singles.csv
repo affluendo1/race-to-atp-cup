@@ -1,0 +1,217 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA006011,02 Feb 25,1,Wattle,BLTC Blue,No. 1,Lachie Rhodes,Aidan Tan,Lachie Rhodes,6-4,6,4,1,0,Completed,true,false,false
+UA006011,02 Feb 25,1,Wattle,BLTC Blue,No. 2,Egor Barabanov,Finley Gehde,Egor Barabanov,6-4,6,4,1,0,Completed,true,false,false
+UA006011,02 Feb 25,1,Wattle,BLTC Blue,No. 3,Felix Hobbs,Giorgio Colla,Felix Hobbs,6-3,6,3,1,0,Completed,true,false,false
+UA006011,02 Feb 25,1,Wattle,BLTC Blue,No. 4,Ignatius Badenoch,Sarah Walker,Ignatius Badenoch,6-3,6,3,1,0,Completed,true,false,false
+UA006012,02 Feb 25,1,Le Page,Victory Park,No. 1,Cedric Conway,Cooper Neal,Cooper Neal,3-6,3,6,0,1,Completed,true,false,false
+UA006012,02 Feb 25,1,Le Page,Victory Park,No. 2,Charles Trinh,Torin Hunter,Charles Trinh,7-5,7,5,1,0,Completed,true,false,false
+UA006012,02 Feb 25,1,Le Page,Victory Park,No. 3,Angus Wang,Evan Yu,Evan Yu,6-7,6,7,0,1,Completed,true,false,false
+UA006012,02 Feb 25,1,Le Page,Victory Park,No. 4,Jonathan Friedman,Kiichi Usui,Kiichi Usui,1-6,1,6,0,1,Completed,true,true,false
+UA006013,02 Feb 25,1,Glen Huntly,GPHC,No. 1,Atticus Dhimann,Jeremy Wong,Atticus Dhimann,6-4,6,4,1,0,Completed,true,false,false
+UA006013,02 Feb 25,1,Glen Huntly,GPHC,No. 2,Tim Kalapoutis,Eli Jeffreys,Tim Kalapoutis,6-1,6,1,1,0,Completed,true,false,false
+UA006013,02 Feb 25,1,Glen Huntly,GPHC,No. 3,Danielius Buividas,Arata Tanaka,Arata Tanaka,6-7,6,7,0,1,Completed,true,false,false
+UA006013,02 Feb 25,1,Glen Huntly,GPHC,No. 4,Gabriel Torres Alvarez,Oscar Hilbert,Gabriel Torres Alvarez,6-2,6,2,1,0,Completed,true,false,false
+UA006014,02 Feb 25,1,Kings Park,Highmoor Uniting,No. 1,Zeyi Xu,Cody Murphy,Cody Murphy,2-6,2,6,0,1,Completed,true,false,false
+UA006014,02 Feb 25,1,Kings Park,Highmoor Uniting,No. 2,Jamie Dodd,Lucas Watson-Thorp,Lucas Watson-Thorp,5-7,5,7,0,1,Completed,true,false,false
+UA006014,02 Feb 25,1,Kings Park,Highmoor Uniting,No. 3,Matthew Dellas,Max Bade,Matthew Dellas,6-4,6,4,1,0,Completed,true,false,false
+UA006014,02 Feb 25,1,Kings Park,Highmoor Uniting,No. 4,Suzanne Shaik,Lachlan Stark,Suzanne Shaik,6-3,6,3,1,0,Completed,true,false,false
+UA006021,09 Feb 25,2,Highmoor Uniting,Wattle,No. 1,Cody Murphy,Lachie Rhodes,Cody Murphy,6-2,6,2,1,0,Completed,true,false,false
+UA006021,09 Feb 25,2,Highmoor Uniting,Wattle,No. 2,Lucas Watson-Thorp,Malek Marouff,Malek Marouff,4-6,4,6,0,1,Completed,true,false,false
+UA006021,09 Feb 25,2,Highmoor Uniting,Wattle,No. 3,Lachlan Stark,Felix Hobbs,Felix Hobbs,1-6,1,6,0,1,Completed,true,false,false
+UA006021,09 Feb 25,2,Highmoor Uniting,Wattle,No. 4,Samuel Wende,Ignatius Badenoch,Ignatius Badenoch,6-7,6,7,0,1,Completed,true,true,false
+UA006022,09 Feb 25,2,BLTC Blue,Le Page,No. 1,Finley Gehde,Cedric Conway,Cedric Conway,2-6,2,6,0,1,Completed,true,false,false
+UA006022,09 Feb 25,2,BLTC Blue,Le Page,No. 2,Giorgio Colla,Angus Wang,Giorgio Colla,6-2,6,2,1,0,Completed,true,false,false
+UA006022,09 Feb 25,2,BLTC Blue,Le Page,No. 3,Zara Measures,Jonathan Friedman,Zara Measures,6-4,6,4,1,0,Completed,true,false,true
+UA006022,09 Feb 25,2,BLTC Blue,Le Page,No. 4,Sophie Turner,Liv Ingleton,Sophie Turner,6-2,6,2,1,0,Completed,true,false,true
+UA006023,09 Feb 25,2,Victory Park,Glen Huntly,No. 1,Cooper Neal,Atticus Dhimann,Atticus Dhimann,3-6,3,6,0,1,Completed,true,false,false
+UA006023,09 Feb 25,2,Victory Park,Glen Huntly,No. 2,Torin Hunter,Tim Kalapoutis,Tim Kalapoutis,4-6,4,6,0,1,Completed,true,false,false
+UA006023,09 Feb 25,2,Victory Park,Glen Huntly,No. 3,Kiichi Usui,Gabriel Torres Alvarez,Gabriel Torres Alvarez,2-6,2,6,0,1,Completed,true,false,false
+UA006023,09 Feb 25,2,Victory Park,Glen Huntly,No. 4,William Yan,Faith Green,William Yan,6-0,6,0,1,0,Completed,true,false,false
+UA006024,09 Feb 25,2,GPHC,Kings Park,No. 1,Jeremy Wong,Evelyn Pajovic,Jeremy Wong,6-1,6,1,1,0,Completed,true,false,false
+UA006024,09 Feb 25,2,GPHC,Kings Park,No. 2,Eli Jeffreys,Zeyi Xu,Zeyi Xu,4-6,4,6,0,1,Completed,true,false,false
+UA006024,09 Feb 25,2,GPHC,Kings Park,No. 3,Luca Speziale,Jamie Dodd,Jamie Dodd,2-6,2,6,0,1,Completed,true,false,false
+UA006024,09 Feb 25,2,GPHC,Kings Park,No. 4,Jack Boussioutas,Suzanne Shaik,Jack Boussioutas,6-2,6,2,1,0,Completed,true,false,false
+UA006031,16 Feb 25,3,Wattle,GPHC,No. 1,Lachie Rhodes,Jeremy Wong,Jeremy Wong,4-6,4,6,0,1,Completed,true,false,false
+UA006031,16 Feb 25,3,Wattle,GPHC,No. 2,Egor Barabanov,Arata Tanaka,Egor Barabanov,7-5,7,5,1,0,Completed,true,false,false
+UA006031,16 Feb 25,3,Wattle,GPHC,No. 3,Felix Hobbs,Oscar Hilbert,Oscar Hilbert,5-7,5,7,0,1,Completed,true,false,false
+UA006031,16 Feb 25,3,Wattle,GPHC,No. 4,Chloe Fernandez,Jack Boussioutas,Jack Boussioutas,1-6,1,6,0,1,Completed,true,false,false
+UA006032,16 Feb 25,3,Le Page,Highmoor Uniting,No. 1,Cedric Conway,Cody Murphy,Cody Murphy,2-6,2,6,0,1,Completed,true,false,false
+UA006032,16 Feb 25,3,Le Page,Highmoor Uniting,No. 2,Charles Trinh,Lucas Watson-Thorp,Charles Trinh,6-2,6,2,1,0,Completed,true,false,false
+UA006032,16 Feb 25,3,Le Page,Highmoor Uniting,No. 3,Angus Wang,Max Bade,Max Bade,2-6,2,6,0,1,Completed,true,false,false
+UA006032,16 Feb 25,3,Le Page,Highmoor Uniting,No. 4,Jonathan Friedman,Lachlan Stark,Lachlan Stark,3-6,3,6,0,1,Completed,true,true,false
+UA006033,16 Feb 25,3,Glen Huntly,BLTC Blue,No. 1,Atticus Dhimann,Aidan Tan,Aidan Tan,3-6,3,6,0,1,Completed,true,false,false
+UA006033,16 Feb 25,3,Glen Huntly,BLTC Blue,No. 2,Tim Kalapoutis,Giorgio Colla,Tim Kalapoutis,6-0,6,0,1,0,Completed,true,false,false
+UA006033,16 Feb 25,3,Glen Huntly,BLTC Blue,No. 3,Gabriel Torres Alvarez,Sarah Walker,Sarah Walker,2-6,2,6,0,1,Completed,true,false,false
+UA006033,16 Feb 25,3,Glen Huntly,BLTC Blue,No. 4,Danielius Buividas,Sophie Turner,Sophie Turner,1-6,1,6,0,1,Completed,true,false,false
+UA006034,16 Feb 25,3,Kings Park,Victory Park,No. 1,Evelyn Pajovic,Cooper Neal,Cooper Neal,5-7,5,7,0,1,Completed,true,false,false
+UA006034,16 Feb 25,3,Kings Park,Victory Park,No. 2,Zeyi Xu,Torin Hunter,Zeyi Xu,6-3,6,3,1,0,Completed,true,false,false
+UA006034,16 Feb 25,3,Kings Park,Victory Park,No. 3,Matthew Dellas,Evan Yu,Evan Yu,4-6,4,6,0,1,Completed,true,false,false
+UA006034,16 Feb 25,3,Kings Park,Victory Park,No. 4,Suzanne Shaik,William Yan,William Yan,1-6,1,6,0,1,Completed,true,false,false
+UA006041,23 Feb 25,4,Victory Park,Wattle,No. 1,Torin Hunter,Egor Barabanov,Torin Hunter,6-1,6,1,1,0,Completed,true,false,false
+UA006041,23 Feb 25,4,Victory Park,Wattle,No. 2,Evan Yu,Felix Hobbs,Felix Hobbs,3-6,3,6,0,1,Completed,true,false,false
+UA006041,23 Feb 25,4,Victory Park,Wattle,No. 3,Kiichi Usui,Ignatius Badenoch,Ignatius Badenoch,1-6,1,6,0,1,Completed,true,false,false
+UA006041,23 Feb 25,4,Victory Park,Wattle,No. 4,William Yan,Chloe Fernandez,Chloe Fernandez,3-6,3,6,0,1,Completed,true,false,false
+UA006042,23 Feb 25,4,GPHC,Le Page,No. 1,Eli Jeffreys,Cedric Conway,Eli Jeffreys,6-4,6,4,1,0,Completed,true,false,false
+UA006042,23 Feb 25,4,GPHC,Le Page,No. 2,Arata Tanaka,Charles Trinh,Arata Tanaka,6-3,6,3,1,0,Completed,true,false,false
+UA006042,23 Feb 25,4,GPHC,Le Page,No. 3,Oscar Hilbert,Angus Wang,Oscar Hilbert,6-3,6,3,1,0,Completed,true,false,false
+UA006042,23 Feb 25,4,GPHC,Le Page,No. 4,Luca Speziale,Jonathan Friedman,Luca Speziale,6-2,6,2,1,0,Completed,true,false,true
+UA006043,23 Feb 25,4,Highmoor Uniting,Glen Huntly,No. 1,Cody Murphy,Atticus Dhimann,Cody Murphy,6-3,6,3,1,0,Completed,true,false,false
+UA006043,23 Feb 25,4,Highmoor Uniting,Glen Huntly,No. 2,Max Bade,Tim Kalapoutis,Tim Kalapoutis,3-6,3,6,0,1,Completed,true,false,false
+UA006043,23 Feb 25,4,Highmoor Uniting,Glen Huntly,No. 3,Lachlan Stark,Danielius Buividas,Lachlan Stark,6-2,6,2,1,0,Completed,true,false,false
+UA006043,23 Feb 25,4,Highmoor Uniting,Glen Huntly,No. 4,Samuel Wende,Faith Green,Faith Green,3-6,3,6,0,1,Completed,true,true,false
+UA006044,23 Feb 25,4,BLTC Blue,Kings Park,No. 1,Aidan Tan,Evelyn Pajovic,Evelyn Pajovic,1-6,1,6,0,1,Completed,true,false,false
+UA006044,23 Feb 25,4,BLTC Blue,Kings Park,No. 2,Finley Gehde,Zeyi Xu,Zeyi Xu,2-6,2,6,0,1,Completed,true,false,false
+UA006044,23 Feb 25,4,BLTC Blue,Kings Park,No. 3,Giorgio Colla,Jamie Dodd,Jamie Dodd,4-6,4,6,0,1,Completed,true,false,false
+UA006044,23 Feb 25,4,BLTC Blue,Kings Park,No. 4,Sophie Turner,Jude Horchner,Sophie Turner,6-1,6,1,1,0,Completed,true,false,false
+UA006051,02 Mar 25,5,Glen Huntly,Kings Park,No. 1,Atticus Dhimann,Evelyn Pajovic,Atticus Dhimann,6-3,6,3,1,0,Completed,true,false,false
+UA006051,02 Mar 25,5,Glen Huntly,Kings Park,No. 2,Tim Kalapoutis,Zeyi Xu,Tim Kalapoutis,6-0,6,0,1,0,Completed,true,false,false
+UA006051,02 Mar 25,5,Glen Huntly,Kings Park,No. 3,Gabriel Torres Alvarez,Jamie Dodd,Gabriel Torres Alvarez,6-1,6,1,1,0,Completed,true,false,false
+UA006051,02 Mar 25,5,Glen Huntly,Kings Park,No. 4,Danielius Buividas,Matthew Dellas,Matthew Dellas,2-6,2,6,0,1,Completed,true,false,false
+UA006052,02 Mar 25,5,Highmoor Uniting,GPHC,No. 1,Lucas Watson-Thorp,Eli Jeffreys,Lucas Watson-Thorp,7-6,7,6,1,0,Completed,true,false,false
+UA006052,02 Mar 25,5,Highmoor Uniting,GPHC,No. 2,Max Bade,Oscar Hilbert,Oscar Hilbert,4-6,4,6,0,1,Completed,true,false,false
+UA006052,02 Mar 25,5,Highmoor Uniting,GPHC,No. 3,Lachlan Stark,Luca Speziale,Luca Speziale,4-6,4,6,0,1,Completed,true,false,false
+UA006052,02 Mar 25,5,Highmoor Uniting,GPHC,No. 4,Samuel Wende,Jack Boussioutas,Jack Boussioutas,1-6,1,6,0,1,Completed,true,true,false
+UA006053,02 Mar 25,5,Victory Park,BLTC Blue,No. 1,Cooper Neal,Aidan Tan,Aidan Tan,2-6,2,6,0,1,Completed,true,false,false
+UA006053,02 Mar 25,5,Victory Park,BLTC Blue,No. 2,Evan Yu,Finley Gehde,Finley Gehde,1-6,1,6,0,1,Completed,true,false,false
+UA006053,02 Mar 25,5,Victory Park,BLTC Blue,No. 3,Kiichi Usui,Sarah Walker,Kiichi Usui,7-6,7,6,1,0,Completed,true,false,false
+UA006053,02 Mar 25,5,Victory Park,BLTC Blue,No. 4,William Yan,Megan Rato,William Yan,6-3,6,3,1,0,Completed,true,false,true
+UA006054,02 Mar 25,5,Wattle,Le Page,No. 1,Malek Marouff,Cedric Conway,Cedric Conway,3-6,3,6,0,1,Completed,true,false,false
+UA006054,02 Mar 25,5,Wattle,Le Page,No. 2,Egor Barabanov,Charles Trinh,Egor Barabanov,7-6,7,6,1,0,Completed,true,false,false
+UA006054,02 Mar 25,5,Wattle,Le Page,No. 3,Felix Hobbs,Angus Wang,Felix Hobbs,6-4,6,4,1,0,Completed,true,false,false
+UA006054,02 Mar 25,5,Wattle,Le Page,No. 4,Ignatius Badenoch,Harvey Conway,Ignatius Badenoch,6-0,6,0,1,0,Completed,true,false,true
+UA006071,23 Mar 25,7,Wattle,Glen Huntly,No. 1,Lachie Rhodes,Atticus Dhimann,Lachie Rhodes,6-4,6,4,1,0,Completed,true,false,false
+UA006071,23 Mar 25,7,Wattle,Glen Huntly,No. 2,Egor Barabanov,Tim Kalapoutis,Egor Barabanov,7-6,7,6,1,0,Completed,true,false,false
+UA006071,23 Mar 25,7,Wattle,Glen Huntly,No. 3,Ignatius Badenoch,Gabriel Torres Alvarez,Ignatius Badenoch,6-2,6,2,1,0,Completed,true,false,false
+UA006071,23 Mar 25,7,Wattle,Glen Huntly,No. 4,Chloe Fernandez,Danielius Buividas,Chloe Fernandez,7-5,7,5,1,0,Completed,true,false,false
+UA006072,23 Mar 25,7,Le Page,Kings Park,No. 1,Cedric Conway,Zeyi Xu,Zeyi Xu,4-6,4,6,0,1,Completed,true,false,false
+UA006072,23 Mar 25,7,Le Page,Kings Park,No. 2,Charles Trinh,Jamie Dodd,Charles Trinh,6-2,6,2,1,0,Completed,true,false,false
+UA006072,23 Mar 25,7,Le Page,Kings Park,No. 3,Angus Wang,Suzanne Shaik,Suzanne Shaik,4-6,4,6,0,1,Completed,true,false,false
+UA006072,23 Mar 25,7,Le Page,Kings Park,No. 4,Jonathan Friedman,Jude Horchner,Jude Horchner,2-6,2,6,0,1,Completed,true,true,false
+UA006073,23 Mar 25,7,Highmoor Uniting,Victory Park,No. 1,Cody Murphy,Cooper Neal,Cody Murphy,6-2,6,2,1,0,Completed,true,false,false
+UA006073,23 Mar 25,7,Highmoor Uniting,Victory Park,No. 2,Lucas Watson-Thorp,Evan Yu,Lucas Watson-Thorp,6-2,6,2,1,0,Completed,true,false,false
+UA006073,23 Mar 25,7,Highmoor Uniting,Victory Park,No. 3,Lachlan Stark,William Yan,William Yan,6-7,6,7,0,1,Completed,true,false,false
+UA006073,23 Mar 25,7,Highmoor Uniting,Victory Park,No. 4,Samuel Wende,Hanbo Zhang,Hanbo Zhang,1-6,1,6,0,1,Completed,true,true,false
+UA006074,23 Mar 25,7,GPHC,BLTC Blue,No. 1,Arata Tanaka,Aidan Tan,Aidan Tan,1-6,1,6,0,1,Completed,true,false,false
+UA006074,23 Mar 25,7,GPHC,BLTC Blue,No. 2,Oscar Hilbert,Finley Gehde,Oscar Hilbert,6-2,6,2,1,0,Completed,true,false,false
+UA006074,23 Mar 25,7,GPHC,BLTC Blue,No. 3,Luca Speziale,Zara Measures,Luca Speziale,6-3,6,3,1,0,Completed,true,false,false
+UA006074,23 Mar 25,7,GPHC,BLTC Blue,No. 4,Jack Boussioutas,Sophie Turner,Jack Boussioutas,6-4,6,4,1,0,Completed,true,false,false
+UA006081,30 Mar 25,8,BLTC Blue,Wattle,No. 1,Aidan Tan,Lachie Rhodes,Lachie Rhodes,2-6,2,6,0,1,Completed,true,false,false
+UA006081,30 Mar 25,8,BLTC Blue,Wattle,No. 2,Giorgio Colla,Malek Marouff,Malek Marouff,3-6,3,6,0,1,Completed,true,false,false
+UA006081,30 Mar 25,8,BLTC Blue,Wattle,No. 3,Sarah Walker,Felix Hobbs,Felix Hobbs,3-6,3,6,0,1,Completed,true,false,false
+UA006081,30 Mar 25,8,BLTC Blue,Wattle,No. 4,Zara Measures,Ignatius Badenoch,Zara Measures,6-2,6,2,1,0,Completed,true,false,false
+UA006082,30 Mar 25,8,Victory Park,Le Page,No. 1,Cooper Neal,Cedric Conway,Cooper Neal,7-6,7,6,1,0,Completed,true,false,false
+UA006082,30 Mar 25,8,Victory Park,Le Page,No. 2,Torin Hunter,Charles Trinh,Torin Hunter,7-5,7,5,1,0,Completed,true,false,false
+UA006082,30 Mar 25,8,Victory Park,Le Page,No. 3,Kiichi Usui,Jacinta Li,Kiichi Usui,6-1,6,1,1,0,Completed,true,false,false
+UA006082,30 Mar 25,8,Victory Park,Le Page,No. 4,Hanbo Zhang,Angus Wang,Hanbo Zhang,6-1,6,1,1,0,Completed,true,false,false
+UA006083,30 Mar 25,8,GPHC,Glen Huntly,No. 1,Jeremy Wong,Atticus Dhimann,Jeremy Wong,6-1,6,1,1,0,Completed,true,false,false
+UA006083,30 Mar 25,8,GPHC,Glen Huntly,No. 2,Eli Jeffreys,Tim Kalapoutis,Tim Kalapoutis,3-6,3,6,0,1,Completed,true,false,false
+UA006083,30 Mar 25,8,GPHC,Glen Huntly,No. 3,Arata Tanaka,Gabriel Torres Alvarez,Arata Tanaka,7-6,7,6,1,0,Completed,true,false,false
+UA006083,30 Mar 25,8,GPHC,Glen Huntly,No. 4,Luca Speziale,Faith Green,Luca Speziale,6-1,6,1,1,0,Completed,true,false,false
+UA006084,30 Mar 25,8,Highmoor Uniting,Kings Park,No. 1,Cody Murphy,Evelyn Pajovic,Cody Murphy,6-0,6,0,1,0,Completed,true,false,false
+UA006084,30 Mar 25,8,Highmoor Uniting,Kings Park,No. 2,Lucas Watson-Thorp,Jamie Dodd,Jamie Dodd,2-6,2,6,0,1,Completed,true,false,false
+UA006084,30 Mar 25,8,Highmoor Uniting,Kings Park,No. 3,Lachlan Stark,Matthew Dellas,Matthew Dellas,4-6,4,6,0,1,Completed,true,false,false
+UA006084,30 Mar 25,8,Highmoor Uniting,Kings Park,No. 4,Samuel Wende,Suzanne Shaik,Samuel Wende,6-4,6,4,1,0,Completed,true,true,false
+UA006091,04 May 25,9,Wattle,Highmoor Uniting,No. 1,Malek Marouff,Cody Murphy,Cody Murphy,1-6,1,6,0,1,Completed,true,false,false
+UA006091,04 May 25,9,Wattle,Highmoor Uniting,No. 2,Egor Barabanov,Lucas Watson-Thorp,Egor Barabanov,6-3,6,3,1,0,Completed,true,false,false
+UA006091,04 May 25,9,Wattle,Highmoor Uniting,No. 3,Felix Hobbs,Lachlan Stark,Felix Hobbs,6-0,6,0,1,0,Completed,true,false,false
+UA006091,04 May 25,9,Wattle,Highmoor Uniting,No. 4,Ignatius Badenoch,Samuel Wende,Ignatius Badenoch,6-2,6,2,1,0,Completed,true,false,true
+UA006092,04 May 25,9,Le Page,BLTC Blue,No. 1,Cedric Conway,Minato Sata,Minato Sata,4-6,4,6,0,1,Completed,true,false,true
+UA006092,04 May 25,9,Le Page,BLTC Blue,No. 2,Charles Trinh,Giorgio Colla,Charles Trinh,6-3,6,3,1,0,Completed,true,false,false
+UA006092,04 May 25,9,Le Page,BLTC Blue,No. 3,Angus Wang,Sophie Turner,Sophie Turner,2-6,2,6,0,1,Completed,true,false,false
+UA006092,04 May 25,9,Le Page,BLTC Blue,No. 4,Jonathan Friedman,Drishti Patel,Jonathan Friedman,6-2,6,2,1,0,Completed,true,true,true
+UA006093,04 May 25,9,Glen Huntly,Victory Park,No. 1,Atticus Dhimann,Torin Hunter,Atticus Dhimann,6-4,6,4,1,0,Completed,true,false,false
+UA006093,04 May 25,9,Glen Huntly,Victory Park,No. 2,Tim Kalapoutis,Evan Yu,Tim Kalapoutis,6-2,6,2,1,0,Completed,true,false,false
+UA006093,04 May 25,9,Glen Huntly,Victory Park,No. 3,Danielius Buividas,Kiichi Usui,Danielius Buividas,6-1,6,1,1,0,Completed,true,false,false
+UA006093,04 May 25,9,Glen Huntly,Victory Park,No. 4,Faith Green,William Yan,William Yan,3-6,3,6,0,1,Completed,true,false,false
+UA006094,04 May 25,9,Kings Park,GPHC,No. 1,Evelyn Pajovic,Jeremy Wong,Jeremy Wong,0-6,0,6,0,1,Completed,true,false,false
+UA006094,04 May 25,9,Kings Park,GPHC,No. 2,Zeyi Xu,Eli Jeffreys,Eli Jeffreys,4-6,4,6,0,1,Completed,true,false,false
+UA006094,04 May 25,9,Kings Park,GPHC,No. 3,Matthew Dellas,Arata Tanaka,Arata Tanaka,3-6,3,6,0,1,Completed,true,false,false
+UA006094,04 May 25,9,Kings Park,GPHC,No. 4,Jude Horchner,Luca Speziale,Jude Horchner,6-1,6,1,1,0,Completed,true,false,false
+UA006101,11 May 25,10,GPHC,Wattle,No. 1,Jeremy Wong,Lachie Rhodes,Lachie Rhodes,3-6,3,6,0,1,Completed,true,false,false
+UA006101,11 May 25,10,GPHC,Wattle,No. 2,Eli Jeffreys,Egor Barabanov,Egor Barabanov,4-6,4,6,0,1,Completed,true,false,false
+UA006101,11 May 25,10,GPHC,Wattle,No. 3,Oscar Hilbert,Ignatius Badenoch,Oscar Hilbert,6-3,6,3,1,0,Completed,true,false,false
+UA006101,11 May 25,10,GPHC,Wattle,No. 4,Jack Boussioutas,Chloe Fernandez,Chloe Fernandez,5-7,5,7,0,1,Completed,true,false,false
+UA006102,11 May 25,10,Highmoor Uniting,Le Page,No. 1,Cody Murphy,Cedric Conway,Cody Murphy,6-2,6,2,1,0,Completed,true,false,false
+UA006102,11 May 25,10,Highmoor Uniting,Le Page,No. 2,Lucas Watson-Thorp,Charles Trinh,Charles Trinh,2-6,2,6,0,1,Completed,true,false,false
+UA006102,11 May 25,10,Highmoor Uniting,Le Page,No. 3,Lachlan Stark,Angus Wang,Lachlan Stark,6-3,6,3,1,0,Completed,true,false,false
+UA006102,11 May 25,10,Highmoor Uniting,Le Page,No. 4,Samuel Wende,Jonathan Friedman,Samuel Wende,7-6,7,6,1,0,Completed,true,true,true
+UA006103,11 May 25,10,BLTC Blue,Glen Huntly,No. 1,Aidan Tan,Atticus Dhimann,Aidan Tan,6-4,6,4,1,0,Completed,true,false,false
+UA006103,11 May 25,10,BLTC Blue,Glen Huntly,No. 2,Finley Gehde,Isaac Egre,Isaac Egre,2-6,2,6,0,1,Completed,true,false,false
+UA006103,11 May 25,10,BLTC Blue,Glen Huntly,No. 3,Zara Measures,Tim Kalapoutis,Zara Measures,6-0,6,0,1,0,Completed,true,false,false
+UA006103,11 May 25,10,BLTC Blue,Glen Huntly,No. 4,Sophie Turner,Danielius Buividas,Sophie Turner,6-0,6,0,1,0,Completed,true,false,false
+UA006104,11 May 25,10,Victory Park,Kings Park,No. 1,Cooper Neal,Evelyn Pajovic,Evelyn Pajovic,3-6,3,6,0,1,Completed,true,false,false
+UA006104,11 May 25,10,Victory Park,Kings Park,No. 2,Torin Hunter,Zeyi Xu,Zeyi Xu,5-7,5,7,0,1,Completed,true,false,false
+UA006104,11 May 25,10,Victory Park,Kings Park,No. 3,Evan Yu,Matthew Dellas,Matthew Dellas,3-6,3,6,0,1,Completed,true,false,false
+UA006104,11 May 25,10,Victory Park,Kings Park,No. 4,Hanbo Zhang,Jude Horchner,Hanbo Zhang,6-2,6,2,1,0,Completed,true,false,false
+UA006111,18 May 25,11,Wattle,Victory Park,No. 1,Lachie Rhodes,Cooper Neal,Lachie Rhodes,6-3,6,3,1,0,Completed,true,false,false
+UA006111,18 May 25,11,Wattle,Victory Park,No. 2,Malek Marouff,Evan Yu,Evan Yu,2-6,2,6,0,1,Completed,true,false,false
+UA006111,18 May 25,11,Wattle,Victory Park,No. 3,Felix Hobbs,Kiichi Usui,Felix Hobbs,6-3,6,3,1,0,Completed,true,false,false
+UA006111,18 May 25,11,Wattle,Victory Park,No. 4,Ignatius Badenoch,William Yan,Ignatius Badenoch,6-3,6,3,1,0,Completed,true,false,false
+UA006113,18 May 25,11,Glen Huntly,Highmoor Uniting,No. 1,Tim Kalapoutis,Cody Murphy,Tim Kalapoutis,6-4,6,4,1,0,Completed,true,false,false
+UA006113,18 May 25,11,Glen Huntly,Highmoor Uniting,No. 2,Gabriel Torres Alvarez,Lucas Watson-Thorp,Gabriel Torres Alvarez,6-1,6,1,1,0,Completed,true,false,false
+UA006113,18 May 25,11,Glen Huntly,Highmoor Uniting,No. 3,Danielius Buividas,Lachlan Stark,Lachlan Stark,5-7,5,7,0,1,Completed,true,false,false
+UA006113,18 May 25,11,Glen Huntly,Highmoor Uniting,No. 4,Faith Green,[Unnamed player — TROLS UA006113 away code 4],Faith Green,6-0,6,0,1,0,Completed,false,false,false
+UA006114,18 May 25,11,Kings Park,BLTC Blue,No. 1,Evelyn Pajovic,Minato Sata,Minato Sata,2-6,2,6,0,1,Completed,true,false,true
+UA006114,18 May 25,11,Kings Park,BLTC Blue,No. 2,Zeyi Xu,Louis Wu,Louis Wu,4-6,4,6,0,1,Completed,true,false,true
+UA006114,18 May 25,11,Kings Park,BLTC Blue,No. 3,Jamie Dodd,Giorgio Colla,Jamie Dodd,6-3,6,3,1,0,Completed,true,false,false
+UA006114,18 May 25,11,Kings Park,BLTC Blue,No. 4,Matthew Dellas,Sophie Turner,Sophie Turner,2-6,2,6,0,1,Completed,true,false,false
+UA006121,25 May 25,12,Kings Park,Glen Huntly,No. 1,Evelyn Pajovic,Atticus Dhimann,Atticus Dhimann,2-6,2,6,0,1,Completed,true,false,false
+UA006121,25 May 25,12,Kings Park,Glen Huntly,No. 2,Zeyi Xu,Tim Kalapoutis,Tim Kalapoutis,0-6,0,6,0,1,Completed,true,false,false
+UA006121,25 May 25,12,Kings Park,Glen Huntly,No. 3,Jamie Dodd,Gabriel Torres Alvarez,Gabriel Torres Alvarez,1-6,1,6,0,1,Completed,true,false,false
+UA006121,25 May 25,12,Kings Park,Glen Huntly,No. 4,Matthew Dellas,Faith Green,Matthew Dellas,6-3,6,3,1,0,Completed,true,false,false
+UA006122,25 May 25,12,GPHC,Highmoor Uniting,No. 1,Eli Jeffreys,Cody Murphy,Cody Murphy,3-6,3,6,0,1,Completed,true,false,false
+UA006122,25 May 25,12,GPHC,Highmoor Uniting,No. 2,Arata Tanaka,Lucas Watson-Thorp,Lucas Watson-Thorp,2-6,2,6,0,1,Completed,true,false,false
+UA006122,25 May 25,12,GPHC,Highmoor Uniting,No. 3,Oscar Hilbert,Lachlan Stark,Lachlan Stark,4-6,4,6,0,1,Completed,true,false,false
+UA006122,25 May 25,12,GPHC,Highmoor Uniting,No. 4,Luca Speziale,Samuel Wende,Luca Speziale,6-2,6,2,1,0,Completed,true,false,true
+UA006123,25 May 25,12,BLTC Blue,Victory Park,No. 1,Finley Gehde,Torin Hunter,Torin Hunter,2-6,2,6,0,1,Completed,true,false,false
+UA006123,25 May 25,12,BLTC Blue,Victory Park,No. 2,Giorgio Colla,Kiichi Usui,Kiichi Usui,4-6,4,6,0,1,Completed,true,false,false
+UA006123,25 May 25,12,BLTC Blue,Victory Park,No. 3,Zara Measures,William Yan,William Yan,2-6,2,6,0,1,Completed,true,false,false
+UA006123,25 May 25,12,BLTC Blue,Victory Park,No. 4,Sophie Turner,Hanbo Zhang,Hanbo Zhang,4-6,4,6,0,1,Completed,true,false,false
+UA006124,25 May 25,12,Le Page,Wattle,No. 1,Cedric Conway,Lachie Rhodes,Lachie Rhodes,2-6,2,6,0,1,Completed,true,false,false
+UA006124,25 May 25,12,Le Page,Wattle,No. 2,Charles Trinh,Malek Marouff,Charles Trinh,6-4,6,4,1,0,Completed,true,false,false
+UA006124,25 May 25,12,Le Page,Wattle,No. 3,Angus Wang,Egor Barabanov,Egor Barabanov,1-6,1,6,0,1,Completed,true,false,false
+UA006124,25 May 25,12,Le Page,Wattle,No. 4,Jonathan Friedman,Felix Hobbs,Felix Hobbs,0-6,0,6,0,1,Completed,true,true,false
+UA006131,01 Jun 25,13,Glen Huntly,Le Page,No. 1,Atticus Dhimann,Cedric Conway,Atticus Dhimann,6-3,6,3,1,0,Completed,true,false,false
+UA006131,01 Jun 25,13,Glen Huntly,Le Page,No. 2,Tim Kalapoutis,Charles Trinh,Tim Kalapoutis,7-5,7,5,1,0,Completed,true,false,false
+UA006131,01 Jun 25,13,Glen Huntly,Le Page,No. 3,Gabriel Torres Alvarez,Angus Wang,Gabriel Torres Alvarez,6-1,6,1,1,0,Completed,true,false,false
+UA006131,01 Jun 25,13,Glen Huntly,Le Page,No. 4,Faith Green,Jonathan Friedman,Faith Green,6-2,6,2,1,0,Completed,true,false,true
+UA006132,01 Jun 25,13,Wattle,Kings Park,No. 1,Lachie Rhodes,Evelyn Pajovic,Lachie Rhodes,6-0,6,0,1,0,Completed,true,false,false
+UA006132,01 Jun 25,13,Wattle,Kings Park,No. 2,Egor Barabanov,Zeyi Xu,Egor Barabanov,6-1,6,1,1,0,Completed,true,false,false
+UA006132,01 Jun 25,13,Wattle,Kings Park,No. 3,Ignatius Badenoch,Jamie Dodd,Ignatius Badenoch,6-4,6,4,1,0,Completed,true,false,false
+UA006132,01 Jun 25,13,Wattle,Kings Park,No. 4,Chloe Fernandez,Matthew Dellas,Chloe Fernandez,6-2,6,2,1,0,Completed,true,false,false
+UA006133,01 Jun 25,13,Victory Park,GPHC,No. 1,Cooper Neal,Jeremy Wong,Cooper Neal,7-6,7,6,1,0,Completed,true,false,false
+UA006133,01 Jun 25,13,Victory Park,GPHC,No. 2,Torin Hunter,Arata Tanaka,Torin Hunter,7-6,7,6,1,0,Completed,true,false,false
+UA006133,01 Jun 25,13,Victory Park,GPHC,No. 3,Evan Yu,Oscar Hilbert,Oscar Hilbert,4-6,4,6,0,1,Completed,true,false,false
+UA006133,01 Jun 25,13,Victory Park,GPHC,No. 4,Hanbo Zhang,Luca Speziale,Hanbo Zhang,6-0,6,0,1,0,Completed,true,false,false
+UA006134,01 Jun 25,13,Highmoor Uniting,BLTC Blue,No. 1,Cody Murphy,Lauren Ng,Lauren Ng,2-6,2,6,0,1,Completed,true,false,true
+UA006134,01 Jun 25,13,Highmoor Uniting,BLTC Blue,No. 2,Lucas Watson-Thorp,Oscar Moxi Yu,Oscar Moxi Yu,2-6,2,6,0,1,Completed,true,false,true
+UA006134,01 Jun 25,13,Highmoor Uniting,BLTC Blue,No. 3,Lachlan Stark,Giorgio Colla,Lachlan Stark,6-1,6,1,1,0,Completed,true,false,false
+UA006134,01 Jun 25,13,Highmoor Uniting,BLTC Blue,No. 4,Samuel Wende,Finley Gehde,Samuel Wende,6-0,6,0,1,0,Completed,true,true,false
+UA006141,15 Jun 25,14,Glen Huntly,Wattle,No. 1,Atticus Dhimann,Malek Marouff,Atticus Dhimann,6-1,6,1,1,0,Completed,true,false,false
+UA006141,15 Jun 25,14,Glen Huntly,Wattle,No. 2,Tim Kalapoutis,Felix Hobbs,Tim Kalapoutis,6-2,6,2,1,0,Completed,true,false,false
+UA006141,15 Jun 25,14,Glen Huntly,Wattle,No. 3,Gabriel Torres Alvarez,Ignatius Badenoch,Ignatius Badenoch,3-6,3,6,0,1,Completed,true,false,false
+UA006141,15 Jun 25,14,Glen Huntly,Wattle,No. 4,Danielius Buividas,Chloe Fernandez,Chloe Fernandez,5-7,5,7,0,1,Completed,true,false,false
+UA006142,15 Jun 25,14,Kings Park,Le Page,No. 1,Evelyn Pajovic,Cedric Conway,Cedric Conway,2-6,2,6,0,1,Completed,true,false,false
+UA006142,15 Jun 25,14,Kings Park,Le Page,No. 2,Zeyi Xu,Charles Trinh,Charles Trinh,0-6,0,6,0,1,Completed,true,false,false
+UA006142,15 Jun 25,14,Kings Park,Le Page,No. 3,Jamie Dodd,Angus Wang,Jamie Dodd,6-1,6,1,1,0,Completed,true,false,false
+UA006142,15 Jun 25,14,Kings Park,Le Page,No. 4,Matthew Dellas,Jonathan Friedman,Matthew Dellas,6-2,6,2,1,0,Completed,true,false,true
+UA006143,15 Jun 25,14,Victory Park,Highmoor Uniting,No. 1,Cooper Neal,Cody Murphy,Cooper Neal,6-4,6,4,1,0,Completed,true,false,false
+UA006143,15 Jun 25,14,Victory Park,Highmoor Uniting,No. 2,Torin Hunter,Lucas Watson-Thorp,Torin Hunter,6-1,6,1,1,0,Completed,true,false,false
+UA006143,15 Jun 25,14,Victory Park,Highmoor Uniting,No. 3,Evan Yu,Lachlan Stark,Evan Yu,6-3,6,3,1,0,Completed,true,false,false
+UA006143,15 Jun 25,14,Victory Park,Highmoor Uniting,No. 4,Kiichi Usui,Samuel Wende,Kiichi Usui,6-2,6,2,1,0,Completed,true,false,true
+UA006144,15 Jun 25,14,BLTC Blue,GPHC,No. 1,Derek You,Jeremy Wong,Derek You,7-6,7,6,1,0,Completed,true,true,false
+UA006144,15 Jun 25,14,BLTC Blue,GPHC,No. 2,Finley Gehde,Arata Tanaka,Arata Tanaka,2-6,2,6,0,1,Completed,true,false,false
+UA006144,15 Jun 25,14,BLTC Blue,GPHC,No. 3,Giorgio Colla,Oscar Hilbert,Giorgio Colla,6-3,6,3,1,0,Completed,true,false,false
+UA006144,15 Jun 25,14,BLTC Blue,GPHC,No. 4,Zara Measures,Jack Boussioutas,Jack Boussioutas,3-6,3,6,0,1,Completed,true,false,false
+UA006301,,16,Wattle,Victory Park,No. 1,Malek Marouff,Cooper Neal,Cooper Neal,2-6,2,6,0,1,Completed,true,false,false
+UA006301,,16,Wattle,Victory Park,No. 2,Egor Barabanov,Torin Hunter,Egor Barabanov,6-3,6,3,1,0,Completed,true,false,false
+UA006301,,16,Wattle,Victory Park,No. 3,Felix Hobbs,Evan Yu,Felix Hobbs,6-4,6,4,1,0,Completed,true,false,false
+UA006301,,16,Wattle,Victory Park,No. 4,Ignatius Badenoch,[Unnamed player — TROLS UA006301 away code 4],Ignatius Badenoch,6-0,6,0,1,0,Completed,false,false,false
+UA006302,,16,Glen Huntly,GPHC,No. 1,Atticus Dhimann,Jeremy Wong,Jeremy Wong,6-7,6,7,0,1,Completed,true,false,false
+UA006302,,16,Glen Huntly,GPHC,No. 2,Tim Kalapoutis,Eli Jeffreys,Tim Kalapoutis,6-0,6,0,1,0,Completed,true,false,false
+UA006302,,16,Glen Huntly,GPHC,No. 3,Gabriel Torres Alvarez,Arata Tanaka,Arata Tanaka,3-6,3,6,0,1,Completed,true,false,false
+UA006302,,16,Glen Huntly,GPHC,No. 4,Danielius Buividas,Jack Boussioutas,Jack Boussioutas,3-6,3,6,0,1,Completed,true,false,false
+UA006321,,17,Wattle,GPHC,No. 1,Lachie Rhodes,Jeremy Wong,Lachie Rhodes,6-2,6,2,1,0,Completed,true,false,false
+UA006321,,17,Wattle,GPHC,No. 2,Egor Barabanov,Eli Jeffreys,Eli Jeffreys,2-6,2,6,0,1,Completed,true,false,false
+UA006321,,17,Wattle,GPHC,No. 3,Felix Hobbs,Arata Tanaka,Arata Tanaka,4-6,4,6,0,1,Completed,true,false,false
+UA006321,,17,Wattle,GPHC,No. 4,Ignatius Badenoch,Oscar Hilbert,Ignatius Badenoch,6-4,6,4,1,0,Completed,true,false,false

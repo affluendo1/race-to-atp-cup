@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA25-UA019",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2019",
+  "season_id": "UA25",
+  "season_label": "Spring 2019",
+  "source_section_code": "UA019",
+  "section_label": "Section 19",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Murrumbeena",
+      "wins": 12,
+      "points": 118,
+      "percentage": 223.2,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Highmoor Uniting",
+      "wins": 11,
+      "points": 99,
+      "percentage": 139.49,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Aspendale",
+      "wins": 11,
+      "points": 99,
+      "percentage": 135.31,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Sandringham",
+      "wins": 6,
+      "points": 69,
+      "percentage": 104.56,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Lauriston",
+      "wins": 6,
+      "points": 68,
+      "percentage": 108.46,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Highett",
+      "wins": 2,
+      "points": 43,
+      "percentage": 71.36,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong Xavier",
+      "wins": 2,
+      "points": 38,
+      "percentage": 59.85,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park",
+      "wins": 1,
+      "points": 26,
+      "percentage": 48.33,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA25-UA019",
+  "fixtures": 59,
+  "completed_fixtures": 56,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 109,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA019113"
+  ]
+}

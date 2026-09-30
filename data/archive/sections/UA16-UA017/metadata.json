@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA16-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2015",
+  "season_id": "UA16",
+  "season_label": "Autumn 2015",
+  "source_section_code": "UA017",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Highett",
+      "wins": 8,
+      "points": 92,
+      "percentage": 139.25,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "BLTC",
+      "wins": 8,
+      "points": 91,
+      "percentage": 138.27,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "GPHC 1",
+      "wins": 4,
+      "points": 75,
+      "percentage": 114.17,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "St Joan of Arc",
+      "wins": 5,
+      "points": 73,
+      "percentage": 101.85,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Parkdale",
+      "wins": 6,
+      "points": 68,
+      "percentage": 92.16,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Coatesville",
+      "wins": 5,
+      "points": 65,
+      "percentage": 95.49,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Highmoor Uniting",
+      "wins": 3,
+      "points": 56,
+      "percentage": 78.13,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC 2",
+      "wins": 1,
+      "points": 40,
+      "percentage": 58.86,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA16-UA017",
+  "fixtures": 59,
+  "completed_fixtures": 46,
+  "draw_fixtures": 45,
+  "singles_rubbers": 184,
+  "doubles_rubbers": 92,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

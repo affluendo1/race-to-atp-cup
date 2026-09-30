@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA38-UA008",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2026",
+  "season_id": "UA38",
+  "season_label": "Autumn 2026",
+  "source_section_code": "UA008",
+  "section_label": "Sets 5",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite",
+      "wins": 9,
+      "points": 99,
+      "percentage": 153.75,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Parkdale",
+      "wins": 7,
+      "points": 87,
+      "percentage": 122.07,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kooyong",
+      "wins": 6,
+      "points": 85,
+      "percentage": 108.17,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Royal South Yarra",
+      "wins": 6,
+      "points": 78,
+      "percentage": 115.75,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Le Page",
+      "wins": 6,
+      "points": 67,
+      "percentage": 86.89,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park",
+      "wins": 5,
+      "points": 66,
+      "percentage": 101.58,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Mentone",
+      "wins": 4,
+      "points": 63,
+      "percentage": 85.88,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave",
+      "wins": 0,
+      "points": 19,
+      "percentage": 55.53,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA38-UA008",
+  "fixtures": 59,
+  "completed_fixtures": 50,
+  "draw_fixtures": 59,
+  "singles_rubbers": 200,
+  "doubles_rubbers": 100,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

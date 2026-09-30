@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA7-UA031",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2010",
+  "season_id": "UA7",
+  "season_label": "Spring 2010",
+  "source_section_code": "UA031",
+  "section_label": "Section 12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "All Souls",
+      "wins": 0,
+      "points": 111,
+      "percentage": 196.73,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St James",
+      "wins": 0,
+      "points": 106,
+      "percentage": 163.96,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "GPHC MLC",
+      "wins": 0,
+      "points": 80,
+      "percentage": 132.85,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Parkdale",
+      "wins": 0,
+      "points": 69,
+      "percentage": 108.19,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 63,
+      "percentage": 91.95,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Murrumbeena",
+      "wins": 0,
+      "points": 60,
+      "percentage": 81.69,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong Xavier",
+      "wins": 0,
+      "points": 42,
+      "percentage": 55.39,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave",
+      "wins": 0,
+      "points": 29,
+      "percentage": 45.32,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA7-UA031",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 3,
+  "singles_rubbers": 208,
+  "doubles_rubbers": 101,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

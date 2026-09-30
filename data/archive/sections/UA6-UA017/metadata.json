@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA6-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2010",
+  "season_id": "UA6",
+  "season_label": "Autumn 2010",
+  "source_section_code": "UA017",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Le Page",
+      "wins": 0,
+      "points": 118,
+      "percentage": 174.71,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Lauriston",
+      "wins": 0,
+      "points": 107,
+      "percentage": 134.55,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Tennis World",
+      "wins": 0,
+      "points": 87,
+      "percentage": 123.05,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC MLC",
+      "wins": 0,
+      "points": 68,
+      "percentage": 107.02,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Black Rock",
+      "wins": 0,
+      "points": 63,
+      "percentage": 97.92,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Glen Eira Beech 1",
+      "wins": 0,
+      "points": 56,
+      "percentage": 87.85,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Caulfield Rec",
+      "wins": 0,
+      "points": 53,
+      "percentage": 80.97,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Glen Eira Beech 2",
+      "wins": 0,
+      "points": 8,
+      "percentage": 36.36,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA6-UA017",
+  "fixtures": 59,
+  "completed_fixtures": 56,
+  "draw_fixtures": 45,
+  "singles_rubbers": 224,
+  "doubles_rubbers": 112,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

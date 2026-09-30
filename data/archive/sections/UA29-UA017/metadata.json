@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA29-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2021",
+  "season_id": "UA29",
+  "season_label": "Spring 2021",
+  "source_section_code": "UA017",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Elsternwick Park No.1",
+      "wins": 6,
+      "points": 88,
+      "percentage": 149.28,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Kings Park No.1",
+      "wins": 5,
+      "points": 86,
+      "percentage": 146.05,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Le Page",
+      "wins": 4,
+      "points": 76,
+      "percentage": 115.88,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kings Park No.2",
+      "wins": 4,
+      "points": 74,
+      "percentage": 108.06,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Glen Eira",
+      "wins": 3,
+      "points": 69,
+      "percentage": 106.74,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park",
+      "wins": 2,
+      "points": 60,
+      "percentage": 67.57,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Carmelite",
+      "wins": 1,
+      "points": 54,
+      "percentage": 69.73,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Elsternwick Park No.2",
+      "wins": 1,
+      "points": 53,
+      "percentage": 62.19,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA29-UA017",
+  "fixtures": 56,
+  "completed_fixtures": 26,
+  "draw_fixtures": 42,
+  "singles_rubbers": 104,
+  "doubles_rubbers": 52,
+  "latest_round": 14,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

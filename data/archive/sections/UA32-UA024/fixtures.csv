@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA024011,05 Feb 23,1,regular,Round 1,Tennis World,Black Rock Yellow,2,8,2,4,,,15,27,Completed,
+UA024012,05 Feb 23,1,regular,Round 1,Kings Park White,BLTC White,2,8,2,4,,,25,29,Completed,
+UA024013,05 Feb 23,1,regular,Round 1,Parkdale Black,Parkdale Blue,1,9,1,5,,,19,36,Completed,
+UA024014,05 Feb 23,1,regular,Round 1,Murrumbeena SH,St Pats Mentone Seals,2,8,2,4,,,31,32,Completed,
+UA024021,12 Feb 23,2,regular,Round 2,St Pats Mentone Seals,Tennis World,2,8,2,4,,,27,31,Completed,
+UA024022,12 Feb 23,2,regular,Round 2,Black Rock Yellow,Kings Park White,8,2,4,2,,,29,25,Completed,
+UA024023,12 Feb 23,2,regular,Round 2,BLTC White,Parkdale Black,8,2,4,2,,,29,22,Completed,
+UA024024,12 Feb 23,2,regular,Round 2,Parkdale Blue,Murrumbeena SH,8,2,4,2,,,27,14,Completed,
+UA024031,19 Feb 23,3,regular,Round 3,Tennis World,Parkdale Blue,0,10,0,6,,,6,36,Completed,
+UA024032,19 Feb 23,3,regular,Round 3,Kings Park White,St Pats Mentone Seals,8,2,4,2,,,30,28,Completed,
+UA024033,19 Feb 23,3,regular,Round 3,Parkdale Black,Black Rock Yellow,1,9,1,5,,,22,32,Completed,
+UA024034,19 Feb 23,3,regular,Round 3,Murrumbeena SH,BLTC White,1,9,1,5,,,18,34,Completed,
+UA024041,26 Feb 23,4,regular,Round 4,BLTC White,Tennis World,3,7,3,3,,,29,32,Completed,
+UA024042,26 Feb 23,4,regular,Round 4,Parkdale Blue,Kings Park White,9,1,5,1,,,32,13,Completed,
+UA024043,26 Feb 23,4,regular,Round 4,St Pats Mentone Seals,Parkdale Black,3,7,3,3,,,24,31,Completed,
+UA024044,26 Feb 23,4,regular,Round 4,Black Rock Yellow,Murrumbeena SH,2,8,2,4,,,22,29,Completed,
+UA024051,05 Mar 23,5,regular,Round 5,Parkdale Black,Murrumbeena SH,9,1,5,1,,,32,18,Completed,
+UA024052,05 Mar 23,5,regular,Round 5,St Pats Mentone Seals,Parkdale Blue,0,10,0,6,,,16,38,Completed,
+UA024053,05 Mar 23,5,regular,Round 5,BLTC White,Black Rock Yellow,9,1,5,1,,,38,22,Completed,
+UA024054,05 Mar 23,5,regular,Round 5,Tennis World,Kings Park White,9,1,5,1,,,35,18,Completed,
+UA024061,19 Mar 23,6,regular,Round 6,Kings Park White,Parkdale Black,3,7,3,3,,,28,29,Completed,
+UA024062,19 Mar 23,6,regular,Round 6,Murrumbeena SH,Tennis World,1,9,1,5,,,19,37,Completed,
+UA024063,19 Mar 23,6,regular,Round 6,Parkdale Blue,BLTC White,8,2,4,2,,,31,15,Completed,
+UA024064,19 Mar 23,6,regular,Round 6,Black Rock Yellow,St Pats Mentone Seals,10,0,6,0,,,36,15,Completed,
+UA024071,26 Mar 23,7,regular,Round 7,Tennis World,Parkdale Black,8,2,4,2,,,30,21,Completed,
+UA024072,26 Mar 23,7,regular,Round 7,Kings Park White,Murrumbeena SH,2,8,2,4,,,16,26,Completed,
+UA024073,26 Mar 23,7,regular,Round 7,St Pats Mentone Seals,BLTC White,0,10,0,6,,,24,39,Completed,
+UA024074,26 Mar 23,7,regular,Round 7,Parkdale Blue,Black Rock Yellow,9,1,5,1,,,36,15,Completed,
+UA024081,02 Apr 23,8,regular,Round 8,Black Rock Yellow,Tennis World,8,2,4,2,,,29,19,Completed,
+UA024082,02 Apr 23,8,regular,Round 8,BLTC White,Kings Park White,10,0,6,0,,,38,24,Completed,
+UA024083,02 Apr 23,8,regular,Round 8,Parkdale Blue,Parkdale Black,10,0,6,0,,,37,16,Completed,
+UA024084,02 Apr 23,8,regular,Round 8,St Pats Mentone Seals,Murrumbeena SH,2,8,2,4,,,22,33,Completed,
+UA024091,30 Apr 23,9,regular,Round 9,Tennis World,St Pats Mentone Seals,8,2,4,2,,,24,15,Completed,
+UA024092,30 Apr 23,9,regular,Round 9,Kings Park White,Black Rock Yellow,1,9,1,5,,,14,33,Completed,
+UA024093,30 Apr 23,9,regular,Round 9,Parkdale Black,BLTC White,3,7,3,3,,,23,28,Completed,
+UA024094,30 Apr 23,9,regular,Round 9,Murrumbeena SH,Parkdale Blue,0,10,0,6,,,10,37,Completed,
+pending-ua024-r10-black-rock-yellow-parkdale-black,07 May 23,10,regular,Round 10,Black Rock Yellow,Parkdale Black,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua024-r10-bltc-white-murrumbeena-sh,07 May 23,10,regular,Round 10,BLTC White,Murrumbeena SH,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua024-r10-parkdale-blue-tennis-world,07 May 23,10,regular,Round 10,Parkdale Blue,Tennis World,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua024-r10-st-pats-mentone-seals-kings-park-white,07 May 23,10,regular,Round 10,St Pats Mentone Seals,Kings Park White,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA024111,14 May 23,11,regular,Round 11,Tennis World,BLTC White,4,1,4,1,,,24,14,Completed,
+UA024112,14 May 23,11,regular,Round 11,Kings Park White,Parkdale Blue,1,9,1,5,,,23,36,Completed,
+UA024113,14 May 23,11,regular,Round 11,Parkdale Black,St Pats Mentone Seals,10,0,6,0,,,36,9,Completed,
+UA024114,14 May 23,11,regular,Round 11,Murrumbeena SH,Black Rock Yellow,3,7,3,3,,,24,26,Completed,
+pending-ua024-r12-black-rock-yellow-bltc-white,21 May 23,12,regular,Round 12,Black Rock Yellow,BLTC White,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua024-r12-kings-park-white-tennis-world,21 May 23,12,regular,Round 12,Kings Park White,Tennis World,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua024-r12-murrumbeena-sh-parkdale-black,21 May 23,12,regular,Round 12,Murrumbeena SH,Parkdale Black,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua024-r12-parkdale-blue-st-pats-mentone-seals,21 May 23,12,regular,Round 12,Parkdale Blue,St Pats Mentone Seals,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua024-r13-bltc-white-parkdale-blue,28 May 23,13,regular,Round 13,BLTC White,Parkdale Blue,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua024-r13-parkdale-black-kings-park-white,28 May 23,13,regular,Round 13,Parkdale Black,Kings Park White,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua024-r13-st-pats-mentone-seals-black-rock-yellow,28 May 23,13,regular,Round 13,St Pats Mentone Seals,Black Rock Yellow,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua024-r13-tennis-world-murrumbeena-sh,28 May 23,13,regular,Round 13,Tennis World,Murrumbeena SH,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA024301,,16,semi_final,Semi-final,Parkdale Blue,Tennis World,2,8,2,4,,,22,25,Completed,
+UA024302,,16,semi_final,Semi-final,BLTC White,Black Rock Yellow,8,2,4,2,,,32,24,Completed,
+UA024321,,17,grand_final,Grand final · TROLS entry 2,BLTC White,Tennis World,8,2,4,2,,,30,17,Completed,

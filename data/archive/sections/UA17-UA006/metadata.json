@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA17-UA006",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2015",
+  "season_id": "UA17",
+  "season_label": "Spring 2015",
+  "source_section_code": "UA006",
+  "section_label": "Section 6",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Aspendale",
+      "wins": 13,
+      "points": 133,
+      "percentage": 258.64,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Dendy Park 2",
+      "wins": 8,
+      "points": 89,
+      "percentage": 123.17,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kooyong Scotch 2",
+      "wins": 6,
+      "points": 81,
+      "percentage": 128.48,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Dendy Park 1",
+      "wins": 6,
+      "points": 77,
+      "percentage": 111.44,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong Scotch 1",
+      "wins": 8,
+      "points": 77,
+      "percentage": 110.85,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Beaumaris CC",
+      "wins": 4,
+      "points": 48,
+      "percentage": 68.51,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC 1",
+      "wins": 5,
+      "points": 47,
+      "percentage": 70.2,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "BLTC 2",
+      "wins": 0,
+      "points": 8,
+      "percentage": 38.41,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA17-UA006",
+  "fixtures": 59,
+  "completed_fixtures": 56,
+  "draw_fixtures": 59,
+  "singles_rubbers": 224,
+  "doubles_rubbers": 112,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

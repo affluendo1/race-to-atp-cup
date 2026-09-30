@@ -1,0 +1,213 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA007011,27 Jul 25,1,GPHC Blue,GPHC Yellow,No. 1,Tahlia Zangalis,Samuel Wong,Tahlia Zangalis,6-2,6,2,1,0,Completed,true,false,false
+UA007011,27 Jul 25,1,GPHC Blue,GPHC Yellow,No. 2,Caitlin Cassidy,Harry Mansell,Caitlin Cassidy,7-5,7,5,1,0,Completed,true,false,false
+UA007011,27 Jul 25,1,GPHC Blue,GPHC Yellow,No. 3,Oliver Chew,Jackson Kitchen,Oliver Chew,6-4,6,4,1,0,Completed,true,false,false
+UA007011,27 Jul 25,1,GPHC Blue,GPHC Yellow,No. 4,Zach Carmichael,Kingsley Layh,Zach Carmichael,7-5,7,5,1,0,Completed,true,false,false
+UA007012,27 Jul 25,1,Kooyong,Black Rock,No. 1,Banjo James,Toby Leeds,Toby Leeds,3-6,3,6,0,1,Completed,true,false,false
+UA007012,27 Jul 25,1,Kooyong,Black Rock,No. 2,James Wong,Hamish Pendred,Hamish Pendred,2-6,2,6,0,1,Completed,true,false,false
+UA007012,27 Jul 25,1,Kooyong,Black Rock,No. 3,Chester Peng,Leo Suszko,Chester Peng,7-6,7,6,1,0,Completed,true,false,false
+UA007012,27 Jul 25,1,Kooyong,Black Rock,No. 4,Carrick Wu,Ruby Murray,Carrick Wu,6-4,6,4,1,0,Completed,true,false,false
+UA007014,27 Jul 25,1,Carmelite,Coatesville,No. 1,Gene Tulloch,Dax Chen,Dax Chen,6-7,6,7,0,1,Completed,true,false,false
+UA007014,27 Jul 25,1,Carmelite,Coatesville,No. 2,Charlie-Grace Galanis,Hiren Arunkumar,Hiren Arunkumar,4-6,4,6,0,1,Completed,true,false,false
+UA007014,27 Jul 25,1,Carmelite,Coatesville,No. 3,Leo Tobin,Timothy Tan,Leo Tobin,6-2,6,2,1,0,Completed,true,false,false
+UA007014,27 Jul 25,1,Carmelite,Coatesville,No. 4,Jack Hogg,Xavier Pace,Xavier Pace,4-6,4,6,0,1,Completed,true,false,false
+UA007021,03 Aug 25,2,Coatesville,GPHC Blue,No. 1,Dax Chen,Tahlia Zangalis,Dax Chen,7-6,7,6,1,0,Completed,true,false,false
+UA007021,03 Aug 25,2,Coatesville,GPHC Blue,No. 2,Hiren Arunkumar,Edison Zheng,Edison Zheng,3-6,3,6,0,1,Completed,true,false,false
+UA007021,03 Aug 25,2,Coatesville,GPHC Blue,No. 3,Timothy Tan,Oliver Chew,Oliver Chew,3-6,3,6,0,1,Completed,true,false,false
+UA007021,03 Aug 25,2,Coatesville,GPHC Blue,No. 4,Xavier Pace,Zach Carmichael,Xavier Pace,6-1,6,1,1,0,Completed,true,false,false
+UA007022,03 Aug 25,2,GPHC Yellow,Kooyong,No. 1,Samuel Wong,James Wong,James Wong,6-7,6,7,0,1,Completed,true,false,false
+UA007022,03 Aug 25,2,GPHC Yellow,Kooyong,No. 2,Jackson Kitchen,Annabelle Wong,Jackson Kitchen,6-2,6,2,1,0,Completed,true,false,false
+UA007022,03 Aug 25,2,GPHC Yellow,Kooyong,No. 3,Kingsley Layh,Chester Peng,Chester Peng,1-6,1,6,0,1,Completed,true,false,false
+UA007022,03 Aug 25,2,GPHC Yellow,Kooyong,No. 4,Willis Yam,Remy McCarthy,Remy McCarthy,2-6,2,6,0,1,Completed,true,false,false
+UA007023,03 Aug 25,2,Black Rock,Murrumbeena,No. 1,Toby Leeds,Chloe Bow,Toby Leeds,6-2,6,2,1,0,Completed,true,false,false
+UA007023,03 Aug 25,2,Black Rock,Murrumbeena,No. 2,Hamish Pendred,Farah Jaghori,Hamish Pendred,7-5,7,5,1,0,Completed,true,false,false
+UA007023,03 Aug 25,2,Black Rock,Murrumbeena,No. 3,Hugo Davis,Jayden Lin,Jayden Lin,5-7,5,7,0,1,Completed,true,false,false
+UA007023,03 Aug 25,2,Black Rock,Murrumbeena,No. 4,Leo Suszko,Cameron Wong,Cameron Wong,6-7,6,7,0,1,Completed,true,false,true
+UA007024,03 Aug 25,2,Glen Huntly,Carmelite,No. 1,Gabrielle Duieb,Charlie-Grace Galanis,Gabrielle Duieb,6-2,6,2,1,0,Completed,true,false,false
+UA007024,03 Aug 25,2,Glen Huntly,Carmelite,No. 2,Anastasia Udriste,Leo Tobin,Anastasia Udriste,6-3,6,3,1,0,Completed,true,false,false
+UA007024,03 Aug 25,2,Glen Huntly,Carmelite,No. 3,Oliver Sey,Madeleine Wilson,Oliver Sey,6-3,6,3,1,0,Completed,true,false,false
+UA007024,03 Aug 25,2,Glen Huntly,Carmelite,No. 4,Zac Miller,Bryson Walters,Zac Miller,6-0,6,0,1,0,Completed,true,false,false
+UA007031,10 Aug 25,3,GPHC Blue,Glen Huntly,No. 1,Tahlia Zangalis,Gabrielle Duieb,Tahlia Zangalis,6-1,6,1,1,0,Completed,true,false,false
+UA007031,10 Aug 25,3,GPHC Blue,Glen Huntly,No. 2,Caitlin Cassidy,Anastasia Udriste,Caitlin Cassidy,6-2,6,2,1,0,Completed,true,false,false
+UA007031,10 Aug 25,3,GPHC Blue,Glen Huntly,No. 3,Oliver Chew,Zac Miller,Oliver Chew,6-2,6,2,1,0,Completed,true,false,false
+UA007031,10 Aug 25,3,GPHC Blue,Glen Huntly,No. 4,Zach Carmichael,Faith Green,Faith Green,1-6,1,6,0,1,Completed,true,false,false
+UA007032,10 Aug 25,3,Kooyong,Coatesville,No. 1,Banjo James,Dax Chen,Banjo James,6-2,6,2,1,0,Completed,true,false,false
+UA007032,10 Aug 25,3,Kooyong,Coatesville,No. 2,Chester Peng,Hiren Arunkumar,Hiren Arunkumar,4-6,4,6,0,1,Completed,true,false,false
+UA007032,10 Aug 25,3,Kooyong,Coatesville,No. 3,Remy McCarthy,Timothy Tan,Remy McCarthy,7-6,7,6,1,0,Completed,true,false,false
+UA007032,10 Aug 25,3,Kooyong,Coatesville,No. 4,Carrick Wu,Xavier Pace,Carrick Wu,7-5,7,5,1,0,Completed,true,false,false
+UA007033,10 Aug 25,3,Murrumbeena,GPHC Yellow,No. 1,Chloe Bow,Christian Lim,Chloe Bow,6-3,6,3,1,0,Completed,true,false,false
+UA007033,10 Aug 25,3,Murrumbeena,GPHC Yellow,No. 2,Luella Charoenphol,Harry Mansell,Luella Charoenphol,6-2,6,2,1,0,Completed,true,true,false
+UA007033,10 Aug 25,3,Murrumbeena,GPHC Yellow,No. 3,Farah Jaghori,Kingsley Layh,Farah Jaghori,6-2,6,2,1,0,Completed,true,false,false
+UA007033,10 Aug 25,3,Murrumbeena,GPHC Yellow,No. 4,Jayden Lin,Willis Yam,Jayden Lin,6-0,6,0,1,0,Completed,true,false,false
+UA007034,10 Aug 25,3,Carmelite,Black Rock,No. 1,Gene Tulloch,Hamish Pendred,Hamish Pendred,1-6,1,6,0,1,Completed,true,false,false
+UA007034,10 Aug 25,3,Carmelite,Black Rock,No. 2,Leo Tobin,Hugo Davis,Hugo Davis,3-6,3,6,0,1,Completed,true,false,false
+UA007034,10 Aug 25,3,Carmelite,Black Rock,No. 3,Madeleine Wilson,Leo Suszko,Leo Suszko,2-6,2,6,0,1,Completed,true,false,false
+UA007034,10 Aug 25,3,Carmelite,Black Rock,No. 4,Bryson Walters,Ruby Murray,Ruby Murray,1-6,1,6,0,1,Completed,true,false,false
+UA007041,17 Aug 25,4,Black Rock,GPHC Blue,No. 1,Toby Leeds,Caitlin Cassidy,Toby Leeds,6-4,6,4,1,0,Completed,true,false,false
+UA007041,17 Aug 25,4,Black Rock,GPHC Blue,No. 2,Hugo Davis,Edison Zheng,Edison Zheng,4-6,4,6,0,1,Completed,true,false,false
+UA007041,17 Aug 25,4,Black Rock,GPHC Blue,No. 3,Leo Suszko,Oliver Chew,Oliver Chew,1-6,1,6,0,1,Completed,true,false,false
+UA007041,17 Aug 25,4,Black Rock,GPHC Blue,No. 4,Ruby Murray,Harry Vavallo,Harry Vavallo,5-7,5,7,0,1,Completed,true,false,false
+UA007042,17 Aug 25,4,Glen Huntly,Kooyong,No. 1,Gabrielle Duieb,Banjo James,Banjo James,1-6,1,6,0,1,Completed,true,false,false
+UA007042,17 Aug 25,4,Glen Huntly,Kooyong,No. 2,Oliver Sey,James Wong,James Wong,5-7,5,7,0,1,Completed,true,false,false
+UA007042,17 Aug 25,4,Glen Huntly,Kooyong,No. 3,Danielius Buividas,Annabelle Wong,Annabelle Wong,4-6,4,6,0,1,Completed,true,false,false
+UA007042,17 Aug 25,4,Glen Huntly,Kooyong,No. 4,Zac Miller,Remy McCarthy,Remy McCarthy,6-7,6,7,0,1,Completed,true,false,false
+UA007043,17 Aug 25,4,Coatesville,Murrumbeena,No. 1,Dax Chen,Chloe Bow,Chloe Bow,1-6,1,6,0,1,Completed,true,false,false
+UA007043,17 Aug 25,4,Coatesville,Murrumbeena,No. 2,Hiren Arunkumar,Meredith George,Meredith George,3-6,3,6,0,1,Completed,true,false,true
+UA007043,17 Aug 25,4,Coatesville,Murrumbeena,No. 3,Timothy Tan,Farah Jaghori,Farah Jaghori,2-6,2,6,0,1,Completed,true,false,false
+UA007043,17 Aug 25,4,Coatesville,Murrumbeena,No. 4,Xavier Pace,Louis Rintoul,Louis Rintoul,2-6,2,6,0,1,Completed,true,false,false
+UA007044,17 Aug 25,4,GPHC Yellow,Carmelite,No. 1,Christian Lim,Gene Tulloch,Christian Lim,6-2,6,2,1,0,Completed,true,false,false
+UA007044,17 Aug 25,4,GPHC Yellow,Carmelite,No. 2,Samuel Wong,Madeleine Wilson,Samuel Wong,6-4,6,4,1,0,Completed,true,false,false
+UA007044,17 Aug 25,4,GPHC Yellow,Carmelite,No. 3,Harry Mansell,Bryson Walters,Harry Mansell,6-2,6,2,1,0,Completed,true,false,false
+UA007044,17 Aug 25,4,GPHC Yellow,Carmelite,No. 4,Jackson Kitchen,Jack Hogg,Jackson Kitchen,6-0,6,0,1,0,Completed,true,false,false
+UA007051,24 Aug 25,5,Murrumbeena,Carmelite,No. 1,Chloe Bow,Gene Tulloch,Chloe Bow,6-1,6,1,1,0,Completed,true,false,false
+UA007051,24 Aug 25,5,Murrumbeena,Carmelite,No. 2,Phelix Ma,Madeleine Wilson,Phelix Ma,6-1,6,1,1,0,Completed,true,false,false
+UA007051,24 Aug 25,5,Murrumbeena,Carmelite,No. 3,Farah Jaghori,Bryson Walters,Farah Jaghori,6-1,6,1,1,0,Completed,true,false,false
+UA007051,24 Aug 25,5,Murrumbeena,Carmelite,No. 4,Louis Rintoul,Jack Hogg,Louis Rintoul,6-4,6,4,1,0,Completed,true,false,false
+UA007052,24 Aug 25,5,Coatesville,Glen Huntly,No. 1,Hugo Szynkowski,Gabrielle Duieb,Hugo Szynkowski,6-4,6,4,1,0,Completed,true,false,false
+UA007052,24 Aug 25,5,Coatesville,Glen Huntly,No. 2,Dax Chen,Oliver Sey,Oliver Sey,1-6,1,6,0,1,Completed,true,false,false
+UA007052,24 Aug 25,5,Coatesville,Glen Huntly,No. 3,Hiren Arunkumar,Charlie Renwick,Hiren Arunkumar,6-3,6,3,1,0,Completed,true,false,true
+UA007052,24 Aug 25,5,Coatesville,Glen Huntly,No. 4,Timothy Tan,Danielius Buividas,Danielius Buividas,3-6,3,6,0,1,Completed,true,false,false
+UA007053,24 Aug 25,5,Black Rock,GPHC Yellow,No. 1,Hamish Pendred,Christian Lim,Hamish Pendred,6-1,6,1,1,0,Completed,true,false,false
+UA007053,24 Aug 25,5,Black Rock,GPHC Yellow,No. 2,Hugo Davis,Harry Mansell,Hugo Davis,6-3,6,3,1,0,Completed,true,false,false
+UA007053,24 Aug 25,5,Black Rock,GPHC Yellow,No. 3,Leo Suszko,Jackson Kitchen,Leo Suszko,7-6,7,6,1,0,Completed,true,false,false
+UA007053,24 Aug 25,5,Black Rock,GPHC Yellow,No. 4,Ruby Murray,Willis Yam,Ruby Murray,6-4,6,4,1,0,Completed,true,false,false
+UA007054,24 Aug 25,5,GPHC Blue,Kooyong,No. 1,Tahlia Zangalis,James Wong,Tahlia Zangalis,6-3,6,3,1,0,Completed,true,false,false
+UA007054,24 Aug 25,5,GPHC Blue,Kooyong,No. 2,Oliver Chew,Annabelle Wong,Annabelle Wong,4-6,4,6,0,1,Completed,true,false,false
+UA007054,24 Aug 25,5,GPHC Blue,Kooyong,No. 3,Harry Vavallo,Chester Peng,Chester Peng,1-6,1,6,0,1,Completed,true,false,false
+UA007054,24 Aug 25,5,GPHC Blue,Kooyong,No. 4,Zach Carmichael,Carrick Wu,Carrick Wu,1-6,1,6,0,1,Completed,true,false,false
+UA007061,31 Aug 25,6,Kooyong,Murrumbeena,No. 1,Banjo James,Phelix Ma,Phelix Ma,4-6,4,6,0,1,Completed,true,false,false
+UA007061,31 Aug 25,6,Kooyong,Murrumbeena,No. 2,Annabelle Wong,Farah Jaghori,Farah Jaghori,4-6,4,6,0,1,Completed,true,false,false
+UA007061,31 Aug 25,6,Kooyong,Murrumbeena,No. 3,Chester Peng,Jayden Lin,Jayden Lin,5-7,5,7,0,1,Completed,true,false,false
+UA007061,31 Aug 25,6,Kooyong,Murrumbeena,No. 4,Remy McCarthy,Louis Rintoul,Louis Rintoul,3-6,3,6,0,1,Completed,true,false,false
+UA007062,31 Aug 25,6,Carmelite,GPHC Blue,No. 1,Charlie-Grace Galanis,Tahlia Zangalis,Charlie-Grace Galanis,6-4,6,4,1,0,Completed,true,false,false
+UA007062,31 Aug 25,6,Carmelite,GPHC Blue,No. 2,Leo Tobin,Edison Zheng,Edison Zheng,1-6,1,6,0,1,Completed,true,false,false
+UA007062,31 Aug 25,6,Carmelite,GPHC Blue,No. 3,Madeleine Wilson,Oliver Chew,Oliver Chew,0-6,0,6,0,1,Completed,true,false,false
+UA007062,31 Aug 25,6,Carmelite,GPHC Blue,No. 4,Jack Hogg,Harry Vavallo,Harry Vavallo,3-6,3,6,0,1,Completed,true,false,false
+UA007063,31 Aug 25,6,Glen Huntly,Black Rock,No. 1,Gabrielle Duieb,Toby Leeds,Gabrielle Duieb,6-1,6,1,1,0,Completed,true,false,false
+UA007063,31 Aug 25,6,Glen Huntly,Black Rock,No. 2,Anastasia Udriste,Hamish Pendred,Hamish Pendred,3-6,3,6,0,1,Completed,true,false,false
+UA007063,31 Aug 25,6,Glen Huntly,Black Rock,No. 3,Oliver Sey,Leo Suszko,Leo Suszko,2-6,2,6,0,1,Completed,true,false,false
+UA007063,31 Aug 25,6,Glen Huntly,Black Rock,No. 4,Danielius Buividas,Lorenzo Liberalli,Lorenzo Liberalli,6-7,6,7,0,1,Completed,true,false,true
+UA007064,31 Aug 25,6,GPHC Yellow,Coatesville,No. 1,Christian Lim,Dax Chen,Dax Chen,5-7,5,7,0,1,Completed,true,false,false
+UA007064,31 Aug 25,6,GPHC Yellow,Coatesville,No. 2,Samuel Wong,Hiren Arunkumar,Samuel Wong,6-4,6,4,1,0,Completed,true,false,false
+UA007064,31 Aug 25,6,GPHC Yellow,Coatesville,No. 3,Harry Mansell,Timothy Tan,Harry Mansell,6-2,6,2,1,0,Completed,true,false,false
+UA007064,31 Aug 25,6,GPHC Yellow,Coatesville,No. 4,Kingsley Layh,Xavier Pace,Kingsley Layh,6-4,6,4,1,0,Completed,true,false,false
+UA007071,07 Sep 25,7,GPHC Blue,Murrumbeena,No. 1,Tahlia Zangalis,Chloe Bow,Chloe Bow,2-6,2,6,0,1,Completed,true,false,false
+UA007071,07 Sep 25,7,GPHC Blue,Murrumbeena,No. 2,Caitlin Cassidy,Phelix Ma,Phelix Ma,3-6,3,6,0,1,Completed,true,false,false
+UA007071,07 Sep 25,7,GPHC Blue,Murrumbeena,No. 3,Harry Vavallo,Jayden Lin,Harry Vavallo,6-2,6,2,1,0,Completed,true,false,false
+UA007071,07 Sep 25,7,GPHC Blue,Murrumbeena,No. 4,Zach Carmichael,Louis Rintoul,Louis Rintoul,2-6,2,6,0,1,Completed,true,false,false
+UA007072,07 Sep 25,7,Kooyong,Carmelite,No. 1,James Wong,Gene Tulloch,James Wong,6-2,6,2,1,0,Completed,true,false,false
+UA007072,07 Sep 25,7,Kooyong,Carmelite,No. 2,Annabelle Wong,Leo Tobin,Annabelle Wong,6-4,6,4,1,0,Completed,true,false,false
+UA007072,07 Sep 25,7,Kooyong,Carmelite,No. 3,Chester Peng,Jack Hogg,Chester Peng,7-5,7,5,1,0,Completed,true,false,false
+UA007072,07 Sep 25,7,Kooyong,Carmelite,No. 4,Remy McCarthy,Hugo Dinelli,Remy McCarthy,6-4,6,4,1,0,Completed,true,false,true
+UA007073,07 Sep 25,7,Coatesville,Black Rock,No. 1,Dax Chen,Toby Leeds,Dax Chen,6-0,6,0,1,0,Completed,true,false,false
+UA007073,07 Sep 25,7,Coatesville,Black Rock,No. 2,Hiren Arunkumar,Hamish Pendred,Hamish Pendred,2-6,2,6,0,1,Completed,true,false,false
+UA007073,07 Sep 25,7,Coatesville,Black Rock,No. 3,Timothy Tan,Hugo Davis,Hugo Davis,3-6,3,6,0,1,Completed,true,false,false
+UA007073,07 Sep 25,7,Coatesville,Black Rock,No. 4,Xavier Pace,Ruby Murray,Xavier Pace,7-6,7,6,1,0,Completed,true,false,false
+UA007074,07 Sep 25,7,Glen Huntly,GPHC Yellow,No. 1,Gabrielle Duieb,Christian Lim,Gabrielle Duieb,6-2,6,2,1,0,Completed,true,false,false
+UA007074,07 Sep 25,7,Glen Huntly,GPHC Yellow,No. 2,Anastasia Udriste,Samuel Wong,Anastasia Udriste,6-0,6,0,1,0,Completed,true,false,false
+UA007074,07 Sep 25,7,Glen Huntly,GPHC Yellow,No. 3,Oliver Sey,Harry Mansell,Harry Mansell,4-6,4,6,0,1,Completed,true,false,false
+UA007074,07 Sep 25,7,Glen Huntly,GPHC Yellow,No. 4,Faith Green,Kingsley Layh,Faith Green,6-2,6,2,1,0,Completed,true,false,false
+UA007081,14 Sep 25,8,GPHC Yellow,GPHC Blue,No. 1,Harry Mansell,Tahlia Zangalis,Harry Mansell,6-2,6,2,1,0,Completed,true,false,false
+UA007081,14 Sep 25,8,GPHC Yellow,GPHC Blue,No. 2,Jackson Kitchen,Oliver Chew,Jackson Kitchen,6-3,6,3,1,0,Completed,true,false,false
+UA007081,14 Sep 25,8,GPHC Yellow,GPHC Blue,No. 3,Kingsley Layh,Harry Vavallo,Harry Vavallo,1-6,1,6,0,1,Completed,true,false,false
+UA007081,14 Sep 25,8,GPHC Yellow,GPHC Blue,No. 4,Willis Yam,Zach Carmichael,Willis Yam,6-1,6,1,1,0,Completed,true,false,false
+UA007082,14 Sep 25,8,Black Rock,Kooyong,No. 1,Toby Leeds,Banjo James,Toby Leeds,7-6,7,6,1,0,Completed,true,false,false
+UA007082,14 Sep 25,8,Black Rock,Kooyong,No. 2,Hamish Pendred,Annabelle Wong,Hamish Pendred,6-3,6,3,1,0,Completed,true,false,false
+UA007082,14 Sep 25,8,Black Rock,Kooyong,No. 3,Leo Suszko,Remy McCarthy,Leo Suszko,6-1,6,1,1,0,Completed,true,false,false
+UA007082,14 Sep 25,8,Black Rock,Kooyong,No. 4,Ruby Murray,Carrick Wu,Ruby Murray,6-2,6,2,1,0,Completed,true,false,false
+UA007083,14 Sep 25,8,Glen Huntly,Murrumbeena,No. 1,Anastasia Udriste,Chloe Bow,Chloe Bow,5-7,5,7,0,1,Completed,true,false,false
+UA007083,14 Sep 25,8,Glen Huntly,Murrumbeena,No. 2,Oliver Sey,Farah Jaghori,Oliver Sey,6-1,6,1,1,0,Completed,true,false,false
+UA007083,14 Sep 25,8,Glen Huntly,Murrumbeena,No. 3,Danielius Buividas,Jayden Lin,Danielius Buividas,7-6,7,6,1,0,Completed,true,false,false
+UA007083,14 Sep 25,8,Glen Huntly,Murrumbeena,No. 4,Zac Miller,Louis Rintoul,Louis Rintoul,2-6,2,6,0,1,Completed,true,false,false
+UA007084,14 Sep 25,8,Coatesville,Carmelite,No. 1,Hugo Szynkowski,Gene Tulloch,Hugo Szynkowski,6-4,6,4,1,0,Completed,true,false,false
+UA007084,14 Sep 25,8,Coatesville,Carmelite,No. 2,Dax Chen,Charlie-Grace Galanis,Charlie-Grace Galanis,6-7,6,7,0,1,Completed,true,false,false
+UA007084,14 Sep 25,8,Coatesville,Carmelite,No. 3,Hiren Arunkumar,Madeleine Wilson,Hiren Arunkumar,6-2,6,2,1,0,Completed,true,false,false
+UA007084,14 Sep 25,8,Coatesville,Carmelite,No. 4,Timothy Tan,Jack Hogg,Timothy Tan,7-5,7,5,1,0,Completed,true,false,false
+UA007091,12 Oct 25,9,GPHC Blue,Coatesville,No. 1,Tahlia Zangalis,Hugo Szynkowski,Tahlia Zangalis,6-4,6,4,1,0,Completed,true,false,false
+UA007091,12 Oct 25,9,GPHC Blue,Coatesville,No. 2,Caitlin Cassidy,Hiren Arunkumar,Caitlin Cassidy,6-3,6,3,1,0,Completed,true,false,false
+UA007091,12 Oct 25,9,GPHC Blue,Coatesville,No. 3,Oliver Chew,Timothy Tan,Timothy Tan,2-6,2,6,0,1,Completed,true,false,false
+UA007091,12 Oct 25,9,GPHC Blue,Coatesville,No. 4,Harry Vavallo,Xavier Pace,Harry Vavallo,6-0,6,0,1,0,Completed,true,false,false
+UA007092,12 Oct 25,9,Kooyong,GPHC Yellow,No. 1,Banjo James,Christian Lim,Christian Lim,4-6,4,6,0,1,Completed,true,false,false
+UA007092,12 Oct 25,9,Kooyong,GPHC Yellow,No. 2,James Wong,Samuel Wong,James Wong,6-2,6,2,1,0,Completed,true,false,false
+UA007092,12 Oct 25,9,Kooyong,GPHC Yellow,No. 3,Chester Peng,Jackson Kitchen,Chester Peng,6-4,6,4,1,0,Completed,true,false,false
+UA007092,12 Oct 25,9,Kooyong,GPHC Yellow,No. 4,Carrick Wu,Willis Yam,Willis Yam,1-6,1,6,0,1,Completed,true,false,false
+UA007093,12 Oct 25,9,Murrumbeena,Black Rock,No. 1,Chloe Bow,Toby Leeds,Chloe Bow,6-2,6,2,1,0,Completed,true,false,false
+UA007093,12 Oct 25,9,Murrumbeena,Black Rock,No. 2,Phelix Ma,Hamish Pendred,Hamish Pendred,2-6,2,6,0,1,Completed,true,false,false
+UA007093,12 Oct 25,9,Murrumbeena,Black Rock,No. 3,Farah Jaghori,Hugo Davis,Farah Jaghori,6-3,6,3,1,0,Completed,true,false,false
+UA007093,12 Oct 25,9,Murrumbeena,Black Rock,No. 4,Jayden Lin,Leo Suszko,Jayden Lin,6-4,6,4,1,0,Completed,true,false,false
+UA007094,12 Oct 25,9,Carmelite,Glen Huntly,No. 1,Gene Tulloch,Anastasia Udriste,Anastasia Udriste,2-6,2,6,0,1,Completed,true,false,false
+UA007094,12 Oct 25,9,Carmelite,Glen Huntly,No. 2,Charlie-Grace Galanis,Oliver Sey,Oliver Sey,3-6,3,6,0,1,Completed,true,false,false
+UA007094,12 Oct 25,9,Carmelite,Glen Huntly,No. 3,Bryson Walters,Danielius Buividas,Danielius Buividas,2-6,2,6,0,1,Completed,true,false,false
+UA007094,12 Oct 25,9,Carmelite,Glen Huntly,No. 4,Jack Hogg,Faith Green,Jack Hogg,6-4,6,4,1,0,Completed,true,false,false
+UA007101,19 Oct 25,10,Glen Huntly,GPHC Blue,No. 1,Gabrielle Duieb,Tahlia Zangalis,Gabrielle Duieb,6-3,6,3,1,0,Completed,true,false,false
+UA007101,19 Oct 25,10,Glen Huntly,GPHC Blue,No. 2,Anastasia Udriste,Caitlin Cassidy,Anastasia Udriste,6-4,6,4,1,0,Completed,true,false,false
+UA007101,19 Oct 25,10,Glen Huntly,GPHC Blue,No. 3,Oliver Sey,Oliver Chew,Oliver Sey,6-2,6,2,1,0,Completed,true,false,false
+UA007101,19 Oct 25,10,Glen Huntly,GPHC Blue,No. 4,Faith Green,Harry Vavallo,Harry Vavallo,3-6,3,6,0,1,Completed,true,false,false
+UA007102,19 Oct 25,10,Coatesville,Kooyong,No. 1,Hugo Szynkowski,Banjo James,Banjo James,2-6,2,6,0,1,Completed,true,false,false
+UA007102,19 Oct 25,10,Coatesville,Kooyong,No. 2,Hiren Arunkumar,Annabelle Wong,Hiren Arunkumar,6-3,6,3,1,0,Completed,true,false,false
+UA007102,19 Oct 25,10,Coatesville,Kooyong,No. 3,Timothy Tan,Chester Peng,Chester Peng,4-6,4,6,0,1,Completed,true,false,false
+UA007102,19 Oct 25,10,Coatesville,Kooyong,No. 4,Xavier Pace,Carrick Wu,Carrick Wu,4-6,4,6,0,1,Completed,true,false,false
+UA007103,19 Oct 25,10,GPHC Yellow,Murrumbeena,No. 1,Samuel Wong,Phelix Ma,Phelix Ma,2-6,2,6,0,1,Completed,true,false,false
+UA007103,19 Oct 25,10,GPHC Yellow,Murrumbeena,No. 2,Harry Mansell,Farah Jaghori,Farah Jaghori,1-6,1,6,0,1,Completed,true,false,false
+UA007103,19 Oct 25,10,GPHC Yellow,Murrumbeena,No. 3,Jackson Kitchen,Jayden Lin,Jayden Lin,0-6,0,6,0,1,Completed,true,false,false
+UA007103,19 Oct 25,10,GPHC Yellow,Murrumbeena,No. 4,Kingsley Layh,Louis Rintoul,Louis Rintoul,5-7,5,7,0,1,Completed,true,false,false
+UA007104,19 Oct 25,10,Black Rock,Carmelite,No. 1,Toby Leeds,Leo Tobin,Toby Leeds,6-2,6,2,1,0,Completed,true,false,false
+UA007104,19 Oct 25,10,Black Rock,Carmelite,No. 2,Hamish Pendred,Madeleine Wilson,Hamish Pendred,6-2,6,2,1,0,Completed,true,false,false
+UA007104,19 Oct 25,10,Black Rock,Carmelite,No. 3,Hugo Davis,Bryson Walters,Hugo Davis,6-3,6,3,1,0,Completed,true,false,false
+UA007104,19 Oct 25,10,Black Rock,Carmelite,No. 4,Leo Suszko,Jack Hogg,Leo Suszko,7-5,7,5,1,0,Completed,true,false,false
+UA007111,26 Oct 25,11,GPHC Blue,Black Rock,No. 1,Tahlia Zangalis,Toby Leeds,Tahlia Zangalis,6-4,6,4,1,0,Completed,true,false,false
+UA007111,26 Oct 25,11,GPHC Blue,Black Rock,No. 2,Caitlin Cassidy,Hamish Pendred,Caitlin Cassidy,6-2,6,2,1,0,Completed,true,false,false
+UA007111,26 Oct 25,11,GPHC Blue,Black Rock,No. 3,Oliver Chew,Hugo Davis,Oliver Chew,7-6,7,6,1,0,Completed,true,false,false
+UA007111,26 Oct 25,11,GPHC Blue,Black Rock,No. 4,Harry Vavallo,Leo Suszko,Leo Suszko,0-6,0,6,0,1,Completed,true,false,false
+UA007112,26 Oct 25,11,Kooyong,Glen Huntly,No. 1,James Wong,Gabrielle Duieb,James Wong,6-0,6,0,1,0,Completed,true,false,false
+UA007112,26 Oct 25,11,Kooyong,Glen Huntly,No. 2,Chester Peng,Anastasia Udriste,Chester Peng,6-2,6,2,1,0,Completed,true,false,false
+UA007112,26 Oct 25,11,Kooyong,Glen Huntly,No. 3,Remy McCarthy,Oliver Sey,Remy McCarthy,6-0,6,0,1,0,Completed,true,false,false
+UA007112,26 Oct 25,11,Kooyong,Glen Huntly,No. 4,Carrick Wu,Zac Miller,Carrick Wu,6-3,6,3,1,0,Completed,true,false,false
+UA007113,26 Oct 25,11,Murrumbeena,Coatesville,No. 1,Chloe Bow,Dax Chen,Chloe Bow,6-0,6,0,1,0,Completed,true,false,false
+UA007113,26 Oct 25,11,Murrumbeena,Coatesville,No. 2,Farah Jaghori,Hiren Arunkumar,Farah Jaghori,6-1,6,1,1,0,Completed,true,false,false
+UA007113,26 Oct 25,11,Murrumbeena,Coatesville,No. 3,Ryan Yang,Xavier Pace,Ryan Yang,6-2,6,2,1,0,Completed,true,true,false
+UA007113,26 Oct 25,11,Murrumbeena,Coatesville,No. 4,Jayden Lin,Ayaan Khanna-sehgal,Jayden Lin,6-0,6,0,1,0,Completed,true,false,true
+UA007114,26 Oct 25,11,Carmelite,GPHC Yellow,No. 1,Leo Tobin,Christian Lim,Christian Lim,3-6,3,6,0,1,Completed,true,false,false
+UA007114,26 Oct 25,11,Carmelite,GPHC Yellow,No. 2,Madeleine Wilson,Samuel Wong,Madeleine Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA007114,26 Oct 25,11,Carmelite,GPHC Yellow,No. 3,Bryson Walters,Jackson Kitchen,Jackson Kitchen,1-6,1,6,0,1,Completed,true,false,false
+UA007114,26 Oct 25,11,Carmelite,GPHC Yellow,No. 4,Jack Hogg,Willis Yam,Willis Yam,4-5,4,5,0,1,Completed,true,false,false
+UA007123,09 Nov 25,12,GPHC Yellow,Black Rock,No. 1,Christian Lim,Toby Leeds,Toby Leeds,3-6,3,6,0,1,Completed,true,false,false
+UA007123,09 Nov 25,12,GPHC Yellow,Black Rock,No. 2,Harry Mansell,Hamish Pendred,Hamish Pendred,2-6,2,6,0,1,Completed,true,false,false
+UA007123,09 Nov 25,12,GPHC Yellow,Black Rock,No. 3,Kingsley Layh,Hugo Davis,Kingsley Layh,7-6,7,6,1,0,Completed,true,false,false
+UA007123,09 Nov 25,12,GPHC Yellow,Black Rock,No. 4,Willis Yam,Ruby Murray,Willis Yam,6-4,6,4,1,0,Completed,true,false,false
+UA007124,09 Nov 25,12,Kooyong,GPHC Blue,No. 1,James Wong,Tahlia Zangalis,James Wong,6-2,6,2,1,0,Completed,true,false,false
+UA007124,09 Nov 25,12,Kooyong,GPHC Blue,No. 2,Annabelle Wong,Caitlin Cassidy,Caitlin Cassidy,0-6,0,6,0,1,Completed,true,false,false
+UA007124,09 Nov 25,12,Kooyong,GPHC Blue,No. 3,Remy McCarthy,Oliver Chew,Oliver Chew,3-6,3,6,0,1,Completed,true,false,false
+UA007124,09 Nov 25,12,Kooyong,GPHC Blue,No. 4,Carrick Wu,Zach Carmichael,Carrick Wu,6-4,6,4,1,0,Completed,true,false,false
+UA007131,16 Nov 25,13,Murrumbeena,Kooyong,No. 1,Chloe Bow,Banjo James,Chloe Bow,6-1,6,1,1,0,Completed,true,false,false
+UA007131,16 Nov 25,13,Murrumbeena,Kooyong,No. 2,Phelix Ma,James Wong,Phelix Ma,6-0,6,0,1,0,Completed,true,false,false
+UA007131,16 Nov 25,13,Murrumbeena,Kooyong,No. 3,Farah Jaghori,Annabelle Wong,Farah Jaghori,6-0,6,0,1,0,Completed,true,false,false
+UA007131,16 Nov 25,13,Murrumbeena,Kooyong,No. 4,Louis Rintoul,Carrick Wu,Louis Rintoul,6-2,6,2,1,0,Completed,true,false,false
+UA007132,16 Nov 25,13,GPHC Blue,Carmelite,No. 1,Caitlin Cassidy,Gene Tulloch,Caitlin Cassidy,6-0,6,0,1,0,Completed,true,false,false
+UA007132,16 Nov 25,13,GPHC Blue,Carmelite,No. 2,Oliver Chew,Leo Tobin,Oliver Chew,6-2,6,2,1,0,Completed,true,false,false
+UA007132,16 Nov 25,13,GPHC Blue,Carmelite,No. 3,Harry Vavallo,Madeleine Wilson,Harry Vavallo,6-3,6,3,1,0,Completed,true,false,false
+UA007132,16 Nov 25,13,GPHC Blue,Carmelite,No. 4,Zach Carmichael,Bryson Walters,Bryson Walters,4-6,4,6,0,1,Completed,true,false,false
+UA007133,16 Nov 25,13,Black Rock,Glen Huntly,No. 1,Toby Leeds,Gabrielle Duieb,Toby Leeds,6-2,6,2,1,0,Completed,true,false,false
+UA007133,16 Nov 25,13,Black Rock,Glen Huntly,No. 2,Hamish Pendred,Anastasia Udriste,Hamish Pendred,6-1,6,1,1,0,Completed,true,false,false
+UA007133,16 Nov 25,13,Black Rock,Glen Huntly,No. 3,Leo Suszko,Oliver Sey,Leo Suszko,6-2,6,2,1,0,Completed,true,false,false
+UA007133,16 Nov 25,13,Black Rock,Glen Huntly,No. 4,Ruby Murray,Zac Miller,Ruby Murray,6-3,6,3,1,0,Completed,true,false,false
+UA007134,16 Nov 25,13,Coatesville,GPHC Yellow,No. 1,Dax Chen,Samuel Wong,Samuel Wong,3-6,3,6,0,1,Completed,true,false,false
+UA007134,16 Nov 25,13,Coatesville,GPHC Yellow,No. 2,Hiren Arunkumar,Harry Mansell,Harry Mansell,4-6,4,6,0,1,Completed,true,false,false
+UA007134,16 Nov 25,13,Coatesville,GPHC Yellow,No. 3,Timothy Tan,Jackson Kitchen,Jackson Kitchen,0-6,0,6,0,1,Completed,true,false,false
+UA007134,16 Nov 25,13,Coatesville,GPHC Yellow,No. 4,Xavier Pace,Kingsley Layh,Kingsley Layh,4-6,4,6,0,1,Completed,true,false,false
+UA007143,23 Nov 25,14,Black Rock,Coatesville,No. 1,Toby Leeds,Hugo Szynkowski,Toby Leeds,6-0,6,0,1,0,Completed,true,false,false
+UA007143,23 Nov 25,14,Black Rock,Coatesville,No. 2,Hugo Davis,Hiren Arunkumar,Hugo Davis,6-1,6,1,1,0,Completed,true,false,false
+UA007143,23 Nov 25,14,Black Rock,Coatesville,No. 3,Leo Suszko,Timothy Tan,Leo Suszko,6-2,6,2,1,0,Completed,true,false,false
+UA007143,23 Nov 25,14,Black Rock,Coatesville,No. 4,Ruby Murray,Xavier Pace,Ruby Murray,6-1,6,1,1,0,Completed,true,false,false
+UA007301,,16,Black Rock,GPHC Blue,No. 1,Toby Leeds,Caitlin Cassidy,Toby Leeds,6-2,6,2,1,0,Completed,true,false,false
+UA007301,,16,Black Rock,GPHC Blue,No. 2,Hamish Pendred,Oliver Chew,Hamish Pendred,6-1,6,1,1,0,Completed,true,false,false
+UA007301,,16,Black Rock,GPHC Blue,No. 3,Hugo Davis,Harry Vavallo,Harry Vavallo,2-6,2,6,0,1,Completed,true,false,false
+UA007301,,16,Black Rock,GPHC Blue,No. 4,Leo Suszko,Zach Carmichael,Leo Suszko,6-3,6,3,1,0,Completed,true,false,false
+UA007302,,16,Murrumbeena,Kooyong,No. 1,Chloe Bow,Banjo James,Chloe Bow,6-1,6,1,1,0,Completed,true,false,false
+UA007302,,16,Murrumbeena,Kooyong,No. 2,Phelix Ma,Annabelle Wong,Phelix Ma,6-1,6,1,1,0,Completed,true,false,false
+UA007302,,16,Murrumbeena,Kooyong,No. 3,Farah Jaghori,Chester Peng,Farah Jaghori,6-2,6,2,1,0,Completed,true,false,false
+UA007302,,16,Murrumbeena,Kooyong,No. 4,Jayden Lin,Remy McCarthy,Jayden Lin,7-5,7,5,1,0,Completed,true,false,false
+UA007321,,17,Black Rock,Murrumbeena,No. 1,Toby Leeds,Chloe Bow,Toby Leeds,6-3,6,3,1,0,Completed,true,false,false
+UA007321,,17,Black Rock,Murrumbeena,No. 2,Hamish Pendred,Phelix Ma,Hamish Pendred,6-3,6,3,1,0,Completed,true,false,false
+UA007321,,17,Black Rock,Murrumbeena,No. 3,Hugo Davis,Farah Jaghori,Farah Jaghori,2-6,2,6,0,1,Completed,true,false,false
+UA007321,,17,Black Rock,Murrumbeena,No. 4,Leo Suszko,Louis Rintoul,Leo Suszko,6-4,6,4,1,0,Completed,true,false,false

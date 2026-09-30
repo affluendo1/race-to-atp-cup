@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA34-UA003",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2024",
+  "season_id": "UA34",
+  "season_label": "Autumn 2024",
+  "source_section_code": "UA003",
+  "section_label": "Section 3",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "GPHC",
+      "wins": 11,
+      "points": 97,
+      "percentage": 144.07,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Glen Huntly",
+      "wins": 10,
+      "points": 96,
+      "percentage": 142.07,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "BLTC Blue",
+      "wins": 10,
+      "points": 95,
+      "percentage": 136.9,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Tennis World",
+      "wins": 8,
+      "points": 77,
+      "percentage": 105.06,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal South Yarra",
+      "wins": 7,
+      "points": 73,
+      "percentage": 103.1,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Victory Park",
+      "wins": 4,
+      "points": 49,
+      "percentage": 79.61,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Le Page",
+      "wins": 3,
+      "points": 38,
+      "percentage": 63.85,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave",
+      "wins": 2,
+      "points": 35,
+      "percentage": 64.05,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA34-UA003",
+  "fixtures": 59,
+  "completed_fixtures": 59,
+  "draw_fixtures": 45,
+  "singles_rubbers": 236,
+  "doubles_rubbers": 118,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

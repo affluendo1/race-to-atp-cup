@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA20-UA016",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2017",
+  "season_id": "UA20",
+  "season_label": "Autumn 2017",
+  "source_section_code": "UA016",
+  "section_label": "Section 16",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Black Rock",
+      "wins": 11,
+      "points": 107,
+      "percentage": 170.64,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Bodley Tennis Plus",
+      "wins": 12,
+      "points": 104,
+      "percentage": 145.07,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "St Mary's",
+      "wins": 10,
+      "points": 95,
+      "percentage": 130.77,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Parkdale",
+      "wins": 7,
+      "points": 74,
+      "percentage": 100.0,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 4,
+      "points": 58,
+      "percentage": 93.19,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St Leonards Tennis",
+      "wins": 5,
+      "points": 52,
+      "percentage": 76.46,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Hampton",
+      "wins": 4,
+      "points": 51,
+      "percentage": 82.25,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Highett",
+      "wins": 0,
+      "points": 19,
+      "percentage": 54.55,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA20-UA016",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

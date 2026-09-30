@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA28-UA018",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2021",
+  "season_id": "UA28",
+  "season_label": "Autumn 2021",
+  "source_section_code": "UA018",
+  "section_label": "Section 18",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Elsternwick Park",
+      "wins": 9,
+      "points": 103,
+      "percentage": 236.0,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St James",
+      "wins": 8,
+      "points": 80,
+      "percentage": 122.18,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "GPHC 2",
+      "wins": 6,
+      "points": 76,
+      "percentage": 125.97,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Parkdale",
+      "wins": 6,
+      "points": 73,
+      "percentage": 116.92,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC 1",
+      "wins": 5,
+      "points": 68,
+      "percentage": 104.6,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Le Page",
+      "wins": 3,
+      "points": 48,
+      "percentage": 68.79,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Maccabi",
+      "wins": 1,
+      "points": 42,
+      "percentage": 48.67,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Highett",
+      "wins": 0,
+      "points": 30,
+      "percentage": 56.68,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA28-UA018",
+  "fixtures": 55,
+  "completed_fixtures": 41,
+  "draw_fixtures": 59,
+  "singles_rubbers": 163,
+  "doubles_rubbers": 82,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

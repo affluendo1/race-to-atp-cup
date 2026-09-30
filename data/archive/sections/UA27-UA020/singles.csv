@@ -1,0 +1,61 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA020011,15 Nov 20,1,Carmelite,Murrumbeena,No. 1,Talia Kiprillis,Alex Brown,Alex Brown,4-6,4,6,0,1,Completed,true,false,false
+UA020011,15 Nov 20,1,Carmelite,Murrumbeena,No. 2,Evan Lagas,Kyle Yamada,Evan Lagas,6-0,6,0,1,0,Completed,true,false,false
+UA020011,15 Nov 20,1,Carmelite,Murrumbeena,No. 3,Lewis Grant,Noah Bacon,Noah Bacon,5-7,5,7,0,1,Completed,true,false,false
+UA020011,15 Nov 20,1,Carmelite,Murrumbeena,No. 4,Marius Gozdzicki,Eric Tran,Marius Gozdzicki,6-0,6,0,1,0,Completed,true,false,true
+UA020012,15 Nov 20,1,St James,Glen Eira,No. 1,Emma Stewart,Oskar Williams,Emma Stewart,7-6,7,6,1,0,Completed,true,false,false
+UA020012,15 Nov 20,1,St James,Glen Eira,No. 2,Mac Rogers-Wilson,Toby Shmuel,Mac Rogers-Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA020012,15 Nov 20,1,St James,Glen Eira,No. 3,Emma Cunningham,Mia Milner,Mia Milner,2-6,2,6,0,1,Completed,true,false,false
+UA020012,15 Nov 20,1,St James,Glen Eira,No. 4,William Cunningham,Camille Demathieu,Camille Demathieu,2-6,2,6,0,1,Completed,true,true,false
+UA020021,22 Nov 20,2,Royal Ave,Carmelite,No. 1,Hannah Chruszcz,Talia Kiprillis,Hannah Chruszcz,6-1,6,1,1,0,Completed,true,false,false
+UA020021,22 Nov 20,2,Royal Ave,Carmelite,No. 2,Jake Barr,Evan Lagas,Evan Lagas,0-6,0,6,0,1,Completed,true,false,false
+UA020021,22 Nov 20,2,Royal Ave,Carmelite,No. 3,Charlotte Henry,Lewis Grant,Lewis Grant,3-6,3,6,0,1,Completed,true,false,false
+UA020021,22 Nov 20,2,Royal Ave,Carmelite,No. 4,Liam O'Donnell,Marius Gozdzicki,Marius Gozdzicki,1-6,1,6,0,1,Completed,true,false,false
+UA020022,22 Nov 20,2,Murrumbeena,St James,No. 1,Alex Brown,Ben Lajbcygier,Ben Lajbcygier,1-6,1,6,0,1,Completed,true,false,false
+UA020022,22 Nov 20,2,Murrumbeena,St James,No. 2,Kyle Yamada,Emma Stewart,Emma Stewart,0-6,0,6,0,1,Completed,true,false,false
+UA020022,22 Nov 20,2,Murrumbeena,St James,No. 3,Noah Bacon,Mac Rogers-Wilson,Mac Rogers-Wilson,5-7,5,7,0,1,Completed,true,false,false
+UA020022,22 Nov 20,2,Murrumbeena,St James,No. 4,Hayden Amaransinghe,Julia Luo,Julia Luo,1-6,1,6,0,1,Completed,true,true,false
+UA020023,22 Nov 20,2,Glen Eira,Bentleigh Rec,No. 1,Oskar Williams,Kevin Yu,Oskar Williams,7-5,7,5,1,0,Completed,true,false,false
+UA020023,22 Nov 20,2,Glen Eira,Bentleigh Rec,No. 2,Toby Shmuel,Daniel Foldvari,Daniel Foldvari,1-6,1,6,0,1,Completed,true,false,false
+UA020023,22 Nov 20,2,Glen Eira,Bentleigh Rec,No. 3,Miha Mihalovski,Benjamin Liu,Miha Mihalovski,6-3,6,3,1,0,Completed,true,false,false
+UA020023,22 Nov 20,2,Glen Eira,Bentleigh Rec,No. 4,Ayaka Marutani,Gabriel Raboy,Ayaka Marutani,7-6,7,6,1,0,Completed,true,false,true
+UA020032,29 Nov 20,3,St James,Royal Ave,No. 1,Ben Lajbcygier,Hannah Chruszcz,Hannah Chruszcz,2-6,2,6,0,1,Completed,true,false,false
+UA020032,29 Nov 20,3,St James,Royal Ave,No. 2,Emma Stewart,Jake Barr,Emma Stewart,7-6,7,6,1,0,Completed,true,false,false
+UA020032,29 Nov 20,3,St James,Royal Ave,No. 3,Mac Rogers-Wilson,Charlotte Henry,Mac Rogers-Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA020032,29 Nov 20,3,St James,Royal Ave,No. 4,Emma Cunningham,Amelia Haber,Emma Cunningham,6-0,6,0,1,0,Completed,true,false,false
+UA020033,29 Nov 20,3,Bentleigh Rec,Murrumbeena,No. 1,Kevin Yu,Prayash Gurung,Kevin Yu,6-0,6,0,1,0,Completed,true,false,false
+UA020033,29 Nov 20,3,Bentleigh Rec,Murrumbeena,No. 2,Luke Zhai,Eric Tran,Luke Zhai,6-1,6,1,1,0,Completed,true,false,true
+UA020033,29 Nov 20,3,Bentleigh Rec,Murrumbeena,No. 3,Daniel Foldvari,Max Tanner,Daniel Foldvari,6-1,6,1,1,0,Completed,true,false,false
+UA020033,29 Nov 20,3,Bentleigh Rec,Murrumbeena,No. 4,Jack Ye,Kyle Yamada,Kyle Yamada,3-6,3,6,0,1,Completed,true,false,false
+UA020042,06 Dec 20,4,Parkdale,St James,No. 1,Ilinca Di Siciu,Ben Lajbcygier,Ilinca Di Siciu,6-3,6,3,1,0,Completed,true,false,false
+UA020042,06 Dec 20,4,Parkdale,St James,No. 2,Abi Arculus,Emma Stewart,Emma Stewart,2-6,2,6,0,1,Completed,true,false,false
+UA020042,06 Dec 20,4,Parkdale,St James,No. 3,Amy Liu,Emma Cunningham,Emma Cunningham,2-6,2,6,0,1,Completed,true,false,false
+UA020042,06 Dec 20,4,Parkdale,St James,No. 4,Ella O'Connor,Julia Luo,Ella O'Connor,7-6,7,6,1,0,Completed,true,false,false
+UA020043,06 Dec 20,4,Royal Ave,Bentleigh Rec,No. 1,Hannah Chruszcz,Kevin Yu,Hannah Chruszcz,6-2,6,2,1,0,Completed,true,false,false
+UA020043,06 Dec 20,4,Royal Ave,Bentleigh Rec,No. 2,Charlotte Henry,Daniel Foldvari,Daniel Foldvari,1-6,1,6,0,1,Completed,true,false,false
+UA020043,06 Dec 20,4,Royal Ave,Bentleigh Rec,No. 3,Liam O'Donnell,Benjamin Liu,Benjamin Liu,1-6,1,6,0,1,Completed,true,false,false
+UA020043,06 Dec 20,4,Royal Ave,Bentleigh Rec,No. 4,Amelia Haber,Gabriel Raboy,Gabriel Raboy,2-6,2,6,0,1,Completed,true,false,true
+UA020052,13 Dec 20,5,Royal Ave,Parkdale,No. 1,Hannah Chruszcz,Georgia Bellette,Hannah Chruszcz,6-2,6,2,1,0,Completed,true,false,false
+UA020052,13 Dec 20,5,Royal Ave,Parkdale,No. 2,Jake Barr,Ilinca Di Siciu,Jake Barr,6-4,6,4,1,0,Completed,true,false,false
+UA020052,13 Dec 20,5,Royal Ave,Parkdale,No. 3,Liam O'Donnell,Abi Arculus,Liam O'Donnell,6-3,6,3,1,0,Completed,true,false,false
+UA020052,13 Dec 20,5,Royal Ave,Parkdale,No. 4,Amelia Haber,Mia Bellette,Mia Bellette,0-6,0,6,0,1,Completed,true,false,false
+UA020053,13 Dec 20,5,Glen Eira,Murrumbeena,No. 1,Oskar Williams,Prayash Gurung,Oskar Williams,6-2,6,2,1,0,Completed,true,false,false
+UA020053,13 Dec 20,5,Glen Eira,Murrumbeena,No. 2,Miha Mihalovski,Max Tanner,Miha Mihalovski,7-5,7,5,1,0,Completed,true,false,false
+UA020053,13 Dec 20,5,Glen Eira,Murrumbeena,No. 3,Mia Milner,Kyle Yamada,Kyle Yamada,3-6,3,6,0,1,Completed,true,false,false
+UA020053,13 Dec 20,5,Glen Eira,Murrumbeena,No. 4,Ayaka Marutani,Noah Bacon,Ayaka Marutani,6-3,6,3,1,0,Completed,true,false,false
+UA020054,13 Dec 20,5,Carmelite,St James,No. 1,Oliver Trus,Ben Lajbcygier,Oliver Trus,6-2,6,2,1,0,Completed,true,true,false
+UA020054,13 Dec 20,5,Carmelite,St James,No. 2,Talia Kiprillis,Mac Rogers-Wilson,Mac Rogers-Wilson,2-6,2,6,0,1,Completed,true,false,false
+UA020054,13 Dec 20,5,Carmelite,St James,No. 3,Lewis Grant,Emma Cunningham,Emma Cunningham,2-6,2,6,0,1,Completed,true,false,false
+UA020054,13 Dec 20,5,Carmelite,St James,No. 4,Marius Gozdzicki,Julia Luo,Marius Gozdzicki,6-0,6,0,1,0,Completed,true,false,false
+UA020061,20 Dec 20,6,St James,Bentleigh Rec,No. 1,Emma Stewart,Kevin Yu,Kevin Yu,1-6,1,6,0,1,Completed,true,false,false
+UA020061,20 Dec 20,6,St James,Bentleigh Rec,No. 2,Mac Rogers-Wilson,Nemo Yao,Mac Rogers-Wilson,7-5,7,5,1,0,Completed,true,false,true
+UA020061,20 Dec 20,6,St James,Bentleigh Rec,No. 3,Emma Cunningham,Gabriel Raboy,Gabriel Raboy,2-6,2,6,0,1,Completed,true,false,true
+UA020061,20 Dec 20,6,St James,Bentleigh Rec,No. 4,Isabella Harrington,Benjamin Liu,Benjamin Liu,1-6,1,6,0,1,Completed,true,true,false
+UA020063,20 Dec 20,6,Parkdale,Glen Eira,No. 1,Georgia Bellette,Oskar Williams,Georgia Bellette,6-4,6,4,1,0,Completed,true,false,false
+UA020063,20 Dec 20,6,Parkdale,Glen Eira,No. 2,Mia Bellette,Ayaka Marutani,Mia Bellette,6-4,6,4,1,0,Completed,true,false,false
+UA020063,20 Dec 20,6,Parkdale,Glen Eira,No. 3,Amy Liu,Camille Demathieu,Camille Demathieu,0-6,0,6,0,1,Completed,true,false,false
+UA020063,20 Dec 20,6,Parkdale,Glen Eira,No. 4,[Unnamed player — TROLS UA020063 home code 4],Toby Shmuel,Toby Shmuel,0-6,0,6,0,1,Completed,false,false,false
+UA020064,20 Dec 20,6,Murrumbeena,Royal Ave,No. 1,Prayash Gurung,Jake Barr,Jake Barr,2-6,2,6,0,1,Completed,true,false,false
+UA020064,20 Dec 20,6,Murrumbeena,Royal Ave,No. 2,Max Tanner,Amelia Haber,Max Tanner,6-2,6,2,1,0,Completed,true,false,false
+UA020064,20 Dec 20,6,Murrumbeena,Royal Ave,No. 3,Alex Brown,Charlotte Henry,Alex Brown,6-2,6,2,1,0,Completed,true,false,false
+UA020064,20 Dec 20,6,Murrumbeena,Royal Ave,No. 4,Kyle Yamada,Rosie Barr,Kyle Yamada,6-1,6,1,1,0,Completed,true,false,true

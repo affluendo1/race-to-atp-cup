@@ -1,0 +1,81 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA015011,02 Feb 20,1,St Mary's,Dendy Park,No. 1,Finn Whitson,Miguel Najeras,Miguel Najeras,4-6,4,6,0,1,Completed,true,false,false
+UA015011,02 Feb 20,1,St Mary's,Dendy Park,No. 2,Josh Lin,Slade Caldwell,Josh Lin,6-2,6,2,1,0,Completed,true,false,false
+UA015011,02 Feb 20,1,St Mary's,Dendy Park,No. 3,Kenneth Yeung,Crystal Yannopoulos,Kenneth Yeung,6-4,6,4,1,0,Completed,true,false,false
+UA015011,02 Feb 20,1,St Mary's,Dendy Park,No. 4,Finley Ward,Madison Luu,Finley Ward,6-4,6,4,1,0,Completed,true,false,false
+UA015012,02 Feb 20,1,Royal South Yarra,Royal Ave,No. 1,Alice Gunn,Vadim Goreux,Alice Gunn,6-1,6,1,1,0,Completed,true,false,false
+UA015012,02 Feb 20,1,Royal South Yarra,Royal Ave,No. 2,Eloise Thompson,Oscar Meadows,Oscar Meadows,5-7,5,7,0,1,Completed,true,false,false
+UA015012,02 Feb 20,1,Royal South Yarra,Royal Ave,No. 3,Sophie Long,Natalie Dureau,Natalie Dureau,2-6,2,6,0,1,Completed,true,false,false
+UA015012,02 Feb 20,1,Royal South Yarra,Royal Ave,No. 4,Isabella Soutter,Caleb Jackson-Wright,Caleb Jackson-Wright,3-6,3,6,0,1,Completed,true,true,false
+UA015013,02 Feb 20,1,Hurlingham Park,Elsternwick Park,No. 1,Albert MacGowan,Noah Inglis,Albert MacGowan,6-3,6,3,1,0,Completed,true,false,false
+UA015013,02 Feb 20,1,Hurlingham Park,Elsternwick Park,No. 2,Laura Wharton,Wynn Arumugam,Laura Wharton,6-3,6,3,1,0,Completed,true,false,false
+UA015013,02 Feb 20,1,Hurlingham Park,Elsternwick Park,No. 3,Scarlett MacGowan,Oscar Rhode,Scarlett MacGowan,6-1,6,1,1,0,Completed,true,false,false
+UA015013,02 Feb 20,1,Hurlingham Park,Elsternwick Park,No. 4,Olivia Tasker,Alexander Dowling,Alexander Dowling,3-6,3,6,0,1,Completed,true,false,false
+UA015014,02 Feb 20,1,GPHC,St Andrews MB KE,No. 1,Lachlan Ash-Grimm,Josh Telford,Josh Telford,1-6,1,6,0,1,Completed,true,false,false
+UA015014,02 Feb 20,1,GPHC,St Andrews MB KE,No. 2,Akash Roy,Alexandra Telford,Alexandra Telford,1-6,1,6,0,1,Completed,true,false,false
+UA015014,02 Feb 20,1,GPHC,St Andrews MB KE,No. 3,Nicholas Wang,Charlie Moulang,Nicholas Wang,6-1,6,1,1,0,Completed,true,false,false
+UA015014,02 Feb 20,1,GPHC,St Andrews MB KE,No. 4,Toby Snyder,Grace Edwards,Toby Snyder,6-4,6,4,1,0,Completed,true,false,false
+UA015021,09 Feb 20,2,St Andrews MB KE,St Mary's,No. 1,Josh Telford,Finn Whitson,Josh Telford,6-1,6,1,1,0,Completed,true,false,false
+UA015021,09 Feb 20,2,St Andrews MB KE,St Mary's,No. 2,Kiera Hatzistavros,Josh Lin,Kiera Hatzistavros,6-4,6,4,1,0,Completed,true,false,false
+UA015021,09 Feb 20,2,St Andrews MB KE,St Mary's,No. 3,Grace Edwards,Kenneth Yeung,Kenneth Yeung,3-6,3,6,0,1,Completed,true,false,false
+UA015021,09 Feb 20,2,St Andrews MB KE,St Mary's,No. 4,Bob Njiffels,Finley Ward,Finley Ward,1-6,1,6,0,1,Completed,true,false,false
+UA015022,09 Feb 20,2,Dendy Park,Royal South Yarra,No. 1,Miguel Najeras,Georgia Cannon,Miguel Najeras,6-1,6,1,1,0,Completed,true,false,false
+UA015022,09 Feb 20,2,Dendy Park,Royal South Yarra,No. 2,Slade Caldwell,Tabitha Ingham,Slade Caldwell,6-0,6,0,1,0,Completed,true,false,false
+UA015022,09 Feb 20,2,Dendy Park,Royal South Yarra,No. 3,Crystal Yannopoulos,Isabella Soutter,Crystal Yannopoulos,7-6,7,6,1,0,Completed,true,false,true
+UA015022,09 Feb 20,2,Dendy Park,Royal South Yarra,No. 4,Madison Luu,Lucy Hunt,Madison Luu,6-2,6,2,1,0,Completed,true,false,true
+UA015023,09 Feb 20,2,Royal Ave,Hurlingham Park,No. 1,Harry Toomey,Jeremy Hutchins,Jeremy Hutchins,4-6,4,6,0,1,Completed,true,false,false
+UA015023,09 Feb 20,2,Royal Ave,Hurlingham Park,No. 2,Vadim Goreux,Scarlett MacGowan,Scarlett MacGowan,0-6,0,6,0,1,Completed,true,false,false
+UA015023,09 Feb 20,2,Royal Ave,Hurlingham Park,No. 3,Oscar Meadows,Laura Wharton,Laura Wharton,3-6,3,6,0,1,Completed,true,false,false
+UA015023,09 Feb 20,2,Royal Ave,Hurlingham Park,No. 4,Natalie Dureau,Albert MacGowan,Natalie Dureau,6-0,6,0,1,0,Completed,true,false,false
+UA015024,09 Feb 20,2,Elsternwick Park,GPHC,No. 1,Oliver Jorgensen,Patrick Cassidy,Oliver Jorgensen,7-6,7,6,1,0,Completed,true,false,false
+UA015024,09 Feb 20,2,Elsternwick Park,GPHC,No. 2,Noah Inglis,Lachlan Ash-Grimm,Lachlan Ash-Grimm,0-6,0,6,0,1,Completed,true,false,false
+UA015024,09 Feb 20,2,Elsternwick Park,GPHC,No. 3,Wynn Arumugam,Toby Snyder,Wynn Arumugam,6-2,6,2,1,0,Completed,true,false,false
+UA015024,09 Feb 20,2,Elsternwick Park,GPHC,No. 4,Alexander Dowling,Ned Jeffreys,Alexander Dowling,6-4,6,4,1,0,Completed,true,false,false
+UA015031,16 Feb 20,3,St Mary's,Elsternwick Park,No. 1,Finn Whitson,Oliver Jorgensen,Finn Whitson,6-0,6,0,1,0,Completed,true,false,false
+UA015031,16 Feb 20,3,St Mary's,Elsternwick Park,No. 2,Josh Lin,Noah Inglis,Josh Lin,6-0,6,0,1,0,Completed,true,false,false
+UA015031,16 Feb 20,3,St Mary's,Elsternwick Park,No. 3,Kenneth Yeung,Oscar Rhode,Kenneth Yeung,6-1,6,1,1,0,Completed,true,false,false
+UA015031,16 Feb 20,3,St Mary's,Elsternwick Park,No. 4,Finley Ward,Alexander Dowling,Alexander Dowling,3-6,3,6,0,1,Completed,true,false,false
+UA015032,16 Feb 20,3,Royal South Yarra,St Andrews MB KE,No. 1,Alice Gunn,Alexandra Telford,Alice Gunn,6-0,6,0,1,0,Completed,true,false,false
+UA015032,16 Feb 20,3,Royal South Yarra,St Andrews MB KE,No. 2,Georgia Cannon,Kiera Hatzistavros,Kiera Hatzistavros,1-6,1,6,0,1,Completed,true,false,false
+UA015032,16 Feb 20,3,Royal South Yarra,St Andrews MB KE,No. 3,Tabitha Ingham,Charlie Moulang,Charlie Moulang,0-6,0,6,0,1,Completed,true,false,false
+UA015032,16 Feb 20,3,Royal South Yarra,St Andrews MB KE,No. 4,Lucy Hunt,Bob Njiffels,Bob Njiffels,2-6,2,6,0,1,Completed,true,true,false
+UA015033,16 Feb 20,3,Hurlingham Park,Dendy Park,No. 1,Laura Wharton,Miguel Najeras,Miguel Najeras,2-6,2,6,0,1,Completed,true,false,false
+UA015033,16 Feb 20,3,Hurlingham Park,Dendy Park,No. 2,Scarlett MacGowan,Slade Caldwell,Slade Caldwell,1-6,1,6,0,1,Completed,true,false,false
+UA015033,16 Feb 20,3,Hurlingham Park,Dendy Park,No. 3,Olivia Tasker,Crystal Yannopoulos,Olivia Tasker,6-2,6,2,1,0,Completed,true,false,false
+UA015033,16 Feb 20,3,Hurlingham Park,Dendy Park,No. 4,Evie Hart,Madison Luu,Madison Luu,0-6,0,6,0,1,Completed,true,true,false
+UA015034,16 Feb 20,3,GPHC,Royal Ave,No. 1,Patrick Cassidy,Vadim Goreux,Vadim Goreux,4-6,4,6,0,1,Completed,true,false,false
+UA015034,16 Feb 20,3,GPHC,Royal Ave,No. 2,Nicholas Wang,Oscar Meadows,Oscar Meadows,6-7,6,7,0,1,Completed,true,false,false
+UA015034,16 Feb 20,3,GPHC,Royal Ave,No. 3,Toby Snyder,Natalie Dureau,Toby Snyder,7-6,7,6,1,0,Completed,true,false,false
+UA015034,16 Feb 20,3,GPHC,Royal Ave,No. 4,Ned Jeffreys,Caleb Jackson-Wright,Caleb Jackson-Wright,2-6,2,6,0,1,Completed,true,false,false
+UA015041,23 Feb 20,4,Royal Ave,St Mary's,No. 1,Harry Toomey,Finn Whitson,Finn Whitson,3-6,3,6,0,1,Completed,true,false,false
+UA015041,23 Feb 20,4,Royal Ave,St Mary's,No. 2,Vadim Goreux,Josh Lin,Josh Lin,1-6,1,6,0,1,Completed,true,false,false
+UA015041,23 Feb 20,4,Royal Ave,St Mary's,No. 3,Natalie Dureau,Kenneth Yeung,Kenneth Yeung,2-6,2,6,0,1,Completed,true,false,false
+UA015041,23 Feb 20,4,Royal Ave,St Mary's,No. 4,Caleb Jackson-Wright,Lucas Hornblower,Caleb Jackson-Wright,6-1,6,1,1,0,Completed,true,false,true
+UA015042,23 Feb 20,4,Elsternwick Park,Royal South Yarra,No. 1,Noah Inglis,Alice Gunn,Noah Inglis,7-6,7,6,1,0,Completed,true,false,false
+UA015042,23 Feb 20,4,Elsternwick Park,Royal South Yarra,No. 2,Oliver Jorgensen,Tabitha Ingham,Oliver Jorgensen,6-0,6,0,1,0,Completed,true,false,false
+UA015042,23 Feb 20,4,Elsternwick Park,Royal South Yarra,No. 3,Oscar Rhode,Eloise Thompson,Oscar Rhode,6-0,6,0,1,0,Completed,true,false,false
+UA015042,23 Feb 20,4,Elsternwick Park,Royal South Yarra,No. 4,Alexander Dowling,Sophie Long,Alexander Dowling,6-0,6,0,1,0,Completed,true,false,false
+UA015043,23 Feb 20,4,St Andrews MB KE,Hurlingham Park,No. 1,Josh Telford,Jeremy Hutchins,Jeremy Hutchins,3-6,3,6,0,1,Completed,true,false,false
+UA015043,23 Feb 20,4,St Andrews MB KE,Hurlingham Park,No. 2,Kiera Hatzistavros,Albert MacGowan,Albert MacGowan,3-6,3,6,0,1,Completed,true,false,false
+UA015043,23 Feb 20,4,St Andrews MB KE,Hurlingham Park,No. 3,Charlie Moulang,Laura Wharton,Charlie Moulang,7-6,7,6,1,0,Completed,true,false,false
+UA015043,23 Feb 20,4,St Andrews MB KE,Hurlingham Park,No. 4,Grace Edwards,Isaac Weinstein,Grace Edwards,7-5,7,5,1,0,Completed,true,false,true
+UA015044,23 Feb 20,4,Dendy Park,GPHC,No. 1,Miguel Najeras,Patrick Cassidy,Miguel Najeras,6-0,6,0,1,0,Completed,true,false,false
+UA015044,23 Feb 20,4,Dendy Park,GPHC,No. 2,Slade Caldwell,Nicholas Wang,Slade Caldwell,6-3,6,3,1,0,Completed,true,false,false
+UA015044,23 Feb 20,4,Dendy Park,GPHC,No. 3,Crystal Yannopoulos,Toby Snyder,Toby Snyder,4-6,4,6,0,1,Completed,true,false,false
+UA015044,23 Feb 20,4,Dendy Park,GPHC,No. 4,Madison Luu,Ned Jeffreys,Ned Jeffreys,3-6,3,6,0,1,Completed,true,false,false
+UA015051,01 Mar 20,5,Hurlingham Park,GPHC,No. 1,Jeremy Hutchins,Patrick Cassidy,Jeremy Hutchins,6-0,6,0,1,0,Completed,true,false,false
+UA015051,01 Mar 20,5,Hurlingham Park,GPHC,No. 2,Laura Wharton,Lachlan Ash-Grimm,Lachlan Ash-Grimm,4-6,4,6,0,1,Completed,true,false,false
+UA015051,01 Mar 20,5,Hurlingham Park,GPHC,No. 3,Isaac Weinstein,Nicholas Wang,Isaac Weinstein,6-1,6,1,1,0,Completed,true,true,false
+UA015051,01 Mar 20,5,Hurlingham Park,GPHC,No. 4,Louis Pouwels,Ned Jeffreys,Ned Jeffreys,6-7,6,7,0,1,Completed,true,true,false
+UA015052,01 Mar 20,5,St Andrews MB KE,Elsternwick Park,No. 1,Josh Telford,Noah Inglis,Josh Telford,6-4,6,4,1,0,Completed,true,false,false
+UA015052,01 Mar 20,5,St Andrews MB KE,Elsternwick Park,No. 2,Alexandra Telford,Oliver Jorgensen,Alexandra Telford,6-1,6,1,1,0,Completed,true,false,false
+UA015052,01 Mar 20,5,St Andrews MB KE,Elsternwick Park,No. 3,Charlie Moulang,Wynn Arumugam,Wynn Arumugam,4-6,4,6,0,1,Completed,true,false,false
+UA015052,01 Mar 20,5,St Andrews MB KE,Elsternwick Park,No. 4,Bob Njiffels,Oscar Rhode,Bob Njiffels,6-4,6,4,1,0,Completed,true,false,false
+UA015053,01 Mar 20,5,Royal Ave,Dendy Park,No. 1,Harry Toomey,Miguel Najeras,Harry Toomey,6-3,6,3,1,0,Completed,true,false,false
+UA015053,01 Mar 20,5,Royal Ave,Dendy Park,No. 2,Oscar Meadows,Slade Caldwell,Slade Caldwell,3-6,3,6,0,1,Completed,true,false,false
+UA015053,01 Mar 20,5,Royal Ave,Dendy Park,No. 3,Natalie Dureau,Crystal Yannopoulos,Crystal Yannopoulos,2-6,2,6,0,1,Completed,true,false,false
+UA015053,01 Mar 20,5,Royal Ave,Dendy Park,No. 4,Caleb Jackson-Wright,Madison Luu,Caleb Jackson-Wright,6-2,6,2,1,0,Completed,true,false,false
+UA015054,01 Mar 20,5,St Mary's,Royal South Yarra,No. 1,Finn Whitson,George Banks,Finn Whitson,6-2,6,2,1,0,Completed,true,false,true
+UA015054,01 Mar 20,5,St Mary's,Royal South Yarra,No. 2,Kenneth Yeung,Isabella Soutter,Kenneth Yeung,6-0,6,0,1,0,Completed,true,false,true
+UA015054,01 Mar 20,5,St Mary's,Royal South Yarra,No. 3,Finley Ward,Lucy Hunt,Finley Ward,6-1,6,1,1,0,Completed,true,false,true
+UA015054,01 Mar 20,5,St Mary's,Royal South Yarra,No. 4,Lucas Hornblower,Eloise Campbell,Lucas Hornblower,6-0,6,0,1,0,Completed,true,true,true

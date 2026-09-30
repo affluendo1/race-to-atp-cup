@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA10-UA016",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2012",
+  "season_id": "UA10",
+  "season_label": "Autumn 2012",
+  "source_section_code": "UA016",
+  "section_label": "Section 16",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Coatesville",
+      "wins": 12,
+      "points": 116,
+      "percentage": 196.83,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Lauriston",
+      "wins": 12,
+      "points": 107,
+      "percentage": 167.89,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Mordialloc",
+      "wins": 7,
+      "points": 75,
+      "percentage": 104.09,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Carmelite",
+      "wins": 6,
+      "points": 66,
+      "percentage": 99.1,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong Xavier 2",
+      "wins": 6,
+      "points": 65,
+      "percentage": 92.57,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Middle Brighton",
+      "wins": 5,
+      "points": 64,
+      "percentage": 97.63,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong Xavier 1",
+      "wins": 4,
+      "points": 51,
+      "percentage": 78.29,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Glen Eira Beech",
+      "wins": 0,
+      "points": 16,
+      "percentage": 35.68,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA10-UA016",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

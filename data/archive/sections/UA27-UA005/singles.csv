@@ -1,0 +1,69 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA005012,15 Nov 20,1,Royal Ave 1,Royal Ave 2,No. 1,Louis McNabney-Stevens,Tess Dargan,Tess Dargan,1-6,1,6,0,1,Completed,true,false,false
+UA005012,15 Nov 20,1,Royal Ave 1,Royal Ave 2,No. 2,Nick Bolmat,Luke Cowie,Nick Bolmat,6-4,6,4,1,0,Completed,true,false,false
+UA005012,15 Nov 20,1,Royal Ave 1,Royal Ave 2,No. 3,Zac Fuleky,Jesse Hodge,Zac Fuleky,6-3,6,3,1,0,Completed,true,true,false
+UA005012,15 Nov 20,1,Royal Ave 1,Royal Ave 2,No. 4,Kai Saxon,Will Shepard,Will Shepard,5-7,5,7,0,1,Completed,true,true,false
+UA005013,15 Nov 20,1,Dendy Park,Royal South Yarra,No. 1,Patrick Wilson,Zac Havryluk,Zac Havryluk,1-6,1,6,0,1,Completed,true,false,false
+UA005013,15 Nov 20,1,Dendy Park,Royal South Yarra,No. 2,Noah Hansen,Sophie Davies,Noah Hansen,6-2,6,2,1,0,Completed,true,false,false
+UA005013,15 Nov 20,1,Dendy Park,Royal South Yarra,No. 3,Jack Raudies,William McCrae,William McCrae,0-6,0,6,0,1,Completed,true,false,false
+UA005013,15 Nov 20,1,Dendy Park,Royal South Yarra,No. 4,Zac Zaidenberg,Freddie Hunt,Freddie Hunt,3-6,3,6,0,1,Completed,true,true,false
+UA005014,15 Nov 20,1,BLTC 2,St Andrews MB RA,No. 1,Dean Nguyen,Tash Tsirelas,Dean Nguyen,6-3,6,3,1,0,Completed,true,false,false
+UA005014,15 Nov 20,1,BLTC 2,St Andrews MB RA,No. 2,Davis Nguyen,Elena Langridge,Davis Nguyen,6-0,6,0,1,0,Completed,true,false,false
+UA005014,15 Nov 20,1,BLTC 2,St Andrews MB RA,No. 3,Yani Ryan,Oliver Davis,Oliver Davis,1-6,1,6,0,1,Completed,true,false,false
+UA005014,15 Nov 20,1,BLTC 2,St Andrews MB RA,No. 4,Chloe Johnson,Calum Mensah,Chloe Johnson,6-2,6,2,1,0,Completed,true,true,false
+UA005022,22 Nov 20,2,Centenary Park,Royal Ave 1,No. 1,Devon Le,James Pilcher,James Pilcher,2-6,2,6,0,1,Completed,true,false,true
+UA005022,22 Nov 20,2,Centenary Park,Royal Ave 1,No. 2,Max Raeburn,Louis McNabney-Stevens,Max Raeburn,6-2,6,2,1,0,Completed,true,false,false
+UA005022,22 Nov 20,2,Centenary Park,Royal Ave 1,No. 3,Thom Kamampuzha,Nick Bolmat,Nick Bolmat,0-6,0,6,0,1,Completed,true,false,false
+UA005022,22 Nov 20,2,Centenary Park,Royal Ave 1,No. 4,Timothy Kamampuzha,Zac Fuleky,Zac Fuleky,0-6,0,6,0,1,Completed,true,false,true
+UA005023,22 Nov 20,2,Royal Ave 2,Dendy Park,No. 1,Tess Dargan,Patrick Wilson,Patrick Wilson,2-6,2,6,0,1,Completed,true,false,false
+UA005023,22 Nov 20,2,Royal Ave 2,Dendy Park,No. 2,Luke Cowie,Jack Raudies,Luke Cowie,6-3,6,3,1,0,Completed,true,false,false
+UA005023,22 Nov 20,2,Royal Ave 2,Dendy Park,No. 3,Jesse Hodge,Ben Wallis,Ben Wallis,1-6,1,6,0,1,Completed,true,false,false
+UA005023,22 Nov 20,2,Royal Ave 2,Dendy Park,No. 4,Anthony Pain,Zac Zaidenberg,Zac Zaidenberg,1-6,1,6,0,1,Completed,true,false,true
+UA005024,22 Nov 20,2,Royal South Yarra,BLTC 2,No. 1,Peter Tabain,Dean Nguyen,Dean Nguyen,3-6,3,6,0,1,Completed,true,false,false
+UA005024,22 Nov 20,2,Royal South Yarra,BLTC 2,No. 2,Zac Havryluk,Davis Nguyen,Davis Nguyen,2-6,2,6,0,1,Completed,true,false,false
+UA005024,22 Nov 20,2,Royal South Yarra,BLTC 2,No. 3,Sophie Davies,Yani Ryan,Sophie Davies,6-3,6,3,1,0,Completed,true,false,false
+UA005024,22 Nov 20,2,Royal South Yarra,BLTC 2,No. 4,William McCrae,Isabella Nicolis,William McCrae,6-4,6,4,1,0,Completed,true,false,false
+UA005032,29 Nov 20,3,Royal Ave 1,St Andrews MB RA,No. 1,Louis McNabney-Stevens,Tony Li,Louis McNabney-Stevens,6-4,6,4,1,0,Completed,true,false,true
+UA005032,29 Nov 20,3,Royal Ave 1,St Andrews MB RA,No. 2,Nick Bolmat,Tash Tsirelas,Nick Bolmat,6-4,6,4,1,0,Completed,true,false,false
+UA005032,29 Nov 20,3,Royal Ave 1,St Andrews MB RA,No. 3,Zac Fuleky,Oliver Davis,Zac Fuleky,6-2,6,2,1,0,Completed,true,true,false
+UA005032,29 Nov 20,3,Royal Ave 1,St Andrews MB RA,No. 4,Kai Saxon,Calum Mensah,Kai Saxon,6-3,6,3,1,0,Completed,true,true,false
+UA005034,29 Nov 20,3,BLTC 2,Royal Ave 2,No. 1,Dean Nguyen,Tess Dargan,Tess Dargan,4-6,4,6,0,1,Completed,true,false,false
+UA005034,29 Nov 20,3,BLTC 2,Royal Ave 2,No. 2,Davis Nguyen,Luke Cowie,Davis Nguyen,6-1,6,1,1,0,Completed,true,false,false
+UA005034,29 Nov 20,3,BLTC 2,Royal Ave 2,No. 3,Isabella Nicolis,Anthony Pain,Anthony Pain,1-6,1,6,0,1,Completed,true,false,false
+UA005034,29 Nov 20,3,BLTC 2,Royal Ave 2,No. 4,Finn Broadbent,Hunter Creemain,Hunter Creemain,0-6,0,6,0,1,Completed,true,false,true
+UA005042,06 Dec 20,4,Royal South Yarra,Royal Ave 1,No. 1,Zac Havryluk,Louis McNabney-Stevens,Louis McNabney-Stevens,1-6,1,6,0,1,Completed,true,false,false
+UA005042,06 Dec 20,4,Royal South Yarra,Royal Ave 1,No. 2,Johnny Asimenias,Nick Bolmat,Johnny Asimenias,6-3,6,3,1,0,Completed,true,false,false
+UA005042,06 Dec 20,4,Royal South Yarra,Royal Ave 1,No. 3,Sophie Davies,Ben Pakula,Sophie Davies,6-3,6,3,1,0,Completed,true,false,false
+UA005042,06 Dec 20,4,Royal South Yarra,Royal Ave 1,No. 4,Freddie Hunt,Tal Zafrin,Tal Zafrin,1-6,1,6,0,1,Completed,true,false,false
+UA005043,06 Dec 20,4,St Andrews MB RA,Dendy Park,No. 1,Tash Tsirelas,Noah Hansen,Tash Tsirelas,6-1,6,1,1,0,Completed,true,false,false
+UA005043,06 Dec 20,4,St Andrews MB RA,Dendy Park,No. 2,Elena Langridge,Patrick Wilson,Elena Langridge,6-2,6,2,1,0,Completed,true,false,false
+UA005043,06 Dec 20,4,St Andrews MB RA,Dendy Park,No. 3,Oliver Davis,Jack Raudies,Jack Raudies,2-6,2,6,0,1,Completed,true,false,false
+UA005043,06 Dec 20,4,St Andrews MB RA,Dendy Park,No. 4,Calum Mensah,Jack Loiacono,Jack Loiacono,3-6,3,6,0,1,Completed,true,false,false
+UA005044,06 Dec 20,4,Centenary Park,BLTC 2,No. 1,Sean Cahill,Dean Nguyen,Sean Cahill,6-4,6,4,1,0,Completed,true,false,false
+UA005044,06 Dec 20,4,Centenary Park,BLTC 2,No. 2,Mason Le,Davis Nguyen,Mason Le,6-4,6,4,1,0,Completed,true,false,false
+UA005044,06 Dec 20,4,Centenary Park,BLTC 2,No. 3,Max Raeburn,Isabella Nicolis,Max Raeburn,6-0,6,0,1,0,Completed,true,false,false
+UA005044,06 Dec 20,4,Centenary Park,BLTC 2,No. 4,Devon Le,Chloe Johnson,Devon Le,6-1,6,1,1,0,Completed,true,false,true
+UA005051,13 Dec 20,5,Dendy Park,BLTC 2,No. 1,Patrick Wilson,Davis Nguyen,Davis Nguyen,0-6,0,6,0,1,Completed,true,false,false
+UA005051,13 Dec 20,5,Dendy Park,BLTC 2,No. 2,Noah Hansen,Yani Ryan,Noah Hansen,6-1,6,1,1,0,Completed,true,false,false
+UA005051,13 Dec 20,5,Dendy Park,BLTC 2,No. 3,Jack Loiacono,Isabella Nicolis,Jack Loiacono,6-2,6,2,1,0,Completed,true,false,false
+UA005051,13 Dec 20,5,Dendy Park,BLTC 2,No. 4,Zac Zaidenberg,Chloe Johnson,Zac Zaidenberg,6-3,6,3,1,0,Completed,true,true,true
+UA005052,13 Dec 20,5,St Andrews MB RA,Royal South Yarra,No. 1,Tash Tsirelas,Zac Havryluk,Zac Havryluk,4-6,4,6,0,1,Completed,true,false,false
+UA005052,13 Dec 20,5,St Andrews MB RA,Royal South Yarra,No. 2,Elena Langridge,Johnny Asimenias,Johnny Asimenias,1-6,1,6,0,1,Completed,true,false,false
+UA005052,13 Dec 20,5,St Andrews MB RA,Royal South Yarra,No. 3,Oliver Davis,Freddie Hunt,Freddie Hunt,2-6,2,6,0,1,Completed,true,false,false
+UA005052,13 Dec 20,5,St Andrews MB RA,Royal South Yarra,No. 4,Calum Mensah,Jack Tucker,Calum Mensah,6-3,6,3,1,0,Completed,true,false,true
+UA005053,13 Dec 20,5,Royal Ave 2,Centenary Park,No. 1,Will Shepard,Sean Cahill,Sean Cahill,3-6,3,6,0,1,Completed,true,false,false
+UA005053,13 Dec 20,5,Royal Ave 2,Centenary Park,No. 2,Kai Saxon,Mason Le,Mason Le,5-7,5,7,0,1,Completed,true,true,false
+UA005053,13 Dec 20,5,Royal Ave 2,Centenary Park,No. 3,Jesse Hodge,Max Raeburn,Max Raeburn,1-6,1,6,0,1,Completed,true,false,false
+UA005053,13 Dec 20,5,Royal Ave 2,Centenary Park,No. 4,Anthony Pain,Devon Le,Devon Le,0-6,0,6,0,1,Completed,true,false,false
+UA005061,20 Dec 20,6,Royal Ave 1,Dendy Park,No. 1,Louis McNabney-Stevens,Patrick Wilson,Patrick Wilson,4-6,4,6,0,1,Completed,true,false,false
+UA005061,20 Dec 20,6,Royal Ave 1,Dendy Park,No. 2,Nick Bolmat,Noah Hansen,Nick Bolmat,6-2,6,2,1,0,Completed,true,false,false
+UA005061,20 Dec 20,6,Royal Ave 1,Dendy Park,No. 3,Ben Pakula,Jack Loiacono,Ben Pakula,6-4,6,4,1,0,Completed,true,false,false
+UA005061,20 Dec 20,6,Royal Ave 1,Dendy Park,No. 4,Tal Zafrin,Ben Wallis,Ben Wallis,3-6,3,6,0,1,Completed,true,false,false
+UA005063,20 Dec 20,6,Royal South Yarra,Royal Ave 2,No. 1,Peter Tabain,Luke Cowie,Peter Tabain,6-1,6,1,1,0,Completed,true,false,false
+UA005063,20 Dec 20,6,Royal South Yarra,Royal Ave 2,No. 2,Johnny Asimenias,Will Shepard,Johnny Asimenias,6-0,6,0,1,0,Completed,true,false,false
+UA005063,20 Dec 20,6,Royal South Yarra,Royal Ave 2,No. 3,Sophie Davies,Anthony Pain,Anthony Pain,4-6,4,6,0,1,Completed,true,false,false
+UA005063,20 Dec 20,6,Royal South Yarra,Royal Ave 2,No. 4,Jack Tucker,Declan Welch,Jack Tucker,6-1,6,1,1,0,Completed,true,true,true
+UA005064,20 Dec 20,6,Centenary Park,St Andrews MB RA,No. 1,Sean Cahill,Tash Tsirelas,Tash Tsirelas,6-7,6,7,0,1,Completed,true,false,false
+UA005064,20 Dec 20,6,Centenary Park,St Andrews MB RA,No. 2,Max Raeburn,Elena Langridge,Max Raeburn,6-0,6,0,1,0,Completed,true,false,false
+UA005064,20 Dec 20,6,Centenary Park,St Andrews MB RA,No. 3,Thom Kamampuzha,Oliver Davis,Oliver Davis,1-6,1,6,0,1,Completed,true,false,false
+UA005064,20 Dec 20,6,Centenary Park,St Andrews MB RA,No. 4,Timothy Kamampuzha,Calum Mensah,Calum Mensah,3-6,3,6,0,1,Completed,true,false,false

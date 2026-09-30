@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA17-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2015",
+  "season_id": "UA17",
+  "season_label": "Spring 2015",
+  "source_section_code": "UA017",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "GPHC MLC",
+      "wins": 12,
+      "points": 113,
+      "percentage": 179.6,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "BLTC",
+      "wins": 11,
+      "points": 104,
+      "percentage": 151.27,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Le Page",
+      "wins": 10,
+      "points": 96,
+      "percentage": 138.25,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Glen Eira Beech",
+      "wins": 6,
+      "points": 68,
+      "percentage": 96.1,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Hurlingham Park",
+      "wins": 6,
+      "points": 67,
+      "percentage": 102.56,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St Pauls",
+      "wins": 4,
+      "points": 46,
+      "percentage": 77.58,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Hampton",
+      "wins": 5,
+      "points": 46,
+      "percentage": 68.6,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Victory Park",
+      "wins": 0,
+      "points": 20,
+      "percentage": 50.11,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA17-UA017",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 45,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

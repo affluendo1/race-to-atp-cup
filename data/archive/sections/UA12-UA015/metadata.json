@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA12-UA015",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2013",
+  "season_id": "UA12",
+  "season_label": "Autumn 2013",
+  "source_section_code": "UA015",
+  "section_label": "Scetion 15",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Parkdale",
+      "wins": 12,
+      "points": 108,
+      "percentage": 164.58,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Andrews MB",
+      "wins": 12,
+      "points": 106,
+      "percentage": 163.26,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Tennis World",
+      "wins": 10,
+      "points": 99,
+      "percentage": 145.91,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 4,
+      "points": 66,
+      "percentage": 98.75,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 5,
+      "points": 56,
+      "percentage": 78.63,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Bodley Tennis Plus",
+      "wins": 4,
+      "points": 54,
+      "percentage": 81.14,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park",
+      "wins": 3,
+      "points": 43,
+      "percentage": 65.75,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Maccabi",
+      "wins": 1,
+      "points": 28,
+      "percentage": 56.64,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA12-UA015",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 216,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

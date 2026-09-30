@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA26-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2020",
+  "season_id": "UA26",
+  "season_label": "Autumn 2020",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Hurlingham Park 1",
+      "wins": 5,
+      "points": 49,
+      "percentage": 172.83,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Caulfield Rec",
+      "wins": 5,
+      "points": 49,
+      "percentage": 165.71,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "St Andrews MB RA",
+      "wins": 4,
+      "points": 38,
+      "percentage": 130.43,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Hurlingham Park 2",
+      "wins": 2,
+      "points": 28,
+      "percentage": 97.1,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 2,
+      "points": 23,
+      "percentage": 73.68,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Black Rock",
+      "wins": 1,
+      "points": 22,
+      "percentage": 90.14,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra 2",
+      "wins": 1,
+      "points": 22,
+      "percentage": 78.72,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal South Yarra 1",
+      "wins": 0,
+      "points": 9,
+      "percentage": 53.63,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA26-UA014",
+  "fixtures": 24,
+  "completed_fixtures": 20,
+  "draw_fixtures": 56,
+  "singles_rubbers": 80,
+  "doubles_rubbers": 40,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

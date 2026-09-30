@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA16-UA016",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2015",
+  "season_id": "UA16",
+  "season_label": "Autumn 2015",
+  "source_section_code": "UA016",
+  "section_label": "Section 16",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Le Page",
+      "wins": 12,
+      "points": 110,
+      "percentage": 163.56,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Caulfield Rec",
+      "wins": 8,
+      "points": 89,
+      "percentage": 122.4,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "GPHC 2",
+      "wins": 5,
+      "points": 71,
+      "percentage": 96.99,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Lauriston",
+      "wins": 5,
+      "points": 69,
+      "percentage": 91.94,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Bodley Tennis Plus",
+      "wins": 4,
+      "points": 68,
+      "percentage": 103.11,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Coatesville",
+      "wins": 4,
+      "points": 65,
+      "percentage": 100.0,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC 1",
+      "wins": 1,
+      "points": 45,
+      "percentage": 73.33,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park",
+      "wins": 1,
+      "points": 43,
+      "percentage": 68.79,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA16-UA016",
+  "fixtures": 59,
+  "completed_fixtures": 46,
+  "draw_fixtures": 59,
+  "singles_rubbers": 180,
+  "doubles_rubbers": 92,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA27-UA010",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2020",
+  "season_id": "UA27",
+  "season_label": "Spring 2020",
+  "source_section_code": "UA010",
+  "section_label": "Section 10",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Caulfield Rec",
+      "wins": 4,
+      "points": 41,
+      "percentage": 136.04,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "St Pats Mentone",
+      "wins": 3,
+      "points": 31,
+      "percentage": 170.51,
+      "marker": "*"
+    },
+    {
+      "position": 3,
+      "team": "Murrumbeena",
+      "wins": 3,
+      "points": 28,
+      "percentage": 150.0,
+      "marker": "*"
+    },
+    {
+      "position": 4,
+      "team": "Black Rock",
+      "wins": 2,
+      "points": 19,
+      "percentage": 100.93,
+      "marker": "*"
+    },
+    {
+      "position": 5,
+      "team": "Le Page",
+      "wins": 1,
+      "points": 14,
+      "percentage": 65.77,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Patterson Lakes",
+      "wins": 0,
+      "points": 6,
+      "percentage": 32.39,
+      "marker": "*"
+    },
+    {
+      "position": 7,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 1,
+      "percentage": 47.14,
+      "marker": "*"
+    }
+  ],
+  "section_code": "UA27-UA010",
+  "fixtures": 24,
+  "completed_fixtures": 13,
+  "draw_fixtures": 56,
+  "singles_rubbers": 52,
+  "doubles_rubbers": 26,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

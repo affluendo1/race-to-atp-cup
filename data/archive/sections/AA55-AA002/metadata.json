@@ -1,0 +1,91 @@
+{
+  "asset_id": "AA55-AA002",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Autumn 2026",
+  "season_id": "AA55",
+  "season_label": "Autumn 2026",
+  "source_section_code": "AA002",
+  "section_label": "Sets 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Beaumaris CC",
+      "wins": 12,
+      "points": 110,
+      "percentage": 188.12,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Kings Park",
+      "wins": 10,
+      "points": 102,
+      "percentage": 198.05,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Hurlingham Park",
+      "wins": 8,
+      "points": 77,
+      "percentage": 124.58,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Glen Huntly",
+      "wins": 7,
+      "points": 74,
+      "percentage": 112.54,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Highett",
+      "wins": 7,
+      "points": 64,
+      "percentage": 87.95,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Mentone",
+      "wins": 3,
+      "points": 41,
+      "percentage": 67.42,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St Louis de Mont",
+      "wins": 2,
+      "points": 36,
+      "percentage": 75.57,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Carmelite",
+      "wins": 1,
+      "points": 16,
+      "percentage": 41.26,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA55-AA002",
+  "fixtures": 55,
+  "completed_fixtures": 53,
+  "draw_fixtures": 45,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA003011,27 Jul 25,1,regular,Round 1,Royal Ave,Royal South Yarra,7,3,3,3,,,29,25,Completed,
+UA003012,27 Jul 25,1,regular,Round 1,Tennis World Green,BLTC,2.5,7.5,2,3,,,17,28,Completed,
+UA003013,27 Jul 25,1,regular,Round 1,Kooyong,Tennis World Blue,2,8,2,4,,,24,32,Completed,
+UA003014,27 Jul 25,1,regular,Round 1,Dendy Park,St Pats Mentone,1,9,1,5,,,11,34,Completed,
+UA003021,03 Aug 25,2,regular,Round 2,St Pats Mentone,Royal Ave,3,7,3,3,,,29,31,Completed,
+UA003022,03 Aug 25,2,regular,Round 2,Royal South Yarra,Tennis World Green,3,7,3,3,,,24,28,Completed,
+UA003023,03 Aug 25,2,regular,Round 2,BLTC,Kooyong,1,9,1,5,,,18,33,Completed,
+UA003024,03 Aug 25,2,regular,Round 2,Tennis World Blue,Dendy Park,10,0,6,0,,,37,10,Completed,
+UA003031,10 Aug 25,3,regular,Round 3,Royal Ave,Tennis World Blue,1,9,1,5,,,26,36,Completed,
+UA003032,10 Aug 25,3,regular,Round 3,Tennis World Green,St Pats Mentone,8,2,4,2,,,32,22,Completed,
+UA003033,10 Aug 25,3,regular,Round 3,Kooyong,Royal South Yarra,1,9,1,5,,,21,35,Completed,
+UA003034,10 Aug 25,3,regular,Round 3,Dendy Park,BLTC,0,10,0,6,,,17,37,Completed,
+UA003041,17 Aug 25,4,regular,Round 4,BLTC,Royal Ave,9,1,5,1,,,35,22,Completed,
+UA003042,17 Aug 25,4,regular,Round 4,Tennis World Blue,Tennis World Green,3,7,3,3,,,23,28,Completed,
+UA003043,17 Aug 25,4,regular,Round 4,St Pats Mentone,Kooyong,0,10,0,6,,,10,36,Completed,
+UA003044,17 Aug 25,4,regular,Round 4,Royal South Yarra,Dendy Park,3,7,3,3,,,25,28,Completed,
+UA003051,24 Aug 25,5,regular,Round 5,Kooyong,Dendy Park,9,1,5,1,,,36,19,Completed,
+UA003052,24 Aug 25,5,regular,Round 5,St Pats Mentone,Tennis World Blue,1,9,1,5,,,17,33,Completed,
+UA003053,24 Aug 25,5,regular,Round 5,BLTC,Royal South Yarra,9,1,5,1,,,37,22,Completed,
+UA003054,24 Aug 25,5,regular,Round 5,Royal Ave,Tennis World Green,6,4,2,4,,,13,24,Completed,
+UA003062,31 Aug 25,6,regular,Round 6,Dendy Park,Royal Ave,10,0,6,0,,,37,20,Completed,
+UA003063,31 Aug 25,6,regular,Round 6,Tennis World Blue,BLTC,5,5,1,1,,,17,15,Completed,
+UA003064,31 Aug 25,6,regular,Round 6,Royal South Yarra,St Pats Mentone,2,8,2,4,,,27,31,Completed,
+pending-ua003-r6-tennis-world-green-kooyong,31 Aug 25,6,regular,Round 6,Tennis World Green,Kooyong,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA003071,07 Sep 25,7,regular,Round 7,Royal Ave,Kooyong,2,8,2,4,,,23,32,Completed,
+UA003072,07 Sep 25,7,regular,Round 7,Tennis World Green,Dendy Park,3,7,3,3,,,26,35,Completed,
+UA003073,07 Sep 25,7,regular,Round 7,St Pats Mentone,BLTC,1,9,1,5,,,23,38,Completed,
+UA003074,07 Sep 25,7,regular,Round 7,Tennis World Blue,Royal South Yarra,10,0,6,0,,,36,8,Completed,
+UA003081,14 Sep 25,8,regular,Round 8,Royal South Yarra,Royal Ave,9,1,5,1,,,33,22,Completed,
+UA003082,14 Sep 25,8,regular,Round 8,BLTC,Tennis World Green,9,1,5,1,,,36,15,Completed,
+UA003083,14 Sep 25,8,regular,Round 8,Tennis World Blue,Kooyong,9,1,5,1,,,34,22,Completed,
+UA003084,14 Sep 25,8,regular,Round 8,St Pats Mentone,Dendy Park,8,2,4,2,,,29,24,Completed,
+UA003091,12 Oct 25,9,regular,Round 9,Royal Ave,St Pats Mentone,2,8,2,4,,,22,29,Completed,
+UA003092,12 Oct 25,9,regular,Round 9,Tennis World Green,Royal South Yarra,8,2,4,2,,,30,17,Completed,
+UA003093,12 Oct 25,9,regular,Round 9,Kooyong,BLTC,2,8,2,4,,,29,31,Completed,
+UA003094,12 Oct 25,9,regular,Round 9,Dendy Park,Tennis World Blue,0,10,0,6,,,15,38,Completed,
+UA003101,19 Oct 25,10,regular,Round 10,Tennis World Blue,Royal Ave,8,2,4,2,,,30,19,Completed,
+UA003102,19 Oct 25,10,regular,Round 10,St Pats Mentone,Tennis World Green,3,7,3,3,,,26,32,Completed,
+UA003103,19 Oct 25,10,regular,Round 10,Royal South Yarra,Kooyong,7,3,3,3,,,27,23,Completed,
+UA003104,19 Oct 25,10,regular,Round 10,BLTC,Dendy Park,8,2,4,2,,,33,23,Completed,
+UA003112,26 Oct 25,11,regular,Round 11,Tennis World Green,Tennis World Blue,3.5,6.5,0,3,,,10,20,Completed,
+UA003113,26 Oct 25,11,regular,Round 11,Kooyong,St Pats Mentone,10,0,6,0,,,36,14,Completed,
+pending-ua003-r11-dendy-park-royal-south-yarra,26 Oct 25,11,regular,Round 11,Dendy Park,Royal South Yarra,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua003-r11-royal-ave-bltc,26 Oct 25,11,regular,Round 11,Royal Ave,BLTC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA003122,09 Nov 25,12,regular,Round 12,Tennis World Blue,St Pats Mentone,9,1,5,1,,,37,23,Completed,
+pending-ua003-r12-dendy-park-kooyong,09 Nov 25,12,regular,Round 12,Dendy Park,Kooyong,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua003-r12-royal-south-yarra-bltc,09 Nov 25,12,regular,Round 12,Royal South Yarra,BLTC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua003-r12-tennis-world-green-royal-ave,09 Nov 25,12,regular,Round 12,Tennis World Green,Royal Ave,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA003131,16 Nov 25,13,regular,Round 13,Kooyong,Tennis World Green,7,3,3,3,,,27,26,Completed,
+UA003132,16 Nov 25,13,regular,Round 13,Royal Ave,Dendy Park,2,8,2,4,,,29,33,Completed,
+UA003133,16 Nov 25,13,regular,Round 13,BLTC,Tennis World Blue,7,3,3,3,,,30,27,Completed,
+UA003134,16 Nov 25,13,regular,Round 13,St Pats Mentone,Royal South Yarra,2,8,2,4,,,24,29,Completed,
+pending-ua003-r14-bltc-st-pats-mentone,23 Nov 25,14,regular,Round 14,BLTC,St Pats Mentone,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua003-r14-dendy-park-tennis-world-green,23 Nov 25,14,regular,Round 14,Dendy Park,Tennis World Green,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua003-r14-kooyong-royal-ave,23 Nov 25,14,regular,Round 14,Kooyong,Royal Ave,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua003-r14-royal-south-yarra-tennis-world-blue,23 Nov 25,14,regular,Round 14,Royal South Yarra,Tennis World Blue,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA003301,,16,semi_final,Semi-final,Tennis World Blue,Tennis World Green,9,1,4,0,,,24,10,Completed,
+UA003302,,16,semi_final,Semi-final,BLTC,Kooyong,2,8,2,4,,,25,31,Completed,
+UA003321,,17,grand_final,Grand final · TROLS entry 2,Tennis World Blue,Kooyong,8,2,4,2,,,32,26,Completed,

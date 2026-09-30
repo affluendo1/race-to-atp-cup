@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA7-UA028",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2010",
+  "season_id": "UA7",
+  "season_label": "Spring 2010",
+  "source_section_code": "UA028",
+  "section_label": "Section 9",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Glen Eira Beech",
+      "wins": 0,
+      "points": 85,
+      "percentage": 143.86,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Aspendale",
+      "wins": 0,
+      "points": 76,
+      "percentage": 136.16,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 71,
+      "percentage": 130.25,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Bodley Tennis Plus 1",
+      "wins": 0,
+      "points": 69,
+      "percentage": 110.71,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Maccabi",
+      "wins": 0,
+      "points": 42,
+      "percentage": 79.11,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 42,
+      "percentage": 72.52,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 0,
+      "points": 35,
+      "percentage": 61.99,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA7-UA028",
+  "fixtures": 59,
+  "completed_fixtures": 39,
+  "draw_fixtures": 3,
+  "singles_rubbers": 152,
+  "doubles_rubbers": 74,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

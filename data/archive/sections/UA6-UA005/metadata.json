@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA6-UA005",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2010",
+  "season_id": "UA6",
+  "season_label": "Autumn 2010",
+  "source_section_code": "UA005",
+  "section_label": "Section 5",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Dendy Park 2",
+      "wins": 0,
+      "points": 106,
+      "percentage": 147.47,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Dendy Park 1",
+      "wins": 0,
+      "points": 99,
+      "percentage": 159.31,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Le Page",
+      "wins": 0,
+      "points": 85,
+      "percentage": 133.1,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 75,
+      "percentage": 105.83,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Mordialloc",
+      "wins": 0,
+      "points": 73,
+      "percentage": 99.71,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Hampton",
+      "wins": 0,
+      "points": 57,
+      "percentage": 83.21,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong Scotch",
+      "wins": 0,
+      "points": 44,
+      "percentage": 67.92,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Maccabi",
+      "wins": 0,
+      "points": 21,
+      "percentage": 58.63,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA6-UA005",
+  "fixtures": 59,
+  "completed_fixtures": 56,
+  "draw_fixtures": 59,
+  "singles_rubbers": 224,
+  "doubles_rubbers": 112,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,61 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA008031,01 Aug 21,3,BLTC,Lauriston,No. 1,Olivia Foster,Kate Nguyen,Kate Nguyen,5-7,5,7,0,1,Completed,true,false,false
+UA008031,01 Aug 21,3,BLTC,Lauriston,No. 2,Darcy De Vries,Naineishia Kota,Darcy De Vries,6-4,6,4,1,0,Completed,true,false,false
+UA008031,01 Aug 21,3,BLTC,Lauriston,No. 3,Kensei Golec,Tate Nguyen,Kensei Golec,6-2,6,2,1,0,Completed,true,true,false
+UA008031,01 Aug 21,3,BLTC,Lauriston,No. 4,Lily Falconer,Mathew Kwong,Lily Falconer,6-0,6,0,1,0,Completed,true,false,false
+UA008033,01 Aug 21,3,Elsternwick Park,Royal South Yarra,No. 1,Harry Boden,Marlo Hearnden,Marlo Hearnden,1-6,1,6,0,1,Completed,true,false,false
+UA008033,01 Aug 21,3,Elsternwick Park,Royal South Yarra,No. 2,Victor Hart,Anika Liddle,Victor Hart,6-2,6,2,1,0,Completed,true,false,false
+UA008033,01 Aug 21,3,Elsternwick Park,Royal South Yarra,No. 3,Austin Haines,Phoebe Ollerenshaw,Austin Haines,6-0,6,0,1,0,Completed,true,false,false
+UA008033,01 Aug 21,3,Elsternwick Park,Royal South Yarra,No. 4,Ray Yamamoto,Isabella Soutter,Ray Yamamoto,6-1,6,1,1,0,Completed,true,false,false
+UA008092,07 Nov 21,9,GPHC,Royal South Yarra,No. 1,Ryan Nottle,Marlo Hearnden,Ryan Nottle,6-0,6,0,1,0,Completed,true,false,false
+UA008092,07 Nov 21,9,GPHC,Royal South Yarra,No. 2,Nicolo Mirabella,Anika Liddle,Anika Liddle,3-6,3,6,0,1,Completed,true,false,false
+UA008092,07 Nov 21,9,GPHC,Royal South Yarra,No. 3,James Walsh,Milla Hearnden,Milla Hearnden,6-7,6,7,0,1,Completed,true,false,false
+UA008092,07 Nov 21,9,GPHC,Royal South Yarra,No. 4,Will Mirams,Isabella Soutter,Isabella Soutter,3-6,3,6,0,1,Completed,true,true,false
+UA008094,07 Nov 21,9,St Andrews MB RA,Lauriston,No. 1,Amber Brown,Kate Nguyen,Amber Brown,6-3,6,3,1,0,Completed,true,false,false
+UA008094,07 Nov 21,9,St Andrews MB RA,Lauriston,No. 2,Harrison Kemp,Naineishia Kota,Harrison Kemp,6-1,6,1,1,0,Completed,true,false,false
+UA008094,07 Nov 21,9,St Andrews MB RA,Lauriston,No. 3,Kiera Hatzistavros,Tate Nguyen,Kiera Hatzistavros,6-2,6,2,1,0,Completed,true,false,false
+UA008094,07 Nov 21,9,St Andrews MB RA,Lauriston,No. 4,Bailey Cleland,Mathew Kwong,Bailey Cleland,6-1,6,1,1,0,Completed,true,false,false
+UA008101,14 Nov 21,10,Lauriston,BLTC,No. 1,Kate Nguyen,Olivia Foster,Olivia Foster,5-7,5,7,0,1,Completed,true,false,false
+UA008101,14 Nov 21,10,Lauriston,BLTC,No. 2,Tate Nguyen,Darcy De Vries,Darcy De Vries,3-6,3,6,0,1,Completed,true,false,false
+UA008101,14 Nov 21,10,Lauriston,BLTC,No. 3,John Paul Suntosa,Lily Falconer,John Paul Suntosa,6-4,6,4,1,0,Completed,true,true,false
+UA008101,14 Nov 21,10,Lauriston,BLTC,No. 4,Mathew Kwong,Tomoki Golec,Mathew Kwong,6-4,6,4,1,0,Completed,true,false,true
+UA008103,14 Nov 21,10,Royal South Yarra,Elsternwick Park,No. 1,Marlo Hearnden,Victor Hart,Victor Hart,0-6,0,6,0,1,Completed,true,false,false
+UA008103,14 Nov 21,10,Royal South Yarra,Elsternwick Park,No. 2,Anika Liddle,Ray Yamamoto,Ray Yamamoto,0-6,0,6,0,1,Completed,true,false,false
+UA008103,14 Nov 21,10,Royal South Yarra,Elsternwick Park,No. 3,Milla Hearnden,Austin Haines,Austin Haines,2-6,2,6,0,1,Completed,true,false,false
+UA008103,14 Nov 21,10,Royal South Yarra,Elsternwick Park,No. 4,Phoebe Ollerenshaw,Henry Sims,Henry Sims,5-7,5,7,0,1,Completed,true,false,false
+UA008112,21 Nov 21,11,GPHC,Lauriston,No. 1,Ryan Nottle,Naineishia Kota,Ryan Nottle,6-2,6,2,1,0,Completed,true,false,false
+UA008112,21 Nov 21,11,GPHC,Lauriston,No. 2,Katya Bagaric,Tate Nguyen,Katya Bagaric,6-0,6,0,1,0,Completed,true,false,false
+UA008112,21 Nov 21,11,GPHC,Lauriston,No. 3,James Walsh,John Paul Suntosa,James Walsh,6-2,6,2,1,0,Completed,true,false,true
+UA008112,21 Nov 21,11,GPHC,Lauriston,No. 4,Zach Tarrant,Mathew Kwong,Zach Tarrant,6-1,6,1,1,0,Completed,true,false,false
+UA008114,21 Nov 21,11,St Andrews MB RA,Royal South Yarra,No. 1,Angus Giles,George Banks,Angus Giles,6-0,6,0,1,0,Completed,true,true,true
+UA008114,21 Nov 21,11,St Andrews MB RA,Royal South Yarra,No. 2,Josh Telford,Phoebe Ollerenshaw,Phoebe Ollerenshaw,5-7,5,7,0,1,Completed,true,true,false
+UA008114,21 Nov 21,11,St Andrews MB RA,Royal South Yarra,No. 3,Kiera Hatzistavros,Isabella Soutter,Kiera Hatzistavros,6-1,6,1,1,0,Completed,true,false,false
+UA008114,21 Nov 21,11,St Andrews MB RA,Royal South Yarra,No. 4,Bailey Cleland,Amelia Banks,Bailey Cleland,6-0,6,0,1,0,Completed,true,false,true
+UA008121,28 Nov 21,12,St Andrews MB RA,Elsternwick Park,No. 1,Amber Brown,Victor Hart,Victor Hart,2-6,2,6,0,1,Completed,true,false,false
+UA008121,28 Nov 21,12,St Andrews MB RA,Elsternwick Park,No. 2,Angus Giles,Luka Federman,Angus Giles,6-4,6,4,1,0,Completed,true,true,false
+UA008121,28 Nov 21,12,St Andrews MB RA,Elsternwick Park,No. 3,Kiera Hatzistavros,Henry Sims,Kiera Hatzistavros,6-3,6,3,1,0,Completed,true,false,false
+UA008121,28 Nov 21,12,St Andrews MB RA,Elsternwick Park,No. 4,Bailey Cleland,Ronald Liu,Bailey Cleland,6-0,6,0,1,0,Completed,true,false,true
+UA008124,28 Nov 21,12,GPHC,BLTC,No. 1,Katya Bagaric,Olivia Foster,Katya Bagaric,6-4,6,4,1,0,Completed,true,false,false
+UA008124,28 Nov 21,12,GPHC,BLTC,No. 2,Nicolo Mirabella,Darcy De Vries,Nicolo Mirabella,6-2,6,2,1,0,Completed,true,false,false
+UA008124,28 Nov 21,12,GPHC,BLTC,No. 3,Will Mirams,Kai Zaralianos,Kai Zaralianos,3-6,3,6,0,1,Completed,true,true,true
+UA008124,28 Nov 21,12,GPHC,BLTC,No. 4,Zach Tarrant,Tomoki Golec,Zach Tarrant,6-2,6,2,1,0,Completed,true,false,true
+UA008131,05 Dec 21,13,Elsternwick Park,GPHC,No. 1,Victor Hart,Ryan Nottle,Ryan Nottle,1-6,1,6,0,1,Completed,true,false,false
+UA008131,05 Dec 21,13,Elsternwick Park,GPHC,No. 2,Luka Federman,Nicolo Mirabella,Luka Federman,6-0,6,0,1,0,Completed,true,false,false
+UA008131,05 Dec 21,13,Elsternwick Park,GPHC,No. 3,Austin Haines,James Walsh,Austin Haines,6-1,6,1,1,0,Completed,true,false,false
+UA008131,05 Dec 21,13,Elsternwick Park,GPHC,No. 4,Ray Yamamoto,Will Mirams,Ray Yamamoto,6-0,6,0,1,0,Completed,true,false,true
+UA008132,05 Dec 21,13,BLTC,St Andrews MB RA,No. 1,Olivia Foster,Amber Brown,Amber Brown,4-6,4,6,0,1,Completed,true,false,false
+UA008132,05 Dec 21,13,BLTC,St Andrews MB RA,No. 2,Darcy De Vries,Harrison Kemp,Darcy De Vries,6-1,6,1,1,0,Completed,true,false,false
+UA008132,05 Dec 21,13,BLTC,St Andrews MB RA,No. 3,Kensei Golec,Kiera Hatzistavros,Kensei Golec,6-2,6,2,1,0,Completed,true,true,false
+UA008132,05 Dec 21,13,BLTC,St Andrews MB RA,No. 4,Lily Falconer,Bailey Cleland,Bailey Cleland,2-6,2,6,0,1,Completed,true,false,false
+UA008141,12 Dec 21,14,Elsternwick Park,BLTC,No. 1,Luka Federman,Olivia Foster,Luka Federman,6-1,6,1,1,0,Completed,true,false,false
+UA008141,12 Dec 21,14,Elsternwick Park,BLTC,No. 2,Austin Haines,Darcy De Vries,Austin Haines,6-0,6,0,1,0,Completed,true,false,false
+UA008141,12 Dec 21,14,Elsternwick Park,BLTC,No. 3,Ray Yamamoto,Kensei Golec,Kensei Golec,4-6,4,6,0,1,Completed,true,false,true
+UA008141,12 Dec 21,14,Elsternwick Park,BLTC,No. 4,Matthew Rebelo,Lily Falconer,Matthew Rebelo,6-1,6,1,1,0,Completed,true,true,false
+UA008142,12 Dec 21,14,St Andrews MB RA,GPHC,No. 1,Amber Brown,Katya Bagaric,Amber Brown,6-3,6,3,1,0,Completed,true,false,false
+UA008142,12 Dec 21,14,St Andrews MB RA,GPHC,No. 2,Harrison Kemp,Nicolo Mirabella,Harrison Kemp,6-4,6,4,1,0,Completed,true,false,false
+UA008142,12 Dec 21,14,St Andrews MB RA,GPHC,No. 3,Kiera Hatzistavros,Zach Tarrant,Kiera Hatzistavros,6-0,6,0,1,0,Completed,true,false,false
+UA008142,12 Dec 21,14,St Andrews MB RA,GPHC,No. 4,Bailey Cleland,Lachlan Ash-Grimm,Bailey Cleland,6-3,6,3,1,0,Completed,true,false,true
+UA008144,12 Dec 21,14,Royal South Yarra,Lauriston,No. 1,Phoebe Ollerenshaw,Kate Nguyen,Kate Nguyen,1-6,1,6,0,1,Completed,true,false,false
+UA008144,12 Dec 21,14,Royal South Yarra,Lauriston,No. 2,Milla Hearnden,Naineishia Kota,Naineishia Kota,3-6,3,6,0,1,Completed,true,false,false
+UA008144,12 Dec 21,14,Royal South Yarra,Lauriston,No. 3,Isabella Soutter,Tate Nguyen,Tate Nguyen,1-6,1,6,0,1,Completed,true,false,false
+UA008144,12 Dec 21,14,Royal South Yarra,Lauriston,No. 4,Amelia Banks,John Paul Suntosa,Amelia Banks,6-0,6,0,1,0,Completed,true,true,true

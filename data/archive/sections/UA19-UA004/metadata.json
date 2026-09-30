@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA19-UA004",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2016",
+  "season_id": "UA19",
+  "season_label": "Spring 2016",
+  "source_section_code": "UA004",
+  "section_label": "Section 4",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite",
+      "wins": 11,
+      "points": 125.5,
+      "percentage": 257.89,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "BLTC 1",
+      "wins": 12,
+      "points": 111,
+      "percentage": 168.63,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Royal Ave",
+      "wins": 7,
+      "points": 69,
+      "percentage": 91.94,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Coatesville",
+      "wins": 7,
+      "points": 66.5,
+      "percentage": 97.1,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 6,
+      "points": 62,
+      "percentage": 91.82,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC 2",
+      "wins": 3,
+      "points": 45,
+      "percentage": 76.67,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Tennis World",
+      "wins": 4,
+      "points": 44,
+      "percentage": 69.78,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Le Page",
+      "wins": 2,
+      "points": 37,
+      "percentage": 59.66,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA19-UA004",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

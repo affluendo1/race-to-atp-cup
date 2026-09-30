@@ -1,0 +1,161 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA035011,18 Jul 10,1,Black Rock,Aspendale,No. 1,Emma Brading,Campbell McHugh,Emma Brading,6-4,6,4,1,0,Completed,true,false,false
+UA035011,18 Jul 10,1,Black Rock,Aspendale,No. 2,Issy Harper,Jeremy Cullen,Jeremy Cullen,4-6,4,6,0,1,Completed,true,false,false
+UA035011,18 Jul 10,1,Black Rock,Aspendale,No. 3,Georgia McDonnell,Bailey Wall,Georgia McDonnell,6-1,6,1,1,0,Completed,true,false,false
+UA035011,18 Jul 10,1,Black Rock,Aspendale,No. 4,Candice Perry,Grace Alexopoulos,Candice Perry,6-3,6,3,1,0,Completed,true,false,false
+UA035013,18 Jul 10,1,GPHC MLC,Caulfield Rec,No. 1,Lachie Brown-Rogers,Stephen Wylie,Lachie Brown-Rogers,6-2,6,2,1,0,Completed,true,false,false
+UA035013,18 Jul 10,1,GPHC MLC,Caulfield Rec,No. 2,Maddie James,Dennis Davidson,Dennis Davidson,4-6,4,6,0,1,Completed,true,false,false
+UA035013,18 Jul 10,1,GPHC MLC,Caulfield Rec,No. 3,Max Han,[Unnamed emergency — TROLS UA035013 away code 3],Max Han,6-0,6,0,1,0,Completed,false,false,true
+UA035013,18 Jul 10,1,GPHC MLC,Caulfield Rec,No. 4,Zoe Gleeson,Madeline Streeton,Zoe Gleeson,7-6,7,6,1,0,Completed,true,false,false
+UA035014,18 Jul 10,1,St Joseph's BR,Tennis World,No. 1,Michael Puli,Nikki Sarikostas,Michael Puli,6-1,6,1,1,0,Completed,true,false,false
+UA035014,18 Jul 10,1,St Joseph's BR,Tennis World,No. 2,Samuel McLoughney,Victoria Koutoulas,Victoria Koutoulas,1-6,1,6,0,1,Completed,true,false,false
+UA035014,18 Jul 10,1,St Joseph's BR,Tennis World,No. 3,Ben Rogalsky,Andrew Wang,Ben Rogalsky,6-1,6,1,1,0,Completed,true,false,false
+UA035014,18 Jul 10,1,St Joseph's BR,Tennis World,No. 4,Daniel Hall,[Unnamed emergency — TROLS UA035014 away code 4],Daniel Hall,6-0,6,0,1,0,Completed,false,false,true
+UA035021,25 Jul 10,2,Tennis World,Black Rock,No. 1,Bill Song,Candice Perry,Bill Song,6-2,6,2,1,0,Completed,true,false,false
+UA035021,25 Jul 10,2,Tennis World,Black Rock,No. 2,Nikki Sarikostas,Emma Brading,Emma Brading,3-6,3,6,0,1,Completed,true,false,false
+UA035021,25 Jul 10,2,Tennis World,Black Rock,No. 3,Victoria Koutoulas,Tom Jones,Victoria Koutoulas,6-4,6,4,1,0,Completed,true,false,false
+UA035021,25 Jul 10,2,Tennis World,Black Rock,No. 4,Peter Koutsouroupas,Georgia McDonnell,Peter Koutsouroupas,6-3,6,3,1,0,Completed,true,false,false
+UA035022,25 Jul 10,2,Aspendale,Coatesville,No. 1,Ben Milne,Emily So,Emily So,2-6,2,6,0,1,Completed,true,false,false
+UA035022,25 Jul 10,2,Aspendale,Coatesville,No. 2,Campbell McHugh,Siva Theiveekan,Siva Theiveekan,3-6,3,6,0,1,Completed,true,false,false
+UA035022,25 Jul 10,2,Aspendale,Coatesville,No. 3,Jeremy Cullen,Theeban Theiveekan,Theeban Theiveekan,3-6,3,6,0,1,Completed,true,false,false
+UA035022,25 Jul 10,2,Aspendale,Coatesville,No. 4,Anthony Cameron,James Alevizos,Anthony Cameron,6-4,6,4,1,0,Completed,true,false,false
+UA035024,25 Jul 10,2,Caulfield Rec,St Joseph's BR,No. 1,Dennis Davidson,Michael Puli,Michael Puli,2-6,2,6,0,1,Completed,true,false,false
+UA035024,25 Jul 10,2,Caulfield Rec,St Joseph's BR,No. 2,David Makogon,Samuel McLoughney,Samuel McLoughney,1-6,1,6,0,1,Completed,true,false,false
+UA035024,25 Jul 10,2,Caulfield Rec,St Joseph's BR,No. 3,Anthony Pereplechikov,Ben Rogalsky,Ben Rogalsky,0-6,0,6,0,1,Completed,true,false,false
+UA035024,25 Jul 10,2,Caulfield Rec,St Joseph's BR,No. 4,Madeline Streeton,Daniel Hall,Daniel Hall,0-6,0,6,0,1,Completed,true,false,false
+UA035042,08 Aug 10,4,Caulfield Rec,Coatesville,No. 1,Stephen Wylie,Emily So,Stephen Wylie,6-3,6,3,1,0,Completed,true,false,false
+UA035042,08 Aug 10,4,Caulfield Rec,Coatesville,No. 2,Dennis Davidson,Siva Theiveekan,Siva Theiveekan,5-7,5,7,0,1,Completed,true,false,false
+UA035042,08 Aug 10,4,Caulfield Rec,Coatesville,No. 3,Madeline Streeton,Theeban Theiveekan,Theeban Theiveekan,2-6,2,6,0,1,Completed,true,false,false
+UA035042,08 Aug 10,4,Caulfield Rec,Coatesville,No. 4,Richard Wylie,Daniela Feldman,Daniela Feldman,4-6,4,6,0,1,Completed,true,false,false
+UA035043,08 Aug 10,4,Tennis World,GPHC MLC,No. 1,Bill Song,Maddie James,Bill Song,7-5,7,5,1,0,Completed,true,false,false
+UA035043,08 Aug 10,4,Tennis World,GPHC MLC,No. 2,Andrew Wang,Zofia Andrianopoulos,Andrew Wang,6-2,6,2,1,0,Completed,true,false,false
+UA035043,08 Aug 10,4,Tennis World,GPHC MLC,No. 3,Victoria Koutoulas,Zoe Gleeson,Victoria Koutoulas,6-3,6,3,1,0,Completed,true,false,false
+UA035043,08 Aug 10,4,Tennis World,GPHC MLC,No. 4,Olivia Palaskas,Ally Jones,Olivia Palaskas,6-0,6,0,1,0,Completed,true,false,false
+UA035044,08 Aug 10,4,Aspendale,St Joseph's BR,No. 1,Ben Milne,Michael Puli,Michael Puli,4-6,4,6,0,1,Completed,true,false,false
+UA035044,08 Aug 10,4,Aspendale,St Joseph's BR,No. 2,Jeremy Cullen,Samuel McLoughney,Samuel McLoughney,2-6,2,6,0,1,Completed,true,false,false
+UA035044,08 Aug 10,4,Aspendale,St Joseph's BR,No. 3,Bailey Wall,Daniel Hall,Daniel Hall,0-6,0,6,0,1,Completed,true,false,false
+UA035044,08 Aug 10,4,Aspendale,St Joseph's BR,No. 4,Anthony Cameron,Tom Harris,Tom Harris,0-6,0,6,0,1,Completed,true,false,false
+UA035054,15 Aug 10,5,Black Rock,Coatesville,No. 1,Tom Jones,Siva Theiveekan,Tom Jones,5-2,5,2,1,0,Completed,true,false,false
+UA035054,15 Aug 10,5,Black Rock,Coatesville,No. 2,Issy Harper,Theeban Theiveekan,Issy Harper,6-0,6,0,1,0,Completed,true,false,false
+UA035054,15 Aug 10,5,Black Rock,Coatesville,No. 3,Georgia McDonnell,Daniela Feldman,Daniela Feldman,2-4,2,4,0,1,Completed,false,false,false
+UA035054,15 Aug 10,5,Black Rock,Coatesville,No. 4,Candice Perry,James Alevizos,Candice Perry,6-0,6,0,1,0,Completed,true,false,false
+UA035061,22 Aug 10,6,Coatesville,GPHC MLC,No. 1,Emily So,Lucy Diggle,Lucy Diggle,2-6,2,6,0,1,Completed,true,false,false
+UA035061,22 Aug 10,6,Coatesville,GPHC MLC,No. 2,Sally Potter,Lachie Brown-Rogers,Sally Potter,6-3,6,3,1,0,Completed,true,false,false
+UA035061,22 Aug 10,6,Coatesville,GPHC MLC,No. 3,Daniela Feldman,Maddie James,Maddie James,3-6,3,6,0,1,Completed,true,false,false
+UA035061,22 Aug 10,6,Coatesville,GPHC MLC,No. 4,James Alevizos,Zofia Andrianopoulos,James Alevizos,6-3,6,3,1,0,Completed,true,false,false
+UA035062,22 Aug 10,6,St Joseph's BR,Black Rock,No. 1,Michael Puli,Tom Jones,Michael Puli,6-0,6,0,1,0,Completed,true,false,false
+UA035062,22 Aug 10,6,St Joseph's BR,Black Rock,No. 2,Samuel McLoughney,Georgia McDonnell,Georgia McDonnell,2-6,2,6,0,1,Completed,true,false,false
+UA035062,22 Aug 10,6,St Joseph's BR,Black Rock,No. 3,Ben Rogalsky,Emma Brading,Ben Rogalsky,6-4,6,4,1,0,Completed,true,false,false
+UA035062,22 Aug 10,6,St Joseph's BR,Black Rock,No. 4,Tom Harris,Candice Perry,Tom Harris,6-1,6,1,1,0,Completed,true,false,false
+UA035064,22 Aug 10,6,Aspendale,Tennis World,No. 1,Campbell McHugh,Nikki Sarikostas,Nikki Sarikostas,2-6,2,6,0,1,Completed,true,false,false
+UA035064,22 Aug 10,6,Aspendale,Tennis World,No. 2,Jeremy Cullen,Victoria Koutoulas,Jeremy Cullen,7-6,7,6,1,0,Completed,true,false,false
+UA035064,22 Aug 10,6,Aspendale,Tennis World,No. 3,Bailey Wall,Andrew Wang,Andrew Wang,1-6,1,6,0,1,Completed,true,false,false
+UA035064,22 Aug 10,6,Aspendale,Tennis World,No. 4,Anthony Cameron,[Unnamed emergency — TROLS UA035064 away code 4],Anthony Cameron,6-0,6,0,1,0,Completed,false,false,true
+UA035071,29 Aug 10,7,Black Rock,GPHC MLC,No. 1,Emma Brading,Lachie Brown-Rogers,Lachie Brown-Rogers,4-6,4,6,0,1,Completed,true,false,false
+UA035071,29 Aug 10,7,Black Rock,GPHC MLC,No. 2,Issy Harper,Maddie James,Maddie James,2-6,2,6,0,1,Completed,true,false,false
+UA035071,29 Aug 10,7,Black Rock,GPHC MLC,No. 3,Georgia McDonnell,Zoe Gleeson,Georgia McDonnell,7-6,7,6,1,0,Completed,true,false,false
+UA035071,29 Aug 10,7,Black Rock,GPHC MLC,No. 4,Candice Perry,Ally Jones,Candice Perry,6-1,6,1,1,0,Completed,true,false,false
+UA035072,29 Aug 10,7,Coatesville,St Joseph's BR,No. 1,Sally Potter,Michael Puli,Michael Puli,1-6,1,6,0,1,Completed,true,false,false
+UA035072,29 Aug 10,7,Coatesville,St Joseph's BR,No. 2,Siva Theiveekan,Samuel McLoughney,Samuel McLoughney,1-6,1,6,0,1,Completed,true,false,false
+UA035072,29 Aug 10,7,Coatesville,St Joseph's BR,No. 3,Theeban Theiveekan,Daniel Hall,Daniel Hall,0-6,0,6,0,1,Completed,true,false,false
+UA035072,29 Aug 10,7,Coatesville,St Joseph's BR,No. 4,James Alevizos,Tom Harris,Tom Harris,2-6,2,6,0,1,Completed,true,false,false
+UA035074,29 Aug 10,7,Caulfield Rec,Aspendale,No. 1,Stephen Wylie,Ben Milne,Ben Milne,3-6,3,6,0,1,Completed,true,false,false
+UA035074,29 Aug 10,7,Caulfield Rec,Aspendale,No. 2,Dennis Davidson,Campbell McHugh,Dennis Davidson,6-1,6,1,1,0,Completed,true,false,false
+UA035074,29 Aug 10,7,Caulfield Rec,Aspendale,No. 3,Anthony Pereplechikov,Jeremy Cullen,Jeremy Cullen,0-6,0,6,0,1,Completed,true,false,false
+UA035074,29 Aug 10,7,Caulfield Rec,Aspendale,No. 4,Jai Kanat,Anthony Cameron,Anthony Cameron,3-6,3,6,0,1,Completed,true,false,false
+UA035081,05 Sep 10,8,Aspendale,Black Rock,No. 1,Ben Milne,Amy Burgin,Amy Burgin,2-6,2,6,0,1,Completed,true,false,false
+UA035081,05 Sep 10,8,Aspendale,Black Rock,No. 2,Jeremy Cullen,Tom Jones,Tom Jones,5-7,5,7,0,1,Completed,true,false,false
+UA035081,05 Sep 10,8,Aspendale,Black Rock,No. 3,Bailey Wall,Georgia McDonnell,Georgia McDonnell,1-6,1,6,0,1,Completed,true,false,false
+UA035081,05 Sep 10,8,Aspendale,Black Rock,No. 4,Anthony Cameron,Issy Harper,Issy Harper,4-6,4,6,0,1,Completed,true,false,false
+UA035083,05 Sep 10,8,Caulfield Rec,GPHC MLC,No. 1,Stephen Wylie,Lucy Diggle,Lucy Diggle,6-7,6,7,0,1,Completed,true,false,false
+UA035083,05 Sep 10,8,Caulfield Rec,GPHC MLC,No. 2,David Makogon,Lachie Brown-Rogers,David Makogon,6-3,6,3,1,0,Completed,true,false,false
+UA035083,05 Sep 10,8,Caulfield Rec,GPHC MLC,No. 3,Madeline Streeton,Zofia Andrianopoulos,Zofia Andrianopoulos,1-6,1,6,0,1,Completed,true,false,false
+UA035083,05 Sep 10,8,Caulfield Rec,GPHC MLC,No. 4,Jai Kanat,Ludi Pillay,Jai Kanat,6-1,6,1,1,0,Completed,true,false,false
+UA035084,05 Sep 10,8,Tennis World,St Joseph's BR,No. 1,Bill Song,Michael Puli,Michael Puli,3-6,3,6,0,1,Completed,true,false,false
+UA035084,05 Sep 10,8,Tennis World,St Joseph's BR,No. 2,Andrew Wang,Samuel McLoughney,Samuel McLoughney,5-7,5,7,0,1,Completed,true,false,false
+UA035084,05 Sep 10,8,Tennis World,St Joseph's BR,No. 3,Gabriella Carrasco,Daniel Hall,Daniel Hall,1-6,1,6,0,1,Completed,true,false,false
+UA035084,05 Sep 10,8,Tennis World,St Joseph's BR,No. 4,[Unnamed emergency — TROLS UA035084 home code 4],Tom Harris,Tom Harris,0-6,0,6,0,1,Completed,false,true,false
+UA035091,12 Sep 10,9,Black Rock,Tennis World,No. 1,Tom Jones,Nikki Sarikostas,Nikki Sarikostas,1-6,1,6,0,1,Completed,true,false,false
+UA035091,12 Sep 10,9,Black Rock,Tennis World,No. 2,Candice Perry,[Unnamed emergency — TROLS UA035091 away code 2],Candice Perry,6-0,6,0,1,0,Completed,false,false,true
+UA035091,12 Sep 10,9,Black Rock,Tennis World,No. 3,Emma Brading,Andrew Wang,Andrew Wang,6-7,6,7,0,1,Completed,true,false,false
+UA035091,12 Sep 10,9,Black Rock,Tennis World,No. 4,Georgia McDonnell,Gabriella Carrasco,Georgia McDonnell,7-5,7,5,1,0,Completed,true,false,false
+UA035092,12 Sep 10,9,Coatesville,Aspendale,No. 1,Emily So,Campbell McHugh,Campbell McHugh,2-6,2,6,0,1,Completed,true,false,false
+UA035092,12 Sep 10,9,Coatesville,Aspendale,No. 2,Sally Potter,Bailey Wall,Bailey Wall,0-6,0,6,0,1,Completed,true,false,false
+UA035092,12 Sep 10,9,Coatesville,Aspendale,No. 3,Catriona Kerney,Anthony Cameron,Anthony Cameron,1-6,1,6,0,1,Completed,true,false,false
+UA035092,12 Sep 10,9,Coatesville,Aspendale,No. 4,James Alevizos,Jeremy Cullen,James Alevizos,6-2,6,2,1,0,Completed,true,false,false
+UA035094,12 Sep 10,9,St Joseph's BR,Caulfield Rec,No. 1,Michael Puli,Dennis Davidson,Michael Puli,6-0,6,0,1,0,Completed,true,false,false
+UA035094,12 Sep 10,9,St Joseph's BR,Caulfield Rec,No. 2,Ben Pease,David Makogon,Ben Pease,7-5,7,5,1,0,Completed,true,false,false
+UA035094,12 Sep 10,9,St Joseph's BR,Caulfield Rec,No. 3,Ben Rogalsky,Anthony Pereplechikov,Ben Rogalsky,6-0,6,0,1,0,Completed,true,false,false
+UA035094,12 Sep 10,9,St Joseph's BR,Caulfield Rec,No. 4,Tom Harris,Madeline Streeton,Tom Harris,6-3,6,3,1,0,Completed,true,false,false
+UA035101,10 Oct 10,10,Caulfield Rec,Black Rock,No. 1,Dennis Davidson,Amy Burgin,Amy Burgin,3-6,3,6,0,1,Completed,true,false,false
+UA035101,10 Oct 10,10,Caulfield Rec,Black Rock,No. 2,David Makogon,Georgia McDonnell,Georgia McDonnell,0-6,0,6,0,1,Completed,true,false,false
+UA035101,10 Oct 10,10,Caulfield Rec,Black Rock,No. 3,Anthony Pereplechikov,Issy Harper,Anthony Pereplechikov,6-3,6,3,1,0,Completed,true,false,false
+UA035101,10 Oct 10,10,Caulfield Rec,Black Rock,No. 4,Jai Kanat,Candice Perry,Jai Kanat,6-0,6,0,1,0,Completed,true,false,false
+UA035102,10 Oct 10,10,Tennis World,Coatesville,No. 1,Nikki Sarikostas,Sally Potter,Nikki Sarikostas,6-2,6,2,1,0,Completed,true,false,false
+UA035102,10 Oct 10,10,Tennis World,Coatesville,No. 2,Victoria Koutoulas,[Unnamed emergency — TROLS UA035102 away code 2],Victoria Koutoulas,6-0,6,0,1,0,Completed,false,false,true
+UA035102,10 Oct 10,10,Tennis World,Coatesville,No. 3,Andrew Wang,[Unnamed emergency — TROLS UA035102 away code 3],Andrew Wang,6-0,6,0,1,0,Completed,false,false,true
+UA035102,10 Oct 10,10,Tennis World,Coatesville,No. 4,Jordan Zaitman,Daniela Feldman,Daniela Feldman,3-6,3,6,0,1,Completed,true,false,false
+UA035103,10 Oct 10,10,Aspendale,GPHC MLC,No. 1,Ben Milne,Lucy Diggle,Lucy Diggle,4-6,4,6,0,1,Completed,true,false,false
+UA035103,10 Oct 10,10,Aspendale,GPHC MLC,No. 2,Jeremy Cullen,Lachie Brown-Rogers,Lachie Brown-Rogers,5-7,5,7,0,1,Completed,true,false,false
+UA035103,10 Oct 10,10,Aspendale,GPHC MLC,No. 3,Anthony Cameron,Maddie James,Maddie James,4-6,4,6,0,1,Completed,true,false,false
+UA035103,10 Oct 10,10,Aspendale,GPHC MLC,No. 4,Grace Alexopoulos,Ally Jones,Grace Alexopoulos,6-2,6,2,1,0,Completed,true,false,false
+UA035112,17 Oct 10,11,Coatesville,Caulfield Rec,No. 1,Emily So,Dennis Davidson,Dennis Davidson,4-6,4,6,0,1,Completed,true,false,false
+UA035112,17 Oct 10,11,Coatesville,Caulfield Rec,No. 2,Theeban Theiveekan,Stephen Wylie,Theeban Theiveekan,6-1,6,1,1,0,Completed,true,false,false
+UA035112,17 Oct 10,11,Coatesville,Caulfield Rec,No. 3,Siva Theiveekan,Madeline Streeton,Siva Theiveekan,6-0,6,0,1,0,Completed,true,false,false
+UA035112,17 Oct 10,11,Coatesville,Caulfield Rec,No. 4,James Alevizos,Jai Kanat,James Alevizos,6-3,6,3,1,0,Completed,true,false,false
+UA035113,17 Oct 10,11,GPHC MLC,Tennis World,No. 1,Lucy Diggle,Nikki Sarikostas,Nikki Sarikostas,2-6,2,6,0,1,Completed,true,false,false
+UA035113,17 Oct 10,11,GPHC MLC,Tennis World,No. 2,Lachie Brown-Rogers,Bill Song,Bill Song,1-6,1,6,0,1,Completed,true,false,false
+UA035113,17 Oct 10,11,GPHC MLC,Tennis World,No. 3,Zofia Andrianopoulos,Jordan Zaitman,Zofia Andrianopoulos,7-6,7,6,1,0,Completed,true,false,false
+UA035113,17 Oct 10,11,GPHC MLC,Tennis World,No. 4,Ludi Pillay,[Unnamed emergency — TROLS UA035113 away code 4],Ludi Pillay,6-0,6,0,1,0,Completed,false,false,true
+UA035114,17 Oct 10,11,St Joseph's BR,Aspendale,No. 1,Michael Puli,Campbell McHugh,Michael Puli,6-0,6,0,1,0,Completed,true,false,false
+UA035114,17 Oct 10,11,St Joseph's BR,Aspendale,No. 2,Ben Rogalsky,Jeremy Cullen,Ben Rogalsky,6-2,6,2,1,0,Completed,true,false,false
+UA035114,17 Oct 10,11,St Joseph's BR,Aspendale,No. 3,Daniel Hall,Bailey Wall,Daniel Hall,6-0,6,0,1,0,Completed,true,false,false
+UA035114,17 Oct 10,11,St Joseph's BR,Aspendale,No. 4,Tom Harris,Anthony Cameron,Tom Harris,6-1,6,1,1,0,Completed,true,false,false
+UA035121,24 Oct 10,12,St Joseph's BR,GPHC MLC,No. 1,Michael Puli,Lucy Diggle,Michael Puli,6-0,6,0,1,0,Completed,true,false,false
+UA035121,24 Oct 10,12,St Joseph's BR,GPHC MLC,No. 2,Samuel McLoughney,Lachie Brown-Rogers,Samuel McLoughney,6-0,6,0,1,0,Completed,true,false,false
+UA035121,24 Oct 10,12,St Joseph's BR,GPHC MLC,No. 3,Ben Rogalsky,Zofia Andrianopoulos,Ben Rogalsky,6-2,6,2,1,0,Completed,true,false,false
+UA035121,24 Oct 10,12,St Joseph's BR,GPHC MLC,No. 4,Tom Harris,Ally Jones,Tom Harris,6-0,6,0,1,0,Completed,true,false,false
+UA035122,24 Oct 10,12,Caulfield Rec,Tennis World,No. 1,Stephen Wylie,Nikki Sarikostas,Nikki Sarikostas,0-6,0,6,0,1,Completed,true,false,false
+UA035122,24 Oct 10,12,Caulfield Rec,Tennis World,No. 2,David Makogon,Victoria Koutoulas,David Makogon,6-3,6,3,1,0,Completed,true,false,false
+UA035122,24 Oct 10,12,Caulfield Rec,Tennis World,No. 3,Anthony Pereplechikov,Andrew Wang,Andrew Wang,1-6,1,6,0,1,Completed,true,false,false
+UA035122,24 Oct 10,12,Caulfield Rec,Tennis World,No. 4,Madeline Streeton,[Unnamed emergency — TROLS UA035122 away code 4],Madeline Streeton,6-0,6,0,1,0,Completed,false,false,true
+UA035124,24 Oct 10,12,Coatesville,Black Rock,No. 1,Emily So,Tom Jones,Tom Jones,2-6,2,6,0,1,Completed,true,false,false
+UA035124,24 Oct 10,12,Coatesville,Black Rock,No. 2,Sally Potter,Emma Brading,Sally Potter,6-0,6,0,1,0,Completed,true,false,false
+UA035124,24 Oct 10,12,Coatesville,Black Rock,No. 3,Daniela Feldman,Issy Harper,Issy Harper,5-7,5,7,0,1,Completed,true,false,false
+UA035124,24 Oct 10,12,Coatesville,Black Rock,No. 4,James Alevizos,Candice Perry,James Alevizos,6-1,6,1,1,0,Completed,true,false,false
+UA035131,07 Nov 10,13,GPHC MLC,Coatesville,No. 1,Lucy Diggle,Emily So,Lucy Diggle,6-4,6,4,1,0,Completed,true,false,false
+UA035131,07 Nov 10,13,GPHC MLC,Coatesville,No. 2,Lachie Brown-Rogers,Sally Potter,Sally Potter,2-6,2,6,0,1,Completed,true,false,false
+UA035131,07 Nov 10,13,GPHC MLC,Coatesville,No. 3,Maddie James,Theeban Theiveekan,Theeban Theiveekan,2-6,2,6,0,1,Completed,true,false,false
+UA035131,07 Nov 10,13,GPHC MLC,Coatesville,No. 4,Ludi Pillay,Daniela Feldman,Daniela Feldman,6-7,6,7,0,1,Completed,true,false,false
+UA035132,07 Nov 10,13,Black Rock,St Joseph's BR,No. 1,Emma Brading,Michael Puli,Michael Puli,3-6,3,6,0,1,Completed,true,false,false
+UA035132,07 Nov 10,13,Black Rock,St Joseph's BR,No. 2,Issy Harper,Samuel McLoughney,Samuel McLoughney,2-6,2,6,0,1,Completed,true,false,false
+UA035132,07 Nov 10,13,Black Rock,St Joseph's BR,No. 3,Georgia McDonnell,Daniel Hall,Daniel Hall,6-7,6,7,0,1,Completed,true,false,false
+UA035132,07 Nov 10,13,Black Rock,St Joseph's BR,No. 4,Candice Perry,Tom Harris,Tom Harris,1-6,1,6,0,1,Completed,true,false,false
+UA035134,07 Nov 10,13,Tennis World,Aspendale,No. 1,Nikki Sarikostas,Campbell McHugh,Nikki Sarikostas,6-1,6,1,1,0,Completed,true,false,false
+UA035134,07 Nov 10,13,Tennis World,Aspendale,No. 2,Victoria Koutoulas,Bailey Wall,Victoria Koutoulas,6-3,6,3,1,0,Completed,true,false,false
+UA035134,07 Nov 10,13,Tennis World,Aspendale,No. 3,Andrew Wang,Anthony Cameron,Andrew Wang,6-3,6,3,1,0,Completed,true,false,false
+UA035134,07 Nov 10,13,Tennis World,Aspendale,No. 4,Bill Song,Grace Alexopoulos,Grace Alexopoulos,0-6,0,6,0,1,Completed,true,false,false
+UA035141,14 Nov 10,14,GPHC MLC,Black Rock,No. 1,Lucy Diggle,Tom Jones,Lucy Diggle,6-4,6,4,1,0,Completed,true,false,false
+UA035141,14 Nov 10,14,GPHC MLC,Black Rock,No. 2,Lachie Brown-Rogers,Georgia McDonnell,Georgia McDonnell,2-6,2,6,0,1,Completed,true,false,false
+UA035141,14 Nov 10,14,GPHC MLC,Black Rock,No. 3,Ludi Pillay,Emma Brading,Emma Brading,0-6,0,6,0,1,Completed,true,false,false
+UA035141,14 Nov 10,14,GPHC MLC,Black Rock,No. 4,Ally Jones,Candice Perry,Candice Perry,1-6,1,6,0,1,Completed,true,false,false
+UA035142,14 Nov 10,14,St Joseph's BR,Coatesville,No. 1,Michael Puli,Emily So,Michael Puli,6-2,6,2,1,0,Completed,true,false,false
+UA035142,14 Nov 10,14,St Joseph's BR,Coatesville,No. 2,Samuel McLoughney,Sally Potter,Samuel McLoughney,6-3,6,3,1,0,Completed,true,false,false
+UA035142,14 Nov 10,14,St Joseph's BR,Coatesville,No. 3,Daniel Hall,Siva Theiveekan,Daniel Hall,6-1,6,1,1,0,Completed,true,false,false
+UA035142,14 Nov 10,14,St Joseph's BR,Coatesville,No. 4,Ben Rogalsky,Theeban Theiveekan,Ben Rogalsky,6-2,6,2,1,0,Completed,true,false,false
+UA035144,14 Nov 10,14,Aspendale,Caulfield Rec,No. 1,Ben Milne,Stephen Wylie,Ben Milne,6-4,6,4,1,0,Completed,true,false,false
+UA035144,14 Nov 10,14,Aspendale,Caulfield Rec,No. 2,Campbell McHugh,David Makogon,David Makogon,3-6,3,6,0,1,Completed,true,false,false
+UA035144,14 Nov 10,14,Aspendale,Caulfield Rec,No. 3,Jeremy Cullen,Anthony Pereplechikov,Jeremy Cullen,6-3,6,3,1,0,Completed,true,false,false
+UA035144,14 Nov 10,14,Aspendale,Caulfield Rec,No. 4,Anthony Cameron,Jai Kanat,Anthony Cameron,6-3,6,3,1,0,Completed,true,false,false
+UA035301,,16,St Joseph's BR,GPHC MLC,No. 1,Michael Puli,Lucy Diggle,Michael Puli,6-4,6,4,1,0,Completed,true,false,false
+UA035301,,16,St Joseph's BR,GPHC MLC,No. 2,Samuel McLoughney,Lachie Brown-Rogers,Samuel McLoughney,6-1,6,1,1,0,Completed,true,false,false
+UA035301,,16,St Joseph's BR,GPHC MLC,No. 3,Daniel Hall,Maddie James,Daniel Hall,6-2,6,2,1,0,Completed,true,false,false
+UA035301,,16,St Joseph's BR,GPHC MLC,No. 4,Tom Harris,Zofia Andrianopoulos,Tom Harris,6-3,6,3,1,0,Completed,true,true,false
+UA035302,,16,Black Rock,Tennis World,No. 1,Tom Jones,Bill Song,Tom Jones,6-2,6,2,1,0,Completed,true,false,false
+UA035302,,16,Black Rock,Tennis World,No. 2,Georgia McDonnell,Nikki Sarikostas,Nikki Sarikostas,5-7,5,7,0,1,Completed,true,false,false
+UA035302,,16,Black Rock,Tennis World,No. 3,Issy Harper,Andrew Wang,Andrew Wang,2-6,2,6,0,1,Completed,true,false,false
+UA035302,,16,Black Rock,Tennis World,No. 4,Candice Perry,Victoria Koutoulas,Victoria Koutoulas,4-6,4,6,0,1,Completed,true,false,true
+UA035321,,17,St Joseph's BR,Black Rock,No. 1,Michael Puli,Tom Jones,Michael Puli,7-6,7,6,1,0,Completed,true,false,false
+UA035321,,17,St Joseph's BR,Black Rock,No. 2,Daniel Hall,Emma Brading,Daniel Hall,6-4,6,4,1,0,Completed,true,false,false
+UA035321,,17,St Joseph's BR,Black Rock,No. 3,Ben Rogalsky,Georgia McDonnell,Ben Rogalsky,6-4,6,4,1,0,Completed,true,false,false
+UA035321,,17,St Joseph's BR,Black Rock,No. 4,Tom Harris,Issy Harper,Tom Harris,6-4,6,4,1,0,Completed,true,true,false

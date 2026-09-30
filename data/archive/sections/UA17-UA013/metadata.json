@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA17-UA013",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2015",
+  "season_id": "UA17",
+  "season_label": "Spring 2015",
+  "source_section_code": "UA013",
+  "section_label": "Section 13",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Le Page",
+      "wins": 11,
+      "points": 90,
+      "percentage": 126.86,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "St Mary's",
+      "wins": 8,
+      "points": 75,
+      "percentage": 120.28,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Hurlingham Park",
+      "wins": 6,
+      "points": 62,
+      "percentage": 110.76,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Caulfield Rec",
+      "wins": 5,
+      "points": 58,
+      "percentage": 102.95,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC",
+      "wins": 4,
+      "points": 54,
+      "percentage": 104.42,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong Xavier",
+      "wins": 5,
+      "points": 53,
+      "percentage": 88.96,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Tennis World",
+      "wins": 1,
+      "points": 28,
+      "percentage": 56.9,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA17-UA013",
+  "fixtures": 59,
+  "completed_fixtures": 43,
+  "draw_fixtures": 59,
+  "singles_rubbers": 172,
+  "doubles_rubbers": 86,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

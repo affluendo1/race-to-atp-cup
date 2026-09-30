@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA25-UA004",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2019",
+  "season_id": "UA25",
+  "season_label": "Spring 2019",
+  "source_section_code": "UA004",
+  "section_label": "Section 4",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite",
+      "wins": 12,
+      "points": 108,
+      "percentage": 136.54,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Kooyong 2",
+      "wins": 10,
+      "points": 94,
+      "percentage": 123.13,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "St Joan of Arc",
+      "wins": 8,
+      "points": 81,
+      "percentage": 118.41,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kooyong 1",
+      "wins": 7,
+      "points": 79,
+      "percentage": 107.37,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 5,
+      "points": 67,
+      "percentage": 101.93,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park",
+      "wins": 5,
+      "points": 61,
+      "percentage": 90.31,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 3,
+      "points": 47,
+      "percentage": 85.56,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kings Park",
+      "wins": 0,
+      "points": 23,
+      "percentage": 57.08,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA25-UA004",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

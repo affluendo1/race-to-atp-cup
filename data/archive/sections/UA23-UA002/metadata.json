@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA23-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2018",
+  "season_id": "UA23",
+  "season_label": "Spring 2018",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Murrumbeena",
+      "wins": 12,
+      "points": 109,
+      "percentage": 152.29,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Royal Ave",
+      "wins": 7,
+      "points": 82,
+      "percentage": 115.92,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Dendy Park",
+      "wins": 7,
+      "points": 74,
+      "percentage": 103.54,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 7,
+      "points": 71,
+      "percentage": 102.93,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Coatesville",
+      "wins": 6,
+      "points": 71,
+      "percentage": 94.89,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Beaumaris CC",
+      "wins": 5,
+      "points": 58,
+      "percentage": 82.69,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 3,
+      "points": 49,
+      "percentage": 80.68,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Tennis World",
+      "wins": 2,
+      "points": 46,
+      "percentage": 84.06,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA23-UA002",
+  "fixtures": 58,
+  "completed_fixtures": 52,
+  "draw_fixtures": 59,
+  "singles_rubbers": 208,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

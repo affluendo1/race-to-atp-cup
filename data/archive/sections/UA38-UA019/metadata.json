@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA38-UA019",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2026",
+  "season_id": "UA38",
+  "season_label": "Autumn 2026",
+  "source_section_code": "UA019",
+  "section_label": "Sets 16",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC",
+      "wins": 9,
+      "points": 96.5,
+      "percentage": 153.63,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Black Rock Navy",
+      "wins": 7,
+      "points": 83.5,
+      "percentage": 125.76,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kings Park",
+      "wins": 8,
+      "points": 79.5,
+      "percentage": 106.27,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Murrumbeena",
+      "wins": 7,
+      "points": 78.5,
+      "percentage": 105.75,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong",
+      "wins": 6,
+      "points": 74,
+      "percentage": 106.67,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Black Rock Maroon",
+      "wins": 6,
+      "points": 67,
+      "percentage": 100.0,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra",
+      "wins": 4,
+      "points": 60,
+      "percentage": 85.79,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Aspendale",
+      "wins": 0,
+      "points": 21,
+      "percentage": 47.46,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA38-UA019",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

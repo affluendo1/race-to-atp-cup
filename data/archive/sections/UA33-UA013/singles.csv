@@ -1,0 +1,229 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA013011,16 Jul 23,1,BLTC Blue,BLTC White,No. 1,William Wheeler,Amelia Quintana,William Wheeler,6-1,6,1,1,0,Completed,true,false,false
+UA013011,16 Jul 23,1,BLTC Blue,BLTC White,No. 2,Victor Lee,Audrey James,Audrey James,3-6,3,6,0,1,Completed,true,false,false
+UA013011,16 Jul 23,1,BLTC Blue,BLTC White,No. 3,Daniel McLean,Maddie Ballantyne,Maddie Ballantyne,4-6,4,6,0,1,Completed,true,false,false
+UA013011,16 Jul 23,1,BLTC Blue,BLTC White,No. 4,Edward Jones,Sara Catala Prieto,Edward Jones,6-3,6,3,1,0,Completed,true,false,false
+UA013012,16 Jul 23,1,Royal Ave,GPHC,No. 1,Tiras Kasapidis,Harriet Syme,Tiras Kasapidis,6-4,6,4,1,0,Completed,true,false,false
+UA013012,16 Jul 23,1,Royal Ave,GPHC,No. 2,Jack Watson,Sienna Dobson,Jack Watson,6-1,6,1,1,0,Completed,true,false,false
+UA013012,16 Jul 23,1,Royal Ave,GPHC,No. 3,Noah Bradley,Laylah Ross,Noah Bradley,6-1,6,1,1,0,Completed,true,true,false
+UA013012,16 Jul 23,1,Royal Ave,GPHC,No. 4,James Sutherland,Edyn Ross,James Sutherland,6-1,6,1,1,0,Completed,true,false,false
+UA013021,23 Jul 23,2,Victory Park,BLTC Blue,No. 1,Elisha Ecimovic,William Wheeler,Elisha Ecimovic,6-4,6,4,1,0,Completed,true,false,false
+UA013021,23 Jul 23,2,Victory Park,BLTC Blue,No. 2,Angus Van De Water,Victor Lee,Victor Lee,2-6,2,6,0,1,Completed,true,false,false
+UA013021,23 Jul 23,2,Victory Park,BLTC Blue,No. 3,Aoi Mizuta,Daniel McLean,Daniel McLean,0-6,0,6,0,1,Completed,true,false,false
+UA013021,23 Jul 23,2,Victory Park,BLTC Blue,No. 4,Kiichi Usui,Edward Jones,Edward Jones,1-6,1,6,0,1,Completed,true,false,false
+UA013022,23 Jul 23,2,BLTC White,Royal Ave,No. 1,Amelia Quintana,Sia Kasapidis,Sia Kasapidis,4-6,4,6,0,1,Completed,true,false,false
+UA013022,23 Jul 23,2,BLTC White,Royal Ave,No. 2,Audrey James,Tiras Kasapidis,Audrey James,6-3,6,3,1,0,Completed,true,false,false
+UA013022,23 Jul 23,2,BLTC White,Royal Ave,No. 3,Maddie Ballantyne,Jack Watson,Jack Watson,3-4,3,4,0,1,Completed,false,false,false
+UA013022,23 Jul 23,2,BLTC White,Royal Ave,No. 4,Sara Catala Prieto,Noah Bradley,Noah Bradley,4-6,4,6,0,1,Completed,true,false,true
+UA013023,23 Jul 23,2,GPHC,St Andrews MB,No. 1,Harriet Syme,Hudson Vassallo,Hudson Vassallo,1-2,1,2,0,1,Completed,false,false,false
+UA013023,23 Jul 23,2,GPHC,St Andrews MB,No. 2,Sienna Dobson,George Savides,,1-1,1,1,0,0,Completed,false,false,false
+UA013023,23 Jul 23,2,GPHC,St Andrews MB,No. 3,Samantha Ford,Jack Bulfin,Samantha Ford,6-2,6,2,1,0,Completed,true,false,false
+UA013023,23 Jul 23,2,GPHC,St Andrews MB,No. 4,Rameen Atti,Luciano Persoglia,Rameen Atti,6-4,6,4,1,0,Completed,true,false,false
+UA013024,23 Jul 23,2,Tennis World,Black Rock,No. 1,Hayden Hua,Samuel Jenna,Hayden Hua,6-4,6,4,1,0,Completed,true,false,false
+UA013024,23 Jul 23,2,Tennis World,Black Rock,No. 2,Aiden Artemas,Tobias Jenna,Tobias Jenna,6-7,6,7,0,1,Completed,true,false,false
+UA013024,23 Jul 23,2,Tennis World,Black Rock,No. 3,Xavier La Roche,Archie Turner,Xavier La Roche,6-2,6,2,1,0,Completed,true,false,false
+UA013024,23 Jul 23,2,Tennis World,Black Rock,No. 4,Caitlin Artemas,Dana Kasparsons,Caitlin Artemas,6-0,6,0,1,0,Completed,true,false,false
+UA013031,30 Jul 23,3,BLTC Blue,Tennis World,No. 1,William Wheeler,Hayden Hua,William Wheeler,6-4,6,4,1,0,Completed,true,false,false
+UA013031,30 Jul 23,3,BLTC Blue,Tennis World,No. 2,Victor Lee,Klara Popovic,Victor Lee,6-4,6,4,1,0,Completed,true,false,false
+UA013031,30 Jul 23,3,BLTC Blue,Tennis World,No. 3,Daniel McLean,James Adamson,Daniel McLean,6-3,6,3,1,0,Completed,true,false,false
+UA013031,30 Jul 23,3,BLTC Blue,Tennis World,No. 4,Edward Jones,Chloe Popovic,Edward Jones,6-0,6,0,1,0,Completed,true,false,false
+UA013032,30 Jul 23,3,Royal Ave,Victory Park,No. 1,Tiras Kasapidis,Elisha Ecimovic,Elisha Ecimovic,3-6,3,6,0,1,Completed,true,false,false
+UA013032,30 Jul 23,3,Royal Ave,Victory Park,No. 2,Jack Watson,Angus Van De Water,Jack Watson,6-2,6,2,1,0,Completed,true,false,false
+UA013032,30 Jul 23,3,Royal Ave,Victory Park,No. 3,Noah Bradley,Kiichi Usui,Noah Bradley,6-3,6,3,1,0,Completed,true,true,false
+UA013032,30 Jul 23,3,Royal Ave,Victory Park,No. 4,Charlie Vakrinos,Aoi Mizuta,Charlie Vakrinos,6-0,6,0,1,0,Completed,true,true,false
+UA013033,30 Jul 23,3,St Andrews MB,BLTC White,No. 1,Hudson Vassallo,Amelia Quintana,Hudson Vassallo,6-1,6,1,1,0,Completed,true,false,false
+UA013033,30 Jul 23,3,St Andrews MB,BLTC White,No. 2,George Savides,Audrey James,Audrey James,4-6,4,6,0,1,Completed,true,false,false
+UA013033,30 Jul 23,3,St Andrews MB,BLTC White,No. 3,Jack Bulfin,Maddie Ballantyne,Maddie Ballantyne,1-6,1,6,0,1,Completed,true,false,false
+UA013033,30 Jul 23,3,St Andrews MB,BLTC White,No. 4,Luciano Persoglia,Sara Catala Prieto,Sara Catala Prieto,1-6,1,6,0,1,Completed,true,false,false
+UA013034,30 Jul 23,3,Black Rock,GPHC,No. 1,Samuel Jenna,Laylah Ross,Laylah Ross,6-7,6,7,0,1,Completed,true,false,false
+UA013034,30 Jul 23,3,Black Rock,GPHC,No. 2,Tobias Jenna,Samantha Ford,Samantha Ford,1-6,1,6,0,1,Completed,true,false,false
+UA013034,30 Jul 23,3,Black Rock,GPHC,No. 3,Archie Turner,Rameen Atti,Archie Turner,6-4,6,4,1,0,Completed,true,false,false
+UA013034,30 Jul 23,3,Black Rock,GPHC,No. 4,Dana Kasparsons,Edyn Ross,Edyn Ross,2-6,2,6,0,1,Completed,true,false,false
+UA013041,06 Aug 23,4,GPHC,BLTC Blue,No. 1,Harriet Syme,Victor Lee,Victor Lee,2-6,2,6,0,1,Completed,true,false,false
+UA013041,06 Aug 23,4,GPHC,BLTC Blue,No. 2,Sienna Dobson,Daniel McLean,Daniel McLean,1-6,1,6,0,1,Completed,true,false,false
+UA013041,06 Aug 23,4,GPHC,BLTC Blue,No. 3,Samantha Ford,Edward Jones,Edward Jones,0-6,0,6,0,1,Completed,true,false,false
+UA013041,06 Aug 23,4,GPHC,BLTC Blue,No. 4,Rameen Atti,Jetton Becconsal,Jetton Becconsal,1-6,1,6,0,1,Completed,true,false,false
+UA013042,06 Aug 23,4,Tennis World,Royal Ave,No. 1,James Adamson,Sia Kasapidis,Sia Kasapidis,3-6,3,6,0,1,Completed,true,false,false
+UA013042,06 Aug 23,4,Tennis World,Royal Ave,No. 2,Aiden Artemas,Jack Watson,Jack Watson,0-6,0,6,0,1,Completed,true,false,false
+UA013042,06 Aug 23,4,Tennis World,Royal Ave,No. 3,Xavier La Roche,Noah Bradley,Noah Bradley,6-7,6,7,0,1,Completed,true,false,true
+UA013042,06 Aug 23,4,Tennis World,Royal Ave,No. 4,Caitlin Artemas,James Sutherland,James Sutherland,0-6,0,6,0,1,Completed,true,false,false
+UA013043,06 Aug 23,4,Victory Park,St Andrews MB,No. 1,Elisha Ecimovic,Hudson Vassallo,Elisha Ecimovic,6-3,6,3,1,0,Completed,true,false,false
+UA013043,06 Aug 23,4,Victory Park,St Andrews MB,No. 2,Angus Van De Water,George Savides,Angus Van De Water,6-3,6,3,1,0,Completed,true,false,false
+UA013043,06 Aug 23,4,Victory Park,St Andrews MB,No. 3,Kiichi Usui,Jack Bulfin,Kiichi Usui,6-1,6,1,1,0,Completed,true,false,false
+UA013043,06 Aug 23,4,Victory Park,St Andrews MB,No. 4,Aoi Mizuta,Luciano Persoglia,Luciano Persoglia,2-6,2,6,0,1,Completed,true,false,false
+UA013044,06 Aug 23,4,BLTC White,Black Rock,No. 1,Adriana Taleb,Samuel Jenna,Samuel Jenna,3-6,3,6,0,1,Completed,true,false,false
+UA013044,06 Aug 23,4,BLTC White,Black Rock,No. 2,Amelia Quintana,Tobias Jenna,Tobias Jenna,6-7,6,7,0,1,Completed,true,false,false
+UA013044,06 Aug 23,4,BLTC White,Black Rock,No. 3,Audrey James,Archie Turner,Audrey James,6-2,6,2,1,0,Completed,true,false,false
+UA013044,06 Aug 23,4,BLTC White,Black Rock,No. 4,Maddie Ballantyne,Dana Kasparsons,Maddie Ballantyne,6-2,6,2,1,0,Completed,true,false,false
+UA013051,13 Aug 23,5,St Andrews MB,Black Rock,No. 1,Hudson Vassallo,Samuel Jenna,Samuel Jenna,3-6,3,6,0,1,Completed,true,false,false
+UA013051,13 Aug 23,5,St Andrews MB,Black Rock,No. 2,George Savides,Tobias Jenna,George Savides,6-4,6,4,1,0,Completed,true,false,false
+UA013051,13 Aug 23,5,St Andrews MB,Black Rock,No. 3,Jack Bulfin,Toby Leeds,Toby Leeds,1-6,1,6,0,1,Completed,true,false,true
+UA013051,13 Aug 23,5,St Andrews MB,Black Rock,No. 4,Luciano Persoglia,Dana Kasparsons,Dana Kasparsons,3-6,3,6,0,1,Completed,true,false,false
+UA013052,13 Aug 23,5,Victory Park,Tennis World,No. 1,Elisha Ecimovic,Hayden Hua,Hayden Hua,3-6,3,6,0,1,Completed,true,false,false
+UA013052,13 Aug 23,5,Victory Park,Tennis World,No. 2,Angus Van De Water,Klara Popovic,Angus Van De Water,6-3,6,3,1,0,Completed,true,false,false
+UA013052,13 Aug 23,5,Victory Park,Tennis World,No. 3,Kiichi Usui,Chloe Popovic,Chloe Popovic,4-6,4,6,0,1,Completed,true,false,false
+UA013052,13 Aug 23,5,Victory Park,Tennis World,No. 4,Aoi Mizuta,Xavier La Roche,Xavier La Roche,0-6,0,6,0,1,Completed,true,false,false
+UA013053,13 Aug 23,5,GPHC,BLTC White,No. 1,Sienna Dobson,Adriana Taleb,Adriana Taleb,2-6,2,6,0,1,Completed,true,false,false
+UA013053,13 Aug 23,5,GPHC,BLTC White,No. 2,Laylah Ross,Amelia Quintana,Laylah Ross,6-2,6,2,1,0,Completed,true,false,false
+UA013053,13 Aug 23,5,GPHC,BLTC White,No. 3,Samantha Ford,Audrey James,Audrey James,3-6,3,6,0,1,Completed,true,false,false
+UA013053,13 Aug 23,5,GPHC,BLTC White,No. 4,Rameen Atti,Maddie Ballantyne,Maddie Ballantyne,0-6,0,6,0,1,Completed,true,false,false
+UA013054,13 Aug 23,5,BLTC Blue,Royal Ave,No. 1,William Wheeler,Tiras Kasapidis,Tiras Kasapidis,3-6,3,6,0,1,Completed,true,false,false
+UA013054,13 Aug 23,5,BLTC Blue,Royal Ave,No. 2,Daniel McLean,Jack Watson,Jack Watson,1-6,1,6,0,1,Completed,true,false,false
+UA013054,13 Aug 23,5,BLTC Blue,Royal Ave,No. 3,Edward Jones,Noah Bradley,Edward Jones,6-1,6,1,1,0,Completed,true,false,true
+UA013054,13 Aug 23,5,BLTC Blue,Royal Ave,No. 4,Jetton Becconsal,James Sutherland,James Sutherland,6-7,6,7,0,1,Completed,true,false,false
+UA013061,20 Aug 23,6,Royal Ave,St Andrews MB,No. 1,Tiras Kasapidis,Hudson Vassallo,Tiras Kasapidis,6-2,6,2,1,0,Completed,true,false,false
+UA013061,20 Aug 23,6,Royal Ave,St Andrews MB,No. 2,Noah Bradley,George Savides,Noah Bradley,6-1,6,1,1,0,Completed,true,true,false
+UA013061,20 Aug 23,6,Royal Ave,St Andrews MB,No. 3,James Sutherland,Jack Bulfin,James Sutherland,6-3,6,3,1,0,Completed,true,false,false
+UA013061,20 Aug 23,6,Royal Ave,St Andrews MB,No. 4,Amber Sutherland,Luciano Persoglia,Amber Sutherland,6-0,6,0,1,0,Completed,true,true,false
+UA013062,20 Aug 23,6,Black Rock,BLTC Blue,No. 1,Samuel Jenna,William Wheeler,Samuel Jenna,6-3,6,3,1,0,Completed,true,false,false
+UA013062,20 Aug 23,6,Black Rock,BLTC Blue,No. 2,Tobias Jenna,Victor Lee,Victor Lee,4-6,4,6,0,1,Completed,true,false,false
+UA013062,20 Aug 23,6,Black Rock,BLTC Blue,No. 3,Archie Turner,Daniel McLean,Daniel McLean,0-6,0,6,0,1,Completed,true,false,false
+UA013062,20 Aug 23,6,Black Rock,BLTC Blue,No. 4,Dana Kasparsons,Edward Jones,Edward Jones,1-6,1,6,0,1,Completed,true,false,false
+UA013063,20 Aug 23,6,Tennis World,GPHC,No. 1,Hayden Hua,Harriet Syme,Hayden Hua,6-1,6,1,1,0,Completed,true,false,false
+UA013063,20 Aug 23,6,Tennis World,GPHC,No. 2,James Adamson,Sienna Dobson,James Adamson,6-4,6,4,1,0,Completed,true,false,false
+UA013063,20 Aug 23,6,Tennis World,GPHC,No. 3,Aiden Artemas,Samantha Ford,Aiden Artemas,7-5,7,5,1,0,Completed,true,false,false
+UA013063,20 Aug 23,6,Tennis World,GPHC,No. 4,Caitlin Artemas,Rameen Atti,Rameen Atti,3-6,3,6,0,1,Completed,true,false,false
+UA013064,20 Aug 23,6,BLTC White,Victory Park,No. 1,Audrey James,Elisha Ecimovic,Audrey James,7-6,7,6,1,0,Completed,true,false,false
+UA013064,20 Aug 23,6,BLTC White,Victory Park,No. 2,Maddie Ballantyne,Jacob McVay,Jacob McVay,0-6,0,6,0,1,Completed,true,false,false
+UA013064,20 Aug 23,6,BLTC White,Victory Park,No. 3,Sara Catala Prieto,Angus Van De Water,Angus Van De Water,0-6,0,6,0,1,Completed,true,false,false
+UA013064,20 Aug 23,6,BLTC White,Victory Park,No. 4,Amelia Quintana,Aoi Mizuta,Amelia Quintana,6-0,6,0,1,0,Completed,true,false,false
+UA013071,27 Aug 23,7,BLTC Blue,St Andrews MB,No. 1,William Wheeler,Hudson Vassallo,William Wheeler,6-1,6,1,1,0,Completed,true,false,false
+UA013071,27 Aug 23,7,BLTC Blue,St Andrews MB,No. 2,Victor Lee,George Savides,Victor Lee,6-3,6,3,1,0,Completed,true,false,false
+UA013071,27 Aug 23,7,BLTC Blue,St Andrews MB,No. 3,Edward Jones,Jack Bulfin,Edward Jones,6-0,6,0,1,0,Completed,true,false,false
+UA013071,27 Aug 23,7,BLTC Blue,St Andrews MB,No. 4,Timothy Gibbins,Maximo Gianniosis,Timothy Gibbins,6-0,6,0,1,0,Completed,true,true,true
+UA013072,27 Aug 23,7,Royal Ave,Black Rock,No. 1,Sia Kasapidis,Samuel Jenna,Samuel Jenna,2-6,2,6,0,1,Completed,true,false,false
+UA013072,27 Aug 23,7,Royal Ave,Black Rock,No. 2,Tiras Kasapidis,Tobias Jenna,Tobias Jenna,3-6,3,6,0,1,Completed,true,false,false
+UA013072,27 Aug 23,7,Royal Ave,Black Rock,No. 3,Jack Watson,Archie Turner,Jack Watson,6-0,6,0,1,0,Completed,true,false,false
+UA013072,27 Aug 23,7,Royal Ave,Black Rock,No. 4,James Sutherland,Dana Kasparsons,James Sutherland,6-1,6,1,1,0,Completed,true,false,false
+UA013073,27 Aug 23,7,Victory Park,GPHC,No. 1,Elisha Ecimovic,Sienna Dobson,Elisha Ecimovic,6-2,6,2,1,0,Completed,true,false,false
+UA013073,27 Aug 23,7,Victory Park,GPHC,No. 2,Jacob McVay,Laylah Ross,Jacob McVay,6-3,6,3,1,0,Completed,true,false,false
+UA013073,27 Aug 23,7,Victory Park,GPHC,No. 3,Angus Van De Water,Samantha Ford,Samantha Ford,6-7,6,7,0,1,Completed,true,false,false
+UA013073,27 Aug 23,7,Victory Park,GPHC,No. 4,Kiichi Usui,Edyn Ross,Kiichi Usui,6-1,6,1,1,0,Completed,true,false,false
+UA013074,27 Aug 23,7,Tennis World,BLTC White,No. 1,Hayden Hua,Adriana Taleb,Hayden Hua,6-4,6,4,1,0,Completed,true,false,false
+UA013074,27 Aug 23,7,Tennis World,BLTC White,No. 2,James Adamson,Audrey James,Audrey James,6-7,6,7,0,1,Completed,true,false,false
+UA013074,27 Aug 23,7,Tennis World,BLTC White,No. 3,Aiden Artemas,Maddie Ballantyne,Maddie Ballantyne,2-6,2,6,0,1,Completed,true,false,false
+UA013074,27 Aug 23,7,Tennis World,BLTC White,No. 4,Xavier La Roche,Sara Catala Prieto,Sara Catala Prieto,6-7,6,7,0,1,Completed,true,false,false
+UA013081,03 Sep 23,8,BLTC White,BLTC Blue,No. 1,Adriana Taleb,William Wheeler,William Wheeler,4-6,4,6,0,1,Completed,true,false,false
+UA013081,03 Sep 23,8,BLTC White,BLTC Blue,No. 2,Audrey James,Victor Lee,Audrey James,6-2,6,2,1,0,Completed,true,false,false
+UA013081,03 Sep 23,8,BLTC White,BLTC Blue,No. 3,Amelia Quintana,Daniel McLean,Amelia Quintana,6-2,6,2,1,0,Completed,true,false,false
+UA013081,03 Sep 23,8,BLTC White,BLTC Blue,No. 4,Sara Catala Prieto,Edward Jones,Edward Jones,0-6,0,6,0,1,Completed,true,false,false
+UA013082,03 Sep 23,8,GPHC,Royal Ave,No. 1,Sienna Dobson,Sia Kasapidis,Sienna Dobson,6-2,6,2,1,0,Completed,true,false,false
+UA013082,03 Sep 23,8,GPHC,Royal Ave,No. 2,Laylah Ross,Tiras Kasapidis,Laylah Ross,6-2,6,2,1,0,Completed,true,false,false
+UA013082,03 Sep 23,8,GPHC,Royal Ave,No. 3,Samantha Ford,Noah Bradley,Samantha Ford,6-4,6,4,1,0,Completed,true,false,true
+UA013082,03 Sep 23,8,GPHC,Royal Ave,No. 4,Rameen Atti,James Sutherland,James Sutherland,0-6,0,6,0,1,Completed,true,false,false
+UA013083,03 Sep 23,8,Tennis World,St Andrews MB,No. 1,Klara Popovic,Hudson Vassallo,Hudson Vassallo,4-6,4,6,0,1,Completed,true,false,false
+UA013083,03 Sep 23,8,Tennis World,St Andrews MB,No. 2,Chloe Popovic,George Savides,Chloe Popovic,6-0,6,0,1,0,Completed,true,false,false
+UA013083,03 Sep 23,8,Tennis World,St Andrews MB,No. 3,Aiden Artemas,Jack Bulfin,Aiden Artemas,6-1,6,1,1,0,Completed,true,false,false
+UA013083,03 Sep 23,8,Tennis World,St Andrews MB,No. 4,Caitlin Artemas,Luciano Persoglia,Caitlin Artemas,6-1,6,1,1,0,Completed,true,false,false
+UA013084,03 Sep 23,8,Victory Park,Black Rock,No. 1,Elisha Ecimovic,Samuel Jenna,Elisha Ecimovic,6-1,6,1,1,0,Completed,true,false,false
+UA013084,03 Sep 23,8,Victory Park,Black Rock,No. 2,Jacob McVay,Tobias Jenna,Jacob McVay,6-2,6,2,1,0,Completed,true,false,false
+UA013084,03 Sep 23,8,Victory Park,Black Rock,No. 3,Kiichi Usui,Archie Turner,Archie Turner,6-7,6,7,0,1,Completed,true,false,false
+UA013084,03 Sep 23,8,Victory Park,Black Rock,No. 4,Aoi Mizuta,Dana Kasparsons,Dana Kasparsons,2-6,2,6,0,1,Completed,true,false,false
+UA013091,10 Sep 23,9,BLTC Blue,Victory Park,No. 1,William Wheeler,Jacob McVay,Jacob McVay,3-6,3,6,0,1,Completed,true,false,false
+UA013091,10 Sep 23,9,BLTC Blue,Victory Park,No. 2,Victor Lee,Angus Van De Water,Victor Lee,6-4,6,4,1,0,Completed,true,false,false
+UA013091,10 Sep 23,9,BLTC Blue,Victory Park,No. 3,Edward Jones,Kiichi Usui,Edward Jones,6-1,6,1,1,0,Completed,true,false,false
+UA013091,10 Sep 23,9,BLTC Blue,Victory Park,No. 4,Lennon King,Aoi Mizuta,Lennon King,6-1,6,1,1,0,Completed,true,true,false
+UA013092,10 Sep 23,9,Royal Ave,BLTC White,No. 1,Sia Kasapidis,Audrey James,Audrey James,4-6,4,6,0,1,Completed,true,false,false
+UA013092,10 Sep 23,9,Royal Ave,BLTC White,No. 2,Tiras Kasapidis,Amelia Quintana,Amelia Quintana,3-6,3,6,0,1,Completed,true,false,false
+UA013092,10 Sep 23,9,Royal Ave,BLTC White,No. 3,James Sutherland,Maddie Ballantyne,James Sutherland,6-0,6,0,1,0,Completed,true,false,false
+UA013092,10 Sep 23,9,Royal Ave,BLTC White,No. 4,Amber Sutherland,Mateo Quintana,Amber Sutherland,6-2,6,2,1,0,Completed,true,true,true
+UA013093,10 Sep 23,9,St Andrews MB,GPHC,No. 1,Hudson Vassallo,Laylah Ross,Hudson Vassallo,7-6,7,6,1,0,Completed,true,false,false
+UA013093,10 Sep 23,9,St Andrews MB,GPHC,No. 2,George Savides,Samantha Ford,Samantha Ford,2-6,2,6,0,1,Completed,true,false,false
+UA013093,10 Sep 23,9,St Andrews MB,GPHC,No. 3,Jack Bulfin,Rameen Atti,Rameen Atti,1-6,1,6,0,1,Completed,true,false,false
+UA013093,10 Sep 23,9,St Andrews MB,GPHC,No. 4,Luciano Persoglia,Edyn Ross,Edyn Ross,1-6,1,6,0,1,Completed,true,false,false
+UA013094,10 Sep 23,9,Black Rock,Tennis World,No. 1,Samuel Jenna,James Adamson,Samuel Jenna,6-3,6,3,1,0,Completed,true,false,false
+UA013094,10 Sep 23,9,Black Rock,Tennis World,No. 2,Lachlan Gilbert,Aiden Artemas,Aiden Artemas,0-6,0,6,0,1,Completed,true,false,false
+UA013094,10 Sep 23,9,Black Rock,Tennis World,No. 3,Archie Turner,Xavier La Roche,Xavier La Roche,4-6,4,6,0,1,Completed,true,false,false
+UA013094,10 Sep 23,9,Black Rock,Tennis World,No. 4,Dana Kasparsons,Caitlin Artemas,Caitlin Artemas,5-7,5,7,0,1,Completed,true,false,false
+UA013101,08 Oct 23,10,Tennis World,BLTC Blue,No. 1,[Unnamed player — TROLS UA013101 home code 1],William Wheeler,William Wheeler,0-6,0,6,0,1,Completed,false,false,false
+UA013101,08 Oct 23,10,Tennis World,BLTC Blue,No. 2,Aiden Artemas,Victor Lee,Victor Lee,2-6,2,6,0,1,Completed,true,false,false
+UA013101,08 Oct 23,10,Tennis World,BLTC Blue,No. 3,Xavier La Roche,Daniel McLean,Daniel McLean,4-6,4,6,0,1,Completed,true,false,false
+UA013101,08 Oct 23,10,Tennis World,BLTC Blue,No. 4,Caitlin Artemas,Edward Jones,Edward Jones,0-6,0,6,0,1,Completed,true,false,false
+UA013102,08 Oct 23,10,Victory Park,Royal Ave,No. 1,Elisha Ecimovic,Sia Kasapidis,Elisha Ecimovic,6-1,6,1,1,0,Completed,true,false,false
+UA013102,08 Oct 23,10,Victory Park,Royal Ave,No. 2,Angus Van De Water,Jack Watson,Jack Watson,3-6,3,6,0,1,Completed,true,false,false
+UA013102,08 Oct 23,10,Victory Park,Royal Ave,No. 3,Kiichi Usui,James Sutherland,Kiichi Usui,6-2,6,2,1,0,Completed,true,false,false
+UA013102,08 Oct 23,10,Victory Park,Royal Ave,No. 4,Aoi Mizuta,Amber Sutherland,Amber Sutherland,0-6,0,6,0,1,Completed,true,false,true
+UA013103,08 Oct 23,10,BLTC White,St Andrews MB,No. 1,Adriana Taleb,Hudson Vassallo,Hudson Vassallo,5-7,5,7,0,1,Completed,true,false,false
+UA013103,08 Oct 23,10,BLTC White,St Andrews MB,No. 2,Audrey James,George Savides,Audrey James,6-1,6,1,1,0,Completed,true,false,false
+UA013103,08 Oct 23,10,BLTC White,St Andrews MB,No. 3,Sara Catala Prieto,Jack Bulfin,Sara Catala Prieto,6-2,6,2,1,0,Completed,true,false,false
+UA013103,08 Oct 23,10,BLTC White,St Andrews MB,No. 4,Aliyah Bowtell,Luciano Persoglia,Luciano Persoglia,0-6,0,6,0,1,Completed,true,true,false
+UA013104,08 Oct 23,10,GPHC,Black Rock,No. 1,Harriet Syme,Samuel Jenna,Samuel Jenna,2-6,2,6,0,1,Completed,true,false,false
+UA013104,08 Oct 23,10,GPHC,Black Rock,No. 2,Laylah Ross,Tobias Jenna,Laylah Ross,6-4,6,4,1,0,Completed,true,false,false
+UA013104,08 Oct 23,10,GPHC,Black Rock,No. 3,Rameen Atti,Archie Turner,Archie Turner,2-6,2,6,0,1,Completed,true,false,false
+UA013104,08 Oct 23,10,GPHC,Black Rock,No. 4,Edyn Ross,Dana Kasparsons,Edyn Ross,6-3,6,3,1,0,Completed,true,false,false
+UA013111,15 Oct 23,11,BLTC Blue,GPHC,No. 1,William Wheeler,Harriet Syme,William Wheeler,6-1,6,1,1,0,Completed,true,false,false
+UA013111,15 Oct 23,11,BLTC Blue,GPHC,No. 2,Victor Lee,Laylah Ross,Victor Lee,6-0,6,0,1,0,Completed,true,false,false
+UA013111,15 Oct 23,11,BLTC Blue,GPHC,No. 3,Edward Jones,Rameen Atti,Edward Jones,6-0,6,0,1,0,Completed,true,false,false
+UA013111,15 Oct 23,11,BLTC Blue,GPHC,No. 4,Jetton Becconsal,Edyn Ross,Jetton Becconsal,6-3,6,3,1,0,Completed,true,false,false
+UA013112,15 Oct 23,11,Royal Ave,Tennis World,No. 1,Sia Kasapidis,Klara Popovic,Klara Popovic,1-6,1,6,0,1,Completed,true,false,false
+UA013112,15 Oct 23,11,Royal Ave,Tennis World,No. 2,Jack Watson,James Adamson,Jack Watson,6-1,6,1,1,0,Completed,true,false,false
+UA013112,15 Oct 23,11,Royal Ave,Tennis World,No. 3,James Sutherland,Chloe Popovic,Chloe Popovic,3-6,3,6,0,1,Completed,true,false,false
+UA013112,15 Oct 23,11,Royal Ave,Tennis World,No. 4,Amber Sutherland,Xavier La Roche,Amber Sutherland,7-5,7,5,1,0,Completed,true,true,false
+UA013113,15 Oct 23,11,St Andrews MB,Victory Park,No. 1,Hudson Vassallo,Elisha Ecimovic,Hudson Vassallo,6-3,6,3,1,0,Completed,true,false,false
+UA013113,15 Oct 23,11,St Andrews MB,Victory Park,No. 2,George Savides,Jacob McVay,Jacob McVay,1-6,1,6,0,1,Completed,true,false,false
+UA013113,15 Oct 23,11,St Andrews MB,Victory Park,No. 3,Jack Bulfin,Angus Van De Water,Angus Van De Water,0-6,0,6,0,1,Completed,true,false,false
+UA013113,15 Oct 23,11,St Andrews MB,Victory Park,No. 4,Luciano Persoglia,Aoi Mizuta,Luciano Persoglia,6-2,6,2,1,0,Completed,true,false,false
+UA013114,15 Oct 23,11,Black Rock,BLTC White,No. 1,Samuel Jenna,Adriana Taleb,Samuel Jenna,6-1,6,1,1,0,Completed,true,false,false
+UA013114,15 Oct 23,11,Black Rock,BLTC White,No. 2,Tobias Jenna,Audrey James,Audrey James,1-6,1,6,0,1,Completed,true,false,false
+UA013114,15 Oct 23,11,Black Rock,BLTC White,No. 3,Archie Turner,Amelia Quintana,Amelia Quintana,1-6,1,6,0,1,Completed,true,false,false
+UA013114,15 Oct 23,11,Black Rock,BLTC White,No. 4,Dana Kasparsons,Mateo Quintana,Mateo Quintana,0-6,0,6,0,1,Completed,true,false,true
+UA013121,22 Oct 23,12,Black Rock,St Andrews MB,No. 1,Tobias Jenna,Hudson Vassallo,Hudson Vassallo,4-6,4,6,0,1,Completed,true,false,false
+UA013121,22 Oct 23,12,Black Rock,St Andrews MB,No. 2,Archie Turner,George Savides,Archie Turner,6-0,6,0,1,0,Completed,true,false,false
+UA013121,22 Oct 23,12,Black Rock,St Andrews MB,No. 3,Dana Kasparsons,Jack Bulfin,Dana Kasparsons,6-1,6,1,1,0,Completed,true,false,false
+UA013121,22 Oct 23,12,Black Rock,St Andrews MB,No. 4,Toby Leeds,Luciano Persoglia,Toby Leeds,6-0,6,0,1,0,Completed,true,true,false
+UA013122,22 Oct 23,12,Tennis World,Victory Park,No. 1,Klara Popovic,Elisha Ecimovic,Klara Popovic,7-5,7,5,1,0,Completed,true,false,false
+UA013122,22 Oct 23,12,Tennis World,Victory Park,No. 2,Chloe Popovic,Angus Van De Water,Angus Van De Water,3-6,3,6,0,1,Completed,true,false,false
+UA013122,22 Oct 23,12,Tennis World,Victory Park,No. 3,Aiden Artemas,Kiichi Usui,Aiden Artemas,7-5,7,5,1,0,Completed,true,false,false
+UA013122,22 Oct 23,12,Tennis World,Victory Park,No. 4,Caitlin Artemas,Aoi Mizuta,Caitlin Artemas,6-0,6,0,1,0,Completed,true,false,false
+UA013123,22 Oct 23,12,BLTC White,GPHC,No. 1,Audrey James,Harriet Syme,Audrey James,6-0,6,0,1,0,Completed,true,false,false
+UA013123,22 Oct 23,12,BLTC White,GPHC,No. 2,Amelia Quintana,Sienna Dobson,Amelia Quintana,6-1,6,1,1,0,Completed,true,false,false
+UA013123,22 Oct 23,12,BLTC White,GPHC,No. 3,Maddie Ballantyne,Samantha Ford,Maddie Ballantyne,6-1,6,1,1,0,Completed,true,false,false
+UA013123,22 Oct 23,12,BLTC White,GPHC,No. 4,Sara Catala Prieto,Edyn Ross,Edyn Ross,1-6,1,6,0,1,Completed,true,false,false
+UA013124,22 Oct 23,12,Royal Ave,BLTC Blue,No. 1,Sia Kasapidis,William Wheeler,William Wheeler,3-6,3,6,0,1,Completed,true,false,false
+UA013124,22 Oct 23,12,Royal Ave,BLTC Blue,No. 2,Tiras Kasapidis,Victor Lee,Tiras Kasapidis,6-4,6,4,1,0,Completed,true,false,false
+UA013124,22 Oct 23,12,Royal Ave,BLTC Blue,No. 3,James Sutherland,Daniel McLean,James Sutherland,6-1,6,1,1,0,Completed,true,false,false
+UA013124,22 Oct 23,12,Royal Ave,BLTC Blue,No. 4,Amber Sutherland,Edward Jones,Edward Jones,5-7,5,7,0,1,Completed,true,true,false
+UA013131,29 Oct 23,13,St Andrews MB,Royal Ave,No. 1,Hudson Vassallo,Sia Kasapidis,Hudson Vassallo,6-1,6,1,1,0,Completed,true,false,false
+UA013131,29 Oct 23,13,St Andrews MB,Royal Ave,No. 2,Boston Fuller,Jack Watson,Jack Watson,2-6,2,6,0,1,Completed,true,true,false
+UA013131,29 Oct 23,13,St Andrews MB,Royal Ave,No. 3,Jack Bulfin,Noah Bradley,Noah Bradley,0-6,0,6,0,1,Completed,true,false,true
+UA013131,29 Oct 23,13,St Andrews MB,Royal Ave,No. 4,Luciano Persoglia,James Sutherland,James Sutherland,0-6,0,6,0,1,Completed,true,false,false
+UA013132,29 Oct 23,13,BLTC Blue,Black Rock,No. 1,Victor Lee,Samuel Jenna,Victor Lee,7-6,7,6,1,0,Completed,true,false,false
+UA013132,29 Oct 23,13,BLTC Blue,Black Rock,No. 2,Edward Jones,Tobias Jenna,Edward Jones,6-1,6,1,1,0,Completed,true,false,false
+UA013132,29 Oct 23,13,BLTC Blue,Black Rock,No. 3,Jetton Becconsal,Archie Turner,Archie Turner,6-7,6,7,0,1,Completed,true,false,false
+UA013132,29 Oct 23,13,BLTC Blue,Black Rock,No. 4,William Jones,Dana Kasparsons,William Jones,6-0,6,0,1,0,Completed,true,true,false
+UA013133,29 Oct 23,13,GPHC,Tennis World,No. 1,Laylah Ross,Hayden Hua,Hayden Hua,3-6,3,6,0,1,Completed,true,false,false
+UA013133,29 Oct 23,13,GPHC,Tennis World,No. 2,Samantha Ford,Aiden Artemas,Samantha Ford,6-4,6,4,1,0,Completed,true,false,false
+UA013133,29 Oct 23,13,GPHC,Tennis World,No. 3,Rameen Atti,Xavier La Roche,Xavier La Roche,2-6,2,6,0,1,Completed,true,false,false
+UA013133,29 Oct 23,13,GPHC,Tennis World,No. 4,Edyn Ross,Caitlin Artemas,Caitlin Artemas,4-6,4,6,0,1,Completed,true,false,false
+UA013134,29 Oct 23,13,Victory Park,BLTC White,No. 1,Elisha Ecimovic,Adriana Taleb,Elisha Ecimovic,6-1,6,1,1,0,Completed,true,false,false
+UA013134,29 Oct 23,13,Victory Park,BLTC White,No. 2,Jacob McVay,Audrey James,Jacob McVay,6-4,6,4,1,0,Completed,true,false,false
+UA013134,29 Oct 23,13,Victory Park,BLTC White,No. 3,Angus Van De Water,Amelia Quintana,Angus Van De Water,6-3,6,3,1,0,Completed,true,false,false
+UA013134,29 Oct 23,13,Victory Park,BLTC White,No. 4,Kiichi Usui,Maddie Ballantyne,Kiichi Usui,6-1,6,1,1,0,Completed,true,false,false
+UA013141,12 Nov 23,14,St Andrews MB,BLTC Blue,No. 1,Hudson Vassallo,William Wheeler,Hudson Vassallo,6-4,6,4,1,0,Completed,true,false,false
+UA013141,12 Nov 23,14,St Andrews MB,BLTC Blue,No. 2,George Savides,Daniel McLean,Daniel McLean,0-6,0,6,0,1,Completed,true,false,false
+UA013141,12 Nov 23,14,St Andrews MB,BLTC Blue,No. 3,Jack Bulfin,Edward Jones,Edward Jones,0-6,0,6,0,1,Completed,true,false,false
+UA013141,12 Nov 23,14,St Andrews MB,BLTC Blue,No. 4,Luciano Persoglia,Jetton Becconsal,Jetton Becconsal,0-6,0,6,0,1,Completed,true,false,false
+UA013142,12 Nov 23,14,Black Rock,Royal Ave,No. 1,Samuel Jenna,Sia Kasapidis,Samuel Jenna,6-2,6,2,1,0,Completed,true,false,false
+UA013142,12 Nov 23,14,Black Rock,Royal Ave,No. 2,Tobias Jenna,Noah Bradley,Tobias Jenna,6-3,6,3,1,0,Completed,true,false,true
+UA013142,12 Nov 23,14,Black Rock,Royal Ave,No. 3,Archie Turner,James Sutherland,James Sutherland,2-6,2,6,0,1,Completed,true,false,false
+UA013142,12 Nov 23,14,Black Rock,Royal Ave,No. 4,Toby Leeds,Amber Sutherland,Amber Sutherland,3-6,3,6,0,1,Completed,true,true,true
+UA013143,12 Nov 23,14,GPHC,Victory Park,No. 1,Laylah Ross,Jacob McVay,Jacob McVay,2-6,2,6,0,1,Completed,true,false,false
+UA013143,12 Nov 23,14,GPHC,Victory Park,No. 2,Samantha Ford,Angus Van De Water,Angus Van De Water,1-6,1,6,0,1,Completed,true,false,false
+UA013143,12 Nov 23,14,GPHC,Victory Park,No. 3,Rameen Atti,Kiichi Usui,Kiichi Usui,1-6,1,6,0,1,Completed,true,false,false
+UA013143,12 Nov 23,14,GPHC,Victory Park,No. 4,Edyn Ross,Aoi Mizuta,Edyn Ross,6-1,6,1,1,0,Completed,true,false,false
+UA013144,12 Nov 23,14,BLTC White,Tennis World,No. 1,Adriana Taleb,Hayden Hua,Hayden Hua,1-6,1,6,0,1,Completed,true,false,false
+UA013144,12 Nov 23,14,BLTC White,Tennis World,No. 2,Audrey James,Aiden Artemas,Audrey James,6-0,6,0,1,0,Completed,true,false,false
+UA013144,12 Nov 23,14,BLTC White,Tennis World,No. 3,Maddie Ballantyne,Xavier La Roche,Maddie Ballantyne,6-4,6,4,1,0,Completed,true,false,false
+UA013144,12 Nov 23,14,BLTC White,Tennis World,No. 4,Sara Catala Prieto,Caitlin Artemas,Sara Catala Prieto,6-3,6,3,1,0,Completed,true,false,false
+UA013301,,16,BLTC Blue,Victory Park,No. 1,William Wheeler,Elisha Ecimovic,William Wheeler,6-1,6,1,1,0,Completed,true,false,false
+UA013301,,16,BLTC Blue,Victory Park,No. 2,Victor Lee,Jacob McVay,Jacob McVay,4-6,4,6,0,1,Completed,true,false,false
+UA013301,,16,BLTC Blue,Victory Park,No. 3,Edward Jones,Angus Van De Water,Edward Jones,6-1,6,1,1,0,Completed,true,false,false
+UA013301,,16,BLTC Blue,Victory Park,No. 4,Jetton Becconsal,Kiichi Usui,Jetton Becconsal,6-2,6,2,1,0,Completed,true,false,false
+UA013302,,16,Royal Ave,Tennis World,No. 1,Sia Kasapidis,Hayden Hua,Hayden Hua,2-6,2,6,0,1,Completed,true,false,false
+UA013302,,16,Royal Ave,Tennis World,No. 2,Tiras Kasapidis,Aiden Artemas,Tiras Kasapidis,6-0,6,0,1,0,Completed,true,false,false
+UA013302,,16,Royal Ave,Tennis World,No. 3,Jack Watson,Xavier La Roche,Jack Watson,6-0,6,0,1,0,Completed,true,false,false
+UA013302,,16,Royal Ave,Tennis World,No. 4,James Sutherland,Caitlin Artemas,James Sutherland,6-0,6,0,1,0,Completed,true,false,false
+UA013321,,17,BLTC Blue,Royal Ave,No. 1,William Wheeler,Sia Kasapidis,William Wheeler,6-0,6,0,1,0,Completed,true,false,false
+UA013321,,17,BLTC Blue,Royal Ave,No. 2,Victor Lee,Tiras Kasapidis,Victor Lee,6-4,6,4,1,0,Completed,true,false,false
+UA013321,,17,BLTC Blue,Royal Ave,No. 3,Daniel McLean,Jack Watson,Jack Watson,0-6,0,6,0,1,Completed,true,false,false
+UA013321,,17,BLTC Blue,Royal Ave,No. 4,Jetton Becconsal,Noah Bradley,Jetton Becconsal,6-4,6,4,1,0,Completed,true,false,true

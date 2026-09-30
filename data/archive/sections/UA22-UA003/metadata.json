@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA22-UA003",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA003",
+  "section_label": "Section 3",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Dendy Park 1",
+      "wins": 10,
+      "points": 100,
+      "percentage": 142.43,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Royal South Yarra 1",
+      "wins": 11,
+      "points": 99,
+      "percentage": 132.2,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Dendy Park 2",
+      "wins": 7,
+      "points": 76,
+      "percentage": 103.48,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Royal Ave 2",
+      "wins": 8,
+      "points": 74,
+      "percentage": 102.71,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal South Yarra 2",
+      "wins": 7,
+      "points": 69,
+      "percentage": 103.84,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Coatesville",
+      "wins": 6,
+      "points": 66,
+      "percentage": 100.8,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Caulfield Rec",
+      "wins": 5,
+      "points": 54,
+      "percentage": 81.0,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave 1",
+      "wins": 0,
+      "points": 22,
+      "percentage": 57.92,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA003",
+  "fixtures": 59,
+  "completed_fixtures": 59,
+  "draw_fixtures": 45,
+  "singles_rubbers": 234,
+  "doubles_rubbers": 118,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

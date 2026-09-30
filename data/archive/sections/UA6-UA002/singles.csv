@@ -1,0 +1,209 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA002011,31 Jan 10,1,Dendy Park,Mordialloc 1,No. 1,Nathan Scutti,Sean Samson,Nathan Scutti,6-1,6,1,1,0,Completed,true,false,false
+UA002011,31 Jan 10,1,Dendy Park,Mordialloc 1,No. 2,Adrian Karatzas,Harry Jin,Adrian Karatzas,7-6,7,6,1,0,Completed,true,false,false
+UA002011,31 Jan 10,1,Dendy Park,Mordialloc 1,No. 3,Jayden Hunt,Tom Reid,Jayden Hunt,6-1,6,1,1,0,Completed,true,false,false
+UA002011,31 Jan 10,1,Dendy Park,Mordialloc 1,No. 4,Kate Griffiths,James Dickie,James Dickie,1-6,1,6,0,1,Completed,true,false,false
+UA002012,31 Jan 10,1,St Joan of Arc,Mordialloc 2,No. 1,Dexter Bonet,Dimitri Economou,Dexter Bonet,6-2,6,2,1,0,Completed,true,false,false
+UA002012,31 Jan 10,1,St Joan of Arc,Mordialloc 2,No. 2,Sid Marshall,Geoffrey Taing,Geoffrey Taing,1-6,1,6,0,1,Completed,true,false,false
+UA002012,31 Jan 10,1,St Joan of Arc,Mordialloc 2,No. 3,Jordey Morey,Ben Myles,Jordey Morey,6-4,6,4,1,0,Completed,true,false,false
+UA002012,31 Jan 10,1,St Joan of Arc,Mordialloc 2,No. 4,Jandre Olivier,Nikhil Limaye,Jandre Olivier,6-3,6,3,1,0,Completed,true,false,false
+UA002013,31 Jan 10,1,Tennis World,BLTC,No. 1,Katerina Valos,Tom Stewart,Katerina Valos,6-3,6,3,1,0,Completed,true,false,false
+UA002013,31 Jan 10,1,Tennis World,BLTC,No. 2,Deena Tumber,Dimitri Siapkis,Dimitri Siapkis,6-7,6,7,0,1,Completed,true,false,false
+UA002013,31 Jan 10,1,Tennis World,BLTC,No. 3,Skye Srblin,Walt Scott,Walt Scott,0-6,0,6,0,1,Completed,true,false,false
+UA002013,31 Jan 10,1,Tennis World,BLTC,No. 4,Peta Valos,Jackson Heilberg,Jackson Heilberg,0-6,0,6,0,1,Completed,true,false,false
+UA002014,31 Jan 10,1,Kooyong 1,Kooyong 2,No. 1,Charlie Atkins,Nicholas Easton,Nicholas Easton,1-6,1,6,0,1,Completed,true,false,false
+UA002014,31 Jan 10,1,Kooyong 1,Kooyong 2,No. 2,Aaden Hughes,Martin Kaminsky,Aaden Hughes,6-2,6,2,1,0,Completed,true,false,false
+UA002014,31 Jan 10,1,Kooyong 1,Kooyong 2,No. 3,Renee Sheary,Sheng Wei Wong,Renee Sheary,6-2,6,2,1,0,Completed,true,false,false
+UA002014,31 Jan 10,1,Kooyong 1,Kooyong 2,No. 4,Jade Sheary,Hugh Muir,Jade Sheary,6-0,6,0,1,0,Completed,true,false,false
+UA002021,07 Feb 10,2,Kooyong 2,Dendy Park,No. 1,Nicholas Easton,Nathan Scutti,Nathan Scutti,4-6,4,6,0,1,Completed,true,false,false
+UA002021,07 Feb 10,2,Kooyong 2,Dendy Park,No. 2,Martin Kaminsky,Adrian Karatzas,Adrian Karatzas,3-6,3,6,0,1,Completed,true,false,false
+UA002021,07 Feb 10,2,Kooyong 2,Dendy Park,No. 3,Hugh Muir,Kate Griffiths,Hugh Muir,7-5,7,5,1,0,Completed,true,false,false
+UA002021,07 Feb 10,2,Kooyong 2,Dendy Park,No. 4,Harrison Young,Carrie Coulter,Harrison Young,6-2,6,2,1,0,Completed,true,false,false
+UA002022,07 Feb 10,2,Mordialloc 1,St Joan of Arc,No. 1,Sean Samson,Dexter Bonet,Dexter Bonet,1-6,1,6,0,1,Completed,true,false,false
+UA002022,07 Feb 10,2,Mordialloc 1,St Joan of Arc,No. 2,Harry Jin,Jordey Morey,Harry Jin,6-2,6,2,1,0,Completed,true,false,false
+UA002022,07 Feb 10,2,Mordialloc 1,St Joan of Arc,No. 3,Tom Reid,Jandre Olivier,Jandre Olivier,1-6,1,6,0,1,Completed,true,false,false
+UA002022,07 Feb 10,2,Mordialloc 1,St Joan of Arc,No. 4,Tarek Nacher,Manny Barbas,Tarek Nacher,6-2,6,2,1,0,Completed,true,false,false
+UA002023,07 Feb 10,2,Mordialloc 2,Tennis World,No. 1,Dimitri Economou,Marta Brzozowska,Marta Brzozowska,0-6,0,6,0,1,Completed,true,false,false
+UA002023,07 Feb 10,2,Mordialloc 2,Tennis World,No. 2,Geoffrey Taing,Jessica Brzozowska,Geoffrey Taing,6-2,6,2,1,0,Completed,true,false,false
+UA002023,07 Feb 10,2,Mordialloc 2,Tennis World,No. 3,Ben Myles,Skye Srblin,Ben Myles,6-0,6,0,1,0,Completed,true,false,false
+UA002023,07 Feb 10,2,Mordialloc 2,Tennis World,No. 4,Harry Reid,Peta Valos,Harry Reid,6-0,6,0,1,0,Completed,true,false,false
+UA002024,07 Feb 10,2,BLTC,Kooyong 1,No. 1,Tom Stewart,Taylor Capannolo,Taylor Capannolo,0-6,0,6,0,1,Completed,true,false,false
+UA002024,07 Feb 10,2,BLTC,Kooyong 1,No. 2,Dimitri Siapkis,Aaden Hughes,Aaden Hughes,0-6,0,6,0,1,Completed,true,false,false
+UA002024,07 Feb 10,2,BLTC,Kooyong 1,No. 3,Lachlan Haynes,Renee Sheary,Renee Sheary,5-7,5,7,0,1,Completed,true,false,false
+UA002024,07 Feb 10,2,BLTC,Kooyong 1,No. 4,Jackson Tate,Jade Sheary,Jade Sheary,1-6,1,6,0,1,Completed,true,false,false
+UA002032,14 Feb 10,3,St Joan of Arc,Kooyong 2,No. 1,Dexter Bonet,Nicholas Easton,Nicholas Easton,6-7,6,7,0,1,Completed,true,false,false
+UA002032,14 Feb 10,3,St Joan of Arc,Kooyong 2,No. 2,Jordey Morey,Martin Kaminsky,Martin Kaminsky,2-6,2,6,0,1,Completed,true,false,false
+UA002032,14 Feb 10,3,St Joan of Arc,Kooyong 2,No. 3,Manny Barbas,Sheng Wei Wong,Manny Barbas,6-2,6,2,1,0,Completed,true,false,false
+UA002032,14 Feb 10,3,St Joan of Arc,Kooyong 2,No. 4,Ethane Cung,Harrison Young,Harrison Young,0-6,0,6,0,1,Completed,true,false,false
+UA002033,14 Feb 10,3,Tennis World,Mordialloc 1,No. 1,Marta Brzozowska,Sean Samson,Marta Brzozowska,6-2,6,2,1,0,Completed,true,false,false
+UA002033,14 Feb 10,3,Tennis World,Mordialloc 1,No. 2,Keelev Meijer,Harry Jin,Keelev Meijer,6-2,6,2,1,0,Completed,true,false,false
+UA002033,14 Feb 10,3,Tennis World,Mordialloc 1,No. 3,Felix Davis,James Dickie,Felix Davis,6-2,6,2,1,0,Completed,true,false,false
+UA002033,14 Feb 10,3,Tennis World,Mordialloc 1,No. 4,Chanel Dimos,Tarek Nacher,Tarek Nacher,3-6,3,6,0,1,Completed,true,false,false
+UA002034,14 Feb 10,3,Kooyong 1,Mordialloc 2,No. 1,Taylor Capannolo,Dimitri Economou,Taylor Capannolo,6-3,6,3,1,0,Completed,true,false,false
+UA002034,14 Feb 10,3,Kooyong 1,Mordialloc 2,No. 2,Charlie Atkins,Geoffrey Taing,Charlie Atkins,6-3,6,3,1,0,Completed,true,false,false
+UA002034,14 Feb 10,3,Kooyong 1,Mordialloc 2,No. 3,Renee Sheary,Ben Myles,Ben Myles,5-7,5,7,0,1,Completed,true,false,false
+UA002034,14 Feb 10,3,Kooyong 1,Mordialloc 2,No. 4,Jade Sheary,Nikhil Limaye,Jade Sheary,7-5,7,5,1,0,Completed,true,false,false
+UA002041,21 Feb 10,4,Mordialloc 2,Dendy Park,No. 1,Dimitri Economou,Adrian Karatzas,Adrian Karatzas,2-6,2,6,0,1,Completed,true,false,false
+UA002041,21 Feb 10,4,Mordialloc 2,Dendy Park,No. 2,Geoffrey Taing,Jayden Hunt,Geoffrey Taing,6-4,6,4,1,0,Completed,true,false,false
+UA002041,21 Feb 10,4,Mordialloc 2,Dendy Park,No. 3,Nikhil Limaye,Jem McCarthy,Jem McCarthy,5-7,5,7,0,1,Completed,true,false,false
+UA002041,21 Feb 10,4,Mordialloc 2,Dendy Park,No. 4,Harry Reid,Kate Griffiths,Harry Reid,6-0,6,0,1,0,Completed,true,false,false
+UA002042,21 Feb 10,4,BLTC,St Joan of Arc,No. 1,Tom Stewart,Dexter Bonet,Tom Stewart,6-4,6,4,1,0,Completed,true,false,false
+UA002042,21 Feb 10,4,BLTC,St Joan of Arc,No. 2,Walt Scott,Jordey Morey,Walt Scott,6-1,6,1,1,0,Completed,true,false,false
+UA002042,21 Feb 10,4,BLTC,St Joan of Arc,No. 3,Jackson Tate,Jandre Olivier,Jandre Olivier,5-7,5,7,0,1,Completed,true,false,false
+UA002042,21 Feb 10,4,BLTC,St Joan of Arc,No. 4,Lachlan Haynes,Manny Barbas,Manny Barbas,2-6,2,6,0,1,Completed,true,false,false
+UA002043,21 Feb 10,4,Kooyong 2,Tennis World,No. 1,Nicholas Easton,Marta Brzozowska,Nicholas Easton,6-0,6,0,1,0,Completed,true,false,false
+UA002043,21 Feb 10,4,Kooyong 2,Tennis World,No. 2,Martin Kaminsky,Jessica Brzozowska,Martin Kaminsky,6-2,6,2,1,0,Completed,true,false,false
+UA002043,21 Feb 10,4,Kooyong 2,Tennis World,No. 3,Sheng Wei Wong,Skye Srblin,Sheng Wei Wong,6-0,6,0,1,0,Completed,true,false,false
+UA002043,21 Feb 10,4,Kooyong 2,Tennis World,No. 4,Hugh Muir,Danni Fletcher,Hugh Muir,6-1,6,1,1,0,Completed,true,false,false
+UA002044,21 Feb 10,4,Mordialloc 1,Kooyong 1,No. 1,Sean Samson,Aaden Hughes,Aaden Hughes,1-6,1,6,0,1,Completed,true,false,false
+UA002044,21 Feb 10,4,Mordialloc 1,Kooyong 1,No. 2,Tom Reid,Renee Sheary,Renee Sheary,1-6,1,6,0,1,Completed,true,false,false
+UA002044,21 Feb 10,4,Mordialloc 1,Kooyong 1,No. 3,James Dickie,Jade Sheary,James Dickie,6-1,6,1,1,0,Completed,true,false,false
+UA002044,21 Feb 10,4,Mordialloc 1,Kooyong 1,No. 4,Tarek Nacher,Josh Tarrant,Tarek Nacher,6-0,6,0,1,0,Completed,true,false,true
+UA002051,28 Feb 10,5,Tennis World,Kooyong 1,No. 1,Marta Brzozowska,Aaden Hughes,Aaden Hughes,1-6,1,6,0,1,Completed,true,false,false
+UA002051,28 Feb 10,5,Tennis World,Kooyong 1,No. 2,Deena Tumber,Charlie Atkins,Deena Tumber,7-5,7,5,1,0,Completed,true,false,false
+UA002051,28 Feb 10,5,Tennis World,Kooyong 1,No. 3,Jessica Brzozowska,Renee Sheary,Renee Sheary,1-6,1,6,0,1,Completed,true,false,false
+UA002051,28 Feb 10,5,Tennis World,Kooyong 1,No. 4,Skye Srblin,Jade Sheary,Jade Sheary,0-6,0,6,0,1,Completed,true,false,false
+UA002052,28 Feb 10,5,Kooyong 2,BLTC,No. 1,Nicholas Easton,Tom Stewart,Tom Stewart,6-7,6,7,0,1,Completed,true,false,false
+UA002052,28 Feb 10,5,Kooyong 2,BLTC,No. 2,Sheng Wei Wong,Dimitri Siapkis,Sheng Wei Wong,6-3,6,3,1,0,Completed,true,false,false
+UA002052,28 Feb 10,5,Kooyong 2,BLTC,No. 3,Hugh Muir,Jackson Tate,Hugh Muir,6-2,6,2,1,0,Completed,true,false,false
+UA002052,28 Feb 10,5,Kooyong 2,BLTC,No. 4,Harrison Young,Lachlan Haynes,Harrison Young,6-3,6,3,1,0,Completed,true,false,false
+UA002053,28 Feb 10,5,Mordialloc 2,Mordialloc 1,No. 1,Dimitri Economou,Harry Jin,Harry Jin,3-6,3,6,0,1,Completed,true,false,false
+UA002053,28 Feb 10,5,Mordialloc 2,Mordialloc 1,No. 2,Geoffrey Taing,Tom Reid,Geoffrey Taing,6-1,6,1,1,0,Completed,true,false,false
+UA002053,28 Feb 10,5,Mordialloc 2,Mordialloc 1,No. 3,Nikhil Limaye,James Dickie,James Dickie,4-6,4,6,0,1,Completed,true,false,false
+UA002053,28 Feb 10,5,Mordialloc 2,Mordialloc 1,No. 4,Harry Reid,Tarek Nacher,Tarek Nacher,5-7,5,7,0,1,Completed,true,false,false
+UA002054,28 Feb 10,5,Dendy Park,St Joan of Arc,No. 1,Nathan Scutti,Madi Morey,Nathan Scutti,6-3,6,3,1,0,Completed,true,false,false
+UA002054,28 Feb 10,5,Dendy Park,St Joan of Arc,No. 2,Adrian Karatzas,Jordey Morey,Adrian Karatzas,7-6,7,6,1,0,Completed,true,false,false
+UA002054,28 Feb 10,5,Dendy Park,St Joan of Arc,No. 3,Jem McCarthy,Jandre Olivier,Jem McCarthy,7-6,7,6,1,0,Completed,true,false,false
+UA002054,28 Feb 10,5,Dendy Park,St Joan of Arc,No. 4,Kate Griffiths,Manny Barbas,Manny Barbas,3-6,3,6,0,1,Completed,true,false,false
+UA002061,14 Mar 10,6,St Joan of Arc,Tennis World,No. 1,Dexter Bonet,Jacob Scott,Jacob Scott,1-6,1,6,0,1,Completed,true,false,false
+UA002061,14 Mar 10,6,St Joan of Arc,Tennis World,No. 2,Jordey Morey,Katerina Valos,Katerina Valos,0-6,0,6,0,1,Completed,true,false,false
+UA002061,14 Mar 10,6,St Joan of Arc,Tennis World,No. 3,Jandre Olivier,Marta Brzozowska,Jandre Olivier,6-1,6,1,1,0,Completed,true,false,false
+UA002061,14 Mar 10,6,St Joan of Arc,Tennis World,No. 4,Nadia Olivier,Peta Valos,Nadia Olivier,6-2,6,2,1,0,Completed,true,false,false
+UA002062,14 Mar 10,6,Kooyong 1,Dendy Park,No. 1,Aaden Hughes,Adrian Karatzas,Adrian Karatzas,2-6,2,6,0,1,Completed,true,false,false
+UA002062,14 Mar 10,6,Kooyong 1,Dendy Park,No. 2,Billy Friend,Jayden Hunt,Billy Friend,6-4,6,4,1,0,Completed,true,false,false
+UA002062,14 Mar 10,6,Kooyong 1,Dendy Park,No. 3,Max Alexander,Jem McCarthy,Jem McCarthy,3-6,3,6,0,1,Completed,true,false,false
+UA002062,14 Mar 10,6,Kooyong 1,Dendy Park,No. 4,Jade Sheary,Kate Griffiths,Jade Sheary,6-3,6,3,1,0,Completed,true,false,false
+UA002063,14 Mar 10,6,BLTC,Mordialloc 2,No. 1,Tom Stewart,Dimitri Economou,Dimitri Economou,4-6,4,6,0,1,Completed,true,false,false
+UA002063,14 Mar 10,6,BLTC,Mordialloc 2,No. 2,Walt Scott,Geoffrey Taing,Geoffrey Taing,1-6,1,6,0,1,Completed,true,false,false
+UA002063,14 Mar 10,6,BLTC,Mordialloc 2,No. 3,Jackson Tate,Nikhil Limaye,Nikhil Limaye,1-6,1,6,0,1,Completed,true,false,false
+UA002063,14 Mar 10,6,BLTC,Mordialloc 2,No. 4,Lachlan Haynes,Harry Reid,Lachlan Haynes,6-1,6,1,1,0,Completed,true,false,false
+UA002064,14 Mar 10,6,Mordialloc 1,Kooyong 2,No. 1,Sean Samson,Nicholas Easton,Nicholas Easton,1-6,1,6,0,1,Completed,true,false,false
+UA002064,14 Mar 10,6,Mordialloc 1,Kooyong 2,No. 2,Harry Jin,Martin Kaminsky,Harry Jin,6-2,6,2,1,0,Completed,true,false,false
+UA002064,14 Mar 10,6,Mordialloc 1,Kooyong 2,No. 3,Tom Reid,Hugh Muir,Tom Reid,6-3,6,3,1,0,Completed,true,false,false
+UA002064,14 Mar 10,6,Mordialloc 1,Kooyong 2,No. 4,James Dickie,Harrison Young,James Dickie,6-2,6,2,1,0,Completed,true,false,false
+UA002071,21 Mar 10,7,Dendy Park,Tennis World,No. 1,Nathan Scutti,Marta Brzozowska,Nathan Scutti,7-5,7,5,1,0,Completed,true,false,false
+UA002071,21 Mar 10,7,Dendy Park,Tennis World,No. 2,Jayden Hunt,Deena Tumber,Jayden Hunt,7-6,7,6,1,0,Completed,true,false,false
+UA002071,21 Mar 10,7,Dendy Park,Tennis World,No. 3,Kate Griffiths,Yanni Valos,Yanni Valos,5-7,5,7,0,1,Completed,true,false,false
+UA002071,21 Mar 10,7,Dendy Park,Tennis World,No. 4,James Bainbridge,Peta Valos,James Bainbridge,6-0,6,0,1,0,Completed,true,false,false
+UA002072,21 Mar 10,7,St Joan of Arc,Kooyong 1,No. 1,Matilda Tench,Stephanie Hughes,Stephanie Hughes,1-6,1,6,0,1,Completed,true,false,false
+UA002072,21 Mar 10,7,St Joan of Arc,Kooyong 1,No. 2,Jordey Morey,Aaden Hughes,Aaden Hughes,1-6,1,6,0,1,Completed,true,false,false
+UA002072,21 Mar 10,7,St Joan of Arc,Kooyong 1,No. 3,Jandre Olivier,Renee Sheary,Jandre Olivier,6-2,6,2,1,0,Completed,true,false,false
+UA002072,21 Mar 10,7,St Joan of Arc,Kooyong 1,No. 4,Madi Morey,Jade Sheary,Madi Morey,6-3,6,3,1,0,Completed,true,false,false
+UA002073,21 Mar 10,7,Kooyong 2,Mordialloc 2,No. 1,Nicholas Easton,Dimitri Economou,Nicholas Easton,6-1,6,1,1,0,Completed,true,false,false
+UA002073,21 Mar 10,7,Kooyong 2,Mordialloc 2,No. 2,Martin Kaminsky,Ben Myles,Martin Kaminsky,6-0,6,0,1,0,Completed,true,false,false
+UA002073,21 Mar 10,7,Kooyong 2,Mordialloc 2,No. 3,Sheng Wei Wong,Harry Reid,Harry Reid,3-6,3,6,0,1,Completed,true,false,false
+UA002073,21 Mar 10,7,Kooyong 2,Mordialloc 2,No. 4,Harrison Young,Neeraj Limaye,Harrison Young,6-0,6,0,1,0,Completed,true,false,false
+UA002074,21 Mar 10,7,BLTC,Mordialloc 1,No. 1,Tom Stewart,Sean Samson,Tom Stewart,6-1,6,1,1,0,Completed,true,false,false
+UA002074,21 Mar 10,7,BLTC,Mordialloc 1,No. 2,Dimitri Siapkis,Harry Jin,Harry Jin,0-6,0,6,0,1,Completed,true,false,false
+UA002074,21 Mar 10,7,BLTC,Mordialloc 1,No. 3,Walt Scott,James Dickie,James Dickie,5-7,5,7,0,1,Completed,true,false,false
+UA002074,21 Mar 10,7,BLTC,Mordialloc 1,No. 4,Jackson Tate,Tarek Nacher,Tarek Nacher,2-6,2,6,0,1,Completed,true,false,false
+UA002081,28 Mar 10,8,Mordialloc 1,Dendy Park,No. 1,Sean Samson,Adrian Karatzas,Adrian Karatzas,0-6,0,6,0,1,Completed,true,false,false
+UA002081,28 Mar 10,8,Mordialloc 1,Dendy Park,No. 2,Harry Jin,Jayden Hunt,Harry Jin,6-3,6,3,1,0,Completed,true,false,false
+UA002081,28 Mar 10,8,Mordialloc 1,Dendy Park,No. 3,Tom Reid,Jem McCarthy,Tom Reid,6-2,6,2,1,0,Completed,true,false,false
+UA002081,28 Mar 10,8,Mordialloc 1,Dendy Park,No. 4,Tarek Nacher,Kate Griffiths,Kate Griffiths,0-6,0,6,0,1,Completed,true,false,false
+UA002084,28 Mar 10,8,Kooyong 2,Kooyong 1,No. 1,Adam Harris,Stephanie Hughes,Adam Harris,6-1,6,1,1,0,Completed,true,false,false
+UA002084,28 Mar 10,8,Kooyong 2,Kooyong 1,No. 2,Martin Kaminsky,Aaden Hughes,Aaden Hughes,4-6,4,6,0,1,Completed,true,false,false
+UA002084,28 Mar 10,8,Kooyong 2,Kooyong 1,No. 3,Sheng Wei Wong,William Hays,William Hays,5-7,5,7,0,1,Completed,true,false,false
+UA002084,28 Mar 10,8,Kooyong 2,Kooyong 1,No. 4,Hugh Muir,Jd Hayes,Hugh Muir,6-4,6,4,1,0,Completed,true,false,false
+UA002091,18 Apr 10,9,Dendy Park,Kooyong 2,No. 1,Adrian Karatzas,Adam Harris,Adrian Karatzas,7-5,7,5,1,0,Completed,true,false,false
+UA002091,18 Apr 10,9,Dendy Park,Kooyong 2,No. 2,Jayden Hunt,Sebastion Loader-Oliver,Jayden Hunt,6-1,6,1,1,0,Completed,true,false,false
+UA002091,18 Apr 10,9,Dendy Park,Kooyong 2,No. 3,Jem McCarthy,Nicholas Easton,Nicholas Easton,1-6,1,6,0,1,Completed,true,false,false
+UA002091,18 Apr 10,9,Dendy Park,Kooyong 2,No. 4,Kate Griffiths,Martin Kaminsky,Martin Kaminsky,0-6,0,6,0,1,Completed,true,false,false
+UA002092,18 Apr 10,9,St Joan of Arc,Mordialloc 1,No. 1,Dexter Bonet,Sean Samson,Dexter Bonet,6-2,6,2,1,0,Completed,true,false,false
+UA002092,18 Apr 10,9,St Joan of Arc,Mordialloc 1,No. 2,Omar Fields,Harry Jin,Omar Fields,6-0,6,0,1,0,Completed,true,false,false
+UA002092,18 Apr 10,9,St Joan of Arc,Mordialloc 1,No. 3,Jordey Morey,Tom Reid,Jordey Morey,6-4,6,4,1,0,Completed,true,false,false
+UA002092,18 Apr 10,9,St Joan of Arc,Mordialloc 1,No. 4,Jandre Olivier,Tarek Nacher,Jandre Olivier,6-3,6,3,1,0,Completed,true,false,false
+UA002093,18 Apr 10,9,Tennis World,Mordialloc 2,No. 1,Jessica Brzozowska,Dimitri Economou,Dimitri Economou,2-6,2,6,0,1,Completed,true,false,false
+UA002093,18 Apr 10,9,Tennis World,Mordialloc 2,No. 2,Jacob Scott,Geoffrey Taing,Geoffrey Taing,5-7,5,7,0,1,Completed,true,false,false
+UA002093,18 Apr 10,9,Tennis World,Mordialloc 2,No. 3,Skye Srblin,Nikhil Limaye,Nikhil Limaye,1-6,1,6,0,1,Completed,true,false,false
+UA002093,18 Apr 10,9,Tennis World,Mordialloc 2,No. 4,Peta Valos,Harry Reid,Harry Reid,2-6,2,6,0,1,Completed,true,false,false
+UA002094,18 Apr 10,9,Kooyong 1,BLTC,No. 1,Aaden Hughes,Charlie King,Aaden Hughes,6-2,6,2,1,0,Completed,true,false,false
+UA002094,18 Apr 10,9,Kooyong 1,BLTC,No. 2,Stephanie Hughes,Tom Stewart,Stephanie Hughes,6-1,6,1,1,0,Completed,true,false,false
+UA002094,18 Apr 10,9,Kooyong 1,BLTC,No. 3,Jade Sheary,Walt Scott,Jade Sheary,6-4,6,4,1,0,Completed,true,false,false
+UA002094,18 Apr 10,9,Kooyong 1,BLTC,No. 4,Jd Hayes,Lachlan Haynes,Jd Hayes,6-4,6,4,1,0,Completed,true,false,false
+UA002101,02 May 10,10,BLTC,Dendy Park,No. 1,Tom Stewart,Nathan Scutti,Nathan Scutti,5-7,5,7,0,1,Completed,true,false,false
+UA002101,02 May 10,10,BLTC,Dendy Park,No. 2,Dimitri Siapkis,Adrian Karatzas,Dimitri Siapkis,7-6,7,6,1,0,Completed,true,false,false
+UA002101,02 May 10,10,BLTC,Dendy Park,No. 3,Jackson Tate,Jem McCarthy,Jem McCarthy,4-6,4,6,0,1,Completed,true,false,false
+UA002101,02 May 10,10,BLTC,Dendy Park,No. 4,Lachlan Haynes,Kate Griffiths,Kate Griffiths,1-6,1,6,0,1,Completed,true,false,false
+UA002102,02 May 10,10,Kooyong 2,St Joan of Arc,No. 1,Sebastion Loader-Oliver,Dexter Bonet,Dexter Bonet,2-6,2,6,0,1,Completed,true,false,false
+UA002102,02 May 10,10,Kooyong 2,St Joan of Arc,No. 2,Nicholas Easton,Omar Fields,Omar Fields,2-6,2,6,0,1,Completed,true,false,false
+UA002102,02 May 10,10,Kooyong 2,St Joan of Arc,No. 3,Martin Kaminsky,Jandre Olivier,Jandre Olivier,2-6,2,6,0,1,Completed,true,false,false
+UA002102,02 May 10,10,Kooyong 2,St Joan of Arc,No. 4,Harrison Young,Matilda Tench,Matilda Tench,0-6,0,6,0,1,Completed,true,false,false
+UA002103,02 May 10,10,Mordialloc 1,Tennis World,No. 1,Harry Jin,Chanel Dimos,Chanel Dimos,4-6,4,6,0,1,Completed,true,false,false
+UA002103,02 May 10,10,Mordialloc 1,Tennis World,No. 2,Tom Reid,Alexandra Youn,Tom Reid,6-3,6,3,1,0,Completed,true,false,false
+UA002103,02 May 10,10,Mordialloc 1,Tennis World,No. 3,James Dickie,Jessica Brzozowska,James Dickie,7-5,7,5,1,0,Completed,true,false,false
+UA002103,02 May 10,10,Mordialloc 1,Tennis World,No. 4,Tarek Nacher,Skye Srblin,Tarek Nacher,6-3,6,3,1,0,Completed,true,false,false
+UA002104,02 May 10,10,Mordialloc 2,Kooyong 1,No. 1,Dimitri Economou,Aaden Hughes,Aaden Hughes,0-6,0,6,0,1,Completed,true,false,false
+UA002104,02 May 10,10,Mordialloc 2,Kooyong 1,No. 2,Geoffrey Taing,Stephanie Hughes,Stephanie Hughes,3-6,3,6,0,1,Completed,true,false,false
+UA002104,02 May 10,10,Mordialloc 2,Kooyong 1,No. 3,Nikhil Limaye,Jade Sheary,Jade Sheary,2-6,2,6,0,1,Completed,true,false,false
+UA002104,02 May 10,10,Mordialloc 2,Kooyong 1,No. 4,Harry Reid,William Hays,William Hays,3-6,3,6,0,1,Completed,true,false,false
+UA002111,09 May 10,11,Dendy Park,Mordialloc 2,No. 1,Nathan Scutti,Dimitri Economou,Nathan Scutti,6-2,6,2,1,0,Completed,true,false,false
+UA002111,09 May 10,11,Dendy Park,Mordialloc 2,No. 2,Adrian Karatzas,Geoffrey Taing,Adrian Karatzas,6-0,6,0,1,0,Completed,true,false,false
+UA002111,09 May 10,11,Dendy Park,Mordialloc 2,No. 3,Jayden Hunt,Nikhil Limaye,Jayden Hunt,7-5,7,5,1,0,Completed,true,false,false
+UA002111,09 May 10,11,Dendy Park,Mordialloc 2,No. 4,Jem McCarthy,Harry Reid,Jem McCarthy,6-1,6,1,1,0,Completed,true,false,false
+UA002112,09 May 10,11,St Joan of Arc,BLTC,No. 1,Dexter Bonet,Tom Stewart,Dexter Bonet,6-1,6,1,1,0,Completed,true,false,false
+UA002112,09 May 10,11,St Joan of Arc,BLTC,No. 2,Jordey Morey,Dimitri Siapkis,Jordey Morey,6-4,6,4,1,0,Completed,true,false,false
+UA002112,09 May 10,11,St Joan of Arc,BLTC,No. 3,Jandre Olivier,Walt Scott,Jandre Olivier,6-3,6,3,1,0,Completed,true,false,false
+UA002112,09 May 10,11,St Joan of Arc,BLTC,No. 4,Nadia Olivier,Jackson Tate,Jackson Tate,2-6,2,6,0,1,Completed,true,false,false
+UA002114,09 May 10,11,Kooyong 1,Mordialloc 1,No. 1,Aaden Hughes,Sean Samson,Aaden Hughes,6-0,6,0,1,0,Completed,true,false,false
+UA002114,09 May 10,11,Kooyong 1,Mordialloc 1,No. 2,Stephanie Hughes,Tom Reid,Stephanie Hughes,6-1,6,1,1,0,Completed,true,false,false
+UA002114,09 May 10,11,Kooyong 1,Mordialloc 1,No. 3,Billy Friend,James Dickie,Billy Friend,6-0,6,0,1,0,Completed,true,false,false
+UA002114,09 May 10,11,Kooyong 1,Mordialloc 1,No. 4,Jade Sheary,Tarek Nacher,Jade Sheary,6-3,6,3,1,0,Completed,true,false,false
+UA002121,16 May 10,12,Kooyong 1,Tennis World,No. 1,Aaden Hughes,Rowan Kerr,Aaden Hughes,6-0,6,0,1,0,Completed,true,false,true
+UA002121,16 May 10,12,Kooyong 1,Tennis World,No. 2,Stephanie Hughes,Brad Sykes,Stephanie Hughes,6-0,6,0,1,0,Completed,true,false,true
+UA002121,16 May 10,12,Kooyong 1,Tennis World,No. 3,Billy Friend,Caitlin Plozza,Billy Friend,6-0,6,0,1,0,Completed,true,false,true
+UA002121,16 May 10,12,Kooyong 1,Tennis World,No. 4,Jade Sheary,Josh Tarrant,Jade Sheary,6-0,6,0,1,0,Completed,true,false,true
+UA002122,16 May 10,12,BLTC,Kooyong 2,No. 1,Tom Stewart,Sebastion Loader-Oliver,Tom Stewart,6-4,6,4,1,0,Completed,true,false,false
+UA002122,16 May 10,12,BLTC,Kooyong 2,No. 2,Dimitri Siapkis,Nicholas Easton,Nicholas Easton,3-6,3,6,0,1,Completed,true,false,false
+UA002122,16 May 10,12,BLTC,Kooyong 2,No. 3,Jackson Tate,Hugh Muir,Hugh Muir,1-6,1,6,0,1,Completed,true,false,false
+UA002122,16 May 10,12,BLTC,Kooyong 2,No. 4,Lachlan Haynes,Harrison Young,Harrison Young,0-6,0,6,0,1,Completed,true,false,false
+UA002123,16 May 10,12,Mordialloc 1,Mordialloc 2,No. 1,Sean Samson,Dimitri Economou,Dimitri Economou,2-6,2,6,0,1,Completed,true,false,false
+UA002123,16 May 10,12,Mordialloc 1,Mordialloc 2,No. 2,Tom Reid,Ben Myles,Tom Reid,6-4,6,4,1,0,Completed,true,false,false
+UA002123,16 May 10,12,Mordialloc 1,Mordialloc 2,No. 3,James Dickie,Nikhil Limaye,James Dickie,6-3,6,3,1,0,Completed,true,false,false
+UA002123,16 May 10,12,Mordialloc 1,Mordialloc 2,No. 4,Tarek Nacher,William Dutt,William Dutt,0-6,0,6,0,1,Completed,true,false,false
+UA002124,16 May 10,12,St Joan of Arc,Dendy Park,No. 1,Dexter Bonet,Nathan Scutti,Dexter Bonet,6-3,6,3,1,0,Completed,true,false,false
+UA002124,16 May 10,12,St Joan of Arc,Dendy Park,No. 2,Omar Fields,Adrian Karatzas,Omar Fields,6-1,6,1,1,0,Completed,true,false,false
+UA002124,16 May 10,12,St Joan of Arc,Dendy Park,No. 3,Jordey Morey,Jem McCarthy,Jordey Morey,6-2,6,2,1,0,Completed,true,false,false
+UA002124,16 May 10,12,St Joan of Arc,Dendy Park,No. 4,Jandre Olivier,Kate Griffiths,Jandre Olivier,6-1,6,1,1,0,Completed,true,false,false
+UA002132,23 May 10,13,Dendy Park,Kooyong 1,No. 1,Adrian Karatzas,Aaden Hughes,Aaden Hughes,1-6,1,6,0,1,Completed,true,false,false
+UA002132,23 May 10,13,Dendy Park,Kooyong 1,No. 2,Nathan Scutti,Stephanie Hughes,Stephanie Hughes,3-6,3,6,0,1,Completed,true,false,false
+UA002132,23 May 10,13,Dendy Park,Kooyong 1,No. 3,Jayden Hunt,Billy Friend,Billy Friend,0-6,0,6,0,1,Completed,true,false,false
+UA002132,23 May 10,13,Dendy Park,Kooyong 1,No. 4,Kate Griffiths,Jade Sheary,Jade Sheary,3-6,3,6,0,1,Completed,true,false,false
+UA002133,23 May 10,13,Mordialloc 2,BLTC,No. 1,Dimitri Economou,Tom Stewart,Tom Stewart,3-6,3,6,0,1,Completed,true,false,false
+UA002133,23 May 10,13,Mordialloc 2,BLTC,No. 2,Ben Myles,Dimitri Siapkis,Ben Myles,6-1,6,1,1,0,Completed,true,false,false
+UA002133,23 May 10,13,Mordialloc 2,BLTC,No. 3,Nikhil Limaye,Walt Scott,Nikhil Limaye,6-2,6,2,1,0,Completed,true,false,false
+UA002133,23 May 10,13,Mordialloc 2,BLTC,No. 4,Neeraj Limaye,Jackson Tate,Jackson Tate,6-7,6,7,0,1,Completed,true,false,false
+UA002134,23 May 10,13,Kooyong 2,Mordialloc 1,No. 1,Sebastion Loader-Oliver,Sean Samson,Sebastion Loader-Oliver,6-4,6,4,1,0,Completed,true,false,false
+UA002134,23 May 10,13,Kooyong 2,Mordialloc 1,No. 2,Nicholas Easton,Harry Jin,Nicholas Easton,6-3,6,3,1,0,Completed,true,false,false
+UA002134,23 May 10,13,Kooyong 2,Mordialloc 1,No. 3,Sheng Wei Wong,Tom Reid,Tom Reid,3-6,3,6,0,1,Completed,true,false,false
+UA002134,23 May 10,13,Kooyong 2,Mordialloc 1,No. 4,Harrison Young,James Dickie,James Dickie,4-6,4,6,0,1,Completed,true,false,false
+UA002142,30 May 10,14,Kooyong 1,St Joan of Arc,No. 1,Aaden Hughes,Dexter Bonet,Aaden Hughes,6-2,6,2,1,0,Completed,true,false,false
+UA002142,30 May 10,14,Kooyong 1,St Joan of Arc,No. 2,Stephanie Hughes,Omar Fields,Omar Fields,2-6,2,6,0,1,Completed,true,false,false
+UA002142,30 May 10,14,Kooyong 1,St Joan of Arc,No. 3,Billy Friend,Jordey Morey,Billy Friend,6-2,6,2,1,0,Completed,true,false,false
+UA002142,30 May 10,14,Kooyong 1,St Joan of Arc,No. 4,Jade Sheary,Matilda Tench,Matilda Tench,0-6,0,6,0,1,Completed,true,false,false
+UA002143,30 May 10,14,Mordialloc 2,Kooyong 2,No. 1,Dimitri Economou,Sebastion Loader-Oliver,Sebastion Loader-Oliver,5-7,5,7,0,1,Completed,true,false,false
+UA002143,30 May 10,14,Mordialloc 2,Kooyong 2,No. 2,Nikhil Limaye,Nicholas Easton,Nicholas Easton,1-6,1,6,0,1,Completed,true,false,false
+UA002143,30 May 10,14,Mordialloc 2,Kooyong 2,No. 3,Harry Reid,Martin Kaminsky,Martin Kaminsky,2-6,2,6,0,1,Completed,true,false,false
+UA002143,30 May 10,14,Mordialloc 2,Kooyong 2,No. 4,Neeraj Limaye,Harrison Young,Neeraj Limaye,6-3,6,3,1,0,Completed,true,false,false
+UA002301,,16,Kooyong 1,Dendy Park,No. 1,Aaden Hughes,Nathan Scutti,Aaden Hughes,6-1,6,1,1,0,Completed,true,false,false
+UA002301,,16,Kooyong 1,Dendy Park,No. 2,Stephanie Hughes,Adrian Karatzas,Stephanie Hughes,6-0,6,0,1,0,Completed,true,true,false
+UA002301,,16,Kooyong 1,Dendy Park,No. 3,Billy Friend,Jayden Hunt,Billy Friend,6-0,6,0,1,0,Completed,true,true,false
+UA002301,,16,Kooyong 1,Dendy Park,No. 4,Jade Sheary,Jem McCarthy,Jade Sheary,6-2,6,2,1,0,Completed,true,false,false
+UA002302,,16,St Joan of Arc,Kooyong 2,No. 1,Omar Fields,Nicholas Easton,Omar Fields,6-2,6,2,1,0,Completed,true,true,false
+UA002302,,16,St Joan of Arc,Kooyong 2,No. 2,Jordey Morey,Martin Kaminsky,Martin Kaminsky,3-6,3,6,0,1,Completed,true,false,false
+UA002302,,16,St Joan of Arc,Kooyong 2,No. 3,Jandre Olivier,Sheng Wei Wong,Jandre Olivier,6-0,6,0,1,0,Completed,true,false,false
+UA002302,,16,St Joan of Arc,Kooyong 2,No. 4,Matilda Tench,Hugh Muir,Hugh Muir,5-7,5,7,0,1,Completed,true,true,false
+UA002321,,17,Kooyong 1,St Joan of Arc,No. 1,Aaden Hughes,Dexter Bonet,Aaden Hughes,6-3,6,3,1,0,Completed,true,false,false
+UA002321,,17,Kooyong 1,St Joan of Arc,No. 2,Stephanie Hughes,Omar Fields,Omar Fields,2-6,2,6,0,1,Completed,true,true,true
+UA002321,,17,Kooyong 1,St Joan of Arc,No. 3,Billy Friend,Jordey Morey,Billy Friend,6-3,6,3,1,0,Completed,true,true,false
+UA002321,,17,Kooyong 1,St Joan of Arc,No. 4,Jade Sheary,Jandre Olivier,Jandre Olivier,0-6,0,6,0,1,Completed,true,false,false

@@ -1,0 +1,85 @@
+{
+  "asset_id": "UA30-UA021",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2022",
+  "season_id": "UA30",
+  "season_label": "Autumn 2022",
+  "source_section_code": "UA021",
+  "section_label": "Section 21",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Mentone",
+      "wins": 11,
+      "points": 100,
+      "percentage": 211.76,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Kings Park",
+      "wins": 8,
+      "points": 80,
+      "percentage": 130.86,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "St James",
+      "wins": 7,
+      "points": 64,
+      "percentage": 113.38,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 6,
+      "points": 63,
+      "percentage": 123.92,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St Pats Mentone",
+      "wins": 3,
+      "points": 40,
+      "percentage": 84.59,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Coatesville",
+      "wins": 2,
+      "points": 27,
+      "percentage": 55.21,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC",
+      "wins": 0,
+      "points": 16,
+      "percentage": 49.86,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA30-UA021",
+  "fixtures": 55,
+  "completed_fixtures": 42,
+  "draw_fixtures": 59,
+  "singles_rubbers": 167,
+  "doubles_rubbers": 83,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA021321"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA27-UA007",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2020",
+  "season_id": "UA27",
+  "season_label": "Spring 2020",
+  "source_section_code": "UA007",
+  "section_label": "Section 7",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Black Rock",
+      "wins": 6,
+      "points": 48,
+      "percentage": 135.51,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Highett",
+      "wins": 4,
+      "points": 40,
+      "percentage": 142.06,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Lauriston",
+      "wins": 3,
+      "points": 34,
+      "percentage": 131.3,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kings Park",
+      "wins": 3,
+      "points": 33,
+      "percentage": 100.0,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Mentone",
+      "wins": 3,
+      "points": 29,
+      "percentage": 103.73,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Aspendale",
+      "wins": 3,
+      "points": 27,
+      "percentage": 85.12,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St Joan of Arc",
+      "wins": 2,
+      "points": 23,
+      "percentage": 89.38,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "St James",
+      "wins": 0,
+      "points": 6,
+      "percentage": 49.29,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA27-UA007",
+  "fixtures": 24,
+  "completed_fixtures": 24,
+  "draw_fixtures": 56,
+  "singles_rubbers": 96,
+  "doubles_rubbers": 48,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

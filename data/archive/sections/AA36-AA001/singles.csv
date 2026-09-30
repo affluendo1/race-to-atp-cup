@@ -1,0 +1,161 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA001011,30 Jan 16,1,Port Melbourne,Carmelite,No. 1,Ryan Sweeney,Luke Johnson,Luke Johnson,3-6,3,6,0,1,Completed,true,false,false
+AA001011,30 Jan 16,1,Port Melbourne,Carmelite,No. 2,Ben Adam,Andre Gregorious,Andre Gregorious,6-7,6,7,0,1,Completed,true,false,false
+AA001011,30 Jan 16,1,Port Melbourne,Carmelite,No. 3,Zac Climpson,Will Hunt,Will Hunt,2-6,2,6,0,1,Completed,true,false,false
+AA001011,30 Jan 16,1,Port Melbourne,Carmelite,No. 4,Ben Collis,Paddy Freemantle,Paddy Freemantle,3-6,3,6,0,1,Completed,true,false,false
+AA001012,30 Jan 16,1,Royal South Yarra 1,Kooyong MLC1,No. 1,Jemma Mitchell,Alexandra McFarlane,Alexandra McFarlane,3-6,3,6,0,1,Completed,true,false,false
+AA001012,30 Jan 16,1,Royal South Yarra 1,Kooyong MLC1,No. 2,Lucy Campbell,Camilla Kaufman,Camilla Kaufman,0-6,0,6,0,1,Completed,true,false,false
+AA001012,30 Jan 16,1,Royal South Yarra 1,Kooyong MLC1,No. 3,Georgie Gough,Harry Merzger,Harry Merzger,1-6,1,6,0,1,Completed,true,false,false
+AA001012,30 Jan 16,1,Royal South Yarra 1,Kooyong MLC1,No. 4,Chloe Joubert,Olivia Douglas,Olivia Douglas,2-6,2,6,0,1,Completed,true,false,false
+AA001013,30 Jan 16,1,Kooyong MLC2,Royal South Yarra 2,No. 1,Aaron Koh,Lachie Francis,Aaron Koh,6-3,6,3,1,0,Completed,true,false,false
+AA001013,30 Jan 16,1,Kooyong MLC2,Royal South Yarra 2,No. 2,Charlie Hummerston,Harry Cooper,Charlie Hummerston,6-1,6,1,1,0,Completed,true,false,false
+AA001013,30 Jan 16,1,Kooyong MLC2,Royal South Yarra 2,No. 3,Thomas Palazzo,Eliza Mailer,Thomas Palazzo,6-0,6,0,1,0,Completed,true,false,false
+AA001013,30 Jan 16,1,Kooyong MLC2,Royal South Yarra 2,No. 4,Jack Cannon,Sophie Gough,Jack Cannon,6-4,6,4,1,0,Completed,true,false,false
+AA001021,06 Feb 16,2,Royal South Yarra 2,Port Melbourne,No. 1,Lachie Francis,Ryan Sweeney,Lachie Francis,6-2,6,2,1,0,Completed,true,false,false
+AA001021,06 Feb 16,2,Royal South Yarra 2,Port Melbourne,No. 2,Stella Heidenreich,Zac Climpson,Zac Climpson,0-6,0,6,0,1,Completed,true,false,false
+AA001021,06 Feb 16,2,Royal South Yarra 2,Port Melbourne,No. 3,Anouk Heidenreich,Jake Rothnic,Jake Rothnic,2-6,2,6,0,1,Completed,true,false,false
+AA001021,06 Feb 16,2,Royal South Yarra 2,Port Melbourne,No. 4,Sophie Gough,Josh McKenzie,Josh McKenzie,2-6,2,6,0,1,Completed,true,false,false
+AA001022,06 Feb 16,2,Kooyong MLC1,Kooyong MLC2,No. 1,Alexandra McFarlane,Aaron Koh,Alexandra McFarlane,6-2,6,2,1,0,Completed,true,false,false
+AA001022,06 Feb 16,2,Kooyong MLC1,Kooyong MLC2,No. 2,Camilla Kaufman,Charlie Hummerston,Camilla Kaufman,6-3,6,3,1,0,Completed,true,false,false
+AA001022,06 Feb 16,2,Kooyong MLC1,Kooyong MLC2,No. 3,Harry Merzger,Jack Cannon,Harry Merzger,6-2,6,2,1,0,Completed,true,false,false
+AA001022,06 Feb 16,2,Kooyong MLC1,Kooyong MLC2,No. 4,Sarah Kaufman,Ruby Seymour,Sarah Kaufman,6-0,6,0,1,0,Completed,true,false,false
+AA001023,06 Feb 16,2,Carmelite,Royal South Yarra 1,No. 1,Andre Gregorious,Lucy Campbell,Andre Gregorious,6-0,6,0,1,0,Completed,true,false,false
+AA001023,06 Feb 16,2,Carmelite,Royal South Yarra 1,No. 2,Will Hunt,Georgie Gough,Will Hunt,6-0,6,0,1,0,Completed,true,false,false
+AA001023,06 Feb 16,2,Carmelite,Royal South Yarra 1,No. 3,Leon Katelis,Chloe Joubert,Leon Katelis,7-5,7,5,1,0,Completed,true,false,false
+AA001023,06 Feb 16,2,Carmelite,Royal South Yarra 1,No. 4,Gus McDonald,Ava Lansell,Gus McDonald,6-0,6,0,1,0,Completed,true,false,false
+AA001031,13 Feb 16,3,Port Melbourne,Royal South Yarra 1,No. 1,Ben Adam,Jemma Mitchell,Ben Adam,7-6,7,6,1,0,Completed,true,false,false
+AA001031,13 Feb 16,3,Port Melbourne,Royal South Yarra 1,No. 2,Zac Climpson,Lucy Campbell,Zac Climpson,6-2,6,2,1,0,Completed,true,false,false
+AA001031,13 Feb 16,3,Port Melbourne,Royal South Yarra 1,No. 3,Ben Collis,Chloe Joubert,Ben Collis,7-6,7,6,1,0,Completed,true,false,false
+AA001031,13 Feb 16,3,Port Melbourne,Royal South Yarra 1,No. 4,Josh McKenzie,Isabella Hornor,Josh McKenzie,6-2,6,2,1,0,Completed,true,false,false
+AA001032,13 Feb 16,3,Kooyong MLC2,Carmelite,No. 1,Aaron Koh,Andre Gregorious,Andre Gregorious,4-6,4,6,0,1,Completed,true,false,false
+AA001032,13 Feb 16,3,Kooyong MLC2,Carmelite,No. 2,Charlie Hummerston,Paddy Freemantle,Charlie Hummerston,7-5,7,5,1,0,Completed,true,false,false
+AA001032,13 Feb 16,3,Kooyong MLC2,Carmelite,No. 3,Eliza Seymour,Gus McDonald,Gus McDonald,1-6,1,6,0,1,Completed,true,false,false
+AA001032,13 Feb 16,3,Kooyong MLC2,Carmelite,No. 4,Ruby Seymour,Leon Katelis,Leon Katelis,1-6,1,6,0,1,Completed,true,false,false
+AA001033,13 Feb 16,3,Royal South Yarra 2,Kooyong MLC1,No. 1,Eliza Mailer,Alexandra McFarlane,Alexandra McFarlane,1-6,1,6,0,1,Completed,true,false,false
+AA001033,13 Feb 16,3,Royal South Yarra 2,Kooyong MLC1,No. 2,Stella Heidenreich,Camilla Kaufman,Camilla Kaufman,3-6,3,6,0,1,Completed,true,false,false
+AA001033,13 Feb 16,3,Royal South Yarra 2,Kooyong MLC1,No. 3,Anouk Heidenreich,Sarah Kaufman,Sarah Kaufman,3-6,3,6,0,1,Completed,true,false,false
+AA001033,13 Feb 16,3,Royal South Yarra 2,Kooyong MLC1,No. 4,Chloe Cooper,Charlotte Stern,Chloe Cooper,6-2,6,2,1,0,Completed,true,false,false
+AA001041,20 Feb 16,4,Kooyong MLC1,Port Melbourne,No. 1,Alexandra McFarlane,Ryan Sweeney,Alexandra McFarlane,6-0,6,0,1,0,Completed,true,false,false
+AA001041,20 Feb 16,4,Kooyong MLC1,Port Melbourne,No. 2,Camilla Kaufman,Ben Adam,Camilla Kaufman,6-2,6,2,1,0,Completed,true,false,false
+AA001041,20 Feb 16,4,Kooyong MLC1,Port Melbourne,No. 3,Sarah Kaufman,Jake Rothnic,Sarah Kaufman,6-1,6,1,1,0,Completed,true,false,false
+AA001041,20 Feb 16,4,Kooyong MLC1,Port Melbourne,No. 4,Charlotte Stern,Josh McKenzie,Josh McKenzie,0-6,0,6,0,1,Completed,true,false,false
+AA001042,20 Feb 16,4,Carmelite,Royal South Yarra 2,No. 1,Will Hunt,Eliza Mailer,Will Hunt,6-0,6,0,1,0,Completed,true,false,false
+AA001042,20 Feb 16,4,Carmelite,Royal South Yarra 2,No. 2,Leon Katelis,Stella Heidenreich,Leon Katelis,6-1,6,1,1,0,Completed,true,false,false
+AA001042,20 Feb 16,4,Carmelite,Royal South Yarra 2,No. 3,Gus McDonald,Anouk Heidenreich,Gus McDonald,6-4,6,4,1,0,Completed,true,false,false
+AA001042,20 Feb 16,4,Carmelite,Royal South Yarra 2,No. 4,Paddy Freemantle,Chloe Cooper,Chloe Cooper,5-7,5,7,0,1,Completed,true,false,false
+AA001043,20 Feb 16,4,Royal South Yarra 1,Kooyong MLC2,No. 1,Jemma Mitchell,Aaron Koh,Jemma Mitchell,6-3,6,3,1,0,Completed,true,false,false
+AA001043,20 Feb 16,4,Royal South Yarra 1,Kooyong MLC2,No. 2,Georgie Gough,Jack Cannon,Jack Cannon,3-6,3,6,0,1,Completed,true,false,false
+AA001043,20 Feb 16,4,Royal South Yarra 1,Kooyong MLC2,No. 3,Chloe Joubert,Eliza Seymour,Chloe Joubert,6-3,6,3,1,0,Completed,true,false,false
+AA001043,20 Feb 16,4,Royal South Yarra 1,Kooyong MLC2,No. 4,Ava Lansell,Ruby Seymour,Ava Lansell,6-1,6,1,1,0,Completed,true,false,false
+AA001051,27 Feb 16,5,Port Melbourne,Kooyong MLC2,No. 1,Ryan Sweeney,Charlie Hummerston,Ryan Sweeney,6-4,6,4,1,0,Completed,true,false,false
+AA001051,27 Feb 16,5,Port Melbourne,Kooyong MLC2,No. 2,Zac Climpson,Jack Cannon,Zac Climpson,6-4,6,4,1,0,Completed,true,false,false
+AA001051,27 Feb 16,5,Port Melbourne,Kooyong MLC2,No. 3,Ben Collis,Eliza Seymour,Ben Collis,6-4,6,4,1,0,Completed,true,false,false
+AA001051,27 Feb 16,5,Port Melbourne,Kooyong MLC2,No. 4,Josh McKenzie,Ruby Seymour,Josh McKenzie,6-1,6,1,1,0,Completed,true,false,false
+AA001052,27 Feb 16,5,Kooyong MLC1,Carmelite,No. 1,Alexandra McFarlane,Andre Gregorious,Alexandra McFarlane,6-4,6,4,1,0,Completed,true,false,false
+AA001052,27 Feb 16,5,Kooyong MLC1,Carmelite,No. 2,Camilla Kaufman,Will Hunt,Camilla Kaufman,6-0,6,0,1,0,Completed,true,false,false
+AA001052,27 Feb 16,5,Kooyong MLC1,Carmelite,No. 3,Harry Merzger,Leon Katelis,Harry Merzger,6-0,6,0,1,0,Completed,true,false,false
+AA001052,27 Feb 16,5,Kooyong MLC1,Carmelite,No. 4,Sarah Kaufman,Paddy Freemantle,Sarah Kaufman,6-4,6,4,1,0,Completed,true,false,false
+AA001053,27 Feb 16,5,Royal South Yarra 2,Royal South Yarra 1,No. 1,Lachie Francis,Jemma Mitchell,Lachie Francis,7-6,7,6,1,0,Completed,true,false,false
+AA001053,27 Feb 16,5,Royal South Yarra 2,Royal South Yarra 1,No. 2,Harry Cooper,Lucy Campbell,Harry Cooper,7-5,7,5,1,0,Completed,true,false,false
+AA001053,27 Feb 16,5,Royal South Yarra 2,Royal South Yarra 1,No. 3,Eliza Mailer,Chloe Joubert,Chloe Joubert,2-6,2,6,0,1,Completed,true,false,false
+AA001053,27 Feb 16,5,Royal South Yarra 2,Royal South Yarra 1,No. 4,Chloe Cooper,Ava Lansell,Chloe Cooper,6-3,6,3,1,0,Completed,true,false,false
+AA001061,05 Mar 16,6,Carmelite,Port Melbourne,No. 1,Will Hunt,Ben Adam,Will Hunt,6-1,6,1,1,0,Completed,true,false,false
+AA001061,05 Mar 16,6,Carmelite,Port Melbourne,No. 2,Gus McDonald,Zac Climpson,Zac Climpson,5-7,5,7,0,1,Completed,true,false,false
+AA001061,05 Mar 16,6,Carmelite,Port Melbourne,No. 3,Leon Katelis,Jake Rothnic,Leon Katelis,6-1,6,1,1,0,Completed,true,false,false
+AA001061,05 Mar 16,6,Carmelite,Port Melbourne,No. 4,Paddy Freemantle,Ben Collis,Ben Collis,3-6,3,6,0,1,Completed,true,false,false
+AA001062,05 Mar 16,6,Kooyong MLC1,Royal South Yarra 1,No. 1,Alexandra McFarlane,Lucy Campbell,Alexandra McFarlane,6-0,6,0,1,0,Completed,true,false,false
+AA001062,05 Mar 16,6,Kooyong MLC1,Royal South Yarra 1,No. 2,Camilla Kaufman,Georgie Gough,Camilla Kaufman,6-0,6,0,1,0,Completed,true,false,false
+AA001062,05 Mar 16,6,Kooyong MLC1,Royal South Yarra 1,No. 3,Harry Merzger,Ava Lansell,Harry Merzger,6-3,6,3,1,0,Completed,true,false,false
+AA001062,05 Mar 16,6,Kooyong MLC1,Royal South Yarra 1,No. 4,Sarah Kaufman,Isabella Hornor,Sarah Kaufman,6-0,6,0,1,0,Completed,true,false,false
+AA001063,05 Mar 16,6,Royal South Yarra 2,Kooyong MLC2,No. 1,Eliza Mailer,Aaron Koh,Aaron Koh,1-6,1,6,0,1,Completed,true,false,false
+AA001063,05 Mar 16,6,Royal South Yarra 2,Kooyong MLC2,No. 2,Stella Heidenreich,Charlie Hummerston,Charlie Hummerston,0-6,0,6,0,1,Completed,true,false,false
+AA001063,05 Mar 16,6,Royal South Yarra 2,Kooyong MLC2,No. 3,Anouk Heidenreich,Jack Cannon,Jack Cannon,5-7,5,7,0,1,Completed,true,false,false
+AA001063,05 Mar 16,6,Royal South Yarra 2,Kooyong MLC2,No. 4,Chloe Cooper,Ruby Seymour,Ruby Seymour,1-6,1,6,0,1,Completed,true,false,false
+AA001071,19 Mar 16,7,Port Melbourne,Royal South Yarra 2,No. 1,Ryan Sweeney,Lachie Francis,Ryan Sweeney,7-5,7,5,1,0,Completed,true,false,false
+AA001071,19 Mar 16,7,Port Melbourne,Royal South Yarra 2,No. 2,Ben Adam,Harry Cooper,Ben Adam,6-1,6,1,1,0,Completed,true,false,false
+AA001071,19 Mar 16,7,Port Melbourne,Royal South Yarra 2,No. 3,Zac Climpson,Stella Heidenreich,Zac Climpson,6-2,6,2,1,0,Completed,true,false,false
+AA001071,19 Mar 16,7,Port Melbourne,Royal South Yarra 2,No. 4,Josh McKenzie,Anouk Heidenreich,Anouk Heidenreich,2-6,2,6,0,1,Completed,true,false,false
+AA001072,19 Mar 16,7,Kooyong MLC2,Kooyong MLC1,No. 1,Charlie Hummerston,Alexandra McFarlane,Alexandra McFarlane,2-6,2,6,0,1,Completed,true,false,false
+AA001072,19 Mar 16,7,Kooyong MLC2,Kooyong MLC1,No. 2,Jack Cannon,Camilla Kaufman,Camilla Kaufman,2-6,2,6,0,1,Completed,true,false,false
+AA001072,19 Mar 16,7,Kooyong MLC2,Kooyong MLC1,No. 3,Eliza Seymour,Harry Merzger,Harry Merzger,1-6,1,6,0,1,Completed,true,false,false
+AA001072,19 Mar 16,7,Kooyong MLC2,Kooyong MLC1,No. 4,Ruby Seymour,Sarah Kaufman,Sarah Kaufman,0-6,0,6,0,1,Completed,true,false,false
+AA001073,19 Mar 16,7,Royal South Yarra 1,Carmelite,No. 1,Jemma Mitchell,Will Hunt,Jemma Mitchell,6-2,6,2,1,0,Completed,true,false,false
+AA001073,19 Mar 16,7,Royal South Yarra 1,Carmelite,No. 2,Lucy Campbell,[Unnamed player — TROLS AA001073 away code 2],[Unnamed player — TROLS AA001073 away code 2],0-6,0,6,0,1,Completed,false,false,false
+AA001073,19 Mar 16,7,Royal South Yarra 1,Carmelite,No. 3,Chloe Joubert,Leon Katelis,Leon Katelis,2-6,2,6,0,1,Completed,true,false,false
+AA001073,19 Mar 16,7,Royal South Yarra 1,Carmelite,No. 4,Ava Lansell,Paddy Freemantle,Paddy Freemantle,1-6,1,6,0,1,Completed,true,false,false
+AA001081,16 Apr 16,8,Royal South Yarra 1,Port Melbourne,No. 1,Jemma Mitchell,Ryan Sweeney,Jemma Mitchell,6-1,6,1,1,0,Completed,true,false,false
+AA001081,16 Apr 16,8,Royal South Yarra 1,Port Melbourne,No. 2,Chloe Joubert,Zac Climpson,Zac Climpson,4-6,4,6,0,1,Completed,true,false,false
+AA001081,16 Apr 16,8,Royal South Yarra 1,Port Melbourne,No. 3,Ava Lansell,Jake Rothnic,Jake Rothnic,1-6,1,6,0,1,Completed,true,false,false
+AA001081,16 Apr 16,8,Royal South Yarra 1,Port Melbourne,No. 4,Isabella Hornor,Ben Collis,Ben Collis,0-6,0,6,0,1,Completed,true,false,false
+AA001082,16 Apr 16,8,Carmelite,Kooyong MLC2,No. 1,Andre Gregorious,Aaron Koh,Andre Gregorious,6-3,6,3,1,0,Completed,true,false,false
+AA001082,16 Apr 16,8,Carmelite,Kooyong MLC2,No. 2,Gus McDonald,Jack Cannon,Jack Cannon,4-6,4,6,0,1,Completed,true,false,false
+AA001082,16 Apr 16,8,Carmelite,Kooyong MLC2,No. 3,Leon Katelis,Eliza Seymour,Leon Katelis,6-1,6,1,1,0,Completed,true,false,false
+AA001082,16 Apr 16,8,Carmelite,Kooyong MLC2,No. 4,Paddy Freemantle,Ruby Seymour,Paddy Freemantle,6-3,6,3,1,0,Completed,true,false,false
+AA001083,16 Apr 16,8,Kooyong MLC1,Royal South Yarra 2,No. 1,Camilla Kaufman,Harry Cooper,Camilla Kaufman,6-1,6,1,1,0,Completed,true,false,false
+AA001083,16 Apr 16,8,Kooyong MLC1,Royal South Yarra 2,No. 2,Harry Merzger,Stella Heidenreich,Harry Merzger,6-0,6,0,1,0,Completed,true,false,false
+AA001083,16 Apr 16,8,Kooyong MLC1,Royal South Yarra 2,No. 3,Sarah Kaufman,Anouk Heidenreich,Sarah Kaufman,6-1,6,1,1,0,Completed,true,false,false
+AA001083,16 Apr 16,8,Kooyong MLC1,Royal South Yarra 2,No. 4,Bridgette Harwood,Chloe Cooper,Bridgette Harwood,6-0,6,0,1,0,Completed,true,false,false
+AA001091,23 Apr 16,9,Port Melbourne,Kooyong MLC1,No. 1,Ben Adam,Alexandra McFarlane,Alexandra McFarlane,3-6,3,6,0,1,Completed,true,false,false
+AA001091,23 Apr 16,9,Port Melbourne,Kooyong MLC1,No. 2,Zac Climpson,Camilla Kaufman,Camilla Kaufman,3-6,3,6,0,1,Completed,true,false,false
+AA001091,23 Apr 16,9,Port Melbourne,Kooyong MLC1,No. 3,Josh McKenzie,Harry Merzger,Josh McKenzie,6-4,6,4,1,0,Completed,true,false,false
+AA001091,23 Apr 16,9,Port Melbourne,Kooyong MLC1,No. 4,Jake Rothnic,Sarah Kaufman,Sarah Kaufman,3-6,3,6,0,1,Completed,true,false,false
+AA001092,23 Apr 16,9,Royal South Yarra 2,Carmelite,No. 1,Lachie Francis,Andre Gregorious,Andre Gregorious,1-6,1,6,0,1,Completed,true,false,false
+AA001092,23 Apr 16,9,Royal South Yarra 2,Carmelite,No. 2,Harry Cooper,Gus McDonald,Gus McDonald,2-6,2,6,0,1,Completed,true,false,false
+AA001092,23 Apr 16,9,Royal South Yarra 2,Carmelite,No. 3,Eliza Mailer,Paddy Freemantle,Paddy Freemantle,2-6,2,6,0,1,Completed,true,false,false
+AA001092,23 Apr 16,9,Royal South Yarra 2,Carmelite,No. 4,Stella Heidenreich,Leon Katelis,Leon Katelis,1-6,1,6,0,1,Completed,true,false,false
+AA001093,23 Apr 16,9,Kooyong MLC2,Royal South Yarra 1,No. 1,Aaron Koh,Lucy Campbell,Aaron Koh,6-1,6,1,1,0,Completed,true,false,false
+AA001093,23 Apr 16,9,Kooyong MLC2,Royal South Yarra 1,No. 2,Charlie Hummerston,Georgie Gough,Charlie Hummerston,6-2,6,2,1,0,Completed,true,false,false
+AA001093,23 Apr 16,9,Kooyong MLC2,Royal South Yarra 1,No. 3,Jack Cannon,Ava Lansell,Jack Cannon,6-1,6,1,1,0,Completed,true,false,false
+AA001093,23 Apr 16,9,Kooyong MLC2,Royal South Yarra 1,No. 4,Eliza Seymour,Isabella Hornor,Isabella Hornor,2-6,2,6,0,1,Completed,true,false,false
+AA001101,30 Apr 16,10,Kooyong MLC2,Port Melbourne,No. 1,Aaron Koh,Ryan Sweeney,Aaron Koh,6-4,6,4,1,0,Completed,true,false,false
+AA001101,30 Apr 16,10,Kooyong MLC2,Port Melbourne,No. 2,Jack Cannon,Ben Adam,Ben Adam,4-6,4,6,0,1,Completed,true,false,false
+AA001101,30 Apr 16,10,Kooyong MLC2,Port Melbourne,No. 3,Eliza Seymour,Jake Rothnic,Jake Rothnic,6-7,6,7,0,1,Completed,true,false,false
+AA001101,30 Apr 16,10,Kooyong MLC2,Port Melbourne,No. 4,Ruby Seymour,Ben Collis,Ben Collis,4-6,4,6,0,1,Completed,true,false,false
+AA001102,30 Apr 16,10,Carmelite,Kooyong MLC1,No. 1,Andre Gregorious,Alexandra McFarlane,Andre Gregorious,6-4,6,4,1,0,Completed,true,false,false
+AA001102,30 Apr 16,10,Carmelite,Kooyong MLC1,No. 2,Will Hunt,Camilla Kaufman,Camilla Kaufman,2-6,2,6,0,1,Completed,true,false,false
+AA001102,30 Apr 16,10,Carmelite,Kooyong MLC1,No. 3,Leon Katelis,Harry Merzger,Harry Merzger,1-6,1,6,0,1,Completed,true,false,false
+AA001102,30 Apr 16,10,Carmelite,Kooyong MLC1,No. 4,Gus McDonald,Sarah Kaufman,Sarah Kaufman,4-6,4,6,0,1,Completed,true,false,false
+AA001103,30 Apr 16,10,Royal South Yarra 1,Royal South Yarra 2,No. 1,Jemma Mitchell,Lachie Mailer,Lachie Mailer,1-6,1,6,0,1,Completed,true,false,false
+AA001103,30 Apr 16,10,Royal South Yarra 1,Royal South Yarra 2,No. 2,Lucy Campbell,Harry Cooper,Lucy Campbell,6-3,6,3,1,0,Completed,true,false,false
+AA001103,30 Apr 16,10,Royal South Yarra 1,Royal South Yarra 2,No. 3,Georgie Gough,Chloe Cooper,Georgie Gough,6-2,6,2,1,0,Completed,true,false,false
+AA001103,30 Apr 16,10,Royal South Yarra 1,Royal South Yarra 2,No. 4,Abby Ralph,Rupert Edwards,Abby Ralph,6-0,6,0,1,0,Completed,true,false,false
+AA001111,07 May 16,11,Port Melbourne,Carmelite,No. 1,Ryan Sweeney,Andre Gregorious,Andre Gregorious,3-6,3,6,0,1,Completed,true,false,false
+AA001111,07 May 16,11,Port Melbourne,Carmelite,No. 2,Zac Climpson,Vincent McDonald,Vincent McDonald,1-6,1,6,0,1,Completed,true,false,false
+AA001111,07 May 16,11,Port Melbourne,Carmelite,No. 3,Ben Collis,Paddy Freemantle,Ben Collis,6-1,6,1,1,0,Completed,true,false,false
+AA001111,07 May 16,11,Port Melbourne,Carmelite,No. 4,Josh McKenzie,Gus McDonald,Gus McDonald,3-6,3,6,0,1,Completed,true,false,false
+AA001112,07 May 16,11,Royal South Yarra 1,Kooyong MLC1,No. 1,Jemma Mitchell,Alexandra McFarlane,Alexandra McFarlane,1-6,1,6,0,1,Completed,true,false,false
+AA001112,07 May 16,11,Royal South Yarra 1,Kooyong MLC1,No. 2,Chloe Joubert,Camilla Kaufman,Camilla Kaufman,1-6,1,6,0,1,Completed,true,false,false
+AA001112,07 May 16,11,Royal South Yarra 1,Kooyong MLC1,No. 3,Ava Lansell,Harry Merzger,Harry Merzger,1-6,1,6,0,1,Completed,true,false,false
+AA001112,07 May 16,11,Royal South Yarra 1,Kooyong MLC1,No. 4,Isabella Hornor,Sarah Kaufman,Sarah Kaufman,1-6,1,6,0,1,Completed,true,false,false
+AA001113,07 May 16,11,Kooyong MLC2,Royal South Yarra 2,No. 1,Aaron Koh,Harry Cooper,Aaron Koh,6-0,6,0,1,0,Completed,true,false,false
+AA001113,07 May 16,11,Kooyong MLC2,Royal South Yarra 2,No. 2,Jack Cannon,Eliza Mailer,Eliza Mailer,2-6,2,6,0,1,Completed,true,false,false
+AA001113,07 May 16,11,Kooyong MLC2,Royal South Yarra 2,No. 3,Eliza Seymour,Anouk Heidenreich,Anouk Heidenreich,0-6,0,6,0,1,Completed,true,false,false
+AA001113,07 May 16,11,Kooyong MLC2,Royal South Yarra 2,No. 4,Ruby Seymour,Chloe Cooper,Chloe Cooper,2-6,2,6,0,1,Completed,true,false,false
+AA001121,14 May 16,12,Royal South Yarra 2,Port Melbourne,No. 1,Lachie Francis,Ryan Sweeney,Ryan Sweeney,2-6,2,6,0,1,Completed,true,false,false
+AA001121,14 May 16,12,Royal South Yarra 2,Port Melbourne,No. 2,Lachie Mailer,Ben Adam,Lachie Mailer,6-0,6,0,1,0,Completed,true,false,false
+AA001121,14 May 16,12,Royal South Yarra 2,Port Melbourne,No. 3,Eliza Mailer,Jake Rothnic,Jake Rothnic,3-6,3,6,0,1,Completed,true,false,false
+AA001121,14 May 16,12,Royal South Yarra 2,Port Melbourne,No. 4,Sophie Gough,Josh McKenzie,Josh McKenzie,5-7,5,7,0,1,Completed,true,false,false
+AA001123,14 May 16,12,Carmelite,Royal South Yarra 1,No. 1,Andre Gregorious,Georgie Gough,Andre Gregorious,6-2,6,2,1,0,Completed,true,false,false
+AA001123,14 May 16,12,Carmelite,Royal South Yarra 1,No. 2,Vincent McDonald,Lucy Campbell,Vincent McDonald,6-0,6,0,1,0,Completed,true,false,false
+AA001123,14 May 16,12,Carmelite,Royal South Yarra 1,No. 3,Leon Katelis,Ava Lansell,Leon Katelis,6-0,6,0,1,0,Completed,true,false,false
+AA001123,14 May 16,12,Carmelite,Royal South Yarra 1,No. 4,Gus McDonald,Isabella Hornor,Gus McDonald,6-0,6,0,1,0,Completed,true,false,false
+AA001131,21 May 16,13,Port Melbourne,Royal South Yarra 1,No. 1,Ryan Sweeney,Jemma Mitchell,Jemma Mitchell,2-6,2,6,0,1,Completed,true,false,false
+AA001131,21 May 16,13,Port Melbourne,Royal South Yarra 1,No. 2,Ben Adam,Chloe Joubert,Ben Adam,6-0,6,0,1,0,Completed,true,false,false
+AA001131,21 May 16,13,Port Melbourne,Royal South Yarra 1,No. 3,Ben Collis,Georgie Gough,Georgie Gough,5-7,5,7,0,1,Completed,true,false,false
+AA001131,21 May 16,13,Port Melbourne,Royal South Yarra 1,No. 4,Josh McKenzie,Isabella Hornor,Josh McKenzie,6-2,6,2,1,0,Completed,true,false,false
+AA001132,21 May 16,13,Kooyong MLC2,Carmelite,No. 1,Aaron Koh,Andre Gregorious,Aaron Koh,6-3,6,3,1,0,Completed,true,false,false
+AA001132,21 May 16,13,Kooyong MLC2,Carmelite,No. 2,Jack Cannon,Will Hunt,Jack Cannon,6-0,6,0,1,0,Completed,true,false,false
+AA001132,21 May 16,13,Kooyong MLC2,Carmelite,No. 3,Eliza Seymour,Vincent McDonald,Vincent McDonald,1-6,1,6,0,1,Completed,true,false,false
+AA001132,21 May 16,13,Kooyong MLC2,Carmelite,No. 4,Ruby Seymour,Leon Katelis,Leon Katelis,3-6,3,6,0,1,Completed,true,false,false
+AA001133,21 May 16,13,Royal South Yarra 2,Kooyong MLC1,No. 1,Harry Cooper,Alexandra McFarlane,Alexandra McFarlane,2-6,2,6,0,1,Completed,true,false,false
+AA001133,21 May 16,13,Royal South Yarra 2,Kooyong MLC1,No. 2,Eliza Mailer,Camilla Kaufman,Camilla Kaufman,0-6,0,6,0,1,Completed,true,false,false
+AA001133,21 May 16,13,Royal South Yarra 2,Kooyong MLC1,No. 3,Stella Heidenreich,Harry Merzger,Harry Merzger,0-6,0,6,0,1,Completed,true,false,false
+AA001133,21 May 16,13,Royal South Yarra 2,Kooyong MLC1,No. 4,Anouk Heidenreich,Sarah Kaufman,Sarah Kaufman,1-6,1,6,0,1,Completed,true,false,false
+AA001141,28 May 16,14,Kooyong MLC1,Port Melbourne,No. 1,Alexandra McFarlane,Zac Climpson,Alexandra McFarlane,5-1,5,1,1,0,Completed,true,false,false
+AA001141,28 May 16,14,Kooyong MLC1,Port Melbourne,No. 2,Camilla Kaufman,Jake Rothnic,Camilla Kaufman,6-1,6,1,1,0,Completed,true,false,false
+AA001141,28 May 16,14,Kooyong MLC1,Port Melbourne,No. 3,Harry Merzger,Ben Collis,Harry Merzger,6-1,6,1,1,0,Completed,true,false,false
+AA001141,28 May 16,14,Kooyong MLC1,Port Melbourne,No. 4,Sarah Kaufman,Josh McKenzie,Sarah Kaufman,7-5,7,5,1,0,Completed,true,false,false
+AA001143,28 May 16,14,Royal South Yarra 1,Kooyong MLC2,No. 1,Jemma Mitchell,Aaron Koh,Jemma Mitchell,6-0,6,0,1,0,Completed,true,false,false
+AA001143,28 May 16,14,Royal South Yarra 1,Kooyong MLC2,No. 2,Lucy Campbell,Jack Cannon,Jack Cannon,1-6,1,6,0,1,Completed,true,false,false
+AA001143,28 May 16,14,Royal South Yarra 1,Kooyong MLC2,No. 3,Georgie Gough,Eliza Seymour,Eliza Seymour,1-6,1,6,0,1,Completed,true,false,false
+AA001143,28 May 16,14,Royal South Yarra 1,Kooyong MLC2,No. 4,Ava Lansell,Ruby Seymour,Ruby Seymour,3-6,3,6,0,1,Completed,true,false,false

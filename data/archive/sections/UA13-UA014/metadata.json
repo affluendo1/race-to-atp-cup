@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA13-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2013",
+  "season_id": "UA13",
+  "season_label": "Spring 2013",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World",
+      "wins": 7,
+      "points": 91,
+      "percentage": 163.64,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "GPHC",
+      "wins": 8,
+      "points": 79,
+      "percentage": 130.45,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Royal Ave",
+      "wins": 6,
+      "points": 60.5,
+      "percentage": 97.17,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 4,
+      "points": 58,
+      "percentage": 101.74,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 6,
+      "points": 56.5,
+      "percentage": 91.92,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong Xavier",
+      "wins": 4,
+      "points": 50,
+      "percentage": 91.11,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Maccabi",
+      "wins": 1,
+      "points": 25,
+      "percentage": 57.03,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA13-UA014",
+  "fixtures": 59,
+  "completed_fixtures": 44,
+  "draw_fixtures": 59,
+  "singles_rubbers": 174,
+  "doubles_rubbers": 88,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

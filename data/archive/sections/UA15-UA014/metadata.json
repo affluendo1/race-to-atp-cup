@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA15-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2014",
+  "season_id": "UA15",
+  "season_label": "Spring 2014",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Lauriston",
+      "wins": 9,
+      "points": 87,
+      "percentage": 155.5,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Glen Eira Beech",
+      "wins": 8,
+      "points": 80,
+      "percentage": 132.53,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 7,
+      "points": 69,
+      "percentage": 114.92,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Le Page",
+      "wins": 3,
+      "points": 60,
+      "percentage": 107.38,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Murrumbeena",
+      "wins": 5,
+      "points": 58,
+      "percentage": 105.94,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St Kevin's",
+      "wins": 2,
+      "points": 41,
+      "percentage": 70.26,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra",
+      "wins": 1,
+      "points": 25,
+      "percentage": 45.91,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA15-UA014",
+  "fixtures": 59,
+  "completed_fixtures": 39,
+  "draw_fixtures": 59,
+  "singles_rubbers": 156,
+  "doubles_rubbers": 78,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

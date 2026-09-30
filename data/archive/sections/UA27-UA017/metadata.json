@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA27-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2020",
+  "season_id": "UA27",
+  "season_label": "Spring 2020",
+  "source_section_code": "UA017",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Andrews MB BG",
+      "wins": 4,
+      "points": 44,
+      "percentage": 158.54,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "St Pauls",
+      "wins": 4,
+      "points": 38,
+      "percentage": 115.38,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Royal Ave",
+      "wins": 3,
+      "points": 35,
+      "percentage": 133.0,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Royal South Yarra",
+      "wins": 3,
+      "points": 35,
+      "percentage": 114.86,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Black Rock",
+      "wins": 2,
+      "points": 26,
+      "percentage": 83.12,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Highett",
+      "wins": 2,
+      "points": 25,
+      "percentage": 82.19,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Mentone",
+      "wins": 2,
+      "points": 21,
+      "percentage": 87.28,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Maccabi",
+      "wins": 1,
+      "points": 16,
+      "percentage": 51.3,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA27-UA017",
+  "fixtures": 24,
+  "completed_fixtures": 22,
+  "draw_fixtures": 42,
+  "singles_rubbers": 88,
+  "doubles_rubbers": 44,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

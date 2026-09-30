@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA29-UA018",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2021",
+  "season_id": "UA29",
+  "season_label": "Spring 2021",
+  "source_section_code": "UA018",
+  "section_label": "Section 18",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Dendy Park",
+      "wins": 4,
+      "points": 73,
+      "percentage": 160.64,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Carmelite",
+      "wins": 5,
+      "points": 73,
+      "percentage": 145.74,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Mentone",
+      "wins": 3,
+      "points": 72,
+      "percentage": 141.76,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kings Park",
+      "wins": 2,
+      "points": 54,
+      "percentage": 90.68,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 1,
+      "points": 54,
+      "percentage": 84.34,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC",
+      "wins": 1,
+      "points": 51,
+      "percentage": 83.33,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Parkdale",
+      "wins": 1,
+      "points": 43,
+      "percentage": 56.84,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA29-UA018",
+  "fixtures": 56,
+  "completed_fixtures": 19,
+  "draw_fixtures": 56,
+  "singles_rubbers": 76,
+  "doubles_rubbers": 38,
+  "latest_round": 14,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

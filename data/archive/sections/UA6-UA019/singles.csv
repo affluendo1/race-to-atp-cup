@@ -1,0 +1,165 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA019011,31 Jan 10,1,Black Rock,Lauriston,No. 1,James Hutchinson,Jeremy Wang,Jeremy Wang,6-7,6,7,0,1,Completed,true,false,false
+UA019011,31 Jan 10,1,Black Rock,Lauriston,No. 2,Fin Hands,Ella Maitland,Fin Hands,6-2,6,2,1,0,Completed,true,false,false
+UA019011,31 Jan 10,1,Black Rock,Lauriston,No. 3,Sophie Gibb,Athan Ilachos,Athan Ilachos,1-6,1,6,0,1,Completed,true,false,false
+UA019011,31 Jan 10,1,Black Rock,Lauriston,No. 4,Samantha Jillirer,Demeke Derant,Samantha Jillirer,6-2,6,2,1,0,Completed,true,false,false
+UA019013,31 Jan 10,1,BLTC,Middle Brighton,No. 1,Taylor Nixon,Craig Marias,Craig Marias,0-6,0,6,0,1,Completed,true,false,false
+UA019013,31 Jan 10,1,BLTC,Middle Brighton,No. 2,Nicole Moore,Josh Mehra,Josh Mehra,4-6,4,6,0,1,Completed,true,false,false
+UA019013,31 Jan 10,1,BLTC,Middle Brighton,No. 3,Emma Blake,Lucas Galanopoulos,Lucas Galanopoulos,0-6,0,6,0,1,Completed,true,false,false
+UA019013,31 Jan 10,1,BLTC,Middle Brighton,No. 4,Amy Gowan,Noah Thompson,Amy Gowan,7-6,7,6,1,0,Completed,true,false,false
+UA019021,07 Feb 10,2,Middle Brighton,Black Rock,No. 1,Bradley Marias,Daniel Hergert,Bradley Marias,6-1,6,1,1,0,Completed,true,false,false
+UA019021,07 Feb 10,2,Middle Brighton,Black Rock,No. 2,Craig Marias,Lily Hergert,Craig Marias,6-0,6,0,1,0,Completed,true,false,false
+UA019021,07 Feb 10,2,Middle Brighton,Black Rock,No. 3,Lucas Galanopoulos,James Hutchinson,Lucas Galanopoulos,7-5,7,5,1,0,Completed,true,false,false
+UA019021,07 Feb 10,2,Middle Brighton,Black Rock,No. 4,Noah Thompson,Fin Hands,Fin Hands,0-6,0,6,0,1,Completed,true,false,false
+UA019022,07 Feb 10,2,Hampton,BLTC,No. 1,Fletcher Pullen,Taylor Nixon,Taylor Nixon,4-6,4,6,0,1,Completed,true,false,false
+UA019022,07 Feb 10,2,Hampton,BLTC,No. 2,Bridgette Hagan,Nicole Moore,Bridgette Hagan,6-0,6,0,1,0,Completed,true,false,false
+UA019022,07 Feb 10,2,Hampton,BLTC,No. 3,Majella Howey,Emma Blake,Majella Howey,6-1,6,1,1,0,Completed,true,false,false
+UA019022,07 Feb 10,2,Hampton,BLTC,No. 4,Sean Howey,Amy Gowan,Sean Howey,6-1,6,1,1,0,Completed,true,false,false
+UA019023,07 Feb 10,2,Lauriston,Murrumbeena,No. 1,Jeremy Wang,Bonnie Nolan,Bonnie Nolan,4-6,4,6,0,1,Completed,true,false,false
+UA019023,07 Feb 10,2,Lauriston,Murrumbeena,No. 2,Athan Ilachos,Mia Lopez,Athan Ilachos,7-5,7,5,1,0,Completed,true,false,false
+UA019023,07 Feb 10,2,Lauriston,Murrumbeena,No. 3,Jayita Vazirani,Mia Pisano,Jayita Vazirani,7-6,7,6,1,0,Completed,true,false,false
+UA019023,07 Feb 10,2,Lauriston,Murrumbeena,No. 4,Demeke Derant,Chloe Papas,Demeke Derant,6-1,6,1,1,0,Completed,true,false,false
+UA019032,14 Feb 10,3,BLTC,Lauriston,No. 1,Taylor Nixon,Jeremy Wang,Jeremy Wang,2-6,2,6,0,1,Completed,true,false,false
+UA019032,14 Feb 10,3,BLTC,Lauriston,No. 2,Nicole Moore,Ella Maitland,Ella Maitland,5-7,5,7,0,1,Completed,true,false,false
+UA019032,14 Feb 10,3,BLTC,Lauriston,No. 3,Emma Blake,Caitlan Davis,Caitlan Davis,0-6,0,6,0,1,Completed,true,false,false
+UA019032,14 Feb 10,3,BLTC,Lauriston,No. 4,Amy Gowan,Athan Ilachos,Athan Ilachos,3-6,3,6,0,1,Completed,true,false,false
+UA019041,21 Feb 10,4,Hampton,Black Rock,No. 1,Fletcher Pullen,Tom Jones,Fletcher Pullen,6-0,6,0,1,0,Completed,true,false,false
+UA019041,21 Feb 10,4,Hampton,Black Rock,No. 2,Bridgette Hagan,Amy Burgin,Amy Burgin,2-6,2,6,0,1,Completed,true,false,false
+UA019041,21 Feb 10,4,Hampton,Black Rock,No. 3,Claudia Giblin,Samantha Jillirer,Samantha Jillirer,3-6,3,6,0,1,Completed,true,false,false
+UA019041,21 Feb 10,4,Hampton,Black Rock,No. 4,Cerys Amm,Lily Hergert,Lily Hergert,1-6,1,6,0,1,Completed,true,false,false
+UA019042,21 Feb 10,4,Lauriston,Middle Brighton,No. 1,Jeremy Wang,Lucas Galanopoulos,Jeremy Wang,6-4,6,4,1,0,Completed,true,false,false
+UA019042,21 Feb 10,4,Lauriston,Middle Brighton,No. 2,Ella Maitland,Noah Thompson,Ella Maitland,6-3,6,3,1,0,Completed,true,false,false
+UA019042,21 Feb 10,4,Lauriston,Middle Brighton,No. 3,Jayita Vazirani,Josh Mehra,Josh Mehra,2-6,2,6,0,1,Completed,true,false,false
+UA019042,21 Feb 10,4,Lauriston,Middle Brighton,No. 4,Demeke Derant,Toby Allsop,Demeke Derant,6-3,6,3,1,0,Completed,true,false,false
+UA019043,21 Feb 10,4,Murrumbeena,BLTC,No. 1,Mia Lopez,Taylor Nixon,Taylor Nixon,2-6,2,6,0,1,Completed,true,false,false
+UA019043,21 Feb 10,4,Murrumbeena,BLTC,No. 2,Igfan Guo,Nicole Moore,Igfan Guo,6-1,6,1,1,0,Completed,true,false,false
+UA019043,21 Feb 10,4,Murrumbeena,BLTC,No. 3,Mia Pisano,Amy Gowan,Amy Gowan,4-6,4,6,0,1,Completed,true,false,false
+UA019043,21 Feb 10,4,Murrumbeena,BLTC,No. 4,Chloe Papas,Emma Blake,Chloe Papas,6-1,6,1,1,0,Completed,true,false,false
+UA019051,28 Feb 10,5,Black Rock,BLTC,No. 1,Tom Jones,Taylor Nixon,Tom Jones,6-4,6,4,1,0,Completed,true,false,false
+UA019051,28 Feb 10,5,Black Rock,BLTC,No. 2,James Hutchinson,Amy Gowan,James Hutchinson,6-1,6,1,1,0,Completed,true,false,false
+UA019051,28 Feb 10,5,Black Rock,BLTC,No. 3,Lily Hergert,Nicole Moore,Lily Hergert,6-1,6,1,1,0,Completed,true,false,false
+UA019051,28 Feb 10,5,Black Rock,BLTC,No. 4,Samantha Jillirer,Emma Blake,Samantha Jillirer,6-0,6,0,1,0,Completed,true,false,false
+UA019052,28 Feb 10,5,Hampton,Lauriston,No. 1,Fletcher Pullen,Jeremy Wang,Jeremy Wang,4-6,4,6,0,1,Completed,true,false,false
+UA019052,28 Feb 10,5,Hampton,Lauriston,No. 2,Laura Dann,Ella Maitland,Ella Maitland,5-7,5,7,0,1,Completed,true,false,false
+UA019052,28 Feb 10,5,Hampton,Lauriston,No. 3,Majella Howey,Athan Ilachos,Athan Ilachos,3-6,3,6,0,1,Completed,true,false,false
+UA019052,28 Feb 10,5,Hampton,Lauriston,No. 4,Claudia Giblin,Demeke Derant,Demeke Derant,3-6,3,6,0,1,Completed,true,false,false
+UA019053,28 Feb 10,5,Middle Brighton,Murrumbeena,No. 1,Bradley Marias,Mia Lopez,Bradley Marias,6-2,6,2,1,0,Completed,true,false,false
+UA019053,28 Feb 10,5,Middle Brighton,Murrumbeena,No. 2,Craig Marias,Lilly Lea,Craig Marias,7-6,7,6,1,0,Completed,true,false,false
+UA019053,28 Feb 10,5,Middle Brighton,Murrumbeena,No. 3,Lucas Galanopoulos,Chloe Papas,Lucas Galanopoulos,6-1,6,1,1,0,Completed,true,false,false
+UA019053,28 Feb 10,5,Middle Brighton,Murrumbeena,No. 4,Noah Thompson,Mia Pisano,Noah Thompson,7-6,7,6,1,0,Completed,true,false,false
+UA019061,14 Mar 10,6,Lauriston,Black Rock,No. 1,Jeremy Wang,Tom Jones,Tom Jones,5-7,5,7,0,1,Completed,true,false,false
+UA019061,14 Mar 10,6,Lauriston,Black Rock,No. 2,Ella Maitland,James Hutchinson,James Hutchinson,0-6,0,6,0,1,Completed,true,false,false
+UA019061,14 Mar 10,6,Lauriston,Black Rock,No. 3,Jayita Vazirani,Daniel Hergert,Daniel Hergert,2-6,2,6,0,1,Completed,true,false,false
+UA019061,14 Mar 10,6,Lauriston,Black Rock,No. 4,Demeke Derant,Lily Hergert,Lily Hergert,2-6,2,6,0,1,Completed,true,false,false
+UA019062,14 Mar 10,6,Hampton,Murrumbeena,No. 1,Fletcher Pullen,Bonnie Nolan,Bonnie Nolan,2-6,2,6,0,1,Completed,true,false,false
+UA019062,14 Mar 10,6,Hampton,Murrumbeena,No. 2,Sean Howey,Igfan Guo,Sean Howey,7-6,7,6,1,0,Completed,true,false,false
+UA019062,14 Mar 10,6,Hampton,Murrumbeena,No. 3,Majella Howey,Jessica Dutton,Jessica Dutton,2-6,2,6,0,1,Completed,true,false,false
+UA019062,14 Mar 10,6,Hampton,Murrumbeena,No. 4,Claudia Giblin,Mia Pisano,Claudia Giblin,6-4,6,4,1,0,Completed,true,false,false
+UA019063,14 Mar 10,6,Middle Brighton,BLTC,No. 1,Bradley Marias,Taylor Nixon,Bradley Marias,6-0,6,0,1,0,Completed,true,false,false
+UA019063,14 Mar 10,6,Middle Brighton,BLTC,No. 2,Craig Marias,Amy Gowan,Craig Marias,6-1,6,1,1,0,Completed,true,false,false
+UA019063,14 Mar 10,6,Middle Brighton,BLTC,No. 3,Josh Mehra,Emma Blake,Josh Mehra,6-0,6,0,1,0,Completed,true,false,false
+UA019063,14 Mar 10,6,Middle Brighton,BLTC,No. 4,Toby Allsop,Nicole Moore,Nicole Moore,4-6,4,6,0,1,Completed,true,false,false
+UA019071,21 Mar 10,7,Black Rock,Middle Brighton,No. 1,Tom Jones,Bradley Marias,Bradley Marias,3-6,3,6,0,1,Completed,true,false,false
+UA019071,21 Mar 10,7,Black Rock,Middle Brighton,No. 2,James Hutchinson,Craig Marias,Craig Marias,4-6,4,6,0,1,Completed,true,false,false
+UA019071,21 Mar 10,7,Black Rock,Middle Brighton,No. 3,Amy Burgin,Lucas Galanopoulos,Amy Burgin,6-1,6,1,1,0,Completed,true,false,false
+UA019071,21 Mar 10,7,Black Rock,Middle Brighton,No. 4,Samantha Jillirer,Noah Thompson,Samantha Jillirer,6-1,6,1,1,0,Completed,true,false,false
+UA019072,21 Mar 10,7,BLTC,Hampton,No. 1,Taylor Nixon,Kezia Melvin,Taylor Nixon,6-1,6,1,1,0,Completed,true,false,false
+UA019072,21 Mar 10,7,BLTC,Hampton,No. 2,Amy Gowan,Jack Butler,Amy Gowan,7-5,7,5,1,0,Completed,true,false,false
+UA019072,21 Mar 10,7,BLTC,Hampton,No. 3,Emma Blake,Fletcher Pullen,Fletcher Pullen,0-6,0,6,0,1,Completed,true,false,false
+UA019072,21 Mar 10,7,BLTC,Hampton,No. 4,Nicole Moore,Claudia Giblin,Claudia Giblin,3-6,3,6,0,1,Completed,true,false,false
+UA019073,21 Mar 10,7,Murrumbeena,Lauriston,No. 1,Igfan Guo,Jeremy Wang,Jeremy Wang,2-6,2,6,0,1,Completed,true,false,false
+UA019073,21 Mar 10,7,Murrumbeena,Lauriston,No. 2,Chloe Papas,Ella Maitland,Ella Maitland,3-6,3,6,0,1,Completed,true,false,false
+UA019073,21 Mar 10,7,Murrumbeena,Lauriston,No. 3,Mia Pisano,Athan Ilachos,Athan Ilachos,2-6,2,6,0,1,Completed,true,false,false
+UA019073,21 Mar 10,7,Murrumbeena,Lauriston,No. 4,Oliver Lopez,Jayita Vazirani,Oliver Lopez,6-4,6,4,1,0,Completed,true,false,false
+UA019081,28 Mar 10,8,Murrumbeena,Black Rock,No. 1,Igfan Guo,Amy Burgin,Amy Burgin,0-6,0,6,0,1,Completed,true,false,false
+UA019081,28 Mar 10,8,Murrumbeena,Black Rock,No. 2,Chloe Papas,Daniel Hergert,Daniel Hergert,1-6,1,6,0,1,Completed,true,false,false
+UA019081,28 Mar 10,8,Murrumbeena,Black Rock,No. 3,Mia Pisano,Samantha Jillirer,Samantha Jillirer,0-6,0,6,0,1,Completed,true,false,false
+UA019081,28 Mar 10,8,Murrumbeena,Black Rock,No. 4,Rachael Hull,Lily Hergert,Rachael Hull,7-5,7,5,1,0,Completed,true,false,false
+UA019082,28 Mar 10,8,Lauriston,BLTC,No. 1,Jeremy Wang,Taylor Nixon,Taylor Nixon,2-6,2,6,0,1,Completed,true,false,false
+UA019082,28 Mar 10,8,Lauriston,BLTC,No. 2,Athan Ilachos,Natasha Simmonds,Natasha Simmonds,4-6,4,6,0,1,Completed,true,false,false
+UA019082,28 Mar 10,8,Lauriston,BLTC,No. 3,Jayita Vazirani,Lindsay Thompson,Lindsay Thompson,0-6,0,6,0,1,Completed,true,false,false
+UA019082,28 Mar 10,8,Lauriston,BLTC,No. 4,Demeke Derant,Nicole Moore,Demeke Derant,6-2,6,2,1,0,Completed,true,false,false
+UA019083,28 Mar 10,8,Hampton,Middle Brighton,No. 1,Laura Dann,Lucas Galanopoulos,Lucas Galanopoulos,6-7,6,7,0,1,Completed,true,false,false
+UA019083,28 Mar 10,8,Hampton,Middle Brighton,No. 2,Bridgette Hagan,Josh Mehra,Bridgette Hagan,6-3,6,3,1,0,Completed,true,false,false
+UA019083,28 Mar 10,8,Hampton,Middle Brighton,No. 3,Sean Howey,Noah Thompson,Sean Howey,6-1,6,1,1,0,Completed,true,false,false
+UA019083,28 Mar 10,8,Hampton,Middle Brighton,No. 4,Claudia Giblin,Toby Allsop,Claudia Giblin,6-2,6,2,1,0,Completed,true,false,false
+UA019091,18 Apr 10,9,Black Rock,Hampton,No. 1,Tom Jones,Fletcher Pullen,Tom Jones,6-0,6,0,1,0,Completed,true,false,false
+UA019091,18 Apr 10,9,Black Rock,Hampton,No. 2,Amy Burgin,Laura Dann,Amy Burgin,6-0,6,0,1,0,Completed,true,false,false
+UA019091,18 Apr 10,9,Black Rock,Hampton,No. 3,Lily Hergert,Bridgette Hagan,Bridgette Hagan,2-6,2,6,0,1,Completed,true,false,false
+UA019091,18 Apr 10,9,Black Rock,Hampton,No. 4,Samantha Jillirer,Majella Howey,Samantha Jillirer,6-1,6,1,1,0,Completed,true,false,false
+UA019092,18 Apr 10,9,Middle Brighton,Lauriston,No. 1,Bradley Marias,Jeremy Wang,Bradley Marias,6-3,6,3,1,0,Completed,true,false,false
+UA019092,18 Apr 10,9,Middle Brighton,Lauriston,No. 2,Craig Marias,Ella Maitland,Craig Marias,6-2,6,2,1,0,Completed,true,false,false
+UA019092,18 Apr 10,9,Middle Brighton,Lauriston,No. 3,Josh Mehra,Athan Ilachos,Athan Ilachos,3-6,3,6,0,1,Completed,true,false,false
+UA019092,18 Apr 10,9,Middle Brighton,Lauriston,No. 4,Toby Allsop,Demeke Derant,Toby Allsop,6-3,6,3,1,0,Completed,true,false,false
+UA019093,18 Apr 10,9,BLTC,Murrumbeena,No. 1,Taylor Nixon,Bonnie Nolan,Taylor Nixon,6-3,6,3,1,0,Completed,true,false,false
+UA019093,18 Apr 10,9,BLTC,Murrumbeena,No. 2,Samantha Simmonds,Lilly Lea,Samantha Simmonds,6-4,6,4,1,0,Completed,true,false,false
+UA019093,18 Apr 10,9,BLTC,Murrumbeena,No. 3,Amy Gowan,Mia Lopez,Mia Lopez,1-6,1,6,0,1,Completed,true,false,false
+UA019093,18 Apr 10,9,BLTC,Murrumbeena,No. 4,Nicole Moore,Alice McCall,Nicole Moore,6-2,6,2,1,0,Completed,true,false,false
+UA019101,02 May 10,10,BLTC,Black Rock,No. 1,Taylor Nixon,Tom Jones,Tom Jones,4-6,4,6,0,1,Completed,true,false,false
+UA019101,02 May 10,10,BLTC,Black Rock,No. 2,Amy Gowan,Amy Burgin,Amy Burgin,1-6,1,6,0,1,Completed,true,false,false
+UA019101,02 May 10,10,BLTC,Black Rock,No. 3,Nicole Moore,Lily Hergert,Lily Hergert,5-7,5,7,0,1,Completed,true,false,false
+UA019101,02 May 10,10,BLTC,Black Rock,No. 4,Emma Blake,Samantha Jillirer,Samantha Jillirer,0-6,0,6,0,1,Completed,true,false,false
+UA019102,02 May 10,10,Lauriston,Hampton,No. 1,Jeremy Wang,Fletcher Pullen,Jeremy Wang,6-4,6,4,1,0,Completed,true,false,false
+UA019102,02 May 10,10,Lauriston,Hampton,No. 2,Ella Maitland,Sean Howey,Sean Howey,2-6,2,6,0,1,Completed,true,false,false
+UA019102,02 May 10,10,Lauriston,Hampton,No. 3,Athan Ilachos,Claudia Giblin,Athan Ilachos,6-1,6,1,1,0,Completed,true,false,false
+UA019102,02 May 10,10,Lauriston,Hampton,No. 4,Jayita Vazirani,Majella Howey,Majella Howey,0-6,0,6,0,1,Completed,true,false,false
+UA019103,02 May 10,10,Murrumbeena,Middle Brighton,No. 1,Bonnie Nolan,Bradley Marias,Bradley Marias,2-6,2,6,0,1,Completed,true,false,false
+UA019103,02 May 10,10,Murrumbeena,Middle Brighton,No. 2,Lilly Lea,Lucas Galanopoulos,Lucas Galanopoulos,6-7,6,7,0,1,Completed,true,false,false
+UA019103,02 May 10,10,Murrumbeena,Middle Brighton,No. 3,Igfan Guo,Josh Mehra,Josh Mehra,4-6,4,6,0,1,Completed,true,false,false
+UA019103,02 May 10,10,Murrumbeena,Middle Brighton,No. 4,Mia Lopez,Noah Thompson,Noah Thompson,2-6,2,6,0,1,Completed,true,false,false
+UA019111,09 May 10,11,Black Rock,Lauriston,No. 1,Tom Jones,Jeremy Wang,Tom Jones,6-4,6,4,1,0,Completed,true,false,false
+UA019111,09 May 10,11,Black Rock,Lauriston,No. 2,Amy Burgin,Ella Maitland,Amy Burgin,6-3,6,3,1,0,Completed,true,false,false
+UA019111,09 May 10,11,Black Rock,Lauriston,No. 3,Lily Hergert,Athan Ilachos,Athan Ilachos,4-6,4,6,0,1,Completed,true,false,false
+UA019111,09 May 10,11,Black Rock,Lauriston,No. 4,Samantha Jillirer,Demeke Derant,Samantha Jillirer,6-0,6,0,1,0,Completed,true,false,false
+UA019112,09 May 10,11,Murrumbeena,Hampton,No. 1,Bonnie Nolan,Laura Dann,Bonnie Nolan,6-0,6,0,1,0,Completed,true,false,false
+UA019112,09 May 10,11,Murrumbeena,Hampton,No. 2,Lilly Lea,Bridgette Hagan,Lilly Lea,6-4,6,4,1,0,Completed,true,false,false
+UA019112,09 May 10,11,Murrumbeena,Hampton,No. 3,Chloe Papas,Claudia Giblin,Claudia Giblin,1-6,1,6,0,1,Completed,true,false,false
+UA019112,09 May 10,11,Murrumbeena,Hampton,No. 4,Mia Pisano,Majella Howey,Majella Howey,1-6,1,6,0,1,Completed,true,false,false
+UA019113,09 May 10,11,BLTC,Middle Brighton,No. 1,Taylor Nixon,Bradley Marias,Bradley Marias,0-6,0,6,0,1,Completed,true,false,false
+UA019113,09 May 10,11,BLTC,Middle Brighton,No. 2,Nicole Moore,Noah Thompson,Noah Thompson,2-6,2,6,0,1,Completed,true,false,false
+UA019113,09 May 10,11,BLTC,Middle Brighton,No. 3,Amy Gowan,Josh Mehra,Josh Mehra,3-6,3,6,0,1,Completed,true,false,false
+UA019113,09 May 10,11,BLTC,Middle Brighton,No. 4,Emma Blake,Toby Allsop,Toby Allsop,0-6,0,6,0,1,Completed,true,false,false
+UA019121,16 May 10,12,Middle Brighton,Black Rock,No. 1,Bradley Marias,Amy Burgin,Bradley Marias,6-3,6,3,1,0,Completed,true,false,false
+UA019121,16 May 10,12,Middle Brighton,Black Rock,No. 2,Craig Marias,James Hutchinson,Craig Marias,6-1,6,1,1,0,Completed,true,false,false
+UA019121,16 May 10,12,Middle Brighton,Black Rock,No. 3,Josh Mehra,Samantha Jillirer,Samantha Jillirer,2-6,2,6,0,1,Completed,true,false,false
+UA019121,16 May 10,12,Middle Brighton,Black Rock,No. 4,Noah Thompson,Lily Hergert,Noah Thompson,6-4,6,4,1,0,Completed,true,false,false
+UA019122,16 May 10,12,Hampton,BLTC,No. 1,Fletcher Pullen,Taylor Nixon,Taylor Nixon,4-6,4,6,0,1,Completed,true,false,false
+UA019122,16 May 10,12,Hampton,BLTC,No. 2,Laura Dann,Nicole Moore,Laura Dann,6-0,6,0,1,0,Completed,true,false,false
+UA019122,16 May 10,12,Hampton,BLTC,No. 3,Bridgette Hagan,Amy Gowan,Bridgette Hagan,6-1,6,1,1,0,Completed,true,false,false
+UA019122,16 May 10,12,Hampton,BLTC,No. 4,Majella Howey,Emma Blake,Majella Howey,6-1,6,1,1,0,Completed,true,false,false
+UA019123,16 May 10,12,Lauriston,Murrumbeena,No. 1,Jeremy Wang,Mia Lopez,Jeremy Wang,7-5,7,5,1,0,Completed,true,false,false
+UA019123,16 May 10,12,Lauriston,Murrumbeena,No. 2,Athan Ilachos,Mia Pisano,Athan Ilachos,6-3,6,3,1,0,Completed,true,false,false
+UA019123,16 May 10,12,Lauriston,Murrumbeena,No. 3,Jayita Vazirani,Chloe Papas,Jayita Vazirani,6-2,6,2,1,0,Completed,true,false,false
+UA019123,16 May 10,12,Lauriston,Murrumbeena,No. 4,Demeke Derant,Alice McCall,Demeke Derant,6-2,6,2,1,0,Completed,true,false,false
+UA019131,23 May 10,13,Black Rock,Murrumbeena,No. 1,Corey Lawton,Bonnie Nolan,Bonnie Nolan,4-6,4,6,0,1,Completed,true,false,true
+UA019131,23 May 10,13,Black Rock,Murrumbeena,No. 2,Amy Burgin,Lilly Lea,Lilly Lea,4-6,4,6,0,1,Completed,true,false,false
+UA019131,23 May 10,13,Black Rock,Murrumbeena,No. 3,Lily Hergert,Mia Lopez,Mia Lopez,1-6,1,6,0,1,Completed,true,false,false
+UA019131,23 May 10,13,Black Rock,Murrumbeena,No. 4,Samantha Jillirer,Chloe Papas,Samantha Jillirer,6-0,6,0,1,0,Completed,true,false,false
+UA019132,23 May 10,13,BLTC,Lauriston,No. 1,Taylor Nixon,Jeremy Wang,Jeremy Wang,1-6,1,6,0,1,Completed,true,false,false
+UA019132,23 May 10,13,BLTC,Lauriston,No. 2,Emma Blake,Ella Maitland,Ella Maitland,0-6,0,6,0,1,Completed,true,false,false
+UA019132,23 May 10,13,BLTC,Lauriston,No. 3,Amy Gowan,Jayita Vazirani,Amy Gowan,6-4,6,4,1,0,Completed,true,false,false
+UA019132,23 May 10,13,BLTC,Lauriston,No. 4,Nicole Moore,Demeke Derant,Nicole Moore,6-3,6,3,1,0,Completed,true,false,false
+UA019133,23 May 10,13,Middle Brighton,Hampton,No. 1,Bradley Marias,Fletcher Pullen,Bradley Marias,6-0,6,0,1,0,Completed,true,false,false
+UA019133,23 May 10,13,Middle Brighton,Hampton,No. 2,Josh Mehra,Bridgette Hagan,Josh Mehra,6-0,6,0,1,0,Completed,true,false,false
+UA019133,23 May 10,13,Middle Brighton,Hampton,No. 3,Noah Thompson,Majella Howey,Majella Howey,2-6,2,6,0,1,Completed,true,false,false
+UA019133,23 May 10,13,Middle Brighton,Hampton,No. 4,Toby Allsop,Cerys Amm,Toby Allsop,6-1,6,1,1,0,Completed,true,false,false
+UA019142,30 May 10,14,Lauriston,Middle Brighton,No. 1,Ella Maitland,Josh Mehra,Ella Maitland,6-3,6,3,1,0,Completed,true,false,false
+UA019142,30 May 10,14,Lauriston,Middle Brighton,No. 2,Athan Ilachos,Noah Thompson,Athan Ilachos,6-1,6,1,1,0,Completed,true,false,false
+UA019142,30 May 10,14,Lauriston,Middle Brighton,No. 3,Jayita Vazirani,Toby Allsop,Toby Allsop,5-7,5,7,0,1,Completed,true,false,false
+UA019142,30 May 10,14,Lauriston,Middle Brighton,No. 4,Demeke Derant,Johnny Tzouvelis,Johnny Tzouvelis,0-6,0,6,0,1,Completed,true,false,false
+UA019143,30 May 10,14,Murrumbeena,BLTC,No. 1,Lilly Lea,Natasha Amon,Lilly Lea,6-2,6,2,1,0,Completed,true,false,false
+UA019143,30 May 10,14,Murrumbeena,BLTC,No. 2,Igfan Guo,Nicole Moore,Igfan Guo,6-2,6,2,1,0,Completed,true,false,false
+UA019143,30 May 10,14,Murrumbeena,BLTC,No. 3,Chloe Papas,Samantha Amon,Samantha Amon,1-6,1,6,0,1,Completed,true,false,false
+UA019143,30 May 10,14,Murrumbeena,BLTC,No. 4,Mia Pisano,Emma Blake,Mia Pisano,6-1,6,1,1,0,Completed,true,false,false
+UA019152,06 Jun 10,15,Hampton,Lauriston,No. 1,Fletcher Pullen,Jeremy Wang,Jeremy Wang,1-6,1,6,0,1,Completed,true,false,false
+UA019152,06 Jun 10,15,Hampton,Lauriston,No. 2,Bridgette Hagan,Ella Maitland,Bridgette Hagan,6-2,6,2,1,0,Completed,true,false,false
+UA019152,06 Jun 10,15,Hampton,Lauriston,No. 3,Sean Howey,Athan Ilachos,Sean Howey,6-3,6,3,1,0,Completed,true,false,false
+UA019152,06 Jun 10,15,Hampton,Lauriston,No. 4,Cerys Amm,Jayita Vazirani,Jayita Vazirani,0-6,0,6,0,1,Completed,true,false,false
+UA019153,06 Jun 10,15,Middle Brighton,Murrumbeena,No. 1,Bradley Marias,Mietta Nolan,Bradley Marias,6-4,6,4,1,0,Completed,true,false,false
+UA019153,06 Jun 10,15,Middle Brighton,Murrumbeena,No. 2,Craig Marias,Lilly Lea,Lilly Lea,2-6,2,6,0,1,Completed,true,false,false
+UA019153,06 Jun 10,15,Middle Brighton,Murrumbeena,No. 3,Josh Mehra,Zifan Zifan,Josh Mehra,6-1,6,1,1,0,Completed,true,false,false
+UA019153,06 Jun 10,15,Middle Brighton,Murrumbeena,No. 4,Noah Thompson,Chloe Papas,Noah Thompson,6-2,6,2,1,0,Completed,true,false,false
+UA019321,,16,Black Rock,Middle Brighton,No. 1,Tom Jones,Bradley Marias,Tom Jones,6-4,6,4,1,0,Completed,true,true,false
+UA019321,,16,Black Rock,Middle Brighton,No. 2,Amy Burgin,Craig Marias,Amy Burgin,6-4,6,4,1,0,Completed,true,true,false
+UA019321,,16,Black Rock,Middle Brighton,No. 3,Samantha Jillirer,Lucas Galanopoulos,Samantha Jillirer,6-4,6,4,1,0,Completed,true,false,false
+UA019321,,16,Black Rock,Middle Brighton,No. 4,Lily Hergert,Josh Mehra,Lily Hergert,6-4,6,4,1,0,Completed,true,false,false

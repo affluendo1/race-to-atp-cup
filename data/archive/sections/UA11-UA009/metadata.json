@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA11-UA009",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2012",
+  "season_id": "UA11",
+  "season_label": "Spring 2012",
+  "source_section_code": "UA009",
+  "section_label": "Section 9",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Maccabi",
+      "wins": 9,
+      "points": 79,
+      "percentage": 115.38,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "BLTC 2",
+      "wins": 8,
+      "points": 75,
+      "percentage": 112.62,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Parkdale",
+      "wins": 4,
+      "points": 68,
+      "percentage": 124.29,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Bodley Tennis Plus",
+      "wins": 6,
+      "points": 65,
+      "percentage": 109.51,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC 1",
+      "wins": 3,
+      "points": 59,
+      "percentage": 104.49,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Glen Eira Brooklyn",
+      "wins": 5,
+      "points": 59,
+      "percentage": 101.27,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Murrumbeena",
+      "wins": 0,
+      "points": 15,
+      "percentage": 48.0,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA11-UA009",
+  "fixtures": 59,
+  "completed_fixtures": 41,
+  "draw_fixtures": 59,
+  "singles_rubbers": 164,
+  "doubles_rubbers": 82,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

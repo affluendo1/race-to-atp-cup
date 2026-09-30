@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA34-UA016",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2024",
+  "season_id": "UA34",
+  "season_label": "Autumn 2024",
+  "source_section_code": "UA016",
+  "section_label": "Section 16",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park",
+      "wins": 12,
+      "points": 118,
+      "percentage": 167.03,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "GPHC",
+      "wins": 10,
+      "points": 91,
+      "percentage": 124.01,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Lauriston",
+      "wins": 8,
+      "points": 84,
+      "percentage": 124.49,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Coatesville",
+      "wins": 7,
+      "points": 68,
+      "percentage": 102.28,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal Ave",
+      "wins": 7,
+      "points": 67,
+      "percentage": 93.78,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal South Yarra",
+      "wins": 6,
+      "points": 56,
+      "percentage": 79.81,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Aspendale",
+      "wins": 3,
+      "points": 40,
+      "percentage": 68.38,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hurlingham Park",
+      "wins": 2,
+      "points": 36,
+      "percentage": 67.93,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA34-UA016",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

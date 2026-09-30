@@ -1,0 +1,237 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA017011,04 Feb 24,1,Maccabi,GPHC,No. 1,Asher Brami,Youmaneh Atti,Asher Brami,6-3,6,3,1,0,Completed,true,false,false
+UA017011,04 Feb 24,1,Maccabi,GPHC,No. 2,Anton Betinsky,Zubash Atti,Anton Betinsky,6-2,6,2,1,0,Completed,true,false,false
+UA017011,04 Feb 24,1,Maccabi,GPHC,No. 3,Louie Israel,Edmund Tee-Wu,Edmund Tee-Wu,1-6,1,6,0,1,Completed,true,false,false
+UA017011,04 Feb 24,1,Maccabi,GPHC,No. 4,Mikey Eckstein,Josh Chew,Josh Chew,6-7,6,7,0,1,Completed,true,false,false
+UA017012,04 Feb 24,1,Royal Ave,Kings Park,No. 1,Luke Ng,Nicholas Roselt,Nicholas Roselt,2-6,2,6,0,1,Completed,true,false,false
+UA017012,04 Feb 24,1,Royal Ave,Kings Park,No. 2,Hamish Hogan,William Haydon,William Haydon,1-6,1,6,0,1,Completed,true,false,false
+UA017012,04 Feb 24,1,Royal Ave,Kings Park,No. 3,Chrystal Cai,Thien Hoang,Thien Hoang,0-6,0,6,0,1,Completed,true,false,false
+UA017012,04 Feb 24,1,Royal Ave,Kings Park,No. 4,Jacob Hu,Brendan Shim,Brendan Shim,2-6,2,6,0,1,Completed,true,false,false
+UA017013,04 Feb 24,1,Hurlingham Park,Dendy Park,No. 1,Dominic Eather,Sophie Badcock,Dominic Eather,6-1,6,1,1,0,Completed,true,true,false
+UA017013,04 Feb 24,1,Hurlingham Park,Dendy Park,No. 2,Rupert Williams,Lucia Colla,Rupert Williams,6-4,6,4,1,0,Completed,true,false,false
+UA017013,04 Feb 24,1,Hurlingham Park,Dendy Park,No. 3,Oliver Romanis,Shiv Gaind,Shiv Gaind,0-6,0,6,0,1,Completed,true,false,false
+UA017013,04 Feb 24,1,Hurlingham Park,Dendy Park,No. 4,Charlie Williams,Zack Harrison,Zack Harrison,4-6,4,6,0,1,Completed,true,false,false
+UA017014,04 Feb 24,1,Black Rock Maroon,Black Rock Navy,No. 1,Cally Cheng,Bahya Hamada,Bahya Hamada,6-7,6,7,0,1,Completed,true,false,false
+UA017014,04 Feb 24,1,Black Rock Maroon,Black Rock Navy,No. 2,Zali Lock,Lucy Tweddle,Zali Lock,6-4,6,4,1,0,Completed,true,false,false
+UA017014,04 Feb 24,1,Black Rock Maroon,Black Rock Navy,No. 3,Elsie Lock,Asha Bishop,Asha Bishop,5-7,5,7,0,1,Completed,true,false,false
+UA017014,04 Feb 24,1,Black Rock Maroon,Black Rock Navy,No. 4,Cayley Brown,Ruby Murray,Ruby Murray,2-6,2,6,0,1,Completed,true,false,false
+UA017021,11 Feb 24,2,Black Rock Navy,Maccabi,No. 1,Bahya Hamada,Asher Brami,Bahya Hamada,6-2,6,2,1,0,Completed,true,false,false
+UA017021,11 Feb 24,2,Black Rock Navy,Maccabi,No. 2,Lucy Tweddle,Anton Betinsky,Lucy Tweddle,6-2,6,2,1,0,Completed,true,false,false
+UA017021,11 Feb 24,2,Black Rock Navy,Maccabi,No. 3,Asha Bishop,Eitan Navon,Asha Bishop,6-0,6,0,1,0,Completed,true,false,false
+UA017021,11 Feb 24,2,Black Rock Navy,Maccabi,No. 4,Tia Karras,Mikey Eckstein,Tia Karras,6-4,6,4,1,0,Completed,true,false,false
+UA017022,11 Feb 24,2,GPHC,Royal Ave,No. 1,Youmaneh Atti,Luke Ng,Luke Ng,3-6,3,6,0,1,Completed,true,false,false
+UA017022,11 Feb 24,2,GPHC,Royal Ave,No. 2,Zubash Atti,Hamish Hogan,Zubash Atti,6-1,6,1,1,0,Completed,true,false,false
+UA017022,11 Feb 24,2,GPHC,Royal Ave,No. 3,Ethan Fuller,Jacob Hu,Ethan Fuller,6-0,6,0,1,0,Completed,true,false,false
+UA017022,11 Feb 24,2,GPHC,Royal Ave,No. 4,Charlie Robinson,Chrystal Cai,Chrystal Cai,0-6,0,6,0,1,Completed,true,false,false
+UA017023,11 Feb 24,2,Kings Park,Hurlingham Park,No. 1,Nicholas Roselt,Asher Vaughan,Nicholas Roselt,6-4,6,4,1,0,Completed,true,false,true
+UA017023,11 Feb 24,2,Kings Park,Hurlingham Park,No. 2,William Haydon,Max Parnham,William Haydon,6-4,6,4,1,0,Completed,true,false,false
+UA017023,11 Feb 24,2,Kings Park,Hurlingham Park,No. 3,Thien Hoang,Rupert Williams,Rupert Williams,4-6,4,6,0,1,Completed,true,false,false
+UA017023,11 Feb 24,2,Kings Park,Hurlingham Park,No. 4,Hai Nhi Hoang,Charlie Williams,Charlie Williams,2-6,2,6,0,1,Completed,true,false,false
+UA017024,11 Feb 24,2,Dendy Park,Black Rock Maroon,No. 1,Sophie Badcock,Dana Kasparsons,Sophie Badcock,6-3,6,3,1,0,Completed,true,false,false
+UA017024,11 Feb 24,2,Dendy Park,Black Rock Maroon,No. 2,Lucia Colla,Indiia Niewalda,Lucia Colla,6-4,6,4,1,0,Completed,true,false,true
+UA017024,11 Feb 24,2,Dendy Park,Black Rock Maroon,No. 3,Shiv Gaind,Elsie Lock,Shiv Gaind,6-0,6,0,1,0,Completed,true,false,false
+UA017024,11 Feb 24,2,Dendy Park,Black Rock Maroon,No. 4,Olive Topic,Cayley Brown,Cayley Brown,3-6,3,6,0,1,Completed,true,false,false
+UA017031,18 Feb 24,3,Maccabi,Dendy Park,No. 1,Dean Rosen,Sophie Badcock,Dean Rosen,6-4,6,4,1,0,Completed,true,false,false
+UA017031,18 Feb 24,3,Maccabi,Dendy Park,No. 2,Asher Brami,Shiv Gaind,Shiv Gaind,5-7,5,7,0,1,Completed,true,false,false
+UA017031,18 Feb 24,3,Maccabi,Dendy Park,No. 3,An Dang,Zack Harrison,Zack Harrison,1-6,1,6,0,1,Completed,true,false,false
+UA017031,18 Feb 24,3,Maccabi,Dendy Park,No. 4,Mikey Eckstein,[Unnamed player — TROLS UA017031 away code 4],Mikey Eckstein,6-0,6,0,1,0,Completed,false,false,false
+UA017032,18 Feb 24,3,Royal Ave,Black Rock Navy,No. 1,Luke Ng,Bahya Hamada,Bahya Hamada,2-6,2,6,0,1,Completed,true,false,false
+UA017032,18 Feb 24,3,Royal Ave,Black Rock Navy,No. 2,Hamish Hogan,Lucy Tweddle,Lucy Tweddle,4-6,4,6,0,1,Completed,true,false,false
+UA017032,18 Feb 24,3,Royal Ave,Black Rock Navy,No. 3,Jacob Hu,Ruby Murray,Jacob Hu,7-5,7,5,1,0,Completed,true,false,false
+UA017032,18 Feb 24,3,Royal Ave,Black Rock Navy,No. 4,Chrystal Cai,Tia Karras,Tia Karras,1-6,1,6,0,1,Completed,true,false,false
+UA017033,18 Feb 24,3,Hurlingham Park,GPHC,No. 1,Dominic Eather,Edmund Tee-Wu,Dominic Eather,6-0,6,0,1,0,Completed,true,true,false
+UA017033,18 Feb 24,3,Hurlingham Park,GPHC,No. 2,Asher Vaughan,Josh Chew,Asher Vaughan,6-3,6,3,1,0,Completed,true,true,false
+UA017033,18 Feb 24,3,Hurlingham Park,GPHC,No. 3,Oliver Romanis,Ethan Fuller,Oliver Romanis,6-3,6,3,1,0,Completed,true,false,false
+UA017033,18 Feb 24,3,Hurlingham Park,GPHC,No. 4,[Unnamed player — TROLS UA017033 home code 4],Charlie Robinson,Charlie Robinson,0-6,0,6,0,1,Completed,false,false,false
+UA017034,18 Feb 24,3,Black Rock Maroon,Kings Park,No. 1,Dana Kasparsons,William Haydon,William Haydon,1-6,1,6,0,1,Completed,true,false,false
+UA017034,18 Feb 24,3,Black Rock Maroon,Kings Park,No. 2,James Cheng,Thien Hoang,Thien Hoang,1-6,1,6,0,1,Completed,true,false,false
+UA017034,18 Feb 24,3,Black Rock Maroon,Kings Park,No. 3,Cally Cheng,Brendan Shim,Brendan Shim,4-6,4,6,0,1,Completed,true,false,false
+UA017034,18 Feb 24,3,Black Rock Maroon,Kings Park,No. 4,Zali Lock,Hai Nhi Hoang,Hai Nhi Hoang,5-7,5,7,0,1,Completed,true,false,false
+UA017041,25 Feb 24,4,Kings Park,Maccabi,No. 1,Nicholas Roselt,Asher Brami,Asher Brami,4-6,4,6,0,1,Completed,true,false,false
+UA017041,25 Feb 24,4,Kings Park,Maccabi,No. 2,Thien Hoang,Anton Betinsky,Thien Hoang,6-4,6,4,1,0,Completed,true,false,false
+UA017041,25 Feb 24,4,Kings Park,Maccabi,No. 3,Brendan Shim,Eitan Navon,Brendan Shim,6-3,6,3,1,0,Completed,true,false,false
+UA017041,25 Feb 24,4,Kings Park,Maccabi,No. 4,Hai Nhi Hoang,Mikey Eckstein,Hai Nhi Hoang,6-3,6,3,1,0,Completed,true,false,false
+UA017042,25 Feb 24,4,Dendy Park,Royal Ave,No. 1,Lucia Colla,Luke Ng,Luke Ng,4-6,4,6,0,1,Completed,true,false,false
+UA017042,25 Feb 24,4,Dendy Park,Royal Ave,No. 2,Shiv Gaind,Hamish Hogan,Shiv Gaind,6-2,6,2,1,0,Completed,true,false,false
+UA017042,25 Feb 24,4,Dendy Park,Royal Ave,No. 3,Zack Harrison,Jacob Hu,Zack Harrison,6-2,6,2,1,0,Completed,true,false,false
+UA017042,25 Feb 24,4,Dendy Park,Royal Ave,No. 4,Olive Topic,Chrystal Cai,Olive Topic,6-2,6,2,1,0,Completed,true,false,false
+UA017043,25 Feb 24,4,Black Rock Navy,Hurlingham Park,No. 1,Bahya Hamada,Dominic Eather,Dominic Eather,4-6,4,6,0,1,Completed,true,false,true
+UA017043,25 Feb 24,4,Black Rock Navy,Hurlingham Park,No. 2,Lucy Tweddle,Max Parnham,Lucy Tweddle,6-1,6,1,1,0,Completed,true,false,false
+UA017043,25 Feb 24,4,Black Rock Navy,Hurlingham Park,No. 3,Asha Bishop,Rupert Williams,Rupert Williams,4-6,4,6,0,1,Completed,true,false,false
+UA017043,25 Feb 24,4,Black Rock Navy,Hurlingham Park,No. 4,Ruby Murray,Charlie Williams,Ruby Murray,6-1,6,1,1,0,Completed,true,false,false
+UA017044,25 Feb 24,4,GPHC,Black Rock Maroon,No. 1,Youmaneh Atti,Dana Kasparsons,Youmaneh Atti,6-4,6,4,1,0,Completed,true,false,false
+UA017044,25 Feb 24,4,GPHC,Black Rock Maroon,No. 2,Zubash Atti,Cally Cheng,Zubash Atti,6-4,6,4,1,0,Completed,true,false,false
+UA017044,25 Feb 24,4,GPHC,Black Rock Maroon,No. 3,Edmund Tee-Wu,Cayley Brown,Cayley Brown,2-6,2,6,0,1,Completed,true,false,false
+UA017044,25 Feb 24,4,GPHC,Black Rock Maroon,No. 4,Josh Chew,Elsie Lock,Josh Chew,6-4,6,4,1,0,Completed,true,false,false
+UA017051,03 Mar 24,5,Hurlingham Park,Black Rock Maroon,No. 1,Dominic Eather,Dana Kasparsons,Dominic Eather,6-1,6,1,1,0,Completed,true,true,false
+UA017051,03 Mar 24,5,Hurlingham Park,Black Rock Maroon,No. 2,Asher Vaughan,James Cheng,Asher Vaughan,7-6,7,6,1,0,Completed,true,true,false
+UA017051,03 Mar 24,5,Hurlingham Park,Black Rock Maroon,No. 3,Max Parnham,Zali Lock,Zali Lock,0-6,0,6,0,1,Completed,true,false,false
+UA017051,03 Mar 24,5,Hurlingham Park,Black Rock Maroon,No. 4,Oliver Romanis,Elsie Lock,Oliver Romanis,7-6,7,6,1,0,Completed,true,false,false
+UA017052,03 Mar 24,5,Black Rock Navy,Dendy Park,No. 1,Lucy Tweddle,Sophie Badcock,Lucy Tweddle,7-6,7,6,1,0,Completed,true,false,false
+UA017052,03 Mar 24,5,Black Rock Navy,Dendy Park,No. 2,Asha Bishop,Lucia Colla,Asha Bishop,6-2,6,2,1,0,Completed,true,false,false
+UA017052,03 Mar 24,5,Black Rock Navy,Dendy Park,No. 3,Ruby Murray,Shiv Gaind,Ruby Murray,6-2,6,2,1,0,Completed,true,false,false
+UA017052,03 Mar 24,5,Black Rock Navy,Dendy Park,No. 4,Tia Karras,Zack Harrison,Tia Karras,7-6,7,6,1,0,Completed,true,false,false
+UA017053,03 Mar 24,5,Kings Park,GPHC,No. 1,William Haydon,Youmaneh Atti,Youmaneh Atti,6-7,6,7,0,1,Completed,true,false,false
+UA017053,03 Mar 24,5,Kings Park,GPHC,No. 2,Thien Hoang,Zubash Atti,Thien Hoang,6-4,6,4,1,0,Completed,true,false,false
+UA017053,03 Mar 24,5,Kings Park,GPHC,No. 3,Brendan Shim,Josh Chew,Josh Chew,4-6,4,6,0,1,Completed,true,false,false
+UA017053,03 Mar 24,5,Kings Park,GPHC,No. 4,Hai Nhi Hoang,Ethan Fuller,Ethan Fuller,5-7,5,7,0,1,Completed,true,false,false
+UA017054,03 Mar 24,5,Maccabi,Royal Ave,No. 1,Dean Rosen,Luke Ng,Luke Ng,4-6,4,6,0,1,Completed,true,false,false
+UA017054,03 Mar 24,5,Maccabi,Royal Ave,No. 2,An Dang,Jacob Hu,Jacob Hu,2-6,2,6,0,1,Completed,true,false,false
+UA017054,03 Mar 24,5,Maccabi,Royal Ave,No. 3,Eitan Navon,Rex Cai,Eitan Navon,6-0,6,0,1,0,Completed,true,false,false
+UA017054,03 Mar 24,5,Maccabi,Royal Ave,No. 4,Mikey Eckstein,Chrystal Cai,Mikey Eckstein,6-0,6,0,1,0,Completed,true,false,false
+UA017061,17 Mar 24,6,Royal Ave,Hurlingham Park,No. 1,Luke Ng,Max Parnham,Luke Ng,6-4,6,4,1,0,Completed,true,false,false
+UA017061,17 Mar 24,6,Royal Ave,Hurlingham Park,No. 2,Hamish Hogan,Rupert Williams,Rupert Williams,0-6,0,6,0,1,Completed,true,false,false
+UA017061,17 Mar 24,6,Royal Ave,Hurlingham Park,No. 3,Rafi Panton,Oliver Romanis,Rafi Panton,6-1,6,1,1,0,Completed,true,false,false
+UA017061,17 Mar 24,6,Royal Ave,Hurlingham Park,No. 4,Chrystal Cai,Charlie Williams,Charlie Williams,0-6,0,6,0,1,Completed,true,false,false
+UA017062,17 Mar 24,6,Black Rock Maroon,Maccabi,No. 1,Zali Lock,Dean Rosen,Zali Lock,6-4,6,4,1,0,Completed,true,false,false
+UA017062,17 Mar 24,6,Black Rock Maroon,Maccabi,No. 2,Cayley Brown,Anton Betinsky,Cayley Brown,7-6,7,6,1,0,Completed,true,false,false
+UA017062,17 Mar 24,6,Black Rock Maroon,Maccabi,No. 3,Elsie Lock,Eitan Navon,Elsie Lock,7-6,7,6,1,0,Completed,true,false,false
+UA017062,17 Mar 24,6,Black Rock Maroon,Maccabi,No. 4,Lorna Tucker,Mikey Eckstein,Mikey Eckstein,0-6,0,6,0,1,Completed,true,true,false
+UA017063,17 Mar 24,6,Dendy Park,Kings Park,No. 1,Sophie Badcock,Nicholas Roselt,Nicholas Roselt,3-6,3,6,0,1,Completed,true,false,false
+UA017063,17 Mar 24,6,Dendy Park,Kings Park,No. 2,Lucia Colla,William Haydon,Lucia Colla,6-1,6,1,1,0,Completed,true,false,false
+UA017063,17 Mar 24,6,Dendy Park,Kings Park,No. 3,Zack Harrison,Thien Hoang,Thien Hoang,6-7,6,7,0,1,Completed,true,false,false
+UA017063,17 Mar 24,6,Dendy Park,Kings Park,No. 4,Olive Topic,Brendan Shim,Brendan Shim,5-7,5,7,0,1,Completed,true,false,false
+UA017064,17 Mar 24,6,GPHC,Black Rock Navy,No. 1,Zubash Atti,Bahya Hamada,Bahya Hamada,2-6,2,6,0,1,Completed,true,false,false
+UA017064,17 Mar 24,6,GPHC,Black Rock Navy,No. 2,Edmund Tee-Wu,Lucy Tweddle,Lucy Tweddle,0-6,0,6,0,1,Completed,true,false,false
+UA017064,17 Mar 24,6,GPHC,Black Rock Navy,No. 3,Josh Chew,Asha Bishop,Asha Bishop,1-6,1,6,0,1,Completed,true,false,false
+UA017064,17 Mar 24,6,GPHC,Black Rock Navy,No. 4,Ethan Fuller,Ruby Murray,Ruby Murray,3-6,3,6,0,1,Completed,true,false,false
+UA017071,24 Mar 24,7,Maccabi,Hurlingham Park,No. 1,Dean Rosen,Rupert Williams,Dean Rosen,6-4,6,4,1,0,Completed,true,false,false
+UA017071,24 Mar 24,7,Maccabi,Hurlingham Park,No. 2,Anton Betinsky,Max Parnham,Anton Betinsky,6-0,6,0,1,0,Completed,true,false,false
+UA017071,24 Mar 24,7,Maccabi,Hurlingham Park,No. 3,An Dang,Oliver Romanis,An Dang,6-3,6,3,1,0,Completed,true,false,false
+UA017071,24 Mar 24,7,Maccabi,Hurlingham Park,No. 4,Eitan Navon,Charlie Williams,Charlie Williams,5-7,5,7,0,1,Completed,true,false,false
+UA017072,24 Mar 24,7,Royal Ave,Black Rock Maroon,No. 1,Luke Ng,Dana Kasparsons,Luke Ng,7-5,7,5,1,0,Completed,true,false,false
+UA017072,24 Mar 24,7,Royal Ave,Black Rock Maroon,No. 2,Miles Butler,Cally Cheng,Cally Cheng,2-6,2,6,0,1,Completed,true,true,false
+UA017072,24 Mar 24,7,Royal Ave,Black Rock Maroon,No. 3,Rafi Panton,Zali Lock,Zali Lock,0-6,0,6,0,1,Completed,true,false,false
+UA017072,24 Mar 24,7,Royal Ave,Black Rock Maroon,No. 4,Chrystal Cai,Cayley Brown,Cayley Brown,0-6,0,6,0,1,Completed,true,false,false
+UA017073,24 Mar 24,7,Black Rock Navy,Kings Park,No. 1,Bahya Hamada,Nicholas Roselt,Bahya Hamada,6-0,6,0,1,0,Completed,true,false,false
+UA017073,24 Mar 24,7,Black Rock Navy,Kings Park,No. 2,Asha Bishop,William Haydon,William Haydon,6-7,6,7,0,1,Completed,true,false,false
+UA017073,24 Mar 24,7,Black Rock Navy,Kings Park,No. 3,Ruby Murray,Thien Hoang,Thien Hoang,2-6,2,6,0,1,Completed,true,false,false
+UA017073,24 Mar 24,7,Black Rock Navy,Kings Park,No. 4,Tia Karras,Hai Nhi Hoang,Hai Nhi Hoang,0-6,0,6,0,1,Completed,true,false,false
+UA017074,24 Mar 24,7,Dendy Park,GPHC,No. 1,Sophie Badcock,Youmaneh Atti,Sophie Badcock,6-0,6,0,1,0,Completed,true,false,false
+UA017074,24 Mar 24,7,Dendy Park,GPHC,No. 2,Shiv Gaind,Zubash Atti,Shiv Gaind,6-3,6,3,1,0,Completed,true,false,false
+UA017074,24 Mar 24,7,Dendy Park,GPHC,No. 3,Zack Harrison,Edmund Tee-Wu,Zack Harrison,6-1,6,1,1,0,Completed,true,false,false
+UA017074,24 Mar 24,7,Dendy Park,GPHC,No. 4,Olive Topic,Charlie Robinson,Olive Topic,6-0,6,0,1,0,Completed,true,false,false
+UA017081,21 Apr 24,8,GPHC,Maccabi,No. 1,Youmaneh Atti,Dean Rosen,Dean Rosen,2-6,2,6,0,1,Completed,true,false,false
+UA017081,21 Apr 24,8,GPHC,Maccabi,No. 2,Zubash Atti,Asher Brami,Asher Brami,3-6,3,6,0,1,Completed,true,false,false
+UA017081,21 Apr 24,8,GPHC,Maccabi,No. 3,Ethan Fuller,Anton Betinsky,Ethan Fuller,6-2,6,2,1,0,Completed,true,false,false
+UA017081,21 Apr 24,8,GPHC,Maccabi,No. 4,Charlie Robinson,An Dang,An Dang,3-6,3,6,0,1,Completed,true,false,false
+UA017082,21 Apr 24,8,Kings Park,Royal Ave,No. 1,Nicholas Roselt,Luke Ng,Nicholas Roselt,6-4,6,4,1,0,Completed,true,false,false
+UA017082,21 Apr 24,8,Kings Park,Royal Ave,No. 2,William Haydon,Hamish Hogan,William Haydon,6-2,6,2,1,0,Completed,true,false,false
+UA017082,21 Apr 24,8,Kings Park,Royal Ave,No. 3,Brendan Shim,Rafi Panton,Brendan Shim,6-1,6,1,1,0,Completed,true,false,false
+UA017082,21 Apr 24,8,Kings Park,Royal Ave,No. 4,Hai Nhi Hoang,Chrystal Cai,Hai Nhi Hoang,6-1,6,1,1,0,Completed,true,false,false
+UA017083,21 Apr 24,8,Dendy Park,Hurlingham Park,No. 1,Sophie Badcock,Max Parnham,Sophie Badcock,6-2,6,2,1,0,Completed,true,false,false
+UA017083,21 Apr 24,8,Dendy Park,Hurlingham Park,No. 2,Lucia Colla,Taichi Cho,Lucia Colla,6-3,6,3,1,0,Completed,true,false,false
+UA017083,21 Apr 24,8,Dendy Park,Hurlingham Park,No. 3,Shiv Gaind,Rupert Williams,Rupert Williams,2-6,2,6,0,1,Completed,true,false,false
+UA017083,21 Apr 24,8,Dendy Park,Hurlingham Park,No. 4,Patrick Babcock,Oliver Romanis,Patrick Babcock,6-2,6,2,1,0,Completed,true,true,false
+UA017084,21 Apr 24,8,Black Rock Navy,Black Rock Maroon,No. 1,Lucy Tweddle,Dana Kasparsons,Dana Kasparsons,5-7,5,7,0,1,Completed,true,false,false
+UA017084,21 Apr 24,8,Black Rock Navy,Black Rock Maroon,No. 2,Asha Bishop,Zali Lock,Asha Bishop,6-3,6,3,1,0,Completed,true,false,false
+UA017084,21 Apr 24,8,Black Rock Navy,Black Rock Maroon,No. 3,Ruby Murray,Cayley Brown,Ruby Murray,6-4,6,4,1,0,Completed,true,false,false
+UA017084,21 Apr 24,8,Black Rock Navy,Black Rock Maroon,No. 4,Tia Karras,Elsie Lock,Tia Karras,6-4,6,4,1,0,Completed,true,false,false
+UA017091,28 Apr 24,9,Maccabi,Black Rock Navy,No. 1,Asher Brami,Bahya Hamada,Asher Brami,7-6,7,6,1,0,Completed,true,false,false
+UA017091,28 Apr 24,9,Maccabi,Black Rock Navy,No. 2,Anton Betinsky,Asha Bishop,Asha Bishop,2-6,2,6,0,1,Completed,true,false,false
+UA017091,28 Apr 24,9,Maccabi,Black Rock Navy,No. 3,An Dang,Ruby Murray,Ruby Murray,2-6,2,6,0,1,Completed,true,false,false
+UA017091,28 Apr 24,9,Maccabi,Black Rock Navy,No. 4,Schachar Ben-Meir,Tia Karras,Tia Karras,2-6,2,6,0,1,Completed,true,true,false
+UA017092,28 Apr 24,9,Royal Ave,GPHC,No. 1,Luke Ng,Youmaneh Atti,Luke Ng,6-2,6,2,1,0,Completed,true,false,false
+UA017092,28 Apr 24,9,Royal Ave,GPHC,No. 2,Hamish Hogan,Edmund Tee-Wu,Hamish Hogan,6-3,6,3,1,0,Completed,true,false,false
+UA017092,28 Apr 24,9,Royal Ave,GPHC,No. 3,Rafi Panton,Josh Chew,Josh Chew,4-6,4,6,0,1,Completed,true,false,false
+UA017092,28 Apr 24,9,Royal Ave,GPHC,No. 4,Chrystal Cai,Charlie Robinson,Charlie Robinson,4-6,4,6,0,1,Completed,true,false,false
+UA017093,28 Apr 24,9,Hurlingham Park,Kings Park,No. 1,Rupert Williams,Nicholas Roselt,Nicholas Roselt,6-7,6,7,0,1,Completed,true,false,false
+UA017093,28 Apr 24,9,Hurlingham Park,Kings Park,No. 2,Taichi Cho,Thien Hoang,Thien Hoang,6-7,6,7,0,1,Completed,true,false,false
+UA017093,28 Apr 24,9,Hurlingham Park,Kings Park,No. 3,Oliver Romanis,Brendan Shim,Brendan Shim,1-6,1,6,0,1,Completed,true,false,false
+UA017093,28 Apr 24,9,Hurlingham Park,Kings Park,No. 4,Max Humphris,Hai Nhi Hoang,Hai Nhi Hoang,2-6,2,6,0,1,Completed,true,false,false
+UA017094,28 Apr 24,9,Black Rock Maroon,Dendy Park,No. 1,Dana Kasparsons,Sophie Badcock,Sophie Badcock,1-6,1,6,0,1,Completed,true,false,false
+UA017094,28 Apr 24,9,Black Rock Maroon,Dendy Park,No. 2,Cally Cheng,Lucia Colla,Lucia Colla,0-6,0,6,0,1,Completed,true,false,false
+UA017094,28 Apr 24,9,Black Rock Maroon,Dendy Park,No. 3,Cayley Brown,Shiv Gaind,Shiv Gaind,3-6,3,6,0,1,Completed,true,false,false
+UA017094,28 Apr 24,9,Black Rock Maroon,Dendy Park,No. 4,Elsie Lock,Zack Harrison,Zack Harrison,1-6,1,6,0,1,Completed,true,false,false
+UA017101,05 May 24,10,Dendy Park,Maccabi,No. 1,Sophie Badcock,Dean Rosen,Dean Rosen,0-6,0,6,0,1,Completed,true,false,false
+UA017101,05 May 24,10,Dendy Park,Maccabi,No. 2,Lucia Colla,Raphael Samuel,Lucia Colla,6-4,6,4,1,0,Completed,true,false,true
+UA017101,05 May 24,10,Dendy Park,Maccabi,No. 3,Shiv Gaind,An Nguyen,Shiv Gaind,6-0,6,0,1,0,Completed,true,false,false
+UA017101,05 May 24,10,Dendy Park,Maccabi,No. 4,Zack Harrison,Eitan Navon,Zack Harrison,6-4,6,4,1,0,Completed,true,false,false
+UA017102,05 May 24,10,Black Rock Navy,Royal Ave,No. 1,Bahya Hamada,Hamish Hogan,Bahya Hamada,6-0,6,0,1,0,Completed,true,false,false
+UA017102,05 May 24,10,Black Rock Navy,Royal Ave,No. 2,Lucy Tweddle,Rafi Panton,Lucy Tweddle,6-1,6,1,1,0,Completed,true,false,false
+UA017102,05 May 24,10,Black Rock Navy,Royal Ave,No. 3,Ruby Murray,Aarin Trikannad,Ruby Murray,6-1,6,1,1,0,Completed,true,false,true
+UA017102,05 May 24,10,Black Rock Navy,Royal Ave,No. 4,Isaac Donovan,Chrystal Cai,Isaac Donovan,6-3,6,3,1,0,Completed,true,true,false
+UA017103,05 May 24,10,GPHC,Hurlingham Park,No. 1,Youmaneh Atti,Taichi Cho,Taichi Cho,6-7,6,7,0,1,Completed,true,false,false
+UA017103,05 May 24,10,GPHC,Hurlingham Park,No. 2,Zubash Atti,Oliver Romanis,Zubash Atti,6-0,6,0,1,0,Completed,true,false,false
+UA017103,05 May 24,10,GPHC,Hurlingham Park,No. 3,Edmund Tee-Wu,Leve Janos,Leve Janos,5-7,5,7,0,1,Completed,true,false,true
+UA017103,05 May 24,10,GPHC,Hurlingham Park,No. 4,Josh Chew,Max Humphris,Josh Chew,6-2,6,2,1,0,Completed,true,false,false
+UA017104,05 May 24,10,Kings Park,Black Rock Maroon,No. 1,William Haydon,Dana Kasparsons,William Haydon,6-2,6,2,1,0,Completed,true,false,false
+UA017104,05 May 24,10,Kings Park,Black Rock Maroon,No. 2,Thien Hoang,Cally Cheng,Cally Cheng,2-6,2,6,0,1,Completed,true,false,false
+UA017104,05 May 24,10,Kings Park,Black Rock Maroon,No. 3,Brendan Shim,Indiia Niewalda,Brendan Shim,6-1,6,1,1,0,Completed,true,false,true
+UA017104,05 May 24,10,Kings Park,Black Rock Maroon,No. 4,Hai Nhi Hoang,Elsie Lock,Elsie Lock,5-7,5,7,0,1,Completed,true,false,false
+UA017111,12 May 24,11,Maccabi,Kings Park,No. 1,Dean Rosen,Nicholas Roselt,Nicholas Roselt,3-6,3,6,0,1,Completed,true,false,false
+UA017111,12 May 24,11,Maccabi,Kings Park,No. 2,Anton Betinsky,William Haydon,Anton Betinsky,6-4,6,4,1,0,Completed,true,false,false
+UA017111,12 May 24,11,Maccabi,Kings Park,No. 3,An Nguyen,Thien Hoang,Thien Hoang,1-6,1,6,0,1,Completed,true,false,false
+UA017111,12 May 24,11,Maccabi,Kings Park,No. 4,Eitan Navon,Brendan Shim,Brendan Shim,4-6,4,6,0,1,Completed,true,false,false
+UA017112,12 May 24,11,Royal Ave,Dendy Park,No. 1,Luke Ng,Sophie Badcock,Sophie Badcock,4-6,4,6,0,1,Completed,true,false,false
+UA017112,12 May 24,11,Royal Ave,Dendy Park,No. 2,Hamish Hogan,Lucia Colla,Lucia Colla,0-6,0,6,0,1,Completed,true,false,false
+UA017112,12 May 24,11,Royal Ave,Dendy Park,No. 3,Rafi Panton,Shiv Gaind,Shiv Gaind,1-6,1,6,0,1,Completed,true,false,false
+UA017112,12 May 24,11,Royal Ave,Dendy Park,No. 4,Chrystal Cai,Zack Harrison,Zack Harrison,0-6,0,6,0,1,Completed,true,false,false
+UA017113,12 May 24,11,Hurlingham Park,Black Rock Navy,No. 1,Rupert Williams,Bahya Hamada,Bahya Hamada,3-6,3,6,0,1,Completed,true,false,false
+UA017113,12 May 24,11,Hurlingham Park,Black Rock Navy,No. 2,Taichi Cho,Lucy Tweddle,Lucy Tweddle,2-6,2,6,0,1,Completed,true,false,false
+UA017113,12 May 24,11,Hurlingham Park,Black Rock Navy,No. 3,Max Parnham,Asha Bishop,Asha Bishop,2-6,2,6,0,1,Completed,true,false,false
+UA017113,12 May 24,11,Hurlingham Park,Black Rock Navy,No. 4,Max Humphris,Ruby Murray,Ruby Murray,0-6,0,6,0,1,Completed,true,false,false
+UA017114,12 May 24,11,Black Rock Maroon,GPHC,No. 1,Dana Kasparsons,Youmaneh Atti,Youmaneh Atti,6-7,6,7,0,1,Completed,true,false,false
+UA017114,12 May 24,11,Black Rock Maroon,GPHC,No. 2,Cally Cheng,Zubash Atti,Cally Cheng,6-2,6,2,1,0,Completed,true,false,false
+UA017114,12 May 24,11,Black Rock Maroon,GPHC,No. 3,Cayley Brown,Josh Chew,Cayley Brown,6-4,6,4,1,0,Completed,true,false,false
+UA017114,12 May 24,11,Black Rock Maroon,GPHC,No. 4,Elsie Lock,Ethan Fuller,Ethan Fuller,2-6,2,6,0,1,Completed,true,false,false
+UA017121,19 May 24,12,Black Rock Maroon,Hurlingham Park,No. 1,Dana Kasparsons,Rupert Williams,Rupert Williams,2-6,2,6,0,1,Completed,true,false,false
+UA017121,19 May 24,12,Black Rock Maroon,Hurlingham Park,No. 2,Zali Lock,Max Parnham,Zali Lock,7-6,7,6,1,0,Completed,true,false,false
+UA017121,19 May 24,12,Black Rock Maroon,Hurlingham Park,No. 3,Cayley Brown,Oliver Romanis,Cayley Brown,6-2,6,2,1,0,Completed,true,false,false
+UA017121,19 May 24,12,Black Rock Maroon,Hurlingham Park,No. 4,Elsie Lock,Max Humphris,Elsie Lock,6-2,6,2,1,0,Completed,true,false,false
+UA017122,19 May 24,12,Dendy Park,Black Rock Navy,No. 1,Sophie Badcock,Bahya Hamada,Bahya Hamada,0-6,0,6,0,1,Completed,true,false,false
+UA017122,19 May 24,12,Dendy Park,Black Rock Navy,No. 2,Lucia Colla,Lucy Tweddle,Lucy Tweddle,3-6,3,6,0,1,Completed,true,false,false
+UA017122,19 May 24,12,Dendy Park,Black Rock Navy,No. 3,Zack Harrison,Asha Bishop,Asha Bishop,5-7,5,7,0,1,Completed,true,false,false
+UA017122,19 May 24,12,Dendy Park,Black Rock Navy,No. 4,Patrick Babcock,Tia Karras,Tia Karras,2-6,2,6,0,1,Completed,true,true,false
+UA017123,19 May 24,12,GPHC,Kings Park,No. 1,Youmaneh Atti,Nicholas Roselt,Nicholas Roselt,2-6,2,6,0,1,Completed,true,false,false
+UA017123,19 May 24,12,GPHC,Kings Park,No. 2,Zubash Atti,William Haydon,Zubash Atti,6-1,6,1,1,0,Completed,true,false,false
+UA017123,19 May 24,12,GPHC,Kings Park,No. 3,Edmund Tee-Wu,Thien Hoang,Thien Hoang,0-6,0,6,0,1,Completed,true,false,false
+UA017123,19 May 24,12,GPHC,Kings Park,No. 4,Ethan Fuller,Hai Nhi Hoang,Hai Nhi Hoang,2-6,2,6,0,1,Completed,true,false,false
+UA017124,19 May 24,12,Royal Ave,Maccabi,No. 1,Luke Ng,Dean Rosen,Luke Ng,6-0,6,0,1,0,Completed,true,false,false
+UA017124,19 May 24,12,Royal Ave,Maccabi,No. 2,Hamish Hogan,An Dang,An Dang,4-6,4,6,0,1,Completed,true,false,false
+UA017124,19 May 24,12,Royal Ave,Maccabi,No. 3,Rafi Panton,Eitan Navon,Eitan Navon,0-6,0,6,0,1,Completed,true,false,false
+UA017124,19 May 24,12,Royal Ave,Maccabi,No. 4,Chrystal Cai,Mikey Eckstein,Mikey Eckstein,1-6,1,6,0,1,Completed,true,false,false
+UA017131,26 May 24,13,Hurlingham Park,Royal Ave,No. 1,Rupert Williams,Luke Ng,Rupert Williams,6-4,6,4,1,0,Completed,true,false,false
+UA017131,26 May 24,13,Hurlingham Park,Royal Ave,No. 2,Taichi Cho,Hamish Hogan,Taichi Cho,6-2,6,2,1,0,Completed,true,false,false
+UA017131,26 May 24,13,Hurlingham Park,Royal Ave,No. 3,Oliver Romanis,Rafi Panton,Rafi Panton,1-6,1,6,0,1,Completed,true,false,false
+UA017131,26 May 24,13,Hurlingham Park,Royal Ave,No. 4,Charlie Williams,Chrystal Cai,Charlie Williams,6-0,6,0,1,0,Completed,true,false,false
+UA017132,26 May 24,13,Maccabi,Black Rock Maroon,No. 1,Dean Rosen,Dana Kasparsons,Dean Rosen,6-1,6,1,1,0,Completed,true,false,false
+UA017132,26 May 24,13,Maccabi,Black Rock Maroon,No. 2,Asher Brami,Cally Cheng,Asher Brami,6-4,6,4,1,0,Completed,true,false,false
+UA017132,26 May 24,13,Maccabi,Black Rock Maroon,No. 3,An Nguyen,Zali Lock,Zali Lock,0-6,0,6,0,1,Completed,true,false,false
+UA017132,26 May 24,13,Maccabi,Black Rock Maroon,No. 4,Eitan Navon,Cayley Brown,Eitan Navon,6-2,6,2,1,0,Completed,true,false,false
+UA017133,26 May 24,13,Kings Park,Dendy Park,No. 1,William Haydon,Sophie Badcock,Sophie Badcock,1-6,1,6,0,1,Completed,true,false,false
+UA017133,26 May 24,13,Kings Park,Dendy Park,No. 2,Thien Hoang,Shiv Gaind,Thien Hoang,7-5,7,5,1,0,Completed,true,false,false
+UA017133,26 May 24,13,Kings Park,Dendy Park,No. 3,Brendan Shim,Zack Harrison,Zack Harrison,3-6,3,6,0,1,Completed,true,false,false
+UA017133,26 May 24,13,Kings Park,Dendy Park,No. 4,Hai Nhi Hoang,Patrick Babcock,Hai Nhi Hoang,6-2,6,2,1,0,Completed,true,false,true
+UA017134,26 May 24,13,Black Rock Navy,GPHC,No. 1,Bahya Hamada,Youmaneh Atti,Bahya Hamada,6-0,6,0,1,0,Completed,true,false,false
+UA017134,26 May 24,13,Black Rock Navy,GPHC,No. 2,Lucy Tweddle,Zubash Atti,Lucy Tweddle,7-5,7,5,1,0,Completed,true,false,false
+UA017134,26 May 24,13,Black Rock Navy,GPHC,No. 3,Ruby Murray,Josh Chew,Ruby Murray,6-1,6,1,1,0,Completed,true,false,false
+UA017134,26 May 24,13,Black Rock Navy,GPHC,No. 4,Emelia Huxley,Charlie Robinson,Emelia Huxley,6-2,6,2,1,0,Completed,true,true,false
+UA017141,02 Jun 24,14,Hurlingham Park,Maccabi,No. 1,Taichi Cho,Dean Rosen,Dean Rosen,1-6,1,6,0,1,Completed,true,false,false
+UA017141,02 Jun 24,14,Hurlingham Park,Maccabi,No. 2,Max Parnham,Asher Brami,Asher Brami,5-7,5,7,0,1,Completed,true,false,false
+UA017141,02 Jun 24,14,Hurlingham Park,Maccabi,No. 3,Oliver Romanis,An Nguyen,Oliver Romanis,6-3,6,3,1,0,Completed,true,false,false
+UA017141,02 Jun 24,14,Hurlingham Park,Maccabi,No. 4,Max Humphris,Eitan Navon,Max Humphris,6-1,6,1,1,0,Completed,true,false,false
+UA017142,02 Jun 24,14,Black Rock Maroon,Royal Ave,No. 1,Dana Kasparsons,Luke Ng,Luke Ng,3-6,3,6,0,1,Completed,true,false,false
+UA017142,02 Jun 24,14,Black Rock Maroon,Royal Ave,No. 2,Cally Cheng,Hamish Hogan,Cally Cheng,6-2,6,2,1,0,Completed,true,false,false
+UA017142,02 Jun 24,14,Black Rock Maroon,Royal Ave,No. 3,Cayley Brown,Rafi Panton,Cayley Brown,7-5,7,5,1,0,Completed,true,false,false
+UA017142,02 Jun 24,14,Black Rock Maroon,Royal Ave,No. 4,Elsie Lock,Chrystal Cai,Elsie Lock,6-0,6,0,1,0,Completed,true,false,false
+UA017143,02 Jun 24,14,Kings Park,Black Rock Navy,No. 1,Nicholas Roselt,Lucy Tweddle,Nicholas Roselt,6-2,6,2,1,0,Completed,true,false,false
+UA017143,02 Jun 24,14,Kings Park,Black Rock Navy,No. 2,William Haydon,Asha Bishop,Asha Bishop,0-6,0,6,0,1,Completed,true,false,false
+UA017143,02 Jun 24,14,Kings Park,Black Rock Navy,No. 3,Thien Hoang,Ruby Murray,Ruby Murray,4-6,4,6,0,1,Completed,true,false,false
+UA017143,02 Jun 24,14,Kings Park,Black Rock Navy,No. 4,Hai Nhi Hoang,Tia Karras,Tia Karras,6-7,6,7,0,1,Completed,true,false,false
+UA017144,02 Jun 24,14,GPHC,Dendy Park,No. 1,Edmund Tee-Wu,Sophie Badcock,Sophie Badcock,0-6,0,6,0,1,Completed,true,false,false
+UA017144,02 Jun 24,14,GPHC,Dendy Park,No. 2,Josh Chew,Lucia Colla,Lucia Colla,2-6,2,6,0,1,Completed,true,false,false
+UA017144,02 Jun 24,14,GPHC,Dendy Park,No. 3,Ethan Fuller,Shiv Gaind,Shiv Gaind,3-6,3,6,0,1,Completed,true,false,false
+UA017144,02 Jun 24,14,GPHC,Dendy Park,No. 4,Charlie Robinson,Zack Harrison,Zack Harrison,0-6,0,6,0,1,Completed,true,false,false
+UA017301,,16,Kings Park,Maccabi,No. 1,Nicholas Roselt,Dean Rosen,Dean Rosen,3-6,3,6,0,1,Completed,true,false,false
+UA017301,,16,Kings Park,Maccabi,No. 2,William Haydon,An Dang,William Haydon,6-3,6,3,1,0,Completed,true,false,false
+UA017301,,16,Kings Park,Maccabi,No. 3,Thien Hoang,Eitan Navon,Thien Hoang,6-0,6,0,1,0,Completed,true,false,false
+UA017301,,16,Kings Park,Maccabi,No. 4,Hai Nhi Hoang,Mikey Eckstein,Hai Nhi Hoang,6-2,6,2,1,0,Completed,true,false,false
+UA017302,,16,Black Rock Navy,Dendy Park,No. 1,Bahya Hamada,Sophie Badcock,Bahya Hamada,6-3,6,3,1,0,Completed,true,false,false
+UA017302,,16,Black Rock Navy,Dendy Park,No. 2,Lucy Tweddle,Lucia Colla,Lucia Colla,2-6,2,6,0,1,Completed,true,false,false
+UA017302,,16,Black Rock Navy,Dendy Park,No. 3,Asha Bishop,Shiv Gaind,Asha Bishop,6-4,6,4,1,0,Completed,true,false,false
+UA017302,,16,Black Rock Navy,Dendy Park,No. 4,Ruby Murray,Zack Harrison,Ruby Murray,6-0,6,0,1,0,Completed,true,false,false
+UA017321,,17,Kings Park,Black Rock Navy,No. 1,Nicholas Roselt,Bahya Hamada,Bahya Hamada,4-6,4,6,0,1,Completed,true,false,false
+UA017321,,17,Kings Park,Black Rock Navy,No. 2,Thien Hoang,Asha Bishop,Asha Bishop,3-6,3,6,0,1,Completed,true,false,false
+UA017321,,17,Kings Park,Black Rock Navy,No. 3,Hai Nhi Hoang,Ruby Murray,Ruby Murray,3-6,3,6,0,1,Completed,true,false,false
+UA017321,,17,Kings Park,Black Rock Navy,No. 4,Brendan Shim,Tia Karras,Brendan Shim,6-1,6,1,1,0,Completed,true,false,false

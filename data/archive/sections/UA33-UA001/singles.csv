@@ -1,0 +1,177 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA001011,16 Jul 23,1,BLTC Blue,BLTC White,No. 1,Stevan Dakic,Stuart Pagel,Stevan Dakic,6-3,6,3,1,0,Completed,true,false,false
+UA001011,16 Jul 23,1,BLTC Blue,BLTC White,No. 2,Patrick Wilson,Jeremy Nguyen,Patrick Wilson,6-2,6,2,1,0,Completed,true,false,false
+UA001011,16 Jul 23,1,BLTC Blue,BLTC White,No. 3,Julian Catala Prieto,Davis Nguyen,Julian Catala Prieto,6-0,6,0,1,0,Completed,true,false,false
+UA001011,16 Jul 23,1,BLTC Blue,BLTC White,No. 4,Jamie Turner,Hudson Close,Hudson Close,4-6,4,6,0,1,Completed,true,false,false
+UA001013,16 Jul 23,1,Le Page,Coatesville Red,No. 1,Alex Boeve,Ethan Badcock,Alex Boeve,6-0,6,0,1,0,Completed,true,true,false
+UA001013,16 Jul 23,1,Le Page,Coatesville Red,No. 2,Jonathan Deriboklou,Nicholas Dela Cruz,Nicholas Dela Cruz,3-6,3,6,0,1,Completed,true,false,false
+UA001013,16 Jul 23,1,Le Page,Coatesville Red,No. 3,Diesel Reid,Ben Gouralnik,Diesel Reid,7-6,7,6,1,0,Completed,true,false,false
+UA001013,16 Jul 23,1,Le Page,Coatesville Red,No. 4,Dane Lazic,Jonah Dela Cruz,Jonah Dela Cruz,2-6,2,6,0,1,Completed,true,false,false
+UA001014,16 Jul 23,1,Royal South Yarra,Glen Huntly,No. 1,Theodore Gilbert,Jeremy Renwick,Jeremy Renwick,1-6,1,6,0,1,Completed,true,false,false
+UA001014,16 Jul 23,1,Royal South Yarra,Glen Huntly,No. 2,Johnny Asimenias,Max Dorey,Johnny Asimenias,6-4,6,4,1,0,Completed,true,true,false
+UA001014,16 Jul 23,1,Royal South Yarra,Glen Huntly,No. 3,Anya Lo,Kate Nguyen,Anya Lo,6-1,6,1,1,0,Completed,true,false,false
+UA001014,16 Jul 23,1,Royal South Yarra,Glen Huntly,No. 4,Niki Tsemtsidis,Amaya De Silva,Niki Tsemtsidis,6-2,6,2,1,0,Completed,true,false,false
+UA001021,23 Jul 23,2,Glen Huntly,BLTC Blue,No. 1,Max Dorey,Stevan Dakic,Stevan Dakic,3-6,3,6,0,1,Completed,true,false,false
+UA001021,23 Jul 23,2,Glen Huntly,BLTC Blue,No. 2,Jeremy Thai,Patrick Wilson,Patrick Wilson,5-7,5,7,0,1,Completed,true,false,false
+UA001021,23 Jul 23,2,Glen Huntly,BLTC Blue,No. 3,Alistair Cairns,Julian Catala Prieto,Julian Catala Prieto,4-6,4,6,0,1,Completed,true,true,false
+UA001021,23 Jul 23,2,Glen Huntly,BLTC Blue,No. 4,Kate Nguyen,Joshua Grunburg,Joshua Grunburg,0-6,0,6,0,1,Completed,true,false,false
+UA001023,23 Jul 23,2,GPHC,Le Page,No. 1,Joey Govenlock,Jonathan Deriboklou,Joey Govenlock,6-4,6,4,1,0,Completed,true,false,false
+UA001023,23 Jul 23,2,GPHC,Le Page,No. 2,Bill Sanders,Diesel Reid,Diesel Reid,1-6,1,6,0,1,Completed,true,false,false
+UA001023,23 Jul 23,2,GPHC,Le Page,No. 3,Elisa Mouhtaropoulos,Sarah Daniell,Elisa Mouhtaropoulos,6-4,6,4,1,0,Completed,true,false,false
+UA001023,23 Jul 23,2,GPHC,Le Page,No. 4,Zach Ilias,Lucy Sutton,Zach Ilias,6-4,6,4,1,0,Completed,true,false,false
+UA001031,30 Jul 23,3,BLTC Blue,Coatesville Red,No. 1,Yile Li,Ethan Badcock,Yile Li,6-0,6,0,1,0,Completed,true,false,false
+UA001031,30 Jul 23,3,BLTC Blue,Coatesville Red,No. 2,Patrick Wilson,Nicholas Dela Cruz,Nicholas Dela Cruz,4-6,4,6,0,1,Completed,true,false,false
+UA001031,30 Jul 23,3,BLTC Blue,Coatesville Red,No. 3,Julian Catala Prieto,Ben Gouralnik,Julian Catala Prieto,7-5,7,5,1,0,Completed,true,false,false
+UA001031,30 Jul 23,3,BLTC Blue,Coatesville Red,No. 4,Joshua Grunburg,Jonah Dela Cruz,Jonah Dela Cruz,3-6,3,6,0,1,Completed,true,false,false
+UA001033,30 Jul 23,3,Le Page,BLTC White,No. 1,Jonathan Deriboklou,Oliver Letham,Jonathan Deriboklou,6-1,6,1,1,0,Completed,true,false,false
+UA001033,30 Jul 23,3,Le Page,BLTC White,No. 2,Diesel Reid,Stuart Pagel,Diesel Reid,7-6,7,6,1,0,Completed,true,false,false
+UA001033,30 Jul 23,3,Le Page,BLTC White,No. 3,Sarah Daniell,Jeremy Nguyen,Jeremy Nguyen,4-6,4,6,0,1,Completed,true,false,false
+UA001033,30 Jul 23,3,Le Page,BLTC White,No. 4,Dane Lazic,Davis Nguyen,Davis Nguyen,4-6,4,6,0,1,Completed,true,false,false
+UA001034,30 Jul 23,3,Royal South Yarra,GPHC,No. 1,Christopher Manton,Joey Govenlock,Joey Govenlock,4-6,4,6,0,1,Completed,true,false,false
+UA001034,30 Jul 23,3,Royal South Yarra,GPHC,No. 2,Ashvin Jayawardena,Leo Prapas,Ashvin Jayawardena,7-5,7,5,1,0,Completed,true,false,false
+UA001034,30 Jul 23,3,Royal South Yarra,GPHC,No. 3,Anya Lo,Jack McCormack,Anya Lo,6-3,6,3,1,0,Completed,true,false,false
+UA001034,30 Jul 23,3,Royal South Yarra,GPHC,No. 4,Stella Kephala,Elisa Mouhtaropoulos,Elisa Mouhtaropoulos,2-6,2,6,0,1,Completed,true,false,false
+UA001041,06 Aug 23,4,GPHC,BLTC Blue,No. 1,Aaryan Antil,Stevan Dakic,Stevan Dakic,4-6,4,6,0,1,Completed,true,false,false
+UA001041,06 Aug 23,4,GPHC,BLTC Blue,No. 2,Alex Crouch,Patrick Wilson,Patrick Wilson,6-7,6,7,0,1,Completed,true,false,false
+UA001041,06 Aug 23,4,GPHC,BLTC Blue,No. 3,Bill Sanders,Joshua Grunburg,Joshua Grunburg,3-6,3,6,0,1,Completed,true,false,false
+UA001041,06 Aug 23,4,GPHC,BLTC Blue,No. 4,Zach Ilias,Jamie Turner,Zach Ilias,6-0,6,0,1,0,Completed,true,false,false
+UA001043,06 Aug 23,4,Glen Huntly,Le Page,No. 1,Jeremy Renwick,Diesel Reid,Jeremy Renwick,6-0,6,0,1,0,Completed,true,false,false
+UA001043,06 Aug 23,4,Glen Huntly,Le Page,No. 2,Max Dorey,Lucy Sutton,Max Dorey,6-2,6,2,1,0,Completed,true,false,false
+UA001043,06 Aug 23,4,Glen Huntly,Le Page,No. 3,Jeremy Thai,Dane Lazic,Jeremy Thai,6-4,6,4,1,0,Completed,true,false,false
+UA001043,06 Aug 23,4,Glen Huntly,Le Page,No. 4,Amaya De Silva,Maksi Kaurin,Maksi Kaurin,1-6,1,6,0,1,Completed,true,false,false
+UA001044,06 Aug 23,4,BLTC White,Royal South Yarra,No. 1,Oliver Letham,Divine Manzvera,Oliver Letham,6-1,6,1,1,0,Completed,true,false,false
+UA001044,06 Aug 23,4,BLTC White,Royal South Yarra,No. 2,Stuart Pagel,Theodore Gilbert,Theodore Gilbert,4-6,4,6,0,1,Completed,true,false,false
+UA001044,06 Aug 23,4,BLTC White,Royal South Yarra,No. 3,Jeremy Nguyen,Johnny Asimenias,Johnny Asimenias,4-6,4,6,0,1,Completed,true,false,true
+UA001044,06 Aug 23,4,BLTC White,Royal South Yarra,No. 4,Davis Nguyen,Niki Tsemtsidis,Davis Nguyen,6-3,6,3,1,0,Completed,true,false,false
+UA001051,13 Aug 23,5,Le Page,Royal South Yarra,No. 1,Jonathan Deriboklou,Divine Manzvera,Divine Manzvera,3-6,3,6,0,1,Completed,true,false,false
+UA001051,13 Aug 23,5,Le Page,Royal South Yarra,No. 2,Diesel Reid,Theodore Gilbert,Diesel Reid,6-2,6,2,1,0,Completed,true,false,false
+UA001051,13 Aug 23,5,Le Page,Royal South Yarra,No. 3,Dane Lazic,Ashvin Jayawardena,Ashvin Jayawardena,2-6,2,6,0,1,Completed,true,false,false
+UA001051,13 Aug 23,5,Le Page,Royal South Yarra,No. 4,Maksi Kaurin,Niki Tsemtsidis,Maksi Kaurin,6-3,6,3,1,0,Completed,true,false,false
+UA001052,13 Aug 23,5,Glen Huntly,Coatesville Red,No. 1,Jeremy Renwick,Nicholas Dela Cruz,Nicholas Dela Cruz,4-6,4,6,0,1,Completed,true,false,false
+UA001052,13 Aug 23,5,Glen Huntly,Coatesville Red,No. 2,Max Dorey,Thomas Rossi,Thomas Rossi,6-7,6,7,0,1,Completed,true,false,false
+UA001052,13 Aug 23,5,Glen Huntly,Coatesville Red,No. 3,Alistair Cairns,Ethan Badcock,Alistair Cairns,6-0,6,0,1,0,Completed,true,true,false
+UA001052,13 Aug 23,5,Glen Huntly,Coatesville Red,No. 4,Amaya De Silva,Jonah Dela Cruz,Jonah Dela Cruz,0-6,0,6,0,1,Completed,true,false,false
+UA001053,13 Aug 23,5,GPHC,BLTC White,No. 1,Joey Govenlock,Stuart Pagel,Joey Govenlock,6-0,6,0,1,0,Completed,true,false,false
+UA001053,13 Aug 23,5,GPHC,BLTC White,No. 2,Leo Prapas,Jeremy Nguyen,Jeremy Nguyen,3-6,3,6,0,1,Completed,true,false,false
+UA001053,13 Aug 23,5,GPHC,BLTC White,No. 3,Bill Sanders,Davis Nguyen,Bill Sanders,6-0,6,0,1,0,Completed,true,false,false
+UA001053,13 Aug 23,5,GPHC,BLTC White,No. 4,Jack McCormack,Sebastian Brown,Jack McCormack,6-1,6,1,1,0,Completed,true,false,false
+UA001062,20 Aug 23,6,Royal South Yarra,BLTC Blue,No. 1,Freddie Hunt,Stevan Dakic,Stevan Dakic,3-6,3,6,0,1,Completed,true,false,false
+UA001062,20 Aug 23,6,Royal South Yarra,BLTC Blue,No. 2,Ashvin Jayawardena,Patrick Wilson,Patrick Wilson,3-6,3,6,0,1,Completed,true,false,false
+UA001062,20 Aug 23,6,Royal South Yarra,BLTC Blue,No. 3,Anya Lo,Julian Catala Prieto,Anya Lo,6-4,6,4,1,0,Completed,true,false,false
+UA001062,20 Aug 23,6,Royal South Yarra,BLTC Blue,No. 4,Phoebe Andrews,Joshua Grunburg,Phoebe Andrews,6-3,6,3,1,0,Completed,true,false,false
+UA001063,20 Aug 23,6,Coatesville Red,GPHC,No. 1,Nicholas Dela Cruz,Aaryan Antil,Nicholas Dela Cruz,7-5,7,5,1,0,Completed,true,false,false
+UA001063,20 Aug 23,6,Coatesville Red,GPHC,No. 2,Thomas Rossi,Bill Sanders,Thomas Rossi,6-2,6,2,1,0,Completed,true,false,false
+UA001063,20 Aug 23,6,Coatesville Red,GPHC,No. 3,Ethan Badcock,Jack McCormack,Jack McCormack,0-6,0,6,0,1,Completed,true,false,false
+UA001063,20 Aug 23,6,Coatesville Red,GPHC,No. 4,Ben Gouralnik,Zach Ilias,Zach Ilias,1-6,1,6,0,1,Completed,true,false,false
+UA001064,20 Aug 23,6,BLTC White,Glen Huntly,No. 1,Oliver Letham,Max Dorey,Max Dorey,4-6,4,6,0,1,Completed,true,false,false
+UA001064,20 Aug 23,6,BLTC White,Glen Huntly,No. 2,Stuart Pagel,Jeremy Thai,Jeremy Thai,5-7,5,7,0,1,Completed,true,false,false
+UA001064,20 Aug 23,6,BLTC White,Glen Huntly,No. 3,Davis Nguyen,Kate Nguyen,Kate Nguyen,1-6,1,6,0,1,Completed,true,false,false
+UA001064,20 Aug 23,6,BLTC White,Glen Huntly,No. 4,Sebastian Brown,Amaya De Silva,Sebastian Brown,7-6,7,6,1,0,Completed,true,false,false
+UA001071,27 Aug 23,7,BLTC Blue,Le Page,No. 1,Stevan Dakic,Jonathan Deriboklou,Stevan Dakic,6-2,6,2,1,0,Completed,true,false,false
+UA001071,27 Aug 23,7,BLTC Blue,Le Page,No. 2,Patrick Wilson,Lucy Sutton,Patrick Wilson,6-0,6,0,1,0,Completed,true,false,false
+UA001071,27 Aug 23,7,BLTC Blue,Le Page,No. 3,Jamie Turner,Dane Lazic,Jamie Turner,6-0,6,0,1,0,Completed,true,false,false
+UA001071,27 Aug 23,7,BLTC Blue,Le Page,No. 4,Joshua Grunburg,Maksi Kaurin,Joshua Grunburg,6-1,6,1,1,0,Completed,true,false,false
+UA001073,27 Aug 23,7,Glen Huntly,GPHC,No. 1,Max Dorey,Aaryan Antil,Aaryan Antil,5-7,5,7,0,1,Completed,true,false,false
+UA001073,27 Aug 23,7,Glen Huntly,GPHC,No. 2,Jeremy Thai,Leo Prapas,Jeremy Thai,6-2,6,2,1,0,Completed,true,false,false
+UA001073,27 Aug 23,7,Glen Huntly,GPHC,No. 3,Kate Nguyen,Alex Crouch,Alex Crouch,3-6,3,6,0,1,Completed,true,false,false
+UA001073,27 Aug 23,7,Glen Huntly,GPHC,No. 4,Amaya De Silva,Bill Sanders,Bill Sanders,2-6,2,6,0,1,Completed,true,false,false
+UA001074,27 Aug 23,7,Coatesville Red,BLTC White,No. 1,Nicholas Dela Cruz,Stuart Pagel,Nicholas Dela Cruz,6-1,6,1,1,0,Completed,true,false,false
+UA001074,27 Aug 23,7,Coatesville Red,BLTC White,No. 2,Thomas Rossi,Jeremy Nguyen,Thomas Rossi,6-4,6,4,1,0,Completed,true,false,false
+UA001074,27 Aug 23,7,Coatesville Red,BLTC White,No. 3,Ben Gouralnik,Davis Nguyen,Ben Gouralnik,6-1,6,1,1,0,Completed,true,false,false
+UA001074,27 Aug 23,7,Coatesville Red,BLTC White,No. 4,Jonah Dela Cruz,Sebastian Brown,Jonah Dela Cruz,6-0,6,0,1,0,Completed,true,false,false
+UA001081,03 Sep 23,8,BLTC White,BLTC Blue,No. 1,Oliver Letham,Stevan Dakic,Stevan Dakic,6-7,6,7,0,1,Completed,true,false,false
+UA001081,03 Sep 23,8,BLTC White,BLTC Blue,No. 2,Stuart Pagel,Julian Catala Prieto,Julian Catala Prieto,4-6,4,6,0,1,Completed,true,false,false
+UA001081,03 Sep 23,8,BLTC White,BLTC Blue,No. 3,Jeremy Nguyen,Jamie Turner,Jamie Turner,4-6,4,6,0,1,Completed,true,false,false
+UA001081,03 Sep 23,8,BLTC White,BLTC Blue,No. 4,Sebastian Brown,Timothy Dane,Sebastian Brown,6-4,6,4,1,0,Completed,true,false,true
+UA001083,03 Sep 23,8,Coatesville Red,Le Page,No. 1,Nicholas Dela Cruz,Diesel Reid,Diesel Reid,6-7,6,7,0,1,Completed,true,false,false
+UA001083,03 Sep 23,8,Coatesville Red,Le Page,No. 2,Ethan Badcock,Sarah Daniell,Ethan Badcock,6-2,6,2,1,0,Completed,true,false,false
+UA001083,03 Sep 23,8,Coatesville Red,Le Page,No. 3,Ben Gouralnik,Dane Lazic,Ben Gouralnik,6-0,6,0,1,0,Completed,true,false,false
+UA001083,03 Sep 23,8,Coatesville Red,Le Page,No. 4,Jonah Dela Cruz,Maksi Kaurin,Jonah Dela Cruz,7-5,7,5,1,0,Completed,true,false,false
+UA001084,03 Sep 23,8,Glen Huntly,Royal South Yarra,No. 1,Max Dorey,Freddie Hunt,Max Dorey,6-1,6,1,1,0,Completed,true,false,false
+UA001084,03 Sep 23,8,Glen Huntly,Royal South Yarra,No. 2,Jeremy Thai,Divine Manzvera,Divine Manzvera,4-6,4,6,0,1,Completed,true,false,false
+UA001084,03 Sep 23,8,Glen Huntly,Royal South Yarra,No. 3,Kate Nguyen,Yuvika Gorshi,Yuvika Gorshi,2-6,2,6,0,1,Completed,true,false,true
+UA001084,03 Sep 23,8,Glen Huntly,Royal South Yarra,No. 4,Amaya De Silva,Stella Kephala,Stella Kephala,1-6,1,6,0,1,Completed,true,false,false
+UA001091,10 Sep 23,9,BLTC Blue,Glen Huntly,No. 1,Patrick Wilson,Jeremy Renwick,Patrick Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA001091,10 Sep 23,9,BLTC Blue,Glen Huntly,No. 2,Julian Catala Prieto,Jeremy Thai,Julian Catala Prieto,6-0,6,0,1,0,Completed,true,false,false
+UA001091,10 Sep 23,9,BLTC Blue,Glen Huntly,No. 3,Jamie Turner,Kate Nguyen,Jamie Turner,6-1,6,1,1,0,Completed,true,false,false
+UA001091,10 Sep 23,9,BLTC Blue,Glen Huntly,No. 4,Joshua Grunburg,Amaya De Silva,Joshua Grunburg,7-5,7,5,1,0,Completed,true,false,false
+UA001093,10 Sep 23,9,Le Page,GPHC,No. 1,Jonathan Deriboklou,Joey Govenlock,Joey Govenlock,3-6,3,6,0,1,Completed,true,false,false
+UA001093,10 Sep 23,9,Le Page,GPHC,No. 2,Sarah Daniell,Aaryan Antil,Aaryan Antil,1-6,1,6,0,1,Completed,true,false,false
+UA001093,10 Sep 23,9,Le Page,GPHC,No. 3,Maksi Kaurin,Alex Crouch,Maksi Kaurin,6-1,6,1,1,0,Completed,true,false,false
+UA001093,10 Sep 23,9,Le Page,GPHC,No. 4,Kiara Fernando,Jack McCormack,Jack McCormack,0-6,0,6,0,1,Completed,true,true,false
+UA001094,10 Sep 23,9,Royal South Yarra,Coatesville Red,No. 1,Divine Manzvera,Nicholas Dela Cruz,Divine Manzvera,6-3,6,3,1,0,Completed,true,false,false
+UA001094,10 Sep 23,9,Royal South Yarra,Coatesville Red,No. 2,Yuvika Gorshi,Thomas Rossi,Thomas Rossi,3-6,3,6,0,1,Completed,true,true,false
+UA001094,10 Sep 23,9,Royal South Yarra,Coatesville Red,No. 3,Phoebe Andrews,Ethan Badcock,Phoebe Andrews,7-5,7,5,1,0,Completed,true,false,false
+UA001094,10 Sep 23,9,Royal South Yarra,Coatesville Red,No. 4,Stella Kephala,Jonah Dela Cruz,Jonah Dela Cruz,1-6,1,6,0,1,Completed,true,false,false
+UA001101,08 Oct 23,10,Coatesville Red,BLTC Blue,No. 1,Nicholas Dela Cruz,Stevan Dakic,Stevan Dakic,3-6,3,6,0,1,Completed,true,false,false
+UA001101,08 Oct 23,10,Coatesville Red,BLTC Blue,No. 2,Thomas Rossi,Patrick Wilson,Patrick Wilson,4-6,4,6,0,1,Completed,true,false,false
+UA001101,08 Oct 23,10,Coatesville Red,BLTC Blue,No. 3,Ethan Badcock,Julian Catala Prieto,Julian Catala Prieto,4-6,4,6,0,1,Completed,true,false,false
+UA001101,08 Oct 23,10,Coatesville Red,BLTC Blue,No. 4,Ben Gouralnik,Joshua Grunburg,Ben Gouralnik,6-0,6,0,1,0,Completed,true,false,false
+UA001103,08 Oct 23,10,BLTC White,Le Page,No. 1,Oliver Letham,Jonathan Deriboklou,Oliver Letham,6-2,6,2,1,0,Completed,true,false,false
+UA001103,08 Oct 23,10,BLTC White,Le Page,No. 2,Stuart Pagel,Diesel Reid,Stuart Pagel,6-1,6,1,1,0,Completed,true,false,false
+UA001103,08 Oct 23,10,BLTC White,Le Page,No. 3,Jeremy Nguyen,Sarah Daniell,Jeremy Nguyen,7-5,7,5,1,0,Completed,true,false,false
+UA001103,08 Oct 23,10,BLTC White,Le Page,No. 4,Davis Nguyen,Lucy Sutton,Lucy Sutton,4-6,4,6,0,1,Completed,true,false,false
+UA001104,08 Oct 23,10,GPHC,Royal South Yarra,No. 1,Joey Govenlock,Ben Frewin,Joey Govenlock,6-0,6,0,1,0,Completed,true,false,true
+UA001104,08 Oct 23,10,GPHC,Royal South Yarra,No. 2,Leo Prapas,Stella Kephala,Stella Kephala,5-7,5,7,0,1,Completed,true,false,false
+UA001104,08 Oct 23,10,GPHC,Royal South Yarra,No. 3,Alex Crouch,Niki Tsemtsidis,Alex Crouch,6-2,6,2,1,0,Completed,true,false,false
+UA001104,08 Oct 23,10,GPHC,Royal South Yarra,No. 4,Jack McCormack,Axy Park,Jack McCormack,6-0,6,0,1,0,Completed,true,false,true
+UA001111,15 Oct 23,11,BLTC Blue,GPHC,No. 1,Yile Li,Joey Govenlock,Joey Govenlock,4-6,4,6,0,1,Completed,true,false,false
+UA001111,15 Oct 23,11,BLTC Blue,GPHC,No. 2,Patrick Wilson,Leo Prapas,Leo Prapas,5-7,5,7,0,1,Completed,true,false,false
+UA001111,15 Oct 23,11,BLTC Blue,GPHC,No. 3,Julian Catala Prieto,Alex Crouch,Julian Catala Prieto,6-2,6,2,1,0,Completed,true,false,false
+UA001111,15 Oct 23,11,BLTC Blue,GPHC,No. 4,Joshua Grunburg,Zach Ilias,Joshua Grunburg,6-4,6,4,1,0,Completed,true,false,false
+UA001113,15 Oct 23,11,Le Page,Glen Huntly,No. 1,Diesel Reid,Max Dorey,Max Dorey,1-6,1,6,0,1,Completed,true,false,false
+UA001113,15 Oct 23,11,Le Page,Glen Huntly,No. 2,Sarah Daniell,Jeremy Thai,Jeremy Thai,3-6,3,6,0,1,Completed,true,false,false
+UA001113,15 Oct 23,11,Le Page,Glen Huntly,No. 3,Lucy Sutton,Kate Nguyen,Lucy Sutton,6-3,6,3,1,0,Completed,true,false,false
+UA001113,15 Oct 23,11,Le Page,Glen Huntly,No. 4,Dane Lazic,Amaya De Silva,Amaya De Silva,3-6,3,6,0,1,Completed,true,false,false
+UA001114,15 Oct 23,11,Royal South Yarra,BLTC White,No. 1,Freddie Hunt,Oliver Letham,Freddie Hunt,6-3,6,3,1,0,Completed,true,false,false
+UA001114,15 Oct 23,11,Royal South Yarra,BLTC White,No. 2,Stella Kephala,Jeremy Nguyen,Stella Kephala,7-6,7,6,1,0,Completed,true,false,false
+UA001114,15 Oct 23,11,Royal South Yarra,BLTC White,No. 3,Niki Tsemtsidis,Davis Nguyen,Davis Nguyen,4-6,4,6,0,1,Completed,true,false,false
+UA001114,15 Oct 23,11,Royal South Yarra,BLTC White,No. 4,Harry Anderson,Sebastian Brown,Sebastian Brown,3-6,3,6,0,1,Completed,true,true,false
+UA001121,22 Oct 23,12,Royal South Yarra,Le Page,No. 1,Freddie Hunt,Jonathan Deriboklou,Freddie Hunt,7-5,7,5,1,0,Completed,true,false,false
+UA001121,22 Oct 23,12,Royal South Yarra,Le Page,No. 2,Anya Lo,Diesel Reid,Anya Lo,6-2,6,2,1,0,Completed,true,false,false
+UA001121,22 Oct 23,12,Royal South Yarra,Le Page,No. 3,Phoebe Andrews,Sarah Daniell,Sarah Daniell,2-6,2,6,0,1,Completed,true,false,false
+UA001121,22 Oct 23,12,Royal South Yarra,Le Page,No. 4,Stella Kephala,Dane Lazic,Stella Kephala,7-5,7,5,1,0,Completed,true,false,false
+UA001122,22 Oct 23,12,Coatesville Red,Glen Huntly,No. 1,Nicholas Dela Cruz,Max Dorey,Nicholas Dela Cruz,6-2,6,2,1,0,Completed,true,false,false
+UA001122,22 Oct 23,12,Coatesville Red,Glen Huntly,No. 2,Thomas Rossi,Jeremy Thai,Thomas Rossi,6-2,6,2,1,0,Completed,true,false,false
+UA001122,22 Oct 23,12,Coatesville Red,Glen Huntly,No. 3,Ben Gouralnik,Kate Nguyen,Ben Gouralnik,6-0,6,0,1,0,Completed,true,false,false
+UA001122,22 Oct 23,12,Coatesville Red,Glen Huntly,No. 4,Jonah Dela Cruz,Amaya De Silva,Jonah Dela Cruz,6-2,6,2,1,0,Completed,true,false,false
+UA001123,22 Oct 23,12,BLTC White,GPHC,No. 1,Oliver Letham,Aaryan Antil,Oliver Letham,6-2,6,2,1,0,Completed,true,false,false
+UA001123,22 Oct 23,12,BLTC White,GPHC,No. 2,Davis Nguyen,Bill Sanders,Bill Sanders,1-6,1,6,0,1,Completed,true,false,false
+UA001123,22 Oct 23,12,BLTC White,GPHC,No. 3,Hudson Close,Jack McCormack,Jack McCormack,0-6,0,6,0,1,Completed,true,false,false
+UA001123,22 Oct 23,12,BLTC White,GPHC,No. 4,Sebastian Brown,Oscar Roseman,Sebastian Brown,6-3,6,3,1,0,Completed,true,false,true
+UA001132,29 Oct 23,13,BLTC Blue,Royal South Yarra,No. 1,Nicholas Shaw,Freddie Hunt,Nicholas Shaw,6-4,6,4,1,0,Completed,true,true,false
+UA001132,29 Oct 23,13,BLTC Blue,Royal South Yarra,No. 2,Joshua Grunburg,Divine Manzvera,Joshua Grunburg,6-3,6,3,1,0,Completed,true,false,false
+UA001132,29 Oct 23,13,BLTC Blue,Royal South Yarra,No. 3,Ryan Dong,Phoebe Andrews,Ryan Dong,6-3,6,3,1,0,Completed,true,true,false
+UA001132,29 Oct 23,13,BLTC Blue,Royal South Yarra,No. 4,Timothy Dane,Stella Kephala,Stella Kephala,0-6,0,6,0,1,Completed,true,true,false
+UA001133,29 Oct 23,13,GPHC,Coatesville Red,No. 1,Joey Govenlock,Nicholas Dela Cruz,Joey Govenlock,6-1,6,1,1,0,Completed,true,false,false
+UA001133,29 Oct 23,13,GPHC,Coatesville Red,No. 2,Leo Prapas,Ethan Badcock,Leo Prapas,6-4,6,4,1,0,Completed,true,false,false
+UA001133,29 Oct 23,13,GPHC,Coatesville Red,No. 3,Alex Crouch,Ben Gouralnik,Ben Gouralnik,3-6,3,6,0,1,Completed,true,false,false
+UA001133,29 Oct 23,13,GPHC,Coatesville Red,No. 4,Jack McCormack,Jonah Dela Cruz,Jack McCormack,6-0,6,0,1,0,Completed,true,false,false
+UA001134,29 Oct 23,13,Glen Huntly,BLTC White,No. 1,Max Dorey,Oliver Letham,Oliver Letham,2-6,2,6,0,1,Completed,true,false,false
+UA001134,29 Oct 23,13,Glen Huntly,BLTC White,No. 2,Jeremy Thai,Stuart Pagel,Jeremy Thai,6-3,6,3,1,0,Completed,true,false,false
+UA001134,29 Oct 23,13,Glen Huntly,BLTC White,No. 3,Amaya De Silva,Jeremy Nguyen,Jeremy Nguyen,2-6,2,6,0,1,Completed,true,false,false
+UA001134,29 Oct 23,13,Glen Huntly,BLTC White,No. 4,Tate Nguyen,Sebastian Brown,Sebastian Brown,2-6,2,6,0,1,Completed,true,true,false
+UA001141,12 Nov 23,14,Le Page,BLTC Blue,No. 1,Jonathan Deriboklou,Yile Li,Yile Li,2-6,2,6,0,1,Completed,true,false,false
+UA001141,12 Nov 23,14,Le Page,BLTC Blue,No. 2,Sarah Daniell,Patrick Wilson,Patrick Wilson,0-6,0,6,0,1,Completed,true,false,false
+UA001141,12 Nov 23,14,Le Page,BLTC Blue,No. 3,Lucy Sutton,Julian Catala Prieto,Julian Catala Prieto,1-6,1,6,0,1,Completed,true,false,false
+UA001141,12 Nov 23,14,Le Page,BLTC Blue,No. 4,Maksi Kaurin,Jamie Turner,Jamie Turner,1-6,1,6,0,1,Completed,true,false,false
+UA001143,12 Nov 23,14,GPHC,Glen Huntly,No. 1,Alex Crouch,Max Dorey,Max Dorey,1-6,1,6,0,1,Completed,true,false,false
+UA001143,12 Nov 23,14,GPHC,Glen Huntly,No. 2,Bill Sanders,Jeremy Thai,Bill Sanders,6-4,6,4,1,0,Completed,true,false,false
+UA001143,12 Nov 23,14,GPHC,Glen Huntly,No. 3,Jack McCormack,Alistair Cairns,Jack McCormack,6-1,6,1,1,0,Completed,true,false,true
+UA001143,12 Nov 23,14,GPHC,Glen Huntly,No. 4,Zach Ilias,Amaya De Silva,Zach Ilias,6-4,6,4,1,0,Completed,true,false,false
+UA001144,12 Nov 23,14,BLTC White,Coatesville Red,No. 1,Stuart Pagel,Nicholas Dela Cruz,Stuart Pagel,6-4,6,4,1,0,Completed,true,false,false
+UA001144,12 Nov 23,14,BLTC White,Coatesville Red,No. 2,Jeremy Nguyen,Thomas Rossi,Thomas Rossi,2-6,2,6,0,1,Completed,true,false,false
+UA001144,12 Nov 23,14,BLTC White,Coatesville Red,No. 3,Davis Nguyen,Ethan Badcock,Ethan Badcock,2-6,2,6,0,1,Completed,true,false,false
+UA001144,12 Nov 23,14,BLTC White,Coatesville Red,No. 4,Hudson Close,Jonah Dela Cruz,Jonah Dela Cruz,1-6,1,6,0,1,Completed,true,false,false
+UA001301,,16,BLTC Blue,Royal South Yarra,No. 1,Patrick Wilson,Divine Manzvera,Divine Manzvera,3-6,3,6,0,1,Completed,true,false,false
+UA001301,,16,BLTC Blue,Royal South Yarra,No. 2,Julian Catala Prieto,Phoebe Andrews,Phoebe Andrews,3-6,3,6,0,1,Completed,true,false,false
+UA001301,,16,BLTC Blue,Royal South Yarra,No. 3,Jamie Turner,Stella Kephala,Jamie Turner,6-4,6,4,1,0,Completed,true,false,false
+UA001301,,16,BLTC Blue,Royal South Yarra,No. 4,Joshua Grunburg,Niki Tsemtsidis,Joshua Grunburg,6-3,6,3,1,0,Completed,true,false,false
+UA001302,,16,GPHC,Coatesville Red,No. 1,Joey Govenlock,Nicholas Dela Cruz,Nicholas Dela Cruz,4-6,4,6,0,1,Completed,true,false,false
+UA001302,,16,GPHC,Coatesville Red,No. 2,Leo Prapas,Thomas Rossi,Thomas Rossi,5-7,5,7,0,1,Completed,true,false,false
+UA001302,,16,GPHC,Coatesville Red,No. 3,Alex Crouch,Ben Gouralnik,Alex Crouch,6-4,6,4,1,0,Completed,true,false,false
+UA001302,,16,GPHC,Coatesville Red,No. 4,Bill Sanders,Jonah Dela Cruz,Jonah Dela Cruz,3-6,3,6,0,1,Completed,true,false,false
+UA001321,,17,BLTC Blue,Coatesville Red,No. 1,Yile Li,Nicholas Dela Cruz,Yile Li,6-0,6,0,1,0,Completed,true,false,false
+UA001321,,17,BLTC Blue,Coatesville Red,No. 2,Patrick Wilson,Thomas Rossi,Patrick Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA001321,,17,BLTC Blue,Coatesville Red,No. 3,Julian Catala Prieto,Ben Gouralnik,Ben Gouralnik,3-6,3,6,0,1,Completed,true,false,false
+UA001321,,17,BLTC Blue,Coatesville Red,No. 4,Jamie Turner,Jonah Dela Cruz,Jonah Dela Cruz,2-6,2,6,0,1,Completed,true,false,false

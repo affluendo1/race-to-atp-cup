@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA23-UA005",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2018",
+  "season_id": "UA23",
+  "season_label": "Spring 2018",
+  "source_section_code": "UA005",
+  "section_label": "Section 5",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Elsternwick Park",
+      "wins": 12,
+      "points": 110,
+      "percentage": 168.18,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Tennis World",
+      "wins": 9,
+      "points": 87,
+      "percentage": 122.99,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Carmelite",
+      "wins": 7,
+      "points": 85,
+      "percentage": 120.07,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 7,
+      "points": 73,
+      "percentage": 96.86,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Port Melbourne",
+      "wins": 5,
+      "points": 70,
+      "percentage": 105.2,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong Scotch",
+      "wins": 5,
+      "points": 62,
+      "percentage": 97.67,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park",
+      "wins": 1,
+      "points": 40,
+      "percentage": 79.49,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Beaumaris CC",
+      "wins": 1,
+      "points": 33,
+      "percentage": 45.53,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA23-UA005",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 59,
+  "singles_rubbers": 205,
+  "doubles_rubbers": 103,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA005302"
+  ]
+}

@@ -1,0 +1,205 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA001011,20 Jul 19,1,Carmelite 1,Carmelite 2,No. 1,Eva Livashova,Lukas Katelis,Eva Livashova,6-3,6,3,1,0,Completed,true,false,false
+AA001011,20 Jul 19,1,Carmelite 1,Carmelite 2,No. 2,Orlando Van Bibra Falso,Thomas Tisdall,Orlando Van Bibra Falso,6-1,6,1,1,0,Completed,true,false,false
+AA001011,20 Jul 19,1,Carmelite 1,Carmelite 2,No. 3,Jet MacKenzie,Corey Arms,Jet MacKenzie,6-1,6,1,1,0,Completed,true,false,false
+AA001011,20 Jul 19,1,Carmelite 1,Carmelite 2,No. 4,Gibson Sinclair,Oscar Moore,Gibson Sinclair,6-0,6,0,1,0,Completed,true,false,false
+AA001012,20 Jul 19,1,Port Melbourne Blue,Port Melbourne Red,No. 1,Jack Walters,Hamish Farquharson,Hamish Farquharson,1-6,1,6,0,1,Completed,true,false,false
+AA001012,20 Jul 19,1,Port Melbourne Blue,Port Melbourne Red,No. 2,Mia Allen,Omar Kamel,Omar Kamel,4-6,4,6,0,1,Completed,true,false,false
+AA001012,20 Jul 19,1,Port Melbourne Blue,Port Melbourne Red,No. 3,Henry Hollinger,Lachlan Gordon,Lachlan Gordon,0-6,0,6,0,1,Completed,true,false,false
+AA001012,20 Jul 19,1,Port Melbourne Blue,Port Melbourne Red,No. 4,Will Sharpin,Angelina Kotzakozidis,Will Sharpin,6-0,6,0,1,0,Completed,true,false,false
+AA001013,20 Jul 19,1,Carmelite 3,Carmelite 4,No. 1,Bo Browne,Callum McDougall,Bo Browne,6-1,6,1,1,0,Completed,true,false,false
+AA001013,20 Jul 19,1,Carmelite 3,Carmelite 4,No. 2,Jack Wills,Charlotte Parletta,Jack Wills,6-1,6,1,1,0,Completed,true,false,false
+AA001013,20 Jul 19,1,Carmelite 3,Carmelite 4,No. 3,Josh Nicol,Mali Moore,Josh Nicol,6-2,6,2,1,0,Completed,true,false,false
+AA001013,20 Jul 19,1,Carmelite 3,Carmelite 4,No. 4,Luke Mason,Isabelle Wright,Isabelle Wright,5-7,5,7,0,1,Completed,true,false,false
+AA001014,20 Jul 19,1,Kooyong,Royal South Yarra,No. 1,Cooper Gardy,Eddie Millear,Eddie Millear,3-4,3,4,0,1,Completed,false,false,false
+AA001014,20 Jul 19,1,Kooyong,Royal South Yarra,No. 2,Thomas Keller,Charlie Atkins,Thomas Keller,7-5,7,5,1,0,Completed,true,false,false
+AA001014,20 Jul 19,1,Kooyong,Royal South Yarra,No. 3,Megan Chang,Henry Prentice,Megan Chang,6-2,6,2,1,0,Completed,true,false,false
+AA001014,20 Jul 19,1,Kooyong,Royal South Yarra,No. 4,Wanni Godwin,[Unnamed player — TROLS AA001014 away code 4],[Unnamed player — TROLS AA001014 away code 4],2-6,2,6,0,1,Completed,false,false,false
+AA001021,27 Jul 19,2,Royal South Yarra,Carmelite 1,No. 1,Eddie Millear,Eva Livashova,Eva Livashova,1-6,1,6,0,1,Completed,true,false,false
+AA001021,27 Jul 19,2,Royal South Yarra,Carmelite 1,No. 2,Peter Tabain,Orlando Van Bibra Falso,Peter Tabain,6-1,6,1,1,0,Completed,true,false,false
+AA001021,27 Jul 19,2,Royal South Yarra,Carmelite 1,No. 3,Charlie Atkins,Jet MacKenzie,Jet MacKenzie,1-6,1,6,0,1,Completed,true,false,false
+AA001021,27 Jul 19,2,Royal South Yarra,Carmelite 1,No. 4,Henry Prentice,Gibson Sinclair,Gibson Sinclair,0-6,0,6,0,1,Completed,true,false,false
+AA001022,27 Jul 19,2,Carmelite 2,Port Melbourne Blue,No. 1,Lukas Katelis,Luke Kinsman,Luke Kinsman,2-6,2,6,0,1,Completed,true,false,false
+AA001022,27 Jul 19,2,Carmelite 2,Port Melbourne Blue,No. 2,Thomas Tisdall,Jack Walters,Thomas Tisdall,7-6,7,6,1,0,Completed,true,false,false
+AA001022,27 Jul 19,2,Carmelite 2,Port Melbourne Blue,No. 3,Oscar Moore,Henry Hollinger,Henry Hollinger,6-7,6,7,0,1,Completed,true,false,false
+AA001022,27 Jul 19,2,Carmelite 2,Port Melbourne Blue,No. 4,Ijsbrand Van Den Beiv,Will Sharpin,Will Sharpin,0-6,0,6,0,1,Completed,true,false,false
+AA001023,27 Jul 19,2,Port Melbourne Red,Carmelite 3,No. 1,Omar Kamel,Bo Browne,Bo Browne,0-6,0,6,0,1,Completed,true,false,false
+AA001023,27 Jul 19,2,Port Melbourne Red,Carmelite 3,No. 2,Lachlan Gordon,Daniil Levashov,Lachlan Gordon,6-3,6,3,1,0,Completed,true,false,false
+AA001023,27 Jul 19,2,Port Melbourne Red,Carmelite 3,No. 3,Angelina Kotzakozidis,Josh Nicol,Josh Nicol,3-6,3,6,0,1,Completed,true,false,false
+AA001023,27 Jul 19,2,Port Melbourne Red,Carmelite 3,No. 4,Charlise Costa,Tommy Reynolds,Charlise Costa,6-2,6,2,1,0,Completed,true,false,false
+AA001024,27 Jul 19,2,Carmelite 4,Kooyong,No. 1,Millie Tisdall,Mikhail Kouzionis,Millie Tisdall,6-2,6,2,1,0,Completed,true,false,false
+AA001024,27 Jul 19,2,Carmelite 4,Kooyong,No. 2,Callum McDougall,Charlotte Stern,Charlotte Stern,4-6,4,6,0,1,Completed,true,false,false
+AA001024,27 Jul 19,2,Carmelite 4,Kooyong,No. 3,Quiney McRae-Donovan,Megan Chang,Megan Chang,3-6,3,6,0,1,Completed,true,false,false
+AA001024,27 Jul 19,2,Carmelite 4,Kooyong,No. 4,Mali Moore,Annabel Whiter,Annabel Whiter,4-6,4,6,0,1,Completed,true,false,false
+AA001031,03 Aug 19,3,Carmelite 1,Carmelite 4,No. 1,Eva Livashova,Millie Tisdall,Eva Livashova,6-0,6,0,1,0,Completed,true,false,false
+AA001031,03 Aug 19,3,Carmelite 1,Carmelite 4,No. 2,Orlando Van Bibra Falso,Quiney McRae-Donovan,Orlando Van Bibra Falso,6-0,6,0,1,0,Completed,true,false,false
+AA001031,03 Aug 19,3,Carmelite 1,Carmelite 4,No. 3,Jet MacKenzie,Charlotte Parletta,Jet MacKenzie,6-0,6,0,1,0,Completed,true,false,false
+AA001031,03 Aug 19,3,Carmelite 1,Carmelite 4,No. 4,Gibson Sinclair,[Unnamed player — TROLS AA001031 away code 4],Gibson Sinclair,6-0,6,0,1,0,Completed,false,false,false
+AA001032,03 Aug 19,3,Port Melbourne Blue,Royal South Yarra,No. 1,Luke Kinsman,Eddie Millear,Eddie Millear,4-6,4,6,0,1,Completed,true,false,false
+AA001032,03 Aug 19,3,Port Melbourne Blue,Royal South Yarra,No. 2,Jack Walters,Peter Tabain,Peter Tabain,2-6,2,6,0,1,Completed,true,false,false
+AA001032,03 Aug 19,3,Port Melbourne Blue,Royal South Yarra,No. 3,Mia Allen,Charlie Atkins,Charlie Atkins,2-6,2,6,0,1,Completed,true,false,false
+AA001032,03 Aug 19,3,Port Melbourne Blue,Royal South Yarra,No. 4,Jack Kinsman,Henry Prentice,Henry Prentice,2-6,2,6,0,1,Completed,true,false,false
+AA001033,03 Aug 19,3,Carmelite 3,Carmelite 2,No. 1,Jack Wills,Lukas Katelis,Lukas Katelis,2-6,2,6,0,1,Completed,true,false,false
+AA001033,03 Aug 19,3,Carmelite 3,Carmelite 2,No. 2,Daniil Levashov,Corey Arms,Daniil Levashov,6-3,6,3,1,0,Completed,true,false,false
+AA001033,03 Aug 19,3,Carmelite 3,Carmelite 2,No. 3,Josh Nicol,Oscar Moore,Josh Nicol,6-2,6,2,1,0,Completed,true,false,false
+AA001033,03 Aug 19,3,Carmelite 3,Carmelite 2,No. 4,Luke Mason,Ijsbrand Van Den Beiv,Ijsbrand Van Den Beiv,2-6,2,6,0,1,Completed,true,false,false
+AA001034,03 Aug 19,3,Kooyong,Port Melbourne Red,No. 1,Cooper Gardy,Hamish Farquharson,Hamish Farquharson,4-6,4,6,0,1,Completed,true,false,false
+AA001034,03 Aug 19,3,Kooyong,Port Melbourne Red,No. 2,Thomas Keller,Lachlan Gordon,Lachlan Gordon,1-6,1,6,0,1,Completed,true,false,false
+AA001034,03 Aug 19,3,Kooyong,Port Melbourne Red,No. 3,Charlotte Stern,Angelina Kotzakozidis,Charlotte Stern,6-1,6,1,1,0,Completed,true,false,false
+AA001034,03 Aug 19,3,Kooyong,Port Melbourne Red,No. 4,Wanni Godwin,Charlise Costa,Charlise Costa,3-6,3,6,0,1,Completed,true,false,false
+AA001051,17 Aug 19,5,Carmelite 3,Kooyong,No. 1,Bo Browne,Cooper Gardy,Cooper Gardy,3-6,3,6,0,1,Completed,true,false,false
+AA001051,17 Aug 19,5,Carmelite 3,Kooyong,No. 2,Sebastian Ng,Thomas Keller,Thomas Keller,0-6,0,6,0,1,Completed,true,false,false
+AA001051,17 Aug 19,5,Carmelite 3,Kooyong,No. 3,Preston Bacon,Wanni Godwin,Wanni Godwin,0-6,0,6,0,1,Completed,true,false,false
+AA001051,17 Aug 19,5,Carmelite 3,Kooyong,No. 4,Luke Mason,Annabel Whiter,Annabel Whiter,0-6,0,6,0,1,Completed,true,false,false
+AA001052,17 Aug 19,5,Royal South Yarra,Carmelite 4,No. 1,Eddie Millear,Callum McDougall,Eddie Millear,6-0,6,0,1,0,Completed,true,false,false
+AA001052,17 Aug 19,5,Royal South Yarra,Carmelite 4,No. 2,Peter Tabain,Quiney McRae-Donovan,Peter Tabain,6-0,6,0,1,0,Completed,true,false,false
+AA001052,17 Aug 19,5,Royal South Yarra,Carmelite 4,No. 3,Charlie Atkins,Charlotte Cipriano,Charlie Atkins,6-1,6,1,1,0,Completed,true,false,false
+AA001052,17 Aug 19,5,Royal South Yarra,Carmelite 4,No. 4,[Unnamed player — TROLS AA001052 home code 4],Mali Moore,[Unnamed player — TROLS AA001052 home code 4],6-1,6,1,1,0,Completed,false,false,false
+AA001053,17 Aug 19,5,Port Melbourne Red,Carmelite 2,No. 1,Hamish Farquharson,Lukas Katelis,Hamish Farquharson,6-2,6,2,1,0,Completed,true,false,false
+AA001053,17 Aug 19,5,Port Melbourne Red,Carmelite 2,No. 2,Omar Kamel,Thomas Tisdall,Thomas Tisdall,1-6,1,6,0,1,Completed,true,false,false
+AA001053,17 Aug 19,5,Port Melbourne Red,Carmelite 2,No. 3,Angelina Kotzakozidis,Corey Arms,Angelina Kotzakozidis,6-4,6,4,1,0,Completed,true,false,false
+AA001053,17 Aug 19,5,Port Melbourne Red,Carmelite 2,No. 4,Charlise Costa,Ijsbrand Van Den Beiv,Charlise Costa,6-1,6,1,1,0,Completed,true,false,false
+AA001054,17 Aug 19,5,Carmelite 1,Port Melbourne Blue,No. 1,Gibson Sinclair,Luke Kinsman,Gibson Sinclair,6-2,6,2,1,0,Completed,true,false,false
+AA001054,17 Aug 19,5,Carmelite 1,Port Melbourne Blue,No. 2,Orlando Van Bibra Falso,Jack Walters,Orlando Van Bibra Falso,6-0,6,0,1,0,Completed,true,false,false
+AA001054,17 Aug 19,5,Carmelite 1,Port Melbourne Blue,No. 3,Jet MacKenzie,Henry Hollinger,Jet MacKenzie,6-2,6,2,1,0,Completed,true,false,false
+AA001054,17 Aug 19,5,Carmelite 1,Port Melbourne Blue,No. 4,Eva Livashova,Jack Kinsman,Eva Livashova,6-0,6,0,1,0,Completed,true,false,false
+AA001061,24 Aug 19,6,Port Melbourne Blue,Carmelite 3,No. 1,Luke Kinsman,Jack Wills,Luke Kinsman,6-4,6,4,1,0,Completed,true,false,false
+AA001061,24 Aug 19,6,Port Melbourne Blue,Carmelite 3,No. 2,Mia Allen,Daniil Levashov,Daniil Levashov,6-7,6,7,0,1,Completed,true,false,false
+AA001061,24 Aug 19,6,Port Melbourne Blue,Carmelite 3,No. 3,Will Sharpin,Tommy Reynolds,Will Sharpin,6-2,6,2,1,0,Completed,true,false,false
+AA001061,24 Aug 19,6,Port Melbourne Blue,Carmelite 3,No. 4,Jack Kinsman,Luke Mason,Jack Kinsman,6-2,6,2,1,0,Completed,true,false,false
+AA001062,24 Aug 19,6,Kooyong,Carmelite 1,No. 1,Thomas Keller,Orlando Van Bibra Falso,Thomas Keller,6-4,6,4,1,0,Completed,true,false,false
+AA001062,24 Aug 19,6,Kooyong,Carmelite 1,No. 2,Mikhail Kouzionis,Jet MacKenzie,Jet MacKenzie,3-6,3,6,0,1,Completed,true,false,false
+AA001062,24 Aug 19,6,Kooyong,Carmelite 1,No. 3,Wanni Godwin,Gibson Sinclair,Gibson Sinclair,1-6,1,6,0,1,Completed,true,false,false
+AA001062,24 Aug 19,6,Kooyong,Carmelite 1,No. 4,Annabel Whiter,Eva Livashova,Eva Livashova,2-6,2,6,0,1,Completed,true,false,false
+AA001063,24 Aug 19,6,Carmelite 4,Port Melbourne Red,No. 1,Millie Tisdall,Hamish Farquharson,Hamish Farquharson,2-4,2,4,0,1,Completed,false,false,false
+AA001063,24 Aug 19,6,Carmelite 4,Port Melbourne Red,No. 2,Quiney McRae-Donovan,Omar Kamel,Omar Kamel,1-6,1,6,0,1,Completed,true,false,false
+AA001063,24 Aug 19,6,Carmelite 4,Port Melbourne Red,No. 3,Charlotte Cipriano,Lachlan Gordon,Lachlan Gordon,4-6,4,6,0,1,Completed,true,false,false
+AA001063,24 Aug 19,6,Carmelite 4,Port Melbourne Red,No. 4,Mali Moore,Angelina Kotzakozidis,Angelina Kotzakozidis,2-6,2,6,0,1,Completed,true,false,false
+AA001064,24 Aug 19,6,Carmelite 2,Royal South Yarra,No. 1,Ashton Arms,Eddie Millear,Eddie Millear,1-6,1,6,0,1,Completed,true,false,false
+AA001064,24 Aug 19,6,Carmelite 2,Royal South Yarra,No. 2,Thomas Tisdall,Peter Tabain,Thomas Tisdall,7-6,7,6,1,0,Completed,true,false,false
+AA001064,24 Aug 19,6,Carmelite 2,Royal South Yarra,No. 3,Oscar Moore,Charlie Atkins,Charlie Atkins,2-6,2,6,0,1,Completed,true,false,false
+AA001064,24 Aug 19,6,Carmelite 2,Royal South Yarra,No. 4,Ijsbrand Van Den Beiv,Boston Moran,Boston Moran,6-7,6,7,0,1,Completed,true,false,false
+AA001071,31 Aug 19,7,Carmelite 1,Carmelite 3,No. 1,Orlando Van Bibra Falso,Bo Browne,Bo Browne,2-6,2,6,0,1,Completed,true,false,false
+AA001071,31 Aug 19,7,Carmelite 1,Carmelite 3,No. 2,Jet MacKenzie,Jack Wills,Jet MacKenzie,6-1,6,1,1,0,Completed,true,false,false
+AA001071,31 Aug 19,7,Carmelite 1,Carmelite 3,No. 3,Gibson Sinclair,Josh Nicol,Gibson Sinclair,6-1,6,1,1,0,Completed,true,false,false
+AA001071,31 Aug 19,7,Carmelite 1,Carmelite 3,No. 4,Daniel Livashova,Tommy Reynolds,Daniel Livashova,6-3,6,3,1,0,Completed,true,false,false
+AA001072,31 Aug 19,7,Port Melbourne Blue,Kooyong,No. 1,Luke Kinsman,Cooper Gardy,Luke Kinsman,7-6,7,6,1,0,Completed,true,false,false
+AA001072,31 Aug 19,7,Port Melbourne Blue,Kooyong,No. 2,Jack Walters,Thomas Keller,Thomas Keller,2-6,2,6,0,1,Completed,true,false,false
+AA001072,31 Aug 19,7,Port Melbourne Blue,Kooyong,No. 3,Henry Hollinger,Megan Chang,Megan Chang,6-7,6,7,0,1,Completed,true,false,false
+AA001072,31 Aug 19,7,Port Melbourne Blue,Kooyong,No. 4,Jack Kinsman,Annabel Whiter,Jack Kinsman,6-0,6,0,1,0,Completed,true,false,false
+AA001073,31 Aug 19,7,Royal South Yarra,Port Melbourne Red,No. 1,Eddie Millear,Omar Kamel,Omar Kamel,2-6,2,6,0,1,Completed,true,false,false
+AA001073,31 Aug 19,7,Royal South Yarra,Port Melbourne Red,No. 2,Charlie Atkins,Lachlan Gordon,Lachlan Gordon,1-6,1,6,0,1,Completed,true,false,false
+AA001073,31 Aug 19,7,Royal South Yarra,Port Melbourne Red,No. 3,Henry Prentice,Angelina Kotzakozidis,Henry Prentice,6-3,6,3,1,0,Completed,true,false,false
+AA001073,31 Aug 19,7,Royal South Yarra,Port Melbourne Red,No. 4,Boston Moran,Charlise Costa,Charlise Costa,0-6,0,6,0,1,Completed,true,false,false
+AA001074,31 Aug 19,7,Carmelite 4,Carmelite 2,No. 1,Millie Tisdall,Lukas Katelis,Lukas Katelis,6-7,6,7,0,1,Completed,true,false,false
+AA001074,31 Aug 19,7,Carmelite 4,Carmelite 2,No. 2,Callum McDougall,Ashton Arms,Ashton Arms,3-6,3,6,0,1,Completed,true,false,false
+AA001074,31 Aug 19,7,Carmelite 4,Carmelite 2,No. 3,Charlotte Parletta,Thomas Tisdall,Thomas Tisdall,0-6,0,6,0,1,Completed,true,false,false
+AA001074,31 Aug 19,7,Carmelite 4,Carmelite 2,No. 4,Quiney McRae-Donovan,Oscar Moore,Quiney McRae-Donovan,6-0,6,0,1,0,Completed,true,false,false
+AA001081,07 Sep 19,8,Carmelite 2,Carmelite 1,No. 1,Ashton Arms,Eva Livashova,Eva Livashova,4-6,4,6,0,1,Completed,true,false,false
+AA001081,07 Sep 19,8,Carmelite 2,Carmelite 1,No. 2,Thomas Tisdall,Orlando Van Bibra Falso,Orlando Van Bibra Falso,2-6,2,6,0,1,Completed,true,false,false
+AA001081,07 Sep 19,8,Carmelite 2,Carmelite 1,No. 3,Corey Arms,Jet MacKenzie,Jet MacKenzie,3-6,3,6,0,1,Completed,true,false,false
+AA001081,07 Sep 19,8,Carmelite 2,Carmelite 1,No. 4,Ijsbrand Van Den Beiv,Gibson Sinclair,Gibson Sinclair,1-6,1,6,0,1,Completed,true,false,false
+AA001082,07 Sep 19,8,Port Melbourne Red,Port Melbourne Blue,No. 1,Hamish Farquharson,Jack Walters,Hamish Farquharson,6-0,6,0,1,0,Completed,true,false,false
+AA001082,07 Sep 19,8,Port Melbourne Red,Port Melbourne Blue,No. 2,Omar Kamel,Mia Allen,Omar Kamel,6-1,6,1,1,0,Completed,true,false,false
+AA001082,07 Sep 19,8,Port Melbourne Red,Port Melbourne Blue,No. 3,Angelina Kotzakozidis,Henry Hollinger,Henry Hollinger,4-6,4,6,0,1,Completed,true,false,false
+AA001082,07 Sep 19,8,Port Melbourne Red,Port Melbourne Blue,No. 4,Michaela Cifone,Will Sharpin,Will Sharpin,1-6,1,6,0,1,Completed,true,false,false
+AA001083,07 Sep 19,8,Carmelite 4,Carmelite 3,No. 1,Millie Tisdall,Bo Browne,Bo Browne,4-6,4,6,0,1,Completed,true,false,false
+AA001083,07 Sep 19,8,Carmelite 4,Carmelite 3,No. 2,Callum McDougall,Daniil Levashov,Daniil Levashov,2-6,2,6,0,1,Completed,true,false,false
+AA001083,07 Sep 19,8,Carmelite 4,Carmelite 3,No. 3,Charlotte Cipriano,Tommy Reynolds,Tommy Reynolds,0-6,0,6,0,1,Completed,true,false,false
+AA001083,07 Sep 19,8,Carmelite 4,Carmelite 3,No. 4,Mali Moore,Luke Mason,Mali Moore,6-2,6,2,1,0,Completed,true,false,false
+AA001084,07 Sep 19,8,Royal South Yarra,Kooyong,No. 1,Eddie Millear,Cooper Gardy,Eddie Millear,7-5,7,5,1,0,Completed,true,false,false
+AA001084,07 Sep 19,8,Royal South Yarra,Kooyong,No. 2,Peter Tabain,Mikhail Kouzionis,Peter Tabain,6-1,6,1,1,0,Completed,true,false,false
+AA001084,07 Sep 19,8,Royal South Yarra,Kooyong,No. 3,Henry Prentice,Megan Chang,Megan Chang,1-6,1,6,0,1,Completed,true,false,false
+AA001084,07 Sep 19,8,Royal South Yarra,Kooyong,No. 4,Boston Moran,Annabel Whiter,Annabel Whiter,1-6,1,6,0,1,Completed,true,false,false
+AA001091,14 Sep 19,9,Carmelite 1,Royal South Yarra,No. 1,Eva Livashova,Eddie Millear,Eddie Millear,0-6,0,6,0,1,Completed,true,false,false
+AA001091,14 Sep 19,9,Carmelite 1,Royal South Yarra,No. 2,Orlando Van Bibra Falso,Charlie Atkins,Orlando Van Bibra Falso,6-1,6,1,1,0,Completed,true,false,false
+AA001091,14 Sep 19,9,Carmelite 1,Royal South Yarra,No. 3,Jet MacKenzie,Boston Moran,Jet MacKenzie,6-0,6,0,1,0,Completed,true,false,false
+AA001091,14 Sep 19,9,Carmelite 1,Royal South Yarra,No. 4,Gibson Sinclair,Henry Prentice,Gibson Sinclair,6-0,6,0,1,0,Completed,true,false,false
+AA001092,14 Sep 19,9,Port Melbourne Blue,Carmelite 2,No. 1,Luke Kinsman,Lukas Katelis,Lukas Katelis,3-6,3,6,0,1,Completed,true,false,false
+AA001092,14 Sep 19,9,Port Melbourne Blue,Carmelite 2,No. 2,Jack Walters,Ashton Arms,Jack Walters,7-5,7,5,1,0,Completed,true,false,false
+AA001092,14 Sep 19,9,Port Melbourne Blue,Carmelite 2,No. 3,Will Sharpin,Corey Arms,Will Sharpin,6-0,6,0,1,0,Completed,true,false,false
+AA001092,14 Sep 19,9,Port Melbourne Blue,Carmelite 2,No. 4,Jack Kinsman,Oscar Moore,Jack Kinsman,6-1,6,1,1,0,Completed,true,false,false
+AA001093,14 Sep 19,9,Carmelite 3,Port Melbourne Red,No. 1,Bo Browne,Hamish Farquharson,Hamish Farquharson,2-6,2,6,0,1,Completed,true,false,false
+AA001093,14 Sep 19,9,Carmelite 3,Port Melbourne Red,No. 2,Jack Wills,Omar Kamel,Jack Wills,6-2,6,2,1,0,Completed,true,false,false
+AA001093,14 Sep 19,9,Carmelite 3,Port Melbourne Red,No. 3,Daniil Levashov,Angelina Kotzakozidis,Daniil Levashov,7-5,7,5,1,0,Completed,true,false,false
+AA001093,14 Sep 19,9,Carmelite 3,Port Melbourne Red,No. 4,Luke Mason,Charlise Costa,Charlise Costa,0-6,0,6,0,1,Completed,true,false,false
+AA001094,14 Sep 19,9,Kooyong,Carmelite 4,No. 1,Cooper Gardy,Millie Tisdall,Cooper Gardy,6-3,6,3,1,0,Completed,true,false,false
+AA001094,14 Sep 19,9,Kooyong,Carmelite 4,No. 2,Mikhail Kouzionis,Callum McDougall,Mikhail Kouzionis,6-0,6,0,1,0,Completed,true,false,false
+AA001094,14 Sep 19,9,Kooyong,Carmelite 4,No. 3,Megan Chang,Quiney McRae-Donovan,Megan Chang,6-3,6,3,1,0,Completed,true,false,false
+AA001094,14 Sep 19,9,Kooyong,Carmelite 4,No. 4,Wanni Godwin,Charlotte Parletta,Charlotte Parletta,1-6,1,6,0,1,Completed,true,false,false
+AA001101,12 Oct 19,10,Carmelite 4,Carmelite 1,No. 1,Millie Tisdall,Eva Livashova,Eva Livashova,1-6,1,6,0,1,Completed,true,false,false
+AA001101,12 Oct 19,10,Carmelite 4,Carmelite 1,No. 2,Quiney McRae-Donovan,Orlando Van Bibra Falso,Orlando Van Bibra Falso,0-6,0,6,0,1,Completed,true,false,false
+AA001101,12 Oct 19,10,Carmelite 4,Carmelite 1,No. 3,Charlotte Cipriano,Jet MacKenzie,Jet MacKenzie,0-6,0,6,0,1,Completed,true,false,false
+AA001101,12 Oct 19,10,Carmelite 4,Carmelite 1,No. 4,Mali Moore,Gibson Sinclair,Gibson Sinclair,0-6,0,6,0,1,Completed,true,false,false
+AA001102,12 Oct 19,10,Royal South Yarra,Port Melbourne Blue,No. 1,Eddie Millear,Luke Kinsman,Luke Kinsman,1-2,1,2,0,1,Completed,false,false,false
+AA001102,12 Oct 19,10,Royal South Yarra,Port Melbourne Blue,No. 2,Boston Moran,Jack Walters,Jack Walters,1-6,1,6,0,1,Completed,true,false,false
+AA001102,12 Oct 19,10,Royal South Yarra,Port Melbourne Blue,No. 3,Peter Tabain,Henry Hollinger,Henry Hollinger,2-6,2,6,0,1,Completed,true,false,false
+AA001102,12 Oct 19,10,Royal South Yarra,Port Melbourne Blue,No. 4,Charlie Atkins,Jack Kinsman,Jack Kinsman,2-6,2,6,0,1,Completed,true,false,false
+AA001103,12 Oct 19,10,Carmelite 2,Carmelite 3,No. 1,Ashton Arms,Bo Browne,Bo Browne,1-6,1,6,0,1,Completed,true,false,false
+AA001103,12 Oct 19,10,Carmelite 2,Carmelite 3,No. 2,Corey Arms,Josh Nicol,Josh Nicol,1-6,1,6,0,1,Completed,true,false,false
+AA001103,12 Oct 19,10,Carmelite 2,Carmelite 3,No. 3,Oscar Moore,Tommy Reynolds,Tommy Reynolds,1-6,1,6,0,1,Completed,true,false,false
+AA001103,12 Oct 19,10,Carmelite 2,Carmelite 3,No. 4,Ijsbrand Van Den Beiv,Luke Mason,Ijsbrand Van Den Beiv,6-2,6,2,1,0,Completed,true,false,false
+AA001104,12 Oct 19,10,Port Melbourne Red,Kooyong,No. 1,Hamish Farquharson,Cooper Gardy,Cooper Gardy,1-2,1,2,0,1,Completed,false,false,false
+AA001104,12 Oct 19,10,Port Melbourne Red,Kooyong,No. 2,Omar Kamel,Thomas Keller,Omar Kamel,7-5,7,5,1,0,Completed,true,false,false
+AA001104,12 Oct 19,10,Port Melbourne Red,Kooyong,No. 3,Angelina Kotzakozidis,Charlotte Stern,Charlotte Stern,3-6,3,6,0,1,Completed,true,false,false
+AA001104,12 Oct 19,10,Port Melbourne Red,Kooyong,No. 4,Charlise Costa,Megan Chang,Megan Chang,4-6,4,6,0,1,Completed,true,false,false
+AA001111,19 Oct 19,11,Carmelite 1,Port Melbourne Red,No. 1,Eva Livashova,Hamish Farquharson,Hamish Farquharson,0-6,0,6,0,1,Completed,true,false,false
+AA001111,19 Oct 19,11,Carmelite 1,Port Melbourne Red,No. 2,Orlando Van Bibra Falso,Omar Kamel,Omar Kamel,2-6,2,6,0,1,Completed,true,false,false
+AA001111,19 Oct 19,11,Carmelite 1,Port Melbourne Red,No. 3,Jet MacKenzie,Lachlan Gordon,Lachlan Gordon,6-7,6,7,0,1,Completed,true,false,false
+AA001111,19 Oct 19,11,Carmelite 1,Port Melbourne Red,No. 4,Gibson Sinclair,Angelina Kotzakozidis,Gibson Sinclair,6-1,6,1,1,0,Completed,true,false,false
+AA001112,19 Oct 19,11,Port Melbourne Blue,Carmelite 4,No. 1,Luke Kinsman,Millie Tisdall,Luke Kinsman,6-3,6,3,1,0,Completed,true,false,false
+AA001112,19 Oct 19,11,Port Melbourne Blue,Carmelite 4,No. 2,Jack Walters,Callum McDougall,Jack Walters,6-2,6,2,1,0,Completed,true,false,false
+AA001112,19 Oct 19,11,Port Melbourne Blue,Carmelite 4,No. 3,Henry Hollinger,Quiney McRae-Donovan,Quiney McRae-Donovan,2-6,2,6,0,1,Completed,true,false,false
+AA001112,19 Oct 19,11,Port Melbourne Blue,Carmelite 4,No. 4,Jack Kinsman,Mali Moore,Jack Kinsman,6-1,6,1,1,0,Completed,true,false,false
+AA001113,19 Oct 19,11,Carmelite 3,Royal South Yarra,No. 1,Bo Browne,Eddie Millear,Bo Browne,6-1,6,1,1,0,Completed,true,false,false
+AA001113,19 Oct 19,11,Carmelite 3,Royal South Yarra,No. 2,Jack Wills,Peter Tabain,Peter Tabain,2-6,2,6,0,1,Completed,true,false,false
+AA001113,19 Oct 19,11,Carmelite 3,Royal South Yarra,No. 3,Daniil Levashov,Charlie Atkins,Charlie Atkins,3-6,3,6,0,1,Completed,true,false,false
+AA001113,19 Oct 19,11,Carmelite 3,Royal South Yarra,No. 4,Tommy Reynolds,Boston Moran,Tommy Reynolds,6-2,6,2,1,0,Completed,true,false,false
+AA001114,19 Oct 19,11,Kooyong,Carmelite 2,No. 1,Cooper Gardy,Thomas Tisdall,Thomas Tisdall,4-6,4,6,0,1,Completed,true,false,false
+AA001114,19 Oct 19,11,Kooyong,Carmelite 2,No. 2,Mikhail Kouzionis,Corey Arms,Mikhail Kouzionis,6-2,6,2,1,0,Completed,true,false,false
+AA001114,19 Oct 19,11,Kooyong,Carmelite 2,No. 3,Charlotte Stern,Oscar Moore,Charlotte Stern,6-2,6,2,1,0,Completed,true,false,false
+AA001114,19 Oct 19,11,Kooyong,Carmelite 2,No. 4,Annabel Whiter,Ijsbrand Van Den Beiv,Annabel Whiter,7-6,7,6,1,0,Completed,true,false,false
+AA001131,09 Nov 19,13,Carmelite 3,Port Melbourne Blue,No. 1,Bo Browne,Luke Kinsman,Bo Browne,6-3,6,3,1,0,Completed,true,false,false
+AA001131,09 Nov 19,13,Carmelite 3,Port Melbourne Blue,No. 2,Jack Wills,Jack Walters,Jack Wills,6-0,6,0,1,0,Completed,true,false,false
+AA001131,09 Nov 19,13,Carmelite 3,Port Melbourne Blue,No. 3,Josh Nicol,Henry Hollinger,Josh Nicol,7-5,7,5,1,0,Completed,true,false,false
+AA001131,09 Nov 19,13,Carmelite 3,Port Melbourne Blue,No. 4,Luke Mason,Jack Kinsman,Jack Kinsman,0-6,0,6,0,1,Completed,true,false,false
+AA001132,09 Nov 19,13,Carmelite 1,Kooyong,No. 1,Eva Livashova,Cooper Gardy,Cooper Gardy,3-6,3,6,0,1,Completed,true,false,false
+AA001132,09 Nov 19,13,Carmelite 1,Kooyong,No. 2,Orlando Van Bibra Falso,Thomas Keller,Orlando Van Bibra Falso,6-3,6,3,1,0,Completed,true,false,false
+AA001132,09 Nov 19,13,Carmelite 1,Kooyong,No. 3,Jet MacKenzie,Megan Chang,Jet MacKenzie,6-3,6,3,1,0,Completed,true,false,false
+AA001132,09 Nov 19,13,Carmelite 1,Kooyong,No. 4,Gibson Sinclair,Wanni Godwin,Gibson Sinclair,6-0,6,0,1,0,Completed,true,false,false
+AA001133,09 Nov 19,13,Port Melbourne Red,Carmelite 4,No. 1,Hamish Farquharson,Millie Tisdall,Hamish Farquharson,6-1,6,1,1,0,Completed,true,false,false
+AA001133,09 Nov 19,13,Port Melbourne Red,Carmelite 4,No. 2,Omar Kamel,Quiney McRae-Donovan,Omar Kamel,6-1,6,1,1,0,Completed,true,false,false
+AA001133,09 Nov 19,13,Port Melbourne Red,Carmelite 4,No. 3,Angelina Kotzakozidis,Mali Moore,Angelina Kotzakozidis,6-2,6,2,1,0,Completed,true,false,false
+AA001133,09 Nov 19,13,Port Melbourne Red,Carmelite 4,No. 4,Charlise Costa,Cameron Collins,Charlise Costa,6-0,6,0,1,0,Completed,true,false,false
+AA001134,09 Nov 19,13,Royal South Yarra,Carmelite 2,No. 1,Eddie Millear,Lukas Katelis,Eddie Millear,6-3,6,3,1,0,Completed,true,false,false
+AA001134,09 Nov 19,13,Royal South Yarra,Carmelite 2,No. 2,Peter Tabain,Thomas Tisdall,Peter Tabain,6-4,6,4,1,0,Completed,true,false,false
+AA001134,09 Nov 19,13,Royal South Yarra,Carmelite 2,No. 3,Charlie Atkins,Oscar Moore,Charlie Atkins,6-1,6,1,1,0,Completed,true,false,false
+AA001134,09 Nov 19,13,Royal South Yarra,Carmelite 2,No. 4,Henry Prentice,Ijsbrand Van Den Beiv,Ijsbrand Van Den Beiv,3-6,3,6,0,1,Completed,true,false,false
+AA001141,16 Nov 19,14,Carmelite 3,Carmelite 1,No. 1,Bo Browne,Eva Livashova,Bo Browne,6-2,6,2,1,0,Completed,true,false,false
+AA001141,16 Nov 19,14,Carmelite 3,Carmelite 1,No. 2,Jack Wills,Orlando Van Bibra Falso,Jack Wills,6-4,6,4,1,0,Completed,true,false,false
+AA001141,16 Nov 19,14,Carmelite 3,Carmelite 1,No. 3,Daniil Levashov,Jet MacKenzie,Jet MacKenzie,0-6,0,6,0,1,Completed,true,false,false
+AA001141,16 Nov 19,14,Carmelite 3,Carmelite 1,No. 4,Luke Mason,Gibson Sinclair,Gibson Sinclair,1-6,1,6,0,1,Completed,true,false,false
+AA001142,16 Nov 19,14,Kooyong,Port Melbourne Blue,No. 1,Cooper Gardy,Luke Kinsman,Luke Kinsman,4-6,4,6,0,1,Completed,true,false,false
+AA001142,16 Nov 19,14,Kooyong,Port Melbourne Blue,No. 2,Thomas Keller,Jack Walters,Thomas Keller,6-4,6,4,1,0,Completed,true,false,false
+AA001142,16 Nov 19,14,Kooyong,Port Melbourne Blue,No. 3,Mikhail Kouzionis,Henry Hollinger,Henry Hollinger,4-6,4,6,0,1,Completed,true,false,false
+AA001142,16 Nov 19,14,Kooyong,Port Melbourne Blue,No. 4,Megan Chang,Jack Kinsman,Megan Chang,6-2,6,2,1,0,Completed,true,false,false
+AA001143,16 Nov 19,14,Port Melbourne Red,Royal South Yarra,No. 1,Hamish Farquharson,Peter Tabain,Hamish Farquharson,7-6,7,6,1,0,Completed,true,false,false
+AA001143,16 Nov 19,14,Port Melbourne Red,Royal South Yarra,No. 2,Lachlan Gordon,Charlie Atkins,Lachlan Gordon,6-0,6,0,1,0,Completed,true,false,false
+AA001143,16 Nov 19,14,Port Melbourne Red,Royal South Yarra,No. 3,Angelina Kotzakozidis,Henry Prentice,Henry Prentice,6-7,6,7,0,1,Completed,true,false,false
+AA001143,16 Nov 19,14,Port Melbourne Red,Royal South Yarra,No. 4,Omar Kamel,Boston Moran,Omar Kamel,6-0,6,0,1,0,Completed,true,false,false
+AA001144,16 Nov 19,14,Carmelite 2,Carmelite 4,No. 1,Lukas Katelis,Millie Tisdall,Millie Tisdall,0-6,0,6,0,1,Completed,true,false,false
+AA001144,16 Nov 19,14,Carmelite 2,Carmelite 4,No. 2,Ashton Arms,Callum McDougall,Ashton Arms,6-0,6,0,1,0,Completed,true,false,false
+AA001144,16 Nov 19,14,Carmelite 2,Carmelite 4,No. 3,Corey Arms,Quiney McRae-Donovan,Quiney McRae-Donovan,1-6,1,6,0,1,Completed,true,false,false
+AA001144,16 Nov 19,14,Carmelite 2,Carmelite 4,No. 4,Ijsbrand Van Den Beiv,Charlotte Cipriano,Ijsbrand Van Den Beiv,6-4,6,4,1,0,Completed,true,false,false
+AA001301,,16,Carmelite 1,Carmelite 3,No. 1,Eva Livashova,Bo Browne,Bo Browne,2-6,2,6,0,1,Completed,true,false,false
+AA001301,,16,Carmelite 1,Carmelite 3,No. 2,Orlando Van Bibra Falso,Jack Wills,Orlando Van Bibra Falso,6-3,6,3,1,0,Completed,true,false,false
+AA001301,,16,Carmelite 1,Carmelite 3,No. 3,Jet MacKenzie,Josh Nicol,Jet MacKenzie,6-0,6,0,1,0,Completed,true,false,false
+AA001301,,16,Carmelite 1,Carmelite 3,No. 4,Gibson Sinclair,Tommy Reynolds,Gibson Sinclair,6-0,6,0,1,0,Completed,true,false,false
+AA001302,,16,Port Melbourne Red,Kooyong,No. 1,Hamish Farquharson,Thomas Keller,Hamish Farquharson,6-0,6,0,1,0,Completed,true,false,false
+AA001302,,16,Port Melbourne Red,Kooyong,No. 2,Omar Kamel,Mikhail Kouzionis,Omar Kamel,7-5,7,5,1,0,Completed,true,false,false
+AA001302,,16,Port Melbourne Red,Kooyong,No. 3,Angelina Kotzakozidis,Megan Chang,Megan Chang,3-6,3,6,0,1,Completed,true,false,false
+AA001302,,16,Port Melbourne Red,Kooyong,No. 4,Charlise Costa,Annabel Whiter,Charlise Costa,6-2,6,2,1,0,Completed,true,false,true
+AA001321,,17,Carmelite 1,Port Melbourne Red,No. 1,Eva Livashova,Hamish Farquharson,Hamish Farquharson,1-6,1,6,0,1,Completed,true,false,false
+AA001321,,17,Carmelite 1,Port Melbourne Red,No. 2,Orlando Van Bibra Falso,Omar Kamel,Orlando Van Bibra Falso,6-3,6,3,1,0,Completed,true,false,false
+AA001321,,17,Carmelite 1,Port Melbourne Red,No. 3,Jet MacKenzie,Angelina Kotzakozidis,Jet MacKenzie,6-0,6,0,1,0,Completed,true,false,false
+AA001321,,17,Carmelite 1,Port Melbourne Red,No. 4,Gibson Sinclair,Charlise Costa,Gibson Sinclair,6-1,6,1,1,0,Completed,true,false,false

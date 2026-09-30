@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA24-UA010",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2019",
+  "season_id": "UA24",
+  "season_label": "Autumn 2019",
+  "source_section_code": "UA010",
+  "section_label": "Section 10",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC Bodley",
+      "wins": 11,
+      "points": 111,
+      "percentage": 160.23,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Royal South Yarra 1",
+      "wins": 11,
+      "points": 103,
+      "percentage": 168.5,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 10,
+      "points": 94,
+      "percentage": 133.56,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Black Rock",
+      "wins": 7,
+      "points": 74,
+      "percentage": 101.36,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal South Yarra 2",
+      "wins": 5,
+      "points": 57,
+      "percentage": 89.01,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Glen Eira",
+      "wins": 5,
+      "points": 54,
+      "percentage": 79.27,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Tennis World",
+      "wins": 3,
+      "points": 43,
+      "percentage": 67.75,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave",
+      "wins": 0,
+      "points": 24,
+      "percentage": 60.31,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA24-UA010",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

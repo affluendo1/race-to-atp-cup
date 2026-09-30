@@ -1,0 +1,205 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA005011,01 Feb 26,1,Kooyong,Glen Huntly,No. 1,Lisette Wollin,Timothy Kalapoutis,Timothy Kalapoutis,2-6,2,6,0,1,Completed,true,false,true
+UA005011,01 Feb 26,1,Kooyong,Glen Huntly,No. 2,Jeremy Samuel,Atticus Dhimann,Atticus Dhimann,1-6,1,6,0,1,Completed,true,false,false
+UA005011,01 Feb 26,1,Kooyong,Glen Huntly,No. 3,Will Morris,Jamie Dodd,Will Morris,6-0,6,0,1,0,Completed,true,false,false
+UA005011,01 Feb 26,1,Kooyong,Glen Huntly,No. 4,Hugo Samuel,Amir Egre,Amir Egre,2-6,2,6,0,1,Completed,true,false,false
+UA005012,01 Feb 26,1,GPHC Blue,GPHC Yellow,No. 1,Jeremy Wong,Riley Bladeni,Jeremy Wong,6-3,6,3,1,0,Completed,true,false,false
+UA005012,01 Feb 26,1,GPHC Blue,GPHC Yellow,No. 2,Patrick Cassidy,Ned Jeffreys,Patrick Cassidy,6-1,6,1,1,0,Completed,true,false,false
+UA005012,01 Feb 26,1,GPHC Blue,GPHC Yellow,No. 3,Caitlin Cassidy,Jenson Ooi,Jenson Ooi,3-6,3,6,0,1,Completed,true,false,true
+UA005012,01 Feb 26,1,GPHC Blue,GPHC Yellow,No. 4,Oscar Hilbert,Eli Jeffreys,Oscar Hilbert,6-3,6,3,1,0,Completed,true,false,false
+UA005013,01 Feb 26,1,Royal Ave,FCTC,No. 1,Jack Watson,Maddy Flavelle,Jack Watson,7-5,7,5,1,0,Completed,true,false,false
+UA005013,01 Feb 26,1,Royal Ave,FCTC,No. 2,Nick Danaher,Harli Bartling,Nick Danaher,6-4,6,4,1,0,Completed,true,false,true
+UA005013,01 Feb 26,1,Royal Ave,FCTC,No. 3,Vadim Goreux,Max Rosoman,Vadim Goreux,6-4,6,4,1,0,Completed,true,true,false
+UA005013,01 Feb 26,1,Royal Ave,FCTC,No. 4,Sia Kasapidis,Millie Rosoman,Millie Rosoman,3-6,3,6,0,1,Completed,true,true,false
+UA005014,01 Feb 26,1,Murrumbeena,Dendy Park,No. 1,Congwen (leo) Shen,Zulu Kumar,Congwen (leo) Shen,7-5,7,5,1,0,Completed,true,false,false
+UA005014,01 Feb 26,1,Murrumbeena,Dendy Park,No. 2,Janoah Gray-Taito,James Kim,James Kim,6-7,6,7,0,1,Completed,true,false,false
+UA005014,01 Feb 26,1,Murrumbeena,Dendy Park,No. 3,Ishaan Nagpal,William Wang,Ishaan Nagpal,6-1,6,1,1,0,Completed,true,false,false
+UA005014,01 Feb 26,1,Murrumbeena,Dendy Park,No. 4,Ivaan Joshi,Owen Yu,Owen Yu,4-6,4,6,0,1,Completed,true,false,false
+UA005021,08 Feb 26,2,Dendy Park,Kooyong,No. 1,Zulu Kumar,Jeremy Samuel,Jeremy Samuel,3-6,3,6,0,1,Completed,true,false,false
+UA005021,08 Feb 26,2,Dendy Park,Kooyong,No. 2,James Kim,Will Morris,Will Morris,4-6,4,6,0,1,Completed,true,false,false
+UA005021,08 Feb 26,2,Dendy Park,Kooyong,No. 3,Owen Yu,Freddie Tulloch,Owen Yu,7-6,7,6,1,0,Completed,true,false,false
+UA005021,08 Feb 26,2,Dendy Park,Kooyong,No. 4,Anikin Margis,Hugo Samuel,Hugo Samuel,4-6,4,6,0,1,Completed,true,false,false
+UA005022,08 Feb 26,2,Glen Huntly,GPHC Blue,No. 1,Timothy Kalapoutis,Jeremy Wong,Timothy Kalapoutis,6-2,6,2,1,0,Completed,true,true,false
+UA005022,08 Feb 26,2,Glen Huntly,GPHC Blue,No. 2,Atticus Dhimann,Patrick Cassidy,Atticus Dhimann,6-1,6,1,1,0,Completed,true,false,false
+UA005022,08 Feb 26,2,Glen Huntly,GPHC Blue,No. 3,Anastasia Udriste,Claire Lo,Anastasia Udriste,6-4,6,4,1,0,Completed,true,false,false
+UA005022,08 Feb 26,2,Glen Huntly,GPHC Blue,No. 4,Gabriella Duieb,Oliver Chew,Oliver Chew,3-6,3,6,0,1,Completed,true,false,false
+UA005023,08 Feb 26,2,GPHC Yellow,Royal Ave,No. 1,Riley Bladeni,Charlie Vakrinos,Charlie Vakrinos,5-7,5,7,0,1,Completed,true,false,false
+UA005023,08 Feb 26,2,GPHC Yellow,Royal Ave,No. 2,Archer Black,Jack Watson,Archer Black,7-5,7,5,1,0,Completed,true,false,false
+UA005023,08 Feb 26,2,GPHC Yellow,Royal Ave,No. 3,Tahlia Zangalis,Nick Danaher,Nick Danaher,4-6,4,6,0,1,Completed,true,false,false
+UA005023,08 Feb 26,2,GPHC Yellow,Royal Ave,No. 4,Eli Jeffreys,Juliette Hostein,Juliette Hostein,4-6,4,6,0,1,Completed,true,false,false
+UA005024,08 Feb 26,2,FCTC,Murrumbeena,No. 1,Myra Janjua,Phelix Ma,Myra Janjua,6-2,6,2,1,0,Completed,true,false,false
+UA005024,08 Feb 26,2,FCTC,Murrumbeena,No. 2,Max Rosoman,Janoah Gray-Taito,Janoah Gray-Taito,5-7,5,7,0,1,Completed,true,false,false
+UA005024,08 Feb 26,2,FCTC,Murrumbeena,No. 3,Mischa Harris,Ishaan Nagpal,Ishaan Nagpal,3-6,3,6,0,1,Completed,true,false,false
+UA005024,08 Feb 26,2,FCTC,Murrumbeena,No. 4,Millie Rosoman,Ivaan Joshi,Millie Rosoman,6-4,6,4,1,0,Completed,true,false,false
+UA005031,15 Feb 26,3,Kooyong,FCTC,No. 1,Lisette Wollin,Myra Janjua,Myra Janjua,2-6,2,6,0,1,Completed,true,false,false
+UA005031,15 Feb 26,3,Kooyong,FCTC,No. 2,Freddie Tulloch,Maddy Flavelle,Freddie Tulloch,6-2,6,2,1,0,Completed,true,false,false
+UA005031,15 Feb 26,3,Kooyong,FCTC,No. 3,Hugo Samuel,Max Rosoman,Hugo Samuel,7-5,7,5,1,0,Completed,true,false,false
+UA005031,15 Feb 26,3,Kooyong,FCTC,No. 4,Nate O'Donoghue,Millie Rosoman,Nate O'Donoghue,7-5,7,5,1,0,Completed,true,true,false
+UA005032,15 Feb 26,3,GPHC Blue,Dendy Park,No. 1,Caitlin Cassidy,Zulu Kumar,Zulu Kumar,5-7,5,7,0,1,Completed,true,false,false
+UA005032,15 Feb 26,3,GPHC Blue,Dendy Park,No. 2,Oscar Hilbert,James Kim,Oscar Hilbert,7-6,7,6,1,0,Completed,true,false,false
+UA005032,15 Feb 26,3,GPHC Blue,Dendy Park,No. 3,Claire Lo,Anikin Margis,Claire Lo,6-0,6,0,1,0,Completed,true,false,false
+UA005032,15 Feb 26,3,GPHC Blue,Dendy Park,No. 4,Oliver Chew,Mark Lu,Mark Lu,2-6,2,6,0,1,Completed,true,false,false
+UA005033,15 Feb 26,3,Royal Ave,Glen Huntly,No. 1,Charlie Vakrinos,Timothy Kalapoutis,Timothy Kalapoutis,5-7,5,7,0,1,Completed,true,false,true
+UA005033,15 Feb 26,3,Royal Ave,Glen Huntly,No. 2,Nick Danaher,Atticus Dhimann,Atticus Dhimann,4-6,4,6,0,1,Completed,true,false,false
+UA005033,15 Feb 26,3,Royal Ave,Glen Huntly,No. 3,Juliette Hostein,Jamie Dodd,Jamie Dodd,2-6,2,6,0,1,Completed,true,false,false
+UA005033,15 Feb 26,3,Royal Ave,Glen Huntly,No. 4,Vadim Goreux,Amir Egre,Amir Egre,3-6,3,6,0,1,Completed,true,true,false
+UA005034,15 Feb 26,3,Murrumbeena,GPHC Yellow,No. 1,Azure Shih,Riley Bladeni,Azure Shih,6-2,6,2,1,0,Completed,true,true,false
+UA005034,15 Feb 26,3,Murrumbeena,GPHC Yellow,No. 2,Farah Jaghori,Tahlia Zangalis,Farah Jaghori,6-4,6,4,1,0,Completed,true,true,false
+UA005034,15 Feb 26,3,Murrumbeena,GPHC Yellow,No. 3,Ishaan Nagpal,Eli Jeffreys,Ishaan Nagpal,6-3,6,3,1,0,Completed,true,false,false
+UA005034,15 Feb 26,3,Murrumbeena,GPHC Yellow,No. 4,Ivaan Joshi,Arata Tanaka,Arata Tanaka,4-6,4,6,0,1,Completed,true,false,true
+UA005041,22 Feb 26,4,GPHC Yellow,Kooyong,No. 1,Riley Bladeni,Lisette Wollin,Lisette Wollin,2-6,2,6,0,1,Completed,true,false,false
+UA005041,22 Feb 26,4,GPHC Yellow,Kooyong,No. 2,Archer Black,Will Morris,Will Morris,2-6,2,6,0,1,Completed,true,false,false
+UA005041,22 Feb 26,4,GPHC Yellow,Kooyong,No. 3,Tahlia Zangalis,Freddie Tulloch,Freddie Tulloch,0-6,0,6,0,1,Completed,true,false,false
+UA005041,22 Feb 26,4,GPHC Yellow,Kooyong,No. 4,Eli Jeffreys,Hugo Samuel,Hugo Samuel,2-6,2,6,0,1,Completed,true,false,false
+UA005042,22 Feb 26,4,FCTC,GPHC Blue,No. 1,Myra Janjua,Jeremy Wong,Myra Janjua,6-1,6,1,1,0,Completed,true,false,false
+UA005042,22 Feb 26,4,FCTC,GPHC Blue,No. 2,Max Rosoman,Caitlin Cassidy,Max Rosoman,6-4,6,4,1,0,Completed,true,false,false
+UA005042,22 Feb 26,4,FCTC,GPHC Blue,No. 3,Mischa Harris,Claire Lo,Claire Lo,3-6,3,6,0,1,Completed,true,false,false
+UA005042,22 Feb 26,4,FCTC,GPHC Blue,No. 4,Millie Rosoman,Oliver Chew,Oliver Chew,2-6,2,6,0,1,Completed,true,false,false
+UA005043,22 Feb 26,4,Dendy Park,Royal Ave,No. 1,Zulu Kumar,Charlie Vakrinos,Charlie Vakrinos,1-6,1,6,0,1,Completed,true,false,false
+UA005043,22 Feb 26,4,Dendy Park,Royal Ave,No. 2,Owen Yu,Jack Watson,Owen Yu,6-4,6,4,1,0,Completed,true,false,false
+UA005043,22 Feb 26,4,Dendy Park,Royal Ave,No. 3,Anikin Margis,Nick Danaher,Nick Danaher,4-6,4,6,0,1,Completed,true,false,false
+UA005043,22 Feb 26,4,Dendy Park,Royal Ave,No. 4,Mark Lu,Vadim Goreux,Vadim Goreux,2-6,2,6,0,1,Completed,true,false,true
+UA005044,22 Feb 26,4,Glen Huntly,Murrumbeena,No. 1,Timothy Kalapoutis,Congwen (leo) Shen,Timothy Kalapoutis,6-3,6,3,1,0,Completed,true,true,false
+UA005044,22 Feb 26,4,Glen Huntly,Murrumbeena,No. 2,Atticus Dhimann,Phelix Ma,Phelix Ma,3-6,3,6,0,1,Completed,true,false,false
+UA005044,22 Feb 26,4,Glen Huntly,Murrumbeena,No. 3,Anastasia Udriste,Ishaan Nagpal,Ishaan Nagpal,5-7,5,7,0,1,Completed,true,false,false
+UA005044,22 Feb 26,4,Glen Huntly,Murrumbeena,No. 4,Gabriella Duieb,Ryan Yang,Gabriella Duieb,6-2,6,2,1,0,Completed,true,false,true
+UA005051,01 Mar 26,5,Royal Ave,Murrumbeena,No. 1,Jack Watson,Zhun Chen Teoh,Zhun Chen Teoh,0-6,0,6,0,1,Completed,true,false,true
+UA005051,01 Mar 26,5,Royal Ave,Murrumbeena,No. 2,Nick Danaher,Phelix Ma,Phelix Ma,6-7,6,7,0,1,Completed,true,false,false
+UA005051,01 Mar 26,5,Royal Ave,Murrumbeena,No. 3,Juliette Hostein,Janoah Gray-Taito,Janoah Gray-Taito,1-6,1,6,0,1,Completed,true,false,false
+UA005051,01 Mar 26,5,Royal Ave,Murrumbeena,No. 4,Vadim Goreux,Ishaan Nagpal,Ishaan Nagpal,6-7,6,7,0,1,Completed,true,true,false
+UA005052,01 Mar 26,5,Dendy Park,FCTC,No. 1,James Kim,Myra Janjua,Myra Janjua,1-6,1,6,0,1,Completed,true,false,false
+UA005052,01 Mar 26,5,Dendy Park,FCTC,No. 2,William Wang,Max Rosoman,William Wang,6-2,6,2,1,0,Completed,true,false,false
+UA005052,01 Mar 26,5,Dendy Park,FCTC,No. 3,Owen Yu,Mischa Harris,Mischa Harris,3-6,3,6,0,1,Completed,true,false,false
+UA005052,01 Mar 26,5,Dendy Park,FCTC,No. 4,Anikin Margis,Millie Rosoman,Anikin Margis,6-2,6,2,1,0,Completed,true,false,false
+UA005053,01 Mar 26,5,GPHC Yellow,Glen Huntly,No. 1,Riley Bladeni,Jamie Dodd,Riley Bladeni,7-6,7,6,1,0,Completed,true,false,false
+UA005053,01 Mar 26,5,GPHC Yellow,Glen Huntly,No. 2,Ned Jeffreys,Anastasia Udriste,Ned Jeffreys,6-3,6,3,1,0,Completed,true,false,false
+UA005053,01 Mar 26,5,GPHC Yellow,Glen Huntly,No. 3,Archer Black,Gabriella Duieb,Archer Black,7-6,7,6,1,0,Completed,true,false,false
+UA005053,01 Mar 26,5,GPHC Yellow,Glen Huntly,No. 4,Tahlia Zangalis,Amir Egre,Amir Egre,0-6,0,6,0,1,Completed,true,false,false
+UA005054,01 Mar 26,5,Kooyong,GPHC Blue,No. 1,Lisette Wollin,Jeremy Wong,Lisette Wollin,6-1,6,1,1,0,Completed,true,false,false
+UA005054,01 Mar 26,5,Kooyong,GPHC Blue,No. 2,Jeremy Samuel,Patrick Cassidy,Jeremy Samuel,6-4,6,4,1,0,Completed,true,false,false
+UA005054,01 Mar 26,5,Kooyong,GPHC Blue,No. 3,Will Morris,Oscar Hilbert,Will Morris,6-3,6,3,1,0,Completed,true,false,false
+UA005054,01 Mar 26,5,Kooyong,GPHC Blue,No. 4,Freddie Tulloch,Oliver Chew,Freddie Tulloch,6-1,6,1,1,0,Completed,true,false,false
+UA005061,15 Mar 26,6,GPHC Blue,Royal Ave,No. 1,Jeremy Wong,Charlie Vakrinos,Charlie Vakrinos,2-6,2,6,0,1,Completed,true,false,false
+UA005061,15 Mar 26,6,GPHC Blue,Royal Ave,No. 2,Caitlin Cassidy,Jack Watson,Jack Watson,4-6,4,6,0,1,Completed,true,false,false
+UA005061,15 Mar 26,6,GPHC Blue,Royal Ave,No. 3,Claire Lo,Nick Danaher,Nick Danaher,4-6,4,6,0,1,Completed,true,false,false
+UA005061,15 Mar 26,6,GPHC Blue,Royal Ave,No. 4,Oliver Chew,Juliette Hostein,Oliver Chew,7-6,7,6,1,0,Completed,true,false,false
+UA005062,15 Mar 26,6,Murrumbeena,Kooyong,No. 1,Congwen (leo) Shen,Lisette Wollin,Congwen (leo) Shen,6-1,6,1,1,0,Completed,true,false,false
+UA005062,15 Mar 26,6,Murrumbeena,Kooyong,No. 2,Phelix Ma,Jihoo Kim,Phelix Ma,6-0,6,0,1,0,Completed,true,false,true
+UA005062,15 Mar 26,6,Murrumbeena,Kooyong,No. 3,Janoah Gray-Taito,Theo Edelstein,Theo Edelstein,3-6,3,6,0,1,Completed,true,false,true
+UA005062,15 Mar 26,6,Murrumbeena,Kooyong,No. 4,Ivaan Joshi,Hugo Samuel,Hugo Samuel,3-6,3,6,0,1,Completed,true,false,false
+UA005063,15 Mar 26,6,FCTC,GPHC Yellow,No. 1,Zelin Cong,Riley Bladeni,Zelin Cong,6-1,6,1,1,0,Completed,true,false,false
+UA005063,15 Mar 26,6,FCTC,GPHC Yellow,No. 2,Harry Grose,Archer Black,Harry Grose,7-5,7,5,1,0,Completed,true,false,false
+UA005063,15 Mar 26,6,FCTC,GPHC Yellow,No. 3,Max Rosoman,Tahlia Zangalis,Max Rosoman,6-2,6,2,1,0,Completed,true,false,false
+UA005063,15 Mar 26,6,FCTC,GPHC Yellow,No. 4,Mischa Harris,Eli Jeffreys,Mischa Harris,6-1,6,1,1,0,Completed,true,false,false
+UA005064,15 Mar 26,6,Glen Huntly,Dendy Park,No. 1,Timothy Kalapoutis,Zulu Kumar,Timothy Kalapoutis,6-1,6,1,1,0,Completed,true,true,false
+UA005064,15 Mar 26,6,Glen Huntly,Dendy Park,No. 2,Anastasia Udriste,James Kim,James Kim,2-6,2,6,0,1,Completed,true,false,false
+UA005064,15 Mar 26,6,Glen Huntly,Dendy Park,No. 3,Gabriella Duieb,William Wang,William Wang,1-6,1,6,0,1,Completed,true,false,false
+UA005064,15 Mar 26,6,Glen Huntly,Dendy Park,No. 4,Amir Egre,Owen Yu,Owen Yu,2-6,2,6,0,1,Completed,true,false,false
+UA005071,22 Mar 26,7,Kooyong,Royal Ave,No. 1,Lisette Wollin,Charlie Vakrinos,Charlie Vakrinos,0-6,0,6,0,1,Completed,true,false,false
+UA005071,22 Mar 26,7,Kooyong,Royal Ave,No. 2,Will Morris,Nick Danaher,Will Morris,6-4,6,4,1,0,Completed,true,false,false
+UA005071,22 Mar 26,7,Kooyong,Royal Ave,No. 3,Freddie Tulloch,Juliette Hostein,Freddie Tulloch,6-3,6,3,1,0,Completed,true,false,false
+UA005071,22 Mar 26,7,Kooyong,Royal Ave,No. 4,Hugo Samuel,Vadim Goreux,Hugo Samuel,7-5,7,5,1,0,Completed,true,false,true
+UA005072,22 Mar 26,7,GPHC Blue,Murrumbeena,No. 1,Caitlin Cassidy,Zhun Chen Teoh,Zhun Chen Teoh,0-6,0,6,0,1,Completed,true,false,true
+UA005072,22 Mar 26,7,GPHC Blue,Murrumbeena,No. 2,Oscar Hilbert,Congwen (leo) Shen,Congwen (leo) Shen,4-6,4,6,0,1,Completed,true,false,false
+UA005072,22 Mar 26,7,GPHC Blue,Murrumbeena,No. 3,Claire Lo,Phelix Ma,Phelix Ma,1-6,1,6,0,1,Completed,true,false,false
+UA005072,22 Mar 26,7,GPHC Blue,Murrumbeena,No. 4,Oliver Chew,Ishaan Nagpal,Ishaan Nagpal,0-6,0,6,0,1,Completed,true,false,false
+UA005073,22 Mar 26,7,Dendy Park,GPHC Yellow,No. 1,Zulu Kumar,Riley Bladeni,Riley Bladeni,3-6,3,6,0,1,Completed,true,false,false
+UA005073,22 Mar 26,7,Dendy Park,GPHC Yellow,No. 2,William Wang,Ned Jeffreys,Ned Jeffreys,3-6,3,6,0,1,Completed,true,false,false
+UA005073,22 Mar 26,7,Dendy Park,GPHC Yellow,No. 3,Owen Yu,Leo De Luca,Owen Yu,7-5,7,5,1,0,Completed,true,false,false
+UA005073,22 Mar 26,7,Dendy Park,GPHC Yellow,No. 4,Mark Lu,Tahlia Zangalis,Mark Lu,6-1,6,1,1,0,Completed,true,false,false
+UA005074,22 Mar 26,7,FCTC,Glen Huntly,No. 1,Zelin Cong,Timothy Kalapoutis,Zelin Cong,6-2,6,2,1,0,Completed,true,false,true
+UA005074,22 Mar 26,7,FCTC,Glen Huntly,No. 2,Max Rosoman,Atticus Dhimann,Max Rosoman,6-1,6,1,1,0,Completed,true,false,false
+UA005074,22 Mar 26,7,FCTC,Glen Huntly,No. 3,Mischa Harris,Gabriella Duieb,Mischa Harris,6-3,6,3,1,0,Completed,true,false,false
+UA005074,22 Mar 26,7,FCTC,Glen Huntly,No. 4,Millie Rosoman,Amir Egre,Amir Egre,3-6,3,6,0,1,Completed,true,false,false
+UA005081,29 Mar 26,8,Glen Huntly,Kooyong,No. 1,Atticus Dhimann,Lisette Wollin,Atticus Dhimann,6-1,6,1,1,0,Completed,true,false,false
+UA005081,29 Mar 26,8,Glen Huntly,Kooyong,No. 2,Isaac Egre,Will Morris,Will Morris,0-6,0,6,0,1,Completed,true,true,false
+UA005081,29 Mar 26,8,Glen Huntly,Kooyong,No. 3,Gabriella Duieb,Freddie Tulloch,Freddie Tulloch,4-6,4,6,0,1,Completed,true,false,false
+UA005081,29 Mar 26,8,Glen Huntly,Kooyong,No. 4,Amir Egre,Theo Edelstein,Amir Egre,6-2,6,2,1,0,Completed,true,false,true
+UA005082,29 Mar 26,8,GPHC Yellow,GPHC Blue,No. 1,Riley Bladeni,Patrick Cassidy,Patrick Cassidy,2-6,2,6,0,1,Completed,true,false,false
+UA005082,29 Mar 26,8,GPHC Yellow,GPHC Blue,No. 2,Ned Jeffreys,Caitlin Cassidy,Caitlin Cassidy,3-6,3,6,0,1,Completed,true,false,false
+UA005082,29 Mar 26,8,GPHC Yellow,GPHC Blue,No. 3,Archer Black,Oscar Hilbert,Oscar Hilbert,6-7,6,7,0,1,Completed,true,false,false
+UA005082,29 Mar 26,8,GPHC Yellow,GPHC Blue,No. 4,Eli Jeffreys,Oliver Chew,Oliver Chew,2-6,2,6,0,1,Completed,true,false,false
+UA005083,29 Mar 26,8,FCTC,Royal Ave,No. 1,Myra Janjua,Jack Watson,Myra Janjua,6-2,6,2,1,0,Completed,true,false,false
+UA005083,29 Mar 26,8,FCTC,Royal Ave,No. 2,Max Rosoman,Nick Danaher,Nick Danaher,3-6,3,6,0,1,Completed,true,false,false
+UA005083,29 Mar 26,8,FCTC,Royal Ave,No. 3,Mischa Harris,Juliette Hostein,Mischa Harris,6-2,6,2,1,0,Completed,true,false,false
+UA005083,29 Mar 26,8,FCTC,Royal Ave,No. 4,Millie Rosoman,Vadim Goreux,Vadim Goreux,6-7,6,7,0,1,Completed,true,false,true
+UA005084,29 Mar 26,8,Dendy Park,Murrumbeena,No. 1,James Kim,Phelix Ma,Phelix Ma,2-6,2,6,0,1,Completed,true,false,false
+UA005084,29 Mar 26,8,Dendy Park,Murrumbeena,No. 2,William Wang,Janoah Gray-Taito,William Wang,6-2,6,2,1,0,Completed,true,false,false
+UA005084,29 Mar 26,8,Dendy Park,Murrumbeena,No. 3,Anikin Margis,Ishaan Nagpal,Ishaan Nagpal,2-6,2,6,0,1,Completed,true,false,false
+UA005084,29 Mar 26,8,Dendy Park,Murrumbeena,No. 4,Mark Lu,Ivaan Joshi,Ivaan Joshi,1-6,1,6,0,1,Completed,true,false,false
+UA005091,26 Apr 26,9,Kooyong,Dendy Park,No. 1,Lisette Wollin,Zulu Kumar,Lisette Wollin,6-2,6,2,1,0,Completed,true,false,false
+UA005091,26 Apr 26,9,Kooyong,Dendy Park,No. 2,Jeremy Samuel,James Kim,James Kim,4-6,4,6,0,1,Completed,true,false,false
+UA005091,26 Apr 26,9,Kooyong,Dendy Park,No. 3,Hugo Samuel,William Wang,William Wang,1-6,1,6,0,1,Completed,true,false,false
+UA005091,26 Apr 26,9,Kooyong,Dendy Park,No. 4,Zeyi Xu,Owen Yu,Owen Yu,6-7,6,7,0,1,Completed,true,true,false
+UA005092,26 Apr 26,9,GPHC Blue,Glen Huntly,No. 1,Patrick Cassidy,Atticus Dhimann,Patrick Cassidy,6-2,6,2,1,0,Completed,true,false,false
+UA005092,26 Apr 26,9,GPHC Blue,Glen Huntly,No. 2,Caitlin Cassidy,Jamie Dodd,Jamie Dodd,6-7,6,7,0,1,Completed,true,false,false
+UA005092,26 Apr 26,9,GPHC Blue,Glen Huntly,No. 3,Oscar Hilbert,Gabriella Duieb,Oscar Hilbert,6-4,6,4,1,0,Completed,true,false,false
+UA005092,26 Apr 26,9,GPHC Blue,Glen Huntly,No. 4,Oliver Chew,Amir Egre,Amir Egre,1-6,1,6,0,1,Completed,true,false,false
+UA005093,26 Apr 26,9,Royal Ave,GPHC Yellow,No. 1,Charlie Vakrinos,Riley Bladeni,Charlie Vakrinos,6-1,6,1,1,0,Completed,true,false,false
+UA005093,26 Apr 26,9,Royal Ave,GPHC Yellow,No. 2,Jack Watson,Archer Black,Jack Watson,6-2,6,2,1,0,Completed,true,false,false
+UA005093,26 Apr 26,9,Royal Ave,GPHC Yellow,No. 3,Juliette Hostein,Leo De Luca,Juliette Hostein,6-2,6,2,1,0,Completed,true,false,false
+UA005093,26 Apr 26,9,Royal Ave,GPHC Yellow,No. 4,Vadim Goreux,Tahlia Zangalis,Tahlia Zangalis,2-6,2,6,0,1,Completed,true,true,false
+UA005094,26 Apr 26,9,Murrumbeena,FCTC,No. 1,Congwen (leo) Shen,Myra Janjua,Myra Janjua,6-7,6,7,0,1,Completed,true,false,false
+UA005094,26 Apr 26,9,Murrumbeena,FCTC,No. 2,Phelix Ma,Max Rosoman,Phelix Ma,6-2,6,2,1,0,Completed,true,false,false
+UA005094,26 Apr 26,9,Murrumbeena,FCTC,No. 3,Janoah Gray-Taito,Mischa Harris,Janoah Gray-Taito,6-4,6,4,1,0,Completed,true,false,false
+UA005094,26 Apr 26,9,Murrumbeena,FCTC,No. 4,Ishaan Nagpal,Millie Rosoman,Ishaan Nagpal,6-2,6,2,1,0,Completed,true,false,false
+UA005111,10 May 26,11,Kooyong,GPHC Yellow,No. 1,Lisette Wollin,Riley Bladeni,Lisette Wollin,6-0,6,0,1,0,Completed,true,false,false
+UA005111,10 May 26,11,Kooyong,GPHC Yellow,No. 2,Jeremy Samuel,Ned Jeffreys,Jeremy Samuel,6-2,6,2,1,0,Completed,true,false,false
+UA005111,10 May 26,11,Kooyong,GPHC Yellow,No. 3,Will Morris,Archer Black,Will Morris,6-3,6,3,1,0,Completed,true,false,false
+UA005111,10 May 26,11,Kooyong,GPHC Yellow,No. 4,Hugo Samuel,Eli Jeffreys,Hugo Samuel,6-4,6,4,1,0,Completed,true,false,false
+UA005112,10 May 26,11,GPHC Blue,FCTC,No. 1,Caitlin Cassidy,Myra Janjua,Myra Janjua,2-6,2,6,0,1,Completed,true,false,false
+UA005112,10 May 26,11,GPHC Blue,FCTC,No. 2,Oscar Hilbert,Max Rosoman,Max Rosoman,4-6,4,6,0,1,Completed,true,false,false
+UA005112,10 May 26,11,GPHC Blue,FCTC,No. 3,Claire Lo,Mischa Harris,Claire Lo,7-6,7,6,1,0,Completed,true,false,false
+UA005112,10 May 26,11,GPHC Blue,FCTC,No. 4,Oliver Chew,Millie Rosoman,Oliver Chew,6-3,6,3,1,0,Completed,true,false,false
+UA005113,10 May 26,11,Royal Ave,Dendy Park,No. 1,Charlie Vakrinos,Sebastian Maddams,Charlie Vakrinos,6-1,6,1,1,0,Completed,true,false,true
+UA005113,10 May 26,11,Royal Ave,Dendy Park,No. 2,Jack Watson,Zulu Kumar,Zulu Kumar,3-6,3,6,0,1,Completed,true,false,false
+UA005113,10 May 26,11,Royal Ave,Dendy Park,No. 3,Nick Danaher,James Kim,Nick Danaher,6-3,6,3,1,0,Completed,true,false,false
+UA005113,10 May 26,11,Royal Ave,Dendy Park,No. 4,Vadim Goreux,Mark Lu,Mark Lu,1-6,1,6,0,1,Completed,true,true,false
+UA005114,10 May 26,11,Murrumbeena,Glen Huntly,No. 1,Congwen (leo) Shen,Timothy Kalapoutis,Timothy Kalapoutis,4-6,4,6,0,1,Completed,true,false,true
+UA005114,10 May 26,11,Murrumbeena,Glen Huntly,No. 2,Nycky Ved Ashwin,Atticus Dhimann,Nycky Ved Ashwin,7-5,7,5,1,0,Completed,true,true,false
+UA005114,10 May 26,11,Murrumbeena,Glen Huntly,No. 3,Ishaan Nagpal,Anastasia Udriste,Ishaan Nagpal,7-6,7,6,1,0,Completed,true,false,false
+UA005114,10 May 26,11,Murrumbeena,Glen Huntly,No. 4,Ivaan Joshi,Gabriella Duieb,Gabriella Duieb,5-7,5,7,0,1,Completed,true,false,false
+UA005131,24 May 26,13,Royal Ave,GPHC Blue,No. 1,Charlie Vakrinos,Jeremy Wong,Charlie Vakrinos,6-3,6,3,1,0,Completed,true,false,false
+UA005131,24 May 26,13,Royal Ave,GPHC Blue,No. 2,Jack Watson,Jenson Ooi,Jenson Ooi,3-6,3,6,0,1,Completed,true,false,true
+UA005131,24 May 26,13,Royal Ave,GPHC Blue,No. 3,Nick Danaher,Oscar Hilbert,Nick Danaher,6-3,6,3,1,0,Completed,true,false,false
+UA005131,24 May 26,13,Royal Ave,GPHC Blue,No. 4,Juliette Hostein,Claire Lo,Claire Lo,3-6,3,6,0,1,Completed,true,false,false
+UA005132,24 May 26,13,Kooyong,Murrumbeena,No. 1,Lisette Wollin,Congwen (leo) Shen,Lisette Wollin,6-4,6,4,1,0,Completed,true,false,false
+UA005132,24 May 26,13,Kooyong,Murrumbeena,No. 2,Jeremy Samuel,Phelix Ma,Phelix Ma,1-6,1,6,0,1,Completed,true,false,false
+UA005132,24 May 26,13,Kooyong,Murrumbeena,No. 3,Will Morris,Janoah Gray-Taito,Janoah Gray-Taito,5-7,5,7,0,1,Completed,true,false,false
+UA005132,24 May 26,13,Kooyong,Murrumbeena,No. 4,Hugo Samuel,Ishaan Nagpal,Ishaan Nagpal,0-6,0,6,0,1,Completed,true,false,false
+UA005133,24 May 26,13,GPHC Yellow,FCTC,No. 1,Riley Bladeni,Elyse Cerquaglia,Elyse Cerquaglia,2-6,2,6,0,1,Completed,true,false,true
+UA005133,24 May 26,13,GPHC Yellow,FCTC,No. 2,Ned Jeffreys,Max Rosoman,Ned Jeffreys,7-6,7,6,1,0,Completed,true,false,false
+UA005133,24 May 26,13,GPHC Yellow,FCTC,No. 3,Archer Black,Mischa Harris,Mischa Harris,5-7,5,7,0,1,Completed,true,false,false
+UA005133,24 May 26,13,GPHC Yellow,FCTC,No. 4,Eli Jeffreys,Millie Rosoman,Eli Jeffreys,6-1,6,1,1,0,Completed,true,false,false
+UA005134,24 May 26,13,Dendy Park,Glen Huntly,No. 1,Zulu Kumar,Atticus Dhimann,Atticus Dhimann,1-6,1,6,0,1,Completed,true,false,false
+UA005134,24 May 26,13,Dendy Park,Glen Huntly,No. 2,James Kim,Jamie Dodd,James Kim,6-1,6,1,1,0,Completed,true,false,false
+UA005134,24 May 26,13,Dendy Park,Glen Huntly,No. 3,Owen Yu,Gabriella Duieb,Gabriella Duieb,4-6,4,6,0,1,Completed,true,false,false
+UA005134,24 May 26,13,Dendy Park,Glen Huntly,No. 4,Mark Lu,Amir Egre,Amir Egre,1-6,1,6,0,1,Completed,true,false,false
+UA005141,31 May 26,14,Royal Ave,Kooyong,No. 1,Charlie Vakrinos,Lisette Wollin,Charlie Vakrinos,6-0,6,0,1,0,Completed,true,false,false
+UA005141,31 May 26,14,Royal Ave,Kooyong,No. 2,Jack Watson,Will Morris,Jack Watson,6-4,6,4,1,0,Completed,true,false,false
+UA005141,31 May 26,14,Royal Ave,Kooyong,No. 3,Juliette Hostein,Hugo Samuel,Hugo Samuel,6-7,6,7,0,1,Completed,true,false,false
+UA005141,31 May 26,14,Royal Ave,Kooyong,No. 4,Vadim Goreux,Luca Cellante,Luca Cellante,4-6,4,6,0,1,Completed,true,true,true
+UA005142,31 May 26,14,Murrumbeena,GPHC Blue,No. 1,Congwen (leo) Shen,Jeremy Wong,Congwen (leo) Shen,6-1,6,1,1,0,Completed,true,false,false
+UA005142,31 May 26,14,Murrumbeena,GPHC Blue,No. 2,Janoah Gray-Taito,Patrick Cassidy,Janoah Gray-Taito,6-2,6,2,1,0,Completed,true,false,false
+UA005142,31 May 26,14,Murrumbeena,GPHC Blue,No. 3,Ishaan Nagpal,Oscar Hilbert,Ishaan Nagpal,7-6,7,6,1,0,Completed,true,false,false
+UA005142,31 May 26,14,Murrumbeena,GPHC Blue,No. 4,Ivaan Joshi,Claire Lo,Ivaan Joshi,6-4,6,4,1,0,Completed,true,false,false
+UA005143,31 May 26,14,GPHC Yellow,Dendy Park,No. 1,Riley Bladeni,Zulu Kumar,Riley Bladeni,6-3,6,3,1,0,Completed,true,false,false
+UA005143,31 May 26,14,GPHC Yellow,Dendy Park,No. 2,Leo De Luca,James Kim,James Kim,4-6,4,6,0,1,Completed,true,false,false
+UA005143,31 May 26,14,GPHC Yellow,Dendy Park,No. 3,Tahlia Zangalis,Owen Yu,Owen Yu,1-6,1,6,0,1,Completed,true,false,false
+UA005143,31 May 26,14,GPHC Yellow,Dendy Park,No. 4,Eli Jeffreys,Mark Lu,Eli Jeffreys,6-4,6,4,1,0,Completed,true,false,false
+UA005144,31 May 26,14,Glen Huntly,FCTC,No. 1,Atticus Dhimann,Zelin Cong,Zelin Cong,0-6,0,6,0,1,Completed,true,false,false
+UA005144,31 May 26,14,Glen Huntly,FCTC,No. 2,Jamie Dodd,Elyse Cerquaglia,Elyse Cerquaglia,2-6,2,6,0,1,Completed,true,false,true
+UA005144,31 May 26,14,Glen Huntly,FCTC,No. 3,Gabriella Duieb,Max Rosoman,Max Rosoman,3-6,3,6,0,1,Completed,true,false,false
+UA005144,31 May 26,14,Glen Huntly,FCTC,No. 4,Amir Egre,Millie Rosoman,Amir Egre,6-0,6,0,1,0,Completed,true,false,false
+UA005301,,16,Murrumbeena,Glen Huntly,No. 1,Congwen (leo) Shen,Atticus Dhimann,Congwen (leo) Shen,6-2,6,2,1,0,Completed,true,false,false
+UA005301,,16,Murrumbeena,Glen Huntly,No. 2,Phelix Ma,Jamie Dodd,Phelix Ma,6-1,6,1,1,0,Completed,true,false,false
+UA005301,,16,Murrumbeena,Glen Huntly,No. 3,Janoah Gray-Taito,Gabriella Duieb,Janoah Gray-Taito,6-4,6,4,1,0,Completed,true,false,false
+UA005301,,16,Murrumbeena,Glen Huntly,No. 4,Ishaan Nagpal,Amir Egre,Amir Egre,2-6,2,6,0,1,Completed,true,false,false
+UA005302,,16,Kooyong,FCTC,No. 1,Lisette Wollin,Zelin Cong,Zelin Cong,4-6,4,6,0,1,Completed,true,false,false
+UA005302,,16,Kooyong,FCTC,No. 2,Jeremy Samuel,Maddy Flavelle,Maddy Flavelle,5-7,5,7,0,1,Completed,true,false,false
+UA005302,,16,Kooyong,FCTC,No. 3,Will Morris,Max Rosoman,Will Morris,7-5,7,5,1,0,Completed,true,false,false
+UA005302,,16,Kooyong,FCTC,No. 4,Hugo Samuel,Mischa Harris,Mischa Harris,5-7,5,7,0,1,Completed,true,false,false
+UA005321,,17,Murrumbeena,FCTC,No. 1,Congwen (leo) Shen,Myra Janjua,Myra Janjua,3-6,3,6,0,1,Completed,true,false,false
+UA005321,,17,Murrumbeena,FCTC,No. 2,Phelix Ma,Zelin Cong,Phelix Ma,6-2,6,2,1,0,Completed,true,false,false
+UA005321,,17,Murrumbeena,FCTC,No. 3,Janoah Gray-Taito,Maddy Flavelle,Janoah Gray-Taito,6-4,6,4,1,0,Completed,true,false,false
+UA005321,,17,Murrumbeena,FCTC,No. 4,Ishaan Nagpal,Mischa Harris,Ishaan Nagpal,6-1,6,1,1,0,Completed,true,false,false

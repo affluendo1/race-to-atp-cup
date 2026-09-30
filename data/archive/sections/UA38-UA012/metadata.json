@@ -1,0 +1,85 @@
+{
+  "asset_id": "UA38-UA012",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2026",
+  "season_id": "UA38",
+  "season_label": "Autumn 2026",
+  "source_section_code": "UA012",
+  "section_label": "Sets 9",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World Green",
+      "wins": 8,
+      "points": 84,
+      "percentage": 125.58,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Carmelite",
+      "wins": 7,
+      "points": 67,
+      "percentage": 103.11,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Tennis World Blue",
+      "wins": 6,
+      "points": 66,
+      "percentage": 109.12,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Aspendale",
+      "wins": 6,
+      "points": 64,
+      "percentage": 106.6,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "Elsternwick Park",
+      "wins": 5,
+      "points": 62,
+      "percentage": 108.53,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal South Yarra",
+      "wins": 3,
+      "points": 43,
+      "percentage": 90.84,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kings Park Blue",
+      "wins": 2,
+      "points": 34,
+      "percentage": 66.46,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA38-UA012",
+  "fixtures": 59,
+  "completed_fixtures": 39,
+  "draw_fixtures": 45,
+  "singles_rubbers": 152,
+  "doubles_rubbers": 78,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for UA012102"
+  ]
+}

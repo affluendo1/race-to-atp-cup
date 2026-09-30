@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA35-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2024",
+  "season_id": "UA35",
+  "season_label": "Spring 2024",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Glen Huntly",
+      "wins": 11,
+      "points": 106,
+      "percentage": 164.8,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Royal South Yarra",
+      "wins": 8,
+      "points": 74,
+      "percentage": 96.34,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Beaumaris CC",
+      "wins": 7,
+      "points": 73,
+      "percentage": 103.43,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "BLTC Blue",
+      "wins": 7,
+      "points": 71,
+      "percentage": 96.72,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Tennis World",
+      "wins": 6,
+      "points": 67.5,
+      "percentage": 93.26,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Black Rock",
+      "wins": 6,
+      "points": 65.5,
+      "percentage": 93.92,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Elsternwick Park",
+      "wins": 4,
+      "points": 59.5,
+      "percentage": 102.71,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Murrumbeena",
+      "wins": 3,
+      "points": 43.5,
+      "percentage": 70.73,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA35-UA002",
+  "fixtures": 59,
+  "completed_fixtures": 57,
+  "draw_fixtures": 59,
+  "singles_rubbers": 227,
+  "doubles_rubbers": 114,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,101 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA014011,18 Jul 26,1,Chelsea Heights,Mentone,No. 1,Sofia Tomic,Janet Harris,Sofia Tomic,6-2,6,2,1,0,Completed,true,false,false
+AA014011,18 Jul 26,1,Chelsea Heights,Mentone,No. 2,Ryan Mitchell,Mitchell Plas,Mitchell Plas,2-6,2,6,0,1,Completed,true,false,false
+AA014011,18 Jul 26,1,Chelsea Heights,Mentone,No. 3,Harrison Tolliday,Rita Pasko,Rita Pasko,3-6,3,6,0,1,Completed,true,false,false
+AA014011,18 Jul 26,1,Chelsea Heights,Mentone,No. 4,Sophia Brejnev,Jye Matlock,Jye Matlock,1-6,1,6,0,1,Completed,true,false,false
+AA014012,18 Jul 26,1,Carmelite,Ormond,No. 1,Michael Caruso,Max Prosser,Max Prosser,3-6,3,6,0,1,Completed,true,false,false
+AA014012,18 Jul 26,1,Carmelite,Ormond,No. 2,Ripley Schuppan,Marcus Kuan,Ripley Schuppan,7-6,7,6,1,0,Completed,true,false,false
+AA014012,18 Jul 26,1,Carmelite,Ormond,No. 3,Jack Ladas,Estella Zhou,Jack Ladas,6-1,6,1,1,0,Completed,true,true,false
+AA014012,18 Jul 26,1,Carmelite,Ormond,No. 4,[Unnamed emergency — TROLS AA014012 home code 4],Britt Bui,[Unnamed emergency — TROLS AA014012 home code 4],6-2,6,2,1,0,Completed,false,true,false
+AA014013,18 Jul 26,1,Kings Park,St Pauls,No. 1,Lucas Wong,Abigail Zhou,Lucas Wong,7-6,7,6,1,0,Completed,true,false,false
+AA014013,18 Jul 26,1,Kings Park,St Pauls,No. 2,Jaime Ugriinovski,Marygrace Mulholland,Jaime Ugriinovski,6-2,6,2,1,0,Completed,true,false,false
+AA014013,18 Jul 26,1,Kings Park,St Pauls,No. 3,Aiden Huang,Chloe Tan,Chloe Tan,0-6,0,6,0,1,Completed,true,false,true
+AA014013,18 Jul 26,1,Kings Park,St Pauls,No. 4,Melvin Fan,Sienna Quinonez,Melvin Fan,6-1,6,1,1,0,Completed,true,false,false
+AA014022,25 Jul 26,2,Mentone,Carmelite,No. 1,Henry Frew,Michael Caruso,Henry Frew,6-0,6,0,1,0,Completed,true,false,false
+AA014022,25 Jul 26,2,Mentone,Carmelite,No. 2,Janet Harris,Lloyd Duff,Lloyd Duff,1-6,1,6,0,1,Completed,true,false,true
+AA014022,25 Jul 26,2,Mentone,Carmelite,No. 3,Mitchell Plas,Jack Saliba,Jack Saliba,1-6,1,6,0,1,Completed,true,false,false
+AA014022,25 Jul 26,2,Mentone,Carmelite,No. 4,Jye Matlock,Lucas Saludes Iglesias,Lucas Saludes Iglesias,4-6,4,6,0,1,Completed,true,false,false
+AA014023,25 Jul 26,2,Ormond,Kings Park,No. 1,Max Prosser,Jaime Ugriinovski,Jaime Ugriinovski,4-6,4,6,0,1,Completed,true,false,false
+AA014023,25 Jul 26,2,Ormond,Kings Park,No. 2,Marcus Kuan,Aiden Huang,Aiden Huang,6-7,6,7,0,1,Completed,true,false,false
+AA014023,25 Jul 26,2,Ormond,Kings Park,No. 3,Estella Zhou,Melvin Fan,Estella Zhou,6-2,6,2,1,0,Completed,true,false,false
+AA014023,25 Jul 26,2,Ormond,Kings Park,No. 4,Agampreet Kaur Bhathal,Patrick Liu,Patrick Liu,2-6,2,6,0,1,Completed,true,false,false
+AA014024,25 Jul 26,2,St Pauls,Mordialloc,No. 1,Abigail Zhou,Ben Mowthorpe,Abigail Zhou,6-0,6,0,1,0,Completed,true,false,false
+AA014024,25 Jul 26,2,St Pauls,Mordialloc,No. 2,Chloe Tan,Millie O'Connor,Chloe Tan,6-0,6,0,1,0,Completed,true,true,false
+AA014024,25 Jul 26,2,St Pauls,Mordialloc,No. 3,Nico Krispens Hegouaburu,Oliver Redzia,Nico Krispens Hegouaburu,6-3,6,3,1,0,Completed,true,false,false
+AA014024,25 Jul 26,2,St Pauls,Mordialloc,No. 4,Sienna Quinonez,Sylvia Huang,Sylvia Huang,3-6,3,6,0,1,Completed,true,false,false
+AA014031,01 Aug 26,3,Chelsea Heights,St Pauls,No. 1,Ryan Mitchell,Abigail Zhou,Abigail Zhou,1-6,1,6,0,1,Completed,true,false,false
+AA014031,01 Aug 26,3,Chelsea Heights,St Pauls,No. 2,Harrison Tolliday,Chloe Tan,Chloe Tan,2-6,2,6,0,1,Completed,true,false,true
+AA014031,01 Aug 26,3,Chelsea Heights,St Pauls,No. 3,Liam Phan,Nico Krispens Hegouaburu,Nico Krispens Hegouaburu,0-6,0,6,0,1,Completed,true,false,false
+AA014031,01 Aug 26,3,Chelsea Heights,St Pauls,No. 4,Sophia Brejnev,Lucas Gomez,Lucas Gomez,0-6,0,6,0,1,Completed,true,false,false
+AA014033,01 Aug 26,3,Kings Park,Mentone,No. 1,Mason Ta,Henry Frew,Henry Frew,0-6,0,6,0,1,Completed,true,false,false
+AA014033,01 Aug 26,3,Kings Park,Mentone,No. 2,Lucas Wong,Janet Harris,Lucas Wong,6-0,6,0,1,0,Completed,true,false,false
+AA014033,01 Aug 26,3,Kings Park,Mentone,No. 3,Melvin Fan,Mitchell Plas,Mitchell Plas,4-6,4,6,0,1,Completed,true,false,false
+AA014033,01 Aug 26,3,Kings Park,Mentone,No. 4,Patrick Liu,Rita Pasko,Rita Pasko,4-6,4,6,0,1,Completed,true,false,false
+AA014034,01 Aug 26,3,Mordialloc,Ormond,No. 1,Ethan Thomas,Max Prosser,Max Prosser,2-6,2,6,0,1,Completed,true,false,false
+AA014034,01 Aug 26,3,Mordialloc,Ormond,No. 2,Ben Mowthorpe,Marcus Kuan,Ben Mowthorpe,6-3,6,3,1,0,Completed,true,false,false
+AA014034,01 Aug 26,3,Mordialloc,Ormond,No. 3,Oliver Redzia,Agampreet Kaur Bhathal,Oliver Redzia,6-1,6,1,1,0,Completed,true,false,false
+AA014034,01 Aug 26,3,Mordialloc,Ormond,No. 4,Sylvia Huang,Britt Bui,Sylvia Huang,6-2,6,2,1,0,Completed,true,false,false
+AA014041,08 Aug 26,4,Ormond,Chelsea Heights,No. 1,Marcus Kuan,Sofia Tomic,Marcus Kuan,6-3,6,3,1,0,Completed,true,false,false
+AA014041,08 Aug 26,4,Ormond,Chelsea Heights,No. 2,Estella Zhou,Ryan Mitchell,Estella Zhou,6-2,6,2,1,0,Completed,true,false,false
+AA014041,08 Aug 26,4,Ormond,Chelsea Heights,No. 3,Britt Bui,Liam Phan,Britt Bui,6-5,6,5,1,0,Completed,true,false,false
+AA014041,08 Aug 26,4,Ormond,Chelsea Heights,No. 4,Agampreet Kaur Bhathal,Sophia Brejnev,Agampreet Kaur Bhathal,6-4,6,4,1,0,Completed,true,false,false
+AA014042,08 Aug 26,4,St Pauls,Carmelite,No. 1,Abigail Zhou,Michael Caruso,Abigail Zhou,6-1,6,1,1,0,Completed,true,false,false
+AA014042,08 Aug 26,4,St Pauls,Carmelite,No. 2,Nico Krispens Hegouaburu,Sam Gibson,Sam Gibson,0-6,0,6,0,1,Completed,true,false,false
+AA014042,08 Aug 26,4,St Pauls,Carmelite,No. 3,Sienna Quinonez,Jack Saliba,Jack Saliba,1-6,1,6,0,1,Completed,true,false,false
+AA014042,08 Aug 26,4,St Pauls,Carmelite,No. 4,Lucas Gomez,Lucas Saludes Iglesias,Lucas Saludes Iglesias,4-6,4,6,0,1,Completed,true,false,false
+AA014044,08 Aug 26,4,Mentone,Mordialloc,No. 1,Henry Frew,Ethan Thomas,Henry Frew,6-0,6,0,1,0,Completed,true,false,false
+AA014044,08 Aug 26,4,Mentone,Mordialloc,No. 2,Janet Harris,Ben Mowthorpe,Ben Mowthorpe,4-6,4,6,0,1,Completed,true,false,false
+AA014044,08 Aug 26,4,Mentone,Mordialloc,No. 3,Rita Pasko,Anthony Zougaib,Rita Pasko,6-2,6,2,1,0,Completed,true,false,true
+AA014044,08 Aug 26,4,Mentone,Mordialloc,No. 4,Jye Matlock,Sylvia Huang,Sylvia Huang,0-6,0,6,0,1,Completed,true,false,false
+AA014051,15 Aug 26,5,Kings Park,Mordialloc,No. 1,Mason Ta,Ethan Thomas,Mason Ta,6-0,6,0,1,0,Completed,true,false,false
+AA014051,15 Aug 26,5,Kings Park,Mordialloc,No. 2,Lucas Wong,Ben Mowthorpe,Lucas Wong,6-1,6,1,1,0,Completed,true,false,false
+AA014051,15 Aug 26,5,Kings Park,Mordialloc,No. 3,Jaime Ugriinovski,Anthony Zougaib,Jaime Ugriinovski,6-3,6,3,1,0,Completed,true,false,true
+AA014051,15 Aug 26,5,Kings Park,Mordialloc,No. 4,Aiden Huang,Andrew Phillips,Aiden Huang,6-0,6,0,1,0,Completed,true,false,true
+AA014053,15 Aug 26,5,Ormond,Mentone,No. 1,Max Prosser,Janet Harris,Max Prosser,6-0,6,0,1,0,Completed,true,false,false
+AA014053,15 Aug 26,5,Ormond,Mentone,No. 2,Marcus Kuan,Mitchell Plas,Mitchell Plas,3-6,3,6,0,1,Completed,true,false,false
+AA014053,15 Aug 26,5,Ormond,Mentone,No. 3,Estella Zhou,Rita Pasko,Rita Pasko,1-6,1,6,0,1,Completed,true,false,false
+AA014053,15 Aug 26,5,Ormond,Mentone,No. 4,Britt Bui,Jye Matlock,Jye Matlock,3-6,3,6,0,1,Completed,true,false,false
+AA014054,15 Aug 26,5,Chelsea Heights,Carmelite,No. 1,Sofia Tomic,Ripley Schuppan,Ripley Schuppan,2-6,2,6,0,1,Completed,true,false,false
+AA014054,15 Aug 26,5,Chelsea Heights,Carmelite,No. 2,Ryan Mitchell,Sam Gibson,Sam Gibson,1-6,1,6,0,1,Completed,true,false,false
+AA014054,15 Aug 26,5,Chelsea Heights,Carmelite,No. 3,Cristos Panagiasidis,Jack Saliba,Jack Saliba,5-6,5,6,0,1,Completed,true,true,false
+AA014054,15 Aug 26,5,Chelsea Heights,Carmelite,No. 4,Liam Phan,Lucas Saludes Iglesias,Lucas Saludes Iglesias,1-6,1,6,0,1,Completed,true,false,false
+AA014061,22 Aug 26,6,Carmelite,Kings Park,No. 1,Michael Caruso,Lucas Wong,Lucas Wong,1-6,1,6,0,1,Completed,true,false,false
+AA014061,22 Aug 26,6,Carmelite,Kings Park,No. 2,Sam Gibson,Mason Ta,Sam Gibson,6-2,6,2,1,0,Completed,true,false,false
+AA014061,22 Aug 26,6,Carmelite,Kings Park,No. 3,Jack Saliba,Aiden Huang,Jack Saliba,6-4,6,4,1,0,Completed,true,false,false
+AA014061,22 Aug 26,6,Carmelite,Kings Park,No. 4,Lucas Saludes Iglesias,Melvin Fan,Lucas Saludes Iglesias,6-2,6,2,1,0,Completed,true,false,false
+AA014062,22 Aug 26,6,Mordialloc,Chelsea Heights,No. 1,Ethan Thomas,Sofia Tomic,Ethan Thomas,6-3,6,3,1,0,Completed,true,false,false
+AA014062,22 Aug 26,6,Mordialloc,Chelsea Heights,No. 2,Ben Mowthorpe,Ryan Mitchell,Ryan Mitchell,2-6,2,6,0,1,Completed,true,false,false
+AA014062,22 Aug 26,6,Mordialloc,Chelsea Heights,No. 3,Oliver Redzia,Liam Phan,Oliver Redzia,6-0,6,0,1,0,Completed,true,false,false
+AA014062,22 Aug 26,6,Mordialloc,Chelsea Heights,No. 4,Anthony Zougaib,Sophia Brejnev,Anthony Zougaib,6-1,6,1,1,0,Completed,true,true,false
+AA014063,22 Aug 26,6,St Pauls,Ormond,No. 1,Chloe Tan,Max Prosser,Chloe Tan,6-5,6,5,1,0,Completed,true,true,false
+AA014063,22 Aug 26,6,St Pauls,Ormond,No. 2,Nico Krispens Hegouaburu,Estella Zhou,Nico Krispens Hegouaburu,6-3,6,3,1,0,Completed,true,false,false
+AA014063,22 Aug 26,6,St Pauls,Ormond,No. 3,Sienna Quinonez,Britt Bui,Sienna Quinonez,6-5,6,5,1,0,Completed,true,false,false
+AA014063,22 Aug 26,6,St Pauls,Ormond,No. 4,Lucas Gomez,Agampreet Kaur Bhathal,Lucas Gomez,6-1,6,1,1,0,Completed,true,false,false
+AA014071,29 Aug 26,7,Chelsea Heights,Kings Park,No. 1,Sofia Tomic,Mason Ta,Mason Ta,5-6,5,6,0,1,Completed,true,false,false
+AA014071,29 Aug 26,7,Chelsea Heights,Kings Park,No. 2,Ryan Mitchell,Jaime Ugriinovski,Jaime Ugriinovski,3-6,3,6,0,1,Completed,true,false,false
+AA014071,29 Aug 26,7,Chelsea Heights,Kings Park,No. 3,Harrison Tolliday,Melvin Fan,Melvin Fan,5-6,5,6,0,1,Completed,true,false,false
+AA014071,29 Aug 26,7,Chelsea Heights,Kings Park,No. 4,Sophia Brejnev,Patrick Liu,Patrick Liu,1-6,1,6,0,1,Completed,true,false,false
+AA014072,29 Aug 26,7,Carmelite,Mordialloc,No. 1,Michael Caruso,Ethan Thomas,Ethan Thomas,3-6,3,6,0,1,Completed,true,false,false
+AA014072,29 Aug 26,7,Carmelite,Mordialloc,No. 2,Sam Gibson,Ben Mowthorpe,Sam Gibson,6-2,6,2,1,0,Completed,true,false,false
+AA014072,29 Aug 26,7,Carmelite,Mordialloc,No. 3,Jack Saliba,Oliver Redzia,Jack Saliba,6-1,6,1,1,0,Completed,true,false,false
+AA014072,29 Aug 26,7,Carmelite,Mordialloc,No. 4,Lucas Saludes Iglesias,Sylvia Huang,Lucas Saludes Iglesias,6-5,6,5,1,0,Completed,true,false,false
+AA014074,29 Aug 26,7,St Pauls,Mentone,No. 1,Abigail Zhou,Henry Frew,Abigail Zhou,6-5,6,5,1,0,Completed,true,false,false
+AA014074,29 Aug 26,7,St Pauls,Mentone,No. 2,Chloe Tan,Janet Harris,Chloe Tan,6-0,6,0,1,0,Completed,true,true,false
+AA014074,29 Aug 26,7,St Pauls,Mentone,No. 3,Sienna Quinonez,Mitchell Plas,Mitchell Plas,1-6,1,6,0,1,Completed,true,false,false
+AA014074,29 Aug 26,7,St Pauls,Mentone,No. 4,Lucas Gomez,Rita Pasko,Lucas Gomez,6-4,6,4,1,0,Completed,true,false,false
+AA014081,05 Sep 26,8,Mentone,Chelsea Heights,No. 1,Henry Frew,Sofia Tomic,Henry Frew,4-2,4,2,1,0,Completed,false,false,false
+AA014081,05 Sep 26,8,Mentone,Chelsea Heights,No. 2,Janet Harris,Liam Phan,Janet Harris,6-0,6,0,1,0,Completed,true,false,false
+AA014081,05 Sep 26,8,Mentone,Chelsea Heights,No. 3,Rita Pasko,Sophia Brejnev,Rita Pasko,6-0,6,0,1,0,Completed,true,false,false
+AA014081,05 Sep 26,8,Mentone,Chelsea Heights,No. 4,Jye Matlock,Vihaan Mehta,Vihaan Mehta,1-6,1,6,0,1,Completed,true,false,true
+AA014092,12 Sep 26,9,Carmelite,Mentone,No. 1,Sam Gibson,Henry Frew,Sam Gibson,6-1,6,1,1,0,Completed,true,false,false
+AA014092,12 Sep 26,9,Carmelite,Mentone,No. 2,Michael Caruso,Mitchell Plas,Michael Caruso,6-2,6,2,1,0,Completed,true,false,false
+AA014092,12 Sep 26,9,Carmelite,Mentone,No. 3,Jack Saliba,Rita Pasko,Rita Pasko,3-6,3,6,0,1,Completed,true,false,false
+AA014092,12 Sep 26,9,Carmelite,Mentone,No. 4,Lucas Saludes Iglesias,Jye Matlock,Lucas Saludes Iglesias,6-5,6,5,1,0,Completed,true,false,false
+AA014093,12 Sep 26,9,Kings Park,Ormond,No. 1,Aiden Huang,Max Prosser,Aiden Huang,6-5,6,5,1,0,Completed,true,false,false
+AA014093,12 Sep 26,9,Kings Park,Ormond,No. 2,Melvin Fan,Marcus Kuan,Marcus Kuan,3-6,3,6,0,1,Completed,true,false,false
+AA014093,12 Sep 26,9,Kings Park,Ormond,No. 3,Patrick Liu,Estella Zhou,Estella Zhou,1-6,1,6,0,1,Completed,true,false,false
+AA014093,12 Sep 26,9,Kings Park,Ormond,No. 4,Olivia Xie,Britt Bui,Olivia Xie,6-4,6,4,1,0,Completed,true,true,false
+AA014094,12 Sep 26,9,Mordialloc,St Pauls,No. 1,Ethan Thomas,Abigail Zhou,Abigail Zhou,2-6,2,6,0,1,Completed,true,false,false
+AA014094,12 Sep 26,9,Mordialloc,St Pauls,No. 2,Oliver Redzia,Marygrace Mulholland,Marygrace Mulholland,1-6,1,6,0,1,Completed,true,false,false
+AA014094,12 Sep 26,9,Mordialloc,St Pauls,No. 3,Sylvia Huang,Chloe Tan,Chloe Tan,1-6,1,6,0,1,Completed,true,false,true
+AA014094,12 Sep 26,9,Mordialloc,St Pauls,No. 4,Anthony Zougaib,Lucas Gomez,Lucas Gomez,1-6,1,6,0,1,Completed,true,true,false

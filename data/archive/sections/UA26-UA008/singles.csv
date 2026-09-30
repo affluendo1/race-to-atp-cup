@@ -1,0 +1,81 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA008011,02 Feb 20,1,Mordialloc,BLTC 2,No. 1,Aariyan Gokhale,Jack Falconer,Jack Falconer,3-6,3,6,0,1,Completed,true,false,false
+UA008011,02 Feb 20,1,Mordialloc,BLTC 2,No. 2,Vignesh Ramesh,Austin Taleb,Vignesh Ramesh,6-3,6,3,1,0,Completed,true,false,false
+UA008011,02 Feb 20,1,Mordialloc,BLTC 2,No. 3,Luke Evans,Finlay Hickey,Finlay Hickey,6-7,6,7,0,1,Completed,true,false,false
+UA008011,02 Feb 20,1,Mordialloc,BLTC 2,No. 4,Ansh Raghav,Nic Salah,Ansh Raghav,6-2,6,2,1,0,Completed,true,false,false
+UA008012,02 Feb 20,1,Kooyong Scotch,GPHC,No. 1,Richard Jones,Hannah Croft,Hannah Croft,1-6,1,6,0,1,Completed,true,false,false
+UA008012,02 Feb 20,1,Kooyong Scotch,GPHC,No. 2,Don McOmish,Jasper Reicher,Jasper Reicher,3-6,3,6,0,1,Completed,true,false,false
+UA008012,02 Feb 20,1,Kooyong Scotch,GPHC,No. 3,Thomas Earle,Sebastion Joseph,Sebastion Joseph,3-6,3,6,0,1,Completed,true,false,false
+UA008012,02 Feb 20,1,Kooyong Scotch,GPHC,No. 4,Edward Strauss,Tom Scott,Tom Scott,2-6,2,6,0,1,Completed,true,false,true
+UA008013,02 Feb 20,1,Coatesville,BLTC 1 Bodley,No. 1,Kirk Monterio,Hamish Roberts,Hamish Roberts,4-6,4,6,0,1,Completed,true,false,false
+UA008013,02 Feb 20,1,Coatesville,BLTC 1 Bodley,No. 2,Aaron Ryan,George Fennessy,George Fennessy,3-6,3,6,0,1,Completed,true,false,false
+UA008013,02 Feb 20,1,Coatesville,BLTC 1 Bodley,No. 3,Jonah Dela Cruz,Anirush Harirani,Jonah Dela Cruz,7-6,7,6,1,0,Completed,true,false,false
+UA008013,02 Feb 20,1,Coatesville,BLTC 1 Bodley,No. 4,Joe Lee,Stevan Dakic,Joe Lee,6-2,6,2,1,0,Completed,true,false,false
+UA008014,02 Feb 20,1,Bentleigh Rec,Tennis World,No. 1,Kevin Zhou,Amelie Sireula,Kevin Zhou,6-2,6,2,1,0,Completed,true,false,false
+UA008014,02 Feb 20,1,Bentleigh Rec,Tennis World,No. 2,Ishan Mitra,[Unnamed player — TROLS UA008014 away code 2],Ishan Mitra,6-0,6,0,1,0,Completed,false,false,false
+UA008014,02 Feb 20,1,Bentleigh Rec,Tennis World,No. 3,Declan McCormack,Luca Scaramuzzino,Declan McCormack,6-2,6,2,1,0,Completed,true,false,false
+UA008014,02 Feb 20,1,Bentleigh Rec,Tennis World,No. 4,Charlie Redman,Rhyz John Bijasa,Charlie Redman,7-6,7,6,1,0,Completed,true,false,false
+UA008021,09 Feb 20,2,Tennis World,Mordialloc,No. 1,Amelie Sireula,Vignesh Ramesh,Vignesh Ramesh,4-6,4,6,0,1,Completed,true,false,false
+UA008021,09 Feb 20,2,Tennis World,Mordialloc,No. 2,Ella Burns,Luke Evans,Luke Evans,1-6,1,6,0,1,Completed,true,false,false
+UA008021,09 Feb 20,2,Tennis World,Mordialloc,No. 3,Alex Tarraran,Ansh Raghav,Alex Tarraran,6-2,6,2,1,0,Completed,true,false,false
+UA008021,09 Feb 20,2,Tennis World,Mordialloc,No. 4,Chelsea Hall,Diesel Reid,Diesel Reid,1-6,1,6,0,1,Completed,true,false,false
+UA008022,09 Feb 20,2,BLTC 2,Kooyong Scotch,No. 1,Jack Falconer,Richard Jones,Jack Falconer,6-1,6,1,1,0,Completed,true,false,false
+UA008022,09 Feb 20,2,BLTC 2,Kooyong Scotch,No. 2,Austin Taleb,William Cullity,Austin Taleb,6-2,6,2,1,0,Completed,true,false,false
+UA008022,09 Feb 20,2,BLTC 2,Kooyong Scotch,No. 3,Finlay Hickey,Ned Cohen,Finlay Hickey,6-3,6,3,1,0,Completed,true,false,false
+UA008022,09 Feb 20,2,BLTC 2,Kooyong Scotch,No. 4,Nick Capel,Ashton Coster,Nick Capel,6-4,6,4,1,0,Completed,true,false,false
+UA008023,09 Feb 20,2,GPHC,Coatesville,No. 1,Hannah Croft,Aaron Ryan,Hannah Croft,6-0,6,0,1,0,Completed,true,false,false
+UA008023,09 Feb 20,2,GPHC,Coatesville,No. 2,James McGrath,Jonah Dela Cruz,James McGrath,7-6,7,6,1,0,Completed,true,false,false
+UA008023,09 Feb 20,2,GPHC,Coatesville,No. 3,Will McCarthy,Joe Lee,Joe Lee,1-6,1,6,0,1,Completed,true,false,false
+UA008023,09 Feb 20,2,GPHC,Coatesville,No. 4,Sophie Hart,Charlie Wang,Sophie Hart,7-5,7,5,1,0,Completed,true,false,false
+UA008024,09 Feb 20,2,BLTC 1 Bodley,Bentleigh Rec,No. 1,Hamish Roberts,Ishan Mitra,Hamish Roberts,7-6,7,6,1,0,Completed,true,false,false
+UA008024,09 Feb 20,2,BLTC 1 Bodley,Bentleigh Rec,No. 2,George Fennessy,Declan McCormack,Declan McCormack,1-6,1,6,0,1,Completed,true,false,false
+UA008024,09 Feb 20,2,BLTC 1 Bodley,Bentleigh Rec,No. 3,Anirush Harirani,Charlie Redman,Charlie Redman,3-6,3,6,0,1,Completed,true,false,false
+UA008024,09 Feb 20,2,BLTC 1 Bodley,Bentleigh Rec,No. 4,Freddie Liu,Stephen Rassias,Freddie Liu,6-3,6,3,1,0,Completed,true,false,false
+UA008031,16 Feb 20,3,Mordialloc,BLTC 1 Bodley,No. 1,Aariyan Gokhale,Hamish Roberts,Hamish Roberts,5-7,5,7,0,1,Completed,true,false,false
+UA008031,16 Feb 20,3,Mordialloc,BLTC 1 Bodley,No. 2,Vignesh Ramesh,Stevan Dakic,Vignesh Ramesh,6-2,6,2,1,0,Completed,true,false,false
+UA008031,16 Feb 20,3,Mordialloc,BLTC 1 Bodley,No. 3,Luke Evans,Freddie Liu,Luke Evans,6-2,6,2,1,0,Completed,true,false,false
+UA008031,16 Feb 20,3,Mordialloc,BLTC 1 Bodley,No. 4,Diesel Reid,Tom Felsenthal,Diesel Reid,6-0,6,0,1,0,Completed,true,false,false
+UA008032,16 Feb 20,3,Kooyong Scotch,Tennis World,No. 1,Don McOmish,Ella Burns,Ella Burns,6-7,6,7,0,1,Completed,true,false,false
+UA008032,16 Feb 20,3,Kooyong Scotch,Tennis World,No. 2,Thomas Earle,Alex Tarraran,Alex Tarraran,3-6,3,6,0,1,Completed,true,false,false
+UA008032,16 Feb 20,3,Kooyong Scotch,Tennis World,No. 3,Ned Cohen,Chelsea Hall,Ned Cohen,6-1,6,1,1,0,Completed,true,false,false
+UA008032,16 Feb 20,3,Kooyong Scotch,Tennis World,No. 4,Edward Strauss,Luca Scaramuzzino,Edward Strauss,6-1,6,1,1,0,Completed,true,false,false
+UA008033,16 Feb 20,3,Coatesville,BLTC 2,No. 1,Kirk Monterio,Austin Taleb,Austin Taleb,1-6,1,6,0,1,Completed,true,false,false
+UA008033,16 Feb 20,3,Coatesville,BLTC 2,No. 2,Jonah Dela Cruz,Kai Ballantyne,Kai Ballantyne,6-7,6,7,0,1,Completed,true,false,true
+UA008033,16 Feb 20,3,Coatesville,BLTC 2,No. 3,Joe Lee,Finlay Hickey,Finlay Hickey,3-6,3,6,0,1,Completed,true,false,false
+UA008033,16 Feb 20,3,Coatesville,BLTC 2,No. 4,Charlie Wang,Nic Salah,Nic Salah,4-6,4,6,0,1,Completed,true,false,false
+UA008034,16 Feb 20,3,Bentleigh Rec,GPHC,No. 1,Kevin Zhou,Hannah Croft,Kevin Zhou,6-4,6,4,1,0,Completed,true,false,false
+UA008034,16 Feb 20,3,Bentleigh Rec,GPHC,No. 2,Ishan Mitra,James McGrath,James McGrath,1-6,1,6,0,1,Completed,true,false,false
+UA008034,16 Feb 20,3,Bentleigh Rec,GPHC,No. 3,Charlie Redman,Sebastion Joseph,Charlie Redman,6-3,6,3,1,0,Completed,true,false,false
+UA008034,16 Feb 20,3,Bentleigh Rec,GPHC,No. 4,Stephen Rassias,Sophie Hart,Sophie Hart,6-7,6,7,0,1,Completed,true,false,false
+UA008041,23 Feb 20,4,GPHC,Mordialloc,No. 1,James McGrath,Aariyan Gokhale,Aariyan Gokhale,2-6,2,6,0,1,Completed,true,false,false
+UA008041,23 Feb 20,4,GPHC,Mordialloc,No. 2,Jasper Reicher,Vignesh Ramesh,Vignesh Ramesh,5-7,5,7,0,1,Completed,true,false,false
+UA008041,23 Feb 20,4,GPHC,Mordialloc,No. 3,Will McCarthy,Ansh Raghav,Ansh Raghav,2-6,2,6,0,1,Completed,true,false,false
+UA008041,23 Feb 20,4,GPHC,Mordialloc,No. 4,Sophie Hart,Diesel Reid,Diesel Reid,2-6,2,6,0,1,Completed,true,false,false
+UA008042,23 Feb 20,4,BLTC 1 Bodley,Kooyong Scotch,No. 1,George Fennessy,Richard Jones,George Fennessy,6-1,6,1,1,0,Completed,true,false,false
+UA008042,23 Feb 20,4,BLTC 1 Bodley,Kooyong Scotch,No. 2,Anirush Harirani,Don McOmish,Anirush Harirani,6-0,6,0,1,0,Completed,true,false,false
+UA008042,23 Feb 20,4,BLTC 1 Bodley,Kooyong Scotch,No. 3,Stevan Dakic,William Cullity,Stevan Dakic,7-6,7,6,1,0,Completed,true,false,false
+UA008042,23 Feb 20,4,BLTC 1 Bodley,Kooyong Scotch,No. 4,Freddie Liu,Edward Strauss,Edward Strauss,2-6,2,6,0,1,Completed,true,false,false
+UA008043,23 Feb 20,4,Tennis World,Coatesville,No. 1,Amelie Sireula,Kirk Monterio,Amelie Sireula,6-2,6,2,1,0,Completed,true,false,false
+UA008043,23 Feb 20,4,Tennis World,Coatesville,No. 2,Chelsea Hall,Aaron Ryan,Chelsea Hall,6-1,6,1,1,0,Completed,true,false,false
+UA008043,23 Feb 20,4,Tennis World,Coatesville,No. 3,Luca Scaramuzzino,Jonah Dela Cruz,Jonah Dela Cruz,1-6,1,6,0,1,Completed,true,false,false
+UA008043,23 Feb 20,4,Tennis World,Coatesville,No. 4,Rhyz John Bijasa,Joe Lee,Rhyz John Bijasa,6-4,6,4,1,0,Completed,true,false,false
+UA008044,23 Feb 20,4,BLTC 2,Bentleigh Rec,No. 1,Jack Falconer,Kevin Zhou,Jack Falconer,6-4,6,4,1,0,Completed,true,false,false
+UA008044,23 Feb 20,4,BLTC 2,Bentleigh Rec,No. 2,Austin Taleb,Declan McCormack,Declan McCormack,3-6,3,6,0,1,Completed,true,false,false
+UA008044,23 Feb 20,4,BLTC 2,Bentleigh Rec,No. 3,Finlay Hickey,Charlie Redman,Charlie Redman,1-6,1,6,0,1,Completed,true,false,false
+UA008044,23 Feb 20,4,BLTC 2,Bentleigh Rec,No. 4,Nic Salah,Stephen Rassias,Nic Salah,7-5,7,5,1,0,Completed,true,false,false
+UA008051,01 Mar 20,5,Coatesville,Bentleigh Rec,No. 1,Kirk Monterio,Kevin Zhou,Kevin Zhou,4-6,4,6,0,1,Completed,true,false,false
+UA008051,01 Mar 20,5,Coatesville,Bentleigh Rec,No. 2,Aaron Ryan,Ishan Mitra,Ishan Mitra,2-6,2,6,0,1,Completed,true,false,false
+UA008051,01 Mar 20,5,Coatesville,Bentleigh Rec,No. 3,Jonah Dela Cruz,Declan McCormack,Jonah Dela Cruz,6-2,6,2,1,0,Completed,true,false,false
+UA008051,01 Mar 20,5,Coatesville,Bentleigh Rec,No. 4,Charlie Wang,Charlie Redman,Charlie Redman,1-6,1,6,0,1,Completed,true,false,false
+UA008052,01 Mar 20,5,Tennis World,BLTC 1 Bodley,No. 1,Amelie Sireula,Hamish Roberts,Hamish Roberts,0-6,0,6,0,1,Completed,true,false,false
+UA008052,01 Mar 20,5,Tennis World,BLTC 1 Bodley,No. 2,Alex Tarraran,George Fennessy,George Fennessy,4-6,4,6,0,1,Completed,true,false,false
+UA008052,01 Mar 20,5,Tennis World,BLTC 1 Bodley,No. 3,Chelsea Hall,Stevan Dakic,Stevan Dakic,2-6,2,6,0,1,Completed,true,false,false
+UA008052,01 Mar 20,5,Tennis World,BLTC 1 Bodley,No. 4,Rhyz John Bijasa,Tom Felsenthal,Rhyz John Bijasa,6-2,6,2,1,0,Completed,true,false,false
+UA008053,01 Mar 20,5,GPHC,BLTC 2,No. 1,Hannah Croft,Jack Falconer,Jack Falconer,3-6,3,6,0,1,Completed,true,false,false
+UA008053,01 Mar 20,5,GPHC,BLTC 2,No. 2,Jasper Reicher,Austin Taleb,Jasper Reicher,6-4,6,4,1,0,Completed,true,false,false
+UA008053,01 Mar 20,5,GPHC,BLTC 2,No. 3,Sebastion Joseph,Kai Ballantyne,Kai Ballantyne,4-6,4,6,0,1,Completed,true,false,true
+UA008053,01 Mar 20,5,GPHC,BLTC 2,No. 4,Will McCarthy,Nic Salah,Will McCarthy,6-4,6,4,1,0,Completed,true,false,false
+UA008054,01 Mar 20,5,Mordialloc,Kooyong Scotch,No. 1,Aariyan Gokhale,Richard Jones,Aariyan Gokhale,6-4,6,4,1,0,Completed,true,false,false
+UA008054,01 Mar 20,5,Mordialloc,Kooyong Scotch,No. 2,Luke Evans,Thomas Earle,Thomas Earle,1-6,1,6,0,1,Completed,true,false,false
+UA008054,01 Mar 20,5,Mordialloc,Kooyong Scotch,No. 3,Ansh Raghav,William Cullity,Ansh Raghav,7-6,7,6,1,0,Completed,true,false,false
+UA008054,01 Mar 20,5,Mordialloc,Kooyong Scotch,No. 4,Diesel Reid,Ned Cohen,Ned Cohen,5-7,5,7,0,1,Completed,true,false,false

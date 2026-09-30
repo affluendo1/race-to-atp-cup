@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA8-UA019",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2011",
+  "season_id": "UA8",
+  "season_label": "Autumn 2011",
+  "source_section_code": "UA019",
+  "section_label": "Section 19",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World",
+      "wins": 0,
+      "points": 82,
+      "percentage": 158.46,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 82,
+      "percentage": 152.06,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Middle Brighton",
+      "wins": 0,
+      "points": 68,
+      "percentage": 116.09,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Bodley Tennis Plus",
+      "wins": 0,
+      "points": 56,
+      "percentage": 83.05,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Hampton",
+      "wins": 0,
+      "points": 51,
+      "percentage": 88.78,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Glen Eira Beech",
+      "wins": 0,
+      "points": 45,
+      "percentage": 74.56,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 36,
+      "percentage": 69.62,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA8-UA019",
+  "fixtures": 59,
+  "completed_fixtures": 38,
+  "draw_fixtures": 59,
+  "singles_rubbers": 147,
+  "doubles_rubbers": 74,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA7-UA021",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2010",
+  "season_id": "UA7",
+  "season_label": "Spring 2010",
+  "source_section_code": "UA021",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Middle Brighton",
+      "wins": 0,
+      "points": 94,
+      "percentage": 147.22,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 86,
+      "percentage": 130.03,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Bodley Tennis Plus",
+      "wins": 0,
+      "points": 86,
+      "percentage": 117.42,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Hurlingham Park",
+      "wins": 0,
+      "points": 71,
+      "percentage": 91.49,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong Scotch",
+      "wins": 0,
+      "points": 67,
+      "percentage": 98.86,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong",
+      "wins": 0,
+      "points": 62,
+      "percentage": 96.87,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park 2",
+      "wins": 0,
+      "points": 51,
+      "percentage": 80.37,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park 1",
+      "wins": 0,
+      "points": 43,
+      "percentage": 61.6,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA7-UA021",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 59,
+  "singles_rubbers": 204,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

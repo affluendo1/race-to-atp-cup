@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA18-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2016",
+  "season_id": "UA18",
+  "season_label": "Autumn 2016",
+  "source_section_code": "UA017",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World",
+      "wins": 11,
+      "points": 114,
+      "percentage": 226.9,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 10,
+      "points": 105,
+      "percentage": 155.89,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Highett",
+      "wins": 9,
+      "points": 84,
+      "percentage": 116.44,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Hurlingham Park 2",
+      "wins": 7,
+      "points": 72,
+      "percentage": 103.64,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 6,
+      "points": 64,
+      "percentage": 88.3,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Parkdale",
+      "wins": 4,
+      "points": 56,
+      "percentage": 84.8,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Glen Eira Beech",
+      "wins": 3,
+      "points": 43,
+      "percentage": 71.39,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hurlingham Park 1",
+      "wins": 0,
+      "points": 22,
+      "percentage": 47.09,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA18-UA017",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 45,
+  "singles_rubbers": 216,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA8-UA011",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2011",
+  "season_id": "UA8",
+  "season_label": "Autumn 2011",
+  "source_section_code": "UA011",
+  "section_label": "Section 11",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World",
+      "wins": 0,
+      "points": 119.5,
+      "percentage": 205.31,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Royal Ave",
+      "wins": 0,
+      "points": 96.5,
+      "percentage": 157.6,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Bentleigh Rec",
+      "wins": 0,
+      "points": 89,
+      "percentage": 141.51,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "GPHC MLC",
+      "wins": 0,
+      "points": 68,
+      "percentage": 106.43,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Caulfield Rec",
+      "wins": 0,
+      "points": 67,
+      "percentage": 98.24,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Parkdale",
+      "wins": 0,
+      "points": 62,
+      "percentage": 85.23,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Hampton 2",
+      "wins": 0,
+      "points": 38,
+      "percentage": 57.54,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hampton 1",
+      "wins": 0,
+      "points": 20,
+      "percentage": 38.08,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA8-UA011",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 218,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

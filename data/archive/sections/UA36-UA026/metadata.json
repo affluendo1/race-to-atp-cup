@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA36-UA026",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2025",
+  "season_id": "UA36",
+  "season_label": "Autumn 2025",
+  "source_section_code": "UA026",
+  "section_label": "Section 26 Green",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Murrumbeena",
+      "wins": 11,
+      "points": 108,
+      "percentage": 164.44,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Lauriston",
+      "wins": 10,
+      "points": 101,
+      "percentage": 156.35,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "St Joan of Arc",
+      "wins": 10,
+      "points": 98,
+      "percentage": 144.88,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Royal South Yarra",
+      "wins": 7,
+      "points": 76,
+      "percentage": 106.19,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Mentone Yellow",
+      "wins": 6,
+      "points": 65.5,
+      "percentage": 101.81,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Victory Park",
+      "wins": 5,
+      "points": 59,
+      "percentage": 93.52,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC Blue",
+      "wins": 2,
+      "points": 35,
+      "percentage": 57.66,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Mentone Gold",
+      "wins": 0,
+      "points": 17.5,
+      "percentage": 46.1,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA36-UA026",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 216,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

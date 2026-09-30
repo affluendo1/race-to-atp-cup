@@ -1,0 +1,161 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA013012,02 Feb 25,1,GPHC,Kings Park Red,No. 1,Levi Goulding,Nicholas Roselt,Nicholas Roselt,4-6,4,6,0,1,Completed,true,false,false
+UA013012,02 Feb 25,1,GPHC,Kings Park Red,No. 2,Isla French,William Haydon,Isla French,6-4,6,4,1,0,Completed,true,false,false
+UA013012,02 Feb 25,1,GPHC,Kings Park Red,No. 3,Claire Lo,Liam Huang,Claire Lo,6-1,6,1,1,0,Completed,true,false,true
+UA013012,02 Feb 25,1,GPHC,Kings Park Red,No. 4,Emma Taylor,Brendan Shim,Emma Taylor,6-3,6,3,1,0,Completed,true,false,false
+UA013013,02 Feb 25,1,Le Page,Coatesville,No. 1,Jasper Mace,Timothy Tan,Timothy Tan,2-6,2,6,0,1,Completed,true,false,false
+UA013013,02 Feb 25,1,Le Page,Coatesville,No. 2,Yatharth Manware,Xavier Pace,Yatharth Manware,6-4,6,4,1,0,Completed,true,false,false
+UA013013,02 Feb 25,1,Le Page,Coatesville,No. 3,Yohan Singh,Maisey McCallum,Yohan Singh,7-5,7,5,1,0,Completed,true,false,false
+UA013013,02 Feb 25,1,Le Page,Coatesville,No. 4,[Unnamed player — TROLS UA013013 home code 4],Kazu Nakada,Kazu Nakada,0-6,0,6,0,1,Completed,false,false,false
+UA013014,02 Feb 25,1,St Joan of Arc,Sth Murrumbeena,No. 1,Hugh Harrington,Isabelle Watson,Isabelle Watson,1-6,1,6,0,1,Completed,true,false,false
+UA013014,02 Feb 25,1,St Joan of Arc,Sth Murrumbeena,No. 2,Finlay Davies,Grace Howard,Finlay Davies,6-0,6,0,1,0,Completed,true,false,false
+UA013014,02 Feb 25,1,St Joan of Arc,Sth Murrumbeena,No. 3,Toby Storer,Maddie Christie,Toby Storer,6-1,6,1,1,0,Completed,true,false,false
+UA013014,02 Feb 25,1,St Joan of Arc,Sth Murrumbeena,No. 4,Charlie Pfahl,Emilia Ferris,Charlie Pfahl,6-0,6,0,1,0,Completed,true,false,false
+UA013022,09 Feb 25,2,Royal South Yarra,GPHC,No. 1,Lincoln Karlovic,Levi Goulding,Lincoln Karlovic,6-2,6,2,1,0,Completed,true,false,false
+UA013022,09 Feb 25,2,Royal South Yarra,GPHC,No. 2,Archer Luff,Isla French,Isla French,5-7,5,7,0,1,Completed,true,false,false
+UA013022,09 Feb 25,2,Royal South Yarra,GPHC,No. 3,Jack Hutchins,Claire Lo,Claire Lo,0-6,0,6,0,1,Completed,true,false,false
+UA013022,09 Feb 25,2,Royal South Yarra,GPHC,No. 4,Herbie Jones,Emma Taylor,Herbie Jones,6-4,6,4,1,0,Completed,true,false,false
+UA013023,09 Feb 25,2,Kings Park Red,Le Page,No. 1,Nicholas Roselt,Leon Sukuan Li,Nicholas Roselt,6-0,6,0,1,0,Completed,true,false,false
+UA013023,09 Feb 25,2,Kings Park Red,Le Page,No. 2,William Haydon,Yatharth Manware,Yatharth Manware,2-6,2,6,0,1,Completed,true,false,false
+UA013023,09 Feb 25,2,Kings Park Red,Le Page,No. 3,Thien Hoang,Diego Fernando,Thien Hoang,6-3,6,3,1,0,Completed,true,false,false
+UA013023,09 Feb 25,2,Kings Park Red,Le Page,No. 4,Brendan Shim,Yohan Singh,Brendan Shim,6-2,6,2,1,0,Completed,true,false,false
+UA013024,09 Feb 25,2,Coatesville,St Joan of Arc,No. 1,Timothy Tan,William Cunningham,William Cunningham,4-6,4,6,0,1,Completed,true,false,false
+UA013024,09 Feb 25,2,Coatesville,St Joan of Arc,No. 2,Xavier Pace,Finlay Davies,Xavier Pace,6-1,6,1,1,0,Completed,true,false,false
+UA013024,09 Feb 25,2,Coatesville,St Joan of Arc,No. 3,Maisey McCallum,Toby Storer,Maisey McCallum,6-3,6,3,1,0,Completed,true,false,false
+UA013024,09 Feb 25,2,Coatesville,St Joan of Arc,No. 4,Hayley Lam,Charlie Pfahl,Hayley Lam,6-1,6,1,1,0,Completed,true,false,false
+UA013033,16 Feb 25,3,Le Page,Royal South Yarra,No. 1,Leon Sukuan Li,Lincoln Karlovic,Lincoln Karlovic,1-6,1,6,0,1,Completed,true,false,false
+UA013033,16 Feb 25,3,Le Page,Royal South Yarra,No. 2,Yatharth Manware,Archer Luff,Yatharth Manware,6-2,6,2,1,0,Completed,true,false,false
+UA013033,16 Feb 25,3,Le Page,Royal South Yarra,No. 3,Diego Fernando,Herbie Jones,Herbie Jones,4-6,4,6,0,1,Completed,true,false,false
+UA013033,16 Feb 25,3,Le Page,Royal South Yarra,No. 4,Alex Liang,Ted Read,Ted Read,3-6,3,6,0,1,Completed,true,true,true
+UA013042,23 Feb 25,4,Coatesville,GPHC,No. 1,Timothy Tan,Levi Goulding,Timothy Tan,6-1,6,1,1,0,Completed,true,false,false
+UA013042,23 Feb 25,4,Coatesville,GPHC,No. 2,Xavier Pace,Isla French,Isla French,3-6,3,6,0,1,Completed,true,false,false
+UA013042,23 Feb 25,4,Coatesville,GPHC,No. 3,Hayley Lam,Emma Taylor,Emma Taylor,4-6,4,6,0,1,Completed,true,false,false
+UA013042,23 Feb 25,4,Coatesville,GPHC,No. 4,Kazu Nakada,Lilly Hobbs,Lilly Hobbs,4-6,4,6,0,1,Completed,true,false,false
+UA013043,23 Feb 25,4,Sth Murrumbeena,Le Page,No. 1,Olive Watson,Leon Sukuan Li,Leon Sukuan Li,3-6,3,6,0,1,Completed,true,false,false
+UA013043,23 Feb 25,4,Sth Murrumbeena,Le Page,No. 2,Grace Howard,Yatharth Manware,Yatharth Manware,1-6,1,6,0,1,Completed,true,false,false
+UA013043,23 Feb 25,4,Sth Murrumbeena,Le Page,No. 3,Maddie Christie,Yohan Singh,Yohan Singh,4-6,4,6,0,1,Completed,true,false,false
+UA013043,23 Feb 25,4,Sth Murrumbeena,Le Page,No. 4,Emilia Ferris,Marco Lazic,Marco Lazic,4-6,4,6,0,1,Completed,true,false,true
+UA013044,23 Feb 25,4,Royal South Yarra,St Joan of Arc,No. 1,Archer Luff,William Cunningham,William Cunningham,4-6,4,6,0,1,Completed,true,false,false
+UA013044,23 Feb 25,4,Royal South Yarra,St Joan of Arc,No. 2,Bella Sullivan,Hugh Harrington,Bella Sullivan,6-4,6,4,1,0,Completed,true,false,false
+UA013044,23 Feb 25,4,Royal South Yarra,St Joan of Arc,No. 3,Herbie Jones,Finlay Davies,Finlay Davies,2-6,2,6,0,1,Completed,true,false,false
+UA013044,23 Feb 25,4,Royal South Yarra,St Joan of Arc,No. 4,Ted Read,Charlie Pfahl,Ted Read,6-3,6,3,1,0,Completed,true,true,false
+UA013051,02 Mar 25,5,Le Page,St Joan of Arc,No. 1,Leon Sukuan Li,William Cunningham,William Cunningham,1-6,1,6,0,1,Completed,true,false,false
+UA013051,02 Mar 25,5,Le Page,St Joan of Arc,No. 2,Jasper Mace,Hugh Harrington,Hugh Harrington,1-6,1,6,0,1,Completed,true,false,false
+UA013051,02 Mar 25,5,Le Page,St Joan of Arc,No. 3,Yatharth Manware,Finlay Davies,Yatharth Manware,6-2,6,2,1,0,Completed,true,false,false
+UA013051,02 Mar 25,5,Le Page,St Joan of Arc,No. 4,Yohan Singh,Toby Storer,Yohan Singh,7-6,7,6,1,0,Completed,true,false,false
+UA013052,02 Mar 25,5,Sth Murrumbeena,Coatesville,No. 1,Isabelle Watson,Timothy Tan,Isabelle Watson,7-5,7,5,1,0,Completed,true,false,false
+UA013052,02 Mar 25,5,Sth Murrumbeena,Coatesville,No. 2,Olive Watson,Maisey McCallum,Olive Watson,6-1,6,1,1,0,Completed,true,false,false
+UA013052,02 Mar 25,5,Sth Murrumbeena,Coatesville,No. 3,Grace Howard,Hayley Lam,Grace Howard,6-3,6,3,1,0,Completed,true,false,false
+UA013052,02 Mar 25,5,Sth Murrumbeena,Coatesville,No. 4,Emilia Ferris,Kazu Nakada,Kazu Nakada,1-6,1,6,0,1,Completed,true,false,false
+UA013053,02 Mar 25,5,Kings Park Red,Royal South Yarra,No. 1,Nicholas Roselt,Lincoln Karlovic,Nicholas Roselt,6-3,6,3,1,0,Completed,true,false,false
+UA013053,02 Mar 25,5,Kings Park Red,Royal South Yarra,No. 2,Thien Hoang,Herbie Jones,Thien Hoang,6-0,6,0,1,0,Completed,true,false,false
+UA013053,02 Mar 25,5,Kings Park Red,Royal South Yarra,No. 3,Brendan Shim,Ted Read,Ted Read,1-6,1,6,0,1,Completed,true,false,true
+UA013053,02 Mar 25,5,Kings Park Red,Royal South Yarra,No. 4,Hai Nhi Hoang,Freddie Hunt,Hai Nhi Hoang,6-4,6,4,1,0,Completed,true,false,true
+UA013072,23 Mar 25,7,GPHC,St Joan of Arc,No. 1,Levi Goulding,Hugh Harrington,Hugh Harrington,2-6,2,6,0,1,Completed,true,false,false
+UA013072,23 Mar 25,7,GPHC,St Joan of Arc,No. 2,Isla French,Finlay Davies,Isla French,6-4,6,4,1,0,Completed,true,false,false
+UA013072,23 Mar 25,7,GPHC,St Joan of Arc,No. 3,Claire Lo,Toby Storer,Claire Lo,6-0,6,0,1,0,Completed,true,false,false
+UA013072,23 Mar 25,7,GPHC,St Joan of Arc,No. 4,Lilly Hobbs,Charlie Pfahl,Charlie Pfahl,1-6,1,6,0,1,Completed,true,false,false
+UA013073,23 Mar 25,7,Sth Murrumbeena,Kings Park Red,No. 1,Isabelle Watson,Nicholas Roselt,Isabelle Watson,6-3,6,3,1,0,Completed,true,false,false
+UA013073,23 Mar 25,7,Sth Murrumbeena,Kings Park Red,No. 2,Olive Watson,William Haydon,Olive Watson,6-0,6,0,1,0,Completed,true,false,false
+UA013073,23 Mar 25,7,Sth Murrumbeena,Kings Park Red,No. 3,Grace Howard,Thien Hoang,Thien Hoang,2-6,2,6,0,1,Completed,true,false,false
+UA013073,23 Mar 25,7,Sth Murrumbeena,Kings Park Red,No. 4,Emilia Ferris,Hai Nhi Hoang,Hai Nhi Hoang,1-6,1,6,0,1,Completed,true,false,false
+UA013074,23 Mar 25,7,Coatesville,Royal South Yarra,No. 1,Timothy Tan,Lincoln Karlovic,Lincoln Karlovic,3-6,3,6,0,1,Completed,true,false,false
+UA013074,23 Mar 25,7,Coatesville,Royal South Yarra,No. 2,Xavier Pace,Archer Luff,Xavier Pace,6-0,6,0,1,0,Completed,true,false,false
+UA013074,23 Mar 25,7,Coatesville,Royal South Yarra,No. 3,Maisey McCallum,Bella Sullivan,Bella Sullivan,2-6,2,6,0,1,Completed,true,false,false
+UA013074,23 Mar 25,7,Coatesville,Royal South Yarra,No. 4,Kazu Nakada,Sophia Syed,Sophia Syed,5-7,5,7,0,1,Completed,true,false,false
+UA013082,30 Mar 25,8,Kings Park Red,GPHC,No. 1,Nicholas Roselt,Levi Goulding,Levi Goulding,2-6,2,6,0,1,Completed,true,false,false
+UA013082,30 Mar 25,8,Kings Park Red,GPHC,No. 2,William Haydon,Isla French,William Haydon,7-5,7,5,1,0,Completed,true,false,false
+UA013082,30 Mar 25,8,Kings Park Red,GPHC,No. 3,Thien Hoang,Emma Taylor,Thien Hoang,7-5,7,5,1,0,Completed,true,false,false
+UA013082,30 Mar 25,8,Kings Park Red,GPHC,No. 4,Brendan Shim,Lilly Hobbs,Brendan Shim,6-1,6,1,1,0,Completed,true,false,false
+UA013083,30 Mar 25,8,Coatesville,Le Page,No. 1,Timothy Tan,Leon Sukuan Li,Timothy Tan,6-2,6,2,1,0,Completed,true,false,false
+UA013083,30 Mar 25,8,Coatesville,Le Page,No. 2,Xavier Pace,Yatharth Manware,Yatharth Manware,4-6,4,6,0,1,Completed,true,false,false
+UA013083,30 Mar 25,8,Coatesville,Le Page,No. 3,Hayley Lam,Yohan Singh,Yohan Singh,4-6,4,6,0,1,Completed,true,false,false
+UA013083,30 Mar 25,8,Coatesville,Le Page,No. 4,Kazu Nakada,Mitchell Lormaranta,Mitchell Lormaranta,4-6,4,6,0,1,Completed,true,false,true
+UA013084,30 Mar 25,8,Sth Murrumbeena,St Joan of Arc,No. 1,[Unnamed player — TROLS UA013084 home code 1],William Cunningham,William Cunningham,0-6,0,6,0,1,Completed,false,false,false
+UA013084,30 Mar 25,8,Sth Murrumbeena,St Joan of Arc,No. 2,Olive Watson,Finlay Davies,Olive Watson,6-2,6,2,1,0,Completed,true,false,false
+UA013084,30 Mar 25,8,Sth Murrumbeena,St Joan of Arc,No. 3,Grace Howard,Toby Storer,Toby Storer,6-7,6,7,0,1,Completed,true,false,false
+UA013084,30 Mar 25,8,Sth Murrumbeena,St Joan of Arc,No. 4,Emilia Ferris,Charlie Pfahl,Charlie Pfahl,6-7,6,7,0,1,Completed,true,false,false
+UA013092,04 May 25,9,GPHC,Royal South Yarra,No. 1,Isla French,Archer Luff,Archer Luff,6-7,6,7,0,1,Completed,true,false,false
+UA013092,04 May 25,9,GPHC,Royal South Yarra,No. 2,Claire Lo,Bella Sullivan,Claire Lo,6-2,6,2,1,0,Completed,true,false,false
+UA013092,04 May 25,9,GPHC,Royal South Yarra,No. 3,Emma Taylor,Ted Read,Ted Read,0-6,0,6,0,1,Completed,true,false,true
+UA013092,04 May 25,9,GPHC,Royal South Yarra,No. 4,Lilly Hobbs,Sophia Syed,Sophia Syed,0-6,0,6,0,1,Completed,true,false,false
+UA013093,04 May 25,9,Le Page,Kings Park Red,No. 1,Leon Sukuan Li,Nicholas Roselt,Leon Sukuan Li,7-5,7,5,1,0,Completed,true,false,false
+UA013093,04 May 25,9,Le Page,Kings Park Red,No. 2,Yatharth Manware,William Haydon,Yatharth Manware,6-1,6,1,1,0,Completed,true,false,false
+UA013093,04 May 25,9,Le Page,Kings Park Red,No. 3,Yohan Singh,Thien Hoang,Yohan Singh,6-1,6,1,1,0,Completed,true,false,false
+UA013093,04 May 25,9,Le Page,Kings Park Red,No. 4,Harvey James,Hai Nhi Hoang,Hai Nhi Hoang,0-6,0,6,0,1,Completed,true,true,false
+UA013094,04 May 25,9,St Joan of Arc,Coatesville,No. 1,William Cunningham,Timothy Tan,William Cunningham,6-1,6,1,1,0,Completed,true,false,false
+UA013094,04 May 25,9,St Joan of Arc,Coatesville,No. 2,Hugh Harrington,Xavier Pace,Xavier Pace,4-6,4,6,0,1,Completed,true,false,false
+UA013094,04 May 25,9,St Joan of Arc,Coatesville,No. 3,Toby Storer,Hayley Lam,Hayley Lam,0-6,0,6,0,1,Completed,true,false,false
+UA013094,04 May 25,9,St Joan of Arc,Coatesville,No. 4,Charlie Pfahl,Kazu Nakada,Charlie Pfahl,7-5,7,5,1,0,Completed,true,false,false
+UA013102,11 May 25,10,Sth Murrumbeena,GPHC,No. 1,Isabelle Watson,Levi Goulding,Isabelle Watson,6-3,6,3,1,0,Completed,true,false,false
+UA013102,11 May 25,10,Sth Murrumbeena,GPHC,No. 2,Olive Watson,Isla French,Olive Watson,6-2,6,2,1,0,Completed,true,false,false
+UA013102,11 May 25,10,Sth Murrumbeena,GPHC,No. 3,Grace Howard,Lilly Hobbs,Grace Howard,7-6,7,6,1,0,Completed,true,false,false
+UA013102,11 May 25,10,Sth Murrumbeena,GPHC,No. 4,Maddie Christie,[Unnamed player — TROLS UA013102 away code 4],Maddie Christie,6-0,6,0,1,0,Completed,false,false,false
+UA013103,11 May 25,10,Royal South Yarra,Le Page,No. 1,Bella Sullivan,Leon Sukuan Li,Bella Sullivan,6-0,6,0,1,0,Completed,true,false,false
+UA013103,11 May 25,10,Royal South Yarra,Le Page,No. 2,Jack Hutchins,Yatharth Manware,Yatharth Manware,0-6,0,6,0,1,Completed,true,false,false
+UA013103,11 May 25,10,Royal South Yarra,Le Page,No. 3,Ted Read,Yohan Singh,Ted Read,6-4,6,4,1,0,Completed,true,true,false
+UA013103,11 May 25,10,Royal South Yarra,Le Page,No. 4,Sophia Syed,Thomas Wang,Sophia Syed,6-4,6,4,1,0,Completed,true,false,true
+UA013104,11 May 25,10,Kings Park Red,St Joan of Arc,No. 1,Nicholas Roselt,William Cunningham,William Cunningham,3-6,3,6,0,1,Completed,true,false,false
+UA013104,11 May 25,10,Kings Park Red,St Joan of Arc,No. 2,William Haydon,Hugh Harrington,Hugh Harrington,4-6,4,6,0,1,Completed,true,false,false
+UA013104,11 May 25,10,Kings Park Red,St Joan of Arc,No. 3,Thien Hoang,Charlie Pfahl,Thien Hoang,6-3,6,3,1,0,Completed,true,false,false
+UA013104,11 May 25,10,Kings Park Red,St Joan of Arc,No. 4,Hai Nhi Hoang,Nick Andrew,Nick Andrew,3-6,3,6,0,1,Completed,true,false,true
+UA013112,18 May 25,11,GPHC,Coatesville,No. 1,Levi Goulding,Timothy Tan,Timothy Tan,1-6,1,6,0,1,Completed,true,false,false
+UA013112,18 May 25,11,GPHC,Coatesville,No. 2,Claire Lo,Xavier Pace,Claire Lo,6-1,6,1,1,0,Completed,true,false,false
+UA013112,18 May 25,11,GPHC,Coatesville,No. 3,Emma Taylor,Maisey McCallum,Maisey McCallum,4-6,4,6,0,1,Completed,true,false,false
+UA013112,18 May 25,11,GPHC,Coatesville,No. 4,Lilly Hobbs,Hayley Lam,Lilly Hobbs,6-4,6,4,1,0,Completed,true,false,false
+UA013113,18 May 25,11,Le Page,Sth Murrumbeena,No. 1,Yatharth Manware,Isabelle Watson,Isabelle Watson,2-6,2,6,0,1,Completed,true,false,false
+UA013113,18 May 25,11,Le Page,Sth Murrumbeena,No. 2,Yohan Singh,Grace Howard,Yohan Singh,7-5,7,5,1,0,Completed,true,false,false
+UA013113,18 May 25,11,Le Page,Sth Murrumbeena,No. 3,Alex Liang,Maddie Christie,Alex Liang,6-0,6,0,1,0,Completed,true,true,false
+UA013113,18 May 25,11,Le Page,Sth Murrumbeena,No. 4,Liam Bianchi,Emilia Ferris,Liam Bianchi,6-1,6,1,1,0,Completed,true,true,false
+UA013114,18 May 25,11,St Joan of Arc,Royal South Yarra,No. 1,William Cunningham,Lincoln Karlovic,William Cunningham,6-2,6,2,1,0,Completed,true,false,false
+UA013114,18 May 25,11,St Joan of Arc,Royal South Yarra,No. 2,Hugh Harrington,Bella Sullivan,Bella Sullivan,0-6,0,6,0,1,Completed,true,false,false
+UA013114,18 May 25,11,St Joan of Arc,Royal South Yarra,No. 3,Finlay Davies,Ted Read,Finlay Davies,6-2,6,2,1,0,Completed,true,false,true
+UA013114,18 May 25,11,St Joan of Arc,Royal South Yarra,No. 4,Toby Storer,Freddie Hunt,Toby Storer,6-2,6,2,1,0,Completed,true,false,true
+UA013121,25 May 25,12,St Joan of Arc,Le Page,No. 1,William Cunningham,Yatharth Manware,William Cunningham,6-2,6,2,1,0,Completed,true,false,false
+UA013121,25 May 25,12,St Joan of Arc,Le Page,No. 2,Hugh Harrington,Yohan Singh,Hugh Harrington,6-2,6,2,1,0,Completed,true,false,false
+UA013121,25 May 25,12,St Joan of Arc,Le Page,No. 3,Finlay Davies,Jacob Pho,Finlay Davies,6-3,6,3,1,0,Completed,true,false,true
+UA013121,25 May 25,12,St Joan of Arc,Le Page,No. 4,Charlie Pfahl,Thomas Wang,Thomas Wang,0-6,0,6,0,1,Completed,true,false,true
+UA013122,25 May 25,12,Coatesville,Sth Murrumbeena,No. 1,Xavier Pace,Olive Watson,Xavier Pace,7-6,7,6,1,0,Completed,true,false,false
+UA013122,25 May 25,12,Coatesville,Sth Murrumbeena,No. 2,Maisey McCallum,Grace Howard,Maisey McCallum,7-5,7,5,1,0,Completed,true,false,false
+UA013122,25 May 25,12,Coatesville,Sth Murrumbeena,No. 3,Hayley Lam,Maddie Christie,Hayley Lam,6-0,6,0,1,0,Completed,true,false,false
+UA013122,25 May 25,12,Coatesville,Sth Murrumbeena,No. 4,Kazu Nakada,Emilia Ferris,Kazu Nakada,7-5,7,5,1,0,Completed,true,false,false
+UA013123,25 May 25,12,Royal South Yarra,Kings Park Red,No. 1,Lincoln Karlovic,Nicholas Roselt,Lincoln Karlovic,7-6,7,6,1,0,Completed,true,false,false
+UA013123,25 May 25,12,Royal South Yarra,Kings Park Red,No. 2,Archer Luff,William Haydon,William Haydon,4-6,4,6,0,1,Completed,true,false,false
+UA013123,25 May 25,12,Royal South Yarra,Kings Park Red,No. 3,Ted Read,Thien Hoang,Ted Read,6-2,6,2,1,0,Completed,true,true,false
+UA013123,25 May 25,12,Royal South Yarra,Kings Park Red,No. 4,Sophia Syed,Hai Nhi Hoang,Hai Nhi Hoang,2-6,2,6,0,1,Completed,true,false,false
+UA013131,01 Jun 25,13,Le Page,GPHC,No. 1,Leon Sukuan Li,Levi Goulding,Leon Sukuan Li,6-2,6,2,1,0,Completed,true,false,false
+UA013131,01 Jun 25,13,Le Page,GPHC,No. 2,Yatharth Manware,Isla French,Yatharth Manware,6-2,6,2,1,0,Completed,true,false,false
+UA013131,01 Jun 25,13,Le Page,GPHC,No. 3,Yohan Singh,Claire Lo,Claire Lo,2-6,2,6,0,1,Completed,true,false,false
+UA013131,01 Jun 25,13,Le Page,GPHC,No. 4,Liam Bianchi,Emma Taylor,Emma Taylor,5-7,5,7,0,1,Completed,true,true,false
+UA013133,01 Jun 25,13,Kings Park Red,Coatesville,No. 1,Nicholas Roselt,Timothy Tan,Nicholas Roselt,6-2,6,2,1,0,Completed,true,false,false
+UA013133,01 Jun 25,13,Kings Park Red,Coatesville,No. 2,William Haydon,Xavier Pace,Xavier Pace,3-6,3,6,0,1,Completed,true,false,false
+UA013133,01 Jun 25,13,Kings Park Red,Coatesville,No. 3,Thien Hoang,Maisey McCallum,Thien Hoang,7-5,7,5,1,0,Completed,true,false,false
+UA013133,01 Jun 25,13,Kings Park Red,Coatesville,No. 4,Hai Nhi Hoang,Kazu Nakada,Hai Nhi Hoang,6-3,6,3,1,0,Completed,true,false,false
+UA013134,01 Jun 25,13,Sth Murrumbeena,Royal South Yarra,No. 1,Isabelle Watson,Lincoln Karlovic,Isabelle Watson,6-2,6,2,1,0,Completed,true,false,false
+UA013134,01 Jun 25,13,Sth Murrumbeena,Royal South Yarra,No. 2,Olive Watson,Archer Luff,Olive Watson,6-1,6,1,1,0,Completed,true,false,false
+UA013134,01 Jun 25,13,Sth Murrumbeena,Royal South Yarra,No. 3,Grace Howard,Bella Sullivan,Bella Sullivan,0-6,0,6,0,1,Completed,true,false,false
+UA013134,01 Jun 25,13,Sth Murrumbeena,Royal South Yarra,No. 4,Emilia Ferris,Sophia Syed,Sophia Syed,4-6,4,6,0,1,Completed,true,false,false
+UA013142,15 Jun 25,14,St Joan of Arc,GPHC,No. 1,William Cunningham,Levi Goulding,William Cunningham,6-1,6,1,1,0,Completed,true,false,false
+UA013142,15 Jun 25,14,St Joan of Arc,GPHC,No. 2,Hugh Harrington,Isla French,Isla French,4-6,4,6,0,1,Completed,true,false,false
+UA013142,15 Jun 25,14,St Joan of Arc,GPHC,No. 3,Toby Storer,Claire Lo,Claire Lo,3-6,3,6,0,1,Completed,true,false,false
+UA013142,15 Jun 25,14,St Joan of Arc,GPHC,No. 4,Charlie Pfahl,Emma Taylor,Emma Taylor,2-6,2,6,0,1,Completed,true,false,false
+UA013143,15 Jun 25,14,Kings Park Red,Sth Murrumbeena,No. 1,Nicholas Roselt,Isabelle Watson,Isabelle Watson,4-6,4,6,0,1,Completed,true,false,false
+UA013143,15 Jun 25,14,Kings Park Red,Sth Murrumbeena,No. 2,William Haydon,Olive Watson,Olive Watson,4-6,4,6,0,1,Completed,true,false,false
+UA013143,15 Jun 25,14,Kings Park Red,Sth Murrumbeena,No. 3,Thien Hoang,Maddie Christie,Thien Hoang,6-2,6,2,1,0,Completed,true,false,false
+UA013143,15 Jun 25,14,Kings Park Red,Sth Murrumbeena,No. 4,Hai Nhi Hoang,Emilia Ferris,Hai Nhi Hoang,6-1,6,1,1,0,Completed,true,false,false
+UA013144,15 Jun 25,14,Royal South Yarra,Coatesville,No. 1,Archer Luff,Timothy Tan,Timothy Tan,5-7,5,7,0,1,Completed,true,false,false
+UA013144,15 Jun 25,14,Royal South Yarra,Coatesville,No. 2,Bella Sullivan,Xavier Pace,Bella Sullivan,6-2,6,2,1,0,Completed,true,false,false
+UA013144,15 Jun 25,14,Royal South Yarra,Coatesville,No. 3,Ted Read,Maisey McCallum,Ted Read,6-3,6,3,1,0,Completed,true,true,false
+UA013144,15 Jun 25,14,Royal South Yarra,Coatesville,No. 4,Sophia Syed,Hayley Lam,Hayley Lam,2-6,2,6,0,1,Completed,true,false,false
+UA013301,,16,St Joan of Arc,Kings Park Red,No. 1,William Cunningham,Nicholas Roselt,William Cunningham,6-3,6,3,1,0,Completed,true,false,false
+UA013301,,16,St Joan of Arc,Kings Park Red,No. 2,Hugh Harrington,William Haydon,Hugh Harrington,6-0,6,0,1,0,Completed,true,false,false
+UA013301,,16,St Joan of Arc,Kings Park Red,No. 3,Finlay Davies,Thien Hoang,Finlay Davies,6-2,6,2,1,0,Completed,true,false,false
+UA013301,,16,St Joan of Arc,Kings Park Red,No. 4,Toby Storer,Hai Nhi Hoang,Toby Storer,6-1,6,1,1,0,Completed,true,false,false
+UA013302,,16,Royal South Yarra,Coatesville,No. 1,Lincoln Karlovic,Timothy Tan,Timothy Tan,3-6,3,6,0,1,Completed,true,false,false
+UA013302,,16,Royal South Yarra,Coatesville,No. 2,Archer Luff,Xavier Pace,Xavier Pace,0-6,0,6,0,1,Completed,true,false,false
+UA013302,,16,Royal South Yarra,Coatesville,No. 3,Bella Sullivan,Maisey McCallum,Maisey McCallum,5-7,5,7,0,1,Completed,true,false,false
+UA013302,,16,Royal South Yarra,Coatesville,No. 4,Ted Read,Hayley Lam,Hayley Lam,4-6,4,6,0,1,Completed,true,true,false
+UA013321,,17,St Joan of Arc,Coatesville,No. 1,William Cunningham,Timothy Tan,Timothy Tan,3-6,3,6,0,1,Completed,true,false,false
+UA013321,,17,St Joan of Arc,Coatesville,No. 2,Hugh Harrington,Xavier Pace,Xavier Pace,4-6,4,6,0,1,Completed,true,false,false
+UA013321,,17,St Joan of Arc,Coatesville,No. 3,Charlie Pfahl,Maisey McCallum,Maisey McCallum,3-6,3,6,0,1,Completed,true,false,false
+UA013321,,17,St Joan of Arc,Coatesville,No. 4,Nick Andrew,Hayley Lam,Nick Andrew,6-1,6,1,1,0,Completed,true,true,false

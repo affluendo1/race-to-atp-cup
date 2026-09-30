@@ -1,0 +1,173 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA003011,05 Feb 23,1,Royal Ave Purple,Royal Ave Green,No. 1,Max Leeds,Caleb Jackson-Wright,Max Leeds,6-3,6,3,1,0,Completed,true,false,false
+UA003011,05 Feb 23,1,Royal Ave Purple,Royal Ave Green,No. 2,Nicolette Hilaris,Harry Toomey,Harry Toomey,2-6,2,6,0,1,Completed,true,false,false
+UA003011,05 Feb 23,1,Royal Ave Purple,Royal Ave Green,No. 3,Leo Wang,Jack Vakrinos,Jack Vakrinos,1-6,1,6,0,1,Completed,true,false,false
+UA003011,05 Feb 23,1,Royal Ave Purple,Royal Ave Green,No. 4,Mia Hilaris,Gideon Gomes,Gideon Gomes,1-6,1,6,0,1,Completed,true,false,false
+UA003012,05 Feb 23,1,Carmelite,Maccabi,No. 1,Jet Mackenzie,Blake Golden,Jet Mackenzie,6-4,6,4,1,0,Completed,true,false,false
+UA003012,05 Feb 23,1,Carmelite,Maccabi,No. 2,Peter Schmollinger,Jake Golshevsky,Peter Schmollinger,6-4,6,4,1,0,Completed,true,false,false
+UA003012,05 Feb 23,1,Carmelite,Maccabi,No. 3,Danill Levashov,Zoe Magnezi,Danill Levashov,6-2,6,2,1,0,Completed,true,false,false
+UA003012,05 Feb 23,1,Carmelite,Maccabi,No. 4,Nicholas Peyerl,Danielle Nagar,Danielle Nagar,4-6,4,6,0,1,Completed,true,false,false
+UA003013,05 Feb 23,1,Centenary Park Red,Royal South Yarra,No. 1,Mieka Gordon,Miles Forster,Mieka Gordon,6-2,6,2,1,0,Completed,true,false,false
+UA003013,05 Feb 23,1,Centenary Park Red,Royal South Yarra,No. 2,Chloe Hecker,Jack Tucker,Chloe Hecker,6-4,6,4,1,0,Completed,true,true,false
+UA003013,05 Feb 23,1,Centenary Park Red,Royal South Yarra,No. 3,Cleo Stuart,Eddie Millear,Cleo Stuart,6-2,6,2,1,0,Completed,true,false,false
+UA003013,05 Feb 23,1,Centenary Park Red,Royal South Yarra,No. 4,Claire Scuderi,Axy Park,Axy Park,6-7,6,7,0,1,Completed,true,false,false
+UA003014,05 Feb 23,1,BLTC,Glen Huntly,No. 1,Stevan Dakic,Jeremy Renwick,Jeremy Renwick,2-6,2,6,0,1,Completed,true,false,false
+UA003014,05 Feb 23,1,BLTC,Glen Huntly,No. 2,Davis Nguyen,Max Dorey,Max Dorey,6-7,6,7,0,1,Completed,true,false,false
+UA003014,05 Feb 23,1,BLTC,Glen Huntly,No. 3,Fyodor Peters,Jeremy Thai,Jeremy Thai,6-7,6,7,0,1,Completed,true,false,false
+UA003014,05 Feb 23,1,BLTC,Glen Huntly,No. 4,Campbell Orchard,Kate Nguyen,Campbell Orchard,6-2,6,2,1,0,Completed,true,false,false
+UA003021,12 Feb 23,2,Glen Huntly,Royal Ave Purple,No. 1,Jeremy Renwick,Max Leeds,Jeremy Renwick,6-0,6,0,1,0,Completed,true,false,false
+UA003021,12 Feb 23,2,Glen Huntly,Royal Ave Purple,No. 2,Max Dorey,Nicolette Hilaris,Max Dorey,6-2,6,2,1,0,Completed,true,false,false
+UA003021,12 Feb 23,2,Glen Huntly,Royal Ave Purple,No. 3,Jeremy Thai,Leo Wang,Jeremy Thai,6-3,6,3,1,0,Completed,true,false,false
+UA003021,12 Feb 23,2,Glen Huntly,Royal Ave Purple,No. 4,Kate Nguyen,Mia Hilaris,Kate Nguyen,6-3,6,3,1,0,Completed,true,false,false
+UA003022,12 Feb 23,2,Royal Ave Green,Carmelite,No. 1,Harry Toomey,Peter Schmollinger,Harry Toomey,6-3,6,3,1,0,Completed,true,false,false
+UA003022,12 Feb 23,2,Royal Ave Green,Carmelite,No. 2,William Farrugia,Charlie Smit,Charlie Smit,0-6,0,6,0,1,Completed,true,false,false
+UA003022,12 Feb 23,2,Royal Ave Green,Carmelite,No. 3,Jack Vakrinos,Jack Walters,Jack Vakrinos,6-1,6,1,1,0,Completed,true,false,false
+UA003022,12 Feb 23,2,Royal Ave Green,Carmelite,No. 4,Gideon Gomes,Jack Kinsman,Gideon Gomes,6-2,6,2,1,0,Completed,true,false,false
+UA003023,12 Feb 23,2,Maccabi,Centenary Park Red,No. 1,Blake Golden,Mieka Gordon,Mieka Gordon,1-2,1,2,0,1,Completed,false,false,false
+UA003023,12 Feb 23,2,Maccabi,Centenary Park Red,No. 2,Jake Golshevsky,Lily Khonsavang,Jake Golshevsky,4-2,4,2,1,0,Completed,false,false,false
+UA003023,12 Feb 23,2,Maccabi,Centenary Park Red,No. 3,Elan Amler,Cleo Stuart,Cleo Stuart,2-6,2,6,0,1,Completed,true,false,false
+UA003023,12 Feb 23,2,Maccabi,Centenary Park Red,No. 4,Zoe Magnezi,Kana Tamura,Zoe Magnezi,6-1,6,1,1,0,Completed,true,false,true
+UA003024,12 Feb 23,2,Royal South Yarra,BLTC,No. 1,Miles Forster,Stevan Dakic,Stevan Dakic,0-6,0,6,0,1,Completed,true,false,false
+UA003024,12 Feb 23,2,Royal South Yarra,BLTC,No. 2,Skye Park,Fyodor Peters,Skye Park,7-5,7,5,1,0,Completed,true,true,false
+UA003024,12 Feb 23,2,Royal South Yarra,BLTC,No. 3,Eddie Millear,Campbell Orchard,Eddie Millear,6-2,6,2,1,0,Completed,true,false,false
+UA003024,12 Feb 23,2,Royal South Yarra,BLTC,No. 4,Katherine Soutter,Ray Lai Cheong,Ray Lai Cheong,1-6,1,6,0,1,Completed,true,true,false
+UA003031,19 Feb 23,3,Royal Ave Purple,Royal South Yarra,No. 1,Max Leeds,Miles Forster,Max Leeds,6-2,6,2,1,0,Completed,true,false,false
+UA003031,19 Feb 23,3,Royal Ave Purple,Royal South Yarra,No. 2,Kai Saxon,William McCrae,William McCrae,1-6,1,6,0,1,Completed,true,false,false
+UA003031,19 Feb 23,3,Royal Ave Purple,Royal South Yarra,No. 3,Nicolette Hilaris,Ashvin Jayawardena,Ashvin Jayawardena,3-6,3,6,0,1,Completed,true,false,false
+UA003031,19 Feb 23,3,Royal Ave Purple,Royal South Yarra,No. 4,Leo Wang,Axy Park,Leo Wang,6-2,6,2,1,0,Completed,true,false,false
+UA003032,19 Feb 23,3,Carmelite,Glen Huntly,No. 1,Jet Mackenzie,Jeremy Renwick,Jeremy Renwick,1-6,1,6,0,1,Completed,true,false,false
+UA003032,19 Feb 23,3,Carmelite,Glen Huntly,No. 2,Danill Levashov,Max Dorey,Max Dorey,1-6,1,6,0,1,Completed,true,false,false
+UA003032,19 Feb 23,3,Carmelite,Glen Huntly,No. 3,Charlie Smit,Jeremy Thai,Jeremy Thai,6-7,6,7,0,1,Completed,true,false,false
+UA003032,19 Feb 23,3,Carmelite,Glen Huntly,No. 4,Nicholas Peyerl,Kate Nguyen,Kate Nguyen,4-6,4,6,0,1,Completed,true,false,false
+UA003033,19 Feb 23,3,Centenary Park Red,Royal Ave Green,No. 1,Mieka Gordon,Harry Toomey,Mieka Gordon,6-4,6,4,1,0,Completed,true,false,false
+UA003033,19 Feb 23,3,Centenary Park Red,Royal Ave Green,No. 2,Lily Khonsavang,Jack Vakrinos,Lily Khonsavang,6-4,6,4,1,0,Completed,true,false,false
+UA003033,19 Feb 23,3,Centenary Park Red,Royal Ave Green,No. 3,Cleo Stuart,Gideon Gomes,Gideon Gomes,4-6,4,6,0,1,Completed,true,false,false
+UA003033,19 Feb 23,3,Centenary Park Red,Royal Ave Green,No. 4,Claire Scuderi,William Farrugia,William Farrugia,1-6,1,6,0,1,Completed,true,false,false
+UA003034,19 Feb 23,3,BLTC,Maccabi,No. 1,Stevan Dakic,Blake Golden,Stevan Dakic,6-3,6,3,1,0,Completed,true,false,false
+UA003034,19 Feb 23,3,BLTC,Maccabi,No. 2,Davis Nguyen,Jake Golshevsky,Jake Golshevsky,2-6,2,6,0,1,Completed,true,false,false
+UA003034,19 Feb 23,3,BLTC,Maccabi,No. 3,Justin Le,Elan Amler,Justin Le,6-2,6,2,1,0,Completed,true,false,false
+UA003034,19 Feb 23,3,BLTC,Maccabi,No. 4,Ray Lai Cheong,Danielle Nagar,Ray Lai Cheong,6-0,6,0,1,0,Completed,true,false,false
+UA003041,26 Feb 23,4,Maccabi,Royal Ave Purple,No. 1,Blake Golden,Max Leeds,Blake Golden,7-6,7,6,1,0,Completed,true,false,false
+UA003041,26 Feb 23,4,Maccabi,Royal Ave Purple,No. 2,Elan Amler,Nicolette Hilaris,Elan Amler,6-4,6,4,1,0,Completed,true,false,false
+UA003041,26 Feb 23,4,Maccabi,Royal Ave Purple,No. 3,Zoe Magnezi,Leo Wang,Zoe Magnezi,6-0,6,0,1,0,Completed,true,false,false
+UA003041,26 Feb 23,4,Maccabi,Royal Ave Purple,No. 4,Danielle Nagar,Mia Hilaris,Danielle Nagar,6-1,6,1,1,0,Completed,true,false,false
+UA003042,26 Feb 23,4,Royal South Yarra,Carmelite,No. 1,Jack Tucker,Jet Mackenzie,Jet Mackenzie,4-6,4,6,0,1,Completed,true,false,false
+UA003042,26 Feb 23,4,Royal South Yarra,Carmelite,No. 2,William McCrae,Peter Schmollinger,Peter Schmollinger,5-7,5,7,0,1,Completed,true,false,false
+UA003042,26 Feb 23,4,Royal South Yarra,Carmelite,No. 3,Ashvin Jayawardena,Jack Walters,Ashvin Jayawardena,6-2,6,2,1,0,Completed,true,false,false
+UA003042,26 Feb 23,4,Royal South Yarra,Carmelite,No. 4,Axy Park,Jack Kinsman,Jack Kinsman,4-6,4,6,0,1,Completed,true,false,false
+UA003043,26 Feb 23,4,Glen Huntly,Centenary Park Red,No. 1,Jeremy Renwick,Joel Thomas,Jeremy Renwick,6-2,6,2,1,0,Completed,true,false,true
+UA003043,26 Feb 23,4,Glen Huntly,Centenary Park Red,No. 2,Max Dorey,Claire Scuderi,Max Dorey,6-4,6,4,1,0,Completed,true,false,false
+UA003043,26 Feb 23,4,Glen Huntly,Centenary Park Red,No. 3,Jeremy Thai,Juan Thomas,Jeremy Thai,6-0,6,0,1,0,Completed,true,false,true
+UA003043,26 Feb 23,4,Glen Huntly,Centenary Park Red,No. 4,Kate Nguyen,Victoria Perrine,Kate Nguyen,6-1,6,1,1,0,Completed,true,false,true
+UA003044,26 Feb 23,4,Royal Ave Green,BLTC,No. 1,Caleb Jackson-Wright,Ray Lai Cheong,Ray Lai Cheong,2-6,2,6,0,1,Completed,true,false,false
+UA003044,26 Feb 23,4,Royal Ave Green,BLTC,No. 2,Jack Vakrinos,Justin Le,Justin Le,4-6,4,6,0,1,Completed,true,false,false
+UA003044,26 Feb 23,4,Royal Ave Green,BLTC,No. 3,Gideon Gomes,Davis Nguyen,Gideon Gomes,6-0,6,0,1,0,Completed,true,false,false
+UA003044,26 Feb 23,4,Royal Ave Green,BLTC,No. 4,William Farrugia,Fyodor Peters,Fyodor Peters,2-6,2,6,0,1,Completed,true,false,false
+UA003051,05 Mar 23,5,Centenary Park Red,BLTC,No. 1,Mieka Gordon,Justin Le,Justin Le,3-6,3,6,0,1,Completed,true,false,false
+UA003051,05 Mar 23,5,Centenary Park Red,BLTC,No. 2,Joel Thomas,Davis Nguyen,Joel Thomas,6-0,6,0,1,0,Completed,true,true,false
+UA003051,05 Mar 23,5,Centenary Park Red,BLTC,No. 3,Cleo Stuart,Fyodor Peters,Fyodor Peters,4-6,4,6,0,1,Completed,true,false,false
+UA003051,05 Mar 23,5,Centenary Park Red,BLTC,No. 4,Claire Scuderi,Campbell Orchard,Campbell Orchard,2-6,2,6,0,1,Completed,true,false,false
+UA003052,05 Mar 23,5,Glen Huntly,Royal South Yarra,No. 1,Jeremy Renwick,Miles Forster,Jeremy Renwick,6-0,6,0,1,0,Completed,true,false,false
+UA003052,05 Mar 23,5,Glen Huntly,Royal South Yarra,No. 2,Max Dorey,Jack Tucker,Max Dorey,6-4,6,4,1,0,Completed,true,false,false
+UA003052,05 Mar 23,5,Glen Huntly,Royal South Yarra,No. 3,Jeremy Thai,William McCrae,Jeremy Thai,6-1,6,1,1,0,Completed,true,false,false
+UA003052,05 Mar 23,5,Glen Huntly,Royal South Yarra,No. 4,Kate Nguyen,Eddie Millear,Eddie Millear,1-6,1,6,0,1,Completed,true,false,false
+UA003053,05 Mar 23,5,Maccabi,Royal Ave Green,No. 1,Elan Amler,Caleb Jackson-Wright,Caleb Jackson-Wright,6-7,6,7,0,1,Completed,true,false,false
+UA003053,05 Mar 23,5,Maccabi,Royal Ave Green,No. 2,Zoe Magnezi,Harry Toomey,Harry Toomey,0-6,0,6,0,1,Completed,true,false,false
+UA003053,05 Mar 23,5,Maccabi,Royal Ave Green,No. 3,Danielle Nagar,Jack Vakrinos,Jack Vakrinos,4-6,4,6,0,1,Completed,true,false,false
+UA003053,05 Mar 23,5,Maccabi,Royal Ave Green,No. 4,Jeremy Samuel,William Farrugia,Jeremy Samuel,6-3,6,3,1,0,Completed,true,true,false
+UA003054,05 Mar 23,5,Royal Ave Purple,Carmelite,No. 1,Kai Saxon,Jet Mackenzie,Jet Mackenzie,4-6,4,6,0,1,Completed,true,false,false
+UA003054,05 Mar 23,5,Royal Ave Purple,Carmelite,No. 2,Nicolette Hilaris,Danill Levashov,Danill Levashov,4-6,4,6,0,1,Completed,true,false,false
+UA003054,05 Mar 23,5,Royal Ave Purple,Carmelite,No. 3,Leo Wang,Charlie Smit,Charlie Smit,2-6,2,6,0,1,Completed,true,false,false
+UA003054,05 Mar 23,5,Royal Ave Purple,Carmelite,No. 4,Mia Hilaris,Nicholas Peyerl,Nicholas Peyerl,3-6,3,6,0,1,Completed,true,false,false
+UA003061,19 Mar 23,6,Carmelite,Centenary Park Red,No. 1,Peter Schmollinger,Mieka Gordon,Mieka Gordon,3-6,3,6,0,1,Completed,true,false,false
+UA003061,19 Mar 23,6,Carmelite,Centenary Park Red,No. 2,Nicholas Peyerl,Lily Khonsavang,Lily Khonsavang,4-6,4,6,0,1,Completed,true,false,false
+UA003061,19 Mar 23,6,Carmelite,Centenary Park Red,No. 3,Jack Walters,Cleo Stuart,Cleo Stuart,0-6,0,6,0,1,Completed,true,false,false
+UA003061,19 Mar 23,6,Carmelite,Centenary Park Red,No. 4,Jack Kinsman,Claire Scuderi,Claire Scuderi,2-6,2,6,0,1,Completed,true,false,false
+UA003062,19 Mar 23,6,BLTC,Royal Ave Purple,No. 1,Ray Lai Cheong,Max Leeds,Ray Lai Cheong,6-1,6,1,1,0,Completed,true,false,false
+UA003062,19 Mar 23,6,BLTC,Royal Ave Purple,No. 2,Davis Nguyen,Kai Saxon,Davis Nguyen,6-1,6,1,1,0,Completed,true,false,false
+UA003062,19 Mar 23,6,BLTC,Royal Ave Purple,No. 3,Fyodor Peters,Nicolette Hilaris,Nicolette Hilaris,3-6,3,6,0,1,Completed,true,false,false
+UA003062,19 Mar 23,6,BLTC,Royal Ave Purple,No. 4,Campbell Orchard,Leo Wang,Campbell Orchard,6-1,6,1,1,0,Completed,true,false,false
+UA003063,19 Mar 23,6,Royal South Yarra,Maccabi,No. 1,Miles Forster,Elan Amler,Miles Forster,6-4,6,4,1,0,Completed,true,false,false
+UA003063,19 Mar 23,6,Royal South Yarra,Maccabi,No. 2,William McCrae,Zoe Magnezi,William McCrae,6-4,6,4,1,0,Completed,true,false,false
+UA003063,19 Mar 23,6,Royal South Yarra,Maccabi,No. 3,Eddie Millear,Danielle Nagar,Danielle Nagar,0-6,0,6,0,1,Completed,true,false,false
+UA003063,19 Mar 23,6,Royal South Yarra,Maccabi,No. 4,Axy Park,David Nguyen,David Nguyen,0-6,0,6,0,1,Completed,true,false,true
+UA003064,19 Mar 23,6,Royal Ave Green,Glen Huntly,No. 1,Caleb Jackson-Wright,Jeremy Renwick,Jeremy Renwick,1-6,1,6,0,1,Completed,true,false,false
+UA003064,19 Mar 23,6,Royal Ave Green,Glen Huntly,No. 2,Harry Toomey,Max Dorey,Max Dorey,3-6,3,6,0,1,Completed,true,false,false
+UA003064,19 Mar 23,6,Royal Ave Green,Glen Huntly,No. 3,Jack Vakrinos,Kate Nguyen,Jack Vakrinos,6-2,6,2,1,0,Completed,true,false,false
+UA003064,19 Mar 23,6,Royal Ave Green,Glen Huntly,No. 4,Gideon Gomes,Pierre Maziarz,Gideon Gomes,7-6,7,6,1,0,Completed,true,false,true
+UA003071,26 Mar 23,7,Royal Ave Purple,Centenary Park Red,No. 1,Kai Saxon,Mieka Gordon,Mieka Gordon,2-6,2,6,0,1,Completed,true,false,false
+UA003071,26 Mar 23,7,Royal Ave Purple,Centenary Park Red,No. 2,Nicolette Hilaris,Victoria Shi,Victoria Shi,3-6,3,6,0,1,Completed,true,false,true
+UA003071,26 Mar 23,7,Royal Ave Purple,Centenary Park Red,No. 3,Leo Wang,Adrian Bagaric,Adrian Bagaric,3-6,3,6,0,1,Completed,true,false,true
+UA003071,26 Mar 23,7,Royal Ave Purple,Centenary Park Red,No. 4,Owen Han,Claire Scuderi,Owen Han,6-3,6,3,1,0,Completed,true,true,false
+UA003072,26 Mar 23,7,Carmelite,BLTC,No. 1,Jet Mackenzie,Ray Lai Cheong,Ray Lai Cheong,3-6,3,6,0,1,Completed,true,false,false
+UA003072,26 Mar 23,7,Carmelite,BLTC,No. 2,Peter Schmollinger,Justin Le,Justin Le,2-6,2,6,0,1,Completed,true,false,false
+UA003072,26 Mar 23,7,Carmelite,BLTC,No. 3,Danill Levashov,Campbell Orchard,Danill Levashov,6-2,6,2,1,0,Completed,true,false,false
+UA003072,26 Mar 23,7,Carmelite,BLTC,No. 4,Nicholas Peyerl,Petar Kocic,Petar Kocic,6-7,6,7,0,1,Completed,true,false,true
+UA003073,26 Mar 23,7,Glen Huntly,Maccabi,No. 1,Jeremy Renwick,Elan Amler,Jeremy Renwick,6-0,6,0,1,0,Completed,true,false,false
+UA003073,26 Mar 23,7,Glen Huntly,Maccabi,No. 2,Max Dorey,Zoe Magnezi,Max Dorey,6-1,6,1,1,0,Completed,true,false,false
+UA003073,26 Mar 23,7,Glen Huntly,Maccabi,No. 3,Jeremy Thai,Danielle Nagar,Jeremy Thai,6-4,6,4,1,0,Completed,true,false,false
+UA003073,26 Mar 23,7,Glen Huntly,Maccabi,No. 4,Kate Nguyen,Jeremy Samuel,Kate Nguyen,6-0,6,0,1,0,Completed,true,false,true
+UA003074,26 Mar 23,7,Royal South Yarra,Royal Ave Green,No. 1,Miles Forster,Caleb Jackson-Wright,Miles Forster,7-6,7,6,1,0,Completed,true,false,false
+UA003074,26 Mar 23,7,Royal South Yarra,Royal Ave Green,No. 2,Jack Tucker,Jack Vakrinos,Jack Tucker,6-1,6,1,1,0,Completed,true,false,false
+UA003074,26 Mar 23,7,Royal South Yarra,Royal Ave Green,No. 3,[Unnamed player — TROLS UA003074 home code 3],Gideon Gomes,Gideon Gomes,0-6,0,6,0,1,Completed,false,false,false
+UA003074,26 Mar 23,7,Royal South Yarra,Royal Ave Green,No. 4,Axy Park,Sanjeeva Attygale,Axy Park,6-3,6,3,1,0,Completed,true,false,true
+UA003081,02 Apr 23,8,Royal Ave Green,Royal Ave Purple,No. 1,Caleb Jackson-Wright,Kai Saxon,Caleb Jackson-Wright,6-0,6,0,1,0,Completed,true,false,false
+UA003081,02 Apr 23,8,Royal Ave Green,Royal Ave Purple,No. 2,Harry Toomey,Nicolette Hilaris,Harry Toomey,6-2,6,2,1,0,Completed,true,false,false
+UA003081,02 Apr 23,8,Royal Ave Green,Royal Ave Purple,No. 3,Gideon Gomes,Leo Wang,Gideon Gomes,6-3,6,3,1,0,Completed,true,false,false
+UA003081,02 Apr 23,8,Royal Ave Green,Royal Ave Purple,No. 4,William Farrugia,Harrison Moller,William Farrugia,6-0,6,0,1,0,Completed,true,false,false
+UA003082,02 Apr 23,8,Maccabi,Carmelite,No. 1,Elan Amler,Jet Mackenzie,Jet Mackenzie,3-6,3,6,0,1,Completed,true,false,false
+UA003082,02 Apr 23,8,Maccabi,Carmelite,No. 2,Zoe Magnezi,Danill Levashov,Danill Levashov,4-6,4,6,0,1,Completed,true,false,false
+UA003082,02 Apr 23,8,Maccabi,Carmelite,No. 3,Danielle Nagar,Nicholas Peyerl,Danielle Nagar,7-5,7,5,1,0,Completed,true,false,false
+UA003082,02 Apr 23,8,Maccabi,Carmelite,No. 4,Ian Altman,Jack Walters,Ian Altman,6-0,6,0,1,0,Completed,true,true,false
+UA003083,02 Apr 23,8,Royal South Yarra,Centenary Park Red,No. 1,Jack Tucker,Mieka Gordon,Mieka Gordon,2-6,2,6,0,1,Completed,true,false,false
+UA003083,02 Apr 23,8,Royal South Yarra,Centenary Park Red,No. 2,William McCrae,Lily Khonsavang,Lily Khonsavang,2-6,2,6,0,1,Completed,true,false,false
+UA003083,02 Apr 23,8,Royal South Yarra,Centenary Park Red,No. 3,Eddie Millear,Cleo Stuart,Eddie Millear,6-2,6,2,1,0,Completed,true,false,false
+UA003083,02 Apr 23,8,Royal South Yarra,Centenary Park Red,No. 4,Axy Park,Claire Scuderi,Claire Scuderi,4-6,4,6,0,1,Completed,true,false,false
+UA003084,02 Apr 23,8,Glen Huntly,BLTC,No. 1,Jeremy Renwick,Ray Lai Cheong,Jeremy Renwick,6-1,6,1,1,0,Completed,true,false,false
+UA003084,02 Apr 23,8,Glen Huntly,BLTC,No. 2,Max Dorey,Justin Le,Justin Le,1-6,1,6,0,1,Completed,true,false,false
+UA003084,02 Apr 23,8,Glen Huntly,BLTC,No. 3,Jeremy Thai,Fyodor Peters,Jeremy Thai,6-2,6,2,1,0,Completed,true,false,false
+UA003084,02 Apr 23,8,Glen Huntly,BLTC,No. 4,Kate Nguyen,Campbell Orchard,Kate Nguyen,6-3,6,3,1,0,Completed,true,false,false
+UA003091,30 Apr 23,9,Royal Ave Purple,Glen Huntly,No. 1,Kai Saxon,Jeremy Renwick,Jeremy Renwick,1-6,1,6,0,1,Completed,true,false,false
+UA003091,30 Apr 23,9,Royal Ave Purple,Glen Huntly,No. 2,Leo Wang,Max Dorey,Max Dorey,2-6,2,6,0,1,Completed,true,false,false
+UA003091,30 Apr 23,9,Royal Ave Purple,Glen Huntly,No. 3,Harrison Moller,Amaya De Silva,Amaya De Silva,2-6,2,6,0,1,Completed,true,false,true
+UA003091,30 Apr 23,9,Royal Ave Purple,Glen Huntly,No. 4,Sanjeeva Attygale,Kate Nguyen,Kate Nguyen,4-6,4,6,0,1,Completed,true,true,false
+UA003092,30 Apr 23,9,Carmelite,Royal Ave Green,No. 1,Jet Mackenzie,Caleb Jackson-Wright,Caleb Jackson-Wright,0-6,0,6,0,1,Completed,true,false,false
+UA003092,30 Apr 23,9,Carmelite,Royal Ave Green,No. 2,Danill Levashov,Harry Toomey,Harry Toomey,5-7,5,7,0,1,Completed,true,false,false
+UA003092,30 Apr 23,9,Carmelite,Royal Ave Green,No. 3,Jack Walters,Gideon Gomes,Gideon Gomes,2-6,2,6,0,1,Completed,true,false,false
+UA003092,30 Apr 23,9,Carmelite,Royal Ave Green,No. 4,Jack Kinsman,William Farrugia,William Farrugia,1-6,1,6,0,1,Completed,true,false,false
+UA003093,30 Apr 23,9,Centenary Park Red,Maccabi,No. 1,Mieka Gordon,Blake Golden,Mieka Gordon,6-0,6,0,1,0,Completed,true,false,false
+UA003093,30 Apr 23,9,Centenary Park Red,Maccabi,No. 2,Lily Khonsavang,Jake Golshevsky,Lily Khonsavang,6-0,6,0,1,0,Completed,true,false,false
+UA003093,30 Apr 23,9,Centenary Park Red,Maccabi,No. 3,Cleo Stuart,Elan Amler,Cleo Stuart,6-3,6,3,1,0,Completed,true,false,false
+UA003093,30 Apr 23,9,Centenary Park Red,Maccabi,No. 4,Claire Scuderi,David Nguyen,Claire Scuderi,7-5,7,5,1,0,Completed,true,false,true
+UA003094,30 Apr 23,9,BLTC,Royal South Yarra,No. 1,Stevan Dakic,Miles Forster,Stevan Dakic,6-1,6,1,1,0,Completed,true,false,false
+UA003094,30 Apr 23,9,BLTC,Royal South Yarra,No. 2,Justin Le,William McCrae,Justin Le,6-0,6,0,1,0,Completed,true,false,false
+UA003094,30 Apr 23,9,BLTC,Royal South Yarra,No. 3,Davis Nguyen,Eddie Millear,Eddie Millear,5-7,5,7,0,1,Completed,true,false,false
+UA003094,30 Apr 23,9,BLTC,Royal South Yarra,No. 4,Campbell Orchard,[Unnamed player — TROLS UA003094 away code 4],Campbell Orchard,6-0,6,0,1,0,Completed,false,false,false
+UA003111,14 May 23,11,Royal Ave Purple,Maccabi,No. 1,Kai Saxon,Jake Golshevsky,Kai Saxon,6-3,6,3,1,0,Completed,true,false,false
+UA003111,14 May 23,11,Royal Ave Purple,Maccabi,No. 2,Nicolette Hilaris,Elan Amler,Nicolette Hilaris,6-3,6,3,1,0,Completed,true,false,false
+UA003111,14 May 23,11,Royal Ave Purple,Maccabi,No. 3,Leo Wang,Zoe Magnezi,Zoe Magnezi,4-6,4,6,0,1,Completed,true,false,false
+UA003111,14 May 23,11,Royal Ave Purple,Maccabi,No. 4,Harrison Moller,Danielle Nagar,Harrison Moller,6-2,6,2,1,0,Completed,true,false,false
+UA003112,14 May 23,11,Carmelite,Royal South Yarra,No. 1,Peter Schmollinger,Miles Forster,Peter Schmollinger,6-1,6,1,1,0,Completed,true,false,false
+UA003112,14 May 23,11,Carmelite,Royal South Yarra,No. 2,Danill Levashov,William McCrae,William McCrae,4-6,4,6,0,1,Completed,true,false,false
+UA003112,14 May 23,11,Carmelite,Royal South Yarra,No. 3,Charlie Smit,Ashvin Jayawardena,Ashvin Jayawardena,2-6,2,6,0,1,Completed,true,false,false
+UA003112,14 May 23,11,Carmelite,Royal South Yarra,No. 4,Nicholas Peyerl,Eddie Millear,Nicholas Peyerl,6-1,6,1,1,0,Completed,true,false,false
+UA003113,14 May 23,11,Centenary Park Red,Glen Huntly,No. 1,Mieka Gordon,Jeremy Renwick,Mieka Gordon,6-4,6,4,1,0,Completed,true,false,false
+UA003113,14 May 23,11,Centenary Park Red,Glen Huntly,No. 2,Lily Khonsavang,Max Dorey,Lily Khonsavang,6-3,6,3,1,0,Completed,true,false,false
+UA003113,14 May 23,11,Centenary Park Red,Glen Huntly,No. 3,Cleo Stuart,Jeremy Thai,Jeremy Thai,3-6,3,6,0,1,Completed,true,false,false
+UA003113,14 May 23,11,Centenary Park Red,Glen Huntly,No. 4,Claire Scuderi,Kate Nguyen,Kate Nguyen,0-6,0,6,0,1,Completed,true,false,false
+UA003114,14 May 23,11,BLTC,Royal Ave Green,No. 1,Stevan Dakic,Caleb Jackson-Wright,Stevan Dakic,6-3,6,3,1,0,Completed,true,false,false
+UA003114,14 May 23,11,BLTC,Royal Ave Green,No. 2,Ray Lai Cheong,Harry Toomey,Harry Toomey,4-6,4,6,0,1,Completed,true,false,false
+UA003114,14 May 23,11,BLTC,Royal Ave Green,No. 3,Justin Le,Gideon Gomes,Justin Le,7-5,7,5,1,0,Completed,true,false,false
+UA003114,14 May 23,11,BLTC,Royal Ave Green,No. 4,Campbell Orchard,William Farrugia,Campbell Orchard,6-4,6,4,1,0,Completed,true,false,false
+UA003301,,16,Glen Huntly,Centenary Park Red,No. 1,Jeremy Renwick,Mieka Gordon,Jeremy Renwick,6-1,6,1,1,0,Completed,true,false,false
+UA003301,,16,Glen Huntly,Centenary Park Red,No. 2,Max Dorey,Lily Khonsavang,Max Dorey,6-1,6,1,1,0,Completed,true,false,false
+UA003301,,16,Glen Huntly,Centenary Park Red,No. 3,Jeremy Thai,Cleo Stuart,Jeremy Thai,6-1,6,1,1,0,Completed,true,false,false
+UA003301,,16,Glen Huntly,Centenary Park Red,No. 4,Kate Nguyen,Claire Scuderi,Claire Scuderi,2-6,2,6,0,1,Completed,true,false,false
+UA003302,,16,Royal Ave Green,BLTC,No. 1,Caleb Jackson-Wright,Stevan Dakic,Stevan Dakic,1-6,1,6,0,1,Completed,true,false,false
+UA003302,,16,Royal Ave Green,BLTC,No. 2,Harry Toomey,Justin Le,Harry Toomey,6-3,6,3,1,0,Completed,true,false,false
+UA003302,,16,Royal Ave Green,BLTC,No. 3,Jack Vakrinos,Davis Nguyen,Jack Vakrinos,7-6,7,6,1,0,Completed,true,false,false
+UA003302,,16,Royal Ave Green,BLTC,No. 4,Gideon Gomes,Fyodor Peters,Gideon Gomes,6-0,6,0,1,0,Completed,true,false,false
+UA003321,,17,Glen Huntly,Royal Ave Green,No. 1,Jeremy Renwick,Caleb Jackson-Wright,Jeremy Renwick,6-0,6,0,1,0,Completed,true,false,false
+UA003321,,17,Glen Huntly,Royal Ave Green,No. 2,Max Dorey,Harry Toomey,Harry Toomey,1-6,1,6,0,1,Completed,true,false,false
+UA003321,,17,Glen Huntly,Royal Ave Green,No. 3,Jeremy Thai,Jack Vakrinos,Jeremy Thai,6-3,6,3,1,0,Completed,true,false,false
+UA003321,,17,Glen Huntly,Royal Ave Green,No. 4,Kate Nguyen,Gideon Gomes,Gideon Gomes,0-6,0,6,0,1,Completed,true,false,false

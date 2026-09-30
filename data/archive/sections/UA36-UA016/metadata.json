@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA36-UA016",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2025",
+  "season_id": "UA36",
+  "season_label": "Autumn 2025",
+  "source_section_code": "UA016",
+  "section_label": "Section 16",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Glen Huntly",
+      "wins": 13,
+      "points": 119,
+      "percentage": 181.01,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Black Rock",
+      "wins": 10,
+      "points": 96,
+      "percentage": 135.29,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Le Page",
+      "wins": 7,
+      "points": 77,
+      "percentage": 108.52,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Hurlingham Park Red",
+      "wins": 5,
+      "points": 67,
+      "percentage": 93.97,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "St Joan of Arc",
+      "wins": 6,
+      "points": 66,
+      "percentage": 94.1,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Hurlingham Park Blue",
+      "wins": 3,
+      "points": 53,
+      "percentage": 84.49,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Sth Murrumbeena",
+      "wins": 3,
+      "points": 46,
+      "percentage": 78.18,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Coatesville",
+      "wins": 2,
+      "points": 36,
+      "percentage": 65.93,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA36-UA016",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA020011,03 Feb 19,1,regular,Round 1,BLTC,Maccabi,8,2,4,2,,,30,17,Completed,
+UA020012,03 Feb 19,1,regular,Round 1,Caulfield Rec 1,Caulfield Rec 2,0,10,0,6,,,13,36,Completed,
+UA020013,03 Feb 19,1,regular,Round 1,Black Rock,St Andrews MB BG,7,3,3,3,,,34,32,Completed,
+pending-ua020-r1-murrumbeena-bye,03 Feb 19,1,regular,Round 1,Murrumbeena,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA020022,10 Feb 19,2,regular,Round 2,Maccabi,Caulfield Rec 1,0,10,0,6,,,14,36,Completed,
+UA020023,10 Feb 19,2,regular,Round 2,Caulfield Rec 2,Black Rock,9,1,5,1,,,35,14,Completed,
+UA020024,10 Feb 19,2,regular,Round 2,St Andrews MB BG,Murrumbeena,7,3,3,3,,,28,25,Completed,
+pending-ua020-r2-bye-bltc,10 Feb 19,2,regular,Round 2,Bye,BLTC,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA020031,17 Feb 19,3,regular,Round 3,BLTC,St Andrews MB BG,8,2,4,2,,,29,17,Completed,
+UA020033,17 Feb 19,3,regular,Round 3,Black Rock,Maccabi,10,0,6,0,,,36,15,Completed,
+UA020034,17 Feb 19,3,regular,Round 3,Murrumbeena,Caulfield Rec 2,3,7,3,3,,,26,31,Completed,
+pending-ua020-r3-caulfield-rec-1-bye,17 Feb 19,3,regular,Round 3,Caulfield Rec 1,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA020041,24 Feb 19,4,regular,Round 4,Caulfield Rec 2,BLTC,5,5,3,3,,,30,30,Completed,
+UA020042,24 Feb 19,4,regular,Round 4,St Andrews MB BG,Caulfield Rec 1,0,10,0,6,,,17,37,Completed,
+UA020044,24 Feb 19,4,regular,Round 4,Maccabi,Murrumbeena,1,9,1,5,,,12,34,Completed,
+pending-ua020-r4-bye-black-rock,24 Feb 19,4,regular,Round 4,Bye,Black Rock,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA020051,03 Mar 19,5,regular,Round 5,Black Rock,Murrumbeena,1,9,1,5,,,20,35,Completed,
+UA020053,03 Mar 19,5,regular,Round 5,Caulfield Rec 2,Maccabi,10,0,6,0,,,36,13,Completed,
+UA020054,03 Mar 19,5,regular,Round 5,BLTC,Caulfield Rec 1,9,1,5,1,,,34,15,Completed,
+pending-ua020-r5-bye-st-andrews-mb-bg,03 Mar 19,5,regular,Round 5,Bye,St Andrews MB BG,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA020061,17 Mar 19,6,regular,Round 6,Caulfield Rec 1,Black Rock,3,7,3,3,,,26,28,Completed,
+UA020062,17 Mar 19,6,regular,Round 6,Murrumbeena,BLTC,8,2,4,2,,,32,26,Completed,
+UA020063,17 Mar 19,6,regular,Round 6,St Andrews MB BG,Caulfield Rec 2,8,2,4,2,,,31,21,Completed,
+pending-ua020-r6-maccabi-bye,17 Mar 19,6,regular,Round 6,Maccabi,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA020071,24 Mar 19,7,regular,Round 7,BLTC,Black Rock,9,1,5,1,,,35,25,Completed,
+UA020072,24 Mar 19,7,regular,Round 7,Caulfield Rec 1,Murrumbeena,9,1,5,1,,,33,18,Completed,
+UA020074,24 Mar 19,7,regular,Round 7,St Andrews MB BG,Maccabi,9,1,5,1,,,34,16,Completed,
+pending-ua020-r7-bye-caulfield-rec-2,24 Mar 19,7,regular,Round 7,Bye,Caulfield Rec 2,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA020081,31 Mar 19,8,regular,Round 8,Maccabi,BLTC,1,9,1,5,,,20,32,Completed,
+UA020082,31 Mar 19,8,regular,Round 8,Caulfield Rec 2,Caulfield Rec 1,10,0,6,0,,,36,5,Completed,
+UA020083,31 Mar 19,8,regular,Round 8,St Andrews MB BG,Black Rock,2,8,2,4,,,19,30,Completed,
+pending-ua020-r8-bye-murrumbeena,31 Mar 19,8,regular,Round 8,Bye,Murrumbeena,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA020092,28 Apr 19,9,regular,Round 9,Caulfield Rec 1,Maccabi,9,1,5,1,,,31,19,Completed,
+UA020093,28 Apr 19,9,regular,Round 9,Black Rock,Caulfield Rec 2,3,7,3,3,,,28,32,Completed,
+UA020094,28 Apr 19,9,regular,Round 9,Murrumbeena,St Andrews MB BG,3,7,3,3,,,29,30,Completed,
+pending-ua020-r9-bltc-bye,28 Apr 19,9,regular,Round 9,BLTC,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA020101,05 May 19,10,regular,Round 10,St Andrews MB BG,BLTC,1,9,1,5,,,10,32,Completed,
+UA020103,05 May 19,10,regular,Round 10,Maccabi,Black Rock,3,7,3,3,,,25,31,Completed,
+UA020104,05 May 19,10,regular,Round 10,Caulfield Rec 2,Murrumbeena,10,0,6,0,,,36,11,Completed,
+pending-ua020-r10-bye-caulfield-rec-1,05 May 19,10,regular,Round 10,Bye,Caulfield Rec 1,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA020111,12 May 19,11,regular,Round 11,BLTC,Caulfield Rec 2,2,8,2,4,,,33,36,Completed,
+UA020112,12 May 19,11,regular,Round 11,Caulfield Rec 1,St Andrews MB BG,8,2,4,2,,,29,24,Completed,
+UA020114,12 May 19,11,regular,Round 11,Murrumbeena,Maccabi,3,7,3,3,,,28,30,Completed,
+pending-ua020-r11-black-rock-bye,12 May 19,11,regular,Round 11,Black Rock,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA020121,19 May 19,12,regular,Round 12,Murrumbeena,Black Rock,7,3,3,3,,,31,28,Completed,
+UA020123,19 May 19,12,regular,Round 12,Maccabi,Caulfield Rec 2,0,10,0,6,,,7,36,Completed,
+UA020124,19 May 19,12,regular,Round 12,Caulfield Rec 1,BLTC,2,8,2,4,,,25,29,Completed,
+pending-ua020-r12-st-andrews-mb-bg-bye,19 May 19,12,regular,Round 12,St Andrews MB BG,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA020131,26 May 19,13,regular,Round 13,Black Rock,Caulfield Rec 1,9,1,5,1,,,31,14,Completed,
+UA020132,26 May 19,13,regular,Round 13,BLTC,Murrumbeena,9,1,5,1,,,34,20,Completed,
+UA020133,26 May 19,13,regular,Round 13,Caulfield Rec 2,St Andrews MB BG,10,0,6,0,,,36,13,Completed,
+pending-ua020-r13-bye-maccabi,26 May 19,13,regular,Round 13,Bye,Maccabi,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA020141,02 Jun 19,14,regular,Round 14,Black Rock,BLTC,2,8,2,4,,,21,34,Completed,
+UA020142,02 Jun 19,14,regular,Round 14,Murrumbeena,Caulfield Rec 1,2,8,2,4,,,18,29,Completed,
+UA020144,02 Jun 19,14,regular,Round 14,Maccabi,St Andrews MB BG,1,9,1,5,,,7,30,Completed,
+pending-ua020-r14-caulfield-rec-2-bye,02 Jun 19,14,regular,Round 14,Caulfield Rec 2,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA020301,,16,semi_final,Semi-final,Caulfield Rec 2,Black Rock,9,1,5,1,,,34,14,Completed,
+UA020302,,16,semi_final,Semi-final,BLTC,Caulfield Rec 1,10,0,6,0,,,38,18,Completed,
+UA020321,,17,grand_final,Grand final · TROLS entry 2,Caulfield Rec 2,BLTC,2,8,2,4,,,28,28,Completed,

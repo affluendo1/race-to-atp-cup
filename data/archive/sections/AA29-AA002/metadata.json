@@ -1,0 +1,93 @@
+{
+  "asset_id": "AA29-AA002",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Autumn 2013",
+  "season_id": "AA29",
+  "season_label": "Autumn 2013",
+  "source_section_code": "AA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong MLC 1",
+      "wins": 12,
+      "points": 111,
+      "percentage": 165.85,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Carmelite 2",
+      "wins": 9,
+      "points": 95,
+      "percentage": 144.4,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Port Melbourne 1",
+      "wins": 9,
+      "points": 93,
+      "percentage": 126.69,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Carmelite 3",
+      "wins": 7,
+      "points": 85,
+      "percentage": 124.07,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Port Melbourne 2",
+      "wins": 6,
+      "points": 71,
+      "percentage": 106.25,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Carmelite 1",
+      "wins": 4,
+      "points": 59.5,
+      "percentage": 92.72,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong MLC 2",
+      "wins": 1,
+      "points": 33.5,
+      "percentage": 65.56,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Ardrie Park GM",
+      "wins": 0,
+      "points": 12,
+      "percentage": 38.78,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA29-AA002",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 45,
+  "singles_rubbers": 208,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for AA002033"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA26-UA010",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2020",
+  "season_id": "UA26",
+  "season_label": "Autumn 2020",
+  "source_section_code": "UA010",
+  "section_label": "Section 10",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Highett",
+      "wins": 5,
+      "points": 48,
+      "percentage": 178.02,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Kooyong 1 Scotch",
+      "wins": 4,
+      "points": 42,
+      "percentage": 157.78,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Hurlingham Park",
+      "wins": 3,
+      "points": 35,
+      "percentage": 109.38,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 3,
+      "points": 31,
+      "percentage": 96.69,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong 2 Scotch",
+      "wins": 2,
+      "points": 25,
+      "percentage": 84.78,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Mentone",
+      "wins": 1,
+      "points": 21,
+      "percentage": 74.67,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kings Park",
+      "wins": 1,
+      "points": 20,
+      "percentage": 79.33,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "St Joan of Arc",
+      "wins": 1,
+      "points": 18,
+      "percentage": 70.92,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA26-UA010",
+  "fixtures": 24,
+  "completed_fixtures": 20,
+  "draw_fixtures": 56,
+  "singles_rubbers": 80,
+  "doubles_rubbers": 40,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

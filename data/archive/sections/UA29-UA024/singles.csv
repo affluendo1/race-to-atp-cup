@@ -1,0 +1,85 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA024031,01 Aug 21,3,Parkdale,Kings Park Blue,No. 1,Darcy Basist,Evelyn Pajovic,Darcy Basist,6-1,6,1,1,0,Completed,true,false,false
+UA024031,01 Aug 21,3,Parkdale,Kings Park Blue,No. 2,Adam Robinson,Michael Gan,Adam Robinson,6-0,6,0,1,0,Completed,true,false,false
+UA024031,01 Aug 21,3,Parkdale,Kings Park Blue,No. 3,Thomas Albani,Zeyi Xu,Thomas Albani,6-0,6,0,1,0,Completed,true,false,false
+UA024031,01 Aug 21,3,Parkdale,Kings Park Blue,No. 4,Kai Zamora,Jamie Todd,Kai Zamora,6-3,6,3,1,0,Completed,true,false,false
+UA024032,01 Aug 21,3,Black Rock,Mentone,No. 1,Harry Carley,Roderic William,Roderic William,5-7,5,7,0,1,Completed,true,false,false
+UA024032,01 Aug 21,3,Black Rock,Mentone,No. 2,Elsie Lock,Neal Gong,Neal Gong,3-6,3,6,0,1,Completed,true,false,false
+UA024032,01 Aug 21,3,Black Rock,Mentone,No. 3,Zali Lock,Chase Graham,Chase Graham,4-6,4,6,0,1,Completed,true,false,false
+UA024032,01 Aug 21,3,Black Rock,Mentone,No. 4,Connor Brown,Aiden Myers,Aiden Myers,3-6,3,6,0,1,Completed,true,false,true
+UA024033,01 Aug 21,3,Kings Park White,BLTC,No. 1,Justin Xia,Lennon King,Justin Xia,6-3,6,3,1,0,Completed,true,true,true
+UA024033,01 Aug 21,3,Kings Park White,BLTC,No. 2,Lachie Cravion,Matvey Roche,Matvey Roche,0-6,0,6,0,1,Completed,true,false,true
+UA024033,01 Aug 21,3,Kings Park White,BLTC,No. 3,Thien Hoang,Finn Gehde,Finn Gehde,0-6,0,6,0,1,Completed,true,false,true
+UA024033,01 Aug 21,3,Kings Park White,BLTC,No. 4,Seou Ham,Maddie Ballantyne,Maddie Ballantyne,1-6,1,6,0,1,Completed,true,false,true
+UA024101,07 Nov 21,10,Black Rock,Parkdale,No. 1,James Mayden,Darcy Basist,Darcy Basist,1-6,1,6,0,1,Completed,true,true,false
+UA024101,07 Nov 21,10,Black Rock,Parkdale,No. 2,Elsie Lock,Adam Robinson,Adam Robinson,1-6,1,6,0,1,Completed,true,false,false
+UA024101,07 Nov 21,10,Black Rock,Parkdale,No. 3,Zali Lock,Thomas Albani,Thomas Albani,1-6,1,6,0,1,Completed,true,false,false
+UA024101,07 Nov 21,10,Black Rock,Parkdale,No. 4,Cally Cheng,Matthew Whalley,Matthew Whalley,1-6,1,6,0,1,Completed,true,false,false
+UA024102,07 Nov 21,10,Mentone,BLTC,No. 1,Roderic William,Lennon King,Roderic William,6-0,6,0,1,0,Completed,true,false,true
+UA024102,07 Nov 21,10,Mentone,BLTC,No. 2,Daniel Rutkowski,Finn Haines,Daniel Rutkowski,6-4,6,4,1,0,Completed,true,false,false
+UA024102,07 Nov 21,10,Mentone,BLTC,No. 3,Mango Freeman,Maddie Ballantyne,Maddie Ballantyne,0-6,0,6,0,1,Completed,true,false,true
+UA024102,07 Nov 21,10,Mentone,BLTC,No. 4,Chase Graham,Anna Best,Anna Best,2-6,2,6,0,1,Completed,true,false,true
+UA024103,07 Nov 21,10,Kings Park Blue,Kings Park White,No. 1,Zeyi Xu,Nate Horlsey,Nate Horlsey,1-6,1,6,0,1,Completed,true,false,false
+UA024103,07 Nov 21,10,Kings Park Blue,Kings Park White,No. 2,Jamie Todd,Lachie Cravion,Jamie Todd,6-1,6,1,1,0,Completed,true,false,false
+UA024103,07 Nov 21,10,Kings Park Blue,Kings Park White,No. 3,Thien Hoang,William Haydon,Thien Hoang,6-3,6,3,1,0,Completed,true,true,true
+UA024103,07 Nov 21,10,Kings Park Blue,Kings Park White,No. 4,Tarv Bai,Seou Ham,Tarv Bai,6-0,6,0,1,0,Completed,true,false,false
+UA024111,14 Nov 21,11,Parkdale,Mentone,No. 1,Darcy Basist,Daniel Rutkowski,Darcy Basist,6-0,6,0,1,0,Completed,true,false,false
+UA024111,14 Nov 21,11,Parkdale,Mentone,No. 2,Adam Robinson,Mango Freeman,Adam Robinson,6-0,6,0,1,0,Completed,true,false,false
+UA024111,14 Nov 21,11,Parkdale,Mentone,No. 3,Kai Zamora,Neal Gong,Kai Zamora,6-4,6,4,1,0,Completed,true,false,false
+UA024111,14 Nov 21,11,Parkdale,Mentone,No. 4,Bird Miller,Chase Graham,Bird Miller,7-6,7,6,1,0,Completed,true,false,false
+UA024112,14 Nov 21,11,Kings Park Blue,BLTC,No. 1,Zeyi Xu,Victor Lee,Zeyi Xu,6-4,6,4,1,0,Completed,true,false,false
+UA024112,14 Nov 21,11,Kings Park Blue,BLTC,No. 2,Tarv Bai,Tyler Adams,Tyler Adams,3-6,3,6,0,1,Completed,true,false,false
+UA024112,14 Nov 21,11,Kings Park Blue,BLTC,No. 3,Rhyle Vaz,Finn Haines,Rhyle Vaz,6-2,6,2,1,0,Completed,true,true,false
+UA024112,14 Nov 21,11,Kings Park Blue,BLTC,No. 4,Xavior Campbell,David McLean,David McLean,0-6,0,6,0,1,Completed,true,true,true
+UA024113,14 Nov 21,11,Black Rock,Kings Park White,No. 1,Harry Carley,Nate Horlsey,Nate Horlsey,1-6,1,6,0,1,Completed,true,false,false
+UA024113,14 Nov 21,11,Black Rock,Kings Park White,No. 2,James Cheng,Lachie Cravion,James Cheng,6-2,6,2,1,0,Completed,true,true,false
+UA024113,14 Nov 21,11,Black Rock,Kings Park White,No. 3,Zali Lock,Jamie Dodd,Jamie Dodd,0-6,0,6,0,1,Completed,true,false,false
+UA024113,14 Nov 21,11,Black Rock,Kings Park White,No. 4,Connor Brown,Thien Hoang,Thien Hoang,2-6,2,6,0,1,Completed,true,false,false
+UA024121,21 Nov 21,12,Kings Park White,Parkdale,No. 1,Nate Horlsey,Thomas Albani,Thomas Albani,3-6,3,6,0,1,Completed,true,false,false
+UA024121,21 Nov 21,12,Kings Park White,Parkdale,No. 2,Rhyle Vaz,Magnus Bornard,Rhyle Vaz,6-3,6,3,1,0,Completed,true,true,true
+UA024121,21 Nov 21,12,Kings Park White,Parkdale,No. 3,Thien Hoang,Bird Miller,Bird Miller,0-6,0,6,0,1,Completed,true,false,false
+UA024121,21 Nov 21,12,Kings Park White,Parkdale,No. 4,Julian Wang,Matthew Whalley,Matthew Whalley,3-6,3,6,0,1,Completed,true,true,false
+UA024122,21 Nov 21,12,BLTC,Black Rock,No. 1,Finn Haines,Harry Carley,Harry Carley,0-6,0,6,0,1,Completed,true,false,false
+UA024122,21 Nov 21,12,BLTC,Black Rock,No. 2,Jamie Clark,James Mayden,Jamie Clark,6-1,6,1,1,0,Completed,true,false,true
+UA024122,21 Nov 21,12,BLTC,Black Rock,No. 3,Daniel McLean,Elsie Lock,Daniel McLean,6-4,6,4,1,0,Completed,true,false,false
+UA024122,21 Nov 21,12,BLTC,Black Rock,No. 4,Victor Lee,Cally Cheng,Victor Lee,7-6,7,6,1,0,Completed,true,false,false
+UA024123,21 Nov 21,12,Mentone,Kings Park Blue,No. 1,Roderic William,Zeyi Xu,Roderic William,6-2,6,2,1,0,Completed,true,false,false
+UA024123,21 Nov 21,12,Mentone,Kings Park Blue,No. 2,Daniel Rutkowski,Tarv Bai,Tarv Bai,0-6,0,6,0,1,Completed,true,false,false
+UA024123,21 Nov 21,12,Mentone,Kings Park Blue,No. 3,Mango Freeman,William Haydon,William Haydon,4-6,4,6,0,1,Completed,true,false,true
+UA024123,21 Nov 21,12,Mentone,Kings Park Blue,No. 4,Neal Gong,Seou Ham,Neal Gong,6-0,6,0,1,0,Completed,true,false,true
+UA024131,28 Nov 21,13,Parkdale,Kings Park Blue,No. 1,Darcy Basist,Zeyi Xu,Darcy Basist,6-1,6,1,1,0,Completed,true,false,false
+UA024131,28 Nov 21,13,Parkdale,Kings Park Blue,No. 2,Thomas Albani,Rhyle Vaz,Thomas Albani,6-1,6,1,1,0,Completed,true,false,true
+UA024131,28 Nov 21,13,Parkdale,Kings Park Blue,No. 3,Magnus Bornard,Jamie Todd,Magnus Bornard,6-2,6,2,1,0,Completed,true,true,false
+UA024131,28 Nov 21,13,Parkdale,Kings Park Blue,No. 4,Matthew Whalley,William Haydon,Matthew Whalley,6-2,6,2,1,0,Completed,true,false,true
+UA024132,28 Nov 21,13,Black Rock,Mentone,No. 1,Elsie Lock,Roderic William,Roderic William,2-6,2,6,0,1,Completed,true,false,false
+UA024132,28 Nov 21,13,Black Rock,Mentone,No. 2,Zali Lock,Mango Freeman,Zali Lock,6-4,6,4,1,0,Completed,true,false,false
+UA024132,28 Nov 21,13,Black Rock,Mentone,No. 3,Cally Cheng,Neal Gong,Neal Gong,4-6,4,6,0,1,Completed,true,false,false
+UA024132,28 Nov 21,13,Black Rock,Mentone,No. 4,Lorna Tucker,Chase Graham,Chase Graham,0-6,0,6,0,1,Completed,true,true,false
+UA024133,28 Nov 21,13,Kings Park White,BLTC,No. 1,Nate Horlsey,Victor Lee,Nate Horlsey,6-1,6,1,1,0,Completed,true,false,false
+UA024133,28 Nov 21,13,Kings Park White,BLTC,No. 2,Callum Smith,Jamie Clark,Callum Smith,6-2,6,2,1,0,Completed,true,true,false
+UA024133,28 Nov 21,13,Kings Park White,BLTC,No. 3,Thien Hoang,Tyler Adams,Tyler Adams,3-6,3,6,0,1,Completed,true,false,false
+UA024133,28 Nov 21,13,Kings Park White,BLTC,No. 4,Hai Nhi Hoang,Daniel McLean,Daniel McLean,3-6,3,6,0,1,Completed,true,true,false
+UA024141,05 Dec 21,14,BLTC,Parkdale,No. 1,Jamie Clark,Adam Robinson,Adam Robinson,0-6,0,6,0,1,Completed,true,false,false
+UA024141,05 Dec 21,14,BLTC,Parkdale,No. 2,Finn Haines,Kai Zamora,Kai Zamora,0-6,0,6,0,1,Completed,true,false,false
+UA024141,05 Dec 21,14,BLTC,Parkdale,No. 3,David McLean,Thomas Albani,David McLean,7-5,7,5,1,0,Completed,true,true,false
+UA024141,05 Dec 21,14,BLTC,Parkdale,No. 4,Tyler Adams,Magnus Bornard,Tyler Adams,6-3,6,3,1,0,Completed,true,false,true
+UA024142,05 Dec 21,14,Mentone,Kings Park White,No. 1,Roderic William,Nate Horlsey,Roderic William,7-5,7,5,1,0,Completed,true,false,false
+UA024142,05 Dec 21,14,Mentone,Kings Park White,No. 2,Daniel Rutkowski,Callum Smith,Callum Smith,0-6,0,6,0,1,Completed,true,false,true
+UA024142,05 Dec 21,14,Mentone,Kings Park White,No. 3,Neal Gong,Rhyle Vaz,Rhyle Vaz,2-6,2,6,0,1,Completed,true,false,true
+UA024142,05 Dec 21,14,Mentone,Kings Park White,No. 4,Chase Graham,William Haydon,Chase Graham,6-2,6,2,1,0,Completed,true,false,true
+UA024143,05 Dec 21,14,Kings Park Blue,Black Rock,No. 1,Zeyi Xu,James Cheng,Zeyi Xu,6-4,6,4,1,0,Completed,true,false,true
+UA024143,05 Dec 21,14,Kings Park Blue,Black Rock,No. 2,Jamie Todd,Zali Lock,Jamie Todd,6-0,6,0,1,0,Completed,true,false,false
+UA024143,05 Dec 21,14,Kings Park Blue,Black Rock,No. 3,Xavior Campbell,Connor Brown,Xavior Campbell,6-4,6,4,1,0,Completed,true,true,false
+UA024143,05 Dec 21,14,Kings Park Blue,Black Rock,No. 4,Harrison Campbell,Cally Cheng,Cally Cheng,4-6,4,6,0,1,Completed,true,true,false
+UA024151,12 Dec 21,15,Parkdale,Black Rock,No. 1,Darcy Basist,James Cheng,Darcy Basist,6-1,6,1,1,0,Completed,true,false,true
+UA024151,12 Dec 21,15,Parkdale,Black Rock,No. 2,Adam Robinson,Elsie Lock,Adam Robinson,6-0,6,0,1,0,Completed,true,false,false
+UA024151,12 Dec 21,15,Parkdale,Black Rock,No. 3,Thomas Albani,Connor Brown,Thomas Albani,6-0,6,0,1,0,Completed,true,false,false
+UA024151,12 Dec 21,15,Parkdale,Black Rock,No. 4,Kai Zamora,Mia Sampson,Kai Zamora,6-2,6,2,1,0,Completed,true,false,true
+UA024152,12 Dec 21,15,BLTC,Mentone,No. 1,Victor Lee,Roderic William,Roderic William,1-6,1,6,0,1,Completed,true,false,false
+UA024152,12 Dec 21,15,BLTC,Mentone,No. 2,Jamie Clark,Mango Freeman,Jamie Clark,6-1,6,1,1,0,Completed,true,false,false
+UA024152,12 Dec 21,15,BLTC,Mentone,No. 3,Finn Haines,Neal Gong,Finn Haines,6-4,6,4,1,0,Completed,true,false,false
+UA024152,12 Dec 21,15,BLTC,Mentone,No. 4,Tyler Adams,Chase Graham,Chase Graham,4-6,4,6,0,1,Completed,true,false,false
+UA024153,12 Dec 21,15,Kings Park White,Kings Park Blue,No. 1,Nate Horlsey,Zeyi Xu,Nate Horlsey,6-3,6,3,1,0,Completed,true,false,false
+UA024153,12 Dec 21,15,Kings Park White,Kings Park Blue,No. 2,Julian Wang,Jamie Todd,Julian Wang,6-2,6,2,1,0,Completed,true,true,false
+UA024153,12 Dec 21,15,Kings Park White,Kings Park Blue,No. 3,Thien Hoang,Xavior Campbell,Thien Hoang,6-1,6,1,1,0,Completed,true,false,true
+UA024153,12 Dec 21,15,Kings Park White,Kings Park Blue,No. 4,Hai Nhi Hoang,William Haydon,William Haydon,5-7,5,7,0,1,Completed,true,true,true

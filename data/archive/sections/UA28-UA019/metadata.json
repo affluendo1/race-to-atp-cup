@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA28-UA019",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2021",
+  "season_id": "UA28",
+  "season_label": "Autumn 2021",
+  "source_section_code": "UA019",
+  "section_label": "Section 19",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Elsternwick Park",
+      "wins": 11,
+      "points": 112,
+      "percentage": 244.08,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Carmelite",
+      "wins": 7,
+      "points": 84,
+      "percentage": 136.73,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kings Park",
+      "wins": 8,
+      "points": 80,
+      "percentage": 113.49,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Glen Eira",
+      "wins": 5,
+      "points": 69,
+      "percentage": 124.08,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Bentleigh Rec",
+      "wins": 4,
+      "points": 67,
+      "percentage": 97.15,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Glen Huntly",
+      "wins": 1,
+      "points": 45,
+      "percentage": 77.24,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Black Rock",
+      "wins": 3,
+      "points": 40,
+      "percentage": 62.54,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC",
+      "wins": 0,
+      "points": 23,
+      "percentage": 42.12,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA28-UA019",
+  "fixtures": 55,
+  "completed_fixtures": 44,
+  "draw_fixtures": 59,
+  "singles_rubbers": 176,
+  "doubles_rubbers": 86,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA023011,05 Feb 23,1,regular,Round 1,St Pats Mentone Seahorse,Patterson Lakes,0,10,0,6,,,4,36,Completed,
+UA023012,05 Feb 23,1,regular,Round 1,BLTC Blue,Kings Park Blue,2,8,2,4,,,26,31,Completed,
+UA023013,05 Feb 23,1,regular,Round 1,Parkdale,Coatesville,2,8,2,4,,,23,25,Completed,
+UA023014,05 Feb 23,1,regular,Round 1,Mentone,Black Rock Blue,0,10,0,6,,,18,37,Completed,
+UA023021,12 Feb 23,2,regular,Round 2,Black Rock Blue,St Pats Mentone Seahorse,10,0,6,0,,,36,6,Completed,
+UA023022,12 Feb 23,2,regular,Round 2,Patterson Lakes,BLTC Blue,7,3,3,3,,,24,20,Completed,
+UA023023,12 Feb 23,2,regular,Round 2,Kings Park Blue,Parkdale,1,9,1,5,,,13,33,Completed,
+UA023024,12 Feb 23,2,regular,Round 2,Coatesville,Mentone,9,1,5,1,,,37,23,Completed,
+UA023031,19 Feb 23,3,regular,Round 3,St Pats Mentone Seahorse,Coatesville,0,10,0,6,,,7,36,Completed,
+UA023032,19 Feb 23,3,regular,Round 3,BLTC Blue,Black Rock Blue,0,10,0,6,,,15,37,Completed,
+UA023033,19 Feb 23,3,regular,Round 3,Parkdale,Patterson Lakes,9,1,5,1,,,36,21,Completed,
+UA023034,19 Feb 23,3,regular,Round 3,Mentone,Kings Park Blue,8,2,4,2,,,31,24,Completed,
+UA023041,26 Feb 23,4,regular,Round 4,Kings Park Blue,St Pats Mentone Seahorse,9,1,5,1,,,33,9,Completed,
+UA023042,26 Feb 23,4,regular,Round 4,Coatesville,BLTC Blue,10,0,6,0,,,38,17,Completed,
+UA023043,26 Feb 23,4,regular,Round 4,Black Rock Blue,Parkdale,8,2,4,2,,,35,27,Completed,
+UA023044,26 Feb 23,4,regular,Round 4,Patterson Lakes,Mentone,8,2,4,2,,,27,15,Completed,
+UA023051,05 Mar 23,5,regular,Round 5,Parkdale,Mentone,2,8,2,4,,,22,27,Completed,
+UA023052,05 Mar 23,5,regular,Round 5,Black Rock Blue,Coatesville,9,1,5,1,,,33,27,Completed,
+UA023053,05 Mar 23,5,regular,Round 5,Kings Park Blue,Patterson Lakes,3,7,3,3,,,18,20,Completed,
+UA023054,05 Mar 23,5,regular,Round 5,St Pats Mentone Seahorse,BLTC Blue,6,4,2,4,,,20,24,Completed,
+UA023062,19 Mar 23,6,regular,Round 6,Mentone,St Pats Mentone Seahorse,10,0,6,0,,,36,7,Completed,
+UA023063,19 Mar 23,6,regular,Round 6,Coatesville,Kings Park Blue,10,0,6,0,,,36,13,Completed,
+UA023064,19 Mar 23,6,regular,Round 6,Patterson Lakes,Black Rock Blue,1,9,1,5,,,23,32,Completed,
+pending-ua023-r6-bltc-blue-parkdale,19 Mar 23,6,regular,Round 6,BLTC Blue,Parkdale,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA023071,26 Mar 23,7,regular,Round 7,St Pats Mentone Seahorse,Parkdale,0,10,0,6,,,8,36,Completed,
+UA023072,26 Mar 23,7,regular,Round 7,BLTC Blue,Mentone,1,9,1,5,,,24,32,Completed,
+UA023073,26 Mar 23,7,regular,Round 7,Black Rock Blue,Kings Park Blue,10,0,6,0,,,37,14,Completed,
+UA023074,26 Mar 23,7,regular,Round 7,Coatesville,Patterson Lakes,3,7,3,3,,,22,24,Completed,
+UA023081,02 Apr 23,8,regular,Round 8,Patterson Lakes,St Pats Mentone Seahorse,9,1,5,1,,,30,16,Completed,
+UA023082,02 Apr 23,8,regular,Round 8,Kings Park Blue,BLTC Blue,2,8,2,4,,,18,25,Completed,
+UA023083,02 Apr 23,8,regular,Round 8,Coatesville,Parkdale,8,2,4,2,,,32,27,Completed,
+UA023084,02 Apr 23,8,regular,Round 8,Black Rock Blue,Mentone,3,7,3,3,,,22,24,Completed,
+UA023091,30 Apr 23,9,regular,Round 9,St Pats Mentone Seahorse,Black Rock Blue,1,9,1,5,,,10,33,Completed,
+UA023092,30 Apr 23,9,regular,Round 9,BLTC Blue,Patterson Lakes,2,8,2,4,,,26,32,Completed,
+UA023093,30 Apr 23,9,regular,Round 9,Parkdale,Kings Park Blue,4,6,4,2,,,24,23,Completed,
+UA023094,30 Apr 23,9,regular,Round 9,Mentone,Coatesville,2,8,2,4,,,18,29,Completed,
+UA023103,07 May 23,10,regular,Round 10,Patterson Lakes,Parkdale,5,5,0,0,,,0,0,Completed,
+pending-ua023-r10-black-rock-blue-bltc-blue,07 May 23,10,regular,Round 10,Black Rock Blue,BLTC Blue,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua023-r10-coatesville-st-pats-mentone-seahorse,07 May 23,10,regular,Round 10,Coatesville,St Pats Mentone Seahorse,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua023-r10-kings-park-blue-mentone,07 May 23,10,regular,Round 10,Kings Park Blue,Mentone,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA023111,14 May 23,11,regular,Round 11,St Pats Mentone Seahorse,Kings Park Blue,6,4,2,4,,,18,24,Completed,
+UA023113,14 May 23,11,regular,Round 11,Parkdale,Black Rock Blue,1,9,1,5,,,15,34,Completed,
+UA023114,14 May 23,11,regular,Round 11,Mentone,Patterson Lakes,7,3,3,3,,,19,19,Completed,
+pending-ua023-r11-bltc-blue-coatesville,14 May 23,11,regular,Round 11,BLTC Blue,Coatesville,,,,,,,,,Forfeited To,No individual scorecard / no rubbers recorded
+pending-ua023-r12-bltc-blue-st-pats-mentone-seahorse,21 May 23,12,regular,Round 12,BLTC Blue,St Pats Mentone Seahorse,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua023-r12-coatesville-black-rock-blue,21 May 23,12,regular,Round 12,Coatesville,Black Rock Blue,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua023-r12-mentone-parkdale,21 May 23,12,regular,Round 12,Mentone,Parkdale,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua023-r12-patterson-lakes-kings-park-blue,21 May 23,12,regular,Round 12,Patterson Lakes,Kings Park Blue,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua023-r13-black-rock-blue-patterson-lakes,28 May 23,13,regular,Round 13,Black Rock Blue,Patterson Lakes,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua023-r13-kings-park-blue-coatesville,28 May 23,13,regular,Round 13,Kings Park Blue,Coatesville,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua023-r13-parkdale-bltc-blue,28 May 23,13,regular,Round 13,Parkdale,BLTC Blue,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua023-r13-st-pats-mentone-seahorse-mentone,28 May 23,13,regular,Round 13,St Pats Mentone Seahorse,Mentone,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA023301,,16,semi_final,Semi-final,Black Rock Blue,Mentone,8,2,4,2,,,32,19,Completed,
+UA023302,,16,semi_final,Semi-final,Coatesville,Patterson Lakes,2,8,2,4,,,20,26,Completed,
+UA023321,,17,grand_final,Grand final · TROLS entry 2,Black Rock Blue,Patterson Lakes,2,8,2,4,,,22,26,Completed,

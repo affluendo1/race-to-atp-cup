@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA007011,05 Feb 23,1,regular,Round 1,Hurlingham Park,Dendy Park,2,8,2,4,,,25,28,Completed,
+UA007012,05 Feb 23,1,regular,Round 1,Carmelite,Black Rock,2,8,2,4,,,26,29,Completed,
+UA007013,05 Feb 23,1,regular,Round 1,St Joan of Arc,Elsternwick Park,8,2,4,2,,,32,27,Completed,
+UA007014,05 Feb 23,1,regular,Round 1,St Pats Mentone,St Andrews MB GO,9,1,5,1,,,36,21,Completed,
+UA007021,12 Feb 23,2,regular,Round 2,St Andrews MB GO,Hurlingham Park,9,1,5,1,,,33,22,Completed,
+UA007022,12 Feb 23,2,regular,Round 2,Dendy Park,Carmelite,8,2,4,2,,,28,21,Completed,
+UA007023,12 Feb 23,2,regular,Round 2,Black Rock,St Joan of Arc,2,8,2,4,,,24,31,Completed,
+UA007024,12 Feb 23,2,regular,Round 2,Elsternwick Park,St Pats Mentone,1,9,1,5,,,18,32,Completed,
+UA007031,19 Feb 23,3,regular,Round 3,Hurlingham Park,Elsternwick Park,8,2,4,2,,,30,25,Completed,
+UA007032,19 Feb 23,3,regular,Round 3,Carmelite,St Andrews MB GO,2,8,2,4,,,26,29,Completed,
+UA007033,19 Feb 23,3,regular,Round 3,St Joan of Arc,Dendy Park,8,2,4,2,,,30,28,Completed,
+UA007034,19 Feb 23,3,regular,Round 3,St Pats Mentone,Black Rock,8,2,4,2,,,30,23,Completed,
+UA007041,26 Feb 23,4,regular,Round 4,Black Rock,Hurlingham Park,7,3,3,3,,,30,27,Completed,
+UA007042,26 Feb 23,4,regular,Round 4,Elsternwick Park,Carmelite,9,1,5,1,,,32,18,Completed,
+UA007043,26 Feb 23,4,regular,Round 4,St Andrews MB GO,St Joan of Arc,2,8,2,4,,,24,33,Completed,
+UA007044,26 Feb 23,4,regular,Round 4,Dendy Park,St Pats Mentone,0,10,0,6,,,16,37,Completed,
+UA007051,05 Mar 23,5,regular,Round 5,St Joan of Arc,St Pats Mentone,2,8,2,4,,,23,29,Completed,
+UA007052,05 Mar 23,5,regular,Round 5,St Andrews MB GO,Elsternwick Park,3,7,3,3,,,29,30,Completed,
+UA007053,05 Mar 23,5,regular,Round 5,Black Rock,Dendy Park,8,2,4,2,,,34,33,Completed,
+UA007054,05 Mar 23,5,regular,Round 5,Hurlingham Park,Carmelite,8,2,4,2,,,32,26,Completed,
+UA007061,19 Mar 23,6,regular,Round 6,Carmelite,St Joan of Arc,9,1,5,1,,,37,20,Completed,
+UA007062,19 Mar 23,6,regular,Round 6,St Pats Mentone,Hurlingham Park,8,2,4,2,,,30,24,Completed,
+UA007063,19 Mar 23,6,regular,Round 6,Elsternwick Park,Black Rock,3,7,3,3,,,23,24,Completed,
+UA007064,19 Mar 23,6,regular,Round 6,Dendy Park,St Andrews MB GO,1,9,1,5,,,23,32,Completed,
+UA007071,26 Mar 23,7,regular,Round 7,Hurlingham Park,St Joan of Arc,10,0,6,0,,,39,23,Completed,
+UA007072,26 Mar 23,7,regular,Round 7,Carmelite,St Pats Mentone,8,2,4,2,,,35,24,Completed,
+UA007073,26 Mar 23,7,regular,Round 7,St Andrews MB GO,Black Rock,8,2,4,2,,,28,24,Completed,
+UA007074,26 Mar 23,7,regular,Round 7,Elsternwick Park,Dendy Park,8,2,4,2,,,27,16,Completed,
+UA007081,02 Apr 23,8,regular,Round 8,Dendy Park,Hurlingham Park,8,2,4,2,,,33,22,Completed,
+UA007082,02 Apr 23,8,regular,Round 8,Black Rock,Carmelite,9,1,5,1,,,35,19,Completed,
+UA007083,02 Apr 23,8,regular,Round 8,Elsternwick Park,St Joan of Arc,7,3,3,3,,,29,23,Completed,
+UA007084,02 Apr 23,8,regular,Round 8,St Andrews MB GO,St Pats Mentone,1,9,1,5,,,17,35,Completed,
+UA007091,30 Apr 23,9,regular,Round 9,Hurlingham Park,St Andrews MB GO,8,2,4,2,,,30,17,Completed,
+UA007092,30 Apr 23,9,regular,Round 9,Carmelite,Dendy Park,9,1,5,1,,,33,18,Completed,
+UA007093,30 Apr 23,9,regular,Round 9,St Joan of Arc,Black Rock,2,8,2,4,,,26,33,Completed,
+UA007094,30 Apr 23,9,regular,Round 9,St Pats Mentone,Elsternwick Park,8,2,4,2,,,34,21,Completed,
+pending-ua007-r10-black-rock-st-pats-mentone,07 May 23,10,regular,Round 10,Black Rock,St Pats Mentone,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua007-r10-dendy-park-st-joan-of-arc,07 May 23,10,regular,Round 10,Dendy Park,St Joan of Arc,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua007-r10-elsternwick-park-hurlingham-park,07 May 23,10,regular,Round 10,Elsternwick Park,Hurlingham Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua007-r10-st-andrews-mb-go-carmelite,07 May 23,10,regular,Round 10,St Andrews MB GO,Carmelite,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA007111,14 May 23,11,regular,Round 11,Hurlingham Park,Black Rock,7,3,3,3,,,32,30,Completed,
+UA007112,14 May 23,11,regular,Round 11,Carmelite,Elsternwick Park,1,9,1,5,,,23,31,Completed,
+UA007113,14 May 23,11,regular,Round 11,St Joan of Arc,St Andrews MB GO,8,2,4,2,,,26,23,Completed,
+UA007114,14 May 23,11,regular,Round 11,St Pats Mentone,Dendy Park,9,1,5,1,,,33,17,Completed,
+UA007122,21 May 23,12,regular,Round 12,Elsternwick Park,St Andrews MB GO,9,1,5,1,,,34,24,Completed,
+pending-ua007-r12-carmelite-hurlingham-park,21 May 23,12,regular,Round 12,Carmelite,Hurlingham Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua007-r12-dendy-park-black-rock,21 May 23,12,regular,Round 12,Dendy Park,Black Rock,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua007-r12-st-pats-mentone-st-joan-of-arc,21 May 23,12,regular,Round 12,St Pats Mentone,St Joan of Arc,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua007-r13-black-rock-elsternwick-park,28 May 23,13,regular,Round 13,Black Rock,Elsternwick Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua007-r13-hurlingham-park-st-pats-mentone,28 May 23,13,regular,Round 13,Hurlingham Park,St Pats Mentone,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua007-r13-st-andrews-mb-go-dendy-park,28 May 23,13,regular,Round 13,St Andrews MB GO,Dendy Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua007-r13-st-joan-of-arc-carmelite,28 May 23,13,regular,Round 13,St Joan of Arc,Carmelite,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA007301,,16,semi_final,Semi-final,St Pats Mentone,Hurlingham Park,9,1,5,1,,,35,20,Completed,
+UA007302,,16,semi_final,Semi-final,Black Rock,Elsternwick Park,0,10,0,6,,,19,38,Completed,
+UA007321,,17,grand_final,Grand final · TROLS entry 2,St Pats Mentone,Elsternwick Park,9,1,5,1,,,31,25,Completed,

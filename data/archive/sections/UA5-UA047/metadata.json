@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA5-UA047",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2009",
+  "season_id": "UA5",
+  "season_label": "Spring 2009",
+  "source_section_code": "UA047",
+  "section_label": "10",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 101,
+      "percentage": 136.9,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "St Louis de Mont",
+      "wins": 0,
+      "points": 98,
+      "percentage": 138.55,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Elsternwick Park",
+      "wins": 0,
+      "points": 84,
+      "percentage": 129.12,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "St James",
+      "wins": 0,
+      "points": 70,
+      "percentage": 96.0,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "Carmelite",
+      "wins": 0,
+      "points": 67,
+      "percentage": 93.2,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC MLC 1",
+      "wins": 0,
+      "points": 57,
+      "percentage": 77.75,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St Joan of Arc RA",
+      "wins": 0,
+      "points": 43,
+      "percentage": 74.77,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC MLC 2",
+      "wins": 0,
+      "points": 40,
+      "percentage": 74.31,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA5-UA047",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 3,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

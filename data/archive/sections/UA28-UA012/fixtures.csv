@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA012011,31 Jan 21,1,regular,Round 1,Dendy Park,BLTC,9,1,5,1,,,37,24,Completed,
+UA012012,31 Jan 21,1,regular,Round 1,Royal South Yarra,Maccabi,0,10,0,6,,,21,39,Completed,
+UA012013,31 Jan 21,1,regular,Round 1,Black Rock,St Pats Mentone,0,10,0,6,,,9,36,Completed,
+UA012014,31 Jan 21,1,regular,Round 1,Murrumbeena,Victory Park,2,8,2,4,,,30,28,Completed,
+UA012021,07 Feb 21,2,regular,Round 2,Victory Park,Dendy Park,3,7,3,3,,,24,27,Completed,
+UA012022,07 Feb 21,2,regular,Round 2,BLTC,Royal South Yarra,10,0,6,0,,,36,10,Completed,
+UA012024,07 Feb 21,2,regular,Round 2,St Pats Mentone,Murrumbeena,8,2,4,2,,,30,23,Completed,
+pending-ua012-r2-maccabi-black-rock,07 Feb 21,2,regular,Round 2,Maccabi,Black Rock,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA012034,14 Feb 21,3,regular,Round 3,Murrumbeena,Maccabi,5,5,0,0,,,0,0,Completed,
+pending-ua012-r3-black-rock-bltc,14 Feb 21,3,regular,Round 3,Black Rock,BLTC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r3-dendy-park-st-pats-mentone,14 Feb 21,3,regular,Round 3,Dendy Park,St Pats Mentone,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r3-royal-south-yarra-victory-park,14 Feb 21,3,regular,Round 3,Royal South Yarra,Victory Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA012041,21 Feb 21,4,regular,Round 4,Maccabi,Dendy Park,9,1,5,1,,,33,20,Completed,
+UA012042,21 Feb 21,4,regular,Round 4,St Pats Mentone,Royal South Yarra,10,0,6,0,,,36,10,Completed,
+UA012043,21 Feb 21,4,regular,Round 4,Victory Park,Black Rock,3,7,3,3,,,22,25,Completed,
+UA012044,21 Feb 21,4,regular,Round 4,BLTC,Murrumbeena,9,1,5,1,,,35,24,Completed,
+UA012051,28 Feb 21,5,regular,Round 5,Black Rock,Murrumbeena,0,10,0,6,,,13,36,Completed,
+UA012052,28 Feb 21,5,regular,Round 5,Victory Park,St Pats Mentone,1,9,1,5,,,15,36,Completed,
+UA012053,28 Feb 21,5,regular,Round 5,Maccabi,BLTC,8,2,4,2,,,31,19,Completed,
+UA012054,28 Feb 21,5,regular,Round 5,Dendy Park,Royal South Yarra,9,1,5,1,,,35,18,Completed,
+UA012061,14 Mar 21,6,regular,Round 6,Royal South Yarra,Black Rock,8,2,4,2,,,32,24,Completed,
+UA012062,14 Mar 21,6,regular,Round 6,Murrumbeena,Dendy Park,2,8,2,4,,,22,33,Completed,
+UA012063,14 Mar 21,6,regular,Round 6,St Pats Mentone,Maccabi,7,3,3,3,,,30,27,Completed,
+UA012064,14 Mar 21,6,regular,Round 6,BLTC,Victory Park,7,3,3,3,,,30,28,Completed,
+UA012071,21 Mar 21,7,regular,Round 7,Dendy Park,Black Rock,10,0,6,0,,,37,15,Completed,
+UA012073,21 Mar 21,7,regular,Round 7,Victory Park,Maccabi,2,8,2,4,,,27,34,Completed,
+UA012074,21 Mar 21,7,regular,Round 7,St Pats Mentone,BLTC,9,1,5,1,,,35,24,Completed,
+pending-ua012-r7-royal-south-yarra-murrumbeena,21 Mar 21,7,regular,Round 7,Royal South Yarra,Murrumbeena,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA012081,28 Mar 21,8,regular,Round 8,BLTC,Dendy Park,8,2,4,2,,,32,25,Completed,
+UA012082,28 Mar 21,8,regular,Round 8,Maccabi,Royal South Yarra,9,1,5,1,,,30,12,Completed,
+UA012083,28 Mar 21,8,regular,Round 8,St Pats Mentone,Black Rock,2,8,2,4,,,28,29,Completed,
+UA012084,28 Mar 21,8,regular,Round 8,Victory Park,Murrumbeena,8,2,4,2,,,31,24,Completed,
+UA012091,02 May 21,9,regular,Round 9,Dendy Park,Victory Park,9,1,5,1,,,36,21,Completed,
+UA012092,02 May 21,9,regular,Round 9,Royal South Yarra,BLTC,1,9,1,5,,,13,34,Completed,
+UA012093,02 May 21,9,regular,Round 9,Black Rock,Maccabi,1,9,1,5,,,14,35,Completed,
+UA012094,02 May 21,9,regular,Round 9,Murrumbeena,St Pats Mentone,2,8,2,4,,,18,25,Completed,
+UA012101,09 May 21,10,regular,Round 10,St Pats Mentone,Dendy Park,7,3,3,3,,,23,21,Completed,
+UA012102,09 May 21,10,regular,Round 10,Victory Park,Royal South Yarra,9,1,5,1,,,34,24,Completed,
+UA012103,09 May 21,10,regular,Round 10,BLTC,Black Rock,9,1,5,1,,,35,18,Completed,
+UA012104,09 May 21,10,regular,Round 10,Maccabi,Murrumbeena,3,7,3,3,,,27,32,Completed,
+UA012111,16 May 21,11,regular,Round 11,Dendy Park,Maccabi,3,7,3,3,,,30,34,Completed,
+UA012112,16 May 21,11,regular,Round 11,Royal South Yarra,St Pats Mentone,1,9,1,5,,,10,30,Completed,
+UA012113,16 May 21,11,regular,Round 11,Black Rock,Victory Park,8,2,4,2,,,29,27,Completed,
+UA012114,16 May 21,11,regular,Round 11,Murrumbeena,BLTC,2,8,2,4,,,21,33,Completed,
+UA012121,23 May 21,12,regular,Round 12,Murrumbeena,Black Rock,8,2,4,2,,,29,26,Completed,
+UA012122,23 May 21,12,regular,Round 12,St Pats Mentone,Victory Park,2,8,2,4,,,22,31,Completed,
+UA012123,23 May 21,12,regular,Round 12,BLTC,Maccabi,8,2,4,2,,,30,20,Completed,
+UA012124,23 May 21,12,regular,Round 12,Royal South Yarra,Dendy Park,0,10,0,6,,,5,36,Completed,
+pending-ua012-r13-black-rock-royal-south-yarra,30 May 21,13,regular,Round 13,Black Rock,Royal South Yarra,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r13-dendy-park-murrumbeena,30 May 21,13,regular,Round 13,Dendy Park,Murrumbeena,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r13-maccabi-st-pats-mentone,30 May 21,13,regular,Round 13,Maccabi,St Pats Mentone,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r13-victory-park-bltc,30 May 21,13,regular,Round 13,Victory Park,BLTC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA012301,,16,semi_final,Semi-final,St Pats Mentone,Dendy Park,3,7,3,3,,,24,25,Completed,
+UA012302,,16,semi_final,Semi-final,Maccabi,BLTC,7,3,3,3,,,30,28,Completed,
+UA012321,,17,grand_final,Grand final · TROLS entry 2,Maccabi,Dendy Park,2,8,2,4,,,23,32,Completed,

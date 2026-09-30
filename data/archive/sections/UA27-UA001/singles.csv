@@ -1,0 +1,85 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA001011,15 Nov 20,1,Royal South Yarra,Royal Ave,No. 1,Toby Ralph,Josh Chu-Wise,Josh Chu-Wise,1-6,1,6,0,1,Completed,true,false,false
+UA001011,15 Nov 20,1,Royal South Yarra,Royal Ave,No. 2,Lachlan Mailer,Conor Mooney,Lachlan Mailer,6-1,6,1,1,0,Completed,true,false,false
+UA001011,15 Nov 20,1,Royal South Yarra,Royal Ave,No. 3,Darcy Albert,Allegra Dureau,Darcy Albert,6-2,6,2,1,0,Completed,true,false,false
+UA001011,15 Nov 20,1,Royal South Yarra,Royal Ave,No. 4,Thomas Wenzel,Liam Peppard,Liam Peppard,1-6,1,6,0,1,Completed,true,false,false
+UA001012,15 Nov 20,1,Beaumaris CC,BLTC 1,No. 1,Cammie Shannon,Archie Barrie,Archie Barrie,0-6,0,6,0,1,Completed,true,false,false
+UA001012,15 Nov 20,1,Beaumaris CC,BLTC 1,No. 2,Jamie Turner,Olivia Moir,Olivia Moir,2-6,2,6,0,1,Completed,true,false,false
+UA001012,15 Nov 20,1,Beaumaris CC,BLTC 1,No. 3,Kylah Schuwalon,Sophie Christie,Sophie Christie,4-6,4,6,0,1,Completed,true,false,false
+UA001012,15 Nov 20,1,Beaumaris CC,BLTC 1,No. 4,Kayla Johnstone,Lachlan Christie,Lachlan Christie,0-6,0,6,0,1,Completed,true,false,false
+UA001013,15 Nov 20,1,Coatesville,BLTC 2,No. 1,Sam Basman,Adam Livermore,Adam Livermore,3-6,3,6,0,1,Completed,true,false,false
+UA001013,15 Nov 20,1,Coatesville,BLTC 2,No. 2,Jordan Marakhov,Will Vucic,Jordan Marakhov,6-4,6,4,1,0,Completed,true,false,false
+UA001013,15 Nov 20,1,Coatesville,BLTC 2,No. 3,Daniel Dela Cruz,Ryan Taylor,Ryan Taylor,1-6,1,6,0,1,Completed,true,true,true
+UA001013,15 Nov 20,1,Coatesville,BLTC 2,No. 4,Hugo Thomas,Ilai Manor,Ilai Manor,4-6,4,6,0,1,Completed,true,true,true
+UA001014,15 Nov 20,1,Dendy Park 1,Dendy Park 2,No. 1,Andreas Tanti,Lachlan Tindall,Andreas Tanti,6-4,6,4,1,0,Completed,true,false,false
+UA001014,15 Nov 20,1,Dendy Park 1,Dendy Park 2,No. 2,Daniel Whitson,Max Buntine,Daniel Whitson,6-3,6,3,1,0,Completed,true,false,false
+UA001014,15 Nov 20,1,Dendy Park 1,Dendy Park 2,No. 3,Jonathon Henquin,Korben Brough,Jonathon Henquin,6-1,6,1,1,0,Completed,true,false,false
+UA001014,15 Nov 20,1,Dendy Park 1,Dendy Park 2,No. 4,Ashley Small,Damien Hookway,Damien Hookway,2-6,2,6,0,1,Completed,true,false,true
+UA001021,22 Nov 20,2,Dendy Park 2,Royal South Yarra,No. 1,Lachlan Tindall,Lachlan Mailer,Lachlan Tindall,6-3,6,3,1,0,Completed,true,false,false
+UA001021,22 Nov 20,2,Dendy Park 2,Royal South Yarra,No. 2,Max Buntine,Darcy Albert,Darcy Albert,2-6,2,6,0,1,Completed,true,false,false
+UA001021,22 Nov 20,2,Dendy Park 2,Royal South Yarra,No. 3,Korben Brough,James Ollerenshaw,Korben Brough,6-3,6,3,1,0,Completed,true,false,false
+UA001021,22 Nov 20,2,Dendy Park 2,Royal South Yarra,No. 4,Ollie Murphy,Thomas Wenzel,Ollie Murphy,6-1,6,1,1,0,Completed,true,false,false
+UA001022,22 Nov 20,2,Royal Ave,Beaumaris CC,No. 1,Josh Chu-Wise,Cammie Shannon,Josh Chu-Wise,6-0,6,0,1,0,Completed,true,false,false
+UA001022,22 Nov 20,2,Royal Ave,Beaumaris CC,No. 2,Reilly Scollo,Jamie Turner,Reilly Scollo,6-3,6,3,1,0,Completed,true,true,false
+UA001022,22 Nov 20,2,Royal Ave,Beaumaris CC,No. 3,Allegra Dureau,Xavier Carter,Allegra Dureau,6-3,6,3,1,0,Completed,true,false,false
+UA001022,22 Nov 20,2,Royal Ave,Beaumaris CC,No. 4,Aleksey Granitsa,Kylah Schuwalon,Aleksey Granitsa,6-0,6,0,1,0,Completed,true,true,false
+UA001023,22 Nov 20,2,BLTC 1,Coatesville,No. 1,Archie Barrie,Daniel Gershenzen,Archie Barrie,6-2,6,2,1,0,Completed,true,false,false
+UA001023,22 Nov 20,2,BLTC 1,Coatesville,No. 2,Olivia Moir,Sam Basman,Olivia Moir,6-1,6,1,1,0,Completed,true,false,false
+UA001023,22 Nov 20,2,BLTC 1,Coatesville,No. 3,Sophie Christie,Daniel Dela Cruz,Sophie Christie,7-5,7,5,1,0,Completed,true,false,true
+UA001023,22 Nov 20,2,BLTC 1,Coatesville,No. 4,Nathanial Hall,Hugo Thomas,Hugo Thomas,5-7,5,7,0,1,Completed,true,false,true
+UA001024,22 Nov 20,2,BLTC 2,Dendy Park 1,No. 1,Adam Livermore,Andreas Tanti,Andreas Tanti,3-6,3,6,0,1,Completed,true,false,false
+UA001024,22 Nov 20,2,BLTC 2,Dendy Park 1,No. 2,Will Vucic,Sebastian Liddle,Sebastian Liddle,1-6,1,6,0,1,Completed,true,false,false
+UA001024,22 Nov 20,2,BLTC 2,Dendy Park 1,No. 3,Ryan Taylor,Jonathon Henquin,Ryan Taylor,6-0,6,0,1,0,Completed,true,true,false
+UA001024,22 Nov 20,2,BLTC 2,Dendy Park 1,No. 4,Ilai Manor,Ashley Small,Ilai Manor,7-5,7,5,1,0,Completed,true,true,false
+UA001032,29 Nov 20,3,Beaumaris CC,Dendy Park 2,No. 1,Cammie Shannon,Lachlan Tindall,Lachlan Tindall,2-6,2,6,0,1,Completed,true,false,false
+UA001032,29 Nov 20,3,Beaumaris CC,Dendy Park 2,No. 2,Xavier Carter,Max Buntine,Max Buntine,3-6,3,6,0,1,Completed,true,false,false
+UA001032,29 Nov 20,3,Beaumaris CC,Dendy Park 2,No. 3,Kylah Schuwalon,Korben Brough,Korben Brough,2-6,2,6,0,1,Completed,true,false,false
+UA001032,29 Nov 20,3,Beaumaris CC,Dendy Park 2,No. 4,Kayla Johnstone,Ollie Murphy,Ollie Murphy,0-6,0,6,0,1,Completed,true,false,false
+UA001033,29 Nov 20,3,Coatesville,Royal Ave,No. 1,Jordan Marakhov,Josh Chu-Wise,Josh Chu-Wise,3-6,3,6,0,1,Completed,true,false,false
+UA001033,29 Nov 20,3,Coatesville,Royal Ave,No. 2,Daniel Dela Cruz,Reilly Scollo,Reilly Scollo,0-6,0,6,0,1,Completed,true,true,true
+UA001033,29 Nov 20,3,Coatesville,Royal Ave,No. 3,Joel McCulloch,Allegra Dureau,Allegra Dureau,5-7,5,7,0,1,Completed,true,false,false
+UA001033,29 Nov 20,3,Coatesville,Royal Ave,No. 4,Josh Treweek,Liam Peppard,Liam Peppard,2-6,2,6,0,1,Completed,true,false,false
+UA001041,06 Dec 20,4,BLTC 1,Royal South Yarra,No. 1,Olivia Moir,Toby Ralph,Olivia Moir,6-2,6,2,1,0,Completed,true,false,false
+UA001041,06 Dec 20,4,BLTC 1,Royal South Yarra,No. 2,Sophie Christie,Darcy Albert,Darcy Albert,3-6,3,6,0,1,Completed,true,false,false
+UA001041,06 Dec 20,4,BLTC 1,Royal South Yarra,No. 3,Nathanial Hall,Thomas Wenzel,Thomas Wenzel,5-7,5,7,0,1,Completed,true,false,false
+UA001041,06 Dec 20,4,BLTC 1,Royal South Yarra,No. 4,Lachlan Christie,Tom Ritter,Tom Ritter,1-6,1,6,0,1,Completed,true,false,true
+UA001042,06 Dec 20,4,BLTC 2,Beaumaris CC,No. 1,Adam Livermore,Cammie Shannon,Adam Livermore,6-0,6,0,1,0,Completed,true,false,false
+UA001042,06 Dec 20,4,BLTC 2,Beaumaris CC,No. 2,Will Vucic,Jamie Turner,Will Vucic,6-3,6,3,1,0,Completed,true,false,false
+UA001042,06 Dec 20,4,BLTC 2,Beaumaris CC,No. 3,Ilai Manor,Xavier Carter,Ilai Manor,6-1,6,1,1,0,Completed,true,true,false
+UA001042,06 Dec 20,4,BLTC 2,Beaumaris CC,No. 4,Daniel Brown,Kylah Schuwalon,Daniel Brown,6-4,6,4,1,0,Completed,true,true,false
+UA001043,06 Dec 20,4,Dendy Park 2,Coatesville,No. 1,Lachlan Tindall,Sam Basman,Lachlan Tindall,6-2,6,2,1,0,Completed,true,false,false
+UA001043,06 Dec 20,4,Dendy Park 2,Coatesville,No. 2,Max Buntine,Jordan Marakhov,Max Buntine,6-1,6,1,1,0,Completed,true,false,false
+UA001043,06 Dec 20,4,Dendy Park 2,Coatesville,No. 3,Korben Brough,Daniel Dela Cruz,Korben Brough,6-4,6,4,1,0,Completed,true,false,true
+UA001043,06 Dec 20,4,Dendy Park 2,Coatesville,No. 4,Ollie Murphy,Hugo Thomas,Hugo Thomas,1-6,1,6,0,1,Completed,true,false,true
+UA001044,06 Dec 20,4,Royal Ave,Dendy Park 1,No. 1,Josh Chu-Wise,Andreas Tanti,Josh Chu-Wise,6-1,6,1,1,0,Completed,true,false,false
+UA001044,06 Dec 20,4,Royal Ave,Dendy Park 1,No. 2,Brodie Moller,Daniel Whitson,Brodie Moller,6-3,6,3,1,0,Completed,true,true,false
+UA001044,06 Dec 20,4,Royal Ave,Dendy Park 1,No. 3,Allegra Dureau,Sebastian Liddle,Sebastian Liddle,1-6,1,6,0,1,Completed,true,false,false
+UA001044,06 Dec 20,4,Royal Ave,Dendy Park 1,No. 4,Liam Peppard,Ashley Small,Liam Peppard,6-3,6,3,1,0,Completed,true,false,false
+UA001051,13 Dec 20,5,Coatesville,Dendy Park 1,No. 1,Daniel Gershenzen,Andreas Tanti,Daniel Gershenzen,7-5,7,5,1,0,Completed,true,false,false
+UA001051,13 Dec 20,5,Coatesville,Dendy Park 1,No. 2,Daniel Dela Cruz,Daniel Whitson,Daniel Dela Cruz,6-3,6,3,1,0,Completed,true,true,false
+UA001051,13 Dec 20,5,Coatesville,Dendy Park 1,No. 3,Hugo Thomas,Sebastian Liddle,Sebastian Liddle,1-6,1,6,0,1,Completed,true,true,false
+UA001051,13 Dec 20,5,Coatesville,Dendy Park 1,No. 4,Nicholas Dela Cruz,Ashley Small,Ashley Small,4-6,4,6,0,1,Completed,true,true,false
+UA001052,13 Dec 20,5,Dendy Park 2,BLTC 2,No. 1,Lachlan Tindall,Adam Livermore,Lachlan Tindall,6-0,6,0,1,0,Completed,true,false,false
+UA001052,13 Dec 20,5,Dendy Park 2,BLTC 2,No. 2,Korben Brough,Will Vucic,Will Vucic,3-6,3,6,0,1,Completed,true,false,false
+UA001052,13 Dec 20,5,Dendy Park 2,BLTC 2,No. 3,Jackson Mullaly,Ryan Taylor,Jackson Mullaly,6-0,6,0,1,0,Completed,true,false,true
+UA001052,13 Dec 20,5,Dendy Park 2,BLTC 2,No. 4,Ollie Murphy,Daniel Brown,Ollie Murphy,6-4,6,4,1,0,Completed,true,false,true
+UA001053,13 Dec 20,5,BLTC 1,Royal Ave,No. 1,Archie Barrie,Reilly Scollo,Reilly Scollo,4-6,4,6,0,1,Completed,true,false,true
+UA001053,13 Dec 20,5,BLTC 1,Royal Ave,No. 2,Sophie Christie,Conor Mooney,Sophie Christie,6-2,6,2,1,0,Completed,true,false,false
+UA001053,13 Dec 20,5,BLTC 1,Royal Ave,No. 3,Nathanial Hall,Allegra Dureau,Allegra Dureau,6-7,6,7,0,1,Completed,true,false,false
+UA001053,13 Dec 20,5,BLTC 1,Royal Ave,No. 4,Lachlan Christie,Liam Peppard,Liam Peppard,2-6,2,6,0,1,Completed,true,false,false
+UA001054,13 Dec 20,5,Royal South Yarra,Beaumaris CC,No. 1,Toby Ralph,Cammie Shannon,Toby Ralph,6-3,6,3,1,0,Completed,true,false,false
+UA001054,13 Dec 20,5,Royal South Yarra,Beaumaris CC,No. 2,Tom Ritter,Jamie Turner,Tom Ritter,6-0,6,0,1,0,Completed,true,true,false
+UA001054,13 Dec 20,5,Royal South Yarra,Beaumaris CC,No. 3,James Ollerenshaw,Kylah Schuwalon,James Ollerenshaw,6-0,6,0,1,0,Completed,true,false,false
+UA001054,13 Dec 20,5,Royal South Yarra,Beaumaris CC,No. 4,Thomas Wenzel,[Unnamed player — TROLS UA001054 away code 4],Thomas Wenzel,6-0,6,0,1,0,Completed,false,false,false
+UA001062,20 Dec 20,6,Dendy Park 1,Royal South Yarra,No. 1,Andreas Tanti,Toby Ralph,Toby Ralph,3-6,3,6,0,1,Completed,true,false,false
+UA001062,20 Dec 20,6,Dendy Park 1,Royal South Yarra,No. 2,Daniel Whitson,Lachlan Mailer,Daniel Whitson,6-0,6,0,1,0,Completed,true,false,false
+UA001062,20 Dec 20,6,Dendy Park 1,Royal South Yarra,No. 3,Sebastian Liddle,James Ollerenshaw,Sebastian Liddle,6-0,6,0,1,0,Completed,true,false,false
+UA001062,20 Dec 20,6,Dendy Park 1,Royal South Yarra,No. 4,Ashley Small,Thomas Wenzel,Ashley Small,6-4,6,4,1,0,Completed,true,false,false
+UA001063,20 Dec 20,6,BLTC 2,BLTC 1,No. 1,Josh Fairhurst,Archie Barrie,Josh Fairhurst,6-0,6,0,1,0,Completed,true,true,false
+UA001063,20 Dec 20,6,BLTC 2,BLTC 1,No. 2,Adam Livermore,Olivia Moir,Adam Livermore,6-3,6,3,1,0,Completed,true,false,false
+UA001063,20 Dec 20,6,BLTC 2,BLTC 1,No. 3,Will Vucic,Nathanial Hall,Nathanial Hall,4-6,4,6,0,1,Completed,true,false,false
+UA001063,20 Dec 20,6,BLTC 2,BLTC 1,No. 4,Jenna Brown,Kurt Bartholomuesz,Kurt Bartholomuesz,2-6,2,6,0,1,Completed,true,true,true
+UA001064,20 Dec 20,6,Royal Ave,Dendy Park 2,No. 1,Josh Chu-Wise,Lachlan Tindall,Josh Chu-Wise,6-0,6,0,1,0,Completed,true,false,false
+UA001064,20 Dec 20,6,Royal Ave,Dendy Park 2,No. 2,Allegra Dureau,Max Buntine,Allegra Dureau,7-6,7,6,1,0,Completed,true,false,false
+UA001064,20 Dec 20,6,Royal Ave,Dendy Park 2,No. 3,Liam Peppard,Jackson Mullaly,Jackson Mullaly,3-6,3,6,0,1,Completed,true,false,false
+UA001064,20 Dec 20,6,Royal Ave,Dendy Park 2,No. 4,Aleksey Granitsa,Ollie Murphy,Aleksey Granitsa,6-4,6,4,1,0,Completed,true,true,false

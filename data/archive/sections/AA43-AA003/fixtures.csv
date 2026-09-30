@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+AA003011,21 Jul 18,1,regular,Round 1,Carmelite 1,Kooyong MLC1,2,8,2,4,,,23,29,Completed,
+AA003012,21 Jul 18,1,regular,Round 1,Carmelite 2,Carmelite 3,8,2,4,2,,,31,24,Completed,
+AA003013,21 Jul 18,1,regular,Round 1,Kooyong MLC2,Kooyong MLC3,10,0,6,0,,,36,21,Completed,
+pending-aa003-r1-port-melbourne-bye,21 Jul 18,1,regular,Round 1,Port Melbourne,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA003022,28 Jul 18,2,regular,Round 2,Kooyong MLC1,Carmelite 2,8,2,4,2,,,32,24,Completed,
+AA003023,28 Jul 18,2,regular,Round 2,Carmelite 3,Kooyong MLC2,1,9,1,5,,,21,34,Completed,
+AA003024,28 Jul 18,2,regular,Round 2,Kooyong MLC3,Port Melbourne,1,9,1,5,,,22,36,Completed,
+pending-aa003-r2-bye-carmelite-1,28 Jul 18,2,regular,Round 2,Bye,Carmelite 1,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA003031,04 Aug 18,3,regular,Round 3,Carmelite 1,Kooyong MLC3,10,0,6,0,,,36,11,Completed,
+AA003033,04 Aug 18,3,regular,Round 3,Kooyong MLC2,Kooyong MLC1,2,8,2,4,,,20,29,Completed,
+AA003034,04 Aug 18,3,regular,Round 3,Port Melbourne,Carmelite 3,9,1,5,1,,,35,12,Completed,
+pending-aa003-r3-carmelite-2-bye,04 Aug 18,3,regular,Round 3,Carmelite 2,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-aa003-r4-bye-kooyong-mlc2,11 Aug 18,4,regular,Round 4,Bye,Kooyong MLC2,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-aa003-r4-carmelite-3-carmelite-1,11 Aug 18,4,regular,Round 4,Carmelite 3,Carmelite 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-aa003-r4-kooyong-mlc1-port-melbourne,11 Aug 18,4,regular,Round 4,Kooyong MLC1,Port Melbourne,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-aa003-r4-kooyong-mlc3-carmelite-2,11 Aug 18,4,regular,Round 4,Kooyong MLC3,Carmelite 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+AA003051,18 Aug 18,5,regular,Round 5,Kooyong MLC2,Port Melbourne,1,9,1,5,,,20,32,Completed,
+AA003053,18 Aug 18,5,regular,Round 5,Carmelite 3,Kooyong MLC1,0,10,0,6,,,7,37,Completed,
+AA003054,18 Aug 18,5,regular,Round 5,Carmelite 1,Carmelite 2,7,3,3,3,,,26,23,Completed,
+pending-aa003-r5-bye-kooyong-mlc3,18 Aug 18,5,regular,Round 5,Bye,Kooyong MLC3,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA003061,25 Aug 18,6,regular,Round 6,Carmelite 2,Kooyong MLC2,3,7,3,3,,,28,29,Completed,
+AA003062,25 Aug 18,6,regular,Round 6,Port Melbourne,Carmelite 1,2,8,2,4,,,23,33,Completed,
+AA003063,25 Aug 18,6,regular,Round 6,Kooyong MLC3,Carmelite 3,5,5,3,3,,,22,22,Completed,
+pending-aa003-r6-kooyong-mlc1-bye,25 Aug 18,6,regular,Round 6,Kooyong MLC1,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA003071,01 Sep 18,7,regular,Round 7,Carmelite 1,Kooyong MLC2,10,0,6,0,,,36,9,Completed,
+AA003072,01 Sep 18,7,regular,Round 7,Carmelite 2,Port Melbourne,9,1,5,1,,,32,20,Completed,
+AA003074,01 Sep 18,7,regular,Round 7,Kooyong MLC3,Kooyong MLC1,1,9,1,5,,,17,32,Completed,
+pending-aa003-r7-bye-carmelite-3,01 Sep 18,7,regular,Round 7,Bye,Carmelite 3,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA003081,08 Sep 18,8,regular,Round 8,Kooyong MLC1,Carmelite 1,1,9,1,5,,,14,34,Completed,
+AA003082,08 Sep 18,8,regular,Round 8,Carmelite 3,Carmelite 2,0,10,0,6,,,5,36,Completed,
+AA003083,08 Sep 18,8,regular,Round 8,Kooyong MLC3,Kooyong MLC2,1,9,1,5,,,15,32,Completed,
+pending-aa003-r8-bye-port-melbourne,08 Sep 18,8,regular,Round 8,Bye,Port Melbourne,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA003092,15 Sep 18,9,regular,Round 9,Carmelite 2,Kooyong MLC1,1,9,1,5,,,22,36,Completed,
+AA003094,15 Sep 18,9,regular,Round 9,Port Melbourne,Kooyong MLC3,10,0,6,0,,,36,10,Completed,
+pending-aa003-r9-carmelite-1-bye,15 Sep 18,9,regular,Round 9,Carmelite 1,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-aa003-r9-kooyong-mlc2-carmelite-3,15 Sep 18,9,regular,Round 9,Kooyong MLC2,Carmelite 3,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+AA003101,13 Oct 18,10,regular,Round 10,Kooyong MLC3,Carmelite 1,0,10,0,6,,,4,36,Completed,
+AA003103,13 Oct 18,10,regular,Round 10,Kooyong MLC1,Kooyong MLC2,8,2,4,2,,,32,20,Completed,
+AA003104,13 Oct 18,10,regular,Round 10,Carmelite 3,Port Melbourne,0,10,0,6,,,8,36,Completed,
+pending-aa003-r10-bye-carmelite-2,13 Oct 18,10,regular,Round 10,Bye,Carmelite 2,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-aa003-r11-carmelite-1-carmelite-3,20 Oct 18,11,regular,Round 11,Carmelite 1,Carmelite 3,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-aa003-r11-carmelite-2-kooyong-mlc3,20 Oct 18,11,regular,Round 11,Carmelite 2,Kooyong MLC3,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-aa003-r11-kooyong-mlc2-bye,20 Oct 18,11,regular,Round 11,Kooyong MLC2,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-aa003-r11-port-melbourne-kooyong-mlc1,20 Oct 18,11,regular,Round 11,Port Melbourne,Kooyong MLC1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+AA003121,27 Oct 18,12,regular,Round 12,Port Melbourne,Kooyong MLC2,10,0,6,0,,,36,13,Completed,
+AA003123,27 Oct 18,12,regular,Round 12,Kooyong MLC1,Carmelite 3,10,0,6,0,,,36,10,Completed,
+AA003124,27 Oct 18,12,regular,Round 12,Carmelite 2,Carmelite 1,0,10,0,6,,,9,36,Completed,
+pending-aa003-r12-kooyong-mlc3-bye,27 Oct 18,12,regular,Round 12,Kooyong MLC3,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA003131,10 Nov 18,13,regular,Round 13,Kooyong MLC2,Carmelite 2,2,8,2,4,,,30,35,Completed,
+AA003132,10 Nov 18,13,regular,Round 13,Carmelite 1,Port Melbourne,9,1,5,1,,,35,23,Completed,
+AA003133,10 Nov 18,13,regular,Round 13,Carmelite 3,Kooyong MLC3,2,8,2,4,,,22,33,Completed,
+pending-aa003-r13-bye-kooyong-mlc1,10 Nov 18,13,regular,Round 13,Bye,Kooyong MLC1,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA003141,17 Nov 18,14,regular,Round 14,Kooyong MLC2,Carmelite 1,2,8,2,4,,,24,34,Completed,
+AA003142,17 Nov 18,14,regular,Round 14,Port Melbourne,Carmelite 2,8,2,4,2,,,28,20,Completed,
+AA003144,17 Nov 18,14,regular,Round 14,Kooyong MLC1,Kooyong MLC3,10,0,6,0,,,36,11,Completed,
+pending-aa003-r14-carmelite-3-bye,17 Nov 18,14,regular,Round 14,Carmelite 3,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA003301,,16,semi_final,Semi-final,Carmelite 1,Carmelite 2,10,0,6,0,,,36,7,Completed,
+AA003302,,16,semi_final,Semi-final,Kooyong MLC1,Port Melbourne,2,8,2,4,,,28,31,Completed,
+AA003321,,17,grand_final,Grand final · TROLS entry 2,Carmelite 1,Port Melbourne,9,1,5,1,,,33,14,Completed,

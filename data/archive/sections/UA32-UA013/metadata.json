@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA32-UA013",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2023",
+  "season_id": "UA32",
+  "season_label": "Autumn 2023",
+  "source_section_code": "UA013",
+  "section_label": "Section 13",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Caulfield Rec",
+      "wins": 8,
+      "points": 83,
+      "percentage": 147.57,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St James Green",
+      "wins": 6,
+      "points": 70,
+      "percentage": 128.57,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "St James Yellow",
+      "wins": 6,
+      "points": 65,
+      "percentage": 119.81,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kings Park",
+      "wins": 6,
+      "points": 65,
+      "percentage": 110.78,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC",
+      "wins": 3,
+      "points": 43,
+      "percentage": 74.35,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave",
+      "wins": 2,
+      "points": 39,
+      "percentage": 87.14,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Coatesville",
+      "wins": 0,
+      "points": 25,
+      "percentage": 58.02,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA32-UA013",
+  "fixtures": 55,
+  "completed_fixtures": 32,
+  "draw_fixtures": 59,
+  "singles_rubbers": 128,
+  "doubles_rubbers": 64,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

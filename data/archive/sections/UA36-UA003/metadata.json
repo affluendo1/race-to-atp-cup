@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA36-UA003",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2025",
+  "season_id": "UA36",
+  "season_label": "Autumn 2025",
+  "source_section_code": "UA003",
+  "section_label": "Section 3",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Le Page",
+      "wins": 9,
+      "points": 86,
+      "percentage": 112.46,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "GPHC",
+      "wins": 6,
+      "points": 79.5,
+      "percentage": 130.31,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Hurlingham Park",
+      "wins": 8,
+      "points": 78,
+      "percentage": 110.62,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Royal South Yarra",
+      "wins": 7,
+      "points": 77,
+      "percentage": 103.29,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Murrumbeena",
+      "wins": 8,
+      "points": 77,
+      "percentage": 101.47,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC Blue",
+      "wins": 5,
+      "points": 72.5,
+      "percentage": 104.46,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong",
+      "wins": 6,
+      "points": 68,
+      "percentage": 94.86,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 22,
+      "percentage": 56.59,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA36-UA003",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 45,
+  "singles_rubbers": 214,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

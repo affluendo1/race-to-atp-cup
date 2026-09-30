@@ -1,0 +1,193 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA004011,01 Feb 26,1,BLTC,Royal South Yarra,No. 1,Willem Duncan,Boston Moran,Boston Moran,4-6,4,6,0,1,Completed,true,false,false
+UA004011,01 Feb 26,1,BLTC,Royal South Yarra,No. 2,Kewen Zheng,Will Howitt,Kewen Zheng,7-6,7,6,1,0,Completed,true,false,false
+UA004011,01 Feb 26,1,BLTC,Royal South Yarra,No. 3,Samuel Jena,Nathan Lin,Nathan Lin,1-6,1,6,0,1,Completed,true,false,false
+UA004011,01 Feb 26,1,BLTC,Royal South Yarra,No. 4,Tobias Jena,Tom Park,Tobias Jena,6-3,6,3,1,0,Completed,true,false,true
+UA004012,01 Feb 26,1,Tennis World Blue,Kings Park,No. 1,Morgan Vong,Miles Hancox,Miles Hancox,3-6,3,6,0,1,Completed,true,false,false
+UA004012,01 Feb 26,1,Tennis World Blue,Kings Park,No. 2,Matthew Tong,Yoon Lee,Matthew Tong,6-1,6,1,1,0,Completed,true,true,false
+UA004012,01 Feb 26,1,Tennis World Blue,Kings Park,No. 3,Rafael Staa,U-zin Goh,U-zin Goh,4-6,4,6,0,1,Completed,true,false,false
+UA004012,01 Feb 26,1,Tennis World Blue,Kings Park,No. 4,Naaz Sodha,Daniel Qin,Naaz Sodha,6-1,6,1,1,0,Completed,true,false,false
+UA004013,01 Feb 26,1,Tennis World Green,Hurlingham Park,No. 1,Adam Onbashi,Lucas Wu,Adam Onbashi,7-5,7,5,1,0,Completed,true,false,false
+UA004013,01 Feb 26,1,Tennis World Green,Hurlingham Park,No. 2,Aditya Garg,Zachary Boatto,Aditya Garg,6-4,6,4,1,0,Completed,true,false,false
+UA004013,01 Feb 26,1,Tennis World Green,Hurlingham Park,No. 3,Lucas Yang,Timeo Massenet,Timeo Massenet,2-6,2,6,0,1,Completed,true,false,false
+UA004013,01 Feb 26,1,Tennis World Green,Hurlingham Park,No. 4,Sebastian Chow,Veitel Lin,Veitel Lin,2-6,2,6,0,1,Completed,true,false,false
+UA004014,01 Feb 26,1,Elsternwick Park,Murrumbeena,No. 1,Hugo Morgan,Aidan Tan,Aidan Tan,4-6,4,6,0,1,Completed,true,false,false
+UA004014,01 Feb 26,1,Elsternwick Park,Murrumbeena,No. 2,Austin Haines,Tomas Albani,Tomas Albani,2-6,2,6,0,1,Completed,true,false,false
+UA004014,01 Feb 26,1,Elsternwick Park,Murrumbeena,No. 3,Wynn Arumugam,Egor Barabanov,Egor Barabanov,3-6,3,6,0,1,Completed,true,false,false
+UA004014,01 Feb 26,1,Elsternwick Park,Murrumbeena,No. 4,Jesse Colberg,Pranav Arora,Pranav Arora,4-6,4,6,0,1,Completed,true,true,false
+UA004021,08 Feb 26,2,Murrumbeena,BLTC,No. 1,Kevin Liang,Willem Duncan,Kevin Liang,6-0,6,0,1,0,Completed,true,false,false
+UA004021,08 Feb 26,2,Murrumbeena,BLTC,No. 2,Min Cheng (duncan) Hung,Kewen Zheng,Min Cheng (duncan) Hung,6-0,6,0,1,0,Completed,true,false,false
+UA004021,08 Feb 26,2,Murrumbeena,BLTC,No. 3,Aidan Tan,Samuel Jena,Aidan Tan,6-0,6,0,1,0,Completed,true,false,false
+UA004021,08 Feb 26,2,Murrumbeena,BLTC,No. 4,Egor Barabanov,Luke Chapman,Egor Barabanov,6-3,6,3,1,0,Completed,true,false,false
+UA004022,08 Feb 26,2,Royal South Yarra,Tennis World Blue,No. 1,Boston Moran,Reuben Wong,Reuben Wong,2-6,2,6,0,1,Completed,true,false,false
+UA004022,08 Feb 26,2,Royal South Yarra,Tennis World Blue,No. 2,Will Howitt,Rafael Staa,Rafael Staa,0-6,0,6,0,1,Completed,true,false,false
+UA004022,08 Feb 26,2,Royal South Yarra,Tennis World Blue,No. 3,Nathan Lin,Keagan Vong,Keagan Vong,5-7,5,7,0,1,Completed,true,false,false
+UA004022,08 Feb 26,2,Royal South Yarra,Tennis World Blue,No. 4,Sebastian Parmenov,Naaz Sodha,Naaz Sodha,4-6,4,6,0,1,Completed,true,false,false
+UA004023,08 Feb 26,2,Kings Park,Tennis World Green,No. 1,Miles Hancox,Adam Onbashi,Miles Hancox,6-1,6,1,1,0,Completed,true,false,false
+UA004023,08 Feb 26,2,Kings Park,Tennis World Green,No. 2,Yoon Lee,Aditya Garg,Aditya Garg,3-6,3,6,0,1,Completed,true,false,false
+UA004023,08 Feb 26,2,Kings Park,Tennis World Green,No. 3,U-zin Goh,Lucas Yang,U-zin Goh,6-1,6,1,1,0,Completed,true,false,false
+UA004023,08 Feb 26,2,Kings Park,Tennis World Green,No. 4,Matthew Peng,Sebastian Chow,Matthew Peng,6-3,6,3,1,0,Completed,true,false,false
+UA004024,08 Feb 26,2,Hurlingham Park,Elsternwick Park,No. 1,Lucas Wu,Austin Haines,Lucas Wu,6-0,6,0,1,0,Completed,true,false,false
+UA004024,08 Feb 26,2,Hurlingham Park,Elsternwick Park,No. 2,Zachary Boatto,Wynn Arumugam,Wynn Arumugam,6-7,6,7,0,1,Completed,true,false,false
+UA004024,08 Feb 26,2,Hurlingham Park,Elsternwick Park,No. 3,Veitel Lin,Alastair Smith,Alastair Smith,3-6,3,6,0,1,Completed,true,false,false
+UA004024,08 Feb 26,2,Hurlingham Park,Elsternwick Park,No. 4,Archie Braithwaite,Matthew Rebelo,Matthew Rebelo,3-6,3,6,0,1,Completed,true,false,false
+UA004031,15 Feb 26,3,BLTC,Hurlingham Park,No. 1,Willem Duncan,Lucas Wu,Lucas Wu,1-6,1,6,0,1,Completed,true,false,false
+UA004031,15 Feb 26,3,BLTC,Hurlingham Park,No. 2,Kewen Zheng,Veitel Lin,Kewen Zheng,6-1,6,1,1,0,Completed,true,false,false
+UA004031,15 Feb 26,3,BLTC,Hurlingham Park,No. 3,Luke Chapman,Archie Braithwaite,Luke Chapman,7-5,7,5,1,0,Completed,true,false,false
+UA004031,15 Feb 26,3,BLTC,Hurlingham Park,No. 4,Tobias Jena,Tomek Foroncewicz,Tobias Jena,6-1,6,1,1,0,Completed,true,false,false
+UA004032,15 Feb 26,3,Tennis World Blue,Murrumbeena,No. 1,Reuben Wong,Min Cheng (duncan) Hung,Min Cheng (duncan) Hung,1-6,1,6,0,1,Completed,true,false,false
+UA004032,15 Feb 26,3,Tennis World Blue,Murrumbeena,No. 2,Rafael Staa,Aidan Tan,Aidan Tan,3-6,3,6,0,1,Completed,true,false,false
+UA004032,15 Feb 26,3,Tennis World Blue,Murrumbeena,No. 3,Keagan Vong,Egor Barabanov,Egor Barabanov,0-6,0,6,0,1,Completed,true,false,false
+UA004032,15 Feb 26,3,Tennis World Blue,Murrumbeena,No. 4,Naaz Sodha,Martin Yuan,Naaz Sodha,6-3,6,3,1,0,Completed,true,false,true
+UA004033,15 Feb 26,3,Tennis World Green,Royal South Yarra,No. 1,Adam Onbashi,Boston Moran,Adam Onbashi,6-0,6,0,1,0,Completed,true,false,false
+UA004033,15 Feb 26,3,Tennis World Green,Royal South Yarra,No. 2,Aditya Garg,Dash Webb,Aditya Garg,6-1,6,1,1,0,Completed,true,false,false
+UA004033,15 Feb 26,3,Tennis World Green,Royal South Yarra,No. 3,Cici Song,[Unnamed player — TROLS UA004033 away code 3],Cici Song,6-0,6,0,1,0,Completed,false,false,false
+UA004033,15 Feb 26,3,Tennis World Green,Royal South Yarra,No. 4,Sebastian Chow,Mia Ruda,Sebastian Chow,7-5,7,5,1,0,Completed,true,false,false
+UA004034,15 Feb 26,3,Elsternwick Park,Kings Park,No. 1,Wynn Arumugam,Miles Hancox,Miles Hancox,2-6,2,6,0,1,Completed,true,false,false
+UA004034,15 Feb 26,3,Elsternwick Park,Kings Park,No. 2,Alastair Smith,Yoon Lee,Alastair Smith,6-3,6,3,1,0,Completed,true,false,false
+UA004034,15 Feb 26,3,Elsternwick Park,Kings Park,No. 3,Matthew Rebelo,U-zin Goh,Matthew Rebelo,6-1,6,1,1,0,Completed,true,false,false
+UA004034,15 Feb 26,3,Elsternwick Park,Kings Park,No. 4,Nayuta Tsuchiya,Matthew Peng,Matthew Peng,4-6,4,6,0,1,Completed,true,false,false
+UA004041,22 Feb 26,4,Kings Park,BLTC,No. 1,Miles Hancox,Kewen Zheng,Miles Hancox,6-1,6,1,1,0,Completed,true,false,false
+UA004041,22 Feb 26,4,Kings Park,BLTC,No. 2,U-zin Goh,Samuel Jena,U-zin Goh,6-3,6,3,1,0,Completed,true,false,false
+UA004041,22 Feb 26,4,Kings Park,BLTC,No. 3,Declan Zeng,Luke Chapman,Declan Zeng,7-5,7,5,1,0,Completed,true,false,false
+UA004041,22 Feb 26,4,Kings Park,BLTC,No. 4,Matthew Peng,Tobias Jena,Matthew Peng,7-6,7,6,1,0,Completed,true,false,false
+UA004042,22 Feb 26,4,Hurlingham Park,Tennis World Blue,No. 1,Zachary Boatto,Reuben Wong,Zachary Boatto,6-3,6,3,1,0,Completed,true,false,false
+UA004042,22 Feb 26,4,Hurlingham Park,Tennis World Blue,No. 2,Veitel Lin,Rafael Staa,Rafael Staa,1-6,1,6,0,1,Completed,true,false,false
+UA004042,22 Feb 26,4,Hurlingham Park,Tennis World Blue,No. 3,Archie Braithwaite,Keagan Vong,Keagan Vong,3-6,3,6,0,1,Completed,true,false,false
+UA004042,22 Feb 26,4,Hurlingham Park,Tennis World Blue,No. 4,Tomek Foroncewicz,Naaz Sodha,Naaz Sodha,2-6,2,6,0,1,Completed,true,false,false
+UA004051,01 Mar 26,5,Tennis World Green,Elsternwick Park,No. 1,Aditya Garg,Hugo Morgan,Hugo Morgan,3-6,3,6,0,1,Completed,true,false,false
+UA004051,01 Mar 26,5,Tennis World Green,Elsternwick Park,No. 2,Cici Song,Austin Haines,Austin Haines,3-6,3,6,0,1,Completed,true,false,false
+UA004051,01 Mar 26,5,Tennis World Green,Elsternwick Park,No. 3,Victor Guan,Matthew Rebelo,Matthew Rebelo,1-6,1,6,0,1,Completed,true,true,false
+UA004051,01 Mar 26,5,Tennis World Green,Elsternwick Park,No. 4,Sebastian Chow,Nayuta Tsuchiya,Sebastian Chow,6-3,6,3,1,0,Completed,true,false,false
+UA004052,01 Mar 26,5,Murrumbeena,Hurlingham Park,No. 1,Kevin Liang,Lucas Wu,Kevin Liang,6-4,6,4,1,0,Completed,true,false,false
+UA004052,01 Mar 26,5,Murrumbeena,Hurlingham Park,No. 2,Min Cheng (duncan) Hung,Zachary Boatto,Zachary Boatto,6-7,6,7,0,1,Completed,true,false,false
+UA004052,01 Mar 26,5,Murrumbeena,Hurlingham Park,No. 3,Egor Barabanov,Timeo Massenet,Egor Barabanov,6-1,6,1,1,0,Completed,true,false,false
+UA004052,01 Mar 26,5,Murrumbeena,Hurlingham Park,No. 4,Pranav Arora,Renny Thurlow,Pranav Arora,6-2,6,2,1,0,Completed,true,false,false
+UA004053,01 Mar 26,5,Kings Park,Royal South Yarra,No. 1,Miles Hancox,Dash Webb,Miles Hancox,6-1,6,1,1,0,Completed,true,false,false
+UA004053,01 Mar 26,5,Kings Park,Royal South Yarra,No. 2,Leandro Teixeira,Sofia Emilson,Sofia Emilson,1-6,1,6,0,1,Completed,true,true,false
+UA004053,01 Mar 26,5,Kings Park,Royal South Yarra,No. 3,U-zin Goh,Sebastian Parmenov,U-zin Goh,7-5,7,5,1,0,Completed,true,false,false
+UA004053,01 Mar 26,5,Kings Park,Royal South Yarra,No. 4,Matthew Peng,Mia Ruda,Mia Ruda,3-6,3,6,0,1,Completed,true,false,false
+UA004054,01 Mar 26,5,BLTC,Tennis World Blue,No. 1,Willem Duncan,Reuben Wong,Willem Duncan,6-2,6,2,1,0,Completed,true,false,false
+UA004054,01 Mar 26,5,BLTC,Tennis World Blue,No. 2,Samuel Jena,Rafael Staa,Rafael Staa,4-6,4,6,0,1,Completed,true,false,false
+UA004054,01 Mar 26,5,BLTC,Tennis World Blue,No. 3,Luke Chapman,Keagan Vong,Keagan Vong,4-6,4,6,0,1,Completed,true,false,false
+UA004054,01 Mar 26,5,BLTC,Tennis World Blue,No. 4,Tobias Jena,Naaz Sodha,Naaz Sodha,0-6,0,6,0,1,Completed,true,false,false
+UA004061,15 Mar 26,6,Tennis World Blue,Tennis World Green,No. 1,Reuben Wong,Adam Onbashi,Reuben Wong,6-3,6,3,1,0,Completed,true,false,false
+UA004061,15 Mar 26,6,Tennis World Blue,Tennis World Green,No. 2,Rafael Staa,Aditya Garg,Aditya Garg,3-6,3,6,0,1,Completed,true,false,false
+UA004061,15 Mar 26,6,Tennis World Blue,Tennis World Green,No. 3,Keagan Vong,Jennifer Guo,Keagan Vong,6-2,6,2,1,0,Completed,true,false,false
+UA004061,15 Mar 26,6,Tennis World Blue,Tennis World Green,No. 4,Naaz Sodha,Lucas Yang,Naaz Sodha,6-0,6,0,1,0,Completed,true,false,false
+UA004062,15 Mar 26,6,Elsternwick Park,BLTC,No. 1,Hugo Morgan,Willem Duncan,Hugo Morgan,6-0,6,0,1,0,Completed,true,false,false
+UA004062,15 Mar 26,6,Elsternwick Park,BLTC,No. 2,Wynn Arumugam,Kewen Zheng,Wynn Arumugam,6-3,6,3,1,0,Completed,true,false,false
+UA004062,15 Mar 26,6,Elsternwick Park,BLTC,No. 3,Matthew Rebelo,Samuel Jena,Samuel Jena,4-6,4,6,0,1,Completed,true,false,false
+UA004062,15 Mar 26,6,Elsternwick Park,BLTC,No. 4,Nayuta Tsuchiya,Tobias Jena,Tobias Jena,4-6,4,6,0,1,Completed,true,false,false
+UA004063,15 Mar 26,6,Hurlingham Park,Kings Park,No. 1,Zachary Boatto,Miles Hancox,Miles Hancox,3-6,3,6,0,1,Completed,true,false,false
+UA004063,15 Mar 26,6,Hurlingham Park,Kings Park,No. 2,Timeo Massenet,Yoon Lee,Yoon Lee,4-6,4,6,0,1,Completed,true,false,false
+UA004063,15 Mar 26,6,Hurlingham Park,Kings Park,No. 3,Renny Thurlow,U-zin Goh,U-zin Goh,1-6,1,6,0,1,Completed,true,false,false
+UA004063,15 Mar 26,6,Hurlingham Park,Kings Park,No. 4,Archie Braithwaite,Matthew Peng,Matthew Peng,4-6,4,6,0,1,Completed,true,false,false
+UA004064,15 Mar 26,6,Royal South Yarra,Murrumbeena,No. 1,Dash Webb,Tomas Albani,Tomas Albani,2-6,2,6,0,1,Completed,true,false,false
+UA004064,15 Mar 26,6,Royal South Yarra,Murrumbeena,No. 2,Nathan Lin,Egor Barabanov,Nathan Lin,6-4,6,4,1,0,Completed,true,false,false
+UA004064,15 Mar 26,6,Royal South Yarra,Murrumbeena,No. 3,Sofia Emilson,Mali Neyma,Mali Neyma,2-6,2,6,0,1,Completed,true,false,true
+UA004064,15 Mar 26,6,Royal South Yarra,Murrumbeena,No. 4,Mia Ruda,Pranav Arora,Pranav Arora,0-6,0,6,0,1,Completed,true,false,false
+UA004071,22 Mar 26,7,BLTC,Tennis World Green,No. 1,Kewen Zheng,Jennifer Guo,Kewen Zheng,7-5,7,5,1,0,Completed,true,false,false
+UA004071,22 Mar 26,7,BLTC,Tennis World Green,No. 2,Samuel Jena,Cici Song,Cici Song,5-7,5,7,0,1,Completed,true,false,false
+UA004071,22 Mar 26,7,BLTC,Tennis World Green,No. 3,Luke Chapman,Lucas Yang,Luke Chapman,6-0,6,0,1,0,Completed,true,false,false
+UA004071,22 Mar 26,7,BLTC,Tennis World Green,No. 4,Tobias Jena,Sebastian Chow,Sebastian Chow,0-6,0,6,0,1,Completed,true,false,false
+UA004072,22 Mar 26,7,Tennis World Blue,Elsternwick Park,No. 1,Reuben Wong,Hugo Morgan,Hugo Morgan,5-7,5,7,0,1,Completed,true,false,false
+UA004072,22 Mar 26,7,Tennis World Blue,Elsternwick Park,No. 2,Rafael Staa,Austin Haines,Rafael Staa,6-1,6,1,1,0,Completed,true,false,false
+UA004072,22 Mar 26,7,Tennis World Blue,Elsternwick Park,No. 3,Keagan Vong,Wynn Arumugam,Keagan Vong,7-6,7,6,1,0,Completed,true,false,false
+UA004072,22 Mar 26,7,Tennis World Blue,Elsternwick Park,No. 4,Naaz Sodha,Alastair Smith,Naaz Sodha,7-6,7,6,1,0,Completed,true,false,false
+UA004073,22 Mar 26,7,Murrumbeena,Kings Park,No. 1,Kevin Liang,Miles Hancox,Kevin Liang,7-6,7,6,1,0,Completed,true,false,false
+UA004073,22 Mar 26,7,Murrumbeena,Kings Park,No. 2,Min Cheng (duncan) Hung,U-zin Goh,Min Cheng (duncan) Hung,6-3,6,3,1,0,Completed,true,false,false
+UA004073,22 Mar 26,7,Murrumbeena,Kings Park,No. 3,Pranav Arora,Daniel Qin,Pranav Arora,6-0,6,0,1,0,Completed,true,false,false
+UA004073,22 Mar 26,7,Murrumbeena,Kings Park,No. 4,Finlay Bennett,Matthew Peng,Finlay Bennett,6-4,6,4,1,0,Completed,true,true,false
+UA004074,22 Mar 26,7,Hurlingham Park,Royal South Yarra,No. 1,Lucas Wu,Boston Moran,Lucas Wu,6-1,6,1,1,0,Completed,true,false,false
+UA004074,22 Mar 26,7,Hurlingham Park,Royal South Yarra,No. 2,Zachary Boatto,Sofia Emilson,Sofia Emilson,5-7,5,7,0,1,Completed,true,false,false
+UA004074,22 Mar 26,7,Hurlingham Park,Royal South Yarra,No. 3,Renny Thurlow,Sebastian Parmenov,Sebastian Parmenov,4-6,4,6,0,1,Completed,true,false,false
+UA004074,22 Mar 26,7,Hurlingham Park,Royal South Yarra,No. 4,Tomek Foroncewicz,Mia Ruda,Mia Ruda,1-6,1,6,0,1,Completed,true,false,false
+UA004081,29 Mar 26,8,Royal South Yarra,BLTC,No. 1,Boston Moran,Willem Duncan,Boston Moran,6-4,6,4,1,0,Completed,true,false,false
+UA004081,29 Mar 26,8,Royal South Yarra,BLTC,No. 2,Dash Webb,Kewen Zheng,Kewen Zheng,4-6,4,6,0,1,Completed,true,false,false
+UA004081,29 Mar 26,8,Royal South Yarra,BLTC,No. 3,Nathan Lin,Samuel Jena,Nathan Lin,6-3,6,3,1,0,Completed,true,false,false
+UA004081,29 Mar 26,8,Royal South Yarra,BLTC,No. 4,Mia Ruda,Luke Chapman,Luke Chapman,2-6,2,6,0,1,Completed,true,false,false
+UA004082,29 Mar 26,8,Kings Park,Tennis World Blue,No. 1,Miles Hancox,Morgan Vong,Miles Hancox,6-2,6,2,1,0,Completed,true,false,false
+UA004082,29 Mar 26,8,Kings Park,Tennis World Blue,No. 2,U-zin Goh,Reuben Wong,U-zin Goh,6-3,6,3,1,0,Completed,true,false,false
+UA004082,29 Mar 26,8,Kings Park,Tennis World Blue,No. 3,Declan Zeng,Keagan Vong,Keagan Vong,3-6,3,6,0,1,Completed,true,false,false
+UA004082,29 Mar 26,8,Kings Park,Tennis World Blue,No. 4,Matthew Peng,Naaz Sodha,Naaz Sodha,2-6,2,6,0,1,Completed,true,false,false
+UA004083,29 Mar 26,8,Hurlingham Park,Tennis World Green,No. 1,Zachary Boatto,Adam Onbashi,Zachary Boatto,7-6,7,6,1,0,Completed,true,false,false
+UA004083,29 Mar 26,8,Hurlingham Park,Tennis World Green,No. 2,Timeo Massenet,Aditya Garg,Aditya Garg,2-6,2,6,0,1,Completed,true,false,false
+UA004083,29 Mar 26,8,Hurlingham Park,Tennis World Green,No. 3,Veitel Lin,Sebastian Chow,Veitel Lin,6-1,6,1,1,0,Completed,true,false,false
+UA004083,29 Mar 26,8,Hurlingham Park,Tennis World Green,No. 4,Renny Thurlow,Xavier La Roche,Renny Thurlow,7-6,7,6,1,0,Completed,true,false,true
+UA004084,29 Mar 26,8,Murrumbeena,Elsternwick Park,No. 1,Min Cheng (duncan) Hung,Austin Haines,Min Cheng (duncan) Hung,6-0,6,0,1,0,Completed,true,false,false
+UA004084,29 Mar 26,8,Murrumbeena,Elsternwick Park,No. 2,Aidan Tan,Wynn Arumugam,Aidan Tan,7-5,7,5,1,0,Completed,true,false,false
+UA004084,29 Mar 26,8,Murrumbeena,Elsternwick Park,No. 3,Pranav Arora,Alastair Smith,Pranav Arora,6-2,6,2,1,0,Completed,true,false,false
+UA004084,29 Mar 26,8,Murrumbeena,Elsternwick Park,No. 4,Congwen (leo) Shen,Matthew Rebelo,Matthew Rebelo,3-6,3,6,0,1,Completed,true,true,false
+UA004091,26 Apr 26,9,BLTC,Murrumbeena,No. 1,Willem Duncan,Kevin Liang,Kevin Liang,0-6,0,6,0,1,Completed,true,false,false
+UA004091,26 Apr 26,9,BLTC,Murrumbeena,No. 2,Samuel Jena,Aidan Tan,Samuel Jena,6-2,6,2,1,0,Completed,true,false,false
+UA004091,26 Apr 26,9,BLTC,Murrumbeena,No. 3,Luke Chapman,Tomas Albani,Tomas Albani,1-6,1,6,0,1,Completed,true,false,false
+UA004091,26 Apr 26,9,BLTC,Murrumbeena,No. 4,Tobias Jena,Egor Barabanov,Egor Barabanov,0-6,0,6,0,1,Completed,true,false,false
+UA004092,26 Apr 26,9,Tennis World Blue,Royal South Yarra,No. 1,Morgan Vong,Boston Moran,Morgan Vong,6-0,6,0,1,0,Completed,true,false,false
+UA004092,26 Apr 26,9,Tennis World Blue,Royal South Yarra,No. 2,Reuben Wong,Dash Webb,Reuben Wong,6-2,6,2,1,0,Completed,true,false,false
+UA004092,26 Apr 26,9,Tennis World Blue,Royal South Yarra,No. 3,Rafael Staa,Sebastian Parmenov,Rafael Staa,6-2,6,2,1,0,Completed,true,false,false
+UA004092,26 Apr 26,9,Tennis World Blue,Royal South Yarra,No. 4,Keagan Vong,Mia Ruda,Keagan Vong,6-2,6,2,1,0,Completed,true,false,false
+UA004093,26 Apr 26,9,Tennis World Green,Kings Park,No. 1,Adam Onbashi,Mason Hancox,Mason Hancox,1-6,1,6,0,1,Completed,true,false,true
+UA004093,26 Apr 26,9,Tennis World Green,Kings Park,No. 2,Jennifer Guo,Daniel Qin,Jennifer Guo,6-1,6,1,1,0,Completed,true,false,false
+UA004093,26 Apr 26,9,Tennis World Green,Kings Park,No. 3,Lucas Yang,Declan Zeng,Declan Zeng,2-6,2,6,0,1,Completed,true,false,false
+UA004093,26 Apr 26,9,Tennis World Green,Kings Park,No. 4,Sebastian Chow,Matthew Peng,Sebastian Chow,6-3,6,3,1,0,Completed,true,false,false
+UA004094,26 Apr 26,9,Elsternwick Park,Hurlingham Park,No. 1,Wynn Arumugam,Timeo Massenet,Timeo Massenet,3-6,3,6,0,1,Completed,true,false,false
+UA004094,26 Apr 26,9,Elsternwick Park,Hurlingham Park,No. 2,Alastair Smith,Renny Thurlow,Alastair Smith,6-1,6,1,1,0,Completed,true,false,false
+UA004094,26 Apr 26,9,Elsternwick Park,Hurlingham Park,No. 3,Matthew Rebelo,Archie Braithwaite,Archie Braithwaite,3-6,3,6,0,1,Completed,true,false,false
+UA004094,26 Apr 26,9,Elsternwick Park,Hurlingham Park,No. 4,Nayuta Tsuchiya,Tomek Foroncewicz,Nayuta Tsuchiya,7-6,7,6,1,0,Completed,true,false,false
+UA004111,10 May 26,11,BLTC,Kings Park,No. 1,Haoxi Wang,Miles Hancox,Miles Hancox,2-6,2,6,0,1,Completed,true,true,false
+UA004111,10 May 26,11,BLTC,Kings Park,No. 2,Samuel Jena,U-zin Goh,Samuel Jena,7-6,7,6,1,0,Completed,true,false,false
+UA004111,10 May 26,11,BLTC,Kings Park,No. 3,Luke Chapman,Daniel Qin,Luke Chapman,6-3,6,3,1,0,Completed,true,false,false
+UA004111,10 May 26,11,BLTC,Kings Park,No. 4,Tobias Jena,Declan Zeng,Declan Zeng,3-6,3,6,0,1,Completed,true,false,true
+UA004112,10 May 26,11,Tennis World Blue,Hurlingham Park,No. 1,Reuben Wong,Timeo Massenet,Reuben Wong,6-3,6,3,1,0,Completed,true,false,false
+UA004112,10 May 26,11,Tennis World Blue,Hurlingham Park,No. 2,Rafael Staa,Veitel Lin,Rafael Staa,6-0,6,0,1,0,Completed,true,false,false
+UA004112,10 May 26,11,Tennis World Blue,Hurlingham Park,No. 3,Keagan Vong,Archie Braithwaite,Keagan Vong,6-3,6,3,1,0,Completed,true,false,false
+UA004112,10 May 26,11,Tennis World Blue,Hurlingham Park,No. 4,Naaz Sodha,Tomek Foroncewicz,Naaz Sodha,6-1,6,1,1,0,Completed,true,false,false
+UA004113,10 May 26,11,Tennis World Green,Murrumbeena,No. 1,Aditya Garg,Egor Barabanov,Egor Barabanov,5-7,5,7,0,1,Completed,true,false,false
+UA004113,10 May 26,11,Tennis World Green,Murrumbeena,No. 2,Jennifer Guo,Pranav Arora,Pranav Arora,5-7,5,7,0,1,Completed,true,false,false
+UA004113,10 May 26,11,Tennis World Green,Murrumbeena,No. 3,Cici Song,Zhun Chen Teoh,Cici Song,6-3,6,3,1,0,Completed,true,false,true
+UA004113,10 May 26,11,Tennis World Green,Murrumbeena,No. 4,Frankie Morlino,Ignatius Badenoch,Frankie Morlino,6-3,6,3,1,0,Completed,true,true,true
+UA004114,10 May 26,11,Elsternwick Park,Royal South Yarra,No. 1,Hugo Morgan,Will Howitt,Hugo Morgan,6-1,6,1,1,0,Completed,true,false,false
+UA004114,10 May 26,11,Elsternwick Park,Royal South Yarra,No. 2,Austin Haines,Sebastian Parmenov,Sebastian Parmenov,2-6,2,6,0,1,Completed,true,false,false
+UA004114,10 May 26,11,Elsternwick Park,Royal South Yarra,No. 3,Matthew Rebelo,Sofia Emilson,Sofia Emilson,2-6,2,6,0,1,Completed,true,false,false
+UA004114,10 May 26,11,Elsternwick Park,Royal South Yarra,No. 4,Nayuta Tsuchiya,Tom Park,Tom Park,1-6,1,6,0,1,Completed,true,false,true
+UA004131,24 May 26,13,Tennis World Green,Tennis World Blue,No. 1,Aditya Garg,Reuben Wong,Aditya Garg,6-3,6,3,1,0,Completed,true,false,false
+UA004131,24 May 26,13,Tennis World Green,Tennis World Blue,No. 2,Cici Song,Rafael Staa,Rafael Staa,0-6,0,6,0,1,Completed,true,false,false
+UA004131,24 May 26,13,Tennis World Green,Tennis World Blue,No. 3,Frankie Morlino,Keagan Vong,Keagan Vong,0-6,0,6,0,1,Completed,true,true,false
+UA004131,24 May 26,13,Tennis World Green,Tennis World Blue,No. 4,Sebastian Chow,Naaz Sodha,Naaz Sodha,0-6,0,6,0,1,Completed,true,false,false
+UA004132,24 May 26,13,BLTC,Elsternwick Park,No. 1,Willem Duncan,Hugo Morgan,Hugo Morgan,1-6,1,6,0,1,Completed,true,false,false
+UA004132,24 May 26,13,BLTC,Elsternwick Park,No. 2,Kewen Zheng,Austin Haines,Austin Haines,6-7,6,7,0,1,Completed,true,false,false
+UA004132,24 May 26,13,BLTC,Elsternwick Park,No. 3,Christopher Coralluzzo,Wynn Arumugam,Christopher Coralluzzo,6-1,6,1,1,0,Completed,true,true,false
+UA004132,24 May 26,13,BLTC,Elsternwick Park,No. 4,Luke Chapman,Alastair Smith,Alastair Smith,2-6,2,6,0,1,Completed,true,false,false
+UA004134,24 May 26,13,Murrumbeena,Royal South Yarra,No. 1,Min Cheng (duncan) Hung,Will Howitt,Min Cheng (duncan) Hung,6-1,6,1,1,0,Completed,true,false,false
+UA004134,24 May 26,13,Murrumbeena,Royal South Yarra,No. 2,Egor Barabanov,Nathan Lin,Egor Barabanov,6-3,6,3,1,0,Completed,true,false,false
+UA004134,24 May 26,13,Murrumbeena,Royal South Yarra,No. 3,Pranav Arora,Sofia Emilson,Pranav Arora,7-6,7,6,1,0,Completed,true,false,false
+UA004134,24 May 26,13,Murrumbeena,Royal South Yarra,No. 4,Martin Yuan,Sebastian Parmenov,Martin Yuan,6-4,6,4,1,0,Completed,true,true,false
+UA004141,31 May 26,14,Tennis World Green,BLTC,No. 1,Adam Onbashi,Willem Duncan,Adam Onbashi,6-1,6,1,1,0,Completed,true,false,false
+UA004141,31 May 26,14,Tennis World Green,BLTC,No. 2,Cici Song,Kewen Zheng,Cici Song,7-5,7,5,1,0,Completed,true,false,false
+UA004141,31 May 26,14,Tennis World Green,BLTC,No. 3,Lucas Yang,Samuel Jena,Samuel Jena,6-7,6,7,0,1,Completed,true,false,false
+UA004141,31 May 26,14,Tennis World Green,BLTC,No. 4,Sebastian Chow,Tobias Jena,Sebastian Chow,6-1,6,1,1,0,Completed,true,false,false
+UA004142,31 May 26,14,Elsternwick Park,Tennis World Blue,No. 1,Austin Haines,Reuben Wong,Reuben Wong,3-6,3,6,0,1,Completed,true,false,false
+UA004142,31 May 26,14,Elsternwick Park,Tennis World Blue,No. 2,Wynn Arumugam,Rafael Staa,Wynn Arumugam,6-3,6,3,1,0,Completed,true,false,false
+UA004142,31 May 26,14,Elsternwick Park,Tennis World Blue,No. 3,Alastair Smith,Keagan Vong,Keagan Vong,4-6,4,6,0,1,Completed,true,false,false
+UA004142,31 May 26,14,Elsternwick Park,Tennis World Blue,No. 4,Matthew Rebelo,Naaz Sodha,Naaz Sodha,4-6,4,6,0,1,Completed,true,false,false
+UA004143,31 May 26,14,Kings Park,Murrumbeena,No. 1,Miles Hancox,Egor Barabanov,Egor Barabanov,6-7,6,7,0,1,Completed,true,false,false
+UA004143,31 May 26,14,Kings Park,Murrumbeena,No. 2,U-zin Goh,Pranav Arora,Pranav Arora,1-6,1,6,0,1,Completed,true,false,false
+UA004143,31 May 26,14,Kings Park,Murrumbeena,No. 3,Declan Zeng,Phelix Ma,Declan Zeng,7-6,7,6,1,0,Completed,true,false,true
+UA004143,31 May 26,14,Kings Park,Murrumbeena,No. 4,Matthew Peng,Finlay Bennett,Finlay Bennett,5-7,5,7,0,1,Completed,true,false,true
+UA004144,31 May 26,14,Royal South Yarra,Hurlingham Park,No. 1,Dash Webb,Zachary Boatto,Zachary Boatto,3-6,3,6,0,1,Completed,true,false,false
+UA004144,31 May 26,14,Royal South Yarra,Hurlingham Park,No. 2,Sofia Emilson,Timeo Massenet,Timeo Massenet,3-6,3,6,0,1,Completed,true,false,false
+UA004144,31 May 26,14,Royal South Yarra,Hurlingham Park,No. 3,Sebastian Parmenov,Archie Braithwaite,Sebastian Parmenov,6-2,6,2,1,0,Completed,true,false,false
+UA004144,31 May 26,14,Royal South Yarra,Hurlingham Park,No. 4,Mia Ruda,Harrison Cooper,Mia Ruda,6-1,6,1,1,0,Completed,true,false,true
+UA004301,,16,Tennis World Blue,Elsternwick Park,No. 1,Reuben Wong,Hugo Morgan,Reuben Wong,6-2,6,2,1,0,Completed,true,false,false
+UA004301,,16,Tennis World Blue,Elsternwick Park,No. 2,Rafael Staa,Wynn Arumugam,Rafael Staa,6-4,6,4,1,0,Completed,true,false,false
+UA004301,,16,Tennis World Blue,Elsternwick Park,No. 3,Keagan Vong,Alastair Smith,Keagan Vong,6-1,6,1,1,0,Completed,true,false,false
+UA004301,,16,Tennis World Blue,Elsternwick Park,No. 4,Naaz Sodha,Matthew Rebelo,Naaz Sodha,6-2,6,2,1,0,Completed,true,false,false
+UA004302,,16,Murrumbeena,Kings Park,No. 1,Kevin Liang,Miles Hancox,Kevin Liang,6-1,6,1,1,0,Completed,true,false,false
+UA004302,,16,Murrumbeena,Kings Park,No. 2,Tomas Albani,U-zin Goh,Tomas Albani,6-1,6,1,1,0,Completed,true,false,false
+UA004302,,16,Murrumbeena,Kings Park,No. 3,Egor Barabanov,Declan Zeng,Declan Zeng,2-6,2,6,0,1,Completed,true,false,false
+UA004302,,16,Murrumbeena,Kings Park,No. 4,Pranav Arora,Matthew Peng,Pranav Arora,6-0,6,0,1,0,Completed,true,false,false
+UA004321,,17,Tennis World Blue,Murrumbeena,No. 1,Reuben Wong,Kevin Liang,Kevin Liang,0-6,0,6,0,1,Completed,true,false,false
+UA004321,,17,Tennis World Blue,Murrumbeena,No. 2,Rafael Staa,Min Cheng (duncan) Hung,Rafael Staa,7-5,7,5,1,0,Completed,true,false,false
+UA004321,,17,Tennis World Blue,Murrumbeena,No. 3,Keagan Vong,Tomas Albani,Tomas Albani,5-7,5,7,0,1,Completed,true,false,false
+UA004321,,17,Tennis World Blue,Murrumbeena,No. 4,Naaz Sodha,Egor Barabanov,Egor Barabanov,3-6,3,6,0,1,Completed,true,false,false

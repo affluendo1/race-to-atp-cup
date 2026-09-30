@@ -1,0 +1,97 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA009011,18 Jul 26,1,Beaumaris CC,Mentone,No. 1,Tom Grove,Michael Gu,Tom Grove,6-2,6,2,1,0,Completed,true,false,false
+AA009011,18 Jul 26,1,Beaumaris CC,Mentone,No. 2,Aleksandar Ostojic,Reyansh Mittal,Aleksandar Ostojic,6-1,6,1,1,0,Completed,true,false,false
+AA009011,18 Jul 26,1,Beaumaris CC,Mentone,No. 3,Ethan Nugent,Nelson Harris,Ethan Nugent,6-0,6,0,1,0,Completed,true,false,false
+AA009011,18 Jul 26,1,Beaumaris CC,Mentone,No. 4,Angus Hodsman,Andrew Kara,Angus Hodsman,6-3,6,3,1,0,Completed,true,false,false
+AA009012,18 Jul 26,1,Maccabi,Carmelite,No. 1,Josh Woolf,Alex Chamber-smith,Josh Woolf,6-1,6,1,1,0,Completed,true,false,false
+AA009012,18 Jul 26,1,Maccabi,Carmelite,No. 2,Shahar Ben-Meir,[Unnamed emergency — TROLS AA009012 away code 2],Shahar Ben-Meir,6-2,6,2,1,0,Completed,false,false,true
+AA009012,18 Jul 26,1,Maccabi,Carmelite,No. 3,Cooper Burcul,[Unnamed emergency — TROLS AA009012 away code 3],Cooper Burcul,6-0,6,0,1,0,Completed,false,false,true
+AA009012,18 Jul 26,1,Maccabi,Carmelite,No. 4,Anton Betinsky,[Unnamed emergency — TROLS AA009012 away code 4],Anton Betinsky,6-1,6,1,1,0,Completed,false,false,true
+AA009014,18 Jul 26,1,Kooyong,Chelsea Heights,No. 1,Yisen Xu,Luke McCarthy,Luke McCarthy,5-7,5,7,0,1,Completed,true,false,false
+AA009014,18 Jul 26,1,Kooyong,Chelsea Heights,No. 2,Alexander Tamblyn,Tommy Simonotti,Tommy Simonotti,2-6,2,6,0,1,Completed,true,false,false
+AA009014,18 Jul 26,1,Kooyong,Chelsea Heights,No. 3,Atticus Baldock,Jett Wallace,Jett Wallace,1-6,1,6,0,1,Completed,true,false,false
+AA009014,18 Jul 26,1,Kooyong,Chelsea Heights,No. 4,Lachlan Anderson,Miller Teml,Lachlan Anderson,6-3,6,3,1,0,Completed,true,true,false
+AA009021,25 Jul 26,2,Chelsea Heights,Beaumaris CC,No. 1,Luke McCarthy,Tom Grove,Tom Grove,2-6,2,6,0,1,Completed,true,false,false
+AA009021,25 Jul 26,2,Chelsea Heights,Beaumaris CC,No. 2,Tommy Simonotti,Aleksandar Ostojic,Aleksandar Ostojic,1-6,1,6,0,1,Completed,true,false,false
+AA009021,25 Jul 26,2,Chelsea Heights,Beaumaris CC,No. 3,Jett Wallace,Oscar Schmid,Oscar Schmid,1-6,1,6,0,1,Completed,true,false,false
+AA009021,25 Jul 26,2,Chelsea Heights,Beaumaris CC,No. 4,Miller Teml,Angus Hodsman,Angus Hodsman,1-6,1,6,0,1,Completed,true,false,false
+AA009022,25 Jul 26,2,Mentone,Maccabi,No. 1,Michael Gu,Josh Woolf,Michael Gu,7-5,7,5,1,0,Completed,true,false,false
+AA009022,25 Jul 26,2,Mentone,Maccabi,No. 2,Reyansh Mittal,Shahar Ben-Meir,Shahar Ben-Meir,1-6,1,6,0,1,Completed,true,false,false
+AA009022,25 Jul 26,2,Mentone,Maccabi,No. 3,Nelson Harris,Cooper Burcul,Cooper Burcul,0-6,0,6,0,1,Completed,true,false,false
+AA009022,25 Jul 26,2,Mentone,Maccabi,No. 4,Andrew Kara,Zev Harris,Zev Harris,4-6,4,6,0,1,Completed,true,false,false
+AA009023,25 Jul 26,2,Carmelite,Ormond,No. 1,Alex Chamber-smith,Kathlyn Lam,Kathlyn Lam,0-6,0,6,0,1,Completed,true,false,true
+AA009023,25 Jul 26,2,Carmelite,Ormond,No. 2,Byron Xu,Harshith Gopalakrishan,Byron Xu,6-4,6,4,1,0,Completed,true,false,false
+AA009023,25 Jul 26,2,Carmelite,Ormond,No. 3,Henry Gleason,Adam Nuri,Adam Nuri,2-6,2,6,0,1,Completed,true,false,false
+AA009023,25 Jul 26,2,Carmelite,Ormond,No. 4,Lucas Chew,Lev Yakovis,Lev Yakovis,1-6,1,6,0,1,Completed,true,true,false
+AA009032,01 Aug 26,3,Maccabi,Chelsea Heights,No. 1,Shahar Ben-Meir,Luke McCarthy,Luke McCarthy,2-6,2,6,0,1,Completed,true,false,false
+AA009032,01 Aug 26,3,Maccabi,Chelsea Heights,No. 2,Cooper Burcul,Tommy Simonotti,Cooper Burcul,6-1,6,1,1,0,Completed,true,false,false
+AA009032,01 Aug 26,3,Maccabi,Chelsea Heights,No. 3,Zev Harris,Jett Wallace,Jett Wallace,3-6,3,6,0,1,Completed,true,false,false
+AA009032,01 Aug 26,3,Maccabi,Chelsea Heights,No. 4,Anton Betinsky,Miller Teml,Anton Betinsky,6-1,6,1,1,0,Completed,true,false,false
+AA009033,01 Aug 26,3,Ormond,Mentone,No. 1,Alex Khakam,Michael Gu,Alex Khakam,7-5,7,5,1,0,Completed,true,false,false
+AA009033,01 Aug 26,3,Ormond,Mentone,No. 2,Adam Nuri,Reyansh Mittal,Adam Nuri,7-5,7,5,1,0,Completed,true,false,false
+AA009033,01 Aug 26,3,Ormond,Mentone,No. 3,Lev Yakovis,Christian Kara,Lev Yakovis,6-2,6,2,1,0,Completed,true,false,false
+AA009033,01 Aug 26,3,Ormond,Mentone,No. 4,Arin Kabbur,Andrew Kara,Arin Kabbur,6-3,6,3,1,0,Completed,true,false,false
+AA009034,01 Aug 26,3,Kooyong,Carmelite,No. 1,Valentina Mustica,Byron Xu,Valentina Mustica,6-0,6,0,1,0,Completed,true,false,false
+AA009034,01 Aug 26,3,Kooyong,Carmelite,No. 2,Yisen Xu,Sebastian Heaton,Yisen Xu,6-2,6,2,1,0,Completed,true,false,false
+AA009034,01 Aug 26,3,Kooyong,Carmelite,No. 3,Atticus Baldock,Lucas Chew,Atticus Baldock,6-0,6,0,1,0,Completed,true,false,true
+AA009034,01 Aug 26,3,Kooyong,Carmelite,No. 4,Alexander Smorgon,Thomas Digiovine,Thomas Digiovine,2-6,2,6,0,1,Completed,true,false,false
+AA009041,08 Aug 26,4,Carmelite,Beaumaris CC,No. 1,Alex Chamber-smith,Tom Grove,Tom Grove,1-6,1,6,0,1,Completed,true,false,false
+AA009041,08 Aug 26,4,Carmelite,Beaumaris CC,No. 2,Henry Gleason,Aleksandar Ostojic,Aleksandar Ostojic,1-6,1,6,0,1,Completed,true,false,false
+AA009041,08 Aug 26,4,Carmelite,Beaumaris CC,No. 3,Sebastian Heaton,Oscar Schmid,Oscar Schmid,1-6,1,6,0,1,Completed,true,false,false
+AA009041,08 Aug 26,4,Carmelite,Beaumaris CC,No. 4,Lucas Chew,Ethan Nugent,Ethan Nugent,0-6,0,6,0,1,Completed,true,true,false
+AA009043,08 Aug 26,4,Chelsea Heights,Ormond,No. 1,Jack Hedley,Alex Khakam,Jack Hedley,6-2,6,2,1,0,Completed,true,true,false
+AA009043,08 Aug 26,4,Chelsea Heights,Ormond,No. 2,Luke McCarthy,Harshith Gopalakrishan,Luke McCarthy,6-0,6,0,1,0,Completed,true,false,false
+AA009043,08 Aug 26,4,Chelsea Heights,Ormond,No. 3,Tommy Simonotti,Lev Yakovis,Tommy Simonotti,6-4,6,4,1,0,Completed,true,false,false
+AA009043,08 Aug 26,4,Chelsea Heights,Ormond,No. 4,Jett Wallace,Arin Kabbur,Jett Wallace,7-5,7,5,1,0,Completed,true,false,false
+AA009044,08 Aug 26,4,Mentone,Kooyong,No. 1,Michael Gu,Valentina Mustica,Valentina Mustica,3-6,3,6,0,1,Completed,true,false,false
+AA009044,08 Aug 26,4,Mentone,Kooyong,No. 2,Reyansh Mittal,Alexander Tamblyn,Alexander Tamblyn,3-6,3,6,0,1,Completed,true,false,false
+AA009044,08 Aug 26,4,Mentone,Kooyong,No. 3,Nelson Harris,Atticus Baldock,Atticus Baldock,0-6,0,6,0,1,Completed,true,false,false
+AA009044,08 Aug 26,4,Mentone,Kooyong,No. 4,Andrew Kara,Alexander Smorgon,Andrew Kara,6-1,6,1,1,0,Completed,true,false,false
+AA009051,15 Aug 26,5,Ormond,Kooyong,No. 1,Alex Khakam,Yisen Xu,Yisen Xu,1-6,1,6,0,1,Completed,true,false,false
+AA009051,15 Aug 26,5,Ormond,Kooyong,No. 2,Harshith Gopalakrishan,Alexander Tamblyn,Alexander Tamblyn,3-6,3,6,0,1,Completed,true,false,false
+AA009051,15 Aug 26,5,Ormond,Kooyong,No. 3,Adam Nuri,Atticus Baldock,Adam Nuri,6-2,6,2,1,0,Completed,true,false,false
+AA009051,15 Aug 26,5,Ormond,Kooyong,No. 4,Lev Yakovis,Alexander Smorgon,Lev Yakovis,6-1,6,1,1,0,Completed,true,false,false
+AA009053,15 Aug 26,5,Carmelite,Mentone,No. 1,Byron Xu,Michael Gu,Byron Xu,7-5,7,5,1,0,Completed,true,false,false
+AA009053,15 Aug 26,5,Carmelite,Mentone,No. 2,Henry Gleason,Jacob Falkman,Jacob Falkman,1-6,1,6,0,1,Completed,true,false,true
+AA009053,15 Aug 26,5,Carmelite,Mentone,No. 3,Sebastian Heaton,Nelson Harris,Sebastian Heaton,6-3,6,3,1,0,Completed,true,false,false
+AA009053,15 Aug 26,5,Carmelite,Mentone,No. 4,Oliver Heaton,Nathan Falkman,Oliver Heaton,6-0,6,0,1,0,Completed,true,true,true
+AA009054,15 Aug 26,5,Beaumaris CC,Maccabi,No. 1,Tom Grove,Shahar Ben-Meir,Tom Grove,6-4,6,4,1,0,Completed,true,false,false
+AA009054,15 Aug 26,5,Beaumaris CC,Maccabi,No. 2,Oscar Schmid,Cooper Burcul,Oscar Schmid,6-4,6,4,1,0,Completed,true,false,false
+AA009054,15 Aug 26,5,Beaumaris CC,Maccabi,No. 3,Ethan Nugent,Anton Betinsky,Ethan Nugent,6-4,6,4,1,0,Completed,true,false,false
+AA009054,15 Aug 26,5,Beaumaris CC,Maccabi,No. 4,Angus Hodsman,Zev Harris,Zev Harris,0-6,0,6,0,1,Completed,true,false,false
+AA009061,22 Aug 26,6,Maccabi,Ormond,No. 1,Josh Woolf,Harshith Gopalakrishan,Josh Woolf,2-1,2,1,1,0,Completed,false,false,false
+AA009061,22 Aug 26,6,Maccabi,Ormond,No. 2,Cooper Burcul,Adam Nuri,Cooper Burcul,6-3,6,3,1,0,Completed,true,false,false
+AA009061,22 Aug 26,6,Maccabi,Ormond,No. 3,Anton Betinsky,Lev Yakovis,Anton Betinsky,6-4,6,4,1,0,Completed,true,false,false
+AA009061,22 Aug 26,6,Maccabi,Ormond,No. 4,Zev Harris,Arin Kabbur,Zev Harris,3-0,3,0,1,0,Completed,false,false,false
+AA009062,22 Aug 26,6,Kooyong,Beaumaris CC,No. 1,Valentina Mustica,Tom Grove,Tom Grove,5-7,5,7,0,1,Completed,true,false,false
+AA009062,22 Aug 26,6,Kooyong,Beaumaris CC,No. 2,Yisen Xu,Aleksandar Ostojic,Yisen Xu,6-0,6,0,1,0,Completed,true,false,false
+AA009062,22 Aug 26,6,Kooyong,Beaumaris CC,No. 3,Alexander Tamblyn,Ethan Nugent,Ethan Nugent,3-6,3,6,0,1,Completed,true,false,false
+AA009062,22 Aug 26,6,Kooyong,Beaumaris CC,No. 4,Alexander Smorgon,Angus Hodsman,Angus Hodsman,0-6,0,6,0,1,Completed,true,false,false
+AA009064,22 Aug 26,6,Mentone,Chelsea Heights,No. 1,Michael Gu,Jack Hedley,Jack Hedley,3-6,3,6,0,1,Completed,true,false,true
+AA009064,22 Aug 26,6,Mentone,Chelsea Heights,No. 2,Reyansh Mittal,Luke McCarthy,Luke McCarthy,0-6,0,6,0,1,Completed,true,false,false
+AA009064,22 Aug 26,6,Mentone,Chelsea Heights,No. 3,Nelson Harris,Tommy Simonotti,Tommy Simonotti,4-6,4,6,0,1,Completed,true,false,false
+AA009064,22 Aug 26,6,Mentone,Chelsea Heights,No. 4,Andrew Kara,Miller Teml,Andrew Kara,6-2,6,2,1,0,Completed,true,false,false
+AA009071,29 Aug 26,7,Beaumaris CC,Ormond,No. 1,Tom Grove,Alex Khakam,Tom Grove,6-0,6,0,1,0,Completed,true,false,false
+AA009071,29 Aug 26,7,Beaumaris CC,Ormond,No. 2,Aleksandar Ostojic,Harshith Gopalakrishan,Aleksandar Ostojic,6-1,6,1,1,0,Completed,true,false,false
+AA009071,29 Aug 26,7,Beaumaris CC,Ormond,No. 3,Ethan Nugent,Adam Nuri,Ethan Nugent,6-1,6,1,1,0,Completed,true,false,false
+AA009071,29 Aug 26,7,Beaumaris CC,Ormond,No. 4,Angus Hodsman,Lev Yakovis,Angus Hodsman,6-2,6,2,1,0,Completed,true,false,false
+AA009072,29 Aug 26,7,Maccabi,Kooyong,No. 1,Josh Woolf,Valentina Mustica,Valentina Mustica,4-6,4,6,0,1,Completed,true,false,false
+AA009072,29 Aug 26,7,Maccabi,Kooyong,No. 2,Shahar Ben-Meir,Yisen Xu,Yisen Xu,1-6,1,6,0,1,Completed,true,false,false
+AA009072,29 Aug 26,7,Maccabi,Kooyong,No. 3,Cooper Burcul,Alexander Tamblyn,Cooper Burcul,6-1,6,1,1,0,Completed,true,false,false
+AA009072,29 Aug 26,7,Maccabi,Kooyong,No. 4,Anton Betinsky,Atticus Baldock,Anton Betinsky,7-6,7,6,1,0,Completed,true,false,false
+AA009073,29 Aug 26,7,Chelsea Heights,Carmelite,No. 1,Jack Hedley,Henry Gleason,Jack Hedley,6-3,6,3,1,0,Completed,true,true,false
+AA009073,29 Aug 26,7,Chelsea Heights,Carmelite,No. 2,Luke McCarthy,Byron Xu,Luke McCarthy,6-0,6,0,1,0,Completed,true,false,false
+AA009073,29 Aug 26,7,Chelsea Heights,Carmelite,No. 3,Jett Wallace,Alex Chamber-smith,Jett Wallace,6-3,6,3,1,0,Completed,true,false,false
+AA009073,29 Aug 26,7,Chelsea Heights,Carmelite,No. 4,Miller Teml,Sebastian Heaton,Miller Teml,6-0,6,0,1,0,Completed,true,false,false
+AA009081,05 Sep 26,8,Mentone,Beaumaris CC,No. 1,Michael Gu,Tom Grove,Tom Grove,2-6,2,6,0,1,Completed,true,false,false
+AA009081,05 Sep 26,8,Mentone,Beaumaris CC,No. 2,Reyansh Mittal,Aleksandar Ostojic,Aleksandar Ostojic,2-6,2,6,0,1,Completed,true,false,false
+AA009081,05 Sep 26,8,Mentone,Beaumaris CC,No. 3,Nelson Harris,Oscar Schmid,Oscar Schmid,0-6,0,6,0,1,Completed,true,false,false
+AA009081,05 Sep 26,8,Mentone,Beaumaris CC,No. 4,Andrew Kara,Ethan Nugent,Ethan Nugent,4-6,4,6,0,1,Completed,true,false,false
+AA009091,12 Sep 26,9,Beaumaris CC,Chelsea Heights,No. 1,Tom Grove,Luke McCarthy,Tom Grove,6-4,6,4,1,0,Completed,true,false,false
+AA009091,12 Sep 26,9,Beaumaris CC,Chelsea Heights,No. 2,Aleksandar Ostojic,Tommy Simonotti,Aleksandar Ostojic,6-1,6,1,1,0,Completed,true,false,false
+AA009091,12 Sep 26,9,Beaumaris CC,Chelsea Heights,No. 3,Liam Sweeney,Jett Wallace,Liam Sweeney,6-0,6,0,1,0,Completed,true,true,false
+AA009091,12 Sep 26,9,Beaumaris CC,Chelsea Heights,No. 4,Ethan Nugent,Miller Teml,Ethan Nugent,6-1,6,1,1,0,Completed,true,false,false
+AA009093,12 Sep 26,9,Ormond,Carmelite,No. 1,Harshith Gopalakrishan,Byron Xu,Byron Xu,4-6,4,6,0,1,Completed,true,false,false
+AA009093,12 Sep 26,9,Ormond,Carmelite,No. 2,Lev Yakovis,Sebastian Heaton,Lev Yakovis,6-4,6,4,1,0,Completed,true,false,false
+AA009093,12 Sep 26,9,Ormond,Carmelite,No. 3,Adam Nuri,Henry Gleason,Adam Nuri,6-1,6,1,1,0,Completed,true,false,false
+AA009093,12 Sep 26,9,Ormond,Carmelite,No. 4,Harvey Lam,Thomas Digiovine,Harvey Lam,6-0,6,0,1,0,Completed,true,true,false

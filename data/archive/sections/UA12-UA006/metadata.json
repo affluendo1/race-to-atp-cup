@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA12-UA006",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2013",
+  "season_id": "UA12",
+  "season_label": "Autumn 2013",
+  "source_section_code": "UA006",
+  "section_label": "Section 6",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong St Kevin's",
+      "wins": 10,
+      "points": 96,
+      "percentage": 128.34,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Tennis World",
+      "wins": 8,
+      "points": 91,
+      "percentage": 133.46,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Beaumaris CC",
+      "wins": 7,
+      "points": 73,
+      "percentage": 105.63,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Hampton",
+      "wins": 6,
+      "points": 70,
+      "percentage": 98.84,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "GPHC",
+      "wins": 5,
+      "points": 67,
+      "percentage": 93.79,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St Joan of Arc",
+      "wins": 6,
+      "points": 67,
+      "percentage": 89.92,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park 2",
+      "wins": 4,
+      "points": 60,
+      "percentage": 85.85,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park 1",
+      "wins": 0,
+      "points": 36,
+      "percentage": 74.93,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA12-UA006",
+  "fixtures": 59,
+  "completed_fixtures": 50,
+  "draw_fixtures": 59,
+  "singles_rubbers": 200,
+  "doubles_rubbers": 100,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

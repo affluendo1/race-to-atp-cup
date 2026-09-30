@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA020011,31 Jan 21,1,regular,Round 1,Murrumbeena LA,Dendy Park,3,7,3,3,,,24,25,Completed,
+UA020012,31 Jan 21,1,regular,Round 1,Kings Park 1,Kings Park 2,8,2,4,2,,,36,22,Completed,
+UA020013,31 Jan 21,1,regular,Round 1,Le Page,Tennis World,1,9,1,5,,,16,32,Completed,
+UA020014,31 Jan 21,1,regular,Round 1,Coatesville,Victory Park,9,1,5,1,,,37,25,Completed,
+UA020021,07 Feb 21,2,regular,Round 2,Victory Park,Murrumbeena LA,2,8,2,4,,,25,28,Completed,
+UA020022,07 Feb 21,2,regular,Round 2,Dendy Park,Kings Park 1,7,3,3,3,,,27,26,Completed,
+UA020023,07 Feb 21,2,regular,Round 2,Kings Park 2,Le Page,1,9,1,5,,,24,36,Completed,
+UA020024,07 Feb 21,2,regular,Round 2,Tennis World,Coatesville,8,2,4,2,,,29,23,Completed,
+pending-ua020-r3-coatesville-kings-park-2,14 Feb 21,3,regular,Round 3,Coatesville,Kings Park 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua020-r3-kings-park-1-victory-park,14 Feb 21,3,regular,Round 3,Kings Park 1,Victory Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua020-r3-le-page-dendy-park,14 Feb 21,3,regular,Round 3,Le Page,Dendy Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua020-r3-murrumbeena-la-tennis-world,14 Feb 21,3,regular,Round 3,Murrumbeena LA,Tennis World,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA020041,21 Feb 21,4,regular,Round 4,Kings Park 2,Murrumbeena LA,9,1,5,1,,,30,16,Completed,
+UA020042,21 Feb 21,4,regular,Round 4,Tennis World,Kings Park 1,7,3,3,3,,,30,28,Completed,
+UA020043,21 Feb 21,4,regular,Round 4,Victory Park,Le Page,1,9,1,5,,,17,35,Completed,
+UA020044,21 Feb 21,4,regular,Round 4,Dendy Park,Coatesville,9,1,5,1,,,31,18,Completed,
+UA020051,28 Feb 21,5,regular,Round 5,Le Page,Coatesville,8,2,4,2,,,33,18,Completed,
+UA020052,28 Feb 21,5,regular,Round 5,Victory Park,Tennis World,2,8,2,4,,,26,35,Completed,
+UA020053,28 Feb 21,5,regular,Round 5,Kings Park 2,Dendy Park,5,5,3,3,,,26,26,Completed,
+UA020054,28 Feb 21,5,regular,Round 5,Murrumbeena LA,Kings Park 1,2,8,2,4,,,25,34,Completed,
+UA020061,14 Mar 21,6,regular,Round 6,Kings Park 1,Le Page,9,1,5,1,,,32,21,Completed,
+UA020062,14 Mar 21,6,regular,Round 6,Coatesville,Murrumbeena LA,8,2,4,2,,,29,17,Completed,
+UA020063,14 Mar 21,6,regular,Round 6,Tennis World,Kings Park 2,9,1,5,1,,,35,10,Completed,
+pending-ua020-r6-dendy-park-victory-park,14 Mar 21,6,regular,Round 6,Dendy Park,Victory Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA020071,21 Mar 21,7,regular,Round 7,Murrumbeena LA,Le Page,8,2,4,2,,,26,22,Completed,
+UA020072,21 Mar 21,7,regular,Round 7,Kings Park 1,Coatesville,8,2,4,2,,,33,22,Completed,
+UA020073,21 Mar 21,7,regular,Round 7,Victory Park,Kings Park 2,8,2,4,2,,,29,25,Completed,
+pending-ua020-r7-tennis-world-dendy-park,21 Mar 21,7,regular,Round 7,Tennis World,Dendy Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA020081,28 Mar 21,8,regular,Round 8,Dendy Park,Murrumbeena LA,9,1,5,1,,,32,20,Completed,
+UA020082,28 Mar 21,8,regular,Round 8,Kings Park 2,Kings Park 1,7,3,3,3,,,31,24,Completed,
+UA020083,28 Mar 21,8,regular,Round 8,Tennis World,Le Page,3,7,3,3,,,29,34,Completed,
+UA020084,28 Mar 21,8,regular,Round 8,Victory Park,Coatesville,3,7,3,3,,,23,27,Completed,
+UA020091,02 May 21,9,regular,Round 9,Murrumbeena LA,Victory Park,1,9,1,5,,,14,34,Completed,
+UA020092,02 May 21,9,regular,Round 9,Kings Park 1,Dendy Park,9,1,5,1,,,36,19,Completed,
+UA020093,02 May 21,9,regular,Round 9,Le Page,Kings Park 2,2,8,2,4,,,21,27,Completed,
+UA020094,02 May 21,9,regular,Round 9,Coatesville,Tennis World,2,8,2,4,,,22,28,Completed,
+UA020101,09 May 21,10,regular,Round 10,Tennis World,Murrumbeena LA,10,0,6,0,,,36,5,Completed,
+UA020102,09 May 21,10,regular,Round 10,Victory Park,Kings Park 1,1,9,1,5,,,20,34,Completed,
+UA020103,09 May 21,10,regular,Round 10,Dendy Park,Le Page,2,8,2,4,,,28,30,Completed,
+UA020104,09 May 21,10,regular,Round 10,Kings Park 2,Coatesville,8,2,4,2,,,29,24,Completed,
+UA020111,16 May 21,11,regular,Round 11,Murrumbeena LA,Kings Park 2,7,3,3,3,,,26,23,Completed,
+UA020112,16 May 21,11,regular,Round 11,Kings Park 1,Tennis World,1,9,1,5,,,21,33,Completed,
+UA020113,16 May 21,11,regular,Round 11,Le Page,Victory Park,9,1,5,1,,,32,15,Completed,
+UA020114,16 May 21,11,regular,Round 11,Coatesville,Dendy Park,2,8,2,4,,,21,29,Completed,
+UA020121,23 May 21,12,regular,Round 12,Coatesville,Le Page,2,8,2,4,,,24,29,Completed,
+UA020122,23 May 21,12,regular,Round 12,Tennis World,Victory Park,9,1,5,1,,,35,18,Completed,
+UA020123,23 May 21,12,regular,Round 12,Dendy Park,Kings Park 2,8,2,4,2,,,26,16,Completed,
+UA020124,23 May 21,12,regular,Round 12,Kings Park 1,Murrumbeena LA,10,0,6,0,,,37,15,Completed,
+pending-ua020-r13-kings-park-2-tennis-world,30 May 21,13,regular,Round 13,Kings Park 2,Tennis World,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua020-r13-le-page-kings-park-1,30 May 21,13,regular,Round 13,Le Page,Kings Park 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua020-r13-murrumbeena-la-coatesville,30 May 21,13,regular,Round 13,Murrumbeena LA,Coatesville,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua020-r13-victory-park-dendy-park,30 May 21,13,regular,Round 13,Victory Park,Dendy Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA020301,,16,semi_final,Semi-final,Tennis World,Le Page,8.5,1.5,4,1,,,27,14,Completed,
+UA020302,,16,semi_final,Semi-final,Kings Park 1,Dendy Park,0,10,0,6,,,17,36,Completed,
+UA020321,,17,grand_final,Grand final · TROLS entry 2,Tennis World,Dendy Park,3,7,3,3,,,24,28,Completed,

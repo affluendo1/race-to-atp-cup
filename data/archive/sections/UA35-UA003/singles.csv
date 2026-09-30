@@ -1,0 +1,222 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA003011,21 Jul 24,1,Kooyong,Royal South Yarra,No. 1,Thomas Batchelor,Boston Moran,Thomas Batchelor,6-4,6,4,1,0,Completed,true,false,false
+UA003011,21 Jul 24,1,Kooyong,Royal South Yarra,No. 2,Hamish Farmer,Nathan Lin,Nathan Lin,0-6,0,6,0,1,Completed,true,false,false
+UA003011,21 Jul 24,1,Kooyong,Royal South Yarra,No. 3,James Porter,Mara Tausan,James Porter,6-4,6,4,1,0,Completed,true,false,false
+UA003011,21 Jul 24,1,Kooyong,Royal South Yarra,No. 4,Adriano D'Angelo,Will Howitt,Will Howitt,6-7,6,7,0,1,Completed,true,false,false
+UA003012,21 Jul 24,1,Hurlingham Park Blue,GPHC,No. 1,Dane Gerbic,Thomas Doan,Thomas Doan,6-7,6,7,0,1,Completed,true,false,false
+UA003012,21 Jul 24,1,Hurlingham Park Blue,GPHC,No. 2,Andy Chen,Hugo Taylor,Andy Chen,6-2,6,2,1,0,Completed,true,false,false
+UA003012,21 Jul 24,1,Hurlingham Park Blue,GPHC,No. 3,Chloe Millar,Thomas Robertson-Brown,Thomas Robertson-Brown,1-6,1,6,0,1,Completed,true,false,false
+UA003012,21 Jul 24,1,Hurlingham Park Blue,GPHC,No. 4,Raphael Di Cintio,Patrick Cassidy,Raphael Di Cintio,6-4,6,4,1,0,Completed,true,false,false
+UA003013,21 Jul 24,1,Le Page Blue,Le Page Green,No. 1,Adyaan Tata,Dane Lazic,Adyaan Tata,6-2,6,2,1,0,Completed,true,false,false
+UA003013,21 Jul 24,1,Le Page Blue,Le Page Green,No. 2,Lucas Hansen,James Polygenis,James Polygenis,6-7,6,7,0,1,Completed,true,false,false
+UA003013,21 Jul 24,1,Le Page Blue,Le Page Green,No. 3,Danko Kovacevic,Aryan Singh,Aryan Singh,2-6,2,6,0,1,Completed,true,false,false
+UA003013,21 Jul 24,1,Le Page Blue,Le Page Green,No. 4,Mia Daniell,Alex Zhao,Alex Zhao,3-6,3,6,0,1,Completed,true,false,false
+UA003014,21 Jul 24,1,Kings Park,Royal Ave,No. 1,Mason Hancox,Harry Tsorbaris,Harry Tsorbaris,5-7,5,7,0,1,Completed,true,false,false
+UA003014,21 Jul 24,1,Kings Park,Royal Ave,No. 2,Miles Hancox,Luke Chapman,Luke Chapman,4-6,4,6,0,1,Completed,true,false,false
+UA003014,21 Jul 24,1,Kings Park,Royal Ave,No. 3,Cooper Hodge,Kai Saxon,Cooper Hodge,7-6,7,6,1,0,Completed,true,false,false
+UA003014,21 Jul 24,1,Kings Park,Royal Ave,No. 4,U-Zin Goh,Jack Watson,U-Zin Goh,7-6,7,6,1,0,Completed,true,true,false
+UA003024,28 Jul 24,2,Le Page Green,Kings Park,No. 1,Dane Lazic,Mason Hancox,Mason Hancox,3-6,3,6,0,1,Completed,true,false,false
+UA003024,28 Jul 24,2,Le Page Green,Kings Park,No. 2,James Polygenis,Cooper Graham,James Polygenis,6-4,6,4,1,0,Completed,true,false,false
+UA003024,28 Jul 24,2,Le Page Green,Kings Park,No. 3,Aryan Singh,Cooper Hodge,Aryan Singh,6-2,6,2,1,0,Completed,true,false,false
+UA003024,28 Jul 24,2,Le Page Green,Kings Park,No. 4,Alex Zhao,Michael Zhang,Alex Zhao,6-3,6,3,1,0,Completed,true,false,false
+UA003031,04 Aug 24,3,Kooyong,Le Page Green,No. 1,Edward Pollard,Dane Lazic,Edward Pollard,6-2,6,2,1,0,Completed,true,false,false
+UA003031,04 Aug 24,3,Kooyong,Le Page Green,No. 2,Thomas Batchelor,James Polygenis,James Polygenis,0-6,0,6,0,1,Completed,true,false,false
+UA003031,04 Aug 24,3,Kooyong,Le Page Green,No. 3,Hamish Farmer,Lucas Hansen,Lucas Hansen,0-6,0,6,0,1,Completed,true,false,true
+UA003031,04 Aug 24,3,Kooyong,Le Page Green,No. 4,Adriano D'Angelo,Alex Zhao,Adriano D'Angelo,6-4,6,4,1,0,Completed,true,false,false
+UA003032,04 Aug 24,3,Hurlingham Park Blue,Royal Ave,No. 1,Andy Chen,Luke Cowie,Luke Cowie,4-6,4,6,0,1,Completed,true,false,false
+UA003032,04 Aug 24,3,Hurlingham Park Blue,Royal Ave,No. 2,Lucas Wu,Kai Saxon,Lucas Wu,6-4,6,4,1,0,Completed,true,false,false
+UA003032,04 Aug 24,3,Hurlingham Park Blue,Royal Ave,No. 3,Chloe Millar,Nick Danaher,Nick Danaher,1-6,1,6,0,1,Completed,true,false,false
+UA003032,04 Aug 24,3,Hurlingham Park Blue,Royal Ave,No. 4,Raphael Di Cintio,Jack Watson,Jack Watson,1-6,1,6,0,1,Completed,true,false,false
+UA003033,04 Aug 24,3,Le Page Blue,Royal South Yarra,No. 1,Adyaan Tata,Boston Moran,Boston Moran,6-7,6,7,0,1,Completed,true,false,false
+UA003033,04 Aug 24,3,Le Page Blue,Royal South Yarra,No. 2,Sarah Daniell,Nathan Lin,Nathan Lin,4-6,4,6,0,1,Completed,true,false,false
+UA003033,04 Aug 24,3,Le Page Blue,Royal South Yarra,No. 3,Danko Kovacevic,Ashvin Jayawardena,Ashvin Jayawardena,1-6,1,6,0,1,Completed,true,false,false
+UA003033,04 Aug 24,3,Le Page Blue,Royal South Yarra,No. 4,Mia Daniell,Adrian Borsaru,Adrian Borsaru,1-6,1,6,0,1,Completed,true,false,false
+UA003034,04 Aug 24,3,Kings Park,GPHC,No. 1,Mason Hancox,Thomas Doan,Mason Hancox,6-3,6,3,1,0,Completed,true,false,false
+UA003034,04 Aug 24,3,Kings Park,GPHC,No. 2,Miles Hancox,Hugo Taylor,Miles Hancox,6-1,6,1,1,0,Completed,true,false,false
+UA003034,04 Aug 24,3,Kings Park,GPHC,No. 3,Cooper Graham,Thomas Robertson-Brown,Cooper Graham,6-3,6,3,1,0,Completed,true,false,false
+UA003034,04 Aug 24,3,Kings Park,GPHC,No. 4,Cooper Hodge,Patrick Cassidy,Cooper Hodge,6-3,6,3,1,0,Completed,true,false,false
+UA003041,11 Aug 24,4,GPHC,Kooyong,No. 1,Hugo Taylor,Edward Pollard,Edward Pollard,3-6,3,6,0,1,Completed,true,false,false
+UA003041,11 Aug 24,4,GPHC,Kooyong,No. 2,Thomas Robertson-Brown,Hamish Farmer,Thomas Robertson-Brown,6-2,6,2,1,0,Completed,true,false,false
+UA003041,11 Aug 24,4,GPHC,Kooyong,No. 3,Aaron Williams,James Porter,James Porter,1-6,1,6,0,1,Completed,true,true,false
+UA003041,11 Aug 24,4,GPHC,Kooyong,No. 4,Remi Foster,Adriano D'Angelo,Adriano D'Angelo,2-6,2,6,0,1,Completed,true,true,false
+UA003042,11 Aug 24,4,Le Page Green,Hurlingham Park Blue,No. 1,Dane Lazic,Dane Gerbic,Dane Gerbic,5-7,5,7,0,1,Completed,true,false,false
+UA003042,11 Aug 24,4,Le Page Green,Hurlingham Park Blue,No. 2,James Polygenis,Lucas Wu,James Polygenis,6-3,6,3,1,0,Completed,true,false,false
+UA003042,11 Aug 24,4,Le Page Green,Hurlingham Park Blue,No. 3,Aryan Singh,Chloe Millar,Aryan Singh,6-3,6,3,1,0,Completed,true,false,false
+UA003042,11 Aug 24,4,Le Page Green,Hurlingham Park Blue,No. 4,Alex Zhao,Raphael Di Cintio,Raphael Di Cintio,6-7,6,7,0,1,Completed,true,false,false
+UA003043,11 Aug 24,4,Royal Ave,Le Page Blue,No. 1,Luke Cowie,Adyaan Tata,Adyaan Tata,1-6,1,6,0,1,Completed,true,false,false
+UA003043,11 Aug 24,4,Royal Ave,Le Page Blue,No. 2,Harry Tsorbaris,Sarah Daniell,Harry Tsorbaris,6-2,6,2,1,0,Completed,true,false,false
+UA003043,11 Aug 24,4,Royal Ave,Le Page Blue,No. 3,Luke Chapman,Lucas Hansen,Lucas Hansen,0-6,0,6,0,1,Completed,true,false,false
+UA003043,11 Aug 24,4,Royal Ave,Le Page Blue,No. 4,Nick Danaher,Danko Kovacevic,Nick Danaher,7-6,7,6,1,0,Completed,true,false,false
+UA003044,11 Aug 24,4,Royal South Yarra,Kings Park,No. 1,Boston Moran,Mason Hancox,Mason Hancox,0-6,0,6,0,1,Completed,true,false,false
+UA003044,11 Aug 24,4,Royal South Yarra,Kings Park,No. 2,Mara Tausan,Miles Hancox,Miles Hancox,4-6,4,6,0,1,Completed,true,false,false
+UA003044,11 Aug 24,4,Royal South Yarra,Kings Park,No. 3,Will Howitt,Cooper Graham,Will Howitt,6-1,6,1,1,0,Completed,true,false,false
+UA003044,11 Aug 24,4,Royal South Yarra,Kings Park,No. 4,Ashvin Jayawardena,Cooper Hodge,Ashvin Jayawardena,6-0,6,0,1,0,Completed,true,false,false
+UA003051,18 Aug 24,5,Le Page Blue,Kings Park,No. 1,Sarah Daniell,Mason Hancox,Mason Hancox,0-6,0,6,0,1,Completed,true,false,false
+UA003051,18 Aug 24,5,Le Page Blue,Kings Park,No. 2,Lucas Hansen,Miles Hancox,Lucas Hansen,7-6,7,6,1,0,Completed,true,false,false
+UA003051,18 Aug 24,5,Le Page Blue,Kings Park,No. 3,Danko Kovacevic,Cooper Graham,Danko Kovacevic,6-3,6,3,1,0,Completed,true,false,false
+UA003051,18 Aug 24,5,Le Page Blue,Kings Park,No. 4,Mia Daniell,Cooper Hodge,Cooper Hodge,4-6,4,6,0,1,Completed,true,false,false
+UA003052,18 Aug 24,5,Royal Ave,Le Page Green,No. 1,Harry Tsorbaris,Adyaan Tata,Adyaan Tata,3-6,3,6,0,1,Completed,true,false,true
+UA003052,18 Aug 24,5,Royal Ave,Le Page Green,No. 2,Luke Chapman,Dane Lazic,Dane Lazic,4-6,4,6,0,1,Completed,true,false,false
+UA003052,18 Aug 24,5,Royal Ave,Le Page Green,No. 3,Nick Danaher,James Polygenis,James Polygenis,1-6,1,6,0,1,Completed,true,false,false
+UA003052,18 Aug 24,5,Royal Ave,Le Page Green,No. 4,Jack Watson,Aryan Singh,Aryan Singh,4-6,4,6,0,1,Completed,true,false,false
+UA003053,18 Aug 24,5,GPHC,Royal South Yarra,No. 1,Hugo Taylor,Boston Moran,Boston Moran,3-6,3,6,0,1,Completed,true,false,false
+UA003053,18 Aug 24,5,GPHC,Royal South Yarra,No. 2,Thomas Robertson-Brown,Nathan Lin,Thomas Robertson-Brown,6-3,6,3,1,0,Completed,true,false,false
+UA003053,18 Aug 24,5,GPHC,Royal South Yarra,No. 3,Patrick Cassidy,Will Howitt,Will Howitt,3-6,3,6,0,1,Completed,true,false,false
+UA003053,18 Aug 24,5,GPHC,Royal South Yarra,No. 4,Ned Jeffreys,Adrian Borsaru,Adrian Borsaru,1-6,1,6,0,1,Completed,true,true,false
+UA003054,18 Aug 24,5,Kooyong,Hurlingham Park Blue,No. 1,Carl Gerstman,Andy Chen,Carl Gerstman,6-2,6,2,1,0,Completed,true,false,false
+UA003054,18 Aug 24,5,Kooyong,Hurlingham Park Blue,No. 2,Cienna Ulas,Lucas Wu,Lucas Wu,1-6,1,6,0,1,Completed,true,false,false
+UA003054,18 Aug 24,5,Kooyong,Hurlingham Park Blue,No. 3,James Porter,Renny Thurlow,Renny Thurlow,3-6,3,6,0,1,Completed,true,false,true
+UA003054,18 Aug 24,5,Kooyong,Hurlingham Park Blue,No. 4,Hamish Farmer,Raphael Di Cintio,Raphael Di Cintio,2-6,2,6,0,1,Completed,true,false,false
+UA003061,25 Aug 24,6,Hurlingham Park Blue,Le Page Blue,No. 1,Dane Gerbic,Adyaan Tata,Adyaan Tata,6-7,6,7,0,1,Completed,true,false,false
+UA003061,25 Aug 24,6,Hurlingham Park Blue,Le Page Blue,No. 2,Andy Chen,Sarah Daniell,Andy Chen,6-3,6,3,1,0,Completed,true,false,false
+UA003061,25 Aug 24,6,Hurlingham Park Blue,Le Page Blue,No. 3,Lucas Wu,Lucas Hansen,Lucas Hansen,6-7,6,7,0,1,Completed,true,false,false
+UA003061,25 Aug 24,6,Hurlingham Park Blue,Le Page Blue,No. 4,Chloe Millar,Mia Daniell,Chloe Millar,7-5,7,5,1,0,Completed,true,false,false
+UA003062,25 Aug 24,6,Kings Park,Kooyong,No. 1,Mason Hancox,Edward Pollard,Mason Hancox,7-5,7,5,1,0,Completed,true,false,false
+UA003062,25 Aug 24,6,Kings Park,Kooyong,No. 2,Miles Hancox,Thomas Batchelor,Miles Hancox,6-2,6,2,1,0,Completed,true,false,false
+UA003062,25 Aug 24,6,Kings Park,Kooyong,No. 3,Michael Zhang,James Porter,Michael Zhang,6-2,6,2,1,0,Completed,true,false,false
+UA003062,25 Aug 24,6,Kings Park,Kooyong,No. 4,Matthew Peng,Adriano D'Angelo,Matthew Peng,6-2,6,2,1,0,Completed,true,true,false
+UA003063,25 Aug 24,6,Le Page Green,GPHC,No. 1,Dane Lazic,Thomas Doan,Dane Lazic,6-2,6,2,1,0,Completed,true,false,false
+UA003063,25 Aug 24,6,Le Page Green,GPHC,No. 2,James Polygenis,Hugo Taylor,James Polygenis,6-2,6,2,1,0,Completed,true,false,false
+UA003063,25 Aug 24,6,Le Page Green,GPHC,No. 3,Aryan Singh,Thomas Robertson-Brown,Thomas Robertson-Brown,3-6,3,6,0,1,Completed,true,false,false
+UA003063,25 Aug 24,6,Le Page Green,GPHC,No. 4,[Unnamed player — TROLS UA003063 home code 4],Aaron Williams,Aaron Williams,0-6,0,6,0,1,Completed,false,false,true
+UA003064,25 Aug 24,6,Royal South Yarra,Royal Ave,No. 1,Boston Moran,Luke Cowie,Boston Moran,6-3,6,3,1,0,Completed,true,false,false
+UA003064,25 Aug 24,6,Royal South Yarra,Royal Ave,No. 2,Nathan Lin,Harry Tsorbaris,Nathan Lin,6-3,6,3,1,0,Completed,true,false,false
+UA003064,25 Aug 24,6,Royal South Yarra,Royal Ave,No. 3,Mara Tausan,Luke Chapman,Luke Chapman,6-7,6,7,0,1,Completed,true,false,false
+UA003064,25 Aug 24,6,Royal South Yarra,Royal Ave,No. 4,Will Howitt,Jack Watson,Will Howitt,7-6,7,6,1,0,Completed,true,false,false
+UA003071,01 Sep 24,7,Kooyong,Le Page Blue,No. 1,Carl Gerstman,Adyaan Tata,Carl Gerstman,6-2,6,2,1,0,Completed,true,false,false
+UA003071,01 Sep 24,7,Kooyong,Le Page Blue,No. 2,Thomas Batchelor,Sarah Daniell,Thomas Batchelor,6-3,6,3,1,0,Completed,true,false,false
+UA003071,01 Sep 24,7,Kooyong,Le Page Blue,No. 3,James Porter,Lucas Hansen,Lucas Hansen,4-6,4,6,0,1,Completed,true,false,false
+UA003071,01 Sep 24,7,Kooyong,Le Page Blue,No. 4,Adriano D'Angelo,Mia Daniell,Adriano D'Angelo,6-2,6,2,1,0,Completed,true,false,false
+UA003072,01 Sep 24,7,Hurlingham Park Blue,Kings Park,No. 1,Dylan Pfahl,Mason Hancox,Mason Hancox,5-7,5,7,0,1,Completed,true,false,false
+UA003072,01 Sep 24,7,Hurlingham Park Blue,Kings Park,No. 2,Andy Chen,Miles Hancox,Miles Hancox,3-6,3,6,0,1,Completed,true,false,false
+UA003072,01 Sep 24,7,Hurlingham Park Blue,Kings Park,No. 3,Raphael Di Cintio,Cooper Graham,Raphael Di Cintio,6-4,6,4,1,0,Completed,true,false,false
+UA003072,01 Sep 24,7,Hurlingham Park Blue,Kings Park,No. 4,Rey Hu,Michael Zhang,Michael Zhang,3-6,3,6,0,1,Completed,true,true,false
+UA003073,01 Sep 24,7,Royal Ave,GPHC,No. 1,Harry Tsorbaris,Thomas Doan,Thomas Doan,5-7,5,7,0,1,Completed,true,false,false
+UA003073,01 Sep 24,7,Royal Ave,GPHC,No. 2,Luke Chapman,Hugo Taylor,Luke Chapman,6-4,6,4,1,0,Completed,true,false,false
+UA003073,01 Sep 24,7,Royal Ave,GPHC,No. 3,Nick Danaher,Thomas Robertson-Brown,Thomas Robertson-Brown,3-6,3,6,0,1,Completed,true,false,false
+UA003073,01 Sep 24,7,Royal Ave,GPHC,No. 4,Jack Watson,Patrick Cassidy,Jack Watson,6-4,6,4,1,0,Completed,true,false,false
+UA003074,01 Sep 24,7,Le Page Green,Royal South Yarra,No. 1,Dane Lazic,Adrian Borsaru,Adrian Borsaru,4-6,4,6,0,1,Completed,true,false,false
+UA003074,01 Sep 24,7,Le Page Green,Royal South Yarra,No. 2,James Polygenis,Nathan Lin,James Polygenis,6-4,6,4,1,0,Completed,true,false,false
+UA003074,01 Sep 24,7,Le Page Green,Royal South Yarra,No. 3,Aryan Singh,Mara Tausan,Mara Tausan,5-7,5,7,0,1,Completed,true,false,false
+UA003074,01 Sep 24,7,Le Page Green,Royal South Yarra,No. 4,Alex Zhao,Will Howitt,Will Howitt,6-7,6,7,0,1,Completed,true,false,false
+UA003081,08 Sep 24,8,Royal South Yarra,Kooyong,No. 1,Boston Moran,Edward Pollard,Edward Pollard,2-6,2,6,0,1,Completed,true,false,false
+UA003081,08 Sep 24,8,Royal South Yarra,Kooyong,No. 2,Nathan Lin,Cienna Ulas,Cienna Ulas,4-6,4,6,0,1,Completed,true,false,false
+UA003081,08 Sep 24,8,Royal South Yarra,Kooyong,No. 3,Mara Tausan,James Porter,James Porter,1-6,1,6,0,1,Completed,true,false,false
+UA003081,08 Sep 24,8,Royal South Yarra,Kooyong,No. 4,Will Howitt,Hamish Farmer,Will Howitt,6-0,6,0,1,0,Completed,true,false,false
+UA003082,08 Sep 24,8,GPHC,Hurlingham Park Blue,No. 1,Thomas Doan,Dylan Pfahl,Thomas Doan,6-0,6,0,1,0,Completed,true,false,false
+UA003082,08 Sep 24,8,GPHC,Hurlingham Park Blue,No. 2,Hugo Taylor,Andy Chen,Andy Chen,2-6,2,6,0,1,Completed,true,false,false
+UA003082,08 Sep 24,8,GPHC,Hurlingham Park Blue,No. 3,Thomas Robertson-Brown,Chloe Millar,Thomas Robertson-Brown,6-1,6,1,1,0,Completed,true,false,false
+UA003082,08 Sep 24,8,GPHC,Hurlingham Park Blue,No. 4,Patrick Cassidy,Raphael Di Cintio,Patrick Cassidy,6-4,6,4,1,0,Completed,true,false,false
+UA003083,08 Sep 24,8,Le Page Green,Le Page Blue,No. 1,Dane Lazic,Adyaan Tata,Adyaan Tata,1-6,1,6,0,1,Completed,true,false,false
+UA003083,08 Sep 24,8,Le Page Green,Le Page Blue,No. 2,James Polygenis,Sarah Daniell,James Polygenis,6-2,6,2,1,0,Completed,true,false,false
+UA003083,08 Sep 24,8,Le Page Green,Le Page Blue,No. 3,Aryan Singh,Lucas Hansen,Aryan Singh,6-4,6,4,1,0,Completed,true,false,false
+UA003083,08 Sep 24,8,Le Page Green,Le Page Blue,No. 4,Alex Zhao,Mia Daniell,Alex Zhao,6-2,6,2,1,0,Completed,true,false,false
+UA003084,08 Sep 24,8,Royal Ave,Kings Park,No. 1,Harry Tsorbaris,Mason Hancox,Mason Hancox,0-6,0,6,0,1,Completed,true,false,false
+UA003084,08 Sep 24,8,Royal Ave,Kings Park,No. 2,Luke Chapman,Miles Hancox,Miles Hancox,0-6,0,6,0,1,Completed,true,false,false
+UA003084,08 Sep 24,8,Royal Ave,Kings Park,No. 3,Nick Danaher,Cooper Hodge,Nick Danaher,6-3,6,3,1,0,Completed,true,false,false
+UA003084,08 Sep 24,8,Royal Ave,Kings Park,No. 4,Jack Watson,Michael Zhang,Jack Watson,6-3,6,3,1,0,Completed,true,false,false
+UA003091,15 Sep 24,9,Kooyong,Royal Ave,No. 1,Thomas Batchelor,Luke Cowie,Luke Cowie,5-7,5,7,0,1,Completed,true,false,false
+UA003091,15 Sep 24,9,Kooyong,Royal Ave,No. 2,Cienna Ulas,Luke Chapman,Luke Chapman,5-7,5,7,0,1,Completed,true,false,false
+UA003091,15 Sep 24,9,Kooyong,Royal Ave,No. 3,James Porter,Kai Saxon,James Porter,6-1,6,1,1,0,Completed,true,false,false
+UA003091,15 Sep 24,9,Kooyong,Royal Ave,No. 4,Adriano D'Angelo,Nick Danaher,Adriano D'Angelo,6-4,6,4,1,0,Completed,true,false,false
+UA003092,15 Sep 24,9,Hurlingham Park Blue,Royal South Yarra,No. 1,Dane Gerbic,Boston Moran,Dane Gerbic,6-2,6,2,1,0,Completed,true,false,false
+UA003092,15 Sep 24,9,Hurlingham Park Blue,Royal South Yarra,No. 2,Andy Chen,Adrian Borsaru,Adrian Borsaru,2-6,2,6,0,1,Completed,true,false,false
+UA003092,15 Sep 24,9,Hurlingham Park Blue,Royal South Yarra,No. 3,Lucas Wu,Mara Tausan,Mara Tausan,4-6,4,6,0,1,Completed,true,false,false
+UA003092,15 Sep 24,9,Hurlingham Park Blue,Royal South Yarra,No. 4,Chloe Millar,Will Howitt,Will Howitt,2-6,2,6,0,1,Completed,true,false,false
+UA003093,15 Sep 24,9,Le Page Blue,GPHC,No. 1,Sarah Daniell,Thomas Doan,Sarah Daniell,6-4,6,4,1,0,Completed,true,false,false
+UA003093,15 Sep 24,9,Le Page Blue,GPHC,No. 2,Lucas Hansen,Hugo Taylor,Hugo Taylor,4-6,4,6,0,1,Completed,true,false,false
+UA003093,15 Sep 24,9,Le Page Blue,GPHC,No. 3,Mia Daniell,Thomas Robertson-Brown,Thomas Robertson-Brown,0-6,0,6,0,1,Completed,true,false,false
+UA003093,15 Sep 24,9,Le Page Blue,GPHC,No. 4,Jasmine Petkoff,Patrick Cassidy,Patrick Cassidy,6-7,6,7,0,1,Completed,true,true,false
+UA003094,15 Sep 24,9,Kings Park,Le Page Green,No. 1,Mason Hancox,Dane Lazic,Mason Hancox,6-1,6,1,1,0,Completed,true,false,false
+UA003094,15 Sep 24,9,Kings Park,Le Page Green,No. 2,Miles Hancox,James Polygenis,Miles Hancox,6-2,6,2,1,0,Completed,true,false,false
+UA003094,15 Sep 24,9,Kings Park,Le Page Green,No. 3,Cooper Hodge,Aryan Singh,Cooper Hodge,7-6,7,6,1,0,Completed,true,false,false
+UA003094,15 Sep 24,9,Kings Park,Le Page Green,No. 4,Michael Zhang,Anastasia Polygenis,Michael Zhang,6-2,6,2,1,0,Completed,true,false,true
+UA003101,13 Oct 24,10,Le Page Green,Kooyong,No. 1,Dane Lazic,Carl Gerstman,Carl Gerstman,0-6,0,6,0,1,Completed,true,false,false
+UA003101,13 Oct 24,10,Le Page Green,Kooyong,No. 2,James Polygenis,Edward Pollard,James Polygenis,6-4,6,4,1,0,Completed,true,false,false
+UA003101,13 Oct 24,10,Le Page Green,Kooyong,No. 3,Aryan Singh,James Porter,James Porter,0-6,0,6,0,1,Completed,true,false,false
+UA003101,13 Oct 24,10,Le Page Green,Kooyong,No. 4,Alex Zhao,Hamish Farmer,Alex Zhao,6-1,6,1,1,0,Completed,true,false,false
+UA003102,13 Oct 24,10,Royal Ave,Hurlingham Park Blue,No. 1,Luke Cowie,Dylan Pfahl,Dylan Pfahl,3-6,3,6,0,1,Completed,true,false,false
+UA003102,13 Oct 24,10,Royal Ave,Hurlingham Park Blue,No. 2,Kai Saxon,Dane Gerbic,Dane Gerbic,1-6,1,6,0,1,Completed,true,false,false
+UA003102,13 Oct 24,10,Royal Ave,Hurlingham Park Blue,No. 3,Nick Danaher,Andy Chen,Andy Chen,0-6,0,6,0,1,Completed,true,false,false
+UA003102,13 Oct 24,10,Royal Ave,Hurlingham Park Blue,No. 4,Jack Watson,Chloe Millar,Jack Watson,6-0,6,0,1,0,Completed,true,false,false
+UA003103,13 Oct 24,10,Royal South Yarra,Le Page Blue,No. 1,Boston Moran,Adyaan Tata,Adyaan Tata,1-6,1,6,0,1,Completed,true,false,false
+UA003103,13 Oct 24,10,Royal South Yarra,Le Page Blue,No. 2,Nathan Lin,Sarah Daniell,Nathan Lin,6-0,6,0,1,0,Completed,true,false,false
+UA003103,13 Oct 24,10,Royal South Yarra,Le Page Blue,No. 3,Will Howitt,Lucas Hansen,Lucas Hansen,2-6,2,6,0,1,Completed,true,false,false
+UA003103,13 Oct 24,10,Royal South Yarra,Le Page Blue,No. 4,Niko Tausan,Danko Kovacevic,Niko Tausan,6-1,6,1,1,0,Completed,true,true,false
+UA003104,13 Oct 24,10,GPHC,Kings Park,No. 1,Thomas Doan,Mason Hancox,Mason Hancox,3-6,3,6,0,1,Completed,true,false,false
+UA003104,13 Oct 24,10,GPHC,Kings Park,No. 2,Hugo Taylor,Cooper Graham,Hugo Taylor,6-2,6,2,1,0,Completed,true,false,false
+UA003104,13 Oct 24,10,GPHC,Kings Park,No. 3,Thomas Robertson-Brown,Cooper Hodge,Cooper Hodge,4-6,4,6,0,1,Completed,true,false,false
+UA003104,13 Oct 24,10,GPHC,Kings Park,No. 4,Patrick Cassidy,Michael Zhang,Michael Zhang,4-6,4,6,0,1,Completed,true,false,false
+UA003111,20 Oct 24,11,Kooyong,GPHC,No. 1,Carl Gerstman,Thomas Doan,Carl Gerstman,7-6,7,6,1,0,Completed,true,false,false
+UA003111,20 Oct 24,11,Kooyong,GPHC,No. 2,Edward Pollard,Hugo Taylor,Edward Pollard,6-4,6,4,1,0,Completed,true,false,false
+UA003111,20 Oct 24,11,Kooyong,GPHC,No. 3,Cienna Ulas,Thomas Robertson-Brown,Thomas Robertson-Brown,2-6,2,6,0,1,Completed,true,false,false
+UA003111,20 Oct 24,11,Kooyong,GPHC,No. 4,Adriano D'Angelo,Patrick Cassidy,Patrick Cassidy,0-6,0,6,0,1,Completed,true,false,false
+UA003112,20 Oct 24,11,Hurlingham Park Blue,Le Page Green,No. 1,Dylan Pfahl,James Polygenis,Dylan Pfahl,6-1,6,1,1,0,Completed,true,false,false
+UA003112,20 Oct 24,11,Hurlingham Park Blue,Le Page Green,No. 2,Andy Chen,Aryan Singh,Andy Chen,6-0,6,0,1,0,Completed,true,false,false
+UA003112,20 Oct 24,11,Hurlingham Park Blue,Le Page Green,No. 3,Lucas Wu,Alex Zhao,Lucas Wu,7-6,7,6,1,0,Completed,true,false,false
+UA003112,20 Oct 24,11,Hurlingham Park Blue,Le Page Green,No. 4,Raphael Di Cintio,Jasmine Petkoff,Raphael Di Cintio,6-4,6,4,1,0,Completed,true,false,true
+UA003113,20 Oct 24,11,Le Page Blue,Royal Ave,No. 1,Adyaan Tata,Luke Cowie,Adyaan Tata,6-2,6,2,1,0,Completed,true,false,false
+UA003113,20 Oct 24,11,Le Page Blue,Royal Ave,No. 2,Sarah Daniell,Luke Chapman,Sarah Daniell,6-1,6,1,1,0,Completed,true,false,false
+UA003113,20 Oct 24,11,Le Page Blue,Royal Ave,No. 3,Lucas Hansen,Nick Danaher,Lucas Hansen,6-1,6,1,1,0,Completed,true,false,false
+UA003113,20 Oct 24,11,Le Page Blue,Royal Ave,No. 4,Mia Daniell,Jack Watson,Jack Watson,4-6,4,6,0,1,Completed,true,false,false
+UA003114,20 Oct 24,11,Kings Park,Royal South Yarra,No. 1,Mason Hancox,Boston Moran,Mason Hancox,7-5,7,5,1,0,Completed,true,false,false
+UA003114,20 Oct 24,11,Kings Park,Royal South Yarra,No. 2,Cooper Graham,Nathan Lin,Nathan Lin,6-7,6,7,0,1,Completed,true,false,false
+UA003114,20 Oct 24,11,Kings Park,Royal South Yarra,No. 3,Cooper Hodge,Mara Tausan,Cooper Hodge,6-4,6,4,1,0,Completed,true,false,false
+UA003114,20 Oct 24,11,Kings Park,Royal South Yarra,No. 4,Kokoro Bremmell,Will Howitt,Kokoro Bremmell,6-4,6,4,1,0,Completed,true,true,false
+UA003121,27 Oct 24,12,Kings Park,Le Page Blue,No. 1,Mason Hancox,Adyaan Tata,Adyaan Tata,2-6,2,6,0,1,Completed,true,false,false
+UA003121,27 Oct 24,12,Kings Park,Le Page Blue,No. 2,Miles Hancox,Lucas Hansen,Miles Hancox,6-1,6,1,1,0,Completed,true,false,false
+UA003121,27 Oct 24,12,Kings Park,Le Page Blue,No. 3,Cooper Graham,Mia Daniell,Cooper Graham,6-3,6,3,1,0,Completed,true,false,false
+UA003121,27 Oct 24,12,Kings Park,Le Page Blue,No. 4,Michael Zhang,Ethan Su,Ethan Su,0-6,0,6,0,1,Completed,true,false,true
+UA003122,27 Oct 24,12,Le Page Green,Royal Ave,No. 1,Dane Lazic,Luke Cowie,Dane Lazic,6-4,6,4,1,0,Completed,true,false,false
+UA003122,27 Oct 24,12,Le Page Green,Royal Ave,No. 2,James Polygenis,Luke Chapman,James Polygenis,6-4,6,4,1,0,Completed,true,false,false
+UA003122,27 Oct 24,12,Le Page Green,Royal Ave,No. 3,Aryan Singh,Kai Saxon,Aryan Singh,6-1,6,1,1,0,Completed,true,false,false
+UA003122,27 Oct 24,12,Le Page Green,Royal Ave,No. 4,Alex Zhao,Nick Danaher,Nick Danaher,2-6,2,6,0,1,Completed,true,false,false
+UA003123,27 Oct 24,12,Royal South Yarra,GPHC,No. 1,Boston Moran,Thomas Doan,Thomas Doan,2-6,2,6,0,1,Completed,true,false,false
+UA003123,27 Oct 24,12,Royal South Yarra,GPHC,No. 2,Nathan Lin,Hugo Taylor,Nathan Lin,6-3,6,3,1,0,Completed,true,false,false
+UA003123,27 Oct 24,12,Royal South Yarra,GPHC,No. 3,Mara Tausan,Thomas Robertson-Brown,Mara Tausan,6-3,6,3,1,0,Completed,true,false,false
+UA003123,27 Oct 24,12,Royal South Yarra,GPHC,No. 4,Will Howitt,Patrick Cassidy,Will Howitt,6-4,6,4,1,0,Completed,true,false,false
+UA003124,27 Oct 24,12,Hurlingham Park Blue,Kooyong,No. 1,Dylan Pfahl,Edward Pollard,Edward Pollard,3-6,3,6,0,1,Completed,true,false,false
+UA003124,27 Oct 24,12,Hurlingham Park Blue,Kooyong,No. 2,Dane Gerbic,James Porter,Dane Gerbic,6-2,6,2,1,0,Completed,true,false,false
+UA003124,27 Oct 24,12,Hurlingham Park Blue,Kooyong,No. 3,Chloe Millar,Adriano D'Angelo,Adriano D'Angelo,0-6,0,6,0,1,Completed,true,false,false
+UA003124,27 Oct 24,12,Hurlingham Park Blue,Kooyong,No. 4,Raphael Di Cintio,Hamish Farmer,Raphael Di Cintio,6-0,6,0,1,0,Completed,true,false,false
+UA003131,10 Nov 24,13,Le Page Blue,Hurlingham Park Blue,No. 1,Adyaan Tata,Dylan Pfahl,Dylan Pfahl,2-6,2,6,0,1,Completed,true,false,false
+UA003131,10 Nov 24,13,Le Page Blue,Hurlingham Park Blue,No. 2,Lucas Hansen,Dane Gerbic,Dane Gerbic,3-6,3,6,0,1,Completed,true,false,false
+UA003131,10 Nov 24,13,Le Page Blue,Hurlingham Park Blue,No. 3,Danko Kovacevic,Andy Chen,Danko Kovacevic,6-1,6,1,1,0,Completed,true,false,false
+UA003131,10 Nov 24,13,Le Page Blue,Hurlingham Park Blue,No. 4,Mia Daniell,Chloe Millar,Mia Daniell,6-2,6,2,1,0,Completed,true,false,false
+UA003132,10 Nov 24,13,Kooyong,Kings Park,No. 1,Thomas Batchelor,Mason Hancox,Mason Hancox,1-6,1,6,0,1,Completed,true,false,false
+UA003132,10 Nov 24,13,Kooyong,Kings Park,No. 2,James Porter,Miles Hancox,Miles Hancox,5-7,5,7,0,1,Completed,true,false,false
+UA003132,10 Nov 24,13,Kooyong,Kings Park,No. 3,Adriano D'Angelo,Cooper Hodge,Cooper Hodge,2-6,2,6,0,1,Completed,true,false,false
+UA003132,10 Nov 24,13,Kooyong,Kings Park,No. 4,Hamish Farmer,Michael Zhang,Michael Zhang,1-6,1,6,0,1,Completed,true,false,false
+UA003133,10 Nov 24,13,GPHC,Le Page Green,No. 1,Thomas Doan,Dane Lazic,Thomas Doan,6-1,6,1,1,0,Completed,true,false,false
+UA003133,10 Nov 24,13,GPHC,Le Page Green,No. 2,Hugo Taylor,James Polygenis,James Polygenis,0-6,0,6,0,1,Completed,true,false,false
+UA003133,10 Nov 24,13,GPHC,Le Page Green,No. 3,Thomas Robertson-Brown,Aryan Singh,Thomas Robertson-Brown,6-2,6,2,1,0,Completed,true,false,false
+UA003133,10 Nov 24,13,GPHC,Le Page Green,No. 4,Patrick Cassidy,Alex Zhao,Alex Zhao,2-6,2,6,0,1,Completed,true,false,false
+UA003134,10 Nov 24,13,Royal Ave,Royal South Yarra,No. 1,Luke Cowie,Boston Moran,Luke Cowie,6-4,6,4,1,0,Completed,true,false,false
+UA003134,10 Nov 24,13,Royal Ave,Royal South Yarra,No. 2,Luke Chapman,Adrian Borsaru,Luke Chapman,6-4,6,4,1,0,Completed,true,false,false
+UA003134,10 Nov 24,13,Royal Ave,Royal South Yarra,No. 3,Nick Danaher,Nathan Lin,Nick Danaher,7-5,7,5,1,0,Completed,true,false,false
+UA003134,10 Nov 24,13,Royal Ave,Royal South Yarra,No. 4,Jack Watson,Mara Tausan,Mara Tausan,3-6,3,6,0,1,Completed,true,false,false
+UA003141,17 Nov 24,14,Le Page Blue,Kooyong,No. 1,Adyaan Tata,Edward Pollard,Edward Pollard,4-6,4,6,0,1,Completed,true,false,false
+UA003141,17 Nov 24,14,Le Page Blue,Kooyong,No. 2,Sarah Daniell,Thomas Batchelor,Thomas Batchelor,0-1,0,1,0,1,Completed,false,false,false
+UA003141,17 Nov 24,14,Le Page Blue,Kooyong,No. 3,Danko Kovacevic,Cienna Ulas,Cienna Ulas,2-6,2,6,0,1,Completed,true,false,false
+UA003141,17 Nov 24,14,Le Page Blue,Kooyong,No. 4,Mia Daniell,Adriano D'Angelo,Adriano D'Angelo,2-3,2,3,0,1,Completed,false,false,false
+UA003142,17 Nov 24,14,Kings Park,Hurlingham Park Blue,No. 1,Mason Hancox,Dylan Pfahl,Dylan Pfahl,2-6,2,6,0,1,Completed,true,false,false
+UA003143,17 Nov 24,14,GPHC,Royal Ave,No. 1,Thomas Doan,Luke Chapman,Thomas Doan,6-3,6,3,1,0,Completed,true,false,false
+UA003143,17 Nov 24,14,GPHC,Royal Ave,No. 2,Hugo Taylor,Kai Saxon,Kai Saxon,1-6,1,6,0,1,Completed,true,false,false
+UA003143,17 Nov 24,14,GPHC,Royal Ave,No. 3,Thomas Robertson-Brown,Nick Danaher,Thomas Robertson-Brown,7-5,7,5,1,0,Completed,true,false,false
+UA003143,17 Nov 24,14,GPHC,Royal Ave,No. 4,Patrick Cassidy,Jack Watson,Patrick Cassidy,6-2,6,2,1,0,Completed,true,false,false
+UA003144,17 Nov 24,14,Royal South Yarra,Le Page Green,No. 1,Boston Moran,Dane Lazic,Dane Lazic,1-6,1,6,0,1,Completed,true,false,false
+UA003144,17 Nov 24,14,Royal South Yarra,Le Page Green,No. 2,Adrian Borsaru,Aryan Singh,Adrian Borsaru,6-2,6,2,1,0,Completed,true,false,false
+UA003144,17 Nov 24,14,Royal South Yarra,Le Page Green,No. 3,Mara Tausan,James Polygenis,Mara Tausan,6-0,6,0,1,0,Completed,true,false,false
+UA003144,17 Nov 24,14,Royal South Yarra,Le Page Green,No. 4,Will Howitt,Alex Zhao,Alex Zhao,3-6,3,6,0,1,Completed,true,false,false
+UA003301,,16,Royal South Yarra,GPHC,No. 1,Boston Moran,Thomas Doan,Thomas Doan,1-6,1,6,0,1,Completed,true,false,false
+UA003301,,16,Royal South Yarra,GPHC,No. 2,Mara Tausan,Thomas Robertson-Brown,Mara Tausan,6-3,6,3,1,0,Completed,true,false,false
+UA003301,,16,Royal South Yarra,GPHC,No. 3,Will Howitt,Patrick Cassidy,Will Howitt,6-3,6,3,1,0,Completed,true,false,false
+UA003301,,16,Royal South Yarra,GPHC,No. 4,Will Steedman,Tahlia Zangalis,Will Steedman,6-4,6,4,1,0,Completed,true,true,true
+UA003302,,16,Kings Park,Le Page Green,No. 1,Mason Hancox,Dane Lazic,Mason Hancox,6-1,6,1,1,0,Completed,true,false,false
+UA003302,,16,Kings Park,Le Page Green,No. 2,Miles Hancox,James Polygenis,James Polygenis,1-6,1,6,0,1,Completed,true,false,false
+UA003302,,16,Kings Park,Le Page Green,No. 3,Cooper Graham,Aryan Singh,Aryan Singh,1-6,1,6,0,1,Completed,true,false,false
+UA003302,,16,Kings Park,Le Page Green,No. 4,Cooper Hodge,Alex Zhao,Cooper Hodge,6-1,6,1,1,0,Completed,true,false,false
+UA003321,,17,Royal South Yarra,Kings Park,No. 1,Boston Moran,Mason Hancox,Mason Hancox,2-6,2,6,0,1,Completed,true,false,false
+UA003321,,17,Royal South Yarra,Kings Park,No. 2,Adrian Borsaru,Miles Hancox,Miles Hancox,4-6,4,6,0,1,Completed,true,false,false
+UA003321,,17,Royal South Yarra,Kings Park,No. 3,Will Howitt,Cooper Graham,Cooper Graham,4-6,4,6,0,1,Completed,true,false,false
+UA003321,,17,Royal South Yarra,Kings Park,No. 4,Will Steedman,Cooper Hodge,Cooper Hodge,3-6,3,6,0,1,Completed,true,true,false

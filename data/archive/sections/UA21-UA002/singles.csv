@@ -1,0 +1,225 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA002011,23 Jul 17,1,Royal South Yarra 1,Royal South Yarra 2,No. 1,Henry Campbell,Tom Ritter,Tom Ritter,1-6,1,6,0,1,Completed,true,false,false
+UA002011,23 Jul 17,1,Royal South Yarra 1,Royal South Yarra 2,No. 2,Laura O'Farrell,Oscar Lynagh,Oscar Lynagh,0-6,0,6,0,1,Completed,true,false,false
+UA002011,23 Jul 17,1,Royal South Yarra 1,Royal South Yarra 2,No. 3,Hugo Druce,Bill Cameron,Bill Cameron,1-6,1,6,0,1,Completed,true,false,false
+UA002011,23 Jul 17,1,Royal South Yarra 1,Royal South Yarra 2,No. 4,[Unnamed player — TROLS UA002011 home code 4],Sinclair Mosley,Sinclair Mosley,0-6,0,6,0,1,Completed,false,false,false
+UA002012,23 Jul 17,1,BLTC 1,BLTC 2,No. 1,Christian Pilcher,Shinya Imazawa,Shinya Imazawa,4-6,4,6,0,1,Completed,true,false,false
+UA002012,23 Jul 17,1,BLTC 1,BLTC 2,No. 2,Matthew Doyle,Tom Shepherd,Tom Shepherd,2-6,2,6,0,1,Completed,true,false,false
+UA002012,23 Jul 17,1,BLTC 1,BLTC 2,No. 3,Darcy Henschke,Adam Halliday,Darcy Henschke,6-0,6,0,1,0,Completed,true,false,false
+UA002012,23 Jul 17,1,BLTC 1,BLTC 2,No. 4,Hugh Moir,Chris Green,Chris Green,3-6,3,6,0,1,Completed,true,false,false
+UA002013,23 Jul 17,1,Carmelite,Kooyong 1,No. 1,Lachlan Jones,Toby McOmish,Lachlan Jones,6-3,6,3,1,0,Completed,true,false,false
+UA002013,23 Jul 17,1,Carmelite,Kooyong 1,No. 2,Sait Parlic,Martin Buttery,Sait Parlic,6-1,6,1,1,0,Completed,true,false,false
+UA002013,23 Jul 17,1,Carmelite,Kooyong 1,No. 3,Oliver Jensz,Angus Cosgriff,Angus Cosgriff,1-6,1,6,0,1,Completed,true,false,false
+UA002013,23 Jul 17,1,Carmelite,Kooyong 1,No. 4,Andre Gregoriou,Conor Game,Conor Game,6-7,6,7,0,1,Completed,true,false,false
+UA002014,23 Jul 17,1,St Andrews MB RA,Kooyong 2,No. 1,Taro Hu,Phillip Mann-Segal,Phillip Mann-Segal,4-6,4,6,0,1,Completed,true,false,false
+UA002014,23 Jul 17,1,St Andrews MB RA,Kooyong 2,No. 2,Spencer Nevett,Patrick Wraith-Bell,Patrick Wraith-Bell,0-6,0,6,0,1,Completed,true,false,false
+UA002014,23 Jul 17,1,St Andrews MB RA,Kooyong 2,No. 3,Daniel Bates,Seamus Synnott,Seamus Synnott,2-6,2,6,0,1,Completed,true,false,false
+UA002014,23 Jul 17,1,St Andrews MB RA,Kooyong 2,No. 4,Tommy Sullivan-Dunne,Hudson Ciavarella,Tommy Sullivan-Dunne,6-0,6,0,1,0,Completed,true,false,false
+UA002021,30 Jul 17,2,Kooyong 2,Royal South Yarra 1,No. 1,Phillip Mann-Segal,Vivienne Johnston,Vivienne Johnston,5-7,5,7,0,1,Completed,true,false,false
+UA002021,30 Jul 17,2,Kooyong 2,Royal South Yarra 1,No. 2,Patrick Wraith-Bell,Henry Campbell,Patrick Wraith-Bell,6-3,6,3,1,0,Completed,true,false,false
+UA002021,30 Jul 17,2,Kooyong 2,Royal South Yarra 1,No. 3,Seamus Synnott,Laura O'Farrell,Seamus Synnott,6-3,6,3,1,0,Completed,true,false,false
+UA002021,30 Jul 17,2,Kooyong 2,Royal South Yarra 1,No. 4,Hudson Ciavarella,Sam McLean,Sam McLean,3-6,3,6,0,1,Completed,true,false,false
+UA002022,30 Jul 17,2,Royal South Yarra 2,BLTC 1,No. 1,Tom Ritter,Christian Pilcher,Tom Ritter,7-5,7,5,1,0,Completed,true,false,false
+UA002022,30 Jul 17,2,Royal South Yarra 2,BLTC 1,No. 2,Bill Cameron,Matthew Doyle,Matthew Doyle,3-6,3,6,0,1,Completed,true,false,false
+UA002022,30 Jul 17,2,Royal South Yarra 2,BLTC 1,No. 3,Sinclair Mosley,Darcy Henschke,Darcy Henschke,1-6,1,6,0,1,Completed,true,false,false
+UA002022,30 Jul 17,2,Royal South Yarra 2,BLTC 1,No. 4,Fleur Wackett,Hugh Moir,Hugh Moir,0-6,0,6,0,1,Completed,true,false,false
+UA002023,30 Jul 17,2,BLTC 2,Carmelite,No. 1,Tom Shepherd,Lachlan Jones,Tom Shepherd,6-1,6,1,1,0,Completed,true,false,false
+UA002023,30 Jul 17,2,BLTC 2,Carmelite,No. 2,Chris Green,Sait Parlic,Sait Parlic,1-6,1,6,0,1,Completed,true,false,false
+UA002023,30 Jul 17,2,BLTC 2,Carmelite,No. 3,Jamie Ray,Vincent MacDonald,Jamie Ray,6-2,6,2,1,0,Completed,true,false,false
+UA002023,30 Jul 17,2,BLTC 2,Carmelite,No. 4,Maddie French,Anders Costelloe,Maddie French,6-3,6,3,1,0,Completed,true,false,false
+UA002024,30 Jul 17,2,Kooyong 1,St Andrews MB RA,No. 1,Toby McOmish,Saskia Komljenovic,Saskia Komljenovic,4-6,4,6,0,1,Completed,true,false,false
+UA002024,30 Jul 17,2,Kooyong 1,St Andrews MB RA,No. 2,Martin Buttery,Spencer Nevett,Martin Buttery,6-2,6,2,1,0,Completed,true,false,false
+UA002024,30 Jul 17,2,Kooyong 1,St Andrews MB RA,No. 3,Conor Game,Daniel Bates,Conor Game,6-4,6,4,1,0,Completed,true,false,false
+UA002024,30 Jul 17,2,Kooyong 1,St Andrews MB RA,No. 4,Sam Palazzo,Tommy Sullivan-Dunne,Tommy Sullivan-Dunne,6-7,6,7,0,1,Completed,true,false,false
+UA002031,06 Aug 17,3,Royal South Yarra 1,Kooyong 1,No. 1,Vivienne Johnston,Toby McOmish,Toby McOmish,2-6,2,6,0,1,Completed,true,false,false
+UA002031,06 Aug 17,3,Royal South Yarra 1,Kooyong 1,No. 2,Henry Campbell,Angus Cosgriff,Henry Campbell,6-4,6,4,1,0,Completed,true,false,false
+UA002031,06 Aug 17,3,Royal South Yarra 1,Kooyong 1,No. 3,Laura O'Farrell,Jack Sorger,Jack Sorger,3-6,3,6,0,1,Completed,true,false,false
+UA002031,06 Aug 17,3,Royal South Yarra 1,Kooyong 1,No. 4,Hugo Druce,Sam Palazzo,Sam Palazzo,3-6,3,6,0,1,Completed,true,false,false
+UA002032,06 Aug 17,3,BLTC 1,Kooyong 2,No. 1,Christian Pilcher,Phillip Mann-Segal,Christian Pilcher,6-2,6,2,1,0,Completed,true,false,false
+UA002032,06 Aug 17,3,BLTC 1,Kooyong 2,No. 2,Darcy Henschke,Seamus Synnott,Darcy Henschke,6-3,6,3,1,0,Completed,true,false,false
+UA002032,06 Aug 17,3,BLTC 1,Kooyong 2,No. 3,Seb Zahra,Hudson Ciavarella,Seb Zahra,6-3,6,3,1,0,Completed,true,false,false
+UA002032,06 Aug 17,3,BLTC 1,Kooyong 2,No. 4,Hugh Moir,Jameson Lee,Jameson Lee,1-6,1,6,0,1,Completed,true,false,false
+UA002033,06 Aug 17,3,Carmelite,Royal South Yarra 2,No. 1,Lachlan Jones,Tom Ritter,Lachlan Jones,6-1,6,1,1,0,Completed,true,false,false
+UA002033,06 Aug 17,3,Carmelite,Royal South Yarra 2,No. 2,Sait Parlic,Bill Cameron,Sait Parlic,6-3,6,3,1,0,Completed,true,false,false
+UA002033,06 Aug 17,3,Carmelite,Royal South Yarra 2,No. 3,Vincent MacDonald,Sinclair Mosley,Vincent MacDonald,6-0,6,0,1,0,Completed,true,false,false
+UA002033,06 Aug 17,3,Carmelite,Royal South Yarra 2,No. 4,Andre Gregoriou,Fleur Wackett,Andre Gregoriou,6-0,6,0,1,0,Completed,true,false,false
+UA002034,06 Aug 17,3,St Andrews MB RA,BLTC 2,No. 1,Taro Hu,Shinya Imazawa,Taro Hu,6-1,6,1,1,0,Completed,true,false,false
+UA002034,06 Aug 17,3,St Andrews MB RA,BLTC 2,No. 2,Saskia Komljenovic,Tom Shepherd,Saskia Komljenovic,6-0,6,0,1,0,Completed,true,false,false
+UA002034,06 Aug 17,3,St Andrews MB RA,BLTC 2,No. 3,Daniel Bates,Bailey McLean,Daniel Bates,6-4,6,4,1,0,Completed,true,false,false
+UA002034,06 Aug 17,3,St Andrews MB RA,BLTC 2,No. 4,Tommy Sullivan-Dunne,Chris Green,Tommy Sullivan-Dunne,6-2,6,2,1,0,Completed,true,false,false
+UA002041,13 Aug 17,4,BLTC 2,Royal South Yarra 1,No. 1,Shinya Imazawa,Vivienne Johnston,Vivienne Johnston,3-6,3,6,0,1,Completed,true,false,false
+UA002041,13 Aug 17,4,BLTC 2,Royal South Yarra 1,No. 2,Tom Shepherd,Henry Campbell,Henry Campbell,4-6,4,6,0,1,Completed,true,false,false
+UA002041,13 Aug 17,4,BLTC 2,Royal South Yarra 1,No. 3,Bailey McLean,Sam McLean,Bailey McLean,6-3,6,3,1,0,Completed,true,false,false
+UA002041,13 Aug 17,4,BLTC 2,Royal South Yarra 1,No. 4,Adam Halliday,William Beaton,William Beaton,4-6,4,6,0,1,Completed,true,false,false
+UA002042,13 Aug 17,4,Kooyong 1,BLTC 1,No. 1,Martin Buttery,Christian Pilcher,Martin Buttery,6-3,6,3,1,0,Completed,true,false,false
+UA002042,13 Aug 17,4,Kooyong 1,BLTC 1,No. 2,Angus Cosgriff,Matthew Doyle,Angus Cosgriff,6-2,6,2,1,0,Completed,true,false,false
+UA002042,13 Aug 17,4,Kooyong 1,BLTC 1,No. 3,Conor Game,Hugh Moir,Hugh Moir,4-6,4,6,0,1,Completed,true,false,false
+UA002042,13 Aug 17,4,Kooyong 1,BLTC 1,No. 4,Sam Palazzo,Callum Matthews,Sam Palazzo,6-2,6,2,1,0,Completed,true,false,false
+UA002043,13 Aug 17,4,Kooyong 2,Carmelite,No. 1,Phillip Mann-Segal,Sait Parlic,Sait Parlic,3-6,3,6,0,1,Completed,true,false,false
+UA002043,13 Aug 17,4,Kooyong 2,Carmelite,No. 2,Patrick Wraith-Bell,Oliver Jensz,Oliver Jensz,3-6,3,6,0,1,Completed,true,false,false
+UA002043,13 Aug 17,4,Kooyong 2,Carmelite,No. 3,Linus Wraith-Bell,Vincent MacDonald,Vincent MacDonald,3-6,3,6,0,1,Completed,true,false,false
+UA002043,13 Aug 17,4,Kooyong 2,Carmelite,No. 4,Hudson Ciavarella,Anders Costelloe,Hudson Ciavarella,6-4,6,4,1,0,Completed,true,false,false
+UA002051,20 Aug 17,5,Carmelite,St Andrews MB RA,No. 1,Sait Parlic,Taro Hu,Taro Hu,3-6,3,6,0,1,Completed,true,false,false
+UA002051,20 Aug 17,5,Carmelite,St Andrews MB RA,No. 2,Oliver Jensz,Spencer Nevett,Spencer Nevett,1-6,1,6,0,1,Completed,true,false,false
+UA002051,20 Aug 17,5,Carmelite,St Andrews MB RA,No. 3,Vincent MacDonald,Daniel Bates,Vincent MacDonald,6-1,6,1,1,0,Completed,true,false,false
+UA002051,20 Aug 17,5,Carmelite,St Andrews MB RA,No. 4,Anders Costelloe,Tommy Sullivan-Dunne,Tommy Sullivan-Dunne,2-6,2,6,0,1,Completed,true,false,false
+UA002052,20 Aug 17,5,Kooyong 2,Kooyong 1,No. 1,Phillip Mann-Segal,Toby McOmish,Toby McOmish,1-6,1,6,0,1,Completed,true,false,false
+UA002052,20 Aug 17,5,Kooyong 2,Kooyong 1,No. 2,Patrick Wraith-Bell,Martin Buttery,Martin Buttery,4-6,4,6,0,1,Completed,true,false,false
+UA002052,20 Aug 17,5,Kooyong 2,Kooyong 1,No. 3,Seamus Synnott,Jack Sorger,Seamus Synnott,6-4,6,4,1,0,Completed,true,false,false
+UA002052,20 Aug 17,5,Kooyong 2,Kooyong 1,No. 4,Hudson Ciavarella,Sam Palazzo,Hudson Ciavarella,6-3,6,3,1,0,Completed,true,false,false
+UA002053,20 Aug 17,5,BLTC 2,Royal South Yarra 2,No. 1,Tom Shepherd,Tom Ritter,Tom Shepherd,6-2,6,2,1,0,Completed,true,false,false
+UA002053,20 Aug 17,5,BLTC 2,Royal South Yarra 2,No. 2,Bailey McLean,Bill Cameron,Bill Cameron,2-6,2,6,0,1,Completed,true,false,false
+UA002053,20 Aug 17,5,BLTC 2,Royal South Yarra 2,No. 3,Adam Halliday,Sinclair Mosley,Sinclair Mosley,6-7,6,7,0,1,Completed,true,false,false
+UA002053,20 Aug 17,5,BLTC 2,Royal South Yarra 2,No. 4,Chris Green,Lachlan Mailer,Chris Green,6-2,6,2,1,0,Completed,true,false,false
+UA002054,20 Aug 17,5,Royal South Yarra 1,BLTC 1,No. 1,Vivienne Johnston,Christian Pilcher,Christian Pilcher,3-6,3,6,0,1,Completed,true,false,false
+UA002054,20 Aug 17,5,Royal South Yarra 1,BLTC 1,No. 2,Henry Campbell,Darcy Henschke,Henry Campbell,6-3,6,3,1,0,Completed,true,false,false
+UA002054,20 Aug 17,5,Royal South Yarra 1,BLTC 1,No. 3,Laura O'Farrell,Seb Zahra,Laura O'Farrell,6-2,6,2,1,0,Completed,true,false,false
+UA002054,20 Aug 17,5,Royal South Yarra 1,BLTC 1,No. 4,Sam McLean,Hugh Moir,Sam McLean,6-3,6,3,1,0,Completed,true,false,false
+UA002061,27 Aug 17,6,BLTC 1,Carmelite,No. 1,Christian Pilcher,Sait Parlic,Sait Parlic,2-6,2,6,0,1,Completed,true,false,false
+UA002061,27 Aug 17,6,BLTC 1,Carmelite,No. 2,Darcy Henschke,Oliver Jensz,Oliver Jensz,1-6,1,6,0,1,Completed,true,false,false
+UA002061,27 Aug 17,6,BLTC 1,Carmelite,No. 3,Seb Zahra,Andre Gregoriou,Seb Zahra,6-1,6,1,1,0,Completed,true,false,false
+UA002061,27 Aug 17,6,BLTC 1,Carmelite,No. 4,Hugh Moir,Anders Costelloe,Anders Costelloe,2-6,2,6,0,1,Completed,true,false,false
+UA002062,27 Aug 17,6,St Andrews MB RA,Royal South Yarra 1,No. 1,Taro Hu,Vivienne Johnston,Taro Hu,6-3,6,3,1,0,Completed,true,false,false
+UA002062,27 Aug 17,6,St Andrews MB RA,Royal South Yarra 1,No. 2,Spencer Nevett,Henry Campbell,Henry Campbell,4-6,4,6,0,1,Completed,true,false,false
+UA002062,27 Aug 17,6,St Andrews MB RA,Royal South Yarra 1,No. 3,Daniel Bates,Laura O'Farrell,Daniel Bates,6-4,6,4,1,0,Completed,true,false,false
+UA002062,27 Aug 17,6,St Andrews MB RA,Royal South Yarra 1,No. 4,Mareclaire Mitrevski,Sam McLean,Sam McLean,2-6,2,6,0,1,Completed,true,false,false
+UA002063,27 Aug 17,6,Kooyong 1,BLTC 2,No. 1,Martin Buttery,Bailey McLean,Martin Buttery,6-2,6,2,1,0,Completed,true,false,false
+UA002063,27 Aug 17,6,Kooyong 1,BLTC 2,No. 2,Conor Game,Adam Halliday,Adam Halliday,2-6,2,6,0,1,Completed,true,false,false
+UA002064,27 Aug 17,6,Royal South Yarra 2,Kooyong 2,No. 1,Tom Ritter,Patrick Wraith-Bell,Tom Ritter,6-2,6,2,1,0,Completed,true,false,false
+UA002064,27 Aug 17,6,Royal South Yarra 2,Kooyong 2,No. 2,Harry R Cooper,Linus Wraith-Bell,Linus Wraith-Bell,2-6,2,6,0,1,Completed,true,false,false
+UA002064,27 Aug 17,6,Royal South Yarra 2,Kooyong 2,No. 3,Sinclair Mosley,Seamus Synnott,Sinclair Mosley,6-3,6,3,1,0,Completed,true,false,false
+UA002064,27 Aug 17,6,Royal South Yarra 2,Kooyong 2,No. 4,Lachlan Mailer,Hudson Ciavarella,Lachlan Mailer,6-3,6,3,1,0,Completed,true,false,false
+UA002071,03 Sep 17,7,Royal South Yarra 1,Carmelite,No. 1,Vivienne Johnston,Lachlan Jones,Lachlan Jones,4-6,4,6,0,1,Completed,true,false,false
+UA002071,03 Sep 17,7,Royal South Yarra 1,Carmelite,No. 2,Henry Campbell,Sait Parlic,Sait Parlic,4-6,4,6,0,1,Completed,true,false,false
+UA002071,03 Sep 17,7,Royal South Yarra 1,Carmelite,No. 3,Sam McLean,Vincent MacDonald,Sam McLean,7-5,7,5,1,0,Completed,true,false,false
+UA002071,03 Sep 17,7,Royal South Yarra 1,Carmelite,No. 4,Hugo Druce,Anders Costelloe,Hugo Druce,6-3,6,3,1,0,Completed,true,false,false
+UA002073,03 Sep 17,7,Kooyong 2,BLTC 2,No. 1,Patrick Wraith-Bell,Shinya Imazawa,Patrick Wraith-Bell,7-5,7,5,1,0,Completed,true,false,false
+UA002073,03 Sep 17,7,Kooyong 2,BLTC 2,No. 2,Linus Wraith-Bell,Tom Shepherd,Tom Shepherd,2-6,2,6,0,1,Completed,true,false,false
+UA002073,03 Sep 17,7,Kooyong 2,BLTC 2,No. 3,Seamus Synnott,Adam Halliday,Adam Halliday,0-6,0,6,0,1,Completed,true,false,false
+UA002073,03 Sep 17,7,Kooyong 2,BLTC 2,No. 4,Hudson Ciavarella,Chris Green,Chris Green,3-6,3,6,0,1,Completed,true,false,false
+UA002074,03 Sep 17,7,Kooyong 1,Royal South Yarra 2,No. 1,Toby McOmish,Tom Ritter,Toby McOmish,6-1,6,1,1,0,Completed,true,false,false
+UA002074,03 Sep 17,7,Kooyong 1,Royal South Yarra 2,No. 2,Martin Buttery,Harry R Cooper,Martin Buttery,6-2,6,2,1,0,Completed,true,false,false
+UA002074,03 Sep 17,7,Kooyong 1,Royal South Yarra 2,No. 3,Angus Cosgriff,Bill Cameron,Angus Cosgriff,6-0,6,0,1,0,Completed,true,false,false
+UA002074,03 Sep 17,7,Kooyong 1,Royal South Yarra 2,No. 4,Sam Palazzo,Lachlan Mailer,Lachlan Mailer,4-6,4,6,0,1,Completed,true,false,false
+UA002081,10 Sep 17,8,Royal South Yarra 2,Royal South Yarra 1,No. 1,Tom Ritter,Vivienne Johnston,Tom Ritter,6-4,6,4,1,0,Completed,true,false,false
+UA002081,10 Sep 17,8,Royal South Yarra 2,Royal South Yarra 1,No. 2,Harry R Cooper,Laura O'Farrell,Laura O'Farrell,2-6,2,6,0,1,Completed,true,false,false
+UA002081,10 Sep 17,8,Royal South Yarra 2,Royal South Yarra 1,No. 3,Sinclair Mosley,Sam McLean,Sam McLean,2-6,2,6,0,1,Completed,true,false,false
+UA002081,10 Sep 17,8,Royal South Yarra 2,Royal South Yarra 1,No. 4,Bill Cameron,Hugo Druce,Hugo Druce,0-6,0,6,0,1,Completed,true,false,false
+UA002082,10 Sep 17,8,BLTC 2,BLTC 1,No. 1,Shinya Imazawa,Christian Pilcher,Shinya Imazawa,6-4,6,4,1,0,Completed,true,false,false
+UA002082,10 Sep 17,8,BLTC 2,BLTC 1,No. 2,Bailey McLean,Matthew Doyle,Matthew Doyle,3-6,3,6,0,1,Completed,true,false,false
+UA002082,10 Sep 17,8,BLTC 2,BLTC 1,No. 3,Adam Halliday,Darcy Henschke,Adam Halliday,6-1,6,1,1,0,Completed,true,false,false
+UA002082,10 Sep 17,8,BLTC 2,BLTC 1,No. 4,Chris Green,Hugh Moir,Chris Green,6-4,6,4,1,0,Completed,true,false,false
+UA002083,10 Sep 17,8,Kooyong 1,Carmelite,No. 1,Toby McOmish,Lachlan Jones,Toby McOmish,7-5,7,5,1,0,Completed,true,false,false
+UA002083,10 Sep 17,8,Kooyong 1,Carmelite,No. 2,Angus Cosgriff,Oliver Jensz,Oliver Jensz,6-7,6,7,0,1,Completed,true,false,false
+UA002083,10 Sep 17,8,Kooyong 1,Carmelite,No. 3,Conor Game,Vincent MacDonald,Vincent MacDonald,3-6,3,6,0,1,Completed,true,false,false
+UA002083,10 Sep 17,8,Kooyong 1,Carmelite,No. 4,Jack Sorger,Anders Costelloe,Jack Sorger,6-2,6,2,1,0,Completed,true,false,false
+UA002084,10 Sep 17,8,Kooyong 2,St Andrews MB RA,No. 1,[Unnamed player — TROLS UA002084 home code 1],Taro Hu,Taro Hu,0-6,0,6,0,1,Completed,false,false,false
+UA002084,10 Sep 17,8,Kooyong 2,St Andrews MB RA,No. 2,Seamus Synnott,Daniel Bates,Seamus Synnott,4-3,4,3,1,0,Completed,false,false,false
+UA002091,17 Sep 17,9,Royal South Yarra 1,Kooyong 2,No. 1,Henry Campbell,Patrick Wraith-Bell,Patrick Wraith-Bell,2-6,2,6,0,1,Completed,true,false,false
+UA002091,17 Sep 17,9,Royal South Yarra 1,Kooyong 2,No. 2,Laura O'Farrell,Linus Wraith-Bell,Linus Wraith-Bell,4-6,4,6,0,1,Completed,true,false,false
+UA002091,17 Sep 17,9,Royal South Yarra 1,Kooyong 2,No. 3,Sam McLean,Seamus Synnott,Sam McLean,7-6,7,6,1,0,Completed,true,false,false
+UA002091,17 Sep 17,9,Royal South Yarra 1,Kooyong 2,No. 4,Hugo Druce,Hudson Ciavarella,Hudson Ciavarella,2-6,2,6,0,1,Completed,true,false,false
+UA002092,17 Sep 17,9,BLTC 1,Royal South Yarra 2,No. 1,Darcy Henschke,Harry R Cooper,Darcy Henschke,6-3,6,3,1,0,Completed,true,false,false
+UA002092,17 Sep 17,9,BLTC 1,Royal South Yarra 2,No. 2,Seb Zahra,Bill Cameron,Seb Zahra,6-0,6,0,1,0,Completed,true,false,false
+UA002092,17 Sep 17,9,BLTC 1,Royal South Yarra 2,No. 3,Hugh Moir,Sinclair Mosley,Hugh Moir,6-1,6,1,1,0,Completed,true,false,false
+UA002092,17 Sep 17,9,BLTC 1,Royal South Yarra 2,No. 4,Chris Green,Lachlan Mailer,Chris Green,6-2,6,2,1,0,Completed,true,false,false
+UA002093,17 Sep 17,9,Carmelite,BLTC 2,No. 1,Lachlan Jones,Shinya Imazawa,Shinya Imazawa,3-6,3,6,0,1,Completed,true,false,false
+UA002093,17 Sep 17,9,Carmelite,BLTC 2,No. 2,Sait Parlic,Tom Shepherd,Tom Shepherd,2-6,2,6,0,1,Completed,true,false,false
+UA002093,17 Sep 17,9,Carmelite,BLTC 2,No. 3,Oliver Jensz,Bailey McLean,Oliver Jensz,6-1,6,1,1,0,Completed,true,false,false
+UA002093,17 Sep 17,9,Carmelite,BLTC 2,No. 4,Andre Gregoriou,Adam Halliday,Adam Halliday,0-6,0,6,0,1,Completed,true,false,false
+UA002094,17 Sep 17,9,St Andrews MB RA,Kooyong 1,No. 1,Taro Hu,Martin Buttery,Martin Buttery,4-6,4,6,0,1,Completed,true,false,false
+UA002094,17 Sep 17,9,St Andrews MB RA,Kooyong 1,No. 2,Spencer Nevett,Angus Cosgriff,Angus Cosgriff,4-6,4,6,0,1,Completed,true,false,false
+UA002094,17 Sep 17,9,St Andrews MB RA,Kooyong 1,No. 3,Daniel Bates,Conor Game,Conor Game,3-6,3,6,0,1,Completed,true,false,false
+UA002094,17 Sep 17,9,St Andrews MB RA,Kooyong 1,No. 4,Tommy Sullivan-Dunne,Jack Sorger,Jack Sorger,6-7,6,7,0,1,Completed,true,false,false
+UA002101,15 Oct 17,10,Kooyong 1,Royal South Yarra 1,No. 1,Martin Buttery,Vivienne Johnston,Martin Buttery,6-2,6,2,1,0,Completed,true,false,false
+UA002101,15 Oct 17,10,Kooyong 1,Royal South Yarra 1,No. 2,Conor Game,Henry Campbell,Henry Campbell,4-6,4,6,0,1,Completed,true,false,false
+UA002101,15 Oct 17,10,Kooyong 1,Royal South Yarra 1,No. 3,Jack Sorger,Sam McLean,Jack Sorger,6-3,6,3,1,0,Completed,true,false,false
+UA002101,15 Oct 17,10,Kooyong 1,Royal South Yarra 1,No. 4,Sam Palazzo,Hugo Druce,Sam Palazzo,6-0,6,0,1,0,Completed,true,false,false
+UA002102,15 Oct 17,10,Kooyong 2,BLTC 1,No. 1,Phillip Mann-Segal,Christian Pilcher,Christian Pilcher,3-6,3,6,0,1,Completed,true,false,false
+UA002102,15 Oct 17,10,Kooyong 2,BLTC 1,No. 2,Patrick Wraith-Bell,Matthew Doyle,Matthew Doyle,6-7,6,7,0,1,Completed,true,false,false
+UA002102,15 Oct 17,10,Kooyong 2,BLTC 1,No. 3,Linus Wraith-Bell,Darcy Henschke,Linus Wraith-Bell,6-1,6,1,1,0,Completed,true,false,false
+UA002102,15 Oct 17,10,Kooyong 2,BLTC 1,No. 4,Seamus Synnott,Seb Zahra,Seb Zahra,5-7,5,7,0,1,Completed,true,false,false
+UA002103,15 Oct 17,10,Royal South Yarra 2,Carmelite,No. 1,Tom Ritter,Lachlan Jones,Lachlan Jones,2-6,2,6,0,1,Completed,true,false,false
+UA002103,15 Oct 17,10,Royal South Yarra 2,Carmelite,No. 2,Bill Cameron,Sait Parlic,Sait Parlic,0-6,0,6,0,1,Completed,true,false,false
+UA002103,15 Oct 17,10,Royal South Yarra 2,Carmelite,No. 3,Harry R Cooper,Vincent MacDonald,Vincent MacDonald,2-6,2,6,0,1,Completed,true,false,false
+UA002103,15 Oct 17,10,Royal South Yarra 2,Carmelite,No. 4,Lachlan Mailer,Andre Gregoriou,Andre Gregoriou,4-6,4,6,0,1,Completed,true,false,false
+UA002104,15 Oct 17,10,BLTC 2,St Andrews MB RA,No. 1,Shinya Imazawa,Taro Hu,Taro Hu,5-7,5,7,0,1,Completed,true,false,false
+UA002104,15 Oct 17,10,BLTC 2,St Andrews MB RA,No. 2,Tom Shepherd,Saskia Komljenovic,Tom Shepherd,6-4,6,4,1,0,Completed,true,false,false
+UA002104,15 Oct 17,10,BLTC 2,St Andrews MB RA,No. 3,Bailey McLean,Daniel Bates,Bailey McLean,6-3,6,3,1,0,Completed,true,false,false
+UA002104,15 Oct 17,10,BLTC 2,St Andrews MB RA,No. 4,Chris Green,Tommy Sullivan-Dunne,Chris Green,7-5,7,5,1,0,Completed,true,false,false
+UA002111,22 Oct 17,11,Royal South Yarra 1,BLTC 2,No. 1,Vivienne Johnston,Tom Shepherd,Tom Shepherd,1-6,1,6,0,1,Completed,true,false,false
+UA002111,22 Oct 17,11,Royal South Yarra 1,BLTC 2,No. 2,Henry Campbell,Bailey McLean,Bailey McLean,1-6,1,6,0,1,Completed,true,false,false
+UA002111,22 Oct 17,11,Royal South Yarra 1,BLTC 2,No. 3,Laura O'Farrell,Adam Halliday,Adam Halliday,0-6,0,6,0,1,Completed,true,false,false
+UA002111,22 Oct 17,11,Royal South Yarra 1,BLTC 2,No. 4,Hugo Druce,Chris Green,Hugo Druce,6-3,6,3,1,0,Completed,true,false,false
+UA002112,22 Oct 17,11,BLTC 1,Kooyong 1,No. 1,Christian Pilcher,Toby McOmish,Toby McOmish,2-6,2,6,0,1,Completed,true,false,false
+UA002112,22 Oct 17,11,BLTC 1,Kooyong 1,No. 2,Matthew Doyle,Martin Buttery,Martin Buttery,1-6,1,6,0,1,Completed,true,false,false
+UA002112,22 Oct 17,11,BLTC 1,Kooyong 1,No. 3,Seb Zahra,Jack Sorger,Jack Sorger,3-6,3,6,0,1,Completed,true,false,false
+UA002112,22 Oct 17,11,BLTC 1,Kooyong 1,No. 4,Hugh Moir,Sam Palazzo,Sam Palazzo,2-6,2,6,0,1,Completed,true,false,false
+UA002113,22 Oct 17,11,Carmelite,Kooyong 2,No. 1,Lachlan Jones,Phillip Mann-Segal,Lachlan Jones,6-1,6,1,1,0,Completed,true,false,false
+UA002113,22 Oct 17,11,Carmelite,Kooyong 2,No. 2,Sait Parlic,Patrick Wraith-Bell,Sait Parlic,7-5,7,5,1,0,Completed,true,false,false
+UA002113,22 Oct 17,11,Carmelite,Kooyong 2,No. 3,Vincent MacDonald,Seamus Synnott,Vincent MacDonald,6-3,6,3,1,0,Completed,true,false,false
+UA002113,22 Oct 17,11,Carmelite,Kooyong 2,No. 4,Andre Gregoriou,Hudson Ciavarella,Andre Gregoriou,6-2,6,2,1,0,Completed,true,false,false
+UA002114,22 Oct 17,11,St Andrews MB RA,Royal South Yarra 2,No. 1,Taro Hu,Tom Ritter,Tom Ritter,3-6,3,6,0,1,Completed,true,false,false
+UA002114,22 Oct 17,11,St Andrews MB RA,Royal South Yarra 2,No. 2,Saskia Komljenovic,Harry R Cooper,Saskia Komljenovic,6-1,6,1,1,0,Completed,true,false,false
+UA002114,22 Oct 17,11,St Andrews MB RA,Royal South Yarra 2,No. 3,Spencer Nevett,Sinclair Mosley,Sinclair Mosley,1-6,1,6,0,1,Completed,true,false,false
+UA002114,22 Oct 17,11,St Andrews MB RA,Royal South Yarra 2,No. 4,Tommy Sullivan-Dunne,Lachlan Mailer,Tommy Sullivan-Dunne,6-3,6,3,1,0,Completed,true,false,false
+UA002121,29 Oct 17,12,St Andrews MB RA,Carmelite,No. 1,Taro Hu,Sait Parlic,Sait Parlic,1-6,1,6,0,1,Completed,true,false,false
+UA002121,29 Oct 17,12,St Andrews MB RA,Carmelite,No. 2,Saskia Komljenovic,Oliver Jensz,Saskia Komljenovic,7-5,7,5,1,0,Completed,true,false,false
+UA002121,29 Oct 17,12,St Andrews MB RA,Carmelite,No. 3,Spencer Nevett,Andre Gregoriou,Spencer Nevett,6-4,6,4,1,0,Completed,true,false,false
+UA002121,29 Oct 17,12,St Andrews MB RA,Carmelite,No. 4,Daniel Bates,Anders Costelloe,Anders Costelloe,2-6,2,6,0,1,Completed,true,false,false
+UA002122,29 Oct 17,12,Kooyong 1,Kooyong 2,No. 1,Martin Buttery,Patrick Wraith-Bell,Martin Buttery,7-6,7,6,1,0,Completed,true,false,false
+UA002122,29 Oct 17,12,Kooyong 1,Kooyong 2,No. 2,Angus Cosgriff,Linus Wraith-Bell,Linus Wraith-Bell,3-6,3,6,0,1,Completed,true,false,false
+UA002122,29 Oct 17,12,Kooyong 1,Kooyong 2,No. 3,Conor Game,Seamus Synnott,Conor Game,6-3,6,3,1,0,Completed,true,false,false
+UA002122,29 Oct 17,12,Kooyong 1,Kooyong 2,No. 4,Sam Palazzo,Jameson Lee,Sam Palazzo,6-4,6,4,1,0,Completed,true,false,false
+UA002123,29 Oct 17,12,Royal South Yarra 2,BLTC 2,No. 1,Bill Cameron,Shinya Imazawa,Shinya Imazawa,3-6,3,6,0,1,Completed,true,false,false
+UA002123,29 Oct 17,12,Royal South Yarra 2,BLTC 2,No. 2,Harry R Cooper,Tom Shepherd,Tom Shepherd,2-6,2,6,0,1,Completed,true,false,false
+UA002123,29 Oct 17,12,Royal South Yarra 2,BLTC 2,No. 3,Sinclair Mosley,Bailey McLean,Bailey McLean,1-6,1,6,0,1,Completed,true,false,false
+UA002123,29 Oct 17,12,Royal South Yarra 2,BLTC 2,No. 4,Lachlan Mailer,Adam Halliday,Adam Halliday,4-6,4,6,0,1,Completed,true,false,false
+UA002124,29 Oct 17,12,BLTC 1,Royal South Yarra 1,No. 1,Matthew Doyle,Vivienne Johnston,Vivienne Johnston,6-7,6,7,0,1,Completed,true,false,false
+UA002124,29 Oct 17,12,BLTC 1,Royal South Yarra 1,No. 2,Darcy Henschke,Henry Campbell,Henry Campbell,6-7,6,7,0,1,Completed,true,false,false
+UA002124,29 Oct 17,12,BLTC 1,Royal South Yarra 1,No. 3,Seb Zahra,Sam McLean,Sam McLean,5-7,5,7,0,1,Completed,true,false,false
+UA002124,29 Oct 17,12,BLTC 1,Royal South Yarra 1,No. 4,Hugh Moir,Hugo Druce,Hugo Druce,4-6,4,6,0,1,Completed,true,false,false
+UA002131,12 Nov 17,13,Carmelite,BLTC 1,No. 1,Lachlan Jones,Christian Pilcher,Lachlan Jones,6-0,6,0,1,0,Completed,true,false,false
+UA002131,12 Nov 17,13,Carmelite,BLTC 1,No. 2,Vincent MacDonald,Matthew Doyle,Vincent MacDonald,6-1,6,1,1,0,Completed,true,false,false
+UA002131,12 Nov 17,13,Carmelite,BLTC 1,No. 3,Andre Gregoriou,Darcy Henschke,Darcy Henschke,3-6,3,6,0,1,Completed,true,false,false
+UA002131,12 Nov 17,13,Carmelite,BLTC 1,No. 4,Anders Costelloe,Hugh Moir,Hugh Moir,1-6,1,6,0,1,Completed,true,false,false
+UA002132,12 Nov 17,13,Royal South Yarra 1,St Andrews MB RA,No. 1,Vivienne Johnston,Taro Hu,Taro Hu,4-6,4,6,0,1,Completed,true,false,false
+UA002132,12 Nov 17,13,Royal South Yarra 1,St Andrews MB RA,No. 2,Laura O'Farrell,Saskia Komljenovic,Saskia Komljenovic,1-6,1,6,0,1,Completed,true,false,false
+UA002132,12 Nov 17,13,Royal South Yarra 1,St Andrews MB RA,No. 3,Sam McLean,Daniel Bates,Daniel Bates,2-6,2,6,0,1,Completed,true,false,false
+UA002132,12 Nov 17,13,Royal South Yarra 1,St Andrews MB RA,No. 4,Hugo Druce,Tommy Sullivan-Dunne,Tommy Sullivan-Dunne,2-6,2,6,0,1,Completed,true,false,false
+UA002133,12 Nov 17,13,BLTC 2,Kooyong 1,No. 1,Shinya Imazawa,Toby McOmish,Shinya Imazawa,7-5,7,5,1,0,Completed,true,false,false
+UA002133,12 Nov 17,13,BLTC 2,Kooyong 1,No. 2,Tom Shepherd,Martin Buttery,Martin Buttery,3-6,3,6,0,1,Completed,true,false,false
+UA002133,12 Nov 17,13,BLTC 2,Kooyong 1,No. 3,Adam Halliday,Conor Game,Adam Halliday,6-3,6,3,1,0,Completed,true,false,false
+UA002133,12 Nov 17,13,BLTC 2,Kooyong 1,No. 4,Chris Green,Jack Sorger,Jack Sorger,4-6,4,6,0,1,Completed,true,false,false
+UA002134,12 Nov 17,13,Kooyong 2,Royal South Yarra 2,No. 1,Patrick Wraith-Bell,Tom Ritter,Patrick Wraith-Bell,6-2,6,2,1,0,Completed,true,false,false
+UA002134,12 Nov 17,13,Kooyong 2,Royal South Yarra 2,No. 2,Seamus Synnott,Bill Cameron,Bill Cameron,0-6,0,6,0,1,Completed,true,false,false
+UA002134,12 Nov 17,13,Kooyong 2,Royal South Yarra 2,No. 3,Hudson Ciavarella,Sinclair Mosley,Sinclair Mosley,2-6,2,6,0,1,Completed,true,false,false
+UA002134,12 Nov 17,13,Kooyong 2,Royal South Yarra 2,No. 4,Gabriel Lennon,Lachlan Mailer,Gabriel Lennon,6-0,6,0,1,0,Completed,true,true,false
+UA002141,19 Nov 17,14,Carmelite,Royal South Yarra 1,No. 1,Sait Parlic,Vivienne Johnston,Sait Parlic,6-4,6,4,1,0,Completed,true,false,false
+UA002141,19 Nov 17,14,Carmelite,Royal South Yarra 1,No. 2,Vincent MacDonald,Laura O'Farrell,Vincent MacDonald,6-3,6,3,1,0,Completed,true,false,false
+UA002141,19 Nov 17,14,Carmelite,Royal South Yarra 1,No. 3,Andre Gregoriou,Sam McLean,Andre Gregoriou,7-5,7,5,1,0,Completed,true,false,false
+UA002141,19 Nov 17,14,Carmelite,Royal South Yarra 1,No. 4,Anders Costelloe,William Beaton,William Beaton,2-6,2,6,0,1,Completed,true,false,false
+UA002142,19 Nov 17,14,St Andrews MB RA,BLTC 1,No. 1,Taro Hu,Christian Pilcher,Taro Hu,6-4,6,4,1,0,Completed,true,false,false
+UA002142,19 Nov 17,14,St Andrews MB RA,BLTC 1,No. 2,Saskia Komljenovic,Matthew Doyle,Matthew Doyle,6-7,6,7,0,1,Completed,true,false,false
+UA002142,19 Nov 17,14,St Andrews MB RA,BLTC 1,No. 3,Spencer Nevett,Darcy Henschke,Darcy Henschke,3-6,3,6,0,1,Completed,true,false,false
+UA002142,19 Nov 17,14,St Andrews MB RA,BLTC 1,No. 4,Tommy Sullivan-Dunne,Hugh Moir,Tommy Sullivan-Dunne,6-4,6,4,1,0,Completed,true,false,false
+UA002143,19 Nov 17,14,BLTC 2,Kooyong 2,No. 1,Shinya Imazawa,Patrick Wraith-Bell,Shinya Imazawa,7-6,7,6,1,0,Completed,true,false,false
+UA002143,19 Nov 17,14,BLTC 2,Kooyong 2,No. 2,Bailey McLean,Linus Wraith-Bell,Linus Wraith-Bell,4-6,4,6,0,1,Completed,true,false,false
+UA002143,19 Nov 17,14,BLTC 2,Kooyong 2,No. 3,Adam Halliday,Seamus Synnott,Adam Halliday,6-1,6,1,1,0,Completed,true,false,false
+UA002143,19 Nov 17,14,BLTC 2,Kooyong 2,No. 4,Chris Green,Hudson Ciavarella,Chris Green,6-0,6,0,1,0,Completed,true,false,false
+UA002144,19 Nov 17,14,Royal South Yarra 2,Kooyong 1,No. 1,Tom Ritter,Martin Buttery,Martin Buttery,5-7,5,7,0,1,Completed,true,false,false
+UA002144,19 Nov 17,14,Royal South Yarra 2,Kooyong 1,No. 2,Bill Cameron,Angus Cosgriff,Bill Cameron,6-4,6,4,1,0,Completed,true,false,false
+UA002144,19 Nov 17,14,Royal South Yarra 2,Kooyong 1,No. 3,Sinclair Mosley,Jack Sorger,Jack Sorger,4-6,4,6,0,1,Completed,true,false,false
+UA002144,19 Nov 17,14,Royal South Yarra 2,Kooyong 1,No. 4,Lachlan Mailer,Sam Palazzo,Lachlan Mailer,6-3,6,3,1,0,Completed,true,false,false
+UA002301,,16,Kooyong 1,Carmelite,No. 1,Toby McOmish,Lachlan Jones,Lachlan Jones,2-6,2,6,0,1,Completed,true,false,false
+UA002301,,16,Kooyong 1,Carmelite,No. 2,Martin Buttery,Sait Parlic,Sait Parlic,5-7,5,7,0,1,Completed,true,false,false
+UA002301,,16,Kooyong 1,Carmelite,No. 3,Angus Cosgriff,Vincent MacDonald,Vincent MacDonald,2-6,2,6,0,1,Completed,true,false,false
+UA002301,,16,Kooyong 1,Carmelite,No. 4,Conor Game,Andre Gregoriou,Conor Game,6-3,6,3,1,0,Completed,true,false,false
+UA002302,,16,BLTC 2,St Andrews MB RA,No. 1,Tom Shepherd,Taro Hu,Tom Shepherd,6-2,6,2,1,0,Completed,true,false,false
+UA002302,,16,BLTC 2,St Andrews MB RA,No. 2,Bailey McLean,Saskia Komljenovic,Bailey McLean,6-4,6,4,1,0,Completed,true,false,false
+UA002302,,16,BLTC 2,St Andrews MB RA,No. 3,Adam Halliday,Spencer Nevett,Adam Halliday,6-0,6,0,1,0,Completed,true,false,false
+UA002302,,16,BLTC 2,St Andrews MB RA,No. 4,Chris Green,Tommy Sullivan-Dunne,Tommy Sullivan-Dunne,3-6,3,6,0,1,Completed,true,false,false
+UA002321,,17,BLTC 2,Carmelite,No. 1,Tom Shepherd,Lachlan Jones,Lachlan Jones,6-7,6,7,0,1,Completed,true,false,false
+UA002321,,17,BLTC 2,Carmelite,No. 2,Bailey McLean,Sait Parlic,Sait Parlic,1-6,1,6,0,1,Completed,true,false,false
+UA002321,,17,BLTC 2,Carmelite,No. 3,Adam Halliday,Oliver Jensz,Adam Halliday,6-1,6,1,1,0,Completed,true,false,false
+UA002321,,17,BLTC 2,Carmelite,No. 4,Chris Green,Vincent MacDonald,Vincent MacDonald,0-6,0,6,0,1,Completed,true,false,false

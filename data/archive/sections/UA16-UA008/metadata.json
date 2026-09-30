@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA16-UA008",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2015",
+  "season_id": "UA16",
+  "season_label": "Autumn 2015",
+  "source_section_code": "UA008",
+  "section_label": "Section 8",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Aspendale",
+      "wins": 10,
+      "points": 111.5,
+      "percentage": 188.14,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "BLTC",
+      "wins": 7,
+      "points": 88,
+      "percentage": 141.28,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Lauriston",
+      "wins": 6,
+      "points": 77,
+      "percentage": 116.06,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 6,
+      "points": 73,
+      "percentage": 102.96,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 5,
+      "points": 69,
+      "percentage": 90.0,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Murrumbeena",
+      "wins": 4,
+      "points": 56,
+      "percentage": 76.54,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 3,
+      "points": 52.5,
+      "percentage": 85.32,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Maccabi",
+      "wins": 1,
+      "points": 33,
+      "percentage": 55.56,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA16-UA008",
+  "fixtures": 59,
+  "completed_fixtures": 46,
+  "draw_fixtures": 59,
+  "singles_rubbers": 180,
+  "doubles_rubbers": 92,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

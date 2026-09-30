@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA18-UA005",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2016",
+  "season_id": "UA18",
+  "season_label": "Autumn 2016",
+  "source_section_code": "UA005",
+  "section_label": "Section 5",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong Scotch 2",
+      "wins": 12,
+      "points": 110,
+      "percentage": 146.34,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "BLTC 2",
+      "wins": 8,
+      "points": 84,
+      "percentage": 111.99,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "BLTC 1",
+      "wins": 8,
+      "points": 80.5,
+      "percentage": 108.64,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Dendy Park",
+      "wins": 6,
+      "points": 72,
+      "percentage": 105.51,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Coatesville",
+      "wins": 6,
+      "points": 64.5,
+      "percentage": 96.53,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Tennis World",
+      "wins": 4,
+      "points": 54,
+      "percentage": 83.38,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 3,
+      "points": 48,
+      "percentage": 77.6,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong Scotch 1",
+      "wins": 3,
+      "points": 47,
+      "percentage": 85.08,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA18-UA005",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 214,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

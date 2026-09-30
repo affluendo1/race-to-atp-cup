@@ -1,0 +1,56 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+AA012012,31 Jan 26,1,regular,Round 1,Ormond,Coatesville,3,7,3,3,,,22,23,Completed,
+AA012013,31 Jan 26,1,regular,Round 1,St James,Chelsea Heights,9,1,5,1,,,35,14,Completed,
+pending-aa012-r1-mordialloc-bye,31 Jan 26,1,regular,Round 1,Mordialloc,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-aa012-r1-port-melbourne-bltc,31 Jan 26,1,regular,Round 1,Port Melbourne,BLTC,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+AA012022,07 Feb 26,2,regular,Round 2,BLTC,Ormond,7,3,3,3,,,30,29,Completed,
+AA012023,07 Feb 26,2,regular,Round 2,Coatesville,St James,7,3,3,3,,,27,22,Completed,
+AA012024,07 Feb 26,2,regular,Round 2,Chelsea Heights,Mordialloc,2,8,2,4,,,16,29,Completed,
+pending-aa012-r2-bye-port-melbourne,07 Feb 26,2,regular,Round 2,Bye,Port Melbourne,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA012033,14 Feb 26,3,regular,Round 3,St James,BLTC,0,10,0,6,,,18,36,Completed,
+AA012034,14 Feb 26,3,regular,Round 3,Mordialloc,Coatesville,9,1,5,1,,,30,23,Completed,
+pending-aa012-r3-ormond-bye,14 Feb 26,3,regular,Round 3,Ormond,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-aa012-r3-port-melbourne-chelsea-heights,14 Feb 26,3,regular,Round 3,Port Melbourne,Chelsea Heights,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+AA012041,21 Feb 26,4,regular,Round 4,Coatesville,Port Melbourne,8.5,1.5,4,1,,,33,19,Completed,
+AA012042,21 Feb 26,4,regular,Round 4,Chelsea Heights,Ormond,1,9,1,5,,,9,33,Completed,
+AA012044,21 Feb 26,4,regular,Round 4,BLTC,Mordialloc,3,7,3,3,,,22,26,Completed,
+pending-aa012-r4-bye-st-james,21 Feb 26,4,regular,Round 4,Bye,St James,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA012051,28 Feb 26,5,regular,Round 5,St James,Mordialloc,2,8,2,4,,,25,30,Completed,
+AA012053,28 Feb 26,5,regular,Round 5,Coatesville,BLTC,1,9,1,5,,,13,31,Completed,
+AA012054,28 Feb 26,5,regular,Round 5,Port Melbourne,Ormond,2,8,2,4,,,18,32,Completed,
+pending-aa012-r5-bye-chelsea-heights,28 Feb 26,5,regular,Round 5,Bye,Chelsea Heights,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA012061,14 Mar 26,6,regular,Round 6,Ormond,St James,8,2,4,2,,,32,22,Completed,
+AA012062,14 Mar 26,6,regular,Round 6,Mordialloc,Port Melbourne,8,2,4,2,,,29,18,Completed,
+AA012063,14 Mar 26,6,regular,Round 6,Chelsea Heights,Coatesville,0,10,0,6,,,10,36,Completed,
+pending-aa012-r6-bltc-bye,14 Mar 26,6,regular,Round 6,BLTC,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA012071,21 Mar 26,7,regular,Round 7,Port Melbourne,St James,2,8,2,4,,,19,28,Completed,
+AA012072,21 Mar 26,7,regular,Round 7,Ormond,Mordialloc,3,7,3,3,,,26,27,Completed,
+AA012074,21 Mar 26,7,regular,Round 7,Chelsea Heights,BLTC,0,10,0,6,,,7,36,Completed,
+pending-aa012-r7-bye-coatesville,21 Mar 26,7,regular,Round 7,Bye,Coatesville,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA012081,28 Mar 26,8,regular,Round 8,BLTC,Port Melbourne,9.5,0.5,5,0,,,35,12,Completed,
+AA012082,28 Mar 26,8,regular,Round 8,Coatesville,Ormond,7,3,3,3,,,24,22,Completed,
+AA012083,28 Mar 26,8,regular,Round 8,Chelsea Heights,St James,0,10,0,6,,,8,36,Completed,
+pending-aa012-r8-bye-mordialloc,28 Mar 26,8,regular,Round 8,Bye,Mordialloc,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA012093,02 May 26,9,regular,Round 9,St James,Coatesville,2,8,2,4,,,22,31,Completed,
+AA012094,02 May 26,9,regular,Round 9,Mordialloc,Chelsea Heights,10,0,6,0,,,36,14,Completed,
+pending-aa012-r9-ormond-bltc,02 May 26,9,regular,Round 9,Ormond,BLTC,,,,,,,,,Forfeited To,No individual scorecard / no rubbers recorded
+pending-aa012-r9-port-melbourne-bye,02 May 26,9,regular,Round 9,Port Melbourne,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA012101,09 May 26,10,regular,Round 10,Chelsea Heights,Port Melbourne,2,8,2,4,,,19,30,Completed,
+AA012103,09 May 26,10,regular,Round 10,BLTC,St James,9,1,5,1,,,32,16,Completed,
+AA012104,09 May 26,10,regular,Round 10,Coatesville,Mordialloc,2,8,2,4,,,22,30,Completed,
+pending-aa012-r10-bye-ormond,09 May 26,10,regular,Round 10,Bye,Ormond,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA012111,16 May 26,11,regular,Round 11,Port Melbourne,Coatesville,0,10,0,6,,,14,36,Completed,
+AA012112,16 May 26,11,regular,Round 11,Ormond,Chelsea Heights,10,0,6,0,,,36,6,Completed,
+AA012114,16 May 26,11,regular,Round 11,Mordialloc,BLTC,1,9,1,5,,,16,35,Completed,
+pending-aa012-r11-st-james-bye,16 May 26,11,regular,Round 11,St James,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA012121,23 May 26,12,regular,Round 12,Mordialloc,St James,2,8,2,4,,,24,28,Completed,
+AA012123,23 May 26,12,regular,Round 12,BLTC,Coatesville,9,1,5,1,,,30,15,Completed,
+AA012124,23 May 26,12,regular,Round 12,Ormond,Port Melbourne,8,2,4,2,,,27,22,Completed,
+pending-aa012-r12-chelsea-heights-bye,23 May 26,12,regular,Round 12,Chelsea Heights,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA012131,30 May 26,13,regular,Round 13,St James,Ormond,8,2,4,2,,,28,23,Completed,
+AA012132,30 May 26,13,regular,Round 13,Port Melbourne,Mordialloc,1,9,1,5,,,19,34,Completed,
+AA012133,30 May 26,13,regular,Round 13,Coatesville,Chelsea Heights,9,1,5,1,,,33,14,Completed,
+pending-aa012-r13-bye-bltc,30 May 26,13,regular,Round 13,Bye,BLTC,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+AA012301,,16,semi_final,Semi-final,BLTC,Ormond,8,2,4,2,,,32,20,Completed,
+AA012302,,16,semi_final,Semi-final,Mordialloc,Coatesville,8,2,4,2,,,31,25,Completed,
+AA012321,,17,grand_final,Grand final · TROLS entry 2,BLTC,Mordialloc,9,1,5,1,,,35,18,Completed,

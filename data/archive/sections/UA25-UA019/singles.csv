@@ -1,0 +1,221 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA019011,21 Jul 19,1,Sandringham,Dendy Park,No. 1,Nate Woff,Lila Glenane,Nate Woff,6-2,6,2,1,0,Completed,true,false,false
+UA019011,21 Jul 19,1,Sandringham,Dendy Park,No. 2,Danko Kovacevic,Nicola Vine,Danko Kovacevic,6-3,6,3,1,0,Completed,true,false,false
+UA019011,21 Jul 19,1,Sandringham,Dendy Park,No. 3,Sunny King,Charlotte O'Brien,Sunny King,6-2,6,2,1,0,Completed,true,false,false
+UA019011,21 Jul 19,1,Sandringham,Dendy Park,No. 4,Luca Galloway,Tiffany Nikolakopoulos,Luca Galloway,6-2,6,2,1,0,Completed,true,false,false
+UA019012,21 Jul 19,1,Aspendale,Lauriston,No. 1,Andrew Sleserev,Naineishia Kota,Naineishia Kota,6-7,6,7,0,1,Completed,true,false,false
+UA019012,21 Jul 19,1,Aspendale,Lauriston,No. 2,Lisa Jawalekar,Tate Nguyen,Lisa Jawalekar,7-5,7,5,1,0,Completed,true,false,false
+UA019012,21 Jul 19,1,Aspendale,Lauriston,No. 3,Pip Jawalekar,Kristine Dodd,Pip Jawalekar,6-1,6,1,1,0,Completed,true,false,false
+UA019012,21 Jul 19,1,Aspendale,Lauriston,No. 4,Harley Miller,Noam Hoffman,Harley Miller,6-4,6,4,1,0,Completed,true,false,false
+UA019013,21 Jul 19,1,Highmoor Uniting,Murrumbeena,No. 1,Ryan Holmes,Oliver Huggins,Oliver Huggins,1-6,1,6,0,1,Completed,true,false,false
+UA019013,21 Jul 19,1,Highmoor Uniting,Murrumbeena,No. 2,Lazar Suluburic,Aodhan Monteiro,Lazar Suluburic,6-3,6,3,1,0,Completed,true,false,false
+UA019013,21 Jul 19,1,Highmoor Uniting,Murrumbeena,No. 3,Luka Suluburic,Arya Bet,Arya Bet,4-6,4,6,0,1,Completed,true,false,false
+UA019013,21 Jul 19,1,Highmoor Uniting,Murrumbeena,No. 4,Jackson Ralph,Sachith Meela,Jackson Ralph,6-3,6,3,1,0,Completed,true,false,false
+UA019014,21 Jul 19,1,Highett,Kooyong Xavier,No. 1,Chelsea Andrews,Zoe Kinsella,Chelsea Andrews,6-0,6,0,1,0,Completed,true,false,false
+UA019014,21 Jul 19,1,Highett,Kooyong Xavier,No. 2,Angelica Cozijnsen,Hannah Minc,Angelica Cozijnsen,6-2,6,2,1,0,Completed,true,false,false
+UA019014,21 Jul 19,1,Highett,Kooyong Xavier,No. 3,Alex McEvoy,Niamh Game,Alex McEvoy,7-6,7,6,1,0,Completed,true,false,false
+UA019014,21 Jul 19,1,Highett,Kooyong Xavier,No. 4,Josie Inserra,Neomie Game,Neomie Game,2-6,2,6,0,1,Completed,true,false,false
+UA019021,28 Jul 19,2,Kooyong Xavier,Sandringham,No. 1,Zoe Kinsella,Nate Woff,Nate Woff,4-6,4,6,0,1,Completed,true,false,false
+UA019021,28 Jul 19,2,Kooyong Xavier,Sandringham,No. 2,Stella Jesaduson,Danko Kovacevic,Danko Kovacevic,4-6,4,6,0,1,Completed,true,false,false
+UA019021,28 Jul 19,2,Kooyong Xavier,Sandringham,No. 3,Hannah Minc,Sunny King,Hannah Minc,6-2,6,2,1,0,Completed,true,false,false
+UA019021,28 Jul 19,2,Kooyong Xavier,Sandringham,No. 4,India McKinnon,Mia Daniell,India McKinnon,6-3,6,3,1,0,Completed,true,false,false
+UA019022,28 Jul 19,2,Dendy Park,Aspendale,No. 1,Abbie Noble,Andrew Sleserev,Andrew Sleserev,1-6,1,6,0,1,Completed,true,false,false
+UA019022,28 Jul 19,2,Dendy Park,Aspendale,No. 2,Indigo Jellis,Lisa Jawalekar,Indigo Jellis,6-4,6,4,1,0,Completed,true,false,false
+UA019022,28 Jul 19,2,Dendy Park,Aspendale,No. 3,Nicola Vine,Pip Jawalekar,Pip Jawalekar,3-6,3,6,0,1,Completed,true,false,false
+UA019022,28 Jul 19,2,Dendy Park,Aspendale,No. 4,Charlotte O'Brien,Harley Miller,Harley Miller,1-6,1,6,0,1,Completed,true,false,false
+UA019023,28 Jul 19,2,Lauriston,Highmoor Uniting,No. 1,Lucy Ackland,Ryan Holmes,Ryan Holmes,1-6,1,6,0,1,Completed,true,false,false
+UA019023,28 Jul 19,2,Lauriston,Highmoor Uniting,No. 2,Tate Nguyen,Lazar Suluburic,Tate Nguyen,6-3,6,3,1,0,Completed,true,false,false
+UA019023,28 Jul 19,2,Lauriston,Highmoor Uniting,No. 3,Elliott Davis,Jackson Ralph,Jackson Ralph,2-6,2,6,0,1,Completed,true,false,false
+UA019023,28 Jul 19,2,Lauriston,Highmoor Uniting,No. 4,Noam Hoffman,Abigail Bligh,Abigail Bligh,1-6,1,6,0,1,Completed,true,false,false
+UA019024,28 Jul 19,2,Murrumbeena,Highett,No. 1,Oliver Huggins,Angelica Cozijnsen,Angelica Cozijnsen,2-6,2,6,0,1,Completed,true,false,false
+UA019024,28 Jul 19,2,Murrumbeena,Highett,No. 2,Aodhan Monteiro,Flora Bacskai,Aodhan Monteiro,6-2,6,2,1,0,Completed,true,false,false
+UA019024,28 Jul 19,2,Murrumbeena,Highett,No. 3,Arya Bet,Alex McEvoy,Arya Bet,6-0,6,0,1,0,Completed,true,false,false
+UA019024,28 Jul 19,2,Murrumbeena,Highett,No. 4,Sachith Meela,Josie Inserra,Sachith Meela,6-1,6,1,1,0,Completed,true,false,false
+UA019031,04 Aug 19,3,Sandringham,Murrumbeena,No. 1,Nate Woff,Oliver Huggins,Nate Woff,6-1,6,1,1,0,Completed,true,false,false
+UA019031,04 Aug 19,3,Sandringham,Murrumbeena,No. 2,Danko Kovacevic,Aodhan Monteiro,Aodhan Monteiro,0-6,0,6,0,1,Completed,true,false,false
+UA019031,04 Aug 19,3,Sandringham,Murrumbeena,No. 3,Sunny King,Arya Bet,Arya Bet,3-6,3,6,0,1,Completed,true,false,false
+UA019031,04 Aug 19,3,Sandringham,Murrumbeena,No. 4,Mia Daniell,Sachith Meela,Sachith Meela,4-6,4,6,0,1,Completed,true,false,false
+UA019032,04 Aug 19,3,Aspendale,Kooyong Xavier,No. 1,Andrew Sleserev,Stella Jesaduson,Andrew Sleserev,6-3,6,3,1,0,Completed,true,false,false
+UA019032,04 Aug 19,3,Aspendale,Kooyong Xavier,No. 2,Lisa Jawalekar,Hannah Minc,Lisa Jawalekar,6-2,6,2,1,0,Completed,true,false,false
+UA019032,04 Aug 19,3,Aspendale,Kooyong Xavier,No. 3,Pip Jawalekar,Niamh Game,Pip Jawalekar,6-0,6,0,1,0,Completed,true,false,false
+UA019032,04 Aug 19,3,Aspendale,Kooyong Xavier,No. 4,Harley Miller,Neomie Game,Harley Miller,7-5,7,5,1,0,Completed,true,false,false
+UA019033,04 Aug 19,3,Highmoor Uniting,Dendy Park,No. 1,Ryan Holmes,[Unnamed player — TROLS UA019033 away code 1],Ryan Holmes,6-0,6,0,1,0,Completed,false,false,false
+UA019033,04 Aug 19,3,Highmoor Uniting,Dendy Park,No. 2,Lazar Suluburic,Nicola Vine,Nicola Vine,5-7,5,7,0,1,Completed,true,false,false
+UA019033,04 Aug 19,3,Highmoor Uniting,Dendy Park,No. 3,Luka Suluburic,Charlotte O'Brien,Luka Suluburic,6-1,6,1,1,0,Completed,true,false,false
+UA019033,04 Aug 19,3,Highmoor Uniting,Dendy Park,No. 4,Jackson Ralph,Tiffany Nikolakopoulos,Jackson Ralph,6-1,6,1,1,0,Completed,true,false,false
+UA019034,04 Aug 19,3,Highett,Lauriston,No. 1,Angelica Cozijnsen,Naineishia Kota,Angelica Cozijnsen,7-6,7,6,1,0,Completed,true,false,false
+UA019034,04 Aug 19,3,Highett,Lauriston,No. 2,Flora Bacskai,Tate Nguyen,Tate Nguyen,0-6,0,6,0,1,Completed,true,false,false
+UA019034,04 Aug 19,3,Highett,Lauriston,No. 3,Alex McEvoy,Elliott Davis,Elliott Davis,2-6,2,6,0,1,Completed,true,false,false
+UA019034,04 Aug 19,3,Highett,Lauriston,No. 4,Josie Inserra,Kristine Dodd,Kristine Dodd,1-6,1,6,0,1,Completed,true,false,false
+UA019051,18 Aug 19,5,Highmoor Uniting,Highett,No. 1,Ryan Holmes,Flora Bacskai,Flora Bacskai,2-6,2,6,0,1,Completed,true,false,false
+UA019051,18 Aug 19,5,Highmoor Uniting,Highett,No. 2,Jackson Ralph,Alessia Cozijnsen,Jackson Ralph,7-5,7,5,1,0,Completed,true,false,false
+UA019051,18 Aug 19,5,Highmoor Uniting,Highett,No. 3,Abigail Bligh,Alex McEvoy,Abigail Bligh,6-0,6,0,1,0,Completed,true,false,false
+UA019051,18 Aug 19,5,Highmoor Uniting,Highett,No. 4,Leon Thomas,Josie Inserra,Josie Inserra,5-7,5,7,0,1,Completed,true,false,false
+UA019052,18 Aug 19,5,Kooyong Xavier,Murrumbeena,No. 1,Zoe Kinsella,Oliver Huggins,Oliver Huggins,1-6,1,6,0,1,Completed,true,false,false
+UA019052,18 Aug 19,5,Kooyong Xavier,Murrumbeena,No. 2,Hannah Minc,Patrick Mills,Patrick Mills,1-6,1,6,0,1,Completed,true,false,false
+UA019052,18 Aug 19,5,Kooyong Xavier,Murrumbeena,No. 3,India McKinnon,Sachith Meela,Sachith Meela,4-6,4,6,0,1,Completed,true,false,false
+UA019052,18 Aug 19,5,Kooyong Xavier,Murrumbeena,No. 4,Neomie Game,Arya Bet,Arya Bet,3-6,3,6,0,1,Completed,true,false,false
+UA019053,18 Aug 19,5,Lauriston,Dendy Park,No. 1,Naineishia Kota,Abbie Noble,Naineishia Kota,6-2,6,2,1,0,Completed,true,false,false
+UA019053,18 Aug 19,5,Lauriston,Dendy Park,No. 2,Tate Nguyen,Indigo Jellis,Tate Nguyen,6-0,6,0,1,0,Completed,true,false,false
+UA019053,18 Aug 19,5,Lauriston,Dendy Park,No. 3,Kristine Dodd,Nicola Vine,Kristine Dodd,6-3,6,3,1,0,Completed,true,false,false
+UA019053,18 Aug 19,5,Lauriston,Dendy Park,No. 4,Noam Hoffman,Charlotte O'Brien,Noam Hoffman,6-2,6,2,1,0,Completed,true,false,false
+UA019054,18 Aug 19,5,Sandringham,Aspendale,No. 1,Nate Woff,Andrew Sleserev,Nate Woff,6-1,6,1,1,0,Completed,true,false,false
+UA019054,18 Aug 19,5,Sandringham,Aspendale,No. 2,Danko Kovacevic,Lisa Jawalekar,Danko Kovacevic,6-3,6,3,1,0,Completed,true,false,false
+UA019054,18 Aug 19,5,Sandringham,Aspendale,No. 3,Mia Daniell,Pip Jawalekar,Pip Jawalekar,1-6,1,6,0,1,Completed,true,false,false
+UA019054,18 Aug 19,5,Sandringham,Aspendale,No. 4,[Unnamed player — TROLS UA019054 home code 4],Harley Miller,Harley Miller,0-6,0,6,0,1,Completed,false,false,false
+UA019061,25 Aug 19,6,Aspendale,Highmoor Uniting,No. 1,Andrew Sleserev,Ryan Holmes,Andrew Sleserev,6-0,6,0,1,0,Completed,true,false,false
+UA019061,25 Aug 19,6,Aspendale,Highmoor Uniting,No. 2,Pip Jawalekar,Jackson Ralph,Jackson Ralph,1-6,1,6,0,1,Completed,true,false,false
+UA019061,25 Aug 19,6,Aspendale,Highmoor Uniting,No. 3,Harley Miller,Abigail Bligh,Abigail Bligh,2-6,2,6,0,1,Completed,true,false,false
+UA019061,25 Aug 19,6,Aspendale,Highmoor Uniting,No. 4,Beau Miller,Veer Mehta,Beau Miller,7-5,7,5,1,0,Completed,true,false,false
+UA019062,25 Aug 19,6,Highett,Sandringham,No. 1,Flora Bacskai,Nate Woff,Nate Woff,0-6,0,6,0,1,Completed,true,false,false
+UA019062,25 Aug 19,6,Highett,Sandringham,No. 2,Alessia Cozijnsen,Danko Kovacevic,Danko Kovacevic,3-6,3,6,0,1,Completed,true,false,false
+UA019062,25 Aug 19,6,Highett,Sandringham,No. 3,Alex McEvoy,Sunny King,Sunny King,2-6,2,6,0,1,Completed,true,false,false
+UA019062,25 Aug 19,6,Highett,Sandringham,No. 4,Josie Inserra,Mia Daniell,Josie Inserra,6-4,6,4,1,0,Completed,true,false,false
+UA019063,25 Aug 19,6,Murrumbeena,Lauriston,No. 1,Jamie Ubachs,Naineishia Kota,Jamie Ubachs,6-1,6,1,1,0,Completed,true,false,false
+UA019063,25 Aug 19,6,Murrumbeena,Lauriston,No. 2,Oliver Huggins,Lucy Ackland,Oliver Huggins,6-3,6,3,1,0,Completed,true,false,false
+UA019063,25 Aug 19,6,Murrumbeena,Lauriston,No. 3,Aodhan Monteiro,Elliott Davis,Aodhan Monteiro,6-3,6,3,1,0,Completed,true,false,false
+UA019063,25 Aug 19,6,Murrumbeena,Lauriston,No. 4,Patrick Mills,Kristine Dodd,Patrick Mills,6-1,6,1,1,0,Completed,true,false,false
+UA019064,25 Aug 19,6,Dendy Park,Kooyong Xavier,No. 1,Abbie Noble,Zoe Kinsella,Abbie Noble,6-3,6,3,1,0,Completed,true,false,false
+UA019064,25 Aug 19,6,Dendy Park,Kooyong Xavier,No. 2,Indigo Jellis,Hannah Minc,Indigo Jellis,6-3,6,3,1,0,Completed,true,false,false
+UA019064,25 Aug 19,6,Dendy Park,Kooyong Xavier,No. 3,Charlotte O'Brien,Niamh Game,Charlotte O'Brien,6-4,6,4,1,0,Completed,true,false,false
+UA019064,25 Aug 19,6,Dendy Park,Kooyong Xavier,No. 4,Tiffany Nikolakopoulos,Tom Burrell,Tom Burrell,0-6,0,6,0,1,Completed,true,false,false
+UA019071,01 Sep 19,7,Sandringham,Highmoor Uniting,No. 1,Nate Woff,Erik Bucko,Nate Woff,6-3,6,3,1,0,Completed,true,false,false
+UA019071,01 Sep 19,7,Sandringham,Highmoor Uniting,No. 2,Olivia Foster,Ryan Holmes,Ryan Holmes,1-6,1,6,0,1,Completed,true,false,false
+UA019071,01 Sep 19,7,Sandringham,Highmoor Uniting,No. 3,Mia Daniell,Jackson Ralph,Jackson Ralph,3-6,3,6,0,1,Completed,true,false,false
+UA019071,01 Sep 19,7,Sandringham,Highmoor Uniting,No. 4,Byron Castello,Leon Thomas,Byron Castello,6-3,6,3,1,0,Completed,true,false,false
+UA019072,01 Sep 19,7,Aspendale,Highett,No. 1,Andrew Sleserev,Flora Bacskai,Andrew Sleserev,6-1,6,1,1,0,Completed,true,false,false
+UA019072,01 Sep 19,7,Aspendale,Highett,No. 2,Harley Miller,Alessia Cozijnsen,Alessia Cozijnsen,2-6,2,6,0,1,Completed,true,false,false
+UA019072,01 Sep 19,7,Aspendale,Highett,No. 3,Beau Miller,Alex McEvoy,Beau Miller,6-3,6,3,1,0,Completed,true,false,false
+UA019072,01 Sep 19,7,Aspendale,Highett,No. 4,Elliott Fairlie,Josie Inserra,Elliott Fairlie,6-3,6,3,1,0,Completed,true,false,false
+UA019073,01 Sep 19,7,Kooyong Xavier,Lauriston,No. 1,Stella Jesaduson,Naineishia Kota,Naineishia Kota,0-6,0,6,0,1,Completed,true,false,false
+UA019073,01 Sep 19,7,Kooyong Xavier,Lauriston,No. 2,Hannah Minc,Lucy Ackland,Lucy Ackland,6-7,6,7,0,1,Completed,true,false,false
+UA019073,01 Sep 19,7,Kooyong Xavier,Lauriston,No. 3,Niamh Game,Tate Nguyen,Tate Nguyen,1-6,1,6,0,1,Completed,true,false,false
+UA019073,01 Sep 19,7,Kooyong Xavier,Lauriston,No. 4,India McKinnon,Noam Hoffman,India McKinnon,6-0,6,0,1,0,Completed,true,false,false
+UA019074,01 Sep 19,7,Murrumbeena,Dendy Park,No. 1,Oliver Huggins,Abbie Noble,Oliver Huggins,6-1,6,1,1,0,Completed,true,false,false
+UA019074,01 Sep 19,7,Murrumbeena,Dendy Park,No. 2,Aodhan Monteiro,[Unnamed player — TROLS UA019074 away code 2],Aodhan Monteiro,6-0,6,0,1,0,Completed,false,false,false
+UA019074,01 Sep 19,7,Murrumbeena,Dendy Park,No. 3,Patrick Mills,Nicola Vine,Patrick Mills,6-0,6,0,1,0,Completed,true,false,false
+UA019074,01 Sep 19,7,Murrumbeena,Dendy Park,No. 4,Arya Bet,Charlotte O'Brien,Arya Bet,6-2,6,2,1,0,Completed,true,false,false
+UA019081,08 Sep 19,8,Dendy Park,Sandringham,No. 1,Abbie Noble,Nate Woff,Nate Woff,1-6,1,6,0,1,Completed,true,false,false
+UA019081,08 Sep 19,8,Dendy Park,Sandringham,No. 2,Indigo Jellis,Danko Kovacevic,Danko Kovacevic,2-6,2,6,0,1,Completed,true,false,false
+UA019081,08 Sep 19,8,Dendy Park,Sandringham,No. 3,Charlotte O'Brien,Sunny King,Sunny King,6-7,6,7,0,1,Completed,true,false,false
+UA019081,08 Sep 19,8,Dendy Park,Sandringham,No. 4,[Unnamed player — TROLS UA019081 home code 4],Byron Castello,Byron Castello,0-6,0,6,0,1,Completed,false,false,false
+UA019082,08 Sep 19,8,Lauriston,Aspendale,No. 1,Naineishia Kota,Andrew Sleserev,Andrew Sleserev,6-7,6,7,0,1,Completed,true,false,false
+UA019082,08 Sep 19,8,Lauriston,Aspendale,No. 2,Lucy Ackland,Lisa Jawalekar,Lisa Jawalekar,3-6,3,6,0,1,Completed,true,false,false
+UA019082,08 Sep 19,8,Lauriston,Aspendale,No. 3,Tate Nguyen,Pip Jawalekar,Pip Jawalekar,6-7,6,7,0,1,Completed,true,false,false
+UA019082,08 Sep 19,8,Lauriston,Aspendale,No. 4,Elliott Davis,Harley Miller,Elliott Davis,6-2,6,2,1,0,Completed,true,false,false
+UA019083,08 Sep 19,8,Murrumbeena,Highmoor Uniting,No. 1,Jamie Ubachs,Ryan Holmes,Jamie Ubachs,6-1,6,1,1,0,Completed,true,false,false
+UA019083,08 Sep 19,8,Murrumbeena,Highmoor Uniting,No. 2,Aodhan Monteiro,Jackson Ralph,Jackson Ralph,4-6,4,6,0,1,Completed,true,false,false
+UA019083,08 Sep 19,8,Murrumbeena,Highmoor Uniting,No. 3,Blake Shaw,Abigail Bligh,Blake Shaw,6-4,6,4,1,0,Completed,true,false,false
+UA019083,08 Sep 19,8,Murrumbeena,Highmoor Uniting,No. 4,Sachith Meela,Veer Mehta,Sachith Meela,6-1,6,1,1,0,Completed,true,false,false
+UA019084,08 Sep 19,8,Kooyong Xavier,Highett,No. 1,Zoe Kinsella,Flora Bacskai,Flora Bacskai,2-6,2,6,0,1,Completed,true,false,false
+UA019084,08 Sep 19,8,Kooyong Xavier,Highett,No. 2,Stella Jesaduson,Alessia Cozijnsen,Alessia Cozijnsen,4-6,4,6,0,1,Completed,true,false,false
+UA019084,08 Sep 19,8,Kooyong Xavier,Highett,No. 3,Hannah Minc,Alex McEvoy,Hannah Minc,6-4,6,4,1,0,Completed,true,false,false
+UA019084,08 Sep 19,8,Kooyong Xavier,Highett,No. 4,Niamh Game,Josie Inserra,Niamh Game,7-5,7,5,1,0,Completed,true,false,false
+UA019091,15 Sep 19,9,Sandringham,Kooyong Xavier,No. 1,Nate Woff,Zoe Kinsella,Nate Woff,6-2,6,2,1,0,Completed,true,false,false
+UA019091,15 Sep 19,9,Sandringham,Kooyong Xavier,No. 2,Tara Jezdic,Stella Jesaduson,Stella Jesaduson,1-6,1,6,0,1,Completed,true,false,false
+UA019091,15 Sep 19,9,Sandringham,Kooyong Xavier,No. 3,Olivia Foster,Niamh Game,Olivia Foster,6-3,6,3,1,0,Completed,true,false,false
+UA019091,15 Sep 19,9,Sandringham,Kooyong Xavier,No. 4,Byron Castello,India McKinnon,India McKinnon,0-6,0,6,0,1,Completed,true,false,false
+UA019092,15 Sep 19,9,Aspendale,Dendy Park,No. 1,Lisa Jawalekar,Nicola Vine,Lisa Jawalekar,6-1,6,1,1,0,Completed,true,false,false
+UA019092,15 Sep 19,9,Aspendale,Dendy Park,No. 2,Pip Jawalekar,Charlotte O'Brien,Pip Jawalekar,6-0,6,0,1,0,Completed,true,false,false
+UA019092,15 Sep 19,9,Aspendale,Dendy Park,No. 3,Harley Miller,Toby Hansen,Toby Hansen,6-7,6,7,0,1,Completed,true,false,false
+UA019092,15 Sep 19,9,Aspendale,Dendy Park,No. 4,Beau Miller,Lotti Ruegg,Lotti Ruegg,4-6,4,6,0,1,Completed,true,false,false
+UA019093,15 Sep 19,9,Highmoor Uniting,Lauriston,No. 1,Jackson Ralph,Naineishia Kota,Jackson Ralph,6-4,6,4,1,0,Completed,true,false,false
+UA019093,15 Sep 19,9,Highmoor Uniting,Lauriston,No. 2,Abigail Bligh,Lucy Ackland,Abigail Bligh,6-1,6,1,1,0,Completed,true,false,false
+UA019093,15 Sep 19,9,Highmoor Uniting,Lauriston,No. 3,Veer Mehta,Elliott Davis,Elliott Davis,1-6,1,6,0,1,Completed,true,false,false
+UA019093,15 Sep 19,9,Highmoor Uniting,Lauriston,No. 4,Leon Thomas,Noam Hoffman,Noam Hoffman,1-6,1,6,0,1,Completed,true,false,false
+UA019094,15 Sep 19,9,Highett,Murrumbeena,No. 1,Flora Bacskai,Jamie Ubachs,Jamie Ubachs,0-6,0,6,0,1,Completed,true,false,false
+UA019094,15 Sep 19,9,Highett,Murrumbeena,No. 2,Alessia Cozijnsen,Oliver Huggins,Oliver Huggins,4-6,4,6,0,1,Completed,true,false,false
+UA019094,15 Sep 19,9,Highett,Murrumbeena,No. 3,Alex McEvoy,Patrick Mills,Patrick Mills,0-6,0,6,0,1,Completed,true,false,false
+UA019094,15 Sep 19,9,Highett,Murrumbeena,No. 4,Josie Inserra,Blake Shaw,Blake Shaw,0-6,0,6,0,1,Completed,true,false,false
+UA019101,13 Oct 19,10,Murrumbeena,Sandringham,No. 1,Oliver Huggins,Nate Woff,Nate Woff,2-6,2,6,0,1,Completed,true,false,false
+UA019101,13 Oct 19,10,Murrumbeena,Sandringham,No. 2,Aodhan Monteiro,Danko Kovacevic,Aodhan Monteiro,6-3,6,3,1,0,Completed,true,false,false
+UA019101,13 Oct 19,10,Murrumbeena,Sandringham,No. 3,Patrick Mills,Tara Jezdic,Patrick Mills,6-1,6,1,1,0,Completed,true,false,false
+UA019101,13 Oct 19,10,Murrumbeena,Sandringham,No. 4,Arya Bet,Mia Daniell,Mia Daniell,5-7,5,7,0,1,Completed,true,false,false
+UA019102,13 Oct 19,10,Kooyong Xavier,Aspendale,No. 1,Stella Jesaduson,Andrew Sleserev,Andrew Sleserev,0-6,0,6,0,1,Completed,true,false,false
+UA019102,13 Oct 19,10,Kooyong Xavier,Aspendale,No. 2,Hannah Minc,Lisa Jawalekar,Lisa Jawalekar,1-6,1,6,0,1,Completed,true,false,false
+UA019102,13 Oct 19,10,Kooyong Xavier,Aspendale,No. 3,Neomie Game,Pip Jawalekar,Pip Jawalekar,0-6,0,6,0,1,Completed,true,false,false
+UA019102,13 Oct 19,10,Kooyong Xavier,Aspendale,No. 4,Tom Burrell,Harley Miller,Harley Miller,0-6,0,6,0,1,Completed,true,false,false
+UA019103,13 Oct 19,10,Dendy Park,Highmoor Uniting,No. 1,Abbie Noble,Ryan Holmes,Ryan Holmes,1-6,1,6,0,1,Completed,true,false,false
+UA019103,13 Oct 19,10,Dendy Park,Highmoor Uniting,No. 2,Nicola Vine,Lazar Suluburic,Lazar Suluburic,1-6,1,6,0,1,Completed,true,false,false
+UA019103,13 Oct 19,10,Dendy Park,Highmoor Uniting,No. 3,Charlotte O'Brien,Luka Suluburic,Luka Suluburic,1-6,1,6,0,1,Completed,true,false,false
+UA019103,13 Oct 19,10,Dendy Park,Highmoor Uniting,No. 4,Tiffany Nikolakopoulos,Jackson Ralph,Jackson Ralph,0-6,0,6,0,1,Completed,true,false,false
+UA019104,13 Oct 19,10,Lauriston,Highett,No. 1,Lucy Ackland,Flora Bacskai,Lucy Ackland,6-0,6,0,1,0,Completed,true,false,false
+UA019104,13 Oct 19,10,Lauriston,Highett,No. 2,Tate Nguyen,Alessia Cozijnsen,Alessia Cozijnsen,6-7,6,7,0,1,Completed,true,false,false
+UA019104,13 Oct 19,10,Lauriston,Highett,No. 3,Elliott Davis,Alex McEvoy,Elliott Davis,6-2,6,2,1,0,Completed,true,false,false
+UA019104,13 Oct 19,10,Lauriston,Highett,No. 4,Kristine Dodd,Josie Inserra,Kristine Dodd,6-1,6,1,1,0,Completed,true,false,false
+UA019111,20 Oct 19,11,Sandringham,Lauriston,No. 1,Nate Woff,Lucy Ackland,Nate Woff,6-1,6,1,1,0,Completed,true,false,false
+UA019111,20 Oct 19,11,Sandringham,Lauriston,No. 2,Danko Kovacevic,Elliott Davis,Danko Kovacevic,7-6,7,6,1,0,Completed,true,false,false
+UA019111,20 Oct 19,11,Sandringham,Lauriston,No. 3,Sunny King,Kristine Dodd,Kristine Dodd,3-6,3,6,0,1,Completed,true,false,false
+UA019111,20 Oct 19,11,Sandringham,Lauriston,No. 4,Mia Daniell,Noam Hoffman,Noam Hoffman,4-6,4,6,0,1,Completed,true,false,false
+UA019112,20 Oct 19,11,Aspendale,Murrumbeena,No. 1,Andrew Sleserev,Jamie Ubachs,Jamie Ubachs,2-6,2,6,0,1,Completed,true,false,false
+UA019112,20 Oct 19,11,Aspendale,Murrumbeena,No. 2,Lisa Jawalekar,Oliver Huggins,Lisa Jawalekar,7-5,7,5,1,0,Completed,true,false,false
+UA019112,20 Oct 19,11,Aspendale,Murrumbeena,No. 3,Pip Jawalekar,Aodhan Monteiro,Aodhan Monteiro,3-6,3,6,0,1,Completed,true,false,false
+UA019112,20 Oct 19,11,Aspendale,Murrumbeena,No. 4,Harley Miller,Patrick Mills,Patrick Mills,0-6,0,6,0,1,Completed,true,false,false
+UA019113,20 Oct 19,11,Highmoor Uniting,Kooyong Xavier,No. 1,Ryan Holmes,Zoe Kinsella,Ryan Holmes,6-0,6,0,1,0,Completed,true,false,false
+UA019113,20 Oct 19,11,Highmoor Uniting,Kooyong Xavier,No. 2,Lazar Suluburic,Stella Jesaduson,Lazar Suluburic,6-1,6,1,1,0,Completed,true,false,false
+UA019113,20 Oct 19,11,Highmoor Uniting,Kooyong Xavier,No. 3,Luka Suluburic,Hannah Minc,Hannah Minc,2-6,2,6,0,1,Completed,true,false,false
+UA019113,20 Oct 19,11,Highmoor Uniting,Kooyong Xavier,No. 4,Abigail Bligh,Thomas Cowlishaw,Abigail Bligh,6-0,6,0,1,0,Completed,true,false,false
+UA019114,20 Oct 19,11,Highett,Dendy Park,No. 1,Alessia Cozijnsen,Abbie Noble,Alessia Cozijnsen,6-3,6,3,1,0,Completed,true,false,false
+UA019114,20 Oct 19,11,Highett,Dendy Park,No. 2,Flora Bacskai,Charlotte O'Brien,Flora Bacskai,6-2,6,2,1,0,Completed,true,false,false
+UA019114,20 Oct 19,11,Highett,Dendy Park,No. 3,Alex McEvoy,Darcy Maher,Darcy Maher,1-6,1,6,0,1,Completed,true,false,false
+UA019114,20 Oct 19,11,Highett,Dendy Park,No. 4,Josie Inserra,Tiffany Nikolakopoulos,Josie Inserra,6-0,6,0,1,0,Completed,true,false,false
+UA019121,27 Oct 19,12,Highett,Highmoor Uniting,No. 1,Alessia Cozijnsen,Lazar Suluburic,Alessia Cozijnsen,6-4,6,4,1,0,Completed,true,false,false
+UA019121,27 Oct 19,12,Highett,Highmoor Uniting,No. 2,Flora Bacskai,Luka Suluburic,Luka Suluburic,3-6,3,6,0,1,Completed,true,false,false
+UA019121,27 Oct 19,12,Highett,Highmoor Uniting,No. 3,Alex McEvoy,Jackson Ralph,Jackson Ralph,3-6,3,6,0,1,Completed,true,false,false
+UA019121,27 Oct 19,12,Highett,Highmoor Uniting,No. 4,Josie Inserra,Abigail Bligh,Abigail Bligh,1-6,1,6,0,1,Completed,true,false,false
+UA019122,27 Oct 19,12,Murrumbeena,Kooyong Xavier,No. 1,Jamie Ubachs,Stella Jesaduson,Jamie Ubachs,6-0,6,0,1,0,Completed,true,false,false
+UA019122,27 Oct 19,12,Murrumbeena,Kooyong Xavier,No. 2,Oliver Huggins,Hannah Minc,Oliver Huggins,6-1,6,1,1,0,Completed,true,false,false
+UA019122,27 Oct 19,12,Murrumbeena,Kooyong Xavier,No. 3,Aodhan Monteiro,Niamh Game,Aodhan Monteiro,6-3,6,3,1,0,Completed,true,false,false
+UA019122,27 Oct 19,12,Murrumbeena,Kooyong Xavier,No. 4,Blake Shaw,Neomie Game,Blake Shaw,6-0,6,0,1,0,Completed,true,false,false
+UA019123,27 Oct 19,12,Dendy Park,Lauriston,No. 1,Abbie Noble,Naineishia Kota,Naineishia Kota,0-6,0,6,0,1,Completed,true,false,false
+UA019123,27 Oct 19,12,Dendy Park,Lauriston,No. 2,Indigo Jellis,Tate Nguyen,Tate Nguyen,4-6,4,6,0,1,Completed,true,false,false
+UA019123,27 Oct 19,12,Dendy Park,Lauriston,No. 3,Nicola Vine,Elliott Davis,Nicola Vine,6-2,6,2,1,0,Completed,true,false,false
+UA019123,27 Oct 19,12,Dendy Park,Lauriston,No. 4,Charlotte O'Brien,Kristine Dodd,Kristine Dodd,1-6,1,6,0,1,Completed,true,false,false
+UA019124,27 Oct 19,12,Aspendale,Sandringham,No. 1,Andrew Sleserev,Danko Kovacevic,Andrew Sleserev,7-6,7,6,1,0,Completed,true,false,false
+UA019124,27 Oct 19,12,Aspendale,Sandringham,No. 2,Lisa Jawalekar,Sunny King,Lisa Jawalekar,6-3,6,3,1,0,Completed,true,false,false
+UA019124,27 Oct 19,12,Aspendale,Sandringham,No. 3,Pip Jawalekar,Mia Daniell,Pip Jawalekar,6-2,6,2,1,0,Completed,true,false,false
+UA019124,27 Oct 19,12,Aspendale,Sandringham,No. 4,Beau Miller,Byron Castello,Byron Castello,3-6,3,6,0,1,Completed,true,false,false
+UA019131,10 Nov 19,13,Highmoor Uniting,Aspendale,No. 1,Lazar Suluburic,Andrew Sleserev,Andrew Sleserev,3-6,3,6,0,1,Completed,true,false,false
+UA019131,10 Nov 19,13,Highmoor Uniting,Aspendale,No. 2,Luka Suluburic,Lisa Jawalekar,Lisa Jawalekar,2-6,2,6,0,1,Completed,true,false,false
+UA019131,10 Nov 19,13,Highmoor Uniting,Aspendale,No. 3,Jackson Ralph,Pip Jawalekar,Jackson Ralph,6-3,6,3,1,0,Completed,true,false,false
+UA019131,10 Nov 19,13,Highmoor Uniting,Aspendale,No. 4,Abigail Bligh,Mia Courtie,Abigail Bligh,6-4,6,4,1,0,Completed,true,false,false
+UA019132,10 Nov 19,13,Sandringham,Highett,No. 1,Danko Kovacevic,Alessia Cozijnsen,Danko Kovacevic,6-4,6,4,1,0,Completed,true,false,false
+UA019132,10 Nov 19,13,Sandringham,Highett,No. 2,Sunny King,Flora Bacskai,Flora Bacskai,6-7,6,7,0,1,Completed,true,false,false
+UA019132,10 Nov 19,13,Sandringham,Highett,No. 3,Olivia Foster,Alex McEvoy,Olivia Foster,6-1,6,1,1,0,Completed,true,false,false
+UA019132,10 Nov 19,13,Sandringham,Highett,No. 4,Byron Castello,Josie Inserra,Josie Inserra,4-6,4,6,0,1,Completed,true,false,false
+UA019133,10 Nov 19,13,Lauriston,Murrumbeena,No. 1,Naineishia Kota,Jamie Ubachs,Jamie Ubachs,0-6,0,6,0,1,Completed,true,false,false
+UA019133,10 Nov 19,13,Lauriston,Murrumbeena,No. 2,Tate Nguyen,Oliver Huggins,Tate Nguyen,6-0,6,0,1,0,Completed,true,false,false
+UA019133,10 Nov 19,13,Lauriston,Murrumbeena,No. 3,Kristine Dodd,Patrick Mills,Patrick Mills,1-6,1,6,0,1,Completed,true,false,false
+UA019133,10 Nov 19,13,Lauriston,Murrumbeena,No. 4,Noam Hoffman,Arya Bet,Arya Bet,2-6,2,6,0,1,Completed,true,false,false
+UA019134,10 Nov 19,13,Kooyong Xavier,Dendy Park,No. 1,Zoe Kinsella,Abbie Noble,Abbie Noble,2-6,2,6,0,1,Completed,true,false,false
+UA019134,10 Nov 19,13,Kooyong Xavier,Dendy Park,No. 2,Stella Jesaduson,Indigo Jellis,Indigo Jellis,1-6,1,6,0,1,Completed,true,false,false
+UA019134,10 Nov 19,13,Kooyong Xavier,Dendy Park,No. 3,Niamh Game,Charlotte O'Brien,Charlotte O'Brien,1-6,1,6,0,1,Completed,true,false,false
+UA019134,10 Nov 19,13,Kooyong Xavier,Dendy Park,No. 4,Neomie Game,[Unnamed player — TROLS UA019134 away code 4],Neomie Game,6-0,6,0,1,0,Completed,false,false,false
+UA019141,17 Nov 19,14,Highmoor Uniting,Sandringham,No. 1,Ryan Holmes,Nate Woff,Ryan Holmes,7-5,7,5,1,0,Completed,true,false,false
+UA019141,17 Nov 19,14,Highmoor Uniting,Sandringham,No. 2,Lazar Suluburic,Danko Kovacevic,Lazar Suluburic,6-3,6,3,1,0,Completed,true,false,false
+UA019141,17 Nov 19,14,Highmoor Uniting,Sandringham,No. 3,Luka Suluburic,Sunny King,Luka Suluburic,6-0,6,0,1,0,Completed,true,false,false
+UA019141,17 Nov 19,14,Highmoor Uniting,Sandringham,No. 4,Jackson Ralph,Mia Daniell,Jackson Ralph,6-2,6,2,1,0,Completed,true,false,false
+UA019142,17 Nov 19,14,Highett,Aspendale,No. 1,Angelica Cozijnsen,Andrew Sleserev,Angelica Cozijnsen,6-3,6,3,1,0,Completed,true,false,false
+UA019142,17 Nov 19,14,Highett,Aspendale,No. 2,Alessia Cozijnsen,Lisa Jawalekar,Lisa Jawalekar,4-6,4,6,0,1,Completed,true,false,false
+UA019142,17 Nov 19,14,Highett,Aspendale,No. 3,Alex McEvoy,Pip Jawalekar,Pip Jawalekar,2-6,2,6,0,1,Completed,true,false,false
+UA019142,17 Nov 19,14,Highett,Aspendale,No. 4,Katya Tomov,Harley Miller,Harley Miller,1-6,1,6,0,1,Completed,true,false,false
+UA019143,17 Nov 19,14,Lauriston,Kooyong Xavier,No. 1,Lucy Ackland,Zoe Kinsella,Zoe Kinsella,4-6,4,6,0,1,Completed,true,false,false
+UA019143,17 Nov 19,14,Lauriston,Kooyong Xavier,No. 2,Tate Nguyen,Stella Jesaduson,Tate Nguyen,6-0,6,0,1,0,Completed,true,false,false
+UA019143,17 Nov 19,14,Lauriston,Kooyong Xavier,No. 3,Kristine Dodd,Hannah Minc,Kristine Dodd,6-4,6,4,1,0,Completed,true,false,false
+UA019143,17 Nov 19,14,Lauriston,Kooyong Xavier,No. 4,Noam Hoffman,Neomie Game,Noam Hoffman,6-0,6,0,1,0,Completed,true,false,false
+UA019144,17 Nov 19,14,Dendy Park,Murrumbeena,No. 1,Abbie Noble,Jamie Ubachs,Jamie Ubachs,0-6,0,6,0,1,Completed,true,false,false
+UA019144,17 Nov 19,14,Dendy Park,Murrumbeena,No. 2,Indigo Jellis,Aodhan Monteiro,Aodhan Monteiro,3-6,3,6,0,1,Completed,true,false,false
+UA019144,17 Nov 19,14,Dendy Park,Murrumbeena,No. 3,Nicola Vine,Patrick Mills,Patrick Mills,1-6,1,6,0,1,Completed,true,false,false
+UA019144,17 Nov 19,14,Dendy Park,Murrumbeena,No. 4,Tiffany Nikolakopoulos,Arya Bet,Arya Bet,2-6,2,6,0,1,Completed,true,false,false
+UA019301,,16,Murrumbeena,Sandringham,No. 1,Jamie Ubachs,Nate Woff,Jamie Ubachs,6-2,6,2,1,0,Completed,true,false,false
+UA019301,,16,Murrumbeena,Sandringham,No. 2,Oliver Huggins,Danko Kovacevic,Oliver Huggins,6-4,6,4,1,0,Completed,true,false,false
+UA019301,,16,Murrumbeena,Sandringham,No. 3,Aodhan Monteiro,Sunny King,Aodhan Monteiro,6-2,6,2,1,0,Completed,true,false,false
+UA019301,,16,Murrumbeena,Sandringham,No. 4,Patrick Mills,Mia Daniell,Patrick Mills,6-2,6,2,1,0,Completed,true,false,false
+UA019302,,16,Highmoor Uniting,Aspendale,No. 1,Ryan Holmes,Andrew Sleserev,Andrew Sleserev,1-6,1,6,0,1,Completed,true,false,false
+UA019302,,16,Highmoor Uniting,Aspendale,No. 2,Lazar Suluburic,Lisa Jawalekar,Lisa Jawalekar,4-6,4,6,0,1,Completed,true,false,false
+UA019302,,16,Highmoor Uniting,Aspendale,No. 3,Luka Suluburic,Pip Jawalekar,Luka Suluburic,7-5,7,5,1,0,Completed,true,false,false
+UA019302,,16,Highmoor Uniting,Aspendale,No. 4,Jackson Ralph,Harley Miller,Jackson Ralph,6-2,6,2,1,0,Completed,true,false,false
+UA019321,,17,Murrumbeena,Aspendale,No. 1,Jamie Ubachs,Andrew Sleserev,Jamie Ubachs,6-3,6,3,1,0,Completed,true,false,false
+UA019321,,17,Murrumbeena,Aspendale,No. 2,Oliver Huggins,Lisa Jawalekar,Lisa Jawalekar,3-6,3,6,0,1,Completed,true,false,false
+UA019321,,17,Murrumbeena,Aspendale,No. 3,Patrick Mills,Pip Jawalekar,Patrick Mills,6-1,6,1,1,0,Completed,true,false,false
+UA019321,,17,Murrumbeena,Aspendale,No. 4,Arya Bet,Harley Miller,Harley Miller,5-7,5,7,0,1,Completed,true,false,false

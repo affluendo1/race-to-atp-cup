@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA14-UA009",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2014",
+  "season_id": "UA14",
+  "season_label": "Autumn 2014",
+  "source_section_code": "UA009",
+  "section_label": "Section 9",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Le Page",
+      "wins": 10,
+      "points": 90,
+      "percentage": 117.16,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Bodley Tennis Plus",
+      "wins": 9,
+      "points": 89.5,
+      "percentage": 127.52,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kooyong St Kevin's",
+      "wins": 8,
+      "points": 85.5,
+      "percentage": 113.06,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Mentone",
+      "wins": 6,
+      "points": 75,
+      "percentage": 117.92,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 5,
+      "points": 69.5,
+      "percentage": 97.41,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Coatesville",
+      "wins": 4,
+      "points": 53,
+      "percentage": 84.8,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong Scotch",
+      "wins": 4,
+      "points": 50,
+      "percentage": 84.87,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hampton",
+      "wins": 3,
+      "points": 47.5,
+      "percentage": 69.52,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA14-UA009",
+  "fixtures": 59,
+  "completed_fixtures": 56,
+  "draw_fixtures": 59,
+  "singles_rubbers": 223,
+  "doubles_rubbers": 111,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

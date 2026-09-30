@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA36-UA015",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2025",
+  "season_id": "UA36",
+  "season_label": "Autumn 2025",
+  "source_section_code": "UA015",
+  "section_label": "Section 15",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World",
+      "wins": 11,
+      "points": 113,
+      "percentage": 240.88,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Elsternwick Park Green",
+      "wins": 8,
+      "points": 88,
+      "percentage": 132.71,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 7,
+      "points": 79,
+      "percentage": 114.05,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Murrumbeena",
+      "wins": 8,
+      "points": 76,
+      "percentage": 97.71,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC Blue",
+      "wins": 8,
+      "points": 74,
+      "percentage": 101.75,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Beaumaris CC",
+      "wins": 4,
+      "points": 58,
+      "percentage": 85.55,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Mentone",
+      "wins": 2,
+      "points": 41,
+      "percentage": 68.27,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Elsternwick Park Yellow",
+      "wins": 1,
+      "points": 31,
+      "percentage": 54.95,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA36-UA015",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 59,
+  "singles_rubbers": 208,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

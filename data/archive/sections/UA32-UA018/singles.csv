@@ -1,0 +1,181 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA018011,05 Feb 23,1,BLTC,Dendy Park,No. 1,Tyler Adams,Jake Bloom,Jake Bloom,3-6,3,6,0,1,Completed,true,false,false
+UA018011,05 Feb 23,1,BLTC,Dendy Park,No. 2,Jamie Clark,Elliot Mayger,Jamie Clark,6-3,6,3,1,0,Completed,true,false,false
+UA018011,05 Feb 23,1,BLTC,Dendy Park,No. 3,Sara Catala Prieto,Pei Ting Chan,Sara Catala Prieto,6-2,6,2,1,0,Completed,true,false,false
+UA018011,05 Feb 23,1,BLTC,Dendy Park,No. 4,Jetton Becconsmith,Angus Van De Water,Jetton Becconsmith,6-1,6,1,1,0,Completed,true,false,false
+UA018012,05 Feb 23,1,GPHC,Royal Ave,No. 1,Rameen Atti,Noah Bradley,Rameen Atti,6-4,6,4,1,0,Completed,true,false,false
+UA018012,05 Feb 23,1,GPHC,Royal Ave,No. 2,Caitlin Cassidy,Archie McPherson,Caitlin Cassidy,6-1,6,1,1,0,Completed,true,false,false
+UA018012,05 Feb 23,1,GPHC,Royal Ave,No. 3,Emily Saw,James Sutherland,Emily Saw,7-5,7,5,1,0,Completed,true,false,false
+UA018012,05 Feb 23,1,GPHC,Royal Ave,No. 4,Sally Burns,Sonny Baker,Sonny Baker,3-6,3,6,0,1,Completed,true,false,false
+UA018013,05 Feb 23,1,Elsternwick Park,Hurlingham Park Blue,No. 1,Max Gordon,Noah Passov,Max Gordon,6-3,6,3,1,0,Completed,true,true,false
+UA018013,05 Feb 23,1,Elsternwick Park,Hurlingham Park Blue,No. 2,Roby Capomolla,Asher Vaughan,Roby Capomolla,6-4,6,4,1,0,Completed,true,false,false
+UA018013,05 Feb 23,1,Elsternwick Park,Hurlingham Park Blue,No. 3,Giorgio Colla,Angus O'Neil,Giorgio Colla,6-1,6,1,1,0,Completed,true,false,false
+UA018013,05 Feb 23,1,Elsternwick Park,Hurlingham Park Blue,No. 4,Noa Preston,Hudson Sumner,Hudson Sumner,1-6,1,6,0,1,Completed,true,false,false
+UA018014,05 Feb 23,1,Victory Park,Glen Huntly,No. 1,Ben Hadarl,Nile Roberts,Ben Hadarl,6-2,6,2,1,0,Completed,true,false,false
+UA018014,05 Feb 23,1,Victory Park,Glen Huntly,No. 2,Olivia Takada,Charlie Renwick,Charlie Renwick,5-7,5,7,0,1,Completed,true,false,false
+UA018014,05 Feb 23,1,Victory Park,Glen Huntly,No. 3,Kiichi Usui,Oliver Sey,Kiichi Usui,7-6,7,6,1,0,Completed,true,false,false
+UA018014,05 Feb 23,1,Victory Park,Glen Huntly,No. 4,Aoi Mizuta,Aarush Kesarkar,Aarush Kesarkar,3-6,3,6,0,1,Completed,true,false,false
+UA018021,12 Feb 23,2,Glen Huntly,BLTC,No. 1,Nile Roberts,Tyler Adams,Tyler Adams,2-6,2,6,0,1,Completed,true,false,false
+UA018021,12 Feb 23,2,Glen Huntly,BLTC,No. 2,Rahael Vinsonneau,Jamie Clark,Jamie Clark,3-6,3,6,0,1,Completed,true,false,false
+UA018021,12 Feb 23,2,Glen Huntly,BLTC,No. 3,Oliver Sey,Sara Catala Prieto,Sara Catala Prieto,4-6,4,6,0,1,Completed,true,false,false
+UA018021,12 Feb 23,2,Glen Huntly,BLTC,No. 4,Aarush Kesarkar,Jetton Becconsmith,Jetton Becconsmith,2-6,2,6,0,1,Completed,true,false,false
+UA018022,12 Feb 23,2,Dendy Park,GPHC,No. 1,Jake Bloom,Maddie James,Jake Bloom,6-3,6,3,1,0,Completed,true,false,false
+UA018022,12 Feb 23,2,Dendy Park,GPHC,No. 2,Elliot Mayger,Caitlin Cassidy,Elliot Mayger,6-2,6,2,1,0,Completed,true,false,false
+UA018022,12 Feb 23,2,Dendy Park,GPHC,No. 3,Angus Van De Water,Emily Saw,Angus Van De Water,6-3,6,3,1,0,Completed,true,false,false
+UA018022,12 Feb 23,2,Dendy Park,GPHC,No. 4,Alexander Hookway,Isabelle Nelson,Isabelle Nelson,3-6,3,6,0,1,Completed,true,false,false
+UA018023,12 Feb 23,2,Royal Ave,Elsternwick Park,No. 1,Noah Bradley,Claude Howard,Noah Bradley,6-1,6,1,1,0,Completed,true,false,false
+UA018023,12 Feb 23,2,Royal Ave,Elsternwick Park,No. 2,James Sutherland,Roby Capomolla,James Sutherland,6-0,6,0,1,0,Completed,true,false,false
+UA018023,12 Feb 23,2,Royal Ave,Elsternwick Park,No. 3,Amber Sutherland,Giorgio Colla,Amber Sutherland,6-3,6,3,1,0,Completed,true,false,false
+UA018023,12 Feb 23,2,Royal Ave,Elsternwick Park,No. 4,Paddy McPherson,Noa Preston,Noa Preston,3-6,3,6,0,1,Completed,true,true,false
+UA018024,12 Feb 23,2,Hurlingham Park Blue,Victory Park,No. 1,Dominic Eather,Ben Hadarl,Ben Hadarl,1-6,1,6,0,1,Completed,true,false,false
+UA018024,12 Feb 23,2,Hurlingham Park Blue,Victory Park,No. 2,Noah Passov,Kiichi Usui,Kiichi Usui,2-6,2,6,0,1,Completed,true,false,false
+UA018024,12 Feb 23,2,Hurlingham Park Blue,Victory Park,No. 3,Asher Vaughan,Sam Angliss,Sam Angliss,3-6,3,6,0,1,Completed,true,false,false
+UA018024,12 Feb 23,2,Hurlingham Park Blue,Victory Park,No. 4,Nina Seuret-Batterham,Zara Latimer,Zara Latimer,2-6,2,6,0,1,Completed,true,false,false
+UA018031,19 Feb 23,3,BLTC,Hurlingham Park Blue,No. 1,Tyler Adams,Dominic Eather,Tyler Adams,6-4,6,4,1,0,Completed,true,false,false
+UA018031,19 Feb 23,3,BLTC,Hurlingham Park Blue,No. 2,Jamie Clark,Noah Passov,Jamie Clark,6-2,6,2,1,0,Completed,true,false,false
+UA018031,19 Feb 23,3,BLTC,Hurlingham Park Blue,No. 3,Sara Catala Prieto,Angus O'Neil,Sara Catala Prieto,6-2,6,2,1,0,Completed,true,false,false
+UA018031,19 Feb 23,3,BLTC,Hurlingham Park Blue,No. 4,Jetton Becconsmith,Hudson Sumner,Jetton Becconsmith,6-1,6,1,1,0,Completed,true,false,false
+UA018032,19 Feb 23,3,GPHC,Glen Huntly,No. 1,Rameen Atti,Rahael Vinsonneau,Rahael Vinsonneau,3-6,3,6,0,1,Completed,true,false,false
+UA018032,19 Feb 23,3,GPHC,Glen Huntly,No. 2,Maddie James,Charlie Renwick,Maddie James,6-0,6,0,1,0,Completed,true,false,false
+UA018032,19 Feb 23,3,GPHC,Glen Huntly,No. 3,Sally Burns,Oliver Sey,Oliver Sey,1-6,1,6,0,1,Completed,true,false,false
+UA018032,19 Feb 23,3,GPHC,Glen Huntly,No. 4,Isabelle Nelson,Aarush Kesarkar,Aarush Kesarkar,4-6,4,6,0,1,Completed,true,false,false
+UA018033,19 Feb 23,3,Elsternwick Park,Dendy Park,No. 1,Claude Howard,Jake Bloom,Jake Bloom,6-7,6,7,0,1,Completed,true,false,false
+UA018033,19 Feb 23,3,Elsternwick Park,Dendy Park,No. 2,Roby Capomolla,Angus Van De Water,Angus Van De Water,1-6,1,6,0,1,Completed,true,false,false
+UA018033,19 Feb 23,3,Elsternwick Park,Dendy Park,No. 3,Giorgio Colla,Alexander Hookway,Alexander Hookway,3-6,3,6,0,1,Completed,true,false,false
+UA018033,19 Feb 23,3,Elsternwick Park,Dendy Park,No. 4,Noa Preston,Johnny Chew,Noa Preston,6-2,6,2,1,0,Completed,true,false,false
+UA018034,19 Feb 23,3,Victory Park,Royal Ave,No. 1,Ben Hadarl,Archie McPherson,Ben Hadarl,6-0,6,0,1,0,Completed,true,false,false
+UA018034,19 Feb 23,3,Victory Park,Royal Ave,No. 2,Sam Angliss,James Sutherland,James Sutherland,2-6,2,6,0,1,Completed,true,false,false
+UA018034,19 Feb 23,3,Victory Park,Royal Ave,No. 3,Zara Latimer,Amber Sutherland,Amber Sutherland,2-6,2,6,0,1,Completed,true,false,false
+UA018034,19 Feb 23,3,Victory Park,Royal Ave,No. 4,Aoi Mizuta,Sonny Baker,Sonny Baker,0-6,0,6,0,1,Completed,true,false,false
+UA018041,26 Feb 23,4,Royal Ave,BLTC,No. 1,Noah Bradley,Tyler Adams,Noah Bradley,6-0,6,0,1,0,Completed,true,false,false
+UA018041,26 Feb 23,4,Royal Ave,BLTC,No. 2,Archie McPherson,Jamie Clark,Jamie Clark,4-6,4,6,0,1,Completed,true,false,false
+UA018041,26 Feb 23,4,Royal Ave,BLTC,No. 3,Sonny Baker,Sara Catala Prieto,Sonny Baker,6-1,6,1,1,0,Completed,true,false,false
+UA018041,26 Feb 23,4,Royal Ave,BLTC,No. 4,Paddy McPherson,Jetton Becconsmith,Jetton Becconsmith,0-6,0,6,0,1,Completed,true,true,false
+UA018042,26 Feb 23,4,Hurlingham Park Blue,GPHC,No. 1,Jayden Tilstra,Rameen Atti,Jayden Tilstra,6-1,6,1,1,0,Completed,true,true,false
+UA018042,26 Feb 23,4,Hurlingham Park Blue,GPHC,No. 2,Noah Passov,Caitlin Cassidy,Caitlin Cassidy,4-6,4,6,0,1,Completed,true,false,false
+UA018042,26 Feb 23,4,Hurlingham Park Blue,GPHC,No. 3,Angus O'Neil,Emily Saw,Emily Saw,0-6,0,6,0,1,Completed,true,false,false
+UA018042,26 Feb 23,4,Hurlingham Park Blue,GPHC,No. 4,Hudson Sumner,Sally Burns,Hudson Sumner,6-0,6,0,1,0,Completed,true,false,false
+UA018043,26 Feb 23,4,Glen Huntly,Elsternwick Park,No. 1,Nile Roberts,Gianluca Stravos,Gianluca Stravos,0-6,0,6,0,1,Completed,true,false,false
+UA018043,26 Feb 23,4,Glen Huntly,Elsternwick Park,No. 2,Charlie Renwick,Roby Capomolla,Charlie Renwick,6-0,6,0,1,0,Completed,true,false,false
+UA018043,26 Feb 23,4,Glen Huntly,Elsternwick Park,No. 3,Rahael Vinsonneau,Giorgio Colla,Rahael Vinsonneau,6-2,6,2,1,0,Completed,true,false,false
+UA018043,26 Feb 23,4,Glen Huntly,Elsternwick Park,No. 4,Oliver Sey,Noa Preston,Oliver Sey,6-2,6,2,1,0,Completed,true,false,false
+UA018044,26 Feb 23,4,Dendy Park,Victory Park,No. 1,Jake Bloom,Ben Hadarl,Ben Hadarl,2-6,2,6,0,1,Completed,true,false,false
+UA018044,26 Feb 23,4,Dendy Park,Victory Park,No. 2,Elliot Mayger,Kiichi Usui,Elliot Mayger,6-3,6,3,1,0,Completed,true,false,false
+UA018044,26 Feb 23,4,Dendy Park,Victory Park,No. 3,Pei Ting Chan,Sam Angliss,Sam Angliss,3-6,3,6,0,1,Completed,true,false,false
+UA018044,26 Feb 23,4,Dendy Park,Victory Park,No. 4,Johnny Chew,Aoi Mizuta,Johnny Chew,6-2,6,2,1,0,Completed,true,false,false
+UA018051,05 Mar 23,5,Elsternwick Park,Victory Park,No. 1,Gianluca Stravos,Kiichi Usui,Gianluca Stravos,6-3,6,3,1,0,Completed,true,false,false
+UA018051,05 Mar 23,5,Elsternwick Park,Victory Park,No. 2,Roby Capomolla,Sam Angliss,Sam Angliss,0-6,0,6,0,1,Completed,true,false,false
+UA018051,05 Mar 23,5,Elsternwick Park,Victory Park,No. 3,Giorgio Colla,Zara Latimer,Giorgio Colla,6-0,6,0,1,0,Completed,true,false,false
+UA018051,05 Mar 23,5,Elsternwick Park,Victory Park,No. 4,Noa Preston,Aoi Mizuta,Aoi Mizuta,3-6,3,6,0,1,Completed,true,false,false
+UA018052,05 Mar 23,5,Glen Huntly,Hurlingham Park Blue,No. 1,Nile Roberts,Dominic Eather,Nile Roberts,6-1,6,1,1,0,Completed,true,false,false
+UA018052,05 Mar 23,5,Glen Huntly,Hurlingham Park Blue,No. 2,Charlie Renwick,Angus O'Neil,Charlie Renwick,6-0,6,0,1,0,Completed,true,false,false
+UA018052,05 Mar 23,5,Glen Huntly,Hurlingham Park Blue,No. 3,Rahael Vinsonneau,Hudson Sumner,Rahael Vinsonneau,6-1,6,1,1,0,Completed,true,false,false
+UA018052,05 Mar 23,5,Glen Huntly,Hurlingham Park Blue,No. 4,Oliver Sey,Nina Seuret-Batterham,Oliver Sey,6-1,6,1,1,0,Completed,true,false,false
+UA018053,05 Mar 23,5,Royal Ave,Dendy Park,No. 1,Noah Bradley,Elliot Mayger,Noah Bradley,6-1,6,1,1,0,Completed,true,false,false
+UA018053,05 Mar 23,5,Royal Ave,Dendy Park,No. 2,James Sutherland,Angus Van De Water,James Sutherland,6-3,6,3,1,0,Completed,true,false,false
+UA018053,05 Mar 23,5,Royal Ave,Dendy Park,No. 3,Amber Sutherland,Alexander Hookway,Amber Sutherland,6-2,6,2,1,0,Completed,true,false,false
+UA018053,05 Mar 23,5,Royal Ave,Dendy Park,No. 4,Sonny Baker,Johnny Chew,Sonny Baker,6-0,6,0,1,0,Completed,true,false,false
+UA018054,05 Mar 23,5,BLTC,GPHC,No. 1,Richard Atran,Rameen Atti,Rameen Atti,6-7,6,7,0,1,Completed,true,true,false
+UA018054,05 Mar 23,5,BLTC,GPHC,No. 2,Sarah Walker,Caitlin Cassidy,Sarah Walker,6-1,6,1,1,0,Completed,true,true,false
+UA018054,05 Mar 23,5,BLTC,GPHC,No. 3,Sara Catala Prieto,Isabelle Nelson,Sara Catala Prieto,6-2,6,2,1,0,Completed,true,false,false
+UA018054,05 Mar 23,5,BLTC,GPHC,No. 4,Jetton Becconsmith,Lilly Hobbs,Jetton Becconsmith,6-0,6,0,1,0,Completed,true,false,true
+UA018061,19 Mar 23,6,GPHC,Elsternwick Park,No. 1,Maddie James,Gianluca Stravos,Gianluca Stravos,0-6,0,6,0,1,Completed,true,false,false
+UA018061,19 Mar 23,6,GPHC,Elsternwick Park,No. 2,Caitlin Cassidy,Claude Howard,Caitlin Cassidy,6-2,6,2,1,0,Completed,true,false,false
+UA018061,19 Mar 23,6,GPHC,Elsternwick Park,No. 3,Sally Burns,Roby Capomolla,Sally Burns,6-3,6,3,1,0,Completed,true,false,false
+UA018061,19 Mar 23,6,GPHC,Elsternwick Park,No. 4,Isabelle Nelson,Noa Preston,Noa Preston,3-6,3,6,0,1,Completed,true,false,false
+UA018062,19 Mar 23,6,Victory Park,BLTC,No. 1,Divan Engelbrecht,Tyler Adams,Divan Engelbrecht,6-0,6,0,1,0,Completed,true,false,false
+UA018062,19 Mar 23,6,Victory Park,BLTC,No. 2,Kiichi Usui,Jamie Clark,Jamie Clark,6-7,6,7,0,1,Completed,true,false,false
+UA018062,19 Mar 23,6,Victory Park,BLTC,No. 3,Sam Angliss,Finn Haines,Sam Angliss,6-2,6,2,1,0,Completed,true,false,false
+UA018062,19 Mar 23,6,Victory Park,BLTC,No. 4,Zara Latimer,Sarah Walker,Sarah Walker,1-6,1,6,0,1,Completed,true,false,true
+UA018063,19 Mar 23,6,Hurlingham Park Blue,Royal Ave,No. 1,Dominic Eather,Archie McPherson,Dominic Eather,6-3,6,3,1,0,Completed,true,false,false
+UA018063,19 Mar 23,6,Hurlingham Park Blue,Royal Ave,No. 2,Noah Passov,James Sutherland,James Sutherland,0-6,0,6,0,1,Completed,true,false,false
+UA018063,19 Mar 23,6,Hurlingham Park Blue,Royal Ave,No. 3,Asher Vaughan,Amber Sutherland,Amber Sutherland,1-6,1,6,0,1,Completed,true,false,false
+UA018063,19 Mar 23,6,Hurlingham Park Blue,Royal Ave,No. 4,Hudson Sumner,Paddy McPherson,Hudson Sumner,6-0,6,0,1,0,Completed,true,false,true
+UA018064,19 Mar 23,6,Dendy Park,Glen Huntly,No. 1,Pei Ting Chan,Nile Roberts,Nile Roberts,4-6,4,6,0,1,Completed,true,false,false
+UA018064,19 Mar 23,6,Dendy Park,Glen Huntly,No. 2,Angus Van De Water,Charlie Renwick,Angus Van De Water,6-3,6,3,1,0,Completed,true,false,false
+UA018064,19 Mar 23,6,Dendy Park,Glen Huntly,No. 3,Alexander Hookway,Rahael Vinsonneau,Rahael Vinsonneau,3-6,3,6,0,1,Completed,true,false,false
+UA018064,19 Mar 23,6,Dendy Park,Glen Huntly,No. 4,Johnny Chew,Aarna Patel,Johnny Chew,6-1,6,1,1,0,Completed,true,false,true
+UA018071,26 Mar 23,7,BLTC,Elsternwick Park,No. 1,Tyler Adams,Laura Leuner,Tyler Adams,6-2,6,2,1,0,Completed,true,false,true
+UA018071,26 Mar 23,7,BLTC,Elsternwick Park,No. 2,Finn Haines,Claude Howard,Finn Haines,6-1,6,1,1,0,Completed,true,false,false
+UA018071,26 Mar 23,7,BLTC,Elsternwick Park,No. 3,Sara Catala Prieto,Roby Capomolla,Sara Catala Prieto,6-1,6,1,1,0,Completed,true,false,false
+UA018071,26 Mar 23,7,BLTC,Elsternwick Park,No. 4,Chloe Marsh,Giorgio Colla,Giorgio Colla,4-6,4,6,0,1,Completed,true,false,false
+UA018072,26 Mar 23,7,GPHC,Victory Park,No. 1,Rameen Atti,Ben Hadarl,Ben Hadarl,2-6,2,6,0,1,Completed,true,false,false
+UA018072,26 Mar 23,7,GPHC,Victory Park,No. 2,Maddie James,Divan Engelbrecht,Divan Engelbrecht,0-6,0,6,0,1,Completed,true,false,false
+UA018072,26 Mar 23,7,GPHC,Victory Park,No. 3,Emily Saw,Kiichi Usui,Emily Saw,6-2,6,2,1,0,Completed,true,false,false
+UA018072,26 Mar 23,7,GPHC,Victory Park,No. 4,Isabelle Nelson,Aoi Mizuta,Isabelle Nelson,6-4,6,4,1,0,Completed,true,false,false
+UA018073,26 Mar 23,7,Glen Huntly,Royal Ave,No. 1,Nile Roberts,Noah Bradley,Noah Bradley,3-6,3,6,0,1,Completed,true,false,false
+UA018073,26 Mar 23,7,Glen Huntly,Royal Ave,No. 2,Charlie Renwick,James Sutherland,James Sutherland,4-6,4,6,0,1,Completed,true,false,false
+UA018073,26 Mar 23,7,Glen Huntly,Royal Ave,No. 3,Rahael Vinsonneau,Amber Sutherland,Amber Sutherland,5-7,5,7,0,1,Completed,true,false,false
+UA018073,26 Mar 23,7,Glen Huntly,Royal Ave,No. 4,Oliver Sey,Dylan Keyvanlop,Oliver Sey,6-1,6,1,1,0,Completed,true,false,true
+UA018074,26 Mar 23,7,Hurlingham Park Blue,Dendy Park,No. 1,Noah Passov,Jake Bloom,Jake Bloom,3-6,3,6,0,1,Completed,true,false,false
+UA018074,26 Mar 23,7,Hurlingham Park Blue,Dendy Park,No. 2,Angus O'Neil,Elliot Mayger,Elliot Mayger,4-6,4,6,0,1,Completed,true,false,false
+UA018074,26 Mar 23,7,Hurlingham Park Blue,Dendy Park,No. 3,Hudson Sumner,Pei Ting Chan,Hudson Sumner,6-0,6,0,1,0,Completed,true,false,false
+UA018074,26 Mar 23,7,Hurlingham Park Blue,Dendy Park,No. 4,Nina Seuret-Batterham,Johnny Chew,Johnny Chew,1-6,1,6,0,1,Completed,true,false,false
+UA018081,02 Apr 23,8,Dendy Park,BLTC,No. 1,Jake Bloom,Tyler Adams,Tyler Adams,3-6,3,6,0,1,Completed,true,false,false
+UA018081,02 Apr 23,8,Dendy Park,BLTC,No. 2,Pei Ting Chan,Finn Haines,Finn Haines,4-6,4,6,0,1,Completed,true,false,false
+UA018081,02 Apr 23,8,Dendy Park,BLTC,No. 3,Angus Van De Water,Chloe Marsh,Angus Van De Water,6-1,6,1,1,0,Completed,true,false,false
+UA018081,02 Apr 23,8,Dendy Park,BLTC,No. 4,Alexander Hookway,Jetton Becconsmith,Jetton Becconsmith,4-6,4,6,0,1,Completed,true,false,false
+UA018082,02 Apr 23,8,Royal Ave,GPHC,No. 1,Noah Bradley,Maddie James,Noah Bradley,6-2,6,2,1,0,Completed,true,false,false
+UA018082,02 Apr 23,8,Royal Ave,GPHC,No. 2,Archie McPherson,Caitlin Cassidy,Caitlin Cassidy,1-6,1,6,0,1,Completed,true,false,false
+UA018082,02 Apr 23,8,Royal Ave,GPHC,No. 3,James Sutherland,Emily Saw,Emily Saw,3-6,3,6,0,1,Completed,true,false,false
+UA018082,02 Apr 23,8,Royal Ave,GPHC,No. 4,Amber Sutherland,Sally Burns,Amber Sutherland,6-0,6,0,1,0,Completed,true,false,false
+UA018083,02 Apr 23,8,Hurlingham Park Blue,Elsternwick Park,No. 1,Dominic Eather,Claude Howard,Dominic Eather,6-1,6,1,1,0,Completed,true,false,false
+UA018083,02 Apr 23,8,Hurlingham Park Blue,Elsternwick Park,No. 2,Noah Passov,Mariana Tzafeis,Mariana Tzafeis,3-6,3,6,0,1,Completed,true,false,true
+UA018083,02 Apr 23,8,Hurlingham Park Blue,Elsternwick Park,No. 3,Angus O'Neil,Giorgio Colla,Giorgio Colla,3-6,3,6,0,1,Completed,true,false,false
+UA018083,02 Apr 23,8,Hurlingham Park Blue,Elsternwick Park,No. 4,Hudson Sumner,Noa Preston,Hudson Sumner,6-0,6,0,1,0,Completed,true,false,false
+UA018084,02 Apr 23,8,Glen Huntly,Victory Park,No. 1,Nile Roberts,Ben Hadarl,Ben Hadarl,2-6,2,6,0,1,Completed,true,false,false
+UA018084,02 Apr 23,8,Glen Huntly,Victory Park,No. 2,Charlie Renwick,Kiichi Usui,Charlie Renwick,6-2,6,2,1,0,Completed,true,false,false
+UA018084,02 Apr 23,8,Glen Huntly,Victory Park,No. 3,Aarna Patel,Sam Angliss,Sam Angliss,3-6,3,6,0,1,Completed,true,true,false
+UA018084,02 Apr 23,8,Glen Huntly,Victory Park,No. 4,Aarush Kesarkar,Aoi Mizuta,Aoi Mizuta,4-6,4,6,0,1,Completed,true,false,false
+UA018091,30 Apr 23,9,BLTC,Glen Huntly,No. 1,Tyler Adams,Charlie Renwick,Charlie Renwick,3-6,3,6,0,1,Completed,true,false,false
+UA018091,30 Apr 23,9,BLTC,Glen Huntly,No. 2,Jamie Clark,Rahael Vinsonneau,Jamie Clark,7-5,7,5,1,0,Completed,true,false,false
+UA018091,30 Apr 23,9,BLTC,Glen Huntly,No. 3,Sara Catala Prieto,Oliver Sey,Sara Catala Prieto,6-2,6,2,1,0,Completed,true,false,false
+UA018091,30 Apr 23,9,BLTC,Glen Huntly,No. 4,Chloe Marsh,Aarush Kesarkar,Aarush Kesarkar,6-7,6,7,0,1,Completed,true,false,false
+UA018092,30 Apr 23,9,GPHC,Dendy Park,No. 1,Rameen Atti,Elliot Mayger,Rameen Atti,6-1,6,1,1,0,Completed,true,false,false
+UA018092,30 Apr 23,9,GPHC,Dendy Park,No. 2,Emily Saw,Angus Van De Water,Angus Van De Water,5-7,5,7,0,1,Completed,true,false,false
+UA018092,30 Apr 23,9,GPHC,Dendy Park,No. 3,Sally Burns,Alexander Hookway,Alexander Hookway,2-6,2,6,0,1,Completed,true,false,false
+UA018092,30 Apr 23,9,GPHC,Dendy Park,No. 4,Isabelle Nelson,Johnny Chew,Johnny Chew,0-6,0,6,0,1,Completed,true,false,false
+UA018093,30 Apr 23,9,Elsternwick Park,Royal Ave,No. 1,Evan Yu,James Sutherland,James Sutherland,0-6,0,6,0,1,Completed,true,true,false
+UA018093,30 Apr 23,9,Elsternwick Park,Royal Ave,No. 2,Giorgio Colla,Sonny Baker,Giorgio Colla,7-5,7,5,1,0,Completed,true,false,false
+UA018093,30 Apr 23,9,Elsternwick Park,Royal Ave,No. 3,Charlie Chidlow,Charlie Vakrinos,Charlie Vakrinos,2-6,2,6,0,1,Completed,true,true,true
+UA018093,30 Apr 23,9,Elsternwick Park,Royal Ave,No. 4,Ruben Young,Kosta Vakrinos,Ruben Young,6-4,6,4,1,0,Completed,true,true,false
+UA018094,30 Apr 23,9,Victory Park,Hurlingham Park Blue,No. 1,Divan Engelbrecht,Dominic Eather,Divan Engelbrecht,6-0,6,0,1,0,Completed,true,false,false
+UA018094,30 Apr 23,9,Victory Park,Hurlingham Park Blue,No. 2,Kiichi Usui,Angus O'Neil,Kiichi Usui,6-3,6,3,1,0,Completed,true,false,false
+UA018094,30 Apr 23,9,Victory Park,Hurlingham Park Blue,No. 3,Zara Latimer,Freddie Williams,Freddie Williams,4-6,4,6,0,1,Completed,true,false,true
+UA018094,30 Apr 23,9,Victory Park,Hurlingham Park Blue,No. 4,Aoi Mizuta,Nina Seuret-Batterham,Nina Seuret-Batterham,5-7,5,7,0,1,Completed,true,false,false
+UA018111,14 May 23,11,BLTC,Royal Ave,No. 1,Finn Haines,Noah Bradley,Noah Bradley,3-6,3,6,0,1,Completed,true,false,false
+UA018111,14 May 23,11,BLTC,Royal Ave,No. 2,Sara Catala Prieto,James Sutherland,James Sutherland,4-6,4,6,0,1,Completed,true,false,false
+UA018111,14 May 23,11,BLTC,Royal Ave,No. 3,Chloe Marsh,Sonny Baker,Sonny Baker,0-6,0,6,0,1,Completed,true,false,false
+UA018111,14 May 23,11,BLTC,Royal Ave,No. 4,Ada Jenkins,Charlie Vakrinos,Charlie Vakrinos,1-6,1,6,0,1,Completed,true,true,true
+UA018112,14 May 23,11,GPHC,Hurlingham Park Blue,No. 1,Rameen Atti,Dominic Eather,Rameen Atti,6-1,6,1,1,0,Completed,true,false,false
+UA018112,14 May 23,11,GPHC,Hurlingham Park Blue,No. 2,Maddie James,Noah Passov,Noah Passov,4-6,4,6,0,1,Completed,true,false,false
+UA018112,14 May 23,11,GPHC,Hurlingham Park Blue,No. 3,Caitlin Cassidy,Angus O'Neil,Caitlin Cassidy,6-1,6,1,1,0,Completed,true,false,false
+UA018112,14 May 23,11,GPHC,Hurlingham Park Blue,No. 4,Emily Saw,Nina Seuret-Batterham,Emily Saw,6-0,6,0,1,0,Completed,true,false,false
+UA018113,14 May 23,11,Elsternwick Park,Glen Huntly,No. 1,Gianluca Stravos,Nile Roberts,Nile Roberts,0-6,0,6,0,1,Completed,true,false,false
+UA018113,14 May 23,11,Elsternwick Park,Glen Huntly,No. 2,Charlie Chidlow,Charlie Renwick,Charlie Renwick,6-7,6,7,0,1,Completed,true,true,false
+UA018113,14 May 23,11,Elsternwick Park,Glen Huntly,No. 3,Roby Capomolla,Rahael Vinsonneau,Roby Capomolla,6-2,6,2,1,0,Completed,true,false,false
+UA018113,14 May 23,11,Elsternwick Park,Glen Huntly,No. 4,Noa Preston,Oliver Sey,Oliver Sey,2-6,2,6,0,1,Completed,true,false,false
+UA018114,14 May 23,11,Victory Park,Dendy Park,No. 1,Divan Engelbrecht,Jake Bloom,Divan Engelbrecht,6-1,6,1,1,0,Completed,true,false,false
+UA018114,14 May 23,11,Victory Park,Dendy Park,No. 2,Kiichi Usui,Alexander Hookway,Kiichi Usui,6-4,6,4,1,0,Completed,true,false,false
+UA018114,14 May 23,11,Victory Park,Dendy Park,No. 3,Zara Latimer,Angus Van De Water,Zara Latimer,6-0,6,0,1,0,Completed,true,false,false
+UA018114,14 May 23,11,Victory Park,Dendy Park,No. 4,Aoi Mizuta,[Unnamed player — TROLS UA018114 away code 4],[Unnamed player — TROLS UA018114 away code 4],1-6,1,6,0,1,Completed,false,false,false
+UA018122,21 May 23,12,Hurlingham Park Blue,Glen Huntly,No. 1,Dominic Eather,Charlie Renwick,Charlie Renwick,1-6,1,6,0,1,Completed,true,false,false
+UA018122,21 May 23,12,Hurlingham Park Blue,Glen Huntly,No. 2,Asher Vaughan,Rahael Vinsonneau,Rahael Vinsonneau,0-6,0,6,0,1,Completed,true,false,false
+UA018122,21 May 23,12,Hurlingham Park Blue,Glen Huntly,No. 3,Hudson Sumner,Oliver Sey,Hudson Sumner,6-1,6,1,1,0,Completed,true,false,false
+UA018122,21 May 23,12,Hurlingham Park Blue,Glen Huntly,No. 4,Nina Seuret-Batterham,Aarush Kesarkar,Aarush Kesarkar,0-6,0,6,0,1,Completed,true,false,false
+UA018124,21 May 23,12,GPHC,BLTC,No. 1,Caitlin Cassidy,Tyler Adams,Tyler Adams,1-6,1,6,0,1,Completed,true,false,false
+UA018124,21 May 23,12,GPHC,BLTC,No. 2,Emily Saw,Finn Haines,Finn Haines,6-7,6,7,0,1,Completed,true,false,false
+UA018124,21 May 23,12,GPHC,BLTC,No. 3,Sally Burns,Finlay Bennett,Finlay Bennett,3-6,3,6,0,1,Completed,true,false,true
+UA018124,21 May 23,12,GPHC,BLTC,No. 4,Isabelle Nelson,Logan Bennett,Logan Bennett,5-7,5,7,0,1,Completed,true,false,true
+UA018301,,16,BLTC,Glen Huntly,No. 1,Tyler Adams,Nile Roberts,Tyler Adams,6-3,6,3,1,0,Completed,true,false,false
+UA018301,,16,BLTC,Glen Huntly,No. 2,Jamie Clark,Charlie Renwick,Charlie Renwick,0-6,0,6,0,1,Completed,true,false,false
+UA018301,,16,BLTC,Glen Huntly,No. 3,Finn Haines,Rahael Vinsonneau,Rahael Vinsonneau,4-6,4,6,0,1,Completed,true,false,false
+UA018301,,16,BLTC,Glen Huntly,No. 4,Jetton Becconsmith,Oliver Sey,Jetton Becconsmith,6-3,6,3,1,0,Completed,true,false,false
+UA018302,,16,Victory Park,Royal Ave,No. 1,Ben Hadarl,Noah Bradley,Ben Hadarl,6-4,6,4,1,0,Completed,true,false,false
+UA018302,,16,Victory Park,Royal Ave,No. 2,Divan Engelbrecht,James Sutherland,Divan Engelbrecht,6-3,6,3,1,0,Completed,true,false,false
+UA018302,,16,Victory Park,Royal Ave,No. 3,Kiichi Usui,Amber Sutherland,Kiichi Usui,7-5,7,5,1,0,Completed,true,false,false
+UA018302,,16,Victory Park,Royal Ave,No. 4,Zara Latimer,Sonny Baker,Sonny Baker,0-6,0,6,0,1,Completed,true,false,false
+UA018321,,17,Victory Park,Glen Huntly,No. 1,Ben Hadarl,Nile Roberts,Nile Roberts,3-6,3,6,0,1,Completed,true,false,false
+UA018321,,17,Victory Park,Glen Huntly,No. 2,Divan Engelbrecht,Charlie Renwick,Divan Engelbrecht,6-2,6,2,1,0,Completed,true,false,false
+UA018321,,17,Victory Park,Glen Huntly,No. 3,Kiichi Usui,Rahael Vinsonneau,Rahael Vinsonneau,5-7,5,7,0,1,Completed,true,false,false
+UA018321,,17,Victory Park,Glen Huntly,No. 4,Sam Angliss,Oliver Sey,Sam Angliss,6-1,6,1,1,0,Completed,true,false,false

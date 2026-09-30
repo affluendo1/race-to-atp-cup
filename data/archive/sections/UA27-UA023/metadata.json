@@ -1,0 +1,75 @@
+{
+  "asset_id": "UA27-UA023",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2020",
+  "season_id": "UA27",
+  "season_label": "Spring 2020",
+  "source_section_code": "UA023",
+  "section_label": "Section 23 Green",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park 2",
+      "wins": 2,
+      "points": 36,
+      "percentage": 217.86,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "St James",
+      "wins": 2,
+      "points": 29,
+      "percentage": 200.0,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Parkdale",
+      "wins": 2,
+      "points": 25,
+      "percentage": 127.14,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Aspendale",
+      "wins": 2,
+      "points": 20,
+      "percentage": 149.47,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 2,
+      "points": 16,
+      "percentage": 47.37,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kings Park 1",
+      "wins": 0,
+      "points": 4,
+      "percentage": 42.96,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA27-UA023",
+  "fixtures": 24,
+  "completed_fixtures": 10,
+  "draw_fixtures": 42,
+  "singles_rubbers": 40,
+  "doubles_rubbers": 20,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

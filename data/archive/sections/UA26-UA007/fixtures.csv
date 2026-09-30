@@ -1,0 +1,25 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA007011,02 Feb 20,1,regular,Round 1,Aspendale,Clarinda,3,7,3,3,,,26,31,Completed,
+UA007012,02 Feb 20,1,regular,Round 1,GPHC,BLTC,2,8,2,4,,,24,31,Completed,
+UA007013,02 Feb 20,1,regular,Round 1,Royal South Yarra,Middle Brighton,8,2,4,2,,,32,19,Completed,
+UA007014,02 Feb 20,1,regular,Round 1,Hurlingham Park,Centenary Park,8,2,4,2,,,28,17,Completed,
+UA007021,09 Feb 20,2,regular,Round 2,Centenary Park,Aspendale,8,2,4,2,,,30,23,Completed,
+UA007022,09 Feb 20,2,regular,Round 2,Clarinda,GPHC,2,8,2,4,,,21,26,Completed,
+UA007023,09 Feb 20,2,regular,Round 2,BLTC,Royal South Yarra,7,3,3,3,,,31,25,Completed,
+UA007024,09 Feb 20,2,regular,Round 2,Middle Brighton,Hurlingham Park,1,9,1,5,,,10,34,Completed,
+UA007031,16 Feb 20,3,regular,Round 3,Aspendale,Middle Brighton,8,2,4,2,,,30,17,Completed,
+UA007032,16 Feb 20,3,regular,Round 3,GPHC,Centenary Park,8,2,4,2,,,28,21,Completed,
+UA007033,16 Feb 20,3,regular,Round 3,Royal South Yarra,Clarinda,2,8,2,4,,,21,26,Completed,
+UA007034,16 Feb 20,3,regular,Round 3,Hurlingham Park,BLTC,10,0,6,0,,,37,14,Completed,
+UA007041,23 Feb 20,4,regular,Round 4,BLTC,Aspendale,9,1,5,1,,,34,16,Completed,
+UA007043,23 Feb 20,4,regular,Round 4,Centenary Park,Royal South Yarra,8,2,4,2,,,33,24,Completed,
+UA007044,23 Feb 20,4,regular,Round 4,Clarinda,Hurlingham Park,0,10,0,6,,,15,37,Completed,
+pending-ua007-r4-middle-brighton-gphc,23 Feb 20,4,regular,Round 4,Middle Brighton,GPHC,,,,,,,,,Forfeited To,No individual scorecard / no rubbers recorded
+UA007051,01 Mar 20,5,regular,Round 5,Royal South Yarra,Hurlingham Park,1,9,1,5,,,16,36,Completed,
+UA007052,01 Mar 20,5,regular,Round 5,Centenary Park,Middle Brighton,10,0,6,0,,,36,12,Completed,
+UA007053,01 Mar 20,5,regular,Round 5,BLTC,Clarinda,2,8,2,4,,,23,29,Completed,
+UA007054,01 Mar 20,5,regular,Round 5,Aspendale,GPHC,2,8,2,4,,,23,28,Completed,
+pending-ua007-r6-clarinda-centenary-park,15 Mar 20,6,regular,Round 6,Clarinda,Centenary Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua007-r6-gphc-royal-south-yarra,15 Mar 20,6,regular,Round 6,GPHC,Royal South Yarra,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua007-r6-hurlingham-park-aspendale,15 Mar 20,6,regular,Round 6,Hurlingham Park,Aspendale,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua007-r6-middle-brighton-bltc,15 Mar 20,6,regular,Round 6,Middle Brighton,BLTC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded

@@ -1,0 +1,177 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA004011,05 Feb 23,1,Royal South Yarra Gold,Tennis World,No. 1,Adrian Borsaru,Daksh Sharma,Daksh Sharma,3-6,3,6,0,1,Completed,true,false,false
+UA004011,05 Feb 23,1,Royal South Yarra Gold,Tennis World,No. 2,Tommaso Palombaro,Ishaan Arya,Tommaso Palombaro,6-3,6,3,1,0,Completed,true,false,false
+UA004011,05 Feb 23,1,Royal South Yarra Gold,Tennis World,No. 3,Dash Webb,James King,Dash Webb,6-1,6,1,1,0,Completed,true,false,false
+UA004011,05 Feb 23,1,Royal South Yarra Gold,Tennis World,No. 4,Boston Moran,Joel Dalidowicz,Boston Moran,6-2,6,2,1,0,Completed,true,false,false
+UA004012,05 Feb 23,1,Black Rock,Kooyong,No. 1,Lewis Smith,Harriet Venn,Lewis Smith,6-0,6,0,1,0,Completed,true,false,false
+UA004012,05 Feb 23,1,Black Rock,Kooyong,No. 2,Harvey Lansley,James Temple,James Temple,3-6,3,6,0,1,Completed,true,false,false
+UA004012,05 Feb 23,1,Black Rock,Kooyong,No. 3,Jacky Kong,Julian Briggs,Jacky Kong,7-5,7,5,1,0,Completed,true,false,true
+UA004012,05 Feb 23,1,Black Rock,Kooyong,No. 4,Oliver Capel,Gabriel Pozo,Oliver Capel,7-6,7,6,1,0,Completed,true,false,true
+UA004013,05 Feb 23,1,Elsternwick Park,Centenary Park Blue,No. 1,Ray Yamamoto,Samantha Morales,Ray Yamamoto,7-5,7,5,1,0,Completed,true,false,false
+UA004013,05 Feb 23,1,Elsternwick Park,Centenary Park Blue,No. 2,Wynn Arumugam,Sasha Minin,Wynn Arumugam,6-4,6,4,1,0,Completed,true,false,false
+UA004013,05 Feb 23,1,Elsternwick Park,Centenary Park Blue,No. 3,Matthew Rebelo,Amayah Jordan,Matthew Rebelo,6-2,6,2,1,0,Completed,true,false,false
+UA004013,05 Feb 23,1,Elsternwick Park,Centenary Park Blue,No. 4,Alastair Smith,Sienna Le,Alastair Smith,6-3,6,3,1,0,Completed,true,false,false
+UA004014,05 Feb 23,1,Glen Huntly,Murrumbeena,No. 1,Allistair Cairns,Dhruv Tomar,Allistair Cairns,7-6,7,6,1,0,Completed,true,false,false
+UA004014,05 Feb 23,1,Glen Huntly,Murrumbeena,No. 2,Pierre Maziarz,Thomas Moore,Thomas Moore,2-6,2,6,0,1,Completed,true,false,false
+UA004014,05 Feb 23,1,Glen Huntly,Murrumbeena,No. 3,Tate Nguyen,Aodhan Monteiro,Aodhan Monteiro,0-6,0,6,0,1,Completed,true,false,false
+UA004014,05 Feb 23,1,Glen Huntly,Murrumbeena,No. 4,Atticus Dhimann,Oliver Huggins,Oliver Huggins,1-6,1,6,0,1,Completed,true,false,false
+UA004021,12 Feb 23,2,Murrumbeena,Royal South Yarra Gold,No. 1,Dhruv Tomar,Adrian Borsaru,Dhruv Tomar,6-2,6,2,1,0,Completed,true,false,false
+UA004021,12 Feb 23,2,Murrumbeena,Royal South Yarra Gold,No. 2,Thomas Moore,Tommaso Palombaro,Thomas Moore,6-3,6,3,1,0,Completed,true,false,false
+UA004021,12 Feb 23,2,Murrumbeena,Royal South Yarra Gold,No. 3,Aodhan Monteiro,Dash Webb,Aodhan Monteiro,6-4,6,4,1,0,Completed,true,false,false
+UA004021,12 Feb 23,2,Murrumbeena,Royal South Yarra Gold,No. 4,Oliver Huggins,Boston Moran,Oliver Huggins,6-0,6,0,1,0,Completed,true,false,false
+UA004022,12 Feb 23,2,Tennis World,Black Rock,No. 1,Claudia Popovic,Lewis Smith,Lewis Smith,1-6,1,6,0,1,Completed,true,false,false
+UA004022,12 Feb 23,2,Tennis World,Black Rock,No. 2,Adrian Peter Evans,Harvey Lansley,Adrian Peter Evans,7-6,7,6,1,0,Completed,true,false,false
+UA004022,12 Feb 23,2,Tennis World,Black Rock,No. 3,Noah Palushi,Jacky Kong,Noah Palushi,6-2,6,2,1,0,Completed,true,false,false
+UA004022,12 Feb 23,2,Tennis World,Black Rock,No. 4,Joel Dalidowicz,Oliver Capel,Oliver Capel,0-6,0,6,0,1,Completed,true,false,false
+UA004023,12 Feb 23,2,Kooyong,Elsternwick Park,No. 1,Harriet Venn,Ray Yamamoto,Ray Yamamoto,2-6,2,6,0,1,Completed,true,false,false
+UA004023,12 Feb 23,2,Kooyong,Elsternwick Park,No. 2,Nick Howitt,Hugo Morgan,Nick Howitt,6-2,6,2,1,0,Completed,true,false,false
+UA004023,12 Feb 23,2,Kooyong,Elsternwick Park,No. 3,James Temple,Austin Haines,James Temple,6-4,6,4,1,0,Completed,true,false,false
+UA004023,12 Feb 23,2,Kooyong,Elsternwick Park,No. 4,Edward Pollard,Matthew Rebelo,Matthew Rebelo,4-6,4,6,0,1,Completed,true,false,false
+UA004024,12 Feb 23,2,Centenary Park Blue,Glen Huntly,No. 1,Sasha Minin,Allistair Cairns,Sasha Minin,6-2,6,2,1,0,Completed,true,false,false
+UA004024,12 Feb 23,2,Centenary Park Blue,Glen Huntly,No. 2,Amayah Jordan,Pierre Maziarz,Pierre Maziarz,6-7,6,7,0,1,Completed,true,false,false
+UA004024,12 Feb 23,2,Centenary Park Blue,Glen Huntly,No. 3,Sienna Le,Tate Nguyen,Tate Nguyen,1-6,1,6,0,1,Completed,true,false,false
+UA004024,12 Feb 23,2,Centenary Park Blue,Glen Huntly,No. 4,Joshua Nowell,Natalie Duieb,Natalie Duieb,3-6,3,6,0,1,Completed,true,false,false
+UA004031,19 Feb 23,3,Royal South Yarra Gold,Centenary Park Blue,No. 1,Adrian Borsaru,Samantha Morales,Samantha Morales,0-6,0,6,0,1,Completed,true,false,false
+UA004031,19 Feb 23,3,Royal South Yarra Gold,Centenary Park Blue,No. 2,Boston Moran,Sasha Minin,Sasha Minin,0-6,0,6,0,1,Completed,true,false,false
+UA004031,19 Feb 23,3,Royal South Yarra Gold,Centenary Park Blue,No. 3,Tom Hayden,Joshua Nowell,Tom Hayden,6-3,6,3,1,0,Completed,true,true,false
+UA004031,19 Feb 23,3,Royal South Yarra Gold,Centenary Park Blue,No. 4,Luca Webb,Orlando Morales,Orlando Morales,0-6,0,6,0,1,Completed,true,true,true
+UA004032,19 Feb 23,3,Black Rock,Murrumbeena,No. 1,Lewis Smith,Dhruv Tomar,Dhruv Tomar,1-6,1,6,0,1,Completed,true,false,false
+UA004032,19 Feb 23,3,Black Rock,Murrumbeena,No. 2,Harvey Lansley,Thomas Moore,Thomas Moore,1-6,1,6,0,1,Completed,true,false,false
+UA004032,19 Feb 23,3,Black Rock,Murrumbeena,No. 3,Jacky Kong,Aodhan Monteiro,Aodhan Monteiro,1-6,1,6,0,1,Completed,true,false,false
+UA004032,19 Feb 23,3,Black Rock,Murrumbeena,No. 4,Oliver Capel,Oliver Huggins,Oliver Capel,6-1,6,1,1,0,Completed,true,false,false
+UA004033,19 Feb 23,3,Elsternwick Park,Tennis World,No. 1,Hugo Morgan,Daksh Sharma,Daksh Sharma,4-6,4,6,0,1,Completed,true,false,false
+UA004033,19 Feb 23,3,Elsternwick Park,Tennis World,No. 2,Wynn Arumugam,Adrian Peter Evans,Wynn Arumugam,6-4,6,4,1,0,Completed,true,false,false
+UA004033,19 Feb 23,3,Elsternwick Park,Tennis World,No. 3,Austin Haines,Ishaan Arya,Ishaan Arya,3-6,3,6,0,1,Completed,true,false,false
+UA004033,19 Feb 23,3,Elsternwick Park,Tennis World,No. 4,Alastair Smith,James King,Alastair Smith,6-3,6,3,1,0,Completed,true,false,false
+UA004034,19 Feb 23,3,Glen Huntly,Kooyong,No. 1,Allistair Cairns,Harriet Venn,Allistair Cairns,7-5,7,5,1,0,Completed,true,false,false
+UA004034,19 Feb 23,3,Glen Huntly,Kooyong,No. 2,Pierre Maziarz,Nick Howitt,Pierre Maziarz,6-4,6,4,1,0,Completed,true,false,false
+UA004034,19 Feb 23,3,Glen Huntly,Kooyong,No. 3,Tate Nguyen,James Temple,James Temple,1-6,1,6,0,1,Completed,true,false,false
+UA004034,19 Feb 23,3,Glen Huntly,Kooyong,No. 4,Atticus Dhimann,Edward Pollard,Edward Pollard,1-6,1,6,0,1,Completed,true,false,false
+UA004041,26 Feb 23,4,Kooyong,Royal South Yarra Gold,No. 1,Harriet Venn,Adrian Borsaru,Adrian Borsaru,1-6,1,6,0,1,Completed,true,false,false
+UA004041,26 Feb 23,4,Kooyong,Royal South Yarra Gold,No. 2,James Temple,Tommaso Palombaro,James Temple,6-4,6,4,1,0,Completed,true,false,false
+UA004041,26 Feb 23,4,Kooyong,Royal South Yarra Gold,No. 3,Jesse Theodore,Dash Webb,Dash Webb,0-6,0,6,0,1,Completed,true,false,false
+UA004041,26 Feb 23,4,Kooyong,Royal South Yarra Gold,No. 4,Will Howitt,Boston Moran,Boston Moran,0-6,0,6,0,1,Completed,true,true,false
+UA004042,26 Feb 23,4,Centenary Park Blue,Black Rock,No. 1,Sasha Minin,Lewis Smith,Sasha Minin,6-1,6,1,1,0,Completed,true,false,false
+UA004042,26 Feb 23,4,Centenary Park Blue,Black Rock,No. 2,Ana Maric,Harvey Lansley,Harvey Lansley,2-6,2,6,0,1,Completed,true,true,false
+UA004042,26 Feb 23,4,Centenary Park Blue,Black Rock,No. 3,Amayah Jordan,Oliver Capel,Oliver Capel,1-6,1,6,0,1,Completed,true,false,false
+UA004042,26 Feb 23,4,Centenary Park Blue,Black Rock,No. 4,Joshua Nowell,Jules Harris-Ure,Joshua Nowell,6-4,6,4,1,0,Completed,true,false,true
+UA004043,26 Feb 23,4,Murrumbeena,Elsternwick Park,No. 1,Dhruv Tomar,Ray Yamamoto,Dhruv Tomar,6-3,6,3,1,0,Completed,true,false,false
+UA004043,26 Feb 23,4,Murrumbeena,Elsternwick Park,No. 2,Thomas Moore,Hugo Morgan,Thomas Moore,6-0,6,0,1,0,Completed,true,false,false
+UA004043,26 Feb 23,4,Murrumbeena,Elsternwick Park,No. 3,Aodhan Monteiro,Wynn Arumugam,Wynn Arumugam,4-6,4,6,0,1,Completed,true,false,false
+UA004043,26 Feb 23,4,Murrumbeena,Elsternwick Park,No. 4,Oliver Huggins,Alastair Smith,Oliver Huggins,6-4,6,4,1,0,Completed,true,false,false
+UA004044,26 Feb 23,4,Tennis World,Glen Huntly,No. 1,Claudia Popovic,Allistair Cairns,Allistair Cairns,1-6,1,6,0,1,Completed,true,false,false
+UA004044,26 Feb 23,4,Tennis World,Glen Huntly,No. 2,Adrian Peter Evans,Pierre Maziarz,Adrian Peter Evans,7-5,7,5,1,0,Completed,true,false,false
+UA004044,26 Feb 23,4,Tennis World,Glen Huntly,No. 3,Ishaan Arya,Tate Nguyen,Ishaan Arya,7-6,7,6,1,0,Completed,true,false,false
+UA004044,26 Feb 23,4,Tennis World,Glen Huntly,No. 4,Joel Dalidowicz,Natalie Duieb,Natalie Duieb,3-6,3,6,0,1,Completed,true,false,false
+UA004051,05 Mar 23,5,Elsternwick Park,Glen Huntly,No. 1,Ray Yamamoto,Allistair Cairns,Ray Yamamoto,6-2,6,2,1,0,Completed,true,false,false
+UA004051,05 Mar 23,5,Elsternwick Park,Glen Huntly,No. 2,Hugo Morgan,Atticus Dhimann,Hugo Morgan,6-1,6,1,1,0,Completed,true,false,false
+UA004051,05 Mar 23,5,Elsternwick Park,Glen Huntly,No. 3,Austin Haines,Natalie Duieb,Austin Haines,6-1,6,1,1,0,Completed,true,false,false
+UA004051,05 Mar 23,5,Elsternwick Park,Glen Huntly,No. 4,Alastair Smith,Jordi Friedman,Jordi Friedman,4-6,4,6,0,1,Completed,true,false,false
+UA004052,05 Mar 23,5,Murrumbeena,Centenary Park Blue,No. 1,Dhruv Tomar,Samantha Morales,Dhruv Tomar,6-2,6,2,1,0,Completed,true,false,false
+UA004052,05 Mar 23,5,Murrumbeena,Centenary Park Blue,No. 2,Thomas Moore,Sasha Minin,Sasha Minin,2-6,2,6,0,1,Completed,true,false,false
+UA004052,05 Mar 23,5,Murrumbeena,Centenary Park Blue,No. 3,Aodhan Monteiro,Amayah Jordan,Aodhan Monteiro,6-0,6,0,1,0,Completed,true,false,false
+UA004052,05 Mar 23,5,Murrumbeena,Centenary Park Blue,No. 4,Oliver Huggins,Sienna Le,Oliver Huggins,6-2,6,2,1,0,Completed,true,false,false
+UA004053,05 Mar 23,5,Kooyong,Tennis World,No. 1,Harriet Venn,Daksh Sharma,Daksh Sharma,0-6,0,6,0,1,Completed,true,false,false
+UA004053,05 Mar 23,5,Kooyong,Tennis World,No. 2,Nick Howitt,Adrian Peter Evans,Adrian Peter Evans,3-6,3,6,0,1,Completed,true,false,false
+UA004053,05 Mar 23,5,Kooyong,Tennis World,No. 3,James Temple,Noah Palushi,James Temple,6-0,6,0,1,0,Completed,true,false,false
+UA004053,05 Mar 23,5,Kooyong,Tennis World,No. 4,Edward Pollard,James King,Edward Pollard,6-2,6,2,1,0,Completed,true,false,false
+UA004054,05 Mar 23,5,Royal South Yarra Gold,Black Rock,No. 1,Adrian Borsaru,Lewis Smith,Lewis Smith,4-6,4,6,0,1,Completed,true,false,false
+UA004054,05 Mar 23,5,Royal South Yarra Gold,Black Rock,No. 2,Tommaso Palombaro,Harvey Lansley,Tommaso Palombaro,6-1,6,1,1,0,Completed,true,false,false
+UA004054,05 Mar 23,5,Royal South Yarra Gold,Black Rock,No. 3,Dash Webb,Oliver Capel,Dash Webb,6-0,6,0,1,0,Completed,true,false,false
+UA004054,05 Mar 23,5,Royal South Yarra Gold,Black Rock,No. 4,Boston Moran,Ella Rankin,Ella Rankin,5-7,5,7,0,1,Completed,true,false,true
+UA004061,19 Mar 23,6,Black Rock,Elsternwick Park,No. 1,Lewis Smith,Ray Yamamoto,Ray Yamamoto,3-6,3,6,0,1,Completed,true,false,false
+UA004061,19 Mar 23,6,Black Rock,Elsternwick Park,No. 2,Harvey Lansley,Wynn Arumugam,Wynn Arumugam,1-6,1,6,0,1,Completed,true,false,false
+UA004061,19 Mar 23,6,Black Rock,Elsternwick Park,No. 3,Jacky Kong,Matthew Rebelo,Jacky Kong,7-5,7,5,1,0,Completed,true,false,false
+UA004061,19 Mar 23,6,Black Rock,Elsternwick Park,No. 4,Oliver Capel,Alastair Smith,Alastair Smith,3-6,3,6,0,1,Completed,true,false,false
+UA004062,19 Mar 23,6,Glen Huntly,Royal South Yarra Gold,No. 1,Allistair Cairns,Adrian Borsaru,Allistair Cairns,6-2,6,2,1,0,Completed,true,false,false
+UA004062,19 Mar 23,6,Glen Huntly,Royal South Yarra Gold,No. 2,Tate Nguyen,Dash Webb,Dash Webb,5-7,5,7,0,1,Completed,true,false,false
+UA004062,19 Mar 23,6,Glen Huntly,Royal South Yarra Gold,No. 3,Atticus Dhimann,Nathan Lin,Nathan Lin,2-6,2,6,0,1,Completed,true,false,false
+UA004062,19 Mar 23,6,Glen Huntly,Royal South Yarra Gold,No. 4,Jordi Friedman,Boston Moran,Jordi Friedman,6-1,6,1,1,0,Completed,true,false,false
+UA004063,19 Mar 23,6,Centenary Park Blue,Kooyong,No. 1,Samantha Morales,Harriet Venn,Samantha Morales,6-2,6,2,1,0,Completed,true,false,false
+UA004063,19 Mar 23,6,Centenary Park Blue,Kooyong,No. 2,Amayah Jordan,James Temple,James Temple,0-6,0,6,0,1,Completed,true,false,false
+UA004063,19 Mar 23,6,Centenary Park Blue,Kooyong,No. 3,Sienna Le,Edward Pollard,Edward Pollard,3-6,3,6,0,1,Completed,true,false,false
+UA004063,19 Mar 23,6,Centenary Park Blue,Kooyong,No. 4,Joshua Nowell,Jesse Theodore,Joshua Nowell,6-4,6,4,1,0,Completed,true,false,false
+UA004064,19 Mar 23,6,Tennis World,Murrumbeena,No. 1,Claudia Popovic,Dhruv Tomar,Dhruv Tomar,1-6,1,6,0,1,Completed,true,false,false
+UA004064,19 Mar 23,6,Tennis World,Murrumbeena,No. 2,Noah Palushi,Thomas Moore,Thomas Moore,0-6,0,6,0,1,Completed,true,false,false
+UA004064,19 Mar 23,6,Tennis World,Murrumbeena,No. 3,Ishaan Arya,Aodhan Monteiro,Aodhan Monteiro,3-6,3,6,0,1,Completed,true,false,false
+UA004064,19 Mar 23,6,Tennis World,Murrumbeena,No. 4,Joel Dalidowicz,Oliver Huggins,Oliver Huggins,4-6,4,6,0,1,Completed,true,false,false
+UA004071,26 Mar 23,7,Royal South Yarra Gold,Elsternwick Park,No. 1,Tommaso Palombaro,Hugo Morgan,Hugo Morgan,4-6,4,6,0,1,Completed,true,false,false
+UA004071,26 Mar 23,7,Royal South Yarra Gold,Elsternwick Park,No. 2,Dash Webb,Wynn Arumugam,Wynn Arumugam,0-6,0,6,0,1,Completed,true,false,false
+UA004071,26 Mar 23,7,Royal South Yarra Gold,Elsternwick Park,No. 3,Nathan Lin,Austin Haines,Austin Haines,2-6,2,6,0,1,Completed,true,false,false
+UA004071,26 Mar 23,7,Royal South Yarra Gold,Elsternwick Park,No. 4,Boston Moran,Alastair Smith,Alastair Smith,5-7,5,7,0,1,Completed,true,false,false
+UA004072,26 Mar 23,7,Black Rock,Glen Huntly,No. 1,Lewis Smith,Allistair Cairns,Allistair Cairns,4-6,4,6,0,1,Completed,true,false,false
+UA004072,26 Mar 23,7,Black Rock,Glen Huntly,No. 2,Harvey Lansley,Tate Nguyen,Tate Nguyen,4-6,4,6,0,1,Completed,true,false,false
+UA004072,26 Mar 23,7,Black Rock,Glen Huntly,No. 3,Jacky Kong,Natalie Duieb,Jacky Kong,6-2,6,2,1,0,Completed,true,false,false
+UA004072,26 Mar 23,7,Black Rock,Glen Huntly,No. 4,Aryan Palai,Jordi Friedman,Aryan Palai,7-6,7,6,1,0,Completed,true,true,false
+UA004073,26 Mar 23,7,Murrumbeena,Kooyong,No. 1,Dhruv Tomar,Nick Howitt,Dhruv Tomar,6-2,6,2,1,0,Completed,true,false,false
+UA004073,26 Mar 23,7,Murrumbeena,Kooyong,No. 2,Thomas Moore,James Temple,Thomas Moore,6-3,6,3,1,0,Completed,true,false,false
+UA004073,26 Mar 23,7,Murrumbeena,Kooyong,No. 3,Aodhan Monteiro,Edward Pollard,Aodhan Monteiro,6-0,6,0,1,0,Completed,true,false,false
+UA004073,26 Mar 23,7,Murrumbeena,Kooyong,No. 4,Oliver Huggins,Jesse Theodore,Oliver Huggins,6-2,6,2,1,0,Completed,true,false,false
+UA004074,26 Mar 23,7,Centenary Park Blue,Tennis World,No. 1,Samantha Morales,Claudia Popovic,Samantha Morales,6-1,6,1,1,0,Completed,true,false,false
+UA004074,26 Mar 23,7,Centenary Park Blue,Tennis World,No. 2,Sasha Minin,Daksh Sharma,Sasha Minin,6-1,6,1,1,0,Completed,true,false,false
+UA004074,26 Mar 23,7,Centenary Park Blue,Tennis World,No. 3,Amayah Jordan,Adrian Peter Evans,Adrian Peter Evans,1-6,1,6,0,1,Completed,true,false,false
+UA004074,26 Mar 23,7,Centenary Park Blue,Tennis World,No. 4,Joshua Nowell,Joel Dalidowicz,Joel Dalidowicz,6-7,6,7,0,1,Completed,true,false,false
+UA004081,02 Apr 23,8,Tennis World,Royal South Yarra Gold,No. 1,Claudia Popovic,[Unnamed player — TROLS UA004081 away code 1],Claudia Popovic,6-0,6,0,1,0,Completed,false,false,false
+UA004081,02 Apr 23,8,Tennis World,Royal South Yarra Gold,No. 2,Adrian Peter Evans,Tommaso Palombaro,Tommaso Palombaro,5-7,5,7,0,1,Completed,true,false,false
+UA004081,02 Apr 23,8,Tennis World,Royal South Yarra Gold,No. 3,Noah Palushi,Kenneth Yeung,Kenneth Yeung,1-6,1,6,0,1,Completed,true,false,true
+UA004081,02 Apr 23,8,Tennis World,Royal South Yarra Gold,No. 4,James King,Arthur Andrews,Arthur Andrews,4-6,4,6,0,1,Completed,true,false,true
+UA004082,02 Apr 23,8,Kooyong,Black Rock,No. 1,Nick Howitt,Lewis Smith,Lewis Smith,1-6,1,6,0,1,Completed,true,false,false
+UA004082,02 Apr 23,8,Kooyong,Black Rock,No. 2,Edward Pollard,Harvey Lansley,Harvey Lansley,2-6,2,6,0,1,Completed,true,false,false
+UA004082,02 Apr 23,8,Kooyong,Black Rock,No. 3,Charles McKellar,Oliver Capel,Oliver Capel,4-6,4,6,0,1,Completed,true,false,false
+UA004082,02 Apr 23,8,Kooyong,Black Rock,No. 4,Angus McCallum,Emma Enkelman,Angus McCallum,7-5,7,5,1,0,Completed,true,true,true
+UA004083,02 Apr 23,8,Centenary Park Blue,Elsternwick Park,No. 1,Samantha Morales,Ray Yamamoto,Samantha Morales,6-3,6,3,1,0,Completed,true,false,false
+UA004083,02 Apr 23,8,Centenary Park Blue,Elsternwick Park,No. 2,Sasha Minin,Wynn Arumugam,Sasha Minin,7-5,7,5,1,0,Completed,true,false,false
+UA004083,02 Apr 23,8,Centenary Park Blue,Elsternwick Park,No. 3,Amayah Jordan,Austin Haines,Amayah Jordan,6-2,6,2,1,0,Completed,true,false,false
+UA004083,02 Apr 23,8,Centenary Park Blue,Elsternwick Park,No. 4,Joshua Nowell,Matthew Rebelo,Matthew Rebelo,3-6,3,6,0,1,Completed,true,false,false
+UA004084,02 Apr 23,8,Murrumbeena,Glen Huntly,No. 1,Dhruv Tomar,Allistair Cairns,Dhruv Tomar,7-6,7,6,1,0,Completed,true,false,false
+UA004084,02 Apr 23,8,Murrumbeena,Glen Huntly,No. 2,Thomas Moore,Pierre Maziarz,Thomas Moore,6-2,6,2,1,0,Completed,true,false,false
+UA004084,02 Apr 23,8,Murrumbeena,Glen Huntly,No. 3,Aodhan Monteiro,Tate Nguyen,Aodhan Monteiro,6-2,6,2,1,0,Completed,true,false,false
+UA004084,02 Apr 23,8,Murrumbeena,Glen Huntly,No. 4,Ruby Huggins,Atticus Dhimann,Ruby Huggins,6-1,6,1,1,0,Completed,true,true,false
+UA004091,30 Apr 23,9,Royal South Yarra Gold,Murrumbeena,No. 1,Adrian Borsaru,Dhruv Tomar,Dhruv Tomar,1-6,1,6,0,1,Completed,true,false,false
+UA004091,30 Apr 23,9,Royal South Yarra Gold,Murrumbeena,No. 2,Tommaso Palombaro,Thomas Moore,Thomas Moore,3-6,3,6,0,1,Completed,true,false,false
+UA004091,30 Apr 23,9,Royal South Yarra Gold,Murrumbeena,No. 3,Boston Moran,Aodhan Monteiro,Aodhan Monteiro,0-6,0,6,0,1,Completed,true,false,false
+UA004091,30 Apr 23,9,Royal South Yarra Gold,Murrumbeena,No. 4,Nathan Lin,Oliver Huggins,Oliver Huggins,2-6,2,6,0,1,Completed,true,false,false
+UA004092,30 Apr 23,9,Black Rock,Tennis World,No. 1,Lewis Smith,Adrian Peter Evans,Lewis Smith,6-0,6,0,1,0,Completed,true,false,false
+UA004092,30 Apr 23,9,Black Rock,Tennis World,No. 2,Jacky Kong,Ishaan Arya,Ishaan Arya,1-6,1,6,0,1,Completed,true,false,false
+UA004092,30 Apr 23,9,Black Rock,Tennis World,No. 3,Oliver Capel,James King,Oliver Capel,6-1,6,1,1,0,Completed,true,false,false
+UA004092,30 Apr 23,9,Black Rock,Tennis World,No. 4,Jules Harris-Ure,Joel Dalidowicz,Joel Dalidowicz,1-6,1,6,0,1,Completed,true,true,false
+UA004093,30 Apr 23,9,Elsternwick Park,Kooyong,No. 1,Ray Yamamoto,Harriet Venn,Ray Yamamoto,6-0,6,0,1,0,Completed,true,false,false
+UA004093,30 Apr 23,9,Elsternwick Park,Kooyong,No. 2,Hugo Morgan,Edward Pollard,Hugo Morgan,6-1,6,1,1,0,Completed,true,false,false
+UA004093,30 Apr 23,9,Elsternwick Park,Kooyong,No. 3,Austin Haines,Jesse Theodore,Austin Haines,6-2,6,2,1,0,Completed,true,false,false
+UA004093,30 Apr 23,9,Elsternwick Park,Kooyong,No. 4,Matthew Rebelo,Charles McKellar,Matthew Rebelo,6-1,6,1,1,0,Completed,true,false,false
+UA004094,30 Apr 23,9,Glen Huntly,Centenary Park Blue,No. 1,Allistair Cairns,Samantha Morales,Samantha Morales,2-6,2,6,0,1,Completed,true,false,false
+UA004094,30 Apr 23,9,Glen Huntly,Centenary Park Blue,No. 2,Pierre Maziarz,Sasha Minin,Sasha Minin,4-6,4,6,0,1,Completed,true,false,false
+UA004094,30 Apr 23,9,Glen Huntly,Centenary Park Blue,No. 3,Tate Nguyen,Sienna Le,Tate Nguyen,6-2,6,2,1,0,Completed,true,false,false
+UA004094,30 Apr 23,9,Glen Huntly,Centenary Park Blue,No. 4,Atticus Dhimann,Joshua Nowell,Joshua Nowell,3-6,3,6,0,1,Completed,true,false,false
+UA004111,14 May 23,11,Royal South Yarra Gold,Kooyong,No. 1,Adrian Borsaru,Harriet Venn,Adrian Borsaru,6-1,6,1,1,0,Completed,true,false,false
+UA004111,14 May 23,11,Royal South Yarra Gold,Kooyong,No. 2,Tommaso Palombaro,Edward Pollard,Tommaso Palombaro,6-2,6,2,1,0,Completed,true,false,false
+UA004111,14 May 23,11,Royal South Yarra Gold,Kooyong,No. 3,Dash Webb,Jesse Theodore,Dash Webb,6-2,6,2,1,0,Completed,true,false,false
+UA004111,14 May 23,11,Royal South Yarra Gold,Kooyong,No. 4,Boston Moran,Charles McKellar,Boston Moran,6-3,6,3,1,0,Completed,true,false,false
+UA004112,14 May 23,11,Black Rock,Centenary Park Blue,No. 1,Lewis Smith,Sasha Minin,Sasha Minin,2-6,2,6,0,1,Completed,true,false,false
+UA004112,14 May 23,11,Black Rock,Centenary Park Blue,No. 2,Harvey Lansley,Juan Thomas,Juan Thomas,3-6,3,6,0,1,Completed,true,false,true
+UA004112,14 May 23,11,Black Rock,Centenary Park Blue,No. 3,Jacky Kong,Amayah Jordan,Amayah Jordan,0-6,0,6,0,1,Completed,true,false,false
+UA004112,14 May 23,11,Black Rock,Centenary Park Blue,No. 4,Ella Rankin,Joshua Nowell,Ella Rankin,6-1,6,1,1,0,Completed,true,true,false
+UA004113,14 May 23,11,Elsternwick Park,Murrumbeena,No. 1,Ray Yamamoto,Dhruv Tomar,Ray Yamamoto,6-0,6,0,1,0,Completed,true,false,false
+UA004113,14 May 23,11,Elsternwick Park,Murrumbeena,No. 2,Hugo Morgan,Aodhan Monteiro,Hugo Morgan,6-3,6,3,1,0,Completed,true,false,false
+UA004113,14 May 23,11,Elsternwick Park,Murrumbeena,No. 3,Wynn Arumugam,Bailey Loke,Wynn Arumugam,6-0,6,0,1,0,Completed,true,false,true
+UA004113,14 May 23,11,Elsternwick Park,Murrumbeena,No. 4,Matthew Rebelo,Oliver Huggins,Matthew Rebelo,6-1,6,1,1,0,Completed,true,false,false
+UA004114,14 May 23,11,Glen Huntly,Tennis World,No. 1,Allistair Cairns,Daksh Sharma,Daksh Sharma,2-6,2,6,0,1,Completed,true,false,false
+UA004114,14 May 23,11,Glen Huntly,Tennis World,No. 2,Pierre Maziarz,Ishaan Arya,Pierre Maziarz,6-3,6,3,1,0,Completed,true,false,false
+UA004114,14 May 23,11,Glen Huntly,Tennis World,No. 3,Tate Nguyen,James King,Tate Nguyen,6-0,6,0,1,0,Completed,true,false,false
+UA004114,14 May 23,11,Glen Huntly,Tennis World,No. 4,Natalie Duieb,Joel Dalidowicz,Joel Dalidowicz,5-7,5,7,0,1,Completed,true,false,false
+UA004121,21 May 23,12,Glen Huntly,Elsternwick Park,No. 1,Allistair Cairns,Wynn Arumugam,Wynn Arumugam,4-6,4,6,0,1,Completed,true,false,false
+UA004121,21 May 23,12,Glen Huntly,Elsternwick Park,No. 2,Pierre Maziarz,Austin Haines,Austin Haines,4-6,4,6,0,1,Completed,true,false,false
+UA004121,21 May 23,12,Glen Huntly,Elsternwick Park,No. 3,Tate Nguyen,Matthew Rebelo,Matthew Rebelo,5-7,5,7,0,1,Completed,true,false,false
+UA004121,21 May 23,12,Glen Huntly,Elsternwick Park,No. 4,Natalie Duieb,Alastair Smith,Alastair Smith,3-6,3,6,0,1,Completed,true,false,false
+UA004301,,16,Elsternwick Park,Centenary Park Blue,No. 1,Ray Yamamoto,Samantha Morales,Samantha Morales,1-6,1,6,0,1,Completed,true,false,false
+UA004301,,16,Elsternwick Park,Centenary Park Blue,No. 2,Hugo Morgan,Sasha Minin,Sasha Minin,5-7,5,7,0,1,Completed,true,false,false
+UA004301,,16,Elsternwick Park,Centenary Park Blue,No. 3,Wynn Arumugam,Amayah Jordan,Wynn Arumugam,7-6,7,6,1,0,Completed,true,false,false
+UA004301,,16,Elsternwick Park,Centenary Park Blue,No. 4,Matthew Rebelo,Joshua Nowell,Matthew Rebelo,6-2,6,2,1,0,Completed,true,false,false
+UA004302,,16,Murrumbeena,Royal South Yarra Gold,No. 1,Dhruv Tomar,Tommaso Palombaro,Dhruv Tomar,6-1,6,1,1,0,Completed,true,false,false
+UA004302,,16,Murrumbeena,Royal South Yarra Gold,No. 2,Thomas Moore,Dash Webb,Dash Webb,3-6,3,6,0,1,Completed,true,false,false
+UA004302,,16,Murrumbeena,Royal South Yarra Gold,No. 3,Aodhan Monteiro,Boston Moran,Aodhan Monteiro,6-0,6,0,1,0,Completed,true,false,false
+UA004302,,16,Murrumbeena,Royal South Yarra Gold,No. 4,Oliver Huggins,Nathan Lin,Oliver Huggins,6-1,6,1,1,0,Completed,true,false,false
+UA004321,,17,Murrumbeena,Centenary Park Blue,No. 1,Dhruv Tomar,Samantha Morales,Dhruv Tomar,6-1,6,1,1,0,Completed,true,false,false
+UA004321,,17,Murrumbeena,Centenary Park Blue,No. 2,Thomas Moore,Sasha Minin,Sasha Minin,1-6,1,6,0,1,Completed,true,false,false
+UA004321,,17,Murrumbeena,Centenary Park Blue,No. 3,Bailey Loke,Amayah Jordan,Amayah Jordan,4-6,4,6,0,1,Completed,true,true,false
+UA004321,,17,Murrumbeena,Centenary Park Blue,No. 4,Oliver Huggins,Sienna Le,Oliver Huggins,6-2,6,2,1,0,Completed,true,false,false

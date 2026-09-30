@@ -1,0 +1,204 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA004011,31 Jan 26,1,Clarinda Blue,Clarinda Red,No. 1,Joey Poirer,Ashton Lindt,Ashton Lindt,1-6,1,6,0,1,Completed,true,false,false
+AA004011,31 Jan 26,1,Clarinda Blue,Clarinda Red,No. 2,Leo McDermott,Jayden Herman-Lindt,Jayden Herman-Lindt,5-7,5,7,0,1,Completed,true,false,false
+AA004011,31 Jan 26,1,Clarinda Blue,Clarinda Red,No. 3,Prayag Patel,Jett Rotter,Jett Rotter,2-6,2,6,0,1,Completed,true,false,false
+AA004012,31 Jan 26,1,Mentone,Port Melbourne,No. 1,Callan Harrington,Stefan Karapandzic,Stefan Karapandzic,2-6,2,6,0,1,Completed,true,false,false
+AA004012,31 Jan 26,1,Mentone,Port Melbourne,No. 2,Jack Oudshoorn,Henry Huynh,Henry Huynh,4-6,4,6,0,1,Completed,true,false,false
+AA004012,31 Jan 26,1,Mentone,Port Melbourne,No. 3,Phillip Nyamukondiwa,Liam McKeefry,Phillip Nyamukondiwa,6-3,6,3,1,0,Completed,true,false,false
+AA004012,31 Jan 26,1,Mentone,Port Melbourne,No. 4,Pragnay Mitbawkar,Matthew Schoemake,Pragnay Mitbawkar,6-2,6,2,1,0,Completed,true,false,false
+AA004013,31 Jan 26,1,Highmoor Uniting,Dendy Park,No. 1,Max Bade,Leo Suszko,Leo Suszko,5-7,5,7,0,1,Completed,true,false,false
+AA004013,31 Jan 26,1,Highmoor Uniting,Dendy Park,No. 2,Remy Pfetifer,Shiv Gaind,Shiv Gaind,4-6,4,6,0,1,Completed,true,false,false
+AA004013,31 Jan 26,1,Highmoor Uniting,Dendy Park,No. 3,Lachlan Stark,Oliver Qiu,Lachlan Stark,6-1,6,1,1,0,Completed,true,true,false
+AA004013,31 Jan 26,1,Highmoor Uniting,Dendy Park,No. 4,Oliver Mandile,Evan Zhou,Oliver Mandile,6-1,6,1,1,0,Completed,true,false,false
+AA004014,31 Jan 26,1,St Louis de Mont,Maccabi,No. 1,Finn Lalor,Nati Mankov,Finn Lalor,7-5,7,5,1,0,Completed,true,false,false
+AA004014,31 Jan 26,1,St Louis de Mont,Maccabi,No. 2,Billy Waters,Jake Krywicki,Billy Waters,6-0,6,0,1,0,Completed,true,false,false
+AA004014,31 Jan 26,1,St Louis de Mont,Maccabi,No. 3,Ashton Chandra,Aiden Knox,Aiden Knox,2-6,2,6,0,1,Completed,true,false,false
+AA004014,31 Jan 26,1,St Louis de Mont,Maccabi,No. 4,Zavier Modeley,Jasper Gannon,Zavier Modeley,6-4,6,4,1,0,Completed,true,false,false
+AA004021,07 Feb 26,2,Maccabi,Clarinda Blue,No. 1,Jake Krywicki,Joey Poirer,Joey Poirer,6-7,6,7,0,1,Completed,true,false,false
+AA004021,07 Feb 26,2,Maccabi,Clarinda Blue,No. 2,Aiden Knox,Leo McDermott,Aiden Knox,6-4,6,4,1,0,Completed,true,false,false
+AA004021,07 Feb 26,2,Maccabi,Clarinda Blue,No. 3,Jasper Gannon,Prayag Patel,Prayag Patel,1-6,1,6,0,1,Completed,true,false,false
+AA004021,07 Feb 26,2,Maccabi,Clarinda Blue,No. 4,Ari Threadgold,Andrew Holzchuster,Andrew Holzchuster,1-6,1,6,0,1,Completed,true,true,true
+AA004022,07 Feb 26,2,Clarinda Red,Mentone,No. 1,Ashton Lindt,Callan Harrington,Ashton Lindt,6-2,6,2,1,0,Completed,true,false,false
+AA004022,07 Feb 26,2,Clarinda Red,Mentone,No. 2,Jayden Herman-Lindt,Phillip Nyamukondiwa,Jayden Herman-Lindt,6-2,6,2,1,0,Completed,true,false,false
+AA004022,07 Feb 26,2,Clarinda Red,Mentone,No. 3,Jett Rotter,Pragnay Mitbawkar,Jett Rotter,6-3,6,3,1,0,Completed,true,false,false
+AA004022,07 Feb 26,2,Clarinda Red,Mentone,No. 4,James Moutafis,Nayte Morris,James Moutafis,6-0,6,0,1,0,Completed,true,false,false
+AA004023,07 Feb 26,2,Port Melbourne,Highmoor Uniting,No. 1,Stefan Karapandzic,[Unnamed emergency — TROLS AA004023 away code 1],Stefan Karapandzic,6-0,6,0,1,0,Completed,false,false,true
+AA004023,07 Feb 26,2,Port Melbourne,Highmoor Uniting,No. 2,Henry Huynh,Max Bade,Max Bade,1-6,1,6,0,1,Completed,true,false,false
+AA004023,07 Feb 26,2,Port Melbourne,Highmoor Uniting,No. 3,Luke Travers,Remy Pfetifer,Remy Pfetifer,5-7,5,7,0,1,Completed,true,false,false
+AA004023,07 Feb 26,2,Port Melbourne,Highmoor Uniting,No. 4,Matthew Schoemake,Oliver Mandile,Matthew Schoemake,6-2,6,2,1,0,Completed,true,false,false
+AA004024,07 Feb 26,2,Dendy Park,St Louis de Mont,No. 1,Leo Suszko,Finn Lalor,Leo Suszko,6-3,6,3,1,0,Completed,true,false,false
+AA004024,07 Feb 26,2,Dendy Park,St Louis de Mont,No. 2,Shiv Gaind,Billy Waters,Shiv Gaind,6-3,6,3,1,0,Completed,true,false,false
+AA004024,07 Feb 26,2,Dendy Park,St Louis de Mont,No. 3,Oliver Qiu,Ashton Chandra,Oliver Qiu,6-4,6,4,1,0,Completed,true,false,false
+AA004024,07 Feb 26,2,Dendy Park,St Louis de Mont,No. 4,Evan Zhou,Zavier Modeley,Zavier Modeley,1-6,1,6,0,1,Completed,true,false,false
+AA004031,14 Feb 26,3,Clarinda Blue,Dendy Park,No. 1,Joey Poirer,Leo Suszko,Leo Suszko,1-6,1,6,0,1,Completed,true,false,false
+AA004031,14 Feb 26,3,Clarinda Blue,Dendy Park,No. 2,Leo McDermott,Shiv Gaind,Leo McDermott,7-5,7,5,1,0,Completed,true,false,false
+AA004031,14 Feb 26,3,Clarinda Blue,Dendy Park,No. 3,Prayag Patel,Oliver Qiu,Oliver Qiu,2-6,2,6,0,1,Completed,true,false,false
+AA004031,14 Feb 26,3,Clarinda Blue,Dendy Park,No. 4,Jovi Kharti,Liam Dever,Jovi Kharti,7-5,7,5,1,0,Completed,true,true,false
+AA004032,14 Feb 26,3,Mentone,Maccabi,No. 1,Callan Harrington,Jake Krywicki,Callan Harrington,6-0,6,0,1,0,Completed,true,false,false
+AA004032,14 Feb 26,3,Mentone,Maccabi,No. 2,Jack Oudshoorn,Max Behr,Jack Oudshoorn,7-6,7,6,1,0,Completed,true,false,false
+AA004032,14 Feb 26,3,Mentone,Maccabi,No. 3,Pragnay Mitbawkar,Aiden Knox,Aiden Knox,4-6,4,6,0,1,Completed,true,false,false
+AA004032,14 Feb 26,3,Mentone,Maccabi,No. 4,Nayte Morris,Adam Inbar,Nayte Morris,6-3,6,3,1,0,Completed,true,false,true
+AA004033,14 Feb 26,3,Highmoor Uniting,Clarinda Red,No. 1,Jett Pfeiffer,Ashton Lindt,Ashton Lindt,3-6,3,6,0,1,Completed,true,false,false
+AA004033,14 Feb 26,3,Highmoor Uniting,Clarinda Red,No. 2,Max Bade,Jayden Herman-Lindt,Max Bade,6-4,6,4,1,0,Completed,true,false,false
+AA004033,14 Feb 26,3,Highmoor Uniting,Clarinda Red,No. 3,Remy Pfetifer,Jett Rotter,Jett Rotter,2-6,2,6,0,1,Completed,true,false,false
+AA004033,14 Feb 26,3,Highmoor Uniting,Clarinda Red,No. 4,Oliver Mandile,James Moutafis,James Moutafis,0-6,0,6,0,1,Completed,true,false,false
+AA004034,14 Feb 26,3,St Louis de Mont,Port Melbourne,No. 1,Finn Lalor,Stefan Karapandzic,Stefan Karapandzic,4-6,4,6,0,1,Completed,true,false,false
+AA004034,14 Feb 26,3,St Louis de Mont,Port Melbourne,No. 2,Billy Waters,Henry Huynh,Henry Huynh,3-6,3,6,0,1,Completed,true,false,false
+AA004034,14 Feb 26,3,St Louis de Mont,Port Melbourne,No. 3,Ashton Chandra,Luke Travers,Luke Travers,1-6,1,6,0,1,Completed,true,false,false
+AA004034,14 Feb 26,3,St Louis de Mont,Port Melbourne,No. 4,Zavier Modeley,Liam McKeefry,Zavier Modeley,7-6,7,6,1,0,Completed,true,false,false
+AA004041,21 Feb 26,4,Port Melbourne,Clarinda Blue,No. 1,Henry Huynh,Joey Poirer,Joey Poirer,1-6,1,6,0,1,Completed,true,false,false
+AA004041,21 Feb 26,4,Port Melbourne,Clarinda Blue,No. 2,Luke Travers,Leo McDermott,Leo McDermott,2-6,2,6,0,1,Completed,true,false,false
+AA004041,21 Feb 26,4,Port Melbourne,Clarinda Blue,No. 3,Liam McKeefry,Prayag Patel,Prayag Patel,1-6,1,6,0,1,Completed,true,false,false
+AA004041,21 Feb 26,4,Port Melbourne,Clarinda Blue,No. 4,Matthew Schoemake,Oliver Dvorzak,Matthew Schoemake,7-6,7,6,1,0,Completed,true,false,true
+AA004042,21 Feb 26,4,Dendy Park,Mentone,No. 1,Leo Suszko,Callan Harrington,Leo Suszko,7-5,7,5,1,0,Completed,true,false,false
+AA004042,21 Feb 26,4,Dendy Park,Mentone,No. 2,Shiv Gaind,Jack Oudshoorn,Shiv Gaind,6-3,6,3,1,0,Completed,true,false,false
+AA004042,21 Feb 26,4,Dendy Park,Mentone,No. 3,Oliver Qiu,Phillip Nyamukondiwa,Phillip Nyamukondiwa,1-6,1,6,0,1,Completed,true,false,false
+AA004042,21 Feb 26,4,Dendy Park,Mentone,No. 4,Evan Zhou,Nayte Morris,Nayte Morris,1-6,1,6,0,1,Completed,true,false,false
+AA004043,21 Feb 26,4,Maccabi,Highmoor Uniting,No. 1,Nati Mankov,Jett Pfeiffer,Jett Pfeiffer,4-6,4,6,0,1,Completed,true,false,false
+AA004043,21 Feb 26,4,Maccabi,Highmoor Uniting,No. 2,Jake Krywicki,Max Bade,Max Bade,0-6,0,6,0,1,Completed,true,false,false
+AA004043,21 Feb 26,4,Maccabi,Highmoor Uniting,No. 3,Aiden Knox,Remy Pfetifer,Aiden Knox,6-0,6,0,1,0,Completed,true,false,false
+AA004043,21 Feb 26,4,Maccabi,Highmoor Uniting,No. 4,Jasper Gannon,Oliver Mandile,Oliver Mandile,3-6,3,6,0,1,Completed,true,false,false
+AA004044,21 Feb 26,4,Clarinda Red,St Louis de Mont,No. 1,Ashton Lindt,Finn Lalor,Ashton Lindt,7-6,7,6,1,0,Completed,true,false,false
+AA004044,21 Feb 26,4,Clarinda Red,St Louis de Mont,No. 2,Jayden Herman-Lindt,Billy Waters,Billy Waters,5-7,5,7,0,1,Completed,true,false,false
+AA004044,21 Feb 26,4,Clarinda Red,St Louis de Mont,No. 3,Jett Rotter,Ashton Chandra,Jett Rotter,6-0,6,0,1,0,Completed,true,false,false
+AA004044,21 Feb 26,4,Clarinda Red,St Louis de Mont,No. 4,James Moutafis,Zavier Modeley,James Moutafis,6-0,6,0,1,0,Completed,true,false,false
+AA004051,28 Feb 26,5,Highmoor Uniting,St Louis de Mont,No. 1,Jett Pfeiffer,Finn Lalor,Jett Pfeiffer,6-4,6,4,1,0,Completed,true,false,false
+AA004051,28 Feb 26,5,Highmoor Uniting,St Louis de Mont,No. 2,Max Bade,Billy Waters,Max Bade,6-0,6,0,1,0,Completed,true,false,false
+AA004051,28 Feb 26,5,Highmoor Uniting,St Louis de Mont,No. 3,Remy Pfetifer,Ashton Chandra,Remy Pfetifer,6-2,6,2,1,0,Completed,true,false,false
+AA004051,28 Feb 26,5,Highmoor Uniting,St Louis de Mont,No. 4,Oliver Mandile,Zavier Modeley,Zavier Modeley,3-6,3,6,0,1,Completed,true,false,false
+AA004052,28 Feb 26,5,Maccabi,Dendy Park,No. 1,Nati Mankov,Leo Suszko,Leo Suszko,3-6,3,6,0,1,Completed,true,false,false
+AA004052,28 Feb 26,5,Maccabi,Dendy Park,No. 2,Max Behr,Shiv Gaind,Shiv Gaind,0-6,0,6,0,1,Completed,true,false,false
+AA004052,28 Feb 26,5,Maccabi,Dendy Park,No. 3,Jasper Gannon,Oliver Qiu,Oliver Qiu,1-6,1,6,0,1,Completed,true,false,false
+AA004052,28 Feb 26,5,Maccabi,Dendy Park,No. 4,Adam Inbar,Evan Zhou,Adam Inbar,6-2,6,2,1,0,Completed,true,true,false
+AA004053,28 Feb 26,5,Port Melbourne,Clarinda Red,No. 1,Stefan Karapandzic,Ashton Lindt,Ashton Lindt,2-6,2,6,0,1,Completed,true,false,false
+AA004053,28 Feb 26,5,Port Melbourne,Clarinda Red,No. 2,Luke Travers,Jayden Herman-Lindt,Jayden Herman-Lindt,1-6,1,6,0,1,Completed,true,false,false
+AA004053,28 Feb 26,5,Port Melbourne,Clarinda Red,No. 3,Liam McKeefry,Jett Rotter,Jett Rotter,0-6,0,6,0,1,Completed,true,false,false
+AA004053,28 Feb 26,5,Port Melbourne,Clarinda Red,No. 4,Matthew Schoemake,James Moutafis,James Moutafis,0-6,0,6,0,1,Completed,true,false,false
+AA004054,28 Feb 26,5,Clarinda Blue,Mentone,No. 1,Joey Poirer,Jack Oudshoorn,Joey Poirer,6-1,6,1,1,0,Completed,true,false,false
+AA004054,28 Feb 26,5,Clarinda Blue,Mentone,No. 2,Leo McDermott,Phillip Nyamukondiwa,Leo McDermott,6-3,6,3,1,0,Completed,true,false,false
+AA004054,28 Feb 26,5,Clarinda Blue,Mentone,No. 3,Prayag Patel,Pragnay Mitbawkar,Pragnay Mitbawkar,1-6,1,6,0,1,Completed,true,false,false
+AA004054,28 Feb 26,5,Clarinda Blue,Mentone,No. 4,Ayush Srinivasa,Nayte Morris,Ayush Srinivasa,6-0,6,0,1,0,Completed,true,true,false
+AA004061,14 Mar 26,6,Mentone,Highmoor Uniting,No. 1,Callan Harrington,Jett Pfeiffer,Jett Pfeiffer,4-6,4,6,0,1,Completed,true,false,false
+AA004061,14 Mar 26,6,Mentone,Highmoor Uniting,No. 2,Jack Oudshoorn,Max Bade,Jack Oudshoorn,6-2,6,2,1,0,Completed,true,false,false
+AA004061,14 Mar 26,6,Mentone,Highmoor Uniting,No. 3,Phillip Nyamukondiwa,Remy Pfetifer,Phillip Nyamukondiwa,6-2,6,2,1,0,Completed,true,false,false
+AA004061,14 Mar 26,6,Mentone,Highmoor Uniting,No. 4,Pragnay Mitbawkar,Oliver Mandile,Pragnay Mitbawkar,6-0,6,0,1,0,Completed,true,false,false
+AA004062,14 Mar 26,6,St Louis de Mont,Clarinda Blue,No. 1,Finn Lalor,Joey Poirer,Joey Poirer,2-6,2,6,0,1,Completed,true,false,false
+AA004062,14 Mar 26,6,St Louis de Mont,Clarinda Blue,No. 2,Billy Waters,Prayag Patel,Prayag Patel,3-6,3,6,0,1,Completed,true,false,false
+AA004062,14 Mar 26,6,St Louis de Mont,Clarinda Blue,No. 3,Ashton Chandra,Marcus Barrett,Marcus Barrett,6-7,6,7,0,1,Completed,true,false,false
+AA004062,14 Mar 26,6,St Louis de Mont,Clarinda Blue,No. 4,Zavier Modeley,Shaun Norton,Zavier Modeley,6-4,6,4,1,0,Completed,true,false,true
+AA004063,14 Mar 26,6,Dendy Park,Port Melbourne,No. 1,Leo Suszko,Stefan Karapandzic,Stefan Karapandzic,4-6,4,6,0,1,Completed,true,false,false
+AA004063,14 Mar 26,6,Dendy Park,Port Melbourne,No. 2,Shiv Gaind,Henry Huynh,Shiv Gaind,6-0,6,0,1,0,Completed,true,false,false
+AA004063,14 Mar 26,6,Dendy Park,Port Melbourne,No. 3,Oliver Qiu,Liam McKeefry,Liam McKeefry,0-6,0,6,0,1,Completed,true,false,false
+AA004063,14 Mar 26,6,Dendy Park,Port Melbourne,No. 4,Liam Dever,Matthew Schoemake,Matthew Schoemake,4-6,4,6,0,1,Completed,true,false,false
+AA004064,14 Mar 26,6,Clarinda Red,Maccabi,No. 1,Ashton Lindt,Nati Mankov,Ashton Lindt,6-2,6,2,1,0,Completed,true,false,false
+AA004064,14 Mar 26,6,Clarinda Red,Maccabi,No. 2,Jayden Herman-Lindt,Aiden Knox,Jayden Herman-Lindt,6-4,6,4,1,0,Completed,true,false,false
+AA004064,14 Mar 26,6,Clarinda Red,Maccabi,No. 3,Jett Rotter,Max Behr,Jett Rotter,7-6,7,6,1,0,Completed,true,false,false
+AA004064,14 Mar 26,6,Clarinda Red,Maccabi,No. 4,James Moutafis,Jasper Gannon,James Moutafis,6-0,6,0,1,0,Completed,true,false,false
+AA004071,21 Mar 26,7,Clarinda Blue,Highmoor Uniting,No. 1,Joey Poirer,Jett Pfeiffer,Joey Poirer,6-2,6,2,1,0,Completed,true,false,false
+AA004071,21 Mar 26,7,Clarinda Blue,Highmoor Uniting,No. 2,Leo McDermott,Max Bade,Leo McDermott,6-4,6,4,1,0,Completed,true,false,false
+AA004071,21 Mar 26,7,Clarinda Blue,Highmoor Uniting,No. 3,Prayag Patel,Remy Pfetifer,Prayag Patel,7-5,7,5,1,0,Completed,true,false,false
+AA004071,21 Mar 26,7,Clarinda Blue,Highmoor Uniting,No. 4,Marcus Barrett,Oliver Mandile,Marcus Barrett,6-1,6,1,1,0,Completed,true,false,false
+AA004072,21 Mar 26,7,Mentone,St Louis de Mont,No. 1,Callan Harrington,Finn Lalor,Callan Harrington,6-2,6,2,1,0,Completed,true,false,false
+AA004072,21 Mar 26,7,Mentone,St Louis de Mont,No. 2,Jack Oudshoorn,Billy Waters,Billy Waters,1-6,1,6,0,1,Completed,true,false,false
+AA004072,21 Mar 26,7,Mentone,St Louis de Mont,No. 3,Phillip Nyamukondiwa,Ashton Chandra,Phillip Nyamukondiwa,7-5,7,5,1,0,Completed,true,false,false
+AA004072,21 Mar 26,7,Mentone,St Louis de Mont,No. 4,Nayte Morris,Zavier Modeley,Zavier Modeley,5-7,5,7,0,1,Completed,true,false,false
+AA004073,21 Mar 26,7,Maccabi,Port Melbourne,No. 1,Jasper Gannon,Stefan Karapandzic,Stefan Karapandzic,0-6,0,6,0,1,Completed,true,false,false
+AA004073,21 Mar 26,7,Maccabi,Port Melbourne,No. 2,Max Behr,Henry Huynh,Max Behr,7-6,7,6,1,0,Completed,true,false,false
+AA004073,21 Mar 26,7,Maccabi,Port Melbourne,No. 3,Jake Krywicki,Luke Travers,Jake Krywicki,7-6,7,6,1,0,Completed,true,false,false
+AA004073,21 Mar 26,7,Maccabi,Port Melbourne,No. 4,Adam Inbar,Liam McKeefry,Adam Inbar,6-2,6,2,1,0,Completed,true,true,false
+AA004074,21 Mar 26,7,Dendy Park,Clarinda Red,No. 1,Leo Suszko,Ashton Lindt,Ashton Lindt,4-6,4,6,0,1,Completed,true,false,false
+AA004074,21 Mar 26,7,Dendy Park,Clarinda Red,No. 2,Shiv Gaind,Jayden Herman-Lindt,Jayden Herman-Lindt,3-6,3,6,0,1,Completed,true,false,false
+AA004074,21 Mar 26,7,Dendy Park,Clarinda Red,No. 3,Oliver Qiu,Jett Rotter,Jett Rotter,3-6,3,6,0,1,Completed,true,false,false
+AA004074,21 Mar 26,7,Dendy Park,Clarinda Red,No. 4,Evan Zhou,James Moutafis,James Moutafis,0-6,0,6,0,1,Completed,true,false,false
+AA004081,28 Mar 26,8,Clarinda Red,Clarinda Blue,No. 1,Ashton Lindt,Joey Poirer,Ashton Lindt,6-4,6,4,1,0,Completed,true,false,false
+AA004081,28 Mar 26,8,Clarinda Red,Clarinda Blue,No. 2,Jayden Herman-Lindt,Leo McDermott,Jayden Herman-Lindt,6-4,6,4,1,0,Completed,true,false,false
+AA004081,28 Mar 26,8,Clarinda Red,Clarinda Blue,No. 3,Jett Rotter,Prayag Patel,Jett Rotter,6-2,6,2,1,0,Completed,true,false,false
+AA004081,28 Mar 26,8,Clarinda Red,Clarinda Blue,No. 4,James Moutafis,Marcus Barrett,James Moutafis,6-1,6,1,1,0,Completed,true,false,false
+AA004082,28 Mar 26,8,Port Melbourne,Mentone,No. 1,Stefan Karapandzic,Callan Harrington,Stefan Karapandzic,6-4,6,4,1,0,Completed,true,false,false
+AA004082,28 Mar 26,8,Port Melbourne,Mentone,No. 2,Henry Huynh,Jack Oudshoorn,Henry Huynh,6-4,6,4,1,0,Completed,true,false,false
+AA004082,28 Mar 26,8,Port Melbourne,Mentone,No. 3,Liam McKeefry,Pragnay Mitbawkar,Pragnay Mitbawkar,4-6,4,6,0,1,Completed,true,false,false
+AA004082,28 Mar 26,8,Port Melbourne,Mentone,No. 4,Matthew Schoemake,Toby Harris,Matthew Schoemake,7-6,7,6,1,0,Completed,true,false,true
+AA004091,02 May 26,9,Clarinda Blue,Maccabi,No. 1,Joey Poirer,Nati Mankov,Joey Poirer,6-0,6,0,1,0,Completed,true,false,false
+AA004091,02 May 26,9,Clarinda Blue,Maccabi,No. 2,Leo McDermott,Aiden Knox,Leo McDermott,6-3,6,3,1,0,Completed,true,false,false
+AA004091,02 May 26,9,Clarinda Blue,Maccabi,No. 3,Prayag Patel,Jasper Gannon,Prayag Patel,6-2,6,2,1,0,Completed,true,false,false
+AA004091,02 May 26,9,Clarinda Blue,Maccabi,No. 4,Marcus Barrett,Adam Inbar,Adam Inbar,4-6,4,6,0,1,Completed,true,false,true
+AA004092,02 May 26,9,Mentone,Clarinda Red,No. 1,Callan Harrington,Ashton Lindt,Ashton Lindt,0-6,0,6,0,1,Completed,true,false,false
+AA004092,02 May 26,9,Mentone,Clarinda Red,No. 2,Jack Oudshoorn,Jayden Herman-Lindt,Jayden Herman-Lindt,4-6,4,6,0,1,Completed,true,false,false
+AA004092,02 May 26,9,Mentone,Clarinda Red,No. 3,Pragnay Mitbawkar,Jett Rotter,Pragnay Mitbawkar,6-4,6,4,1,0,Completed,true,false,false
+AA004092,02 May 26,9,Mentone,Clarinda Red,No. 4,Harrison Gumbrell,James Moutafis,James Moutafis,4-6,4,6,0,1,Completed,true,true,false
+AA004093,02 May 26,9,Highmoor Uniting,Port Melbourne,No. 1,Jett Pfeiffer,Stefan Karapandzic,Stefan Karapandzic,6-7,6,7,0,1,Completed,true,false,false
+AA004093,02 May 26,9,Highmoor Uniting,Port Melbourne,No. 2,Max Bade,Henry Huynh,Henry Huynh,2-6,2,6,0,1,Completed,true,false,false
+AA004093,02 May 26,9,Highmoor Uniting,Port Melbourne,No. 3,Remy Pfetifer,Luke Travers,Remy Pfetifer,6-2,6,2,1,0,Completed,true,false,false
+AA004093,02 May 26,9,Highmoor Uniting,Port Melbourne,No. 4,Oliver Mandile,Liam McKeefry,Liam McKeefry,3-6,3,6,0,1,Completed,true,false,false
+AA004094,02 May 26,9,St Louis de Mont,Dendy Park,No. 1,Finn Lalor,Leo Suszko,Leo Suszko,0-6,0,6,0,1,Completed,true,false,false
+AA004094,02 May 26,9,St Louis de Mont,Dendy Park,No. 2,Billy Waters,Shiv Gaind,Shiv Gaind,3-6,3,6,0,1,Completed,true,false,false
+AA004094,02 May 26,9,St Louis de Mont,Dendy Park,No. 3,Ashton Chandra,Evan Zhou,Ashton Chandra,6-2,6,2,1,0,Completed,true,false,false
+AA004094,02 May 26,9,St Louis de Mont,Dendy Park,No. 4,Zavier Modeley,Liam Dever,Liam Dever,5-7,5,7,0,1,Completed,true,false,false
+AA004101,09 May 26,10,Dendy Park,Clarinda Blue,No. 1,Leo Suszko,Joey Poirer,Joey Poirer,4-6,4,6,0,1,Completed,true,false,false
+AA004101,09 May 26,10,Dendy Park,Clarinda Blue,No. 2,Shiv Gaind,Leo McDermott,Leo McDermott,2-6,2,6,0,1,Completed,true,false,false
+AA004101,09 May 26,10,Dendy Park,Clarinda Blue,No. 3,Oliver Qiu,Prayag Patel,Prayag Patel,4-6,4,6,0,1,Completed,true,false,false
+AA004101,09 May 26,10,Dendy Park,Clarinda Blue,No. 4,Evan Zhou,Marcus Barrett,Marcus Barrett,6-7,6,7,0,1,Completed,true,false,false
+AA004104,09 May 26,10,Port Melbourne,St Louis de Mont,No. 1,Stefan Karapandzic,Finn Lalor,Finn Lalor,3-6,3,6,0,1,Completed,true,false,false
+AA004104,09 May 26,10,Port Melbourne,St Louis de Mont,No. 2,Luke Travers,Billy Waters,Billy Waters,0-6,0,6,0,1,Completed,true,false,false
+AA004104,09 May 26,10,Port Melbourne,St Louis de Mont,No. 3,Liam McKeefry,Ashton Chandra,Liam McKeefry,7-5,7,5,1,0,Completed,true,false,false
+AA004104,09 May 26,10,Port Melbourne,St Louis de Mont,No. 4,Matthew Schoemake,Zavier Modeley,Matthew Schoemake,6-4,6,4,1,0,Completed,true,false,false
+AA004111,16 May 26,11,Clarinda Blue,Port Melbourne,No. 1,Joey Poirer,Stefan Karapandzic,Joey Poirer,6-3,6,3,1,0,Completed,true,false,false
+AA004111,16 May 26,11,Clarinda Blue,Port Melbourne,No. 2,Leo McDermott,Henry Huynh,Henry Huynh,6-7,6,7,0,1,Completed,true,false,false
+AA004111,16 May 26,11,Clarinda Blue,Port Melbourne,No. 3,Prayag Patel,Luke Travers,Luke Travers,4-6,4,6,0,1,Completed,true,false,false
+AA004111,16 May 26,11,Clarinda Blue,Port Melbourne,No. 4,Alexander Zhang,Matthew Schoemake,Alexander Zhang,6-0,6,0,1,0,Completed,true,true,false
+AA004112,16 May 26,11,Mentone,Dendy Park,No. 1,Callan Harrington,Shiv Gaind,Callan Harrington,6-4,6,4,1,0,Completed,true,false,false
+AA004112,16 May 26,11,Mentone,Dendy Park,No. 2,Jack Oudshoorn,Oliver Qiu,Jack Oudshoorn,6-2,6,2,1,0,Completed,true,false,false
+AA004112,16 May 26,11,Mentone,Dendy Park,No. 3,Phillip Nyamukondiwa,Evan Zhou,Phillip Nyamukondiwa,6-2,6,2,1,0,Completed,true,false,false
+AA004112,16 May 26,11,Mentone,Dendy Park,No. 4,Pragnay Mitbawkar,Liam Dever,Pragnay Mitbawkar,6-1,6,1,1,0,Completed,true,false,false
+AA004113,16 May 26,11,Highmoor Uniting,Maccabi,No. 1,Jett Pfeiffer,Aiden Knox,Aiden Knox,6-7,6,7,0,1,Completed,true,false,false
+AA004113,16 May 26,11,Highmoor Uniting,Maccabi,No. 2,Max Bade,Max Behr,Max Bade,6-1,6,1,1,0,Completed,true,false,false
+AA004113,16 May 26,11,Highmoor Uniting,Maccabi,No. 3,Remy Pfetifer,Jake Krywicki,Remy Pfetifer,6-0,6,0,1,0,Completed,true,false,false
+AA004113,16 May 26,11,Highmoor Uniting,Maccabi,No. 4,Oliver Mandile,Adam Inbar,Adam Inbar,1-6,1,6,0,1,Completed,true,false,true
+AA004114,16 May 26,11,St Louis de Mont,Clarinda Red,No. 1,Finn Lalor,Ashton Lindt,Ashton Lindt,1-6,1,6,0,1,Completed,true,false,false
+AA004114,16 May 26,11,St Louis de Mont,Clarinda Red,No. 2,Billy Waters,Jayden Herman-Lindt,Billy Waters,6-3,6,3,1,0,Completed,true,false,false
+AA004114,16 May 26,11,St Louis de Mont,Clarinda Red,No. 3,Ashton Chandra,Jett Rotter,Jett Rotter,2-6,2,6,0,1,Completed,true,false,false
+AA004114,16 May 26,11,St Louis de Mont,Clarinda Red,No. 4,Zavier Modeley,James Moutafis,James Moutafis,0-6,0,6,0,1,Completed,true,false,false
+AA004121,23 May 26,12,St Louis de Mont,Highmoor Uniting,No. 1,Finn Lalor,Jett Pfeiffer,Jett Pfeiffer,5-7,5,7,0,1,Completed,true,false,false
+AA004121,23 May 26,12,St Louis de Mont,Highmoor Uniting,No. 2,Billy Waters,Max Bade,Billy Waters,6-1,6,1,1,0,Completed,true,false,false
+AA004121,23 May 26,12,St Louis de Mont,Highmoor Uniting,No. 3,Ashton Chandra,Remy Pfetifer,Remy Pfetifer,4-6,4,6,0,1,Completed,true,false,false
+AA004121,23 May 26,12,St Louis de Mont,Highmoor Uniting,No. 4,Zavier Modeley,Oliver Mandile,Zavier Modeley,6-3,6,3,1,0,Completed,true,false,false
+AA004122,23 May 26,12,Dendy Park,Maccabi,No. 1,Shiv Gaind,Max Behr,Shiv Gaind,6-0,6,0,1,0,Completed,true,false,false
+AA004122,23 May 26,12,Dendy Park,Maccabi,No. 2,Oliver Qiu,Jake Krywicki,Oliver Qiu,6-3,6,3,1,0,Completed,true,false,false
+AA004122,23 May 26,12,Dendy Park,Maccabi,No. 3,Evan Zhou,Jasper Gannon,Evan Zhou,6-3,6,3,1,0,Completed,true,false,false
+AA004122,23 May 26,12,Dendy Park,Maccabi,No. 4,Liam Dever,Adam Inbar,Adam Inbar,5-7,5,7,0,1,Completed,true,false,true
+AA004123,23 May 26,12,Clarinda Red,Port Melbourne,No. 1,Ashton Lindt,Henry Huynh,Henry Huynh,2-6,2,6,0,1,Completed,true,false,false
+AA004123,23 May 26,12,Clarinda Red,Port Melbourne,No. 2,Jayden Herman-Lindt,Luke Travers,Jayden Herman-Lindt,6-3,6,3,1,0,Completed,true,false,false
+AA004123,23 May 26,12,Clarinda Red,Port Melbourne,No. 3,Jett Rotter,Liam McKeefry,Jett Rotter,6-4,6,4,1,0,Completed,true,false,false
+AA004123,23 May 26,12,Clarinda Red,Port Melbourne,No. 4,Jovi Kharti,Matthew Schoemake,Jovi Kharti,7-5,7,5,1,0,Completed,true,true,false
+AA004124,23 May 26,12,Mentone,Clarinda Blue,No. 1,Jack Oudshoorn,Joey Poirer,Joey Poirer,2-6,2,6,0,1,Completed,true,false,false
+AA004124,23 May 26,12,Mentone,Clarinda Blue,No. 2,Phillip Nyamukondiwa,Leo McDermott,Leo McDermott,4-6,4,6,0,1,Completed,true,false,false
+AA004124,23 May 26,12,Mentone,Clarinda Blue,No. 3,Pragnay Mitbawkar,Prayag Patel,Pragnay Mitbawkar,6-2,6,2,1,0,Completed,true,false,false
+AA004124,23 May 26,12,Mentone,Clarinda Blue,No. 4,Nayte Morris,Marcus Barrett,Nayte Morris,6-4,6,4,1,0,Completed,true,false,false
+AA004131,30 May 26,13,Highmoor Uniting,Mentone,No. 1,Jett Pfeiffer,Callan Harrington,Jett Pfeiffer,7-5,7,5,1,0,Completed,true,false,false
+AA004131,30 May 26,13,Highmoor Uniting,Mentone,No. 2,Max Bade,Jack Oudshoorn,Max Bade,6-2,6,2,1,0,Completed,true,false,false
+AA004131,30 May 26,13,Highmoor Uniting,Mentone,No. 3,Remy Pfetifer,Pragnay Mitbawkar,Pragnay Mitbawkar,3-6,3,6,0,1,Completed,true,false,false
+AA004131,30 May 26,13,Highmoor Uniting,Mentone,No. 4,Oliver Mandile,Nayte Morris,Oliver Mandile,7-5,7,5,1,0,Completed,true,false,false
+AA004132,30 May 26,13,Clarinda Blue,St Louis de Mont,No. 1,Joey Poirer,Finn Lalor,Joey Poirer,6-2,6,2,1,0,Completed,true,false,false
+AA004132,30 May 26,13,Clarinda Blue,St Louis de Mont,No. 2,Leo McDermott,Billy Waters,Leo McDermott,6-1,6,1,1,0,Completed,true,false,false
+AA004132,30 May 26,13,Clarinda Blue,St Louis de Mont,No. 3,Prayag Patel,Ashton Chandra,Prayag Patel,6-3,6,3,1,0,Completed,true,false,false
+AA004132,30 May 26,13,Clarinda Blue,St Louis de Mont,No. 4,Marcus Barrett,Zavier Modeley,Marcus Barrett,7-5,7,5,1,0,Completed,true,false,false
+AA004133,30 May 26,13,Port Melbourne,Dendy Park,No. 1,Stefan Karapandzic,Leo Suszko,Leo Suszko,2-6,2,6,0,1,Completed,true,false,false
+AA004133,30 May 26,13,Port Melbourne,Dendy Park,No. 2,Henry Huynh,Shiv Gaind,Shiv Gaind,2-6,2,6,0,1,Completed,true,false,false
+AA004133,30 May 26,13,Port Melbourne,Dendy Park,No. 3,Liam McKeefry,Oliver Qiu,Liam McKeefry,6-3,6,3,1,0,Completed,true,false,false
+AA004133,30 May 26,13,Port Melbourne,Dendy Park,No. 4,Matthew Schoemake,Evan Zhou,Evan Zhou,6-7,6,7,0,1,Completed,true,false,false
+AA004134,30 May 26,13,Maccabi,Clarinda Red,No. 1,Nati Mankov,Ashton Lindt,Ashton Lindt,3-6,3,6,0,1,Completed,true,false,false
+AA004134,30 May 26,13,Maccabi,Clarinda Red,No. 2,Aiden Knox,Jayden Herman-Lindt,Jayden Herman-Lindt,4-6,4,6,0,1,Completed,true,false,false
+AA004134,30 May 26,13,Maccabi,Clarinda Red,No. 3,Jasper Gannon,Jett Rotter,Jett Rotter,1-6,1,6,0,1,Completed,true,false,false
+AA004134,30 May 26,13,Maccabi,Clarinda Red,No. 4,Ari Threadgold,[Unnamed emergency — TROLS AA004134 away code 4],Ari Threadgold,6-0,6,0,1,0,Completed,false,true,true
+AA004301,,16,Clarinda Red,Dendy Park,No. 1,Ashton Lindt,Shiv Gaind,Ashton Lindt,7-5,7,5,1,0,Completed,true,false,false
+AA004301,,16,Clarinda Red,Dendy Park,No. 2,Jayden Herman-Lindt,Oliver Qiu,Jayden Herman-Lindt,6-3,6,3,1,0,Completed,true,false,false
+AA004301,,16,Clarinda Red,Dendy Park,No. 3,Jett Rotter,Evan Zhou,Jett Rotter,6-2,6,2,1,0,Completed,true,false,false
+AA004301,,16,Clarinda Red,Dendy Park,No. 4,James Moutafis,Liam Dever,James Moutafis,7-5,7,5,1,0,Completed,true,false,false
+AA004302,,16,Clarinda Blue,Mentone,No. 1,Joey Poirer,Callan Harrington,Joey Poirer,6-1,6,1,1,0,Completed,true,false,false
+AA004302,,16,Clarinda Blue,Mentone,No. 2,Leo McDermott,Jack Oudshoorn,Leo McDermott,7-5,7,5,1,0,Completed,true,false,false
+AA004302,,16,Clarinda Blue,Mentone,No. 3,Prayag Patel,Phillip Nyamukondiwa,Phillip Nyamukondiwa,0-6,0,6,0,1,Completed,true,false,false
+AA004302,,16,Clarinda Blue,Mentone,No. 4,Marcus Barrett,Pragnay Mitbawkar,Pragnay Mitbawkar,2-6,2,6,0,1,Completed,true,false,false
+AA004321,,17,Clarinda Red,Clarinda Blue,No. 1,Ashton Lindt,Joey Poirer,Ashton Lindt,6-4,6,4,1,0,Completed,true,false,false
+AA004321,,17,Clarinda Red,Clarinda Blue,No. 2,Jayden Herman-Lindt,Leo McDermott,Jayden Herman-Lindt,7-5,7,5,1,0,Completed,true,false,false
+AA004321,,17,Clarinda Red,Clarinda Blue,No. 3,Jett Rotter,Marcus Barrett,Jett Rotter,6-0,6,0,1,0,Completed,true,false,false
+AA004321,,17,Clarinda Red,Clarinda Blue,No. 4,James Moutafis,Keegan Dawson,James Moutafis,6-1,6,1,1,0,Completed,true,false,true

@@ -1,0 +1,75 @@
+{
+  "asset_id": "UA29-UA024",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2021",
+  "season_id": "UA29",
+  "season_label": "Spring 2021",
+  "source_section_code": "UA024",
+  "section_label": "Section 24 Green",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Parkdale",
+      "wins": 7,
+      "points": 101,
+      "percentage": 284.88,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "BLTC",
+      "wins": 4,
+      "points": 74,
+      "percentage": 110.98,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Mentone",
+      "wins": 4,
+      "points": 72,
+      "percentage": 96.2,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kings Park White",
+      "wins": 4,
+      "points": 71,
+      "percentage": 101.8,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kings Park Blue",
+      "wins": 2,
+      "points": 60,
+      "percentage": 74.37,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Black Rock",
+      "wins": 0,
+      "points": 42,
+      "percentage": 48.52,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA29-UA024",
+  "fixtures": 45,
+  "completed_fixtures": 24,
+  "draw_fixtures": 42,
+  "singles_rubbers": 84,
+  "doubles_rubbers": 42,
+  "latest_round": 15,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,157 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA025011,01 Feb 26,1,Mentone Yellow,Mentone Gold,No. 1,Lucas Booker Huang,Sahib Chug,Lucas Booker Huang,6-3,6,3,1,0,Completed,true,false,false
+UA025011,01 Feb 26,1,Mentone Yellow,Mentone Gold,No. 2,Oliver Mathias,Robin Freeman,Robin Freeman,1-6,1,6,0,1,Completed,true,false,false
+UA025011,01 Feb 26,1,Mentone Yellow,Mentone Gold,No. 3,Jayden Wei,Ciara Gallagher,Jayden Wei,6-2,6,2,1,0,Completed,true,false,false
+UA025011,01 Feb 26,1,Mentone Yellow,Mentone Gold,No. 4,Riley Pavicic,Isabelle Moran,Riley Pavicic,6-4,6,4,1,0,Completed,true,false,false
+UA025013,01 Feb 26,1,Victory Park,Tennis World,No. 1,Eason Jayasundera,Piper Graves,Eason Jayasundera,6-0,6,0,1,0,Completed,true,false,false
+UA025013,01 Feb 26,1,Victory Park,Tennis World,No. 2,Yujiro Sasaki,Nichole Wang,Yujiro Sasaki,6-4,6,4,1,0,Completed,true,false,false
+UA025013,01 Feb 26,1,Victory Park,Tennis World,No. 3,Thomas Bainbridge,Henry Foo,Thomas Bainbridge,6-4,6,4,1,0,Completed,true,false,false
+UA025013,01 Feb 26,1,Victory Park,Tennis World,No. 4,David Jarvis,Silah Laidlaw,Silah Laidlaw,4-6,4,6,0,1,Completed,true,false,false
+UA025021,08 Feb 26,2,BLTC White,Mentone Yellow,No. 1,Celina Sakaci,Lucas Booker Huang,Lucas Booker Huang,2-6,2,6,0,1,Completed,true,false,false
+UA025021,08 Feb 26,2,BLTC White,Mentone Yellow,No. 2,Elicia Goonewardene,Oliver Mathias,Elicia Goonewardene,6-3,6,3,1,0,Completed,true,false,false
+UA025021,08 Feb 26,2,BLTC White,Mentone Yellow,No. 3,Eve Astley,Qijun Feng,Eve Astley,6-2,6,2,1,0,Completed,true,false,false
+UA025021,08 Feb 26,2,BLTC White,Mentone Yellow,No. 4,Charlie Edelsten,Riley Pavicic,Riley Pavicic,1-6,1,6,0,1,Completed,true,false,false
+UA025023,08 Feb 26,2,Kings Park,Victory Park,No. 1,Jason Li,Yujiro Sasaki,Yujiro Sasaki,1-6,1,6,0,1,Completed,true,false,false
+UA025023,08 Feb 26,2,Kings Park,Victory Park,No. 2,Seorin Ham,Thomas Bainbridge,Thomas Bainbridge,1-6,1,6,0,1,Completed,true,false,false
+UA025023,08 Feb 26,2,Kings Park,Victory Park,No. 3,Ian Nam,David Jarvis,David Jarvis,1-6,1,6,0,1,Completed,true,false,false
+UA025023,08 Feb 26,2,Kings Park,Victory Park,No. 4,Juan Nam,Alexei Moralis,Juan Nam,6-3,6,3,1,0,Completed,true,false,false
+UA025024,08 Feb 26,2,Tennis World,BLTC Blue,No. 1,Geyli Liyanaarachchi,Tomas Cabrera,Tomas Cabrera,4-6,4,6,0,1,Completed,true,false,false
+UA025024,08 Feb 26,2,Tennis World,BLTC Blue,No. 2,Nichole Wang,Sebastian Smith-Lopez,Sebastian Smith-Lopez,0-6,0,6,0,1,Completed,true,false,false
+UA025024,08 Feb 26,2,Tennis World,BLTC Blue,No. 3,Henry Foo,Preston Liu,Henry Foo,6-3,6,3,1,0,Completed,true,false,false
+UA025024,08 Feb 26,2,Tennis World,BLTC Blue,No. 4,Silah Laidlaw,Mila Van Zyl,Silah Laidlaw,6-0,6,0,1,0,Completed,true,false,false
+UA025031,15 Feb 26,3,Mentone Yellow,Tennis World,No. 1,Lucas Booker Huang,Piper Graves,Lucas Booker Huang,6-1,6,1,1,0,Completed,true,false,false
+UA025031,15 Feb 26,3,Mentone Yellow,Tennis World,No. 2,Oliver Mathias,Geyli Liyanaarachchi,Oliver Mathias,6-2,6,2,1,0,Completed,true,false,false
+UA025031,15 Feb 26,3,Mentone Yellow,Tennis World,No. 3,Qijun Feng,Henry Foo,Henry Foo,2-6,2,6,0,1,Completed,true,false,false
+UA025031,15 Feb 26,3,Mentone Yellow,Tennis World,No. 4,Riley Pavicic,Silah Laidlaw,Silah Laidlaw,1-6,1,6,0,1,Completed,true,false,false
+UA025033,15 Feb 26,3,Victory Park,Mentone Gold,No. 1,Yujiro Sasaki,Neve Bender,Yujiro Sasaki,6-2,6,2,1,0,Completed,true,false,false
+UA025033,15 Feb 26,3,Victory Park,Mentone Gold,No. 2,Thomas Bainbridge,Sahib Chug,Thomas Bainbridge,6-3,6,3,1,0,Completed,true,false,false
+UA025033,15 Feb 26,3,Victory Park,Mentone Gold,No. 3,David Jarvis,Ciara Gallagher,David Jarvis,6-3,6,3,1,0,Completed,true,false,false
+UA025033,15 Feb 26,3,Victory Park,Mentone Gold,No. 4,Alexei Moralis,Isabelle Moran,Isabelle Moran,0-6,0,6,0,1,Completed,true,false,false
+UA025034,15 Feb 26,3,BLTC Blue,Kings Park,No. 1,Tomas Cabrera,Jason Li,Jason Li,4-6,4,6,0,1,Completed,true,false,false
+UA025034,15 Feb 26,3,BLTC Blue,Kings Park,No. 2,Sebastian Smith-Lopez,Seorin Ham,Sebastian Smith-Lopez,6-0,6,0,1,0,Completed,true,false,false
+UA025034,15 Feb 26,3,BLTC Blue,Kings Park,No. 3,Preston Liu,Ethan Wiliams,Ethan Wiliams,0-6,0,6,0,1,Completed,true,false,false
+UA025034,15 Feb 26,3,BLTC Blue,Kings Park,No. 4,Mila Van Zyl,Aadhav Krish,Aadhav Krish,4-6,4,6,0,1,Completed,true,false,false
+UA025041,22 Feb 26,4,Kings Park,Mentone Yellow,No. 1,Jason Li,Lucas Booker Huang,Lucas Booker Huang,2-6,2,6,0,1,Completed,true,false,false
+UA025041,22 Feb 26,4,Kings Park,Mentone Yellow,No. 2,Ian Nam,Jayden Wei,Jayden Wei,0-6,0,6,0,1,Completed,true,false,false
+UA025041,22 Feb 26,4,Kings Park,Mentone Yellow,No. 3,Juan Nam,Qijun Feng,Qijun Feng,0-6,0,6,0,1,Completed,true,false,false
+UA025041,22 Feb 26,4,Kings Park,Mentone Yellow,No. 4,Ethan Wiliams,Riley Pavicic,Ethan Wiliams,6-1,6,1,1,0,Completed,true,false,false
+UA025043,22 Feb 26,4,BLTC White,Victory Park,No. 1,Elicia Goonewardene,Yujiro Sasaki,Yujiro Sasaki,3-6,3,6,0,1,Completed,true,false,false
+UA025043,22 Feb 26,4,BLTC White,Victory Park,No. 2,Charlie Edelsten,Thomas Bainbridge,Thomas Bainbridge,0-6,0,6,0,1,Completed,true,false,false
+UA025043,22 Feb 26,4,BLTC White,Victory Park,No. 3,Camilla Johnson,David Jarvis,David Jarvis,1-6,1,6,0,1,Completed,true,false,false
+UA025043,22 Feb 26,4,BLTC White,Victory Park,No. 4,Lily Wright,Alexei Moralis,Alexei Moralis,0-6,0,6,0,1,Completed,true,false,false
+UA025044,22 Feb 26,4,Mentone Gold,BLTC Blue,No. 1,Neve Bender,Tomas Cabrera,Neve Bender,6-4,6,4,1,0,Completed,true,false,false
+UA025044,22 Feb 26,4,Mentone Gold,BLTC Blue,No. 2,Sahib Chug,Sebastian Smith-Lopez,Sebastian Smith-Lopez,3-6,3,6,0,1,Completed,true,false,false
+UA025044,22 Feb 26,4,Mentone Gold,BLTC Blue,No. 3,Robin Freeman,Mila Comdan,Robin Freeman,6-0,6,0,1,0,Completed,true,false,false
+UA025044,22 Feb 26,4,Mentone Gold,BLTC Blue,No. 4,Isabelle Moran,Mila Van Zyl,Isabelle Moran,6-0,6,0,1,0,Completed,true,false,false
+UA025051,01 Mar 26,5,Victory Park,BLTC Blue,No. 1,Yujiro Sasaki,Tomas Cabrera,Yujiro Sasaki,6-3,6,3,1,0,Completed,true,false,false
+UA025051,01 Mar 26,5,Victory Park,BLTC Blue,No. 2,Thomas Bainbridge,Sebastian Smith-Lopez,Thomas Bainbridge,6-4,6,4,1,0,Completed,true,false,false
+UA025051,01 Mar 26,5,Victory Park,BLTC Blue,No. 3,David Jarvis,Mila Comdan,David Jarvis,6-2,6,2,1,0,Completed,true,false,false
+UA025051,01 Mar 26,5,Victory Park,BLTC Blue,No. 4,Alexei Moralis,Mila Van Zyl,Alexei Moralis,6-3,6,3,1,0,Completed,true,false,false
+UA025053,01 Mar 26,5,Kings Park,Mentone Gold,No. 1,Seorin Ham,Robin Freeman,Robin Freeman,0-6,0,6,0,1,Completed,true,false,false
+UA025053,01 Mar 26,5,Kings Park,Mentone Gold,No. 2,Ian Nam,Neve Bender,Ian Nam,7-5,7,5,1,0,Completed,true,false,false
+UA025053,01 Mar 26,5,Kings Park,Mentone Gold,No. 3,Juan Nam,Sahib Chug,Sahib Chug,4-6,4,6,0,1,Completed,true,false,false
+UA025053,01 Mar 26,5,Kings Park,Mentone Gold,No. 4,Aadhav Krish,Ciara Gallagher,Aadhav Krish,6-2,6,2,1,0,Completed,true,false,false
+UA025062,15 Mar 26,6,BLTC Blue,Mentone Yellow,No. 1,Sebastian Smith-Lopez,Oliver Mathias,Sebastian Smith-Lopez,6-3,6,3,1,0,Completed,true,false,false
+UA025062,15 Mar 26,6,BLTC Blue,Mentone Yellow,No. 2,Mila Comdan,Jayden Wei,Jayden Wei,0-6,0,6,0,1,Completed,true,false,false
+UA025062,15 Mar 26,6,BLTC Blue,Mentone Yellow,No. 3,Preston Liu,Qijun Feng,Preston Liu,6-3,6,3,1,0,Completed,true,false,false
+UA025062,15 Mar 26,6,BLTC Blue,Mentone Yellow,No. 4,Mila Van Zyl,Riley Pavicic,Riley Pavicic,0-6,0,6,0,1,Completed,true,false,false
+UA025063,15 Mar 26,6,Tennis World,Kings Park,No. 1,Piper Graves,Juan Nam,Juan Nam,1-6,1,6,0,1,Completed,true,false,false
+UA025063,15 Mar 26,6,Tennis World,Kings Park,No. 2,Geyli Liyanaarachchi,Ian Nam,Geyli Liyanaarachchi,6-0,6,0,1,0,Completed,true,false,false
+UA025063,15 Mar 26,6,Tennis World,Kings Park,No. 3,Nichole Wang,Aadhav Krish,Aadhav Krish,1-6,1,6,0,1,Completed,true,false,false
+UA025063,15 Mar 26,6,Tennis World,Kings Park,No. 4,William Tortogla,Ethan Wiliams,Ethan Wiliams,2-6,2,6,0,1,Completed,true,false,false
+UA025064,15 Mar 26,6,Mentone Gold,BLTC White,No. 1,Robin Freeman,Celina Sakaci,Robin Freeman,6-2,6,2,1,0,Completed,true,false,false
+UA025064,15 Mar 26,6,Mentone Gold,BLTC White,No. 2,Neve Bender,Eve Astley,Neve Bender,6-1,6,1,1,0,Completed,true,false,false
+UA025064,15 Mar 26,6,Mentone Gold,BLTC White,No. 3,Ciara Gallagher,Camilla Johnson,Ciara Gallagher,6-4,6,4,1,0,Completed,true,false,false
+UA025064,15 Mar 26,6,Mentone Gold,BLTC White,No. 4,Isabelle Moran,Lily Wright,Isabelle Moran,6-1,6,1,1,0,Completed,true,false,false
+UA025071,22 Mar 26,7,Mentone Yellow,Victory Park,No. 1,Eli Drewe,Yujiro Sasaki,Eli Drewe,6-1,6,1,1,0,Completed,true,false,false
+UA025071,22 Mar 26,7,Mentone Yellow,Victory Park,No. 2,Lucas Booker Huang,Thomas Bainbridge,Lucas Booker Huang,7-5,7,5,1,0,Completed,true,false,false
+UA025071,22 Mar 26,7,Mentone Yellow,Victory Park,No. 3,Oliver Mathias,David Jarvis,David Jarvis,0-6,0,6,0,1,Completed,true,false,false
+UA025071,22 Mar 26,7,Mentone Yellow,Victory Park,No. 4,Jayden Wei,Alexei Moralis,Jayden Wei,6-0,6,0,1,0,Completed,true,false,false
+UA025073,22 Mar 26,7,BLTC White,Kings Park,No. 1,Celina Sakaci,Jason Li,Celina Sakaci,6-3,6,3,1,0,Completed,true,false,false
+UA025073,22 Mar 26,7,BLTC White,Kings Park,No. 2,Elicia Goonewardene,Seorin Ham,Elicia Goonewardene,6-0,6,0,1,0,Completed,true,false,false
+UA025073,22 Mar 26,7,BLTC White,Kings Park,No. 3,Eve Astley,Ian Nam,Ian Nam,3-6,3,6,0,1,Completed,true,false,false
+UA025073,22 Mar 26,7,BLTC White,Kings Park,No. 4,Charlie Edelsten,Juan Nam,Juan Nam,3-6,3,6,0,1,Completed,true,false,false
+UA025074,22 Mar 26,7,Tennis World,Mentone Gold,No. 1,Piper Graves,Robin Freeman,Robin Freeman,0-6,0,6,0,1,Completed,true,false,false
+UA025074,22 Mar 26,7,Tennis World,Mentone Gold,No. 2,Geyli Liyanaarachchi,Neve Bender,Geyli Liyanaarachchi,6-1,6,1,1,0,Completed,true,false,false
+UA025074,22 Mar 26,7,Tennis World,Mentone Gold,No. 3,Nichole Wang,Sahib Chug,Sahib Chug,3-6,3,6,0,1,Completed,true,false,false
+UA025074,22 Mar 26,7,Tennis World,Mentone Gold,No. 4,Henry Foo,Isabelle Moran,Henry Foo,6-4,6,4,1,0,Completed,true,false,false
+UA025081,29 Mar 26,8,Mentone Gold,Mentone Yellow,No. 1,Robin Freeman,Eli Drewe,Robin Freeman,6-1,6,1,1,0,Completed,true,false,false
+UA025081,29 Mar 26,8,Mentone Gold,Mentone Yellow,No. 2,Sahib Chug,Jayden Wei,Sahib Chug,6-4,6,4,1,0,Completed,true,false,false
+UA025081,29 Mar 26,8,Mentone Gold,Mentone Yellow,No. 3,Ciara Gallagher,Qijun Feng,Ciara Gallagher,6-0,6,0,1,0,Completed,true,false,false
+UA025081,29 Mar 26,8,Mentone Gold,Mentone Yellow,No. 4,Isabelle Moran,Riley Pavicic,Isabelle Moran,7-5,7,5,1,0,Completed,true,false,false
+UA025083,29 Mar 26,8,Tennis World,Victory Park,No. 1,Geyli Liyanaarachchi,Eason Jayasundera,Eason Jayasundera,1-6,1,6,0,1,Completed,true,false,false
+UA025083,29 Mar 26,8,Tennis World,Victory Park,No. 2,Piper Graves,Yujiro Sasaki,Yujiro Sasaki,0-6,0,6,0,1,Completed,true,false,false
+UA025083,29 Mar 26,8,Tennis World,Victory Park,No. 3,Henry Foo,Thomas Bainbridge,Thomas Bainbridge,3-6,3,6,0,1,Completed,true,false,false
+UA025083,29 Mar 26,8,Tennis World,Victory Park,No. 4,William Tortogla,Alexei Moralis,William Tortogla,6-1,6,1,1,0,Completed,true,false,false
+UA025084,29 Mar 26,8,BLTC White,BLTC Blue,No. 1,Celina Sakaci,Tomas Cabrera,Tomas Cabrera,2-6,2,6,0,1,Completed,true,false,false
+UA025084,29 Mar 26,8,BLTC White,BLTC Blue,No. 2,Elicia Goonewardene,Sebastian Smith-Lopez,Sebastian Smith-Lopez,4-6,4,6,0,1,Completed,true,false,false
+UA025084,29 Mar 26,8,BLTC White,BLTC Blue,No. 3,Eve Astley,Mila Comdan,Eve Astley,7-5,7,5,1,0,Completed,true,false,false
+UA025084,29 Mar 26,8,BLTC White,BLTC Blue,No. 4,Camilla Johnson,Preston Liu,Preston Liu,1-6,1,6,0,1,Completed,true,false,false
+UA025091,26 Apr 26,9,Mentone Yellow,BLTC White,No. 1,Lucas Booker Huang,Elicia Goonewardene,Lucas Booker Huang,6-2,6,2,1,0,Completed,true,false,false
+UA025091,26 Apr 26,9,Mentone Yellow,BLTC White,No. 2,Oliver Mathias,Camilla Johnson,Oliver Mathias,6-2,6,2,1,0,Completed,true,false,false
+UA025091,26 Apr 26,9,Mentone Yellow,BLTC White,No. 3,Jayden Wei,Charlie Edelsten,Jayden Wei,6-1,6,1,1,0,Completed,true,false,false
+UA025091,26 Apr 26,9,Mentone Yellow,BLTC White,No. 4,Riley Pavicic,Felicity Johnson,Riley Pavicic,6-3,6,3,1,0,Completed,true,false,true
+UA025093,26 Apr 26,9,Victory Park,Kings Park,No. 1,Eason Jayasundera,Jason Li,Eason Jayasundera,6-0,6,0,1,0,Completed,true,false,false
+UA025093,26 Apr 26,9,Victory Park,Kings Park,No. 2,Yujiro Sasaki,Seorin Ham,Yujiro Sasaki,6-1,6,1,1,0,Completed,true,false,false
+UA025093,26 Apr 26,9,Victory Park,Kings Park,No. 3,David Jarvis,Ethan Wiliams,Ethan Wiliams,0-6,0,6,0,1,Completed,true,false,false
+UA025093,26 Apr 26,9,Victory Park,Kings Park,No. 4,Alexei Moralis,Aadhav Krish,Aadhav Krish,0-6,0,6,0,1,Completed,true,false,false
+UA025094,26 Apr 26,9,BLTC Blue,Tennis World,No. 1,Tomas Cabrera,Geyli Liyanaarachchi,Tomas Cabrera,6-4,6,4,1,0,Completed,true,false,false
+UA025094,26 Apr 26,9,BLTC Blue,Tennis World,No. 2,Sebastian Smith-Lopez,Nichole Wang,Sebastian Smith-Lopez,6-1,6,1,1,0,Completed,true,false,false
+UA025094,26 Apr 26,9,BLTC Blue,Tennis World,No. 3,Mila Van Zyl,Piper Graves,Mila Van Zyl,6-1,6,1,1,0,Completed,true,false,false
+UA025094,26 Apr 26,9,BLTC Blue,Tennis World,No. 4,Preston Liu,Henry Foo,Henry Foo,0-6,0,6,0,1,Completed,true,false,false
+UA025103,03 May 26,10,Mentone Gold,Victory Park,No. 1,Robin Freeman,Eason Jayasundera,Eason Jayasundera,5-7,5,7,0,1,Completed,true,false,false
+UA025103,03 May 26,10,Mentone Gold,Victory Park,No. 2,Neve Bender,Thomas Bainbridge,Thomas Bainbridge,0-6,0,6,0,1,Completed,true,false,false
+UA025103,03 May 26,10,Mentone Gold,Victory Park,No. 3,Sahib Chug,David Jarvis,David Jarvis,2-6,2,6,0,1,Completed,true,false,false
+UA025103,03 May 26,10,Mentone Gold,Victory Park,No. 4,Isabelle Moran,Kit Smith,Isabelle Moran,6-3,6,3,1,0,Completed,true,false,false
+UA025104,03 May 26,10,Kings Park,BLTC Blue,No. 1,Jason Li,Tomas Cabrera,Tomas Cabrera,2-6,2,6,0,1,Completed,true,false,false
+UA025104,03 May 26,10,Kings Park,BLTC Blue,No. 2,Ian Nam,Sebastian Smith-Lopez,Sebastian Smith-Lopez,0-6,0,6,0,1,Completed,true,false,false
+UA025104,03 May 26,10,Kings Park,BLTC Blue,No. 3,Juan Nam,Mila Comdan,Juan Nam,6-3,6,3,1,0,Completed,true,false,false
+UA025104,03 May 26,10,Kings Park,BLTC Blue,No. 4,Aadhav Krish,Preston Liu,Aadhav Krish,6-0,6,0,1,0,Completed,true,false,false
+UA025111,10 May 26,11,Mentone Yellow,Kings Park,No. 1,Lucas Booker Huang,Jason Li,Jason Li,4-6,4,6,0,1,Completed,true,false,false
+UA025111,10 May 26,11,Mentone Yellow,Kings Park,No. 2,Oliver Mathias,Ian Nam,Oliver Mathias,7-6,7,6,1,0,Completed,true,false,false
+UA025111,10 May 26,11,Mentone Yellow,Kings Park,No. 3,Jayden Wei,Juan Nam,Jayden Wei,6-0,6,0,1,0,Completed,true,false,false
+UA025111,10 May 26,11,Mentone Yellow,Kings Park,No. 4,Riley Pavicic,Seorin Ham,Riley Pavicic,6-0,6,0,1,0,Completed,true,false,false
+UA025113,10 May 26,11,Victory Park,BLTC White,No. 1,Eason Jayasundera,Celina Sakaci,Eason Jayasundera,6-2,6,2,1,0,Completed,true,false,false
+UA025113,10 May 26,11,Victory Park,BLTC White,No. 2,Yujiro Sasaki,Eve Astley,Yujiro Sasaki,6-0,6,0,1,0,Completed,true,false,false
+UA025113,10 May 26,11,Victory Park,BLTC White,No. 3,Thomas Bainbridge,Camilla Johnson,Thomas Bainbridge,6-1,6,1,1,0,Completed,true,false,false
+UA025113,10 May 26,11,Victory Park,BLTC White,No. 4,Kit Smith,Lily Wright,Kit Smith,6-1,6,1,1,0,Completed,true,false,false
+UA025114,10 May 26,11,BLTC Blue,Mentone Gold,No. 1,Tomas Cabrera,Robin Freeman,Robin Freeman,4-6,4,6,0,1,Completed,true,false,false
+UA025114,10 May 26,11,BLTC Blue,Mentone Gold,No. 2,Sebastian Smith-Lopez,Neve Bender,Sebastian Smith-Lopez,6-0,6,0,1,0,Completed,true,false,false
+UA025114,10 May 26,11,BLTC Blue,Mentone Gold,No. 3,Mila Comdan,Sahib Chug,Sahib Chug,1-6,1,6,0,1,Completed,true,false,false
+UA025114,10 May 26,11,BLTC Blue,Mentone Gold,No. 4,Preston Liu,Isabelle Moran,Isabelle Moran,2-6,2,6,0,1,Completed,true,false,false
+UA025132,24 May 26,13,Mentone Yellow,BLTC Blue,No. 1,Lucas Booker Huang,Tomas Cabrera,Lucas Booker Huang,6-2,6,2,1,0,Completed,true,false,false
+UA025132,24 May 26,13,Mentone Yellow,BLTC Blue,No. 2,Oliver Mathias,Sebastian Smith-Lopez,Sebastian Smith-Lopez,1-6,1,6,0,1,Completed,true,false,false
+UA025132,24 May 26,13,Mentone Yellow,BLTC Blue,No. 3,Jayden Wei,Celina Sakaci,Jayden Wei,6-3,6,3,1,0,Completed,true,false,true
+UA025132,24 May 26,13,Mentone Yellow,BLTC Blue,No. 4,Riley Pavicic,Mila Comdan,Riley Pavicic,6-1,6,1,1,0,Completed,true,false,false
+UA025133,24 May 26,13,Kings Park,Tennis World,No. 1,Jason Li,Geyli Liyanaarachchi,Jason Li,6-2,6,2,1,0,Completed,true,false,false
+UA025133,24 May 26,13,Kings Park,Tennis World,No. 2,Seorin Ham,Nichole Wang,Nichole Wang,1-6,1,6,0,1,Completed,true,false,false
+UA025133,24 May 26,13,Kings Park,Tennis World,No. 3,Ian Nam,Piper Graves,Ian Nam,6-3,6,3,1,0,Completed,true,false,false
+UA025133,24 May 26,13,Kings Park,Tennis World,No. 4,Minah Pyun,Henry Foo,Henry Foo,0-6,0,6,0,1,Completed,true,true,false
+UA025134,24 May 26,13,BLTC White,Mentone Gold,No. 1,Elicia Goonewardene,Robin Freeman,Robin Freeman,1-6,1,6,0,1,Completed,true,false,false
+UA025134,24 May 26,13,BLTC White,Mentone Gold,No. 2,Eve Astley,Neve Bender,Neve Bender,1-6,1,6,0,1,Completed,true,false,false
+UA025134,24 May 26,13,BLTC White,Mentone Gold,No. 3,Charlie Edelsten,Isabelle Moran,Isabelle Moran,4-6,4,6,0,1,Completed,true,false,false
+UA025134,24 May 26,13,BLTC White,Mentone Gold,No. 4,Lily Wright,[Unnamed player — TROLS UA025134 away code 4],Lily Wright,6-0,6,0,1,0,Completed,false,false,false
+UA025141,31 May 26,14,Victory Park,Mentone Yellow,No. 1,Eason Jayasundera,Eli Drewe,Eason Jayasundera,6-0,6,0,1,0,Completed,true,false,false
+UA025141,31 May 26,14,Victory Park,Mentone Yellow,No. 2,Yujiro Sasaki,Lucas Booker Huang,Yujiro Sasaki,6-2,6,2,1,0,Completed,true,false,false
+UA025141,31 May 26,14,Victory Park,Mentone Yellow,No. 3,Alexei Moralis,Oliver Mathias,Oliver Mathias,1-6,1,6,0,1,Completed,true,false,false
+UA025141,31 May 26,14,Victory Park,Mentone Yellow,No. 4,Kit Smith,Jayden Wei,Jayden Wei,2-6,2,6,0,1,Completed,true,false,false
+UA025143,31 May 26,14,Kings Park,BLTC White,No. 1,Jason Li,Celina Sakaci,Jason Li,6-1,6,1,1,0,Completed,true,false,false
+UA025143,31 May 26,14,Kings Park,BLTC White,No. 2,Juan Nam,Elicia Goonewardene,Elicia Goonewardene,3-6,3,6,0,1,Completed,true,false,false
+UA025143,31 May 26,14,Kings Park,BLTC White,No. 3,Ethan Wiliams,Camilla Johnson,Ethan Wiliams,6-2,6,2,1,0,Completed,true,false,false
+UA025143,31 May 26,14,Kings Park,BLTC White,No. 4,Aadhav Krish,Charlie Edelsten,Aadhav Krish,6-0,6,0,1,0,Completed,true,false,false
+UA025144,31 May 26,14,Mentone Gold,Tennis World,No. 1,Neve Bender,Geyli Liyanaarachchi,Neve Bender,6-3,6,3,1,0,Completed,true,false,false
+UA025144,31 May 26,14,Mentone Gold,Tennis World,No. 2,Sahib Chug,Nichole Wang,Sahib Chug,6-2,6,2,1,0,Completed,true,false,false
+UA025144,31 May 26,14,Mentone Gold,Tennis World,No. 3,Isabella Hunjadi,Piper Graves,Isabella Hunjadi,6-0,6,0,1,0,Completed,true,true,false
+UA025144,31 May 26,14,Mentone Gold,Tennis World,No. 4,Reyansh Mittal,Henry Foo,Henry Foo,3-6,3,6,0,1,Completed,true,true,false
+UA025301,,16,Victory Park,Kings Park,No. 1,Eason Jayasundera,Jason Li,Eason Jayasundera,6-1,6,1,1,0,Completed,true,false,false
+UA025301,,16,Victory Park,Kings Park,No. 2,Yujiro Sasaki,Seorin Ham,Yujiro Sasaki,6-2,6,2,1,0,Completed,true,false,false
+UA025301,,16,Victory Park,Kings Park,No. 3,Thomas Bainbridge,Ethan Wiliams,Thomas Bainbridge,6-2,6,2,1,0,Completed,true,false,false
+UA025301,,16,Victory Park,Kings Park,No. 4,David Jarvis,Aadhav Krish,Aadhav Krish,1-6,1,6,0,1,Completed,true,false,false
+UA025302,,16,Mentone Yellow,Mentone Gold,No. 1,Lucas Booker Huang,Robin Freeman,Robin Freeman,2-6,2,6,0,1,Completed,true,false,false
+UA025302,,16,Mentone Yellow,Mentone Gold,No. 2,Oliver Mathias,Neve Bender,Oliver Mathias,7-5,7,5,1,0,Completed,true,false,false
+UA025302,,16,Mentone Yellow,Mentone Gold,No. 3,Jayden Wei,Sahib Chug,Jayden Wei,6-3,6,3,1,0,Completed,true,false,false
+UA025302,,16,Mentone Yellow,Mentone Gold,No. 4,Riley Pavicic,Isabelle Moran,Isabelle Moran,1-6,1,6,0,1,Completed,true,false,false
+UA025321,,17,Victory Park,Mentone Yellow,No. 1,Eason Jayasundera,Lucas Booker Huang,Lucas Booker Huang,6-7,6,7,0,1,Completed,true,false,false
+UA025321,,17,Victory Park,Mentone Yellow,No. 2,Yujiro Sasaki,Oliver Mathias,Yujiro Sasaki,6-2,6,2,1,0,Completed,true,false,false
+UA025321,,17,Victory Park,Mentone Yellow,No. 3,Thomas Bainbridge,Jayden Wei,Jayden Wei,0-6,0,6,0,1,Completed,true,false,false
+UA025321,,17,Victory Park,Mentone Yellow,No. 4,Alexei Moralis,Riley Pavicic,Riley Pavicic,2-6,2,6,0,1,Completed,true,false,false

@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA22-UA016",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA016",
+  "section_label": "Section 16",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Lauriston 1",
+      "wins": 12,
+      "points": 109,
+      "percentage": 145.17,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Royal South Yarra",
+      "wins": 9,
+      "points": 83,
+      "percentage": 113.21,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 8,
+      "points": 80,
+      "percentage": 105.44,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Tennis World MP",
+      "wins": 7,
+      "points": 78,
+      "percentage": 111.68,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Black Rock",
+      "wins": 8,
+      "points": 77,
+      "percentage": 101.16,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Parkdale",
+      "wins": 5,
+      "points": 63,
+      "percentage": 104.53,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Lauriston 2",
+      "wins": 5,
+      "points": 57,
+      "percentage": 91.36,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong St Kevin's",
+      "wins": 0,
+      "points": 13,
+      "percentage": 52.28,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA016",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA016301"
+  ]
+}

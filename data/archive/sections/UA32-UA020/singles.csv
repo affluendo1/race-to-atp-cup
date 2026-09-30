@@ -1,0 +1,173 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA020011,05 Feb 23,1,Kings Park,BLTC Blue,No. 1,William Haydon,Edward Jones,Edward Jones,1-6,1,6,0,1,Completed,true,false,false
+UA020011,05 Feb 23,1,Kings Park,BLTC Blue,No. 2,Nicholas Roselt,Audrey James,Audrey James,0-6,0,6,0,1,Completed,true,false,false
+UA020011,05 Feb 23,1,Kings Park,BLTC Blue,No. 3,Thien Hoang,Madeleine Jones,Madeleine Jones,4-6,4,6,0,1,Completed,true,false,true
+UA020011,05 Feb 23,1,Kings Park,BLTC Blue,No. 4,Hai Nhi Hoang,James Austin,Hai Nhi Hoang,6-1,6,1,1,0,Completed,true,false,false
+UA020012,05 Feb 23,1,Kooyong,Le Page,No. 1,Harper Barons,Sascha Whitelaw,Harper Barons,6-1,6,1,1,0,Completed,true,false,false
+UA020012,05 Feb 23,1,Kooyong,Le Page,No. 2,Stephanie Forsyth,Jonathan Friedman,Jonathan Friedman,4-6,4,6,0,1,Completed,true,false,false
+UA020012,05 Feb 23,1,Kooyong,Le Page,No. 3,Henry Moore,Yohan Singh,Henry Moore,7-6,7,6,1,0,Completed,true,false,false
+UA020012,05 Feb 23,1,Kooyong,Le Page,No. 4,Freddie Tulloch,Jonny Wu,Freddie Tulloch,6-2,6,2,1,0,Completed,true,false,false
+UA020013,05 Feb 23,1,Parkdale,St Joan of Arc,No. 1,Owen Roach,Aithan Georgas,Aithan Georgas,3-6,3,6,0,1,Completed,true,false,false
+UA020013,05 Feb 23,1,Parkdale,St Joan of Arc,No. 2,Oliver Novak,Jonah Davies,Jonah Davies,1-6,1,6,0,1,Completed,true,false,false
+UA020013,05 Feb 23,1,Parkdale,St Joan of Arc,No. 3,Callan Davey,Finlay Davies,Callan Davey,6-3,6,3,1,0,Completed,true,false,false
+UA020013,05 Feb 23,1,Parkdale,St Joan of Arc,No. 4,Calvin George,Jack Kemp,Jack Kemp,2-6,2,6,0,1,Completed,true,false,false
+UA020014,05 Feb 23,1,Black Rock Blue,St Andrews MB BG,No. 1,Joseph Desmond,Kingsley Bower,Joseph Desmond,6-1,6,1,1,0,Completed,true,false,false
+UA020014,05 Feb 23,1,Black Rock Blue,St Andrews MB BG,No. 2,Luke Desmond,Henry Gilmore,Luke Desmond,6-3,6,3,1,0,Completed,true,false,false
+UA020014,05 Feb 23,1,Black Rock Blue,St Andrews MB BG,No. 3,Toby Leeds,Drishana Siwakoti,Toby Leeds,7-6,7,6,1,0,Completed,true,false,false
+UA020014,05 Feb 23,1,Black Rock Blue,St Andrews MB BG,No. 4,Bahya Hamada,Lizzie Upstill,Lizzie Upstill,2-6,2,6,0,1,Completed,true,false,false
+UA020021,12 Feb 23,2,St Andrews MB BG,Kings Park,No. 1,Kingsley Bower,William Haydon,William Haydon,2-6,2,6,0,1,Completed,true,false,false
+UA020021,12 Feb 23,2,St Andrews MB BG,Kings Park,No. 2,Henry Gilmore,Thien Hoang,Thien Hoang,6-7,6,7,0,1,Completed,true,false,false
+UA020021,12 Feb 23,2,St Andrews MB BG,Kings Park,No. 3,Drishana Siwakoti,Brendan Shim,Drishana Siwakoti,6-1,6,1,1,0,Completed,true,false,false
+UA020021,12 Feb 23,2,St Andrews MB BG,Kings Park,No. 4,Joel Bearzatto,Hai Nhi Hoang,Hai Nhi Hoang,6-7,6,7,0,1,Completed,true,false,false
+UA020022,12 Feb 23,2,BLTC Blue,Kooyong,No. 1,Edward Jones,Harper Barons,Edward Jones,6-1,6,1,1,0,Completed,true,false,false
+UA020022,12 Feb 23,2,BLTC Blue,Kooyong,No. 2,Audrey James,Stephanie Forsyth,Stephanie Forsyth,1-6,1,6,0,1,Completed,true,false,false
+UA020022,12 Feb 23,2,BLTC Blue,Kooyong,No. 3,Sammuel Emmerson,Freddie Tulloch,Freddie Tulloch,0-6,0,6,0,1,Completed,true,false,false
+UA020022,12 Feb 23,2,BLTC Blue,Kooyong,No. 4,James Austin,Stephan Merigoux,Stephan Merigoux,0-6,0,6,0,1,Completed,true,false,false
+UA020023,12 Feb 23,2,Le Page,Parkdale,No. 1,Sascha Whitelaw,Owen Roach,Owen Roach,2-6,2,6,0,1,Completed,true,false,false
+UA020023,12 Feb 23,2,Le Page,Parkdale,No. 2,Matthew Lan,Oliver Novak,Matthew Lan,6-3,6,3,1,0,Completed,true,false,false
+UA020023,12 Feb 23,2,Le Page,Parkdale,No. 3,Yohan Singh,Callan Davey,Yohan Singh,6-3,6,3,1,0,Completed,true,false,false
+UA020023,12 Feb 23,2,Le Page,Parkdale,No. 4,Jonny Wu,William Wang,William Wang,0-6,0,6,0,1,Completed,true,false,false
+UA020024,12 Feb 23,2,St Joan of Arc,Black Rock Blue,No. 1,Ed Cockram,Luke Desmond,Luke Desmond,0-6,0,6,0,1,Completed,true,false,false
+UA020024,12 Feb 23,2,St Joan of Arc,Black Rock Blue,No. 2,Jonah Davies,Toby Leeds,Jonah Davies,6-0,6,0,1,0,Completed,true,false,false
+UA020024,12 Feb 23,2,St Joan of Arc,Black Rock Blue,No. 3,Caspar Jasnmagi,Bahya Hamada,Caspar Jasnmagi,6-0,6,0,1,0,Completed,true,false,false
+UA020024,12 Feb 23,2,St Joan of Arc,Black Rock Blue,No. 4,Finlay Davies,Lucy Tweddle,Lucy Tweddle,3-6,3,6,0,1,Completed,true,false,false
+UA020031,19 Feb 23,3,Kings Park,St Joan of Arc,No. 1,Nicholas Roselt,Aithan Georgas,Aithan Georgas,4-6,4,6,0,1,Completed,true,false,false
+UA020031,19 Feb 23,3,Kings Park,St Joan of Arc,No. 2,Thien Hoang,Ed Cockram,Ed Cockram,0-6,0,6,0,1,Completed,true,false,false
+UA020031,19 Feb 23,3,Kings Park,St Joan of Arc,No. 3,Brendan Shim,Jonah Davies,Jonah Davies,0-6,0,6,0,1,Completed,true,false,false
+UA020031,19 Feb 23,3,Kings Park,St Joan of Arc,No. 4,Hai Nhi Hoang,Caspar Jasnmagi,Caspar Jasnmagi,2-6,2,6,0,1,Completed,true,false,false
+UA020032,19 Feb 23,3,Kooyong,St Andrews MB BG,No. 1,Harper Barons,Kingsley Bower,Harper Barons,6-0,6,0,1,0,Completed,true,false,false
+UA020032,19 Feb 23,3,Kooyong,St Andrews MB BG,No. 2,Stephanie Forsyth,Drishana Siwakoti,Stephanie Forsyth,6-0,6,0,1,0,Completed,true,false,false
+UA020032,19 Feb 23,3,Kooyong,St Andrews MB BG,No. 3,Henry Moore,Lizzie Upstill,Henry Moore,7-5,7,5,1,0,Completed,true,false,false
+UA020032,19 Feb 23,3,Kooyong,St Andrews MB BG,No. 4,Stephan Merigoux,Joel Bearzatto,Stephan Merigoux,6-1,6,1,1,0,Completed,true,false,false
+UA020033,19 Feb 23,3,Parkdale,BLTC Blue,No. 1,Harvey Myers,Edward Jones,Edward Jones,4-6,4,6,0,1,Completed,true,true,false
+UA020033,19 Feb 23,3,Parkdale,BLTC Blue,No. 2,Oliver Novak,Audrey James,Audrey James,0-6,0,6,0,1,Completed,true,false,false
+UA020033,19 Feb 23,3,Parkdale,BLTC Blue,No. 3,Callan Davey,James Austin,Callan Davey,6-2,6,2,1,0,Completed,true,false,false
+UA020033,19 Feb 23,3,Parkdale,BLTC Blue,No. 4,William Wang,Sammuel Emmerson,William Wang,6-0,6,0,1,0,Completed,true,false,false
+UA020034,19 Feb 23,3,Black Rock Blue,Le Page,No. 1,Toby Leeds,Sascha Whitelaw,Toby Leeds,6-4,6,4,1,0,Completed,true,false,false
+UA020034,19 Feb 23,3,Black Rock Blue,Le Page,No. 2,Bahya Hamada,Matthew Lan,Matthew Lan,3-6,3,6,0,1,Completed,true,false,false
+UA020034,19 Feb 23,3,Black Rock Blue,Le Page,No. 3,Lucy Tweddle,Jonathan Friedman,Jonathan Friedman,2-6,2,6,0,1,Completed,true,false,false
+UA020034,19 Feb 23,3,Black Rock Blue,Le Page,No. 4,Asha Bishop,Jonny Wu,Asha Bishop,6-1,6,1,1,0,Completed,true,false,false
+UA020041,26 Feb 23,4,Le Page,Kings Park,No. 1,Sascha Whitelaw,William Haydon,Sascha Whitelaw,6-1,6,1,1,0,Completed,true,false,false
+UA020041,26 Feb 23,4,Le Page,Kings Park,No. 2,Jonathan Friedman,Nicholas Roselt,Nicholas Roselt,3-6,3,6,0,1,Completed,true,false,false
+UA020041,26 Feb 23,4,Le Page,Kings Park,No. 3,Yohan Singh,Thien Hoang,Yohan Singh,7-5,7,5,1,0,Completed,true,false,false
+UA020041,26 Feb 23,4,Le Page,Kings Park,No. 4,Teagan Toskov-Calabrese,Hai Nhi Hoang,Teagan Toskov-Calabrese,6-2,6,2,1,0,Completed,true,false,false
+UA020042,26 Feb 23,4,St Joan of Arc,Kooyong,No. 1,Ed Cockram,Stephanie Forsyth,Stephanie Forsyth,3-6,3,6,0,1,Completed,true,false,false
+UA020042,26 Feb 23,4,St Joan of Arc,Kooyong,No. 2,Caspar Jasnmagi,Henry Moore,Henry Moore,5-7,5,7,0,1,Completed,true,false,false
+UA020042,26 Feb 23,4,St Joan of Arc,Kooyong,No. 3,Finlay Davies,Stephan Merigoux,Stephan Merigoux,4-6,4,6,0,1,Completed,true,false,false
+UA020042,26 Feb 23,4,St Joan of Arc,Kooyong,No. 4,Jack Kemp,Meg Lindeman,Meg Lindeman,2-6,2,6,0,1,Completed,true,false,true
+UA020043,26 Feb 23,4,St Andrews MB BG,Parkdale,No. 1,Kingsley Bower,Owen Roach,Owen Roach,0-6,0,6,0,1,Completed,true,false,false
+UA020043,26 Feb 23,4,St Andrews MB BG,Parkdale,No. 2,Henry Gilmore,Callan Davey,Henry Gilmore,7-6,7,6,1,0,Completed,true,false,false
+UA020043,26 Feb 23,4,St Andrews MB BG,Parkdale,No. 3,Lizzie Upstill,William Wang,William Wang,2-6,2,6,0,1,Completed,true,false,false
+UA020043,26 Feb 23,4,St Andrews MB BG,Parkdale,No. 4,Joel Bearzatto,Oliver Novak,Joel Bearzatto,7-6,7,6,1,0,Completed,true,false,false
+UA020044,26 Feb 23,4,BLTC Blue,Black Rock Blue,No. 1,Edward Jones,Joseph Desmond,Joseph Desmond,4-6,4,6,0,1,Completed,true,false,false
+UA020044,26 Feb 23,4,BLTC Blue,Black Rock Blue,No. 2,Audrey James,Bahya Hamada,Audrey James,6-0,6,0,1,0,Completed,true,false,false
+UA020044,26 Feb 23,4,BLTC Blue,Black Rock Blue,No. 3,James Austin,Lucy Tweddle,James Austin,6-3,6,3,1,0,Completed,true,false,false
+UA020044,26 Feb 23,4,BLTC Blue,Black Rock Blue,No. 4,Joseph Gozzola,Asha Bishop,Asha Bishop,1-6,1,6,0,1,Completed,true,true,false
+UA020051,05 Mar 23,5,Parkdale,Black Rock Blue,No. 1,Owen Roach,Joseph Desmond,Joseph Desmond,2-6,2,6,0,1,Completed,true,false,false
+UA020051,05 Mar 23,5,Parkdale,Black Rock Blue,No. 2,Callan Davey,Luke Desmond,Luke Desmond,1-6,1,6,0,1,Completed,true,false,false
+UA020051,05 Mar 23,5,Parkdale,Black Rock Blue,No. 3,William Wang,Lucy Tweddle,William Wang,7-5,7,5,1,0,Completed,true,false,false
+UA020051,05 Mar 23,5,Parkdale,Black Rock Blue,No. 4,Oliver Novak,Asha Bishop,Asha Bishop,3-6,3,6,0,1,Completed,true,false,false
+UA020052,05 Mar 23,5,St Andrews MB BG,St Joan of Arc,No. 1,Henry Gilmore,Aithan Georgas,Aithan Georgas,1-6,1,6,0,1,Completed,true,false,false
+UA020052,05 Mar 23,5,St Andrews MB BG,St Joan of Arc,No. 2,Drishana Siwakoti,Jonah Davies,Jonah Davies,1-6,1,6,0,1,Completed,true,false,false
+UA020052,05 Mar 23,5,St Andrews MB BG,St Joan of Arc,No. 3,Lizzie Upstill,Finlay Davies,Lizzie Upstill,6-1,6,1,1,0,Completed,true,false,false
+UA020052,05 Mar 23,5,St Andrews MB BG,St Joan of Arc,No. 4,Joel Bearzatto,Jack Kemp,Joel Bearzatto,6-4,6,4,1,0,Completed,true,false,false
+UA020053,05 Mar 23,5,Le Page,BLTC Blue,No. 1,Matthew Lan,Audrey James,Audrey James,0-6,0,6,0,1,Completed,true,false,false
+UA020053,05 Mar 23,5,Le Page,BLTC Blue,No. 2,Jonathan Friedman,Edward Jones,Edward Jones,0-6,0,6,0,1,Completed,true,false,false
+UA020053,05 Mar 23,5,Le Page,BLTC Blue,No. 3,Yohan Singh,Sammuel Emmerson,Yohan Singh,6-1,6,1,1,0,Completed,true,false,false
+UA020053,05 Mar 23,5,Le Page,BLTC Blue,No. 4,Jonny Wu,James Austin,James Austin,3-6,3,6,0,1,Completed,true,false,false
+UA020054,05 Mar 23,5,Kings Park,Kooyong,No. 1,Nicholas Roselt,Harper Barons,Nicholas Roselt,6-2,6,2,1,0,Completed,true,false,false
+UA020054,05 Mar 23,5,Kings Park,Kooyong,No. 2,Thien Hoang,Henry Moore,Henry Moore,2-6,2,6,0,1,Completed,true,false,false
+UA020054,05 Mar 23,5,Kings Park,Kooyong,No. 3,Brendan Shim,Stephan Merigoux,Stephan Merigoux,3-6,3,6,0,1,Completed,true,false,false
+UA020054,05 Mar 23,5,Kings Park,Kooyong,No. 4,Hai Nhi Hoang,Freddie Tulloch,Freddie Tulloch,0-6,0,6,0,1,Completed,true,false,false
+UA020061,19 Mar 23,6,Kooyong,Parkdale,No. 1,Harper Barons,Callan Davey,Callan Davey,4-6,4,6,0,1,Completed,true,false,false
+UA020061,19 Mar 23,6,Kooyong,Parkdale,No. 2,Henry Moore,William Wang,William Wang,1-6,1,6,0,1,Completed,true,false,false
+UA020061,19 Mar 23,6,Kooyong,Parkdale,No. 3,Freddie Tulloch,Oliver Novak,Freddie Tulloch,6-2,6,2,1,0,Completed,true,false,false
+UA020061,19 Mar 23,6,Kooyong,Parkdale,No. 4,[Unnamed player — TROLS UA020061 home code 4],Calvin George,[Unnamed player — TROLS UA020061 home code 4],6-0,6,0,1,0,Completed,false,false,false
+UA020062,19 Mar 23,6,Black Rock Blue,Kings Park,No. 1,Joseph Desmond,William Haydon,Joseph Desmond,6-1,6,1,1,0,Completed,true,false,false
+UA020062,19 Mar 23,6,Black Rock Blue,Kings Park,No. 2,Luke Desmond,Nicholas Roselt,Luke Desmond,6-2,6,2,1,0,Completed,true,false,false
+UA020062,19 Mar 23,6,Black Rock Blue,Kings Park,No. 3,Toby Leeds,Brendan Shim,Toby Leeds,6-2,6,2,1,0,Completed,true,false,false
+UA020062,19 Mar 23,6,Black Rock Blue,Kings Park,No. 4,Asha Bishop,Hai Nhi Hoang,Asha Bishop,7-5,7,5,1,0,Completed,true,false,false
+UA020063,19 Mar 23,6,St Joan of Arc,Le Page,No. 1,Aithan Georgas,Matthew Lan,Aithan Georgas,6-2,6,2,1,0,Completed,true,false,false
+UA020063,19 Mar 23,6,St Joan of Arc,Le Page,No. 2,Ed Cockram,Jonathan Friedman,Jonathan Friedman,4-6,4,6,0,1,Completed,true,false,false
+UA020063,19 Mar 23,6,St Joan of Arc,Le Page,No. 3,Caspar Jasnmagi,Yohan Singh,Caspar Jasnmagi,6-1,6,1,1,0,Completed,true,false,false
+UA020063,19 Mar 23,6,St Joan of Arc,Le Page,No. 4,Jack Kemp,Jonny Wu,Jack Kemp,6-4,6,4,1,0,Completed,true,false,false
+UA020064,19 Mar 23,6,BLTC Blue,St Andrews MB BG,No. 1,Edward Jones,Kingsley Bower,Edward Jones,6-1,6,1,1,0,Completed,true,false,false
+UA020064,19 Mar 23,6,BLTC Blue,St Andrews MB BG,No. 2,William Jones,Henry Gilmore,William Jones,6-2,6,2,1,0,Completed,true,true,false
+UA020064,19 Mar 23,6,BLTC Blue,St Andrews MB BG,No. 3,Sammuel Emmerson,Drishana Siwakoti,Drishana Siwakoti,3-6,3,6,0,1,Completed,true,false,false
+UA020064,19 Mar 23,6,BLTC Blue,St Andrews MB BG,No. 4,James Austin,Lizzie Upstill,Lizzie Upstill,3-6,3,6,0,1,Completed,true,false,false
+UA020071,26 Mar 23,7,Kings Park,Parkdale,No. 1,William Haydon,Owen Roach,Owen Roach,0-6,0,6,0,1,Completed,true,false,false
+UA020071,26 Mar 23,7,Kings Park,Parkdale,No. 2,Nicholas Roselt,Callan Davey,Nicholas Roselt,6-1,6,1,1,0,Completed,true,false,false
+UA020071,26 Mar 23,7,Kings Park,Parkdale,No. 3,Thien Hoang,William Wang,William Wang,6-7,6,7,0,1,Completed,true,false,false
+UA020071,26 Mar 23,7,Kings Park,Parkdale,No. 4,Brendan Shim,Oliver Novak,Brendan Shim,7-5,7,5,1,0,Completed,true,false,false
+UA020072,26 Mar 23,7,Kooyong,Black Rock Blue,No. 1,Stephanie Forsyth,Joseph Desmond,Joseph Desmond,2-6,2,6,0,1,Completed,true,false,false
+UA020072,26 Mar 23,7,Kooyong,Black Rock Blue,No. 2,Freddie Tulloch,Luke Desmond,Luke Desmond,6-7,6,7,0,1,Completed,true,false,false
+UA020072,26 Mar 23,7,Kooyong,Black Rock Blue,No. 3,Stephan Merigoux,Toby Leeds,Toby Leeds,2-6,2,6,0,1,Completed,true,false,false
+UA020072,26 Mar 23,7,Kooyong,Black Rock Blue,No. 4,Meg Lindeman,Bahya Hamada,Bahya Hamada,1-6,1,6,0,1,Completed,true,true,false
+UA020073,26 Mar 23,7,St Andrews MB BG,Le Page,No. 1,Kingsley Bower,Sascha Whitelaw,Kingsley Bower,6-2,6,2,1,0,Completed,true,false,false
+UA020073,26 Mar 23,7,St Andrews MB BG,Le Page,No. 2,Henry Gilmore,Matthew Lan,Matthew Lan,3-6,3,6,0,1,Completed,true,false,false
+UA020073,26 Mar 23,7,St Andrews MB BG,Le Page,No. 3,Drishana Siwakoti,Yohan Singh,Drishana Siwakoti,7-6,7,6,1,0,Completed,true,false,false
+UA020073,26 Mar 23,7,St Andrews MB BG,Le Page,No. 4,Joel Bearzatto,Jonny Wu,Joel Bearzatto,6-1,6,1,1,0,Completed,true,false,false
+UA020074,26 Mar 23,7,St Joan of Arc,BLTC Blue,No. 1,Aithan Georgas,Audrey James,Aithan Georgas,6-3,6,3,1,0,Completed,true,false,false
+UA020074,26 Mar 23,7,St Joan of Arc,BLTC Blue,No. 2,Jonah Davies,Edward Jones,Jonah Davies,6-2,6,2,1,0,Completed,true,false,false
+UA020074,26 Mar 23,7,St Joan of Arc,BLTC Blue,No. 3,Finlay Davies,Sammuel Emmerson,Sammuel Emmerson,6-7,6,7,0,1,Completed,true,false,false
+UA020074,26 Mar 23,7,St Joan of Arc,BLTC Blue,No. 4,Jack Kemp,James Austin,Jack Kemp,6-2,6,2,1,0,Completed,true,false,false
+UA020081,02 Apr 23,8,BLTC Blue,Kings Park,No. 1,Audrey James,William Haydon,Audrey James,6-1,6,1,1,0,Completed,true,false,false
+UA020081,02 Apr 23,8,BLTC Blue,Kings Park,No. 2,Edward Jones,Nicholas Roselt,Edward Jones,6-4,6,4,1,0,Completed,true,false,false
+UA020081,02 Apr 23,8,BLTC Blue,Kings Park,No. 3,Sammuel Emmerson,Thien Hoang,Thien Hoang,0-6,0,6,0,1,Completed,true,false,false
+UA020081,02 Apr 23,8,BLTC Blue,Kings Park,No. 4,James Austin,Hai Nhi Hoang,Hai Nhi Hoang,3-6,3,6,0,1,Completed,true,false,false
+UA020082,02 Apr 23,8,Le Page,Kooyong,No. 1,Sascha Whitelaw,Harper Barons,Sascha Whitelaw,6-1,6,1,1,0,Completed,true,false,false
+UA020082,02 Apr 23,8,Le Page,Kooyong,No. 2,Matthew Lan,Stephanie Forsyth,Stephanie Forsyth,5-7,5,7,0,1,Completed,true,false,false
+UA020082,02 Apr 23,8,Le Page,Kooyong,No. 3,Yohan Singh,Henry Moore,Henry Moore,1-6,1,6,0,1,Completed,true,false,false
+UA020082,02 Apr 23,8,Le Page,Kooyong,No. 4,Jonny Wu,Freddie Tulloch,Freddie Tulloch,0-6,0,6,0,1,Completed,true,false,false
+UA020083,02 Apr 23,8,St Joan of Arc,Parkdale,No. 1,Aithan Georgas,Owen Roach,Aithan Georgas,6-3,6,3,1,0,Completed,true,false,false
+UA020083,02 Apr 23,8,St Joan of Arc,Parkdale,No. 2,Jonah Davies,Callan Davey,Jonah Davies,6-0,6,0,1,0,Completed,true,false,false
+UA020083,02 Apr 23,8,St Joan of Arc,Parkdale,No. 3,Caspar Jasnmagi,William Wang,Caspar Jasnmagi,7-6,7,6,1,0,Completed,true,false,false
+UA020083,02 Apr 23,8,St Joan of Arc,Parkdale,No. 4,Finlay Davies,Oliver Novak,Finlay Davies,6-1,6,1,1,0,Completed,true,false,false
+UA020084,02 Apr 23,8,St Andrews MB BG,Black Rock Blue,No. 1,Kingsley Bower,Luke Desmond,Luke Desmond,0-6,0,6,0,1,Completed,true,false,false
+UA020084,02 Apr 23,8,St Andrews MB BG,Black Rock Blue,No. 2,Drishana Siwakoti,Bahya Hamada,Drishana Siwakoti,6-2,6,2,1,0,Completed,true,false,false
+UA020084,02 Apr 23,8,St Andrews MB BG,Black Rock Blue,No. 3,Lizzie Upstill,Lucy Tweddle,Lizzie Upstill,6-4,6,4,1,0,Completed,true,false,false
+UA020084,02 Apr 23,8,St Andrews MB BG,Black Rock Blue,No. 4,Joel Bearzatto,Asha Bishop,Asha Bishop,2-6,2,6,0,1,Completed,true,false,false
+UA020091,30 Apr 23,9,Kings Park,St Andrews MB BG,No. 1,William Haydon,Kingsley Bower,William Haydon,6-4,6,4,1,0,Completed,true,false,false
+UA020091,30 Apr 23,9,Kings Park,St Andrews MB BG,No. 2,Nicholas Roselt,Henry Gilmore,Nicholas Roselt,6-2,6,2,1,0,Completed,true,false,false
+UA020091,30 Apr 23,9,Kings Park,St Andrews MB BG,No. 3,Thien Hoang,Drishana Siwakoti,Drishana Siwakoti,1-6,1,6,0,1,Completed,true,false,false
+UA020091,30 Apr 23,9,Kings Park,St Andrews MB BG,No. 4,Hai Nhi Hoang,Lizzie Upstill,Lizzie Upstill,2-6,2,6,0,1,Completed,true,false,false
+UA020092,30 Apr 23,9,Kooyong,BLTC Blue,No. 1,Harper Barons,Audrey James,Audrey James,0-6,0,6,0,1,Completed,true,false,false
+UA020092,30 Apr 23,9,Kooyong,BLTC Blue,No. 2,Henry Moore,Edward Jones,Edward Jones,5-7,5,7,0,1,Completed,true,false,false
+UA020092,30 Apr 23,9,Kooyong,BLTC Blue,No. 3,Freddie Tulloch,Sammuel Emmerson,Freddie Tulloch,6-1,6,1,1,0,Completed,true,false,false
+UA020092,30 Apr 23,9,Kooyong,BLTC Blue,No. 4,Stephan Merigoux,James Austin,James Austin,4-6,4,6,0,1,Completed,true,false,false
+UA020093,30 Apr 23,9,Parkdale,Le Page,No. 1,Owen Roach,Sascha Whitelaw,Owen Roach,7-5,7,5,1,0,Completed,true,false,false
+UA020093,30 Apr 23,9,Parkdale,Le Page,No. 2,Callan Davey,Matthew Lan,Callan Davey,7-5,7,5,1,0,Completed,true,false,false
+UA020093,30 Apr 23,9,Parkdale,Le Page,No. 3,William Wang,Jonathan Friedman,Jonathan Friedman,6-7,6,7,0,1,Completed,true,false,false
+UA020093,30 Apr 23,9,Parkdale,Le Page,No. 4,Harrison Page,Jonny Wu,Harrison Page,6-4,6,4,1,0,Completed,true,false,false
+UA020094,30 Apr 23,9,Black Rock Blue,St Joan of Arc,No. 1,Joseph Desmond,Aithan Georgas,Aithan Georgas,5-7,5,7,0,1,Completed,true,false,false
+UA020094,30 Apr 23,9,Black Rock Blue,St Joan of Arc,No. 2,Luke Desmond,Ed Cockram,Luke Desmond,6-2,6,2,1,0,Completed,true,false,false
+UA020094,30 Apr 23,9,Black Rock Blue,St Joan of Arc,No. 3,Lucy Tweddle,Caspar Jasnmagi,Caspar Jasnmagi,1-6,1,6,0,1,Completed,true,false,false
+UA020094,30 Apr 23,9,Black Rock Blue,St Joan of Arc,No. 4,Asha Bishop,Jack Kemp,Asha Bishop,6-3,6,3,1,0,Completed,true,false,false
+UA020111,14 May 23,11,Kings Park,Le Page,No. 1,William Haydon,Sascha Whitelaw,Sascha Whitelaw,1-6,1,6,0,1,Completed,true,false,false
+UA020111,14 May 23,11,Kings Park,Le Page,No. 2,Nicholas Roselt,Jonathan Friedman,Jonathan Friedman,4-6,4,6,0,1,Completed,true,false,false
+UA020111,14 May 23,11,Kings Park,Le Page,No. 3,Thien Hoang,Yohan Singh,Thien Hoang,6-0,6,0,1,0,Completed,true,false,false
+UA020111,14 May 23,11,Kings Park,Le Page,No. 4,Hai Nhi Hoang,Jonny Wu,Hai Nhi Hoang,6-1,6,1,1,0,Completed,true,false,false
+UA020112,14 May 23,11,Kooyong,St Joan of Arc,No. 1,Stephanie Forsyth,Aithan Georgas,Aithan Georgas,4-6,4,6,0,1,Completed,true,false,false
+UA020112,14 May 23,11,Kooyong,St Joan of Arc,No. 2,Freddie Tulloch,Jonah Davies,Jonah Davies,0-6,0,6,0,1,Completed,true,false,false
+UA020112,14 May 23,11,Kooyong,St Joan of Arc,No. 3,Henry Moore,Finlay Davies,Finlay Davies,0-6,0,6,0,1,Completed,true,false,false
+UA020112,14 May 23,11,Kooyong,St Joan of Arc,No. 4,Stephan Merigoux,Jack Kemp,Stephan Merigoux,6-0,6,0,1,0,Completed,true,false,false
+UA020113,14 May 23,11,Parkdale,St Andrews MB BG,No. 1,Owen Roach,Kingsley Bower,Owen Roach,6-0,6,0,1,0,Completed,true,false,false
+UA020113,14 May 23,11,Parkdale,St Andrews MB BG,No. 2,Callan Davey,Henry Gilmore,Callan Davey,6-0,6,0,1,0,Completed,true,false,false
+UA020113,14 May 23,11,Parkdale,St Andrews MB BG,No. 3,William Wang,Drishana Siwakoti,William Wang,6-2,6,2,1,0,Completed,true,false,false
+UA020113,14 May 23,11,Parkdale,St Andrews MB BG,No. 4,Harrison Page,Lizzie Upstill,Lizzie Upstill,1-6,1,6,0,1,Completed,true,false,false
+UA020114,14 May 23,11,Black Rock Blue,BLTC Blue,No. 1,Joseph Desmond,Audrey James,Joseph Desmond,7-5,7,5,1,0,Completed,true,false,false
+UA020114,14 May 23,11,Black Rock Blue,BLTC Blue,No. 2,Luke Desmond,Edward Jones,Luke Desmond,6-3,6,3,1,0,Completed,true,false,false
+UA020114,14 May 23,11,Black Rock Blue,BLTC Blue,No. 3,Toby Leeds,Sammuel Emmerson,Toby Leeds,6-1,6,1,1,0,Completed,true,false,false
+UA020114,14 May 23,11,Black Rock Blue,BLTC Blue,No. 4,Bahya Hamada,James Austin,James Austin,6-7,6,7,0,1,Completed,true,false,false
+UA020301,,16,St Joan of Arc,Parkdale,No. 1,Aithan Georgas,Owen Roach,Aithan Georgas,6-2,6,2,1,0,Completed,true,false,false
+UA020301,,16,St Joan of Arc,Parkdale,No. 2,Ed Cockram,Callan Davey,Callan Davey,3-6,3,6,0,1,Completed,true,false,false
+UA020301,,16,St Joan of Arc,Parkdale,No. 3,Jonah Davies,William Wang,Jonah Davies,6-2,6,2,1,0,Completed,true,false,false
+UA020301,,16,St Joan of Arc,Parkdale,No. 4,Caspar Jasnmagi,Harrison Page,Caspar Jasnmagi,6-3,6,3,1,0,Completed,true,false,false
+UA020302,,16,Black Rock Blue,Kooyong,No. 1,Toby Leeds,Harper Barons,Toby Leeds,6-0,6,0,1,0,Completed,true,false,false
+UA020302,,16,Black Rock Blue,Kooyong,No. 2,Bahya Hamada,Stephanie Forsyth,Stephanie Forsyth,2-6,2,6,0,1,Completed,true,false,false
+UA020302,,16,Black Rock Blue,Kooyong,No. 3,Lucy Tweddle,Henry Moore,Henry Moore,5-7,5,7,0,1,Completed,true,false,false
+UA020302,,16,Black Rock Blue,Kooyong,No. 4,Asha Bishop,Freddie Tulloch,Freddie Tulloch,1-6,1,6,0,1,Completed,true,false,false
+UA020321,,17,St Joan of Arc,Kooyong,No. 1,Aithan Georgas,Harper Barons,Aithan Georgas,6-1,6,1,1,0,Completed,true,false,false
+UA020321,,17,St Joan of Arc,Kooyong,No. 2,Ed Cockram,Stephanie Forsyth,Ed Cockram,6-3,6,3,1,0,Completed,true,false,false
+UA020321,,17,St Joan of Arc,Kooyong,No. 3,Jonah Davies,Henry Moore,Jonah Davies,6-0,6,0,1,0,Completed,true,false,false
+UA020321,,17,St Joan of Arc,Kooyong,No. 4,Caspar Jasnmagi,Freddie Tulloch,Freddie Tulloch,2-6,2,6,0,1,Completed,true,false,false

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA22-UA020",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA020",
+  "section_label": "Section 20",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Bentleigh Rec",
+      "wins": 14,
+      "points": 119,
+      "percentage": 179.41,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 10,
+      "points": 99,
+      "percentage": 138.46,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Royal Ave",
+      "wins": 7,
+      "points": 75,
+      "percentage": 117.77,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Highett",
+      "wins": 7,
+      "points": 74,
+      "percentage": 103.72,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Le Page",
+      "wins": 8,
+      "points": 72,
+      "percentage": 103.05,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong Xavier",
+      "wins": 7,
+      "points": 67,
+      "percentage": 90.22,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Lauriston",
+      "wins": 3,
+      "points": 40,
+      "percentage": 75.64,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 14,
+      "percentage": 47.22,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA020",
+  "fixtures": 59,
+  "completed_fixtures": 59,
+  "draw_fixtures": 45,
+  "singles_rubbers": 236,
+  "doubles_rubbers": 118,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

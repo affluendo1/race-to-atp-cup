@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA37-UA015",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2025",
+  "season_id": "UA37",
+  "season_label": "Spring 2025",
+  "source_section_code": "UA015",
+  "section_label": "Section 15",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Royal Ave Green",
+      "wins": 9,
+      "points": 95,
+      "percentage": 139.91,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "BLTC",
+      "wins": 7,
+      "points": 86,
+      "percentage": 121.19,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Carmelite",
+      "wins": 8,
+      "points": 80.5,
+      "percentage": 109.12,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 7,
+      "points": 76,
+      "percentage": 120.54,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Royal Ave Purple",
+      "wins": 6,
+      "points": 74.5,
+      "percentage": 109.21,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Beaumaris CC",
+      "wins": 6,
+      "points": 63,
+      "percentage": 84.06,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Mentone",
+      "wins": 4,
+      "points": 52,
+      "percentage": 82.35,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal South Yarra",
+      "wins": 1,
+      "points": 33,
+      "percentage": 60.95,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA37-UA015",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 207,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

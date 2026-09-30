@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA27-UA019",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2020",
+  "season_id": "UA27",
+  "season_label": "Spring 2020",
+  "source_section_code": "UA019",
+  "section_label": "Section 19",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Lauriston",
+      "wins": 4,
+      "points": 48,
+      "percentage": 189.25,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Murrumbeena LA",
+      "wins": 3,
+      "points": 40,
+      "percentage": 141.8,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Coatesville",
+      "wins": 4,
+      "points": 37,
+      "percentage": 117.24,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Parkdale 2",
+      "wins": 3,
+      "points": 33,
+      "percentage": 109.72,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Le Page",
+      "wins": 2,
+      "points": 29,
+      "percentage": 96.77,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Parkdale 1",
+      "wins": 2,
+      "points": 25,
+      "percentage": 68.99,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Black Rock",
+      "wins": 1,
+      "points": 21,
+      "percentage": 90.07,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave",
+      "wins": 0,
+      "points": 7,
+      "percentage": 43.56,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA27-UA019",
+  "fixtures": 24,
+  "completed_fixtures": 21,
+  "draw_fixtures": 56,
+  "singles_rubbers": 84,
+  "doubles_rubbers": 42,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

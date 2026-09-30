@@ -1,0 +1,85 @@
+{
+  "asset_id": "UA37-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2025",
+  "season_id": "UA37",
+  "season_label": "Spring 2025",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Murrumbeena",
+      "wins": 8,
+      "points": 76,
+      "percentage": 118.95,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Le Page",
+      "wins": 6,
+      "points": 68,
+      "percentage": 104.14,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Hurlingham Park",
+      "wins": 6,
+      "points": 65.5,
+      "percentage": 112.63,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kings Park",
+      "wins": 5,
+      "points": 58,
+      "percentage": 98.2,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Elsternwick Park",
+      "wins": 4,
+      "points": 54,
+      "percentage": 96.04,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC",
+      "wins": 3,
+      "points": 49.5,
+      "percentage": 90.06,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Mentone",
+      "wins": 5,
+      "points": 49,
+      "percentage": 87.36,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA37-UA002",
+  "fixtures": 59,
+  "completed_fixtures": 41,
+  "draw_fixtures": 59,
+  "singles_rubbers": 164,
+  "doubles_rubbers": 82,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA002302"
+  ]
+}

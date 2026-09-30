@@ -1,0 +1,41 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA023011,23 Gre 15,1,Kings Park 1,Kings Park 2,No. 1,Rhys Peel,Shiven Lal,Shiven Lal,4-6,4,6,0,1,Completed,true,false,false
+UA023011,23 Gre 15,1,Kings Park 1,Kings Park 2,No. 2,Aiden Woolf,Maja O'Sullivan,Maja O'Sullivan,0-6,0,6,0,1,Completed,true,false,false
+UA023011,23 Gre 15,1,Kings Park 1,Kings Park 2,No. 3,Andrew Kondopoulos,Nate Rollerson,Nate Rollerson,1-6,1,6,0,1,Completed,true,false,false
+UA023011,23 Gre 15,1,Kings Park 1,Kings Park 2,No. 4,Josh Chan,Lachie Peters,Lachie Peters,2-6,2,6,0,1,Completed,true,true,true
+UA023021,22 Nov 20,2,BLTC,Kings Park 1,No. 1,Timothy Gibbons,Or Ilan,Timothy Gibbons,6-2,6,2,1,0,Completed,true,false,false
+UA023021,22 Nov 20,2,BLTC,Kings Park 1,No. 2,Billy Takis,Rhys Peel,Rhys Peel,3-6,3,6,0,1,Completed,true,false,false
+UA023021,22 Nov 20,2,BLTC,Kings Park 1,No. 3,Harry Haines,Aiden Woolf,Aiden Woolf,3-6,3,6,0,1,Completed,true,false,false
+UA023021,22 Nov 20,2,BLTC,Kings Park 1,No. 4,Henry Dyer,Andrew Kondopoulos,Henry Dyer,6-1,6,1,1,0,Completed,true,false,false
+UA023022,22 Nov 20,2,Kings Park 2,Aspendale,No. 1,Shiven Lal,Alexander Rozental,Shiven Lal,6-3,6,3,1,0,Completed,true,false,false
+UA023022,22 Nov 20,2,Kings Park 2,Aspendale,No. 2,Lola Bordes,Brendan McCaul,Lola Bordes,6-0,6,0,1,0,Completed,true,false,false
+UA023022,22 Nov 20,2,Kings Park 2,Aspendale,No. 3,Maja O'Sullivan,Finn Kuperus,Finn Kuperus,2-6,2,6,0,1,Completed,true,false,true
+UA023022,22 Nov 20,2,Kings Park 2,Aspendale,No. 4,Nate Rollerson,Tom McCaul,Nate Rollerson,6-4,6,4,1,0,Completed,true,false,false
+UA023032,29 Nov 20,3,Aspendale,BLTC,No. 1,Coby Myers,Billy Takis,Coby Myers,6-0,6,0,1,0,Completed,true,false,false
+UA023032,29 Nov 20,3,Aspendale,BLTC,No. 2,Alexander Rozental,Henry Dyer,Henry Dyer,4-6,4,6,0,1,Completed,true,false,false
+UA023032,29 Nov 20,3,Aspendale,BLTC,No. 3,Brendan McCaul,[Unnamed player — TROLS UA023032 away code 3],Brendan McCaul,6-0,6,0,1,0,Completed,false,false,false
+UA023032,29 Nov 20,3,Aspendale,BLTC,No. 4,Tom McCaul,Timothy Gibbons,Tom McCaul,7-5,7,5,1,0,Completed,true,false,false
+UA023043,06 Dec 20,4,BLTC,Parkdale,No. 1,Henry Dyer,Soren Kose,Henry Dyer,6-3,6,3,1,0,Completed,true,false,false
+UA023043,06 Dec 20,4,BLTC,Parkdale,No. 2,Keegan Bylsma,Jazz Watson,Keegan Bylsma,6-3,6,3,1,0,Completed,true,false,false
+UA023043,06 Dec 20,4,BLTC,Parkdale,No. 3,Harry Bennett,Tom Ovenden,Harry Bennett,6-1,6,1,1,0,Completed,true,false,false
+UA023043,06 Dec 20,4,BLTC,Parkdale,No. 4,Timothy Gibbons,Lucinda Ashley,Lucinda Ashley,4-6,4,6,0,1,Completed,true,false,false
+UA023044,06 Dec 20,4,Kings Park 2,St James,No. 1,Shiven Lal,James Harrington,James Harrington,1-6,1,6,0,1,Completed,true,false,false
+UA023044,06 Dec 20,4,Kings Park 2,St James,No. 2,Maja O'Sullivan,Charlie Storer,Maja O'Sullivan,6-3,6,3,1,0,Completed,true,false,false
+UA023044,06 Dec 20,4,Kings Park 2,St James,No. 3,Nate Rollerson,William Cunningham,Nate Rollerson,6-3,6,3,1,0,Completed,true,false,false
+UA023044,06 Dec 20,4,Kings Park 2,St James,No. 4,Lachie Peters,Lucy Stein,Lucy Stein,1-6,1,6,0,1,Completed,true,true,true
+UA023051,13 Dec 20,5,Parkdale,St James,No. 1,Soren Kose,James Harrington,Soren Kose,6-4,6,4,1,0,Completed,true,false,false
+UA023051,13 Dec 20,5,Parkdale,St James,No. 2,Callum Tzounos,Charlie Storer,Callum Tzounos,6-0,6,0,1,0,Completed,true,false,false
+UA023051,13 Dec 20,5,Parkdale,St James,No. 3,Allegra Lewis,William Cunningham,William Cunningham,2-6,2,6,0,1,Completed,true,false,false
+UA023051,13 Dec 20,5,Parkdale,St James,No. 4,Jazz Watson,Sophie Stewart,Jazz Watson,7-5,7,5,1,0,Completed,true,false,false
+UA023054,13 Dec 20,5,Kings Park 1,Aspendale,No. 1,Or Ilan,Coby Myers,Coby Myers,0-6,0,6,0,1,Completed,true,false,false
+UA023054,13 Dec 20,5,Kings Park 1,Aspendale,No. 2,Rhys Peel,Alexander Rozental,Rhys Peel,6-4,6,4,1,0,Completed,true,false,false
+UA023054,13 Dec 20,5,Kings Park 1,Aspendale,No. 3,Andrew Kondopoulos,Brendan McCaul,Brendan McCaul,1-6,1,6,0,1,Completed,true,false,false
+UA023054,13 Dec 20,5,Kings Park 1,Aspendale,No. 4,Angel Zhang,Tom McCaul,Angel Zhang,6-4,6,4,1,0,Completed,true,true,false
+UA023061,20 Dec 20,6,Aspendale,Parkdale,No. 1,Alexander Rozental,Soren Kose,Soren Kose,2-6,2,6,0,1,Completed,true,false,false
+UA023061,20 Dec 20,6,Aspendale,Parkdale,No. 2,Brendan McCaul,Tom Ovenden,Tom Ovenden,0-6,0,6,0,1,Completed,true,false,false
+UA023061,20 Dec 20,6,Aspendale,Parkdale,No. 3,Hugo Mills,Allegra Lewis,Hugo Mills,6-3,6,3,1,0,Completed,true,true,false
+UA023061,20 Dec 20,6,Aspendale,Parkdale,No. 4,Tom McCaul,Ruby Faranda,Ruby Faranda,4-6,4,6,0,1,Completed,true,false,true
+UA023062,20 Dec 20,6,St James,Kings Park 1,No. 1,James Harrington,Rhys Peel,James Harrington,6-0,6,0,1,0,Completed,true,false,false
+UA023062,20 Dec 20,6,St James,Kings Park 1,No. 2,William Cunningham,Aiden Woolf,William Cunningham,6-1,6,1,1,0,Completed,true,false,false
+UA023062,20 Dec 20,6,St James,Kings Park 1,No. 3,Lucy Stein,Angel Zhang,Lucy Stein,7-6,7,6,1,0,Completed,true,true,true
+UA023062,20 Dec 20,6,St James,Kings Park 1,No. 4,Sophie Stewart,[Unnamed player — TROLS UA023062 away code 4],Sophie Stewart,6-0,6,0,1,0,Completed,false,false,false

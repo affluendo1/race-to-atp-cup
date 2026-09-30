@@ -1,0 +1,217 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA017021,31 Jul 11,2,BLTC,Kooyong Xavier,No. 1,Samantha Simmonds,Evan Searles,Samantha Simmonds,7-5,7,5,1,0,Completed,true,false,false
+UA017021,31 Jul 11,2,BLTC,Kooyong Xavier,No. 2,Jessica Myers,Aaron Scherrer,Jessica Myers,6-0,6,0,1,0,Completed,true,false,false
+UA017021,31 Jul 11,2,BLTC,Kooyong Xavier,No. 3,Taylor Nixon,Gabriel Lennon,Taylor Nixon,6-0,6,0,1,0,Completed,true,false,false
+UA017021,31 Jul 11,2,BLTC,Kooyong Xavier,No. 4,Charlotte Myers,Toneyha Gall,Charlotte Myers,6-0,6,0,1,0,Completed,true,false,false
+UA017022,31 Jul 11,2,Glen Eira Beech,GPHC MLC 1,No. 1,Joshua Sharp,Lucinda Edwards,Joshua Sharp,6-2,6,2,1,0,Completed,true,false,false
+UA017022,31 Jul 11,2,Glen Eira Beech,GPHC MLC 1,No. 2,Benjamen Sharp,Alex Kay,Benjamen Sharp,6-4,6,4,1,0,Completed,true,false,false
+UA017022,31 Jul 11,2,Glen Eira Beech,GPHC MLC 1,No. 3,Danah Dryzun,Jessica Brown,Danah Dryzun,6-1,6,1,1,0,Completed,true,false,false
+UA017022,31 Jul 11,2,Glen Eira Beech,GPHC MLC 1,No. 4,Teagan Slomoi,Ellen Kanellos,Teagan Slomoi,6-4,6,4,1,0,Completed,true,false,false
+UA017023,31 Jul 11,2,GPHC MLC 2,Royal Ave,No. 1,Angus Crawford,Henry Bauer,Henry Bauer,1-6,1,6,0,1,Completed,true,false,false
+UA017023,31 Jul 11,2,GPHC MLC 2,Royal Ave,No. 2,Hamish Hicks,Emilia Guijon,Hamish Hicks,6-1,6,1,1,0,Completed,true,false,false
+UA017023,31 Jul 11,2,GPHC MLC 2,Royal Ave,No. 3,Alistair McGillivray,Nicholas Moore,Nicholas Moore,4-6,4,6,0,1,Completed,true,false,false
+UA017023,31 Jul 11,2,GPHC MLC 2,Royal Ave,No. 4,Jack Double,Maddy James,Jack Double,6-1,6,1,1,0,Completed,true,false,false
+UA017024,31 Jul 11,2,Caulfield Rec,Dendy Park,No. 1,Jonathon Kreiger,Michael Takis,Jonathon Kreiger,6-2,6,2,1,0,Completed,true,false,false
+UA017024,31 Jul 11,2,Caulfield Rec,Dendy Park,No. 2,Stephen Bird,Henry Armstrong,Henry Armstrong,3-6,3,6,0,1,Completed,true,false,false
+UA017024,31 Jul 11,2,Caulfield Rec,Dendy Park,No. 3,Jemma Shamoun,[Unnamed player — TROLS UA017024 away code 3],Jemma Shamoun,6-0,6,0,1,0,Completed,false,false,false
+UA017024,31 Jul 11,2,Caulfield Rec,Dendy Park,No. 4,Nick Monterosso,Isabel Armstrong,Nick Monterosso,6-0,6,0,1,0,Completed,true,false,false
+UA017031,07 Aug 11,3,Kooyong Xavier,Caulfield Rec,No. 1,Evan Searles,Jonathon Kreiger,Jonathon Kreiger,1-6,1,6,0,1,Completed,true,false,false
+UA017031,07 Aug 11,3,Kooyong Xavier,Caulfield Rec,No. 2,Sarah Louey,Stephen Bird,Sarah Louey,6-1,6,1,1,0,Completed,true,false,false
+UA017031,07 Aug 11,3,Kooyong Xavier,Caulfield Rec,No. 3,Gabriel Lennon,Alex Behrens,Gabriel Lennon,6-1,6,1,1,0,Completed,true,false,false
+UA017031,07 Aug 11,3,Kooyong Xavier,Caulfield Rec,No. 4,Aaron Scherrer,[Unnamed player — TROLS UA017031 away code 4],Aaron Scherrer,6-0,6,0,1,0,Completed,false,false,false
+UA017032,07 Aug 11,3,GPHC MLC 1,BLTC,No. 1,Sharni Testa,Natasha Simmonds,Natasha Simmonds,0-6,0,6,0,1,Completed,true,false,false
+UA017032,07 Aug 11,3,GPHC MLC 1,BLTC,No. 2,Lucinda Edwards,Samantha Simmonds,Samantha Simmonds,1-6,1,6,0,1,Completed,true,false,false
+UA017032,07 Aug 11,3,GPHC MLC 1,BLTC,No. 3,Jessica Brown,Jessica Myers,Jessica Myers,0-6,0,6,0,1,Completed,true,false,false
+UA017032,07 Aug 11,3,GPHC MLC 1,BLTC,No. 4,Ellen Kanellos,Taylor Nixon,Taylor Nixon,1-6,1,6,0,1,Completed,true,false,false
+UA017033,07 Aug 11,3,Royal Ave,Glen Eira Beech,No. 1,Harry Warner,Joshua Sharp,Joshua Sharp,3-6,3,6,0,1,Completed,true,false,false
+UA017033,07 Aug 11,3,Royal Ave,Glen Eira Beech,No. 2,Nicholas Moore,Matthew Orwin,Matthew Orwin,4-6,4,6,0,1,Completed,true,false,false
+UA017033,07 Aug 11,3,Royal Ave,Glen Eira Beech,No. 3,Mika Wilhems,Teagan Slomoi,Teagan Slomoi,1-6,1,6,0,1,Completed,true,false,false
+UA017033,07 Aug 11,3,Royal Ave,Glen Eira Beech,No. 4,Maddy James,Aviva Lindell,Aviva Lindell,3-6,3,6,0,1,Completed,true,false,false
+UA017034,07 Aug 11,3,Dendy Park,GPHC MLC 2,No. 1,James Konstas,Miles Ormerod,James Konstas,7-6,7,6,1,0,Completed,true,false,false
+UA017034,07 Aug 11,3,Dendy Park,GPHC MLC 2,No. 2,Michael Takis,Hamish Hicks,Michael Takis,6-4,6,4,1,0,Completed,true,false,false
+UA017034,07 Aug 11,3,Dendy Park,GPHC MLC 2,No. 3,Henry Armstrong,Angus Crawford,Henry Armstrong,6-0,6,0,1,0,Completed,true,false,false
+UA017034,07 Aug 11,3,Dendy Park,GPHC MLC 2,No. 4,Lachlan Carney,Alistair McGillivray,Alistair McGillivray,3-6,3,6,0,1,Completed,true,false,false
+UA017041,14 Aug 11,4,GPHC MLC 2,Kooyong Xavier,No. 1,Miles Ormerod,Evan Searles,Miles Ormerod,6-0,6,0,1,0,Completed,true,false,false
+UA017041,14 Aug 11,4,GPHC MLC 2,Kooyong Xavier,No. 2,Hamish Hicks,Aaron Scherrer,Hamish Hicks,6-3,6,3,1,0,Completed,true,false,false
+UA017041,14 Aug 11,4,GPHC MLC 2,Kooyong Xavier,No. 3,Angus Crawford,Gabriel Lennon,Gabriel Lennon,2-6,2,6,0,1,Completed,true,false,false
+UA017041,14 Aug 11,4,GPHC MLC 2,Kooyong Xavier,No. 4,Jack Double,Toneyha Gall,Toneyha Gall,4-6,4,6,0,1,Completed,true,false,false
+UA017042,14 Aug 11,4,Caulfield Rec,GPHC MLC 1,No. 1,Jonathon Kreiger,Sharni Testa,Jonathon Kreiger,6-1,6,1,1,0,Completed,true,false,false
+UA017042,14 Aug 11,4,Caulfield Rec,GPHC MLC 1,No. 2,Stephen Bird,Lucinda Edwards,Stephen Bird,6-4,6,4,1,0,Completed,true,false,false
+UA017042,14 Aug 11,4,Caulfield Rec,GPHC MLC 1,No. 3,Nick Monterosso,Jessica Brown,Nick Monterosso,6-0,6,0,1,0,Completed,true,false,false
+UA017042,14 Aug 11,4,Caulfield Rec,GPHC MLC 1,No. 4,Evie Kreiger,Ellen Kanellos,Ellen Kanellos,1-6,1,6,0,1,Completed,true,false,false
+UA017043,14 Aug 11,4,BLTC,Royal Ave,No. 1,Samantha Simmonds,Harry Warner,Samantha Simmonds,6-1,6,1,1,0,Completed,true,false,false
+UA017043,14 Aug 11,4,BLTC,Royal Ave,No. 2,Jessica Myers,Henry Bauer,Henry Bauer,5-7,5,7,0,1,Completed,true,false,false
+UA017043,14 Aug 11,4,BLTC,Royal Ave,No. 3,Taylor Nixon,[Unnamed player — TROLS UA017043 away code 3],Taylor Nixon,6-0,6,0,1,0,Completed,false,false,false
+UA017043,14 Aug 11,4,BLTC,Royal Ave,No. 4,Charlotte Myers,Maddy James,Charlotte Myers,6-0,6,0,1,0,Completed,true,false,false
+UA017044,14 Aug 11,4,Glen Eira Beech,Dendy Park,No. 1,Joshua Sharp,James Konstas,James Konstas,4-6,4,6,0,1,Completed,true,false,false
+UA017044,14 Aug 11,4,Glen Eira Beech,Dendy Park,No. 2,Benjamen Sharp,Michael Takis,Benjamen Sharp,6-2,6,2,1,0,Completed,true,false,false
+UA017044,14 Aug 11,4,Glen Eira Beech,Dendy Park,No. 3,Matthew Orwin,Henry Armstrong,Matthew Orwin,6-0,6,0,1,0,Completed,true,false,false
+UA017044,14 Aug 11,4,Glen Eira Beech,Dendy Park,No. 4,Danah Dryzun,Samuel Wilson,Samuel Wilson,4-6,4,6,0,1,Completed,true,false,false
+UA017051,21 Aug 11,5,Royal Ave,Dendy Park,No. 1,Harry Warner,James Konstas,James Konstas,1-6,1,6,0,1,Completed,true,false,false
+UA017051,21 Aug 11,5,Royal Ave,Dendy Park,No. 2,Henry Bauer,Oscar Dunning,Henry Bauer,6-4,6,4,1,0,Completed,true,false,false
+UA017051,21 Aug 11,5,Royal Ave,Dendy Park,No. 3,Nicholas Moore,Henry Armstrong,Henry Armstrong,1-6,1,6,0,1,Completed,true,false,false
+UA017051,21 Aug 11,5,Royal Ave,Dendy Park,No. 4,Mika Wilhems,Lachlan Carney,Mika Wilhems,6-4,6,4,1,0,Completed,true,false,false
+UA017052,21 Aug 11,5,BLTC,Caulfield Rec,No. 1,Natasha Simmonds,Alex Behrens,Natasha Simmonds,6-0,6,0,1,0,Completed,true,false,false
+UA017052,21 Aug 11,5,BLTC,Caulfield Rec,No. 2,Samantha Simmonds,Stephen Bird,Samantha Simmonds,6-0,6,0,1,0,Completed,true,false,false
+UA017052,21 Aug 11,5,BLTC,Caulfield Rec,No. 3,Jessica Myers,Jemma Shamoun,Jemma Shamoun,3-6,3,6,0,1,Completed,true,false,false
+UA017052,21 Aug 11,5,BLTC,Caulfield Rec,No. 4,Taylor Nixon,[Unnamed player — TROLS UA017052 away code 4],Taylor Nixon,6-0,6,0,1,0,Completed,false,false,false
+UA017053,21 Aug 11,5,GPHC MLC 2,Glen Eira Beech,No. 1,Hamish Hicks,Joshua Sharp,Joshua Sharp,4-6,4,6,0,1,Completed,true,false,false
+UA017053,21 Aug 11,5,GPHC MLC 2,Glen Eira Beech,No. 2,Angus Crawford,Benjamen Sharp,Benjamen Sharp,1-6,1,6,0,1,Completed,true,false,false
+UA017053,21 Aug 11,5,GPHC MLC 2,Glen Eira Beech,No. 3,Alistair McGillivray,Teagan Slomoi,Teagan Slomoi,5-7,5,7,0,1,Completed,true,false,false
+UA017053,21 Aug 11,5,GPHC MLC 2,Glen Eira Beech,No. 4,Max Suttle,Aviva Lindell,Max Suttle,6-3,6,3,1,0,Completed,true,false,false
+UA017054,21 Aug 11,5,Kooyong Xavier,GPHC MLC 1,No. 1,Evan Searles,Sharni Testa,Sharni Testa,1-6,1,6,0,1,Completed,true,false,false
+UA017054,21 Aug 11,5,Kooyong Xavier,GPHC MLC 1,No. 2,Aaron Scherrer,Jessica Brown,Aaron Scherrer,6-1,6,1,1,0,Completed,true,false,false
+UA017054,21 Aug 11,5,Kooyong Xavier,GPHC MLC 1,No. 3,Gabriel Lennon,Ellen Kanellos,Gabriel Lennon,6-2,6,2,1,0,Completed,true,false,false
+UA017054,21 Aug 11,5,Kooyong Xavier,GPHC MLC 1,No. 4,Sarah Louey,Lucy Poole,Sarah Louey,6-2,6,2,1,0,Completed,true,false,false
+UA017061,28 Aug 11,6,GPHC MLC 1,Royal Ave,No. 1,Lucinda Edwards,Henry Bauer,Henry Bauer,1-6,1,6,0,1,Completed,true,false,false
+UA017061,28 Aug 11,6,GPHC MLC 1,Royal Ave,No. 2,Jessica Brown,Emilia Guijon,Emilia Guijon,4-6,4,6,0,1,Completed,true,false,false
+UA017061,28 Aug 11,6,GPHC MLC 1,Royal Ave,No. 3,Ellen Kanellos,Nicholas Moore,Nicholas Moore,1-6,1,6,0,1,Completed,true,false,false
+UA017061,28 Aug 11,6,GPHC MLC 1,Royal Ave,No. 4,Lucy Poole,[Unnamed player — TROLS UA017061 away code 4],Lucy Poole,6-0,6,0,1,0,Completed,false,false,false
+UA017062,28 Aug 11,6,Dendy Park,Kooyong Xavier,No. 1,James Konstas,Evan Searles,James Konstas,6-0,6,0,1,0,Completed,true,false,false
+UA017062,28 Aug 11,6,Dendy Park,Kooyong Xavier,No. 2,Michael Takis,Aaron Scherrer,Michael Takis,6-4,6,4,1,0,Completed,true,false,false
+UA017062,28 Aug 11,6,Dendy Park,Kooyong Xavier,No. 3,Oscar Dunning,Gabriel Lennon,Gabriel Lennon,0-6,0,6,0,1,Completed,true,false,false
+UA017062,28 Aug 11,6,Dendy Park,Kooyong Xavier,No. 4,Samuel Wilson,Toneyha Gall,Samuel Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA017063,28 Aug 11,6,Caulfield Rec,GPHC MLC 2,No. 1,Jonathon Kreiger,Miles Ormerod,Jonathon Kreiger,6-1,6,1,1,0,Completed,true,false,false
+UA017063,28 Aug 11,6,Caulfield Rec,GPHC MLC 2,No. 2,Stephen Bird,Angus Crawford,Stephen Bird,6-0,6,0,1,0,Completed,true,false,false
+UA017063,28 Aug 11,6,Caulfield Rec,GPHC MLC 2,No. 3,Nick Monterosso,Alistair McGillivray,Nick Monterosso,6-1,6,1,1,0,Completed,true,false,false
+UA017063,28 Aug 11,6,Caulfield Rec,GPHC MLC 2,No. 4,Ciara Omeara,Jack Double,Ciara Omeara,6-1,6,1,1,0,Completed,true,false,false
+UA017064,28 Aug 11,6,Glen Eira Beech,BLTC,No. 1,Benjamen Sharp,Natasha Simmonds,Natasha Simmonds,2-6,2,6,0,1,Completed,true,false,false
+UA017064,28 Aug 11,6,Glen Eira Beech,BLTC,No. 2,Matthew Orwin,Samantha Simmonds,Samantha Simmonds,0-6,0,6,0,1,Completed,true,false,false
+UA017064,28 Aug 11,6,Glen Eira Beech,BLTC,No. 3,Danah Dryzun,Taylor Nixon,Taylor Nixon,2-6,2,6,0,1,Completed,true,false,false
+UA017064,28 Aug 11,6,Glen Eira Beech,BLTC,No. 4,Aviva Lindell,Charlotte Myers,Charlotte Myers,1-6,1,6,0,1,Completed,true,false,false
+UA017071,04 Sep 11,7,Kooyong Xavier,Royal Ave,No. 1,Evan Searles,Harry Warner,Harry Warner,3-6,3,6,0,1,Completed,true,false,false
+UA017071,04 Sep 11,7,Kooyong Xavier,Royal Ave,No. 2,Aaron Scherrer,Nicholas Moore,Nicholas Moore,4-6,4,6,0,1,Completed,true,false,false
+UA017071,04 Sep 11,7,Kooyong Xavier,Royal Ave,No. 3,Gabriel Lennon,Mika Wilhems,Gabriel Lennon,6-4,6,4,1,0,Completed,true,false,false
+UA017071,04 Sep 11,7,Kooyong Xavier,Royal Ave,No. 4,Toneyha Gall,Maddy James,Toneyha Gall,6-0,6,0,1,0,Completed,true,false,false
+UA017072,04 Sep 11,7,GPHC MLC 1,Dendy Park,No. 1,Sharni Testa,James Konstas,James Konstas,2-6,2,6,0,1,Completed,true,false,false
+UA017072,04 Sep 11,7,GPHC MLC 1,Dendy Park,No. 2,Lucinda Edwards,Oscar Dunning,Lucinda Edwards,6-4,6,4,1,0,Completed,true,false,false
+UA017072,04 Sep 11,7,GPHC MLC 1,Dendy Park,No. 3,Ellen Kanellos,Henry Armstrong,Henry Armstrong,1-6,1,6,0,1,Completed,true,false,false
+UA017072,04 Sep 11,7,GPHC MLC 1,Dendy Park,No. 4,Alex Kay,Samuel Wilson,Samuel Wilson,0-6,0,6,0,1,Completed,true,false,false
+UA017073,04 Sep 11,7,BLTC,GPHC MLC 2,No. 1,Natasha Simmonds,Miles Ormerod,Natasha Simmonds,6-0,6,0,1,0,Completed,true,false,false
+UA017073,04 Sep 11,7,BLTC,GPHC MLC 2,No. 2,Samantha Simmonds,Hamish Hicks,Samantha Simmonds,6-1,6,1,1,0,Completed,true,false,false
+UA017073,04 Sep 11,7,BLTC,GPHC MLC 2,No. 3,Jessica Myers,Angus Crawford,Jessica Myers,6-1,6,1,1,0,Completed,true,false,false
+UA017073,04 Sep 11,7,BLTC,GPHC MLC 2,No. 4,Charlotte Myers,Max Suttle,Charlotte Myers,6-0,6,0,1,0,Completed,true,false,false
+UA017074,04 Sep 11,7,Caulfield Rec,Glen Eira Beech,No. 1,Stephen Bird,Joshua Sharp,Stephen Bird,6-2,6,2,1,0,Completed,true,false,false
+UA017074,04 Sep 11,7,Caulfield Rec,Glen Eira Beech,No. 2,Alex Behrens,Benjamen Sharp,Benjamen Sharp,2-6,2,6,0,1,Completed,true,false,false
+UA017074,04 Sep 11,7,Caulfield Rec,Glen Eira Beech,No. 3,Jemma Shamoun,Matthew Orwin,Matthew Orwin,4-6,4,6,0,1,Completed,true,false,false
+UA017074,04 Sep 11,7,Caulfield Rec,Glen Eira Beech,No. 4,Ciara Omeara,Danah Dryzun,Ciara Omeara,7-6,7,6,1,0,Completed,true,false,false
+UA017081,11 Sep 11,8,Glen Eira Beech,Kooyong Xavier,No. 1,Matthew Orwin,Evan Searles,Evan Searles,2-6,2,6,0,1,Completed,true,false,false
+UA017081,11 Sep 11,8,Glen Eira Beech,Kooyong Xavier,No. 2,Danah Dryzun,Aaron Scherrer,Aaron Scherrer,1-6,1,6,0,1,Completed,true,false,false
+UA017081,11 Sep 11,8,Glen Eira Beech,Kooyong Xavier,No. 3,Teagan Slomoi,Gabriel Lennon,Gabriel Lennon,3-6,3,6,0,1,Completed,true,false,false
+UA017081,11 Sep 11,8,Glen Eira Beech,Kooyong Xavier,No. 4,Aviva Lindell,Toneyha Gall,Toneyha Gall,0-6,0,6,0,1,Completed,true,false,false
+UA017082,11 Sep 11,8,GPHC MLC 2,GPHC MLC 1,No. 1,Hamish Hicks,Sharni Testa,Sharni Testa,4-6,4,6,0,1,Completed,true,false,false
+UA017082,11 Sep 11,8,GPHC MLC 2,GPHC MLC 1,No. 2,Miles Ormerod,Ellen Kanellos,Miles Ormerod,6-4,6,4,1,0,Completed,true,false,false
+UA017082,11 Sep 11,8,GPHC MLC 2,GPHC MLC 1,No. 3,Alistair McGillivray,Alex Kay,Alex Kay,3-6,3,6,0,1,Completed,true,false,false
+UA017082,11 Sep 11,8,GPHC MLC 2,GPHC MLC 1,No. 4,Jack Double,Amelia James,Jack Double,7-5,7,5,1,0,Completed,true,false,false
+UA017084,11 Sep 11,8,BLTC,Dendy Park,No. 1,Natasha Simmonds,James Konstas,Natasha Simmonds,6-3,6,3,1,0,Completed,true,false,false
+UA017084,11 Sep 11,8,BLTC,Dendy Park,No. 2,Samantha Simmonds,Oscar Dunning,Oscar Dunning,2-6,2,6,0,1,Completed,true,false,false
+UA017084,11 Sep 11,8,BLTC,Dendy Park,No. 3,Taylor Nixon,Henry Armstrong,Taylor Nixon,6-1,6,1,1,0,Completed,true,false,false
+UA017084,11 Sep 11,8,BLTC,Dendy Park,No. 4,Charlotte Myers,Samuel Wilson,Samuel Wilson,1-6,1,6,0,1,Completed,true,false,false
+UA017091,18 Sep 11,9,Kooyong Xavier,BLTC,No. 1,Aaron Scherrer,Natasha Simmonds,Natasha Simmonds,1-6,1,6,0,1,Completed,true,false,false
+UA017091,18 Sep 11,9,Kooyong Xavier,BLTC,No. 2,Gabriel Lennon,Jessica Myers,Jessica Myers,4-6,4,6,0,1,Completed,true,false,false
+UA017091,18 Sep 11,9,Kooyong Xavier,BLTC,No. 3,Sarah Louey,Taylor Nixon,Taylor Nixon,6-7,6,7,0,1,Completed,true,false,false
+UA017091,18 Sep 11,9,Kooyong Xavier,BLTC,No. 4,Toneyha Gall,Charlotte Myers,Charlotte Myers,6-7,6,7,0,1,Completed,true,false,false
+UA017092,18 Sep 11,9,GPHC MLC 1,Glen Eira Beech,No. 1,Sharni Testa,Joshua Sharp,Joshua Sharp,3-6,3,6,0,1,Completed,true,false,false
+UA017092,18 Sep 11,9,GPHC MLC 1,Glen Eira Beech,No. 2,Jessica Brown,Matthew Orwin,Jessica Brown,6-4,6,4,1,0,Completed,true,false,false
+UA017092,18 Sep 11,9,GPHC MLC 1,Glen Eira Beech,No. 3,Alex Kay,Teagan Slomoi,Teagan Slomoi,1-6,1,6,0,1,Completed,true,false,false
+UA017092,18 Sep 11,9,GPHC MLC 1,Glen Eira Beech,No. 4,Ellen Kanellos,Aviva Lindell,Ellen Kanellos,6-2,6,2,1,0,Completed,true,false,false
+UA017093,18 Sep 11,9,Royal Ave,GPHC MLC 2,No. 1,Harry Warner,Miles Ormerod,Harry Warner,6-1,6,1,1,0,Completed,true,false,false
+UA017093,18 Sep 11,9,Royal Ave,GPHC MLC 2,No. 2,Henry Bauer,Angus Crawford,Henry Bauer,6-0,6,0,1,0,Completed,true,false,false
+UA017093,18 Sep 11,9,Royal Ave,GPHC MLC 2,No. 3,Nicholas Moore,Alistair McGillivray,Nicholas Moore,6-0,6,0,1,0,Completed,true,false,false
+UA017093,18 Sep 11,9,Royal Ave,GPHC MLC 2,No. 4,Mika Wilhems,Jack Double,Mika Wilhems,6-2,6,2,1,0,Completed,true,false,false
+UA017094,18 Sep 11,9,Dendy Park,Caulfield Rec,No. 1,James Konstas,Stephen Bird,James Konstas,7-5,7,5,1,0,Completed,true,false,false
+UA017094,18 Sep 11,9,Dendy Park,Caulfield Rec,No. 2,Michael Takis,Jemma Shamoun,Michael Takis,6-1,6,1,1,0,Completed,true,false,false
+UA017094,18 Sep 11,9,Dendy Park,Caulfield Rec,No. 3,Henry Armstrong,Ciara Omeara,Ciara Omeara,0-6,0,6,0,1,Completed,true,false,false
+UA017094,18 Sep 11,9,Dendy Park,Caulfield Rec,No. 4,Samuel Wilson,Zara Harrington,Zara Harrington,0-6,0,6,0,1,Completed,true,false,false
+UA017101,16 Oct 11,10,Caulfield Rec,Kooyong Xavier,No. 1,Jonathon Kreiger,Aaron Scherrer,Jonathon Kreiger,6-0,6,0,1,0,Completed,true,false,false
+UA017101,16 Oct 11,10,Caulfield Rec,Kooyong Xavier,No. 2,Stephen Bird,Gabriel Lennon,Stephen Bird,6-0,6,0,1,0,Completed,true,false,false
+UA017101,16 Oct 11,10,Caulfield Rec,Kooyong Xavier,No. 3,Nick Monterosso,Sarah Louey,Sarah Louey,5-7,5,7,0,1,Completed,true,false,false
+UA017101,16 Oct 11,10,Caulfield Rec,Kooyong Xavier,No. 4,Jemma Shamoun,Elizabeth Robson,Elizabeth Robson,3-6,3,6,0,1,Completed,true,false,false
+UA017102,16 Oct 11,10,BLTC,GPHC MLC 1,No. 1,Natasha Simmonds,Lucinda Edwards,Natasha Simmonds,6-1,6,1,1,0,Completed,true,false,false
+UA017102,16 Oct 11,10,BLTC,GPHC MLC 1,No. 2,Samantha Simmonds,Stef Edwards,Samantha Simmonds,6-0,6,0,1,0,Completed,true,false,false
+UA017102,16 Oct 11,10,BLTC,GPHC MLC 1,No. 3,Taylor Nixon,Alex Kay,Taylor Nixon,6-2,6,2,1,0,Completed,true,false,false
+UA017102,16 Oct 11,10,BLTC,GPHC MLC 1,No. 4,Lauren Guiney,Ellen Kanellos,Lauren Guiney,6-0,6,0,1,0,Completed,true,false,false
+UA017103,16 Oct 11,10,Glen Eira Beech,Royal Ave,No. 1,Joshua Sharp,Harry Warner,Joshua Sharp,6-1,6,1,1,0,Completed,true,false,false
+UA017103,16 Oct 11,10,Glen Eira Beech,Royal Ave,No. 2,Benjamen Sharp,Henry Bauer,Henry Bauer,1-6,1,6,0,1,Completed,true,false,false
+UA017103,16 Oct 11,10,Glen Eira Beech,Royal Ave,No. 3,Danah Dryzun,Nicholas Moore,Danah Dryzun,6-1,6,1,1,0,Completed,true,false,false
+UA017103,16 Oct 11,10,Glen Eira Beech,Royal Ave,No. 4,Jason Slomoi,Emilia Guijon,Jason Slomoi,6-0,6,0,1,0,Completed,true,false,false
+UA017104,16 Oct 11,10,GPHC MLC 2,Dendy Park,No. 1,Miles Ormerod,James Konstas,James Konstas,0-6,0,6,0,1,Completed,true,false,false
+UA017104,16 Oct 11,10,GPHC MLC 2,Dendy Park,No. 2,Angus Crawford,Michael Takis,Michael Takis,0-6,0,6,0,1,Completed,true,false,false
+UA017104,16 Oct 11,10,GPHC MLC 2,Dendy Park,No. 3,Alistair McGillivray,Henry Armstrong,Alistair McGillivray,6-0,6,0,1,0,Completed,true,false,false
+UA017104,16 Oct 11,10,GPHC MLC 2,Dendy Park,No. 4,Jack Double,Samuel Wilson,Samuel Wilson,2-6,2,6,0,1,Completed,true,false,false
+UA017111,23 Oct 11,11,Kooyong Xavier,GPHC MLC 2,No. 1,Evan Searles,Hamish Hicks,Evan Searles,6-2,6,2,1,0,Completed,true,false,false
+UA017111,23 Oct 11,11,Kooyong Xavier,GPHC MLC 2,No. 2,Sarah Louey,Angus Crawford,Sarah Louey,6-0,6,0,1,0,Completed,true,false,false
+UA017111,23 Oct 11,11,Kooyong Xavier,GPHC MLC 2,No. 3,Elizabeth Robson,Alistair McGillivray,Elizabeth Robson,6-1,6,1,1,0,Completed,true,false,false
+UA017111,23 Oct 11,11,Kooyong Xavier,GPHC MLC 2,No. 4,Toneyha Gall,Ben Hicks,Toneyha Gall,6-2,6,2,1,0,Completed,true,false,false
+UA017112,23 Oct 11,11,GPHC MLC 1,Caulfield Rec,No. 1,Stef Edwards,Alex Behrens,Stef Edwards,6-0,6,0,1,0,Completed,true,false,false
+UA017112,23 Oct 11,11,GPHC MLC 1,Caulfield Rec,No. 2,Jessica Brown,Jemma Shamoun,Jemma Shamoun,5-7,5,7,0,1,Completed,true,false,false
+UA017112,23 Oct 11,11,GPHC MLC 1,Caulfield Rec,No. 3,Alex Kay,Ciara Omeara,Ciara Omeara,4-6,4,6,0,1,Completed,true,false,false
+UA017112,23 Oct 11,11,GPHC MLC 1,Caulfield Rec,No. 4,Ellen Kanellos,Zara Harrington,Zara Harrington,0-6,0,6,0,1,Completed,true,false,false
+UA017113,23 Oct 11,11,Royal Ave,BLTC,No. 1,Harry Warner,Natasha Simmonds,Natasha Simmonds,1-6,1,6,0,1,Completed,true,false,false
+UA017113,23 Oct 11,11,Royal Ave,BLTC,No. 2,Henry Bauer,Samantha Simmonds,Samantha Simmonds,0-6,0,6,0,1,Completed,true,false,false
+UA017113,23 Oct 11,11,Royal Ave,BLTC,No. 3,Emilia Guijon,Jessica Myers,Jessica Myers,1-6,1,6,0,1,Completed,true,false,false
+UA017113,23 Oct 11,11,Royal Ave,BLTC,No. 4,Nicholas Moore,Charlotte Myers,Charlotte Myers,3-6,3,6,0,1,Completed,true,false,false
+UA017114,23 Oct 11,11,Dendy Park,Glen Eira Beech,No. 1,James Konstas,Joshua Sharp,James Konstas,6-3,6,3,1,0,Completed,true,false,false
+UA017114,23 Oct 11,11,Dendy Park,Glen Eira Beech,No. 2,Michael Takis,Benjamen Sharp,Michael Takis,6-2,6,2,1,0,Completed,true,false,false
+UA017114,23 Oct 11,11,Dendy Park,Glen Eira Beech,No. 3,Oscar Dunning,Jason Slomoi,Jason Slomoi,0-6,0,6,0,1,Completed,true,false,false
+UA017114,23 Oct 11,11,Dendy Park,Glen Eira Beech,No. 4,Samuel Wilson,Aviva Lindell,Samuel Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA017121,06 Nov 11,12,Dendy Park,Royal Ave,No. 1,James Konstas,Nicholas Moore,James Konstas,6-2,6,2,1,0,Completed,true,false,false
+UA017121,06 Nov 11,12,Dendy Park,Royal Ave,No. 2,Michael Takis,Emilia Guijon,Michael Takis,6-0,6,0,1,0,Completed,true,false,false
+UA017121,06 Nov 11,12,Dendy Park,Royal Ave,No. 3,Henry Armstrong,Mika Wilhems,Mika Wilhems,0-6,0,6,0,1,Completed,true,false,false
+UA017121,06 Nov 11,12,Dendy Park,Royal Ave,No. 4,Samuel Wilson,Maddy James,Samuel Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA017122,06 Nov 11,12,Caulfield Rec,BLTC,No. 1,Jonathon Kreiger,Natasha Simmonds,Jonathon Kreiger,7-6,7,6,1,0,Completed,true,false,false
+UA017122,06 Nov 11,12,Caulfield Rec,BLTC,No. 2,Alex Behrens,Samantha Simmonds,Samantha Simmonds,1-6,1,6,0,1,Completed,true,false,false
+UA017122,06 Nov 11,12,Caulfield Rec,BLTC,No. 3,Jemma Shamoun,Jessica Myers,Jessica Myers,3-6,3,6,0,1,Completed,true,false,false
+UA017122,06 Nov 11,12,Caulfield Rec,BLTC,No. 4,Ciara Omeara,Taylor Nixon,Taylor Nixon,1-6,1,6,0,1,Completed,true,false,false
+UA017123,06 Nov 11,12,Glen Eira Beech,GPHC MLC 2,No. 1,Matthew Orwin,Miles Ormerod,Matthew Orwin,6-3,6,3,1,0,Completed,true,false,false
+UA017123,06 Nov 11,12,Glen Eira Beech,GPHC MLC 2,No. 2,Danah Dryzun,Angus Crawford,Danah Dryzun,6-3,6,3,1,0,Completed,true,false,false
+UA017123,06 Nov 11,12,Glen Eira Beech,GPHC MLC 2,No. 3,Teagan Slomoi,Alistair McGillivray,Teagan Slomoi,6-4,6,4,1,0,Completed,true,false,false
+UA017123,06 Nov 11,12,Glen Eira Beech,GPHC MLC 2,No. 4,Aviva Lindell,Jack Double,Jack Double,5-7,5,7,0,1,Completed,true,false,false
+UA017124,06 Nov 11,12,GPHC MLC 1,Kooyong Xavier,No. 1,Sharni Testa,Evan Searles,Evan Searles,6-7,6,7,0,1,Completed,true,false,false
+UA017124,06 Nov 11,12,GPHC MLC 1,Kooyong Xavier,No. 2,Lucinda Edwards,Aaron Scherrer,Lucinda Edwards,6-1,6,1,1,0,Completed,true,false,false
+UA017124,06 Nov 11,12,GPHC MLC 1,Kooyong Xavier,No. 3,Jessica Brown,Sarah Louey,Sarah Louey,1-6,1,6,0,1,Completed,true,false,false
+UA017124,06 Nov 11,12,GPHC MLC 1,Kooyong Xavier,No. 4,Alex Kay,Elizabeth Robson,Alex Kay,6-4,6,4,1,0,Completed,true,false,false
+UA017131,13 Nov 11,13,Royal Ave,GPHC MLC 1,No. 1,Harry Warner,Sharni Testa,Harry Warner,6-2,6,2,1,0,Completed,true,false,false
+UA017131,13 Nov 11,13,Royal Ave,GPHC MLC 1,No. 2,Emilia Guijon,Jessica Brown,Emilia Guijon,6-3,6,3,1,0,Completed,true,false,false
+UA017131,13 Nov 11,13,Royal Ave,GPHC MLC 1,No. 3,Nicholas Moore,Alex Kay,Alex Kay,3-6,3,6,0,1,Completed,true,false,false
+UA017131,13 Nov 11,13,Royal Ave,GPHC MLC 1,No. 4,Maddy James,Ellen Kanellos,Ellen Kanellos,1-6,1,6,0,1,Completed,true,false,false
+UA017132,13 Nov 11,13,Kooyong Xavier,Dendy Park,No. 1,Yamina Perry,James Konstas,James Konstas,2-6,2,6,0,1,Completed,true,false,false
+UA017132,13 Nov 11,13,Kooyong Xavier,Dendy Park,No. 2,Sarah Louey,Oscar Dunning,Oscar Dunning,3-6,3,6,0,1,Completed,true,false,false
+UA017132,13 Nov 11,13,Kooyong Xavier,Dendy Park,No. 3,Elizabeth Robson,Henry Armstrong,Henry Armstrong,1-6,1,6,0,1,Completed,true,false,false
+UA017132,13 Nov 11,13,Kooyong Xavier,Dendy Park,No. 4,Toneyha Gall,Samuel Wilson,Samuel Wilson,2-6,2,6,0,1,Completed,true,false,false
+UA017133,13 Nov 11,13,GPHC MLC 2,Caulfield Rec,No. 1,Miles Ormerod,Jonathon Kreiger,Jonathon Kreiger,0-6,0,6,0,1,Completed,true,false,false
+UA017133,13 Nov 11,13,GPHC MLC 2,Caulfield Rec,No. 2,Hamish Hicks,Stephen Bird,Stephen Bird,2-6,2,6,0,1,Completed,true,false,false
+UA017133,13 Nov 11,13,GPHC MLC 2,Caulfield Rec,No. 3,Angus Crawford,Jemma Shamoun,Jemma Shamoun,1-6,1,6,0,1,Completed,true,false,false
+UA017133,13 Nov 11,13,GPHC MLC 2,Caulfield Rec,No. 4,Jack Double,Ciara Omeara,Ciara Omeara,0-6,0,6,0,1,Completed,true,false,false
+UA017134,13 Nov 11,13,BLTC,Glen Eira Beech,No. 1,Samantha Simmonds,Benjamen Sharp,Samantha Simmonds,6-0,6,0,1,0,Completed,true,false,false
+UA017134,13 Nov 11,13,BLTC,Glen Eira Beech,No. 2,Jessica Myers,Matthew Orwin,Jessica Myers,6-0,6,0,1,0,Completed,true,false,false
+UA017134,13 Nov 11,13,BLTC,Glen Eira Beech,No. 3,Taylor Nixon,Jason Slomoi,Taylor Nixon,6-2,6,2,1,0,Completed,true,false,false
+UA017134,13 Nov 11,13,BLTC,Glen Eira Beech,No. 4,Charlotte Myers,Aviva Lindell,Charlotte Myers,6-0,6,0,1,0,Completed,true,false,false
+UA017141,20 Nov 11,14,Royal Ave,Kooyong Xavier,No. 1,Harry Warner,Evan Searles,Evan Searles,3-6,3,6,0,1,Completed,true,false,false
+UA017141,20 Nov 11,14,Royal Ave,Kooyong Xavier,No. 2,Emilia Guijon,Aaron Scherrer,Aaron Scherrer,1-6,1,6,0,1,Completed,true,false,false
+UA017141,20 Nov 11,14,Royal Ave,Kooyong Xavier,No. 3,Nicholas Moore,Sarah Louey,Sarah Louey,1-6,1,6,0,1,Completed,true,false,false
+UA017141,20 Nov 11,14,Royal Ave,Kooyong Xavier,No. 4,Mika Wilhems,Elizabeth Robson,Elizabeth Robson,4-6,4,6,0,1,Completed,true,false,false
+UA017142,20 Nov 11,14,Dendy Park,GPHC MLC 1,No. 1,Michael Takis,Sharni Testa,Sharni Testa,5-7,5,7,0,1,Completed,true,false,false
+UA017142,20 Nov 11,14,Dendy Park,GPHC MLC 1,No. 2,Mitch Floratos,Jessica Brown,Mitch Floratos,6-1,6,1,1,0,Completed,true,false,false
+UA017142,20 Nov 11,14,Dendy Park,GPHC MLC 1,No. 3,Henry Armstrong,Alex Kay,Alex Kay,0-6,0,6,0,1,Completed,true,false,false
+UA017142,20 Nov 11,14,Dendy Park,GPHC MLC 1,No. 4,Samuel Wilson,Ellen Kanellos,Samuel Wilson,6-2,6,2,1,0,Completed,true,false,false
+UA017143,20 Nov 11,14,GPHC MLC 2,BLTC,No. 1,Miles Ormerod,Natasha Simmonds,Natasha Simmonds,0-6,0,6,0,1,Completed,true,false,false
+UA017143,20 Nov 11,14,GPHC MLC 2,BLTC,No. 2,Angus Crawford,Jessica Myers,Jessica Myers,2-6,2,6,0,1,Completed,true,false,false
+UA017143,20 Nov 11,14,GPHC MLC 2,BLTC,No. 3,Alistair McGillivray,Taylor Nixon,Taylor Nixon,0-6,0,6,0,1,Completed,true,false,false
+UA017143,20 Nov 11,14,GPHC MLC 2,BLTC,No. 4,Jack Double,Charlotte Myers,Charlotte Myers,4-6,4,6,0,1,Completed,true,false,false
+UA017144,20 Nov 11,14,Glen Eira Beech,Caulfield Rec,No. 1,Joshua Sharp,Jonathon Kreiger,Jonathon Kreiger,5-7,5,7,0,1,Completed,true,false,false
+UA017144,20 Nov 11,14,Glen Eira Beech,Caulfield Rec,No. 2,Benjamen Sharp,Stephen Bird,Stephen Bird,0-6,0,6,0,1,Completed,true,false,false
+UA017144,20 Nov 11,14,Glen Eira Beech,Caulfield Rec,No. 3,Teagan Slomoi,Alex Behrens,Alex Behrens,0-6,0,6,0,1,Completed,true,false,false
+UA017144,20 Nov 11,14,Glen Eira Beech,Caulfield Rec,No. 4,Aviva Lindell,Jemma Shamoun,Jemma Shamoun,1-6,1,6,0,1,Completed,true,false,false
+UA017301,,16,BLTC,Kooyong Xavier,No. 1,Natasha Simmonds,Evan Searles,Natasha Simmonds,6-4,6,4,1,0,Completed,true,false,false
+UA017301,,16,BLTC,Kooyong Xavier,No. 2,Samantha Simmonds,Aaron Scherrer,Samantha Simmonds,6-1,6,1,1,0,Completed,true,false,false
+UA017301,,16,BLTC,Kooyong Xavier,No. 3,Taylor Nixon,Gabriel Lennon,Gabriel Lennon,5-7,5,7,0,1,Completed,true,false,false
+UA017301,,16,BLTC,Kooyong Xavier,No. 4,Charlotte Myers,Sarah Louey,Sarah Louey,3-6,3,6,0,1,Completed,true,false,false
+UA017302,,16,Dendy Park,Caulfield Rec,No. 1,James Konstas,Jonathon Kreiger,Jonathon Kreiger,3-6,3,6,0,1,Completed,true,false,false
+UA017302,,16,Dendy Park,Caulfield Rec,No. 2,Michael Takis,Stephen Bird,Stephen Bird,2-6,2,6,0,1,Completed,true,false,false
+UA017302,,16,Dendy Park,Caulfield Rec,No. 3,Oscar Dunning,Jemma Shamoun,Oscar Dunning,6-4,6,4,1,0,Completed,true,false,false
+UA017302,,16,Dendy Park,Caulfield Rec,No. 4,Henry Armstrong,Ciara Omeara,Henry Armstrong,6-1,6,1,1,0,Completed,true,false,false
+UA017321,,17,BLTC,Caulfield Rec,No. 1,Natasha Simmonds,Jonathon Kreiger,Jonathon Kreiger,3-6,3,6,0,1,Completed,true,true,false
+UA017321,,17,BLTC,Caulfield Rec,No. 2,Samantha Simmonds,Stephen Bird,Samantha Simmonds,6-4,6,4,1,0,Completed,true,true,false
+UA017321,,17,BLTC,Caulfield Rec,No. 3,Jessica Myers,Jemma Shamoun,Jessica Myers,6-0,6,0,1,0,Completed,true,false,false
+UA017321,,17,BLTC,Caulfield Rec,No. 4,Taylor Nixon,Ciara Omeara,Taylor Nixon,6-1,6,1,1,0,Completed,true,false,true

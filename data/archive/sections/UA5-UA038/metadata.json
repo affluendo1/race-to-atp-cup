@@ -1,0 +1,94 @@
+{
+  "asset_id": "UA5-UA038",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2009",
+  "season_id": "UA5",
+  "season_label": "Spring 2009",
+  "source_section_code": "UA038",
+  "section_label": "2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Hurlingham Park",
+      "wins": 0,
+      "points": 85,
+      "percentage": 131.77,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "GPHC",
+      "wins": 0,
+      "points": 75.5,
+      "percentage": 103.86,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Glen Eira Pool",
+      "wins": 0,
+      "points": 75,
+      "percentage": 125.51,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Mordialloc",
+      "wins": 0,
+      "points": 74,
+      "percentage": 88.82,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 72,
+      "percentage": 103.19,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park 1",
+      "wins": 0,
+      "points": 71,
+      "percentage": 97.25,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong",
+      "wins": 0,
+      "points": 57.5,
+      "percentage": 76.44,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park 2",
+      "wins": 0,
+      "points": 50,
+      "percentage": 88.48,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA5-UA038",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 3,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "No scorecard rubbers for UA038052",
+    "Fixture game totals do not match rubbers for UA038052"
+  ]
+}

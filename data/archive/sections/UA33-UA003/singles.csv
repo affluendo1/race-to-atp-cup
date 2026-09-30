@@ -1,0 +1,232 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA003011,16 Jul 23,1,BLTC Blue,Royal South Yarra,No. 1,Jensen Srisuwan,Eddie Millear,Jensen Srisuwan,6-0,6,0,1,0,Completed,true,false,false
+UA003011,16 Jul 23,1,BLTC Blue,Royal South Yarra,No. 2,Petar Kocic,Adrian Borsaru,Adrian Borsaru,4-6,4,6,0,1,Completed,true,false,false
+UA003011,16 Jul 23,1,BLTC Blue,Royal South Yarra,No. 3,Edward Ruckel,[Unnamed player — TROLS UA003011 away code 3],Edward Ruckel,6-0,6,0,1,0,Completed,false,false,false
+UA003011,16 Jul 23,1,BLTC Blue,Royal South Yarra,No. 4,Daniel Murphy,Axy Park,Axy Park,4-6,4,6,0,1,Completed,true,false,false
+UA003012,16 Jul 23,1,Tennis World,Royal Ave,No. 1,Claudia Popovic,Kai Saxon,Claudia Popovic,6-4,6,4,1,0,Completed,true,false,false
+UA003012,16 Jul 23,1,Tennis World,Royal Ave,No. 2,Matthew Tong,Luke Chapman,Matthew Tong,6-1,6,1,1,0,Completed,true,false,false
+UA003012,16 Jul 23,1,Tennis World,Royal Ave,No. 3,Aliya Appleby,Harry Tsorbaris,Aliya Appleby,6-1,6,1,1,0,Completed,true,false,false
+UA003012,16 Jul 23,1,Tennis World,Royal Ave,No. 4,Mia Foxe,Tom Anthonisz,Mia Foxe,6-2,6,2,1,0,Completed,true,false,false
+UA003013,16 Jul 23,1,Mentone,Hurlingham Park Blue,No. 1,Sai Karthik Neerukonda,Dane Gerbic,Sai Karthik Neerukonda,6-0,6,0,1,0,Completed,true,false,false
+UA003013,16 Jul 23,1,Mentone,Hurlingham Park Blue,No. 2,Jackson Ralph,Jake Vati,Jackson Ralph,6-1,6,1,1,0,Completed,true,false,false
+UA003013,16 Jul 23,1,Mentone,Hurlingham Park Blue,No. 3,Lukas Nowak,Nicholas Campbell,Nicholas Campbell,1-6,1,6,0,1,Completed,true,false,false
+UA003013,16 Jul 23,1,Mentone,Hurlingham Park Blue,No. 4,Lee Moore,Flynn Megahan,Flynn Megahan,1-6,1,6,0,1,Completed,true,false,false
+UA003014,16 Jul 23,1,BLTC White,Murrumbeena,No. 1,Andrew Livermore,Dhruv Tomar,Dhruv Tomar,1-6,1,6,0,1,Completed,true,false,false
+UA003014,16 Jul 23,1,BLTC White,Murrumbeena,No. 2,Lucas Sleep,Thomas Moore,Thomas Moore,3-6,3,6,0,1,Completed,true,false,false
+UA003014,16 Jul 23,1,BLTC White,Murrumbeena,No. 3,Kevin Qian,Aodhan Monteiro,Aodhan Monteiro,1-6,1,6,0,1,Completed,true,false,false
+UA003014,16 Jul 23,1,BLTC White,Murrumbeena,No. 4,Kabeer Gursahani,Oliver Huggins,Oliver Huggins,3-6,3,6,0,1,Completed,true,false,false
+UA003021,23 Jul 23,2,Murrumbeena,BLTC Blue,No. 1,Dhruv Tomar,Jensen Srisuwan,Dhruv Tomar,6-1,6,1,1,0,Completed,true,false,false
+UA003021,23 Jul 23,2,Murrumbeena,BLTC Blue,No. 2,Aodhan Monteiro,Petar Kocic,Petar Kocic,1-2,1,2,0,1,Completed,false,false,false
+UA003021,23 Jul 23,2,Murrumbeena,BLTC Blue,No. 3,Oliver Huggins,Edward Ruckel,Edward Ruckel,2-4,2,4,0,1,Completed,false,false,false
+UA003021,23 Jul 23,2,Murrumbeena,BLTC Blue,No. 4,Ruby Huggins,Harrison Yang,Ruby Huggins,6-0,6,0,1,0,Completed,true,true,false
+UA003022,23 Jul 23,2,Royal South Yarra,Tennis World,No. 1,Eddie Millear,Matthew Tong,Matthew Tong,3-6,3,6,0,1,Completed,true,false,false
+UA003022,23 Jul 23,2,Royal South Yarra,Tennis World,No. 2,Tommaso Palombaro,Aliya Appleby,,3-3,3,3,0,0,Completed,false,false,false
+UA003022,23 Jul 23,2,Royal South Yarra,Tennis World,No. 3,Axy Park,Mia Foxe,Mia Foxe,5-7,5,7,0,1,Completed,true,false,false
+UA003023,23 Jul 23,2,Royal Ave,Mentone,No. 1,Nicolette Hilaris,Sai Karthik Neerukonda,Sai Karthik Neerukonda,4-6,4,6,0,1,Completed,true,false,false
+UA003023,23 Jul 23,2,Royal Ave,Mentone,No. 2,Luke Chapman,Jackson Ralph,Jackson Ralph,0-6,0,6,0,1,Completed,true,false,false
+UA003023,23 Jul 23,2,Royal Ave,Mentone,No. 3,Harry Tsorbaris,Tobias Malone-Marty,Harry Tsorbaris,6-2,6,2,1,0,Completed,true,false,false
+UA003023,23 Jul 23,2,Royal Ave,Mentone,No. 4,Tom Anthonisz,Lee Moore,Tom Anthonisz,6-1,6,1,1,0,Completed,true,false,false
+UA003024,23 Jul 23,2,Hurlingham Park Blue,BLTC White,No. 1,Dane Gerbic,Matvey Roche,Matvey Roche,2-6,2,6,0,1,Completed,true,false,false
+UA003024,23 Jul 23,2,Hurlingham Park Blue,BLTC White,No. 2,Eliot Rey-Benguigui,Andrew Livermore,Eliot Rey-Benguigui,6-1,6,1,1,0,Completed,true,false,false
+UA003024,23 Jul 23,2,Hurlingham Park Blue,BLTC White,No. 3,Ashton Vati,Lucas Sleep,Lucas Sleep,0-6,0,6,0,1,Completed,true,false,false
+UA003024,23 Jul 23,2,Hurlingham Park Blue,BLTC White,No. 4,Joshua Nowell,Kabeer Gursahani,Kabeer Gursahani,1-6,1,6,0,1,Completed,true,false,false
+UA003031,30 Jul 23,3,BLTC Blue,Hurlingham Park Blue,No. 1,Jensen Srisuwan,Dane Gerbic,Jensen Srisuwan,6-2,6,2,1,0,Completed,true,false,false
+UA003031,30 Jul 23,3,BLTC Blue,Hurlingham Park Blue,No. 2,Harrison Yang,Jake Vati,Harrison Yang,7-5,7,5,1,0,Completed,true,false,false
+UA003031,30 Jul 23,3,BLTC Blue,Hurlingham Park Blue,No. 3,Petar Kocic,Ashton Vati,Ashton Vati,0-6,0,6,0,1,Completed,true,false,false
+UA003031,30 Jul 23,3,BLTC Blue,Hurlingham Park Blue,No. 4,Edward Ruckel,Joshua Nowell,Edward Ruckel,6-3,6,3,1,0,Completed,true,false,false
+UA003032,30 Jul 23,3,Tennis World,Murrumbeena,No. 1,Matthew Tong,Thomas Moore,Matthew Tong,6-3,6,3,1,0,Completed,true,false,false
+UA003032,30 Jul 23,3,Tennis World,Murrumbeena,No. 2,Ishaan Arya,Aodhan Monteiro,Aodhan Monteiro,0-6,0,6,0,1,Completed,true,false,false
+UA003032,30 Jul 23,3,Tennis World,Murrumbeena,No. 3,Aliya Appleby,Ruby Huggins,Ruby Huggins,3-6,3,6,0,1,Completed,true,false,true
+UA003032,30 Jul 23,3,Tennis World,Murrumbeena,No. 4,Rafael Staa,Kewen Zheng,Rafael Staa,6-3,6,3,1,0,Completed,true,true,false
+UA003033,30 Jul 23,3,Mentone,Royal South Yarra,No. 1,Jackson Ralph,Eddie Millear,Jackson Ralph,6-1,6,1,1,0,Completed,true,false,false
+UA003033,30 Jul 23,3,Mentone,Royal South Yarra,No. 2,Tobias Malone-Marty,Adrian Borsaru,Tobias Malone-Marty,7-6,7,6,1,0,Completed,true,false,false
+UA003033,30 Jul 23,3,Mentone,Royal South Yarra,No. 3,Lukas Nowak,Tommaso Palombaro,Tommaso Palombaro,1-6,1,6,0,1,Completed,true,false,false
+UA003033,30 Jul 23,3,Mentone,Royal South Yarra,No. 4,Lee Moore,Axy Park,Lee Moore,6-0,6,0,1,0,Completed,true,false,false
+UA003034,30 Jul 23,3,BLTC White,Royal Ave,No. 1,Matvey Roche,Kai Saxon,Matvey Roche,6-3,6,3,1,0,Completed,true,false,false
+UA003034,30 Jul 23,3,BLTC White,Royal Ave,No. 2,Andrew Livermore,Nicolette Hilaris,Andrew Livermore,6-4,6,4,1,0,Completed,true,false,false
+UA003034,30 Jul 23,3,BLTC White,Royal Ave,No. 3,Kevin Qian,Luke Chapman,Luke Chapman,3-6,3,6,0,1,Completed,true,false,false
+UA003034,30 Jul 23,3,BLTC White,Royal Ave,No. 4,Kabeer Gursahani,Tom Anthonisz,Kabeer Gursahani,6-3,6,3,1,0,Completed,true,false,false
+UA003041,06 Aug 23,4,Royal Ave,BLTC Blue,No. 1,Luke Young,Jensen Srisuwan,Jensen Srisuwan,1-6,1,6,0,1,Completed,true,true,false
+UA003041,06 Aug 23,4,Royal Ave,BLTC Blue,No. 2,Luke Chapman,Lewis Smith,Lewis Smith,2-6,2,6,0,1,Completed,true,false,false
+UA003041,06 Aug 23,4,Royal Ave,BLTC Blue,No. 3,Harry Tsorbaris,Petar Kocic,Harry Tsorbaris,6-2,6,2,1,0,Completed,true,false,false
+UA003041,06 Aug 23,4,Royal Ave,BLTC Blue,No. 4,Tom Anthonisz,Edward Ruckel,Tom Anthonisz,7-5,7,5,1,0,Completed,true,false,false
+UA003042,06 Aug 23,4,Hurlingham Park Blue,Tennis World,No. 1,Jake Vati,Ishaan Arya,Ishaan Arya,1-6,1,6,0,1,Completed,true,false,false
+UA003042,06 Aug 23,4,Hurlingham Park Blue,Tennis World,No. 2,Eliot Rey-Benguigui,Aliya Appleby,Aliya Appleby,2-6,2,6,0,1,Completed,true,false,false
+UA003042,06 Aug 23,4,Hurlingham Park Blue,Tennis World,No. 3,Nicholas Campbell,Mia Foxe,Nicholas Campbell,6-2,6,2,1,0,Completed,true,false,false
+UA003042,06 Aug 23,4,Hurlingham Park Blue,Tennis World,No. 4,Ashton Vati,Joel Dalidowicz,Ashton Vati,6-1,6,1,1,0,Completed,true,false,true
+UA003043,06 Aug 23,4,Murrumbeena,Mentone,No. 1,Thomas Moore,Sai Karthik Neerukonda,Sai Karthik Neerukonda,6-7,6,7,0,1,Completed,true,false,false
+UA003043,06 Aug 23,4,Murrumbeena,Mentone,No. 2,Aodhan Monteiro,Tobias Malone-Marty,Tobias Malone-Marty,4-6,4,6,0,1,Completed,true,false,false
+UA003043,06 Aug 23,4,Murrumbeena,Mentone,No. 3,Oliver Huggins,Lukas Nowak,Oliver Huggins,6-2,6,2,1,0,Completed,true,false,false
+UA003043,06 Aug 23,4,Murrumbeena,Mentone,No. 4,Kewen Zheng,Lee Moore,Kewen Zheng,6-0,6,0,1,0,Completed,true,false,false
+UA003044,06 Aug 23,4,Royal South Yarra,BLTC White,No. 1,William McCrae,Matvey Roche,Matvey Roche,3-6,3,6,0,1,Completed,true,false,false
+UA003044,06 Aug 23,4,Royal South Yarra,BLTC White,No. 2,Eddie Millear,Andrew Livermore,Eddie Millear,6-1,6,1,1,0,Completed,true,false,false
+UA003044,06 Aug 23,4,Royal South Yarra,BLTC White,No. 3,Adrian Borsaru,Lucas Sleep,Lucas Sleep,4-6,4,6,0,1,Completed,true,false,false
+UA003044,06 Aug 23,4,Royal South Yarra,BLTC White,No. 4,Tommaso Palombaro,Kabeer Gursahani,Tommaso Palombaro,6-1,6,1,1,0,Completed,true,false,false
+UA003051,13 Aug 23,5,Mentone,BLTC White,No. 1,Sai Karthik Neerukonda,Matvey Roche,Matvey Roche,1-6,1,6,0,1,Completed,true,false,false
+UA003051,13 Aug 23,5,Mentone,BLTC White,No. 2,Jackson Ralph,Lucas Sleep,Jackson Ralph,6-0,6,0,1,0,Completed,true,false,false
+UA003051,13 Aug 23,5,Mentone,BLTC White,No. 3,Tobias Malone-Marty,Andrew Livermore,Tobias Malone-Marty,6-1,6,1,1,0,Completed,true,false,false
+UA003051,13 Aug 23,5,Mentone,BLTC White,No. 4,Lukas Nowak,Kabeer Gursahani,Kabeer Gursahani,2-6,2,6,0,1,Completed,true,false,false
+UA003052,13 Aug 23,5,Murrumbeena,Hurlingham Park Blue,No. 1,Thomas Moore,Dane Gerbic,Thomas Moore,6-4,6,4,1,0,Completed,true,false,false
+UA003052,13 Aug 23,5,Murrumbeena,Hurlingham Park Blue,No. 2,Aodhan Monteiro,Flynn Megahan,Aodhan Monteiro,6-3,6,3,1,0,Completed,true,false,false
+UA003052,13 Aug 23,5,Murrumbeena,Hurlingham Park Blue,No. 3,Oliver Huggins,Joshua Nowell,Joshua Nowell,2-6,2,6,0,1,Completed,true,false,false
+UA003052,13 Aug 23,5,Murrumbeena,Hurlingham Park Blue,No. 4,Kewen Zheng,Archie Braithwaite,Kewen Zheng,6-1,6,1,1,0,Completed,true,false,true
+UA003053,13 Aug 23,5,Royal Ave,Royal South Yarra,No. 1,Kai Saxon,William McCrae,William McCrae,6-7,6,7,0,1,Completed,true,false,false
+UA003053,13 Aug 23,5,Royal Ave,Royal South Yarra,No. 2,Nicolette Hilaris,Eddie Millear,Nicolette Hilaris,6-4,6,4,1,0,Completed,true,false,false
+UA003053,13 Aug 23,5,Royal Ave,Royal South Yarra,No. 3,Luke Chapman,Adrian Borsaru,Adrian Borsaru,3-6,3,6,0,1,Completed,true,false,false
+UA003053,13 Aug 23,5,Royal Ave,Royal South Yarra,No. 4,Harry Tsorbaris,Tommaso Palombaro,Tommaso Palombaro,4-6,4,6,0,1,Completed,true,false,false
+UA003054,13 Aug 23,5,BLTC Blue,Tennis World,No. 1,Jensen Srisuwan,Claudia Popovic,Claudia Popovic,3-6,3,6,0,1,Completed,true,false,false
+UA003054,13 Aug 23,5,BLTC Blue,Tennis World,No. 2,Lewis Smith,Matthew Tong,Matthew Tong,3-6,3,6,0,1,Completed,true,false,false
+UA003054,13 Aug 23,5,BLTC Blue,Tennis World,No. 3,Petar Kocic,Aliya Appleby,Petar Kocic,6-2,6,2,1,0,Completed,true,false,false
+UA003054,13 Aug 23,5,BLTC Blue,Tennis World,No. 4,Daniel Murphy,Mia Foxe,Mia Foxe,3-6,3,6,0,1,Completed,true,false,false
+UA003061,20 Aug 23,6,Tennis World,Mentone,No. 1,Kairo Chankok,Sai Karthik Neerukonda,Sai Karthik Neerukonda,1-6,1,6,0,1,Completed,true,false,false
+UA003061,20 Aug 23,6,Tennis World,Mentone,No. 2,Ishaan Arya,Jackson Ralph,Jackson Ralph,3-6,3,6,0,1,Completed,true,false,false
+UA003061,20 Aug 23,6,Tennis World,Mentone,No. 3,Mia Foxe,Tobias Malone-Marty,Tobias Malone-Marty,2-6,2,6,0,1,Completed,true,false,false
+UA003061,20 Aug 23,6,Tennis World,Mentone,No. 4,Joel Dalidowicz,Lee Moore,Joel Dalidowicz,6-4,6,4,1,0,Completed,true,true,false
+UA003062,20 Aug 23,6,BLTC White,BLTC Blue,No. 1,Matvey Roche,Jensen Srisuwan,Matvey Roche,6-3,6,3,1,0,Completed,true,false,false
+UA003062,20 Aug 23,6,BLTC White,BLTC Blue,No. 2,Lucas Sleep,Lewis Smith,Lucas Sleep,6-4,6,4,1,0,Completed,true,false,false
+UA003062,20 Aug 23,6,BLTC White,BLTC Blue,No. 3,Andrew Livermore,Petar Kocic,Petar Kocic,1-6,1,6,0,1,Completed,true,false,false
+UA003062,20 Aug 23,6,BLTC White,BLTC Blue,No. 4,Lavinir Molar,Daniel Murphy,Lavinir Molar,6-4,6,4,1,0,Completed,true,true,false
+UA003063,20 Aug 23,6,Hurlingham Park Blue,Royal Ave,No. 1,Jake Vati,Nicolette Hilaris,Nicolette Hilaris,0-6,0,6,0,1,Completed,true,false,false
+UA003063,20 Aug 23,6,Hurlingham Park Blue,Royal Ave,No. 2,Eliot Rey-Benguigui,Luke Chapman,Eliot Rey-Benguigui,7-5,7,5,1,0,Completed,true,false,false
+UA003063,20 Aug 23,6,Hurlingham Park Blue,Royal Ave,No. 3,Nicholas Campbell,Harry Tsorbaris,Nicholas Campbell,6-2,6,2,1,0,Completed,true,false,false
+UA003063,20 Aug 23,6,Hurlingham Park Blue,Royal Ave,No. 4,Ashton Vati,Tom Anthonisz,Tom Anthonisz,4-6,4,6,0,1,Completed,true,false,false
+UA003064,20 Aug 23,6,Royal South Yarra,Murrumbeena,No. 1,William McCrae,Thomas Moore,Thomas Moore,0-6,0,6,0,1,Completed,true,false,false
+UA003064,20 Aug 23,6,Royal South Yarra,Murrumbeena,No. 2,Eddie Millear,Aodhan Monteiro,Aodhan Monteiro,4-6,4,6,0,1,Completed,true,false,false
+UA003064,20 Aug 23,6,Royal South Yarra,Murrumbeena,No. 3,Axy Park,Kewen Zheng,Kewen Zheng,4-6,4,6,0,1,Completed,true,false,false
+UA003064,20 Aug 23,6,Royal South Yarra,Murrumbeena,No. 4,Tom Park,Oliver Huggins,Oliver Huggins,4-6,4,6,0,1,Completed,true,true,false
+UA003071,27 Aug 23,7,BLTC Blue,Mentone,No. 1,Lewis Smith,Sai Karthik Neerukonda,Sai Karthik Neerukonda,0-6,0,6,0,1,Completed,true,false,false
+UA003071,27 Aug 23,7,BLTC Blue,Mentone,No. 2,Petar Kocic,Jackson Ralph,Petar Kocic,7-6,7,6,1,0,Completed,true,false,false
+UA003071,27 Aug 23,7,BLTC Blue,Mentone,No. 3,Livinia Kolar,Tobias Malone-Marty,Livinia Kolar,7-5,7,5,1,0,Completed,true,true,false
+UA003071,27 Aug 23,7,BLTC Blue,Mentone,No. 4,Daniel Murphy,Lee Moore,Daniel Murphy,6-1,6,1,1,0,Completed,true,false,false
+UA003072,27 Aug 23,7,Tennis World,BLTC White,No. 1,Ishaan Arya,Matvey Roche,Matvey Roche,1-6,1,6,0,1,Completed,true,false,false
+UA003072,27 Aug 23,7,Tennis World,BLTC White,No. 2,Aliya Appleby,Lucas Sleep,Lucas Sleep,2-6,2,6,0,1,Completed,true,false,false
+UA003072,27 Aug 23,7,Tennis World,BLTC White,No. 3,Joel Dalidowicz,Andrew Livermore,Andrew Livermore,2-6,2,6,0,1,Completed,true,true,false
+UA003072,27 Aug 23,7,Tennis World,BLTC White,No. 4,Aditya Garg,Kevin Qian,Aditya Garg,6-2,6,2,1,0,Completed,true,true,false
+UA003073,27 Aug 23,7,Murrumbeena,Royal Ave,No. 1,Thomas Moore,[Unnamed player — TROLS UA003073 away code 1],Thomas Moore,6-0,6,0,1,0,Completed,false,false,false
+UA003073,27 Aug 23,7,Murrumbeena,Royal Ave,No. 2,Aodhan Monteiro,Nicolette Hilaris,Aodhan Monteiro,6-1,6,1,1,0,Completed,true,false,false
+UA003073,27 Aug 23,7,Murrumbeena,Royal Ave,No. 3,Kewen Zheng,Luke Chapman,Luke Chapman,3-6,3,6,0,1,Completed,true,false,false
+UA003073,27 Aug 23,7,Murrumbeena,Royal Ave,No. 4,Oliver Huggins,Harry Tsorbaris,Harry Tsorbaris,0-6,0,6,0,1,Completed,true,false,false
+UA003074,27 Aug 23,7,Hurlingham Park Blue,Royal South Yarra,No. 1,Dane Gerbic,William McCrae,William McCrae,1-6,1,6,0,1,Completed,true,false,false
+UA003074,27 Aug 23,7,Hurlingham Park Blue,Royal South Yarra,No. 2,Eliot Rey-Benguigui,Eddie Millear,Eddie Millear,3-6,3,6,0,1,Completed,true,false,false
+UA003074,27 Aug 23,7,Hurlingham Park Blue,Royal South Yarra,No. 3,Nicholas Campbell,Axy Park,Nicholas Campbell,6-4,6,4,1,0,Completed,true,false,false
+UA003074,27 Aug 23,7,Hurlingham Park Blue,Royal South Yarra,No. 4,Joshua Nowell,Boston Moran,Joshua Nowell,6-4,6,4,1,0,Completed,true,false,true
+UA003081,03 Sep 23,8,Royal South Yarra,BLTC Blue,No. 1,Miles Forster,[Unnamed player — TROLS UA003081 away code 1],Miles Forster,6-0,6,0,1,0,Completed,false,false,false
+UA003081,03 Sep 23,8,Royal South Yarra,BLTC Blue,No. 2,William McCrae,Lewis Smith,Lewis Smith,1-6,1,6,0,1,Completed,true,false,false
+UA003081,03 Sep 23,8,Royal South Yarra,BLTC Blue,No. 3,Eddie Millear,Petar Kocic,Petar Kocic,4-6,4,6,0,1,Completed,true,false,false
+UA003081,03 Sep 23,8,Royal South Yarra,BLTC Blue,No. 4,Axy Park,Daniel Murphy,Axy Park,6-4,6,4,1,0,Completed,true,false,false
+UA003082,03 Sep 23,8,Royal Ave,Tennis World,No. 1,Nicolette Hilaris,Ishaan Arya,Ishaan Arya,4-6,4,6,0,1,Completed,true,false,false
+UA003082,03 Sep 23,8,Royal Ave,Tennis World,No. 2,Anthony Power,Aliya Appleby,Anthony Power,6-2,6,2,1,0,Completed,true,true,false
+UA003082,03 Sep 23,8,Royal Ave,Tennis World,No. 3,Luke Chapman,Mia Foxe,Mia Foxe,6-7,6,7,0,1,Completed,true,false,false
+UA003082,03 Sep 23,8,Royal Ave,Tennis World,No. 4,Harry Tsorbaris,Joel Dalidowicz,Harry Tsorbaris,6-4,6,4,1,0,Completed,true,false,true
+UA003083,03 Sep 23,8,Hurlingham Park Blue,Mentone,No. 1,Dane Gerbic,Sai Karthik Neerukonda,Sai Karthik Neerukonda,2-6,2,6,0,1,Completed,true,false,false
+UA003083,03 Sep 23,8,Hurlingham Park Blue,Mentone,No. 2,Flynn Megahan,Jackson Ralph,Jackson Ralph,5-7,5,7,0,1,Completed,true,false,false
+UA003083,03 Sep 23,8,Hurlingham Park Blue,Mentone,No. 3,Ashton Vati,Tobias Malone-Marty,Tobias Malone-Marty,2-6,2,6,0,1,Completed,true,false,false
+UA003083,03 Sep 23,8,Hurlingham Park Blue,Mentone,No. 4,Joshua Nowell,Lee Moore,Joshua Nowell,6-2,6,2,1,0,Completed,true,false,false
+UA003084,03 Sep 23,8,Murrumbeena,BLTC White,No. 1,Thomas Moore,Matvey Roche,Thomas Moore,6-4,6,4,1,0,Completed,true,false,false
+UA003084,03 Sep 23,8,Murrumbeena,BLTC White,No. 2,Aodhan Monteiro,Lucas Sleep,Lucas Sleep,2-6,2,6,0,1,Completed,true,false,false
+UA003084,03 Sep 23,8,Murrumbeena,BLTC White,No. 3,Oliver Huggins,Andrew Livermore,Andrew Livermore,6-7,6,7,0,1,Completed,true,false,false
+UA003084,03 Sep 23,8,Murrumbeena,BLTC White,No. 4,Jacob Hong-Dunnett,Lavinir Molar,Lavinir Molar,4-6,4,6,0,1,Completed,true,true,true
+UA003091,10 Sep 23,9,BLTC Blue,Murrumbeena,No. 1,Jensen Srisuwan,Thomas Moore,Jensen Srisuwan,6-2,6,2,1,0,Completed,true,false,false
+UA003091,10 Sep 23,9,BLTC Blue,Murrumbeena,No. 2,Lewis Smith,Aodhan Monteiro,Aodhan Monteiro,3-6,3,6,0,1,Completed,true,false,false
+UA003091,10 Sep 23,9,BLTC Blue,Murrumbeena,No. 3,Petar Kocic,Kewen Zheng,Petar Kocic,6-4,6,4,1,0,Completed,true,false,false
+UA003091,10 Sep 23,9,BLTC Blue,Murrumbeena,No. 4,Daniel Murphy,Oliver Huggins,Oliver Huggins,2-6,2,6,0,1,Completed,true,false,false
+UA003092,10 Sep 23,9,Tennis World,Royal South Yarra,No. 1,Ishaan Arya,Miles Forster,Ishaan Arya,6-1,6,1,1,0,Completed,true,false,false
+UA003092,10 Sep 23,9,Tennis World,Royal South Yarra,No. 2,Aliya Appleby,William McCrae,Aliya Appleby,6-1,6,1,1,0,Completed,true,false,false
+UA003092,10 Sep 23,9,Tennis World,Royal South Yarra,No. 3,Joel Dalidowicz,Eddie Millear,Joel Dalidowicz,6-4,6,4,1,0,Completed,true,true,false
+UA003092,10 Sep 23,9,Tennis World,Royal South Yarra,No. 4,Aditya Garg,Axy Park,Aditya Garg,6-0,6,0,1,0,Completed,true,true,false
+UA003093,10 Sep 23,9,Mentone,Royal Ave,No. 1,Sai Karthik Neerukonda,Kai Saxon,Sai Karthik Neerukonda,6-0,6,0,1,0,Completed,true,false,false
+UA003093,10 Sep 23,9,Mentone,Royal Ave,No. 2,Jackson Ralph,Nicolette Hilaris,Jackson Ralph,6-3,6,3,1,0,Completed,true,false,false
+UA003093,10 Sep 23,9,Mentone,Royal Ave,No. 3,Tobias Malone-Marty,Luke Chapman,Tobias Malone-Marty,6-2,6,2,1,0,Completed,true,false,false
+UA003093,10 Sep 23,9,Mentone,Royal Ave,No. 4,Lee Moore,Tom Anthonisz,Tom Anthonisz,4-6,4,6,0,1,Completed,true,false,false
+UA003094,10 Sep 23,9,BLTC White,Hurlingham Park Blue,No. 1,Lucas Sleep,Dane Gerbic,Lucas Sleep,6-4,6,4,1,0,Completed,true,false,false
+UA003094,10 Sep 23,9,BLTC White,Hurlingham Park Blue,No. 2,Andrew Livermore,Ashton Vati,Andrew Livermore,6-1,6,1,1,0,Completed,true,false,false
+UA003094,10 Sep 23,9,BLTC White,Hurlingham Park Blue,No. 3,Kevin Qian,Joshua Nowell,Joshua Nowell,1-6,1,6,0,1,Completed,true,false,false
+UA003094,10 Sep 23,9,BLTC White,Hurlingham Park Blue,No. 4,David Haidor,Archie Braithwaite,David Haidor,6-4,6,4,1,0,Completed,true,true,true
+UA003101,08 Oct 23,10,Hurlingham Park Blue,BLTC Blue,No. 1,Dane Gerbic,Jensen Srisuwan,Jensen Srisuwan,2-6,2,6,0,1,Completed,true,false,false
+UA003101,08 Oct 23,10,Hurlingham Park Blue,BLTC Blue,No. 2,Eliot Rey-Benguigui,Lewis Smith,Eliot Rey-Benguigui,6-3,6,3,1,0,Completed,true,false,false
+UA003101,08 Oct 23,10,Hurlingham Park Blue,BLTC Blue,No. 3,Nicholas Campbell,Petar Kocic,Nicholas Campbell,6-2,6,2,1,0,Completed,true,false,false
+UA003101,08 Oct 23,10,Hurlingham Park Blue,BLTC Blue,No. 4,Ashton Vati,Daniel Murphy,Daniel Murphy,2-6,2,6,0,1,Completed,true,false,false
+UA003102,08 Oct 23,10,Murrumbeena,Tennis World,No. 1,Thomas Moore,Matthew Tong,Matthew Tong,3-6,3,6,0,1,Completed,true,false,false
+UA003102,08 Oct 23,10,Murrumbeena,Tennis World,No. 2,Aodhan Monteiro,Ishaan Arya,Ishaan Arya,4-6,4,6,0,1,Completed,true,false,false
+UA003102,08 Oct 23,10,Murrumbeena,Tennis World,No. 3,Kewen Zheng,Mia Foxe,Kewen Zheng,7-6,7,6,1,0,Completed,true,false,false
+UA003102,08 Oct 23,10,Murrumbeena,Tennis World,No. 4,Oliver Huggins,Joel Dalidowicz,Oliver Huggins,6-4,6,4,1,0,Completed,true,false,true
+UA003103,08 Oct 23,10,Royal South Yarra,Mentone,No. 1,Miles Forster,Sai Karthik Neerukonda,Sai Karthik Neerukonda,4-6,4,6,0,1,Completed,true,false,false
+UA003103,08 Oct 23,10,Royal South Yarra,Mentone,No. 2,Jack Tucker,Jackson Ralph,Jackson Ralph,0-6,0,6,0,1,Completed,true,false,false
+UA003103,08 Oct 23,10,Royal South Yarra,Mentone,No. 3,Eddie Millear,Tobias Malone-Marty,Tobias Malone-Marty,3-6,3,6,0,1,Completed,true,false,false
+UA003103,08 Oct 23,10,Royal South Yarra,Mentone,No. 4,Tom Park,Lee Moore,Tom Park,6-3,6,3,1,0,Completed,true,true,false
+UA003104,08 Oct 23,10,Royal Ave,BLTC White,No. 1,Kai Saxon,Matvey Roche,Matvey Roche,0-6,0,6,0,1,Completed,true,false,false
+UA003104,08 Oct 23,10,Royal Ave,BLTC White,No. 2,Nicolette Hilaris,Lucas Sleep,Lucas Sleep,1-6,1,6,0,1,Completed,true,false,false
+UA003104,08 Oct 23,10,Royal Ave,BLTC White,No. 3,Harrison Moller,Andrew Livermore,Harrison Moller,6-4,6,4,1,0,Completed,true,false,false
+UA003104,08 Oct 23,10,Royal Ave,BLTC White,No. 4,Tom Anthonisz,Livinia Kolar,Livinia Kolar,0-6,0,6,0,1,Completed,true,false,true
+UA003111,15 Oct 23,11,BLTC Blue,Royal Ave,No. 1,Jensen Srisuwan,Harrison Moller,Harrison Moller,4-6,4,6,0,1,Completed,true,false,false
+UA003111,15 Oct 23,11,BLTC Blue,Royal Ave,No. 2,Lewis Smith,Luke Chapman,Lewis Smith,6-0,6,0,1,0,Completed,true,false,false
+UA003111,15 Oct 23,11,BLTC Blue,Royal Ave,No. 3,Petar Kocic,Luke Young,Petar Kocic,6-4,6,4,1,0,Completed,true,false,true
+UA003111,15 Oct 23,11,BLTC Blue,Royal Ave,No. 4,Daniel Murphy,Harry Tsorbaris,Daniel Murphy,6-2,6,2,1,0,Completed,true,false,false
+UA003112,15 Oct 23,11,Tennis World,Hurlingham Park Blue,No. 1,Claudia Popovic,Dane Gerbic,Claudia Popovic,6-0,6,0,1,0,Completed,true,false,false
+UA003112,15 Oct 23,11,Tennis World,Hurlingham Park Blue,No. 2,Ishaan Arya,Jake Vati,Ishaan Arya,6-4,6,4,1,0,Completed,true,false,false
+UA003112,15 Oct 23,11,Tennis World,Hurlingham Park Blue,No. 3,Aliya Appleby,Dylan Pfahl,Dylan Pfahl,1-6,1,6,0,1,Completed,true,false,true
+UA003112,15 Oct 23,11,Tennis World,Hurlingham Park Blue,No. 4,Mia Foxe,Joshua Nowell,Joshua Nowell,2-6,2,6,0,1,Completed,true,false,false
+UA003113,15 Oct 23,11,Mentone,Murrumbeena,No. 1,Sai Karthik Neerukonda,Thomas Moore,Sai Karthik Neerukonda,6-1,6,1,1,0,Completed,true,false,false
+UA003113,15 Oct 23,11,Mentone,Murrumbeena,No. 2,Jackson Ralph,Aodhan Monteiro,Jackson Ralph,6-1,6,1,1,0,Completed,true,false,false
+UA003113,15 Oct 23,11,Mentone,Murrumbeena,No. 3,Tobias Malone-Marty,Kewen Zheng,Tobias Malone-Marty,6-3,6,3,1,0,Completed,true,false,false
+UA003113,15 Oct 23,11,Mentone,Murrumbeena,No. 4,Lukas Nowak,Oliver Huggins,Oliver Huggins,1-6,1,6,0,1,Completed,true,false,false
+UA003114,15 Oct 23,11,BLTC White,Royal South Yarra,No. 1,Matvey Roche,Miles Forster,Matvey Roche,6-1,6,1,1,0,Completed,true,false,false
+UA003114,15 Oct 23,11,BLTC White,Royal South Yarra,No. 2,Lucas Sleep,William McCrae,Lucas Sleep,6-1,6,1,1,0,Completed,true,false,false
+UA003114,15 Oct 23,11,BLTC White,Royal South Yarra,No. 3,Andrew Livermore,Eddie Millear,Eddie Millear,4-6,4,6,0,1,Completed,true,false,false
+UA003114,15 Oct 23,11,BLTC White,Royal South Yarra,No. 4,Kabeer Gursahani,Boston Moran,Kabeer Gursahani,6-4,6,4,1,0,Completed,true,false,true
+UA003121,22 Oct 23,12,BLTC White,Mentone,No. 1,Matvey Roche,Sai Karthik Neerukonda,Matvey Roche,7-6,7,6,1,0,Completed,true,false,false
+UA003121,22 Oct 23,12,BLTC White,Mentone,No. 2,Lucas Sleep,Jackson Ralph,Jackson Ralph,2-6,2,6,0,1,Completed,true,false,false
+UA003121,22 Oct 23,12,BLTC White,Mentone,No. 3,Kabeer Gursahani,Tobias Malone-Marty,Tobias Malone-Marty,2-6,2,6,0,1,Completed,true,false,false
+UA003121,22 Oct 23,12,BLTC White,Mentone,No. 4,Kevin Qian,Lee Moore,Kevin Qian,6-3,6,3,1,0,Completed,true,false,false
+UA003122,22 Oct 23,12,Hurlingham Park Blue,Murrumbeena,No. 1,Eliot Rey-Benguigui,Thomas Moore,Eliot Rey-Benguigui,7-6,7,6,1,0,Completed,true,false,false
+UA003122,22 Oct 23,12,Hurlingham Park Blue,Murrumbeena,No. 2,Flynn Megahan,Aodhan Monteiro,Aodhan Monteiro,2-6,2,6,0,1,Completed,true,false,false
+UA003122,22 Oct 23,12,Hurlingham Park Blue,Murrumbeena,No. 3,Ashton Vati,Kewen Zheng,Kewen Zheng,1-6,1,6,0,1,Completed,true,false,false
+UA003122,22 Oct 23,12,Hurlingham Park Blue,Murrumbeena,No. 4,Joshua Nowell,Oliver Huggins,Joshua Nowell,6-0,6,0,1,0,Completed,true,false,false
+UA003123,22 Oct 23,12,Royal South Yarra,Royal Ave,No. 1,Miles Forster,Kai Saxon,Miles Forster,7-5,7,5,1,0,Completed,true,false,false
+UA003123,22 Oct 23,12,Royal South Yarra,Royal Ave,No. 2,Jack Tucker,Nicolette Hilaris,Jack Tucker,6-2,6,2,1,0,Completed,true,false,false
+UA003123,22 Oct 23,12,Royal South Yarra,Royal Ave,No. 3,William McCrae,Luke Chapman,Luke Chapman,2-6,2,6,0,1,Completed,true,false,false
+UA003123,22 Oct 23,12,Royal South Yarra,Royal Ave,No. 4,Tom Park,Tom Anthonisz,Tom Park,6-3,6,3,1,0,Completed,true,true,false
+UA003124,22 Oct 23,12,Tennis World,BLTC Blue,No. 1,Claudia Popovic,Jensen Srisuwan,Jensen Srisuwan,4-6,4,6,0,1,Completed,true,false,false
+UA003124,22 Oct 23,12,Tennis World,BLTC Blue,No. 2,Matthew Tong,Lewis Smith,Matthew Tong,6-1,6,1,1,0,Completed,true,false,false
+UA003124,22 Oct 23,12,Tennis World,BLTC Blue,No. 3,Ishaan Arya,Petar Kocic,Ishaan Arya,6-2,6,2,1,0,Completed,true,false,false
+UA003124,22 Oct 23,12,Tennis World,BLTC Blue,No. 4,Joel Dalidowicz,Daniel Murphy,Daniel Murphy,2-6,2,6,0,1,Completed,true,true,false
+UA003131,29 Oct 23,13,Mentone,Tennis World,No. 1,Sai Karthik Neerukonda,Ishaan Arya,Sai Karthik Neerukonda,7-5,7,5,1,0,Completed,true,false,false
+UA003131,29 Oct 23,13,Mentone,Tennis World,No. 2,Jackson Ralph,Aliya Appleby,Jackson Ralph,6-1,6,1,1,0,Completed,true,false,false
+UA003131,29 Oct 23,13,Mentone,Tennis World,No. 3,Tobias Malone-Marty,Mia Foxe,Tobias Malone-Marty,6-2,6,2,1,0,Completed,true,false,false
+UA003131,29 Oct 23,13,Mentone,Tennis World,No. 4,Lee Moore,Sabina Rush,Lee Moore,6-4,6,4,1,0,Completed,true,false,true
+UA003132,29 Oct 23,13,BLTC Blue,BLTC White,No. 1,Daniel Brown,Matvey Roche,Daniel Brown,6-4,6,4,1,0,Completed,true,true,false
+UA003132,29 Oct 23,13,BLTC Blue,BLTC White,No. 2,Lewis Smith,Lucas Sleep,Lucas Sleep,3-6,3,6,0,1,Completed,true,false,false
+UA003132,29 Oct 23,13,BLTC Blue,BLTC White,No. 3,Petar Kocic,Andrew Livermore,Andrew Livermore,5-7,5,7,0,1,Completed,true,false,false
+UA003132,29 Oct 23,13,BLTC Blue,BLTC White,No. 4,Daniel Murphy,Kevin Qian,Daniel Murphy,6-3,6,3,1,0,Completed,true,false,false
+UA003133,29 Oct 23,13,Royal Ave,Hurlingham Park Blue,No. 1,Nicolette Hilaris,Dane Gerbic,Dane Gerbic,4-6,4,6,0,1,Completed,true,false,false
+UA003133,29 Oct 23,13,Royal Ave,Hurlingham Park Blue,No. 2,Harrison Moller,Eliot Rey-Benguigui,Harrison Moller,6-3,6,3,1,0,Completed,true,false,false
+UA003133,29 Oct 23,13,Royal Ave,Hurlingham Park Blue,No. 3,Luke Chapman,Nicholas Campbell,Luke Chapman,6-3,6,3,1,0,Completed,true,false,false
+UA003133,29 Oct 23,13,Royal Ave,Hurlingham Park Blue,No. 4,Harry Tsorbaris,Joshua Nowell,Joshua Nowell,3-6,3,6,0,1,Completed,true,false,false
+UA003134,29 Oct 23,13,Murrumbeena,Royal South Yarra,No. 1,Thomas Moore,Miles Forster,Miles Forster,5-7,5,7,0,1,Completed,true,false,false
+UA003134,29 Oct 23,13,Murrumbeena,Royal South Yarra,No. 2,Aodhan Monteiro,Jack Tucker,Jack Tucker,5-7,5,7,0,1,Completed,true,false,false
+UA003134,29 Oct 23,13,Murrumbeena,Royal South Yarra,No. 3,Kewen Zheng,William McCrae,William McCrae,5-7,5,7,0,1,Completed,true,false,false
+UA003134,29 Oct 23,13,Murrumbeena,Royal South Yarra,No. 4,Oliver Huggins,Eddie Millear,Eddie Millear,2-6,2,6,0,1,Completed,true,false,false
+UA003141,12 Nov 23,14,Mentone,BLTC Blue,No. 1,Sai Karthik Neerukonda,Daniel Brown,Sai Karthik Neerukonda,6-4,6,4,1,0,Completed,true,false,true
+UA003141,12 Nov 23,14,Mentone,BLTC Blue,No. 2,Jackson Ralph,Lewis Smith,Jackson Ralph,6-0,6,0,1,0,Completed,true,false,false
+UA003141,12 Nov 23,14,Mentone,BLTC Blue,No. 3,Tobias Malone-Marty,Petar Kocic,Tobias Malone-Marty,6-1,6,1,1,0,Completed,true,false,false
+UA003141,12 Nov 23,14,Mentone,BLTC Blue,No. 4,Lee Moore,Daniel Murphy,Daniel Murphy,3-6,3,6,0,1,Completed,true,false,false
+UA003142,12 Nov 23,14,BLTC White,Tennis World,No. 1,Matvey Roche,Claudia Popovic,Matvey Roche,6-0,6,0,1,0,Completed,true,false,false
+UA003142,12 Nov 23,14,BLTC White,Tennis World,No. 2,Lucas Sleep,Aliya Appleby,Lucas Sleep,6-4,6,4,1,0,Completed,true,false,false
+UA003142,12 Nov 23,14,BLTC White,Tennis World,No. 3,Andrew Livermore,Mia Foxe,Andrew Livermore,6-1,6,1,1,0,Completed,true,false,false
+UA003142,12 Nov 23,14,BLTC White,Tennis World,No. 4,Kabeer Gursahani,Joel Dalidowicz,Kabeer Gursahani,6-2,6,2,1,0,Completed,true,false,true
+UA003143,12 Nov 23,14,Royal Ave,Murrumbeena,No. 1,Anthony Power,Thomas Moore,Anthony Power,6-4,6,4,1,0,Completed,true,true,false
+UA003143,12 Nov 23,14,Royal Ave,Murrumbeena,No. 2,Nicolette Hilaris,Aodhan Monteiro,Aodhan Monteiro,2-6,2,6,0,1,Completed,true,false,false
+UA003143,12 Nov 23,14,Royal Ave,Murrumbeena,No. 3,Luke Chapman,Kewen Zheng,Kewen Zheng,5-7,5,7,0,1,Completed,true,false,false
+UA003143,12 Nov 23,14,Royal Ave,Murrumbeena,No. 4,Tom Anthonisz,Oliver Huggins,Tom Anthonisz,7-6,7,6,1,0,Completed,true,false,false
+UA003301,,16,Mentone,BLTC Blue,No. 1,Sai Karthik Neerukonda,Lewis Smith,Sai Karthik Neerukonda,6-2,6,2,1,0,Completed,true,false,false
+UA003301,,16,Mentone,BLTC Blue,No. 2,Jackson Ralph,Petar Kocic,Jackson Ralph,6-2,6,2,1,0,Completed,true,false,false
+UA003301,,16,Mentone,BLTC Blue,No. 3,Tobias Malone-Marty,Edward Ruckel,Edward Ruckel,2-6,2,6,0,1,Completed,true,false,false
+UA003301,,16,Mentone,BLTC Blue,No. 4,Lee Moore,Daniel Murphy,Daniel Murphy,5-7,5,7,0,1,Completed,true,false,false
+UA003302,,16,BLTC White,Murrumbeena,No. 1,Matvey Roche,Thomas Moore,Matvey Roche,6-2,6,2,1,0,Completed,true,false,false
+UA003302,,16,BLTC White,Murrumbeena,No. 2,Lucas Sleep,Aodhan Monteiro,Aodhan Monteiro,2-6,2,6,0,1,Completed,true,false,false
+UA003302,,16,BLTC White,Murrumbeena,No. 3,Andrew Livermore,Kewen Zheng,Andrew Livermore,7-5,7,5,1,0,Completed,true,false,false
+UA003302,,16,BLTC White,Murrumbeena,No. 4,Livinia Kolar,Oliver Huggins,Livinia Kolar,6-3,6,3,1,0,Completed,true,true,false
+UA003321,,17,Mentone,BLTC White,No. 1,Sai Karthik Neerukonda,Matvey Roche,Matvey Roche,1-6,1,6,0,1,Completed,true,false,false
+UA003321,,17,Mentone,BLTC White,No. 2,Jackson Ralph,Lucas Sleep,Jackson Ralph,6-0,6,0,1,0,Completed,true,false,false
+UA003321,,17,Mentone,BLTC White,No. 3,Tobias Malone-Marty,Andrew Livermore,Andrew Livermore,2-6,2,6,0,1,Completed,true,false,false
+UA003321,,17,Mentone,BLTC White,No. 4,Lee Moore,Livinia Kolar,Livinia Kolar,0-6,0,6,0,1,Completed,true,false,true

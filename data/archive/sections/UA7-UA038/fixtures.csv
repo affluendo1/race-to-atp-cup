@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+UA038011,18 Jul 10,1,regular,Round 1,Lauriston,Royal Ave,9,1,5,1,,,33,20,Completed,
+UA038012,18 Jul 10,1,regular,Round 1,BLTC,Murrumbeena,9,1,5,1,,,33,19,Completed,
+UA038013,18 Jul 10,1,regular,Round 1,Mordialloc 1,Mordialloc 2,9,1,5,1,,,33,17,Completed,
+pending-ua038-r1-bye-hampton,18 Jul 10,1,regular,Round 1,Bye,Hampton,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA038021,25 Jul 10,2,regular,Round 2,Hampton,Lauriston,9,1,5,1,,,34,14,Completed,
+UA038022,25 Jul 10,2,regular,Round 2,Royal Ave,BLTC,0,10,0,6,,,7,36,Completed,
+UA038023,25 Jul 10,2,regular,Round 2,Murrumbeena,Mordialloc 1,1,9,1,5,,,17,35,Completed,
+pending-ua038-r2-mordialloc-2-bye,25 Jul 10,2,regular,Round 2,Mordialloc 2,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua038-r3-bltc-hampton,01 Aug 10,3,regular,Round 3,BLTC,Hampton,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua038-r3-bye-murrumbeena,01 Aug 10,3,regular,Round 3,Bye,Murrumbeena,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua038-r3-lauriston-mordialloc-2,01 Aug 10,3,regular,Round 3,Lauriston,Mordialloc 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua038-r3-mordialloc-1-royal-ave,01 Aug 10,3,regular,Round 3,Mordialloc 1,Royal Ave,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA038041,08 Aug 10,4,regular,Round 4,Murrumbeena,Lauriston,10,0,6,0,,,36,10,Completed,
+UA038042,08 Aug 10,4,regular,Round 4,Mordialloc 2,BLTC,10,0,6,0,,,36,10,Completed,
+UA038043,08 Aug 10,4,regular,Round 4,Hampton,Mordialloc 1,3,7,3,3,,,24,30,Completed,
+pending-ua038-r4-royal-ave-bye,08 Aug 10,4,regular,Round 4,Royal Ave,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA038052,15 Aug 10,5,regular,Round 5,Hampton,Mordialloc 2,5,5,0,0,,,3,7,Completed,
+pending-ua038-r5-lauriston-bltc,15 Aug 10,5,regular,Round 5,Lauriston,BLTC,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua038-r5-mordialloc-1-bye,15 Aug 10,5,regular,Round 5,Mordialloc 1,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+pending-ua038-r5-murrumbeena-royal-ave,15 Aug 10,5,regular,Round 5,Murrumbeena,Royal Ave,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA038061,22 Aug 10,6,regular,Round 6,BLTC,Mordialloc 1,0,10,0,6,,,15,38,Completed,
+UA038063,22 Aug 10,6,regular,Round 6,Mordialloc 2,Murrumbeena,9,1,5,1,,,34,18,Completed,
+UA038064,22 Aug 10,6,regular,Round 6,Royal Ave,Hampton,0,10,0,6,,,15,38,Completed,
+pending-ua038-r6-bye-lauriston,22 Aug 10,6,regular,Round 6,Bye,Lauriston,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA038071,29 Aug 10,7,regular,Round 7,Lauriston,Mordialloc 1,0,10,0,6,,,5,36,Completed,
+UA038073,29 Aug 10,7,regular,Round 7,Hampton,Murrumbeena,8,2,4,2,,,28,24,Completed,
+UA038074,29 Aug 10,7,regular,Round 7,Mordialloc 2,Royal Ave,10,0,6,0,,,36,7,Completed,
+pending-ua038-r7-bltc-bye,29 Aug 10,7,regular,Round 7,BLTC,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA038081,05 Sep 10,8,regular,Round 8,Royal Ave,Lauriston,0,10,0,6,,,21,37,Completed,
+UA038082,05 Sep 10,8,regular,Round 8,Murrumbeena,BLTC,9,1,5,1,,,35,20,Completed,
+UA038083,05 Sep 10,8,regular,Round 8,Mordialloc 2,Mordialloc 1,7,3,3,3,,,26,25,Completed,
+pending-ua038-r8-hampton-bye,05 Sep 10,8,regular,Round 8,Hampton,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA038091,12 Sep 10,9,regular,Round 9,Lauriston,Hampton,7,3,3,3,,,31,28,Completed,
+UA038092,12 Sep 10,9,regular,Round 9,BLTC,Royal Ave,9,1,5,1,,,32,14,Completed,
+UA038093,12 Sep 10,9,regular,Round 9,Mordialloc 1,Murrumbeena,8,2,4,2,,,30,20,Completed,
+pending-ua038-r9-bye-mordialloc-2,12 Sep 10,9,regular,Round 9,Bye,Mordialloc 2,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA038101,10 Oct 10,10,regular,Round 10,Mordialloc 2,Lauriston,10,0,6,0,,,36,8,Completed,
+UA038102,10 Oct 10,10,regular,Round 10,Hampton,BLTC,2,8,2,4,,,17,31,Completed,
+UA038103,10 Oct 10,10,regular,Round 10,Royal Ave,Mordialloc 1,0,10,0,6,,,2,36,Completed,
+pending-ua038-r10-murrumbeena-bye,10 Oct 10,10,regular,Round 10,Murrumbeena,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA038111,17 Oct 10,11,regular,Round 11,Lauriston,Murrumbeena,8,2,4,2,,,31,21,Completed,
+UA038112,17 Oct 10,11,regular,Round 11,BLTC,Mordialloc 2,1,9,1,5,,,16,32,Completed,
+UA038113,17 Oct 10,11,regular,Round 11,Mordialloc 1,Hampton,10,0,6,0,,,36,14,Completed,
+pending-ua038-r11-bye-royal-ave,17 Oct 10,11,regular,Round 11,Bye,Royal Ave,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA038122,24 Oct 10,12,regular,Round 12,Mordialloc 2,Hampton,10,0,6,0,,,37,15,Completed,
+UA038123,24 Oct 10,12,regular,Round 12,Royal Ave,Murrumbeena,0,10,0,6,,,9,36,Completed,
+UA038124,24 Oct 10,12,regular,Round 12,BLTC,Lauriston,2,8,2,4,,,21,31,Completed,
+pending-ua038-r12-bye-mordialloc-1,24 Oct 10,12,regular,Round 12,Bye,Mordialloc 1,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA038131,07 Nov 10,13,regular,Round 13,Mordialloc 1,BLTC,10,0,6,0,,,38,17,Completed,
+UA038133,07 Nov 10,13,regular,Round 13,Murrumbeena,Mordialloc 2,2,8,2,4,,,19,30,Completed,
+UA038134,07 Nov 10,13,regular,Round 13,Hampton,Royal Ave,10,0,6,0,,,36,9,Completed,
+pending-ua038-r13-lauriston-bye,07 Nov 10,13,regular,Round 13,Lauriston,Bye,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA038141,14 Nov 10,14,regular,Round 14,Mordialloc 1,Lauriston,10,0,6,0,,,36,6,Completed,
+UA038143,14 Nov 10,14,regular,Round 14,Murrumbeena,Hampton,10,0,6,0,,,36,9,Completed,
+UA038144,14 Nov 10,14,regular,Round 14,Royal Ave,Mordialloc 2,0,10,0,6,,,2,36,Completed,
+pending-ua038-r14-bye-bltc,14 Nov 10,14,regular,Round 14,Bye,BLTC,,,,,,,,,Bye,No individual scorecard / no rubbers recorded
+UA038302,,16,semi_final,Semi-final,Mordialloc 2,Murrumbeena,10,0,6,0,,,37,18,Completed,
+pending-ua038-r16-mordialloc-1-hampton,,16,semi_final,Semi-final,Mordialloc 1,Hampton,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA038321,,17,grand_final,Grand final · TROLS entry 2,Mordialloc 1,Mordialloc 2,8,2,4,2,,,33,28,Completed,

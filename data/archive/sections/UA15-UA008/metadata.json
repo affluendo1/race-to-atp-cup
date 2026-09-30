@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA15-UA008",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2014",
+  "season_id": "UA15",
+  "season_label": "Spring 2014",
+  "source_section_code": "UA008",
+  "section_label": "Section 8",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Mentone",
+      "wins": 8,
+      "points": 88,
+      "percentage": 120.7,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Kooyong Scotch 2",
+      "wins": 8,
+      "points": 85,
+      "percentage": 128.22,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 8,
+      "points": 81,
+      "percentage": 111.93,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Aspendale",
+      "wins": 6,
+      "points": 75,
+      "percentage": 114.01,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC",
+      "wins": 7,
+      "points": 71,
+      "percentage": 94.57,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Maccabi",
+      "wins": 5,
+      "points": 67,
+      "percentage": 100.0,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra",
+      "wins": 4,
+      "points": 57,
+      "percentage": 86.45,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong Scotch 1",
+      "wins": 2,
+      "points": 36,
+      "percentage": 59.95,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA15-UA008",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

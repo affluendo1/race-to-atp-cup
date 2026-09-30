@@ -1,0 +1,78 @@
+{
+  "asset_id": "UA6-UA019",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2010",
+  "season_id": "UA6",
+  "season_label": "Autumn 2010",
+  "source_section_code": "UA019",
+  "section_label": "Section 19",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Black Rock",
+      "wins": 0,
+      "points": 104,
+      "percentage": 158.08,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Middle Brighton",
+      "wins": 0,
+      "points": 103.5,
+      "percentage": 138.64,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Lauriston",
+      "wins": 0,
+      "points": 83,
+      "percentage": 110.71,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Hampton",
+      "wins": 0,
+      "points": 75.5,
+      "percentage": 99.04,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Murrumbeena",
+      "wins": 0,
+      "points": 52,
+      "percentage": 78.35,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC",
+      "wins": 0,
+      "points": 32,
+      "percentage": 53.92,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA6-UA019",
+  "fixtures": 46,
+  "completed_fixtures": 42,
+  "draw_fixtures": 57,
+  "singles_rubbers": 164,
+  "doubles_rubbers": 82,
+  "latest_round": 16,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "No scorecard rubbers for UA019033",
+    "Fixture game totals do not match rubbers for UA019033"
+  ]
+}

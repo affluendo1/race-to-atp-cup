@@ -1,0 +1,75 @@
+{
+  "asset_id": "UA38-UA003",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2026",
+  "season_id": "UA38",
+  "season_label": "Autumn 2026",
+  "source_section_code": "UA003",
+  "section_label": "Rubbers 3",
+  "format": "rubbers",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Black Rock",
+      "wins": 11,
+      "points": 77,
+      "percentage": 155.1,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Mentone",
+      "wins": 10,
+      "points": 77,
+      "percentage": 149.66,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "BLTC White",
+      "wins": 7,
+      "points": 59.5,
+      "percentage": 99.21,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC Blue",
+      "wins": 6,
+      "points": 50.5,
+      "percentage": 85.44,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong Green",
+      "wins": 4,
+      "points": 35,
+      "percentage": 71.22,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong Purple",
+      "wins": 1,
+      "points": 33,
+      "percentage": 73.3,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA38-UA003",
+  "fixtures": 46,
+  "completed_fixtures": 42,
+  "draw_fixtures": 43,
+  "singles_rubbers": 83,
+  "doubles_rubbers": 41,
+  "latest_round": 16,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

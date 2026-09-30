@@ -1,0 +1,213 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA003011,31 Jan 26,1,BLTC Blue,BLTC White,No. 1,Victor Lee,Guillermo Machuca,Guillermo Machuca,6-7,6,7,0,1,Completed,true,false,false
+AA003011,31 Jan 26,1,BLTC Blue,BLTC White,No. 2,Luca Harris,Dean Rosen,Dean Rosen,2-6,2,6,0,1,Completed,true,false,false
+AA003011,31 Jan 26,1,BLTC Blue,BLTC White,No. 3,Mateo Quintana,Dieter Van Zyl,Mateo Quintana,6-2,6,2,1,0,Completed,true,false,false
+AA003011,31 Jan 26,1,BLTC Blue,BLTC White,No. 4,Blake Carson,Lucas Jin,Lucas Jin,3-6,3,6,0,1,Completed,true,false,false
+AA003012,31 Jan 26,1,Coatesville,Mentone,No. 1,Martin Curnow,Jocelyn Ledo,Jocelyn Ledo,6-7,6,7,0,1,Completed,true,false,false
+AA003012,31 Jan 26,1,Coatesville,Mentone,No. 2,Oscar McCallum,Andy Koukoumanos,Andy Koukoumanos,6-7,6,7,0,1,Completed,true,false,false
+AA003012,31 Jan 26,1,Coatesville,Mentone,No. 3,Jack Simpson,Madisson Gerente,Jack Simpson,6-3,6,3,1,0,Completed,true,false,false
+AA003012,31 Jan 26,1,Coatesville,Mentone,No. 4,Thomas Jenner,Vicki Tiganis,Vicki Tiganis,4-6,4,6,0,1,Completed,true,true,false
+AA003013,31 Jan 26,1,Glen Huntly,Royal Ave,No. 1,Oliver Sey,Charlie Vakrinos,Charlie Vakrinos,1-6,1,6,0,1,Completed,true,false,false
+AA003013,31 Jan 26,1,Glen Huntly,Royal Ave,No. 2,Hugo Baker,Jacob Hu,Jacob Hu,0-6,0,6,0,1,Completed,true,false,false
+AA003013,31 Jan 26,1,Glen Huntly,Royal Ave,No. 3,Danielius Buividas,Tiras Kasapidis,Danielius Buividas,6-3,6,3,1,0,Completed,true,false,true
+AA003013,31 Jan 26,1,Glen Huntly,Royal Ave,No. 4,Joshua Lew,Noah Bradley,Joshua Lew,6-1,6,1,1,0,Completed,true,false,true
+AA003014,31 Jan 26,1,Maccabi,Kings Park,No. 1,Adam Bigos,Kokoro Bremmell,Kokoro Bremmell,0-6,0,6,0,1,Completed,true,false,false
+AA003014,31 Jan 26,1,Maccabi,Kings Park,No. 2,Asher Brami,Daniel Gao,Asher Brami,6-2,6,2,1,0,Completed,true,false,false
+AA003014,31 Jan 26,1,Maccabi,Kings Park,No. 3,Matthew Cashmore,Nemo Yao,Matthew Cashmore,7-6,7,6,1,0,Completed,true,false,false
+AA003014,31 Jan 26,1,Maccabi,Kings Park,No. 4,Tom Appel,Jude Horchner,Jude Horchner,0-6,0,6,0,1,Completed,true,false,false
+AA003021,07 Feb 26,2,Kings Park,BLTC Blue,No. 1,Kokoro Bremmell,Victor Lee,Victor Lee,2-6,2,6,0,1,Completed,true,false,false
+AA003021,07 Feb 26,2,Kings Park,BLTC Blue,No. 2,Nemo Yao,Luca Harris,Luca Harris,3-6,3,6,0,1,Completed,true,false,false
+AA003021,07 Feb 26,2,Kings Park,BLTC Blue,No. 3,Evelyn Pajovic,Mateo Quintana,Mateo Quintana,4-6,4,6,0,1,Completed,true,false,false
+AA003021,07 Feb 26,2,Kings Park,BLTC Blue,No. 4,Jude Horchner,Edward Jones,Jude Horchner,6-2,6,2,1,0,Completed,true,false,false
+AA003022,07 Feb 26,2,BLTC White,Coatesville,No. 1,Guillermo Machuca,Martin Curnow,Guillermo Machuca,6-0,6,0,1,0,Completed,true,false,false
+AA003022,07 Feb 26,2,BLTC White,Coatesville,No. 2,Dean Rosen,Hiren Arunkumar,Dean Rosen,6-4,6,4,1,0,Completed,true,false,false
+AA003022,07 Feb 26,2,BLTC White,Coatesville,No. 3,Dieter Van Zyl,Thomas Jenner,Dieter Van Zyl,6-3,6,3,1,0,Completed,true,false,true
+AA003022,07 Feb 26,2,BLTC White,Coatesville,No. 4,Conor Moir,Jimmy Docking,Conor Moir,6-2,6,2,1,0,Completed,true,false,false
+AA003023,07 Feb 26,2,Mentone,Glen Huntly,No. 1,Jocelyn Ledo,Oliver Sey,Oliver Sey,5-7,5,7,0,1,Completed,true,false,false
+AA003023,07 Feb 26,2,Mentone,Glen Huntly,No. 2,Amira Bird,Amir Egre,Amir Egre,2-6,2,6,0,1,Completed,true,false,false
+AA003023,07 Feb 26,2,Mentone,Glen Huntly,No. 3,Andy Koukoumanos,Hugo Baker,Andy Koukoumanos,6-4,6,4,1,0,Completed,true,false,false
+AA003023,07 Feb 26,2,Mentone,Glen Huntly,No. 4,Arav Nambier,Danielius Buividas,Arav Nambier,7-5,7,5,1,0,Completed,true,true,false
+AA003024,07 Feb 26,2,Royal Ave,Maccabi,No. 1,Charlie Vakrinos,Adam Bigos,Charlie Vakrinos,6-2,6,2,1,0,Completed,true,false,false
+AA003024,07 Feb 26,2,Royal Ave,Maccabi,No. 2,Jacob Hu,Asher Brami,Jacob Hu,6-3,6,3,1,0,Completed,true,false,false
+AA003024,07 Feb 26,2,Royal Ave,Maccabi,No. 3,Nick Corbett,Tom Appel,Nick Corbett,6-3,6,3,1,0,Completed,true,false,false
+AA003024,07 Feb 26,2,Royal Ave,Maccabi,No. 4,Noah Bradley,Aiden Woolf,Noah Bradley,6-3,6,3,1,0,Completed,true,true,false
+AA003031,14 Feb 26,3,BLTC Blue,Royal Ave,No. 1,Victor Lee,Charlie Vakrinos,Charlie Vakrinos,1-6,1,6,0,1,Completed,true,false,false
+AA003031,14 Feb 26,3,BLTC Blue,Royal Ave,No. 2,Mateo Quintana,Jacob Hu,Jacob Hu,2-6,2,6,0,1,Completed,true,false,false
+AA003031,14 Feb 26,3,BLTC Blue,Royal Ave,No. 3,Edward Jones,Nick Corbett,Edward Jones,7-5,7,5,1,0,Completed,true,false,false
+AA003031,14 Feb 26,3,BLTC Blue,Royal Ave,No. 4,Blake Carson,Tiras Kasapidis,Blake Carson,6-2,6,2,1,0,Completed,true,false,true
+AA003032,14 Feb 26,3,Coatesville,Kings Park,No. 1,Oscar McCallum,Cooper Hodge,Cooper Hodge,0-6,0,6,0,1,Completed,true,false,false
+AA003032,14 Feb 26,3,Coatesville,Kings Park,No. 2,Jack Simpson,Daniel Gao,Daniel Gao,2-6,2,6,0,1,Completed,true,false,false
+AA003032,14 Feb 26,3,Coatesville,Kings Park,No. 3,Hiren Arunkumar,Nemo Yao,Nemo Yao,2-6,2,6,0,1,Completed,true,false,false
+AA003032,14 Feb 26,3,Coatesville,Kings Park,No. 4,Jimmy Docking,Evelyn Pajovic,Evelyn Pajovic,1-6,1,6,0,1,Completed,true,false,false
+AA003033,14 Feb 26,3,Glen Huntly,BLTC White,No. 1,Gaby Duieb,Dean Rosen,Dean Rosen,0-6,0,6,0,1,Completed,true,true,false
+AA003033,14 Feb 26,3,Glen Huntly,BLTC White,No. 2,Hugo Baker,Dieter Van Zyl,Dieter Van Zyl,6-7,6,7,0,1,Completed,true,false,false
+AA003033,14 Feb 26,3,Glen Huntly,BLTC White,No. 3,Danielius Buividas,Lucas Jin,Lucas Jin,1-6,1,6,0,1,Completed,true,false,false
+AA003033,14 Feb 26,3,Glen Huntly,BLTC White,No. 4,Joshua Lew,Conor Moir,Conor Moir,6-7,6,7,0,1,Completed,true,false,false
+AA003034,14 Feb 26,3,Maccabi,Mentone,No. 1,Adam Bigos,Jocelyn Ledo,Jocelyn Ledo,2-6,2,6,0,1,Completed,true,false,false
+AA003034,14 Feb 26,3,Maccabi,Mentone,No. 2,Asher Brami,Andy Koukoumanos,Asher Brami,6-0,6,0,1,0,Completed,true,false,false
+AA003034,14 Feb 26,3,Maccabi,Mentone,No. 3,Matthew Cashmore,Madisson Gerente,Matthew Cashmore,6-2,6,2,1,0,Completed,true,false,false
+AA003034,14 Feb 26,3,Maccabi,Mentone,No. 4,Aiden Woolf,Vicki Tiganis,Aiden Woolf,6-1,6,1,1,0,Completed,true,false,false
+AA003041,21 Feb 26,4,Mentone,BLTC Blue,No. 1,Jocelyn Ledo,Victor Lee,Victor Lee,4-6,4,6,0,1,Completed,true,false,false
+AA003041,21 Feb 26,4,Mentone,BLTC Blue,No. 2,Amira Bird,Luca Harris,Luca Harris,2-6,2,6,0,1,Completed,true,false,false
+AA003041,21 Feb 26,4,Mentone,BLTC Blue,No. 3,Andy Koukoumanos,Edward Jones,Edward Jones,4-6,4,6,0,1,Completed,true,false,false
+AA003041,21 Feb 26,4,Mentone,BLTC Blue,No. 4,Vicki Tiganis,Blake Carson,Blake Carson,3-6,3,6,0,1,Completed,true,false,false
+AA003042,21 Feb 26,4,Royal Ave,Coatesville,No. 1,Charlie Vakrinos,Martin Curnow,Charlie Vakrinos,6-1,6,1,1,0,Completed,true,false,false
+AA003042,21 Feb 26,4,Royal Ave,Coatesville,No. 2,Jacob Hu,Jack Simpson,Jacob Hu,7-5,7,5,1,0,Completed,true,false,false
+AA003042,21 Feb 26,4,Royal Ave,Coatesville,No. 3,Nick Corbett,Hiren Arunkumar,Nick Corbett,7-5,7,5,1,0,Completed,true,false,false
+AA003042,21 Feb 26,4,Royal Ave,Coatesville,No. 4,Noah Bradley,Thomas Jenner,Thomas Jenner,0-6,0,6,0,1,Completed,true,true,true
+AA003043,21 Feb 26,4,Kings Park,Glen Huntly,No. 1,Kokoro Bremmell,Oliver Sey,Kokoro Bremmell,6-1,6,1,1,0,Completed,true,false,false
+AA003043,21 Feb 26,4,Kings Park,Glen Huntly,No. 2,Nemo Yao,Hugo Baker,Hugo Baker,2-6,2,6,0,1,Completed,true,false,false
+AA003043,21 Feb 26,4,Kings Park,Glen Huntly,No. 3,Evelyn Pajovic,Danielius Buividas,Evelyn Pajovic,6-1,6,1,1,0,Completed,true,false,false
+AA003043,21 Feb 26,4,Kings Park,Glen Huntly,No. 4,Jude Horchner,Joshua Lew,Jude Horchner,6-1,6,1,1,0,Completed,true,false,false
+AA003044,21 Feb 26,4,BLTC White,Maccabi,No. 1,Guillermo Machuca,Adam Bigos,Guillermo Machuca,6-1,6,1,1,0,Completed,true,false,false
+AA003044,21 Feb 26,4,BLTC White,Maccabi,No. 2,Dean Rosen,Matthew Cashmore,Dean Rosen,6-0,6,0,1,0,Completed,true,false,false
+AA003044,21 Feb 26,4,BLTC White,Maccabi,No. 3,Lucas Jin,Tom Appel,Lucas Jin,6-3,6,3,1,0,Completed,true,false,false
+AA003044,21 Feb 26,4,BLTC White,Maccabi,No. 4,Conor Moir,Aiden Woolf,Conor Moir,6-3,6,3,1,0,Completed,true,false,false
+AA003051,28 Feb 26,5,Glen Huntly,Maccabi,No. 1,Oliver Sey,Asher Brami,Asher Brami,5-7,5,7,0,1,Completed,true,false,false
+AA003051,28 Feb 26,5,Glen Huntly,Maccabi,No. 2,Hugo Baker,Matthew Cashmore,Hugo Baker,6-2,6,2,1,0,Completed,true,false,false
+AA003051,28 Feb 26,5,Glen Huntly,Maccabi,No. 3,Danielius Buividas,Tom Appel,Tom Appel,5-7,5,7,0,1,Completed,true,false,false
+AA003051,28 Feb 26,5,Glen Huntly,Maccabi,No. 4,Joshua Lew,Aiden Woolf,Joshua Lew,6-3,6,3,1,0,Completed,true,false,false
+AA003052,28 Feb 26,5,Kings Park,Royal Ave,No. 1,Cooper Hodge,Charlie Vakrinos,Charlie Vakrinos,2-6,2,6,0,1,Completed,true,false,false
+AA003052,28 Feb 26,5,Kings Park,Royal Ave,No. 2,Daniel Gao,Jacob Hu,Jacob Hu,0-6,0,6,0,1,Completed,true,false,false
+AA003052,28 Feb 26,5,Kings Park,Royal Ave,No. 3,Evelyn Pajovic,Nick Corbett,Evelyn Pajovic,6-1,6,1,1,0,Completed,true,false,false
+AA003052,28 Feb 26,5,Kings Park,Royal Ave,No. 4,Jude Horchner,Noah Bradley,Jude Horchner,6-0,6,0,1,0,Completed,true,false,true
+AA003053,28 Feb 26,5,Mentone,BLTC White,No. 1,Jocelyn Ledo,Guillermo Machuca,Guillermo Machuca,2-6,2,6,0,1,Completed,true,false,false
+AA003053,28 Feb 26,5,Mentone,BLTC White,No. 2,Andy Koukoumanos,Dieter Van Zyl,Dieter Van Zyl,3-6,3,6,0,1,Completed,true,false,false
+AA003053,28 Feb 26,5,Mentone,BLTC White,No. 3,Madisson Gerente,Lucas Jin,Madisson Gerente,6-3,6,3,1,0,Completed,true,false,false
+AA003053,28 Feb 26,5,Mentone,BLTC White,No. 4,Vicki Tiganis,Conor Moir,Vicki Tiganis,6-2,6,2,1,0,Completed,true,false,false
+AA003054,28 Feb 26,5,BLTC Blue,Coatesville,No. 1,Luca Harris,Martin Curnow,Luca Harris,7-6,7,6,1,0,Completed,true,false,false
+AA003054,28 Feb 26,5,BLTC Blue,Coatesville,No. 2,Mateo Quintana,Hiren Arunkumar,Mateo Quintana,7-6,7,6,1,0,Completed,true,false,false
+AA003054,28 Feb 26,5,BLTC Blue,Coatesville,No. 3,Edward Jones,Thomas Jenner,Edward Jones,6-1,6,1,1,0,Completed,true,false,true
+AA003054,28 Feb 26,5,BLTC Blue,Coatesville,No. 4,Blake Carson,Jimmy Docking,Blake Carson,6-1,6,1,1,0,Completed,true,false,false
+AA003061,14 Mar 26,6,Coatesville,Glen Huntly,No. 1,Oscar McCallum,Oliver Sey,Oscar McCallum,6-0,6,0,1,0,Completed,true,false,false
+AA003061,14 Mar 26,6,Coatesville,Glen Huntly,No. 2,Jack Simpson,Hugo Baker,Hugo Baker,3-6,3,6,0,1,Completed,true,false,false
+AA003061,14 Mar 26,6,Coatesville,Glen Huntly,No. 3,Thomas Jenner,Danielius Buividas,Danielius Buividas,3-6,3,6,0,1,Completed,true,true,false
+AA003061,14 Mar 26,6,Coatesville,Glen Huntly,No. 4,Jimmy Docking,Joshua Lew,Joshua Lew,5-7,5,7,0,1,Completed,true,false,false
+AA003062,14 Mar 26,6,Maccabi,BLTC Blue,No. 1,Asher Brami,Victor Lee,Victor Lee,1-6,1,6,0,1,Completed,true,false,false
+AA003062,14 Mar 26,6,Maccabi,BLTC Blue,No. 2,Adam Bigos,Luca Harris,Luca Harris,1-6,1,6,0,1,Completed,true,false,false
+AA003062,14 Mar 26,6,Maccabi,BLTC Blue,No. 3,Matthew Cashmore,Edward Jones,Edward Jones,1-6,1,6,0,1,Completed,true,false,false
+AA003062,14 Mar 26,6,Maccabi,BLTC Blue,No. 4,Aiden Woolf,Blake Carson,Blake Carson,2-6,2,6,0,1,Completed,true,false,false
+AA003063,14 Mar 26,6,Royal Ave,Mentone,No. 1,Charlie Vakrinos,Jocelyn Ledo,Charlie Vakrinos,6-1,6,1,1,0,Completed,true,false,false
+AA003063,14 Mar 26,6,Royal Ave,Mentone,No. 2,Jacob Hu,Andy Koukoumanos,Jacob Hu,6-3,6,3,1,0,Completed,true,false,false
+AA003063,14 Mar 26,6,Royal Ave,Mentone,No. 3,Nick Corbett,Madisson Gerente,Nick Corbett,6-2,6,2,1,0,Completed,true,false,false
+AA003063,14 Mar 26,6,Royal Ave,Mentone,No. 4,Noah Bradley,Vicki Tiganis,Vicki Tiganis,5-7,5,7,0,1,Completed,true,true,false
+AA003064,14 Mar 26,6,BLTC White,Kings Park,No. 1,Guillermo Machuca,Cooper Hodge,Guillermo Machuca,6-2,6,2,1,0,Completed,true,false,false
+AA003064,14 Mar 26,6,BLTC White,Kings Park,No. 2,Dieter Van Zyl,Daniel Gao,Dieter Van Zyl,6-2,6,2,1,0,Completed,true,false,false
+AA003064,14 Mar 26,6,BLTC White,Kings Park,No. 3,Lucas Jin,Nemo Yao,Lucas Jin,7-6,7,6,1,0,Completed,true,false,false
+AA003064,14 Mar 26,6,BLTC White,Kings Park,No. 4,Conor Moir,Jude Horchner,Jude Horchner,4-6,4,6,0,1,Completed,true,false,false
+AA003071,21 Mar 26,7,BLTC Blue,Glen Huntly,No. 1,Luca Harris,Oliver Sey,Luca Harris,6-3,6,3,1,0,Completed,true,false,false
+AA003071,21 Mar 26,7,BLTC Blue,Glen Huntly,No. 2,Mateo Quintana,Hugo Baker,Mateo Quintana,7-5,7,5,1,0,Completed,true,false,false
+AA003071,21 Mar 26,7,BLTC Blue,Glen Huntly,No. 3,Edward Jones,Danielius Buividas,Edward Jones,6-0,6,0,1,0,Completed,true,false,false
+AA003071,21 Mar 26,7,BLTC Blue,Glen Huntly,No. 4,Blake Carson,Joshua Lew,Joshua Lew,2-6,2,6,0,1,Completed,true,false,false
+AA003072,21 Mar 26,7,Coatesville,Maccabi,No. 1,Martin Curnow,Asher Brami,Martin Curnow,7-6,7,6,1,0,Completed,true,false,false
+AA003072,21 Mar 26,7,Coatesville,Maccabi,No. 2,Oscar McCallum,Adam Bigos,Adam Bigos,4-6,4,6,0,1,Completed,true,false,false
+AA003072,21 Mar 26,7,Coatesville,Maccabi,No. 3,Jack Simpson,Tom Appel,Tom Appel,4-6,4,6,0,1,Completed,true,false,false
+AA003072,21 Mar 26,7,Coatesville,Maccabi,No. 4,Thomas Jenner,Aiden Woolf,Aiden Woolf,6-7,6,7,0,1,Completed,true,true,false
+AA003073,21 Mar 26,7,Kings Park,Mentone,No. 1,Cooper Hodge,Jocelyn Ledo,Jocelyn Ledo,1-6,1,6,0,1,Completed,true,false,false
+AA003073,21 Mar 26,7,Kings Park,Mentone,No. 2,Kokoro Bremmell,Andy Koukoumanos,Kokoro Bremmell,6-2,6,2,1,0,Completed,true,false,false
+AA003073,21 Mar 26,7,Kings Park,Mentone,No. 3,Daniel Gao,Madisson Gerente,Daniel Gao,6-2,6,2,1,0,Completed,true,false,false
+AA003073,21 Mar 26,7,Kings Park,Mentone,No. 4,Nemo Yao,Vicki Tiganis,Nemo Yao,6-1,6,1,1,0,Completed,true,false,false
+AA003074,21 Mar 26,7,Royal Ave,BLTC White,No. 1,Charlie Vakrinos,Guillermo Machuca,Guillermo Machuca,6-7,6,7,0,1,Completed,true,false,false
+AA003074,21 Mar 26,7,Royal Ave,BLTC White,No. 2,Jacob Hu,Dean Rosen,Jacob Hu,6-1,6,1,1,0,Completed,true,false,false
+AA003074,21 Mar 26,7,Royal Ave,BLTC White,No. 3,Nick Corbett,Dieter Van Zyl,Nick Corbett,6-3,6,3,1,0,Completed,true,false,false
+AA003074,21 Mar 26,7,Royal Ave,BLTC White,No. 4,Noah Bradley,Conor Moir,Conor Moir,5-7,5,7,0,1,Completed,true,true,false
+AA003081,28 Mar 26,8,BLTC White,BLTC Blue,No. 1,Guillermo Machuca,Victor Lee,Guillermo Machuca,6-2,6,2,1,0,Completed,true,false,false
+AA003081,28 Mar 26,8,BLTC White,BLTC Blue,No. 2,Dean Rosen,Luca Harris,Luca Harris,5-7,5,7,0,1,Completed,true,false,false
+AA003081,28 Mar 26,8,BLTC White,BLTC Blue,No. 3,Lucas Jin,Edward Jones,Edward Jones,3-6,3,6,0,1,Completed,true,false,false
+AA003081,28 Mar 26,8,BLTC White,BLTC Blue,No. 4,Conor Moir,Blake Carson,Conor Moir,6-1,6,1,1,0,Completed,true,false,false
+AA003082,28 Mar 26,8,Mentone,Coatesville,No. 1,Jocelyn Ledo,Martin Curnow,Jocelyn Ledo,6-0,6,0,1,0,Completed,true,false,false
+AA003082,28 Mar 26,8,Mentone,Coatesville,No. 2,Andy Koukoumanos,Hiren Arunkumar,Hiren Arunkumar,2-4,2,4,0,1,Completed,false,false,false
+AA003082,28 Mar 26,8,Mentone,Coatesville,No. 3,Madisson Gerente,Thomas Jenner,Thomas Jenner,0-6,0,6,0,1,Completed,true,false,true
+AA003082,28 Mar 26,8,Mentone,Coatesville,No. 4,Vicki Tiganis,Jimmy Docking,Vicki Tiganis,6-4,6,4,1,0,Completed,true,false,false
+AA003083,28 Mar 26,8,Royal Ave,Glen Huntly,No. 1,Charlie Vakrinos,Oliver Sey,Charlie Vakrinos,6-1,6,1,1,0,Completed,true,false,false
+AA003083,28 Mar 26,8,Royal Ave,Glen Huntly,No. 2,Jacob Hu,Amir Egre,Jacob Hu,6-2,6,2,1,0,Completed,true,false,false
+AA003083,28 Mar 26,8,Royal Ave,Glen Huntly,No. 3,Nick Corbett,Hugo Baker,Hugo Baker,1-6,1,6,0,1,Completed,true,false,false
+AA003083,28 Mar 26,8,Royal Ave,Glen Huntly,No. 4,Noah Bradley,Joshua Lew,Joshua Lew,2-6,2,6,0,1,Completed,true,true,false
+AA003084,28 Mar 26,8,Kings Park,Maccabi,No. 1,Kokoro Bremmell,Adam Bigos,Kokoro Bremmell,6-1,6,1,1,0,Completed,true,false,false
+AA003084,28 Mar 26,8,Kings Park,Maccabi,No. 2,Nemo Yao,Matthew Cashmore,Nemo Yao,7-6,7,6,1,0,Completed,true,false,false
+AA003084,28 Mar 26,8,Kings Park,Maccabi,No. 3,Evelyn Pajovic,Tom Appel,Tom Appel,4-6,4,6,0,1,Completed,true,false,false
+AA003084,28 Mar 26,8,Kings Park,Maccabi,No. 4,Jude Horchner,Aiden Woolf,Jude Horchner,6-1,6,1,1,0,Completed,true,false,false
+AA003091,02 May 26,9,BLTC Blue,Kings Park,No. 1,Victor Lee,Cooper Hodge,Victor Lee,6-2,6,2,1,0,Completed,true,false,false
+AA003091,02 May 26,9,BLTC Blue,Kings Park,No. 2,Luca Harris,Kokoro Bremmell,Luca Harris,6-1,6,1,1,0,Completed,true,false,false
+AA003091,02 May 26,9,BLTC Blue,Kings Park,No. 3,Mateo Quintana,Nemo Yao,Nemo Yao,5-7,5,7,0,1,Completed,true,false,false
+AA003091,02 May 26,9,BLTC Blue,Kings Park,No. 4,Edward Jones,Evelyn Pajovic,Edward Jones,6-0,6,0,1,0,Completed,true,false,false
+AA003092,02 May 26,9,Coatesville,BLTC White,No. 1,Martin Curnow,Dean Rosen,Dean Rosen,3-6,3,6,0,1,Completed,true,false,false
+AA003092,02 May 26,9,Coatesville,BLTC White,No. 2,Jack Simpson,Dieter Van Zyl,Dieter Van Zyl,6-7,6,7,0,1,Completed,true,false,false
+AA003092,02 May 26,9,Coatesville,BLTC White,No. 3,Thomas Jenner,Conor Moir,Thomas Jenner,6-4,6,4,1,0,Completed,true,true,false
+AA003092,02 May 26,9,Coatesville,BLTC White,No. 4,Jimmy Docking,Gregory Pogoriller,Gregory Pogoriller,4-6,4,6,0,1,Completed,true,false,true
+AA003093,02 May 26,9,Glen Huntly,Mentone,No. 1,Oliver Sey,Amira Bird,Amira Bird,3-6,3,6,0,1,Completed,true,false,false
+AA003093,02 May 26,9,Glen Huntly,Mentone,No. 2,Gaby Duieb,Andy Koukoumanos,Gaby Duieb,6-2,6,2,1,0,Completed,true,true,false
+AA003093,02 May 26,9,Glen Huntly,Mentone,No. 3,Danielius Buividas,Madisson Gerente,Danielius Buividas,6-4,6,4,1,0,Completed,true,false,false
+AA003093,02 May 26,9,Glen Huntly,Mentone,No. 4,Joshua Lew,[Unnamed emergency — TROLS AA003093 away code 4],Joshua Lew,6-0,6,0,1,0,Completed,false,false,true
+AA003094,02 May 26,9,Maccabi,Royal Ave,No. 1,Asher Brami,Charlie Vakrinos,Charlie Vakrinos,3-6,3,6,0,1,Completed,true,false,false
+AA003094,02 May 26,9,Maccabi,Royal Ave,No. 2,Matthew Cashmore,Jacob Hu,Jacob Hu,0-6,0,6,0,1,Completed,true,false,false
+AA003094,02 May 26,9,Maccabi,Royal Ave,No. 3,Tom Appel,Vadim Boreut,Tom Appel,6-1,6,1,1,0,Completed,true,false,true
+AA003094,02 May 26,9,Maccabi,Royal Ave,No. 4,Aiden Woolf,Noah Bradley,Noah Bradley,3-6,3,6,0,1,Completed,true,false,true
+AA003101,09 May 26,10,Royal Ave,BLTC Blue,No. 1,Charlie Vakrinos,Victor Lee,Charlie Vakrinos,6-0,6,0,1,0,Completed,true,false,false
+AA003101,09 May 26,10,Royal Ave,BLTC Blue,No. 2,Jacob Hu,Luca Harris,Jacob Hu,6-4,6,4,1,0,Completed,true,false,false
+AA003101,09 May 26,10,Royal Ave,BLTC Blue,No. 3,Sonny Baker,Mateo Quintana,Mateo Quintana,5-7,5,7,0,1,Completed,true,true,false
+AA003101,09 May 26,10,Royal Ave,BLTC Blue,No. 4,Noah Bradley,Edward Jones,Edward Jones,3-6,3,6,0,1,Completed,true,true,false
+AA003102,09 May 26,10,Kings Park,Coatesville,No. 1,Cooper Hodge,Martin Curnow,Cooper Hodge,6-2,6,2,1,0,Completed,true,false,false
+AA003102,09 May 26,10,Kings Park,Coatesville,No. 2,Kokoro Bremmell,Oscar McCallum,Kokoro Bremmell,6-0,6,0,1,0,Completed,true,false,false
+AA003102,09 May 26,10,Kings Park,Coatesville,No. 3,Daniel Gao,Jack Simpson,Jack Simpson,6-7,6,7,0,1,Completed,true,false,false
+AA003102,09 May 26,10,Kings Park,Coatesville,No. 4,Evelyn Pajovic,Thomas Jenner,Evelyn Pajovic,6-1,6,1,1,0,Completed,true,false,true
+AA003111,16 May 26,11,BLTC Blue,Mentone,No. 1,Victor Lee,Jocelyn Ledo,Victor Lee,6-1,6,1,1,0,Completed,true,false,false
+AA003111,16 May 26,11,BLTC Blue,Mentone,No. 2,Mateo Quintana,Andy Koukoumanos,Mateo Quintana,6-1,6,1,1,0,Completed,true,false,false
+AA003111,16 May 26,11,BLTC Blue,Mentone,No. 3,Edward Jones,Madisson Gerente,Edward Jones,6-1,6,1,1,0,Completed,true,false,false
+AA003111,16 May 26,11,BLTC Blue,Mentone,No. 4,Blake Carson,Vicki Tiganis,Blake Carson,6-3,6,3,1,0,Completed,true,false,false
+AA003112,16 May 26,11,Coatesville,Royal Ave,No. 1,Martin Curnow,Charlie Vakrinos,Charlie Vakrinos,1-6,1,6,0,1,Completed,true,false,false
+AA003112,16 May 26,11,Coatesville,Royal Ave,No. 2,Hiren Arunkumar,Sonny Baker,Sonny Baker,2-6,2,6,0,1,Completed,true,false,true
+AA003112,16 May 26,11,Coatesville,Royal Ave,No. 3,Thomas Jenner,Nick Corbett,Thomas Jenner,6-4,6,4,1,0,Completed,true,true,false
+AA003112,16 May 26,11,Coatesville,Royal Ave,No. 4,Jimmy Docking,Noah Bradley,Jimmy Docking,6-1,6,1,1,0,Completed,true,false,true
+AA003113,16 May 26,11,Glen Huntly,Kings Park,No. 1,Amir Egre,Cooper Hodge,Amir Egre,7-5,7,5,1,0,Completed,true,false,false
+AA003113,16 May 26,11,Glen Huntly,Kings Park,No. 2,Hugo Baker,Daniel Gao,Daniel Gao,5-7,5,7,0,1,Completed,true,false,false
+AA003113,16 May 26,11,Glen Huntly,Kings Park,No. 3,Danielius Buividas,Nemo Yao,Danielius Buividas,7-5,7,5,1,0,Completed,true,false,false
+AA003113,16 May 26,11,Glen Huntly,Kings Park,No. 4,Joshua Lew,Jude Horchner,Joshua Lew,6-4,6,4,1,0,Completed,true,false,false
+AA003114,16 May 26,11,Maccabi,BLTC White,No. 1,Asher Brami,Dean Rosen,Dean Rosen,2-6,2,6,0,1,Completed,true,false,false
+AA003114,16 May 26,11,Maccabi,BLTC White,No. 2,Adam Bigos,Dieter Van Zyl,Dieter Van Zyl,1-6,1,6,0,1,Completed,true,false,false
+AA003114,16 May 26,11,Maccabi,BLTC White,No. 3,Matthew Cashmore,Conor Moir,Conor Moir,1-6,1,6,0,1,Completed,true,false,false
+AA003114,16 May 26,11,Maccabi,BLTC White,No. 4,Tom Appel,Gregory Pogoriller,Tom Appel,6-0,6,0,1,0,Completed,true,false,true
+AA003121,23 May 26,12,Maccabi,Glen Huntly,No. 1,Adam Bigos,Amir Egre,Amir Egre,2-6,2,6,0,1,Completed,true,false,false
+AA003121,23 May 26,12,Maccabi,Glen Huntly,No. 2,Matthew Cashmore,Hugo Baker,Hugo Baker,1-6,1,6,0,1,Completed,true,false,false
+AA003121,23 May 26,12,Maccabi,Glen Huntly,No. 3,Tom Appel,Danielius Buividas,Tom Appel,6-1,6,1,1,0,Completed,true,false,false
+AA003121,23 May 26,12,Maccabi,Glen Huntly,No. 4,Aiden Woolf,Joshua Lew,Aiden Woolf,6-3,6,3,1,0,Completed,true,false,false
+AA003122,23 May 26,12,Royal Ave,Kings Park,No. 1,Charlie Vakrinos,Cooper Hodge,Charlie Vakrinos,6-2,6,2,1,0,Completed,true,false,false
+AA003122,23 May 26,12,Royal Ave,Kings Park,No. 2,Jacob Hu,Kokoro Bremmell,Kokoro Bremmell,4-6,4,6,0,1,Completed,true,false,false
+AA003122,23 May 26,12,Royal Ave,Kings Park,No. 3,Nick Corbett,Daniel Gao,Daniel Gao,6-7,6,7,0,1,Completed,true,false,false
+AA003122,23 May 26,12,Royal Ave,Kings Park,No. 4,Noah Bradley,Evelyn Pajovic,Evelyn Pajovic,3-6,3,6,0,1,Completed,true,true,false
+AA003123,23 May 26,12,BLTC White,Mentone,No. 1,Guillermo Machuca,Jocelyn Ledo,Guillermo Machuca,6-4,6,4,1,0,Completed,true,false,false
+AA003123,23 May 26,12,BLTC White,Mentone,No. 2,Dean Rosen,Andy Koukoumanos,Dean Rosen,6-0,6,0,1,0,Completed,true,false,false
+AA003123,23 May 26,12,BLTC White,Mentone,No. 3,Dieter Van Zyl,Madisson Gerente,Dieter Van Zyl,6-1,6,1,1,0,Completed,true,false,false
+AA003123,23 May 26,12,BLTC White,Mentone,No. 4,Lucas Jin,Vicki Tiganis,Lucas Jin,6-2,6,2,1,0,Completed,true,false,false
+AA003124,23 May 26,12,Coatesville,BLTC Blue,No. 1,Martin Curnow,Victor Lee,Victor Lee,1-6,1,6,0,1,Completed,true,false,false
+AA003124,23 May 26,12,Coatesville,BLTC Blue,No. 2,Oscar McCallum,Luca Harris,Luca Harris,4-6,4,6,0,1,Completed,true,false,false
+AA003124,23 May 26,12,Coatesville,BLTC Blue,No. 3,Hiren Arunkumar,Mateo Quintana,Mateo Quintana,1-6,1,6,0,1,Completed,true,false,false
+AA003124,23 May 26,12,Coatesville,BLTC Blue,No. 4,Jimmy Docking,Blake Carson,Blake Carson,2-6,2,6,0,1,Completed,true,false,false
+AA003131,30 May 26,13,Glen Huntly,Coatesville,No. 1,Oliver Sey,Oscar McCallum,Oscar McCallum,4-6,4,6,0,1,Completed,true,false,false
+AA003131,30 May 26,13,Glen Huntly,Coatesville,No. 2,Gaby Duieb,Jack Simpson,Jack Simpson,4-6,4,6,0,1,Completed,true,true,false
+AA003131,30 May 26,13,Glen Huntly,Coatesville,No. 3,Hugo Baker,Hiren Arunkumar,Hugo Baker,6-1,6,1,1,0,Completed,true,false,false
+AA003131,30 May 26,13,Glen Huntly,Coatesville,No. 4,Joshua Lew,Thomas Jenner,Thomas Jenner,4-6,4,6,0,1,Completed,true,false,true
+AA003132,30 May 26,13,BLTC Blue,Maccabi,No. 1,Luca Harris,Asher Brami,Luca Harris,6-2,6,2,1,0,Completed,true,false,false
+AA003132,30 May 26,13,BLTC Blue,Maccabi,No. 2,Mateo Quintana,Adam Bigos,Mateo Quintana,6-3,6,3,1,0,Completed,true,false,false
+AA003132,30 May 26,13,BLTC Blue,Maccabi,No. 3,Edward Jones,Tom Appel,Edward Jones,6-2,6,2,1,0,Completed,true,false,false
+AA003132,30 May 26,13,BLTC Blue,Maccabi,No. 4,Blake Carson,Aiden Woolf,Aiden Woolf,3-6,3,6,0,1,Completed,true,false,false
+AA003133,30 May 26,13,Mentone,Royal Ave,No. 1,Jocelyn Ledo,Charlie Vakrinos,Charlie Vakrinos,0-6,0,6,0,1,Completed,true,false,false
+AA003133,30 May 26,13,Mentone,Royal Ave,No. 2,Amira Bird,Jacob Hu,Jacob Hu,4-6,4,6,0,1,Completed,true,false,false
+AA003133,30 May 26,13,Mentone,Royal Ave,No. 3,Andy Koukoumanos,Sonny Baker,Sonny Baker,5-7,5,7,0,1,Completed,true,false,true
+AA003133,30 May 26,13,Mentone,Royal Ave,No. 4,Phillip Nyamukondiwa,Nick Corbett,Phillip Nyamukondiwa,6-2,6,2,1,0,Completed,true,true,false
+AA003134,30 May 26,13,Kings Park,BLTC White,No. 1,Kokoro Bremmell,Dean Rosen,Dean Rosen,3-6,3,6,0,1,Completed,true,false,false
+AA003134,30 May 26,13,Kings Park,BLTC White,No. 2,Daniel Gao,Dieter Van Zyl,Dieter Van Zyl,4-6,4,6,0,1,Completed,true,false,false
+AA003134,30 May 26,13,Kings Park,BLTC White,No. 3,Nemo Yao,Lucas Jin,Lucas Jin,4-6,4,6,0,1,Completed,true,false,false
+AA003134,30 May 26,13,Kings Park,BLTC White,No. 4,Evelyn Pajovic,Conor Moir,Conor Moir,6-7,6,7,0,1,Completed,true,false,false
+AA003301,,16,BLTC Blue,Kings Park,No. 1,Victor Lee,Cooper Hodge,Victor Lee,6-2,6,2,1,0,Completed,true,false,false
+AA003301,,16,BLTC Blue,Kings Park,No. 2,Luca Harris,Kokoro Bremmell,Luca Harris,6-4,6,4,1,0,Completed,true,false,false
+AA003301,,16,BLTC Blue,Kings Park,No. 3,Mateo Quintana,Evelyn Pajovic,Mateo Quintana,6-3,6,3,1,0,Completed,true,false,false
+AA003301,,16,BLTC Blue,Kings Park,No. 4,Blake Carson,Jude Horchner,Jude Horchner,5-7,5,7,0,1,Completed,true,false,false
+AA003302,,16,BLTC White,Royal Ave,No. 1,Guillermo Machuca,Charlie Vakrinos,Charlie Vakrinos,4-6,4,6,0,1,Completed,true,false,false
+AA003302,,16,BLTC White,Royal Ave,No. 2,Dean Rosen,Jacob Hu,Jacob Hu,3-6,3,6,0,1,Completed,true,false,false
+AA003302,,16,BLTC White,Royal Ave,No. 3,Dieter Van Zyl,Nick Corbett,Dieter Van Zyl,6-3,6,3,1,0,Completed,true,false,false
+AA003302,,16,BLTC White,Royal Ave,No. 4,Lucas Jin,Noah Bradley,Lucas Jin,6-3,6,3,1,0,Completed,true,false,true
+AA003321,,17,BLTC Blue,Royal Ave,No. 1,Victor Lee,Charlie Vakrinos,Victor Lee,6-4,6,4,1,0,Completed,true,false,false
+AA003321,,17,BLTC Blue,Royal Ave,No. 2,Luca Harris,Jacob Hu,Luca Harris,7-6,7,6,1,0,Completed,true,false,false
+AA003321,,17,BLTC Blue,Royal Ave,No. 3,Mateo Quintana,Nick Corbett,Nick Corbett,3-6,3,6,0,1,Completed,true,false,false
+AA003321,,17,BLTC Blue,Royal Ave,No. 4,Edward Jones,Noah Bradley,Edward Jones,6-1,6,1,1,0,Completed,true,false,true

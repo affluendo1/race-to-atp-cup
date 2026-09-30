@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA13-UA003",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2013",
+  "season_id": "UA13",
+  "season_label": "Spring 2013",
+  "source_section_code": "UA003",
+  "section_label": "Section 3",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Bodley Tennis Plus",
+      "wins": 12,
+      "points": 106.5,
+      "percentage": 141.96,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "GPHC",
+      "wins": 10,
+      "points": 92.5,
+      "percentage": 123.51,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Glen Eira Brook",
+      "wins": 8,
+      "points": 82.5,
+      "percentage": 113.74,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 8,
+      "points": 80.5,
+      "percentage": 113.03,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong Scotch",
+      "wins": 5,
+      "points": 62,
+      "percentage": 91.27,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Carmelite",
+      "wins": 5,
+      "points": 58.5,
+      "percentage": 90.16,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Lauriston",
+      "wins": 3,
+      "points": 46.5,
+      "percentage": 79.49,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Beaumaris CC",
+      "wins": 1,
+      "points": 31,
+      "percentage": 67.06,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA13-UA003",
+  "fixtures": 59,
+  "completed_fixtures": 59,
+  "draw_fixtures": 45,
+  "singles_rubbers": 228,
+  "doubles_rubbers": 118,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

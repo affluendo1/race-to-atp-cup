@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA35-UA004",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2024",
+  "season_id": "UA35",
+  "season_label": "Spring 2024",
+  "source_section_code": "UA004",
+  "section_label": "Section 4",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Hurlingham Park Red",
+      "wins": 11,
+      "points": 109,
+      "percentage": 170.04,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Tennis World",
+      "wins": 9,
+      "points": 87,
+      "percentage": 127.72,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Black Rock",
+      "wins": 8,
+      "points": 82,
+      "percentage": 126.55,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Victory Park",
+      "wins": 6,
+      "points": 70,
+      "percentage": 98.47,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "BLTC Blue",
+      "wins": 6,
+      "points": 66,
+      "percentage": 98.62,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Highmoor Uniting",
+      "wins": 6,
+      "points": 66,
+      "percentage": 85.71,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park",
+      "wins": 4,
+      "points": 52,
+      "percentage": 79.83,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Carmelite",
+      "wins": 2,
+      "points": 28,
+      "percentage": 37.65,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA35-UA004",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 59,
+  "singles_rubbers": 208,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

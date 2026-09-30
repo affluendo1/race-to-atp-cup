@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA23-UA015",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2018",
+  "season_id": "UA23",
+  "season_label": "Spring 2018",
+  "source_section_code": "UA015",
+  "section_label": "Section 15",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Clarinda",
+      "wins": 11,
+      "points": 109,
+      "percentage": 164.75,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Pauls",
+      "wins": 8,
+      "points": 88,
+      "percentage": 130.72,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "BLTC",
+      "wins": 6,
+      "points": 75,
+      "percentage": 112.07,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Black Rock",
+      "wins": 7,
+      "points": 72,
+      "percentage": 99.7,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Caulfield Rec",
+      "wins": 6,
+      "points": 69,
+      "percentage": 100.0,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal South Yarra",
+      "wins": 5,
+      "points": 66,
+      "percentage": 84.97,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Hurlingham Park",
+      "wins": 2,
+      "points": 41,
+      "percentage": 68.8,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC",
+      "wins": 2,
+      "points": 40,
+      "percentage": 73.13,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA23-UA015",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 59,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA015302"
+  ]
+}

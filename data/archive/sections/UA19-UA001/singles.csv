@@ -1,0 +1,225 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA001011,17 Jul 16,1,Dendy Park 1,Dendy Park 2,No. 1,Theodore Vlamis,Jameson Clark,Theodore Vlamis,6-2,6,2,1,0,Completed,true,false,false
+UA001011,17 Jul 16,1,Dendy Park 1,Dendy Park 2,No. 2,Tom Dubbeld,Thomas Whitson,Tom Dubbeld,7-5,7,5,1,0,Completed,true,false,false
+UA001011,17 Jul 16,1,Dendy Park 1,Dendy Park 2,No. 3,Sam Bennoun,Ethan Racine,Sam Bennoun,6-3,6,3,1,0,Completed,true,false,false
+UA001011,17 Jul 16,1,Dendy Park 1,Dendy Park 2,No. 4,William McLorinan,Sean Howey,William McLorinan,6-4,6,4,1,0,Completed,true,false,false
+UA001012,17 Jul 16,1,GPHC 1,GPHC 2,No. 1,Nick Leach,James Tarrant,Nick Leach,6-3,6,3,1,0,Completed,true,false,false
+UA001012,17 Jul 16,1,GPHC 1,GPHC 2,No. 2,Oliver Tehan,Max Double,Max Double,6-7,6,7,0,1,Completed,true,false,false
+UA001012,17 Jul 16,1,GPHC 1,GPHC 2,No. 3,Donald Quach,Charlie Zagon-Davies,Charlie Zagon-Davies,2-6,2,6,0,1,Completed,true,false,false
+UA001012,17 Jul 16,1,GPHC 1,GPHC 2,No. 4,Raphael Bleechmore,Alec Gaudin,Alec Gaudin,1-6,1,6,0,1,Completed,true,false,false
+UA001013,17 Jul 16,1,Kooyong,Royal Ave,No. 1,Ryan Smyth,Ethan Holden,Ryan Smyth,6-2,6,2,1,0,Completed,true,false,false
+UA001013,17 Jul 16,1,Kooyong,Royal Ave,No. 2,Nicholas Farmer,Gabi Zafrin,Gabi Zafrin,3-6,3,6,0,1,Completed,true,false,false
+UA001013,17 Jul 16,1,Kooyong,Royal Ave,No. 3,James Fallon,Justin Alway,James Fallon,6-2,6,2,1,0,Completed,true,false,false
+UA001013,17 Jul 16,1,Kooyong,Royal Ave,No. 4,Evan Best,Nate Hollis,Evan Best,6-1,6,1,1,0,Completed,true,false,false
+UA001014,17 Jul 16,1,Beaumaris CC,Coatesville,No. 1,Ben Pease,Nick Supple,Ben Pease,6-3,6,3,1,0,Completed,true,false,false
+UA001014,17 Jul 16,1,Beaumaris CC,Coatesville,No. 2,Lucas Morris,Michael Gershenzen,Michael Gershenzen,0-6,0,6,0,1,Completed,true,false,false
+UA001014,17 Jul 16,1,Beaumaris CC,Coatesville,No. 3,Eliza Morley,James Alevizos,James Alevizos,1-6,1,6,0,1,Completed,true,false,false
+UA001014,17 Jul 16,1,Beaumaris CC,Coatesville,No. 4,Stephanie McLachlan,Hugh Keenan,Stephanie McLachlan,7-6,7,6,1,0,Completed,true,false,false
+UA001021,24 Jul 16,2,Coatesville,Dendy Park 1,No. 1,Nick Supple,Tom Dubbeld,Tom Dubbeld,4-6,4,6,0,1,Completed,true,false,false
+UA001021,24 Jul 16,2,Coatesville,Dendy Park 1,No. 2,James Alevizos,William McLorinan,James Alevizos,6-4,6,4,1,0,Completed,true,false,false
+UA001021,24 Jul 16,2,Coatesville,Dendy Park 1,No. 3,Jonathoan Bong,Dean Metter,Jonathoan Bong,6-3,6,3,1,0,Completed,true,false,false
+UA001021,24 Jul 16,2,Coatesville,Dendy Park 1,No. 4,Hugh Keenan,Adam Pieras,Adam Pieras,1-6,1,6,0,1,Completed,true,false,false
+UA001022,24 Jul 16,2,Dendy Park 2,GPHC 1,No. 1,Thomas Whitson,Nick Leach,Nick Leach,0-6,0,6,0,1,Completed,true,false,false
+UA001022,24 Jul 16,2,Dendy Park 2,GPHC 1,No. 2,Ethan Racine,James Roach,James Roach,3-6,3,6,0,1,Completed,true,false,false
+UA001022,24 Jul 16,2,Dendy Park 2,GPHC 1,No. 3,Christian Sjostrom,[Unnamed player — TROLS UA001022 away code 3],Christian Sjostrom,6-0,6,0,1,0,Completed,false,false,false
+UA001022,24 Jul 16,2,Dendy Park 2,GPHC 1,No. 4,Majella Howey,[Unnamed player — TROLS UA001022 away code 4],Majella Howey,6-0,6,0,1,0,Completed,false,false,false
+UA001023,24 Jul 16,2,GPHC 2,Kooyong,No. 1,James Tarrant,Erik Zhuang,Erik Zhuang,3-6,3,6,0,1,Completed,true,false,false
+UA001023,24 Jul 16,2,GPHC 2,Kooyong,No. 2,Charlie Zagon-Davies,James Fallon,James Fallon,4-6,4,6,0,1,Completed,true,false,false
+UA001023,24 Jul 16,2,GPHC 2,Kooyong,No. 3,Oliver McIntosh,Evan Best,Evan Best,2-6,2,6,0,1,Completed,true,false,false
+UA001023,24 Jul 16,2,GPHC 2,Kooyong,No. 4,Simon Tarrant,Sebastian Sarafian,Sebastian Sarafian,3-6,3,6,0,1,Completed,true,false,false
+UA001024,24 Jul 16,2,Royal Ave,Beaumaris CC,No. 1,Ethan Holden,Ben Pease,Ben Pease,3-6,3,6,0,1,Completed,true,false,false
+UA001024,24 Jul 16,2,Royal Ave,Beaumaris CC,No. 2,Cole Rooney,Lucas Morris,Cole Rooney,6-2,6,2,1,0,Completed,true,false,false
+UA001024,24 Jul 16,2,Royal Ave,Beaumaris CC,No. 3,Gabi Zafrin,Eliza Morley,Gabi Zafrin,6-4,6,4,1,0,Completed,true,false,false
+UA001024,24 Jul 16,2,Royal Ave,Beaumaris CC,No. 4,Justin Alway,Stephanie McLachlan,Stephanie McLachlan,3-6,3,6,0,1,Completed,true,false,false
+UA001031,31 Jul 16,3,Dendy Park 1,Royal Ave,No. 1,Theodore Vlamis,Ethan Holden,Ethan Holden,4-6,4,6,0,1,Completed,true,false,false
+UA001031,31 Jul 16,3,Dendy Park 1,Royal Ave,No. 2,Tom Dubbeld,Gabi Zafrin,Gabi Zafrin,4-6,4,6,0,1,Completed,true,false,false
+UA001031,31 Jul 16,3,Dendy Park 1,Royal Ave,No. 3,Sam Bennoun,Justin Alway,Justin Alway,3-6,3,6,0,1,Completed,true,false,false
+UA001031,31 Jul 16,3,Dendy Park 1,Royal Ave,No. 4,Adam Pieras,Jack Gall,Adam Pieras,6-0,6,0,1,0,Completed,true,false,false
+UA001032,31 Jul 16,3,GPHC 1,Coatesville,No. 1,Nick Leach,Chris Vilsten,Nick Leach,6-3,6,3,1,0,Completed,true,false,false
+UA001032,31 Jul 16,3,GPHC 1,Coatesville,No. 2,James Roach,Michael Gershenzen,James Roach,6-2,6,2,1,0,Completed,true,false,false
+UA001032,31 Jul 16,3,GPHC 1,Coatesville,No. 3,Oliver Tehan,James Alevizos,James Alevizos,6-7,6,7,0,1,Completed,true,false,false
+UA001032,31 Jul 16,3,GPHC 1,Coatesville,No. 4,Donald Quach,Jonathoan Bong,Jonathoan Bong,2-6,2,6,0,1,Completed,true,false,false
+UA001033,31 Jul 16,3,Kooyong,Dendy Park 2,No. 1,Ryan Smyth,Jameson Clark,Ryan Smyth,6-0,6,0,1,0,Completed,true,false,false
+UA001033,31 Jul 16,3,Kooyong,Dendy Park 2,No. 2,Nicholas Farmer,Christian Sjostrom,Christian Sjostrom,6-7,6,7,0,1,Completed,true,false,false
+UA001033,31 Jul 16,3,Kooyong,Dendy Park 2,No. 3,James Fallon,Sean Howey,James Fallon,6-1,6,1,1,0,Completed,true,false,false
+UA001033,31 Jul 16,3,Kooyong,Dendy Park 2,No. 4,Sebastian Sarafian,Majella Howey,Sebastian Sarafian,6-0,6,0,1,0,Completed,true,false,false
+UA001034,31 Jul 16,3,Beaumaris CC,GPHC 2,No. 1,Ben Pease,James Tarrant,Ben Pease,6-4,6,4,1,0,Completed,true,false,false
+UA001034,31 Jul 16,3,Beaumaris CC,GPHC 2,No. 2,Eliza Morley,Max Double,Max Double,1-6,1,6,0,1,Completed,true,false,false
+UA001034,31 Jul 16,3,Beaumaris CC,GPHC 2,No. 3,Stephanie McLachlan,Oliver McIntosh,Oliver McIntosh,6-7,6,7,0,1,Completed,true,false,false
+UA001034,31 Jul 16,3,Beaumaris CC,GPHC 2,No. 4,Nina Schlatter,Simon Tarrant,Simon Tarrant,3-6,3,6,0,1,Completed,true,false,false
+UA001041,07 Aug 16,4,GPHC 2,Dendy Park 1,No. 1,Max Double,Adam Pieras,Adam Pieras,4-6,4,6,0,1,Completed,true,false,false
+UA001041,07 Aug 16,4,GPHC 2,Dendy Park 1,No. 2,Charlie Zagon-Davies,Sam Bennoun,Charlie Zagon-Davies,6-4,6,4,1,0,Completed,true,false,false
+UA001041,07 Aug 16,4,GPHC 2,Dendy Park 1,No. 3,Oliver McIntosh,William McLorinan,William McLorinan,2-6,2,6,0,1,Completed,true,false,false
+UA001041,07 Aug 16,4,GPHC 2,Dendy Park 1,No. 4,Alec Gaudin,Dean Metter,Dean Metter,2-6,2,6,0,1,Completed,true,false,false
+UA001042,07 Aug 16,4,Royal Ave,GPHC 1,No. 1,Ethan Holden,Nick Leach,Nick Leach,1-6,1,6,0,1,Completed,true,false,false
+UA001042,07 Aug 16,4,Royal Ave,GPHC 1,No. 2,Cole Rooney,Oliver Tehan,Oliver Tehan,5-7,5,7,0,1,Completed,true,false,false
+UA001042,07 Aug 16,4,Royal Ave,GPHC 1,No. 3,Gabi Zafrin,Donald Quach,Gabi Zafrin,7-6,7,6,1,0,Completed,true,false,false
+UA001042,07 Aug 16,4,Royal Ave,GPHC 1,No. 4,Justin Alway,Raphael Bleechmore,Justin Alway,7-6,7,6,1,0,Completed,true,false,false
+UA001043,07 Aug 16,4,Coatesville,Kooyong,No. 1,Nick Supple,Ryan Smyth,Nick Supple,6-3,6,3,1,0,Completed,true,false,false
+UA001043,07 Aug 16,4,Coatesville,Kooyong,No. 2,Chris Vilsten,Erik Zhuang,Erik Zhuang,6-7,6,7,0,1,Completed,true,false,false
+UA001043,07 Aug 16,4,Coatesville,Kooyong,No. 3,Jonathoan Bong,Nicholas Farmer,Nicholas Farmer,2-6,2,6,0,1,Completed,true,false,false
+UA001043,07 Aug 16,4,Coatesville,Kooyong,No. 4,Hugh Keenan,Evan Best,Hugh Keenan,6-3,6,3,1,0,Completed,true,false,false
+UA001044,07 Aug 16,4,Dendy Park 2,Beaumaris CC,No. 1,Thomas Whitson,Ben Pease,Ben Pease,1-6,1,6,0,1,Completed,true,false,false
+UA001044,07 Aug 16,4,Dendy Park 2,Beaumaris CC,No. 2,Ethan Racine,Lucas Morris,Ethan Racine,6-2,6,2,1,0,Completed,true,false,false
+UA001044,07 Aug 16,4,Dendy Park 2,Beaumaris CC,No. 3,Christian Sjostrom,Eliza Morley,Eliza Morley,1-6,1,6,0,1,Completed,true,false,false
+UA001044,07 Aug 16,4,Dendy Park 2,Beaumaris CC,No. 4,Sean Howey,Stephanie McLachlan,Stephanie McLachlan,2-6,2,6,0,1,Completed,true,false,false
+UA001051,14 Aug 16,5,Kooyong,Beaumaris CC,No. 1,Nicholas Farmer,Ben Pease,Ben Pease,1-6,1,6,0,1,Completed,true,false,false
+UA001051,14 Aug 16,5,Kooyong,Beaumaris CC,No. 2,James Fallon,Lucas Morris,James Fallon,6-2,6,2,1,0,Completed,true,false,false
+UA001051,14 Aug 16,5,Kooyong,Beaumaris CC,No. 3,Sebastian Sarafian,Stephanie McLachlan,Sebastian Sarafian,6-4,6,4,1,0,Completed,true,false,false
+UA001051,14 Aug 16,5,Kooyong,Beaumaris CC,No. 4,Evan Best,Zali Morris,Zali Morris,4-6,4,6,0,1,Completed,true,false,false
+UA001052,14 Aug 16,5,Coatesville,Royal Ave,No. 1,Nick Supple,Ethan Holden,Ethan Holden,4-6,4,6,0,1,Completed,true,false,false
+UA001052,14 Aug 16,5,Coatesville,Royal Ave,No. 2,Michael Gershenzen,Cole Rooney,Cole Rooney,1-6,1,6,0,1,Completed,true,false,false
+UA001052,14 Aug 16,5,Coatesville,Royal Ave,No. 3,James Alevizos,Gabi Zafrin,James Alevizos,7-5,7,5,1,0,Completed,true,false,false
+UA001052,14 Aug 16,5,Coatesville,Royal Ave,No. 4,Hugh Keenan,Andres Bartlett,Hugh Keenan,7-5,7,5,1,0,Completed,true,false,false
+UA001053,14 Aug 16,5,GPHC 2,Dendy Park 2,No. 1,James Tarrant,Jameson Clark,James Tarrant,6-4,6,4,1,0,Completed,true,false,false
+UA001053,14 Aug 16,5,GPHC 2,Dendy Park 2,No. 2,Max Double,Ethan Racine,Max Double,6-2,6,2,1,0,Completed,true,false,false
+UA001053,14 Aug 16,5,GPHC 2,Dendy Park 2,No. 3,Alec Gaudin,Sean Howey,Alec Gaudin,6-1,6,1,1,0,Completed,true,false,false
+UA001053,14 Aug 16,5,GPHC 2,Dendy Park 2,No. 4,Simon Tarrant,Majella Howey,Simon Tarrant,6-0,6,0,1,0,Completed,true,false,false
+UA001054,14 Aug 16,5,Dendy Park 1,GPHC 1,No. 1,Tom Dubbeld,Nick Leach,Nick Leach,4-6,4,6,0,1,Completed,true,false,false
+UA001054,14 Aug 16,5,Dendy Park 1,GPHC 1,No. 2,Adam Pieras,Oliver Tehan,Adam Pieras,6-4,6,4,1,0,Completed,true,false,false
+UA001054,14 Aug 16,5,Dendy Park 1,GPHC 1,No. 3,William McLorinan,Donald Quach,Donald Quach,1-6,1,6,0,1,Completed,true,false,false
+UA001054,14 Aug 16,5,Dendy Park 1,GPHC 1,No. 4,Dean Metter,Raphael Bleechmore,Raphael Bleechmore,1-6,1,6,0,1,Completed,true,false,false
+UA001061,21 Aug 16,6,GPHC 1,Kooyong,No. 1,Nick Leach,Ryan Smyth,Nick Leach,6-3,6,3,1,0,Completed,true,false,false
+UA001061,21 Aug 16,6,GPHC 1,Kooyong,No. 2,Oliver Tehan,Erik Zhuang,Oliver Tehan,6-2,6,2,1,0,Completed,true,false,false
+UA001061,21 Aug 16,6,GPHC 1,Kooyong,No. 3,Donald Quach,James Fallon,James Fallon,1-6,1,6,0,1,Completed,true,false,false
+UA001061,21 Aug 16,6,GPHC 1,Kooyong,No. 4,Raphael Bleechmore,Sebastian Sarafian,Sebastian Sarafian,6-7,6,7,0,1,Completed,true,false,false
+UA001062,21 Aug 16,6,Beaumaris CC,Dendy Park 1,No. 1,Ben Pease,Theodore Vlamis,Ben Pease,6-2,6,2,1,0,Completed,true,false,false
+UA001062,21 Aug 16,6,Beaumaris CC,Dendy Park 1,No. 2,Lucas Morris,Tom Dubbeld,Tom Dubbeld,2-6,2,6,0,1,Completed,true,false,false
+UA001062,21 Aug 16,6,Beaumaris CC,Dendy Park 1,No. 3,Eliza Morley,Sam Bennoun,Sam Bennoun,0-6,0,6,0,1,Completed,true,false,false
+UA001062,21 Aug 16,6,Beaumaris CC,Dendy Park 1,No. 4,Stephanie McLachlan,William McLorinan,Stephanie McLachlan,7-6,7,6,1,0,Completed,true,false,false
+UA001063,21 Aug 16,6,Royal Ave,GPHC 2,No. 1,Ethan Holden,James Tarrant,James Tarrant,6-7,6,7,0,1,Completed,true,false,false
+UA001063,21 Aug 16,6,Royal Ave,GPHC 2,No. 2,Cole Rooney,Charlie Zagon-Davies,Cole Rooney,6-3,6,3,1,0,Completed,true,false,false
+UA001063,21 Aug 16,6,Royal Ave,GPHC 2,No. 3,Justin Alway,Oliver McIntosh,Oliver McIntosh,3-6,3,6,0,1,Completed,true,false,false
+UA001063,21 Aug 16,6,Royal Ave,GPHC 2,No. 4,Andres Bartlett,Simon Tarrant,Andres Bartlett,7-6,7,6,1,0,Completed,true,false,false
+UA001064,21 Aug 16,6,Dendy Park 2,Coatesville,No. 1,Jameson Clark,Nick Supple,Nick Supple,0-6,0,6,0,1,Completed,true,false,false
+UA001064,21 Aug 16,6,Dendy Park 2,Coatesville,No. 2,Thomas Whitson,Chris Vilsten,Chris Vilsten,0-6,0,6,0,1,Completed,true,false,false
+UA001064,21 Aug 16,6,Dendy Park 2,Coatesville,No. 3,Ethan Racine,James Alevizos,James Alevizos,3-6,3,6,0,1,Completed,true,false,false
+UA001064,21 Aug 16,6,Dendy Park 2,Coatesville,No. 4,Christian Sjostrom,Jonathoan Bong,Jonathoan Bong,1-6,1,6,0,1,Completed,true,false,false
+UA001071,28 Aug 16,7,Dendy Park 1,Kooyong,No. 1,Tom Dubbeld,Erik Zhuang,Erik Zhuang,3-6,3,6,0,1,Completed,true,false,false
+UA001071,28 Aug 16,7,Dendy Park 1,Kooyong,No. 2,Adam Pieras,Nicholas Farmer,Adam Pieras,6-2,6,2,1,0,Completed,true,false,false
+UA001071,28 Aug 16,7,Dendy Park 1,Kooyong,No. 3,Sam Bennoun,Sebastian Sarafian,Sebastian Sarafian,2-6,2,6,0,1,Completed,true,false,false
+UA001071,28 Aug 16,7,Dendy Park 1,Kooyong,No. 4,William McLorinan,Evan Best,William McLorinan,6-2,6,2,1,0,Completed,true,false,false
+UA001072,28 Aug 16,7,GPHC 1,Beaumaris CC,No. 1,Nick Leach,Adriana Noga,Nick Leach,6-0,6,0,1,0,Completed,true,false,false
+UA001072,28 Aug 16,7,GPHC 1,Beaumaris CC,No. 2,James Roach,Lucas Morris,James Roach,6-4,6,4,1,0,Completed,true,false,false
+UA001072,28 Aug 16,7,GPHC 1,Beaumaris CC,No. 3,Oliver Tehan,Samual Browne,Oliver Tehan,6-1,6,1,1,0,Completed,true,false,false
+UA001072,28 Aug 16,7,GPHC 1,Beaumaris CC,No. 4,Donald Quach,Eliza Morley,Donald Quach,7-6,7,6,1,0,Completed,true,false,false
+UA001073,28 Aug 16,7,Coatesville,GPHC 2,No. 1,Nick Supple,James Tarrant,James Tarrant,3-6,3,6,0,1,Completed,true,false,false
+UA001073,28 Aug 16,7,Coatesville,GPHC 2,No. 2,Chris Vilsten,Charlie Zagon-Davies,Charlie Zagon-Davies,5-7,5,7,0,1,Completed,true,false,false
+UA001073,28 Aug 16,7,Coatesville,GPHC 2,No. 3,Jonathoan Bong,Oliver McIntosh,Oliver McIntosh,3-6,3,6,0,1,Completed,true,false,false
+UA001073,28 Aug 16,7,Coatesville,GPHC 2,No. 4,Hugh Keenan,Alec Gaudin,Alec Gaudin,3-6,3,6,0,1,Completed,true,false,false
+UA001074,28 Aug 16,7,Royal Ave,Dendy Park 2,No. 1,Cole Rooney,Jameson Clark,Cole Rooney,6-0,6,0,1,0,Completed,true,false,false
+UA001074,28 Aug 16,7,Royal Ave,Dendy Park 2,No. 2,Gabi Zafrin,Ethan Racine,Ethan Racine,3-6,3,6,0,1,Completed,true,false,false
+UA001074,28 Aug 16,7,Royal Ave,Dendy Park 2,No. 3,Justin Alway,Christian Sjostrom,Christian Sjostrom,4-6,4,6,0,1,Completed,true,false,false
+UA001074,28 Aug 16,7,Royal Ave,Dendy Park 2,No. 4,Andres Bartlett,Majella Howey,Andres Bartlett,6-1,6,1,1,0,Completed,true,false,false
+UA001081,04 Sep 16,8,Dendy Park 2,Dendy Park 1,No. 1,Thomas Whitson,Theodore Vlamis,Theodore Vlamis,2-6,2,6,0,1,Completed,true,false,false
+UA001081,04 Sep 16,8,Dendy Park 2,Dendy Park 1,No. 2,Ethan Racine,Tom Dubbeld,Tom Dubbeld,2-6,2,6,0,1,Completed,true,false,false
+UA001081,04 Sep 16,8,Dendy Park 2,Dendy Park 1,No. 3,Sean Howey,Adam Pieras,Adam Pieras,4-6,4,6,0,1,Completed,true,false,false
+UA001081,04 Sep 16,8,Dendy Park 2,Dendy Park 1,No. 4,Majella Howey,Dean Metter,Dean Metter,0-6,0,6,0,1,Completed,true,false,false
+UA001082,04 Sep 16,8,GPHC 2,GPHC 1,No. 1,James Tarrant,Nick Leach,Nick Leach,2-6,2,6,0,1,Completed,true,false,false
+UA001082,04 Sep 16,8,GPHC 2,GPHC 1,No. 2,Max Double,James Roach,Max Double,6-2,6,2,1,0,Completed,true,false,false
+UA001082,04 Sep 16,8,GPHC 2,GPHC 1,No. 3,Charlie Zagon-Davies,Oliver Tehan,Charlie Zagon-Davies,6-3,6,3,1,0,Completed,true,false,false
+UA001082,04 Sep 16,8,GPHC 2,GPHC 1,No. 4,Simon Tarrant,Donald Quach,Donald Quach,1-6,1,6,0,1,Completed,true,false,false
+UA001083,04 Sep 16,8,Royal Ave,Kooyong,No. 1,Ethan Holden,Ryan Smyth,Ryan Smyth,5-7,5,7,0,1,Completed,true,false,false
+UA001083,04 Sep 16,8,Royal Ave,Kooyong,No. 2,Gabi Zafrin,James Fallon,James Fallon,5-7,5,7,0,1,Completed,true,false,false
+UA001083,04 Sep 16,8,Royal Ave,Kooyong,No. 3,Justin Alway,Sebastian Sarafian,Justin Alway,6-4,6,4,1,0,Completed,true,false,false
+UA001083,04 Sep 16,8,Royal Ave,Kooyong,No. 4,Andres Bartlett,Evan Best,Andres Bartlett,7-6,7,6,1,0,Completed,true,false,false
+UA001084,04 Sep 16,8,Coatesville,Beaumaris CC,No. 1,Nick Supple,Ben Pease,Nick Supple,6-4,6,4,1,0,Completed,true,false,false
+UA001084,04 Sep 16,8,Coatesville,Beaumaris CC,No. 2,Michael Gershenzen,Lucas Morris,Michael Gershenzen,6-0,6,0,1,0,Completed,true,false,false
+UA001084,04 Sep 16,8,Coatesville,Beaumaris CC,No. 3,James Alevizos,Eliza Morley,James Alevizos,6-0,6,0,1,0,Completed,true,false,false
+UA001084,04 Sep 16,8,Coatesville,Beaumaris CC,No. 4,Hugh Keenan,Stephanie McLachlan,Hugh Keenan,6-1,6,1,1,0,Completed,true,false,false
+UA001091,11 Sep 16,9,Dendy Park 1,Coatesville,No. 1,Theodore Vlamis,Nick Supple,Theodore Vlamis,6-3,6,3,1,0,Completed,true,false,false
+UA001091,11 Sep 16,9,Dendy Park 1,Coatesville,No. 2,Adam Pieras,James Alevizos,James Alevizos,3-6,3,6,0,1,Completed,true,false,false
+UA001091,11 Sep 16,9,Dendy Park 1,Coatesville,No. 3,Sam Bennoun,Jonathoan Bong,Jonathoan Bong,3-6,3,6,0,1,Completed,true,false,false
+UA001091,11 Sep 16,9,Dendy Park 1,Coatesville,No. 4,William McLorinan,Hugh Keenan,William McLorinan,6-0,6,0,1,0,Completed,true,false,false
+UA001092,11 Sep 16,9,GPHC 1,Dendy Park 2,No. 1,James Roach,Jameson Clark,James Roach,6-0,6,0,1,0,Completed,true,false,false
+UA001092,11 Sep 16,9,GPHC 1,Dendy Park 2,No. 2,Oliver Tehan,Danaya Malenda,Oliver Tehan,6-3,6,3,1,0,Completed,true,false,false
+UA001092,11 Sep 16,9,GPHC 1,Dendy Park 2,No. 3,Donald Quach,Sean Howey,Donald Quach,6-4,6,4,1,0,Completed,true,false,false
+UA001092,11 Sep 16,9,GPHC 1,Dendy Park 2,No. 4,Raphael Bleechmore,Majella Howey,Raphael Bleechmore,6-1,6,1,1,0,Completed,true,false,false
+UA001093,11 Sep 16,9,Kooyong,GPHC 2,No. 1,Ryan Smyth,James Tarrant,Ryan Smyth,7-5,7,5,1,0,Completed,true,false,false
+UA001093,11 Sep 16,9,Kooyong,GPHC 2,No. 2,Erik Zhuang,Max Double,Max Double,3-6,3,6,0,1,Completed,true,false,false
+UA001093,11 Sep 16,9,Kooyong,GPHC 2,No. 3,Nicholas Farmer,Charlie Zagon-Davies,Charlie Zagon-Davies,6-7,6,7,0,1,Completed,true,false,false
+UA001093,11 Sep 16,9,Kooyong,GPHC 2,No. 4,Sebastian Sarafian,Simon Tarrant,Sebastian Sarafian,6-4,6,4,1,0,Completed,true,false,false
+UA001094,11 Sep 16,9,Beaumaris CC,Royal Ave,No. 1,Ben Pease,Cole Rooney,Ben Pease,6-3,6,3,1,0,Completed,true,false,false
+UA001094,11 Sep 16,9,Beaumaris CC,Royal Ave,No. 2,Lucas Morris,Gabi Zafrin,Gabi Zafrin,3-6,3,6,0,1,Completed,true,false,false
+UA001094,11 Sep 16,9,Beaumaris CC,Royal Ave,No. 3,Stephanie McLachlan,Justin Alway,Justin Alway,0-6,0,6,0,1,Completed,true,false,false
+UA001094,11 Sep 16,9,Beaumaris CC,Royal Ave,No. 4,Nina Schlatter,Andres Bartlett,Andres Bartlett,5-7,5,7,0,1,Completed,true,false,false
+UA001101,09 Oct 16,10,Royal Ave,Dendy Park 1,No. 1,Ethan Holden,Theodore Vlamis,Theodore Vlamis,3-6,3,6,0,1,Completed,true,false,false
+UA001101,09 Oct 16,10,Royal Ave,Dendy Park 1,No. 2,Cole Rooney,Tom Dubbeld,Tom Dubbeld,4-6,4,6,0,1,Completed,true,false,false
+UA001101,09 Oct 16,10,Royal Ave,Dendy Park 1,No. 3,Gabi Zafrin,Adam Pieras,Adam Pieras,3-6,3,6,0,1,Completed,true,false,false
+UA001101,09 Oct 16,10,Royal Ave,Dendy Park 1,No. 4,Justin Alway,William McLorinan,Justin Alway,6-3,6,3,1,0,Completed,true,false,false
+UA001102,09 Oct 16,10,Coatesville,GPHC 1,No. 1,Nick Supple,Oliver Tehan,Oliver Tehan,2-6,2,6,0,1,Completed,true,false,false
+UA001102,09 Oct 16,10,Coatesville,GPHC 1,No. 2,Chris Vilsten,Donald Quach,Chris Vilsten,6-3,6,3,1,0,Completed,true,false,false
+UA001102,09 Oct 16,10,Coatesville,GPHC 1,No. 3,Jonathoan Bong,Raphael Bleechmore,Raphael Bleechmore,2-6,2,6,0,1,Completed,true,false,false
+UA001102,09 Oct 16,10,Coatesville,GPHC 1,No. 4,Hugh Keenan,Jet Wigley,Jet Wigley,5-7,5,7,0,1,Completed,true,false,false
+UA001103,09 Oct 16,10,Dendy Park 2,Kooyong,No. 1,Jameson Clark,Ryan Smyth,Ryan Smyth,0-6,0,6,0,1,Completed,true,false,false
+UA001103,09 Oct 16,10,Dendy Park 2,Kooyong,No. 2,Thomas Whitson,Erik Zhuang,Erik Zhuang,6-7,6,7,0,1,Completed,true,false,false
+UA001103,09 Oct 16,10,Dendy Park 2,Kooyong,No. 3,Ethan Racine,Nicholas Farmer,Ethan Racine,6-1,6,1,1,0,Completed,true,false,false
+UA001103,09 Oct 16,10,Dendy Park 2,Kooyong,No. 4,Sean Howey,Sebastian Sarafian,Sebastian Sarafian,1-6,1,6,0,1,Completed,true,false,false
+UA001104,09 Oct 16,10,GPHC 2,Beaumaris CC,No. 1,James Tarrant,Ben Pease,James Tarrant,6-3,6,3,1,0,Completed,true,false,false
+UA001104,09 Oct 16,10,GPHC 2,Beaumaris CC,No. 2,Max Double,Lucas Morris,Max Double,6-1,6,1,1,0,Completed,true,false,false
+UA001104,09 Oct 16,10,GPHC 2,Beaumaris CC,No. 3,Charlie Zagon-Davies,Eliza Morley,Charlie Zagon-Davies,6-0,6,0,1,0,Completed,true,false,false
+UA001104,09 Oct 16,10,GPHC 2,Beaumaris CC,No. 4,Simon Tarrant,Stephanie McLachlan,Simon Tarrant,6-3,6,3,1,0,Completed,true,false,false
+UA001111,16 Oct 16,11,Dendy Park 1,GPHC 2,No. 1,Theodore Vlamis,James Tarrant,James Tarrant,4-6,4,6,0,1,Completed,true,false,false
+UA001111,16 Oct 16,11,Dendy Park 1,GPHC 2,No. 2,Adam Pieras,Oliver McIntosh,Oliver McIntosh,3-6,3,6,0,1,Completed,true,false,false
+UA001111,16 Oct 16,11,Dendy Park 1,GPHC 2,No. 3,William McLorinan,Simon Tarrant,William McLorinan,6-2,6,2,1,0,Completed,true,false,false
+UA001111,16 Oct 16,11,Dendy Park 1,GPHC 2,No. 4,Dean Metter,Will Pascoe,Will Pascoe,3-6,3,6,0,1,Completed,true,false,false
+UA001112,16 Oct 16,11,GPHC 1,Royal Ave,No. 1,Nick Leach,Ethan Holden,Nick Leach,6-2,6,2,1,0,Completed,true,false,false
+UA001112,16 Oct 16,11,GPHC 1,Royal Ave,No. 2,James Roach,Cole Rooney,Cole Rooney,2-6,2,6,0,1,Completed,true,false,false
+UA001112,16 Oct 16,11,GPHC 1,Royal Ave,No. 3,Oliver Tehan,Gabi Zafrin,Gabi Zafrin,5-7,5,7,0,1,Completed,true,false,false
+UA001112,16 Oct 16,11,GPHC 1,Royal Ave,No. 4,Donald Quach,Andres Bartlett,Andres Bartlett,2-6,2,6,0,1,Completed,true,false,false
+UA001113,16 Oct 16,11,Kooyong,Coatesville,No. 1,Erik Zhuang,Nick Supple,Erik Zhuang,6-1,6,1,1,0,Completed,true,false,false
+UA001113,16 Oct 16,11,Kooyong,Coatesville,No. 2,Nicholas Farmer,James Alevizos,James Alevizos,1-6,1,6,0,1,Completed,true,false,false
+UA001113,16 Oct 16,11,Kooyong,Coatesville,No. 3,James Fallon,Hugh Keenan,James Fallon,6-1,6,1,1,0,Completed,true,false,false
+UA001113,16 Oct 16,11,Kooyong,Coatesville,No. 4,Evan Best,Sam Carter,Evan Best,6-4,6,4,1,0,Completed,true,false,false
+UA001114,16 Oct 16,11,Beaumaris CC,Dendy Park 2,No. 1,Lucas Morris,Thomas Whitson,Thomas Whitson,5-7,5,7,0,1,Completed,true,false,false
+UA001114,16 Oct 16,11,Beaumaris CC,Dendy Park 2,No. 2,Samual Browne,Ethan Racine,Ethan Racine,0-6,0,6,0,1,Completed,true,false,false
+UA001114,16 Oct 16,11,Beaumaris CC,Dendy Park 2,No. 3,Eliza Morley,Christian Sjostrom,Christian Sjostrom,3-6,3,6,0,1,Completed,true,false,false
+UA001114,16 Oct 16,11,Beaumaris CC,Dendy Park 2,No. 4,Stephanie McLachlan,Majella Howey,Stephanie McLachlan,6-2,6,2,1,0,Completed,true,false,false
+UA001121,23 Oct 16,12,Beaumaris CC,Kooyong,No. 1,Ben Pease,Ryan Smyth,Ben Pease,6-1,6,1,1,0,Completed,true,false,false
+UA001121,23 Oct 16,12,Beaumaris CC,Kooyong,No. 2,Samual Browne,James Fallon,James Fallon,2-6,2,6,0,1,Completed,true,false,false
+UA001121,23 Oct 16,12,Beaumaris CC,Kooyong,No. 3,Eliza Morley,Sebastian Sarafian,Sebastian Sarafian,3-6,3,6,0,1,Completed,true,false,false
+UA001121,23 Oct 16,12,Beaumaris CC,Kooyong,No. 4,Stephanie McLachlan,Evan Best,Evan Best,4-6,4,6,0,1,Completed,true,false,false
+UA001122,23 Oct 16,12,Royal Ave,Coatesville,No. 1,Ethan Holden,Nick Supple,Nick Supple,1-6,1,6,0,1,Completed,true,false,false
+UA001122,23 Oct 16,12,Royal Ave,Coatesville,No. 2,Cole Rooney,Chris Vilsten,Cole Rooney,6-4,6,4,1,0,Completed,true,false,false
+UA001122,23 Oct 16,12,Royal Ave,Coatesville,No. 3,Gabi Zafrin,James Alevizos,Gabi Zafrin,7-6,7,6,1,0,Completed,true,false,false
+UA001122,23 Oct 16,12,Royal Ave,Coatesville,No. 4,Justin Alway,Jonathoan Bong,Justin Alway,6-1,6,1,1,0,Completed,true,false,false
+UA001123,23 Oct 16,12,Dendy Park 2,GPHC 2,No. 1,Jameson Clark,James Tarrant,James Tarrant,0-6,0,6,0,1,Completed,true,false,false
+UA001123,23 Oct 16,12,Dendy Park 2,GPHC 2,No. 2,Cooper Gibbs,Max Double,Max Double,2-6,2,6,0,1,Completed,true,false,false
+UA001123,23 Oct 16,12,Dendy Park 2,GPHC 2,No. 3,Sean Howey,Charlie Zagon-Davies,Charlie Zagon-Davies,2-6,2,6,0,1,Completed,true,false,false
+UA001123,23 Oct 16,12,Dendy Park 2,GPHC 2,No. 4,Majella Howey,Oliver McIntosh,Oliver McIntosh,3-6,3,6,0,1,Completed,true,false,false
+UA001131,06 Nov 16,13,Kooyong,GPHC 1,No. 1,Erik Zhuang,Nick Leach,Nick Leach,5-7,5,7,0,1,Completed,true,false,false
+UA001131,06 Nov 16,13,Kooyong,GPHC 1,No. 2,James Fallon,James Roach,James Fallon,6-2,6,2,1,0,Completed,true,false,false
+UA001131,06 Nov 16,13,Kooyong,GPHC 1,No. 3,Sebastian Sarafian,Donald Quach,Sebastian Sarafian,6-3,6,3,1,0,Completed,true,false,false
+UA001131,06 Nov 16,13,Kooyong,GPHC 1,No. 4,Evan Best,Brandon Duan,Evan Best,6-1,6,1,1,0,Completed,true,false,false
+UA001132,06 Nov 16,13,Dendy Park 1,Beaumaris CC,No. 1,Tom Dubbeld,Lucas Morris,Tom Dubbeld,6-2,6,2,1,0,Completed,true,false,false
+UA001132,06 Nov 16,13,Dendy Park 1,Beaumaris CC,No. 2,Sam Bennoun,Samual Browne,Samual Browne,5-7,5,7,0,1,Completed,true,false,false
+UA001132,06 Nov 16,13,Dendy Park 1,Beaumaris CC,No. 3,William McLorinan,Eliza Morley,William McLorinan,6-2,6,2,1,0,Completed,true,false,false
+UA001132,06 Nov 16,13,Dendy Park 1,Beaumaris CC,No. 4,Dean Metter,Stephanie McLachlan,Dean Metter,6-2,6,2,1,0,Completed,true,false,false
+UA001133,06 Nov 16,13,GPHC 2,Royal Ave,No. 1,James Tarrant,Ethan Holden,James Tarrant,6-2,6,2,1,0,Completed,true,false,false
+UA001133,06 Nov 16,13,GPHC 2,Royal Ave,No. 2,Max Double,Gabi Zafrin,Max Double,7-5,7,5,1,0,Completed,true,false,false
+UA001133,06 Nov 16,13,GPHC 2,Royal Ave,No. 3,Charlie Zagon-Davies,Justin Alway,Justin Alway,4-6,4,6,0,1,Completed,true,false,false
+UA001133,06 Nov 16,13,GPHC 2,Royal Ave,No. 4,Simon Tarrant,Andres Bartlett,Andres Bartlett,2-6,2,6,0,1,Completed,true,false,false
+UA001134,06 Nov 16,13,Coatesville,Dendy Park 2,No. 1,Nick Supple,Thomas Whitson,Nick Supple,6-3,6,3,1,0,Completed,true,false,false
+UA001134,06 Nov 16,13,Coatesville,Dendy Park 2,No. 2,Chris Vilsten,Ethan Racine,Chris Vilsten,6-3,6,3,1,0,Completed,true,false,false
+UA001134,06 Nov 16,13,Coatesville,Dendy Park 2,No. 3,Jonathoan Bong,Jameson Clark,Jonathoan Bong,6-0,6,0,1,0,Completed,true,false,false
+UA001134,06 Nov 16,13,Coatesville,Dendy Park 2,No. 4,Hugh Keenan,Sean Howey,Sean Howey,2-6,2,6,0,1,Completed,true,false,false
+UA001141,13 Nov 16,14,Kooyong,Dendy Park 1,No. 1,Erik Zhuang,Tom Dubbeld,Erik Zhuang,6-1,6,1,1,0,Completed,true,false,false
+UA001141,13 Nov 16,14,Kooyong,Dendy Park 1,No. 2,Nicholas Farmer,Sam Bennoun,Nicholas Farmer,6-2,6,2,1,0,Completed,true,false,false
+UA001141,13 Nov 16,14,Kooyong,Dendy Park 1,No. 3,James Fallon,William McLorinan,James Fallon,6-1,6,1,1,0,Completed,true,false,false
+UA001141,13 Nov 16,14,Kooyong,Dendy Park 1,No. 4,Sebastian Sarafian,Dean Metter,Sebastian Sarafian,6-0,6,0,1,0,Completed,true,false,false
+UA001144,13 Nov 16,14,Dendy Park 2,Royal Ave,No. 1,Thomas Whitson,Ethan Holden,Ethan Holden,5-7,5,7,0,1,Completed,true,false,false
+UA001144,13 Nov 16,14,Dendy Park 2,Royal Ave,No. 2,Ethan Racine,Gabi Zafrin,Ethan Racine,6-2,6,2,1,0,Completed,true,false,false
+UA001144,13 Nov 16,14,Dendy Park 2,Royal Ave,No. 3,Jameson Clark,Justin Alway,Justin Alway,0-6,0,6,0,1,Completed,true,false,false
+UA001144,13 Nov 16,14,Dendy Park 2,Royal Ave,No. 4,Majella Howey,Andres Bartlett,Andres Bartlett,1-6,1,6,0,1,Completed,true,false,false
+UA001301,,16,GPHC 2,Dendy Park 1,No. 1,James Tarrant,Theodore Vlamis,James Tarrant,6-0,6,0,1,0,Completed,true,false,false
+UA001301,,16,GPHC 2,Dendy Park 1,No. 2,Max Double,Tom Dubbeld,Tom Dubbeld,2-6,2,6,0,1,Completed,true,false,false
+UA001301,,16,GPHC 2,Dendy Park 1,No. 3,Charlie Zagon-Davies,William McLorinan,Charlie Zagon-Davies,6-4,6,4,1,0,Completed,true,false,false
+UA001301,,16,GPHC 2,Dendy Park 1,No. 4,Oliver McIntosh,Dean Metter,Dean Metter,3-6,3,6,0,1,Completed,true,false,false
+UA001302,,16,Kooyong,GPHC 1,No. 1,Ryan Smyth,Nick Leach,Nick Leach,1-6,1,6,0,1,Completed,true,false,false
+UA001302,,16,Kooyong,GPHC 1,No. 2,Erik Zhuang,James Roach,Erik Zhuang,6-0,6,0,1,0,Completed,true,false,false
+UA001302,,16,Kooyong,GPHC 1,No. 3,James Fallon,Oliver Tehan,Oliver Tehan,4-6,4,6,0,1,Completed,true,false,false
+UA001302,,16,Kooyong,GPHC 1,No. 4,Sebastian Sarafian,Raphael Bleechmore,Raphael Bleechmore,1-6,1,6,0,1,Completed,true,false,false
+UA001321,,17,GPHC 2,GPHC 1,No. 1,James Tarrant,Nick Leach,James Tarrant,6-1,6,1,1,0,Completed,true,false,false
+UA001321,,17,GPHC 2,GPHC 1,No. 2,Max Double,James Roach,James Roach,3-6,3,6,0,1,Completed,true,false,false
+UA001321,,17,GPHC 2,GPHC 1,No. 3,Charlie Zagon-Davies,Oliver Tehan,Oliver Tehan,0-6,0,6,0,1,Completed,true,false,false
+UA001321,,17,GPHC 2,GPHC 1,No. 4,Simon Tarrant,Raphael Bleechmore,Raphael Bleechmore,1-6,1,6,0,1,Completed,true,false,false

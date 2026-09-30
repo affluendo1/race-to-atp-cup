@@ -1,0 +1,77 @@
+{
+  "asset_id": "UA15-UA016",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2014",
+  "season_id": "UA15",
+  "season_label": "Spring 2014",
+  "source_section_code": "UA016",
+  "section_label": "Section 16",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Aspendale",
+      "wins": 10,
+      "points": 106,
+      "percentage": 156.1,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Bodley Tennis Plus",
+      "wins": 9,
+      "points": 95,
+      "percentage": 131.85,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Coatesville",
+      "wins": 8,
+      "points": 92,
+      "percentage": 122.26,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Hurlingham Park",
+      "wins": 9,
+      "points": 91,
+      "percentage": 116.57,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC",
+      "wins": 2,
+      "points": 37,
+      "percentage": 67.2,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Highett",
+      "wins": 2,
+      "points": 29,
+      "percentage": 46.35,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA15-UA016",
+  "fixtures": 46,
+  "completed_fixtures": 41,
+  "draw_fixtures": 57,
+  "singles_rubbers": 164,
+  "doubles_rubbers": 82,
+  "latest_round": 16,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for UA016321"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA8-UA012",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2011",
+  "season_id": "UA8",
+  "season_label": "Autumn 2011",
+  "source_section_code": "UA012",
+  "section_label": "Section 12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Dendy Park 1",
+      "wins": 0,
+      "points": 100.5,
+      "percentage": 166.53,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Victory Park",
+      "wins": 0,
+      "points": 98,
+      "percentage": 122.9,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Mordialloc",
+      "wins": 0,
+      "points": 90.5,
+      "percentage": 138.04,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Dendy Park 2",
+      "wins": 0,
+      "points": 68,
+      "percentage": 92.09,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Murrumbeena",
+      "wins": 0,
+      "points": 62,
+      "percentage": 91.79,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong Xavier",
+      "wins": 0,
+      "points": 61,
+      "percentage": 88.36,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Parkdale",
+      "wins": 0,
+      "points": 43,
+      "percentage": 74.27,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Maccabi",
+      "wins": 0,
+      "points": 37,
+      "percentage": 63.3,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA8-UA012",
+  "fixtures": 59,
+  "completed_fixtures": 53,
+  "draw_fixtures": 45,
+  "singles_rubbers": 207,
+  "doubles_rubbers": 106,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

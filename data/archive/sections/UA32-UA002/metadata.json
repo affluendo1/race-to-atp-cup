@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA32-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2023",
+  "season_id": "UA32",
+  "season_label": "Autumn 2023",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC White",
+      "wins": 8,
+      "points": 91,
+      "percentage": 160.0,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Victory Park",
+      "wins": 8,
+      "points": 85,
+      "percentage": 122.78,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Mordialloc",
+      "wins": 7,
+      "points": 76,
+      "percentage": 108.75,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Royal South Yarra Navy",
+      "wins": 5,
+      "points": 69,
+      "percentage": 104.6,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "Coatesville",
+      "wins": 4,
+      "points": 61,
+      "percentage": 105.79,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong",
+      "wins": 5,
+      "points": 60,
+      "percentage": 95.17,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Mentone",
+      "wins": 2,
+      "points": 49,
+      "percentage": 84.15,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Dendy Park",
+      "wins": 0,
+      "points": 29,
+      "percentage": 50.15,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA32-UA002",
+  "fixtures": 55,
+  "completed_fixtures": 42,
+  "draw_fixtures": 59,
+  "singles_rubbers": 167,
+  "doubles_rubbers": 84,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA14-UA003",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2014",
+  "season_id": "UA14",
+  "season_label": "Autumn 2014",
+  "source_section_code": "UA003",
+  "section_label": "Section 3",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Le Page",
+      "wins": 12,
+      "points": 124,
+      "percentage": 270.97,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Parkdale",
+      "wins": 10,
+      "points": 98,
+      "percentage": 139.44,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Kooyong",
+      "wins": 9,
+      "points": 89,
+      "percentage": 125.18,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Carmelite",
+      "wins": 6,
+      "points": 70,
+      "percentage": 98.24,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong Scotch 1",
+      "wins": 4,
+      "points": 54,
+      "percentage": 80.61,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Tennis World",
+      "wins": 3,
+      "points": 50,
+      "percentage": 80.76,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra",
+      "wins": 3,
+      "points": 46,
+      "percentage": 65.13,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kooyong Scotch 2",
+      "wins": 1,
+      "points": 29,
+      "percentage": 58.62,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA14-UA003",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 45,
+  "singles_rubbers": 206,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

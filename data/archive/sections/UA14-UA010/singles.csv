@@ -1,0 +1,215 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA010011,02 Feb 14,1,Royal South Yarra,Maccabi,No. 1,Sophie Joubert,Marty Schwarz,Marty Schwarz,1-6,1,6,0,1,Completed,true,false,false
+UA010011,02 Feb 14,1,Royal South Yarra,Maccabi,No. 2,Lucy Roper,Moshe Wajsbort,Lucy Roper,7-5,7,5,1,0,Completed,true,false,false
+UA010011,02 Feb 14,1,Royal South Yarra,Maccabi,No. 3,Will Hornor,Jordan Joffe,Jordan Joffe,1-6,1,6,0,1,Completed,true,false,false
+UA010011,02 Feb 14,1,Royal South Yarra,Maccabi,No. 4,Bill Cameron,Ivan Zulman,Bill Cameron,6-2,6,2,1,0,Completed,true,false,false
+UA010012,02 Feb 14,1,Murrumbeena,Lauriston,No. 1,Wyatt Bicknell,Kyle Howden,Wyatt Bicknell,6-1,6,1,1,0,Completed,true,false,false
+UA010012,02 Feb 14,1,Murrumbeena,Lauriston,No. 2,Madeiline Serle,Brooklyn Giacometti,Madeiline Serle,6-1,6,1,1,0,Completed,true,false,false
+UA010012,02 Feb 14,1,Murrumbeena,Lauriston,No. 3,Mia Pisano,Demeke Durant,Demeke Durant,1-6,1,6,0,1,Completed,true,false,false
+UA010012,02 Feb 14,1,Murrumbeena,Lauriston,No. 4,Chloe Papas,Alex Tritt,Alex Tritt,3-6,3,6,0,1,Completed,true,false,false
+UA010013,02 Feb 14,1,Kooyong St Kevin's,Glen Eira Brook,No. 1,Anthony James,Jared Want,Jared Want,0-6,0,6,0,1,Completed,true,false,false
+UA010013,02 Feb 14,1,Kooyong St Kevin's,Glen Eira Brook,No. 2,Seamus Synnott,Jeremy Beresh,Seamus Synnott,6-4,6,4,1,0,Completed,true,false,false
+UA010013,02 Feb 14,1,Kooyong St Kevin's,Glen Eira Brook,No. 3,Linus Wraith-Bell,Jedd Zetzer,Linus Wraith-Bell,6-3,6,3,1,0,Completed,true,false,false
+UA010013,02 Feb 14,1,Kooyong St Kevin's,Glen Eira Brook,No. 4,Patrick Wraith-Bell,Nick Monterosso,Patrick Wraith-Bell,6-2,6,2,1,0,Completed,true,false,false
+UA010014,02 Feb 14,1,GPHC,Carmelite,No. 1,Alistair Scott,Ella Pinto,Alistair Scott,7-6,7,6,1,0,Completed,true,false,false
+UA010014,02 Feb 14,1,GPHC,Carmelite,No. 2,Ethan Amalfi,Stella Barker,Ethan Amalfi,6-0,6,0,1,0,Completed,true,false,false
+UA010014,02 Feb 14,1,GPHC,Carmelite,No. 3,Jack Fuller,Georgia Plant,Georgia Plant,1-6,1,6,0,1,Completed,true,false,false
+UA010014,02 Feb 14,1,GPHC,Carmelite,No. 4,Alec Gaudin,Anders Costelloe,Alec Gaudin,6-1,6,1,1,0,Completed,true,false,false
+UA010021,09 Feb 14,2,Carmelite,Royal South Yarra,No. 1,Ella Pinto,Bill Cameron,Ella Pinto,6-0,6,0,1,0,Completed,true,false,false
+UA010021,09 Feb 14,2,Carmelite,Royal South Yarra,No. 2,Anders Costelloe,Josie Happell,Anders Costelloe,6-0,6,0,1,0,Completed,true,false,false
+UA010022,09 Feb 14,2,Maccabi,Murrumbeena,No. 1,Moshe Wajsbort,Wyatt Bicknell,Wyatt Bicknell,2-6,2,6,0,1,Completed,true,false,false
+UA010022,09 Feb 14,2,Maccabi,Murrumbeena,No. 2,Jordan Joffe,Madeiline Serle,Jordan Joffe,6-0,6,0,1,0,Completed,true,false,false
+UA010022,09 Feb 14,2,Maccabi,Murrumbeena,No. 3,Edward Lichtig,Mia Pisano,Edward Lichtig,6-4,6,4,1,0,Completed,true,false,false
+UA010022,09 Feb 14,2,Maccabi,Murrumbeena,No. 4,Ivan Zulman,Chloe Papas,Chloe Papas,4-6,4,6,0,1,Completed,true,false,false
+UA010023,09 Feb 14,2,Lauriston,Kooyong St Kevin's,No. 1,Linus Cheung,Anthony James,Linus Cheung,6-3,6,3,1,0,Completed,true,false,false
+UA010023,09 Feb 14,2,Lauriston,Kooyong St Kevin's,No. 2,Brooklyn Giacometti,Seamus Synnott,Seamus Synnott,5-7,5,7,0,1,Completed,true,false,false
+UA010023,09 Feb 14,2,Lauriston,Kooyong St Kevin's,No. 3,Emma Yue,Phillip Mann-Segal,Emma Yue,6-3,6,3,1,0,Completed,true,false,false
+UA010023,09 Feb 14,2,Lauriston,Kooyong St Kevin's,No. 4,Alex Tritt,Mia Geason,Alex Tritt,4-2,4,2,1,0,Completed,false,false,false
+UA010024,09 Feb 14,2,Glen Eira Brook,GPHC,No. 1,Jared Want,Alistair Scott,Jared Want,6-1,6,1,1,0,Completed,true,false,false
+UA010024,09 Feb 14,2,Glen Eira Brook,GPHC,No. 2,Jedd Zetzer,Jack Fuller,Jedd Zetzer,7-6,7,6,1,0,Completed,true,false,false
+UA010024,09 Feb 14,2,Glen Eira Brook,GPHC,No. 3,Joey Schonker,Andrew Wong,Joey Schonker,6-4,6,4,1,0,Completed,true,false,false
+UA010024,09 Feb 14,2,Glen Eira Brook,GPHC,No. 4,Nick Monterosso,Alex Siouthas,Alex Siouthas,3-6,3,6,0,1,Completed,true,false,false
+UA010032,16 Feb 14,3,Murrumbeena,Carmelite,No. 1,Wyatt Bicknell,Ella Pinto,Wyatt Bicknell,6-1,6,1,1,0,Completed,true,false,false
+UA010032,16 Feb 14,3,Murrumbeena,Carmelite,No. 2,Hannah Pisano,Stella Barker,Hannah Pisano,7-6,7,6,1,0,Completed,true,false,false
+UA010032,16 Feb 14,3,Murrumbeena,Carmelite,No. 3,Madeiline Serle,Georgia Plant,Madeiline Serle,6-3,6,3,1,0,Completed,true,false,false
+UA010032,16 Feb 14,3,Murrumbeena,Carmelite,No. 4,Mia Pisano,Anders Costelloe,Mia Pisano,7-6,7,6,1,0,Completed,true,false,false
+UA010041,23 Feb 14,4,Lauriston,Royal South Yarra,No. 1,Kyle Howden,Annabel Joubert,Kyle Howden,7-5,7,5,1,0,Completed,true,false,false
+UA010041,23 Feb 14,4,Lauriston,Royal South Yarra,No. 2,Brooklyn Giacometti,Mimi Holmes,Brooklyn Giacometti,6-2,6,2,1,0,Completed,true,false,false
+UA010041,23 Feb 14,4,Lauriston,Royal South Yarra,No. 3,Demeke Durant,James Ashley,Demeke Durant,6-0,6,0,1,0,Completed,true,false,false
+UA010041,23 Feb 14,4,Lauriston,Royal South Yarra,No. 4,Alex Tritt,Josie Happell,Josie Happell,2-6,2,6,0,1,Completed,true,false,false
+UA010042,23 Feb 14,4,Glen Eira Brook,Murrumbeena,No. 1,Jared Want,Hannah Pisano,Jared Want,6-2,6,2,1,0,Completed,true,false,false
+UA010042,23 Feb 14,4,Glen Eira Brook,Murrumbeena,No. 2,Evan Best,Madeiline Serle,Evan Best,6-3,6,3,1,0,Completed,true,false,false
+UA010042,23 Feb 14,4,Glen Eira Brook,Murrumbeena,No. 3,Jeremy Beresh,Mia Pisano,Jeremy Beresh,6-0,6,0,1,0,Completed,true,false,false
+UA010042,23 Feb 14,4,Glen Eira Brook,Murrumbeena,No. 4,Joey Schonker,Chloe Papas,Chloe Papas,4-6,4,6,0,1,Completed,true,false,false
+UA010043,23 Feb 14,4,Carmelite,Kooyong St Kevin's,No. 1,Ella Pinto,Anthony James,Anthony James,2-6,2,6,0,1,Completed,true,false,false
+UA010043,23 Feb 14,4,Carmelite,Kooyong St Kevin's,No. 2,Stella Barker,Linus Wraith-Bell,Linus Wraith-Bell,6-7,6,7,0,1,Completed,true,false,false
+UA010043,23 Feb 14,4,Carmelite,Kooyong St Kevin's,No. 3,Georgia Plant,Patrick Wraith-Bell,Patrick Wraith-Bell,2-6,2,6,0,1,Completed,true,false,false
+UA010043,23 Feb 14,4,Carmelite,Kooyong St Kevin's,No. 4,Noah Jensz,Mia Geason,Noah Jensz,6-1,6,1,1,0,Completed,true,false,false
+UA010044,23 Feb 14,4,Maccabi,GPHC,No. 1,Marty Schwarz,Alistair Scott,Marty Schwarz,6-0,6,0,1,0,Completed,true,false,false
+UA010044,23 Feb 14,4,Maccabi,GPHC,No. 2,Moshe Wajsbort,Jack Fuller,Moshe Wajsbort,6-2,6,2,1,0,Completed,true,false,false
+UA010044,23 Feb 14,4,Maccabi,GPHC,No. 3,Jordan Joffe,Alec Gaudin,Jordan Joffe,6-2,6,2,1,0,Completed,true,false,false
+UA010044,23 Feb 14,4,Maccabi,GPHC,No. 4,Ivan Zulman,Alex Siouthas,Alex Siouthas,1-6,1,6,0,1,Completed,true,false,false
+UA010051,02 Mar 14,5,Kooyong St Kevin's,GPHC,No. 1,Linus Wraith-Bell,Alistair Scott,Linus Wraith-Bell,6-3,6,3,1,0,Completed,true,false,false
+UA010051,02 Mar 14,5,Kooyong St Kevin's,GPHC,No. 2,Phillip Mann-Segal,Ethan Amalfi,Ethan Amalfi,4-6,4,6,0,1,Completed,true,false,false
+UA010051,02 Mar 14,5,Kooyong St Kevin's,GPHC,No. 3,Patrick Wraith-Bell,Alec Gaudin,Patrick Wraith-Bell,7-5,7,5,1,0,Completed,true,false,false
+UA010051,02 Mar 14,5,Kooyong St Kevin's,GPHC,No. 4,Mia Geason,Alex Siouthas,Alex Siouthas,0-6,0,6,0,1,Completed,true,false,false
+UA010052,02 Mar 14,5,Carmelite,Glen Eira Brook,No. 1,Ella Pinto,Jared Want,Jared Want,2-6,2,6,0,1,Completed,true,false,false
+UA010052,02 Mar 14,5,Carmelite,Glen Eira Brook,No. 2,Stella Barker,Evan Best,Evan Best,0-6,0,6,0,1,Completed,true,false,false
+UA010052,02 Mar 14,5,Carmelite,Glen Eira Brook,No. 3,Noah Jensz,Jeremy Beresh,Noah Jensz,6-3,6,3,1,0,Completed,true,false,false
+UA010052,02 Mar 14,5,Carmelite,Glen Eira Brook,No. 4,Saskia Gunner,Nick Monterosso,Nick Monterosso,4-6,4,6,0,1,Completed,true,false,false
+UA010053,02 Mar 14,5,Lauriston,Maccabi,No. 1,Kyle Howden,Marty Schwarz,Marty Schwarz,0-6,0,6,0,1,Completed,true,false,false
+UA010053,02 Mar 14,5,Lauriston,Maccabi,No. 2,Linus Cheung,Jordan Joffe,Jordan Joffe,5-7,5,7,0,1,Completed,true,false,false
+UA010053,02 Mar 14,5,Lauriston,Maccabi,No. 3,Emma Yue,Edward Lichtig,Edward Lichtig,6-7,6,7,0,1,Completed,true,false,false
+UA010053,02 Mar 14,5,Lauriston,Maccabi,No. 4,Alex Tritt,Josh Unger,Alex Tritt,6-3,6,3,1,0,Completed,true,false,false
+UA010054,02 Mar 14,5,Royal South Yarra,Murrumbeena,No. 1,Annabel Joubert,Wyatt Bicknell,Wyatt Bicknell,1-6,1,6,0,1,Completed,true,false,false
+UA010054,02 Mar 14,5,Royal South Yarra,Murrumbeena,No. 2,Josie Happell,Hannah Pisano,Hannah Pisano,2-6,2,6,0,1,Completed,true,false,false
+UA010054,02 Mar 14,5,Royal South Yarra,Murrumbeena,No. 3,Will Hornor,Chloe Papas,Chloe Papas,4-6,4,6,0,1,Completed,true,false,false
+UA010054,02 Mar 14,5,Royal South Yarra,Murrumbeena,No. 4,Bill Cameron,Sienna Pisano,Bill Cameron,6-1,6,1,1,0,Completed,true,false,false
+UA010061,16 Mar 14,6,Murrumbeena,Kooyong St Kevin's,No. 1,Wyatt Bicknell,Anthony James,Wyatt Bicknell,6-1,6,1,1,0,Completed,true,false,false
+UA010061,16 Mar 14,6,Murrumbeena,Kooyong St Kevin's,No. 2,Hannah Pisano,Linus Wraith-Bell,Hannah Pisano,7-6,7,6,1,0,Completed,true,false,false
+UA010061,16 Mar 14,6,Murrumbeena,Kooyong St Kevin's,No. 3,Harry Parncutt,Patrick Wraith-Bell,Patrick Wraith-Bell,3-6,3,6,0,1,Completed,true,false,false
+UA010061,16 Mar 14,6,Murrumbeena,Kooyong St Kevin's,No. 4,Michael Barcham,Mia Geason,Mia Geason,5-7,5,7,0,1,Completed,true,false,false
+UA010062,16 Mar 14,6,GPHC,Royal South Yarra,No. 1,Alistair Scott,Mimi Holmes,Alistair Scott,6-0,6,0,1,0,Completed,true,false,false
+UA010062,16 Mar 14,6,GPHC,Royal South Yarra,No. 2,Jack Fuller,Josie Happell,Jack Fuller,6-3,6,3,1,0,Completed,true,false,false
+UA010062,16 Mar 14,6,GPHC,Royal South Yarra,No. 3,Alec Gaudin,Will Hornor,Alec Gaudin,6-1,6,1,1,0,Completed,true,false,false
+UA010062,16 Mar 14,6,GPHC,Royal South Yarra,No. 4,Andrew Wong,Bill Cameron,Bill Cameron,1-6,1,6,0,1,Completed,true,false,false
+UA010063,16 Mar 14,6,Glen Eira Brook,Lauriston,No. 1,Evan Best,Linus Cheung,Evan Best,6-4,6,4,1,0,Completed,true,false,false
+UA010063,16 Mar 14,6,Glen Eira Brook,Lauriston,No. 2,Jeremy Beresh,Brooklyn Giacometti,Jeremy Beresh,6-2,6,2,1,0,Completed,true,false,false
+UA010063,16 Mar 14,6,Glen Eira Brook,Lauriston,No. 3,Jedd Zetzer,Demeke Durant,Demeke Durant,4-6,4,6,0,1,Completed,true,false,false
+UA010063,16 Mar 14,6,Glen Eira Brook,Lauriston,No. 4,Nick Monterosso,Emma Yue,Emma Yue,3-6,3,6,0,1,Completed,true,false,false
+UA010064,16 Mar 14,6,Maccabi,Carmelite,No. 1,Marty Schwarz,Stella Barker,Marty Schwarz,6-1,6,1,1,0,Completed,true,false,false
+UA010064,16 Mar 14,6,Maccabi,Carmelite,No. 2,Jordan Joffe,Noah Jensz,Jordan Joffe,6-2,6,2,1,0,Completed,true,false,false
+UA010064,16 Mar 14,6,Maccabi,Carmelite,No. 3,Josh Unger,Georgia Plant,Georgia Plant,4-6,4,6,0,1,Completed,true,false,false
+UA010064,16 Mar 14,6,Maccabi,Carmelite,No. 4,Josh Gelb,Anders Costelloe,Josh Gelb,6-0,6,0,1,0,Completed,true,false,false
+UA010071,23 Mar 14,7,Royal South Yarra,Kooyong St Kevin's,No. 1,Annabel Joubert,Seamus Synnott,Annabel Joubert,6-3,6,3,1,0,Completed,true,false,false
+UA010071,23 Mar 14,7,Royal South Yarra,Kooyong St Kevin's,No. 2,Isobel McFarlane,Linus Wraith-Bell,Linus Wraith-Bell,4-6,4,6,0,1,Completed,true,false,false
+UA010071,23 Mar 14,7,Royal South Yarra,Kooyong St Kevin's,No. 3,James Ashley,Phillip Mann-Segal,Phillip Mann-Segal,4-6,4,6,0,1,Completed,true,false,false
+UA010071,23 Mar 14,7,Royal South Yarra,Kooyong St Kevin's,No. 4,Will Hornor,Patrick Wraith-Bell,Patrick Wraith-Bell,3-6,3,6,0,1,Completed,true,false,false
+UA010072,23 Mar 14,7,Murrumbeena,GPHC,No. 1,Wyatt Bicknell,Alistair Scott,Wyatt Bicknell,6-4,6,4,1,0,Completed,true,false,false
+UA010072,23 Mar 14,7,Murrumbeena,GPHC,No. 2,Hannah Pisano,Ethan Amalfi,Hannah Pisano,7-6,7,6,1,0,Completed,true,false,false
+UA010072,23 Mar 14,7,Murrumbeena,GPHC,No. 3,Madeiline Serle,Andrew Wong,Andrew Wong,1-6,1,6,0,1,Completed,true,false,false
+UA010072,23 Mar 14,7,Murrumbeena,GPHC,No. 4,Chloe Papas,Alex Siouthas,Alex Siouthas,2-6,2,6,0,1,Completed,true,false,false
+UA010073,23 Mar 14,7,Carmelite,Lauriston,No. 1,Ella Pinto,Kyle Howden,Kyle Howden,6-7,6,7,0,1,Completed,true,false,false
+UA010073,23 Mar 14,7,Carmelite,Lauriston,No. 2,Georgia Plant,Brooklyn Giacometti,Brooklyn Giacometti,3-6,3,6,0,1,Completed,true,false,false
+UA010073,23 Mar 14,7,Carmelite,Lauriston,No. 3,Noah Jensz,Emma Yue,Noah Jensz,6-0,6,0,1,0,Completed,true,false,false
+UA010073,23 Mar 14,7,Carmelite,Lauriston,No. 4,Saskia Gunner,Alex Tritt,Alex Tritt,3-6,3,6,0,1,Completed,true,false,false
+UA010074,23 Mar 14,7,Glen Eira Brook,Maccabi,No. 1,Jared Want,Moshe Wajsbort,Jared Want,6-1,6,1,1,0,Completed,true,false,false
+UA010074,23 Mar 14,7,Glen Eira Brook,Maccabi,No. 2,Jeremy Beresh,Edward Lichtig,Jeremy Beresh,6-0,6,0,1,0,Completed,true,false,false
+UA010074,23 Mar 14,7,Glen Eira Brook,Maccabi,No. 3,Jedd Zetzer,Ivan Zulman,Ivan Zulman,1-6,1,6,0,1,Completed,true,false,false
+UA010074,23 Mar 14,7,Glen Eira Brook,Maccabi,No. 4,Joey Schonker,Josh Unger,Josh Unger,5-7,5,7,0,1,Completed,true,false,false
+UA010081,30 Mar 14,8,Maccabi,Royal South Yarra,No. 1,Moshe Wajsbort,Annabel Joubert,Moshe Wajsbort,7-5,7,5,1,0,Completed,true,false,false
+UA010081,30 Mar 14,8,Maccabi,Royal South Yarra,No. 2,Jordan Joffe,Mimi Holmes,Jordan Joffe,6-1,6,1,1,0,Completed,true,false,false
+UA010081,30 Mar 14,8,Maccabi,Royal South Yarra,No. 3,Ivan Zulman,Bill Cameron,Bill Cameron,0-6,0,6,0,1,Completed,true,false,false
+UA010081,30 Mar 14,8,Maccabi,Royal South Yarra,No. 4,Josh Unger,Sophie Joubert,Sophie Joubert,4-6,4,6,0,1,Completed,true,false,false
+UA010082,30 Mar 14,8,Lauriston,Murrumbeena,No. 1,Kyle Howden,Hannah Pisano,Hannah Pisano,4-6,4,6,0,1,Completed,true,false,false
+UA010082,30 Mar 14,8,Lauriston,Murrumbeena,No. 2,Linus Cheung,Mia Pisano,Linus Cheung,6-4,6,4,1,0,Completed,true,false,false
+UA010082,30 Mar 14,8,Lauriston,Murrumbeena,No. 3,Brooklyn Giacometti,Chloe Papas,Chloe Papas,4-6,4,6,0,1,Completed,true,false,false
+UA010082,30 Mar 14,8,Lauriston,Murrumbeena,No. 4,Alex Tritt,Nicola Maltman,Alex Tritt,6-1,6,1,1,0,Completed,true,false,false
+UA010083,30 Mar 14,8,Glen Eira Brook,Kooyong St Kevin's,No. 1,Jared Want,Anthony James,Jared Want,7-6,7,6,1,0,Completed,true,false,false
+UA010083,30 Mar 14,8,Glen Eira Brook,Kooyong St Kevin's,No. 2,Evan Best,Seamus Synnott,Evan Best,7-6,7,6,1,0,Completed,true,false,false
+UA010083,30 Mar 14,8,Glen Eira Brook,Kooyong St Kevin's,No. 3,Joey Schonker,Phillip Mann-Segal,Phillip Mann-Segal,6-7,6,7,0,1,Completed,true,false,false
+UA010083,30 Mar 14,8,Glen Eira Brook,Kooyong St Kevin's,No. 4,Nick Monterosso,Patrick Wraith-Bell,Patrick Wraith-Bell,5-7,5,7,0,1,Completed,true,false,false
+UA010084,30 Mar 14,8,Carmelite,GPHC,No. 1,Ella Pinto,Ethan Amalfi,Ethan Amalfi,4-6,4,6,0,1,Completed,true,false,false
+UA010084,30 Mar 14,8,Carmelite,GPHC,No. 2,Stella Barker,Jack Fuller,Stella Barker,6-4,6,4,1,0,Completed,true,false,false
+UA010084,30 Mar 14,8,Carmelite,GPHC,No. 3,Georgia Plant,Alec Gaudin,Alec Gaudin,3-6,3,6,0,1,Completed,true,false,false
+UA010084,30 Mar 14,8,Carmelite,GPHC,No. 4,Anders Costelloe,Andrew Wong,Andrew Wong,2-6,2,6,0,1,Completed,true,false,false
+UA010091,27 Apr 14,9,Royal South Yarra,Carmelite,No. 1,Annabel Joubert,Ella Pinto,Annabel Joubert,6-0,6,0,1,0,Completed,true,false,false
+UA010091,27 Apr 14,9,Royal South Yarra,Carmelite,No. 2,Mimi Holmes,Georgia Plant,Mimi Holmes,6-4,6,4,1,0,Completed,true,false,false
+UA010091,27 Apr 14,9,Royal South Yarra,Carmelite,No. 3,Josie Happell,Anders Costelloe,Josie Happell,6-2,6,2,1,0,Completed,true,false,false
+UA010091,27 Apr 14,9,Royal South Yarra,Carmelite,No. 4,Bill Cameron,Noah Jensz,Bill Cameron,6-4,6,4,1,0,Completed,true,false,false
+UA010092,27 Apr 14,9,Murrumbeena,Maccabi,No. 1,Wyatt Bicknell,Marty Schwarz,Wyatt Bicknell,7-6,7,6,1,0,Completed,true,false,false
+UA010092,27 Apr 14,9,Murrumbeena,Maccabi,No. 2,Hannah Pisano,Moshe Wajsbort,Hannah Pisano,6-4,6,4,1,0,Completed,true,false,false
+UA010092,27 Apr 14,9,Murrumbeena,Maccabi,No. 3,Madeiline Serle,Jordan Joffe,Jordan Joffe,0-6,0,6,0,1,Completed,true,false,false
+UA010092,27 Apr 14,9,Murrumbeena,Maccabi,No. 4,Chloe Papas,Ivan Zulman,Ivan Zulman,5-7,5,7,0,1,Completed,true,false,false
+UA010093,27 Apr 14,9,Kooyong St Kevin's,Lauriston,No. 1,Seamus Synnott,Kyle Howden,Kyle Howden,2-6,2,6,0,1,Completed,true,false,false
+UA010093,27 Apr 14,9,Kooyong St Kevin's,Lauriston,No. 2,Linus Wraith-Bell,Linus Cheung,Linus Wraith-Bell,6-4,6,4,1,0,Completed,true,false,false
+UA010093,27 Apr 14,9,Kooyong St Kevin's,Lauriston,No. 3,Phillip Mann-Segal,Demeke Durant,Demeke Durant,4-6,4,6,0,1,Completed,true,false,false
+UA010093,27 Apr 14,9,Kooyong St Kevin's,Lauriston,No. 4,Patrick Wraith-Bell,Emma Yue,Patrick Wraith-Bell,6-4,6,4,1,0,Completed,true,false,false
+UA010094,27 Apr 14,9,GPHC,Glen Eira Brook,No. 1,Alistair Scott,Jeremy Beresh,Jeremy Beresh,2-6,2,6,0,1,Completed,true,false,false
+UA010094,27 Apr 14,9,GPHC,Glen Eira Brook,No. 2,Ethan Amalfi,Jedd Zetzer,Jedd Zetzer,4-6,4,6,0,1,Completed,true,false,false
+UA010094,27 Apr 14,9,GPHC,Glen Eira Brook,No. 3,Jack Fuller,Joey Schonker,Joey Schonker,4-6,4,6,0,1,Completed,true,false,false
+UA010094,27 Apr 14,9,GPHC,Glen Eira Brook,No. 4,Alex Siouthas,Nick Monterosso,Alex Siouthas,6-2,6,2,1,0,Completed,true,false,false
+UA010101,04 May 14,10,Glen Eira Brook,Royal South Yarra,No. 1,Jared Want,Will Backwell,Jared Want,6-1,6,1,1,0,Completed,true,false,false
+UA010101,04 May 14,10,Glen Eira Brook,Royal South Yarra,No. 2,Evan Best,Ella Lansell,Evan Best,6-1,6,1,1,0,Completed,true,false,false
+UA010101,04 May 14,10,Glen Eira Brook,Royal South Yarra,No. 3,Jeremy Beresh,James Ashley,Jeremy Beresh,6-2,6,2,1,0,Completed,true,false,false
+UA010101,04 May 14,10,Glen Eira Brook,Royal South Yarra,No. 4,Jedd Zetzer,Will Hornor,Jedd Zetzer,6-3,6,3,1,0,Completed,true,false,false
+UA010104,04 May 14,10,Lauriston,GPHC,No. 1,Linus Cheung,Ethan Amalfi,Linus Cheung,6-5,6,5,1,0,Completed,true,false,false
+UA010104,04 May 14,10,Lauriston,GPHC,No. 2,Brooklyn Giacometti,Alec Gaudin,Alec Gaudin,1-6,1,6,0,1,Completed,true,false,false
+UA010104,04 May 14,10,Lauriston,GPHC,No. 3,Demeke Durant,Andrew Wong,Demeke Durant,6-2,6,2,1,0,Completed,true,false,false
+UA010104,04 May 14,10,Lauriston,GPHC,No. 4,Alex Tritt,Alex Siouthas,Alex Siouthas,4-6,4,6,0,1,Completed,true,false,false
+UA010111,11 May 14,11,Royal South Yarra,Lauriston,No. 1,Annabel Joubert,Kyle Howden,Annabel Joubert,6-1,6,1,1,0,Completed,true,false,false
+UA010111,11 May 14,11,Royal South Yarra,Lauriston,No. 2,Mimi Holmes,Brooklyn Giacometti,Brooklyn Giacometti,1-6,1,6,0,1,Completed,true,false,false
+UA010111,11 May 14,11,Royal South Yarra,Lauriston,No. 3,Josie Happell,Demeke Durant,Demeke Durant,2-6,2,6,0,1,Completed,true,false,false
+UA010111,11 May 14,11,Royal South Yarra,Lauriston,No. 4,Lucy Roper,Alex Tritt,Alex Tritt,0-6,0,6,0,1,Completed,true,false,false
+UA010112,11 May 14,11,Murrumbeena,Glen Eira Brook,No. 1,Wyatt Bicknell,Jared Want,Jared Want,4-6,4,6,0,1,Completed,true,false,false
+UA010112,11 May 14,11,Murrumbeena,Glen Eira Brook,No. 2,Madeiline Serle,Evan Best,Evan Best,6-7,6,7,0,1,Completed,true,false,false
+UA010112,11 May 14,11,Murrumbeena,Glen Eira Brook,No. 3,Mia Pisano,Joey Schonker,Joey Schonker,5-7,5,7,0,1,Completed,true,false,false
+UA010112,11 May 14,11,Murrumbeena,Glen Eira Brook,No. 4,Chloe Papas,Nick Monterosso,Nick Monterosso,1-6,1,6,0,1,Completed,true,false,false
+UA010113,11 May 14,11,Kooyong St Kevin's,Carmelite,No. 1,Seamus Synnott,Ella Pinto,Seamus Synnott,6-4,6,4,1,0,Completed,true,false,false
+UA010113,11 May 14,11,Kooyong St Kevin's,Carmelite,No. 2,Linus Wraith-Bell,Stella Barker,Stella Barker,1-6,1,6,0,1,Completed,true,false,false
+UA010113,11 May 14,11,Kooyong St Kevin's,Carmelite,No. 3,Phillip Mann-Segal,Georgia Plant,Phillip Mann-Segal,6-2,6,2,1,0,Completed,true,false,false
+UA010113,11 May 14,11,Kooyong St Kevin's,Carmelite,No. 4,Patrick Wraith-Bell,Anders Costelloe,Patrick Wraith-Bell,6-1,6,1,1,0,Completed,true,false,false
+UA010114,11 May 14,11,GPHC,Maccabi,No. 1,Ethan Amalfi,Marty Schwarz,Marty Schwarz,2-6,2,6,0,1,Completed,true,false,false
+UA010114,11 May 14,11,GPHC,Maccabi,No. 2,Jack Fuller,Moshe Wajsbort,Moshe Wajsbort,3-6,3,6,0,1,Completed,true,false,false
+UA010114,11 May 14,11,GPHC,Maccabi,No. 3,Alec Gaudin,Jordan Joffe,Jordan Joffe,3-6,3,6,0,1,Completed,true,false,false
+UA010114,11 May 14,11,GPHC,Maccabi,No. 4,Andrew Wong,Ivan Zulman,Andrew Wong,6-4,6,4,1,0,Completed,true,false,false
+UA010121,18 May 14,12,GPHC,Kooyong St Kevin's,No. 1,Alistair Scott,Anthony James,Anthony James,3-6,3,6,0,1,Completed,true,false,false
+UA010121,18 May 14,12,GPHC,Kooyong St Kevin's,No. 2,Ethan Amalfi,Linus Wraith-Bell,Linus Wraith-Bell,3-6,3,6,0,1,Completed,true,false,false
+UA010121,18 May 14,12,GPHC,Kooyong St Kevin's,No. 3,Jack Fuller,Phillip Mann-Segal,Phillip Mann-Segal,3-6,3,6,0,1,Completed,true,false,false
+UA010121,18 May 14,12,GPHC,Kooyong St Kevin's,No. 4,Andrew Wong,Mia Geason,Andrew Wong,6-1,6,1,1,0,Completed,true,false,false
+UA010122,18 May 14,12,Glen Eira Brook,Carmelite,No. 1,Jeremy Beresh,Ella Pinto,Jeremy Beresh,6-2,6,2,1,0,Completed,true,false,false
+UA010122,18 May 14,12,Glen Eira Brook,Carmelite,No. 2,Jedd Zetzer,Stella Barker,Stella Barker,6-7,6,7,0,1,Completed,true,false,false
+UA010122,18 May 14,12,Glen Eira Brook,Carmelite,No. 3,Joey Schonker,Georgia Plant,Joey Schonker,6-2,6,2,1,0,Completed,true,false,false
+UA010122,18 May 14,12,Glen Eira Brook,Carmelite,No. 4,Nick Monterosso,Saskia Gunner,Nick Monterosso,6-3,6,3,1,0,Completed,true,false,false
+UA010123,18 May 14,12,Maccabi,Lauriston,No. 1,Marty Schwarz,Kyle Howden,Marty Schwarz,6-2,6,2,1,0,Completed,true,false,false
+UA010123,18 May 14,12,Maccabi,Lauriston,No. 2,Moshe Wajsbort,Linus Cheung,Moshe Wajsbort,6-3,6,3,1,0,Completed,true,false,false
+UA010123,18 May 14,12,Maccabi,Lauriston,No. 3,Jordan Joffe,Demeke Durant,Jordan Joffe,6-4,6,4,1,0,Completed,true,false,false
+UA010123,18 May 14,12,Maccabi,Lauriston,No. 4,Josh Unger,Emma Yue,Josh Unger,6-4,6,4,1,0,Completed,true,false,false
+UA010124,18 May 14,12,Murrumbeena,Royal South Yarra,No. 1,Wyatt Bicknell,Annabel Joubert,Wyatt Bicknell,6-1,6,1,1,0,Completed,true,false,false
+UA010124,18 May 14,12,Murrumbeena,Royal South Yarra,No. 2,Hannah Pisano,Mimi Holmes,Hannah Pisano,6-3,6,3,1,0,Completed,true,false,false
+UA010124,18 May 14,12,Murrumbeena,Royal South Yarra,No. 3,Madeiline Serle,James Ashley,Madeiline Serle,6-0,6,0,1,0,Completed,true,false,false
+UA010124,18 May 14,12,Murrumbeena,Royal South Yarra,No. 4,Chloe Papas,Willow Burrell,Willow Burrell,3-6,3,6,0,1,Completed,true,false,true
+UA010131,25 May 14,13,Kooyong St Kevin's,Murrumbeena,No. 1,Seamus Synnott,Wyatt Bicknell,Wyatt Bicknell,4-6,4,6,0,1,Completed,true,false,false
+UA010131,25 May 14,13,Kooyong St Kevin's,Murrumbeena,No. 2,Linus Wraith-Bell,Madeiline Serle,Madeiline Serle,4-6,4,6,0,1,Completed,true,false,false
+UA010131,25 May 14,13,Kooyong St Kevin's,Murrumbeena,No. 3,Phillip Mann-Segal,Mia Pisano,Phillip Mann-Segal,6-4,6,4,1,0,Completed,true,false,false
+UA010131,25 May 14,13,Kooyong St Kevin's,Murrumbeena,No. 4,Patrick Wraith-Bell,Chloe Papas,Patrick Wraith-Bell,6-0,6,0,1,0,Completed,true,false,false
+UA010132,25 May 14,13,Royal South Yarra,GPHC,No. 1,Sophie Joubert,Alistair Scott,Sophie Joubert,7-5,7,5,1,0,Completed,true,false,false
+UA010132,25 May 14,13,Royal South Yarra,GPHC,No. 2,Josie Happell,Ethan Amalfi,Ethan Amalfi,1-6,1,6,0,1,Completed,true,false,false
+UA010132,25 May 14,13,Royal South Yarra,GPHC,No. 3,Sinclair Mosley,Alec Gaudin,Alec Gaudin,2-6,2,6,0,1,Completed,true,false,false
+UA010132,25 May 14,13,Royal South Yarra,GPHC,No. 4,Claudia Cameron,Andrew Wong,Andrew Wong,1-6,1,6,0,1,Completed,true,false,false
+UA010133,25 May 14,13,Lauriston,Glen Eira Brook,No. 1,Kyle Howden,Jared Want,Jared Want,1-6,1,6,0,1,Completed,true,false,false
+UA010133,25 May 14,13,Lauriston,Glen Eira Brook,No. 2,Brooklyn Giacometti,Evan Best,Evan Best,4-6,4,6,0,1,Completed,true,false,false
+UA010133,25 May 14,13,Lauriston,Glen Eira Brook,No. 3,Emma Yue,Jeremy Beresh,Jeremy Beresh,2-6,2,6,0,1,Completed,true,false,false
+UA010133,25 May 14,13,Lauriston,Glen Eira Brook,No. 4,Alex Tritt,Jedd Zetzer,Jedd Zetzer,4-6,4,6,0,1,Completed,true,false,false
+UA010134,25 May 14,13,Carmelite,Maccabi,No. 1,Ella Pinto,Marty Schwarz,Ella Pinto,6-4,6,4,1,0,Completed,true,false,false
+UA010134,25 May 14,13,Carmelite,Maccabi,No. 2,Stella Barker,Moshe Wajsbort,Moshe Wajsbort,0-6,0,6,0,1,Completed,true,false,false
+UA010134,25 May 14,13,Carmelite,Maccabi,No. 3,Georgia Plant,Edward Lichtig,Edward Lichtig,3-6,3,6,0,1,Completed,true,false,false
+UA010134,25 May 14,13,Carmelite,Maccabi,No. 4,Anders Costelloe,Ivan Zulman,Ivan Zulman,4-6,4,6,0,1,Completed,true,false,false
+UA010141,01 Jun 14,14,Kooyong St Kevin's,Royal South Yarra,No. 1,Anthony James,Mimi Holmes,Mimi Holmes,6-7,6,7,0,1,Completed,true,false,false
+UA010141,01 Jun 14,14,Kooyong St Kevin's,Royal South Yarra,No. 2,Linus Wraith-Bell,James Ashley,Linus Wraith-Bell,6-4,6,4,1,0,Completed,true,false,false
+UA010141,01 Jun 14,14,Kooyong St Kevin's,Royal South Yarra,No. 3,Patrick Wraith-Bell,Josie Happell,Patrick Wraith-Bell,6-0,6,0,1,0,Completed,true,false,false
+UA010141,01 Jun 14,14,Kooyong St Kevin's,Royal South Yarra,No. 4,Mia Geason,Bill Cameron,Bill Cameron,2-6,2,6,0,1,Completed,true,false,false
+UA010142,01 Jun 14,14,GPHC,Murrumbeena,No. 1,Alistair Scott,Wyatt Bicknell,Wyatt Bicknell,0-6,0,6,0,1,Completed,true,false,false
+UA010142,01 Jun 14,14,GPHC,Murrumbeena,No. 2,Jack Fuller,Madeiline Serle,Madeiline Serle,1-6,1,6,0,1,Completed,true,false,false
+UA010142,01 Jun 14,14,GPHC,Murrumbeena,No. 3,Alec Gaudin,Mia Pisano,Alec Gaudin,6-3,6,3,1,0,Completed,true,false,false
+UA010142,01 Jun 14,14,GPHC,Murrumbeena,No. 4,Andrew Wong,Chloe Papas,Andrew Wong,7-5,7,5,1,0,Completed,true,false,false
+UA010143,01 Jun 14,14,Lauriston,Carmelite,No. 1,Linus Cheung,Ella Pinto,Linus Cheung,6-2,6,2,1,0,Completed,true,false,false
+UA010143,01 Jun 14,14,Lauriston,Carmelite,No. 2,Demeke Durant,Stella Barker,Stella Barker,4-6,4,6,0,1,Completed,true,false,false
+UA010143,01 Jun 14,14,Lauriston,Carmelite,No. 3,Emma Yue,Georgia Plant,Emma Yue,6-4,6,4,1,0,Completed,true,false,false
+UA010143,01 Jun 14,14,Lauriston,Carmelite,No. 4,Alex Tritt,Anders Costelloe,Anders Costelloe,4-6,4,6,0,1,Completed,true,false,false
+UA010144,01 Jun 14,14,Maccabi,Glen Eira Brook,No. 1,Marty Schwarz,Jared Want,Marty Schwarz,6-3,6,3,1,0,Completed,true,false,false
+UA010144,01 Jun 14,14,Maccabi,Glen Eira Brook,No. 2,Jordan Joffe,Evan Best,Jordan Joffe,6-2,6,2,1,0,Completed,true,false,false
+UA010144,01 Jun 14,14,Maccabi,Glen Eira Brook,No. 3,Edward Lichtig,Joey Schonker,Edward Lichtig,7-6,7,6,1,0,Completed,true,false,false
+UA010144,01 Jun 14,14,Maccabi,Glen Eira Brook,No. 4,Josh Unger,Nick Monterosso,Nick Monterosso,2-6,2,6,0,1,Completed,true,false,false
+UA010301,,16,Glen Eira Brook,Lauriston,No. 1,Jared Want,Kyle Howden,Jared Want,6-0,6,0,1,0,Completed,true,false,false
+UA010301,,16,Glen Eira Brook,Lauriston,No. 2,Evan Best,Linus Cheung,Evan Best,6-4,6,4,1,0,Completed,true,false,false
+UA010301,,16,Glen Eira Brook,Lauriston,No. 3,Jeremy Beresh,Brooklyn Giacometti,Jeremy Beresh,7-6,7,6,1,0,Completed,true,false,false
+UA010301,,16,Glen Eira Brook,Lauriston,No. 4,Jedd Zetzer,Demeke Durant,Jedd Zetzer,7-6,7,6,1,0,Completed,true,false,false
+UA010302,,16,Maccabi,GPHC,No. 1,Marty Schwarz,Alistair Scott,Marty Schwarz,6-2,6,2,1,0,Completed,true,false,false
+UA010302,,16,Maccabi,GPHC,No. 2,Jordan Joffe,Ethan Amalfi,Jordan Joffe,6-2,6,2,1,0,Completed,true,false,false
+UA010302,,16,Maccabi,GPHC,No. 3,Edward Lichtig,Alec Gaudin,Alec Gaudin,0-6,0,6,0,1,Completed,true,false,false
+UA010302,,16,Maccabi,GPHC,No. 4,Josh Unger,Alex Siouthas,Alex Siouthas,2-6,2,6,0,1,Completed,true,false,false
+UA010321,,17,Glen Eira Brook,GPHC,No. 1,Jared Want,Alistair Scott,Jared Want,7-5,7,5,1,0,Completed,true,false,false
+UA010321,,17,Glen Eira Brook,GPHC,No. 2,Evan Best,Ethan Amalfi,Evan Best,6-2,6,2,1,0,Completed,true,false,false
+UA010321,,17,Glen Eira Brook,GPHC,No. 3,Jeremy Beresh,Alec Gaudin,Alec Gaudin,6-7,6,7,0,1,Completed,true,false,false
+UA010321,,17,Glen Eira Brook,GPHC,No. 4,Jedd Zetzer,Alex Siouthas,Jedd Zetzer,6-3,6,3,1,0,Completed,true,false,false

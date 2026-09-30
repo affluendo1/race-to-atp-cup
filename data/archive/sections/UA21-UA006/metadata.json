@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA21-UA006",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2017",
+  "season_id": "UA21",
+  "season_label": "Spring 2017",
+  "source_section_code": "UA006",
+  "section_label": "Section 6",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kings Park",
+      "wins": 11,
+      "points": 109,
+      "percentage": 150.56,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Highett",
+      "wins": 10,
+      "points": 103,
+      "percentage": 148.25,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Kooyong 1 Scotch",
+      "wins": 6,
+      "points": 85,
+      "percentage": 125.73,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Kooyong 2 Scotch",
+      "wins": 8,
+      "points": 79,
+      "percentage": 112.36,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Maccabi",
+      "wins": 3,
+      "points": 62,
+      "percentage": 95.02,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Tennis World",
+      "wins": 4,
+      "points": 56,
+      "percentage": 89.59,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Port Melbourne",
+      "wins": 4,
+      "points": 46,
+      "percentage": 77.23,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Lauriston",
+      "wins": 1,
+      "points": 18,
+      "percentage": 46.93,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA21-UA006",
+  "fixtures": 59,
+  "completed_fixtures": 52,
+  "draw_fixtures": 59,
+  "singles_rubbers": 207,
+  "doubles_rubbers": 104,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

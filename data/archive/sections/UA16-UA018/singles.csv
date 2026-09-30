@@ -1,0 +1,185 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA018014,01 Feb 15,1,Bodley Tennis Plus,Aspendale,No. 1,Ruby De Luca,Nicholas Kircher-Wilson,Nicholas Kircher-Wilson,1-6,1,6,0,1,Completed,true,false,false
+UA018014,01 Feb 15,1,Bodley Tennis Plus,Aspendale,No. 2,Lily Snooks,Matthew De Silva,Lily Snooks,6-2,6,2,1,0,Completed,true,false,false
+UA018014,01 Feb 15,1,Bodley Tennis Plus,Aspendale,No. 3,Brooke Mahoney,Jessica De Silva,Jessica De Silva,6-7,6,7,0,1,Completed,true,false,false
+UA018014,01 Feb 15,1,Bodley Tennis Plus,Aspendale,No. 4,Alex Fennessy,Samuel Curtis,Alex Fennessy,6-1,6,1,1,0,Completed,true,false,false
+UA018021,08 Feb 15,2,Aspendale,Beaumaris CC,No. 1,Nicholas Kircher-Wilson,Mia Connelly,Mia Connelly,4-6,4,6,0,1,Completed,true,false,false
+UA018021,08 Feb 15,2,Aspendale,Beaumaris CC,No. 2,Matthew De Silva,Chloe Hecker,Matthew De Silva,6-4,6,4,1,0,Completed,true,false,false
+UA018021,08 Feb 15,2,Aspendale,Beaumaris CC,No. 3,Jessica De Silva,Isabella Nicolis,Jessica De Silva,6-1,6,1,1,0,Completed,true,false,false
+UA018021,08 Feb 15,2,Aspendale,Beaumaris CC,No. 4,Jack Crowe,Ryan Taylor,Ryan Taylor,6-7,6,7,0,1,Completed,true,false,false
+UA018022,08 Feb 15,2,Kooyong,Hampton,No. 1,Findlay Bell,Henry Bytheway,Henry Bytheway,4-6,4,6,0,1,Completed,true,false,false
+UA018022,08 Feb 15,2,Kooyong,Hampton,No. 2,Ava Synnott,Charlotte Bytheway,Charlotte Bytheway,5-7,5,7,0,1,Completed,true,false,false
+UA018022,08 Feb 15,2,Kooyong,Hampton,No. 3,Caroline Marcel,Elsie Maginness,Caroline Marcel,6-4,6,4,1,0,Completed,true,false,false
+UA018022,08 Feb 15,2,Kooyong,Hampton,No. 4,Lucy Keilar,Sarah Benvenuto,Sarah Benvenuto,0-6,0,6,0,1,Completed,true,false,false
+UA018023,08 Feb 15,2,Glen Eira,BLTC,No. 1,Louis McNabney-Stevens,Liby Pearce,Louis McNabney-Stevens,6-1,6,1,1,0,Completed,true,false,false
+UA018023,08 Feb 15,2,Glen Eira,BLTC,No. 2,Oliver Hardman,Olivia Moir,Oliver Hardman,6-0,6,0,1,0,Completed,true,false,false
+UA018023,08 Feb 15,2,Glen Eira,BLTC,No. 3,Ashleigh Datt,Alexie Briggs,Ashleigh Datt,6-2,6,2,1,0,Completed,true,false,false
+UA018023,08 Feb 15,2,Glen Eira,BLTC,No. 4,Josh Datt,Georgie Anderson,Josh Datt,6-2,6,2,1,0,Completed,true,false,false
+UA018024,08 Feb 15,2,Lauriston,Bodley Tennis Plus,No. 1,Thomas Wilson,Ruby De Luca,Thomas Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA018024,08 Feb 15,2,Lauriston,Bodley Tennis Plus,No. 2,Arron Nazaretian,Lily Snooks,Lily Snooks,4-6,4,6,0,1,Completed,true,false,false
+UA018024,08 Feb 15,2,Lauriston,Bodley Tennis Plus,No. 3,Ethan Tsui,Alex Fennessy,Ethan Tsui,6-3,6,3,1,0,Completed,true,false,false
+UA018024,08 Feb 15,2,Lauriston,Bodley Tennis Plus,No. 4,Sara Taitt,Ashley Venita Beyer,Ashley Venita Beyer,0-6,0,6,0,1,Completed,true,false,false
+UA018031,15 Feb 15,3,Beaumaris CC,Lauriston,No. 1,Mia Connelly,Thomas Wilson,Thomas Wilson,1-6,1,6,0,1,Completed,true,false,false
+UA018031,15 Feb 15,3,Beaumaris CC,Lauriston,No. 2,Chloe Hecker,Paris Arzanas,Chloe Hecker,6-4,6,4,1,0,Completed,true,false,false
+UA018031,15 Feb 15,3,Beaumaris CC,Lauriston,No. 3,Ryan Taylor,Arron Nazaretian,Arron Nazaretian,3-6,3,6,0,1,Completed,true,false,false
+UA018031,15 Feb 15,3,Beaumaris CC,Lauriston,No. 4,Lachlan Hecker,Ethan Tsui,Ethan Tsui,1-6,1,6,0,1,Completed,true,false,false
+UA018032,15 Feb 15,3,Hampton,Aspendale,No. 1,Grace Roache,Samuel Curtis,Samuel Curtis,0-6,0,6,0,1,Completed,true,false,false
+UA018032,15 Feb 15,3,Hampton,Aspendale,No. 2,Ava Shannon,Matthew De Silva,Matthew De Silva,1-6,1,6,0,1,Completed,true,false,false
+UA018032,15 Feb 15,3,Hampton,Aspendale,No. 3,Elsie Maginness,Jessica De Silva,Jessica De Silva,1-6,1,6,0,1,Completed,true,false,false
+UA018032,15 Feb 15,3,Hampton,Aspendale,No. 4,Sarah Benvenuto,Jack Crowe,Jack Crowe,0-6,0,6,0,1,Completed,true,false,false
+UA018033,15 Feb 15,3,BLTC,Kooyong,No. 1,Evie Stansby,Sophie Courtney,Evie Stansby,6-1,6,1,1,0,Completed,true,false,false
+UA018033,15 Feb 15,3,BLTC,Kooyong,No. 2,Olivia Moir,Findlay Bell,Olivia Moir,6-0,6,0,1,0,Completed,true,false,false
+UA018033,15 Feb 15,3,BLTC,Kooyong,No. 3,Liby Pearce,James Di Nicolantoni,Liby Pearce,7-6,7,6,1,0,Completed,true,false,false
+UA018033,15 Feb 15,3,BLTC,Kooyong,No. 4,Alexie Briggs,Ava Synnott,Ava Synnott,3-6,3,6,0,1,Completed,true,false,false
+UA018034,15 Feb 15,3,Bodley Tennis Plus,Glen Eira,No. 1,Ruby De Luca,Martin Casanovas,Martin Casanovas,5-7,5,7,0,1,Completed,true,false,false
+UA018034,15 Feb 15,3,Bodley Tennis Plus,Glen Eira,No. 2,Brooke Mahoney,Rachel Gluzman,Brooke Mahoney,6-4,6,4,1,0,Completed,true,false,false
+UA018034,15 Feb 15,3,Bodley Tennis Plus,Glen Eira,No. 3,Alex Fennessy,Ashleigh Datt,Alex Fennessy,6-3,6,3,1,0,Completed,true,false,false
+UA018034,15 Feb 15,3,Bodley Tennis Plus,Glen Eira,No. 4,Ashley Venita Beyer,Josh Datt,Josh Datt,6-7,6,7,0,1,Completed,true,false,false
+UA018041,22 Feb 15,4,Glen Eira,Beaumaris CC,No. 1,Louis McNabney-Stevens,Chloe Hecker,Chloe Hecker,5-7,5,7,0,1,Completed,true,false,false
+UA018041,22 Feb 15,4,Glen Eira,Beaumaris CC,No. 2,Oliver Hardman,Sarah Love,Oliver Hardman,6-3,6,3,1,0,Completed,true,false,false
+UA018041,22 Feb 15,4,Glen Eira,Beaumaris CC,No. 3,Martin Casanovas,Isabella Nicolis,Martin Casanovas,6-0,6,0,1,0,Completed,true,false,false
+UA018041,22 Feb 15,4,Glen Eira,Beaumaris CC,No. 4,Rachel Gluzman,Jenna Brown,Rachel Gluzman,6-3,6,3,1,0,Completed,true,false,false
+UA018042,22 Feb 15,4,Lauriston,Hampton,No. 1,Thomas Wilson,Henry Bytheway,Thomas Wilson,6-2,6,2,1,0,Completed,true,false,false
+UA018042,22 Feb 15,4,Lauriston,Hampton,No. 2,Paris Arzanas,Charlotte Bytheway,Paris Arzanas,6-2,6,2,1,0,Completed,true,false,false
+UA018042,22 Feb 15,4,Lauriston,Hampton,No. 3,Arron Nazaretian,Grace Roache,Arron Nazaretian,6-0,6,0,1,0,Completed,true,false,false
+UA018042,22 Feb 15,4,Lauriston,Hampton,No. 4,Sara Taitt,Ava Shannon,Sara Taitt,7-6,7,6,1,0,Completed,true,false,false
+UA018043,22 Feb 15,4,Aspendale,BLTC,No. 1,Samuel Curtis,Olivia Moir,Samuel Curtis,6-1,6,1,1,0,Completed,true,false,false
+UA018043,22 Feb 15,4,Aspendale,BLTC,No. 2,Jack Crowe,Liby Pearce,Jack Crowe,6-2,6,2,1,0,Completed,true,false,false
+UA018043,22 Feb 15,4,Aspendale,BLTC,No. 3,Nicholas Kircher-Wilson,Alexie Briggs,Nicholas Kircher-Wilson,6-2,6,2,1,0,Completed,true,false,false
+UA018043,22 Feb 15,4,Aspendale,BLTC,No. 4,Jessica De Silva,Mason Briggs,Jessica De Silva,6-3,6,3,1,0,Completed,true,false,false
+UA018044,22 Feb 15,4,Kooyong,Bodley Tennis Plus,No. 1,Findlay Bell,Lily Snooks,Lily Snooks,0-6,0,6,0,1,Completed,true,false,false
+UA018044,22 Feb 15,4,Kooyong,Bodley Tennis Plus,No. 2,James Di Nicolantoni,Brooke Mahoney,James Di Nicolantoni,6-4,6,4,1,0,Completed,true,false,false
+UA018044,22 Feb 15,4,Kooyong,Bodley Tennis Plus,No. 3,Ava Synnott,Alex Fennessy,Alex Fennessy,1-6,1,6,0,1,Completed,true,false,false
+UA018044,22 Feb 15,4,Kooyong,Bodley Tennis Plus,No. 4,Lucy Keilar,Ashley Venita Beyer,Ashley Venita Beyer,1-6,1,6,0,1,Completed,true,false,false
+UA018051,01 Mar 15,5,BLTC,Bodley Tennis Plus,No. 1,Evie Stansby,Ruby De Luca,Evie Stansby,6-2,6,2,1,0,Completed,true,false,false
+UA018051,01 Mar 15,5,BLTC,Bodley Tennis Plus,No. 2,Olivia Moir,Lily Snooks,Olivia Moir,6-4,6,4,1,0,Completed,true,false,false
+UA018051,01 Mar 15,5,BLTC,Bodley Tennis Plus,No. 3,Liby Pearce,Brooke Mahoney,Brooke Mahoney,4-6,4,6,0,1,Completed,true,false,false
+UA018051,01 Mar 15,5,BLTC,Bodley Tennis Plus,No. 4,Alexie Briggs,Ashley Venita Beyer,Ashley Venita Beyer,3-6,3,6,0,1,Completed,true,false,false
+UA018052,01 Mar 15,5,Aspendale,Lauriston,No. 1,Samuel Curtis,Thomas Wilson,Samuel Curtis,6-1,6,1,1,0,Completed,true,false,false
+UA018052,01 Mar 15,5,Aspendale,Lauriston,No. 2,Matthew De Silva,Paris Arzanas,Matthew De Silva,6-2,6,2,1,0,Completed,true,false,false
+UA018052,01 Mar 15,5,Aspendale,Lauriston,No. 3,Jack Crowe,Ethan Tsui,Jack Crowe,6-3,6,3,1,0,Completed,true,false,false
+UA018052,01 Mar 15,5,Aspendale,Lauriston,No. 4,Nicholas Kircher-Wilson,Sara Taitt,Nicholas Kircher-Wilson,6-2,6,2,1,0,Completed,true,false,false
+UA018053,01 Mar 15,5,Glen Eira,Kooyong,No. 1,Louis McNabney-Stevens,Sophie Courtney,Louis McNabney-Stevens,6-0,6,0,1,0,Completed,true,false,false
+UA018053,01 Mar 15,5,Glen Eira,Kooyong,No. 2,Oliver Hardman,Ava Synnott,Oliver Hardman,6-1,6,1,1,0,Completed,true,false,false
+UA018053,01 Mar 15,5,Glen Eira,Kooyong,No. 3,Ashleigh Datt,Caroline Marcel,Ashleigh Datt,6-0,6,0,1,0,Completed,true,false,false
+UA018053,01 Mar 15,5,Glen Eira,Kooyong,No. 4,Josh Datt,Lucy Keilar,Josh Datt,6-0,6,0,1,0,Completed,true,false,false
+UA018054,01 Mar 15,5,Beaumaris CC,Hampton,No. 1,Mia Connelly,Henry Bytheway,Mia Connelly,6-1,6,1,1,0,Completed,true,false,false
+UA018054,01 Mar 15,5,Beaumaris CC,Hampton,No. 2,Sarah Love,Charlotte Bytheway,Sarah Love,6-2,6,2,1,0,Completed,true,false,false
+UA018054,01 Mar 15,5,Beaumaris CC,Hampton,No. 3,Ryan Taylor,Elsie Maginness,Ryan Taylor,6-0,6,0,1,0,Completed,true,false,false
+UA018054,01 Mar 15,5,Beaumaris CC,Hampton,No. 4,Jenna Brown,Sarah Benvenuto,Sarah Benvenuto,6-7,6,7,0,1,Completed,true,false,false
+UA018061,15 Mar 15,6,Hampton,BLTC,No. 1,Grace Roache,Evie Stansby,Evie Stansby,1-6,1,6,0,1,Completed,true,false,false
+UA018061,15 Mar 15,6,Hampton,BLTC,No. 2,Ava Shannon,Olivia Moir,Olivia Moir,1-6,1,6,0,1,Completed,true,false,false
+UA018061,15 Mar 15,6,Hampton,BLTC,No. 3,Elsie Maginness,Liby Pearce,Liby Pearce,0-6,0,6,0,1,Completed,true,false,false
+UA018061,15 Mar 15,6,Hampton,BLTC,No. 4,Sarah Benvenuto,Alexie Briggs,Alexie Briggs,0-6,0,6,0,1,Completed,true,false,false
+UA018062,15 Mar 15,6,Bodley Tennis Plus,Beaumaris CC,No. 1,Ruby De Luca,Chloe Hecker,Ruby De Luca,6-4,6,4,1,0,Completed,true,false,false
+UA018062,15 Mar 15,6,Bodley Tennis Plus,Beaumaris CC,No. 2,Brooke Mahoney,Ryan Taylor,Brooke Mahoney,6-4,6,4,1,0,Completed,true,false,false
+UA018062,15 Mar 15,6,Bodley Tennis Plus,Beaumaris CC,No. 3,Alex Fennessy,Isabella Nicolis,Alex Fennessy,6-0,6,0,1,0,Completed,true,false,false
+UA018062,15 Mar 15,6,Bodley Tennis Plus,Beaumaris CC,No. 4,Ashley Venita Beyer,Caitlyn Fairhurst,Ashley Venita Beyer,6-2,6,2,1,0,Completed,true,false,false
+UA018063,15 Mar 15,6,Lauriston,Glen Eira,No. 1,Paris Arzanas,Oliver Hardman,Oliver Hardman,2-6,2,6,0,1,Completed,true,false,false
+UA018063,15 Mar 15,6,Lauriston,Glen Eira,No. 2,Arron Nazaretian,Martin Casanovas,Martin Casanovas,3-6,3,6,0,1,Completed,true,false,false
+UA018063,15 Mar 15,6,Lauriston,Glen Eira,No. 3,Ethan Tsui,Rachel Gluzman,Ethan Tsui,6-3,6,3,1,0,Completed,true,false,false
+UA018063,15 Mar 15,6,Lauriston,Glen Eira,No. 4,Sara Taitt,Josh Datt,Josh Datt,1-6,1,6,0,1,Completed,true,false,false
+UA018064,15 Mar 15,6,Kooyong,Aspendale,No. 1,Findlay Bell,Matthew De Silva,Matthew De Silva,3-6,3,6,0,1,Completed,true,false,false
+UA018064,15 Mar 15,6,Kooyong,Aspendale,No. 2,James Di Nicolantoni,Jack Crowe,Jack Crowe,3-6,3,6,0,1,Completed,true,false,false
+UA018064,15 Mar 15,6,Kooyong,Aspendale,No. 3,Caroline Marcel,Nicholas Kircher-Wilson,Nicholas Kircher-Wilson,3-6,3,6,0,1,Completed,true,false,false
+UA018064,15 Mar 15,6,Kooyong,Aspendale,No. 4,Lucy Keilar,Jessica De Silva,Jessica De Silva,0-6,0,6,0,1,Completed,true,false,false
+UA018071,22 Mar 15,7,Beaumaris CC,BLTC,No. 1,Mia Connelly,Evie Stansby,Evie Stansby,1-6,1,6,0,1,Completed,true,false,false
+UA018071,22 Mar 15,7,Beaumaris CC,BLTC,No. 2,Sarah Love,Olivia Moir,Olivia Moir,4-6,4,6,0,1,Completed,true,false,false
+UA018071,22 Mar 15,7,Beaumaris CC,BLTC,No. 3,Ryan Taylor,Liby Pearce,Ryan Taylor,6-2,6,2,1,0,Completed,true,false,false
+UA018071,22 Mar 15,7,Beaumaris CC,BLTC,No. 4,Isabella Nicolis,Amy Pearce,Amy Pearce,0-6,0,6,0,1,Completed,true,false,false
+UA018072,22 Mar 15,7,Hampton,Bodley Tennis Plus,No. 1,Henry Bytheway,Ruby De Luca,Ruby De Luca,2-6,2,6,0,1,Completed,true,false,false
+UA018072,22 Mar 15,7,Hampton,Bodley Tennis Plus,No. 2,Charlotte Bytheway,Lily Snooks,Lily Snooks,0-6,0,6,0,1,Completed,true,false,false
+UA018072,22 Mar 15,7,Hampton,Bodley Tennis Plus,No. 3,Grace Roache,Ashley Venita Beyer,Ashley Venita Beyer,0-6,0,6,0,1,Completed,true,false,false
+UA018072,22 Mar 15,7,Hampton,Bodley Tennis Plus,No. 4,Ava Shannon,Alex Fennessy,Ava Shannon,6-0,6,0,1,0,Completed,true,false,false
+UA018073,22 Mar 15,7,Aspendale,Glen Eira,No. 1,Samuel Curtis,Louis McNabney-Stevens,Samuel Curtis,6-3,6,3,1,0,Completed,true,false,false
+UA018073,22 Mar 15,7,Aspendale,Glen Eira,No. 2,Matthew De Silva,Oliver Hardman,Matthew De Silva,6-1,6,1,1,0,Completed,true,false,false
+UA018073,22 Mar 15,7,Aspendale,Glen Eira,No. 3,Nicholas Kircher-Wilson,Rachel Gluzman,Rachel Gluzman,4-6,4,6,0,1,Completed,true,false,false
+UA018073,22 Mar 15,7,Aspendale,Glen Eira,No. 4,Jessica De Silva,Ashleigh Datt,Jessica De Silva,7-5,7,5,1,0,Completed,true,false,false
+UA018074,22 Mar 15,7,Lauriston,Kooyong,No. 1,Thomas Wilson,Sophie Courtney,Thomas Wilson,6-0,6,0,1,0,Completed,true,false,false
+UA018074,22 Mar 15,7,Lauriston,Kooyong,No. 2,Paris Arzanas,James Di Nicolantoni,James Di Nicolantoni,1-6,1,6,0,1,Completed,true,false,false
+UA018074,22 Mar 15,7,Lauriston,Kooyong,No. 3,Ethan Tsui,Ava Synnott,Ethan Tsui,6-0,6,0,1,0,Completed,true,false,false
+UA018074,22 Mar 15,7,Lauriston,Kooyong,No. 4,Sara Taitt,Lucy Keilar,Sara Taitt,6-2,6,2,1,0,Completed,true,false,false
+UA018091,26 Apr 15,9,Beaumaris CC,Aspendale,No. 1,Mia Connelly,Matthew De Silva,Matthew De Silva,4-6,4,6,0,1,Completed,true,false,false
+UA018091,26 Apr 15,9,Beaumaris CC,Aspendale,No. 2,Chloe Hecker,Jack Crowe,Chloe Hecker,6-2,6,2,1,0,Completed,true,false,false
+UA018091,26 Apr 15,9,Beaumaris CC,Aspendale,No. 3,Sarah Love,Jessica De Silva,Jessica De Silva,6-7,6,7,0,1,Completed,true,false,false
+UA018091,26 Apr 15,9,Beaumaris CC,Aspendale,No. 4,Isabella Nicolis,Massimo Vignali,Isabella Nicolis,6-3,6,3,1,0,Completed,true,false,false
+UA018093,26 Apr 15,9,BLTC,Glen Eira,No. 1,Josh Simmons,Martin Casanovas,Martin Casanovas,3-6,3,6,0,1,Completed,true,false,false
+UA018093,26 Apr 15,9,BLTC,Glen Eira,No. 2,Olivia Moir,Oliver Hardman,Olivia Moir,6-0,6,0,1,0,Completed,true,false,false
+UA018093,26 Apr 15,9,BLTC,Glen Eira,No. 3,Byron Bulluss,Rachel Gluzman,Byron Bulluss,6-1,6,1,1,0,Completed,true,false,false
+UA018093,26 Apr 15,9,BLTC,Glen Eira,No. 4,Alexie Briggs,Ashleigh Datt,Ashleigh Datt,5-7,5,7,0,1,Completed,true,false,false
+UA018094,26 Apr 15,9,Bodley Tennis Plus,Lauriston,No. 1,Ruby De Luca,Thomas Wilson,Thomas Wilson,4-6,4,6,0,1,Completed,true,false,false
+UA018094,26 Apr 15,9,Bodley Tennis Plus,Lauriston,No. 2,Lily Snooks,Arron Nazaretian,Arron Nazaretian,3-6,3,6,0,1,Completed,true,false,false
+UA018094,26 Apr 15,9,Bodley Tennis Plus,Lauriston,No. 3,Brooke Mahoney,Ethan Tsui,Ethan Tsui,3-6,3,6,0,1,Completed,true,false,false
+UA018094,26 Apr 15,9,Bodley Tennis Plus,Lauriston,No. 4,Alex Fennessy,Sara Taitt,Alex Fennessy,6-2,6,2,1,0,Completed,true,false,false
+UA018101,03 May 15,10,Lauriston,Beaumaris CC,No. 1,Thomas Wilson,Chloe Hecker,Chloe Hecker,4-6,4,6,0,1,Completed,true,false,false
+UA018101,03 May 15,10,Lauriston,Beaumaris CC,No. 2,Paris Arzanas,Sarah Love,Sarah Love,3-6,3,6,0,1,Completed,true,false,false
+UA018101,03 May 15,10,Lauriston,Beaumaris CC,No. 3,Arron Nazaretian,Ryan Taylor,Arron Nazaretian,6-3,6,3,1,0,Completed,true,false,false
+UA018101,03 May 15,10,Lauriston,Beaumaris CC,No. 4,Ethan Tsui,Isabella Nicolis,Ethan Tsui,6-0,6,0,1,0,Completed,true,false,false
+UA018102,03 May 15,10,Aspendale,Hampton,No. 1,Matthew De Silva,Henry Bytheway,Matthew De Silva,6-1,6,1,1,0,Completed,true,false,false
+UA018102,03 May 15,10,Aspendale,Hampton,No. 2,Jack Crowe,Charlotte Bytheway,Charlotte Bytheway,6-7,6,7,0,1,Completed,true,false,false
+UA018102,03 May 15,10,Aspendale,Hampton,No. 3,Jessica De Silva,Grace Roache,Jessica De Silva,6-0,6,0,1,0,Completed,true,false,false
+UA018102,03 May 15,10,Aspendale,Hampton,No. 4,Massimo Vignali,Ava Shannon,Massimo Vignali,6-4,6,4,1,0,Completed,true,false,false
+UA018103,03 May 15,10,Kooyong,BLTC,No. 1,Sophie Courtney,Josh Simmons,Josh Simmons,0-6,0,6,0,1,Completed,true,false,false
+UA018103,03 May 15,10,Kooyong,BLTC,No. 2,Findlay Bell,Olivia Moir,Olivia Moir,1-6,1,6,0,1,Completed,true,false,false
+UA018103,03 May 15,10,Kooyong,BLTC,No. 3,James Di Nicolantoni,Alexie Briggs,James Di Nicolantoni,7-5,7,5,1,0,Completed,true,false,false
+UA018103,03 May 15,10,Kooyong,BLTC,No. 4,Caroline Marcel,Georgie Anderson,Georgie Anderson,1-6,1,6,0,1,Completed,true,false,false
+UA018104,03 May 15,10,Glen Eira,Bodley Tennis Plus,No. 1,Oliver Hardman,Ruby De Luca,Ruby De Luca,2-6,2,6,0,1,Completed,true,false,false
+UA018104,03 May 15,10,Glen Eira,Bodley Tennis Plus,No. 2,Martin Casanovas,Lily Snooks,Martin Casanovas,6-0,6,0,1,0,Completed,true,false,false
+UA018104,03 May 15,10,Glen Eira,Bodley Tennis Plus,No. 3,Rachel Gluzman,Brooke Mahoney,Brooke Mahoney,2-6,2,6,0,1,Completed,true,false,false
+UA018104,03 May 15,10,Glen Eira,Bodley Tennis Plus,No. 4,Josh Datt,Ashley Venita Beyer,Josh Datt,6-4,6,4,1,0,Completed,true,false,false
+UA018121,17 May 15,12,Bodley Tennis Plus,BLTC,No. 1,Ruby De Luca,Olivia Moir,Ruby De Luca,6-4,6,4,1,0,Completed,true,false,false
+UA018121,17 May 15,12,Bodley Tennis Plus,BLTC,No. 2,Lily Snooks,Liby Pearce,Liby Pearce,3-6,3,6,0,1,Completed,true,false,false
+UA018121,17 May 15,12,Bodley Tennis Plus,BLTC,No. 3,Alex Fennessy,Alexie Briggs,Alex Fennessy,6-1,6,1,1,0,Completed,true,false,false
+UA018121,17 May 15,12,Bodley Tennis Plus,BLTC,No. 4,Ashley Venita Beyer,Josh Simmons,Josh Simmons,4-6,4,6,0,1,Completed,true,false,false
+UA018122,17 May 15,12,Lauriston,Aspendale,No. 1,Thomas Wilson,Matthew De Silva,Matthew De Silva,3-6,3,6,0,1,Completed,true,false,false
+UA018122,17 May 15,12,Lauriston,Aspendale,No. 2,Arron Nazaretian,Jessica De Silva,Arron Nazaretian,6-2,6,2,1,0,Completed,true,false,false
+UA018122,17 May 15,12,Lauriston,Aspendale,No. 3,Ethan Tsui,Massimo Vignali,Ethan Tsui,6-0,6,0,1,0,Completed,true,false,false
+UA018122,17 May 15,12,Lauriston,Aspendale,No. 4,Sara Taitt,Brodie Foaulds,Brodie Foaulds,1-6,1,6,0,1,Completed,true,false,false
+UA018123,17 May 15,12,Kooyong,Glen Eira,No. 1,James Di Nicolantoni,Louis McNabney-Stevens,Louis McNabney-Stevens,3-6,3,6,0,1,Completed,true,false,false
+UA018123,17 May 15,12,Kooyong,Glen Eira,No. 2,Ava Synnott,Oliver Hardman,Oliver Hardman,5-7,5,7,0,1,Completed,true,false,false
+UA018123,17 May 15,12,Kooyong,Glen Eira,No. 3,Findlay Bell,Martin Casanovas,Martin Casanovas,0-6,0,6,0,1,Completed,true,false,false
+UA018123,17 May 15,12,Kooyong,Glen Eira,No. 4,Lucy Keilar,Rachel Gluzman,Rachel Gluzman,3-6,3,6,0,1,Completed,true,false,false
+UA018124,17 May 15,12,Hampton,Beaumaris CC,No. 1,Grace Roache,Chloe Hecker,Chloe Hecker,0-6,0,6,0,1,Completed,true,false,false
+UA018124,17 May 15,12,Hampton,Beaumaris CC,No. 2,Ava Shannon,Sarah Love,Sarah Love,4-6,4,6,0,1,Completed,true,false,false
+UA018124,17 May 15,12,Hampton,Beaumaris CC,No. 3,Elsie Maginness,Isabella Nicolis,Isabella Nicolis,0-6,0,6,0,1,Completed,true,false,false
+UA018124,17 May 15,12,Hampton,Beaumaris CC,No. 4,Sarah Benvenuto,Jenna Brown,Jenna Brown,1-6,1,6,0,1,Completed,true,false,false
+UA018131,24 May 15,13,BLTC,Hampton,No. 1,Olivia Moir,Henry Bytheway,Olivia Moir,6-3,6,3,1,0,Completed,true,false,false
+UA018131,24 May 15,13,BLTC,Hampton,No. 2,Liby Pearce,Charlotte Bytheway,Liby Pearce,7-6,7,6,1,0,Completed,true,false,false
+UA018131,24 May 15,13,BLTC,Hampton,No. 3,Alexie Briggs,Grace Roache,Alexie Briggs,6-0,6,0,1,0,Completed,true,false,false
+UA018131,24 May 15,13,BLTC,Hampton,No. 4,Josh Simmons,Ava Shannon,Josh Simmons,6-0,6,0,1,0,Completed,true,false,false
+UA018133,24 May 15,13,Glen Eira,Lauriston,No. 1,Louis McNabney-Stevens,Thomas Wilson,Louis McNabney-Stevens,6-0,6,0,1,0,Completed,true,false,false
+UA018133,24 May 15,13,Glen Eira,Lauriston,No. 2,Martin Casanovas,Paris Arzanas,Martin Casanovas,6-0,6,0,1,0,Completed,true,false,false
+UA018133,24 May 15,13,Glen Eira,Lauriston,No. 3,Rachel Gluzman,Arron Nazaretian,Arron Nazaretian,4-6,4,6,0,1,Completed,true,false,false
+UA018133,24 May 15,13,Glen Eira,Lauriston,No. 4,Ashleigh Datt,Sara Taitt,Ashleigh Datt,6-4,6,4,1,0,Completed,true,false,false
+UA018134,24 May 15,13,Aspendale,Kooyong,No. 1,Matthew De Silva,Findlay Bell,Matthew De Silva,7-5,7,5,1,0,Completed,true,false,false
+UA018134,24 May 15,13,Aspendale,Kooyong,No. 2,Jack Crowe,James Di Nicolantoni,James Di Nicolantoni,4-6,4,6,0,1,Completed,true,false,false
+UA018134,24 May 15,13,Aspendale,Kooyong,No. 3,Jessica De Silva,Ava Synnott,Jessica De Silva,6-2,6,2,1,0,Completed,true,false,false
+UA018134,24 May 15,13,Aspendale,Kooyong,No. 4,Massimo Vignali,Caroline Marcel,Massimo Vignali,7-5,7,5,1,0,Completed,true,false,false
+UA018141,31 May 15,14,BLTC,Beaumaris CC,No. 1,Olivia Moir,Chloe Hecker,Chloe Hecker,4-6,4,6,0,1,Completed,true,false,false
+UA018141,31 May 15,14,BLTC,Beaumaris CC,No. 2,Liby Pearce,Sarah Love,Liby Pearce,6-4,6,4,1,0,Completed,true,false,false
+UA018141,31 May 15,14,BLTC,Beaumaris CC,No. 3,Alexie Briggs,Isabella Nicolis,Alexie Briggs,6-4,6,4,1,0,Completed,true,false,false
+UA018141,31 May 15,14,BLTC,Beaumaris CC,No. 4,Josh Simmons,Jenna Brown,Josh Simmons,6-1,6,1,1,0,Completed,true,false,false
+UA018142,31 May 15,14,Bodley Tennis Plus,Hampton,No. 1,Ruby De Luca,Charlotte Bytheway,Ruby De Luca,6-2,6,2,1,0,Completed,true,false,false
+UA018142,31 May 15,14,Bodley Tennis Plus,Hampton,No. 2,Lily Snooks,Ava Shannon,Lily Snooks,6-2,6,2,1,0,Completed,true,false,false
+UA018142,31 May 15,14,Bodley Tennis Plus,Hampton,No. 3,Brooke Mahoney,Elsie Maginness,Brooke Mahoney,6-1,6,1,1,0,Completed,true,false,false
+UA018142,31 May 15,14,Bodley Tennis Plus,Hampton,No. 4,Alex Fennessy,Sarah Benvenuto,Alex Fennessy,6-0,6,0,1,0,Completed,true,false,false
+UA018143,31 May 15,14,Glen Eira,Aspendale,No. 1,Louis McNabney-Stevens,Matthew De Silva,Matthew De Silva,0-6,0,6,0,1,Completed,true,false,false
+UA018143,31 May 15,14,Glen Eira,Aspendale,No. 2,Oliver Hardman,Jack Crowe,Jack Crowe,2-6,2,6,0,1,Completed,true,false,false
+UA018143,31 May 15,14,Glen Eira,Aspendale,No. 3,Martin Casanovas,[Unnamed player — TROLS UA018143 away code 3],Martin Casanovas,6-0,6,0,1,0,Completed,false,false,false
+UA018143,31 May 15,14,Glen Eira,Aspendale,No. 4,Ashleigh Datt,Massimo Vignali,Ashleigh Datt,6-4,6,4,1,0,Completed,true,false,false
+UA018144,31 May 15,14,Kooyong,Lauriston,No. 1,Sophie Courtney,Paris Arzanas,Paris Arzanas,3-6,3,6,0,1,Completed,true,false,false
+UA018144,31 May 15,14,Kooyong,Lauriston,No. 2,James Di Nicolantoni,Arron Nazaretian,James Di Nicolantoni,6-3,6,3,1,0,Completed,true,false,false
+UA018144,31 May 15,14,Kooyong,Lauriston,No. 3,Caroline Marcel,Ethan Tsui,Ethan Tsui,2-6,2,6,0,1,Completed,true,false,false
+UA018144,31 May 15,14,Kooyong,Lauriston,No. 4,Lucy Keilar,Sara Taitt,Sara Taitt,1-6,1,6,0,1,Completed,true,false,false
+UA018301,,16,Aspendale,BLTC,No. 1,Matthew De Silva,Olivia Moir,Matthew De Silva,6-2,6,2,1,0,Completed,true,false,false
+UA018301,,16,Aspendale,BLTC,No. 2,Jack Crowe,Liby Pearce,Jack Crowe,6-3,6,3,1,0,Completed,true,false,false
+UA018301,,16,Aspendale,BLTC,No. 3,Nicholas Kircher-Wilson,Alexie Briggs,Alexie Briggs,4-6,4,6,0,1,Completed,true,false,false
+UA018301,,16,Aspendale,BLTC,No. 4,Jessica De Silva,Josh Simmons,Josh Simmons,1-6,1,6,0,1,Completed,true,false,false
+UA018302,,16,Bodley Tennis Plus,Glen Eira,No. 1,Ruby De Luca,Louis McNabney-Stevens,Louis McNabney-Stevens,5-7,5,7,0,1,Completed,true,false,false
+UA018302,,16,Bodley Tennis Plus,Glen Eira,No. 2,Lily Snooks,Oliver Hardman,Lily Snooks,7-5,7,5,1,0,Completed,true,false,false
+UA018302,,16,Bodley Tennis Plus,Glen Eira,No. 3,Brooke Mahoney,Martin Casanovas,Brooke Mahoney,6-2,6,2,1,0,Completed,true,false,false
+UA018302,,16,Bodley Tennis Plus,Glen Eira,No. 4,Alex Fennessy,Ashleigh Datt,Alex Fennessy,6-0,6,0,1,0,Completed,true,false,false
+UA018321,,17,Aspendale,Bodley Tennis Plus,No. 1,Matthew De Silva,Ruby De Luca,Ruby De Luca,2-6,2,6,0,1,Completed,true,false,false
+UA018321,,17,Aspendale,Bodley Tennis Plus,No. 2,Jack Crowe,Lily Snooks,Jack Crowe,6-3,6,3,1,0,Completed,true,true,false
+UA018321,,17,Aspendale,Bodley Tennis Plus,No. 3,Nicholas Kircher-Wilson,Brooke Mahoney,Brooke Mahoney,2-6,2,6,0,1,Completed,true,false,false
+UA018321,,17,Aspendale,Bodley Tennis Plus,No. 4,Jessica De Silva,Alex Fennessy,Alex Fennessy,2-6,2,6,0,1,Completed,true,false,false

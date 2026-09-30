@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA33-UA012",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2023",
+  "season_id": "UA33",
+  "season_label": "Spring 2023",
+  "source_section_code": "UA012",
+  "section_label": "Section 12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "GPHC 2",
+      "wins": 9,
+      "points": 85,
+      "percentage": 132.35,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Black Rock",
+      "wins": 9,
+      "points": 83,
+      "percentage": 135.36,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Parkdale",
+      "wins": 5,
+      "points": 65.5,
+      "percentage": 109.0,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Kings Park",
+      "wins": 5,
+      "points": 60,
+      "percentage": 102.14,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Centenary Park",
+      "wins": 4,
+      "points": 50.5,
+      "percentage": 84.26,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC 1",
+      "wins": 4,
+      "points": 50,
+      "percentage": 79.51,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 1,
+      "points": 26,
+      "percentage": 71.93,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA33-UA012",
+  "fixtures": 59,
+  "completed_fixtures": 44,
+  "draw_fixtures": 45,
+  "singles_rubbers": 169,
+  "doubles_rubbers": 88,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

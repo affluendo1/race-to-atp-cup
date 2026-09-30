@@ -1,0 +1,225 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA002011,19 Jul 15,1,Caulfield Rec,Mordialloc,No. 1,James Dosser,Harrison Davis,James Dosser,6-3,6,3,1,0,Completed,true,false,false
+UA002011,19 Jul 15,1,Caulfield Rec,Mordialloc,No. 2,Gabriel Giber,Josh Powell,Josh Powell,4-6,4,6,0,1,Completed,true,false,false
+UA002011,19 Jul 15,1,Caulfield Rec,Mordialloc,No. 3,Nigel Appelboom,Alec Stobie,Alec Stobie,4-6,4,6,0,1,Completed,true,false,false
+UA002011,19 Jul 15,1,Caulfield Rec,Mordialloc,No. 4,Dennis Davidson,Kartik Sehgal,Kartik Sehgal,0-6,0,6,0,1,Completed,true,false,false
+UA002012,19 Jul 15,1,GPHC,Royal South Yarra,No. 1,James Tarrant,Jonas Holk Darmos,Jonas Holk Darmos,2-6,2,6,0,1,Completed,true,false,false
+UA002012,19 Jul 15,1,GPHC,Royal South Yarra,No. 2,Donald Quach,Henry Gannon,Donald Quach,6-0,6,0,1,0,Completed,true,false,false
+UA002012,19 Jul 15,1,GPHC,Royal South Yarra,No. 3,Georgia Deacon,Hugo Druce,Georgia Deacon,6-2,6,2,1,0,Completed,true,false,false
+UA002012,19 Jul 15,1,GPHC,Royal South Yarra,No. 4,Oliver Tehan,John Harley,Oliver Tehan,6-0,6,0,1,0,Completed,true,false,false
+UA002013,19 Jul 15,1,Royal Ave,Parkdale,No. 1,Ethan Holden,Tyler Bradley,Tyler Bradley,5-7,5,7,0,1,Completed,true,false,false
+UA002013,19 Jul 15,1,Royal Ave,Parkdale,No. 2,Cole Rooney,Sean Enright,Sean Enright,2-6,2,6,0,1,Completed,true,false,false
+UA002013,19 Jul 15,1,Royal Ave,Parkdale,No. 3,Gabi Zafrin,Jeremy Gonis,Gabi Zafrin,7-6,7,6,1,0,Completed,true,false,false
+UA002013,19 Jul 15,1,Royal Ave,Parkdale,No. 4,Damien Brook-Bazzani,Luke Shi,Luke Shi,3-6,3,6,0,1,Completed,true,false,false
+UA002014,19 Jul 15,1,Coatesville,Carmelite,No. 1,Michael Gershezan,Cathryn Goh,Michael Gershezan,7-6,7,6,1,0,Completed,true,false,false
+UA002014,19 Jul 15,1,Coatesville,Carmelite,No. 2,James Alevizos,Laura Gilbertson,James Alevizos,6-2,6,2,1,0,Completed,true,false,false
+UA002014,19 Jul 15,1,Coatesville,Carmelite,No. 3,Hugh Keenan,Tia Baptista,Hugh Keenan,6-0,6,0,1,0,Completed,true,false,false
+UA002014,19 Jul 15,1,Coatesville,Carmelite,No. 4,Nathan Chan Yam,Isabella Michaels,Nathan Chan Yam,6-0,6,0,1,0,Completed,true,false,false
+UA002021,26 Jul 15,2,Carmelite,Caulfield Rec,No. 1,Cathryn Goh,James Dosser,James Dosser,0-6,0,6,0,1,Completed,true,false,false
+UA002021,26 Jul 15,2,Carmelite,Caulfield Rec,No. 2,Laura Gilbertson,Gabriel Giber,Gabriel Giber,1-6,1,6,0,1,Completed,true,false,false
+UA002021,26 Jul 15,2,Carmelite,Caulfield Rec,No. 3,Isabella Michaels,Nigel Appelboom,Isabella Michaels,7-6,7,6,1,0,Completed,true,false,false
+UA002021,26 Jul 15,2,Carmelite,Caulfield Rec,No. 4,Suhani Jain,Josh Dosser,Josh Dosser,2-6,2,6,0,1,Completed,true,false,false
+UA002022,26 Jul 15,2,Mordialloc,GPHC,No. 1,Harrison Davis,James Tarrant,James Tarrant,3-6,3,6,0,1,Completed,true,false,false
+UA002022,26 Jul 15,2,Mordialloc,GPHC,No. 2,William Gallagher,Donald Quach,Donald Quach,1-6,1,6,0,1,Completed,true,false,false
+UA002022,26 Jul 15,2,Mordialloc,GPHC,No. 3,Josh Powell,Oliver Tehan,Josh Powell,6-2,6,2,1,0,Completed,true,false,false
+UA002022,26 Jul 15,2,Mordialloc,GPHC,No. 4,Alec Stobie,Jet Wigley,Alec Stobie,6-1,6,1,1,0,Completed,true,false,false
+UA002023,26 Jul 15,2,Royal South Yarra,Royal Ave,No. 1,Liam Albrecht,Ethan Holden,Ethan Holden,1-6,1,6,0,1,Completed,true,false,false
+UA002023,26 Jul 15,2,Royal South Yarra,Royal Ave,No. 2,Jonas Holk Darmos,Cole Rooney,Jonas Holk Darmos,6-4,6,4,1,0,Completed,true,false,false
+UA002023,26 Jul 15,2,Royal South Yarra,Royal Ave,No. 3,Henry Gannon,Andrew Ziaris,Henry Gannon,6-4,6,4,1,0,Completed,true,false,false
+UA002023,26 Jul 15,2,Royal South Yarra,Royal Ave,No. 4,Hugo Druce,Nate Hollis,Nate Hollis,4-6,4,6,0,1,Completed,true,false,false
+UA002024,26 Jul 15,2,Parkdale,Coatesville,No. 1,Sean Enright,Michael Gershezan,Michael Gershezan,1-6,1,6,0,1,Completed,true,false,false
+UA002024,26 Jul 15,2,Parkdale,Coatesville,No. 2,Jason Bartonek,James Alevizos,James Alevizos,0-6,0,6,0,1,Completed,true,false,false
+UA002024,26 Jul 15,2,Parkdale,Coatesville,No. 3,James Comben,Nathan Chan Yam,Nathan Chan Yam,1-6,1,6,0,1,Completed,true,false,false
+UA002024,26 Jul 15,2,Parkdale,Coatesville,No. 4,Luke Shi,Patrick Hibbert,Luke Shi,6-3,6,3,1,0,Completed,true,false,false
+UA002031,02 Aug 15,3,Caulfield Rec,Parkdale,No. 1,James Dosser,Sean Vandenbroek,James Dosser,6-3,6,3,1,0,Completed,true,false,false
+UA002031,02 Aug 15,3,Caulfield Rec,Parkdale,No. 2,Gabriel Giber,Jason Bartonek,Gabriel Giber,6-1,6,1,1,0,Completed,true,false,false
+UA002031,02 Aug 15,3,Caulfield Rec,Parkdale,No. 3,Josh Dosser,Jeremy Gonis,Jeremy Gonis,5-7,5,7,0,1,Completed,true,false,false
+UA002031,02 Aug 15,3,Caulfield Rec,Parkdale,No. 4,Dennis Davidson,Luke Shi,Luke Shi,2-6,2,6,0,1,Completed,true,false,false
+UA002032,02 Aug 15,3,GPHC,Carmelite,No. 1,James Tarrant,Cathryn Goh,James Tarrant,6-2,6,2,1,0,Completed,true,false,false
+UA002032,02 Aug 15,3,GPHC,Carmelite,No. 2,Oliver Tehan,Tia Baptista,Oliver Tehan,6-4,6,4,1,0,Completed,true,false,false
+UA002032,02 Aug 15,3,GPHC,Carmelite,No. 3,Alec Gaudin,Ralph Bleechmore,Alec Gaudin,6-0,6,0,1,0,Completed,true,false,false
+UA002032,02 Aug 15,3,GPHC,Carmelite,No. 4,Jet Wigley,Suhani Jain,Suhani Jain,2-6,2,6,0,1,Completed,true,false,false
+UA002033,02 Aug 15,3,Royal Ave,Mordialloc,No. 1,Cole Rooney,Harrison Davis,Harrison Davis,1-6,1,6,0,1,Completed,true,false,false
+UA002033,02 Aug 15,3,Royal Ave,Mordialloc,No. 2,Gabi Zafrin,William Gallagher,William Gallagher,3-6,3,6,0,1,Completed,true,false,false
+UA002033,02 Aug 15,3,Royal Ave,Mordialloc,No. 3,Damien Brook-Bazzani,Josh Powell,Josh Powell,2-6,2,6,0,1,Completed,true,false,false
+UA002033,02 Aug 15,3,Royal Ave,Mordialloc,No. 4,Nate Hollis,Alec Stobie,Alec Stobie,4-6,4,6,0,1,Completed,true,false,false
+UA002034,02 Aug 15,3,Coatesville,Royal South Yarra,No. 1,James Alevizos,Jonas Holk Darmos,Jonas Holk Darmos,3-6,3,6,0,1,Completed,true,false,false
+UA002034,02 Aug 15,3,Coatesville,Royal South Yarra,No. 2,Hugh Keenan,Henry Gannon,Hugh Keenan,6-2,6,2,1,0,Completed,true,false,false
+UA002034,02 Aug 15,3,Coatesville,Royal South Yarra,No. 3,Nathan Chan Yam,Henry Campbell,Nathan Chan Yam,6-4,6,4,1,0,Completed,true,false,false
+UA002034,02 Aug 15,3,Coatesville,Royal South Yarra,No. 4,Patrick Hibbert,Hugo Druce,Hugo Druce,5-7,5,7,0,1,Completed,true,false,false
+UA002041,09 Aug 15,4,Royal South Yarra,Caulfield Rec,No. 1,Liam Albrecht,James Dosser,James Dosser,2-6,2,6,0,1,Completed,true,false,false
+UA002041,09 Aug 15,4,Royal South Yarra,Caulfield Rec,No. 2,Maxim Fisher,Gabriel Giber,Gabriel Giber,2-6,2,6,0,1,Completed,true,false,false
+UA002041,09 Aug 15,4,Royal South Yarra,Caulfield Rec,No. 3,Henry Campbell,Josh Dosser,Josh Dosser,3-6,3,6,0,1,Completed,true,false,false
+UA002041,09 Aug 15,4,Royal South Yarra,Caulfield Rec,No. 4,Hugo Druce,Dennis Davidson,Dennis Davidson,4-6,4,6,0,1,Completed,true,false,false
+UA002042,09 Aug 15,4,Parkdale,GPHC,No. 1,Tyler Bradley,Donald Quach,Donald Quach,1-6,1,6,0,1,Completed,true,false,false
+UA002042,09 Aug 15,4,Parkdale,GPHC,No. 2,Sean Enright,Georgia Deacon,Georgia Deacon,1-6,1,6,0,1,Completed,true,false,false
+UA002042,09 Aug 15,4,Parkdale,GPHC,No. 3,Luke Shi,Alec Gaudin,Alec Gaudin,1-6,1,6,0,1,Completed,true,false,false
+UA002042,09 Aug 15,4,Parkdale,GPHC,No. 4,Ben Stone,Jet Wigley,Jet Wigley,3-6,3,6,0,1,Completed,true,false,false
+UA002043,09 Aug 15,4,Carmelite,Royal Ave,No. 1,Cathryn Goh,Ethan Holden,Ethan Holden,4-6,4,6,0,1,Completed,true,false,false
+UA002043,09 Aug 15,4,Carmelite,Royal Ave,No. 2,Laura Gilbertson,Gabi Zafrin,Laura Gilbertson,7-6,7,6,1,0,Completed,true,false,false
+UA002043,09 Aug 15,4,Carmelite,Royal Ave,No. 3,Tia Baptista,Andrew Ziaris,Andrew Ziaris,1-6,1,6,0,1,Completed,true,false,false
+UA002043,09 Aug 15,4,Carmelite,Royal Ave,No. 4,Suhani Jain,Nate Hollis,Nate Hollis,3-6,3,6,0,1,Completed,true,false,false
+UA002044,09 Aug 15,4,Mordialloc,Coatesville,No. 1,Harrison Davis,Michael Gershezan,Harrison Davis,7-5,7,5,1,0,Completed,true,false,false
+UA002044,09 Aug 15,4,Mordialloc,Coatesville,No. 2,William Gallagher,Hugh Keenan,Hugh Keenan,4-6,4,6,0,1,Completed,true,false,false
+UA002044,09 Aug 15,4,Mordialloc,Coatesville,No. 3,Josh Powell,Patrick Hibbert,Patrick Hibbert,3-6,3,6,0,1,Completed,true,false,false
+UA002044,09 Aug 15,4,Mordialloc,Coatesville,No. 4,Alec Stobie,Daniel Gershezan,Daniel Gershezan,4-6,4,6,0,1,Completed,true,false,false
+UA002051,16 Aug 15,5,Royal Ave,Coatesville,No. 1,Ethan Holden,Hugh Callaghan,Hugh Callaghan,4-6,4,6,0,1,Completed,true,false,false
+UA002051,16 Aug 15,5,Royal Ave,Coatesville,No. 2,Cole Rooney,Michael Gershezan,Michael Gershezan,3-6,3,6,0,1,Completed,true,false,false
+UA002051,16 Aug 15,5,Royal Ave,Coatesville,No. 3,Gabi Zafrin,James Alevizos,James Alevizos,3-6,3,6,0,1,Completed,true,false,false
+UA002051,16 Aug 15,5,Royal Ave,Coatesville,No. 4,Damien Brook-Bazzani,Hugh Keenan,Hugh Keenan,4-6,4,6,0,1,Completed,true,false,false
+UA002052,16 Aug 15,5,Carmelite,Parkdale,No. 1,Laura Gilbertson,Tyler Bradley,Tyler Bradley,2-6,2,6,0,1,Completed,true,false,false
+UA002052,16 Aug 15,5,Carmelite,Parkdale,No. 2,Tia Baptista,Jason Bartonek,Jason Bartonek,2-6,2,6,0,1,Completed,true,false,false
+UA002052,16 Aug 15,5,Carmelite,Parkdale,No. 3,Ralph Bleechmore,James Comben,Ralph Bleechmore,6-2,6,2,1,0,Completed,true,false,false
+UA002052,16 Aug 15,5,Carmelite,Parkdale,No. 4,Suhani Jain,Luke Shi,Luke Shi,0-6,0,6,0,1,Completed,true,false,false
+UA002053,16 Aug 15,5,Royal South Yarra,Mordialloc,No. 1,Jonas Holk Darmos,Harrison Davis,Harrison Davis,6-7,6,7,0,1,Completed,true,false,false
+UA002053,16 Aug 15,5,Royal South Yarra,Mordialloc,No. 2,Henry Gannon,Josh Powell,Josh Powell,1-6,1,6,0,1,Completed,true,false,false
+UA002053,16 Aug 15,5,Royal South Yarra,Mordialloc,No. 3,Henry Campbell,Alec Stobie,Alec Stobie,4-6,4,6,0,1,Completed,true,false,false
+UA002053,16 Aug 15,5,Royal South Yarra,Mordialloc,No. 4,Bill Cameron,Samisdh Siva-Ram,Samisdh Siva-Ram,0-6,0,6,0,1,Completed,true,false,false
+UA002054,16 Aug 15,5,Caulfield Rec,GPHC,No. 1,Gabriel Giber,Donald Quach,Gabriel Giber,7-6,7,6,1,0,Completed,true,false,false
+UA002054,16 Aug 15,5,Caulfield Rec,GPHC,No. 2,Nigel Appelboom,Georgia Deacon,Nigel Appelboom,6-4,6,4,1,0,Completed,true,false,false
+UA002054,16 Aug 15,5,Caulfield Rec,GPHC,No. 3,Josh Dosser,Alec Gaudin,Josh Dosser,6-0,6,0,1,0,Completed,true,false,false
+UA002054,16 Aug 15,5,Caulfield Rec,GPHC,No. 4,Dennis Davidson,Jet Wigley,Dennis Davidson,6-1,6,1,1,0,Completed,true,false,false
+UA002061,23 Aug 15,6,GPHC,Royal Ave,No. 1,James Tarrant,Ethan Holden,James Tarrant,7-6,7,6,1,0,Completed,true,false,false
+UA002061,23 Aug 15,6,GPHC,Royal Ave,No. 2,Georgia Deacon,Cole Rooney,Cole Rooney,1-6,1,6,0,1,Completed,true,false,false
+UA002061,23 Aug 15,6,GPHC,Royal Ave,No. 3,Oliver Tehan,Gabi Zafrin,Gabi Zafrin,4-6,4,6,0,1,Completed,true,false,false
+UA002061,23 Aug 15,6,GPHC,Royal Ave,No. 4,Jet Wigley,Nate Hollis,Nate Hollis,4-6,4,6,0,1,Completed,true,false,false
+UA002062,23 Aug 15,6,Coatesville,Caulfield Rec,No. 1,Hugh Callaghan,James Dosser,James Dosser,4-6,4,6,0,1,Completed,true,false,false
+UA002062,23 Aug 15,6,Coatesville,Caulfield Rec,No. 2,James Alevizos,Gabriel Giber,Gabriel Giber,0-6,0,6,0,1,Completed,true,false,false
+UA002062,23 Aug 15,6,Coatesville,Caulfield Rec,No. 3,Hugh Keenan,Josh Dosser,Hugh Keenan,6-2,6,2,1,0,Completed,true,false,false
+UA002062,23 Aug 15,6,Coatesville,Caulfield Rec,No. 4,Patrick Hibbert,Dennis Davidson,Patrick Hibbert,6-3,6,3,1,0,Completed,true,false,false
+UA002063,23 Aug 15,6,Parkdale,Royal South Yarra,No. 1,Sean Enright,Liam Albrecht,Liam Albrecht,0-6,0,6,0,1,Completed,true,false,false
+UA002063,23 Aug 15,6,Parkdale,Royal South Yarra,No. 2,Jason Bartonek,Jonas Holk Darmos,Jonas Holk Darmos,2-6,2,6,0,1,Completed,true,false,false
+UA002063,23 Aug 15,6,Parkdale,Royal South Yarra,No. 3,James Comben,Maxim Fisher,Maxim Fisher,0-6,0,6,0,1,Completed,true,false,false
+UA002063,23 Aug 15,6,Parkdale,Royal South Yarra,No. 4,Jeremy Gonis,Henry Gannon,Jeremy Gonis,6-2,6,2,1,0,Completed,true,false,false
+UA002064,23 Aug 15,6,Mordialloc,Carmelite,No. 1,Harrison Davis,Cathryn Goh,Harrison Davis,6-3,6,3,1,0,Completed,true,false,false
+UA002064,23 Aug 15,6,Mordialloc,Carmelite,No. 2,William Gallagher,Laura Gilbertson,William Gallagher,6-0,6,0,1,0,Completed,true,false,false
+UA002064,23 Aug 15,6,Mordialloc,Carmelite,No. 3,Alec Stobie,Tia Baptista,Alec Stobie,6-0,6,0,1,0,Completed,true,false,false
+UA002064,23 Aug 15,6,Mordialloc,Carmelite,No. 4,Lachlan Jones,Ralph Bleechmore,Ralph Bleechmore,3-6,3,6,0,1,Completed,true,false,false
+UA002071,30 Aug 15,7,Caulfield Rec,Royal Ave,No. 1,James Dosser,Ethan Holden,Ethan Holden,3-6,3,6,0,1,Completed,true,false,false
+UA002071,30 Aug 15,7,Caulfield Rec,Royal Ave,No. 2,Gabriel Giber,Damien Brook-Bazzani,Gabriel Giber,6-3,6,3,1,0,Completed,true,false,false
+UA002071,30 Aug 15,7,Caulfield Rec,Royal Ave,No. 3,Nigel Appelboom,Andrew Ziaris,Nigel Appelboom,7-6,7,6,1,0,Completed,true,false,false
+UA002071,30 Aug 15,7,Caulfield Rec,Royal Ave,No. 4,Josh Dosser,Nate Hollis,Josh Dosser,6-3,6,3,1,0,Completed,true,false,false
+UA002072,30 Aug 15,7,GPHC,Coatesville,No. 1,James Tarrant,James Alevizos,James Tarrant,6-4,6,4,1,0,Completed,true,false,false
+UA002072,30 Aug 15,7,GPHC,Coatesville,No. 2,Donald Quach,Hugh Keenan,Hugh Keenan,4-6,4,6,0,1,Completed,true,false,false
+UA002072,30 Aug 15,7,GPHC,Coatesville,No. 3,Georgia Deacon,Patrick Hibbert,Georgia Deacon,6-1,6,1,1,0,Completed,true,false,false
+UA002072,30 Aug 15,7,GPHC,Coatesville,No. 4,Oliver Tehan,Jack O'Neill,Jack O'Neill,5-7,5,7,0,1,Completed,true,false,false
+UA002073,30 Aug 15,7,Carmelite,Royal South Yarra,No. 1,Cathryn Goh,Jonas Holk Darmos,Jonas Holk Darmos,1-6,1,6,0,1,Completed,true,false,false
+UA002073,30 Aug 15,7,Carmelite,Royal South Yarra,No. 2,Laura Gilbertson,Henry Campbell,Henry Campbell,3-6,3,6,0,1,Completed,true,false,false
+UA002073,30 Aug 15,7,Carmelite,Royal South Yarra,No. 3,Tia Baptista,Hugo Druce,Tia Baptista,7-5,7,5,1,0,Completed,true,false,false
+UA002073,30 Aug 15,7,Carmelite,Royal South Yarra,No. 4,Suhani Jain,Bill Cameron,Bill Cameron,2-6,2,6,0,1,Completed,true,false,false
+UA002074,30 Aug 15,7,Parkdale,Mordialloc,No. 1,Sean Enright,Harrison Davis,Harrison Davis,1-6,1,6,0,1,Completed,true,false,false
+UA002074,30 Aug 15,7,Parkdale,Mordialloc,No. 2,James Comben,William Gallagher,William Gallagher,1-6,1,6,0,1,Completed,true,false,false
+UA002074,30 Aug 15,7,Parkdale,Mordialloc,No. 3,Jeremy Gonis,Josh Powell,Josh Powell,3-6,3,6,0,1,Completed,true,false,false
+UA002074,30 Aug 15,7,Parkdale,Mordialloc,No. 4,Luke Shi,Alec Stobie,Alec Stobie,3-6,3,6,0,1,Completed,true,false,false
+UA002081,06 Sep 15,8,Mordialloc,Caulfield Rec,No. 1,Harrison Davis,Gabriel Giber,Harrison Davis,6-4,6,4,1,0,Completed,true,false,false
+UA002081,06 Sep 15,8,Mordialloc,Caulfield Rec,No. 2,William Gallagher,Nigel Appelboom,William Gallagher,6-2,6,2,1,0,Completed,true,false,false
+UA002081,06 Sep 15,8,Mordialloc,Caulfield Rec,No. 3,Josh Powell,Josh Dosser,Josh Powell,7-5,7,5,1,0,Completed,true,false,false
+UA002081,06 Sep 15,8,Mordialloc,Caulfield Rec,No. 4,Alec Stobie,Dennis Davidson,Alec Stobie,6-1,6,1,1,0,Completed,true,false,false
+UA002082,06 Sep 15,8,Royal South Yarra,GPHC,No. 1,Liam Albrecht,James Tarrant,Liam Albrecht,6-2,6,2,1,0,Completed,true,false,false
+UA002082,06 Sep 15,8,Royal South Yarra,GPHC,No. 2,Maxim Fisher,Donald Quach,Donald Quach,4-6,4,6,0,1,Completed,true,false,false
+UA002082,06 Sep 15,8,Royal South Yarra,GPHC,No. 3,Henry Gannon,Georgia Deacon,Georgia Deacon,1-6,1,6,0,1,Completed,true,false,false
+UA002082,06 Sep 15,8,Royal South Yarra,GPHC,No. 4,Bill Cameron,Jet Wigley,Jet Wigley,4-6,4,6,0,1,Completed,true,false,false
+UA002083,06 Sep 15,8,Parkdale,Royal Ave,No. 1,Ben Milne,Gabi Zafrin,Gabi Zafrin,3-6,3,6,0,1,Completed,true,false,false
+UA002083,06 Sep 15,8,Parkdale,Royal Ave,No. 2,Tyler Bradley,Damien Brook-Bazzani,Tyler Bradley,6-0,6,0,1,0,Completed,true,false,false
+UA002083,06 Sep 15,8,Parkdale,Royal Ave,No. 3,James Comben,Andrew Ziaris,James Comben,6-4,6,4,1,0,Completed,true,false,false
+UA002083,06 Sep 15,8,Parkdale,Royal Ave,No. 4,Jeremy Gonis,Nate Hollis,Jeremy Gonis,6-0,6,0,1,0,Completed,true,false,false
+UA002084,06 Sep 15,8,Carmelite,Coatesville,No. 1,Cathryn Goh,Hugh Callaghan,Hugh Callaghan,2-6,2,6,0,1,Completed,true,false,false
+UA002084,06 Sep 15,8,Carmelite,Coatesville,No. 2,Laura Gilbertson,James Alevizos,James Alevizos,5-7,5,7,0,1,Completed,true,false,false
+UA002084,06 Sep 15,8,Carmelite,Coatesville,No. 3,Tia Baptista,Hugh Keenan,Hugh Keenan,2-6,2,6,0,1,Completed,true,false,false
+UA002084,06 Sep 15,8,Carmelite,Coatesville,No. 4,Suhani Jain,Patrick Hibbert,Patrick Hibbert,0-6,0,6,0,1,Completed,true,false,false
+UA002092,13 Sep 15,9,GPHC,Mordialloc,No. 1,James Tarrant,Harrison Davis,Harrison Davis,0-6,0,6,0,1,Completed,true,false,false
+UA002092,13 Sep 15,9,GPHC,Mordialloc,No. 2,Georgia Deacon,William Gallagher,Georgia Deacon,6-1,6,1,1,0,Completed,true,false,false
+UA002092,13 Sep 15,9,GPHC,Mordialloc,No. 3,Jet Wigley,Josh Powell,Josh Powell,4-6,4,6,0,1,Completed,true,false,false
+UA002092,13 Sep 15,9,GPHC,Mordialloc,No. 4,Simon Tarrant,Alec Stobie,Simon Tarrant,6-3,6,3,1,0,Completed,true,false,false
+UA002093,13 Sep 15,9,Royal Ave,Royal South Yarra,No. 1,Ethan Holden,Liam Albrecht,Ethan Holden,6-0,6,0,1,0,Completed,true,false,false
+UA002093,13 Sep 15,9,Royal Ave,Royal South Yarra,No. 2,Cole Rooney,Maxim Fisher,Cole Rooney,6-2,6,2,1,0,Completed,true,false,false
+UA002093,13 Sep 15,9,Royal Ave,Royal South Yarra,No. 3,Damien Brook-Bazzani,Henry Gannon,Henry Gannon,3-6,3,6,0,1,Completed,true,false,false
+UA002093,13 Sep 15,9,Royal Ave,Royal South Yarra,No. 4,Andrew Ziaris,Bill Cameron,Bill Cameron,4-6,4,6,0,1,Completed,true,false,false
+UA002094,13 Sep 15,9,Coatesville,Parkdale,No. 1,James Alevizos,Tyler Bradley,Tyler Bradley,5-7,5,7,0,1,Completed,true,false,false
+UA002094,13 Sep 15,9,Coatesville,Parkdale,No. 2,Hugh Keenan,James Comben,James Comben,5-7,5,7,0,1,Completed,true,false,false
+UA002094,13 Sep 15,9,Coatesville,Parkdale,No. 3,Tasouli Goranitis,Jeremy Gonis,Tasouli Goranitis,7-5,7,5,1,0,Completed,true,false,false
+UA002094,13 Sep 15,9,Coatesville,Parkdale,No. 4,Patrick Hibbert,Luke Shi,Patrick Hibbert,6-2,6,2,1,0,Completed,true,false,false
+UA002101,11 Oct 15,10,Parkdale,Caulfield Rec,No. 1,Sean Enright,James Dosser,James Dosser,1-6,1,6,0,1,Completed,true,false,false
+UA002101,11 Oct 15,10,Parkdale,Caulfield Rec,No. 2,James Comben,Gabriel Giber,Gabriel Giber,1-6,1,6,0,1,Completed,true,false,false
+UA002101,11 Oct 15,10,Parkdale,Caulfield Rec,No. 3,Jeremy Gonis,Josh Dosser,Josh Dosser,2-6,2,6,0,1,Completed,true,false,false
+UA002101,11 Oct 15,10,Parkdale,Caulfield Rec,No. 4,Luke Shi,Dennis Davidson,Luke Shi,6-1,6,1,1,0,Completed,true,false,false
+UA002102,11 Oct 15,10,Carmelite,GPHC,No. 1,Cathryn Goh,Donald Quach,Donald Quach,0-6,0,6,0,1,Completed,true,false,false
+UA002102,11 Oct 15,10,Carmelite,GPHC,No. 2,Laura Gilbertson,Simon Tarrant,Simon Tarrant,1-6,1,6,0,1,Completed,true,false,false
+UA002102,11 Oct 15,10,Carmelite,GPHC,No. 3,Tia Baptista,Oliver Tehan,Oliver Tehan,0-6,0,6,0,1,Completed,true,false,false
+UA002102,11 Oct 15,10,Carmelite,GPHC,No. 4,Suhani Jain,Jet Wigley,Jet Wigley,1-6,1,6,0,1,Completed,true,false,false
+UA002103,11 Oct 15,10,Mordialloc,Royal Ave,No. 1,Harrison Davis,Ethan Holden,Harrison Davis,7-5,7,5,1,0,Completed,true,false,false
+UA002103,11 Oct 15,10,Mordialloc,Royal Ave,No. 2,William Gallagher,Cole Rooney,William Gallagher,6-3,6,3,1,0,Completed,true,false,false
+UA002103,11 Oct 15,10,Mordialloc,Royal Ave,No. 3,Josh Powell,Gabi Zafrin,Josh Powell,7-5,7,5,1,0,Completed,true,false,false
+UA002103,11 Oct 15,10,Mordialloc,Royal Ave,No. 4,Alec Stobie,Nate Hollis,Alec Stobie,6-0,6,0,1,0,Completed,true,false,false
+UA002104,11 Oct 15,10,Royal South Yarra,Coatesville,No. 1,Jonas Holk Darmos,James Alevizos,Jonas Holk Darmos,6-3,6,3,1,0,Completed,true,false,false
+UA002104,11 Oct 15,10,Royal South Yarra,Coatesville,No. 2,Maxim Fisher,Marcus Adaro,Maxim Fisher,6-4,6,4,1,0,Completed,true,false,false
+UA002104,11 Oct 15,10,Royal South Yarra,Coatesville,No. 3,Henry Campbell,Patrick Hibbert,Patrick Hibbert,3-6,3,6,0,1,Completed,true,false,false
+UA002104,11 Oct 15,10,Royal South Yarra,Coatesville,No. 4,Hugo Druce,Sam Carter,Sam Carter,1-6,1,6,0,1,Completed,true,false,false
+UA002111,18 Oct 15,11,Caulfield Rec,Royal South Yarra,No. 1,James Dosser,Liam Albrecht,James Dosser,6-3,6,3,1,0,Completed,true,false,false
+UA002111,18 Oct 15,11,Caulfield Rec,Royal South Yarra,No. 2,Gabriel Giber,Jonas Holk Darmos,Gabriel Giber,6-2,6,2,1,0,Completed,true,false,false
+UA002111,18 Oct 15,11,Caulfield Rec,Royal South Yarra,No. 3,Josh Dosser,Henry Gannon,Josh Dosser,6-0,6,0,1,0,Completed,true,false,false
+UA002111,18 Oct 15,11,Caulfield Rec,Royal South Yarra,No. 4,Dennis Davidson,Hugo Druce,Dennis Davidson,6-1,6,1,1,0,Completed,true,false,false
+UA002112,18 Oct 15,11,GPHC,Parkdale,No. 1,James Tarrant,Tyler Bradley,James Tarrant,6-4,6,4,1,0,Completed,true,false,false
+UA002112,18 Oct 15,11,GPHC,Parkdale,No. 2,Donald Quach,Sean Enright,Donald Quach,6-0,6,0,1,0,Completed,true,false,false
+UA002112,18 Oct 15,11,GPHC,Parkdale,No. 3,Jet Wigley,James Comben,James Comben,1-6,1,6,0,1,Completed,true,false,false
+UA002112,18 Oct 15,11,GPHC,Parkdale,No. 4,Simon Tarrant,Jeremy Gonis,Simon Tarrant,6-3,6,3,1,0,Completed,true,false,false
+UA002114,18 Oct 15,11,Coatesville,Mordialloc,No. 1,Michael Gershezan,Harrison Davis,Harrison Davis,2-6,2,6,0,1,Completed,true,false,false
+UA002114,18 Oct 15,11,Coatesville,Mordialloc,No. 2,James Alevizos,Josh Powell,Josh Powell,1-6,1,6,0,1,Completed,true,false,false
+UA002114,18 Oct 15,11,Coatesville,Mordialloc,No. 3,Patrick Hibbert,Alec Stobie,Alec Stobie,1-6,1,6,0,1,Completed,true,false,false
+UA002114,18 Oct 15,11,Coatesville,Mordialloc,No. 4,Daniel Gershezan,Lachlan Jones,Daniel Gershezan,6-1,6,1,1,0,Completed,true,false,false
+UA002121,25 Oct 15,12,Coatesville,Royal Ave,No. 1,Hugh Callaghan,Ethan Holden,Hugh Callaghan,6-4,6,4,1,0,Completed,true,false,false
+UA002121,25 Oct 15,12,Coatesville,Royal Ave,No. 2,Nathan Grooby,Cole Rooney,Cole Rooney,3-6,3,6,0,1,Completed,true,false,false
+UA002121,25 Oct 15,12,Coatesville,Royal Ave,No. 3,Tasouli Goranitis,Gabi Zafrin,Tasouli Goranitis,6-3,6,3,1,0,Completed,true,false,false
+UA002121,25 Oct 15,12,Coatesville,Royal Ave,No. 4,Patrick Hibbert,Luke Saliba,Patrick Hibbert,7-5,7,5,1,0,Completed,true,false,false
+UA002122,25 Oct 15,12,Parkdale,Carmelite,No. 1,Sean Enright,Isabella Michaels,Sean Enright,6-1,6,1,1,0,Completed,true,false,false
+UA002122,25 Oct 15,12,Parkdale,Carmelite,No. 2,James Comben,Ralph Bleechmore,Ralph Bleechmore,2-6,2,6,0,1,Completed,true,false,false
+UA002122,25 Oct 15,12,Parkdale,Carmelite,No. 3,Jeremy Gonis,Tia Baptista,Jeremy Gonis,6-0,6,0,1,0,Completed,true,false,false
+UA002122,25 Oct 15,12,Parkdale,Carmelite,No. 4,Luke Shi,Suhani Jain,Luke Shi,6-4,6,4,1,0,Completed,true,false,false
+UA002123,25 Oct 15,12,Mordialloc,Royal South Yarra,No. 1,Harrison Davis,Liam Albrecht,Harrison Davis,6-2,6,2,1,0,Completed,true,false,false
+UA002123,25 Oct 15,12,Mordialloc,Royal South Yarra,No. 2,William Gallagher,Maxim Fisher,William Gallagher,6-4,6,4,1,0,Completed,true,false,false
+UA002123,25 Oct 15,12,Mordialloc,Royal South Yarra,No. 3,Josh Powell,Henry Campbell,Josh Powell,6-2,6,2,1,0,Completed,true,false,false
+UA002123,25 Oct 15,12,Mordialloc,Royal South Yarra,No. 4,Alec Stobie,Bill Cameron,Alec Stobie,6-3,6,3,1,0,Completed,true,false,false
+UA002124,25 Oct 15,12,GPHC,Caulfield Rec,No. 1,James Tarrant,James Dosser,James Tarrant,6-0,6,0,1,0,Completed,true,false,false
+UA002124,25 Oct 15,12,GPHC,Caulfield Rec,No. 2,Donald Quach,Gabriel Giber,Donald Quach,7-5,7,5,1,0,Completed,true,false,false
+UA002124,25 Oct 15,12,GPHC,Caulfield Rec,No. 3,Oliver Tehan,Josh Dosser,Oliver Tehan,6-0,6,0,1,0,Completed,true,false,false
+UA002124,25 Oct 15,12,GPHC,Caulfield Rec,No. 4,Jet Wigley,Dennis Davidson,Jet Wigley,6-2,6,2,1,0,Completed,true,false,false
+UA002131,08 Nov 15,13,Royal Ave,GPHC,No. 1,Ethan Holden,James Tarrant,James Tarrant,4-6,4,6,0,1,Completed,true,false,false
+UA002131,08 Nov 15,13,Royal Ave,GPHC,No. 2,Gabi Zafrin,Georgia Deacon,Gabi Zafrin,6-3,6,3,1,0,Completed,true,false,false
+UA002131,08 Nov 15,13,Royal Ave,GPHC,No. 3,[Unnamed player — TROLS UA002131 home code 3],Donald Quach,[Unnamed player — TROLS UA002131 home code 3],6-0,6,0,1,0,Completed,false,false,false
+UA002131,08 Nov 15,13,Royal Ave,GPHC,No. 4,Nate Hollis,Oliver Tehan,Oliver Tehan,1-6,1,6,0,1,Completed,true,false,false
+UA002132,08 Nov 15,13,Caulfield Rec,Coatesville,No. 1,James Dosser,Hugh Callaghan,Hugh Callaghan,6-7,6,7,0,1,Completed,true,false,false
+UA002132,08 Nov 15,13,Caulfield Rec,Coatesville,No. 2,Gabriel Giber,James Alevizos,Gabriel Giber,6-2,6,2,1,0,Completed,true,false,false
+UA002132,08 Nov 15,13,Caulfield Rec,Coatesville,No. 3,Josh Dosser,Patrick Hibbert,Josh Dosser,6-3,6,3,1,0,Completed,true,false,false
+UA002132,08 Nov 15,13,Caulfield Rec,Coatesville,No. 4,Dennis Davidson,Sam Carter,Sam Carter,5-7,5,7,0,1,Completed,true,false,false
+UA002133,08 Nov 15,13,Royal South Yarra,Parkdale,No. 1,Jonas Holk Darmos,James Comben,Jonas Holk Darmos,6-1,6,1,1,0,Completed,true,false,false
+UA002133,08 Nov 15,13,Royal South Yarra,Parkdale,No. 2,Henry Gannon,Jeremy Gonis,Jeremy Gonis,5-7,5,7,0,1,Completed,true,false,false
+UA002133,08 Nov 15,13,Royal South Yarra,Parkdale,No. 3,Henry Campbell,Luke Shi,Luke Shi,4-6,4,6,0,1,Completed,true,false,false
+UA002133,08 Nov 15,13,Royal South Yarra,Parkdale,No. 4,Bill Cameron,Dylon Bradley,Dylon Bradley,0-6,0,6,0,1,Completed,true,false,false
+UA002134,08 Nov 15,13,Carmelite,Mordialloc,No. 1,Cathryn Goh,Harrison Davis,Harrison Davis,3-6,3,6,0,1,Completed,true,false,false
+UA002134,08 Nov 15,13,Carmelite,Mordialloc,No. 2,Laura Gilbertson,William Gallagher,William Gallagher,2-6,2,6,0,1,Completed,true,false,false
+UA002134,08 Nov 15,13,Carmelite,Mordialloc,No. 3,Ralph Bleechmore,Josh Powell,Ralph Bleechmore,6-1,6,1,1,0,Completed,true,false,false
+UA002134,08 Nov 15,13,Carmelite,Mordialloc,No. 4,Isabella Michaels,Alec Stobie,Alec Stobie,0-6,0,6,0,1,Completed,true,false,false
+UA002141,15 Nov 15,14,Royal Ave,Caulfield Rec,No. 1,Ethan Holden,James Dosser,James Dosser,1-6,1,6,0,1,Completed,true,false,false
+UA002141,15 Nov 15,14,Royal Ave,Caulfield Rec,No. 2,Cole Rooney,Nigel Appelboom,Cole Rooney,6-1,6,1,1,0,Completed,true,false,false
+UA002141,15 Nov 15,14,Royal Ave,Caulfield Rec,No. 3,Gabi Zafrin,Josh Dosser,Josh Dosser,3-6,3,6,0,1,Completed,true,false,false
+UA002141,15 Nov 15,14,Royal Ave,Caulfield Rec,No. 4,Nate Hollis,Dennis Davidson,Nate Hollis,6-3,6,3,1,0,Completed,true,false,false
+UA002142,15 Nov 15,14,Coatesville,GPHC,No. 1,Hugh Callaghan,Donald Quach,Hugh Callaghan,6-1,6,1,1,0,Completed,true,false,false
+UA002142,15 Nov 15,14,Coatesville,GPHC,No. 2,James Alevizos,Georgia Deacon,James Alevizos,6-3,6,3,1,0,Completed,true,false,false
+UA002142,15 Nov 15,14,Coatesville,GPHC,No. 3,Patrick Hibbert,Oliver Tehan,Oliver Tehan,2-6,2,6,0,1,Completed,true,false,false
+UA002142,15 Nov 15,14,Coatesville,GPHC,No. 4,Tasouli Goranitis,Jet Wigley,Tasouli Goranitis,6-4,6,4,1,0,Completed,true,false,false
+UA002144,15 Nov 15,14,Mordialloc,Parkdale,No. 1,Harrison Davis,Sean Vandenbroek,Harrison Davis,6-1,6,1,1,0,Completed,true,false,false
+UA002144,15 Nov 15,14,Mordialloc,Parkdale,No. 2,William Gallagher,Tyler Bradley,Tyler Bradley,5-7,5,7,0,1,Completed,true,false,false
+UA002144,15 Nov 15,14,Mordialloc,Parkdale,No. 3,Josh Powell,James Comben,Josh Powell,6-4,6,4,1,0,Completed,true,false,false
+UA002144,15 Nov 15,14,Mordialloc,Parkdale,No. 4,Alec Stobie,Jeremy Gonis,Jeremy Gonis,3-6,3,6,0,1,Completed,true,false,false
+UA002301,,16,Mordialloc,Coatesville,No. 1,Harrison Davis,Hugh Callaghan,Hugh Callaghan,1-6,1,6,0,1,Completed,true,false,false
+UA002301,,16,Mordialloc,Coatesville,No. 2,William Gallagher,James Alevizos,James Alevizos,5-7,5,7,0,1,Completed,true,false,false
+UA002301,,16,Mordialloc,Coatesville,No. 3,Josh Powell,Nathan Grooby,Josh Powell,6-2,6,2,1,0,Completed,true,false,false
+UA002301,,16,Mordialloc,Coatesville,No. 4,Alec Stobie,Patrick Hibbert,Alec Stobie,7-6,7,6,1,0,Completed,true,false,false
+UA002302,,16,Caulfield Rec,GPHC,No. 1,James Dosser,James Tarrant,James Dosser,7-6,7,6,1,0,Completed,true,false,false
+UA002302,,16,Caulfield Rec,GPHC,No. 2,Gabriel Giber,Donald Quach,Donald Quach,6-7,6,7,0,1,Completed,true,false,false
+UA002302,,16,Caulfield Rec,GPHC,No. 3,Nigel Appelboom,Georgia Deacon,Georgia Deacon,0-6,0,6,0,1,Completed,true,false,false
+UA002302,,16,Caulfield Rec,GPHC,No. 4,Josh Dosser,Oliver Tehan,Oliver Tehan,0-6,0,6,0,1,Completed,true,false,false
+UA002321,,17,GPHC,Coatesville,No. 1,James Tarrant,Hugh Callaghan,Hugh Callaghan,3-6,3,6,0,1,Completed,true,false,true
+UA002321,,17,GPHC,Coatesville,No. 2,Donald Quach,Michael Gershezan,Donald Quach,6-3,6,3,1,0,Completed,true,false,false
+UA002321,,17,GPHC,Coatesville,No. 3,Georgia Deacon,James Alevizos,Georgia Deacon,6-1,6,1,1,0,Completed,true,false,false
+UA002321,,17,GPHC,Coatesville,No. 4,Oliver Tehan,Patrick Hibbert,Patrick Hibbert,6-7,6,7,0,1,Completed,true,false,false

@@ -1,0 +1,81 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA018011,02 Feb 20,1,Dendy Park,Murrumbeena LA,No. 1,Frank Wu,Jamie Ubachs,Jamie Ubachs,2-6,2,6,0,1,Completed,true,false,false
+UA018011,02 Feb 20,1,Dendy Park,Murrumbeena LA,No. 2,Lauren Yim,Oliver Huggins,Oliver Huggins,4-6,4,6,0,1,Completed,true,false,false
+UA018011,02 Feb 20,1,Dendy Park,Murrumbeena LA,No. 3,Chloe Yim,Aodhan Monteiro,Aodhan Monteiro,4-6,4,6,0,1,Completed,true,false,false
+UA018011,02 Feb 20,1,Dendy Park,Murrumbeena LA,No. 4,Franzi Rehse,Patrick Mills,Patrick Mills,0-6,0,6,0,1,Completed,true,false,false
+UA018012,02 Feb 20,1,Aspendale,Caulfield Rec,No. 1,Andrew Sleserev,Oliver Cordover,Oliver Cordover,4-6,4,6,0,1,Completed,true,false,false
+UA018012,02 Feb 20,1,Aspendale,Caulfield Rec,No. 2,Lisa Jawalekar,Tanvi Patil,Lisa Jawalekar,6-0,6,0,1,0,Completed,true,false,false
+UA018012,02 Feb 20,1,Aspendale,Caulfield Rec,No. 3,Pip Jawalekar,Allan Melamed,Pip Jawalekar,7-5,7,5,1,0,Completed,true,false,false
+UA018012,02 Feb 20,1,Aspendale,Caulfield Rec,No. 4,Mia Courtie,Daniel Lurie,Daniel Lurie,1-6,1,6,0,1,Completed,true,false,true
+UA018013,02 Feb 20,1,Highett,Highmoor Uniting,No. 1,Oliver Danckert,Jackson Ralph,Oliver Danckert,6-1,6,1,1,0,Completed,true,false,false
+UA018013,02 Feb 20,1,Highett,Highmoor Uniting,No. 2,Jackson Clark,Lazar Suluburic,Lazar Suluburic,0-6,0,6,0,1,Completed,true,false,false
+UA018013,02 Feb 20,1,Highett,Highmoor Uniting,No. 3,Tex McMahon,Luka Suluburic,Luka Suluburic,4-6,4,6,0,1,Completed,true,false,false
+UA018013,02 Feb 20,1,Highett,Highmoor Uniting,No. 4,Guy Brent,Abigail Bligh,Abigail Bligh,1-6,1,6,0,1,Completed,true,false,false
+UA018014,02 Feb 20,1,Royal Ave,Tennis World,No. 1,Ewan McRobinson,Leo Motyl-Coverdale,Leo Motyl-Coverdale,0-6,0,6,0,1,Completed,true,false,false
+UA018014,02 Feb 20,1,Royal Ave,Tennis World,No. 2,Gideon Gomes,Eugene Kim,Eugene Kim,0-6,0,6,0,1,Completed,true,false,true
+UA018014,02 Feb 20,1,Royal Ave,Tennis World,No. 3,Hugo Williams,Alexander Sciglitano,Alexander Sciglitano,3-6,3,6,0,1,Completed,true,false,false
+UA018014,02 Feb 20,1,Royal Ave,Tennis World,No. 4,Luke Chapman,Sol Motyl-Coverdale,Sol Motyl-Coverdale,2-6,2,6,0,1,Completed,true,false,false
+UA018021,09 Feb 20,2,Tennis World,Dendy Park,No. 1,Leo Motyl-Coverdale,Frank Wu,Leo Motyl-Coverdale,6-0,6,0,1,0,Completed,true,false,false
+UA018021,09 Feb 20,2,Tennis World,Dendy Park,No. 2,Alexander Sciglitano,Lauren Yim,Alexander Sciglitano,6-1,6,1,1,0,Completed,true,false,false
+UA018021,09 Feb 20,2,Tennis World,Dendy Park,No. 3,Sol Motyl-Coverdale,Chloe Yim,Sol Motyl-Coverdale,6-0,6,0,1,0,Completed,true,false,false
+UA018021,09 Feb 20,2,Tennis World,Dendy Park,No. 4,Justin Warzala,Hendrix Rehze,Hendrix Rehze,1-6,1,6,0,1,Completed,true,false,false
+UA018022,09 Feb 20,2,Murrumbeena LA,Aspendale,No. 1,Jamie Ubachs,Lisa Jawalekar,Jamie Ubachs,6-3,6,3,1,0,Completed,true,false,false
+UA018022,09 Feb 20,2,Murrumbeena LA,Aspendale,No. 2,Aodhan Monteiro,Pip Jawalekar,Aodhan Monteiro,6-2,6,2,1,0,Completed,true,false,false
+UA018022,09 Feb 20,2,Murrumbeena LA,Aspendale,No. 3,Patrick Mills,Mia Courtie,Patrick Mills,6-0,6,0,1,0,Completed,true,false,false
+UA018022,09 Feb 20,2,Murrumbeena LA,Aspendale,No. 4,Ethan Perry,Ben Macaw,Ethan Perry,6-1,6,1,1,0,Completed,true,false,false
+UA018023,09 Feb 20,2,Caulfield Rec,Highett,No. 1,Oliver Cordover,Oliver Danckert,Oliver Cordover,6-4,6,4,1,0,Completed,true,false,false
+UA018023,09 Feb 20,2,Caulfield Rec,Highett,No. 2,Lev Price,Jackson Clark,Jackson Clark,4-6,4,6,0,1,Completed,true,false,false
+UA018023,09 Feb 20,2,Caulfield Rec,Highett,No. 3,Allan Melamed,Tex McMahon,Tex McMahon,2-6,2,6,0,1,Completed,true,false,false
+UA018023,09 Feb 20,2,Caulfield Rec,Highett,No. 4,Franki Hillier,Guy Brent,Franki Hillier,6-3,6,3,1,0,Completed,true,false,false
+UA018024,09 Feb 20,2,Highmoor Uniting,Royal Ave,No. 1,Jackson Ralph,Gideon Gomes,Jackson Ralph,6-3,6,3,1,0,Completed,true,false,false
+UA018024,09 Feb 20,2,Highmoor Uniting,Royal Ave,No. 2,Abigail Bligh,Hugo Williams,Abigail Bligh,7-5,7,5,1,0,Completed,true,false,false
+UA018024,09 Feb 20,2,Highmoor Uniting,Royal Ave,No. 3,Remy Pfeiffer,Gavin Liu,Remy Pfeiffer,6-0,6,0,1,0,Completed,true,false,false
+UA018024,09 Feb 20,2,Highmoor Uniting,Royal Ave,No. 4,Leon Thomas,Luke Chapman,Luke Chapman,0-6,0,6,0,1,Completed,true,true,false
+UA018031,16 Feb 20,3,Dendy Park,Highmoor Uniting,No. 1,Lauren Yim,Lazar Suluburic,Lazar Suluburic,6-7,6,7,0,1,Completed,true,false,false
+UA018031,16 Feb 20,3,Dendy Park,Highmoor Uniting,No. 2,Chloe Yim,Luka Suluburic,Luka Suluburic,3-6,3,6,0,1,Completed,true,false,false
+UA018031,16 Feb 20,3,Dendy Park,Highmoor Uniting,No. 3,Darcy Maher,Remy Pfeiffer,Darcy Maher,6-3,6,3,1,0,Completed,true,true,false
+UA018031,16 Feb 20,3,Dendy Park,Highmoor Uniting,No. 4,Hendrix Rehze,Leon Thomas,Leon Thomas,4-6,4,6,0,1,Completed,true,false,true
+UA018032,16 Feb 20,3,Aspendale,Tennis World,No. 1,Andrew Sleserev,Leo Motyl-Coverdale,Leo Motyl-Coverdale,1-6,1,6,0,1,Completed,true,false,false
+UA018032,16 Feb 20,3,Aspendale,Tennis World,No. 2,Lisa Jawalekar,Alexander Sciglitano,Alexander Sciglitano,1-6,1,6,0,1,Completed,true,false,false
+UA018032,16 Feb 20,3,Aspendale,Tennis World,No. 3,Mia Courtie,Sol Motyl-Coverdale,Sol Motyl-Coverdale,0-6,0,6,0,1,Completed,true,false,false
+UA018032,16 Feb 20,3,Aspendale,Tennis World,No. 4,Ben Macaw,Justin Warzala,Justin Warzala,4-6,4,6,0,1,Completed,true,false,false
+UA018033,16 Feb 20,3,Highett,Murrumbeena LA,No. 1,Tom Peetoom,Jamie Ubachs,Jamie Ubachs,6-7,6,7,0,1,Completed,true,false,false
+UA018033,16 Feb 20,3,Highett,Murrumbeena LA,No. 2,Jackson Clark,Aodhan Monteiro,Aodhan Monteiro,1-6,1,6,0,1,Completed,true,false,false
+UA018033,16 Feb 20,3,Highett,Murrumbeena LA,No. 3,Tex McMahon,Patrick Mills,Patrick Mills,1-6,1,6,0,1,Completed,true,false,false
+UA018033,16 Feb 20,3,Highett,Murrumbeena LA,No. 4,Sebastian Grace,Ethan Perry,Ethan Perry,3-6,3,6,0,1,Completed,true,true,false
+UA018034,16 Feb 20,3,Royal Ave,Caulfield Rec,No. 1,Ewan McRobinson,Lev Price,Ewan McRobinson,6-0,6,0,1,0,Completed,true,false,false
+UA018034,16 Feb 20,3,Royal Ave,Caulfield Rec,No. 2,Gideon Gomes,Tanvi Patil,Gideon Gomes,6-0,6,0,1,0,Completed,true,false,false
+UA018034,16 Feb 20,3,Royal Ave,Caulfield Rec,No. 3,Hugo Williams,Allan Melamed,Hugo Williams,6-0,6,0,1,0,Completed,true,false,false
+UA018034,16 Feb 20,3,Royal Ave,Caulfield Rec,No. 4,Luke Chapman,Franki Hillier,Franki Hillier,3-6,3,6,0,1,Completed,true,false,false
+UA018041,23 Feb 20,4,Caulfield Rec,Dendy Park,No. 1,Oliver Cordover,Frank Wu,Oliver Cordover,6-3,6,3,1,0,Completed,true,false,false
+UA018041,23 Feb 20,4,Caulfield Rec,Dendy Park,No. 2,Lev Price,Chloe Yim,Lev Price,6-0,6,0,1,0,Completed,true,false,false
+UA018041,23 Feb 20,4,Caulfield Rec,Dendy Park,No. 3,Tanvi Patil,Franzi Rehse,Franzi Rehse,4-6,4,6,0,1,Completed,true,false,false
+UA018041,23 Feb 20,4,Caulfield Rec,Dendy Park,No. 4,Allan Melamed,Hendrix Rehze,Allan Melamed,6-1,6,1,1,0,Completed,true,false,false
+UA018042,23 Feb 20,4,Highmoor Uniting,Aspendale,No. 1,Jackson Ralph,Andrew Sleserev,Andrew Sleserev,2-6,2,6,0,1,Completed,true,false,false
+UA018042,23 Feb 20,4,Highmoor Uniting,Aspendale,No. 2,Abigail Bligh,Lisa Jawalekar,Lisa Jawalekar,3-6,3,6,0,1,Completed,true,false,false
+UA018042,23 Feb 20,4,Highmoor Uniting,Aspendale,No. 3,Remy Pfeiffer,Pip Jawalekar,Pip Jawalekar,4-6,4,6,0,1,Completed,true,false,false
+UA018042,23 Feb 20,4,Highmoor Uniting,Aspendale,No. 4,Leon Thomas,Ben Macaw,Leon Thomas,6-2,6,2,1,0,Completed,true,true,false
+UA018043,23 Feb 20,4,Tennis World,Highett,No. 1,Leo Motyl-Coverdale,Oliver Danckert,Leo Motyl-Coverdale,6-1,6,1,1,0,Completed,true,false,false
+UA018043,23 Feb 20,4,Tennis World,Highett,No. 2,Harold Jang,Jackson Clark,Harold Jang,6-2,6,2,1,0,Completed,true,false,false
+UA018043,23 Feb 20,4,Tennis World,Highett,No. 3,Alexander Sciglitano,Tex McMahon,Alexander Sciglitano,6-1,6,1,1,0,Completed,true,false,false
+UA018043,23 Feb 20,4,Tennis World,Highett,No. 4,Sol Motyl-Coverdale,Guy Brent,Sol Motyl-Coverdale,6-0,6,0,1,0,Completed,true,false,false
+UA018044,23 Feb 20,4,Murrumbeena LA,Royal Ave,No. 1,Jamie Ubachs,Ewan McRobinson,Jamie Ubachs,6-0,6,0,1,0,Completed,true,false,false
+UA018044,23 Feb 20,4,Murrumbeena LA,Royal Ave,No. 2,Aodhan Monteiro,Hugo Williams,Aodhan Monteiro,6-2,6,2,1,0,Completed,true,false,false
+UA018044,23 Feb 20,4,Murrumbeena LA,Royal Ave,No. 3,Ethan Perry,Luke Chapman,Ethan Perry,6-3,6,3,1,0,Completed,true,false,false
+UA018044,23 Feb 20,4,Murrumbeena LA,Royal Ave,No. 4,Sachith Meela,Sam Arbuckle,Sachith Meela,6-1,6,1,1,0,Completed,true,false,true
+UA018051,01 Mar 20,5,Highett,Royal Ave,No. 1,Oliver Danckert,Hugo Williams,Hugo Williams,2-6,2,6,0,1,Completed,true,false,false
+UA018051,01 Mar 20,5,Highett,Royal Ave,No. 2,Tex McMahon,Luke Chapman,Luke Chapman,2-6,2,6,0,1,Completed,true,false,false
+UA018051,01 Mar 20,5,Highett,Royal Ave,No. 3,Guy Brent,Sam Arbuckle,Guy Brent,7-6,7,6,1,0,Completed,true,false,true
+UA018051,01 Mar 20,5,Highett,Royal Ave,No. 4,Oscar Holmes,Aston Delhanse,Aston Delhanse,2-6,2,6,0,1,Completed,true,false,true
+UA018052,01 Mar 20,5,Tennis World,Highmoor Uniting,No. 1,[Unnamed player — TROLS UA018052 home code 1],Jackson Ralph,Jackson Ralph,1-6,1,6,0,1,Completed,false,false,false
+UA018052,01 Mar 20,5,Tennis World,Highmoor Uniting,No. 2,Harold Jang,Lazar Suluburic,Lazar Suluburic,2-6,2,6,0,1,Completed,true,false,false
+UA018052,01 Mar 20,5,Tennis World,Highmoor Uniting,No. 3,Alexander Sciglitano,Luka Suluburic,Alexander Sciglitano,6-1,6,1,1,0,Completed,true,false,false
+UA018052,01 Mar 20,5,Tennis World,Highmoor Uniting,No. 4,Justin Warzala,Remy Pfeiffer,Remy Pfeiffer,3-6,3,6,0,1,Completed,true,false,false
+UA018053,01 Mar 20,5,Caulfield Rec,Murrumbeena LA,No. 1,Oliver Cordover,Oliver Huggins,Oliver Cordover,7-6,7,6,1,0,Completed,true,false,false
+UA018053,01 Mar 20,5,Caulfield Rec,Murrumbeena LA,No. 2,Tanvi Patil,Aodhan Monteiro,Aodhan Monteiro,1-6,1,6,0,1,Completed,true,false,false
+UA018053,01 Mar 20,5,Caulfield Rec,Murrumbeena LA,No. 3,Allan Melamed,Patrick Mills,Patrick Mills,0-6,0,6,0,1,Completed,true,false,false
+UA018053,01 Mar 20,5,Caulfield Rec,Murrumbeena LA,No. 4,Franki Hillier,Sachith Meela,Franki Hillier,6-2,6,2,1,0,Completed,true,false,false
+UA018054,01 Mar 20,5,Dendy Park,Aspendale,No. 1,Lauren Yim,Andrew Sleserev,Andrew Sleserev,3-6,3,6,0,1,Completed,true,false,false
+UA018054,01 Mar 20,5,Dendy Park,Aspendale,No. 2,Chloe Yim,Lisa Jawalekar,Lisa Jawalekar,1-6,1,6,0,1,Completed,true,false,false
+UA018054,01 Mar 20,5,Dendy Park,Aspendale,No. 3,Franzi Rehse,Pip Jawalekar,Franzi Rehse,6-2,6,2,1,0,Completed,true,false,false
+UA018054,01 Mar 20,5,Dendy Park,Aspendale,No. 4,Hendrix Rehze,Mia Courtie,Hendrix Rehze,6-1,6,1,1,0,Completed,true,false,false

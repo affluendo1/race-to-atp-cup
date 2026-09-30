@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA29-UA006",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2021",
+  "season_id": "UA29",
+  "season_label": "Spring 2021",
+  "source_section_code": "UA006",
+  "section_label": "Section 6",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Highett",
+      "wins": 5,
+      "points": 83,
+      "percentage": 125.95,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "BLTC No.2",
+      "wins": 5,
+      "points": 82,
+      "percentage": 141.29,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 1,
+      "points": 77,
+      "percentage": 149.62,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC No.1 Bodley",
+      "wins": 4,
+      "points": 73,
+      "percentage": 102.33,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal Ave No.1",
+      "wins": 3,
+      "points": 72,
+      "percentage": 109.76,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Hurlingham Park No.1",
+      "wins": 3,
+      "points": 68,
+      "percentage": 94.08,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Hurlingham Park No.2",
+      "wins": 2,
+      "points": 56,
+      "percentage": 59.02,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave No.2",
+      "wins": 1,
+      "points": 49,
+      "percentage": 57.33,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA29-UA006",
+  "fixtures": 56,
+  "completed_fixtures": 25,
+  "draw_fixtures": 56,
+  "singles_rubbers": 100,
+  "doubles_rubbers": 50,
+  "latest_round": 14,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

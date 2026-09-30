@@ -1,0 +1,217 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA016011,31 Jan 16,1,St Mary's,Glen Eira Beech,No. 1,Ollie Cooper,Louis McNabney-Stevens,Ollie Cooper,6-2,6,2,1,0,Completed,true,false,false
+UA016011,31 Jan 16,1,St Mary's,Glen Eira Beech,No. 2,Sam Small,Barnaby Kinsella,Barnaby Kinsella,0-6,0,6,0,1,Completed,true,false,false
+UA016011,31 Jan 16,1,St Mary's,Glen Eira Beech,No. 3,Dean Halastanis,Rachel Gluzman,Dean Halastanis,6-3,6,3,1,0,Completed,true,false,false
+UA016011,31 Jan 16,1,St Mary's,Glen Eira Beech,No. 4,George Thompson,Amira Kacser,Amira Kacser,1-6,1,6,0,1,Completed,true,false,false
+UA016012,31 Jan 16,1,GPHC MLC,Hurlingham Park,No. 1,Ben Wickham,Brody Rosenbloom,Ben Wickham,7-5,7,5,1,0,Completed,true,false,false
+UA016012,31 Jan 16,1,GPHC MLC,Hurlingham Park,No. 2,Nicolo Mirablella,Jake Mattatia,Nicolo Mirablella,7-5,7,5,1,0,Completed,true,false,false
+UA016012,31 Jan 16,1,GPHC MLC,Hurlingham Park,No. 3,Harri Joughin,Vir Luthra,Vir Luthra,4-6,4,6,0,1,Completed,true,false,false
+UA016012,31 Jan 16,1,GPHC MLC,Hurlingham Park,No. 4,Max Noble,Naima Luthra,Max Noble,7-5,7,5,1,0,Completed,true,false,false
+UA016014,31 Jan 16,1,Royal Ave,Carmelite,No. 1,Xavier Carter,Blake Allison,Blake Allison,4-6,4,6,0,1,Completed,true,false,false
+UA016014,31 Jan 16,1,Royal Ave,Carmelite,No. 2,Freddy Falter,Alice Langton,Freddy Falter,6-4,6,4,1,0,Completed,true,false,false
+UA016014,31 Jan 16,1,Royal Ave,Carmelite,No. 3,Zachary Griffin,Liam Allison,Liam Allison,4-6,4,6,0,1,Completed,true,false,false
+UA016014,31 Jan 16,1,Royal Ave,Carmelite,No. 4,Anton Pokryshevsky,Madeleine Wilson,Madeleine Wilson,0-6,0,6,0,1,Completed,true,false,false
+UA016021,07 Feb 16,2,Carmelite,St Mary's,No. 1,Alice Langton,Sam Small,Sam Small,0-6,0,6,0,1,Completed,true,false,false
+UA016021,07 Feb 16,2,Carmelite,St Mary's,No. 2,Madeleine Wilson,Ollie Cooper,Ollie Cooper,1-6,1,6,0,1,Completed,true,false,false
+UA016021,07 Feb 16,2,Carmelite,St Mary's,No. 3,Cameron Richardson,Dean Halastanis,Cameron Richardson,6-4,6,4,1,0,Completed,true,false,false
+UA016021,07 Feb 16,2,Carmelite,St Mary's,No. 4,Amie Greenhall,Charlie Doquile,Amie Greenhall,6-0,6,0,1,0,Completed,true,false,false
+UA016022,07 Feb 16,2,Glen Eira Beech,GPHC MLC,No. 1,Louis McNabney-Stevens,Ben Wickham,Louis McNabney-Stevens,6-3,6,3,1,0,Completed,true,false,false
+UA016022,07 Feb 16,2,Glen Eira Beech,GPHC MLC,No. 2,Oliver Hardman,Nicolo Mirablella,Nicolo Mirablella,1-6,1,6,0,1,Completed,true,false,false
+UA016022,07 Feb 16,2,Glen Eira Beech,GPHC MLC,No. 3,Barnaby Kinsella,Harri Joughin,Harri Joughin,2-6,2,6,0,1,Completed,true,false,false
+UA016022,07 Feb 16,2,Glen Eira Beech,GPHC MLC,No. 4,Amira Kacser,Max Noble,Amira Kacser,7-6,7,6,1,0,Completed,true,false,false
+UA016023,07 Feb 16,2,Hurlingham Park,Le Page,No. 1,Brody Rosenbloom,Sarah McKenna,Brody Rosenbloom,6-2,6,2,1,0,Completed,true,false,false
+UA016023,07 Feb 16,2,Hurlingham Park,Le Page,No. 2,Jake Mattatia,Joanna Angeletos,Jake Mattatia,6-1,6,1,1,0,Completed,true,false,false
+UA016023,07 Feb 16,2,Hurlingham Park,Le Page,No. 3,Daniel Palumbo,Daniel Mababa,Daniel Palumbo,6-0,6,0,1,0,Completed,true,false,false
+UA016023,07 Feb 16,2,Hurlingham Park,Le Page,No. 4,Naima Luthra,Laoise Commerford,Naima Luthra,6-4,6,4,1,0,Completed,true,false,false
+UA016024,07 Feb 16,2,Kings Park,Royal Ave,No. 1,Micaela Nochomivitz,Tal Zafrin,Tal Zafrin,0-6,0,6,0,1,Completed,true,false,false
+UA016024,07 Feb 16,2,Kings Park,Royal Ave,No. 2,John Vibodh,Zachary Griffin,Zachary Griffin,3-6,3,6,0,1,Completed,true,false,false
+UA016024,07 Feb 16,2,Kings Park,Royal Ave,No. 3,Korben Brough,Toby Luxton,Korben Brough,6-4,6,4,1,0,Completed,true,false,false
+UA016024,07 Feb 16,2,Kings Park,Royal Ave,No. 4,Andrew Clark,Anton Pokryshevsky,Andrew Clark,6-0,6,0,1,0,Completed,true,false,false
+UA016031,14 Feb 16,3,St Mary's,Kings Park,No. 1,Ollie Cooper,Micaela Nochomivitz,Ollie Cooper,6-0,6,0,1,0,Completed,true,false,false
+UA016031,14 Feb 16,3,St Mary's,Kings Park,No. 2,Sam Small,John Vibodh,John Vibodh,0-6,0,6,0,1,Completed,true,false,false
+UA016031,14 Feb 16,3,St Mary's,Kings Park,No. 3,George Thompson,Korben Brough,Korben Brough,1-6,1,6,0,1,Completed,true,false,false
+UA016031,14 Feb 16,3,St Mary's,Kings Park,No. 4,Charlie Doquile,Andrew Clark,Charlie Doquile,6-0,6,0,1,0,Completed,true,false,false
+UA016032,14 Feb 16,3,GPHC MLC,Carmelite,No. 1,Ben Wickham,Blake Allison,Ben Wickham,6-3,6,3,1,0,Completed,true,false,false
+UA016032,14 Feb 16,3,GPHC MLC,Carmelite,No. 2,Harri Joughin,Alice Langton,Harri Joughin,6-2,6,2,1,0,Completed,true,false,false
+UA016032,14 Feb 16,3,GPHC MLC,Carmelite,No. 3,Max Noble,Liam Allison,Max Noble,7-5,7,5,1,0,Completed,true,false,false
+UA016032,14 Feb 16,3,GPHC MLC,Carmelite,No. 4,Katia Perrell,Cameron Richardson,Cameron Richardson,1-6,1,6,0,1,Completed,true,false,false
+UA016033,14 Feb 16,3,Le Page,Glen Eira Beech,No. 1,Sarah McKenna,Louis McNabney-Stevens,Louis McNabney-Stevens,4-6,4,6,0,1,Completed,true,false,false
+UA016033,14 Feb 16,3,Le Page,Glen Eira Beech,No. 2,Joanna Angeletos,Oliver Hardman,Oliver Hardman,2-6,2,6,0,1,Completed,true,false,false
+UA016033,14 Feb 16,3,Le Page,Glen Eira Beech,No. 3,Daniel Mababa,Rachel Gluzman,Rachel Gluzman,0-6,0,6,0,1,Completed,true,false,false
+UA016033,14 Feb 16,3,Le Page,Glen Eira Beech,No. 4,Laoise Commerford,Amira Kacser,Amira Kacser,0-6,0,6,0,1,Completed,true,false,false
+UA016034,14 Feb 16,3,Royal Ave,Hurlingham Park,No. 1,Tal Zafrin,Brody Rosenbloom,Brody Rosenbloom,1-6,1,6,0,1,Completed,true,false,false
+UA016034,14 Feb 16,3,Royal Ave,Hurlingham Park,No. 2,Zachary Griffin,Jake Mattatia,Jake Mattatia,4-6,4,6,0,1,Completed,true,false,false
+UA016034,14 Feb 16,3,Royal Ave,Hurlingham Park,No. 3,Toby Luxton,Daniel Palumbo,Daniel Palumbo,1-6,1,6,0,1,Completed,true,false,false
+UA016034,14 Feb 16,3,Royal Ave,Hurlingham Park,No. 4,Anton Pokryshevsky,Vir Luthra,Vir Luthra,0-6,0,6,0,1,Completed,true,false,false
+UA016041,21 Feb 16,4,Hurlingham Park,St Mary's,No. 1,Brody Rosenbloom,Ollie Cooper,Ollie Cooper,3-6,3,6,0,1,Completed,true,false,false
+UA016041,21 Feb 16,4,Hurlingham Park,St Mary's,No. 2,Vir Luthra,Charlie Doquile,Vir Luthra,6-1,6,1,1,0,Completed,true,false,false
+UA016041,21 Feb 16,4,Hurlingham Park,St Mary's,No. 3,Naima Luthra,Dean Halastanis,Naima Luthra,7-5,7,5,1,0,Completed,true,false,false
+UA016041,21 Feb 16,4,Hurlingham Park,St Mary's,No. 4,Jonathon Henquin,George Thompson,Jonathon Henquin,6-3,6,3,1,0,Completed,true,false,false
+UA016042,21 Feb 16,4,Kings Park,GPHC MLC,No. 1,Micaela Nochomivitz,Nicolo Mirablella,Nicolo Mirablella,4-6,4,6,0,1,Completed,true,false,false
+UA016042,21 Feb 16,4,Kings Park,GPHC MLC,No. 2,John Vibodh,Harri Joughin,Harri Joughin,4-6,4,6,0,1,Completed,true,false,false
+UA016042,21 Feb 16,4,Kings Park,GPHC MLC,No. 3,Korben Brough,Max Noble,Korben Brough,6-2,6,2,1,0,Completed,true,false,false
+UA016042,21 Feb 16,4,Kings Park,GPHC MLC,No. 4,[Unnamed player — TROLS UA016042 home code 4],Maddy Fuller,Maddy Fuller,0-6,0,6,0,1,Completed,false,false,false
+UA016043,21 Feb 16,4,Carmelite,Le Page,No. 1,Blake Allison,Sarah McKenna,Sarah McKenna,5-7,5,7,0,1,Completed,true,false,false
+UA016043,21 Feb 16,4,Carmelite,Le Page,No. 2,Liam Allison,Daniel Mababa,Daniel Mababa,2-6,2,6,0,1,Completed,true,false,false
+UA016043,21 Feb 16,4,Carmelite,Le Page,No. 3,Madeleine Wilson,Laoise Commerford,Madeleine Wilson,6-0,6,0,1,0,Completed,true,false,false
+UA016043,21 Feb 16,4,Carmelite,Le Page,No. 4,Cameron Richardson,Joanna Angeletos,Cameron Richardson,6-4,6,4,1,0,Completed,true,false,false
+UA016044,21 Feb 16,4,Glen Eira Beech,Royal Ave,No. 1,Louis McNabney-Stevens,Tal Zafrin,Louis McNabney-Stevens,6-3,6,3,1,0,Completed,true,false,false
+UA016044,21 Feb 16,4,Glen Eira Beech,Royal Ave,No. 2,Barnaby Kinsella,Zachary Griffin,Zachary Griffin,4-6,4,6,0,1,Completed,true,false,false
+UA016044,21 Feb 16,4,Glen Eira Beech,Royal Ave,No. 3,Rachel Gluzman,Toby Luxton,Rachel Gluzman,6-1,6,1,1,0,Completed,true,false,false
+UA016044,21 Feb 16,4,Glen Eira Beech,Royal Ave,No. 4,Amira Kacser,Anton Pokryshevsky,Amira Kacser,6-0,6,0,1,0,Completed,true,false,false
+UA016051,28 Feb 16,5,Le Page,Royal Ave,No. 1,Sarah McKenna,Zachary Griffin,Sarah McKenna,6-1,6,1,1,0,Completed,true,false,false
+UA016051,28 Feb 16,5,Le Page,Royal Ave,No. 2,Daniel Mababa,Toby Luxton,Daniel Mababa,6-1,6,1,1,0,Completed,true,false,false
+UA016051,28 Feb 16,5,Le Page,Royal Ave,No. 3,Laoise Commerford,Anton Pokryshevsky,Laoise Commerford,6-0,6,0,1,0,Completed,true,false,false
+UA016051,28 Feb 16,5,Le Page,Royal Ave,No. 4,Joanna Angeletos,Oscar ???,Oscar ???,1-6,1,6,0,1,Completed,true,false,false
+UA016052,28 Feb 16,5,Carmelite,Kings Park,No. 1,Blake Allison,Micaela Nochomivitz,Blake Allison,6-4,6,4,1,0,Completed,true,false,false
+UA016052,28 Feb 16,5,Carmelite,Kings Park,No. 2,Alice Langton,John Vibodh,Alice Langton,7-5,7,5,1,0,Completed,true,false,false
+UA016052,28 Feb 16,5,Carmelite,Kings Park,No. 3,Liam Allison,Korben Brough,Korben Brough,2-6,2,6,0,1,Completed,true,false,false
+UA016052,28 Feb 16,5,Carmelite,Kings Park,No. 4,Amie Greenhall,Andrew Clark,Andrew Clark,5-7,5,7,0,1,Completed,true,false,false
+UA016053,28 Feb 16,5,Hurlingham Park,Glen Eira Beech,No. 1,Jake Mattatia,Louis McNabney-Stevens,Louis McNabney-Stevens,3-6,3,6,0,1,Completed,true,false,false
+UA016053,28 Feb 16,5,Hurlingham Park,Glen Eira Beech,No. 2,Daniel Palumbo,Oliver Hardman,Oliver Hardman,3-6,3,6,0,1,Completed,true,false,false
+UA016053,28 Feb 16,5,Hurlingham Park,Glen Eira Beech,No. 3,Vir Luthra,Barnaby Kinsella,Vir Luthra,6-3,6,3,1,0,Completed,true,false,false
+UA016053,28 Feb 16,5,Hurlingham Park,Glen Eira Beech,No. 4,Naima Luthra,Rachel Gluzman,Rachel Gluzman,4-6,4,6,0,1,Completed,true,false,false
+UA016054,28 Feb 16,5,St Mary's,GPHC MLC,No. 1,Sam Small,Harri Joughin,Sam Small,6-4,6,4,1,0,Completed,true,false,false
+UA016054,28 Feb 16,5,St Mary's,GPHC MLC,No. 2,Ollie Cooper,Katia Perrell,Ollie Cooper,6-0,6,0,1,0,Completed,true,false,false
+UA016054,28 Feb 16,5,St Mary's,GPHC MLC,No. 3,Dean Halastanis,Maddy Fuller,Dean Halastanis,6-0,6,0,1,0,Completed,true,false,false
+UA016054,28 Feb 16,5,St Mary's,GPHC MLC,No. 4,Alex Tognarini,Emily Retschko,Alex Tognarini,6-0,6,0,1,0,Completed,true,false,false
+UA016061,06 Mar 16,6,GPHC MLC,Le Page,No. 1,Ben Wickham,Sarah McKenna,Ben Wickham,7-5,7,5,1,0,Completed,true,false,false
+UA016061,06 Mar 16,6,GPHC MLC,Le Page,No. 2,Nicolo Mirablella,Daniel Mababa,Nicolo Mirablella,6-3,6,3,1,0,Completed,true,false,false
+UA016061,06 Mar 16,6,GPHC MLC,Le Page,No. 3,Harri Joughin,Laoise Commerford,Harri Joughin,6-1,6,1,1,0,Completed,true,false,false
+UA016061,06 Mar 16,6,GPHC MLC,Le Page,No. 4,Max Noble,Joanna Angeletos,Max Noble,7-5,7,5,1,0,Completed,true,false,false
+UA016062,06 Mar 16,6,Royal Ave,St Mary's,No. 1,Tal Zafrin,Sam Small,Sam Small,0-6,0,6,0,1,Completed,true,false,false
+UA016062,06 Mar 16,6,Royal Ave,St Mary's,No. 2,Freddy Falter,Ollie Cooper,Ollie Cooper,0-6,0,6,0,1,Completed,true,false,false
+UA016062,06 Mar 16,6,Royal Ave,St Mary's,No. 3,Toby Luxton,Alex Tognarini,Alex Tognarini,0-6,0,6,0,1,Completed,true,false,false
+UA016062,06 Mar 16,6,Royal Ave,St Mary's,No. 4,Anton Pokryshevsky,Aj Graham,Aj Graham,0-6,0,6,0,1,Completed,true,false,false
+UA016063,06 Mar 16,6,Kings Park,Hurlingham Park,No. 1,Micaela Nochomivitz,Brody Rosenbloom,Brody Rosenbloom,0-6,0,6,0,1,Completed,true,false,false
+UA016063,06 Mar 16,6,Kings Park,Hurlingham Park,No. 2,John Vibodh,Jake Mattatia,Jake Mattatia,1-6,1,6,0,1,Completed,true,false,false
+UA016063,06 Mar 16,6,Kings Park,Hurlingham Park,No. 3,Korben Brough,Vir Luthra,Vir Luthra,4-6,4,6,0,1,Completed,true,false,false
+UA016063,06 Mar 16,6,Kings Park,Hurlingham Park,No. 4,Andrew Clark,Naima Luthra,Naima Luthra,4-6,4,6,0,1,Completed,true,false,false
+UA016064,06 Mar 16,6,Glen Eira Beech,Carmelite,No. 1,Louis McNabney-Stevens,Alice Langton,Louis McNabney-Stevens,6-1,6,1,1,0,Completed,true,false,false
+UA016064,06 Mar 16,6,Glen Eira Beech,Carmelite,No. 2,Oliver Hardman,Cameron Richardson,Cameron Richardson,4-6,4,6,0,1,Completed,true,false,false
+UA016064,06 Mar 16,6,Glen Eira Beech,Carmelite,No. 3,Barnaby Kinsella,Madeleine Wilson,Madeleine Wilson,3-6,3,6,0,1,Completed,true,false,false
+UA016064,06 Mar 16,6,Glen Eira Beech,Carmelite,No. 4,Rachel Gluzman,Amie Greenhall,Amie Greenhall,2-6,2,6,0,1,Completed,true,false,false
+UA016071,20 Mar 16,7,St Mary's,Le Page,No. 1,Sam Small,Sarah McKenna,Sam Small,6-1,6,1,1,0,Completed,true,false,false
+UA016071,20 Mar 16,7,St Mary's,Le Page,No. 2,Charlie Doquile,Daniel Mababa,Daniel Mababa,6-7,6,7,0,1,Completed,true,false,false
+UA016071,20 Mar 16,7,St Mary's,Le Page,No. 3,Aj Graham,Laoise Commerford,Laoise Commerford,6-7,6,7,0,1,Completed,true,false,false
+UA016071,20 Mar 16,7,St Mary's,Le Page,No. 4,George Thompson,Joanna Angeletos,George Thompson,6-3,6,3,1,0,Completed,true,false,false
+UA016072,20 Mar 16,7,GPHC MLC,Royal Ave,No. 1,Ben Wickham,[Unnamed player — TROLS UA016072 away code 1],Ben Wickham,6-1,6,1,1,0,Completed,false,false,false
+UA016072,20 Mar 16,7,GPHC MLC,Royal Ave,No. 2,Harri Joughin,[Unnamed player — TROLS UA016072 away code 2],Harri Joughin,6-0,6,0,1,0,Completed,false,false,false
+UA016072,20 Mar 16,7,GPHC MLC,Royal Ave,No. 3,Max Noble,[Unnamed player — TROLS UA016072 away code 3],Max Noble,6-3,6,3,1,0,Completed,false,false,false
+UA016072,20 Mar 16,7,GPHC MLC,Royal Ave,No. 4,Maddy Fuller,[Unnamed player — TROLS UA016072 away code 4],[Unnamed player — TROLS UA016072 away code 4],5-7,5,7,0,1,Completed,false,false,false
+UA016073,20 Mar 16,7,Carmelite,Hurlingham Park,No. 1,Blake Allison,Brody Rosenbloom,Brody Rosenbloom,0-6,0,6,0,1,Completed,true,false,false
+UA016073,20 Mar 16,7,Carmelite,Hurlingham Park,No. 2,Cameron Richardson,Vir Luthra,Vir Luthra,1-6,1,6,0,1,Completed,true,false,false
+UA016073,20 Mar 16,7,Carmelite,Hurlingham Park,No. 3,Liam Allison,Naima Luthra,Naima Luthra,5-7,5,7,0,1,Completed,true,false,false
+UA016073,20 Mar 16,7,Carmelite,Hurlingham Park,No. 4,Madeleine Wilson,Jonathon Henquin,Madeleine Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA016074,20 Mar 16,7,Kings Park,Glen Eira Beech,No. 1,[Unnamed player — TROLS UA016074 home code 1],Louis McNabney-Stevens,Louis McNabney-Stevens,0-6,0,6,0,1,Completed,false,false,false
+UA016074,20 Mar 16,7,Kings Park,Glen Eira Beech,No. 2,John Vibodh,Oliver Hardman,Oliver Hardman,2-6,2,6,0,1,Completed,true,false,false
+UA016074,20 Mar 16,7,Kings Park,Glen Eira Beech,No. 3,Korben Brough,Rachel Gluzman,Rachel Gluzman,3-6,3,6,0,1,Completed,true,false,false
+UA016074,20 Mar 16,7,Kings Park,Glen Eira Beech,No. 4,Andrew Clark,Barnaby Kinsella,Andrew Clark,6-0,6,0,1,0,Completed,true,false,false
+UA016081,17 Apr 16,8,Glen Eira Beech,St Mary's,No. 1,Louis McNabney-Stevens,Sam Small,Louis McNabney-Stevens,6-4,6,4,1,0,Completed,true,false,false
+UA016081,17 Apr 16,8,Glen Eira Beech,St Mary's,No. 2,Oliver Hardman,Aj Graham,Oliver Hardman,6-2,6,2,1,0,Completed,true,false,false
+UA016081,17 Apr 16,8,Glen Eira Beech,St Mary's,No. 3,Rachel Gluzman,George Thompson,Rachel Gluzman,6-3,6,3,1,0,Completed,true,false,false
+UA016081,17 Apr 16,8,Glen Eira Beech,St Mary's,No. 4,Amira Kacser,[Unnamed player — TROLS UA016081 away code 4],Amira Kacser,6-0,6,0,1,0,Completed,false,false,false
+UA016082,17 Apr 16,8,Hurlingham Park,GPHC MLC,No. 1,Brody Rosenbloom,Ben Wickham,Brody Rosenbloom,6-3,6,3,1,0,Completed,true,false,false
+UA016082,17 Apr 16,8,Hurlingham Park,GPHC MLC,No. 2,Jake Mattatia,Nicolo Mirablella,Jake Mattatia,6-4,6,4,1,0,Completed,true,false,false
+UA016082,17 Apr 16,8,Hurlingham Park,GPHC MLC,No. 3,Daniel Palumbo,Oscar Zagon-Davies,Oscar Zagon-Davies,4-6,4,6,0,1,Completed,true,false,false
+UA016082,17 Apr 16,8,Hurlingham Park,GPHC MLC,No. 4,Vir Luthra,Maddy Fuller,Vir Luthra,6-1,6,1,1,0,Completed,true,false,false
+UA016083,17 Apr 16,8,Kings Park,Le Page,No. 1,Micaela Nochomivitz,Sarah McKenna,Sarah McKenna,3-6,3,6,0,1,Completed,true,false,false
+UA016083,17 Apr 16,8,Kings Park,Le Page,No. 2,John Vibodh,Daniel Mababa,Daniel Mababa,3-6,3,6,0,1,Completed,true,false,false
+UA016083,17 Apr 16,8,Kings Park,Le Page,No. 3,Korben Brough,Laoise Commerford,Korben Brough,6-1,6,1,1,0,Completed,true,false,false
+UA016083,17 Apr 16,8,Kings Park,Le Page,No. 4,Andrew Clark,Joanna Angeletos,Andrew Clark,6-2,6,2,1,0,Completed,true,false,false
+UA016084,17 Apr 16,8,Carmelite,Royal Ave,No. 1,Blake Allison,Xavier Carter,Blake Allison,6-4,6,4,1,0,Completed,true,false,false
+UA016084,17 Apr 16,8,Carmelite,Royal Ave,No. 2,Alice Langton,Brendan Reddell,Brendan Reddell,0-6,0,6,0,1,Completed,true,false,false
+UA016084,17 Apr 16,8,Carmelite,Royal Ave,No. 3,Liam Allison,Zachary Griffin,Liam Allison,6-3,6,3,1,0,Completed,true,false,false
+UA016084,17 Apr 16,8,Carmelite,Royal Ave,No. 4,Amie Greenhall,Catrin Wathins,Catrin Wathins,4-6,4,6,0,1,Completed,true,false,false
+UA016091,24 Apr 16,9,St Mary's,Carmelite,No. 1,Ollie Cooper,Madeleine Wilson,Ollie Cooper,6-0,6,0,1,0,Completed,true,false,false
+UA016091,24 Apr 16,9,St Mary's,Carmelite,No. 2,Aj Graham,Amie Greenhall,Amie Greenhall,1-6,1,6,0,1,Completed,true,false,false
+UA016091,24 Apr 16,9,St Mary's,Carmelite,No. 3,Henry Wilson,Vitolia Mitcheh,Henry Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA016091,24 Apr 16,9,St Mary's,Carmelite,No. 4,Charles Wilson,Milly Tisdall,Charles Wilson,6-3,6,3,1,0,Completed,true,false,false
+UA016092,24 Apr 16,9,GPHC MLC,Glen Eira Beech,No. 1,Nicolo Mirablella,Louis McNabney-Stevens,Louis McNabney-Stevens,1-6,1,6,0,1,Completed,true,false,false
+UA016092,24 Apr 16,9,GPHC MLC,Glen Eira Beech,No. 2,Oscar Zagon-Davies,Oliver Hardman,Oscar Zagon-Davies,6-2,6,2,1,0,Completed,true,false,false
+UA016092,24 Apr 16,9,GPHC MLC,Glen Eira Beech,No. 3,Maddy Fuller,Barnaby Kinsella,Barnaby Kinsella,1-6,1,6,0,1,Completed,true,false,false
+UA016092,24 Apr 16,9,GPHC MLC,Glen Eira Beech,No. 4,Katia Perrell,Rachel Gluzman,Rachel Gluzman,3-6,3,6,0,1,Completed,true,false,false
+UA016093,24 Apr 16,9,Le Page,Hurlingham Park,No. 1,Sarah McKenna,Daniel Palumbo,Daniel Palumbo,5-7,5,7,0,1,Completed,true,false,false
+UA016093,24 Apr 16,9,Le Page,Hurlingham Park,No. 2,Daniel Mababa,Vir Luthra,Vir Luthra,3-6,3,6,0,1,Completed,true,false,false
+UA016093,24 Apr 16,9,Le Page,Hurlingham Park,No. 3,Laoise Commerford,Naima Luthra,Naima Luthra,1-6,1,6,0,1,Completed,true,false,false
+UA016093,24 Apr 16,9,Le Page,Hurlingham Park,No. 4,Joanna Angeletos,Jonathon Henquin,Jonathon Henquin,0-6,0,6,0,1,Completed,true,false,false
+UA016094,24 Apr 16,9,Royal Ave,Kings Park,No. 1,Tal Zafrin,Micaela Nochomivitz,Tal Zafrin,6-3,6,3,1,0,Completed,true,false,false
+UA016094,24 Apr 16,9,Royal Ave,Kings Park,No. 2,Xavier Carter,John Vibodh,John Vibodh,5-7,5,7,0,1,Completed,true,false,false
+UA016094,24 Apr 16,9,Royal Ave,Kings Park,No. 3,Zachary Griffin,Joni Deri Bohlou,Joni Deri Bohlou,1-6,1,6,0,1,Completed,true,false,false
+UA016094,24 Apr 16,9,Royal Ave,Kings Park,No. 4,Anton Pokryshevsky,Zoe Waters,Zoe Waters,0-6,0,6,0,1,Completed,true,false,false
+UA016101,01 May 16,10,Kings Park,St Mary's,No. 1,Micaela Nochomivitz,Aj Graham,Micaela Nochomivitz,6-2,6,2,1,0,Completed,true,false,false
+UA016101,01 May 16,10,Kings Park,St Mary's,No. 2,John Vibodh,George Thompson,John Vibodh,6-0,6,0,1,0,Completed,true,false,false
+UA016101,01 May 16,10,Kings Park,St Mary's,No. 3,Korben Brough,Oliver Scott,Korben Brough,6-0,6,0,1,0,Completed,true,false,false
+UA016101,01 May 16,10,Kings Park,St Mary's,No. 4,Joni Deri Bohlou,Charles Wilson,Joni Deri Bohlou,6-1,6,1,1,0,Completed,true,false,false
+UA016102,01 May 16,10,Carmelite,GPHC MLC,No. 1,Blake Allison,Nicolo Mirablella,Nicolo Mirablella,6-7,6,7,0,1,Completed,true,false,false
+UA016102,01 May 16,10,Carmelite,GPHC MLC,No. 2,Liam Allison,Harri Joughin,Harri Joughin,2-6,2,6,0,1,Completed,true,false,false
+UA016102,01 May 16,10,Carmelite,GPHC MLC,No. 3,Madeleine Wilson,Max Noble,Madeleine Wilson,6-4,6,4,1,0,Completed,true,false,false
+UA016102,01 May 16,10,Carmelite,GPHC MLC,No. 4,Amie Greenhall,Katia Perrell,Amie Greenhall,6-0,6,0,1,0,Completed,true,false,false
+UA016103,01 May 16,10,Glen Eira Beech,Le Page,No. 1,Oliver Hardman,Sarah McKenna,Oliver Hardman,7-5,7,5,1,0,Completed,true,false,false
+UA016103,01 May 16,10,Glen Eira Beech,Le Page,No. 2,Rachel Gluzman,Laoise Commerford,Rachel Gluzman,6-3,6,3,1,0,Completed,true,false,false
+UA016103,01 May 16,10,Glen Eira Beech,Le Page,No. 3,Amira Kacser,Daniel Mababa,Daniel Mababa,1-6,1,6,0,1,Completed,true,false,false
+UA016103,01 May 16,10,Glen Eira Beech,Le Page,No. 4,Barnaby Kinsella,[Unnamed player — TROLS UA016103 away code 4],Barnaby Kinsella,6-0,6,0,1,0,Completed,false,false,false
+UA016104,01 May 16,10,Hurlingham Park,Royal Ave,No. 1,Jake Mattatia,Tal Zafrin,Tal Zafrin,4-6,4,6,0,1,Completed,true,false,false
+UA016104,01 May 16,10,Hurlingham Park,Royal Ave,No. 2,Daniel Palumbo,Xavier Carter,Daniel Palumbo,6-2,6,2,1,0,Completed,true,false,false
+UA016104,01 May 16,10,Hurlingham Park,Royal Ave,No. 3,Vir Luthra,Zachary Griffin,Vir Luthra,6-1,6,1,1,0,Completed,true,false,false
+UA016104,01 May 16,10,Hurlingham Park,Royal Ave,No. 4,Naima Luthra,Toby Luxton,Naima Luthra,6-2,6,2,1,0,Completed,true,false,false
+UA016121,15 May 16,12,Royal Ave,Le Page,No. 1,Tal Zafrin,Sarah McKenna,Sarah McKenna,3-6,3,6,0,1,Completed,true,false,false
+UA016121,15 May 16,12,Royal Ave,Le Page,No. 2,Xavier Carter,Daniel Mababa,Daniel Mababa,6-7,6,7,0,1,Completed,true,false,false
+UA016121,15 May 16,12,Royal Ave,Le Page,No. 3,Zachary Griffin,Laoise Commerford,Zachary Griffin,6-4,6,4,1,0,Completed,true,false,false
+UA016121,15 May 16,12,Royal Ave,Le Page,No. 4,Toby Luxton,Joanna Angeletos,Toby Luxton,6-4,6,4,1,0,Completed,true,false,false
+UA016122,15 May 16,12,Kings Park,Carmelite,No. 1,Micaela Nochomivitz,Blake Allison,Blake Allison,1-6,1,6,0,1,Completed,true,false,false
+UA016122,15 May 16,12,Kings Park,Carmelite,No. 2,John Vibodh,Cameron Richardson,Cameron Richardson,3-6,3,6,0,1,Completed,true,false,false
+UA016122,15 May 16,12,Kings Park,Carmelite,No. 3,Korben Brough,Madeleine Wilson,Korben Brough,7-6,7,6,1,0,Completed,true,false,false
+UA016122,15 May 16,12,Kings Park,Carmelite,No. 4,Joni Deri Bohlou,Amie Greenhall,Joni Deri Bohlou,6-1,6,1,1,0,Completed,true,false,false
+UA016123,15 May 16,12,Glen Eira Beech,Hurlingham Park,No. 1,Louis McNabney-Stevens,Jake Mattatia,Louis McNabney-Stevens,6-2,6,2,1,0,Completed,true,false,false
+UA016123,15 May 16,12,Glen Eira Beech,Hurlingham Park,No. 2,Oliver Hardman,Daniel Palumbo,Daniel Palumbo,5-7,5,7,0,1,Completed,true,false,false
+UA016123,15 May 16,12,Glen Eira Beech,Hurlingham Park,No. 3,Barnaby Kinsella,Vir Luthra,Vir Luthra,4-6,4,6,0,1,Completed,true,false,false
+UA016123,15 May 16,12,Glen Eira Beech,Hurlingham Park,No. 4,Amira Kacser,Naima Luthra,Naima Luthra,0-6,0,6,0,1,Completed,true,false,false
+UA016124,15 May 16,12,GPHC MLC,St Mary's,No. 1,Ben Wickham,Zane Cooper,Ben Wickham,6-4,6,4,1,0,Completed,true,false,false
+UA016124,15 May 16,12,GPHC MLC,St Mary's,No. 2,Nicolo Mirablella,Aj Graham,Nicolo Mirablella,6-0,6,0,1,0,Completed,true,false,false
+UA016124,15 May 16,12,GPHC MLC,St Mary's,No. 3,Maddy Fuller,Charles Wilson,Charles Wilson,4-6,4,6,0,1,Completed,true,false,false
+UA016124,15 May 16,12,GPHC MLC,St Mary's,No. 4,Katia Perrell,[Unnamed player — TROLS UA016124 away code 4],Katia Perrell,6-0,6,0,1,0,Completed,false,false,false
+UA016131,22 May 16,13,Le Page,GPHC MLC,No. 1,Sarah McKenna,Ben Wickham,Sarah McKenna,6-4,6,4,1,0,Completed,true,false,false
+UA016131,22 May 16,13,Le Page,GPHC MLC,No. 2,Daniel Mababa,Nicolo Mirablella,Daniel Mababa,6-1,6,1,1,0,Completed,true,false,false
+UA016131,22 May 16,13,Le Page,GPHC MLC,No. 3,Laoise Commerford,Maddy Fuller,Laoise Commerford,6-2,6,2,1,0,Completed,true,false,false
+UA016131,22 May 16,13,Le Page,GPHC MLC,No. 4,Joanna Angeletos,Katia Perrell,Joanna Angeletos,6-1,6,1,1,0,Completed,true,false,false
+UA016132,22 May 16,13,St Mary's,Royal Ave,No. 1,Ollie Cooper,Tal Zafrin,Ollie Cooper,6-1,6,1,1,0,Completed,true,false,false
+UA016132,22 May 16,13,St Mary's,Royal Ave,No. 2,Zane Cooper,Xavier Carter,Zane Cooper,6-2,6,2,1,0,Completed,true,false,false
+UA016132,22 May 16,13,St Mary's,Royal Ave,No. 3,Aj Graham,Zachary Griffin,Zachary Griffin,0-6,0,6,0,1,Completed,true,false,false
+UA016132,22 May 16,13,St Mary's,Royal Ave,No. 4,Charles Wilson,Toby Luxton,Charles Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA016133,22 May 16,13,Hurlingham Park,Kings Park,No. 1,Brody Rosenbloom,Micaela Nochomivitz,Brody Rosenbloom,6-2,6,2,1,0,Completed,true,false,false
+UA016133,22 May 16,13,Hurlingham Park,Kings Park,No. 2,Jake Mattatia,Korben Brough,Korben Brough,5-7,5,7,0,1,Completed,true,false,false
+UA016133,22 May 16,13,Hurlingham Park,Kings Park,No. 3,Vir Luthra,Joni Deri Bohlou,Vir Luthra,6-2,6,2,1,0,Completed,true,false,false
+UA016133,22 May 16,13,Hurlingham Park,Kings Park,No. 4,Naima Luthra,Zoe Waters,Naima Luthra,6-4,6,4,1,0,Completed,true,false,false
+UA016134,22 May 16,13,Carmelite,Glen Eira Beech,No. 1,Blake Allison,Louis McNabney-Stevens,Louis McNabney-Stevens,0-6,0,6,0,1,Completed,true,false,false
+UA016134,22 May 16,13,Carmelite,Glen Eira Beech,No. 2,Alice Langton,Oliver Hardman,Oliver Hardman,1-6,1,6,0,1,Completed,true,false,false
+UA016134,22 May 16,13,Carmelite,Glen Eira Beech,No. 3,Liam Allison,Amira Kacser,Liam Allison,6-1,6,1,1,0,Completed,true,false,false
+UA016134,22 May 16,13,Carmelite,Glen Eira Beech,No. 4,Milly Tisdall,Charles McNabney-Stevens,Charles McNabney-Stevens,0-6,0,6,0,1,Completed,true,false,false
+UA016141,29 May 16,14,Le Page,St Mary's,No. 1,Sarah McKenna,Ollie Cooper,Ollie Cooper,1-6,1,6,0,1,Completed,true,false,false
+UA016141,29 May 16,14,Le Page,St Mary's,No. 2,Daniel Mababa,Charlie Doquile,Charlie Doquile,4-6,4,6,0,1,Completed,true,false,false
+UA016141,29 May 16,14,Le Page,St Mary's,No. 3,Laoise Commerford,Zane Cooper,Zane Cooper,1-6,1,6,0,1,Completed,true,false,false
+UA016141,29 May 16,14,Le Page,St Mary's,No. 4,Joanna Angeletos,Charles Wilson,Joanna Angeletos,6-1,6,1,1,0,Completed,true,false,false
+UA016142,29 May 16,14,Royal Ave,GPHC MLC,No. 1,Tal Zafrin,Ben Wickham,Ben Wickham,3-6,3,6,0,1,Completed,true,false,false
+UA016142,29 May 16,14,Royal Ave,GPHC MLC,No. 2,Xavier Carter,Nicolo Mirablella,Nicolo Mirablella,0-6,0,6,0,1,Completed,true,false,false
+UA016142,29 May 16,14,Royal Ave,GPHC MLC,No. 3,Zachary Griffin,Oscar Zagon-Davies,Oscar Zagon-Davies,0-6,0,6,0,1,Completed,true,false,false
+UA016142,29 May 16,14,Royal Ave,GPHC MLC,No. 4,Toby Luxton,Katia Perrell,Toby Luxton,7-5,7,5,1,0,Completed,true,false,false
+UA016143,29 May 16,14,Hurlingham Park,Carmelite,No. 1,Brody Rosenbloom,Alice Langton,Brody Rosenbloom,6-2,6,2,1,0,Completed,true,false,false
+UA016143,29 May 16,14,Hurlingham Park,Carmelite,No. 2,Daniel Palumbo,Cameron Richardson,Cameron Richardson,4-6,4,6,0,1,Completed,true,false,false
+UA016143,29 May 16,14,Hurlingham Park,Carmelite,No. 3,Vir Luthra,Madeleine Wilson,Vir Luthra,6-4,6,4,1,0,Completed,true,false,false
+UA016143,29 May 16,14,Hurlingham Park,Carmelite,No. 4,Naima Luthra,Amie Greenhall,Naima Luthra,6-0,6,0,1,0,Completed,true,false,false
+UA016144,29 May 16,14,Glen Eira Beech,Kings Park,No. 1,Louis McNabney-Stevens,Micaela Nochomivitz,Louis McNabney-Stevens,6-1,6,1,1,0,Completed,true,false,false
+UA016144,29 May 16,14,Glen Eira Beech,Kings Park,No. 2,Oliver Hardman,John Vibodh,Oliver Hardman,6-3,6,3,1,0,Completed,true,false,false
+UA016144,29 May 16,14,Glen Eira Beech,Kings Park,No. 3,Barnaby Kinsella,Korben Brough,Korben Brough,1-6,1,6,0,1,Completed,true,false,false
+UA016144,29 May 16,14,Glen Eira Beech,Kings Park,No. 4,Rachel Gluzman,Joni Deri Bohlou,Joni Deri Bohlou,1-6,1,6,0,1,Completed,true,false,false
+UA016301,,16,Hurlingham Park,GPHC MLC,No. 1,Brody Rosenbloom,Ben Wickham,Ben Wickham,4-6,4,6,0,1,Completed,true,false,false
+UA016301,,16,Hurlingham Park,GPHC MLC,No. 2,Jake Mattatia,Nicolo Mirablella,Jake Mattatia,6-2,6,2,1,0,Completed,true,false,false
+UA016301,,16,Hurlingham Park,GPHC MLC,No. 3,Daniel Palumbo,Maddy Fuller,Daniel Palumbo,6-0,6,0,1,0,Completed,true,false,false
+UA016301,,16,Hurlingham Park,GPHC MLC,No. 4,Vir Luthra,Katia Perrell,Vir Luthra,6-1,6,1,1,0,Completed,true,false,false
+UA016302,,16,St Mary's,Glen Eira Beech,No. 1,Sam Small,Louis McNabney-Stevens,Sam Small,6-1,6,1,1,0,Completed,true,false,false
+UA016302,,16,St Mary's,Glen Eira Beech,No. 2,Zane Cooper,Oliver Hardman,Zane Cooper,6-4,6,4,1,0,Completed,true,false,false
+UA016302,,16,St Mary's,Glen Eira Beech,No. 3,Aj Graham,Barnaby Kinsella,Barnaby Kinsella,1-6,1,6,0,1,Completed,true,false,false
+UA016302,,16,St Mary's,Glen Eira Beech,No. 4,Charles Wilson,Rachel Gluzman,Charles Wilson,7-6,7,6,1,0,Completed,true,false,false
+UA016321,,17,Hurlingham Park,St Mary's,No. 1,Brody Rosenbloom,Sam Small,Brody Rosenbloom,6-4,6,4,1,0,Completed,true,false,false
+UA016321,,17,Hurlingham Park,St Mary's,No. 2,Jake Mattatia,Ollie Cooper,Ollie Cooper,1-6,1,6,0,1,Completed,true,false,false
+UA016321,,17,Hurlingham Park,St Mary's,No. 3,Daniel Palumbo,Zane Cooper,Daniel Palumbo,6-4,6,4,1,0,Completed,true,false,true
+UA016321,,17,Hurlingham Park,St Mary's,No. 4,Vir Luthra,Charles Wilson,Vir Luthra,6-1,6,1,1,0,Completed,true,false,true

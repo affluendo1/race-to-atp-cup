@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA28-UA001",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2021",
+  "season_id": "UA28",
+  "season_label": "Autumn 2021",
+  "source_section_code": "UA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World",
+      "wins": 10,
+      "points": 99,
+      "percentage": 152.81,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Dendy Park 1",
+      "wins": 8,
+      "points": 83,
+      "percentage": 118.73,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "BLTC",
+      "wins": 7,
+      "points": 81,
+      "percentage": 133.86,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Elsternwick Park",
+      "wins": 5,
+      "points": 71,
+      "percentage": 114.88,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC",
+      "wins": 5,
+      "points": 63,
+      "percentage": 95.82,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park 2",
+      "wins": 2,
+      "points": 44,
+      "percentage": 71.02,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra",
+      "wins": 1,
+      "points": 41,
+      "percentage": 79.05,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Royal Ave",
+      "wins": 1,
+      "points": 38,
+      "percentage": 67.21,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA28-UA001",
+  "fixtures": 55,
+  "completed_fixtures": 42,
+  "draw_fixtures": 59,
+  "singles_rubbers": 167,
+  "doubles_rubbers": 84,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

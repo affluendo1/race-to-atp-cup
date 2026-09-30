@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA22-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Royal South Yarra",
+      "wins": 8,
+      "points": 82,
+      "percentage": 144.31,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Aspendale",
+      "wins": 8,
+      "points": 79,
+      "percentage": 130.3,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "GPHC",
+      "wins": 8,
+      "points": 69,
+      "percentage": 103.48,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Kooyong 2",
+      "wins": 5,
+      "points": 60.5,
+      "percentage": 100.32,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Kooyong 1",
+      "wins": 5,
+      "points": 53.5,
+      "percentage": 85.06,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "BLTC",
+      "wins": 2,
+      "points": 40.5,
+      "percentage": 77.48,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Coatesville",
+      "wins": 1,
+      "points": 35.5,
+      "percentage": 78.0,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA002",
+  "fixtures": 59,
+  "completed_fixtures": 44,
+  "draw_fixtures": 59,
+  "singles_rubbers": 170,
+  "doubles_rubbers": 88,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

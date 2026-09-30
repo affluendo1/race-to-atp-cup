@@ -1,0 +1,85 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA016031,01 Aug 21,3,Elsternwick Park,GPHC No.1,No. 1,Rex Ettershank,Sadhana Warrier,Rex Ettershank,7-6,7,6,1,0,Completed,true,false,false
+UA016031,01 Aug 21,3,Elsternwick Park,GPHC No.1,No. 2,Flynn Armstrong,Maddi Bare,Maddi Bare,3-6,3,6,0,1,Completed,true,false,false
+UA016031,01 Aug 21,3,Elsternwick Park,GPHC No.1,No. 3,Indigo Jellis,Claudia Hawkins,Claudia Hawkins,0-6,0,6,0,1,Completed,true,true,false
+UA016031,01 Aug 21,3,Elsternwick Park,GPHC No.1,No. 4,Charlie Pettifer,Gracie Lu,Charlie Pettifer,6-4,6,4,1,0,Completed,true,false,false
+UA016033,01 Aug 21,3,Parkdale,Black Rock,No. 1,Tyson Lowe,Amelie Smith,Amelie Smith,1-6,1,6,0,1,Completed,true,false,false
+UA016033,01 Aug 21,3,Parkdale,Black Rock,No. 2,Flynn Hodgkinson,Harrison Yang,Harrison Yang,6-7,6,7,0,1,Completed,true,false,false
+UA016033,01 Aug 21,3,Parkdale,Black Rock,No. 3,Matt Bradley,Lucy Letham,Lucy Letham,1-6,1,6,0,1,Completed,true,false,false
+UA016033,01 Aug 21,3,Parkdale,Black Rock,No. 4,Rohan Patel,Adam Martin,Adam Martin,4-6,4,6,0,1,Completed,true,false,false
+UA016034,01 Aug 21,3,St James,GPHC No.2,No. 1,Emma Stewart,Kai Maynard,Emma Stewart,7-6,7,6,1,0,Completed,true,false,false
+UA016034,01 Aug 21,3,St James,GPHC No.2,No. 2,Ben Lajbcygier,Oliver Chew,Oliver Chew,5-7,5,7,0,1,Completed,true,false,false
+UA016034,01 Aug 21,3,St James,GPHC No.2,No. 3,Mac Rogers-Wilson,Sam Price,Mac Rogers-Wilson,6-0,6,0,1,0,Completed,true,false,false
+UA016034,01 Aug 21,3,St James,GPHC No.2,No. 4,Emma Cunningham,Eli Jeffreys,Eli Jeffreys,3-6,3,6,0,1,Completed,true,false,false
+UA016091,07 Nov 21,9,Elsternwick Park,Aspendale,No. 1,Rex Ettershank,Ben Macaw,Rex Ettershank,6-1,6,1,1,0,Completed,true,false,false
+UA016091,07 Nov 21,9,Elsternwick Park,Aspendale,No. 2,Christian Cunico,Elliott Fairlie,Elliott Fairlie,2-6,2,6,0,1,Completed,true,false,false
+UA016091,07 Nov 21,9,Elsternwick Park,Aspendale,No. 3,Charlie Pettifer,Caitlin Collins,Charlie Pettifer,6-1,6,1,1,0,Completed,true,false,false
+UA016091,07 Nov 21,9,Elsternwick Park,Aspendale,No. 4,Nathan Jones,Hugo Mills,Hugo Mills,5-7,5,7,0,1,Completed,true,true,true
+UA016093,07 Nov 21,9,Parkdale,GPHC No.2,No. 1,Tyson Lowe,Archer Black,Tyson Lowe,6-4,6,4,1,0,Completed,true,false,false
+UA016093,07 Nov 21,9,Parkdale,GPHC No.2,No. 2,Flynn Hodgkinson,Kai Maynard,Flynn Hodgkinson,6-3,6,3,1,0,Completed,true,false,false
+UA016093,07 Nov 21,9,Parkdale,GPHC No.2,No. 3,Matt Bradley,Leo De Luca,Matt Bradley,7-6,7,6,1,0,Completed,true,false,false
+UA016093,07 Nov 21,9,Parkdale,GPHC No.2,No. 4,Oscar Lewis,Sam Price,Oscar Lewis,6-2,6,2,1,0,Completed,true,false,false
+UA016094,07 Nov 21,9,St James,GPHC No.1,No. 1,Emma Stewart,Sylvie Smith,Emma Stewart,6-1,6,1,1,0,Completed,true,false,false
+UA016094,07 Nov 21,9,St James,GPHC No.1,No. 2,Ben Lajbcygier,Maddi Bare,Ben Lajbcygier,6-1,6,1,1,0,Completed,true,false,false
+UA016094,07 Nov 21,9,St James,GPHC No.1,No. 3,Mac Rogers-Wilson,Zara Bare,Mac Rogers-Wilson,7-5,7,5,1,0,Completed,true,false,false
+UA016094,07 Nov 21,9,St James,GPHC No.1,No. 4,Julia Luo,Claudia Hawkins,Claudia Hawkins,1-6,1,6,0,1,Completed,true,false,false
+UA016101,14 Nov 21,10,GPHC No.1,Elsternwick Park,No. 1,Sylvie Smith,Rex Ettershank,Rex Ettershank,3-6,3,6,0,1,Completed,true,false,false
+UA016101,14 Nov 21,10,GPHC No.1,Elsternwick Park,No. 2,Zara Bare,Flynn Armstrong,Zara Bare,6-1,6,1,1,0,Completed,true,false,false
+UA016101,14 Nov 21,10,GPHC No.1,Elsternwick Park,No. 3,Maddi Bare,Charlie Pettifer,Charlie Pettifer,5-7,5,7,0,1,Completed,true,false,false
+UA016101,14 Nov 21,10,GPHC No.1,Elsternwick Park,No. 4,Gracie Lu,[Unnamed player — TROLS UA016101 away code 4],Gracie Lu,6-4,6,4,1,0,Completed,false,false,false
+UA016103,14 Nov 21,10,Black Rock,Parkdale,No. 1,Amelie Smith,Tyson Lowe,Amelie Smith,7-5,7,5,1,0,Completed,true,false,false
+UA016103,14 Nov 21,10,Black Rock,Parkdale,No. 2,Harrison Yang,Flynn Hodgkinson,Flynn Hodgkinson,6-7,6,7,0,1,Completed,true,false,false
+UA016103,14 Nov 21,10,Black Rock,Parkdale,No. 3,Javi Munnik,Matt Bradley,Javi Munnik,7-6,7,6,1,0,Completed,true,false,false
+UA016103,14 Nov 21,10,Black Rock,Parkdale,No. 4,Adam Martin,Rohan Patel,Rohan Patel,5-7,5,7,0,1,Completed,true,false,false
+UA016104,14 Nov 21,10,GPHC No.2,St James,No. 1,Archer Black,Emma Stewart,Emma Stewart,3-6,3,6,0,1,Completed,true,false,false
+UA016104,14 Nov 21,10,GPHC No.2,St James,No. 2,Oliver Chew,Ben Lajbcygier,Oliver Chew,6-4,6,4,1,0,Completed,true,false,false
+UA016104,14 Nov 21,10,GPHC No.2,St James,No. 3,Leo De Luca,Julia Luo,Leo De Luca,7-6,7,6,1,0,Completed,true,false,false
+UA016104,14 Nov 21,10,GPHC No.2,St James,No. 4,Eli Jeffreys,Sophie Stewart,Eli Jeffreys,7-5,7,5,1,0,Completed,true,false,true
+UA016111,21 Nov 21,11,Elsternwick Park,GPHC No.2,No. 1,Rex Ettershank,Kai Maynard,Rex Ettershank,6-2,6,2,1,0,Completed,true,false,false
+UA016111,21 Nov 21,11,Elsternwick Park,GPHC No.2,No. 2,Flynn Armstrong,Oliver Chew,Flynn Armstrong,6-0,6,0,1,0,Completed,true,false,false
+UA016111,21 Nov 21,11,Elsternwick Park,GPHC No.2,No. 3,Christian Cunico,Sam Price,Christian Cunico,6-2,6,2,1,0,Completed,true,false,false
+UA016111,21 Nov 21,11,Elsternwick Park,GPHC No.2,No. 4,Charlie Pettifer,Eli Jeffreys,Charlie Pettifer,6-0,6,0,1,0,Completed,true,false,false
+UA016113,21 Nov 21,11,Parkdale,Aspendale,No. 1,Tyson Lowe,Rebecca Dowling,Tyson Lowe,6-1,6,1,1,0,Completed,true,false,false
+UA016113,21 Nov 21,11,Parkdale,Aspendale,No. 2,Matt Bradley,Ben Macaw,Matt Bradley,6-4,6,4,1,0,Completed,true,false,false
+UA016113,21 Nov 21,11,Parkdale,Aspendale,No. 3,Oscar Lewis,Elliott Fairlie,Oscar Lewis,6-1,6,1,1,0,Completed,true,false,false
+UA016113,21 Nov 21,11,Parkdale,Aspendale,No. 4,Rohan Patel,Caitlin Collins,Rohan Patel,6-3,6,3,1,0,Completed,true,false,false
+UA016114,21 Nov 21,11,St James,Black Rock,No. 1,Emma Stewart,Harrison Yang,Emma Stewart,7-6,7,6,1,0,Completed,true,false,false
+UA016114,21 Nov 21,11,St James,Black Rock,No. 2,Ben Lajbcygier,Lucy Letham,Lucy Letham,3-6,3,6,0,1,Completed,true,false,false
+UA016114,21 Nov 21,11,St James,Black Rock,No. 3,Mac Rogers-Wilson,Anna Tweddle,Mac Rogers-Wilson,6-1,6,1,1,0,Completed,true,false,false
+UA016114,21 Nov 21,11,St James,Black Rock,No. 4,Julia Luo,Adam Martin,Adam Martin,2-6,2,6,0,1,Completed,true,false,false
+UA016121,28 Nov 21,12,St James,Parkdale,No. 1,Emma Stewart,Tyson Lowe,Emma Stewart,6-4,6,4,1,0,Completed,true,false,false
+UA016121,28 Nov 21,12,St James,Parkdale,No. 2,Ben Lajbcygier,Flynn Hodgkinson,Flynn Hodgkinson,0-6,0,6,0,1,Completed,true,false,false
+UA016121,28 Nov 21,12,St James,Parkdale,No. 3,Mac Rogers-Wilson,Oscar Lewis,Mac Rogers-Wilson,6-2,6,2,1,0,Completed,true,false,false
+UA016121,28 Nov 21,12,St James,Parkdale,No. 4,Julia Luo,Rohan Patel,Julia Luo,6-0,6,0,1,0,Completed,true,false,false
+UA016122,28 Nov 21,12,GPHC No.1,Aspendale,No. 1,Sadhana Warrier,Rebecca Dowling,Sadhana Warrier,7-6,7,6,1,0,Completed,true,false,false
+UA016122,28 Nov 21,12,GPHC No.1,Aspendale,No. 2,Claudia Hawkins,Ben Macaw,Claudia Hawkins,6-1,6,1,1,0,Completed,true,false,false
+UA016122,28 Nov 21,12,GPHC No.1,Aspendale,No. 3,Gracie Lu,Elliott Fairlie,Elliott Fairlie,4-6,4,6,0,1,Completed,true,false,false
+UA016122,28 Nov 21,12,GPHC No.1,Aspendale,No. 4,Jos Smith,Alannah Hetherington,Alannah Hetherington,2-6,2,6,0,1,Completed,true,true,true
+UA016123,28 Nov 21,12,Black Rock,GPHC No.2,No. 1,Amelie Smith,Archer Black,Amelie Smith,6-3,6,3,1,0,Completed,true,false,false
+UA016123,28 Nov 21,12,Black Rock,GPHC No.2,No. 2,Harrison Yang,Oliver Chew,Harrison Yang,6-2,6,2,1,0,Completed,true,false,false
+UA016123,28 Nov 21,12,Black Rock,GPHC No.2,No. 3,Javi Munnik,Leo De Luca,Javi Munnik,6-3,6,3,1,0,Completed,true,false,false
+UA016123,28 Nov 21,12,Black Rock,GPHC No.2,No. 4,Lucy Letham,Sam Price,Lucy Letham,6-2,6,2,1,0,Completed,true,false,false
+UA016132,05 Dec 21,13,Elsternwick Park,St James,No. 1,Flynn Armstrong,Emma Cunningham,Emma Cunningham,2-6,2,6,0,1,Completed,true,false,false
+UA016132,05 Dec 21,13,Elsternwick Park,St James,No. 2,Christian Cunico,Mac Rogers-Wilson,Mac Rogers-Wilson,4-6,4,6,0,1,Completed,true,false,false
+UA016132,05 Dec 21,13,Elsternwick Park,St James,No. 3,Charlie Pettifer,Julia Luo,Charlie Pettifer,6-1,6,1,1,0,Completed,true,false,false
+UA016132,05 Dec 21,13,Elsternwick Park,St James,No. 4,Ori Diamond,Sophie Stewart,Ori Diamond,6-3,6,3,1,0,Completed,true,true,true
+UA016133,05 Dec 21,13,GPHC No.2,GPHC No.1,No. 1,Archer Black,Sadhana Warrier,Sadhana Warrier,4-6,4,6,0,1,Completed,true,false,false
+UA016133,05 Dec 21,13,GPHC No.2,GPHC No.1,No. 2,Oliver Chew,Claudia Hawkins,Oliver Chew,6-4,6,4,1,0,Completed,true,false,false
+UA016133,05 Dec 21,13,GPHC No.2,GPHC No.1,No. 3,Leo De Luca,Gracie Lu,Leo De Luca,7-6,7,6,1,0,Completed,true,false,false
+UA016133,05 Dec 21,13,GPHC No.2,GPHC No.1,No. 4,Eli Jeffreys,Josh Tymm,Eli Jeffreys,6-0,6,0,1,0,Completed,true,false,true
+UA016134,05 Dec 21,13,Aspendale,Black Rock,No. 1,Rebecca Dowling,Amelie Smith,Amelie Smith,3-6,3,6,0,1,Completed,true,false,false
+UA016134,05 Dec 21,13,Aspendale,Black Rock,No. 2,Ben Macaw,Lucy Letham,Lucy Letham,1-6,1,6,0,1,Completed,true,false,false
+UA016134,05 Dec 21,13,Aspendale,Black Rock,No. 3,Elliott Fairlie,Anna Tweddle,Elliott Fairlie,6-2,6,2,1,0,Completed,true,false,false
+UA016134,05 Dec 21,13,Aspendale,Black Rock,No. 4,Caitlin Collins,Adam Martin,Adam Martin,1-6,1,6,0,1,Completed,true,false,false
+UA016141,12 Dec 21,14,Parkdale,Elsternwick Park,No. 1,Tyson Lowe,Rex Ettershank,Rex Ettershank,3-6,3,6,0,1,Completed,true,false,false
+UA016141,12 Dec 21,14,Parkdale,Elsternwick Park,No. 2,Flynn Hodgkinson,Ori Diamond,Flynn Hodgkinson,6-1,6,1,1,0,Completed,true,false,true
+UA016141,12 Dec 21,14,Parkdale,Elsternwick Park,No. 3,Matt Bradley,Christian Cunico,Christian Cunico,1-6,1,6,0,1,Completed,true,false,false
+UA016141,12 Dec 21,14,Parkdale,Elsternwick Park,No. 4,Rohan Patel,Charlie Pettifer,Charlie Pettifer,1-6,1,6,0,1,Completed,true,false,false
+UA016143,12 Dec 21,14,GPHC No.2,Aspendale,No. 1,Kai Maynard,Rebecca Dowling,Rebecca Dowling,5-7,5,7,0,1,Completed,true,false,false
+UA016143,12 Dec 21,14,GPHC No.2,Aspendale,No. 2,Oliver Chew,Elliott Fairlie,Elliott Fairlie,3-6,3,6,0,1,Completed,true,false,false
+UA016143,12 Dec 21,14,GPHC No.2,Aspendale,No. 3,Sam Price,Caitlin Collins,Sam Price,6-3,6,3,1,0,Completed,true,false,false
+UA016143,12 Dec 21,14,GPHC No.2,Aspendale,No. 4,Eli Jeffreys,Alannah Hetherington,Eli Jeffreys,6-0,6,0,1,0,Completed,true,false,true
+UA016144,12 Dec 21,14,Black Rock,GPHC No.1,No. 1,Amelie Smith,Sylvie Smith,Amelie Smith,6-4,6,4,1,0,Completed,true,false,false
+UA016144,12 Dec 21,14,Black Rock,GPHC No.1,No. 2,Javi Munnik,Maddi Bare,Javi Munnik,6-4,6,4,1,0,Completed,true,false,false
+UA016144,12 Dec 21,14,Black Rock,GPHC No.1,No. 3,Lucy Letham,Claudia Hawkins,Claudia Hawkins,1-6,1,6,0,1,Completed,true,false,false
+UA016144,12 Dec 21,14,Black Rock,GPHC No.1,No. 4,Anna Tweddle,Gracie Lu,Gracie Lu,2-6,2,6,0,1,Completed,true,false,false

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA22-UA012",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2018",
+  "season_id": "UA22",
+  "season_label": "Autumn 2018",
+  "source_section_code": "UA012",
+  "section_label": "Section 12",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Caulfield Rec",
+      "wins": 11,
+      "points": 100,
+      "percentage": 140.27,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Royal South Yarra",
+      "wins": 9,
+      "points": 95,
+      "percentage": 131.7,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "GPHC 2",
+      "wins": 9,
+      "points": 85,
+      "percentage": 125.24,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "GPHC 1",
+      "wins": 8,
+      "points": 80,
+      "percentage": 117.84,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 9,
+      "points": 79,
+      "percentage": 104.99,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St Mary's",
+      "wins": 4,
+      "points": 50,
+      "percentage": 76.38,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong Scotch",
+      "wins": 3,
+      "points": 38,
+      "percentage": 66.36,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Aspendale",
+      "wins": 0,
+      "points": 33,
+      "percentage": 65.74,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA22-UA012",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 45,
+  "singles_rubbers": 226,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

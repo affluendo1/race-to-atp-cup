@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA26-UA019",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2020",
+  "season_id": "UA26",
+  "season_label": "Autumn 2020",
+  "source_section_code": "UA019",
+  "section_label": "Section 19",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC",
+      "wins": 5,
+      "points": 51,
+      "percentage": 173.0,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Victory Park",
+      "wins": 4,
+      "points": 42,
+      "percentage": 132.77,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Centenary Park",
+      "wins": 3,
+      "points": 33,
+      "percentage": 109.38,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Glen Eira",
+      "wins": 2,
+      "points": 31,
+      "percentage": 108.26,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Maccabi",
+      "wins": 2,
+      "points": 30,
+      "percentage": 102.34,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Tennis World",
+      "wins": 1,
+      "points": 23,
+      "percentage": 90.7,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kooyong St Kevins",
+      "wins": 2,
+      "points": 20,
+      "percentage": 62.16,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hurlingham Park",
+      "wins": 0,
+      "points": 10,
+      "percentage": 58.68,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA26-UA019",
+  "fixtures": 24,
+  "completed_fixtures": 20,
+  "draw_fixtures": 56,
+  "singles_rubbers": 80,
+  "doubles_rubbers": 40,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

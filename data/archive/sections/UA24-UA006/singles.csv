@@ -1,0 +1,237 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA006011,03 Feb 19,1,Dendy Park,BLTC,No. 1,Oliver William Lally,Nathaniel Hall,Nathaniel Hall,0-6,0,6,0,1,Completed,true,false,false
+UA006011,03 Feb 19,1,Dendy Park,BLTC,No. 2,Jackson Chen,Sam Chaplin,Jackson Chen,6-0,6,0,1,0,Completed,true,false,false
+UA006011,03 Feb 19,1,Dendy Park,BLTC,No. 3,Angelee Singh,Antoine Bernard,Angelee Singh,6-1,6,1,1,0,Completed,true,false,false
+UA006011,03 Feb 19,1,Dendy Park,BLTC,No. 4,David Qian,Archie Rose,David Qian,6-4,6,4,1,0,Completed,true,false,false
+UA006012,03 Feb 19,1,Royal Ave,St Andrews MB RA,No. 1,Jacob Wise,Wyatt Baker,Jacob Wise,6-0,6,0,1,0,Completed,true,false,false
+UA006012,03 Feb 19,1,Royal Ave,St Andrews MB RA,No. 2,Nicolette Hilaris,William Dymond,William Dymond,2-6,2,6,0,1,Completed,true,false,false
+UA006012,03 Feb 19,1,Royal Ave,St Andrews MB RA,No. 3,Tess Dargan,Elena Langridge,Tess Dargan,6-3,6,3,1,0,Completed,true,false,false
+UA006012,03 Feb 19,1,Royal Ave,St Andrews MB RA,No. 4,Tal Zafrin,Cameron Reynolds,Cameron Reynolds,5-7,5,7,0,1,Completed,true,false,false
+UA006013,03 Feb 19,1,Kooyong Scotch,Port Melbourne,No. 1,Lewis Vanderzalm,Alex Ferizis,Lewis Vanderzalm,6-3,6,3,1,0,Completed,true,false,false
+UA006013,03 Feb 19,1,Kooyong Scotch,Port Melbourne,No. 2,Emmerson Priest,Josh McKenzie,Emmerson Priest,7-6,7,6,1,0,Completed,true,false,false
+UA006013,03 Feb 19,1,Kooyong Scotch,Port Melbourne,No. 3,Koroush Raissi,[Unnamed player — TROLS UA006013 away code 3],Koroush Raissi,6-0,6,0,1,0,Completed,false,false,false
+UA006013,03 Feb 19,1,Kooyong Scotch,Port Melbourne,No. 4,Jack Saville,Max Fergie,Jack Saville,6-2,6,2,1,0,Completed,true,false,false
+UA006014,03 Feb 19,1,St Leonards Tennis RA,GPHC,No. 1,Will Vucic,Andrea De Jong,Will Vucic,6-1,6,1,1,0,Completed,true,false,false
+UA006014,03 Feb 19,1,St Leonards Tennis RA,GPHC,No. 2,Harrison Fittler,Rachael White,Harrison Fittler,7-6,7,6,1,0,Completed,true,false,false
+UA006014,03 Feb 19,1,St Leonards Tennis RA,GPHC,No. 3,Jack Mooney,Tom Carlin,Tom Carlin,0-6,0,6,0,1,Completed,true,false,false
+UA006014,03 Feb 19,1,St Leonards Tennis RA,GPHC,No. 4,Toby Pinder,Angus Stewart,Toby Pinder,6-1,6,1,1,0,Completed,true,false,false
+UA006021,10 Feb 19,2,GPHC,Dendy Park,No. 1,Hunter Rives,Oliver William Lally,Hunter Rives,6-1,6,1,1,0,Completed,true,false,false
+UA006021,10 Feb 19,2,GPHC,Dendy Park,No. 2,Rachael White,Jackson Chen,Jackson Chen,2-6,2,6,0,1,Completed,true,false,false
+UA006021,10 Feb 19,2,GPHC,Dendy Park,No. 3,Tom Carlin,Jackson Mullaly,Jackson Mullaly,2-6,2,6,0,1,Completed,true,false,false
+UA006021,10 Feb 19,2,GPHC,Dendy Park,No. 4,Annaliese Ash-Grimm,David Qian,David Qian,0-6,0,6,0,1,Completed,true,false,false
+UA006022,10 Feb 19,2,BLTC,Royal Ave,No. 1,Nathaniel Hall,Nicolette Hilaris,Nathaniel Hall,6-2,6,2,1,0,Completed,true,false,false
+UA006022,10 Feb 19,2,BLTC,Royal Ave,No. 2,Sam Chaplin,Tess Dargan,Sam Chaplin,6-0,6,0,1,0,Completed,true,false,false
+UA006022,10 Feb 19,2,BLTC,Royal Ave,No. 3,Antoine Bernard,Isabel Dureau,Isabel Dureau,4-6,4,6,0,1,Completed,true,false,false
+UA006022,10 Feb 19,2,BLTC,Royal Ave,No. 4,Hugo Marcombe,Luke Cowie,Hugo Marcombe,6-2,6,2,1,0,Completed,true,false,false
+UA006023,10 Feb 19,2,St Andrews MB RA,Kooyong Scotch,No. 1,Wyatt Baker,Emmerson Priest,Emmerson Priest,3-6,3,6,0,1,Completed,true,false,false
+UA006023,10 Feb 19,2,St Andrews MB RA,Kooyong Scotch,No. 2,Abagail Komljenovic,Koroush Raissi,Koroush Raissi,3-6,3,6,0,1,Completed,true,false,false
+UA006023,10 Feb 19,2,St Andrews MB RA,Kooyong Scotch,No. 3,Elena Langridge,Josie Best,Elena Langridge,6-3,6,3,1,0,Completed,true,false,false
+UA006023,10 Feb 19,2,St Andrews MB RA,Kooyong Scotch,No. 4,Cameron Reynolds,Georgy Stamenos,Georgy Stamenos,4-6,4,6,0,1,Completed,true,false,false
+UA006024,10 Feb 19,2,Port Melbourne,St Leonards Tennis RA,No. 1,Josh McKenzie,Will Vucic,Will Vucic,3-6,3,6,0,1,Completed,true,false,false
+UA006024,10 Feb 19,2,Port Melbourne,St Leonards Tennis RA,No. 2,Ben Collis,Harrison Fittler,Ben Collis,6-0,6,0,1,0,Completed,true,false,false
+UA006024,10 Feb 19,2,Port Melbourne,St Leonards Tennis RA,No. 3,Felix Rossignol,Jack Mooney,Felix Rossignol,6-2,6,2,1,0,Completed,true,false,false
+UA006024,10 Feb 19,2,Port Melbourne,St Leonards Tennis RA,No. 4,Madelyn Brown,Will Shepard,Madelyn Brown,6-1,6,1,1,0,Completed,true,false,false
+UA006031,17 Feb 19,3,Dendy Park,Port Melbourne,No. 1,Oliver William Lally,Alex Ferizis,Alex Ferizis,0-6,0,6,0,1,Completed,true,false,false
+UA006031,17 Feb 19,3,Dendy Park,Port Melbourne,No. 2,Jackson Mullaly,Ben Collis,Jackson Mullaly,6-3,6,3,1,0,Completed,true,false,false
+UA006031,17 Feb 19,3,Dendy Park,Port Melbourne,No. 3,Angelee Singh,Felix Rossignol,Felix Rossignol,2-6,2,6,0,1,Completed,true,false,false
+UA006031,17 Feb 19,3,Dendy Park,Port Melbourne,No. 4,David Qian,Madelyn Brown,David Qian,7-6,7,6,1,0,Completed,true,false,false
+UA006032,17 Feb 19,3,Royal Ave,GPHC,No. 1,Jacob Wise,Hunter Rives,Hunter Rives,2-6,2,6,0,1,Completed,true,false,false
+UA006032,17 Feb 19,3,Royal Ave,GPHC,No. 2,Nicolette Hilaris,Andrea De Jong,Andrea De Jong,2-6,2,6,0,1,Completed,true,false,false
+UA006032,17 Feb 19,3,Royal Ave,GPHC,No. 3,Tal Zafrin,Rachael White,Tal Zafrin,6-2,6,2,1,0,Completed,true,false,false
+UA006032,17 Feb 19,3,Royal Ave,GPHC,No. 4,Isabel Dureau,Annaliese Ash-Grimm,Isabel Dureau,6-0,6,0,1,0,Completed,true,false,false
+UA006033,17 Feb 19,3,Kooyong Scotch,BLTC,No. 1,Lewis Vanderzalm,Nathaniel Hall,Nathaniel Hall,3-6,3,6,0,1,Completed,true,false,false
+UA006033,17 Feb 19,3,Kooyong Scotch,BLTC,No. 2,Josie Best,Sam Chaplin,Josie Best,7-6,7,6,1,0,Completed,true,false,false
+UA006033,17 Feb 19,3,Kooyong Scotch,BLTC,No. 3,Jack Saville,Antoine Bernard,Jack Saville,6-2,6,2,1,0,Completed,true,false,false
+UA006033,17 Feb 19,3,Kooyong Scotch,BLTC,No. 4,Georgy Stamenos,Hugo Marcombe,Hugo Marcombe,3-6,3,6,0,1,Completed,true,false,false
+UA006034,17 Feb 19,3,St Leonards Tennis RA,St Andrews MB RA,No. 1,Will Vucic,Wyatt Baker,Will Vucic,6-1,6,1,1,0,Completed,true,false,false
+UA006034,17 Feb 19,3,St Leonards Tennis RA,St Andrews MB RA,No. 2,Harrison Fittler,William Dymond,William Dymond,5-7,5,7,0,1,Completed,true,false,false
+UA006034,17 Feb 19,3,St Leonards Tennis RA,St Andrews MB RA,No. 3,Toby Pinder,Abagail Komljenovic,Toby Pinder,6-2,6,2,1,0,Completed,true,false,false
+UA006034,17 Feb 19,3,St Leonards Tennis RA,St Andrews MB RA,No. 4,Will Shepard,Oliver Lochhead,Oliver Lochhead,1-6,1,6,0,1,Completed,true,false,false
+UA006041,24 Feb 19,4,St Andrews MB RA,Dendy Park,No. 1,Wyatt Baker,Oliver William Lally,Wyatt Baker,6-3,6,3,1,0,Completed,true,false,false
+UA006041,24 Feb 19,4,St Andrews MB RA,Dendy Park,No. 2,William Dymond,Jackson Chen,William Dymond,6-3,6,3,1,0,Completed,true,false,false
+UA006041,24 Feb 19,4,St Andrews MB RA,Dendy Park,No. 3,Abagail Komljenovic,Angelee Singh,Angelee Singh,6-7,6,7,0,1,Completed,true,false,false
+UA006041,24 Feb 19,4,St Andrews MB RA,Dendy Park,No. 4,Elena Langridge,Isabel Lally,Elena Langridge,6-0,6,0,1,0,Completed,true,false,false
+UA006042,24 Feb 19,4,Port Melbourne,Royal Ave,No. 1,Alex Ferizis,Jacob Wise,Jacob Wise,4-6,4,6,0,1,Completed,true,false,false
+UA006042,24 Feb 19,4,Port Melbourne,Royal Ave,No. 2,Josh McKenzie,Nicolette Hilaris,Josh McKenzie,7-5,7,5,1,0,Completed,true,false,false
+UA006042,24 Feb 19,4,Port Melbourne,Royal Ave,No. 3,Felix Rossignol,Tal Zafrin,Felix Rossignol,6-4,6,4,1,0,Completed,true,false,false
+UA006042,24 Feb 19,4,Port Melbourne,Royal Ave,No. 4,Madelyn Brown,Luke Cowie,Luke Cowie,1-6,1,6,0,1,Completed,true,false,false
+UA006043,24 Feb 19,4,GPHC,Kooyong Scotch,No. 1,Hunter Rives,Emmerson Priest,Hunter Rives,6-4,6,4,1,0,Completed,true,false,false
+UA006043,24 Feb 19,4,GPHC,Kooyong Scotch,No. 2,Rachael White,Koroush Raissi,Koroush Raissi,2-6,2,6,0,1,Completed,true,false,false
+UA006043,24 Feb 19,4,GPHC,Kooyong Scotch,No. 3,Tom Carlin,Josie Best,Tom Carlin,6-2,6,2,1,0,Completed,true,false,false
+UA006043,24 Feb 19,4,GPHC,Kooyong Scotch,No. 4,Angus Stewart,Georgy Stamenos,Georgy Stamenos,1-6,1,6,0,1,Completed,true,false,false
+UA006044,24 Feb 19,4,BLTC,St Leonards Tennis RA,No. 1,Nathaniel Hall,Will Vucic,Nathaniel Hall,7-5,7,5,1,0,Completed,true,false,false
+UA006044,24 Feb 19,4,BLTC,St Leonards Tennis RA,No. 2,Sam Chaplin,Jack Mooney,Sam Chaplin,6-2,6,2,1,0,Completed,true,false,false
+UA006044,24 Feb 19,4,BLTC,St Leonards Tennis RA,No. 3,Antoine Bernard,Toby Pinder,Antoine Bernard,6-4,6,4,1,0,Completed,true,false,false
+UA006044,24 Feb 19,4,BLTC,St Leonards Tennis RA,No. 4,Hugo Marcombe,Will Shepard,Hugo Marcombe,6-0,6,0,1,0,Completed,true,false,false
+UA006051,03 Mar 19,5,Kooyong Scotch,St Leonards Tennis RA,No. 1,Lewis Vanderzalm,Will Vucic,Will Vucic,2-6,2,6,0,1,Completed,true,false,false
+UA006051,03 Mar 19,5,Kooyong Scotch,St Leonards Tennis RA,No. 2,Emmerson Priest,Harrison Fittler,Harrison Fittler,4-6,4,6,0,1,Completed,true,false,false
+UA006051,03 Mar 19,5,Kooyong Scotch,St Leonards Tennis RA,No. 3,Koroush Raissi,Jack Mooney,Koroush Raissi,6-1,6,1,1,0,Completed,true,false,false
+UA006051,03 Mar 19,5,Kooyong Scotch,St Leonards Tennis RA,No. 4,Jack Saville,Toby Pinder,Jack Saville,6-2,6,2,1,0,Completed,true,false,false
+UA006052,03 Mar 19,5,GPHC,Port Melbourne,No. 1,Hunter Rives,Alex Ferizis,Hunter Rives,6-0,6,0,1,0,Completed,true,false,false
+UA006052,03 Mar 19,5,GPHC,Port Melbourne,No. 2,Andrea De Jong,Josh McKenzie,Josh McKenzie,6-7,6,7,0,1,Completed,true,false,false
+UA006052,03 Mar 19,5,GPHC,Port Melbourne,No. 3,Rachael White,Ben Collis,Ben Collis,0-6,0,6,0,1,Completed,true,false,false
+UA006052,03 Mar 19,5,GPHC,Port Melbourne,No. 4,Tom Carlin,Madelyn Brown,Tom Carlin,6-4,6,4,1,0,Completed,true,false,false
+UA006053,03 Mar 19,5,St Andrews MB RA,BLTC,No. 1,William Dymond,Nathaniel Hall,William Dymond,7-6,7,6,1,0,Completed,true,false,false
+UA006053,03 Mar 19,5,St Andrews MB RA,BLTC,No. 2,Abagail Komljenovic,Sam Chaplin,Sam Chaplin,0-6,0,6,0,1,Completed,true,false,false
+UA006053,03 Mar 19,5,St Andrews MB RA,BLTC,No. 3,Oliver Lochhead,Hugo Marcombe,Hugo Marcombe,6-7,6,7,0,1,Completed,true,false,false
+UA006053,03 Mar 19,5,St Andrews MB RA,BLTC,No. 4,Elena Langridge,Archie Rose,Elena Langridge,6-2,6,2,1,0,Completed,true,false,false
+UA006054,03 Mar 19,5,Dendy Park,Royal Ave,No. 1,Angelee Singh,Nicolette Hilaris,Nicolette Hilaris,6-7,6,7,0,1,Completed,true,false,false
+UA006054,03 Mar 19,5,Dendy Park,Royal Ave,No. 2,Jackson Chen,Tess Dargan,Tess Dargan,3-6,3,6,0,1,Completed,true,false,false
+UA006054,03 Mar 19,5,Dendy Park,Royal Ave,No. 3,Jackson Mullaly,Isabel Dureau,Jackson Mullaly,6-0,6,0,1,0,Completed,true,false,false
+UA006054,03 Mar 19,5,Dendy Park,Royal Ave,No. 4,David Qian,Luke Cowie,Luke Cowie,0-6,0,6,0,1,Completed,true,false,false
+UA006061,17 Mar 19,6,Royal Ave,Kooyong Scotch,No. 1,Jacob Wise,Emmerson Priest,Jacob Wise,7-5,7,5,1,0,Completed,true,false,false
+UA006061,17 Mar 19,6,Royal Ave,Kooyong Scotch,No. 2,Nicolette Hilaris,Josie Best,Nicolette Hilaris,6-1,6,1,1,0,Completed,true,false,false
+UA006061,17 Mar 19,6,Royal Ave,Kooyong Scotch,No. 3,Tal Zafrin,Jack Saville,Jack Saville,2-6,2,6,0,1,Completed,true,false,false
+UA006061,17 Mar 19,6,Royal Ave,Kooyong Scotch,No. 4,Isabel Dureau,Georgy Stamenos,Georgy Stamenos,2-6,2,6,0,1,Completed,true,false,false
+UA006062,17 Mar 19,6,St Leonards Tennis RA,Dendy Park,No. 1,Will Vucic,Angelee Singh,Will Vucic,6-3,6,3,1,0,Completed,true,false,false
+UA006062,17 Mar 19,6,St Leonards Tennis RA,Dendy Park,No. 2,Harrison Fittler,Jackson Chen,Jackson Chen,3-6,3,6,0,1,Completed,true,false,false
+UA006062,17 Mar 19,6,St Leonards Tennis RA,Dendy Park,No. 3,Jack Mooney,Jackson Mullaly,Jackson Mullaly,6-7,6,7,0,1,Completed,true,false,false
+UA006062,17 Mar 19,6,St Leonards Tennis RA,Dendy Park,No. 4,Will Shepard,Oliver William Lally,Oliver William Lally,3-6,3,6,0,1,Completed,true,false,false
+UA006063,17 Mar 19,6,Port Melbourne,St Andrews MB RA,No. 1,Alex Ferizis,Spencer Nevett,Alex Ferizis,6-2,6,2,1,0,Completed,true,false,false
+UA006063,17 Mar 19,6,Port Melbourne,St Andrews MB RA,No. 2,Josh McKenzie,Daniel Bates,Josh McKenzie,6-3,6,3,1,0,Completed,true,false,false
+UA006063,17 Mar 19,6,Port Melbourne,St Andrews MB RA,No. 3,Ben Collis,William Dymond,William Dymond,4-6,4,6,0,1,Completed,true,false,false
+UA006063,17 Mar 19,6,Port Melbourne,St Andrews MB RA,No. 4,Felix Rossignol,Elena Langridge,Felix Rossignol,6-4,6,4,1,0,Completed,true,false,false
+UA006064,17 Mar 19,6,BLTC,GPHC,No. 1,Nathaniel Hall,Hunter Rives,Nathaniel Hall,6-2,6,2,1,0,Completed,true,false,false
+UA006064,17 Mar 19,6,BLTC,GPHC,No. 2,Sam Chaplin,Tom Carlin,Sam Chaplin,6-2,6,2,1,0,Completed,true,false,false
+UA006064,17 Mar 19,6,BLTC,GPHC,No. 3,Antoine Bernard,Andrea De Jong,Andrea De Jong,3-6,3,6,0,1,Completed,true,false,false
+UA006064,17 Mar 19,6,BLTC,GPHC,No. 4,Archie Rose,Angus Stewart,Archie Rose,6-3,6,3,1,0,Completed,true,false,false
+UA006071,24 Mar 19,7,Dendy Park,Kooyong Scotch,No. 1,Angelee Singh,Lewis Vanderzalm,Angelee Singh,6-4,6,4,1,0,Completed,true,false,false
+UA006071,24 Mar 19,7,Dendy Park,Kooyong Scotch,No. 2,Jackson Mullaly,Koroush Raissi,Jackson Mullaly,6-3,6,3,1,0,Completed,true,false,false
+UA006071,24 Mar 19,7,Dendy Park,Kooyong Scotch,No. 3,Oliver William Lally,Jack Saville,Jack Saville,4-6,4,6,0,1,Completed,true,false,false
+UA006071,24 Mar 19,7,Dendy Park,Kooyong Scotch,No. 4,David Qian,Georgy Stamenos,Georgy Stamenos,4-6,4,6,0,1,Completed,true,false,false
+UA006072,24 Mar 19,7,Royal Ave,St Leonards Tennis RA,No. 1,Jacob Wise,Harrison Fittler,Jacob Wise,6-0,6,0,1,0,Completed,true,false,false
+UA006072,24 Mar 19,7,Royal Ave,St Leonards Tennis RA,No. 2,Tess Dargan,Spiros Velos,Spiros Velos,1-6,1,6,0,1,Completed,true,false,false
+UA006072,24 Mar 19,7,Royal Ave,St Leonards Tennis RA,No. 3,Isabel Dureau,Jack Mooney,Jack Mooney,3-6,3,6,0,1,Completed,true,false,false
+UA006072,24 Mar 19,7,Royal Ave,St Leonards Tennis RA,No. 4,Luke Cowie,Toby Pinder,Luke Cowie,6-1,6,1,1,0,Completed,true,false,false
+UA006073,24 Mar 19,7,GPHC,St Andrews MB RA,No. 1,Hunter Rives,Wyatt Baker,Hunter Rives,6-2,6,2,1,0,Completed,true,false,false
+UA006073,24 Mar 19,7,GPHC,St Andrews MB RA,No. 2,Andrea De Jong,William Dymond,Andrea De Jong,6-2,6,2,1,0,Completed,true,false,false
+UA006073,24 Mar 19,7,GPHC,St Andrews MB RA,No. 3,Rachael White,Abagail Komljenovic,Rachael White,7-6,7,6,1,0,Completed,true,false,false
+UA006073,24 Mar 19,7,GPHC,St Andrews MB RA,No. 4,Annaliese Ash-Grimm,Oliver Lochhead,Annaliese Ash-Grimm,6-4,6,4,1,0,Completed,true,false,false
+UA006074,24 Mar 19,7,Port Melbourne,BLTC,No. 1,Alex Ferizis,Nathaniel Hall,Alex Ferizis,6-1,6,1,1,0,Completed,true,false,false
+UA006074,24 Mar 19,7,Port Melbourne,BLTC,No. 2,Josh McKenzie,Sam Chaplin,Josh McKenzie,6-4,6,4,1,0,Completed,true,false,false
+UA006074,24 Mar 19,7,Port Melbourne,BLTC,No. 3,Ben Collis,Antoine Bernard,Ben Collis,6-0,6,0,1,0,Completed,true,false,false
+UA006074,24 Mar 19,7,Port Melbourne,BLTC,No. 4,Felix Rossignol,Hugo Marcombe,Hugo Marcombe,4-6,4,6,0,1,Completed,true,false,false
+UA006081,31 Mar 19,8,BLTC,Dendy Park,No. 1,Sam Chaplin,Jackson Chen,Sam Chaplin,6-4,6,4,1,0,Completed,true,false,false
+UA006081,31 Mar 19,8,BLTC,Dendy Park,No. 2,Antoine Bernard,Jackson Mullaly,Jackson Mullaly,0-6,0,6,0,1,Completed,true,false,false
+UA006081,31 Mar 19,8,BLTC,Dendy Park,No. 3,Hugo Marcombe,Oliver William Lally,Hugo Marcombe,6-3,6,3,1,0,Completed,true,false,false
+UA006081,31 Mar 19,8,BLTC,Dendy Park,No. 4,Archie Rose,David Qian,David Qian,3-6,3,6,0,1,Completed,true,false,false
+UA006082,31 Mar 19,8,St Andrews MB RA,Royal Ave,No. 1,Wyatt Baker,Nicolette Hilaris,Wyatt Baker,6-2,6,2,1,0,Completed,true,false,false
+UA006082,31 Mar 19,8,St Andrews MB RA,Royal Ave,No. 2,Abagail Komljenovic,Tal Zafrin,Tal Zafrin,1-6,1,6,0,1,Completed,true,false,false
+UA006082,31 Mar 19,8,St Andrews MB RA,Royal Ave,No. 3,Elena Langridge,Isabel Dureau,Elena Langridge,6-4,6,4,1,0,Completed,true,false,false
+UA006082,31 Mar 19,8,St Andrews MB RA,Royal Ave,No. 4,Cameron Reynolds,Luke Cowie,Luke Cowie,5-7,5,7,0,1,Completed,true,false,false
+UA006083,31 Mar 19,8,Port Melbourne,Kooyong Scotch,No. 1,Alex Ferizis,Lewis Vanderzalm,Alex Ferizis,6-2,6,2,1,0,Completed,true,false,false
+UA006083,31 Mar 19,8,Port Melbourne,Kooyong Scotch,No. 2,Ben Collis,Emmerson Priest,Ben Collis,6-4,6,4,1,0,Completed,true,false,false
+UA006083,31 Mar 19,8,Port Melbourne,Kooyong Scotch,No. 3,Felix Rossignol,Koroush Raissi,Koroush Raissi,2-6,2,6,0,1,Completed,true,false,false
+UA006083,31 Mar 19,8,Port Melbourne,Kooyong Scotch,No. 4,Madelyn Brown,Georgy Stamenos,Georgy Stamenos,1-6,1,6,0,1,Completed,true,false,false
+UA006084,31 Mar 19,8,GPHC,St Leonards Tennis RA,No. 1,Tom Carlin,Harrison Fittler,Tom Carlin,6-2,6,2,1,0,Completed,true,false,false
+UA006084,31 Mar 19,8,GPHC,St Leonards Tennis RA,No. 2,Andrea De Jong,Spiros Velos,Spiros Velos,5-7,5,7,0,1,Completed,true,false,false
+UA006084,31 Mar 19,8,GPHC,St Leonards Tennis RA,No. 3,Angus Stewart,Jack Mooney,Jack Mooney,4-6,4,6,0,1,Completed,true,false,false
+UA006084,31 Mar 19,8,GPHC,St Leonards Tennis RA,No. 4,Annaliese Ash-Grimm,Toby Pinder,Toby Pinder,4-6,4,6,0,1,Completed,true,false,false
+UA006091,28 Apr 19,9,Dendy Park,GPHC,No. 1,Jackson Chen,Tom Carlin,Jackson Chen,6-4,6,4,1,0,Completed,true,false,false
+UA006091,28 Apr 19,9,Dendy Park,GPHC,No. 2,Jackson Mullaly,Andrea De Jong,Jackson Mullaly,6-2,6,2,1,0,Completed,true,false,false
+UA006091,28 Apr 19,9,Dendy Park,GPHC,No. 3,Oliver William Lally,Rachael White,Oliver William Lally,6-1,6,1,1,0,Completed,true,false,false
+UA006091,28 Apr 19,9,Dendy Park,GPHC,No. 4,David Qian,Annaliese Ash-Grimm,David Qian,6-1,6,1,1,0,Completed,true,false,false
+UA006092,28 Apr 19,9,Royal Ave,BLTC,No. 1,Jacob Wise,Nathaniel Hall,Jacob Wise,7-5,7,5,1,0,Completed,true,false,false
+UA006092,28 Apr 19,9,Royal Ave,BLTC,No. 2,Tal Zafrin,Sam Chaplin,Sam Chaplin,2-6,2,6,0,1,Completed,true,false,false
+UA006092,28 Apr 19,9,Royal Ave,BLTC,No. 3,Isabel Dureau,Antoine Bernard,Isabel Dureau,6-3,6,3,1,0,Completed,true,false,false
+UA006092,28 Apr 19,9,Royal Ave,BLTC,No. 4,Luke Cowie,Hugo Marcombe,Hugo Marcombe,4-6,4,6,0,1,Completed,true,false,false
+UA006093,28 Apr 19,9,Kooyong Scotch,St Andrews MB RA,No. 1,Lewis Vanderzalm,Wyatt Baker,Wyatt Baker,3-6,3,6,0,1,Completed,true,false,false
+UA006093,28 Apr 19,9,Kooyong Scotch,St Andrews MB RA,No. 2,Emmerson Priest,William Dymond,William Dymond,4-6,4,6,0,1,Completed,true,false,false
+UA006093,28 Apr 19,9,Kooyong Scotch,St Andrews MB RA,No. 3,Josie Best,Abagail Komljenovic,Josie Best,6-0,6,0,1,0,Completed,true,false,false
+UA006093,28 Apr 19,9,Kooyong Scotch,St Andrews MB RA,No. 4,Jack Saville,Elena Langridge,Jack Saville,6-0,6,0,1,0,Completed,true,false,false
+UA006094,28 Apr 19,9,St Leonards Tennis RA,Port Melbourne,No. 1,Will Vucic,Alex Ferizis,Alex Ferizis,2-6,2,6,0,1,Completed,true,false,false
+UA006094,28 Apr 19,9,St Leonards Tennis RA,Port Melbourne,No. 2,Jack Mooney,Josh McKenzie,Josh McKenzie,6-7,6,7,0,1,Completed,true,false,false
+UA006094,28 Apr 19,9,St Leonards Tennis RA,Port Melbourne,No. 3,Toby Pinder,Felix Rossignol,Felix Rossignol,4-6,4,6,0,1,Completed,true,false,false
+UA006094,28 Apr 19,9,St Leonards Tennis RA,Port Melbourne,No. 4,Will Shepard,Madelyn Brown,Madelyn Brown,4-6,4,6,0,1,Completed,true,false,false
+UA006101,05 May 19,10,Port Melbourne,Dendy Park,No. 1,Alex Ferizis,Tom Davoren,Alex Ferizis,7-5,7,5,1,0,Completed,true,false,false
+UA006101,05 May 19,10,Port Melbourne,Dendy Park,No. 2,Josh McKenzie,Ciara Ennis,Josh McKenzie,6-2,6,2,1,0,Completed,true,false,false
+UA006101,05 May 19,10,Port Melbourne,Dendy Park,No. 3,Ben Collis,Oliver William Lally,Ben Collis,6-2,6,2,1,0,Completed,true,false,false
+UA006101,05 May 19,10,Port Melbourne,Dendy Park,No. 4,Madelyn Brown,David Qian,Madelyn Brown,7-6,7,6,1,0,Completed,true,false,false
+UA006102,05 May 19,10,GPHC,Royal Ave,No. 1,Hunter Rives,Tess Dargan,Hunter Rives,6-1,6,1,1,0,Completed,true,false,false
+UA006102,05 May 19,10,GPHC,Royal Ave,No. 2,Andrea De Jong,Tal Zafrin,Andrea De Jong,6-4,6,4,1,0,Completed,true,false,false
+UA006102,05 May 19,10,GPHC,Royal Ave,No. 3,Rachael White,Isabel Dureau,Rachael White,6-3,6,3,1,0,Completed,true,false,false
+UA006102,05 May 19,10,GPHC,Royal Ave,No. 4,Annaliese Ash-Grimm,Luke Cowie,Luke Cowie,4-6,4,6,0,1,Completed,true,false,false
+UA006103,05 May 19,10,BLTC,Kooyong Scotch,No. 1,Nathaniel Hall,Emmerson Priest,Emmerson Priest,4-6,4,6,0,1,Completed,true,false,false
+UA006103,05 May 19,10,BLTC,Kooyong Scotch,No. 2,Sam Chaplin,Koroush Raissi,Sam Chaplin,6-1,6,1,1,0,Completed,true,false,false
+UA006103,05 May 19,10,BLTC,Kooyong Scotch,No. 3,Hugo Marcombe,Jack Saville,Hugo Marcombe,7-5,7,5,1,0,Completed,true,false,false
+UA006103,05 May 19,10,BLTC,Kooyong Scotch,No. 4,Archie Rose,Georgy Stamenos,Georgy Stamenos,4-6,4,6,0,1,Completed,true,false,false
+UA006104,05 May 19,10,St Andrews MB RA,St Leonards Tennis RA,No. 1,Wyatt Baker,Will Vucic,Will Vucic,4-6,4,6,0,1,Completed,true,false,false
+UA006104,05 May 19,10,St Andrews MB RA,St Leonards Tennis RA,No. 2,Abagail Komljenovic,Harrison Fittler,Harrison Fittler,3-6,3,6,0,1,Completed,true,false,false
+UA006104,05 May 19,10,St Andrews MB RA,St Leonards Tennis RA,No. 3,Oliver Lochhead,Jack Mooney,Jack Mooney,3-6,3,6,0,1,Completed,true,false,false
+UA006104,05 May 19,10,St Andrews MB RA,St Leonards Tennis RA,No. 4,Cameron Reynolds,Will Shepard,Cameron Reynolds,6-2,6,2,1,0,Completed,true,false,false
+UA006111,12 May 19,11,Dendy Park,St Andrews MB RA,No. 1,Angelee Singh,Wyatt Baker,Wyatt Baker,4-6,4,6,0,1,Completed,true,false,false
+UA006111,12 May 19,11,Dendy Park,St Andrews MB RA,No. 2,Ciara Ennis,William Dymond,William Dymond,5-7,5,7,0,1,Completed,true,false,false
+UA006111,12 May 19,11,Dendy Park,St Andrews MB RA,No. 3,Oliver William Lally,Abagail Komljenovic,Oliver William Lally,6-3,6,3,1,0,Completed,true,false,false
+UA006111,12 May 19,11,Dendy Park,St Andrews MB RA,No. 4,David Qian,Oliver Lochhead,Oliver Lochhead,2-6,2,6,0,1,Completed,true,false,false
+UA006112,12 May 19,11,Royal Ave,Port Melbourne,No. 1,Jacob Wise,Josh McKenzie,Jacob Wise,7-5,7,5,1,0,Completed,true,false,false
+UA006112,12 May 19,11,Royal Ave,Port Melbourne,No. 2,Nicolette Hilaris,Ben Collis,Ben Collis,0-6,0,6,0,1,Completed,true,false,false
+UA006112,12 May 19,11,Royal Ave,Port Melbourne,No. 3,Tess Dargan,Felix Rossignol,Felix Rossignol,3-6,3,6,0,1,Completed,true,false,false
+UA006112,12 May 19,11,Royal Ave,Port Melbourne,No. 4,Luke Cowie,Madelyn Brown,Luke Cowie,6-2,6,2,1,0,Completed,true,false,false
+UA006113,12 May 19,11,Kooyong Scotch,GPHC,No. 1,Lewis Vanderzalm,Hunter Rives,Hunter Rives,5-7,5,7,0,1,Completed,true,false,false
+UA006113,12 May 19,11,Kooyong Scotch,GPHC,No. 2,Koroush Raissi,Tom Carlin,Koroush Raissi,6-2,6,2,1,0,Completed,true,false,false
+UA006113,12 May 19,11,Kooyong Scotch,GPHC,No. 3,Josie Best,Andrea De Jong,Josie Best,6-1,6,1,1,0,Completed,true,false,false
+UA006113,12 May 19,11,Kooyong Scotch,GPHC,No. 4,Georgy Stamenos,Annaliese Ash-Grimm,Georgy Stamenos,6-2,6,2,1,0,Completed,true,false,false
+UA006114,12 May 19,11,St Leonards Tennis RA,BLTC,No. 1,Will Vucic,Nathaniel Hall,Nathaniel Hall,5-7,5,7,0,1,Completed,true,false,false
+UA006114,12 May 19,11,St Leonards Tennis RA,BLTC,No. 2,Jack Mooney,Sam Chaplin,Sam Chaplin,2-6,2,6,0,1,Completed,true,false,false
+UA006114,12 May 19,11,St Leonards Tennis RA,BLTC,No. 3,Toby Pinder,Antoine Bernard,Antoine Bernard,1-6,1,6,0,1,Completed,true,false,false
+UA006114,12 May 19,11,St Leonards Tennis RA,BLTC,No. 4,Will Shepard,Archie Rose,Archie Rose,2-6,2,6,0,1,Completed,true,false,false
+UA006121,19 May 19,12,St Leonards Tennis RA,Kooyong Scotch,No. 1,Will Vucic,Lewis Vanderzalm,Will Vucic,6-3,6,3,1,0,Completed,true,false,false
+UA006121,19 May 19,12,St Leonards Tennis RA,Kooyong Scotch,No. 2,Jack Mooney,Koroush Raissi,Koroush Raissi,3-6,3,6,0,1,Completed,true,false,false
+UA006121,19 May 19,12,St Leonards Tennis RA,Kooyong Scotch,No. 3,Toby Pinder,Josie Best,Josie Best,3-6,3,6,0,1,Completed,true,false,false
+UA006121,19 May 19,12,St Leonards Tennis RA,Kooyong Scotch,No. 4,Will Shepard,Jack Saville,Jack Saville,1-6,1,6,0,1,Completed,true,false,false
+UA006122,19 May 19,12,Port Melbourne,GPHC,No. 1,Alex Ferizis,Hunter Rives,Hunter Rives,3-6,3,6,0,1,Completed,true,false,false
+UA006122,19 May 19,12,Port Melbourne,GPHC,No. 2,Josh McKenzie,Tom Carlin,Josh McKenzie,7-6,7,6,1,0,Completed,true,false,false
+UA006122,19 May 19,12,Port Melbourne,GPHC,No. 3,Madelyn Brown,Annaliese Ash-Grimm,Madelyn Brown,6-2,6,2,1,0,Completed,true,false,false
+UA006122,19 May 19,12,Port Melbourne,GPHC,No. 4,Max Fergie,James McGrath,Max Fergie,6-3,6,3,1,0,Completed,true,false,false
+UA006123,19 May 19,12,BLTC,St Andrews MB RA,No. 1,Nathaniel Hall,Wyatt Baker,Nathaniel Hall,6-1,6,1,1,0,Completed,true,false,false
+UA006123,19 May 19,12,BLTC,St Andrews MB RA,No. 2,Antoine Bernard,William Dymond,William Dymond,2-6,2,6,0,1,Completed,true,false,false
+UA006123,19 May 19,12,BLTC,St Andrews MB RA,No. 3,Hugo Marcombe,Elena Langridge,Hugo Marcombe,6-1,6,1,1,0,Completed,true,false,false
+UA006123,19 May 19,12,BLTC,St Andrews MB RA,No. 4,Archie Rose,Cameron Reynolds,Archie Rose,6-4,6,4,1,0,Completed,true,false,false
+UA006124,19 May 19,12,Royal Ave,Dendy Park,No. 1,Jacob Wise,Angelee Singh,Angelee Singh,4-6,4,6,0,1,Completed,true,false,false
+UA006124,19 May 19,12,Royal Ave,Dendy Park,No. 2,Tess Dargan,Jackson Mullaly,Jackson Mullaly,6-7,6,7,0,1,Completed,true,false,false
+UA006124,19 May 19,12,Royal Ave,Dendy Park,No. 3,Tal Zafrin,Oliver William Lally,Oliver William Lally,6-7,6,7,0,1,Completed,true,false,false
+UA006124,19 May 19,12,Royal Ave,Dendy Park,No. 4,Isabel Dureau,David Qian,David Qian,3-6,3,6,0,1,Completed,true,false,false
+UA006131,26 May 19,13,Kooyong Scotch,Royal Ave,No. 1,Lewis Vanderzalm,Jacob Wise,Jacob Wise,2-6,2,6,0,1,Completed,true,false,false
+UA006131,26 May 19,13,Kooyong Scotch,Royal Ave,No. 2,Emmerson Priest,Nicolette Hilaris,Emmerson Priest,6-3,6,3,1,0,Completed,true,false,false
+UA006131,26 May 19,13,Kooyong Scotch,Royal Ave,No. 3,Josie Best,Tal Zafrin,Josie Best,6-1,6,1,1,0,Completed,true,false,false
+UA006131,26 May 19,13,Kooyong Scotch,Royal Ave,No. 4,Georgy Stamenos,Luke Cowie,Georgy Stamenos,6-0,6,0,1,0,Completed,true,false,false
+UA006132,26 May 19,13,Dendy Park,St Leonards Tennis RA,No. 1,Angelee Singh,Will Vucic,Will Vucic,4-6,4,6,0,1,Completed,true,false,false
+UA006132,26 May 19,13,Dendy Park,St Leonards Tennis RA,No. 2,Jackson Chen,Harrison Fittler,Harrison Fittler,6-7,6,7,0,1,Completed,true,false,false
+UA006132,26 May 19,13,Dendy Park,St Leonards Tennis RA,No. 3,Oliver William Lally,Jack Mooney,Jack Mooney,2-6,2,6,0,1,Completed,true,false,false
+UA006132,26 May 19,13,Dendy Park,St Leonards Tennis RA,No. 4,David Qian,Toby Pinder,David Qian,6-1,6,1,1,0,Completed,true,false,false
+UA006133,26 May 19,13,St Andrews MB RA,Port Melbourne,No. 1,William Dymond,Alex Ferizis,Alex Ferizis,1-6,1,6,0,1,Completed,true,false,false
+UA006133,26 May 19,13,St Andrews MB RA,Port Melbourne,No. 2,Oliver Lochhead,Josh McKenzie,Josh McKenzie,4-6,4,6,0,1,Completed,true,false,false
+UA006133,26 May 19,13,St Andrews MB RA,Port Melbourne,No. 3,Elena Langridge,Ben Collis,Ben Collis,4-6,4,6,0,1,Completed,true,false,false
+UA006133,26 May 19,13,St Andrews MB RA,Port Melbourne,No. 4,Cameron Reynolds,Felix Rossignol,Felix Rossignol,1-6,1,6,0,1,Completed,true,false,false
+UA006134,26 May 19,13,GPHC,BLTC,No. 1,Hunter Rives,Sam Chaplin,Hunter Rives,6-3,6,3,1,0,Completed,true,false,false
+UA006134,26 May 19,13,GPHC,BLTC,No. 2,Tom Carlin,Hugo Marcombe,Tom Carlin,7-6,7,6,1,0,Completed,true,false,false
+UA006134,26 May 19,13,GPHC,BLTC,No. 3,Andrea De Jong,Archie Rose,Andrea De Jong,6-1,6,1,1,0,Completed,true,false,false
+UA006134,26 May 19,13,GPHC,BLTC,No. 4,Annaliese Ash-Grimm,Freddy Rose,Freddy Rose,2-6,2,6,0,1,Completed,true,false,false
+UA006141,02 Jun 19,14,Kooyong Scotch,Dendy Park,No. 1,Emmerson Priest,Angelee Singh,Emmerson Priest,6-1,6,1,1,0,Completed,true,false,false
+UA006141,02 Jun 19,14,Kooyong Scotch,Dendy Park,No. 2,Koroush Raissi,Jackson Chen,Koroush Raissi,6-1,6,1,1,0,Completed,true,false,false
+UA006141,02 Jun 19,14,Kooyong Scotch,Dendy Park,No. 3,Jack Saville,Jackson Mullaly,Jackson Mullaly,0-6,0,6,0,1,Completed,true,false,false
+UA006141,02 Jun 19,14,Kooyong Scotch,Dendy Park,No. 4,Georgy Stamenos,David Qian,Georgy Stamenos,6-1,6,1,1,0,Completed,true,false,false
+UA006142,02 Jun 19,14,St Leonards Tennis RA,Royal Ave,No. 1,Will Vucic,Jacob Wise,Will Vucic,6-2,6,2,1,0,Completed,true,false,false
+UA006142,02 Jun 19,14,St Leonards Tennis RA,Royal Ave,No. 2,Harrison Fittler,Nicolette Hilaris,Nicolette Hilaris,0-6,0,6,0,1,Completed,true,false,false
+UA006142,02 Jun 19,14,St Leonards Tennis RA,Royal Ave,No. 3,Jack Mooney,Tess Dargan,Tess Dargan,6-7,6,7,0,1,Completed,true,false,false
+UA006142,02 Jun 19,14,St Leonards Tennis RA,Royal Ave,No. 4,Will Shepard,Isabel Dureau,Isabel Dureau,0-6,0,6,0,1,Completed,true,false,false
+UA006143,02 Jun 19,14,St Andrews MB RA,GPHC,No. 1,Wyatt Baker,Hunter Rives,Hunter Rives,1-6,1,6,0,1,Completed,true,false,false
+UA006143,02 Jun 19,14,St Andrews MB RA,GPHC,No. 2,William Dymond,Tom Carlin,Tom Carlin,1-6,1,6,0,1,Completed,true,false,false
+UA006143,02 Jun 19,14,St Andrews MB RA,GPHC,No. 3,Abagail Komljenovic,Andrea De Jong,Abagail Komljenovic,6-1,6,1,1,0,Completed,true,false,false
+UA006143,02 Jun 19,14,St Andrews MB RA,GPHC,No. 4,Oliver Lochhead,Rachael White,Oliver Lochhead,6-1,6,1,1,0,Completed,true,false,false
+UA006144,02 Jun 19,14,BLTC,Port Melbourne,No. 1,Nathaniel Hall,Alex Ferizis,Nathaniel Hall,6-4,6,4,1,0,Completed,true,false,false
+UA006144,02 Jun 19,14,BLTC,Port Melbourne,No. 2,Antoine Bernard,Josh McKenzie,Josh McKenzie,1-6,1,6,0,1,Completed,true,false,false
+UA006144,02 Jun 19,14,BLTC,Port Melbourne,No. 3,Hugo Marcombe,Madelyn Brown,Hugo Marcombe,6-0,6,0,1,0,Completed,true,false,false
+UA006144,02 Jun 19,14,BLTC,Port Melbourne,No. 4,Archie Rose,Max Fergie,Archie Rose,7-5,7,5,1,0,Completed,true,false,false
+UA006301,,16,Port Melbourne,Dendy Park,No. 1,Alex Ferizis,Angelee Singh,Alex Ferizis,6-3,6,3,1,0,Completed,true,false,false
+UA006301,,16,Port Melbourne,Dendy Park,No. 2,Felix Rossignol,Jackson Chen,Jackson Chen,4-6,4,6,0,1,Completed,true,false,false
+UA006301,,16,Port Melbourne,Dendy Park,No. 3,Madelyn Brown,Jackson Mullaly,Jackson Mullaly,1-6,1,6,0,1,Completed,true,false,false
+UA006301,,16,Port Melbourne,Dendy Park,No. 4,Max Fergie,Oliver William Lally,Max Fergie,6-2,6,2,1,0,Completed,true,false,false
+UA006302,,16,Kooyong Scotch,BLTC,No. 1,Emmerson Priest,Nathaniel Hall,Nathaniel Hall,1-6,1,6,0,1,Completed,true,false,false
+UA006302,,16,Kooyong Scotch,BLTC,No. 2,Koroush Raissi,Sam Chaplin,Koroush Raissi,6-3,6,3,1,0,Completed,true,false,false
+UA006302,,16,Kooyong Scotch,BLTC,No. 3,Jack Saville,Antoine Bernard,Jack Saville,6-1,6,1,1,0,Completed,true,false,false
+UA006302,,16,Kooyong Scotch,BLTC,No. 4,Georgy Stamenos,Hugo Marcombe,Hugo Marcombe,2-6,2,6,0,1,Completed,true,false,false
+UA006321,,17,BLTC,Dendy Park,No. 1,Nathaniel Hall,Angelee Singh,Nathaniel Hall,6-3,6,3,1,0,Completed,true,false,false
+UA006321,,17,BLTC,Dendy Park,No. 2,Sam Chaplin,Oliver William Lally,Sam Chaplin,6-2,6,2,1,0,Completed,true,false,false
+UA006321,,17,BLTC,Dendy Park,No. 3,Hugo Marcombe,David Qian,David Qian,2-6,2,6,0,1,Completed,true,false,false
+UA006321,,17,BLTC,Dendy Park,No. 4,Archie Rose,Noah Hansen,Archie Rose,7-6,7,6,1,0,Completed,true,false,false

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA32-UA023",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2023",
+  "season_id": "UA32",
+  "season_label": "Autumn 2023",
+  "source_section_code": "UA023",
+  "section_label": "Section 23 Green",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Black Rock Blue",
+      "wins": 9,
+      "points": 102,
+      "percentage": 187.71,
+      "marker": "R"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 8,
+      "points": 92,
+      "percentage": 171.89,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Patterson Lakes",
+      "wins": 7,
+      "points": 76,
+      "percentage": 123.08,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "Mentone",
+      "wins": 5,
+      "points": 69,
+      "percentage": 97.98,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Parkdale",
+      "wins": 3,
+      "points": 61,
+      "percentage": 111.47,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kings Park Blue",
+      "wins": 2,
+      "points": 50,
+      "percentage": 81.47,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "BLTC Blue",
+      "wins": 1,
+      "points": 40,
+      "percentage": 66.04,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "St Pats Mentone Seahorse",
+      "wins": 0,
+      "points": 30,
+      "percentage": 32.41,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA32-UA023",
+  "fixtures": 55,
+  "completed_fixtures": 42,
+  "draw_fixtures": 45,
+  "singles_rubbers": 164,
+  "doubles_rubbers": 82,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

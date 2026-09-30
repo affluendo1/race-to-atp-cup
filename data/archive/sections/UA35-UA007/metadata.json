@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA35-UA007",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2024",
+  "season_id": "UA35",
+  "season_label": "Spring 2024",
+  "source_section_code": "UA007",
+  "section_label": "Section 7",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "BLTC Blue",
+      "wins": 9,
+      "points": 87,
+      "percentage": 123.05,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St James Yellow",
+      "wins": 8,
+      "points": 87,
+      "percentage": 116.72,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Glen Huntly",
+      "wins": 9,
+      "points": 86,
+      "percentage": 117.45,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "St James Green",
+      "wins": 8,
+      "points": 85,
+      "percentage": 132.64,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Victory Park",
+      "wins": 7,
+      "points": 74,
+      "percentage": 105.39,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Black Rock",
+      "wins": 6,
+      "points": 62,
+      "percentage": 93.12,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 3,
+      "points": 54,
+      "percentage": 88.53,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Kings Park",
+      "wins": 1,
+      "points": 25,
+      "percentage": 40.56,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA35-UA007",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

@@ -1,0 +1,191 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA003011,27 Jul 25,1,Royal Ave,Royal South Yarra,No. 1,Luke Chapman,Boston Moran,Luke Chapman,6-3,6,3,1,0,Completed,true,false,false
+UA003011,27 Jul 25,1,Royal Ave,Royal South Yarra,No. 2,Jack Watson,Tom Park,Jack Watson,6-3,6,3,1,0,Completed,true,false,false
+UA003011,27 Jul 25,1,Royal Ave,Royal South Yarra,No. 3,Charlie Vakrinos,Mara Tausan,Charlie Vakrinos,6-0,6,0,1,0,Completed,true,false,false
+UA003011,27 Jul 25,1,Royal Ave,Royal South Yarra,No. 4,Vadim Goreux,Dash Webb,Dash Webb,3-6,3,6,0,1,Completed,true,false,false
+UA003012,27 Jul 25,1,Tennis World Green,BLTC,No. 1,[Unnamed player — TROLS UA003012 home code 1],Mali Nayna,Mali Nayna,0-6,0,6,0,1,Completed,false,false,false
+UA003012,27 Jul 25,1,Tennis World Green,BLTC,No. 2,Akki Kantamani,Harry Bennett,Akki Kantamani,6-1,6,1,1,0,Completed,true,false,false
+UA003012,27 Jul 25,1,Tennis World Green,BLTC,No. 3,Aditya Garg,Justin Xia,,5-5,5,5,0,0,Completed,false,false,false
+UA003012,27 Jul 25,1,Tennis World Green,BLTC,No. 4,[Unnamed player — TROLS UA003012 home code 4],Aiden Dong,Aiden Dong,0-6,0,6,0,1,Completed,false,false,false
+UA003013,27 Jul 25,1,Kooyong,Tennis World Blue,No. 1,Kayla Coster,Morgan Vong,Kayla Coster,6-4,6,4,1,0,Completed,true,false,false
+UA003013,27 Jul 25,1,Kooyong,Tennis World Blue,No. 2,Aisyah Hamilton,Reuben Wong,Reuben Wong,2-6,2,6,0,1,Completed,true,false,false
+UA003013,27 Jul 25,1,Kooyong,Tennis World Blue,No. 3,James Rentoulis,Rafael Staa,Rafael Staa,4-6,4,6,0,1,Completed,true,false,false
+UA003013,27 Jul 25,1,Kooyong,Tennis World Blue,No. 4,James Porter,Keagan Vong,Keagan Vong,0-6,0,6,0,1,Completed,true,false,false
+UA003014,27 Jul 25,1,Dendy Park,St Pats Mentone,No. 1,Zulu Kumar,Ollie Clifton,Ollie Clifton,1-6,1,6,0,1,Completed,true,false,false
+UA003014,27 Jul 25,1,Dendy Park,St Pats Mentone,No. 2,Anh Ngo,Tom Gregory,Tom Gregory,0-6,0,6,0,1,Completed,true,false,false
+UA003014,27 Jul 25,1,Dendy Park,St Pats Mentone,No. 3,Sophie Klettke-Sullivan,Xavier Stainthorpe,Xavier Stainthorpe,1-6,1,6,0,1,Completed,true,false,false
+UA003014,27 Jul 25,1,Dendy Park,St Pats Mentone,No. 4,Owen Yu,Hunter Wicking,Owen Yu,6-4,6,4,1,0,Completed,true,false,false
+UA003021,03 Aug 25,2,St Pats Mentone,Royal Ave,No. 1,Ollie Clifton,Nick Danaher,Ollie Clifton,6-3,6,3,1,0,Completed,true,false,false
+UA003021,03 Aug 25,2,St Pats Mentone,Royal Ave,No. 2,Tom Gregory,Jack Watson,Jack Watson,5-7,5,7,0,1,Completed,true,false,false
+UA003021,03 Aug 25,2,St Pats Mentone,Royal Ave,No. 3,Xavier Stainthorpe,Charlie Vakrinos,Charlie Vakrinos,3-6,3,6,0,1,Completed,true,false,false
+UA003021,03 Aug 25,2,St Pats Mentone,Royal Ave,No. 4,Hunter Wicking,Juliette Hostein,Hunter Wicking,6-3,6,3,1,0,Completed,true,false,false
+UA003022,03 Aug 25,2,Royal South Yarra,Tennis World Green,No. 1,Tom Park,Akki Kantamani,Akki Kantamani,0-6,0,6,0,1,Completed,true,false,false
+UA003022,03 Aug 25,2,Royal South Yarra,Tennis World Green,No. 2,Dash Webb,Aditya Garg,Aditya Garg,3-6,3,6,0,1,Completed,true,false,false
+UA003022,03 Aug 25,2,Royal South Yarra,Tennis World Green,No. 3,Will Howitt,Jennifer Guo,Will Howitt,7-5,7,5,1,0,Completed,true,false,false
+UA003022,03 Aug 25,2,Royal South Yarra,Tennis World Green,No. 4,Nathan Lin,Joel Dalidowicz,Nathan Lin,6-0,6,0,1,0,Completed,true,false,true
+UA003023,03 Aug 25,2,BLTC,Kooyong,No. 1,Mali Nayna,Aisyah Hamilton,Aisyah Hamilton,2-6,2,6,0,1,Completed,true,false,false
+UA003023,03 Aug 25,2,BLTC,Kooyong,No. 2,Harry Bennett,Thomas Batchelor,Thomas Batchelor,0-6,0,6,0,1,Completed,true,false,false
+UA003023,03 Aug 25,2,BLTC,Kooyong,No. 3,Justin Xia,James Rentoulis,James Rentoulis,4-6,4,6,0,1,Completed,true,false,false
+UA003023,03 Aug 25,2,BLTC,Kooyong,No. 4,Aiden Dong,Phillip Brophy,Phillip Brophy,3-6,3,6,0,1,Completed,true,false,true
+UA003024,03 Aug 25,2,Tennis World Blue,Dendy Park,No. 1,Morgan Vong,Zulu Kumar,Morgan Vong,6-0,6,0,1,0,Completed,true,false,false
+UA003024,03 Aug 25,2,Tennis World Blue,Dendy Park,No. 2,Reuben Wong,Sophie Klettke-Sullivan,Reuben Wong,7-5,7,5,1,0,Completed,true,false,false
+UA003024,03 Aug 25,2,Tennis World Blue,Dendy Park,No. 3,Rafael Staa,Owen Yu,Rafael Staa,6-2,6,2,1,0,Completed,true,false,false
+UA003024,03 Aug 25,2,Tennis World Blue,Dendy Park,No. 4,Naaz Sodha,Adele Naujalyte,Naaz Sodha,6-0,6,0,1,0,Completed,true,false,true
+UA003031,10 Aug 25,3,Royal Ave,Tennis World Blue,No. 1,Luke Chapman,Morgan Vong,Luke Chapman,7-5,7,5,1,0,Completed,true,false,false
+UA003031,10 Aug 25,3,Royal Ave,Tennis World Blue,No. 2,Jack Watson,Reuben Wong,Reuben Wong,3-6,3,6,0,1,Completed,true,false,false
+UA003031,10 Aug 25,3,Royal Ave,Tennis World Blue,No. 3,Juliette Hostein,Keagan Vong,Keagan Vong,4-6,4,6,0,1,Completed,true,false,false
+UA003031,10 Aug 25,3,Royal Ave,Tennis World Blue,No. 4,Vadim Goreux,Naaz Sodha,Naaz Sodha,5-7,5,7,0,1,Completed,true,false,false
+UA003032,10 Aug 25,3,Tennis World Green,St Pats Mentone,No. 1,Akki Kantamani,Ollie Clifton,Akki Kantamani,6-0,6,0,1,0,Completed,true,false,false
+UA003032,10 Aug 25,3,Tennis World Green,St Pats Mentone,No. 2,Aditya Garg,Tom Gregory,Aditya Garg,6-1,6,1,1,0,Completed,true,false,false
+UA003032,10 Aug 25,3,Tennis World Green,St Pats Mentone,No. 3,Sebastian Chow,Xavier Stainthorpe,Xavier Stainthorpe,6-7,6,7,0,1,Completed,true,false,false
+UA003032,10 Aug 25,3,Tennis World Green,St Pats Mentone,No. 4,Chalwe Bowler,Hunter Wicking,Chalwe Bowler,6-3,6,3,1,0,Completed,true,false,false
+UA003033,10 Aug 25,3,Kooyong,Royal South Yarra,No. 1,Aisyah Hamilton,Boston Moran,Aisyah Hamilton,6-4,6,4,1,0,Completed,true,false,false
+UA003033,10 Aug 25,3,Kooyong,Royal South Yarra,No. 2,Lachlan Wang,Mara Tausan,Mara Tausan,3-6,3,6,0,1,Completed,true,false,false
+UA003033,10 Aug 25,3,Kooyong,Royal South Yarra,No. 3,Thomas Batchelor,Dash Webb,Dash Webb,5-7,5,7,0,1,Completed,true,false,false
+UA003033,10 Aug 25,3,Kooyong,Royal South Yarra,No. 4,James Porter,Nathan Lin,Nathan Lin,1-6,1,6,0,1,Completed,true,false,false
+UA003034,10 Aug 25,3,Dendy Park,BLTC,No. 1,Zulu Kumar,Mali Nayna,Mali Nayna,1-6,1,6,0,1,Completed,true,false,false
+UA003034,10 Aug 25,3,Dendy Park,BLTC,No. 2,Anh Ngo,Harry Bennett,Harry Bennett,6-7,6,7,0,1,Completed,true,false,false
+UA003034,10 Aug 25,3,Dendy Park,BLTC,No. 3,Sophie Klettke-Sullivan,Justin Xia,Justin Xia,3-6,3,6,0,1,Completed,true,false,false
+UA003034,10 Aug 25,3,Dendy Park,BLTC,No. 4,Owen Yu,Scarlett Cosentino,Scarlett Cosentino,0-6,0,6,0,1,Completed,true,false,false
+UA003041,17 Aug 25,4,BLTC,Royal Ave,No. 1,Mali Nayna,Luke Chapman,Mali Nayna,6-4,6,4,1,0,Completed,true,false,false
+UA003041,17 Aug 25,4,BLTC,Royal Ave,No. 2,Harry Bennett,Nick Danaher,Harry Bennett,7-5,7,5,1,0,Completed,true,false,false
+UA003041,17 Aug 25,4,BLTC,Royal Ave,No. 3,Justin Xia,Charlie Vakrinos,Charlie Vakrinos,4-6,4,6,0,1,Completed,true,false,false
+UA003041,17 Aug 25,4,BLTC,Royal Ave,No. 4,Scarlett Cosentino,Vadim Goreux,Scarlett Cosentino,6-3,6,3,1,0,Completed,true,false,false
+UA003042,17 Aug 25,4,Tennis World Blue,Tennis World Green,No. 1,Thea Teo,Akki Kantamani,Akki Kantamani,2-6,2,6,0,1,Completed,true,true,false
+UA003042,17 Aug 25,4,Tennis World Blue,Tennis World Green,No. 2,Rafael Staa,Aditya Garg,Aditya Garg,0-6,0,6,0,1,Completed,true,false,false
+UA003042,17 Aug 25,4,Tennis World Blue,Tennis World Green,No. 3,Keagan Vong,Lisette Wollin,Keagan Vong,6-3,6,3,1,0,Completed,true,false,false
+UA003042,17 Aug 25,4,Tennis World Blue,Tennis World Green,No. 4,Naaz Sodha,Jennifer Guo,Naaz Sodha,7-6,7,6,1,0,Completed,true,false,false
+UA003043,17 Aug 25,4,St Pats Mentone,Kooyong,No. 1,Tom Gregory,Kayla Coster,Kayla Coster,2-6,2,6,0,1,Completed,true,false,false
+UA003043,17 Aug 25,4,St Pats Mentone,Kooyong,No. 2,Xavier Stainthorpe,Aisyah Hamilton,Aisyah Hamilton,1-6,1,6,0,1,Completed,true,false,false
+UA003043,17 Aug 25,4,St Pats Mentone,Kooyong,No. 3,Tom Vella,James Rentoulis,James Rentoulis,1-6,1,6,0,1,Completed,true,true,false
+UA003043,17 Aug 25,4,St Pats Mentone,Kooyong,No. 4,Hunter Wicking,Phillip Brophy,Phillip Brophy,0-6,0,6,0,1,Completed,true,false,true
+UA003044,17 Aug 25,4,Royal South Yarra,Dendy Park,No. 1,Boston Moran,Zulu Kumar,Zulu Kumar,1-6,1,6,0,1,Completed,true,false,false
+UA003044,17 Aug 25,4,Royal South Yarra,Dendy Park,No. 2,Mara Tausan,Anh Ngo,Anh Ngo,4-6,4,6,0,1,Completed,true,false,false
+UA003044,17 Aug 25,4,Royal South Yarra,Dendy Park,No. 3,Will Howitt,Sophie Klettke-Sullivan,Will Howitt,6-3,6,3,1,0,Completed,true,false,false
+UA003044,17 Aug 25,4,Royal South Yarra,Dendy Park,No. 4,Sofia Emilson,Owen Yu,Sofia Emilson,6-1,6,1,1,0,Completed,true,false,false
+UA003051,24 Aug 25,5,Kooyong,Dendy Park,No. 1,Kayla Coster,Zulu Kumar,Kayla Coster,6-2,6,2,1,0,Completed,true,false,false
+UA003051,24 Aug 25,5,Kooyong,Dendy Park,No. 2,Aisyah Hamilton,Sophie Klettke-Sullivan,Aisyah Hamilton,6-3,6,3,1,0,Completed,true,false,false
+UA003051,24 Aug 25,5,Kooyong,Dendy Park,No. 3,Lachlan Wang,Owen Yu,Owen Yu,6-7,6,7,0,1,Completed,true,false,false
+UA003051,24 Aug 25,5,Kooyong,Dendy Park,No. 4,James Rentoulis,Jerry Wang,James Rentoulis,6-1,6,1,1,0,Completed,true,false,true
+UA003052,24 Aug 25,5,St Pats Mentone,Tennis World Blue,No. 1,Tom Gregory,Morgan Vong,Morgan Vong,0-6,0,6,0,1,Completed,true,false,false
+UA003052,24 Aug 25,5,St Pats Mentone,Tennis World Blue,No. 2,Xavier Stainthorpe,Rafael Staa,Xavier Stainthorpe,6-3,6,3,1,0,Completed,true,false,false
+UA003052,24 Aug 25,5,St Pats Mentone,Tennis World Blue,No. 3,Tom Vella,Keagan Vong,Keagan Vong,2-6,2,6,0,1,Completed,true,true,false
+UA003052,24 Aug 25,5,St Pats Mentone,Tennis World Blue,No. 4,Hunter Wicking,Naaz Sodha,Naaz Sodha,3-6,3,6,0,1,Completed,true,false,false
+UA003053,24 Aug 25,5,BLTC,Royal South Yarra,No. 1,Harry Bennett,Tom Park,Harry Bennett,6-1,6,1,1,0,Completed,true,false,false
+UA003053,24 Aug 25,5,BLTC,Royal South Yarra,No. 2,Justin Xia,Dash Webb,Dash Webb,6-7,6,7,0,1,Completed,true,false,false
+UA003053,24 Aug 25,5,BLTC,Royal South Yarra,No. 3,Scarlett Cosentino,Will Howitt,Scarlett Cosentino,6-4,6,4,1,0,Completed,true,false,false
+UA003053,24 Aug 25,5,BLTC,Royal South Yarra,No. 4,Aiden Dong,Sofia Emilson,Aiden Dong,6-3,6,3,1,0,Completed,true,false,false
+UA003054,24 Aug 25,5,Royal Ave,Tennis World Green,No. 1,Luke Chapman,Nathan Crouch-phan,Nathan Crouch-phan,0-6,0,6,0,1,Completed,true,false,true
+UA003054,24 Aug 25,5,Royal Ave,Tennis World Green,No. 2,Nick Danaher,James King,James King,1-6,1,6,0,1,Completed,true,false,true
+UA003054,24 Aug 25,5,Royal Ave,Tennis World Green,No. 3,Jack Watson,Aditya Garg,Aditya Garg,0-6,0,6,0,1,Completed,true,false,false
+UA003054,24 Aug 25,5,Royal Ave,Tennis World Green,No. 4,Charlie Vakrinos,[Unnamed player — TROLS UA003054 away code 4],Charlie Vakrinos,6-0,6,0,1,0,Completed,false,false,false
+UA003062,31 Aug 25,6,Dendy Park,Royal Ave,No. 1,Zulu Kumar,Luke Chapman,Zulu Kumar,6-4,6,4,1,0,Completed,true,false,false
+UA003062,31 Aug 25,6,Dendy Park,Royal Ave,No. 2,Anh Ngo,Jack Watson,Anh Ngo,6-3,6,3,1,0,Completed,true,false,false
+UA003062,31 Aug 25,6,Dendy Park,Royal Ave,No. 3,Owen Yu,Juliette Hostein,Owen Yu,6-4,6,4,1,0,Completed,true,false,false
+UA003062,31 Aug 25,6,Dendy Park,Royal Ave,No. 4,William Zichen Wang,Vadim Goreux,William Zichen Wang,6-4,6,4,1,0,Completed,true,true,false
+UA003063,31 Aug 25,6,Tennis World Blue,BLTC,No. 1,Reuben Wong,Harry Bennett,Reuben Wong,4-3,4,3,1,0,Completed,false,false,false
+UA003063,31 Aug 25,6,Tennis World Blue,BLTC,No. 2,Naaz Sodha,Aiden Dong,Naaz Sodha,5-3,5,3,1,0,Completed,true,false,false
+UA003064,31 Aug 25,6,Royal South Yarra,St Pats Mentone,No. 1,Tom Park,Kevin Lin,Kevin Lin,5-7,5,7,0,1,Completed,true,false,true
+UA003064,31 Aug 25,6,Royal South Yarra,St Pats Mentone,No. 2,Dash Webb,Tom Gregory,Dash Webb,6-2,6,2,1,0,Completed,true,false,false
+UA003064,31 Aug 25,6,Royal South Yarra,St Pats Mentone,No. 3,Will Howitt,Xavier Stainthorpe,Xavier Stainthorpe,3-6,3,6,0,1,Completed,true,false,false
+UA003064,31 Aug 25,6,Royal South Yarra,St Pats Mentone,No. 4,Sofia Emilson,Hunter Wicking,Sofia Emilson,6-4,6,4,1,0,Completed,true,false,false
+UA003071,07 Sep 25,7,Royal Ave,Kooyong,No. 1,Luke Chapman,Kayla Coster,Luke Chapman,7-6,7,6,1,0,Completed,true,false,false
+UA003071,07 Sep 25,7,Royal Ave,Kooyong,No. 2,Nick Danaher,Aisyah Hamilton,Aisyah Hamilton,4-6,4,6,0,1,Completed,true,false,false
+UA003071,07 Sep 25,7,Royal Ave,Kooyong,No. 3,Charlie Vakrinos,Thomas Batchelor,Charlie Vakrinos,6-2,6,2,1,0,Completed,true,false,false
+UA003071,07 Sep 25,7,Royal Ave,Kooyong,No. 4,Vadim Goreux,James Rentoulis,James Rentoulis,4-6,4,6,0,1,Completed,true,false,false
+UA003072,07 Sep 25,7,Tennis World Green,Dendy Park,No. 1,Lisette Wollin,Zulu Kumar,Lisette Wollin,7-6,7,6,1,0,Completed,true,false,false
+UA003072,07 Sep 25,7,Tennis World Green,Dendy Park,No. 2,Jennifer Guo,Anh Ngo,Anh Ngo,3-6,3,6,0,1,Completed,true,false,false
+UA003072,07 Sep 25,7,Tennis World Green,Dendy Park,No. 3,Sebastian Chow,Sophie Klettke-Sullivan,Sophie Klettke-Sullivan,1-6,1,6,0,1,Completed,true,false,false
+UA003072,07 Sep 25,7,Tennis World Green,Dendy Park,No. 4,Alfie Leonardi,Owen Yu,Alfie Leonardi,7-6,7,6,1,0,Completed,true,true,false
+UA003073,07 Sep 25,7,St Pats Mentone,BLTC,No. 1,Tom Gregory,Harry Bennett,Harry Bennett,5-7,5,7,0,1,Completed,true,false,false
+UA003073,07 Sep 25,7,St Pats Mentone,BLTC,No. 2,Xavier Stainthorpe,Justin Xia,Justin Xia,3-6,3,6,0,1,Completed,true,false,false
+UA003073,07 Sep 25,7,St Pats Mentone,BLTC,No. 3,Hunter Wicking,Aiden Dong,Aiden Dong,1-6,1,6,0,1,Completed,true,false,false
+UA003073,07 Sep 25,7,St Pats Mentone,BLTC,No. 4,Tom Vella,Raymond Wu,Raymond Wu,1-6,1,6,0,1,Completed,true,true,true
+UA003074,07 Sep 25,7,Tennis World Blue,Royal South Yarra,No. 1,Morgan Vong,Dash Webb,Morgan Vong,6-1,6,1,1,0,Completed,true,false,false
+UA003074,07 Sep 25,7,Tennis World Blue,Royal South Yarra,No. 2,Rafael Staa,Will Howitt,Rafael Staa,6-2,6,2,1,0,Completed,true,false,false
+UA003074,07 Sep 25,7,Tennis World Blue,Royal South Yarra,No. 3,Keagan Vong,Nathan Lin,Keagan Vong,6-1,6,1,1,0,Completed,true,false,false
+UA003074,07 Sep 25,7,Tennis World Blue,Royal South Yarra,No. 4,Naaz Sodha,Sofia Emilson,Naaz Sodha,6-0,6,0,1,0,Completed,true,false,false
+UA003081,14 Sep 25,8,Royal South Yarra,Royal Ave,No. 1,Tom Park,Nick Danaher,Tom Park,6-4,6,4,1,0,Completed,true,false,false
+UA003081,14 Sep 25,8,Royal South Yarra,Royal Ave,No. 2,Mara Tausan,Jack Watson,Mara Tausan,7-6,7,6,1,0,Completed,true,false,false
+UA003081,14 Sep 25,8,Royal South Yarra,Royal Ave,No. 3,Dash Webb,Juliette Hostein,Juliette Hostein,2-6,2,6,0,1,Completed,true,false,false
+UA003081,14 Sep 25,8,Royal South Yarra,Royal Ave,No. 4,Sofia Emilson,Vadim Goreux,Sofia Emilson,6-3,6,3,1,0,Completed,true,false,false
+UA003082,14 Sep 25,8,BLTC,Tennis World Green,No. 1,Aidan Tan,Aditya Garg,Aidan Tan,6-4,6,4,1,0,Completed,true,true,false
+UA003082,14 Sep 25,8,BLTC,Tennis World Green,No. 2,Justin Xia,Lisette Wollin,Lisette Wollin,6-7,6,7,0,1,Completed,true,false,false
+UA003082,14 Sep 25,8,BLTC,Tennis World Green,No. 3,Scarlett Cosentino,Sebastian Chow,Scarlett Cosentino,6-2,6,2,1,0,Completed,true,false,false
+UA003082,14 Sep 25,8,BLTC,Tennis World Green,No. 4,Aiden Dong,Chalwe Bowler,Aiden Dong,6-2,6,2,1,0,Completed,true,false,false
+UA003083,14 Sep 25,8,Tennis World Blue,Kooyong,No. 1,Reuben Wong,Aisyah Hamilton,Aisyah Hamilton,3-6,3,6,0,1,Completed,true,false,false
+UA003083,14 Sep 25,8,Tennis World Blue,Kooyong,No. 2,Rafael Staa,Lachlan Wang,Rafael Staa,6-2,6,2,1,0,Completed,true,false,false
+UA003083,14 Sep 25,8,Tennis World Blue,Kooyong,No. 3,Keagan Vong,Thomas Batchelor,Keagan Vong,6-3,6,3,1,0,Completed,true,false,false
+UA003083,14 Sep 25,8,Tennis World Blue,Kooyong,No. 4,Naaz Sodha,James Rentoulis,Naaz Sodha,6-3,6,3,1,0,Completed,true,false,false
+UA003084,14 Sep 25,8,St Pats Mentone,Dendy Park,No. 1,Ollie Clifton,Zulu Kumar,Ollie Clifton,6-3,6,3,1,0,Completed,true,false,false
+UA003084,14 Sep 25,8,St Pats Mentone,Dendy Park,No. 2,Tom Gregory,Sebastian Maddams,Sebastian Maddams,1-6,1,6,0,1,Completed,true,false,true
+UA003084,14 Sep 25,8,St Pats Mentone,Dendy Park,No. 3,Xavier Stainthorpe,Anh Ngo,Xavier Stainthorpe,6-3,6,3,1,0,Completed,true,false,false
+UA003084,14 Sep 25,8,St Pats Mentone,Dendy Park,No. 4,Hunter Wicking,Owen Yu,Owen Yu,4-6,4,6,0,1,Completed,true,false,false
+UA003091,12 Oct 25,9,Royal Ave,St Pats Mentone,No. 1,Luke Chapman,Tom Gregory,Luke Chapman,7-5,7,5,1,0,Completed,true,false,false
+UA003091,12 Oct 25,9,Royal Ave,St Pats Mentone,No. 2,Jack Watson,Xavier Stainthorpe,Xavier Stainthorpe,0-6,0,6,0,1,Completed,true,false,false
+UA003091,12 Oct 25,9,Royal Ave,St Pats Mentone,No. 3,Charlie Vakrinos,Grace Liu,Charlie Vakrinos,6-0,6,0,1,0,Completed,true,false,true
+UA003091,12 Oct 25,9,Royal Ave,St Pats Mentone,No. 4,Juliette Hostein,Hunter Wicking,Hunter Wicking,4-6,4,6,0,1,Completed,true,false,false
+UA003092,12 Oct 25,9,Tennis World Green,Royal South Yarra,No. 1,Adam Onbashi,Tom Park,Adam Onbashi,6-0,6,0,1,0,Completed,true,true,false
+UA003092,12 Oct 25,9,Tennis World Green,Royal South Yarra,No. 2,Aditya Garg,Mara Tausan,Aditya Garg,6-1,6,1,1,0,Completed,true,false,false
+UA003092,12 Oct 25,9,Tennis World Green,Royal South Yarra,No. 3,Lisette Wollin,Dash Webb,Dash Webb,1-6,1,6,0,1,Completed,true,false,false
+UA003092,12 Oct 25,9,Tennis World Green,Royal South Yarra,No. 4,Jennifer Guo,Sofia Emilson,Jennifer Guo,6-2,6,2,1,0,Completed,true,false,false
+UA003093,12 Oct 25,9,Kooyong,BLTC,No. 1,Kayla Coster,Mali Nayna,Mali Nayna,4-6,4,6,0,1,Completed,true,false,false
+UA003093,12 Oct 25,9,Kooyong,BLTC,No. 2,Marco Damiani,Harry Bennett,Harry Bennett,6-7,6,7,0,1,Completed,true,false,false
+UA003093,12 Oct 25,9,Kooyong,BLTC,No. 3,Thomas Batchelor,Aiden Dong,Aiden Dong,1-6,1,6,0,1,Completed,true,false,false
+UA003093,12 Oct 25,9,Kooyong,BLTC,No. 4,James Porter,Austen Zhuo,Austen Zhuo,6-7,6,7,0,1,Completed,true,false,true
+UA003094,12 Oct 25,9,Dendy Park,Tennis World Blue,No. 1,Zulu Kumar,Morgan Vong,Morgan Vong,2-6,2,6,0,1,Completed,true,false,false
+UA003094,12 Oct 25,9,Dendy Park,Tennis World Blue,No. 2,James Kim,Rafael Staa,Rafael Staa,1-6,1,6,0,1,Completed,true,false,false
+UA003094,12 Oct 25,9,Dendy Park,Tennis World Blue,No. 3,Anh Ngo,Keagan Vong,Keagan Vong,5-7,5,7,0,1,Completed,true,false,false
+UA003094,12 Oct 25,9,Dendy Park,Tennis World Blue,No. 4,Owen Yu,Naaz Sodha,Naaz Sodha,2-6,2,6,0,1,Completed,true,false,false
+UA003101,19 Oct 25,10,Tennis World Blue,Royal Ave,No. 1,Morgan Vong,Luke Chapman,Luke Chapman,4-6,4,6,0,1,Completed,true,false,false
+UA003101,19 Oct 25,10,Tennis World Blue,Royal Ave,No. 2,Reuben Wong,Nick Danaher,Reuben Wong,6-0,6,0,1,0,Completed,true,false,false
+UA003101,19 Oct 25,10,Tennis World Blue,Royal Ave,No. 3,Rafael Staa,Jack Watson,Rafael Staa,6-1,6,1,1,0,Completed,true,false,false
+UA003101,19 Oct 25,10,Tennis World Blue,Royal Ave,No. 4,Naaz Sodha,Charlie Vakrinos,Charlie Vakrinos,2-6,2,6,0,1,Completed,true,false,false
+UA003102,19 Oct 25,10,St Pats Mentone,Tennis World Green,No. 1,Ollie Clifton,Adam Onbashi,Adam Onbashi,1-6,1,6,0,1,Completed,true,false,true
+UA003102,19 Oct 25,10,St Pats Mentone,Tennis World Green,No. 2,Tom Gregory,Aditya Garg,Tom Gregory,6-3,6,3,1,0,Completed,true,false,false
+UA003102,19 Oct 25,10,St Pats Mentone,Tennis World Green,No. 3,Xavier Stainthorpe,Lisette Wollin,Xavier Stainthorpe,7-6,7,6,1,0,Completed,true,false,false
+UA003102,19 Oct 25,10,St Pats Mentone,Tennis World Green,No. 4,Kristof Buschkuehl,Sebastian Chow,Sebastian Chow,2-6,2,6,0,1,Completed,true,false,false
+UA003103,19 Oct 25,10,Royal South Yarra,Kooyong,No. 1,Boston Moran,Aisyah Hamilton,Aisyah Hamilton,1-6,1,6,0,1,Completed,true,false,false
+UA003103,19 Oct 25,10,Royal South Yarra,Kooyong,No. 2,Dash Webb,Lachlan Wang,Dash Webb,6-1,6,1,1,0,Completed,true,false,false
+UA003103,19 Oct 25,10,Royal South Yarra,Kooyong,No. 3,Will Howitt,Thomas Batchelor,Thomas Batchelor,3-6,3,6,0,1,Completed,true,false,false
+UA003103,19 Oct 25,10,Royal South Yarra,Kooyong,No. 4,Nathan Lin,James Rentoulis,Nathan Lin,6-2,6,2,1,0,Completed,true,false,false
+UA003104,19 Oct 25,10,BLTC,Dendy Park,No. 1,Mali Nayna,Zulu Kumar,Mali Nayna,6-3,6,3,1,0,Completed,true,false,false
+UA003104,19 Oct 25,10,BLTC,Dendy Park,No. 2,Harry Bennett,James Kim,James Kim,3-6,3,6,0,1,Completed,true,false,false
+UA003104,19 Oct 25,10,BLTC,Dendy Park,No. 3,Justin Xia,Anh Ngo,Anh Ngo,6-7,6,7,0,1,Completed,true,false,false
+UA003104,19 Oct 25,10,BLTC,Dendy Park,No. 4,Scarlett Cosentino,Sophie Klettke-Sullivan,Scarlett Cosentino,6-4,6,4,1,0,Completed,true,false,false
+UA003112,26 Oct 25,11,Tennis World Green,Tennis World Blue,No. 1,Aditya Garg,Reuben Wong,Aditya Garg,4-2,4,2,1,0,Completed,false,false,false
+UA003112,26 Oct 25,11,Tennis World Green,Tennis World Blue,No. 2,Lisette Wollin,Rafael Staa,Rafael Staa,1-6,1,6,0,1,Completed,true,false,false
+UA003113,26 Oct 25,11,Kooyong,St Pats Mentone,No. 1,Kayla Coster,Ollie Clifton,Kayla Coster,6-2,6,2,1,0,Completed,true,false,false
+UA003113,26 Oct 25,11,Kooyong,St Pats Mentone,No. 2,Lachlan Wang,Tom Gregory,Lachlan Wang,6-4,6,4,1,0,Completed,true,false,false
+UA003113,26 Oct 25,11,Kooyong,St Pats Mentone,No. 3,Thomas Batchelor,Hunter Wicking,Thomas Batchelor,6-4,6,4,1,0,Completed,true,false,false
+UA003113,26 Oct 25,11,Kooyong,St Pats Mentone,No. 4,James Porter,Kristof Buschkuehl,James Porter,6-1,6,1,1,0,Completed,true,false,false
+UA003122,09 Nov 25,12,Tennis World Blue,St Pats Mentone,No. 1,Morgan Vong,Ollie Clifton,Morgan Vong,6-3,6,3,1,0,Completed,true,false,false
+UA003122,09 Nov 25,12,Tennis World Blue,St Pats Mentone,No. 2,Reuben Wong,Xavier Stainthorpe,Reuben Wong,6-4,6,4,1,0,Completed,true,false,false
+UA003122,09 Nov 25,12,Tennis World Blue,St Pats Mentone,No. 3,Keagan Vong,Hunter Wicking,Keagan Vong,6-4,6,4,1,0,Completed,true,false,false
+UA003122,09 Nov 25,12,Tennis World Blue,St Pats Mentone,No. 4,Naaz Sodha,Kristof Buschkuehl,Naaz Sodha,6-0,6,0,1,0,Completed,true,false,false
+UA003131,16 Nov 25,13,Kooyong,Tennis World Green,No. 1,Kayla Coster,Adam Onbashi,Adam Onbashi,5-7,5,7,0,1,Completed,true,false,true
+UA003131,16 Nov 25,13,Kooyong,Tennis World Green,No. 2,Aisyah Hamilton,Aditya Garg,Aisyah Hamilton,6-3,6,3,1,0,Completed,true,false,false
+UA003131,16 Nov 25,13,Kooyong,Tennis World Green,No. 3,Lachlan Wang,Lisette Wollin,Lisette Wollin,0-6,0,6,0,1,Completed,true,false,false
+UA003131,16 Nov 25,13,Kooyong,Tennis World Green,No. 4,James Porter,Jennifer Guo,Jennifer Guo,4-6,4,6,0,1,Completed,true,false,false
+UA003132,16 Nov 25,13,Royal Ave,Dendy Park,No. 1,Luke Chapman,Kewen Zheng,Kewen Zheng,3-6,3,6,0,1,Completed,true,false,true
+UA003132,16 Nov 25,13,Royal Ave,Dendy Park,No. 2,Nick Danaher,James Kim,James Kim,4-6,4,6,0,1,Completed,true,false,false
+UA003132,16 Nov 25,13,Royal Ave,Dendy Park,No. 3,Charlie Vakrinos,Anh Ngo,Charlie Vakrinos,6-2,6,2,1,0,Completed,true,false,false
+UA003132,16 Nov 25,13,Royal Ave,Dendy Park,No. 4,Vadim Goreux,Owen Yu,Vadim Goreux,7-6,7,6,1,0,Completed,true,false,false
+UA003133,16 Nov 25,13,BLTC,Tennis World Blue,No. 1,Mali Nayna,Morgan Vong,Morgan Vong,3-6,3,6,0,1,Completed,true,false,false
+UA003133,16 Nov 25,13,BLTC,Tennis World Blue,No. 2,Harry Bennett,Reuben Wong,Reuben Wong,4-6,4,6,0,1,Completed,true,false,false
+UA003133,16 Nov 25,13,BLTC,Tennis World Blue,No. 3,Scarlett Cosentino,Rafael Staa,Scarlett Cosentino,6-4,6,4,1,0,Completed,true,false,false
+UA003133,16 Nov 25,13,BLTC,Tennis World Blue,No. 4,Aiden Dong,Naaz Sodha,Aiden Dong,6-0,6,0,1,0,Completed,true,false,false
+UA003134,16 Nov 25,13,St Pats Mentone,Royal South Yarra,No. 1,Ollie Clifton,Tom Park,Ollie Clifton,6-2,6,2,1,0,Completed,true,false,false
+UA003134,16 Nov 25,13,St Pats Mentone,Royal South Yarra,No. 2,Xavier Stainthorpe,Dash Webb,Dash Webb,5-7,5,7,0,1,Completed,true,false,false
+UA003134,16 Nov 25,13,St Pats Mentone,Royal South Yarra,No. 3,Hunter Wicking,Will Howitt,Will Howitt,3-6,3,6,0,1,Completed,true,false,false
+UA003134,16 Nov 25,13,St Pats Mentone,Royal South Yarra,No. 4,Kristof Buschkuehl,Sofia Emilson,Sofia Emilson,1-6,1,6,0,1,Completed,true,false,false
+UA003301,,16,Tennis World Blue,Tennis World Green,No. 1,Rafael Staa,Lisette Wollin,Rafael Staa,6-3,6,3,1,0,Completed,true,false,false
+UA003301,,16,Tennis World Blue,Tennis World Green,No. 2,Keagan Vong,Jennifer Guo,Keagan Vong,6-2,6,2,1,0,Completed,true,false,false
+UA003302,,16,BLTC,Kooyong,No. 1,Mali Nayna,Kayla Coster,Kayla Coster,4-6,4,6,0,1,Completed,true,false,false
+UA003302,,16,BLTC,Kooyong,No. 2,Harry Bennett,Aisyah Hamilton,Harry Bennett,7-5,7,5,1,0,Completed,true,false,false
+UA003302,,16,BLTC,Kooyong,No. 3,Scarlett Cosentino,Thomas Batchelor,Thomas Batchelor,2-6,2,6,0,1,Completed,true,false,false
+UA003302,,16,BLTC,Kooyong,No. 4,Aiden Dong,James Porter,Aiden Dong,6-2,6,2,1,0,Completed,true,false,false
+UA003321,,17,Tennis World Blue,Kooyong,No. 1,Morgan Vong,Kayla Coster,Kayla Coster,2-6,2,6,0,1,Completed,true,false,false
+UA003321,,17,Tennis World Blue,Kooyong,No. 2,Reuben Wong,Aisyah Hamilton,Reuben Wong,6-1,6,1,1,0,Completed,true,false,false
+UA003321,,17,Tennis World Blue,Kooyong,No. 3,Rafael Staa,Thomas Batchelor,Rafael Staa,6-3,6,3,1,0,Completed,true,false,false
+UA003321,,17,Tennis World Blue,Kooyong,No. 4,Naaz Sodha,James Rentoulis,Naaz Sodha,7-5,7,5,1,0,Completed,true,false,false

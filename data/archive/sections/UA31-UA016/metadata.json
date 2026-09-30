@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA31-UA016",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2022",
+  "season_id": "UA31",
+  "season_label": "Spring 2022",
+  "source_section_code": "UA016",
+  "section_label": "Section 16",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St James",
+      "wins": 10,
+      "points": 98,
+      "percentage": 170.67,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 9,
+      "points": 91,
+      "percentage": 194.76,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "St Pats Mentone",
+      "wins": 8,
+      "points": 79,
+      "percentage": 143.15,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Parkdale",
+      "wins": 7,
+      "points": 79,
+      "percentage": 133.87,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "St Andrews MB",
+      "wins": 3,
+      "points": 30,
+      "percentage": 56.53,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Highett",
+      "wins": 2,
+      "points": 24,
+      "percentage": 55.18,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Hurlingham Park",
+      "wins": 1,
+      "points": 19,
+      "percentage": 47.3,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA31-UA016",
+  "fixtures": 59,
+  "completed_fixtures": 44,
+  "draw_fixtures": 59,
+  "singles_rubbers": 173,
+  "doubles_rubbers": 88,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

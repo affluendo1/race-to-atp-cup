@@ -1,0 +1,93 @@
+{
+  "asset_id": "AA55-AA007",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Autumn 2026",
+  "season_id": "AA55",
+  "season_label": "Autumn 2026",
+  "source_section_code": "AA007",
+  "section_label": "Sets 6",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "St Pauls",
+      "wins": 7,
+      "points": 84.5,
+      "percentage": 141.83,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Mentone",
+      "wins": 8,
+      "points": 84,
+      "percentage": 141.05,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Highmoor Uniting",
+      "wins": 7,
+      "points": 81,
+      "percentage": 133.61,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "BLTC",
+      "wins": 7,
+      "points": 76,
+      "percentage": 115.27,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "Maccabi",
+      "wins": 5,
+      "points": 65,
+      "percentage": 105.63,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Coatesville",
+      "wins": 5,
+      "points": 60,
+      "percentage": 93.2,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "St James",
+      "wins": 3,
+      "points": 54.5,
+      "percentage": 84.57,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Glen Huntly",
+      "wins": 0,
+      "points": 15,
+      "percentage": 28.87,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA55-AA007",
+  "fixtures": 55,
+  "completed_fixtures": 49,
+  "draw_fixtures": 59,
+  "singles_rubbers": 193,
+  "doubles_rubbers": 98,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture game totals do not match rubbers for AA007302"
+  ]
+}

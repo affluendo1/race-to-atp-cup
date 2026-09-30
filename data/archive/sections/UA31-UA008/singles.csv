@@ -1,0 +1,181 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA008012,17 Jul 22,1,GPHC,Le Page,No. 1,Hugo Taylor,Adyaan Tata,Adyaan Tata,4-6,4,6,0,1,Completed,true,false,false
+UA008012,17 Jul 22,1,GPHC,Le Page,No. 2,Patrick Cassidy,Danko Kovacevic,Danko Kovacevic,0-6,0,6,0,1,Completed,true,false,false
+UA008012,17 Jul 22,1,GPHC,Le Page,No. 3,Jake Holly,Lucas Hansen,Jake Holly,6-2,6,2,1,0,Completed,true,false,false
+UA008012,17 Jul 22,1,GPHC,Le Page,No. 4,Patrick Tee-Wu,Mia Daniell,Patrick Tee-Wu,7-5,7,5,1,0,Completed,true,false,false
+UA008013,17 Jul 22,1,Hurlingham Park 1,Hurlingham Park 2,No. 1,Edward Ruckel,Renny Thurlow,Edward Ruckel,6-1,6,1,1,0,Completed,true,false,false
+UA008013,17 Jul 22,1,Hurlingham Park 1,Hurlingham Park 2,No. 2,Zachary Boatto,James Russo,Zachary Boatto,6-1,6,1,1,0,Completed,true,false,false
+UA008013,17 Jul 22,1,Hurlingham Park 1,Hurlingham Park 2,No. 3,Veitel Lin,Sam Russo,Sam Russo,2-6,2,6,0,1,Completed,true,true,false
+UA008013,17 Jul 22,1,Hurlingham Park 1,Hurlingham Park 2,No. 4,Tommy Barton,Isshin McLean,Tommy Barton,6-3,6,3,1,0,Completed,true,false,false
+UA008014,17 Jul 22,1,Elsternwick Park Green,Kings Park,No. 1,Ayaka Marutani,Victoria Ikonomou,Victoria Ikonomou,5-7,5,7,0,1,Completed,true,false,false
+UA008014,17 Jul 22,1,Elsternwick Park Green,Kings Park,No. 2,Nanoha Tsuchiya,Suna Koo,Suna Koo,3-6,3,6,0,1,Completed,true,false,false
+UA008014,17 Jul 22,1,Elsternwick Park Green,Kings Park,No. 3,Nayuta Tsuchiya,Nash Lin,Nayuta Tsuchiya,6-2,6,2,1,0,Completed,true,false,false
+UA008014,17 Jul 22,1,Elsternwick Park Green,Kings Park,No. 4,Indigo Jellis,Mason Hancox,Indigo Jellis,6-0,6,0,1,0,Completed,true,false,false
+UA008021,24 Jul 22,2,Kings Park,Royal Ave,No. 1,Victoria Ikonomou,Luke Chapman,Victoria Ikonomou,6-3,6,3,1,0,Completed,true,false,false
+UA008021,24 Jul 22,2,Kings Park,Royal Ave,No. 2,Suna Koo,Hannah Chruszcz,Hannah Chruszcz,4-6,4,6,0,1,Completed,true,false,false
+UA008021,24 Jul 22,2,Kings Park,Royal Ave,No. 3,Nash Lin,Tom Anthonisz,Tom Anthonisz,3-6,3,6,0,1,Completed,true,false,false
+UA008021,24 Jul 22,2,Kings Park,Royal Ave,No. 4,Aimee Wan,Victoria Bukharenko,Aimee Wan,6-1,6,1,1,0,Completed,true,false,false
+UA008023,24 Jul 22,2,Le Page,Hurlingham Park 1,No. 1,Adyaan Tata,Edward Ruckel,Edward Ruckel,1-6,1,6,0,1,Completed,true,false,false
+UA008023,24 Jul 22,2,Le Page,Hurlingham Park 1,No. 2,Danko Kovacevic,Zachary Boatto,Danko Kovacevic,7-6,7,6,1,0,Completed,true,false,false
+UA008023,24 Jul 22,2,Le Page,Hurlingham Park 1,No. 3,Mia Daniell,Veitel Lin,Mia Daniell,6-4,6,4,1,0,Completed,true,false,true
+UA008023,24 Jul 22,2,Le Page,Hurlingham Park 1,No. 4,Timur Akhmedov,Raphael Di Cintio,Timur Akhmedov,6-4,6,4,1,0,Completed,true,false,false
+UA008024,24 Jul 22,2,Hurlingham Park 2,Elsternwick Park Green,No. 1,Oscar Rey,Ayaka Marutani,Oscar Rey,6-3,6,3,1,0,Completed,true,false,false
+UA008024,24 Jul 22,2,Hurlingham Park 2,Elsternwick Park Green,No. 2,Renny Thurlow,Nanoha Tsuchiya,Renny Thurlow,6-4,6,4,1,0,Completed,true,false,false
+UA008024,24 Jul 22,2,Hurlingham Park 2,Elsternwick Park Green,No. 3,James Russo,Nayuta Tsuchiya,Nayuta Tsuchiya,6-7,6,7,0,1,Completed,true,false,false
+UA008024,24 Jul 22,2,Hurlingham Park 2,Elsternwick Park Green,No. 4,Isshin McLean,Hannah Mies,Isshin McLean,6-4,6,4,1,0,Completed,true,false,false
+UA008031,31 Jul 22,3,Royal Ave,Hurlingham Park 2,No. 1,Luke Chapman,Oscar Rey,Luke Chapman,6-4,6,4,1,0,Completed,true,false,false
+UA008031,31 Jul 22,3,Royal Ave,Hurlingham Park 2,No. 2,Hannah Chruszcz,Renny Thurlow,Renny Thurlow,1-6,1,6,0,1,Completed,true,false,false
+UA008031,31 Jul 22,3,Royal Ave,Hurlingham Park 2,No. 3,Tom Anthonisz,Isshin McLean,Isshin McLean,3-6,3,6,0,1,Completed,true,false,false
+UA008031,31 Jul 22,3,Royal Ave,Hurlingham Park 2,No. 4,Victoria Bukharenko,Tarant Bacon,Tarant Bacon,4-6,4,6,0,1,Completed,true,false,true
+UA008032,31 Jul 22,3,GPHC,Kings Park,No. 1,Lachlan Ash-Grimm,Victoria Ikonomou,Victoria Ikonomou,3-6,3,6,0,1,Completed,true,false,false
+UA008032,31 Jul 22,3,GPHC,Kings Park,No. 2,Hugo Taylor,Suna Koo,Hugo Taylor,6-1,6,1,1,0,Completed,true,false,false
+UA008032,31 Jul 22,3,GPHC,Kings Park,No. 3,Patrick Cassidy,Aimee Wan,Aimee Wan,3-6,3,6,0,1,Completed,true,false,false
+UA008032,31 Jul 22,3,GPHC,Kings Park,No. 4,Lachlan Auld,Lucas Tucker,Lucas Tucker,0-6,0,6,0,1,Completed,true,false,true
+UA008034,31 Jul 22,3,Elsternwick Park Green,Le Page,No. 1,Nanoha Tsuchiya,Adyaan Tata,Adyaan Tata,2-6,2,6,0,1,Completed,true,false,false
+UA008034,31 Jul 22,3,Elsternwick Park Green,Le Page,No. 2,Nayuta Tsuchiya,Lucas Hansen,Lucas Hansen,2-6,2,6,0,1,Completed,true,false,false
+UA008034,31 Jul 22,3,Elsternwick Park Green,Le Page,No. 3,Indigo Jellis,Timur Akhmedov,Indigo Jellis,6-3,6,3,1,0,Completed,true,false,false
+UA008034,31 Jul 22,3,Elsternwick Park Green,Le Page,No. 4,Holly Johnston,Anya Khatsernov,Anya Khatsernov,2-6,2,6,0,1,Completed,true,false,false
+UA008041,07 Aug 22,4,Le Page,Royal Ave,No. 1,Adyaan Tata,Luke Chapman,Adyaan Tata,7-5,7,5,1,0,Completed,true,false,false
+UA008041,07 Aug 22,4,Le Page,Royal Ave,No. 2,Lucas Hansen,Hannah Chruszcz,Lucas Hansen,6-2,6,2,1,0,Completed,true,false,false
+UA008041,07 Aug 22,4,Le Page,Royal Ave,No. 3,Timur Akhmedov,Tom Anthonisz,Timur Akhmedov,6-2,6,2,1,0,Completed,true,false,false
+UA008041,07 Aug 22,4,Le Page,Royal Ave,No. 4,Jasmine Petkoff,Victoria Bukharenko,Jasmine Petkoff,6-2,6,2,1,0,Completed,true,true,false
+UA008042,07 Aug 22,4,Hurlingham Park 2,GPHC,No. 1,Oscar Rey,Hugo Taylor,Hugo Taylor,2-6,2,6,0,1,Completed,true,false,false
+UA008042,07 Aug 22,4,Hurlingham Park 2,GPHC,No. 2,Tomek Foroncewicz,Patrick Cassidy,Patrick Cassidy,4-6,4,6,0,1,Completed,true,false,false
+UA008042,07 Aug 22,4,Hurlingham Park 2,GPHC,No. 3,James Russo,Jake Holly,Jake Holly,2-6,2,6,0,1,Completed,true,false,false
+UA008042,07 Aug 22,4,Hurlingham Park 2,GPHC,No. 4,Sam Russo,Patrick Tee-Wu,Patrick Tee-Wu,1-6,1,6,0,1,Completed,true,false,false
+UA008043,07 Aug 22,4,Kings Park,Hurlingham Park 1,No. 1,Victoria Ikonomou,Zachary Boatto,Zachary Boatto,3-6,3,6,0,1,Completed,true,false,false
+UA008043,07 Aug 22,4,Kings Park,Hurlingham Park 1,No. 2,Suna Koo,Veitel Lin,Suna Koo,6-2,6,2,1,0,Completed,true,false,true
+UA008043,07 Aug 22,4,Kings Park,Hurlingham Park 1,No. 3,Mason Hancox,Ella Burns,Ella Burns,0-6,0,6,0,1,Completed,true,false,false
+UA008043,07 Aug 22,4,Kings Park,Hurlingham Park 1,No. 4,Lucas Tucker,Tommy Barton,Lucas Tucker,6-1,6,1,1,0,Completed,true,true,false
+UA008051,14 Aug 22,5,Hurlingham Park 1,Elsternwick Park Green,No. 1,Zachary Boatto,Ayaka Marutani,Ayaka Marutani,4-6,4,6,0,1,Completed,true,false,false
+UA008051,14 Aug 22,5,Hurlingham Park 1,Elsternwick Park Green,No. 2,Raphael Di Cintio,Nanoha Tsuchiya,Raphael Di Cintio,6-3,6,3,1,0,Completed,true,false,false
+UA008051,14 Aug 22,5,Hurlingham Park 1,Elsternwick Park Green,No. 3,Ella Burns,Nayuta Tsuchiya,Nayuta Tsuchiya,0-6,0,6,0,1,Completed,true,false,false
+UA008051,14 Aug 22,5,Hurlingham Park 1,Elsternwick Park Green,No. 4,Tommy Barton,Holly Johnston,Tommy Barton,6-4,6,4,1,0,Completed,true,false,false
+UA008052,14 Aug 22,5,Kings Park,Hurlingham Park 2,No. 1,Suna Koo,Oscar Rey,Oscar Rey,2-6,2,6,0,1,Completed,true,false,false
+UA008052,14 Aug 22,5,Kings Park,Hurlingham Park 2,No. 2,Nash Lin,Renny Thurlow,Renny Thurlow,1-6,1,6,0,1,Completed,true,false,false
+UA008052,14 Aug 22,5,Kings Park,Hurlingham Park 2,No. 3,Aimee Wan,Sam Russo,Aimee Wan,6-4,6,4,1,0,Completed,true,false,false
+UA008052,14 Aug 22,5,Kings Park,Hurlingham Park 2,No. 4,Mason Hancox,Isshin McLean,Isshin McLean,0-6,0,6,0,1,Completed,true,false,false
+UA008054,14 Aug 22,5,Royal Ave,GPHC,No. 1,Luke Chapman,Hugo Taylor,Hugo Taylor,5-7,5,7,0,1,Completed,true,false,false
+UA008054,14 Aug 22,5,Royal Ave,GPHC,No. 2,Hannah Chruszcz,Jake Holly,Hannah Chruszcz,6-3,6,3,1,0,Completed,true,false,false
+UA008054,14 Aug 22,5,Royal Ave,GPHC,No. 3,Victoria Bukharenko,Patrick Tee-Wu,Victoria Bukharenko,6-3,6,3,1,0,Completed,true,false,false
+UA008054,14 Aug 22,5,Royal Ave,GPHC,No. 4,Will Wong,Lachlan Auld,Will Wong,7-5,7,5,1,0,Completed,true,true,false
+UA008061,21 Aug 22,6,GPHC,Hurlingham Park 1,No. 1,Hugo Taylor,Edward Ruckel,Hugo Taylor,6-3,6,3,1,0,Completed,true,false,false
+UA008061,21 Aug 22,6,GPHC,Hurlingham Park 1,No. 2,Jake Holly,Zachary Boatto,Zachary Boatto,3-6,3,6,0,1,Completed,true,false,false
+UA008061,21 Aug 22,6,GPHC,Hurlingham Park 1,No. 3,Patrick Cassidy,Veitel Lin,Veitel Lin,0-6,0,6,0,1,Completed,true,false,true
+UA008061,21 Aug 22,6,GPHC,Hurlingham Park 1,No. 4,Jonathon Wells,Raphael Di Cintio,Jonathon Wells,6-0,6,0,1,0,Completed,true,true,false
+UA008062,21 Aug 22,6,Elsternwick Park Green,Royal Ave,No. 1,Ayaka Marutani,Luke Chapman,Ayaka Marutani,6-1,6,1,1,0,Completed,true,false,false
+UA008062,21 Aug 22,6,Elsternwick Park Green,Royal Ave,No. 2,Nayuta Tsuchiya,Hannah Chruszcz,Hannah Chruszcz,4-6,4,6,0,1,Completed,true,false,false
+UA008062,21 Aug 22,6,Elsternwick Park Green,Royal Ave,No. 3,Hannah Mies,Victoria Bukharenko,Victoria Bukharenko,2-6,2,6,0,1,Completed,true,false,false
+UA008062,21 Aug 22,6,Elsternwick Park Green,Royal Ave,No. 4,Holly Johnston,Alex Jennings,Alex Jennings,0-6,0,6,0,1,Completed,true,false,true
+UA008063,21 Aug 22,6,Hurlingham Park 2,Le Page,No. 1,Oscar Rey,Adyaan Tata,Adyaan Tata,1-6,1,6,0,1,Completed,true,false,false
+UA008063,21 Aug 22,6,Hurlingham Park 2,Le Page,No. 2,Tomek Foroncewicz,Lucas Hansen,Lucas Hansen,4-6,4,6,0,1,Completed,true,false,false
+UA008063,21 Aug 22,6,Hurlingham Park 2,Le Page,No. 3,Isshin McLean,Timur Akhmedov,Timur Akhmedov,4-6,4,6,0,1,Completed,true,false,false
+UA008063,21 Aug 22,6,Hurlingham Park 2,Le Page,No. 4,Tarant Bacon,Jasmine Petkoff,Tarant Bacon,6-1,6,1,1,0,Completed,true,true,true
+UA008071,28 Aug 22,7,Royal Ave,Hurlingham Park 1,No. 1,Luke Chapman,Zachary Boatto,Luke Chapman,7-6,7,6,1,0,Completed,true,false,false
+UA008071,28 Aug 22,7,Royal Ave,Hurlingham Park 1,No. 2,Hannah Chruszcz,Veitel Lin,Veitel Lin,3-6,3,6,0,1,Completed,true,false,true
+UA008071,28 Aug 22,7,Royal Ave,Hurlingham Park 1,No. 3,Tom Anthonisz,Raphael Di Cintio,Tom Anthonisz,7-6,7,6,1,0,Completed,true,false,false
+UA008071,28 Aug 22,7,Royal Ave,Hurlingham Park 1,No. 4,Victoria Bukharenko,Ella Burns,Ella Burns,5-7,5,7,0,1,Completed,true,false,false
+UA008072,28 Aug 22,7,GPHC,Elsternwick Park Green,No. 1,Patrick Cassidy,Ayaka Marutani,Ayaka Marutani,2-6,2,6,0,1,Completed,true,false,false
+UA008072,28 Aug 22,7,GPHC,Elsternwick Park Green,No. 2,Jake Holly,Nanoha Tsuchiya,Jake Holly,6-4,6,4,1,0,Completed,true,false,false
+UA008072,28 Aug 22,7,GPHC,Elsternwick Park Green,No. 3,Patrick Tee-Wu,Hannah Mies,Patrick Tee-Wu,6-4,6,4,1,0,Completed,true,false,false
+UA008072,28 Aug 22,7,GPHC,Elsternwick Park Green,No. 4,Tom Robertson-Brown,Holly Johnston,Tom Robertson-Brown,6-2,6,2,1,0,Completed,true,true,false
+UA008073,28 Aug 22,7,Kings Park,Le Page,No. 1,Victoria Ikonomou,Adyaan Tata,Adyaan Tata,1-6,1,6,0,1,Completed,true,false,false
+UA008073,28 Aug 22,7,Kings Park,Le Page,No. 2,Suna Koo,Lucas Hansen,Suna Koo,6-1,6,1,1,0,Completed,true,false,false
+UA008073,28 Aug 22,7,Kings Park,Le Page,No. 3,Nash Lin,Mia Daniell,Mia Daniell,4-6,4,6,0,1,Completed,true,false,false
+UA008073,28 Aug 22,7,Kings Park,Le Page,No. 4,Aimee Wan,Mathis Seidler,Mathis Seidler,5-7,5,7,0,1,Completed,true,false,true
+UA008082,04 Sep 22,8,Le Page,GPHC,No. 1,Adyaan Tata,Hugo Taylor,Hugo Taylor,3-6,3,6,0,1,Completed,true,false,false
+UA008082,04 Sep 22,8,Le Page,GPHC,No. 2,Lucas Hansen,Patrick Cassidy,Lucas Hansen,6-4,6,4,1,0,Completed,true,false,false
+UA008082,04 Sep 22,8,Le Page,GPHC,No. 3,Mia Daniell,Jake Holly,Jake Holly,4-6,4,6,0,1,Completed,true,false,false
+UA008082,04 Sep 22,8,Le Page,GPHC,No. 4,Timur Akhmedov,Patrick Tee-Wu,Patrick Tee-Wu,1-6,1,6,0,1,Completed,true,false,false
+UA008083,04 Sep 22,8,Hurlingham Park 2,Hurlingham Park 1,No. 1,Oscar Rey,Edward Ruckel,Edward Ruckel,2-6,2,6,0,1,Completed,true,false,false
+UA008083,04 Sep 22,8,Hurlingham Park 2,Hurlingham Park 1,No. 2,Tomek Foroncewicz,Zachary Boatto,Tomek Foroncewicz,7-5,7,5,1,0,Completed,true,false,false
+UA008083,04 Sep 22,8,Hurlingham Park 2,Hurlingham Park 1,No. 3,Renny Thurlow,Veitel Lin,Renny Thurlow,6-4,6,4,1,0,Completed,true,false,true
+UA008083,04 Sep 22,8,Hurlingham Park 2,Hurlingham Park 1,No. 4,Isshin McLean,Raphael Di Cintio,Raphael Di Cintio,3-6,3,6,0,1,Completed,true,false,false
+UA008084,04 Sep 22,8,Kings Park,Elsternwick Park Green,No. 1,Victoria Ikonomou,Ayaka Marutani,Ayaka Marutani,4-6,4,6,0,1,Completed,true,false,false
+UA008084,04 Sep 22,8,Kings Park,Elsternwick Park Green,No. 2,Mason Hancox,Nanoha Tsuchiya,Mason Hancox,6-2,6,2,1,0,Completed,true,false,false
+UA008084,04 Sep 22,8,Kings Park,Elsternwick Park Green,No. 3,Suna Koo,Holly Johnston,Suna Koo,6-0,6,0,1,0,Completed,true,false,false
+UA008084,04 Sep 22,8,Kings Park,Elsternwick Park Green,No. 4,Nash Lin,Ori Diamond,Ori Diamond,2-6,2,6,0,1,Completed,true,false,true
+UA008091,11 Sep 22,9,Royal Ave,Kings Park,No. 1,Luke Chapman,Victoria Ikonomou,Luke Chapman,7-6,7,6,1,0,Completed,true,false,false
+UA008091,11 Sep 22,9,Royal Ave,Kings Park,No. 2,Tokiwa Yamazaki-bruschi,Mason Hancox,Mason Hancox,3-6,3,6,0,1,Completed,true,true,false
+UA008091,11 Sep 22,9,Royal Ave,Kings Park,No. 3,Tom Anthonisz,Nash Lin,Tom Anthonisz,6-1,6,1,1,0,Completed,true,false,false
+UA008091,11 Sep 22,9,Royal Ave,Kings Park,No. 4,Will Wong,Aimee Wan,Aimee Wan,3-6,3,6,0,1,Completed,true,true,false
+UA008093,11 Sep 22,9,Hurlingham Park 1,Le Page,No. 1,Richie Huang,Adyaan Tata,Adyaan Tata,1-6,1,6,0,1,Completed,true,true,false
+UA008093,11 Sep 22,9,Hurlingham Park 1,Le Page,No. 2,Veitel Lin,Lucas Hansen,Lucas Hansen,6-7,6,7,0,1,Completed,true,true,false
+UA008093,11 Sep 22,9,Hurlingham Park 1,Le Page,No. 3,Raphael Di Cintio,Mia Daniell,Raphael Di Cintio,6-1,6,1,1,0,Completed,true,false,false
+UA008093,11 Sep 22,9,Hurlingham Park 1,Le Page,No. 4,Tommy Barton,Timur Akhmedov,Timur Akhmedov,2-6,2,6,0,1,Completed,true,false,false
+UA008094,11 Sep 22,9,Elsternwick Park Green,Hurlingham Park 2,No. 1,Ayaka Marutani,Oscar Rey,Ayaka Marutani,6-3,6,3,1,0,Completed,true,false,false
+UA008094,11 Sep 22,9,Elsternwick Park Green,Hurlingham Park 2,No. 2,Charlie Pettifer,James Russo,Charlie Pettifer,6-1,6,1,1,0,Completed,true,true,false
+UA008094,11 Sep 22,9,Elsternwick Park Green,Hurlingham Park 2,No. 3,Ori Diamond,Sam Russo,Ori Diamond,6-3,6,3,1,0,Completed,true,true,false
+UA008094,11 Sep 22,9,Elsternwick Park Green,Hurlingham Park 2,No. 4,Holly Johnston,Isshin McLean,Isshin McLean,2-6,2,6,0,1,Completed,true,false,false
+UA008101,09 Oct 22,10,Hurlingham Park 2,Royal Ave,No. 1,Tomek Foroncewicz,Hugo Williams,Tomek Foroncewicz,7-6,7,6,1,0,Completed,true,false,false
+UA008101,09 Oct 22,10,Hurlingham Park 2,Royal Ave,No. 2,Renny Thurlow,Luke Chapman,Renny Thurlow,6-2,6,2,1,0,Completed,true,false,false
+UA008101,09 Oct 22,10,Hurlingham Park 2,Royal Ave,No. 3,James Russo,Hannah Chruszcz,Hannah Chruszcz,2-6,2,6,0,1,Completed,true,false,false
+UA008101,09 Oct 22,10,Hurlingham Park 2,Royal Ave,No. 4,Sam Russo,Victoria Bukharenko,Sam Russo,6-3,6,3,1,0,Completed,true,false,false
+UA008102,09 Oct 22,10,Kings Park,GPHC,No. 1,Victoria Ikonomou,Lachlan Ash-Grimm,Victoria Ikonomou,6-2,6,2,1,0,Completed,true,false,false
+UA008102,09 Oct 22,10,Kings Park,GPHC,No. 2,Mason Hancox,Hugo Taylor,Mason Hancox,7-5,7,5,1,0,Completed,true,false,false
+UA008102,09 Oct 22,10,Kings Park,GPHC,No. 3,Suna Koo,Patrick Cassidy,Suna Koo,6-3,6,3,1,0,Completed,true,false,false
+UA008102,09 Oct 22,10,Kings Park,GPHC,No. 4,Nash Lin,Lachlan Auld,Nash Lin,6-4,6,4,1,0,Completed,true,false,false
+UA008104,09 Oct 22,10,Le Page,Elsternwick Park Green,No. 1,Adyaan Tata,Ayaka Marutani,Adyaan Tata,6-2,6,2,1,0,Completed,true,false,false
+UA008104,09 Oct 22,10,Le Page,Elsternwick Park Green,No. 2,Danko Kovacevic,Hannah Mies,Hannah Mies,3-6,3,6,0,1,Completed,true,false,false
+UA008104,09 Oct 22,10,Le Page,Elsternwick Park Green,No. 3,Lucas Hansen,Holly Johnston,Lucas Hansen,6-3,6,3,1,0,Completed,true,false,false
+UA008104,09 Oct 22,10,Le Page,Elsternwick Park Green,No. 4,[Unnamed player — TROLS UA008104 home code 4],Madeleine Wilson,Madeleine Wilson,0-6,0,6,0,1,Completed,false,false,true
+UA008111,16 Oct 22,11,Royal Ave,Le Page,No. 1,Luke Chapman,Adyaan Tata,Adyaan Tata,2-6,2,6,0,1,Completed,true,false,false
+UA008111,16 Oct 22,11,Royal Ave,Le Page,No. 2,Hannah Chruszcz,Danko Kovacevic,Danko Kovacevic,3-6,3,6,0,1,Completed,true,false,false
+UA008111,16 Oct 22,11,Royal Ave,Le Page,No. 3,Tom Anthonisz,Jasmine Petkoff,Tom Anthonisz,6-3,6,3,1,0,Completed,true,false,true
+UA008111,16 Oct 22,11,Royal Ave,Le Page,No. 4,Victoria Bukharenko,Ben Ingram,Victoria Bukharenko,6-0,6,0,1,0,Completed,true,false,true
+UA008112,16 Oct 22,11,GPHC,Hurlingham Park 2,No. 1,Lachlan Ash-Grimm,Oscar Rey,Oscar Rey,0-6,0,6,0,1,Completed,true,false,false
+UA008112,16 Oct 22,11,GPHC,Hurlingham Park 2,No. 2,Patrick Cassidy,Tomek Foroncewicz,Tomek Foroncewicz,5-7,5,7,0,1,Completed,true,false,false
+UA008112,16 Oct 22,11,GPHC,Hurlingham Park 2,No. 3,Jake Holly,Renny Thurlow,Renny Thurlow,6-7,6,7,0,1,Completed,true,false,true
+UA008112,16 Oct 22,11,GPHC,Hurlingham Park 2,No. 4,Lachlan Auld,Isshin McLean,Lachlan Auld,6-0,6,0,1,0,Completed,true,false,false
+UA008113,16 Oct 22,11,Hurlingham Park 1,Kings Park,No. 1,Zachary Boatto,Victoria Ikonomou,Zachary Boatto,7-5,7,5,1,0,Completed,true,true,false
+UA008113,16 Oct 22,11,Hurlingham Park 1,Kings Park,No. 2,Veitel Lin,Mason Hancox,Mason Hancox,4-6,4,6,0,1,Completed,true,true,false
+UA008113,16 Oct 22,11,Hurlingham Park 1,Kings Park,No. 3,Ella Burns,Suna Koo,Suna Koo,0-6,0,6,0,1,Completed,true,false,false
+UA008113,16 Oct 22,11,Hurlingham Park 1,Kings Park,No. 4,Tommy Barton,Miles Hancox,Miles Hancox,0-6,0,6,0,1,Completed,true,false,false
+UA008121,23 Oct 22,12,Elsternwick Park Green,Hurlingham Park 1,No. 1,Nanoha Tsuchiya,Edward Ruckel,Edward Ruckel,2-6,2,6,0,1,Completed,true,false,false
+UA008121,23 Oct 22,12,Elsternwick Park Green,Hurlingham Park 1,No. 2,Nayuta Tsuchiya,Raphael Di Cintio,Nayuta Tsuchiya,6-3,6,3,1,0,Completed,true,false,false
+UA008121,23 Oct 22,12,Elsternwick Park Green,Hurlingham Park 1,No. 3,Hannah Mies,Ella Burns,Hannah Mies,6-2,6,2,1,0,Completed,true,false,false
+UA008121,23 Oct 22,12,Elsternwick Park Green,Hurlingham Park 1,No. 4,Holly Johnston,Tommy Barton,Tommy Barton,5-7,5,7,0,1,Completed,true,false,false
+UA008122,23 Oct 22,12,Hurlingham Park 2,Kings Park,No. 1,Oscar Rey,Mason Hancox,Oscar Rey,6-2,6,2,1,0,Completed,true,false,false
+UA008122,23 Oct 22,12,Hurlingham Park 2,Kings Park,No. 2,Tomek Foroncewicz,Suna Koo,Suna Koo,4-6,4,6,0,1,Completed,true,false,false
+UA008122,23 Oct 22,12,Hurlingham Park 2,Kings Park,No. 3,James Russo,Nash Lin,James Russo,7-6,7,6,1,0,Completed,true,false,false
+UA008122,23 Oct 22,12,Hurlingham Park 2,Kings Park,No. 4,Isshin McLean,Miles Hancox,Isshin McLean,6-3,6,3,1,0,Completed,true,false,false
+UA008124,23 Oct 22,12,GPHC,Royal Ave,No. 1,Hugo Taylor,Luke Chapman,Hugo Taylor,6-1,6,1,1,0,Completed,true,false,false
+UA008124,23 Oct 22,12,GPHC,Royal Ave,No. 2,Patrick Cassidy,Tom Anthonisz,Tom Anthonisz,5-7,5,7,0,1,Completed,true,false,false
+UA008124,23 Oct 22,12,GPHC,Royal Ave,No. 3,Jake Holly,Hannah Chruszcz,Jake Holly,6-0,6,0,1,0,Completed,true,false,false
+UA008124,23 Oct 22,12,GPHC,Royal Ave,No. 4,Patrick Tee-Wu,Victoria Bukharenko,Patrick Tee-Wu,6-2,6,2,1,0,Completed,true,false,false
+UA008131,06 Nov 22,13,Hurlingham Park 1,GPHC,No. 1,Edward Ruckel,Hugo Taylor,Hugo Taylor,4-6,4,6,0,1,Completed,true,false,false
+UA008131,06 Nov 22,13,Hurlingham Park 1,GPHC,No. 2,Zachary Boatto,Jake Holly,Zachary Boatto,6-3,6,3,1,0,Completed,true,true,false
+UA008131,06 Nov 22,13,Hurlingham Park 1,GPHC,No. 3,Raphael Di Cintio,Patrick Tee-Wu,Patrick Tee-Wu,4-6,4,6,0,1,Completed,true,false,false
+UA008131,06 Nov 22,13,Hurlingham Park 1,GPHC,No. 4,Tommy Barton,[Unnamed player — TROLS UA008131 away code 4],Tommy Barton,6-0,6,0,1,0,Completed,false,false,false
+UA008132,06 Nov 22,13,Royal Ave,Elsternwick Park Green,No. 1,Hugo Williams,Ayaka Marutani,Ayaka Marutani,1-6,1,6,0,1,Completed,true,false,false
+UA008132,06 Nov 22,13,Royal Ave,Elsternwick Park Green,No. 2,Luke Chapman,Nanoha Tsuchiya,Luke Chapman,6-3,6,3,1,0,Completed,true,false,false
+UA008132,06 Nov 22,13,Royal Ave,Elsternwick Park Green,No. 3,Hannah Chruszcz,Nayuta Tsuchiya,Hannah Chruszcz,6-4,6,4,1,0,Completed,true,false,false
+UA008132,06 Nov 22,13,Royal Ave,Elsternwick Park Green,No. 4,Tom Anthonisz,Holly Johnston,Tom Anthonisz,6-0,6,0,1,0,Completed,true,false,false
+UA008133,06 Nov 22,13,Le Page,Hurlingham Park 2,No. 1,Adyaan Tata,Tomek Foroncewicz,Adyaan Tata,6-3,6,3,1,0,Completed,true,false,false
+UA008133,06 Nov 22,13,Le Page,Hurlingham Park 2,No. 2,Danko Kovacevic,Renny Thurlow,Renny Thurlow,0-6,0,6,0,1,Completed,true,false,true
+UA008133,06 Nov 22,13,Le Page,Hurlingham Park 2,No. 3,Lucas Hansen,James Russo,Lucas Hansen,6-2,6,2,1,0,Completed,true,false,false
+UA008133,06 Nov 22,13,Le Page,Hurlingham Park 2,No. 4,Mia Daniell,Sam Russo,Mia Daniell,6-3,6,3,1,0,Completed,true,false,false
+UA008141,13 Nov 22,14,Hurlingham Park 1,Royal Ave,No. 1,Edward Ruckel,Hugo Williams,Edward Ruckel,7-5,7,5,1,0,Completed,true,false,false
+UA008141,13 Nov 22,14,Hurlingham Park 1,Royal Ave,No. 2,Veitel Lin,Luke Chapman,Luke Chapman,3-6,3,6,0,1,Completed,true,true,false
+UA008141,13 Nov 22,14,Hurlingham Park 1,Royal Ave,No. 3,Raphael Di Cintio,Tom Anthonisz,Raphael Di Cintio,6-4,6,4,1,0,Completed,true,false,false
+UA008141,13 Nov 22,14,Hurlingham Park 1,Royal Ave,No. 4,Tommy Barton,Victoria Bukharenko,Tommy Barton,6-1,6,1,1,0,Completed,true,false,false
+UA008142,13 Nov 22,14,Elsternwick Park Green,GPHC,No. 1,Ayaka Marutani,Lachlan Ash-Grimm,Lachlan Ash-Grimm,3-6,3,6,0,1,Completed,true,false,false
+UA008142,13 Nov 22,14,Elsternwick Park Green,GPHC,No. 2,Nanoha Tsuchiya,Patrick Cassidy,Patrick Cassidy,5-7,5,7,0,1,Completed,true,false,false
+UA008142,13 Nov 22,14,Elsternwick Park Green,GPHC,No. 3,Holly Johnston,Patrick Tee-Wu,Patrick Tee-Wu,0-6,0,6,0,1,Completed,true,false,false
+UA008142,13 Nov 22,14,Elsternwick Park Green,GPHC,No. 4,Marco Damiani,Lachlan Auld,Marco Damiani,6-1,6,1,1,0,Completed,true,true,false
+UA008143,13 Nov 22,14,Le Page,Kings Park,No. 1,Adyaan Tata,Victoria Ikonomou,Adyaan Tata,6-0,6,0,1,0,Completed,true,false,false
+UA008143,13 Nov 22,14,Le Page,Kings Park,No. 2,Danko Kovacevic,Mason Hancox,Mason Hancox,0-6,0,6,0,1,Completed,true,false,false
+UA008143,13 Nov 22,14,Le Page,Kings Park,No. 3,Lucas Hansen,Suna Koo,Suna Koo,5-7,5,7,0,1,Completed,true,false,false
+UA008143,13 Nov 22,14,Le Page,Kings Park,No. 4,Timur Akhmedov,Miles Hancox,Timur Akhmedov,6-2,6,2,1,0,Completed,true,false,false
+UA008301,,16,Le Page,Hurlingham Park 2,No. 1,Adyaan Tata,Oscar Rey,Adyaan Tata,6-1,6,1,1,0,Completed,true,false,false
+UA008301,,16,Le Page,Hurlingham Park 2,No. 2,Danko Kovacevic,Tomek Foroncewicz,Danko Kovacevic,6-2,6,2,1,0,Completed,true,false,false
+UA008301,,16,Le Page,Hurlingham Park 2,No. 3,Lucas Hansen,Renny Thurlow,Lucas Hansen,6-4,6,4,1,0,Completed,true,false,false
+UA008301,,16,Le Page,Hurlingham Park 2,No. 4,Mia Daniell,Isshin McLean,Mia Daniell,6-1,6,1,1,0,Completed,true,false,false
+UA008302,,16,Kings Park,GPHC,No. 1,Victoria Ikonomou,Hugo Taylor,Hugo Taylor,1-6,1,6,0,1,Completed,true,false,false
+UA008302,,16,Kings Park,GPHC,No. 2,Mason Hancox,Patrick Cassidy,Mason Hancox,6-0,6,0,1,0,Completed,true,false,false
+UA008302,,16,Kings Park,GPHC,No. 3,Suna Koo,Jake Holly,Jake Holly,2-6,2,6,0,1,Completed,true,false,false
+UA008302,,16,Kings Park,GPHC,No. 4,Miles Hancox,Patrick Tee-Wu,Miles Hancox,6-2,6,2,1,0,Completed,true,false,false
+UA008321,,17,Le Page,Kings Park,No. 1,Adyaan Tata,Victoria Ikonomou,Adyaan Tata,6-4,6,4,1,0,Completed,true,false,false
+UA008321,,17,Le Page,Kings Park,No. 2,Danko Kovacevic,Mason Hancox,Danko Kovacevic,6-3,6,3,1,0,Completed,true,false,false
+UA008321,,17,Le Page,Kings Park,No. 3,Lucas Hansen,Suna Koo,Lucas Hansen,7-6,7,6,1,0,Completed,true,false,false
+UA008321,,17,Le Page,Kings Park,No. 4,Mia Daniell,Miles Hancox,Miles Hancox,0-6,0,6,0,1,Completed,true,false,false

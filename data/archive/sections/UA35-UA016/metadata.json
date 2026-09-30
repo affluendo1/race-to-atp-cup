@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA35-UA016",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2024",
+  "season_id": "UA35",
+  "season_label": "Spring 2024",
+  "source_section_code": "UA016",
+  "section_label": "Section 16",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Murrumbeena",
+      "wins": 10,
+      "points": 86,
+      "percentage": 132.24,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Kings Park",
+      "wins": 8,
+      "points": 73,
+      "percentage": 118.22,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Sth Murrumbeena",
+      "wins": 7,
+      "points": 71,
+      "percentage": 118.84,
+      "marker": "P"
+    },
+    {
+      "position": 4,
+      "team": "BLTC Blue",
+      "wins": 5,
+      "points": 58,
+      "percentage": 108.43,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Elsternwick Park",
+      "wins": 4,
+      "points": 57,
+      "percentage": 101.79,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong",
+      "wins": 3,
+      "points": 48,
+      "percentage": 82.15,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Dendy Park",
+      "wins": 1,
+      "points": 27,
+      "percentage": 55.88,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA35-UA016",
+  "fixtures": 59,
+  "completed_fixtures": 42,
+  "draw_fixtures": 59,
+  "singles_rubbers": 167,
+  "doubles_rubbers": 83,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

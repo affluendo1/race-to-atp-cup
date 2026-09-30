@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA31-UA002",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2022",
+  "season_id": "UA31",
+  "season_label": "Spring 2022",
+  "source_section_code": "UA002",
+  "section_label": "Section 2",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Hurlingham Park",
+      "wins": 12,
+      "points": 108,
+      "percentage": 151.35,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "BLTC",
+      "wins": 10,
+      "points": 92,
+      "percentage": 110.03,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Highmoor Uniting",
+      "wins": 10,
+      "points": 91,
+      "percentage": 128.92,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 8,
+      "points": 85,
+      "percentage": 126.1,
+      "marker": "P"
+    },
+    {
+      "position": 5,
+      "team": "Coatesville",
+      "wins": 5,
+      "points": 62,
+      "percentage": 94.63,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Victory Park",
+      "wins": 5,
+      "points": 55,
+      "percentage": 86.22,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Highett",
+      "wins": 4,
+      "points": 50,
+      "percentage": 79.71,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Beaumaris CC",
+      "wins": 0,
+      "points": 17,
+      "percentage": 55.51,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA31-UA002",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 59,
+  "singles_rubbers": 232,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

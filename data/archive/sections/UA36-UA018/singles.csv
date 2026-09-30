@@ -1,0 +1,205 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA018011,02 Feb 25,1,Royal South Yarra,Kooyong,No. 1,Jean Jones,Ivan Cesal,Ivan Cesal,2-6,2,6,0,1,Completed,true,false,false
+UA018011,02 Feb 25,1,Royal South Yarra,Kooyong,No. 2,Winifred Nicholls,Elliot Doukas,Elliot Doukas,1-6,1,6,0,1,Completed,true,false,false
+UA018011,02 Feb 25,1,Royal South Yarra,Kooyong,No. 3,Lottie Gunnersen,Ashton Koon,Lottie Gunnersen,6-4,6,4,1,0,Completed,true,false,false
+UA018011,02 Feb 25,1,Royal South Yarra,Kooyong,No. 4,Mirri Martin,Morris Plomley,Mirri Martin,6-0,6,0,1,0,Completed,true,false,false
+UA018012,02 Feb 25,1,Kings Park Blue,Kings Park White,No. 1,Jason Tang,Heston Hancox,Jason Tang,6-4,6,4,1,0,Completed,true,false,false
+UA018012,02 Feb 25,1,Kings Park Blue,Kings Park White,No. 2,Jayden Lin,Arabella Hancox,Arabella Hancox,2-6,2,6,0,1,Completed,true,false,false
+UA018012,02 Feb 25,1,Kings Park Blue,Kings Park White,No. 3,Maxwell Lou,Ethan Kwok,Ethan Kwok,4-6,4,6,0,1,Completed,true,false,false
+UA018012,02 Feb 25,1,Kings Park Blue,Kings Park White,No. 4,Seou Ham,Olivia Chang,Seou Ham,7-6,7,6,1,0,Completed,true,false,false
+UA018013,02 Feb 25,1,GPHC,Lauriston,No. 1,Zach Richardson,Andy Li,Zach Richardson,7-6,7,6,1,0,Completed,true,false,false
+UA018013,02 Feb 25,1,GPHC,Lauriston,No. 2,David Yuen,Benjamin Pham,Benjamin Pham,4-6,4,6,0,1,Completed,true,false,false
+UA018013,02 Feb 25,1,GPHC,Lauriston,No. 3,Josh Chew,Sophie Lau,Josh Chew,7-5,7,5,1,0,Completed,true,false,true
+UA018013,02 Feb 25,1,GPHC,Lauriston,No. 4,Edmund Tee-Wu,Leo Blanksby,Leo Blanksby,3-6,3,6,0,1,Completed,true,false,false
+UA018014,02 Feb 25,1,St Joan of Arc,Parkdale,No. 1,Kingsley Bower,Aaron Val Chiu,Aaron Val Chiu,0-6,0,6,0,1,Completed,true,false,false
+UA018014,02 Feb 25,1,St Joan of Arc,Parkdale,No. 2,Kevin Courtney,Aiden Nguyen,Aiden Nguyen,3-6,3,6,0,1,Completed,true,false,false
+UA018014,02 Feb 25,1,St Joan of Arc,Parkdale,No. 3,Kris Xu,Aidan Roach,Kris Xu,6-2,6,2,1,0,Completed,true,false,false
+UA018014,02 Feb 25,1,St Joan of Arc,Parkdale,No. 4,Eddie Sauerbrunn,Weston Tiley,Weston Tiley,3-6,3,6,0,1,Completed,true,false,false
+UA018021,09 Feb 25,2,Parkdale,Royal South Yarra,No. 1,Aaron Val Chiu,Ella Petherbridge,Ella Petherbridge,6-7,6,7,0,1,Completed,true,false,false
+UA018021,09 Feb 25,2,Parkdale,Royal South Yarra,No. 2,Aiden Nguyen,Bella Wilkins,Aiden Nguyen,6-3,6,3,1,0,Completed,true,false,false
+UA018021,09 Feb 25,2,Parkdale,Royal South Yarra,No. 3,Aidan Roach,Jean Jones,Jean Jones,1-6,1,6,0,1,Completed,true,false,false
+UA018021,09 Feb 25,2,Parkdale,Royal South Yarra,No. 4,Archer Tiley,Winifred Nicholls,Archer Tiley,6-3,6,3,1,0,Completed,true,false,false
+UA018022,09 Feb 25,2,Kooyong,Kings Park Blue,No. 1,Ivan Cesal,Jason Tang,Jason Tang,4-6,4,6,0,1,Completed,true,false,false
+UA018022,09 Feb 25,2,Kooyong,Kings Park Blue,No. 2,Angus Clements,Jayden Lin,Jayden Lin,2-6,2,6,0,1,Completed,true,false,false
+UA018022,09 Feb 25,2,Kooyong,Kings Park Blue,No. 3,Lachlan Forsyth,Seou Ham,Lachlan Forsyth,6-1,6,1,1,0,Completed,true,false,false
+UA018022,09 Feb 25,2,Kooyong,Kings Park Blue,No. 4,Yusuf Mohammed,Vivian Yang,Yusuf Mohammed,6-2,6,2,1,0,Completed,true,false,true
+UA018023,09 Feb 25,2,Kings Park White,GPHC,No. 1,Heston Hancox,Zach Richardson,Zach Richardson,3-6,3,6,0,1,Completed,true,false,false
+UA018023,09 Feb 25,2,Kings Park White,GPHC,No. 2,Olivia Chang,David Yuen,Olivia Chang,6-3,6,3,1,0,Completed,true,false,false
+UA018023,09 Feb 25,2,Kings Park White,GPHC,No. 3,Alice Luo,Edmund Tee-Wu,Alice Luo,6-3,6,3,1,0,Completed,true,false,false
+UA018023,09 Feb 25,2,Kings Park White,GPHC,No. 4,[Unnamed player — TROLS UA018023 home code 4],Lewis O'Donnell,Lewis O'Donnell,0-6,0,6,0,1,Completed,false,false,false
+UA018024,09 Feb 25,2,Lauriston,St Joan of Arc,No. 1,Andy Li,Kingsley Bower,Andy Li,6-4,6,4,1,0,Completed,true,false,false
+UA018024,09 Feb 25,2,Lauriston,St Joan of Arc,No. 2,Jeffrey Lam,Kevin Courtney,Jeffrey Lam,6-2,6,2,1,0,Completed,true,false,false
+UA018024,09 Feb 25,2,Lauriston,St Joan of Arc,No. 3,Benjamin Pham,Simone Bower,Benjamin Pham,6-3,6,3,1,0,Completed,true,false,false
+UA018024,09 Feb 25,2,Lauriston,St Joan of Arc,No. 4,Leo Blanksby,Thomas Falan,Leo Blanksby,6-0,6,0,1,0,Completed,true,false,false
+UA018032,16 Feb 25,3,Kings Park Blue,Parkdale,No. 1,[Unnamed player — TROLS UA018032 home code 1],Aaron Val Chiu,Aaron Val Chiu,0-6,0,6,0,1,Completed,false,false,false
+UA018032,16 Feb 25,3,Kings Park Blue,Parkdale,No. 2,Jayden Lin,Aiden Nguyen,Aiden Nguyen,0-6,0,6,0,1,Completed,true,false,false
+UA018032,16 Feb 25,3,Kings Park Blue,Parkdale,No. 3,Seou Ham,Archer Tiley,Seou Ham,6-2,6,2,1,0,Completed,true,false,false
+UA018032,16 Feb 25,3,Kings Park Blue,Parkdale,No. 4,Wilson He,Weston Tiley,Wilson He,7-6,7,6,1,0,Completed,true,false,false
+UA018034,16 Feb 25,3,St Joan of Arc,Kings Park White,No. 1,Kevin Courtney,Arabella Hancox,Kevin Courtney,6-0,6,0,1,0,Completed,true,false,false
+UA018034,16 Feb 25,3,St Joan of Arc,Kings Park White,No. 2,Kris Xu,Ethan Kwok,Kris Xu,6-1,6,1,1,0,Completed,true,false,false
+UA018034,16 Feb 25,3,St Joan of Arc,Kings Park White,No. 3,Eddie Sauerbrunn,Olivia Chang,Eddie Sauerbrunn,6-1,6,1,1,0,Completed,true,false,false
+UA018034,16 Feb 25,3,St Joan of Arc,Kings Park White,No. 4,Simone Bower,Alice Luo,Simone Bower,6-4,6,4,1,0,Completed,true,false,false
+UA018041,23 Feb 25,4,Kings Park White,Royal South Yarra,No. 1,Heston Hancox,Bella Wilkins,Heston Hancox,6-1,6,1,1,0,Completed,true,false,false
+UA018041,23 Feb 25,4,Kings Park White,Royal South Yarra,No. 2,Ethan Kwok,Jean Jones,Ethan Kwok,6-2,6,2,1,0,Completed,true,false,false
+UA018041,23 Feb 25,4,Kings Park White,Royal South Yarra,No. 3,Olivia Chang,Winifred Nicholls,Olivia Chang,6-0,6,0,1,0,Completed,true,false,false
+UA018041,23 Feb 25,4,Kings Park White,Royal South Yarra,No. 4,Alice Luo,Lottie Gunnersen,Lottie Gunnersen,5-7,5,7,0,1,Completed,true,false,false
+UA018042,23 Feb 25,4,Lauriston,Kings Park Blue,No. 1,Andy Li,Jason Tang,Jason Tang,2-6,2,6,0,1,Completed,true,false,false
+UA018042,23 Feb 25,4,Lauriston,Kings Park Blue,No. 2,Jeffrey Lam,Jayden Lin,Jeffrey Lam,6-2,6,2,1,0,Completed,true,false,false
+UA018042,23 Feb 25,4,Lauriston,Kings Park Blue,No. 3,Benjamin Pham,Seou Ham,Seou Ham,4-6,4,6,0,1,Completed,true,false,false
+UA018042,23 Feb 25,4,Lauriston,Kings Park Blue,No. 4,Leo Blanksby,Wilson He,Leo Blanksby,6-3,6,3,1,0,Completed,true,false,false
+UA018043,23 Feb 25,4,Parkdale,GPHC,No. 1,Aaron Val Chiu,David Yuen,Aaron Val Chiu,6-4,6,4,1,0,Completed,true,false,false
+UA018043,23 Feb 25,4,Parkdale,GPHC,No. 2,Aidan Roach,Josh Chew,Aidan Roach,6-3,6,3,1,0,Completed,true,false,false
+UA018043,23 Feb 25,4,Parkdale,GPHC,No. 3,Archer Tiley,Edmund Tee-Wu,Edmund Tee-Wu,0-6,0,6,0,1,Completed,true,false,false
+UA018043,23 Feb 25,4,Parkdale,GPHC,No. 4,Weston Tiley,Lewis O'Donnell,Weston Tiley,6-1,6,1,1,0,Completed,true,false,false
+UA018044,23 Feb 25,4,Kooyong,St Joan of Arc,No. 1,Elliot Doukas,Kingsley Bower,Elliot Doukas,6-1,6,1,1,0,Completed,true,false,false
+UA018044,23 Feb 25,4,Kooyong,St Joan of Arc,No. 2,Ashton Koon,Kevin Courtney,Kevin Courtney,0-6,0,6,0,1,Completed,true,false,false
+UA018044,23 Feb 25,4,Kooyong,St Joan of Arc,No. 3,Lachlan Forsyth,Eddie Sauerbrunn,Eddie Sauerbrunn,0-6,0,6,0,1,Completed,true,false,false
+UA018044,23 Feb 25,4,Kooyong,St Joan of Arc,No. 4,Yusuf Mohammed,Thomas Falan,Thomas Falan,0-6,0,6,0,1,Completed,true,false,false
+UA018051,02 Mar 25,5,GPHC,St Joan of Arc,No. 1,Zach Richardson,Kingsley Bower,Kingsley Bower,3-6,3,6,0,1,Completed,true,false,false
+UA018051,02 Mar 25,5,GPHC,St Joan of Arc,No. 2,Josh Chew,Kris Xu,Kris Xu,1-6,1,6,0,1,Completed,true,false,false
+UA018051,02 Mar 25,5,GPHC,St Joan of Arc,No. 3,Edmund Tee-Wu,Eddie Sauerbrunn,Eddie Sauerbrunn,0-6,0,6,0,1,Completed,true,false,false
+UA018051,02 Mar 25,5,GPHC,St Joan of Arc,No. 4,Lewis O'Donnell,Thomas Falan,Thomas Falan,1-6,1,6,0,1,Completed,true,false,false
+UA018052,02 Mar 25,5,Parkdale,Lauriston,No. 1,Aaron Val Chiu,Andy Li,Aaron Val Chiu,6-0,6,0,1,0,Completed,true,false,false
+UA018052,02 Mar 25,5,Parkdale,Lauriston,No. 2,Aiden Nguyen,Jeffrey Lam,Aiden Nguyen,6-0,6,0,1,0,Completed,true,false,false
+UA018052,02 Mar 25,5,Parkdale,Lauriston,No. 3,Aidan Roach,Benjamin Pham,Aidan Roach,6-1,6,1,1,0,Completed,true,false,false
+UA018052,02 Mar 25,5,Parkdale,Lauriston,No. 4,Archer Tiley,Leo Blanksby,Leo Blanksby,2-6,2,6,0,1,Completed,true,false,false
+UA018053,02 Mar 25,5,Kings Park White,Kooyong,No. 1,Heston Hancox,Angus Clements,Heston Hancox,6-3,6,3,1,0,Completed,true,false,false
+UA018053,02 Mar 25,5,Kings Park White,Kooyong,No. 2,Arabella Hancox,Ashton Koon,Arabella Hancox,6-3,6,3,1,0,Completed,true,false,false
+UA018053,02 Mar 25,5,Kings Park White,Kooyong,No. 3,Ethan Kwok,Lachlan Forsyth,Ethan Kwok,6-4,6,4,1,0,Completed,true,false,false
+UA018053,02 Mar 25,5,Kings Park White,Kooyong,No. 4,Alice Luo,Hunter Orchard,Hunter Orchard,5-7,5,7,0,1,Completed,true,false,true
+UA018071,23 Mar 25,7,Royal South Yarra,GPHC,No. 1,Ella Petherbridge,Zach Richardson,Ella Petherbridge,6-4,6,4,1,0,Completed,true,false,false
+UA018071,23 Mar 25,7,Royal South Yarra,GPHC,No. 2,Bella Wilkins,David Yuen,Bella Wilkins,6-0,6,0,1,0,Completed,true,false,false
+UA018071,23 Mar 25,7,Royal South Yarra,GPHC,No. 3,Jean Jones,Josh Chew,Jean Jones,6-4,6,4,1,0,Completed,true,false,false
+UA018071,23 Mar 25,7,Royal South Yarra,GPHC,No. 4,Mirri Martin,Lewis O'Donnell,Mirri Martin,6-0,6,0,1,0,Completed,true,false,false
+UA018072,23 Mar 25,7,Kings Park Blue,St Joan of Arc,No. 1,Jason Tang,Kevin Courtney,Kevin Courtney,4-6,4,6,0,1,Completed,true,false,false
+UA018072,23 Mar 25,7,Kings Park Blue,St Joan of Arc,No. 2,Jayden Lin,Kris Xu,Kris Xu,2-6,2,6,0,1,Completed,true,false,false
+UA018072,23 Mar 25,7,Kings Park Blue,St Joan of Arc,No. 3,Seou Ham,Eddie Sauerbrunn,Eddie Sauerbrunn,3-6,3,6,0,1,Completed,true,false,false
+UA018072,23 Mar 25,7,Kings Park Blue,St Joan of Arc,No. 4,Wilson He,Thomas Falan,Wilson He,6-1,6,1,1,0,Completed,true,false,false
+UA018073,23 Mar 25,7,Parkdale,Kings Park White,No. 1,Aaron Val Chiu,Heston Hancox,Aaron Val Chiu,6-0,6,0,1,0,Completed,true,false,false
+UA018073,23 Mar 25,7,Parkdale,Kings Park White,No. 2,Aiden Nguyen,Ethan Kwok,Aiden Nguyen,6-2,6,2,1,0,Completed,true,false,false
+UA018073,23 Mar 25,7,Parkdale,Kings Park White,No. 3,Aidan Roach,Olivia Chang,Aidan Roach,6-4,6,4,1,0,Completed,true,false,false
+UA018073,23 Mar 25,7,Parkdale,Kings Park White,No. 4,Weston Tiley,Alice Luo,Alice Luo,3-6,3,6,0,1,Completed,true,false,false
+UA018074,23 Mar 25,7,Lauriston,Kooyong,No. 1,Andy Li,[Unnamed player — TROLS UA018074 away code 1],Andy Li,6-0,6,0,1,0,Completed,false,false,false
+UA018074,23 Mar 25,7,Lauriston,Kooyong,No. 2,Jeffrey Lam,Angus Clements,Jeffrey Lam,6-1,6,1,1,0,Completed,true,false,false
+UA018074,23 Mar 25,7,Lauriston,Kooyong,No. 3,Benjamin Pham,Ashton Koon,Benjamin Pham,6-2,6,2,1,0,Completed,true,false,false
+UA018074,23 Mar 25,7,Lauriston,Kooyong,No. 4,Leo Blanksby,Lachlan Forsyth,Lachlan Forsyth,2-6,2,6,0,1,Completed,true,false,false
+UA018081,30 Mar 25,8,Kooyong,Royal South Yarra,No. 1,Ivan Cesal,Ella Petherbridge,Ella Petherbridge,5-7,5,7,0,1,Completed,true,false,false
+UA018081,30 Mar 25,8,Kooyong,Royal South Yarra,No. 2,Elliot Doukas,Bella Wilkins,Elliot Doukas,6-3,6,3,1,0,Completed,true,false,false
+UA018081,30 Mar 25,8,Kooyong,Royal South Yarra,No. 3,Morris Plomley,Lottie Gunnersen,Morris Plomley,7-5,7,5,1,0,Completed,true,false,false
+UA018081,30 Mar 25,8,Kooyong,Royal South Yarra,No. 4,Ashton Koon,Mirri Martin,Mirri Martin,0-6,0,6,0,1,Completed,true,false,false
+UA018082,30 Mar 25,8,Kings Park White,Kings Park Blue,No. 1,Arabella Hancox,Jason Tang,Jason Tang,2-6,2,6,0,1,Completed,true,false,false
+UA018082,30 Mar 25,8,Kings Park White,Kings Park Blue,No. 2,Ethan Kwok,Jayden Lin,Ethan Kwok,6-0,6,0,1,0,Completed,true,false,false
+UA018082,30 Mar 25,8,Kings Park White,Kings Park Blue,No. 3,Olivia Chang,Seou Ham,Seou Ham,5-7,5,7,0,1,Completed,true,false,false
+UA018082,30 Mar 25,8,Kings Park White,Kings Park Blue,No. 4,Alice Luo,Wilson He,Wilson He,0-6,0,6,0,1,Completed,true,false,false
+UA018083,30 Mar 25,8,Lauriston,GPHC,No. 1,Andy Li,Zach Richardson,Zach Richardson,5-7,5,7,0,1,Completed,true,false,false
+UA018083,30 Mar 25,8,Lauriston,GPHC,No. 2,Jeffrey Lam,David Yuen,Jeffrey Lam,6-4,6,4,1,0,Completed,true,false,false
+UA018083,30 Mar 25,8,Lauriston,GPHC,No. 3,Leo Blanksby,Josh Chew,Leo Blanksby,6-3,6,3,1,0,Completed,true,false,false
+UA018083,30 Mar 25,8,Lauriston,GPHC,No. 4,Austin Zhang,Edmund Tee-Wu,Edmund Tee-Wu,5-7,5,7,0,1,Completed,true,true,false
+UA018084,30 Mar 25,8,Parkdale,St Joan of Arc,No. 1,Aaron Val Chiu,Kingsley Bower,Aaron Val Chiu,6-0,6,0,1,0,Completed,true,false,false
+UA018084,30 Mar 25,8,Parkdale,St Joan of Arc,No. 2,Aiden Nguyen,Kevin Courtney,Kevin Courtney,4-6,4,6,0,1,Completed,true,false,false
+UA018084,30 Mar 25,8,Parkdale,St Joan of Arc,No. 3,Archer Tiley,Kris Xu,Kris Xu,3-6,3,6,0,1,Completed,true,false,false
+UA018084,30 Mar 25,8,Parkdale,St Joan of Arc,No. 4,Weston Tiley,Simone Bower,Weston Tiley,6-2,6,2,1,0,Completed,true,false,false
+UA018091,04 May 25,9,Royal South Yarra,Parkdale,No. 1,Ella Petherbridge,Aiden Nguyen,Aiden Nguyen,2-6,2,6,0,1,Completed,true,false,false
+UA018091,04 May 25,9,Royal South Yarra,Parkdale,No. 2,Bella Wilkins,Aidan Roach,Bella Wilkins,6-4,6,4,1,0,Completed,true,false,false
+UA018091,04 May 25,9,Royal South Yarra,Parkdale,No. 3,Lottie Gunnersen,Archer Tiley,Lottie Gunnersen,6-3,6,3,1,0,Completed,true,false,false
+UA018091,04 May 25,9,Royal South Yarra,Parkdale,No. 4,Mirri Martin,Weston Tiley,Mirri Martin,6-1,6,1,1,0,Completed,true,false,false
+UA018092,04 May 25,9,Kings Park Blue,Kooyong,No. 1,Jason Tang,Ivan Cesal,Jason Tang,6-2,6,2,1,0,Completed,true,false,false
+UA018092,04 May 25,9,Kings Park Blue,Kooyong,No. 2,Jayden Lin,Elliot Doukas,Elliot Doukas,3-6,3,6,0,1,Completed,true,false,false
+UA018092,04 May 25,9,Kings Park Blue,Kooyong,No. 3,Seou Ham,Angus Clements,Angus Clements,1-6,1,6,0,1,Completed,true,false,false
+UA018092,04 May 25,9,Kings Park Blue,Kooyong,No. 4,Wilson He,Morris Plomley,Morris Plomley,6-7,6,7,0,1,Completed,true,false,false
+UA018093,04 May 25,9,GPHC,Kings Park White,No. 1,Zach Richardson,Heston Hancox,Heston Hancox,3-6,3,6,0,1,Completed,true,false,false
+UA018093,04 May 25,9,GPHC,Kings Park White,No. 2,David Yuen,Arabella Hancox,David Yuen,6-2,6,2,1,0,Completed,true,false,false
+UA018093,04 May 25,9,GPHC,Kings Park White,No. 3,Josh Chew,Olivia Chang,Olivia Chang,3-6,3,6,0,1,Completed,true,false,false
+UA018093,04 May 25,9,GPHC,Kings Park White,No. 4,Edmund Tee-Wu,Alice Luo,Alice Luo,4-6,4,6,0,1,Completed,true,false,false
+UA018094,04 May 25,9,St Joan of Arc,Lauriston,No. 1,Kingsley Bower,Matthew Li,Matthew Li,1-6,1,6,0,1,Completed,true,false,true
+UA018094,04 May 25,9,St Joan of Arc,Lauriston,No. 2,Kris Xu,Andy Li,Kris Xu,6-1,6,1,1,0,Completed,true,false,false
+UA018094,04 May 25,9,St Joan of Arc,Lauriston,No. 3,Simone Bower,Jeffrey Lam,Jeffrey Lam,0-6,0,6,0,1,Completed,true,false,false
+UA018094,04 May 25,9,St Joan of Arc,Lauriston,No. 4,Thomas Falan,Benjamin Pham,Thomas Falan,6-4,6,4,1,0,Completed,true,false,false
+UA018101,11 May 25,10,Lauriston,Royal South Yarra,No. 1,Andy Li,Ella Petherbridge,Ella Petherbridge,2-6,2,6,0,1,Completed,true,false,false
+UA018101,11 May 25,10,Lauriston,Royal South Yarra,No. 2,Jeffrey Lam,Bella Wilkins,Jeffrey Lam,6-3,6,3,1,0,Completed,true,false,false
+UA018101,11 May 25,10,Lauriston,Royal South Yarra,No. 3,Benjamin Pham,Jean Jones,Jean Jones,4-6,4,6,0,1,Completed,true,false,false
+UA018101,11 May 25,10,Lauriston,Royal South Yarra,No. 4,Leo Blanksby,Olivia Bingham,Leo Blanksby,6-2,6,2,1,0,Completed,true,false,true
+UA018102,11 May 25,10,Parkdale,Kings Park Blue,No. 1,Aiden Nguyen,Jason Tang,Aiden Nguyen,6-3,6,3,1,0,Completed,true,false,false
+UA018102,11 May 25,10,Parkdale,Kings Park Blue,No. 2,Aidan Roach,Jayden Lin,Aidan Roach,6-0,6,0,1,0,Completed,true,false,false
+UA018102,11 May 25,10,Parkdale,Kings Park Blue,No. 3,Archer Tiley,Seou Ham,Archer Tiley,6-4,6,4,1,0,Completed,true,false,false
+UA018102,11 May 25,10,Parkdale,Kings Park Blue,No. 4,Weston Tiley,Wilson He,Wilson He,3-6,3,6,0,1,Completed,true,false,false
+UA018103,11 May 25,10,Kooyong,GPHC,No. 1,Ivan Cesal,Zach Richardson,Ivan Cesal,6-4,6,4,1,0,Completed,true,false,false
+UA018103,11 May 25,10,Kooyong,GPHC,No. 2,Ashton Koon,David Yuen,David Yuen,4-6,4,6,0,1,Completed,true,false,false
+UA018103,11 May 25,10,Kooyong,GPHC,No. 3,Morris Plomley,Josh Chew,Morris Plomley,6-2,6,2,1,0,Completed,true,false,false
+UA018103,11 May 25,10,Kooyong,GPHC,No. 4,Lachlan Forsyth,Edmund Tee-Wu,Lachlan Forsyth,6-2,6,2,1,0,Completed,true,false,false
+UA018104,11 May 25,10,Kings Park White,St Joan of Arc,No. 1,Heston Hancox,Kingsley Bower,Heston Hancox,6-1,6,1,1,0,Completed,true,false,false
+UA018104,11 May 25,10,Kings Park White,St Joan of Arc,No. 2,Ethan Kwok,Kevin Courtney,Kevin Courtney,3-6,3,6,0,1,Completed,true,false,false
+UA018104,11 May 25,10,Kings Park White,St Joan of Arc,No. 3,Arabella Hancox,Eddie Sauerbrunn,Eddie Sauerbrunn,0-6,0,6,0,1,Completed,true,false,false
+UA018104,11 May 25,10,Kings Park White,St Joan of Arc,No. 4,Alice Luo,Thomas Falan,Alice Luo,6-3,6,3,1,0,Completed,true,false,false
+UA018111,18 May 25,11,Royal South Yarra,Kings Park White,No. 1,Bella Wilkins,Heston Hancox,Bella Wilkins,6-4,6,4,1,0,Completed,true,false,false
+UA018111,18 May 25,11,Royal South Yarra,Kings Park White,No. 2,Jean Jones,Arabella Hancox,Jean Jones,6-2,6,2,1,0,Completed,true,false,false
+UA018111,18 May 25,11,Royal South Yarra,Kings Park White,No. 3,Winifred Nicholls,Ethan Kwok,Ethan Kwok,0-6,0,6,0,1,Completed,true,false,false
+UA018111,18 May 25,11,Royal South Yarra,Kings Park White,No. 4,Mirri Martin,Olivia Chang,Mirri Martin,6-3,6,3,1,0,Completed,true,false,false
+UA018112,18 May 25,11,Kings Park Blue,Lauriston,No. 1,Jason Tang,Andy Li,Jason Tang,6-2,6,2,1,0,Completed,true,false,false
+UA018112,18 May 25,11,Kings Park Blue,Lauriston,No. 2,Jayden Lin,Benjamin Pham,Jayden Lin,6-4,6,4,1,0,Completed,true,false,false
+UA018112,18 May 25,11,Kings Park Blue,Lauriston,No. 3,Seou Ham,[Unnamed player — TROLS UA018112 away code 3],Seou Ham,6-0,6,0,1,0,Completed,false,false,false
+UA018112,18 May 25,11,Kings Park Blue,Lauriston,No. 4,Wilson He,[Unnamed player — TROLS UA018112 away code 4],Wilson He,6-0,6,0,1,0,Completed,false,false,false
+UA018113,18 May 25,11,GPHC,Parkdale,No. 1,Zach Richardson,Aiden Nguyen,Aiden Nguyen,1-6,1,6,0,1,Completed,true,false,false
+UA018113,18 May 25,11,GPHC,Parkdale,No. 2,David Yuen,Aidan Roach,Aidan Roach,4-6,4,6,0,1,Completed,true,false,false
+UA018113,18 May 25,11,GPHC,Parkdale,No. 3,Josh Chew,Archer Tiley,Josh Chew,6-4,6,4,1,0,Completed,true,false,false
+UA018113,18 May 25,11,GPHC,Parkdale,No. 4,Edmund Tee-Wu,Weston Tiley,Edmund Tee-Wu,6-2,6,2,1,0,Completed,true,false,false
+UA018114,18 May 25,11,St Joan of Arc,Kooyong,No. 1,Kingsley Bower,Ivan Cesal,Ivan Cesal,3-6,3,6,0,1,Completed,true,false,false
+UA018114,18 May 25,11,St Joan of Arc,Kooyong,No. 2,Kevin Courtney,Elliot Doukas,Elliot Doukas,2-6,2,6,0,1,Completed,true,false,false
+UA018114,18 May 25,11,St Joan of Arc,Kooyong,No. 3,Kris Xu,Morris Plomley,Morris Plomley,6-7,6,7,0,1,Completed,true,false,false
+UA018114,18 May 25,11,St Joan of Arc,Kooyong,No. 4,Simone Bower,Yusuf Mohammed,Yusuf Mohammed,1-6,1,6,0,1,Completed,true,false,false
+UA018121,25 May 25,12,St Joan of Arc,GPHC,No. 1,Kingsley Bower,David Yuen,David Yuen,1-6,1,6,0,1,Completed,true,false,false
+UA018121,25 May 25,12,St Joan of Arc,GPHC,No. 2,Kris Xu,Josh Chew,Kris Xu,6-4,6,4,1,0,Completed,true,false,false
+UA018121,25 May 25,12,St Joan of Arc,GPHC,No. 3,Eddie Sauerbrunn,Edmund Tee-Wu,Eddie Sauerbrunn,6-2,6,2,1,0,Completed,true,false,false
+UA018121,25 May 25,12,St Joan of Arc,GPHC,No. 4,Simone Bower,Lewis O'Donnell,Simone Bower,6-1,6,1,1,0,Completed,true,false,false
+UA018122,25 May 25,12,Lauriston,Parkdale,No. 1,Andy Li,Aiden Nguyen,Aiden Nguyen,0-6,0,6,0,1,Completed,true,false,false
+UA018122,25 May 25,12,Lauriston,Parkdale,No. 2,Jeffrey Lam,Aidan Roach,Jeffrey Lam,6-2,6,2,1,0,Completed,true,false,false
+UA018122,25 May 25,12,Lauriston,Parkdale,No. 3,Benjamin Pham,Archer Tiley,Benjamin Pham,6-2,6,2,1,0,Completed,true,false,false
+UA018122,25 May 25,12,Lauriston,Parkdale,No. 4,Austin Zhang,Weston Tiley,Weston Tiley,3-6,3,6,0,1,Completed,true,true,false
+UA018123,25 May 25,12,Kooyong,Kings Park White,No. 1,Ivan Cesal,Heston Hancox,Ivan Cesal,6-2,6,2,1,0,Completed,true,false,false
+UA018123,25 May 25,12,Kooyong,Kings Park White,No. 2,Angus Clements,Arabella Hancox,Arabella Hancox,2-6,2,6,0,1,Completed,true,false,false
+UA018123,25 May 25,12,Kooyong,Kings Park White,No. 3,Ashton Koon,Olivia Chang,Ashton Koon,6-4,6,4,1,0,Completed,true,false,false
+UA018123,25 May 25,12,Kooyong,Kings Park White,No. 4,Yusuf Mohammed,Alice Luo,Yusuf Mohammed,6-4,6,4,1,0,Completed,true,false,false
+UA018124,25 May 25,12,Kings Park Blue,Royal South Yarra,No. 1,Jason Tang,Ella Petherbridge,Jason Tang,6-4,6,4,1,0,Completed,true,false,false
+UA018124,25 May 25,12,Kings Park Blue,Royal South Yarra,No. 2,Jayden Lin,Bella Wilkins,Bella Wilkins,2-6,2,6,0,1,Completed,true,false,false
+UA018124,25 May 25,12,Kings Park Blue,Royal South Yarra,No. 3,Seou Ham,Jean Jones,Jean Jones,1-6,1,6,0,1,Completed,true,false,false
+UA018124,25 May 25,12,Kings Park Blue,Royal South Yarra,No. 4,Wilson He,Lottie Gunnersen,Wilson He,6-3,6,3,1,0,Completed,true,false,false
+UA018131,01 Jun 25,13,GPHC,Kings Park Blue,No. 1,Zach Richardson,Jason Tang,Jason Tang,4-6,4,6,0,1,Completed,true,false,false
+UA018131,01 Jun 25,13,GPHC,Kings Park Blue,No. 2,David Yuen,Jayden Lin,Jayden Lin,4-5,4,5,0,1,Completed,true,false,false
+UA018131,01 Jun 25,13,GPHC,Kings Park Blue,No. 3,Edmund Tee-Wu,Seou Ham,Seou Ham,1-6,1,6,0,1,Completed,true,false,false
+UA018131,01 Jun 25,13,GPHC,Kings Park Blue,No. 4,Lewis O'Donnell,Wilson He,Wilson He,0-6,0,6,0,1,Completed,true,false,false
+UA018132,01 Jun 25,13,Royal South Yarra,St Joan of Arc,No. 1,Ella Petherbridge,Kingsley Bower,Ella Petherbridge,6-1,6,1,1,0,Completed,true,false,false
+UA018132,01 Jun 25,13,Royal South Yarra,St Joan of Arc,No. 2,Bella Wilkins,Kevin Courtney,Kevin Courtney,6-7,6,7,0,1,Completed,true,false,false
+UA018132,01 Jun 25,13,Royal South Yarra,St Joan of Arc,No. 3,Jean Jones,Kris Xu,Kris Xu,2-6,2,6,0,1,Completed,true,false,false
+UA018132,01 Jun 25,13,Royal South Yarra,St Joan of Arc,No. 4,Sunday Kutcher,Simone Bower,Simone Bower,4-6,4,6,0,1,Completed,true,true,false
+UA018133,01 Jun 25,13,Kings Park White,Lauriston,No. 1,Heston Hancox,Matthew Li,Matthew Li,0-6,0,6,0,1,Completed,true,false,true
+UA018133,01 Jun 25,13,Kings Park White,Lauriston,No. 2,Ethan Kwok,Andy Li,Ethan Kwok,6-3,6,3,1,0,Completed,true,false,false
+UA018133,01 Jun 25,13,Kings Park White,Lauriston,No. 3,Olivia Chang,Jeffrey Lam,Jeffrey Lam,1-6,1,6,0,1,Completed,true,false,false
+UA018133,01 Jun 25,13,Kings Park White,Lauriston,No. 4,Alice Luo,Benjamin Pham,Benjamin Pham,3-6,3,6,0,1,Completed,true,false,false
+UA018134,01 Jun 25,13,Parkdale,Kooyong,No. 1,Aaron Val Chiu,Elliot Doukas,Aaron Val Chiu,6-3,6,3,1,0,Completed,true,false,false
+UA018134,01 Jun 25,13,Parkdale,Kooyong,No. 2,Aidan Roach,Angus Clements,Angus Clements,6-7,6,7,0,1,Completed,true,false,false
+UA018134,01 Jun 25,13,Parkdale,Kooyong,No. 3,Archer Tiley,Morris Plomley,Archer Tiley,6-2,6,2,1,0,Completed,true,false,false
+UA018134,01 Jun 25,13,Parkdale,Kooyong,No. 4,Weston Tiley,Lachlan Forsyth,Weston Tiley,6-4,6,4,1,0,Completed,true,false,false
+UA018141,15 Jun 25,14,GPHC,Royal South Yarra,No. 1,Zach Richardson,Bella Wilkins,Zach Richardson,6-2,6,2,1,0,Completed,true,false,false
+UA018141,15 Jun 25,14,GPHC,Royal South Yarra,No. 2,Josh Chew,Jean Jones,Jean Jones,4-6,4,6,0,1,Completed,true,false,false
+UA018141,15 Jun 25,14,GPHC,Royal South Yarra,No. 3,Edmund Tee-Wu,Lottie Gunnersen,Lottie Gunnersen,6-7,6,7,0,1,Completed,true,false,false
+UA018141,15 Jun 25,14,GPHC,Royal South Yarra,No. 4,Lewis O'Donnell,Mirri Martin,Mirri Martin,2-6,2,6,0,1,Completed,true,false,false
+UA018142,15 Jun 25,14,St Joan of Arc,Kings Park Blue,No. 1,Kevin Courtney,Jason Tang,Jason Tang,2-6,2,6,0,1,Completed,true,false,false
+UA018142,15 Jun 25,14,St Joan of Arc,Kings Park Blue,No. 2,Kris Xu,Jayden Lin,Kris Xu,6-1,6,1,1,0,Completed,true,false,false
+UA018142,15 Jun 25,14,St Joan of Arc,Kings Park Blue,No. 3,Eddie Sauerbrunn,Seou Ham,Seou Ham,4-6,4,6,0,1,Completed,true,false,false
+UA018142,15 Jun 25,14,St Joan of Arc,Kings Park Blue,No. 4,Thomas Falan,Wilson He,Wilson He,0-6,0,6,0,1,Completed,true,false,false
+UA018144,15 Jun 25,14,Kooyong,Lauriston,No. 1,Ivan Cesal,Andy Li,Ivan Cesal,6-4,6,4,1,0,Completed,true,false,false
+UA018144,15 Jun 25,14,Kooyong,Lauriston,No. 2,Elliot Doukas,Jeffrey Lam,Jeffrey Lam,3-6,3,6,0,1,Completed,true,false,false
+UA018144,15 Jun 25,14,Kooyong,Lauriston,No. 3,Angus Clements,Benjamin Pham,Benjamin Pham,2-6,2,6,0,1,Completed,true,false,false
+UA018144,15 Jun 25,14,Kooyong,Lauriston,No. 4,Morris Plomley,Leo Blanksby,Morris Plomley,6-3,6,3,1,0,Completed,true,false,false
+UA018301,,16,Parkdale,Kooyong,No. 1,Aaron Val Chiu,Ivan Cesal,Aaron Val Chiu,6-1,6,1,1,0,Completed,true,false,false
+UA018301,,16,Parkdale,Kooyong,No. 2,Aiden Nguyen,Angus Clements,Aiden Nguyen,6-1,6,1,1,0,Completed,true,false,false
+UA018301,,16,Parkdale,Kooyong,No. 3,Aidan Roach,Ashton Koon,Aidan Roach,6-3,6,3,1,0,Completed,true,false,false
+UA018301,,16,Parkdale,Kooyong,No. 4,Archer Tiley,Morris Plomley,Morris Plomley,1-6,1,6,0,1,Completed,true,false,false
+UA018302,,16,Lauriston,Royal South Yarra,No. 1,Matthew Li,Ella Petherbridge,Matthew Li,6-1,6,1,1,0,Completed,true,true,false
+UA018302,,16,Lauriston,Royal South Yarra,No. 2,Andy Li,Bella Wilkins,Bella Wilkins,0-6,0,6,0,1,Completed,true,false,false
+UA018302,,16,Lauriston,Royal South Yarra,No. 3,Jeffrey Lam,Lottie Gunnersen,Jeffrey Lam,6-1,6,1,1,0,Completed,true,false,false
+UA018302,,16,Lauriston,Royal South Yarra,No. 4,Benjamin Pham,Mirri Martin,Mirri Martin,2-6,2,6,0,1,Completed,true,false,false
+UA018321,,17,Parkdale,Lauriston,No. 1,Aaron Val Chiu,Andy Li,Aaron Val Chiu,6-2,6,2,1,0,Completed,true,false,false
+UA018321,,17,Parkdale,Lauriston,No. 2,Aiden Nguyen,Jeffrey Lam,Aiden Nguyen,6-2,6,2,1,0,Completed,true,false,false
+UA018321,,17,Parkdale,Lauriston,No. 3,Aidan Roach,Benjamin Pham,Benjamin Pham,3-6,3,6,0,1,Completed,true,false,false
+UA018321,,17,Parkdale,Lauriston,No. 4,Aidan Murdoch,Leo Blanksby,Aidan Murdoch,6-1,6,1,1,0,Completed,true,true,false

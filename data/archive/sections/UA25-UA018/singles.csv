@@ -1,0 +1,201 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA018011,21 Jul 19,1,Victory Park,Dendy Park,No. 1,Oscar Yeaman-Jones,Manol Atanasov,Oscar Yeaman-Jones,6-1,6,1,1,0,Completed,true,false,false
+UA018011,21 Jul 19,1,Victory Park,Dendy Park,No. 2,Jack Campbell,Miguel Najeras,Miguel Najeras,0-6,0,6,0,1,Completed,true,false,false
+UA018011,21 Jul 19,1,Victory Park,Dendy Park,No. 3,Gemma McGrath,Slade Caldwell,Slade Caldwell,1-6,1,6,0,1,Completed,true,false,false
+UA018011,21 Jul 19,1,Victory Park,Dendy Park,No. 4,Jordan Typaldos,Harry Taphouse,Jordan Typaldos,6-4,6,4,1,0,Completed,true,false,false
+UA018012,21 Jul 19,1,Parkdale,Le Page,No. 1,Noah Zambiasi,Yi Zhou,Noah Zambiasi,6-2,6,2,1,0,Completed,true,false,false
+UA018012,21 Jul 19,1,Parkdale,Le Page,No. 2,Aris Papanicolau,Smail Chen,Aris Papanicolau,6-2,6,2,1,0,Completed,true,false,false
+UA018012,21 Jul 19,1,Parkdale,Le Page,No. 3,Charlton Humphrey,Mitchell Campbell,Charlton Humphrey,6-1,6,1,1,0,Completed,true,false,false
+UA018012,21 Jul 19,1,Parkdale,Le Page,No. 4,Luca Rodrigues,Nathan Lew,Nathan Lew,2-6,2,6,0,1,Completed,true,false,false
+UA018013,21 Jul 19,1,Highmoor Uniting,Carmelite,No. 1,Matthew Hayward,Kobe Earle,Matthew Hayward,6-4,6,4,1,0,Completed,true,false,false
+UA018013,21 Jul 19,1,Highmoor Uniting,Carmelite,No. 2,Anya Khatsernov,Charlotte Parletta,Anya Khatsernov,6-0,6,0,1,0,Completed,true,false,false
+UA018013,21 Jul 19,1,Highmoor Uniting,Carmelite,No. 3,Sofia Fromberg,Hugho Schulz,Sofia Fromberg,6-0,6,0,1,0,Completed,true,false,false
+UA018013,21 Jul 19,1,Highmoor Uniting,Carmelite,No. 4,Talyssa Calabrese Tokov,Jack Gaudry,Talyssa Calabrese Tokov,6-0,6,0,1,0,Completed,true,false,false
+UA018021,28 Jul 19,2,Centenary Park,Victory Park,No. 1,Herman Mitin,Cathy Lu,Herman Mitin,6-1,6,1,1,0,Completed,true,false,false
+UA018021,28 Jul 19,2,Centenary Park,Victory Park,No. 2,Anton Pototsky,Oscar Yeaman-Jones,Anton Pototsky,6-4,6,4,1,0,Completed,true,false,false
+UA018021,28 Jul 19,2,Centenary Park,Victory Park,No. 3,Daniel Potkin,Gemma McGrath,Daniel Potkin,6-1,6,1,1,0,Completed,true,false,false
+UA018021,28 Jul 19,2,Centenary Park,Victory Park,No. 4,Nathan Davidov,Jordan Typaldos,Jordan Typaldos,5-7,5,7,0,1,Completed,true,false,false
+UA018022,28 Jul 19,2,Dendy Park,Parkdale,No. 1,Miguel Najeras,Aris Papanicolau,Miguel Najeras,7-5,7,5,1,0,Completed,true,false,false
+UA018022,28 Jul 19,2,Dendy Park,Parkdale,No. 2,Slade Caldwell,Charlton Humphrey,Slade Caldwell,6-2,6,2,1,0,Completed,true,false,false
+UA018022,28 Jul 19,2,Dendy Park,Parkdale,No. 3,Felix Nott,Luca Rodrigues,Felix Nott,7-5,7,5,1,0,Completed,true,false,false
+UA018022,28 Jul 19,2,Dendy Park,Parkdale,No. 4,Lihang Jiang,Ryan Dong,Ryan Dong,2-6,2,6,0,1,Completed,true,false,false
+UA018023,28 Jul 19,2,Le Page,Highmoor Uniting,No. 1,Yi Zhou,Matthew Hayward,Matthew Hayward,3-6,3,6,0,1,Completed,true,false,false
+UA018023,28 Jul 19,2,Le Page,Highmoor Uniting,No. 2,Smail Chen,Sofia Fromberg,Sofia Fromberg,5-7,5,7,0,1,Completed,true,false,false
+UA018023,28 Jul 19,2,Le Page,Highmoor Uniting,No. 3,Mitchell Campbell,Olivia Frank,Olivia Frank,0-6,0,6,0,1,Completed,true,false,false
+UA018023,28 Jul 19,2,Le Page,Highmoor Uniting,No. 4,Lochlan Bradley,Alexia Frank,Lochlan Bradley,6-0,6,0,1,0,Completed,true,false,false
+UA018024,28 Jul 19,2,Carmelite,Kooyong Xavier,No. 1,Kobe Earle,Hamish Wright,Hamish Wright,1-6,1,6,0,1,Completed,true,false,false
+UA018024,28 Jul 19,2,Carmelite,Kooyong Xavier,No. 2,Charlotte Parletta,Samuel Moore,Charlotte Parletta,6-2,6,2,1,0,Completed,true,false,false
+UA018024,28 Jul 19,2,Carmelite,Kooyong Xavier,No. 3,Hugho Schulz,Louis Baeppler,Louis Baeppler,3-6,3,6,0,1,Completed,true,false,false
+UA018024,28 Jul 19,2,Carmelite,Kooyong Xavier,No. 4,Jack Gaudry,Charlie Portnoy,Charlie Portnoy,3-6,3,6,0,1,Completed,true,false,false
+UA018031,04 Aug 19,3,Victory Park,Carmelite,No. 1,Oscar Yeaman-Jones,Kobe Earle,Oscar Yeaman-Jones,6-3,6,3,1,0,Completed,true,false,false
+UA018031,04 Aug 19,3,Victory Park,Carmelite,No. 2,Jack Campbell,Oliver Earle,Jack Campbell,6-1,6,1,1,0,Completed,true,false,false
+UA018031,04 Aug 19,3,Victory Park,Carmelite,No. 3,Gemma McGrath,Hugho Schulz,Gemma McGrath,6-2,6,2,1,0,Completed,true,false,false
+UA018031,04 Aug 19,3,Victory Park,Carmelite,No. 4,Ishaan Tiwari,Jack Gaudry,Jack Gaudry,5-7,5,7,0,1,Completed,true,false,false
+UA018032,04 Aug 19,3,Parkdale,Centenary Park,No. 1,Aris Papanicolau,Anton Pototsky,Anton Pototsky,2-6,2,6,0,1,Completed,true,false,false
+UA018032,04 Aug 19,3,Parkdale,Centenary Park,No. 2,Charlton Humphrey,Alize Fisher,Alize Fisher,0-6,0,6,0,1,Completed,true,false,false
+UA018032,04 Aug 19,3,Parkdale,Centenary Park,No. 3,Luca Rodrigues,Taya Minin,Luca Rodrigues,6-3,6,3,1,0,Completed,true,false,false
+UA018032,04 Aug 19,3,Parkdale,Centenary Park,No. 4,Harry Wilson,Daniel Potkin,Harry Wilson,7-5,7,5,1,0,Completed,true,false,false
+UA018033,04 Aug 19,3,Highmoor Uniting,Dendy Park,No. 1,Matthew Hayward,Manol Atanasov,Matthew Hayward,6-0,6,0,1,0,Completed,true,false,false
+UA018033,04 Aug 19,3,Highmoor Uniting,Dendy Park,No. 2,Anya Khatsernov,Miguel Najeras,Miguel Najeras,2-6,2,6,0,1,Completed,true,false,false
+UA018033,04 Aug 19,3,Highmoor Uniting,Dendy Park,No. 3,Olivia Frank,Harry Taphouse,Olivia Frank,6-3,6,3,1,0,Completed,true,false,false
+UA018033,04 Aug 19,3,Highmoor Uniting,Dendy Park,No. 4,Miller Bennett,Lihang Jiang,Lihang Jiang,0-6,0,6,0,1,Completed,true,false,false
+UA018034,04 Aug 19,3,Kooyong Xavier,Le Page,No. 1,Hamish Wright,Yi Zhou,Hamish Wright,6-3,6,3,1,0,Completed,true,false,false
+UA018034,04 Aug 19,3,Kooyong Xavier,Le Page,No. 2,Sophie Moore,Smail Chen,Smail Chen,5-7,5,7,0,1,Completed,true,false,false
+UA018034,04 Aug 19,3,Kooyong Xavier,Le Page,No. 3,Samuel Moore,Nathan Lew,Nathan Lew,1-6,1,6,0,1,Completed,true,false,false
+UA018034,04 Aug 19,3,Kooyong Xavier,Le Page,No. 4,Charlie Portnoy,Lochlan Bradley,Lochlan Bradley,1-6,1,6,0,1,Completed,true,false,false
+UA018051,18 Aug 19,5,Highmoor Uniting,Kooyong Xavier,No. 1,Matthew Hayward,Sophie Moore,Matthew Hayward,6-0,6,0,1,0,Completed,true,false,false
+UA018051,18 Aug 19,5,Highmoor Uniting,Kooyong Xavier,No. 2,Sofia Fromberg,Samuel Moore,Samuel Moore,4-6,4,6,0,1,Completed,true,false,false
+UA018051,18 Aug 19,5,Highmoor Uniting,Kooyong Xavier,No. 3,Talyssa Calabrese Tokov,Louis Baeppler,Talyssa Calabrese Tokov,6-1,6,1,1,0,Completed,true,false,false
+UA018051,18 Aug 19,5,Highmoor Uniting,Kooyong Xavier,No. 4,Olivia Frank,Charlie Portnoy,Olivia Frank,6-3,6,3,1,0,Completed,true,false,false
+UA018052,18 Aug 19,5,Centenary Park,Carmelite,No. 1,Herman Mitin,Charlotte Parletta,Herman Mitin,6-2,6,2,1,0,Completed,true,false,false
+UA018052,18 Aug 19,5,Centenary Park,Carmelite,No. 2,Anton Pototsky,Oliver Earle,Anton Pototsky,6-2,6,2,1,0,Completed,true,false,false
+UA018052,18 Aug 19,5,Centenary Park,Carmelite,No. 3,Daniel Potkin,Sam Fasso,Daniel Potkin,6-2,6,2,1,0,Completed,true,false,false
+UA018052,18 Aug 19,5,Centenary Park,Carmelite,No. 4,Nathan Davidov,Jack Gaudry,Nathan Davidov,6-4,6,4,1,0,Completed,true,false,false
+UA018053,18 Aug 19,5,Le Page,Dendy Park,No. 1,Smail Chen,Miguel Najeras,Miguel Najeras,2-6,2,6,0,1,Completed,true,false,false
+UA018053,18 Aug 19,5,Le Page,Dendy Park,No. 2,Mitchell Campbell,Felix Nott,Felix Nott,3-6,3,6,0,1,Completed,true,false,false
+UA018053,18 Aug 19,5,Le Page,Dendy Park,No. 3,Nathan Lew,Harry Taphouse,Harry Taphouse,1-6,1,6,0,1,Completed,true,false,false
+UA018053,18 Aug 19,5,Le Page,Dendy Park,No. 4,Lochlan Bradley,Lihang Jiang,Lochlan Bradley,7-5,7,5,1,0,Completed,true,false,false
+UA018054,18 Aug 19,5,Victory Park,Parkdale,No. 1,Jack Campbell,Noah Zambiasi,Jack Campbell,7-5,7,5,1,0,Completed,true,false,false
+UA018054,18 Aug 19,5,Victory Park,Parkdale,No. 2,Gemma McGrath,Aris Papanicolau,Aris Papanicolau,0-6,0,6,0,1,Completed,true,false,false
+UA018054,18 Aug 19,5,Victory Park,Parkdale,No. 3,Jordan Typaldos,Charlton Humphrey,Jordan Typaldos,6-3,6,3,1,0,Completed,true,false,false
+UA018054,18 Aug 19,5,Victory Park,Parkdale,No. 4,Ishaan Tiwari,Bailey Corfeild,Bailey Corfeild,2-6,2,6,0,1,Completed,true,false,false
+UA018061,25 Aug 19,6,Parkdale,Highmoor Uniting,No. 1,Noah Zambiasi,Anya Khatsernov,Noah Zambiasi,7-5,7,5,1,0,Completed,true,false,false
+UA018061,25 Aug 19,6,Parkdale,Highmoor Uniting,No. 2,Aris Papanicolau,Talyssa Calabrese Tokov,Aris Papanicolau,6-1,6,1,1,0,Completed,true,false,false
+UA018061,25 Aug 19,6,Parkdale,Highmoor Uniting,No. 3,Charlton Humphrey,Olivia Frank,Olivia Frank,4-6,4,6,0,1,Completed,true,false,false
+UA018061,25 Aug 19,6,Parkdale,Highmoor Uniting,No. 4,Bailey Corfeild,Alexia Frank,Bailey Corfeild,6-0,6,0,1,0,Completed,true,false,false
+UA018062,25 Aug 19,6,Kooyong Xavier,Victory Park,No. 1,Hamish Wright,Cathy Lu,Hamish Wright,6-4,6,4,1,0,Completed,true,false,false
+UA018062,25 Aug 19,6,Kooyong Xavier,Victory Park,No. 2,Samuel Moore,Oscar Yeaman-Jones,Samuel Moore,6-1,6,1,1,0,Completed,true,false,false
+UA018062,25 Aug 19,6,Kooyong Xavier,Victory Park,No. 3,Louis Baeppler,Jordan Typaldos,Jordan Typaldos,5-7,5,7,0,1,Completed,true,false,false
+UA018062,25 Aug 19,6,Kooyong Xavier,Victory Park,No. 4,Charlie Portnoy,Ishaan Tiwari,Ishaan Tiwari,1-6,1,6,0,1,Completed,true,false,false
+UA018063,25 Aug 19,6,Carmelite,Le Page,No. 1,Charlotte Parletta,Yi Zhou,Charlotte Parletta,6-0,6,0,1,0,Completed,true,false,false
+UA018063,25 Aug 19,6,Carmelite,Le Page,No. 2,Oliver Earle,Smail Chen,Smail Chen,1-6,1,6,0,1,Completed,true,false,false
+UA018063,25 Aug 19,6,Carmelite,Le Page,No. 3,Hugho Schulz,Nathan Lew,Nathan Lew,4-6,4,6,0,1,Completed,true,false,false
+UA018063,25 Aug 19,6,Carmelite,Le Page,No. 4,Sam Fasso,Lochlan Bradley,Lochlan Bradley,0-6,0,6,0,1,Completed,true,false,false
+UA018064,25 Aug 19,6,Dendy Park,Centenary Park,No. 1,Miguel Najeras,Anton Pototsky,Miguel Najeras,6-4,6,4,1,0,Completed,true,false,false
+UA018064,25 Aug 19,6,Dendy Park,Centenary Park,No. 2,Felix Nott,Alize Fisher,Felix Nott,6-2,6,2,1,0,Completed,true,false,false
+UA018064,25 Aug 19,6,Dendy Park,Centenary Park,No. 3,Harry Taphouse,Taya Minin,Taya Minin,6-7,6,7,0,1,Completed,true,false,false
+UA018064,25 Aug 19,6,Dendy Park,Centenary Park,No. 4,Lihang Jiang,Daniel Potkin,Daniel Potkin,3-6,3,6,0,1,Completed,true,false,false
+UA018071,01 Sep 19,7,Victory Park,Highmoor Uniting,No. 1,Cathy Lu,Matthew Hayward,Matthew Hayward,3-6,3,6,0,1,Completed,true,false,false
+UA018071,01 Sep 19,7,Victory Park,Highmoor Uniting,No. 2,Jack Campbell,Anya Khatsernov,Anya Khatsernov,2-6,2,6,0,1,Completed,true,false,false
+UA018071,01 Sep 19,7,Victory Park,Highmoor Uniting,No. 3,Gemma McGrath,Sofia Fromberg,Sofia Fromberg,1-6,1,6,0,1,Completed,true,false,false
+UA018071,01 Sep 19,7,Victory Park,Highmoor Uniting,No. 4,Ishaan Tiwari,Talyssa Calabrese Tokov,Talyssa Calabrese Tokov,2-6,2,6,0,1,Completed,true,false,false
+UA018072,01 Sep 19,7,Parkdale,Kooyong Xavier,No. 1,Noah Zambiasi,Sophie Moore,Noah Zambiasi,6-1,6,1,1,0,Completed,true,false,false
+UA018072,01 Sep 19,7,Parkdale,Kooyong Xavier,No. 2,Aris Papanicolau,Samuel Moore,Aris Papanicolau,6-3,6,3,1,0,Completed,true,false,false
+UA018072,01 Sep 19,7,Parkdale,Kooyong Xavier,No. 3,Charlton Humphrey,Charlie Thompson,Charlie Thompson,3-6,3,6,0,1,Completed,true,false,false
+UA018072,01 Sep 19,7,Parkdale,Kooyong Xavier,No. 4,Bailey Corfeild,Thomas Cowlishaw,Bailey Corfeild,6-1,6,1,1,0,Completed,true,false,false
+UA018073,01 Sep 19,7,Centenary Park,Le Page,No. 1,Anton Pototsky,Yi Zhou,Anton Pototsky,6-3,6,3,1,0,Completed,true,false,false
+UA018073,01 Sep 19,7,Centenary Park,Le Page,No. 2,Alize Fisher,Smail Chen,Alize Fisher,7-6,7,6,1,0,Completed,true,false,false
+UA018073,01 Sep 19,7,Centenary Park,Le Page,No. 3,Taya Minin,Mitchell Campbell,Taya Minin,6-4,6,4,1,0,Completed,true,false,false
+UA018073,01 Sep 19,7,Centenary Park,Le Page,No. 4,Nathan Davidov,Nathan Lew,Nathan Lew,4-6,4,6,0,1,Completed,true,false,false
+UA018074,01 Sep 19,7,Carmelite,Dendy Park,No. 1,Charlotte Parletta,Manol Atanasov,Manol Atanasov,4-6,4,6,0,1,Completed,true,false,false
+UA018074,01 Sep 19,7,Carmelite,Dendy Park,No. 2,Oliver Earle,Miguel Najeras,Miguel Najeras,0-6,0,6,0,1,Completed,true,false,false
+UA018074,01 Sep 19,7,Carmelite,Dendy Park,No. 3,Sam Fasso,Slade Caldwell,Slade Caldwell,2-6,2,6,0,1,Completed,true,false,false
+UA018074,01 Sep 19,7,Carmelite,Dendy Park,No. 4,Jack Gaudry,Felix Nott,Felix Nott,4-6,4,6,0,1,Completed,true,false,false
+UA018081,08 Sep 19,8,Dendy Park,Victory Park,No. 1,Slade Caldwell,Cathy Lu,Slade Caldwell,6-4,6,4,1,0,Completed,true,false,false
+UA018081,08 Sep 19,8,Dendy Park,Victory Park,No. 2,Felix Nott,Oscar Yeaman-Jones,Oscar Yeaman-Jones,4-6,4,6,0,1,Completed,true,false,false
+UA018081,08 Sep 19,8,Dendy Park,Victory Park,No. 3,Harry Taphouse,Jordan Typaldos,Jordan Typaldos,2-6,2,6,0,1,Completed,true,false,false
+UA018081,08 Sep 19,8,Dendy Park,Victory Park,No. 4,Lihang Jiang,Ishaan Tiwari,Ishaan Tiwari,3-6,3,6,0,1,Completed,true,false,false
+UA018082,08 Sep 19,8,Le Page,Parkdale,No. 1,Yi Zhou,Aris Papanicolau,Yi Zhou,6-3,6,3,1,0,Completed,true,false,false
+UA018082,08 Sep 19,8,Le Page,Parkdale,No. 2,Mitchell Campbell,Charlton Humphrey,Mitchell Campbell,6-2,6,2,1,0,Completed,true,false,false
+UA018082,08 Sep 19,8,Le Page,Parkdale,No. 3,Nathan Lew,Bailey Corfeild,Bailey Corfeild,6-7,6,7,0,1,Completed,true,false,false
+UA018082,08 Sep 19,8,Le Page,Parkdale,No. 4,Lochlan Bradley,Luca Zambiasi,Lochlan Bradley,6-4,6,4,1,0,Completed,true,false,false
+UA018083,08 Sep 19,8,Carmelite,Highmoor Uniting,No. 1,Oliver Earle,Matthew Hayward,Matthew Hayward,1-6,1,6,0,1,Completed,true,false,false
+UA018083,08 Sep 19,8,Carmelite,Highmoor Uniting,No. 2,Hugho Schulz,Anya Khatsernov,Anya Khatsernov,3-6,3,6,0,1,Completed,true,false,false
+UA018083,08 Sep 19,8,Carmelite,Highmoor Uniting,No. 3,Sam Fasso,Sofia Fromberg,Sofia Fromberg,0-6,0,6,0,1,Completed,true,false,false
+UA018083,08 Sep 19,8,Carmelite,Highmoor Uniting,No. 4,Jack Gaudry,Talyssa Calabrese Tokov,Talyssa Calabrese Tokov,3-6,3,6,0,1,Completed,true,false,false
+UA018084,08 Sep 19,8,Centenary Park,Kooyong Xavier,No. 1,Herman Mitin,Hamish Wright,Herman Mitin,6-2,6,2,1,0,Completed,true,false,false
+UA018084,08 Sep 19,8,Centenary Park,Kooyong Xavier,No. 2,Taya Minin,Samuel Moore,Taya Minin,7-6,7,6,1,0,Completed,true,false,false
+UA018084,08 Sep 19,8,Centenary Park,Kooyong Xavier,No. 3,Daniel Potkin,Louis Baeppler,Daniel Potkin,6-1,6,1,1,0,Completed,true,false,false
+UA018084,08 Sep 19,8,Centenary Park,Kooyong Xavier,No. 4,Nathan Davidov,Charlie Portnoy,Nathan Davidov,6-2,6,2,1,0,Completed,true,false,false
+UA018091,15 Sep 19,9,Victory Park,Centenary Park,No. 1,Cathy Lu,Anton Pototsky,Anton Pototsky,1-6,1,6,0,1,Completed,true,false,false
+UA018091,15 Sep 19,9,Victory Park,Centenary Park,No. 2,Jack Campbell,Alize Fisher,Jack Campbell,6-4,6,4,1,0,Completed,true,false,false
+UA018091,15 Sep 19,9,Victory Park,Centenary Park,No. 3,Gemma McGrath,Daniel Potkin,Daniel Potkin,2-6,2,6,0,1,Completed,true,false,false
+UA018091,15 Sep 19,9,Victory Park,Centenary Park,No. 4,Ishaan Tiwari,Nathan Davidov,Ishaan Tiwari,6-2,6,2,1,0,Completed,true,false,false
+UA018092,15 Sep 19,9,Parkdale,Dendy Park,No. 1,Noah Zambiasi,Manol Atanasov,Noah Zambiasi,6-3,6,3,1,0,Completed,true,false,false
+UA018092,15 Sep 19,9,Parkdale,Dendy Park,No. 2,Aris Papanicolau,Miguel Najeras,Miguel Najeras,0-6,0,6,0,1,Completed,true,false,false
+UA018092,15 Sep 19,9,Parkdale,Dendy Park,No. 3,Charlton Humphrey,Felix Nott,Felix Nott,0-6,0,6,0,1,Completed,true,false,false
+UA018092,15 Sep 19,9,Parkdale,Dendy Park,No. 4,Luca Rodrigues,Lihang Jiang,Luca Rodrigues,6-3,6,3,1,0,Completed,true,false,false
+UA018093,15 Sep 19,9,Highmoor Uniting,Le Page,No. 1,Matthew Hayward,Yi Zhou,Matthew Hayward,6-1,6,1,1,0,Completed,true,false,false
+UA018093,15 Sep 19,9,Highmoor Uniting,Le Page,No. 2,Sofia Fromberg,Mitchell Campbell,Sofia Fromberg,6-1,6,1,1,0,Completed,true,false,false
+UA018093,15 Sep 19,9,Highmoor Uniting,Le Page,No. 3,Talyssa Calabrese Tokov,Lochlan Bradley,Lochlan Bradley,0-6,0,6,0,1,Completed,true,false,false
+UA018093,15 Sep 19,9,Highmoor Uniting,Le Page,No. 4,Miller Bennett,Shyam Nagarajan,Shyam Nagarajan,0-6,0,6,0,1,Completed,true,false,false
+UA018094,15 Sep 19,9,Kooyong Xavier,Carmelite,No. 1,Hamish Wright,Charlotte Parletta,Charlotte Parletta,5-7,5,7,0,1,Completed,true,false,false
+UA018094,15 Sep 19,9,Kooyong Xavier,Carmelite,No. 2,Sophie Moore,Oliver Earle,Sophie Moore,6-4,6,4,1,0,Completed,true,false,false
+UA018094,15 Sep 19,9,Kooyong Xavier,Carmelite,No. 3,Samuel Moore,Hugho Schulz,Hugho Schulz,3-6,3,6,0,1,Completed,true,false,false
+UA018094,15 Sep 19,9,Kooyong Xavier,Carmelite,No. 4,Charlie Portnoy,Sam Fasso,Charlie Portnoy,6-2,6,2,1,0,Completed,true,false,false
+UA018102,13 Oct 19,10,Centenary Park,Parkdale,No. 1,Herman Mitin,Noah Zambiasi,Noah Zambiasi,4-6,4,6,0,1,Completed,true,false,false
+UA018102,13 Oct 19,10,Centenary Park,Parkdale,No. 2,Anton Pototsky,Aris Papanicolau,Aris Papanicolau,5-7,5,7,0,1,Completed,true,false,false
+UA018102,13 Oct 19,10,Centenary Park,Parkdale,No. 3,Alize Fisher,Luca Rodrigues,Alize Fisher,6-2,6,2,1,0,Completed,true,false,false
+UA018102,13 Oct 19,10,Centenary Park,Parkdale,No. 4,Taya Minin,Bailey Corfeild,Bailey Corfeild,5-7,5,7,0,1,Completed,true,false,false
+UA018103,13 Oct 19,10,Dendy Park,Highmoor Uniting,No. 1,Manol Atanasov,Anya Khatsernov,Manol Atanasov,6-3,6,3,1,0,Completed,true,false,false
+UA018103,13 Oct 19,10,Dendy Park,Highmoor Uniting,No. 2,Miguel Najeras,Sofia Fromberg,Miguel Najeras,6-1,6,1,1,0,Completed,true,false,false
+UA018103,13 Oct 19,10,Dendy Park,Highmoor Uniting,No. 3,Slade Caldwell,Talyssa Calabrese Tokov,Slade Caldwell,6-2,6,2,1,0,Completed,true,false,false
+UA018103,13 Oct 19,10,Dendy Park,Highmoor Uniting,No. 4,Felix Nott,Olivia Frank,Olivia Frank,1-6,1,6,0,1,Completed,true,false,false
+UA018104,13 Oct 19,10,Le Page,Kooyong Xavier,No. 1,Yi Zhou,Sophie Moore,Sophie Moore,4-6,4,6,0,1,Completed,true,false,false
+UA018104,13 Oct 19,10,Le Page,Kooyong Xavier,No. 2,Smail Chen,Samuel Moore,Samuel Moore,0-6,0,6,0,1,Completed,true,false,false
+UA018104,13 Oct 19,10,Le Page,Kooyong Xavier,No. 3,Mitchell Campbell,Louis Baeppler,Mitchell Campbell,7-6,7,6,1,0,Completed,true,false,false
+UA018104,13 Oct 19,10,Le Page,Kooyong Xavier,No. 4,Rafael Trias,Charlie Portnoy,Rafael Trias,6-2,6,2,1,0,Completed,true,false,false
+UA018111,20 Oct 19,11,Victory Park,Le Page,No. 1,Cathy Lu,Smail Chen,Smail Chen,3-6,3,6,0,1,Completed,true,false,false
+UA018111,20 Oct 19,11,Victory Park,Le Page,No. 2,Jack Campbell,Mitchell Campbell,Jack Campbell,6-3,6,3,1,0,Completed,true,false,false
+UA018111,20 Oct 19,11,Victory Park,Le Page,No. 3,Gemma McGrath,Nathan Lew,Nathan Lew,3-6,3,6,0,1,Completed,true,false,false
+UA018111,20 Oct 19,11,Victory Park,Le Page,No. 4,Jordan Typaldos,Lochlan Bradley,Jordan Typaldos,6-4,6,4,1,0,Completed,true,false,false
+UA018112,20 Oct 19,11,Parkdale,Carmelite,No. 1,Noah Zambiasi,Charlotte Parletta,Noah Zambiasi,6-1,6,1,1,0,Completed,true,false,false
+UA018112,20 Oct 19,11,Parkdale,Carmelite,No. 2,Aris Papanicolau,Kobe Earle,Aris Papanicolau,6-0,6,0,1,0,Completed,true,false,false
+UA018112,20 Oct 19,11,Parkdale,Carmelite,No. 3,Charlton Humphrey,Oliver Earle,Oliver Earle,4-6,4,6,0,1,Completed,true,false,false
+UA018112,20 Oct 19,11,Parkdale,Carmelite,No. 4,Luca Rodrigues,Sam Fasso,Luca Rodrigues,6-1,6,1,1,0,Completed,true,false,false
+UA018114,20 Oct 19,11,Kooyong Xavier,Dendy Park,No. 1,Hamish Wright,Manol Atanasov,Manol Atanasov,1-6,1,6,0,1,Completed,true,false,false
+UA018114,20 Oct 19,11,Kooyong Xavier,Dendy Park,No. 2,Samuel Moore,Slade Caldwell,Slade Caldwell,2-6,2,6,0,1,Completed,true,false,false
+UA018114,20 Oct 19,11,Kooyong Xavier,Dendy Park,No. 3,Louis Baeppler,Felix Nott,Felix Nott,1-6,1,6,0,1,Completed,true,false,false
+UA018114,20 Oct 19,11,Kooyong Xavier,Dendy Park,No. 4,Charlie Portnoy,Lihang Jiang,Lihang Jiang,2-6,2,6,0,1,Completed,true,false,false
+UA018121,27 Oct 19,12,Kooyong Xavier,Highmoor Uniting,No. 1,Hamish Wright,Anya Khatsernov,Anya Khatsernov,1-6,1,6,0,1,Completed,true,false,false
+UA018121,27 Oct 19,12,Kooyong Xavier,Highmoor Uniting,No. 2,Louis Baeppler,Talyssa Calabrese Tokov,Talyssa Calabrese Tokov,2-6,2,6,0,1,Completed,true,false,false
+UA018121,27 Oct 19,12,Kooyong Xavier,Highmoor Uniting,No. 3,Charlie Portnoy,Olivia Frank,Olivia Frank,0-6,0,6,0,1,Completed,true,false,false
+UA018121,27 Oct 19,12,Kooyong Xavier,Highmoor Uniting,No. 4,Charlie Thompson,Miller Bennett,Charlie Thompson,6-1,6,1,1,0,Completed,true,false,false
+UA018122,27 Oct 19,12,Carmelite,Centenary Park,No. 1,Kobe Earle,Herman Mitin,Herman Mitin,0-6,0,6,0,1,Completed,true,false,false
+UA018122,27 Oct 19,12,Carmelite,Centenary Park,No. 2,Hugho Schulz,Alize Fisher,Alize Fisher,1-6,1,6,0,1,Completed,true,false,false
+UA018122,27 Oct 19,12,Carmelite,Centenary Park,No. 3,Sam Fasso,Taya Minin,Taya Minin,1-6,1,6,0,1,Completed,true,false,false
+UA018122,27 Oct 19,12,Carmelite,Centenary Park,No. 4,Jack Gaudry,Daniel Potkin,Daniel Potkin,1-6,1,6,0,1,Completed,true,false,false
+UA018123,27 Oct 19,12,Dendy Park,Le Page,No. 1,Miguel Najeras,Yi Zhou,Miguel Najeras,6-2,6,2,1,0,Completed,true,false,false
+UA018123,27 Oct 19,12,Dendy Park,Le Page,No. 2,Slade Caldwell,Smail Chen,Smail Chen,6-7,6,7,0,1,Completed,true,false,false
+UA018123,27 Oct 19,12,Dendy Park,Le Page,No. 3,Harry Taphouse,Mitchell Campbell,Mitchell Campbell,2-6,2,6,0,1,Completed,true,false,false
+UA018123,27 Oct 19,12,Dendy Park,Le Page,No. 4,Lihang Jiang,Nathan Lew,Nathan Lew,4-6,4,6,0,1,Completed,true,false,false
+UA018124,27 Oct 19,12,Parkdale,Victory Park,No. 1,Noah Zambiasi,Cathy Lu,Noah Zambiasi,6-1,6,1,1,0,Completed,true,false,false
+UA018124,27 Oct 19,12,Parkdale,Victory Park,No. 2,Aris Papanicolau,Oscar Yeaman-Jones,Aris Papanicolau,6-3,6,3,1,0,Completed,true,false,false
+UA018124,27 Oct 19,12,Parkdale,Victory Park,No. 3,Charlton Humphrey,Jack Campbell,Jack Campbell,0-6,0,6,0,1,Completed,true,false,false
+UA018124,27 Oct 19,12,Parkdale,Victory Park,No. 4,Bailey Corfeild,Jordan Typaldos,Jordan Typaldos,4-6,4,6,0,1,Completed,true,false,false
+UA018131,10 Nov 19,13,Highmoor Uniting,Parkdale,No. 1,Matthew Hayward,Noah Zambiasi,Noah Zambiasi,2-6,2,6,0,1,Completed,true,false,false
+UA018131,10 Nov 19,13,Highmoor Uniting,Parkdale,No. 2,Anya Khatsernov,Charlton Humphrey,Anya Khatsernov,6-2,6,2,1,0,Completed,true,false,false
+UA018131,10 Nov 19,13,Highmoor Uniting,Parkdale,No. 3,Sofia Fromberg,Bailey Corfeild,Sofia Fromberg,7-5,7,5,1,0,Completed,true,false,false
+UA018131,10 Nov 19,13,Highmoor Uniting,Parkdale,No. 4,Olivia Frank,Luca Rodrigues,Olivia Frank,6-0,6,0,1,0,Completed,true,false,false
+UA018132,10 Nov 19,13,Victory Park,Kooyong Xavier,No. 1,Cathy Lu,Hamish Wright,Hamish Wright,0-6,0,6,0,1,Completed,true,false,false
+UA018132,10 Nov 19,13,Victory Park,Kooyong Xavier,No. 2,Oscar Yeaman-Jones,Louis Baeppler,Oscar Yeaman-Jones,6-2,6,2,1,0,Completed,true,false,false
+UA018132,10 Nov 19,13,Victory Park,Kooyong Xavier,No. 3,Jack Campbell,Charlie Portnoy,Jack Campbell,6-2,6,2,1,0,Completed,true,false,false
+UA018132,10 Nov 19,13,Victory Park,Kooyong Xavier,No. 4,Gemma McGrath,Dylan Li,Dylan Li,0-6,0,6,0,1,Completed,true,false,false
+UA018133,10 Nov 19,13,Le Page,Carmelite,No. 1,Yi Zhou,Kobe Earle,Yi Zhou,6-4,6,4,1,0,Completed,true,false,false
+UA018133,10 Nov 19,13,Le Page,Carmelite,No. 2,Mitchell Campbell,Charlotte Parletta,Charlotte Parletta,3-6,3,6,0,1,Completed,true,false,false
+UA018133,10 Nov 19,13,Le Page,Carmelite,No. 3,Nathan Lew,Hugho Schulz,Nathan Lew,6-3,6,3,1,0,Completed,true,false,false
+UA018133,10 Nov 19,13,Le Page,Carmelite,No. 4,Lochlan Bradley,Sam Fasso,Lochlan Bradley,6-1,6,1,1,0,Completed,true,false,false
+UA018142,17 Nov 19,14,Kooyong Xavier,Parkdale,No. 1,Hamish Wright,Aris Papanicolau,Aris Papanicolau,1-6,1,6,0,1,Completed,true,false,false
+UA018142,17 Nov 19,14,Kooyong Xavier,Parkdale,No. 2,Samuel Moore,Charlton Humphrey,Samuel Moore,6-1,6,1,1,0,Completed,true,false,false
+UA018142,17 Nov 19,14,Kooyong Xavier,Parkdale,No. 3,Louis Baeppler,Bailey Corfeild,Bailey Corfeild,4-6,4,6,0,1,Completed,true,false,false
+UA018142,17 Nov 19,14,Kooyong Xavier,Parkdale,No. 4,Dylan Li,Luca Rodrigues,Dylan Li,6-3,6,3,1,0,Completed,true,false,false
+UA018143,17 Nov 19,14,Le Page,Centenary Park,No. 1,Yi Zhou,Herman Mitin,Herman Mitin,1-6,1,6,0,1,Completed,true,false,false
+UA018143,17 Nov 19,14,Le Page,Centenary Park,No. 2,Smail Chen,Anton Pototsky,Anton Pototsky,1-6,1,6,0,1,Completed,true,false,false
+UA018143,17 Nov 19,14,Le Page,Centenary Park,No. 3,Nathan Lew,Daniel Potkin,Nathan Lew,6-4,6,4,1,0,Completed,true,false,false
+UA018143,17 Nov 19,14,Le Page,Centenary Park,No. 4,Lochlan Bradley,Nathan Davidov,Lochlan Bradley,6-1,6,1,1,0,Completed,true,false,false
+UA018144,17 Nov 19,14,Dendy Park,Carmelite,No. 1,Slade Caldwell,Charlotte Parletta,Slade Caldwell,6-1,6,1,1,0,Completed,true,false,false
+UA018144,17 Nov 19,14,Dendy Park,Carmelite,No. 2,Felix Nott,Oliver Earle,Felix Nott,6-0,6,0,1,0,Completed,true,false,false
+UA018144,17 Nov 19,14,Dendy Park,Carmelite,No. 3,Harry Taphouse,Sam Fasso,Harry Taphouse,6-0,6,0,1,0,Completed,true,false,false
+UA018144,17 Nov 19,14,Dendy Park,Carmelite,No. 4,Lihang Jiang,Jack Gaudry,Jack Gaudry,1-6,1,6,0,1,Completed,true,false,false
+UA018301,,16,Dendy Park,Parkdale,No. 1,Miguel Najeras,Noah Zambiasi,Miguel Najeras,6-3,6,3,1,0,Completed,true,false,false
+UA018301,,16,Dendy Park,Parkdale,No. 2,Slade Caldwell,Aris Papanicolau,Aris Papanicolau,4-6,4,6,0,1,Completed,true,false,false
+UA018301,,16,Dendy Park,Parkdale,No. 3,Felix Nott,Bailey Corfeild,Felix Nott,6-1,6,1,1,0,Completed,true,false,false
+UA018301,,16,Dendy Park,Parkdale,No. 4,Harry Taphouse,Luca Rodrigues,Harry Taphouse,6-1,6,1,1,0,Completed,true,false,false
+UA018302,,16,Highmoor Uniting,Centenary Park,No. 1,Matthew Hayward,Herman Mitin,Matthew Hayward,6-0,6,0,1,0,Completed,true,false,false
+UA018302,,16,Highmoor Uniting,Centenary Park,No. 2,Anya Khatsernov,Anton Pototsky,Anya Khatsernov,6-3,6,3,1,0,Completed,true,false,false
+UA018302,,16,Highmoor Uniting,Centenary Park,No. 3,Sofia Fromberg,Daniel Potkin,Daniel Potkin,5-7,5,7,0,1,Completed,true,false,false
+UA018302,,16,Highmoor Uniting,Centenary Park,No. 4,Olivia Frank,Nathan Davidov,Olivia Frank,6-4,6,4,1,0,Completed,true,false,false
+UA018321,,17,Dendy Park,Highmoor Uniting,No. 1,Manol Atanasov,Matthew Hayward,Matthew Hayward,4-6,4,6,0,1,Completed,true,false,false
+UA018321,,17,Dendy Park,Highmoor Uniting,No. 2,Miguel Najeras,Anya Khatsernov,Miguel Najeras,6-2,6,2,1,0,Completed,true,false,false
+UA018321,,17,Dendy Park,Highmoor Uniting,No. 3,Slade Caldwell,Sofia Fromberg,Slade Caldwell,6-2,6,2,1,0,Completed,true,false,false
+UA018321,,17,Dendy Park,Highmoor Uniting,No. 4,Harry Taphouse,Olivia Frank,Olivia Frank,1-6,1,6,0,1,Completed,true,false,false

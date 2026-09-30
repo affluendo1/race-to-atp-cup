@@ -1,0 +1,121 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+AA002012,16 Jul 22,1,Carmelite Yellow,Carmelite Blue,No. 1,Henry Haggett,Stephanie Fourlanos,Stephanie Fourlanos,2-6,2,6,0,1,Completed,true,false,false
+AA002012,16 Jul 22,1,Carmelite Yellow,Carmelite Blue,No. 2,George Richardson,Anna Fourlanos,Anna Fourlanos,6-7,6,7,0,1,Completed,true,false,false
+AA002012,16 Jul 22,1,Carmelite Yellow,Carmelite Blue,No. 3,Edward Earle,Jocelyn Doig,Jocelyn Doig,1-6,1,6,0,1,Completed,true,false,false
+AA002012,16 Jul 22,1,Carmelite Yellow,Carmelite Blue,No. 4,Ewan Karanoskof,Gene Tullah,Gene Tullah,4-6,4,6,0,1,Completed,true,false,false
+AA002013,16 Jul 22,1,Carmelite Red,Carmelite Green,No. 1,Zack Slade,William Kerlidis,Zack Slade,6-1,6,1,1,0,Completed,true,false,false
+AA002013,16 Jul 22,1,Carmelite Red,Carmelite Green,No. 2,Harry Law,Louis Barnett,Louis Barnett,1-6,1,6,0,1,Completed,true,false,false
+AA002013,16 Jul 22,1,Carmelite Red,Carmelite Green,No. 3,Rehan Senthi,Gabriel Ferrigno,Rehan Senthi,6-2,6,2,1,0,Completed,true,false,false
+AA002013,16 Jul 22,1,Carmelite Red,Carmelite Green,No. 4,Zachary Unsworth,Ethan Watson,Zachary Unsworth,6-2,6,2,1,0,Completed,true,false,false
+AA002031,30 Jul 22,3,Port Melbourne Gold,Carmelite Yellow,No. 1,Lucas Daskalos,Ben Lobley,Ben Lobley,2-6,2,6,0,1,Completed,true,false,false
+AA002031,30 Jul 22,3,Port Melbourne Gold,Carmelite Yellow,No. 2,Nicholas Iosifidis,Henry Haggett,Henry Haggett,1-6,1,6,0,1,Completed,true,false,false
+AA002031,30 Jul 22,3,Port Melbourne Gold,Carmelite Yellow,No. 3,Ethan Brys,Kalan Thomas,Kalan Thomas,0-6,0,6,0,1,Completed,true,false,false
+AA002031,30 Jul 22,3,Port Melbourne Gold,Carmelite Yellow,No. 4,Willam Yelland,Lucas Haggett,Willam Yelland,6-4,6,4,1,0,Completed,true,false,false
+AA002033,30 Jul 22,3,Carmelite Green,Carmelite Blue,No. 1,William Kerlidis,Stephanie Fourlanos,Stephanie Fourlanos,5-7,5,7,0,1,Completed,true,false,false
+AA002033,30 Jul 22,3,Carmelite Green,Carmelite Blue,No. 2,Gabriel Ferrigno,Anna Fourlanos,Anna Fourlanos,4-6,4,6,0,1,Completed,true,false,false
+AA002033,30 Jul 22,3,Carmelite Green,Carmelite Blue,No. 3,Ethan Watson,Gene Tullah,Ethan Watson,6-4,6,4,1,0,Completed,true,false,false
+AA002033,30 Jul 22,3,Carmelite Green,Carmelite Blue,No. 4,Zavier Galanis,Charlie-grace Galanis,Charlie-grace Galanis,2-6,2,6,0,1,Completed,true,false,false
+AA002041,06 Aug 22,4,Carmelite Blue,Port Melbourne Gold,No. 1,Stephanie Fourlanos,Bryson Walters,Stephanie Fourlanos,6-3,6,3,1,0,Completed,true,false,false
+AA002041,06 Aug 22,4,Carmelite Blue,Port Melbourne Gold,No. 2,Anna Fourlanos,Lucas Daskalos,Lucas Daskalos,4-6,4,6,0,1,Completed,true,false,false
+AA002041,06 Aug 22,4,Carmelite Blue,Port Melbourne Gold,No. 3,Charlie-grace Galanis,Ethan Brys,Charlie-grace Galanis,6-1,6,1,1,0,Completed,true,false,false
+AA002041,06 Aug 22,4,Carmelite Blue,Port Melbourne Gold,No. 4,Gene Tullah,Willam Yelland,Gene Tullah,6-4,6,4,1,0,Completed,true,false,false
+AA002043,06 Aug 22,4,Carmelite Yellow,Carmelite Red,No. 1,Ben Lobley,Harry Law,Ben Lobley,6-2,6,2,1,0,Completed,true,false,false
+AA002043,06 Aug 22,4,Carmelite Yellow,Carmelite Red,No. 2,George Richardson,Aleksandar McKenzie,George Richardson,6-3,6,3,1,0,Completed,true,false,false
+AA002043,06 Aug 22,4,Carmelite Yellow,Carmelite Red,No. 3,Lucas Haggett,Rehan Senthi,Rehan Senthi,2-6,2,6,0,1,Completed,true,false,false
+AA002043,06 Aug 22,4,Carmelite Yellow,Carmelite Red,No. 4,Tom Stevenson,Zachary Unsworth,Zachary Unsworth,4-6,4,6,0,1,Completed,true,false,false
+AA002051,13 Aug 22,5,Port Melbourne Gold,Carmelite Red,No. 1,Bryson Walters,Zack Slade,Zack Slade,1-6,1,6,0,1,Completed,true,false,false
+AA002051,13 Aug 22,5,Port Melbourne Gold,Carmelite Red,No. 2,Lucas Daskalos,Harry Law,Lucas Daskalos,7-5,7,5,1,0,Completed,true,false,false
+AA002051,13 Aug 22,5,Port Melbourne Gold,Carmelite Red,No. 3,Willam Yelland,Aleksandar McKenzie,Willam Yelland,7-6,7,6,1,0,Completed,true,false,false
+AA002051,13 Aug 22,5,Port Melbourne Gold,Carmelite Red,No. 4,Nicholas Iosifidis,Zachary Unsworth,Zachary Unsworth,5-7,5,7,0,1,Completed,true,false,false
+AA002053,13 Aug 22,5,Carmelite Green,Carmelite Yellow,No. 1,Liam McKeefry,Ben Lobley,Ben Lobley,0-6,0,6,0,1,Completed,true,false,false
+AA002053,13 Aug 22,5,Carmelite Green,Carmelite Yellow,No. 2,William Kerlidis,Henry Haggett,Henry Haggett,4-6,4,6,0,1,Completed,true,false,false
+AA002053,13 Aug 22,5,Carmelite Green,Carmelite Yellow,No. 3,Louis Barnett,Edward Earle,Louis Barnett,7-6,7,6,1,0,Completed,true,false,false
+AA002053,13 Aug 22,5,Carmelite Green,Carmelite Yellow,No. 4,Zavier Galanis,Tom Stevenson,Zavier Galanis,6-1,6,1,1,0,Completed,true,false,false
+AA002071,27 Aug 22,7,Port Melbourne Gold,Carmelite Green,No. 1,Bryson Walters,Liam McKeefry,Liam McKeefry,0-6,0,6,0,1,Completed,true,false,false
+AA002071,27 Aug 22,7,Port Melbourne Gold,Carmelite Green,No. 2,Stefan Karapandzic,Gabriel Ferrigno,Stefan Karapandzic,6-4,6,4,1,0,Completed,true,false,false
+AA002071,27 Aug 22,7,Port Melbourne Gold,Carmelite Green,No. 3,Ethan Brys,Ethan Watson,Ethan Brys,7-5,7,5,1,0,Completed,true,false,false
+AA002071,27 Aug 22,7,Port Melbourne Gold,Carmelite Green,No. 4,Willam Yelland,Zavier Galanis,Willam Yelland,6-3,6,3,1,0,Completed,true,false,false
+AA002072,27 Aug 22,7,Carmelite Red,Carmelite Blue,No. 1,Zack Slade,Stephanie Fourlanos,Stephanie Fourlanos,3-6,3,6,0,1,Completed,true,false,false
+AA002072,27 Aug 22,7,Carmelite Red,Carmelite Blue,No. 2,Harry Law,Anna Fourlanos,Anna Fourlanos,2-6,2,6,0,1,Completed,true,false,false
+AA002072,27 Aug 22,7,Carmelite Red,Carmelite Blue,No. 3,Aleksandar McKenzie,Jocelyn Doig,Aleksandar McKenzie,6-1,6,1,1,0,Completed,true,false,false
+AA002072,27 Aug 22,7,Carmelite Red,Carmelite Blue,No. 4,Zachary Unsworth,Charlie-grace Galanis,Charlie-grace Galanis,2-6,2,6,0,1,Completed,true,false,false
+AA002073,27 Aug 22,7,Carmelite Yellow,Kooyong,No. 1,Edward Earle,Edward Pollard,Edward Pollard,0-6,0,6,0,1,Completed,true,false,false
+AA002073,27 Aug 22,7,Carmelite Yellow,Kooyong,No. 2,Will Fitzpatrick,George Stevens,George Stevens,4-6,4,6,0,1,Completed,true,true,false
+AA002073,27 Aug 22,7,Carmelite Yellow,Kooyong,No. 3,Hugo Dinelli,Henry Colbert,Hugo Dinelli,6-0,6,0,1,0,Completed,true,false,false
+AA002073,27 Aug 22,7,Carmelite Yellow,Kooyong,No. 4,William Kerlidis,William Stevens,William Kerlidis,6-1,6,1,1,0,Completed,true,true,false
+AA002081,03 Sep 22,8,Carmelite Yellow,Port Melbourne Gold,No. 1,George Richardson,Lucas Daskalos,Lucas Daskalos,3-6,3,6,0,1,Completed,true,false,false
+AA002081,03 Sep 22,8,Carmelite Yellow,Port Melbourne Gold,No. 2,Stefan Savic,Stefan Karapandzic,Stefan Karapandzic,3-6,3,6,0,1,Completed,true,true,false
+AA002081,03 Sep 22,8,Carmelite Yellow,Port Melbourne Gold,No. 3,Will Fitzpatrick,Ethan Brys,Will Fitzpatrick,6-0,6,0,1,0,Completed,true,true,false
+AA002081,03 Sep 22,8,Carmelite Yellow,Port Melbourne Gold,No. 4,Hugo Dinelli,Willam Yelland,Willam Yelland,6-7,6,7,0,1,Completed,true,false,false
+AA002082,03 Sep 22,8,Kooyong,Carmelite Red,No. 1,Montgomery Bernadou,Harry Law,Montgomery Bernadou,6-0,6,0,1,0,Completed,true,false,false
+AA002082,03 Sep 22,8,Kooyong,Carmelite Red,No. 2,George Stevens,Rehan Senthi,George Stevens,6-2,6,2,1,0,Completed,true,false,false
+AA002082,03 Sep 22,8,Kooyong,Carmelite Red,No. 3,Oliver Dennis,Ethan Watson,Ethan Watson,4-6,4,6,0,1,Completed,true,false,true
+AA002082,03 Sep 22,8,Kooyong,Carmelite Red,No. 4,William Stevens,Zachary Unsworth,Zachary Unsworth,5-7,5,7,0,1,Completed,true,false,false
+AA002083,03 Sep 22,8,Carmelite Blue,Carmelite Green,No. 1,Anna Fourlanos,Liam McKeefry,Anna Fourlanos,6-2,6,2,1,0,Completed,true,false,false
+AA002083,03 Sep 22,8,Carmelite Blue,Carmelite Green,No. 2,Gene Tullah,William Kerlidis,William Kerlidis,1-6,1,6,0,1,Completed,true,false,false
+AA002083,03 Sep 22,8,Carmelite Blue,Carmelite Green,No. 3,Charlie-grace Galanis,Louis Barnett,Charlie-grace Galanis,6-1,6,1,1,0,Completed,true,false,false
+AA002083,03 Sep 22,8,Carmelite Blue,Carmelite Green,No. 4,Zavier Galanis,Gabriel Ferrigno,Gabriel Ferrigno,4-6,4,6,0,1,Completed,true,true,false
+AA002101,08 Oct 22,10,Carmelite Red,Port Melbourne Gold,No. 1,Harry Law,Bryson Walters,Harry Law,7-5,7,5,1,0,Completed,true,false,false
+AA002101,08 Oct 22,10,Carmelite Red,Port Melbourne Gold,No. 2,Topi Wilson,Lucas Daskalos,Topi Wilson,6-4,6,4,1,0,Completed,true,false,false
+AA002101,08 Oct 22,10,Carmelite Red,Port Melbourne Gold,No. 3,Rehan Senthi,Stefan Karapandzic,Stefan Karapandzic,2-6,2,6,0,1,Completed,true,false,false
+AA002101,08 Oct 22,10,Carmelite Red,Port Melbourne Gold,No. 4,Zachary Unsworth,Willam Yelland,Zachary Unsworth,6-3,6,3,1,0,Completed,true,false,false
+AA002102,08 Oct 22,10,Kooyong,Carmelite Blue,No. 1,Edward Pollard,Stephanie Fourlanos,Edward Pollard,6-2,6,2,1,0,Completed,true,false,false
+AA002102,08 Oct 22,10,Kooyong,Carmelite Blue,No. 2,Montgomery Bernadou,Anna Fourlanos,Montgomery Bernadou,6-3,6,3,1,0,Completed,true,false,false
+AA002102,08 Oct 22,10,Kooyong,Carmelite Blue,No. 3,Oliver Dennis,Jocelyn Doig,Oliver Dennis,6-0,6,0,1,0,Completed,true,false,false
+AA002102,08 Oct 22,10,Kooyong,Carmelite Blue,No. 4,Henry Colbert,Hugo Dinelli,Hugo Dinelli,0-6,0,6,0,1,Completed,true,false,true
+AA002103,08 Oct 22,10,Carmelite Yellow,Carmelite Green,No. 1,Henry Haggett,Liam McKeefry,Henry Haggett,6-4,6,4,1,0,Completed,true,false,false
+AA002103,08 Oct 22,10,Carmelite Yellow,Carmelite Green,No. 2,Edward Earle,Louis Barnett,Louis Barnett,1-6,1,6,0,1,Completed,true,false,false
+AA002103,08 Oct 22,10,Carmelite Yellow,Carmelite Green,No. 3,Ewan Karanoskof,Ethan Watson,Ethan Watson,6-7,6,7,0,1,Completed,true,false,false
+AA002103,08 Oct 22,10,Carmelite Yellow,Carmelite Green,No. 4,Tom Stevenson,Zavier Galanis,Tom Stevenson,6-4,6,4,1,0,Completed,true,false,false
+AA002111,15 Oct 22,11,Port Melbourne Gold,Kooyong,No. 1,Bryson Walters,Montgomery Bernadou,Bryson Walters,6-4,6,4,1,0,Completed,true,false,false
+AA002111,15 Oct 22,11,Port Melbourne Gold,Kooyong,No. 2,Stefan Karapandzic,George Stevens,Stefan Karapandzic,6-2,6,2,1,0,Completed,true,false,false
+AA002111,15 Oct 22,11,Port Melbourne Gold,Kooyong,No. 3,Ethan Brys,Oliver Dennis,Ethan Brys,6-1,6,1,1,0,Completed,true,false,false
+AA002111,15 Oct 22,11,Port Melbourne Gold,Kooyong,No. 4,Nicholas Iosifidis,William Stevens,Nicholas Iosifidis,6-4,6,4,1,0,Completed,true,false,false
+AA002112,15 Oct 22,11,Carmelite Yellow,Carmelite Blue,No. 1,Edward Earle,Marius Gozdzicki,Marius Gozdzicki,0-6,0,6,0,1,Completed,true,false,true
+AA002112,15 Oct 22,11,Carmelite Yellow,Carmelite Blue,No. 2,Ewan Karanoskof,Stephanie Fourlanos,Stephanie Fourlanos,2-6,2,6,0,1,Completed,true,false,false
+AA002112,15 Oct 22,11,Carmelite Yellow,Carmelite Blue,No. 3,Hugo Dinelli,Anna Fourlanos,Anna Fourlanos,5-7,5,7,0,1,Completed,true,false,false
+AA002112,15 Oct 22,11,Carmelite Yellow,Carmelite Blue,No. 4,Andre Cartel,Gene Tullah,Gene Tullah,2-6,2,6,0,1,Completed,true,true,false
+AA002113,15 Oct 22,11,Carmelite Red,Carmelite Green,No. 1,Harry Law,Louis Barnett,Harry Law,6-1,6,1,1,0,Completed,true,false,false
+AA002113,15 Oct 22,11,Carmelite Red,Carmelite Green,No. 2,Topi Wilson,Gabriel Ferrigno,Topi Wilson,6-0,6,0,1,0,Completed,true,false,false
+AA002113,15 Oct 22,11,Carmelite Red,Carmelite Green,No. 3,Rehan Senthi,Ethan Watson,Ethan Watson,5-7,5,7,0,1,Completed,true,false,false
+AA002113,15 Oct 22,11,Carmelite Red,Carmelite Green,No. 4,Zachary Unsworth,Zavier Galanis,Zachary Unsworth,6-2,6,2,1,0,Completed,true,false,false
+AA002131,05 Nov 22,13,Port Melbourne Gold,Carmelite Yellow,No. 1,Bryson Walters,Ben Lobley,Ben Lobley,2-6,2,6,0,1,Completed,true,false,false
+AA002131,05 Nov 22,13,Port Melbourne Gold,Carmelite Yellow,No. 2,Lucas Daskalos,Henry Haggett,Lucas Daskalos,6-4,6,4,1,0,Completed,true,false,false
+AA002131,05 Nov 22,13,Port Melbourne Gold,Carmelite Yellow,No. 3,Stefan Karapandzic,George Richardson,Stefan Karapandzic,6-1,6,1,1,0,Completed,true,false,false
+AA002131,05 Nov 22,13,Port Melbourne Gold,Carmelite Yellow,No. 4,Ethan Brys,Ewan Karanoskof,Ethan Brys,7-5,7,5,1,0,Completed,true,false,false
+AA002132,05 Nov 22,13,Carmelite Red,Kooyong,No. 1,Zack Slade,Edward Pollard,Edward Pollard,0-6,0,6,0,1,Completed,true,false,false
+AA002132,05 Nov 22,13,Carmelite Red,Kooyong,No. 2,Aleksandar McKenzie,George Stevens,George Stevens,1-6,1,6,0,1,Completed,true,false,false
+AA002132,05 Nov 22,13,Carmelite Red,Kooyong,No. 3,Rehan Senthi,Henry Colbert,Rehan Senthi,6-0,6,0,1,0,Completed,true,false,false
+AA002132,05 Nov 22,13,Carmelite Red,Kooyong,No. 4,Curtis Brown,William Stevens,Curtis Brown,7-5,7,5,1,0,Completed,true,true,false
+AA002133,05 Nov 22,13,Carmelite Green,Carmelite Blue,No. 1,William Kerlidis,Stephanie Fourlanos,Stephanie Fourlanos,0-6,0,6,0,1,Completed,true,false,false
+AA002133,05 Nov 22,13,Carmelite Green,Carmelite Blue,No. 2,Louis Barnett,Anna Fourlanos,Louis Barnett,7-6,7,6,1,0,Completed,true,false,false
+AA002133,05 Nov 22,13,Carmelite Green,Carmelite Blue,No. 3,Gabriel Ferrigno,Gene Tullah,Gene Tullah,4-6,4,6,0,1,Completed,true,false,false
+AA002133,05 Nov 22,13,Carmelite Green,Carmelite Blue,No. 4,Ethan Watson,Zavier Galanis,Ethan Watson,6-2,6,2,1,0,Completed,true,false,true
+AA002141,12 Nov 22,14,Carmelite Blue,Port Melbourne Gold,No. 1,Stephanie Fourlanos,Lucas Daskalos,Lucas Daskalos,3-6,3,6,0,1,Completed,true,false,false
+AA002141,12 Nov 22,14,Carmelite Blue,Port Melbourne Gold,No. 2,Anna Fourlanos,Nicholas Iosifidis,Anna Fourlanos,6-4,6,4,1,0,Completed,true,false,false
+AA002141,12 Nov 22,14,Carmelite Blue,Port Melbourne Gold,No. 3,Gene Tullah,Ethan Brys,Gene Tullah,6-0,6,0,1,0,Completed,true,false,false
+AA002141,12 Nov 22,14,Carmelite Blue,Port Melbourne Gold,No. 4,Hugo Dinelli,Willam Yelland,Hugo Dinelli,7-6,7,6,1,0,Completed,true,true,false
+AA002142,12 Nov 22,14,Kooyong,Carmelite Green,No. 1,Edward Pollard,Liam McKeefry,Edward Pollard,6-0,6,0,1,0,Completed,true,false,false
+AA002142,12 Nov 22,14,Kooyong,Carmelite Green,No. 2,George Stevens,Louis Barnett,George Stevens,6-3,6,3,1,0,Completed,true,false,false
+AA002142,12 Nov 22,14,Kooyong,Carmelite Green,No. 3,Henry Colbert,Gabriel Ferrigno,Gabriel Ferrigno,0-6,0,6,0,1,Completed,true,false,false
+AA002142,12 Nov 22,14,Kooyong,Carmelite Green,No. 4,William Stevens,Zavier Galanis,Zavier Galanis,2-6,2,6,0,1,Completed,true,false,false
+AA002143,12 Nov 22,14,Carmelite Yellow,Carmelite Red,No. 1,Henry Haggett,Zack Slade,Zack Slade,4-6,4,6,0,1,Completed,true,false,false
+AA002143,12 Nov 22,14,Carmelite Yellow,Carmelite Red,No. 2,Kalan Thomas,Harry Law,Kalan Thomas,7-5,7,5,1,0,Completed,true,false,false
+AA002143,12 Nov 22,14,Carmelite Yellow,Carmelite Red,No. 3,George Richardson,Topi Wilson,Topi Wilson,0-6,0,6,0,1,Completed,true,false,false
+AA002143,12 Nov 22,14,Carmelite Yellow,Carmelite Red,No. 4,Edward Earle,Zachary Unsworth,Zachary Unsworth,0-6,0,6,0,1,Completed,true,false,false
+AA002151,19 Nov 22,15,Port Melbourne Gold,Carmelite Red,No. 1,Bryson Walters,Zack Slade,Zack Slade,1-6,1,6,0,1,Completed,true,false,false
+AA002151,19 Nov 22,15,Port Melbourne Gold,Carmelite Red,No. 2,Ethan Brys,Topi Wilson,Topi Wilson,0-6,0,6,0,1,Completed,true,false,false
+AA002151,19 Nov 22,15,Port Melbourne Gold,Carmelite Red,No. 3,Willam Yelland,Zachary Unsworth,Zachary Unsworth,4-6,4,6,0,1,Completed,true,false,false
+AA002151,19 Nov 22,15,Port Melbourne Gold,Carmelite Red,No. 4,Nicholas Iosifidis,Curtis Brown,Curtis Brown,3-6,3,6,0,1,Completed,true,false,true
+AA002152,19 Nov 22,15,Carmelite Blue,Kooyong,No. 1,Lewis Grant,George Stevens,George Stevens,3-6,3,6,0,1,Completed,true,true,false
+AA002152,19 Nov 22,15,Carmelite Blue,Kooyong,No. 2,Anna Fourlanos,Oliver Dennis,Anna Fourlanos,6-2,6,2,1,0,Completed,true,false,false
+AA002152,19 Nov 22,15,Carmelite Blue,Kooyong,No. 3,Jocelyn Doig,William Stevens,William Stevens,5-7,5,7,0,1,Completed,true,false,false
+AA002152,19 Nov 22,15,Carmelite Blue,Kooyong,No. 4,Gene Tullah,Freddie Tulloch,Freddie Tulloch,3-6,3,6,0,1,Completed,true,false,true
+AA002153,19 Nov 22,15,Carmelite Green,Carmelite Yellow,No. 1,Liam McKeefry,Kalan Thomas,Kalan Thomas,5-7,5,7,0,1,Completed,true,false,false
+AA002153,19 Nov 22,15,Carmelite Green,Carmelite Yellow,No. 2,Gabriel Ferrigno,George Richardson,George Richardson,3-6,3,6,0,1,Completed,true,false,false
+AA002153,19 Nov 22,15,Carmelite Green,Carmelite Yellow,No. 3,Ethan Watson,Ewan Karanoskof,Ethan Watson,6-3,6,3,1,0,Completed,true,false,false
+AA002153,19 Nov 22,15,Carmelite Green,Carmelite Yellow,No. 4,Zavier Galanis,Hugo Dinelli,Hugo Dinelli,2-6,2,6,0,1,Completed,true,false,false
+AA002321,,16,Carmelite Blue,Carmelite Red,No. 1,Stephanie Fourlanos,Harry Law,Stephanie Fourlanos,6-2,6,2,1,0,Completed,true,false,false
+AA002321,,16,Carmelite Blue,Carmelite Red,No. 2,Anna Fourlanos,Rehan Senthi,Anna Fourlanos,6-4,6,4,1,0,Completed,true,false,false
+AA002321,,16,Carmelite Blue,Carmelite Red,No. 3,Jocelyn Doig,Zachary Unsworth,Zachary Unsworth,3-6,3,6,0,1,Completed,true,false,false
+AA002321,,16,Carmelite Blue,Carmelite Red,No. 4,Gene Tullah,Curtis Brown,Gene Tullah,6-2,6,2,1,0,Completed,true,false,true

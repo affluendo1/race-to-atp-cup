@@ -1,0 +1,59 @@
+{
+  "asset_id": "AA54-AA001",
+  "competition_code": "AA",
+  "competition_label": "Saturday AM - Autumn 2023",
+  "season_id": "AA54",
+  "season_label": "Autumn 2023",
+  "source_section_code": "AA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Carmelite Red",
+      "wins": 5,
+      "points": 79,
+      "percentage": 119.17,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Port Melbourne Red",
+      "wins": 5,
+      "points": 77,
+      "percentage": 106.3,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Carmelite Blue",
+      "wins": 3,
+      "points": 64,
+      "percentage": 97.95,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Port Melbourne Blue",
+      "wins": 3,
+      "points": 60,
+      "percentage": 79.86,
+      "marker": ""
+    }
+  ],
+  "section_code": "AA54-AA001",
+  "fixtures": 29,
+  "completed_fixtures": 20,
+  "draw_fixtures": 1,
+  "singles_rubbers": 80,
+  "doubles_rubbers": 38,
+  "latest_round": 16,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

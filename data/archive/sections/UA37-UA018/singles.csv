@@ -1,0 +1,205 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA018011,27 Jul 25,1,BLTC Blue,BLTC White,No. 1,Samuel Emmerson,Xavier Tomasic,Samuel Emmerson,6-3,6,3,1,0,Completed,true,false,false
+UA018011,27 Jul 25,1,BLTC Blue,BLTC White,No. 2,Charlie Weatherhead,Swapneel Sengupta,Swapneel Sengupta,2-6,2,6,0,1,Completed,true,false,false
+UA018011,27 Jul 25,1,BLTC Blue,BLTC White,No. 3,Xavier Comben,Stephanie Wu,Xavier Comben,6-4,6,4,1,0,Completed,true,false,false
+UA018011,27 Jul 25,1,BLTC Blue,BLTC White,No. 4,Louis Bowler,Antonia Poppleton,Louis Bowler,6-4,6,4,1,0,Completed,true,false,false
+UA018012,27 Jul 25,1,Kooyong,Dendy Park,No. 1,Lachlan Forsyth,Bronson Galanos,Bronson Galanos,0-6,0,6,0,1,Completed,true,false,false
+UA018012,27 Jul 25,1,Kooyong,Dendy Park,No. 2,Angus Clements,Dan Muirhead,Dan Muirhead,1-6,1,6,0,1,Completed,true,false,false
+UA018012,27 Jul 25,1,Kooyong,Dendy Park,No. 3,[Unnamed player — TROLS UA018012 home code 3],Elliot Moulton,Elliot Moulton,0-6,0,6,0,1,Completed,false,false,false
+UA018012,27 Jul 25,1,Kooyong,Dendy Park,No. 4,[Unnamed player — TROLS UA018012 home code 4],Kevin Xie,Kevin Xie,0-6,0,6,0,1,Completed,false,false,true
+UA018013,27 Jul 25,1,Highett,Carmelite,No. 1,Jimmy Church,Tom Read,Tom Read,3-6,3,6,0,1,Completed,true,false,true
+UA018013,27 Jul 25,1,Highett,Carmelite,No. 2,Sonny McMahon,Edward Heinrich,Sonny McMahon,7-5,7,5,1,0,Completed,true,false,false
+UA018013,27 Jul 25,1,Highett,Carmelite,No. 3,Charlie Palmer,Flynn Catellino,Charlie Palmer,6-4,6,4,1,0,Completed,true,false,true
+UA018013,27 Jul 25,1,Highett,Carmelite,No. 4,Lukas Klettle-Sullivan,Sebastian Blenheim,Sebastian Blenheim,6-7,6,7,0,1,Completed,true,false,false
+UA018014,27 Jul 25,1,Coatesville,St Joan of Arc,No. 1,[Unnamed player — TROLS UA018014 home code 1],Henry Clouston,Henry Clouston,0-6,0,6,0,1,Completed,false,false,false
+UA018014,27 Jul 25,1,Coatesville,St Joan of Arc,No. 2,[Unnamed player — TROLS UA018014 home code 2],Milo Cross,Milo Cross,0-6,0,6,0,1,Completed,false,false,false
+UA018014,27 Jul 25,1,Coatesville,St Joan of Arc,No. 3,Lucas Wang,Tin Tin Zhou,Lucas Wang,6-0,6,0,1,0,Completed,true,false,false
+UA018014,27 Jul 25,1,Coatesville,St Joan of Arc,No. 4,Nikita Kheruvimov,Thomas Falan,Nikita Kheruvimov,6-3,6,3,1,0,Completed,true,false,false
+UA018021,03 Aug 25,2,St Joan of Arc,BLTC Blue,No. 1,Henry Clouston,Samuel Emmerson,Henry Clouston,6-0,6,0,1,0,Completed,true,false,false
+UA018021,03 Aug 25,2,St Joan of Arc,BLTC Blue,No. 2,Milo Cross,Xavier Comben,Milo Cross,6-0,6,0,1,0,Completed,true,false,false
+UA018021,03 Aug 25,2,St Joan of Arc,BLTC Blue,No. 3,Tin Tin Zhou,Charlie Weatherhead,Tin Tin Zhou,6-0,6,0,1,0,Completed,true,false,false
+UA018021,03 Aug 25,2,St Joan of Arc,BLTC Blue,No. 4,Thomas Falan,Louis Bowler,Louis Bowler,5-7,5,7,0,1,Completed,true,false,false
+UA018022,03 Aug 25,2,BLTC White,Kooyong,No. 1,Nikolas Weijers,Angus Clements,Angus Clements,6-7,6,7,0,1,Completed,true,false,false
+UA018022,03 Aug 25,2,BLTC White,Kooyong,No. 2,Swapneel Sengupta,Ashton Koon,Swapneel Sengupta,6-4,6,4,1,0,Completed,true,false,false
+UA018022,03 Aug 25,2,BLTC White,Kooyong,No. 3,Stephanie Wu,David Li,Stephanie Wu,7-6,7,6,1,0,Completed,true,false,false
+UA018022,03 Aug 25,2,BLTC White,Kooyong,No. 4,Antonia Poppleton,Yusuf Mohammed,Antonia Poppleton,6-4,6,4,1,0,Completed,true,false,false
+UA018023,03 Aug 25,2,Dendy Park,Highett,No. 1,Bronson Galanos,Jimmy Church,Bronson Galanos,6-0,6,0,1,0,Completed,true,false,false
+UA018023,03 Aug 25,2,Dendy Park,Highett,No. 2,Dan Muirhead,Sonny McMahon,Dan Muirhead,6-4,6,4,1,0,Completed,true,false,false
+UA018023,03 Aug 25,2,Dendy Park,Highett,No. 3,Elliot Moulton,Jamie Blampied,Elliot Moulton,6-2,6,2,1,0,Completed,true,false,false
+UA018023,03 Aug 25,2,Dendy Park,Highett,No. 4,Kevin Xie,Sam Church,Sam Church,0-6,0,6,0,1,Completed,true,true,false
+UA018024,03 Aug 25,2,Carmelite,Coatesville,No. 1,Tom Read,Max Leal Golding,Tom Read,6-1,6,1,1,0,Completed,true,true,false
+UA018024,03 Aug 25,2,Carmelite,Coatesville,No. 2,Caiden Brys,Tom Levin,Tom Levin,3-6,3,6,0,1,Completed,true,true,false
+UA018024,03 Aug 25,2,Carmelite,Coatesville,No. 3,Flynn Castelino,Nikita Kheruvimov,Nikita Kheruvimov,0-6,0,6,0,1,Completed,true,false,false
+UA018024,03 Aug 25,2,Carmelite,Coatesville,No. 4,Sebastian Blenheim,Chiraag Mandal,Chiraag Mandal,0-6,0,6,0,1,Completed,true,false,false
+UA018031,10 Aug 25,3,BLTC Blue,Carmelite,No. 1,Samuel Emmerson,Sebastian Kerr,Sebastian Kerr,4-6,4,6,0,1,Completed,true,false,false
+UA018031,10 Aug 25,3,BLTC Blue,Carmelite,No. 2,Charlie Weatherhead,Edward Heinrich,Edward Heinrich,0-6,0,6,0,1,Completed,true,false,false
+UA018031,10 Aug 25,3,BLTC Blue,Carmelite,No. 3,Xavier Comben,Flynn Castelino,Xavier Comben,6-3,6,3,1,0,Completed,true,false,false
+UA018031,10 Aug 25,3,BLTC Blue,Carmelite,No. 4,Louis Bowler,Jasper O'Keefe,Louis Bowler,6-0,6,0,1,0,Completed,true,false,true
+UA018032,10 Aug 25,3,Kooyong,St Joan of Arc,No. 1,Lachlan Forsyth,Henry Clouston,Lachlan Forsyth,6-3,6,3,1,0,Completed,true,false,false
+UA018032,10 Aug 25,3,Kooyong,St Joan of Arc,No. 2,Hunter Orchard,Milo Cross,Milo Cross,0-6,0,6,0,1,Completed,true,false,false
+UA018032,10 Aug 25,3,Kooyong,St Joan of Arc,No. 3,Ashton Koon,Tin Tin Zhou,Ashton Koon,6-0,6,0,1,0,Completed,true,false,false
+UA018032,10 Aug 25,3,Kooyong,St Joan of Arc,No. 4,David Li,Thomas Falan,David Li,7-5,7,5,1,0,Completed,true,false,false
+UA018033,10 Aug 25,3,Highett,BLTC White,No. 1,Jamie Blampied,Xavier Tomasic,Xavier Tomasic,2-6,2,6,0,1,Completed,true,false,false
+UA018033,10 Aug 25,3,Highett,BLTC White,No. 2,Sam Church,Nikolas Weijers,Sam Church,6-0,6,0,1,0,Completed,true,false,false
+UA018033,10 Aug 25,3,Highett,BLTC White,No. 3,Charlie Palmer,Swapneel Sengupta,Swapneel Sengupta,0-6,0,6,0,1,Completed,true,false,false
+UA018033,10 Aug 25,3,Highett,BLTC White,No. 4,Lukas Klettle-Sullivan,Stephanie Wu,Stephanie Wu,0-6,0,6,0,1,Completed,true,false,false
+UA018034,10 Aug 25,3,Coatesville,Dendy Park,No. 1,Max Leal Golding,Bronson Galanos,Bronson Galanos,5-7,5,7,0,1,Completed,true,false,false
+UA018034,10 Aug 25,3,Coatesville,Dendy Park,No. 2,Lucas Wang,Dan Muirhead,Dan Muirhead,5-7,5,7,0,1,Completed,true,false,false
+UA018034,10 Aug 25,3,Coatesville,Dendy Park,No. 3,Nikita Kheruvimov,Elliot Moulton,Elliot Moulton,3-6,3,6,0,1,Completed,true,false,false
+UA018034,10 Aug 25,3,Coatesville,Dendy Park,No. 4,Chiraag Mandal,Blake Galanos,Blake Galanos,2-6,2,6,0,1,Completed,true,false,false
+UA018041,17 Aug 25,4,Dendy Park,BLTC Blue,No. 1,Bronson Galanos,Samuel Emmerson,Bronson Galanos,6-0,6,0,1,0,Completed,true,false,false
+UA018041,17 Aug 25,4,Dendy Park,BLTC Blue,No. 2,Dan Muirhead,Charlie Weatherhead,Dan Muirhead,6-1,6,1,1,0,Completed,true,false,false
+UA018041,17 Aug 25,4,Dendy Park,BLTC Blue,No. 3,Elliot Moulton,Xavier Comben,Elliot Moulton,6-1,6,1,1,0,Completed,true,false,false
+UA018041,17 Aug 25,4,Dendy Park,BLTC Blue,No. 4,Zach Burton,Orlando Tapia,Orlando Tapia,3-6,3,6,0,1,Completed,true,false,true
+UA018042,17 Aug 25,4,Carmelite,Kooyong,No. 1,Edward Heinrich,Lachlan Forsyth,Edward Heinrich,7-5,7,5,1,0,Completed,true,false,false
+UA018042,17 Aug 25,4,Carmelite,Kooyong,No. 2,Sebastian Blenheim,Angus Clements,Angus Clements,1-6,1,6,0,1,Completed,true,false,false
+UA018042,17 Aug 25,4,Carmelite,Kooyong,No. 3,Flynn Castelino,David Li,David Li,2-6,2,6,0,1,Completed,true,false,false
+UA018042,17 Aug 25,4,Carmelite,Kooyong,No. 4,Jasper O'Keefe,Yusuf Mohammed,Yusuf Mohammed,1-6,1,6,0,1,Completed,true,true,false
+UA018043,17 Aug 25,4,St Joan of Arc,Highett,No. 1,Henry Clouston,Jimmy Church,Jimmy Church,3-6,3,6,0,1,Completed,true,false,false
+UA018043,17 Aug 25,4,St Joan of Arc,Highett,No. 2,Milo Cross,Sonny McMahon,Milo Cross,6-3,6,3,1,0,Completed,true,false,false
+UA018043,17 Aug 25,4,St Joan of Arc,Highett,No. 3,Tin Tin Zhou,Charlie Palmer,Charlie Palmer,4-6,4,6,0,1,Completed,true,false,false
+UA018043,17 Aug 25,4,St Joan of Arc,Highett,No. 4,Thomas Falan,Lukas Klettle-Sullivan,Lukas Klettle-Sullivan,1-6,1,6,0,1,Completed,true,false,false
+UA018044,17 Aug 25,4,BLTC White,Coatesville,No. 1,Nikolas Weijers,Tom Levin,Tom Levin,3-6,3,6,0,1,Completed,true,false,false
+UA018044,17 Aug 25,4,BLTC White,Coatesville,No. 2,Swapneel Sengupta,Lucas Wang,Swapneel Sengupta,6-0,6,0,1,0,Completed,true,false,false
+UA018044,17 Aug 25,4,BLTC White,Coatesville,No. 3,Antonia Poppleton,Nikita Kheruvimov,Nikita Kheruvimov,3-6,3,6,0,1,Completed,true,false,false
+UA018044,17 Aug 25,4,BLTC White,Coatesville,No. 4,Aiden Maradi,Chiraag Mandal,Chiraag Mandal,6-7,6,7,0,1,Completed,true,true,false
+UA018051,24 Aug 25,5,Highett,Coatesville,No. 1,Jimmy Church,Tom Levin,Jimmy Church,6-2,6,2,1,0,Completed,true,false,false
+UA018051,24 Aug 25,5,Highett,Coatesville,No. 2,Sonny McMahon,Lucas Wang,Sonny McMahon,6-1,6,1,1,0,Completed,true,false,false
+UA018051,24 Aug 25,5,Highett,Coatesville,No. 3,Jamie Blampied,Nikita Kheruvimov,Nikita Kheruvimov,3-6,3,6,0,1,Completed,true,false,false
+UA018051,24 Aug 25,5,Highett,Coatesville,No. 4,Sam Church,Chiraag Mandal,Sam Church,6-1,6,1,1,0,Completed,true,false,false
+UA018052,24 Aug 25,5,St Joan of Arc,Carmelite,No. 1,Lenny Nunn,Sebastian Kerr,Lenny Nunn,7-6,7,6,1,0,Completed,true,true,false
+UA018052,24 Aug 25,5,St Joan of Arc,Carmelite,No. 2,Milo Cross,Edward Heinrich,Milo Cross,6-3,6,3,1,0,Completed,true,false,false
+UA018052,24 Aug 25,5,St Joan of Arc,Carmelite,No. 3,Tin Tin Zhou,Flynn Castelino,Tin Tin Zhou,6-3,6,3,1,0,Completed,true,false,false
+UA018052,24 Aug 25,5,St Joan of Arc,Carmelite,No. 4,Thomas Falan,Sebastian Blenheim,Thomas Falan,6-1,6,1,1,0,Completed,true,false,false
+UA018053,24 Aug 25,5,Dendy Park,BLTC White,No. 1,Bronson Galanos,Xavier Tomasic,Bronson Galanos,6-3,6,3,1,0,Completed,true,false,false
+UA018053,24 Aug 25,5,Dendy Park,BLTC White,No. 2,Dan Muirhead,Nikolas Weijers,Dan Muirhead,6-2,6,2,1,0,Completed,true,false,false
+UA018053,24 Aug 25,5,Dendy Park,BLTC White,No. 3,Elliot Moulton,Stephanie Wu,Elliot Moulton,7-6,7,6,1,0,Completed,true,false,false
+UA018053,24 Aug 25,5,Dendy Park,BLTC White,No. 4,Zach Burton,Antonia Poppleton,Zach Burton,6-3,6,3,1,0,Completed,true,false,false
+UA018054,24 Aug 25,5,BLTC Blue,Kooyong,No. 1,Samuel Emmerson,Hunter Orchard,Samuel Emmerson,6-0,6,0,1,0,Completed,true,false,false
+UA018054,24 Aug 25,5,BLTC Blue,Kooyong,No. 2,Charlie Weatherhead,Angus Clements,Charlie Weatherhead,6-2,6,2,1,0,Completed,true,false,false
+UA018054,24 Aug 25,5,BLTC Blue,Kooyong,No. 3,Xavier Comben,Ashton Koon,Ashton Koon,5-7,5,7,0,1,Completed,true,false,false
+UA018054,24 Aug 25,5,BLTC Blue,Kooyong,No. 4,Louis Bowler,Yusuf Mohammed,Louis Bowler,6-3,6,3,1,0,Completed,true,false,false
+UA018061,31 Aug 25,6,Kooyong,Highett,No. 1,Lachlan Forsyth,Sonny McMahon,Lachlan Forsyth,7-5,7,5,1,0,Completed,true,false,false
+UA018061,31 Aug 25,6,Kooyong,Highett,No. 2,Hunter Orchard,Jamie Blampied,Jamie Blampied,0-6,0,6,0,1,Completed,true,false,false
+UA018061,31 Aug 25,6,Kooyong,Highett,No. 3,David Li,Sam Church,Sam Church,5-7,5,7,0,1,Completed,true,false,false
+UA018061,31 Aug 25,6,Kooyong,Highett,No. 4,Ashton Koon,Charlie Palmer,Ashton Koon,6-0,6,0,1,0,Completed,true,false,false
+UA018062,31 Aug 25,6,Coatesville,BLTC Blue,No. 1,Tom Levin,Orlando Tapia,Tom Levin,6-0,6,0,1,0,Completed,true,false,true
+UA018062,31 Aug 25,6,Coatesville,BLTC Blue,No. 2,Lucas Wang,Xavier Comben,Lucas Wang,6-3,6,3,1,0,Completed,true,false,false
+UA018062,31 Aug 25,6,Coatesville,BLTC Blue,No. 3,Nikita Kheruvimov,Charlie Weatherhead,Nikita Kheruvimov,6-0,6,0,1,0,Completed,true,false,false
+UA018062,31 Aug 25,6,Coatesville,BLTC Blue,No. 4,Chiraag Mandal,Louis Bowler,Louis Bowler,4-6,4,6,0,1,Completed,true,false,false
+UA018063,31 Aug 25,6,Carmelite,Dendy Park,No. 1,Sebastian Kerr,Alexander Hookway,Alexander Hookway,0-6,0,6,0,1,Completed,true,false,false
+UA018063,31 Aug 25,6,Carmelite,Dendy Park,No. 2,Edward Heinrich,Bronson Galanos,Edward Heinrich,6-3,6,3,1,0,Completed,true,false,false
+UA018063,31 Aug 25,6,Carmelite,Dendy Park,No. 3,Flynn Castelino,Dan Muirhead,Dan Muirhead,3-6,3,6,0,1,Completed,true,false,false
+UA018063,31 Aug 25,6,Carmelite,Dendy Park,No. 4,Sebastian Blenheim,Elliot Moulton,Elliot Moulton,0-6,0,6,0,1,Completed,true,false,false
+UA018064,31 Aug 25,6,BLTC White,St Joan of Arc,No. 1,Xavier Tomasic,Henry Clouston,Henry Clouston,4-6,4,6,0,1,Completed,true,false,false
+UA018064,31 Aug 25,6,BLTC White,St Joan of Arc,No. 2,Nikolas Weijers,Milo Cross,Milo Cross,4-6,4,6,0,1,Completed,true,false,false
+UA018064,31 Aug 25,6,BLTC White,St Joan of Arc,No. 3,Stephanie Wu,Tin Tin Zhou,Stephanie Wu,6-0,6,0,1,0,Completed,true,false,false
+UA018064,31 Aug 25,6,BLTC White,St Joan of Arc,No. 4,Antonia Poppleton,Thomas Falan,Antonia Poppleton,6-3,6,3,1,0,Completed,true,false,false
+UA018071,07 Sep 25,7,BLTC Blue,Highett,No. 1,Samuel Emmerson,Sonny McMahon,Samuel Emmerson,6-1,6,1,1,0,Completed,true,false,false
+UA018071,07 Sep 25,7,BLTC Blue,Highett,No. 2,Charlie Weatherhead,Sam Church,Sam Church,2-6,2,6,0,1,Completed,true,false,false
+UA018071,07 Sep 25,7,BLTC Blue,Highett,No. 3,Xavier Comben,Charlie Palmer,Xavier Comben,6-0,6,0,1,0,Completed,true,false,false
+UA018071,07 Sep 25,7,BLTC Blue,Highett,No. 4,Louis Bowler,Lukas Klettle-Sullivan,Louis Bowler,6-4,6,4,1,0,Completed,true,false,false
+UA018072,07 Sep 25,7,Kooyong,Coatesville,No. 1,Angus Clements,Tom Levin,Tom Levin,2-6,2,6,0,1,Completed,true,false,false
+UA018072,07 Sep 25,7,Kooyong,Coatesville,No. 2,Ashton Koon,Lucas Wang,Ashton Koon,6-2,6,2,1,0,Completed,true,false,false
+UA018072,07 Sep 25,7,Kooyong,Coatesville,No. 3,David Li,Meira Sayal,David Li,6-4,6,4,1,0,Completed,true,false,true
+UA018072,07 Sep 25,7,Kooyong,Coatesville,No. 4,Yusuf Mohammed,Nikita Kheruvimov,Yusuf Mohammed,7-6,7,6,1,0,Completed,true,false,false
+UA018073,07 Sep 25,7,St Joan of Arc,Dendy Park,No. 1,Henry Clouston,Alexander Hookway,Alexander Hookway,1-6,1,6,0,1,Completed,true,false,false
+UA018073,07 Sep 25,7,St Joan of Arc,Dendy Park,No. 2,Milo Cross,Bronson Galanos,Milo Cross,6-4,6,4,1,0,Completed,true,false,false
+UA018073,07 Sep 25,7,St Joan of Arc,Dendy Park,No. 3,Tin Tin Zhou,Dan Muirhead,Dan Muirhead,3-6,3,6,0,1,Completed,true,false,false
+UA018073,07 Sep 25,7,St Joan of Arc,Dendy Park,No. 4,Thomas Falan,Elliot Moulton,Elliot Moulton,4-6,4,6,0,1,Completed,true,false,false
+UA018074,07 Sep 25,7,Carmelite,BLTC White,No. 1,Sebastian Kerr,Xavier Tomasic,Xavier Tomasic,4-6,4,6,0,1,Completed,true,false,false
+UA018074,07 Sep 25,7,Carmelite,BLTC White,No. 2,Edward Heinrich,Swapneel Sengupta,Edward Heinrich,6-3,6,3,1,0,Completed,true,false,false
+UA018074,07 Sep 25,7,Carmelite,BLTC White,No. 3,Flynn Castelino,Antonia Poppleton,Antonia Poppleton,2-6,2,6,0,1,Completed,true,false,false
+UA018074,07 Sep 25,7,Carmelite,BLTC White,No. 4,Sebastian Blenheim,Aiden Moradi,Aiden Moradi,1-6,1,6,0,1,Completed,true,false,true
+UA018081,14 Sep 25,8,BLTC White,BLTC Blue,No. 1,Xavier Tomasic,Samuel Emmerson,Xavier Tomasic,6-4,6,4,1,0,Completed,true,false,false
+UA018081,14 Sep 25,8,BLTC White,BLTC Blue,No. 2,Nikolas Weijers,Charlie Weatherhead,Nikolas Weijers,6-0,6,0,1,0,Completed,true,false,false
+UA018081,14 Sep 25,8,BLTC White,BLTC Blue,No. 3,Swapneel Sengupta,Xavier Comben,Swapneel Sengupta,6-1,6,1,1,0,Completed,true,false,false
+UA018081,14 Sep 25,8,BLTC White,BLTC Blue,No. 4,Antonia Poppleton,Louis Bowler,Louis Bowler,6-7,6,7,0,1,Completed,true,false,false
+UA018082,14 Sep 25,8,Dendy Park,Kooyong,No. 1,Bronson Galanos,Lachlan Forsyth,Bronson Galanos,6-4,6,4,1,0,Completed,true,false,false
+UA018082,14 Sep 25,8,Dendy Park,Kooyong,No. 2,Dan Muirhead,Hunter Orchard,Dan Muirhead,6-3,6,3,1,0,Completed,true,false,false
+UA018082,14 Sep 25,8,Dendy Park,Kooyong,No. 3,Elliot Moulton,Ashton Koon,Elliot Moulton,7-5,7,5,1,0,Completed,true,false,false
+UA018082,14 Sep 25,8,Dendy Park,Kooyong,No. 4,Blake Galanos,Yusuf Mohammed,Blake Galanos,6-4,6,4,1,0,Completed,true,false,false
+UA018083,14 Sep 25,8,Carmelite,Highett,No. 1,Sebastian Kerr,Jimmy Church,Jimmy Church,5-7,5,7,0,1,Completed,true,false,false
+UA018083,14 Sep 25,8,Carmelite,Highett,No. 2,Edward Heinrich,Sonny McMahon,Edward Heinrich,6-0,6,0,1,0,Completed,true,false,false
+UA018083,14 Sep 25,8,Carmelite,Highett,No. 3,Tiffany Webb,Sam Church,Sam Church,4-6,4,6,0,1,Completed,true,false,false
+UA018083,14 Sep 25,8,Carmelite,Highett,No. 4,Sebastian Blenheim,Lukas Klettle-Sullivan,Lukas Klettle-Sullivan,4-6,4,6,0,1,Completed,true,false,false
+UA018084,14 Sep 25,8,St Joan of Arc,Coatesville,No. 1,Henry Clouston,Tom Levin,Henry Clouston,6-1,6,1,1,0,Completed,true,false,false
+UA018084,14 Sep 25,8,St Joan of Arc,Coatesville,No. 2,Milo Cross,Meira Sayal,Milo Cross,6-0,6,0,1,0,Completed,true,false,true
+UA018084,14 Sep 25,8,St Joan of Arc,Coatesville,No. 3,Tin Tin Zhou,Nikita Kheruvimov,Nikita Kheruvimov,1-6,1,6,0,1,Completed,true,false,false
+UA018084,14 Sep 25,8,St Joan of Arc,Coatesville,No. 4,Thomas Falan,Chiraag Mandal,Chiraag Mandal,4-6,4,6,0,1,Completed,true,false,false
+UA018091,12 Oct 25,9,BLTC Blue,St Joan of Arc,No. 1,Samuel Emmerson,Henry Clouston,Henry Clouston,1-6,1,6,0,1,Completed,true,false,false
+UA018091,12 Oct 25,9,BLTC Blue,St Joan of Arc,No. 2,Charlie Weatherhead,Milo Cross,Milo Cross,0-6,0,6,0,1,Completed,true,false,false
+UA018091,12 Oct 25,9,BLTC Blue,St Joan of Arc,No. 3,Xavier Comben,Tin Tin Zhou,Xavier Comben,7-6,7,6,1,0,Completed,true,false,false
+UA018091,12 Oct 25,9,BLTC Blue,St Joan of Arc,No. 4,Louis Bowler,Thomas Falan,Louis Bowler,6-4,6,4,1,0,Completed,true,false,false
+UA018092,12 Oct 25,9,Kooyong,BLTC White,No. 1,Lachlan Forsyth,Xavier Tomasic,Xavier Tomasic,3-6,3,6,0,1,Completed,true,false,false
+UA018092,12 Oct 25,9,Kooyong,BLTC White,No. 2,Hunter Orchard,Nikolas Weijers,Hunter Orchard,6-3,6,3,1,0,Completed,true,false,false
+UA018092,12 Oct 25,9,Kooyong,BLTC White,No. 3,Morris Plomley,Swapneel Sengupta,Swapneel Sengupta,3-6,3,6,0,1,Completed,true,false,false
+UA018092,12 Oct 25,9,Kooyong,BLTC White,No. 4,Angus Clements,Stephanie Wu,Stephanie Wu,0-6,0,6,0,1,Completed,true,false,false
+UA018093,12 Oct 25,9,Highett,Dendy Park,No. 1,Jamie Blampied,Bronson Galanos,Bronson Galanos,4-6,4,6,0,1,Completed,true,false,false
+UA018093,12 Oct 25,9,Highett,Dendy Park,No. 2,Sam Church,Dan Muirhead,Sam Church,7-5,7,5,1,0,Completed,true,false,false
+UA018093,12 Oct 25,9,Highett,Dendy Park,No. 3,Charlie Palmer,Elliot Moulton,Elliot Moulton,3-6,3,6,0,1,Completed,true,false,false
+UA018093,12 Oct 25,9,Highett,Dendy Park,No. 4,Lukas Klettle-Sullivan,Blake Galanos,Blake Galanos,1-6,1,6,0,1,Completed,true,false,false
+UA018094,12 Oct 25,9,Coatesville,Carmelite,No. 1,[Unnamed player — TROLS UA018094 home code 1],Sebastian Kerr,Sebastian Kerr,0-6,0,6,0,1,Completed,false,false,false
+UA018094,12 Oct 25,9,Coatesville,Carmelite,No. 2,Lucas Wang,Tiffany Webb,Tiffany Webb,3-6,3,6,0,1,Completed,true,false,false
+UA018094,12 Oct 25,9,Coatesville,Carmelite,No. 3,Nikita Kheruvimov,Flynn Castelino,Nikita Kheruvimov,6-2,6,2,1,0,Completed,true,false,false
+UA018094,12 Oct 25,9,Coatesville,Carmelite,No. 4,Chiraag Mandal,Sebastian Blenheim,Chiraag Mandal,6-2,6,2,1,0,Completed,true,false,false
+UA018101,19 Oct 25,10,Carmelite,BLTC Blue,No. 1,Tiffany Webb,Samuel Emmerson,Samuel Emmerson,3-6,3,6,0,1,Completed,true,false,false
+UA018101,19 Oct 25,10,Carmelite,BLTC Blue,No. 2,Flynn Castelino,Charlie Weatherhead,Charlie Weatherhead,4-6,4,6,0,1,Completed,true,false,false
+UA018101,19 Oct 25,10,Carmelite,BLTC Blue,No. 3,Sebastian Blenheim,Xavier Comben,Sebastian Blenheim,6-4,6,4,1,0,Completed,true,false,false
+UA018101,19 Oct 25,10,Carmelite,BLTC Blue,No. 4,Jasper O'Keefe,Louis Bowler,Louis Bowler,0-6,0,6,0,1,Completed,true,true,false
+UA018102,19 Oct 25,10,St Joan of Arc,Kooyong,No. 1,Henry Clouston,Lachlan Forsyth,Lachlan Forsyth,3-6,3,6,0,1,Completed,true,false,false
+UA018102,19 Oct 25,10,St Joan of Arc,Kooyong,No. 2,Milo Cross,Morris Plomley,Morris Plomley,0-6,0,6,0,1,Completed,true,false,false
+UA018102,19 Oct 25,10,St Joan of Arc,Kooyong,No. 3,Tin Tin Zhou,Ashton Koon,Ashton Koon,2-6,2,6,0,1,Completed,true,false,false
+UA018102,19 Oct 25,10,St Joan of Arc,Kooyong,No. 4,Thomas Falan,David Li,David Li,0-6,0,6,0,1,Completed,true,false,false
+UA018103,19 Oct 25,10,BLTC White,Highett,No. 1,Xavier Tomasic,Jimmy Church,Jimmy Church,3-6,3,6,0,1,Completed,true,false,false
+UA018103,19 Oct 25,10,BLTC White,Highett,No. 2,Swapneel Sengupta,Sonny McMahon,Swapneel Sengupta,7-5,7,5,1,0,Completed,true,false,false
+UA018103,19 Oct 25,10,BLTC White,Highett,No. 3,Stephanie Wu,Charlie Palmer,Stephanie Wu,6-1,6,1,1,0,Completed,true,false,false
+UA018103,19 Oct 25,10,BLTC White,Highett,No. 4,Antonia Poppleton,Lukas Klettle-Sullivan,Antonia Poppleton,6-1,6,1,1,0,Completed,true,false,false
+UA018104,19 Oct 25,10,Dendy Park,Coatesville,No. 1,Leo Tang,Tom Levin,Leo Tang,6-3,6,3,1,0,Completed,true,true,false
+UA018104,19 Oct 25,10,Dendy Park,Coatesville,No. 2,Bronson Galanos,Lucas Wang,Bronson Galanos,6-1,6,1,1,0,Completed,true,false,false
+UA018104,19 Oct 25,10,Dendy Park,Coatesville,No. 3,Elliot Moulton,Nikita Kheruvimov,Elliot Moulton,7-5,7,5,1,0,Completed,true,false,false
+UA018104,19 Oct 25,10,Dendy Park,Coatesville,No. 4,Blake Galanos,Chiraag Mandal,Blake Galanos,6-1,6,1,1,0,Completed,true,false,false
+UA018111,26 Oct 25,11,BLTC Blue,Dendy Park,No. 1,Samuel Emmerson,Bronson Galanos,Bronson Galanos,3-6,3,6,0,1,Completed,true,false,false
+UA018111,26 Oct 25,11,BLTC Blue,Dendy Park,No. 2,Charlie Weatherhead,Dan Muirhead,Dan Muirhead,1-6,1,6,0,1,Completed,true,false,false
+UA018111,26 Oct 25,11,BLTC Blue,Dendy Park,No. 3,Xavier Comben,Elliot Moulton,Elliot Moulton,1-6,1,6,0,1,Completed,true,false,false
+UA018111,26 Oct 25,11,BLTC Blue,Dendy Park,No. 4,Eric Gong,Alex Ng,Alex Ng,0-6,0,6,0,1,Completed,true,true,true
+UA018113,26 Oct 25,11,Highett,St Joan of Arc,No. 1,Jimmy Church,Henry Clouston,Jimmy Church,6-2,6,2,1,0,Completed,true,false,false
+UA018113,26 Oct 25,11,Highett,St Joan of Arc,No. 2,Sonny McMahon,Milo Cross,Milo Cross,3-6,3,6,0,1,Completed,true,false,false
+UA018113,26 Oct 25,11,Highett,St Joan of Arc,No. 3,Jamie Blampied,Tin Tin Zhou,Tin Tin Zhou,1-6,1,6,0,1,Completed,true,false,false
+UA018113,26 Oct 25,11,Highett,St Joan of Arc,No. 4,Sam Church,Thomas Falan,Sam Church,6-3,6,3,1,0,Completed,true,false,false
+UA018114,26 Oct 25,11,Coatesville,BLTC White,No. 1,Tom Levin,Xavier Tomasic,Xavier Tomasic,3-6,3,6,0,1,Completed,true,false,false
+UA018114,26 Oct 25,11,Coatesville,BLTC White,No. 2,Lucas Wang,Swapneel Sengupta,Swapneel Sengupta,1-6,1,6,0,1,Completed,true,false,false
+UA018114,26 Oct 25,11,Coatesville,BLTC White,No. 3,Nikita Kheruvimov,Stephanie Wu,Nikita Kheruvimov,6-3,6,3,1,0,Completed,true,false,false
+UA018114,26 Oct 25,11,Coatesville,BLTC White,No. 4,Chiraag Mandal,Antonia Poppleton,Antonia Poppleton,1-6,1,6,0,1,Completed,true,false,false
+UA018123,09 Nov 25,12,BLTC White,Dendy Park,No. 1,Xavier Tomasic,Bronson Galanos,Bronson Galanos,2-6,2,6,0,1,Completed,true,false,false
+UA018123,09 Nov 25,12,BLTC White,Dendy Park,No. 2,Nikolas Weijers,Dan Muirhead,Dan Muirhead,2-6,2,6,0,1,Completed,true,false,false
+UA018123,09 Nov 25,12,BLTC White,Dendy Park,No. 3,Stephanie Wu,Elliot Moulton,Elliot Moulton,6-7,6,7,0,1,Completed,true,false,false
+UA018123,09 Nov 25,12,BLTC White,Dendy Park,No. 4,Antonia Poppleton,Blake Galanos,Blake Galanos,4-6,4,6,0,1,Completed,true,false,false
+UA018131,16 Nov 25,13,Highett,Kooyong,No. 1,Sonny McMahon,Morris Plomley,Morris Plomley,2-6,2,6,0,1,Completed,true,false,false
+UA018131,16 Nov 25,13,Highett,Kooyong,No. 2,Jamie Blampied,Angus Clements,Jamie Blampied,7-5,7,5,1,0,Completed,true,false,false
+UA018131,16 Nov 25,13,Highett,Kooyong,No. 3,Sam Church,Ashton Koon,Sam Church,6-2,6,2,1,0,Completed,true,false,false
+UA018131,16 Nov 25,13,Highett,Kooyong,No. 4,Charlie Palmer,David Li,David Li,1-6,1,6,0,1,Completed,true,false,false
+UA018132,16 Nov 25,13,BLTC Blue,Coatesville,No. 1,Samuel Emmerson,Eli Board,Eli Board,1-6,1,6,0,1,Completed,true,false,true
+UA018132,16 Nov 25,13,BLTC Blue,Coatesville,No. 2,Xavier Comben,Lucas Wang,Lucas Wang,4-6,4,6,0,1,Completed,true,false,false
+UA018132,16 Nov 25,13,BLTC Blue,Coatesville,No. 3,Lucas Kitney,Nikita Kheruvimov,Lucas Kitney,7-5,7,5,1,0,Completed,true,true,false
+UA018132,16 Nov 25,13,BLTC Blue,Coatesville,No. 4,Adin Wertheimer,Chiraag Mandal,Adin Wertheimer,6-2,6,2,1,0,Completed,true,true,false
+UA018133,16 Nov 25,13,Dendy Park,Carmelite,No. 1,Alexander Hookway,Sebastian Kerr,Alexander Hookway,6-2,6,2,1,0,Completed,true,false,false
+UA018133,16 Nov 25,13,Dendy Park,Carmelite,No. 2,Bronson Galanos,Tiffany Webb,Bronson Galanos,6-2,6,2,1,0,Completed,true,false,false
+UA018133,16 Nov 25,13,Dendy Park,Carmelite,No. 3,Dan Muirhead,Flynn Castelino,Dan Muirhead,6-0,6,0,1,0,Completed,true,false,false
+UA018133,16 Nov 25,13,Dendy Park,Carmelite,No. 4,Blake Galanos,Sophie Gordon,Blake Galanos,6-1,6,1,1,0,Completed,true,false,true
+UA018134,16 Nov 25,13,St Joan of Arc,BLTC White,No. 1,Henry Clouston,Xavier Tomasic,Henry Clouston,6-3,6,3,1,0,Completed,true,false,false
+UA018134,16 Nov 25,13,St Joan of Arc,BLTC White,No. 2,Milo Cross,Swapneel Sengupta,Milo Cross,7-5,7,5,1,0,Completed,true,false,false
+UA018134,16 Nov 25,13,St Joan of Arc,BLTC White,No. 3,Tin Tin Zhou,Stephanie Wu,Stephanie Wu,1-6,1,6,0,1,Completed,true,false,false
+UA018134,16 Nov 25,13,St Joan of Arc,BLTC White,No. 4,Thomas Falan,Antonia Poppleton,Antonia Poppleton,4-6,4,6,0,1,Completed,true,false,false
+UA018301,,16,Dendy Park,St Joan of Arc,No. 1,Alexander Hookway,Henry Clouston,Alexander Hookway,6-4,6,4,1,0,Completed,true,false,false
+UA018301,,16,Dendy Park,St Joan of Arc,No. 2,Bronson Galanos,Milo Cross,Milo Cross,4-6,4,6,0,1,Completed,true,false,false
+UA018301,,16,Dendy Park,St Joan of Arc,No. 3,Dan Muirhead,Tin Tin Zhou,Dan Muirhead,6-1,6,1,1,0,Completed,true,false,false
+UA018301,,16,Dendy Park,St Joan of Arc,No. 4,Elliot Moulton,Thomas Falan,Elliot Moulton,6-0,6,0,1,0,Completed,true,false,false
+UA018302,,16,BLTC White,Highett,No. 1,Xavier Tomasic,Jimmy Church,Jimmy Church,5-7,5,7,0,1,Completed,true,false,false
+UA018302,,16,BLTC White,Highett,No. 2,Swapneel Sengupta,Sonny McMahon,Swapneel Sengupta,6-4,6,4,1,0,Completed,true,false,false
+UA018302,,16,BLTC White,Highett,No. 3,Stephanie Wu,Jamie Blampied,Jamie Blampied,5-7,5,7,0,1,Completed,true,false,false
+UA018302,,16,BLTC White,Highett,No. 4,Antonia Poppleton,Sam Church,Sam Church,0-6,0,6,0,1,Completed,true,false,false
+UA018321,,17,Dendy Park,Highett,No. 1,Bronson Galanos,Jimmy Church,Jimmy Church,4-6,4,6,0,1,Completed,true,false,false
+UA018321,,17,Dendy Park,Highett,No. 2,Dan Muirhead,Sonny McMahon,Sonny McMahon,2-6,2,6,0,1,Completed,true,false,false
+UA018321,,17,Dendy Park,Highett,No. 3,Elliot Moulton,Jamie Blampied,Elliot Moulton,6-1,6,1,1,0,Completed,true,false,false
+UA018321,,17,Dendy Park,Highett,No. 4,Zach Burton,Sam Church,Sam Church,2-6,2,6,0,1,Completed,true,false,false

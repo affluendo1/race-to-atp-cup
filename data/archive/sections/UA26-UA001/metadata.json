@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA26-UA001",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2020",
+  "season_id": "UA26",
+  "season_label": "Autumn 2020",
+  "source_section_code": "UA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong 1",
+      "wins": 5,
+      "points": 50,
+      "percentage": 182.42,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Tennis World",
+      "wins": 4,
+      "points": 41,
+      "percentage": 145.05,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Royal Ave",
+      "wins": 4,
+      "points": 41,
+      "percentage": 125.21,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 3,
+      "points": 34,
+      "percentage": 121.67,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 2,
+      "points": 27,
+      "percentage": 86.54,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Kooyong 2",
+      "wins": 1,
+      "points": 19,
+      "percentage": 81.05,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra",
+      "wins": 1,
+      "points": 17,
+      "percentage": 75.78,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "Hurlingham Park",
+      "wins": 0,
+      "points": 11,
+      "percentage": 46.2,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA26-UA001",
+  "fixtures": 24,
+  "completed_fixtures": 20,
+  "draw_fixtures": 56,
+  "singles_rubbers": 80,
+  "doubles_rubbers": 40,
+  "latest_round": 6,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

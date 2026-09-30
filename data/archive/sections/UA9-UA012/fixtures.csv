@@ -1,0 +1,60 @@
+fixture_id,date,round,stage,round_label,home_team,away_team,home_points,away_points,home_rubbers,away_rubbers,home_sets,away_sets,home_games,away_games,status,notes
+pending-ua012-r1-bltc-1-bltc-2,24 Jul 11,1,regular,Round 1,BLTC 1,BLTC 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r1-dendy-park-parkdale,24 Jul 11,1,regular,Round 1,Dendy Park,Parkdale,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r1-middle-brighton-lauriston,24 Jul 11,1,regular,Round 1,Middle Brighton,Lauriston,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r1-tennis-world-1-tennis-world-2,24 Jul 11,1,regular,Round 1,Tennis World 1,Tennis World 2,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA012021,31 Jul 11,2,regular,Round 2,Parkdale,Tennis World 1,3,7,3,3,,,26,29,Completed,
+UA012022,31 Jul 11,2,regular,Round 2,Tennis World 2,Middle Brighton,2,8,2,4,,,21,28,Completed,
+UA012023,31 Jul 11,2,regular,Round 2,Lauriston,BLTC 1,9,1,5,1,,,33,21,Completed,
+UA012024,31 Jul 11,2,regular,Round 2,BLTC 2,Dendy Park,0,10,0,6,,,8,36,Completed,
+UA012031,07 Aug 11,3,regular,Round 3,Tennis World 1,BLTC 2,3,7,3,3,,,28,29,Completed,
+UA012032,07 Aug 11,3,regular,Round 3,Middle Brighton,Parkdale,3,7,3,3,,,26,31,Completed,
+UA012033,07 Aug 11,3,regular,Round 3,BLTC 1,Tennis World 2,0,10,0,6,,,14,36,Completed,
+UA012034,07 Aug 11,3,regular,Round 3,Dendy Park,Lauriston,7,3,3,3,,,30,28,Completed,
+UA012041,14 Aug 11,4,regular,Round 4,Lauriston,Tennis World 1,9,1,5,1,,,34,15,Completed,
+UA012042,14 Aug 11,4,regular,Round 4,BLTC 2,Middle Brighton,2,8,2,4,,,22,28,Completed,
+UA012043,14 Aug 11,4,regular,Round 4,Parkdale,BLTC 1,8,2,4,2,,,31,25,Completed,
+UA012044,14 Aug 11,4,regular,Round 4,Tennis World 2,Dendy Park,9,1,5,1,,,32,13,Completed,
+UA012051,21 Aug 11,5,regular,Round 5,BLTC 1,Dendy Park,1,9,1,5,,,17,34,Completed,
+UA012052,21 Aug 11,5,regular,Round 5,Parkdale,BLTC 2,7,3,3,3,,,27,22,Completed,
+UA012053,21 Aug 11,5,regular,Round 5,Lauriston,Tennis World 2,1,9,1,5,,,20,34,Completed,
+UA012054,21 Aug 11,5,regular,Round 5,Tennis World 1,Middle Brighton,3,7,3,3,,,25,27,Completed,
+UA012061,28 Aug 11,6,regular,Round 6,Middle Brighton,BLTC 1,9,1,5,1,,,31,22,Completed,
+UA012062,28 Aug 11,6,regular,Round 6,Dendy Park,Tennis World 1,9,1,5,1,,,31,17,Completed,
+UA012063,28 Aug 11,6,regular,Round 6,BLTC 2,Lauriston,2,8,2,4,,,16,26,Completed,
+UA012064,28 Aug 11,6,regular,Round 6,Tennis World 2,Parkdale,10,0,6,0,,,36,13,Completed,
+UA012071,04 Sep 11,7,regular,Round 7,Tennis World 1,BLTC 1,8,2,4,2,,,33,24,Completed,
+UA012072,04 Sep 11,7,regular,Round 7,Middle Brighton,Dendy Park,7,3,3,3,,,32,19,Completed,
+UA012073,04 Sep 11,7,regular,Round 7,Parkdale,Lauriston,8,2,4,2,,,34,19,Completed,
+UA012074,04 Sep 11,7,regular,Round 7,BLTC 2,Tennis World 2,0,10,0,6,,,8,36,Completed,
+pending-ua012-r8-bltc-2-bltc-1,11 Sep 11,8,regular,Round 8,BLTC 2,BLTC 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r8-lauriston-middle-brighton,11 Sep 11,8,regular,Round 8,Lauriston,Middle Brighton,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r8-parkdale-dendy-park,11 Sep 11,8,regular,Round 8,Parkdale,Dendy Park,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+pending-ua012-r8-tennis-world-2-tennis-world-1,11 Sep 11,8,regular,Round 8,Tennis World 2,Tennis World 1,,,,,,,,,Wash Out,No individual scorecard / no rubbers recorded
+UA012091,18 Sep 11,9,regular,Round 9,Tennis World 1,Parkdale,2,8,2,4,,,27,36,Completed,
+UA012092,18 Sep 11,9,regular,Round 9,Middle Brighton,Tennis World 2,0,10,0,6,,,5,36,Completed,
+UA012093,18 Sep 11,9,regular,Round 9,BLTC 1,Lauriston,1,9,1,5,,,23,37,Completed,
+UA012094,18 Sep 11,9,regular,Round 9,Dendy Park,BLTC 2,5,5,2,2,,,14,22,Completed,
+UA012101,16 Oct 11,10,regular,Round 10,BLTC 2,Tennis World 1,2,8,2,4,,,27,25,Completed,
+UA012102,16 Oct 11,10,regular,Round 10,Parkdale,Middle Brighton,3,7,3,3,,,23,26,Completed,
+UA012103,16 Oct 11,10,regular,Round 10,Tennis World 2,BLTC 1,9,1,5,1,,,33,14,Completed,
+UA012104,16 Oct 11,10,regular,Round 10,Lauriston,Dendy Park,2,8,2,4,,,24,29,Completed,
+UA012111,23 Oct 11,11,regular,Round 11,Tennis World 1,Lauriston,2,8,2,4,,,28,32,Completed,
+UA012112,23 Oct 11,11,regular,Round 11,Middle Brighton,BLTC 2,8,2,4,2,,,31,15,Completed,
+UA012113,23 Oct 11,11,regular,Round 11,BLTC 1,Parkdale,8,2,4,2,,,29,20,Completed,
+UA012114,23 Oct 11,11,regular,Round 11,Dendy Park,Tennis World 2,8,2,4,2,,,31,27,Completed,
+UA012121,06 Nov 11,12,regular,Round 12,Dendy Park,BLTC 1,9,1,5,1,,,35,16,Completed,
+UA012122,06 Nov 11,12,regular,Round 12,BLTC 2,Parkdale,1,9,1,5,,,12,31,Completed,
+UA012123,06 Nov 11,12,regular,Round 12,Tennis World 2,Lauriston,10,0,6,0,,,36,11,Completed,
+UA012124,06 Nov 11,12,regular,Round 12,Middle Brighton,Tennis World 1,9,1,5,1,,,36,9,Completed,
+UA012132,13 Nov 11,13,regular,Round 13,Tennis World 1,Dendy Park,7,3,3,3,,,27,21,Completed,
+UA012134,13 Nov 11,13,regular,Round 13,Parkdale,Tennis World 2,2,8,2,4,,,23,32,Completed,
+pending-ua012-r13-bltc-1-middle-brighton,13 Nov 11,13,regular,Round 13,BLTC 1,Middle Brighton,,,,,,,,,Missing Result,No individual scorecard / no rubbers recorded
+pending-ua012-r13-lauriston-bltc-2,13 Nov 11,13,regular,Round 13,Lauriston,BLTC 2,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA012141,20 Nov 11,14,regular,Round 14,BLTC 1,Tennis World 1,8,2,4,2,,,30,14,Completed,
+UA012142,20 Nov 11,14,regular,Round 14,Dendy Park,Middle Brighton,3,7,3,3,,,24,25,Completed,
+UA012143,20 Nov 11,14,regular,Round 14,Lauriston,Parkdale,8,2,4,2,,,28,23,Completed,
+UA012144,20 Nov 11,14,regular,Round 14,Tennis World 2,BLTC 2,10,0,6,0,,,36,10,Completed,
+UA012301,,16,semi_final,Semi-final,Tennis World 2,Lauriston,9,1,5,1,,,33,17,Completed,
+pending-ua012-r16-dendy-park-middle-brighton,,16,semi_final,Semi-final,Dendy Park,Middle Brighton,,,,,,,,,Forfeited By,No individual scorecard / no rubbers recorded
+UA012321,,17,grand_final,Grand final · TROLS entry 2,Tennis World 2,Dendy Park,2,8,2,4,,,27,30,Completed,

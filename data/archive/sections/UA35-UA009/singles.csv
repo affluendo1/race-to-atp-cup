@@ -1,0 +1,227 @@
+fixture_id,date,round,home_team,away_team,position,home_player,away_player,winning_player,score,home_games,away_games,home_sets,away_sets,status,valid_for_rating,home_emergency,away_emergency
+UA009011,21 Jul 24,1,Maccabi Moorleigh,Royal Ave,No. 1,Alex Yang,Sia Kasapidis,Alex Yang,6-3,6,3,1,0,Completed,true,false,true
+UA009011,21 Jul 24,1,Maccabi Moorleigh,Royal Ave,No. 2,Zac Cheng,Evy Davies,Zac Cheng,6-0,6,0,1,0,Completed,true,false,false
+UA009011,21 Jul 24,1,Maccabi Moorleigh,Royal Ave,No. 3,Clark Lin,Sam Harcourt,Clark Lin,6-1,6,1,1,0,Completed,true,false,false
+UA009011,21 Jul 24,1,Maccabi Moorleigh,Royal Ave,No. 4,Oscar Le,Alex Tzimos,Oscar Le,6-0,6,0,1,0,Completed,true,false,false
+UA009012,21 Jul 24,1,Kooyong,Hurlingham Park,No. 1,James Wong,Rey Hu,James Wong,6-2,6,2,1,0,Completed,true,false,false
+UA009012,21 Jul 24,1,Kooyong,Hurlingham Park,No. 2,Maximilian Lord,James Russo,James Russo,6-7,6,7,0,1,Completed,true,false,false
+UA009012,21 Jul 24,1,Kooyong,Hurlingham Park,No. 3,Annabelle Wong,Dominic Eather,Annabelle Wong,6-4,6,4,1,0,Completed,true,false,false
+UA009012,21 Jul 24,1,Kooyong,Hurlingham Park,No. 4,William Stevens,Cristian Bianchi,William Stevens,6-4,6,4,1,0,Completed,true,false,false
+UA009013,21 Jul 24,1,GPHC,Glen Huntly,No. 1,Jack Boussioutas,Gabrielle Duieb,Jack Boussioutas,6-0,6,0,1,0,Completed,true,false,false
+UA009013,21 Jul 24,1,GPHC,Glen Huntly,No. 2,Zach Carmichael,Anastasia Udriste,Anastasia Udriste,0-6,0,6,0,1,Completed,true,false,false
+UA009013,21 Jul 24,1,GPHC,Glen Huntly,No. 3,Oscar Hilbert,Charlie Renwick,Oscar Hilbert,6-4,6,4,1,0,Completed,true,false,false
+UA009013,21 Jul 24,1,GPHC,Glen Huntly,No. 4,Kristina Bratkova,Zac Miller,Zac Miller,4-6,4,6,0,1,Completed,true,false,false
+UA009014,21 Jul 24,1,Coatesville,Elsternwick Park,No. 1,Georgi Demosthenous,Naoko Hashimoto,Georgi Demosthenous,6-1,6,1,1,0,Completed,true,false,false
+UA009014,21 Jul 24,1,Coatesville,Elsternwick Park,No. 2,Ethan Nemenman,Laura Leuner,Ethan Nemenman,7-5,7,5,1,0,Completed,true,false,false
+UA009014,21 Jul 24,1,Coatesville,Elsternwick Park,No. 3,Isabella Li,Charlotte O'Brien,Isabella Li,6-1,6,1,1,0,Completed,true,false,false
+UA009014,21 Jul 24,1,Coatesville,Elsternwick Park,No. 4,Jack Tan,Ilayda Col,Jack Tan,6-1,6,1,1,0,Completed,true,false,true
+UA009023,28 Jul 24,2,Hurlingham Park,GPHC,No. 1,Rey Hu,Zach Carmichael,Rey Hu,6-1,6,1,1,0,Completed,true,false,false
+UA009023,28 Jul 24,2,Hurlingham Park,GPHC,No. 2,James Russo,Oscar Hilbert,Oscar Hilbert,4-6,4,6,0,1,Completed,true,false,false
+UA009023,28 Jul 24,2,Hurlingham Park,GPHC,No. 3,Sam Russo,Julia Scott,Sam Russo,6-2,6,2,1,0,Completed,true,false,false
+UA009023,28 Jul 24,2,Hurlingham Park,GPHC,No. 4,Dominic Eather,Jesse Snyder,Jesse Snyder,3-6,3,6,0,1,Completed,true,false,false
+UA009024,28 Jul 24,2,Glen Huntly,Coatesville,No. 1,Charlie Renwick,Isabella Li,,3-3,3,3,0,0,Completed,false,false,false
+UA009024,28 Jul 24,2,Glen Huntly,Coatesville,No. 2,Oliver Sey,Faris Buturovic,Faris Buturovic,0-6,0,6,0,1,Completed,true,false,false
+UA009031,04 Aug 24,3,Maccabi Moorleigh,Glen Huntly,No. 1,Alex Yang,Gabrielle Duieb,Alex Yang,6-2,6,2,1,0,Completed,true,false,false
+UA009031,04 Aug 24,3,Maccabi Moorleigh,Glen Huntly,No. 2,Clark Lin,Anastasia Udriste,Anastasia Udriste,1-6,1,6,0,1,Completed,true,false,false
+UA009031,04 Aug 24,3,Maccabi Moorleigh,Glen Huntly,No. 3,Oscar Le,Charlie Renwick,Oscar Le,6-0,6,0,1,0,Completed,true,false,false
+UA009031,04 Aug 24,3,Maccabi Moorleigh,Glen Huntly,No. 4,Pounny Zhon,Oliver Sey,Pounny Zhon,6-2,6,2,1,0,Completed,true,false,false
+UA009032,04 Aug 24,3,Kooyong,Elsternwick Park,No. 1,Alexander Anderson,Rosie Kelly,Alexander Anderson,6-1,6,1,1,0,Completed,true,false,false
+UA009032,04 Aug 24,3,Kooyong,Elsternwick Park,No. 2,Maximilian Lord,Austin Sun,Maximilian Lord,6-2,6,2,1,0,Completed,true,false,false
+UA009032,04 Aug 24,3,Kooyong,Elsternwick Park,No. 3,Pia Stewart,Naoko Hashimoto,Naoko Hashimoto,0-6,0,6,0,1,Completed,true,false,false
+UA009032,04 Aug 24,3,Kooyong,Elsternwick Park,No. 4,Elliot Lord,Sol Arumugam,Sol Arumugam,0-6,0,6,0,1,Completed,true,true,false
+UA009033,04 Aug 24,3,GPHC,Royal Ave,No. 1,Jack Boussioutas,Claire Li,Jack Boussioutas,6-3,6,3,1,0,Completed,true,false,false
+UA009033,04 Aug 24,3,GPHC,Royal Ave,No. 2,Oscar Hilbert,Sia Kasapidis,Oscar Hilbert,6-2,6,2,1,0,Completed,true,false,true
+UA009033,04 Aug 24,3,GPHC,Royal Ave,No. 3,Julia Scott,Lily MacKenzie,Julia Scott,6-0,6,0,1,0,Completed,true,false,false
+UA009033,04 Aug 24,3,GPHC,Royal Ave,No. 4,Kristina Bratkova,Sam Harcourt,Kristina Bratkova,6-1,6,1,1,0,Completed,true,false,false
+UA009034,04 Aug 24,3,Coatesville,Hurlingham Park,No. 1,Georgi Demosthenous,Ava Nimorakiotakis,Georgi Demosthenous,6-1,6,1,1,0,Completed,true,false,false
+UA009034,04 Aug 24,3,Coatesville,Hurlingham Park,No. 2,Ethan Nemenman,James Russo,Ethan Nemenman,6-4,6,4,1,0,Completed,true,false,false
+UA009034,04 Aug 24,3,Coatesville,Hurlingham Park,No. 3,Isabella Li,Sam Russo,Isabella Li,6-1,6,1,1,0,Completed,true,false,false
+UA009034,04 Aug 24,3,Coatesville,Hurlingham Park,No. 4,Faris Buturovic,Cristian Bianchi,Faris Buturovic,6-2,6,2,1,0,Completed,true,false,false
+UA009041,11 Aug 24,4,Hurlingham Park,Maccabi Moorleigh,No. 1,Ava Nimorakiotakis,Alex Yang,Alex Yang,2-6,2,6,0,1,Completed,true,false,false
+UA009041,11 Aug 24,4,Hurlingham Park,Maccabi Moorleigh,No. 2,James Russo,Zac Cheng,James Russo,7-5,7,5,1,0,Completed,true,false,false
+UA009041,11 Aug 24,4,Hurlingham Park,Maccabi Moorleigh,No. 3,Sam Russo,Oscar Le,Oscar Le,0-6,0,6,0,1,Completed,true,false,false
+UA009041,11 Aug 24,4,Hurlingham Park,Maccabi Moorleigh,No. 4,Dominic Eather,Pounny Zhon,Dominic Eather,6-0,6,0,1,0,Completed,true,false,false
+UA009042,11 Aug 24,4,Glen Huntly,Kooyong,No. 1,Gabrielle Duieb,Alexander Anderson,Alexander Anderson,0-6,0,6,0,1,Completed,true,false,false
+UA009042,11 Aug 24,4,Glen Huntly,Kooyong,No. 2,Anastasia Udriste,Maximilian Lord,Anastasia Udriste,7-5,7,5,1,0,Completed,true,false,false
+UA009042,11 Aug 24,4,Glen Huntly,Kooyong,No. 3,Charlie Renwick,Oliver Dennis,Charlie Renwick,6-1,6,1,1,0,Completed,true,false,false
+UA009042,11 Aug 24,4,Glen Huntly,Kooyong,No. 4,Zac Miller,Pia Stewart,Pia Stewart,1-6,1,6,0,1,Completed,true,false,false
+UA009043,11 Aug 24,4,Elsternwick Park,GPHC,No. 1,Rosie Kelly,Jack Boussioutas,Jack Boussioutas,0-6,0,6,0,1,Completed,true,false,false
+UA009043,11 Aug 24,4,Elsternwick Park,GPHC,No. 2,Naoko Hashimoto,Zach Carmichael,Naoko Hashimoto,6-1,6,1,1,0,Completed,true,false,false
+UA009043,11 Aug 24,4,Elsternwick Park,GPHC,No. 3,Laura Leuner,Julia Scott,Laura Leuner,7-6,7,6,1,0,Completed,true,false,false
+UA009043,11 Aug 24,4,Elsternwick Park,GPHC,No. 4,Sol Arumugam,Kristina Bratkova,Sol Arumugam,6-2,6,2,1,0,Completed,true,false,false
+UA009044,11 Aug 24,4,Royal Ave,Coatesville,No. 1,Claire Li,Isabella Li,Isabella Li,1-6,1,6,0,1,Completed,true,false,false
+UA009044,11 Aug 24,4,Royal Ave,Coatesville,No. 2,Evy Davies,Faris Buturovic,Faris Buturovic,2-6,2,6,0,1,Completed,true,false,false
+UA009044,11 Aug 24,4,Royal Ave,Coatesville,No. 3,Sam Harcourt,Jack Tan,Jack Tan,1-6,1,6,0,1,Completed,true,false,false
+UA009044,11 Aug 24,4,Royal Ave,Coatesville,No. 4,Alex Tzimos,Martin Curnow,Martin Curnow,1-6,1,6,0,1,Completed,true,false,true
+UA009051,18 Aug 24,5,GPHC,Coatesville,No. 1,Jack Boussioutas,Faris Buturovic,Faris Buturovic,3-6,3,6,0,1,Completed,true,false,false
+UA009051,18 Aug 24,5,GPHC,Coatesville,No. 2,Zach Carmichael,Jack Tan,Zach Carmichael,6-3,6,3,1,0,Completed,true,false,false
+UA009051,18 Aug 24,5,GPHC,Coatesville,No. 3,Oscar Hilbert,Hugo Szynkowski,Oscar Hilbert,7-6,7,6,1,0,Completed,true,false,false
+UA009051,18 Aug 24,5,GPHC,Coatesville,No. 4,Kristina Bratkova,Timothy Tan,Kristina Bratkova,6-2,6,2,1,0,Completed,true,false,true
+UA009052,18 Aug 24,5,Elsternwick Park,Glen Huntly,No. 1,Rosie Kelly,Gabrielle Duieb,Rosie Kelly,6-2,6,2,1,0,Completed,true,false,false
+UA009052,18 Aug 24,5,Elsternwick Park,Glen Huntly,No. 2,Naoko Hashimoto,Anastasia Udriste,Naoko Hashimoto,6-3,6,3,1,0,Completed,true,false,false
+UA009052,18 Aug 24,5,Elsternwick Park,Glen Huntly,No. 3,Sol Arumugam,Charlie Renwick,Charlie Renwick,2-6,2,6,0,1,Completed,true,false,false
+UA009052,18 Aug 24,5,Elsternwick Park,Glen Huntly,No. 4,Charlotte O'Brien,Zac Miller,Zac Miller,2-6,2,6,0,1,Completed,true,false,false
+UA009053,18 Aug 24,5,Hurlingham Park,Royal Ave,No. 1,Ava Nimorakiotakis,Sia Kasapidis,Ava Nimorakiotakis,6-2,6,2,1,0,Completed,true,false,true
+UA009053,18 Aug 24,5,Hurlingham Park,Royal Ave,No. 2,Rey Hu,Evy Davies,Rey Hu,6-2,6,2,1,0,Completed,true,false,false
+UA009053,18 Aug 24,5,Hurlingham Park,Royal Ave,No. 3,Dominic Eather,Sam Harcourt,Dominic Eather,6-1,6,1,1,0,Completed,true,false,false
+UA009053,18 Aug 24,5,Hurlingham Park,Royal Ave,No. 4,Cristian Bianchi,Alex Tzimos,Cristian Bianchi,6-2,6,2,1,0,Completed,true,false,false
+UA009054,18 Aug 24,5,Maccabi Moorleigh,Kooyong,No. 1,Alex Yang,Alexander Anderson,Alex Yang,6-3,6,3,1,0,Completed,true,false,false
+UA009054,18 Aug 24,5,Maccabi Moorleigh,Kooyong,No. 2,Zac Cheng,Maximilian Lord,Zac Cheng,6-0,6,0,1,0,Completed,true,false,false
+UA009054,18 Aug 24,5,Maccabi Moorleigh,Kooyong,No. 3,Clark Lin,Oliver Dennis,Clark Lin,6-0,6,0,1,0,Completed,true,false,false
+UA009054,18 Aug 24,5,Maccabi Moorleigh,Kooyong,No. 4,Pounny Zhon,Pia Stewart,Pounny Zhon,6-1,6,1,1,0,Completed,true,false,false
+UA009061,25 Aug 24,6,Kooyong,GPHC,No. 1,James Wong,Zach Carmichael,Zach Carmichael,5-7,5,7,0,1,Completed,true,false,false
+UA009061,25 Aug 24,6,Kooyong,GPHC,No. 2,George Stevens,Oscar Hilbert,Oscar Hilbert,4-6,4,6,0,1,Completed,true,false,false
+UA009061,25 Aug 24,6,Kooyong,GPHC,No. 3,Annabelle Wong,Julia Scott,Annabelle Wong,6-0,6,0,1,0,Completed,true,false,false
+UA009061,25 Aug 24,6,Kooyong,GPHC,No. 4,William Stevens,Kristina Bratkova,Kristina Bratkova,1-6,1,6,0,1,Completed,true,false,false
+UA009062,25 Aug 24,6,Coatesville,Maccabi Moorleigh,No. 1,Faris Buturovic,Alex Yang,Faris Buturovic,6-3,6,3,1,0,Completed,true,false,false
+UA009062,25 Aug 24,6,Coatesville,Maccabi Moorleigh,No. 2,Jack Tan,Zac Cheng,Jack Tan,6-4,6,4,1,0,Completed,true,false,false
+UA009062,25 Aug 24,6,Coatesville,Maccabi Moorleigh,No. 3,Martin Curnow,Clark Lin,Martin Curnow,6-3,6,3,1,0,Completed,true,true,false
+UA009062,25 Aug 24,6,Coatesville,Maccabi Moorleigh,No. 4,[Unnamed player — TROLS UA009062 home code 4],Oscar Le,Oscar Le,0-6,0,6,0,1,Completed,false,false,false
+UA009063,25 Aug 24,6,Glen Huntly,Hurlingham Park,No. 1,Gabrielle Duieb,Ava Nimorakiotakis,Ava Nimorakiotakis,4-6,4,6,0,1,Completed,true,false,false
+UA009063,25 Aug 24,6,Glen Huntly,Hurlingham Park,No. 2,Charlie Renwick,Rey Hu,Charlie Renwick,7-5,7,5,1,0,Completed,true,false,false
+UA009063,25 Aug 24,6,Glen Huntly,Hurlingham Park,No. 3,Oliver Sey,James Russo,James Russo,3-6,3,6,0,1,Completed,true,false,false
+UA009063,25 Aug 24,6,Glen Huntly,Hurlingham Park,No. 4,Zac Miller,Dominic Eather,Dominic Eather,2-6,2,6,0,1,Completed,true,false,false
+UA009064,25 Aug 24,6,Royal Ave,Elsternwick Park,No. 1,Claire Li,Rosie Kelly,Claire Li,6-1,6,1,1,0,Completed,true,false,false
+UA009064,25 Aug 24,6,Royal Ave,Elsternwick Park,No. 2,Evy Davies,Austin Sun,Austin Sun,0-6,0,6,0,1,Completed,true,false,false
+UA009064,25 Aug 24,6,Royal Ave,Elsternwick Park,No. 3,Sam Harcourt,Laura Leuner,Sam Harcourt,7-5,7,5,1,0,Completed,true,false,false
+UA009064,25 Aug 24,6,Royal Ave,Elsternwick Park,No. 4,Alex Tzimos,Charlotte O'Brien,Charlotte O'Brien,4-6,4,6,0,1,Completed,true,false,false
+UA009071,01 Sep 24,7,Maccabi Moorleigh,GPHC,No. 1,Alex Yang,Jack Boussioutas,Alex Yang,6-2,6,2,1,0,Completed,true,false,false
+UA009071,01 Sep 24,7,Maccabi Moorleigh,GPHC,No. 2,Zac Cheng,Zach Carmichael,Zac Cheng,6-2,6,2,1,0,Completed,true,false,false
+UA009071,01 Sep 24,7,Maccabi Moorleigh,GPHC,No. 3,Pounny Zhon,Julia Scott,Pounny Zhon,6-3,6,3,1,0,Completed,true,false,false
+UA009071,01 Sep 24,7,Maccabi Moorleigh,GPHC,No. 4,Ari Threadgold,Jesse Snyder,Jesse Snyder,1-6,1,6,0,1,Completed,true,true,false
+UA009072,01 Sep 24,7,Kooyong,Coatesville,No. 1,George Stevens,Georgi Demosthenous,George Stevens,7-5,7,5,1,0,Completed,true,false,false
+UA009072,01 Sep 24,7,Kooyong,Coatesville,No. 2,Maximilian Lord,Isabella Li,Isabella Li,2-6,2,6,0,1,Completed,true,false,false
+UA009072,01 Sep 24,7,Kooyong,Coatesville,No. 3,Oliver Dennis,Jack Tan,Jack Tan,3-6,3,6,0,1,Completed,true,false,false
+UA009072,01 Sep 24,7,Kooyong,Coatesville,No. 4,Pia Stewart,Thomas Jenner,Thomas Jenner,5-7,5,7,0,1,Completed,true,false,true
+UA009073,01 Sep 24,7,Elsternwick Park,Hurlingham Park,No. 1,Naoko Hashimoto,Ava Nimorakiotakis,Ava Nimorakiotakis,3-6,3,6,0,1,Completed,true,false,false
+UA009073,01 Sep 24,7,Elsternwick Park,Hurlingham Park,No. 2,Laura Leuner,James Russo,Laura Leuner,7-6,7,6,1,0,Completed,true,false,false
+UA009073,01 Sep 24,7,Elsternwick Park,Hurlingham Park,No. 3,Sol Arumugam,Sam Russo,Sam Russo,3-6,3,6,0,1,Completed,true,false,false
+UA009073,01 Sep 24,7,Elsternwick Park,Hurlingham Park,No. 4,Freya Hewitt,Cristian Bianchi,Cristian Bianchi,3-6,3,6,0,1,Completed,true,true,false
+UA009074,01 Sep 24,7,Glen Huntly,Royal Ave,No. 1,Gabrielle Duieb,Claire Li,Claire Li,4-6,4,6,0,1,Completed,true,false,false
+UA009074,01 Sep 24,7,Glen Huntly,Royal Ave,No. 2,Anastasia Udriste,Sia Kasapidis,Anastasia Udriste,6-4,6,4,1,0,Completed,true,false,true
+UA009074,01 Sep 24,7,Glen Huntly,Royal Ave,No. 3,Charlie Renwick,Lily MacKenzie,Charlie Renwick,6-1,6,1,1,0,Completed,true,false,false
+UA009074,01 Sep 24,7,Glen Huntly,Royal Ave,No. 4,Oliver Sey,Sam Harcourt,Oliver Sey,6-1,6,1,1,0,Completed,true,false,false
+UA009081,08 Sep 24,8,Royal Ave,Maccabi Moorleigh,No. 1,Eric Shoa,Alex Yang,Alex Yang,3-6,3,6,0,1,Completed,true,true,false
+UA009081,08 Sep 24,8,Royal Ave,Maccabi Moorleigh,No. 2,Lily MacKenzie,Zac Cheng,Zac Cheng,0-6,0,6,0,1,Completed,true,false,false
+UA009081,08 Sep 24,8,Royal Ave,Maccabi Moorleigh,No. 3,Evy Davies,Oscar Le,Oscar Le,0-6,0,6,0,1,Completed,true,false,false
+UA009081,08 Sep 24,8,Royal Ave,Maccabi Moorleigh,No. 4,Sam Harcourt,Pounny Zhon,Pounny Zhon,3-6,3,6,0,1,Completed,true,false,false
+UA009082,08 Sep 24,8,Hurlingham Park,Kooyong,No. 1,Ava Nimorakiotakis,Alexander Anderson,Alexander Anderson,3-6,3,6,0,1,Completed,true,false,false
+UA009082,08 Sep 24,8,Hurlingham Park,Kooyong,No. 2,Rey Hu,Maximilian Lord,Maximilian Lord,3-6,3,6,0,1,Completed,true,false,false
+UA009082,08 Sep 24,8,Hurlingham Park,Kooyong,No. 3,Dominic Eather,Pia Stewart,Dominic Eather,6-0,6,0,1,0,Completed,true,false,false
+UA009082,08 Sep 24,8,Hurlingham Park,Kooyong,No. 4,Cristian Bianchi,Oliver Dennis,Cristian Bianchi,6-0,6,0,1,0,Completed,true,false,false
+UA009083,08 Sep 24,8,Glen Huntly,GPHC,No. 1,Gabrielle Duieb,Oscar Hilbert,Oscar Hilbert,0-6,0,6,0,1,Completed,true,false,false
+UA009083,08 Sep 24,8,Glen Huntly,GPHC,No. 2,Anastasia Udriste,Julia Scott,Julia Scott,5-7,5,7,0,1,Completed,true,false,false
+UA009083,08 Sep 24,8,Glen Huntly,GPHC,No. 3,Charlie Renwick,Kristina Bratkova,Charlie Renwick,6-1,6,1,1,0,Completed,true,false,false
+UA009083,08 Sep 24,8,Glen Huntly,GPHC,No. 4,Zac Miller,Jesse Snyder,Jesse Snyder,3-6,3,6,0,1,Completed,true,false,false
+UA009084,08 Sep 24,8,Elsternwick Park,Coatesville,No. 1,Rosie Kelly,Isabella Li,Isabella Li,5-7,5,7,0,1,Completed,true,false,false
+UA009084,08 Sep 24,8,Elsternwick Park,Coatesville,No. 2,Austin Sun,Faris Buturovic,Austin Sun,6-4,6,4,1,0,Completed,true,false,false
+UA009084,08 Sep 24,8,Elsternwick Park,Coatesville,No. 3,Sol Arumugam,Jack Tan,Sol Arumugam,7-6,7,6,1,0,Completed,true,false,false
+UA009084,08 Sep 24,8,Elsternwick Park,Coatesville,No. 4,Charlotte O'Brien,[Unnamed player — TROLS UA009084 away code 4],Charlotte O'Brien,6-0,6,0,1,0,Completed,false,false,false
+UA009091,15 Sep 24,9,Maccabi Moorleigh,Elsternwick Park,No. 1,Alex Yang,Rosie Kelly,Alex Yang,6-4,6,4,1,0,Completed,true,false,false
+UA009091,15 Sep 24,9,Maccabi Moorleigh,Elsternwick Park,No. 2,Clark Lin,Naoko Hashimoto,Clark Lin,6-3,6,3,1,0,Completed,true,false,false
+UA009091,15 Sep 24,9,Maccabi Moorleigh,Elsternwick Park,No. 3,Oscar Le,Laura Leuner,Oscar Le,6-0,6,0,1,0,Completed,true,false,false
+UA009091,15 Sep 24,9,Maccabi Moorleigh,Elsternwick Park,No. 4,Pounny Zhon,Charlotte O'Brien,Pounny Zhon,6-4,6,4,1,0,Completed,true,false,false
+UA009092,15 Sep 24,9,Kooyong,Royal Ave,No. 1,Alexander Anderson,Claire Li,Alexander Anderson,6-1,6,1,1,0,Completed,true,false,false
+UA009092,15 Sep 24,9,Kooyong,Royal Ave,No. 2,Oliver Dennis,Lily MacKenzie,Oliver Dennis,7-5,7,5,1,0,Completed,true,false,false
+UA009092,15 Sep 24,9,Kooyong,Royal Ave,No. 3,Pia Stewart,Evy Davies,Pia Stewart,6-1,6,1,1,0,Completed,true,false,false
+UA009092,15 Sep 24,9,Kooyong,Royal Ave,No. 4,Elliot Lord,Sam Harcourt,Sam Harcourt,2-6,2,6,0,1,Completed,true,true,false
+UA009093,15 Sep 24,9,GPHC,Hurlingham Park,No. 1,Jack Boussioutas,Rey Hu,Jack Boussioutas,6-2,6,2,1,0,Completed,true,false,false
+UA009093,15 Sep 24,9,GPHC,Hurlingham Park,No. 2,Zach Carmichael,James Russo,James Russo,3-6,3,6,0,1,Completed,true,false,false
+UA009093,15 Sep 24,9,GPHC,Hurlingham Park,No. 3,Oscar Hilbert,Sam Russo,Oscar Hilbert,6-2,6,2,1,0,Completed,true,false,false
+UA009093,15 Sep 24,9,GPHC,Hurlingham Park,No. 4,Kristina Bratkova,Cristian Bianchi,Cristian Bianchi,1-6,1,6,0,1,Completed,true,false,false
+UA009094,15 Sep 24,9,Coatesville,Glen Huntly,No. 1,Georgi Demosthenous,Gabrielle Duieb,Georgi Demosthenous,7-5,7,5,1,0,Completed,true,false,false
+UA009094,15 Sep 24,9,Coatesville,Glen Huntly,No. 2,Ethan Nemenman,Anastasia Udriste,Ethan Nemenman,7-5,7,5,1,0,Completed,true,false,false
+UA009094,15 Sep 24,9,Coatesville,Glen Huntly,No. 3,Faris Buturovic,Oliver Sey,Faris Buturovic,7-5,7,5,1,0,Completed,true,false,false
+UA009094,15 Sep 24,9,Coatesville,Glen Huntly,No. 4,Jack Tan,Zac Miller,Jack Tan,6-4,6,4,1,0,Completed,true,false,false
+UA009101,13 Oct 24,10,Glen Huntly,Maccabi Moorleigh,No. 1,Anastasia Udriste,Alex Yang,Alex Yang,3-6,3,6,0,1,Completed,true,false,false
+UA009101,13 Oct 24,10,Glen Huntly,Maccabi Moorleigh,No. 2,Charlie Renwick,Zac Cheng,Charlie Renwick,6-4,6,4,1,0,Completed,true,false,false
+UA009101,13 Oct 24,10,Glen Huntly,Maccabi Moorleigh,No. 3,Oliver Sey,Clark Lin,Oliver Sey,7-5,7,5,1,0,Completed,true,false,false
+UA009101,13 Oct 24,10,Glen Huntly,Maccabi Moorleigh,No. 4,Zac Miller,Pounny Zhon,Pounny Zhon,2-6,2,6,0,1,Completed,true,false,false
+UA009102,13 Oct 24,10,Elsternwick Park,Kooyong,No. 1,Rosie Kelly,James Wong,James Wong,1-6,1,6,0,1,Completed,true,false,false
+UA009102,13 Oct 24,10,Elsternwick Park,Kooyong,No. 2,Austin Sun,George Stevens,Austin Sun,6-2,6,2,1,0,Completed,true,false,false
+UA009102,13 Oct 24,10,Elsternwick Park,Kooyong,No. 3,Naoko Hashimoto,Annabelle Wong,Annabelle Wong,2-6,2,6,0,1,Completed,true,false,false
+UA009102,13 Oct 24,10,Elsternwick Park,Kooyong,No. 4,Laura Leuner,William Stevens,Laura Leuner,6-3,6,3,1,0,Completed,true,false,false
+UA009103,13 Oct 24,10,Royal Ave,GPHC,No. 1,Claire Li,Jack Boussioutas,Jack Boussioutas,2-6,2,6,0,1,Completed,true,false,false
+UA009103,13 Oct 24,10,Royal Ave,GPHC,No. 2,Sam Harcourt,Zach Carmichael,Zach Carmichael,2-6,2,6,0,1,Completed,true,false,false
+UA009103,13 Oct 24,10,Royal Ave,GPHC,No. 3,Alex Tzimos,Julia Scott,Julia Scott,0-6,0,6,0,1,Completed,true,false,false
+UA009103,13 Oct 24,10,Royal Ave,GPHC,No. 4,Sam Smith,Jesse Snyder,Jesse Snyder,1-6,1,6,0,1,Completed,true,false,false
+UA009104,13 Oct 24,10,Hurlingham Park,Coatesville,No. 1,Ava Nimorakiotakis,Georgi Demosthenous,Ava Nimorakiotakis,7-5,7,5,1,0,Completed,true,false,false
+UA009104,13 Oct 24,10,Hurlingham Park,Coatesville,No. 2,Rey Hu,Ethan Nemenman,Ethan Nemenman,2-6,2,6,0,1,Completed,true,false,false
+UA009104,13 Oct 24,10,Hurlingham Park,Coatesville,No. 3,James Russo,Faris Buturovic,James Russo,6-4,6,4,1,0,Completed,true,false,false
+UA009104,13 Oct 24,10,Hurlingham Park,Coatesville,No. 4,Sam Russo,Jack Tan,Sam Russo,6-4,6,4,1,0,Completed,true,false,false
+UA009111,20 Oct 24,11,Maccabi Moorleigh,Hurlingham Park,No. 1,Alex Yang,Ava Nimorakiotakis,Alex Yang,6-3,6,3,1,0,Completed,true,false,false
+UA009111,20 Oct 24,11,Maccabi Moorleigh,Hurlingham Park,No. 2,Zac Cheng,Rey Hu,Zac Cheng,6-3,6,3,1,0,Completed,true,false,false
+UA009111,20 Oct 24,11,Maccabi Moorleigh,Hurlingham Park,No. 3,Oscar Le,Nicholas Bianchi,Oscar Le,6-0,6,0,1,0,Completed,true,false,true
+UA009111,20 Oct 24,11,Maccabi Moorleigh,Hurlingham Park,No. 4,Pounny Zhon,Cristian Bianchi,Pounny Zhon,6-2,6,2,1,0,Completed,true,false,false
+UA009112,20 Oct 24,11,Kooyong,Glen Huntly,No. 1,James Wong,Gabrielle Duieb,James Wong,6-3,6,3,1,0,Completed,true,false,false
+UA009112,20 Oct 24,11,Kooyong,Glen Huntly,No. 2,George Stevens,Anastasia Udriste,Anastasia Udriste,1-6,1,6,0,1,Completed,true,false,false
+UA009112,20 Oct 24,11,Kooyong,Glen Huntly,No. 3,Oliver Dennis,Oliver Sey,Oliver Sey,3-6,3,6,0,1,Completed,true,false,false
+UA009112,20 Oct 24,11,Kooyong,Glen Huntly,No. 4,Annabelle Wong,Zac Miller,Annabelle Wong,6-1,6,1,1,0,Completed,true,false,false
+UA009113,20 Oct 24,11,GPHC,Elsternwick Park,No. 1,Jack Boussioutas,Rosie Kelly,Jack Boussioutas,6-1,6,1,1,0,Completed,true,false,false
+UA009113,20 Oct 24,11,GPHC,Elsternwick Park,No. 2,Oscar Hilbert,Austin Sun,Oscar Hilbert,6-3,6,3,1,0,Completed,true,false,false
+UA009113,20 Oct 24,11,GPHC,Elsternwick Park,No. 3,Julia Scott,Naoko Hashimoto,Naoko Hashimoto,2-6,2,6,0,1,Completed,true,false,false
+UA009113,20 Oct 24,11,GPHC,Elsternwick Park,No. 4,Jesse Snyder,Laura Leuner,Jesse Snyder,6-2,6,2,1,0,Completed,true,false,false
+UA009114,20 Oct 24,11,Coatesville,Royal Ave,No. 1,Ethan Nemenman,Claire Li,Ethan Nemenman,6-2,6,2,1,0,Completed,true,false,false
+UA009114,20 Oct 24,11,Coatesville,Royal Ave,No. 2,Isabella Li,Lily MacKenzie,Isabella Li,6-2,6,2,1,0,Completed,true,false,false
+UA009114,20 Oct 24,11,Coatesville,Royal Ave,No. 3,Jack Tan,Sam Harcourt,Jack Tan,6-2,6,2,1,0,Completed,true,false,false
+UA009114,20 Oct 24,11,Coatesville,Royal Ave,No. 4,Hugo Szynkowski,Sam Smith,Hugo Szynkowski,6-1,6,1,1,0,Completed,true,false,false
+UA009121,27 Oct 24,12,Coatesville,GPHC,No. 1,Georgi Demosthenous,Zach Carmichael,Georgi Demosthenous,6-3,6,3,1,0,Completed,true,false,false
+UA009121,27 Oct 24,12,Coatesville,GPHC,No. 2,Ethan Nemenman,Oscar Hilbert,Ethan Nemenman,7-5,7,5,1,0,Completed,true,false,false
+UA009121,27 Oct 24,12,Coatesville,GPHC,No. 3,Isabella Li,Julia Scott,Isabella Li,7-5,7,5,1,0,Completed,true,false,false
+UA009121,27 Oct 24,12,Coatesville,GPHC,No. 4,Faris Buturovic,Jesse Snyder,Faris Buturovic,6-2,6,2,1,0,Completed,true,false,false
+UA009122,27 Oct 24,12,Glen Huntly,Elsternwick Park,No. 1,Gabrielle Duieb,Austin Sun,Gabrielle Duieb,6-3,6,3,1,0,Completed,true,false,false
+UA009122,27 Oct 24,12,Glen Huntly,Elsternwick Park,No. 2,Anastasia Udriste,Naoko Hashimoto,Naoko Hashimoto,3-6,3,6,0,1,Completed,true,false,false
+UA009122,27 Oct 24,12,Glen Huntly,Elsternwick Park,No. 3,Charlie Renwick,Laura Leuner,Charlie Renwick,6-0,6,0,1,0,Completed,true,false,false
+UA009122,27 Oct 24,12,Glen Huntly,Elsternwick Park,No. 4,Oliver Sey,Charlotte O'Brien,Oliver Sey,6-2,6,2,1,0,Completed,true,false,false
+UA009123,27 Oct 24,12,Royal Ave,Hurlingham Park,No. 1,Georgia Atkinson,James Russo,James Russo,2-6,2,6,0,1,Completed,true,true,false
+UA009123,27 Oct 24,12,Royal Ave,Hurlingham Park,No. 2,Sam Harcourt,Sam Russo,Sam Russo,5-7,5,7,0,1,Completed,true,false,false
+UA009123,27 Oct 24,12,Royal Ave,Hurlingham Park,No. 3,Sam Smith,Dominic Eather,Dominic Eather,2-6,2,6,0,1,Completed,true,false,false
+UA009123,27 Oct 24,12,Royal Ave,Hurlingham Park,No. 4,Flynt Von Cavallar,Cristian Bianchi,Cristian Bianchi,6-7,6,7,0,1,Completed,true,true,false
+UA009124,27 Oct 24,12,Kooyong,Maccabi Moorleigh,No. 1,James Wong,Alex Yang,James Wong,6-4,6,4,1,0,Completed,true,false,false
+UA009124,27 Oct 24,12,Kooyong,Maccabi Moorleigh,No. 2,Alexander Anderson,Zac Cheng,Zac Cheng,6-7,6,7,0,1,Completed,true,false,false
+UA009124,27 Oct 24,12,Kooyong,Maccabi Moorleigh,No. 3,Pia Stewart,Oscar Le,Oscar Le,1-6,1,6,0,1,Completed,true,false,false
+UA009124,27 Oct 24,12,Kooyong,Maccabi Moorleigh,No. 4,Annabelle Wong,Pounny Zhon,Annabelle Wong,6-0,6,0,1,0,Completed,true,false,false
+UA009131,10 Nov 24,13,GPHC,Kooyong,No. 1,Jack Boussioutas,James Wong,James Wong,5-7,5,7,0,1,Completed,true,false,false
+UA009131,10 Nov 24,13,GPHC,Kooyong,No. 2,Zach Carmichael,George Stevens,Zach Carmichael,6-1,6,1,1,0,Completed,true,false,false
+UA009131,10 Nov 24,13,GPHC,Kooyong,No. 3,Julia Scott,Annabelle Wong,Annabelle Wong,2-6,2,6,0,1,Completed,true,false,false
+UA009131,10 Nov 24,13,GPHC,Kooyong,No. 4,Jesse Snyder,William Stevens,William Stevens,4-6,4,6,0,1,Completed,true,false,false
+UA009132,10 Nov 24,13,Maccabi Moorleigh,Coatesville,No. 1,Alex Yang,Georgi Demosthenous,Alex Yang,6-1,6,1,1,0,Completed,true,false,false
+UA009132,10 Nov 24,13,Maccabi Moorleigh,Coatesville,No. 2,Clark Lin,Ethan Nemenman,Ethan Nemenman,2-6,2,6,0,1,Completed,true,false,false
+UA009132,10 Nov 24,13,Maccabi Moorleigh,Coatesville,No. 3,Oscar Le,Isabella Li,Oscar Le,6-3,6,3,1,0,Completed,true,false,false
+UA009132,10 Nov 24,13,Maccabi Moorleigh,Coatesville,No. 4,Pounny Zhon,Jack Tan,Jack Tan,4-6,4,6,0,1,Completed,true,false,false
+UA009133,10 Nov 24,13,Hurlingham Park,Glen Huntly,No. 1,Ava Nimorakiotakis,Gabrielle Duieb,Gabrielle Duieb,3-6,3,6,0,1,Completed,true,false,false
+UA009133,10 Nov 24,13,Hurlingham Park,Glen Huntly,No. 2,Rey Hu,Anastasia Udriste,Anastasia Udriste,2-6,2,6,0,1,Completed,true,false,false
+UA009133,10 Nov 24,13,Hurlingham Park,Glen Huntly,No. 3,Sam Russo,Oliver Sey,Sam Russo,6-3,6,3,1,0,Completed,true,false,false
+UA009133,10 Nov 24,13,Hurlingham Park,Glen Huntly,No. 4,Dominic Eather,Zac Miller,Zac Miller,4-6,4,6,0,1,Completed,true,false,false
+UA009134,10 Nov 24,13,Elsternwick Park,Royal Ave,No. 1,Rosie Kelly,Claire Li,Claire Li,5-7,5,7,0,1,Completed,true,false,false
+UA009134,10 Nov 24,13,Elsternwick Park,Royal Ave,No. 2,Laura Leuner,Sam Harcourt,Laura Leuner,6-4,6,4,1,0,Completed,true,false,false
+UA009134,10 Nov 24,13,Elsternwick Park,Royal Ave,No. 3,Sol Arumugam,Alex Tzimos,Sol Arumugam,6-0,6,0,1,0,Completed,true,false,false
+UA009134,10 Nov 24,13,Elsternwick Park,Royal Ave,No. 4,Charlotte O'Brien,Sam Smith,Charlotte O'Brien,6-2,6,2,1,0,Completed,true,false,false
+UA009141,17 Nov 24,14,GPHC,Maccabi Moorleigh,No. 1,Zach Carmichael,Alex Yang,Alex Yang,2-6,2,6,0,1,Completed,true,false,false
+UA009141,17 Nov 24,14,GPHC,Maccabi Moorleigh,No. 2,Oscar Hilbert,Zac Cheng,Oscar Hilbert,6-1,6,1,1,0,Completed,true,false,false
+UA009141,17 Nov 24,14,GPHC,Maccabi Moorleigh,No. 3,Kristina Bratkova,Clark Lin,Clark Lin,3-6,3,6,0,1,Completed,true,false,false
+UA009141,17 Nov 24,14,GPHC,Maccabi Moorleigh,No. 4,Jesse Snyder,Oscar Le,Oscar Le,0-6,0,6,0,1,Completed,true,false,false
+UA009142,17 Nov 24,14,Coatesville,Kooyong,No. 1,Georgi Demosthenous,James Wong,James Wong,2-6,2,6,0,1,Completed,true,false,false
+UA009142,17 Nov 24,14,Coatesville,Kooyong,No. 2,Ethan Nemenman,Oliver Dennis,Ethan Nemenman,6-3,6,3,1,0,Completed,true,false,false
+UA009142,17 Nov 24,14,Coatesville,Kooyong,No. 3,Faris Buturovic,Annabelle Wong,Faris Buturovic,6-2,6,2,1,0,Completed,true,false,false
+UA009142,17 Nov 24,14,Coatesville,Kooyong,No. 4,Hugo Szynkowski,William Stevens,William Stevens,1-6,1,6,0,1,Completed,true,false,false
+UA009143,17 Nov 24,14,Hurlingham Park,Elsternwick Park,No. 1,Rey Hu,Rosie Kelly,Rosie Kelly,3-6,3,6,0,1,Completed,true,false,false
+UA009143,17 Nov 24,14,Hurlingham Park,Elsternwick Park,No. 2,James Russo,Naoko Hashimoto,James Russo,6-0,6,0,1,0,Completed,true,false,false
+UA009143,17 Nov 24,14,Hurlingham Park,Elsternwick Park,No. 3,Sam Russo,Sol Arumugam,Sam Russo,6-3,6,3,1,0,Completed,true,false,false
+UA009143,17 Nov 24,14,Hurlingham Park,Elsternwick Park,No. 4,Dominic Eather,Charlotte O'Brien,Dominic Eather,6-2,6,2,1,0,Completed,true,false,false
+UA009144,17 Nov 24,14,Royal Ave,Glen Huntly,No. 1,Claire Li,Gabrielle Duieb,Gabrielle Duieb,1-6,1,6,0,1,Completed,true,false,false
+UA009144,17 Nov 24,14,Royal Ave,Glen Huntly,No. 2,Lily MacKenzie,Anastasia Udriste,Anastasia Udriste,1-6,1,6,0,1,Completed,true,false,false
+UA009144,17 Nov 24,14,Royal Ave,Glen Huntly,No. 3,Sam Harcourt,Charlie Renwick,Charlie Renwick,1-6,1,6,0,1,Completed,true,false,false
+UA009144,17 Nov 24,14,Royal Ave,Glen Huntly,No. 4,Alex Tzimos,Zac Miller,Zac Miller,2-6,2,6,0,1,Completed,true,false,false
+UA009301,,16,Maccabi Moorleigh,Glen Huntly,No. 1,Alex Yang,Gabrielle Duieb,Alex Yang,6-4,6,4,1,0,Completed,true,false,false
+UA009301,,16,Maccabi Moorleigh,Glen Huntly,No. 2,Zac Cheng,Anastasia Udriste,Anastasia Udriste,4-6,4,6,0,1,Completed,true,false,false
+UA009301,,16,Maccabi Moorleigh,Glen Huntly,No. 3,Oscar Le,Charlie Renwick,Oscar Le,6-0,6,0,1,0,Completed,true,false,false
+UA009301,,16,Maccabi Moorleigh,Glen Huntly,No. 4,Pounny Zhon,Zac Miller,Pounny Zhon,6-3,6,3,1,0,Completed,true,false,false
+UA009302,,16,Coatesville,Hurlingham Park,No. 1,Georgi Demosthenous,Ava Nimorakiotakis,Georgi Demosthenous,6-4,6,4,1,0,Completed,true,false,false
+UA009302,,16,Coatesville,Hurlingham Park,No. 2,Ethan Nemenman,Rey Hu,Ethan Nemenman,6-1,6,1,1,0,Completed,true,false,false
+UA009302,,16,Coatesville,Hurlingham Park,No. 3,Isabella Li,James Russo,Isabella Li,6-4,6,4,1,0,Completed,true,false,false
+UA009302,,16,Coatesville,Hurlingham Park,No. 4,Faris Buturovic,Sam Russo,Sam Russo,5-7,5,7,0,1,Completed,true,false,false
+UA009321,,17,Maccabi Moorleigh,Coatesville,No. 1,Alex Yang,Georgi Demosthenous,Alex Yang,7-5,7,5,1,0,Completed,true,false,false
+UA009321,,17,Maccabi Moorleigh,Coatesville,No. 2,Zac Cheng,Ethan Nemenman,Zac Cheng,6-3,6,3,1,0,Completed,true,false,false
+UA009321,,17,Maccabi Moorleigh,Coatesville,No. 3,Oscar Le,Isabella Li,Oscar Le,6-2,6,2,1,0,Completed,true,false,false
+UA009321,,17,Maccabi Moorleigh,Coatesville,No. 4,Pounny Zhon,Faris Buturovic,Faris Buturovic,1-6,1,6,0,1,Completed,true,false,false

@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA16-UA001",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2015",
+  "season_id": "UA16",
+  "season_label": "Autumn 2015",
+  "source_section_code": "UA001",
+  "section_label": "Section 1",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong 1",
+      "wins": 9,
+      "points": 105,
+      "percentage": 165.84,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Kooyong 2",
+      "wins": 7,
+      "points": 86,
+      "percentage": 121.34,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "Beaumaris CC",
+      "wins": 6,
+      "points": 67,
+      "percentage": 85.03,
+      "marker": "R"
+    },
+    {
+      "position": 4,
+      "team": "Kooyong 3",
+      "wins": 5,
+      "points": 65,
+      "percentage": 104.33,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Dendy Park",
+      "wins": 4,
+      "points": 64,
+      "percentage": 101.85,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Mordialloc",
+      "wins": 4,
+      "points": 62,
+      "percentage": 92.9,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Parkdale",
+      "wins": 4,
+      "points": 54,
+      "percentage": 74.92,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC",
+      "wins": 2,
+      "points": 51,
+      "percentage": 80.21,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA16-UA001",
+  "fixtures": 59,
+  "completed_fixtures": 45,
+  "draw_fixtures": 59,
+  "singles_rubbers": 179,
+  "doubles_rubbers": 89,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

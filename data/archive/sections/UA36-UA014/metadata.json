@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA36-UA014",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Autumn 2025",
+  "season_id": "UA36",
+  "season_label": "Autumn 2025",
+  "source_section_code": "UA014",
+  "section_label": "Section 14",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Tennis World",
+      "wins": 10,
+      "points": 96,
+      "percentage": 125.48,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "BLTC Blue",
+      "wins": 8,
+      "points": 78,
+      "percentage": 114.15,
+      "marker": "P"
+    },
+    {
+      "position": 3,
+      "team": "Royal South Yarra",
+      "wins": 7,
+      "points": 77,
+      "percentage": 105.03,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Royal Ave Purple",
+      "wins": 7,
+      "points": 75,
+      "percentage": 102.65,
+      "marker": "R"
+    },
+    {
+      "position": 5,
+      "team": "Royal Ave Green",
+      "wins": 5,
+      "points": 69,
+      "percentage": 100.56,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Le Page",
+      "wins": 5,
+      "points": 65,
+      "percentage": 99.03,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Kings Park",
+      "wins": 4,
+      "points": 55,
+      "percentage": 84.7,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "St Andrews MB",
+      "wins": 3,
+      "points": 45,
+      "percentage": 76.14,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA36-UA014",
+  "fixtures": 59,
+  "completed_fixtures": 54,
+  "draw_fixtures": 59,
+  "singles_rubbers": 212,
+  "doubles_rubbers": 108,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

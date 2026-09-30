@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA29-UA007",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2021",
+  "season_id": "UA29",
+  "season_label": "Spring 2021",
+  "source_section_code": "UA007",
+  "section_label": "Section 7",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Mentone",
+      "wins": 4,
+      "points": 66,
+      "percentage": 103.75,
+      "marker": ""
+    },
+    {
+      "position": 2,
+      "team": "Royal South Yarra",
+      "wins": 1,
+      "points": 63,
+      "percentage": 135.11,
+      "marker": ""
+    },
+    {
+      "position": 3,
+      "team": "St Mary's",
+      "wins": 4,
+      "points": 63,
+      "percentage": 94.84,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Hurlingham Park",
+      "wins": 3,
+      "points": 61,
+      "percentage": 96.97,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Murrumbeena",
+      "wins": 3,
+      "points": 58,
+      "percentage": 94.53,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "St Joan of Arc",
+      "wins": 2,
+      "points": 57,
+      "percentage": 98.73,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Black Rock",
+      "wins": 1,
+      "points": 51,
+      "percentage": 92.53,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA29-UA007",
+  "fixtures": 56,
+  "completed_fixtures": 20,
+  "draw_fixtures": 56,
+  "singles_rubbers": 80,
+  "doubles_rubbers": 39,
+  "latest_round": 14,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

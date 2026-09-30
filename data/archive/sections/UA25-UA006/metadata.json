@@ -1,0 +1,91 @@
+{
+  "asset_id": "UA25-UA006",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2019",
+  "season_id": "UA25",
+  "season_label": "Spring 2019",
+  "source_section_code": "UA006",
+  "section_label": "Section 6",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Caulfield Rec",
+      "wins": 10,
+      "points": 97,
+      "percentage": 131.34,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 9,
+      "points": 93,
+      "percentage": 131.12,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Royal South Yarra",
+      "wins": 9,
+      "points": 86,
+      "percentage": 119.18,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "St Leonards Tennis",
+      "wins": 8,
+      "points": 77,
+      "percentage": 108.8,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Elsternwick Park",
+      "wins": 6,
+      "points": 63,
+      "percentage": 93.02,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Royal Ave",
+      "wins": 5,
+      "points": 63,
+      "percentage": 92.94,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "GPHC 1",
+      "wins": 3,
+      "points": 48,
+      "percentage": 77.86,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "GPHC 2",
+      "wins": 1,
+      "points": 33,
+      "percentage": 66.58,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA25-UA006",
+  "fixtures": 59,
+  "completed_fixtures": 55,
+  "draw_fixtures": 59,
+  "singles_rubbers": 220,
+  "doubles_rubbers": 110,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

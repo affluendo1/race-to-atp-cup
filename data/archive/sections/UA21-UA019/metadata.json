@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA21-UA019",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2017",
+  "season_id": "UA21",
+  "season_label": "Spring 2017",
+  "source_section_code": "UA019",
+  "section_label": "Section 19",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Caulfield Rec",
+      "wins": 11,
+      "points": 101,
+      "percentage": 209.84,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "St Pauls 1",
+      "wins": 8,
+      "points": 90,
+      "percentage": 178.22,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "St Pauls 2",
+      "wins": 8,
+      "points": 75,
+      "percentage": 116.74,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Black Rock",
+      "wins": 5,
+      "points": 62,
+      "percentage": 102.16,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Le Page",
+      "wins": 3,
+      "points": 40,
+      "percentage": 76.34,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC MLC",
+      "wins": 2,
+      "points": 29,
+      "percentage": 59.1,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal South Yarra",
+      "wins": 1,
+      "points": 23,
+      "percentage": 52.83,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA21-UA019",
+  "fixtures": 59,
+  "completed_fixtures": 43,
+  "draw_fixtures": 59,
+  "singles_rubbers": 170,
+  "doubles_rubbers": 86,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}

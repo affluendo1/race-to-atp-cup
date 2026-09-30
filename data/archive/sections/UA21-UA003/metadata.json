@@ -1,0 +1,93 @@
+{
+  "asset_id": "UA21-UA003",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2017",
+  "season_id": "UA21",
+  "season_label": "Spring 2017",
+  "source_section_code": "UA003",
+  "section_label": "Section 3",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong Scotch",
+      "wins": 13,
+      "points": 112,
+      "percentage": 154.55,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Coatesville",
+      "wins": 8,
+      "points": 94,
+      "percentage": 139.5,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Bentleigh Rec",
+      "wins": 8,
+      "points": 84,
+      "percentage": 120.52,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "GPHC",
+      "wins": 7,
+      "points": 81,
+      "percentage": 121.84,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "Royal Ave 1",
+      "wins": 7,
+      "points": 67,
+      "percentage": 93.48,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "Dendy Park",
+      "wins": 5,
+      "points": 61,
+      "percentage": 89.62,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave 2",
+      "wins": 1,
+      "points": 31.5,
+      "percentage": 60.95,
+      "marker": ""
+    },
+    {
+      "position": 8,
+      "team": "BLTC",
+      "wins": 1,
+      "points": 29.5,
+      "percentage": 64.96,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA21-UA003",
+  "fixtures": 59,
+  "completed_fixtures": 58,
+  "draw_fixtures": 45,
+  "singles_rubbers": 230,
+  "doubles_rubbers": 116,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": [
+    "Fixture rubber totals do not match rubbers for UA003033"
+  ]
+}

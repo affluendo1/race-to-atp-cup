@@ -1,0 +1,83 @@
+{
+  "asset_id": "UA15-UA017",
+  "competition_code": "UA",
+  "competition_label": "Sunday AM - Spring 2014",
+  "season_id": "UA15",
+  "season_label": "Spring 2014",
+  "source_section_code": "UA017",
+  "section_label": "Section 17",
+  "format": "sets",
+  "green_ball": false,
+  "is_archive": true,
+  "results_loaded_by_trols": null,
+  "official_standings": [
+    {
+      "position": 1,
+      "team": "Kooyong Xavier",
+      "wins": 10,
+      "points": 105,
+      "percentage": 221.18,
+      "marker": "P"
+    },
+    {
+      "position": 2,
+      "team": "Tennis World",
+      "wins": 7,
+      "points": 74,
+      "percentage": 122.1,
+      "marker": "R"
+    },
+    {
+      "position": 3,
+      "team": "Le Page",
+      "wins": 7,
+      "points": 71,
+      "percentage": 115.89,
+      "marker": ""
+    },
+    {
+      "position": 4,
+      "team": "Lauriston",
+      "wins": 6,
+      "points": 61,
+      "percentage": 103.03,
+      "marker": ""
+    },
+    {
+      "position": 5,
+      "team": "GPHC MLC 1",
+      "wins": 4,
+      "points": 46,
+      "percentage": 79.2,
+      "marker": ""
+    },
+    {
+      "position": 6,
+      "team": "GPHC MLC 2",
+      "wins": 3,
+      "points": 39,
+      "percentage": 70.03,
+      "marker": ""
+    },
+    {
+      "position": 7,
+      "team": "Royal Ave",
+      "wins": 1,
+      "points": 24,
+      "percentage": 56.32,
+      "marker": ""
+    }
+  ],
+  "section_code": "UA15-UA017",
+  "fixtures": 59,
+  "completed_fixtures": 41,
+  "draw_fixtures": 45,
+  "singles_rubbers": 164,
+  "doubles_rubbers": 82,
+  "latest_round": 17,
+  "regular_season_rounds": 14,
+  "validation": "passed",
+  "source": "TROLS Past Results and Past Ladders",
+  "draw_source": "TROLS Fixtures",
+  "validation_warnings": []
+}
