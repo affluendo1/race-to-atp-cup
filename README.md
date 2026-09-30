@@ -28,10 +28,10 @@ The normalized score stores normal `sets` separately from `matchTiebreak`. IDs r
 1. Open **Manual data → Seasons** to add a season and register its teams.
 2. Add/edit teams and players. Enter venue and home surface; the seed intentionally does not invent them.
 3. Open **Rosters** to register each player with roster position and S/C/D career designation. The default composition is 2 S, 6 C, 4 D. Career type never assigns skill or preferential badge status.
-4. Open **Fixture editor**, create a stable fixture ID, choose its date, round, teams, stage and status. Regular fixtures inherit the entered home venue/surface; overrides are supported.
-5. Select eight unique rostered players on each side. Assign four singles and four doubles pairs; the pairs collectively use all eight players once.
-6. Enter scores **from the home side’s perspective**, for example `6-4 3-6 6-2` or `6-4 3-6 [10-7]`. Winner normally derives from score. Retirement, walkover and default require an explicit winner.
-7. Review the live rubbers/sets/games summary, set status to Completed and save. The audit blocks invalid entries. All tables and profiles rebuild automatically.
+4. Import the setup workbook in **Data & rules**, then choose a scheduled match in **Fixture editor**. Its teams, date, venue, surface and round are already filled in. Details can be changed in the collapsed section. New fixtures receive a reference automatically.
+5. Select eight rostered players for each team. The four singles rows appear automatically; choose their players from the selected squad. Type a name fragment in each doubles slot and choose the matching player. Search accepts accents, aliases, skipped letters and small spelling mistakes. Each doubles squad member can be selected once.
+6. Fill the score grid: home on the top row, away underneath, with one column per set. Leave the third column empty for straight sets. In doubles, the third column contains match tiebreak points, such as 10 above 6. Retirement, walkover, default and optional set tiebreak details are in a collapsed section.
+7. Review the live rubbers/sets/games summary and choose **Save match results**. Winners and fixture status derive automatically from the scores. Validation blocks invalid entries, and tables and profiles rebuild automatically.
 8. Export `events.json` and replace `data/events.json` in the repository. Commit normally to publish. ChatGPT’s authenticated GitHub integration can commit it when requested; the deployed site does not write to GitHub.
 
 **Save is local to this browser, not publication.** A Local draft badge identifies local data. Browser storage retains a previous local save. Export a backup for durable preservation; local storage is not a remote account or multi-device sync. The Published data button discards the local draft and loads repository data after confirmation.
