@@ -1,44 +1,6 @@
-const CACHE_PREFIX="brta-power-ratings-";
-const CACHE_NAME=CACHE_PREFIX+"shell-v29";
-const SHELL_FILES=[
-  "./","index.html","site.css","future.css","style.css","archive.css?v=10","app.js?v=35","auxiliary-module.js?v=3","archive.js?v=10",
-  "prediction.js","pwa.js","data.js","manifest.webmanifest",
-  "assets/brta-logo.png","assets/brta-icon-180.png",
-  "assets/brta-icon-192.png","assets/brta-icon-512.png"
-];
-const scopedUrl=path=>new URL(path,self.registration.scope).href;
-self.addEventListener("install",event=>{
-  event.waitUntil((async()=>{
-    const cache=await caches.open(CACHE_NAME);
-    await cache.addAll(SHELL_FILES.map(scopedUrl));
-    await self.skipWaiting();
-  })());
-});
-self.addEventListener("activate",event=>{
-  event.waitUntil((async()=>{
-    const names=await caches.keys();
-    await Promise.all(names.filter(name=>name.startsWith(CACHE_PREFIX)&&name!==CACHE_NAME).map(name=>caches.delete(name)));
-    await self.clients.claim();
-  })());
-});
-async function networkFirst(request){
-  const cache=await caches.open(CACHE_NAME);
-  try{
-    const response=await fetch(request);
-    if(response.ok){await cache.put(request,response.clone());return response}
-    return await cache.match(request)||await cache.match(request,{ignoreSearch:true})||response;
-  }catch{}
-  return await cache.match(request,{ignoreSearch:true})
-    ||await cache.match(scopedUrl("index.html"))
-    ||new Response("You are offline. Reconnect to open BRTA Power Ratings.",{status:503,headers:{"Content-Type":"text/plain; charset=utf-8"}});
-}
-self.addEventListener("fetch",event=>{
-  const request=event.request;
-  if(request.method!=="GET")return;
-  const url=new URL(request.url);
-  const scope=new URL(self.registration.scope);
-  if(url.origin!==scope.origin||!url.pathname.startsWith(scope.pathname))return;
-  if(request.mode==="navigate"){event.respondWith(networkFirst(request));return}
-  if(!/\.(?:js|css|png|jpe?g|webmanifest)$/.test(url.pathname))return;
-  event.respondWith(networkFirst(request));
-});
+// Versioned shell only; canonical sporting data uses network-first retrieval.
+const CACHE='atp-cup-shell-v1';
+const FILES=['./','index.html','site.css','assets/icon.svg','src/app.js','src/admin.js','src/ui.js','src/store.js','src/config.js','src/scores.js','src/validation.js','src/derive.js','src/ratings.js','src/worker.js','src/prediction.js','data/events.json','manifest.webmanifest'];
+self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting())));
+self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
+self.addEventListener('fetch',e=>{if(e.request.method!=='GET'||new URL(e.request.url).origin!==location.origin)return;e.respondWith((async()=>{const c=await caches.open(CACHE);try{const r=await fetch(e.request);if(r.ok)await c.put(e.request,r.clone());return r;}catch{return await c.match(e.request)||(e.request.mode==='navigate'?await c.match('index.html'):new Response('Offline asset unavailable',{status:503}));}})());});

@@ -1,0 +1,15 @@
+export const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+export const fmt=n=>Number.isFinite(n)?Math.round(n).toLocaleString():'—';
+export const percent=(a,b)=>b?Math.round(100*a/b)+'%':'—';
+export const dateLabel=d=>d?new Date(d+'T00:00:00Z').toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric',timeZone:'UTC'}):'Date to be confirmed';
+export const badge=(role,rules)=>role?`<span class="badge role-${esc(role)}" title="${esc(rules.classifications[role])}">[${esc(role)}]</span>`:'';
+export const empty=(title,body='',action='')=>`<div class="empty"><span class="empty-mark">◌</span><h3>${esc(title)}</h3><p>${esc(body)}</p>${action}</div>`;
+export const button=(label,action,extra='')=>`<button data-action="${esc(action)}" ${extra}>${esc(label)}</button>`;
+export const teamName=(data,id)=>data.teams.find(t=>t.id===id)?.shortName||data.teams.find(t=>t.id===id)?.name||'To be decided';
+export const playerName=(data,id)=>data.players.find(p=>p.id===id)?.displayName||data.players.find(p=>p.id===id)?.fullName||id;
+export const teamLink=(data,id)=>id?`<a href="#/team/${encodeURIComponent(id)}">${esc(teamName(data,id))}</a>`:'To be decided';
+export const playerLink=(data,id)=>`<a href="#/player/${encodeURIComponent(id)}">${esc(playerName(data,id))}</a>`;
+export function table(headers,rows,{label='Data table',className=''}={}) {return `<div class="table-wrap ${className}" tabindex="0" role="region" aria-label="${esc(label)}"><table><thead><tr>${headers.map(h=>`<th scope="col">${esc(h)}</th>`).join('')}</tr></thead><tbody>${rows.join('')}</tbody></table></div>`;}
+export const row=(cells,attrs='')=>`<tr ${attrs}>${cells.map(c=>`<td>${c??'—'}</td>`).join('')}</tr>`;
+export const formChips=values=>`<span class="form-chips">${values.slice(-5).map(x=>`<span class="form-${x}">${x}</span>`).join('')||'—'}</span>`;
+export function chart(history,mode='singles'){const vals=history.filter(h=>Number.isFinite(h[mode]));if(!vals.length)return empty('No rating history yet','Ratings appear after completed ATP Cup rubbers.');const min=Math.min(...vals.map(v=>v[mode]))-40,max=Math.max(...vals.map(v=>v[mode]))+40,w=680,h=200,x=i=>40+(vals.length===1?.5:i/(vals.length-1))*620,y=v=>170-(v-min)/(max-min)*140,path=vals.map((v,i)=>`${i?'L':'M'}${x(i).toFixed(1)} ${y(v[mode]).toFixed(1)}`).join(' ');return `<svg class="rating-chart" viewBox="0 0 ${w} ${h}" role="img" aria-label="${esc(mode)} rating history from ${esc(vals[0].date)} to ${esc(vals.at(-1).date)}"><path d="M40 30H660M40 100H660M40 170H660" class="gridline"/><text x="0" y="35">${fmt(max)}</text><text x="0" y="173">${fmt(min)}</text><path d="${path}" class="chart-line"/>${vals.map((v,i)=>`<circle cx="${x(i)}" cy="${y(v[mode])}" r="3"><title>${esc(v.date)}: ${fmt(v[mode])}</title></circle>`).join('')}<text x="40" y="195">${esc(vals[0].date)}</text><text x="580" y="195">${esc(vals.at(-1).date)}</text></svg><details><summary>Rating history values</summary>${table(['Date','Singles','Doubles','Overall'],history.map(h=>row([esc(h.date),fmt(h.singles),fmt(h.doubles),fmt(h.overall)])))}</details>`;}

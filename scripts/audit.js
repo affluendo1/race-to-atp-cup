@@ -1,0 +1,2 @@
+import fs from 'node:fs';import {audit} from '../src/validation.js';
+const path=process.argv[2]||'data/events.json',report=audit(JSON.parse(fs.readFileSync(path,'utf8')),{strictSchedule:process.argv.includes('--strict-schedule')});for(const e of report.errors)console.error('ERROR '+e.path+': '+e.message);for(const e of report.warnings)console.log('NOTICE '+e.path+': '+e.message);console.log(`${report.errors.length} errors; ${report.warnings.length} completeness notices.`);if(report.errors.length)process.exitCode=1;
