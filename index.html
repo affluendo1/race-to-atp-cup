@@ -1,3 +1,57 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta id="theme-color" name="theme-color" content="#0b1523"><meta name="description" content="Manually curated fictional professional tennis analytics."><link rel="icon" href="assets/icon.svg" type="image/svg+xml"><link rel="manifest" href="manifest.webmanifest"><link rel="stylesheet" href="site.css"><title>Tennis analytics</title></head>
-<body><a class="skip" href="#main">Skip to content</a><header class="header"><a class="brand" href="#/home"><img src="assets/icon.svg" alt=""><span id="brand">Tennis analytics</span></a><div class="header-controls"><label class="sr-only" for="season">Season</label><select id="season"></select><button id="theme" aria-label="Toggle colour theme">◐</button></div></header><div class="nav-wrap"><nav id="nav" aria-label="Main navigation"></nav></div><div class="search-bar"><label for="global-search">Search</label><input id="global-search" type="search" placeholder="Players, teams, seasons, fixtures" autocomplete="off"><div id="search-results" class="search-results" hidden></div><span id="draft-status"></span></div><main id="main" tabindex="-1"><p class="loading">Loading competition data…</p></main><footer id="footer"></footer><dialog id="detail"><button class="close" aria-label="Close profile">×</button><div id="detail-body"></div></dialog><div id="toast" role="status" aria-live="polite"></div><script type="module" src="src/app.js"></script></body></html>
+<html lang="en" data-theme="dark" data-interface="future" data-accent="yellow">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta id="themeColor" name="theme-color" content="#101109">
+  <meta name="application-name" content="ATP Cup">
+  <meta name="mobile-web-app-capable" content="yes">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="future.css">
+  <link rel="stylesheet" href="atp.css">
+  <title>ATP Cup</title>
+</head>
+<body>
+<header class="site-header">
+  <div class="brand-block">
+    <img class="brand-logo" src="assets/icon.svg" alt="ATP Cup" width="76" height="76">
+    <div class="brand-copy">
+      <div class="brand" id="brand">ATP Cup</div>
+      <div class="subtitle" id="sectionSubtitle">Race to ATP Cup · Manual competition data</div>
+    </div>
+  </div>
+  <div class="header-actions">
+    <button id="roundBtn" class="button secondary" type="button">Latest round</button>
+    <button id="adminLaunch" class="button secondary" type="button">Manual data</button>
+    <button id="theme" class="button secondary" type="button">Theme</button>
+  </div>
+</header>
+<main class="wrap">
+  <section class="section-picker" aria-label="ATP Cup season">
+    <div class="section-choice">
+      <span class="choice-label">Competition</span>
+      <div class="choice-trigger choice-static"><span id="competitionLabel">ATP Cup</span></div>
+    </div>
+    <div class="section-choice">
+      <label class="choice-label" for="season">Season</label>
+      <select id="season" class="choice-trigger" aria-label="Season"></select>
+    </div>
+    <div class="section-picker-footer">
+      <span class="section-count" id="sectionCount">Loading season data…</span>
+      <span id="draft-status"></span>
+    </div>
+  </section>
+  <section class="status-strip" id="statusStrip"></section>
+  <nav id="nav" class="main-nav" aria-label="Main navigation"></nav>
+  <div class="atp-search"><label for="global-search">Search</label><input id="global-search" type="search" placeholder="Players, teams, seasons, fixtures" autocomplete="off"><div id="search-results" class="search-results" hidden></div></div>
+  <section id="main" class="atp-main"><p class="loading">Loading competition data…</p></section>
+</main>
+<footer id="footer" class="site-footer"><span><b>ATP Cup</b> · Fictional alternate-history professional tennis</span><span>Manually curated competition data.</span></footer>
+<div id="detail" class="overlay hidden" role="dialog" aria-modal="true" aria-label="ATP Cup detail">
+  <div class="overlay-backdrop" data-detail-close="1"></div>
+  <aside class="profile-sheet atp-overlay-sheet"><button class="close-btn" aria-label="Close">×</button><div id="detail-body"></div></aside>
+</div>
+<div id="toast" role="status" aria-live="polite"></div>
+<script type="module" src="src/app.js"></script>
+</body>
+</html>
